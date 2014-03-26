@@ -1,91 +1,124 @@
-> *The following text is extracted and transformed from the bizu.tv privacy policy that was archived on 2013-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130721142219id_/http%3A//www.bizu.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizu.tv privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326222633id_/http%3A//bizu.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-BizuTV LLC (“BTV”, “we”, “our”, or “us”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive via our Service (as defined in the Terms of Service available at <http://www.bizu.tv/terms-of-service>). 
+_This policy was last updated on March 3, 2014_
 
-This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting a notice on our Website. Your use of the Service following any such notice will signify and constitute your assent to and acceptance of such revised Privacy Policy. Unless otherwise defined in this Privacy Policy, capitalized terms used herein have the same meanings as in our Terms of Service. 
+**INTRODUCTION:**   
+This Privacy Policy describes how IBT Media Inc. and its affiliated United States subsidiaries (collectively, "Company," "us" or "we") may collect and use your personally identifiable information ("PII") (e.g., your full name, email address, mailing address, telephone number, or credit card number), as well as data that can, under certain circumstances, indirectly lead to PII ("Related Data") on its Web sites and other applications.
 
-This Privacy Policy does not apply to the products or services of any third parties, even if their products or services are linked to, or embedded within, our Service. For example, we may provide social media features as part of our Service that enable you to share information with your social networks. Your use of these features may result in the collection or sharing of information about you, depending on the feature. We recommend that you review the privacy statements of the other parties with whom you interact before submitting any information to them. 
+This Policy applies to PII and Related Data (collectively, your "information") received by us from consumers when you visit, register or subscribe to the online editions of IBT Media Inc (bizu.tv) and related services or sites that link to this Privacy Policy.
 
-1\. INFORMATION COLLECTION AND USE
+From time to time Company may revise this Privacy Policy. If we make revisions that change the way we collect or use your PII or Related Data, those changes will be posted in this Privacy Policy and the effective date will be noted at the beginning of the Policy. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. If we make material changes to our practices regarding use of your PII or Related Data, your PII and Related Data will continue to be governed by the Privacy Policy under which it was subject prior to those changes, unless you have been provided notice of, and have not objected to, the changes. Notice of a significant or material change in the way we use your personal information will be made to registered users via e-mail.
 
-For the purposes of this Privacy Policy, “Personal Information” means information that can be used to uniquely identify you, such as your name, LinkedIn username, address, and e-mail address.
+**INFORMATION THAT WE COLLECT:**
 
-Personal Information We Collect
+**Generally:** When you subscribe to our products or services, we collect PII and Related Information from you. We also may collect PII and Related Information from you when you contact us about your subscriptions or participate in activities like: our resume database; job searches; forums; message boards; chats; submitting a letter to the editor; forwarding an article to a friend; creating a community profile; rating, tagging and commenting on articles; or surveys, sweepstakes, contests, or games. When you visit our web sites, we automatically collect non PII such as IP addresses and web site usage information from you.
 
-When you interact with us, we may ask you to supply us with Personal Information. For example, when you create an account with us, participate in a survey, or otherwise use our Service, we may ask you to provide information such as your name, address, and/or e-mail address. 
+In compliance with COPPA, we do not, however, knowingly collect or store PII from children under the age of thirteen.
 
-If you connect with the Service via a social network platform (“SNP”) such as, without limitation, LinkedIn, the SNP will provide us with information, including Personal Information, about you, and we will treat that information in accordance with this Privacy Policy. The information we receive from an SNP may depend on the privacy settings you have with the SNP, so please check the SNP’s privacy and data practices before causing your SNP to connect with our Service.
+Sometimes we collect personally identifiable information from consumers in manual format or off-line, for example via a post card or subscription form. Providing detailed notice in those situations often proves impractical, so consumers will instead be provided with a short notice that describes how to obtain the full text of this Policy and other relevant information from us.
 
-Our Use of Your Personal Information
+When you provide PII to us, we will make sure you are informed about the types of uses we will make of the information to the extent it is being used in a manner that differs from what is allowed pursuant to this Privacy Policy. We'll collect only as much personal information as we need for specific, identified purposes, and we won't use it for other purposes without obtaining your consent.
 
-We mainly use your Personal Information, either alone or in combination with other information, so that we can provide, enhance and personalize our Service and related content, products, services, and marketing efforts. 
+**Cookies, Web Beacons, And Other Similar Technologies:** Cookies are small bits of information that our web sites place on the hard drive of your computer. We use cookies to, among other things, facilitate our login processes; allow you to personalize and store your settings; collect usage information; determine our total audience size and traffic; and help us improve our sites by measuring which areas are of greatest interest to users. No personally identifiable information is placed in these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form.
 
-The following are examples of a variety of ways that we may use your Personal Information. We may use your Personal Information:  
-* to provide you with the best user experience possible;  
-* to respond to your questions, and carry out the transactions you have requested;  
-* to communicate with you regarding Service updates, offers, alerts, promotions, and events and/or about your Content and/or payments;  
-* to help us develop, customize, deliver, support and improve our Service, products, content, and advertising;  
-* to help authenticate any account you create with us;  
-* to administer promotions and contests;  
-* to protect the rights or property of BTV or our users, and prevent fraud and other prohibited or illegal activities;  
-* to protect the security of our products, services, and business;  
-* for our internal purposes (such as auditing, data analysis, and research to improve our products, services, and communications); and otherwise, as disclosed to you at the point of collection.
+Third party advertisements displayed on our sites may also contain cookies set by Internet advertising companies or advertisers. We do not control these cookies and visitors to our web sites should check the privacy policy of the advertiser to see whether and how it uses cookies. (See the "Notice" section below for more information on third party advertisements).
 
-If you decide at any time that you no longer wish to receive communications from us, please follow any unsubscribe instructions that may be provided in our communications to you, or send an e-mail request to us at the following e-mail address: [privacy@bizu.tv](mailto:privacy@bizu.tv). Please note that we may use your Personal Information to contact you with important notifications, such as notices with respect to safety, payments, or changes to our terms, conditions, and policies; you may not opt out of these notifications.
+You can set the browser on your computer to warn you each time a cookie is being sent, block third party cookies or block all cookies. However, by blocking all cookies you may not have access to certain features on our web sites. We also use web beacons (invisible images often referred to as pixel tags or clear GIFs) on our sites in order to recognize users and assess traffic patterns, and we include web beacons and cookies in our e-mail messages, including newsletters, in order to count how many e-mail messages have been opened. Users wishing to disable our web beacons should do so by turning images "off" in their email client (e.g., Outlook, Outlook Express). Please see your email client for more information.
 
-Public Forums & Content-Sharing Features
+When you view an ad for our publications on other sites, our third-party advertising company may place or recognize a unique cookie on your browser. We and our advertising company may also use web beacons (invisible images often referred to as pixel tags or clear GIFs) to note which pages you visit after viewing our ads. The information that is collected through the use of these images is not personally identifiable and is used only to track response to our advertising efforts.
 
-We may offer video features, message boards, commenting features, or similar public forums where you and other users of our Service can publicly post Content or otherwise communicate. For example, the Service may include features and functionalities that allow users to post or otherwise share user generated videos. The protections described in this Privacy Policy do not apply when you provide information (including personally identifiable information about any person) in connection with your use of the public forums and information-sharing features we make available. Any information you share in a public forum, including without limitation all information in videos you provide for display on the Service, is public information and may be seen or collected by other persons, including third parties that do not adhere to the standards set forth in this Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Service. 
+We may use cookies and similar tools to relate your use of our web sites to PII obtained from you or a reputable third party. For example, if you've asked us to send you information about our upcoming products or promotions, cookie and/or click stream data about your activities on our web sites may allow us to limit the materials we send you to items we think you will find interesting, based on your prior online activities and preferences. However, if we wish to combine your personal and cookie or click stream information in this manner, we will obtain your express affirmative consent.
 
-Collection and Use of Non-Identifying Information
+**Third Party Ad Servers:** Some of the advertisements and other services that appear on our web site(s) are delivered to you by Internet advertising companies. These companies utilize certain technologies including cookies to deliver advertisements and marketing messages and to collect anonymous information about your visit to our sites and other web sites. If you would like more information about this practice or to opt out of having this information used by companies that are part of the Network Advertising Initiative to provide targeted ads, please visit <http://www.networkadvertising.org/choices/>
 
-We may collect, use, transfer, and disclose information in a form that does not personally identify you (“Non-Identifying Information”) for any purpose. Non-Identifying Information can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous. We and/or our third party service providers obtain Non-Identifying Information about you from information that you provide us, either separately or together with your Personal Information. We and/or our third party service providers also automatically collect certain Non-Identifying Information from you when you access our Service or, in some cases, when you link your account on the Service with an SNP.
+**NOTICE:**
 
-Certain Non-Identifying Information about you would be considered a part of your Personal Information if it were combined with other identifiers in a way that enables you to be identified. However, the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other Non-Identifying information. We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other users or sources to attempt to provide you with a better experience, to improve the quality and value of our products and services, and to analyze and understand how our products and services are used. We may also use the combined information without aggregating it to serve you specifically. 
+**Third Party Web Sites:** Our web sites link to web sites operated by other companies. Some of these third party sites may be co-branded with Company or feature the Company logo, even though they are not operated or maintained by us. For example, the Business & Hire section of International Business Times online offers a collection of third party services, such as career counseling, reference checks, recruiter databases and other services, through such links.
 
-Non-Identifying Information We Automatically Collect 
+We're not responsible for the privacy practices of web sites operated by third parties that are linked to or integrated with our sites or for the privacy practices of third party Internet advertising companies. Once you've left our site via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any PII they collect from you.
 
-When you access our Service, we and our third-party service providers may use a variety of technologies and methods, now and hereafter devised, that automatically record certain usage information. This information may include your Internet Protocol address (and other unique identifiers for the particular device you use to access the Internet), browser type, your web or application request, your interaction with our Service, the webpage or other feature you were using before you came to our Service, pages of our Website that you visit, information you search for via our Service, access times and dates, and other similar information. We use this information for a variety of purposes, including analyzing and enhancing our products and services, and to help personalize our Service for you. We do not treat this information as Personal Information (except to the extent required by local law), although if we combine it with the Personal Information you provide, we will treat the combined information as Personal Information. We and our third-party service providers may automatically collect Non-Identifying Information using various methods, including, without limitation, cookies. 
+Our web sites may also be linked to sites operated by companies affiliated with us (i.e., that are part of the News America Group ("Affiliated Companies"). Although all Affiliated Companies adhere to our privacy principles, visitors to those Affiliated Company sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Privacy Policy.
 
-A cookie is a small data file transferred to your computer (or other device) when it is used to access our Service. Cookies may be used for many purposes, including to enable certain features of our Service, to better understand how you interact with our Service and to monitor aggregate usage by visitors and online traffic routing. You may be able to instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the online services you visit. If you do not accept cookies, however, you may not be able to use all portions of our online services or all functionality of our online services. 
+**USE: HERE'S HOW WE USE PII OR RELATED DATA:**
 
-2\. INFORMATION SHARING AND DISCLOSURE
+**Generally:** We may use information in the following ways:
 
-Except as described in this Privacy Policy, we will not share your Personal Information with other companies or individuals outside of BTV unless we have received your consent. Non-Identifying Information may be provided to third parties for marketing, advertising, or other uses.
+• For the purposes for which you specifically provided it including, without limitation, to enable us to process and fulfill your subscription or other requests  
+• To send you information about your relationship or transactions with us  
+• To notify you about our products, services, and special offers  
+• To otherwise contact you with information that we believe will be of interest to you  
+• To enhance or develop features, products and services  
+• To provide advertisers and other third parties with aggregate information about our subscribers, web site user base and usage patterns  
+• To allow us to personalize the content and advertising that you and others see on our web sites  
+• To allow other select companies to send you promotional materials about their products and services (that is, unless you've told us not to do so (see Choice below)
 
-Our Service Providers and Other Third Parties
+Information about your activities on our sites and other non-personally identifiable information about you may be used to limit the online ads you encounter to those we believe are consistent with your interests. We may combine the information that we collect from you with information that you provide to us in connection with your use of other Company products, services and web sites, or information we collect from third parties.
 
-We may engage third party companies and individuals to perform services on our behalf (e.g., without limitation, payment processing, software maintenance services, e-mail notifications, database management, web analytics and other services). These third parties may have access to your Personal Information. If they do, this access is provided so that they may perform these tasks on our behalf and they are not authorized by us to otherwise use or disclose your Personal Information, except to the extent required by law. 
+**Sharing your Information:** set forth below, or if we inform you otherwise at the time of data collection, we will not share your PII or Related Data outside of Company.
 
-Compliance with Laws, Legal Process and Authorities
+**Affiliates:** We may share your PII with companies that are affiliated with us, that is, are part of the News America Group of companies.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of us or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable.  
-Data Transfer
+**Service Providers and Agents:** We may share your PII and Related Data with agents, contractors or partners of Company in connection with services those entities are providing for Company, including, without limitation, facilitating some aspects of our web sites, sending e-mail, fulfilling purchase requests, delivering subscriptions, serving, customizing or delivering marketing or ads, and auditing. These other companies may use your PII and Related Data solely for the purpose of providing these services to us or on our behalf.
 
-BTV processes Personal Information on servers located in the United States of America. Your Personal Information may be transferred to, and used by, entities located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. Such export is a requirement of providing your information to BTV, and you hereby authorize and consent to such export. 
+**Special Circumstances:** There may be instances when we may disclose PII or Related Data without providing you with a choice in order to protect the legal rights of Company, other companies within the News America Group, or their respective employees, agents and contractors; to protect the safety and security of visitors to our web sites; to protect against fraud or for risk management purposes; or to comply with the law or legal process. In addition, if Company sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may transfer your PII to a third party as part of that transaction.
 
-Business Transfers
+**Corporate, Third-Party, and Student Subscriptions:** If your subscription is provided in whole or in part by your employer or other third party, we may notify the provider when you access or use your subscription. If you have a student subscription associated with a professor or school, we may notify your professor or school to confirm your subscription, access or use. When providing these notices, we may reveal limited amounts of your personally identifiable information such as your name or email address.
 
-Circumstances may arise where, whether for strategic or other business reasons, we may sell, transfer or otherwise disclose some or all of our assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. It’s BTV’s practice to seek appropriate protection for information in these types of transactions.
+**Third Party Promotional Offers:** If you subscribe to our print publications, we may share your contact information with other companies whose products and services may be of interest to you. While many of our subscribers appreciate receiving offerings from these companies, if you prefer that we do not share your information for this purpose, please see "Choice" for instructions on how to tell us not to share your information.. The Company complies fully with the federal CAN-SPAM Act of 2003. We will not sell, rent, swap, or authorize any third party to use your personally identifiable information for such party's own marketing purposes, unless you choose in advance to have your personally identifiable information shared for this purpose.
 
-3\. GENERAL.
+**Social Network and Interactive Tools:** Certain features on our web sites give you an opportunity to interact with us and others. These may include forums, message boards, chats, submitting a letter to the editor, creating community profiles, and rating, tagging and commenting on articles. When you use these features you should be aware that any information you submit, including your name, location and e-mail address, may be publicly available to others. We are not responsible for any information you choose to submit through these interactive features.
 
-Changing or Deleting Your Information
+When an individual chooses to post information that will be publicly disclosed, he or she is responsible for ensuring that such information conforms to all local data protection laws. We are not responsible under any data protection laws for user posted information.
 
-BTV makes good faith efforts to enable features on the Service that provide individuals with reasonable access to Personal Information that they have provided to BTV and the reasonable ability to review and correct it or ask for deletion, as applicable, if it is not otherwise required to be retained by law or for legitimate business purposes. To view and change certain Personal Information that you have directly provided to BTV via the Service, you can log in to your user account on the Website, or contact BTV via e-mail to [privacy@bizu.tv](mailto:privacy@bizu.tv). Please note we may retain server/backup copies of all such data, and that we may decline to process change or deletion requests that we deem to be unreasonable, or require disproportionate technical effort, or jeopardize the privacy of others. 
+**Non PII:** Anonymous click stream, number of page views calculated by pixel tags, and aggregated or de-identified demographic information may also be shared with our advertisers and business partners.
 
-Security 
+**CHOICE: WE WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII**
 
-We employ appropriate security measures to protect your Personal Information from unauthorized access, alteration, disclosure, or destruction. These security measures include administrative, technical, and physical precautions to safeguard your Personal Information against loss, theft, and misuse. Please be advised, however, that while we strive to protect your Personal Information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction or inadvertent disclosure of your personally identifiable information.
+To opt out of receiving marketing from the Company or its Third Party Promotional partners, or to otherwise update your preferences, you must do so for each of our publications separately, as indicated below:
 
-Our Policy Toward Children
+**International Business Times Online and any other IBT Media properties:**   
+To opt out of receiving marketing from International Business Times Online, if you are a subscriber visit our Member Center. Others may notify us by contacting Customer Service at [info@ibtimes.com](mailto:info@ibtimes.com)
 
-We do not knowingly collect personally identifiable information from children under 13 via our Service, and do not target our Service to children under 13. We encourage parents and guardians to take an active role in their children’s online activities and interests. 
+If you are a current subscriber of any of our publications, please remember to include your account number and phone number in the body of your e-mail or letter, and if you choose to opt-out via e-mail, please include "Opt-out" in the subject line.
 
-Contacting Us 
+We reserve the right to disclose your opt-out information to third parties so they can suppress your name from future solicitations, in accordance with applicable laws.
 
-If you have any questions about this Privacy Policy, please feel free to contact us via e-mail to [privacy@bizu.tv](mailto:privacy@bizu.tv).
+**ACCESS: HOW TO ACCESS, CORRECT OR UPDATE YOUR PII**   
+You may review and update the PII that you have provided to us by contacting Customer Service for each of our publications, as indicated below. Most subscribers also can update their information online by signing on to their accounts and visiting the appropriate account management sections. Please note that if you have subscribed or registered for our print and online editions, or for more than one of our publications or services, you must update your information for each separately.
 
-Privacy Policy Effective Date: December 12, 2012
+**International Business Times Online and any other IBT Media properties:**   
+Subscribers may contact Customer Service at [info@ibtimes.com](mailto:info@ibtimes.com) Most subscribers to International Business Times Online may also update their information by going to Member Center.
+
+**SECURITY: WE PROTECT THE SECURITY OF PII**   
+We use commercially reasonable administrative, technical, personnel and physical measures to safeguard PII and Related Data in our possession against loss, theft and unauthorized use, disclosure or modification. Please note that no method of transmission over the Internet, or method of electronic storage, is 100% secure.
+
+**DATA RETENTION**   
+We retain your information for as long as necessary to permit us to use it for the purposes that we have communicated to you and comply with applicable law or regulations.
+
+**TRANSFER TO US OR OTHER COUNTRIES**   
+Your information may be stored and processed in the United States, in Slovakia or in any country where Company has facilities, and by subscribing to and/or using our publications, you consent to the transfer of information outside of your country, except in the case of data transfers from the European Economic Area or Switzerland, which are covered under the EU and Swiss Safe Harbor Frameworks.
+
+**REMEDIES AND COMPLIANCE: HOW TO CONTACT US ABOUT PRIVACY CONCERNS**   
+If you have any questions, comments or concerns about our Privacy Policy or the Principles, please visit our CONTACT US page for IBT Media.
+
+**Your California Privacy Rights**
+
+Under the California "Shine The Light" law, California residents may opt-out of the Company's disclosure of personal information to third parties for their direct marketing purposes. As detailed above, you may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by e-mailing us at [info@ibtimes.com](mailto:info@ibtimes.com) for IBT Media properties or [newsweek@emailcustomerservice.com](mailto:newsweek@emailcustomerservice.com) for Newsweek. It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes, including but not limited to subscription management.
+
+**SAFE HARBOR PRIVACY PRINCIPLES**
+
+The Company adheres to the Safe Harbor Frameworks concerning the transfer of personal data from the European Union and Switzerland to the United States of America. Accordingly, we follow the Safe Harbor Privacy Principles published by the U.S. Department of Commerce (the “Principles”) with respect to all such data. The Company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. This privacy policy outlines our general policy and practices for implementing the Principles, including the types of information we gather, how we use it and the notice and choice you have regarding our use of and your ability to correct that information. For more information about the Safe Harbor Privacy Principles, please visit the U.S. Department of Commerce’s Safe Harbor website at <http://export.gov/safeharbor/>.
+
+**Safe Harbor Enforcement and Dispute Resolution**
+
+In compliance with the US-EU Safe Harbor and U.S. Swiss Safe Harbor Privacy Principles, the Company is committed to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact the Company at:
+
+General Counsel  
+IBT Media Inc  
+7 Hanover Square, 5th Floor  
+New York, NY 10004  
+E-mail: [i.maytal@ibtimes.com](mailto:i.maytal@ibtimes.com)
+
+We are further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Privacy Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by the Company, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
