@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aveda.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014131717id_/http%3A//www.aveda.com/cms/customer_service/privacy.tmpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aveda.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326073047id_/http%3A//www.aveda.com/cms/customer_service/privacy.tmpl) for the most accurate reproduction.*
 
 # Aveda - Customer Service - Privacy Policy
 
-**Effective Date: 7/22/2013**
+**Effective Date: 10/16/2013**
 
 Aveda Corporation United States Privacy Policy
 
@@ -96,7 +96,7 @@ You can ask Aveda to stop sending you marketing communications by postal mail by
 
 •  Text Message Opt-Out
 
-If you so elect, you may provide your mobile phone number in order to receive text message alerts containing product and event information, cosmetics tips or promotions ("Text Messages"). There is no fee from Aveda to receive Text Messages, however, your mobile service provider may charge you for sending and/or receiving text messages and air-time, as well as any other standard applicable rates charged by your mobile service provider. Participating Carriers are: 
+If you so elect, you may provide your mobile phone number in order to receive text message alerts containing product and event information, cosmetics tips or promotions that may be sent using automated dialing systems ("Text Messages"), and your election to receive Text Messages is not otherwise required to purchase any goods or services from us. There is no fee from Aveda to receive Text Messages, however, your mobile service provider may charge you for sending and/or receiving text messages and air-time, as well as any other standard applicable rates charged by your mobile service provider. Participating Carriers are: 
 
 SMS messages are distributed via third party mobile network providers and, therefore, we cannot control certain factors relating to message delivery or guarantee availability or performance of this service, including liability for transmission delays or message failures. **To receive help with Text Messages, you can either text the word "Help" to AVEDA (28332) or call 1.800.644.4831 or email[AvedaOnlinetech@aveda.com](mailto:AvedaOnlinetech@aveda.com).
 
