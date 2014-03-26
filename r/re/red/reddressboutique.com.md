@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reddressboutique.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203212922id_/http%3A//www.reddressboutique.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reddressboutique.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326223604id_/http%3A//www.reddressboutique.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Red Dress Boutique
 
