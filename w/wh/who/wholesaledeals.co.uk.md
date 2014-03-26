@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesaledeals.co.uk privacy policy that was archived on 2013-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131004043958id_/http%3A//www.wholesaledeals.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesaledeals.co.uk privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326181222id_/http%3A//www.wholesaledeals.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Wholesale Deals Privacy Policy
 
@@ -27,6 +27,9 @@ we employ companies to perform some functions on our behalf. Examples include pr
 
 _Links to other websites:_  
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+_Remarketing:_  
+We use AdWords remarketing to market our sites across the web. We place a cookie on a browser, and then a 3rd party (Google) reads these cookies and may serve an ad on a 3rd party site. You may opt out of this ad serving on Google's opt out page. If you are concerned about 3rd party cookies served by networks, you should also visit the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Our commitment:**
 
