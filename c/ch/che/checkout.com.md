@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkout.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809105523id_/http%3A//www.checkout.com/policies.php%23privacyAnc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkout.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326141757id_/https%3A//www.checkout.com/policies.php%23privacyAnc) for the most accurate reproduction.*
 
 # Checkout - Online Payments
 
@@ -120,3 +120,7 @@ In no event will Checkout Ltd be liable for any loss or damage including without
 Through this website you are able to link to other websites which are not under the control of Checkout Ltd. Checkout Ltd have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
 
 Every effort is made to keep the website up and running smoothly. However, Checkout Ltd takes no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond their control.
+
+Goods and services offered by Checkout.com Merchants are not provided by a person or entity, run by WebMoney Transfer System. Checkout.com hereby acts as an independent entity providing services and making independent decisions on pricing and offers. Checkout.com Merchants, running WebMoney Transfer System do not receive any commission, interest fees or any other award or refund for the provided goods or services and are not liable for Checkout.com activities.
+
+Verification, performed by WebMoney Transfer System only confirms the accuracy of Checkout.com Contact Details and proves Checkout.com identity. Verification is performed by Checkout.com own free will and doesn't mean or show Checkout.com connection to the commercial activity of WebMoney Transfer System Operators.
