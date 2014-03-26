@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the kiwibox.com privacy policy that was archived on 2013-09-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130927004814id_/http%3A//www.kiwibox.com/registration/dialog/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kiwibox.com privacy policy that was archived on 2014-03-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140326132432id_/http%3A//www.kiwibox.com/registration/dialog/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><head>
 <title> | Kiwibox Community | Kiwibox Community</title>
 <meta name="keywords" content="community, free, find friends, communicate, social network">
 <meta name="google-site-verification" content="hxgRT7lNYjcqy1nA2kZVHLdDLGLPZaof5BQp3r8Pxyw">
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta property="og:title" content=" | Kiwibox Community">
 <meta property="og:site_name" content="Kiwibox Community">
 <meta property="og:description" content="community, free, find friends, communicate, social network">
@@ -13,7 +14,7 @@
 <meta property="og:url" content="http://www.kiwibox.com/registration/dialog/privacy/">
 <meta property="og:image" content="http://img.kiwibox.com/live/web/gfx/logo_200.jpg">
 <meta property="fb:app_id" content="102384689817119"><meta name="viewport" content="width=1000">
-<link rel="stylesheet" type="text/css" media="screen" href="http://img.kiwibox.com/live/web/css/default_1378199618.css">
+<link rel="stylesheet" type="text/css" media="screen" href="http://img.kiwibox.com/live/web/css/default_1394794558.css">
 <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Miltonian+Tattoo|Terminal+Dosis+Light|Pacifico|Slackey|Dancing+Script|Calligraffitti|Rock+Salt|Lobster|MedievalSharp|Crafty+Girls|Tangerine">
 
 <meta name="robots" content="index,follow">
@@ -52,7 +53,7 @@
 <header class="pageHeader">
 <div class="pageLogo">
 <h2>
-<a title="to starpage" href="/">
+<a title="Home" href="/">
 Kiwibox Community
 </a>
 </h2>
@@ -67,6 +68,9 @@ Kiwibox Community
 </li>
 <li class="pageNavItem">
 <a href="/community/members/">Search</a>
+</li>
+<li class="pageNavItem">
+<a href="/magazine/">Magazine</a>
 </li>
 <li class="pageNavItem">
 <a href="/nightlife/">Events/Pics</a>
@@ -275,6 +279,7 @@ var env = "default";
 var urlIcons = "http://img.kiwibox.com/live/web/ic/";
 var ads = {};
 var urlAd = "http:\/\/img.kiwibox.com\/i\/index.html";
+var usePostMessage = 0;
 var urlImg = "http://img.kiwibox.com/live/web/";
 var urlGfx = "http:\/\/img.kiwibox.com\/live\/web\/\/gfx\/";
 var nominiprofile = 0;
@@ -282,7 +287,7 @@ var langs = {};
 
 /* ]]> */</script>
 
-<script src="http://img.kiwibox.com/live/web/js/default_en_1380012561.js" type="text/javascript" charset="utf-8"></script>
+<script src="http://img.kiwibox.com/live/web/js/default_en_1395742405.js" type="text/javascript" charset="utf-8"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 if (typeof(window.autoloadLangs) === "function") {
@@ -296,7 +301,10 @@ SC.systemInfo($("input[name=flashInfo]"), $("input[name=jsInfo]"), $("input[name
 SC.warn(e);}
 $(function() {
 try {
-SC.ads.setReloadInterval(15).setZones({"sky":{"src":"\/registration\/dialog","keyword":"zone:65"},"bs":{"src":"\/registration\/dialog","keyword":"zone:49"},"layer":{"src":"\/registration\/dialog","keyword":"zone:376"}}).init();} catch (e) {
+SC.googleanalytics.initAnalytics({"clientId":"UA-11355142-1","logPage":"\/registration\/dialog"});} catch (e) {
+SC.warn(e);}
+try {
+SC.ads.setReloadInterval(5).setZones([]).init();} catch (e) {
 SC.warn(e);}
 try {
 $('#systemLocaleSwitch').scDropDown([{"caption":"English (US)","click":function() { setLocale('en_US'); }},{"caption":"English (UK)","click":function() { setLocale('en_GB'); }},{"caption":"Espa\u00f1ol (US)","click":function() { setLocale('es_US'); }}], {shadeParent: false});} catch (e) {
@@ -313,9 +321,6 @@ SC.namespace('deploy').stage = 'www';} catch (e) {
 SC.warn(e);}
 try {
 SC.facebook.init('102384689817119', 'http://www.kiwibox.com/facebook/connect/channel/', 'en_US');} catch (e) {
-SC.warn(e);}
-try {
-SC.googleanalytics.initAnalytics({"clientId":"UA-11355142-1","logPage":"\/registration\/dialog"});} catch (e) {
 SC.warn(e);}
 });/* ]]> */
 </script>
