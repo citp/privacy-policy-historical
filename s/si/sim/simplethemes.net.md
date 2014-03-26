@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the simplethemes.net privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806184531id_/http%3A//www.simplethemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplethemes.net privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326102710id_/http%3A//www.simplethemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-##  Our Commitment to Your Privacy
+### Our Commitment to Your Privacy
 
 This site is owned and operated by Simple Themes, LLC. Your privacy on the Internet is of the utmost importance to us. At Simple Themes, LLC, we want to make your experience online satisfying and safe.
 
