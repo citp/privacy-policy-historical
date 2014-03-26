@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qad.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530141557id_/http%3A//www.qad.com/portal/site/erp/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qad.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326032407id_/http%3A//www.qad.com/erp/Privacy-Policy) for the most accurate reproduction.*
 
 # Enterprise Software Solutions: ERP, MRP, Lean Manufacturing | QAD Business Software
 
