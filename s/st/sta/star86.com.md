@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the star86.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116075205id_/http%3A//www.star86.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the star86.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326224755id_/http%3A//www.star86.com/content/index/about-privacy) for the most accurate reproduction.*
 
-# STAR 86 VIRTUAL WORLD GAME
+# 
 
 A big Star86 welcome to parents, teachers and other concerned adults. Our website, Star86.com, is hosted by Podscape Holdings Ltd., a New Zealand company with offices at 114 St Georges Bay Rd, Parnell, Auckland 1052, New Zealand. On this site kids can participate in a virtual online environment, giving them the opportunity to explore a virtual universe. With parental permission we also provide kids with the ability to have controlled communications, using limited and moderated chat messages with other kids. In this policy we describe what information we collect, how we collect it, and what we do with it (the policy covers only information collected and used on Star86.com). 
 
