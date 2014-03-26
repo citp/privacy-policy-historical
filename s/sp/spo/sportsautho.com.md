@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsautho.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217013059id_/http%3A//www.sportsautho.com%3Fpage_id%3D336) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsautho.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326201943id_/http%3A//www.sportsautho.com%3Fpage_id%3D336) for the most accurate reproduction.*
 
 # Privacy Policy « Sports Agent Blog | Sports Agent News, Contract Negotiation, Sports Law, Sports Business
 
