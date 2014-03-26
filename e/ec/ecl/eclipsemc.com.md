@@ -1,13 +1,9 @@
-> *The following text is extracted and transformed from the eclipsemc.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506000137id_/https%3A//eclipsemc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eclipsemc.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326171925id_/https%3A//eclipsemc.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Eclipse Mining Consortium
 
-Active Miners | Round Duration | Round Shares | Current Speed | US1 | US2 | US3  
----|---|---|---|---|---|---  
-1933 | 02:00:26 | 1516959 | 2.86 TH/s | 1321.89 GH/s | 796.82 GH/s | 757.66 GH/s  
-PPS Rate: 0.00000236 /sh | Difficulty: 10076293 | Last Trade: $115.98 | Daily Avg: $114.0034 USD  
----|---|---|---  
-  
+## Privacy policy
+
 **What information do we collect?**  
 We collect information from you when you register on our site.   
 When registering on our site, you may be asked to enter your: name, e-mail address, mailing address, phone number, bitcoin or namecoin wallet ID. You may, however, visit our site anonymously.
