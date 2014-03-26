@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axway.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926132120id_/http%3A//www.axway.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axway.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326214258id_/http%3A//www.axway.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Axway - Global
 
@@ -91,7 +91,7 @@ The Site Publisher’s employees, who due to their position may have access to Y
 
 ### 9) Safe Harbor
 
-Site Publisher complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Site Publisher. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Site Publisher’s certification, please visit <http://www.export.gov/safeharbor/>
+Site Publisher complies with the U.S.-EU Safe Harbor Framework and the U.S.  – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Site Publisher has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor programs, and to view Site Publisher’s certification, please visit <http://www.export.gov/safeharbor/>
 
 ### 10) Dispute Resolution
 
