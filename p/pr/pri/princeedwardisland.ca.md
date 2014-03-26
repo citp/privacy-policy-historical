@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the princeedwardisland.ca privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204230511id_/http%3A//www.tourismpei.com/copyright-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the princeedwardisland.ca privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326234409id_/http%3A//www.tourismpei.com/copyright-privacy) for the most accurate reproduction.*
 
 # Copyright and Privacy
 
@@ -10,7 +10,7 @@ Unless otherwise specifically stated herein, all materials on this website, incl
 
 The materials on this site are protect by the _Copyright Act_. Reproduction of any materials requires the advance written permission of the Government of Prince Edward Island, or the original creator, where applicable.
 
-To request permission, contact the web content team of Communications PEI using the [website comments and suggestions form](http://www.gov.pe.ca/index.php3?number=feedback&lang=E&referer=http://www.gov.pe.ca/&webTo=com) and detail your request in the comments section.
+To request permission, contact the web content team using the [website comments and suggestions form](https://web.archive.org/contact-pei) and detail your request in the comments section.
 
 Vist the [Tourism PEI website](http://media.tourismpei.com/resources/image-library/) for information on use of Tourism PEI stock images by industry and media.
 
@@ -32,11 +32,11 @@ From time to time, Tourism PEI may invite you to enter contests. The information
 
 If you do nothing during your visit but browse the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit:
 
-  * The Internet domain and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the web) from which you access our website; 
-  * the type of browser and operating system used to access our site; 
-  * the date and time you access our site; 
-  * the pages you visit; and 
-  * if you linked to our website from another website, the name of that website. 
+  * The Internet domain and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the web) from which you access our website;
+  * the type of browser and operating system used to access our site;
+  * the date and time you access our site;
+  * the pages you visit; and
+  * if you linked to our website from another website, the name of that website.
 
 
 
@@ -51,7 +51,7 @@ Tourism PEI FOIPP Coordinator
 PO Box 2000  
 Charlottetown, PE  
 C1A 7N8  
-902-368-4084
+902-368-4084 
 
 **Tourism PEI Disclaimer**
 
