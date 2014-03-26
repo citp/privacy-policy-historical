@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the welcomebabyhome.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115083006id_/http%3A//welcomebabyhome.com/wbh/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welcomebabyhome.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327003332id_/http%3A//www.welcomebabyhome.com/wbh/privacy.htm) for the most accurate reproduction.*
 
 # Welcome Baby Home - Privacy Policy
 
