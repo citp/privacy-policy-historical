@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtapay.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909113701id_/http%3A//www.virtapay.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtapay.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326033051id_/http%3A//www.virtapay.com/privacy.php) for the most accurate reproduction.*
 
 # VirtaPay
 
@@ -6,7 +6,7 @@
 
 [](https://web.archive.org/login.php)
 
-[](https://www.facebook.com/dialog/oauth?client_id=126835840732495&redirect_uri=https%3A%2F%2Fwww.virtapay.com%2F&state=44d73849b2fef58109c5e031acf992d2&scope=email)
+[](https://www.facebook.com/dialog/oauth?client_id=126835840732495&redirect_uri=https%3A%2F%2Fwww.virtapay.com%2F&state=50686bfc29f26f375028841202ff20d8&scope=email)
 
 Privacy Policy 
 
