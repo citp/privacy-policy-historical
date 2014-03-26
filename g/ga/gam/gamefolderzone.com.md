@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamefolderzone.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112030946id_/http%3A//www.gamefolderzone.com/%3Fpage_id%3D1068) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefolderzone.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326100555id_/http%3A//www.gamefolderzone.com/%3Fpage_id%3D1068) for the most accurate reproduction.*
 
 # Privacy Policy | welcome to Gamefolderzone.com
 
