@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkatmyhouse.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819031140id_/https%3A//www.parkatmyhouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkatmyhouse.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326175704id_/http%3A//www.parkatmyhouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | ParkatmyHouse
 
