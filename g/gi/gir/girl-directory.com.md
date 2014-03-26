@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girl-directory.com privacy policy that was archived on 2013-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130212064448id_/http%3A//www.girl-directory.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girl-directory.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326135710id_/http%3A//www.girl-directory.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -126,11 +126,11 @@ Please let us know if the personal information which we hold about you needs to 
 
 (11) Contact
 
-If you have any questions about this privacy policy or our treatment of your personal data, [please write to us by email](https://web.archive.org/web/20130212064448id_/http%3A//www.girl-directory.com/contact.php)
+If you have any questions about this privacy policy or our treatment of your personal data, [please write to us by email](https://web.archive.org/web/20140326135710id_/http%3A//www.girl-directory.com/contact.php)
 
 (12) Data controller
 
-The data controller responsible for our website is [MMGUIDE]. 
+The data controller responsible for our website is [EWEBMEDIA]. 
 
 This website privacy policy is based on a template  
 created by Website-contracts.co.uk   
