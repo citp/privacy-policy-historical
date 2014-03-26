@@ -1,49 +1,97 @@
-<!--The following is the downloaded HTML source of the getsentry.com privacy policy that was archived on 2013-04-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130424075928id_/https%3A//www.getsentry.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the getsentry.com privacy policy that was archived on 2014-03-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140326160032id_/https%3A//www.getsentry.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
         <meta name="google-site-verification" content="1VztQCrdTIxI_mBy2KSfKFXNLDuS5pmAjyii4uOTQ_g">
         <meta description="Sentry notifies you when your users experience errors in your web and mobile apps.">
-        <link href="//www.getsentry.com/_static/getsentry/images/favicon.png" rel="icon" type="image/png">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="//www.getsentry.com/_static/getsentry/images/favicon.ico" rel="icon" type="image/png">
+
+        
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script src="//cdn.ravenjs.com/1.1.10/jquery,native/raven.min.js"></script>
+<script>
+Raven.config('https://90c965e4532d44749548a05ea6a6e176@app.getsentry.com/11276', {
+    tags: {
+        sentry_version: '7.0.0-DEV (b1786e8)'
+    },
+    whitelistUrls: [
+        'getsentry.com/_static/',
+        'cdn.ravenjs.com'
+    ],
+    ignoreErrors: [
+      // Random plugins/extensions
+      'top.GLOBALS',
+      // See: http://blog.errorception.com/2012/03/tale-of-unfindable-js-error. html
+      'originalCreateNotification',
+      'canvas.contentDocument',
+      'MyApp_RemoveAllHighlights',
+      'http://tt.epicplay.com',
+      'Can\'t find variable: ZiteReader',
+      'jigsaw is not defined',
+      'ComboSearch is not defined',
+      'http://loading.retry.widdit.com/',
+      'atomicFindClose',
+      // Facebook borked
+      'fb_xd_fragment',
+      // ISP "optimizing" proxy - `Cache-Control: no-transform` seems to reduce this. (thanks @acdha)
+      // See http://stackoverflow.com/questions/4113268/how-to-stop-javascript-injection-from-vodafone-proxy
+      'bmi_SafeAddOnload',
+      'EBCallBackMessageReceived',
+      // See http://toolbar.conduit.com/Developer/HtmlAndGadget/Methods/JSInjection.aspx
+      'conduitPage'
+    ],
+    ignoreUrls: [
+      // Facebook flakiness
+      /graph\.facebook\.com/i,
+      // Facebook blocked
+      /connect\.facebook\.net\/en_US\/all\.js/i,
+      // Woopra flakiness
+      /eatdifferent\.com\.woopra-ns\.com/i,
+      /static\.woopra\.com\/js\/woopra\.js/i,
+      // Chrome extensions
+      /extensions\//i,
+      /^chrome:\/\//i,
+      // Other plugins
+      /127\.0\.0\.1:4001\/isrunning/i,  // Cacaoweb
+      /webappstoolbarba\.texthelp\.com\//i,
+      /metrics\.itunes\.apple\.com\.edgesuite\.net\//i
+    ]
+}).install();
+
+</script>
+
+
 
         <link href="/_static/getsentry/styles/global.min.css" rel="stylesheet" type="text/css">
 
-        <script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script src="/_static/getsentry/scripts/lib.min.js" type="text/javascript"></script>
+        <script src="/_static/getsentry/scripts/lib.min.js" type="text/javascript"></script>
         <script src="/_static/getsentry/scripts/global.min.js" type="text/javascript"></script>
+        <script src="/_static/getsentry/scripts/retina.js" type="text/javascript"></script>
 
         <title>Privacy Policy | Sentry</title>
 
         
-
-<!-- start Mixpanel --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
-typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);
-b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
-mixpanel.init("5a48e7ec1823c4d758782a2f5bf0382d");</script><!-- end Mixpanel -->
-<script type="text/javascript">
-
-</script>
-
         
-
-        
-        
-    </head>
+    <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
     <body>
         
             
                 <header class="collapsed">
                     <div class="container">
-                        <div class="pull-left">
-                            <h1><a href="//www.getsentry.com/" id="logo">Sentry</a></h1>
-                        </div>
                         
 
 
 <nav>
+    <button type="button" class="btn btn-navbar dropdwn" data-toggle="collapse" data-target=".nav-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+    </button>
     <ul>
-        <li><a href="//www.getsentry.com/pricing/">Plans and Pricing</a></li>
+        <li><a href="//www.getsentry.com/pricing/">Plans &amp; Pricing</a></li>
         <li><a href="//www.getsentry.com/guide/">Docs</a></li>
         <li><a href="http://blog.getsentry.com">Blog</a></li>
         
@@ -51,6 +99,8 @@ mixpanel.init("5a48e7ec1823c4d758782a2f5bf0382d");</script><!-- end Mixpanel -->
         
     </ul>
 </nav>
+
+                        <h1><a href="/" id="logo"><img src="//www.getsentry.com/_static/getsentry/images/sentry-logo.svg"></a></h1>
                     </div>
                 </header>
             
@@ -60,7 +110,7 @@ mixpanel.init("5a48e7ec1823c4d758782a2f5bf0382d");</script><!-- end Mixpanel -->
     <div class="container">
         <h1>Privacy Policy</h1>
         <div class="row">
-            <div class="span6">
+            <div class="span8">
                 <p><strong>Your data is never made available to anyone. We only store what you give us, and we only share it with who you tell us.</strong></p>
 
                 <h3>Who has access to my data?</h3>
@@ -90,7 +140,7 @@ mixpanel.init("5a48e7ec1823c4d758782a2f5bf0382d");</script><!-- end Mixpanel -->
                 <p>We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.</p>
 
                 <h3>Do we disclose any information to outside parties?</h3>
-                <p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information, nor will we ever release any information around individual events you send us. However, non-personally identifiable information may be provided to other parties for marketing, advertising, or other uses.</p>
+                <p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information or personally identifiable information that you may send us about your users. We will never release any information around individual events you send us. However, non-personally identifiable information may be provided to other parties for marketing, advertising, or other uses.</p>
 
                 <h3>Third party links</h3>
                 <p>Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p>
@@ -107,9 +157,9 @@ mixpanel.init("5a48e7ec1823c4d758782a2f5bf0382d");</script><!-- end Mixpanel -->
 
                 <p>Updated January 17, 2013</p>
             </div>
-            <div class="span3">
+            <div class="span3 offset1">
                 <h3>Contact Us</h3>
-                
+
                 <p>Questions? Comments? We'd love to hear what we can do better. Contact us directly at
                     <a href="mailto:support@getsentry.com">support@getsentry.com</a> and we'll get back to you as soon as possible.</p>
             </div>
@@ -121,33 +171,43 @@ mixpanel.init("5a48e7ec1823c4d758782a2f5bf0382d");</script><!-- end Mixpanel -->
             
                 <footer>
                     <div class="container">
-                        <h5>Quick links</h5>
                         <div class="row">
-                            <div class="pull-right">
+                            <div class="span6">
+                                <h5>Quick links</h5>
+                            </div>
+                            <div class="span3">
+                                <h5>Platforms</h5>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="span3 pull-right">
                                 <ul class="services unstyled">
                                     <li class="twitter"><a href="http://twitter.com/getsentry">Twitter</a></li>
                                     <li class="github"><a href="https://github.com/getsentry/sentry">Github</a></li>
-                                    <li class="dribbble"><a href="http://dribbble.com/chrisjennings/projects/80366-Sentry">Dribbble</a></li>
+                                    <li class="dribbble"><a href="http://dribbble.com/ckj/projects/80366-Sentry">Dribbble</a></li>
                                 </ul>
-                                <p class="copyright">© 2013 GetSentry.com</p>
+                                <p class="copyright">© 2014 GetSentry.com</p>
                             </div>
-                            <div class="span2">
+                            <div class="span3">
                                 <ul class="unstyled">
                                     <li><a href="//www.getsentry.com/pricing/">Plans and Pricing</a></li>
                                     <li><a href="http://blog.getsentry.com/">Blog</a></li>
                                     <li><a href="//www.getsentry.com/guide/">Docs</a></li>
-                                </ul>
-                            </div>
-                            <div class="span2">
-                                <ul class="unstyled">
-                                    <li><a href="//www.getsentry.com/about/">About Us</a></li>
-                                    <li><a href="//www.getsentry.com/partners/">Partners</a></li>
                                     <li><a href="http://status.getsentry.com/">Service Status</a></li>
                                 </ul>
                             </div>
-                            <div class="span2">
+                            <div class="span3">
                                 <ul class="unstyled">
+                                    <li><a href="//www.getsentry.com/about/">About Us</a></li>
                                     <li><a href="//www.getsentry.com/privacy/">Privacy Policy</a></li>
+                                    <li><a href="//www.getsentry.com/terms/">Terms of Service</a></li>
+                                    <li><a href="//www.getsentry.com/thanks/">Thank Yous</a></li>
+                                </ul>
+                            </div>
+                            <div class="span3">
+                                <ul class="unstyled">
+                                    <li><a href="//www.getsentry.com/for/javascript/" title="JavaScript Error Tracking">JavaScript</a></li>
+                                    <li><a href="//www.getsentry.com/for/python/" title="Python Error Tracking">Python</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -155,8 +215,59 @@ mixpanel.init("5a48e7ec1823c4d758782a2f5bf0382d");</script><!-- end Mixpanel -->
                 </footer>
             
         
+
+        <script>
+        var _prum = [['id', '5213b111abe53d332e000000'],
+                     ['mark', 'firstbyte', (new Date()).getTime()]];
+        (function() {
+            var s = document.getElementsByTagName('script')[0]
+            , p = document.createElement('script');
+            p.async = 'async';
+            p.src = '//rum-static.pingdom.net/prum.min.js';
+            s.parentNode.insertBefore(p, s);
+        })();
+        </script>
+
+        <script type="text/javascript">
+
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-30327640-1']);
+          _gaq.push(['_setDomainName', 'getsentry.com']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+
+        </script>
+
+        <script type="text/javascript">
+adroll_adv_id = "MLWCNCFTMJGD7GPDGE6RVT";
+adroll_pix_id = "7M3QZV2OWJGMBAGSKP2TG5";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+
         
+
+
+
+
         
+
 
 
 
