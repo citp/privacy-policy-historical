@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totesport.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901120155id_/http%3A//www.totesport.com/portal%3Faction%3DStaticLoader%26page%3Dgeneral/SecurityPrivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totesport.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326072050id_/http%3A//www.totesport.com/portal%3Faction%3DStaticLoader%26page%3Dgeneral/SecurityPrivacy.htm) for the most accurate reproduction.*
 
 # totesport - security and privacy policy
 
