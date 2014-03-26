@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ahappydeal.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808094217id_/http%3A//www.ahappydeal.com/m-article-id-100.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahappydeal.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326214020id_/http%3A//www.ahappydeal.com/m-article-id-100.html) for the most accurate reproduction.*
 
-# Privacy Policies - ahappydeal.com
+# Privacy Policies - aHappyDeal
 
 aHappyDeal.com (hereinafter "aHappyDeal" or "we") values the privacy of our visitors/customers and takes every known precaution to safeguard the information we collect from potentially unauthorized use. The following is a detailed explanation of the privacy policy for aHappyDeal.  
  **  
@@ -35,11 +35,10 @@ Email content is sent to our customers which can include the following:
 Transaction mail, Shipping notification, Weekly deal, Promotion, Activity, 
 
 **Our Address, Phone Number and Email**  
-1213 Alvarado Ave, Davis, CA 95616-5520, USA   
+Zhongxing Industrial zone ,chuangye road, Nanshan District, Shenzhen, 518057.China  
 +1 530-419-5986  
 Email:support@ahappydeal.com  
-Contact Us at <http://www.ahappydeal.com/m-article-id-20-pid-.html>  
-This address does not accept returns
+[Contact Us](http://www.ahappydeal.com/m-article-id-20-pid-.html)
 
   
 
