@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getsentry.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424075928id_/https%3A//www.getsentry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsentry.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326160032id_/https%3A//www.getsentry.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Sentry
 
@@ -39,7 +39,7 @@ We use cookies to understand and save your preferences for future visits, keep t
 
 ### Do we disclose any information to outside parties?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information, nor will we ever release any information around individual events you send us. However, non-personally identifiable information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information or personally identifiable information that you may send us about your users. We will never release any information around individual events you send us. However, non-personally identifiable information may be provided to other parties for marketing, advertising, or other uses.
 
 ### Third party links
 
