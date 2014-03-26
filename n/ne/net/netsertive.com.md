@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the netsertive.com privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914045929id_/http%3A//www.netsertive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netsertive.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326100000id_/http%3A//netsertive.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Netsertive
 
 Last Updated: 8.27.13
 
-Netsertive, Inc. (“Netsertive”, the “Company,” “us,” “we,” or “our”) is committed to protecting the privacy of users (“user”, “you” or “your”) of our website (“Site”), [www.netsertive.com](http://netsertive.com/), and our products and services (“Product” or “Products”). Our Privacy Policy is designed to assist you in understanding how we collect, use and safeguard the information you provide to us and to assist you in making informed decisions when using our Site and our Products.  This Privacy Policy will be continuously assessed against new technologies, business practices and our clients’ needs.  This Privacy Policy applies to this Site and our Products and governs data collection and usage at this Site and our Products.
+Netsertive, Inc. (“Netsertive”, the “Company,” “us,” “we,” or “our”) is committed to protecting the privacy of users (“user”, “you” or “your”) of our website (“Site”), [netsertive.com](http://netsertive.com/), and our products and services (“Product” or “Products”). Our Privacy Policy is designed to assist you in understanding how we collect, use and safeguard the information you provide to us and to assist you in making informed decisions when using our Site and our Products.  This Privacy Policy will be continuously assessed against new technologies, business practices and our clients’ needs.  This Privacy Policy applies to this Site and our Products and governs data collection and usage at this Site and our Products.
 
 User Consent
 
-By visiting [www.netsertive.com](http://netsertive.com/) or using our Products, you agree to the terms of this Privacy Policy.  You expressly consent to the processing of your Personal Information (as defined below) according to this Privacy Policy.  Personal Information may be processed by Netsertive or Netsertive’s trusted vendors or other third parties in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent.
+By visiting [netsertive.com](http://netsertive.com/) or using our Products, you agree to the terms of this Privacy Policy.  You expressly consent to the processing of your Personal Information (as defined below) according to this Privacy Policy.  Personal Information may be processed by Netsertive or Netsertive’s trusted vendors or other third parties in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent.
 
 Information We Collect About You and How We Collect It
 
