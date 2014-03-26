@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the brandify.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401082954id_/https%3A//www.brandify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandify.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326114209id_/https%3A//www.brandify.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Brandify
 
 ## Brandify Privacy Policy
 
-The brandify.com web site (the “Site”) is owned and operated by MyWebCareer, Inc. dba Brandify (“Brandify,” “We,” “Us” and “Our”). Brandify is committed to maintaining your confidence and trust with respect to the information We collect from you. This Privacy Policy sets forth how We collect, use, protect, and disclose personal information you provide through Our Site, and how We use that information to offer you Our products and services.
+The brandify.com web site (the “Site”) is owned and operated by Place Platform, Inc (“Brandify,” “We,” “Us” and “Our”). Brandify is committed to maintaining your confidence and trust with respect to the information We collect from you. This Privacy Policy sets forth how We collect, use, protect, and disclose personal information you provide through Our Site, and how We use that information to offer you Our products and services.
 
 **Information we collect and/or retrieve**
 
@@ -45,8 +45,8 @@ We use the information you provide and the information We collect about you for 
 **Do we disclose any information to outside parties?**
 
 We may share your personally identifiable information with trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when We believe release is appropriate to comply with the law, enforce our Site policies, or protect Our or other’s rights, property, or safety.  
-If you register for a premium account compliments of Microsoft through the URL <http://www.brandify.com/microsoft>, <http://www.brandify.com/seattle>, or <http://www.brandify.com/asbdc>, **you consent to Us sharing your registration information and information pertinent to your business with Microsoft**. As such, by using Our services through these means, you consent not only to Our Privacy Policy but that of [Microsoft's](http://www.microsoft.com/privacy). If you have questions about Microsoft’s privacy policy, please contact Microsoft directly. Similarly, in the event that you register for Our services via future Brandify partnership opportunities, you will be bound to the privacy policy of that partner.  
-Other than Microsoft or other Brandify partners, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+In the event you register for Our services via a Brandify partner, you may be bound to the privacy policy of that partner in addition that of Brandify.  
+Other than to Brandify partners, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 **How do we protect your information?**
 
@@ -63,7 +63,7 @@ We are in compliance with the requirements of [COPPA](http://www.coppa.org/coppa
 **About this Privacy Policy**
 
 Any changes to Our Privacy Policy will be posted on Our Site at <http://www.brandify.com/privacy>. If at any time you believe that we have not adhered to this Privacy Policy, please contact Us at [privacy@brandify.com](mailto:privacy@brandify.com). Brandify will use reasonable efforts to resolve any disputes under this Privacy Policy and will use reasonable efforts to promptly investigate and, if necessary, correct any problem.   
-Last updated: October 25, 2012 
+Last updated: December 1, 2013 
 
   
 
