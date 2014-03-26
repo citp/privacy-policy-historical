@@ -1,18 +1,22 @@
-> *The following text is extracted and transformed from the marioboards.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424152202id_/http%3A//www.marioboards.com/index.php%3Ftopic%3D14227.msg575383%23msg575383) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marioboards.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326120213id_/http%3A//www.marioboards.com/index.php%3Ftopic%3D14227.0) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Super Mario Boards, the Mario forum
 
 **Privacy Policy for the Super Mario Boards**
 
 At the Super Mario Boards, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by marioboards.com and how it is used.
 
- **Log Files**
-
+ **Log Files**  
 Like many other Web sites, marioboards.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
- **Cookies and Web Beacons**
+ **IP Address**  
+If you choose to create an account, please note that with each post, your IP address is recorded in the event that you need to be banned from this forum or your ISP contacted. This will only happen in the event of a major violation of the registration agreement.
 
+ **Cookies and Web Beacons**  
 marioboards.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+
+ **Forum Cookie**  
+The software places a cookie, a text file containing bits of information (such as your username and password), in your browser's cache. This is ONLY used to keep you logged in/out. The software does not collect or send any other form of information to your computer.
 
  **DoubleClick DART Cookie**
 
@@ -22,6 +26,7 @@ marioboards.com does use cookies to store information about visitors preferences
 
 
 
+**Other third-party cookies**  
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense.
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on marioboards.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
