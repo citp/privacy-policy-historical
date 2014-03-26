@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the doordash.com privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922090758id_/https%3A//www.doordash.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doordash.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326154728id_/https%3A//www.doordash.com/privacy) for the most accurate reproduction.*
 
 # DoorDash Food Delivery | Privacy Policy
 
 ### Privacy Policy
 
-Protecting your private information is our priority. This Statement of Privacy applies to the http://www.doordash.com and Palo Alto Delivery Inc. and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to DoorDash include http://www.doordash.com and Palo Alto Delivery, Inc. The DoorDash website is a restaurant food delivery site. By using the DoorDash website, you consent to the data practices described in this statement.We're currently looking to hire drivers who can help us deliver food. 
+Protecting your private information is our priority. This Statement of Privacy applies to the http://www.doordash.com and Palo Alto Delivery Inc. and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to DoorDash include http://www.doordash.com and Palo Alto Delivery, Inc. The DoorDash website is a restaurant food delivery site. By using the DoorDash website, you consent to the data practices described in this statement. 
 
 DoorDash may collect personally identifiable information, such as your name. If you purchase DoorDash's products and services, we collect address, billing and credit card information. This information is used to complete the purchase transaction. We may gather additional personal or non-personal information in the future. 
 
@@ -41,12 +41,12 @@ DoorDash will occasionally update this Statement of Privacy to reflect company a
 DoorDash welcomes your questions or comments regarding this Statement of Privacy. If you believe that DoorDash has not adhered to this Statement, please contact DoorDash at: 
 
 **Palo Alto Delivery, Inc**  
-3390 Park Blvd.  
+565 Stanford Ave.  
 Palo Alto, California 94306  
 
 
 Email Address: support@doordash.com
 
-Telephone Number: +1 (650) 861-9470
+Telephone Number: +1 (650) 681-9470
 
 Effective as of August 04, 2013
