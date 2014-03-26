@@ -1,72 +1,23 @@
-> *The following text is extracted and transformed from the linccweb.org privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114160145id_/http%3A//www.linccweb.org/cmn/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linccweb.org privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326032816id_/http%3A//www.linccweb.org/cmn/privacy_and_use_policy.asp) for the most accurate reproduction.*
 
 # College Center for Library Automation - Privacy Statement
 
-  * Information CCLA Uses
-  * Personally Identifiable Information
-  * Cookies
-  * Security
-  * Links to Other Web Sites
-  * Applicable Laws and Policies
-  * Contact
-  * Changes to this Privacy Statement
+Your privacy is very important to us. Our policy is to collect no personal information about you when you visit this site, unless you affirmatively choose to make such information available to us.
 
+When you visit FLVC websites, the web server automatically recognizes only the Internet domain and IP address from which you accessed the site. This information does not result in the identification of your personal email address or other personal information.
 
+In addition, information is gathered regarding the volume and timing of access to the site by collecting information on the date, time, and pages you visited while at the site. This is done so that the content of the site can be improved. This information is not shared with other organizations. Again, only aggregate information is collected, and your personal information is not identified.
 
-The College Center for Library Automation (CCLA) provides LINCC (Library Information Network for Cooperative Content) and associated web sites: LINCCWeb ([ _http://www.linccweb.org_](http://www.linccweb.org/)) and the CCLA web site ([ _http://www.cclaflorida.org_](http://www.cclaflorida.org/)). LINCC supports local library operations at Florida's 28 public colleges.
+If you choose to share personal information, such as sending a message or filling out an electronic form with personal information, the information will only be used for the purposes you authorized. Some of this information may be saved for a designated period of time in order to comply with Florida's archiving policies. However, information will not be disclosed to third parties or other government agencies, unless required by state or federal law. If information is required by law to be disclosed about you, then every effort will be taken to notify you about the disclosure in advance.
 
-CCLA is committed to protecting the privacy of registered users of LINCC services and visitors to our web sites. CCLA does not collect personally identifiable information about users of LINCC services or visitors to our web sites except as needed to provide services you request, services to which you are entitled by your affiliation with a Florida public college, or if you choose to disclose that information to us. CCLA does not share information about individual users with any third party except as needed to provide services you request or for authorized law enforcement activities. CCLA staff use registration and statistical information to improve services and tailor them to suit your needs, to provide easier access to advanced features, and to help us serve you better.
+You are advised that any information provided to FLVC may be subject to public disclosure as required by Public Records laws as set forth in Chapter 119, Florida Statutes; FLVC cannot guarantee absolute privacy of electronic communication.
 
-### Information CCLA Uses
+It is your obligation to determine and satisfy copyright or other usage restrictions when copying, printing, publishing, or otherwise distributing material found using FLVC’s websites.
 
-CCLA collects usage information for statistical purposes and to support local library operations. For web site management, CCLA software programs create summary statistics that are used for such purposes as assessing interest in site content, determining technical design specifications, and identifying system performance or problem areas. CCLA collects and stores the following information:
+If you have other questions about our privacy and use policy, or have suggestions on how this policy can be improved, please feel free to email us at [help@flvc.org](http://www.linccweb.org/cmn/contactus.asp?mailto=webmaster).
 
-  * Internet domain (for example, " _xyzcompany.com_ " if you use a private Internet account, or " _yourschool.edu_ " if you connect from an educational institution's domain) and IP address from which you access our web sites 
-  * Type of browser and operating system used to access our web sites 
-  * Date and time you access our web sites 
-  * Pages you visit on our web sites 
-  * Internet address of the web site from which you linked directly to our web sites 
+### Changes to this Statement
 
+This document was last updated in October 2013. FLVC will occasionally update this statement. When it is updated, FLVC will also revise the "last updated" date.
 
-
-To support local library operations, CCLA collects and temporarily stores information required for LINCC system use, including your eligibility status as a registered borrower and the LINCC-based services (such as borrowing library-owned materials) you have requested. Such information is made available to the college library with which you are affiliated and may be acted upon by employees of CCLA or that library in the course of delivering the services you have requested. CCLA uses Google Analytics for statistical data. Your use of LINCC to obtain local library services is also subject to the privacy policies and practices of the institution from which you have requested services.
-
-### Personally Identifiable Information
-
-CCLA considers any information that could reasonably be used to identify you individually as personally identifiable information. This includes, but is not limited to: your name, address, e-mail address, phone number, and institution-assigned ID. CCLA takes reasonable steps to assure data integrity and to protect personally identifiable information from unauthorized disclosure. CCLA uses only personally identifiable information supplied to us by you, your institution, or local library. Personal and usage-related information is deleted when it is no longer needed to manage services delivered via LINCC or LINCCWeb. Personally identifiable information may be collected and maintained by your local institution. Any changes to this information (other than to your PIN/Password) must be made through your local institution.
-
-You will need an ID to borrow library materials or to login to LINCCWeb services. For secure access to LINCCWeb services, you may also need to enter a Personal Identification Number/Password (PIN/Password). Since PINs/Passwords vary by institution, please check with your local library. You should change your PIN/Password immediately when you use it for the first time. CCLA periodically receives personally identifiable information from your local institution to create and update your ID, or an employee of that institution enters the information directly into the LINCC system.
-
-Some personal information is accessible to you on LINCCWeb through a secure login to services such as My Account. Personally identifiable information, library materials currently checked out or requested, and fines owed may be displayed on the screen during your session. Although some online sessions are set to time out automatically after a period of inactivity, you should always close the browser window promptly after any session in which personally identifiable information was entered or displayed. Closing the browser window will prevent another person from viewing your personal information. For more information on how you can protect your personal information on LINCCWeb, please see our [FAQ](http://www.linccweb.org/Help/LINCCWeb.asp#question_19).
-
-If you submit personally identifiable information when requesting information or services from CCLA (as in an e-mail message or an electronic form) we will use this information to respond to your request. Your e-mail may be forwarded within CCLA for our staff to assist you. CCLA may also forward requests for assistance to another appropriate institution (such as your local college) for response. Other than the foregoing reasons, CCLA does not share e-mail or other personally identifiable information with outside organizations without obtaining your permission except for authorized law enforcement activities.
-
-### Cookies
-
-"Cookies" are small bits of information generated by a web server that are either used for the duration of a session, or saved on a user's computer in order to identify that user (or information about that user) the next time they log on to a web site. CCLA uses cookies to facilitate delivery of several LINCCWeb applications. For example, CCLA uses a cookie in conjunction with LINCCWeb's "Electronic Resources" web page so that you do not need to enter your ID more than once during the same browser session. This cookie is deleted when your session ends and is not collected or saved. If you check the "Keep me logged in" box, the cookie will be retained for two years or until manually deleted. 
-
-### Security
-
-The security of the information that you provide is very important to us. CCLA uses industry standard encryption for all transmissions. The encryption technology helps ensure the private, secure transmission of any personally identifiable information.
-
-Only authorized CCLA or library staff with an assigned password may access personally identifiable information maintained in LINCC or LINCCWeb and then only for the purpose of performing work related to the delivery of services as described here.
-
-### Links to Other Web Sites
-
-Transactions within the CCLA/LINCC network are transmitted within a protected environment. Once you link from CCLA's web sites to another site, you are subject to the privacy policy and security practices of the new site. Such linking does not constitute CCLA's endorsement of the new site's privacy policy. Please refer to CCLA's [Terms of Use](https://web.archive.org/cmn/terms_of_use.asp) for more information about links from CCLA's web sites to other web sites.
-
-### Applicable Laws and Policies
-
-Privacy and public records obligations are governed by applicable Florida statutes and U.S. laws. CCLA is committed to protect the privacy and integrity of personally identifiable, non-public information of students in compliance with the Family Educational Rights and Privacy Act (FERPA) and the Gramm-Leach-Bliley Act (GLB). Confidentiality of library registration and circulation records is protected under Section 257.261, Florida Statutes. CCLA's use of personal information is also subject to the policies of the Florida College System.
-
-### Contact
-
-Please [contact CCLA](https://web.archive.org/cmn/contactus.asp?location=/contact.asp "Contact FLVC Help Desk") if you have questions about this Privacy Statement.
-
-Only authorized CCLA or library staff with an assigned password may access personally identifiable information maintained in LINCC or LINCCWeb and then only for the purpose of performing work related to the delivery of services as described here.
-
-### Changes to this Privacy Statement
-
-This document was last updated in November 2011. CCLA will occasionally update this privacy statement. When it is updated, CCLA will also revise the "last updated" date.
-
-Page updated: May 2012
+Page updated: October 2013
