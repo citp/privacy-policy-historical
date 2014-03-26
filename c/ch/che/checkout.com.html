@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the checkout.com privacy policy that was archived on 2013-08-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130809105523id_/http%3A//www.checkout.com/policies.php%23privacyAnc) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the checkout.com privacy policy that was archived on 2014-03-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140326141757id_/https%3A//www.checkout.com/policies.php%23privacyAnc) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>Checkout - Online Payments</title>
@@ -12,13 +12,13 @@
 <!--[if IE 8]>
 	<link href="css/ie8.css" rel="stylesheet">
 <![endif]-->
-<link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+<link href="css/fonts.css" rel="stylesheet" type="text/css">
 <link rel="icon" type="image" href="img/favicon_16x16.ico">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="js/jquery.min.js"></script>
 <script type="text/javascript">
 (function($) {
 	$(function() {
-		$("#scroller").simplyScroll();
+		$("#scroller").simplyScroll({auto:false, startOnLoad: false});
 	});
 })(jQuery);
 </script>
@@ -29,13 +29,42 @@
 <script type="text/javascript" src="js/jquery.stellar.min.js"></script>
 <script type="text/javascript" src="js/logoScroll.js"></script>
 <script type="text/javascript" src="js/waypoints.min.js"></script>
+<link href="localized/gb/stylesheet.css" rel="stylesheet" media="all" type="text/css">
 <link href="css/logoScroll.css" rel="stylesheet" media="all" type="text/css">
+<link href="css/cko-font.css" rel="stylesheet" media="all" type="text/css">
 <script src="js/jquery.cookie.js"></script>
 <script src="js/ie.js"></script>
 <script>
 function changelocation (loc){
     document.getElementById(' ksupport ').src = loc;
 }
+$(function () {
+  var treshold = 0;
+  if ($('.wallPaper .click-to-call').length) {
+    treshold = $('.wallPaper .click-to-call').position().top +
+               $('.wallPaper .click-to-call').height() - 
+               ($('.container.subNav').height() + 50);
+    var displayed = false;
+    $(window).scroll(function (e) {
+      if (!$('.wallPaper .click-to-call').length) {
+        $('.navbar .click-to-call').show();
+        return true;
+      }
+      var scrollHeight = $(window).scrollTop();
+      if (treshold <= scrollHeight && !displayed) {
+        $('.wallPaper .click-to-call').fadeOut('fast');
+        $('.navbar .click-to-call').fadeIn('fast');
+        displayed = true;
+      } else if (treshold > scrollHeight && displayed) {
+        $('.wallPaper .click-to-call').fadeIn('fast');
+        $('.navbar .click-to-call').fadeOut('fast');
+        displayed = false;
+      }
+    });
+  } else {
+    $('.navbar .click-to-call').show();
+  }
+});
 </script>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -53,15 +82,28 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a
 <script src="js/nav.js"></script>
 </head>
 <body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 <div class="navbar navbar-fixed-top">
-  <div class="navbar-inner">
+  <div class="navbar-inner" style="line-height: 50px;">
     <a class="brand" href="index.php#top">
-      <img src="img/logo.png" id="logo">
+      <img src="img/logo_grey.png" id="logo">
     </a>
+    <div class="box-phone click-to-call" style="display:none;float:right;margin-right: 45px;vertical-align: middle; position: relative;top:3px;right:0;font-size:11px;height:30px;line-height: 1.4em;width:190px;padding: 6px 10px;">
+        <i class="cko cko-phone" style="font-size:30px;"></i>
+        <span style="vertical-align:middle;position:relative;">Talk to a regional sales manager<br>
+          <span style="position: absolute;left:0;">Freephone</span>(+44)-808-189-1089         </span>
+    </div>
     <ul class="navTemp">
-      <li id="navSol"><a id="solutionsLink" href="index.php">Solutions</a><div class="mask"></div></li>
-      <li id="navSer"><a id="servicesLink" href="services.php">Services</a><div class="mask"></div></li>
-      <li id="navSup"><a id="supportLink" href="support.php">Support</a><div class="mask"></div></li>
+      <li id="navSol"><div class="blue-line" style="display:none;"></div><a id="solutionsLink" href="index.php">Solutions</a><div class="mask"></div></li>
+      <li id="navSer"><div class="blue-line" style="display:none;"></div><a id="servicesLink" href="services.php">Services</a><div class="mask"></div></li>
+      <li id="navSup"><div class="blue-line" style="display:none;"></div><a id="supportLink" href="support.php">Support</a><div class="mask"></div></li>
     </ul>
   </div>
 </div>
@@ -177,6 +219,10 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a
       <p>In no event will Checkout Ltd be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this website.</p>
       <p>Through this website you are able to link to other websites which are not under the control of Checkout Ltd. Checkout Ltd have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.</p>
       <p>Every effort is made to keep the website up and running smoothly. However, Checkout Ltd takes no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond their control.</p>
+      <p id="paymentTermsAnc" name="paymentTerms" class="anchor"></p>
+      <h1 class="text-left">Terms of payment</h1>
+      <p>Goods and services offered by Checkout.com Merchants are not provided by a person or entity, run by WebMoney Transfer System. Checkout.com hereby acts as an independent entity providing services and making independent decisions on pricing and offers. Checkout.com Merchants, running WebMoney Transfer System do not receive any commission, interest fees or any other award or refund for the provided goods or services and are not liable for Checkout.com activities.</p>
+      <p>Verification, performed by WebMoney Transfer System only confirms the accuracy of Checkout.com Contact Details and proves Checkout.com identity. Verification is performed by Checkout.com own free will and doesn't mean or show Checkout.com connection to the commercial activity of WebMoney Transfer System Operators.</p>
     </div>
   </div>
 </div><div class="container-fluid bgFooter" id="footer">
@@ -203,11 +249,15 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a
       <li><a href="policies.php#fsaAnc">UK FCA Regulation</a></li>
       <li><a href="policies.php#antiAnc">Anti-Money Laundering</a></li>
       <li><a href="policies.php#disclaimerAnc">Disclaimer</a></li>
+      <li><a href="policies.php#paymentTermsAnc">Terms Of Payment</a></li>
     </ul>
   </div>
   <div id="rule"></div>
   <a href="http://www.linkedin.com/company/3110635" target="blank">
     <img src="img/linkedIn.png" class="social linkedin">
+  </a>
+  <a href="http://www.facebook.com/checkout" target="blank">
+    <img src="img/facebook.png" class="social facebook">
   </a>
 </div>
 <div id="copyright">
