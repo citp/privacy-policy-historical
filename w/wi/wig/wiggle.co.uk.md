@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiggle.co.uk privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026131604id_/http%3A//www.wiggle.co.uk/h/option/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiggle.co.uk privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326032922id_/http%3A//www.wiggle.co.uk/h/option/PrivacyPolicy) for the most accurate reproduction.*
 
 # Wiggle Customer Services
 
@@ -16,7 +16,7 @@ United Kingdom
 
 Email: [sales@wiggle.co.uk](mailto:sales@wiggle.co.uk)
 
-Executive Directors: Humphrey Michael Cobbold and Martin Richard Talbot
+Executive Directors: Stefan Barden and Martin Richard Talbot
 
 **Information:**
 
