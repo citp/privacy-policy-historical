@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forbiddenplanet.com privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911190157id_/https%3A//forbiddenplanet.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forbiddenplanet.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326102542id_/https%3A//forbiddenplanet.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookies @ ForbiddenPlanet.com
 
@@ -8,7 +8,7 @@ Forbidden Planet Ltd will only collect the Customer’s personal information for
 
 ### Data Protection
 
-Forbidden Planet Ltd will only use the Customer’s personal information in accordance with the Data Protection Acts of 1984 and 1988. Forbidden Planet Ltd will not pass the Customer’s personal information outside the European Economic Area. Forbidden Planet Ltd will not distribute the Customer’s personal information to any third party with the exception of law enforcement agencies. The Customer may review or change their personal information at any time by contacting the Forbidden Planet Ltd customer service team on 020 7803 1900 or by email at [info@forbiddenplanet.com](mailto:info@forbiddenplanet.com).
+Forbidden Planet Ltd will only use the Customer’s personal information in accordance with the Data Protection Acts of 1984 and 1998. Forbidden Planet Ltd will not pass the Customer’s personal information outside the European Economic Area. Forbidden Planet Ltd will not distribute the Customer’s personal information to any third party with the exception of law enforcement agencies. The Customer may review or change their personal information at any time by contacting the Forbidden Planet Ltd customer service team on 020 7803 1900 or by email at [info@forbiddenplanet.com](mailto:info@forbiddenplanet.com).
 
 ### Marketing and Statistics
 
