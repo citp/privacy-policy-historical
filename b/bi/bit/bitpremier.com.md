@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitpremier.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105220238id_/http%3A//www.bitpremier.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitpremier.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326034702id_/https%3A//www.bitpremier.com/privacy) for the most accurate reproduction.*
 
 # BitPremier
 
@@ -20,7 +20,7 @@ Throughout this document, we may use certain words or phrases, and it is importa
 
 “Service” refers to the services that we provide through our Site, including our Marketplace and escrow services;
 
-“Site” refers to our website, [www.BitPremier.com](http://www.bitpremier.com/);
+“Site” refers to our website, [www.BitPremier.com](https://www.bitpremier.com/);
 
 “User” refers to Buyers, Sellers, and anyone else who visits our Site;
 
