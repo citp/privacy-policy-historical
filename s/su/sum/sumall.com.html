@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the sumall.com privacy policy that was archived on 2013-04-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130428062654id_/https%3A//sumall.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sumall.com privacy policy that was archived on 2014-03-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140326223253id_/https%3A//sumall.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
+        
             <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript">
         var sumallAB = { active : false,
             addCSSRule: function(sheet, selectorText, value) {
@@ -11,59 +12,104 @@
             cookie: {
                 get: function(n){var a = document.cookie.split(';');for(var i=0;i<a.length;i++){var t=a[i].split('=');if(n==t[0].replace(/^\s+|\s+$/g,'')){if(t.length==1)return ""; return t[1];}}return null;},
                 set:function(n,v,exp,p,d) {document.cookie=n+"="+v+(exp?"; expires="+exp.toGMTString():"")+(p?"; path="+p:"; path=/")+(d?"; domain="+d:"");}
-            }
+            },
+            parseQS: function(qs) {var d=decodeURIComponent;var r={};var p=qs.split('&');for(var i in p){var v=p[i].split('=');v[0]=d(v[0]);v[1]=d(v[1]);if (r[v[0]]==undefined)r[v[0]]=[v[1]];else r[v[0]].push(v[1]);}return r;}
         };
 
 
 
 
-        // --------------
-        // check for auto-control group bucketing from email campaign...
-        // todo: this is a short term patch that is needed ASAP that probably needs a longer term answer
-        var resetCookie = false;
-        var docLocation = (document.location+'');
-        if (docLocation.indexOf('?') > -1) {
-            if (docLocation.substring(docLocation.indexOf('?')+1).indexOf('ecomemail201303') > -1) {
-                sumallAB.experimentId = '190560962';
-                sumallAB.variationId = '190607302';
-                resetCookie = true;
+
+
+
+
+        // fetch cookie if not primed by server
+        if (sumallAB.bucketing == undefined || sumallAB.bucketing.length <= 0) {
+            var c = sumallAB.cookie.get("abExpBkt");
+            if (c && c.length > 0) {
+                sumallAB.bucketing = JSON.parse(c);
             }
         }
-        // --------------
+
+        // default empty obj
+        if (sumallAB.bucketing == undefined) {
+            sumallAB.bucketing = {};
+        }
 
 
-        // if not already set, fetch from cookies...
+        // a way to define a landing/injecting set of experiments and variations
+        var injectAB = {};
+        var docLocation = (document.location+'');
+        if (docLocation.indexOf('?') > -1) {
+            var abQueryString = docLocation.substring(docLocation.indexOf('?')+1);
+
+            // check for AB test id injection and retrieve
+            var qsAB = sumallAB.parseQS(abQueryString)['abtst'];
+            if (qsAB != undefined) {
+                for (var i in qsAB) {
+                    var pos = qsAB[i].indexOf('_')
+                    var e = qsAB[i].substring(0,pos);
+                    var v = qsAB[i].substring(pos+1).split(',');
+                    injectAB[e] = v;
+                }
+            }
+        }
+
+        // apply any id injection from the landing URL
+        for (var i in injectAB) {
+            sumallAB.bucketing[i] = injectAB[i];
+        }
+
+        // set a cookie with current bucketing data
+        sumallAB.cookie.set('abExpBkt', JSON.stringify(sumallAB.bucketing));
+
+
+        // -- legacy from the pricing test, TODO: upgrade or complete removal of pricing test
         if (sumallAB.experimentId == undefined || sumallAB.variationId == undefined) {
             sumallAB.experimentId = sumallAB.cookie.get('abExp');
             sumallAB.variationId = sumallAB.cookie.get('abVar');
-        }
 
-        if (sumallAB.experimentId && sumallAB.variationId) {
-            // force optimizely because it's not setting things very well...
+            if (sumallAB.experimentId && sumallAB.experimentId.length > 0
+                    && sumallAB.variationId && sumallAB.variationId.length > 0) {
+                sumallAB.bucketing[sumallAB.experimentId] = [sumallAB.variationId];
+            }
+        }
+        // ----
+
+
+        // set bucketing information into Optimizely's API
+        if (sumallAB.bucketing != undefined) {
             window['optimizely'] = window['optimizely'] || [];
-            window['optimizely'].push(["bucketVisitor", sumallAB.experimentId, sumallAB.variationId]);
+
+            for (var expId in sumallAB.bucketing) {
+                var varIds = sumallAB.bucketing[expId];
+                for (var k in varIds) {
+                    window['optimizely'].push(["bucketVisitor", expId, varIds[k]]);
+                }
+            }
         }
-
-
-        // --------------
-        // todo: part of the fixed bucketing patch at line 20
-        if (resetCookie) {
-            // clear these values and the cookie gets set
-            sumallAB.experimentId = undefined;
-            sumallAB.variationId = undefined;
-        }
-        // --------------
-
 
         
     </script>
     <script src="//cdn.optimizely.com/js/189908399.js"></script>
     <script type="text/javascript">
-        // optimizely has run, see what it chose for the user...
+
+        if (window['optimizely']) {
+            var resultVariations = null;
+            try {
+                resultVariations = window['optimizely'].data.state.variationIdsMap;
+            } catch(e) {}
+
+            if (resultVariations != null) {
+                // remember it properly because optimizely is not...
+                sumallAB.cookie.set('abExpBkt', JSON.stringify(resultVariations), new Date(2020,1,1,1,1,1,1));
+            }
+        }
+
         try {
+            // setting the legacy pricing variables...
             if (window['optimizely'].data.state.activeExperiments && window['optimizely'].data.state.activeExperiments.length > 0) {
                 sumallAB.active = true;
-
 
                 if (!sumallAB.experimentId || !sumallAB.variationId) {
                     // cookie setting is the simple case of one experiment, one variation...
@@ -84,30 +130,32 @@
         <meta name="description" content="We take customer privacy seriously, read through our policy and share your thoughts">
         <meta name="author" content="SumAll">
         <meta name="google" value="notranslate">
-        <meta name="viewport" content="width=1200">
-        
+        <meta name="p:domain_verify" content="91ad6d63b8c4532a3b9daa84535df6e6">
+        <meta name="HandheldFriendly" content="True">
+        <meta name="MobileOptimized" content="320">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+        <meta name="apple-mobile-web-app-capable" content="yes">
         <link rel="shortcut icon" href="/favicon.ico">
         <meta property="og:title" content="SumAll">
         <meta property="og:site_name" content="SumAll">
         <meta property="og:type" content="website">
-        <meta property="og:image" content="https://sumall.com/public/external/img/identity/sumall_seal_100x100.png">
+        <meta property="og:image" content="https://d49awdk0lj1sm.cloudfront.net/public/external/img/identity/sumall_seal_100x100.png?_vx=v2.9.46-1">
         <meta property="og:url" content="https://sumall.com/">
         <meta property="og:description" content="SumAll is a connected data tool that helps thousands make better decisions.">
         <!-- 1140px Grid styles for IE -->
-        <!--[if lte IE 9]><link rel="stylesheet" href="/public/external/css/ie.css" type="text/css" media="screen" /><![endif]-->
-        <link rel="stylesheet" href="/public/external/css/1140.css?v=v2.5.17-1" type="text/css" media="screen">
-        <link rel="stylesheet" href="/public/stylesheets/ui.css?v=v2.5.17-1">
-        <link rel="stylesheet" href="/public/external/css/website.css?v=v2.5.17-1">
-        <link rel="stylesheet" href="/public/external/css/website-override.css?v=v2.5.17-1">
-        <link rel="stylesheet" href="/public/external/css/chosen.css?v=v2.5.17-1">
+        <!--[if lte IE 9]><link rel="stylesheet" href="https://d49awdk0lj1sm.cloudfront.net/public/external/css/ie.css?_vx=v2.9.46-1" type="text/css" media="screen" /><![endif]-->
+        <link rel="stylesheet" href="https://d49awdk0lj1sm.cloudfront.net/public/external/css/1140.css?_vx=v2.9.46-1" type="text/css" media="screen">
+        <link rel="stylesheet" href="https://d49awdk0lj1sm.cloudfront.net/public/stylesheets/fonts.css?_vx=v2.9.46-1">
+        <link rel="stylesheet" href="https://d49awdk0lj1sm.cloudfront.net/public/stylesheets/ui.css?_vx=v2.9.46-1">
+        <link rel="stylesheet" href="https://d49awdk0lj1sm.cloudfront.net/public/external/css/website.css?_vx=v2.9.46-1">
+        <link rel="stylesheet" href="https://d49awdk0lj1sm.cloudfront.net/public/external/css/website-override.css?_vx=v2.9.46-1">
+        
 
 
-        <script src="/public/javascripts/includes/modernizr-2.6.2.custom.min.js?v=v2.5.17-1"></script>
+        <script src="https://d49awdk0lj1sm.cloudfront.net/public/javascripts/includes/modernizr-2.6.2.custom.min.js?_vx=v2.9.46-1"></script>
         <!-- Mixpanel script -->
-        <script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
-typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,
-e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
-mixpanel.init("27fb2d7358e74e341f5041b6b89f832f");</script>
+        <script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
+        mixpanel.init("9af48caa6bbb0a1fe326a151a5ad9961");</script>
     <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
     <body class="clearfix">
         <div class="outer_wrapper">
@@ -118,347 +166,748 @@ mixpanel.init("27fb2d7358e74e341f5041b6b89f832f");</script>
 
 
 
+<div id="thirdPartyForm" class="hidden clearfix">
+
+    <div class="overlay">
+        <div class="box hidden" phase="signup">
+            <form method="POST" action="/jsdisabled" class="third_party_signup_form" novalidate="">
+                <fieldset>
+                <input type="hidden" name="authenticityToken" value="d986a0d905d1ef9a76c224637d0313101813e492">
+
+                <h1>One last thing …</h1>
+
+                <p>Please make sure you indicate the right timezone, your experience will be tailored around it.</p>
+                <div class="timezone_dropdown">
+                    
+
+
+<select name="timezone" size="1" data-placeholder="Select time zone">
+    
+                    <option value=""></option>
+                    
+    
+        <option value="US/Hawaii">GMT-10:00 Hawaii</option>
+    
+        <option value="US/Alaska">GMT-09:00 Alaska</option>
+    
+        <option value="US/Pacific">GMT-08:00 Pacific Time (US &amp; Canada)</option>
+    
+        <option value="US/Arizona">GMT-07:00 Arizona</option>
+    
+        <option value="US/Mountain">GMT-07:00 Mountain Time (US &amp; Canada)</option>
+    
+        <option value="US/Central">GMT-06:00 Central Time (US &amp; Canada)</option>
+    
+        <option value="US/Eastern">GMT-05:00 Eastern Time (US &amp; Canada)</option>
+    
+        <option value="US/East-Indiana">GMT-05:00 Indiana (East)</option>
+    
+        <option value="Etc/GMT-11">GMT-11:00 International Date Line West</option>
+    
+        <option value="Pacific/Midway">GMT-11:00 Midway Island</option>
+    
+        <option value="Pacific/Samoa">GMT-11:00 Samoa</option>
+    
+        <option value="America/Tijuana">GMT-08:00 Tijuana</option>
+    
+        <option value="America/Chihuahua">GMT-07:00 Chihuahua</option>
+    
+        <option value="America/Mazatlan">GMT-07:00 Mazatlan</option>
+    
+        <option value="Central America">GMT-06:00 Central America</option>
+    
+        <option value="America/Mexico_City">GMT-06:00 Mexico City</option>
+    
+        <option value="America/Monterrey">GMT-06:00 Monterrey</option>
+    
+        <option value="Canada/Saskatchewan">GMT-06:00 Saskatchewan</option>
+    
+        <option value="America/Bogota">GMT-05:00 Bogota</option>
+    
+        <option value="America/Lima">GMT-05:00 Lima</option>
+    
+        <option value="America/Caracas">GMT-04:30 Caracas</option>
+    
+        <option value="Canada/Atlantic">GMT-04:00 Atlantic Time (Canada)</option>
+    
+        <option value="America/La_Paz">GMT-04:00 La Paz</option>
+    
+        <option value="America/Santiago">GMT-04:00 Santiago</option>
+    
+        <option value="Canada/Newfoundland">GMT-03:30 Newfoundland</option>
+    
+        <option value="America/Buenos_Aires">GMT-03:00 Buenos Aires</option>
+    
+        <option value="Etc/GMT+3">GMT-03:00 Greenland</option>
+    
+        <option value="Etc/GMT+2">GMT-02:00 Mid-Atlantic</option>
+    
+        <option value="Atlantic/Azores">GMT-01:00 Azores</option>
+    
+        <option value="Atlantic/Cape_Verde">GMT-01:00 Cape Verde Is.</option>
+    
+        <option value="Africa/Casablanca">GMT+00:00 Casablanca</option>
+    
+        <option value="Europe/Dublin">GMT+00:00 Dublin</option>
+    
+        <option value="Europe/Lisbon">GMT+00:00 Lisbon</option>
+    
+        <option value="Europe/London">GMT+00:00 London</option>
+    
+        <option value="UTC">GMT+00:00 UTC</option>
+    
+        <option value="Europe/Amsterdam">GMT+01:00 Amsterdam</option>
+    
+        <option value="Europe/Belgrade">GMT+01:00 Belgrade</option>
+    
+        <option value="Europe/Berlin">GMT+01:00 Berlin</option>
+    
+        <option value="Europe/Bratislava">GMT+01:00 Bratislava</option>
+    
+        <option value="Europe/Brussels">GMT+01:00 Brussels</option>
+    
+        <option value="Europe/Budapest">GMT+01:00 Budapest</option>
+    
+        <option value="Europe/Copenhagen">GMT+01:00 Copenhagen</option>
+    
+        <option value="Europe/Ljubljana">GMT+01:00 Ljubljana</option>
+    
+        <option value="Europe/Madrid">GMT+01:00 Madrid</option>
+    
+        <option value="Europe/Paris">GMT+01:00 Paris</option>
+    
+        <option value="Europe/Prague">GMT+01:00 Prague</option>
+    
+        <option value="Europe/Rome">GMT+01:00 Rome</option>
+    
+        <option value="Europe/Sarajevo">GMT+01:00 Sarajevo</option>
+    
+        <option value="Europe/Skopje">GMT+01:00 Skopje</option>
+    
+        <option value="Europe/Stockholm">GMT+01:00 Stockholm</option>
+    
+        <option value="Europe/Vienna">GMT+01:00 Vienna</option>
+    
+        <option value="Europe/Warsaw">GMT+01:00 Warsaw</option>
+    
+        <option value="Europe/Zagreb">GMT+01:00 Zagreb</option>
+    
+        <option value="Europe/Athens">GMT+02:00 Athens</option>
+    
+        <option value="Europe/Bucharest">GMT+02:00 Bucharest</option>
+    
+        <option value="Africa/Cairo">GMT+02:00 Cairo</option>
+    
+        <option value="Africa/Harare">GMT+02:00 Harare</option>
+    
+        <option value="Europe/Helsinki">GMT+02:00 Helsinki</option>
+    
+        <option value="Europe/Istanbul">GMT+02:00 Istanbul</option>
+    
+        <option value="Asia/Jerusalem">GMT+02:00 Jerusalem</option>
+    
+        <option value="Europe/Kiev">GMT+02:00 Kiev</option>
+    
+        <option value="Europe/Minsk">GMT+02:00 Minsk</option>
+    
+        <option value="Europe/Riga">GMT+02:00 Riga</option>
+    
+        <option value="Europe/Sofia">GMT+02:00 Sofia</option>
+    
+        <option value="Europe/Tallinn">GMT+02:00 Tallinn</option>
+    
+        <option value="Europe/Vilnius">GMT+02:00 Vilnius</option>
+    
+        <option value="Europe/Moscow">GMT+03:00 Moscow</option>
+    
+        <option value="Europe/Volgograd">GMT+03:00 Volgograd</option>
+    
+        <option value="Asia/Baghdad">GMT+03:00 Baghdad</option>
+    
+        <option value="Asia/Kuwait">GMT+03:00 Kuwait</option>
+    
+        <option value="Africa/Nairobi">GMT+03:00 Nairobi</option>
+    
+        <option value="Asia/Riyadh">GMT+03:00 Riyadh</option>
+    
+        <option value="Asia/Tehran">GMT+03:30 Tehran</option>
+    
+        <option value="Asia/Baku">GMT+04:00 Baku</option>
+    
+        <option value="Asia/Muscat">GMT+04:00 Muscat</option>
+    
+        <option value="Asia/Tbilisi">GMT+04:00 Tbilisi</option>
+    
+        <option value="Asia/Yerevan">GMT+04:00 Yerevan</option>
+    
+        <option value="Asia/Kabul">GMT+04:30 Kabul</option>
+    
+        <option value="Asia/Karachi">GMT+05:00 Karachi</option>
+    
+        <option value="Asia/Tashkent">GMT+05:00 Tashkent</option>
+    
+        <option value="Asia/Kolkata">GMT+05:30 Kolkata</option>
+    
+        <option value="Asia/Kathmandu">GMT+05:45 Kathmandu</option>
+    
+        <option value="Asia/Almaty">GMT+06:00 Almaty</option>
+    
+        <option value="Asia/Dhaka">GMT+06:00 Dhaka</option>
+    
+        <option value="Asia/Rangoon">GMT+06:30 Rangoon</option>
+    
+        <option value="Asia/Bangkok">GMT+07:00 Bangkok</option>
+    
+        <option value="Asia/Jakarta">GMT+07:00 Jakarta</option>
+    
+        <option value="Asia/Chongqing">GMT+08:00 Chongqing</option>
+    
+        <option value="Asia/Hong_Kong">GMT+08:00 Hong Kong</option>
+    
+        <option value="Asia/Kuala_Lumpur">GMT+08:00 Kuala Lumpur</option>
+    
+        <option value="Australia/Perth">GMT+08:00 Perth</option>
+    
+        <option value="Asia/Singapore">GMT+08:00 Singapore</option>
+    
+        <option value="Asia/Taipei">GMT+08:00 Taipei</option>
+    
+        <option value="Asia/Ulaanbaatar">GMT+08:00 Ulaan Bataar</option>
+    
+        <option value="Asia/Urumqi">GMT+08:00 Urumqi</option>
+    
+        <option value="Asia/Seoul">GMT+09:00 Seoul</option>
+    
+        <option value="Asia/Tokyo">GMT+09:00 Tokyo</option>
+    
+        <option value="Australia/Adelaide">GMT+09:30 Adelaide</option>
+    
+        <option value="Australia/Darwin">GMT+09:30 Darwin</option>
+    
+        <option value="Australia/Brisbane">GMT+10:00 Brisbane</option>
+    
+        <option value="Pacific/Guam">GMT+10:00 Guam</option>
+    
+        <option value="Australia/Hobart">GMT+10:00 Hobart</option>
+    
+        <option value="Australia/Melbourne">GMT+10:00 Melbourne</option>
+    
+        <option value="Pacific/Port_Moresby">GMT+10:00 Port Moresby</option>
+    
+        <option value="Australia/Sydney">GMT+10:00 Sydney</option>
+    
+        <option value="Asia/Kamchatka">GMT+11:00 Kamchatka</option>
+    
+        <option value="Pacific/Auckland">GMT+12:00 Auckland</option>
+    
+        <option value="Pacific/Fiji">GMT+12:00 Fiji</option>
+    
+</select>
+                    <p class="form_error timezoneError">Please fix</p>
+                </div>
+                
+                <input type="hidden" name="fullName">
+                <input type="hidden" name="email" only="oauth2">
+                <input type="hidden" name="authProvider">
+                <input type="hidden" name="authUserId">
+                <input type="hidden" name="authEmail">
+                <input type="hidden" name="authAccessToken" only="oauth2">
+                <input type="hidden" name="authRefreshToken" only="oauth2">
+                <input type="hidden" name="authTokenExpiration" only="oauth2">
+                <input type="hidden" name="oauthToken" only="oauth1">
+                <input type="hidden" name="oauthTokenSecret" only="oauth1">
+
+                <div class="signup_creds" only="oauth1">
+                    <p>… also, which e-mail would you like to use?</p>
+                    <input type="email" value="" id="email" name="email" placeholder="Type it here …">
+                    <p class="form_error emailError">Please fix</p>
+                    <p class="form_error agreementError">Agreement required for account creation</p>
+                </div>
+
+
+                <div class="legal_checkbox unselectable hidden">
+                    <label><input type="checkbox" value="true" id="agreement" name="agreement" checked=""> I agree to the <a href="/terms" target="_blank">Terms of Service</a> and <a href="/privacy" target="_blank">Privacy Policy</a>.</label>
+                    <p class="form_error agreementError">Agreement required for account creation</p>
+                </div>
+                <p class="form_error serverError">We’re having problems handling your signup. Please try again.</p>
+                
+                <div class="btn_wrapper">
+                    <button type="submit" class="signup_button b3 green primary_button">Create my Account</button>
+                </div>
+                
+                <div class="signup_footer">
+                    <p>
+                    <span>By creating an account you agree to our <a href="https://sumall.com/privacy" target="_blank">Privacy Policy</a> and <a href="https://sumall.com/terms" target="_blank">Terms of Service</a>.</span>        
+                    </p>
+                </div>
+                
+                </fieldset>
+            </form>
+        </div>
+        <div class="box hidden" phase="unknown">
+            <h1>New to SumAll?</h1>
+            <p>Well well, it looks like there is no account for <span class="email"></span>, so maybe you’re new around here. Let’s create a new account now then. It’s  free.</p>
+            <div class="btn_wrapper">
+                <button class="b3 green create">Create a Free Account</button>
+                <button class="closer cancel_action">Close</button>
+            </div>
+        </div>
+        <div class="box hidden" phase="duplicate">
+            <h1>Hey! You look familiar …</h1>
+            <p>We noticed there’s already an account for <span class="email bold"></span>.<br>Please provide the password for it so we can link it to your <span class="provider"></span> account and make your future logins faster.</p>
+            <form method="POST" action="/jsdisabled" class="third_party_verify_form" novalidate="">
+                <input type="hidden" name="authenticityToken" value="d986a0d905d1ef9a76c224637d0313101813e492">
+
+                <fieldset>
+                    <input type="hidden" name="email">
+                    <input type="hidden" name="authProvider">
+                    <input type="hidden" name="authUserId">
+                    <input type="hidden" name="authEmail">
+                    <input type="hidden" name="authAccessToken" only="oauth2">
+                    <input type="hidden" name="authRefreshToken" only="oauth2">
+                    <input type="hidden" name="authTokenExpiration" only="oauth2">
+                    <input type="hidden" name="oauthToken" only="oauth1">
+                    <input type="hidden" name="oauthTokenSecret" only="oauth1">
+                    <div class="email_pw_field_embedded">
+                        <div class="last_field pw_field">
+                            <input type="password" name="password" placeholder="Password">
+                            <a href="https://sumall.com/password/forgot" target="blank">Forgot ?</a>
+                        </div>
+                        <div class="field">
+                            <p class="form_error loginError"></p>
+                        </div>
+                    </div>
+                </fieldset>
+                <div class="login_submit btn_wrapper">
+                    <button class="verify_button b3 green primary_button">Proceed</button>
+                    <button class="closer cancel_action">Cancel</button>
+                </div>
+            </form>
+        </div>
+        <div class="box hidden" phase="connecting">
+            <h1>Connecting to <span class="provider"></span> …</h1>
+            <p>Stuck on this screen? <a class="authRefocus" href="#">Click here</a> to open the popup.</p>
+            <div class="loading_animation"></div>
+            <div class="btn_wrapper">
+                <button type="button" class="authCancel cancel_action">Cancel</button>
+            </div>
+        </div>
+        <div class="box hidden" phase="error">
+            <h1>Oops …</h1>
+            <p>Mmh, it looks like we're having problems handling your request.</p>
+            <div class="btn_wrapper">
+                <button class="closer b3 green authRetry" href="#">Try again</button>
+                <button class="closer cancel_action">Close</button>
+            </div>
+            <p class="get_help"><strong>Need help?</strong>&nbsp;<a href="mailto:support@sumall.com">support@sumall.com</a>&nbsp;-&nbsp;+1 917 719 0255</p>
+        </div>
+        <div class="box hidden" phase="welcome">
+            <div class="sequential_appearance">
+                <h1>Nice to meet you <span class="firstname"></span>.</h1>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+
 <div id="accountSignup" class="secureSignup hidden clearfix">
 
     
+       
+    <form method="POST" action="/jsdisabled" class="secure_signup_form" novalidate="">
+    <div class="signup_wrapper">
+        <div class="a_third third_three">
+            <fieldset>
+                <input type="hidden" name="authenticityToken" value="d986a0d905d1ef9a76c224637d0313101813e492">
 
-    <div class="sign_up_support">
-        <p>Help &nbsp; <a href="mailto:support@sumall.com">support@sumall.com</a> &nbsp; <button class="toggle_telephone_number">+1 917 719 0255</button></p>
-    </div>
-
-    <form method="POST" action="/signup/register" class="secure_signup_form" novalidate="">
-        <fieldset>
-            <input type="hidden" name="authenticityToken" value="b0ca85e37c07e2f63ba110aa0fcf575351b17239">
-
-
-            <div class="signup_first_last_name">
-                <input type="text" value="" id="firstName" name="firstName" title="&nbsp;First name" autofocus="autofocus">
-                <div class="vertical_line"></div>
-                <input type="text" value="" id="lastName" name="lastName" title="&nbsp;Last name">
-            </div>
-            <p class="form_error firstNameError">Please fix</p>
-            <p class="form_error lastNameError">Please fix</p>
-
-            <div class="signup_creds">
-                <input type="email" value="" id="email" name="email" title="&nbsp;Email">
-                <hr>
-                <input type="password" value="" id="password" name="password" title="&nbsp;Password">
-            </div>
-            <p class="form_error emailError">Please fix</p>
-            <p class="form_error passwordError">Please fix</p>
-
-            <div>
-                
+                <div class="signup_field">
+                    <h5>Or sign up with your e-mail and password</h5>
+                    <div class="signup_creds">
+                        <input type="email" value="" id="email" name="email" placeholder="E-mail">
+                        <p class="form_error emailError">Please fix</p>
+                        <input type="password" value="" id="password" name="password" placeholder="Password">
+                        <p class="form_error passwordError">Please fix</p>
+                    </div>
+                    <p class="tip_label"><span class="bold">TIP</span> At least 7 characters and at least 1 number.</p>
+                    
+                    <div class="lazy_display">
+                        <div class="signup_first_last_name">
+                            <input type="text" value="" id="firstName" name="firstName" placeholder="First Name">
+                            <p class="form_error firstNameError">Please fix</p>
+                            <input type="text" value="" id="lastName" name="lastName" placeholder="Last Name">
+                            <p class="form_error lastNameError">Please fix</p>
+                        </div>
+                        <div class="timezone_dropdown">
+                            
 
 
-<select name="timezone" size="1" class="chzn-select" data-placeholder="Select time zone">
+<select name="timezone" size="1" data-placeholder="Select time zone">
     
-                <option value=""></option>
-                
+                            <option value=""></option>
+                            
     
-        <option value="US/Hawaii">(GMT-10:00) Hawaii</option>
+        <option value="US/Hawaii">GMT-10:00 Hawaii</option>
     
-        <option value="US/Alaska">(GMT-09:00) Alaska</option>
+        <option value="US/Alaska">GMT-09:00 Alaska</option>
     
-        <option value="US/Pacific">(GMT-08:00) Pacific Time (US &amp; Canada)</option>
+        <option value="US/Pacific">GMT-08:00 Pacific Time (US &amp; Canada)</option>
     
-        <option value="US/Arizona">(GMT-07:00) Arizona</option>
+        <option value="US/Arizona">GMT-07:00 Arizona</option>
     
-        <option value="US/Mountain">(GMT-07:00) Mountain Time (US &amp; Canada)</option>
+        <option value="US/Mountain">GMT-07:00 Mountain Time (US &amp; Canada)</option>
     
-        <option value="US/Central">(GMT-06:00) Central Time (US &amp; Canada)</option>
+        <option value="US/Central">GMT-06:00 Central Time (US &amp; Canada)</option>
     
-        <option value="US/Eastern">(GMT-05:00) Eastern Time (US &amp; Canada)</option>
+        <option value="US/Eastern">GMT-05:00 Eastern Time (US &amp; Canada)</option>
     
-        <option value="US/East-Indiana">(GMT-05:00) Indiana (East)</option>
+        <option value="US/East-Indiana">GMT-05:00 Indiana (East)</option>
     
-        <option value="Etc/GMT-11">(GMT-11:00) International Date Line West</option>
+        <option value="Etc/GMT-11">GMT-11:00 International Date Line West</option>
     
-        <option value="Pacific/Midway">(GMT-11:00) Midway Island</option>
+        <option value="Pacific/Midway">GMT-11:00 Midway Island</option>
     
-        <option value="Pacific/Samoa">(GMT-11:00) Samoa</option>
+        <option value="Pacific/Samoa">GMT-11:00 Samoa</option>
     
-        <option value="America/Tijuana">(GMT-08:00) Tijuana</option>
+        <option value="America/Tijuana">GMT-08:00 Tijuana</option>
     
-        <option value="America/Chihuahua">(GMT-07:00) Chihuahua</option>
+        <option value="America/Chihuahua">GMT-07:00 Chihuahua</option>
     
-        <option value="America/Mazatlan">(GMT-07:00) Mazatlan</option>
+        <option value="America/Mazatlan">GMT-07:00 Mazatlan</option>
     
-        <option value="Central America">(GMT-06:00) Central America</option>
+        <option value="Central America">GMT-06:00 Central America</option>
     
-        <option value="America/Mexico_City">(GMT-06:00) Mexico City</option>
+        <option value="America/Mexico_City">GMT-06:00 Mexico City</option>
     
-        <option value="America/Monterrey">(GMT-06:00) Monterrey</option>
+        <option value="America/Monterrey">GMT-06:00 Monterrey</option>
     
-        <option value="Canada/Saskatchewan">(GMT-06:00) Saskatchewan</option>
+        <option value="Canada/Saskatchewan">GMT-06:00 Saskatchewan</option>
     
-        <option value="America/Bogota">(GMT-05:00) Bogota</option>
+        <option value="America/Bogota">GMT-05:00 Bogota</option>
     
-        <option value="America/Lima">(GMT-05:00) Lima</option>
+        <option value="America/Lima">GMT-05:00 Lima</option>
     
-        <option value="America/Caracas">(GMT-04:30) Caracas</option>
+        <option value="America/Caracas">GMT-04:30 Caracas</option>
     
-        <option value="Canada/Atlantic">(GMT-04:00) Atlantic Time (Canada)</option>
+        <option value="Canada/Atlantic">GMT-04:00 Atlantic Time (Canada)</option>
     
-        <option value="America/La_Paz">(GMT-04:00) La Paz</option>
+        <option value="America/La_Paz">GMT-04:00 La Paz</option>
     
-        <option value="America/Santiago">(GMT-04:00) Santiago</option>
+        <option value="America/Santiago">GMT-04:00 Santiago</option>
     
-        <option value="Canada/Newfoundland">(GMT-03:30) Newfoundland</option>
+        <option value="Canada/Newfoundland">GMT-03:30 Newfoundland</option>
     
-        <option value="America/Buenos_Aires">(GMT-03:00) Buenos Aires</option>
+        <option value="America/Buenos_Aires">GMT-03:00 Buenos Aires</option>
     
-        <option value="Etc/GMT+3">(GMT-03:00) Greenland</option>
+        <option value="Etc/GMT+3">GMT-03:00 Greenland</option>
     
-        <option value="Etc/GMT+2">(GMT-02:00) Mid-Atlantic</option>
+        <option value="Etc/GMT+2">GMT-02:00 Mid-Atlantic</option>
     
-        <option value="Atlantic/Azores">(GMT-01:00) Azores</option>
+        <option value="Atlantic/Azores">GMT-01:00 Azores</option>
     
-        <option value="Atlantic/Cape_Verde">(GMT-01:00) Cape Verde Is.</option>
+        <option value="Atlantic/Cape_Verde">GMT-01:00 Cape Verde Is.</option>
     
-        <option value="Africa/Casablanca">(GMT+00:00) Casablanca</option>
+        <option value="Africa/Casablanca">GMT+00:00 Casablanca</option>
     
-        <option value="Europe/Dublin">(GMT+00:00) Dublin</option>
+        <option value="Europe/Dublin">GMT+00:00 Dublin</option>
     
-        <option value="Europe/Lisbon">(GMT+00:00) Lisbon</option>
+        <option value="Europe/Lisbon">GMT+00:00 Lisbon</option>
     
-        <option value="Europe/London">(GMT+00:00) London</option>
+        <option value="Europe/London">GMT+00:00 London</option>
     
-        <option value="UTC">(GMT+00:00) UTC</option>
+        <option value="UTC">GMT+00:00 UTC</option>
     
-        <option value="Europe/Amsterdam">(GMT+01:00) Amsterdam</option>
+        <option value="Europe/Amsterdam">GMT+01:00 Amsterdam</option>
     
-        <option value="Europe/Belgrade">(GMT+01:00) Belgrade</option>
+        <option value="Europe/Belgrade">GMT+01:00 Belgrade</option>
     
-        <option value="Europe/Berlin">(GMT+01:00) Berlin</option>
+        <option value="Europe/Berlin">GMT+01:00 Berlin</option>
     
-        <option value="Europe/Bratislava">(GMT+01:00) Bratislava</option>
+        <option value="Europe/Bratislava">GMT+01:00 Bratislava</option>
     
-        <option value="Europe/Brussels">(GMT+01:00) Brussels</option>
+        <option value="Europe/Brussels">GMT+01:00 Brussels</option>
     
-        <option value="Europe/Budapest">(GMT+01:00) Budapest</option>
+        <option value="Europe/Budapest">GMT+01:00 Budapest</option>
     
-        <option value="Europe/Copenhagen">(GMT+01:00) Copenhagen</option>
+        <option value="Europe/Copenhagen">GMT+01:00 Copenhagen</option>
     
-        <option value="Europe/Ljubljana">(GMT+01:00) Ljubljana</option>
+        <option value="Europe/Ljubljana">GMT+01:00 Ljubljana</option>
     
-        <option value="Europe/Madrid">(GMT+01:00) Madrid</option>
+        <option value="Europe/Madrid">GMT+01:00 Madrid</option>
     
-        <option value="Europe/Paris">(GMT+01:00) Paris</option>
+        <option value="Europe/Paris">GMT+01:00 Paris</option>
     
-        <option value="Europe/Prague">(GMT+01:00) Prague</option>
+        <option value="Europe/Prague">GMT+01:00 Prague</option>
     
-        <option value="Europe/Rome">(GMT+01:00) Rome</option>
+        <option value="Europe/Rome">GMT+01:00 Rome</option>
     
-        <option value="Europe/Sarajevo">(GMT+01:00) Sarajevo</option>
+        <option value="Europe/Sarajevo">GMT+01:00 Sarajevo</option>
     
-        <option value="Europe/Skopje">(GMT+01:00) Skopje</option>
+        <option value="Europe/Skopje">GMT+01:00 Skopje</option>
     
-        <option value="Europe/Stockholm">(GMT+01:00) Stockholm</option>
+        <option value="Europe/Stockholm">GMT+01:00 Stockholm</option>
     
-        <option value="Europe/Vienna">(GMT+01:00) Vienna</option>
+        <option value="Europe/Vienna">GMT+01:00 Vienna</option>
     
-        <option value="Europe/Warsaw">(GMT+01:00) Warsaw</option>
+        <option value="Europe/Warsaw">GMT+01:00 Warsaw</option>
     
-        <option value="Europe/Zagreb">(GMT+01:00) Zagreb</option>
+        <option value="Europe/Zagreb">GMT+01:00 Zagreb</option>
     
-        <option value="Europe/Athens">(GMT+02:00) Athens</option>
+        <option value="Europe/Athens">GMT+02:00 Athens</option>
     
-        <option value="Europe/Bucharest">(GMT+02:00) Bucharest</option>
+        <option value="Europe/Bucharest">GMT+02:00 Bucharest</option>
     
-        <option value="Africa/Cairo">(GMT+02:00) Cairo</option>
+        <option value="Africa/Cairo">GMT+02:00 Cairo</option>
     
-        <option value="Africa/Harare">(GMT+02:00) Harare</option>
+        <option value="Africa/Harare">GMT+02:00 Harare</option>
     
-        <option value="Europe/Helsinki">(GMT+02:00) Helsinki</option>
+        <option value="Europe/Helsinki">GMT+02:00 Helsinki</option>
     
-        <option value="Europe/Istanbul">(GMT+02:00) Istanbul</option>
+        <option value="Europe/Istanbul">GMT+02:00 Istanbul</option>
     
-        <option value="Asia/Jerusalem">(GMT+02:00) Jerusalem</option>
+        <option value="Asia/Jerusalem">GMT+02:00 Jerusalem</option>
     
-        <option value="Europe/Kiev">(GMT+02:00) Kiev</option>
+        <option value="Europe/Kiev">GMT+02:00 Kiev</option>
     
-        <option value="Europe/Minsk">(GMT+02:00) Minsk</option>
+        <option value="Europe/Minsk">GMT+02:00 Minsk</option>
     
-        <option value="Europe/Riga">(GMT+02:00) Riga</option>
+        <option value="Europe/Riga">GMT+02:00 Riga</option>
     
-        <option value="Europe/Sofia">(GMT+02:00) Sofia</option>
+        <option value="Europe/Sofia">GMT+02:00 Sofia</option>
     
-        <option value="Europe/Tallinn">(GMT+02:00) Tallinn</option>
+        <option value="Europe/Tallinn">GMT+02:00 Tallinn</option>
     
-        <option value="Europe/Vilnius">(GMT+02:00) Vilnius</option>
+        <option value="Europe/Vilnius">GMT+02:00 Vilnius</option>
     
-        <option value="Europe/Moscow">(GMT+03:00) Moscow</option>
+        <option value="Europe/Moscow">GMT+03:00 Moscow</option>
     
-        <option value="Europe/Volgograd">(GMT+03:00) Volgograd</option>
+        <option value="Europe/Volgograd">GMT+03:00 Volgograd</option>
     
-        <option value="Asia/Baghdad">(GMT+03:00) Baghdad</option>
+        <option value="Asia/Baghdad">GMT+03:00 Baghdad</option>
     
-        <option value="Asia/Kuwait">(GMT+03:00) Kuwait</option>
+        <option value="Asia/Kuwait">GMT+03:00 Kuwait</option>
     
-        <option value="Africa/Nairobi">(GMT+03:00) Nairobi</option>
+        <option value="Africa/Nairobi">GMT+03:00 Nairobi</option>
     
-        <option value="Asia/Riyadh">(GMT+03:00) Riyadh</option>
+        <option value="Asia/Riyadh">GMT+03:00 Riyadh</option>
     
-        <option value="Asia/Tehran">(GMT+03:30) Tehran</option>
+        <option value="Asia/Tehran">GMT+03:30 Tehran</option>
     
-        <option value="Asia/Baku">(GMT+04:00) Baku</option>
+        <option value="Asia/Baku">GMT+04:00 Baku</option>
     
-        <option value="Asia/Muscat">(GMT+04:00) Muscat</option>
+        <option value="Asia/Muscat">GMT+04:00 Muscat</option>
     
-        <option value="Asia/Tbilisi">(GMT+04:00) Tbilisi</option>
+        <option value="Asia/Tbilisi">GMT+04:00 Tbilisi</option>
     
-        <option value="Asia/Yerevan">(GMT+04:00) Yerevan</option>
+        <option value="Asia/Yerevan">GMT+04:00 Yerevan</option>
     
-        <option value="Asia/Kabul">(GMT+04:30) Kabul</option>
+        <option value="Asia/Kabul">GMT+04:30 Kabul</option>
     
-        <option value="Asia/Karachi">(GMT+05:00) Karachi</option>
+        <option value="Asia/Karachi">GMT+05:00 Karachi</option>
     
-        <option value="Asia/Tashkent">(GMT+05:00) Tashkent</option>
+        <option value="Asia/Tashkent">GMT+05:00 Tashkent</option>
     
-        <option value="Asia/Kolkata">(GMT+05:30) Kolkata</option>
+        <option value="Asia/Kolkata">GMT+05:30 Kolkata</option>
     
-        <option value="Asia/Kathmandu">(GMT+05:45) Kathmandu</option>
+        <option value="Asia/Kathmandu">GMT+05:45 Kathmandu</option>
     
-        <option value="Asia/Almaty">(GMT+06:00) Almaty</option>
+        <option value="Asia/Almaty">GMT+06:00 Almaty</option>
     
-        <option value="Asia/Dhaka">(GMT+06:00) Dhaka</option>
+        <option value="Asia/Dhaka">GMT+06:00 Dhaka</option>
     
-        <option value="Asia/Rangoon">(GMT+06:30) Rangoon</option>
+        <option value="Asia/Rangoon">GMT+06:30 Rangoon</option>
     
-        <option value="Asia/Bangkok">(GMT+07:00) Bangkok</option>
+        <option value="Asia/Bangkok">GMT+07:00 Bangkok</option>
     
-        <option value="Asia/Jakarta">(GMT+07:00) Jakarta</option>
+        <option value="Asia/Jakarta">GMT+07:00 Jakarta</option>
     
-        <option value="Asia/Chongqing">(GMT+08:00) Chongqing</option>
+        <option value="Asia/Chongqing">GMT+08:00 Chongqing</option>
     
-        <option value="Asia/Hong_Kong">(GMT+08:00) Hong Kong</option>
+        <option value="Asia/Hong_Kong">GMT+08:00 Hong Kong</option>
     
-        <option value="Asia/Kuala_Lumpur">(GMT+08:00) Kuala Lumpur</option>
+        <option value="Asia/Kuala_Lumpur">GMT+08:00 Kuala Lumpur</option>
     
-        <option value="Australia/Perth">(GMT+08:00) Perth</option>
+        <option value="Australia/Perth">GMT+08:00 Perth</option>
     
-        <option value="Asia/Singapore">(GMT+08:00) Singapore</option>
+        <option value="Asia/Singapore">GMT+08:00 Singapore</option>
     
-        <option value="Asia/Taipei">(GMT+08:00) Taipei</option>
+        <option value="Asia/Taipei">GMT+08:00 Taipei</option>
     
-        <option value="Asia/Ulaanbaatar">(GMT+08:00) Ulaan Bataar</option>
+        <option value="Asia/Ulaanbaatar">GMT+08:00 Ulaan Bataar</option>
     
-        <option value="Asia/Urumqi">(GMT+08:00) Urumqi</option>
+        <option value="Asia/Urumqi">GMT+08:00 Urumqi</option>
     
-        <option value="Asia/Seoul">(GMT+09:00) Seoul</option>
+        <option value="Asia/Seoul">GMT+09:00 Seoul</option>
     
-        <option value="Asia/Tokyo">(GMT+09:00) Tokyo</option>
+        <option value="Asia/Tokyo">GMT+09:00 Tokyo</option>
     
-        <option value="Australia/Adelaide">(GMT+09:30) Adelaide</option>
+        <option value="Australia/Adelaide">GMT+09:30 Adelaide</option>
     
-        <option value="Australia/Darwin">(GMT+09:30) Darwin</option>
+        <option value="Australia/Darwin">GMT+09:30 Darwin</option>
     
-        <option value="Australia/Brisbane">(GMT+10:00) Brisbane</option>
+        <option value="Australia/Brisbane">GMT+10:00 Brisbane</option>
     
-        <option value="Pacific/Guam">(GMT+10:00) Guam</option>
+        <option value="Pacific/Guam">GMT+10:00 Guam</option>
     
-        <option value="Australia/Hobart">(GMT+10:00) Hobart</option>
+        <option value="Australia/Hobart">GMT+10:00 Hobart</option>
     
-        <option value="Australia/Melbourne">(GMT+10:00) Melbourne</option>
+        <option value="Australia/Melbourne">GMT+10:00 Melbourne</option>
     
-        <option value="Pacific/Port_Moresby">(GMT+10:00) Port Moresby</option>
+        <option value="Pacific/Port_Moresby">GMT+10:00 Port Moresby</option>
     
-        <option value="Australia/Sydney">(GMT+10:00) Sydney</option>
+        <option value="Australia/Sydney">GMT+10:00 Sydney</option>
     
-        <option value="Asia/Kamchatka">(GMT+11:00) Kamchatka</option>
+        <option value="Asia/Kamchatka">GMT+11:00 Kamchatka</option>
     
-        <option value="Pacific/Auckland">(GMT+12:00) Auckland</option>
+        <option value="Pacific/Auckland">GMT+12:00 Auckland</option>
     
-        <option value="Pacific/Fiji">(GMT+12:00) Fiji</option>
+        <option value="Pacific/Fiji">GMT+12:00 Fiji</option>
     
 </select>
-                <p class="form_error timezoneError">Please fix</p>
-            </div>
-
-            <div class="legal_checkbox unselectable">
-                <label><input type="checkbox" value="true" id="agreement" name="agreement"> I agree to the <a href="/terms" target="_blank">Terms of Service</a> and <a href="/privacy" target="_blank">Privacy Policy</a>.</label>
-                <p class="form_error agreementError">Agreement required for account creation</p>
-            </div>
-
-            <button type="submit" class="signUpButton b3 green primary_button">Create Account</button>
-        </fieldset>
-        <div class="trust_seals_container">
-            <!-- Test how trust seals effect signup form conversion
-            <div id="360a49f4-639f-4762-8413-d667036babe7" class="truste_seal">
-                <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/SumAll/asc?rid=360a49f4-639f-4762-8413-d667036babe7"></script><a href="//privacy.truste.com/privacy-seal/SumAll/validation?rid=580b56ff-d783-4d0c-bc09-fff6d43e2a7c" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" id="image1" src="//privacy-policy.truste.com/privacy-seal/SumAll/seal?rid=580b56ff-d783-4d0c-bc09-fff6d43e2a7c" alt="TRUSTe online privacy certification"/></a>
-            </div>
-            <div class="mcafee_seal">
-                <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=sumall.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/sumall.com/22.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a>
-            </div>
-            -->
+                            <p class="form_error timezoneError">Please fix</p>
+                        </div>
+                        <p class="tip_label"><span class="bold">TIP</span> We’ll tailor your experience based on this timezone.</p>
+                    </div>
+                    
+                    <div class="legal_checkbox unselectable hidden">
+                        <label><input type="checkbox" value="true" id="agreement" name="agreement" checked=""> I agree to the <a href="/terms" target="_blank">Terms of Service</a> and <a href="/privacy" target="_blank">Privacy Policy</a>.</label>
+                        <p class="form_error agreementError">Agreement required for account creation</p>
+                    </div>
+                    <button type="submit" class="signUpButton b3 green primary_button">Create Account</button>
+                    <p class="form_error serverError">We're having problems handling your signup.<br>Please try again later.</p>                     
+                </div>
+            </fieldset>
         </div>
+                
+        <div class="a_third third_two">
+            <div class="third_parties">
+                <h5>Sign up now with either<br>Twitter, Facebook or Google</h5>
+                <span class="third_party_signup">
+                    <button onclick="javascript:return false;" provider="twitter">Sign up with Twitter</button>
+                </span>
+                <span class="third_party_signup">
+                    <button onclick="javascript:return false;" provider="facebook"> Sign up with Facebook</button>
+                </span>
+                <span class="third_party_signup">
+                    <button onclick="javascript:return false;" provider="googleplus">Sign up with Google</button>
+                </span>
+            </div>
+        </div>
+        
+        <div class="a_third third_one">
+            <h1>100,000+ companies <br>use SumAll free.</h1>
+            <div class="social_advocate_block">
+                <img src="https://d49awdk0lj1sm.cloudfront.net/public/external/img/identity/signup/npr_small.png?_vx=v2.9.46-1" alt="NPR">
+                <p>“ See the stats on what online action caused what online reaction …<br><span class="social_advocate"><a target="_blank" href="http://www.marketplace.org/topics/tech/how-much-facebook-worth-your-business">David Brancaccio<br>for NPR’s Marketplace</a></span></p>
+            </div>
+        </div>
+        
+    </div>    
     </form>
 
     <div class="success_verification_msg">
         <div class="sequential_appearance">
-            <h1>Nice to meet you <span class="firstname"></span>.</h1>
+            <div class="upper">
+                <div class="line">
+                    <div class="stacked">
+                        <span class="sa_logo"></span>
+                        <h5 class="message">Nice to meet you <span class="firstname"></span>.</h5>
+                    </div>
+                </div>
+            </div>
+            <!--<div class="loading_message">
+                <p class="message"></p>
+                <div class="loading_animation"></div>
+                <p>Preparing your account&thinsp;&#8230;</p>
+            </div>-->
         </div>
     </div>
 
-    <div class="telephone_number">
-       <a href="callto:1-917-719-0255">Dial +1 917 719 0255</a><p class="sumall_icon telephone_closer_trigger">*</p>
-   </div>
+    <div class="signup_footer">
+        <p>Help &nbsp; <a href="mailto:support@sumall.com">support@sumall.com</a> &nbsp; <button class="toggle_telephone_number">+1 917 719 0255</button></p>
+    </div>
 
 </div>
 
 
     
-<div class="container login hidden">
+
+<div class="secureLogin container login hidden">
     <div class="row">
-        <div class="login_content clearfix twelvecol last unselectable">
+        <div class="login_content clearfix last unselectable">
             <form method="POST" action="/jsdisabled" id="loginForm" novalidate="">
-                <input type="hidden" name="authenticityToken" value="b0ca85e37c07e2f63ba110aa0fcf575351b17239">
+                
+                <input type="hidden" name="authenticityToken" value="d986a0d905d1ef9a76c224637d0313101813e492">
 
                 <fieldset>
                     <div class="email_pw_field_embedded">
                         <div class="field">
-                            <input type="email" name="email" title="&nbsp; Email" spellcheck="false" tabindex="3" autofocus="">
+                            <input type="email" name="email" placeholder="Email" spellcheck="false" tabindex="3" autofocus="">
                         </div>
                         <div class="field last_field pw_field">
-                            <input type="password" name="password" title="&nbsp; Password" tabindex="4">
+                            <input type="password" name="password" placeholder="Password" tabindex="4">
                             <a href="https://sumall.com/password/forgot" tabindex="7">Forgot ?</a>
                         </div>
+                        <p class="form_error loginError"></p>
                         <div class="login_submit">
-                            <button class="green" type="submit" tabindex="5">Go</button>
-                        </div>
-                        <div class="remember_me_embedded">
-                            <label><input type="checkbox" name="rememberme" class="remember_me_check" value="true" tabindex="6"> Remember me</label>
-                        </div>
+                            <button class="green" type="submit" tabindex="5">Log In</button>
+                            <div class="remember_me_embedded">
+                                <label><input type="checkbox" name="rememberme" class="remember_me_check" value="true" tabindex="6"> Remember me</label>
+                            </div>
+                        </div>    
                     </div>
                 </fieldset>
-                <p class="form_error loginError"></p>
+                
+                <div class="or_divider">
+                    <span>or</span>
+                </div>
+                
+                <div class="third_parties">
+                    <span class="third_party_login">
+                        <button onclick="javascript:return false;" provider="twitter">Log in with Twitter</button>
+                    </span>
+                    <span class="third_party_login">
+                        <button onclick="javascript:return false;" provider="facebook">Log in with Facebook</button>
+                    </span>
+                    <span class="third_party_login">
+                        <button onclick="javascript:return false;" provider="googleplus">Log in with Google</button>
+                    </span>
+                </div>
+           
                 <p class="verify_notice verifyNotice"></p>
+                
             </form>
         </div>
     </div>
 </div>
 
 
+<div class="container global_announcement">
+    <p>Your key stats are now easier to track. <a class="under_link" href="https://sumall.com/pricing">Premium users get a FREE SumAll Pulse</a></p>
+</div>
+
 
 
 <div class="container prime_nav">
     <div class="row">
-        <div class="twocol logotype sumall_icon">
+        <div class="twocol logotype">
             <a href="https://sumall.com/"><em>SumAll</em></a>
         </div>
 
         <div class="tencol">
             <ul>
-                <li class="page_link "><a href="https://sumall.com/tour">Tour</a></li>
-                <li class="page_link "><a href="https://sumall.com/testimonials">Testimonials</a></li>
-                <li class="page_link "><a href="https://sumall.com/pricing">Pricing</a></li>
-                <li class="page_link "><a href="https://sumall.com/resources">Resources</a></li>
-                <li class="page_link"><a href="http://blog.sumall.com">Blog</a></li>
+                
+                    <li class="desktop_viewable page_link"><a href="https://sumall.com/tour">Tour</a></li>
+                    <li class="page_link "><a href="https://sumall.com/testimonials">Testimonials</a></li>
+                    <li class="page_link "><a href="https://sumall.com/pricing">Pricing</a></li>
+                    <li class="page_link "><a href="https://sumall.com/resources">Resources</a></li>
+                    <li class="page_link"><a href="http://blog.sumall.com">Blog</a></li>
+                
                 <li class="passport_button">
                     
                     
-                    <a href="/" tabindex="1" id="loginButton">Log In</a><a href="/" tabindex="2" class="secureSignupTrigger">Sign Up</a>
+                    <a href="https://sumall.com/login" tabindex="1" id="loginButton">Log In</a><a href="/" tabindex="2" class="secureSignupTrigger">Sign Up</a>
                     
                 </li>
             </ul>
@@ -482,7 +931,7 @@ mixpanel.init("27fb2d7358e74e341f5041b6b89f832f");</script>
 
 <noscript>
     <div class="js_less">
-        <p><img src="/public/external/img/notices/error.png" alt="Error"/> &nbsp; <a href="/javascript">Our site requires JavaScript.</a></p>
+        <p><img src="https://d49awdk0lj1sm.cloudfront.net/public/external/img/notices/error.png?_vx=v2.9.46-1" alt="Error"/> &nbsp; <a href="/javascript">Our site requires JavaScript.</a></p>
     </div>
 </noscript>
 
@@ -506,8 +955,6 @@ mixpanel.init("27fb2d7358e74e341f5041b6b89f832f");</script>
                 <div id="360a49f4-639f-4762-8413-d667036babe7" class="truste_seal"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/SumAll/asc?rid=360a49f4-639f-4762-8413-d667036babe7"></script><a href="//privacy.truste.com/privacy-seal/SumAll/validation?rid=580b56ff-d783-4d0c-bc09-fff6d43e2a7c" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" id="image1" src="//privacy-policy.truste.com/privacy-seal/SumAll/seal?rid=580b56ff-d783-4d0c-bc09-fff6d43e2a7c" alt="TRUSTe online privacy certification"></a></div>
             
                 <div id="DigiCertClickID_aeEK9lUm" class="digi_seal"><script type="text/javascript">var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_aeEK9lUm", "3", "m", "white", "aeEK9lUm"]);(function(){var cid=document.createElement("script");cid.type="text/javascript";cid.async=true;cid.src=("https:" === document.location.protocol ? "https://" : "http://")+"seal.digicert.com/seals/cascade/seal.min.js";var s = document.getElementsByTagName("script");var ls = s[(s.length - 1)];ls.parentNode.insertBefore(cid, ls.nextSibling);}());</script><script type="text/javascript" async="" src="https://seal.digicert.com/seals/cascade/seal.min.js"></script></div>
-            
-                <div class="mcafee_seal"><a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=sumall.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/sumall.com/22.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a></div>
             </div>
             <p>
             SumAll has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy-program-requirements/">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software or software APIs. The TRUSTe program covers only information that is collected through this Web site, <a href="https://sumall.com/">sumall.com</a>. 
@@ -667,65 +1114,27 @@ mixpanel.init("27fb2d7358e74e341f5041b6b89f832f");</script>
 <div class="container press_firms">
     <div class="row">
         <div class="threecol">
-            <a href="https://sumall.com/press#wsj"><img src="/public/external/img/partners/v2/bw_wsj.png" alt="Wall Street Journal">
+            <a href="https://sumall.com/press#wsj"><img src="https://d49awdk0lj1sm.cloudfront.net/public/external/img/partners/v2/bw_wsj.png?_vx=v2.9.46-1" alt="Wall Street Journal">
             </a>
             <p><span class="press_quote">“</span>&nbsp;Provides Critical Perspective&nbsp;<span class="press_quote">”</span></p>
         </div>
 
         <div class="threecol">
-            <a href="https://sumall.com/press#mashable"><img src="/public/external/img/partners/v2/bw_mashable.png" alt="Mashable"></a>
+            <a href="https://sumall.com/press#mashable"><img src="https://d49awdk0lj1sm.cloudfront.net/public/external/img/partners/v2/bw_mashable.png?_vx=v2.9.46-1" alt="Mashable"></a>
             <p><span class="press_quote">“</span>&nbsp;Biggest Impact on Bottom Line&nbsp;<span class="press_quote">”</span></p>
         </div>
 
         <div class="threecol">
-            <a href="https://sumall.com/press#business-insider"><img src="/public/external/img/partners/v2/bw_bi.png" alt="Business Insider"></a>
+            <a href="https://sumall.com/press#business-insider"><img src="https://d49awdk0lj1sm.cloudfront.net/public/external/img/partners/v2/bw_bi.png?_vx=v2.9.46-1" alt="Business Insider"></a>
             <p><span class="press_quote">“</span>&nbsp;Incredibly Helpful&nbsp;<span class="press_quote">”</span></p>
         </div>
 
         <div class="threecol last">
-            <a href="https://sumall.com/press#tech-crunch"><img src="/public/external/img/partners/v2/bw_techcrunch.png" alt="Techcrunch"></a>
+            <a href="https://sumall.com/press#tech-crunch"><img src="https://d49awdk0lj1sm.cloudfront.net/public/external/img/partners/v2/bw_techcrunch.png?_vx=v2.9.46-1" alt="Techcrunch"></a>
             <p><span class="press_quote">“</span>&nbsp;Bringing Data Together&nbsp;<span class="press_quote">”</span></p>
         </div>
     </div>
 </div>
-
-
-<script type="text/javascript">
-
-var i18nMessages = {"validation.unique":"Must be unique","account.invalid.credentials":"Wrong email and password combination","field.status":"status","api.goals.missinginput":"Missing some required data","field.username":"username","field.error.length":"Must be between %1$s and %2$s characters","api.goals.thresholdInvalid":"Goal threshold invalid","title.applicationError":"Application Exception","field.error.store.url.exists":"This store has already been registered.","field.betaFeatures":"Beta Features","field.error.ga.profile.required":"A profile is required.","account.already.confirmed":"This account is already confirmed","account.locked":"Your account is temporarily locked.","field.timezone":"timezone","field.error.alpha":"%1$s must contain at least 1 alpha character.","amazonPayments.internalError":"An error occurred during signup.","label.newStreamName":"New Stream Name","since.months":"%s month%s ago","field.error.allRequired":"All fields are required","account.confirmation.email.failed":"An error occurred sending confirmation email","email.summary.traffic.login_label":"Who\u0027s visiting now?","magento.invalidCreds":"The API credentials are invalid for the selected marketplace. Please review the steps below.","success.admin.unlockUser":"User has been unlocked","since.minutes":"%s minute%s ago","error.admin.extendFreeTrialUser":"Cannot extend trial for invalid or nonexistent user","validation.match":"Must match %2$s","account.created":"Your account is created. Please check your email to confirm your registration.","since.hours":"%s hour%s ago","field.error.seomoz.exists":"You have already connected SEOmoz for this site.","field.error.fb.page.required":"Please select a Facebook Page.","field.updated":"\u0026{%s} was updated successfully","error.emailUnsubscribed":"You have already been unsubscribed from \u0026{%s} emails.","amazonPayments.invalidCreds":"The provided credentials are invalid.","validation.email":"Invalid email address","field.achievement":"achievement","success.admin.createApiKey":"A new API key has been created (%s)","bigcommerce.step2.error":"An error occurred during signup. Please start over \u003ca href\u003d\"%s\"\u003ehere\u003c/a\u003e.","info.login.emailVerification":"\u003ch1\u003eYour email has been confirmed.\u003c/h1\u003e","field.error.matching.password":"Your new password cannot match your existing password","email.system.trialExpire.subject":"Your free trial is about to end.","info.login.shopify.reinstalled":"\u003ch1\u003eYour shop has been re-connected.\u003c/h1\u003e","form.invalidInput":"Please enter a valid \u0026{%s}","email.summary.social.login_label":"Engaging your followers?","amazon.account.exists":"This Amazon account has already been registered with SumAll.","validation.max":"Cannot be greater than %2$d","validation.before":"Must be before %2$s","label.timezone":"Time Zone","email.system.preparingData.subject":"We are making your data pretty :)","validation.invalid":"Incorrect value","label.username":"Username","since.format":"MMM d, yyyy","field.error.authorize.exists":"This Authorize Account is already connected.","api.goals.periodTooLong":"Goals have a maximum interval of one year and one day.","error.api.ssl.required":"SSL required for API access","braintree.invalidCreds":"The provided credentials are invalid.  Please review the steps below.","error.admin.sendPreviewEmail":"Cannot send email preview to \u0027%s\u0027","account.nonexsistent.user":"Account does not exist","field.goal.plural":"goals","field.email":"email","validation.minSize":"Minimum size is %2$d","input.invalidResetPasswordToken":"To reset your password you must follow the link found in the reset password email.  If multiple reset password requests have been made, please use the link in the most recent email.","success.admin.createGenericInstagramStream":"Generic Instagram stream created successfully","title.notFound":"Not Found","button.resetPassword":"Reset Password","account.temporary.password":"You must change your temporary password by entering a new password in the form below","repeatPassword":"Password","account.create.failed":"An error occurred creating your account","success.admin.addDemoGenericStream":"Successfully created a DemoGenericStream for user.","api.data.required":"\u0026{%s} is required","success.admin.sendPreviewEmail":"Email preview sent to email \u0027%s\u0027","field.error.password.current.wrong":"Your current password is incorrect","validation.required":"Required","field.deleted.plural":"\u0026{%s} were deleted successfully","success.admin.extendFreeTrialUser":"User\u0027s free trial has been extended %s days","since.years":"%s year%s ago","success.admin.removeBetaFeature":"Access to Beta Feature \u0027%s\u0027 has been removed from all users.","account.new.password":"An email has been sent with instructions for resetting your password.","account.invalid.user":"Your account is inactive. Please contact support if this is a mistake.","info.login.welcomeback":"\u003ch1\u003eWelcome back.\u003c/h1\u003e","field.deleted":"\u0026{%s} was deleted successfully","error.emailVerification.invalidToken":"To confirm your email address, you must follow the link found in the email we sent. To have this email resent, click \u003ca href\u003d\"%s\"\u003ehere\u003c/a\u003e. ","field.error.tumblr.blog.exists":"This Tumblr blog is already connected.","api.goals.periodTooShort":"Goal time period must be at least 7 days","account.reset.password.failed":"There was a problem with the email address entered, please try again.","field.apikeys":"api keys","field.error.bingAds.password.required":"Please enter your Bing Ads account password.","validation.after":"Must be after %2$s","label.newPassword":"New Password","field.unsubscribed":"You have been unsubscribed.","validation.maxSize":"Maximum size is %2$d","stream.added":"%s stream successfully added\"","validation.isTrue":"Must be checked","account.expiredResetPasswordToken":"Your reset password link expires after 6 hours.  Please try resetting your password again.","success.emailVerification.resent":"We\u0027ve sent you an email with instructions on how to confirm your email address.","field.error.authorize.invalidCreds":"The provided credentials are invalid.","api.data.invalid":"Invalid \u0026{%s} parameter given","button.login":"Login","email.system.trialPurchase.subject":"Thank you for purchasing a SumAll account.","validation.equals":"Must be equal to \u0026{%2$s}","bigcommerce.invalidCreds":"The API credentials are invalid. Please review the steps below.","field.error.ga.profile.exists":"This Google Analytics profile is already connected.","validation.range":"Not in the range %2$d through %3$d","email.system.accountReady.subject":"Your account is ready","validation.phone":"Not a valid phone","account.accessDenied":"Access Denied","field.updated.plural":"\u0026{%s} were updated successfully","amazonPayments.invalidAccount":"Your account is closed or invalid.","field.error.seomoz.invalidSiteUrl":"Invalid site URL.","password":"Password","button.signup":"Signup","field.error.mismatched.passwords":"The passwords entered do not match","button.change":"Change","field.error.authorize.invalidPermissions":"To complete the connection, enable your Transaction Details API. See step 3 below.","account.invalidResetPasswordToken":"To reset your password you must follow the link found in the reset password email.  If multiple reset password requests have been made, please use the link in the most recent email.","account.logout":"You are now logged out","field.error.disallowed":"Disallowed \u0026{%s}","field.error.ga.invalidAcct":"This Google account is not linked with Google Analytics.","error.admin.expireFreeTrialUser":"Cannot expire invalid or nonexistent user","account.signup":"Thanks! We\u0027ll let you know when we have something for you to play with.","validation.object":"Validation failed","error.emailNotFound":"We could not find an account for that email address.","title.notAuthorized":"Not Authorized","info.login.emailVerification.newUser":"\u003ch1\u003eSign in to get started.\u003c/h1\u003e","validation.min":"Cannot be lower than %2$d","field.error.shopify.url":"Invalid Shopify Store URL","field.password":"password","field.error.too.short":"%1$s must be at least %2$s characters","field.error.exists":"Already exists","email.summary.sales.login_label":"See your sales live","validation.ipv6":"Not a valid IP v6 address","button.changePassword":"Change Password","validation.ipv4":"Not a valid IP address","title.accountSettings":"Account Settings","email.system.importComplete.subject":"Your %s is ready.","error.emailVerification.alreadyConfirmed":"This email address has already been confirmed.","api.goals.periodInPast":"Goals must end in the future","email.summary.weeklySummary.subject":"%s Week in Review from SumAll | %s","field.error.bingAds.username.required":"Please enter your Bing Ads account username.","success.signup.platformRequest":"Thanks! We\u0027ll notify you once this platform is available on SumAll.","platform.requests.not.found":"No platforms found.","title.forbidden":"Forbidden","label.email":"Email","account.welcome":"Welcome %s!","email.summary.payments.login_label":"See your charges live","error.admin.addDemoGenericStream":"Cannot create DemoGenericStream for invalid or non-admin user.","field.error.username.characters":"Can only contain letters, numbers, _, -, and .","email.system.welcome.subject":"Hi %s, welcome to SumAll","email.system.emailVerification.subject":"Please Verify Your Email Address","email.summary.facebook.login_label":"Who is talking about you?","field.error.tumblr.blog.required":"Please select a Tumblr blog.","field.error.password.history":"Your new password cannot match any of your last %2$s passwords","field.goal":"goal","account.invalid.platform":"Unsupported platform","email.system.addDataPrompt.subject":"Feed your account %s","email.system.password.reset.subject":"SumAll Password Reset","validation.future":"Must be in the future","since.days":"%s day%s ago","error.notOwner":"Your SumAll account is not associated with this store, please login with a different account.","success.contactUs":"Thanks! We\u0027ll contact you as soon as possible.","field.error.signup.platform":"Please provide a platform","api.data.unsupported":"Unsupported \u0026{%s} parameter given","field.roles":"roles","amazonPayments.account.exists":"This account has already been registered.","error.authenticityToken":"Your request could not be processed.  Please refresh the page and try again.","success.admin.expireFreeTrialUser":"User\u0027s free trial has been expired","validation.url":"Not a valid URL","error.emailToken":"Your unsubscribe request could not be processed.  Please verify the URL you have entered and try again.","account.not.confirmed":"This account is not confirmed yet","field.changed":"Your \u0026{%s} was changed successfully","account.password.expired":"Your password has expired.  Please reset it \u003ca href\u003d\"%s\"\u003ehere\u003c/a\u003e.","field.error.numeric":"%1$s must contain at least 1 number.","field.error.fb.page.exists":"This Facebook Page is already connected.","field.achievement.plural":"achievements","validation.past":"Must be in the past","email.system.trialContinue.subject":"Your account has been upgraded.","success.changePassword":"Your password has been changed.  Please login \u003ca href\u003d\"%s\"\u003ehere\u003c/a\u003e.","field.preferences":"preferences","label.password":"Password","form.error":"Please correct the errors below","api.goals.exists":"An active goal already exists for this data set","button.add":"Add","field.error.passwordChange.blank":"Please enter your current and new password","success.admin.createUser":"New user \u0027%s\u0027 has been created.","field.error.blank":"Cannot be blank","field.error.too.long":"%1$s must be shorter than %2$s characters","amazon.invalidCreds":"The provided credentials are invalid.  Please review the steps below.","since.seconds":"%s second%s ago","password2":"Password","braintree.account.exists":"This Braintree account has already been registered with SumAll.","password1":"Password","email.system.gettingStarted.subject":"Make SumAll work for you","email.system.trialStart.subject":"Hi %s, welcome to SumAll!","email.summary.dailySummary.subject":"%s Daily Digest from SumAll | %s","error.existingAccount":"This store has already been registered with SumAll, please login to update your apiKey.","validation.notFound":"Object not found for id %2$s","field.error.seomoz.notTracked":"SEOmoz does not currently have statistics for this site.","account.confirmation.sent":"Please check your email for the confirmation code","success.resetPassword":"We\u0027ve sent you an email with instructions on how to reset your password.","email.system.platformRequester.subject":"Thank you for your platform request"};
-
-/**
- * Fixme : only parse single char formatters eg. %s
- */
-var i18n = function(code) {
-    var message = i18nMessages && i18nMessages[code] || code;
-    // Encode %% to handle it later
-    message = message.replace(/%%/g, "\0%\0");
-    if (arguments.length > 1) {
-        // Explicit ordered parameters
-        for (var i=1; i<arguments.length; i++) {
-            var r = new RegExp("%" + i + "\\$\\w", "g");
-            message = message.replace(r, arguments[i]);
-        }
-        // Standard ordered parameters
-        for (var i=1; i<arguments.length; i++) {
-            message = message.replace(/%\w/, arguments[i]);
-        }
-    }
-    // Decode encoded %% to single %
-    message = message.replace("\0%\0", "%");
-    // Imbricated messages
-    var imbricated = message.match(/&\{.*?\}/g);
-    if (imbricated) {
-        for (var i=0; i<imbricated.length; i++) {
-            var imbricated_code = imbricated[i].substring(2, imbricated[i].length-1).replace(/^\s*(.*?)\s*$/, "$1");
-            message = message.replace(imbricated[i], i18nMessages[imbricated_code] || "");
-        }
-    }
-    return message;
-};
-
-</script> 
 
             </div>
         </div>
@@ -736,10 +1145,11 @@ var i18n = function(code) {
             <ul>
                 <li class="list_lead">Company</li>
                 <li><a href="https://sumall.com/about">About</a></li>
-                <li><a href="https://sumall.com/tour">Tour</a></li>
+                <li class="desktop_viewable"><a href="https://sumall.com/tour">Tour</a></li>
                 <li><a href="https://sumall.com/testimonials">Testimonials</a></li>
                 <li><a href="https://sumall.com/pricing">Pricing</a></li>
                 <li><a href="https://sumall.com/resources">Resources</a></li>
+                <li><a href="https://sumall.com/careers">Careers</a></li>
                 <li><a href="https://sumall.com/press">Press</a></li>
                 <li><a href="http://sumall.org/">Foundation</a></li>
             </ul>
@@ -748,6 +1158,7 @@ var i18n = function(code) {
             <ul>
                 <li class="list_lead">Community</li>
                 <li><a href="http://blog.sumall.com">Blog</a></li>
+                <li><a href="https://sumall.com/free-marketing-images">Free Imagery</a></li>
                 <li><a href="http://twitter.com/sumall">Twitter</a></li>
                 <li><a href="http://facebook.com/sumalls">Facebook</a></li>
                 <li><a href="http://pinterest.com/sumall/pins/">Pinterest</a></li>
@@ -759,17 +1170,14 @@ var i18n = function(code) {
             <ul>
                 <li class="list_lead">Help</li>
                 <li><a href="https://sumall.com/contact">Contact</a></li>
-                <li><a href="https://sumall.com/support">Support</a></li>
-                <li><a href="https://sumall.com/support/faq">FAQ</a></li>
-                <li><a href="https://sumall.com/support/glossary">Glossary</a></li>
-                <li><a href="https://sumall.com/support/articles">Articles</a></li>
+                <li class="desktop_viewable"><a href="https://support.sumall.com/">Support</a></li>
             </ul>
         </div>
         <div class="twocol">
             <ul>
                 <li class="list_lead">Security</li>
                 <li><a href="https://privacy.truste.com/privacy-seal/SumAll/validation?rid=580b56ff-d783-4d0c-bc09-fff6d43e2a7c" target="_blank">TrustE Certified</a></li>
-                <li><a href="https://www.mcafeesecure.com/RatingVerify?ref=sumall.com" target="_blank">McAfee Certified</a></li>
+                <!-- <li><a href="https://www.mcafeesecure.com/RatingVerify?ref=sumall.com" target="_blank">McAfee Certified</a></li> -->
                 <li><a href="https://seal.digicert.com/seals/popup/?tag=aeEK9lUm&amp;url=sumall.com" target="_blank">DigiCert Certified</a></li>
                 <li><a href="https://sumall.com/privacy">Privacy Policy</a></li>
                 <li><a href="https://sumall.com/terms">Terms of service</a></li>
@@ -785,27 +1193,26 @@ var i18n = function(code) {
         <script>
             Modernizr.load([
                 {
-                    load     : "//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js",
-                    callback : function() {
-                        if (!window.jQuery) { yepnope("/public/javascripts/includes/jquery-1.8.2.min.js?v=v2.5.17-1"); }
-                    }
+                    load : "https://d49awdk0lj1sm.cloudfront.net/api/repack.js?fileToken=4E3cMnE5umK5c3xrWUSUescwQegafsBIsGfekeknAjJWub7vwK028btiJz6nznxWz1g&_vx=v2.9.46-1"
+                },
+                
+                {
+                    test : Modernizr.svg,
+                    yep  : "https://d49awdk0lj1sm.cloudfront.net/api/repack.js?fileToken=Q8zY7Evqg4S6UpTcCwVfQSIu7hF660EugEcorw2SrryvvVpckAmmoNcJ&_vx=v2.9.46-1",
+                    nope : "https://d49awdk0lj1sm.cloudfront.net/api/repack.js?fileToken=IyQVPzTqWMR0S5O2jnIR9ov7CEfp9VmnlUOviaVgipZbQjokSn6KNWa&_vx=v2.9.46-1"
+                },
+                {
+                    test : Modernizr.input.placeholder,
+                    nope : "https://d49awdk0lj1sm.cloudfront.net/api/repack.js?fileToken=KPOkblbFFCRGH13xtu0azRRhYzcMCMjk4XsN4jdvy6UXfTTJ8JfWit2kV6z3QRewKpd96Ned05&_vx=v2.9.46-1"
                 },
                 {
                     load: [
-                    "/public/repack/repack-TI3dn8tuKkdj.js?v=v2.5.17-1"
+                    "https://d49awdk0lj1sm.cloudfront.net/api/repack.js?fileToken=GxI9n4oTR2PHPyivuXhUykB3tK4pUULbYvgMGgXpVWCp0tyPbQ2iosOGfiWODJYD3dS38lsGonpeOPWUVqoqN7VWo8XeYwTrbpcrhs1j6yUpw66JJKM3OSOfYCmzE0cG6dh2aKtx4lRoetuEsghgNzBDvONyLZF4H2YL6ob6&_vx=v2.9.46-1"
                     ]
                 },
                 {
                     load: [
-                    "/public/repack/repack-LuuDQcTWOsVj.js?v=v2.5.17-1"
-
-                        ,
-                        
-    "/public/javascripts/external/sumall-signup.js",
-    "/public/javascripts/includes/chosen.jquery.min.js"
-
-
-
+                    "https://d49awdk0lj1sm.cloudfront.net/api/repack.js?fileToken=i9aLPxQ8osyIBpG9iuwMro8KN0TfL9QCVWG9leFyGPcw3h3peSnX56MduNgulfaGBeqqPUoZC7E1Dn8Gt3NouRluU9dRdStBJgFyN8WphyuN07dOkLaZhgPg2NpzwKrfcbivdsn8fKYFHczByTvlEOuyl3vloT41dAk14xgHnda0rfY7&_vx=v2.9.46-1"
                     ],
                     complete: function() {
 
@@ -816,7 +1223,10 @@ var i18n = function(code) {
                         sumall.eventmanager.init();
 
                         sumall.templatemanager = new SumAll.templates.Manager({
-                            templateUrl:"https://sumall.com/api/templates"
+                            baseTemplateUrl : "https://sumall.com/api/templates",
+
+                            coreTemplateUrl : "https://d49awdk0lj1sm.cloudfront.net/api/repack.mustache?fileToken=aP7a9IFTfqgyLuuOFPjj83AkcFHzqPEroOnqrA6&_vx=v2.9.46-1",
+
                         });
                         sumall.templatemanager.init();
 
@@ -824,21 +1234,25 @@ var i18n = function(code) {
                         });
                         sumall.keybinds.init();
 
+                        // mix it up with tracking
+                        sumall.mixpanel = new SumAll.analytics.mixpanel.Manager({
+                            "consoleOnly" : "",
+                            "logToConsole" : ""
+                        });
+                        sumall.mixpanel.init();
+
                         sumall.analytics = new SumAll.analytics.Manager();
 
                         var isSystemUser =  false ;
                         sumall.analytics.init("", "", isSystemUser);
                         sumall.analytics.externalReadyInit();
 
-                        sumall.externalAnalytics = new SumAll.externalAnalytics.Manager({});
-                        sumall.externalAnalytics.init();
 
 
 
                         sumall.eventmanager.bind("html", SumAll.events.EventManager.CORE_READY, function() {
-
-
-
+                            
+                            
 
     // globally used constants
     var easing = "easeInOutExpo";
@@ -846,6 +1260,8 @@ var i18n = function(code) {
 
     // display ab testing content wrapper
     $(".experiment_wrapper").delay(200).fadeIn(350, easing);
+
+
 
     // callback function to handle opening signup form
     var showWrapperHandler = function() {
@@ -890,11 +1306,70 @@ var i18n = function(code) {
         "triggerButton"   : ".secureSignupTrigger",
         "triggerHandler"  : showWrapperHandler,
         "easing"          : easing,
-        "signupIntroMsg"  : "Try SumAll free."
+        "signupIntroMsg"  : ""
     };
-
     SumAll.signup.Manager.setupSignup(signupData);
-    
+
+    // Set up provider authentication forms
+    var googlePlusProviderData = {
+        "name"               : "googleplusProvider",
+        "provider"           : "googleplus",
+        "label"              : "Google+",
+        "attachPoint"        : "#thirdPartyForm",
+
+        "loginUrl"           : "https://sumall.com/oauth2",
+        "loginAuthorizeUrl"  : "https://sumall.com/login/authorize/googleplus",
+        "loginTrigger"       : ".third_party_login [provider=googleplus]",
+
+        "signupType"         : "oauth2",
+        "signupUrl"          : "https://sumall.com/signup/oauth2",
+        "signupAuthorizeUrl" : "https://sumall.com/signup/authorize/googleplus",
+        "signupTrigger"      : ".third_party_signup [provider=googleplus], .secondary_signup [provider=googleplus]",
+
+        "verifyUrl"          : "https://sumall.com/verify/oauth2",
+    };
+    SumAll.signup.Manager.setupThirdPartyProvider(googlePlusProviderData);
+
+    var twitterProviderData = {
+        "name"               : "twitterProvider",
+        "provider"           : "twitter",
+        "label"              : "Twitter",
+        "attachPoint"        : "#thirdPartyForm",
+
+        "loginUrl"           : "https://sumall.com/oauth1",
+        "loginAuthorizeUrl"  : "https://sumall.com/login/authorize/twitter",
+        "loginTrigger"       : ".third_party_login [provider=twitter]",
+
+        "signupType"         : "oauth1",
+        "signupUrl"          : "https://sumall.com/signup/oauth1",
+        "signupAuthorizeUrl" : "https://sumall.com/signup/authorize/twitter",
+        "signupTrigger"      : ".third_party_signup [provider=twitter], .secondary_signup [provider=twitter]",
+
+        "verifyUrl"          : "https://sumall.com/verify/oauth1",
+    };
+    SumAll.signup.Manager.setupThirdPartyProvider(twitterProviderData);
+
+    var facebookProviderData = {
+        "name"               : "facebookProvider",
+        "provider"           : "facebook",
+        "label"              : "Facebook",
+        "attachPoint"        : "#thirdPartyForm",
+
+        "loginUrl"           : "https://sumall.com/oauth2",
+        "loginAuthorizeUrl"  : "https://sumall.com/login/authorize/facebook",
+        "loginTrigger"       : ".third_party_login [provider=facebook]",
+
+        "signupType"         : "oauth2",
+        "signupUrl"          : "https://sumall.com/signup/oauth2",
+        "signupAuthorizeUrl" : "https://sumall.com/signup/authorize/facebook",
+        "signupTrigger"      : ".third_party_signup [provider=facebook], .secondary_signup [provider=facebook]",
+
+        "verifyUrl"          : "https://sumall.com/verify/oauth2"
+    };
+    SumAll.signup.Manager.setupThirdPartyProvider(facebookProviderData);
+
+
+
 
 
     // Set up header login form
@@ -907,35 +1382,44 @@ var i18n = function(code) {
     SumAll.signup.Manager.setupLogin(headerLoginData);
 
     // Add handler for show login button
-    SumAll.initFormLabels = false;
     mainNav.find("#loginButton").bind("click", function (e) {
-        e.preventDefault();
-
-        // temporarily disable iOS form field auto zoom
-        var tempMetaViewport = $("head meta[name='viewport']");
-        if (!tempMetaViewport.exists()) {
-            tempMetaViewport = $("head").prepend('<meta name="viewport" content="user-scalable=no" />').find("meta[name='viewport']");
+        // if this is a mobile browser, kick over to mobile login
+        if (SumAll.util.isMobile() && !SumAll.util.isMobileDisabled()) {
+           location.href = "/mobile/login";
         }
-        var tempMetaViewportContent = tempMetaViewport.attr("content");
-        tempMetaViewport.attr("content", "user-scalable=no");
+
+        e.preventDefault();
 
         if ($(window).scrollTop() != 0) {
             $("body,html").animate({scrollTop: 0}, 150);
             headerLogin.delay(400);
         }
 
+        if (headerLogin.is(":hidden")) {
+            $(".hero").animate({"opacity":".25"}, 50, "easeOutExpo");
+        } else {
+            $(".hero").animate({"opacity":"1"}, 250, "easeOutExpo");
+        }
+
         headerLogin.stop(true, true).slideToggle(400, "easeOutExpo", function() {
             headerLogin.find("input[type=email]").focus();
-
-            // re-enable iOS zoom ability
-            tempMetaViewport.attr("content", tempMetaViewportContent);
-
-            if (!SumAll.initFormLabels) {
-                $.fn.formLabels();
-                SumAll.initFormLabels = true;
-            }
         });
     });
+
+    // add handler for already logged in button
+    mainNav.find("#myAccountButton").on("click", function(e) {
+        // if this is a mobile browser, kick over to mobile site
+        if (SumAll.util.isMobile() && !SumAll.util.isMobileDisabled()) {
+            location.href = "https://sumall.com/mobile/home";
+        }
+        else {
+            location.href = "https://sumall.com/home";
+        }
+
+        e.preventDefault();
+    });
+
+
 
 
 
@@ -957,11 +1441,10 @@ var i18n = function(code) {
 
 
 
-
+                            
 
     var EASING = "easeOutExpo";
     $(".legal").delay(200).animate({"opacity":"1","margin-top":"100px"},400,EASING);
-
 
 
                         });
@@ -971,12 +1454,12 @@ var i18n = function(code) {
         </script>
 
 
-        <script>
-            window._gaq = [["_setAccount","UA-23089585-1"],["_setDomainName", "sumall.com"],["_setSiteSpeedSampleRate", 100],["_trackPageview"]];
-            Modernizr.load({
-                load: ("https:" == location.protocol ? "//ssl" : "//www") + ".google-analytics.com/ga.js"
-            });
-        </script>
+<script>
+    window._gaq = [["_setAccount","UA-23089585-1"],["_setDomainName", "sumall.com"],["_setSiteSpeedSampleRate", 100],["_trackPageview"]];
+    Modernizr.load({
+        load: ("https:" == location.protocol ? "//ssl" : "//www") + ".google-analytics.com/ga.js"
+    });
+</script>
 
 
 
