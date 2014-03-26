@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aldi.us privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023083322id_/https%3A//www.aldi.us/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aldi.us privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326034429id_/https%3A//www.aldi.us/en/privacy-policy) for the most accurate reproduction.*
 
 # ALDI US - Privacy Policy
 
@@ -23,7 +23,6 @@ In short, Cookies can help us to improve our site and to deliver a better, more 
 
 
 
-You can set your browser to accept or reject certain Cookies, or, if you prefer, you can set your browser to alert you each time a Cookie is detected. Previous Cookies that have been stored on your computer can also be deleted. However, if you block our Cookies or you subsequently delete a Cookie that has been placed, it will not be possible for you to use this website   
-effectively — the system relies on Cookies to identify you as the user.
+You can set your browser to accept or reject certain Cookies, or, if you prefer, you can set your browser to alert you each time a Cookie is detected. Previous Cookies that have been stored on your computer can also be deleted. However, if you block our Cookies or you subsequently delete a Cookie that has been placed, it will not be possible for you to use this website effectively — the system relies on Cookies to identify you as the user.
 
 Please be assured that ALDI does not use Cookies to retrieve personal information about you from your computer — we will only gain such information if you have knowingly and willingly provided access to us.
