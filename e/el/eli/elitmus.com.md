@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitmus.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103000626id_/http%3A//www.elitmus.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitmus.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326073816id_/https%3A//www.elitmus.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy / Disclaimer | eLitmus.com
 
@@ -102,4 +102,9 @@ OR Contact us at:
 
 **Address:  
 eLitmus Evaluation Private Limited  
-No:257, 9th 'A' Main,2nd Floor,Jayanagar 3rd Block, Bangalore - 560 011 **
+L-29, 2nd Floor, 2nd 'A' Main,  
+6th sector, HSR Layout, Bangalore-560102 
+
+Landmarks: Above State Bank of India, next to 'Fernhill Gardens' Apartments. 
+
+**
