@@ -1,31 +1,31 @@
-> *The following text is extracted and transformed from the storynexus.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807000158id_/http%3A//www.storynexus.com/sh/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storynexus.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326215022id_/http%3A//www.storynexus.com/sh/privacypolicy) for the most accurate reproduction.*
 
 # 
 
 **FAILBETTER GAMES**
 
-**StoryNexus Privacy Policy  
+ **StoryNexus Privacy Policy  
 ** Last updated on 21st August 2012
 
 These Privacy Policy forms part of an agreement between you and Failbetter Games Ltd (referred to in these Terms as "FBG", "we", "our" and "us") and applies to your use of FBG's storygame creation platform StoryNexus, its database, website and other channels and technologies through which StoryNexus content may be created or played, and when this Privacy Policy mentions "StoryNexus" or "the Service", this includes all of these things.
 
 If you do not agree to this policy, please do not use StoryNexus.  If you have any queries, please email us at enquiries@storynexus.com
 
-**Introduction**
+ **Introduction**
 
 1\.     FBG is committed to protecting and respecting your privacy.
 
 2\.     This privacy policy sets out the basis on which we will process any personal information as well certain other information we collect from you, or that you provide to us.  Please read this privacy policy carefully so that you understand how we will treat your information.
 
-**A quick word about children**
+ **A quick word about children**
 
 3\.     We recognise we have a special obligation to protect personal information we obtain from children.  We do not and will not knowingly collect information from any unsupervised child under the age of 13.  In certain countries, prior written permission or other verifiable consent may also be required from a parent or guardian for children under the age of 18.
 
-**The Data Controller**
+ **The Data Controller**
 
 4\.     For data collection purposes, the data controller is Failbetter Games Limited, a company registered in England and Wales with number 07121579.
 
-**Information we may collect from you**
+ **Information we may collect from you**
 
 5\.     We respect your right to privacy and will only process personal information you provide to us in accordance with applicable privacy laws, such as the Privacy and Electronic Communications (EC Directive) Regulations 2003 within the EU.
 
@@ -53,13 +53,21 @@ We may also ask you to complete surveys that we use for research purposes, altho
 
 9\.     We store the data that we collect from you in our servers in the EU.  However, this data may be transferred to, and stored at, a location outside of the European Economic Area ("EEA").  It may also be processed by staff operating outside of the EEA who work for us or for one of our suppliers.  Such staff may be engaged in, among other things, the performance of our obligations from any contracts entered into with you and the provision of support services.  By submitting your personal data, you agree to this transfer, storing or processing.  We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-**Cookies**
+10\.     We use Google Analytics Demographics and Interest Reporting on this site, in order to learn about the kind of users that visit our site, and possibly target future advertising or tune our content based on that. All data is anonymised and we don't match it to usernames, email addresses or any other personally identifying information.
+
+Do note this browser add-on:
+
+ **https://tools.google.com/dlpage/gaoptout/**
+
+which will allow you to opt out of Google Analytics entirely, meaning that none of the previous paragraph applies to you.
+
+ **Cookies**
 
 10\.   Our website uses cookies to collect information about you.  We use cookies to identify you over the course of a single session, and to store transient data about your recent use of the Service in order to improve your user experience. We do not use shared or advertising cookies.
 
 You will already have confirmed that you accept the placement of cookies on your machine when first entering our website.  However should you now wish to choose to refuse cookies, please click here. You may also change your website browser settings to reject cookies.  For further information about cookies, including how to refuse cookies, please visit www.allaboutcookies.org. Please note that disabling cookies may affect the functionality of the Service.
 
-**Uses made of your information**
+ **Uses made of your information**
 
 11\.   We use information held about you in the following ways:
 
@@ -78,7 +86,7 @@ You will already have confirmed that you accept the placement of cookies on your
 
 13\.   We are not responsible for the activities of other users or other third parties to whom you choose to provide your personal information (whether via our Service or otherwise).
 
-**Disclosure of your information**
+ **Disclosure of your information**
 
 14\.   We may disclose your personal information to any member of our existing or future group, which means our subsidiaries, our ultimate holding company and its subsidiaries.
 
@@ -94,22 +102,22 @@ You will already have confirmed that you accept the placement of cookies on your
 
 16\.  We will not use your information for third party marketing purposes.
 
-**Third party sites**
+ **Third party sites**
 
 17\.   Our Services may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  These websites have their own privacy policies.  Please note that if you follow a link to any of these websites, we do not accept any responsibility or liability for these policies, nor do we endorse such websites.
 
-**Your rights**
+ **Your rights**
 
 18\.   You can also email us at support@storynexus.com to request that we delete your personal information from our database. We will use commercially reasonable efforts to honour your request.  We may retain an archived copy of your records if required to do so by law or for legitimate business purposes.
 
-**Data security**
+ **Data security**
 
 19\.   Unfortunately, the transmission of information via the Internet is not completely secure. We will do our best to protect your personal information but we cannot guarantee the security of your data transmitted to our Services - any transmission is at your own risk. We will use procedures and security features to try to prevent unauthorised access to your information.
 
-**Changes to our privacy policy**
+ **Changes to our privacy policy**
 
 20\.   Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email.  We will indicate the changes clearly.
 
-**Contact**
+ **Contact**
 
 21\.   Please address any questions or comments regarding this privacy policy to enquiries@storynexus.com
