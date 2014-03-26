@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bellbanks.com privacy policy that was archived on 2013-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130725153551id_/https%3A//www.bellbanks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellbanks.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326114147id_/https%3A//www.bellbanks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bell State Bank & Trust
 
-Rev. Apr 2013
+Rev. Sept 2013
 
-[Printable Version of Privacy Policy](https://web.archive.org/wp-content/uploads/2010/07/Bell-Privacy-Notice-April-20131.pdf)
+[Printable Version of Privacy Policy](https://web.archive.org/wp-content/uploads/2013/12/Bell-SBT-Privacy-Notice-Sept2013PROOF.pdf)
 
 Facts: What Does Bell State Bank & Trust Do With Your Personal Information  
 ---  
@@ -29,7 +29,7 @@ such as to process your transactions, maintain your account(s), respond to court
 to offer our products and services to you | Yes | No  
 **For joint marketing with other financial companies** | No | We don’t share  
 **For our affiliates’ everyday business purposes** –  
-information about your transactions and experiences | Yes | No  
+information about your transactions and experiences | No | We Don’t Share  
 **For our affiliates’ everyday business purposes** –  
 information about your creditworthiness | No | We don’t share  
 **For nonaffiliates to market to you** | No | We don’t share  
@@ -55,7 +55,7 @@ We also collect your personal information from others, such as credit bureaus, a
   
 Why can’t I limit all sharing? | Federal law gives you the right to limit only 
 
-  * sharing for affiliates’ everyday business purposes -- information about your creditworthiness
+  * sharing for affiliates’ everyday business purposes – information about your creditworthiness
   * affiliates from using your information to market to you
   * sharing for nonaffiliates to market to you
 
@@ -67,17 +67,16 @@ Definitions
 ---  
 Affiliates | Companies related by common ownership or control. They can be financial and nonfinancial companies. 
 
-  * Our affiliates include financial companies such as The Business  
-Bank and nonfinancial companies, such as Discovery Benefits, Inc.
+  * _Our affiliates include  financial companies such as State Bankshares Inc. and nonfinancial companies, such as Discovery Benefits, Inc._
 
   
 Nonaffiliates | Companies not related by common ownership or control. They can be financial and nonfinancial companies. 
 
-  * Bell State Bank & Trust does not share with nonaffiliates so they can market to you.
+  * _Bell State Bank & Trust does not share with nonaffiliates so they can market to you._
 
   
 Joint marketing | A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
 
-  * Bell State Bank & Trust doesn’t jointly market.
+  * _Bell State Bank & Trust doesn’t jointly market._
 
 
