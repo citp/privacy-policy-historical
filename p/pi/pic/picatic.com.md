@@ -1,75 +1,77 @@
-> *The following text is extracted and transformed from the picatic.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007065844id_/https%3A//www.picatic.com/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picatic.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326072312id_/https%3A//www.picatic.com/p/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Picatic.com
+# Privacy Policy
 
 Contact Picatic at 1-866-300-2666 if you have any questions at all.
 
-## What information do we collect?
+Picatic E-Ticket Inc. (“Picatic”, “we”, “our”) are committed to protecting your privacy. We make the website, [www.picatic.com](https://www.picatic.com/) (the “ **Website** ”) available together with the custom event creation and event fundraising services offered through the Website as further described in our Terms of Service (collectively the “ **Services** ”). This Privacy Policy describes how we collect, store, use and distribute information about users and Services.
 
-We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form.
+**Consent: By using the Services you consent to the use of your Personal Information as described in this Privacy Policy.** Except as set forth in this Privacy Policy, your Personal Information will not be used for any other purpose without your consent. We will not actively collect Personal Information for the purpose of sale or marketing in a way that specifically identifies the individual. In other words, we don’t sell customer lists. You may withdraw your consent to our processing of your Personal Information at any time. However, withdrawing consent may result in your inability to continue using the Services or certain features of the Services (for example, registration is required to create an event or contribute to it but browsing existing events on the Website does not require registration).
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
+**Collection of Information:** We aim to collect, use and disclose only such information as is required to enable us to manage your account, to provide the Services, to maintain our customer/visitor lists, to respond to your inquiries or provide feedback, for identification and authentication purposes, for service improvement and management. We will only use information for the purposes for which we have collected it (subject to the exclusions and disclosures we have listed below), unless you agree that we may disclose it to other third parties.
 
-## What do we use your information for?
+Two types of information may be collected through the Website and our Services: Personal Information and Non-Personal Information. This Privacy Policy does not extend to the collection, use or disclosure of the following information which is currently not limited by applicable privacy laws: (a) information that is publicly available, such as names, addresses, telephone numbers and electronic address when listed in a directory or made available through directory assistance; or (b) Non-Personal Information (as defined further below).
 
-Any of the information we collect from you may be used in one of the following ways:
+**“Personal Information”** is personally identifiable information, such as your name, address, e-mail address, credit card information, birth date and gender. At the time of collection, we will clearly identify the information being collected and the purposes for which it will be used. It is always your choice whether or not to provide Personal Information but if you choose not to provide certain requested Personal Information, in some instances you may not be able to register to use the Website or be able to access and use the Website at all. In other instances, your choice not to provide certain other Personal Information may mean that you will not be able to use certain features of the Website. We may collect Personal Information in respect of the Website through registration processes; communications with you; information downloads; service use; service purchases; user support; and surveys.
 
-## To personalize your experience
+**“Non-Personal Information”** is information of an anonymous nature, such as the domain used to access the Website, and the type and version of browser or operating system being used by visitors to the Website. Aggregate information, such as demographic statistics of our users (e.g. average age or geographical allocation of our users), number of visitors, what pages users access or visit, and average time spent on the Website. Business contact information such as the name, title, business address, e-mail address, or telephone number of a business or professional person or an employee of an organization is not considered Personal Information.
 
-(your information helps us to better respond to your individual needs)
+Although the use of certain Non-Personal Information collected, used or disclosed through the Internet as described herein is not restricted (and to the extent that such is the case, the obligations under this Privacy Policy do not apply to such information), we provide information in this Privacy Policy about the collection of such information for the sake of transparency with respect to the operation of the Website. Such Non-Personal Information is collected or derived by us in the course of operating this Website. For example, our web servers may automatically collect Non-Personal Information that is provided through your browser or stored in a cookie when you choose to visit the Website.
 
-## To improve our website
+**Use of Information:** We collect information for the following purposes:
 
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+_Registration:_ In order to register for our Services you must provide certain Personal Information to us such as your full name, address, email address, username, Facebook account, Twitter account, LinkedIn, and/or Google+ account. In general, none of your account registration information will be shared with any other users of the Website or our Services. When you sign up for the Services using your Facebook, Twitter and/or Google+ account, Facebook, Twitter and/or Google+ will share certain information with us such as your username, photo (if provided), and contact list. Your username and photo (if provided) will be visible to others if you make your profile public.
 
-## To improve customer service
+_Event Ticket Purchases:_ If you purchase tickets for events using Picatic’s payment processor, Picatic will collect your credit card information at the time of payment. If you purchase tickets for an event that has a public list of attendees, your name and social media account which you used to register for the Services will be made public on the attendee list.
 
-(your information helps us to more effectively respond to your customer service requests and support needs)
+_Transactional Notifications:_ We also provide notifications relating to your use of our Services, despite your indicated e-mail preferences, for example we may send you notices of any updates to our Terms of Service or this Privacy Policy.
 
-## To send periodic emails
+_Marketing Communications:_ If you opt-in to receive communications from us, we will keep you up to date on our products and services. You may withdraw your consent to receiving marketing communications from us at any time by following the opt-out instructions in each communication, or by [contacting us](https://web.archive.org/p/support).
 
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+_Statistics:_ We also collect statistics about use of the Services purchased through the Website. This information will be kept confidential, however, aggregate statistics that do not personally identify an individual will be kept by us and such aggregate statistics may be made available to other members or third parties.
 
-## How do we protect your information?
+_System Logs & Cookies:_ Cookies are used by us to track content usage and traffic on the Website. A cookie is a feature of your web browser that consists of a text file that is placed on your hard disk by a web server. The Website uses cookies to help it compile aggregate statistics about usage of this Website, such as how many users visit the Website, how long users spend viewing the Website, and what pages are viewed most often. This information is used to improve the content of the Website. You can set your browser to notify you when you are sent a cookie. This gives you the chance to decide whether or not to accept it. If you disable cookies, you may not be able to take advantage of all the features of the Website. We do not link any of the information we use in cookies to any personally identifiable information submitted by you when you are on the Website.
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+Your IP address is reported by your web browser whenever you visit a page on the Website. This information is recorded together with your registration information on our databases.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Database to be only accessed by those authorized with special access rights to our systems, and are required to keep the information confidential.
+_Advertisements:_ Advertisements appearing on the Website may be delivered by us or one or more third-party web advertisers. These third party web advertisers may set cookies. These cookies allow the advertisement server operated by that third party to recognize your computer each time they send you an online advertisement. Accordingly, advertisement servers may compile information about where or whether you viewed their advertisements and which advertisements you clicked on. This information allows web advertisers to deliver targeted advertisements that they believe will be of most interest to you. The Privacy Policy applies to cookies placed on your computer by us, but does not cover the use of cookies by any third-party web advertisers. For the privacy practices of such third-party web advertisers, you should consult the applicable privacy policy for the relevant third-party web advertiser(s).
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+If we plan to use your Personal Information in future for any other purposes not identified above, we will only do so after informing you by updating this Privacy Policy. See further the section of this Privacy Policy entitled ‘Amendment of this Policy’.
 
-## Do we use cookies?
+**Disclosures & Transfers:** We have put in place contractual and other organizational safeguards with our agents (see further below) to ensure a proper level of protection of your Personal Information (see further Security below). In addition to those measures, we will not disclose or transfer your Personal Information to third parties without your permission, except as specified in this Privacy Policy (see further Important Exceptions below).
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+As at the date of this Privacy Policy, we share Personal Information about you in respect of the Website only with the service providers listed below and accordingly your Personal Information may be available to Canadian and United States government or agencies under a lawful order, irrespective of the safeguards we have put in place for the protection of your Personal Information.
 
-We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Our business partners include:
 
-## Do we disclose any information to outside parties?
+Software developers;  
+Hardware vendors;  
+System integrators; and  
+Payment processors  
+\- GlobalPay Payments (Picatic’s payment processor)  
+\- PayPal  
+\- Stripe 
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+From time to time we may employ third parties to help us improve the Website and/or the Services. These third parties may have limited access to databases of user information solely for the purpose of helping us to improve the Website and/or the Services and they will be subject to contractual restrictions prohibiting them from using the information about our members for any other purpose.
 
-## Childrens Online Privacy Protection Act Compliance
+**Important Exceptions:** We may disclose your Personal Information to third parties without your consent if we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other Website members, other users of the Services, or anyone else (including the rights or property of anyone else) that could be harmed by such activities. We may disclose Personal Information when we believe in good faith that such disclosure is required by and in accordance with the law.
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We may also disclose your Personal Information in connection with a corporate re-organization, a merger or amalgamation with another entity, a sale of all or a substantial portion of our assets or stock, including any due diligence exercise carried out in relation to the same, provided that the information disclosed continues to be used for the purposes permitted by this Privacy Policy by the entity acquiring the information.
 
-## Online Privacy Policy Only
+**Security:** The security of your Personal Information is important to us. We use commercially reasonable efforts to store and maintain your Personal Information in a secure environment. We take technical, contractual, administrative, and physical security steps designed to protect Personal Information that you provide to us. We have implemented procedures designed to limit the dissemination of your Personal Information to only such designated staff as are reasonably necessary to carry out the stated purposes we have communicated to you.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+In certain areas, such as when you provide credit card or other payment information to us, the Website works to help protect the security of your credit card and other payment information during transmission by using industry standard Secure Sockets Layer (SSL) encryption technology.
 
-## Your Consent
+You are also responsible for helping to protect the security of your Personal Information. For instance, never give out your email account information for the Services to third parties password.
 
-By using our site, you consent to our web site privacy policy.
+**Retention:** We will keep your Personal Information for as long as it remains necessary for the identified purpose or as required by law, which may extend beyond the termination of our relationship with you. We may retain certain data as necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained personal information will remain subject to the terms of this Privacy Policy. If you request that your name be removed from our databases, it may not be possible to completely delete all your Personal Information due to technological and legal constraints.
 
-## Changes to our Privacy Policy
+**Amendment of this Policy:** We reserve the right to change this Privacy Policy at any time. If we decide to change this Privacy Policy in the future, we will post an appropriate notice on the home page at https://www.picatic.com/p/privacy-policy. Any non-material change (such as clarifications) to this Privacy Policy will become effective on the date the change is posted and any material changes will become effective 30 days from their posting on the Website. Unless stated otherwise, our current Privacy Policy applies to all Personal Information that we have about you. The date on which the latest update was made is indicated at the bottom of this document. We recommend that you print a copy of this Privacy Policy for your reference and revisit this policy from time to time to ensure you are aware of any changes. Your continued use of the Website signifies your acceptance of any changes.
 
-If we decide to change our privacy policy, we will post those changes on this page.
+**Access and Accuracy:** You have the right to access the Personal Information we hold about you in order to verify the Personal Information we have collected in respect to you and to have a general account of our uses of that information. Upon receipt of your written request, we will provide you with a copy of your Personal Information although in certain limited circumstances, we may not be able to make all relevant information available to you such as where that information also pertains to another user. In such circumstances we will provide reasons for the denial to you upon request. We will endeavor to deal with all requests for access and modifications in a timely manner.
 
-## Contacting Us
+We will make every reasonable effort to keep your Personal Information accurate and up-to-date, and we will provide you with mechanisms to update, correct, delete or add to your Personal Information as appropriate. As appropriate, this amended Personal Information will be transmitted to those parties to which we are permitted to disclose your information. Having accurate Personal Information about you enables us to give you the best possible service.
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+**Contact Us:** You can help by keeping us informed of any changes such as a change of address or telephone number. If you would like to access your information, if you have any questions, comments or suggestions of if you find any errors in our information about you, please contact us at: info@picatic.com.
 
-http://www.picatic.com  
-Saskatoon, Saskatchewan  
-Canada  
-info@picatic.com  
-
+Last Updated: December 19, 2013
