@@ -1,29 +1,255 @@
-<!--The following is the downloaded HTML source of the whatrunswhere.com privacy policy that was archived on 2013-07-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130722192313id_/http%3A//www.whatrunswhere.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the whatrunswhere.com privacy policy that was archived on 2014-03-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140326035620id_/https%3A//www.whatrunswhere.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Untitled Document</title>
+<!DOCTYPE html><html lang="en"><!--<![endif]--><head>
+
+	<meta charset="utf-8">
+	<title>WhatRunsWhere </title>
+	<meta name="description" content="">
+	<meta http-equiv="X-UA-Compatible" content="IE=9"><script type="text/javascript" async="" src="https://tag.perfectaudience.com/serve/50aa6fd9703a780002000152.js"></script><script type="text/javascript" async="" src="//commondatastorage.googleapis.com/code.snapengage.com/js/659b8646-3948-423a-a5b5-896bd28b5b5f.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgQPVFBSGwEIUFRSBAE="};window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a,b){function c(a,b,c){c||(c={});for(var d=f[a],e=d&&d.length||0,h=c[g]||(c[g]={}),i=0;e>i;i++)d[i].apply(h,b);return h}function d(a,b){var c=f[a]||(f[a]=[]);c.push(b)}function e(a){return delete a[g]}var f={},g="nr@context";b.exports={on:d,emit:c,clear:e}},{}],2:[function(a){function b(a,b,e,g,i){return h?h-=1:c("err",[i||new UncaughtException(a,b,e)]),"function"==typeof f?f.apply(this,d(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var c=a("handle"),d=a("lodash._slice"),e=a("../../../contextual-ee"),f=window.onerror,g=!1,h=0;a("loader").features.push("err"),window.onerror=b;try{throw new Error}catch(i){"stack"in i&&(a("../../wrap-timer"),a("../../wrap-raf"),"addEventListener"in window&&a("../../wrap-events"),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&a("../../wrap-xhr"),g=!0)}e.on("fn-start",function(){g&&(h+=1)}),e.on("fn-err",function(a,b,d){g&&(this.thrown=!0,c("err",[d,(new Date).getTime()]))}),e.on("fn-end",function(){g&&!this.thrown&&h>0&&(h-=1)})},{"../../../contextual-ee":1,"../../wrap-events":3,"../../wrap-raf":4,"../../wrap-timer":5,"../../wrap-xhr":6,handle:"4O2Y62",loader:"YLUGVp","lodash._slice":14}],3:[function(a){function b(a){d.inPlace(a,["addEventListener","removeEventListener"],"-",c)}function c(a){return a[1]}var d=a("../wrap-function"),e=(a("lodash._slice"),a("../contextual-ee"));if(b(window),"getPrototypeOf"in Object){for(var f=document;f&&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&&b(f);for(var g=XMLHttpRequest.prototype;g&&!g.hasOwnProperty("addEventListener");)g=Object.getPrototypeOf(g);g&&b(g)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&b(XMLHttpRequest.prototype);e.on("addEventListener-start",function(a){if(a[1]){var b=a[1];"function"==typeof b?this.wrapped=b["nr@wrapped"]?a[1]=b["nr@wrapped"]:b["nr@wrapped"]=a[1]=d(b,"fn-"):"function"==typeof b.handleEvent&&d.inPlace(b,["handleEvent"],"fn-")}}),e.on("removeEventListener-start",function(a){var b=this.wrapped;b&&(a[1]=b)})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],4:[function(a){var b=(a("lodash._slice"),a("../wrap-function")),c=a("../contextual-ee");b.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),c.on("raf-start",function(a){a[0]=b(a[0],"fn-")})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],5:[function(a){function b(a){var b=a[0];"string"==typeof b&&(b=new Function(b)),a[0]=c(b,"fn-")}var c=(a("lodash._slice"),a("../wrap-function")),d=a("../contextual-ee");c.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),d.on("setTimer-start",b)},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],6:[function(a){function b(){c.inPlace(this,f,"fn-")}var c=a("../wrap-function"),d=a("../contextual-ee"),e=window.XMLHttpRequest,f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(a){var f=new e(a);return d.emit("new-xhr",[],f),c.inPlace(f,["addEventListener","removeEventListener"],"-",function(a,b){return b}),f.addEventListener("readystatechange",b,!1),f},window.XMLHttpRequest.prototype=e.prototype},{"../contextual-ee":1,"../wrap-function":15}],7:[function(a){function b(a){if("string"==typeof a&&a.length)return a.length;if("object"!=typeof a)return void 0;if("undefined"!=typeof ArrayBuffer&&a instanceof ArrayBuffer&&a.byteLength)return a.byteLength;if("undefined"!=typeof Blob&&a instanceof Blob&&a.size)return a.size;if("undefined"!=typeof FormData&&a instanceof FormData)return void 0;try{return JSON.stringify(a).length}catch(b){return void 0}}function c(a){var c=this.params,d=this.metrics;if(!this.ended){this.ended=!0;for(var e=0;k>e;e++)a.removeEventListener(j[e],this.listener,!1);if(!c.aborted){if(d.duration=(new Date).getTime()-this.startTime,4===a.readyState){c.status=a.status;var g=a.responseType,h="arraybuffer"===g||"blob"===g||"json"===g?a.response:a.responseText,i=b(h);if(i&&(d.rxSize=i),this.sameOrigin){var l=a.getResponseHeader("X-NewRelic-App-Data");l&&(c.cat=l.split(", ").pop())}}else c.status=0;d.cbTime=this.cbTime,f("xhr",[c,d])}}}function d(a,b){var c=g(b),d=a.params;d.host=c.hostname+":"+c.port,d.pathname=c.pathname,a.sameOrigin=c.sameOrigin}function e(a,b){return b}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){a("loader").features.push("xhr");var f=a("handle"),g=a("./parse-url.js"),h=a("../../../wrap-function"),i=a("../../../contextual-ee"),j=["load","error","abort","timeout"],k=j.length,l=a("../../../loader/id");a("../../wrap-events"),a("../../wrap-xhr"),i.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=c,this.ended=!1,this.xhrGuids={}}),h.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",e),i.on("open-xhr-start",function(a){this.params={method:a[0]},d(this,a[1]),this.metrics={}}),i.on("open-xhr-end",function(a,b){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&b.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),i.on("send-xhr-start",function(a,c){var d=this.metrics,e=a[0],f=this;if(d&&e){var g=b(e);g&&(d.txSize=g)}this.startTime=(new Date).getTime(),this.listener=function(a){try{"abort"===a.type&&(f.params.aborted=!0),("load"!==a.type||f.called===f.totalCbs&&(f.onloadCalled||"function"!=typeof c.onload))&&f.end(c)}catch(b){}};for(var h=0;k>h;h++)c.addEventListener(j[h],this.listener,!1)}),i.on("xhr-cb-time",function(a,b,c){this.cbTime+=a,b?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof c.onload||this.end(c)}),i.on("xhr-load-added",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&!this.xhrGuids[c]&&(this.xhrGuids[c]=!0,this.totalCbs+=1)}),i.on("xhr-load-removed",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&this.xhrGuids[c]&&(delete this.xhrGuids[c],this.totalCbs-=1)}),i.on("addEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-added",[a[1],a[2]],b)}),i.on("removeEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-removed",[a[1],a[2]],b)}),i.on("fn-start",function(a,b,c){b instanceof XMLHttpRequest&&("onload"===c&&(this.onload=!0),("load"===(a[0]&&a[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),i.on("fn-end",function(a,b){this.xhrCbStart&&i.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,b],b)})}},{"../../../contextual-ee":1,"../../../loader/id":11,"../../../wrap-function":15,"../../wrap-events":3,"../../wrap-xhr":6,"./parse-url.js":8,handle:"4O2Y62",loader:"YLUGVp"}],8:[function(a,b){b.exports=function(a){var b=document.createElement("a"),c=window.location,d={};b.href=a,d.port=b.port;var e=b.href.split("://");return!d.port&&e[1]&&(d.port=e[1].split("/")[0].split(":")[1]),d.port&&"0"!==d.port||(d.port="https"===e[0]?"443":"80"),d.hostname=b.hostname||c.hostname,d.pathname=b.pathname,"/"!==d.pathname.charAt(0)&&(d.pathname="/"+d.pathname),d.sameOrigin=!b.hostname||b.hostname===document.domain&&b.port===c.port&&b.protocol===c.protocol,d}},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],11:[function(a,b){function c(a){if(!a||"object"!=typeof a&&"function"!=typeof a)return-1;if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!0,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&&a.agent&&a.licenseKey&&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],14:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}],15:[function(a,b){function c(a,b,c,d){function nrWrapper(){var g,h=f(arguments),i=this,j=c&&c(h,i)||{};try{e.emit(b+"start",[h,i,d],j)}catch(k){}try{return g=a.apply(i,h)}catch(l){throw e.emit(b+"err",[h,i,l],j),l}finally{try{e.emit(b+"end",[h,i,g],j)}catch(k){}}}return a&&"function"==typeof a&&a.apply&&!a._wrapped?(b||(b=""),nrWrapper._wrapped=!0,nrWrapper):a}function d(a,b,d,e){d||(d="");var f,g,h,i="-"===d.charAt(0);for(h=0;h<b.length;h++)g=b[h],f=a[g],f&&"function"==typeof f&&f.apply&&!f._wrapped&&(a[g]=c(f,i?g+d:d,e,g,a))}var e=a("../contextual-ee"),f=a("lodash._slice");b.exports=c,c.inPlace=d},{"../contextual-ee":1,"lodash._slice":14}]},{},["YLUGVp",7,2]);</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<link rel="icon" type="image/ico" href="/favicon.ico">
+	<link rel="apple-touch-icon" sizes="76x76" href="/touch-icon-ipad.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/touch-icon-iphone-retina.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/touch-icon-ipad-retina.png">
+
+	<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Droid+Sans:400,700">
+	<link rel="stylesheet" href="/css/reset.min.css">
+	<link rel="stylesheet" href="/css/tabs.min.css">
+	<link rel="stylesheet" href="/css/base.min.css">
+	<link rel="stylesheet" href="/css/skeleton.min.css">
+	<link rel="stylesheet" href="/css/layout.css">
+	<link rel="stylesheet" href="/js/fancybox/jquery.fancybox-1.3.4.css" media="screen">
+
+	<!--[if lt IE 9]>
+		<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+	<script src="/js/validate.min.js"></script>
+	<script src="/js/tabs.min.js"></script>
+	<script src="/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+
+	<script type="text/javascript">
+		$(document).ready(function () {
+			$('#WRW').easyResponsiveTabs({
+				type: 'default', //Types: default, vertical, accordion           
+				width: 'auto', //auto or any width like 600px
+				fit: true,   // 100% fit in a container
+				closed: 'accordion', // Start closed if in accordion view
+				activate: function(event) { // Callback function if tab is switched
+					var $tab = $(this);
+					var $info = $('#tabInfo');
+					var $name = $('span', $info);
+					$name.text($tab.text());
+					$info.show();
+				}
+			});
+		});
+	</script>
 </head>
 
 <body>
-<p><strong>Privacy Policy</strong><br>
-  This website (the “Site”) is owned by  and operated by Data Driven Marketing, Inc. (“us,” “we,” or “Company”). We  created this Privacy Policy (“Privacy Policy”) to explain how we use the  information we collect on the Site. This Privacy Policy is only applicable to  the Site, and not to any other websites that you may be able to access from the  Site, each of which may have data collection, storage, and use practices and  policies that differ materially from this Privacy Policy.<br>
-  <strong>Information  We Collect</strong><br>
-  We automatically track and collect the  following categories of information when you visit our Site: 1) IP addresses;  2) domain servers; 3) types of computers accessing the Site; and 4) types of  web browsers used to access the Site (collectively “Traffic Data”). Traffic  Data is anonymous information that does not personally identify you but is  helpful for improving your experience on the Site. We also use “cookies” to  customize content specific to your interests.<br>
-  WhatRunsWhere.com enables registered users  to conduct competitive analysis of online marketing campaigns. We require you  to provide us with certain information that personally identifies you  (“Personal Information”). Personal Information includes the following  categories of information: 1) Contact Data (such as your name and contact  information); 2) Financial Data (such as the credit/debit account information  for the account you want to establish for billing purposes); and Transaction  Data (such as a purchase information and payment information). If you  communicate with us, any information provided in such communication may be  collected as Personal Information.<br>
-  <strong>Our  Use of Collected Information</strong><br>
-  We use Personal Information so that you  can use our Site; to communicate with you about the Site, and to customize and  tailor your experience on our Site. <br>
-  We do not sell, license, transfer,  and/or share the billing information we collect from you, other than for payment  purposes. We use an unaffiliated, payment processing company to process your  payments. We transfer your payment information—and you authorize us to do so—to  this company solely for this purpose. The company does not retain, share,  store, or use your personally identifiable information for any other purposes.  We use the Transaction Data we collect to ensure that your account payment is  current. We also collect and analyze non-personally identifiable Transaction  Data and the associated IP address to help us improve the Site.<br>
-  You may choose not to provide us with  any Personal Information. In such an event, you will not be able to access and  use our Site. <br>
-  <strong>Confidentiality  and Security of Personal Information</strong><br>
-  We may also (and you authorize us to)  disclose your personal information to: a) comply with a court order or other  legal process or inquiry; b) protect our rights or property; or c) enforce our  Terms of Use. Your Personal Information is stored on secure servers that are  not accessible by unauthorized third parties. We provide you with the  capability to transmit your Personal Information via secured and encrypted  channels if you use a similarly equipped web browser.<br>
-  We maintain a procedure in order to help  you confirm that your Personal Information remains correct and up-to-date. At  any time, you may review and update your personal profile by logging into your  account on the Site. <br>
-  The Site contains links to other  websites. We are not responsible for the privacy practices or the content of  such websites. <br>
-  This Site is directed at adults and not  to children under the age of 13. We do not knowingly collect personally  identifiable information from children under the age of 13, nor do we knowingly  distribute such information. We do not knowingly allow children under the age  of 13 to publicly post or otherwise distribute personally identifiable contact information  through our website. Similarly, because we do not collect any personally  identifiable information from children under the age of 13, we do not condition  the participation of a child under 13 in activities on providing personally  identifiable information. If we become aware that we have inadvertently  received personally identifiable information from someone under the age of 13,  we will delete such information from our records. If we change our practices in  the future, we will obtain prior, verifiable parental consent before collecting  any personally identifiable information from children under the age of 13.<br>
-  We have implemented a number of security  measures to help protect against the loss, misuse, or modification of  information we've collected from you. Your personal information is transmitted  to and stored on servers that we have taken steps to protect from unauthorized  access or intrusion. We do not ensure or warrant the security of any  information you transmit to us. You acknowledge and assume this risk.<br>
-  We reserve the right, at any time and  without notice, to add to, change, update, or modify this Privacy Policy,  simply by posting such change, update, or modification on the Site and without  any other notice to you. Any such change, update, or modification will be  effective immediately upon posting on the Site. If we make material changes to  the manner in which we handle your personal information, we will notify you in  advance of the new policy taking effect so that you have an opportunity to  review and consent to the new terms.<br>
-  This site is owned and operated by Data  Driven Marketing, Inc., 2768    Carlsbad Boulevard, #100, Carlsbad,   CA 92008.<br>
-  Effective Date: 1/18/2011</p>
 
-</body></html>
+
+	<header>	
+
+				<nav>
+			<div class="container">
+				<div class="signIn">
+					<a href="login.php">Sign in</a>
+				</div>
+			</div>
+
+<div style="display:none">
+	<form method="post" id="signInForm" style="margin: 30px;">
+	<h2>Sign in</h2>
+			<p><input type="text" name="username" class="txtInput" placeholder="Username" autocomplete="off"></p>
+			<p><input type="password" name="password" class="txtInput" placeholder="Password"></p>
+		<input type="hidden" id="redirect" name="redirect" value="http://search.whatrunswhere.com/index.php">
+		<p><input type="submit" id="login-button" class="submit search" value="Sign in"></p>
+			<p><a href="forgot.php">Forgot Password?</a></p>
+			<p>Don't have an account? <a href="pricing.php">Get Started</a></p>	
+	</form>
+</div>
+
+			<div class="container">
+				<div class="five columns logo">
+					<a href="index.php"><img src="img/WhatRunsWhere.jpg"></a>
+				</div>
+
+				<div class="eleven columns">
+					<ul class="mainMenu">
+						<li><a class="" href="features.php" title="Features">Features</a></li>
+						<li><a class="" href="pricing.php" title="Pricing">Pricing</a></li>
+						<li><a class="" href="resources.php" title="Resources">Resources</a></li>
+						<li><a class="" href="http://blog.whatrunswhere.com/" title="Blog">Blog</a></li>
+						<li><a class="" href="contact.php" title="Contact Us">Contact Us</a></li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+
+	</header>
+<div class="clear"></div>
+<div class="container">
+	<div class="sixteen columns" style="padding:20px 0 0 0">
+	<div class="terms">
+
+<h2>Privacy Policy</h2>
+	<p>This website (the “Site”) is owned by  and operated by Data Driven Marketing, Inc. (“us,” “we,” or “Company”). We  created this Privacy Policy (“Privacy Policy”) to explain how we use the  information we collect on the Site. This Privacy Policy is only applicable to  the Site, and not to any other websites that you may be able to access from the  Site, each of which may have data collection, storage, and use practices and  policies that differ materially from this Privacy Policy.</p>
+<h2>Information  We Collect</h2>
+  	<p>We automatically track and collect the  following categories of information when you visit our Site: <b>1</b> IP addresses;  <b>2</b> domain servers; <b>3</b> types of computers accessing the Site; and <b>4</b> types of  web browsers used to access the Site (collectively “Traffic Data”). Traffic  Data is anonymous information that does not personally identify you but is  helpful for improving your experience on the Site. We also use “cookies” to  customize content specific to your interests.</p>
+
+  	<p>WhatRunsWhere.com enables registered users  to conduct competitive analysis of online marketing campaigns. We require you  to provide us with certain information that personally identifies you  (“Personal Information”). Personal Information includes the following  categories of information: <b>1</b> Contact Data (such as your name and contact  information); <b>2</b> Financial Data (such as the credit/debit account information  for the account you want to establish for billing purposes); and Transaction  Data (such as a purchase information and payment information). If you  communicate with us, any information provided in such communication may be  collected as Personal Information.</p>
+
+<h2>Our  Use of Collected Information</h2>
+	<p>We use Personal Information so that you  can use our Site; to communicate with you about the Site, and to customize and  tailor your experience on our Site. </p>
+	<p>We do not sell, license, transfer,  and/or share the billing information we collect from you, other than for payment  purposes. We use an unaffiliated, payment processing company to process your  payments. We transfer your payment information—and you authorize us to do so—to  this company solely for this purpose. The company does not retain, share,  store, or use your personally identifiable information for any other purposes.  We use the Transaction Data we collect to ensure that your account payment is  current. We also collect and analyze non-personally identifiable Transaction  Data and the associated IP address to help us improve the Site.</p>
+  	<p>You may choose not to provide us with any Personal Information. In such an event, you will not be able to access and  use our Site. </p>
+<h2>Confidentiality  and Security of Personal Information</h2>
+	<p>We may also (and you authorize us to) disclose your personal information to: <b>a</b> comply with a court order or other  legal process or inquiry; <b>b</b> protect our rights or property; or <b>c</b> enforce our  Terms of Use. Your Personal Information is stored on secure servers that are  not accessible by unauthorized third parties. We provide you with the  capability to transmit your Personal Information via secured and encrypted  channels if you use a similarly equipped web browser.</p>
+	<p>We maintain a procedure in order to help  you confirm that your Personal Information remains correct and up-to-date. At  any time, you may review and update your personal profile by logging into your  account on the Site. </p>
+	<p>The Site contains links to other websites. We are not responsible for the privacy practices or the content of  such websites. </p>
+  	<p>This Site is directed at adults and not to children under the age of 13. We do not knowingly collect personally  identifiable information from children under the age of 13, nor do we knowingly  distribute such information. We do not knowingly allow children under the age  of 13 to publicly post or otherwise distribute personally identifiable contact information  through our website. Similarly, because we do not collect any personally  identifiable information from children under the age of 13, we do not condition  the participation of a child under 13 in activities on providing personally  identifiable information. If we become aware that we have inadvertently  received personally identifiable information from someone under the age of 13,  we will delete such information from our records. If we change our practices in  the future, we will obtain prior, verifiable parental consent before collecting  any personally identifiable information from children under the age of 13.</p>
+  	<p>We have implemented a number of security  measures to help protect against the loss, misuse, or modification of  information we've collected from you. Your personal information is transmitted  to and stored on servers that we have taken steps to protect from unauthorized  access or intrusion. We do not ensure or warrant the security of any  information you transmit to us. You acknowledge and assume this risk.</p>
+  	<p>We reserve the right, at any time and  without notice, to add to, change, update, or modify this Privacy Policy,  simply by posting such change, update, or modification on the Site and without  any other notice to you. Any such change, update, or modification will be  effective immediately upon posting on the Site. If we make material changes to  the manner in which we handle your personal information, we will notify you in  advance of the new policy taking effect so that you have an opportunity to  review and consent to the new terms.</p>
+  	<p>This site is owned and operated by Data  Driven Marketing, Inc., 2768    Carlsbad Boulevard, #100, Carlsbad,   CA 92008.</p>
+  	<p><b>Effective Date: 1/18/2011</b></p>
+
+	</div>
+</div>
+
+<div class="clear"></div>
+
+	<footer>
+	
+		<footer>
+
+	<div class="container">
+		<div class="sixteen columns subFooter">
+			<h4>Connect with us on <a href="https://twitter.com/whatrunswhere" class="social" target="_blank"><img src="img/twitter.gif"></a> or <a href="https://www.facebook.com/WhatRunsWhere" target="_blank" class="social"><img src="img/facebook.gif"></a></h4>
+			<a href="pricing.php" class="button large orng">Sign Up <span class="mobileRemove">today</span> for <span class="mobileRemove">only</span> $1.00</a>
+		</div>
+	</div>
+
+	<div class="container">
+		<div class="sixteen columns divider">
+		<img src="img/WRW.jpg">
+		</div>
+		<div class="sixteen columns nav" style="margin-left:0px">
+			<ul>
+				<li><a href="index.php">Home</a></li>
+				<li><a href="features.php">Features</a></li>
+				<li><a href="pricing.php">Pricing</a></li>
+				<li><a href="resources.php">Resources</a></li>
+				<li><a href="http://blog.whatrunswhere.com/">Blog</a></li>
+				<li><a href="about.php">About Us</a></li>
+				<li><a href="contact.php">Contact Us</a></li>
+			</ul>
+			<ul>
+				<li><a href="http://help.whatrunswhere.com/" class="secondary">Help</a></li>
+				<li><a href="terms.php" class="secondary">Terms</a></li>
+				<li><a href="privacy.php" class="secondary">Privacy Policy</a></li>
+				<li><a href="dmca.php" class="secondary">DMCA</a></li>
+			</ul>
+		</div>
+		<div class="sixteen columns">
+			<div style="text-align:center; margin:30px 0;color:#bebfc1;">
+				© 2014 WhatRunsWhere.com
+				<br>All Rights Reserved.	
+			</div>		
+        </div>
+        <div>
+            <!-- service_check -->
+        </div>
+	</div>
+
+</footer>
+
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-22432478-1']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- begin SnapEngage code -->
+<script type="text/javascript">
+  (function() {
+    var se = document.createElement('script'); se.type = 'text/javascript'; se.async = true;
+    se.src = '//commondatastorage.googleapis.com/code.snapengage.com/js/659b8646-3948-423a-a5b5-896bd28b5b5f.js';
+    var done = false;
+    se.onload = se.onreadystatechange = function() {
+      if (!done&&(!this.readyState||this.readyState==='loaded'||this.readyState==='complete')) {
+        done = true;
+        // Place your SnapEngage JS API code below
+        // SnapEngage.allowChatSound(true); // Example JS API: Enable sounds for Visitors. 
+      }
+    };
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(se, s);
+  })();
+</script>
+<!-- end SnapEngage code -->
+
+<script type="text/javascript">                                                                                                                                    
+ (function() {                                                                                                                                                     
+   window._pa = window._pa || {};                                                                                                                                  
+   // _pa.orderId = "myUser@email.com"; // OPTIONAL: include your user's email address or order ID                                                                 
+   // _pa.revenue = "19.99"; // OPTIONAL: include dynamic purchase value for the conversion                                                                        
+   // _pa.onLoadEvent = "sign_up"; // OPTIONAL: name of segment/conversion to be fired on script load                                                              
+   var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;                                                                        
+   pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.perfectaudience.com/serve/50aa6fd9703a780002000152.js";                         
+   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);                                                                           
+ })();                                                                                                                                                             
+</script> 
+
+<!-- Tracking for Post Affiliate Pro -->
+<script type="text/javascript">
+document.write(unescape("%3Cscript id='pap_x2s6df8d' src='" + (("https:" == document.location.protocol) ? "https://" : "http://") + 
+"pap.whatrunswhere.com/affiliate/scripts/trackjs.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script id="pap_x2s6df8d" src="https://pap.whatrunswhere.com/affiliate/scripts/trackjs.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+	PostAffTracker.track();
+} catch (err) { }
+</script>
+
+
+
+
+		
+		</footer></div>
+	
+	<script type="text/javascript">	
+		var form = $('form');
+	
+		$(document).ready(function(){
+		    form.validate({
+		    	ignore: "",
+	            rules: {
+	            	'message': {
+	                    required: true,	                 
+	                },
+	            	'name': {
+	                    required: true,	                 
+	                },
+	                'mail': {
+	                    required: true,
+	                    email: true
+	                }			                
+	            },
+	            errorPlacement: function(error, element){}
+
+		    });
+		  });     
+	</script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"7b4f669e70","applicationID":"2845030","transactionName":"YgFRMERSWksHAUVcWFtLZhZfHERKDxRQVk4bFFsU","queueTime":0,"applicationTime":116,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-361.min.js"}</script>
+
+<script src="https://js-agent.newrelic.com/nr-361.min.js"></script></body></html>
