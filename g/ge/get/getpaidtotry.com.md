@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the getpaidtotry.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620165644id_/http%3A//www.getpaidtotry.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpaidtotry.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326074603id_/http%3A//www.getpaidtotry.com/privacy.php) for the most accurate reproduction.*
 
 # Paid Surveys | Paid Online Surveys | Get Paid To Take Surveys | Try Products - GetPaidToTry
 
-## Effective Date: August 31, 2010
+## Effective Date: December 11, 2013
 
-## Privacy Policy of GetPaidToTry.com
+## Privacy Policy of GetPaidToTry.com, an internet property of SBG Media, Inc.
 
-Please note that our Privacy Policy may change from time to time. Changes to the Privacy Policy will be posted on this website and the effective date will be modified to reflect the most recent version. This will be the only notice of any changes made to the Privacy Policy.
+Please note that our Privacy Policy may change from time to time. Changes to the Privacy Policy will be posted on this website and the effective date will be modified to reflect the most recent version. This will be the only notice of any changes made to the Privacy Policy. If you are interested in learning about the other terms of use of our Websites, please [use this link](https://web.archive.org/web/20140326074603id_/http%3A//www.getpaidtotry.com/terms.php).
 
-GetPaidToTry.com wants you to know how the data, including, personally identifiable information (PII), it collects or obtains is used. Accordingly, the data collection, acquisition, use and dissemination practices of GetPaidToTry.com are discussed in this policy. This policy applies to data collected (a) on our websites (“Websites”), (b) on third party websites or (c) otherwise.
+GetPaidToTry.com wants you to know how the data, including, personally identifiable information (PII), it collects or obtains is used. Accordingly, the data collection, acquisition, use and dissemination practices of GetPaidToTry.com are discussed in this policy. This policy applies to data collected (a) on our websites (“Websites”), (b) on third party websites or (c) otherwise as disclosed herein.
 
 **Information You Give Us:**
 
-GetPaidToTry.com collects PII and/or other data from individuals when you voluntarily enter one of our websites and take an action. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features or be eligible to receive special offers. The information that you are asked to provide may include, but is not limited to, your name, postal address, email address, street address, zip code, telephone number(s), birth date, gender, salary range, education, marital status, occupation, employment status, personal and online interests as well as other information that may be requested from time to time. We may also collect information, including, but limited to, your web browser and your Internet Protocol (IP) address.
+GetPaidToTry.com collects PII and/or other data from individuals when you voluntarily enter one of our websites and take an action. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features or be eligible to receive special offers. The information that you are asked to provide may include, but is not limited to, your name, postal address, email address, street address, zip code, telephone number(s), birth date, gender, . We may also collect information, including, but limited to, your web browser and your Internet Protocol (IP) address.
 
 **Information From Third Parties:**
 
@@ -24,13 +24,15 @@ Other times that we may obtain PII and/or other data from you include (1) when y
 
 **What We Do With The Information That We Obtain:**
 
-We may use and/or share the information that we collect and/or obtain in any manner in our sole discretion.
-
-Also, we use individual information to provide promotional offers to you. The promotional offers may be made to you by us and/or unrelated and/or unaffiliated third parties by means of email advertising, telephone marketing, postal mail, and/or by any other means of communication. By registering at this Website, or other third party web sites as described herein, you agree that such act constitutes and inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR Section 310 et seq.), as amended from time to time (“ATSR”). Notwithstanding that your telephone number may be listed on the Federal Trade Commission’s Do-Not-Call List, we reserved the right to contact you via telemarketing in accordance with ATSR.
+Also, we use individual information to provide promotional offers to you. The promotional offers may be made to you by us and/or unrelated and/or unaffiliated third parties by means of email advertising, telephone marketing, SMS text messaging, postal mail, and/or by any other means of communication. By registering at this Website, or other third party web sites as described herein, you agree that such act constitutes and inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR Section 310 et seq.), as amended from time to time (“ATSR”). Notwithstanding that your telephone number may be listed on the Federal Trade Commission’s Do-Not-Call List, we reserve the right to contact you via telemarketing in accordance with ATSR.
 
 **Cookies:**
 
-A cookie is a small file that is placed on your hard drive that enables us to analyze our web page effectiveness and identify you with the corresponding data that we have in our database. GetPaidToTry.com reserves the right to retain cookie data indefinitely.
+We reserve the rights to use cookies in any legal manner in our sole judgment.  A “cookie” is a small file that is placed on your hard drive that enables us to analyze our web page effectiveness and identify you with the corresponding data that we have in our database. To find out more about Cookies, please visit [www.cookiecentral.com](http://www.cookiecentral.com/). To disable and reject certain Cookies, please reference the above website for specific browser disabling information. GetPaidToTry.com reserves the right to retain cookie data indefinitely.
+
+**Blog:**
+
+Our Site may offer publicly accessible blogs and/or commentary. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. 
 
 **Web Beacons:**
 
@@ -40,26 +42,23 @@ Web pages may contain electronic images (called a "single-pixel GIF" or "web bea
 
 Since the use of new technology including cookies, web beacons, and other technology is rapidly evolving, as is our use of new and evolving technology, we may change or use additional or new technology from time to time. You are encouraged to visit this page for any updates or sign up for the automatic email notification of Privacy Policy changes as described herein.
 
-**Use of Data Collected**
+**No Information Collected from Minors:**
 
-We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in. We use your contact information to send you information about our company and promotional material from our partners. We may also use your personal, demographic and profile data to improve our site, for statistical analysis, for marketing and promotional purposes, and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future telemarketing, SMS text-messaging, e-mails or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online. By using this site, you agree that you may be contacted in any manner contemplated in this section even if your number is found on a do not call registry, in-house list or similar registry.
+MINORS UNDER THE AGE OF 18 SHOULD NOT PROVIDE ANY PII AND/OR OTHER INFORMATION, INCLUDING THEIR EMAIL ADDRESS, TO GetPaidToTry.com. GetPaidToTry.com ALSO DOES NOT KNOWIINGLY ACCEPT PII AND/OR OTHER DATA FROM ANY SUCH USERS OF ITS WEBSITES AND/OR ANY THIRD PARTIES.
+
+**Sharing of Information:**
+
+In addition to all of the other sharing methods that our described herein, we also share your PII and/or other information, to send emails, regarding information and updates pertaining to your membership, in addition to receiving company news, updates, promotions, related product or service information, and any other reason we deem appropriate in our discretion  Also, your email address will be shared with All Inbox, LLC,  a mailing service provider of GetPaidToTry.com.  If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+We reserve the right to sell, transfer, or share any other information that is collected by or provided to us at any time in our sole discretion.
 
 **Text messages**
 
 By accepting the terms and conditions of this Site and providing your cell phone number, you are expressly consenting to receive SMS, wireless or other mobile offering to your cell phone from us and other organizations. You understand that your wireless carrier's standard charges and rates apply to these messages. For SMS text messages, you may remove your information by replying "STOP", "END", or "QUIT" to the SMS text message you have received and we will remove your personal information within 10 days of receiving such request.
 
-**No Information Collected from Minors:**
-
-MINORS UNDER THE AGE OF 18 SHOULD NOT PROVIDE ANY PII AND/OR OTHER INFORMATION, INCLUDING THEIR EMAIL ADDRESS, TO GetPaidToTry.com. GetPaidToTry.com ALSO DOES NOT KNOWIINGLY ACCEPT PII AND/OR OTHER DATA FROM ANY USERS OF ITS WEBSITES AND/OR ANY THIRD PARTIES.
-
-**Sharing of Information:**
-
-To send emails, the email address you provide for membership may be used to send you information and updates pertaining to your membership, in addition to receiving occasional company news, updates, promotions, related product or service information, etc. All emails you receive from GetPaidToTry.com will come from GetPaidToTry.com, so you may easily distinguish our emails. We will never sell your email address to third party email marketing companies. Your email will be shared with All Inbox, LLC,  The mailing partner of GetPaidToTry.com. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.  We reserve the right to sell, transfer, or share any other information that is collected by or provided to us at any time in our sole discretion.  
-
-
 **How to Unsubscribe:**
 
-If you wish to unsubscribe from a particular offer, you will need to follow the instructions that are at the end of each email message. If you wish to unsubscribe from all of our offers, you must visit and follow the instructions provided at [http://GetPaidToTry.com.com/unsubscribe.php](http://getpaidtotry.com.com/unsubscribe.php)
+If you wish to unsubscribe from a particular offer, you will need to follow the instructions that are at the end of each email message. If you wish to unsubscribe from all of our offers, you must visit and follow the instructions provided at [http://GetPaidToTry.com/unsubscribe.php](http://getpaidtotry.com/unsubscribe.php)
 
 **Practices of Third Parties:**
 
@@ -67,11 +66,11 @@ We cannot control, and are not responsible, for any third party’s use of cooki
 
 **California Privacy Rights:**
 
-California Civil Code Section 1798.83 enables California residents who have provided PII to GetPaidToTry.com, and/or to a third party who has then shared such information with GetPaidToTry.com, to request information regarding GetPaidToTry.com’s disclosure of such PII information to third parties. Within thirty days of receipt of such a request, GetPaidToTry.com will provide a list of the PII disclosed to third parties for the past calendar year, along with the names and addresses of such third parties. This request may not be made more than once per calendar year. Should you wish to exercise your rights under this Section, please use the postal address listed below. GetPaidToTry.com reserves the right not to honor and/or respond to such requests that are not sent to the address below.
+California Civil Code Section 1798.83 enables California residents who have provided PII to GetPaidToTry.com, and/or to a third party who has then shared such information with GetPaidToTry.com, to request information regarding GetPaidToTry.com’s disclosure of such PII information to third parties. Within thirty (30) days of receipt of such a request, GetPaidToTry.com will provide a list of the PII disclosed to third parties for the past calendar year, along with the names and addresses of such third parties. This request may not be made more than once per calendar year. Should you wish to exercise your rights under this Section, please use the postal address listed below. GetPaidToTry.com reserves the right not to honor and/or respond to such requests that are not sent to the address below.
 
-©2010 GetPaidToTry.com - All rights reserved.
+©2013 GetPaidToTry.com - All rights reserved.
 
-Effective Date: August 31, 2010
+Effective Date: December 11, 2013
 
 **More Information:**
 
