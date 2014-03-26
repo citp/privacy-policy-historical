@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snobessentials.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905122739id_/http%3A//www.snobessentials.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snobessentials.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326221036id_/http%3A//www.snobessentials.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Snob Essentials
 
@@ -6,7 +6,7 @@ Please read this statement carefully before proceeding to access the Bag Snob we
 
  **Information Collection**
 
-Bag Snob, LLC is the sole owner of the information collected on www.bagsnob.com. Bag Snob may collect information from our users at several different points on our Web site.
+Bag Snob, LLC is the sole owner of the information collected on www.snobessentials.com. Bag Snob may collect information from our users at several different points on our Web site.
 
  **Comments**
 
