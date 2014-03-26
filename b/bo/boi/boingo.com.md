@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boingo.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227015545id_/http%3A//www.boingo.com/boingo-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boingo.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326072110id_/http%3A//www.boingo.com/boingo-privacy-policy.php) for the most accurate reproduction.*
 
 # Boingo Wireless | Privacy Policy
 
