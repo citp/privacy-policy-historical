@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honeybadger.io privacy policy that was archived on 2013-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130919193540id_/https%3A//www.honeybadger.io/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honeybadger.io privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326033608id_/https%3A//www.honeybadger.io/pages/privacy) for the most accurate reproduction.*
 
 # Error Monitoring, Error Tracking, and Notification for Ruby on Rails 2 and 3 - Honeybadger
 
