@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the owners.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010190400id_/http%3A//www.owners.com/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owners.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327225609id_/http%3A//www.owners.com/about/privacy-statement) for the most accurate reproduction.*
 
 # Homes For Sale By Owner - Search, Buy, Sell - Owners.com Real Estate
 
