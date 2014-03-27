@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlynaturalpet.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822134304id_/http%3A//www.onlynaturalpet.com/help/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlynaturalpet.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327215646id_/http%3A//www.onlynaturalpet.com/help/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Only Natural Pet Store
 
@@ -36,7 +36,17 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
 Some of our business partners use cookies on our website. We have no access to or control over these cookies. This privacy statement covers the use of cookies by this website only and does not cover the use of cookies by any advertisers.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Firefox or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service at 888-937-6677. You can delete the cookies we have placed by [clicking here](http://www.onlynaturalpet.com/?cookies=delete).
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Firefox or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service at 888-937-6677. You can delete the cookies we have placed by [clicking here](http://www.onlynaturalpet.com/?cookies=delete). You will return to our homepage, but your cookies will be cleared.
+
+**Other Tracking Technologies**
+
+Our third party partners also employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personally identifiable information.
+
+As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
+
+We do not link this automatically-collected data to personally identifiable information.
 
 **Do we disclose the information we collect to outside parties?**
 
@@ -46,6 +56,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
   * We share email activity data with our email provider to help better target email deployments sent on behalf of their clients. While our email provider has access to email addresses and email activity, and may share bulk/non-specific activity data, no email addresses or specific email activity are shared with other third parties. Should a consumer wish to opt out of this sharing, that consumer simply needs to opt out of email communications from us.
   * We may release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. 
   * We may release your name, mailing address, and purchase history to certain outside parties to be used for anonymous marketing analysis or to send you postal mail offers from other companies we believe you may be interested in receiving. You may opt-out of this marketing analysis and of receiving postal mail offers from outside parties by sending a request to [service@onlynaturalpet.com](mailto:service@onlynaturalpet.com) or calling us at 888-937-6677. 
+  * If Only Natural Pet Store is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
   * You will be notified when your personally identifiable information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party. 
   * Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at service@onlynaturalpet.com. In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why. 
 
@@ -67,9 +78,9 @@ The security of your personally identifiable information is important to us. Whe
 
 In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
 
-Only Natural Pet Store has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.onlynaturalpet.com and does not cover information that may be collected through behind the log in on our website. 
+Only Natural Pet Store has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.onlynaturalpet.com and does not cover information that may be collected through behind the log in on our website. 
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at service@onlynaturalpet.com or 888-937-6677. If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at service@onlynaturalpet.com or 888-937-6677. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 **Social Media  
 **  
@@ -89,7 +100,7 @@ Orders placed from California comply with California collection and use of perso
 
 **Changes to our policy**
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by other means. **This policy was last modified on October 30, 2012.**
+If we decide to change our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by other means prior to the change becoming effective. **This policy was last modified on March 6, 2014.**
 
 **Questions and Feedback**
 
