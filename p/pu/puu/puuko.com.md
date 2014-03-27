@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puuko.com privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911003856id_/http%3A//www.supportidols.com/support_faq/puuko-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puuko.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327100624id_/http%3A//www.supportidols.com/support_faq/puuko-privacy.html) for the most accurate reproduction.*
 
 # Puuko.com - Privacy Statement
 
