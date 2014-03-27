@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stratasys.com privacy policy that was archived on 2013-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131209000931id_/http%3A//www.stratasys.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stratasys.com privacy policy that was archived on 2014-03-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140327011411id_/http%3A//www.stratasys.com/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="X-UA-Compatible" content="IE=edge">
 
@@ -17,14 +17,24 @@
 		<link rel="stylesheet" type="text/css" media="screen" href="/StratasysGlobal/Styles/ie6.css" />
 	<![endif]-->
     <link rel="stylesheet" href="/StratasysGlobal/Styles/prettyPhoto315.css" type="text/css" media="screen" title="prettyPhoto main stylesheet" charset="utf-8"><link href="http://fonts.googleapis.com/css?family=Signika" rel="stylesheet" type="text/css">
-    <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="/StratasysGlobal/Scripts/jquery-1.8.2.min.js" type="text/javascript" charset="utf-8"></script>
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TLFR38"></script><script src="/StratasysGlobal/Scripts/jquery-1.8.2.min.js" type="text/javascript" charset="utf-8"></script>
     <script src="/StratasysGlobal/Scripts/scripts.min.js" type="text/javascript" charset="utf-8"></script>
     <script src="/StratasysGlobal/Scripts/jquery.prettyPhoto.3.1.5.js" type="text/javascript" charset="utf-8"></script>
     <script src="/StratasysGlobal/Scripts/utm-transfer.js" type="text/javascript" charset="utf-8"></script>
     
     <!-- Added 7/26/13 to allow for using the Brightcove video player in the slideshow. -->
     <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
-
+	
+    <!-- removes horizontal rule on pages with tabs -->
+	<script type="text/javascript">
+	    $(document).ready(function () {
+	        if (document.getElementById("content_0_divTabContainer")) {
+	            $("div#billboard").css("background", "none");
+	            $("div#billboard").css("margin-bottom", "0px");
+	        }
+	    });
+	</script>
+    
     <script type="text/javascript">
         checkCookie(); 
 	</script>
@@ -35,12 +45,8 @@
     <script type="text/javascript">        stLight.options({ publisher: "dc64cc9e-5a04-4e86-917b-4c113ec5a9a8", doNotHash: false, doNotCopy: false, hashAddressBar: false });</script>
     <!-- end script for "share this" -->
     
-    <script src="/StratasysGlobal/Scripts/homepage-feature-slides.js" type="text/javascript" charset="utf-8"></script>
-    <script>
-        $(function () {
-            $("#slides").slides();
-        });
-    </script>
+    <script src="/StratasysGlobal/Scripts/homepage-feature-slides.min.js" type="text/javascript" charset="utf-8"></script>
+    
     <!-- Royal Slider Files -->
     <!-- basic stylesheet -->
     <link rel="stylesheet" href="/StratasysGlobal/royalslider/royalslider.css">
@@ -51,36 +57,6 @@
     <script src="/StratasysGlobal/royalslider/jquery.royalslider.min.js"></script>
     <!-- END Royal Slider Files -->
 	<script src="/StratasysGlobal/royalslider/magnific-popup.js"></script>
-
-    <!-- Google Analytics tracking -->
-	<script type="text/javascript">
-
-		var _gaq = _gaq || [];
-		if (document.location.hostname == 'www.stratasys.com.cn' || document.location.hostname == 'stratasys.com.cn') {
-			_gaq.push(['_setAccount', 'UA-1162352-15']);
-		} else if (document.location.hostname == 'www.stratasys.co.jp' || document.location.hostname == 'stratasys.co.jp') {
-			_gaq.push(['_setAccount', 'UA-1162352-17']);
-		} else if (document.location.hostname == 'www.stratasys.co.kr' || document.location.hostname == 'stratasys.co.kr') {
-			_gaq.push(['_setAccount', 'UA-1162352-16']);
-		} else {
-			_gaq.push(['_setAccount', 'UA-1162352-8']);
-			_gaq.push(['_setDomainName', 'stratasys.com']);
-			_gaq.push(['_addOrganic', 'search.mywebsearch.com', 'searchfor']);
-			_gaq.push(['_addOrganic', 'delta-search.com', 'q']);
-			_gaq.push(['_addOrganic', 'search.sweetim.com', 'q']);
-			_gaq.push(['_addOrganic', 'search.incredibar.com', 'q']);
-			_gaq.push(['_addOrganic', 'search.pch.com', 'q']);
-		}
-		_gaq.push(['_trackPageview']);
-
-		(function () {
-			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		})();
-     
-    </script>
-    <!-- end Google Analytics tracking -->
 
     <!-- other country-specific tracking codes -->
     <script type="text/javascript">
@@ -98,6 +74,14 @@
     </script><script type="text/javascript"></script>
     <!-- end country-specific tracking codes -->
     
+    <!-- RealClick Tracking Script V.20130115 for Korean language site Start-->
+	<script type="text/javascript">
+	    if (document.location.hostname == 'www.stratasys.co.kr' || document.location.hostname == 'stratasys.co.kr') {
+	        function loadrtgJS(b, c) { var d = document.getElementsByTagName("head")[0], a = document.createElement("script"); a.type = "text/javascript"; null != c && (a.charset = "euc-kr"); a.src = b; d.appendChild(a) } function load_rtg(b) { loadrtgJS(("https:" == document.location.protocol ? " https://" : " http://") + b, "euc-kr") } load_rtg("event.realclick.co.kr/rtarget/rtget.js?rtcode=stratasys");
+	    }
+    </script>
+    <!-- RealClick Tracking Checking Script V.20130115 for Korean language site End -->
+    
     <!-- Marketo code -->
 	<script type="text/javascript">
 	    document.write(unescape("%3Cscript src='" + document.location.protocol +
@@ -111,9 +95,18 @@
     <!-- head closing tracking code area end -->
     
 	<!-- addressed issue with duplicate content begin -->
-	</head><body><rel="alternate" href="br" hreflang="http://www.stratasys.com/br/legal/privacy-policy"><rel="alternate" href="de" hreflang="http://www.stratasys.com/de/legal/privacy-policy"><rel="alternate" href="fr" hreflang="http://www.stratasys.com/fr/legal/privacy-policy"><rel="alternate" href="ja-JP" hreflang="http://www.stratasys.com/ja-JP/legal/privacy-policy"><rel="alternate" href="zh-CN" hreflang="http://www.stratasys.com/zh-CN/legal/privacy-policy"><rel="alternate" href="es-ES" hreflang="http://www.stratasys.com/es-ES/legal/privacy-policy"><rel="alternate" href="pt-BR" hreflang="http://www.stratasys.com/pt-BR/legal/privacy-policy"><rel="alternate" href="mx" hreflang="http://www.stratasys.com/mx/legal/privacy-policy"><rel="alternate" href="ko-KR" hreflang="http://www.stratasys.com/ko-KR/legal/privacy-policy"><rel="alternate" href="ru" hreflang="http://www.stratasys.com/ru/legal/privacy-policy"><rel="alternate" href="de-DE" hreflang="http://www.stratasys.com/de-DE/legal/privacy-policy"><rel="alternate" href="es" hreflang="http://www.stratasys.com/es/legal/privacy-policy"><rel="alternate" href="es-US" hreflang="http://www.stratasys.com/es-US/legal/privacy-policy"><rel="alternate" href="en" hreflang="http://www.stratasys.com/legal/privacy-policy"><rel="alternate" href="it" hreflang="http://www.stratasys.com/it/legal/privacy-policy">
+	</head><body><rel="alternate" href="http://www.stratasys.com/ru/legal/privacy-policy" hreflang="ru"><rel="alternate" href="http://www.stratasys.com.cn/zh-CN/legal/privacy-policy" hreflang="zh-CN"><rel="alternate" href="http://www.stratasys.com/es-ES/legal/privacy-policy" hreflang="es-ES"><rel="alternate" href="http://www.stratasys.com/fr/legal/privacy-policy" hreflang="fr"><rel="alternate" href="http://www.stratasys.com/de/legal/privacy-policy" hreflang="de"><rel="alternate" href="http://www.stratasys.com/legal/privacy-policy" hreflang="en"><rel="alternate" href="http://www.stratasys.com/mx/legal/privacy-policy" hreflang="mx"><rel="alternate" href="http://www.stratasys.com/it/legal/privacy-policy" hreflang="it"><rel="alternate" href="http://www.stratasys.com/es/legal/privacy-policy" hreflang="es"><rel="alternate" href="http://www.stratasys.co.kr/ko-KR/legal/privacy-policy" hreflang="ko-KR"><rel="alternate" href="http://www.stratasys.co.jp/ja-JP/legal/privacy-policy" hreflang="ja-JP"><rel="alternate" href="http://www.stratasys.com/es-US/legal/privacy-policy" hreflang="es-US"><rel="alternate" href="http://www.stratasys.com/pt-BR/legal/privacy-policy" hreflang="pt-BR"><rel="alternate" href="http://www.stratasys.com/br/legal/privacy-policy" hreflang="br"><rel="alternate" href="http://www.stratasys.com/de-DE/legal/privacy-policy" hreflang="de-DE">
 	<!-- addressed issue with duplicate content end -->
-<meta id="metaDescription" name="description" content="Stratasys legal privacy statement."><meta id="metaKeywords" name="keywords">
+<script language="javascript" type="text/javascript" src="/sitecore/shell/Controls/Lib/jQuery/jquery.js"></script>
+<script language="javascript" type="text/javascript" src="/sitecore modules/Web/Brightcove/includes/jquery.prettyPhoto.js"></script>
+
+<script type="text/javascript" charset="utf-8">
+   jQuery(document).ready(function () {
+       jQuery("a[rel^='prettyPhoto']").prettyPhoto();
+   });
+</script>
+
+<link rel="Stylesheet" href="/sitecore modules/Web/Brightcove/includes/prettyPhoto.css"><meta id="metaDescription" name="description" content="Stratasys legal privacy statement."><meta id="metaKeywords" name="keywords">
 
     <!-- ClickTale Top part -->
     <script type="text/javascript">
@@ -121,14 +114,33 @@
     </script>
     <!-- ClickTale end of Top part -->
 
+	<div id="pnlGoogleTagManagerOther">
+	
+		<!-- Google Tag Manager -->
+		<noscript>
+			<iframe src="//www.googletagmanager.com/ns.html?id=GTM-TLFR38" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+		</noscript>
+		<script>
+			(function (w, d, s, l, i) {
+				w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+				var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true;
+				j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+			})(window, document, 'script', 'dataLayer', 'GTM-TLFR38');
+		</script>
+		<!-- End Google Tag Manager -->
+	
+</div>
+
+	
+
 	<!-- body opening tracking code area begin -->
     
     <!-- body opening tracking code area end -->
 
     <form name="form1" method="post" action="privacy-policy" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTY5NzE1MDAzMQ9kFgICBQ9kFggCAQ9kFgJmD2QWAmYPZBYIAgEPFgIeBFRleHQF6gM8YSBocmVmPSJodHRwOi8vYmxvZy5zdHJhdGFzeXMuY29tIiwgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgYWx0PSIiIHNyYz0iL1N0cmF0YXN5c0dsb2JhbC9JbWFnZXMvc3RyYXRhc3lzX2Jsb2cucG5nIiAvPjwvYT4NCjxhIGhyZWY9Imh0dHA6Ly93d3cuZmFjZWJvb2suY29tL3N0cmF0YXN5cyIsIHRhcmdldD0iX2JsYW5rIj48aW1nIGFsdD0iIiBzcmM9Ii9TdHJhdGFzeXNHbG9iYWwvSW1hZ2VzL2ZhY2Vib29rLnBuZyIgLz48L2E+DQo8YSBocmVmPSJodHRwOi8vdHdpdHRlci5jb20vU3RyYXRhc3lzIiwgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgYWx0PSIiIHNyYz0iL1N0cmF0YXN5c0dsb2JhbC9JbWFnZXMvdHdpdHRlci5wbmciIC8+PC9hPg0KPGEgaHJlZj0iaHR0cDovL3d3dy55b3V0dWJlLmNvbS9vYmpldGdlb21ldHJpZXMiLCB0YXJnZXQ9Il9ibGFuayI+PGltZyBhbHQ9IiIgc3JjPSIvU3RyYXRhc3lzR2xvYmFsL0ltYWdlcy95b3V0dWJlLnBuZyIgLz48L2E+ZAIHDxYEHglpbm5lcmh0bWwFB0VuZ2xpc2geB29uY2xpY2sFGkRpc3BsYXlMYW5ndWFnZURyb3BEb3duKCk7ZAILDxYCHwAFswI8dWw+DQogICAgPGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cuc3RyYXRhc3lzLmNvbS9jb3Jwb3JhdGUvaW52ZXN0b3ItcmVsYXRpb25zIj5JbnZlc3RvciBSZWxhdGlvbnM8L2E+Jm5ic3A7IDwvbGk+DQogICAgPGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cuc3RyYXRhc3lzLmNvbS9wYXJ0bmVycyI+TG9naW48L2E+Jm5ic3A7IDwvbGk+DQogICAgPGxpIGNsYXNzPSJsYXN0Ij48YSBocmVmPSJodHRwOi8vd3d3LnN0cmF0YXN5cy5jb20vY29udGFjdC11cy9jb250YWN0LXN0cmF0YXN5cyI+Q29udGFjdCBVczwvYT4mbmJzcDsgPC9saT4NCjwvdWw+ZAIND2QWAmYPZBYEAgEPFgIeBGhyZWYFGWh0dHA6Ly93d3cuc3RyYXRhc3lzLmNvbS9kAgMPZBYCAgUPFgIeBWNsYXNzBQRsYXN0ZAIDD2QWAmYPZBYCZg9kFgICAQ8WAh8ABZYCPGltZyB3aWR0aD0iMzQwIiBoZWlnaHQ9IjI0MCIgYWx0PSJDbG9zZXVwIHNob3dzIG9ybmF0ZSBmZWF0dXJlcyBvZiBhIGNsZWFyIDNEIHByaW50ZWQgYnVpbGRpbmcgbW9kZWwiIHNyYz0iaHR0cDovL3d3dy5zdHJhdGFzeXMuY29tL34vbWVkaWEvZW4vTGVnYWwvbW9kZWxfY2xlYXJfYXJjX2RlX3RyaXVtcGhlLmFzaHgiIC8+PGJyIC8+CjxoMT5MZWdhbDwvaDE+CjxoMj5JbXBvcnRhbnQgaW5mb3JtYXRpb24gZm9yIGN1c3RvbWVycyBhbmQgdmlzaXRvcnMgdG8gdGhpcyBzaXRlPC9oMj5kAgcPZBYCZg9kFgJmD2QWEgIBDxYCHgdWaXNpYmxlaGQCAg9kFgJmD2QWAgIBDxYCHwEFBUxlZ2FsZAIDD2QWAmYPFgIfAAW+FjxoMj5Qcml2YWN5IFBvbGljeTwvaDI+CjxwPlBsZWFzZSB0YWtlIGEgbW9tZW50IHRvIHJlYWQgdGhlIGZvbGxvd2luZyBwb2xpY3kgdG8gbGVhcm4gaG93IHdlIGhhbmRsZSB5b3VyIGluZm9ybWF0aW9uLiBBd2FyZW5lc3MgYW5kIHVuZGVyc3RhbmRpbmcgb2Ygb3VyIFByaXZhY3kgUG9saWN5IHdpbGwgYWxsb3cgdXMgdG8gcHJvdmlkZSB5b3Ugd2l0aCBiZXR0ZXIgc2VydmljZS48L3A+Cgo8cD5TdHJhdGFzeXMgTHRkLiB3aWxsIG5vdCBzZWxsIG9yIHNoYXJlIGFueSBvZiB0aGUgbmFtZXMsIGFkZHJlc3Nlcywgb3IgaW5mb3JtYXRpb24gaW4gb3VyIGRhdGFiYXNlcy4gU3RyYXRhc3lzIG9ubHkgY29sbGVjdHMgeW91ciBpbmZvcm1hdGlvbiBmb3IgdGhlIHB1cnBvc2VzIG9mIHNlbmRpbmcgdGhlIHByb2R1Y3QgbGl0ZXJhdHVyZSBhbmQgc2FtcGxlcyB5b3UgZXhwbGljaXRseSByZXF1ZXN0ZWQgdGhyb3VnaCB0cmFkZSBwdWJsaWNhdGlvbnMsIHRyYWRlIHNob3dzLCBhbmQgZGlyZWN0IGNvbnRhY3Qgd2l0aCBvdXIgY29tcGFueS4gQXMgcGFydCBvZiB0aGlzIHJlcXVlc3QgYW5kIGZ1bGZpbGxtZW50IHByb2Nlc3MsIHdlIGRvIGZvcndhcmQgeW91ciBpbmZvcm1hdGlvbiB0byB0aGUgU3RyYXRhc3lzIHByb2R1Y3QgcmVwcmVzZW50YXRpdmUsIGRpc3RyaWJ1dG9yIG9yIHJlc2VsbGVyIG5lYXJlc3QgeW91LjwvcD4KCjxoMz5XaHkgd2UgY29sbGVjdCBwZXJzb25hbCBpbmZvcm1hdGlvbjwvaDM+CjxwPlN0cmF0YXN5cyBjb2xsZWN0cyBhbmQgdXNlcyB5b3VyIGluZm9ybWF0aW9uIHRvIGdpdmUgeW91IGN1cnJlbnQgbWFya2V0IGFuZCBwcm9kdWN0IGluZm9ybWF0aW9uLCB0byBwcm92aWRlIHlvdSB3aXRoIGNvbnZlbmllbnQgYWNjZXNzIHRvIG91ciBwcm9kdWN0cywgYW5kIHRvIHByb3ZpZGUgeW91IHdpdGggZXhjZWxsZW50IHNlcnZpY2UuIEluIGFkZGl0aW9uLCB3ZSB1c2UgeW91ciBpbmZvcm1hdGlvbiB0byBrZWVwIHlvdSB1cCB0byBkYXRlIG9uIHRoZSBsYXRlc3QgcHJvZHVjdCBhbm5vdW5jZW1lbnRzLCBzcGVjaWFsIG9mZmVycywgYW5kIG90aGVyIGluZm9ybWF0aW9uIHdlIGJlbGlldmUgd291bGQgYmVuZWZpdCB5b3UuPC9wPgoKPGgzPkhvdyB3ZSBjb2xsZWN0IGluZm9ybWF0aW9uPC9oMz4KPHA+V2UgY29sbGVjdCBpbmZvcm1hdGlvbiBhYm91dCB5b3UgZnJvbSByZXF1ZXN0cyBmb3IgcHJvZHVjdCBpbmZvcm1hdGlvbiB0aHJvdWdoIHRyYWRlIHB1YmxpY2F0aW9uIGFkdmVydGlzaW5nIGFuZC9vciBwcmVzcyByZWxlYXNlcywgcmVxdWVzdHMgZm9yIGluZm9ybWF0aW9uIGZyb20gdGhlIGNvbnRhY3QgZm9ybSBhbmQgZW1haWwgbGlua3Mgb24gb3VyIHdlYnNpdGUsIGFuZCByZXF1ZXN0cyBmb3IgaW5mb3JtYXRpb24gZnJvbSB0cmFkZSBzaG93cyBhbmQgY29uZmVyZW5jZXMuPC9wPgoKPHA+V2hlbiB5b3UgYnJvd3NlIG91ciB3ZWJzaXRlLCB5b3UgYXJlIGFibGUgdG8gZG8gc28gYW5vbnltb3VzbHkuIEdlbmVyYWxseSwgd2UgZG8gbm90IGNvbGxlY3QgcGVyc29uYWwgaW5mb3JtYXRpb24gd2hlbiB5b3UgYnJvd3NlJm1kYXNoO25vdCBldmVuIHlvdXIgZW1haWwgYWRkcmVzcy4gWW91ciBicm93c2VyLCBob3dldmVyLCBkb2VzIGF1dG9tYXRpY2FsbHkgdGVsbCB1cyB0aGUgdHlwZSBvZiBjb21wdXRlciBhbmQgb3BlcmF0aW5nIHN5c3RlbSB5b3UgYXJlIHVzaW5nLjwvcD4KCjxwPkluIHNvbWUgb2Ygb3VyIGVtYWlscyB0byB5b3UsIHdlIHVzZSBhIGNsaWNrJm5kYXNoO3Rocm91Z2ggVVJMLiBXaGVuIHlvdSBjbGljayBvbmUgb2YgdGhlc2UgVVJMcywgeW91IHBhc3MgdGhyb3VnaCBvdXIgd2ViIHNlcnZlciBiZWZvcmUgYXJyaXZpbmcgYXQgdGhlIHdlYnNpdGUgdGhhdCBpcyB5b3VyIGRlc3RpbmF0aW9uLiBXZSB0cmFjayBjbGljayZuZGFzaDt0aHJvdWdocyB0byBoZWxwIHVzIGRldGVybWluZSB5b3VyIGludGVyZXN0IGluIHBhcnRpY3VsYXIgdG9waWNzIGFuZCBtZWFzdXJlIHRoZSBlZmZlY3RpdmVuZXNzIG9mIG91ciBjdXN0b21lciBjb21tdW5pY2F0aW9ucy48L3A+Cgo8aDM+SG93IHdlIHByb3RlY3QgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbjwvaDM+CjxwPldoZW4geW91IG9yZGVyIGEgcHJvZHVjdCBmcm9tIG91ciB3ZWIgc2l0ZSwgd2UgZ2l2ZSB5b3UgdGhlIG9wdGlvbiB0byB1c2UgaW5kdXN0cnktc3RhbmRhcmQgU2VjdXJlIFNvY2tldHMgTGF5ZXIgKFNTTCkgZW5jcnlwdGlvbiBvbiBhbGwgd2ViIHBhZ2VzIHdoZXJlIHBlcnNvbmFsIGluZm9ybWF0aW9uIGlzIHJlcXVpcmVkLiBUbyBtYWtlIHB1cmNoYXNlcywgeW91IG11c3QgdXNlIGFuIFNTTCZuZGFzaDtlbmFibGVkIGJyb3dzZXIgc3VjaCBhcyBOZXRzY2FwZSBOYXZpZ2F0b3IsIG9yIEludGVybmV0IEV4cGxvcmVyLiBUaGlzIHByb3RlY3RzIHRoZSBjb25maWRlbnRpYWxpdHkgb2YgeW91ciBwZXJzb25hbCBhbmQgY3JlZGl0IGNhcmQgaW5mb3JtYXRpb24gd2hpbGUgaXQgaXMgdHJhbnNtaXR0ZWQgb3ZlciB0aGUgSW50ZXJuZXQuPC9wPgoKPGgzPldoYXQgeW91IGNhbiBkbzwvaDM+CjxwPldpdGggYW55IGVsZWN0cm9uaWMgY29ycmVzcG9uZGVuY2Ugd2Ugc2VuZCwgeW91IHdpbGwgYWx3YXlzIGhhdmUgdGhlIGFiaWxpdHkgdG8gb3B0Jm5kYXNoO291dCBvZiBmdXR1cmUgbWFpbGluZ3MuIElmIHlvdSBmZWVsIHlvdSBoYXZlIHJlY2VpdmVkIGEgdHJhZGl0aW9uYWwgbWFpbGluZyBieSBtaXN0YWtlIG9yIGlmIHlvdSBubyBsb25nZXIgd2FudCB0byByZWNlaXZlIHByaW50ZWQgYW5kIG1haWxlZCBpbmZvbXJhdGlvbiBmcm9tIHVzLCBmYXggdXMgdGhlIGNvdmVyIGxldHRlciBhbmQgd2Ugd2lsbCByZW1vdmUgeW91IGZyb20gdGhlIGRhdGFiYXNlLjwvcD5kAgQPZBYCZg8WAh8AZWQCBQ9kFgJmDxYCHwBlZAIGD2QWAmYPFgIfAGVkAgcPZBYCZg8WAh8AZWQCCA9kFgJmDxYCHwBlZAIKDxYCHwVoZAIJD2QWAmYPZBYCZg9kFgwCAQ8WAh8ABfEEPGRpdiBjbGFzcz0iY2F0ZWdvcnkiPjxhIGhyZWY9Ii9kZG0tZ3JvdXAiPkRETSBHUk9VUDwvYT48L2Rpdj4KPHVsPgogICAgPGxpPjxhIGhyZWY9Ii9kZG0tZ3JvdXAvbWV0YWwtZm9ybWluZyI+TWV0YWwgRm9ybWluZzwvYT48L2xpPgogICAgPGxpPjxhIGhyZWY9Ii9kZG0tZ3JvdXAvY29tcG9zaXRlLXRvb2xpbmciPkNvbXBvc2l0ZSBUb29saW5nPC9hPjwvbGk+CiAgICA8bGk+PGEgaHJlZj0iL2RkbS1ncm91cC9qaWdzLWFuZC1maXh0dXJlcyI+SmlncyBhbmQgRml4dHVyZXM8L2E+PC9saT4KICAgIDxsaT48YSBocmVmPSIvZGRtLWdyb3VwL3RoZXJtb2Zvcm1pbmciPlRoZXJtb2Zvcm1pbmc8L2E+PC9saT4KICAgIDxsaT48YSBocmVmPSIvZGRtLWdyb3VwL2VuZC11c2UtcGFydHMiPkVuZC1Vc2UgUGFydHM8L2E+PC9saT4KICAgIDxsaT48YSBocmVmPSIvZGRtLWdyb3VwL3Rlc3QtcmVwb3J0cyI+VGVzdCBSZXBvcnRzPC9hPjwvbGk+CiAgICA8bGk+PGEgaHJlZj0iL2RkbS1ncm91cC91bHRlbS1jYWxjdWxhdG9yIj5VTFRFTSBDYWxjdWxhdG9yPC9hPjwvbGk+CiAgICA8bGk+PGEgaHJlZj0iL2RkbS1ncm91cC9hYm91dC1kZG0tZ3JvdXAiPkFib3V0IERETSBHcm91cDwvYT48L2xpPgo8L3VsPmQCAw8WAh8ABc4FPGRpdiBjbGFzcz0iY2F0ZWdvcnkiPjxhIGhyZWY9Ii9pbmR1c3RyaWVzIj5JTkRVU1RSSUVTPC9hPjwvZGl2Pgo8dWw+CjxsaT48YSBocmVmPSIvaW5kdXN0cmllcy9hZXJvc3BhY2UiPkFlcm9zcGFjZSAzRCBQcmludGluZzwvYT48L2xpPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iL2luZHVzdHJpZXMvYXV0b21vdGl2ZSI+QXV0b21vdGl2ZSAzRCBQcmludGluZzwvYT48L2xpPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iL2luZHVzdHJpZXMvY29tbWVyY2lhbC1wcm9kdWN0cyI+Q29tbWVyY2lhbCBQcm9kdWN0cyAzRCBQcm90b3R5cGluZzwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL2luZHVzdHJpZXMvZGVudGFsIj5EZW50YWw8L2E+PC9saT4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9pbmR1c3RyaWVzL2NvbnN1bWVyLXByb2R1Y3RzIj5Db25zdW1lciBQcm9kdWN0cyAzRCBQcm90b3R5cGluZzwvYT48L2xpPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iL2luZHVzdHJpZXMvZWR1Y2F0aW9uIj5FZHVjYXRpb24gM0QgUHJpbnRpbmc8L2E+PC9saT4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9pbmR1c3RyaWVzL21lZGljYWwiPk1lZGljYWwgRGV2aWNlIFByb3RvdHlwaW5nPC9hPjwvbGk+CiAgICAgICAgICAgIDxsaT48YSBocmVmPSIvaW5kdXN0cmllcy9kZWZlbnNlIj5EZWZlbnNlIDNEIFByaW50aW5nPC9hPjwvbGk+CiAgICAgICAgPC91bD4KCmQCBQ8WAh8ABa4GPGRpdiBjbGFzcz0iY2F0ZWdvcnkiPjxhIGhyZWY9Ii9jb3Jwb3JhdGUiPkNPUlBPUkFURTwvYT48L2Rpdj4NCiAgICAgICAgPHVsPg0KICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9jb3Jwb3JhdGUvYWJvdXQtdXMiPkFib3V0IFVzPC9hPjwvbGk+DQogICAgICAgICAgICA8bGk+PGEgaHJlZj0iL2NvcnBvcmF0ZS9pbnZlc3Rvci1yZWxhdGlvbnMiPkludmVzdG9yIFJlbGF0aW9uczwvYT48L2xpPg0KICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9jb3Jwb3JhdGUvbmV3c3Jvb20iPk5ld3Nyb29tPC9hPjwvbGk+DQogICAgICAgICAgICA8bGk+PGEgaHJlZj0iL2NvcnBvcmF0ZS9jYXJlZXJzIj5DYXJlZXJzPC9hPjwvbGk+DQogICAgICAgICAgICA8bGk+PGEgaHJlZj0iL2NvcnBvcmF0ZS9yZWFjaC1jb21wbGlhbmNlIj5SRUFDSCBDb21wbGlhbmNlPC9hPjwvbGk+DQogICAgICAgIDwvdWw+DQoNCjxkaXYgY2xhc3M9ImNhdGVnb3J5IiBzdHlsZT0iY29sb3I6ICNFODc3MjI7Ij5DT01QQU5ZIFdFQlNJVEVTPC9kaXY+DQogICAgICAgIDx1bD4NCiAgICAgICAgICAgIDxsaT48YSBocmVmPSJodHRwOi8vd3d3Lm1ha2VyYm90LmNvbS8iIHRhcmdldD0iX2JsYW5rIj5NYWtlckJvdDwvYT48L2xpPg0KCQkJPGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cucmVkZXllb25kZW1hbmQuY29tLyIgdGFyZ2V0PSJfYmxhbmsiPlJlZEV5ZTwvYT48L2xpPg0KCQkJPGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cuc29saWQtc2NhcGUuY29tLyIgdGFyZ2V0PSJfYmxhbmsiPlNvbGlkc2NhcGU8L2E+PC9saT4NCiAgICAgICAgICAgIA0KICAgICAgICA8L3VsPmQCBw8WAh8ABbgGPGRpdiBjbGFzcz0iY2F0ZWdvcnkiPjxhIGhyZWY9Ii9wYXJ0bmVycyI+UEFSVE5FUlM8L2E+PC9kaXY+CiAgICAgICAgPHVsPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cuc3RyYXRhc3lzLmNvbS9TaW5nbGUtU2lnbi1Pbi9Mb2dpbi5hc3B4Ij5GRE0gUmVzb3VyY2UgQ2VudGVyPC9hPjwvbGk+CiAgICAgICAgICAgIDxsaT48YSBocmVmPSJodHRwOi8vcGFydG5lcnpvbmUub2JqZXQuY29tLyI+UGFydG5lciBab25lPC9hPjwvbGk+CgoKICAgICAgICA8L3VsPgoKPGRpdiBjbGFzcz0iY2F0ZWdvcnkiPjxhIGhyZWY9Ii9jb250YWN0LXVzLyI+Q09OVEFDVCBVUzwvYT48L2Rpdj4KICAgICAgICA8dWw+CiAgICAgICAgICAgIDxsaT48YSBocmVmPSIvY29udGFjdC11cy9jb250YWN0LXN0cmF0YXN5cyI+Q29udGFjdCBTdHJhdGFzeXM8L2E+PC9saT4KCQkJPGxpPjxhIGhyZWY9Ii9jb250YWN0LXVzL2xvY2F0aW9ucyI+TG9jYXRpb25zPC9hPjwvbGk+CgkJCTxsaT48YSBocmVmPSIvY29udGFjdC11cy9maW5kLWEtcmVzZWxsZXIiPkZpbmQgYSBSZXNlbGxlcjwvYT48L2xpPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iL2NvbnRhY3QtdXMvZ2V0LWEtc2FtcGxlLXBhcnQiPkdldCBhIFNhbXBsZSBQYXJ0PC9hPjwvbGk+CjxsaT48YSBocmVmPSIvY29udGFjdC11cy9jdXN0b21lci1mZWVkYmFjayI+Q3VzdG9tZXIgRmVlZGJhY2s8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9jdXN0b21lci1zdXBwb3J0L3JlY3ljbGluZy1jZW50ZXIiPlJlY3ljbGluZyBDZW50ZXI8L2E+PC9saT4KICAgICAgICAgICAgCiAgICAgICAgPC91bD4KCgpkAgkPFgIfAAXCBzxkaXYgY2xhc3M9ImNhdGVnb3J5Ij48YSBocmVmPSIvY29tbXVuaXR5Ij5DT01NVU5JVFk8L2E+PC9kaXY+Cjx1bD4KICAgIDxsaT48YSBocmVmPSJodHRwOi8vYmxvZy5zdHJhdGFzeXMuY29tIiB0YXJnZXQ9Il9ibGFuayI+QmxvZzwvYT48L2xpPgogICAgPGxpPjxhIGhyZWY9Ii9jb21tdW5pdHkvZ3VpZGVsaW5lcyI+R3VpZGVsaW5lczwvYT48L2xpPgoKPC91bD4KPGEgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9Imh0dHA6Ly9ibG9nLnN0cmF0YXN5cy5jb20iPjxpbWcgYWx0PSIiIHNyYz0iL1N0cmF0YXN5c0dsb2JhbC9JbWFnZXMvc3RyYXRhc3lzX2Jsb2cucG5nIiAvPjwvYT4KPGEgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9Imh0dHA6Ly93d3cuZmFjZWJvb2suY29tL3N0cmF0YXN5cyI+PGltZyBhbHQ9IiIgc3JjPSIvU3RyYXRhc3lzR2xvYmFsL0ltYWdlcy9mYWNlYm9vay5wbmciIC8+PC9hPgo8YSB0YXJnZXQ9Il9ibGFuayIgaHJlZj0iaHR0cDovL3BsdXMuZ29vZ2xlLmNvbS8xMDE2NTcwNTc2ODAwNjYwODg2OTgiPjxpbWcgYWx0PSIiIHNyYz0iL1N0cmF0YXN5c0dsb2JhbC9JbWFnZXMvZ29vZ2xlX3BsdXMucG5nIiAvPjwvYT4KPGJyIC8+CjxhIHRhcmdldD0iX2JsYW5rIiBocmVmPSJodHRwOi8vdHdpdHRlci5jb20vU3RyYXRhc3lzIj48aW1nIGFsdD0iIiBzcmM9Ii9TdHJhdGFzeXNHbG9iYWwvSW1hZ2VzL3R3aXR0ZXIucG5nIiAvPjwvYT4KPGEgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9Imh0dHA6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvNDE1NzI4Ij48aW1nIGFsdD0iIiBzcmM9Ii9TdHJhdGFzeXNHbG9iYWwvSW1hZ2VzL2xpbmtlZGluLnBuZyIgLz48L2E+CjxhIHRhcmdldD0iX2JsYW5rIiBocmVmPSJodHRwOi8vd3d3LnlvdXR1YmUuY29tL29iamV0Z2VvbWV0cmllcyI+PGltZyBhbHQ9IiIgc3JjPSIvU3RyYXRhc3lzR2xvYmFsL0ltYWdlcy95b3V0dWJlLnBuZyIgLz48L2E+ZAILDxYCHwAFhQE8cD5TdHJhdGFzeXMgTHRkLiAmY29weTsgMjAxMy4gQWxsIHJpZ2h0cyByZXNlcnZlZC4gfCA8YSBocmVmPSIvbGVnYWwiPkxlZ2FsPC9hPiB8IDxhIGhyZWY9Ii9sZWdhbC9wcml2YWN5LXBvbGljeSI+UHJpdmFjeSBQb2xpY3k8L2E+ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUSaGVhZGVyXzAkYnRuU2VhcmNoNaNtths1LG4BExAyBzStDMd4JryI/dwjOn+F7MCKCo8=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExMjY3NTA5MTIPZBYEAgMPDxYCHgdWaXNpYmxlZ2RkAgkPZBYIAgEPZBYCZg9kFgJmD2QWCAIBDxYCHgRUZXh0BeoDPGEgaHJlZj0iaHR0cDovL2Jsb2cuc3RyYXRhc3lzLmNvbSIsIHRhcmdldD0iX2JsYW5rIj48aW1nIGFsdD0iIiBzcmM9Ii9TdHJhdGFzeXNHbG9iYWwvSW1hZ2VzL3N0cmF0YXN5c19ibG9nLnBuZyIgLz48L2E+DQo8YSBocmVmPSJodHRwOi8vd3d3LmZhY2Vib29rLmNvbS9zdHJhdGFzeXMiLCB0YXJnZXQ9Il9ibGFuayI+PGltZyBhbHQ9IiIgc3JjPSIvU3RyYXRhc3lzR2xvYmFsL0ltYWdlcy9mYWNlYm9vay5wbmciIC8+PC9hPg0KPGEgaHJlZj0iaHR0cDovL3R3aXR0ZXIuY29tL1N0cmF0YXN5cyIsIHRhcmdldD0iX2JsYW5rIj48aW1nIGFsdD0iIiBzcmM9Ii9TdHJhdGFzeXNHbG9iYWwvSW1hZ2VzL3R3aXR0ZXIucG5nIiAvPjwvYT4NCjxhIGhyZWY9Imh0dHA6Ly93d3cueW91dHViZS5jb20vb2JqZXRnZW9tZXRyaWVzIiwgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgYWx0PSIiIHNyYz0iL1N0cmF0YXN5c0dsb2JhbC9JbWFnZXMveW91dHViZS5wbmciIC8+PC9hPmQCBw8WBB4JaW5uZXJodG1sBQdFbmdsaXNoHgdvbmNsaWNrBRpEaXNwbGF5TGFuZ3VhZ2VEcm9wRG93bigpO2QCCw8WAh8BBbMCPHVsPg0KICAgIDxsaT48YSBocmVmPSJodHRwOi8vd3d3LnN0cmF0YXN5cy5jb20vY29ycG9yYXRlL2ludmVzdG9yLXJlbGF0aW9ucyI+SW52ZXN0b3IgUmVsYXRpb25zPC9hPiZuYnNwOyA8L2xpPg0KICAgIDxsaT48YSBocmVmPSJodHRwOi8vd3d3LnN0cmF0YXN5cy5jb20vcGFydG5lcnMiPkxvZ2luPC9hPiZuYnNwOyA8L2xpPg0KICAgIDxsaSBjbGFzcz0ibGFzdCI+PGEgaHJlZj0iaHR0cDovL3d3dy5zdHJhdGFzeXMuY29tL2NvbnRhY3QtdXMvY29udGFjdC1zdHJhdGFzeXMiPkNvbnRhY3QgVXM8L2E+Jm5ic3A7IDwvbGk+DQo8L3VsPmQCDQ9kFgJmD2QWBAIBDxYCHgRocmVmBRlodHRwOi8vd3d3LnN0cmF0YXN5cy5jb20vZAIDD2QWAgIFDxYCHgVjbGFzcwUEbGFzdGQCBQ9kFgJmD2QWAmYPZBYCAgEPFgIfAQWWAjxpbWcgd2lkdGg9IjM0MCIgaGVpZ2h0PSIyNDAiIGFsdD0iQ2xvc2V1cCBzaG93cyBvcm5hdGUgZmVhdHVyZXMgb2YgYSBjbGVhciAzRCBwcmludGVkIGJ1aWxkaW5nIG1vZGVsIiBzcmM9Imh0dHA6Ly93d3cuc3RyYXRhc3lzLmNvbS9+L21lZGlhL2VuL0xlZ2FsL21vZGVsX2NsZWFyX2FyY19kZV90cml1bXBoZS5hc2h4IiAvPjxiciAvPgo8aDE+TGVnYWw8L2gxPgo8aDI+SW1wb3J0YW50IGluZm9ybWF0aW9uIGZvciBjdXN0b21lcnMgYW5kIHZpc2l0b3JzIHRvIHRoaXMgc2l0ZTwvaDI+ZAIHD2QWAmYPZBYCZg9kFgYCAQ8WAh8AaGQCAg9kFgJmD2QWAgIBDxYCHwIFBUxlZ2FsZAIKDxYCHwBoZAIJD2QWAmYPZBYCZg9kFgwCAQ8WAh8BBfEEPGRpdiBjbGFzcz0iY2F0ZWdvcnkiPjxhIGhyZWY9Ii9kZG0tZ3JvdXAiPkRETSBHUk9VUDwvYT48L2Rpdj4KPHVsPgogICAgPGxpPjxhIGhyZWY9Ii9kZG0tZ3JvdXAvbWV0YWwtZm9ybWluZyI+TWV0YWwgRm9ybWluZzwvYT48L2xpPgogICAgPGxpPjxhIGhyZWY9Ii9kZG0tZ3JvdXAvY29tcG9zaXRlLXRvb2xpbmciPkNvbXBvc2l0ZSBUb29saW5nPC9hPjwvbGk+CiAgICA8bGk+PGEgaHJlZj0iL2RkbS1ncm91cC9qaWdzLWFuZC1maXh0dXJlcyI+SmlncyBhbmQgRml4dHVyZXM8L2E+PC9saT4KICAgIDxsaT48YSBocmVmPSIvZGRtLWdyb3VwL3RoZXJtb2Zvcm1pbmciPlRoZXJtb2Zvcm1pbmc8L2E+PC9saT4KICAgIDxsaT48YSBocmVmPSIvZGRtLWdyb3VwL2VuZC11c2UtcGFydHMiPkVuZC1Vc2UgUGFydHM8L2E+PC9saT4KICAgIDxsaT48YSBocmVmPSIvZGRtLWdyb3VwL3Rlc3QtcmVwb3J0cyI+VGVzdCBSZXBvcnRzPC9hPjwvbGk+CiAgICA8bGk+PGEgaHJlZj0iL2RkbS1ncm91cC91bHRlbS1jYWxjdWxhdG9yIj5VTFRFTSBDYWxjdWxhdG9yPC9hPjwvbGk+CiAgICA8bGk+PGEgaHJlZj0iL2RkbS1ncm91cC9hYm91dC1kZG0tZ3JvdXAiPkFib3V0IERETSBHcm91cDwvYT48L2xpPgo8L3VsPmQCAw8WAh8BBc4FPGRpdiBjbGFzcz0iY2F0ZWdvcnkiPjxhIGhyZWY9Ii9pbmR1c3RyaWVzIj5JTkRVU1RSSUVTPC9hPjwvZGl2Pgo8dWw+CjxsaT48YSBocmVmPSIvaW5kdXN0cmllcy9hZXJvc3BhY2UiPkFlcm9zcGFjZSAzRCBQcmludGluZzwvYT48L2xpPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iL2luZHVzdHJpZXMvYXV0b21vdGl2ZSI+QXV0b21vdGl2ZSAzRCBQcmludGluZzwvYT48L2xpPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iL2luZHVzdHJpZXMvY29tbWVyY2lhbC1wcm9kdWN0cyI+Q29tbWVyY2lhbCBQcm9kdWN0cyAzRCBQcm90b3R5cGluZzwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL2luZHVzdHJpZXMvZGVudGFsIj5EZW50YWw8L2E+PC9saT4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9pbmR1c3RyaWVzL2NvbnN1bWVyLXByb2R1Y3RzIj5Db25zdW1lciBQcm9kdWN0cyAzRCBQcm90b3R5cGluZzwvYT48L2xpPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iL2luZHVzdHJpZXMvZWR1Y2F0aW9uIj5FZHVjYXRpb24gM0QgUHJpbnRpbmc8L2E+PC9saT4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9pbmR1c3RyaWVzL21lZGljYWwiPk1lZGljYWwgRGV2aWNlIFByb3RvdHlwaW5nPC9hPjwvbGk+CiAgICAgICAgICAgIDxsaT48YSBocmVmPSIvaW5kdXN0cmllcy9kZWZlbnNlIj5EZWZlbnNlIDNEIFByaW50aW5nPC9hPjwvbGk+CiAgICAgICAgPC91bD4KCmQCBQ8WAh8BBZYGPGRpdiBjbGFzcz0iY2F0ZWdvcnkiPjxhIGhyZWY9Ii9jb3Jwb3JhdGUiPkNPUlBPUkFURTwvYT48L2Rpdj4NCiAgICAgICAgPHVsPg0KICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9jb3Jwb3JhdGUvYWJvdXQtdXMiPkFib3V0IFVzPC9hPjwvbGk+DQogICAgICAgICAgICA8bGk+PGEgaHJlZj0iL2NvcnBvcmF0ZS9pbnZlc3Rvci1yZWxhdGlvbnMiPkludmVzdG9yIFJlbGF0aW9uczwvYT48L2xpPg0KICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9jb3Jwb3JhdGUvbmV3c3Jvb20iPk5ld3Nyb29tPC9hPjwvbGk+DQogICAgICAgICAgICA8bGk+PGEgaHJlZj0iL2NvcnBvcmF0ZS9jYXJlZXJzIj5DYXJlZXJzPC9hPjwvbGk+DQogICAgICAgICAgICA8bGk+PGEgaHJlZj0iL2NvcnBvcmF0ZS9yZWFjaC1jb21wbGlhbmNlIj5SRUFDSCBDb21wbGlhbmNlPC9hPjwvbGk+DQogICAgICAgIDwvdWw+DQoNCjxkaXYgY2xhc3M9ImNhdGVnb3J5Ij5DT01QQU5ZIFdFQlNJVEVTPC9kaXY+DQogICAgICAgIDx1bD4NCiAgICAgICAgICAgIDxsaT48YSBocmVmPSJodHRwOi8vd3d3Lm1ha2VyYm90LmNvbS8iIHRhcmdldD0iX2JsYW5rIj5NYWtlckJvdDwvYT48L2xpPg0KCQkJPGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cucmVkZXllb25kZW1hbmQuY29tLyIgdGFyZ2V0PSJfYmxhbmsiPlJlZEV5ZTwvYT48L2xpPg0KCQkJPGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cuc29saWQtc2NhcGUuY29tLyIgdGFyZ2V0PSJfYmxhbmsiPlNvbGlkc2NhcGU8L2E+PC9saT4NCiAgICAgICAgICAgIA0KICAgICAgICA8L3VsPmQCBw8WAh8BBbgGPGRpdiBjbGFzcz0iY2F0ZWdvcnkiPjxhIGhyZWY9Ii9wYXJ0bmVycyI+UEFSVE5FUlM8L2E+PC9kaXY+CiAgICAgICAgPHVsPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cuc3RyYXRhc3lzLmNvbS9TaW5nbGUtU2lnbi1Pbi9Mb2dpbi5hc3B4Ij5GRE0gUmVzb3VyY2UgQ2VudGVyPC9hPjwvbGk+CiAgICAgICAgICAgIDxsaT48YSBocmVmPSJodHRwOi8vcGFydG5lcnpvbmUub2JqZXQuY29tLyI+UGFydG5lciBab25lPC9hPjwvbGk+CgoKICAgICAgICA8L3VsPgoKPGRpdiBjbGFzcz0iY2F0ZWdvcnkiPjxhIGhyZWY9Ii9jb250YWN0LXVzLyI+Q09OVEFDVCBVUzwvYT48L2Rpdj4KICAgICAgICA8dWw+CiAgICAgICAgICAgIDxsaT48YSBocmVmPSIvY29udGFjdC11cy9jb250YWN0LXN0cmF0YXN5cyI+Q29udGFjdCBTdHJhdGFzeXM8L2E+PC9saT4KCQkJPGxpPjxhIGhyZWY9Ii9jb250YWN0LXVzL2xvY2F0aW9ucyI+TG9jYXRpb25zPC9hPjwvbGk+CgkJCTxsaT48YSBocmVmPSIvY29udGFjdC11cy9maW5kLWEtcmVzZWxsZXIiPkZpbmQgYSBSZXNlbGxlcjwvYT48L2xpPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iL2NvbnRhY3QtdXMvZ2V0LWEtc2FtcGxlLXBhcnQiPkdldCBhIFNhbXBsZSBQYXJ0PC9hPjwvbGk+CjxsaT48YSBocmVmPSIvY29udGFjdC11cy9jdXN0b21lci1mZWVkYmFjayI+Q3VzdG9tZXIgRmVlZGJhY2s8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9jdXN0b21lci1zdXBwb3J0L3JlY3ljbGluZy1jZW50ZXIiPlJlY3ljbGluZyBDZW50ZXI8L2E+PC9saT4KICAgICAgICAgICAgCiAgICAgICAgPC91bD4KCgpkAgkPFgIfAQXCBzxkaXYgY2xhc3M9ImNhdGVnb3J5Ij48YSBocmVmPSIvY29tbXVuaXR5Ij5DT01NVU5JVFk8L2E+PC9kaXY+Cjx1bD4KICAgIDxsaT48YSBocmVmPSJodHRwOi8vYmxvZy5zdHJhdGFzeXMuY29tIiB0YXJnZXQ9Il9ibGFuayI+QmxvZzwvYT48L2xpPgogICAgPGxpPjxhIGhyZWY9Ii9jb21tdW5pdHkvZ3VpZGVsaW5lcyI+R3VpZGVsaW5lczwvYT48L2xpPgoKPC91bD4KPGEgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9Imh0dHA6Ly9ibG9nLnN0cmF0YXN5cy5jb20iPjxpbWcgYWx0PSIiIHNyYz0iL1N0cmF0YXN5c0dsb2JhbC9JbWFnZXMvc3RyYXRhc3lzX2Jsb2cucG5nIiAvPjwvYT4KPGEgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9Imh0dHA6Ly93d3cuZmFjZWJvb2suY29tL3N0cmF0YXN5cyI+PGltZyBhbHQ9IiIgc3JjPSIvU3RyYXRhc3lzR2xvYmFsL0ltYWdlcy9mYWNlYm9vay5wbmciIC8+PC9hPgo8YSB0YXJnZXQ9Il9ibGFuayIgaHJlZj0iaHR0cDovL3BsdXMuZ29vZ2xlLmNvbS8xMDE2NTcwNTc2ODAwNjYwODg2OTgiPjxpbWcgYWx0PSIiIHNyYz0iL1N0cmF0YXN5c0dsb2JhbC9JbWFnZXMvZ29vZ2xlX3BsdXMucG5nIiAvPjwvYT4KPGJyIC8+CjxhIHRhcmdldD0iX2JsYW5rIiBocmVmPSJodHRwOi8vdHdpdHRlci5jb20vU3RyYXRhc3lzIj48aW1nIGFsdD0iIiBzcmM9Ii9TdHJhdGFzeXNHbG9iYWwvSW1hZ2VzL3R3aXR0ZXIucG5nIiAvPjwvYT4KPGEgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9Imh0dHA6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvNDE1NzI4Ij48aW1nIGFsdD0iIiBzcmM9Ii9TdHJhdGFzeXNHbG9iYWwvSW1hZ2VzL2xpbmtlZGluLnBuZyIgLz48L2E+CjxhIHRhcmdldD0iX2JsYW5rIiBocmVmPSJodHRwOi8vd3d3LnlvdXR1YmUuY29tL29iamV0Z2VvbWV0cmllcyI+PGltZyBhbHQ9IiIgc3JjPSIvU3RyYXRhc3lzR2xvYmFsL0ltYWdlcy95b3V0dWJlLnBuZyIgLz48L2E+ZAILDxYCHwEFigI8cD5TdHJhdGFzeXMgTHRkLiAmY29weTsgDQo8c2NyaXB0IGxhbmd1YWdlPSJKYXZhU2NyaXB0Ij4NCnZhciBkID0gbmV3IERhdGUoKTsNCnlyID0gZC5nZXRGdWxsWWVhcigpOw0KZG9jdW1lbnQud3JpdGUoeXIpOzwvc2NyaXB0Pjxub3NjcmlwdD4yMDE0PC9ub3NjcmlwdD4uIEFsbCByaWdodHMgcmVzZXJ2ZWQuIHwgPGEgaHJlZj0iL2xlZ2FsIj5MZWdhbDwvYT4gfCA8YSBocmVmPSIvbGVnYWwvcHJpdmFjeS1wb2xpY3kiPlByaXZhY3kgUG9saWN5PC9hPg0KPC9wPmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFEmhlYWRlcl8wJGJ0blNlYXJjaEXdGuRKeNb0NWj/dKymvF+07fKJ+8MsUKHgiSiHpAs7">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWDQLXn6q9AwKct8+sBAKiqOfBAQKUir3mDwKUirXmDwKUiq3mDwKUiuXmDwKVisXmDwKVir3mDwKVirXmDwKViq3mDwKViuXmDwKWisXmD2y3d5SELkrItu0VTBMse3KJ/QqmWc6dgnnQtzTdOkP2">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAA3EHPMITXA++oRnVIkv5C238xNTcJitndz7Lyw+3T02BC5t3Tapjm9RrHD2eA/z8P34fP5o+eM30MKGFrJgT9WvxYVveBhfQp98xE3szPw62dwbwN9MMLbvqRISiiZ9zCsgaF6wsMosmdWogwNTZUNxqqkU100hg7jHr1W4y3lol03RfBhea88r+dSjVG6wE7SXQUN/lFPVSfjQD3Ylh2VBgIHiJy7717Lrjq3DWt0OxwyJuo6J+p4FDWFjMZHg+I61b8X3OCYKHAtv6SmuHhpmYVdLHVvDRqli5K5BowRLgenj6/G0g8g2okG5oQwGnSI=">
     
     <div id="header">
         <div class="wrapper">
@@ -174,62 +186,54 @@
 
 <div class="mainnav">
     <a href="http://www.stratasys.com/" id="header_0_ctl00_lnkHome" class="logo"><img src="/StratasysGlobal/Images/stratasys_logo.png"></a>
-    <ul id="header_0_ctl00_ulMainNav" class="ulMainNav"><li><a href="http://www.stratasys.com/3D-Printers">3D Printers</a></li><li><a href="http://www.stratasys.com/materials">Materials</a></li><li><a href="http://www.stratasys.com/applications">Applications</a></li><li><a href="http://www.stratasys.com/industries">Industries</a></li><li><a href="http://www.stratasys.com/resources">Resources</a></li><li class="last"><a href="http://www.stratasys.com/customer-support">Customer Support</a></li></ul>
+    <ul id="header_0_ctl00_ulMainNav" class="ulMainNav"><li><a href="http://www.stratasys.com/3d-printers">3D Printers</a></li><li><a href="http://www.stratasys.com/materials">Materials</a></li><li><a href="http://www.stratasys.com/applications">Applications</a></li><li><a href="http://www.stratasys.com/industries">Industries</a></li><li><a href="http://www.stratasys.com/resources">Resources</a></li><li class="last"><a href="http://www.stratasys.com/customer-support">Customer Support</a></li></ul>
 </div>
 <div class="megamenus">
-    <ul id="header_0_ctl00_ulMegaMenus" class="ulMegaMenus"><li><style>
-.megamenus ul {
-background: url("http://www.stratasys.com/~/media/en/mmbg") no-repeat scroll left top transparent;
-}
-.megamenus #cta {
-padding: 0px 0 0 20px;
-margin: 30px 80px 0 5px;
-float: left;
-}
-
-</style>
-
-<div class="megawrapper">
+    <ul id="header_0_ctl00_ulMegaMenus" class="ulMegaMenus"><li><div class="megawrapper">
 <div id="cta">
-<p class="title"><a href="/contact-us/contact-stratasys">Contact Us</a></p>
-<p class="title"><a href="/contact-us/find-a-reseller">Find a Reseller</a></p>
-<p class="title"><a href="/contact-us/get-a-sample-part">Get a Sample Part</a></p>
+<p class="title"><a href="http://www.stratasys.com/contact-us/contact-stratasys">Contact Us</a></p>
+<p class="title"><a href="http://www.stratasys.com/contact-us/find-a-reseller">Find a Reseller</a></p>
+<p class="title"><a href="http://www.stratasys.com/contact-us/get-a-sample-part">Get a Sample Part</a></p>
 </div>
-	<div class="col1">
-		<p class="title idea"><a href="/3d-printers/idea-series">Idea Series</a></p>
-		<p class="idea"><a href="/3d-printers/idea-series/mojo">Mojo</a></p>
-                <p class="idea"><a href="/3d-printers/idea-series/uprint-se">uPrint SE</a></p>
-                <p class="idea"><a href="/3d-printers/idea-series/uprint-se-plus">uPrint SE Plus</a></p>	
-	</div>
-	<div class="col1">
-		<p class="title design"><a href="/3d-printers/design-series">Design Series</a></p>
-		<p class="subtitle design">Precision</p>
-<p class="design"><a href="/3d-printers/design-series/precision/objet24">Objet24</a></p>
-<p class="design"><a href="/3d-printers/design-series/precision/objet30-pro">Objet30 Pro</a></p>
-<p class="design"><a href="/3d-printers/design-series/precision/objet-eden260v">Objet Eden260V</a></p>
-<p class="design"><a href="/3d-printers/design-series/precision/objet-eden350v">Objet Eden350V</a></p>
-<p class="design"><a href="/3d-printers/design-series/precision/objet-eden500v">Objet Eden500V</a></p>
-<p class="design"><a href="/3d-printers/design-series/precision/objet260-connex">Objet260 Connex</a></p>
-<p class="design"><a href="/3d-printers/design-series/precision/objet-connex350">Objet350 Connex</a></p>
-<p class="design"><a href="/3d-printers/design-series/precision/objet-connex500">Objet500 Connex</a></p>
-<p class="design"><a href="/3d-printers/design-series/precision/objet1000">Objet1000</a></p>		
-	</div>
-	<div class="col1">
-		<p class="title design"><br></p>
-		<p class="subtitle">Performance</p>
-		<p class="design"><a href="/3d-printers/design-series/performance/dimension-1200es">Dimension 1200es</a></p>
-		<p class="design"><a href="/3d-printers/design-series/performance/dimension-elite">Dimension Elite</a></p>
-	</div>	
-	<div class="col1">
-		<p class="title production"><a href="/3d-printers/production-series">Production Series</a></p>
-<p class="production"><a href="/3d-printers/production-series/fortus-250mc">Fortus 250mc</a></p>
-<p class="production"><a href="/3d-printers/production-series/fortus-360mc">Fortus 360mc</a></p>
-<p class="production"><a href="/3d-printers/production-series/fortus-400mc">Fortus 400mc</a></p>
-<p class="production"><a href="/3d-printers/production-series/fortus-900mc">Fortus 900mc</a></p>		<br><br>
-		<p class="title">Technology</p>
-		<p><a href="/3d-printers/technology/fdm-technology">FDM Technology</a></p>
-		<p><a href="/3d-printers/technology/polyjet-technology">PolyJet Technology</a></p>
-	</div>
+<div class="col1">
+<p class="title idea"><a href="http://www.stratasys.com/3d-printers/idea-series">Idea Series</a></p>
+<p class="idea"><a href="http://www.stratasys.com/3d-printers/idea-series/mojo">Mojo</a></p>
+<p class="idea"><a href="http://www.stratasys.com/3d-printers/idea-series/uprint-se">uPrint SE</a></p>
+<p class="idea"><a href="http://www.stratasys.com/3d-printers/idea-series/uprint-se-plus">uPrint SE Plus</a></p>
+</div>
+<div class="col1">
+<p class="title design"><a href="http://www.stratasys.com/3d-printers/design-series">Design Series</a></p>
+<p class="subtitle design">Precision</p>
+<p class="design"><a href="http://www.stratasys.com/3d-printers/design-series/precision/objet24">Objet24</a></p>
+<p class="design"><a href="http://www.stratasys.com/3d-printers/design-series/precision/objet30-pro">Objet30 Pro</a></p>
+<p class="design"><a href="http://www.stratasys.com/3d-printers/design-series/precision/objet-eden260v">Objet Eden260V</a></p>
+<p class="design"><a href="http://www.stratasys.com/3d-printers/design-series/precision/objet-eden350v">Objet Eden350V</a></p>
+<p class="design"><a href="http://www.stratasys.com/3d-printers/design-series/precision/objet-eden500v">Objet Eden500V</a></p>
+<p class="design"><a href="http://www.stratasys.com/3d-printers/design-series/precision/objet260-connex">Objet260 Connex</a></p>
+<p class="design"><a href="http://www.stratasys.com/3d-printers/design-series/precision/objet-connex350">Objet350 Connex</a></p>
+<p class="design"><a href="http://www.stratasys.com/3d-printers/design-series/precision/objet-connex500">Objet500 Connex</a></p>
+<p class="design"><a href="http://www.stratasys.com/3d-printers/design-series/precision/objet500-connex3">Objet500 Connex3</a></p>
+<p class="design"><a href="http://www.stratasys.com/3d-printers/design-series/precision/objet1000">Objet1000</a></p>
+</div>
+<div class="col1">
+<p class="title design">&nbsp;</p>
+<p class="subtitle">Performance</p>
+<p class="design"><a href="http://www.stratasys.com/3d-printers/design-series/performance/dimension-1200es">Dimension 1200es</a></p>
+<p class="design"><a href="http://www.stratasys.com/3d-printers/design-series/performance/dimension-elite">Dimension Elite</a></p>
+</div>
+<div class="col1">
+<p class="title production"><a href="http://www.stratasys.com/3d-printers/production-series">Production Series</a></p>
+<p class="production"><a href="http://www.stratasys.com/3d-printers/production-series/fortus-250mc">Fortus 250mc</a></p>
+<p class="production"><a href="http://www.stratasys.com/3d-printers/production-series/fortus-360mc">Fortus 360mc</a></p>
+<p class="production"><a href="http://www.stratasys.com/3d-printers/production-series/fortus-400mc">Fortus 400mc</a></p>
+<p class="production"><a href="http://www.stratasys.com/3d-printers/production-series/fortus-900mc">Fortus 900mc</a></p>
+<br>
+<p class="title"><a href="http://www.stratasys.com/3d-printers/finishing-touch-smoothing-station">Finishing Touch Smoothing Station</a></p>
+<br>
+<p class="title">Technology</p>
+<p><a href="http://www.stratasys.com/3d-printers/technology/fdm-technology">FDM Technology</a></p>
+<p><a href="http://www.stratasys.com/3d-printers/technology/polyjet-technology">PolyJet Technology</a></p>
+</div>
 </div></li><li><style>
     .megamenus #cta2 {
     PADDING-BOTTOM: 0px; MARGIN: 30px 153px 0px 5px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; FLOAT: left; PADDING-TOP: 0px
@@ -468,7 +472,19 @@ margin-bottom: 10px;
 
         </div>
     </div>
+	
+    <div id="main">
+    
+    <div id="breadcrumb">
+        <div class="wrapper">
+            
 
+<div class="breadcrumb">
+    <ul id="breadcrumb_0_ulBreadcrumb"><li class="breadcrumbhomepadding"><a href="http://www.stratasys.com/"><img src="/StratasysGlobal/Images/breadcrumb_home.png"></a></li><li><img src="/StratasysGlobal/Images/breadcrumb_arrow.png" class="arrow"></li><li class="breadcrumbpadding"><a href="http://www.stratasys.com/legal">Legal</a></li><li><img src="/StratasysGlobal/Images/breadcrumb_arrow.png" class="arrow"></li><li class="breadcrumbpadding">Privacy Policy</li></ul>
+</div>
+        </div>
+    </div>
+    
     <div id="billboard">
         <div class="wrapper">
             
@@ -477,16 +493,6 @@ margin-bottom: 10px;
     <img width="340" height="240" alt="Closeup shows ornate features of a clear 3D printed building model" src="http://www.stratasys.com/~/media/en/Legal/model_clear_arc_de_triumphe.ashx"><br>
 <h1>Legal</h1>
 <h2>Important information for customers and visitors to this site</h2>
-</div>
-        </div>
-    </div>
-
-    <div id="breadcrumb">
-        <div class="wrapper">
-            
-
-<div class="breadcrumb">
-    <ul id="breadcrumb_0_ulBreadcrumb"><li class="breadcrumbhomepadding"><a href="http://www.stratasys.com/"><img src="/StratasysGlobal/Images/breadcrumb_home.png"></a></li><li><img src="/StratasysGlobal/Images/breadcrumb_arrow.png" class="arrow"></li><li class="breadcrumbpadding"><a href="http://www.stratasys.com/legal">Legal</a></li><li><img src="/StratasysGlobal/Images/breadcrumb_arrow.png" class="arrow"></li><li class="breadcrumbpadding">Privacy Policy</li></ul>
 </div>
         </div>
     </div>
@@ -543,6 +549,8 @@ margin-bottom: 10px;
         </div>
     </div>
 
+	</div> <!-- end main -->
+
     <div class="clear"></div>
 
     <div id="footer">
@@ -588,7 +596,7 @@ margin-bottom: 10px;
             <li><a href="/corporate/reach-compliance">REACH Compliance</a></li>
         </ul>
 
-<div class="category" style="color: #E87722;">COMPANY WEBSITES</div>
+<div class="category">COMPANY WEBSITES</div>
         <ul>
             <li><a href="http://www.makerbot.com/" target="_blank">MakerBot</a></li>
 			<li><a href="http://www.redeyeondemand.com/" target="_blank">RedEye</a></li>
@@ -637,8 +645,13 @@ margin-bottom: 10px;
 </div>
 <div class="clear"></div>
 <div class="footerutilitynav">
-    <p>Stratasys Ltd. © 2013. All rights reserved. | <a href="/legal">Legal</a> | <a href="/legal/privacy-policy">Privacy Policy</a>
-</p></div>
+    <p>Stratasys Ltd. © 
+<script language="JavaScript">
+var d = new Date();
+yr = d.getFullYear();
+document.write(yr);</script>2020<noscript>2014</noscript>. All rights reserved. | <a href="/legal">Legal</a> | <a href="/legal/privacy-policy">Privacy Policy</a>
+</p>
+</div>
         </div>
     </div>
     
@@ -655,26 +668,6 @@ margin-bottom: 10px;
     <!-- body closing tracking code area begin -->
     
     <!-- body closing tracking code area end -->
-    
-    <div style="display:none">
-    <!-- Google Code for Stratasys Site Visitors -->
-    <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
-    <script type="text/javascript">
-    /* <![CDATA[ */
-    var google_conversion_id = 1072386419;
-    var google_conversion_label = "Ib20CMG8jQIQ86Kt_wM";
-    var google_custom_params = window.google_tag_params;
-    var google_remarketing_only = true;
-    /* ]]> */
-    </script>
-    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-    </script>
-    <noscript>
-    <div style="display:inline;">
-    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072386419/?value=0&amp;label=Ib20CMG8jQIQ86Kt_wM&amp;guid=ON&amp;script=0"/>
-    </div>
-    </noscript>
-    </div>
 
     <!-- ClickTale Bottom part -->
     <div id="ClickTaleDiv" style="display: none;"></div>
