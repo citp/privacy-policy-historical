@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thegatheringireland.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126020817id_/http%3A//www.thegatheringireland.com/Information/Cookies-and-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegatheringireland.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327221757id_/http%3A//www.thegatheringireland.com/Privacy-Statement.aspx) for the most accurate reproduction.*
 
 # The Gathering - The Gathering Ireland 2013
 
-This Privacy Policy refers to the website, www.thegatheringireland.com (the "Website"). The Website is operated by The Gathering Project 2013 Limited ("we" or "the Company"). The Gathering Project 2013 Limited is a private limited company, incorporated under the laws of Ireland under registered number 21207, and having its registered office at 88 – 95 Amiens Street, Dublin 1 and operating as a special purpose vehicle as an affiliate company of Fáilte Ireland. This Privacy Policy (together with our Terms of Use and any other documents referred to in such terms of use) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully. Entering into this Website indicates that the user (either "user" or "you" in this document) has reviewed this Privacy Policy and has agreed to be bound by them as well as our Terms of Use. If you do not agree to these terms you must leave the Website immediately.
+This Privacy Statement refers to the website, www.thegatheringireland.com (the "Website"). The Website is operated by The Gathering Project 2013 Limited ("we" or "the Company"). The Gathering Project 2013 Limited is a private limited company, incorporated under the laws of Ireland under registered number 21207, and having its registered office at 88 – 95 Amiens Street, Dublin 1 and operating as a special purpose vehicle as an affiliate company of Fáilte Ireland. This Privacy Statement (together with our Terms of Use and any other documents referred to in such terms of use) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully. Entering into this Website indicates that the user (either "user" or "you" in this document) has reviewed this Privacy Policy and has agreed to be bound by them as well as our Terms of Use. If you do not agree to these terms you must leave the Website immediately.
 
 **What information do we collect?**  
 We fully respect your right to privacy in relation to your interactions with the Website and endeavour to guarantee to be transparent in our dealings with you as to what information we will collect and how we will use your information. Also, we only collect and use individual user details where we have legitimate business reasons, and where we are legally entitled to do so. Information in relation to personal data collected by Irish entities is available on www.dataprivacy.ie, the website of the Irish Data Protection Commissioner.
@@ -69,35 +69,12 @@ __utma,
 __utmz,  
 demographics,  
 VISITOR_INFO1_LIVE |  Youtube may set any of the listed cookies when the Website uses youtube embedded videos. They do not store any personal information. |  <http://www.youtube.com/t/privacy>  
-Google Maps |  SID,  
-SAPISID,  
-APISID,  
-SSID,  
-HSID,  
-NID,  
-PREF |  Google set a number of cookies on any page that includes a Google Map. While this site has no control over the cookies set by Google, they appear to include a mixture of pieces of information to measure the number and behaviour of Google Maps users. |  [Google Privacy policy](http://www.google.com/intl/en_uk/policies/privacy/ "Google privacy policy")  
 Twitter |  original_referer,  
 _twitter_sess |  Twitter set a number of cookies when the user chooses to use any of the Twitter functionality with this website for example to sync or invite friends through ones twitter account. Twitter collect information about how visitors use twitter in context of the website. |  <http://twitter.com/privacy>  
-Disqus |  disqus_unique  
-__qca  
-__utma  
-__utmb  
-__utmc  
-__utmz  
-quantserve.com mc  
-scorecardresearch.com  
-UID  
-scorecardresearch.com  
-UIDR  
-media.cdn.disqus.com  
-testCookie |  The Website uses the Disqus commenting system on some of the pages to let you leave comments, and engage in discussions around the subjects on the Website. The cookies set by Disqus enable login functionality. |  [Disqus Privacy Policy](http://docs.disqus.com/help/30/ "Disqus privacy policy")  
   
 By using the Website you are agreeing to the use of cookies as described.
 
 The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. You can also disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. For more information about cookies and managing them, including how to turn them off, please visit www.cookiecentral.com. However, because cookies allow you to take advantage of some of the Website's essential features, we recommend you leave them turned on.
-
-• Registration Process  
-To register as a user of services we need to collect information such as, at a minimum, an email address and a password. We also ask some further questions (such as county, age, gender and interests), so we can gain a clearer understanding of what you are interested in, in order to personalise the information we give you. (You can update your personal information held via the Website at any time, and change your stated interests and whether or not you wish to receive correspondence from us. You may unsubscribe from the newsletter and other updates by emailing info@gatheringireland.com. We may ask different questions for different services, including competitions. We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
 
 • Mobile Devices  
 Applications developed in connection with the Website for mobile devices will operate and capture information as set out above. Applications developed by us but deployed on other platforms such as social media channels may provide feedback to us on activity and usage specific to a user.  
@@ -109,14 +86,14 @@ Applications developed in connection with the Website for mobile devices will op
 
 We collect different types of information about our users for the following reasons:
 
-  1. To personalise the way our content is presented to you and to ensure that content from our Website is presented in the most effective manner for you and for your computer.
-  2. To help us to monitor and improve the services we offer, including this Website. As part of this, we may use and disclose information in aggregate (so that no individuals are identified).
-  3. To carry out any legal obligations arising from your interaction with the Website.
-  4. To allow you to participate in interactive features of our service, when you choose to do so.
+  * To personalise the way our content is presented to you and to ensure that content from our Website is presented in the most effective manner for you and for your computer.
+  * To help us to monitor and improve the services we offer, including this Website. As part of this, we may use and disclose information in aggregate (so that no individuals are identified).
+  * To carry out any legal obligations arising from your interaction with the Website.
+  * To allow you to participate in interactive features of our service, when you choose to do so.
 
 
 
-We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these. By accepting this Privacy Policy, you to agree to be contacted by any such third parties.
+We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these. By accepting this Privacy Statement, you to agree to be contacted by any such third parties.
 
 The data that we collect from you may be transferred to, and stored Fáilte Ireland and / or Tourism Ireland. It may also be processed by staff of Fáilte Ireland and / or Tourism Ireland. By submitting your personal data, you agree to this transfer, storing or processing of your data by Fáilte Ireland and / or Tourism Ireland.
 
@@ -149,15 +126,15 @@ We may also use service providers to help us run the Website or services availab
 
 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (EEA). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+All information you provide to us is stored on our secure servers. Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-**Changes to the Privacy Policy**
+**Changes to the Privacy Statement**
 
-This Privacy Policy may be updated from time to time, so you may wish to check it each time you submit personal information to the website. The date of the most recent revisions will appear on this page. If you do not agree to these changes, please do not continue to use this Website to submit personal information. If material changes are made to the Privacy Policy, we will notify you by placing a prominent notice on the Website.
+This Privacy Statement may be updated from time to time, so you may wish to check it each time you submit personal information to the website. The date of the most recent revisions will appear on this page. If you do not agree to these changes, please do not continue to use this Website to submit personal information. If material changes are made to the Privacy Statement, we will notify you by placing a prominent notice on the Website.
 
 **Consent**
 
-By accessing services offered by us, you consent to the collection and use of this information by us as outlined in this Privacy Policy. By providing any personal information to us, you fully understand and clearly consent to such use and transfers as set out in this Privacy policy. Legal information and how to contact us The Data Controller for the Website and services provided through the Website is The Gathering Project 2013 Limited, 88-95 Amiens Street, Dublin 1. If you would like to obtain a copy of the personal data we hold on you, or have any queries regarding the Company's use of personal data please contact [info@thegatheringireland.com](https://web.archive.org/Information.aspx "contact The Gathering Ireland 2013").
+By accessing services offered by us, you consent to the collection and use of this information by us as outlined in this Privacy Statement. By providing any personal information to us, you fully understand and clearly consent to such use and transfers as set out in this Privacy Statement. Legal information and how to contact us The Data Controller for the Website and services provided through the Website is The Gathering Project 2013 Limited, 88-95 Amiens Street, Dublin 1. If you would like to obtain a copy of the personal data we hold on you, or have any queries regarding the Company's use of personal data please contact [CustomerSupport@failteireland.ie](mailto:CustomerSupport@failteireland.ie?subject=Query%20from%20The%20Gathering%20website).
 
 **User Comments - Terms of Use**
 
@@ -165,7 +142,7 @@ Outlined below are the terms of use associated with the comment facilities on Th
 
 User contributions and/or comments do not, unless specifically stated, represent the views of The Gathering Ireland. 
 
-Rules for [use of/contributing to] the comments section:
+Rules for use of/contributing to the comments section:
 
   * This is a public arena; remember that everyone with access to the Internet can read what you post. You may express your opinions but remember that you are legally responsible for what you contribute. Be aware that a wide variety of people may view your comments which must be respectful, comply with the Terms & Conditions and these Rules.
   * You must not [submit/provide] content to TheGatheringIreland.com (which for the purposes of these Rules is defined to include any text of whatever nature including any comments or submissions posted by you, [photographs,/graphics,/video/ or audio) ("content")) that:
