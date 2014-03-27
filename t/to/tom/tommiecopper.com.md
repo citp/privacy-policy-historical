@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tommiecopper.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005095230id_/http%3A//www.tommiecopper.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tommiecopper.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327093008id_/http%3A//www.tommiecopper.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tommie Copper
 
@@ -10,7 +10,7 @@ We may collect personal identification information from Users in a variety of wa
 
 **Non-personal identification information**
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users' means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include, but is not limited to, demographic information, browser information, type of computer and technical information about Users' means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
 **Web browser cookies**
 
@@ -21,16 +21,16 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 Tommie Copper collects and uses Users personal information for the following purposes:
 
   * _\- To improve our Site_  
-We continually strive to improve our website offerings based on the information and feedback we receive from you. 
+We continually strive to improve our website offerings based on the information and feedback we receive from you.
 
   * _\- To improve customer service_  
-Your information helps us to more effectively respond to your customer service requests and support needs. 
+Your information helps us to more effectively respond to your customer service requests and support needs.
 
   * _\- To process transactions_  
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service. 
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
 
   * _\- To send periodic emails_  
-The email address a User provides for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If a User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+The email address a User provides for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If a User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
 
