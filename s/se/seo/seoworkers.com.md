@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoworkers.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816214915id_/http%3A//www.seoworkers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoworkers.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327132319id_/http%3A//www.seoworkers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # SEO Workers Web Site Privacy Policy & Important Notices
 
@@ -22,7 +22,7 @@ The following links will help you navigate to a specific section:
   * Personal Information;
   * Children’s Information;
   * Opt Out Policy;
-  * Web Site Security Notice;;
+  * Web Site Security Notice;
   * Linking Policy and Disclaimer of Endorsement;
   * Warranty and Disclaimer;
   * Reproduction of Articles and Tutorials;
@@ -180,7 +180,7 @@ On rare occasions, it may be determined that a communication from a child under 
 
 Should such an occasion occur, SEO Workers will obtain the necessary consent from the child’s parent.
 
-Finally, we provide many on-line tools and services in support of SEO Workers’s mission.
+Finally, we provide many on-line tools and services in support of SEO Workers’ mission.
 
 A child under 13 years old may inadvertently provide personal information to one of these services. If this should happen, the information about the child will be deleted immediately upon discovery.
 
