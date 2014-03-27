@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chinaexpoonline.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202031412id_/http%3A//www.chinaexpoonline.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinaexpoonline.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327055325id_/http%3A//www.chinaexpoonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Overview
+# Privacy Policy Terms For China Expo
 
 This Privacy Policy covers the IMC Business Global Plc treatment of personal information that is recorded when you submit your business for inclusion in our database.
 
