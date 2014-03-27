@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the apnic.net privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222052215id_/http%3A//www.apnic.net/apnic-info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnic.net privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327025154id_/http%3A//www.apnic.net/apnic-info/privacy) for the most accurate reproduction.*
 
-# APNIC - Privacy
+# APNIC - APNIC Privacy Statement
 
 ## How your personal information is collected and used
 
 APNIC collects personal information for the following main purposes:
 
-  * to support Internet resource requests
-  * for account and billing purposes
-  * to administer meetings, training events, and other communication activities (such as mailing lists and the MyAPNIC and ICONS websites)
-  * to monitor network performance
-  * for recruitment
+  * To support Internet resource requests
+  * For account and billing purposes
+  * To administer conferences, meetings, training events, and other communication activities (such as mailing lists)
+  * To monitor network performance
+  * For recruitment
 
 
 
@@ -22,12 +22,12 @@ Each of these purposes is described below.
 
 Internet addresses are public resources. To ensure that these resources are managed responsibly, the APNIC Secretariat must collect a range of information including:
 
-  * documentation of network infrastructure, plans, and customer details, which demonstrate the need for addresses requested; and
-  * personal information of people authorized by an organization to request resources and maintain database entries.
+  * Documentation of network infrastructure, plans, and customer details, which demonstrate the need for addresses requested; and
+  * Personal information and proof of identity for people authorized by an organization to request resources and maintain database entries.
 
 
 
-The APNIC Secretariat collects such information from text forms that are submitted by email; web forms, on either the main APNIC web site or the MyAPNIC web site; from general correspondence by phone, email, post, and fax; and from face-to-face meetings.
+The APNIC Secretariat collects such information via web forms, on either the main APNIC web site or the MyAPNIC web site; from general correspondence by phone, email, post, and fax; and from face-to-face meetings.
 
 The APNIC Secretariat uses this information to evaluate resource requests and administer accounts. It also may store some or all of this information for archival purposes, for the purposes of validating or auditing resource allocations in future.
 
@@ -41,23 +41,23 @@ Also, APNIC policies allow for resource holders to choose whether their assignme
 
 2.2. **Data used for account and billing purposes**
 
-The APNIC Secretariat collects organizational and personal information for billing and account administration purposes.
+The APNIC Secretariat collects organizational and personal information, including banking details, for billing and account administration purposes.
 
-All APNIC members are required to provide an email address that will be included on a mailing list for membership-related announcements. This does not need to be a personal email address.
+All APNIC Members are required to provide an email address that will be included on a mailing list for membership-related announcements. This does not need to be a personal email address.
 
-The APNIC Secretariat does publish the names and URLs of APNIC member organizations on the APNIC website, but does not publish personal details relating to those members.
+The APNIC Secretariat does publish the names and URLs of APNIC Member organizations on the APNIC website, but does not publish personal details relating to those Members.
 
 **Top**
 
-2.3. **Data used for meetings, training, and communication activities (such as mailing lists and the MyAPNIC and ICONS websites)**
+2.3. **Data used for conferences, meetings, training, and communication activities**
 
-In order to administer meetings, training sessions, and public discussion lists, it is necessary for the APNIC Secretariat to use registration forms and voluntary subscription procedures to collect the required information.
+In order to administer conferences, meetings, training sessions, and public discussion lists, it is necessary for the APNIC Secretariat to use registration forms and voluntary subscription procedures to collect the required information.
 
-The information gathered by registration forms is used to help plan and conduct public meetings and training sessions. The APNIC Secretariat archives registration details to help plan future events and develop services.
+The information gathered by registration forms is used to help plan and conduct public conferences, meetings, and training sessions. The APNIC Secretariat archives registration details to help plan future events and develop services.
 
-The information gathered by subscription procedures is used only in the mailing lists you specify. The APNIC Secretariat provides simple online tools to allow you to manage your own subscription status on mailing lists.
+The information gathered by subscription procedures is used only in the mailing lists you specify and may be visible to other list members. The APNIC Secretariat provides simple online tools to allow you to manage your own subscription status on mailing lists.
 
-Certain events such as APNIC meetings require photography and videography and such media may be used in APNIC publications or on the APNIC website. APNIC takes all care to inform event attendees that photography and videography make take place.
+Certain events such as APNIC Conferences require photography and videography and such media may be used in APNIC publications, on the APNIC website, or on social media platforms. APNIC takes all care to inform event attendees that photography and videography make take place.
 
 **Top**
 
@@ -69,34 +69,27 @@ No attempt is made to personally identify people who browse these web sites, or 
 
 In cases where APNIC's online services are abused or attacked, the APNIC Secretariat may use the logged information to investigate the incidents or to deny further access to those responsible.
 
-APNIC does use "cookies". A cookie is a small file which asks permission to be placed on your computer's hard drive. If you agree, the file is added and the cookie helps analyse Web traffic or assists with the provision of services.
+APNIC does use "cookies". A cookie is a small file that asks permission to be placed on your computer's hard drive. If you agree, the file is added and the cookie helps analyse Web traffic or assist with the provision of services.
 
-You can choose to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies if you prefer. If you set your browser to warn you before accepting cookies, you will receive a warning message with each cookie. If you set your browser to reject cookies you may not be able to use some services on this Site.
+You can choose to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies if you prefer. If you set your browser to warn you before accepting cookies, you will receive a warning message with each cookie. If you set your browser to reject cookies you may not be able to use some APNIC services.
 
 **Top**
 
 2.5. **Data used for recruitment**
 
-APNIC will collect information related to your recruitment including your CV, phone calls, emails, letters, and referees. This information may be collected from you either directly or through a recruitment agency that you have authorized.
+If you provide personal information for the purposes of recruitment, the APNIC Secretariat will only use your information for that purpose, and your information will be stored securely. You can update your personal information, or gain access to it at a mutually convenient time, by sending a written request to [hr@apnic.net](mailto:hr@apnic.net).  
 
-If you provide personal information for the purposes of recruitment, the APNIC Secretariat will only use your information for that purpose.
-
-Your information will be kept on file for one year after which it will be securely destroyed. During that time, you can update your personal information, or gain access to it at a mutually convenient time, by sending a written request to [employment@apnic.net](mailto:employment@apnic.net).
 
 **Top**
 
-## Data sharing and transfer
+2.6. **Disclosure required by law or by enforcement bodies**
 
-The APNIC Secretariat may need to share information with other Internet related organizations such as ICANN and IANA.  The information shared is limited to that which is required for the respective purpose and is subject to those other organizations providing equivalent levels of security and protection.
+APNIC may also disclose personal information about you if such disclosure is:
 
-Only Internet operational and troubleshooting applications may be downloaded from the APNIC Whois Database.  Only information that is normally publicly available is transferred in these downloads.  
+  * Required or authorized by law, or by a court of tribunal order; or
+  * Reasonably necessary for one or more enforcement activities conducted by, or on behalf of, an enforcement body; or
+  * Specifically permitted under the circumstances described in the Privacy Act 1988.
 
 
-The APNIC Secretariat does not share personal information which is collected from event registration forms, except as necessary for the conduct of the event in question. The APNIC Secretariat may publish lists of meeting attendees on a website, as part of its commitment to open and transparent policy development but only the name of the attendee and their organization is listed.  
 
-
-The APNIC Secretariat does not share any mailing list subscription details, although it may on occasion forward external messages to a particular mailing list if it is relevant and appropriate for that list. The APNIC Secretariat does, however, provide publicly searchable archives of all public mailing lists, as this is necessary for the open and transparent policy development process.
-
-The APNIC Secretariat does not share personal information that you have provided in relation to recruitment unless you specifically consent to this.
-
-**Top**
+ **Top**
