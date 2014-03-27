@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-calculator.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811105908id_/http%3A//www.online-calculator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-calculator.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327091714id_/http%3A//www.online-calculator.com/privacy) for the most accurate reproduction.*
 
 # Online Calculator Privacy Policy - Online Calculator
 
