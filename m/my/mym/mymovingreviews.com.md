@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the mymovingreviews.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821212607id_/http%3A//www.mymovingreviews.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymovingreviews.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327222539id_/http%3A//www.mymovingreviews.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - MyMovingReviews
 
 Effective date: 6/28/2013
+
+[](http://privacy.truste.com/privacy-seal/World-Media-Group,-LLC/validation?rid=4a1763d4-596e-4422-ac6e-47fe5dd9e68b "TRUSTe online privacy certification")
 
 The bottom line is that MyMovingReviews and the My Move app, owned and operated by World Media Group LLC, will NOT release your personal information without your consent when you write a moving review. We will use the information you submit in the quick moving quote form, the free moving calculator form or the cost calculator form **and provide it to professional moving companies** that will contact you to provide you with your moving estimate and moving cost calculation on our web site www.mymovingreviews.com and in our mobile apps. World Media Group LLC is the owner of the My Move app.
 
