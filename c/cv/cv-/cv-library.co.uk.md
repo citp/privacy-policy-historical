@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cv-library.co.uk privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808224805id_/http%3A//www.cv-library.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cv-library.co.uk privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327221850id_/http%3A//www.cv-library.co.uk/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - UK jobs, Careers, Recruitment
+# Privacy Policy - UK jobs, Careers, Recruitment - CV-Library
 
 CV-Library endeavours to ensure that the information that you submit to us remains private, and that it is used only for the purposes described below. We aim to provide a safe and secure experience for all of our users. We make every effort to comply with our obligations under the 1998 Data Protection Act. Additionally, we understand the importance of maintaining the confidentiality of your CV and other information stored about you while using the site.
 
