@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the djod.co.uk privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112024927id_/http%3A//www.djod.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djod.co.uk privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327053811id_/http%3A//www.djod.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
