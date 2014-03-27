@@ -1,9 +1,8 @@
-<!--The following is the downloaded HTML source of the cityofchicago.org privacy policy that was archived on 2013-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131016005455id_/http%3A//www.cityofchicago.org/city/en/general/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cityofchicago.org privacy policy that was archived on 2014-03-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140327062257id_/http%3A//www.cityofchicago.org/city/en/general/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" class="linux chrome chrome69 webkit webkit5"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <meta name="description" content=""> 
         <meta name="keywords" content=""> 
         <meta name="google-site-verification" content="IkSsM0IAGpvE2RejHQrIlbmss6Ws-_6zR4x4ZfTptaM">
@@ -33,10 +32,6 @@
         <link rel="stylesheet" type="text/css" media="screen" href="/etc/designs/city/css/screen.css">
         <link rel="stylesheet" type="text/css" media="screen" href="/etc/designs/city/css/superfish.css">
         <link rel="stylesheet" type="text/css" media="screen" href="/etc/designs/city/css/prettyPhoto.css">
-
-    <!-- Style sheet for changed hyperlinks color and new column backgrounds -->
-        <link rel="stylesheet" type="text/css" media="screen" href="/etc/designs/city/css/IE-only.css">
-
         <!--[if gte IE 7]>
         <link rel="stylesheet" type="text/css" media="screen" href="/etc/designs/city/css/cssshadows.css" />
         <![endif]-->
@@ -97,32 +92,43 @@
                     default_height: 385
                 });
                 $(".page-link2").click(function() {
-                    var vc_cmpHolder = $(this).closest(".youtubeparsys");
+                    var vc_cmpHolder = $(this).closest(".youtubeparsys");                   
                     var vc_visibleVideo = vc_cmpHolder.find(".visibleVideoGal");
                     var currentVideoGal = vc_visibleVideo.attr("class");
                     var currentVideoGalId = parseInt(currentVideoGal.substr(currentVideoGal.indexOf('-')+1));                   
                     var nextGal = ".videoGal-"+(currentVideoGalId+1);
 
                     var directionOut = "left";
-                    var directionIn = "right"
-                    if($(this).hasClass("prev")){
+                    var directionIn = "right";                    
+                    if($(this).hasClass("prev")){ 
                         var directionOut = "right";
                         var directionIn = "left";
                         var nextGal = ".videoGal-"+(currentVideoGalId-1);
-                    };
-
-                    if(!vc_cmpHolder.find(nextGal).prev().hasClass("videoGal")) {
+                    }
+ 
+                   //CQ55 Patch
+                    var clickedNext = ($(this).find("img").attr("src") == '/etc/designs/city/images/next-large.png');
+                    var clickedPrev = !clickedNext;
+                    var showNext = false;
+                    if(clickedNext && vc_cmpHolder.find( ".videoGal-" +(currentVideoGalId+2) ).html()||'' != '') {
+                        showNext = true;
+                    }
+                    //End 
+                     
+                    //if(!vc_cmpHolder.find(nextGal).prev().hasClass("videoGal")) {  //Removed
+                    if( !clickedNext && nextGal =='.videoGal-0' ) { //for this
                         vc_cmpHolder.find(".prev img").hide();
                     }
-                    else {
+                    else { 
                         vc_cmpHolder.find(".prev img").show();
                     }
-                    if(!vc_cmpHolder.find(nextGal).next().hasClass("videoGal")) {
+                    //if(!vc_cmpHolder.find(nextGal).next().hasClass("videoGal")) {   //Removed
+                    if( !clickedPrev && !showNext  ) {   //for this
                         vc_cmpHolder.find(".next img").hide();
                     }
-                    else {
+                    else { 
                         vc_cmpHolder.find(".next img").show();
-                    }
+                    } 
                     
                     vc_cmpHolder.find(".visibleVideoGal").hide("slide",{direction:directionOut},300, function() {
                         vc_cmpHolder.find(nextGal).show("slide",{direction:directionIn},400).removeClass('hiddenVideoGal').addClass('visibleVideoGal');
@@ -369,7 +375,7 @@ a.lan:hover, a.lan:active {
                                 <ul> 
                                                 <li><p class="header">Most Used Online Services</p><p></p></li>
                                                 <li><a href="/city/en/depts/bldgs/provdrs/stand_plan/svcs/e-permits.html" title="Apply for Building E-Permit">Apply for Building E-Permit</a></li>
-                                                <li><a href="/city/en/depts/bacp/provdrs/bus/svcs/apply_for_a_businesslicenseonline.html" title="Apply for Business Licenses">Apply for Business Licenses</a></li>
+                                                <li><a href="/city/en/depts/bacp/sbc/business_licensing.html" title="Apply for Business Licenses">Apply for Business Licenses</a></li> 
                                                 <li><a href="/city/en/depts/dhr/provdrs/emp/svcs/city_of_chicago_jobopportunities.html" title="Apply for Job Opportunities">Apply for Job Opportunities</a></li>
                                                 <li><a href="/city/en/depts/bldgs/provdrs/inspect/svcs/building_violationsonline.html" title="Look up Building Violations">Look up Building Violations</a></li>
                                                 <li><a href="/city/en/depts/rev/provdrs/citation/svcs/pay_parking_and_red-lightticketson-line.html" title="Pay Parking Tickets">Pay Parking Tickets</a></li>
@@ -546,14 +552,14 @@ a.lan:hover, a.lan:active {
                                     <li><a href="/city/en/depts/fss.html" title="Family &amp; Support Services">Family &amp; Support Services</a></li>
                                     <li><a href="/city/en/depts/fin.html" title="Finance">Finance</a></li>
                                     <li><a href="/city/en/depts/cfd.html" title="Fire">Fire</a></li>
-                                    <li><a href="/city/en/depts/dgs.html" title="Fleet and Facility Management">Fleet and Facility Management</a></li>
-                                    <li><a href="/city/en/depts/dcd.html" title="Housing &amp; Economic Development">Housing &amp; Economic Development</a></li>
+                                    <li><a href="/city/en/depts/dgs.html" title="Fleet and Facility Management">Fleet and Facility Management</a></li>                                 
                                     <li><a href="/city/en/depts/cchr.html" title="Human Relations">Human Relations</a></li>
                                     <li><a href="/city/en/depts/dhr.html" title="Human Resources">Human Resources</a></li>
                                     <li><a href="/city/en/depts/ipra.html" title="Independent Police Review Authority">Independent Police Review Authority</a></li>
                                     <li><a href="/city/en/depts/doit.html" title="Innovation &amp; Technology">Innovation &amp; Technology</a></li>
                                     <li><a href="/city/en/depts/igo.html" title="Inspector General's Office">Inspector General's Office</a></li>
                                     <li><a href="/city/en/depts/dol.html" title="Law">Law</a></li>
+                                    <li><a href="/city/en/depts/olig.html" title="Legislative Inspector General">Legislative Inspector General</a></li> 
                                 </ul>
                             </div> 
                         </div>
@@ -561,9 +567,10 @@ a.lan:hover, a.lan:active {
                             <div class="megacolumn-content">
                                 <ul>
                                     <li><p>&nbsp;</p></li>    
-                    <li><a href="/city/en/depts/olig.html" title="Legislative Inspector General">Legislative Inspector General</a></li>                          
-                                    <li><a href="/city/en/depts/lac.html" title="License Appeal Commission">License Appeal Commission</a></li>
+                                             
+                                    <li><a href="/city/en/depts/lac.html" title="License Appeal Commission">License Appeal Commission</a></li>                             
                                     <li><a href="/city/en/depts/mopd.html" title="People with Disabilities">People with Disabilities</a></li>
+                                    <li><a href="/city/en/depts/dcd.html" title="Planning &amp; Development">Planning &amp; Development</a></li>
                                     <li><a href="/city/en/depts/cpd.html" title="Police">Police</a></li>
                                     <li><a href="/city/en/depts/cpb.html" title="Police Board">Police Board</a></li>
                                     <li><a href="/city/en/depts/dps.html" title="Procurement Services">Procurement Services</a></li>
@@ -601,7 +608,7 @@ a.lan:hover, a.lan:active {
 </div>
 <!-- /top-navigation -->
 
-<!-- end header/navigation -->
+<!-- end header/navigation --> 
                 
 <!-- Banner -->
 
@@ -624,8 +631,8 @@ a.lan:hover, a.lan:active {
 
 <div id="content-container">
     <div id="left-column">
-    	<div class="left-module"> 
-    		
+        <div class="left-module"> 
+            
 
 
 <div class="dotted-white"></div>
@@ -642,7 +649,7 @@ a.lan:hover, a.lan:active {
 </ul>
 
 <div class="dotted-white"></div>
-    	</div>
+        </div>
     </div>
     
     <div id="two-column-top"></div>
@@ -743,7 +750,7 @@ a.lan:hover, a.lan:active {
      
     <!-- /footer-navigation -->
 
-    Copyright © 2010 - 2013 City of Chicago<br>
+    Copyright © 2010 - 2014 City of Chicago<br>
 
     <br>
     
