@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberwealth7.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026210312id_/http%3A//www.cyberwealth7.com/CW7TERMSOFSOFTWAREANDPRIVACYPOLICY.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberwealth7.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327051020id_/http%3A//cyberwealth7.com/files/CW7TERMSOFSOFTWAREANDPRIVACYPOLICY.pdf) for the most accurate reproduction.*
 
 # TERMS OF SOFTWARE USE
 
