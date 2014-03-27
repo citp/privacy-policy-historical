@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mauijim.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021015301id_/http%3A//www.mauijim.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mauijim.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327220847id_/http%3A//www.mauijim.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ The Maui Jim USA, Inc. website uses a common form of data called "cookies", whic
 
 ### Editing, Updating, Correcting, and Deleting Information —"Opt-Out"
 
-If you would like more information on the choices you have regarding the various levels of confidentiality on mauijim.com in regard to your personal information, [please click here.](http://www.mauijim.com/webapp/wcs/stores/servlet/LogonForm?langId=-1&storeId=10001&catalogId=11601)
+If you would like more information on the choices you have regarding the various levels of confidentiality on mauijim.com in regard to your personal information, please click here.
 
 ### Your Information Is Kept Secure
 
