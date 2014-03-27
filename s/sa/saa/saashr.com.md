@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saashr.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206141414id_/http%3A//www.saashr.com/ta/shr2/inside.jsp%3Fpage%3DPrivacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saashr.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327064339id_/http%3A//www.saashr.com/ta/shr2/inside.jsp%3Fpage%3DPrivacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | SaaShr
 
@@ -96,7 +96,7 @@ SaaS _hr_ may update this privacy statement to reflect changes to its informatio
 
 If you have any questions or suggestions regarding our privacy policy, please contact us at: 
 
-[_info@SaaShr.com_](mailto:info@saashr.com)
+[_SaaShrMedia@Kronos.com_](mailto:SaaShrMedia@Kronos.com)
 
 or by writing to SaaS _hr_ , Re: Privacy Policy, 3040 Route 22 West, Suite 200, Branchburg, NJ 08876. 
 
