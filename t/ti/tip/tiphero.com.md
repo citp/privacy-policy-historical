@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiphero.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209053132id_/http%3A//tiphero.com/index.php%3F_ms%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiphero.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327175052id_/http%3A//www.tiphero.com/index.php%3F_ms%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
