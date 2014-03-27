@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starmakerstudios.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110072906id_/http%3A//www.starmakerstudios.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starmakerstudios.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327055525id_/http%3A//www.starmakerstudios.com/privacy) for the most accurate reproduction.*
 
 # StarMaker
 
