@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manchesterconfidential.co.uk privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021011225id_/http%3A//www.manchesterconfidential.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manchesterconfidential.co.uk privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327095910id_/http%3A//www.manchesterconfidential.co.uk/Privacy) for the most accurate reproduction.*
 
 # Privacy | Manchester Confidential
 
