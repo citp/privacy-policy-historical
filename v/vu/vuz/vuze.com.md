@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vuze.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102155213id_/http%3A//www.vuze.com/corp/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vuze.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327023334id_/http%3A//www.vuze.com/corp/privacy) for the most accurate reproduction.*
 
 # Vuze - Privacy
 
@@ -15,17 +15,17 @@ This Privacy Notice is incorporated into and is subject to the Vuze Platform Ter
 
 ### TABLE OF CONTENTS
 
-  1. [The Information Vuze Collects](https://web.archive.org/web/20131102155213id_/http%3A//www.vuze.com/corp/privacy.php#1)
-  2. [The Way Vuze Uses Information](https://web.archive.org/web/20131102155213id_/http%3A//www.vuze.com/corp/privacy.php#2)
-  3. [When Vuze Discloses Information](https://web.archive.org/web/20131102155213id_/http%3A//www.vuze.com/corp/privacy.php#3)
-  4. [Your Choices](https://web.archive.org/web/20131102155213id_/http%3A//www.vuze.com/corp/privacy.php#4)
-  5. [Data Security](https://web.archive.org/web/20131102155213id_/http%3A//www.vuze.com/corp/privacy.php#5)
-  6. [Children's Privacy](https://web.archive.org/web/20131102155213id_/http%3A//www.vuze.com/corp/privacy.php#6)
-  7. [International Visitors](https://web.archive.org/web/20131102155213id_/http%3A//www.vuze.com/corp/privacy.php#7)
-  8. [In the Event of Merger or Sale](https://web.archive.org/web/20131102155213id_/http%3A//www.vuze.com/corp/privacy.php#8)
-  9. [Changes and Updates to this Privacy Notice](https://web.archive.org/web/20131102155213id_/http%3A//www.vuze.com/corp/privacy.php#9)
-  10. [Effective Date, Date Last Modified](https://web.archive.org/web/20131102155213id_/http%3A//www.vuze.com/corp/privacy.php#10)
-  11. [Vuze Contact Information](https://web.archive.org/web/20131102155213id_/http%3A//www.vuze.com/corp/privacy.php#11)
+  1. [The Information Vuze Collects](https://web.archive.org/web/20140327023334id_/http%3A//www.vuze.com/corp/privacy.php#1)
+  2. [The Way Vuze Uses Information](https://web.archive.org/web/20140327023334id_/http%3A//www.vuze.com/corp/privacy.php#2)
+  3. [When Vuze Discloses Information](https://web.archive.org/web/20140327023334id_/http%3A//www.vuze.com/corp/privacy.php#3)
+  4. [Your Choices](https://web.archive.org/web/20140327023334id_/http%3A//www.vuze.com/corp/privacy.php#4)
+  5. [Data Security](https://web.archive.org/web/20140327023334id_/http%3A//www.vuze.com/corp/privacy.php#5)
+  6. [Children's Privacy](https://web.archive.org/web/20140327023334id_/http%3A//www.vuze.com/corp/privacy.php#6)
+  7. [International Visitors](https://web.archive.org/web/20140327023334id_/http%3A//www.vuze.com/corp/privacy.php#7)
+  8. [In the Event of Merger or Sale](https://web.archive.org/web/20140327023334id_/http%3A//www.vuze.com/corp/privacy.php#8)
+  9. [Changes and Updates to this Privacy Notice](https://web.archive.org/web/20140327023334id_/http%3A//www.vuze.com/corp/privacy.php#9)
+  10. [Effective Date, Date Last Modified](https://web.archive.org/web/20140327023334id_/http%3A//www.vuze.com/corp/privacy.php#10)
+  11. [Vuze Contact Information](https://web.archive.org/web/20140327023334id_/http%3A//www.vuze.com/corp/privacy.php#11)
 
   
 
@@ -68,7 +68,7 @@ To protect your privacy and security, we take reasonable steps to verify your id
 
 Vuze uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Vuze, and you do so at your own risk. Once we receive your transmission of information, Vuze makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-If Vuze learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Vuze may post a notice on the Vuze Platform if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us [through our online web form](https://web.archive.org/corp/inquiry.php) or by mail.
+If Vuze learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Vuze may post a notice on the Vuze Platform if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us [through our online web form](https://web.archive.org/corp/inquiry) or by mail.
 
 ### 6\. Our Commitment to Children's Privacy:
 
@@ -76,7 +76,7 @@ If you are under 18 years of age, then please do not use or access the Vuze Plat
 
 Protecting the privacy of young children is especially important. For that reason, Vuze does not knowingly collect or maintain personally identifiable information from persons under 18 years-of-age. If Vuze learns that personally-identifiable information of persons less than 18-years-of-age has been collected on or through the Vuze Platform, then Vuze will take the appropriate steps to delete this information.
 
-If you are the parent or legal guardian of a child under 18 who has become Vuze Platform member, then please contact Vuze [through our online web form](https://web.archive.org/corp/inquiry.php) or by mail to have that child's account terminated and information deleted.
+If you are the parent or legal guardian of a child under 18 who has become Vuze Platform member, then please contact Vuze [through our online web form](https://web.archive.org/corp/inquiry) or by mail to have that child's account terminated and information deleted.
 
 The following are some resources that may help parents and legal guardians in monitoring and limiting your childrens' access to certain types of material on the Internet. While Vuze does not endorse these products, we provide information about them as a public service to our community.
 
@@ -112,4 +112,4 @@ Privacy Notice last modified on July 10, 2008.
 
 ### 11\. Vuze Contact Information:
 
-Please contact Vuze with any questions or comments about this Privacy Notice, your personal information, and our third-party disclosure practices or your consent choices [through our online web form](https://web.archive.org/corp/inquiry.php) or by mail at: 11260 Donner Pass Rd, Ste C1-313, Truckee, California, 96161. We will respond to your inquiry as promptly as possible.
+Please contact Vuze with any questions or comments about this Privacy Notice, your personal information, and our third-party disclosure practices or your consent choices [through our online web form](https://web.archive.org/corp/inquiry) or by mail at: 11260 Donner Pass Rd, Ste C1-313, Truckee, California, 96161. We will respond to your inquiry as promptly as possible.
