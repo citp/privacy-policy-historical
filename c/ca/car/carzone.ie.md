@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carzone.ie privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216192444id_/http%3A//www.carzone.ie/index.cfm%3Ffuseaction%3Dprivacypolicy%23cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carzone.ie privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327024031id_/http%3A//www.carzone.ie/index.cfm%3Ffuseaction%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Find Used Car For Sale, Buy Used Car, Sell Used & Second Hand Cars - Carzone
 
@@ -6,7 +6,7 @@ By using Carzone.ie, you permit the collection and use of your personal informat
 
 * **ABOUT OUR PRIVACY POLICY**
 
-1.1 1.1 Our website [www.Carzone.ie](https://web.archive.org/), all the webpages containing that address (" **Carzone.ie** ") and the services provided on Carzone.ie are operated by Trader Publishing Limited with a registered office at Paramount Court, Corrig Road, Sandyford, Dublin 18 (" **we** ", " **us** " and " **our** "). Carzone.ie allows users to search advertisements posted on Carzone.ie for new and used vehicles (" **Vehicles** "). Carzone.ie also allows users, both private sellers and professional trade advertisers to register with Carzone.ie (" **Advertisers** "), and to place advertisements for the sale of Vehicles. 
+1.1 1.1 Our website [www.Carzone.ie](https://web.archive.org/), all the webpages containing that address (" **Carzone.ie** ") and the services provided on Carzone.ie are operated by Auto Trader Limited with a registered office at Paramount Court, Corrig Road, Sandyford, Dublin 18 (" **we** ", " **us** " and " **our** "). Carzone.ie allows users to search advertisements posted on Carzone.ie for new and used vehicles (" **Vehicles** "). Carzone.ie also allows users, both private sellers and professional trade advertisers to register with Carzone.ie (" **Advertisers** "), and to place advertisements for the sale of Vehicles. 
 
 1.2 1.2 This policy, together with our [Terms and Conditions](http://www.carzone.ie/index.cfm?fuseaction=TermsConditions) and any other documents referred to in them, set out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
@@ -42,7 +42,7 @@ By using Carzone.ie, you permit the collection and use of your personal informat
 3.5 We use information held about you in the following ways: 
 
   * 3.5.1 to develop relevant content from Carzone.ie and ensure that content is presented in the most effective manner for you and for your computer;
-  * 3.5.2 to provide you with information (such as information on offers and competitions), products or services that you request from us or which we feel may interest you including information (such as information on offers and competitions) from us, Trader Media Group Limited and our selected partners , and to notify you about changes to our service, where you have consented to be contacted for such purposes;
+  * 3.5.2 to provide you with information (such as information on offers and competitions), products or services that you request from us or which we feel may interest you including information (such as information on offers and competitions) from us, Auto Trader Group Limited and our selected partners , and to notify you about changes to our service, where you have consented to be contacted for such purposes;
   * 3.5.3 to carry out our obligations arising from any contracts entered into between you and us;
   * 3.5.4 to deliver and maintain a high quality service; 
   * 3.5.5 to assist you if you are experiencing a problem with Carzone.ie;
@@ -60,10 +60,10 @@ By using Carzone.ie, you permit the collection and use of your personal informat
 
 4.2 If you provide personal information to us you understand and agree that we may disclose your personal information to the following third parties:
 
-  * 4.2.1 to the Carzone.ie hosting provider Telecity, Kilburn House, Lloyd St North, Manchester M15 6SE, UK and Getronics UK Limited Howard Pincock, The Babbage Centre, The Heath Business & Technology Park, Runcorn, WA7 4QX, UNITED KINGDOM. You acknowledge that we may change the hosting provider at any time and any such change will be posted on Carzone.ie by an amendment to this Privacy Policy. You consent to the transfer of your personal data to any new hosting provider's servers. You may communicate any questions, comments or requests in relation to any change in hosting provider by emailing [classifieds@carzone.ie](mailto:classifieds@carzone.ie) or by post to Trader Publishing Limited, Paramount Court, Corrig Road, Sandyford, Dublin 18.
+  * 4.2.1 to the Carzone.ie hosting provider Telecity, Kilburn House, Lloyd St North, Manchester M15 6SE, UK and Getronics UK Limited Howard Pincock, The Babbage Centre, The Heath Business & Technology Park, Runcorn, WA7 4QX, UNITED KINGDOM. You acknowledge that we may change the hosting provider at any time and any such change will be posted on Carzone.ie by an amendment to this Privacy Policy. You consent to the transfer of your personal data to any new hosting provider's servers. You may communicate any questions, comments or requests in relation to any change in hosting provider by emailing [classifieds@carzone.ie](mailto:classifieds@carzone.ie) or by post to Auto Trader Limited, Paramount Court, Corrig Road, Sandyford, Dublin 18.
   * 4.2.2 any member of our group of companies, which means our subsidiaries, our ultimate holding company and its subsidiaries;
-  * 4.2.3 to Trader Media Group Limited;
-  * 4.2.4 to the prospective seller or buyer of any business or assets related to Carzone.ie or all or part of Trader Publishing Limited or any other member of our group of companies;
+  * 4.2.3 to Auto Trader Group Limited;
+  * 4.2.4 to the prospective seller or buyer of any business or assets related to Carzone.ie or all or part of Auto Trader Limited or any other member of our group of companies;
   * 4.2.5 to a third party if we are under a duty to disclose or share your personal data with that third party in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](http://www.carzone.ie/index.cfm?fuseaction=TermsConditions) and other agreements, or to protect the rights, property, or safety of our group of companies, Carzone.ie, our customers, other registered users or others. This includes exchanging information with third parties for the purposes of fraud protection and credit risk reduction.
 
 
@@ -122,4 +122,4 @@ You may also contact us directly if you require any further assistance in at [cl
 
 * **USER FEEDBACK AND COMPLAINTS**
 
-10.1 Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [](mailto:info@Carzone.ie)classifieds@carzone.ie or by post to General Manager, Trader Publishing Limited, Paramount Court, Corrig Road, Dublin 18, Ireland.
+10.1 Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [](mailto:info@Carzone.ie)classifieds@carzone.ie or by post to General Manager, Auto Trader Limited, Paramount Court, Corrig Road, Dublin 18, Ireland.
