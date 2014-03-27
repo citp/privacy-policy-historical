@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infiniteskills.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020060345id_/http%3A//www.infiniteskills.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infiniteskills.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327181510id_/http%3A//www.infiniteskills.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Infinite Skills Privacy and Security Policy
 
@@ -35,7 +35,7 @@ If you feel that this site is not following its stated information policy, you m
 
 #### Praise for Infinite Skills
 
-Just wanted to let you know how very pleased I am with these training materials. The company that I work for has purchased the same set and they will soon be available to all our designers. I intend to order the [Learning Autodesk Inventor 2013] training material for my Son. You've done a great job with these videos. Thank you. Bill S.
+I have read 6 textbooks, 2 "dummies" books, and almost 30 e-books all on [Learning PHP and MySQL] trying to get it to stick in my brain. Finally! This is what I needed! SHOW and DO! I need to follow along, and reading only makes me familiar with the knowledge, but actually being taught how to DO what the books talk about makes me able to USE the knowledge that's floating around in my head! GREAT! Jeffrey H.
 
 [
 
