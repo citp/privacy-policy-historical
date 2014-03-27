@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shodan.io privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603075013id_/http%3A//www.shodanhq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shodan.io privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327142131id_/http%3A//www.shodanhq.com/privacy) for the most accurate reproduction.*
 
 # SHODAN - Computer Search Engine
 
