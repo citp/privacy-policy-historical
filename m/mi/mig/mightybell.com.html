@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mightybell.com privacy policy that was archived on 2013-08-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130813123843id_/https%3A//mightybell.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mightybell.com privacy policy that was archived on 2014-03-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140327134706id_/https%3A//mightybell.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <title>
@@ -7,98 +7,153 @@ Mightybell |
 Privacy Policy
 
 </title>
-<meta content="Mightybell is where online communities grow bigger and closer at the same time. Create a free community for your circle of friends to post, chat, plan meetups, and make good things happen." name="description">
-<meta content="Create Online Communities, Build Online Communities, Online Communities, Online Community, Free Community, Post, Chat, Plan Meetups, Meet, Groups, Group, Community, Circles, Circle, Mightybell" name="keywords">
-<script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/c952ffe3d271cbbb799ba9f84eccee312c38b5c0.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
-  var _kmq = _kmq || [];
-      function _kms(u){
-        setTimeout(function(){
-          var s = document.createElement('script'); var f = document.getElementsByTagName('script')[0]; s.type = 'text/javascript'; s.async = true;
-          s.src = u; f.parentNode.insertBefore(s, f);
-        }, 1);
-      }
-  
-      _kms('//i.kissmetrics.com/i.js');
-      _kms('//doug1izaerwt3.cloudfront.net/c952ffe3d271cbbb799ba9f84eccee312c38b5c0.1.js');
-</script>
-<!-- - content_for :javascript do -->
-<!-- :javascript -->
-<!-- var search = window.location.search; -->
-<!-- if (search) { -->
-<!-- var mHash = {}; -->
-<!-- var params = search.replace('?', '').split('&'); -->
-<!-- var param; -->
-<!-- if (params.length > 0) { -->
-<!-- for (i=0; i < params.length; i++) { -->
-<!-- param = params[i].split('='); -->
-<!-- if (param.length === 2) { mHash[param[0]] = param[1]; } -->
-<!-- } -->
-<!-- } -->
-<!-- if (mHash['invite_id']) { -->
-<!-- var channel = unescape(mHash['link_source_context']).match(/\[channel:(\w+)\]/); -->
-<!-- if (channel) { -->
-<!-- _kmq.push(['record', 'Clicked Invite Link', {'invite_id': mHash['invite_id'], 'clicked_invite_channel': channel[1]}]); -->
-<!-- } -->
-<!-- } else if (mHash['link_source_context'] && _.indexOf(mHash['link_source_context'], 'notification')) { -->
-<!-- _kmq.push(['record', 'Clicked Notification Link', {'notification_link_id': mHash['link_id']}]); -->
-<!-- } else if (mHash['onboarding']) { -->
-<!-- _kmq.push(['record', 'Landed in Onboarding']); -->
-<!-- } else if (mHash['link_id']){ -->
-<!-- _kmq.push(['record', 'Clicked Short URL Link', {'short_url_link_id': mHash['link_id'], 'short_url_source_context': mHash['link_source_context']}]); -->
-<!-- } -->
-<!-- // XXX when running in test env, this causes invite specs to fail -->
-<!-- #{%{if (window.history.replaceState) window.history.replaceState("", "", window.location.href.replace(search, ''));} unless Rails.env.test?} -->
-<!-- } -->
-
-<script>
+<meta content="Mightybell offers online communities perfect for organizing small groups around projects, discussions, and learning opportunities. Create a Free Community or start a Circle with friends." name="description">
+<meta content="Create Online Communities, Build Online Communities, Online Communities, Online Community, Free Community, Discussions, Post, Chat, Plan Meetups, Meet, Groups, Group, Community, Circles, Circle, Mightybell" name="keywords">
+<meta content="yes" name="apple-mobile-web-app-capable">
+<meta content="black" name="apple-mobile-web-app-status-bar-style">
+<script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" async="" defer="" src="https://stats.g.doubleclick.net/dc.js"></script><script>
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-29870361-1']);
-  _gaq.push(['_trackPageview']);
+  if (!window.manualPageviewTracking)
+    _gaq.push(['_trackPageview']);
+  
   
   (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.defer = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
 
+<!-- We call mixpanel identify because the for Facebook and LinkedIn sign in -->
+<!-- we track the event server side. -->
+<!-- In summary: for email/password sign in/sign up we call identify/alias in -->
+<!-- form.js.coffee - the js behind the sign in/sign up form, for Facebook/LinkedIn -->
+<!-- authentication we call alias server side on auth_controller.rb and identify -->
+<!-- get called in _mixpanel.html.haml -->
+<!--  -->
+<script>
+    (function(e,b) {
+      if(!b.__SV) {
+        var a,f,i,g;
+        window.mixpanel=b;
+        a=e.createElement("script");
+        a.type="text/javascript";
+        a.async=!0;
+        a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';
+        f=e.getElementsByTagName("script")[0];
+        f.parentNode.insertBefore(a,f);
+        b._i=[];
+        b.init = function(a,e,d) {
+          function f(b,h) {
+            var a=h.split(".");
+            2==a.length&&(b=b[a[0]],h=a[1]);
+            b[h]=function() {
+              b.push([h].concat(Array.prototype.slice.call(arguments,0)))
+            }
+          }
+          var c=b;
+          "undefined"!==typeof d?c=b[d]=[]:d="mixpanel";
+          c.people=c.people||[];
+          c.toString=function(b){
+            var a="mixpanel";
+            "mixpanel"!==d&&(a+="."+d);
+            b||(a+=" (stub)");
+            return a
+          };
+          c.people.toString=function(){
+            return c.toString(1)+".people (stub)"
+          };
+          i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
+          for(g=0;g<i.length;g++)f(c,i[g]);
+          b._i.push([a,e,d])
+        };
+        b.__SV=1.2
+      }
+    })(document,window.mixpanel||[]);
+  
+    mixpanel.init("91933feb4ee4c33861112494ff8d6a3f");
+</script>
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
-<script src="https://d321fobcmiotdk.cloudfront.net/assets/homepage-842d51a0deb9643a760b26d784b60d2d.js" type="text/javascript"></script>
+
+<script src="https://d321fobcmiotdk.cloudfront.net/assets/application_home-55b6a228778b1e90b7b500cb1cfb5322.js" type="text/javascript"></script>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 <meta content="IE=Edge;chrome=1" http-equiv="X-UA-Compatible">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","errorBeacon":"jserror.newrelic.com","licenseKey":"2cd8c17a78","applicationID":"584965","transactionName":"c1laEUtXDVtRRh4VElFCXQYWEA5DXFFDTw==","queueTime":0,"applicationTime":20,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-361.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAYBV1dADQsEXVdX"};window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a,b){function c(a,b,c){c||(c={});for(var d=f[a],e=d&&d.length||0,h=c[g]||(c[g]={}),i=0;e>i;i++)d[i].apply(h,b);return h}function d(a,b){var c=f[a]||(f[a]=[]);c.push(b)}function e(a){return delete a[g]}var f={},g="nr@context";b.exports={on:d,emit:c,clear:e}},{}],2:[function(a){function b(a,b,e,g,i){return h?h-=1:c("err",[i||new UncaughtException(a,b,e)]),"function"==typeof f?f.apply(this,d(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var c=a("handle"),d=a("lodash._slice"),e=a("../../../contextual-ee"),f=window.onerror,g=!1,h=0;a("loader").features.push("err"),window.onerror=b;try{throw new Error}catch(i){"stack"in i&&(a("../../wrap-timer"),a("../../wrap-raf"),"addEventListener"in window&&a("../../wrap-events"),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&a("../../wrap-xhr"),g=!0)}e.on("fn-start",function(){g&&(h+=1)}),e.on("fn-err",function(a,b,d){g&&(this.thrown=!0,c("err",[d,(new Date).getTime()]))}),e.on("fn-end",function(){g&&!this.thrown&&h>0&&(h-=1)})},{"../../../contextual-ee":1,"../../wrap-events":3,"../../wrap-raf":4,"../../wrap-timer":5,"../../wrap-xhr":6,handle:"4O2Y62",loader:"YLUGVp","lodash._slice":14}],3:[function(a){function b(a){d.inPlace(a,["addEventListener","removeEventListener"],"-",c)}function c(a){return a[1]}var d=a("../wrap-function"),e=(a("lodash._slice"),a("../contextual-ee"));if(b(window),"getPrototypeOf"in Object){for(var f=document;f&&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&&b(f);for(var g=XMLHttpRequest.prototype;g&&!g.hasOwnProperty("addEventListener");)g=Object.getPrototypeOf(g);g&&b(g)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&b(XMLHttpRequest.prototype);e.on("addEventListener-start",function(a){if(a[1]){var b=a[1];"function"==typeof b?this.wrapped=b["nr@wrapped"]?a[1]=b["nr@wrapped"]:b["nr@wrapped"]=a[1]=d(b,"fn-"):"function"==typeof b.handleEvent&&d.inPlace(b,["handleEvent"],"fn-")}}),e.on("removeEventListener-start",function(a){var b=this.wrapped;b&&(a[1]=b)})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],4:[function(a){var b=(a("lodash._slice"),a("../wrap-function")),c=a("../contextual-ee");b.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),c.on("raf-start",function(a){a[0]=b(a[0],"fn-")})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],5:[function(a){function b(a){var b=a[0];"string"==typeof b&&(b=new Function(b)),a[0]=c(b,"fn-")}var c=(a("lodash._slice"),a("../wrap-function")),d=a("../contextual-ee");c.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),d.on("setTimer-start",b)},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],6:[function(a){function b(){c.inPlace(this,f,"fn-")}var c=a("../wrap-function"),d=a("../contextual-ee"),e=window.XMLHttpRequest,f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(a){var f=new e(a);return d.emit("new-xhr",[],f),c.inPlace(f,["addEventListener","removeEventListener"],"-",function(a,b){return b}),f.addEventListener("readystatechange",b,!1),f},window.XMLHttpRequest.prototype=e.prototype},{"../contextual-ee":1,"../wrap-function":15}],7:[function(a){function b(a){if("string"==typeof a&&a.length)return a.length;if("object"!=typeof a)return void 0;if("undefined"!=typeof ArrayBuffer&&a instanceof ArrayBuffer&&a.byteLength)return a.byteLength;if("undefined"!=typeof Blob&&a instanceof Blob&&a.size)return a.size;if("undefined"!=typeof FormData&&a instanceof FormData)return void 0;try{return JSON.stringify(a).length}catch(b){return void 0}}function c(a){var c=this.params,d=this.metrics;if(!this.ended){this.ended=!0;for(var e=0;k>e;e++)a.removeEventListener(j[e],this.listener,!1);if(!c.aborted){if(d.duration=(new Date).getTime()-this.startTime,4===a.readyState){c.status=a.status;var g=a.responseType,h="arraybuffer"===g||"blob"===g||"json"===g?a.response:a.responseText,i=b(h);if(i&&(d.rxSize=i),this.sameOrigin){var l=a.getResponseHeader("X-NewRelic-App-Data");l&&(c.cat=l.split(", ").pop())}}else c.status=0;d.cbTime=this.cbTime,f("xhr",[c,d])}}}function d(a,b){var c=g(b),d=a.params;d.host=c.hostname+":"+c.port,d.pathname=c.pathname,a.sameOrigin=c.sameOrigin}function e(a,b){return b}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){a("loader").features.push("xhr");var f=a("handle"),g=a("./parse-url.js"),h=a("../../../wrap-function"),i=a("../../../contextual-ee"),j=["load","error","abort","timeout"],k=j.length,l=a("../../../loader/id");a("../../wrap-events"),a("../../wrap-xhr"),i.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=c,this.ended=!1,this.xhrGuids={}}),h.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",e),i.on("open-xhr-start",function(a){this.params={method:a[0]},d(this,a[1]),this.metrics={}}),i.on("open-xhr-end",function(a,b){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&b.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),i.on("send-xhr-start",function(a,c){var d=this.metrics,e=a[0],f=this;if(d&&e){var g=b(e);g&&(d.txSize=g)}this.startTime=(new Date).getTime(),this.listener=function(a){try{"abort"===a.type&&(f.params.aborted=!0),("load"!==a.type||f.called===f.totalCbs&&(f.onloadCalled||"function"!=typeof c.onload))&&f.end(c)}catch(b){}};for(var h=0;k>h;h++)c.addEventListener(j[h],this.listener,!1)}),i.on("xhr-cb-time",function(a,b,c){this.cbTime+=a,b?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof c.onload||this.end(c)}),i.on("xhr-load-added",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&!this.xhrGuids[c]&&(this.xhrGuids[c]=!0,this.totalCbs+=1)}),i.on("xhr-load-removed",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&this.xhrGuids[c]&&(delete this.xhrGuids[c],this.totalCbs-=1)}),i.on("addEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-added",[a[1],a[2]],b)}),i.on("removeEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-removed",[a[1],a[2]],b)}),i.on("fn-start",function(a,b,c){b instanceof XMLHttpRequest&&("onload"===c&&(this.onload=!0),("load"===(a[0]&&a[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),i.on("fn-end",function(a,b){this.xhrCbStart&&i.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,b],b)})}},{"../../../contextual-ee":1,"../../../loader/id":11,"../../../wrap-function":15,"../../wrap-events":3,"../../wrap-xhr":6,"./parse-url.js":8,handle:"4O2Y62",loader:"YLUGVp"}],8:[function(a,b){b.exports=function(a){var b=document.createElement("a"),c=window.location,d={};b.href=a,d.port=b.port;var e=b.href.split("://");return!d.port&&e[1]&&(d.port=e[1].split("/")[0].split(":")[1]),d.port&&"0"!==d.port||(d.port="https"===e[0]?"443":"80"),d.hostname=b.hostname||c.hostname,d.pathname=b.pathname,"/"!==d.pathname.charAt(0)&&(d.pathname="/"+d.pathname),d.sameOrigin=!b.hostname||b.hostname===document.domain&&b.port===c.port&&b.protocol===c.protocol,d}},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],11:[function(a,b){function c(a){if(!a||"object"!=typeof a&&"function"!=typeof a)return-1;if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!0,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&&a.agent&&a.licenseKey&&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],14:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}],15:[function(a,b){function c(a,b,c,d){function nrWrapper(){var g,h=f(arguments),i=this,j=c&&c(h,i)||{};try{e.emit(b+"start",[h,i,d],j)}catch(k){}try{return g=a.apply(i,h)}catch(l){throw e.emit(b+"err",[h,i,l],j),l}finally{try{e.emit(b+"end",[h,i,g],j)}catch(k){}}}return a&&"function"==typeof a&&a.apply&&!a._wrapped?(b||(b=""),nrWrapper._wrapped=!0,nrWrapper):a}function d(a,b,d,e){d||(d="");var f,g,h,i="-"===d.charAt(0);for(h=0;h<b.length;h++)g=b[h],f=a[g],f&&"function"==typeof f&&f.apply&&!f._wrapped&&(a[g]=c(f,i?g+d:d,e,g,a))}var e=a("../contextual-ee"),f=a("lodash._slice");b.exports=c,c.inPlace=d},{"../contextual-ee":1,"lodash._slice":14}]},{},["YLUGVp",7,2]);</script>
 <meta content="en-US" http-equiv="Content-Language">
-<meta content="width=1280" name="viewport">
-<meta content="app-id=460156561" name="apple-itunes-app">
-<link href="/assets/icons/favicon.ico" rel="shortcut icon" type="image/x-icon">
-<link href="https://d321fobcmiotdk.cloudfront.net/assets/homepage-e6d2df15bce69cb8f69251697f864240.css" media="screen" rel="stylesheet" type="text/css">
+<meta content="width=device-width,initial-scale=1.0" name="viewport">
+<link href="https://d321fobcmiotdk.cloudfront.net/assets/icons/favicon-8bf6080593330e7d08f5aad66cfde4e9.ico" rel="shortcut icon" type="image/x-icon">
+<link href="https://d321fobcmiotdk.cloudfront.net/assets/homepage/homepage-7d3d53ccf05410ef348809e2540a40ec.css" media="screen" rel="stylesheet" type="text/css">
 <!--[if lt IE 9]>
-<script src="https://d321fobcmiotdk.cloudfront.net/assets/html5shiv-b9b380a956f4b27a2b20bcf3c16bdd62.js" type="text/javascript"></script>
+<script src="https://d321fobcmiotdk.cloudfront.net/assets/html5shiv-3e42c28187a70c1b180ccffee98fe485.js" type="text/javascript"></script>
 <![endif]-->
-<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
-<body class="privacy_policy">
-<div class="wrapper">
-<div id="static-header-wrapper">
-<header id="main-header">
-<h1><a href="/">Mightybell</a></h1>
+</head>
+<body class="privacy_policy ">
+<div id="header-wrapper">
+<a class="sidebar-toggle icon-menu ie7-hide" href="#" title="Toggle side bar"></a>
+<a class="sidebar-toggle ie7-show" href="#" title="Toggle side bar">
+<img alt="List-icon" src="https://d321fobcmiotdk.cloudfront.net/assets/homepage/list-icon-e3b583c4e4d6d0604b78504425113694.jpg">
+</a>
+<span>
+<h1 class="header-logo ie8-hide"><a href="/home">Mightybell</a></h1>
+<h1 class="header-logo ie8-show"><a href="/home" class="low-res">Mightybell</a></h1>
+</span>
 <nav>
+<span class="top-links">
+<div class="facebook-like mobile-hide home-header-link">
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fmightybell&amp;send=false&amp;layout=button_count&amp;width=84&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21&amp;appId=216684625052081" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:84px; height:21px; margin-top:6px;" allowtransparency="true"></iframe>
+</div>
+<span><a href="/about" class="home-header-link " title="About">About</a></span>
+<span><a href="/community_info" class="home-header-link " title="Communities">Communities</a></span>
+<span><a href="/circle_info" class="home-header-link " title="Circles">Circles</a></span>
+</span>
+<span class="home-header-link sign-in-link"><a href="/sign_in" title="Sign In">Sign In</a></span>
+</nav>
+</div>
+<div id="body-wrapper">
+<div class="sidebar-overlay"></div>
+<div class="sidebar">
+<div id="sidebar-contents-wrapper">
+<div class="sidebar-contents">
+<div class="header-buttons">
+<a class="header-btn get-started" href="#">Get Started</a>
+<a class="close-btn" href="#">×</a>
+</div>
+<div class="horiz-divider"></div>
 <ul>
 <li>
+<div class="sidebar-facebook-like">
 <iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fmightybell&amp;send=false&amp;layout=button_count&amp;width=84&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21&amp;appId=216684625052081" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:84px; height:21px; margin-top:6px;" allowtransparency="true"></iframe>
-</li>
-<li class="create-space-btn-wrapper">
-<form accept-charset="UTF-8" action="/onboardings" id="create-blank-header" method="post" name="create-blank-header"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="/zccJYCMxaiIMklv6o5iRNcSeT0tsYno/oU22tfIAnM="></div>
-<button class="btn btn-primary create-space-button" type="submit" value="Create a space">Create a Circle</button>
-</form>
-
-</li>
-<li class="login-btn-wrapper"><a href="/sign_in" class="btn btn-primary" title="Login">Login</a></li>
-</ul>
-</nav>
-</header>
-<div class="video-separator"></div>
 </div>
-<article class="row" id="main" role="main">
+</li>
+<li><a href="/community_info" title="Communities">Communities</a></li>
+<li><a href="/circle_info" title="Circles">Circles</a></li>
+<li><a href="/lean_in" title="Lean In Story">The Lean In Story</a></li>
+<li><a href="/levo_league" title="Levo League Story">The Local Levo Story</a></li>
+</ul>
+<ul>
+<li><a href="/about" title="About">About Mightybell</a></li>
+<li><a href="http://blog.mightybell.com/" target="_blank" title="Blog">Blog</a></li>
+<li><a href="http://help.mightybell.com" target="_blank" title="FAQ">FAQ</a></li>
+<li><a href="/terms_of_use" title="Terms of Use">Terms of Use</a></li>
+<li><a href="/privacy_policy" title="Privacy">Privacy Policy</a></li>
+</ul>
+<div class="social-buttons">
+<span>
+<a href="http://facebook.com/mightybell" target="_blank"><img alt="Facebook_logo" src="https://d321fobcmiotdk.cloudfront.net/assets/homepage/facebook_logo-cb4893b5276a2cdd71816e221dbd4996.png">
+</a></span>
+<span>
+<a href="http://twitter.com/mightybell" target="_blank"><img alt="Twitter_logo" src="https://d321fobcmiotdk.cloudfront.net/assets/homepage/twitter_logo-5747d424d8b2d877be84b75280982240.png">
+</a></span>
+<span>
+<a href="http://pinterest.com/mightybell" target="_blank"><img alt="Pinterest_logo" src="https://d321fobcmiotdk.cloudfront.net/assets/homepage/pinterest_logo-cb6c50d9c0922dd77b7f80251edcc874.png">
+</a></span>
+</div>
+</div>
+</div>
+</div>
+<article id="main" role="main">
 <div class="container">
 <header class="row">
 <div class="span16">
@@ -110,7 +165,7 @@ Privacy Policy
 <h6>Last updated: July 24, 2013</h6>
 <hr>
 <h3>OUR POLICY</h3>
-<p>Welcome to mightybell.com a web application made available by Mighty Software, Inc. (“Mightybell”, “we,” “us,” or “our”). We created this privacy policy to provide information about our company and its services that provide circles (“Circles”) to online groups for specific interests (together with our web application, the “Service”) to our users (“you,” or “your”). This Privacy Policy sets forth Mightybell’s policy with respect to information, including personally identifiable data (“Personal Data”), and other information that is collected from visitors to our Application and users of the Service. Capitalized terms used but not defined in this Privacy Policy are defined in our Terms of Service.</p>
+<p>Welcome to mightybell.com a web application made available by Mighty Software, Inc. (“Mightybell”, “we,” “us,” or “our”). We created this privacy policy to provide information about our company and its services that provide circles (“Circles”) to online groups for specific interests (together with our web application, the “Service”) to our users (“you,” or “your”). This Privacy Policy sets forth Mightybell’s policy with respect to information, including personally identifiable data (“Personal Data”), and other information that is collected from visitors to our Application and users of the Service. Capitalized terms used but not defined in this Privacy Policy are defined in our Terms of Use.</p>
 <h3>INFORMATION WE COLLECT</h3>
 <p>When you interact with us through the Service, we may collect Personal Data and other information from you, as further described below:</p>
 <p>Personal Data That You Provide Through the Service: We collect Personal Data from you when you voluntarily provide such information, such as when you register for access to the Service (for example, name and email address) whether directly through the Service or through an Integrated Service (as defined below), use certain features of the Service, contact us with inquiries, or respond to one of our surveys. Wherever Mightybell collects Personal Data we make an effort to provide a link to this Privacy Policy. If you are a User, you agree to comply with this Privacy Policy. However, as a member of Circles, you acknowledge that Mightybell cannot control the actions of other Users; if you have a privacy-related dispute with an User, you should contact the User directly.</p>
@@ -129,8 +184,8 @@ We, along with third-party partners, may use other kinds of local storage, such 
 <p>Mightybell is not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below:</p>
 <p>Searching and Messages by Other Users:  Hosts of Circles or other users of the Service may be able to search you by your name, user ID, location, interests, or other Personal Data so that they may identify prospective members of their Circles. Hosts or other users may send you private messages through the Service.</p>
 <p>Use of Circles: If you participate in a Circle created by another user of the Service, the Host may have access to certain Personal Data that you make generally available through the Service, such as your username, gender, age, location, and activity in their specific Circle in which you are participating. The Host may also receive aggregate usage data related to your participation in a Circle, such as when you accomplish an action in such Circle and how you rated it. If you are a Host of a Circle, unless you opt-out of making that Circle available for searching by other users, your Circle, your name, and user ID, along with the names and user IDs of the other members of your Circle, may be made available for searching by other users. This enables users to identify Circles that might be of interest to them and to contact the Host of that Circle to request to join the Circle. If you are a member of a Circle that is searchable by other users of our Services, then your name and user ID may be shared with any users searching that Circle through our Services.</p>
-<p>Readers of your User Content: When you submit User Content (as defined in our Terms of Service) via our Services or otherwise to us, you may have chosen to include certain Personal Data or other information about you within that User Content. For example, you may have chosen to reveal your name, age, location, or other biographical information in the context of telling a story about yourself. In that case, whenever we share your User Content with our other users, licensees, or business partners in accordance with the rights you have granted to us regarding that User Content as described in the Terms of Service at mightybell.com/tos, we also share whatever Personal Data or other information you chose to include within that User Content.</p>
-<p>We also may share your Personal Data or other information with our licensees, business partners, and other third parties in connection with their publication or other distribution or use of any of your User Content in accordance with the rights you have granted to us pursuant to our Terms of Service. For example, we may share your name, location, and biographical information that you chose to include within your User Content so that it may be published along with that User Content.</p>
+<p>Readers of your User Content: When you submit User Content (as defined in our Terms of Use) via our Services or otherwise to us, you may have chosen to include certain Personal Data or other information about you within that User Content. For example, you may have chosen to reveal your name, age, location, or other biographical information in the context of telling a story about yourself. In that case, whenever we share your User Content with our other users, licensees, or business partners in accordance with the rights you have granted to us regarding that User Content as described in the Terms of Use at mightybell.com/terms_of_use, we also share whatever Personal Data or other information you chose to include within that User Content.</p>
+<p>We also may share your Personal Data or other information with our licensees, business partners, and other third parties in connection with their publication or other distribution or use of any of your User Content in accordance with the rights you have granted to us pursuant to our Terms of Use. For example, we may share your name, location, and biographical information that you chose to include within your User Content so that it may be published along with that User Content.</p>
 <p>Integrated Services:  We also may share your information with the operators of any Integrated Services (as defined below), as more fully explained in the sections below entitled “Integrated Services.”</p>
 <p>Business Transfers: As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.</p>
 <p>Related Companies: We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy.</p>
@@ -153,12 +208,12 @@ We, along with third-party partners, may use other kinds of local storage, such 
 From time to time, we may share your information with
 <a href="/about_partnerships">Integrated Services</a>
 (such as Lean In.org).
-This may happen when you first register with Mightybell, when you log into Mightybell from time to time, or in emails or other communications we may send you consistent with this Privacy Policy. We may share your Personal Data and Non-Identifiable Data, your location information, your partner affiliation, your Circle ID, your Circle URL, your Circle title, your Circle location, and your use of the Circles feature on Mightybell with Integrated Services to facilitate and enhance your use of the Integrated Services. Please keep in mind that services provided by Integrated Services are not provided by Mightybell and therefore your use of the Integrated Services will be governed by the Integrated Services' Terms of Service and other policies, and that the collection, use, and disclosure of information provided by you or us to Integrated Services is not governed by this Privacy Policy.
+This may happen when you first register with Mightybell, when you log into Mightybell from time to time, or in emails or other communications we may send you consistent with this Privacy Policy. We may share your Personal Data and Non-Identifiable Data, your location information, your partner affiliation, your Circle ID, your Circle URL, your Circle title, your Circle location, and your use of the Circles feature on Mightybell with Integrated Services to facilitate and enhance your use of the Integrated Services. Please keep in mind that services provided by Integrated Services are not provided by Mightybell and therefore your use of the Integrated Services will be governed by the Integrated Services' Terms of Use and other policies, and that the collection, use, and disclosure of information provided by you or us to Integrated Services is not governed by this Privacy Policy.
 </p>
 <h3>SECURITY</h3>
 <p>Mightybell takes reasonable steps to protect the Personal Data provided via the Service from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet, email, or other electronic transmission is ever fully secure or error free, so you should take special care in deciding what information you send to us in this way.</p>
 <h3>OTHER TERMS AND CONDITIONS</h3>
-<p>Your access to and use of the Service is subject to the Terms of Service at mightybell.com/tos.</p>
+<p>Your access to and use of the Service is subject to the Terms of Use at mightybell.com/terms_of_use.</p>
 <h3>CHANGES TO MIGHTYBELL’S PRIVACY POLICY</h3>
 <p>The Service and our business may change from time to time. As a result, at times it may be necessary for Mightybell to make changes to this Privacy Policy. Mightybell reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Service after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.</p>
 <p>Mightybell has no liability or responsibility for the privacy practices or other actions of any Integrated Service that may be enabled within the Service.</p>
@@ -169,50 +224,52 @@ This may happen when you first register with Mightybell, when you log into Might
 </div>
 </div>
 
-<div id="featured-on">
-<h4>Featured on</h4>
-<img alt="USA Today - Forbes - Venture Beat - The Wall Street Journal -  Tech Crunch - Fast Company - The New York Times" src="https://d321fobcmiotdk.cloudfront.net/assets/homepage/featured_on-22647d4d81a6ff1b533472a738e011bc.jpg">
-</div>
 </article>
-<div class="footer-push"></div>
+<div class="get-started-wrapper optimizely-variation-1">
+<div class="get-started-modal">
+<div class="get-started-header">
+We are stronger together
+<a class="get-started-close close-btn" href="#">×</a>
 </div>
-<div id="footer">
-<div class="footer-contents">
-<div class="footer-items row">
-<span><a href="/about">About Us</a></span>
-<span><a href="http://blog.mightybell.com">Blog</a></span>
-<span><a href="/faq">FAQ</a></span>
+<div class="get-started-body">
+<span class="get-started-path">
+<div class="get-started-subheader">
+Organize a Group
 </div>
-<div class="footer-items sub-row">
-<span><a href="/">© 2013 Mightybell</a></span>
-<span><a href="/terms_of_use">Terms</a></span>
-<span><a href="/privacy_policy">Privacy</a></span>
+<p>
+Share ideas, chat and organize meetups
+<br>
+in your own Mightybell Circle.
+</p>
+<br>
+<p class="bold">Always free</p>
+<a class="btn-primary small-btn circle-create" href="/spaces/new">Create a Circle</a>
+<br>
+<a class="red-link learn-more" href="/circle_info">Learn more</a>
+</span>
 </div>
-<div class="footer-social-items">
-<div class="circles">
-<a href="https://www.facebook.com/mightybell" target="_blank"><img alt="Facebook_logo" src="https://d321fobcmiotdk.cloudfront.net/assets/homepage/facebook_logo-cb4893b5276a2cdd71816e221dbd4996.png">
-</a><a href="https://twitter.com/mightybell" target="_blank"><img alt="Twitter_logo" src="https://d321fobcmiotdk.cloudfront.net/assets/homepage/twitter_logo-5747d424d8b2d877be84b75280982240.png">
-</a><a href="https://pinterest.com/mightybell/" target="_blank"><img alt="Pinterest_logo" src="https://d321fobcmiotdk.cloudfront.net/assets/homepage/pinterest_logo-cb6c50d9c0922dd77b7f80251edcc874.png">
-</a></div>
-<a href="http://www.itunes.com/apps/mightybell" target="_blank"><img alt="App_store_logo" src="https://d321fobcmiotdk.cloudfront.net/assets/homepage/app_store_logo-e2066c253595fd5561b0bf24ca244df6.png">
-</a></div>
+<div class="get-started-footer">
+<div class="get-started-footer-image">
+<img alt="Chatting" src="https://d321fobcmiotdk.cloudfront.net/assets/homepage/chatting-100362158706089afc2343b8bd60ef00.jpg">
+</div>
+<div class="get-started-footer-text">
+<div class="get-started-subheader">Mightybell Communities are Fantastic for Creating:</div>
+<p>
+A community of learning, project or discussion groups.
+<a href="/lean_in" class="red-link">See a success story</a>
+</p>
+<p>
+An organization of local chapters.
+<a href="/levo_league" class="red-link">See a success story</a>
+</p>
+</div>
+<div class="clear"></div>
 </div>
 </div>
-<script src="https://d321fobcmiotdk.cloudfront.net/assets/staticpages-49b9eed0703c21cd603d74e4cc501a12.js" type="text/javascript"></script>
+</div>
+</div>
 <script src="//cdn.optimizely.com/js/166403447.js" type="text/javascript"></script>
-<script src="https://d321fobcmiotdk.cloudfront.net/assets/crazyegg-4e09b4421e250dfdf54cc8a4066454cc.js" type="text/javascript"></script>
 
-<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
-NREUMQ.push(["load",new Date().getTime()]);
-var e=document.createElement("script");
-e.type="text/javascript";
-e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
-  "js-agent.newrelic.com/nr-100.js";
-document.body.appendChild(e);
-if(NREUMQ.a)NREUMQ.a();
-};
-NREUMQ.a=window.onload;window.onload=NREUMQ.f;
-};
-NREUMQ.push(["nrfj","beacon-1.newrelic.com","2cd8c17a78","584965","c1laEUtXDVtRRh4VElFCXQYWEA5DXFFDTw==",0,21,new Date().getTime(),"","","","",""]);</script>
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+
+<script src="https://js-agent.newrelic.com/nr-361.min.js"></script></body></html>
