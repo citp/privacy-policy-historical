@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the charmingdate.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903005704id_/http%3A//www.charmingdate.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charmingdate.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327102257id_/http%3A//charmingdate.com/help/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy – CharmingDate.com
 
-The [Qpid Network Privacy Policy](http://www.qpidnetwork.com/privacy.php) describes how we treat personal information when you use Qpid Network subsidiary sites' services ("Services"), including information provided when you use CharmingDate.com. The following describes our privacy practices that are specific to CharmingDate.com.
+The [Qpid Network Privacy Policy](https://secure.qpidnetwork.com/help/privacy.php) describes how we treat personal information when you use Qpid Network subsidiary sites' services ("Services"), including information provided when you use CharmingDate.com. The following describes our privacy practices that are specific to CharmingDate.com.
 
 Welcome to CharmingDate.com ("CharmingDate" or the "Site"). Your privacy is important to us. As such, we provide this Policy explaining our online information practices and the choices you can make about the way your information is collected, processed, maintained and disposed by CharmingDate, including any services owned, operated or offered by or on behalf of CharmingDate, and by third-party service providers if applicable.
 
