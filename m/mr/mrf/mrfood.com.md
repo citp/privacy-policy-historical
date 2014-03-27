@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrfood.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221233007id_/http%3A//www.mrfood.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrfood.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327054215id_/http%3A//www.mrfood.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | mrfood.com
 
@@ -155,6 +155,12 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 
 | 
 
-[](http://www.mrfoodshop.com/mr-food-test-kitchen-just-one-more-bite.html)  
+### LATEST TV RECIPE & VIDEO
+
+##### [Spinach and Cheese Stromboli](https://web.archive.org/Sandwiches/Spinach-and-Cheese-Stromboli)
+
+Refrigerated pizza dough is our shortcut to making this tasty Spinach and Cheese Stromboli in less than 15 minutes. The best part is, you can pick up everything you need for this easy dinner recipe right in your market's dairy aisle!
+
+[](http://www.mrfood.com/slideshow/National-Frozen-Food-Month)  
   
 ---|---|---
