@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tiphero.com privacy policy that was archived on 2013-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131209053132id_/http%3A//tiphero.com/index.php%3F_ms%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tiphero.com privacy policy that was archived on 2014-03-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140327175052id_/http%3A//www.tiphero.com/index.php%3F_ms%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en"><head>
         <title>Privacy Policy</title>
@@ -12,8 +12,9 @@
 		<meta property="og:site_name" content="Tip Hero">
 		<meta property="fb:admins" content="715146979">
 
-        <link type="text/css" rel="stylesheet" href="http://dis4o6us9omse.cloudfront.net/stylemin.css">
+                <link type="text/css" rel="stylesheet" href="http://www.tiphero.com/_tpl/style.css">
         <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=147970005298030"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="http://d3mlcofzeu9k85.cloudfront.net/prototypemin.js"></script>
+        <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
         
 		<script type="text/javascript">
         
@@ -29,6 +30,30 @@
           })();
         
         </script>
+        
+        <script type="text/javascript">
+    $(function() {
+        $('#search-btn').on('click', function() {
+            newSearch($('#search-term').val());
+        });
+        
+        $('#search-term').keypress(function(e) {
+            if(e.keyCode == 13) {
+                newSearch($('#search-term').val());
+            }
+        });
+    });  
+    
+    /*
+     * Perform a new search
+     * 
+     * @param val The value
+     */
+    function newSearch(val) {
+        val = val.replace(' ', '+');
+        window.location.href = 'http://www.tipherosearch.com/index.php?q='+val;
+    }
+</script>
 
 
 
@@ -148,10 +173,14 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
 
                 <meta name="google-site-verification" content="e9CYsgf111z16vTPTxNK6pNRr-10wN7T_Al-MYB7wFA">
                 
-</head>
+        </head><body><div id="promolayer-f6db1bae677cac1d1dbf7e527cf86cb1" class="promolayer"></div>
+        <script type="text/javascript" src="https://promosimple.com/api/1.0/layer"></script>
+        <noscript>You need to enable javascript to enter this campaign !<br />Powered by <a href="http://www.promosimple.com/">PromoSimple</a>.</noscript>
 
 
-<body>
+
+
+
 
     <!-- BEGIN FACEBOOK LIKE BOX CODE -->
     
@@ -218,12 +247,12 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
             	Web Search:
             </div>
             
-            <div style="float:right; margin: -37px 10px 0px 0px;">
-                <form method="POST" action="search">
-                <input type="hidden" name="pid" value="0">
-                <input type="text" value="" name="q" style="width:160px;">
-                <input type="submit" name="submit" value="Search">
-                </form>
+            <div style="float:right; margin: -53px 10px 0px 0px;">
+                <div id="main-content">
+                    <div id="search-box">
+                        <input type="text" id="search-term" value=""><a id="search-btn" href="javascript:void(0)">Search</a>
+                    </div>
+                </div>
             </div>
             
             <div style="clear:both;"></div>
@@ -253,7 +282,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
                         <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
                                 <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
                                     <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
-                                            <a href="/cat1_2000_babies-kids.html">$&nbsp;Babies &amp; Kids <font class="count">(149) </font></a>
+                                            <a href="/cat1_2000_babies-kids.html">$&nbsp;Babies &amp; Kids <font class="count">(152) </font></a>
                                         </td></tr>
                                 </tbody></table>
                             </td></tr>
@@ -261,7 +290,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
                         <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
                                 <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
                                     <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
-                                            <a href="/cat1_3000_cars-automotive.html">$&nbsp;Cars &amp; Automotive <font class="count">(137) </font></a>
+                                            <a href="/cat1_3000_cars-automotive.html">$&nbsp;Cars &amp; Automotive <font class="count">(139) </font></a>
                                         </td></tr>
                                 </tbody></table>
                             </td></tr>
@@ -269,7 +298,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
                         <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
                                 <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
                                     <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
-                                            <a href="/cat1_1000_clothing-accessories.html">$&nbsp;Clothing &amp; Accessories <font class="count">(211) </font></a>
+                                            <a href="/cat1_1000_clothing-accessories.html">$&nbsp;Clothing &amp; Accessories <font class="count">(216) </font></a>
                                         </td></tr>
                                 </tbody></table>
                             </td></tr>
@@ -277,7 +306,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
                         <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
                                 <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
                                     <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
-                                            <a href="/cat1_5000_electronics.html">$&nbsp;Electronics <font class="count">(309) </font></a>
+                                            <a href="/cat1_5000_electronics.html">$&nbsp;Electronics <font class="count">(331) </font></a>
                                         </td></tr>
                                 </tbody></table>
                             </td></tr>
@@ -285,7 +314,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
                         <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
                                 <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
                                     <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
-                                            <a href="/cat1_16000_energy-utilities.html">$&nbsp;Energy &amp; Utilities <font class="count">(199) </font></a>
+                                            <a href="/cat1_16000_energy-utilities.html">$&nbsp;Energy &amp; Utilities <font class="count">(204) </font></a>
                                         </td></tr>
                                 </tbody></table>
                             </td></tr>
@@ -293,7 +322,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
                         <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
                                 <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
                                     <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
-                                            <a href="/cat1_6000_entertainment.html">$&nbsp;Entertainment <font class="count">(226) </font></a>
+                                            <a href="/cat1_6000_entertainment.html">$&nbsp;Entertainment <font class="count">(232) </font></a>
                                         </td></tr>
                                 </tbody></table>
                             </td></tr>
@@ -301,7 +330,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
                         <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
                                 <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
                                     <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
-                                            <a href="/cat1_9000_food-dining-out.html">$&nbsp;Food &amp; Dining Out <font class="count">(1208) </font></a>
+                                            <a href="/cat1_9000_food-dining-out.html">$&nbsp;Food &amp; Dining Out <font class="count">(1239) </font></a>
                                         </td></tr>
                                 </tbody></table>
                             </td></tr>
@@ -309,7 +338,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
                         <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
                                 <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
                                     <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
-                                            <a href="/cat1_10000_health-beauty.html">$&nbsp;Health &amp; Beauty <font class="count">(401) </font></a>
+                                            <a href="/cat1_10000_health-beauty.html">$&nbsp;Health &amp; Beauty <font class="count">(413) </font></a>
                                         </td></tr>
                                 </tbody></table>
                             </td></tr>
@@ -317,7 +346,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
                         <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
                                 <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
                                     <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
-                                            <a href="/cat1_19000_holidays-events.html">$&nbsp;Holidays &amp; Events <font class="count">(286) </font></a>
+                                            <a href="/cat1_19000_holidays-events.html">$&nbsp;Holidays &amp; Events <font class="count">(294) </font></a>
                                         </td></tr>
                                 </tbody></table>
                             </td></tr>
@@ -325,7 +354,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
                         <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
                                 <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
                                     <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
-                                            <a href="/cat1_11000_home-garden.html">$&nbsp;Home &amp; Garden <font class="count">(914) </font></a>
+                                            <a href="/cat1_11000_home-garden.html">$&nbsp;Home &amp; Garden <font class="count">(931) </font></a>
                                         </td></tr>
                                 </tbody></table>
                             </td></tr>
@@ -333,7 +362,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
                         <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
                                 <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
                                     <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
-                                            <a href="/cat1_21000_insurance-legal.html">$&nbsp;Insurance &amp; Legal <font class="count">(85) </font></a>
+                                            <a href="/cat1_21000_insurance-legal.html">$&nbsp;Insurance &amp; Legal <font class="count">(89) </font></a>
                                         </td></tr>
                                 </tbody></table>
                             </td></tr>
@@ -341,7 +370,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
                         <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
                                 <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
                                     <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
-                                            <a href="/cat1_7000_personal-finance.html">$&nbsp;Personal Finance <font class="count">(563) </font></a>
+                                            <a href="/cat1_7000_personal-finance.html">$&nbsp;Personal Finance <font class="count">(585) </font></a>
                                         </td></tr>
                                 </tbody></table>
                             </td></tr>
@@ -349,7 +378,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
                         <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
                                 <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
                                     <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
-                                            <a href="/cat1_13000_school-office.html">$&nbsp;School &amp; Office <font class="count">(96) </font></a>
+                                            <a href="/cat1_13000_school-office.html">$&nbsp;School &amp; Office <font class="count">(97) </font></a>
                                         </td></tr>
                                 </tbody></table>
                             </td></tr>
@@ -357,7 +386,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
                         <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
                                 <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
                                     <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
-                                            <a href="/cat1_14000_sports-recreation.html">$&nbsp;Sports &amp; Recreation <font class="count">(139) </font></a>
+                                            <a href="/cat1_14000_sports-recreation.html">$&nbsp;Sports &amp; Recreation <font class="count">(145) </font></a>
                                         </td></tr>
                                 </tbody></table>
                             </td></tr>
@@ -365,7 +394,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
                         <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
                                 <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
                                     <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
-                                            <a href="/cat1_23000_travel.html">$&nbsp;Travel <font class="count">(140) </font></a>
+                                            <a href="/cat1_23000_travel.html">$&nbsp;Travel <font class="count">(144) </font></a>
                                         </td></tr>
                                 </tbody></table>
                             </td></tr>
@@ -373,7 +402,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
                         <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
                                 <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
                                     <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
-                                            <a href="/cat1_17000_general.html">$&nbsp;General  <font class="count">(1931) </font></a>
+                                            <a href="/cat1_17000_general.html">$&nbsp;General  <font class="count">(2089) </font></a>
                                         </td></tr>
                                 </tbody></table>
                             </td></tr>
@@ -381,7 +410,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
                         <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
                                 <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
                                     <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
-                                            <a href="/cat1_22000_q-a.html">$&nbsp;Q &amp; A <font class="count">(330) </font></a>
+                                            <a href="/cat1_22000_q-a.html">$&nbsp;Q &amp; A <font class="count">(344) </font></a>
                                         </td></tr>
                                 </tbody></table>
                             </td></tr>
