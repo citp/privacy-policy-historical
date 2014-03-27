@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowoutlook.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214040534id_/http%3A//www.knowoutlook.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowoutlook.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327104412id_/http%3A//www.knowoutlook.com/privacy.php) for the most accurate reproduction.*
 
 # KnowOutlook.com - Help with Outlook - Teach Microsoft Outlook
 
