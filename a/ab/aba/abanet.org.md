@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abanet.org privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513102831id_/http%3A//www.americanbar.org/content/aba/utility/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abanet.org privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327054945id_/http%3A//www.americanbar.org/content/aba/utility/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,13 +24,13 @@ Once collected, we may use your Personally Identifiable Information in a variety
 
   * Provide service communications such as bill reminders, order confirmations, program registrations, and customer service messages
   * Answer your emails or online requests
-  *  Deliver and process surveys
+  * Deliver and process surveys
   * Personalize and improve the usability of the Sites
   * Fulfill and/or deliver ABA products and services
   * Publish membership directories and registration lists as described below
-  * Sharing with our business partners to offer you products and services that may be of interest to you as described below
+  * Sharing with certain other companies to offer you products and services that may be of interest to you as described below
   * Sharing with third parties as required by law or to protect the ABA as described below
-  *  Sharing your Email Address as permitted under ABA Email Policy as described below
+  * Sharing your Email Address as permitted under ABA Email Policy as described below
 
 
 
@@ -38,11 +38,11 @@ Once collected, we may use your Personally Identifiable Information in a variety
 
  **Sharing your Personally Identifiable Information to Fulfill Service Requests.** When fulfilling service requests initiated by you, we may share your Personally Identifiable Information with certain third parties to fulfill the requests.
 
- **Sharing your Personally Identifiable Information With Our Business Partners.** The ABA may share Personally Identifiable Information, other than email address and financial account information, with our business partners in order to provide them an opportunity to offer products or services that may be of interest to you, which helps contribute non-dues revenue to the ABA. The ABA also occasionally hires other companies to provide limited services on our behalf including, but not limited to, packaging, mailing and delivering promotional offers, sweepstakes or contests, answering customer questions about products or services, consulting services, data modeling, printing, sending postal mail and processing event registration.
+ **Sharing your Personally Identifiable Information With Certain Other Companies.** The ABA may share Personally Identifiable Information, other than email address and financial account information, with certain other companies in order to provide them an opportunity to offer products or services that may be of interest to you, which helps contribute non-dues revenue to the ABA. The ABA also occasionally hires other companies to provide limited services on our behalf including, but not limited to, packaging, mailing and delivering promotional offers, sweepstakes or contests, answering customer questions about products or services, consulting services, data modeling, printing, sending postal mail and processing event registration.
 
  **Sharing Your Personally Identifiable Information When Legally Necessary or to Protect the ABA’s interests.** The ABA may disclose your Personally Identifiable Information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process served on the ABA; (b) protect and defend the rights or property of ABA; or (c) protect the personal safety of ABA personnel or members of the public in appropriate circumstances.
 
- **Sharing Your Email Address Pursuant to ABA Policy.** Your email address will only be used by the ABA and its entities. We do not sell or rent email addresses to anyone outside the ABA. The ABA will also not offer email addresses to unrelated third-parties, affiliates or ABA members
+ **Sharing Your Email Address Pursuant to ABA Policy.** Your email address will only be used by the ABA and its entities. We do not sell or rent email addresses to anyone outside the ABA. The ABA will also not share email addresses to unrelated third-parties, affiliates or ABA members
 
 ### How to Manage The Sharing Of Your Personally Identifiable Information
 
@@ -84,4 +84,4 @@ If you are a registered user of the Sites, subscriber to ABA publications, purch
 
 Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Accordingly, and despite our efforts, the ABA cannot guarantee or warrant the security of any information you transmit to us, or to or from our online products or services. If you have questions about this Privacy Policy, please [contact us](http://www.americanbar.org/utility/about_the_aba/contact.html).
 
-Last updated August 2, 2012
+Last updated January 24, 2014
