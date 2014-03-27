@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picbaran.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209234801id_/http%3A//www.picbaran.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picbaran.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327220357id_/http%3A//www.picbaran.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Welcome to , a free image upload solution. Simply browse, select, and upload!
 
