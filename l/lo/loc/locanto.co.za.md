@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the locanto.co.za privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425222642id_/http%3A//www.locanto.co.za/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locanto.co.za privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327015703id_/http%3A//www.locanto.co.za/info/privacy) for the most accurate reproduction.*
 
 # Locanto Info pages
 
@@ -82,4 +82,4 @@ Personal information provided to Locanto may be requested for deletion at any ti
 
 ### Responsible authority
 
-Questions regarding data privacy and protection should be addressed to Sorry, you need JavaScript ON to see the email address (spam protection).
+Questions regarding data privacy and protection should be addressed to [privacy@locanto.co.za](mailto:privacy@locanto.co.za)
