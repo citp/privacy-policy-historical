@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cambridge-news.co.uk privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210061630id_/http%3A//www.cambridge-news.co.uk/Home/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cambridge-news.co.uk privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327143232id_/http%3A//www.cambridge-news.co.uk/Home/Privacy-Policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | Cambridge News | Latest News Headlines From Cambridge City & Cambridgeshire | National News By Cambridge News
+# Privacy Policy | Cambridge News | Latest News Headlines From Cambridge City & Cambridgeshire | National News | Cambridge News
 
 **1.What is covered by the Privacy Policy?**
 
