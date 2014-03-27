@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the auctionexport.com privacy policy that was archived on 2013-08-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130812121926id_/https%3A//www.auctionexport.com/en/Home/Privacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the auctionexport.com privacy policy that was archived on 2014-03-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140327062213id_/https%3A//www.auctionexport.com/en/Home/Privacy_Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="utf-8">
@@ -16,7 +16,7 @@
 
     <link href="/Content/qTip2?v=rEU2GxxHCQtyq3CmrfihNxN1HRvoG1S2OuMT15zhT3I1" rel="stylesheet">
 
-    <link href="/Content/main_css?v=QMn9ibzBjDavNAiaduxuJqKxHLNZJsi9geJpTwwURfQ1" rel="stylesheet">
+    <link href="/Content/main_css?v=OLXawcDZKvSf2mCj-mOqLaNEKXoDhVRd8q-Oyr3ecJw1" rel="stylesheet">
 
     
     <link href="/Content/jQuery_Dropdown_CheckList?v=CA6wcdbbSSUfDGcHPoaiGvzdNrguAF6TJU4_fgqGFJY1" rel="stylesheet">
@@ -73,7 +73,7 @@
 
 <div style="padding-bottom:6px;">
     <table border="0" style="border-collapse: collapse; width: 100%; vertical-align: top;" id="id_main_header_table" class="no-print">
-        <tbody><tr style="text-align:right; height:97px;">
+        <tbody><tr style="text-align:right; height:97px;" class="c_Print_0Height">
             <td style="text-align:left; vertical-align:bottom;">
                 <img src="/images/Logo_Alt.png" border="0" onclick="location.href= &quot;/en/Inventory&quot;" style="cursor: pointer; display:block;">
             </td>
@@ -96,11 +96,11 @@
                                                 <input type="hidden" name="cx" value="partner-pub-0325800554253834:3u0fg27ux77">
                                                 <input type="hidden" name="cof" value="FORID:11">
                                                 <input type="hidden" name="ie" value="UTF-8">
-                                                <input type="text" name="q" value="" size="25" id="id_GoogleSearch_input"> 
+                                                <input type="text" name="q" value="" size="25" id="id_GoogleSearch_input">
                                                 <div style="font-family: arial, sans-serif; color: black; text-align: left;">
                                                     <small>Google Us "Auction Export"</small>
                                                 </div>
-                                            </div> 
+                                            </div>
 </form>                                    </td>
                                     <td style="vertical-align:top; padding-top:6px;">
                                         <img src="/images/SearchMiniButton_en.png" onclick="document.getElementById('cse-search-box').submit();" style="cursor:pointer;">
@@ -118,7 +118,7 @@
                                     <option value="fr">Français</option>
                                     <option value="de">Deutsch</option>
                                     <option value="es">Español</option>
-                                    <option value="ru">Русский</option> 
+                                    <option value="ru">Русский</option>
                                     <option value="pl">Polski</option>
                                     <option value="ar">العربية</option>
                                     <option value="zh">中国的</option>
@@ -127,7 +127,7 @@
                             <span>
                                 <img src="/images/Flags_mini/usa.gif" border="0" id="id_lang_flag">
                             </span>
-                        </td> 
+                        </td>
                     </tr>
                 </tbody></table>
             </td>
@@ -238,7 +238,9 @@ GREAT NEWS! VISIT OUR LIVE AUCTION "GO LIVE" AND PLACE YOUR BID IN REAL TIME. JO
 
 
 
-<img src="/images/fill_in_border.png">
+<div style="position:relative; height:33px;">
+        <div style="background:url('/images/Background_VLine_Blue_SemiTransparent.png') repeat-x; height:43px; width:100%; position:absolute; z-index:0;">&nbsp;</div>
+    </div>
 
 <div align="left" style="padding: 15px;">
     <br>
@@ -368,7 +370,7 @@ The use of cookies is an industry standard, and you will find them used on most 
 					<a class="a2" target="_blank" href="/en/Home/Terms_And_Conditions">Terms And Conditions</a> &nbsp;|
 					<a class="a2" href="/en/Home/Links">Links</a>&nbsp;|
    					<a class="a2" href="http://www.auctionexport.com/sitemap.html">Sitemap</a>  
-                    <span style="white-space:nowrap;">© Copyright 2013 Auction Export.com All Rights Reserved &nbsp;</span>
+                    <span style="white-space:nowrap;">Copyright © 2007-2014 Auction Export.com All Rights Reserved &nbsp;</span>
 
                     <div align="right">
                        
@@ -450,7 +452,7 @@ The use of cookies is an industry standard, and you will find them used on most 
 
     <script src="/bundles/MenuHeader?v=789SfjjUE325v8Bl1sQGalvEIBtol-RoWsRdznWAA5o1"></script>
 
-    <script src="/bundles/Main?v=2H6sG9BxpUH7zib-xO3UiKE11LEjo1upmGTV1k_clOo1"></script>
+    <script src="/bundles/Main?v=dn6vjKSZQNeZLOrMXHAnI48DBWBeV-8xF8h0bxvs7Sk1"></script>
 
     <script src="/bundles/jQuery_Dropdown_CheckList?v=xfH1lo3ecGUIT-Gl-CnH9EtnkFcS89EiRfuIrF14MOQ1"></script>
 
@@ -481,28 +483,19 @@ The use of cookies is an industry standard, and you will find them used on most 
 <script type="text/javascript">
     function init_mini_menu() {
         set_LiveChat_position();
+         
+ 
 
-        var dt = new Date();
-        if ("Monday" != 0 && "Monday" != 6) {
-            var varIsLiveChatActive = false;
+        var varIsLiveChatOnline = 'False';
 
-            if (("8" >= 4) && ("8" < 18)) {
-                varIsLiveChatActive = true;
-            }
-
-            if ("8" == 3 && "19" > 30) {
-                varIsLiveChatActive = true;
-            }
-
-            if (varIsLiveChatActive == false) {
-                $('#id_LiveChat_Btn').attr("src", "/images/live_chat_inactive.png");
-                $('#id_LiveChat_Btn').click(function () { alert('Live chat is currently offline'); });
-            }
-            else {
-                $('#id_LiveChat_Btn').click(function () {
-                    any_pop("http://support.auctionexport.com/Chat/frmClientPreChat.aspx?InfoGuid=727e74ca70004051b621a574ddbb830d&config=1", "600", "458");
-                });
-            }
+        if (varIsLiveChatOnline == "False") {
+            $('#id_LiveChat_Btn').attr("src", "/images/live_chat_inactive.png");
+            $('#id_LiveChat_Btn').click(function () { alert('Live chat is currently offline'); });
+        }
+        else {
+            $('#id_LiveChat_Btn').click(function () {
+                any_pop("http://support.auctionexport.com/Chat/frmClientPreChat.aspx?InfoGuid=727e74ca70004051b621a574ddbb830d&config=1", "600", "458");
+            });
         }
     }
 
@@ -519,10 +512,11 @@ The use of cookies is an industry standard, and you will find them used on most 
 
 <div class="processPanel no-print" style="top: 295px; right: 0px;" id="id_LiveChat_Container">
     <div class="processFor_panel">
-        <img id="id_LiveChat_Btn" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1.0;" src="/images/Btn_LiveChat_Vertical_Blue_en.png" style="cursor: pointer;">
+        <img id="id_LiveChat_Btn" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1.0;" src="/images/live_chat_inactive.png" style="cursor: pointer;">
     </div>
 </div>
 
+    
 
 
     <input id="id_TwoLetterLocale" type="hidden" value="en">
