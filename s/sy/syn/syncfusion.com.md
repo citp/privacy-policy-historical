@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syncfusion.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217135237id_/http%3A//www.syncfusion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syncfusion.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327060313id_/http%3A//www.syncfusion.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Syncfusion
 
