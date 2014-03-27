@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techsatish.net privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518171535id_/http%3A//techsatish.net/2010/04/techsatish-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsatish.net privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327060405id_/http%3A//www.techsatish.net/2013/05/techsatish-privacy-policy.html) for the most accurate reproduction.*
 
-# techsatish.net - you love it! >> tamil movies watch online,tamil serials watch online,tamil tv shows online,tamil fm radio online,tamil tv channels live
+# TECHSATISH Privacy Policy - techsatish.net - tamil tv serials,tamil tv shows,tamil magazines,tamil mp3 songs
 
 TECHSATISH Privacy Policy
 
@@ -18,8 +18,4 @@ TECHSATISH may update this policy. We will notify you about significant changes 
 
 Questions and Suggestions
 
-If you have questions or suggestions, please email us at:info@techsatish.com
-
-Rate this posting: 
-
-{[['']]}
+If you have questions or suggestions, please email us at:info@techsatish.com 
