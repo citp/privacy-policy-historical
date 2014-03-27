@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the bistromd.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602182728id_/http%3A//www.bistromd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bistromd.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327054013id_/http%3A//www.bistromd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | bistroMD
 
 Bistro MD, LLC (“BistroMD”) respects the privacy of every individual and is committed to protecting your privacy. This Privacy Policy provides information on the manner in which your personal information obtained through your use of www.bistromd.com or related sites (together, the “Website”) is processed and used on this Website. BistroMD uses your personal information only in ways that are compatible with this Privacy Policy. In addition to reviewing this Privacy Policy, please read our Terms and Conditions of Use. Your use of the Website constitutes agreement to its terms and conditions. This Privacy Policy does not cover information collected on sites linked to from the Website.
 
 **Information Collected.** BistroMD collects personal information from you (for example, your name, postal address, email address, and other data) when you provide personal data through our Website. The Website generally collects personally identifying information with your specific knowledge and consent. For instance, when you complete a survey, make a purchase, subscribe to our publication(s), or register for any portion of our services, you are asked to provide information such as your email address, name or phone number. Optional information such as your age or gender may also be requested. BistroMD does not sell the email addresses of its customers.
+
+**This website does not respond to Do Not Track signals.**
 
 **Third Party Access.** We allow access to our database by third parties that provide us with services, such as technical maintenance and search software, but only for the purpose of and to the extent necessary to provide those services. If you choose to purchase items through features on our Website, we may forward your information to third parties for services such as credit card processing and order fulfillment. There also may be occasion when we are legally required to provide access to our database in order to cooperate with investigations or other legal proceedings. In those instances, the information is provided only for that purpose. While your individual information is protected as outlined above, we reserve the right to use, transfer, sell, and share aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners.
 
@@ -30,5 +32,6 @@ If you don not want any cookies, your web browser likely includes an option that
 
 If you have other concerns or questions about any aspect of this Privacy Policy, you may email us at CustomerService@BistroMD.com.  
   
-This website is only for the purpose of providing information and should not be substituted for the advice of your doctor.   
+This website is only for the purpose of providing information and should not be substituted for the advice of your doctor. 
+
 Please consult with your doctor before starting any weight loss program or supplement.
