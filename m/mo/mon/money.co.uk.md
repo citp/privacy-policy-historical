@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the money.co.uk privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218073043id_/http%3A//www.money.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the money.co.uk privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327063023id_/http%3A//www.money.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
 # money.co.uk Privacy Policy
 
