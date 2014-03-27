@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the techisay.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231014734id_/http%3A//www.techisay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techisay.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327092652id_/http%3A//www.techisay.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TechiSay
 
 This privacy policy sets out how TechiSay uses and protects any information that you give to TechiSay when you use this website.
 
 TechiSay is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+
+Sponsored Link 
 
 TechiSay may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Dec 25, 2013.
 
