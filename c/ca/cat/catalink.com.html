@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the catalink.com privacy policy that was archived on 2013-07-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130726064000id_/http%3A//www.catalink.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the catalink.com privacy policy that was archived on 2014-03-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140327102511id_/http%3A//www.catalink.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -8,112 +8,159 @@
 <meta name="keywords" content="Catalink Privacy Policy">
 <title>Catalink Privacy Policy</title>
 <link rel="Shortcut Icon" href="/favicon.ico">
-<script type="text/javascript">
-var ADAPT_CONFIG = {
-  path: '/css/',
-  dynamic: true,
-  range: [
-    '0px    to 480px  = stylesheet-mobile.css',
-    '480px  to 1024px  = stylesheet-normal.css',
-    '1024px  to 3280px = stylesheet-wide.css'
-  ]
-};
-</script>
-<script type="text/javascript" src="/javascript/adapt.min.js"></script>
+<link rel="stylesheet" type="text/css" media="only screen and (min-width: 900px)" href="/css/stylesheet-wide.css">
+<link rel="stylesheet" type="text/css" media="only screen and (max-device-width: 600px)" href="/css/stylesheet-mobile.css">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/javascript/adapt.min.js"></script>
 <link rel="stylesheet" type="text/css" href="/css/stylesheet.css">
-
   
- <script language="JavaScript" src="/javascript/catalink.js"></script>
- 
-    <script type="text/javascript" src="/javascript/jquery-1.8.3.min.js"></script>    
-  <link type="text/css" href="/javascript/jquery-ui-1_9_0/css/ui-lightness/jquery-ui-1.9.0.custom.css" rel="stylesheet">
-<script src="/javascript/jquery-ui-1_9_0/js/jquery-ui-1.9.0.custom.min.js"></script> 
+<script type="text/javascript" src="/javascript/catalink.js"></script>
+<script type="text/javascript" src="http://code.jquery.com/jquery-2.1.0.min.js"></script>    
+<link type="text/css" href="http://code.jquery.com/ui/1.9.2/themes/ui-lightness/jquery-ui.css" rel="stylesheet"> 
+<script type="text/javascript" src="http://code.jquery.com/ui/1.9.2/jquery-ui.min.js"></script> 
+<script language="javascript" src="/javascript/utilities.js"></script> 
      
-    <script type="text/javascript" src="http://apis.google.com/js/plusone.js"> 
+<script type="text/javascript" src="http://apis.google.com/js/plusone.js"> 
   {lang: 'en-GB'}
 </script>
-
-  <script type="text/javascript">
-    function toggleFloating() {
-      $('#floatingbar .baropen').animate({width:'toggle'}, 200);
-      $('#floatingbar .closed').toggle();
-    }
-  </script>
+<script type="text/javascript">
+  function toggleFloating() {
+    $('#floatingbar .baropen').animate({width:'toggle'}, 200);
+    $('#floatingbar .closed').toggle();
+  }
+</script>
 <script type="text/javascript" src="/javascript/common.js">
 </script>
-  <script type="text/javascript">
-    $(function() {
-      $("#dialog").dialog();
-      $("#dialog").dialog({width: 400});
-      $("#dialog").dialog({maxWidth: 400});
-      $("#dialog").dialog({height: 150});
-      $("#dialog").dialog({maxHeight: 150});
-      $("#dialog").dialog({position: "right"});
-      $("#dialog").dialog({resizable: false});
+<link type="text/css" href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
+<script>  
+function trim(str) {
+  return str.replace(/^\s+|\s+$/g,"");
+}
+function check_search() {
+  var error = 0;
+  var error_message = "Errors have occured during the process of your form!\nPlease complete the following missing or incorrect fields: \n\n";
+  var query_string = document.search.query.value;
+  trimmed_query_string = trim(query_string);
+  if (trimmed_query_string = "" || trimmed_query_string.length < 3) {
+    error_message = error_message + "* Please ensure that you enter a search term of three characters or more.\n";
+    error = 1;
+  }
+  if (error == 1) {
+    alert(error_message);
+    return false;
+  } else {
+    return true;
+  }
+}
+</script>
+<link type="text/css" href="/css/searchbox-style.css" rel="stylesheet" media="screen">
+<script type="text/javascript">
+	jQuery(document).ready(function(e) {
+		jQuery("#searchCategory").change(function(){
+			var currentSelection = jQuery("#searchCategory option:selected").text();
+			jQuery("#searchValue").html(currentSelection);
+			});
+			jQuery("#searchCategory").click(function(){
+				jQuery("#selectContainer").toggleClass('isActive');return false;	
+			});
     });
-  </script>
-  <link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
-  <link href="/css/bootstrap-select.min.css" rel="stylesheet" media="screen">
-  <script type="text/javascript" src="/javascript/bootstrap-select.min.js"></script>
+	jQuery(document).bind('click', function (e) {
+				jQuery("#selectContainer").removeClass('isActive');;
+		});
+</script>
 </head>
 <body>
 <div class="main">
 <a href="http://www.catalink.com/mytrap.php" title=""></a>
-
-<table align="center" cellpadding="0" cellspacing="0" width="978">
-  <tbody><tr>
-    <td valign="top"><img src="/images/sitesponsorship/shadow_top.png" width="978" height="10"></td>
-  </tr>
-</tbody></table>
-
-<table align="center" cellpadding="0" cellspacing="0" width="978">
-  <tbody><tr>
-    <td width="10" style="background: url('/images/sitesponsorship/left_background_shadow.png') repeat-y; background-position: right top;" valign="top"> </td>
-    <td valign="top" bgcolor="white">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+<tbody><tr>
+  <td valign="top">&nbsp;</td>
+  <td valign="top">
+<table id="table_01" border="0" cellpadding="0" cellspacing="0" align="center">
+	<tbody><tr>
+	  <td valign="top" style="background: url('/images/sitesponsorship/visitwales2014/left_background_shadow.png') repeat-y; background-position: right top;"><div id="left-column-top-sponsor-on" style="display:none"><table width="140" cellpadding="0" cellspacing="0" border="0">
+	    <tbody><tr>
+	      <td valign="top" height="377" style="background: url('images/sitesponsorship/visitwales2014/panel_topleft.jpg') repeat-y; background-position: right top;"><a href="http://www.catalink.com/visit-wales-brochure/p/003049"><img src="/images/sitesponsorship/visitwales2014/shadow_panel_topleft.png" width="140" height="377" alt="Catalink.com Sponsored by Visit Wales"></a></td>
+	    </tr>
+      <tr>
+          <td valign="top" height="376" style="background: url('/images/sitesponsorship/visitwales2014/panel_botleft.jpg') repeat-y; background-position: right top;"><a href="http://www.catalink.com/visit-wales-brochure/p/003049"><img src="/images/sitesponsorship/visitwales2014/shadow_panel_botleft.png" width="140" height="376" alt="Request the Visit Wales Brochure"></a></td>
+      </tr>
+	  </tbody></table></div><div id="left-column-top-sponsor-off" style="display:none"><table width="10" cellpadding="0" cellspacing="0" border="0">
+	    <tbody><tr>
+	       <td valign="top" height="100%" style="background: url('/images/sitesponsorship/left_background_shadow.png') repeat-y; background-position: right top;"></td>
+	       </tr>
+	       </tbody></table>
+	       </div></td>
+<td width="958" valign="top"><table width="958" cellpadding="0" cellspacing="0" style="border-left:1px solid black;border-right:1px solid black;">
+	    <tbody><tr>
+	      <td valign="top"><img src="/images/sitesponsorship/visitwales2014/shadow_top.png" width="958" height="6" alt="Catalink Sponsored by Visit Wales" border="0"></td>
+	    </tr>
+	    <tr>
+	      <td valign="top" bgcolor="white">
 <div class="toplogo">
   <table cellspacing="2" cellpadding="2" style="bgcolor: #ffffff;" width="100%" class="mobile-logo">
   <tbody><tr>
     <td align="left" width="300" valign="top"><a href="/">
-		  <img src="/images/2011/catalink-230x57-1005.png" alt="Catalink.com" border="0" width="230" height="57" title="Catalink.com">
-		</a></td>
-    <td align="center">
-            
-      
-      </td>
-    <td align="right" width="380" valign="top" style="padding-top:4px" nowrap="nowrap">
-    	<a href="/create_account.php" rel="nofollow">JOIN CATALINK</a> |  <a href="https://www.catalink.com/logins.php" rel="nofollow">LOGIN</a>    | 
-
-<!-- BEGIN PHP Live! code, (c) OSI Codes Inc. --><span id="phplive_btn_1355886906" onclick="phplive_launch_chat_2(0)" style="color: blue; text-decoration: none; cursor: pointer;"><script type="text/javascript" async="" src="http://t2.phplivesupport.com/catalink/js/phplive_v2.js.php?q=2|1355886906|1|LIVE%20HELP"></script></span><script type="text/javascript">(function() { var phplive_e_1355886906 = document.createElement("script") ; phplive_e_1355886906.type = "text/javascript" ; phplive_e_1355886906.async = true ; phplive_e_1355886906.src = "http://t2.phplivesupport.com/catalink/js/phplive_v2.js.php?q=2|1355886906|1|LIVE%20HELP" ; document.getElementById("phplive_btn_1355886906").appendChild( phplive_e_1355886906 ) ; })() ;</script><!-- END PHP Live! code, (c) OSI Codes Inc. -->
-   |  <a id="catmenu" href="#" onmouseover="document.getElementById('catitems').style.visibility='visible'" onmouseout="document.getElementById('catitems').style.visibility='hidden'" style="color:red" rel="nofollow">HOW IT WORKS</a>
-    <br><br>
-
-</td></tr>
+<img src="/images/2011/catalink-230x57-1005.png" alt="Catalink.com" border="0" width="230" height="57" title="Catalink.com"></a></td>
+    <td align="right" width="380" valign="top" style="padding-top:4px;font-size:12px;" nowrap="nowrap">
+    	<a href="/create_account.php" rel="nofollow">JOIN CATALINK</a> |  <a href="https://www.catalink.com/logins.php" rel="nofollow">LOGIN</a>   | 
+<!-- BEGIN PHP Live! code, (c) OSI Codes Inc. -->
+<span id="phplive_btn_1355886906" onclick="phplive_launch_chat_2(0)" style="color: blue; text-decoration: none; cursor: pointer;"><script type="text/javascript" async="" src="http://t2.phplivesupport.com/catalink/js/phplive_v2.js.php?q=2|1355886906|1|LIVE%20HELP"></script></span><script type="text/javascript">(function() { var phplive_e_1355886906 = document.createElement("script") ; phplive_e_1355886906.type = "text/javascript" ; phplive_e_1355886906.async = true ; phplive_e_1355886906.src = "http://t2.phplivesupport.com/catalink/js/phplive_v2.js.php?q=2|1355886906|1|LIVE%20HELP" ; document.getElementById("phplive_btn_1355886906").appendChild( phplive_e_1355886906 ) ; })() ;</script>
+<!-- END PHP Live! code, (c) OSI Codes Inc. -->
+ |  <a href="/how-catalink-works.php" style="color:red">HOW IT WORKS</a><br><br></td></tr>
   </tbody></table>
-    <div id="catitems" style="position:absolute;  left: 500px; top:24px;visibility:hidden; width:400px;background-color:#ffffff; color:#999999;z-index:99" onmouseover="this.style.visibility='visible'" onmouseout="this.style.visibility='hidden'"><table width="400" align="center" cellpadding="8" cellspacing="0" style="border-color : red;  border-style : solid; border-width : 2px;color:#666666">
-      <tbody><tr>
-        <td bgcolor="#FFFFFF" colspan="2"><b>Welcome to Catalink,</b><br>Catalink contains hundreds of Catalogues, Brochures and eNewsletters, all of which are completely <b>FREE</b>. Simply sign up for an account using the "<a href="/create_account.php"><b>JOIN CATALINK</b></a>" link at the top right of the page, and request your catalogues or brochures, and they will be delivered to your home completely Free of Charge.<br><br>Why not sign up today and <b>join over 2 million other Catalink members</b> who have already benefitted from our website and come back regularly!</td>
-      </tr>
-    </tbody></table></div>
 	</div>
 
-<div class="topnavcat"><div class="cell"></div></div>	
-<form action="/search.php" method="get">
-  <div class="topnav">
-	  <div class="cell" onclick="document.location='/'" style="cursor:pointer;"><img src="/images/home-icon30.gif" width="28" height="30" alt="Catalink Home"></div>
-		<div class="cell"><div class="topnavcaton"><a href="/catalogues.php">CATALOGUES</a></div></div>
-		<div class="cell"><div style="line-height: 14px;"><div class="topnavbrooff"><a href="/brochures.php">&nbsp;&nbsp;HOLIDAY<br>BROCHURES</a></div></div></div>
-		<div class="cell"><div class="topnavretoff"><a href="/enewsletters.php">eNEWSLETTERS</a></div></div>
-		<div class="cell"><div class="topnavretoffleisure"><a href="/uk-holidays.php">UK HOLIDAYS</a></div></div>
-	<div class="cell"><div style="line-height: 14px;" align="center"><div class="topnavretoffpdf"><a href="/online_brochures.php">ONLINE<br>BROCHURES</a></div></div></div>
-				<div class="cell"><input type="hidden" name="type" value="catalogue">&nbsp;<input type="text" name="query" style="margin-bottom:3px;" size="16">&nbsp;<button class="btn btn-mini"><i class="icon-search"></i> Search Catalogues</button></div>	
+<div class="topnavcat"><div class="cell"></div></div>    <div class="topnav">
+      <div class="cell"><div class="topnavcaton"><a href="/catalogues.php">CATALOGUES</a></div>
+      </div>
+      <div class="cell">
+        <div style="line-height: 20px;"><div class="topnavbrooff"><a href="/brochures.php">HOLIDAY<br>BROCHURES</a></div>
+        </div>
+      </div>
+      <div class="cell"><div class="topnavretoff"><a href="/enewsletters.php">eNEWSLETTERS</a></div>
+      </div>
+      <div class="cell"><div class="topnavretoffleisure"><div style="line-height: 20px;"><a href="/uk-holidays.php">UK VISITOR<br>GUIDES</a></div>
+      </div>
+      </div>
+      <div class="cell">
+       
+<div class="topnavretoffpdf"> <div style="line-height: 20px;"><a href="/online_brochures.php">ONLINE<br>BROCHURES</a></div>
+        </div>
+   </div>
+                <div class="searchcell">
+                  <div class="searchNav"><form class="searchNavInner" method="get" action="http://www.catalink.com/search.php" onsubmit="return check_search();">
+                    <span id="selectContainer">
+                      <span id="searchValue">All</span>
+                      <span class="arrowDown"></span>
+                      <select title="Search in" id="searchCategory" name="type">
+                        <option value="all" selected="selected">All</option>
+                        <option value="brochure">Brochures</option>
+                        <option value="catalogue">Catalogues</option>
+                        <option value="enewsletter">eNewletters</option>
+                        <option value="ukholiday">UK Visitor Guides</option>
+                        <option value="download">Online Brochures</option>
+                      </select>
+                    </span>
+                    <div class="mainSearchContainer">
+                      <div id="mainSearchInner">
+                        <input type="text" name="q" placeholder="Search..." value="" title="Search For" id="mainSearch">
+                      </div>
+                    </div>
+                    <div class="searchBtn">
+                      <input type="submit" title="Go" value="Go">
+                    </div>
+                  </form>
+                </div>
+
 	</div>
-</form>
-<table width="100%" id="table_01" border="0" cellpadding="1" cellspacing="1" align="center" style="background-color:#f02e2e;border-top:1px solid black;"><tbody><tr><td align="left" style="padding-left:10px;font-size:10px; color:white;" class="smaller_text">CATALOGUE SHOWCASES: 
-	  &nbsp; <a href="http://www.catalink.com/showcase/organics-catalogues.php" style="color:white;">Organics Catalogues</a> &nbsp; | 
-	  &nbsp; <a href="http://www.catalink.com/showcase/home-catalogues.php" style="color:white;">Home Catalogues</a> &nbsp; | 
-	  &nbsp; <a href="http://www.catalink.com/showcase/gardening-catalogues.php" style="color:white;">Gardening Catalogues</a> &nbsp; | 	
-	  &nbsp; <a href="http://www.catalink.com/showcase/offers-catalogues.php" style="color:white">Offers</a> &nbsp; |
-	  &nbsp; <a href="http://www.catalink.com/showcase/which-catalogues.php" style="color:white">Which? Guides</a> &nbsp;
+</div>
+
+<table width="100%" id="table_01" border="0" cellpadding="1" cellspacing="1" align="center" style="background-color:#f02e2e;border-top:1px solid black;"><tbody><tr><td align="left" style="padding-left:11px;font-size:11px; color:white;" class="smaller_text">CATALOGUE SHOWCASES: 
+	  &nbsp; <a href="/showcase/organics-catalogues.php" style="color:white;">Organics Catalogues</a> &nbsp; | 
+	  &nbsp; <a href="/showcase/home-catalogues.php" style="color:white;">Home Catalogues</a> &nbsp; | 
+	  &nbsp; <a href="/showcase/gardening-catalogues.php" style="color:white;">Gardening Catalogues</a> &nbsp; | 	
+	  &nbsp; <a href="/showcase/offers-catalogues.php" style="color:white">Offers</a> &nbsp; |
+	  &nbsp; <a href="/showcase/which-catalogues.php" style="color:white">Which? Guides</a> &nbsp;
 	  </td>
 	</tr>
 </tbody></table>	<div class="mainbg">
@@ -122,7 +169,7 @@ var ADAPT_CONFIG = {
     <form action="/create_account.php?action=next" method="post" name="login">
 <table width="100%" cellpadding="2"><tbody><tr><td style="color: #ae2407;font-size:12px;">SIGN UP FOR FREE MEMBERSHIP</td></tr>
 <tr>
-  <td>Join 2 Million Members &amp; Sign Up for a chance to <a href="competition4.php?id=17" style="color: #ae2407">Win £1000!</a></td>
+  <td>Join 3 Million Members &amp; Sign Up for a chance to <a href="competition13a.php?id=17" style="color: #ae2407">Win £1000!</a></td>
   </tr>
 <tr>
   <td><input type="text" name="email" value="Enter Email Address" size="14" onfocus="clearText(this)" onblur="clearText(this)">&nbsp;<button class="btn btn-success btn-mini"><i class="icon-white icon-pencil"></i> Sign up</button></td>
@@ -135,62 +182,25 @@ var ADAPT_CONFIG = {
       <!-- categories -->
   <table cellspacing="0" cellpadding="0" class="left_menu" bgcolor="white" width="100%" border="0">
     <tbody><tr>
-      <td valign="top" align="center"><span class="left_menu_title">CATALOGUE CATEGORIES</span><br>
+      <td valign="top" align="center">  <span class="left_menu_title">CATALOGUE CATEGORIES</span><br>
 		    <table cellspacing="0" cellpadding="0" class="left_menu_sub" bgcolor="white" width="100%" border="0">
           <tbody><tr>
             <td valign="top" align="left">
               <div class="leftnav">
-                  <a href="/activity-hobby-catalogues/c/11">Activity &amp; Hobbies</a>
-                                  <a href="/art-collectibles-catalogues/c/1">Art &amp; Collectible</a>
-                                  <a href="/arts-crafts-catalogues/c/10">Arts &amp; Crafts</a>
-                                  <a href="/book-catalogues/c/2">Book Catalogues</a>
-                                  <a href="/charity-catalogues/c/24">Charity Catalogues</a>
-                                  <a href="/childrens-catalogues/c/4">Children &amp; Nursery</a>
-                                  <a href="/christmas-catalogues/c/26">Christmas</a>
-                                  <a href="/computer-electrical-catalogues/c/5">Computer &amp; Electrical</a>
-                                  <a href="/education-catalogues/c/29">Education</a>
-                                  <a href="/over-50s-catalogues/c/28">Fifty Plus</a>
-                                  <a href="/finance-catalogues/c/30">Finance</a>
-                                  <a href="/food-drink-catalogues/c/6">Food &amp; Drink</a>
-                                  <a href="/gardening-catalogues/c/7">Gardening Catalogues</a>
-                                  <a href="/gift-catalogues/c/8">Gift Catalogues</a>
-                                  <a href="/health-fitness-catalogues/c/9">Health &amp; Fitness</a>
-                                  <a href="/brochures.php">Holiday &amp; Travel</a>
-  	                              <a href="/home-catalogues/c/13">Home Catalogues</a>
-                                  <a href="/home-entertainment-catalogues/c/14">Home Entertainment</a>
-                                  <a href="/kitchen-catalogues/c/15">Kitchen Catalogues</a>
-                                  <a href="/ladies-catalogues/c/16">Ladies Catalogues</a>
-                                  <a href="/mens-catalogues/c/17">Mens Catalogues</a>
-                                  <a href="/car-motorcycle-catalogues/c/18">Motorcycle &amp; Car</a>
-                                  <a href="/music-catalogues/c/19">Music</a>
-                                  <a href="/organics-natural-catalogues/c/25">Organics &amp; Natural</a>
-                                  <a href="/pets-animal-catalogues/c/20">Pet Catalogues</a>
-                                  <a href="/sports-catalogues/c/23">Sports Catalogues</a>
-                                  <a href="/wedding-catalogues/c/21">Wedding Catalogues</a>
-                              </div>
-            </td>
+<a href="/activity-catalogues/c/11">Activities</a><a href="/book-catalogues/c/2">Books</a><a href="/charity-catalogues/c/24">Charities</a><a href="/childrens-catalogues/c/4">Children</a><a href="/christmas-catalogues/c/26">Christmas</a><a href="/computer-electrical-catalogues/c/5">Computer &amp; Electrical</a><a href="/fifty-plus-catalogues/c/28">Fifty Plus</a><a href="/finance-catalogues/c/30">Finance</a><a href="/food-drink-catalogues/c/6">Food &amp; Drink</a><a href="/gardening-catalogues/c/7">Gardening</a><a href="/gift-catalogues/c/8">Gifts</a><a href="/health-fitness-catalogues/c/9">Health &amp; Fitness</a><a href="/hobbies-catalogues/c/36">Hobbies</a><a href="/home-improvement-catalogues/c/34">Home Improvement</a><a href="/homeware-catalogues/c/35">Homewares</a><a href="/ladies-catalogues/c/16">Ladies</a><a href="/mens-catalogues/c/17">Mens</a><a href="/organics-natural-catalogues/c/25">Organics &amp; Natural</a><a href="/pet-catalogues/c/20">Pets</a><a href="/sports-catalogues/c/23">Sports</a><a href="/travel-catalogues/c/37">Travel</a><a href="/wedding-catalogues/c/21">Weddings</a>            </div></td>
           </tr>
         </tbody></table>
       </td>
     </tr>
   </tbody></table>
-  <table cellspacing="0" cellpadding="0" class="left_menu" bgcolor="white" width="100%" border="0">
+  <table cellspacing="0" cellpadding="0" class="left_menu_sub" bgcolor="white" width="100%" border="0">
   <tbody><tr>
-<td valign="top" align="center"><span class="left_menu_title">POPULAR PAGES</span><br>
-		<table cellspacing="0" cellpadding="0" class="left_menu_sub" bgcolor="white" width="100%" border="0">
-  <tbody><tr>
-<td valign="top" align="left"><div class="leftnav"><a href="/catalogues.php">Catalogues</a>
-			   <a href="/clothes-catalogues/c/16/s/90">Clothes Catalogue</a>
-			   <a href="/furniture-catalogues/c/15/s/87">Furniture Catalogue</a>
-			   <a href="/fashion-accessories-catalogues/c/17/s/101">Fashion Catalogues</a>
-			  <a href="/brochures.php">Travel Brochures</a>
-			  <a href="/catalogue_archive.php">Catalogue Archive</a>
-</div></td>
-</tr>
-</tbody></table></td>
+<td valign="top" align="center"><a href="/catalogue_archive.php" style="color:gray">CATALOGUE ARCHIVE</a>
+</td>
 </tr>
 </tbody></table>
-<!-- categories_eof //-->		</div>
+<!-- categories_eof //-->
+		</div>
 		<div class="right">
 	  <div class="title01">Catalink Privacy Policy</div>
 		<div class="cataloguecontent">
@@ -286,7 +296,7 @@ var ADAPT_CONFIG = {
           <img src="/images/footer/dma-logo.gif" align="left" alt="Direct Marketing Association" vspace="10" hspace="10" width="50" height="61">
         </td>
         <td valign="top" align="center">
-          <p>Copyright © 1999-2013 - <a href="/aboutus.php">About Catalink</a> - <a href="http://blog.catalink.com" target="_blank">Blog</a> - <a href="/press.php">Press</a> - <a href="/testimonials.php">Testimonial</a> - <a href="/new_client_information.php">Become A Client</a> - <a href="/privacy_policy.php" rel="nofollow">Privacy Policy</a> - <a href="/contact_us.php" rel="nofollow">Contact Us</a> - <a href="/create_affiliate.php">Affiliate Program</a> - <a href="/ibrochures.php">iBrochures &amp; iCatalogues</a><br>
+          <p>Copyright © 1999-2014 - <a href="/aboutus.php">About Catalink</a> - <a href="http://blog.catalink.com" target="_blank">Blog</a> - <a href="/press.php">Press</a> - <a href="/testimonials.php">Testimonial</a> - <a href="/new_client_information.php">Become A Client</a> - <a href="/privacy_policy.php" rel="nofollow">Privacy Policy</a> - <a href="/contact_us.php" rel="nofollow">Contact Us</a> - <a href="/create_affiliate.php">Affiliate Program</a> - <a href="/ibrochures.php">iBrochures &amp; iCatalogues</a><br>
 		    <b><a href="http://www.lifestylemediagroup.co.uk" target="_blank">Lifestyle Media Group</a>:</b> <a href="http://www.catalink.com" target="_blank">Catalink</a>  | <a href="http://www.cashmachine.co.uk" target="_blank">Cash Machine</a> | <a href="http://www.catalogica.co.uk" target="_blank">Catalogica</a> |  <a href="http://www.travelbrochures.co.uk" target="_blank">Travel Brochures</a> |  <a href="http://www.uktourism.co.uk" target="_blank">UK Tourism</a> | <a href="http://www.enewsletters.co.uk" target="_blank">eNewsletters</a>  | <a href="http://www.cruiseholidaybrochures.co.uk" target="_blank">Cruises</a>  | <a href="http://www.hotelbrochures.co.uk" target="_blank">Hotels</a> | Cloud1 <br>
 		      <span style="color:gray;font-size:9px;font-family:arial;">Lifestyle Media Group Ltd - Unit D, Copley Hill Business Park, Cambridge Road, Babraham, Cambridge, CB22 3GN - Company No: 3871517 <a href="http://www.linkedin.com/company/lifestyle-media-group-ltd" target="_blank"><img src="/images/footer/linkedin16.jpg" width="16" height="16" border="0" alt="Catalink on LinkedIn" style="margin-left:10px"></a> <a href="http://www.facebook.com/catalinkuk" target="_blank"><img src="/images/footer/facebook16.jpg" width="16" height="16" border="0" alt="Catalink on Facebook" style="margin-left:4px"></a> <a href="http://www.twitter.com/catalinkuk" target="_blank"><img src="/images/footer/twitter16.jpg" width="16" height="16" border="0" alt="Catalink on Twitter" style="margin-left:4px"></a>  <a href="http://www.youtube.com/catalinkuk" target="_blank"><img src="/images/footer/youtube16.jpg" width="16" height="16" border="0" alt="Catalink on YouTube" style="margin-left:4px"></a> <a href="http://blog.catalink.com" target="_blank"><img src="/images/footer/blog16.jpg" width="16" height="16" border="0" alt="Catalink Blog" style="margin-left:4px"></a></span></p>
 		    </td>
@@ -297,15 +307,34 @@ var ADAPT_CONFIG = {
 	</tbody></table>
 		  
 </div>
+      </td>
+      </tr>
+    </tbody></table>
     </td>
-    <td width="10" style="background: url('/images/sitesponsorship/right_background_shadow.png') repeat-y; background-position: left top;" valign="top"> </td>
+       <td valign="top" style="background: url('/images/sitesponsorship/visitwales2014/right_background_shadow.png') repeat-y; background-position: left top;"><div id="right-column-top-sponsor-on" style="display:none"><table width="140" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+         <td valign="top" height="377" style="background: url('/images/sitesponsorship/visitwales2014/panel_topright.jpg') repeat-y; background-position: right top;"><a href="http://www.catalink.com/visit-wales-brochure/p/003049"><img src="/images/sitesponsorship/visitwales2014/shadow_panel_topright.png" width="140" height="377" alt="Catalink.com Sponsored by Visit Wales"></a></td>
+      </tr>
+
+      <tr>
+        <td valign="top" height="376" style="background: url('/images/sitesponsorship/visitwales2014/panel_botright.jpg') repeat-y; background-position: right top;"><a href="http://www.catalink.com/visit-wales-brochure/p/003049"><img src="/images/sitesponsorship/visitwales2014/shadow_panel_botright.png" width="140" height="376" alt="Request the Visit Wales Brochure"></a></td>
+      </tr>
+
+    </tbody></table></div><div id="right-column-top-sponsor-off" style="display:none"><table width="10" cellpadding="0" cellspacing="0" border="0">
+	    <tbody><tr>
+	       <td valign="top" height="100%" style="background: url('/images/sitesponsorship/right_background_shadow.png') repeat-y; background-position: right top;"></td>
+	       </tr>
+	       </tbody></table>
+	       </div></td>
   </tr>
-</tbody></table>
-<table align="center" cellpadding="0" cellspacing="0" width="978" style="font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 11px; line-height: 16px;">
-  <tbody><tr>
-    <td valign="top"><img src="/images/sitesponsorship/shadow_bottom.png" width="978" height="10"></td>
+  <tr>
+    <td valign="top" align="right"><div id="left-column-sponsor-on" style="display:none"><img src="/images/sitesponsorship/left_background_shadow.png" height="14" alt=""></div><div id="left-column-sponsor-off" style="display:block"><img src="/images/sitesponsorship/left_background_shadow.png" height="14" alt=""></div></td>
+    <td valign="top" width="960" height="14"><img src="/images/sitesponsorship/theatre/bottom_center_shadow.png" width="960" height="14" alt=""></td>
+    <td valign="top" align="left"><div id="right-column-sponsor-on" style="display:none"><img src="/images/sitesponsorship/right_background_shadow.png" width="10" height="14" alt=""></div><div id="right-column-sponsor-off" style="display:block"><img src="/images/sitesponsorship/right_background_shadow.png" height="14" alt=""></div></td>
   </tr>
-</tbody></table>
+   
+</tbody></table></td>
+<td>&nbsp;</td></tr></tbody></table>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -322,9 +351,6 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 var pageTracker = _gat._getTracker("UA-184288-2");
 pageTracker._trackPageview();
 </script>
-<div id="dialog" title="Catalink Cookies" style="display: none"><p>Catalink uses cookies.  Some may have been set already.  Read about managing our cookies here: <a href="http://www.catalink.com/privacy_policy.php" target="_blank">Privacy Policy</a>.</p>
-<p>If you continue to use this site, we will asume that you are happy to accept the cookies anyway.</p>
-</div>
 </div>
 <div id="floatingbar">
 		<div class="container">
@@ -336,9 +362,9 @@ pageTracker._trackPageview();
 						<ul>
 		<li style="margin-top:3px;	padding: 0 0px 0 1px;"><img src="/images/twitter_icon.png" alt="Follow CATALINK on Twitter" align="left"> &nbsp;<a href="http://www.twitter.com/catalinkuk" target="_blank">Follow CATALINK on Twitter</a></li>
 		<li style="margin-top:0px;	padding-left: 3px;padding-right:30px 	"><a href="http://twitter.com/share" class="twitter-share-button" data-url="www.catalink.com" data-text="Free Catalogues from Catalink" data-count="none">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li>
-		<li style="margin-top:3px;	padding-left: 30px;background: url(images/floating_bar_line.gif) top left no-repeat;">+1 CATALINK on Google:</li> 
+		<li style="margin-top:3px;	padding-left: 30px;background: url(images/floating_bar_line.gif) top left no-repeat;">+1 <a href="https://plus.google.com/+Catalink">CATALINK on Google</a><a>:</a></li><a> 
 		<li style="margin-top:3px;	padding-left: 1px;"><g:plusone size="small" href="http://www.catalink.com"></g:plusone></li>
-		<li style="margin-top:3px;	padding-left: 30px;	background: url(images/floating_bar_line.gif) top left no-repeat;"><a href="http://www.facebook.com/catalinkuk" target="_blank">CATALINK on Facebook</a></li>
+		</a><li style="margin-top:3px;	padding-left: 30px;	background: url(images/floating_bar_line.gif) top left no-repeat;"><a></a><a href="http://www.facebook.com/catalinkuk" target="_blank">CATALINK on Facebook</a></li>
 		<li style="padding-left: 0px;padding-right:20px;	"><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fcatalinkuk&amp;layout=button_count&amp;show_faces=true&amp;width=150&amp;action=like&amp;font=tahoma&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:21px;" allowtransparency="true"></iframe></li>
 		
 		<li style="margin-top:3px;	padding-left: 10px; background: url(images/floating_bar_line.gif) top left no-repeat;"><a href="http://feeds.feedburner.com/CatalinkNewCatalogues" target="_fresh"><img src="http://www.catalink.com/images/rss/rss_catalogues.png" border="0" height="15" width="15" alt="Subscribe to our NEW Catalogue Feed!"></a></li>
@@ -360,7 +386,19 @@ pageTracker._trackPageview();
 	</div>
 <script type="text/javascript" language="javascript">
   SetDivision();
- </script>
+</script>
+<!-- Start Google Catalink Universal Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44976196-8', 'catalink.com');
+  ga('send', 'pageview');
+
+</script>
+<!-- Start Google Catalink Universal Analytics -->
 
 
 </body></html>
