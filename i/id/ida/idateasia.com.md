@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the idateasia.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224043139id_/http%3A//www.idateasia.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idateasia.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327132330id_/http%3A//idateasia.com/help/privacy.php) for the most accurate reproduction.*
 
 # iDateAsia Club -- Thai girls and Vietnamese women seeking single foreign men for dating, romance, marriage , long-term relationship!
 
-  | The [Qpid Network Privacy Policy](http://www.qpidnetwork.com/privacy.php) describes how we treat personal information when you use Qpid Network subsidiary sites' services ("Services"), including information provided when you use iDateAsia.com. The following describes our privacy practices that are specific to iDateAsia.com.
+  | The [Qpid Network Privacy Policy](https://secure.qpidnetwork.com/help/privacy.php) describes how we treat personal information when you use Qpid Network subsidiary sites' services ("Services"), including information provided when you use iDateAsia.com. The following describes our privacy practices that are specific to iDateAsia.com.
 
 Welcome to iDateAsia.com ("iDateAsia" or the "Site"). Your privacy is important to us. As such, we provide this Policy explaining our online information practices and the choices you can make about the way your information is collected, processed, maintained and disposed by iDateAsia, including any services owned, operated or offered by or on behalf of iDateAsia, and by third-party service providers if applicable.
 
