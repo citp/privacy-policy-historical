@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tieto.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015060136id_/http%3A//www.tieto.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tieto.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327215417id_/http%3A//www.tieto.com/privacy-statement) for the most accurate reproduction.*
 
 # Tieto website privacy statement
 
@@ -80,7 +80,7 @@ Google will not associate your IP address with any other data held by Google. Yo
 
 ## File descriptions and contacting Tieto
 
-If you have any questions regarding this Privacy Statement or if you are concerned about how your personal data is processed by Tieto, please send an e-mail to [info@tieto.com](mailto:info@tieto.com) or contact [Nina Suominen](mailto:nina.suominen@tieto.com).
+If you have any questions regarding this Privacy Statement or if you are concerned about how your personal data is processed by Tieto, please send an e-mail to [webmaster@tieto.com](mailto:webmaster@tieto.com?subject=Privacy%20statement%20-%20Weblink) or contact [Tommy Änst](mailto:tommy.anst@tieto.com?subject=Privacy%20statement%20-%20Weblink).
 
 File description related to the processing of personal data under this Website for marketing and communication purposes is available in the right field of this page.
 
