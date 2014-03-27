@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehonestkitchen.com privacy policy that was archived on 2013-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130716135633id_/http%3A//www.thehonestkitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehonestkitchen.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327140247id_/http%3A//www.thehonestkitchen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Honest Kitchen
 
@@ -36,7 +36,9 @@ We are the sole owners of the information collected on the Web Site. We use the 
 
 From time to time, we may also disclose information to fulfill certain legal and regulatory requirements or if we believe, in good faith, that such disclosure is legally required or necessary to protect others’ rights or to prevent harm.
 
-We partner with other third party companies to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+We partner with other third party companies to provide specific services. When the user signs up for these services, we will share contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
+
+As part of our commitment to quality customer service, occasional communications may be sent on behalf of The Honest Kitchen, by an independent third party ratings and review service. Active, regular customers’ anonymous email addresses will be used by this service one time only, for the express purpose of independently evaluating our processes, including The Honest Kitchen’s general service, courtesy, selling, and shipping of actual orders placed, and will not be owned, shared or used for any other purpose by the third party. No financial or other information will be shared with the third party. You may opt out of these review emails at any time.
 
 Any non-personal information, communications and material you send to this site or to us by e-mail are on a non-confidential basis. We are free to use and reproduce any such information freely, and for any purpose whatsoever. Specifically, we will be free to use any ideas, concepts, know-how or techniques contained in such information for any purpose, including developing, manufacturing or marketing products. Any information you send to this site must be truthful, not violate the rights of others and be legal.
 
