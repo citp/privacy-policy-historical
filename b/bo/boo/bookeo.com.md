@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookeo.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110101659id_/http%3A//www.bookeo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookeo.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327015417id_/http%3A//www.bookeo.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | classes and courses | Bookeo.com
+# Privacy Policy | appointments | Bookeo.com
 
 **Effective date: October 25, 2012**
 
@@ -10,7 +10,7 @@ By using the service and / or accessing the Site, you agree to the Privacy Polic
 
 Bookeo has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's [program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this web site bookeo.com and does not cover information that may be collected behind the login. 
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us [here](http://www.bookeo.com/classes/contact.html "Contact us") . If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us [here](http://www.bookeo.com/appointments/contact.html "Contact us") . If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 In this Privacy Policy, we use the following terms to describe different types of visitors to the Site. Our customers are called "Businesses" and our Businesses' customers are called "Customers". We use the word "staff" to describe persons to whom Businesses give a user account to access the Business data on the Site. These people are collectively described in this Privacy Policy as "Users" of the Site. 
 
