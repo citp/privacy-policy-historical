@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourkarma.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817091028id_/https%3A//yourkarma.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourkarma.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327143139id_/https%3A//yourkarma.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Karma | The Pay-As-You-Go Mobile Wi-Fi Provider
 
