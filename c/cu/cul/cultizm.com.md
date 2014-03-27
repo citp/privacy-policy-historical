@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cultizm.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223135203id_/http%3A//www.cultizm.com/shop_content.php%3FcoID%3D35) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cultizm.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327132816id_/http%3A//www.cultizm.com/shop_content.php%3FcoID%3D35) for the most accurate reproduction.*
 
 # Cultizm.com - Privacy policy
 
