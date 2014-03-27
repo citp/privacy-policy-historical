@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bettor.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209012152id_/http%3A//www.bettor.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettor.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327185602id_/http%3A//www.bettor.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
