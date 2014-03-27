@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the carouselchecks.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903042013id_/http%3A//www.carouselchecks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carouselchecks.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327104646id_/http%3A//www.carouselchecks.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy of Carousel Checks
 
-_Last updated December 1, 2011_
+_Last updated August 5, 2013_
 
 Protecting privacy is not new to Carousel Checks ("Carousel"). We have a long history of recognizing and protecting the privacy of consumers. Carousel is committed to protecting your privacy and utilizing technology that gives you the safest and most powerful online experience available. The following information will help you understand how Carousel collects, uses, and safeguards the information you provide through this Web site. Carousel Checks wants to assure you that when it asks for customer information, its goal is to improve customer relationships.
 
@@ -12,7 +12,7 @@ Carousel uses the information collected about you to process your order and to p
 
 We may use your information to communicate with you about products, services, and future promotions. Out of respect for your privacy, we offer you the option not to receive these types of communications. If you no longer wish to receive special offers or promotional notifications, please follow the unsubscribe instructions included in each communication. We may also send you order confirmation emails. Generally, you may not opt-out of these communications, which are not promotional in nature.
 
-Carousel does not share, rent or sell your personal information with third parties for them to market their products and services directly to you. We only share your personal information with companies that provide services to help us with our business activities such as shipping your order, billing processing or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
+Carousel does not rent or sell your personal information with third parties for them to market their products and services directly to you. We only share your personal information with companies that provide services to help us with our business activities such as shipping your order, billing processing, operational purposes, or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
 We reserve the right to disclose information about you:
 
@@ -33,7 +33,11 @@ In order to make your visit to our Web site as productive as possible, we track 
 
 As is true with most Web sites, we gather certain information automatically when individuals browse our site and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this non-personal information to analyze trends, to administer the site, to track users' movements around the site, and to gather demographic information about our user base as a whole, in order to improve the functionality of the Web site. We use a third-party tracking service that uses technologies including clear gifs (e.g. web beacons) to track this non-personally identifiable information about visitors to our site in the aggregate.
 
-We use cookies to improve your shopping experience. Cookies are small pieces of information that are stored by your Web browser on your computer's hard drive. A cookie may contain information (such as a unique user session ID) that is used to track the pages of the Web sites you've visited. The information in cookies helps to serve you better by keeping track of your order when shopping on this site; it also helps us improve site design. We do not store sensitive information, other than your name, in your cookies. Most Web browsers automatically accept cookies, but you can set your browser to decline cookies. Even if your Web browser is set to decline cookies, you can use many of the features within this site. However, you will not be able to place an order or retrieve your order status.
+We use cookies to improve your shopping experience. Cookies are small pieces of information that are stored by your Web browser on your computer's hard drive. A cookie may contain information (such as a unique user session ID) that is used to track the pages of the Web sites you've visited. The information in cookies helps to serve you better by keeping track of your order when shopping on this site; it also helps us improve site design. We may also use technologies such as cookies to provide you with enhanced online display advertising.  We do not store sensitive information, other than your name, in your cookies. 
+
+We also contract with a third-party advertising partner to serve ads on our behalf across the internet and sometimes on this site. They will collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for goods and services. To learn more, or to opt-out of receiving advertisements tailored to your interests by our third party partner, visit the Network Advertising Initiative at www.networkadvertising.org/choices. Opting out will not in any way affect your use of our site.
+
+Most Web browsers automatically accept cookies, but you can set your browser to decline cookies. Even if your Web browser is set to decline cookies, you can use many of the features within this site. However, you will not be able to place an order or retrieve your order status.
 
 ## Children Visiting our Web Sites
 
