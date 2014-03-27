@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the odurinde.co.uk privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208124712id_/http%3A//www.odurinde.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odurinde.co.uk privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327141025id_/http%3A//www.odurinde.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # The Privacy Policy | Odurinde Finance & Business Blog
-
-## Privacy Policy
 
 We emphasize on the security of the details and information that we attain from various individuals. We believe that protecting their personal details is our sole responsibility. The usual practices of the websites on the attained information are vividly mentioned in the page. The policies we abide by when it comes to privacy are applicable to all our users and include all the other websites that are connected to us by any sort of subsidiary alliance. However the browsers are requested to review the page frequently so that they can find out the changes brought in the policy. If in any case a user finds any of the policies mentioned inappropriate then he is free to terminate the usage of this website. You can also go to our [terms & conditions](http://www.odurinde.co.uk/terms-conditions/) page for more information.
 
@@ -29,3 +27,5 @@ We do not use any sort of encrypted data in our website. There are certain websi
 _**Information about minor users**_
 
 We are not keen in collecting information about the details of any minor user who is aged below eighteen years of age. However we do emphasize on the importance of the permission of their guardians before they share their personal information with us. [Click here](http://www.odurinde.co.uk/) to go back to the home page.
+
+## Finance | Money | Insurance | Credit | Personal Fanance | Mortage | Stock | Business | Shopping
