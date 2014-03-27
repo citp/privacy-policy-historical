@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the topandbest.org privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209010610id_/http%3A//www.topandbest.org/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topandbest.org privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327101340id_/http%3A//www.topandbest.org/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Disclosure & Privacy Policy
 
 **Privacy Policy** \- Thanks for visiting **_Topandbest.org_** . By veiwing this blog, you agree with the practices described in this privacy policy. We do not use or collect any kind of information of users but our third party advertising partners use cookies to serve ads.
 
-**Third Party Cookies and Web Beacons-**   Although we don't use cookies but our advertising partners use cookies to serve content related ads or interest based ads and we don't have any control on third party advertising partners but don't worry because we use only safe advertising partners such as Google, Infolinks etc which don't share your personal information.
+**Third Party Cookies and Web Beacons-**   Although we don't use cookies but our advertising partners use cookies to serve content related ads or interest based ads and we don't have any control on third party advertising partners but don't worry because we use only safe advertising partners such as Google, Infolinks etc who don't share your personal information.
 
 We also use some affiliate networks to support our site. Some of our third party advertisers and affiliate partners may use any kind of technology like cookies and web beacons on the site and we don't have control over these cookies that are used by third-party advertisers as Google Adsense, Infolinks etc.To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
