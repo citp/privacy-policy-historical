@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localendar.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807151423id_/http%3A//www.localendar.com/calendar/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localendar.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327052825id_/http%3A//www.localendar.com/calendar/privacy) for the most accurate reproduction.*
 
 # Free web calendar hosting and searching - localendar.com
 
@@ -8,7 +8,9 @@ localendar.com has created this privacy statement in order to demonstrate our fi
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and to gather broad demographic information. We use cookies to save a "session id" which is required for you to interact with our site properly. When you close your web browser, this cookie is automatically erased.
 
-Cookies may also be used by any outside companies that display ads on our site. Cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+Cookies may also be used by any outside companies that display ads on our site. Cookies received with banner ads are not collected by localendar.com, and we do not have access to this information.
+
+Our site uses Google Analytics and Google AdSense to provide ads. We have enabled Google Analytics Demographics and Interest Reporting. This information used to help design enhancements and upgrades most appropriate to our user community. If you do not wish Google to collect analytics information, Google provides an [Analytics Opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/). 
 
 Our registration form requires you to supply the following information: name, email address, zip-code, and home time-zone. This information is used as follows:
 
