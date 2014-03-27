@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the searchforecast.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209075929id_/http%3A//www.searchforecast.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchforecast.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327183836id_/http%3A//searchforecast.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Search Forecast - Privacy Policy - Marc Phillips
+# Search Forecast - Privacy Policy
 
 #### Collecting Your Information
 
