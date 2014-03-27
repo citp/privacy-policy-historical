@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templatesblock.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817003014id_/http%3A//www.templatesblock.com/2009/08/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatesblock.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327013222id_/http%3A//www.templatesblock.com/2009/08/privacy-policy.html) for the most accurate reproduction.*
 
 # Template: Privacy Policy | Templates Block
 
