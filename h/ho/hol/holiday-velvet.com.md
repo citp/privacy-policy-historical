@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holiday-velvet.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508163921id_/http%3A//www.holiday-velvet.com/support/%3Fpage_id%3D142) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holiday-velvet.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327102434id_/http%3A//www.holiday-velvet.com/support/%3Fpage_id%3D142) for the most accurate reproduction.*
 
 # Privacy Policy | Holiday Velvet Help
 
