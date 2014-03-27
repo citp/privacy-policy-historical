@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slidefinder.net privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815173203id_/http%3A//www.slidefinder.net/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slidefinder.net privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327135709id_/http%3A//www.slidefinder.net/info/privacy) for the most accurate reproduction.*
 
 # Privacy policy - SlideFinder - PowerPoint search engine with thumbnail results
 
