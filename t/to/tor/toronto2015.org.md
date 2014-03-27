@@ -1,100 +1,114 @@
-> *The following text is extracted and transformed from the toronto2015.org privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005051122id_/http%3A//www.toronto2015.org/lang/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toronto2015.org privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327024509id_/http%3A//www.toronto2015.org/privacy-policy) for the most accurate reproduction.*
 
-# Toronto 2015 Pan/Parapan American Games | Privacy Policy
+# Privacy Policy | Toronto 2015 Pan Am / Parapan American Games
 
-**Toronto** **Organizing Committee for the 2015 Pan American and Parapan American Games**
+## Use and Discolsure of Personal Information 
 
-**Privacy Policy**
+**_Use of Personal Information:_**
 
-  
-BACKGROUND
+TO2015™ will use the personal information we collect to:
 
-The Toronto Organizing Committee for the 2015 Pan American and Parapan American Games (“TO2015™”) is a not-for–profit organization the mandate of which is to plan, organize, promote, finance and stage the Pan/ParaPan American Games to be held in the Golden Horseshoe Region of southern Ontario in the summer of 2015 (the “Games”).
+  * provide stakeholders with news about the Games;
+  * manage our business;
+  * sell merchandise and tickets;
+  * comply with regulatory and industry requirements;
+  * create and maintain our vendor accounts
+  * communicate with our stakeholders.
 
-This Privacy Policy has been developed by TO2015™ as an extension of our desire to combine our commitment to the delivery of excellent Games with the highest level of integrity and transparency in dealing with our stakeholders. The Policy is designed to assist you in understanding how we collect, use, and safeguard the personal information you provide to us and to assist you in making informed decisions when communicating with us and receiving news and related content through our online properties. It reflects our commitment to protecting the privacy and confidentiality of the personal information entrusted to us by our stakeholders. This Policy will be continuously assessed against new technologies, business practices, and stakeholder needs.
 
-The Policy applies to all current and prospective stakeholders of TO2015™ as well as to users of our online properties. It is to be read in conjunction with our Terms of Use which can be found at  [www.toronto2015.org/lang/en/website-terms-of-use.html](http://www.toronto2015.org/lang/en/website-terms-of-use.html "Terms of Use").
 
-COLLECTION OF PERSONAL INFORMATION 
+We may also use information about stakeholder interests and preferences, as well as feedback we receive from surveys, to improve our delivery of the Games. TO2015™ makes all reasonable efforts to ensure that information is used responsibly and only for its intended purposes. 
 
-In order to develop and execute the Games, there may be times when TO2015™ has to collect personal information which may include names, addresses, date of birth, phone numbers and email addresses. This may be collected from you in a variety of circumstances, such as when you purchase merchandise from us, enter into contests, participate in surveys, join our social networking sites, apply for paid or volunteer positions, or communicate online with our customer service representatives. If you use our "email this style to a friend" functionality, or if you choose to send an email from our site to a friend, we will also collect your friend's name and email address. ** **
+We may provide your personal information to any third-party service provider that administers any Games facility, service and/or promotion operated via our website, [TORONTO 2015.org](http://toronto2015.org/) (“the Site”) on our behalf. Your personal information will be provided to such third-party service providers only to enable its proper administration that Games facility, service or promotion.  We may use your personal information to operate the features of the Site and to allow you, when you choose to do so, to participate in features available only to registered users or interactive features of the Site.
 
-_What we collect_ : We may collect personal information through surveys, questionnaires, and other means. In addition to name, address (postal and/or e-mail), telephone number, and transaction/credit card information, we may collect demographic information (i.e., age, gender, income, occupation, and education) and opinions of our stakeholders. If you contact us, we may keep a record of that correspondence and, if so, shall treat that as personal information.
+When you sign up to take part in a program or initiative that we may operate from time to time, or to receive online and/or email communications (e.g. our supporters’ or partners’ newsletters or business e-alerts) or text communications (e.g. communications enabled via the Site between us and users of mobile telephones or other portable devices), we may use the information that you provide to maintain appropriate databases and otherwise to operate and facilitate such programs, networks and communications.
 
-_Modes of Collection_ : TO2015™ collects personal information about its stakeholders through various applications and order forms, including credit applications, surveys and questionnaires, face-to-face interactions, and our online properties. For certain transactions, we may obtain personal information about a stakeholder from third parties, such as consumer reporting agencies.
+The data that we collect from you may be transferred to, and stored at, a destination outside Canada for processing by TO2015™ staff operating outside Canada and/or third-party service providers contracted by us. If you submit personal information, you specifically consent by doing so to such transfer, storing or processing. We will endeavor to ensure that your data is treated securely and in accordance with this Privacy Policy.
 
-_Personal Information of Children:_  We are committed to protecting the online privacy of children under the age of 18. We encourage parents and guardians to monitor their children's use of the internet. Where a child is providing us with personal information, it is the responsibility of each parent or guardian to supervise them. 
+Access to personal information shall be restricted to those individuals or agents who require access to personal information in order to perform their duties and where access is necessary and proper for the administration of the program. 
 
-USE OF PERSONAL INFORMATION 
+**_Disclosure of Personal Information:_**
 
-TO2015™ uses the personal information we collect to provide stakeholders with news about the Games, manage our business, sell merchandise and tickets, and comply with regulatory and industry requirements. More specifically, we use personal information to create and maintain vendor accounts, communicate with our stakeholders, and supply stakeholders with information about the Games. We may also use information about stakeholder interests and preferences, as well as feedback we receive from surveys, to improve our delivery of the Games. TO2015™ makes all reasonable efforts to ensure that information is used responsibly, and only for its intended purposes.
-
-We may provide your private information to a third party that administers any facility, service or promotion operated via our website, [www.Toronto2015.org](http://www.toronto2015.org/) (the “the Site”) on our behalf to enable such third party to administer that facility, service or promotion properly. ** **
-
-We may use your personal information to operate the features of the Site and to allow you, when you choose to do so, to participate in features available only to registered users or interactive features of the Site.
-
-We may from time to time operate online job or volunteer application systems. If you submit such an application, we may process the information provided by you for the purpose of considering the application.
-
-When you sign up to take part in a program or initiative that we may operate from time to time, or to receive online and/or email communications (e.g. our supporters’ or partners’ newsletters or business e-alerts) or text communications (e.g. communications enabled via the Site between us and users of mobile telephones or other portable devices), we may use the information that you provide to maintain appropriate databases and otherwise to operate and facilitate such programs, networks and
-
-communications.
-
-The data that we collect from you may be transferred to, and stored at, a destination outside Canada for processing by staff operating outside Canada who work for us. If you submit personal information, you specifically consent by doing so to such transfer, storing or processing. We will endeavour to ensure that your data is treated securely and in accordance with this Privacy Policy.
-
-DISCLOSURE OF PERSONAL INFORMATION _ _
-
-_To whom we disclose your personal information_ : Depending on the nature of the information our stakeholders require, we may disclose personal information to our funding partners, financial institutions, credit reporting agencies, and third party service providers such as data processing and marketing companies. In addition, if you have applied for any position, whether paid or volunteer, with TO2015™, we will disclose your personal information to agencies conducting security and background checks on our behalf.
+_To whom we disclose your personal information:_ Depending on the nature of the information our stakeholders require, we may disclose personal information to our federal, provincial, municipal funding partners, sponsors, financial institutions, credit reporting agencies and third-party service providers such as data processing and marketing companies.
 
 We will disclose your personal information if we reasonably believe that we are required to do so by law, regulation, court order or any competent governmental, statutory or public authority or to protect our rights and property or the rights and property of our stakeholders. We may also co-operate with law-enforcement agencies in any official investigation, and we may disclose your private information to such agencies in doing so.
 
-We are bound by the provisions of the _Freedom of Information and Privacy Protection Act (Ontario)_ and the disclosure obligations set out therein.
+_When we will get your consent:_ We will request your express consent to the use and disclosure of your personal information for specific types of transactions on the application or other forms used in connection with those transactions. Where it is reasonable to imply your consent to the use and disclosure of your personal information in accordance with this Policy (e.g., in connection with a background check following an application for accreditation), we may do so. Where it is reasonable, we may also imply your ongoing consent to the continued use and disclosure of your personal information in accordance with this Policy where we make additional requests for information. We will obtain your express consent before using or disclosing your personal information for any purposes not identified in this Policy.
 
-_When we will get your consent_ : We will request your express consent to the use and disclosure of your personal information for specific types of transactions on the application or other forms used in connection with those transactions. Where it is reasonable to imply your consent to the use and disclosure of your personal information in accordance with this Policy (e.g., in connection with a background check following an application for accreditation), we may do so. Where it is reasonable, we may also imply your consent to the use and disclosure of your personal information in accordance with this Policy from continuing requests for information now that you are knowledgeable about our personal information practices. We will obtain your express consent before using or disclosing your personal information for any purposes not identified in this Policy.
+The use and disclosure of personal information of specific stakeholders is described below:
 
-LIMITING THE USE AND DISCLOSURE OF PERSONAL INFORMATION 
+_**Employees and Contractors**_
 
-Subject to contractual and other legal obligations, you are entitled to withdraw your consent to our use and disclosure of your personal information. Specifically, if you prefer that we do not use or disclose your personal information for marketing and promotional purposes, please notify our Privacy Officer. Please note that your request may take three to four weeks to implement. We are legally bound to inform you that withdrawing your consent may preclude us from providing you with certain information.
+TO2015™ collects and uses its employees’ and contractors’ information with the main focus of supporting its workforce. TO2015™ may from time to time operate online job application systems. We may also collect personal information for the purpose of a job application in hard copy. If you submit such an application, we may process the information provided by you for the purpose of considering the application. If your application is not accepted at that time, we may retain and store your personal information in a recruitment database for the purpose of future recruitment.
 
-In the case of personal information obtained from third parties, we will work with stakeholders, list owners, and other media owners to fulfill the right of clients to know of the existence, use, and disclosure of their personal information and to provide access to that information.
+If you have applied for a paid position with TO2015™, we will disclose your personal information to agencies conducting security, background and credit checks on our behalf.
 
-Note that the Site may contain links to other websites which are outside our control and are not covered by the terms of this Privacy Policy. If you access other websites using the links provided, the operators of those websites may collect information from you which will be used by them in accordance with their privacy policies, which may differ from ours. 
+In the event your application is accepted and you become an employee or contractor of TO2015™, your personal information will processed for payroll and benefits purposes. Your personal information may be provided to third-party payroll and employee benefits providers in order to manage TO2015’s payroll and benefits programs. Your personal information will also be shared with the federal and provincial governments for the purpose of administering the income tax regime in compliance with the Income Tax Act. 
 
-SECURITY OF PERSONAL INFORMATION
+TO2015™ will disclose personal information related to your employment, should such disclosure be required by law. 
 
-Once we have received your private information, we will use reasonable commercial efforts to protect it by using physical, managerial and technical procedures and security features to try to prevent unauthorized access to it. We cannot, however, guarantee the security of any personal information provided to us in an email or in online form while it is being transmitted to us, as the internet is a potentially non-secure method of information transfer. Any such transmission is at your own risk. 
+_**Sponsors**_
 
-USE OF COOKIES 
+Sponsorship is critical to the promotion, financing and staging of the Games. TO2015’s sponsorship initiative requires the collection of personal information from all sponsors and potential sponsors. A sponsor’s personal information may collected and compiled into a contact list containing TO2015™ sponsors and partners (“ **Contact List** ”).
 
-Similar to other commercial websites, our Site utilize a standard technology called "cookies" and web server logs to collect information about how our Site is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at our Site, and the websites visited just before and just after our Site. This information is collected on an aggregate basis. None of this information is associated with you as an individual. If you choose to correspond with us via e-mail, we may retain the content of your e-mail messages together with your e-mail address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of non-electronic information, such as that received by mail and telephone.
+The Contact List will be shared with each sponsor and partner for the purpose of fostering current, and promoting future, business opportunities. The Contact List will also be shared will our federal and provincial government funding partners. TO2015™ will contact you in order to obtain your consent if we receive a request to disclose your personal information to one of our municipal partners.
 
-Information obtained through cookies on our Site is used for internal review, to improve the content of our web pages, and to customize the content and/or layout of our pages for each individual visitor; it is not shared with other organizations for commercial purposes.
+The personal information of TO2015™ sponsors and partners will not be disclosed to any third parties aside from those named above, unless expressly consent to by the sponsor or partner.
 
-Web beacons are small strings of code that are placed in a web page or in an email message. They are sometimes called "clear GIFs" (Graphics Interchange Format) or "pixel tags". Web beacons are most often used in conjunction with cookies to track activity on our websites. When you visit a particular web page, web beacons notify us of your visit. Since web beacons are used in combination with cookies, if you disable cookies the web beacons will only detect an anonymous website visit. When used in an email, Web beacons enable us to know whether you have received the email. 
+_**Athletes**_
 
-ACCURACY OF PERSONAL INFORMATION 
+TO2015™ will collect personal information of all athletes, coaches and athletic staff participating in the Games. Personal information collected from athletes, coaches and athletic staff may be processed for the purpose of, among other things, security and accreditation. Personal information of athletes may also be used and disclosed in various ways in order to host, promote and stage the Games. The purposes of such disclosure include, but are not limited to, broadcasting events, marketing and promotions. The activities of athletes may be photographed, recorded, distributed and used by TO2015™ as part of its official, promotional or educational material and may be used in any medium or form or with any support and without any compensation. 
 
-TO2015™ will try to ensure that information about you is accurate, complete, and up-to-date. We may update the personal information in our records from time-to-time, where current information is required for the provision of a particular product or service. Please inform us of any change of name, address, or other information. Should you have questions about the accuracy of factual information we have collected about you, you will have access to that information to verify and update it. If we have disclosed inaccurate information about you to a third party, we will be pleased to contact the third party in order to correct the information. 
+Medical data relating to participating athletes may be collected in association with the Games; the use and disclosure of such information is addressed in a separate privacy policy. 
 
-INDIVIDUAL ACCESS 
+_**Volunteers**_
 
-If you have any questions about the collection, use, or disclosure of your personal information by TO2015™, or if you simply want to know whether we have any of your personal information on file, you may contact our Privacy Officer. TO2015™ will respond to your requests for access in accordance with applicable privacy legislation. In the event that we refuse access to you, we will provide you with the reasons for our refusal upon request. Exceptions may include information that contains references to other individuals, information that cannot be disclosed for legal, security, or commercial proprietary reasons, and information that is subject to solicitor-client or litigation privilege. 
+TO2015™ may from time to time operate online volunteer application systems. We may also collect personal information for the purpose of a volunteer application in hard copy. If you submit such an application, your personal information will be collected and processed by our third-party application and digital interview service providers for the limited purpose of considering your application.
 
-MISCELLANEOUS
+If you have applied for a volunteer position with TO2015™, we will disclose your personal information to agencies conducting security and background checks on our behalf.
 
-Please note that this Privacy Policy and any privacy notices displayed on the Site ("Privacy Documents") have been drawn up in the English language and shall be interpreted in the English language. Where any of the Privacy Documents (or any part of a Privacy Document) is translated into any language in addition to English and there is any conflict in meaning between the English-language version and the translated version, the English-language version shall prevail in all respects.
+The TO2015™ volunteer program seeks to create a lasting legacy of trained, competent and experienced volunteers that will benefit Toronto, the Greater Golden Horseshoe region and Ontario. In the event your application is accepted and you become a Games volunteer, your personal information may be shared with external organizations including, but not limited to, municipal and provincial government partners for use during the Games and for the purpose of informing you of future opportunities in the region, or to support government oversight of the Games. If you indicate intent to apply for benefits from the Ontario Student Assistance Program (“OSAP”), your personal information will be disclosed to the provincial government for the purpose of administering future OSAP benefits.
 
-We may, from time-to-time, change the terms of this Privacy Policy. Your use of our Site following any such change constitutes your agreement to follow and be bound by the terms, as changed.
+Some volunteers will have the opportunity to operate official TO2015™ vehicles during the Games. The personal information of these individuals may be provided to the Ontario Ministry of Transportation in accordance with TO2015™ fleet program. 
 
-This Privacy Policy shall be construed in accordance with the laws of the Province of Ontario, without regard to any conflict of law provisions. Any dispute arising under this Policy shall be resolved exclusively by the provincial and federal courts of the Province of Ontario. If any portion of these terms is held to be unenforceable, the unenforceable portion shall be construed in accordance with applicable laws to the greatest extent possible and the remainder of the provisions shall remain in full force and effect.
+The activities of TO2015™ volunteers may be photographed, distributed and used by TO2015 as part of its official, promotional or educational material and may be used in any medium or form or with any support and without any compensation. Your image, likeness, voice or performance (or all of these) may be made available to TO2015™ whether such images and recordings have been or will be: (a) made or taken by any TO2015™employee or agent; or b) made or taken by me or any other person and submitted by me or another person on my behalf to TO2015™ or a TO2015™ representative.
 
-QUESTIONS OR CONCERNS 
+TO2015™ will operate its call centre from facilities provided by the Canadian Imperial Bank of Commerce (CIBC). Personal information provided by volunteers may be disclosed to CIBC for the purposes of administering the call centre.
 
-To access your personal information, inform us of changes you believe need to be made to that information, request that we investigate a concern you have about our personal information practices or obtain further information about this policy and its outlined practices, please send your questions or concerns to the contact below. 
+**_Vendors and Suppliers_**
 
-To submit a request under FIPPA, please [download the form](http://www.toronto2015.org/assets/files/pdf/OnlineForm-AccessorCorrectionRequestForm-en.pdf) and follow the instructions.
+TO2015™ has and will continue to contract with corporations and/or individuals as vendors and suppliers of products and services critical to the success of the Games. Personal information of vendors and suppliers is collected through the public procurement process.
 
-**Freedom of Information and Privacy Coordinator**  
-Toronto Organizing Committee for the 2015 Pan American and Parapan American Games  
-25 Dockside Drive, 7th floor  
-Toronto, Ontario Canada M5A 0B5  
-[foiandprivacycoordinator@toronto2015.org](mailto:foiandprivacycoordinator@toronto2015.org)
+Upon a vendor or supplier’s consent, TO2015™ may disclose vendor or supplier information to CIBC for Business Leads who have signed up through the TO2015™ website. This information includes email, phone number, company name, company address, contact name and job title (“Contact Information”). This personal information may be used for the purpose of informing you of potential future business opportunities. In connection with the RFP process, TO2015™ will disclose RFP award winner Contact Information to CIBC, for the same reason stated above. Consent will have already been provided by the vendor or supplier upon submission of the RFP.
+
+TO2015™ is committed to the confidential and sensitive nature of procurement agreements, and for that reason, does not make any procurement agreements public, unless compelled to by law. Procurement agreements may be shared with our federal and provincial government partners in order to properly plan, finance and stage the Games. All procurement agreements are kept secure and private and are accessible only to the TO2015™ Procurement and TO2015™ Legal Departments. Similarly, TO2015™ does not make any of the RFP proposal submissions public. Only the TO2015 Evaluation Committee and TO2015™ Procurement Department can view these documents, including pricing. From time to time, third-party consultants participate on evaluation committees. In these circumstances, the third-party consultant is subject to a confidentiality agreement.
+
+_**Contests**_
+
+In order to promote the Games, TO2015™ may from time to time run promotional contests. Such contests may be operated through an online entry or registration system. If you submit a completed contest registration or entry form, we may process the information provided by you for the purpose of administering the contest. 
+
+With your prior consent, your information may be used by TO2015™ to send you our electronic newsletters or other such publications and information relating to other TO2015™ promotions, contests, events or Games programs. 
+
+From time to time, TO2015™ may run co-sponsored promotional contests. If you submit a completed contest registration form to one of TO2015™ co-sponsored contest, we may disclose information provided by you to our co-sponsor.
+
+The activities of TO2015™ contest entrants may be photographed, distributed and used by TO2015™ as part of its official, promotional or educational material and may be used in any medium or form or with any support and without any compensation. Your image, likeness, voice or performance (or all of these) may be made available to TO2015™ whether such images and recordings have been or will be: (a) made or taken by any TO2015™ employee or agent; or b) made or taken by me or any other person and submitted by me or another person on my behalf to TO2015™ or a TO2015™ representative.
+
+**_Social Media_**
+
+When you sign up to follow or communicate with social media accounts that we may operate from time to time, and/or to receive communications from TO2015™ through these social media outlets, we may use the information that you provide to maintain, operate and facilitate such programs, networks and communications. Personal information that you provide to TO2015™ via social media account(s) is collected to capture conversations (e.g. questions and answers, comments, “likes”, retweets) between you and TO2015™. It may be used to respond to inquiries, contact you about giveaways or for statistical, evaluation and reporting purposes. This information will not be “mined” or stored by TO2015™; however, your personal information may be collected, used and disclosed by the social media account administrator, independent of TO2015™. Before engaging or communicating with TO2015™, we strongly recommend that you review and understand the privacy policy, settings and information sharing functions of the social media website.
+
+TO2015’s use of social media serves as an extension of its presence on the web. Social media account(s) are public and are not hosted on TO2015™ servers. If you choose to interact with us via social media, you should read the privacy policies of these third-party service providers and those of any applications you use to access them. TO2015™ uses Twitter, Facebook, Instagram, YouTube and LinkedIn.
+
+**_Torch Relay_**
+
+The Pan Am / Parapan Am Torch Relay will engage the public and showcase our partners, sponsors and participating municipalities. We may collect personal information of Torch Relay participants and may process such information for the purpose of planning, promoting and staging the Torch Relay.
+
+TO2015™ may from time to time operate online Torch Relay application systems. If you submit such an application, your personal information will be collected and processed by our third-party application service providers for the limited purpose of considering your application.
+
+If you have applied for a Torch Relay position with TO2015™, we may disclose your personal information to agencies conducting security and background checks on our behalf.
+
+The TO2015™ Torch Relay is a sponsored event. TO2015™ may disclose information provided by you to our sponsors. 
+
+Some Torch Relay volunteers will have the opportunity to operate official TO2015™ vehicles during the Games. The personal information of these individuals may be provided to the Ontario Ministry of Transportation in accordance with TO2015™ fleet program. 
+
+The activities of Torch Relay volunteers may be photographed, distributed and used by TO2015™ as part of its official, promotional or educational material and may be used in any medium or form or with any support and without any compensation. Your image, likeness, voice or performance (or all of these) may be made available to TO2015™ whether such images and recordings have been or will be: (a) made or taken by any TO2015™ employee or agent; or b) made or taken by me or any other person and submitted by me or another person on my behalf to TO2015™ or a TO2015™ representative.
