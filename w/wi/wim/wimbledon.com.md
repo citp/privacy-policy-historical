@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wimbledon.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014035951id_/http%3A//www.wimbledon.com/en_GB/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wimbledon.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327053346id_/http%3A//www.wimbledon.com/en_GB/privacy/index.html) for the most accurate reproduction.*
 
 # The Championships, Wimbledon 2013 - Official Site by IBM - Your Privacy
 
@@ -105,6 +105,21 @@ As best practice, we also strongly recommend that you regularly run an anti-viru
  **Updating your information and opting out** ** **  
 If you would like to cancel your registration for e-newsletters you can do so at any time by following the relevant link in any e-newsletter. If you cancel your registration for e-newsletters you will no longer receive any e-newsletters and you will not be able to re-subscribe using the same email address.
 
+ **Tickets  
+** As well as the general uses listed above, by applying for tickets, you agree that we may use your information for the following purposes:
+
+To provide you with tickets, services, account information and support. For example, we might send you emails about your ticket purchase.
+
+To identify trends and interests. We use your information to get to know what your preferences might be so we can improve our offering to you and so that your experience with us is more relevant and personal. We may combine information we get from you with information about you we get from third parties, including to analyse customer behaviour.
+
+To monitor and improve our products, services, and websites. We analyse information prevent or detect unlawful behaviour or to protect or enforce legal rights. For example, we may use your information to prevent ticket touting, misuse of our intellectual property, or fraud (including credit card fraud) or other crimes.
+
+For security purposes. We may use your information to protect the security of our company, employees, our customers, third parties and/or our/their property as permitted by law.
+
+For market research purposes. We may contact you as part of market research we are carrying out.
+
+For marketing purposes. Where you've agreed, you may be contacted by us by email, text message, telephone or other means with information or offers regarding our upcoming events, products or services.
+
  **Updates to this Privacy Policy** ** **  
 If we update or otherwise change this Privacy Policy, we shall post the changes on this page and indicate at the top of this page when this Privacy Policy was last updated. Your continued use of the Site indicates your agreement to any such changes.
 
@@ -115,3 +130,25 @@ Where this Privacy Policy (or any part of it) is translated into any other langu
 
  **How can you contact us?**  
 We welcome your views about the website and our Privacy Policy. You can contact us (link) with any queries, complaints or comments.
+
+ **TERMS AND CONDITIONS**  
+The use of the Wimbledon website at [ **www.wimbledon.com**](http://www.wimbledon.com/)  (the "Site") is subject to the following terms and conditions which you should read. The Site is managed by The All England Lawn Tennis Club (Championships) Limited (AELTC) (referred to as "We" or "us" or "our" below). In entering the Site, you as a user ("You" or "Your") are accepting our terms and conditions.
+
+All material on the Site or made available via the Site (referred to in this section as the "Content") belongs to us or to third parties who have allowed us to use and display their material. You may use the Content only for your personal, non-commercial use, and provided that you acknowledge the copyright owner. You may not otherwise reproduce, modify or in any way commercially exploit any of the Content. 
+
+Information on this Site is posted in good faith and updated regularly. However, we cannot guarantee the completeness and accuracy of the information shown. Due to the nature of electronic distribution via the Internet, we do not give any warranties or make any representations in respect of the Site. In particular, the Site is provided on an "as is", "with all faults" and "as available" basis.
+
+So far as lawfully possible, and other than as specifically provided in relation to products purchased or otherwise obtained through the Site, we exclude all liability to you in contract or delict (negligence) (other than where negligence by us gives rise to personal injury or death) including without limitation:  
+(i) any implied conditions regarding the satisfactory quality or fitness for a particular purpose of the Site;  
+(ii) any express or statutory conditions relating to the Site; and  
+(iii) any conditions or duties regarding accuracy or completeness of the Site.
+
+Additionally, we make no representation that the Site is free from infection by viruses or anything else that has contaminating or destructive properties. We make every effort to check and test material at all stages of production. However, it is always wise for you to run an anti-virus program on all material downloaded from the Internet. We cannot accept any responsibility for any loss, disruption or damage to your data or your computer system which may occur whilst using material derived from this website.
+
+Other than as specifically provided in relation to products purchased or obtained free of charge through the Site or as specified elsewhere in this section of the Site entitled "Use of this site and our liability to you", we shall not be liable to pay any money to you by way of compensation for any loss suffered by you as a result of use of the Site including by way of example any loss of profits, loss of goodwill or reputation, or loss of anticipated savings.
+
+The Site contains links to other websites provided by both connected organisations and independent third parties (referred to in this paragraph as "Third Party Sites"), either directly or through frames (i.e. material which is taken from a third party site but which is shown as though it is part of the Site). Where possible, we will make clear where such links are being made. 
+
+We are not responsible for the reliability or content of Third Party Sites and other than as expressly provided on this Site, shall not be a party to, or in any way be responsible for, any transaction concerning goods or services available from such Third Party Sites. 
+
+The existence of links to other websites on this website should not be taken as endorsement of any kind of the other websites in question. We cannot guarantee that these links will work all the time and we have no control over the availability of the linked pages.
