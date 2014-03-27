@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parispornmovies.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114155546id_/http%3A//www.parispornmovies.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parispornmovies.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327092310id_/http%3A//www.parispornmovies.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
