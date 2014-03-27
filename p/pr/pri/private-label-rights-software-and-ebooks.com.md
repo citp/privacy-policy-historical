@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the private-label-rights-software-and-ebooks.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127123529id_/http%3A//www.private-label-rights-software-and-ebooks.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the private-label-rights-software-and-ebooks.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327054335id_/http%3A//www.private-label-rights-software-and-ebooks.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Private Label Rights Software and Ebooks Privacy Policy
 
@@ -58,7 +58,7 @@ This Site is not directed at children. Although we offer no content related to A
 **Links:**  
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
-© 2006 **Private-Label-Rights-Software-And-Ebooks.com** , All rights reserved.  
+© 2006-2013 **Private-Label-Rights-Software-And-Ebooks.com** , All rights reserved.  
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited.   
    
 Get your own Privacy Policy 
