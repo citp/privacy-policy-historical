@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toyota-global.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201005446id_/http%3A//www.toyota-global.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyota-global.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327143657id_/http%3A//www.toyota-global.com/privacy_statement) for the most accurate reproduction.*
 
-# Privacy Policy | TOYOTA MOTOR CORPORATION GLOBAL WEBSITE
+# Toyota Global Site | Privacy Policy
 
 Toyota Motor Corporation (hereinafter referred to as the "Company") has established its own basic policy toward the protection of customer‘s personal information as explained below under its understanding that it is an important social liability of an enterprise to be compliant with Personal Information Protection Law in Japan (hereinafter referred to as "PIP Law") and handle any and all information pertaining to any customer's name, its address, its telephone number, its E-mail address, etc. by which such customer can be identified (hereinafter referred to as "Personal Information") in a proper manner.
 
