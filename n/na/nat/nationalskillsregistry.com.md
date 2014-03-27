@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalskillsregistry.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809223015id_/https%3A//nationalskillsregistry.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalskillsregistry.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327174753id_/https%3A//nationalskillsregistry.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Welcome to National Skills Registry
 
@@ -70,7 +70,7 @@ You can contact us at:
 NSDL Database Management Limited  
 4th Floor, 'A' Wing, Trade World, Kamala Mills Compound,  
 Senapati Bapat Marg, Lower Parel, Mumbai - 400013  
-Phone Nos: 91-022-24994242 / 91-022-24994200 ext 4025  
+Phone Nos: 022 - 4914 2576 / 2577   
 Email: nsr@nsdl.co.in  
 
 
