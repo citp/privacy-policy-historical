@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pespatchs.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817031429id_/http%3A//www.pespatchs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pespatchs.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327015834id_/http%3A//www.pespatchs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PES Patch,PES 2013 Patch,Pes 2013 Update,PES 2012 Patch,PES 2012 Update, Pes Edit,Pes 2011 Patch, PS3, Xbox 360
+# Privacy Policy
 
 **Privacy  Policy – PESPatchs.Com**
 
