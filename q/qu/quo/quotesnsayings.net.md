@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotesnsayings.net privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625220901id_/http%3A//www.quoteswave.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotesnsayings.net privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327120959id_/http%3A//www.quoteswave.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Quoteswave
 
