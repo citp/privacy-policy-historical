@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volcanoecigs.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208113134id_/http%3A//www.volcanoecigs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volcanoecigs.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327140424id_/http%3A//www.volcanoecigs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ The information we collect from customers helps us to personalize our site to yo
 **Third Party Vendors:** In addition to collecting your information, we have third party vendors who will also collect your information in order to provide the products and/or services you've requested (e.g. credit card companies, fulfillment companies, call centers, marketing companies and freight companies). In general, these companies are intermediaries acting solely to provide services related to your request. Most of these vendors have their own privacy policy to protect your information, and have access to personal information needed to perform their functions on behalf of Volcanoecigs.com, but may not use the same for other purposes. **** ****  
  ****
 
-**Are Cookies Used On The Volcanoecigs.com Site:** We use cookies to obtain a variety of information which provides us details as to what product and information interest our visitors view the most. Cookies can also be used to protect your information. If you wish to disable our cookie from obtaining this information, you can do this your browser or seek programs that will allow you to visit our site anonymously without losing most of the site's functionality.
+**Are Cookies Used On The Volcanoecigs.com Site:** We use cookies to obtain a variety of information which provides us details as to what product and information our visitors view the most. Cookies can also be used to protect your information. If you wish to disable our cookies from obtaining this information, you can privatize your browser or seek programs that will allow you to visit our site anonymously without losing most of the site's functionality.
 
 ### Does Volcanoecigs.com Share the Information It Receives?
 
@@ -22,7 +22,7 @@ Under no circumstances will we ever give away or sell your personal information 
 
 ### How Secure Is Information About Me?
 
-All of our employees and partners are familiar with our security policy and practices. Your personal information is only accessible to a limited number of qualified people who are given a password in order to gain access to the information. While we take commercially reasonable measures to maintain a secure site, electric communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable for any such occurrences. You will find that almost all Internet e-commerce providers make this same claim, especially if they use privacy policy templates such as this one to make known their company or organization privacy policies.
+All of our employees and partners are familiar with our security policy and practices. Your personal information is only accessible to a limited number of qualified people who are given a password in order to gain access to the information. While we take commercially reasonable measures to maintain a secure site, electric communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable for any such occurrences. You will find that almost all Internet e-commerce providers make this same claim, especially if they use privacy policy templates such as this one to make known their company or organization's privacy policies.
 
 ### Are Children Allowed to Use Volcanoecigs.com?
 
