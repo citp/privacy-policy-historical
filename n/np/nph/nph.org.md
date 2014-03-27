@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nph.org privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019215952id_/http%3A//www.nph.org/ws/contact/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nph.org privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327102754id_/http%3A//www.nph.org/ws/contact/privacy.php%3Flang%3Den) for the most accurate reproduction.*
 
 # NPH International - Privacy Statement
 
@@ -139,7 +139,7 @@ If you have any questions about this Privacy Policy or the NPH Site, you may con
 |  | 
 
   
-Rosalia and Ruth on the first day of school.  
-(NPH Guatemala - 2010)  
+There's never a shortage of models  
+(NPH Honduras - 2010)  
   
 ---|---|---
