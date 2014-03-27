@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jwatch.org privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223095326id_/http%3A//www.jwatch.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jwatch.org privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327203301id_/http%3A//www.jwatch.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NEJM Journal Watch
 
-#####  Last updated: May 25, 2012 
+#####  Last updated: January 1, 2014 
 
 ## Principles Governing This Site
 
@@ -74,6 +74,10 @@ Once you have created an identity or paid account on our site, you can update yo
 
 
 ## Other Information
+
+### Do Not Track Signals
+
+Like most web services, at this time we do not alter our behavior or change our services in response to do not track signals. 
 
 ### Compliance with Legal Process
 
