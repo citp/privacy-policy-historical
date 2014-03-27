@@ -1,44 +1,148 @@
-> *The following text is extracted and transformed from the xcaret.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629074321id_/http%3A//www.xcaret.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D23) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcaret.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327215539id_/http%3A//www.xcaret.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D23) for the most accurate reproduction.*
 
 # Privacy Policy
 
-One of the priorities of Experiencias Xcaret S.A. de C.V. is to respect our users privacy and keep secure all information and personal data collected, so that you will share information only with Experiencias Xcaret S.A. de C.V. unless otherwise specified. 
+**Responsible**   
+In compliance with the Federal Law on Protection of Personal Data in Possession of Individuals, Experiencias Xcaret S.A. de C.V. (Experiencias Xcaret from now on) who is responsible for your personal data informs you that we are a business group that has cultural, natural, ecological and adventure Parks offering our visitors ecological, cultural and fun experiences. We are located at Carretera Chetumal – Pto Juárez Km 282, Playa del Carmen, Quintana Roo, Mexico. Our phone numbers are: +52 (998) 884-9422 and +52 (988) 251-6560. Responsible for data Protection is the Web Development department and can be contacted by email at the following address: [ivallejo@experienciasxcaret.com.mx](mailto:ivallejo@experienciasxcaret.com.mx) . 
 
-When using our online service, we will be requesting **bank details and / or credit card** such as: 
+## This Privacy Notice is for the following websites: 
 
-**SENSITIVE DATA**  
-Experiencias Xcaret S.A. de C.V. does not request any sensitive data on their websites.
+  * http://www.xcaretexperiencias.com/
+  * http://www.xcaret.com.mx/
+  * http://www.xcaret.com/
+  * http://www.xelha.com
+  * http://www.xplor.travel
+  * http://www.xichen.com.mx/
+  * http://www.xenotes.com/
+  * http://www.xenotes.com.mx/
+  * http://www.xoximilco.com/
+  * http://www.xoximilco.com.mx/
+  * http://www.experienciasxcaret.net/aol/
+  * http://www.repsclub.com/
+  * http://www.fotoxplor.com/
+  * http://www.travesiasagradamaya.com.mx
+  * http://www.triatlonxelha.com
+  * http://www.festivaldevidaymuerte.com
+  * http://www.bodasxcaret.com
+  * http://www.fotoxcaret.com
 
-For information received via email: 
 
-Your information will be used in the following instances: (i) to respond with information you requested; (ii) in the case you have bought a product or have hired a service, to improve, comply with and control the fulfillment of the contract; (iii) to fulfill the legal obligations of Experiencias Xcaret S.A. de C.V., and (iv) to send you promotional material in case you so required (at the moment you registered in our websites, by ticking the corresponding box or the section to that effect in the Experiencias Xcaret S.A. de C.V. websites and blogs). 
 
-Content: Experiencias Xcaret S.A. de C.V. will send you information related to any product or service available in our websites.   
-Media: Experiencias Xcaret S.A. de C.V. will send you the information via email. 
+One of the priorities of Experiencias Xcaret S.A. de C.V. is to respect our users’ privacy and keep all information and personal data collected secure, so that you will share information only with Experiencias Xcaret S.A. de C.V. unless otherwise specified. 
 
-Experiencias Xcaret S.A. de C.V. uses the information requested to provide products and services you requested, to conduct internal research on demographic data and interests of our users and at the same time provide the most satisfying experience when visiting our site and purchasing our services. Also to maintain our users informed about new services and products related to the one bought by our client, comply with our obligations to our customers, evaluate the quality of service, report changes of our products or services and provide a better customer service. Information you entrust us is exclusively for the use of Experiencias Xcaret S.A. de C.V. Experiencias Xcaret S.A. de C.V. requests information that will allow us to contact our customers or users when necessary. Information requested during the registration process is used when you hire a service or purchase a product online. We collect information from various areas of our websites. For each of these sites, the information sought is different and is stored in separate databases. 
+**
 
-**What are cookies and how are they used?**  
-Cookies are text files that are automatically downloaded and stored in the computer's hard drive while navigating in a specific web page, allowing the Web server to recall some facts about the user, including preferences for the display of pages on that server, username and password. In some sections of our site we require that the client has cookies enabled since the functionality requires them to work correctly. Cookies allow us to: a) recognize when you enter our sites and offer a personalized experience, b) to know the personal settings of the specified site, for example, cookies allow us to detect the bandwidth you have selected when entering the home page of our site, so we know what kind of information is advisable to download, c) calculate the size of our audience and measure certain traffic parameters, because each browser that access our site acquires a cookie that is used to determine the frequency of use and sections of the sites visited, reflecting their habits and preferences information that is useful to improve the content, headlines and promotions for users. Cookies also help us to track certain activities, for example, in some of the surveys we launch online, we may use cookies to detect if the user has already filled out the survey and avoid deploying it again, in case they did. However, cookies allow you to take advantage of beneficial features we offer, so we recommend that you leave them turned on. The use of cookies will not be used to identify users, except for cases where an investigation into possible fraudulent activity may occur. In the case of cookie use, the "help" button found in the toolbar in the majority of browsers will help you know you how to avoid accepting new cookies, what steps to take so your browser can send you a notice every time a new cookie is received or how to disable all cookies. 
+## Information requested
 
-**Limitation on use and disclosure**  
-The information provided by the user, is secured by a personal identification number to which only the user can access and which only he has knowledge of. We recommend that you do not divulge your password to anyone. Experiencias Xcaret does not request your password on any phone call or unsolicited email. In this topic, the team of collaborators of Experiencias Xcaret has focused its efforts to offer the latest and updated technology to provide the highest security possible. You may stop receiving promotional messages by landline or cell phone, stop receiving emails advertising or through postal mail, asking to unsubscribe to:  or to the following phone numbers +52 (998) 884-9422 y +52 (988) 251-6560. 
+**  
+Among the information requested on our website are: 
 
-**ARCO Rights (Access, Rectification, Cancellation and Opposition)**  
-Personal data provided by the user is part of a file containing your profile. You can modify your profile at any time using your user/member number and your personal identification number that was assigned to you or that you chose or by sending us an email to . Users may likewise notify us the cancellation of the data processing and cancellation of their record, by the same means or by calling the next numbers +52 (998) 884-9422 and +52 (988) 251-6560. Experiencias Xcaret advises users to update their data each time they undergo some modification, as this will provide a more personalized service. If you participate in the service of email promotions at any time you can disable the service. 
+  * Name
+  * Last name
+  * Password
+  * Email
+  * Home phone
+  * Office phone
+  * Cell phone
+  * Country
+  * State
+  * Hotel
 
-**Transfers of information to third parties**  
-Experiencias Xcaret does NOT transfer data; it only channels the information in order to ensure the fulfillment of the aforementioned uses and the compliance of the obligations contracted with our clients when they buy a product or hire a service. If the user's personal data should be shared with business partners or sponsors, the user will be notified before they are collected or transferred. If the user does not want his/her information to be shared, they can choose not to use a particular service or not to participate in certain promotions or contests.
 
-Experiencias Xcaret assumes no obligation to keep confidential any information you provide, including the information you provide through newsletters and online discussions (chats), and information obtained through cookies described in paragraph 3, the above in terms of the established in Article 109 of the Federal Law of Copyright and section I, Article 76 bis of the Federal Consumer Protection. 
 
-**Security**  
-When hiring a service or purchasing a product online, we will ask for bank details to which we pledge to provide security and confidentiality of data provided to us, to do so we have a secure server under the SSL (Secure Socket Layer ) so that the information you send is transmitted encrypted to ensure their protection. To verify that you are in a protected environment, make sure you see an "S" in the navigation bar "https "://. 
+When using our online service, we will be requesting **bank and / or credit card details** such as: 
 
-**Changes to the privacy notice**  
-We reserve the right to make modifications or update at any time this privacy notice to the attention of legislative or legal, internal policies, new requirements for providing or offering our services or products and market practices. If changes to the Privacy Notice occur you will be notified via email, to the address you have registered for such purpose. **Privacy notice last updated on March 25th, 2013.**
+  * Información bancaria
+  * Nombre
+  * Dirección
+  * Teléfono
+  * Sexo
+  * Edad
+  * Fecha de nacimiento
+  * Correo electrónico
 
-**Acceptance of terms**  
-If the user uses the services in any of the sites of Experiencias Xcaret S.A. de C.V., it means that he or she has read, understood and agreed to the terms outlined above. If you disagree with them, you should not provide any personal information or use the services of sites Experiencias Xcaret S.A. de C.V. By visiting the website of Experiencias Xcaret, you are accepting the practices described in this Privacy Notice. Experiencias Xcaret S.A. de C.V., greatly respects the privacy of each user. 
+
+
+**
+
+## SENSITIVE DATA
+
+**  
+Experiencias Xcaret S.A. de C.V. does not request any sensitive data on their websites. 
+
+**
+
+## Use of Information
+
+**  
+For information received via email:   
+Your information will be used in the following instances: (i) to respond with information you requested; (ii) in the case you have bought a product or have hired a service, to improve, comply with and control the fulfillment of the contract; (iii) to fulfill the legal obligations of Experiencias Xcaret S.A. de C.V., and (iv) to send you promotional material in case you so required (at the moment you registered in our websites, by ticking the corresponding box or the section to that effect in the Experiencias Xcaret S.A. de C.V. websites and blogs). | Content: Experiencias Xcaret S.A. de C.V. will send you information related to any product or service available in our websites. | Media: Experiencias Xcaret S.A. de C.V. will send you the information via email. 
+
+Experiencias Xcaret S.A. de C.V. uses the information requested to provide products and services you requested, to conduct internal research on demographic data and interests of our users and at the same time provide the most satisfying experience when visiting our site and purchasing our services. Also to maintain our users informed about new services and products related to the one bought by our client, comply with our obligations to our customers, evaluate the quality of service, report changes of our products or services and provide a better customer service. Information you entrust us is exclusively for the use of Experiencias Xcaret S.A. de C.V. Experiencias Xcaret S.A. de C.V. requests information that will allow us to contact our customers or users when necessary. Information requested during the registration process is used when you hire a service or purchase a product online. 
+
+**
+
+## What are cookies and how are they used?
+
+**  
+Cookies are text files that are automatically downloaded and stored in the computer's hard drive while navigating in a specific web page, allowing the Web server to recall some facts about the user, including preferences for the display of pages on that server, username and password. In some sections of our site we require that the client have cookies enabled since the functionality requires them to work correctly. Cookies allow us to: a) recognize when you enter our sites and offer a personalized experience, b) to know the personal settings of the specified site, for example, cookies allow us to detect the bandwidth you have selected when entering the home page of our site, so we know what kind of information is advisable to download, c) calculate the size of our audience and measure certain traffic parameters, because each browser that access our site acquires a cookie that is used to determine the frequency of use and sections of the sites visited, reflecting their habits and preferences information that is useful to improve the content, headlines and promotions for users. Cookies also help us to track certain activities, for example, in some of the surveys we launch online, we may use cookies to detect if the user has already filled out the survey and avoid deploying it again, in case they did. However, cookies allow you to take advantage of beneficial features we offer, so we recommend that you leave them turned on. Cookies will not be used to identify users, except for cases where an investigation into possible fraudulent activity may occur.   
+In the case of cookie use, the "help" button found in the toolbar in the majority of browsers will help you know you how to avoid accepting new cookies, what steps to take so your browser can send you a notice every time a new cookie is received or how to disable all cookies. 
+
+**
+
+## Limitation on use and disclosure
+
+**  
+A personal identification number which only the user can access and which only he has knowledge of secures the information provided by the user. We recommend that you do not divulge your password to anyone. Experiencias Xcaret does not request your password on any phone call or unsolicited email. In this topic, the team of collaborators of Experiencias Xcaret has focused its efforts to offer the latest updated technology in order to provide the highest security possible. You may stop receiving promotional messages by landline or cell phone and stop receiving email or postal mail advertising by asking to unsubscribe the following phone numbers: +52 (998) 884-9422 y +52 (988) 251-6560.   
+If you participate in the email promotions service, you can disable the service at any time. 
 
 Opt-out: In regards to the publicity and promotions sent to you via email, we will inform you in each case how to unsubscribe easily and at no cost. 
+
+**
+
+## ARCO Rights (Access, Rectification, Cancellation and Opposition)
+
+**  
+The area responsible for Data Protection is the Web Development department, who can be reached by email at [ivallejo@experienciasxcaret.com.mx](mailto:ivallejo@experienciasxcaret.com.mx) or by calling the following numbers +52 (998) 884-9422 and +52 (988) 251-6560.   
+Procedure so that the "User" can exercise their rights ARCO and revoke the consent granted is:   
+As holder of personal data, the Contractor may exercise ARCO rights (access, cancellation, rectification and opposition to the processing of personal data), or revoke the consent granted to Experiencias Xcaret for the treatment of your personal data by sending your request directly to the area of Web Development through the e-mail account: [ivallejo@experienciasxcaret.com.mx](mailto:ivallejo@experienciasxcaret.com.mx) .   
+The request must contain at least: (a) name and address or other means to notify you of a reply to your request, (b) documents proving your identity or, where appropriate, legal representation, (c) a clear description and accurate personal data for which is requested to exercise any of the rights ARCO, (d) expressly stated to revoke its consent to the processing of personal data and therefore, to prevent use, (d) any other element that facilitates the location of the personal data.   
+Within a maximum of fifteen (15) business days we will reply your request and inform you about the origin of it.   
+Experiencias Xcaret advises users to update their data each time they undergo some modification, as this will provide a more personalized service. 
+
+**
+
+## Transfer of information to third parties
+
+**  
+Experiencias Xcaret does NOT transfer data; it only channels the information in order to ensure the fulfillment of the aforementioned uses and the compliance of the obligations contracted with our clients when they buy a product or hire a service.   
+Experiencias Xcaret assumes no obligation to keep any information you provide confidential, including the information you provide through newsletters and online chats, and information obtained through cookies described in paragraph 3, the above in terms of that established in Article 109 of the Federal Copyright Law and section I, Article 76 bis of Federal Consumer Protection Act. 
+
+**
+
+## Security
+
+**  
+When hiring a service or purchasing a product online, we will ask for bank details. We pledge to provide security and confidentiality of the data provided to us, to do so, we have a secure server under the SSL (Secure Socket Layer) so that the information you send is transmitted encrypted to ensure it is protected. To verify that you are in a protected environment, make sure you see an "S" in the navigation bar "https "://. 
+
+**
+
+## Changes to the privacy notice
+
+**  
+We reserve the right to make modifications or update this Privacy Notice at any time to the attention of legislative or legal internal policies, new requirements for providing or offering our services or products and market practices. If changes to the Privacy Notice occur, you will be notified via email in the address you have registered for such a purpose. We reserve the right to make modifications or update this Privacy Notice at any time to the attention of legislative or legal internal policies, new requirements for providing or offering our services or products and market practices. If changes to the Privacy Notice occur, you will be notified via email in the address you have registered for such a purpose or may be seen reflected on our web sites mentioned above. 
+
+**
+
+## Acceptance of terms
+
+**   
+If the customer uses the services in any of the Experiencias Xcaret S.A. de C.V. sites, it means that he /she has read, understood and agreed to the terms outlined above. 
+
+**
+
+## Authority
+
+** If you believe that your rights have been violated regarding the protection of personal data, you have the right to go to the appropriate authority to defend its exercise. The authority is the Federal Institute of Access to Information and Data Protection (IFAI), their website is: www.ifai.mx. 
+
+**Privacy notice last updated on December 18th, 2013.**
