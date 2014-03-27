@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the gemplers.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806192400id_/http%3A//www.gemplers.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemplers.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327055638id_/http%3A//www.gemplers.com/info/privacy.htm) for the most accurate reproduction.*
 
 # GEMPLER'S - Privacy and Security | Gempler's
 
 **About This Policy**  
-This notice describes the information practices of GHC Specialty Brands, LLC and its subsidiaries, divisions, affiliates, and brands (collectively “We”) as it relates to the websites on which this policy is posted (“Site”). This includes mobile websites and smart phone applications. It does not apply to information We might collect on other sites or in other forums, including by email or offline.
+This notice describes the information practices of Ariens Specialty Brands LLC and its subsidiaries, divisions, affiliates, and brands (collectively “We”) as it relates to the websites on which this policy is posted (“Site”). This includes mobile websites and smart phone applications. It does not apply to information We might collect on other sites or in other forums, including by email or offline.
 
 **Information We Collect**  
 Our web servers collect general data pertaining to each Site visitor, including but not limited to, the IP address, tracking codes, the domain name, the web page, the length of time spent and the pages accessed while visiting this Site. This may also include GPS locations for some of our mobile applications. We also collect personally identifiable and transactional information provided by companies and Site visitors that purchase products from that Site. This information includes contact information, shipping information, credit cardholder name, and card number/expiration date. We may also retain the content of the communications that are sent to our customer service representatives.
@@ -56,4 +56,4 @@ From time to time We may change our privacy policies because of changes in the r
 If users have any questions or suggestions regarding our privacy policy, please contact Us as follows: by email at [customerservice@gemplers.com](mailto:customerservice@gemplers.com), mail to PO Box 44993, Madison, WI USA 53744-4993 or call 1-800-382-8473.
 
   
-Revised November 2012 
+Revised January 2014 
