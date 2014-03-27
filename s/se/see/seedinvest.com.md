@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the seedinvest.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115124449id_/https%3A//www.seedinvest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedinvest.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327020029id_/https%3A//www.seedinvest.com/privacy-policy) for the most accurate reproduction.*
 
-# SeedInvest - Equity Crowdfunding Platform
+# SeedInvest - Startup Investing. Simplified.
 
 This Privacy Policy explains how SeedInvest, LLC and its subsidiaries and affiliates, including SeedInvest Technology, LLC and SeedInvest Financial, LLC (collectively, "SeedInvest," "us" or "we") collect and protect your personal information. If you have any questions that this policy does not address, please contact us at [contactus@seedinvest.com](mailto:contactus@seedinvest.com) or 386 Park Ave South, 10th Floor, New York, NY 10013.
 
 As explained below, we collect information from you in various ways when you interact with our website. By using our website, you consent to our collection and use of information as explained in this Notice and agree to be bound by our Terms of Use. Please note that if you choose to invest in any offering advertised on our website, you may be required to agree to a separate agreement, including, but not limited to, new or additional privacy notices or terms of use.
+
+#### Collection of Information
 
 SeedInvest collects non-personally identifiable information from you regarding your usage of our website ("Non-Personally Identifiable Information"). Non-Personally Identifiable Information may include, without limitation, website pages viewed, articles, presentation and videos viewed, time spent using certain features of the website, demographic data such as server locations, cookies existing on your computer, search criteria used and results, date, time, connection speed, and other information which does not specifically identify you. We collect this information using various technologies, including, but not limited to, cookies and server logs. "Cookies" are pieces of information that may be placed on your computer by a website for the purpose of facilitating and enhancing your communication and interaction with that website. "Server logs" can be either a single log file or several log files automatically created and maintained by a server of activity performed by the server, which can include information about any transaction you conduct with the server.
 
@@ -15,6 +17,8 @@ We use analytics programs and service providers, such as Google Analytics, which
 We may also have access to your Personally Identifiable Information when you log into our website through certain third party social networking services, including Facebook, LinkedIn, Twitter and Internet Chat (“Third Party Services”). We encourage you to carefully review the privacy policies of any Third Party Services from which you access our website.
 
 This Privacy Policy does not cover the collection of information by cookies or other methods by third parties, such as our business partners. We do not control how such third parties collect information or by what means as such third parties may use their own cookies to collect information about you.
+
+#### Use of Information
 
 SeedInvest will use information you provide consistent with this Notice. SeedInvest will use information you provide to us, including Non-Personally Identifiable Information or Personally Identifiable Information, to better serve you and enhance your experience with the SeedInvest website, among other things. This may include having to modify or copy such information, such as images or textual or narrative content you provide, in order to provide you with a seamless and enjoyable experience.
 
@@ -36,19 +40,33 @@ SeedInvest may disclose your Data if required to do so by law or in the good fai
 
 SeedInvest does not and will not sell any of your information, including Non-Personally Identifiable Information or Personally Identifiable Information, to any third party for purposes of advertising, soliciting, or telemarketing.
 
+#### Third Party Websites and Services
+
 The SeedInvest website contains links to other websites and services not maintained by SeedInvest. In addition, other websites and services may also reference or link to the SeedInvest website. We encourage you to be aware when you enter or leave our website, or surf the Internet, and to read the privacy statements of each website and service that you visit. We do not endorse, screen, or approve, and are not responsible for the privacy practices or the content of, other websites or services.
+
+#### Messaging
 
 The SeedInvest website permits users to communicate with companies and other users posting information on the website. We may read, collect and analyze information transmitted between users for regulatory compliance and marketing purposes. However, as explained in our Terms of Use, we rely on the affirmations of investors that they are "Accredited Investors" as defined in the Terms of Use. We do not guarantee that information provided by website visitors or investors is accurate or complete. SeedInvest assumes no liability or responsibility for any errors or omissions in the content of its website.
 
+#### Exclusions
+
 This Privacy Policy does not apply to any Data collected by SeedInvest other than Data collected through the website. This Privacy Policy shall not apply to any unsolicited information you provide to SeedInvest through this website or through any other means. This includes, but is not limited to, information posted to any public areas of the website, such as bulletin boards (collectively, "Public Areas"), any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, "Unsolicited Information"). All Unsolicited Information shall be deemed to be non-confidential and SeedInvest shall be free to reproduce, use, disclose, distribute and exploit such Unsolicited Information without limitation or attribution.
+
+#### Blog
 
 Our website offers a publicly accessible blog. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog, contact us at [contactus@seedinvest.com](mailto:contactus@seedinvest.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
+#### Testimonials
+
 We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name and other information. If you wish to update or delete your testimonial, please contact us at [contactus@seedinvest.com](mailto:contactus@seedinvest.com).
+
+#### Social Media Features
 
 You can log in to our site using sign-in services such as Facebook, Twitter or LinkedIn. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
 Our website also includes Social Media Features such as the Facebook Like button, Twitter, and Add This button. These features are interactive mini-programs and may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policy of the company providing it.
+
+#### Opt-out Policy
 
 We may at times send you e-mail communications with marketing or promotional materials. If you prefer not to receive such marketing or promotional e-mails from us, you may unsubscribe completely by emailing us at: [contactus@seedinvest.com](mailto:contactus@seedinvest.com). Please note that opt-out requests may take up to one (1) week to process. Please also note that at times we may need to send you e-mail communications that are transactional in nature such as service or termination announcements or payment confirmations which are communications you will not be able to opt-out of.
 
@@ -62,6 +80,8 @@ If you would like us to remove your Personally Identifiable Information from our
 
 We are not responsible for removing your Personally Identifiable Information from the lists of any third party who has previously been provided your information in accordance with this notice.
 
+#### Security
+
 We use reasonable efforts to secure access to Personally Identifiable Information in our possession, including bank-level encryption, support instant identification and account verifications, and partner with Symantec and McAfee monitoring to ensure that you have a safe experience on SeedInvest, but will not be liable for any failure to safeguard such information, whether inadvertent or otherwise. Personally Identifiable Information is also stored with third parties who have informed us that they also use reasonable efforts to secure access to Personally Identifiable Information, but we will not be liable for the failure of any third party to safeguard Personally Identifiable Information, whether inadvertent or otherwise.
 
 We protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. Wherever appropriate, we obfuscate and/or encrypt information in our systems and/or during information transfer. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
@@ -70,12 +90,20 @@ We utilize third party service providers who may store on their servers social s
 
 It is important for you to protect against unauthorized access to your password and to your computer. Be sure to log off when finished using a shared computer.
 
+#### Children's Privacy Policy
+
 The SeedInvest website is not intended for use by children, especially those under age thirteen (13) years of age. No one under age thirteen (13) years of age is allowed to use the site, provide any personal information or receive our email distributions. We do not knowingly solicit or collect Personally Identifiable Information from children or teenagers under the age of thirteen (13). If you believe that a minor has disclosed Personally Identifiable Information to SeedInvest, please report this to us immediately by emailing us at: [contactus@seedinvest.com](mailto:contactus@seedinvest.com).
 
+#### Changes to This Privacy Notice
+
 We reserve the right, in our sole discretion, to change, modify, add, or remove portions of this notice at any time. Any changes or updates will be effective immediately upon posting to the web site and sending a notification to all registered users via email regarding such update. You should review this notice regularly for changes, and can determine if changes have been made by checking the Effective Date below. Your continued use of our website following the posting of any changes to this notice means you accept such changes.
+
+#### Applicable Law and Jurisdiction
 
 The SeedInvest website is maintained in the United States of America. By accessing the SeedInvest website, you consent to and authorize the export of Personally Identifiable Information to the United States of America and its storage and use as specified in this Privacy Notice.
 
 This Privacy Notice shall be governed by, construed and entered in accordance with the laws of the State of New York applicable to contracts deemed to be made within such state, without regard to choice of law or conflict of law provisions thereof. All disputes with respect to this Privacy Notice shall be brought and heard either in the New York State Courts located in the county of New York, New York, or the federal district court for the Southern District of New York. You consent to the in personam jurisdiction and venue of such courts. YOU HEREBY WAIVE YOUR RIGHT TO A TRIAL BY JURY WITH RESPECT TO ANY CLAIM, ACTION OR PROCEEDING, DIRECTLY OR INDIRECTLY, ARISING OUT OF, OR RELATING TO, THIS AGREEMENT TO THE FULLEST EXTENT PERMITTED BY LAW.
+
+#### Effective Date
 
 This Privacy Notice was last updated on July 16th, 2013.
