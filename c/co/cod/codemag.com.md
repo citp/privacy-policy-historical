@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codemag.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205173737id_/http%3A//www.codemag.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codemag.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327213129id_/http%3A//www.codemag.com/Home/Privacy) for the most accurate reproduction.*
 
 # CODE Privacy Policy
 
@@ -57,7 +57,7 @@ CODE takes your privacy seriously. Please read the following to learn about our 
 
   * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
   * We have physical, electronic, and procedural safeguards to protect personal information about you. 
-  * CODE takes great care to adhere to security best practices. As an example, CODE avoids storing confidential information (such as passwords) whenever possible. However, CODE does not guarantee that such information will never be stored in any form. 
+  * CODE takes great care to adhere to security best practices. As an example, CODE avoids storing confidential information (such as passwords) whenever possible. However, CODE does not guarantee that such information will never be stored in any form.
 
 
 
