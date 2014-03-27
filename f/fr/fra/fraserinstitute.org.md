@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fraserinstitute.org privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204182716id_/http%3A//www.fraserinstitute.org/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fraserinstitute.org privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327124021id_/http%3A//www.fraserinstitute.org/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy | Fraser Institute
 
