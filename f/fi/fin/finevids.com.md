@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finevids.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806003453id_/http%3A//www.finevids.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finevids.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327142059id_/http%3A//www.finevids.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
