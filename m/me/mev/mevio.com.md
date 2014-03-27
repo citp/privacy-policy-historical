@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mevio.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015000607id_/http%3A//www.mevio.com/terms/%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mevio.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327104533id_/http%3A//www.mevio.com/terms/%3Fview%3Dprivacy) for the most accurate reproduction.*
 
 # Mevio - Privacy Policy
 
