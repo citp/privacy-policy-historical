@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the switchfly.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023070859id_/http%3A//www.switchfly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the switchfly.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327095818id_/http%3A//www.switchfly.com/privacy-policy) for the most accurate reproduction.*
 
 # Switchfly, Inc Privacy Policy | Switchfly
 
@@ -12,7 +12,7 @@ Switchfly knows that you care about how your Personal Information is used and sh
 
 ### Personally Identifiable Information We Collect
 
-The information Switchfly obtains from you is generally necessary or useful for Switchfly to provide the services or information you have requested, and is provided directly by you in response to our request for the information. In connection with the services Switchfly provides, we may ask you to provide your name,  physical address, ZIP code, phone number, e-mail address, and services received or requested. Your submission of such information online is deemed your consent to Switchfly’s use of the information as contemplated in this Privacy Policy.
+The information Switchfly obtains from you is generally necessary or useful for Switchfly to provide the services or information you have requested, and is provided directly by you in response to our request for the information. In connection with the services Switchfly provides, we may ask you to provide your name, physical address, ZIP code, phone number, e-mail address, and services received or requested. Your submission of such information online is deemed your consent to Switchfly’s use of the information as contemplated in this Privacy Policy.
 
 ### Use of Your Personal Information
 
@@ -52,9 +52,9 @@ If we make any material changes to this Privacy Policy, we will post a revised l
 
 Switchfly abides by the privacy principles of the U.S.-EU and U.S.-Swiss Safe Harbor Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
-Effective Date: February 1, 2012  
+Effective Date: February 1, 2012
 
-## Safe Harbor Privacy Policy 
+## Safe Harbor Privacy Policy 
 
 Switchfly, Inc. (“Switchfly”) recognizes that the European Union (“EU”) has an “omnibus” data protection regime established pursuant to the European Data Protection Directive (95/46/EC) (the “Directive”) and that Switzerland has adopted a data protection law (together, “Data Privacy Laws”). Among other things, the Data Privacy Laws generally require “adequate protection” for the transfer of personally identifiable information about individuals located in the EU and Switzerland to Switchfly’s operations in the United States.
 
