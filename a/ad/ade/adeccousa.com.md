@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adeccousa.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010005450id_/http%3A//www.adeccousa.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adeccousa.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327055259id_/http%3A//www.adeccousa.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Staffing Employment Agency - Recruiting & Temp Employment Services - Adecco USA
+# Privacy Policy
 
 #### Privacy policy
 
