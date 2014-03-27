@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whogohost.com privacy policy that was archived on 2013-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130728052437id_/http%3A//www.whogohost.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whogohost.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327063051id_/http%3A//www.whogohost.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | WhoGoHost - Web hosting in Nigeria, Domain Name Registration in Nigeria, Nigerian Web Hosting Company
 
