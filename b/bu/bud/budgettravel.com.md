@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the budgettravel.com privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011044712id_/http%3A//www.budgettravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgettravel.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327131649id_/http%3A//budgettravel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Travel Deals, Travel Tips, Vacation Ideas | Budget Travel
 
 _Our privacy policy has changed as of March 9, 2010._
 
-Welcome to BudgetTravel.com (the "Service"), a website provided by Intellitravel Media, Inc. ("Budget Travel," "we," or "us"). This privacy policy describes how we treat the information we collect through the Service. If you have any questions about this policy, please click here, and indicate on our feedback form that your question concerns privacy.
+Welcome to BudgetTravel.com (the "Service"), a website provided by Budget Travel LLC ("Budget Travel," "we," or "us"). This privacy policy describes how we treat the information we collect through the Service. If you have any questions about this policy, please click here, and indicate on our feedback form that your question concerns privacy.
 
 **Information we collect**
 
@@ -82,4 +82,4 @@ If you have any questions or concerns about this Privacy Policy, you may contact
 
 This privacy policy is effective as of May 20, 2008.
 
-All rights reserved. Copyright © 2013 Intellitravel Media, Inc. 
+All rights reserved. Copyright © 2013 Budget Travel LLC 
