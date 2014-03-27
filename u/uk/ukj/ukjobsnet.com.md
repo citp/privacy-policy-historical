@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukjobsnet.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811233213id_/http%3A//www.ukjobsnet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukjobsnet.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327175306id_/http%3A//www.ukjobsnet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for UK Jobs Network
 
