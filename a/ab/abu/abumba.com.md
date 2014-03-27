@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the abumba.com privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829100229id_/http%3A//www.abumba.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abumba.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327213504id_/http%3A//www.abumba.com/Privacy) for the most accurate reproduction.*
 
-# Abumba.com - Privacy Policy
-
-Abumba - Review Search Engine
-
-[](https://web.archive.org/)
+# Abumba.com
 
 _Last Updated January 8, 2013_
 
@@ -34,7 +30,7 @@ The Services are general audience, are not targeted to children, and we do not k
 
 For more information about third party ad networks that use these technologies, see <http://www.aboutads.info/>. Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information (e.g., <http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies>).
 
-Users can manage the use of Flash technologies, including cookies, with the Flash management tools available at Adobe's website at the following link - [http://www.adobe.com/products/flashplayer/security/privacy_policy/faq.html](http://www.adobe.com/products/flashplayer/security/privacy_policy/faq.htm).
+Users can manage the use of Flash technologies, including cookies, with the Flash management tools available at Adobe's website at the following link - <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html>.
 
 Please note that by blocking cookies or implementing other restrictions, you may not have full access to the Services or certain features thereof.
 
