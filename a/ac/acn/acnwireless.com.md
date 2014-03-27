@@ -1,124 +1,57 @@
-> *The following text is extracted and transformed from the acnwireless.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224045203id_/http%3A//www.myacn.com/wireless/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acnwireless.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327012208id_/https%3A//www.myacn.com/privacy.html) for the most accurate reproduction.*
 
-# 
+# ACN Privacy Policy
 
- 
+### Privacy Policy (Safe Harbor) 
 
-## Privacy Policy
+**  
+Overview  
+**ACN Opportunity, LLC and ACN Communications Services, Inc. (collectively “ACN”) are committed to protecting the privacy of our customer information. This document will provide information about ACN's policy relating to the collection, use and disclosure of personal information and of our customer's right to limit such collection, use or disclosure. All personal information relating to our customers is maintained in strict confidence by ACN and is not sold to third parties. For your protection, we utilize a Secure Socket Layer (SSL) on all pages that require you to complete personal information. Our privacy policies and procedures are subject to change.  
+**  
+Identifying Purposes  
+**ACN collects personal information for a variety of purposes related to your request for services from ACN. Personal information is used to verify, process and administer your product and service requests, assess credit-worthiness, maintain our commercial relationship with you, and analyze, understand and respond to your service needs. ACN also analyzes and uses customer information to improve the products that we offer to our customers. We analyze personal information in order to identify the products and services offered by our affiliates or ourselves or by companies that we believe may be of interest to you, and to offer you those products and services.
 
-### We Take Your Privacy Seriously
+Personal information is also used in order to communicate with you for billing and provisioning purposes. ACN does not sell, rent or lease personal information to third parties. From time to time ACN may outsource certain account processing, or other customer service functions to a third party. In such cases, personal information will be provided to such third parties. However, ACN releases personal information only where that information will be maintained in confidence.
 
-This notice describes our privacy policy. Simply put, we promise that:
+From time to time ACN is also required report to regulatory bodies or to present a summary of all our customer information, including your personal information, in statistical or analytical form to governmental authorities and industry organizations. When information is provided in statistical or analytical form, information that might specifically identify you will not be disclosed.  
+**  
+Cardholder Data**  
+To receive payment for services prior to initially providing service, or at the time payment is due for an existing service, ACN often requires customers to conduct transactions with a credit or debit card. In order to facilitate future or recurring payments, fees, or other charges for services, ACN may require a customer to provide a credit or debit card to be stored for such future uses. Each customer's credit or debit card has a primary account number (“PAN”), cardholder name, expiration date and/or service code (collectively, “Cardholder Data”). ACN maintains a Payment Card Industry Data Security Standard (“PCI DSS”) compliance program, as well as other credit card controls that are consistent with PCI DSS.
 
-  * We will only ask for personal information required to complete your order. 
-  * We will use security safeguards such as SSL encryption to protect your information. 
-  * We will never use your personal information for the purpose of spam. 
+Although ACN applies current industry standards in order to protect Cardholder Data, including PCI DSS, no method of processing, transmission, or storage of Cardholder Data is 100% secure. Therefore, ACN cannot guarantee that its safeguards will prevent every unauthorized attempt to access, obtain, use or disclose Cardholder Data. In the event a customer suspects a security issue regarding Cardholder Data, the customer should immediately contact ACN's Privacy Officer at the address listed at the end of this document.
+
+**Collection and Use  
+**ACN will collect and use customer identifiable information for billing purposes, to provide and change service, to anticipate and resolve problems with your service, or to create and inform you of products and services that better meet your needs. This means that ACN may use your customer identifiable information, in conjunction with information available from other sources, to market new services to you that we think will be of interest to you, but we will not disclose your customer identifiable information to third parties who want to market products to you.  
+**  
+Security  
+**ACN has implemented and will update technological and security features to safeguard the privacy of your customer identifiable information from unauthorized access or improper use.  
+**  
+E-mail Contents  
+**The company will not read or disclose to third parties private e-mail communications that are transmitted using ACN services, except as required to operate the service or as otherwise authorized by law. ACN will never request sensitive personal information through email. Do not respond to e-mails requesting credit information, account numbers, passwords or PINs. Call the company to verify the legitimacy of the e-mail.  
+**  
+Disclosure  
+**ACN may also use customer identifiable information to investigate and help prevent potentially unlawful activity or if required by subpoena, search warrant, or other legal process.  
+**  
+Account Information  
+**ACN honors requests from customers to review all customer identifiable information maintained in reasonably retrievable form, and will correct any such information which may be inaccurate. Customers may verify that appropriate corrections have been made.  
+**  
+Children  
+**ACN complies with all Federal laws and regulations, including the Children's Online Privacy Protection Act, which requires the consent of a parent or guardian for the collection of personally identifiable information from children under 13.  
+**  
+Safe Harbor  
+**ACN complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  ACN has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view ACN's certification, please visit <http://www.export.gov/safeharbor/>. ACN adheres to these Safe Harbor Principles, as outlined below.  
+**  
+Notice and Choice:**  When ACN collects personal information from customers in the EU or Switzerland, ACN will inform them about the types of personal information it collects from them, the purposes for which ACN collects and uses it, and the types of third parties to the information may be disclosed. ACN will inform the customers about the choices and means that ACN uses of limiting the use or disclosure of such information.  
+**  
+Data Integrity:**  ACN seeks to ensure that any personal information held about EU and Swiss individuals is accurate, complete, current and otherwise reliable in relation to the purposes for which the information was obtained. ACN collects personal information that is adequate, relevant and not excessive for the purposes for which it is to be processed. EU and Swiss individuals have a responsibility to assist ACN in maintaining accurate, complete and current personal information about them.  
+**  
+Transfers To Third Parties:  **ACN will only transfer personal information about EU and Swiss individuals to third-parties where the third-party (a) has provided satisfactory assurances to ACN that it will protect the information consistently with this Statement; or (b) is located in the EU, Switzerland, or a country considered "adequate" for privacy by the EU Commission or Switzerland, as applicable; or (c) the third-party has also certified to the applicable Safe Harbor, and is accordingly independently responsible for complying with the Safe Harbor requirements.  
+**  
+Access and Correction:  **Upon written request to ACN, ACN will provide EU and Swiss individuals with reasonable access to their personal information. Except as may be subject to legal limitation, ACN will make reasonable steps to allow EU and Swiss individuals to review their information for the purposes of correcting their information.  
+**  
+Enforcement:**  ACN uses the self-assessment approach to maintain compliance with its Privacy Policy.  ACN periodically verifies that its policy is accurate, comprehensive for the information covered, displayed appropriately, implemented and in conformity with Safe Harbor Principles.  ACN also encourages individuals covered by this Statement to raise any concerns about our processing of their personal information by contacting the ACN Privacy Officer at the address below or the ACN Legal Department.  ACN will seek to resolve any concerns.  In the event a dispute arises that the parties cannot resolve, the parties may resolve it through arbitration with the American Arbitration Association program developed to assist in the compliance with Safe Harbor.  The arbitration shall be held in Concord, North Carolina before a panel of three arbitrators, each side choosing one and then the two choosing the third.  All claims hereunder must be brought within two years of the date of which the facts or circumstances giving rise to the claim are alleged to have happened.  Laws of the state of New York will apply to the resolution of the dispute unless otherwise agreed in writing.  
+**  
+Limitations:**  Adherence to this Privacy Policy may be limited to the extent required to meet a legal, governmental, national security or public interest obligation.  
 
 
-
-We value the relationship we have with our customers and are committed to responsible information-handling practices. We take great care in safeguarding your personal information and exceeding our own internal standards and best practices. 
-
-The ACN wireless store is operated by InPhonic, Inc. (“InPhonic”). We provide this notice explaining our online information practices and the choices you can make about the way your information is used at our site. This privacy statement covers the site www.inphonic.com.
-
-InPhonic has agreed to notify you of: 
-
-  * What personally identifiable information is collected from you through the web site 
-  * How the information is used 
-  * With whom the information may be shared 
-  * What choices are available to you regarding collection, use and distribution of the information 
-  * What security procedures are in place to protect the loss, misuse or alteration of information under InPhonic control. 
-  * How you can correct or update your information. 
-
-
-
-If you have questions or concerns regarding this privacy policy, or complaints arising from our use of your personal information, please contact our Customer Service Department via certified mail to InPhonic, Inc., 1010 Wisconsin Avenue, Suite 600, Washington, DC 20007, or via e-mail at privacypolicy@inphonic.com. If you do not receive acknowledgment of your inquiry, or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the TRUSTe WatchDog Dispute Resolution Process ([www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php)). TRUSTe will then serve as a liaison with InPhonic to resolve your concerns.
-
-### What Information We Collect and How We Use It 
-
-Location Information
-
-We collect location information in order to improve your shopping experience. If you shop for location-specific products such as a wireless rate plan, we ask for a zip code and record this information via a cookie so that we may display only services which are available in your area. We also save this information so that we don’t have to ask for it again on your next visit.
-
-Information from IP addresses is used to help administer our Web site, to examine overall traffic trends, and to help us improve our site and make your browsing and purchasing experience more enjoyable. IP addresses are not linked to any personally identifiable information. 
-
-Personally Identifiable Information
-
-When you place an order for products or services we collect certain types of personally identifiable information required to fulfill those products or services, including (1) contact information (such as name, address, e-mail address, and telephone number); (2) payment information (such as credit card number); and/or (3) ID verification information (such as credit card number, date of birth, Social Security Number, or Driver's License Number).
-
-We only collect ID verification information if it is required by a wireless carrier to process your application. For those customers applying for a new wireless service account, we submit your data into the wireless carrier's system so that the carrier may perform a standard industry credit check. Aside from approval status information, we do not have access to an applicant's credit-history information.
-
-If you would like to place an order but are reluctant to provide this information online, you may provide it to us by telephone during normal business hours. Telephone agents are available when the Order By Phone button is visible on one of the shopping pages of our site. Simply click on this button to speak to an agent and provide your information over the phone.
-
-We use the contact information you provide to communicate with you, such as to send you order confirmations, respond to your inquires, provide you with important product update, warranty, or safety information. In addition, we use contact information you provide to offer you additional products, programs or services that we believe may be of interest to you, including newsletters from wireoffers.com. You can easily opt out of a newsletter by clicking the unsubscribe link at the bottom of any of these e-mails.
-
-### Supplementation of Information
-
-We may, from time to time, supplement the information we collect online with outside records (e.g., information from our strategic partners, wireless providers, or the United States Postal Service) to enhance our ability to serve you, to tailor our content to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-### Sharing of Your Information
-
-Please be assured that any third parties who have access to the contact information you provide, including our subsidiary site, agents, contractors and business affiliates have agreed to protect it in a manner that is consistent with this privacy policy.
-
-To fulfill your requests for products and services, we may need to share some of your personally identifiable information with the wireless provider from which you have requested service. More specifically, when you place an order for a new wireless account, we will share contact and ID verification information required by the wireless carrier to provide you with its services. The wireless provider may use this information for credit approval, service activation, and from time to time, for its own marketing purposes. You should consult the wireless providers' respective privacy policies, as this Notice does not cover their use of your information. Also, your shipping information will be shared with a shipping company such as FedEx, for the purposes of delivering your order.
-
-We work closely with trusted third party business affiliates to provide you with information on products and services that may be of interest to you. We may share the contact information you provide with trusted third parties for the purposes of analyzing it to make your customer experience better or for offering products and services to you. In addition, you can access InPhonic through many third-party co-branded Web sites. For example, if you see a logo on the page that says "Powered by InPhonic," you are on a co-branded page. Whenever you provide contact information on a co-branded page, that data may be shared with the third-party site through which you access InPhonic. We encourage you to read the privacy policies of such third parties, as this Notice does not cover their use of your information.
-
-### Sharing of Affiliate Information in the Affiliate Sign-Up Process
-
-Information submitted by potential Affiliates in the Affiliate Sign-Up Process is submitted to Linkshare. Linkshare's privacy policy can be found at [www.linkshare.com.](http://www.linkshare.com/)
-
-### Third Party Sharing of Information
-
-InPhonic sometimes may offer content (e.g., promotions, affiliations, sponsorships) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity.
-
-### Live Help Function
-
-To better serve you and respond to your questions regarding our products or services, we also maintain a Live Help function through which we can respond, in real time, to your questions about our products and services. This information enables us to understand the types of questions our users have about our products and services so that we may continue to improve our content and offerings.
-
-### Other Non-Personally Identifiable Information
-
-We may collect certain non-personally identifiable information about our visitors when you visit many of our Web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows XP or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).
-
-We use the non-personally identifiable information that we collect to improve the design and content of our service pages and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze service usage.
-
-### Legal Process/Disclaimer
-
-We may disclose personally identifiable information in response to legal process or when we believe in good faith that the law requires it, for example, in response to a court order, subpoena or a law enforcement agency's request.
-
-### Choices/Opt Out
-
-If you prefer not to receive marketing information, including emails from us, or wish to fully deactivate your account information from our records if you are no longer an active customer, simply let us know by sending a letter via certified mail to InPhonic, Inc., c/o Privacy Opt Out, 1010 Wisconsin Avenue, Suite 600, Washington, DC 20007 or via e-mail to privacypolicy@inphonic.com Please note that even if you choose to opt out of marketing programs, if you are an active customer we will continue to send you important service-related communications (e.g., order confirmation or product safety information) which is not promotional in nature.
-
-### Cookies
-
-Cookies are used by your computer's browser to store your preferences. We use both session and persistent cookies. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites.
-
-In addition, some of our business affiliates (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies and their use is not covered by this privacy policy.
-
-### Tracking Pixels
-
-This site makes use of a technology designed to enhance your browsing experience. The technology, makes use of a small and transparent Java applet to provide you with a faster browsing experience. In addition, aggregate reporting information is collected and made available to the site owner only. No personal or personally identifiable information is gathered or used for this process.
-
-### Links
-
-This site may contain links to other Web sites whose information practices may be different than ours. Our privacy policy does not cover these third parties' use of information. Visitors should consult the other companies' and sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
-
-### Security
-
-We have put in place multiple levels of physical and electronic security to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. These measures include secure web pages, VeriSign SSL certificate ensuring the privacy and security of order information, and HackerSafe certification, representing the highest security scanning standards of the U.S. government and all major credit card providers.
-
-All information submitted is protected by our secure server, which automatically encrypts your personally identifiable information so that it cannot be read while traveling over the Internet.
-
-### Reviewing Your Information
-
-If you would like to review and update or correct the personally identifiable information that we have collected from you online, or if you no longer wish to continue your service with us, simply send your request via certified mail to InPhonic, Inc., 1010 Wisconsin Avenue, Suite 600, Washington, DC 20007. You may also send your request via the Customer Support feedback section in our [customer service center](http://www.whereismyorder.com/). To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
-
-### Contact Us
-
-If you have any questions regarding this statement, or would like more information on our privacy practices, please contact us via the Customer Support feedback section in our [customer service center](http://www.whereismyorder.com/).
-
-### Updates and Notification of Changes
-
-From time to time, we may update this Privacy Notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this notice so that you always will know what information we collect, how we use it, and to whom we disclose it. If we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change.
-
-By visiting this web site, you are accepting the practices described in this Privacy Notice.
+Should you have any questions with respect to the ACN Privacy Policy (Safe Harbor) or if you do not consent to, or would like to limit, the manner in which information about you is collected, used or disclosed, please contact the ACN Privacy Officer in writing at ACN Inc., 1000 Progress Place, Concord, N.C. 28025-2449.
