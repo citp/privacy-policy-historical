@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bongous.com privacy policy that was archived on 2013-08-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130820173216id_/https%3A//bongous.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bongous.com privacy policy that was archived on 2014-03-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140327214556id_/https%3A//bongous.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -41,6 +41,11 @@ function doLogin(){
 	var ipcli = ip_cliente;
     var pass = $('#clave').val();
     var user = $("#usuario").val();
+    
+    if (pass == '' || user == '') {
+        alert('Either the User ID or password field was left blank. Please try again');
+        return false;
+    }
     $.ajax({
         type: 'POST',
         url: '/tools/clients_ajax_funcs.php',
@@ -156,7 +161,8 @@ function openTracking(){
 				if(str[0]=="OK"){
                     document.location.href = 'https://bongous.com/tracking/'+str[1];
 				}else if(str[0]=="OKPM"){
-                    document.location.href = 'http://www.packagemapping.com/?shipper='+str[2]+'&tracknum='+str[1]+'&uniqueID=&access_key=d1dfng346p7vgrmd173xy8mchm134bg4&custportal=1&closelink=0';
+                    document.location.href = 'https://bongous.com/tracking/'+str[1];
+                    //document.location.href = 'http://www.packagemapping.com/?shipper='+str[2]+'&tracknum='+str[1]+'&uniqueID=&access_key=d1dfng346p7vgrmd173xy8mchm134bg4&custportal=1&closelink=0';
                 }else if(str[0]=="NO"){
 					alert(str[1]);
 				} else {
@@ -238,7 +244,7 @@ function keyReturnUser_(e) {
                             <table>
                                 <tbody><tr>
                                     <td>
-                                        <span id="clock">Aug 20, 1:32 PM</span>
+                                        <span id="clock">Mar 27, 5:45 PM</span>
                                     </td>
                                     <td>
                                         |
@@ -688,35 +694,35 @@ $('#util-int').toggle(function() {
 <div id="languagehead"><h2>Choose Your Language</h2></div>
 <div id="languagebody">
         <!--<ul>
-          <li><a href="https://bongous.com/ar/privacy-policy.php">العربية </a></li>
-          <li><a href="https://bongous.com/zh/privacy-policy.php">中国</a></li>
+          <li><a href="https://bongous.com/ar/privacy-policy.php">Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© </a></li>
+          <li><a href="https://bongous.com/zh/privacy-policy.php">ä¸­å›½</a></li>
           <li><a href="https://bongous.com/da/privacy-policy.php">Danske</a></li>
           <li><a href="https://bongous.com/de/privacy-policy.php">Deutsch</a></li>
         </ul>-->
         <ul>          
           <li><a href="https://bongous.com/privacy-policy.php">English</a></li>
-          <!--<li><a href="https://bongous.com/es/privacy-policy.php">Español</a></li>
-          <li><a href="https://bongous.com/fr/privacy-policy.php">Français</a></li>
-          <li><a href="https://bongous.com/el/privacy-policy.php">ελληνικά</a></li>-->
+          <!--<li><a href="https://bongous.com/es/privacy-policy.php">EspaÃ±ol</a></li>
+          <li><a href="https://bongous.com/fr/privacy-policy.php">FranÃ§ais</a></li>
+          <li><a href="https://bongous.com/el/privacy-policy.php">ÎµÎ»Î»Î·Î½Î¹ÎºÎ¬</a></li>-->
         </ul>
         <!--<ul>
           
           <li><a href="https://bongous.com/it/privacy-policy.php">Italiano</a></li>
-          <li><a href="https://bongous.com/ja/privacy-policy.php">日本語</a></li>
-          <li><a href="https://bongous.com/ko/privacy-policy.php">한국의</a></li>
+          <li><a href="https://bongous.com/ja/privacy-policy.php">æ—¥æœ¬èªž</a></li>
+          <li><a href="https://bongous.com/ko/privacy-policy.php">í•œêµ­ì˜</a></li>
           <li><a href="https://bongous.com/nl/privacy-policy.php">Nederlands</a></li>
         </ul>
         <ul>
           
           <li><a href="https://bongous.com/no/privacy-policy.php">Norge</a></li>
           <li><a href="https://bongous.com/pl/privacy-policy.php">Polski</a></li>
-          <li><a href="https://bongous.com/pt/privacy-policy.php">Português</a></li>
-          <li><a href="https://bongous.com/ru/privacy-policy.php">русский</a></li>          
+          <li><a href="https://bongous.com/pt/privacy-policy.php">PortuguÃªs</a></li>
+          <li><a href="https://bongous.com/ru/privacy-policy.php">Ñ€ÑƒÑÑÐºÐ¸Ð¹</a></li>          
         </ul>
         <ul>
             <li><a href="https://bongous.com/fi/privacy-policy.php">Suomeksi</a></li>
             <li><a href="https://bongous.com/sv/privacy-policy.php">Svenska</a></li>
-            <li><a href="https://bongous.com/tr/privacy-policy.php">Türkçe</a></li>
+            <li><a href="https://bongous.com/tr/privacy-policy.php">TÃ¼rkÃ§e</a></li>
         </ul>-->
         </div>
   </div>
