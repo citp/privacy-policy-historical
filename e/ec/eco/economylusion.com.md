@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the economylusion.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216100411id_/http%3A//www.economylusion.com/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the economylusion.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327181629id_/http%3A//www.economylusion.com/%3Fpage_id%3D2) for the most accurate reproduction.*
 
 # economylusion.com » Privacy Policy
 
