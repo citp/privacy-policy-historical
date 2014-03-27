@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsbook.ag privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124214233id_/http%3A//www.sportsbook.ag/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbook.ag privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327021924id_/http%3A//www.sportsbook.ag/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement | Sportsbook.ag
 
