@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the developereconomics.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819163443id_/http%3A//www.developereconomics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the developereconomics.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327223012id_/http%3A//www.developereconomics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Developer Economics Developer Economics
+# Privacy Policy | Developer Economics
 
 ### 1\. Introduction
 
@@ -49,3 +49,7 @@ We may amend this privacy policy from time to time. If we make any changes we wi
 ### 8\. Terms of use
 
 The contents of the downloadable papers published through this website are licensed under the terms specified within each paper. The remaining contents of this website are licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License.
+
+### 9\. Refund/Cancellation Policy
+
+Our research and reports are information and analysis contained in a digital form. The value is in the information communicated. Once delivered, the information cannot be returned.
