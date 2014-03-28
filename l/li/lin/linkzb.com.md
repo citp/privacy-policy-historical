@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkzb.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122101127id_/http%3A//www.linkzb.com/country/eng/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkzb.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328063039id_/http%3A//www.linkzb.com/country/eng/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Terms
 
@@ -6,7 +6,11 @@
 
 Internet user privacy and confidentiality is important to us. To better protect your privacy we provide this notice explaining our practices and the choices you can make about the way your information is collected and used.
 
-We do not collect any personally identifiable information about visitors of the website. Visitors are able to e-mail messages to us that will contain the visitor's name and e-mail address, as well as any additional information the user may wish to include in the message. We use the information visitors provide about themselves to fulfill those visitors' requests. E-mail addresses are used to answer messages received only.
+We do not collect any personally identifiable information about visitors of the website, if you do not log into our site. Visitors are able to e-mail messages to us that will contain the visitor's name and e-mail address, as well as any additional information the user may wish to include in the message. We use the information visitors provide about themselves to fulfill those visitors' requests. E-mail addresses are used to answer messages received only.
+
+If you log in with your Facebook account, our application will collect your email and name when you approve our request. We do not send SPAM to you or disclose your information. 
+
+When you register an account of our site, you will send your email and your password to our server. Your password is stored as encrypted state in our database. Your information is used to serve you and we never send SPAM to you or disclose your information. 
 
 **Links to Third-Party Sites**
 
