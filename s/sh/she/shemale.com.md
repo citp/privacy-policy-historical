@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shemale.com privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406193357id_/http%3A//shemale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shemale.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328231545id_/http%3A//www.shemale.com/privacy-policy) for the most accurate reproduction.*
 
-# Cams.shemale.com Porn Tubes and Live Sex Cams Will Get You Off - Privacy Policy
+# Join Hot Shemales on Live Sex Webcams | Shemale.com Privacy Policy
 
 We know that protecting your privacy is very important to you.
 
@@ -39,7 +39,7 @@ Obviously, in case we are required by law enforcement agencies and/or in case we
 
 Third party collection of information.
 
-Our policy only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties on our system or other sites throughout the internet, different rules may apply to their use or disclosure of the information you disclose to them. For example, when making a payment by credit card our third party billers/IPSP's (and not shemale.com) collect your credit card information and other information necessary for processing/authorizing your credit card payments. These payment companies may also provide certain of your details to us - but this shall not include your credit card number.
+Our policy only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties on our system or other sites throughout the internet, different rules may apply to their use or disclosure of the information you disclose to them. For example, when making a payment by credit card our third party billers/IPSP's (and not Shemale.com) collect your credit card information and other information necessary for processing/authorizing your credit card payments. These payment companies may also provide certain of your details to us - but this shall not include your credit card number.
 
 How can you update or delete the information held by us?
 
