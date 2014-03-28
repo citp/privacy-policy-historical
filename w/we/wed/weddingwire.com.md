@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingwire.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124010855id_/http%3A//www.weddingwire.com/shared/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingwire.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328210940id_/http%3A//www.weddingwire.com/shared/PrivacyPolicy) for the most accurate reproduction.*
 
 # Wedding Venues, Wedding Cakes, Dresses, Invitations, Planning, Advice for Perfect Weddings! | WeddingWire - Privacy Policy
 
