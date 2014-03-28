@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vicroads.vic.gov.au privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422101457id_/http%3A//www.vicroads.vic.gov.au/Home/Options/Privacy/PrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vicroads.vic.gov.au privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328233538id_/http%3A//www.vicroads.vic.gov.au/Home/Options/Privacy/PrivacyStatement.htm) for the most accurate reproduction.*
 
 # Privacy statement : VicRoads
 
@@ -24,7 +24,7 @@ Your email address will be recorded and used solely for the purpose for which yo
 
 Our online services are managed by a service provider. Our service provider may access the personal information entered in these forms in order to process electronic transactions or to resolve a technical problem. 
 
-Online payments are managed by the payment facility Maxi. Full information on the security of Maxi services can be viewed at ['Maxi Security'](http://www.maxi.com.au/security_vic.htm "Go to Maxi Security").
+Online payments are managed by the payment facility Maxi. Full information on the security of Maxi services can be viewed at ['Maxi Security'](http://www.maxi.com.au/about_maxi.htm#Service_and_Security "Go to Maxi Security").
 
 If you register as a user of the following online services: 
 
