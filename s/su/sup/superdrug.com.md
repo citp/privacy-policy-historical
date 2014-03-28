@@ -1,232 +1,347 @@
-> *The following text is extracted and transformed from the superdrug.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622042907id_/http%3A//www.superdrug.com/help%2Binfo/privacy-policy/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superdrug.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328155011id_/http%3A//www.superdrug.com/help%2Binfo/privacy-policy/page/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
+Last Updated: January 2014 
+
 ## Introduction
 
-Superdrug Stores plc is committed to protecting your privacy. Please read this policy carefully as it explains how we collect and use your personal information, for example when you browse and shop on superdrug.com or our mobile site, use your Beautycard, post comments on Twitter, Facebook, other social networks or on our blog site or otherwise provide us with your personal information. 
+Superdrug Stores plc is committed to safeguarding your privacy and ensuring that your personal data is protected.  This privacy policy applies to [www.superdrug.com](http://www.superdrug.com/)  and [www.superdruglookatme.com](http://www.superdruglookatme.com/) (the " **Sites** ") and to personal data collected about you by Superdrug Stores plc (registered number 807043) of 118 Beddington Lane, Croydon, Surrey CR0 4TB, ("we", "us", or "our"). Superdrug Stores plc is a member of the ASW group of companies (" **ASW Group** ").
 
-By using superdrug.com or our mobile site, your Beautycard or by clicking on the 'Register' button or other relevant button during the registration process you confirm that you have read and understood this Privacy Policy and consent to us using your personal information in accordance with this policy. 
+## YOUR CONSENT TO THIS PRIVACY POLICY 
 
-## Information we collect from you 
+By using the Sites, you are agreeing to the terms of this privacy policy. If you do not agree with any term in this policy, please do not use the Sites. 
 
-We collect information from you when you: 
+## INFORMATION THAT WE COLLECT ABOUT YOU
 
-  * purchase products through superdrug.com or our mobile site; 
-  * register you Beautycard;
-  * use your Beautycard;
-  * submit a product review, post a response to a blog, enter competitions/prize draws/ promotions; 
-  * interact with us via social media; 
-  * contact customer services; and 
-  * complete a survey or otherwise participate in customer research. 
+In this privacy policy your "personal data" means information or pieces of information relating to you or that could allow you to be directly or indirectly identified.
 
+We may collect personal data about you from different sources, including collecting personal data: (i) from you directly; (ii) when you visit the Sites; and (iii) from other sources. 
 
+### _Types of personal data we collect from you directly_
 
-We may also collect information automatically using cookies or other similar technologies when you browse superdrug.com, use our mobile site or click on links in emails. Please see the section on cookies for further information. 
+We may collect personal data from you directly when you provide us with personal data so that you can register as a member of our loyalty program, register for prize draws or competitions, receive information or mailings, use Superdrug applications, buy a product or service from us, complete a survey, make a comment or enquiry, contact our customer services or for a variety of other reasons. Please be assured that we will not collect any personal data unless you provide this information voluntarily.
 
-## Using your information 
+The types of data we may collect from you directly include your: 
 
-We will use your information to: 
-
-  * process and fulfil your orders and administer your Beautycard account; 
-  * manage and improve the Beautycard loyalty programme; 
-  * understand your browsing and shopping habits; 
-  * carry out analytics and market research; 
-  * send you information about the Beautycard programme, including promotions in accordance with your marketing preferences; 
-  * administer promotions, prize draws and surveys; 
-  * improve our products, services, superdrug.com and our mobile site; 
-  * respond to your queries; and 
-  * prevent or detect fraud or other crimes and/or verify your identity. 
+  * name; 
+  * postal address;
+  * email address;
+  * home telephone number or mobile number; 
+  * loyalty card number; 
+  * passwords; 
+  * order history/wishlist; 
+  * payment history;
+  * age;
+  * date of birth;
+  * gender.
 
 
 
-Provided you have given us your consent, we may send you, by post, email or SMS, details of products, services, special offers, promotions and other information that we think may be of interest to you based on your previous purchases and information you have given to us. From time to time we may also contact you for customer research purposes. You may unsubscribe from such communications at any time, by changing your communication preferences in the 'My Account' section of superdrug.com or via the unsubscribe link that you will find at the bottom of every marketing email we send. However if you do so you may miss out on some great offers. 
+### _Types of personal data we collect when you visit the Sites (cookies)_
 
-## Sharing information 
+We use cookies and similar technologies to collect data about you when you visit the Sites. . We use cookies on our Sites. Cookies are files that store information on your computer hard drive or browser that mean that we can recognise that you have visited our Sites before. We use cookies to give you the best possible experience on our Sites. If you would like more information about the types of cookies we use and how we use them, please read our Cookies Policy. The types of data we may collect from you when you visit the Sites include: 
 
-We take your privacy extremely seriously; we will not share your information with other companies to enable them to send you marketing material, except for our sister company The Perfume Shop. 
-
-We may share your information with: 
-
-  * Companies performing services on our behalf who will only use the information to provide that service to us. These organisations may provide services to us from other countries, which may mean that personal information is transferred to those other countries. However rest assured we will always implement appropriate measures to ensure that your information is secure; 
-  * Other members of our corporate group (the A. S. Watson group of companies); 
-  * A purchaser or potential purchaser of our business or assets; 
-  * Organisations which we need to share information with either for legal reasons, to prevent or investigate criminal activity, or to protect our or our customers' rights (for example the police, the courts, fraud investigation organisations, insurers, solicitors, auditors and financial advisors); and 
-  * Credit checking organisations. 
+  * information about the type of browser you use; 
+  * details of the web pages you have viewed; 
+  * your IP address;
+  * the hyperlinks you have clicked; and 
+  * the websites you visited before arriving at our Sites.
 
 
 
-We may disclose anonymised and/or aggregated information to other companies, however, this will not include your personal information. 
+### _Types of personal data we collect from other sources_
 
-## Email a friend
+We may receive personal data about you from other sources, which could include commercially available sources, such as public databases and data aggregators to the extent permitted by applicable Data Protection Laws.
 
-We may from time to time operate a 'refer a friend' or 'email a friend' service to enable you to easily recommend a product, offer or other information to a friend. If you use this facility please ensure that you have obtained your friend's consent before you provide us with their personal information. When we contact the friend we will always tell them the name and email address of the person who made the referral. We will not use your friend's information for any other purpose unless they consent to us doing so. 
+The types of data we may collect from such sources include:
 
-## Our Privacy Promise
+  * name;
+  * street address;
+  * age;
+  * your shopping habits;
+  * preferences and information about your lifestyle such as your hobbies and interests; and
+  * publicly available information such as user-generated content, blogs and postings.
 
-Every time you use your Beautycardwe will collect information about what you buy. We will use this information to better understand your shopping habits and to improve our products and services, including the offers we send to you. We won't send you these or any other marketing unless you have given us your consent to do so, but you may miss out! 
 
-We will **NEVER** share your personal details with third parties to allow them to send you their own direct marketing. We may share your personal information with companies performing services on our behalf who will only use the information to provide that service. 
 
-## Cookies 
+## HOW WE USE YOUR PERSONAL DATA 
 
-The rules relating to the use of cookies on websites have recently changed. The information below is intended to explain which cookies we use, why we use them, how you can prevent us from using cookies on your device and the impact on the website if you decide you don't want to receive cookies. 
+Subject to your prior consent where required under applicable Data Protection Laws, we may use your personal data: 
 
-Please check this Privacy and Cookies Policy regularly as the cookies we use and how we use them may change over time. 
+  * to process your application;
+  * to provide the services;
+  * to respond to your queries or comments;
+  * for the purposes of promotion, prize draws or competitions that you have entered;
+  * to send you products or samples that you have requested;
+  * to evaluate the use of our Sites, products and services and understand your browsing and shopping habits;
+  * to make product recommendations to you;
+  * to carry out analytics and market research;
+  * to analyse the effectiveness of our advertisements;
+  * to profile your purchases of products (including health products both in store and online; 
+  * to prevent or detect fraud or other crimes and/or verify your identity;
+  * to verify/check your credit/payment status; and
+  * to process payment instructions.
 
-## What is a cookie? 
 
-Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user's device. You can find more information about cookies at: [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) or for a video about cookies visit [www.google.co.uk/goodtoknow/data-on-the-web/cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies). 
 
-Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improving the user experience. Cookies may be session cookies, i.e. only stored on your device until you close the browser window or persistent cookies. Persistent cookies remain on your device even after the web browser is closed and are reactivated each time you revisit the particular site that served the cookie. 
+We may supplement the personal data you provide to us with other information that we hold or that we may receive from third parties. We do this for marketing purposes to provide you with more targeted products and services. 
 
-## Web Beacons and Flash cookies 
+## MARKETING MESSAGES 
 
-Web Beacons (sometimes called 'clear gifs') are small image files that we use in our emails to measure the effectiveness of our marketing campaigns and to enable us to better understand how you navigate around superdrug.com. 
+We may send you, by post, email or push notification, details of products, services, special offers, promotions and other information that we think may be of interest to you based on your previous purchases and information you have given to us.  From time to time we may also contact you for customer research purposes.  You may unsubscribe from such communications at any time, by changing your communication preferences in the 'My Account' section of the Sites, via the unsubscribe link that you will find at the bottom of every marketing email we send or by contacting customer relations on email: [customer.relations@uk.aswatson.com](mailto:customer.relations@uk.aswatson.com) or the Beautycard helpline on email: [beautycard@superdrug.com](mailto:beautycard@superdrug.com). However if you do unsubscribe you may miss out on some great offers. 
 
-We also use Flash cookies (also know as Local Shared Objects) to enhance your experience on Superdrug.com. Additionally, our affiliate marketing partner uses Flash cookies to enable it to track your journey to Superdrug.com so that it can reward other websites for directing you to our site. The Adobe Flash Player use technology to remember settings, preferences and usage in a way that is similar to cookies but Flash objects are managed differently. If you wish to disable or delete a Flash cookie, please visit <http://www.adobe.com/security/flashplayer/>. 
+### _Email a friend_
 
-## Cookies used on our superdrug.com 
+We may from time to time operate a 'refer a friend' or 'email a friend' service to enable you to easily recommend a product, offer or other information to a friend. If you use this facility please ensure that you have obtained your friend's consent before you provide us with their personal data. When we contact the friend we will always tell them the name and email address of the person who made the referral. We will not use your friend's information for any other purpose unless they consent to us doing so. 
 
-We have divided up the cookies used on superdrug.com into the categories developed by the International Chamber of Commerce  UK . The cookies used on superdrug.com are listed by category below: 
+## PROCESSING YOUR INFORMATION
 
-## Strictly necessary cookies 
+We may share your personal data with or pass it onto other companies within the ASW Group and third parties which directly support our promotional activities and Site administration. We may use third parties to help us process and analyse your personal data, to give us insights that we can use to improve our products and services, and to track the effectiveness of a particular promotion or campaign. Also, if you order a product or service from us, we may share your personal data with our suppliers and other third parties to allow delivery of the products and services you have ordered. Any such suppliers or third parties are not authorised by us to use your personal data in any other way and will be required by us to implement measures to protect your personal data. Please note that we may need to disclose your personal data if we are required to do so by law, or by a warrant, subpoena or court order.
 
-These cookies enable services you have specifically asked for and are essential in order to enable you to move around superdrug.com and use its features, such as accessing secure areas of the website. Without these cookies services you have asked for, like shopping baskets, cannot be provided. 
+We will delete your personal data when there has been no activity on your account for 3 years. 
 
-Cookie Name  |  Originating page  |  Purpose   
----|---|---  
-RFID  |  Add to basket/log in  |  This cookie stores information which allows us to recognise you as you move around superdrug.com. It also allows us to respond to your actions such as 'Add to basket'.   
-SID  |  First page visited  |  This cookie also enables us to recognise you and allows you to complete transactions.   
+## WHERE WE TRANSFER AND PROCESS YOUR INFORMATION
+
+We may need to transfer your personal data to a location outside of the European Economic Area ("EEA"), including to countries that do not offer the same level of protection with respect to personal data as required in the EEA, on a need-to-know basis for administrative purposes. By subscribing to and using our services, you acknowledge and consent to these potential transfers. We will ensure that we will place obligations on the recipient of the data to provide an adequate level of protection to the standard as required in the EEA. 
+
+## PROTECTING YOUR PERSONAL DATA
+
+We maintain appropriate administrative, technical and physical safeguards to protect the personal data you provide to us against accidental, unlawful or unauthorised destruction, loss, alteration, access, disclosure or use and other unlawful forms of processing. 
+
+The Sites may contain hyperlinks to other websites provided by third parties. We do not control these third party websites or any of the content contained on those websites. Once you have left our website, we cannot be responsible for the protection and privacy of any information which you provide. You should exercise caution and look at the privacy statement for the website you visit. 
+
+## CHANGES IN OUR PRIVACY POLICY
+
+We may change this privacy policy from time to time by posting the updated version of the privacy policy here. We encourage you to visit this area frequently to stay informed. 
+
+## YOUR RIGHTS AND WHO TO CONTACT
+
+Please do not hesitate to contact us if you have any questions, comments or concerns about this privacy policy.  You have the right to tell us if you:
+
+  * don't want to be contacted in the future by us; 
+  * would like a copy of the personal data which we hold about you;
+  * would like us to correct or update your personal data in our records;
+  * wish to report any violations of the privacy policy.
+
+
+
+You can send an email to customer relations on email: [customer.relations@uk.aswatson.com](mailto:customer.relations@uk.aswatson.com) or the Beautycard helpline on email: [beautycard@superdrug.com](mailto:beautycard@superdrug.com) or write to us at: Superdrug Stores plc, 118 Beddington Lane, Croydon, Surrey, CR0 4TB, United Kingdom. 
+
+## Superdrug Stores plc Cookies Policy
+
+Last Updated: January 2014 
+
+## INTRODUCTION
+
+We use cookies on our Sites. Cookies are files that store information on your computer hard drive or browser that mean that we can recognise that you have visited our website before. We use cookies to give you the best possible experience on our Sites. This Cookies Policy gives you more details on the cookies used on our Sites.
+
+You can disable the cookies from your browser at any point in time and delete all cookies currently stored on your computer. On Microsoft Internet Explorer, this can be done by selecting "Tools/Internet Options" and reviewing your privacy settings or selecting "delete cookies". This may, however, prevent you from taking full advantage of the Sites and being able to make any purchases from the Sites. You can find out how to do this for your particular browser by clicking "help" on your browser's menu, or by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/). To make full use of the online shopping and personalised features on our Sites, your computer, tablet or mobile phone will need to accept cookies, as we can only provide you with certain personalised and essential features of the Sites by using them.
+
+## MORE INFORMATION ABOUT COOKIES
+
+Our Sites use cookies for the following purposes:
+
+  * To remember your language and country preferences on the Sites;
+  * To remember what items you put in your basket on your last visit, so that we can keep your basket contents for you if you did not buy them; and 
+  * To track customer behaviour such as the pages visited on your way through the Sites, and the rate of basket abandonment. This helps us to improve the Sites and your browsing experience.
+
+
+
+We do not use cookies or other tracking technologies to collect information from, or to store information on, your personal computer or other device used to visit our Sites, or to track your online activities when you are not on our Sites. 
+
+Our Sites also uses some third-party tools such as Google Analytics and Facebook and these third-parties may also place cookies via our Sites.
+
+Here is a full list of the cookies used on our Sites. Please note that: 
+
+  * some cookies are set by our Sites (‘first party cookies’) and some are set by others such as Google and Facebook (‘third party cookies’); and
+  * some cookies are removed from your computer when you close your browser. These are called 'session cookies'. Others stay on your computer for longer, until they expire after a fixed time. These are called 'persistent cookies', and can be used to store information between your browsing sessions, such as your preferred settings on a website, or the items that you added to your basket on your last visit.
+
+**SUPERDRUG.COM**  
+---  
+**FIRST-PARTY COOKIES**  
+**Cookie** | **Originating Page** | **Used by** | **Description** | **Essential for Checkout?** | **Expiry**  
+device  | First page viewed  | Platform  | Stores the device preference 'mobile' or 'desktop' either by detection from the app or manually set. Only on Sites using the Venda Mobile solution.  | YES | End of session   
+httprefer  | First page viewed  | Platform  | Referral data to track sites that link to Venda.  | NO | 2 days   
+lang  | All  | Platform  | Records the Customer's language preference. Can be set by either the Customer selecting a language using Region and Language Selection functionality or by visiting a page where the language is defined in the URL.  | YES (on Multi-Language Sites)  | Never   
+locn  | All  | Platform  | Records the Customer's location (region) preference. Can be set by either the Customer selecting a region using Region and Language Selection functionality or by visiting a page where the region is defined in the URL.  | YES (on Multi-Language Sites)  | Never   
+newCurr  | When the Customer uses the Currency Converter functionality  | Pre-v12 Currency Converter  | Records the Customer's currency preference so that exchange rates can be made.  | NO | 1 week  
+quench  | All  | Platform  | During busy times, 'quenching' can be enabled on a Site which restricts the amount of people allowed to access the Site. If quenching is enabled, Customers with this cookie and a value in that cookie below the threshold will be allowed to continue to use the Site (i.e., to place an order); those without it (i.e., those who have not started shopping) will be prevented from using the Site until there is capacity to handle them.  | YES  | End of session   
+referid  | First page viewed  | Platform  | Referral data to track sites that link to Venda.  | NO  | 2 days   
+RFID  | Add to Cart / Log In  | Platform  | Contains information about the Customer, such as their unique user reference ID for the current session.  | YES  | Never   
+RSI  | Keyword search  | Recent Search Box (DEPRECATED)  | Records the last 3 keyword searches so they appear in the "Recent Search Box", allowing the Customer to jump back to those searches quickly.  | NO  | 1 day   
+RVI  | Product Detail  | Recently Viewed Items  | Records the SKUs the Customer has recently viewed. Without this cookie, the "Recently Viewed Items" box will not show any items.  | NO  | 1 week   
+setCurrency  | When the Customer uses the Currency Converter functionality  | Post-v12 Currency Converter  | Records the Customer's currency preference so that exchange rates can be made.  | NO  | 1 week   
+setView  | Product Lists / Search Results  | Product View Switches  | Records the Customer's preference for the number of Products to view per page.  | NO  | 1 week   
+setViewPerPage  | Product Lists / Search Results  | Product Lists and Search Results  | Records the Customer's preference for the number of Products to view per page.  | NO  | 1 week   
+SID  | First page viewed  | Platform  | Contains information about the session. If the user is logged in, this cookie is cleared when the user logs out.  | YES  | Never   
+Google Adwords  | All  | Platform | [http://www.google.com/  
+policies/technologies/types/](http://www.google.com/policies/technologies/types/) | NO | End of session   
+Aw (merchantid) for example: aw1001 |   |   | These cookies are third party cookies. They are affiliate tracking cookies served by awin1.com. The cookies allow our affiliate partner to identify how you found Superdrug.com and whether we need to reward an external website for sending you to us.  |   | 30 min   
+Aw (merchantid) for example: aw1001   
+AWSESS   
+awpv9 (merchantid)   
+aw3   
+AW   
+_aw_m_ (clickid)   
+**THIRD-PARTY COOKIES**  
+**Cookie** | **Originating Page** | **Description** | **Essential for Checkout?** | **Expiry**  
+__utma  | First GA-enabled page viewed  | 
+
+The unique ID for the Customer used to track repeat visits. 
+
+| NO | 2 years  
+__utmb  | First GA-enabled page viewed  | 
+
+Used by ga.js to determine the Customer's session information. 
+
+| NO | 30 minutes  
+__utmc  | First GA-enabled page viewed  | 
+
+Used by ga.js to determine the Customer's session information. 
+
+| NO | Session  
+___utmv  | First GA-enabled page viewed  | 
+
+Used only if custom variables are set to report on the particular data that it is configured to gather (e.g., a custom demographic). 
+
+| NO | 2 years   
+___utmx  | First GA-enabled page viewed  | 
+
+Used only if Website Optimizer is installed and correctly configured. When the optimizer script executes, this cookie stores the variation this visitor is assigned to for each experiment, so the visitor has a consistent experience on the Client's Site. See Website Optimizer Help Centre for more information. 
+
+| NO | 2 years  
+__utmz  | First GA-enabled page viewed  | 
+
+Stores the referral information for the Customer; e.g., whether they found the page by a search engine result, direct link, ad, etc. 
+
+| NO | 6 Months  
+DS3 |   | 
+
+Used for PPC Campaign
+
+|   | End of session  
+**Peerius Cookie Set**  
+**Data stored and/or accessed <TAG> ** | **Function** | **Who sets the cookie?** | **Duration** | **Intrusiveness**  
+Peerius_user  | 
+
+Stores the cookie ID of the visitor as a string of numbers and sticks to the user’s browser until the cache is cleared. Allows recognition across visitor sessions to help understand returning visitor to provide a more relevant personalised experience. 
+
+| 
+
+Retailer 
+
+| Indefinite  | Moderately intrusive   
+Peerius_sess  | Session Cookie, gathers information on the visitors current session to provide a better visitor experience for that visit  | 
+
+Retailer 
+
+| Expires after 4 hours of inactivity  | Moderately Intrusive   
+Peerius_rid  | If a user clicks a recommendation, this holds the id for the clicked recommendation. This cookie lives for a few seconds. When the user clicks a recommendation, our JavaScript adds the cookie. When the next page is loaded, our JavaScript reads the cookie and sends it to our server so that our server is aware of the click.  | 
+
+Retailer 
+
+| Few seconds  | Minimally intrusive   
+Peerius_ct  | 
+
+A temporary cookie used to check if the user has cookies enabled 
+
+| 
+
+Retailer 
+
+| NO | Exempt   
+**EXTERNAL WEBSITE : LOOK AT ME**  
+---  
+**Strictly necessary cookies**  
+**Cookie Name** | **Originating page** | **Purpose**  
+RFID  | 
+
+Add to basket/log in
+
+| 
+
+This cookie stores information which allows us to recognise you as you move around lookatme.superdrug.com. It also allows us to respond to your actions such as ‘Add to basket’.  
   
-## Performance cookies 
+SID | First page visited | 
 
-These cookies collect anonymous information about how you use superdrug.com, for instance which pages you go to most often, and if you get any error messages. We cannot identify you from the information collected by these cookies. The information is only used to improve how superdrug.com works. 
-
-Cookie Name  |  Originating page  |  Purpose   
----|---|---  
-RVI  |  Product pages  |  This cookie stores a list of recently viewed items. We may use this information in the future to display a "recently viewed items" panel.   
+This cookie also enables us to recognise you and allows you to complete transactions.  
   
-referid 
+**Performance cookies**  
+**Cookie Name** | **Originating page** | **Purpose**  
+RVI | 
 
-httprefer 
+Product pages
 
-|  First page visited  |  These cookies store information about how you arrived at superdrug.com and which website you came from. These help us to identify which links and marketing channels are most effective.   
+| 
+
+This cookie stores a list of recently viewed items. We may use this information in the future to display a “recently viewed items” panel.  
   
-_utma 
+referidhttprefer | First page visited | 
 
-_utmb 
-
-_utmc 
-
-_utmz 
-
-|  All  |  These cookies are served by Google Analytics and collect information on how visitors use the site. The cookies collect and analyse information such as new visitor numbers, where the visitor originates from, the pages they have visited and time spent making a purchase. We use this information to compile reports and to help make improvements to superdrug.com. For further details of how Google uses and protects information collected for its Google Analytics service, please visit <http://www.google.com/intl/None/policies/privacy/>.   
-Tracking tags 
-
-##   
-
-|  [●]  |  These cookies enable our site analytics software to function. These cookies may be first or third party cookies and allow us to analyse how visitors use our site and allow us to improve superdrug.com.  
-Quench  |  All  |  This cookie allows us to monitor performance of superdrug.com.   
+These cookies store information about how you arrived at lookatme.superdrug.com and which website you came from. These help us to identify which links and marketing channels are most effective.  
   
-aw(merchantid) for example: aw1001 
+_utma_utmb_utmc_utmz | All | 
 
-AWSESS 
-
-awpv9(merchantid) 
-
-aw3 
-
-AW 
-
-_aw_m_(clickid) 
-
-|  Order receipt page  |  These cookies are third party cookies. They are affiliate tracking cookies served by awin1.com. The cookies allow our affiliate partner to identify how you found Superdrug.com and whether we need to reward an external website for sending you to us.   
+These cookies are served by Google Analytics and collect information on how visitors use the site. The cookies collect and analyse information such as new visitor numbers, where the visitor originates from, the pages they have visited and time spent making a purchase. We use this information to compile reports and to help make improvements to lookatme.superdrug.com  
   
-**By using superdrug.com, you agree that we can place these types of cookies on your device.**
+Tracking tags | [●] | 
 
-## Functionality cookies 
-
-These cookies allow us to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites. 
-
-Cookie Name  |  Originating page  |  Purpose   
----|---|---  
-locn  |  All  |  This cookie collects information about the region in which you are located so that we can tailor the content accordingly.   
-lang  |  All  |  The information stored in this cookie allows you to select a language preference. This functionality is currently not available on superdrug.com.   
-RVI  |  Viewing items  |  This cookie collects a list of recently viewed items for the purposes of displaying "recently viewed items" panel.   
-newCurr  |  Viewing currency exchange rates  |  This cookie allows us to remember your choice of currency in order to provide an exchange rate.   
-SetviewsetViewPerPage  |  Product list/ search list page  |  These cookies enable us to display your search results and product lists according to your preferences, such as how many products to display per page.   
-RSI  |  Search  |  This cookie stores the last 3 keyword searches for the purpose of displaying the last 3 search results so you can quickly go back to them.   
+These cookies enable our site analytics software to function. These cookies may be first or third party cookies and allow us to analyse how visitors use our site and allow us to improve lookatme.superdrug.com.  
   
-**By using superdrug.com, you agree that we can place these types of cookies on your device.**
+Quench | All | 
 
-## Targeting cookies 
-
-These cookies are used to deliver content that is more relevant to you and your interests. They remember what pages of superdrug.com you have visited in order to suggest other products or content that you may like. Targeting cookies may also be linked to site functionality. 
-
-Cookie Name  |  Originating page  |  Purpose   
----|---|---  
+This cookie allows us to monitor performance of lookatme.superdrug.com.  
   
-Vbmprods 
+aw(merchantid) for example: aw1001AWSESS | Order receipt page | 
 
-vbmtracker 
-
-|  Viewing items  |  These cookies collect a list of recently viewed items, including their tracking codes, to enable us to suggest items which may interest you based on your previous browsing activities.   
+These cookies are third party cookies. They are affiliate tracking cookies served by awin1.com. The cookies allow our affiliate partner to identify how you found lookatme.superdrug.com and whether we need to reward an external website for sending you to us.  
   
-Peerius_user 
+awpv9(merchantid)aw3AW_aw_m_(clickid)  
+**Functionality cookies**  
+**Cookie Name** | **Originating page** | **Purpose**  
+locn | 
 
-|  Viewing items  |  Stores the cookie ID of the visitor as a string of numbers and sticks to the user's browser until the cache is cleared. Allows recognition across visitor sessions to help understand returning visitor to provide a more relevant personalised experience.   
+All
+
+| 
+
+This cookie collects information about the region in which you are located so that we can tailor the content accordingly.  
   
-Peerius_sess
+lang | All | 
 
-|  Viewing items  |  Session cookie, gathers information on the visitors current session to provide a better visitor experience for that visit  
+The information stored in this cookie allows you to select a language preference. This functionality is currently not available on lookatme.superdrug.com.  
   
-Peerius_user 
+RVI | Viewing items | 
 
-|  Viewing items  |  If a user clicks a recommendation, this holds the id for the clicked recommendation. This cookie lives for a few seconds. When the suer clicks a recommendation our Javascript adds the cookie .When the next page is loaded, our Javascript reads the cookie and sends it to our servers so that our server is aware of the click.  
+This cookie collects a list of recently viewed items for the purposes of displaying “recently viewed items” panel.  
   
-Peerius_user 
+newCurr | 
 
-|  Viewing items  |  A temporary cookie used to check if the user has cookies enabled.  
+Viewing currency exchange rates
+
+| 
+
+This cookie allows us to remember your choice of currency in order to provide an exchange rate.  
   
-## Third Party Cookies 
+SetviewsetViewPerPage | 
 
-Whilst you use superdrug.com, cookies may be placed on your machine by us or by our third party partners, such as Google or awin1.com. These cookies are described more fully in the Performance cookie table above. 
+Product list/ search list page
 
-Additionally, other third parties may place cookies on your device if you use certain functions on superdrug.com, for example if you: 
+| 
 
-  * visit a page that contains embedded content, for example a video clip from YouTube; 
-  * pay for your shopping using the PayPal site; or 
-  * 'share' content with friends using Twitter, Facebook or other social networks. 
+These cookies enable us to display your search results and product lists according to your preferences, such as how many products to display per page.  
+  
+RSI | Search | 
 
+This cookie stores the last 3 keyword searches for the purpose of displaying the last 3 search results so you can quickly go back to them.  
+  
+**Targeting cookies**  
+**Cookie Name** | **Originating page** | **Purpose**  
+Vbmprodsvbmtracker | 
 
+Viewing items
 
-We cannot control the setting of these cookies or how these websites use your data, so please check their privacy policies carefully before using these functions on superdrug.com. 
+| 
 
-## How to turn off cookies 
-
-You can choose whether or not to accept cookies by amending or setting the controls on your browser. The Help menu on the menu bar of most browsers will tell you how to change your cookie settings, including how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. However, if you choose not to accept cookies some of the essential features of superdrug.com will not work, including adding items to your Shopping Basket or 'Your Account' areas of the site.
-
-For more information on how to manage cookies in your browser, please visit _<http://www.allaboutcookies.org/manage-cookies/>_. 
-
-## When you apply for a job with us 
-
-When applying for a job with us through our website you will provide information about yourself, such as your CV. We will use this information to assess your suitability for employment by us and in any subsequent interviewing process. 
-
-We will keep copies of the information you submit and any further correspondence in order to progress your job application and as a record of our employment and fair access processes. If you are a successful candidate then we will keep your information for the purpose of your employment with us. We may also keep information about unsuccessful candidates so that we can contact them in the future about other vacancies we think may be of interest. 
-
-We sometimes employ external recruitment agents to help with the recruitment process. We will always retain control of your information (including CVs you may submit) and the recruitment agent must act in accordance with our instructions when using that information. 
-
-## How to get copies of or amend the information we have collected
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. We may charge a small fee for this (which will be no more than £10). If you would like a copy of the personal information we hold about you please write to Customer Services,  118 Beddington Lane , Croydon,  Surrey , CR0 4TB . 132 
-
-If you need to update any details relating to your [Beautycard](http://www.superdrug.com/beautycard/introducing-the-superdrug-beautycard-your-new-shopping-essential/page/beautycard/) registration then you can either update them online at [superdrug.com/beautycard](http://www.superdrug.com/beautycard/introducing-the-superdrug-beautycard-your-new-shopping-essential/page/beautycard/), or by calling our Loyalty Helpline on 08445 464747*. If you think any other information we have about you is incorrect or incomplete, please call us on 0800 096 1055 as soon as possible so we can correct or update your information. 
-
-**Changes to this policy**
-
-We may change this policy from time to time by updating this page. You should regularly check this page to ensure you are happy with any changes. 
-
-**This policy was last updated on** **5 December 2012** **.**
-
-* Calls to our Loyalty Helpline are charged at 5p per minute from landlines (but are likely to cost more from mobile phones). 
+These cookies collect a list of recently viewed items, including their tracking codes, to enable us to suggest items which may interest you based on your previous browsing activities.
