@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the player.fm privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127013430id_/http%3A//player.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the player.fm privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328074201id_/https%3A//player.fm/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,14 @@ We may use both “session” cookies and “persistent” cookies on the websit
 
 Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
 
-We use third-party services on this website. They generate statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. These services will store this information. The services we use are as follows: * Google Analytics. Privacy policy is available at <http://www.google.com/privacypolicy.html>. * Kiss Metrics. Privacy policy is available at <http://www.kissmetrics.com/privacy>. * Intercom IO. Privacy policy is available at <http://docs.intercom.io/privacy.html>. * User Voice. Privacy policy is available at <http://www.uservoice.com/privacy>.
+We use third-party services on this website. They generate statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. These services will store this information. The services we use are as follows:
+
+  * Google Analytics. Privacy policy is available at <http://www.google.com/privacypolicy.html>.
+  * Kiss Metrics. Privacy policy is available at <http://www.kissmetrics.com/privacy>.
+  * Intercom IO. Privacy policy is available at <http://docs.intercom.io/privacy.html>.
+  * User Voice. Privacy policy is available at <http://www.uservoice.com/privacy>.
+
+
 
 Our partners may also send you cookies to help us track statistics for quality assurance purposes.
 
@@ -38,7 +45,20 @@ Most browsers allow you to reject all cookies, whilst some browsers allow you to
 
 Personal information submitted to us via our website and applications will be used for the purposes specified in this privacy policy or in relevant parts of the website.
 
-We may use your personal information to: * administer the website; * improve your browsing experience by personalising the website; * enable your use of the services available on the website; * send to you goods purchased via the website, and supply to you services purchased via the website; * send statements and invoices to you, and collect payments from you; * send you general (non-marketing) commercial communications; * send you email notifications which you have specifically requested; * send to you our newsletter and other marketing communications relating to our business (any marketing communications we send you will include straightforward directions about how to quickly inform us that you no longer require such communications) * provide the aforementioned third party analytics and communication services with statistical information about our users - but this information is not shared for marketing purposes * deal with enquiries and complaints made by or about you relating to the website
+We may use your personal information to:
+
+  * administer the website;
+  * improve your browsing experience by personalising the website;
+  * enable your use of the services available on the website;
+  * send to you goods purchased via the website, and supply to you services purchased via the website;
+  * send statements and invoices to you, and collect payments from you;
+  * send you general (non-marketing) commercial communications;
+  * send you email notifications which you have specifically requested;
+  * send to you our newsletter and other marketing communications relating to our business (any marketing communications we send you will include straightforward directions about how to quickly inform us that you no longer require such communications)
+  * provide the aforementioned third party analytics and communication services with statistical information about our users - but this information is not shared for marketing purposes
+  * deal with enquiries and complaints made by or about you relating to the website
+
+
 
 Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the licence and permissions you grant to us.
 
