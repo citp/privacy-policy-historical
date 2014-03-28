@@ -1,16 +1,17 @@
-<!--The following is the downloaded HTML source of the whathifi.com privacy policy that was archived on 2013-10-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131015065309id_/http%3A//www.whathifi.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the whathifi.com privacy policy that was archived on 2014-03-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140328055608id_/http%3A//www.whathifi.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwQHU1BACQcAVFRbBQ=="};window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a,b){function c(a,b,c){c||(c={});for(var d=f[a],e=d&&d.length||0,h=c[g]||(c[g]={}),i=0;e>i;i++)d[i].apply(h,b);return h}function d(a,b){var c=f[a]||(f[a]=[]);c.push(b)}function e(a){return delete a[g]}var f={},g="nr@context";b.exports={on:d,emit:c,clear:e}},{}],2:[function(a){function b(a,b,e,g,i){return h?h-=1:c("err",[i||new UncaughtException(a,b,e)]),"function"==typeof f?f.apply(this,d(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var c=a("handle"),d=a("lodash._slice"),e=a("../../../contextual-ee"),f=window.onerror,g=!1,h=0;a("loader").features.push("err"),window.onerror=b;try{throw new Error}catch(i){"stack"in i&&(a("../../wrap-timer"),a("../../wrap-raf"),"addEventListener"in window&&a("../../wrap-events"),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&a("../../wrap-xhr"),g=!0)}e.on("fn-start",function(){g&&(h+=1)}),e.on("fn-err",function(a,b,d){g&&(this.thrown=!0,c("err",[d,(new Date).getTime()]))}),e.on("fn-end",function(){g&&!this.thrown&&h>0&&(h-=1)})},{"../../../contextual-ee":1,"../../wrap-events":3,"../../wrap-raf":4,"../../wrap-timer":5,"../../wrap-xhr":6,handle:"4O2Y62",loader:"YLUGVp","lodash._slice":14}],3:[function(a){function b(a){d.inPlace(a,["addEventListener","removeEventListener"],"-",c)}function c(a){return a[1]}var d=a("../wrap-function"),e=(a("lodash._slice"),a("../contextual-ee"));if(b(window),"getPrototypeOf"in Object){for(var f=document;f&&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&&b(f);for(var g=XMLHttpRequest.prototype;g&&!g.hasOwnProperty("addEventListener");)g=Object.getPrototypeOf(g);g&&b(g)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&b(XMLHttpRequest.prototype);e.on("addEventListener-start",function(a){if(a[1]){var b=a[1];"function"==typeof b?this.wrapped=b["nr@wrapped"]?a[1]=b["nr@wrapped"]:b["nr@wrapped"]=a[1]=d(b,"fn-"):"function"==typeof b.handleEvent&&d.inPlace(b,["handleEvent"],"fn-")}}),e.on("removeEventListener-start",function(a){var b=this.wrapped;b&&(a[1]=b)})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],4:[function(a){var b=(a("lodash._slice"),a("../wrap-function")),c=a("../contextual-ee");b.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),c.on("raf-start",function(a){a[0]=b(a[0],"fn-")})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],5:[function(a){function b(a){var b=a[0];"string"==typeof b&&(b=new Function(b)),a[0]=c(b,"fn-")}var c=(a("lodash._slice"),a("../wrap-function")),d=a("../contextual-ee");c.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),d.on("setTimer-start",b)},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],6:[function(a){function b(){c.inPlace(this,f,"fn-")}var c=a("../wrap-function"),d=a("../contextual-ee"),e=window.XMLHttpRequest,f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(a){var f=new e(a);return d.emit("new-xhr",[],f),c.inPlace(f,["addEventListener","removeEventListener"],"-",function(a,b){return b}),f.addEventListener("readystatechange",b,!1),f},window.XMLHttpRequest.prototype=e.prototype},{"../contextual-ee":1,"../wrap-function":15}],7:[function(a){function b(a){var b=this.params,c=this.metrics;if(!this.ended){this.ended=!0;for(var d=0;j>d;d++)a.removeEventListener(i[d],this.listener,!1);if(!b.aborted){if(c.duration=(new Date).getTime()-this.startTime,4===a.readyState){if(b.status=a.status,a.responseText&&a.responseText.length&&(c.rxSize=a.responseText.length),this.sameOrigin){var f=a.getResponseHeader("X-NewRelic-App-Data");f&&(b.cat=f.split(", ").pop())}}else b.status=0;c.cbTime=this.cbTime,e("xhr",[b,c])}}}function c(a,b){var c=f(b),d=a.params;d.host=c.hostname+":"+c.port,d.pathname=c.pathname,a.sameOrigin=c.sameOrigin}function d(a,b){return b}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){a("loader").features.push("xhr");var e=a("handle"),f=a("./parse-url.js"),g=a("../../../wrap-function"),h=a("../../../contextual-ee"),i=["load","error","abort","timeout"],j=i.length,k=a("../../../loader/id");a("../../wrap-events"),a("../../wrap-xhr"),h.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=b,this.ended=!1,this.xhrGuids={}}),g.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",d),h.on("open-xhr-start",function(a){this.params={method:a[0]},c(this,a[1]),this.metrics={}}),h.on("open-xhr-end",function(a,b){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&b.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),h.on("send-xhr-start",function(a,b){var c=this.metrics,d=a[0],e=this;c&&d&&d.length&&(c.txSize=d.length),this.startTime=(new Date).getTime(),this.listener=function(a){"abort"===a.type&&(e.params.aborted=!0),("load"!==a.type||e.called===e.totalCbs&&(e.onloadCalled||"function"!=typeof b.onload))&&e.end(b)};for(var f=0;j>f;f++)b.addEventListener(i[f],this.listener,!1)}),h.on("xhr-cb-time",function(a,b,c){this.cbTime+=a,b?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof c.onload||this.end(c)}),h.on("xhr-load-added",function(a,b){var c=""+k(a)+!!b;this.xhrGuids&&!this.xhrGuids[c]&&(this.xhrGuids[c]=!0,this.totalCbs+=1)}),h.on("xhr-load-removed",function(a,b){var c=""+k(a)+!!b;this.xhrGuids&&this.xhrGuids[c]&&(delete this.xhrGuids[c],this.totalCbs-=1)}),h.on("addEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&h.emit("xhr-load-added",[a[1],a[2]],b)}),h.on("removeEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&h.emit("xhr-load-removed",[a[1],a[2]],b)}),h.on("fn-start",function(a,b,c){b instanceof XMLHttpRequest&&("onload"===c&&(this.onload=!0),("load"===(a[0]&&a[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),h.on("fn-end",function(a,b){this.xhrCbStart&&h.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,b],b)})}},{"../../../contextual-ee":1,"../../../loader/id":11,"../../../wrap-function":15,"../../wrap-events":3,"../../wrap-xhr":6,"./parse-url.js":8,handle:"4O2Y62",loader:"YLUGVp"}],8:[function(a,b){b.exports=function(a){var b=document.createElement("a"),c=window.location,d={};b.href=a,d.port=b.port;var e=b.href.split("://");return!d.port&&e[1]&&(d.port=e[1].split("/")[0].split(":")[1]),d.port&&"0"!==d.port||(d.port="https"===e[0]?"443":"80"),d.hostname=b.hostname||c.hostname,d.pathname=b.pathname,"/"!==d.pathname.charAt(0)&&(d.pathname="/"+d.pathname),d.sameOrigin=!b.hostname||b.hostname===document.domain&&b.port===c.port&&b.protocol===c.protocol,d}},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],11:[function(a,b){function c(a){if(!a||"object"!=typeof a&&"function"!=typeof a)return-1;if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!0,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&&a.agent&&a.licenseKey&&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],14:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}],15:[function(a,b){function c(a,b,c,d){function nrWrapper(){var g,h=f(arguments),i=this,j=c&&c(h,i)||{};try{e.emit(b+"start",[h,i,d],j)}catch(k){}try{return g=a.apply(i,h)}catch(l){throw e.emit(b+"err",[h,i,l],j),l}finally{try{e.emit(b+"end",[h,i,g],j)}catch(k){}}}return a&&"function"==typeof a&&a.apply&&!a._wrapped?(b||(b=""),nrWrapper._wrapped=!0,nrWrapper):a}function d(a,b,d,e){d||(d="");var f,g,h,i="-"===d.charAt(0);for(h=0;h<b.length;h++)g=b[h],f=a[g],f&&"function"==typeof f&&f.apply&&!f._wrapped&&(a[g]=c(f,i?g+d:d,e,g,a))}var e=a("../contextual-ee"),f=a("lodash._slice");b.exports=c,c.inPlace=d},{"../contextual-ee":1,"lodash._slice":14}]},{},["YLUGVp",2,7]);</script>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="description" content="1. Introduction Your personal information is being processed by Haymarket  Media Group ('Haymarket'). For a full list of our brands and business divisions  please visit our web site.  Haymarket respects your privacy and is committed to protecting your personal  information.">
+<script type="text/javascript" src="https://tealium.hs.llnwd.net/o43/utag/haymarket/whathifi-legacy/prod/utag.js"></script>
 <meta property="og:title" content="Haymarket Privacy Policy">
 <meta property="og:description" content=" 1. Introduction
 Your personal information is being processed by Haymarket  Media Group ('Haymarket'). For a full list of our brands and business divisions  please visit our web site.  Haymarket respe">
 <meta property="og:url" content="http://www.whathifi.com/privacy-policy">
 <meta property="og:site_name" content="whathifi.com">
-<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><link rel="alternate" type="application/rss+xml" title="whathifi.com News RSS Feed" href="/rss/news">
+<link rel="alternate" type="application/rss+xml" title="whathifi.com News RSS Feed" href="/rss/news">
 <link rel="alternate" type="application/rss+xml" title="whathifi.com News and Reviews combined RSS Feed" href="/rss/news-reviews">
 <link rel="alternate" type="application/rss+xml" title="whathifi.com Videos RSS Feed" href="/rss/videos">
 <link rel="alternate" type="application/rss+xml" title="whathifi.com Reviews RSS Feed" href="/rss/reviews">
@@ -19,8 +20,8 @@ Your personal information is being processed by Haymarket  Media Group ('Haymark
 <link rel="shortcut icon" href="http://cdn.whathifi.com/sites/whathifi.com/themes/blueprint/whathifi_v2/images/favicon.ico" type="image/x-icon">
 <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lato:700,400,300">
 <link rel="canonical" href="http://www.whathifi.com/privacy-policy">		<title>Haymarket Privacy Policy | whathifi.com</title>
-    <link type="text/css" rel="stylesheet" media="all" href="http://css.cdn.whathifi.com/sites/whathifi.com/files/css/css_2e75176d78cddca02d471dc17ef99d8f.css">
-<link type="text/css" rel="stylesheet" media="screen,projection" href="http://css.cdn.whathifi.com/sites/whathifi.com/files/css/css_c843fbffe39b06171a329bb3f4756245.css">
+    <link type="text/css" rel="stylesheet" media="all" href="http://css.cdn.whathifi.com/sites/whathifi.com/files/css/css_992d323ca4afa975ad2c51c551ec960a.css">
+<link type="text/css" rel="stylesheet" media="screen,projection" href="http://css.cdn.whathifi.com/sites/whathifi.com/files/css/css_35fbc00ef976e79db108a11897001a84.css">
        <script type="text/javascript" src="http://cdn.code.haymarket.com/injector/deliver/WhatHiFi.haymarket.haymarketanalytics_js.ashx"></script>
 <script type="text/javascript">
     try {var tracker = new HaymarketAnalytics();} catch (e) {}
@@ -29,11 +30,11 @@ Your personal information is being processed by Haymarket  Media Group ('Haymark
 <script type="text/javascript">
                     //<![CDATA[
                      try {
-                            tracker.setSystemMetrics({ server:'10.177.70.134' });
+                            tracker.setSystemMetrics({ server:'10.177.69.79' });
                             tracker.setContentMetrics({ title:'Haymarket Privacy Policy | What Hi-fi' });
                             tracker.setNavigationMetrics({ site:'whathifi', section:'Home', hierarchy:['Home',  'privacy'] });
                             
-                             
+                            
                             tracker.render();
                             } catch(e) { }
                              //]]>
@@ -42,7 +43,7 @@ Your personal information is being processed by Haymarket  Media Group ('Haymark
                             <noscript>
                     <img src="http://cdn.code.haymarket.com/injector/deliver/WhatHiFi.haymarket.sitestatNoscript_img.ashx?s=Home.privacy."width="1" height="1" alt="" />
                             </noscript>
-                              <script type="text/javascript" src="http://www.whathifi.com/sites/whathifi.com/files/js/js_4f7dab880e35fd1195974d43742fe73d.js"></script>
+<script type="text/javascript" src="http://www.whathifi.com/sites/whathifi.com/files/js/js_9f161044ea8aef2742cbf028cd572a3c.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery.extend(Drupal.settings, {"basePath":"\/","fivestar":{"titleUser":"Your rating: ","titleAverage":"Average: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)sites\/whathifi.com\/files","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\u003e\u003ckbd\u003ex\u003c\/kbd\u003e\u003c\/a\u003e to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false}});
@@ -84,7 +85,7 @@ body.admin-menu #page-wrapper {
 <div id="block-ad_injector-placeholder-Skin" class="clear-block block block-ad_injector  skinWrapper">
 
   <div id="skinWrapperInner" class="content">
-                                                              </div>
+        </div>
 
   </div>
 </div>
@@ -96,14 +97,14 @@ body.admin-menu #page-wrapper {
 <div id="block-ad_injector-placeholder-Masthead" class="clear-block block block-ad_injector  MastheadWrapper">
 
   <div id="MastheadWrapperInner" class="content">
-                                                             </div>
+       </div>
 
   </div>
   
 <div id="block-ad_injector-placeholder-leaderboard" class="clear-block block block-ad_injector  leaderBoardWrapper">
 
   <div id="leaderBoardWrapperInner" class="content">
-                                                                   </div>
+             </div>
 
   </div>
 					</div>
@@ -122,7 +123,7 @@ body.admin-menu #page-wrapper {
  <input type="text" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="20" value="" class="form-text searchInput auto-hint" title="Search site">
 </div>
 <input type="image" name="submit" value="Search" id="edit-submit" class="form-submit" src="http://images.cdn.whathifi.com/sites/whathifi.com/themes/blueprint/whathifi_v2/images/search-magnifier.png">
-<input type="hidden" name="form_build_id" id="form-66ba03424358fdbfb68164fab3db1f65" value="form-66ba03424358fdbfb68164fab3db1f65">
+<input type="hidden" name="form_build_id" id="form-27a1c50677e3d9ba5bd0cd6caa0ace92" value="form-27a1c50677e3d9ba5bd0cd6caa0ace92">
 <input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form">
 </div>
 
@@ -158,11 +159,11 @@ body.admin-menu #page-wrapper {
 <div id="block-hcmnews-hot_news" class="clear-block block block-hcmnews  ">
 
   <div id="" class="content">
-    <div class="navWrapper navHot5"><h2>Trending</h2><div class="item-list"><h3></h3><ul class="channelList"><li class="first"><a href="/news/awards-2013-one-week-to-go-until-the-winners-are-revealed">Awards 2013</a></li>
-<li><a href="/news/best-tvs-to-buy-in-2013">Best TVs 2013</a></li>
-<li><a href="/blog/hands-on-playstation-4-review">PlayStation 4</a></li>
-<li><a href="/news/google-nexus-5-phone-specs-features-and-rumours">Google Nexus 5</a></li>
-<li class="last"><a href="/news/best-in-ear-headphones-to-buy-in-2013">Best headphones</a></li>
+    <div class="navWrapper navHot5"><h2>Trending</h2><div class="item-list"><h3></h3><ul class="channelList"><li class="first"><a href="/news/explore-the-world-of-online-streaming-in-our-april-2014-issue-%E2%80%93-on-sale-now">Latest issue</a></li>
+<li><a href="/content/bw-685-s2">B&amp;W 685 S2</a></li>
+<li><a href="/news/sonos-everything-you-need-to-know">Sonos</a></li>
+<li><a href="/content/marantz-pm6005">Marantz PM6005</a></li>
+<li class="last"><a href="/news/best-headphones-to-buy-in-2014">Best headphones</a></li>
 </ul></div></div>  </div>
 
   </div>
@@ -246,14 +247,14 @@ body.admin-menu #page-wrapper {
 <div id="block-ad_injector-placeholder-mpu" class="clear-block block block-ad_injector  MPUWrapper">
 
   <div id="MPUWrapperInner" class="content">
-                                                                  </div>
+            </div>
 
   </div>
   
 <div id="block-ad_injector-placeholder-mpu2" class="clear-block block block-ad_injector  MPUWrapper2">
 
   <div id="MPUWrapper2Inner" class="content">
-                                                                 </div>
+           </div>
 
   </div>
 				  									</div>
@@ -271,7 +272,8 @@ body.admin-menu #page-wrapper {
 <li class=""><div><a href="/reviews/home-digital-media-devices" class="">Home digital media devices</a></div></li>
 <li class=""><div><a href="/reviews/digital-tv-boxes" class="">Digital TV boxes</a></div></li>
 <li class=""><div><a href="/reviews/portable" class="">Portable</a></div></li>
-<li class="last"><div><a href="/reviews/accessories" class="">Accessories</a></div></li>
+<li class=""><div><a href="/reviews/accessories" class="">Accessories</a></div></li>
+<li class="last"><div><a href="/reviews/apps" class="">Apps</a></div></li>
 </ul></div></div>  </div>
 
   </div>
@@ -293,21 +295,21 @@ body.admin-menu #page-wrapper {
 <div id="block-ad_injector-placeholder-button1" class="clear-block block block-ad_injector  LSbuttonHolder">
 
   <div id="LSbuttonHolderInner" class="content">
-                                                                      </div>
+                </div>
 
   </div>
   
 <div id="block-ad_injector-placeholder-button2" class="clear-block block block-ad_injector  LSbuttonHolder2">
 
   <div id="LSbuttonHolder2Inner" class="content">
-                                                                     </div>
+               </div>
 
   </div>
   
 <div id="block-ad_injector-placeholder-button3" class="clear-block block block-ad_injector  LSbuttonHolder3">
 
   <div id="LSbuttonHolder3Inner" class="content">
-                                                                    </div>
+              </div>
 
   </div>
 				</div>
@@ -346,19 +348,19 @@ body.admin-menu #page-wrapper {
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
       
   <div class="views-field-title">
-                <span class="field-content">December 2013</span>
+                <span class="field-content">June 2014</span>
   </div>
   
   <div class="views-field-field-headline-1-value">
-                <span class="field-content">SUPERTEST: Style speaker packages £800-£1100</span>
+                <span class="field-content">COVER TEST: Music streaming services</span>
   </div>
   
   <div class="views-field-field-headline-2-value">
-                <span class="field-content">ROUND-UP: Premium headphones £200-£270</span>
+                <span class="field-content">SUPERTEST: Stereo speakers £100-£200</span>
   </div>
   
   <div class="views-field-field-headline-3-value">
-                <span class="field-content">GROUP TEST: DACs £400-£500</span>
+                <span class="field-content">GROUP TEST: Projectors £2800-£3000</span>
   </div>
   </div>
     </div>
@@ -383,15 +385,15 @@ body.admin-menu #page-wrapper {
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
     
 <div class="views-field-field-coverimage-imceimage-path">
-<span class="field-content"><a href="http://www.themagazineshop.com/Title-What_Hi_Fi_Sound_and_Vision.aspx"><img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/imagecache/latest-issue-maga-cover-footer/images/2013/September/WHF_Nov_cover.jpg" alt="" title="" class="imagecache imagecache-latest-issue-maga-cover-footer" width="130" height="184"></a></span>
+<span class="field-content"><a href="http://www.themagazineshop.com/whif/wbs14"><img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/imagecache/latest-issue-maga-cover-footer/images/2014/March/WHF_APR_cover.jpg" alt="" title="" class="imagecache imagecache-latest-issue-maga-cover-footer" width="130" height="186"></a></span>
 </div>
 
 <div class="views-field-field-print-mag-link-url">
-<span class="field-content"><a href="http://www.themagazineshop.com/Title-What_Hi_Fi_Sound_and_Vision.aspx">Print mag</a></span>
+<span class="field-content"><a href="http://www.themagazineshop.com/whif/wbs14">Print mag</a></span>
 </div>
 
 <div class="views-field-view-node">
-<span class="field-content"><a href="http://www.themagazineshop.com/Title-What_Hi_Fi_Sound_and_Vision.aspx" title="Subscribe to the print magazine"><img src="/sites/whathifi.com/themes/blueprint/whathifi_v2/images/magshop_logo.png"></a></span>
+<span class="field-content"><a href="http://www.themagazineshop.com/whif/wbs14" title="Subscribe to the print magazine"><img src="/sites/whathifi.com/themes/blueprint/whathifi_v2/images/magshop_logo.png"></a></span>
 </div>
 
   </div>
@@ -417,11 +419,11 @@ body.admin-menu #page-wrapper {
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
       
   <div class="views-field-field-coverimage-imceimage-path">
-                <span class="field-content"><a href="http://itunes.apple.com/gb/app/what-hi-fi-sound-and-vision/id496516601"><img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/imagecache/digital_magazine_ipad/images/2013/September/WHF_Nov_cover.jpg" alt="" title="" class="imagecache imagecache-digital_magazine_ipad" width="95" height="127"></a></span>
+                <span class="field-content"><a href="http://itunes.apple.com/gb/app/what-hi-fi-sound-and-vision/id496516601"><img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/imagecache/digital_magazine_ipad/images/2014/March/WHF_APR_cover.jpg" alt="" title="" class="imagecache imagecache-digital_magazine_ipad" width="95" height="127"></a></span>
   </div>
   
   <div class="views-field-field-coverimage-imceimage-path-1">
-                <span class="field-content"><a href="http://itunes.apple.com/gb/app/what-hi-fi-sound-and-vision/id496516601"><img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/imagecache/digital_magazine_iphone/images/2013/September/WHF_Nov_cover.jpg" alt="" title="" class="imagecache imagecache-digital_magazine_iphone" width="39" height="58"></a></span>
+                <span class="field-content"><a href="http://itunes.apple.com/gb/app/what-hi-fi-sound-and-vision/id496516601"><img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/imagecache/digital_magazine_iphone/images/2014/March/WHF_APR_cover.jpg" alt="" title="" class="imagecache imagecache-digital_magazine_iphone" width="39" height="58"></a></span>
   </div>
   
   <div class="views-field-field-digital-mag-link-url">
@@ -479,7 +481,7 @@ body.admin-menu #page-wrapper {
 					<div id="footer-bottom">
 						<div class="logo"><img src="http://images.cdn.whathifi.com/sites/whathifi.com/files/imagecache/logo_footer/sites/whathifi.com/themes/blueprint/whathifi_v2/logo.png" alt="whathifi.com logo" title="whathifi.com" class="imagecache imagecache-logo_footer" width="155" height="22"></div>
 						<div class="slogan"><img src="http://images.cdn.whathifi.com/sites/whathifi.com/themes/blueprint/whathifi_v2/images/slogan1.png" alt="The world's most trusted tech reviews" title="The world's most trusted tech reviews" width="247" height="26"></div>
-						<div class="parent-brand"><a href="http://www.haymarket.com" rel="nofollow" title="Explore Haymarket"><img src="http://images.cdn.whathifi.com/sites/whathifi.com/themes/blueprint/whathifi_v2/parent_logo.png" alt="Haymarket Publishing" title="Haymarket Publishing" width="96" height="24"></a><p>© 2013 Haymarket Publishing</p></div>
+						<div class="parent-brand"><a href="http://www.haymarket.com" rel="nofollow" title="Explore Haymarket"><img src="http://images.cdn.whathifi.com/sites/whathifi.com/themes/blueprint/whathifi_v2/parent_logo.png" alt="Haymarket Publishing" title="Haymarket Publishing" width="96" height="24"></a><p>© 2014 Haymarket Publishing</p></div>
 					</div>
 				</div>
 			</div>			<!-- //Footer -->
@@ -489,7 +491,7 @@ body.admin-menu #page-wrapper {
 <div id="block-ad_injector-mpu" class="clear-block block block-ad_injector  ">
 
   <div id="" class="content">
-            
+    
         <div id="MPUWrapperMove">
 				<script type="text/javascript" class="injectedAdvert">
 				try {tracker.renderAdvert('300x250,300x600','mpu');} catch(e) { }
@@ -508,7 +510,7 @@ body.admin-menu #page-wrapper {
 <div id="block-ad_injector-Masthead" class="clear-block block block-ad_injector  ">
 
   <div id="" class="content">
-            
+    
         <div id="MastheadWrapperMove">
 				<script type="text/javascript" class="injectedAdvert">
 				try {tracker.renderAdvert('970x250','Masthead');} catch(e) { }
@@ -527,7 +529,7 @@ body.admin-menu #page-wrapper {
 <div id="block-ad_injector-leaderboard" class="clear-block block block-ad_injector  ">
 
   <div id="" class="content">
-            
+    
         <div id="leaderBoardWrapperMove">
 				<script type="text/javascript" class="injectedAdvert">
 				try {tracker.renderAdvert('728x90','leaderboard');} catch(e) { }
@@ -546,7 +548,7 @@ body.admin-menu #page-wrapper {
 <div id="block-ad_injector-mpu2" class="clear-block block block-ad_injector  ">
 
   <div id="" class="content">
-            
+    
         <div id="MPUWrapper2Move">
 				<script type="text/javascript" class="injectedAdvert">
 				try {tracker.renderAdvert('300x251,300x601','mpu2');} catch(e) { }
@@ -565,7 +567,7 @@ body.admin-menu #page-wrapper {
 <div id="block-ad_injector-Skin" class="clear-block block block-ad_injector  ">
 
   <div id="" class="content">
-            
+    
         <div id="skinWrapperMove">
 				<script type="text/javascript" class="injectedAdvert">
 				try {tracker.renderAdvert('1x2','Skin');} catch(e) { }
@@ -595,7 +597,7 @@ body.admin-menu #page-wrapper {
 <div id="block-ad_injector-button1" class="clear-block block block-ad_injector  ">
 
   <div id="" class="content">
-            
+    
         <div id="LSbuttonHolderMove">
 				<script type="text/javascript" class="injectedAdvert">
 				try {tracker.renderAdvert('160x133','button1');} catch(e) { }
@@ -614,7 +616,7 @@ body.admin-menu #page-wrapper {
 <div id="block-ad_injector-button2" class="clear-block block block-ad_injector  ">
 
   <div id="" class="content">
-            
+    
         <div id="LSbuttonHolder2Move">
 				<script type="text/javascript" class="injectedAdvert">
 				try {tracker.renderAdvert('160x133','button2');} catch(e) { }
@@ -633,7 +635,7 @@ body.admin-menu #page-wrapper {
 <div id="block-ad_injector-button3" class="clear-block block block-ad_injector  ">
 
   <div id="" class="content">
-            
+    
         <div id="LSbuttonHolder3Move">
 				<script type="text/javascript" class="injectedAdvert">
 				try {tracker.renderAdvert('160x133','button3');} catch(e) { }
@@ -648,12 +650,12 @@ body.admin-menu #page-wrapper {
           </div>
 
   </div>
-    <script type="text/javascript" src="http://www.whathifi.com/sites/whathifi.com/files/js/js_ba03fb920eae8ea5a6cdc73203ea5414.js"></script>
+    <script type="text/javascript" src="http://www.whathifi.com/sites/whathifi.com/files/js/js_5de03bbec532353de0ec373ba051de39.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery.extend(Drupal.settings, {"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_html_info":"\n\u003cdiv\u003e\n  \u003cdiv class =\"popup-content info\"\u003e\n    \u003cdiv id=\"popup-text\"\u003e\n       \u003cp\u003eWe use cookies on whathifi.com to improve your browsing experience and to provide you with relevant      content and advertising, by continuing to use our site you agree to this.      See our \u003ca href=\"\/privacy-policy\" target=\"_blank\"\u003ePrivacy policy\u003c\/a\u003e      for more details.\u003c\/p\u003e\n     \u003c\/div\u003e\n    \u003cdiv id=\"popup-buttons\"\u003e\n      \u003cbutton type=\"button\" class=\"agree-button\"\u003eYes, I agree\u003c\/button\u003e\n      \u003cbutton type=\"button\" class=\"find-more-button\"\u003eNo, I want to find out more\u003c\/button\u003e\n    \u003c\/div\u003e\n  \u003c\/div\u003e\n\u003c\/div\u003e\n","popup_html_agreed":"\n\u003cdiv\u003e\n  \u003cdiv class =\"popup-content agreed\"\u003e\n    \u003cdiv id=\"popup-text\"\u003e\n       \u003cp\u003eThank you\u003c\/p\u003e\n     \u003c\/div\u003e\n    \u003cdiv id=\"popup-buttons\"\u003e\n      \u003cbutton type=\"button\" class=\"hide-popup-button\"\u003eHide this message \u003c\/button\u003e\n      \u003cbutton type=\"button\" class=\"find-more-button\" \u003eMore information on cookies\u003c\/button\u003e\n    \u003c\/div\u003e\n  \u003c\/div\u003e\n\u003c\/div\u003e\n","popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/privacy-policy","popup_position":0,"popup_language":"en"}});
 //--><!]]>
 </script>
-	<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","1ac3da5a9f","1400592","MQdQNRNTXRVRVUxeVghNZxMIHVoIVFNAGUkOEg==",0,24,new Date().getTime(),"","","","",""]);</script>
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"1ac3da5a9f","applicationID":"1400592","transactionName":"MQdQNRNTXRVRVUxeVghNcwIVW1wIH1hXU1w5ElMGBG1FD1VB","queueTime":0,"applicationTime":1415,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-356.min.js"}</script>
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-356.min.js"></script></body></html>
