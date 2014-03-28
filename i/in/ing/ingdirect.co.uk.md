@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingdirect.co.uk privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811013239id_/http%3A//www.ingdirect.co.uk/home/privacypolicy.asp%3Fsection%3Dhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingdirect.co.uk privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328212407id_/http%3A//www.ingdirect.co.uk/home/privacypolicy.asp%3Fsection%3Dhome) for the most accurate reproduction.*
 
 # Barclays Direct, Formerly I N G Direct
 
@@ -38,7 +38,7 @@ The information we collect via this website may also include your IP address (th
 
 **Cookies**
 
-For  information on how we use cookies and similar technologies on this website, please see our [Cookie  policy](https://web.archive.org/web/20130811013239id_/http%3A//www.ingdirect.co.uk/home/cookiepolicy.asp)
+For  information on how we use cookies and similar technologies on this website, please see our [Cookie  policy](https://web.archive.org/web/20140328212407id_/http%3A//www.ingdirect.co.uk/home/cookiepolicy.asp)
 
 Back to the top
 
