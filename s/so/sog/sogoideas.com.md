@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the sogoideas.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211084112id_/http%3A//sogoideas.com/sogoideas-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sogoideas.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328235818id_/http%3A//sagoideas.com/sagoideas-com-privacy-policy) for the most accurate reproduction.*
 
-# Sogoideas.com Privacy Policy - Sogoideas.com - Taiwan Entertainment - Watch Taiwanese Variety Show 台灣綜藝 online!
+# Sagoideas.com Privacy Policy - Sagoideas.com - Taiwan Entertainment - Watch Taiwanese Variety Show 台灣綜藝 online!
 
 (last update: Apr 2009)
 
-At sogoideas.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by sogoideas.com and how it is used.
+At sagoideas.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by sagoideas.com and how it is used.
 
 The following information is gathered from our website visitors: IP address
 
 **How we use the information we gather**
 
-Like most standard Web site servers, sogoideas.com use log files. This includes internet protocol ( IP ) addresses, browser type, internet service provider ( ISP ), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.  
+Like most standard Web site servers, sagoideas.com use log files. This includes internet protocol ( IP ) addresses, browser type, internet service provider ( ISP ), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.  
 We use the information to enhance your visitor experience.
 
 **Our use of cookies**
