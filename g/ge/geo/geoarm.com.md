@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the geoarm.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222181039id_/http%3A//www.geoarm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geoarm.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328054724id_/http%3A//www.geoarm.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : GeoArm Security
 
-Respecting Your Private Information.
+Respecting Your Private Information,
 
-  
-
-
-Your Privacy is Very Important.
+Your Privacy is Very Important to Us!
 
 Your privacy is very important to us. GeoArm prides itself in our commitment to the security of your data and the process by which we handle your personal information. This site has measures in place to protect against loss, misuse, and alteration of the information under our control. To better protect your privacy the following notice explains the information we collect, how it is used, how it is safeguarded, and how to contact us if you have any concerns.
 
