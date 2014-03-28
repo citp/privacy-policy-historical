@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the realtystore.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204001831id_/http%3A//www.realtystore.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtystore.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328214758id_/http%3A//www.realtystore.com/privacy-policy.html) for the most accurate reproduction.*
 
 # RealtyStore.com: Homes for less. More for you.
 
 ###### **PRIVACY POLICY  
-Effective: October 25, 2013**
+**
 
 Last Updated: October 25, 2013
 
@@ -60,7 +60,7 @@ Please note that if RealtyStore.com or any lines of its business are sold or dis
 Your information may be transferred to, stored and processed in the United States or any other country where we have facilities, and by providing us with your information, you consent to the transfer, storage and processing of such information outside of your country.
 
 **Your California Privacy Rights:**  
-Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for those third parties’ direct marketing purposes and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To exercise your rights, you may make one request each year by US Mail at 5951 Encina Rd. Suite 110 Goleta, CA 93117 Please include your name and the address to which you would like us to respond. 
+Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for those third parties’ direct marketing purposes and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To exercise your rights, you may make one request each year by US Mail at 5951 Encina Rd. Suite 208 Goleta, CA 93117 Please include your name and the address to which you would like us to respond. 
 
 Thank you for becoming familiar with the RealtyStore.com privacy policy. You can always [contact us](https://web.archive.org/contact-us.html) with any questions.
 
