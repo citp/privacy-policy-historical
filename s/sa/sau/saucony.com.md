@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saucony.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824031643id_/http%3A//www.saucony.com/store/SiteControllerhttp%3A//www.saucony.com/saucony/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saucony.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328095202id_/http%3A//www.saucony.com/store/SiteControllerhttp%3A//www.saucony.com/saucony/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Saucony
 
