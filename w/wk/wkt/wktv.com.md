@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wktv.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013220950id_/http%3A//www.wktv.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wktv.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328100350id_/http%3A//www.wktv.com/about/privacy) for the most accurate reproduction.*
 
 # NBC-WKTV News Channel 2 - Utica News, Weather, Sports - | Privacy Policy
 
 At WKTV Television we are committed to protecting the privacy, accuracy and reliability of any personal information you choose to provide and to safeguarding such information from loss, misuse, unauthorized access, disclosure, alteration and destruction. This Privacy Policy applies to those websites that are part of the WKTV Television.
 
-Please read this Privacy Policy carefully. This Privacy Policy may change from time to time, so please check back often. If you have any questions or comments regarding this Privacy Policy, please contact us by sending an e-mail message to tcoyne@wktv.com.
+Please read this Privacy Policy carefully. This Privacy Policy may change from time to time, so please check back often. If you have any questions or comments regarding this Privacy Policy, please contact us by sending an e-mail message to smcmurray@wktv.com.
 
 Collection of Personal Information
 
@@ -38,7 +38,7 @@ We may share your personal information with unaffiliated third parties in limite
 
 We may also share aggregate, non-personal information about website usage with unaffiliated third parties, including, but not limited to, government agencies, advertisers and the media (i.e., 50% of WKTV Television, Inc., website users are female, 50% of users have visited certain sections, etc.). This aggregate information does not contain any personal information about our users.
 
-We may use third-party advertising companies to serve ads when you visit the WKTV Television website. These companies may use information (not including your name, address, email address or telephone number) about your visit to the WKTV website in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to the WKTV website, our third-party advertisers may place or recognize a unique "cookie" on your browser. If you would like more information about this practice and to know your choices about not having this information used by advertising companies, please send an e-mail to tcoyne@wktv.com. 
+We may use third-party advertising companies to serve ads when you visit the WKTV Television website. These companies may use information (not including your name, address, email address or telephone number) about your visit to the WKTV website in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to the WKTV website, our third-party advertisers may place or recognize a unique "cookie" on your browser. If you would like more information about this practice and to know your choices about not having this information used by advertising companies, please send an e-mail to smcmurray@wktv.com
 
 Finally, we may be required to disclose personal information by law or legal process, to protect and defend the rights or property of a WKTV Television site, or to protect the personal safety of users to one of our sites. We also reserve the right to contact appropriate authorities when activities that are illegal or violate our policies are taking place on the WKTV Television website.
 
@@ -50,7 +50,7 @@ We take reasonable measures to protect the privacy, accuracy, and reliability of
 
 Accessing or Deleting Your Personal Information
 
-If you have submitted personal information through a WKTV website and you would like to access that information, please send an e-mail to WKTV at tcoyne@wktv.com. We will use reasonable efforts to supply you with this information and to correct any factual inaccuracies that you identify. Upon your request, we also will remove your personal information from our databases.
+If you have submitted personal information through a WKTV website and you would like to access that information, please send an e-mail to WKTV at mliddy@wktv.com. We will use reasonable efforts to supply you with this information and to correct any factual inaccuracies that you identify. Upon your request, we also will remove your personal information from our databases.
 
 Collection, Use and Disclosure of Non-Personal Information
 
@@ -64,7 +64,7 @@ Cookies
 
 WKTV sites also automatically gather certain non-personal information through the use of "cookies". "Cookies" are small text files that recognize repeat visitors, facilitate ongoing access to some sites, and allow sites to understand how and when pages are visited and by how many people. We use cookies primarily to make improvements and updates based on which areas are popular and which are not. We also use cookies to ensure the accuracy of our polling data.
 
-Our advertisers may occasionally place cookies on your computer, which is standard in the Internet industry. Please note that WKTV does not control these cookies. If you would like more information about this practice and to know your choices about not having this information used by advertising companies, please send an e-mail to tcoyne@wktv.com.
+Our advertisers may occasionally place cookies on your computer, which is standard in the Internet industry. Please note that WKTV does not control these cookies. If you would like more information about this practice and to know your choices about not having this information used by advertising companies, please send an e-mail to mliddy@wktv.com.
 
 Safeguarding Children’s Privacy
 
@@ -82,9 +82,9 @@ By using a WKTV website, you signify your agreement to the terms of our Privacy 
 
 If we decide to change this Privacy Policy, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone.
 
-If you have any questions or comments about this policy or our use of personal information, you may send an e-mail to kencoy@wktv.com or send a letter to the following address:
+If you have any questions or comments about this policy or our use of personal information, you may send an e-mail to cgrabledinger@wktv.com or send a letter to the following address:
 
-P.O. Box 2  
+5936 Smith Hill Road  
 Utica, NY 13503
 
 We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of personal information.
