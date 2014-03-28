@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipechart.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822030518id_/http%3A//www.recipechart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipechart.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328235953id_/http%3A//www.recipechart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Food Recipes, Dinner Ideas, Healthy Recipe Tips
 
