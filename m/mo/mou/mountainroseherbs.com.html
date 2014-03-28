@@ -1,364 +1,162 @@
-<!--The following is the downloaded HTML source of the mountainroseherbs.com privacy policy that was archived on 2013-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131113041401id_/http%3A//www.mountainroseherbs.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mountainroseherbs.com privacy policy that was archived on 2014-03-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140328233456id_/http%3A//www.mountainroseherbs.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-     <meta http-equiv="content-type" content="text/html;charset=utf-8">
-     <meta name="keywords" content="bulk herbs,spices,organic,organic herbal tea, aromatherapy,essential oils, natural body care products,bulk tea,carrier oils, herbs,cosmetic containers,herbal extracts,soap making supplies,bulk ingredients">
-     <title>Mountain Rose Herbs | Privacy and Security Policy</title>
-     <link href="/css/mrh.css" rel="stylesheet" type="text/css" media="all">
-     <!-- START SCRIPT -->
-     
- <!-- START zzz.php -->
- <script type="text/javascript" src="/script/jquery.js"></script>
- <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
- <script language="javascript" type="text/javascript">
-     $('#s2').cycle({
-     fx:     'fade',
-     speed:  'fast',
-     timeout: 5000,
-     pause:   1,
-     next:   '#next2',
-     prev:   '#prev2'
- });
- $(function() {
-     swapValues = [];
-     $(".swap_value").each(function(i){
-         swapValues[i] = $(this).val();
-         $(this).focus(function(){
-             if ($(this).val() == swapValues[i]) {
-                 $(this).val("");
-             }
-         }).blur(function(){
-             if ($.trim($(this).val()) == "") {
-                 $(this).val(swapValues[i]);
-             }
-         });
-     });
- });
- </script>
- <script type="text/javascript">
- $(document).ready(function()
- {
-   //hide the all of the element with class msg_body
-   $(".msg_body").hide();
-   //toggle the componenet with class msg_body
-   $(".msg_head").click(function()
-   {
-     $(this).next(".msg_body").slideToggle(600);
-   });
- });
- </script>
- <script type="text/javascript">
-       function get_select(mySelect)
-       {
-         var optionX=document.getElementById(mySelect).value;
-         if (mySelect.indexOf("ID")>0)
-         {
-           var myInput =  mySelect.substring(0,mySelect.length-2)+"Name";
-           var prod_name = document.getElementById(myInput).value;
-           var prod_url="http://www.mountainroseherbs.com/stockstatus/notification_form.php?account_id=mountainroseherbs&product_id=" + optionX + "&product_name=" + prod_name;
-           window.open(prod_url, "notify", "width=400, height=300");
-         }
-         else
-         {
-           var option_index=document.getElementById(mySelect).selectedIndex;
-           var option_text=document.getElementById(mySelect).options[option_index].text;
-           var end = option_text.indexOf("$");
-           var prod_name = option_text.substring(0,end);
-           var prod_url="http://www.mountainroseherbs.com/stockstatus/notification_form.php?account_id=mountainroseherbs&product_id=" + optionX + "&product_name=" + prod_name;
-           window.open(prod_url, "notify", "width=400, height=300");
-         }
-       }
- </script>
- <script>
-   function submitForm() {
-     if ( document.frm_search.Recordtype.selectedIndex == 0 ) {
-       document.frm_search.refine.disabled = true;
-       document.frm_search.Recordtype.disabled = true;
-     }
-   }
- </script>
- <script language="javascript">
-                           window.name="parentWin";
-                           // open new window
-                           function openWin(file, name) {
-                           popupWin = window.open(file, name, 'resizable,width=440,height=350,left=100,top=100');
-                           // focus window (only for > Navigator 3.0)
-                           if ( (navigator.appName != "Microsoft Internet Explorer") && 	(navigator.appVersion.substring(0,1) == "3") )
-                           popupWin.focus();
-                           }
- function openWin1(file, name) {
-                           popupWin = window.open(file, name, 'resizable,width=620,height=320');
-                           // focus window (only for > Navigator 3.0)
-                           if ( (navigator.appName != "Microsoft Internet Explorer") && 	(navigator.appVersion.substring(0,1) == "3") )
-                           popupWin.focus();
-                           }
- </script>
- <script language="javascript">
- $(function()
-       {
-         // this initialises the demo scollpanes on the page.
-         $('#pane1').jScrollPane();
-         $('#pane2').jScrollPane({showArrows:true});
-         $('#pane3, #pane4').jScrollPane({scrollbarWidth:20, scrollbarMargin:10});
-         // this allows you to click a link to add content to #pane4 and shows how to
-         // reinitialise the scrollbars when you have done this.
-         $('#add-content').bind(
-           'click',
-           function()
-           {
-             $('#pane4').append($('<p></p>').html($('#intro').html())).jScrollPane({scrollbarWidth:20, scrollbarMargin:10});
-           }
-         );
-         // and this allows you to click the link to reduce the amount of content in
-         // #pane4 and reinitialise the scrollbars.
-         $('#remove-content').bind(
-           'click',
-           function()
-           {
-             $('#pane4').empty().append($('<p></p>').html($('#intro').html())).jScrollPane({scrollbarWidth:20, scrollbarMargin:10});
-           }
-         );
-       });
- </script>
- <!--Lightbox-->
-     <link rel="stylesheet" type="text/css" href="/shadowbox/shadowbox.css">
-     <script type="text/javascript" src="/shadowbox/shadowbox.js"></script>
-     <script type="text/javascript">
-     Shadowbox.init({
-     handleOversize: "drag",
-     overlayOpacity: ".90",
-     modal: true
-             });
-     </script>
- <!--END Lightbox-->
- <!-- END zzz.php -->
-         <!-- END SCRIPT -->
-   </head>
-   <body>
-     <div align="center">
-     <!---START NAVIGATION--->
-       <style type="text/css">
-  .search-box {
-    background-color: Transparent !important;
-  }
-  body div#main .gsc-control {
-    background-color: Transparent !important;
-    border-color: Transparent !important;
-  }
-  .gsc-control-cse {
-    font-family: Verdana,sans-serif;
-    border-color: Transparent !important;
-    background-color: Transparent !important;
-    background:none !important;
-  }
-</style>
-<table width="700" id="mainframe" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td>
-      <table height="89" width="139" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td valign="top" background="/images/facelift/topnava_01.jpg" style="background-repeat: no-repeat;">
-            <table width="700" border="0" cellspacing="0" cellpadding="0" height="89">
-              <tbody><tr>
-                <td width="494" height="86">
-                  <a href="/">
-                    <img src="/images/facelift/logoghost.gif" height="86" alt="" border="0">
-                  </a>
-                </td>
-                <td align="right" valign="top" width="160" height="86"><br>
-                  <!-----START SEARCH---->
-                  <div id="search_box">
-                    <link rel="stylesheet" type="text/css" href="/search/yui-autocomplete.css">
-                    <form id="search_form" name="frm_search" action="/search/search.php" method="get" onsubmit="submitForm()">
-                      <input name="refine" value="y" type="hidden"> <input name="keywords" type="text" id="s" value="Search" class="swap_value" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search'}">
-                      <input value="search" type="image" src="/images/facelift/search_go.gif" width="33" height="17" id="go" alt="Search" title="Search">
-                    </form>
-                  </div>
-                  <!-----END SEARCH---->
-                </td>
-              </tr>
-            </tbody></table>
-          </td>
-        </tr>
-        <tr height="88">
-          <td width="139" height="88"><img src="/images/facelift/topnava_02.jpg" alt="" height="88" width="700" usemap="#topnava_02" border="0">
-            <map name="topnava_02">
-              <area shape="rect" coords="602,33,688,63" href="https://www.mountainroseherbs.com/account" alt="My Account">
-              <area shape="rect" coords="508,33,594,63" href="https://www.mountainroseherbs.com/cart" alt="Shopping Basket">
-              <area shape="rect" coords="291,33,377,63" href="/order/order.php" alt="Ordering Info">
-              <area shape="rect" coords="196,33,282,63" href="/specials/specials.php" alt="Monthly Specials">
-              <area shape="rect" coords="102,33,188,63" href="/index2.php" alt="Product Index">
-              <area shape="rect" coords="8,33,94,63" href="/" alt="Home">
-              <area shape="rect" coords="36,69,99,83" href="/contact.php" alt="Contact Us">
-              <area shape="rect" coords="172,69,230,83" href="/about/about.php" alt="About Us">
-              <area shape="rect" coords="290,69,415,83" href="/wholesale.php" alt="Bulk Buying Discounts">
-              <area shape="rect" coords="462,69,530,83" href="/tipnews/tipnews.php" alt="Newsletter">
-              <area shape="rect" coords="596,69,673,83" href="/catalogrequest/catalog.php" alt="Free Catalog">
-            </map>
-          </td>
-        </tr>
-      </tbody></table>
-      <table width="700" border="0" cellspacing="0" cellpadding="0" background="/images/facelift/sidebar_fillx700.gif">
-        <tbody><tr height="100%">
-          <td valign="top" height="100%" width="139"><img src="/images/facelift/sidebar_nav_trans.gif" alt="" usemap="#sidebar_nav_trans" border="0"><map name="sidebar_nav_trans"><area shape="rect" coords="9,254,133,306" href="/buyorgan.php" alt="Support Organic Agriculture"><area shape="rect" coords="8,195,132,247" href="/herbedu/herbedu.php" alt="Herbal Education"><area shape="rect" coords="8,131,132,183" href="/about/otoc.php" alt="Certified Organic"><area shape="rect" coords="8,67,132,119" href="/about/guiding.php" alt="Sustainability Projects"><area shape="rect" coords="8,5,132,57" href="/feature/featured_products.php" alt="New and Featured Products"></map>
-            <!-- AddThis Button BEGIN -->
-            <center><a href="//www.addthis.com/bookmark.php?v=250&amp;pub=mountainroseherbs" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="/images/index/addthis.gif" alt="Bookmark and Share" style="border:0"></a>
-             <script type="text/javascript">
-              var addthis_disable_flash = true;
-              addthis_pub  = 'mountainroseherbs';
-              addthis_brand = 'Mountain Rose Herbs';
-              addthis_options = 'favorites, email,  facebook, twitter, myspace, wordpress, stumbleupon, digg, delicious, more';
-             </script>
-             <script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js?pub=mountainroseherbs"></script></center>
-            <!-- AddThis Button END -->
-          </td>
-     <!--END NAVIGATION-->
-                 <td rowspan="2" valign="top" width="561">
-                 <!--CONTENT START-->
-                    <img src="images/header_privacyx561.jpg" alt="Security and Privacy at Mountain Rose Herbs" width="561" height="253" usemap="#header_privacyx561" border="0"><map name="header_privacyx561"><area shape="rect" coords="377,3,543,49" href="https://smarticon.geotrust.com/smarticonprofile?Referer=" alt="" target="_new"></map>
-                 <div id="content">
-                     <table width="535" border="0" cellspacing="0" cellpadding="0">
-                       <tbody><tr>
-                         <td align="center">
-                           <p align="center" style="margin-bottom: 0"><br>
-                             <br>
-                   <strong>The Mountain Rose Herbs website and the technologies used to transmit your order are double protected through both Thwarte and Stronghold security systems, and they are verified through third party GeoTrust certification. When you place an online order over the Internet with Mountain Rose Herbs, the connection that transmits your data is secure through SSL 256 bit encryption technology.<br>
-                   </strong></p>
-                 <p align="center" style="margin-bottom: 0"></p>
-                 <p align="center" style="margin-top: 0; margin-bottom: 0;"></p>
-                         </td>
-                       </tr>
-                       <tr>
-                         <td align="center">
-                           <div id="brn10" align="left">
-                   <p><br>
-                     <strong>Our Security Policy</strong><br>
-                     Since 1987 we have NEVER sold or traded any of our customers information, nor have we ever jeopardized that information.<br>
-                     Usually, when most of us order online, all of our personal information; most importantly our credit card information is stored on the company's website server or Internet connected server. Here it can reside for months and even years, ripe for the opportunity of theft. Mountain Rose Herbs does not employ this practice.<br>
-                     Immediately after you place an online order with Mountain Rose Herbs, only a small handful of authorized employees have access to your order and they will promptly print out your order for further processing in our offices. Following this they completely delete it from the server immediately. We do not let your information sit idly on a server, and no part of your personal or financial information is ever stored on any computer with an outside connection to a publicly accessible network (internet).<br>
-                     All hard copy orders that have been printed, processed and shipped are further filed in a secure and protected environment, then burned after a predetermined time.<br>
-                     The website that you buy from may not be the only security threat to be concerned about. Many companies contract third parties or outside credit card processing services. Here your financial data is sent through a rather dubious line and processed by an organization that may not have the same security ethics as the company you bought from. We DO NOT contract our credit card processing services to any outside organization. It is all done within our own facilities by our own staff. To view our current security certificate please see... <a href="https://smarticon.geotrust.com/smarticonprofile">Security Certificate</a></p>
-                   <p><br>
-                   </p>
-                 </div>
-                         </td>
-                       </tr>
-                       <tr>
-                         <td align="center">
-                           <div id="brn10" align="left">
-                   <p><strong>Our Privacy Policy<br>
-                     </strong>Since 1987 Mountain Rose Herbs has never sacrificed our customer's personal information for the purpose of extending marketing relationships with outside firms. We have never sold, traded, or rented our mailing list or customer information, and for this amount of dedication to our customer's privacy, Mountain Rose Herbs received an honorable national award in 1995 for holding such a formidable business practice. With regards to your online privacy we only collect 4 specific pieces of information......</p>
-                   <ul>
-                     <li>
-                       <p>When you subscribe to any of our e-mail communications or newsletters, your e-mail address will be stored on a third party server. You may completely remove your name from this by un-subscribing at anytime</p>
-                     </li>
-                     <li>
-                       <p>If you checkout through our online shopping cart through the use of an account which you have previously setup, our systems will retain only your shipping and billing particulars through the use of cookies and this information is saved only through your instruction.</p>
-                     </li>
-                     <li>
-                       <p>When you add items to your shopping cart a "product identifier" cookie is placed on your computer to remember the items added to your cart so when you come back at a later time they will still be there.</p>
-                     </li>
-                     <li>
-                       <p>We monitor our web logs by employing the use of "stat counters" which assist us in determining possible page incompatibilities, dead links, the most useful pages to our customers, and to help us create richer content. We do not store information about YOU but rather we track information on the performance of our website, and the only identifiable information recorded is your computers IP address. This tool is solely used to help us improve the content of the site.</p>
-                     </li>
-                   </ul>
-                   <p style="margin-bottom: 0;">Our promise to you is that we will never sell, dissect, decimate, share, or trade your information. We do not research your buying habits, we do not sell your buying habits, and most of all we do not transfer your online purchasing and personal information onto any other machine. Everything you have given us stays with us......period. </p>
-                 </div>
-                         </td>
-                       </tr>
-                     </tbody></table>
-                   </div>
-                 <!--CONTENT END-->
-                 </td>
-               </tr>
-      <!--START FOOTER-->
-                <tr height="220">
-          <td rowspan="2" valign="bottom" width="139" height="275">
-            <img border="0" src="/images/socialnetworking.png" usemap="#socialnetworking"><map name="socialnetworking"><area shape="rect" coords="79,112,117,146" href="http://www.mountainroseblog.com/" alt="Mountain Rose Herbs Blog Page" target="_new"><area shape="rect" coords="23,63,59,97" href="http://twitter.com/mtnroseherbs" alt="Mountain Rose Herbs Twitter Page" target="_new"><area shape="rect" coords="23,111,56,146" href="https://www.google.com/+mountainroseherbs" alt="Mountain Rose Herbs Google+ Page" target="_new"><area shape="rect" coords="77,11,114,46" href="http://www.youtube.com/user/mountainroseherbs" alt="Mountain Rose Herbs YouTube Page" target="_new"><area shape="rect" coords="80,61,117,98" href="http://pinterest.com/mtnroseherbs" alt="Mountain Rose Herbs Pinterest" target="_new"><area shape="rect" coords="21,11,59,49" href="http://www.facebook.com/pages/Mountain-Rose-Herbs/16352069036" alt="Mountain Rose Herbs Facebook" target="_new"></map>
-            <img src="/images/facelift/sidebar_cert_trans.gif" alt="" height="120" width="139" usemap="#sidebar_cert_trans" border="0"><map name="sidebar_cert_trans"><area shape="rect" coords="20,58,62,105" href="/kosher/kosher.php" alt="Kosher Certified"><area shape="rect" coords="75,58,117,105" href="/fairtrade.php" alt="Fairtrade Info"><area shape="rect" coords="20,20,117,57" href="/about/otoc.php" alt="OTCO Organic Certified"></map>
-          </td>
-        </tr>
-        <tr height="65">
-          <td valign="bottom"><img src="/images/facelift/agedpaper.jpg"></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-<table width="729" border="0" cellspacing="0">
-  <tbody><tr>
-    <td width="170"><img src="/images/facelift/foot_logo_zero.jpg" alt="Mountain Rose Herbs" usemap="#foot_logo_zero" border="0"><map name="foot_logo_zero"><area shape="rect" coords="10,56,149,94" href="/about/zerowaste.php" alt="Zero Waste"><area shape="rect" coords="10,7,157,55" href="" alt=""></map></td>
-    <td valign="middle" width="124">
-      <div id="footer" align="center">
-        <a id="footer" href="/affiliate/affiliate.php">Affiliate Program</a><br>
-        <a id="footer" href="/employ.php">Employment</a><br>
-        <a id="footer" href="/privacy.php">Privacy &amp; Security </a><br>
-        <a id="footer" href="/donationrequest/index.php">Donations </a><br>
-        <a id="footer" href="/return.php">Return Policy<br>
-        </a><a id="footer" href="/bulkherb/quality.php"> Quality Control </a>
-        </div>
-    </td>
-    <td width="23">
-      <div align="center">
-        <img src="/images/facelift/vertline.jpg" alt="" height="82" width="11" border="0">
-      </div>
-    </td>
-    <td valign="middle" width="130">
-      <div id="footer" align="left">
-        Mountain Rose Herbs <br>
-        Po Box 50220<br>
-        Eugene, OR 97405<br>
-        USA</div>
-    </td>
-    <td width="23">
-      <div align="center">
-        <img src="/images/facelift/vertline.jpg" alt="" height="82" width="11" border="0">
-      </div>
-    </td>
-    <td valign="middle" width="203">
-    <div id="footer">USA Toll-Free - (800) 879-3337<br>
-        FAX - (510) 217-4012<br>
-        Outside USA - (541) 741-7307<br>
-        <a id="footer" href="mailto:customerservice@mountainroseherbs.com">customerservice@mountainroseherbs.com</a><br>
-        ©  2013 Mountain Rose Herbs
-        </div>
-    </td>
-  </tr>
-  <tr height="20">
-    <td colspan="6" width="717" height="20"></td>
-  </tr>
-</tbody></table>
-<script type="text/javascript">
-  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-  try {
-    var pageTracker = _gat._getTracker("UA-7030049-2");
-    pageTracker._trackPageview();
-  } catch(err) {}
-</script>
-<!-- Insert FlexiLink Code - DO NOT MODIFY -->
-<!-- End of FlexiLink Code -->
-<script type="text/javascript">
-  var _sf_async_config={uid:19253,domain:"mountainroseherbs.com"};
-  (function(){
-    function loadChartbeat() {
-      window._sf_endpt=(new Date()).getTime();
-      var e = document.createElement('script');
-      e.setAttribute('language', 'javascript');
-      e.setAttribute('type', 'text/javascript');
-      e.setAttribute('src',
-         (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
-         "js/chartbeat.js");
-      document.body.appendChild(e);
-    }
-    var oldonload = window.onload;
-    window.onload = (typeof window.onload != 'function') ?
-       loadChartbeat : function() { oldonload(); loadChartbeat(); };
-  })();
-</script>
-<div id="nxt-ac-container"></div>
-      <!---END FOOTER--->
-</div><div id="sb-container"><div id="sb-overlay"></div><div id="sb-wrapper"><div id="sb-title"><div id="sb-title-inner"></div></div><div id="sb-wrapper-inner"><div id="sb-body"><div id="sb-body-inner"></div><div id="sb-loading"><div id="sb-loading-inner"><span>loading</span></div></div></div></div><div id="sb-info"><div id="sb-info-inner"><div id="sb-counter"></div><div id="sb-nav"><a id="sb-nav-close" title="Close" onclick="Shadowbox.close()"></a><a id="sb-nav-next" title="Next" onclick="Shadowbox.next()"></a><a id="sb-nav-play" title="Play" onclick="Shadowbox.play()"></a><a id="sb-nav-pause" title="Pause" onclick="Shadowbox.pause()"></a><a id="sb-nav-previous" title="Previous" onclick="Shadowbox.previous()"></a></div></div></div></div></div><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+<!DOCTYPE html><html lang="en-US"><head>
+    <meta charset="UTF-8">
+      <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-7030049-2','');
+    ga('send', 'pageview');
+
+  </script>
+
+    <link data-turbolinks-track="true" href="/assets/mrh/application-dfb6602b5c14db14f40007e3de0a0a6c.css" media="all" rel="stylesheet">
+    <script async="async" data-turbolinks-track="true" src="/assets/mrh/public/application-a5188dad9e7b9023168f29a612650af9.js"></script>
+    <script async="async" src="//s7.addthis.com/js/250/addthis_widget.js?pub=mountainroseherbs"></script>
+    <meta content="authenticity_token" name="csrf-param">
+<meta content="QuDgWCuxTrwybJY35rXnWY4cObugT3UtdPJfSLFWtTo=" name="csrf-token">
+    
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","errorBeacon":"jserror.newrelic.com","licenseKey":"221d568cb8","applicationID":"3010604","transactionName":"cQsIEURaVQlUQRtbR1pLFhBUWVAGHkBcWUI=","queueTime":0,"applicationTime":8,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-361.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgIGWVNRGwAAVVFUBwU="};window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a,b){function c(a,b,c){c||(c={});for(var d=f[a],e=d&&d.length||0,h=c[g]||(c[g]={}),i=0;e>i;i++)d[i].apply(h,b);return h}function d(a,b){var c=f[a]||(f[a]=[]);c.push(b)}function e(a){return delete a[g]}var f={},g="nr@context";b.exports={on:d,emit:c,clear:e}},{}],2:[function(a){function b(a,b,e,g,i){return h?h-=1:c("err",[i||new UncaughtException(a,b,e)]),"function"==typeof f?f.apply(this,d(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var c=a("handle"),d=a("lodash._slice"),e=a("../../../contextual-ee"),f=window.onerror,g=!1,h=0;a("loader").features.push("err"),window.onerror=b;try{throw new Error}catch(i){"stack"in i&&(a("../../wrap-timer"),a("../../wrap-raf"),"addEventListener"in window&&a("../../wrap-events"),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&a("../../wrap-xhr"),g=!0)}e.on("fn-start",function(){g&&(h+=1)}),e.on("fn-err",function(a,b,d){g&&(this.thrown=!0,c("err",[d,(new Date).getTime()]))}),e.on("fn-end",function(){g&&!this.thrown&&h>0&&(h-=1)})},{"../../../contextual-ee":1,"../../wrap-events":3,"../../wrap-raf":4,"../../wrap-timer":5,"../../wrap-xhr":6,handle:"4O2Y62",loader:"YLUGVp","lodash._slice":14}],3:[function(a){function b(a){d.inPlace(a,["addEventListener","removeEventListener"],"-",c)}function c(a){return a[1]}var d=a("../wrap-function"),e=(a("lodash._slice"),a("../contextual-ee"));if(b(window),"getPrototypeOf"in Object){for(var f=document;f&&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&&b(f);for(var g=XMLHttpRequest.prototype;g&&!g.hasOwnProperty("addEventListener");)g=Object.getPrototypeOf(g);g&&b(g)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&b(XMLHttpRequest.prototype);e.on("addEventListener-start",function(a){if(a[1]){var b=a[1];"function"==typeof b?this.wrapped=b["nr@wrapped"]?a[1]=b["nr@wrapped"]:b["nr@wrapped"]=a[1]=d(b,"fn-"):"function"==typeof b.handleEvent&&d.inPlace(b,["handleEvent"],"fn-")}}),e.on("removeEventListener-start",function(a){var b=this.wrapped;b&&(a[1]=b)})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],4:[function(a){var b=(a("lodash._slice"),a("../wrap-function")),c=a("../contextual-ee");b.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),c.on("raf-start",function(a){a[0]=b(a[0],"fn-")})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],5:[function(a){function b(a){var b=a[0];"string"==typeof b&&(b=new Function(b)),a[0]=c(b,"fn-")}var c=(a("lodash._slice"),a("../wrap-function")),d=a("../contextual-ee");c.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),d.on("setTimer-start",b)},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],6:[function(a){function b(){c.inPlace(this,f,"fn-")}var c=a("../wrap-function"),d=a("../contextual-ee"),e=window.XMLHttpRequest,f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(a){var f=new e(a);return d.emit("new-xhr",[],f),c.inPlace(f,["addEventListener","removeEventListener"],"-",function(a,b){return b}),f.addEventListener("readystatechange",b,!1),f},window.XMLHttpRequest.prototype=e.prototype},{"../contextual-ee":1,"../wrap-function":15}],7:[function(a){function b(a){if("string"==typeof a&&a.length)return a.length;if("object"!=typeof a)return void 0;if("undefined"!=typeof ArrayBuffer&&a instanceof ArrayBuffer&&a.byteLength)return a.byteLength;if("undefined"!=typeof Blob&&a instanceof Blob&&a.size)return a.size;if("undefined"!=typeof FormData&&a instanceof FormData)return void 0;try{return JSON.stringify(a).length}catch(b){return void 0}}function c(a){var c=this.params,d=this.metrics;if(!this.ended){this.ended=!0;for(var e=0;k>e;e++)a.removeEventListener(j[e],this.listener,!1);if(!c.aborted){if(d.duration=(new Date).getTime()-this.startTime,4===a.readyState){c.status=a.status;var g=a.responseType,h="arraybuffer"===g||"blob"===g||"json"===g?a.response:a.responseText,i=b(h);if(i&&(d.rxSize=i),this.sameOrigin){var l=a.getResponseHeader("X-NewRelic-App-Data");l&&(c.cat=l.split(", ").pop())}}else c.status=0;d.cbTime=this.cbTime,f("xhr",[c,d])}}}function d(a,b){var c=g(b),d=a.params;d.host=c.hostname+":"+c.port,d.pathname=c.pathname,a.sameOrigin=c.sameOrigin}function e(a,b){return b}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){a("loader").features.push("xhr");var f=a("handle"),g=a("./parse-url.js"),h=a("../../../wrap-function"),i=a("../../../contextual-ee"),j=["load","error","abort","timeout"],k=j.length,l=a("../../../loader/id");a("../../wrap-events"),a("../../wrap-xhr"),i.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=c,this.ended=!1,this.xhrGuids={}}),h.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",e),i.on("open-xhr-start",function(a){this.params={method:a[0]},d(this,a[1]),this.metrics={}}),i.on("open-xhr-end",function(a,b){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&b.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),i.on("send-xhr-start",function(a,c){var d=this.metrics,e=a[0],f=this;if(d&&e){var g=b(e);g&&(d.txSize=g)}this.startTime=(new Date).getTime(),this.listener=function(a){try{"abort"===a.type&&(f.params.aborted=!0),("load"!==a.type||f.called===f.totalCbs&&(f.onloadCalled||"function"!=typeof c.onload))&&f.end(c)}catch(b){}};for(var h=0;k>h;h++)c.addEventListener(j[h],this.listener,!1)}),i.on("xhr-cb-time",function(a,b,c){this.cbTime+=a,b?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof c.onload||this.end(c)}),i.on("xhr-load-added",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&!this.xhrGuids[c]&&(this.xhrGuids[c]=!0,this.totalCbs+=1)}),i.on("xhr-load-removed",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&this.xhrGuids[c]&&(delete this.xhrGuids[c],this.totalCbs-=1)}),i.on("addEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-added",[a[1],a[2]],b)}),i.on("removeEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-removed",[a[1],a[2]],b)}),i.on("fn-start",function(a,b,c){b instanceof XMLHttpRequest&&("onload"===c&&(this.onload=!0),("load"===(a[0]&&a[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),i.on("fn-end",function(a,b){this.xhrCbStart&&i.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,b],b)})}},{"../../../contextual-ee":1,"../../../loader/id":11,"../../../wrap-function":15,"../../wrap-events":3,"../../wrap-xhr":6,"./parse-url.js":8,handle:"4O2Y62",loader:"YLUGVp"}],8:[function(a,b){b.exports=function(a){var b=document.createElement("a"),c=window.location,d={};b.href=a,d.port=b.port;var e=b.href.split("://");return!d.port&&e[1]&&(d.port=e[1].split("/")[0].split(":")[1]),d.port&&"0"!==d.port||(d.port="https"===e[0]?"443":"80"),d.hostname=b.hostname||c.hostname,d.pathname=b.pathname,"/"!==d.pathname.charAt(0)&&(d.pathname="/"+d.pathname),d.sameOrigin=!b.hostname||b.hostname===document.domain&&b.port===c.port&&b.protocol===c.protocol,d}},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],11:[function(a,b){function c(a){if(!a||"object"!=typeof a&&"function"!=typeof a)return-1;if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!0,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&&a.agent&&a.licenseKey&&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],14:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}],15:[function(a,b){function c(a,b,c,d){function nrWrapper(){var g,h=f(arguments),i=this,j=c&&c(h,i)||{};try{e.emit(b+"start",[h,i,d],j)}catch(k){}try{return g=a.apply(i,h)}catch(l){throw e.emit(b+"err",[h,i,l],j),l}finally{try{e.emit(b+"end",[h,i,g],j)}catch(k){}}}return a&&"function"==typeof a&&a.apply&&!a._wrapped?(b||(b=""),nrWrapper._wrapped=!0,nrWrapper):a}function d(a,b,d,e){d||(d="");var f,g,h,i="-"===d.charAt(0);for(h=0;h<b.length;h++)g=b[h],f=a[g],f&&"function"==typeof f&&f.apply&&!f._wrapped&&(a[g]=c(f,i?g+d:d,e,g,a))}var e=a("../contextual-ee"),f=a("lodash._slice");b.exports=c,c.inPlace=d},{"../contextual-ee":1,"lodash._slice":14}]},{},["YLUGVp",7,2]);</script>
+    <title>Mountain Rose Herbs | Privacy and Security Policies - Mountain Rose Herbs</title>
+  </head>
+  <body class="public show" data-environment="production">
+
+    <div id="wrapper">
+      <header>
+  <h1>Mountain Rose Herbs</h1>
+
+  <form accept-charset="UTF-8" action="/search/search.php" data-no-turbolink="true" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+    <input id="refine" name="refine" type="hidden" value="y">
+    <input id="keywords" name="keywords" placeholder="Search" type="search">
+    <input name="commit" type="submit" value="Go">
+</form>
+  <nav class="main">
+  <ul class="primary navigation">
+    <li><a href="/" class="short">Home</a></li>
+    <li><a href="/catalog" class="short">Products</a></li>
+    <li><a href="/specials/specials.php" data-no-turbolink="true">Monthly Specials</a></li>
+    <li><a href="/ordering/information">Ordering Info</a></li>
+    <div class="personal">
+      <li><a href="/cart">Shopping Basket</a></li>
+      <li><a href="/account">My Account</a></li>
+    </div>
+  </ul>
+  <ul class="secondary navigation">
+    <li><a href="/contact">Contact Us</a></li>
+    <li><a href="/about">About Us</a></li>
+    <li><a href="/ordering/bulk-buying">Bulk Buying Discounts</a></li>
+    <li><a href="/newsletters-and-alerts">Newsletter</a></li>
+    <li><a href="/ordering/catalog-request" data-no-turbolink="true">Free Catalog</a></li>
+  </ul>
+</nav> <!-- /nav.main -->
+
+</header> <!-- /header -->
+
+      <section id="content">
+  <aside>
+    <nav class="side">
+      <ul class="navigation">
+        <li><a href="/feature/featured_products.php" data-no-turbolink="true" class="featuredproducts">New &amp; Featured Products</a></li>
+        <li><a href="/about/guiding-principles" class="sustainability">Sustainability Projects</a></li>
+        <li><a href="/about/certified-organic" class="otcocertified">OTCO Certified Organic</a></li>
+        <li><a href="/articles/herbal-education" class="herbaleducation">Learn about Herbal Education</a></li>
+        <li><a href="/articles/benefits-of-organic-agriculture" class="organicagriculture">Support Organic Agriculture</a></li>
+        <li><a href="https://www.addthis.com/bookmark.php?v=250&amp;pub=mountainroseherbs" class="addthis share">Share</a></li>
+      </ul>
+    </nav>
+
+    <nav class="social-sharing">
+      <ul class="navigation">
+        <li><a href="https://www.facebook.com/MountainRoseHerbs" class="facebook">Facebook</a></li>
+        <li><a href="https://www.youtube.com/user/mountainroseherbs" class="youtube">YouTube</a></li>
+        <li><a href="https://twitter.com/mtnroseherbs" class="twitter">Twitter</a></li>
+        <li><a href="http://www.pinterest.com/mtnroseherbs" class="pinterest">Pinterest</a></li>
+        <li><a href="https://plus.google.com/+mountainroseherbs" class="googleplus">Google+</a></li>
+        <li><a href="http://mountainroseblog.com/" class="blog">Blog</a></li>
+      </ul>
+    </nav>
+
+    <nav class="certifications">
+      <ul class="navigation">
+        <li><a href="/about/certified-organic" class="oregontilth">OTCO Organic Certified</a></li>
+        <li><a href="/about/certified-organic" class="usdaorganic">USDA Organic Certified</a></li>
+        <li><a href="/about/kosher" class="earthkosher">Earth Kosher Certified</a></li>
+        <li><a href="/about/fair-trade" class="fairforlife">Fair For Life</a></li>
+      </ul>
+    </nav>
+  </aside>
+
+  <div class="main">
+    <div class="inner">
+      
+<h2 class="header" id="privacy">Privacy &amp; Security Policies <a href="https://smarticon.geotrust.com/smarticonprofile?Referer=">Security Certificate</a></h2>
+
+<article class="content">
+  <p><strong>The Mountain Rose Herbs website and the technologies used to transmit your order are double protected through both Thwarte and Stronghold security systems, and they are verified through third party GeoTrust certification. When you place an online order over the Internet with Mountain Rose Herbs, the connection that transmits your data is secure through SSL 256 bit encryption technology.</strong></p>
+
+  <h3>Our Security Policy</h3>
+  <p>Since 1987 we have NEVER sold or traded any of our customers information, nor have we ever jeopardized that information.</p>
+  <p>Usually, when most of us order online, all of our personal information; most importantly our credit card information is stored on the company's website server or Internet connected server. Here it can reside for months and even years, ripe for the opportunity of theft. Mountain Rose Herbs does not employ this practice.</p>
+  <p>Immediately after you place an online order with Mountain Rose Herbs, only a small handful of authorized employees have access to your order and they will promptly print out your order for further processing in our offices. Following this they completely delete it from the server immediately. We do not let your information sit idly on a server, and no part of your personal or financial information is ever stored on any computer with an outside connection to a publicly accessible network (internet).</p>
+  <p>All hard copy orders that have been printed, processed and shipped are further filed in a secure and protected environment, then burned after a predetermined time.</p>
+  <p>The website that you buy from may not be the only security threat to be concerned about. Many companies contract third parties or outside credit card processing services. Here your financial data is sent through a rather dubious line and processed by an organization that may not have the same security ethics as the company you bought from. We DO NOT contract our credit card processing services to any outside organization. It is all done within our own facilities by our own staff. To view our current security certificate please see… <a href="https://smarticon.geotrust.com/smarticonprofile">Security Certificate</a></p>
+
+  <h3>Our Privacy Policy</h3>
+  <p>Since 1987 Mountain Rose Herbs has never sacrificed our customer's personal information for the purpose of extending marketing relationships with outside firms. We have never sold, traded, or rented our mailing list or customer information, and for this amount of dedication to our customer's privacy, Mountain Rose Herbs received an honorable national award in 1995 for holding such a formidable business practice. With regards to your online privacy we only collect 4 specific pieces of information……</p>
+
+  <ul>
+    <li>When you subscribe to any of our e-mail communications or newsletters, your e-mail address will be stored on a third party server. You may completely remove your name from this by un-subscribing at anytime</li>
+    <li>If you checkout through our online shopping cart through the use of an account which you have previously setup, our systems will retain only your shipping and billing particulars through the use of cookies and this information is saved only through your instruction.</li>
+    <li>When you add items to your shopping cart a "product identifier" cookie is placed on your computer to remember the items added to your cart so when you come back at a later time they will still be there.</li>
+    <li>We monitor our web logs by employing the use of "stat counters" which assist us in determining possible page incompatibilities, dead links, the most useful pages to our customers, and to help us create richer content. We do not store information about YOU but rather we track information on the performance of our website, and the only identifiable information recorded is your computers IP address. This tool is solely used to help us improve the content of the site.</li>
+  </ul>
+
+  <p>Our promise to you is that we will never sell, dissect, decimate, share, or trade your information. We do not research your buying habits, we do not sell your buying habits, and most of all we do not transfer your online purchasing and personal information onto any other machine. Everything you have given us stays with us……period. </p>
+</article>
+
+
+      <p class="bestviewed">These pages are best viewed while sipping tea</p>
+    </div>
+  </div>
+</section> <!-- /section#content -->
+
+      <footer>
+  <div class="company">
+    <a href="/" class="logo">Mountain Rose Herbs</a>
+    <a href="/about/zero-waste" class="zero-waste">We are a zero waste company</a>
+  </div>
+
+  <ul class="other navigation">
+    <li><a href="/affiliate-program">Affiliate Program</a></li>
+    <li><a href="/employment">Employment</a></li>
+    <li><a href="/privacy">Privacy &amp; Security</a></li>
+    <li><a href="/about/donation-requests" data-no-turbolink="true">Donations</a></li>
+    <li><a href="/ordering/returns">Return Policy</a></li>
+    <li><a href="/about/quality-control">Quality Control</a></li>
+  </ul>
+
+  <div class="address adr">
+    <strong>Mountain Rose Herbs</strong>
+    <div class="street-address">PO Box 50220</div>
+    <span class="locality">Eugene</span>, <span class="region">OR</span> <span class="postal-code">97405</span>
+    <div class="country-name">USA</div>
+  </div>
+
+  <ul class="contact-details">
+    <li>USA Toll-Free – <span class="tel">(800) 879-3337</span></li>
+    <li>FAX – <span class="tel">(510) 217-4012</span></li>
+    <li>Outside USA – <span class="tel">(541) 741-7307</span></li>
+    <li class="email"><a href="mailto:customerservice@mountainroseherbs.com">customerservice@mountainroseherbs.com</a></li>
+    <li class="copyright">© 2013 Mountain Rose Herbs</li>
+  </ul>
+</footer> <!-- /footer -->
+
+    </div>
+  
+
+<script src="https://js-agent.newrelic.com/nr-361.min.js"></script></body></html>
