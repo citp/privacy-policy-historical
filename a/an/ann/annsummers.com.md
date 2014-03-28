@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the annsummers.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228151727id_/http%3A//www.annsummers.com/page/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annsummers.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328235532id_/http%3A//www.annsummers.com/page/Privacy) for the most accurate reproduction.*
 
-# Your Privacy - Ann Summers Privacy Policy
+# Ann Summers Privacy Policy - AnnSummers.com
 
 Ann Summers is committed to respecting the privacy rights of visitors and customers of our website. This privacy policy explains how we collect, store and use personal data about you when you browse www.annsummers.com (the "Website"), shop with us or otherwise provide your personal data to us. It provides you with details about the types of personal data that we collect from you, how we use your personal data and the rights you have to control our use of your personal data.
 
@@ -111,26 +111,6 @@ From May 2011, the laws regarding the use of cookies changed to prevent the stor
 For more information about cookies, please visit this independent site. (Ann Summers is not responsible for the content of external sites.)
 
   
-
-
-### Security
-
-We use Internet standard encryption technology ("SSL" or "Secure Socket Layer" technology) to encode personal data that you send to us when placing an order through the Website. To check that you are in a secure area of the Website before sending personal data to us, please look at the bottom right of your website browser and check that it displays an image of a closed padlock or an unbroken key However, please note that whilst we take appropriate technical and organisational measures to safeguard the personal data that you provide to us, no transmission over the Internet can ever be guaranteed secure. Consequently, please note that we cannot guarantee the security of any personal data that you transfer over the Internet to us.
-
-If you are using a computer or terminal in a public location, we recommend that you always log out and close the website browser when you complete an online session for your security. In addition we recommend that you take the following security measures to enhance your online safety:
-
-  * Keep your account passwords private. Remember, anybody who knows your password may access your account. 
-  * When creating a password, we recommend use at least 8 characters. A combination of letters and numbers is best. We recommend you do not use dictionary words, your name, email address, or other personal data that can be easily obtained. We also recommend that you frequently change your password. You can do this by going to 'My Account' and clicking 'Change name, email or password', 
-  * Avoid using the same password for multiple online accounts.
-
-  
-
-
-### Spoof/false Emails
-
-We will never ask you to confirm any account or credit card details via email. If you receive an email claiming to be from annsummers.com asking you to do so, please ignore it and do not respond.
-
-  
   
 
 
@@ -139,7 +119,7 @@ We will never ask you to confirm any account or credit card details via email. I
   
 
 
-  * the right to ask what personal data that we hold about you at any time, subject to a fee specified by law (currently Â£10);
+  * the right to ask what personal data that we hold about you at any time, subject to a fee specified by law (currently £10);
   * the right to ask us to update and correct any out-of-date or incorrect personal data that we hold about you free of charge; and 
   * the right to opt out of any marketing communications that we may send you.
 
@@ -166,4 +146,4 @@ Ann Summers is an ISIS accredited retailer and [annsummers.com](http://www.annsu
 
 ### Updates to this Policy
 
-This privacy policy was last updated in November 2011. Please check back regularly to keep informed of updates to this privacy policy.
+This Privacy policy was last updated in September 2013. Please check back regularly to keep informed of updates to this Privacy policy.
