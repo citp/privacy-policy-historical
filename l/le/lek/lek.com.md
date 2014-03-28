@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lek.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204222612id_/http%3A//www.lek.com/lek-consulting-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lek.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328212754id_/http%3A//www.lek.com/lek-consulting-privacy-policy) for the most accurate reproduction.*
 
 # L.E.K. Consulting Privacy Policy | L.E.K. Consulting
 
