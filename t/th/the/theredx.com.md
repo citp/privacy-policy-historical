@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theredx.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108182511id_/http%3A//www.theredx.com/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theredx.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329001041id_/http%3A//www.theredx.com/home/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,8 +8,8 @@ If you have any questions about this Privacy Policy, please feel free to contact
 
 Privacy Matters  
 Real Estate Data X-Change, Inc.  
-2335 South State Street #100  
-Provo, Utah 84606  
+1411 W 1250 S ste 300  
+Orem, Utah 84058  
 USA
 
 www.theREDX.com  
