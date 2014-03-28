@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the avma.org privacy policy that was archived on 2013-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130320010818id_/https%3A//www.avma.org/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avma.org privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328161538id_/https%3A//www.avma.org/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for AVMA Websites
 
 ​ 
 
-_Updated Aug. 1, 2012_
+_Updated May 23, 2013_
 
 This is the American Veterinary Medical Association® (“AVMA”) privacy policy applicable to any site containing the URL [avma.org](https://web.archive.org/) and any other websites operated by the AVMA (collectively referred to as the “AVMA Websites”) from time to time. Please read this Privacy Policy carefully as well as the [Agreement and Terms of Use](https://web.archive.org/Pages/terms-of-use.aspx) applicable to use of the AVMA Websites.
 
@@ -28,7 +28,7 @@ We will collect and retain certain personal information from you when needed to 
 
 If you purchase a product or service at any AVMA Website, we will not give out your credit card number or other financial account information to third parties unless you authorize us to do so, or it is necessary to fulfill our responsibilities with respect to the transaction, including but not limited to delivering a product or service you order.
 
-Our online member directory contains specific personal and professional information, depending on the information you provide to the AVMA through your membership application or updates to your online profile. Access to online member directory information is available only to AVMA members. However, we may occasionally provide, sell, or rent limited member data to third parties, including companies that offer products and services related to veterinary medicine for sale to AVMA members. We do not provide email addresses to third parties for any commercial purpose.
+Our online member directory contains specific personal and professional information, depending on the information you provide to the AVMA through your membership application or updates to your online profile. Access to online member directory information is available only to AVMA members. However, we may occasionally provide, sell, or rent limited member data to third parties, such as companies that offer products and services related to veterinary medicine for sale to AVMA members. See below for more information on AVMA’s information-sharing practices.
 
 We do collect and store information that does not identify you personally when you visit AVMA Websites, including but not limited to: the name of the domain and host from which you access the AVMA Websites; the Internet protocol address used to access AVMA Websites; the date and time you access AVMA Websites; and the Internet address of the website from which you linked directly to AVMA Websites. We use this information to track and analyze traffic to AVMA Websites, including the number of visitors and which pages are viewed by visitors, and to help us improve AVMA Websites. We may also share this information in aggregate with advertisers and sponsors to determine advertising effectiveness.
 
@@ -36,13 +36,21 @@ Like most websites, we employ cookies to assist users to more efficiently use AV
 
 ### Email Policy
 
-Your email address will only be used by the AVMA. We do not share, sell or rent email addresses to anyone outside the AVMA. We sometimes collect specific information on email responses, such as how many recipients open an email or choose to click through to links provided in the email message. This information is used solely within the AVMA to analyze areas of interest and to enhance our products, services, and AVMA Websites. None if this information is sold or distributed outside the AVMA. You can manage your email preferences, including opt-out preferences, in our [Email Subscription Center](http://www.highroadsolution.com/avma_preference_page/default.aspx). 
+We do not share, sell or rent email addresses to anyone outside the AVMA except in the following circumstances:  
 
-### Sharing Personal Information
 
-AVMA may share, sell, or rent limited member data, including postal address (but not email address), to third parties, including companies that offer products and services related to veterinary medicine for sale to AVMA members. This includes, for example, companies that offer products and services to members through the AVMA affinity programs. In addition, AVMA may share limited personal information (but not email address) of registered AVMA Convention attendees with convention exhibitors. AVMA also hires vendors to perform certain services for the AVMA, such as packaging and mailing purchases, printing, and sending postal mail and processing event registration. We only provide the information these companies need to perform these services.
+  * If needed for vendors to provide services to the AVMA (for example, when using a third-party vendor to send an email); or
+  * If the Executive Vice President, using his/her discretion, deems it appropriate to share this information with certain related organizations, such as the AVMA Group Health and Life Insurance Trust, the AVMA Professional Liability Insurance Trust, or constituent and allied organizations. 
 
-As an AVMA member, if you prefer to receive mailings from AVMA only and do not wish to receive mailings from these other organizations, you may have your name and address removed from the lists. To do so, please visit the online member update center (URL linked to member update center) and update your member preferences to be excluded from third party mailing opportunities. 
+
+
+We sometimes collect specific information on email responses, such as how many recipients open an email or choose to click through to links provided in the email message. This information is used solely within the AVMA to analyze areas of interest and to enhance our products, services, and AVMA Websites. None of this information is sold or distributed outside the AVMA. You can manage your email preferences, including opt-out preferences, in our [Email Subscription Center](http://www.highroadsolution.com/avma_preference_page/default.aspx). 
+
+### Sharing Personal Information Other than Email Address
+
+AVMA may share, sell, or rent limited member data, including postal address, to third parties, including companies that offer products and services related to veterinary medicine for sale to AVMA members. This includes, for example, companies that offer products and services to members through the AVMA affinity programs. In addition, AVMA may share limited personal information of registered AVMA Convention attendees with convention exhibitors. AVMA also hires vendors to perform certain services for the AVMA, such as packaging and mailing purchases, printing, and sending postal mail and processing event registration. We only provide the information these companies need to perform these services.
+
+As an AVMA member, if you prefer to receive mailings from AVMA only and do not wish to receive mailings from these other organizations, you may have your name and address removed from the lists. To do so, please visit [My Profile](https://web.archive.org/Authentication/Pages/default.aspx?returnurl=https://ebusiness.avma.org/EBusiness50/login.aspx?rid=01) and update your member preferences to be excluded from third party mailing opportunities. 
 
 ### Security
 
