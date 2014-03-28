@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the estatesales.net privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202011045id_/http%3A//www.estatesales.net/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estatesales.net privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328023212id_/http%3A//www.estatesales.net/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Please enable JavaScript on the page to use key features of the site. If you need help please contact our [customer support](https://web.archive.org/contact.aspx). 
+**This Page Is Out of Date**
+
+It appears that your browser settings are preventing this page from loading the latest version. You may be seeing old information or you may run into errors because of this.
 
 At EstateSales.NET we care about providing you with tools and information to manage and protect your online privacy. We have developed this privacy policy to inform you about what information this web site collects, who may receive that information, what we may do with the information, and how long we keep it. While we have made every attempt to make this policy as clear as possible, if you have any further questions about it, please contact us:
-    
-    
-     
-    EstateSales.NET
-    100 S High St
-    Jackson, MO 63755
-    E-mail: [support@EstateSales.NET](mailto:support@EstateSales.NET)
-    Phone: (888) 653-8468
 
 ### Does this website use cookies to keep track of my information?
 
