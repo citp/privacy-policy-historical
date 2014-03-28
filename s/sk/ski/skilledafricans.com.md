@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the skilledafricans.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203034122id_/http%3A//www.skilledafricans.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skilledafricans.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328204414id_/http%3A//www.skilledafricans.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy policy - SkilledAfricans : Jobs in Africa
-
-## Privacy Policy
+# Privacy policy - SkilledAfricans
 
 SkilledAfricans provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of this website, located at SkilledAfricans.com ("Site" ) or collected through our social networking service, including via SMS, WAP and Instant Messaging ("Service" ). This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Site. You are advised to consult this Privacy Policy regularly for any changes. 
 
 By using our Site you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing" means using cookies on a computer or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the U.S. your personally identifiable information will be transferred to the U.S., and processed and stored there under U.S. privacy standards. By visiting our Site and providing information to us, you consent to such transfer to, and processing in, the US. 
 
-If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please [contact us](https://web.archive.org/web/20131203034122id_/http%3A//www.skilledafricans.com/connection.php) at privacy at SkilledAfricans dot com. 
+If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please [contact us](https://web.archive.org/contact.php) at privacy at SkilledAfricans dot com. 
 
 ### Information Collection and Use
 
@@ -49,3 +47,15 @@ We will make any legally-required disclosures of any breach of the security, con
 ### Links to other sites
 
 Our Site contains links to other websites. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personally identifiable information from you. Other sites follow different rules regarding the use or disclosure of the personally identifiable information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit. 
+
+Thousands of new job offers in Africa
+
+Thousands of registered companies
+
+Online tutorials and classroom training in Africa
+
+Job request posting service
+
+Professional discussion groups
+
+Hundreds of career tips and advice
