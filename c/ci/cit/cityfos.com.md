@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityfos.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809024944id_/http%3A//www.cityfos.com/support/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityfos.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328063343id_/http%3A//www.cityfos.com/support/privacy_policy.htm) for the most accurate reproduction.*
 
 # cityfos.com - Local Business Search
 
