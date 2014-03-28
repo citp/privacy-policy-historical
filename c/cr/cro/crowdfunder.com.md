@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crowdfunder.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810202622id_/http%3A//www.crowdfunder.com/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdfunder.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328024519id_/https%3A//www.crowdfunder.com/blog/privacy-policy) for the most accurate reproduction.*
 
-# Crowdfunder | Privacy Policy
+# Privacy Policy | Crowdfunder Blog
 
 **Last Updated November 14, 2012**
 
@@ -42,7 +42,7 @@ As we develop our business, we may buy or sell assets or business offerings. Cus
 
 We may share your personal information with business partners who assist us by performing services such as hosting, fulfillment, or data storage and security related to our operation of the Site. Those business partners have all agreed to uphold the same standards of security and confidentiality that we’ve promised to you in this Privacy Policy, and they will only use your information to carry out their specific business obligations to crowdfunder.
 
-crowdfunder.com may be required to disclose personal information by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our[ Terms of Use](https://web.archive.org/p/terms-of-use), take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of crowdfunder.com, our users or others.
+crowdfunder.com may be required to disclose personal information by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our[ Terms of Use](https://web.archive.org/blog/terms-of-use), take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of crowdfunder.com, our users or others.
 
 We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain crowdfunder.com services.
 
