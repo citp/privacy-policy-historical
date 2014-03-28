@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maykool.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005060800id_/http%3A//www.maykool.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maykool.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328111415id_/http%3A//www.maykool.com/privacy-and-security) for the most accurate reproduction.*
 
-# Privacy And Security MayKool.com
+# Privacy And Security
 
 ## **Privacy and Security**
 
