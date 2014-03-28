@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the justpropertydubai.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621065220id_/http%3A//www.justpropertydubai.com/privacy-policy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justpropertydubai.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328231748id_/http%3A//www.justproperty.com/information/privacy-policy-statement.html) for the most accurate reproduction.*
 
-# Privacy Policy Statement -
+# Privacy Policy Statement - JustProperty.com
 
- 
-
-This is the web site of [www.justrentalsdubai.com](https://web.archive.org/).
+This is the web site of [www.justproperty.com](http://www.justproperty.com/).
 
 Our postal address is   
 PO BOX 347461  
-Dubai 
+Dubai
 
-We can be reached via e-mail at [info@justrentalsdubai.com](mailto:info@justrentalsdubai.com)  
+We can be reached via e-mail at [info@justproperty.com](mailto:info@justproperty.com)  
 or you can reach us by telephone at +971 55 272 1608
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
@@ -19,7 +17,7 @@ We collect the e-mail addresses of those who communicate with us via e-mail, agg
 
 The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes, shared with other reputable organizations to help them contact consumers for marketing purposes.
 
-With respect to cookies: We do not set any cookies. 
+With respect to cookies: We do not set any cookies.
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
@@ -31,9 +29,9 @@ Persons who supply us with their telephone numbers on-line may receive telephone
 
 Persons who supply us with their telephone numbers on-line may receive telephone contact from other reputable companies. You can, however, have your name put on our do-not-share list by , sending us e-mail at the above address.
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
+Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
+With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
