@@ -1,6 +1,7 @@
-> *The following text is extracted and transformed from the bigfoto.com privacy policy that was archived on 2013-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130316205030id_/http%3A//www.bigfoto.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigfoto.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328055052id_/http%3A//www.bigfoto.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy, no spam marketing
+# Privacy
 
-BigFoto.com respects the privacy of individuals using the site. All information submitted to BigFoto.com is not to be sold or used in any way that violates your right to privacy. Personal information and email addresses are collected for the sole purpose of responding to inquiries. The use of spam marketing techniques is never endorsed by BigFoto.com.   
-
+bigfoto.com respects the privacy of individuals using the site.   
+Any information submitted to bigfoto.com will not be sold or used in any way that violates your right to privacy.   
+Personal information and email addresses are collected for the sole purpose of responding to enquiries. The use of spam marketing techniques is never endorsed by bigfoto.com, and we do not pass information to any other company.
