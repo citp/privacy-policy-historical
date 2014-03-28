@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nobelcom.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808005710id_/https%3A//www.nobelcom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobelcom.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328055050id_/http%3A//www.nobelcom.com/privacy.html) for the most accurate reproduction.*
 
 # Prepaid Phone Cards & International Calling Cards NobelCom
 
