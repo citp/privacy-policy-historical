@@ -1,40 +1,28 @@
-<!--The following is the downloaded HTML source of the securereservation.net privacy policy that was archived on 2013-08-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130822232640id_/http%3A//www.securereservation.net/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the securereservation.net privacy policy that was archived on 2014-03-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140328212057id_/http%3A//www.securereservation.net/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Privacy Policy - SecureReservation.net DHD Hospitality</title>
-<meta name="description" content="Privacy Policy - SecureReservation.net DHD Hospitality">
-<meta name="keywords" content="Privacy Policy - SecureReservation.net DHD Hospitality">
+<title>Hotel Internet Marketing Strategies To Meet Your Goals - Secure Reservation Hospitality Marketing</title>
+<meta name="description" content="Secure Reservation focuses on online hospitality, apartment and hotel internet marketing, offering custom design and consulting services that increase visibility">
+<meta name="keywords" content="hotel internet marketing, hospitality marketing, hotel internet marketing strategy, hospitality marketing strategies">
 <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
-<style type="text/css"> 
-<!--
-body {
-	margin-left: 0px;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	background-image: url(images/bgmainnew.jpg);
-	background-repeat: repeat-x;
-}
-
--->
-</style></head>
-
+</head>
 <body> 
 <table width="1000px" border="0" align="center" cellpadding="0" cellspacing="0" background="images/bg-main.jpg">
   <tbody><tr>
-    <td valign="top"><script language="javascript">
+    <td valign="top"><link href="front.css" media="screen, projection" rel="stylesheet" type="text/css">
+<script language="javascript">
 function login()
 {
 var chk=0;	
 	missinginfo="";
-	if(document.frm_login12.email1.value=="")
+	if(document.frm_login12.email1.value=="" || document.frm_login12.email1.value=="Username")
 	{
 		missinginfo += "\n     -  Email Address Is missing ";
 
 	}
-	if(document.frm_login12.password1.value.length<5)
+	if(document.frm_login12.password1.value.length<5 || document.frm_login12.password1.value=="Password")
 	{
 		missinginfo += "\n     -  Password fill Min. five character ";
 	}
@@ -47,6 +35,8 @@ var chk=0;
 	}
 	else
 	{	
+	//chk_login(document.getElementById('email1').value,document.getElementById('password1').value)
+	
 	document.frm_login12.action="booking/check_login1.php";
 	document.frm_login12.submit();
 	}
@@ -61,37 +51,83 @@ var keycode =event.keyCode;
 		  login();
 	 }
 }
+// start ajax for chklogin
+
+
+function chk_login(username,password)
+{
+	
+	 $("#myDiv").html('<img src="loading.gif"> Checking...');
+	$.ajax({
+		type: "POST",
+		url: "booking/check_login1.php", 
+		 data: "username="+username+"&password="+password,
+		success: function(msg){
+		
+		if(msg=='ok'){
+			window.location.href='booking/account_show.php';
+				}else{
+					$("#myDiv").html(msg);
+					}
+		}
+	});
+}
+// end ajax
 </script>
-<table width="990" height="83" border="0" align="center" cellpadding="0" cellspacing="0">
+ <fieldset id="signin_menu">
+ <div id="myDiv"></div>
+    <form method="get" id="signin" action="" name="frm_login12">
+      <label for="username">Username </label>
+     <input name="email1" id="email1" type="text" value="Username" onclick="search_remove1('email1')" style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14px">
+      <p></p>
+      <p>
+        <label for="password">Password</label>
+        <input name="password1" id="password1" type="password" value="Password" onclick="search_remove1('password1');" onkeypress="enter(event);" style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14px">
+      </p>
+      <p class="remember">
+        <input id="signin_submit" value="Sign in" tabindex="6" type="button" onclick="javascript:login();">
+        
+      </p>
+     
+    </form>
+  </fieldset>
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td width="394" valign="top"><img src="images/logo.jpg" width="394" height="83"></td>
-    <td valign="middle" width="310" style="background-image:url(images/bluebg.jpg)"><form action="" method="get" name="frm_login12"><table width="200" border="0" align="center" cellpadding="1" cellspacing="1">
-      <tbody><tr>
-        <td><input name="email1" id="email1" type="text" size="20" value="Username" onclick="search_remove1('email1')" style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14px"></td>
-        <td><img src="images/signin1.jpg" width="68" height="23"></td>
-      </tr>
-      <tr>
-        <td><input name="password1" id="password1" type="password" value="Password" size="20" onclick="search_remove1('password1');" onkeypress="enter(event);" style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14px"></td>
-        <td><img src="images/login.jpg" width="68" height="24" onclick="javascript:login();"></td>
-      </tr>
-    </tbody></table></form></td>
-    <td width="286" valign="top"><table width="286" border="0" align="right" cellpadding="0" cellspacing="0">
-      <tbody><tr>
-        <td height="45">&nbsp;</td>
-      </tr>
-      <tr>
-        <td valign="top"><img src="images/social-bookmark.jpg" width="286" height="37" border="0" usemap="#Map"></td>
-      </tr>
-    </tbody></table></td>
+    <td width="590" rowspan="2" valign="middle"><img src="images/logo.png" width="314" height="48"></td>
+    <td width="197" rowspan="2" valign="bottom"><div style="margin-bottom:-10px; margin-left:20px;"><a href="https://twitter.com/discounthotelde/" target="_blank"><img src="images/twitter.png" width="33" height="36" border="0"></a><a href="http://www.facebook.com/pages/Discount-Hotel-Deals/343058379067091?created" target="_blank"><img src="images/facebook.png" width="33" height="36" border="0"></a><a href="http://www.youtube.com/user/Discounthoteldeals" target="_blank"><img src="images/you.png" width="32" height="36" border="0"></a><a href="https://plus.google.com/102977305111218889062/posts" target="_blank"><img src="images/gplus.png" width="35" height="36" border="0"></a><a href="http://www.linkedin.com/pub/discounthotel-deals/48/10/770"><img src="images/in.png" width="35" height="36" border="0"></a></div></td>
+    <td width="213"><div align="left"><img src="images/bprice.png" width="187" height="64"></div></td>
+  </tr>
+  <tr>
+    <td><div align="center" style="color:#FEFDFF; font-family:Arial, Helvetica, sans-serif; font-size:11px;">Hotelier,&nbsp;<a href="login" class="signin" style="color:#FEFDFF; font-family:Arial, Helvetica, sans-serif; font-size:11px;"> Login</a> &nbsp;| &nbsp; <a href="hotel.php" style="color:#FEFDFF; font-family:Arial, Helvetica, sans-serif; font-size:11px;">Signup</a></div></td>
+  </tr>
+  <tr>
+    <td height="25" valign="top">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
 </tbody></table>
-<map name="Map" id="Map">
-  <area shape="rect" coords="170,3,201,32" href="http://www.facebook.com/pages/Discount-Hotel-Deals/343058379067091?created" target="_blank">
-<area shape="rect" coords="140,-2,163,30" href="https://twitter.com/discounthotelde/" target="_blank">
-<area shape="rect" coords="238,-2,267,30" href="http://www.linkedin.com/pub/discounthotel-deals/48/10/770" target="_blank">
-<area shape="rect" coords="101,1,133,31" href="https://plus.google.com/102977305111218889062/posts" target="_blank">
-<area shape="rect" coords="203,1,236,32" href="http://www.youtube.com/user/Discounthoteldeals" target="_blank">
-</map></td>
+<script src="jquery-1.js" type="text/javascript">$.noConflict();</script>
+<script type="text/javascript">
+        $(document).ready(function() {
+
+            $(".signin").click(function(e) {          
+				e.preventDefault();
+                $("fieldset#signin_menu").toggle();
+				$(".signin").toggleClass("menu-open");
+            });
+			
+			$("fieldset#signin_menu").mouseup(function() {
+				return false
+			});
+			$(document).mouseup(function(e) {
+				if($(e.target).parent("a.signin").length==0) {
+					$(".signin").removeClass("menu-open");
+					$("fieldset#signin_menu").hide();
+				}
+			});			
+			
+        });
+</script></td>
   </tr>
   <tr>
     <td valign="top" align="left"><table width="99%" border="0" align="center" cellpadding="0" cellspacing="0">
@@ -479,54 +515,83 @@ SecureReservation.net B.V. is the responsible party for the processing of the pe
     </td>
   </tr>
   <tr>
-    <td valign="top">
-<table width="963" border="0" align="center" cellpadding="0" cellspacing="0">
+    <td valign="top"><style type="text/css">
+.divd{
+color:#FFFFFF;
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+font-weight:bold
+}
+A.top2:link {
+	FONT-SIZE: 11px; COLOR: #FBFFFF; TEXT-DECORATION: none;FONT-WEIGHT: bold; font-family:Arial, Helvetica, sans-serif
+}
+A.top2:visited {
+	FONT-SIZE: 11px; COLOR: #FBFFFF; TEXT-DECORATION: none;FONT-WEIGHT: bold; font-family:Arial, Helvetica, sans-serif
+}
+A.top2:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #FBFFFF; TEXT-DECORATION: underline; font-family:Arial, Helvetica, sans-serif
+}
+</style>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
     <td height="15">&nbsp;</td>
   </tr>
   <tr>
-    <td height="15" bgcolor="#E5E5E5"><div align="center" class="stylenewtop">Secure Reservation is not responsible for content on external website </div></td>
+    <td height="27" bgcolor="#003581"><div align="center" class="stylenewtop" style="color:#FBFFFF">Secure Reservation is not responsible for content on external website </div></td>
   </tr>
+  <tr><td>&nbsp;</td></tr>
   <tr>
-    <td height="25"><table width="800" border="0" cellspacing="0" cellpadding="0">
+    <td height="25"><table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
-        <td width="64%"><img src="images/visalogos.jpg" width="516" height="50" border="0" usemap="#Map"></td>
-        <td width="21%" background="images/social.jpg"><table width="80%" border="0" align="center" cellpadding="0" cellspacing="0">
+        <td width="77%"><!--<img src="images/visalogos.jpg" width="516" height="50" border="0" usemap="#Map" />-->
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
-            <td><div align="center"><a href="http://www.facebook.com/pages/Discount-Hotel-Deals/343058379067091?created" target="_blank"><img src="images/facebook.jpg" width="22" height="20" border="0"></a></div></td>
-            <td><div align="center"><a href="https://twitter.com/discounthotelde/" target="_blank"><img src="images/twitter.jpg" width="23" height="20" border="0"></a></div></td>
-            <td><div align="center"><a href="https://plus.google.com/102977305111218889062/posts" target="_blank"><img src="images/google.jpg" width="23" height="20" border="0"></a></div></td>
-            <td><div align="center"><a href="http://www.linkedin.com/pub/discounthotel-deals/48/10/770" target="_blank"><img src="images/in.jpg" width="21" height="20" border="0"></a></div></td>
+            <td width="54%"><img src="images/res.png" height="25" width="270"></td>
+            <td width="46%"><img src="images/vis.png" height="27" width="191"></td>
+          </tr>
+        </tbody></table>
+        </td>
+        <td width="23%"><table width="80%" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+          <td><div align="center"><a href="https://twitter.com/discounthotelde/" target="_blank"><img src="twitter.png" width="31" height="33" border="0"></a></div></td>
+            <td><div align="center"><a href="http://www.facebook.com/pages/Discount-Hotel-Deals/343058379067091?created" target="_blank"><img src="facebook.png" width="32" height="33" border="0"></a></div></td>
+             <td><div align="center"><a href="http://www.youtube.com/user/Discounthoteldeals" target="_blank"><img src="youtube.png" width="31" height="33" border="0"></a></div></td>
+            <td><div align="center"><a href="https://plus.google.com/102977305111218889062/posts" target="_blank"><img src="gplus.png" width="32" height="33" border="0"></a></div></td>
+            <td><div align="center"><a href="http://www.linkedin.com/pub/discounthotel-deals/48/10/770" target="_blank"><img src="in.png" width="32" height="33" border="0"></a></div></td>
           </tr>
         </tbody></table></td>
-        <td width="15%"><div align="center"><img src="images/hacker.jpg" width="116" height="45"></div></td>
+       <!-- <td width="15%"><div align="center"><img src="images/hacker.jpg" width="116" height="45" /></div></td>-->
       </tr>
     </tbody></table></td>
   </tr>
+   <tr><td>&nbsp;</td></tr>
   <tr>
-    <td height="25" bgcolor="#E5E5E5"><div style="float:left; width:70px">&nbsp;</div>
-        <div style="float:left; width:60px">
-          <li style="color:#FD1E00"> <a href="index.php" class="top2">Home</a> </li>
-        </div>
-      <div style="float:left; width:170px">
-        <li style="color:#FF7C0A"> <a href="hotel.php" class="top2">Hotel Owners Sign Up</a> </li>
-      </div>
-      <div style="float:left; width:100px">
-        <li style="color:#01BE24"> <a href="contactus.php" class="top2">Contact Us</a> </li>
-      </div>
-      <div style="float:left; width:110px">
-        <li style="color:#810FBD"> <a href="terms.php" class="top2">Terms of Use</a> </li>
-      </div>
-      <div style="float:left; width:120px">
-        <li style="color:#206CCC"><a href="privacypolicy.php" class="top2">Privacy Policy</a><a href="#" class="newtop2"></a></li>
-      </div>
-      <div style="float:left; width:90px">
-        <li style="color:#FF7C0A"><a href="aboutus.php" class="top2">About Us</a><a href="privacypolicy.php" class="top2"></a><a href="#" class="newtop2"></a></li>
-      </div>
-      <div style="float:left; width:150px">
-        <li style="color:#01BE24"><a href="customer_service.php" class="top2">Customer Service</a><a href="privacypolicy.php" class="top2"></a></li>
-      </div></td>
+    <td height="61" bgcolor="#003581">
+      <table width="70%" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody><tr>
+            <td align="center"><a href="index.php" class="top2" style="color:#FFFFFF">Home</a></td>
+            <td class="divd" align="center">::</td>
+            <td align="center"><a href="hotel.php" class="top2" style="color:#FFFFFF">Hotel Owners Sign Up</a> </td>
+            <td class="divd" align="center">::</td>
+            <td align="center"><a href="contactus.php" class="top2" style="color:#FFFFFF">Contact Us</a> </td>
+            <td class="divd" align="center">::</td>
+            <td align="center"><a href="terms.php" class="top2" style="color:#FFFFFF">Terms of Use</a></td>
+            <td class="divd" align="center">::</td>
+            <td align="center"><a href="privacypolicy.php" class="top2" style="color:#FFFFFF">Privacy Policy</a><a href="#" class="newtop2"></a></td>
+            <td class="divd" align="center">::</td>
+            <td align="center"><a href="aboutus.php" class="top2" style="color:#FFFFFF">About Us</a></td>
+            <td class="divd" align="center">::</td>
+            <td align="center"><a href="customer_service.php" class="top2" style="color:#FFFFFF">Customer Service</a></td>
+          </tr>
+        </tbody></table>
+    </td>
   </tr> 
+  <tr><td>&nbsp;</td></tr>
+  <tr>
+  	<td align="center">
+    	<div style="color:#818181; font-family:Arial, Helvetica, sans-serif; font-size:11px;">© Copyright 2013,<a href="http://www.securereservation.net" style="color:#0057A1; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px;">Secure Reservation</a>,All Rights Reserved</div>
+    </td>
+  </tr>
 </tbody></table></td>
   </tr>
 </tbody></table>
