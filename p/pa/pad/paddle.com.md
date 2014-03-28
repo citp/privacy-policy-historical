@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the paddle.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501135242id_/https%3A//www.paddle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paddle.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328025753id_/https%3A//www.paddle.com/privacy) for the most accurate reproduction.*
 
-# Paddle | Privacy Policy
+# Paddle - Privacy
 
-Personal Information
+**Personal Information**
 
 Personal information is any information that can be used to identify or contact a single person.
 
@@ -25,27 +25,20 @@ You may be asked to provide your personal information anytime you are in contact
 
 
 
-Non-Personal Information
+**Non-Personal Information**
 
-We also collect non-personal information. This is information that is not directly associated with any specific indevidual. We may collect, use, transfer, and disclose non-personal information for any purpose. We have included some examples of non-personal information below:
+We also collect non-personal information. This is information that is not directly associated with any specific indevidual. We may collect, use, transfer, and disclose non-personal information for any purpose. We have included some examples of non-personal information below:  
+
 
   * We may collection such information as language, postal code, local currency and time zone. This data is used so that we can better understand customer behaviour and improve our products, services and advertising.
   * We also may collect information, statistics and data about customer activites on our website, apps and services. This data is used to help us better understand which parts of our site are of most interest.
 
 
 
-Financial Information
+**Financial Information**
 
 No financial information is stored by Paddle.
 
 Our payments partner, Braintree handles the collection, and processing of any information to do with financial transactions taking place on credit and debit cards associated with Paddle.
 
 Braintree is a large, and secure payments processing company that handles the billing of over $4 billion per year for thousands of businesses around the world and is regulated to the higest standards of security and banking.
-
-| 
-
-Need some help?
-
-If you've got any questions, feel free to [contact us](https://web.archive.org/contact/), and we'll help where we can.  
-  
----|---
