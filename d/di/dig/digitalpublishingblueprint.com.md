@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalpublishingblueprint.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815092335id_/http%3A//www.digitalpublishingblueprint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalpublishingblueprint.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328230054id_/http%3A//www.digitalpublishingblueprint.com/privacy-policy) for the most accurate reproduction.*
 
 # Digital Publishing Blueprint » privacy policy
 
@@ -28,4 +28,4 @@ Our service may contain links to other websites and software. We are not respons
 We may amend this policy occasionally. It is your responsibility to check this page for any notices of change.  
 Contacting Us
 
-We can be reached by E-mail at: [support@magcastapp.com](https://web.archive.org/web/20130815092335id_/http%3A//www.digitalpublishingblueprint.com/support@magcastapp.com)
+We can be reached by E-mail at: [support@magcastapp.com](https://web.archive.org/web/20140328230054id_/http%3A//www.digitalpublishingblueprint.com/support@magcastapp.com)
