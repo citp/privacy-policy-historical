@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the philippinecompanies.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019203940id_/http%3A//www.philippinecompanies.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philippinecompanies.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328203616id_/http%3A//www.philippinecompanies.com/privacy.php) for the most accurate reproduction.*
 
 # Philippine Business Directory - Advertise With Us
 
-We at [PhilippineCompanies.com](https://web.archive.org/ "Business Directory Philippines") respect the privacy of our site visitors and are committed in protecting any and all information we may require of our visitors as they peruse our website. Below are some of our commitments in the use and distribution of any private information that our visitors might divulge during his/her visit to our site. 
+We at [PhilippineCompanies.com](http://www.philippinecompanies.com/ "Business Directory Philippines") respect the privacy of our site visitors and are committed in protecting any and all information we may require of our visitors as they peruse our website. Below are some of our commitments in the use and distribution of any private information that our visitors might divulge during his/her visit to our site. 
 
 This site utilizes third party advertising networks that utilizes cookies that enables them and their partners to serve ads to visitors of this website based on your visit to our site and/or other sites on the Internet.
 
