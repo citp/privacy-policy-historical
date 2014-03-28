@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icstation.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122091201id_/http%3A//www.icstation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icstation.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328020504id_/http%3A//www.icstation.com/privacy.php) for the most accurate reproduction.*
 
 # IC Station
 
