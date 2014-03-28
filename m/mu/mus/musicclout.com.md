@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicclout.com privacy policy that was archived on 2013-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130124024050id_/http%3A//www.musicclout.com/contents/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicclout.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328054447id_/http%3A//musicclout.com/contents/Privacy.aspx) for the most accurate reproduction.*
 
 # Music Clout
 
