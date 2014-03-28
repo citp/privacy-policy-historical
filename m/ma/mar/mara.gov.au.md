@@ -1,28 +1,72 @@
-> *The following text is extracted and transformed from the mara.gov.au privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816111353id_/https%3A//www.mara.gov.au/About-Us/Privacy-Policy/Privacy-Policy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mara.gov.au privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328214716id_/https%3A//www.mara.gov.au/supporting/privacy) for the most accurate reproduction.*
 
-# Freedom of Information & Privacy - Office of the MARA
+# Privacy and Online Security - Office of the Migration Agents Registration Authority
 
----  
-  
-Consumers, Registered Migration Agents and Education Providers all have rights that cover access and use of collected personal information and the use of information published on this website. 
+## The Privacy Act 
 
-## Accessing your own records
+The Privacy Act 1988 is the key law designed to prevent agencies in the Australian Government from misusing personal information they have collected.
 
-Guidance on how to access your own information and documents and changing your personal information is available on this website.  
-**See:** [Access to Your Own Records](https://www.mara.gov.au/About-Us/Freedom-of-Information---Privacy/Access-to-Your-Own-Records/default.aspx)
+The information privacy principles in the Act are strict safeguards. The Office of the Migration Agents Registration Authority must obey them when collecting, using and disclosing information about you.
 
-## Our Privacy Statement
+As a general rule, we do not collect personal information when you visit this website. You can visit this website without telling us who you are, unless you choose to provide such information.
 
-Our privacy statement contains information related to how we use information that we collect via this website. Additional information is also available on how we use and disclose information.  
-**See:**   
-[Privacy Policy](https://www.mara.gov.au/About-Us/Freedom-of-Information---Privacy/Privacy-Policy/default.aspx)  
-[How we use and disclose information](https://www.mara.gov.au/About-Us/Freedom-of-Information---Privacy/How-We-Use-and-Disclose-Personal-Information/How-We-Use-and-Disclose-Personal-Information/default.aspx)  
-[Online Security](https://www.mara.gov.au/About-Us/Freedom-of-Information---Privacy/Privacy-Policy/Online-Security/default.aspx)
+## Security of information 
 
-## Accessing other information
+The Privacy Act 1988 has provisions that prohibit anyone working for us, or any other government agency, from collecting, using or disclosing your personal information except when performing their duties and in situations permitted by law.
 
-Under the Freedom of Information Act 1982 you have a legal right (subject to some exemptions) to see documents the Office of the MARA holds and get copies of those documents. The Department of Immigration and Citizenship handles all Freedom of Information requests on our behalf. To make an FOI request please   
-**See:** [Making an FOI Request ](http://www.immi.gov.au/about/foi/)  
-  
-Article last modified: Wednesday, 4 May 2011 8:18:55 AM  
-Persons who give immigration assistance must be registered and must display the [Code of Conduct](https://www.mara.gov.au/Code-of-Conduct/Code-of-Conduct/default.aspx).
+We will not disclose your personal information unless you give us permission to do so or unless the law permits. While we provide a secure online environment, you need to be aware of the risks associated with sending information through the Internet.
+
+## Website visit data 
+
+We operate this website with technical assistance from an external company.
+
+When visiting this website, your visit is logged and information on your visit is recorded. We use these logs to analyse and monitor how this website is used. We also use the logs to learn what information is most and least used, so we can make the website better for users.
+
+We make no attempt to identify you personally or your browsing activities except when investigating improper use or where a law enforcement agency issues a warrant to inspect the logs.
+
+The information logged when you visit this website includes:
+
+  * your Internet Protocol address or your server's Internet Protocol address
+  * the date and time you visit the website
+  * the pages you accessed
+  * details on your operating system (for example,Windows XP, Windows 7, Mac OS X)
+  * details on your web browser version and type (for example, IE8, IE9, Chrome, Firefox, Safari)
+  * the time it took to transmit information to you
+  * the previous Internet address if you linked from it to this website.
+
+
+
+## Cookies 
+
+We use ‘cookies’ for maintaining contact with a user through a website session. A cookie is a small file supplied by us, and stored by the web browser software on your computer when you access our site. An explanation of what cookies are and how they work can be found on the website of the Office of the Australian Information Commissioner. Cookies allow us to recognise you as an individual web user, as you browse our website.  
+[Office of the Australian Information Commissioner  
+](http://www.privacy.gov.au/internet/internet_privacy/#2.1 "Office of the Australian Information Commissioner")
+
+Two cookie types may be used by this website:
+
+### Session cookies
+
+These exist only for the duration of a web browser session with a particular website/host. All cookies will be immediately lost when you end your internet session or shut down your computer. Our copy of your information will be automatically deleted twenty minutes after you last used the system. This information is only used to help you use our website systems more efficiently, not to track your movements through the internet, or to record private information about you.
+
+### Persistent cookies
+
+These exist for a defined period of time (usually beyond the termination of the current session) before expiring.
+
+No personally identifiable information is stored within cookies used by this website. No attempt will be made to identify anonymous users or their browsing activities unless legally compelled to do so, such as in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect the Internet Service Provider's log files.
+
+## Online security 
+
+Before submitting your personal details on our website, it is good practice to check that your computer and Internet connection are as secure as possible.
+
+Steps you can take to help secure your computer are:
+
+  * set and protect  passwords
+  * set and update anti-virus and anti-spyware software
+  * install and use a firewall
+  * manage spam emails
+  * secure your Internet browser.
+
+
+
+Practical tips on how to protect yourself against security scams and how to complete online transactions safely, is available from the Australian Government’s Stay Smart Online website.  
+[Stay Smart Online](http://www.staysmartonline.gov.au/)
