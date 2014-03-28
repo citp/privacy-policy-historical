@@ -1,118 +1,76 @@
-> *The following text is extracted and transformed from the ravpower.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202103858id_/http%3A//www.ravpower.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ravpower.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328235504id_/http%3A//www.ravpower.com/support/privacy-policy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Ravpower Privacy Policy
 
-We take your privacy seriously, and we want you to know how we collect, use and protect your information. This Policy applies to Ravpower.com and other companies run by Ravpower™.
+## What information do we collect? 
 
-This Privacy Policy tells you:
+We collect information from you when you register on our site, place an order or subscribe to our newsletter.
 
-  *   What information we collect
-  *   How we use that information
-  *   How we protect your information
-  *   Your choices regarding your personal information
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
 
+## What do we use your information for? 
 
+Any of the information we collect from you may be used in one of the following ways: 
 
-This Policy applies to Ravpower.com and other companies run by Ravpower™.
+To personalize your experience:   
+(your information helps us to better respond to your individual needs)
 
-  **Information We Collect**
+To process transactions:  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. 
 
-Information You Give Us  
-We receive and may store any information you enter on our website. For example, we collect information from you when you make an inquiry, create an account, email or call us with a question, write a review, or use any of our services.
+To send periodic emails:   
+The email address you provide for order processing may be used to send you information and updates pertaining to your order. In addition to receiving occasional company news, updates, related product or service information, etc.  
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-The information we collect from you includes things like:
+## How do we protect your information? 
 
-  *     Your name
-  *     Your mailing address
-  *     Your e-mail address
-  *     Your phone number
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.  
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.  
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
+## Do we use cookies?
 
+es. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-It may also include information you give us about other people, such as the name and address of a gift recipient.
+## Do we disclose any information to outside parties? 
 
-Information From Other Sources  
-We may also receive information about you from other sources, including third party sales platforms and distribution channels.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
 
-Automatic Information  
-Like many other websites, we also collect information through cookies and other automated means. Cookies are commonly used by websites to save data on your computer. The information we collect from cookies may include your IP address, browser and device characteristics, referring URLs, and a record of your interactions with our websites. We use cookies to create a more personalized shopping experience on our websites.
+## Third party links 
 
-To help us understand and enhance our interactions with visitors to our websites, we may permit web analytics providers to collect information on our websites.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
 
-Public Forums  
-Our web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+## California Online Privacy Protection Act Compliance 
 
-  **How We Use the Information We Collect**
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page. 
 
-We use the information we collect for things like:
+## Childrens Online Privacy Protection Act Compliance 
 
-  *     Fulfilling orders and requests for products, services or information
-  *     Processing returns and exchanges
-  *     Tracking and confirming online orders
-  *     Delivering or installing products
-  *     Marketing and advertising products and services
-  *     Conducting research and analysis
-  *     Establishing and managing your accounts with us
-  *     Communicating things like special events, sweepstakes, promotions and surveys
-  *     Operating, evaluating and improving our business
+We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act). We do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
 
+## Online Privacy Policy Only 
 
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-Data Retention  
-We will retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes, and enforce our agreements.  
-  **  
-How We Share the Information We Collect**
+## Terms and Conditions 
 
-RAVPower does not sell, rent or trade your personal information to third parties.  We may share information with third parties to perform services on your behalf such as:
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at www.ravpower.com
 
-  *     Fulfilling orders
-  *     Delivering packages
-  *     Servicing products
-  *     Sending marketing communications
-  *     Fulfilling customer requested services
-  *     Conducting research and analysis
-  *     Providing chat functions
+## Your Consent 
 
+By using our site, you consent to our web site privacy policy.
 
+## Changes to our Privacy Policy
 
-Sometimes we may be required to share personal information in response to a regulation, court order or subpoena. We also may share information to respond to a government request or when we believe disclosure is necessary to protect the rights, property or safety of others; to prevent harm or loss; or in connection with an investigation of suspected or actual unlawful activity.  
- **   
-How We Protect the Information We Collect**
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below.  
+This policy was last modified on 11/12/2013 
 
-We use reasonable security measures to protect the confidentiality of personal information under our control and appropriately limit access to it. RAVPower cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk.
+## Contacting Us 
 
-We use a variety of information security measures to protect your online transactions with us. Our website(s) uses encryption technology, such as Secure Sockets Layer (SSL), to protect your personal information during data transport. SSL protects information you submit via our Web site such as ordering and service information including your name and address.
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
-  **Your Choices Regarding the Information We Collect**
+[www.ravpower.com](http://www.ravpower.com/)
 
-You may choose to:
+[support@ravpower.com](mailto:support@ravpower.com)
 
-  *     Stop receiving marketing or promotional e-mails from us
-  *     Update, correct or delete your personal information at any time
-  *     Cancel your account or request that we no longer use your information to provide you services
-  *     Request removal of your personal information from our blog or community forum
-
-
-
-To do any of these, let us know by one of these methods:
-
-•  Follow the unsubscribe/delete directions in any marketing e-mail that you receive from us.  
-•  Send an e-mail with your request and current contact information to [ **support@ravpower.com**](mailto:%20support@ravpower.com)
-
-  **Protecting Children's Privacy**
-
-We are committed to protecting children's privacy on the Interne t and we do not knowingly collect personal information from children under the age of 13.  
-Links to Other Websites
-
-Our websites link to other websites, many of which have their own privacy policies. Be sure to review the privacy policy on the site you're visiting.  
-Privacy Policy Updates
-
-We may need to update our Privacy Policy as RAVPower and our customers grow and evolve. If we make significant changes to the Privacy Policy, we'll post a prominent message on our website(s).  
-U.S.-EU Safe Harbor Framework
-
-RAVPower complies with the U.S.-E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union. Information regarding the E.U. Safe Harbor Framework can be found at: <http://export.gov/safeharbor>.  
-Have Questions?
-
-If you have any questions about our Privacy Policy, we'll do our best to answer them. Here's how to contact us:
-
-E-mail:[ **support@ravpower.com**](mailto:support@ravpower.com)
+1-888-456-8468 (US)
