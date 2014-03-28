@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the circleup.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807040604id_/https%3A//circleup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circleup.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328222031id_/https%3A//circleup.com/privacy) for the most accurate reproduction.*
 
 # CircleUp Privacy Policy
 
@@ -34,9 +34,13 @@ In operating this Site, we may also use a technology called "cookies." A cookie 
 
 The use of cookies by our any of our affiliates or service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners use session ID cookies to make it easier for you to navigate our site and use our Services.
 
+**This Site Uses Google Analytics and AdWords.** This Site uses Google Analytics to track viewing trends and help analyze how visitors use the CircleUp Site. This information will help us to improve the CircleUp Site and the overall user experience. Google Analytics uses cookies to collect standard internet log information and visitor behavior information in an anonymous form. None of the information gathered is personally identifiable in nature without your expressed permission. This Site also uses the Google AdWords remarketing service to advertise CircleUp and CircleUp Issuers on third party websites to previous visitors of the CircleUp Site. Google AdWords remarketing will display relevant ads tailored to you by using a cookie that helps track what parts of the CircleUp Site you have viewed. Google AdWords remarketing allows us to tailor our marketing efforts to better suit your needs and display ads that are most relevant to your interests.
+
+You can set preferences for how Google advertises to you using the [Google Ad Preferences](http://www.google.com/settings/ads/onweb/) page. Or, you may opt out of a third party vendor's use of cookies by visiting the [Network Advertising](http://www.networkadvertising.org/managing/opt_out.asp) Initiative opt out page.
+
 ## Our Use of Your Personal Data and Other Information
 
-CircleUp uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. We also may obtain information about you from third party sources to verify your identity so we can properly process your requests and prevent fraud.
+CircleUp uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. We also may obtain information about you from third party sources to verify your identity so we can properly process your requests and prevent fraud. By accessing our Site and using our Services, you hereby explicitly consent that we may use your submitted and obtained Personal Information for such purposes.
 
 CircleUp and its subsidiaries and affiliates (the "Related Companies") may also use your Personal Data and other personally non-identifiable information collected through the Site to help us improve the content and functionality of the Site, to better understand our users and to improve the Services. CircleUp and its Related Companies may use this information to communicate with you regarding the Services or to tell you about services we believe will be of interest to you. If at any time you wish not to receive any future marketing communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below. Note however that as user of the Service we will send you administrative communications that are reasonably necessary to the Service, such as billing or service notifications. , If CircleUp intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected.
 
@@ -109,5 +113,5 @@ CircleUp Network, Inc.
 [info@circleup.com](mailto:info@circleup.com)
 
 CircleUp Network Inc.  
-1 Hallidie Plaza #503  
-San Francisco, CA 94102
+818 Mission St, Suite 300  
+San Francisco, CA 94103
