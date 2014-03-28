@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tfmetalsreport.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603191733id_/http%3A//www.tfmetalsreport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfmetalsreport.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328072427id_/http%3A//www.tfmetalsreport.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TF Metals Report
 
@@ -6,6 +6,9 @@
 
 **E-mail Addresses**  
 We collect and store in our database the e-mail addresses of those who choose to communicate with us via e-mail.
+
+**Addresses and Credit Cards**  
+No credit card information is stored on the TF Metals Report servers - all credit card information is securely handled by Authorize.net. Address and order information are stored in our database so orders can be processed and paid subscriptions managed.
 
 **Use of Collected Information**  
 We collect aggregate information on what pages our users access, utilize and depart. We also collect information volunteered by users such as information provided in online surveys and feedback forms. Information we collect may be used to notify users about updates to our web site. TFMetalsReport.com does not sell to or trade e-mail lists with third parties.
