@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tangeroutlet.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221141742id_/http%3A//www.tangeroutlet.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tangeroutlet.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328224225id_/http%3A//www.tangeroutlet.com/privacy.aspx) for the most accurate reproduction.*
 
-# Tanger Outlets |
-
-## Privacy Policy
+# Tanger Outlets | Privacy Policy
 
 Tanger Factory Outlet Centers, Inc. is committed to keeping your personal information confidential. Any and all personal identifiable information collected from our customers is used by Tanger Outlets only, and is not sold, shared or distributed to any third party. 
 
