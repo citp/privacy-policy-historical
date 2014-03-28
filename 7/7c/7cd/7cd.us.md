@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 7cd.us privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119210621id_/http%3A//www.7cd.us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7cd.us privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328101701id_/http%3A//directory.addlinksuggest.com/privacy.html) for the most accurate reproduction.*
 
-# Professional Web Directory - 7CD.us
+# AddLinkSuggest::Privacy Policy
 
-**Privacy Policy**
+  **Privacy Policy**
 
 iEntry reserves the right to change this policy at any time by notifying users through a notice posted on iEntry.com or by email, of the existence of a new privacy policy or any updates. 
 
