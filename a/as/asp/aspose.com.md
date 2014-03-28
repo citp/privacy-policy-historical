@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspose.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819072929id_/http%3A//www.aspose.com/corporate/legal/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspose.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328135805id_/http%3A//www.aspose.com/corporate/legal/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Aspose | Corporate - Legal - Privacy Policy
 
@@ -20,7 +20,7 @@ Aspose strives to comply with all applicable laws around the globe that are desi
 
 You may choose whether or not to provide Personal Information to Aspose. However, when you engage in certain activities on this site, such as ordering products, downloading software, or entering contests, Aspose may require that you provide certain information about yourself by filling out and submitting an online form. It is entirely optional for you to engage in these activities. If you elect to engage in these activities, Aspose may require that you provide certain personal information, such as your name, mailing address, e-mail address, and other personal identifying information.
 
-##### Cookies and other tracking technologies
+##### Cookies and Other Tracking Technologies
 
 When you visit Aspose.com, you may surf the site anonymously and access important information without revealing your identity. In order to analyze and improve our site, we use "cookies" to track your visit. A cookie is small amount of data that is transferred to your browser by a web server and can only be read by the server that gave it to you. "Cookies" cannot be executed as code or deliver viruses.
 
@@ -42,9 +42,9 @@ Wherever your Personal Information may be held by Aspose or by a third party on 
 
 ##### Access/Accuracy
 
-To the extent that you do provide us with Personal Information, Aspose wishes to maintain it accurately and updated. Where we collect Personal Information from you, our goal is to provide a means of contacting Aspose should you need to access, update or correct that Information. If for any reason you desire to review such information, please contact us at privacy@aspose.com and we will make reasonable efforts to promptly provide you with such information. Further, if you notify us that such information is incorrect, or you wish to have such information removed, we will correct, amend, or delete your Personal Information as soon as practicable.
+To the extent that you do provide us with Personal Information, Aspose wishes to maintain it accurately and updated. Where we collect Personal Information from you, our goal is to provide a means of contacting Aspose should you need to access, update or correct that Information. If for any reason you desire to review such information, please contact us at [privacy@aspose.com](mailto:privacy@aspose.com) and we will make reasonable efforts to promptly provide you with such information. Further, if you notify us that such information is incorrect, or you wish to have such information removed, we will correct, amend, or delete your Personal Information as soon as practicable.
 
-##### Third party services
+##### Third-party Services
 
 In the interest of providing better service to its customers, Aspose is represented in Australia and in some foreign countries by authorized distributors and resellers who provide marketing, sales, and support services to Aspose customers. When you submit personal information to Aspose, you understand and agree that Aspose may allow Aspose's authorized distributors and resellers access to your customer profile for the exclusive purpose of providing you with marketing, sales, and support services for Aspose products.
 
@@ -52,14 +52,14 @@ Your personal information will not be leased, sold, rented or otherwise made ava
 
 Notwithstanding the foregoing, you hereby agree that Aspose may assign, sell, license, or otherwise transfer to a third party, your name, address, email address, member name and any other personal information in connection with an assignment, sale, joint venture, or other transfer or disposition of a material portion or essentially all of the assets or stock of Aspose or its affiliated entities.
 
-##### Children's privacy
+##### Children's Privacy
 
 Aspose.com is not designed nor structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years of age. If we are made aware that information is or has been submitted by or collected from a child under the age of thirteen, we will promptly delete this information.
 
-##### Sensitive information
+##### Sensitive Information
 
 We do not collect Sensitive Information such as medical, health, racial, ethnic, political, religious, philosophic, union membership or sexual orientation information. If we are made aware that we have received such information, we will promptly proceed to its deletion.
 
-##### Your consent
+##### Your Consent
 
 By using this web site, you consent to the terms of our Online Privacy Policy and to Aspose's processing of Personal Information for the purposes outlined above. Should the Online Privacy Policy change, we will take reasonable steps to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
