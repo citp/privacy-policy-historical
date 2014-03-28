@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinger.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023125041id_/http%3A//www.pinger.com/content/company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinger.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328103634id_/http%3A//www.pinger.com/content/company/privacy_policy.html) for the most accurate reproduction.*
 
 # Pinger makes texting and talking free.
 
@@ -10,7 +10,7 @@ This Privacy Policy describes how Pinger treats information that it collects and
 
 All Pinger products, services and websites are not intended for children under the age of 13, so children under the age of 13 should not use them at any time. 
 
-Pinger complies with the Children's Online Privacy Protection Act ("COPPA"), including the COPPA rules effective July 1, 2013, and does not knowingly collect any information from children under the age of 13. In the event that Pinger discovers that is has received personal information (as defined under Section 312.2 of the COPPA rules effective July 1, 2013) from a child under the age of 13, Pinger will promptly delete such personal information in a secure manner. 
+Pinger complies with the Children's Online Privacy Protection Act ("COPPA"), including the COPPA rules effective July 1, 2013, and does not knowingly collect any information from children under the age of 13. In the event that Pinger discovers that it has received personal information (as defined under Section 312.2 of the COPPA rules effective July 1, 2013) from a child under the age of 13, Pinger will promptly delete such personal information in a secure manner. 
 
 **Safe Harbor Frameworks**
 
@@ -22,7 +22,7 @@ Pinger collects information when you use and access Pinger's products, services 
 
 "Personal Information" is information about you that is personally identifiable, including your full name, business or residential address, email address, land-line or existing mobile phone number, or billing information. 
 
-"App Data" is information about the nature of your usage of Pinger's website and products and services and non-personal demographic information. App Data can include: IP addresses, domain servers, referring/exit pages, operating system information, unique device identifiers, such as UDID and/or Ethernet MAC address, date/time stamp, clickstream data and information about actions taken by you through interaction with Pinger's products and/or advertising displayed within Pinger products, messages sent and received using Pinger services, information about those messages (date, duration, recipients, size, attachments), type of device, location information, age, gender, type of web browser, one or more cookies that identify your browser, information about and telecommunications carrier information. 
+"App Data" is information about the nature of your usage of Pinger's website and products and services and non-personal demographic information. App Data can include: IP addresses, domain servers, referring/exit pages, operating system information, unique device identifiers, such as UDID and/or Ethernet MAC address, date/time stamp, clickstream data and information about actions taken by you through interaction with Pinger's products and/or advertising displayed within Pinger products, messages sent and received using Pinger services, information about those messages (date, duration, recipients, size, attachments), type of device, location information, age, gender, type of web browser, one or more cookies that identify your browser, and telecommunications carrier information. 
 
 "Share Data" is data and information you provide for use with Pinger's products or services, such as text, audio, and photos you make available through the Apps or contacts you add or import for use with Pinger products, and which may be made available to third parties by your actions when using Pinger products or services.
 
