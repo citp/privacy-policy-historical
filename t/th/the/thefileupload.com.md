@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefileupload.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209114215id_/http%3A//www.efileuploading.com/pages/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefileupload.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328175518id_/http%3A//www.efileuploading.com/pages/policy.html) for the most accurate reproduction.*
 
 # TheFileUpload
 
@@ -30,7 +30,7 @@ You may choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. 
 
-If there are any questions, please contact us using the [contact form](https://web.archive.org/web/20131210014804id_/http://www.thefileupload.com/pages/contact.html). 
+If there are any questions, please contact us using the [contact form](https://web.archive.org/web/20140209234855id_/http://www.thefileupload.com/pages/contact.html). 
 
 Thanks, Efileuploading 
 
