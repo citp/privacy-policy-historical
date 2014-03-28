@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the pitstopmedia.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812053621id_/http%3A//www.pitstopmedia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitstopmedia.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328152158id_/http%3A//www.pitstopmedia.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Pitstop Media Inc - Privacy Policy
 
 |  |  |   | 
 
-195% Increase in AdWords CTR, Campaign Cost Decrease by 40%
+410% Increase in Google AdWords Conversions in Three Months
 
-Food Connect hired us to optimize an AdWords account with poor Quality Scores, high CPC and lack of any form of conversion tracking. Even then, we delivered ...
+Prior to contracting us, Holy Family was managing its PPC campaigns in-house, incurring AdWords losses and a negative ROI. We helped optimize the account ...
 
-[](http://www.pitstopmedia.com/case-studies/cs-detail-food-connect.php)
+[](http://www.pitstopmedia.com/case-studies/cs-detail-holy-family.php)
 
 | 
 
@@ -24,11 +24,11 @@ When using our site, as appropriate, you may be asked to enter data such as, but
 
 Google Analytics - Google, as a third party vendor, uses cookies to track your website usage. Google sends one or more cookies to your computer or other device. We use cookies to improve the quality of our service, including tracking user trends, such as how people browse our site. Google also uses cookies in its advertising services to help advertisers and publishers serve and manage ads across the web and on Google services. If you wish to opt out from being tracked with Google Analytics please visit <http://tools.google.com/dlpage/gaoptout>
 
-ClickTale - Our site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in our website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in our website. For more information on ClickTale privacy policy and how to opt-out please visit <http://www.clicktale.com/privacy>
+ClickTale - Our site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in our website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in our website. For more information on ClickTale privacy policy and how to opt-out please visit [http://www.clicktale.com/privacy](http://www.clicktale.com/privacy-policy)
 
 Crazy Egg - Crazy Egg uses customized Java script tracking code to track information about our website visitors’ activity. This information is then stored on the Crazy Egg website for analysis and producing reports. For more information on Crazy Egg privacy policy and how to opt-out please visit <http://www.crazyegg.com/privacy>
 
-Tynt – we use Tynt scripts in order to analyze and track content copied from our website. For more information on Crazy Egg privacy policy and how to opt-out please visit <http://www.tynt.com/company/privacy-policy/>  
+Tynt – we use Tynt scripts in order to analyze and track content copied from our website. For more information on Crazy Egg privacy policy and how to opt-out please visit [http://www.tynt.com/company/privacy-policy/](http://www.tynt.com/privacy_policy.php)  
   
    
   
