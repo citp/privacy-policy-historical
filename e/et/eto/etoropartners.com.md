@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the etoropartners.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908030813id_/http%3A//www.etoro.com/about-us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etoropartners.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328101832id_/http%3A//www.etoro.com/about-us/privacy.aspx) for the most accurate reproduction.*
 
-# Social trading & Investment Network Privacy Policy | eToro
+# eToro Social Trading Privacy Policy | eToro
 
 This privacy policy explains the manner in which we collect and maintain non public information about our customers (such as your full name, mailing address, identification number, passports, driver's license etc, hence forth "Information").  
 **By providing us with Information, you are giving us your consent to collect, use and store the Information in the manner explained hereto.**
@@ -55,7 +55,17 @@ Whether you are a trader by or after July 6, 2010, you can always opt-in and out
 
 The information that is shown on the eToro OpenBook is as following: username (but never your real name), country, eToro Club type (gold, silver etc.), ranking, trading activity (open / close position, creating an order, earning profit), challenges activity (climbed to the Xth Position), social/community activities (following other user(s), writing comments, like / dislike), statistics [gain in % (but never amounts), winning rate in %, risk levels (low/medium/high) and instruments traded).
 
-Click [here](http://openbook.etoro.com/settings/privacy.aspx "OpenBook privacy settings") to change your privacy settings.
+Click [here](https://openbook.etoro.com/settings/ "OpenBook privacy settings") to change your privacy settings.
+
+## Third Party Data Collection
+
+When you use or connect to eToro website or download eToro mobile app by or through a Third Party Platform, such as Facebook or other social networking site, you allow us to access and/or collect certain information from your Third Party Platform profile/account (such as your Facebook account) or via any cookies placed on your device by such Third Party Platform as permitted by the terms of the agreement and your privacy settings with the Third Party Platform. We will share such information with the Third Party Platform for their use as permitted by the terms of the agreement and your privacy setting with the Third Party Platform.”
+
+“We will share some of the information we collect from you upon install of the mobile app with vendors and other service providers who are engaged by or working with us in connection with the operation of the services we provide to you and/or for analytics purposes which may require the reproduction and display of such information in an aggregated and anonymized manner such that will not in any way identify you.
+
+### Third Party Data Collection - Actions
+
+You may "opt out" of the collection of your information for third party analytics purposes by following the directions provided by our third party analytics vendor located at <http://www.mobileapptracking.com/privacy-policy/>. If you “opt out” with our third party analytics provider, that action is specific to the information we collect specifically for that provider, and does not limit our ability to collect information from you, under the terms of this privacy policy, for other vendors.
 
 ### Security and Integrity of Information
 
@@ -75,4 +85,4 @@ In the event that you believe our Information is in anyway inaccurate, please le
 
 ## Questions
 
-Should you have any questions regarding our privacy policy, please contact us at <http://www.etoro.com/application/help/contact.aspx>. Please include your name, mailing address, email and telephone number. 
+Should you have any questions regarding our privacy policy, please contact us at <https://www.etoro.com/application/help/contact.aspx>. Please include your name, mailing address, email and telephone number. 
