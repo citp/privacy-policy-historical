@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usedvictoria.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810015815id_/http%3A//www.usedvictoria.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usedvictoria.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328021302id_/http%3A//www.usedvictoria.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Used stuff in Victoria for sale - UsedVictoria.com - buy and sell free classified ads
 
