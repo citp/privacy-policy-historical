@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketbud.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220004451id_/http%3A//ticketbud.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketbud.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328110340id_/http%3A//ticketbud.com/info/privacy) for the most accurate reproduction.*
 
 # Ticketbud Privacy Policy 2013
 
