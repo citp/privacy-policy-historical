@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zipcar.ca privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816023134id_/http%3A//members.zipcar.ca/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipcar.ca privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328020423id_/http%3A//members.zipcar.ca/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Zipcar
 
@@ -88,7 +88,7 @@ If you have questions about our handling of personal information, you may write 
 
 ## Corporate identity
 
-Zipcar, Inc. is located at 25 First Street in Cambridge, Massachusetts 02141 USA.
+Zipcar, Inc. is located at 35 Thomson Place in Boston, Massachusetts 02210 USA.
 
 Zipcar Canada Inc.'s registered office is at 77 King Street West, Toronto-Dominion Centre, Suite 400, Toronto, Ontario M5K 0A1.
 
