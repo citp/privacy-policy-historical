@@ -1,35 +1,25 @@
-> *The following text is extracted and transformed from the assistedproperty.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013014041id_/http%3A//www.assistedproperty.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assistedproperty.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328055628id_/http%3A//www.assistedproperty.com/privacy-policy.php) for the most accurate reproduction.*
 
-# AssistedProperty - India Property
+# Assisted Property Service | Property Search Manager | Find Property in India
 
-**AssistedProperty** , is designed to ease the hassle and stress encountered while buying or selling a property, offering high end services with top notch efficiency. Being a customer friendly service, protecting the privacy of our members is top priority. Given below is the privacy statement drafted in benefit of our clients, based on the acquired information.
+Indiaproperty.com is an online property portal endeavoring constantly to provide you with premium property services. Since we are strongly committed to your right to privacy, we have drawn out a privacy statement with regard to the information we collect from you.
 
-What information needs to be given to use this site?
+#### What information you need to give in to use this site?
 
-Basic and mandatory details are gathered from members and guests who subscribe to our services offered in the site. Specifics include first name, last name, user-determined password, email address, contact number, address, fax number and zip code. Added information on the property is also collected to bestow complete knowledge to the buyers on the property advertised. 
+We gather information from members and guests who apply for the various services our site offers. It includes, but may not be limited to, email address, first name, last name, a user-specified password, mailing address, zip code and telephone number or fax number. We also collect additional information about your property.
 
-  
+#### How the site uses the information it collects/tracks?
 
+Indiaproperty.com collects information from our clients primarily to ensure that we are able to fulfill your requirements and to deliver personalized experience.
 
-How the site uses the information it collects/tracks? 
+#### With whom the site shares the information it collects/tracks?
 
-Information is basically collected to know, understand and cater to every requirement and render the best possible service in a personalized manner.
+The information collected from any of our clients is shared with their approval to individuals and organizations.IndiaProperty.com does not sell, rent, or loan any identifiable information at the individual level regarding its customers to any third party. Any information you give us is held with the utmost care and security and revealed unless you want it to. We are also bound to cooperate fully should a situation arise where we are required by law or legal process to provide information about a customer.
 
-  
+#### Can users contact Builders, Agents, Brokers and others?
 
+If the Builder, Agent/Broker or any individual has provided their contact information for everyone to see then users can contact them at their request.
 
-Who gets to share the information collected from the clients?
+#### Notice
 
-Owing to the privacy policy, we get to share information registered about our clients with third parties only after accent from respective members. Accumulated records and client details will not be revealed to any third party at an individual level. Since we care a lot about client privacy, we do not disclose any details without the respective member's approval. However, we will be compelled to cooperate and produce client records with the intervention of law or legal processes, if and when the situation calls for it. 
-
-  
-
-
-For Your Information
-
-We are inclined to modify our privacy policy based on client feedback and suggestions or with respect to change of policy as per the company norms. If you have any queries regarding our Privacy Statement, please write to us at [support@assistedproperty.com](mailto:support@assistedproperty.com)
-
-  
-
-
-Copyright © 2013 India Property Online Pvt Ltd. All rights reserved.
+We may change this Privacy Policy from time to time based on your comments or as a result of a change of policy in our company. If you have any questions regarding our Privacy Statement, please write in to privacy@indiaproperty.com.
