@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shopodo.co.uk privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104081751id_/http%3A//www2.shopodo.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopodo.co.uk privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328213914id_/http%3A//www3.shopodo.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | shopodo.co.uk
 
-This is the privacy notice of _www2.shopodo.co.uk_. In this document, “we” or “us” refers to _nexico Consulting GmbH_.
+This is the privacy notice of _www3.shopodo.co.uk_. In this document, “we” or “us” refers to _nexico Consulting GmbH_.
 
 We are company number HRB 10693 registered in Germany.  
 Our registered office is at:
