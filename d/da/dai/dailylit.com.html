@@ -1,204 +1,228 @@
-<!--The following is the downloaded HTML source of the dailylit.com privacy policy that was archived on 2013-11-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131111154933id_/https%3A//www.dailylit.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dailylit.com privacy policy that was archived on 2014-03-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140328194642id_/https%3A//www.dailylit.com/privacy) for the most accurate reproduction.-->
 
 <html><head>
-  <title>
-	
+<title>
 Privacy Policy
-
-  </title>
-  <link rel="icon" href="/static/images/favicon.png" type="image/png">
-  <link href="http://fonts.googleapis.com/css?family=Crimson+Text|Roboto+Condensed|Roboto" rel="stylesheet" type="text/css">
-  <link href="/static/css/dailyLit_base.css" rel="stylesheet" media="screen">
-  <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
-  <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
-  
-  
-  
-  
+</title>
+<link rel="icon" href="/static/images/favicon.png" type="image/png">
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css">
+<link href="https://fonts.googleapis.com/css?family=Crimson+Text|Roboto+Condensed|Roboto" rel="stylesheet" type="text/css">
+<link href="/static/css/dailyLit_base.css" rel="stylesheet" media="screen">
+<script src="https://code.jquery.com/jquery-1.9.1.js"></script>
+<script src="https://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
 </head>
-
-<!-- Base.html, all pages after login or in explore mode inherit from this -->
+ 
 <body>
-	<div class="MainView">
+<div class="MainView">
+ 
+<div id="HeaderNav">
+<div class="notifications">
+<form class="notifications_form" action="/hide" method="post">
+<input type="hidden" name="csrfmiddlewaretoken" value="kYtMneBJ7HTsaTyUoYi5HXixtYwIumAl">
+<input type="hidden" name="next" value="/privacy/">
+If you use Gmail, your installments and notifications may be going to the newly introduced promotions tab. To ensure delivery of installments, check your tabs and drag DailyLit emails to the primary tab. For more info click <a href="http://bit.ly/19n5oDk">here </a><br>
+<input type="hidden" name="notifications" value="1">
+<button type="submit" id="dont_show">Don't show this again</button>
+</form>
+</div>
+ 
+<div class="navigation">
+ 
+<table class="nav_table" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="logo_link">
+<div id="nav_home">
+<a id="nav__home" href="/">
+<img id="dailylit_logo" alt="DailyLit rooster logo" src="/static/images/Website-Logo.png">
+</a>
+</div>
+</td>
+<td class="nav_cell">
+<table class="nav_contents">
+<tbody>
+<tr>
+<td class="search_cell">
+<div class="search">
+<form action="/search/" method="post" name="search_action">
+<input type="hidden" name="csrfmiddlewaretoken" value="kYtMneBJ7HTsaTyUoYi5HXixtYwIumAl">
+<input id="searchField" type="text" name="q" placeholder="Author, keyword, title, ISBN">
+<button type="submit" id="searchButton"><img id="searchicon" alt="search" src="/static/images/icon-search.png"></button>
+</form>
+</div>
+</td>
+</tr>
+<tr>
+</tr></tbody></table><table class="link_table">
+<tbody>
+<tr>
+<td class="nav_link">
+<div>
+<a class="nav_link" id="nav_my_books" href="/mybooks/">MY BOOKS</a>
+</div>
+</td>
+<td class="nav_link">
+<div>
+<a class="nav_link" id="nav_browse" href="/browse/">BROWSE</a>
+</div>
+</td>
+<td class="nav_link">
+<div>
+<a class="nav_link" id="nav_about" href="/about">ABOUT</a>
+</div>
+</td>
+<td class="nav_link">
+<div>
+<a class="nav_link" id="nav_faq" href="/faq">FAQ</a>
+</div>
+</td>
+<td class="nav_link">
+<div>
+<a class="nav_link" id="nav_blog" href="http://dailylitblog.tumblr.com/">BLOG</a>
+</div>
+</td>
+ 
+<td class="nav_link">
+<div>
+<form action="/login">
+<button type="submit" id="permLoginButton"> Log In </button>
+</form>
+</div>
+</td>
+<td class="nav_link">
+<div>
+<form action="/register">
+<button type="submit" id="permRegisterButton"> Register </button>
+</form>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
 
-		<!-- Navigation Bar -->
-		<div id="HeaderNav">
 
-			<!-- Search Bar -->
-			<div class="search">
-				<form action="/search/" method="post" name="search_action">
-					<input type="hidden" name="csrfmiddlewaretoken" value="CfuSzC0vc4txbbF81RVkXslzH2uoga0i">
-					<input id="searchField" type="text" name="q" placeholder="Author, keyword, title, ISBN">
-					<button type="submit" id="searchButton"><img id="searchicon" src="/static/images/icon-search.png"></button>
-				</form>
-			</div>
 
-			<!-- Spine Links -->
-			<div class="navigation">
-				<div id="center">
-					<div class="nav_link">
-						<a class="nav_link1" id="nav__home" href="/">
-							<img id="dailylit_logo" src="/static/images/Website-Logo.png">
-						</a>
-					</div>
-					<div class="nav_link">
-						<a class="nav_link" id="nav_my_books" href="/mybooks/">MY BOOKS</a>
-					</div>
-					<div class="nav_link">
-						<a class="nav_link" id="nav_browse" href="/browse/">BROWSE</a>
-					</div>
-					<div class="nav_link">
-						<a class="nav_link" id="nav_about" href="/about">ABOUT</a>
-					</div>
-					<div class="nav_link">
-						<a class="nav_link" id="nav_faq" href="/faq">FAQ</a>
-					</div>
-					<div class="nav_link">
-						<a class="nav_link" id="nav_blog" href="http://dailylitblog.tumblr.com/">BLOG</a>
-					</div>
-					<!-- Account Action -->
-                    
 
-                    
-                      <div class="nav_link">
-                        <form action="/login">
-                          <button type="submit" id="permLoginButton"> Log In </button>
-                        </form>
-                      </div>
-                      <div class="nav_link">
-                        <form action="/register">
-                          <button type="submit" id="permRegisterButton"> Register </button>
-                        </form>
-					  </div>
-                      
-                    
-				</div>
-			</div>
-
-			<div class="notification_area">
-				
-				
-			</div>
-
-		</div>
-
-		<!-- Content -->
-		<div id="Content">
-			
+</div>
+<div class="notification_area">
+</div>
+</div>
+ 
+<div id="Content">
 <div class="privacy_head">
-  <h1>PRIVACY POLICY</h1>
+<h1>PRIVACY POLICY</h1>
 </div>
 <div class="privacy_body">
-  <p>We take the privacy of your personal information very
-  seriously. This Privacy Policy describes how we treat the
-  information we collect when you visit our Web site and/or register
-  for DailyLit services. Please read this policy carefully.</p>
-  <h3>YOUR E-MAIL ADDRESS</h3>
-  <p>In order to send you books by email, we need your e-mail
-  address. We may occasionally send you e-mails that are not part of a
-  book - for instance, to notify you of changes to DailyLit or to
-  suggest other books you might enjoy.</p>
-  <p>DailyLit does not collect personally identifiable information
-  from children under the age of 13. If you believe that a child has
-  provided DailyLit with personally identifiable information without
-  the consent of his or her parent or guardian, please contact us at
-  support@dailylit.com. If DailyLit becomes aware that a child under
-  age 13 has provided us with personally identifiable information, we
-  will delete such information.</p>
-  <p>DailyLit will never sell, rent, or share your e-mail address with
-  any third parties for marketing purposes without your express
-  permission.</p>
-  <p>We currently process the sending of DailyLit emails through a
-  third party e-mail provider (SendGrid). We need to share your e-mail
-  address with this third party provider in order to get your email
-  subscriptions to you, but we will share this information exclusively
-  for the purpose of delivering our e-mail.</p>
-  <p>We may also disclose your e-mail address as required by law.</p>
-  <p>You can remove your email address from DailyLit by deleting your
-  account. To delete your account, simply go to your profile and click
-  on "Settings." From there, click on "Account Settings," then click
-  on the "Delete Your Account" link.</p>
-  <h3>BILLING INFORMATION</h3>
-  <p>Subscriptions to certain copyrighted books on DailyLit require
-  payment via credit card. In order to process the payment we need
-  billing information, including your name, credit card number, and
-  credit card expiration date. We may also ask for your address and
-  your card security code. We currently use a third party (Stripe) to
-  process and store this information. We need to share your billing
-  information with this third party provider in order to process and
-  store your billing information, but we will share this information
-  exclusively for this purpose.</p>
-  <p>DailyLit will never sell or rent your billing information to
-  third parties. We will not share your billing information with third
-  parties other than for purposes of processing the card
-  transaction.</p>
-  <p>We may disclose your billing information as required by law.</p>
-  <h3>USAGE INFORMATION AND OPTIONAL PERSONAL INFORMATION</h3>
-  <p>DailyLit keeps track of your subscriptions, including which books
-  you are reading and how far along you are with these. We also ask
-  you for your location, so that we can appropriately set the timezone
-  associated with your subscriptions.</p>
-  <p>Any other information we ask for is entirely optional. We ask for
-  your name so that a name will show up along with any comments or
-  reviews you leave, or any posts you make in the forums. You may
-  choose not to disclose your name or otherwise provide a username. We
-  also ask you for optional personal information, such as your
-  birthdate, your interests, and your gender. We may use this
-  information to improve DailyLit, customize your experience, show you
-  more relevant ads, suggest books to read, etc. </p>
-  <p>DailyLit will never sell, rent or share your usage and personal
-  information, with any third parties for marketing purposes without
-  your express permission.</p>
-  <p>We may also share this information in anonymous, aggregate
-  form. Anonymous means without your e-mail address or any other
-  information that personally identifies you. Aggregate means added,
-  averaged or otherwise combined across a number of users so as to
-  prevent identification of individual users.</p>
-  <p>We may also disclose this information as required by law.</p>
-  <h3>REVIEW AND ACCESS</h3>
-  <p>Upon your request, we will provide you with a representation of
-  the information we have currently stored about you. You will have an
-  opportunity to correct or delete this information within the terms
-  of this Privacy Policy.</p>
-  <h3>COOKIES</h3>
-  <p>Like most sites, DailyLit makes use of browser "cookies." Cookies
-  are small text files placed on your computer's hard disk by our
-  server. They allow us to better customize our site and to store
-  preference information. DailyLit will never use cookies to retrieve
-  information from a computer that is unrelated to our site or
-  services.</p>
-  <h3>LINKS TO OTHER SITES</h3>
-  <p>As part of the service, DailyLit may create links allowing you to
-  access third party sites. DailyLit is not responsible for the
-  content that appears on those sites and does not endorse these
-  sites. Please consult those sites' individual privacy policies in
-  order to determine how they treat user information.</p>
-  <h3>CHANGES TO THIS PRIVACY POLICY</h3>
-  <p>DailyLit may update this policy at any time for any reason. If
-  there are any material changes to how we handle personal information
-  we will send a notice to your email address and/or temporarily place
-  a prominent notice on our website.</p>
+<p>We take the privacy of your personal information very
+seriously. This Privacy Policy describes how we treat the
+information we collect when you visit our Web site and/or register
+for DailyLit services. Please read this policy carefully.</p>
+<h3>YOUR E-MAIL ADDRESS</h3>
+<p>In order to send you books by email, we need your e-mail
+address. We may occasionally send you e-mails that are not part of a
+book - for instance, to notify you of changes to DailyLit or to
+suggest other books you might enjoy.</p>
+<p>DailyLit does not collect personally identifiable information
+from children under the age of 13. If you believe that a child has
+provided DailyLit with personally identifiable information without
+the consent of his or her parent or guardian, please contact us at
+support@dailylit.com.<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script> If DailyLit becomes aware that a child under
+age 13 has provided us with personally identifiable information, we
+will delete such information.</p>
+<p>DailyLit will never sell, rent, or share your e-mail address with
+any third parties for marketing purposes without your express
+permission.</p>
+<p>We currently process the sending of DailyLit emails through a
+third party e-mail provider (SendGrid). We need to share your e-mail
+address with this third party provider in order to get your email
+subscriptions to you, but we will share this information exclusively
+for the purpose of delivering our e-mail.</p>
+<p>We may also disclose your e-mail address as required by law.</p>
+<p>You can remove your email address from DailyLit by deleting your
+account. To delete your account, simply go to your profile and click
+on "Settings." From there, click on "Account Settings," then click
+on the "Delete Your Account" link.</p>
+<h3>BILLING INFORMATION</h3>
+<p>Subscriptions to certain copyrighted books on DailyLit require
+payment via credit card. In order to process the payment we need
+billing information, including your name, credit card number, and
+credit card expiration date. We may also ask for your address and
+your card security code. We currently use a third party (Stripe) to
+process and store this information. We need to share your billing
+information with this third party provider in order to process and
+store your billing information, but we will share this information
+exclusively for this purpose.</p>
+<p>DailyLit will never sell or rent your billing information to
+third parties. We will not share your billing information with third
+parties other than for purposes of processing the card
+transaction.</p>
+<p>We may disclose your billing information as required by law.</p>
+<h3>USAGE INFORMATION AND OPTIONAL PERSONAL INFORMATION</h3>
+<p>DailyLit keeps track of your subscriptions, including which books
+you are reading and how far along you are with these. We also ask
+you for your location, so that we can appropriately set the timezone
+associated with your subscriptions.</p>
+<p>Any other information we ask for is entirely optional. We ask for
+your name so that a name will show up along with any comments or
+reviews you leave, or any posts you make in the forums. You may
+choose not to disclose your name or otherwise provide a username. We
+also ask you for optional personal information, such as your
+birthdate, your interests, and your gender. We may use this
+information to improve DailyLit, customize your experience, show you
+more relevant ads, suggest books to read, etc. </p>
+<p>DailyLit will never sell, rent or share your usage and personal
+information, with any third parties for marketing purposes without
+your express permission.</p>
+<p>We may also share this information in anonymous, aggregate
+form. Anonymous means without your e-mail address or any other
+information that personally identifies you. Aggregate means added,
+averaged or otherwise combined across a number of users so as to
+prevent identification of individual users.</p>
+<p>We may also disclose this information as required by law.</p>
+<h3>REVIEW AND ACCESS</h3>
+<p>Upon your request, we will provide you with a representation of
+the information we have currently stored about you. You will have an
+opportunity to correct or delete this information within the terms
+of this Privacy Policy.</p>
+<h3>COOKIES</h3>
+<p>Like most sites, DailyLit makes use of browser "cookies." Cookies
+are small text files placed on your computer's hard disk by our
+server. They allow us to better customize our site and to store
+preference information. DailyLit will never use cookies to retrieve
+information from a computer that is unrelated to our site or
+services.</p>
+<h3>LINKS TO OTHER SITES</h3>
+<p>As part of the service, DailyLit may create links allowing you to
+access third party sites. DailyLit is not responsible for the
+content that appears on those sites and does not endorse these
+sites. Please consult those sites' individual privacy policies in
+order to determine how they treat user information.</p>
+<h3>CHANGES TO THIS PRIVACY POLICY</h3>
+<p>DailyLit may update this policy at any time for any reason. If
+there are any material changes to how we handle personal information
+we will send a notice to your email address and/or temporarily place
+a prominent notice on our website.</p>
 </div>
-
-		</div>
-
-		<!-- Footer -->
-		<div id="FooterNav">
-				© 2013 Plympton Inc. All Rights Reserved |
-				<a class="footer_link" id="privacy" href="/privacy/">Privacy</a> |
-				<a class="footer_link" id="terms" href="/terms/">Terms</a> |
-				<a class="footer_link" id="contact" href="/contact/">Contact</a> |
-				<a class="footer_link" id="press" href="/press/">Press </a> | 
-				<a class="footer_link" id="press" href="/about/plympton/"> Plympton </a>
-		</div>
-	</div>
-
+</div>
+ 
+<div id="FooterNav">
+© 2014 Plympton Inc. All Rights Reserved |
+<a class="footer_link" id="privacy" href="/privacy/">Privacy</a> |
+<a class="footer_link" id="terms" href="/terms/">Terms</a> |
+<a class="footer_link" id="contact" href="/contact/">Contact</a> |
+<a class="footer_link" id="press" href="/press/">Press </a> |
+<a class="footer_link" id="press" href="/about/plympton/"> Plympton </a>
+</div>
+</div>
 <script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script>
-
-
-
-
 <script type="text/javascript">
   
 
