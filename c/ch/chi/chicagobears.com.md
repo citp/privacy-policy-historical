@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the chicagobears.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206142747id_/http%3A//www.chicagobears.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagobears.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328225038id_/http%3A//www.chicagobears.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Chicago Bears | Privacy policy
 
 ## Chicago Bears Website Privacy Policy
 
 **_Last updated on February 23, 2013._ **
+
+[Leer en español](http://www.chicagobears.com/footer/privacy-policy-espanol.html)
 
 [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.chicagobears.com&sealid=102)
 
