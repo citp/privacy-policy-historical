@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the qualitylogoproducts.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806184456id_/http%3A//www.qualitylogoproducts.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualitylogoproducts.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328224221id_/http%3A//www.qualitylogoproducts.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement Page - Quality Logo Products, Inc.
 
 PRIVACY POLICY & SECURITY STATEMENT   
   
 
+
+* * *
 
 [ Customer Service](http://www.qualitylogoproducts.com/help.htm) » **Privacy Policy & Security Statement **
 
@@ -24,5 +26,3 @@ Your Other Information
 When you visit our Web site, we automatically recognize some information about you, including your Internet service provider. We don’t automatically recognize your name, address, email address or any other information specific to you, unless you give us that information via our online registration. Our web site technology allows us to keep track of how many times a user visits our site and what features they use, but it does not collect any personably identifiable information. The information we do collect helps us to make sure that our site is meeting yours and other customers’ needs.
 
 Quality Logo Products does NOT share your mailing address with any third party vendors and at no time does Quality Logo Products release your email address or telephone number to any outside parties.
-
-Quality Logo Products, Inc. www.qualitylogoproducts.com Need Help? Call 866-312-LOGO (5646)
