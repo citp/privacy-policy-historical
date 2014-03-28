@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenmountain.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126031351id_/http%3A//www.greenmountain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenmountain.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328153604id_/http%3A//www.greenmountain.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Green Mountain Energy Company
 
