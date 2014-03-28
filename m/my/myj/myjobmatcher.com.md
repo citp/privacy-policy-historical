@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myjobmatcher.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231023617id_/http%3A//www.myjobmatcher.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myjobmatcher.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328201601id_/http%3A//www.myjobmatcher.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : MyJobMatcher.com
 
