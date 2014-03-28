@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epicsports.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529161738id_/http%3A//epicsports.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicsports.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328074904id_/http%3A//epicsports.com/privacy.html) for the most accurate reproduction.*
 
 # Epic Sports Privacy Policy
 
@@ -28,4 +28,4 @@ Upon request, we offer visitors the ability to have inaccuracies corrected in co
 
 With respect to security: We have exhaustive security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. No financial information (such as a credit card number) is ever stored on our servers, and is only used during checkout over a secure (SSL) connection. 
 
-If you have any questions regarding this privacy policy, you may contact us using the methods located on the [Customer Service](http://epicsports.com/customerservice.html) page.
+If you have any questions regarding this privacy policy, you may contact us using the methods located on the [Customer Service](http://www.epicsports.com/customerservice.html) page.
