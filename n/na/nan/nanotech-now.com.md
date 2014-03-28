@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215215113id_/http%3A//www.nanotech-now.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328160109id_/http%3A//www.nanotech-now.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Our NanoNews Digest Sponsors **[](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
+
+[](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
 
 [](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
 
@@ -14,9 +16,12 @@
 
 ****
 
+****  
+[](http://www.dhgate.com/wholesale+tablet+pc.html) ****
+
 ******** | 
 
-[Home](https://web.archive.org/web/20131215215113id_/http%3A//www.nanotech-now.com/) > Privacy
+[Home](https://web.archive.org/web/20140328160109id_/http%3A//www.nanotech-now.com/) > Privacy
 
 ## Privacy Notice:
 
