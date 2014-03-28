@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the barrystickets.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030065750id_/http%3A//www.barrystickets.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barrystickets.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328021621id_/http%3A//www.barrystickets.com/privacy.php) for the most accurate reproduction.*
 
-# Barrys Tickets - Privacy Policy
+# Privacy Policy For Barry's Ticket Service and BarrysTickets.com
 
 | 
 
