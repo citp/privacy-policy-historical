@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the industrycortex.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204183213id_/http%3A//www.industrycortex.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the industrycortex.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328144135id_/http%3A//www.industrycortex.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -22,7 +22,7 @@ Industrial Interface maintains the following privacy policy to insure that our u
   2. Except as set forth in this privacy policy, your personal information will not be disclosed to any third parties.
   3. Industrial Interface may collect and store information about pages within our site that you visit, as well as other information regarding referring sites. All other information that we store is considered part of your personal profile. Information from your personal profile is owned by Industrial Interface, but is subject to applicable California State privacy laws.
   4. Your personal information may be shared with third parties to enhance your user experience. This includes, but is not limited to, formal agreements of partnership, information required to access third party application-programming interfaces (APIs), and other services.
-  5. To review, modify, or erase your personal information maintained by Industrial Interface you must submit a request via email to: info@industrialinterface.com.
+  5. To review, modify, or erase your personal information maintained by Industrial Interface you must submit a request via [e-mail](http://www.google.com/recaptcha/mailhide/d?k=01oT31-jThOzkMRxfX9IPNwQ==&c=aEG4ffl_ypng5EpUZmgrOH4UigQJGTUlbRQL-eNZi9s= "Reveal this e-mail address").
   6. Industrial Interface occasionally generates cookies. These are used to enhance your user experience, and used to serve ads through Google Adsense and other ad and content platforms. Data generated from these cookies may be used in accordance with governing privacy regulations of both the United States Federal Government as well as the State of California. 
     * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
     * Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
