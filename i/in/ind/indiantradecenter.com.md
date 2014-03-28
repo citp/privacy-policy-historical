@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiantradecenter.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222151147id_/https%3A//www.indiantradecenter.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiantradecenter.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328104849id_/https%3A//www.indiantradecenter.com/privacy_policy.php) for the most accurate reproduction.*
 
-# B2B Marketplace India - Indian Manufacturers Suppliers Exporters Directory
+# IndianTradeCenter - Indian Manufacturers Suppliers Exporters Directory
 
 While appreciating the users concern for his/ her privacy, this statement discloses the practices being followed by **IndianTradeCenter** in this regard.We request all our users to read the following 'privacy policy' to understand how their personal & business information will be treated, as they make the fullest use of our services to their benefit.
 
