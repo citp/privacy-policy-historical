@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the traveldealsfinder.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012094226id_/http%3A//www.traveldealsfinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveldealsfinder.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328110938id_/http%3A//www.traveldealsfinder.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Travel Deals 2013
+# Privacy Policy - Travel Deals 2014
 
 Your Privacy  
 We give our site visitors the opportunity to provide Traveldealsfinder.com with their personal information in response to specific services or tasks (e.g., signing up for our newsletters). In order to receive additional services, visitors may be required to provide personal information such as an email address.
