@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naturalcures.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118191738id_/http%3A//www.naturalcures.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalcures.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328030030id_/http%3A//www.naturalcures.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Privacy Of Information - Natural Cures
+# NaturalCures.com Website | Privacy Policy - Privacy Of Information - Natural Cures
 
 Snowflake Information Services (NaturalCures.com) recognizes the importance of protecting the privacy of all information provided by our users. We created the following policy guidelines with a fundamental respect for our users’ right to privacy to guide our relationships with our users.
 
@@ -37,7 +37,7 @@ When you enter a contest or other promotion, we may ask for your name, address, 
 
 ## What information do you collect when I purchase something?
 
-If you are purchasing something from SIS, we need to know your name, e-mail address, mailing address, credit card number and expiration date. This allows us to process and fulfill your order and to notify you of your order status. This information may also be used by us to notify you of related products and services. 
+If you are purchasing something from SIS, we need to know your name, e-mail address, mailing address, credit card number and expiration date. This allows us to process and fulfill your order and to notify you of your order status. This information may also be used by us to notify you of related products and services.
 
 We do not store personal or financial information in our database in the process of payment, nor do we share this information with 3rd parties.
 
