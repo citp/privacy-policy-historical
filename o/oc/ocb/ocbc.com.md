@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocbc.com privacy policy that was archived on 2013-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130308095321id_/http%3A//www.ocbc.com/personal-banking/security-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocbc.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329212611id_/http%3A//www.ocbc.com/personal-banking/security-privacy.html) for the most accurate reproduction.*
 
 # security-privacy
 
@@ -20,7 +20,7 @@ As an Internet Banking customer, you play an important role in safeguarding your
 
 ## Customer Service
 
-If you have any queries, problems, grievances, disputes or claims relating to or arising out of the use of OCBC Internet Banking service, you may call any of our Customer Service Officers on 1800 363 3333. They are available to attend to you daily from 8a.m to 10p.m and will advise on the immediate steps to be taken by you and/or actions that we will take. Alternatively, you may send us an email by completing the feedback form at www.ocbc.com and we will try to respond to you within 24 hours provided we receive your notification during business hours and the following day is not Sunday or a public holiday, in which case we will reply on the next business day.
+If you have any queries, problems, grievances, disputes or claims relating to or arising out of the use of OCBC Internet Banking service, you may call any of our Customer Service Officers on 1800 363 3333. They are available to attend to you 24/7 daily and will advise on the immediate steps to be taken by you and/or actions that we will take. Alternatively, you may send us an email by completing the feedback form at www.ocbc.com and we will try to respond to you within 24 hours provided we receive your notification during business hours and the following day is not Sunday or a public holiday, in which case we will reply on the next business day.
 
 ### DISPUTE RESOLUTION
 
@@ -104,7 +104,7 @@ Important tips on how you can safeguard and protect your account information.
 
 16.You are advised not to access Online Banking using 'jailbroken' or 'rooted' mobile devices (ie the phone Operating System has been tampered with) , as it poses potential risk of malicious software infection.
 
-17.You are advised to only download the Mobile Banking application from authorized sources such as Apple App Store or Android Marketplace. 
+17.You are advised to only download the Mobile Banking application from authorized sources such as Apple App Store or Google Play.
 
 18.If you notice any unusual/unauthorised transactions, please change your PIN and notify us immediately. It is important that you inform us immediately by calling our Customer Service Hotlines at 1-800-363-3333.
 
