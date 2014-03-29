@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mastiland.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209152722id_/http%3A//www.mastiland.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastiland.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329191604id_/http%3A//www.mastiland.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy » Masti N Fun Unlimited -
 
