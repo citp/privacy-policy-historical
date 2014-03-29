@@ -1,24 +1,8 @@
-> *The following text is extracted and transformed from the giants.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114100411id_/http%3A//www.giants.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giants.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329233122id_/http%3A//www.giants.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Giants.com | Privacy Policy
 
-[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.giants.com/seal_m)
-
-Effective Date: April 17, 2013
-
-This privacy policy applies to the New York Football Giants's website located at [www.giants.com](http://www.giants.com/) (the "Website"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
-
-The Website is operated by New York Football Giants (collectively, the "New York Football Giants", "we", "our", or "us").
-
-New York Football Giants has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software or through our mobile application, but only covers information collected on www.giants.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact Nilay Shah at 201-935-8111 x1032. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
-
-New York Football Giants complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. New York Football Giants has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view New York Football Giants’ certification, please visit <http://www.export.gov/safeharbor/>
-
-When this privacy policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy.
-
-Please read the information below to learn more about our data collection policies and practices.
-
- **TYPES OF INFORMATION THAT MAY BE COLLECTED  
+**TYPES OF INFORMATION THAT MAY BE COLLECTED  
 **  
 The following are the types of information we may collect:
 
@@ -76,7 +60,7 @@ At times, we may share your personal information with others for various purpose
 
 Agents: We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include fulfilling orders, sending e-mail, removing repetitive information from customer lists, Website analysis, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They may have access to personally identifiable information needed to perform their functions, but may not use it for their own purposes, like sending you marketing offers about their products.
 
-Examples of such sites are our [online store](https://web.archive.org/web/20131114100411id_/http%3A//www.giants.com/footer/at%20http://www.giantsproshop.com) and the [TicketExchange program](https://oss.ticketmaster.com/html/home.htmI?team=nygiants&l=EN&STAGE=1).
+Examples of such sites are our [online store](https://web.archive.org/web/20140329233122id_/http%3A//www.giants.com/footer/at%20http://www.giantsproshop.com) and the [TicketExchange program](https://oss.ticketmaster.com/html/home.htmI?team=nygiants&l=EN&STAGE=1).
 
 Aggregate Information: We may share aggregate information, such as demographics and Website usage statistics, with advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information.
 
