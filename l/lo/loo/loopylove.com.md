@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loopylove.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822082456id_/http%3A//www.loopylove.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopylove.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329123236id_/http%3A//www.loopylove.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -109,27 +109,58 @@ Whilst we retain your Personal Data, Sensitive Personal Data and Anonymous Data 
 **8\. KEEPING YOUR DATA SECURE**  
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Site; any transmission is at your own risk. Once we have received your information, we will use procedures and security features to try to prevent unauthorised access. Where we have given you (or where you have chosen) a password or user ID code which enables you to access certain parts of the Site, you are responsible for keeping the password or user ID code confidential. We ask you not to share a password or user ID code with anyone.  
 **9\. OUR COOKIE POLICY**  
-We may collect information about your computer or mobile device by using Cookies. If you use our site you are consenting to the use of Cookies as explained here. Cookies are small text files that are placed on your computer by websites that you visit and provide statistical data to us, that does not identify you personally but an tell us a lot about your browsing habits to tailor your user experience to suit your needs. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. We use cookies to enhance our security, help us gather information during subscription and understand our web traffic trends. They help us to improve the Services and to deliver a better and more personalised service. They enable us: 
+We may collect information about your computer or mobile device by using Cookies. If you use our site you are consenting to the use of Cookies as explained here. Cookies are small text files that are placed on your computer by websites that you visit and provide statistical data to us, that does not identify you personally but an tell us a lot about your browsing habits to tailor your user experience to suit your needs. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. We use cookies to enhance our security, help us gather information during subscription and understand our web traffic trends and to share your non-personal information with carefully selected third parties for marketing purposes.   
+Cookies help us to improve the Services and to deliver a better and more personalised service. They enable us: 
 
   * To estimate our audience size and usage pattern;
   * To store information about your preferences, and so allow us to customise the Services according to your individual interests;
   * To speed up your searches; 
   * To recognise you when you return to any website or application;
-  * To provide annoymised statistical information: Non-personal data may be gathered on our behalf using cookies, log file data, and code that is embedded on our websites by specific third party partners. We use this non-personal information to help improve the services we provides to you. 
+  * To provide annoymised statistical information: Non-personal data may be gathered on our behalf using cookies, log file data, and code that is embedded on our websites by specific third party partners to help these selected third parties to deliver relevant advertisements to you. 
 
 
 
-When you visit the publicly available sections of the Services, a session ID cookie is placed on your computer that only lasts while you’re visiting. We also place persistent cookies (also known as local storage devices) on members’ computers, so that we remember them to make your login in process faster and easier. You may set your browser to block cookies and local storage devices, but if you do so, you may not be able to access all of the features of the Services. This table shows fully the cookie functions and why they are used, although our uses may change over time and it is important that you revisit this page to understand these uses:
+We use this non-personal information to help improve the services we provide to you. When you visit the publicly available sections of the Services, a session ID cookie is placed on your computer that only lasts while you’re visiting. We also place persistent cookies (also known as local storage devices) on members’ computers, so that we remember them to make your login in process faster and easier. 
+
+**_Controlling and deleting cookies_**
+
+You have the right to choose whether or not to accept cookies and we explain how you can exercise this right below. However, please note that if you choose to refuse cookies you may not be able to use the full functionality of our Sites and the websites of other companies. You may block cookies in several ways: 
+
+  * by using the opt-outs provided above;
+  * by visiting <http://www.youronlinechoices.com/>; or 
+  * through your browser, as explained below.
+
+
+
+You can also block cookies by changing your browser settings so that cookies from this Site cannot be placed on your computer or mobile device. In order to do this follow the instructions provided by your browser (usually located within the "Help", "Tools" or "Edit" facility). Disabling a cookie or category of cookie does not delete the cookie from your browser, you will need to do this yourself from within your browser.   
+Further information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit [www.aboutcookies.org](http://www.aboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).   
+**_What cookies are used for and why we use them on this Site_**
+
+This table shows fully the cookie functions and why they are used, although our uses may change over time and it is important that you revisit this page to understand these uses:
 
 **Cookie Functions** | **Cookie Purposes**  
 ---|---  
-Analytics and research | We use the information collected by Google Analytics to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  
+Analytics and research | We use the information collected by Google Analytics to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. You can opt-out of Google Analytics here [ https://tools.google.com/dlpage/gaoptout#sthash.1CRxgddB.dpuf](https://tools.google.com/dlpage/gaoptout#sthash.1CRxgddB.dpuf)  
 Authentication | These cookies help us to identify our members so that when you’re logged in, you can enjoy all of the features without having to continually log in – our website “remembers” you and allows you full access without the need to keep entering your log in details.  
 Security and site integrity | We may use cookies and other devices, such as CAPTCHAs, to help keep the Site and our members safe and secure by protecting the Site from fraud and spam attacks to keep your data safe.  
 Site features and services | These cookies and local storage devices provide the functionality that our members enjoy, such as uploading of photographs, chats, instant messaging, your account settings etc. We also use cookies to help provide experiences, such as links to other social media sites, social plugins and video content, including making it easier for you to share content between the website with your other favourite social networks. In some cases, the site feature you choose may allow a third party to place cookies or local storage devices on your computer. The third party who places cookies on your device is responsible for how they process their data you should always read their privacy policies. Third parties who place cookies on your device when you use the Site include Twitter and Facebook whose own privacy policies apply.   
 Performance | We need to use certain cookies and local storage devices to ensure our members have the best possible experience, such assisting with your navigation of our site, ensuring pages load up quickly and respond faster to your requests for our Services.  
+Ad Serving & Behavioural Advertising  |  We sell space on some of our websites to advertisers. We use several services to help us and advertisers understand what adverts you might be interested in. These cookies hold information about the computer - they don't hold personal information about you (ie it's not linked to you as an individual). But they might hold a record of what other websites you've looked at - so we could show you a car advert if you've previously visited a motoring website.   
+Advertisements on this Site and the other sites you visit are provided by other organisations. Our advertising partners will serve advertisements that they believe are most likely to be of interest to you, based on information about your visit to the Site and other websites. In order to do this, our advertising partner may need to place a cookie on your computer. These cookies hold information about the computer - they don't hold personal information about you (ie it's not linked to you as an individual).   
+For more information about this type of online behavioural advertising, about cookies, and about how to turn this feature off, please visit [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) and select your country.   
+These are the specific services we use and how you can control those cookies.   
+Please note that turning off advertising cookies won't mean that you are not served any advertising merely that it will not be tailored to your interests.   
+
+
+  * OpenX (advertising) Privacy policy and opt-out via <http://www.openx.com/about/privacy-policy>
+  * VisualDNA (ad relevancy): Privacy policy at <http://www.visualdna.com/cookie-policy> and you can opt out via <http://my.visualdna.com/permissions/>
+  * Lotame (ad relevancy): Privacy policy at [ http://www.lotame.com/privacy](http://www.lotame.com/privacy) and opt out via <http://www.lotame.com/opt-out-preference-manager>
+  * Doubleclick (advertising): Privacy policy at <http://www.google.com/doubleclick/privacy/> and opt out via <http://www.youronlinechoices.com/>
+  * eXelate (ad relevancy): Privacy policy and opt out via <http://exelate.com/consumer-opt-out/>
+  * Google Adsense (ad partner). Privacy policy at [ https://support.google.com/adsense/bin/answer.py?hl=en-GB&utm_medium=link&gsessionid=DyXLmLB1J1MxXckh6tX6AQ&utm_campaign=ww-ww-et-asfe_&utm_source=aso&answer=48182](https://support.google.com/adsense/bin/answer.py?hl=en-GB&utm_medium=link&gsessionid=DyXLmLB1J1MxXckh6tX6AQ&utm_campaign=ww-ww-et-asfe_&utm_source=aso&answer=48182) and opt-out via <https://www.google.com/settings/ads/onweb/>. 
+
   
-For further information about cookies visit: [www.aboutcookies.org](http://www.aboutcookies.org/)  
+  
 **10\. OUR RIGHTS TO AMEND THIS POLICY**  
 We keep our privacy policy under regular review and will post any changes to it on this page. We encourage you to regularly review our privacy policy to make sure you are always aware of what information we collect, how we use it and under what circumstances, if any, we may share it with other parties. We may also contact you from time to time to advise of any changes if we feel such notification is necessary depending on the extent of the changes.  
 **11\. LINKS TO OTHER THIRD PARTY WEBSITES**  
