@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atgtickets.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227165735id_/http%3A//www.atgtickets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atgtickets.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329082003id_/http%3A//www.atgtickets.com/privacy-policy) for the most accurate reproduction.*
 
 # ATG Privacy Policy
 
