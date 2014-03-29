@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justinmind.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918193147id_/http%3A//www.justinmind.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justinmind.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329223409id_/http%3A//justinmind.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -6,7 +6,7 @@ When you register for a Justinmind account you can be certain that we have imple
 
 ## Information you Provide
 
-When you register for or Site or our Service, we ask for information such as your name, company name and address, e-mail address and credit card information. If you sign up for the 30-day free trial account, you are not required to enter your credit card information until you decide to continue with a paid plan. Justinmind uses a third-party intermediary to manage credit card processing. 
+When you register for our Site or our Service, we ask for information such as your name, company name and address, e-mail address and credit card information. If you sign up for the 30-day free trial account, you are not required to enter your credit card information until you decide to continue with a paid plan. Justinmind uses a third-party intermediary to manage credit card processing. 
 
 You can modify your account information at anytime by clicking on the Your account settings link in the global navigation bar at the top of the screen. Justinmind may use the collected personal information and other information Justinmind collects about your use of our Site and our Service to operate and make the Service available to you, for billing, identification and authentication, to contact you about your use of the Service, research purposes and to generally improve the content and functionality of the Service and Site and for announcements about products and offers by email. 
 
