@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ekomi.co.uk privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014145222id_/http%3A//www.ekomi.co.uk/uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekomi.co.uk privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329075245id_/http%3A//www.ekomi.co.uk/uk/privacy) for the most accurate reproduction.*
 
 # Product reviews and customer reviews for online retailer - powered by eKomi - The Feedback Company
 
@@ -51,7 +51,7 @@ Markgrafenstraße 11
 Deutschland 
 
 Call us at 0870 495 8995  
-Email us at: privacy@ekomi.co.uk 
+Email us at: dataprotection@ekomi.de 
 
 **8\. Declaration of consent**  
 Provided that you have consented to receive newsletters and offers from us by email we will have recorded such consent, which will remain in place until you inform us that you wish to withdraw such consent. 
