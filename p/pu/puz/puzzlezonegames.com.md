@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the puzzlezonegames.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806044142id_/http%3A//puzzlezonegames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puzzlezonegames.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329080933id_/http%3A//puzzlezonegames.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Puzzle Zone Games
+# 
 
 _Last Updated: October 10, 2012_
 
