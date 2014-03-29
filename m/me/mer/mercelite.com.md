@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercelite.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207055901id_/http%3A//www.mercelite.com/sharedpages/privacypolicy/%3Flocale%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercelite.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329211141id_/http%3A//www.mercelite.com/sharedpages/privacypolicy/%3Flocale%3Den) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -84,8 +84,8 @@ Back to top
 If you have questions or concerns about this Privacy Policy, contact us at privacy@bigpoint.net or write us.:  
 Bigpoint Inc.  
 Attention Privacy  
-795 Folsom St. First Floor  
-San Francisco CA 94107  
+580 California Street 12th Floor  
+San Francisco CA 94104  
 USA  
 Please remember to provide your User-ID, e-mail address and, if necessary, the relevant game name(s).
 
