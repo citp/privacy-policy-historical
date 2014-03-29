@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gameshop-international.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820143121id_/http%3A//www.gameshop-international.com/p/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameshop-international.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329080324id_/http%3A//www.gameshop-international.com/p/privacy_policy) for the most accurate reproduction.*
 
-# Download Games PC | Free Game Downloads | Full Games Downloadable | PC Games Download | Buy PC Computer Games Downloads
+# Download Free Full PC Games
 
 **GAMESHOP-INTERNATIONAL.COM PRIVACY POLICY  
   
