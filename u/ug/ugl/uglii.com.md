@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uglii.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207101829id_/http%3A//www.uglii.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uglii.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329020137id_/http%3A//www.uglii.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Uglii
 
@@ -8,7 +8,7 @@ In this Privacy Statement “we”, “our”, and “us” refers to Uglii Busi
 
 At Uglii we value the protection and security of your personal information. As an Australian company we are bound by the Privacy Act 1998 (Cth) and the National Privacy Principles (“NPPs”). As an international company, we also abide by the _U.S. Department of Commerce Safe Harbor Program_ (“Safe Harbour provisions”).
 
-Uglii’s Privacy Policy covers the collection, use, and disclosure of personal information that may be collected by Uglii or on its behalf anytime you become involved with us, and our Global Partners, National Partners and Affiliates (“our representatives”).
+Uglii’s Privacy Policy covers the collection, use, and disclosure of personal information that may be collected by Uglii or on its behalf anytime you become involved with us, and our National Partners and Affiliates (“our representatives”).
 
 Please take some time to carefully consider our information practices and how they might impact on you. We respect the privacy and confidentiality of your personal information.
 
