@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatdd.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808052104id_/http%3A//www.chatdd.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatdd.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329033146id_/http%3A//www.chatdd.com/policy) for the most accurate reproduction.*
 
 # ChatDD.Com - Privacy Policy
 
@@ -46,21 +46,21 @@ We do not take any responsibility for any error or omission by Chatdd.com or Thi
 
 ## Latest Threads from ChatDD Forums:
 
-  * [nishat eid collection](http://forum.chatdd.com/ladies-gents-fashion/112162-nishat-eid-collection.html)
-  * [tandoori jalfaraxi chicke...](http://forum.chatdd.com/cooking-recipes/112161-tandoori-jalfaraxi-chicken.html)
-  * [mango grill sandwich](http://forum.chatdd.com/cooking-recipes/112160-mango-grill-sandwich.html)
-  * [chunky cheese lasagna](http://forum.chatdd.com/cooking-recipes/112159-chunky-cheese-lasagna.html)
-  * [car made off snow](http://forum.chatdd.com/photo-gallery-wallpapers-world/112158-car-made-off-snow.html)
-  * [most beautiful](http://forum.chatdd.com/photo-gallery-wallpapers-world/112157-most-beautiful.html)
-  * [wowwwwwwwwwwwwww:p](http://forum.chatdd.com/photo-gallery-wallpapers-world/112156-wowwwwwwwwwwwwww-p.html)
-  * [good frnd n best frnd](http://forum.chatdd.com/fun-humor-jokes/112152-good-frnd-n-best-frnd.html)
-  * [~~ Photo of the day 7/8/2...](http://forum.chatdd.com/photo-gallery-wallpapers-world/112150-~~-photo-day-7-8-2013-~~.html)
-  * [hiding them](http://forum.chatdd.com/quotes-sayings/112148-hiding-them.html)
-  * [happniness](http://forum.chatdd.com/quotes-sayings/112147-happniness.html)
-  * [26 Letters](http://forum.chatdd.com/quotes-sayings/112146-26-letters.html)
-  * [Overthinking](http://forum.chatdd.com/quotes-sayings/112145-overthinking.html)
-  * [Create One](http://forum.chatdd.com/quotes-sayings/112144-create-one.html)
-  * [Awwwww](http://forum.chatdd.com/fun-humor-jokes/112143-awwwww.html)
+  * [soch galiyon main](http://forum.chatdd.com/threads/120385-soch-galiyon-main?goto=newpost)
+  * [Facebook Cover](http://forum.chatdd.com/threads/120384-Facebook-Cover?goto=newpost)
+  * [کسک](http://forum.chatdd.com/threads/120383-%DA%A9%D8%B3%DA%A9?goto=newpost)
+  * [Mujhay Namaz Sikha Dijiya...](http://forum.chatdd.com/threads/120382-Mujhay-Namaz-Sikha-Dijiyay-only-for-girls?goto=newpost)
+  * [Sadaqah o Khairat](http://forum.chatdd.com/threads/120381-Sadaqah-o-Khairat?goto=newpost)
+  * [Us Shaks Ki Tarf](http://forum.chatdd.com/threads/120380-Us-Shaks-Ki-Tarf?goto=newpost)
+  * [Qaroon ki sarkashi](http://forum.chatdd.com/threads/120379-Qaroon-ki-sarkashi?goto=newpost)
+  * [Khud ko Aur Apne jahnum k...](http://forum.chatdd.com/threads/120378-Khud-ko-Aur-Apne-jahnum-ki-agg-sy-bachayen?goto=newpost)
+  * [Monthly contest Results l...](http://forum.chatdd.com/threads/120377-Monthly-contest-Results-links-for-March-2014?goto=newpost)
+  * [بیوی خوبصورت �...](http://forum.chatdd.com/threads/120376-%D8%A8%DB%8C%D9%88%DB%8C-%D8%AE%D9%88%D8%A8%D8%B5%D9%88%D8%B1%D8%AA-%DB%81%D9%88-%D8%AA%D9%88-%D9%86%D8%B8%D8%B1-%D9%86%DB%81%DB%8C%DA%BA-%DB%81%D9%B9%D8%AA%DB%8C-%D8%A7%D9%88%D8%B1-%D8%A8%D8%AF%D8%B5%D9%88%D8%B1-15?goto=newpost)
+  * [Married Mard jab dukhi ho...](http://forum.chatdd.com/threads/120375-Married-Mard-jab-dukhi-ho-to?goto=newpost)
+  * [Pathaan ki Mehmaan nawazi](http://forum.chatdd.com/threads/120374-Pathaan-ki-Mehmaan-nawazi?goto=newpost)
+  * [صـــبح بـــــ...](http://forum.chatdd.com/threads/120373-%D8%B5%D9%80%D9%80%D9%80%D8%A8%D8%AD-%D8%A8%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D8%AE%DB%8C%D8%B1?goto=newpost)
+  * [Atif Saeed's Interview Sp...](http://forum.chatdd.com/threads/120372-Atif-Saeed-s-Interview-Specially-for-DD?goto=newpost)
+  * [زندگی کیا ہے؟](http://forum.chatdd.com/threads/120371-%D8%B2%D9%86%D8%AF%DA%AF%DB%8C-%DA%A9%DB%8C%D8%A7-%DB%81%DB%92%D8%9F?goto=newpost)
 
 
 
