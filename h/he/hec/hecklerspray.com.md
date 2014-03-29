@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hecklerspray.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013012312id_/http%3A//www.hecklerspray.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hecklerspray.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329035758id_/http%3A//www.hecklerspray.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,7 +26,4 @@ You should consult the respective privacy policies of third-party ad servers for
 If you wish to disable cookies, you may do so through your individual browser options.
 
 By using this website, you hereby consent to its privacy policy and agree to its terms.  
-
-
-  
 
