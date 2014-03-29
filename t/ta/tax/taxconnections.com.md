@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxconnections.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212053807id_/http%3A//www.taxconnections.com/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxconnections.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329215230id_/https%3A//www.taxconnections.com/footer/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TaxConnections
 
