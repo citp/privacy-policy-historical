@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commerzbank.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814204701id_/https%3A//www.commerzbank.com/en/metanavigation/datenschutz/datenschutz.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commerzbank.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329081236id_/https%3A//www.commerzbank.com/en/metanavigation/datenschutz/datenschutz.html) for the most accurate reproduction.*
 
 # Commerzbank AG - Privacy
 
