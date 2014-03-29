@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the taxconnections.com privacy policy that was archived on 2013-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131212053807id_/http%3A//www.taxconnections.com/footer/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the taxconnections.com privacy policy that was archived on 2014-03-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140329215230id_/https%3A//www.taxconnections.com/footer/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html class=" js flexbox flexboxlegacy canvas canvastext no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg"><!-- display a flash message if tax pro is behind in their payment --><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html class=" webkit chrome linux js js flexbox flexboxlegacy canvas canvastext no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg"><!-- display a flash message if tax pro is behind in their payment --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
 <link rel="stylesheet" type="text/css" href="/assets/bcb4e821/jui/css/base/jquery-ui.css">
 <script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20131018215315/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/assets/bcb4e821/jquery.min.js"></script>
@@ -57,13 +57,13 @@
 
 <!-- div id="content_wrap" -->
 
-
+<!--
 <div id="overlay"></div>
-<a href="#" id="got_it" class="expose">
+<a href="#" id="got_it" class="expose" >
 <div class="esc-guideline">Close (esc) to exit</div>
 <img src="/elements/imgs/guideline/xcomms-logo_normal.png" width="32px" style="margin:10px;" alt="closed">
 </a>
-
+-->
 <div class="header">
 	<div class="wrap">
 		<h1 class="logo">
@@ -71,8 +71,6 @@
                 <img src="/elements/imgs/tax-connections-logo.png" alt="TaxConnections">
             </a>
         </h1>
-        <p id="logo-tagline">"A World of Tax Help in One Click"</p>
-
 
 		<div class="header-menu f-right">
 
@@ -80,97 +78,89 @@
 			<!-- non tax pro logged in -->
 			
 				<div class="status f-right">
-					<a href="/site/login">Login</a>
-					<a class="image_button button_blue" href="/tcUsers/freereg">Consumer Sign Up</a>
-					<a class="image_button button_green" href="/footer/memberships">Tax Professional Sign Up</a>
+					<!--<a href="" style="color:#666666; font-size:13px;">Login</a>-->
+					<a href="javascript:void(0);" style="color:#666666; font-size:13px;" onclick="displayLogin();">Login</a>
+
+					<a class="image_button_newnav button_blue_newnav" style="font-size:13px; padding:8px 26px;" href="/consumers">Consumer Sign Up</a>
+					<a class="image_button_newnav button_green_newnav" style="font-size:13px;" href="/offers/taxconnectionsmemberships?render=tax-professionals">Tax Professional Sign Up</a>
 				</div><!-- .status .f-left-->
 				
 			
 			
 			<div class="clearboth"></div>
 			
-			<div class="search">
-	<form name="search_form" method="get" action="/search/advisor">
-		<input type="text" value="" name="keywords" class="search f-left">
-		<div class="select f-left">
-						<span class="selected">Tax Professionals</span>  <!--  fix set selected here -->
-			<div class="option-wrap">
-				<div class="option tax-professionals active-option">Tax Professionals</div>
-				<div class="option answered-questions ">Tax Questions</div>			
-				<div class="option tax-events ">Tax Events</div>			
-			</div><!-- .option-wrap -->
-		</div><!-- .search-dropdown -->
-		<input type="hidden" class="type" name="type" value="Tax Professionals">
-		<input type="submit" name="search" value="Search" class="f-right">
-	</form>
-</div><!-- .search -->
-
-<script type="text/javascript">
-
-	jQuery(document).ready(function() {
-		// Search
-	
-		jQuery(".search").blur(function() {
-			if(jQuery(this).attr("value") == "") {
-				jQuery(this).attr("value", "");
-				jQuery(this).addClass("faded-input");
-			}
-		});
-		jQuery(".search").focus(function() {
-			jQuery(this).attr("value", "");
-			jQuery(this).removeClass("faded-input");
-		});
-		
-		jQuery('.option-wrap .option').click(function(){
-			jQuery('.selected').text(jQuery(this).text());
-			jQuery('form .type').val(jQuery(this).text());
-			jQuery(this).siblings().removeClass('active-option');
-			jQuery(this).addClass('active-option');
-		});
-		
-	});
-</script>			
 		</div><!-- .header-menu .f-right -->
+        
+        <div style="height:60px;"></div>
+        
 		<div class="clearboth"></div>
 		
 		
 <div class="main-menu">
 	<ul>
-		<li class="first"><a href="http://www.taxconnections.com">Home</a></li>
-		<li><a href="/search/advisor">Find a Tax Professional</a></li>
-        <li><a href="http://www.taxconnections.com/taxblog">Tax Blog</a></li>
-		<li><a href="/taxQuestions">Ask Tax Questions</a></li>
-		<li><a href="/taxEducation">Tax Education</a></li>
+		<li><a href="https://www.taxconnections.com">Home</a></li>
+		<li><a href="/search/findtaxprofessional">Find a Tax Professional</a><div class="menu-vertical-line"></div></li>
+		<li><a href="/taxQuestions/AskTaxQuestions">Ask Tax Questions</a><div class="menu-vertical-line"></div></li>
+        <li><a href="http://www.taxconnections.com/taxblog">Tax Blog</a><div class="menu-vertical-line"></div></li>
+		<li><a href="/taxEducation">Tax Education</a><div class="menu-vertical-line"></div></li>
+        
+		<div style="color:#ffffff; font-size:14px; font-weight:bold; width:250px; height:20px; float:right; top: 9px; right: 7px; position:relative;"><i>“A World of Tax Help In One Click”</i></div>
 	</ul>
+    
+
+    
 	<div class="clearboth"></div>
 </div><!-- .main-menu -->
 		
 		
-				<div id="arrow_tran1"></div>
-		<!-- Tax Boardroom -->
+<!--		
+		<div id="arrow_tran1" ></div>
+		<!-- Tax Boardroom --
 		<p id="content_tran1" class="content_tran expose">Check Out How Many People Are Viewing You, Meet New Clients Here</p>
 		<div id="arrow_tran2" class="expose"></div>
-		<!-- Account Settings -->
+		<!-- Account Settings --
 		<p id="content_tran2" class="content_tran expose">You Can Make Changes to Your E-mail, Password, And Membership Here.</p>
 		<div id="arrow_tran3" class="expose"></div>
-		<!-- Book of Contacts -->
+		<!-- Book of Contacts --
 		<p id="content_tran3" class="content_tran expose">This Is A Very Cool Feature, Focus On Developing Relationships With People Who Requested To Connect With You!</p>
 		<div id="arrow_tran4" class="expose"></div>
-		<!-- Edit Profile -->
+		<!-- Edit Profile --
 		<p id="content_tran4" class="content_tran expose">Life Is About Improving Ourselves, People Who Hire You Want To Know You, Sell Yourself!</p>
 		<div id="arrow_tran5" class="expose"></div>
-		<!-- Tax Questions -->
+		<!-- Tax Questions --
 		<p id="content_tran5" class="content_tran expose">Lists All The Tax Questions You Have Asked And Answered. Whenever You Answer A Tax Questions, You Appear On The Home Page.</p>
 		<div id="arrow_tran6" class="expose"></div>
-		<!-- eBook Download -->
+		<!-- eBook Download --
 		<p id="content_tran6" class="content_tran expose">Come Here to Download All eBook Purchases</p>
 		<div id="arrow_tran7" class="expose"></div>
-		<!-- Inbox -->
-		<p id="content_tran7" class="content_tran expose">You Can View Messages In Your Inbox, The Red Number Indicates How Many Messages Are Waiting For You.</p>			
+		<!-- Inbox --
+		<p id="content_tran7" class="content_tran expose">You Can View Messages In Your Inbox, The Red Number Indicates How Many Messages Are Waiting For You.</p>	
+-->
+		
 	</div><!-- .wrap -->
+
 <!-- Place this ad code in the Header of the website -->
 
 </div><!-- .header -->
+
+<script type="text/javascript">
+	function displayLogin() {
+		var fullURL = '/site/loginpopup';
+		//$('#contact_up_pop').css('display', 'none');
+		jQuery.ajax({
+			url:    fullURL,
+			success: function(result) {
+				$('#login-wrap').html(result);
+				$('#login-dialog').dialog('open');
+				$('#login-dialog').dialog({ minWidth: 505 });
+				$('#login-dialog').dialog({ minHeight: 350 });
+				$('#login-dialog').dialog({ position: 'center'});
+			}
+		});
+		return false;
+	}
+	
+</script>
 <div class="content">
 	<div class="wrap">
 		
@@ -318,93 +308,67 @@ La Jolla, CA 92038<br>
 				<li><a href="/footer/contact">Contact Us</a></li>
 				<li><a href="/footer/faq">FAQ</a></li>
 				<li><a id="feedback-link" href="#">Feedback</a></li>
-                <li><a href="/footer/12_Months_Tax_Intelligence">Newsletter</a></li>
-                <li><a href="/footer/promote">Promote</a></li>
 			</ul>
 		</div><!-- end .footer-widget-2 -->
 		<div class="footer-widget-3">
 			<ul>
-				<li><a href="/footer/advertising_kit">Advertise</a></li>
+				<li><a href="http://www.taxconnections.com/footer/request_firm_membership_quote">Advertise</a></li>
 				<li><a href="/footer/guidelines">Guidelines</a></li>
 				<li><a href="/footer/media">Media/Press</a></li>	
 				<li><a href="/footer/tutorials">Tutorials</a></li>
-				<li><a href="/taxPolls">Tax Polls</a></li>
-				<li><a href="/taxstore">Tax Store</a></li>                
+                <li><a href="/newsroom">Newsroom</a></li>              
 				</ul>
 		</div><!-- end .footer-widget-3 -->
 		<div class="footer-widget-3">
 			<ul>
-				<li><a href="/footer/memberships">Memberships</a></li>
+				<li><a href="/offers/taxconnectionsmemberships?render=tax-professionals">Memberships</a></li>
 				<li><a href="/footer/sitemap">Site Map</a></li>
-				<li><a href="javascript:void(0);" onclick="displayReport();">Report Content</a></li>	
+				<li><a href="javascript:void(0);" onclick="displayReport();">Report Content</a></li>
 				<li><a href="/footer/developers">Social Plugins</a></li>
-                <li><a href="/footer/strategic_alliances">Alliances</a></li>
-                <li><a href="/newsroom">Newsroom</a></li>
+
 				</ul>
 		</div><!-- end .footer-widget-3 -->
-		<div class="footer-widget-4">
-		<ul>
-				<li><a href="/taxblog/feed/" target="_blank" rel="nofollow"><img src="/elements/imgs/icon-rss.png" alt="LinkedIn"><span>RSS Feed</span></a></li>
-				<li><a href="/resources/index" target="_self" rel="nofollow"><img src="/elements/imgs/icon-tool.png" alt="Resources"><span>Resource</span></a></li>
-        		<li><a href="http://www.linkedin.com/groups/TaxConnections-3670134?gid=3670134&amp;trk=hb_side_g" target="_blank" rel="nofollow"><img src="/elements/imgs/icon-linkedin.png" alt="LinkedIn"><span>Linkedin</span></a></li>
-				<li><a href="http://www.facebook.com/Tax.Connections" target="_blank" rel="nofollow"><img src="/elements/imgs/icon-facebook.png" alt="Facebook"><span>Facebook</span></a></li>
-				<li><a href="http://twitter.com/taxconnections" target="_blank" rel="nofollow"><img src="/elements/imgs/icon-twitter.png" alt="Twitter"><span>Twitter</span></a></li>
-                <li><a href="https://www.youtube.com/taxconnections" target="_blank" rel="nofollow"><img src="/elements/imgs/icon-youtube.png" alt="YouTube"><span>YouTube</span></a></li>
-	
-			</ul>
-		</div><!-- end .footer-widget-4 -->
+		
 		<div class="footer-widget-5">
         
-      <script type="text/javascript">
-            /*$(document).ready(function(){
-                $("#signup").validate({
-                    submitHandler: function(form) {
-                        $('#response').html("Adding email address...");
-                        var path = 'includes/plugins/store-address.php';
-                        // do other stuff for a valid form
-                        $.post(path, $("#signup").serialize(), function(data) { //should send to controller, but it's ok for now
-                            $('#response').html(data);
-                        });
-                    }
-                });
-            });*/
-			$(document).ready(function(){
-				$("#signup").validate({
-					submitHandler: function(form) {
-						$('#response').html("Adding email address...");
-						//var path = '';
-						var path = '/footer/mailchimp';
-						// do other stuff for a valid form
-						$.post(path, $("#signup").serialize(), function(data) { //should send to controller, but it's ok for now
-							$('#response').html(data);
-						});
-					}
-				});
-			});
-        </script>
-		<h4>Sign Up for TaxConnections Newsletter!</h4>
-			<p>We Keep You Informed About Taxes.</p>
-		<label for="email" id="address-label"></label>
-				<div id="response"></div>	
-		
-		<div class="consumerNews">
-		 <form id="signup" name="signup" method="POST" novalidate="novalidate">
-		  <fieldset>
-			  <input type="text" name="email" id="email" value="Enter Email Address" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
-			   <input type="submit" name="submit" value="Join" class="image_button button_green" style="margin-left:8px;">
-		  </fieldset>
-			<input type="radio" name="newsType" value="Consumer" onclick="setConsumerType()" checked="">Consumer
-			<input type="radio" name="newsType" value="Tax Pro" onclick="setProTypy();">Tax Professionals
-		</form>
-		</div><!-- end of consumerNews -->
-		</div><!-- end .footer-widget-5 -->
-		<div class="clearboth"></div>
-		<div class="footer-bottom">
-		<a href="/footer/privacy">Privacy Policy</a> | <a href="/footer/terms">Terms of Use</a> | © Copyright 2010-2013 TaxConnections, Inc.® All Rights Reserved.
-		</div><!-- end .footer-bottom -->
-	</div><!-- .wrap -->
-</div><!-- .footer -->
+        		<ul>
+                <li>Social</li>
+				<li><a href="/taxblog/feed/" target="_blank" rel="nofollow"><img src="/elements/imgs/icon-rss.png" alt="LinkedIn"></a></li>
+        		<li><a href="https://plus.google.com/114106663078048429306" target="_blank" rel="publisher"><img src="/elements/imgs/google-plus-icon.png" alt="Google Plus"></a></li>
+        		<li><a href="http://www.linkedin.com/groups/TaxConnections-3670134?gid=3670134&amp;trk=hb_side_g" target="_blank" rel="nofollow"><img src="/elements/imgs/icon-linkedin.png" alt="LinkedIn"></a></li>
+				<li><a href="http://www.facebook.com/Tax.Connections" target="_blank" rel="nofollow"><img src="/elements/imgs/icon-facebook.png" alt="Facebook"></a></li>
+				<li><a href="http://twitter.com/taxconnections" target="_blank" rel="nofollow"><img src="/elements/imgs/icon-twitter.png" alt="Twitter"></a></li>
+                <li><a href="https://www.youtube.com/taxconnections" target="_blank" rel="nofollow"><img src="/elements/imgs/icon-youtube.png" alt="YouTube"></a></li>
+	
+			</ul><br><br><br>
+ 
+        
+        <h4><b>Want to Verify  a CPA or State Law License?<b></b></b></h4><b><b>
+        <a class="image_button_newnav button_blue_newnav" style="font-size:13px; padding:5px 5px; color:#FFFFFF; font-weight:bold;margin-top:5px;" href="/consumers?render=license-verification-toolkit">Click Here To Receive Free Resource</a>
 
+		</b></b></div><!-- end of consumerNews --><b><b>
+		</b></b></div><!-- end .footer-widget-5 --><b><b>
+
+		<div class="clearboth"></div>
+        
+        <div style="border-top:solid 2px #191919; margin:10px 0px 15px 0px;><br></div>
+        
+        <div class=" clearboth"=""></div>
+		<div class="footer-bottom">
+		<a href="/footer/privacy">Privacy Policy</a> | <a href="/footer/terms">Terms of Use</a> | © Copyright 2010-2014 TaxConnections, Inc.® All Rights Reserved.
+		</div><!-- end .footer-bottom -->
+        
+	</b></b></div><!-- .wrap --><b><b>
+    
+	<div id="contact_up_pop">
+	<a href="javascript:void(0);" id="contact_us_fixed" class="contact_us_fixed_button" style="float:right;text-decoration:none" onclick="displayContactUs();">
+		<span style="margin:0 10px 0 0; color:#01425e; position:relative; top:14px; text-align:left; left: 40px;">Contact Us Today</span>
+	</a>
+	</div>
+<!-- .footer -->
+
+<div style="height:25px; background-color:#222222;"></div>
+	
 <script src="/elements/js/json2.js" type="text/javascript"></script>
 	<script src="/elements/js/jquery.validate.js" type="text/javascript"></script>
 	<script src="/elements/js/additional-methods.js" type="text/javascript"></script>
@@ -426,8 +390,6 @@ La Jolla, CA 92038<br>
 			  })();
 			</script>
 	
-
-
 <script type="text/javascript">
 function hideMessage() {
         $('#beta_invite_bar').hide('slow');
@@ -481,6 +443,22 @@ function hideMessage() {
 		return false;
 	}
 	
+	function displayContactUs() {	
+		var fullURL = '/footer/contactpopup';
+		//$('#contact_up_pop').css('display', 'none');
+		jQuery.ajax({
+			url:    fullURL,
+			success: function(result) {
+				$('#contact-us-wrap').html(result);
+				$('#contact-us-dialog').dialog('open');
+				$('#contact-us-dialog').dialog({ minWidth: 502 });
+				$('#contact-us-dialog').dialog({ minHeight: 350 });
+				$('#contact-us-dialog').dialog({ position: 'center'});
+			}
+		});
+		return false;
+	}	
+	
 	$('.login-menu .menu a:has(.bubble)').addClass('new_notification_menu');
 	
 </script>
@@ -491,18 +469,24 @@ _atrk_opts = { atrk_acct:"U/G4i1aoZM00qr", domain:"taxconnections.com",dynamic: 
 </script>
 <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=U/G4i1aoZM00qr" style="display:none" height="1" width="1" alt="" /></noscript>
 <!-- End Alexa Certify Javascript -->
- 
+
+
+
 <script type="text/javascript" src="/assets/bcb4e821/jui/js/jquery-ui.min.js"></script>
 <script type="text/javascript">
 /*<![CDATA[*/
 jQuery(function($) {
 $(".flash-success").animate({opacity: 1.0}, 5000).slideUp("fast");
 jQuery('#report-inappropriate-dialog').dialog({'title':'Report Inappropriate Content','autoOpen':false,'modal':true,'show':'fade'});
+jQuery('#contact-us-dialog').dialog({'title':'Contact Us','autoOpen':false,'modal':true,'show':'fade'});
+jQuery('#login-dialog').dialog({'title':'Login or Register For Free Access','autoOpen':false,'modal':true,'show':'fade'});
 jQuery('#feedback-dialog').dialog({'title':'We Value Your Feedback!','autoOpen':false,'modal':true,'show':'fade'});
 });
 /*]]>*/
 </script>
 
-<div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-report-inappropriate-dialog" style="display: none; z-index: 1000; outline: 0px; position: absolute;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-report-inappropriate-dialog">Report Inappropriate Content</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="report-inappropriate-dialog" class="ui-dialog-content ui-widget-content">
-<div id="report-inappropriate-wrap"></div></div><div class="ui-resizable-handle ui-resizable-n"></div><div class="ui-resizable-handle ui-resizable-e"></div><div class="ui-resizable-handle ui-resizable-s"></div><div class="ui-resizable-handle ui-resizable-w"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" style="z-index: 1001;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 1002;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 1003;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 1004;"></div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-feedback-dialog" style="display: none; z-index: 1000; outline: 0px; position: absolute;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-feedback-dialog">We Value Your Feedback!</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="feedback-dialog" class="ui-dialog-content ui-widget-content">
+</b></b><div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-report-inappropriate-dialog" style="display: none; z-index: 1000; outline: 0px; position: absolute;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-report-inappropriate-dialog">Report Inappropriate Content</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="report-inappropriate-dialog" class="ui-dialog-content ui-widget-content">
+<div id="report-inappropriate-wrap"></div></div><div class="ui-resizable-handle ui-resizable-n"></div><div class="ui-resizable-handle ui-resizable-e"></div><div class="ui-resizable-handle ui-resizable-s"></div><div class="ui-resizable-handle ui-resizable-w"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" style="z-index: 1001;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 1002;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 1003;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 1004;"></div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-contact-us-dialog" style="display: none; z-index: 1000; outline: 0px; position: absolute;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-contact-us-dialog">Contact Us</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="contact-us-dialog" class="ui-dialog-content ui-widget-content">
+<div id="contact-us-wrap"></div></div><div class="ui-resizable-handle ui-resizable-n"></div><div class="ui-resizable-handle ui-resizable-e"></div><div class="ui-resizable-handle ui-resizable-s"></div><div class="ui-resizable-handle ui-resizable-w"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" style="z-index: 1001;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 1002;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 1003;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 1004;"></div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-login-dialog" style="display: none; z-index: 1000; outline: 0px; position: absolute;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-login-dialog">Login or Register For Free Access</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="login-dialog" class="ui-dialog-content ui-widget-content">
+<div id="login-wrap"></div></div><div class="ui-resizable-handle ui-resizable-n"></div><div class="ui-resizable-handle ui-resizable-e"></div><div class="ui-resizable-handle ui-resizable-s"></div><div class="ui-resizable-handle ui-resizable-w"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" style="z-index: 1001;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 1002;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 1003;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 1004;"></div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-feedback-dialog" style="display: none; z-index: 1000; outline: 0px; position: absolute;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-feedback-dialog">We Value Your Feedback!</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="feedback-dialog" class="ui-dialog-content ui-widget-content">
 <div id="feedback-wrap"></div></div><div class="ui-resizable-handle ui-resizable-n"></div><div class="ui-resizable-handle ui-resizable-e"></div><div class="ui-resizable-handle ui-resizable-s"></div><div class="ui-resizable-handle ui-resizable-w"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" style="z-index: 1001;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 1002;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 1003;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 1004;"></div></div></body></html>
