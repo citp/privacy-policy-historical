@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texasheart.org privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209144250id_/http%3A//www.texasheart.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasheart.org privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329064947id_/http%3A//www.texasheart.org/privacy.cfm) for the most accurate reproduction.*
 
 # Website Terms of Use and Privacy Policy
 
