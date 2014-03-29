@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huntington.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918153700id_/https%3A//www.huntington.com/footer/HNB3800.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huntington.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329085844id_/https%3A//www.huntington.com/footer/HNB3800.htm) for the most accurate reproduction.*
 
 # Huntington Privacy Policy
 
@@ -11,7 +11,7 @@
 This Online Privacy Policy ("Online Policy") applies to The Huntington National Bank, its parent Huntington Bancshares Incorporated and their subsidiaries and affiliates (collectively described as "Huntington," "we," or "us"), this website and any Huntington website that links to this Online Policy (each a "Site, and collectively "Sites"). This Online Policy specifically applies to Huntington's online collection, use and disclosure of information collected from visitors during use of the Sites, such as for transactional purposes or through online tracking technology, including cookies or action tags. This Site is operated in and controlled from the United States of America. This Online Policy should be read together with the "What Does Huntington Do with Your Personal Information" Privacy Notice ("Privacy Notice") below, which, among other things, describes how Huntington may share personal information gathered from you and how you can opt-out or limit certain types of information sharing. 
 
 **Effective Date**   
-The Online Policy is effective as of July 2013.
+The Online Policy is effective as of January 2014.
 
 **Changes to the Online Policy**   
 We reserve the right to amend the Online Policy at any time to address future developments of Huntington, the Site or changes in industry or legal trends. We will post the revised Online Policy on the Site or announce the change on the Site's homepage. If we make changes to the Online Policy, we will revise the "Effective Date" section above. Any changes to this Online Policy will become effective upon the posting of the revised Online Policy on the Site. By continuing to use the Site following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Online Policy, as it may be amended from time to time, in whole or in part, please do not continue using this Site. If you have any questions or comments about the Online Policy, please feel free to contact us at [privacy@huntington.com](mailto:privacy@huntington.com).
@@ -33,6 +33,9 @@ We also use 1x1 pixel "action tags," which are types of tracking technology asso
 We engage third party advertising companies to serve ads on Huntington's behalf across the internet. Huntington is not providing, and these companies do not collect, your Personal Information. These companies may use behavioral information obtained from action tags, such as how you navigate websites, to provide Huntington advertisements to you. In addition, we may engage these companies to track and report performance of advertising and marketing campaigns to and from Huntington. These companies may not use your behavioral information for any purpose other than to deliver Huntington ads on the internet.
 
 You can block cookies by changing the settings on your internet browser or through the use of software programs specifically designed to block cookies. Please note, however, that if you choose to block cookies, you will not be able to log into our secure Online Banking service, and you may limit other functionality we can provide when you visit our Site. You can also remove cookies by deleting them from your Temporary Internet or Cookies folder.
+
+**Notice Regarding Browser Settings**   
+Our Site does not recognize Web browser “do not track” signals or other mechanisms. No other party will collect personally identifiable information about your online activities over time and across different Web sites when you use this Web site or service.
 
 **Our Use of Personal Information**   
 Consistent with our Privacy Notice, we use Personal Information provided by Site visitors to fulfill the purpose for which such information was provided, such as to open an account for you, to process a transaction authorized by you, to send you information we think may be of interest to you, to evaluate your suitability for a job if you apply on line through the Careers section of our Site, or as specifically disclosed at the time the information is requested.
