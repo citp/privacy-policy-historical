@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tryortrade.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102230131id_/http%3A//www.tryortrade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tryortrade.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330004454id_/http%3A//www.tryortrade.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy- This Privacy Policy governs the manner in which Re
 
