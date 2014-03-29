@@ -1,294 +1,245 @@
-<!--The following is the downloaded HTML source of the regalcinemas.com privacy policy that was archived on 2013-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131205003142id_/http%3A//www.regmovies.com/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the regalcinemas.com privacy policy that was archived on 2014-03-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140329033907id_/http%3A//www.regmovies.com/Privacy-Policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><!--<![endif]--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=1240"><meta name="author" content="Regal Entertainment Group"><meta name="robots" content="NOODP,NOYDIR"><link rel="stylesheet" href="/assets/css/jquery-plugins.css"><link rel="stylesheet" href="/assets/css/global.css"><link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"><link href="/assets/css/jquery.tweet.css" media="all" rel="stylesheet" type="text/css">
-    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=183932214990035"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"></script>
+<!DOCTYPE html><html lang="en"><head id="Head1" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=1240"><meta name="author" content="Regal Entertainment Group"><meta name="robots" content="NOODP,NOYDIR">
+
+    <!-- ****** CSS *********-->
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><link rel="stylesheet" href="/assets/css/jquery-plugins.css" type="text/css"><link rel="stylesheet" href="/assets/css/global.css" type="text/css"><link rel="stylesheet" href="/assets/css/jquery.tweet.css" media="all" type="text/css"><link rel="stylesheet" href="/assets/css/home.css" type="text/css"><link rel="stylesheet" href="/assets/css/modal.css" type="text/css"><link rel="stylesheet" href="/assets/css/moviedetail.css" type="text/css"><link rel="stylesheet" href="/assets/css/rcc-main.css" type="text/css" media="all"><link href="/assets/css/rcc-rewards.css" media="all" rel="stylesheet" type="text/css"><link rel="stylesheet" href="/assets/css/theatre.css" type="text/css" media="all">
+    <!-- ********************************** -->
+    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=183932214990035"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/assets/js/underscore-min.js"></script>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"></script>
     <script type="text/javascript">/*<![CDATA[*/ window.jQuery || document.write('<script type="text/javascript" src="/assets/js/jquery.js">\x3C/script>') /*]]>*/</script><script type="text/javascript" src="/assets/js/jquery.js"></script>
-
     <script type="text/javascript">var switchTo5x = true;</script>
     <script type="text/javascript" src="//w.sharethis.com/button/buttons.js"></script>
     <script type="text/javascript">stLight.options({ publisher: "8ddfca5a-2892-4513-83c7-eb85581ac9e4" }); </script>
+
+    <!-- Test you IE version, if you have a version 7 or lower a message will appear asking if you want to upgrade -->
+    <script type="text/javascript" src="/assets/js/versionTester.js"></script>
+
     <title>
 	Privacy Policy | Regal Cinemas
-</title><meta name="description" content="Learn more about Regal Cinemas privacy policy. Find information on cookies, third-party sites, security, collection and use of information, and more."><meta name="keywords" content="Learn more about Regal Cinemas privacy policy. Find information on cookies, third-party sites, security, collection and use of information, and more."></head>
-<body id="body" style="background-image:url(/~/media/Images/Site%20Takeovers/THDOS_Regal_SuperTicket_Skin_rev.ashx);">
+</title><meta name="description" content="Learn more about Regal Cinemas privacy policy. Find information on cookies, third-party sites, security, collection and use of information, and more."><meta name="keywords" content="Learn more about Regal Cinemas privacy policy. Find information on cookies, third-party sites, security, collection and use of information, and more."><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
+<body id="body" style="background-image:url(/~/media/Images/Site%20Takeovers/Noahv2.ashx);">
+    <!-- /templates for KO. MUST BE ABOVE VM DECLR SCRIPT -->
+
     
-        <!-- Google Standard Analytics Tracking -->
-        <script type="text/javascript">
+<script type="text/html" id="theatre-showtime-template">
+    <div class="title"><a href="#" data-bind="text: TheatreName, attr: { href: DetailsUrl }"></a></div>
+    <div data-bind="text: Address1"></div>
+    <div data-bind="text: City + ' ' + State + ' ' + PostalCode"></div>
+</script>
 
-            (function () {
-                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-            })();
+<script type="text/html" id="movie-grouped-showtimes-template">
 
-            var _gaq = _gaq || [];
-            _gaq.push(['_setAccount', 'UA-3523557-1']);
-            _gaq.push(['_trackPageview']);
-        </script>
-    <form method="post" action="#" id="form1">
+    <div data-bind="foreach: { data: _.keys(showtimesGrouped()), as: 'showGroup' }">
+        <div class="result-info" data-bind="css: { 'even': ($index() % 2 !== 0) }">
+            <div class="result-left">
+                <div class="title" style="font-size: 14px; font-weight: bold;" data-bind="html: $parent.MovieName"></div>
+
+                <div data-bind="with: $parent.showtimesGrouped()[$data]">
+                    <div>
+                        <div class="formats-container" data-bind="foreach: _.filter(Regal.movieFormats, function (s) { return showGroup.toString().indexOf(Regal.amenityKeySelector(s)) !== -1; }) ">
+                            <div data-bind="template: 'performance-amenity-item-template'"></div>
+                        </div>
+                        <ul class="results-showtimes-set" data-bind="template: { name: 'performances-list-item-template', foreach: $data } "></ul>
+                    </div>
+                </div>
+            </div>
+            <div class="result-right">
+                <div class="title">Amenities:</div>
+                <div class="theatre-amenities-icons" data-bind="template: { name: 'performance-amenity-item-template', foreach: _.uniq(_.filter($parent.performanceAmenities(), function (s) { return showGroup.indexOf(Regal.amenityKeySelector(s)) !== -1; }), Regal.amenityKeySelector) }"></div>
+            </div>
+        </div>
+    </div>
+</script>
+
+<script type="text/html" id="performances-list-item-template">
+    <li data-bind="css: { 'results-showtime-even': (($index() + 1) % 2 === 0) }">
+        <div>
+            <!-- ko if: performanceIsInFuture() === false   -->
+            <span data-bind="text: ShowTime"></span>
+            <!-- /ko -->
+            <!-- ko if: performanceIsInFuture() === true   -->
+            <a target="_blank" class="showtime" data-bind="click: Regal.trackFandangoUrlClick, text: ShowTime, attr: { href: Regal.getTicketPurchaseUrl({ MovieId: MovieId, TheatreTmsId: TheatreTmsId, showDate: fullShowtime() }) }"></a>
+            <!-- /ko -->
+        </div>
+    </li>
+</script>
+
+<script type="text/html" id="performance-amenity-item-template">
+    <span class="performance-amenity-item" data-bind="if: $data.IconPath && $data.Id">
+        <img data-bind="attr: { src: IconPath, title: $data.Description || Name }" />
+    </span>
+    <span class="performance-amenity-item" data-bind="ifnot: $data.IconPath"></span>
+</script>
+<!-- /templates for KO -->
+
+
+    
+    <!-- Google Standard Analytics Tracking -->
+    <script type="text/javascript">
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-3523557-1']);
+        _gaq.push(['_trackPageview']);
+    </script>
+    <form method="post" action="Privacy-Policy" id="form1">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzg0MzI0NzIwD2QWAgIDDxYCHgVzdHlsZQVdYmFja2dyb3VuZC1pbWFnZTp1cmwoL34vbWVkaWEvSW1hZ2VzL1NpdGUlMjBUYWtlb3ZlcnMvVEhET1NfUmVnYWxfU3VwZXJUaWNrZXRfU2tpbl9yZXYuYXNoeCk7FgJmD2QWBAIBD2QWAmYPZBYmAgEPZBYCZg9kFgICAQ9kFgJmDxYCHgRUZXh0BRlMb2dpbiB0byBSZWdhbCBDcm93biBDbHViZAIFDw8WAh4HVmlzaWJsZWdkFgICAQ9kFgJmDw8WCB4IQ3NzQ2xhc3NkHwEFCEFjdGl2YXRlHgtOYXZpZ2F0ZVVybAUaL0Nyb3duLUNsdWIvQ3JlYXRlLUFjY291bnQeBF8hU0ICAmRkAgcPZBYCZg8PFggfA2QfAQULQWJvdXQgUmVnYWwfBAUML0Fib3V0LVJlZ2FsHwUCAmRkAgkPZBYCZg8PFgofA2QfAQUSSW52ZXN0b3IgUmVsYXRpb25zHwQFHWh0dHA6Ly9pbnZlc3Rvci5yZWdtb3ZpZXMuY29tHgZUYXJnZXRlHwUCAmRkAgsPZBYCZg8PFggfA2QfAQULR3JvdXAgU2FsZXMfBAUVL1RoZWF0cmVzL0dyb3VwLVNhbGVzHwUCAmRkAg0PZBYCZg8PFggfA2QfAQUSUHJpdmF0ZSBTY3JlZW5pbmdzHwQFHC9UaGVhdHJlcy9Qcml2YXRlLVNjcmVlbmluZ3MfBQICZGQCDw9kFgJmDxYCHwEFHEZpbmQgVGlja2V0cyAmYW1wOyBTaG93dGltZXNkAhEPZBYCZg8WAh8BBQZTZWFyY2hkAhMPZBYSAgEPDxYCHwQFBy9Nb3ZpZXNkFgYCAQ9kFgJmDxYCHwEFBkJyb3dzZWQCAw8WAh8BBQZNb3ZpZXNkAgUPZBYCZg8WAh8BBTNTZWUgYSBjb21wbGV0ZSBsaXN0IG9mIGN1cnJlbnQgYW5kIHVwY29taW5nIG1vdmllcy5kAgMPZBYCZg8PFggfA2QfAQUJQm9sbHl3b29kHwQFES9Nb3ZpZXMvQm9sbHl3b29kHwUCAmRkAgUPZBYCZg8PFggfA2QfAQUJQ2luZW1hQXJ0HwQFEi9Nb3ZpZXMvQ2luZW1hLUFydB8FAgJkZAIHDw8WAh8EBQkvVGhlYXRyZXNkFgYCAQ9kFgJmDxYCHwEFB0V4cGxvcmVkAgMPFgIfAQUIVGhlYXRyZXNkAgUPZBYCZg8WAh8BBURGaW5kIGEgbmVhcmJ5IFJlZ2FsIHRoZWF0cmUgZm9yIHNob3d0aW1lcywgcGFydGllcywgZXZlbnRzIGFuZCBtb3JlLmQCCQ9kFgJmDw8WCB8DZB8BBQhSUFgmcmVnOx8EBQ0vVGhlYXRyZXMvUlBYHwUCAmRkAgsPZBYCZg8PFggfA2QfAQUJSU1BWCZyZWc7HwQFDi9UaGVhdHJlcy9JTUFYHwUCAmRkAg0PZBYCZg8PFggfA2QfAQUNUmVhbEQmcmVnOyAzRB8EBRIvVGhlYXRyZXMvUmVhbEQtM0QfBQICZGQCDw8PFgIfBAULL0Nyb3duLUNsdWJkFgYCAQ9kFgJmDxYCHwEFA0dldGQCAw9kFgJmDxYCHwEFB1Jld2FyZHNkAgUPZBYCZg8WAh8BBVJKb2luIHRoZSBSZWdhbCBDcm93biBDbHViIGZvciBGUkVFIGFuZCBzdGFydCBlbmpveWluZyBmcmVlYmllcyBhbmQgc3BlY2lhbCBvZmZlcnMuZAIRD2QWAmYPDxYIHwNkHwEFEVNwZWNpYWxzICYgVmFsdWVzHwQFFC9TcGVjaWFscy1hbmQtVmFsdWVzHwUCAmRkAhcPDxYCHwQFFC9wcm9kdWN0cy9naWZ0LWNhcmRzZBYIAgEPZBYCZg8WAh8BBQtHZXQgaXQgbm93IWQCAw9kFgJmDxYCHwEFCkdpZnQgQ2FyZHNkAgUPZBYCZg8WAh8BBRYmIENvcnBvcmF0ZSBCb3ggT2ZmaWNlZAIHD2QWAmYPFgIfAQUzQ3VzdG9tIGdpZnQgY2FyZHMsIG1vdmllIHBhY2tzIGFuZCBncm91cCBkaXNjb3VudHMhZAIZD2QWAmYPDxYKHwNkHwEFEFByZW1pZXJlIFRpY2tldHMfBAVBaHR0cDovL3d3dy5jb3Jwb3JhdGVib3hvZmZpY2UuY29tL3AtNTYtcHJlbWllcmUtbW92aWUtdGlja2V0LmFzcHgfBgUGX2JsYW5rHwUCAmRkAhsPZBYCZg8PFgofA2QfAQUOVWx0aW1hdGUgUGFja3MfBAU/aHR0cDovL3d3dy5jb3Jwb3JhdGVib3hvZmZpY2UuY29tL3AtNTgtdWx0aW1hdGUtbW92aWUtcGFjay5hc3B4HwYFBl9ibGFuax8FAgJkZAIdD2QWAmYPFgIfAQUmTG9naW4gd2FzIGluY29ycmVjdCwgcGxlYXNlIHRyeSBhZ2Fpbi5kAh8PZBYCZg8WAh8BBQ1FbWFpbCBBZGRyZXNzZAIhD2QWAmYPFgIfAQUJUGFzc3dvcmQgZAIjD2QWAmYPDxYIHwNkHwEFFUZvcmdvdCB5b3VyIHBhc3N3b3JkPx8EBSAvQ3Jvd24tQ2x1Yi9Gb3Jnb3QteW91ci1wYXNzd29yZB8FAgJkZAIlD2QWAmYPDxYIHwMFDGFsdGxvZ2hlYWRlch8BBQlSQ0MgTG9naW4fBAUcL0Nyb3duLUNsdWIvQWx0ZXJuYXRlLVNpZ25pbh8FAgJkZAInD2QWAmYPFgIfAQULUmVtZW1iZXIgbWVkAikPDxYCHgtQb3N0QmFja1VybAUkaHR0cHM6Ly93d3cucmVnbW92aWVzLmNvbS9sb2dpbi5hc3B4ZGQCAw9kFgJmD2QWAmYPZBYCAgMPZBYCZg9kFgJmD2QWAmYPFgIeC18hSXRlbUNvdW50AgEWAmYPZBYGAgEPFgIfAQWSAWh0dHBzOi8vd3d3LnJlZ21vdmllcy5jb20vbW92aWVzZXJ2aWNlL2dldHByb21vcy5hc3B4P251bT0xJml0ZW09ezRGQjQ2QjM0LTZDRDAtNDgyNi05MURDLTU2QzkzRTFBN0I1OX0mY3R4PXsyNjNFMjIwMC04NzFDLTRBQzgtOEU2OS0zOTYxOTI2MTFDMjF9ZAIDDxYCHwEFKXByb21vNjZiYTcxODYtYzJkYy00NjVhLThkOTYtZWZhZmU4Mzg3ZDNiZAIFDxYCHgVjbGFzcwUpcHJvbW82NmJhNzE4Ni1jMmRjLTQ2NWEtOGQ5Ni1lZmFmZTgzODdkM2JkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRdjdGwxMSRMb2dpblN1Ym1pdEJ1dHRvbhL296P0gX56eHEsDXBceufwu33oYDscsWRGHsN2XPYJ">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY4ODE1MjgxOA9kFgICAw8WAh4Fc3R5bGUFQ2JhY2tncm91bmQtaW1hZ2U6dXJsKC9+L21lZGlhL0ltYWdlcy9TaXRlJTIwVGFrZW92ZXJzL05vYWh2Mi5hc2h4KTsWAgIBD2QWBAIBD2QWAmYPZBYKAgcPDxYCHgtOYXZpZ2F0ZVVybAUHL01vdmllc2RkAggPDxYCHwEFCS9UaGVhdHJlc2RkAgkPDxYCHwEFHC9Dcm93bi1DbHViL0FsdGVybmF0ZS1TaWduaW5kZAIKDw8WAh8BBQsvUHJvbW90aW9uc2RkAgwPDxYCHwEFFC9TcGVjaWFscy1hbmQtVmFsdWVzZGQCAw9kFgJmD2QWAmYPZBYCAgMPZBYCZg9kFgJmD2QWAmYPFgIeC18hSXRlbUNvdW50AgEWAmYPZBYGAgEPFgIeBFRleHQFkQFodHRwOi8vd3d3LnJlZ21vdmllcy5jb20vbW92aWVzZXJ2aWNlL2dldHByb21vcy5hc3B4P251bT0xJml0ZW09ezRGQjQ2QjM0LTZDRDAtNDgyNi05MURDLTU2QzkzRTFBN0I1OX0mY3R4PXsyNjNFMjIwMC04NzFDLTRBQzgtOEU2OS0zOTYxOTI2MTFDMjF9ZAIDDxYCHwMFKXByb21vMGM3OTI3ZGMtMjg1MC00ODY5LTkwNmEtMzI4YTAzODMwYTQ1ZAIFDxYCHgVjbGFzcwUpcHJvbW8wYzc5MjdkYy0yODUwLTQ4NjktOTA2YS0zMjhhMDM4MzBhNDVkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBRdjdGwxNSRsb2dpblN0YXR1cyRjdGwwMQUXY3RsMTUkbG9naW5TdGF0dXMkY3RsMDNDL8gjhhC2ZuKMvElIwuTeUp1/wBtVW1r4He/J4Mqf1A==">
 </div>
 
 <div class="aspNetHidden">
 
-	<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="J65Pldp9AudFV8n53QZN3KV9qecc57qwMEqBJX1SmIxL4azByiIdGv8qaTGc0ObDWIvvDpVg9Q-tzAZYW35lAv2ono4NGZsOpw9CsZVCeqM1">
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKpjKOGAQLnh+SPBP7YaD+ACI6yV5dcejAIPi1UM+RM+BIJN6KpeuoLqeG/">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKhsrKGBAK4iaKCBgTZi9Mw7gES8Q/CuWVmYBtbf4jeSqU3aDiVSykOVz93">
 </div>
-        <div id="fb-root"></div>
-        <script type="text/javascript">
-            (function (d, s, id) {
-                var js, fjs = d.getElementsByTagName(s)[0];
-                if (d.getElementById(id)) return;
-                js = d.createElement(s); js.id = id;
-                js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=183932214990035";
-                fjs.parentNode.insertBefore(js, fjs);
-            }(document, 'script', 'facebook-jssdk'));
-        </script>
+        <!--action="#" onsubmit="return false"-->
+
         <div id="main">
+            <!-- Header Begin -->
             
-<div id="header">
-    <div class="top clearfix">
-        <div class="content-logo">
-            <p class="logo">
-                <strong><a href="/">
-                    <img src="/assets/img/logos/regal-theater.png" alt="Regal Entertainment Group" width="284" height="157"></a></strong></p>
-        </div>
-        <div class="content-menus">
-            <div class="links clearfix">
-            <ul class="account">
-                    <li>
-                        
-                                <div class="login">
-                                    <a href="/Crown-Club/Alternate-Signin" onclick="_gaq.push(['_trackEvent', 'Links', 'Header', 'Unauthenticated', 'Sign']);">
-                                        Login to Regal Crown Club</a>
-                                </div>
-                            
-                        
-                    </li>
-                    <li class="register">
-                        
-                        <div id="ctl11_joinNowPanel">
+<div id="header" class="clearfix">
+    <!-- Logo -->
+    <a id="logo" class="float-left" href="/">
+        <img src="/Assets/img/logos/header-regal-logo.png" alt="Regal Entertainment Group"></a>
+    <!-- END Logo -->
+
+    <!-- Member login area -->
+    <div class="member-nav clearfix">
+        <span id="loginStatusContainer">
+            <a id="ctl15_loginStatus" class="btn gray right" href="javascript:__doPostBack('ctl15$loginStatus$ctl02','')">Login</a>
+        </span>
+
+        <a id="ctl15_hypActivateRccCard" class="btn gray right" href="/Crown-Club/Create-Account">Activate RCC Card</a>
+        
+ 
+
+    </div>
+    <!-- END member login area -->
+
+    <!-- Member login area -->
+    <div class="search clearfix">
+        <div id="ctl15_pnlFindTheatreShowtimes">
 	
-                            <a id="ctl11_ctl14_Link" href="/Crown-Club/Create-Account">Activate</a>
-                        
-</div>
-                    </li>
-                </ul>
-                <ul class="site-links">
-                    <li>
-                        <a id="ctl11_ctl00_Link" href="/About-Regal">About Regal</a>
-                    </li>
-                    <li>
-                        <a id="ctl11_ctl01_Link" href="http://investor.regmovies.com">Investor Relations</a>
-                    </li>
-                    <li>
-                        <a id="ctl11_ctl02_Link" href="/Theatres/Group-Sales">Group Sales</a>
-                    </li>
-                    <li>
-                        <a id="ctl11_ctl03_Link" href="/Theatres/Private-Screenings">Private Screenings</a>
-                    </li>
-                    
-                </ul>
-            </div>
-            <div class="social">
-                <fb:like href="http://www.facebook.com/RegalEntertainmentGroup" send="false" layout="button_count" width="180" show_faces="false"></fb:like>
-            </div>
-            <div class="query">
-                <p class="dharma-gothic-light">
-                    <strong>
-                        Find Tickets &amp; Showtimes
-                    </strong>
-                </p>
-                <div class="clearfix">
-                    <div id="site-find" class="clearfix">
-                        <div class="col col1">
-                            <input type="text" id="site-find-location" name="site-find-location" value="" maxlength="60">
-                        </div>
-                        <div class="col col2">
-                            <input type="text" class="simple-form  site-find-date" id="site-find-date" name="site-find-date" value="" maxlength="60">
-                        </div>
-                        <div class="col col3">
-                            <input type="button" id="site-find-submit" value="submit">
-                        </div>
-                    </div>
-                    <div id="site-search" class="clearfix">
-                        <div class="col col1">
-                            <label for="site-search-movies">
-                                Search
-                            </label>
-                        </div>
-                        <div class="col col2">
-                            <input type="text" id="site-search-movies" name="site-search-movies" value="" maxlength="60">
-                        </div>
-                        <div class="col col3">
-                            <input type="button" id="site-search-submit" value="submit">
-                        </div>
-                    </div>
+            <label id="search-theatre" name="search-theatre">
+                Find Theatre and Showtimes
+                <div>
+                    <input type="text" name="theatreLocation" placeholder="City &amp; State or Zip">
+                    <a class="btn" href="#"><span class="icon-caret">&nbsp;</span></a>
                 </div>
-            </div>
-        </div>
-    </div>
-    <div class="separator">
-    </div>
-    <div class="layout two-column clearfix">
-        <div class="center-column">
-            <div id="ctl11_FullHeader">
-	
-                <ul class="nav-bar clearfix">
-                    <li class="browse">
-                        <a id="ctl11_MoviesLink" class="content" href="/Movies">
-                            <p class="title dharma-gothic-light">
-                                Browse
-                                <strong>
-                                    Movies
-                                </strong>
-                            </p>
-                            <p>
-                                See a complete list of current and upcoming movies.
-                            </p>
-                        </a><div class="footer">
-                            <div class="dharma-gothic-light clearfix">
-                                
-                                <a id="ctl11_ItemLink1_Link" href="/Movies/Bollywood">Bollywood</a>
-                                <a id="ctl11_ItemLink2_Link" href="/Movies/Cinema-Art">CinemaArt</a>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="explore">
-                        <a id="ctl11_TheatresLink" class="content" href="/Theatres">
-                            <p class="title dharma-gothic-light">
-                                Explore
-                                <strong>
-                                    Theatres</strong></p>
-                            <p>
-                                Find a nearby Regal theatre for showtimes, parties, events and more.
-                            </p>
-                        </a><div class="footer">
-                            <div class="dharma-gothic-light clearfix">
-                                <a id="ctl11_ctl19_Link" href="/Theatres/RPX">RPX®</a>
-                                <a id="ctl11_ctl20_Link" href="/Theatres/IMAX">IMAX®</a>
-                                <a id="ctl11_ctl21_Link" href="/Theatres/RealD-3D">RealD® 3D</a>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="rewards">
-                        <a id="ctl11_RewardsLink" class="content" href="/Crown-Club">
-                            <p class="title dharma-gothic-light">
-                                Get
-                                <strong>
-                                    Rewards</strong></p>
-                            <p>
-                                Join the Regal Crown Club for FREE and start enjoying freebies and special offers.
-                            </p>
-                        </a><div class="footer">
-                            <div class="dharma-gothic-light clearfix">
-                                <a id="ctl11_ctl25_Link" href="/Specials-and-Values">Specials &amp; Values</a>
-                            </div>
-                        </div>
-                    </li>
-                </ul>
-            
-</div>
-            
-        </div>
-        <div class="right-column">
-            <div class="promo">
-                <a id="ctl11_GiftCardsLink" class="content" href="/products/gift-cards">
-                    <p class="callout">
-                        <em>Get it now!</em></p>
-                    <p class="title dharma-gothic-light">
-                        <strong>Gift Cards</strong>&amp; Corporate Box Office</p>
-                    <p>
-                        Custom gift cards, movie packs and group discounts!</p>
-                </a><div class="footer">
-                    <div class="dharma-gothic-light clearfix">
-                        <a id="ctl11_ctl06_Link" href="http://www.corporateboxoffice.com/p-56-premiere-movie-ticket.aspx" target="_blank">Premiere Tickets</a>
-                        <a id="ctl11_ctl07_Link" href="http://www.corporateboxoffice.com/p-58-ultimate-movie-pack.aspx" target="_blank">Ultimate Packs</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="regal-login">
-            <div id="site-login" class="clearfix">
-                <div id="site-login-error" style="display: none;">
-                    Login was incorrect, please try again.</div>
-                <label for="username">
-                    Email Address</label>
-                <input type="text" id="username" name="username" value="" maxlength="60"> <label for="password">Password </label>
-                <input type="password" id="password" name="password" value="" maxlength="60"> <a id="ctl11_ctl11_Link" href="/Crown-Club/Forgot-your-password">Forgot your password?</a>
-                <a id="ctl11_ctl12_Link" class="altlogheader" href="/Crown-Club/Alternate-Signin">RCC Login</a><br><br>
-                <input type="checkbox" name="persistent" id="persistent"><label class="remember-me" for="persistent">Remember me</label>
-                <div class="btns-bottom">
-                    <input type="image" name="ctl11$LoginSubmitButton" id="ctl11_LoginSubmitButton" src="/assets/img/buttons/btn-log-in.jpg" alt="Log in" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl11$LoginSubmitButton&quot;, &quot;&quot;, false, &quot;&quot;, &quot;https://www.regmovies.com/login.aspx&quot;, false, false))">
-                </div>
-            </div>
-        </div>
-    </div>
+            </label>
+        
 </div>
 
+        
+
+        <label id="search-movie">
+            Find a Movie
+            <div>
+                <input id="site-search-movies" type="text" placeholder="Movies, Theatres and More!">
+                <button id="site-search-submit"><span class="icon-magnify-glass">&nbsp;</span></button>
+            </div>
+        </label>
+    </div>
+    <!-- END member login area -->
+
+    <!-- Menu area -->
+    <div class="main-nav">
+        <ul>
+            <li class="main-1">
+                <a id="ctl15_hypMovies" href="/Movies">Movies</a>
+            </li>
+            <li class="main-2">
+                <a id="ctl15_hypTheatres" href="/Theatres">Theatres</a>
+            </li>
+            <li class="main-3">
+                <a id="ctl15_hypCrownClub" href="/Crown-Club/Alternate-Signin">Regal Crown Club</a>
+            </li>
+            <li class="main-4">
+                <a id="ctl15_hypEvents" href="/Promotions">Events &amp; Programs</a>
+            </li>
+            <li class="main-5">
+                <a id="ctl15_hypGifts" href="http://www.corporateboxoffice.com/default.aspx" target="_blank">Gift Cards</a>
+            </li>
+            <li class="main-6">
+                <a id="ctl15_hypSpecialsValues" href="/Specials-and-Values" style="border-right-width: 0px;">Specials &amp; Values</a>
+            </li>
+        </ul>
+    </div>
+    <!-- END Menu area -->
+</div>
+
+            <!-- Header End -->
             <div id="content">
                 
 <div class="layout two-column clearfix">
     <div class="center-column">
         
-<h1 class="dharma-gothic-regular">Privacy Policy</h1>
-<div class="user-long-description">Regal Cinemas, Inc. ("RCI," “we,” “our” or “us”) has created this statement to describe its information gathering and privacy practices. We are sensitive to the private nature of information you provide to us over the Internet. This Privacy Policy is designed to maximize your ability to protect your personal information, while at the same time permit us to provide you the opportunity to obtain interesting and useful information, products and services. At no time are you obligated to provide us any personal information, and if at any time you no longer wish to receive communications from us, you are free to "opt out" of receiving these communications. Because this Privacy Policy applies to any person who provides information to RCI through its web site, we strongly urge you to review this Privacy Policy in its entirety. Your use of this web site constitutes acceptance of this Privacy Policy and any other applicable terms.
-<p><strong>Our Collection of Your Information</strong><br>
-In order to enable you to register to receive information, products or services available through our web site, or to permit us to respond to your inquiries, our site's registration forms may require that you provide contact information (like your name and e-mail address), demographic information (like your ZIP code, age, or income level), and/or financial information (like account or credit card numbers). Our online surveys may ask you for contact information, demographic information, and lifestyle-related information (like your hobbies, favorite athletic teams, buying preferences, etc.). We may run contests on our site in which we ask visitors for contact information and demographic information. We may also collect the Internet Protocol address and e-mail address of visitors to our web site, the e-mail addresses of those who post messages to a bulletin board, and the e-mail addresses of those who communicate with us via e-mail. In addition to this personal information, our web servers automatically collect web site usage information from you when you visit our web site. Web site usage information is anonymous information about our visitors that describes how our web site is used and navigated, including the number and frequency of visitors and subscribers to each web page, their actions taken during visits to the site, and the length of their stays. Web site usage information does not contain personally identifiable information.</p>
-<p><strong>Our Use of Your Information</strong><br>
+
+<div class="column-one-item">
+    <h1 class="dharma-gothic-regular legacy">Privacy Policy</h1>
+    <div class="user-long-description"><p style="background-color: white; text-align: left;">Regal Cinemas, Inc. ("RCI," “we,” “our” or “us”) has created this statement to describe its information gathering and privacy practices. We are sensitive to the private nature of information you provide to us over the Internet. This Privacy Policy is designed to maximize your ability to protect your personal information, while at the same time permit us to provide you the opportunity to obtain interesting and useful information, products and services. At no time are you obligated to provide us any personal information, and if at any time you no longer wish to receive communications from us, you are free to "opt out" of receiving these communications. Because this Privacy Policy applies to any person who provides information to RCI through its web site, we strongly urge you to review this Privacy Policy in its entirety. Your use of this web site constitutes acceptance of this Privacy Policy and any other applicable terms. </p>
+<p style="background-color: white; text-align: left;"><strong>Our Collection of Your Information</strong><br>
+In order to enable you to register to receive information, products or services available through our web site, or to permit us to respond to your inquiries, our site's registration forms may require that you provide contact information (like your name, telephone number, and e-mail address), demographic information (like your ZIP code, age, or income level), and/or financial information (like account or credit card numbers). Our online surveys may ask you for contact information, demographic information, and lifestyle-related information (like your hobbies, favorite athletic teams, buying preferences, etc.). We may run contests on our site in which we ask visitors for contact information and demographic information. We may also collect the Internet Protocol address and e-mail address of visitors to our web site, the e-mail addresses of those who post messages to a bulletin board, and the e-mail addresses of those who communicate with us via e-mail. In addition to this personal information, our web servers automatically collect web site usage information from you when you visit our web site. Web site usage information is anonymous information about our visitors that describes how our web site is used and navigated, including the number and frequency of visitors and subscribers to each web page, their actions taken during visits to the site, and the length of their stays. Web site usage information does not contain personally identifiable information.</p>
+<p style="background-color: white; text-align: left;"><strong>Our Use of Your Information</strong><br>
 As a general matter we seek to use information collected through our web site to enhance the experience of visitors to our site. We (including our affiliates) may use this information in a number of ways, including: </p>
-<ul>
-    <li>To furnish you with products or services you have requested, or to send you information or otherwise contact you about RCI, or its affiliates, their products, services, advertising, upcoming events, special offers or promotions, coupons via text message, or for other purposes disclosed when you submit your information to our web site.</li>
-    <li>To assist us in marketing and advertising our products and services and those of other businesses.</li>
-    <li>To improve the content and navigation on our web site.</li>
-    <li>To prevent and detect fraud, infringement, and other potential misuse of our web site.</li>
-    <li>In order to provide you with products and services you have requested, we may share your information, including personally identifiable information or information we maintain on an aggregate basis, with third parties who provide services to RCI and its affiliates, such as credit card processing, customer services, order fulfillment, and/or prize delivery, as applicable.</li>
+<ul style="list-style-type: disc;">
+    <li style="color: #333333; text-align: left; background-color: white;">To furnish you with products or services you have requested, or to send you information or otherwise contact you about RCI, or its affiliates, their products, services, advertising, upcoming events, special offers or promotions, offers via text message, or for other purposes disclosed when you submit your information to our web site.</li>
+    <li style="color: #333333; text-align: left; background-color: white;">To assist us in marketing and advertising our products and services and those of other businesses.</li>
+    <li style="color: #333333; text-align: left; background-color: white;">To improve the content and navigation on our web site.</li>
+    <li style="color: #333333; text-align: left; background-color: white;">To prevent and detect fraud, infringement, and other potential misuse of our web site.</li>
+    <li style="color: #333333; text-align: left; background-color: white;">In order to provide you with products and services you have requested, we may share your information, including personally identifiable information or information we maintain on an aggregate basis, with third parties who provide services to RCI and its affiliates, such as credit card processing, customer services, order fulfillment, and/or prize delivery, as applicable.</li>
 </ul>
-<p>We do not share information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure - typically by opting in to receive information from a third party that is participating in a sweepstakes or other promotion on one of our web sites. If you do not want your information to be used by a third party for direct marketing purposes (or other purposes unrelated to the uses described herein), do not opt in to such use by that third party. Please note that if you opt in to receive direct marketing from a third party, your information will be subject to that party’s privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact that third party directly. We recommend that you review the privacy policy of any party that collects your information to determine how that entity will handle your information.</p>
-<p>At any time you may opt-out of receiving marketing communications from us or request that we not provide your personal contact, demographic, and/or lifestyle-related information to third parties. Please see the information below regarding opting out.</p>
-<p><strong>Text Messaging <br>
-</strong>By opting in to receive special offers and other text messages on your wireless telephone, you consent to receiving autodialed, telemarketing text or e-mail messages at the telephone number, including Short Message Service (SMS) messages. By opting in, you accept and agree to be bound by this RCI Web Site Privacy Policy, the Regal SMS Terms and Conditions, which can be viewed <a href="https://community.regmovies.com/apps/weekly_coupons_v2/full-terms-and-conditions.html" target="_blank">here</a>, and the Application Privacy Policy, which can be viewed <a href="http://community.regmovies.com/apps/privacy-policy/" target="_blank">here</a>.</p>
-<p><strong>Children's Guidelines<br>
+<p style="background-color: white; text-align: left;">We do not share information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure - typically by opting in to receive information from a third party that is participating in a sweepstakes or other promotion on one of our web sites. If you do not want your information to be used by a third party for direct marketing purposes (or other purposes unrelated to the uses described herein), do not opt in to such use by that third party. Please note that if you opt in to receive direct marketing from a third party, your information will be subject to that party’s privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact that third party directly. We recommend that you review the privacy policy of any party that collects your information to determine how that entity will handle your information.</p>
+<p style="background-color: white; text-align: left;">At any time you may opt-out of receiving marketing communications from us or request that we not provide your personal contact, demographic, and/or lifestyle-related information to third parties. Please see the information below regarding opting out.</p>
+<p style="background-color: white; text-align: left;"><strong>Text Messaging </strong><strong><br>
+</strong>By opting in to receive special offers and other text messages on your wireless telephone, you consent to receiving autodialed, telemarketing text or e-mail messages at the telephone number, including Short Message Service (SMS) messages. By opting in, you accept and agree to be bound by this RCI Web Site Privacy Policy, the Regal SMS Terms and Conditions, which can be viewed <a href="https://community.regmovies.com/apps/weekly_coupons_v2/full-terms-and-conditions.html" target="_blank">here</a>, the Application Privacy Policy, which can be viewed <a href="http://community.regmovies.com/apps/privacy-policy/" target="_blank">here</a>, and the RCI Mobile Application Privacy Policy, which can be viewed <a href="http://www.regmovies.com/Mobile-Application-Privacy-Policy">here</a>.</p>
+<p style="background-color: white; text-align: left;"><strong>Children's Guidelines</strong><strong><br>
 </strong>RCI does not specifically target its online services to children under 13 years old. If you are under the age of 13 you may use our web site only under the supervision of a parent or guardian. Please note that our site may contain links to content providers that collect information from children under the age of 13. We have no control over such content providers and are not responsible for the privacy practices or the content of other web sites. Because the Internet offers open access to a wide range of information, it is important that parents supervise and prevent access to inappropriate content, email or chat sessions.</p>
-RCI does not specifically target its online services to children under 13 years old. If you are under the age of 13 you may use our web site only under the supervision of a parent or guardian. Please note that our site may contain links to content providers that collect information from children under the age of 13. We have no control over such content providers and are not responsible for the privacy practices or the content of other web sites. Because the Internet offers open access to a wide range of information, it is important that parents supervise and prevent access to inappropriate content, email or chat sessions.
-<p><strong>Cookies</strong><br>
+<p style="background-color: white; text-align: left;">RCI does not specifically target its online services to children under 13 years old. If you are under the age of 13 you may use our web site only under the supervision of a parent or guardian. Please note that our site may contain links to content providers that collect information from children under the age of 13. We have no control over such content providers and are not responsible for the privacy practices or the content of other web sites. Because the Internet offers open access to a wide range of information, it is important that parents supervise and prevent access to inappropriate content, email or chat sessions. </p>
+<p style="background-color: white; text-align: left;"><strong>Cookies</strong><br>
 Our&nbsp;site uses cookies. We use cookies for a variety of services; to keep track of your favorite locations, to deliver content specific to your interests, to save your password so you do not have to re-enter it each time you visit our site, and for other purposes. Cookies are lines of text that are transmitted to your Web browser when you click on a site. They provide a way for a server to recall a previous request or previous registration so that information does not have to be reinserted. Your browser stores the information on your hard drive and when you return to that site later, the cookie is transmitted back only to the servers that originally sent it to you. A cookie does not collect or keep your name or other personally identifying information; however, we may link the information obtained through cookies to other personally identifiable information to give us a better understanding of your preferences, so that we can provide a more meaningful experience to you on our web site. To be notified when you are about to receive a cookie, you can configure your browser to alert you when a site is attempting to send you a cookie and at that time you will have the option of refusing the cookie. Consult your browser's "Help" function for more information. Advertisers that serve ads on our web site may also use their own cookies. These cookies collect their own information independent of RCI's activities. You can disable this cookie capability as described above. We use an independent ad company to display ads on our site. These ads may contain cookies. Cookies received with banner ads are collected by the ad company, and although we do not have access to this information, some customer data may be shared with the advertisers. We use Google Display Advertising, employing Google Analytics for remarketing efforts. Third-party vendors, including Google, show Regal Entertainment Group ads on sites across the internet. Regal and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to our website. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Google Ads Preferences Manager.</p>
-<p><strong>Third-Party Sites</strong><br>
+<p style="background-color: white; text-align: left;"><strong>Third-Party Sites</strong><br>
 This site contains links to other web sites that we believe you might find useful and informative.&nbsp; Also, this site may utilize social networking sites that are not owned or controlled by RCI.&nbsp; Please be aware, however, that RCI does not endorse or recommend the content or services of such sites, and RCI is not responsible for the privacy practices or the content of these other sites. We encourage you to review the privacy policies of each site you visit. Remember, the statements in this Privacy Policy apply solely to information collected by RCI.</p>
-<p><strong>Security</strong><br>
+<p style="background-color: white; text-align: left;"><strong>Security</strong><br>
 The personally identifiable information we collect about you is stored in limited access servers, accessible only by employees or agents of RCI. We will maintain appropriate safeguards to protect against the loss, misuse, and alteration of any customer information under our control.&nbsp; Please be aware that the transmission of information over the Internet is not inherently secure, and, although we endeavor to provide reasonable security measures, no security systems can prevent all potential security breaches.</p>
-<p><strong>Opt-Out - To Remove Your Name and Information From Our Lists</strong><br>
+<p style="background-color: white; text-align: left;"><strong>Opt-Out - To Remove Your Name and Information From Our Lists</strong><br>
 You have the choice to opt-out of receiving marketing communications from us, and to limit our disclosure of your information to other companies. You can also change or modify information previously provided. You may opt out by e-mailing our customer service department at <a href="mailto:%20privacy@regalcinemas.com">privacy@regalcinemas.com</a>. In addition, if you would like to contact us regarding this Privacy Policy, the practices of this site, or your interaction with this site, please write us at:</p>
-<p>Regal Cinemas, Inc. 7132 Regal Lane Knoxville, TN 37918 Attention: Customer Service </p>
-<p>Or call us at: 865.922.1123</p>
-<p style="margin: 0in 0in 12pt;">You can also opt-out of receiving future text messages at any time by texting <strong>STOP</strong> to&nbsp;30364 from your mobile phone. You agree that if you request to opt out from future messages, we may send you a one-time opt-out confirmation text message.&nbsp;</p>
-<p><strong>Policy Modifications</strong><br>
+<p style="background-color: white; text-align: left;">Regal Cinemas, Inc. 7132 Regal Lane Knoxville, TN 37918 Attention: Customer Service </p>
+<p style="background-color: white; text-align: left;">Or call us at: 865.922.1123</p>
+<p style="margin-bottom: 12pt; background-color: white; text-align: left;">You can also opt-out of receiving future text messages at any time by texting <strong>STOP</strong> to&nbsp;30364 from your mobile phone. You agree that if you request to opt out from future messages, we may send you a one-time opt-out confirmation text message.&nbsp;</p>
+<p style="background-color: white; text-align: left;"><strong>Policy Modifications</strong><br>
 We reserve the right to change the terms of this Privacy Policy from time to time. We will post any changes here, so please check back periodically. Your continued use of our web site after any change has been posted constitutes acceptance of the change to this Privacy Policy.</p>
-<p>This privacy policy was last updated February 20, 2013.</p>
-<p><strong>View the <a href="/Mobile-Application-Privacy-Policy">Mobile Application Privacy Policy</a>.</strong></p></div>
+<p style="background-color: white; text-align: left;">This privacy policy was last updated January 3, 2014<a name="_GoBack"></a> .</p>
+<strong>View the </strong><a href="http://www.regmovies.com/Mobile-Application-Privacy-Policy"><strong>Mobile Application Privacy Policy</strong></a><strong>.</strong>
+<p><strong></strong></p></div>
+</div>
     </div>
     <div class="right-column">
         
         <script type="text/javascript">
             $(document).ready(function () {
                 $.ajax({
-                    url: 'https://www.regmovies.com/movieservice/getpromos.aspx?num=1&item={4FB46B34-6CD0-4826-91DC-56C93E1A7B59}&ctx={263E2200-871C-4AC8-8E69-396192611C21}',
+                    url: 'http://www.regmovies.com/movieservice/getpromos.aspx?num=1&item={4FB46B34-6CD0-4826-91DC-56C93E1A7B59}&ctx={263E2200-871C-4AC8-8E69-396192611C21}',
                     success: function (data) {
-                        $(".promo66ba7186-c2dc-465a-8d96-efafe8387d3b").append(data);
+                        $(".promo0c7927dc-2850-4869-906a-328a03830a45").append(data);
                     }
                 });
             });
         </script>
-        <div id="page_0_rightcolumn_0_AJAXRepeater_AJAXDiv_0" class="promo66ba7186-c2dc-465a-8d96-efafe8387d3b">
+        <div id="maincontent_0_rightcolumncontent_0_AJAXRepeater_AJAXDiv_0" class="promo0c7927dc-2850-4869-906a-328a03830a45">
         </div>
     
 
     </div>
 </div>
-
             </div>
+            <!-- Footer Begin -->
             
 <div id="footer">
     <div class="sitemap clearfix">
@@ -300,16 +251,16 @@ We reserve the right to change the terms of this Privacy Policy from time to tim
                     <ul>
                 
                     <li>
-                        <a id="ctl12_HomeRepeater_FooterLink_0" href="/Promotions">Regal Promotions &amp; Sweepstakes</a></li>
+                        <a id="ctl16_HomeRepeater_FooterLink_0" href="/Promotions">Regal Promotions &amp; Sweepstakes</a></li>
                 
                     <li>
-                        <a id="ctl12_HomeRepeater_FooterLink_1" href="/Specials-and-Values">Specials &amp; Values</a></li>
+                        <a id="ctl16_HomeRepeater_FooterLink_1" href="/Specials-and-Values">Specials &amp; Values</a></li>
                 
                     <li>
-                        <a id="ctl12_HomeRepeater_FooterLink_2" href="/About-Regal/Contact-Us">Contact Us</a></li>
+                        <a id="ctl16_HomeRepeater_FooterLink_2" href="/About-Regal/Contact-Us">Contact Us</a></li>
                 
                     <li>
-                        <a id="ctl12_HomeRepeater_FooterLink_3" href="/Site-Map">Site Map</a></li>
+                        <a id="ctl16_HomeRepeater_FooterLink_3" href="/Site-Map">Site Map</a></li>
                 
                     </ul>
                 
@@ -321,28 +272,34 @@ We reserve the right to change the terms of this Privacy Policy from time to tim
                     <ul>
                 
                     <li>
-                        <a id="ctl12_MovieRepeater_FooterLink_0" href="/Movies?tab=1">Now Playing</a></li>
+                        <a id="ctl16_MovieRepeater_FooterLink_0" href="/Movies?#now-playing-tab">Now Playing</a></li>
                 
                     <li>
-                        <a id="ctl12_MovieRepeater_FooterLink_1" href="/Movies?tab=2">Coming Soon</a></li>
+                        <a id="ctl16_MovieRepeater_FooterLink_1" href="/Movies?#coming-soon">Coming Soon</a></li>
                 
                     <li>
-                        <a id="ctl12_MovieRepeater_FooterLink_2" href="/Movies?tab=3">Advance Tickets</a></li>
+                        <a id="ctl16_MovieRepeater_FooterLink_2" href="/Movies?#family-picks">Family Picks</a></li>
                 
                     <li>
-                        <a id="ctl12_MovieRepeater_FooterLink_3" href="/Movies/Cinema-Art">Cinema Art</a></li>
+                        <a id="ctl16_MovieRepeater_FooterLink_3" href="/Movies?#limited-engagement">Limited Engagement</a></li>
                 
                     <li>
-                        <a id="ctl12_MovieRepeater_FooterLink_4" href="/Movies/Bollywood">Bollywood</a></li>
+                        <a id="ctl16_MovieRepeater_FooterLink_4" href="/Movies/Cinema-Art">Cinema Art</a></li>
                 
                     <li>
-                        <a id="ctl12_MovieRepeater_FooterLink_5" href="/Promotions/Classic-Film-Series">Classic Film Series Participating Locations</a></li>
+                        <a id="ctl16_MovieRepeater_FooterLink_5" href="/Movies/Bollywood">Bollywood</a></li>
                 
                     <li>
-                        <a id="ctl12_MovieRepeater_FooterLink_6" href="http://www.fathomevents.com/default.aspx?theatrecode=REG" target="_blank">On-Screen Events</a></li>
+                        <a id="ctl16_MovieRepeater_FooterLink_6" href="/Movies/faithfilms">Faith Based Films</a></li>
                 
                     <li>
-                        <a id="ctl12_MovieRepeater_FooterLink_7" href="/Movies/Summer-Movie-Express">Summer Movie Express</a></li>
+                        <a id="ctl16_MovieRepeater_FooterLink_7" href="/Promotions/Classic-Film-Series">Classic Film Series Participating Locations</a></li>
+                
+                    <li>
+                        <a id="ctl16_MovieRepeater_FooterLink_8" href="http://www.fathomevents.com/default.aspx?theatrecode=REG" target="_blank">On-Screen Events</a></li>
+                
+                    <li>
+                        <a id="ctl16_MovieRepeater_FooterLink_9" href="/Movies/Summer-Movie-Express">Summer Movie Express</a></li>
                 
                     </ul>
                 
@@ -355,25 +312,28 @@ We reserve the right to change the terms of this Privacy Policy from time to tim
                         <ul>
                     
                         <li>
-                            <a id="ctl12_TheatresRepeater_FooterLink_0" href="/Theatres/RPX">RPX®</a></li>
+                            <a id="ctl16_TheatresRepeater_FooterLink_0" href="/Theatres/RPX">RPX®</a></li>
                     
                         <li>
-                            <a id="ctl12_TheatresRepeater_FooterLink_1" href="/Theatres/IMAX">IMAX®</a></li>
+                            <a id="ctl16_TheatresRepeater_FooterLink_1" href="/Theatres/IMAX">IMAX®</a></li>
                     
                         <li>
-                            <a id="ctl12_TheatresRepeater_FooterLink_2" href="/Theatres/RealD-3D">RealD® 3D</a></li>
+                            <a id="ctl16_TheatresRepeater_FooterLink_2" href="/Theatres/RealD-3D">RealD® 3D</a></li>
                     
                         <li>
-                            <a id="ctl12_TheatresRepeater_FooterLink_3" href="/Theatres/Concessions">Concessions</a></li>
+                            <a id="ctl16_TheatresRepeater_FooterLink_3" href="/Theatres/Atmos">Dolby® Atmos™</a></li>
                     
                         <li>
-                            <a id="ctl12_TheatresRepeater_FooterLink_4" href="/Theatres/Grand-Openings">Grand Openings</a></li>
+                            <a id="ctl16_TheatresRepeater_FooterLink_4" href="/Theatres/Concessions">Concessions</a></li>
                     
                         <li>
-                            <a id="ctl12_TheatresRepeater_FooterLink_5" href="/Theatres/Captioning-and-Descriptive-Video">Captioning &amp; Descriptive Video</a></li>
+                            <a id="ctl16_TheatresRepeater_FooterLink_5" href="/Theatres/Grand-Openings">Grand Openings</a></li>
                     
                         <li>
-                            <a id="ctl12_TheatresRepeater_FooterLink_6" href="/Theatres/Admittance-Procedures">Admittance Procedures</a></li>
+                            <a id="ctl16_TheatresRepeater_FooterLink_6" href="/Theatres/Captioning-and-Descriptive-Video">Captioning &amp; Descriptive Video</a></li>
+                    
+                        <li>
+                            <a id="ctl16_TheatresRepeater_FooterLink_7" href="/Theatres/Admittance-Procedures">Admittance Procedures</a></li>
                     
                         </ul>
                     
@@ -381,28 +341,28 @@ We reserve the right to change the terms of this Privacy Policy from time to tim
                         <ul>
                     
                         <li>
-                            <a id="ctl12_TheatresRepeater2_FooterLink_0" href="/Theatres/Admittance-Procedures/MPAA-Rating-Information">MPAA Rating Information</a></li>
+                            <a id="ctl16_TheatresRepeater2_FooterLink_0" href="/Theatres/Admittance-Procedures/MPAA-Rating-Information">MPAA Rating Information</a></li>
                     
                         <li>
-                            <a id="ctl12_TheatresRepeater2_FooterLink_1" href="/Theatres/Group-Sales">Group Sales</a></li>
+                            <a id="ctl16_TheatresRepeater2_FooterLink_1" href="/Theatres/Group-Sales">Group Sales</a></li>
                     
                         <li>
-                            <a id="ctl12_TheatresRepeater2_FooterLink_2" href="/Theatres/Private-Screenings">Private Screenings</a></li>
+                            <a id="ctl16_TheatresRepeater2_FooterLink_2" href="/Theatres/Private-Screenings">Private Screenings</a></li>
                     
                         <li>
-                            <a id="ctl12_TheatresRepeater2_FooterLink_3" href="/Theatres/theatre-church">Theatre Church</a></li>
+                            <a id="ctl16_TheatresRepeater2_FooterLink_3" href="/Theatres/theatre-church">Theatre Church</a></li>
                     
                         <li>
-                            <a id="ctl12_TheatresRepeater2_FooterLink_4" href="/Theatres/Business-Events">Business Events</a></li>
+                            <a id="ctl16_TheatresRepeater2_FooterLink_4" href="/Theatres/Business-Events">Business Events</a></li>
                     
                         <li>
-                            <a id="ctl12_TheatresRepeater2_FooterLink_5" href="/Theatres/Birthday-Parties">Birthday Parties</a></li>
+                            <a id="ctl16_TheatresRepeater2_FooterLink_5" href="/Theatres/Birthday-Parties">Birthday Parties</a></li>
                     
                         <li>
-                            <a id="ctl12_TheatresRepeater2_FooterLink_6" href="/Theatres/Event-Request-Form">Event Request Form</a></li>
+                            <a id="ctl16_TheatresRepeater2_FooterLink_6" href="/Theatres/Event-Request-Form">Event Request Form</a></li>
                     
                         <li>
-                            <a id="ctl12_TheatresRepeater2_FooterLink_7" href="/theatre-list">Theatre List</a></li>
+                            <a id="ctl16_TheatresRepeater2_FooterLink_7" href="/theatre-list">Theatre List</a></li>
                     
                         </ul>
                     
@@ -415,16 +375,16 @@ We reserve the right to change the terms of this Privacy Policy from time to tim
                     <ul>
                 
                     <li>
-                        <a id="ctl12_ProductsRepeater_FooterLink_0" href="http://www.corporateboxoffice.com/default.aspx">Gift Cards</a></li>
+                        <a id="ctl16_ProductsRepeater_FooterLink_0" href="http://www.corporateboxoffice.com/default.aspx" target="_blank">Gift Cards</a></li>
                 
                     <li>
-                        <a id="ctl12_ProductsRepeater_FooterLink_1" href="http://corporateboxoffice.cashstar.com/gift-card/buy/?ref=reg1" target="_blank">eGift Cards</a></li>
+                        <a id="ctl16_ProductsRepeater_FooterLink_1" href="http://corporateboxoffice.cashstar.com/gift-card/buy/?ref=reg1" target="_blank">eGift Cards</a></li>
                 
                     <li>
-                        <a id="ctl12_ProductsRepeater_FooterLink_2" href="http://www.corporateboxoffice.com/c-2-discount-movie-tickets.aspx" target="_blank">Discount Movie Tickets</a></li>
+                        <a id="ctl16_ProductsRepeater_FooterLink_2" href="http://www.corporateboxoffice.com/c-2-discount-movie-tickets.aspx" target="_blank">Discount Movie Tickets</a></li>
                 
                     <li>
-                        <a id="ctl12_ProductsRepeater_FooterLink_3" href="http://www.corporateboxoffice.com/p-58-ultimate-movie-pack.aspx" target="_blank">Ultimate Movie Pack</a></li>
+                        <a id="ctl16_ProductsRepeater_FooterLink_3" href="http://www.corporateboxoffice.com/p-58-ultimate-movie-pack.aspx" target="_blank">Ultimate Movie Pack</a></li>
                 
                     </ul>
                 
@@ -436,22 +396,22 @@ We reserve the right to change the terms of this Privacy Policy from time to tim
                     <ul>
                 
                     <li>
-                        <a id="ctl12_CrownClubRepeater_FooterLink_0" href="/Crown-Club">Regal Crown Club</a></li>
+                        <a id="ctl16_CrownClubRepeater_FooterLink_0" href="/Crown-Club">Regal Crown Club</a></li>
                 
                     <li>
-                        <a id="ctl12_CrownClubRepeater_FooterLink_1" href="/Crown-Club/Forgot-your-password">Forgot your password?</a></li>
+                        <a id="ctl16_CrownClubRepeater_FooterLink_1" href="/Crown-Club/Forgot-your-password">Forgot your password?</a></li>
                 
                     <li>
-                        <a id="ctl12_CrownClubRepeater_FooterLink_2" href="/Crown-Club/Club-Rules">Club Rules</a></li>
+                        <a id="ctl16_CrownClubRepeater_FooterLink_2" href="/Crown-Club/Club-Rules">Club Rules</a></li>
                 
                     <li>
-                        <a id="ctl12_CrownClubRepeater_FooterLink_3" href="/Crown-Club/Rewards-Schedule">Rewards Schedule</a></li>
+                        <a id="ctl16_CrownClubRepeater_FooterLink_3" href="/Crown-Club/Rewards-Schedule">Rewards Schedule</a></li>
                 
                     <li>
-                        <a id="ctl12_CrownClubRepeater_FooterLink_4" href="/Crown-Club/Rewards-FAQ">Rewards FAQ</a></li>
+                        <a id="ctl16_CrownClubRepeater_FooterLink_4" href="/Crown-Club/Rewards-FAQ">Rewards FAQ</a></li>
                 
                     <li>
-                        <a id="ctl12_CrownClubRepeater_FooterLink_5" href="/Crown-Club/Sweepstakes">Sweepstakes</a></li>
+                        <a id="ctl16_CrownClubRepeater_FooterLink_5" href="/Crown-Club/Sweepstakes">Sweepstakes</a></li>
                 
                     </ul>
                 
@@ -463,28 +423,28 @@ We reserve the right to change the terms of this Privacy Policy from time to tim
                     <ul>
                 
                     <li>
-                        <a id="ctl12_AboutRegalRepeater_FooterLink_0" href="/About-Regal/Partners">Partners</a></li>
+                        <a id="ctl16_AboutRegalRepeater_FooterLink_0" href="/About-Regal/Partners">Partners</a></li>
                 
                     <li>
-                        <a id="ctl12_AboutRegalRepeater_FooterLink_1" href="http://investor.regmovies.com">Investor Relations</a></li>
+                        <a id="ctl16_AboutRegalRepeater_FooterLink_1" href="http://investor.regmovies.com">Investor Relations</a></li>
                 
                     <li>
-                        <a id="ctl12_AboutRegalRepeater_FooterLink_2" href="http://phx.corporate-ir.net/phoenix.zhtml?c=222211&amp;p=irol-news&amp;nyo=0">Press Releases</a></li>
+                        <a id="ctl16_AboutRegalRepeater_FooterLink_2" href="http://phx.corporate-ir.net/phoenix.zhtml?c=222211&amp;p=irol-news&amp;nyo=0">Press Releases</a></li>
                 
                     <li>
-                        <a id="ctl12_AboutRegalRepeater_FooterLink_3" href="/About-Regal/Logos">Logos</a></li>
+                        <a id="ctl16_AboutRegalRepeater_FooterLink_3" href="/About-Regal/Logos">Logos</a></li>
                 
                     <li>
-                        <a id="ctl12_AboutRegalRepeater_FooterLink_4" href="/About-Regal/Job-Opportunities">Job Opportunities</a></li>
+                        <a id="ctl16_AboutRegalRepeater_FooterLink_4" href="/About-Regal/Job-Opportunities">Job Opportunities</a></li>
                 
                     <li>
-                        <a id="ctl12_AboutRegalRepeater_FooterLink_5" href="/About-Regal/Community-Affairs">Community Affairs</a></li>
+                        <a id="ctl16_AboutRegalRepeater_FooterLink_5" href="/About-Regal/Community-Affairs">Community Affairs</a></li>
                 
                     <li>
-                        <a id="ctl12_AboutRegalRepeater_FooterLink_6" href="http://www.ncm.com/" target="_blank">NCM Media Networks</a></li>
+                        <a id="ctl16_AboutRegalRepeater_FooterLink_6" href="http://www.ncm.com/" target="_blank">NCM Media Networks</a></li>
                 
                     <li>
-                        <a id="ctl12_AboutRegalRepeater_FooterLink_7" href="/About-Regal/FAQ">FAQ</a></li>
+                        <a id="ctl16_AboutRegalRepeater_FooterLink_7" href="/About-Regal/FAQ">FAQ</a></li>
                 
                     </ul>
                 
@@ -522,7 +482,7 @@ We reserve the right to change the terms of this Privacy Policy from time to tim
     <div class="bottom clearfix">
         <div class="rights">
             <p>
-                ©2013 Regal Entertainment Group. All Rights Reserved.</p>
+                ©2014 Regal Entertainment Group. All Rights Reserved.</p>
         </div>
         <div class="products">
             
@@ -530,19 +490,19 @@ We reserve the right to change the terms of this Privacy Policy from time to tim
                 
                     <li>
                         <a target="_blank" href="http://www.coca-cola.com/template1/index.jsp?locale=en_US">
-                            <img id="ctl12_SponsorsRepeater_imgSponsor_0" src="/~/media/Images/Footer%20Sponsors/cocacola.ashx" alt="cocacola">
+                            <img id="ctl16_SponsorsRepeater_imgSponsor_0" src="/~/media/Images/Footer%20Sponsors/cocacola.ashx" alt="cocacola">
                         </a>
                     </li>
                 
                     <li>
                         <a target="_blank" href="http://www.sourpatch.com">
-                            <img id="ctl12_SponsorsRepeater_imgSponsor_1" src="/~/media/Images/Footer%20Sponsors/sourpatch.ashx" alt="sourpatch">
+                            <img id="ctl16_SponsorsRepeater_imgSponsor_1" src="/~/media/Images/Footer%20Sponsors/sourpatch.ashx" alt="sourpatch">
                         </a>
                     </li>
                 
                     <li>
                         <a target="_blank" href="http://www.nestleusa.com/">
-                            <img id="ctl12_SponsorsRepeater_imgSponsor_2" src="/~/media/Images/Footer%20Sponsors/raisinets.ashx" alt="raisinets">
+                            <img id="ctl16_SponsorsRepeater_imgSponsor_2" src="/~/media/Images/Footer%20Sponsors/raisinets.ashx" alt="raisinets">
                         </a>
                     </li>
                 
@@ -550,31 +510,232 @@ We reserve the right to change the terms of this Privacy Policy from time to tim
         </div>
         <div class="legal">
             <p>
-                <a id="ctl12_ctl05_Link" href="/Privacy-Policy">Privacy Policy</a>
+                <a id="ctl16_ctl05_Link" href="/Privacy-Policy">Privacy Policy</a>
                 |
-                <a id="ctl12_ctl06_Link" href="/Terms-of-Use">Terms of Use</a></p>
+                <a id="ctl16_ctl06_Link" href="/Terms-of-Use">Terms of Use</a></p>
         </div>
     </div>
 </div>
 
+            <!-- Footer End -->
         </div>
-        <!-- scripts: add plugins to plugins.js. add usage and custom scripts to global.js. -->
-        <!-- prop up some old versions of IE -->
-        <!--[if lte IE 7]>
-        <script type="text/javascript" src="/assets/js/json2.js"></script>
-        <![endif]-->
+        <div id="fb-root"></div>
+        <script type="text/javascript">
+            (function (d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=183932214990035";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+        </script>
+
         <script type="text/javascript" src="/assets/js/jquery-plugins.js"></script>
         <script type="text/javascript" src="/assets/js/date.js"></script>
-        <script type="text/javascript" src="/assets/js/global.js"></script>
         <script type="text/javascript" src="/assets/js/jquery.tweet.js"></script>
+        <script type="text/javascript" src="/assets/js/jquery.openCarousel.js"></script>
+        <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
+        <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/additional-methods.js"></script>
+
+        <!-- New JS Refs -->
+        
+            <script id="primary-theatre">
+                window.Regal = window.Regal || {};
+                Regal.userPrimaryTheatre = null ;Regal.movieFormats = [{"Name":"IMAX","Description":"IMAX® features high-quality images, customized theatre geometry, and laser-aligned digital sound.","CodeId":1002,"AmenityType":"Presentation","IconPath":"~/media/Images/Amenity Icons/IMAX.ashx","IsFormat":true,"Filterable":true},{"Name":"IMAX 3D","Description":"IMAX® 3D presents 3D movies with the high-quality images, sound, and screen that characterize the IMAX® experience.","CodeId":1005,"AmenityType":"Presentation","IconPath":"~/media/Images/Amenity Icons/IMAX 3D.ashx","IsFormat":true,"Filterable":true},{"Name":"RealD 3D","Description":"RealD is the most widely used digital 3D cinema technology.","CodeId":1009,"AmenityType":"Presentation","IconPath":"~/media/Images/Amenity Icons/REAL D 3D.ashx","IsFormat":true,"Filterable":true},{"Name":"Digital 3D","Description":"Digital 3D describes presentations where three-dimensional images are projected digitally.","CodeId":1014,"AmenityType":"Presentation","IconPath":"~/media/Images/Amenity Icons/DIGITAL 3D.ashx","IsFormat":true,"Filterable":false},{"Name":"Dolby 3D","Description":"Dolby® 3D delivers a high-quality 3D presentation using a unique full-spectrum color technology.","CodeId":1016,"AmenityType":"Presentation","IconPath":"","IsFormat":true,"Filterable":false},{"Name":"RPX","Description":"RPX auditoriums feature a large screen, digital projection, and surround sound.","CodeId":1019,"AmenityType":"Presentation","IconPath":"~/media/Images/Amenity Icons/RPX.ashx","IsFormat":true,"Filterable":true},{"Name":"Dolby Atmos","Description":"Dolby® Atmos™ delivers audiences a more natural and realistic sound field, transporting them into the story with a lifelike sensory experience.","CodeId":1036,"AmenityType":"Presentation","IconPath":"~/media/Images/Amenity Icons/DOLBY ATMOS.ashx","IsFormat":true,"Filterable":false},{"Name":"High Frame Rate","Description":"High frame rate (HFR) movies record and play visuals at twice the rate or higher of what’s seen in today’s cinemas.","CodeId":1541,"AmenityType":"Presentation","IconPath":"","IsFormat":true,"Filterable":false}];
+
+                window.Regal.Rewards = window.Regal.Rewards || {};
+                Regal.Rewards.userRewardsBalance = 0
+            </script>
+        
+
+
+
+
+        <script type="text/javascript" src="/assets/js/knockout-3.0.0.debug.js"></script>
+        <script type="text/javascript" src="/assets/js/rewards-program.js"></script>
+        <script type="text/javascript" src="/assets/js/regal.js"></script>
+        <script type="text/javascript" src="/assets/js/fandango-models.js"></script>
+
+        <script type="text/javascript" src="/assets/js/theatre-listing.js"></script>
+        <script type="text/javascript" src="/assets/js/modal.js"></script>
+        <script type="text/javascript" src="/assets/js/RCCSlider.js"></script>
+        <script type="text/javascript" src="/assets/js/RCCToggleRules.js"></script>
+        <script type="text/javascript" src="/assets/js/movie-listings.js"></script>
+        <script type="text/javascript" src="/assets/js/movie-details.js"></script>
+        <script type="text/javascript" src="/assets/js/theatre-details.js"></script>
+        <script type="text/javascript" src="/assets/js/home.js"></script>
+        <script type="text/javascript" src="/assets/js/theatre-landing.js"></script>
+
+        <script type="text/javascript" src="/assets/js/rcc.js"></script>
+        <!-- #modal-showtimes .modal -->
 
         <!-- end scripts-->
+        
+
+<div id="modal-trailer" class="modal-trailer">
+    <div class="no-data-avail" style="display: none;background-color: white;width:800px;padding:7px;"><h1>Trailer Currently Unavailable.</h1>
+        <p>We're sorry, the selected trailer is not available.</p>
+    </div>
+    <iframe id="trailer-frame" height="468" width="865" seamless="seamless"></iframe>
+</div>
+
+        
+
+<div id="modal-showtimes" class="modal-showtimes isshowing">
+
+    <h1>Select a showtime</h1>
+
+    <div class="modal-form">
+        <div class="modal-form-left">
+            <div class="modal-form-label"><span class="icon location"></span>Location:</div>
+            <div class="my-theatre box-outline active" data-bind="click: $root.changeLocation">
+                
+
+                <div class="theatre-name" data-bind="text: (theatre() &amp;&amp; theatre().TheatreName) || ''">
+                    (<a href="#">Change Location</a>)
+                </div>
+                <!-- ko with: theatre() -->
+                    <div class="theatre-address" data-bind="text: Address1 + ', ' + City + ' ' + State + ' ' + PostalCode"></div>
+                <!-- /ko -->
+            </div>
+        </div>
+
+        <div class="modal-form-right">
+            <div class="modal-form-label">
+                <span class="icon date"></span>Date:
+            </div>
+            <div class="date btn box-outline active">
+
+                <!--
+                    JQuery UI automatically selects the first input element available under IE 8. Other browsers will perform correctly but in order
+                    to maintain compatibility this element will take that auto selection but perform no action, thus maintaining functionality. 
+                -->
+                <input style="height:0px; width:0px;">
+
+                <input type="text" name="showtimeDate" data-bind="datepicker: selectedDate, 
+                datepickerOptions: { minDate: -1, defaultDate: new Date(), dateFormat: 'DD - M d, yy' }">
+                <span class="icon-calendar"></span>
+            </div>
+        </div>
+    </div>
     
+    <script>
+        $(document).ready(function() {
+            $(".modal-form .modal-form-right .date").click(function() {
+                $(".date.active  input[name='showtimeDate'].hasDatepicker").datepicker("show");
+            });
+        });
+    </script>
 
-<script type="text/javascript">
-//<![CDATA[
-$(document).ready(function (){setDefaultInputText('#site-find-location', 'Enter City, State or ZIP');setDefaultInputText('#site-find-date', 'Today, Dec 04');setDefaultInputText('#site-search-movies', 'Movies, Theatres and More!');});//]]>
-</script>
-</form>
+    <div class="faded-rule"></div>
 
-</body></html>
+    <div class="showtime-result" data-bind="visible: !movieGroup() &amp;&amp; !isLoading()">
+        <h1>We're Sorry</h1>
+        <h2>There are no showings at the selected theatre</h2>
+        <div>Please select a different date, theatre, or movie</div>
+    </div>
+
+    <div class="showtime-result time-listing-4-wide">
+        <!-- how many showtimes are shown per row -->
+
+        <div class="image-area" data-bind="with: selectedMovie()">
+            <a href="#" data-bind="attr: { href: DetailsUrl }">
+                <img data-bind="attr: { src: PosterLink, alt: MovieName }">
+            </a>
+        </div>
+        <div class="results">
+            <div class="result-info header" data-bind="with: selectedMovie()">
+                <div class="result-left">
+                    <div class="title"><a href="#" data-bind="text: MovieName, attr: { href: DetailsUrl }"></a></div>
+                    <div>
+                        <span class="rating" data-bind="css: 'rating-' + (MovieRating || 'NR').toLowerCase().replace(/-/, '')"></span>
+                        <!-- ko text: hours + ' hour(s)' + minutes + ' minutes' -->
+                        <!-- /ko -->
+                    </div>
+                </div>
+            </div>
+            <div data-bind="template: { name: 'movie-grouped-showtimes-template', foreach: movieGroup }">
+
+            </div>
+        </div>
+
+    </div>
+    <!-- .showtime-result -->
+    <div data-bind="css: { 'preloader': isLoading() }, if: isLoading()"></div>
+</div>
+
+        
+
+    <div id="modal-location" class="modal-location">
+        <div class="modal-contents">
+            <h1>Enter your location and select a theatre for showtimes</h1>
+
+            <div class="modal-form">
+                <label class="results-for">
+                    <div class="label">Results for </div>
+                    <div>
+                        <input name="locationEntryField" data-bind="value: searchString, valueUpdate: 'keypress', event: { keypress: searchKeyPressHandler }" type="text" placeholder="City &amp; State or Zip">
+                        <button id="theatre-location-search" data-bind="click: search">
+                            <span class="icon-magnify-glass">&nbsp;</span></button>
+
+                    </div>
+                </label>
+            </div>
+            <div id="error" data-bind="if: theatreData().length < 1 &amp;&amp; isLoading() === false">
+                <span data-bind="ifnot: searchContext">
+                    No Theatres in or near this Zip code
+                </span>
+                <span data-bind="if: searchContext">
+                    No theatres in your area are playing the selected movie
+                </span>
+        </div>
+            <div class="faded-rule"></div>
+
+            <ul id="tlisting" class="results modal-scroll" data-bind="foreach: theatreData">
+                <li>
+                    <div class="distance">
+                        <div class="mileage" data-bind="text: DistanceMiles"></div>
+                        <div>miles away</div>
+                    </div>
+                    <div class="theatre-info">
+                        <div class="theatre-name ">
+                            <a href="#" class="theatre-link" data-bind="attr: { href: DetailsUrl }">
+                            <span class="theater-link" data-bind="text: TheatreName"></span></a>
+                             
+                        </div>
+                        <div class="theatre-address" data-bind="text: Address1"></div>
+                        <div class="theatre-address" data-bind="text: Address2"></div>
+                        <div>
+                            <span class="theatre-address" data-bind="text: City + ', '"></span>
+                            <span class="theatre-address" data-bind="text: State + ' '"></span>
+                            <span class="theater-address" data-bind="text: PostalCode"></span>
+                        </div>
+                        <div class="theatre-phone" data-bind="text: PhoneNumber"></div>
+                        <div data-bind="visible: $parent.searchContext()">
+                            <a href="#" class="btn gray wide showtimes" data-bind="click: $parent.seeShowtimesClickHandler">See Showtimes</a>
+                        </div>
+
+                        <div data-bind="visible: !$parent.searchContext()">
+                            <a href="#" class="btn gray wide theatreButton" data-bind="click: $parent.chooseTheatreClickHandler">Set as Favorite</a>
+                        </div>
+
+                    </div>
+
+                </li>
+            </ul>
+
+        </div>
+
+    </div>
+
+
+        
+
+<div id="modal-trailer-youtube" style="display:none; padding:15px; background-color:black;">
+    <iframe id="trailer-frame-youtube" height="468" width="865" frameborder="0" allowfullscreen=""></iframe>
+</div>
+          
+    </form>
+<script type="text/javascript"> if (!NREUMQ.f) {NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script"); e.type="text/javascript"; e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js"; document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-4.newrelic.com","45189b29d3","2660412","ZgQHYkdRX0sFV0AMDF9OJGVlH11ZHVtBERAeDARFQVVDVAVNWxAXQk4HRFpHQl0WWFUcDEQVS1dGQEk=",0,71,new Date().getTime(),"C3B3C9934397C156","","","",""]);</script>
+
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
