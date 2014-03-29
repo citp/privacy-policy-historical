@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fancyhands.com privacy policy that was archived on 2013-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130603164141id_/http%3A//www.fancyhands.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fancyhands.com privacy policy that was archived on 2014-03-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140329070109id_/https%3A//www.fancyhands.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><!--<![endif]--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# fancyhands: http://ogp.me/ns/fb/fancyhands#">
 
@@ -44,17 +44,17 @@
     <title>Fancy Hands - Privacy Policy</title>    
 
     <link rel="icon" href="/images/fh-favicon.png" type="image/png">
-    <link rel="stylesheet" href="/styles/_main.min.css?7c76fbf59fd3924dbf4911142b7e6fc2" type="text/css">
+    <link rel="stylesheet" href="/styles/_main.min.css?1b74d6067c6f02a9dd10b272e0c3593e" type="text/css">
 
     
   
     <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 
-<script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/7e4e50675c08ad3a9c5b19ae17b03d82aba78862.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=185325154811914"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body id="fh-body" class="">
     <div id="fb-root"></div>
-    <div id="overlay" class="overlay hidden"></div>
+    <div class="popup-overlay"></div>
   
     
     
@@ -64,50 +64,43 @@
             <div class="content">
                 <div class="header-top cf">
                     <a id="logo-link" class="left" href="/">
-                        <img class="logo" src="/images/Fancy-Hands-Logo.png">
+                        <img class="logo" src="/images/Fancy-Hands-Logo.png"> 
                     </a>
-                    <div class="signin hidden">
+                    <div class="signin hidden" style="display: block;">
                         <a id="signin" href="/dashboard">Sign In</a>
-                        <a id="signup-btn" class="button red" href="/ensure/signup/with/chooser">Sign Up</a> 
+                        <a id="signup-btn" data-show-popup="signup-window-popup" class="button red" href="/ensure/signup/with/chooser">Sign Up</a> 
                     </div>
                     <div class="account-nav hidden">
-                        <div class="nomargin">
-                            <span id="nav-dropdown-activator">
-                                <a id="nav-dropdown" href="#"></a> Hello, 
-                                <span id="first-name"></span>
-                            </span> 
-                        </div>
-                        <div class="triangle hidden"></div>
-                        <div class="nav-menu hidden">
-                            <ul>
-                                
-                                
-                                    <a href="/dashboard/"><li>Dashboard</li></a>
-                                    <a href="/extras/"><li>Extras</li></a>
-                                    <a href="/conference-calls/"><li>Conference Calling</li></a>
-                                    
-                                    
-                                        
-                                            <a href="/teamwork/admin/"><li>TeamWork</li></a>
-                                        
-                                    
-                                
-                                <a href="/billinginfo/"><li>Billing Information</li></a>
-                                
-                                <a href="/userinfo/"><li>User Information</li></a>
 
+                            <div class="header-notifications">
+                                <i class="icon-bell-alt"></i>
+                            </div>
+                            <div id="nav-dropdown-activator" class="inline-block">
+                                <span>
                                 
-                                <a id="signout" href="/signout/"><li>Sign Out</li></a>
-                            </ul>
-                        </div>
+                                    Welcome!
+                                
+                                </span>
+                                
+                                    <img id="header-user-avatar" src="/images/fh-default-avatar.png"> 
+                                
+                            </div>
                     </div>
                     
                     <nav>
                         
+                            
+                            <a href="/teamwork" km-log-click="">For Businesses<span style=" font-size: 8px;
+                                        font-weight: bold;
+                                        position: relative;
+                                        top: -5px;
+                                        left: 3px;
+                                        color: #3EA3F3;">
+                            NEW</span></a>
                             <a href="/about">About</a>
                             <a href="/faq">FAQs</a>
                             
-                            <a id="scroll_to_plans" href="/#pricing">Plans &amp; Pricing</a>
+                            <a class="scroll_to_plans" href="/#pricing">Plans &amp; Pricing</a>
                             
                         
                     </nav>
@@ -141,6 +134,8 @@
 </div>
 
 
+    <!-- FOOTER
+    =========================================-->
     
     <footer>
       <div class="footer-border"></div>
@@ -169,11 +164,12 @@
           
           <div class="copyright">
                     <div class="footer-links">
-                        <a href="/support"> SUPPORT </a> <span class="pipe">|</span>
+                        <a href="/developer">DEVELOPERS </a> <span class="pipe">|</span>
+                        <a href="/support">CONTACT US </a> <span class="pipe">|</span>
                         <a href="/privacy-policy"> PRIVACY POLICY</a> <span class="pipe">|</span> 
                         <a href="/tos"> TERMS OF SERVICE</a>
                     </div>
-                    FANCY HANDS, INC. © 2010 — 2013
+                    FANCY HANDS, INC. © 2010 — 2014
                 </div>
             </div>
             <div id="patriotism">
@@ -197,33 +193,804 @@
     <div id="login-window-popup" class="popup hidden">
         <a class="popup-close" href="#"><i class="fh-icon-xfactor"></i></a>
         <h1 class="fancy popup-title">Sign In</h1>
-        <h2 class="fancy">This is painless, we'll just use an existing account.</h2>
-        <a class="login-button btn google" href="/google/login?send_to=/dashboard">
-            <img src="/images/google-icon.png">
-            <strong>Sign In</strong> with Google
+        <h2>We use Google or Facebook as your Fancy Hands sign in</h2>
+        <small>This does <strong>not</strong> give us access to your passwords, emails or allow us to post anything to your profile without your permission. </small>
+        <a class="button red" href="/google/login?send_to=/dashboard">
+            <i class="icon-google-plus"></i>
+            <span>Sign In with Google</span>
         </a>
-        <a class="login-button btn facebook" href="/fb/login?send_to=/dashboard">
-            <img src="/images/facebook-icon.png">
-            <strong>Sign In</strong> with Facebook
+        <a class="button red" href="/fb/login?send_to=/dashboard">
+            <i class="icon-facebook"></i>
+            <span>Sign In with Facebook</span>
         </a>
-        <p><small>This will <strong>not</strong> give us access to your password, email, or anything else.</small></p>
-        <p><small>We'll <strong>never</strong> post to your profile without your permission.</small></p>
+    </div>
+
+    <div id="signup-window-popup" class="popup hidden">
+        <a class="popup-close" href="#"><i class="fh-icon-xfactor"></i></a>
+        <div id="initial">
+        <h1 class="fancy popup-title">Sign Up</h1>
+        <h2>We use Google or Facebook as your Fancy Hands sign in</h2>
+        <small>This does <strong>not</strong> give us access to your passwords, emails or allow us to post anything to your profile without your permission. </small>
+        <a class="button red" href="/google/login?send_to=/dashboard?welcome-to-fancyhands">
+            <i class="icon-google-plus"></i>
+            Sign Up with Google
+        </a>
+        <a class="button red" href="/fb/login?send_to=/dashboard?welcome-to-fancyhands">
+            <i class="icon-facebook"></i>
+            Sign Up with Facebook
+        </a>
+    </div>
+        
     </div>
 
     <div id="signout-window-popup" class="popup hidden">
         <a class="popup-close" href="#"><i class="fh-icon-xfactor"></i></a>
         <h1 class="fancy popup-title">Sign Out</h1>
-        <h2 class="fancy">Are you sure you want to sign out?</h2>
+        <h2>Are you sure you want to sign out?</h2>
         <a href="/signout/" class="blue button">Sign me out</a>
         <a class="decline popup-close">Nevermind</a>
     </div>
 
     <div id="america" class="popup hidden"></div>
 
+    <div id="settings-popup" class="popup hidden">
+    <a class="popup-close" href="#"><i class="fh-icon-xfactor"></i></a>
+    <nav class="tabs">
+        <a href="#settings-user-info" class="active">Account Profile
+        </a><a href="#settings-connect-services">Connect Services
+        </a><a href="#settings-extras">Extras
+        </a><a href="#settings-preferences">Preferences</a>
+        <!-- note: closing tags ommitted to prevent spacing issue -->
+    </nav>
+    <div id="settings-error-wrapper" class="hidden">
+        <i class="fh-icon-xfactor close-parent"></i>
+        <span id="error-message"></span>
+    </div>
+    <div class="tab-content">
+        <!-- USER INFO
+        ====================================== -->
+        <div id="settings-user-info" class="flow-step active">
+            
+            <!-- USER PROFILE -->
+
+            <div id="user-profile">
+                <span class="edit-profile-trigger right">edit</span>
+                <div class="left" style="width: 180px;">
+                     <img class="user-avatar" src="/images/default-avatar-250x250.png">
+                    
+                        <a id="facebook-avatar-connect" href="?show-settings#settings-connect-services&amp;drawer=facebook-settings">Add your avatar by connecting with Facebook</a> 
+                    
+                </div>
+               
+                <div id="info-container">    
+                    <h2></h2>
+                    <h6>Member since </h6>
+                    <section>
+                        <i class="icon-envelope"></i>
+                        <span id="primary_email_display">no email saved</span>
+                    </section>
+                    <section class="hidden">
+                        <i class="icon-home"></i>
+                        <span id="home_address_display">  <span>•</span>
+                        ,  <span>•</span> 
+                        </span>
+                    </section>
+                    <section class="hidden">
+                        <i class="icon-briefcase"></i>
+                        <span id="work_address_display">  <span>•</span>
+                        ,  <span>•</span> 
+                        </span>
+                    </section>
+                    <section class="hidden">
+                        <i class="icon-phone"></i>
+                        <span id="primary_phone_display"></span>
+                    </section>
+
+                    
+                       <div id="complete-your-profile">Complete the rest of your profile!<span>⤴</span></div>
+                    
+                    
+                   
+                </div>
+            </div>
+            
+            <!-- EDIT PROFILE -->
+
+            <div id="edit-user-info" class="hidden">    
+                <span class="user-profile-trigger right">back</span>
+                <h1 class="fancy">Edit User Information</h1>
+                <form method="POST" id="userinfo-form" onsubmit="addEmail();" action="">
+                    <input type="hidden" name="next" value="/dashboard/">
+                    <div class="columns nine">      
+                        <h4>Name</h4>
+                        <input type="text" name="first_name" id="first_name_field" class="input_text" placeholder="First Name" value="">
+                        <input type="text" name="last_name" id="last_name_field" class="input_text" placeholder="Last Name" value="">
+
+                        <hr class="dropped">
+                        
+                        <h4 for="home_street_1">Home Address</h4>
+                        <input type="text" id="home_street_1" name="home_street_1" class="input_text address street" placeholder="Street Address" value="">
+                        <input type="text" id="home_street_2" name="home_street_2" class="input_text address street" placeholder="Apt/Suite" value="">
+                        <input class="input_text address city" size="30" type="text" placeholder="City" name="home_city" id="home_city" value="">
+                        <input class="input_text address state" size="3" type="text" placeholder="State" name="home_state" id="home_state" value="">
+                        <input class="input_text address zip" size="6" type="text" placeholder="Zip" name="home_zip" id="home_zip" value="">
+
+                        <hr class="dropped">
+
+                        <h4 for="work_street_1">Work Address</h4>
+                        <input type="text" id="work_street_1" name="work_street_1" class="input_text address street" placeholder="Street Address" value="">
+                        <input type="text" id="work_street_2" name="work_street_2" class="input_text address street" placeholder="Apt/Suite" value="">
+                        <input class="input_text address city" size="30" type="text" placeholder="City" name="work_city" id="work_city" value="">
+                        <input class="input_text address state" size="3" type="text" placeholder="State" name="work_state" id="work_state" value="">
+                        <input class="input_text address zip" size="6" type="text" placeholder="Zip" name="work_zip" id="work_zip" value="">
+
+                    </div>
+                    <div class="columns seven">
+                        <div>
+                            <h4 id="userinfo-phone" for="phone_number">Primary Phone Number</h4>
+                            <input type="text" name="phone_number" id="phone_number" class="input_text phone" placeholder="(123) 456-7890" value="">
+                        </div>
+                        <div class="email-wrapper">
+                            <h4>Alternate Email Addresses</h4>
+                            <section id="alternate-email-addresses" class="hidden">
+                                
+                            </section>
+
+                            <input id="_addl_email" type="email" placeholder="Add alternate email address"> 
+                            <button id="add-alt-email-address-button" class="button right">Add</button>
+                            <small>In case you want to send from other email accounts</small>
+                        </div>
+                    </div>  
+                </form>
+                <div>
+                    <button id="userinfo-form-save" class="blue button right" type="submit">Save</button>
+                </div>
+            </div>
+        </div>
+        
+
+        <!-- CONNECT SERVICES
+        ====================================== -->
+        <div id="settings-connect-services" class="flow-step">
+            <h1 class="fancy">Connect Services</h1>
+            <h5>This information will help us perform tasks for you with better results. It’s not required but is suggested to make the most of your subscription.</h5>
+            
+            
+
+            <!-- GOOGLE CALENDAR and FACEBOOK
+            ================================================================== -->
+            <div class="content">    
+                <div class="columns eight">
+                    <div class="service-info " data-expand="#google-calendar-settings">
+                        <div id="google-cal" class="service-logo"></div>
+                        <h3>Google Calendar</h3>
+                        <i class="fh-icon-check"></i>                       
+                    </div>                
+                </div>
+                <div class="columns eight">
+                    <div class="service-info " data-expand="#facebook-settings">
+                        <div id="facebook" class="service-logo"></div>
+                        <h3>Facebook</h3>
+                        <i class="fh-icon-check"></i>
+                    </div>                
+                </div>
+                
+            </div>
+            
+            <div id="google-calendar-settings" class="manage-service-drawer">
+                <div class="spacer lefty"></div>
+                <div class="settings-content-wrapper">
+                    
+    <h2>Scheduling with Google Calendar</h2>
+    
+    <div class="label-explanation">Giving access to your calendar allows us to view, add, and edit events on your Google Calendar. So if you ask us to schedule an appointment and add it to your calendar, we can do that. <strong>We never have access to your password.</strong></div>
+    
+    
+        <a class="button red" href="/google/login?send_to=/dashboard/?show-settings%23settings-connect-services%26drawer=google-calendar-settings">
+            <i class="icon-google-plus"></i>
+            Sign In with Google
+        </a>
+        <a class="button red" href="/fb/login?send_to=/dashboard/?show-settings%23settings-connect-services%26drawer=google-calendar-settings">
+            <i class="icon-facebook"></i>
+            Sign In with Facebook
+        </a>
+    
+
+
+
+
+                </div>
+            </div>
+
+            
+
+            <div id="facebook-settings" class="manage-service-drawer">
+                <div class="spacer righty"></div>
+                <div class="settings-content-wrapper">
+                    
+<h2>Facebook Integration</h2>
+
+
+	<p class="label-explanation">This is not required, but the information allows us to better anticipate the things you need and the things you're going to want us to do. This information is kept private and used by our servers to help find task suggestions. Your assistants will not have direct access to any of this information.</p>
+	<div>
+		
+		    <a class="button red" href="/google/login?send_to=/dashboard/?show-settings%23settings-connect-services%26drawer=facebook-settings">
+		        <i class="icon-google-plus"></i>
+		        Sign In with Google
+		    </a>
+		    <a class="button red" href="/fb/login?send_to=/dashboard/?show-settings%23settings-connect-services%26drawer=facebook-settings">
+		        <i class="icon-facebook"></i>
+		        Sign In with Facebook
+		    </a>
+			
+	</div>
+
+                </div>
+            </div>
+
+
+            <!-- BASECAMP and DO
+            ================================================================== -->
+            <div class="content">    
+                <div class="columns eight">
+                    <div class="service-info " data-expand="#basecamp-settings">
+                        <div id="basecamp" class="service-logo"></div>
+                        <h3>Basecamp</h3>
+                        <i class="fh-icon-check"></i>
+                    </div>                
+                </div>
+                <div class="columns eight">
+                    <div class="service-info " data-expand="#evernote-settings">
+                        <div id="evernote" class="service-logo"></div>
+                        <h3>Evernote</h3>
+                        <i class="fh-icon-check"></i>
+                    </div>                
+                </div>
+            </div>
+
+           
+            <div id="basecamp-settings" class="manage-service-drawer">
+                <div class="spacer lefty"></div>
+                <div class="settings-content-wrapper">
+                    
+ <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0012/8218.js?439008" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/7e4e50675c08ad3a9c5b19ae17b03d82aba78862.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=185325154811914"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript">
+    // var basecamp_auth_status = "";
+    // var basecamp_auth_status = "";
+    
+    // // IF THE USER'S STATUS IS PENDING REFRESH THE PAGE
+    // 
+</script>
+
+    <h2>Basecamp Integration</h2>
+    <div class="label-explanation"><strong>Classic version only.<br></strong>Assign Basecamp todo items to Fancy Hands. Connect your account to begin.</div>
+    
+        
+            <form method="POST" id="connect-form">
+                <label>
+                    Basecamp URL<a href="/help/basecamp-setup" class="help right" target="_blank">Need help?</a>
+                    <input type="text" name="basecamp_project" id="basecamp_project" placeholder="https://your-company.basecamphq.com" value="">
+                </label>
+
+                <label>
+                    Basecamp API Token
+                    <input type="text" name="basecamp_api_token" id="basecamp_api_token" placeholder="Enter your API Token here" value="">
+                </label>
+                
+                    <a class="button red" href="/google/login?send_to=/dashboard/?show-settings%23settings-connect-services%26drawer=basecamp-settings">
+                        <i class="icon-google-plus"></i>
+                        Sign In with Google
+                    </a>
+                    <a class="button red" href="/fb/login?send_to=/dashboard/?show-settings%23settings-connect-services%26drawer=basecamp-settings">
+                        <i class="icon-facebook"></i>
+                        Sign In with Facebook
+                    </a>
+                
+            </form>
+        
+    
+    
+    <div class="status">
+        
+      
+            
+                
+                    
+                
+            
+        
+           
+        <div id="finish-target">
+            <h2>Great! We're all set</h2>
+        </div>
+          
+        <div id="try-again">
+            <strong>Yikes!</strong> Looks like the company <em>Fancy Hands</em> is not set up in your basecamp project. <a href="/basecamp/setup">Care to try again?</a>
+        </div>
+    </div>
+
+    
+
+    <div class="tutorial-note">
+        <div class="title">Basecamp Integration Tutorial</div>
+        <div class="content">Need help setting up your basecamp? Follow our simple tutorial to walk you through</div>
+        <div class="link"><a href="/help/basecamp-tutorial">View Tutorial Here</a></div>
+    </div>
+
+                </div>
+                
+            </div>
+
+            
+            <div id="evernote-settings" class="manage-service-drawer">
+                <div class="spacer righty"></div>
+                <div class="settings-content-wrapper">
+                    
+<h2>Archive your tasks to Evernote</h2>
+
+
+    
+    <p class="label-explanation">
+        Evernote enables you to remember everything. When you integrate your Evernote with Fancy Hands, we'll automatically archive your requests, your assistants' responses and attachments directly to Evernote. You'll be able to access them on your phone, on the desktop, and everywhere else that you use Evernote.
+    </p>
+    <div class="connect-housing">
+        
+            <a class="button red" href="/google/login?send_to=/dashboard/?show-settings%23settings-connect-services%26drawer=evernote-settings">
+                <i class="icon-google-plus"></i>
+                Sign In with Google
+            </a>
+            <a class="button red" href="/fb/login?send_to=/dashboard/?show-settings%23settings-connect-services%26drawer=evernote-settings">
+                <i class="icon-facebook"></i>
+                Sign In with Facebook
+            </a>
+        
+    </div>
+
+
+
+
+
+
+
+                </div>
+            </div>
+            
+            
+            <!-- ASANA and TRELLO
+            ================================================================== -->
+            <div class="content">    
+                <div class="columns eight">
+                    <div class="service-info " data-expand="#asana-settings">
+                        <div id="asana" class="service-logo"></div>
+                        <h3>Asana</h3>
+                        <i class="fh-icon-check"></i>
+                    </div>                
+                </div>
+                <div class="columns eight">
+                    
+                    <div class="service-info  " data-expand="#trello-settings">
+                        <div id="trello" class="service-logo"></div>
+                        <h3>Trello</h3>
+                        <i class="fh-icon-check"></i>
+                    </div>                
+                </div>
+            </div>
+
+            <div id="asana-settings" class="manage-service-drawer">
+                <div class="spacer lefty"></div>
+                <div class="settings-content-wrapper">
+                    
+<h2>Delegate to us directly from Asana </h2>
+<p class="label-explanation">You've got a list of everything that needs to get done inside of <a href="//asana.com" target="_blank">Asana</a>. Sync your Asana account with Fancy Hands and let us do some of those things.</p>
+
+<h3>THE WAY IT WORKS IS SIMPLE:</h3>
+<ol>
+    <li>Add us to your project. - asana@fancyhands.com <a href="#" data-toggle-target="asana-add-us" style="font-size: 12px; margin-left: 10px;">How?</a></li>
+    <li>Pick tasks that you don't want to do.</li>
+    <li>Assign those task to Fancy Hands.</li>
+    <li>Watch as they get marked as completed.</li>
+</ol>
+
+
+    <a class="button red" href="/google/login?send_to=/dashboard/?show-settings%23settings-connect-services%26drawer=asana-settings">
+        <i class="icon-google-plus"></i>
+        Sign In with Google
+    </a>
+    <a class="button red" href="/fb/login?send_to=/dashboard/?show-settings%23settings-connect-services%26drawer=asana-settings">
+        <i class="icon-facebook"></i>
+        Sign In with Facebook
+    </a>
+
+
+<div class="small-print">
+    Attachments are not currently supported due to Asana API limitations.
+</div>
+
+<div id="asana-add-us" class="settings-instructions hidden">
+    <i class="fh-icon-xfactor close-parent"></i>
+    <h1 class="fancy popup-title">How do I invite Fancy Hands?</h1>
+	<div class="center">
+	   <img src="/images/asana/add-us-step-1.png" class="center">
+	   <div class="caption" style="margin-bottom: 2em;">
+	       From the project menu, click the "Gears" and then, "Invite and Manage Members"
+	   </div>
+	</div>
+    <div class="center"></div>
+	<div class="center">
+	    <img src="/images/asana/add-us-step-2.png" class="center">
+	    <div class="caption" style="margin-bottom: 2em;">
+	       Enter <code>asana@fancyhands.com</code> as the email address and "Fancy Hands" as the Name. Then send the invite.
+	    </div>
+	</div>
+</div>
+
+                </div>
+            </div>
+            <div id="trello-settings" class="manage-service-drawer">
+                <div class="spacer righty"></div>
+                <div class="settings-content-wrapper">
+                    
+    <h2>Delegate to us directly from Trello</h2>
+    
+    <p class="label-explanation">You've got a list of everything that needs to get done inside of <a href="//trello.com" target="_blank">Trello</a>. Sync your Trello account with Fancy Hands and let us do some of those things.</p>
+    
+    <h3>THE WAY IT WORKS IS SIMPLE:</h3>
+    <ol>
+        <li>Add us to your project. - <b>(fancy_hands)</b> - trello@fancyhands.com <a href="#" data-toggle-target="trello-add-us" style="font-size: 12px; margin-left: 10px;">How?</a></li>
+        <li>Pick tasks that you don't want to do.</li>
+        <li>Assign those tasks to Fancy Hands.</li>
+        <li>Relax as your assistants complete your tasks.</li>
+    </ol>
+    
+    
+        <a class="button red" km-log-click="" href="/google/login?send_to=/dashboard/?show-settings%23settings-connect-services%26drawer=trello-settings">
+            <i class="icon-google-plus"></i>
+            Sign In with Google
+        </a>
+        <a class="button red" km-log-click="" href="/fb/login?send_to=/dashboard/?show-settings%23settings-connect-services%26drawer=trello-settings">
+            <i class="icon-facebook"></i>
+            Sign In with Facebook
+        </a>
+    
+    
+    <div id="trello-add-us" class="settings-instructions hidden">
+        <i class="fh-icon-xfactor close-parent"></i>
+        <h1 class="fancy popup-title">How do I invite Fancy Hands?</h1>
+    	<div class="center">
+    	   <img src="/images/trello/trello-one.png" class="center">
+    	   <div class="caption" style="margin-bottom: 2em;">
+    	       From the board sidebar, click the "Add Members" button and then add <b>fancy_hands</b>
+    	   </div>
+    	</div>
+        <div class="center">
+           <img src="/images/trello/trello-three.png" class="center">
+           <div class="caption" style="margin-bottom: 2em;">
+               Pick a card to assign to Fancy Hands and click the <b>Assign</b> button.
+           </div>
+        </div>
+	    <div class="center"></div>
+    	<div class="center">
+    	    <img src="/images/trello/trello-two.png" class="center">
+    	    <div class="caption" style="margin-bottom: 2em;">
+    	       Add Fancy Hands (fancy_hands) to the card.
+    	    </div>
+    	</div>
+    </div>
+    
+                </div>
+            </div>
+
+            <!-- EVERNOTE
+            ================================================================== -->
+            <div class="content">    
+                
+                <!-- GOOGLE CONTACTS 
+                <div class="columns eight">
+                    <div class="service-info" data-expand="#google-contacts-settings">
+                        <div id="google-contacts" class="service-logo"></div>
+                        <h3>Google Contacts</h3>
+                        <i class="fh-icon-check"></i>
+                    </div>                
+                </div> -->
+            </div>
+        
+           
+
+            <!-- GOOGLE CONTACTS 
+            <div id="google-contacts-settings" class="manage-service-drawer">
+                <div class="spacer righty"></div>
+                <div class="settings-content-wrapper">
+                    <h2>Connect with your Google Contacts</h2>
+                    <p class="label-explanation">Let us leverage your contacts for even better suggestions. PLease change this copy.</p>
+                    <div><button id="google-connect-button" class="button red">Connect Contacts</button></div>
+                </div>
+            </div> -->
+            
+        </div>
+
+        <!-- EXTRAS
+        ====================================== -->
+        <div id="settings-extras" class="flow-step">
+            <h1 class="fancy">Extras</h1>
+            <h5>Get the most out of Fancy Hands with these extras.</h5>
+            <div class="content">    
+                <div class="columns eight">
+                    <div class="service-info " data-expand="#personal-touch-settings">
+                        <div id="personal-touch" class="service-logo"></div>
+                        <h3>Personal Touch</h3>
+                        <i class="fh-icon-check"></i>                       
+                    </div>                
+                </div>
+                
+                <div class="columns eight">
+                    <div class="service-info " data-expand="#looking-ahead-settings">
+                        <div id="looking-ahead" class="service-logo"></div>
+                        <h3>Looking Ahead</h3>
+                        <i class="fh-icon-check"></i>
+                    </div>                
+                </div>
+            </div>
+            
+            <div id="personal-touch-settings" class="manage-service-drawer">
+                <div class="spacer lefty"></div>
+                <div class="settings-content-wrapper">
+                    
+    <h1 class="fancy">Personal Touch</h1>
+        <div id="intro-personal-touch">
+            <div class="label-explanation">
+    	        As a member of Fancy Hands, you're always supported by a team of assistants, but with our Personal Touch feature, you can give the whole team one name. You can set up a custom email address so it appears you're always working with one assistant. This allows you to say in an email, for example, "I've cc'ed my assistant, George, who will schedule this meeting for us." This is less confusing for everyone instead of you saying, "I've cc'ed my awesome team of assistants at Fancy Hands." 
+            </div>
+            <div class="label-explanation">
+        	    Once you set the Personal Touch feature up, all of our assistants will use that specific email address and name whenever reaching out to third parties on your behalf.
+    	    </div>
+            <img class="service-banner" src="/images/personal-touch.png">
+            
+                 <div class="gray-box border-bottom center-text"> 
+                    <form action="/ensure/login/with/chooser" method="Get">
+                        <input type="hidden" name="send_to" value="/personal-touch/">
+                        <button type="submit" km-log-click="" id="login-to-get-started" class="button blue">Login/Signup to Get Started</button>
+                    </form>
+                </div>
+            
+        </div>
+
+        <div id="edit-personal-touch">
+            
+            
+
+            <form id="pt-form">
+                <p>Tell us which email address you'll be using</p>
+                <input id="email" type="email" value="" name="email" class="email" placeholder="kevin@">
+
+                <p>What are you going to call your assistant?</p>
+                <input id="first" value="" name="first_name" class="email" placeholder="First Name">
+                <input id="last" value="" name="last_name" class="email" placeholder="Last Name">
+              
+                <button id="add-pt" type="submit" class="button blue">
+                    Next Step
+                </button>
+                
+            </form>
+        </div>   
+
+
+
+
+
+
+                </div>
+            </div>
+
+            <div id="looking-ahead-settings" class="manage-service-drawer">
+                <div class="spacer righty"></div>
+                <div class="settings-content-wrapper">
+            		<p class="fancy">
+            		    Looking Ahead is an email that we'll send you that helps you plan the days and week ahead. It's got your calendar, stats, tips, and suggestions for things that we can take off your plate. If you don't want it at all, simply click the unsubscribe link when it arrives.
+        		    </p>
+
+            		<form id="looking-ahead-form" action="/userinfo/looking-ahead/" method="POST">
+                        <ul>
+                          <li>
+                            <label>How often should we send it?</label>
+                            <div class="pref-info">    
+                                <div class="styled-select">
+                                    <select id="frequency" name="looking_ahead_frequency">
+                                        <option value="monday">Every Monday</option>
+                                        <option value="everyday">Every Day</option>
+                                    </select>
+                                    <i class="icon-caret-down"></i>
+                                </div>
+
+                            </div>
+                          </li>
+                        </ul>
+
+            		    <button class="blue button">Save</button>
+                        
+
+            		</form>
+                </div>
+            </div>
+
+            <div class="content">
+                
+
+                
+            </div>
+
+            
+
+            
+
+        </div>
+
+        <!-- PREFERENCES
+        ====================================== -->
+        <div id="settings-preferences" class="flow-step">
+            <h1 class="fancy">Preferences</h1>
+            <form id="preferences-form" action="/userinfo/preferences/" method="POST">
+                <ul>
+                    <li>
+                        <label>Timezone</label>
+                        <div class="pref-info">    
+                            <div class="styled-select">
+                                <select id="timezone" name="timezone"></select>
+                                <i class="icon-caret-down"></i>
+                            </div>
+                        </div>
+                    </li>
+                    
+                        <li>
+                            <label>Facebook Suggestions</label>
+                            <div class="pref-info"> 
+                                <a class="fb-connect-button button blue">Setup Suggestions</a>
+                                <p class="small-print">This is not required, but the information allows us to better anticipate your needs and wants. This information is kept private and used by our servers to help find task suggestions. Your assistants will not have direct access to any of this information.</p>
+                            </div>
+                        </li>
+                    
+
+
+                    <li>
+                        <label for="autoresponse-checkbox">Confirmation Emails</label>
+                        <div class="pref-info">                                     
+                            <div class="onoffswitch">
+                                <input type="checkbox" id="autoresponse-checkbox" name="autoresponse-checkbox" class="onoffswitch-checkbox">
+                                <label class="onoffswitch-label" for="autoresponse-checkbox">
+                                    <div class="onoffswitch-inner"></div>
+                                    <div class="onoffswitch-switch"></div>
+                                </label>
+                            </div>
+
+
+                            <p class="small-print">When you first submit a request, we send out an email letting you know that we got it. If you'd rather not receive these notifications, uncheck this box.</p>
+                        </div>
+                    </li>
+
+                    <li>
+                        <label class="checkbox-label" for="promote_referral_code">Email Referral Links</label>
+                        <div class="pref-info">
+                            <div class="onoffswitch">    
+                                <input type="checkbox" id="promote_referral_code" name="promote_referral_code" class="onoffswitch-checkbox">
+                                <label class="onoffswitch-label" for="promote_referral_code">
+                                    <div class="onoffswitch-inner"></div>
+                                    <div class="onoffswitch-switch"></div>
+                                </label>
+                            </div>
+                            <p class="small-print">Sometimes, when you ask us to do a task, we email someone. For example, we may email an associate of yours to set up an appointment, or inquire about pricing. If you'd like, we can append your referral link to the bottom of the email. That way, every time we're working on your behalf, we're also working to get you a discount.</p>
+                        </div>
+                    </li>
+                    
+                    <li>
+                        <label class="checkbox-label" for="facebook_promote">Facebook Promote</label>
+                        <div class="pref-info">   
+                            <div class="onoffswitch">    
+                                <input type="checkbox" id="facebook_promote" name="facebook_promote" class="onoffswitch-checkbox">
+                                <label class="onoffswitch-label" for="facebook_promote">
+                                    <div class="onoffswitch-inner"></div>
+                                    <div class="onoffswitch-switch"></div>
+                                </label>
+                            </div>
+                            <p class="small-print">If you turn this on, we'll share your referral code to Facebook when you send us a request. When one of your Facebook friends clicks on that link and signs up, you'll get $10 off your next bill! [<a href="javascript" data-toggle-target="fb-promote">What is this?</a>]</p>
+
+                    <div id="fb-promote" class="hidden">
+                        <p class="small-print">We'll share your referral code to Facebook when you send us a request. For example, if we schedule a car to pick you up, we'll post "You scheduled a Car Pickup via Fancy Hands" to your timeline. No specific information will be shared. 
+                        <strong>When your Facebook friends click on the link, you'll earn $10</strong> for each signup that comes through that click (via our <a href="/referrals">referral program</a>).
+                        </p>
+                    </div>
+
+                        </div>
+                    </li>
+
+                   
+
+                </ul>
+                <button id="preferences-form-save" type="submit" class="blue button">Save</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<!-- cancel flow modal STOLEN from subscribe-and-billing.html --> 
+<div id="cancel-modal" class="popup hidden">
+    <a class="popup-close" href="#"><i class="fh-icon-xfactor"></i></a>
+    <h1 class="fancy popup-title">Aw, shucks.</h1>
+    
+    
+    <h2 class="fancy">Friend, before you go, would you mind letting us know why you're leaving so that we can try to do better? Thank you.</h2>
+    
+    <a data-reason="price" class="reason first" href="#">My plan is too expensive</a>
+    <a data-reason="unhappy" class="reason last" href="#">I'm unhappy with the service</a><br><br>
+    
+    <div class="reason-box r-price first-time-bar" style="display: none">
+      <!-- <i class="ss-icon" style="color: #F6B620">star</i> -->
+      <center>We totally understand. Here's <strong>15% off</strong> your bill <strong>for life</strong></center>.<br><br>
+      <div class="center-text">
+        <button class="button blue" onclick="$('#cancel-modal').hide();$('#cancel-plan-change-form').submit();">Yes, keep my account and give me 15% off forever.</button>
+        <br><br>
+        <a data-reason="price" class="no-thanks-please-cancel" href="javascript:void(0)">No thanks, I'd still like to cancel</a>
+      </div>
+      <form id="cancel-plan-change-form" style="display: none; height: 0; margin: 0; padding: 0;" method="post" action="/account/cancel/flow/give/discount"></form>
+    </div>
+    
+    <div class="reason-box r-unhappy first-time-bar" style="display: none">
+      <!-- <i class="ss-icon" style="color: #1c90d9">like</i> -->
+      <center>We'd be happy to help you get the most out of your Fancy Hands subscription.</center><br><br>
+      <div class="center-text">
+        <button class="button blue" onclick="$('#cancel-modal').hide();location.href='/account/cancel/flow/email/ted';">Yes, keep my account and have the founder Ted Roden email me.</button>
+        <br><br>
+        <a data-reason="unhappy" class="no-thanks-please-cancel" href="javascript:void(0)">No thanks, I'd still like to cancel</a>
+      </div>
+    </div>
+
+    <form class="fhform" id="cancel-form" method="post" action="/account/cancel/flow/with/reason">
+      <label for="other-reason">Or, tell us what's on your mind:</label>
+      <textarea id="other-reason" name="other-cancel-reason" placeholder="We'll keep this just between us, we promise."></textarea><br><br>
+      <button class="button blue" type="submit">Cancel Account</button>
+      <img src="/images/gifs/fh-spinner-lg.gif" id="cancel-spinner" style="display: none; margin-left: 502px">
+    </form>
+    
+</div>
+
+
+    
+    <!-- DROPDOWN NAVIGATION 
+    =========================================-->
+    <div class="nav-menu hidden">
+        <div class="triangle"></div>
+        <ul>
+            
+                <li><a href="/dashboard/">Dashboard</a></li>
+                <li><a href="/conference-calls/">Conference Calling</a></li>
+                
+                
+                    
+                        <li><a href="/teamwork/admin/">TeamWork</a></li>
+                    
+                
+            
+
+            <li><a href="/billinginfo/">Billing</a></li>
+            <li><a id="settings-link" href="#">Settings</a></li>
+            
+            
+            <li><a id="signout" data-show-popup="signout-window-popup" href="/signout/">Sign Out</a></li>
+        </ul>
+    </div>
+
+    <!-- NOTIFICATION LIST 
+    =========================================-->
+
+    <div class="clickable-backdrop"></div>
+    <div class="notification-list hidden">
+        <h1>Recent Notifications</h1>
+        <div class="list-wrapper">
+            <p class="faded">No messages</p>
+        </div>
+    </div>
+
     <!-- JS 
     =================================================================================== -->
 
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+    <script>
     // Page Variables
     
         var pageVariables = {};
@@ -237,7 +1004,10 @@
     <script>window.jQuery.ui || document.write('<script src="/js/jquery.ui-1.9.1.min.js"><\/script>')</script><script src="/js/jquery.ui-1.9.1.min.js"></script>
     <script src="/js/plugins.js"></script>
 
-    <script id="mainjs" src="/js/_main.min.js?7c76fbf59fd3924dbf4911142b7e6fc2"></script>
+    <script type="text/javascript" src="https://js.braintreegateway.com/v1/braintree.js"></script>
+    <script id="mainjs" src="/js/_main.min.js?1b74d6067c6f02a9dd10b272e0c3593e"></script>
+
+    <script src="/js/settings.js"></script>
 
     <!-- Chartbeat -->
     <script type="text/javascript">var _sf_startpt=(new Date()).getTime(); admin = false;</script>
@@ -261,17 +1031,36 @@
         }
       };
 
+   // we need this available before the /api/user/cookie thing happens
+   var _kmq = _kmq || [];
+
     (function() {
+
       $.get('/api/user/cookie/', function(data) {
         var jsonData = JSON.parse(data);
-        if(!jsonData['success'] || jsonData['success'] && !jsonData['user']['is_helper']) {
+	is_localhost = (document.location.host.indexOf('localhost') == 0);
+        if((!jsonData['success'] || (jsonData['success'] && !jsonData['user']['is_helper']))  ) {
+          if(is_localhost) { return; }
           var chartbeat = document.createElement('script');
           chartbeat.setAttribute('type', 'text/javascript');
           chartbeat.text = 'var _sf_async_config={uid:563,domain:"fancyhands.com"};    (function(){      function loadChartbeat() {        window._sf_endpt=(new Date()).getTime();        var e = document.createElement(\'script\');        e.setAttribute(\'language\', \'javascript\');        e.setAttribute(\'type\', \'text/javascript\');        e.setAttribute(\'src\',           (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +           "static.chartbeat.com/js/chartbeat.js");        document.body.appendChild(e);      }      var oldonload = window.onload;      window.onload = (typeof window.onload != \'function\') ?         loadChartbeat : function() { oldonload(); loadChartbeat(); };    })();';
           var km = document.createElement('script');
-          
+
           km.setAttribute('type', 'text/javascript');
-          km.text = 'var _kmq = _kmq || [];        function _kms(u){        setTimeout(function(){          var s = document.createElement(\'script\'); var f = document.getElementsByTagName(\'script\')[0]; s.type = \'text/javascript\'; s.async = true;          s.src = u; f.parentNode.insertBefore(s, f);        }, 1);        }        _kms(\'//i.kissmetrics.com/i.js\');_kms(\'//doug1izaerwt3.cloudfront.net/7e4e50675c08ad3a9c5b19ae17b03d82aba78862.1.js\');        _kmq.push([\'identify\', \'\']);';
+          km.text = ''
+          km.text += 'function _kms(u){        ';
+          km.text += '  setTimeout(function(){          ';
+          km.text += '               var s = document.createElement(\'script\'); ';
+          km.text += '               var f = document.getElementsByTagName(\'script\')[0]; ';
+          km.text += '               s.type = \'text/javascript\'; ';
+          km.text += '               s.async = true;';
+          km.text += '               s.src = u; ';
+          km.text += '               f.parentNode.insertBefore(s, f);';
+          km.text += '              }, 1);        ';
+          km.text += ' }';
+          km.text += ' _kms(\'//i.kissmetrics.com/i.js\');';
+          km.text += ' _kms(\'//doug1izaerwt3.cloudfront.net/7e4e50675c08ad3a9c5b19ae17b03d82aba78862.1.js\'); ';
+          km.text += ' _kmq.push([\'identify\', \'\']);';
           document.body.appendChild(chartbeat);
           document.body.appendChild(km);
           analytics.execute();
@@ -289,8 +1078,6 @@
     })();
 
   
-  
-    tryLogin();
   
 
   var trackingCode = function() {
@@ -364,4 +1151,5 @@ window.onload = function(){
 
 
 
-<div id="qtip-rcontainer"></div><script type="text/javascript">var _sf_async_config={uid:563,domain:"fancyhands.com"};    (function(){      function loadChartbeat() {        window._sf_endpt=(new Date()).getTime();        var e = document.createElement('script');        e.setAttribute('language', 'javascript');        e.setAttribute('type', 'text/javascript');        e.setAttribute('src',           (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +           "static.chartbeat.com/js/chartbeat.js");        document.body.appendChild(e);      }      var oldonload = window.onload;      window.onload = (typeof window.onload != 'function') ?         loadChartbeat : function() { oldonload(); loadChartbeat(); };    })();</script><script type="text/javascript">var _kmq = _kmq || [];        function _kms(u){        setTimeout(function(){          var s = document.createElement('script'); var f = document.getElementsByTagName('script')[0]; s.type = 'text/javascript'; s.async = true;          s.src = u; f.parentNode.insertBefore(s, f);        }, 1);        }        _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/7e4e50675c08ad3a9c5b19ae17b03d82aba78862.1.js');        _kmq.push(['identify', '']);</script><script type="text/javascript">(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if(d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=185325154811914";fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></body></html>
+
+<div id="qtip-rcontainer"></div><script type="text/javascript">var _sf_async_config={uid:563,domain:"fancyhands.com"};    (function(){      function loadChartbeat() {        window._sf_endpt=(new Date()).getTime();        var e = document.createElement('script');        e.setAttribute('language', 'javascript');        e.setAttribute('type', 'text/javascript');        e.setAttribute('src',           (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +           "static.chartbeat.com/js/chartbeat.js");        document.body.appendChild(e);      }      var oldonload = window.onload;      window.onload = (typeof window.onload != 'function') ?         loadChartbeat : function() { oldonload(); loadChartbeat(); };    })();</script><script type="text/javascript">function _kms(u){          setTimeout(function(){                         var s = document.createElement('script');                var f = document.getElementsByTagName('script')[0];                s.type = 'text/javascript';                s.async = true;               s.src = u;                f.parentNode.insertBefore(s, f);              }, 1);         } _kms('//i.kissmetrics.com/i.js'); _kms('//doug1izaerwt3.cloudfront.net/7e4e50675c08ad3a9c5b19ae17b03d82aba78862.1.js');  _kmq.push(['identify', '']);</script><script type="text/javascript">(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if(d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=185325154811914";fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
