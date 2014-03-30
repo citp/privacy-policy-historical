@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the criticue.com privacy policy that was archived on 2013-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131128174923id_/http%3A//www.criticue.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the criticue.com privacy policy that was archived on 2014-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140330221200id_/http%3A//www.criticue.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,600,700" rel="stylesheet" type="text/css">
@@ -20,8 +20,8 @@
     <!--[if lt IE 9]>
     <script src='//cdn.criticue.com/javascripts/html5shiv.d4c4dc682fc94c1d20841a676f983e19.js' type='text/javascript'></script>
     <![endif]-->
-    <link rel="stylesheet" href="//cdn.criticue.com/stylesheets/master.d51ea259f430afeca2bab798a3d7556f.css">
-    <script src="//cdn.criticue.com/javascripts/master.68e1246bc5252c58edafa0c577cfcdd8.js"></script>
+    <link rel="stylesheet" href="//cdn.criticue.com/stylesheets/master.959c0ff47ea6f8a8d6f7f2b2bb5bae56.css">
+    <script src="//cdn.criticue.com/javascripts/master.35c32869305635639bea93b3d20c3aa9.js"></script>
     
     <script>
       var _gaq = _gaq || [];
@@ -58,14 +58,47 @@
         margin-left: 5px;
         margin-top: 6px;
       }
+      
+      li-nav-social {
+        margin-top: 0;
+      }
+      
+      li-nav-social .buttons {
+        margin-top: -5px;
+      
+      }
+      
+      li.nav-social .btn {
+        margin-left: 5px;
+        margin-top: 0;
+        margin-bottom: 2px;
+        width: 120px;
+      }
+      
+      .nav-highlight > a {
+        color: #FFCD41!important;
+        font-weight: bold;
+        // color: white;
+      }
+      
+      .nav-highlight > a > i {
+        color: #FFCD41!important;
+      }
+      
+      .divider-vertical {
+        border-left-color: #52396F!important;
+        border-right-color: #70538E!important;
+        // height: 30px!important;
+        // margin-top: 5px!important;
+      }
     </style>
     <script>
       $(function() {
-        $(".nav-account .btn-twitter").click(function() {
+        $(".nav-social .btn-twitter").click(function() {
           loginWithTwitterAndRedirect();
         });
       
-        $(".nav-account .btn-facebook").click(function() {
+        $(".nav-social .btn-facebook").click(function() {
           loginWithFacebookAndRedirect();
         });
       });
@@ -102,20 +135,19 @@
                           Log in
                         </a>
                       </li>
-                      <li class="nav-account">
-                        <div class="btn btn-small btn-facebook">
-                          <i class="icon-facebook"></i>
-                          Connect w/ Facebook
+                      <li class="nav-social">
+                        <div class="buttons">
+                          <div class="btn btn-mini btn-facebook">
+                            <i class="icon-facebook"></i>
+                            Connect w/ Facebook
+                          </div>
+                          <div class="clear"></div>
+                          <div class="btn btn-mini btn-twitter">
+                            <i class="icon-twitter"></i>
+                            Connect w/ Twitter
+                          </div>
                         </div>
                       </li>
-                      <li class="nav-account">
-                        <div class="btn btn-small btn-twitter">
-                          <i class="icon-twitter"></i>
-                          Connect w/ Twitter
-                        </div>
-                      </li>
-                      <!-- %li -->
-                      <!-- %a.help-tooltip#no_signup{:href => "#", rel: "tooltip", "data-placement" => "bottom", "data-title" => "Start without signing up by submitting the address of your website on the home page."} No signup required -->
                     </ul>
                   </div>
                 </div>
@@ -132,13 +164,6 @@
         $(activeItem).addClass("active");
       });
     </script>
-    <!-- = haml :_pricing_and_plans, layout: false -->
-    <!-- :javascript -->
-    <!-- $(function() { -->
-    <!-- $(".pricing_and_plans").click(function() { -->
-    <!-- showPricingAndPlans(); -->
-    <!-- }); -->
-    <!-- }) -->
     <style>
       .action_bar {
         display: none;
@@ -180,8 +205,8 @@
               <ol>
                 <li>We collect email addresses you may voluntarily provide but do not share them with anyone. We use them to improve your user experience.</li>
                 <li>We will never send spam, the only information you'll ever receive will relate to Criticue.com and your activity on the site.</li>
-                <li>Reviews and comments your website receives are not shared with anyone without your express consent.</li>
-                <li>Reviews and comments you post about other websites may be shared with anyone.</li>
+                <li>Reviews and comments your projects receive are not shared with anyone without your express consent.</li>
+                <li>Reviews and comments you post about other projects may be shared with anyone.</li>
                 <li>Your chosen username (but not your email address) and uploaded photo may be visible to other users of this service.</li>
               </ol>
               <p>In case any of the above changes, we'll update the date shown at the bottom of this page and either notify you or provide a way to opt-out or both.</p>
@@ -283,24 +308,6 @@
           </div>
         </div>
       </div>
-    </div>
-    <div class="modal hide" id="new_request">
-      <div class="modal-header">
-        <button aria-hidden="true" class="close" data-dismiss="modal" type="button">×</button>
-        <h3>Add website</h3>
-      </div>
-      <form>
-        <fieldset></fieldset>
-        <div class="modal-body">
-          <div class="alert alert-error" id="error" style="display:none"></div>
-          <div class="alert alert-success" id="info" style="display:none"></div>
-          <input id="url" name="url" placeholder="Website address" type="text">
-        </div>
-        <div class="modal-footer">
-          <button class="submit btn btn-primary" data-loading-text="Wait..." type="submit">Add</button>
-          <div class="btn" data-dismiss="modal">Cancel</div>
-        </div>
-      </form>
     </div>
     <footer>
       <div class="container">
