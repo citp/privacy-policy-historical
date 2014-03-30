@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freeconferencecall.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628203009id_/http%3A//www.freeconferencecall.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeconferencecall.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330183450id_/https%3A//www.freeconferencecall.com/privacy-policy) for the most accurate reproduction.*
 
-# Free Conference Call - Free Conference Call Services
+# Free Conference Call Privacy Policy | freeconferencecall.com
 
 ## Last Updated: September 1, 2010
 
@@ -30,13 +30,13 @@
 
     1. Beginning on January 1, 2005, California Civil Code Section 1798.83 permits those customers that are California residents to request that Free Conferencing Corporation not share your personal information with third parties for their direct marketing use. To make such a request, please write to:
 
-California Privacy Rights  
-Free Conferencing Corporation  
-4300 E. Pacific Coast Hwy  
-Long Beach, CA 90804
+California Privacy Rights   
+Free Conferencing Corporation   
+4300 E. Pacific Coast Hwy   
+Long Beach, CA 90804 
 
   8. ## CONTACT AND QUESTIONS
 
-    1. For any additional information or to contact Free Conferencing Corporation you can email [info@freeconferencecall.com](mailto:info@freeconferencecall.com) or call 877-482-5838.
+    1. For any additional information or to contact Free Conferencing Corporation you can email [info@freeconferencecall.com](mailto:info@freeconferencecall.com) or call 877-482-5838. 
 
 
