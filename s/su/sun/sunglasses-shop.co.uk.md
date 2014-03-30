@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunglasses-shop.co.uk privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808213305id_/http%3A//www.sunglasses-shop.co.uk/help-and-about/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunglasses-shop.co.uk privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330230916id_/http%3A//www.sunglasses-shop.co.uk/help-and-about/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : Sunglasses Shop Privacy Information : Shop For Sunglasses
 
@@ -16,7 +16,7 @@ As well as the delivery address we may also share your telephone number with the
 
 ## Information Disclosure and Marketing
 
-Sunglasses Shop is part of Prescription Eyewear Ltd. If you have made a purchase from us we may update you with our latest products, news and special offers via e-mail and post. On occasion you may also receive communications from carefully selected third parties, partners or any other Prescription Eyewear Ltd brands. Of course, you have the option to opt-out of receiving marketing communications by selecting the relevant option at checkout or using the unsubscribe options in the communication.
+Sunglasses Shop is part of MyOptique Group Ltd. If you have made a purchase from us we may update you with our latest products, news and special offers via e-mail and post. On occasion you may also receive communications from carefully selected third parties, partners or any other MyOptique Group Ltd brands. Of course, you have the option to opt-out of receiving marketing communications by selecting the relevant option at checkout or using the unsubscribe options in the communication.
 
 We also collect certain non personal data to provide analysis on our site traffic, sales and other commercial opportunities that we feel helps bring a better level of service to our customers. This may be passed on to third parties for collation purposes or used internally to improve our level of customer service.  
 Information
@@ -41,7 +41,7 @@ You can contact us at any time and request details of any of the information you
 
 You can contact Sunglasses Shop Customer Services by email:
 
-customerservices@sunglassesshop.com
+[ _customerservices@sunglassesshop.com_](mailto:customerservices@sunglassesshop.com?subject=Customer%20Services)
 
 or by calling 01702 435046
 
@@ -54,4 +54,4 @@ Essex
 United Kingdom  
 SS1 1JE
 
-## What's New From Ray-Ban
+[Sunglasses Shop Voucher Code](http://www.sunglasses-shop.co.uk/voucher-code.aspx)
