@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edgepark.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808024906id_/https%3A//www.edgepark.com/information/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgepark.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330230018id_/http%3A//www.edgepark.com/information/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Edgepark Medical Supplies
 
