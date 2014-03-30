@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutriliving.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022160448id_/http%3A//www.nutriliving.com/content/nutriliving-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutriliving.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331001008id_/http%3A//www.nutriliving.com/content/nutriliving-privacy-policy) for the most accurate reproduction.*
 
 # NutriLiving Privacy Policy | NutriLiving
 
