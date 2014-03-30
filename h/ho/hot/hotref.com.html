@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hotref.com privacy policy that was archived on 2013-08-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130806053319id_/http%3A//www.hotref.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotref.com privacy policy that was archived on 2014-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140330223713id_/http%3A//www.hotref.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
@@ -28,15 +28,140 @@ function firstClear(obj) {
     obj.value = '';
   }
 }
+var xmlHttp = false;
+function ajaxcreate(){
+try {xmlHttp = new ActiveXObject("Msxml2.XMLHTTP");
+ } catch (e) {
+try {xmlHttp = new ActiveXObject("Microsoft.XMLHTTP");
+ } catch (e2) {
+  xmlHttp = false;
+ }
+ }
+if (!xmlHttp && typeof XMLHttpRequest !='undefined') {
+  xmlHttp = new XMLHttpRequest();
+ }
+if(!xmlHttp){
+  alert('Create Xmlhttp Fail');
+  return false;
+ }
+}
+function sugguest(){
+ ajaxcreate();
+ var xmvalue=document.getElementById("search_q").value;
+ if(xmvalue==''){
+ document.getElementById("fastSearchTab").style.display="none";
+ }else{
+ document.getElementById("fastSearchTab").style.display="block";
+ }
+ var url="../googlesearch.php?key="+xmvalue;
+ if (xmvalue== null || xmvalue.length>20 || xmvalue == "") return false;
+ xmlHttp.open("POST",url,true);
+ xmlHttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
+ xmlHttp.send(xmvalue);
+ xmlHttp.onreadystatechange=returnstate;
+}
+
+function returnstate(){
+ if(xmlHttp.readyState == 4 ){
+  document.getElementById("fastSearchTab").innerHTML=xmlHttp.responseText;
+ }
+}
+function getvalue(obj){
+   var selected_value=obj.innerHTML;
+   var serachForm=document.getElementById("searchform");
+   document.getElementById("search_q").value=selected_value;
+   serachForm.submit();
+}
+function mouseOver(tr){
+  tr.style.backgroundColor='#c0c0c0';
+}
+function mouseOut(tr){
+  tr.style.backgroundColor='white';
+}
 //-->
 </script>
 <script src="../js/jquery-1.8.3.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="../js/jquery.innerfade.js"></script>
 <script src="../js/jquery.elevatezoom.js" type="text/javascript"></script>
-
 <script src="../js/skinned-select.js" type="text/javascript"></script>
 <script type="text/javascript">var switchTo5x=false;</script>
-<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript" src="../js/buttons.js"></script>
 <script type="text/javascript">stLight.options({publisher: "84d2ea94-d3b3-44b8-88a9-b5f9c4b70636", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+
+<script type="text/javascript">
+function turnLeft(num,number){
+	page = $('#page'+num).val();
+	if(!page){
+		page = 1;
+		}
+	page = Number(page);
+	page = page - 1;
+	var p = '';
+	var s = '';
+	$.ajax({
+		url:"./getListInfo.php?page="+page+"&number="+number,
+		type:'get',
+		datatype:'json',
+		success:function callbackFun(data){
+		var dataObj=eval("("+data+")");
+		$.each(dataObj, function(i,item){
+
+
+			p = p+ "<div align='center' class='listpic' width='20%' valign='middle'><a href='http://www.hotref.com/"+item.p_url.toLowerCase()+"-p-"+item.products_id+".html'><img src='http://www.hotref.com/category/"+item.products_image+ "'  border='0' alt='"+item.products_name+"' title='"+item.products_name+"' width='130' height='110'></a></div>"
+			s = s + "<div align='center' class='listpic' width='20%' valign='top'><a class='na' href='http://www.hotref.com/"+item.p_url.toLowerCase()+"-p-"+item.products_id+".html'>"+item.products_name+"</a><br><span style='color:#ff69b4;font-weight: bold'>&nbsp;as&nbsp;low&nbsp;as&nbsp;&#36;"+item.products_price+"&nbsp;each</span>&nbsp;";
+			if(item.products_rating){
+			s += "<br><img style='margin-bottom:-2px'  src='http://www.hotref.com/images/star/stars_"+item.products_rating+".png'>";
+				if(item.count !=0 ){
+						s += "("+item.count+")";
+					}
+			}
+			s += "&nbsp;<br><br><br></div>";
+			if(item.page){
+				$('#page'+num).val(item.page);
+			}
+			});
+		$('#list'+num+'1').html(p);
+		$('#list'+num+'2').html(s);
+		}
+		});
+}
+function turnRight(num,number){
+	page = $('#page'+num).val();
+	if(!page){
+		page = 1;
+		}
+	page = Number(page);
+	page = page + 1;
+	var p = '';
+	var s = '';
+	$.ajax({
+		url:"./getListInfo.php?page="+page+"&number="+number,
+		type:'get',
+		datatype:'json',
+		success:function callbackFun(data){
+		var dataObj=eval("("+data+")");
+		$.each(dataObj, function(i,item){
+
+
+			p = p+ "<div align='center' class='listpic' width='20%' valign='middle'><a href='http://www.hotref.com/"+item.p_url.toLowerCase()+"-p-"+item.products_id+".html'><img src='http://www.hotref.com/category/"+item.products_image+ "'  border='0' alt='"+item.products_name+"' title='"+item.products_name+"' width='130' height='110'></a></div>"
+			s = s + "<div align='center' class='listpic' width='20%' valign='top'><a class='na' href='http://www.hotref.com/"+item.p_url.toLowerCase()+"-p-"+item.products_id+".html'>"+item.products_name+"</a><br><span style='color:#ff69b4;font-weight: bold'>&nbsp;as&nbsp;low&nbsp;as&nbsp;&#36;"+item.products_price+"&nbsp;each</span>&nbsp;";
+			if(item.products_rating){
+			s += "<br><img style='margin-bottom:-2px'  src='http://www.hotref.com/images/star/stars_"+item.products_rating+".png'>";
+				if(item.count !=0 ){
+						s += "("+item.count+")";
+					}
+			}
+			s += "&nbsp;<br><br><br></div>";
+			if(item.page){
+				$('#page'+num).val(item.page);
+			}
+			});
+		$('#list'+num+'1').html(p);
+		$('#list'+num+'2').html(s);
+		}
+		});
+}
+</script>
 <!--script src="/js/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
 var pageTracker = _gat._getTracker("UA-557580-1");
@@ -58,12 +183,9 @@ pageTracker._initData();pageTracker._trackPageview();
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gtscript, s);
 	})();
 </script>
+
 <!-- END: Google Trusted Store -->
-<script type="text/javascript">
-      $(document).ready(function() {
-        $('.my-skinned-select').skinnedSelect();
-      })
-</script>
+
 <!--script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
@@ -71,14 +193,97 @@ _uacct = "UA-557580-1";
 urchinTracker();
 </script-->
 
+<script type="text/javascript">
+      $(document).ready(function() {
+        $('.my-skinned-select').skinnedSelect();
+      })
+</script>
+<script type="text/javascript">
+	   $(document).ready(
+				function(){
+					$('ul#portfolio').innerfade({
+						speed: 1000,
+						timeout: 3000,
+						type: 'sequence',
+						containerheight: '242px'
+					});
+			});
+  	</script>
+<script type="text/javascript">
+//SuckerTree Vertical Menu (Aug 4th, 06)
+//By Dynamic Drive: http://www.dynamicdrive.com/style/
+
+var menuids=["suckertree1"] //Enter id(s) of SuckerTree UL menus, separated by commas
+
+function buildsubmenus(){
+for (var i=0; i<menuids.length; i++){
+  var ultags=document.getElementById(menuids[i]).getElementsByTagName("ul");
+    for (var t=0; t<ultags.length; t++){
+    ultags[t].parentNode.getElementsByTagName("a")[0].className="subfolderstyle";
+    ultags[t].parentNode.onmouseover=function(){
+    this.getElementsByTagName("ul")[0].style.display="block";
+    }
+    ultags[t].parentNode.onmouseout=function(){
+    this.getElementsByTagName("ul")[0].style.display="none";
+    }
+    }
+  }
+}
+
+if (window.addEventListener)
+window.addEventListener("load", buildsubmenus, false);
+else if (window.attachEvent)
+window.attachEvent("onload", buildsubmenus);
+</script>
 <script type="text/javascript" async="" src="https://upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js">thefind.upfront.init('tf_upfront_badge', 'f082f813e740507ce28683188b631a83')</script></head>
 
 <body bgcolor="#ffffff" text="#000000" link="#0000cc" vlink="#551a8b" alink="#ff0000" topmargin="2" marginheight="2">
 
 
 <center>
+<div style="background: none repeat scroll 0 0 #E0E0E0;height: 27px;min-width:1070px;">
+<div style="margin: auto;overflow: hidden;width: 1050px;">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tbody><tr>
 
-<table cellspacing="0" cellpadding="0" border="0" width="99%">
+<td width="8%" align="center" nowrap="nowrap">
+<a target="_blank" href="http://wwww.facebook.com/hotref" rel="nofollow"><img style="margin-bottom:-3px;border:0px" src="http://www.hotref.com/templates/images/facebook_icon.jpg"></a>&nbsp;&nbsp;
+<a target="_blank" href="http://www.twitter.com/hotref" rel="nofollow"><img style="margin-bottom:-3px;border:0px" src="http://www.hotref.com/templates/images/Twitter-icon.jpg"></a>&nbsp;&nbsp;
+ <a target="_blank" href="http://pinterest.com/hotref" rel="nofollow"><img style="margin-bottom:-3px;border:0px" src="http://www.hotref.com/templates/images/pinterest-icon.jpg"></a>
+</td>
+<td style="font-size:14px;width:1%;color:#666666;">|</td><td>
+</td><td width="10%" align="left" nowrap="nowrap">
+
+<a class="lion" href="http://www.hotref.com/international_orders.php">Ship Worldwide</a>
+</td>
+<td width="8%"><form action="http://www.hotref.com/privacy.php?" method="post" id="currency_form"><select class="my-skinned-select" name="currency" id="currency" onchange="this.form.method='get';this.form.submit();"><option selected="" value="$ USD">$ USD</option><option value="€ EUR">€ EUR</option><option value="£ GBP">£ GBP</option><option value="$ CAD">$ CAD</option><option value="$ AUD">$ AUD</option><option value="$ MXN">$ MXN</option><option value="¥ JPY">¥ JPY</option><option value="р. RUB">р. RUB</option><option value="R$ BRL">R$ BRL</option><option value="£ CYP">£ CYP</option><option value="kr NOK">kr NOK</option><option value="Kč CZK">Kč CZK</option><option value="₤ MTL">₤ MTL</option><option value="$ NZD">$ NZD</option><option value="$ PHP">$ PHP</option><option value="ر. SAR">ر. SAR</option><option value="$ SGD">$ SGD</option><option value="R ZAR">R ZAR</option></select></form><input type="hidden" name="currency_str" id="currency_str" value="$ USD">
+</td>
+<td style="font-size:14px;width:1%;color:#666666;">|</td><td>
+</td><td width="8%" align="left" nowrap="nowrap">
+<a class="lion" href="http://www.hotref.com/account_history.php">My Account</a>
+</td>
+<td style="font-size:14px;width:1%;color:#666666;">|</td><td>
+</td><td width="6%"><a class="lion" href="http://www.hotref.com/login.php">Sign In</a></td>
+<td width="37%" align="right" nowrap="nowrap">
+<a href="http://service.velaro.com/visitor/requestchat.aspx?siteid=7734&amp;showwhen=inqueue" target="OnlineChatSoftware" onclick="this.newWindow = window.open('http://service.velaro.com/visitor/requestchat.aspx?siteid=7734&amp;showwhen=inqueue', 'OnlineChatSoftware', 'toolbar=no,location=no,directories=no,menubar=no,status=no,scrollbars=no,resizable=yes,replace=no');this.newWindow.focus();this.newWindow.opener=window;return false;" rel="nofollow"><img alt="Chat with HotRef" src="http://service.velaro.com/visitor/check.aspx?siteid=7734&amp;showwhen=inqueue" border="0"></a>
+</td>
+<td style="font-size:14px;width:1%;color:#666666;">|</td><td>
+</td><td width="6%" align="left" nowrap="nowrap">
+<a class="lion" href="mailto:support@hotref-inc.com" rel="nofollow">Email Us</a>
+</td>
+<td style="font-size:14px;width:1%;color:#666666;">|</td><td>
+</td><td align="left">
+<span style="color:#666666;font-size:13px;font-family: arial;">Call:</span><span style="color:#D7581F;font-size:13px;font-family: arial;font-weight: bold;">1-866-966-8824</span>
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+
+
+
+<div style="width:1045px;margin:0 auto; padding:0;">
+<table cellspacing="2" cellpadding="1" border="0" width="100%">
 <tbody><tr>
 	<td width="5%"><a href="http://www.hotref.com/">
 		<img src="http://www.hotref.com/templates/images/hotref-logo.gif" width="164" height="44" border="0" vspace="8" alt="HotRef">
@@ -87,61 +292,87 @@ urchinTracker();
 	<td width="5">&nbsp;</td>
 	<td>
 		<table cellspacing="0" cellpadding="0" border="0" width="100%">
+		<form name="hs" action="http://www.hotref.com/ptquery.php" method="GET" id="searchform"></form>
 		<tbody><tr>
 
 			<!--Collect and Recommend information on the Internet-->
-			<td align="left" valign="bottom" width="400" nowrap="nowrap">
-			<div style="margin:0px; padding:0px; width:100%" id="tabnav">
-			<ul style="white-space:nowrap"><li id=""><a href="http://www.hotref.com/index.php">Shopping</a></li>
-			<li id=""><a href="http://www.hotref.com/forum/home.html">Community</a></li>
-			<li id=""><a href="http://www.hotref.com/hothome.php">My HotRef</a></li>
-			</ul>
-			</div>
-			</td>
-			<td align="right" valign="bottom">
-
-
-
-				<!--
-				<table cellpadding=0 cellspacing=0 border=0>
-				<tr><td><table cellpadding=0 cellspacing=0 border=0>
-				<tr>
-				<td align="right" valign="bottom" nowrap="nowrap">
-				&nbsp;[<a class=lbs href='http://www.hotref.com/login.php'>Sign In</a>]&nbsp;
-				</td></tr>
-				</table></td></tr>
-				</table>
-				<br>
-				--><!-- Boldchat Live Chat Button HTML v1.10 (Type=Web,ChatButton=- None -,ChatWindow=- None -,Website=http://www.hotref.com,Department=- None -) -->
-
-
-
-				<table cellpadding="0" cellspacing="1" border="0">
-				<tbody><tr><td align="center" colspan="2" nowrap="nowrap">
-				&nbsp;[<a class="lbs" href="http://www.hotref.com/login.php">Sign In</a>]
-				</td></tr>
-
-				</tbody></table>
-
-				<!-- /Boldchat Live Chat Button HTML v1.10 -->
+			<td width="45%" align="left" valign="middle" nowrap="nowrap">
+	<input class="search_new" type="text" maxlength="2048" size="70" value="Enter keywords or Item number" name="q" id="search_q" onclick="firstClear(this); this.style.color='#333'" onpropertychange="sugguest()" oninput="sugguest()" autocomplete="off">
 
 
 			</td>
-		</tr>
-		<!--tr><td colspan=2 valign="top">
-		<img src="http://www.hotref.com/templates/images/nav_btm.gif" height='1' width="100%">
-		</td></tr-->
-		<tr><td colspan="2" valign="top"><div style="height: 1px;background: #a6b9dc;"></div></td></tr>
-		</tbody></table>
+			<td width="2px">&nbsp;</td>
+			<td width="10%" align="left" valign="middle"><input style="border:0px;margin-bottom:1px;" type="image" name="sa" src="http://www.hotref.com/images/search-button.jpg"> </td>
+			<td align="center" valign="middle">
+   <a href="http://www.hotref.com/shopping_cart.php" rel="nofollow"><img src="http://www.hotref.com/images/shopping-cart-redux.gif" border="0"></a>
+
+
+
+
+
 	</td>
 </tr>
+
+
+<tr>
+
+  <td align="left">
+   <div cellpadding="0" cellspacing="0" id="fastSearchTab">
+
+   </div>
+  </td>
+</tr>
+
+
+
+</tbody></table>
+</td>
+</tr>
+
+
+</tbody></table>
+<table border="0" cellspacing="0" cellpadding="0">
+
+<tbody><tr nowrap="nowrap"> <td>
+<a href="http://www.hotref.com/wedding-favor-accessories-c-43_173.html">
+<div id="navya1"></div>
+</a>
+</td>
+<td>
+<a href="http://www.hotref.com/baby-shower-favors-c-43_139.html">
+<div id="navya2"></div>
+</a>
+</td>
+<td>
+<a href="http://www.hotref.com/birthday-favor-c-43_196.html">
+<div id="navya3"></div>
+</a></td>
+<td>
+<a href="http://www.hotref.com/business-gift-c-43_155.html">
+<div id="navya4"></div>
+</a>
+</td>
+<td>
+<a href="http://www.hotref.com/hotref_printing.php">
+<div id="navya5"></div>
+</a>
+</td>
+<td>
+<a href="http://www.hotref.com/more-occasions-c-43_405.html">
+<div id="navya6"></div>
+</a>
+</td>
+<td>
+<a href="http://www.hotref.com/all_brands.php">
+<div id="navya7"></div>
+</a>
+</td></tr>
 </tbody></table>
 
-
 <!-- body //-->
-<table border="0" width="100%" cellspacing="3" cellpadding="3">
+<table border="0" width="100%" cellspacing="1" cellpadding="1">
   <tbody><tr>
-    <td width="125" valign="top"><table border="0" width="125" cellspacing="0" cellpadding="2">
+    <td width="125" valign="top"><table border="0" width="125" cellspacing="1" cellpadding="1">
 <!-- left_navigation //-->
 <!-- categories //-->
 <tbody><tr>
@@ -149,30 +380,158 @@ urchinTracker();
             <td>
 <table border="0" width="100%" cellspacing="0" cellpadding="3">
   <tbody><tr>
-    <td width="100%" height="20" class="infoBoxHeading">Browse Occasions</td>
+    <td width="100%" height="20" class="infoBoxHeading">Browse By Occasions</td>
+  </tr>
+</tbody></table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0" class="infoBox">
+  <tbody><tr>
+    <td><table border="0" width="100%" cellspacing="0" cellpadding="0" class="infoBoxContents">
+
+  <tbody><tr>
+    <td align="left"><div class="suckerdiv">
+ <ul id="suckertree1">
+  <li><a href="http://www.hotref.com/wedding-favor-accessories-c-43_173.html" class="subfolderstyle">Wedding &amp; Bridal</a>
+      <ul>
+        <li><a href="http://www.hotref.com/accessories-c-43_173_220.html" class="subfolderstyle">Accessories</a>
+          <ul>
+            <li><a href="http://www.hotref.com/q/toasting+flutes">Bridal Accessories</a></li>
+            <li><a href="http://www.hotref.com/q/cake+server+set">Wedding Cake Accessories</a></li>
+            <li><a href="http://www.hotref.com/q/sand+ceremony">Wedding Ceremony Accessories</a></li>
+            <li><a href="http://www.hotref.com/q/guestbook">Wedding Reception Accessories</a></li>
+          </ul>
+        </li>
+		   <li><a href="http://www.hotref.com/featured-favors-c-43_173_216.html" class="subfolderstyle">Featured Favors</a>
+          <ul>
+            <li><a href="http://www.hotref.com/bridal-shower-favors-c-43_115.html">Bridal Shower Favors</a></li>
+            <li><a href="http://www.hotref.com/personalized-favors-c-43_46.html">Personalized Favors</a></li>
+            <li><a href="http://www.hotref.com/Practical-Favors-c-43_189.html">Practical Wedding Favors</a></li>
+            <li><a href="http://www.hotref.com/love-themed-wedding-favors-c-43_133_134.html">Unique Wedding Favors</a></li>
+          </ul>
+        </li>
+		   <li><a href="http://www.hotref.com/shop-by-material-c-43_173_221.html" class="subfolderstyle">Shop by Material</a>
+          <ul>
+            <li><a href="http://www.hotref.com/crystal-glass-wedding-favors-c-43_138.html">Crystal &amp; Glass</a></li>
+            <li><a href="http://www.hotref.com/q/murano+art+deco">Murano</a></li>
+            <li><a href="http://www.hotref.com/silver-chrome-wedding-favors-c-43_93.html">Silver and Chrome</a></li>
+          </ul>
+        </li>
+		   <li><a href="http://www.hotref.com/shop-by-product-c-43_173_219.html" class="subfolderstyle">Shop by Product</a>
+          <ul>
+            <li><a href="http://www.hotref.com/candle-wedding-favors-c-43_44.html">Candle Wedding Favors</a></li>
+            <li><a href="http://www.hotref.com/q/coaster">Coaster Favors</a></li>
+            <li><a href="http://www.hotref.com/q/compact+mirror">Compact Mirror</a></li>
+            <li><a href="http://www.hotref.com/q/keychain">KeyChain Favors</a></li>
+          </ul>
+        </li>
+		   <li><a href="http://www.hotref.com/shop-by-season-c-43_173_217.html" class="subfolderstyle">Shop by Season</a>
+          <ul>
+            <li><a href="http://www.hotref.com/fall-autumn-wedding-favors-c-43_133_152.html">Fall Wedding Favors</a></li>
+            <li><a href="http://www.hotref.com/spring-wedding-favors-c-43_133_154.html">Spring Wedding Favors</a></li>
+            <li><a href="http://www.hotref.com/beach-wedding-favors-c-43_133_126.html">Summer Wedding Favors</a></li>
+            <li><a href="http://www.hotref.com/winter-themed-wedding-favors-c-43_133_153.html">Winter Wedding Favors</a></li>
+          </ul>
+        </li>
+		   <li><a href="http://www.hotref.com/shop-by-theme-c-43_173_218.html" class="subfolderstyle">Shop by Theme</a>
+          <ul>
+            <li><a href="http://www.hotref.com/asian-themed-wedding-favors-c-43_133_158.html">Asian Wedding Favors</a></li>
+            <li><a href="http://www.hotref.com/beach-wedding-favors-c-43_133_126.html">Beach Wedding Favors</a></li>
+            <li><a href="http://www.hotref.com/q/butterfly">Butterfly Wedding Favors</a></li>
+            <li><a href="http://www.hotref.com/q/calla+lily">Calla Lily Wedding Favors</a></li>
+          </ul>
+        </li>
+      </ul>
+       </li>
+	   <li><a href="http://www.hotref.com/baby-shower-favors-c-43_139.html" class="subfolderstyle">Baby Shower</a>
+      <ul>
+        <li><a href="http://www.hotref.com/baby-shower-favors-c-43_139_206.html" class="subfolderstyle">Baby Shower Favors</a>
+          <ul>
+            <li><a href="http://www.hotref.com/q/baby+bookmark">Baby Bookmark</a></li>
+            <li><a href="http://www.hotref.com/q/baby+bottle">Baby Bottle</a></li>
+            <li><a href="http://www.hotref.com/q/baby+candle">Baby Candle</a></li>
+            <li><a href="http://www.hotref.com/q/baby+coaster">Baby Coaster</a></li>
+          </ul>
+        </li>
+		 <li><a href="http://www.hotref.com/baby-shower-gifts-c-43_139_209.html" class="subfolderstyle">Baby Shower Gifts</a>
+          <ul>
+            <li><a href="http://www.hotref.com/q/baby+blankets">Baby Blankets</a></li>
+            <li><a href="http://www.hotref.com/q/baby+book">Baby Book</a></li>
+            <li><a href="http://www.hotref.com/q/baby+photo+album">Baby Photo Album</a></li>
+            <li><a href="http://www.hotref.com/q/layette+">Layette</a></li>
+          </ul>
+        </li>
+		 <li><a href="http://www.hotref.com/baby-shower-themes-c-43_139_208.html" class="subfolderstyle">Baby Shower Themes</a>
+          <ul>
+            <li><a href="http://www.hotref.com/q/a+star+is+born">A Star is Born</a></li>
+            <li><a href="http://www.hotref.com/q/about+to+hatch">About to Hatch</a></li>
+            <li><a href="http://www.hotref.com/q/baby+animal">Baby Animal</a></li>
+            <li><a href="http://www.hotref.com/q/baby+boy+blue">Baby Boy Blue</a></li>
+          </ul>
+        </li>
+		 <li><a href="http://www.hotref.com/personalized-baby-shower-favors-c-43_139_207.html" class="subfolderstyle">Personalized Baby Shower Favors</a>
+          <ul>
+            <li><a href="http://www.hotref.com/q/baby+announcements+Kit">Baby Announcements Kit</a></li>
+            <li><a href="http://www.hotref.com/q/baby+candy+jar">Baby Candy Jar</a></li>
+            <li><a href="http://www.hotref.com/q/baby+cookie+mix">Baby Cookie Mix</a></li>
+            <li><a href="http://www.hotref.com/q/baby+drink+mix">Baby Drink Mix</a></li>
+          </ul>
+        </li>
+      </ul>
+       </li>
+    <li><a href="http://www.hotref.com/business-gift-c-43_155.html" class="subfolderstyle">Business Gifts</a>
+      <ul>
+	    <li><a href="http://www.hotref.com/golf-c-43_155_407.html">Golf</a></li>
+        <li><a href="http://www.hotref.com/business-case-gifts-c-43_155_156.html">Business Cases</a></li>
+		<li><a href="http://www.hotref.com/business-gifts-coolers-c-43_155_157.html">Coolers</a></li>
+		<li><a href="http://www.hotref.com/gift-drinkware-favors-c-43_155_159.html">Drinkware</a></li>
+		<li><a href="http://www.hotref.com/gift-ecosmart-c-43_155_190.html">EcoSmart</a></li>
+		<li><a href="http://www.hotref.com/gift-executive-desktop-favors-c-43_155_160.html">Executive &amp; Desktop</a></li>
+		<li><a href="http://www.hotref.com/gift-health-wellness-favors-c-43_155_161.html">Health &amp; Wellness</a></li>
+		<li><a href="http://www.hotref.com/gift-home-organization-favors-c-43_155_162.html">Home Organization</a></li>
+		<li><a href="http://www.hotref.com/gift-leisure-favors-c-43_155_163.html">Leisure</a></li>
+		<li><a href="http://www.hotref.com/gift-lifestyle-entertaining-c-43_155_164.html">Lifestyle &amp; Entertaining</a></li>
+		<li><a href="http://www.hotref.com/corporate-gift-stationery-favors-c-43_155_166.html">Stationery</a></li>
+		<li><a href="http://www.hotref.com/corporate-gift-technology-favors-c-43_155_167.html">Technology</a></li>
+		<li><a href="http://www.hotref.com/corporate-gift-totes-favors-c-43_155_168.html">Totes</a></li>
+		<li><a href="http://www.hotref.com/corporate-gift-travel-favors-c-43_155_169.html">Travel</a></li>
+      </ul>
+       </li>
+    <li><a href="http://www.hotref.com/other-occasions-c-43_405.html" class="subfolderstyle">More Occasions</a>
+      <ul>
+        <li><a href="http://www.hotref.com/graduation-gift-tagid-11.html">Graduation</a></li>
+		<li><a href="http://www.hotref.com/valentine-c-43_195.html">Valentine's Favors</a></li>
+		<li><a href="http://www.hotref.com/sweet-15-16-favors-c-43_137.html">Sweet 15/16 Favors</a></li>
+		<li><a href="http://www.hotref.com/mothers-day-gift-c-43_199.html">Mother's Day</a></li>
+      </ul> </li>
+	   <li><a href="http://www.hotref.com/new-products-latest-design-c-43_178.html">New Products</a></li>
+  </ul></div></td>
+  </tr>
+
+</tbody></table>
+</td>
+  </tr>
+</tbody></table>
+            </td>
+          </tr>
+		  		    <tr>
+    <td><img src="http://www.hotref.com/images/pixel_trans.gif" border="0" alt="" width="1" height="10"></td>
+  </tr>
+
+		  <!-- manufacturers //-->
+          <tr>
+            <td>
+<table border="0" width="100%" cellspacing="0" cellpadding="3">
+  <tbody><tr>
+    <td width="100%" height="20" class="infoBoxHeading">Browse By Brands</td>
   </tr>
 </tbody></table>
 <table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
   <tbody><tr>
     <td><table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents">
   <tbody><tr>
-
     <td><img src="http://www.hotref.com/images/pixel_trans.gif" border="0" alt="" width="1" height="1"></td>
   </tr>
   <tr>
-    <td class="boxText" align="left"><div id="mainnav" nowrap=""><dl>
-	
-<dd><a href="http://www.hotref.com/business-gift-c-43_155.html">Business Events</a></dd>
-<dd><a href="http://www.hotref.com/q/index">Thank You</a></dd>
-<dd><a href="http://www.hotref.com/wedding-favor-accessories-c-43_173.html">Wedding</a></dd>
-<dd><a href="http://www.hotref.com/Anniversary-Favors-c-43_144.html">Anniversary</a></dd>
-<dd><a href="http://www.hotref.com/baby-shower-favors-c-43_139.html">Baby Shower</a></dd>
-<dd><a href="http://www.hotref.com/bridal-shower-favors-c-43_115.html">Bridal Shower</a></dd>
-<dd><a href="http://www.hotref.com/communion-cross-favors-c-43_140.html">Communion</a></dd>
-<dd><a href="http://www.hotref.com/shopping/Special_Gifts/Graduation_Favors/43_182">Graduation</a></dd>
-<dd><a href="http://www.hotref.com/sweet-15-16-favors-c-43_137.html">Sweet 15/16</a></dd>
-<dd><a href="http://www.hotref.com/holiday-favors-c-43_192.html">Holidays</a></dd>
-</dl></div></td>
+    <td class="boxText"><form name="manufacturers" action="http://www.hotref.com/index.php" method="get"><select name="manufacturers_id" onchange="this.form.submit();" size="1" style="width: 100%"><option value="" selected="">Please Select</option><option value="15">Alicia Klein</option><option value="16">Arctic Zone</option><option value="12">Artisano Design..</option><option value="17">Balmain</option><option value="18">Brookstone</option><option value="19">California Inno..</option><option value="20">Case Logic</option><option value="3">Cassiani Collec..</option><option value="6">Cathy Concepts</option><option value="21">Cross</option><option value="22">Cutter &amp; Buck</option><option value="8">Designing Ducks</option><option value="7">DLusso Designs</option><option value="23">Elleven</option><option value="14">EOS Global Impo..</option><option value="4">Event Blossom</option><option value="2">Fashioncraft</option><option value="24">Field &amp; Company</option><option value="25">Garrity</option><option value="11">Gemline</option><option value="26">High Sierra</option><option value="13">HotRef</option><option value="27">Igloo</option><option value="10">JDS</option><option value="1">Kate Aspen</option><option value="36">Kenneth Cole</option><option value="28">Laguiole</option><option value="9">Leeds</option><option value="29">Scripto</option><option value="30">Slazenger</option><option value="31">SpiritofStLouis</option><option value="37">Targus</option><option value="32">TravelPro</option><option value="33">Vertex</option><option value="5">WeddingStar</option><option value="34">Wenger</option><option value="38">Zebra</option><option value="35">Zippo</option></select></form></td>
   </tr>
   <tr>
     <td><img src="http://www.hotref.com/images/pixel_trans.gif" border="0" alt="" width="1" height="1"></td>
@@ -183,68 +542,107 @@ urchinTracker();
 </tbody></table>
             </td>
           </tr>
-<tr>
+<!-- manufacturers_eof //-->
+		    <tr>
+    <td><img src="http://www.hotref.com/images/pixel_trans.gif" border="0" alt="" width="1" height="10"></td>
+  </tr>
+  		  <tr>
 
             <td>
-<table border="0" width="100%" cellspacing="0" cellpadding="3">
+<table border="0" width="100%" cellspacing="0" cellpadding="2">
   <tbody><tr>
-    <td width="100%" height="20" class="infoBoxHeading">Browse Products</td>
+    <td width="100%" height="20" class="infoBoxHeading">Party Planning</td>
   </tr>
 </tbody></table>
 <table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
   <tbody><tr>
-    <td><table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents">
+    <td><table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBoxContents">
   <tbody><tr>
-
-    <td><img src="http://www.hotref.com/images/pixel_trans.gif" border="0" alt="" width="1" height="1"></td>
-  </tr>
-  <tr>
-    <td class="boxText" align="left"><div id="mainnav" nowrap=""><dl><dd><a href="http://www.hotref.com/new-products-latest-design-c-43_178.html">New Products</a></dd><dd><a href="http://www.hotref.com/best-seller-wedding-favors-c-43_131.html">Best Sellers</a></dd>
-<dd><a href="http://www.hotref.com/candle-wedding-favors-c-43_44.html">Candle Favors</a></dd>
-<dd><a href="http://www.hotref.com/placecard-holder-frame-wedding-favors-c-43_149.html">Place Card Favors</a></dd><dd><a href="http://www.hotref.com/crystal-glass-wedding-favors-c-43_138.html">Crystal and Glass Favors</a></dd><dd><a href="http://www.hotref.com/silver-chrome-wedding-favors-c-43_93.html">Silver and Chrome Favors</a></dd><dd><a href="http://www.hotref.com/wedding-favor-boxes-bags-mint-tins-pails-c-43_179.html">Favor Boxes, Bags, and Pails</a></dd><dd><a href="http://www.hotref.com/photo-frame-album-wedding-favors-c-43_143.html">Photo Frame &amp; Album Favors</a></dd><dd><a href="http://www.hotref.com/love-heart-beach-wine-wedding-favors-c-43_133.html">Theme Favors</a></dd><dd><a href="http://www.hotref.com/personality-wedding-favors-c-43_136.html">Personality Favors</a></dd><dd><a href="http://www.hotref.com/personalized-favors-c-43_46.html">Personalized Favors</a></dd><dd><a href="http://www.hotref.com/free-personalized-tag-wedding-favors-c-43_135.html">Free Personalized Tag Favors</a></dd>
-<dd><a href="http://www.hotref.com/Practical-Favors-c-43_189.html">Practical Favors</a></dd></dl></div></td>
-
-  </tr>
-  <tr>
-    <td><img src="http://www.hotref.com/images/pixel_trans.gif" border="0" alt="" width="1" height="1"></td>
+    <td align="left"><div id="mainnav" nowrap=""><dl>
+<dd><a target="_blank" href="http://www.hotref.com/blog/fallwedding/business-events/">
+Corporate Gift Ideas</a></dd>
+<dd><a target="_blank" href="http://www.hotref.com/blog/fallwedding/wedding/spring-wedding/">Spring Wedding Ideas</a></dd>
+<dd><a target="_blank" href="http://www.hotref.com/blog/fallwedding/bridal-shower-favors-2/">
+Bridal shower Ideas</a></dd>
+<dd><a target="_blank" href="http://www.hotref.com/blog/fallwedding/baby-shower/">
+Baby Shower Ideas</a></dd>
+<dd><a target="_blank" href="http://www.sumaipiano.com/">
+Party Favor Ideas</a></dd>
+</dl></div></td>
   </tr>
 </tbody></table>
 </td>
   </tr>
 </tbody></table>
             </td>
-          </tr><!-- information //-->
+          </tr>
+		  		    <tr>
+    <td><img src="http://www.hotref.com/images/pixel_trans.gif" border="0" alt="" width="1" height="10"></td>
+  </tr>
+  		  <tr>
 
-
-<tr><td>
-
-<table border="0" width="100%" cellspacing="0" cellpadding="3">
+            <td>
+<table border="0" width="100%" cellspacing="0" cellpadding="2">
   <tbody><tr>
-    <td width="100%" height="20" class="infoBoxHeading">Information</td>
+    <td width="100%" height="20" class="infoBoxHeading">Connect With Us</td>
   </tr>
 </tbody></table>
+<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
+  <tbody><tr>
+    <td><table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBoxContents">
+			  		    <tbody><tr>
+    <td><img src="http://www.hotref.com/images/pixel_trans.gif" border="0" alt="" width="1" height="5"></td>
+  </tr>
+  <tr>
+   <td align="center"><a target="_blank" href="http://wwww.facebook.com/hotref" rel="nofollow"><img style="border:0px;width:26px;height:26px;" src="../../templates/images/facebook.jpg"></a></td> <td align="left"><a class="contac" target="_blank" href="http://wwww.facebook.com/hotref" rel="nofollow"><span style="font-size:14px;">Like us</span><br><span style="font-size:10px;">on Facebook</span></a></td>
+  </tr>
+  		  		  		    <tr>
+    <td><img src="http://www.hotref.com/images/pixel_trans.gif" border="0" alt="" width="1" height="5"></td>
+  </tr>
 
-	<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
-	  <tbody><tr>
-	    <td><table border="0" width="100%" cellspacing="0" cellpadding="5" class="infoBoxContents">
-	  
-	  <tbody><tr><td class="main">
-	  <div id="rightnav">
-	  <dl>
-	  <dd><a href="/shipping.php">Shipping &amp; Returns</a></dd>
-	  <dd><a href="/account_history.php">Track Recent Orders</a></dd>
-	  <dd><a href="/international_orders.php">International Orders</a></dd>
-	  </dl></div>
-	  </td></tr>
-	  
-	</tbody></table>
-	</td></tr>
-	</tbody></table>
-</td></tr>
+  <tr>
+  <td align="center"><a target="_blank" href="http://www.twitter.com/hotref" rel="nofollow"><img style="border:0px;width:26px;height:26px;" src="../../templates/images/twitter.jpg"></a></td>
+    <td align="left"><a class="contac" target="_blank" href="http://www.twitter.com/hotref" rel="nofollow"><span style="font-size:14px;">Follow us
+</span><br><span style="font-size:10px;">on Twitter</span></a></td>
+  </tr>
+    		  		  		    <tr>
+    <td><img src="http://www.hotref.com/images/pixel_trans.gif" border="0" alt="" width="1" height="5"></td>
+  </tr>
+  <tr>
+  <td align="center"><a target="_blank" href="http://pinterest.com/hotref" rel="nofollow"><img style="border:0px;width:26px;height:26px;" src="../../templates/images/pinterest.jpg"></a></td>
+  <td align="left"><a class="contac" target="_blank" href="http://pinterest.com/hotref" rel="nofollow"><span style="font-size:14px;">Pin us
+</span><br><span style="font-size:10px;">on Pinterest</span></a></td></tr>
+    		  		  		    <tr>
+    <td><img src="http://www.hotref.com/images/pixel_trans.gif" border="0" alt="" width="1" height="5"></td>
+  </tr>
+  <tr>
+  <td align="center"><a target="_blank" href="http://www.hotref.com/blog" rel="nofollow"><img style="border:0px;width:26px;height:26px;" src="../../templates/images/blog-icon.jpg"></a></td>
+  <td align="left"><a class="contac" target="_blank" href="http://www.hotref.com/blog" rel="nofollow"><span style="font-size:14px;">Read us
+</span><br><span style="font-size:10px;">on Blog</span></a></td></tr>
+    		  		  		    <tr>
+    <td><img src="http://www.hotref.com/images/pixel_trans.gif" border="0" alt="" width="1" height="5"></td>
+  </tr>
 
-
-<!-- information_eof //-->
-<!-- left_navigation_eof //-->
+    <tr>
+  <td align="center"><a target="_blank" href="http://www.youtube.com/hotrefpartyfavors" rel="nofollow"><img style="border:0px;width:26px;height:26px;" src="../../templates/images/youtube.jpg"></a></td><td align="left"><a class="contac" target="_blank" href="http://www.youtube.com/hotrefpartyfavors" rel="nofollow"><span style="font-size:14px;">Watch us
+</span><br><span style="font-size:10px;">on Youtube</span></a></td></tr>
+     		  		  		    <tr>
+    <td><img src="http://www.hotref.com/images/pixel_trans.gif" border="0" alt="" width="1" height="5"></td>
+  </tr> 
+  <tr>
+  <td align="center"><a target="_blank" href="https://plus.google.com/110473365425165034768" rel="publisher"><img style="border:0px;width:26px;height:26px;" src="../../templates/images/google-icon.jpg"></a></td>
+     <td align="left"><a class="contac" target="_blank" href="https://plus.google.com/110473365425165034768" rel="publisher"><span style="font-size:14px;">Follow us
+</span><br><span style="font-size:10px;">on Google+</span></a></td>
+  </tr>
+       		  		  		    <tr>
+    <td><img src="http://www.hotref.com/images/pixel_trans.gif" border="0" alt="" width="1" height="5"></td>
+  </tr> 
+</tbody></table>
+</td>
+  </tr>
+</tbody></table>
+            </td>
+          </tr><!-- left_navigation_eof //-->
     </tbody></table></td>
 <!-- body_text //-->
     <td width="100%" valign="top"><table border="0" width="100%" cellspacing="0" cellpadding="0">
@@ -425,7 +823,7 @@ If you have questions or comments about this privacy policy, please email us at
 <table border="0px" cellpadding="0" cellspacing="0" width="100%"> 
  
 <tbody><tr><td align="center"> 
-<table border="0px" width="80%">
+<table border="0px" width="90%">
 <tbody><tr><td width="3%"></td><td align="left" nowrap="nowrap" colspan="4">
 <div style="border: 1px solid #a6b9dc;background:#E0E0E0;height:30px;color:#666666;margin:2px;padding:3px 0px 3px 0px;font-size:16px;">&nbsp;<a href="http://www.hotref.com/signup_email.php" rel="nofollow"><img style="height:35px;border:0px;margin-bottom:-15px" src="http://www.hotref.com/images/email_images.gif"></a>&nbsp;&nbsp;&nbsp;Sign&nbsp;up&nbsp;for&nbsp;email&nbsp;offers&nbsp;and&nbsp;exclusive&nbsp;discounts&nbsp;&nbsp;&nbsp;&nbsp;
 <form name="email_line" method="POST" onsubmit="return checkemail()">
@@ -472,9 +870,9 @@ If you have questions or comments about this privacy policy, please email us at
 <tr>
 <td width="3%"></td>
 <td width="31%" nowrap="nowrap" align="left"><font pointsize="10px">Live Chat: <a class="footerbody" href="http://service.velaro.com/visitor/requestchat.aspx?siteid=7734&amp;showwhen=inqueue" target="OnlineChatSoftware" onclick="this.newWindow = window.open('http://service.velaro.com/visitor/requestchat.aspx?siteid=7734&amp;showwhen=inqueue', 'OnlineChatSoftware', 'toolbar=no,location=no,directories=no,menubar=no,status=no,scrollbars=no,resizable=yes,replace=no');this.newWindow.focus();this.newWindow.opener=window;return false;" rel="nofollow">Chat Now!</a></font></td>
-<td width="23%" nowrap="nowrap" align="left"><a class="footerbody" href="http://www.nyfifth.com">Apparel Store</a></td>
+<td width="23%" nowrap="nowrap" align="left"><a class="footerbody" href="http://www.nyfifth.com">Apparel Stores</a></td>
 <td width="23%" align="left"><a class="footerbody" href="http://www.hotref.com/shipping.php">Shipping &amp; Returns</a></td>
-<td width="18%" align="left"><a target="_blank" class="footerbody" href="http://www.sumaipiano.com" rel="nofollow"><img style="border:0px" src="/templates/images/blog-icon.jpg">&nbsp;Our Blog</a></td>
+<td width="18%" align="left"><a target="_blank" class="footerbody" href="http://www.hotref.com/blog"><img style="border:0px" src="/templates/images/blog-icon.jpg">&nbsp;Our Blog</a></td>
 <td width="3%"></td>
 </tr>
 <tr> 
@@ -491,7 +889,18 @@ If you have questions or comments about this privacy policy, please email us at
 <td width="23%"></td>
 <td width="23%"></td>
 <td width="18%" nowrap="nowrap" align="left">
-<a class="tf_upfront_badge" href="http://www.thefind.com/store/about-hotref" title="TheFind Upfront" style="text-decoration:none;" rel="nofollow">HotRef is Upfront</a>
+<a target="_blank" class="footerbody" href="http://www.youtube.com/hotrefpartyfavors" rel="nofollow"><img style="border:0px;width:18px;height:18px;" src="/templates/images/youtube.jpg">&nbsp;Youtube</a>
+</td>
+<td width="3%"></td>
+</tr>
+<tr>
+<td colspan="6" align="center" nowrap="nowrap"><br>
+<a target="_blank" href="http://www.bbb.org/greater-san-francisco/business-reviews/internet-selling-services/hotref-in-fremont-ca-360917#bbblogo" title="HotRef, Inc., Internet Selling Services, Fremont, CA" rel="nofollow"><img style="padding: 0px; border: none;margin-bottom:-3px;" id="bbblinkimg" src="/templates/images/bbb_hotref.jpg" width="100" height="50" alt="HotRef, Inc., Internet Selling Services, Fremont, CA"></a>
+&nbsp; 
+<a href="https://www.resellerratings.com" onclick="window.open('https://seals.resellerratings.com/landing.php?seller=49182','name','height=760,width=780,scrollbars=1'); return false;" rel="nofollow"><img style="border:none;" src="//seals.resellerratings.com/seal.php?seller=49182" width="85" height="50"></a>
+
+<img src="/templates/images/creditcards.jpg" border="0" alt="credit cards" title=" credit cards " width="313" height="46">
+<a class="tf_upfront_badge" href="http://www.thefind.com/store/about-hotref" title="TheFind Upfront"><img style="margin-bottom:5px;width:90px;height:30px;" border="0" src="/templates/images/upfront.png" alt="HotRef is an Upfront Merchant on TheFind. Click for info."></a>
   <script type="text/javascript">
     (function() {
       var upfront = document.createElement('SCRIPT'); upfront.type = "text/javascript"; upfront.async = true;
@@ -500,18 +909,7 @@ If you have questions or comments about this privacy policy, please email us at
       document.getElementsByTagName('HEAD')[0].appendChild(upfront);
     })();
   </script>
-
-
 </td>
-<td width="3%"></td>
-</tr>
-<tr>
-<td colspan="6" align="center" nowrap="nowrap"><br>
-<a target="_blank" href="http://www.bbb.org/greater-san-francisco/business-reviews/internet-selling-services/hotref-in-fremont-ca-360917#bbblogo" title="HotRef, Inc., Internet Selling Services, Fremont, CA" rel="nofollow"><img style="padding: 0px; border: none;" id="bbblinkimg" src="/templates/images/bbb_hotref.jpg" width="100" height="50" alt="HotRef, Inc., Internet Selling Services, Fremont, CA"></a>
-&nbsp; 
-<a href="https://www.resellerratings.com" onclick="window.open('https://seals.resellerratings.com/landing.php?seller=49182','name','height=760,width=780,scrollbars=1'); return false;" rel="nofollow"><img style="border:none;" src="//seals.resellerratings.com/seal.php?seller=49182" width="85" height="50"></a>
-
-<img src="/templates/images/creditcards.jpg" border="0" alt="credit cards" title=" credit cards " width="313" height="46"></td>
 </tr>
 <tr><td colspan="6" align="center" nowrap="nowrap">
 Browse Products:&nbsp;
@@ -608,6 +1006,7 @@ return false;
     $('#zoom_01').elevateZoom();
 </script>
 <!-- footer_eof //--> 
+</div>
 <!-- footer_eof //-->
 <br>
 
