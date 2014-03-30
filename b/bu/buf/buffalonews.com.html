@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the buffalonews.com privacy policy that was archived on 2013-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131014124135id_/http%3A//www.buffalonews.com/help/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buffalonews.com privacy policy that was archived on 2014-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140330104202id_/http%3A//www.buffalonews.com/help/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 	<meta name="google-site-verification" content="cc97zTRc-Gx3ihwj-utZA3h5yYIjEWUUzq-d2wahc28">
@@ -38,7 +38,7 @@
 	<link rel="stylesheet" href="/css/alerts-reg.min.css">
 	<link rel="stylesheet" href="/css/bootstrap.min.css?v01">
 	<!-- common JS -->
-	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/common_01.min.js?v01"></script>
+	<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/common_01.min.js?v01"></script>
 		<!-- mobile redirect -->
 		<script>var isArticle = 0</script>
 		<script type="text/javascript" src="/js/browser.js"></script>
@@ -96,158 +96,78 @@
 			}
 		});
 	</script> 
-	<!-- get the yahoo APT for the given section -->
 	<script>
 		var glb_tbn_section = "Help";
-		var boolSpillPage =  ( window.location.href.indexOf("template=articleListing") >= 0 ? true : false );
-		if(glb_tbn_section == "" && !boolSpillPage)
-		{
-			glb_tbn_section = "FRONTPAGE";
-		}
 		var glb_tbn_subsection = "Privacy Policy";
-		var glb_tbn_saxoCache_debug = "20131014041145,http://www.buffalonews.com,/apps/pbcs.dll/section?Category=HELP02,HELP,HELP02,1568,,";
-		var glb_apt_section = "";
-		if(glb_tbn_section.toLowerCase() == "frontpage" && !boolSpillPage)
-		{
-			glb_apt_section = "Homepage";
-		}
-		else if(glb_tbn_subsection.toLowerCase() == "city & region" || glb_tbn_subsection.toLowerCase() == "sports" || glb_tbn_subsection.toLowerCase() == "business" || glb_tbn_subsection.toLowerCase() == "opinion" || glb_tbn_subsection.toLowerCase() == "life & arts" || glb_tbn_subsection.toLowerCase() == "gusto" || glb_tbn_subsection.toLowerCase() == "weather")
-		{
-			glb_apt_section = "Primary Front";
-		}
-		else
-		{
-			glb_apt_section = "Secondary Front";
-		}
+		var glb_tbn_saxoCache_debug = "20140330040337,http://www.buffalonews.com,/apps/pbcs.dll/section?Category=HELP02,HELP,HELP02,1568,,";
 	</script>
-	<!--
-	< p b s:macro name="yahooAPT/getAPTID" mainSection="Help" section="Privacy Policy">
-	-->
-	<script> 
-	var glb_tbn_profileID = '1568';
-	var bln_tbn_categoryID = 'privacypolicy';
-	var glb_tbn_yahooAPTID = '0';
-	var glb_apt_reportingTag = '||';
-	var glb_apt_custom_section = '';
-</script>
-    <!-- APT advertising slots -->
- 	<script type="text/javascript">
-	//<![CDATA[
-	TBN.apt = {};
-	if( window.location.href.indexOf("search?") >= 0 )
-	{
-	glb_apt_reportingTag = "Online|Search";
-	glb_apt_section = "Primary Front";
-	}
-	if (window.location.href.indexOf("testads") >= 0) {
-	glb_tbn_yahooAPTID = "20418501";
-	}
-	TBN.apt.topic_id = glb_tbn_yahooAPTID;
-	TBN.apt.reporting_tag = glb_apt_reportingTag;
-	TBN.apt.sctn = glb_apt_section;
-	yld_mgr = {};
-	yld_mgr.pub_id="21065751319";
-	yld_mgr.site_name="BuffaloNews.com";
-	yld_mgr.request_type="ac";
-	yld_mgr.container_type="js";
-	yld_mgr.content_lang="en-us";
-	if(glb_apt_custom_section != "")
-	{
-		yld_mgr.cstm_sctn_list=[glb_apt_custom_section];
-	}
-	else
-	{
-		yld_mgr.cstm_sctn_list=[glb_apt_section];
-	}
-	yld_mgr.content_topic_id_list=[TBN.apt.topic_id];
-	// Special handling for inserting extra topic ids via McClatchy Page Elements
-	var topicAdd = "";
-	var topicOverride = "";
-	if (topicOverride.length > 0)
-	{
-	yld_mgr.content_topic_id_list=[topicOverride];
-	}
-	yld_mgr.slots = {};
-	yld_mgr.slots.redirect = {};
-	yld_mgr.slots.redirect.ad_size_list=["18x18"];
-	yld_mgr.slots.redirect.ad_delivery_mode="ipatf";
-	yld_mgr.slots.redirect.content_type_list=["fn_news"];
-	yld_mgr.slots.redirect.reporting_tag_list=[TBN.apt.reporting_tag];
-	yld_mgr.slots.top_leaderboard = {};
-	if(glb_tbn_section.toLowerCase() == "frontpage")
-	{
-		yld_mgr.slots.top_leaderboard.ad_size_list=["980x90"];
-	}
-	else {
-		yld_mgr.slots.top_leaderboard.ad_size_list=["728x90"];
-	}
-	//yld_mgr.slots.top_leaderboard.ad_size_list=["980x90"];
-	yld_mgr.slots.top_leaderboard.ad_delivery_mode="ipatf";
-	yld_mgr.slots.top_leaderboard.content_type_list=["fn_news"];
-	yld_mgr.slots.top_leaderboard.reporting_tag_list=[TBN.apt.reporting_tag];
-	yld_mgr.slots.pencil = {};
-	yld_mgr.slots.pencil.ad_size_list=["950x30"];
-	yld_mgr.slots.pencil.ad_delivery_mode="ipatf";
-	yld_mgr.slots.pencil.content_type_list=["fn_news"];
-	yld_mgr.slots.pencil.reporting_tag_list=[TBN.apt.reporting_tag];
-	yld_mgr.slots.floatover = {};
-	yld_mgr.slots.floatover.ad_size_list=["1x1"];
-	yld_mgr.slots.floatover.ad_delivery_mode="ipatf";
-	yld_mgr.slots.floatover.content_type_list=["fn_news"];
-	yld_mgr.slots.floatover.reporting_tag_list=[TBN.apt.reporting_tag];
-	yld_mgr.slots.sponsor_badge = {};
-	yld_mgr.slots.sponsor_badge.ad_size_list=["120x60"];
-	yld_mgr.slots.sponsor_badge.ad_delivery_mode="ipatf";
-	yld_mgr.slots.sponsor_badge.content_type_list=["fn_news"];
-	yld_mgr.slots.sponsor_badge.reporting_tag_list=[TBN.apt.reporting_tag];
-	yld_mgr.slots.medium_box_1 = {};
-	yld_mgr.slots.medium_box_1.ad_size_list=["300x250"];
-	yld_mgr.slots.medium_box_1.ad_delivery_mode="ipatf";
-	yld_mgr.slots.medium_box_1.content_type_list=["fn_news"];
-	yld_mgr.slots.medium_box_1.reporting_tag_list=[TBN.apt.reporting_tag];
-	yld_mgr.slots.medium_box_2 = {};
-	yld_mgr.slots.medium_box_2.ad_size_list=["300x250"];
-	yld_mgr.slots.medium_box_2.ad_delivery_mode="ipbtf";
-	yld_mgr.slots.medium_box_2.content_type_list=["fn_news"];
-	yld_mgr.slots.medium_box_2.reporting_tag_list=[TBN.apt.reporting_tag];
-	yld_mgr.slots.medium_box_3 = {};
-	yld_mgr.slots.medium_box_3.ad_size_list=["300x250"];
-	yld_mgr.slots.medium_box_3.ad_delivery_mode="ipbtf";
-	yld_mgr.slots.medium_box_3.content_type_list=["fn_news"];
-	yld_mgr.slots.medium_box_3.reporting_tag_list=[TBN.apt.reporting_tag];
-	yld_mgr.slots.bottom_leaderboard = {};
-	yld_mgr.slots.bottom_leaderboard.ad_size_list=["728x90"];
-	yld_mgr.slots.bottom_leaderboard.ad_delivery_mode="ipbtf";
-	yld_mgr.slots.bottom_leaderboard.content_type_list=["fn_news"];
-	yld_mgr.slots.bottom_leaderboard.reporting_tag_list=[TBN.apt.reporting_tag];
-	if (topicAdd.length > 0)
-	{
-	yld_mgr.slots.top_leaderboard.cstm_content_cat_list=[topicAdd];
-	yld_mgr.slots.medium_box_1.cstm_content_cat_list=[topicAdd];
-	yld_mgr.slots.medium_box_2.cstm_content_cat_list=[topicAdd];
-	yld_mgr.slots.bottom_leaderboard.cstm_content_cat_list=[topicAdd];
-	}
-	//]]>
+	<!-- DFP library asynchronously -->
+	<script type="text/javascript">
+	  /*var googletag = googletag || {};
+	  googletag.cmd = googletag.cmd || [];
+	  (function() {
+	    var gads = document.createElement("script");
+	    gads.async = true;
+	    gads.type = "text/javascript";
+	    var useSSL = "https:" == document.location.protocol;
+	    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+	    var node =document.getElementsByTagName("script")[0];
+	    node.parentNode.insertBefore(gads, node);
+	   })();*/
 	</script>
-	<script type="text/javascript" src="http://e.yieldmanager.net/script.js"></script>
-    <!-- Google Analytics -->    
-    <script type="text/javascript">
-	//<![CDATA[
-		var _gaq = _gaq || [];
-		_gaq.push(['_setAccount', 'UA-5339712-1']);
-		_gaq.push(['_setDomainName', '.buffalonews.com']);
-		_gaq.push(['_setAllowLinker', true]);
-		_gaq.push(['_trackPageview']);
-		// _gaq.push(['t2._setAccount', 'UA-5339712-16']);
-		// _gaq.push(['t2._trackPageview',window.location.host]);
-		(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0];
-		s.parentNode.insertBefore(ga, s);
-		})();
-	//]]>
+	<!-- DFP library synchronously -->
+	<script type="text/javascript">
+	(function() {
+	var useSSL = 'https:' == document.location.protocol;
+	var src = (useSSL ? 'https:' : 'http:') +
+	'//www.googletagservices.com/tag/js/gpt.js';
+	document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+	})();
+	</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+	<script type="text/javascript">
+	    googletag.pubads().set("adsense_background_color", "FFFFFF");
 	</script>
+	<!-- DFP configure ad slots -->
+	<!-- DFP configure ad slots -->
+		<script type="text/javascript">
+	    googletag.cmd.push(function() {
+	      var adSlot1= googletag.defineSlot('/4974125/Array', [1, 1], 'div-gpt-ad-custom'); 
+	      var adSlot2= googletag.defineSlot('/4974125/Array', [728, 90], 'div-gpt-ad-leaderboard-1');
+	      var adSlot3= googletag.defineSlot('/4974125/Array', [728, 90], 'div-gpt-ad-leaderboard-2');
+	      var adSlot4= googletag.defineSlot('/4974125/Array', [120, 60], 'div-gpt-ad-badgesmall'); 
+	      var adSlot5= googletag.defineSlot('/4974125/Array', [940, 30], 'div-gpt-ad-pencil');
+	      var adSlot6= googletag.defineSlot('/4974125/Array', [300, 250], 'div-gpt-ad-boxmedium-1'); 
+	      var adSlot7= googletag.defineSlot('/4974125/Array', [300, 250], 'div-gpt-ad-boxmedium-2');
+	      var adSlot8= googletag.defineSlot('/4974125/Array', [300, 250], 'div-gpt-ad-boxmedium-3'); 
+		  var adSlot9= googletag.defineSlot('/4974125/Array', [160, 600], 'div-gpt-ad-skyscraper');
+	      //Add custom targeting value, key, key with multiple values, or multiple keys
+	      adSlot2.setTargeting('POS', ['ATF']); 
+	      adSlot6.setTargeting('POS', ['ATF']);
+	      adSlot1.addService(googletag.pubads());
+	      adSlot2.addService(googletag.pubads());
+	      adSlot3.addService(googletag.pubads());
+	      adSlot4.addService(googletag.pubads());
+	      adSlot5.addService(googletag.pubads());
+	      adSlot6.addService(googletag.pubads());
+	      adSlot7.addService(googletag.pubads());
+	      adSlot8.addService(googletag.pubads());
+	      adSlot9.addService(googletag.pubads());
+	      googletag.pubads().setTargeting();
+		  googletag.pubads().enableSingleRequest();
+		  googletag.pubads().collapseEmptyDivs();
+		  googletag.pubads().enableSyncRendering();
+		  googletag.enableServices();
+	    });
+	  </script>
+	<!-- Google Universal Analytics --> 
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	  ga('create', 'UA-5339712-1', 'buffalonews.com');
+	  ga('send', 'pageview');
+	</script> 
 	<!-- js for chart beat real time analytics -->
 	<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 	<!-- <script src="/js/libs/jquery.bxSlider.min.js?v01" type="text/javascript"></script> -->
@@ -259,9 +179,10 @@
 	<!--<script type="text/javascript" src="/js/jquery_base.js"></script>-->
 	<!--<script type="text/javascript" src="/js/libs/jquery.min.js"></script>-->
 	<!--<script type="text/javascript" src="/js/libs/jquery.all.js"></script>-->
-</head>
+	</head><body><a href="https://plus.google.com/117334753013097675960" rel="publisher">
 
-<body>
+
+
 	<!-- Facebook --> 
 	<div id="fb-root"></div>
 	<script>(function(d, s, id) {
@@ -273,40 +194,17 @@
 	}(document, 'script', 'facebook-jssdk'));
 	</script>
 	<!-- Facebook --> 
-    <!-- Chartbeat --> 
-    <script type="text/javascript">
-        var _sf_async_config={};
-        /** CONFIGURATION START **/
-        _sf_async_config.uid = 40376;
-        _sf_async_config.domain = 'buffalonews.com';
-        _sf_async_config.sections = 'Privacy Policy';  //CHANGE THIS
-        _sf_async_config.authors = 'HELP02';    //CHANGE THIS
-        /** CONFIGURATION END **/
-        (function(){
-          function loadChartbeat() {
-            window._sf_endpt=(new Date()).getTime();
-            var e = document.createElement('script');
-            e.setAttribute('language', 'javascript');
-            e.setAttribute('type', 'text/javascript');
-            e.setAttribute('src',
-               (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
-               'js/chartbeat.js');
-            document.body.appendChild(e);
-          }
-          var oldonload = window.onload;
-          window.onload = (typeof window.onload != 'function') ?
-             loadChartbeat : function() { oldonload(); loadChartbeat(); };
-        })();
-    </script>
-    <!-- Chartbeat --> 
-	<div class="wrapper">
-    	<a name="top"></a>
+	</a><div class="wrapper"><a href="https://plus.google.com/117334753013097675960" rel="publisher">
+    	</a><a name="top"></a>
         <!-- <a href="#navPrimary" class="visuallyhidden">Skip to primary navigation</a> -->
         <a href="#main" class="visuallyhidden">Skip to main content</a>
         <div class="ad floatover">	
-            <script type="text/javascript">
-            yld_mgr.place_ad_here("floatover");
-            </script>
+            <!-- DFP display ad slot -->
+<div id="div-gpt-ad-custom">
+  <script type="text/javascript">
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-custom'); });
+  </script>
+</div>
         </div>
         <div class="barTopWrap clearfix">
         	<div class="barTop">
@@ -346,9 +244,12 @@
         </div>
         <div class="adLeaderboardTop centerInner">
         	<div>
-			<script type="text/javascript">
-            yld_mgr.place_ad_here("top_leaderboard");
-            </script>
+			<!-- DFP display ad slot -->
+<div id="div-gpt-ad-leaderboard-1">
+  <script type="text/javascript">
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-leaderboard-1'); });
+  </script>
+</div>
             </div>
         </div>	
         <div class="page centerOuter clearfix">
@@ -359,7 +260,7 @@
                     <li class="rounded" style="background:#e98410; margin-left:.3em;"><a style="color:#ffffff;" href="https://services.buffalonews.com/cgi/cgiip.wsc/custservice/web/registration.html" target="_blank">Register</a></li>
                 </ul>-->
                 <div id="divLoginRegister" class="left"></div>
-				<span class="headerDate right">Monday October 14, 2013</span>
+				<span class="headerDate right">Sunday March 30, 2014</span>
 			</div>
 
 <h1 id="sectionHeader" class="left"><a href="/section/HELP">Help</a></h1>
@@ -525,24 +426,22 @@
                         <ul class="listVert col30 left">
                         	<li><a href="http://edition.pagesuite-professional.co.uk/digitaleditions.aspx?tab=0&amp;pid=d7fed0ff-b69c-4f68-bdc0-722adb334473" target="_blank">E-edition</a></li>
                             <li><a href="http://www.buffalo.com/" target="_blank">Buffalo.com</a></li>
-                            <li><a href="http://www.shopbuffalo.com/" target="_blank">ShopBuffalo</a></li>
                             <li><a href="http://bflomagazine.com/" target="_blank">Buffalo Magazine</a></li>
-                        </ul>
-                        <ul class="listVert col30 left">
-                       		<li><a href="http://bninsider.buffalonews.com/" target="_blank">[BN]insider</a></li>
-                       		<li><a href="http://buffalonewsstore.com/" target="_blank">Buffalo News Store</a></li><a href="http://buffalonewsstore.com/" target="_blank">
+                            <li><a href="http://buffalonewsstore.com/" target="_blank">Buffalo News Store</a></li><a href="http://buffalonewsstore.com/" target="_blank">
+                        </a></ul><a href="http://buffalonewsstore.com/" target="_blank">
+                        </a><ul class="listVert col30 left"><a href="http://buffalonewsstore.com/" target="_blank">
                         	</a><li><a href="http://buffalonewsstore.com/" target="_blank"></a><a href="http://shopping.buffalonews.com/SS/Tiles.aspx?ex=menus" target="_blank">Marketplace</a></li>
                             <li><a href="http://shopping.buffalonews.com/SS/Tiles.aspx?type=buffalosavers&amp;sstarg=buffalosavers" target="_blank">Buffalo Savers</a></li>
+                            <li><a href="http://www.buffalonews.com/classifieds" target="_blank">Classifieds</a></li>
+                            <li><a href="http://www.sweetfind.com" target="_blank">Sweetfind</a></li>
                         </ul>
                         <ul class="listVert col30 left">
-                        	<li><a href="http://www.buffalonews.com/classifieds" target="_blank">Classifieds</a></li> 
                             <li><a href="http://www.buffalocars.com/" target="_blank">BuffaloCars</a></li>
                             <li><a href="http://www.homefinderextra.com/" target="_blank">HomeFinderExtra</a></li>
                             <li><a href="http://www.homefinderextra.com/rentals/" target="_blank">ApartmentFinderExtra</a></li>
                         </ul>
                         <ul class="listVert col30 left">
                         	<li><a href="http://buffalojobfinder.com/" target="_blank">BuffaloJobFinder</a></li>
-                        	<li><a href="http://www.sweetfind.com" target="_blank">Sweetfind</a></li>
                             <li><a href="http://www.buffalobrides.com/" target="_blank">Buffalo Brides</a></li>
                             <li><a href="http://www.gadzoo.com/buffalonews/pets.aspx" target="_blank">Pet Place</a></li>
                         </ul>
@@ -559,7 +458,7 @@
                     </div>-->
                     <div class="box left">
                     	<a href="http://www.buffalonews.com"><img border="0" class="left marginR" src="/images/logo-BN-bracketFooter.png" width="43" height="30" alt="[BN]"></a>
-                        <p class="left">Copyright 1999 - 2013 - The Buffalo News copyright-protected material.</p>
+                        <p class="left">Copyright 1999 - 2014 - The Buffalo News copyright-protected material.</p>
                     </div>
                 </div><!-- .footerSecondary -->
             </footer>
@@ -710,7 +609,25 @@ function popitup(url,height,width) {
     return false;
 }
 </script>
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6035426" });
+ (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035426&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
 <script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+<script>
+//chrome v.33 @fontface fix 
+$('head').append('<link rel="stylesheet" type="text/css" href="/css/miller.css">');
+</script>
 
 
-<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+</body></html>
