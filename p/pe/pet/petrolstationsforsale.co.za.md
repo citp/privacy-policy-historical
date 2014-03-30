@@ -1,25 +1,26 @@
-> *The following text is extracted and transformed from the petrolstationsforsale.co.za privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819153447id_/http%3A//www.petrolstationsforsale.co.za/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petrolstationsforsale.co.za privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330214923id_/http%3A//petrolstationsforsale.co.za/privacy.php) for the most accurate reproduction.*
 
 # Cyrus Business Brokers South Africa - Privacy Policy
 
-**Cyrus Business Brokers & Associates** and all related companies, take your privacy seriously. Please read the following to learn more about our **Privacy Policy**. 
+**Cyrus Business Brokers** ** & Associates** and all related companies, take your privacy seriously. Please read the following to learn more about our  **Privacy Policy**.  **Protecting your information**  
+**[Cyrus Business Brokers](http://www.petrolstationsforsale.co.za/index.php)**  values the users of our website. We esteem your privacy and believe and consider it an significant part of our business.  We recognize that you may be worried about our collection, use, and revelation of the in person identifiable data that we collect when you use/browse our website. By utilising the website you are accepting our principles and practices as recounted in this Privacy Policy. If you have any questions or comments regarding this Privacy Policy, please contact us at  **[info@petrolstationsforsale.co.za](mailto:andre@petrolstationsforsale.co.za).**
 
-**Protecting your information**  
-[Cyrus Business Brokers](https://web.archive.org/web/20130819153447id_/http%3A//www.petrolstationsforsale.co.za/index.php) values the users of our website. We respect your privacy and trust and consider it an important part of our business We realize that you may be concerned about our collection, use, and disclosure of the personally identifiable information that we collect when you use/browse our website. By using the website you are accepting our policies and practices as described in this **Privacy Policy**. If you have any questions or comments regarding this Privacy Policy, please contact us at [andre@petrols tationsforsale.co.za](mailto:andre@petrolstationsforsale.co.za).
+**Personal data assembled**  
+We collect personal information from you only if you provide it voluntarily. This data cannot and does not identify you individually. We assemble and sustain certain individual information about you when you entire any of our online types or drive us an internet message. The information you provide can identify you individually and encompasses items such as your name and email address and is utilised to drive demanded data and to reply to enquiries. 
 
- **Personal Information Collected**  
-We collect personal information from you only if you provide it voluntarily. The type of personally identifiable information that may be collected by us include name, address, e-mail address and information about your requirement. The information you provide is not and shall never be given or sold to any third party (except if required by law) or be used for spam or for sending unsolicited mail(s).
+**Information**
 
- **Information Collected and Stored Automatically**  
-If you visit our website just to browse, read pages or download information, we gather and store certain information about your visit automatically. This information cannot and does not identify you personally. We collect and maintain certain personal information about you when you complete any of our online forms or send us an email. The information you provide can identify you individually and includes items such as your name and email address and is used to send requested information and to respond to enquiries. 
+ **assembled and stored mechanically**  
+If you visit our website just to browse, read pages or download data, we accumulate and shop certain data about your visit mechanically. This data cannot and does not identify you individually. We assemble and sustain certain individual information about you when you entire any of our online types or drive us an internet message. The information you provide can identify you individually and encompasses items such as your name and email address and is utilised to drive demanded data and to reply to enquiries. The kind of data that is gathered mechanically include the designated day and time of your visit and the sheets you visit. We occasionally use this non-personally identifiable data to improve our website content that finally gives you a better browsing know-how.  
+  
+**Links to Other Sites**  
+Our website sometimes comprises connections to other websites whose privacy policies may be different to ours. The privacy principles of these websites are not under our control. one time you leave our servers, use of any data you supply is governed by the privacy principle of the operator of the site you are visiting. tourists should confer the other sites' privacy notices as we have no control over the data that is submitted to, or assembled by, these third parties.
 
-The kind of information that is gathered automatically include the date and time of your visit and the pages you visit. We sometimes use this non-personally identifiable information to improve our website content that eventually gives you a better browsing experience.
+  
+**Alterations in Privacy Principle  
+**The policy may change from time to time; so delight ascertain it occasionally. express gratitude you for taking the time to read our Privacy principle.
 
- **Links to Other Sites**  
-Our website sometimes contains links to other websites whose privacy policies may be different to ours. The privacy policies of these websites are not under our control. Once you leave our servers, use of any information you provide is governed by the **privacy policy** of the operator of the site you are visiting. Visitors should consult the other sites' privacy notices as we have no control over the information that is submitted to, or collected by, these third parties.
+**Do you have any additional inquiries?    
+**If you have any inquiries or concerns, delight communicate us at +27 (0)12 333 9042 or 
 
- **Changes in Privacy Policy**  
-The policy may change from time to time; so please check it periodically. Thank you for taking the time to read our **Privacy Policy**.
-
- **Do you have any additional questions?**  
-If you have any questions or concerns, please contact us at +27 (0)12 333 9042 or [andre@petrolstationsforsale.co.za](mailto:privacy@petrolstationsforsale.co.za)
+**info@petrolstationsforsale.co.za**
