@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoosierlottery.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812092817id_/https%3A//www.hoosierlottery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoosierlottery.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330185118id_/https%3A//hoosierlottery.com/privacy-policy) for the most accurate reproduction.*
 
 # Hoosier Lottery - privacy policy
 
