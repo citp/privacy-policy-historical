@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the scfederal.org privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821005235id_/https%3A//www.scfederal.org/Privacy-Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scfederal.org privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330183415id_/https%3A//www.scfederal.org/Privacy-Notice) for the most accurate reproduction.*
 
 # South Carolina Federal Credit Union - for all your financial and banking needs
 
 [Home](https://web.archive.org/) > Privacy-Notice
 
- Rev. 10/12
+ Rev. 9/13
 
 FACTS  | WHAT DOES SOUTH CAROLINA FEDERAL CREDIT UNION DO WITH YOUR PERSONAL INFORMATION?   
 ---|---  
@@ -34,7 +34,7 @@ FACTS  | WHAT DOES SOUTH CAROLINA FEDERAL CREDIT UNION DO WITH YOUR PERSONAL INF
   * Visit us online at **scfederal.org**
 
   
- **Please note:** If you are a new member, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our member, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.   
+**Please note:** If you are a new member, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our member, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.   
 ---|---  
   
 **Questions?** | Call 843-797-8300 **(Charleston)** or 800-845-0432 **(Nationwide)** or visit us online at scfederal.org  
