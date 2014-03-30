@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the srds.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821042623id_/http%3A//next.srds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srds.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330221350id_/http%3A//next.srds.com/privacy) for the most accurate reproduction.*
 
 # Kantar Media SRDS Privacy Policy
 
 * * *
 
-### Updated and Effective March 15, 2013
+### Updated and Effective October 14, 2013
 
 * * *
 
@@ -55,7 +55,9 @@ Kantar Media SRDS will retain your information for as long as necessary to compl
 
 ### Cookies
 
-"Cookies" are small files that may be placed on your computer for the purpose of facilitating and enhancing your interaction with our service. We place cookies on your computer from us and third parties who provide services to us, such as analytics providers that help us manage and analyze service usage. You may stop or restrict the placement of cookies on your computer or flush them from your browser by adjusting your web browser preferences, in which case you may still use our service, but it may interfere with some of its functionality. We do not use cookies to enable third parties to target advertising specifically to you or your computer or to collect personally identifiable information from you without your consent.
+"Cookies" are small files that may be placed on your computer for the purpose of facilitating and enhancing your interaction with our service. We place cookies on your computer from us and third parties who provide services to us, such as analytics providers that help us manage and analyze service usage. You may stop or restrict the placement of cookies on your computer or flush them from your browser by adjusting your web browser preferences, in which case you may still use our service, but it may interfere with some of its functionality. 
+
+As you browse SRDS.com, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partners such as AdRoll, Bizo and others then enable us to present you with retargeting advertising on other sites based on your previous interaction with SRDS.com. The techniques our partners employ _do not collect personal information_ such as your name, email address, postal address or telephone number. [You can visit this page to opt out](http://www.networkadvertising.org/choices/ "Opt-out of partner advertising") of our partners' targeted advertising.
 
 ### Links
 
