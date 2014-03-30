@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pingorange.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211230944id_/http%3A//www.pingorange.com/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingorange.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330232754id_/http%3A//www.pingorange.com/html/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -39,6 +39,12 @@ Advertising
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
+\- Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+
+\- Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+
+\- Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, you can opt out of a third-party vendor's use of cookies for interest based advertising by visiting aboutads.info.)
+
 Changes to this privacy policy
 
 pingorange.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
@@ -54,4 +60,4 @@ pingorange.com
 http://www.pingorange.com  
 info () @ () pingorange.com
 
-This document was last updated on May 17, 2013
+This document was last updated on March 17, 2014
