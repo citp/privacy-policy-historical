@@ -1,57 +1,97 @@
-> *The following text is extracted and transformed from the dacardworld.com privacy policy that was archived on 2012-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120129004814id_/http%3A//www.dacardworld.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dacardworld.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330221817id_/http%3A//www.dacardworld.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Dave and Adam's Card World
+# Privacy Policy | Help and FAQs | Dave and Adam's Company Blog
 
-### Dave and Adam’s Card World Privacy Policy
+**What information do we collect?**
 
-Dave and Adam’s Card World follows these privacy principles both online and offline in regards to the collection, use, sharing and security of customer information. We value the relationship we have with our customers and are committed to responsible information-handling practices. We take great care in safeguarding your personal information and in complying with all applicable federal and state privacy laws and our own internal standards and best practices.
+We collect information from you when you register on our site, place an order or subscribe to our newsletter.
 
-### Dave and Adam’s Card World does not sell, rent, disclose, or share your personal information to third parties.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-The following Privacy Policy describes the information and privacy practices for Dave and Adam’s Card World retail stores, Dacardworld.com and all other locations, occasions or events where your personal information is collected by, or on behalf of, Dave and Adam’s Card World. When you provide us with your personal information, you consent to the information practices described in this policy.
+**What do we use your information for?**
 
-  * Do we share your personal information with others?  
-Information about our customers is an important part of our business, but we are not in the business of selling it to third parties. 
-    * Protection of Dacardworld.com and Others 
-      * We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of Dacardworld.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Policy.
-    * With your consent: 
-      * Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
+Any of the information we collect from you may be used in one of the following ways:
 
+; To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-  * A special note about children: 
-    * Children (persons under the age of 18) are not allowed to use the site unsupervised. If you are under the age of 18, you may use this site in conjunction with and under the supervision of you parents or guardians.
+; To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
+; To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-  * What information do we collect?  
-The information we learn from customers helps us personalize and continually improve your shopping experience at Dacardworld.com. Here are the types of information we gather. 
-    * We receive and store any information you enter on our web site or give us in any other way. We may collect personal information such as: 
-      * Your contact information (name, mailing address, phone number, email address).
-      * Your billing/shipping information (credit card number, shipping address).
-      * Your personal preferences (product wish list, order history, hobbies and likes or dislikes relating to the products we may offer)
-    * In general, you can browse our website without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. If you choose to use our services, we may require you to provide contact and identity information, billing information, shipping information and other personal information as indicated on the forms throughout our website. Where possible, we indicate which fields are required and which fields are optional. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features or services. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving out stores, and communicating with you.
+; To process transactions
 
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-  * When do we collect information? 
-    * While shopping or taking advantage of services available from us, we may ask that you provide personal information. For example, we request personal information when you: 
-      * Set up an account online
-      * Purchase products or services
-      * Contact us with a question or concern
-      * Participate in other activities with Dave and Adam’s Card World
-    * We receive and store certain types of information whenever you interact with us through the use of cookies. In order to provide you with the most personalized experience on our website, we use information provided to us from your browser in the form of cookies which store information such as your buying preferences.
+; To administer a contest, promotion, survey or other site feature
 
+; To send periodic emails
 
-  * How is the information used? 
-    * We will use the information you provide in order to: 
-      * Fulfill requests for products, services or information
-      * Provide customer services
-      * Offer new products and services
-      * Improve the effectiveness of our web site, our marketing endeavors and our services and offers.
-      * Conduct research and analysis
-      * Send marketing communications
-      * Perform other business activities
+> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-  * Changes to the Dacardworld.com Privacy Policy 
-    * We reserve the right to change, modify or amend this policy ay any time. Please check our Privacy Policy periodically for changes.
+**How do we protect your information?**
 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will be kept on file for more than 60 days in order to Automatically charge orders at customer’s request.
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service.
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+**Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.dacardworld.com/help/terms-of-service>
+
+**Your Consent**
+
+By using our site, you consent to our online privacy policy.
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+
+This policy was last modified on June 11th 2012
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+Dave and Adam’s Card World  
+55 Oriskany Drive  
+Tonawanda, New York 14150  
+United States  
+service@dacardworld.com  
+1-888-440-9787
