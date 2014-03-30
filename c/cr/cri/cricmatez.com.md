@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cricmatez.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229080534id_/http%3A//www.cricmatez.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricmatez.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330131903id_/http%3A//www.cricmatez.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy PolicyCricmatez
 
 At _Cricmatez_ , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by _Cricmatez_ and how it is used.
 
