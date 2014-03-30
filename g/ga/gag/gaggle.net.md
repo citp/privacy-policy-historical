@@ -1,30 +1,19 @@
-> *The following text is extracted and transformed from the gaggle.net privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425053412id_/https%3A//gaggle.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaggle.net privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330140718id_/https%3A//www.gaggle.net/privacy) for the most accurate reproduction.*
 
-# Privacy « Gaggle
+# Privacy |
 
 **  
-Background**
-
-Disclosure
-
-Third Party Advertising
-
-Demographic Data
-
-Security
-
-Student Safety
-
-Privacy Policy Changes
-
-Choice/Opt Out
-
-Correcting and Updating Information
-
-Safe Harbor Statement
-
-Contacting the Web Site
-
+**Background  
+Disclosure  
+Third Party Advertising  
+Demographic Data  
+Security  
+Student Safety  
+Privacy Policy Changes  
+Choice/Opt Out  
+Correcting and Updating Information  
+Safe Harbor Statement  
+Contacting the Web Site  
 Trademarks
 
 ### Background
@@ -47,14 +36,13 @@ We do not disclose personal information such as your name, address, email addres
 Gaggle uses third-party advertising companies to serve ads when you visit the Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see the links below for our Ad Network Partners:
 
   * [Value Click](http://www.valueclick.com/privacy.html)
-  * [TribalFusion](http://www.exponential.com/who-we-are/privacy-policy.jsp)
+  * [TribalFusion](http://www.tribalfusion.com/tfcompany/privacy_policy)
 
 
 
 ### Demographic Data
 
-In the future, advertising shown to users may be based upon demographic data that has been collected during the sign up process. Such data would include geographic location, age, and gender. Targeting based upon this data will enable us to ensure that advertisements are appropriate for the age of the user and of general interest to users fitting a specific profile. We welcome your feedback on this topic and encourage you to  
-[email us](mailto:support@gaggle.net) your thoughts.
+In the future, advertising shown to users may be based upon demographic data that has been collected during the sign up process. Such data would include geographic location, age, and gender. Targeting based upon this data will enable us to ensure that advertisements are appropriate for the age of the user and of general interest to users fitting a specific profile. We welcome your feedback on this topic and encourage you to [email us](mailto:support@gaggle.net) your thoughts.
 
 ### Security
 
@@ -100,7 +88,7 @@ This site gives users the following options for changing and modifying informati
 
 ### Safe Harbor Statement
 
-Follow this link for information on [Gaggle’s Safe Harbor Statement and Registration.](https://web.archive.org/gaggle-apps/safety-security/)
+Follow this link for information on [Gaggle’s Safe Harbor Statement and Registration.](https://www.gaggle.net/safe-harbor-statement/)
 
 ### Contacting the Web Site
 
@@ -117,7 +105,3 @@ If you have any questions about this privacy statement, the practices of this si
 All trademarks, service marks, trade names, logos and graphics (“Marks”) indicated on this site are registered trademarks of Gaggle, its affiliates and/or licensors, in the United States and other countries. You may not make any use of Gaggle Marks without the prior written consent of Gaggle.Net, Inc.
 
 The company, product and service names used in this website are for identification purposes only. All trademarks and registered trademarks are the property of their respective owners.
-
-  
-  
-
