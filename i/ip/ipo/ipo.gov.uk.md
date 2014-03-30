@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipo.gov.uk privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019195207id_/http%3A//www.ipo.gov.uk/cookies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipo.gov.uk privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330231610id_/http%3A//www.ipo.gov.uk/cookies.htm) for the most accurate reproduction.*
 
 # Intellectual Property Office - Cookies and Privacy
 
@@ -106,7 +106,7 @@ These cookies are set by our website and are also referred to as 'first-party' c
 
 ### IPODTCookie
 
-  *  **Purpose** : Session identifer, used by the IP Healthcheck online tool.
+  *  **Purpose** : Session identifer, used by the IP Health Check online tool.
   *  **Benefit** : To keep you logged into the online tool.
   *  **Data stored by cookie** : Information about the session; the cookie itself contains no personal information.
   *  **Duration of cookie** : Expires when you close your browser.
