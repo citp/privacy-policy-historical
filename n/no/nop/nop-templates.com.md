@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nop-templates.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819190558id_/http%3A//www.nop-templates.com/t/privacyinfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nop-templates.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330095554id_/http%3A//www.nop-templates.com/t/privacyinfo) for the most accurate reproduction.*
 
 # Nop-Templates.com Privacy Information
 
