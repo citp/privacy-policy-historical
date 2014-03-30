@@ -1,91 +1,33 @@
-> *The following text is extracted and transformed from the halloweenadventure.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102143818id_/http%3A//www.halloweenadventure.com/security-and-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halloweenadventure.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330230851id_/http%3A//www.halloweenadventure.com/privacy-security.html) for the most accurate reproduction.*
 
-# Security And Privacy
+# Halloween Costumes For Adults, Halloween Costumes for Kids and even Pets at HalloweenAdventure!
 
-[](http://www.addthis.com/bookmark.php?v=20)
+At halloweenadventure.com we are committed to protecting your privacy online. Below is a brief overview of the highlights of our Privacy & Security Policy. This will give you a summary of how information is collected from you and how it is used. 
 
-[ ](http://www.bizrate.com/ratings_guide/cust_reviews__mid--173359.html)
+### Your Personal and Payment Information is Safe
 
-[ ](https://merchant.sortprice.com/merchant/Halloween_Adventure)
+Whenever you provide any personal or payment information (e.g., when making a purchase), we use SSL technology to make sure that it is "encrypted" (all scrambled up) so that no one else can read it while it is being transmitted over the Internet, and all information is safely stored behind our firewall. 
 
-Get Valuable Coupons By Email!
+### Information Collected
 
-### OUR SECURITY FAQ'S
+When you shop on our site, we collect personal information from you such as your name, e-mail address, billing address, shipping address, telephone number and product selections so that you can order products from us. All Credit Card information is stored in our database in an encrypted format, behind a secured, hacker-proof firewall. For your security, the complete credit card number will never be made available to view. Encrypted Credit Card information is stored for the sole purpose of expediting the checkout process for future purchases. We may also collect IP address, domain types (e.g. .com or .org, etc.), your browser type, the country, state and the pages of our site and the length of time of your visit during your visit. 
 
-[Do I have a Security Guarantee? ](http://halloweenadventure.com/security-and-privacy.html#Security1)
+### How Information is Used
 
-### PRIVACY POLICY FAQ'S
+We do not sell or rent your personal information to others. We use customer information we collect only for the purposes of filling orders, contacting purchasers to inform them of their order status, sending promotional information, enhancing the operation of our site, statistical purposes and to administer our systems. 
 
-[How Is My Privacy Protected at HalloweenAdventure.com? ](http://halloweenadventure.com/security-and-privacy.html#Privacy1)
+### Opt Out of Email Savings Promotions
 
-### Do I have a Security Guarantee?
+When checking out, you can opt out of email promotions. Also, every email will have a link to unsubscribe from future email offers.
 
-We take your business seriously and will use every precaution necessary to ensure that your shopping experience is safe and exciting! HalloweenAdventure.com uses the best technology available, Secure Socket Layer encrypting, to keep your private information and credit card information as secure as possible. Also remember that we do not sell any of your information to any third parties.
+### Company Address
 
-### How Is My Privacy Protected at HalloweenAdventure.com?
+**Halloween Adventure**  
+104 4th Ave  
+New York, NY, 10003  
+888-402-6951  
+[customerservice@halloweenadventure.com](mailto:customerservice@halloweenadventure.com)
 
-HalloweenAdventure.com is a wholly owned subsidiary of Masquerade LLC. We at HalloweenAdventure.com value your business and your trust. Therefore, we will not sell or give away any customer's e-mail address (or any other personal information) to other businesses.
+### Cookies
 
-The reason we request your e-mail address is so we will be able to send you information regarding your order, (order confirmation, order processing, and tracking number). We may e-mail you coupons or discount offers in the future. Additionally, we may share information we collect at our website with other members of the MASQUERADE Halloween Adventure family. They may use this information to offer you products and services that may be of interest to you.
-
-To help protect you from identity theft and credit card fraud, HalloweenAdventure.com has chosen a shoping cart that has teamed up with ScanAlert and is now tested and certified daily to pass the FBI/SANS Internet Security Test. The "live" HACKER SAFE® mark appears only when a website's security meets the highest security scanning standards of the U.S. government, Visa, MasterCard, American Express, Discover.
-
-### If you cannot find what you need to know, please contact us using any of the following ways:
-
-**E-Mail:** | [Contact Customer Service ](http://halloweenadventure.com/contact-us.html)  
----|---  
-**Phone:** | 1-877-U-Boo-Too (826-6866)  
-**Fax:** | (877) 826 - 6866   
-**Mail:** | HalloweenAdventure.com   
-1362 Naamans Creek Road, 2nd Floor  
-Garnet Valley, PA, 19060   
-  
-###  [ Blogs · News ](http://blog.halloweenadventure.com/)
-
-#####  20 July 2009 
-
-#### [ We Got The Beat... ](http://blog.halloweenadventure.com/2009/07/we-got-beat.html)
-
-Keep the beat moving with our variety of fabulous Hairspray costumes. We have ev... 
-
-#####  13 July 2009 
-
-#### [ Go Back In Time, Baby! ](http://blog.halloweenadventure.com/2009/07/go-back-in-time-baby.html)
-
-Why turn to modern day heroes when it come to your costumes? How about going bac... 
-
-#####  06 July 2009 
-
-#### [ Shrek It Out! ](http://blog.halloweenadventure.com/2009/07/shrek-it-out.html)
-
-Everyone loves Shrek, the big friendly ogre who doesn’t act like a mean ogre a... 
-
-#####  29 June 2009 
-
-#### [ Happy Birthday, USA! ](http://blog.halloweenadventure.com/2009/06/happy-birthday-usa.html)
-
-We’ve got a birthday to celebrate! In just a couple of days America will turn ... 
-
-#####  22 June 2009 
-
-#### [ Spiderman sets the date! ](http://blog.halloweenadventure.com/2009/06/spiderman-sets-date.html)
-
-If your Spidey senses are tingling, there's a good reason. Variety confirms that... 
-
-#####  25 May 2009 
-
-#### [ Wonder Woman Costumes! ](http://blog.halloweenadventure.com/2009/05/wonder-woman-costumes.html)
-
-Channel that fabulous woman sent by the all female Amazons to the “man’s wor... 
-
-#####  18 May 2009 
-
-#### [ Mimic Marilyn Monroe! ](http://blog.halloweenadventure.com/2009/05/mimic-marilyn-monroe.html)
-
-Let's be honest. No one does it like Marilyn Monroe. Get the glam queen's look w... 
-
-#####  11 May 2009 
-
-#### [ Take a trip to Narnia! ](http://blog.halloweenadventure.com/2009/05/take-trip-to-narnia.html)
-
-This Halloween, help your kids recreate one of the smash hit films of the year w... 
+We use cookies only to help identify you when you visit our store and to customize your experience. The cookies make your use of the site easier, allow you to retrieve an earlier shopping cart, make the site run more smoothly and help us to maintain a secure site. You will be unable to shop on our site without your browser set to accept cookies. 
