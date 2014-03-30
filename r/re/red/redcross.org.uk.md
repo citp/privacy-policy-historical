@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redcross.org.uk privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521165903id_/http%3A//www.redcross.org.uk/Header-Footer-Links/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcross.org.uk privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330232102id_/http%3A//www.redcross.org.uk/Header-Footer-Links/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy and cookies document | British Red Cross
 
@@ -137,6 +137,10 @@ We use cookies on these areas of our website:
 
 
 We use Google Analytics to understand how people use our website so we can make it more effective. Google Analytics collects anonymous information about what people do on our website, where they’ve come from, and whether they’ve completed any tasks on the site, for example, signing up to volunteer or donating. Google Analytics tracks this information using cookies and JavaScript code.
+
+### Other website analytics
+
+We also use other analytics software to help us make improvements to our website. This sometimes enables us to identify the name of the organisation a visitor has come from, including the pages viewed. This does not use cookies, nor identify individuals within the organisation.
 
 ###  When you make a donation  
 
