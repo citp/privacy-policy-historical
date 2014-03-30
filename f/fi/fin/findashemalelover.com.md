@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findashemalelover.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809223518id_/http%3A//www.findashemalelover.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findashemalelover.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330221806id_/http%3A//www.findashemalelover.com/privacyPolicy) for the most accurate reproduction.*
 
 # .: Privacy Policy
 
@@ -81,7 +81,7 @@ IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATE
 
 **"OPT-OUT" Revocation Procedure.**
 
-> The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by [clicking here](https://web.archive.org/web/20130809223518id_/http%3A//www.findashemalelover.com/settings/2) and deselecting "I want to be informed of promotional offers". 
+> The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by [clicking here](https://web.archive.org/web/20140330221806id_/http%3A//www.findashemalelover.com/settings/2) and deselecting "I want to be informed of promotional offers". 
 
 **Terms and Conditions of Membership.**
 
