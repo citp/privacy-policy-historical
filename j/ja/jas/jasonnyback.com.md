@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jasonnyback.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812121439id_/http%3A//jasonnyback.com/legal/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jasonnyback.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330174450id_/http%3A//jasonnyback.com/legal/privacypolicy.php) for the most accurate reproduction.*
 
 # Untitled Document
 
@@ -70,7 +70,9 @@
 > 
 > **HOW INFORMATION MAY BE USED**
 > 
-> The use of information as described below may or may not be how information that is collected is customarily used by this site. While actual use of any information collected may be used quite conservatively, you must assume that it is not. You must assume that information collected is shared with other persons or entities for commercial purposes. While this is uncommon in practice, you must assume that it is as you make your decision whether or not to view or interact with this website. This type of shared information may include your name, address, phone number, email address and buying habits, as well as other information. This information may be used for general commercial solicitation by this website or other persons it is sold to, rented to, or shared with. 
+> We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.  
+>  We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization.  
+>  Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy. 
 > 
 > **INFORMATION THAT IS NOT SHARED**
 > 
