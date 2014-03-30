@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashenvoy.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907075711id_/https%3A//www.cashenvoy.com/%3Fcmd%3Dprivacy%26subcmd%3Dnone%26out%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashenvoy.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330230102id_/https%3A//www.cashenvoy.com/%3Fcmd%3Dprivacy%26subcmd%3Dnone%26out%3D1) for the most accurate reproduction.*
 
 # Privacy - - CashEnvoy
 
@@ -71,3 +71,5 @@ You can also control how we use your contact information to market our services 
 You can review and edit your personal information at any time by logging into your account and clicking the profile subtab under the My Account tab. 
 
 For further information on our privacy policy please call any of the phone numbers listed on our website.
+
+**DATA GATHERING FOR ANALYTICS**
