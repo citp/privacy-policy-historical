@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyeconic.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805033024id_/http%3A//www.eyeconic.com/Home/HIPAAPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeconic.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330182151id_/http%3A//www.eyeconic.com/Home/HIPAAPrivacyPolicy) for the most accurate reproduction.*
 
 # Eyeconic | HIPAA Privacy Policy
 
@@ -176,4 +176,4 @@ CONTACT INFORMATION
 
 Contact EYECONIC 
 
-For questions about this notice or your privacy, contact us through Eyeconic.com. 
+For questions about this notice or your privacy, contact us at 1-855-EYECONIC (1-855-393-2664) or [info@eyeconic.com](mailto:info@eyeconic.com). Our hours are Monday to Friday, 7:00 a.m. to 5:00 p.m. PT. 
