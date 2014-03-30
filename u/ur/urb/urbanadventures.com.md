@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the urbanadventures.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217211602id_/http%3A//www.urbanadventures.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanadventures.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330190348id_/http%3A//www.urbanadventures.com/privacy_statement) for the most accurate reproduction.*
 
-# Urban Adventures - Day tours, with a local. - Privacy Statement
+# Urban Adventures - Best. Day. Ever. - Privacy Statement
 
 At Urban Adventures we recognize that privacy is important. This document outlines the types of personal information we receive and collect when you use our services, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
