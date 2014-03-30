@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekscape.net privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102120416id_/http%3A//www.geekscape.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekscape.net privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330190433id_/http%3A//www.geekscape.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Geekscape
 
@@ -88,23 +88,23 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 ### **PODCASTS**
 
-  * Well, Dani had to work Comikaze so Andrew’s girlfriend Lisa Best filled in!
+  * The 2nd of 3 Live Podcast Episodes from TanoshiiCon
 
-[ Read More](http://www.geekscape.net/geekscape-310-the-cast-of-fangasm "Geekscape 310: The Cast of ‘Fangasm’!")
+[ Read More](http://www.geekscape.net/the-saint-mort-show-episode-75-starting-a-writers-group-live-panel-from-tanoshiicon "The Saint Mort Show Episode 75: Starting a Writer’s Group \(Live Panel from TanoshiiCon\)")
 
-Published on November 1, 2013
+Published on March 25, 2014
 
-  * Because it’s Halloween Matt sat down with Joe of Harley Poe (who’s album Pagan Holiday is out now on Horrorhound Records)
+  * Also, what are the differences in all the cons going into Con Season?
 
-[ Read More](http://www.geekscape.net/the-saint-mort-show-episode-056-joe-whiteford-of-harley-poe "The Saint Mort Show Episode 056 – Joe Whiteford of Harley Poe")
+[ Read More](http://www.geekscape.net/geekscape-324-maxxin-out-with-tom-pinchuk "Geekscape 324: Maxxin’ Out With Tom Pinchuk!")
 
-  * In just one day at the New York Comic Con Saint Mort got some great interviews from the guys at VHSPS, Joe Loves Crappy Movies, Fangasm, Stan Lees Comikaze and Troma
+  * Ardmore Junction is the compelling story of a homeless man who affected 6 people. Writer/Director Brian Gallagher came on the Saint Mort Show podcast to promote the film and it’s kickstarter.
 
-[ Read More](http://www.geekscape.net/the-saint-mort-show-episode-055-new-york-comic-con-2013 "The Saint Mort Show Episode 055: New York Comic Con 2013")
+[ Read More](http://www.geekscape.net/the-saint-mort-show-episode-074-brian-gallagher-writerdirector-of-ardmore-junction "The Saint Mort Show Episode 074: Brian Gallagher \(writer/director of Ardmore Junction\)")
 
-  * Canyon Prince returns with his next slate of films… and he needs your help!
+  * In the first of three panels from TanoshiiCon Mort sat down with Steph and Tim from Episode 59 to talk about making a movie on a budget.
 
-[ Read More](http://www.geekscape.net/geekscape-309-2-guys-and-a-film "Geekscape 309: 2 Guys And A Film!")
+[ Read More](http://www.geekscape.net/the-saint-mort-show-episode-073-making-a-movie-on-a-low-budget-panel "The Saint Mort Show Episode 073: “Making a Movie on a Low Budget” Panel")
 
 
 
@@ -112,9 +112,9 @@ Published on November 1, 2013
 ### **Community Discussion**
 
   * [Random thoughts thread](http://www.geekscape.net/community/t/random-thoughts-thread)
-  * [The last episode of The IT Crowd](http://www.geekscape.net/community/t/the-last-episode-of-the-it-crowd)
-  * [Tentacles](http://www.geekscape.net/community/t/tentacles)
+  * [.GIF BANK OF OMAHA](http://www.geekscape.net/community/t/gif-bank-of-omaha)
+  * [Facebook’s Acquistion of Oculus VR: What We Think](http://www.geekscape.net/community/t/facebooks-acquistion-of-oculus-vr-what-we-think)
   * [video of the day](http://www.geekscape.net/community/t/video-of-the-day)
-  * [Falling Skies](http://www.geekscape.net/community/t/falling-skies-2)
+  * [Guardians of The Galaxy: Where do I start?](http://www.geekscape.net/community/t/guardians-of-the-galaxy-where-do-i-start)
 
 
