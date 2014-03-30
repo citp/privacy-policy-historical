@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ubislate.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816195256id_/http%3A//ubislate.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubislate.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330142121id_/http%3A//ubislate.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Datawind
+# Privacy Policy
 
 We are committed to protecting your privacy. We will only use the information that we collect about you lawfully. 
 
