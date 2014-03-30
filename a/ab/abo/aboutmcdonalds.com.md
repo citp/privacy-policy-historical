@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboutmcdonalds.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016025056id_/http%3A//www.aboutmcdonalds.com/mcd/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutmcdonalds.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330221853id_/http%3A//www.aboutmcdonalds.com/mcd/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: AboutMcDonalds.com
 
@@ -7,16 +7,16 @@ At McDonald's Corporation ("McDonald's"), we strive to do everything we can to r
 This Privacy Policy describes the types of personal information we collect from visitors to our Sites and users of our Mobile Apps (collectively, "Online Services").  The Policy also sets forth how we use this information, provides other details about our personal information practices, and explains how to contact us if you have any questions or concerns.  
 
 
-  1. [Types of Information We Collect and How It Is Used](https://web.archive.org/us/en/privacy.html#1)
-  2. [Sharing of Personal Information](https://web.archive.org/us/en/privacy.html#2)
-  3. [Children’s Privacy Notice](https://web.archive.org/us/en/privacy.html#children)
-  4. [Access](https://web.archive.org/us/en/privacy.html#4)
-  5. [Cookies](https://web.archive.org/us/en/privacy.html#5)
-  6. [Links to Other Sites](https://web.archive.org/us/en/privacy.html#6)
-  7. [Other McDonald's Online Services](https://web.archive.org/us/en/privacy.html#7)
-  8. [McDonald’s Franchisees](https://web.archive.org/us/en/privacy.html#8)
-  9. [Changes to our Privacy Policy](https://web.archive.org/us/en/privacy.html#9)
-  10. [How to Contact Us](https://web.archive.org/us/en/privacy.html#10)
+  1. [Types of Information We Collect and How It Is Used](https://web.archive.org/mcd/privacy_policy.html#1)
+  2. [Sharing of Personal Information](https://web.archive.org/mcd/privacy_policy.html#2)
+  3. [Children’s Privacy Notice](https://web.archive.org/mcd/privacy_policy.html#children)
+  4. [Access](https://web.archive.org/mcd/privacy_policy.html#4)
+  5. [Cookies](https://web.archive.org/mcd/privacy_policy.html#5)
+  6. [Links to Other Sites](https://web.archive.org/mcd/privacy_policy.html#6)
+  7. [Other McDonald's Online Services](https://web.archive.org/mcd/privacy_policy.html#7)
+  8. [McDonald’s Franchisees](https://web.archive.org/mcd/privacy_policy.html#8)
+  9. [Changes to our Privacy Policy](https://web.archive.org/mcd/privacy_policy.html#9)
+  10. [How to Contact Us](https://web.archive.org/mcd/privacy_policy.html#10)
 
 
 
@@ -37,7 +37,7 @@ In addition, when you visit our Web Sites or Mobile Apps, we may collect certain
 Mobile Apps may collect precise information about the location of your mobile device using technologies such as GPS, Wi-Fi, or cell tower proximity.   McDonald's uses this information for location-based services that you request such as locating nearby McDonald's restaurants or identifying special offers that may be of interest to you.   For most mobile devices, you are able to withdraw your permission for McDonald's to acquire this information on your location through the device settings.   If you have questions about how to disable your mobile device's location services, we recommend you contact your mobile device service provider or the device manufacturer.   If you would like us to delete location information we have collected, please contact us at the email or postal address listed below.   Please note that the applications may not function properly following deletion, and that we may be required by law to retain certain information.  
 
 
-[Back to Top](https://web.archive.org/us/en/privacy.html#top)
+[Back to Top](https://web.archive.org/mcd/privacy_policy.html#top)
 
 **2\. Sharing of Personal Information**  
 
@@ -54,7 +54,7 @@ McDonald's does not sell, transfer or disclose personal information to third par
 McDonald's reserves the right to use or disclose any information as needed to satisfy any law, regulation or legal request, to protect the integrity of the Online Service, to fulfill your requests, or to cooperate in any law enforcement investigation or an investigation on a matter of public safety.  
 
 
-[Back to Top](https://web.archive.org/us/en/privacy.html#top)
+[Back to Top](https://web.archive.org/mcd/privacy_policy.html#top)
 
 **3\. Children's Privacy Notice**  
 
@@ -105,7 +105,7 @@ Oak Brook, IL 60523, USA
 (800) 244-6227  
 or e-mail us at [contact.privacy@us.mcd.com](mailto:contact.privacy@us.mcd.com)
 
-[Back to Top](https://web.archive.org/us/en/privacy.html#top)
+[Back to Top](https://web.archive.org/mcd/privacy_policy.html#top)
 
    
 **4\. Access**  
@@ -114,7 +114,7 @@ or e-mail us at [contact.privacy@us.mcd.com](mailto:contact.privacy@us.mcd.com)
 You are in control of any personal information you provide to us through our Online Services.  If at any time, you would like to correct the personal information we have about you or if you would like to change your preferences for contacts from us or on behalf of our business partners, you can let us know by contacting us at the email or postal address listed below.  
 
 
-[Back to Top](https://web.archive.org/us/en/privacy.html#top)
+[Back to Top](https://web.archive.org/mcd/privacy_policy.html#top)
 
 **5\. Cookies**  
 
@@ -125,7 +125,9 @@ You are in control of any personal information you provide to us through our Onl
 Use the options in your web browser if you do not wish to receive a cookie or if you wish to set your browser to notify you when you receive a cookie. Click on the “Help” section of your browser to learn how to change your cookie preferences.  If you disable all cookies, you may not be able to take advantage of all the features of this Site.  
 
 
-[Back to Top](https://web.archive.org/us/en/privacy.html#top)
+California Business & Professions Code Section 22575(b)(as amended effective January 1, 2014) provides that California residents are entitled to know how McDonald’s responds to “Do Not Track” browser settings. McDonald’s does not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.
+
+[Back to Top](https://web.archive.org/mcd/privacy_policy.html#top)
 
 **6\. Links to Other Sites**  
 
@@ -133,7 +135,7 @@ Use the options in your web browser if you do not wish to receive a cookie or if
 We may offer links to sites that are not operated by McDonald's Corporation.  If you visit one of these linked sites, you should review their privacy and other policies.  We are not responsible for the policies and practices of other companies, and any information you submit to those companies is subject to their privacy policies.  
 
 
-[Back to Top](https://web.archive.org/us/en/privacy.html#top)
+[Back to Top](https://web.archive.org/mcd/privacy_policy.html#top)
 
 **7\. Other McDonald's Online Services**  
 
@@ -141,14 +143,14 @@ We may offer links to sites that are not operated by McDonald's Corporation.  I
 All McDonald's Online Services operated by McDonald's Corporation will adhere to this Privacy Policy.   The policies of some McDonald's Sites or Mobile Apps may vary, however, because of local customs, practices or laws or due to circumstances unique to that Site.   In all cases, however, Online Services operated by McDonald's Corporation will honor the commitments to our customers set forth in this Policy regarding the collection and use of personal information.  
 
 
-[Back to Top](https://web.archive.org/us/en/privacy.html#top)
+[Back to Top](https://web.archive.org/mcd/privacy_policy.html#top)
 
 **8\. McDonald's Franchisees**
 
 Many McDonald's restaurants are owned and operated by franchisees, who are independent businessmen and women.   Some franchisees also operate websites or provide mobile device applications.   These web sites and apps are not operated by McDonald's and are not subject to this Privacy Policy. Please review the Privacy Policy of each site and mobile app to determine the privacy policies of that site.  
 
 
-[Back to Top](https://web.archive.org/us/en/privacy.html#top)
+[Back to Top](https://web.archive.org/mcd/privacy_policy.html#top)
 
 **9\. Changes to our Privacy Policy**  
 
@@ -156,7 +158,7 @@ Many McDonald's restaurants are owned and operated by franchisees, who are indep
 This Privacy Policy is effective as of October 10, 2013.   From time to time, it may be necessary for McDonald's to change this Privacy Policy.   If we change our policy, we will post the revised version here, so we suggest that you check here periodically for the most up-to-date version of our Privacy Policy.   Rest assured, however, that any changes will not be retroactively applied and will not alter how we handle previously collected information.   
 
 
-[Back to Top](https://web.archive.org/us/en/privacy.html#top)
+[Back to Top](https://web.archive.org/mcd/privacy_policy.html#top)
 
 **10\. How to Contact Us**  
 
@@ -168,4 +170,4 @@ Oak Brook, IL 60523, USA
 (800) 244-6227  
 or e-mail us at [contact.privacy@us.mcd.com](mailto:contact.privacy@us.mcd.com)
 
-[Back to Top](https://web.archive.org/us/en/privacy.html#top)
+[Back to Top](https://web.archive.org/mcd/privacy_policy.html#top)
