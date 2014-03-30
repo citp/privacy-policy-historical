@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutrition-and-you.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023132107id_/http%3A//www.nutrition-and-you.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutrition-and-you.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330185555id_/http%3A//www.nutrition-and-you.com/privacy-policy.html) for the most accurate reproduction.*
 
 # www.nutrition-and-you.com Privacy Policy
 
@@ -92,34 +92,8 @@ Your use of this site indicates acceptance of this privacy policy. We recognize 
 
 [Nutrition-and-you.com](http://www.nutrition-and-you.com/index.html) strives to maintain the highest standards of decency, fairness, and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.
 
- <<-Back to [Home page ](http://www.nutrition-and-you.com/index.html)[from](http://www.nutrition-and-you.com/index.html)[ privacy policy](http://www.nutrition-and-you.com/index.html)   
-Click here to visit very informative pages on:-
-
-  * [Fruits](http://www.nutrition-and-you.com/fruit-nutrition.html),
   
-
-  * [Vegetables](http://www.nutrition-and-you.com/vegetable-nutrition.html),
-  
-
-  * [Herbs](http://www.nutrition-and-you.com/healthy-herbs.html), 
-  
-
-  * [Spices](http://www.nutrition-and-you.com/healthy_spices.html), 
-  
-
-  * [Nuts and seeds](http://www.nutrition-and-you.com/nuts_nutrition.html), 
-  
-
-  * [Phyto-nutrients](http://www.nutrition-and-you.com/phytonutrients.html) and 
-  
-
-  * Research [articles](http://www.nutrition-and-you.com/nutrition-articles.html) on nutrition. 
-
-
-
-     *
-
-[](http://www.addthis.com/bookmark.php?v=250&pub=naanu)                                                                     ^ Back to TOP | **Share this page:  **  
+**Share this page:  **  
 
 
 What's This?
