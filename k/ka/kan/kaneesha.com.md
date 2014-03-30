@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaneesha.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020170449id_/http%3A//www.kaneesha.com/Privacy-Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaneesha.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330232350id_/http%3A//www.kaneesha.com/Privacy-Policy.cfm) for the most accurate reproduction.*
 
 # Kaneesha - Privacy Policy
 
@@ -63,13 +63,3 @@ By using our site, you consent to our privacy policy.
 Changes to our Privacy Policy 
 
 If we decide to change our privacy policy, we will post those changes on this page. 
-
-Contacting Us 
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-http://www.kaneesha.com/contactus.cfm  
-P.O. Box 2189  
-Edison, NJ 08818-2549  
-USA  
-866.575.9058
