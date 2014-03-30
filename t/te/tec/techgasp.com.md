@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the techgasp.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031124115id_/http%3A//www.techgasp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techgasp.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330064007id_/http%3A//www.techgasp.com/privacy-policy) for the most accurate reproduction.*
 
 # www.techgasp.com - Privacy Policy
 
 ## Effective April 15, 2011
 
-We, TechGasp.com, are committed to protecting any data that we collect concerning you. By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy. We, additionally, are firmly committed to the principals of the EU-US safe harbor program setup by United States Department of Commerce and the European Union (.EU.).
+We, TechGasp.com, are committed to protecting any data that we collect concerning you. By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy. We, additionally, are firmly committed to the principals of the EU-US safe harbour program setup by United States Department of Commerce and the European Union (.EU.).
 
 ## We are committed to protecting your privacy
 
@@ -12,7 +12,7 @@ We collect the minimum amount of information about you that is commensurate with
 
 ## Information Collected
 
-We may collect any or all of the information that via both automated means such as communications profiles and cookies. Personal Information you give us depends on the type of service, support, or sale inqury, and may include your name, address, telephone number, fax number and email address, dates of service provided, types of service provided, payment history, manner of payment, amount of payments, date of payments, domain name, credit card or other payment information. The financial information will be transferred only be used to bill you for the products and services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. All sensitive information is collected on a secure server and data is transferred . When transferring personal information a security icon will appear in your browser.
+We may collect any or all of the information that via both automated means such as communications profiles and cookies. Personal Information you give us depends on the type of service, support, or sale inquiry, and may include your name, address, telephone number, fax number and email address, dates of service provided, types of service provided, payment history, manner of payment, amount of payments, date of payments, domain name, credit card or other payment information. The financial information will be transferred only be used to bill you for the products and services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. All sensitive information is collected on a secure server and data is transferred . When transferring personal information a security icon will appear in your browser.
 
 ## Information Use
 
@@ -20,11 +20,11 @@ This information is used for billing and to provide service and support to our c
 
 ## Log Files
 
-We use IP addresses to analyze trends, administer our site and servers, track access, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. It is possible that personal information about a customer may be included in the log files due to the normal functions of IP addresses and Web browsing.
+We use IP addresses to analyse trends, administer our site and servers, track access, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. It is possible that personal information about a customer may be included in the log files due to the normal functions of IP addresses and Web browsing.
 
 ## Cookies
 
-Your Internet browser has the in-built facility for storing small text files - "cookies" - that hold information which allows a website to recognize your account. We use cookies to save your preferences and login information, and provide personalized functionality. You can reject cookies by changing your browser settings, but be aware that this will disable some of the functionality on the TechGasp's website. More information about cookies can be found at <http://en.wikipedia.org/wiki/HTTP_cookie>.
+Your Internet browser has the in-built facility for storing small text files - "cookies" - that hold information which allows a website to recognize your account. We use cookies to save your preferences and login information, and provide personalized functionality. You can reject cookies by changing your browser settings, but be aware that this will disable some of the functionality on the TechGasp's website. More information about cookies can be found at <http://en.wikipedia.org/wiki/HTTP_cookie>.
 
 ## Disclosing Information
 
@@ -32,19 +32,19 @@ We do not disclose any personal information obtained about you from this website
 
 ## Correcting/Updating Personal Information
 
-If a customer's personally identifiable information changes, or if a customer no longer desires our services, we will endeavor to provide a way to correct, update or remove that customer's personal data in our records. In most cases, this can be achieved via Technical Support link.
+If a customer's personally identifiable information changes, or if a customer no longer desires our services, we will endeavour to provide a way to correct, update or remove that customer's personal data in our records. In most cases, this can be achieved via Technical Support link.
 
 ## Opt Out & Modifications
 
-By default, customers do receive any voluntary system updates, such as the newsletters, invoices, and mailings. Any customer who voluntarily receives these updates may unsubscribe at any time. Customers may not opt out of possibly receiving important system notifications, in the rare event that such notification would be necessary. 
+By default, customers do receive any voluntary system updates, such as the newsletters, invoices, and mailings. Any customer who voluntarily receives these updates may unsubscribe at any time. Customers may not opt out of possibly receiving important system notifications, in the rare event that such notification would be necessary.
 
 ## Security
 
-TechGasp.com uses technical security measures to prevent the loss, misuse, alternation or unauthorized disclosure of information under our control.·TechGasp.com uses security measures including and not limited to: physical, electronic and managerial procedures to safeguard and secure the information we collect online. When do not ask customers or users to provide financial information (such as a credit card number) that data is protected using Secure Sockets Layer ("SSL") technology from Paypal.
+TechGasp.com uses technical security measures to prevent the loss, misuse, alternation or unauthorized disclosure of information under our control. TechGasp.com uses security measures including and not limited to: physical, electronic and managerial procedures to safeguard and secure the information we collect online. When do not ask customers or users to provide financial information (such as a credit card number) that data is protected using Secure Sockets Layer ("SSL") technology from Paypal.
 
 ## Data and Information Submitted to Another Person or Entity on Our Network
 
-As mentioned above,·TechGasp.com collects certain data and confidential information from customers relating to our web site hosting and domain registration services, and this Privacy Policy applies only to that data and confidential information submitted to us. This Privacy Policy does not apply to, nor does·TechGasp.com certify EU Safe Harbor compliance regarding, data or confidential information that is submitted to another person or entity for whom TechGasp.com may provide hosting or domain name registration services, but regarding which we exercise no authority or control. An independent evaluation of that person or entity's own privacy policy and EU Safe Harbor compliance should be made before submitting data or confidential information to them.
+As mentioned above, TechGasp.com collects certain data and confidential information from customers relating to our web site hosting and domain registration services, and this Privacy Policy applies only to that data and confidential information submitted to us. This Privacy Policy does not apply to, nor does TechGasp.com certify EU Safe Harbor compliance regarding, data or confidential information that is submitted to another person or entity for whom TechGasp.com may provide hosting or domain name registration services, but regarding which we exercise no authority or control. An independent evaluation of that person or entity's own privacy policy and EU Safe Harbor compliance should be made before submitting data or confidential information to them.
 
 ## Compliance with Laws and Law Enforcement
 
