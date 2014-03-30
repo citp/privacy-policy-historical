@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fridae.asia privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123015738id_/http%3A//www.fridae.asia/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fridae.asia privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330184533id_/http%3A//www.fridae.asia/privacypolicy.php) for the most accurate reproduction.*
 
 # Fridae | Empowering LGBT Asia
 
@@ -87,4 +87,6 @@ We have created this privacy statement in order to demonstrate our firm commitme
 >  [webmaster@fridae.asia](mailto:webmaster@fridae.asia)
 > 
 > If you have any questions concerning our privacy statement, the practices of our site, or your dealings with our Site, please contact:   
->  [webmaster@fridae.asia](mailto:webmaster@fridae.asia)
+>  [webmaster@fridae.asia](mailto:webmaster@fridae.asia)  
+  
+---|---
