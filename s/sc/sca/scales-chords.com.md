@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the scales-chords.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111233443id_/http%3A//www.scales-chords.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scales-chords.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330133535id_/http%3A//www.scales-chords.com/privacypolicy.html) for the most accurate reproduction.*
 
-# www.scales-chords.com privacy policy
+# Our policy is very private. Learn about the www.scales-chords.com privacy policy
 
-  
-
-
-## Privacy Policy for www.scales-chords.com 
-
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by using our [contact form](https://web.archive.org/web/20131111233443id_/http%3A//www.scales-chords.com/contact.php). 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by using our [contact form](https://web.archive.org/web/20140330133535id_/http%3A//www.scales-chords.com/contact.php). 
 
 At www.scales-chords.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.scales-chords.com and how it is used.
 
@@ -17,7 +12,7 @@ Like many other Web sites, www.scales-chords.com makes use of log files. The inf
 
 **Cookies and Web Beacons**
 
-www.scales-chords.com does not use cookies.
+www.scales-chords.com does use cookies but only on pages with forms with the sole purpose to remember earlier user inputs when the user goes back to that same form. 
 
 **DoubleClick DART Cookie**
 
@@ -36,43 +31,3 @@ www.scales-chords.com has no access to or control over these cookies that are us
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.scales-chords.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
-
-Support us on Google +1:  
-  
-
-
-## Tools Map
-
-Brief description of the tools we provide.
-
-### [Scale Finder](https://web.archive.org/web/20131111233443id_/http%3A//www.scales-chords.com/scalefinder.php)
-
-[](https://web.archive.org/web/20131111233443id_/http%3A//www.scales-chords.com/scalefinder.php)
-
-Helps you find the scales that fit a particular melody or chord progression. Use this tool to complete your song or to identify the correct scales to solo.
-
-### [Progression Analyser](https://web.archive.org/web/20131111233443id_/http%3A//www.scales-chords.com/chordscalefinder.php)
-
-[](https://web.archive.org/web/20131111233443id_/http%3A//www.scales-chords.com/chordscalefinder.php)
-
-Analyses your song or chord to progression. It allows you to identify underlying scales to the progression and sugests new chords to resolve your song.
-
-### [Chord Identifier](https://web.archive.org/web/20131111233443id_/http%3A//www.scales-chords.com/chordid.php)
-
-[](https://web.archive.org/web/20131111233443id_/http%3A//www.scales-chords.com/chordid.php)
-
-Searches the chord database for chords that have a specific set of notes. It allows flexibility on the key tone of the chord or on the complexity of the chord.
-
-### [Scale Navigator](https://web.archive.org/web/20131111233443id_/http%3A//www.scales-chords.com/scalenav.php)
-
-[](https://web.archive.org/web/20131111233443id_/http%3A//www.scales-chords.com/scalenav.php)
-
-Enables you to browse our Musical Scale Database. The database provides information about scale structure, harmonized chords and related scales.
-
-### [Chord Database](https://web.archive.org/web/20131111233443id_/http%3A//www.scales-chords.com/chdbmain.php)
-
-[](https://web.archive.org/web/20131111233443id_/http%3A//www.scales-chords.com/chdbmain.php)
-
-Our chord database has all types of chords, alternative designations and alternative charts. For now only guitar chord charts are available, Piano chord charts we be available soon.
-
-Our policy is very private. Checkout our [privacy policy](https://web.archive.org/web/20131111233443id_/http%3A//www.scales-chords.com/privacypolicy.html)
