@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promgirl.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529234131id_/http%3A//www.promgirl.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promgirl.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330181831id_/http%3A//www.promgirl.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
