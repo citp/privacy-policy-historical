@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the blitz.io privacy policy that was archived on 2013-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130515000450id_/https%3A//www.blitz.io/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blitz.io privacy policy that was archived on 2014-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140330174524id_/https%3A//www.blitz.io/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head><style type="text/css"></style>
 <meta charset="utf-8">
@@ -9,7 +9,7 @@ Blitz -
 Privacy
 </title>
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
-<meta content="Blitz makes load and performance testing of your web site, API, iPhone and Android and Facebook apps a fun sport. Instantly launch 1,000,000 users from around the world against your site to see if it can hold up. Integrate blitz into your continuous deployment with our Ruby Gem. Can you take the hits?" name="description">
+<meta content="Privacy" name="description">
 <link href="/favicon.ico" rel="shortcut icon">
 <link href="/apple-touch-icon.png" rel="apple-touch-icon">
 <link href="/images/logo2.png" rel="image_src">
@@ -19,19 +19,17 @@ Privacy
 <link href="/css/prettify.css" rel="stylesheet">
 <link href="/css/fancybox.css" rel="stylesheet">
 <link href="/css/fileuploader.css" rel="stylesheet">
+<link href="/css/partners.css" rel="stylesheet">
 <link href="/css/jquery.countdown.css" rel="stylesheet">
 <link href="/css/screen_print.css" media="print" rel="stylesheet">
 <link href="/css/print.css" media="print" rel="stylesheet">
 <link href="/css/about.css" rel="stylesheet">
 <link href="/css/layout.css" rel="stylesheet">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script src="//d37gvrvc0wt4s1.cloudfront.net/js/1/rollbar.min.js" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
   //<![CDATA[
     window.blitz_admin = false;
     window.blitz_app = function (route) {
         return 'https://www.blitz.io' + route;
-    };
-    window.blitz_account = function (route) {
-        return 'https://secure.blitz.io' + route;
     };
     window.blitz_docs = function (route) {
         return 'http://docs.blitz.io' + route;
@@ -41,8 +39,15 @@ Privacy
 </script>
 
 <!--[if lt IE 9]>
-<script src='http://html5shim.googlecode.com/svn/trunk/html5.js'></script>
+<script src='//html5shim.googlecode.com/svn/trunk/html5.js'></script>
 <![endif]-->
+<script>
+var _rollbarParams = {"server.environment": "production","reportLevel": "error","uncaughtErrorLevel": "error","checkIgnore": function () { return !_.contains(arguments[1], "blitz.io"); } };
+_rollbarParams["notifier.snippet_version"] = "2"; var _rollbar=["04cb9e6e409c4d6cb5a27e38e8654826", _rollbarParams]; var _ratchet=_rollbar;
+(function(w,d){w.onerror=function(e,u,l,c,err){_rollbar.push({_t:'uncaught',e:e,u:u,l:l,c:c,err:err});};var i=function(){var s=d.createElement("script");var
+f=d.getElementsByTagName("script")[0];s.src="//d37gvrvc0wt4s1.cloudfront.net/js/1/rollbar.min.js";s.async=!0;
+f.parentNode.insertBefore(s,f);};if(w.addEventListener){w.addEventListener("load",i,!1);}else{w.attachEvent("onload",i);}})(window,document);
+</script>
 <script>
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-34252016-1']);
@@ -61,6 +66,7 @@ s.parentNode.insertBefore(ga, s);
 </head>
 <body>
 
+<div class=""></div>
 <div class="container">
 <header class="main">
 <p class="site-name"><a href="https://www.blitz.io/">Blitz</a></p>
@@ -68,85 +74,27 @@ s.parentNode.insertBefore(ga, s);
 <ul>
 <li class="/why-blitz /in/development /in/staging /in/staging /in/production /in/ops"><a href="https://www.blitz.io/why-blitz">Why Blitz</a></li>
 <li class="/for/performance"><a href="https://www.blitz.io/for/performance">Services</a></li>
-<li class="/pricing"><a href="https://secure.blitz.io/pricing">Pricing</a></li>
+<li class="/pricing"><a href="/pricing">Pricing</a></li>
 <li class="/customers"><a href="https://www.blitz.io/customers">Customers</a></li>
-<li class="/login"><a href="/login">Sign In</a></li>
+<li class="/events arrow"><a class="expand">
+Redeem Promo
+<span class="arrow">▼</span>
+</a>
+<ul class="dropdown">
+<li>
+<a href="https://www.blitz.io/events/melbourne14">Cisco Live</a>
+</li>
+<li>
+<a href="https://www.blitz.io/events/newrelic14">New Relic</a>
+</li>
+<li>
+<a href="https://www.blitz.io/events/sxsw14">SXSW</a>
+</li>
+</ul></li>
+<li class="/login"><a href="/login" id="sign_in">Sign In</a></li>
 </ul>
 </nav>
 </header>
-<section class="span-15" id="run-test">
-<form action="#" method="post">
-<h3>Load test your site, API, iPhone<sup>®</sup>, Android<sup>®</sup> apps</h3>
-<fieldset>
-<input class="text" placeholder="Query URL" spellcheck="false" type="text">
-<input class="submit" type="submit" value="Run">
-<a class="button">Run</a>
-</fieldset>
-</form>
-</section>
-<section class="span-9 last result_container" id="response_result">
-<h3>Response time</h3>
-<div class="result">
-<span class="icon"></span>
-<span class="status"></span>
-</div>
-<div class="more">
-<div class="share">
-<h3>Share</h3>
-<ul>
-<li class="facebook"><a href="#">Facebook</a></li>
-<li class="twitter"><a href="#">Twitter</a></li>
-</ul>
-</div>
-<a class="button details" href="#">
-<span>Details</span>
-</a>
-</div>
-</section>
-<section class="span-9 last result_container" id="credit_result">
-<h3>Required Amount of Credits</h3>
-<div class="result">
-<span class="icon"></span>
-<span class="status">
-<span class="desc">
-<span class="credit_icon"></span>
-This Test Needs
-</span>
-<span class="credit_cost">
-0
-</span>
-<span class="desc">
-out of
-</span>
-<span class="current_balance">
-0
-</span>
-<span class="desc credit_text">
-Credit
-</span>
-</span>
-</div>
-</section>
-<div id="optcontainer">
-<div id="options">
-<ul>
-<li>
-<a class="options" id="api-key">API key</a>
-</li>
-<li>
-<a class="options" id="tutorial">Tutorial</a>
-</li>
-<li>
-<a class="options" id="help">Help</a>
-</li>
-<li class="last">
-<a class="options" id="variables">Variables</a>
-</li>
-</ul>
-</div>
-</div>
-<section class="span-24" id="details">
-</section>
 <section class="span-24" id="privacy">
 <section id="main">
 <h3>Privacy Policy</h3>
@@ -229,7 +177,7 @@ If this Privacy Policy changes, the revised policy will be posted on this site. 
 <div class="links">
 <a href="https://www.blitz.io/why-blitz">Why Blitz</a>
 <a href="https://www.blitz.io/for/performance">Services</a>
-<a href="https://secure.blitz.io/pricing">Pricing</a>
+<a href="/pricing">Pricing</a>
 <a href="https://www.blitz.io/customers">Customers</a>
 <a href="https://www.blitz.io/partners">Partners</a>
 <a href="https://www.blitz.io/try">Try Blitz</a>
@@ -250,35 +198,35 @@ If this Privacy Policy changes, the revised policy will be posted on this site. 
 <div class="title">Community</div>
 <div class="links">
 <a href="http://twitter.com/blitz_io">Twitter</a>
+<a href="http://blog.blitz.io">Blog</a>
 </div>
 </section>
 <section class="span-3">
 <div class="title">About Us</div>
 <div class="links">
-<a href="http://blog.blitz.io">Blog</a>
+<a href="https://www.blitz.io/careers">Careers</a>
 <a href="https://www.blitz.io/privacy">Privacy</a>
 <a href="https://www.blitz.io/tos">Terms of Service</a>
+<a href="http://www.spirent.com" target="_blank">Spirent</a>
 </div>
 </section>
 </footer>
-<script src="/js/libs/json2.js"></script>
 <script src="/js/libs/jquery-1.4.4.min.js"></script>
 <script src="/js/libs/modernizr-1.6.min.js"></script>
-<script src="/js/libs/underscore-1.3.1.min.js"></script>
+<script src="/js/libs/lodash.min.js"></script>
 <script src="/js/libs/backbone.js"></script>
 <script src="/js/libs/backbone.validation.js"></script>
 <script src="/js/libs/jquery-ui-1.8.9.custom.min.js"></script>
 <script src="/js/libs/jquery.fancybox-1.3.4.pack.js"></script>
 <script src="/js/libs/jcarousellite_1.0.1.min.js"></script>
 <script src="/js/libs/jquery.countdown.min.js"></script>
-<script src="/js/blitz.api.js"></script>
-<script src="/js/blitz.ping.js"></script>
-<script src="/js/blitz.tour.js"></script>
-<script src="/js/blitz.common.js"></script>
+<script src="/js/legacy/blitz.api.js"></script>
+<script src="/js/legacy/blitz.ping.js"></script>
+<script src="/js/legacy/blitz.tour.js"></script>
 <script src="/js/libs/autoresize.jquery.min.js"></script>
 <script src="/js/libs/fileuploader.js"></script>
-<script src="/js/views/all_pages.js"></script>
-<script src="/js/blitz.layout.js"></script>
+<script src="/js/legacy/views/all_pages.js"></script>
+<script src="/js/legacy/blitz.layout.js"></script>
 
 
 <div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
