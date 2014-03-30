@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purplemath.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811133936id_/http%3A//www.purplemath.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purplemath.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331000429id_/http%3A//www.purplemath.com/privacy.htm) for the most accurate reproduction.*
 
 # Purplemath Privacy Policy
 
@@ -12,7 +12,7 @@ P.O. Box 1184
 Palatine IL 60078-1184
 
 
-We can be reached via e-mail at [stapel@purplemath.com](mailto:stapel@purplemath.com) or via our [contact form](https://web.archive.org/web/20130811133936id_/http%3A//www.purplemath.com/feedback.php).
+We can be reached via e-mail at [stapel@purplemath.com](mailto:stapel@purplemath.com) or via our [contact form](https://web.archive.org/web/20140331000429id_/http%3A//www.purplemath.com/feedback.php).
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). The only way we would receive any personally identifying information would be for you to contact us directly.
 
