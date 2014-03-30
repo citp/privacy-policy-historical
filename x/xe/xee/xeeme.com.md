@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xeeme.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127134717id_/http%3A//society3.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xeeme.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330224119id_/http%3A//society3.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Society3
 
@@ -64,4 +64,4 @@ Our definition of “Social Graph”: The social graphs are relationship maps de
 Society3 is committed to protect our user’s privacy. No Society3 employee will ever ask you for your password. Passwords are highly encrypted and we do not provide any way to decrypt such passwords. If a password gets lost you will need to request a new password. We will not use your personal email address in any way, other than sending you a lost password. We also do not provide your personal email address to any of your connections, unless you decide to do so. All communication is performed using your business email address.
 
 **Privacy Policy Changes**  
-Society3 reserves the right to introduce changes to this privacy policy with 30 days notice. Any change of our privacy policy will give users the right to immediately cancel their contract with full reimbursement of pre paid subscription for the remainder of the subscription period and to remove all their information from the system. 
+Society3 reserves the right to introduce changes to this privacy policy with 30 days notice. Any change of our privacy policy will give users the right to immediately cancel their contract with full reimbursement of pre paid subscription for the remainder of the subscription period and to remove all their information from the system.
