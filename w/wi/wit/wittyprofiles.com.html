@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wittyprofiles.com privacy policy that was archived on 2013-10-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131018015913id_/http%3A//www.wittyprofiles.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wittyprofiles.com privacy policy that was archived on 2014-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140330091831id_/http%3A//www.wittyprofiles.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 		<meta charset="utf-8">
@@ -7,17 +7,16 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 			<meta name="description" content="Privacy Policy"> 
 			<meta property="og:site_name" content="Witty Profiles">
-		<meta property="og:image" content="http://www.wittyprofiles.com/img/fb-2.png">
+		<meta property="og:image" content="http://www.wittyprofiles.com/img/fb-1.png">
 		<meta property="og:url" content="http://www.wittyprofiles.com/privacy">
 		<title>Privacy Policy on Witty Profiles</title>
 		<link rel="SHORTCUT ICON" href="/favicon.ico">
-		<link rel="icon" href="http://s3.amazonaws.com/witty-static/img/favicon.ico" sizes="16x16 32x32 48x48 64x64 128x128 256x256" type="image/vnd.microsoft.icon">
 		<link rel="apple-touch-icon" href="/apple-touch-icon-iphone.png">
 		<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-ipad.png">
 		<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-iphone4.png">
 		<link href="http://s3.amazonaws.com/witty-static/css/bootstrap-2.2.2.css" rel="stylesheet">
 		<link href="http://s3.amazonaws.com/witty-static/css/bootstrap-responsive-2.2.2.css" rel="stylesheet">
-		<link href="/css/bootstrap-witty.css?20130920" rel="stylesheet">
+		<link href="/css/bootstrap-witty.css?20140317" rel="stylesheet">
 		<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.0/css/font-awesome.css" rel="stylesheet">
 
 
@@ -25,11 +24,11 @@
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://s3.amazonaws.com/witty-static/js/jquery-1.7.2.min.js"></script>
+		<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="http://s3.amazonaws.com/witty-static/js/jquery-1.7.2.min.js"></script>
 		<script src="http://s3.amazonaws.com/witty-static/js/respond-1.1.0.js"></script>
 		<script src="http://s3.amazonaws.com/witty-static/js/modernizer-2.6.2.js"></script>
 		<script src="http://s3.amazonaws.com/witty-static/js/bootstrap-2.2.2.js"></script>
-		<script src="/js/witty.js?20131001"></script>
+		<script src="/js/witty.js?20140318"></script>
 		<script type="text/javascript">
 		window.google_analytics_uacct = "UA-427894-3";
 		</script>
@@ -41,7 +40,7 @@
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
@@ -98,6 +97,9 @@
 				<li style="width:22%;"><a href="/recent/1">New</a></li>
 				<li style="width:25%;"><a href="/hot/day">Top</a></li>
 				<li style="text-align:right; width:24%;"><a href="/random">Random</a></li>
+				<!--
+				<li style="text-align:right; width:24%;"><a href="/judge">Random</a></li>
+				-->
 			</ul>
 		</div>
 	</div>
@@ -135,6 +137,9 @@
 							</li>
 							<li>
 								<a href="/random"><strong>Random</strong></a>
+							<!--
+								<a href="/judge"><strong>Random</strong></a>
+							-->
 							</li>
 						</ul>
 					</div> <!-- /span8 -->
@@ -151,10 +156,28 @@
 			</div> <!-- /row -->
 			<div class="row">
 				<div class="span12">
+					<div id="nav_login_form" style="display:none; text-align:right;">
+						<form action="/controller.php" method="post">
+							<input type="hidden" name="a" value="login">
+							<input type="hidden" name="next_url" value="/privacy">
+							<input type="text" name="username" id="nav_login_form_username" placeholder="username" autocapitalize="off" autocorrect="off" autocomplete="off" class="" style="">
+							<input type="password" name="password" placeholder="password" class="" style=""> 
+							<input type="submit" value="Sign In" class="btn btn-primary hbmargin">
+							<br>
+							<a href="/reset-password" style="color:rgba(255,255,255,0.6);">Forgot your password?</a>
+							&nbsp;&nbsp;
+							<a href="/sign-up" style="color:rgba(255,255,255,0.6)">Need a username?</a>
+						</form>
+					</div>
+
+				</div>
+			</div>
+			<div class="row">
+				<div class="span12">
 					<div class="category_list" id="nav_bottom">
 						<ul>
 							<li>
-								<span style="color: rgba(255, 255, 255, 0.75);"><strong>Millions of First Class Quotes</strong></span>
+								<span style="color: rgba(255, 255, 255, 0.75);"><strong>Relatable Quotes</strong></span>
 							</li>
 							<!--
 							<li ><strong><a href="/">Home</a></strong></li>
@@ -167,20 +190,20 @@
 							<li><a href="/contests">contests <em>!</em></a></li>
 							-->
 							<li><a href="/quotes/love">love</a></li>
-							<li><a href="/quotes/funny">funny</a></li>
-							<li><a href="/quotes/lol">lol</a></li>
-							<li><a href="/quotes/true">true</a></li>
 							<li><a href="/quotes/life">life</a></li>
-							<li><a href="/quotes/sad">sad</a></li>
-							<li><a href="/quotes/inspirational">inspirational</a></li>
-							<li><a href="/quotes/cute">cute</a></li>
-							<li><a href="/quotes/advice">advice</a></li>
+							<li><a href="/quotes/funny">funny</a></li>
+							<li><a href="/quotes/true">true</a></li>
 							<li><a href="/quotes/lyrics">lyrics</a></li>
-							<li><a href="/quotes/story">story</a></li>
-							<li><a href="/quotes/breakup">breakup</a></li>
-							<li><a href="/quotes/music">music</a></li>
-							<li><a href="/quotes/quote">quote</a></li>
+							<li><a href="/quotes/cute">cute</a></li>
+							<li><a href="/quotes/inspirational">inspirational</a></li>
+							<li><a href="/quotes/lol">lol</a></li>
+							<li><a href="/quotes/sad">sad</a></li>
+							<li><a href="/quotes/advice">advice</a></li>
 							<li><a href="/quotes/ugh">ugh</a></li>
+							<li><a href="/quotes/breakup">breakup</a></li>
+							<li><a href="/quotes/quote">quote</a></li>
+							<li><a href="/quotes/story">story</a></li>
+							<li><a href="/quotes/friendship">friendship</a></li>
 							<li><a href="/tags">more</a></li>
 						</ul>
 					</div> <!-- /category_list -->
@@ -195,7 +218,6 @@
 
 	<div class="container" style="" id="meat">
 <!-- end -->
-
 
 
 <!--
@@ -340,33 +362,39 @@ privacy@wittyprofiles.com<br>
 					<li><a href="/random">Random</a></li>
 					<li><a href="/help">Help</a></li>
 					-->
+
+
+					<li><a href="/chatcat" target="_blank">Chat</a></li>
+					<li><a href="/crowd" target="_blank">Crowd Chat beta</a></li>
+					<li><a href="/people">People</a></li>
+					<li><a href="/advertise">Advertise</a></li>
 					<li><a href="/privacy">Privacy Policy</a></li>
 					<li><a href="/terms">Terms of Use</a></li>
 					<li><a href="/rules">Rules</a></li>
-					<li><a href="/chatcat" target="_blank">Chat</a></li>
 					<li><a href="/archive">Archive</a></li>
 					<li><a href="/really-good-quotes">Really Good Quotes</a></li>
 					<li><a href="/tags">Tags</a></li>
-					<li><a href="/contests">Contests</a></li>
+					<li><a href="/contests" style="color:#f00 !important;">Contests</a></li>
 					<li><a href="/help">Help</a></li>
 					<li><a href="/sign-in">Sign In</a></li>
 					<li><a href="/sign-up">Join</a></li>
+				</ul>
+				<ul>
 					<li>
-						<a href="http://www.twitter.com/WittyProfiles" target="_blank" alt="twitter" title="twitter" class="icon-twitter" style="font-weight:normal;"></a>
+						<a href="http://wittyprofiles.tumblr.com" target="_blank" alt="tumblr" title="tumblr"><span class="icon-tumblr-sign" style="font-weight:normal;"></span> Witty tumblr</a>
 					</li>
 					<li>
-						<a href="http://wittyprofiles.tumblr.com" target="_blank" alt="tumblr" title="tumblr" class="icon-tumblr-sign" style="font-weight:normal;"></a>
+						<a href="http://www.pinterest.com/WittyProfiles" target="_blank" alt="pinterest" title="pinterest"><span class="icon-pinterest-sign" style="font-weight:normal;"></span> Witty Pinterest</a>
 					</li>
 					<li>
-						<a href="http://www.pinterest.com/WittyProfiles" target="_blank" alt="pinterest" title="pinterest" class="icon-pinterest-sign" style="font-weight:normal;"></a>
+						<a href="http://www.instagram.com/WittyProfiles" target="_blank" alt="instagram" title="instagram"><span class="icon-instagram" style="font-weight:normal;"></span> Witty Instagram</a>
 					</li>
 					<li>
-						<a href="http://www.instagram.com/WittyProfiles" target="_blank" alt="instagram" title="instagram" class="icon-instagram" style="font-weight:normal;"></a>
+						<a href="http://www.facebook.com/WittyProfiles" target="_blank" alt="facebook" title="facebook"><span class="icon-facebook-sign" style="font-weight:normal;"></span> Witty Facebook</a>
 					</li>
 					<li>
-						<a href="http://www.facebook.com/WittyProfiles" target="_blank" alt="facebook" title="facebook" class="icon-facebook-sign" style="font-weight:normal;"></a>
+						<a href="http://www.twitter.com/WittyProfiles" target="_blank" alt="twitter" title="twitter"><span class="icon-twitter" style="font-weight:normal;"></span> Witty Twitter</a>
 					</li>
-
 				</ul>
 
 <!--
@@ -407,7 +435,7 @@ privacy@wittyprofiles.com<br>
 
 
 				<div>
-					© 2003-2013 Witty Profiles
+					© 2003-2014 Witty Profiles
 				
 					- <a href="#feedbackformanchor" class="feedback_link"><strong style="">&nbsp;Find a Bug? Send Feedback&nbsp;</strong></a>
 				</div>
