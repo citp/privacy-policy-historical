@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ryanair.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602040157id_/http%3A//ryanair.com/site/EN/conditions.php%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryanair.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330062829id_/http%3A//www.ryanair.com/en/terms-and-conditions/privacy) for the most accurate reproduction.*
 
-# Ryanair - Ryanair Website Privacy Statement
+# General Terms & Conditions of Carriage
 
 * * *
 
