@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the 3dissue.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023142630id_/http%3A//www.3dissue.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dissue.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330223723id_/http%3A//www.3dissue.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 3D Issue Privacy Policy
 
 This Privacy Policy governs the manner in which 3D Issue collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.3dissue.com website (“Site”). This privacy policy applies to the Site and all products and services offered by 3D Issue.
 
-**Personal identification information**  
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+**Personal identification information**
 
-**Non-personal identification information**
-
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
 **Web browser cookies**
 
@@ -17,7 +14,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 **How we use collected information**
 
-3D Issue may collect and use users personal information for the following purposes:  
+3D Issue may collect and use Users personal information for the following purposes:  
 \- To improve customer service  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.  
 \- To personalize user experience  
@@ -25,12 +22,11 @@ We may use information in the aggregate to understand how our Users as a group u
 \- To improve our Site  
 We may use feedback you provide to improve our products and services.  
 \- To send periodic emails  
-We may use the email address to respond to inquiries, questions, and/or other requests. We may contact you to inform you of company news, updates, related product or service information, etc. If at any time the user would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or user may contact us via our Site.  
+We may use the email address to respond to their inquiries, questions, and/or other requests or to receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+
 **How we protect your information**
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
-
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
 **Sharing your personal information**
 
@@ -50,10 +46,11 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-3D Issue  
-[http://www.3dissue.com](http://www.3dissue.com/ "3d issue")  
-1-800-216-6086  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+[3D Issue](http://www.3dissue.com/)  
+LYIT, Port Rd, Letterkenny, Co. Donegal Ireland  
+[+17185696212](callto:+17185696212)  
 [info@3dissue.com](mailto:info@3dissue.com)
 
-_This document was last updated on January 03, 2013_
+This document was last updated on January 02, 2014
