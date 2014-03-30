@@ -1,14 +1,19 @@
-<!--The following is the downloaded HTML source of the realrentals.com privacy policy that was archived on 2013-04-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130424003835id_/http%3A//www.realrentals.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the realrentals.com privacy policy that was archived on 2014-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140330224701id_/http%3A//www.realrentals.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0//EN"><html><head>
 <title>RealRentals.com | Privacy Policy</title>
 <!-- NEW -->
-<meta name="description" content="Houses for rent and vacation rentals.  Advertise your rental homes for free, or browse thousands homes for rent to find the perfect house for rent or vacation home.">
-<meta name="keywords" content="houses for rent, house for rent, home for rent, vacation homes, rental, real rentals, realrentals">
+<meta name="description" content="Houses for rent and vacation rentals.  Advertise your rental homes and apartments for free, or browse thousands homes for rent to find the perfect house for rent or vacation home.">
+<meta name="keywords" content="">
+
 
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<meta name="viewport" content="width=device-width; initial-scale=.7; user-scalable=1;">
+
+
+
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 
@@ -20,6 +25,39 @@ function confirmIt(txt, url)
 }
 
 </script>
+
+
+<script type="text/javascript">
+function noticeToggle(idname) {
+
+	// show the active div
+	var notice = document.getElementById(idname); // active notice
+
+	if(notice.style.display == "block") {
+	  notice.style.display = "none";
+  	}else{
+		notice.style.display = "block";
+	}
+}
+</script>
+
+
+<script language="JavaScript" type="text/javascript">
+    function rentTipsToggle() {
+      
+    	var rentTips = document.getElementById('rent-tips-container'); // general notice divs
+    
+    	if(rentTips.style.display == "block") {
+    	  rentTips.style.display = "none";
+    	  
+      	}
+    	else {
+    		rentTips.style.display = "block";
+    	}
+    }
+</script>
+
+
 
 
 <style type="text/css">
@@ -41,7 +79,7 @@ body
 
 a
 { 
-	color: #429cc2; 
+	color: #3983a2; 
 	text-decoration: none;
 }
 
@@ -160,6 +198,7 @@ a.menu_off_text
 	margin-bottom: 20px;
 	overflow: auto;
 	position: relative;
+	z-index: 199;
 
 }
 
@@ -204,7 +243,8 @@ h1
 {
 	font-weight: normal;
 	text-align: right;
-	font-size: 11px;
+	font-size: 12px;
+	line-height: 150%;
 	min-height: 14px;
 }
 
@@ -269,6 +309,12 @@ img.photo
 .clear_float
 {
 	clear: both;
+}
+
+.share-listing {
+
+    font-weight: bold;
+    font-size: 12px;
 }
 
 #rental_specs_container
@@ -364,6 +410,37 @@ div.rental_spec_data
 	width: 46px; 
 	height: 44px; 
 	background-image:url(/images/contact_email.png); 
+	background-repeat: no-repeat; 
+	position: absolute; 
+	top: -10px; 
+	left: 18px;
+}
+
+#adv_box
+{
+	background-color: white; 
+	border: 5px solid #fbaa2f;
+	margin-top: 20px;
+	position: relative;
+	display: inline-block;
+	padding-bottom: 15px;
+}
+
+#adv_box p
+{
+	float: right;
+	width: 326px;
+	text-align: center;
+	font-size: 14px;
+	font-weight: bold;
+	margin-top: 10px;
+	position: relative;
+}
+
+#adv_box_icon{
+	width: 46px; 
+	height: 44px; 
+	background-image:url(/images/document.png); 
 	background-repeat: no-repeat; 
 	position: absolute; 
 	top: -10px; 
@@ -540,6 +617,12 @@ div.result_page
 	width: 545px;
 }
 
+div.result_page_pagination_only
+{
+	float: center;
+	text-align: center;
+}
+
 div.result_sort
 {
 	float: left; 
@@ -641,6 +724,70 @@ input.text
 {
 	width: 320px;
 }
+input.phone 
+{
+	width: 72px;
+}
+
+.moving_form_date{
+    width: 101px;
+}
+
+input#idToIntZip {
+    display: none;
+    visibility: hidden;    
+}
+input#idToCanCity {
+    display: none;
+    visibility: hidden;    
+}
+input#idToIntCity {
+    display: none;
+    visibility: hidden;    
+}
+
+input#idFromIntZip {
+    display: none;
+    visibility: hidden;    
+}
+input#idFromCanCity {
+    display: none;
+    visibility: hidden;    
+}
+input#idFromIntCity {
+    display: none;
+    visibility: hidden;    
+}
+
+input#idVehicleInfo {
+    display: none;
+    visibility: hidden;
+}
+
+div.auto {
+    display: none;
+    visibility: hidden;
+}
+
+
+select.province{
+    width: 50px;
+    display: none;
+    visibility: hidden;
+}
+
+select.country {
+    width: 140px;
+}
+
+input.city
+{
+	width: 120px;
+}
+input.zip
+{
+	width: 60px;
+}
 
 input.checkbox 
 {
@@ -655,7 +802,7 @@ input.radio
 input.button 
 {  
 	width: 130px;
-	padding: 1px;
+	padding: 5px;
 	margin-left: 0px;
 	margin-top: 15px;
 	border: 1px solid #c0c0c0;
@@ -664,9 +811,23 @@ input.button
 	cursor: pointer;
 }
 
+
 input.button:hover 
 {  
 	border: 1px solid #999;
+}
+
+input.button-boost-traffic
+{
+	width: 130px;
+	padding: 5px;
+	margin-left: 0px;
+	margin-top: 15px;
+	border: 1px solid #c0c0c0;
+	color: #ffffff;
+	cursor: pointer;
+	font-weight: bold;
+    background-color: #ff9900;
 }
 
 div.hr
@@ -694,6 +855,121 @@ input.upgrade
 	margin-bottom: 3px;
 	margin-right: 10px;
 }
+
+
+.share_notice{
+    display:none;
+    position:absolute;
+    border: 1px solid #666666;
+    background-color: #ffffff;
+    -webkit-box-shadow: 0px 0px 5px 1px #000000;
+    -moz-box-shadow: 0px 0px 5px 1px #000000;
+    box-shadow: 0px 0px 5px 1px #000000;
+    width:665px;
+    padding:20px;
+    z-index:200;
+    top: 400px;
+}
+
+
+#rent-tips-container{
+    display: none;
+    position: absolute;
+    z-index:200;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    vertical-align: middle;
+    
+}
+
+#rent-tips-content-container{
+    margin: 0px auto;
+    position: relative;
+    display: inline-block;
+    top: 20%;
+    padding: 0px;
+    width: 600px;
+    text-align: left;
+    border: 1px solid #666666;
+    background-color: #ffffff;
+    -webkit-box-shadow: 0px 0px 5px 1px #000000;
+    -moz-box-shadow: 0px 0px 5px 1px #000000;
+    box-shadow: 0px 0px 5px 1px #000000;
+}
+
+
+#rent-tips-content{
+    clear:both;
+    margin: 30px;
+    padding: 0px;
+	font-family: verdana, arial, helvetica, sans-serif; 
+	font-size: 12px;
+}
+
+#rent-tips-header{
+    background-color: #bee7fb;
+    border: 0;
+    width: 100%;
+    display: inline-block;
+	font-family: verdana, arial, helvetica, sans-serif; 
+	font-size: 14px;
+}
+#rent-tips-close{
+    display: inline-block;
+    position: relative;
+    margin: 15px;
+    float: right;
+    font-size: 12px;
+}
+
+#rent-tips-title{
+    display: inline-block;
+    position: relative;
+    margin: 15px;
+    float: left;
+}
+
+#clear{
+    clear: both;
+}
+#rent-tips-ul{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    list-style-type: none;
+}
+
+#rent-tips-ul-credit-score{
+    margin-top: 20px;
+    margin-bottom: 0px;
+    list-style-type: none;
+    font-size:110%;
+}
+
+#rent-tips-ul-credit-score li{
+    margin-bottom: 20px;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+#rent-tips-ul li{
+    margin-bottom: 10px;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+
+.verified-notice{
+    display: none;
+    margin-top: 10px;
+    position: relative;
+
+
+}
+
+
 
 </style>
 
@@ -840,6 +1116,66 @@ background: none;
 				<div id="body_nav">
 									</div>
 			</div>	
+			
+			
+			
+
+                    <div id="rent-tips-container">
+                        <div id="rent-tips-content-container">
+                            <div id="rent-tips-header">
+                            <div id="rent-tips-title"><strong>Rent Tips</strong></div><div id="rent-tips-close"><a href="javascript: rentTipsToggle();">Close</a></div>
+                            </div>
+                            <div id="rent-tips-content">
+                                <p style="font-size:120%">Follow these tips to make renting a breeze.</p>
+                                                                <ul id="rent-tips-ul">
+                                <li>Plan your move early and find affordable movers. <strong><a href="/move">Get Moving Quotes</a></strong></li>
+                                <li>
+                                
+
+                                    <strong>Watch for scams!</strong> Fraudsters will urge you to pay your deposit before you visit the property and typically mention shipping keys to you because they are unable to meet you in person.
+                                </li>
+                                <li>
+                                    Only work with agents / landlords within the United States.
+                                </li>
+                                
+                                <li>
+                                    Request their phone number and call them. Make sure they are within the US.
+                                </li>
+                                
+                                <li>
+                                    If possible, meet the listing agent in person and walk through the property.
+                                </li>
+                                
+                                <li>
+                                    Be cautious of landlords that are out of state.
+                                </li>
+                                <li>
+                                    If it seems to good to be true... it probably is.
+                                </li>
+                                <li>
+                                    Wait for a legitimate contract to sign before sending payment.
+                                </li>
+                                
+                                <li>
+                                    Do NOT send money through Western Union.
+                                </li>
+                                
+                                <li>
+                                    Do NOT give any bank account information over the phone or in email.
+                                </li>
+                                
+                                <li>
+                                    Do NOT send money outside the United States (e.g.; West Africa, UK).
+                                </li>
+                                <li>
+                                    If a listing or agent seems suspicious please contact us by clicking the "Report Listing" link on the questionable listing.
+                                </li>
+                                </ul>
+                            </div>
+                        </div>
+                                            </div>
+
+
 					
 			<div class="box">	
 	INFORMATION COLLECTION AND USE
@@ -977,11 +1313,11 @@ background: none;
 				|
 		<a href="/tos/">Terms of Service</a>
 		|
-		<a href="/privacy/">Privacy Policy</a>		
+		<a href="/privacy/">Privacy Policy</a>	
 		|
 		<a href="/fair-housing/">Fair Housing</a>
 		|
-		<a href="/contact/">Contact Us</a>		
+		<a href="/contact/">Contact RealRentals.com</a>		
 	</div>	
 	
 </div>
@@ -999,6 +1335,8 @@ background: none;
   })();
 
 </script>
+
+				
 
 
 
