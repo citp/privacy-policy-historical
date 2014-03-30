@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 38degrees.org.uk privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215151327id_/http%3A//38degrees.org.uk/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 38degrees.org.uk privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330050756id_/http%3A//38degrees.org.uk/pages/privacy-statement) for the most accurate reproduction.*
 
 # 38 Degrees | Privacy policy
 
@@ -57,26 +57,17 @@ We will take reasonable technical and organisational precautions to prevent the 
 **7\. Policy amendments**  
 We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes. We may also notify you of changes to our privacy policy by email.
 
-**8\. Your rights**  
-On receipt of proof of identity and a written request you may have a copy of any information that we hold about you. Please e-mail the Website Manager contact@38degrees.org.uk or write to:  
-_The Data Protection Manager  
-38 Degrees  
-8 Angel Gate  
-City Road  
-London EC1V 2SJ _
+**8.  **Third party websites
 
-We will reply within forty days.
-
-**9\. Third party websites**  
 The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
 
-**10\. Updating information**  
+**9\. Updating information**  
 Please let us know if the personal information which we hold about you needs to be corrected or updated by contacting us via emailtheteam@38degrees.org.uk
 
-**11\. Unsubscribing  
+**10\. Unsubscribing  
 **You may unsubscribe from 38 Degrees at any time by going to http://38degrees.org.uk/unsubscribe/ or by contacting emailtheteam@38degrees.org.uk
 
-**12.Contact**   
+**11\. Contact**   
 If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email emaitheteam@38degrees.org.uk or by post to:
 
 _The Data Protection Manager  
