@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4tests.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026210819id_/http%3A//www.4tests.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4tests.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330173327id_/http%3A//www.4tests.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # 4tests.com - Privacy Policy
 
@@ -6,24 +6,12 @@
 
 Welcome to the 4Tests Network, owned and produced by 4Tests, LLC. and its subsidiary and affiliate corporations, successors, and assigns (collectively referred to as "4Tests"). The 4Tests Network Products and Services (collectively, the "Products and Services") are offered by 4Tests through web pages at or linked to the URLs [www.4tests.com](http://www.4tests.com/), [www.4exams.com](http://www.4exams.com/), [www.4-tests.com](http://www.4-tests.com/), [www.4-exams.com](http://www.4-exams.com/), [www.tests101.com](http://www.tests101.com/), [www.4pupils.com](http://comm.4pupils.com/), [www.4testsmail.com](http://www.4testsmail.com/) (collectively referred to as the "4Tests Network," which may expand or change from time to time) are made available subject to this Privacy Policy. This statement discloses the privacy practices of the 4Tests Network. By using the Products and Services, you agree, without limitation or qualification, to be bound by this Privacy Policy or any other privacy or data collection policy applicable to any individual 4Tests Network web site. 
 
-1.⚫ | What information of yours does the 4Tests Network collect?  
----|---  
-2.⚫ | What are "cookies" and how does 4Tests use them?  
-3.⚫ | What organization is collecting the information?  
-4.⚫ | How does the 4Tests Network use the information?  
-5.⚫ | With whom does the 4Tests Network share the information that is collected?   
-6.⚫ | How can you access, edit or delete your information?  
-7.⚫ | What is the opt-out policy for the 4Tests Network?  
-8.⚫ | What types of security procedures are in place to protect against the loss, misuse or alteration of your information?  
-9.⚫ | The 4Tests Network⚫s Notice regarding the Children⚫s Online Privacy Protection Act (COPPA)  
-10.⚫ | What additional measures does the 4Tests Network take to protect children online?  
-11.⚫ | What can you do to better protect yourself on the Internet?  
-  
 Contact information for questions regarding this statement should be directed to:   
-4Tests.com, LLC   
+4Tests.com   
 18208 Preston Rd.   
 Suite D9 429   
-Dallas, Texas 75252
+Dallas, Texas 75252   
+[**support@4tests.com**](mailto:support@4Tests.com)
 
 **1\. What information of yours does the 4Tests Network collect?**  
 The goal of the 4Tests Network is to be your favorite destination on the Internet by providing you with the information, services and product offerings that are most relevant to you. To achieve this goal, the 4Tests Network needs to collect information to understand what differentiates you from its user base. We collect two types of information from you, "anonymous information" and "personally identifiable information." Anonymous information refers to information that cannot be tied back to a specific individual. Each time a visitor comes to a 4Tests Network site, 4Tests collects some information to improve the overall quality of the visitor's online experience. 4Tests collects this user information for purposes of product monitoring, product improvement, and targeted advertising. 
@@ -35,7 +23,7 @@ In addition to this anonymous data, 4Tests may also collect personally identifia
 
 
 
-Lastly, we use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>
+Lastly, we use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (including your name, age, gender and interests) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>
 
 **2\. What are "cookies" and how does 4Tests use them?**   
 In addition to the personally identifiable information that 4Tests collects, we also collect information "anonymously" using "cookies." Presently, "cookies" play an important role in making the Internet work, but there is much confusion among Internet users about what cookies are and how they are used. A cookie is a small text file containing a unique identification number that is transferred from a web site to the hard drive of your computer so that the web site may identify you and track your activities on the web site. This unique number identifies your browser-- but not you -- to the 4Tests computers whenever you visit one of the sites in the 4Tests Network. A cookie will not let a web site know any personally identifiable information about you, such as your real name and address. 4Tests is not generally interested in any one individual and does not collect personally identifiable information about any one person using cookies. The coding in the cookies 4Tests sets lets us know that you are using a particular computer but nothing more. Since cookies are only text files, they cannot run on your computer, search your computer for other information or transmit any information to anyone. 
@@ -67,7 +55,7 @@ The following are examples of how The 4Tests Network may use the information it 
   * 4Tests also uses the aggregate data to perform statistical analyses of the collective characteristics and behavior of our registered users and visitors, to measure user demographics and interests regarding specific areas of the 4Tests Network and to analyze how and where best to use our resources. Without such data, we would not know what the most popular areas of the 4Tests Network are, and we would not be able to change and update the content and services appropriately. 
   * The 4Tests Network may, from time to time, use your information to contact you about changes or enhancements to Products and Services on the 4Tests Network 
   * If you told the 4Tests Network that you were interested in receiving offers or information from selected 4Tests Network sponsors and advertisers, 4Tests will send you email about products and services that we feel may be of interest to you. For those who elect to receive such materials from 4Tests or third parties, and who indicate that they do in their profile, 4Tests will release personally identifiable information. Information released includes name, e-mail address and other information supplied in the 4Tests Network registration process. 
-  * The 4Tests Network sometimes uses an individual registered user⚫s data to "pre-populate" forms that are displayed for the purpose of collecting individual data by the 4Tests Network and/or its advertisers and sponsors. 
+  * The 4Tests Network sometimes uses an individual registered user's data to "pre-populate" forms that are displayed for the purpose of collecting individual data by the 4Tests Network and/or its advertisers and sponsors. 
   * If you enter a sweepstakes or a contest on the 4Tests Network, we will use the information you provided to contact you in the event you win. 
   * 4Tests may be required by law enforcement or judicial authorities to provide information on individual users to the appropriate governmental authorities. In matters involving a danger to personal or public safety, 4Tests may voluntarily provide information to appropriate governmental authorities.
 
@@ -89,14 +77,14 @@ The 4Tests Network has security measures in place to attempt to protect against 
 
 You are ultimately responsible for the security of your 4Tests Network ID and password. Please take care when using and storing them. 4Tests recommends that you do not divulge your password to anyone. You should log out of your browser at the end of each computer session to ensure that others cannot access your personal information and correspondence, especially if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe.
 
-**9\. The 4Tests Network notice regarding the Children⚫s Online Privacy Protection Act (COPPA)?**   
-The 4Tests Network, in compliance with the Children⚫s Online Privacy Protection Act (COPPA) of 1998, provides notice to parents of children under 13 that: 
+**9\. The 4Tests Network notice regarding the Children's Online Privacy Protection Act (COPPA)?**   
+The 4Tests Network, in compliance with the Children's Online Privacy Protection Act (COPPA) of 1998 (revised (2012), provides notice to parents of children under 13 that: 
 
   * The 4Tests Network may collect personal information from children under 13 years of age in order to provide them with access to services and content on the 4Tests Network; 
   * The 4Tests Network needs the consent of parents or guardians to collect, use and disclose personally identifiable information about children under 13; 
   * The 4Tests Network has created a mechanism by which parents and guardians can provide consent; 
   * The 4Tests Network may not require children under 13 to disclose more information than is reasonably necessary to participate in an activity as a condition of participation; 
-  * The 4Tests Network has created a mechanism by which parents or guardians can, upon verification, review their children⚫s personal information, ask to have that information deleted, and refuse to allow any further collection or use of their children⚫s personal information.
+  * The 4Tests Network has created a mechanism by which parents or guardians can, upon verification, review their children's personal information, ask to have that information deleted, and refuse to allow any further collection or use of their children's personal information.
 
 
 
@@ -104,7 +92,7 @@ In order to provide consent for your child, please click on the link below, and 
 
 [Sign me up for a 4Tests Membership!](http://www.4tests.com/users/register.asp)
 
-If you have any questions about this Notice, about the 4Tests Membership, or about the collection or maintenance of your child⚫s personal information anywhere on the 4Tests Network, please contact us at the above address. 
+If you have any questions about this Notice, about the 4Tests Membership, or about the collection or maintenance of your child's personal information anywhere on the 4Tests Network, please contact us at the above address. 
 
 The 4Tests Network encourages parents and guardians to spend time online with their children and to participate in the activities offered on the sites that they visit. No information should be submitted to or posted at the 4Tests Network by visitors and registered users under 13 years of age without the consent of their parent or guardian.
 
@@ -114,9 +102,9 @@ The 4Tests Network encourages parents and guardians to spend time online with th
 
 The 4Tests Network is proud to provide children with access to the best educational and entertainment content and services available online. In order to provide high quality services, and in order for certain of these services to function properly, the 4Tests Network collects information from users who are under the age of 13. 
 
-The 4Tests Network collects three types of information from children: anonymous information, information that can be tied to particular user⚫s computer or to the systems used by users to gain Internet access, and personally identifiable information that is specific to a person⚫s identity. Each time a visitor comes to a 4Tests Network site, the 4Tests collects some information to improve the overall quality of the online experience. 4Tests collects the visitor's IP address, referral data (e.g., the address of the last URL a user visited prior to clicking through to a 4Tests Network site), and browser and platform type (e.g., Internet Explorer and MacIntosh platform). 4Tests collects this user information for purposes of product monitoring, product improvement, and targeted advertising. 
+The 4Tests Network collects three types of information from children: anonymous information, information that can be tied to particular user's computer or to the systems used by users to gain Internet access, and personally identifiable information that is specific to a person's identity. Each time a visitor comes to a 4Tests Network site, the 4Tests collects some information to improve the overall quality of the online experience. 4Tests collects the visitor's IP address, referral data (e.g., the address of the last URL a user visited prior to clicking through to a 4Tests Network site), and browser and platform type (e.g., Internet Explorer and MacIntosh platform). 4Tests collects this user information for purposes of product monitoring, product improvement, and targeted advertising. 
 
-In addition to anonymous data and information that can be tied to a particular user⚫s computer or to systems used for Internet access, the 4Tests Network may also collect personally identifiable information that is specific to a person⚫s identity. By personally identifiable information, 4Tests means information that tells us specifically who you and your child are, such as your names and email address. 
+In addition to anonymous data and information that can be tied to a particular user's computer or to systems used for Internet access, the 4Tests Network may also collect personally identifiable information that is specific to a person's identity. By personally identifiable information, 4Tests means information that tells us specifically who you and your child are, such as your names and email address. 
 
 The 4Tests Network does not knowingly permit children under the age of 13 to register without the verifiable consent of their parents or guardians. The best way for parents to give verifiable consent to 4Tests is by signing up for a 4Tests Membership. When you provide information about yourself and your child during registration for a 4Tests Membership, that information is collected and maintained by the 4Tests Network and, if the functionality of the service so requires, by the providers of those specific services and content. The 4Tests Membership allows access for children under 13 to the 4Tests Network.
 
@@ -127,7 +115,7 @@ The 4Tests Network does not knowingly permit children under the age of 13 to reg
   1. **Know the risks.**   
 When you communicate with others online, you should be aware that, when disclosing personal information such as one's actual name, member name, e-mail address, etc., on a web page, in a newsgroup, chat room or forum, that information may be collected and used by others to send that person unsolicited e-mail from other parties, outside the 4Tests Network. Some of the e-mail you receive may be useful to you, but some may not. In an effort to curtail unsolicited e-mail, 4Tests blocks certain e-mail addresses and domains from sending e-mail to e-mail addresses at our domains. ****
   2. **Educate yourself.**   
-Search the Web for as much information as you can about how to protect your privacy. Look for a privacy statement in the sites you visit. Please visit the Federal Trade Commission⚫s web site and read information on being a [Savvy Internet Traveler](http://www.ftc.gov/bcp/conline/pubs/online/sitesee/index.html) and other [privacy initiatives](http://www.ftc.gov/privacy/index.html). Additional privacy resources can be found at by clicking on any of the following links: 
+Search the Web for as much information as you can about how to protect your privacy. Look for a privacy statement in the sites you visit. Please visit the Federal Trade Commission's web site and read information on being a [Savvy Internet Traveler](http://www.ftc.gov/bcp/conline/pubs/online/sitesee/index.html) and other [privacy initiatives](http://www.ftc.gov/privacy/index.html). Additional privacy resources can be found at by clicking on any of the following links: 
 
 **Department of Education: Parents Guide to the Internet**  
 <http://www.ed.gov/pubs/parents/internet/>
