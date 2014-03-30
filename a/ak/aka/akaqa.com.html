@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the akaqa.com privacy policy that was archived on 2013-08-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130814124106id_/http%3A//www.akaqa.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the akaqa.com privacy policy that was archived on 2014-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140330230414id_/http%3A//www.akaqa.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <title>akaQA - also known as questions &amp; answers</title>
@@ -8,7 +8,7 @@
 
 <link rel="shortcut icon" type="image/ico" href="/static/images/new/favicon.ico">
 
-<link rel="stylesheet" type="text/css" media="screen" href="/static/css/new/style.css?v=16">
+<link rel="stylesheet" type="text/css" media="screen" href="/static/css/new/style.css?v=18">
 <link rel="stylesheet" type="text/css" href="/static/js/new/wmd/wmd.css">
 
 <!--[IF IE 6]>
@@ -27,7 +27,7 @@
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/static/js/jquery-1.7.2.min.js"></script>
 
 
-<script type="text/javascript" src="/static/js/scripts.js?v=2"></script>
+<script type="text/javascript" src="/static/js/scripts.js?v=6"></script>
     <script type="text/javascript" src="/static/js/semimodal.js"></script>
     <script type="text/javascript" src="/static/js/user-dropdown.js"></script>
 </head>
@@ -109,6 +109,8 @@
                     <li><a href="/category/Uncategorized">Uncategorized</a></li>
                     
                     <li><a href="/category/Technical_support">Technical support</a></li>
+                    
+                    <li><a href="/category/animals">Animals</a></li>
                     
                 </ul>
                 
@@ -466,38 +468,41 @@ $(function() {
 <div class="banner_block">
 
 
+    
     <script type="text/javascript"><!--
-    google_ad_client = "ca-pub-5892729231691349";
-    /* akaQA_300x250_ROS */
-    google_ad_slot = "6869829683";
-    google_ad_width = 300;
-    google_ad_height = 250;
-    //-->
+        google_ad_client = "ca-pub-5892729231691349";
+        /* akaQA_300x250_ROS */
+        google_ad_slot = "6869829683";
+        google_ad_width = 300;
+        google_ad_height = 250;
+        //-->
     </script>
     <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+    
+    
 
 </div>
 
  <div id="sidebar_div_ask_question" class="sideblock">
     <h1>Have a question? Ask it Here</h1>
-    <form name="ask_question" id="sidebar_ask_question" action="" method="get" onsubmit="if(!$('#sidebar_question_title').val()){top.location.href='/ask';return false;}" autocomplete="off">
-        <textarea class="field" name="question_title" id="sidebar_question_title" onfocus="sidebarquestion_onfocus();" onblur="sidebarquestion_onblur();" value="What would you like to ask?"></textarea>
+    <form name="ask_question" id="sidebar_ask_question" action="/ask" method="get" onsubmit="if(!$('#sidebar_question_title').val()){top.location.href='/ask';return false;}" autocomplete="off">
+        <textarea class="field" name="question_title" id="sidebar_question_title" onfocus="sidebarquestion_onfocus();" onblur="sidebarquestion_onblur();">What would you like to ask?</textarea>
         <input class="submit" type="submit" value="" id="sidebar_question_submit">
         <div class="spacer"></div>
     </form>
     </div>
 
 <script type="text/javascript">
-    function sidebarquestion_onblur(){
-        if($('#sidebar_question_title').val() == ''){
-            $('#sidebar_question_title').val('What would you like to ask?');
-            $('#sidebar_question_title').css('color','#7F7F7F');
+    function sidebarquestion_onblur() {
+        var sbtitle = $( '#sidebar_question_title' );
+        if( sbtitle.val() == '' ){
+            sbtitle.val( 'What would you like to ask?' ).css( 'color', '#7F7F7F' );
         }
     }
     function sidebarquestion_onfocus(){
-        if($('#sidebar_question_title').val() == 'What would you like to ask?'){
-            $('#sidebar_question_title').val('');
-            $('#sidebar_question_title').css('color','#000');
+        var sbtitle = $('#sidebar_question_title');
+        if( sbtitle.val() == 'What would you like to ask?' ){
+            sbtitle.val('').css('color','#000');
         }
     }
     
@@ -524,35 +529,16 @@ $(function() {
 		
 		<div class="expert_item">
 			<div class="photo">
-				<div style="background: url(&quot;http://cdn.akaqa.com/shared/8/akaqa/1304266//9361-1366967767.5198.jpg&quot;) repeat scroll 0% 0% transparent; width: 32px; height: 32px;" width="32" height="32">&nbsp;</div>
-				<!-- <img src="http://cdn.akaqa.com/shared/8/akaqa/1304266//9361-1366967767.5198.jpg"> -->
-			</div>
-			<div class="descr">
-				<div><a class="exp_title" href="/account/profile/1919552370">ROMOS</a></div>
-				<div>
-					
-						<span class="label">Answers: 31843</span> /
-						<span class="label">Questions: 85</span> /
-                        <span class="label">Karma: 1541K</span>
-					
-					
-				</div>
-			</div>
-			<div class="spacer"></div>
-		</div>
-		
-		<div class="expert_item">
-			<div class="photo">
-				<div style="background: url(&quot;http://cdn.akaqa.com/shared/8/akaqa/1306131//8069-1371088973.3089.jpg&quot;) repeat scroll 0% 0% transparent; width: 32px; height: 32px;" width="32" height="32">&nbsp;</div>
-				<!-- <img src="http://cdn.akaqa.com/shared/8/akaqa/1306131//8069-1371088973.3089.jpg"> -->
+				<div style="background: url(&quot;http://cdn.akaqa.com/shared/8/akaqa/1401147//6052-1389668111.5272.jpg&quot;) repeat scroll 0% 0% transparent; width: 32px; height: 32px;" width="32" height="32">&nbsp;</div>
+				<!-- <img src="http://cdn.akaqa.com/shared/8/akaqa/1401147//6052-1389668111.5272.jpg"> -->
 			</div>
 			<div class="descr">
 				<div><a class="exp_title" href="/account/profile/19191303">Colleen</a></div>
 				<div>
 					
-						<span class="label">Answers: 77173</span> /
-						<span class="label">Questions: 216</span> /
-                        <span class="label">Karma: 1481K</span>
+						<span class="label">Answers: 90553</span> /
+						<span class="label">Questions: 226</span> /
+                        <span class="label">Karma: 1974K</span>
 					
 					
 				</div>
@@ -562,16 +548,35 @@ $(function() {
 		
 		<div class="expert_item">
 			<div class="photo">
-				<div style="background: url(&quot;http://cdn.akaqa.com/shared/8/akaqa/1308014//6560-1375381677.7099.jpg&quot;) repeat scroll 0% 0% transparent; width: 32px; height: 32px;" width="32" height="32">&nbsp;</div>
-				<!-- <img src="http://cdn.akaqa.com/shared/8/akaqa/1308014//6560-1375381677.7099.jpg"> -->
+				<div style="background: url(&quot;http://cdn.akaqa.com/shared/8/akaqa/1401126//9885-1389567987.9454.jpg&quot;) repeat scroll 0% 0% transparent; width: 32px; height: 32px;" width="32" height="32">&nbsp;</div>
+				<!-- <img src="http://cdn.akaqa.com/shared/8/akaqa/1401126//9885-1389567987.9454.jpg"> -->
+			</div>
+			<div class="descr">
+				<div><a class="exp_title" href="/account/profile/1919552370">ROMOS</a></div>
+				<div>
+					
+						<span class="label">Answers: 37106</span> /
+						<span class="label">Questions: 103</span> /
+                        <span class="label">Karma: 1899K</span>
+					
+					
+				</div>
+			</div>
+			<div class="spacer"></div>
+		</div>
+		
+		<div class="expert_item">
+			<div class="photo">
+				<div style="background: url(&quot;http://cdn.akaqa.com/shared/8/akaqa/1309272//7735-1380289099.2579.jpg&quot;) repeat scroll 0% 0% transparent; width: 32px; height: 32px;" width="32" height="32">&nbsp;</div>
+				<!-- <img src="http://cdn.akaqa.com/shared/8/akaqa/1309272//7735-1380289099.2579.jpg"> -->
 			</div>
 			<div class="descr">
 				<div><a class="exp_title" href="/account/profile/1919355338">jhharlan</a></div>
 				<div>
 					
-						<span class="label">Answers: 14962</span> /
-						<span class="label">Questions: 167</span> /
-                        <span class="label">Karma: 916K</span>
+						<span class="label">Answers: 17052</span> /
+						<span class="label">Questions: 211</span> /
+                        <span class="label">Karma: 1046K</span>
 					
 					
 				</div>
@@ -581,16 +586,16 @@ $(function() {
 		
 		<div class="expert_item">
 			<div class="photo">
-				<div style="background: url(&quot;http://cdn.akaqa.com/shared/6/akaqa/1105259//2252-1306314515.0821.jpg&quot;) repeat scroll 0% 0% transparent; width: 32px; height: 32px;" width="32" height="32">&nbsp;</div>
-				<!-- <img src="http://cdn.akaqa.com/shared/6/akaqa/1105259//2252-1306314515.0821.jpg"> -->
+				<div style="background: url(&quot;http://cdn.akaqa.com/shared/8/akaqa/1403031//8276-1393806010.5875.jpg&quot;) repeat scroll 0% 0% transparent; width: 32px; height: 32px;" width="32" height="32">&nbsp;</div>
+				<!-- <img src="http://cdn.akaqa.com/shared/8/akaqa/1403031//8276-1393806010.5875.jpg"> -->
 			</div>
 			<div class="descr">
-				<div><a class="exp_title" href="/account/profile/191915883">Benthere</a></div>
+				<div><a class="exp_title" href="/account/profile/191936860">country bumpkin</a></div>
 				<div>
 					
-						<span class="label">Answers: 13197</span> /
-						<span class="label">Questions: 23</span> /
-                        <span class="label">Karma: 842K</span>
+						<span class="label">Answers: 15093</span> /
+						<span class="label">Questions: 72</span> /
+                        <span class="label">Karma: 991K</span>
 					
 					
 				</div>
@@ -606,15 +611,31 @@ $(function() {
 		
 		<div class="expert_item">
 			<div class="photo">
-				<div style="background: url(&quot;http://cdn.akaqa.com/shared/8/akaqa/1304266//9361-1366967767.5198.jpg&quot;) repeat scroll 0% 0% transparent; width: 32px; height: 32px;" width="32" height="32">&nbsp;</div>
-				<!-- <img src="http://cdn.akaqa.com/shared/8/akaqa/1304266//9361-1366967767.5198.jpg"> -->
+				<div style="background: url(&quot;http://cdn.akaqa.com/shared/8/akaqa/1401147//6052-1389668111.5272.jpg&quot;) repeat scroll 0% 0% transparent; width: 32px; height: 32px;" width="32" height="32">&nbsp;</div>
+				<!-- <img src="http://cdn.akaqa.com/shared/8/akaqa/1401147//6052-1389668111.5272.jpg"> -->
+			</div>
+			<div class="descr">
+				<div><a class="exp_title" href="/account/profile/19191303">Colleen</a></div>
+				<div>
+					<span class="label"><span title="Answers">Answers</span>: 89119</span> /
+					<span class="label"><span title="Questions">Questions</span>:223</span><br>
+					<span class="label">7 days gain: 20865</span>
+				</div>
+			</div>
+			<div class="spacer"></div>
+		</div>
+		
+		<div class="expert_item">
+			<div class="photo">
+				<div style="background: url(&quot;http://cdn.akaqa.com/shared/8/akaqa/1401126//9885-1389567987.9454.jpg&quot;) repeat scroll 0% 0% transparent; width: 32px; height: 32px;" width="32" height="32">&nbsp;</div>
+				<!-- <img src="http://cdn.akaqa.com/shared/8/akaqa/1401126//9885-1389567987.9454.jpg"> -->
 			</div>
 			<div class="descr">
 				<div><a class="exp_title" href="/account/profile/1919552370">ROMOS</a></div>
 				<div>
-					<span class="label"><span title="Answers">Answers</span>: 31843</span> /
-					<span class="label"><span title="Questions">Questions</span>:85</span><br>
-					<span class="label">7 days gain: 12570</span>
+					<span class="label"><span title="Answers">Answers</span>: 36717</span> /
+					<span class="label"><span title="Questions">Questions</span>:98</span><br>
+					<span class="label">7 days gain: 10680</span>
 				</div>
 			</div>
 			<div class="spacer"></div>
@@ -628,9 +649,9 @@ $(function() {
 			<div class="descr">
 				<div><a class="exp_title" href="/account/profile/191915883">Benthere</a></div>
 				<div>
-					<span class="label"><span title="Answers">Answers</span>: 13197</span> /
+					<span class="label"><span title="Answers">Answers</span>: 15136</span> /
 					<span class="label"><span title="Questions">Questions</span>:23</span><br>
-					<span class="label">7 days gain: 8535</span>
+					<span class="label">7 days gain: 3285</span>
 				</div>
 			</div>
 			<div class="spacer"></div>
@@ -638,31 +659,15 @@ $(function() {
 		
 		<div class="expert_item">
 			<div class="photo">
-				<div style="background: url(&quot;http://cdn.akaqa.com/shared/8/akaqa/1306131//8069-1371088973.3089.jpg&quot;) repeat scroll 0% 0% transparent; width: 32px; height: 32px;" width="32" height="32">&nbsp;</div>
-				<!-- <img src="http://cdn.akaqa.com/shared/8/akaqa/1306131//8069-1371088973.3089.jpg"> -->
+				<div style="background: url(&quot;http://cdn.akaqa.com/shared/7/akaqa/1203227//2784-1332432430.8213.jpg&quot;) repeat scroll 0% 0% transparent; width: 32px; height: 32px;" width="32" height="32">&nbsp;</div>
+				<!-- <img src="http://cdn.akaqa.com/shared/7/akaqa/1203227//2784-1332432430.8213.jpg"> -->
 			</div>
 			<div class="descr">
-				<div><a class="exp_title" href="/account/profile/19191303">Colleen</a></div>
+				<div><a class="exp_title" href="/account/profile/19198410">pythonlover</a></div>
 				<div>
-					<span class="label"><span title="Answers">Answers</span>: 77173</span> /
-					<span class="label"><span title="Questions">Questions</span>:216</span><br>
-					<span class="label">7 days gain: 8295</span>
-				</div>
-			</div>
-			<div class="spacer"></div>
-		</div>
-		
-		<div class="expert_item">
-			<div class="photo">
-				<div style="background: url(&quot;http://cdn.akaqa.com/shared/8/akaqa/1308079//9328-1375893011.0846.jpg&quot;) repeat scroll 0% 0% transparent; width: 32px; height: 32px;" width="32" height="32">&nbsp;</div>
-				<!-- <img src="http://cdn.akaqa.com/shared/8/akaqa/1308079//9328-1375893011.0846.jpg"> -->
-			</div>
-			<div class="descr">
-				<div><a class="exp_title" href="/account/profile/191936860">country bumpkin</a></div>
-				<div>
-					<span class="label"><span title="Answers">Answers</span>: 10859</span> /
-					<span class="label"><span title="Questions">Questions</span>:55</span><br>
-					<span class="label">7 days gain: 8190</span>
+					<span class="label"><span title="Answers">Answers</span>: 16258</span> /
+					<span class="label"><span title="Questions">Questions</span>:50</span><br>
+					<span class="label">7 days gain: 3045</span>
 				</div>
 			</div>
 			<div class="spacer"></div>
@@ -678,57 +683,7 @@ $(function() {
 
     
     <div class="question_item">
-        <div><a class="qtitle" href="/question/q19192310822-Exel-2010">exel 2010</a></div>
-        <div class="statistic">
-            <span class="label">Answers: <span class="highlight">2</span></span>
-            <span class="label">Views: <span class="highlight">14</span></span>
-            <span class="label">Rating: <span class="highlight">0</span></span>
-        </div>
-        <div class="spacer"></div>
-    </div>
-    
-    <div class="question_item">
-        <div><a class="qtitle" href="/question/q19192310821-Cheat-crossfire">cheat crossfire</a></div>
-        <div class="statistic">
-            <span class="label">Answers: <span class="highlight">1</span></span>
-            <span class="label">Views: <span class="highlight">14</span></span>
-            <span class="label">Rating: <span class="highlight">0</span></span>
-        </div>
-        <div class="spacer"></div>
-    </div>
-    
-    <div class="question_item">
-        <div><a class="qtitle" href="/question/q19192310820-Words-and-artistsyou-may-not-be-an-angel">words and artists/you may not be an angel</a></div>
-        <div class="statistic">
-            <span class="label">Answers: <span class="highlight">1</span></span>
-            <span class="label">Views: <span class="highlight">16</span></span>
-            <span class="label">Rating: <span class="highlight">0</span></span>
-        </div>
-        <div class="spacer"></div>
-    </div>
-    
-    <div class="question_item">
-        <div><a class="qtitle" href="/question/q19192310818-I-would-like-to-do-gcse-in-urdu-language-how-do-i-go-about-it">I would like to do GCSE In Urdu Language how do I go about it?</a></div>
-        <div class="statistic">
-            <span class="label">Answers: <span class="highlight">1</span></span>
-            <span class="label">Views: <span class="highlight">19</span></span>
-            <span class="label">Rating: <span class="highlight">0</span></span>
-        </div>
-        <div class="spacer"></div>
-    </div>
-    
-    <div class="question_item">
-        <div><a class="qtitle" href="/question/q19192310817-How-to-convert-ppt-to-pps">how to convert ppt to pps</a></div>
-        <div class="statistic">
-            <span class="label">Answers: <span class="highlight">1</span></span>
-            <span class="label">Views: <span class="highlight">25</span></span>
-            <span class="label">Rating: <span class="highlight">0</span></span>
-        </div>
-        <div class="spacer"></div>
-    </div>
-    
-    <div class="question_item">
-        <div><a class="qtitle" href="/question/q19192310814-I-dont-have-a-creditcard--how-do-i-sign-in-">i don't have a creditcard ! how do i sign in ??</a></div>
+        <div><a class="qtitle" href="/question/q19192373642-In-microsoft-how-can-i-get-b-times-c--d">in microsoft how can i get b times c = d</a></div>
         <div class="statistic">
             <span class="label">Answers: <span class="highlight">1</span></span>
             <span class="label">Views: <span class="highlight">23</span></span>
@@ -738,7 +693,37 @@ $(function() {
     </div>
     
     <div class="question_item">
-        <div><a class="qtitle" href="/question/q19192310813-Income-tax-in-euro-countries">income tax in euro countries</a></div>
+        <div><a class="qtitle" href="/question/q19192373641-How-can-i-get-my-twain-file-back">How can I get my Twain file back?</a></div>
+        <div class="statistic">
+            <span class="label">Answers: <span class="highlight">1</span></span>
+            <span class="label">Views: <span class="highlight">16</span></span>
+            <span class="label">Rating: <span class="highlight">0</span></span>
+        </div>
+        <div class="spacer"></div>
+    </div>
+    
+    <div class="question_item">
+        <div><a class="qtitle" href="/question/q19192373640-How-do-i-set-sell-price">how do i set sell price?</a></div>
+        <div class="statistic">
+            <span class="label">Answers: <span class="highlight">1</span></span>
+            <span class="label">Views: <span class="highlight">15</span></span>
+            <span class="label">Rating: <span class="highlight">0</span></span>
+        </div>
+        <div class="spacer"></div>
+    </div>
+    
+    <div class="question_item">
+        <div><a class="qtitle" href="/question/q19192373637-Shot-and-killed-for-egging-a-guys-car">SHOT AND KILLED FOR EGGING A GUY'S CAR!</a></div>
+        <div class="statistic">
+            <span class="label">Answers: <span class="highlight">3</span></span>
+            <span class="label">Views: <span class="highlight">51</span></span>
+            <span class="label">Rating: <span class="highlight">3</span></span>
+        </div>
+        <div class="spacer"></div>
+    </div>
+    
+    <div class="question_item">
+        <div><a class="qtitle" href="/question/q19192373635-What-web-site-i-go-to">what web site. i go to</a></div>
         <div class="statistic">
             <span class="label">Answers: <span class="highlight">1</span></span>
             <span class="label">Views: <span class="highlight">24</span></span>
@@ -748,10 +733,30 @@ $(function() {
     </div>
     
     <div class="question_item">
-        <div><a class="qtitle" href="/question/q19192310811-Brasfute-2012-jogar">brasfute 2012 jogar</a></div>
+        <div><a class="qtitle" href="/question/q19192373634-Geluidsstuurprogramma-6017055-is-niet-te-downloaden-wat-nu-">geluidsstuurprogramma 6.0.1.7055 is niet te downloaden wat nu ?</a></div>
         <div class="statistic">
             <span class="label">Answers: <span class="highlight">1</span></span>
-            <span class="label">Views: <span class="highlight">15</span></span>
+            <span class="label">Views: <span class="highlight">24</span></span>
+            <span class="label">Rating: <span class="highlight">0</span></span>
+        </div>
+        <div class="spacer"></div>
+    </div>
+    
+    <div class="question_item">
+        <div><a class="qtitle" href="/question/q19192373632-Windows-xp-replace-with-windows-8-or-81">Windows XP. Replace with Windows 8 or 8.1?</a></div>
+        <div class="statistic">
+            <span class="label">Answers: <span class="highlight">1</span></span>
+            <span class="label">Views: <span class="highlight">27</span></span>
+            <span class="label">Rating: <span class="highlight">0</span></span>
+        </div>
+        <div class="spacer"></div>
+    </div>
+    
+    <div class="question_item">
+        <div><a class="qtitle" href="/question/q19192373631-The-colour-is-way-to-bright-on-my-optima-ep-749-dlp-projector-i-have-reset-to-factory-settings-and-still-too-bright-any-suggestions">The colour is way to bright on my Optima EP 749 DLP projector.  I have reset to factory settings and still too bright.  Any suggestions?</a></div>
+        <div class="statistic">
+            <span class="label">Answers: <span class="highlight">1</span></span>
+            <span class="label">Views: <span class="highlight">30</span></span>
             <span class="label">Rating: <span class="highlight">0</span></span>
         </div>
         <div class="spacer"></div>
