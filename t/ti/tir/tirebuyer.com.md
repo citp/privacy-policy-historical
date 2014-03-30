@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tirebuyer.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211234556id_/http%3A//www.tirebuyer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tirebuyer.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330140823id_/http%3A//www.tirebuyer.com/privacy-policy) for the most accurate reproduction.*
 
-# TireBuyer Privacy Policy | TireBuyer.com
+# Privacy Policy | TireBuyer.com
 
 #### Notification
 
@@ -28,7 +28,7 @@ Third-party advertisers. Ads appearing on the Site may be delivered to users by 
 
 #### Use of information
 
- Generally. We use your personal information to fulfill orders and to facilitate the Products you purchase or request from us. We use your personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site to: resolve disputes; troubleshoot problems; collect fees owed; measure consumer interest in our products and services; inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud, and other criminal activity; enforce this Privacy Policy; and as otherwise described to you at the time of collection. We may compare and review your personal information for errors, omissions, and for accuracy.
+Generally. We use your personal information to fulfill orders and to facilitate the Products you purchase or request from us. We use your personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site to: resolve disputes; troubleshoot problems; collect fees owed; measure consumer interest in our products and services; inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud, and other criminal activity; enforce this Privacy Policy; and as otherwise described to you at the time of collection. We may compare and review your personal information for errors, omissions, and for accuracy.
 
 Special offers and updates. We may occasionally send you information on special deals or promotions. Out of respect for your privacy, you have the option not to receive these types of communications. Please see the "Choice and opt-out" section of this Privacy Policy.
 
@@ -74,8 +74,16 @@ If your personally identifiable information changes, or if you no longer desire 
 
 #### Privacy questions 
 
-If youhave questions or concerns about our policies concerning privacy, data collection, data processing, or data transmission, please email TireBuyer Customer Service from the Contact us page. We will respond to your inquiry within 30 days.
+If you have questions or concerns about our policies concerning privacy, data collection, data processing, or data transmission, please email TireBuyer Customer Service from the Contact us page. We will respond to your inquiry within 30 days.
 
 TireBuyer.com  
 601 108th Avenue NE, Suite 420  
 Bellevue, WA 98004
+
+#### TIREBUYER CUSTOMER REVIEWS
+
+**Great**
+
+It took me forever to find tires. I looked at all of the major competitors and they all seemed to be out of stock especially close to the winter season. I finally looked at TireBuyer and sure enough they had my tire in stock and they were delivered in a very timely manner. **I am very satisfied with my purchase and plan on using TireBuyer for my future purchases from here on out. Thanks TireBuyer.**
+
+Reviewed by: Shubs from Ohio
