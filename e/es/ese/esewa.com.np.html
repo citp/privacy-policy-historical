@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the esewa.com.np privacy policy that was archived on 2013-10-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131030092417id_/https%3A//esewa.com.np/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the esewa.com.np privacy policy that was archived on 2014-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140330223505id_/https%3A//esewa.com.np/static/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <meta name="description" content="eSewa is the online payment gateway of Nepal, make an online payment, pay utility bills, receive money or set up a merchant account.">
@@ -7,7 +7,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="shortcut icon" type="image/png" href="/images/favicon.png">
 <script type="text/javascript" src="js/reload.captcha.js"></script>
-<script type="text/javascript" src="js/date.picker.js"></script>
 <link rel="stylesheet" href="/styles/innerstyle.css" type="text/css">
 
 
@@ -25,52 +24,21 @@
 
 
 <script type="text/javascript">
-	$(window).load(function() {
-		$('#slider').nivoSlider();
-	});
+	// 	jQuery(document).ready(function($){
+
+	// 		var body = $( '#slider' );
+	// 		function nivoSlider(body){};
+	// 	});
 
 	function getYear() {
 		var date = new Date();
 		return date.getFullYear();
 	}
 </script>
-<script type="text/javascript">
-	// Set up Sliders
-
-	// **************
-
-	$(function() {
-
-		$('#slider1').anythingSlider({
-
-			startStopped : false, // If autoPlay is on, this can force it to start stopped
-
-			width : 440, // Override the default CSS width
-
-			theme : 'default',
-
-			autoPlayLocked : true, // If true, user changing slides will not stop the slideshow
-
-			resumeDelay : 10000, // Resume slideshow after user interaction, only if autoplayLocked is true (in milliseconds).
-
-			onSlideComplete : function(slider) {
-
-			},
-
-			navigationFormatter : function(index, panel) {
-
-				return true; // This would have each tab with the text 'Panel #X' where X = index
-
-			}
-
-		});
-
-	});
-</script>
 
 <title>eSewa</title>
 </head>
-<body onload="fixDate();">
+<body>
 	
 		
 
@@ -87,7 +55,8 @@
 <div class="header_top">
 	<div class="header_lt">
 		<p>
-			<a href="/"><img src="images/logo.gif" alt="eSewa Nepal" title="eSewa Nepal"> </a>
+			<a href="/"><img src="/images/logo.gif" alt="eSewa Nepal" title="eSewa Nepal"> </a>				
+				
 		</p>
 	</div>
 	<div class="header_rt">
@@ -98,13 +67,13 @@
 		</div>
 		<div class="menu">
 			<ul>
-				<li><a href="/westernunion">Western
+				<li><a href="/static/westernunion">Western
 						Union</a></li>
-				<li><a href="/syntax">SMS Syntax</a></li>
-				<li><a href="/aboutesewa">About
+				<li><a href="/static/smssyntax">SMS Syntax</a></li>
+				<li><a href="/static/aboutesewa">About
 						eSewa</a></li>
-				<li><a href="/faq">FAQs</a></li>
-				<li><a href="/mobileapps">Mobile
+				<li><a href="/static/faq">FAQs</a></li>
+				<li><a href="/static/mobileapps">Mobile
 						Apps</a></li>
 			</ul>
 		</div>
@@ -118,33 +87,32 @@
 
 <div class="box">
 
-	<div class="lt">
-			<img style="margin:22px 0 0 0" src="images/esewa_banner.png">
-		</div>
-	
-	<div class="login">
-		<form id="command" name="f" action="/j_spring_security_check" method="POST" autocomplete="on">
-			<p class="title">
-				LOGIN <span><a href="/mobileactivation" style="color: #fff; padding: 5px 0 0; text-decoration: none;">Mobile
-						Activation</a> | <a href="/forgotpassword" style="color: #fff; padding: 5px 0 0; text-decoration: none;">Forgot
-						Password?</a> </span>
-			</p>
-			<p class="in">
-				<label> eSewa ID
-				</label><input type="text" name="j_username" required="required" autocomplete="on" autofocus="autofocus">
-			</p>
-			<p class="in">
-				<label>Password </label> <input type="password" name="j_password" fh:formhistory="off" required="required" autocomplete="on">
-			</p>
-			<p class="btn">
-				<button type="submit" class="myButton">LOGIN</button>
-			</p>
-			<div style="clear: both; display: inline-block; margin-top: 5px;"></div>
-			<p class="msg">
-				<span style="color: #fc0000;"> </span>
-			</p>
-		</form>
+	<div class="lt"><img style="margin: 22px 0 0 0" src="/images/RBB_eSewa.png">
 	</div>
+	
+		<div class="login">
+			<form id="command" name="f" action="/j_spring_security_check" method="POST" autocomplete="on">
+				<p class="title">
+					LOGIN <span><a href="/mobileactivation" style="color: #fff; padding: 5px 0 0; text-decoration: none;">Mobile
+							Activation</a> | <a href="/forgotpassword" style="color: #fff; padding: 5px 0 0; text-decoration: none;">Forgot
+							Password?</a> </span>
+				</p>
+				<p class="in">
+					<label> eSewa ID
+					</label><input type="text" name="j_username" required="required" autocomplete="on" autofocus="autofocus">
+				</p>
+				<p class="in">
+					<label>Password </label> <input type="password" name="j_password" fh:formhistory="off" required="required" autocomplete="off">
+				</p>
+				<p class="btn">
+					<button type="submit" class="myButton">LOGIN</button>
+				</p>
+				<div style="clear: both; display: inline-block; margin-top: 5px;"></div>
+				<p class="msg">
+					<span style="color: #fc0000;"> </span>
+				</p>
+			</form>
+		</div>
 	
 </div>
 
@@ -268,23 +236,23 @@
 	<div class="ft_lt">
 		<div class="nav">
 			<p>
-				<a href="/gettingstarted">Getting
-					Started</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/howsecure">Security</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-				<a href="/contact">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-				<a href="/termscondition">Terms of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-				<a href="/privacypolicy">Privacy Policy</a>
+				<a href="/static/gettingStarted">Getting
+					Started</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/static/howsecure">Security</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+				<a href="/static/contact">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+				<a href="/static/termscondition">Terms of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+				<a href="/static/privacypolicy">Privacy Policy</a>&nbsp;&nbsp;
 			</p>
 			<p>eSewa Nepal 2009-2013</p>
 		</div>
 		<div class="soc">
 			<p>
-				<a href="http://www.facebook.com/esewa" target="_blank"><img src="images/fb.gif" alt="Facebook" title="Facebook"></a><a href="https://twitter.com/esewanepal" target="_blank"><img src="images/tw.gif" alt="Twitter" title="Twitter"></a>
+				<a href="http://www.facebook.com/esewa" target="_blank"><img src="/images/fb.gif" alt="Facebook" title="Facebook"></a><a href="https://twitter.com/esewanepal" target="_blank"><img src="/images/tw.gif" alt="Twitter" title="Twitter"></a>
 			</p>
 		</div>
 	</div>
 	<div class="footer_rt">
 		<p>
-			<a href="http://www.fonepay.com" target="_blank"><img title="Fonepay Pvt Ltd" alt="Fonepay Pvt Ltd" src="images/fonepay.png"></a>
+			<a href="http://www.fonepay.com" target="_blank"><img title="Fonepay Pvt Ltd" alt="Fonepay Pvt Ltd" src="/images/fonepay.png"></a>
 		</p>
 	</div>
 </div>
