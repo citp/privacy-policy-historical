@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the paymentwall.com privacy policy that was archived on 2013-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131113075239id_/http%3A//www.paymentwall.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the paymentwall.com privacy policy that was archived on 2014-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140330192830id_/http%3A//www.paymentwall.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="UTF-8">
@@ -15,14 +15,39 @@
 <title>Paymentwall</title>
 <link rel="shortcut icon" href="http://www.paymentwall.com/favicon.ico">
 <link rel="icon" type="image/ico" href="http://www.paymentwall.com/favicon.ico">
-<link rel="stylesheet" type="text/css" href="http://www.paymentwall.com/css/css.css?198">
+<link rel="stylesheet" type="text/css" href="http://www.paymentwall.com/css/css.css?212">
 <link rel="stylesheet" type="text/css" href="http://www.paymentwall.com/oswald_font/stylesheet.css">
 
-<script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script src="http://www.paymentwall.com/js/prototype.js" type="text/javascript"></script>
+<script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.paymentwall.com/js/prototype.js" type="text/javascript"></script>
 <script src="http://www.paymentwall.com/js/effects.js" type="text/javascript"></script>
 <script type="text/javascript">
 	var boomapiUrl = 'https://api.paymentwall.com/';
 	var baseUrl = 'http://www.paymentwall.com/';
+
+		var _gaq = _gaq || [];
+	var recentSignupType = 'merchant';
+
+	
+	function trackSignupFormOpenCallback(type) {}
+
+	function trackSignupFormOpen(type) {
+		recentSignupType = type;
+		_gaq.push(['_trackPageview', '/signup/' + type + '/open']);
+		trackSignupFormOpenCallback(type);
+	}
+
+	function trackSignupFormClose() {
+		_gaq.push(['_trackPageview', '/signup/' + recentSignupType + '/close']);
+	}
+
+	function showSignupError(type) {
+		_gaq.push(['_trackPageview', '/signup/' + type + '/error']);
+	}
+
+	function trackSignupSubmit(type) {
+		_gaq.push(['_trackPageview', '/signup/' + type + '/submit']);
+	}
+	
 </script>
 </head>
 <body>
@@ -32,7 +57,7 @@
 	<div class="popup_title">
 		<strong>Log in</strong>
 		for business accounts
-		<a href="javascript:void(0);" onclick="$('login').hide();$('fade').hide();window.history.replaceState('Object', 'Title', clearPath);" class="close">Close</a>
+		<a href="javascript:void(0);" onclick="$('login').hide();$('fade').hide();window.history.replaceState('Object', 'Title', clearPath);trackSignupFormClose();" class="close">Close</a>
 		<div class="coin"></div>
 	</div>
 	<div class="login_form" id="login_form">
@@ -110,8 +135,8 @@
 		<div class="tabs">
 		<div class="center">
 		<div class="center_in">
-			<a href="javascript:void(0);" onclick="$('forDevsOnly').show();this.className='sel'; $('advertiser_signup').className='';$('signupFormAdvertisers').hide();$('signupFormMerchants').show();" class="sel" id="developer_signup">Merchant</a>
-			<a href="javascript:void(0);" onclick="$('forDevsOnly').hide();this.className='sel'; $('developer_signup').className='';$('signupFormMerchants').hide();$('signupFormAdvertisers').show();" id="advertiser_signup">Advertiser</a>
+			<a href="javascript:void(0);" onclick="$('forDevsOnly').show();this.className='sel'; $('advertiser_signup').className='';$('signupFormAdvertisers').hide();$('signupFormMerchants').show();trackSignupFormOpen('merchant');" class="sel" id="developer_signup">Merchant</a>
+			<a href="javascript:void(0);" onclick="$('forDevsOnly').hide();this.className='sel'; $('developer_signup').className='';$('signupFormMerchants').hide();$('signupFormAdvertisers').show();trackSignupFormOpen('advertiser');" id="advertiser_signup">Advertiser</a>
 			<b class="clear"></b>
 		</div>
 		</div>
@@ -122,7 +147,7 @@
 <script src="http://www.paymentwall.com/js/placeholder.js?1" type="text/javascript"></script>
 <![endif]-->
 
-<form action="https://api.paymentwall.com/developers/index/signup" method="POST">
+<form action="https://api.paymentwall.com/developers/index/signup" method="POST" onsubmit="trackSignupSubmit('merchant')">
 			<div class="msg error" id="error_msg2" style="display:none;"></div>
 		<input type="hidden" name="external_login" value="1">
 	<div class="section" style="border-top:none;">
@@ -444,7 +469,7 @@ window.onload = function(){
 <script src="http://www.paymentwall.com/js/placeholder.js?1" type="text/javascript"></script>
 <![endif]-->
 
-<form action="https://api.paymentwall.com/advertisers/index/signup" method="POST">
+<form action="https://api.paymentwall.com/advertisers/index/signup" method="POST" onsubmit="trackSignupSubmit('advertiser')">
 			<div class="msg error" id="error_msg2" style="display:none;"></div>
 		<input type="hidden" name="external_login" value="1">
 	<div class="section" style="border-top:none;">
@@ -726,52 +751,52 @@ window.onload = function(){
 			To pay with Paymentwall, <a href="https://api.paymentwall.com/users/">sign up as a customer</a>.
 		</div>
 	</div>
-</div><div class="header">
-	<ul>
-		<li>
-			<a class="logo" href="http://www.paymentwall.com/en/">
-				Paymentwall Inc.
-			</a>
-		</li>
-		<li>
-			<div class="switch_holder">
-	    		<div>Business</div>
-	        	<a id="addToolTip" class="switch" href="https://api.paymentwall.com/users" title="I'm interested in paying with Paymentwall">Personal</a>
-	        	<b class="clear"></b>
-        	</div>
-		</li>
-									<li>
-																		<a href="http://www.paymentwall.com/en/products">Products</a>
-															</li>
+</div>	<div class="header">
+		<ul>
+			<li>
+				<a class="logo" href="http://www.paymentwall.com/en/">
+					Paymentwall Inc.
+				</a>
+			</li>
+			<li>
+				<div class="switch_holder">
+					<div>Business</div>
+					<a id="addToolTip" class="switch" href="https://api.paymentwall.com/users" title="I'm interested in paying with Paymentwall">Personal</a>
+					<b class="clear"></b>
+				</div>
+			</li>
 												<li>
-																		<a href="http://www.paymentwall.com/en/services">Services</a>
-															</li>
-												<li>
-																		<a href="http://www.paymentwall.com/en/documentation">Documentation</a>
-															</li>
-												<li>
-																		<a href="http://www.paymentwall.com/en/faq">FAQ</a>
-															</li>
-												<li>
-																		<a href="http://www.paymentwall.com/en/about-us">company</a>
-															</li>
-												<li id="additional1">
-																		<a href="http://www.paymentwall.com/en/jobs">WE'RE HIRING</a>
-															</li>
-						</ul>
-	<a id="lang_but" href="javascript:void(0);" onclick="tog_lang();" class="flag en"><b>english</b></a>
-	<div id="user_controls">
-												<a href="javascript:void(0);" onclick="$('signup').show();$('fade').show()" class="button">Sign up</a>
-						<a href="javascript:void(0);" onclick="$('login').show();$('fade').show()" class="button grey">Log in</a>
-			</div>
-	<b class="clear"></b>
-</div>
+																					<a href="http://www.paymentwall.com/en/products">Products</a>
+																		</li>
+																<li>
+																					<a href="http://www.paymentwall.com/en/services">Services</a>
+																		</li>
+																<li>
+																					<a href="http://www.paymentwall.com/en/documentation">Documentation</a>
+																		</li>
+																<li>
+																					<a href="http://www.paymentwall.com/en/faq">FAQ</a>
+																		</li>
+																<li>
+																					<a href="http://www.paymentwall.com/en/about-us">company</a>
+																		</li>
+																<li id="additional1">
+																					<a href="http://www.paymentwall.com/en/jobs">WE'RE HIRING</a>
+																		</li>
+									</ul>
+		<a id="lang_but" href="javascript:void(0);" onclick="tog_lang();" class="flag en"><b>english</b></a>
+		<div id="user_controls">
+																<a href="javascript:void(0);" onclick="showSignupForm('merchant')" class="button">Sign up</a>
+								<a href="javascript:void(0);" onclick="$('login').show();$('fade').show()" class="button grey">Log in</a>
+					</div>
+		<b class="clear"></b>
+	</div>
 	
-<div id="lang_panel" class="lang" style="display: none;">
-	       <a class="en sel" onclick="hide_lang();" href="http://www.paymentwall.com/en/privacypolicy"><b></b>english</a>
-	       <a class="tr " onclick="hide_lang();" href="http://www.paymentwall.com/tr/privacypolicy"><b></b>Turkish</a>
-	       <b class="clear"></b>
-</div>
+	<div id="lang_panel" class="lang" style="display: none;">
+					<a class="en sel" onclick="hide_lang();" href="http://www.paymentwall.com/en/privacypolicy"><b></b>english</a>
+							<a class="tr " onclick="hide_lang();" href="http://www.paymentwall.com/tr/privacypolicy"><b></b>Turkish</a>
+						<b class="clear"></b>
+	</div>
 	
 <div class="container">
 	<div class="submenu">
@@ -785,13 +810,13 @@ window.onload = function(){
 		<b class="clear"></b>
 	</div>
 <div class="content ">
-	<div class="badge ">
-		<!-- <img usemap="#Map" alt="The Berlin Music Panel" title="The Berlin Music Panel" src="https://api.paymentwall.com/content/design/files/promo/2013/musicpanel/badge_mb.png">
+			<div class="badge ">
+			<!-- <img usemap="#Map" alt="The Berlin Music Panel" title="The Berlin Music Panel" src="https://api.paymentwall.com/content/design/files/promo/2013/musicpanel/badge_mb.png">
 <map name="Map">
 <area target="_blank" href="http://paymentwall.com/events/musicpanel/" coords="7,-1,280,-1,280,200" shape="poly">
 </map> -->
-	</div>
-
+		</div>
+	
 	<h1>Privacy Policy</h1>
 <p>Welcome to Paymentwall, Inc. (www.paymentwall.com). This policy covers how Paymentwall protects and uses the collected information about the user. Paymentwall protects the privacy of all users who visit or use our Paymentwall Integrated Platform (collectively or individually, "you" or "Users").</p>
 <p>The purpose of the Privacy Policy informs you about the information we collect, share and protect when you visit or use our Paymentwall Integrated Platform. By using the Paymentwall Integrated Platform you are agreeing to this Privacy Policy. This Privacy Policy applies to all personally identifiable information collected on the Web site where this Privacy Policy is posted.</p>
@@ -826,7 +851,7 @@ window.onload = function(){
 </div>
 <b class="clear"></b>
 </div>
-	<div class="footer">
+			<div class="footer">
 	<div class="in">
 		<div class="follow">
 			<div class="center">
@@ -901,11 +926,11 @@ window.onload = function(){
 		<b class="clear"></b>
 		
 		<div class="copyright">
-			© 2010 – 2013 Paymentwall. All rights reserved.  <a href="http://www.paymentwall.com/privacypolicy">Privacy Policy</a> | <a href="http://www.paymentwall.com/terms">Terms of use</a>
+			© 2010 – 2014 Paymentwall. All rights reserved.  <a href="http://www.paymentwall.com/privacypolicy">Privacy Policy</a> | <a href="http://www.paymentwall.com/terms">Terms of use</a>
 		</div>
 		
 	</div>
-</div>	
+</div>		
 <script type="text/javascript">
 var signupPage = 0;
 
@@ -947,7 +972,7 @@ var signupPage = 0;
 		else {
 			var h = '';
 			if (!signupPage) {
-				h += '<a href="javascript:void(0);" onClick="$(\'signup\').show();$(\'fade\').show()" class="button">Sign up</a>';
+				h += '<a href="javascript:void(0);" onClick="showSignupForm(\'merchant\')" class="button">Sign up</a>';
 			}
 			h += '<a href="javascript:void(0);" onClick="$(\'login\').show();$(\'fade\').show()"  class="button grey">Log in</a>';
 			$('user_controls').update(h);
@@ -993,18 +1018,23 @@ var signupPage = 0;
 		}
 	}
 
+	function showSignupForm(type) {
+		$('signup').show();
+		$('fade').show();
+		trackSignupFormOpen(type);		
+	}
+
 </script>
 <script src="http://www.paymentwall.com/js/tooltip.js?1" type="text/javascript"></script>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
+  _gaq.push(['_setAccount', 'UA-16073820-1']);
+    _gaq.push(['_trackPageview']);
 
-try {
-var pageTracker = _gat._getTracker("UA-16073820-1");
-pageTracker._trackPageview();
-} catch(err) {}
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 
 </script>
 <iframe src="https://api.paymentwall.com/developers/paymentwall/getinfo" width="1" height="1" frameborder="0"></iframe>
@@ -1035,4 +1065,33 @@ pageTracker._trackPageview();
 </script>
 <noscript><div><img src="//mc.yandex.ru/watch/21914596" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
+
+<div id="retargeting-tracking-holder"></div>
+<script type="text/javascript">
+var __adroll_loaded = false;
+function initializeRetargeting() {
+	if (!__adroll_loaded) {
+	
+		document.getElementById('retargeting-tracking-holder').innerHTML = '<img src="https://secure.adnxs.com/seg?add=1344957&t=2" width="1" height="1" />';
+		
+		adroll_adv_id = "MHFHCYGBZJA57ONJ3HZUMT";
+		adroll_pix_id = "SUEGKMKHENDRTDY7CC2NJM";
+
+		__adroll_loaded=true;
+		var scr = document.createElement("script");
+		var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+		scr.setAttribute('async', 'true');
+		scr.type = "text/javascript";
+		scr.src = host + "/j/roundtrip.js";
+		((document.getElementsByTagName('head') || [null])[0] ||
+		document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+	}
+}
+if (window.location.pathname.match(/^\/en\/.+/gi)) {
+	initializeRetargeting();
+}
+function trackSignupFormOpenCallback(type) {
+	initializeRetargeting();
+}
+</script>
 </body></html>
