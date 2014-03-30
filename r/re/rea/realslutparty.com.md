@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realslutparty.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215104124id_/http%3A//static.mofos.com/policy_files/pp.php%3Fsite%3Drsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realslutparty.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330132825id_/http%3A//static.mofos.com/policy_files/pp.php%3Fsite%3Drsp) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
