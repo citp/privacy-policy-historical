@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the docsuggest.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025082441id_/https%3A//www.docsuggest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docsuggest.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330192324id_/https%3A//www.docsuggest.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Online Appointments with Doctors and Hospitals at Hyderabad, Bangalore, Delhi NCR, Mumbai, Book for Free
+# Privacy Policy - Online Appointments with Doctors and Hospitals at Hyderabad
 
 DocSuggest is committed to respecting the privacy rights of our customers, visitors, and other users of our services provided via our website and/or call centre. We are committed to fair information practices and the protection of privacy. This Privacy Policy is only applicable to our site, and not to any other websites that you may be able to access from our site, including our partners' sites, each of which may have data collection, storage, and use practices and policies that may differ significantly from this Privacy Policy. Your use of the site is governed by this Privacy Policy and the [Terms of Use](https://www.docsuggest.com/terms/ "Terms of Use at DocSuggest").
 
