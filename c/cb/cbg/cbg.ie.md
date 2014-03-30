@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbg.ie privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222181310id_/http%3A//www.cbg.ie/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbg.ie privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330180746id_/http%3A//www.cbg.ie/home/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Car Buyer Guide
 
