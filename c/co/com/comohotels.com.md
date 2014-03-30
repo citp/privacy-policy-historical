@@ -1,68 +1,117 @@
-> *The following text is extracted and transformed from the comohotels.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815185122id_/http%3A//www.comohotels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comohotels.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330222338id_/http%3A//www.comohotels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | COMO Hotels and Resorts
 
-Please read the following to learn about our Privacy Policy.  This Privacy Policy governs your use of the website of the COMO Group at [www.comohotels.com](http://www.comohotels.com/) and any individual COMO Hotel-related website (hereinafter collectively referred to as this "Website").  The COMO Group comprises of Club 21, COMO Hotels and Resorts, COMO Shambhala and the COMO Foundation (hereinafter referred to as the "COMO Group").
+We respect your right to privacy. This Privacy Policy sets out details of the information that we may collect from you and how we may use that information. This Privacy Policy should be read alongside, and in addition to, our website terms of use (accessible online at <http://www.comohotels.com/terms-use-website>). Please read this Privacy Policy carefully. By using this website or any individual COMO Hotel-related website (collectively, the " **Website** ") or by using specific services that we offer, such as when booking a room at one of our hotels (the " **Services** "), you agree to its terms (including as amended from time to time). If, for any reason, you do not agree to the terms of this Privacy Policy, please stop using the Website or Services immediately.
 
-By visiting this Website, and/or using the services offered on or through this Website, you shall be deemed to have accepted to be legally bound by the terms and conditions set out herein (hereinafter referred to as our "Privacy Policy").
+**Who are we?**  
+In this Privacy Policy, references to "we" or "us" are to COMO Hotels and Resorts which are:
 
-The COMO Group reserves the right to modify, add, vary or amend all or part of this Privacy Policy from time to time, without prior notice to you. Your continued use of this Website and any of the services offered by this Website shall be deemed an agreement by you to such Privacy Policy as modified.
+  * The Halkin, by COMO
+  * Metropolitan, by COMO, London
+  * Metropolitan, by COMO, Bangkok
+  * Metropolitan, by COMO, Miami Beach
+  * Uma, by COMO, Ubud
+  * Uma, by COMO, Paro
+  * Uma, by COMO, Punakha
+  * Cocoa Island, by COMO
+  * Parrot Cay, by COMO
+  * Maalifushi, by COMO
+  * Point Yamu, by COMO
+  * Como Shambala Estate
 
-**1\. What this Privacy Policy Covers**  
-1.1. This Privacy Policy covers how the COMO Group uses the personal information (the "Personal Information") it collects.  However, please note that this Privacy Policy only applies to this Website and does not apply to the websites owned and/or operated by third parties.  
-1.2. The COMO Group is not responsible for any actions or policies of third party websites which are hyperlinked to and from this Website.  You should check the applicable privacy policy of such party before providing any information, including any Personal Information to such websites.
 
-**2\. Collection of Personal Information**  
-2.1. The COMO Group collects Personal Information such as your name, email address, birth date, gender, address, contact information, occupation, credit card and other payment information, and personal interests and preferences when you:  
-2.1.1. Apply to be a registered user of this Website;  
-2.1.2. Visit the web pages on this Website that can be accessed without the need for registration;  
-2.1.3. Make an online booking through the website of our third party service provider, GuesConnect (by Synxis) or such other subsequent service provider as we may use from time to time;  
-2.1.4. Enter promotions or contests that are available to you without having to be a registered user of this Website;  
-2.1.5. Use any online services available on this Website (the "Online Services");  
-2.1.6. Submit a comment, question or feedback to us using a "Contact Us" or similar feature on this Website, send us an email, or in any other way, submit Personal Information to us via this Website.  
-2.2. The COMO Group also automatically receives and records information from your browser on our server logs including but not limited to your Internet protocol address, cookie information and the page you requested.  
-2.3. The COMO Group uses the Personal Information:  
-2.3.1 To facilitate your access to this Website or your use of the Online Services;  
-2.3.2 To customize and personalise the content of the web pages that you see;  
-2.3.3 To fulfill your requests for the Online Services;  
-2.3.4 To evaluate your preferences and facilitate future works on this Website.
 
-**3\. Information Collection and Use**  
-3.1. Your Personal Information will not be sold, transferred or otherwise conveyed to unaffiliated third parties without your approval at the time of collection. At such point of collection, you shall have the opportunity to indicate whether you would like to "opt out" of receiving promotional and/or marketing information about other products, services and offerings from the COMO Group and/or any third parties.  Your request for us to cease sharing your Personal Information with other entities for marketing purposes will only take effect from the date we receive your request.  
-3.2. However, the COMO Group reserves the right to contact you regarding matters such as details of your booking with any of the COMO Hotels, payment status, feedback on your accommodation with any of the COMO Hotels and other matters relevant to the Online Services and/or the Personal Information collected.  
-3.3. The COMO Group reserves the right to do any of the following with the information collected from you;  
-3.3.1 Perform statistical analysis of user behavior and characteristics in order to measure interest in and use of the various areas of this Website and to inform advertisers of such information as well as the number of users that have been exposed to or clicked on their advertising banners. The COMO Group may sell or provide aggregated data from such analysis to third parties;  
-3.3.2 Use your Personal Information to help us develop and improve this Website, tailor this Website to your interests, and maintain our internal record keeping. We may match information collected from you through different means or at different times, and use such information along with information obtained from other sources, including third parties; and  
-3.3.3 Send you notices (for example, in the form of e-mails, mailings, and the like), and otherwise correspond with you about products, services, companies, promotions, contests and events, sponsored by the COMO Group and others, which we think might interest you.  
-3.4. The COMO Group may offer electronic newsletters and e-mails as a service to our customers and users of this Website.  You may receive a newsletter or promotional e-mail from the COMO Group if you agree during registration, or during your other activities on or through our Website to receive these items.  
-3.5. The COMO Group will send Personal Information about you to other companies or people when:  
-3.5.1.We have your consent to share the information;  
-3.5.2. We need to share your information in order to provide the Online Services or other services that you have requested;  
-3.5.3.We are compelled by any law, court order, legal process or regulatory authority to disclose your Personal Information to third parties.
+We are part of the COMO Group, which includes Club 21, COMO Shambala and the COMO Foundation.
 
-**4\. Cookies**  
-4.1. "Cookies" are small text files a website can use to recognise repeat users, facilitate the user's ongoing access to and use of the website and allow a website to track usage behavior and compile aggregate data that will allow content improvements and targeted advertising. Cookies are not programmes that come onto a user's system and damage files. Generally, cookies work by assigning a unique number to the user that has no meaning outside the assigning site.  
-4.2. The COMO Group may set and access the COMO Group cookies on your computer.  
-4.3. The COMO Group allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer.  The use of cookies by such companies is subject to their own privacy policies, not this one.  Advertisers or other companies do not have access to the COMO Group’s cookies.  
-4.4. If you do not want any information about yourself to be collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature.  However, please note that if you do this, certain features (e.g., customized delivery of information) available on this Website may not be available to you.
+We will at all times only collect and process your personal information in accordance with applicable data protection laws, including the UK Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003.
 
-**5\. Business Transfer**  
-5.1. In the event that the COMO Group or its affiliates, or substantially all of any of their assets, are acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, Personal Information may be one of the transferred assets.  You hereby agree and consent to such transfer.
+**What information do we collect and how do we collect it?**  
+When you use the Website, register with us or sign up to receive our newsletters, or contact us by post, telephone, fax, e-mail, social media or SMS to make a booking or make enquiries, we may collect, store and use certain personal information that you disclose to us. The information that we may collect from you includes your name, contact details, date of birth, gender, occupation and your credit or debit card details. We may also collect details of your computer's internet protocol address, which is automatically collected by our web server. Finally, we may receive information about you from third parties (such as credit reference agencies) who are legally entitled to disclose that information.
 
-**6\. Third Party Advertisement Servers**  
-6.1. We may use third-party advertising companies to serve advertisements when you visit this Website.  These companies may use information (generally not including your name, address email address or telephone number) about your visits to this Website in order to provide advertisements about goods and services of interest to you. These companies may employ cookies to measure advertising effectiveness. Any information that these third parties collect via cookies is generally not personally identifiable (unless, for example, you provide Personal Information to them through an ad or e-mail message). We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information.
+**How do we use your information?**  
+By using the Website or Services, you agree that your information may be used by us and by carefully selected third parties chosen by us for any of the following purposes:
 
-**7\. Wireless Addresses**  
-7.1. If the email address you provide to us is a wireless email address, you agree to receive messages at such address from the COMO Group (unless and until you have elected not to receive such messages by electing to opt out of receiving such messages). You understand that your wireless carrier's standard rates apply to these messages. You hereby represent and warrant that you are the owner or authorised user of the wireless device on which messages will be received, and that you are authorised to approve the applicable charges.
+(a) to provide you with our Services and any associated products;  
+(b) to provide you with a personalised browsing experience when using the Website;  
+(c) to facilitate your access to the Website or your use of the Services;  
+(d) for technical administration of the Website;  
+(e) to fulfil any contractual agreements between you and us or any requests for the Services;  
+(f) to respond to any comments, questions or feedback that you submit to us via the Website or contact us by other available means or to contact you regarding matters such as details of your booking or payment status;  
+(g) when we have your consent, to contact you about any promotions or contests or send you details (including by post, phone, fax, e-mail or SMS) of other products and services which we think may interest you;  
+(h) to engage in research and analysis in order to maintain and improve the Website and our products and Services, as well as develop new products and services;  
+(i) to manage any account that you hold with us; and  
+(j) to comply with legal and regulatory requirements.
 
-**8\. Governing Law**  
-8.1. This Website is hosted and operated in Singapore pursuant to the laws of Singapore. By providing Personal Information to this Website, you understand and consent to the collection, maintenance, processing and transfer of such information in and out of Singapore.
+We may also perform general analysis of user behaviour and characteristics in order to measure interest in and use of the various areas of the Website and to inform advertisers of such non-personally identifiable information as well as the number of users that have been exposed to or clicked on their advertising banner. We may sell or share anonymised aggregate data from such analysis with third parties.
 
-**9\. Third Party "Linked-To" Web Sites**  
-When you are on this Website you may have the opportunity to visit, or link to, other sites not operated by the COMO Group, including web sites operated by other affiliated companies of the COMO Group, or by unaffiliated third parties. These sites may collect Personal Information about you. The COMO Group does not control sites that are operated by these entities and is not responsible for the information practices of these sites. This Privacy Policy does not address the information practices of those other web sites.
+**Job applicants**  
+We may collect, store and use certain personal information that you disclose to us  when you email us your CV to apply for a job with us. By sending us your CV, you agree that your information may be used by us and by carefully selected third parties chosen by us to process your application.
 
-**10.Changes to this Privacy Policy**  
-10.1. The COMO Group reserves the right to change or update this Privacy Policy, or any other of our policies or practices, at any time, and will notify users of this Website by posting such changed or updated Privacy Policy on this page. Any changes or updates will be effective immediately upon posting to this Website. Under certain circumstances (for example, if we would like to use your Personal Information in a manner different from that stated in our Privacy Policy at the time of collection), we may also elect to notify you of changes or updates to our Privacy Policy by additional means, such as by sending you an e-mail.
+**Transfers of personal data**  
+We (or third parties acting on our behalf) may also store or process information that we collect about you in countries outside the European Economic Area or your jurisdiction, which may have lower standards of data protection. However, we will always store or process your information in accordance with this Privacy Policy, regardless of location. We may also disclose your information to third parties in connection with the sale, transfer or disposal of our business, provided that they continue to use your information substantially in accordance with the terms of this Privacy Policy.
 
-© 2012 COMO Hotels and Resorts  
-All rights reserved
+**Security**  
+We have put in place technical and organisational security measures to prevent the loss or unauthorised access of your personal information. However, whilst we have used our best efforts to ensure the security of your data, please be aware that we cannot guarantee the security of information transmitted over the Internet.
+
+**Third Party Links**  
+When you are on this Website you may have the opportunity to visit, or link to, other sites not operated by the COMO Group, including web sites operated by other affiliated companies of the COMO Group, or by unaffiliated third parties. These sites may collect personal data about you. The COMO Group does not control sites that are operated by these entities and is not responsible for the information practices of these sites. We encourage you to review the privacy policies of third parties and their websites. This Privacy Policy does not address the information practices of those other websites.
+
+**What are your rights?**  
+Depending on applicable law, you may have the right to contact us in order to find out what information we hold about you. You may also have the right to access, cancel or correct any information that we hold about you. If you wish to exercise any of these rights, please contact us using the contact details specified below.
+
+If you wish to unsubscribe from e-mail marketing communications that we send to you, you can most easily do this by clicking on the unsubscribe link at the bottom of any e-mail newsletter we have sent to you. You may also contact us in writing using the contact details below to inform us if you do not wish to receive any marketing materials from us.
+
+**Cookies**  
+The Website uses cookies. Cookies are small text files from a website that are stored on your computer, mobile phone or other device. These text files make using our Website more convenient by, among other things, recognising you when you return, saving your preferences and may help us to customise our Website for you based on your preferences.
+
+We do not use cookies to store your name or similar identifying information unless you have agreed to this by selecting the "Remember Me" option. If you select this option cookies will be placed on your computer, which will allow our Website to recognise you when you return.
+
+If you do not want us to use cookies when you use our Website, you can adjust your internet browser settings not to accept cookies. Your web browser's help function should tell you how to do this. Please note that if you adjust your browser settings not to accept cookies, this may result in you being unable to use some of the facilities on our Website.
+
+For more information about cookies, including further details as to what they are and how to refuse them, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+The following table describes the cookies we use on our Website and the purposes for which we used them:
+
+**Cookie Name**
+
+| 
+
+**Purpose**
+
+| 
+
+**Further information**  
+  
+---|---|---  
+  
+_utma
+
+_utmb
+
+_utmc
+
+_utmz
+
+_utmv
+
+| 
+
+These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
+
+| 
+
+[Click here for an overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html "External link")  
+  
+**How up-to-date is this Privacy Policy?**  
+We may update or amend this Privacy Policy from time to time to comply with law or to meet our changing business requirements without notice to you. Any updates or amendments will be posted on the Website. By continuing to use the Website or our Services, you agree to be bound by the terms of these updates and amendments.
+
+This Privacy Policy was last updated on 22nd Jan, 2014.
+
+**Contact us**  
+If you have any questions or comments about this Privacy Policy, or you wish to access or make changes to your personal information, please contact us at:
+
+Data Privacy Office  
+6B Orange Grove Road  
+Singapore 258332  
+[privacy](mailto:privacy@comohotels.com?subject=Privacy%20Policy%20Enquiry)[@comohotels.com](mailto:Raymond.tan@comohotels.com)
