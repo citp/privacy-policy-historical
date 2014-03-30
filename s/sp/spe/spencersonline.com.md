@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spencersonline.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814103649id_/http%3A//www.spencersonline.com/privacy-policy1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spencersonline.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330215014id_/http%3A//www.spencersonline.com/privacy-policy1) for the most accurate reproduction.*
 
 # Spencer's - Privacy Policy
 
@@ -20,13 +20,23 @@ Information Collection and Use
     * Spencer's uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
     * Spencer's has arranged with PowerReviews, Inc. (d/b/a Buzzillions) ("PowerReviews") to facilitate the collection of customer product reviews on products sold by Spencer's. When you submit a product review to Spencer's, you are also subject to PowerReviews' terms of use and privacy policies (see <http://www.buzzillions.com/public/legal/privacy_policy_en_US.html> ). Accordingly, you should review those policies prior to submitting a review. Also, reviews you submit may be posted on both <http://www.buzzillions.com/> and our site.
     * If you upload or provide data to Spencer's website and contribute with texts, pictures, logos, etc. ("Material"), you may only enter or upload Material to which you own the intellectual property rights or have a license to upload the Material. By uploading the Material, you grant Spencer's a license to use the Material on the website and to make requisite copies of the Material. In the event that the Material would include pictures of you, Spencer's will consider your uploading as your express consent to the use of your picture. In the event that pictures would include pictures of your friends or other third parties you must ensure that such persons have consented to the publishing of the picture.
+    * Mobile Messaging: Max 3 msgs/wk. Msg&Data rates may apply. For help, text Spencers HELP to 79708. Reply STOP to 79708 to cancel. Customer service 1-800-762-0419. Supported carriers, AT&T, Verizon Wireless, T-Mobile, Sprint, Nextel, U.S. Cellular and others.
+    * Because we use your personal information that we collect to conduct our business, our websites do not respond to “Do Not Track” requests, or other similar mechanisms.
+
+
+  * **E-mail**
+    * To opt-out of promotional e-mail, click the opt-out link at the bottom of your e-mail or contact us here:
+
+Spencer's Online, 6826 Black Horse Pike, Egg Harbor Township, NJ 08234  
+800-762-0419; [GuestServices@spencergifts.com](mailto:GuestServices@spencergifts.com)
+
 
 
   * **Children**
     * On the sites specifically designed for children, Spencer's requires children to consult with their parents before furnishing data. However, Spencer's believes that parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that may help provide a child-friendly online environment. These tools may also prevent children from disclosing online their name, address, and other personal information without parental permission. Personal information about or obtained from a child will not be used for commercial or trade purposes without the prior written consent of a parent or legal guardian of the child. Information Sharing and Disclosure. 
 
 
-  * Spencer's and third-party use of "cookies."
+  * **Spencer's and third-party use of "cookies."**
     * Spenceronline.com Cookies: When you use Spenceronline.com we will store cookies on your computer in order to facilitate and customize your use of our site. A cookie is a small data text file, which a Web site stores on your computer's hard drive (if your Web browser permits) that can later be retrieved to identify you to Spencer'ssonline.com. These cookies store randomly assigned user identification numbers and the country where you are located. Our cookies make your use of the site easier, allow you to retrieve an earlier shopping cart, make the site run more smoothly, and help us to maintain a secure site. 
     * Ad Server Cookies: Spencer's may use an outside ad serving company or content server to display banner advertisements and other information on our site and other sites or to serve promotional emails or personalized on-line ads. These companies place a separate cookie on your computer. Except for the company that serves our promotional emails and the company that serves personalized on-line ads, we do not provide third-party ad servers with any of your Personally Identifiable Information. Spencer'ssonline.com and its third party ad servers do collect and use Non-Personally Identifiable Information about you, such as your IP address, browser type, the URLs you visited from, referring site's domain types, operating system, your computer's server location, the pages of our site and products that guests viewed during their visit, where an ad was placed on a specific web site page, the time and date particular ads were served, the area code and zip code associated with your server and whether you responded to a particular ad, and a receipt identifier. 
     * Personalized On-line Ad Serving: We may provide the company that serves our personalized on-line ads with your first name and/or with a product group/category (chosen based on your personal preferences and/or prior purchase history), which are used to serve you the most relevant personalized on-line ad. The unique identifier included within the cookie placed tells the ad serving company to show you a personalized on-line ad on participating web sites within the network. The personally identifying information is not disclosed to the participating web sites.
