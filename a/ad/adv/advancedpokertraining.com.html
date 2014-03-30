@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the advancedpokertraining.com privacy policy that was archived on 2013-08-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130811190606id_/http%3A//www.advancedpokertraining.com/poker/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the advancedpokertraining.com privacy policy that was archived on 2014-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140330185825id_/http%3A//www.advancedpokertraining.com/poker/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="privacy_policy"><head>
         <!-- ALL LINKS MUST BE ABSOLUTE.  This file also used as header.html. -->
@@ -13,20 +13,27 @@
         <meta property="og:site_name" content="Advanced Poker Training">
         <meta property="fb:admins" content="1220319298">
 		<link href="/poker/assets/images/favicon.ico" rel="shortcut icon">
-		<link href="/poker/assets/css/screen.css?1376019606" rel="stylesheet">
-		<link href="/poker/assets/css/screen-.css?1372962198" rel="stylesheet">
-		<link href="/poker/assets/css/screen--.css?1374954811" rel="stylesheet">
-		<link href="/poker/assets/css/tables.css?1372206121" rel="stylesheet">
+		<!--<link href='http://fonts.googleapis.com/css?family=Electrolize' rel='stylesheet' type='text/css'>-->
+		<link href="/poker/assets/css/screen.css?1394683357" rel="stylesheet" media="screen, print">		
+		<link href="/poker/assets/css/screen-.css?1394741375" rel="stylesheet">		
+		<link href="/poker/assets/css/screen--.css?1391711910" rel="stylesheet">
         <link rel="stylesheet" href="/poker/assets/css/invoice_style.css">
+        <link rel="stylesheet" href="/poker/assets/css/jqueryui/1.9.0/themes/smoothness/jquery-ui.css">
+		<link rel="stylesheet" href="/poker/js/table/style-more.css?1394683047">
 		<!--[if IE 8]>
 		<link href="/poker/assets/css/eot_css.css?1374852233" rel="stylesheet">
         <![endif]-->
 		
         <link rel="stylesheet" href="/poker/assets/css/jquery.fancybox.css" type="text/css">
-		<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script src="https://c.compete.com/bootstrap/c5dd87357f3d4965c9ba639f1c668c3e/bootstrap.js" type="text/javascript" async=""></script><script src="/poker/js/jquery.min.js" type="text/javascript"></script>
+		<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all/debug.js"></script><script src="https://c.compete.com/bootstrap/c5dd87357f3d4965c9ba639f1c668c3e/bootstrap.js" type="text/javascript" async=""></script><script src="/poker/js/jquery.min.js" type="text/javascript"></script>
+		<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>-->
+		<script type="text/javascript" src="/poker/js/jquery.localtime-0.9.1.min.js"></script>
+		
 		<script src="/poker/js/jquery.fancybox-1.3.1.js" type="text/javascript"></script>		
-		<script src="/poker/assets/slider/js/jquery-1.9.0.min.js"></script>
-                
+		<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script> INCLUDED FOR INDIVIDUAL PAGES BELOW -->
+
+		<script type="text/javascript" src="/poker/js/swfobject.js"></script>
+			                
         <script type="text/javascript">
 		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -40,10 +47,10 @@
 		}
 		dajax=$.ajax({url:"ajax/ajax.email_login_unique.php?email="+dval}).done(function(data) {
 				if(res!="No res returned"){
-				var res=$.parseJSON(data);
-				email_availability(res.emailTaken);
+					var res=$.parseJSON(data);
+					email_availability(res.emailTaken);
 				}else{
-				return false;	
+					return false;	
 				}
 			});
 		}
@@ -103,28 +110,36 @@ function message(type){
 </script>
 
 
+
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.7.1/modernizr.min.js"></script>
 	</head>
-	<body style="zoom: 1;">
+	<body>
     <div id="fb-root"></div>
 	<script>(function(d, s, id) {
       var js, fjs = d.getElementsByTagName(s)[0];
       if (d.getElementById(id)) return;
       js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+      js.src = "//connect.facebook.net/en_US/all/debug.js";
       fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
 
 		<div id="wrapper">
-			<h1>
+			<div class="headwrapper">
+				<div class="clearboth"></div>
+			<div class="leftside">
+			<h1 id="topbar">
 				<a href="http://www.advancedpokertraining.com/">
-					<img src="/poker/assets/images/logo.png" alt="Advanced Poker Training">
+					<img src="/poker/assets/images/logo6.png" alt="Advanced Poker Training">
 				</a>
 			</h1>
-	
-            <ul id="topnav" style="width:557px;">
-<div class="clearfix">
-<div style="position:relative;">
-			  <div style="margin-right:27px;margin-left:-27px;position:absolute;left:0;">
+		</div>
+		<div class="rightside">
+            	
+            <ul id="topnav" style="min-width:480px;">
+			<div class="clearfix" style="/*max-width:480px;*/">
+			<div style="position:relative;">
+			  <div class="inner-box-login"> 
 				
 				<li id="start" class="buttonred">
 					<a href="/poker/signup.php">Start Training →</a>
@@ -151,38 +166,12 @@ function message(type){
 						
 			</script>
 		
-		<li id="facebook">
-			<a title="Facebook" href="#" data-href="http://www.advancedpokertraining.com/poker/facebook_like.php">Facebook</a>
+		<li id="facebook" class="hide-mb">
+			<a title="Facebook" target="_blank" href="https://www.facebook.com/pages/Advanced-Poker-Training/191725707538577">Facebook</a>
 		</li>
-<script type="text/javascript">
-$("#facebook").find("a").bind("click",function(e){
-e.preventDefault;
-e.stopPropagation;
-var durl=$(this).attr("data-href");
-var dtop=screen.height-321;
-dtop=dtop/2;
-var dleft=screen.width-639;
-dleft=dleft/2;
-myWindowv=window.open(durl,'','width=639,height=321,left='+dleft+',top='+dtop+'');
-myWindowv.focus();
-});
-</script>
-		<li id="twitter">
-			<a title="Twitter" href="#" data-href="https://twitter.com/intent/tweet?hashtags=poker&amp;original_referer=http%3A%2F%2Fwww.advancedpokertraining.com%2F&amp;text=Poker%20Training%20using%20Poker%20Software%20that%20Calculates%20your%20Real%20Poker%20IQ&amp;tw_p=tweetbutton&amp;url=http%3A%2F%2Fwww.advancedpokertraining.com%2F&amp;via=pokertraining">Twitter</a>
+		<li id="twitter" class="hide-mb">
+			<a title="Twitter" target="_blank" href="https://twitter.com/pokertraining">Twitter</a>
 		</li>
-<script type="text/javascript">
-$("#twitter").find("a").bind("click",function(e){
-e.preventDefault;
-e.stopPropagation;
-var durl=$(this).attr("data-href");
-var dtop=screen.height-420;
-dtop=dtop/2;
-var dleft=screen.width-550;
-dleft=dleft/2;
-myWindow=window.open(durl,'','width=550,height=420,left='+dleft+',top='+dtop+'');
-myWindow.focus();
-});
-</script>
 		</div>
         </div>
         </div>
@@ -196,11 +185,11 @@ myWindow.focus();
 					<li>
 						<input placeholder="********" type="password" name="amember_pass" id="password">
 					</li>
-                    <input type="hidden" name="login_attempt_id" value="1376247966">
+                    <input type="hidden" name="login_attempt_id" value="1396205907">
 				</ul>
 				<input type="submit" value="Sign In">
 				<span onclick="$(document.getElementById('quicklogin')).fadeOut(400); document.getElementById('login').style.display = 'none'; document.getElementById('login').style.visibility = 'visible'; $(document.getElementById('login')).fadeIn(400);">X</span>
-			</form>
+			</form></div></div>
 			<div id="content" class="privacy_policy">
 
 <h2>We Value Your Privacy</h2>
@@ -218,39 +207,38 @@ myWindow.focus();
 <p>With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. All information we collect from you is stored on secure servers, and never in hard copy.</p>
 <p>If you feel that this site is not following its stated information policy, you may contact The DMA's Committee on Ethical Business Practices at <a href="mailto:mgoldberger@the-dma.org" class="h4">mgoldberger@the-dma.org</a>, state or local chapters of the Better Business Bureau, state or local consumer protection office or just contact us and we will be happy to discuss it with you.  We value your privacy and data security.</p>
 
-			<!-- ALL LINKS MUST BE ABSOLUTE.  This file also used as header.html. -->
-			</div>
+		<!-- ALL LINKS MUST BE ABSOLUTE.  This file also used as header.html. -->
+		</div>
 			<div id="footer">
 				<div>
-  
-					<ul id="nav">
-						<li>
-							<a href="/poker/testimonials.php">What Users are Saying</a>
-						</li>
-						<li>
-							<a href="/poker/research.php">Research</a>
-						</li>
-						<!--<li>
-							<a href="#pros/"
-									>Pros</a>
-						</li>-->
-						<li>
-							<a href="/poker/faq.php">FAQ</a>
-						</li>
-						<li>
-							<a href="/poker/instructions.php">Instructions</a>
-						</li>
-						<li>
-							<a href="/poker/contact.php">Contact</a>
-						</li>
-						<li>
-							<a href="/poker/privacy_policy.php">Privacy</a>
-						</li>
-						<li>
-							<a href="/poker/allaccess.php">Prices and Guarantee</a>
-						</li>
-					</ul>
-					<p>Copyright © 2009-2013 Advanced Poker Training, U.S. Patent #8,152,618</p>
+					  
+						<ul id="nav">
+							<li>
+								<a href="/poker/testimonials.php">Our Users</a>
+							</li>
+							<li>
+								<a href="/poker/coaches.php">Coaches</a>
+							</li>
+							<li>
+								<a href="/poker/research.php">Research</a>
+							</li>
+							<li>
+								<a href="/poker/faq.php">FAQ</a>
+							</li>
+							<li>
+								<a href="/poker/instructions.php">Instructions</a>
+							</li>
+							<li>
+								<a href="/poker/contact.php">Contact</a>
+							</li>
+							<li>
+								<a href="/poker/privacy_policy.php">Privacy</a>
+							</li>
+							<li>
+								<a href="/poker/allaccess.php">Prices and Guarantee</a>
+							</li>
+						</ul>
+										<p>Copyright © 2009-2014 Advanced Poker Training, U.S. Patent #8,152,618</p>
 				</div>
 			</div>
 		</div>
