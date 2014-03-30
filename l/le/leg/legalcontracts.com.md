@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legalcontracts.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816151107id_/http%3A//www.legalcontracts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalcontracts.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330220522id_/http%3A//www.legalcontracts.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy from LegalContracts.com
 
@@ -7,8 +7,6 @@
 ### Our Commitment to your Privacy
 
 LegalContracts is committed to protecting your privacy and ensuring that your visit to our website is completely secure.
-
-If you have any questions or problems with any aspect of our privacy policy, please [contact us](https://web.archive.org/contact.php).
 
 ### Security of your Personal Information
 
