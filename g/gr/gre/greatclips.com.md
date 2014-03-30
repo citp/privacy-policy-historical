@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatclips.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926123516id_/http%3A//www.greatclips.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatclips.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330230051id_/http%3A//www.greatclips.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -64,6 +64,6 @@ If customers wish to have their name removed from our database or wish to review
 For additional information pertaining to our Privacy Practices, please contact:
 
 Legal Department  
-7700 France Avenue South  
-Suite, 425  
+4400 West 78th Street  
+Suite 700  
 Minneapolis, MN 55435
