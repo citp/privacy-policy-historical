@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cotswoldoutdoor.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515024058id_/http%3A//www.cotswoldoutdoor.com/index.cfm/fuseaction/pages.help/sub/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cotswoldoutdoor.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330184457id_/https%3A//www.cotswoldoutdoor.com/index.cfm/fuseaction/pages.help/sub/privacy) for the most accurate reproduction.*
 
 # Privacy and cookies
 
