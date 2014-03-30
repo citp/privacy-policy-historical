@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the leasetrader.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820162422id_/http%3A//www.leasetrader.com/car/lease/info/agreement/Privacy_Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leasetrader.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330233921id_/http%3A//www.leasetrader.com/car/lease/info/agreement/Privacy_Statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - LeaseTrader.com
-
-**Privacy Statement**
 
 **THE INFORMATION WE COLLECT**  
 At LeaseTrader.com you can take-over a lease, post a lease, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
@@ -10,7 +8,7 @@ At LeaseTrader.com you can take-over a lease, post a lease, enter contests, vote
 At LeaseTrader.com you can submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic message and you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number.  
 At certain parts of some of our sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site's activities and offerings.
 
-In order to use some features of this website, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest.   
+In order to use some features of this website, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest.  
 We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Mozilla Firefox, Internet Explorer), the type of operating system you are using, (e.g., Windows or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).
 
 **HOW WE USE THE INFORMATION**  
@@ -39,7 +37,7 @@ We have put in place appropriate physical, electronic, and managerial procedures
 If you feel that this company is not abiding by its posted privacy policy, please contact our Customer Service Manager [by E-Mail](https://web.archive.org/contactus.xhtml) or by Postal Mail to:
 
 **Customer Service Manager**  
-LeaseTrader.com   
-1835 E. Hallandale Blvd.   
-Suite 431   
+LeaseTrader.com  
+1835 E. Hallandale Blvd.  
+Suite 431  
 Hallandale, Florida 33009
