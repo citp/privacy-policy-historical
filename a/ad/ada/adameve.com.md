@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adameve.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824182651id_/http%3A//www.adameve.com/t-faq.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adameve.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330233231id_/http%3A//www.adameve.com/t-faq.aspx) for the most accurate reproduction.*
 
 # Frequently asked questions for Adam & Eve
 
@@ -88,6 +88,8 @@ Adameve.com is committed to quality customer experience. We constantly review yo
 
 .
 
+* * *
+
 Email Preferences  
 
 
@@ -127,7 +129,7 @@ Yes, by un-checking the email address subscription preference box and clicking s
   * How can I contact customer service?
 
 Please call Customer Service at 1-800-765-2326  
-Or write [mailto:custserv@adameve.com](mailto:custserv@adameve.com)
+Or write [mailto:custserv@adameve.com](mailto:custserv@)
 
     * Canadian Customers 
 
@@ -147,7 +149,7 @@ We are available to assist you 24 hours a day, 7 days a week.
 
   * How can I place an order through the mail? 
 
-Our [downloadable order form](https://web.archive.org/images/misc/generic_order_form.pdf) is stored in Adobe Acrobat PDF format. If you do not have Adobe Acrobat installed on your computer, you may [install a free version](http://www.adobe.com/products/acrobat/). 
+Our [downloadable order form](http://www.adameve.com/images/misc/generic_order_form.pdf) is stored in Adobe Acrobat PDF format. If you do not have Adobe Acrobat installed on your computer, you may [install a free version](http://www.adobe.com/products/acrobat/). 
 
   * Will Adam & Eve appear on my credit card statement? 
 
@@ -185,7 +187,7 @@ Occasionally our manufacturers may discontinue or re-design a product we feature
 
   * I like the idea of using a credit card on-line; however, what is your security?
 
-Our websites, which run on state of the art Microsoft technologies, use SSL encryption, the highest form of encryption security available right now. Still not sure? Read more about security and encryption [here ](https://web.archive.org/web/20130824182651id_/http%3A//www.adameve.com/t-faq.aspx#secure). 
+Our websites, which run on state of the art Microsoft technologies, use SSL encryption, the highest form of encryption security available right now. Still not sure? Read more about security and encryption [here ](http://www.adameve.com/t-faq.aspx#secure). 
 
   * Why do I have to give my credit card number to view your site? 
 
@@ -199,7 +201,7 @@ The problem could be as simple as not using lower case characters or it is proba
 
 
 
-> In the event that you forget your password, it canbe emailed to you. [click through to our password finder page](https://web.archive.org/web/20130824182651id_/http%3A//www.adameve.com/signin.aspx) and enter the appropriate information.You can always reach this page through the [My Account](https://www.adameve.com/account.aspx) section of the website. We suggest that you: 
+> In the event that you forget your password, it canbe emailed to you. [click through to our password finder page](https://www.adameve.com/signin.aspx) and enter the appropriate information.You can always reach this page through the [My Account](https://www.adameve.com/account.aspx) section of the website. We suggest that you: 
 > 
 >   * Write down your password and keep it in a safeplace. 
 >   * Use lower case letters and make it short (at least 7 characters)and simple, (using alpha and numeric characters). 
@@ -214,7 +216,7 @@ The problem could be as simple as not using lower case characters or it is proba
 
 * * *
 
-[Top](https://web.archive.org/web/20130824182651id_/http%3A//www.adameve.com/t-faq.aspx#top) • [Email Opt-In FAQ](https://web.archive.org/web/20130824182651id_/http%3A//www.adameve.com/t-faq.aspx#email) • [Customer Service](https://web.archive.org/web/20130824182651id_/http%3A//www.adameve.com/t-faq.aspx#custserv) • [My Favorites](https://web.archive.org/web/20130824182651id_/http%3A//www.adameve.com/t-faq.aspx#wishlist) • [Guide to Safe Sex](https://web.archive.org/web/20130824182651id_/http%3A//www.adameve.com/t-faq.aspx#safe)
+[](http://www.adameve.com/t-faq.aspx#top)Top • [Email Opt-In FAQ](http://www.adameve.com/t-faq.aspx#email) • [Customer Service](http://www.adameve.com/t-faq.aspx#custserv) • [My Favorites](http://www.adameve.com/t-faq.aspx#wishlist) • [Guide to Safe Sex](http://www.adameve.com/t-faq.aspx#safe)
 
 This site is secure from others stealing your creditcard information. Your credit card and personal information are code-encrypted for security. 
 
@@ -261,7 +263,7 @@ As far as we know, not a single dollar has been lost to electronic theft of a cr
 
 * * *
 
-[Top](https://web.archive.org/web/20130824182651id_/http%3A//www.adameve.com/t-faq.aspx#top) • [Email Opt-In FAQ](https://web.archive.org/web/20130824182651id_/http%3A//www.adameve.com/t-faq.aspx#email) • [Customer Service](https://web.archive.org/web/20130824182651id_/http%3A//www.adameve.com/t-faq.aspx#custserv) • [Security](https://web.archive.org/web/20130824182651id_/http%3A//www.adameve.com/t-faq.aspx#security) • [Guide to Safe Sex](https://web.archive.org/web/20130824182651id_/http%3A//www.adameve.com/t-faq.aspx#safe)
+[](http://www.adameve.com/t-faq.aspx#top)Top • [Email Opt-In FAQ](http://www.adameve.com/t-faq.aspx#email) • [Customer Service](http://www.adameve.com/t-faq.aspx#custserv) • [Security](http://www.adameve.com/t-faq.aspx#security) • [Guide to Safe Sex](http://www.adameve.com/t-faq.aspx#safe)
 
   * What is Wish List? 
 
@@ -290,7 +292,7 @@ You can create 1 Wish List.
 
 > Sometimes items get removed from our online database or we no longer carry them. So, in order to make things as easy as possible for you, we remove them from the online catalog entirely, including your favorites list. If we bring the item back, then we'll make sure to return it to your Wish List! 
 
-[Top](https://web.archive.org/web/20130824182651id_/http%3A//www.adameve.com/t-faq.aspx#top) • [Email Opt-In FAQ](https://web.archive.org/web/20130824182651id_/http%3A//www.adameve.com/t-faq.aspx#email) • [Customer Service](https://web.archive.org/web/20130824182651id_/http%3A//www.adameve.com/t-faq.aspx#custserv) • [Security](https://web.archive.org/web/20130824182651id_/http%3A//www.adameve.com/t-faq.aspx#security) • [My Favorites](https://web.archive.org/web/20130824182651id_/http%3A//www.adameve.com/t-faq.aspx#wishlist)
+[](http://www.adameve.com/t-faq.aspx#top)Top • [Email Opt-In FAQ](http://www.adameve.com/t-faq.aspx#email) • [Customer Service](http://www.adameve.com/t-faq.aspx#custserv) • [Security](http://www.adameve.com/t-faq.aspx#security) • [My Favorites](http://www.adameve.com/t-faq.aspx#wishlist)
 
   * Why should you practice safe sex? 
 
