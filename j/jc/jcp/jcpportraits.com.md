@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jcpportraits.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806104644id_/http%3A//www.jcpportraits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcpportraits.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330185224id_/http%3A//www.jcpportraits.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | jcpenney portrait studios
+
+Welcome to jcpportraits.com.  This website is owned and operated by Lifetouch Portrait Studios Inc. (“Lifetouch”) in partnership with J. C. Penney Company, Inc.  This Online Privacy Policy explains Lifetouch’s online information practices pertaining to this website and the choices you, as a visitor to this site, can make about the collection and use of your information.
 
 ### **What information is collected at jcpportraits.com? How is it used?**
 
@@ -29,7 +31,7 @@ In addition to personal information you provide us, jcpportraits.com uses techno
 
 A "cookie" is a small data file stored by your web browser on your computer's hard drive. Cookies are necessary to use the site. A cookie allows our web server to balance customer traffic on our website to enhance performance of the service. If you disable your cookies, you will not be able to visit our site. After you end your session the cookie from the web server will remain on your computer until you manually delete it. No personal information is stored on this cookie. Accepting cookies through your web browser is your personal choice. However, if you choose not to accept cookies, you will not be able to take full advantage of some of this Website's features.
 
-**If you do not wish to receive promotional information as a result of using the jcpportraits.com Website, what should you do?**
+### **If you do not wish to recieve promotional information as a result of using the jcpportraits.com Website,what should you do?**
 
 Our goal is to inform you about our products and services, including special promotions and coupons. We may contact you by mail or e-mail or telephone to inform you of offers. However, if you are contacted and do not wish to receive further information , you may contact us at the phone number listed below or for email: select the unsubscribe at the bottom of the email.
 
@@ -41,16 +43,16 @@ We will act promptly to honor your request. Please allow 7-10 business days for 
 
 ### **Email Communications**
 
-You will receive promotional Email communications from us only if you have agreed to receive such material. You may unsubscribe to this service at any time.
+You will receive promotional Email communications from us only if you have agreed to receive such material. You may unsubscribe to this service at any time..
 
 ### **Children**
 
 Jcpportraits.com does not knowingly collect personally identifiable information from children under the age of 13. If a child has provided jcpportraits.com with personally identifiable information, we ask that a parent or guardian contact jcpenneyportraits.com in writing at 11000 Viking Drive, Suite 400, Eden Prairie, MN 55344, Attention: Legal Department and we will do our best to delete the information from our files.
 
-**No control of third party sites**
+### **No control of third party sites**
 
 Please be aware that websites that link to this Website may collect personally identifiable information about you. You should consult the other sites' privacy policies as we have no control over information that is submitted to, or collected by, these third parties.
 
-**Your consent**
+### **Your consent**
 
 By using the jcpportraits.com Website, you consent to our use of guest information as described in this Online Privacy Policy. As we implement new technology and introduce new services, we will update our Online Privacy Policy, so we encourage you to review it often. We reserve the right to change our Privacy Policy at any time without advance notice. Should any new policy go into effect, we will post it on this site, and the policy will apply to all information collected.
