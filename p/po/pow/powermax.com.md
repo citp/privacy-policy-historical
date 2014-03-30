@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powermax.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814014133id_/http%3A//www.powermax.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powermax.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330232735id_/http%3A//www.powermax.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PowerMax
 
@@ -12,6 +12,6 @@ PowerMax.com makes use of cookies to keep track of what you add to your shopping
 
 **PowerMax**  
 6077A SW Lakeview Blvd.  
-Lake Oswego, OR 97035
+Lake Oswego, OR 97035 
 
 Back to Top
