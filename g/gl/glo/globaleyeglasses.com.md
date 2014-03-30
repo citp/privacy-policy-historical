@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globaleyeglasses.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130013740id_/http%3A//www.globaleyeglasses.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globaleyeglasses.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330174214id_/http%3A//www.globaleyeglasses.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy at GlobalEyeglasses.com
 
@@ -55,7 +55,7 @@ We are in compliance with the requirements of COPPA (Children’s Online Privacy
 
 ### Terms and Conditions
 
-Please also visit our [Terms of Use](http://www.globaleyeglasses.com/termofuse.html) page which establishes the use, verifies disclaimers, and covers limitations of liability governing the use of our website.
+Please also visit our [Terms of Use](http://www.globaleyeglasses.com/termsofuse.html) page which establishes the use, verifies disclaimers, and covers limitations of liability governing the use of our website.
 
 ### Changes to our Privacy Policy
 
