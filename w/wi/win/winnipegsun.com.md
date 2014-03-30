@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winnipegsun.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206054729id_/http%3A//www.winnipegsun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winnipegsun.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330223820id_/http%3A//www.winnipegsun.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Winnipeg Sun
 
@@ -70,6 +70,12 @@ While the information cannot be used to identify a visitor, cookies provide impo
 
 We hope that this information has provided you with a better understanding of our strict privacy protection policies. Please note that the Winnipeg Sun reserves the right to modify these policies at any time. Thus, we invite you to periodically consult this section for possible updates and changes. 
 
+If you have any questions or concerns about our privacy practices, you may call 416-947-3100 or contact us in writing at the following address: 
+
+Sun Media Privacy Officer  
+333 King Street East  
+Toronto ON M5A 3X5
+
 The Winnipeg Sun respects the confidentiality of the personal information of its subscribers, readers, advertisers and those who enter our contests and promotions. As part of our commitment to you, we want to clarify the details of our privacy policy concerning the personal information that we collect. 
 
 If you are a subscriber or advertiser, we collect personal information in order to set up an account, verify creditworthiness, to maintain a satisfactory relationship and to provide you with ongoing service. For example, we collect information that allows us to process your subscription or advertisement, confirm your identity and address so we can accurately deliver your newspaper or print your advertisement and accurately bill and collect. We may collect credit card or bank account information if you prefer the convenience of pre-authorized payment or we require pre-payment. 
@@ -82,7 +88,7 @@ The Winnipeg Sun also accepts letters to the editor. When you send a letter to t
 
 We will honour any request you may make to have access to or review your personal information that we have obtained as referred to above. 
 
-If you have any questions or concerns about our privacy practices or you do not wish to allow us to use your personal information in any manner discussed above you may call 416-947-2304 or contact us in writing at the following address: 
+If you have any questions or concerns about our privacy practices or you do not wish to allow us to use your personal information in any manner discussed above you may call 416-947-3100 or contact us in writing at the following address: 
 
 Sun Media Privacy Officer  
 333 King Street East  
