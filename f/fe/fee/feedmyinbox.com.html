@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the feedmyinbox.com privacy policy that was archived on 2013-08-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130811122605id_/https%3A//www.feedmyinbox.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the feedmyinbox.com privacy policy that was archived on 2014-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140330235247id_/https%3A//www.feedmyinbox.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><title>
-	Privacy Policy
+	RSS and Twitter feed to your inbox. Free real-time email updates for favorite blogs, feeds, and news delivered to your inbox
 </title>
     <link rel="shortcut icon" href="/Styles/images/fav.png" type="image/x-icon">
     <link href="/Styles/admin.css" rel="stylesheet" type="text/css">
@@ -13,7 +13,7 @@
         // Expose jQuery to the global object
         window.$ = window.jQuery = jQuery;
     </script>
-</head>
+<meta name="description" content="Get RSS, Twitter, and Atom feeds from your favorite websites and blogs sent to your email account in real time, for free"><meta name="keywords" content="e-mail, real-time, rss-to-email, realtime, aggregator, blog, news, rss, atom, feed"></head>
 <body>
 
     <script type="text/javascript">
@@ -76,9 +76,24 @@
                             window.location.href = 'https://www.feedmyinbox.com/subscriptions';
                         }
                         else if (msg.d.indexOf("confirm") != -1) {
-                            $('#aaaa').html(msg.d + "<a id='acrResc'  class='resendConfirm_login' href='https://www.feedmyinbox.com/resendconfirmation' >Resend confirmation mail</a>");
-                            $('#aaaa').show();
+                            //$('#aaaa').html(msg.d + "<a id='acrResc'  class='resendConfirm_login' href='https://www.feedmyinbox.com/resendconfirmation' >Resend confirmation mail</a>");
+                            //$('#aaaa').show();
+                            var arr = null;
+                            arr = msg.d.split('::');
+                            window.location.href = 'https://www.feedmyinbox.com/View/AccountConfirm.aspx?email=' + arr[1];
                         }
+                        else if (msg.d.indexOf("disabled") != -1) {
+                            //$('#aaaa').html(msg.d + "<a id='acrResc'  class='resendConfirm_login' href='https://www.feedmyinbox.com/resendconfirmation' >Resend confirmation mail</a>");
+                            //$('#aaaa').show();
+                            var arr = null;
+                            arr = msg.d.split('::');
+                            window.location.href = 'https://www.feedmyinbox.com/AccountReset?email=' + arr[1];
+                        }
+                        else if (msg.d.indexOf("Plan") != -1) {
+                            //$('#errorContainer').html(msg.d + "<a id='acrResc' style='float: right;' href='https://www.feedmyinbox.com/resendconfirmation' >Resend confirmation mail</a>");
+                                //$('#errorContainer').show();
+                                window.location.href = 'https://www.feedmyinbox.com/View/YourPlan.aspx?msg=rect';
+                            }
                         else {
                             $('#aaaa').html(msg.d);
                             $('#aaaa').show();
@@ -89,7 +104,7 @@
                         $('#aaaa').show();
                     }
                 });
-        }
+    }
 }
 
     </script>
@@ -121,10 +136,14 @@
                     <img title="Feed My Inbox" alt="feedmyinbox" src="https://www.feedmyinbox.com/Styles/images/feedmyinbox.png"></a>
             </div>
             
-            <ul>
+            <ul id="secNav">
+                <li><a href="https://www.feedmyinbox.com/feedBuild">FeedBuild</a></li>
+                <li><a href="https://www.feedmyinbox.com/plans">Plans</a></li>
+                <li><a href="https://www.feedmyinbox.com/help">Help</a></li>
+                <li><a href="https://www.feedmyinbox.com/signup">Signup</a></li>
                 <li><a class="signin" href="https://www.feedmyinbox.com/login"><span>Login</span></a></li>
             </ul>
-            <form id="loginform" name="loginForm" method="post" action="#" novalidate="novalidate">
+            <form id="loginform" name="loginForm" method="post" action="#" novalidate="novalidate" autocomplete="off">
                 <fieldset id="signin_menu" style="display: none">
                     <ul class="clear">
                         <li><span id="aaaa"></span>
@@ -142,6 +161,7 @@
                             <div class="links">
                                 <a href="https://www.feedmyinbox.com/View/ForgetPassword.aspx">I forgot my password</a>
                                 <a href="https://www.feedmyinbox.com/signup">Create an account</a>
+
                             </div>
                         </li>
                     </ul>
@@ -174,7 +194,7 @@
             <span style="margin-left: 15px;"><a href="https://www.feedmyinbox.com/privacy-policy">Privacy Policy</a></span>&nbsp;
             
             <p>
-                © 2013        FeedMyInbox, LLC.
+                © 2014        FeedMyInbox, LLC.
             </p>
         </div>
         <!-- end of footer -->
