@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the shapefit.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211072538id_/http%3A//www.shapefit.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shapefit.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330234910id_/http%3A//www.shapefit.com/privacy-policy.html) for the most accurate reproduction.*
 
 # ShapeFit Privacy Policy - Protecting The Privacy of Our Visitors
 
 | 
-
-ShapeFit Privacy Policy - Protecting The Privacy of Our Visitors
 
 At ShapeFit, we respect your privacy and believe you should be informed about how we collect, use and disclose your Personal Information. This Privacy Policy describes our practices regarding how we use and share with third parties Personal Information (as defined below ) that we collect on the Website. By visiting the ShapeFit.com website and any other URLs and websites administered by ShapeFit, LLC and its affiliates (collectively, the “Website”) that are offered by ShapeFit, LLC and its affiliates (collectively, “ShapeFit” or “we” or “us”) or otherwise submitting your Personal Information to us, you accept the practices described in this statement. The terms "you" and "user" as used herein refer to all individuals and/or entities accessing the Website for any reason.
 
@@ -43,5 +41,26 @@ We may make changes to the Privacy Policy from time to time in our sole discreti
 **Queries**   
 If you have a question or comment about the ShapeFit site or a request to correct or delete your Personal Information, please contact us at info@shapefit.com. We will use commercially reasonable efforts to fulfill your request in a timely manner. However, please be aware that even if ShapeFit deletes such Personal Information from its ‘live’ databases, such information may still be stored on other databases (including those kept for archival purposes).
 
-|   
+| 
+
+[](http://www.shapefit.com/success/success-stories-weight-loss-michael-shilkus.html)
+
+[](https://itunes.apple.com/us/app/fittracker/id398464055?mt=8&uo=4)
+
+[](http://www.shapefit.com/training.html)
+
+[](http://www.shapefit.com/workout-routines.html)
+
+[](http://www.shapefit.com/success-stories.html)
+
+[](http://www.shapefit.com/exercise-videos.html)
+
+[](http://www.shapefit.com/fitness-models.html)
+
+[](http://www.shapefit.com/forum/)
+
+[](http://www.shapefit.com/latest-articles.html)
+
+[](http://www.shapefit.com/testimonials.html)  
+  
 ---|---
