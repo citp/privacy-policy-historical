@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the newdirectionsaromatics.com privacy policy that was archived on 2013-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130508055949id_/http%3A//www.newdirectionsaromatics.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newdirectionsaromatics.com privacy policy that was archived on 2014-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140330143644id_/http%3A//www.newdirectionsaromatics.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html dir="LTR" lang="en"><head>
-  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+<!-- <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"> -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
   
@@ -28,7 +29,7 @@ All Content (C)2012 by New Directions Aromatics Inc.
 
 
 <link rel="icon" type="image/png" href="common/favicon_nda.png">
-<link rel="stylesheet" type="text/css" href="common/nda_general_styles.css" media="all">
+<link rel="stylesheet" type="text/css" href="common/nda_general_styles.css?v=3" media="all">
 
 <!-- Manish Updated Lightbox from V0.5 to V2.5 -->
 <!-- <link rel="stylesheet" type="text/css" href="common/jquery.lightbox-0.5.css" media="screen" /> -->
@@ -39,7 +40,8 @@ All Content (C)2012 by New Directions Aromatics Inc.
 
 <!-- <script type="text/javascript" src="common/jquery-1.2.6.min.js"></script> --> 
 <!-- Manish Updated Jquery to 1.8.3 -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="common/jquery1.8.3.min.js"></script>
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="common/jquery1.8.3.min.js"></script>
+<script type="text/javascript" src="common/jquery-ui-1.10.4.custom.min.js"></script>
 
 <!-- <script type="text/javascript" src="common/jquery.lightbox-0.5.js"></script> -->
 <!-- Manish Updated Lightbox from V0.5 to V2.5 -->
@@ -76,7 +78,8 @@ All Content (C)2012 by New Directions Aromatics Inc.
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    //ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
@@ -84,59 +87,53 @@ All Content (C)2012 by New Directions Aromatics Inc.
 
 
 
+<script type="text/javascript">
+$(function() {
+  var cache = {};
+  $(".autocomplete, input[name=keywords]").autocomplete({
+     // source: "autocomplete.php",
+      minLength: 2,
+      position: { my : "left+6 top+65", at: "left top", of: ".search" },
+      messages: {
+          noResults: '',
+          results: function() {}
+      },
+      select: function(event, ui) {
+        window.location  = (ui.item.id);
+      },
+      source: function( request, response ) {
+        var term = request.term;
+        if ( term in cache ) {
+          response( cache[ term ] );
+          return;
+        }
+
+        $.getJSON( "autocomplete.php", request, function( data, status, xhr ) {
+          cache[ term ] = data;
+          response( data.slice(0, 15) );
+        });
+      }
+  }).data("ui-autocomplete")._renderItem = function( ul, item ) {
+      return $( "<li></li>" )
+      .data( "item.autocomplete", item )
+      .append( "<a href='" + item.id + "' onClick='return false;'>"+ item.value + "</a> <img src='images/"+item.image+"' height='28' /><div class='clear'></div>" )
+      .appendTo( ul );
+  };
+});
+
+</script>
+
 
 
 </head>
 
-<!-- header_eof //-->
 
-
-
-<!-- <img src="common/main_bg.jpg" class="hiddenPic" />
-
-<img src="common/main_bg_top.jpg" class="hiddenPic" />
-
-
- -->
 <body>
 
 
 
 
 
-
-
-
-
-
-
-<!-- 
-<img src="https://www.newdirectionsaromatics.com/common/menu/essential_oils_menu_on.jpg" class="hiddenPic" />
-<img src="https://www.newdirectionsaromatics.com/common/menu/essential_oils_menu_off.jpg" class="hiddenPic" />
-
-<img src="https://www.newdirectionsaromatics.com/common/menu/soap_making_supplies_menu_on.jpg" class="hiddenPic" />
-<img src="https://www.newdirectionsaromatics.com/common/menu/soap_making_supplies_menu_off.jpg" class="hiddenPic" />
-
-<img src="https://www.newdirectionsaromatics.com/common/menu/spa_supplies_menu_on.jpg" class="hiddenPic" />
-<img src="https://www.newdirectionsaromatics.com/common/menu/spa_supplies_menu_off.jpg" class="hiddenPic" />
-
-<img src="https://www.newdirectionsaromatics.com/common/menu/cosmetics_making_supplies_menu_on.jpg" class="hiddenPic" />
-<img src="https://www.newdirectionsaromatics.com/common/menu/cosmetics_making_supplies_menu_off.jpg" class="hiddenPic" />
-
-<img src="https://www.newdirectionsaromatics.com/common/menu/candle_making_supplies_menu_on.jpg" class="hiddenPic" />
-<img src="https://www.newdirectionsaromatics.com/common/menu/candle_making_supplies_menu_off.jpg" class="hiddenPic" />
-
-<img src="https://www.newdirectionsaromatics.com/common/menu/raw_materials_menu_on.jpg" class="hiddenPic" />
-<img src="https://www.newdirectionsaromatics.com/common/menu/raw_materials_menu_off.jpg" class="hiddenPic" />
-
-<img src="https://www.newdirectionsaromatics.com/common/menu/ready_to_use_menu_on.jpg" class="hiddenPic" />
-<img src="https://www.newdirectionsaromatics.com/common/menu/ready_to_use_menu_off.jpg" class="hiddenPic" />
-
-<img src="https://www.newdirectionsaromatics.com/common/menu/packaging_menu_on.jpg" class="hiddenPic" />
-<img src="https://www.newdirectionsaromatics.com/common/menu/packaging_menu_off.jpg" class="hiddenPic" />
-
-<img src="https://www.newdirectionsaromatics.com/common/menu/accessories_menu_on.jpg" class="hiddenPic" />
-<img src="https://www.newdirectionsaromatics.com/common/menu/accessories_menu_off.jpg" class="hiddenPic" /> -->
 
 
 
@@ -388,11 +385,184 @@ $(document).ready(function() {
 
 
 
+
+
+
+
+<style type="text/css">
+div#jq_hdr_container {
+	background-image: url('common/jquery_sliding_header_bg.jpg');
+	background-position: center top;
+	background-repeat: no-repeat;
+}
+div#jq_hdr_slider_container {
+	width: 980px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 2px solid #9E9E9E;
+	border-top: none;
+}
+div#jq_hdr_slider_main {
+	width: 980px;
+	height: 70px;
+	background-image: url('common/jquery_sliding_header_content6.jpg');
+	background-position: center center;
+	background-repeat: no-repeat;
+	position: relative;
+
+}
+div#jq_hdr_slider_button {
+	width: 980px;
+	height: 18px;
+	border-top: 1px solid #CCCCCC;
+	background-image: url('common/jquery_sliding_header_button_bg.jpg');
+	background-position: center center;
+	background-repeat: no-repeat;
+	cursor: pointer;
+}
+#jq_hdr_slider_button p {
+	text-align: center;
+	font-weight: bold;
+	letter-spacing: 4px;
+	font-style:italic;
+	font-size: 11px;
+}
+
+
+div#jq_hdr_shipping_dates
+{
+font-family:arial;
+font-size:10px;
+text-decoration:none;
+color:#333333;
+padding: 0px;
+margin: 0px;
+top:12px;
+left:733px;
+position:absolute;
+
+}
+
+
+div#alert
+{
+font-family:arial;
+font-size:11px;
+text-decoration:none;
+color:#333333;
+padding: 0px;
+margin: 0px;
+top:55px;
+left:568px;
+position:absolute;
+
+}
+
+
+
+div#jq_hdr_notice
+{
+font-family:arial;
+font-size:10px;
+text-decoration:none;
+color:#333333;
+padding: 0px;
+margin: 0px;
+top:33px;
+left:733px;
+position:absolute;
+
+}
+</style>
+
+
+
+
+
+
+
+
+
+
+<div id="jq_hdr_container">
+	<div id="jq_hdr_slider_container">
+
+		<div id="jq_hdr_slider_main">
+
+
+			<div id="jq_hdr_notice">
+
+
+			<strong><a href="policies.php#OrderingGuidelines" style="color:#CC0000!important;font-weight:bold">CLICK HERE TO READ ABOUT OUR<br>$100 MINIMUM ORDER POLICY</a></strong>
+
+
+			</div>
+
+
+			<div id="jq_hdr_shipping_dates">
+
+				<strong>SHIPPING ORDERS PLACED ON: MAR 25</strong>
+
+			</div>
+
+
+
+		</div><!-- eo:jq_hdr_slider_main -->
+
+	</div><!-- eo:jq_hdr_slider_container -->
+</div><!-- eo:jq_hdr_container -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div id="body_bg_top"><!-- start: "body_bg_top" -->
 
 
 <div id="header_container"><!-- start: "header_container" -->
 
+
+
+
+
+
+
+<div id="new_policy" class="hiddenPic"><!-- start: "new_policy" -->
+
+<p class="text_cen">
+<img src="common/nda_logo.jpg">
+</p>
+
+
+<p><strong>Dear Customer,</strong></p>
+
+
+<p>Due to the rising costs of administering small orders, we are instituting a policy for minimum orders of $100,
+in our efforts to keep costs to as low as possible and offer the best wholesale pricing in the industry.</p>
+
+<p>For orders less than $100, a small order administration fee of $20 will apply. This policy will be effective February 3rd, 2014.
+We truly regret any inconvenience that this might cause.</p>
+
+<p>Kind Regards,
+<br>
+<img src="common/alex_sig.gif">
+<br>
+Alex B. Thomas<br>
+President<br>
+</p>
+
+
+</div><!-- end: "new_policy" -->
 
 
 
@@ -741,9 +911,9 @@ display:none;
 
 <form name="quick_find" method="get" id="searchform" action="advanced_search_result.php">
 
-<fieldset class="search">
+<fieldset class="search ui-front">
 
-	<input type="text" name="keywords" maxlength="30" class="box">
+	<input type="text" name="keywords" maxlength="40" class="box autocomplete">
 	<button class="btn" title="Submit Search">Search</button>
 
 </fieldset>
@@ -752,6 +922,7 @@ display:none;
 
 
 </div><!-- end: "mast_searchbox_container" -->
+
 
 
 
@@ -823,7 +994,7 @@ display:none;
 <a href="javascript:void(0)"><img alt="Oils" src="https://www.newdirectionsaromatics.com/common/menu/essential_oils_menu_off.jpg" id="essential_oils_menu_img"><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="firstitem">
-<li><a href="http://www.newdirectionsaromatics.com/oils-essential-oils-ac-c-9_25.html" class="first_link">Essential Oils (A-C)</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-essential-oils-dn-c-9_27.html">Essential Oils (D-N)</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-essential-oils-oz-c-9_29.html">Essential Oils (O-Z)</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-essential-oil-absolutes-c-9_31.html">Essential Oil Absolutes</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-nature-identical-essential-oils-c-9_168.html">Nature Identical Essential Oils</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-carrier-oils-c-9_34.html">Carrier Oils</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-fragrant-oils-aj-c-9_96.html">Fragrant Oils (A-J)</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-fragrant-oils-lz-c-9_147.html">Fragrant Oils (L-Z)</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-fragrant-oil-sample-kits-c-9_167.html">Fragrant Oil Sample Kits</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-3-dilutions-c-9_32.html">3% Dilutions</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-herbal-oils-c-9_33.html">Herbal Oils</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-synergy-blends-c-9_92.html">Synergy Blends</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-massage-blends-c-9_30.html">Massage Blends</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-floral-waters-c-9_66.html">Floral Waters</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-aromatherapy-starter-kits-c-9_106.html">Aromatherapy Starter Kits</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-aromatherapy-books-c-9_136.html" class="last_link">Aromatherapy Books</a></li></ul>
+<li><a href="http://www.newdirectionsaromatics.com/oils-essential-oils-ac-c-9_25.html" class="first_link">Essential Oils (A-C)</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-essential-oils-dn-c-9_27.html">Essential Oils (D-N)</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-essential-oils-oz-c-9_29.html">Essential Oils (O-Z)</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-commercial-grade-essential-oils-c-9_173.html">Commercial Grade Essential Oils</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-nature-identical-essential-oils-c-9_168.html">Nature Identical Essential Oils</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-absolute-oils-c-9_31.html">Absolute Oils</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-carrier-oils-c-9_34.html">Carrier Oils</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-fragrant-oils-aj-c-9_96.html">Fragrant Oils (A-J)</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-fragrant-oils-lz-c-9_147.html">Fragrant Oils (L-Z)</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-fragrant-oil-sample-kits-c-9_167.html">Fragrant Oil Sample Kits</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-3-dilutions-c-9_32.html">3% Dilutions</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-herbal-oils-c-9_33.html">Herbal Oils</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-synergy-blends-c-9_92.html">Synergy Blends</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-massage-blends-c-9_30.html">Massage Blends</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-floral-waters-c-9_66.html">Floral Waters</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-aromatherapy-starter-kits-c-9_106.html">Aromatherapy Starter Kits</a></li><li><a href="http://www.newdirectionsaromatics.com/oils-aromatherapy-books-c-9_136.html" class="last_link">Aromatherapy Books</a></li></ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li id="soap_making_supplies_menu">
@@ -865,7 +1036,7 @@ display:none;
 <a href="javascript:void(0)"><img alt="Packaging" src="https://www.newdirectionsaromatics.com/common/menu/packaging_menu_off.jpg" id="packaging_menu_img"><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul>
-<li><a href="http://www.newdirectionsaromatics.com/packaging-glass-bottles-jars-vials-c-2_80.html" class="first_link">Glass Bottles, Jars &amp; Vials</a></li><li><a href="http://www.newdirectionsaromatics.com/packaging-plastic-bottles-jars-c-2_83.html">Plastic Bottles &amp; Jars</a></li><li><a href="http://www.newdirectionsaromatics.com/packaging-acrylic-jars-c-2_89.html">Acrylic Jars</a></li><li><a href="http://www.newdirectionsaromatics.com/packaging-lip-balm-tubes-lip-stick-tubes-c-2_160.html">Lip Balm Tubes &amp; Lip Stick Tubes</a></li><li><a href="http://www.newdirectionsaromatics.com/packaging-airless-roll-on-dispensers-c-2_91.html">Airless &amp; Roll On Dispensers</a></li><li><a href="http://www.newdirectionsaromatics.com/packaging-aluminum-stainless-steel-c-2_90.html">Aluminum &amp; Stainless Steel</a></li><li><a href="http://www.newdirectionsaromatics.com/packaging-paper-bags-c-2_161.html">Paper Bags</a></li><li><a href="http://www.newdirectionsaromatics.com/packaging-commercial-packaging-c-2_85.html">Commercial Packaging</a></li><li><a href="http://www.newdirectionsaromatics.com/packaging-special-order-c-2_111.html">Special Order</a></li><li><a href="http://www.newdirectionsaromatics.com/packaging-caps-tops-c-2_86.html" class="last_link">Caps &amp; Tops</a></li></ul>
+<li><a href="http://www.newdirectionsaromatics.com/packaging-glass-bottles-jars-vials-c-2_80.html" class="first_link">Glass Bottles, Jars &amp; Vials</a></li><li><a href="http://www.newdirectionsaromatics.com/packaging-plastic-bottles-jars-c-2_83.html">Plastic Bottles &amp; Jars</a></li><li><a href="http://www.newdirectionsaromatics.com/packaging-acrylic-jars-c-2_89.html">Acrylic Jars</a></li><li><a href="http://www.newdirectionsaromatics.com/packaging-lip-balm-tubes-lip-stick-tubes-c-2_160.html">Lip Balm Tubes &amp; Lip Stick Tubes</a></li><li><a href="http://www.newdirectionsaromatics.com/packaging-airless-roll-on-dispensers-c-2_91.html">Airless &amp; Roll On Dispensers</a></li><li><a href="http://www.newdirectionsaromatics.com/packaging-aluminum-packaging-c-2_90.html">Aluminum Packaging</a></li><li><a href="http://www.newdirectionsaromatics.com/packaging-commercial-packaging-c-2_85.html">Commercial Packaging</a></li><li><a href="http://www.newdirectionsaromatics.com/packaging-special-order-c-2_111.html">Special Order</a></li><li><a href="http://www.newdirectionsaromatics.com/packaging-caps-tops-c-2_86.html" class="last_link">Caps &amp; Tops</a></li></ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li id="accessories_menu">
@@ -879,7 +1050,7 @@ display:none;
 <a href="javascript:void(0)"><img alt="Accessories" src="https://www.newdirectionsaromatics.com/common/menu/ready_to_use_menu_off.jpg" id="ready_to_use_menu_img"><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="lastitem">
-<li><a href="http://www.newdirectionsaromatics.com/ready-to-use-ecofriendly-cleaners-c-137_124.html" class="first_link">Eco-Friendly Cleaners</a></li><li><a href="http://www.newdirectionsaromatics.com/ready-to-use-personal-care-c-137_138.html">Personal Care</a></li><li><a href="http://www.newdirectionsaromatics.com/ready-to-use-candles-incense-c-137_50.html">Candles &amp; Incense</a></li><li><a href="http://www.newdirectionsaromatics.com/ready-to-use-linen-waters-c-137_153.html">Linen Waters</a></li><li><a href="http://www.newdirectionsaromatics.com/ready-to-use-skin-care-c-137_158.html">Skin Care</a></li><li><a href="http://www.newdirectionsaromatics.com/ready-to-use-hair-care-c-137_157.html">Hair Care</a></li><li><a href="http://www.newdirectionsaromatics.com/ready-to-use-bath-c-137_156.html">Bath</a></li><li><a href="http://www.newdirectionsaromatics.com/ready-to-use-candles-c-137_155.html">Candles</a></li><li><a href="http://www.newdirectionsaromatics.com/ready-to-use-gift-baskets-c-137_159.html" class="last_link">Gift Baskets</a></li></ul>
+<li><a href="http://www.newdirectionsaromatics.com/ready-to-use-ecofriendly-cleaners-c-137_124.html" class="first_link">Eco-Friendly Cleaners</a></li><li><a href="http://www.newdirectionsaromatics.com/ready-to-use-personal-care-c-137_138.html">Personal Care</a></li><li><a href="http://www.newdirectionsaromatics.com/ready-to-use-candles-incense-c-137_50.html">Candles &amp; Incense</a></li><li><a href="http://www.newdirectionsaromatics.com/ready-to-use-linen-waters-c-137_153.html">Linen Waters</a></li><li><a href="http://www.newdirectionsaromatics.com/ready-to-use-hair-care-c-137_157.html">Hair Care</a></li><li><a href="http://www.newdirectionsaromatics.com/ready-to-use-skin-care-c-137_158.html">Skin Care</a></li><li><a href="http://www.newdirectionsaromatics.com/ready-to-use-mom-baby-care-c-137_174.html">Mom &amp; Baby Care</a></li><li><a href="http://www.newdirectionsaromatics.com/ready-to-use-bath-c-137_156.html">Bath</a></li><li><a href="http://www.newdirectionsaromatics.com/ready-to-use-candles-c-137_155.html">Candles</a></li><li><a href="http://www.newdirectionsaromatics.com/ready-to-use-gift-baskets-c-137_159.html" class="last_link">Gift Baskets</a></li></ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 
