@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the heavytruckparts.net privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502204138id_/http%3A//www.heavytruckparts.net/priv_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heavytruckparts.net privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330174656id_/http%3A//www.heavytruckparts.net/priv_policy.php) for the most accurate reproduction.*
 
 # HeavyTruckParts.Net Privacy Policy
+
+Privacy Policy for HeavyTruckParts.Net  
+_________________________________________________
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [info@heavytruckparts.net](mailto:info@heavytruckparts.net). 
 
