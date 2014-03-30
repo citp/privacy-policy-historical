@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exoticindiaart.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214034900id_/http%3A//www.exoticindiaart.com/privacy_policy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exoticindiaart.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330175626id_/http%3A//www.exoticindiaart.com/privacy_policy.php3) for the most accurate reproduction.*
 
 # Indian Artwork - Gold Jewelry Paintings and Buddha Statues - Exotic India Art
 
@@ -6,9 +6,9 @@
 
 Indian Arts and Crafts LLC dba Exotic India has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website: www.exoticindiaart.com
 
-Indian Arts and Crafts LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
+Indian Arts and Crafts LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.exoticindiaart.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
-If you have questions or concerns regarding this statement, you should first contact Dr. S. K. Verma at privacy@exoticindiaart.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+If you have questions or concerns regarding this statement, you should first contact Dr. S. K. Verma at privacy@exoticindiaart.com. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 ##  ** _Registration_**
 
@@ -34,9 +34,9 @@ If you wish to subscribe to our newsletter, we will use your name and email addr
 
 If you click on a link to a third party site, including on an advertisement, you will leave the www.exoticindiaart.com site you are visiting and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as www.exoticindiaart.com. We encourage you to review the privacy statements of any other service provider from whom you request services. If you visit a third party website that is linked to an www.exoticindiaart.com site, you should read that site’s privacy statement before providing any personally identifiable information.
 
-###  **Exoticindiaart.com does not share, sell, rent or trade your personal information with third parties other than as described within this privacy policy.**
+###  **Exoticindiaart.com does not share, sell, rent or trade your personal information with third parties other than as described within this privacy statement.**
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. If we are involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information
 
 **Agents/Service Providers**  
 We use other third parties such as a shipping company to fulfill orders, and a credit card processing company to bill you for goods and services, we will share (such as your shipping address, phone number, or email) as necessary for the third party to provide that service.
@@ -76,8 +76,8 @@ This site gives users the following options for removing their information from 
 
 
 
-**Correct/Update**  
-If your personally identifiable information changes, or if you no longer desire our service, you may correct or update it by making the change within the “My Account” section of the site once you have logged in or by emailing our Customer Support at [info@exoticindiaart.com](mailto:info@exoticindiaart.com). We will respond to your access request within 30 days.
+**Correct/Update/Delete/Remove**  
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, delete/remove or update it by making the change within the “My Account” section of the site once you have logged in or by emailing our Customer Support at [info@exoticindiaart.com](mailto:info@exoticindiaart.com). We will respond to your access request within 30 days.
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer user your information to provide you services contact us at info@exoticindia.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.   
 **Customer Testimonials/Comments**  
@@ -89,14 +89,18 @@ If you choose to use our referral service to tell a friend or choose to send you
 Your friend may contact us at unsubscribe@exoticindiaart.com to request that we remove this information from our database.
 
 **Social Media (Features) and Widgets**  
-Our Web site includes Social Media Features, such as the Facebook recommend button, Google+ recommend button, and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.   
+Our Web site includes Social Media Features, such as the Facebook recommend button, Google+ recommend button, and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy statement of the company providing it.
+
+**Single Sign-On**  
+You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+
 **Gift Voucher**  
-If you purchase a gift voucher from us we will collect the recipient’s name, email address and the gift voucher value. Once you purchase the voucher we will send your friend a one time email that contains their gift voucher. We store their information for the purpose of tracking the success of the gift voucher program and to ensure that the gift voucher has been delivered.
+If you purchase a gift voucher from us we will collect the recipient’s name, email address and the gift voucher value. Once you purchase the voucher we will send your friend a one time email that contains their gift voucher. We store their information for the purpose of tracking the success of the gift voucher program and to ensure that the gift voucher has been delivered. Your friend may contact us at unsubscribe@exoticindiaart.com to request that we remove this information from our database.
 
 **Changes in this Privacy Statement**  
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+If we decide to change our privacy statement, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this statement, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective.
 
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
@@ -105,4 +109,4 @@ Kapil Goel Exotic India Art Dot Com Pvt Ltd. 63 Model Basti New Delhi 110005 **T
 
 [privacy@exoticindiaart.com](mailto:privacy@)
 
-Last Updated on December 8, 2011
+Last Updated on December 30, 2013
