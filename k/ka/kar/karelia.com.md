@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the karelia.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126061940id_/http%3A//www.karelia.com/company/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karelia.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330235108id_/http%3A//www.karelia.com/company/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Karelia Software
 
-This policy addresses how Biophony LLC, a California limited liability company doing business as Karelia Software, (“Biophony,” “Karelia,” “we,” “us,” or “our”) and its affiliated products, web sites, and services (including but not limited to www.karelia.com, and referred to as “Karelia Products, Sites, and Services”) treat personal information that we collect and receive. Personal information is generally defined as information about you that is personally identifiable (such as your name, address, email address, or phone number) and that is not otherwise publicly available.
+This policy addresses how Karelia Software LLC, a California limited liability company, (“Karelia,” “we,” “us,” or “our”) and its affiliated products, web sites, and services (including but not limited to www.karelia.com, and referred to as “Karelia Products, Sites, and Services”) treat personal information that we collect and receive. Personal information is generally defined as information about you that is personally identifiable (such as your name, address, email address, or phone number) and that is not otherwise publicly available.
 
 This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage.
 
@@ -44,6 +44,10 @@ Karelia Products, Sites, and Services may share personally identifiable informat
 
 As we continue to develop our business, we may also sell all or part of our business. In such transactions, personally identifiable information you have shared with us is generally one of the business assets that will be transferred. The transferred personally identifiable information will remain subject to the promises made in this privacy policy or subsequent policies to which you have consented.
 
+ **Do Not Track**
+
+Our websites do not track your online activities over time and across third-party Web sites.  Because we do not employ tracking technology, we offer no response to “Do Not Track” requests transmitted by Web browsers.
+
 **Children and Their Information**
 
 We do not, at present, collect any personally identifying information from children or from individuals who could be recognized as minors. If we do so in the future, we will comply with the requirements of the Children’s Online Privacy Protection Act (“COPPA”).
@@ -66,9 +70,9 @@ If you have a privacy concern regarding any Karelia Product, Site, or Service, o
 
 Karelia Software  
 Attention: Privacy Matters   
-2450 N Lake Ave, Ste 336  
-Altadena, CA 91001
+530 S Lake Ave, Ste 559  
+Pasadena, CA 91101
 
 If you object to any sharing of your personal information that may be permitted under this policy, you may do so by writing us at the above address. We will take reasonable steps to accommodate your requests as they relate to our practices. In some instances, honoring your requests may interfere with or preclude your ability to use Karelia Products, Sites, and Services or may require us to terminate our relationship with you.
 
-Effective Date: December 19, 2005; amended May 20, 2012
+Effective Date: December 19, 2005; amended January 8, 2014
