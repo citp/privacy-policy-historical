@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mumudesign.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116190556id_/http%3A//www.mumudesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mumudesign.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330174431id_/http%3A//www.mumudesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : www.mumudesign.com
 
 ## Privacy Policy
 
-## [Home](http://www.mumudesign.com/ "Back to home page")  /  [Privacy and Policy](http://www.mumudesign.com/sitemap "Sitemap")
+## [Home](http://www.mumudesign.com/ "Back to home page")  /  [Privacy and Policy](http://www.mumudesign.com/privacy-policy/ "Privacy And Policy")
 
  **PLEASE READ THIS CAREFULLY**
 
