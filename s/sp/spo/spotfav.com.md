@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spotfav.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010133402id_/http%3A//www.spotfav.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotfav.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330232025id_/http%3A//www.spotfav.com/privacy) for the most accurate reproduction.*
 
 # Spotfav, check before you go
 
