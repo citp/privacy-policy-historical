@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xxxymovies.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009230127id_/http%3A//www.xxxymovies.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxymovies.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330235342id_/http%3A//www.xxxymovies.com/privacy.html) for the most accurate reproduction.*
 
-# XXX Movies - Privacy policy
+# Privacy Policy for XXXYMovies.com
 
   * 
 
@@ -42,10 +42,10 @@ Last Modified: February 14, 2012
 
 All new XXX Movies version 4.0! 
 
-The all new XXXYMovies.com is here and we're providing an even better selection of 100% free porn movies and movies of the hottest babes. We have thousands of full length free porn movie DVD's. Hardcore sex to soft core sex and everything in between you can find free at XXXYMovies.com. Stop searching and get into some free porno movie and watch free sex movies. 
+The all new XXXYMovies.com is here and we're providing an even better selection of 100% free porn movies and sexx videos of the hottest and sexiest babes online. We also have thousands of free full length porn DVD's. Hardcore sex to soft core sex and everything in between you can find free at XXXYMovies.com. Stop searching and get into enjoying some of the best free porn movies and free xxx sex videos in High Definition quality. 
 
-XXXYMovies.com is the home of free porn. With thousands of full length dvd's theres tons and tons of free sex movies that are available to watch 24/7. With so much free porn to enjoy watch hot naked babes fuck and get fucked on camera. Join our community and upload your own amateur sex movies for all to see and enjoy. Get wild and nasty in your homemade amateur porn movies and get everyone to watch. There's everything from blonde to asian to mature sluts to teen sex and its available on XXXYMovies.com. 
+XXXYMovies.com is the home of free porn. With thousands of full length dvd's theres tons and tons of free sex movies that are available to watch 24/7. With so much free porn to enjoy you can watch hot naked babes fucking and get fucked on camera. Join our community and upload your own amateur sex movies for all to see and enjoy. Get wild and nasty in your homemade amateur porn movies and get everyone to watch. There's everything from blonde to asian to mature sluts to teen sex and its all available on XXXYMovies.com. Bookmark our site and come back for daily updated porn porn movies and sex videos. 
 
 Questions/Comments/Suggestions are important to us. 
 
-Friendly sites:   [Cum Shots](http://www.cum.com/)   |   [Hentai Porn](http://hentaistream.com/)   |   [Porn Movies](http://www.3movs.com/)   |   [XXX Tube8 Movies](http://www.tube8.com/search.html?q=xxx)  
+Friendly sites:   [Hentai Porn](http://hentaistream.com/)   |   [Porn Movies](http://www.3movs.com/)   |   [XXX Tube8 Movies](http://www.tube8.com/search.html?q=xxx)  
