@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dominos.co.in privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812033310id_/http%3A//www.dominos.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominos.co.in privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330222453id_/http%3A//www.dominos.co.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Dominos India
 
   * [LOCATION](http://www.dominos.co.in/locator)
   * [GIFT VOUCHERS](http://www.dominos.co.in/great-deals/gift-vouchers)
@@ -10,8 +10,6 @@
   * [ADS](http://www.dominos.co.in/advertisement)
 
 
-
-[Home](http://www.dominos.co.in/)Privacy policy
 
 Welcome At Domino's we recognize that privacy is important!!
 
