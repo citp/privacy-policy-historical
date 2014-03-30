@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singaporegp.sg privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207061606id_/http%3A//singaporegp.sg/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singaporegp.sg privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330232216id_/http%3A//www.singaporegp.sg/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Singapore Grand Prix
 
