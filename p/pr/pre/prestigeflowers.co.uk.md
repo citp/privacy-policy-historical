@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prestigeflowers.co.uk privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016210805id_/http%3A//www.prestigeflowers.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prestigeflowers.co.uk privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330230859id_/http%3A//www.prestigeflowers.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy at Prestige Flowers
+# Privacy | FREE Chocolates | Prestige Flowers
 
 We at Prestige Flowers are committed to preserving the privacy of all visitors to our website at . Please read the following privacy policy to understand how we use and protect the information that you provide to us.   
 By registering or placing an order on this website, you consent to the collection, use and transfer of your information under the terms of this policy. 
