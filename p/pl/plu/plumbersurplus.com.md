@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the plumbersurplus.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014184523id_/http%3A//www.plumbersurplus.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plumbersurplus.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330231020id_/http%3A//www.plumbersurplus.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy at PlumberSurplus.com
-
-[](https://web.archive.org/Thousandsshipfreedaily.aspx)
-
-[Home](https://web.archive.org/) > **Privacy Policy**
 
 #### Overview
 
@@ -12,10 +8,10 @@ Our web site allows you to buy products and services, enter contests, receive sp
 
 Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you online. For some services, we either collect and transfer personal information to a service provider you have selected, or you may visit other merchants through links on our site who may collect and use your personal information. We encourage you to ask questions and to be very cautious before you disclose your personal information to others.
 
-Questions regarding this Policy should be directed to [info@PlumberSurplus.com](mailto:info@PlumberSurplus.com) or may also be contacted directly at the following address::
+Questions regarding this Policy should be directed to [info@PlumberSurplus.com](mailto:info@PlumberSurplus.com) or may be mailed directly to the following address:
 
 Privacy Compliance Officer  
-PlumberSurplus.com,   
+[](http://secure.trust-guard.com/privacy/6069) PlumberSurplus.com,   
 P.O. Box 4786  
 Riverside, CA 92514 
 
@@ -64,6 +60,9 @@ We use a third party to help us provide customer service. In order to help you m
 
 **Advertising**  
 We may display advertisements on our site. By knowing a little about you, PlumberSurplus.com will be able to deliver more relevant advertisements and content to you in the form of targeted banners and promotions. For example, advertisers give us an advertisement and tell us the type of audience they want to reach (e.g., buyers of faucets). PlumberSurplus.com takes the advertisement and includes it in a PlumberSurplus.com e-mail to prior customers meeting that criterion. We may also have third-party advertising servers display ads linked to certain search terms that you have entered, or to certain pages that you are viewing. In this process, advertisers never have access to individual account information. Additionally, PlumberSurplus.com may share aggregated data with advertisers.
+
+
+
 
 We also track customers' traffic patterns throughout their online session, including which pages, information and advertisements a customer views while using the site and what items they place in their basket or purchase. We use your IP address to diagnose problems with our servers, software, to administer our site and to gather demographic information.
 
@@ -115,7 +114,7 @@ Ad Servers and other Content Servers: You may also set your browser so that it w
 
 In order to most efficiently serve you, credit card transactions and order fulfillment are handled by established third party banking, processing agents and distribution institutions. They receive the information needed to verify and authorize your credit card or other payment information and to process and ship your order.
 
-When you access your account information, the information is kept on a secure server. All of the customer data we collect is protected against unauthorized access by physical security means.
+When you access your account information, the information is kept on a secure server. All of the customer data we collect is protected against unauthorized access by physical security means. 
 
 #### A special note about children's privacy
 
