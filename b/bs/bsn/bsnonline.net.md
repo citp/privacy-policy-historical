@@ -1,30 +1,49 @@
-> *The following text is extracted and transformed from the bsnonline.net privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807102913id_/http%3A//www.bsnonline.net/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsnonline.net privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330092831id_/http%3A//www.bsnonline.net/policy.html) for the most accurate reproduction.*
 
 # BSN® - Privacy Policy
 
-BSNonline.net knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly.
+Your privacy is important to us. This Privacy Policy describes how we may collect, use, and disclose information provided by you while using the Site. Please take a moment to familiarize yourself with our privacy practices. We may amend this Privacy Policy from time to time by updating this page, so please check this page periodically to ensure that you are informed about any changes that we implement.
 
-This notice describes our privacy policy. By visiting BSNonline.net, you are accepting the practices described in this Privacy Notice and our Conditions of Use.
+## COLLECTION AND USE OF PERSONAL INFORMATION
 
-The information we learn from customers helps us personalize and continually improve your shopping experience at BSNonline.net.
+Personal information is data that can be used to uniquely identify or contact a single person. You may be asked to provide your personal information any time you are in contact with us or our affiliates. We may share this personal information with our affiliates and use it consistent with this Privacy Policy. 
 
-Here are the types of information we gather. 
+Here are some examples of the types of personal information that we collect and how we may use it:
 
-  * **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our website, and communicating with you.
-  * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses BSNonline.net. Although we will not be able to provide you with a personalized experience at BSNonline.net if we cannot recognize you, we want you to be aware that these tools exist.
-  * **E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from BSNonline.net if your computer supports such capabilities.
-  * Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries of BSN, Inc.
-  * **Promotional Offers:** Sometimes we send offers to selected groups of BSNonline.net customers.
-  * **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that BSNonline.net, Inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
-  * **Protection of BSNonline.net and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of BSNonline.net, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
-  * With Your Consent: Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
-  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
-  * We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
-  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
-  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of certain BSNonline.net features.
+  * When you purchase a product through the Site, we may collect your name, email address, mailing address, phone number, and credit card token data, expiration date and billing name and address.
+  * The personal information that we collect allows us to keep you posted on our latest product announcements, promotions, special offers, and upcoming events. It also helps us improve our products, services, content, and advertising. If you do not want to be on our electronic mailing list, you can opt out any time. To do so, simply unsubscribe from emails via the unsubscribe link in each email you receive from us.
+  * From time to time, we may use your personal information to send important notices. Because this information is important to your interaction with us, you may not opt out of receiving these communications. 
+  * We also may use personal information for internal purposes such as audits, data analysis, and research to improve our products, services, and customer communications. 
+  * If you enter a sweepstake, contest, or similar promotion, we may use the information that you provide to administer those programs. The applicable terms and conditions are independent of this Privacy Policy.
 
 
 
-Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
+## COLLECTION AND USE OF NON-PERSONAL INFORMATION
 
-Last updated on July 11, 2007 © BSN®.
+Non-personal information is data in a form that does not permit direct association with any specific individual. As is true of most websites, we may store or track non-personal information, such as user Internet Protocol (IP) addresses, browser type and language, Internet Service Provider (ISP), referring and exit pages, and date/time stamp, for any purpose, such as to better understand user behavior and facilitate the effectiveness of our content and advertising. 
+
+## DISCLOSURE TO THIRD PARTIES
+
+At times, we may make certain personal information available to strategic partners that work with us to provide products and services, or that help us market to customers. Personal information will only be shared by us to provide or improve our products, services and advertising; it will not be shared with third parties for their marketing purposes.
+
+We also may disclose any information that we possess about you (including your identity) if we determine that such disclosure is necessary in connection with any investigation or complaint regarding your use of the Site, or to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, or the rights or property of visitors to or users of the Site, including our customers. We reserve the right at all times to disclose any information that we deem necessary to comply with any applicable law, regulation, legal process or governmental request. We also may disclose your information when we determine that applicable law requires or permits such disclosure, including exchanging information with other companies and organizations for fraud protection purposes, or if we determine that disclosure is reasonably necessary to enforce our [Terms Of Use](https://web.archive.org/policy_terms.html). Additionally, in the event that we undergo a corporate reorganization, merger, or sale, we may transfer any and all personal information that we collect to any third party involved in such transaction. 
+
+## PROTECTION OF PERSONAL INFORMATION
+
+The transmission of information via the Internet is not completely secure, and we cannot guarantee the security of your information transmitted to our Site; any such transmission is at your own risk. However, we take precautions – including administrative, technical, and physical measures – to safeguard your personal information against loss, theft, misuse, and unauthorized access, disclosure, alteration and destruction. We will continue to take such precautions for as long as we retain your personal information. 
+
+E-mail Security: "Phishing" is a scam designed to steal your personal information. If you receive an e-mail that looks like it is from us asking you for your personal information, do not respond. We will never request your password, user name, or credit card information. 
+
+## THIRD-PARTY SITES AND SERVICES
+
+The Site may contain links to third-party websites. Information collected by third parties, which may include such things as location data or demographic information, is governed by their privacy practices. We encourage you to learn about the privacy practices of those third parties because we are not responsible for the protection and privacy of any information that you provide while visiting third-party websites. 
+
+## COOKIES: DO NOT TRACK REQUESTS
+
+We use cookies and other persistent identifiers to enhance your experience and track information about visitors and visits to our Site. Cookies are small files that enable this Site’s or service provider’s systems to recognize your browser carry certain information. Customer’s may have the ability to have their personal computer warn them each time a cookie is set, or turn off cookies through their browser. Each browser is different, so look at your browser Help menu to learn the correct way to modify your cookies. Turning cookies off may interfere with the normal functionality of the site. 
+
+## OPT-OUT, REMOVE OR MODIFY INFORMATION
+
+To modify your e-mail subscription, please unsubscribe from emails via the unsubscribe link in each email. Please note, we maintain information about individual sales transactions in order to service that transaction and for recordkeeping.
+
+Last Updated: March 13, 2014
