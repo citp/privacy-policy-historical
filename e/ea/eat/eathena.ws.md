@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eathena.ws privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819233222id_/http%3A//eathena.ws/forum/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eathena.ws privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330213551id_/http%3A//eathena.ws/forum/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - eAthena Support Board
 
