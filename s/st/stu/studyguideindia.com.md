@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studyguideindia.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219191445id_/http%3A//www.studyguideindia.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyguideindia.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330063729id_/http%3A//www.studyguideindia.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Studyguideindia - Privacy Policy
 
