@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the insta-member.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026165707id_/http%3A//insta-member.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insta-member.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330054805id_/http%3A//insta-member.com/launch/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | InstaMember
+# InstaMember - Privacy Policy
 
-This Privacy Policy governs the manner in which InstaMember collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://Insta-Member.com website (“Site”). This privacy policy applies to the Site and all products and services offered by InstaMember.
+ This Privacy Policy governs the manner in which InstaMember collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://Insta-Member.com website (“Site”). This privacy policy applies to the Site and all products and services offered by InstaMember.
 
 ### Personal identification information
 
@@ -68,3 +68,6 @@ Suzanna Theresia
 Singapore 489142
 
 This document was last updated on 15 June, 2013
+
+  
+
