@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the cfmc.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924020949id_/http%3A//www.cfmc.com/about-us/contact-us/cfmc-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfmc.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330180210id_/http%3A//www.cfmc.com/about-us/contact-us/cfmc-privacy-policy) for the most accurate reproduction.*
 
-# CfMC Privacy Policy | CfMC Research Software
+# CfMC Privacy Policy - When Quota Matters
+
+**[](http://www.cfmc.com/)**
+
+  * [](http://twitter.com/#!/CfMC_Solutions "Twitter")
+  * [](https://www.facebook.com/groups/44886116047/ "Facebook")
+  * [](http://www.linkedin.com/company/cfmc "Linkedin")
+  * [](http://www.cfmc.com/feed/rss/ "Rss")
+
+
 
 **Computers for Marketing Corporation (CfMC)  **([www.cfmc.com](http://www.cfmc.com/) and surveys.cfmc.com) is a world-class market research solutions provider conducting research project with participants from around the globe. CfMC respects your privacy and constantly works to ensure the information provided to us via survey technology remains safe and secure.
 
