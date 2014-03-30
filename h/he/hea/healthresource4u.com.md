@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthresource4u.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815214128id_/http%3A//www.healthresource4u.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthresource4u.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330095810id_/http%3A//www.healthresource4u.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,6 +11,8 @@ Google’s use of the DoubleClick DART Cookie enables it to serve ads to your us
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+
+www.healthresource4u.com uses Google Analytics Demographics and Interest Reporting. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using Google’s [Ad Settings](https://www.google.com/settings/ads) page. Users can completely block Google Analytics tracking using [Google’s Analytics Opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
 
 You can find additional information in Appendix A of the NAI Self-Regulatory principles for publishers (PDF). Please note that the NAI may change this sample language at any time.
 
