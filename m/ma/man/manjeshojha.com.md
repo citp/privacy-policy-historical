@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manjeshojha.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806093433id_/https%3A//www.manjeshojha.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manjeshojha.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330214423id_/https%3A//www.manjeshojha.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy ← Manjesh Ojha
 
