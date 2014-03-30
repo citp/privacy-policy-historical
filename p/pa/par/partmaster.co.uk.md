@@ -1,75 +1,157 @@
-> *The following text is extracted and transformed from the partmaster.co.uk privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921075956id_/http%3A//www.partmaster.co.uk/cgi-bin/static.pl%3Fcontent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partmaster.co.uk privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331015405id_/http%3A//www.partmaster.co.uk/payment-security/help.pl) for the most accurate reproduction.*
 
-# Spares, Spare Parts & Accessories - Currys Partmaster.co.uk
+# Terms & Conditions
 
-| 
+## Payment & Security
 
-|   
----  
-  
-|   
----  
-  
-In this Privacy Policy references to "we" and "us" are to DSG Retail Limited trading as partmaster.co.uk, Dixons, Curry's Digital, Currys, PC World and Knowhow company number 504877, registered office Maylands Avenue, Hemel Hempstead, Hertfordshire HP2 7TG, VAT number: 226 6599 33 and to our appointed agent for the operation of partmaster.co.uk, Connect Distribution Services Limited, company number 3004798, registered office Connect House, Talbot Way, Small Heath, Birmingham, West Midlands B10 0HJ, VAT number: GB 655 1290 41.  
-  
-   
-  
-**What information we collect and how**  
-  
-The information we collect via this website may include: 
+We want your experience of partmaster to be convenient and secure. We offer a variety of payment options and use industry standard security measures to keep your data and details safe. More details can be found below.
 
-(1) Any personal details you type in and submit, such as name, address, email address, etc.
+  * View Site Use policy
 
-(2) Data which allows us to recognise you, your preferences and how you use this website. This saves you from re-entering information when you return to the site. This data is collected by cookies from your navigation around the site. A cookie is a small amount of data which we send to your computer. The data is then stored on your browser or hard disk. Most web browsers can be set to prevent you from receiving new cookies, notify you before accepting cookies or to disable cookies altogether. Details about this can normally be found in the Help facility provided with your browser. If you disable cookies, the site will not operate correctly on your computer. The cookies store information only for as long as you are viewing the website. To find out what cookies we use and why we use them [click here](http://www.partmaster.co.uk/cgi-bin/static.pl?content=cookies "View Cookies"). 
+© DSG Retail Limited and/or Connect Distribution Services Limited
 
-(3) Your IP address (this is your computer’s individual identification number) which is automatically logged by our web server. This is used to note your interest in our website.
+The contents of this website are variously the copyright of DSG Retail Limited, Connect Distribution Services Limited or other copyright owners and are protected by copyright law. All brand names and product names used on this site are registered trade marks or trade names of their respective holders. You may read and print only the material contained on this website solely for personal and non-commercial use.
 
-(4) Your preferences and use of email updates, recorded by emails we send you (if you select to receive email updates on products and offers).  
-  
-   
-  
-**What we do with your information?**  
-  
-Any personal information we collect from you will be used in accordance with the Data Protection Act 1998 and other applicable laws. The details we collect will be used:- 
+You agree not to adapt, alter or create any derivative work from any material on this site, or to restrict or inhibit the use or enjoyment of this site by anyone else.
 
-(1) to process your order, to maintain guarantee records and to provide after-sales service (we may pass your details to another organisation to supply/deliver products or services you have purchased and/or to provide after-sales service);
+It is not permitted to create any link to or from this web site without prior written consent.
 
-(2) to carry out security checks (this may involve passing your details to Experian Limited, or another credit reference agency, who will check details we give them against public and private databases and may keep a record of that check to use in future security checks - this helps to protect you and us from fraudulent transactions); and
+By using this website you agree not to intentionally misuse it. This website may contain hyperlinks to other websites completely unrelated to us; we are not responsible for the content or practices of such websites. Service on this website may be interrupted occasionally and errors may occur. Use of this website is governed by English law and you submit to the exclusive jurisdiction of the courts in England.
 
-(3) to comply with legal requirements 
+We try very hard to ensure that all information on this site is accurate. However, just occasionally, an error can occur. If we discover an error in the price or description of a product you have ordered, we will tell you and ask you whether you wish to continue with your order or cancel it.
+
+##### Use of Website Content
+
+You may read and print only the material contained on this website solely for personal and non-commercial use. You are not permitted to publish, store, transmit, show or play in public, change or adapt the content of this website in any way for any purpose whatsoever. Any content found to be being used for commercial use such as images or video will be subject to a minimum charge of £500 per item per month.
+
+You agree not to adapt, alter or create any derivative work from any material on this site, or to restrict or inhibit the use or enjoyment of this site by anyone else. It is not permitted to create any link to or from this website without prior written consent.
+
+  * View Privacy Policy
+
+Any personal information we collect from you will be used in accordance with the Data Protection Act 1998 and other applicable laws. The details we collect will be used:-
+
+    1. to process your order, to maintain guarantee records and to provide after-sales service (we may pass your details to another organisation to supply/deliver products or services you have purchased and/or to provide after-sales service);
+    2. to carry out security checks (this may involve passing your details to Experian Limited, or another credit reference agency, who will check details we give them against public and private databases and may keep a record of that check to use in future security checks - this helps to protect you and us from fraudulent transactions); and
+    3. to comply with legal requirements
 
 Partmaster is a subsidiary of DSG international plc and we may need to pass the information we collect to other companies within our group for administrative purposes. We may use third parties to carry out certain activities, such as processing and sorting data, monitoring how customers use our site and issuing our emails for us.
 
-Partmaster would also like to inform you of various promotions, goods and services that may be of interest to you. These would come from any of our chains, including partmaster.co.uk, Dixons, Currys Digital, Currys and PC World, from our affiliates including Knowhow, or from carefully selected third parties. You may be contacted by post, email, telephone, SMS or such other means as we regard as appropriate, including new technology. If you wish to receive these communications, please tick the "Yes" box when entering your personal details. You may unsubscribe at a later date, if you wish - see "Your rights" section below.  
-  
-   
-  
-(1) You can ask us to update your personal information by emailing precise details of your request to [privacy@partmaster.co.uk](mailto:privacy@partmaster.co.uk). Please ensure you type "update" in the subject line of your email.
+Partmaster would also like to inform you of various promotions, goods and services that may be of interest to you. These would come from any of our chains, including partmaster.co.uk, Dixons, Currys Digital, Currys and PC World, from our affiliates including Knowhow, or from carefully selected third parties. You may be contacted by post, email, telephone, SMS or such other means as we regard as appropriate, including new technology. If you wish to receive these communications, please tick the "Yes" box when entering your personal details. You may unsubscribe at a later date, if you wish - see "Your rights" section below.
 
-(2) You can ask us not to send you future marketing communications. To do this, simply email [privacy@partmaster.co.uk](mailto:privacy@partmaster.co.uk). Type "No Marketing" in the subject line and then the following in the main text:- 
-
-  * your full name 
-  * your postal address, including postcode 
-  * your email address 
-
-
+    1. You can ask us to update your personal information by emailing precise details of your request to [privacy@partmaster.co.uk](mailto:privacy@partmaster.co.uk "privacy@partmaster.co.uk"). Please ensure you type "update" in the subject line of your email.
+    2. You can ask us not to send you future marketing communications. To do this, simply email [privacy@partmaster.co.uk](mailto:privacy@partmaster.co.uk "privacy@partmaster.co.uk"). Type "No Marketing" in the subject line and then the following in the main text:- 
+      * your full name
+      * your postal address, including postcode
+      * your email address
 
 We will then suppress your data from all direct marketing, although we will still keep it for processing your order and fulfilling customer service and after sale obligations.
 
 Alternatively, you can post your request to the address in (3) below.
 
-(3) You also have the right to request a copy of any personal information we hold about you. To do this, simply write to us at the following address, enclosing a cheque for £10 payable to DSG Retail Limited to cover our administration costs:-
+    3. You also have the right to request a copy of any personal information we hold about you. To do this, simply write to us at the following address, enclosing a cheque for £10 payable to DSG Retail Limited to cover our administration costs:-
 
-Customer Services (Data Subject Request)   
+Customer Services (Data Subject Request)  
 DSG Retail Limited  
 Maylands Avenue  
 Hemel Hempstead  
 Herts  
-HP2 7TG  
-  
-   
-  
-This privacy policy only covers this website. Any other websites which may be linked to by our website are subject to their own policy, which may differ from ours.  
-  
-  
+HP2 7TG
+
+  * View Secure Shopping
+
+We recognise the importance of security regarding credit card information you send us over the Internet. We take all the necessary precautions to protect our customers' personal information and to store it securely. You can check that you are shopping in a secure environment by looking for a locked padlock icon (Internet Explorer & Firefox) in the grey bar at the bottom of your screen. This will appear on any page where you are entering personal information (such as your credit card details) – no other page will transmit information about you.
+
+Sensitive information that is transmitted to us online (such as credit card numbers) are encrypted and transmitted to us securely. In addition, access to all of our users' information, not just the sensitive information mentioned above, is restricted. Also, the servers on which we store personally identifiable information are kept in a secure environment.
+
+At partmaster.co.uk we utilise the industry-standard Secure Sockets Layer (SSL) technology to encrypt all your personal information including debit or credit card numbers, name and address. The encryption process takes the characters you enter and converts them into bits of code that are then securely transmitted over the Internet.
+
+Other than when we process your original payment or process a refund for you, your credit card details are displayed in a truncated form with only the first 4 digits and the last 4 digits visible. For example your receipt will print a partial credit card number in this way. This means that you will be able to check which card payment was taken against, but in the unlikely event of your parcel being stolen, your full credit card number would not be revealed.
+
+In order to help safeguard unauthorised use of your credit or debit card we check the security code located above the magnetic strip on the back of your card and also the address provided on the order with the address set against the card. This means that you can be rest assured that partmaster.co.uk takes all the necessary steps to ensure shopping with us is safe.
+
+Should you wish to speak to us about a previously confirmed order, our staff will never ask you to quote your full credit card.
+
+At the point in the order process where you enter your card details our e-commerce system will request confirmation that the details provided are correct as explained in the sections above.
+
+Most banks now include the Verified by Visa and MasterCard® SecureCode™ virtual 'card present' environment. These are additional security systems which may appear as part of the final stages of the ordering phase.
+
+Should your bank use one of the above systems you will be prompted to enter a password or code in order to proceed. The web page which prompts for this information is provided by your bank where you use a Visa or Mastercard® credit or debit card. The information transmitted from this page is between you and your bank and is in no way used or processed by us. As soon as the card/password is verified you will be returned to our web site to complete your order.
+
+At the point at which this page displays, one of two things will happen. You will be prompted to enrol in the respective cards scheme, where you have not already done so (you will be prompted to create a password or code as part of the enrolment process), alternatively you will be prompted for your password if already enrolled.
+
+Customers can contact or visit their banks website for more information and to enrol independently of this or any other web site.
+
+##### MasterCard®SecureCode™ Explained
+
+MasterCard®SecureCode™ is a simple and secure method of payment at online stores. You will have a private code known only to you and to your bank, your SecureCode™ enhances your existing MasterCard® account by protecting you against unauthorised use of your card when shopping online at participating online retailers.
+
+Every time you pay online at participating retailers, you will be automatically prompted to enter your own private SecureCode™ - just like entering a PIN at a cash machine. In seconds, you gain added protection while shopping online.
+
+For more information regarding MasterCard®SecureCode™ click on the image below
+
+[learn more](http://www.mastercard.com/us/business/en/corporate/securecode/sc_popup.html "click here")
+
+    1. Your IP address (this is your computer's individual identification number) which is automatically logged by our web server. This is used to note your interest in our website.
+    2. Your preferences and use of email updates, recorded by emails we send you (if you select to receive email updates on products and offers).
+
+##### Verified by Visa Explained
+
+Verified by Visa is a simple password-protected identity-checking service that takes the risk out of online shopping for both retailers and customers. Retailers are protected against fraudulent transactions and the costs associated with it, while customers can spend with confidence knowing that their payment details are safe.
+
+For more information regarding Verified by Visa click on the image below
+
+[learn more](http://www.visaeurope.com/en/cardholders/verified_by_visa.aspx "click here")
+
+  * View Payment Methods
+
+We take the following major credit and debit cards: Mastercard, Visa, Visa Delta, Maestro and Solo. Unfortunately we cannot accept cheques, cash or postal orders. We also cannot accept vouchers on this website.
+
+  * View Cookie Policy
+
+What are cookies? And why do we use them?
+
+There are lots of misconceptions about cookies and what they are for. At Partmaster we believe in being open, upfront and honest. In this section we briefly explain the cookie types we use and how they benefit your experience using the website.
+
+Cookies are used by almost all websites. They contain simple pieces of information and they are downloaded on to your pc when you visit the website. Cookies are not programs; they are simple text files that can be used by a website for various purposes. At Partmaster we use cookies to ensure our website works efficiently and also to observe visitor behaviour on our website during a session.
+
+All the information contained in our cookies is used to ensure the website works correctly, delivers the performance you expect and also to improve the overall experience we offer our visitors and customers. Some of the cookies we use are essential to the operation of the website.
+
+### We typically use cookies for the following purposes:
+
+    * To keep track of the items added to the basket 
+    * To help identify the order as a whole
+    * To view visitor behaviour and areas of the site visited
+    * To monitor and run advertising and marketing campaigns
+
+### Overview of the types of cookies used:
+
+**Essential**
+
+Essential cookies are technical cookies that are required for the operation of our site. Without essential cookies our sites can’t operate properly. Typically these cookies are used to support key functions such as the shopping basket and enhanced features like our sign-in accounts.
+
+**Performance**
+
+These cookies allow us to identify and count the number of visitors to our sites and to see how visitors are using the website. This helps us to improve the way our sites work and develop functionality to make shopping with us a more rewarding experience.
+
+**Marketing**
+
+Our site uses a range of cookies for marketing purposes. Marketing cookies record your visits to our sites, the pages you have visited and the links you have followed. We use this information to make our site and the advertising displayed on them more relevant to your interests. Sometimes we share anonymous information about your browsing activity recorded using cookies with our advertising partners. They may use this information to advertise products that may interest you on other sites. Please note we don’t share any of your personal or sensitive information.
+
+The use of cookies will not result in you receiving unsolicited emails. We understand that not everyone wants to receive marketing information. In order to receive marketing communications from us, you have to opt-in. This can be done during the checkout process or you can [sign up here](http://www.partmaster.co.uk/newsletter-signup.pl). You also have the option to unsubscribe from our email mailing list at any time.
+
+**Use of cookies & consent**
+
+As described above we, like most other websites, use cookies in the operation of our website. By using this website you are agreeing to the use of cookies for the purposes described. If you do not consent to the use of cookies, please refrain from using this site. Please note that you can delete any cookies used during this visit in your browser settings.  
+[Learn more about deleting cookies here](http://www.aboutcookies.org/Default.aspx?page=2)
+
+**Restricting cookie use**
+
+Please note that cookies can be restricted. Should you wish to restrict the use of cookies, you can adjust the settings in most popular internet browsers. However, by restricting cookies you may limit the use of some areas of the site.   
+[Learn more about restricting cookies here](http://www.aboutcookies.org/Default.aspx?page=1)
+
+**Data Protection**
+
+We take your privacy seriously and safeguard your data and personal information in compliance with the Data Protection act. For more information on how we use your data please read our [privacy policy](http://www.partmaster.co.uk/payment-security/help.pl).
+
+
 
