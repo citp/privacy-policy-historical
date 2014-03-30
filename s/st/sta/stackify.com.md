@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stackify.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508181044id_/http%3A//www.stackify.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stackify.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330220819id_/http%3A//www.stackify.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Stackify
+# Web Application Management Privacy Policy | Stackify
 
 ## Information that is gathered from visitors
 
