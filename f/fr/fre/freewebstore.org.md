@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freewebstore.org privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018082702id_/http%3A//www.freewebstore.org/website/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebstore.org privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330035034id_/http%3A//freewebstore.com/privacy.html) for the most accurate reproduction.*
 
-# FreeWebstore - Privacy Policy
+# Freewebstore Privacy Policy
 
 ## Privacy Policy Introduction
 
@@ -60,20 +60,23 @@ These terms and this disclaimer and any claim based on use of information from t
 
 ### **Consent and enquiries**
 
-By continuing to use this site and access the information on this website, you signal acceptance of the terms and disclaimer set out above. If you do not accept any of these terms, leave this website now. If you have any enquiry or concern about our privacy policy or the way in which we are handling personal data, please [contact us](http://www.freewebstore.org/website/contact.asp).
+By continuing to use this site and access the information on this website, you signal acceptance of the terms and disclaimer set out above. If you do not accept any of these terms, leave this website now. If you have any enquiry or concern about our privacy policy or the way in which we are handling personal data, please [contact us](https://web.archive.org/web/20140330035034id_/http%3A//freewebstore.com/contactv2.html).
 
-[ ](http://www.freewebstore.org/website/testimonials.html) [ ](http://www.freewebstore.org/website/features.html) [ ](http://help.freewebstore.com/) [ ](http://www.freewebstore.org/website/free_ecommerce_services.html) [ ](http://www.freewebstore.org/website/packages.html) [ ](http://www.freewebstore.org/website/ecommerce.html)
+[ ](https://web.archive.org/web/20140330035034id_/http%3A//freewebstore.com/testimonials.html) [ ](https://web.archive.org/web/20140330035034id_/http%3A//freewebstore.com/features.html) [ ](http://help.freewebstore.com/) [ ](https://web.archive.org/web/20140330035034id_/http%3A//freewebstore.com/free_ecommerce_services.html) [ ](https://web.archive.org/web/20140330035034id_/http%3A//freewebstore.com/packages.html) [ ](https://web.archive.org/web/20140330035034id_/http%3A//freewebstore.com/ecommerce.html)
 
-Enter your details below to sign up to the FreeWebstore Newsletter. 
+Enter your details below to sign up to the Freewebstore Newsletter. 
 
-"I opened my web store a couple of months ago and already I am receiving regular and substantial orders."  
-\- Lyn, [Lyn's Toy Shop](http://www.risuswholesale.co.uk/)
+"I have to say, all of you at this website are EXTREMELY helpful with customer support. I dont think I have EVER had such a pleasant experience as I have with you all at Freewebstore"  
+[HorrificFX.com](http://store.horrificfx.com/)
 
-"I must admit, I'm impressed! A big thumbs up for FreeWebstore and their support team, definitely a 5-star rating!"  
-\- Loco Store
+"It took me only 2 hours to create a store, it was easy to create. I am very impressed with your product."  
+\- Martin, [EmpowerSoul.com](http://store.empowersoul.com/)
 
-"What makes FreeWebstore so unique is the time and dedication they give to their customers. If you need some technical help, they're there to help."  
-\- [www.1st4buyers.co.uk](http://www.1st4buyers.co.uk/)
+"If you can't work out how to use the Freewebstore control panel I don't think you should own a computer !"  
+\- Alan, [Faze3](http://www.faze3.co.uk/)
 
-"Customer support is second-to-none. Questions are addressed in a friendly & speedy manner (usually same day!)"  
-\- Carl, [Focus Prints](http://www.focusprints.co.uk/)
+"You guys are truly amazing. Thanks for great service !"  
+\- Erik, [Sunnere-Sig.net](http://www.sunnere-sig.net/)
+
+"The software is easy to use as it is, but the few questions I have had have been fully answered in a very timely manner. I have been extremely impressed with your company and your support team."  
+\- Sarah, [SoapsBySarah.com](http://www.soapsbysarah.com/)
