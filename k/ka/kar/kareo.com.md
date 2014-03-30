@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the kareo.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221022733id_/http%3A//www.kareo.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kareo.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330051856id_/http%3A//www.kareo.com/terms/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Medical Billing Software - Kareo
+# Privacy Policy
 
 ## Protecting your privacy on our web site
 
 ### What this privacy policy covers
 
-This privacy policy pertains to the use of the Kareo web site at <http://www.kareo.com/>. This privacy policy covers how Kareo treats personal information that Kareo collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address or phone number. Children under 13 are not permitted to use the Kareo service, and so this privacy policy makes no provision for children's use of the site. 
+This privacy policy pertains to the use of the Kareo web site at [kareo.com](https://web.archive.org/). This privacy policy covers how Kareo treats personal information that Kareo collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address or phone number. Children under 13 are not permitted to use the Kareo service, and so this privacy policy makes no provision for children's use of the site. 
 
 [ ](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.kareo.com&sealid=101)
 
 Kareo is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact Kareo by emailing [privacy@kareo.com](mailto:privacy@kareo.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [ http://watchdog.truste.com/pvr.php?page=complaint&url=www.kareo.com](http://watchdog.truste.com/pvr.php?page=complaint&url=www.kareo.com). TRUSTe will then serve as a liaison with us to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact Kareo by emailing [privacy@kareo.com](mailto:privacy@kareo.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at their [Feedback and Resolution](http://watchdog.truste.com/pvr.php?page=complaint&url=www.kareo.com) page. TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 The TRUSTe program only covers information that is collected through this web site, and does not cover information that may be collected through any software downloaded from this web site. 
 
@@ -34,15 +34,18 @@ Kareo will send you strictly service-related announcements on rare occasions whe
 
 If you wish to subscribe to our newsletter, we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe by clicking on the link within the email. 
 
+If you sign up for Kareo Patient Portal and elect to use the online patient payment service, your transaction will be processed by Stripe, Inc., and the information you provide to Stripe is subject to its privacy policy. Your credit card number and billing information will not be accessible by Kareo. 
+
 **IP Addresses**
 
 IP Addresses are automatically reported by your browser each time you view a web page or use our service. Your IP address is not permanently stored in a way that is identified with your personal information. 
 
 IP addresses may be used for various purposes, including: 
 
-To diagnose or service technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP. 
+  * To diagnose or service technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP.
+  * To estimate the total number of users visiting Kareo from specific geographical regions.
 
-To estimate the total number of users visiting Kareo from specific geographical regions. 
+
 
 **Cookies**
 
@@ -54,7 +57,7 @@ Third parties also place browser plug-in cookies on our site, including Flash co
 
 When using the web site, you will never provide Kareo with Protected Health Information (PHI), nor will Kareo show any PHI. 
 
-###  Information sharing and disclosure 
+### Information sharing and disclosure
 
 Kareo may be required to disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Kareo Terms of Service. 
 
@@ -72,41 +75,41 @@ We will transfer information about you if Kareo is acquired by or merged with an
 
 We use other third parties such as a chat service provider to provide customer service to you, and a credit card processing company to bill you for goods and services, an email service provider to send out emails on our behalf. When you sign up for these services, we will specify what personally identifiable information is being shared as necessary for the third party to provide that service. 
 
-###  Accessing, updating, or correcting your personal information 
+### Accessing, updating, or correcting your personal information
 
 If your personally identifiable information changes, or if you no longer desire our service, you may correct it by contacting us by telephone or postal mail at the contact information listed below. 
 
-###  Security 
+### Security
 
 The security of your personal information is important to us. When you enter sensitive information such as credit card number on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). 
 
 We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
-###  Customer testimonials, comments and reviews 
+### Customer testimonials, comments and reviews
 
 We post customer testimonials, comments and reviews on our web site which may contain personal information. These testimonials are publicly available from a partner site and we post them on our policy. We do obtain the customer's consent to post their name along with their testimonial via email prior to posting the testimonial. 
 
 You should be aware that any personal information you submit on blogs on this site and others can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these forums. 
 
-###  Links to other sites 
+### Links to other sites
 
 If you click on a link to a third party site, you will leave this site and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as us. We encourage you to review the privacy statements of any other service provider from whom you request services. 
 
-###  Changes to this privacy policy 
+### Changes to this privacy policy
 
 Kareo may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will send a notice to the contact email address specified in your company's Kareo account or by placing a prominent notice on the home page of our site. 
 
-###  Questions 
+### Questions
 
 If you have questions or suggestions you can contact us at: 
 
 Kareo Support - Privacy Policy  
-111 Academy Drive, Suite 150  
-Irvine, CA 92617  
+3353 Michelson Suite 400  
+Irvine, CA 92612  
 Phone: 888-775-2736  
 Email: [privacy@kareo.com](mailto:privacy@kareo.com)  
 
 
-###  Last Updated 
+### Last Updated
 
-This policy was last updated on May 25, 2010. 
+This policy was last updated on August 8, 2013.
