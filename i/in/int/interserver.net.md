@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interserver.net privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821224243id_/http%3A//www.interserver.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interserver.net privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331000603id_/https%3A//interserver.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Interserver Privacy Policy
 
@@ -11,7 +11,7 @@ This is the web site of InterServer, Inc.
 110 Meadowlands Pkwy   
 Secaucus, NJ   
 We can be reached via e-mail at support@interserver.net  
-or you can reach us by telephone at 877-566-8398  
+or you can reach us by telephone at 877-NJ-COLO-1  
 
 
 For each visitor to our Web page, our Web server automatically recognizes computer hostname and ip address.
@@ -29,5 +29,7 @@ Persons who supply us with their telephone numbers on-line will only receive tel
 Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, communications that the consumer/visitor has directed to the site. Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number. 
 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site. 
+
+Interserver, Inc complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Interserver, Inc has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Interserver's certification, please visit http://www.export.gov/safeharbor/ 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at http://www.ftc.gov/ftc/complaint.htm. 
