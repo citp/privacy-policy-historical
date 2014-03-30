@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the upgradedself.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129082949id_/http%3A//www.upgradedself.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upgradedself.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330132646id_/http%3A//www.upgradedself.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - Upgraded Self
 
 Privacy Policy
 
-Your privacy is very important to us. Better Baby, LLC is committed to respecting the privacy of the members and visitors this website. We reserve the right to change this policy, which we'll do through online posting. We are very careful with what we do with your information.
+Your privacy is very important to us. Bulletproof Nutrition, Inc., is committed to respecting the privacy of the members and visitors this website. We reserve the right to change this policy, which we'll do through online posting. We are very careful with what we do with your information.
 
 The purpose of this privacy policy is to inform you what personally identifiable information or personal information we may collect from you when you visit this website, how we use such information, and the choices you have regarding our use of, and your ability to review and correct, the information.
 
@@ -24,11 +24,11 @@ We may provide your personal information to companies that provide services to h
 
 ### We may also disclose your personal information:
 
-As required by law such as to comply with a subpoena, or similar legal process When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, detect or investigate fraud, or respond to a government request To any other third party with your prior consent to do so If Better Baby, LLC engages in a joint promotion with an affiliate and/or partner, we may share your contact information with our affiliate and/or partner, to be used in relation to the promotion.
+As required by law such as to comply with a subpoena, or similar legal process When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, detect or investigate fraud, or respond to a government request To any other third party with your prior consent to do so If Bulletproof Nutrition, Inc., engages in a joint promotion with an affiliate and/or partner, we may share your contact information with our affiliate and/or partner, to be used in relation to the promotion.
 
 We may share non-personal information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.
 
-If Better Baby, LLC is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on this website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+If Bulletproof Nutrition, Inc., is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on this website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 ### Choice/Opt-Out
 
