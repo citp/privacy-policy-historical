@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the micksgarage.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901013101id_/http%3A//www.micksgarage.com/about/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micksgarage.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330174213id_/http%3A//www.micksgarage.com/about/privacy-statement.aspx) for the most accurate reproduction.*
 
-# MicksGarage Privacy Statement
+# MicksGarage - Privacy and Security
 
 Introduction  
 Types of Information Collected  
-Purposes for which we hold your Information  
+Purposes For Which We Hold Your Information  
 Cookies  
 Disclosure of Information to Third Parties  
 Sale of Business  
@@ -75,38 +75,38 @@ Back to top
 
 Your Personal Data is held on secure servers hosted by [SunGard](http://www.sungardas.ie/ "SunGard"). 
 
-MicksGarage.com understand that you're concerned about the security and privacy of your online transactions. This is why we use GoDaddy SSL to ensure that your valuable data, such as credit card details, are encrypted when you interact with our site.
+MicksGarage.com understand that you're concerned about the security and privacy of your online transactions. This is why we use GoDaddy SSL to ensure that your valuable data, such as credit card details, are encrypted when you interact with our site. 
 
-We employ state-of-the-art data encryption to ensure safe and secure transactions to our site. Your computer and ours agree to transpose whatever we are sending into an unintelligible hash of characters, using a technology called SSL. For example:
+We employ state-of-the-art data encryption to ensure safe and secure transactions to our site. Your computer and ours agree to transpose whatever we are sending into an unintelligible hash of characters, using a technology called SSL. For example: 
 
 3048 0241 00C9 18FA CF8D EB2D EFD5 FD37 89B9 E069 EA97 FC20 5E35 F577 EE31 C4FB C6E4 4811 7D86 BC8F BAFA 362F 922B F01B 2F40 C744 2654 C0DD 2881 D673 CA2B 4003 C266 E2CD CB02 0301 0001
 
-Without the information on your computer or ours, no one can understand our encrypted communication. For your safety, please expect anyone who communicates confidential information with you on the Internet to use encryption, the way we do.
+Without the information on your computer or ours, no one can understand our encrypted communication. For your safety, please expect anyone who communicates confidential information with you on the Internet to use encryption, the way we do. 
 
-Secure Sockets Layer, SSL, is the security technology for encrypting a link between a web server and a browser. All data passed between our web server and your browser remains private and secure.
+Secure Sockets Layer, SSL, is the security technology for encrypting a link between a web server and a browser. All data passed between our web server and your browser remains private and secure. 
 
-Whenever you communicate with us on secure sections of micksgarage.com you'll notice that http:// is replaced by https:// (The 's' stands for 'Secure').
+Whenever you communicate with us on secure sections of micksgarage.com you'll notice that http:// is replaced by https:// (The 's' stands for 'Secure'). 
 
-To generate an encrypted SSL transmission, a web server requires an SSL Certificate. Checking a website's certificate is good practice that helps you avoid spoof websites, sometimes called "phishing" sites. To check the certificate, click on the padlock. Your browser will show you the name of the owner of the certificate. This name should match the name of the website operator.
+To generate an encrypted SSL transmission, a web server requires an SSL Certificate. Checking a website's certificate is good practice that helps you avoid spoof websites, sometimes called "phishing" sites. To check the certificate, click on the padlock. Your browser will show you the name of the owner of the certificate. This name should match the name of the website operator. 
 
-Our SSL certificates are issued by a leading certificate authority, GoDaddy. GoDaddy is Web Trust-compliant, meaning that their business practices and processes have been rigorously audited according to AICPA (American Institute of Certified Public Accountants) guidelines by an independent approved auditor (Ernst & Young).
+Our SSL certificates are issued by a leading certificate authority, GoDaddy. GoDaddy is Web Trust-compliant, meaning that their business practices and processes have been rigorously audited according to AICPA (American Institute of Certified Public Accountants) guidelines by an independent approved auditor (Ernst & Young). 
 
-GoDaddy SSL certificates enable a high level of encryption. They also confirm that a company is a legally accountable organization.
+GoDaddy SSL certificates enable a high level of encryption. They also confirm that a company is a legally accountable organization. 
 
-To receive a SSL Certificate from GoDaddy, we had to demonstrate to them that we are an existing business, along with our control over the domain you are visiting. When you shop online, you deserve to know who you are interacting with.
+To receive a SSL Certificate from GoDaddy, we had to demonstrate to them that we are an existing business, along with our control over the domain you are visiting. When you shop online, you deserve to know who you are interacting with. 
 
-Seeing a site with a GoDaddy SSL Certificate, confirms two essential factors:
+Seeing a site with a GoDaddy SSL Certificate, confirms two essential factors: 
 
 That you have a secure SSL (encrypted) link with this website   
 That this website represents a real organization 
 
-To find out more about SSL or GoDaddy, please visit www.GoDaddy.com
+To find out more about SSL or GoDaddy, please visit www.GoDaddy.com 
 
 Back to top
 
 ### Updating, Verifying and Deleting Personal Data
 
-You may inform us of any changes in your Personal Data, and in accordance with our obligations under the Data Protection Acts 1988 and 2002 we will update or delete your Personal Data accordingly. To find out what Personal Data we hold on you or to have your Personal Data updated, amended or removed from our database, please contact us via eMail at info@micksgarage.com or via phone on 00353-1-4406603. 
+You may inform us of any changes in your Personal Data, and in accordance with our obligations under the Data Protection Acts 1988 and 2002 we will update or delete your Personal Data accordingly. To find out what Personal Data we hold on you or to have your Personal Data updated, amended or removed from our database, please contact us via eMail at info@micksgarage.com or via phone on +44(0) 2476 998425 
 
 Back to top
 
