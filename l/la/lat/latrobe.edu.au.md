@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the latrobe.edu.au privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209012337id_/http%3A//www.latrobe.edu.au/statements/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latrobe.edu.au privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330093642id_/http%3A//www.latrobe.edu.au/statements/privacy) for the most accurate reproduction.*
 
-# Website privacy statement | La Trobe University
+# Website privacy statement, Statements, La Trobe University
 
 La Trobe University respects the privacy of your personal information by adhering to privacy laws. The La Trobe web site privacy statement outlines how the University will manage personal information collected through the use of its web site. This statement does not extend to external web sites that have been linked from the University web site. It is suggested that you refer to the privacy statements of these sites.
 
