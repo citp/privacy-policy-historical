@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the economicsguidebusiness.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926053501id_/http%3A//www.economicsguidebusiness.com/%3Fpage_id%3D951) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the economicsguidebusiness.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331000509id_/http%3A//www.economicsguidebusiness.com/%3Fpage_id%3D951) for the most accurate reproduction.*
 
 # Privacy Policy | welcome to economicsguidebusiness.com
 
