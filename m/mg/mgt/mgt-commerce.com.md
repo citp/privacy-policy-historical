@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mgt-commerce.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124075211id_/http%3A//www.mgt-commerce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mgt-commerce.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331000227id_/http%3A//www.mgt-commerce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,4 +44,4 @@ to release your personally identifiable information.
 We are reserving the right to modify this privacy policy at any time.   
 We will promptly reflect any such modifications in these Web pages. 
 
-MGT-COMMERCE GmbH © 2013 All Rights Reserved. 
+MGT-COMMERCE GmbH © 2014 All Rights Reserved. 
