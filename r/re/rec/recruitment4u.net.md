@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the recruitment4u.net privacy policy that was archived on 2013-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130719095421id_/http%3A//www.recruitment4u.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruitment4u.net privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330055854id_/http%3A//www.recruitment4u.net/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Recruitment 2013: Privacy Policy
+# Recruitment 2014: Privacy Policy
 
 ##  Privacy Policy for www.recruitment4u.net
 
