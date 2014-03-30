@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nubiante.com privacy policy that was archived on 2012-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120212164805id_/http%3A//www.nubiante.com/index.php%3Fukey%3Dauxpage_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nubiante.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330233824id_/https%3A//nubiante.com/index.php%3Fukey%3Dauxpage_privacy) for the most accurate reproduction.*
 
-# Privacy Policy ― © Nubiante.com 2011. All rights reserved
+# Privacy Policy ― © Nubiante.com 2012. All rights reserved
 
 Nubiante.com is committed to respect the privacy rights of visitors. If you have any questions, please call toll-free 1-888-581-1734 or email us at [custservices@nubiante.com](mailto:custservices@nubiante.com)
 
