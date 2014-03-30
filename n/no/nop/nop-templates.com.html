@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nop-templates.com privacy policy that was archived on 2013-08-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130819190558id_/http%3A//www.nop-templates.com/t/privacyinfo) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nop-templates.com privacy policy that was archived on 2014-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140330095554id_/http%3A//www.nop-templates.com/t/privacyinfo) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <title>Nop-Templates.com Privacy Information</title>
@@ -9,17 +9,38 @@
     
     
     <!-- Google code for Analytics tracking -->
-<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=1"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-17350600-5']);
 _gaq.push(['_setDomainName', 'nop-templates.com']);
 _gaq.push(['_trackPageview']);
+_gaq.push(['_setSiteSpeedSampleRate', 100]);
 
 (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
+
+(function () {
+
+    if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
+        var myString = document.referrer;
+        var r = myString.match(/cd=(.*?)&/);
+        var rank = parseInt(r[1]);
+        var kw = myString.match(/q=(.*?)&/);
+
+        if (kw[1].length > 0) {
+            var keyWord = decodeURI(kw[1]);
+        } else {
+            keyWord = "(not provided)";
+        }
+
+        var p = document.location.pathname;
+        _gaq.push(['_trackEvent', 'RankTracker', keyWord, p, rank, true]);
+    }
+})();
+
 </script>
 
     <link href="/Themes/NopTemplates/Content/css/styles.css" rel="stylesheet" type="text/css">
@@ -102,9 +123,12 @@ You have no items in your shopping cart.        </div>
             
             
                 <li><a href="/blog">Blog</a></li>
-                            <li><a href="/boards">Forums</a></li>
-            <li><a href="/t/nopCommerce-Documentation">Documentation</a></li>
             <li><a href="/news">Releases</a></li>
+                <li><a href="/boards">Forums</a></li>
+            <li><a href="/nopcommerce-video-tutorials">Videos</a></li> 
+
+            <li><a href="/t/nopCommerce-Documentation">Documentation</a></li>
+            
             
             <li><a href="/t/nopcommerce-clients">Clients</a></li>
             <li><a href="/contactus">Contact us</a></li>
@@ -200,6 +224,7 @@ You have no items in your shopping cart.        </div>
 
     </div>
 </div>
+
     
 <div class="footer">
     <div class="footer-content">
@@ -268,7 +293,7 @@ You have no items in your shopping cart.        </div>
 
         <div class="footer-middle">
             <div class="leftside">
-                <div class="footlist">
+                <div class="footlist first">
                     <h3><a href="/">Company</a></h3>
                     <ul>
                         <li><a href="/t/aboutus">About us</a></li> 
@@ -276,7 +301,7 @@ You have no items in your shopping cart.        </div>
                         <li><a href="/t/nopcommerce-clients">Clients</a></li>                        
                     </ul>
                 </div>
-                <div class="footlist">
+                <div class="footlist second">
                     <h3>Support</h3>
                     <ul>
                         <li><a href="/contactus">Contact us</a></li>
@@ -287,27 +312,36 @@ You have no items in your shopping cart.        </div>
                         <li><a href="https://noptemplates.uservoice.com">UserVoice portal</a></li>                    
                     </ul>
                 </div>
-                <div class="footlist">
+                <div class="footlist third">
                     
 <h3><a href="/nopcommerce-themes">Themes</a></h3>
 <ul>
         <li><a href="/nop-ultimate-theme-collection">Nop Ultimate Theme Collection</a></li>
+        <li><a href="/allure-responsive-theme-for-nopcommerce">Nop Allure Responsive Theme</a></li>
+        <li><a href="/motion-responsive-theme-for-nopcommerce">Nop Motion Responsive Theme</a></li>
+        <li><a href="/smart-responsive-theme-for-nopcommerce">Nop Smart Responsive Theme</a></li>
+        <li><a href="/playground-responsive-theme-for-nopcommerce">Nop Playground Responsive Theme</a></li>
+        <li><a href="/alicante-responsive-theme-for-nopcommerce">Nop Alicante Responsive Theme</a></li>
+        <li><a href="/lighthouse-responsive-theme-for-nopcommerce">Nop Lighthouse Responsive Theme</a></li>
+        <li><a href="/alfresco-responsive-theme-for-nopcommerce">Nop Alfresco Responsive Theme</a></li>
         <li><a href="/jewelry-responsive-theme-for-nopcommerce">Nop Jewelry Responsive Theme</a></li>
-        <li><a href="/neofashion-theme-for-nopcommerce">Nop NeoFashion Theme</a></li>
+        <li><a href="/neofashion-responsive-theme-for-nopcommerce">Nop NeoFashion Responsive Theme</a></li>
         <li><a href="/beauty-responsive-theme-for-nopcommerce">Nop Beauty Responsive Theme</a></li>
-        <li><a href="/fashion-theme-for-nopcommerce">Nop Fashion Theme</a></li>
-        <li><a href="/electronics-theme-for-nopcommerce">Nop Electronics Theme</a></li>
+        <li><a href="/fashion-responsive-theme-for-nopcommerce">Nop Fashion Responsive Theme</a></li>
+        <li><a href="/electronics-responsive-theme-for-nopcommerce">Nop Electronics Responsive Theme</a></li>
         <li><a href="/shop-all-theme-for-nopcommerce">Nop Shop All Theme</a></li>
         <li><a href="/nopclassic-theme-for-nopcommerce">nopClassic Theme</a></li>
         <li><a href="/darkorange-theme-for-nopcommerce">Dark Orange Theme</a></li>
 </ul>
 
                 </div>
-                <div class="footlist double">
+                <div class="footlist double fourth">
                     
 <h3><a href="/nopcommerce-plugins">Plugins</a></h3>
 <ul>
         <li><a href="/ultimate-plugin-collection-for-nopcommerce">Nop Ultimate Plugin Collection</a></li>
+        <li><a href="/attachements-plugin-for-nopcommerce">Nop Attachments</a></li>
+        <li><a href="/html-widgets-plugin-for-nopcommerce">Nop HTML Widgets</a></li>
         <li><a href="/product-ribbons-plugin-for-nopcommerce">Nop Product Ribbons</a></li>
         <li><a href="/customer-reminders-plugin-for-nopcommerce">Nop Customer Reminders</a></li>
         <li><a href="/quick-view-plugin-for-nopcommerce">Nop Quick View</a></li>
@@ -315,13 +349,13 @@ You have no items in your shopping cart.        </div>
         <li><a href="/anywhere-sliders-plugin-for-nopcommerce">Nop Anywhere Sliders</a></li>
         <li><a href="/jcarousel-plugin-for-nopcommerce">Nop JCarousel</a></li>
         <li><a href="/mega-menu-plugin-for-nopcommerce">Nop Mega Menu</a></li>
-        <li><a href="/instant-search-plugin-for-nopcommerce">Nop Instant Search</a></li>
         <li><a href="/smart-seo-plugin-for-nopcommerce">Nop Smart SEO</a></li>
         <li><a href="/cloud-zoom-plugin-for-nopcommerce">Nop Cloud Zoom</a></li>
         <li><a href="/quick-tabs-plugin-for-nopcommerce">Nop Quick Tabs</a></li>
         <li><a href="/ajax-cart-plugin-for-nopcommerce">Nop Ajax Cart</a></li>
-        <li><a href="/give-change-make-change-plugin-for-nopcommerce">Nop Give Change Make Change</a></li>
+        <li><a href="/instant-search-plugin-for-nopcommerce">Nop Instant Search</a></li>
         <li><a href="/categories-header-menu-plugin-for-nopcommerce">Nop Categories Header Menu</a></li>
+        <li><a href="/give-change-make-change-plugin-for-nopcommerce">Nop Give Change Make Change</a></li>
 </ul>
 
                 </div>
@@ -331,9 +365,11 @@ You have no items in your shopping cart.        </div>
                  <div class="social">
                     <a class="social-rss" href="/blog/rss/1"></a>
                     <a class="social-facebook" target="_blank" href="http://www.facebook.com/NopTemplates"></a>
+                    <a class="social-pinterest" target="_blank" href="http://www.pinterest.com/noptemplates/"></a>
                     <a class="social-twitter" target="_blank" href="http://twitter.com/NopTemplates"></a>
                     <a class="social-linkedin" target="_blank" href="http://www.linkedin.com/company/seven-spikes/nop-templates-com-444828/product"></a>
                     <a class="social-googleplus" target="_blank" href="https://plus.google.com/u/0/b/100054470244946055009/100054470244946055009/posts"></a>
+                    <a class="social-youtube" target="_blank" href="http://www.youtube.com/user/SevenSpikesInc"></a>
                  </div>
             </div><!--rightside-->
         </div><!--footer-middle-->
@@ -349,7 +385,7 @@ You have no items in your shopping cart.        </div>
                     <a href="/t/licensinginfo">Licensing Info</a>
                 </div>
                 <div class="copyright">
-        Copyright © 2013 Nop-Templates. Reproduction in whole or in parts is prohibited.
+        Copyright © 2014 Nop-Templates. Reproduction in whole or in parts is prohibited.
                 </div>
             </div>
             <div class="footer-store-theme">
@@ -367,14 +403,6 @@ You have no items in your shopping cart.        </div>
 
     
     
-<script type="text/javascript">
-//<![CDATA[
-(function() {
-var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';
-var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
-})();
-// ]]>
-</script>
+
 
 </body></html>
