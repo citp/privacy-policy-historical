@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cclonline.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602175425id_/http%3A//www.cclonline.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cclonline.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330191933id_/http%3A//www.cclonline.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CCL Computers
 
@@ -36,7 +36,7 @@ The details we collect will be used to:
 
 3.3 We may also use the information that we collect from you to notify you about functionality changes to our website, the service that we provide and details of promotional or special offers.
 
-3.4 Information will not be provided to third parties, other than agents of CCL Computers Ltd or where required by Law. We may disclose your information to agents for the purpose of processing and fulfilling your order. Such parties will include couriers and maintenance organisations and others directly associated with the provision of the company’s products and services.
+3.4 Information will not be provided to third parties, other than agents of CCL Computers Ltd or where required by Law. We may disclose your information to agents for the purpose of processing and fulfilling your order. Such parties will include couriers, maintenance organisations, credit providers and others directly associated with the provision of the company’s products and services.
 
 ## 4.0 Data Protection and Security measures
 
