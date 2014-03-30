@@ -1,20 +1,6 @@
-> *The following text is extracted and transformed from the tep.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502002825id_/https%3A//www.tep.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tep.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330191747id_/https%3A//www.tep.com/legal/privacy) for the most accurate reproduction.*
 
 # Tucson Electric Power
-
-Legal 
-
-Last modified: November 29, 2011 
-
-This privacy policy applies to all of the products, services and websites offered by TEP or its subsidiaries or affiliated companies. Sometimes, we may post product specific privacy notices or materials to explain our products in more detail. 
-
-If you have any questions about this privacy policy, please feel free to [contact us](https://web.archive.org/Contact/) through our website or write to us at 
-
-Privacy Matters   
-c/o TEP   
-PO Box 711   
-Tucson, AZ 85702-0711   
-USA 
 
 #### Privacy Commitment
 
@@ -34,7 +20,7 @@ Users of the web site may choose to provide Customer Information directly to TEP
 
 #### Generic Information
 
-When a User accesses the web site, TEP's web servers automatically record the User's Internet service provider, IP address, domain name, browser type, and operating system. This generic information does not reveal the User's identity and is used in an aggregate, non-personally identifiable form to improve the web site.
+When a User accesses the web site, TEP's web servers automatically record the User's Internet service provider, IP address, domain name, browser type, and operating system. This generic information does not reveal the User's identity and is used in an aggregate, non-personally identifiable form to improve the web site. 
 
 #### Cookies
 
@@ -69,4 +55,4 @@ TEP does not knowingly collect nor does TEP desire to collect personally identif
 #### Questions
 
 If you have questions or comments regarding our Privacy Policy, please write to us at [corpcomm@tep.com](mailto:corpcomm@tep.com)   
-or call 520-884-3630.
+or call 520-884-3630. 
