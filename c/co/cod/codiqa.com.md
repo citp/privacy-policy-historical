@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codiqa.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814080835id_/http%3A//codiqa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codiqa.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330054946id_/https%3A//codiqa.com/privacy) for the most accurate reproduction.*
 
 # Codiqa - Terms of Service
 
