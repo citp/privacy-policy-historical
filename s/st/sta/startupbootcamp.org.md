@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startupbootcamp.org privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821200843id_/http%3A//www.startupbootcamp.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupbootcamp.org privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330182144id_/http%3A//www.startupbootcamp.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Startupbootcamp
 
@@ -13,7 +13,7 @@ privacy@startupbootcamp.org
 
 ## Types of Data collected
 
-Among the Data that this Application may collect there are: Cookie, Browsing and usage Data and Email. 
+Among the Data that this Application may collect there are: Cookie, Browsing and usage Data and Email.
 
 Other Personal Data collected may be highlighted by other sections of this privacy policy or by dedicated explanation text, in the moment when the Data collection happens.  
 The Personal Data may be freely inserted by the User or the Data Subject, or collected automatically when using the Application.  
@@ -40,7 +40,7 @@ The Data are kept for the time necessary to perform the service requested by the
 
 ## The use of the collected Data
 
-The Data concerning the User or the Data Subject are collected for the following purposes: Analytics, Managing email addresses and sending messages, Interaction with external social networks and platforms and Content commenting. 
+The Data concerning the User or the Data Subject are collected for the following purposes: Analytics, Managing email addresses and sending messages, Interaction with external social networks and platforms and Content commenting.
 
 The kinds of Personal Data used for each purpose are given in the specific sections of this document.
 
@@ -59,7 +59,7 @@ The services contained in this section enable the Owner to monitor and analyze w
 Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine Application use, to prepare reports on an Application’s activities and share them with other Google services.  
 Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
 
-Personal data collected: Cookie and Browsing and usage Data. 
+Personal data collected: Cookie and Browsing and usage Data.
 
 Place of Processing: USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
 
@@ -72,7 +72,7 @@ The services are used to collect data concerning the date and time when the mail
 
 Mailchimp is an email address management and message sending service provided by Mailchimp Inc.
 
-Personal data collected: Email. 
+Personal data collected: Email.
 
 Place of Processing: USA – [Privacy Policy](http://mailchimp.com/legal/privacy/)
 
@@ -86,7 +86,7 @@ If a service enabling interaction with social networks is installed it may still
 
 The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook Inc.
 
-Personal data collected: Cookie and Browsing and usage Data. 
+Personal data collected: Cookie and Browsing and usage Data.
 
 Place of Processing: USA – [Privacy Policy](http://www.facebook.com/privacy/explanation.php)
 
@@ -98,7 +98,7 @@ If a content commenting service provided by third parties is installed, it may s
 
 Disqus is a content commenting service provided by Big Heads Labs Inc.
 
-Personal data collected: Cookie and Browsing and usage Data. 
+Personal data collected: Cookie and Browsing and usage Data.
 
 Place of Processing: USA – [Privacy Policy](http://docs.disqus.com/help/30/)
 
@@ -106,37 +106,37 @@ Place of Processing: USA – [Privacy Policy](http://docs.disqus.com/help/30/)
 
 ### Legal Protection
 
-The User’s Personal Data may be used for legal purposes by the Owner of the Application in court or in the stages leading to possible legal action arising from its improper use or that of related services by the User. 
+The User’s Personal Data may be used for legal purposes by the Owner of the Application in court or in the stages leading to possible legal action arising from its improper use or that of related services by the User.
 
 ### Additional Information
 
-Specific information may be shown on the pages of the Site concerning particular services or the processing of Data provided by the User or by the Data Subject. 
+Specific information may be shown on the pages of the Site concerning particular services or the processing of Data provided by the User or by the Data Subject.
 
 ### Maintenance
 
-The User’s Personal Data may be further used in ways and for purposes required for Application maintenance. 
+The User’s Personal Data may be further used in ways and for purposes required for Application maintenance.
 
 ### System Logs
 
-For operation and maintenance purposes, this Application and any third party services it uses may collect system logs, i.e., files that record interaction – including navigation. They may also contain personal data, such as IP addresses. 
+For operation and maintenance purposes, this Application and any third party services it uses may collect system logs, i.e., files that record interaction – including navigation. They may also contain personal data, such as IP addresses.
 
 ### Information not contained in this policy
 
-More information on processing Personal Information may be requested from the Owner at any time. 
+More information on processing Personal Information may be requested from the Owner at any time.
 
 ### The Rights of Data Subjects
 
-Those persons to whom the Data refer have the right, at any time, to know whether their data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Owner of the Processing System. 
+Those persons to whom the Data refer have the right, at any time, to know whether their data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Owner of the Processing System.
 
 ### Changes to this Privacy Policy
 
-The Application reserves the right to make changes to this Privacy Policy at any time by giving notice to its Users on this page, and by ensuring analogous protection of the Personal Information in all cases. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. 
+The Application reserves the right to make changes to this Privacy Policy at any time by giving notice to its Users on this page, and by ensuring analogous protection of the Personal Information in all cases. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom.
 
 ### Information about this privacy policy
 
-This privacy policy was prepared autonomously and with full assumption of responsibility by the Owner of the Personal Data, taking the modules provided by Iubenda and hosted on the Iubenda servers as a starting point. 
+This privacy policy was prepared autonomously and with full assumption of responsibility by the Owner of the Personal Data, taking the modules provided by Iubenda and hosted on the Iubenda servers as a starting point.
 
-### Definitions and legal references 
+### Definitions and legal references
 
 #### Personal information or Data
 
@@ -168,4 +168,4 @@ Notice to European Users: this privacy statement has been prepared in fulfillmen
 
 This privacy policy exclusively regards this Application.
 
-Latest update: December 01, 2012 
+Latest update: December 01, 2012
