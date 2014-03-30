@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the busey.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107164041id_/https%3A//www.busey.com/home/fiFiles/static/documents/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busey.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330221751id_/https%3A//www.busey.com/home/fiFiles/static/documents/privacy.pdf) for the most accurate reproduction.*
 
 # FACTS
 
@@ -34,7 +34,7 @@ For our affiliates’ everyday business purposes—
 information about your creditworthiness
 For our affiliates to market to you                                       Yes	                            Yes	  
 For nonaffiliates to market to you                                        No	                       We don't share	  
-To limit                n    Call 800-672-8739 and select the option for customer information.
+To limit                n    Call 800-672-8739 and select the option for Customer Support.
 our sharing             Please note:
                         If you are a new customer, we can begin sharing your information 30 days from the date we sent
                         this notice. When you are no longer our customer, we continue to share your information as
@@ -85,4 +85,4 @@ Joint marketing                        A formal agreement between nonaffiliated 
                                        together market financial products or services to you.
                                        n   Our joint marketing partners include credit card companies and
                                             investment companies.
-                                                                                              Revised December 2012
+                                                                                                 Revised January 2014
