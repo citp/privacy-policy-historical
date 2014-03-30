@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bankatfirst.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509200324id_/http%3A//www.bankatfirst.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankatfirst.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330222408id_/https%3A//www.bankatfirst.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Policy l First Financial Bank
 
 **FACTS** | **WHAT DOES FIRST FINANCIAL BANK DO WITH YOUR PERSONAL INFORMATION?**  
 ---|---  
-**Why?** | Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell youhow we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
+**Why?** | Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
 **What?** | The types of personal information we collect and share depend on the product or service you have with us. This information can include: 
 
   * Social Security number, name, address, email address, income and assets
@@ -12,7 +12,7 @@
   * Credit history and creditworthiness
 
   
-**How?** | All ﬁnancial companies need to share personal information to run their everyday business. In the section below, we list the reasons ﬁnancial companies can share their personal information; the reasons First Financial Bank chooses to share; and whether you can limit this sharing.  
+**How?** | All ﬁnancial companies need to share personal information to run their everyday business. In the section below, we list the reasons ﬁnancial companies can share your personal information; the reasons First Financial Bank chooses to share; and whether you can limit this sharing.  
   
 **Reasons we can share your personal information** | **Does First Financial Bank share?** | **Can you limit this sharing?**  
 ---|---|---  
@@ -26,12 +26,12 @@ Information about your transactions and experiences | Yes | Yes
 **For our affiliates' everyday business purposes —**  
 Information about your creditworthiness | Yes | Yes  
 **For our affiliates to market to you** | Yes | Yes  
-**For nonaffiliates to market to you** | No | We don't share  
+**For nonaffiliates to market to you** | No | We do not share  
   
 **To limit our sharing** | 
 
   * Call our Client Service Center at 877-322-9530 - our menu will prompt you through your choice(s); **or**
-  * Write to us at First Financial Bank, Attn: Marketing, 255 E. Fifth Street, Suite 700, Cincinnati, OH 45202. Please provide your name, address, social security and account number(s).
+  * Write to us at First Financial Bank, Attn: CIF, 225 Pictoria Drive, Suite 600, Cincinnati, OH 45246. Please provide your name, address, Socia Security and account number(s).
 
 
 
@@ -44,7 +44,7 @@ However, you can contact us at any time to limit our sharing.
   
 **Who we are**  
 ---  
-**Who is providing this notice?** | First Financial Bank and its affiliates (please see below for List of Affiliates)  
+**Who is providing this notice?** | First Financial Bank and its affiliates (please see below for list of affiliates)  
   
 **What we do**  
 ---  
@@ -88,7 +88,7 @@ State laws and individual companies may give you additional rights to limit shar
 **Other important information**  
 ---  
   
-First Financial Bank honors the National and Indiana do-not-call registries. From time to time we may call you about additional financial products and services that may be of interest to you. If you would prefer not to receive a call from us, please write to us at: First Financial Bank, Attn: CIF Department, 225 Pictoria Dr., Suite 600, Cincinnati, OH 45246, or call us at 877-322-9530. You will remain on the bank’s Do Not Call list until you notify us otherwise.  
+First Financial Bank honors the National and Indiana Do-Not-Call Registries. From time-to-time we may call you about additional financial products and services that may be of interest to you. If you would prefer not to receive a call from us, please write to us at: First Financial Bank, Attn: CIF Department, 225 Pictoria Dr., Suite 600, Cincinnati, OH 45246, or call us at 877-322-9530. You will remain on the bank’s Do Not Call list until you notify us otherwise.  
   
 **List of Affiliates**  
 | First Financial Bancorp | First Financial Bank, N.A.  
