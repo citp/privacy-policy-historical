@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the atozpulse.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225114035id_/http%3A//www.atozpulse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atozpulse.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330190943id_/http%3A//www.atozpulse.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AtoZpulse
-
-[  
-](http://www.atozpulse.com/2013/12/one-nenokkadine-complete-songs-online-jukebox.html)
+# Privacy Policy | AtoZpulse - Just movie talk
 
 This Privacy Policy governs the manner in which Crazy Circle collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.atozpulse.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by Crazy Circle.
 
@@ -75,5 +72,3 @@ Hauzkhas, New Delhi
 care@atozpulse.com
 
 This document was last updated on August 13, 2013
-
-0 people like this
