@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webhostdir.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116061512id_/http%3A//www.serchen.com/legal/privacy-policy/%3FChannelID%3DWHD%26CountryID%3DUS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostdir.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330143458id_/http%3A//www.serchen.com/legal/privacy-policy/%3FChannelID%3DWHD%26CountryID%3DUS) for the most accurate reproduction.*
 
-# Privacy Policy - Serchen
+# Privacy Policy | Serchen
 
 **What is the purpose of this Privacy Policy?**
 
