@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relylocal.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820110351id_/http%3A//www.relylocal.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relylocal.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330132923id_/http%3A//www.relylocal.com/page/privacy-policy) for the most accurate reproduction.*
 
 # RelyLocal | Privacy Policy | Community Campaigns to Stimulate Local Economies
 
