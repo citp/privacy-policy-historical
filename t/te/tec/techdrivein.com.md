@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techdrivein.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213203922id_/http%3A//www.techdrivein.com/p/tech-drive-in-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techdrivein.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330230641id_/http%3A//www.techdrivein.com/p/tech-drive-in-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Tech Drive-in
 
@@ -26,3 +26,6 @@ Google's use of the DART cookie enables it to serve ads to users based on their 
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: **1.**  Google Adsense, **2.  **Chitika
+
+  
+
