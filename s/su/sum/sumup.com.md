@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sumup.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819124354id_/https%3A//sumup.com/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumup.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330234645id_/https%3A//sumup.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SumUp
-
-## SumUp Privacy Policy ****
+# Mobile card payment with iPhone, iPad and Android - SumUp
 
 Last updated: July 12th 2013  
 
