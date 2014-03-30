@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentalhouses.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209053426id_/http%3A//www.rentalhouses.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentalhouses.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330234034id_/http%3A//www.rentalhouses.com/privacy-policy) for the most accurate reproduction.*
 
 # RentalHouses.com Houses for rent, search homes or Houses for rent.
 
@@ -121,6 +121,6 @@ Norcross, Georgia 30092
 
 #### Copyright
 
-© Copyright 2013 RentPath, Inc. All rights reserved.
+© Copyright 2014 RentPath, Inc. All rights reserved.
 
 Last updated May 12th, 2011
