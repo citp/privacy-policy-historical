@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getsecuredfiles.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110004343id_/http%3A//ds113.getsecuredfiles.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsecuredfiles.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330180554id_/http%3A//ds113.getsecuredfiles.com/privacy.jsp) for the most accurate reproduction.*
 
 # GetDownload CDN Network - Privacy Policy
 
