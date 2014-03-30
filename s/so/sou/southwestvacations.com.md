@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the southwestvacations.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815092042id_/http%3A//www.southwestvacations.com/generalinformation/privacy-and-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southwestvacations.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330223628id_/http%3A//www.southwestvacations.com/generalinformation/privacy-and-security-policy) for the most accurate reproduction.*
 
 # Privacy & Security Policy - Southwest Vacations
-
-[Home](https://web.archive.org/) > Privacy & Security Policy 
 
 The e-mail address you provide when you subscribe to Southwest Airlines Vacations' e-mail specials will not be shared with any third parties. If you wish to subscribe or unsubscribe from our e-mail list, please go to the [My Account](https://res.southwestvacations.com/Account/RetrieveLogin.aspx?ctl=A) page. 
 
