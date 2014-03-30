@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postaljobplacement.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807084431id_/http%3A//www.postaljobplacement.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postaljobplacement.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330222646id_/http%3A//www.postaljobplacement.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Postal Job Placement
 
