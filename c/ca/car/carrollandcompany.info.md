@@ -1,16 +1,29 @@
-> *The following text is extracted and transformed from the carrollandcompany.info privacy policy that was archived on 2007-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070222221957id_/http%3A//www.carrollandcompany.info/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrollandcompany.info privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330145602id_/http%3A//www.carrollandcompany.info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Carrolland Company
 
-> **Privacy Policy**   
->  Carroll & Company respects your individual right to privacy, and we are committed to protecting information provided to us. Therefore, we provide this Privacy Policy notice to explain how the online information we collect is used. To make this Privacy Policy notice easy to find, we make it available on our homepage. This Privacy Policy applies solely to the information collected or submitted on the Carroll & Company website.
-> 
->  **Prospective Buyers**   
->  We require your name, address, and appropriate contact information. If you wish to subscribe to our email notification service, we ask for the email address to which you want the new listings delivered and for brief information regarding the types of listings you are interested in receiving. If you send an email to Carroll & Company, we may use your return email address to answer your inquiry or comment. Such addresses are not used for any other purpose and are not shared with outside parties. If you wish to create a prospective buyer profile we will request background information related to your education and experience in dentistry as well as a current resume or curriculum vitae. The information you provide will remain confidential and will not be distributed to any outside parties, except as necessary to qualify a request for information to the seller of a practice in which you express interest. Confidential Listings To obtain information on practices listed for sale as confidential, we also require you to sign a confidentiality agreement and provide a current resume or curriculum vitae. 
-> 
-> **Cookies**  
->  Cookies are small text files that a website can place on a user's computer hard drive to be a unique identifier for that user. Carroll & Company does not use cookies. 
-> 
-> **Visitor Traffic Logs**  
->  Carroll & Company automatically collects IP addresses and traffic information from visitors to our site. None of this is linked to personally identifiable information. This information is aggregated into statistics to help us evaluate how visitors prefer to use and navigate our website, including the number and frequency of visits to our web pages and the length of visits. We may disclose and use personally identifiable information in special circumstances when we believe, in good faith, that such release is reasonably necessary to (i) comply with law or court order, (ii) enforce or apply the terms of any of our user agreements, or (iii) protect the rights, property, or safety of Carroll & Company, our users, or others.   
->   
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at kagomeinu23@gmail.com.
+
+At www.carrollandcompany.info, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.carrollandcompany.info and how it is used.
+
+Log Files  
+Like many other Web sites, www.carrollandcompany.info makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+
+Cookies and Web Beacons  
+www.carrollandcompany.info does not use cookies.
+
+DoubleClick DART Cookie  
+.:: Google, as a third party vendor, uses cookies to serve ads on www.carrollandcompany.info.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.carrollandcompany.info and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
+Google Adsense
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.carrollandcompany.info send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+www.carrollandcompany.info has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.carrollandcompany.info’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
