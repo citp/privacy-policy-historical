@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submitse.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125002459id_/http%3A//www.submitse.com/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitse.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330183844id_/http%3A//www.submitse.com/html/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,7 +37,21 @@ Users may find advertising or other content on our Site that link to the sites a
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
- **Changes to this privacy policy**
+ **DoubleClick DART Cookie**
+
+Google, as a third party vendor, uses cookies to serve ads on www.serpsimulator.com. Google's use of the DART cookie enables it to serve ads to users based on their visit to www.serpsimulator.com and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include, Google Adsense
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.serpsimulator.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+
+www.serpsimulator.com has no access to or control over these cookies that are used by third-party advertisers. 
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.serpsimulator.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+
+**Changes to this privacy policy**
 
 SubmitSE has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
@@ -57,4 +71,4 @@ ExciteMediaNetwork, LLC®
 Email: info @ excitemedianetwork.com  
 Web: www.excitemedianetwork.com
 
-This document was last updated on Nov 22, 2013
+This document was last updated on Jan, 21 2014
