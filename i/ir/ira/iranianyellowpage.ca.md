@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the iranianyellowpage.ca privacy policy that was archived on 2013-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130421002330id_/http%3A//www.iranianyellowpage.ca/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iranianyellowpage.ca privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330234640id_/http%3A//www.iranianyellowpage.ca/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
+
+## Iranian Yellowpage's Privacy Policy
 
 This privacy policy sets out how Iranian Yellowpage uses and protects any information that you give Iranian Yellowpage when you use this website.
 
