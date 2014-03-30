@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cablestogo.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210005754id_/http%3A//www.cablestogo.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cablestogo.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330190352id_/http%3A//www.cablestogo.com/about/privacy-policy) for the most accurate reproduction.*
 
-# C2G - Privacy Policy
+# C2G - Privacy Policy Information For C2G
 
 C2G has created this privacy statement to demonstrate our firm commitment to privacy. We respect your privacy, and understand the concern you, our customers, may have about how your information is used. We value your trust, and take great care in responsibly handling and protecting your data. The following discloses our information gathering and dissemination practices for this website: www.CablesToGo.com. By visiting this website, you accept the practices described in this Privacy Statement. 
 
