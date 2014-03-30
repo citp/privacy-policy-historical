@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the socialclerks.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424153642id_/http%3A//www.socialclerks.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialclerks.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330133621id_/http%3A//www.socialclerks.com/privacy_policy) for the most accurate reproduction.*
 
-# Get Free Twitter Followers, Facebook Likes, Retweets, Digg Followers, YouTube Views and Website Hits! - SocialClerks
+# SocialClerks - Free Twitter Followers, Facebook Likes and more
 
 This Policy applies as to all products and services provided by SocialClerks the owner and provider of SocialClerks, and yourself the User of SocialClerks. This Policy applies to our use of any and all Data collected by us in relation to your use of SocialClerks and any Services or Systems therein.
 
@@ -24,7 +24,7 @@ In this Policy the following terms shall have the following meanings:
 
 " **Member** " / " **Members** " means any third party that accesses SocialClerks and is not employed by SocialClerks and acting in the course of their employment; and
 
-" **Web Site** " means the website that you are currently using (SocialClerks.com) and any sub-domains of this site unless expressly excluded by it`s own terms and conditions.
+" **Web Site** " means the website that you are currently using (SocialClerk.net) and any sub-domains of this site unless expressly excluded by it`s own terms and conditions.
 
 **2\. Data Collected**
 
