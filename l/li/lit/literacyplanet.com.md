@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the literacyplanet.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117164309id_/http%3A//www.literacyplanet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the literacyplanet.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330215008id_/http%3A//www.literacyplanet.com/privacy.html) for the most accurate reproduction.*
 
 # LiteracyPlanet – Children’s literacy - Online learning | Privacy Policy
 
@@ -12,7 +12,7 @@ We also recognise that you may have concerns about our collection of your person
 
 We have implemented this Privacy Policy in order to inform you about how we will collect, store, use your personal information and under what circumstances we may disclose your personal information.
 
-Please note that this Privacy Policy forms part of the [Intrepica Terms of Use](https://web.archive.org/web/20131117164309id_/http%3A//www.literacyplanet.com/terms.html "Intrepica Terms of Use") document, which is displayed at the bottom of the Website.
+Please note that this Privacy Policy forms part of the [Intrepica Terms of Use](https://web.archive.org/web/20140330215008id_/http%3A//www.literacyplanet.com/terms.html "Intrepica Terms of Use") document, which is displayed at the bottom of the Website.
 
 #### Information we collect from you
 
