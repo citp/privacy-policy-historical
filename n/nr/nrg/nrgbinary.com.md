@@ -1,19 +1,61 @@
-> *The following text is extracted and transformed from the nrgbinary.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928030738id_/http%3A//www.nrgbinary.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrgbinary.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330225440id_/http%3A//www.nrgbinary.com/Privacy) for the most accurate reproduction.*
 
-# NRGbinary - سياسة الخصوصية
+# NRGbinary - Privacy
 
-**NRGbinary does its utmost to ensure the privacy, confidentiality and security of its clients are preserved both throughout their interaction with the company and afterwards, to the fullest extent achievable by the company.**
+No matter if you are a former or an existing client or just a visitor on our website, the privacy of our users is one of our main concerns, therefore the company is committed to safeguard all personal information collected from our valued clients.
 
-1\. When clients register with NRGbinary they acknowledge their willingness to share with the company certain private information which we use for the purpose of confirming the client’s identity and ensuring the security of their deposits and trading account. This information is collected in line with our stringent verification procedures which are used to deter international money laundering operations and to ensure the security and safety of our customer’s trading activity throughout.
+1.    By providing to the company your personal information such as Full Name, Mailing Address, ID number, Passport Number etc., you are providing the company with full consent to gather, utilize, store and protect the information provided in the manner described below.
 
-2\. Our clients undertake to supply us with true, updated and accurate information about their identity. Furthermore  they are required to state categorically that they are registering and trading on their own behalf and are not seeking at any time to act any manner which could be considered fraudulent nor are they seeking to impersonate any other individuals for any purposes whatsoever.
+2.    The Company will collect personal information from clients under the below circumstances:
 
-3\. NRGbinary’s data collection procedures include the collection of client’s freely disclosed information as shared with the company, in addition to the placement of cookies for the purposes of gathering data about the manner in which client’s interact with the NRGbinary website. These tools for gathering client’s information are employed for the purpose of ensuring the customer’s own security and all data collected by the company is shared only with individuals within the company who are involved with the verification of customer account information for the express purpose of ensuring the customer’s confidentiality and security. 
+2.1    When opening a Live/Demo trading account with The Company (When filling in electronic registration forms).  
+2.2    When funding your personal trading account.  
+2.3    When withdrawing from your personal trading account.
 
-4\. NRGbinary will never disclose any private or otherwise confidential information in regards to our clients and former clients to third parties without the express, written consent of our clients, except in such specific cases in which disclosure is a requirement under law, or is otherwise necessary in order to perform verification analysis on the client’s identity for the purposes of safeguarding their account and securing their personal information.
+3.    The Personal Information that may be Collected Includes:
 
-5\. By registering with NRGbinary and through the voluntary interaction they undertake with NRGbinary’s products and services the clients confirm and agree that they consent to the use of all or part of the information they provide concerning their NRGbinary trading account, the transactions they undertake through it and the interactions which they perform with the company on behalf of the company. All interactions the customer undertakes with the cmpany will be stored by the company for the purposes of record and as such may be employed by the company in such cases that disputes arise between clients and .
+3.1    Personal Information such as Full Name, Address, Date of Birth, ID Number and Occupation.  
+3.2    Financial Information such as assets, investment experience and monthly income, in order to evaluate your trading experience.  
+3.3    When funding your account or withdrawing from your account, we may request documents such as a copy of an ID Document, Utility Bills, Credit Card copy with the last 4 digits only, and a Bank Statement.
 
-6\. NRGbinary does its utmost to ensure the confidentiality of its clients personal information including the implementation of data protection procedures designed to ensure client confidentiality. NRGbinary ensures that its data protection policy is regularly updated in order to ensure that client’s confidential information is continually safeguarded.
+4.    Clients willingly provide The Company with the personal information collected in the following ways: 
 
-7\. From time to time NRGbinary may contact clients whether by phone or email for the purpose of offering them further information about NRGbinary binary options trading or financial market trading. In addition the company may, on occasion, seek to contact clients, whether by phone or by email, for the purpose of informing them of unique promotional offerings provided by NRGbinary for the client. Clients consent to the receipt of such contact when they consent to our terms and conditions of use when registering with NRGbinary. Any person wishing to opt out of further contact with NRGbinary at anytime whatsoever is entitled to do so, simply by contacting the company whether by phone or email and requesting that no further contact on behalf of the company will be made.
+4.1    On completion of electronic registration forms placed on the Company's Website or on a the Company's Mini site(s).  
+4.2    When funding or withdrawing from trading accounts, clients voluntarily provide required documents.  
+4.3    When trading on the Company's system.  
+4.4    When contacting The Company or responding to a promotion advertised.
+
+5.    There is certain information that is indirectly collected by The Company such as: IP Address, operating system, software configuration and the use of cookies. 
+
+6.    The Company will utilize the information collected from clients for the following purposes:
+
+6.1    To verify client's identity.  
+6.2    To set up, maintain and manage clients’ personal trading account.  
+6.3    To process deposits and withdraws in clients’ personal trading account.  
+6.4    To keep clients up to date with news, updates and new promotions.  
+6.5    To analyze client activity in order to improve and provide clients with the best products and services.  
+6.6    To provide clients with top – quality customer support.
+
+7.    The Company does not share any client information with any affiliated or unaffiliated third parties. only under the below circumstances will client's personal information be shared:
+
+7.1    In order to open, operate and service your personal trading account, The Company may share information with service providers such as attorneys, accountants, auditors, and other financial professionals.  
+7.2    In order to protect against fraud, money laundering, unauthorized transactions, claims or other liabilities.  
+7.3    The company may share information with affiliates and introducing brokers, mainly for the calculation of these entities' compensation. 
+
+8.    Links 
+
+8.1    Links to external sites may be found on the Company's website. The Company takes no responsibility for the content on the external websites and advice to all clients to read the privacy policy of the external websites before leaving any personal information. 
+
+8.2    The Company's Privacy Policy applies only to information collected by the company.
+
+ **AML Policy**
+
+Both the Company and Client are subject to Anti Money Laundering laws and regulation, applicable worldwide and locally. The Client must be aware and declare that:
+
+It use of the Company's website and services shall be made only with accordance to the applicable law and not for any criminal activity.
+
+All money transaction from or to the Client shall be consistent with AML laws and regulations, and the funds that the Client transfers to the Company do not derive from any criminal or other illegal activity.
+
+The Client obligates to provide true and updated information about himself, to enable the Company to identify the identity of the Client when receiving and transferring funds from and to the Client.
+
+Repayment of any funds by the Company to the Client will be in the same currency and to the same account/credit card from which the funds were originally transferred, unless the Company has decided, by its own discretion, to return the funds to a different account of the Client. 
