@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftease.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812180731id_/http%3A//www.giftease.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftease.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331010556id_/http%3A//www.giftease.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Giftease
 
