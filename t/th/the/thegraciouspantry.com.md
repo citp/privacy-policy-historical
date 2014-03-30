@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the thegraciouspantry.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619184305id_/http%3A//www.thegraciouspantry.com/privacy-statment) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegraciouspantry.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330191953id_/http%3A//www.thegraciouspantry.com/privacy-statment) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 This is the web site of The Gracious Pantry®.
 
 **Contact**  
-Tiffany McCauley can be reached via e-mail at thegraciouspantry[at]yahoo.com  
+Tiffany McCauley can be reached via e-mail at thegraciouspantry[at]gmail.com  
 or by US Postal mail at: P.O. Box 1141 Sebastopol, CA 95472
 
 **What Information Is Collected**
@@ -49,8 +49,6 @@ Consumers can have this information corrected by sending The Gracious Pantry® 
 
 **With respect to security:**  
 When The Gracious Pantry® transfers and receives certain types of sensitive information such as financial information, we redirect visitors to a secure server via our shopping cart, or by redirecting you to Amazon.com (our affiliate account) or PayPal.com (for direct payments).
-
-All purchases made through The Gracious Pantry® shopping cart are processed through a shopping cart hosted at Mal’s eCommerce, and all payments are processed through PayPal.
 
 If you feel that this site is not following its stated information policy, you may contact The Gracious Pantry® at the above email or mailing address.
 
