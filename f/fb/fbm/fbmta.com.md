@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbmta.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807121352id_/http%3A//www.fishbowl.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbmta.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330234954id_/http%3A//www.fbmta.com/index.php/privacy) for the most accurate reproduction.*
 
 # Fishbowl Privacy Policy | Fishbowl: Online Marketing for Restaurants
 
