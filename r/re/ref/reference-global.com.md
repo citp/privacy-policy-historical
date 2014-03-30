@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reference-global.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525042532id_/http%3A//www.degruyter.com/dg/page/2/datenschutzerklrung%3Ft%3Astate%3Aclient%3DH4sIAAAAAAAAAE3MvQ5BQRCG4fEXRKdxA%2BpVqZQSiTgRiSsY54y1smd3zU78NFqlG3FDarVOpbIa0T1f8uW9PaFxqANAJTLMPGuFAfMNKcFAUfg0VMYJsUOrIvHe5BTV2BpysiCOJkrSxJAtluIZNU3LYPszOt1fvWvz8b5UoZZBJ/dl8C5dp4VAN9viHgcWnR4shY3Towza629kjiXt4AyVDFoh1X77GARa1mvjVv6YuGZfLtIhsfhWkOWPH120FsXWAAAA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reference-global.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330214547id_/http%3A//www.degruyter.com/dg/page/2/datenschutzerklrung%3Ft%3Astate%3Aclient%3DH4sIAAAAAAAAAE3MvQ5BQRCG4fEXRKdxA%2BpVqZQSiTgRiSsY54y1smd3zU78NFqlG3FDarVOpbIa0T1f8uW9PaFxqANAJTLMPGuFAfMNKcFAUfg0VMYJsUOrIvHe5BTV2BpysiCOJkrSxJAtluIZNU3LYPszOt1fvWvz8b5UoZZBJ/dl8C5dp4VAN9viHgcWnR4shY3Towza629kjiXt4AyVDFoh1X77GARa1mvjVv6YuGZfLtIhsfhWkOWPH120FsXWAAAA) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -27,6 +27,8 @@ Our online shop is based on a secure HTTPS-connection (SSL); your data is being 
 ###   
 Cookies
 
+This website uses etracker technology ([www.etracker.com](http://www.etracker.com/)) to collect visitor behavior data. This data is collected anonymously to be used for marketing and optimization purposes. All visitor data is saved using an anonymous user ID and can be aggregated to a usage profile. Cookies may be used to collect and save this data, but the data remains strictly anonymous. The data will not be used to identify a visitor personally and are not aggregated with any personal data. The collection and storage of data may be [refused](https://www.etracker.de/privacy?et=EsbJNm) at any time with respect to subsequent services.
+
 In order to use our site, you will need to set the option in your browser to accept cookies. Unfortunately, there is no way to program a shopping basket that retains the items you put into it without using cookies. We do not use permanent cookies. Once you close your browser, the cookie will be deleted automatically. The cookies are only used to keep track of the items you place in the shopping basket - we do not track or retain your personal information beyond what is needed to complete the order. A cookie is a simple piece of text. It is not a program, or a plug-in. It cannot be used as a virus, and it cannot access your hard drive.
 
 ###   
@@ -47,7 +49,7 @@ Fax: +49 30 260 05-251
 E-mail: [feedback@degruyter.com](mailto:feedback@degruyter.com)
 
 ###   
-Data Security and Youth Protection Officer
+Data Security Officer
 
 Gudrun Crämer  
 Genthiner Str. 13  
