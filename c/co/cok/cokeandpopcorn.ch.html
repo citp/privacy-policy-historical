@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cokeandpopcorn.ch privacy policy that was archived on 2013-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131129130454id_/http%3A//www.cokeandpopcorn.ch/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cokeandpopcorn.ch privacy policy that was archived on 2014-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140330182745id_/http%3A//www.cokeandpopcorn.ch/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
@@ -9,7 +9,14 @@
 <link href="css/stylefun.css" rel="stylesheet" type="text/css">
 <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=206377116143054"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js" type="text/javascript"></script>
 <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js" type="text/javascript"></script>
-
+<!-- contact part -->
+<script type="text/javascript" src="/Contact-Pop/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript">  
+ var jqueryb = jQuery.noConflict(true);  
+</script>
+<script type="text/javascript" src="/Contact-Pop/js/contact-pop.js"></script>
+<link rel="stylesheet" type="text/css" href="/Contact-Pop/css/contact.css">
+<!-- end contact part -->
 <script type="text/javascript" src="/js/js.js"></script><title>Coke &amp; Popcorn &gt; Privacy Policy</title><meta property="og:site_name" content="Coke &amp; Popcorn">
 <meta property="fb:app_id" content="483653701679097">
 
@@ -31,7 +38,7 @@
 
 </head>
 <body>
-
+<a href="/contact.php"><img id="askForHelp" src="/images/askForHelp.png" border="0"></a>
 
 
 
@@ -51,16 +58,18 @@
 
 <ul>
 
-<li><a href="http://www.cokeandpopcorn.ch" class="hover">August 2013 videos</a></li>
-<li><a href="http://www.cokeandpopcorn.ch/funhistory.php">All videos </a></li>
-<li><a href="http://www.cokeandpopcorn.ch/funhistory.php">2013 </a></li>
-<li><a href="http://www.cokeandpopcorn.ch/funhistory.php">2012 </a></li>
-<li><a href="http://www.cokeandpopcorn.ch/funhistory.php">2011 </a></li>
-<li><a href="http://www.cokeandpopcorn.ch/funhistory.php">2010 </a></li>
-<li><a href="http://www.cokeandpopcorn.ch/funhistory.php">2009 </a></li>
-<li><a href="http://www.cokeandpopcorn.ch/funhistory.php">2008 </a></li>
-<li><a href="http://www.cokeandpopcorn.ch/tvsection.php">TV Shows </a></li>
-<li><a href="http://www.cokeandpopcorn.ch/terms.php">Terms of use</a></li>
+<li><a href="index.php">Home</a></li>
+<li><a href="cnp.php?sport=skate&amp;pg=1">Skate </a></li>
+<li><a href="cnp.php?sport=parkour&amp;pg=1">Parkour</a></li>
+<li><a href="cnp.php?sport=sky&amp;pg=1">Fly</a></li>
+<li><a href="cnp.php?sport=bike&amp;pg=1">Bike</a></li>
+<li><a href="cnp.php?sport=snow&amp;pg=1">Snow</a></li>
+<li><a href="cnp.php?sport=climb&amp;pg=1">Climb</a></li>
+<li><a href="cnp.php?sport=water&amp;pg=1">Water</a></li>
+<li><a href="cnp.php?sport=motor&amp;pg=1">Cars</a></li>
+
+<li><a href="gags.php" class="hover">Gags</a></li>
+<li><a href="tvsection.php">&nbsp;&nbsp; TV &nbsp;&nbsp; </a></li>
 <li><a href="http://www.cokeandpopcorn.ch/privacy.php">Privacy Policy</a></li>
 <li class="last"><a href="http://www.cokeandpopcorn.ch/contactus.php">Contact Us</a></li>
 </ul>
@@ -125,6 +134,14 @@ return false;
 <iframe src="http://www.cokeandpopcorn.ch/survey.htm"  frameborder="0" width="315" height="350" scrolling="no"></iframe>
 </div>
 -->
+<div class="left4" id="left4">
+<span class="boxTitle">Advertisement <a href="javascript:void(0)" onclick="closead(4)">- Mute Audio</a></span>
+
+<iframe src="http://www.cokeandpopcorn.ch/ads/300x250_bottomL.htm" width="300" height="250" frameborder="0" scrolling="no" horizontalscrolling="no" verticalscrolling="yes"></iframe>
+
+</div>
+
+<br>
 <div id="chatBox" style="display:none"></div>
 <div class="left4" id="CnPhangout">
 <span class="boxTitle">CnP Hangout </span>
@@ -148,14 +165,7 @@ return false;
 <br>
 
 
-<div class="left4" id="left4">
-<span class="boxTitle">Advertisement <a href="javascript:void(0)" onclick="closead(4)">- Mute Audio</a></span>
 
-<iframe src="http://www.cokeandpopcorn.ch/ads/300x250_bottomL.htm" width="300" height="250" frameborder="0" scrolling="no" horizontalscrolling="no" verticalscrolling="yes"></iframe>
-
-</div>
-
-<br>
 
 
 <!--<table>
@@ -250,59 +260,55 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 <ul>
 
 </ul>
-</div>-->
-<div id="rightcol2" style="height: 68px;">
+</div>
+<div id="rightcol2" style='height: 68px;'>
 <span class="boxTitle">Search</span>
 
-<div style="position: relative;"><div style="position: absolute;"><form method="POST" onsubmit="window.open(this.elements[0].
+<div style='position: relative;'><div style='position: absolute;'><form METHOD="POST" onsubmit="window.open(this.elements[0].
 options[this.elements[0].selectedIndex]. value,'_top'); return(false)">
-&nbsp;&nbsp;<select name="service" size="1" style="width: 150px; height: 43px;" onchange="window.open(this.options[this.selectedIndex].value,'_top')">
-<option value="" selected="">
-</option><option value="index.php">Viral Videos
-</option><option value="tvsection.php?srch=1">TV Shows
-</option><option value="undercont.php">Games
-</option><option value="undercont.php">Radio</option></select> </form></div>
-  <div style="position: absolute; height: 30px; margin: 0 auto; left:105px; z-index: 2;">
+&nbsp;&nbsp;<select NAME="service" SIZE="1" STYLE="width: 150px; height: 43px;" onChange="window.open(this.options[this.selectedIndex].value,'_top')">
+<option value="" SELECTED>
+<option value="index.php">Gags
+<option value="index.php">Kids Section
+<option value="index.php">Hidden Cam
+<option value="tvsection.php?srch=1">TV Shows
+<option value="undercont.php">Games
+</select> </div>
+  <div style='position: absolute; height: 30px; margin: 0 auto; left:105px; z-index: 2;'>
     <img src="http://www.cokeandpopcorn.ch/images/search.PNG"> </div></div>
 
 </div>
+
+<div id="rightcol2">
+<span class="boxTitle">Best of 2013</span>
+<ul>
+<img src="images/footplay.png"><br>
+<a href="bestgags.php">Sexy Foot PLay</a>
+</ul>
+</div>-->
+
 <div id="rightcol2">
 <span class="boxTitle">Back in the Days</span>
 <ul>
-<li><a href="pull.php?year=2013&amp;month=jul">July 2013</a></li>
-<li><a href="pull.php?year=2013&amp;month=jun">June 2013</a></li>
-<li><a href="pull.php?year=2013&amp;month=may">May 2013</a></li>
-<li><a href="pull.php?year=2013&amp;month=apr">April 2013</a></li>
-<li><a href="pull.php?year=2013&amp;month=mar">March 2013</a></li>
-<li><a href="pull.php?year=2013&amp;month=feb">February 2013</a></li>
-<li><a href="pull.php?year=2013&amp;month=jan">January 2013</a></li>
-<li><a href="pull.php?year=2012&amp;month=dec">December 2012</a></li>
-<li><a href="pull.php?year=2012&amp;month=nov">November 2012</a></li>
-<li><a href="pull.php?year=2012&amp;month=oct">October 2012</a></li>
-<li><a href="pull.php?year=2012&amp;month=sep">September 2012</a></li>
-<li><a href="pull.php?year=2012&amp;month=aug">August 2012</a></li>
-<li><a href="pull.php?year=2012&amp;month=jul">July 2012</a></li>
-
-
-
-
-<li><a href="funhistory.php"><b>See previous years</b></a></li>
+<li><a href="pull2.php?year=2014&amp;month=jan">January 2014</a></li>
+<li><a href="pull2.php?year=2013&amp;month=dec">December 2013</a></li>
+<li><a href="pull2.php?year=2013&amp;month=nov">November 2013</a></li>
+<li><a href="pull2.php?year=2013&amp;month=oct">October 2013</a></li>
+<li><a href="pull2.php?year=2013&amp;month=sep">September 2013</a></li>
+<li><a href="pull2.php?year=2013&amp;month=aug">August 2013</a></li>
+<li><a href="pull2.php?year=2013&amp;month=jul">July 2013</a></li>
+<li><a href="pull2.php?year=2013&amp;month=jun">June 2013</a></li>
+<li><a href="pull2.php?year=2013&amp;month=may">May 2013</a></li>
+<li><a href="pull2.php?year=2013&amp;month=apr">April 2013</a></li>
+<li><a href="pull2.php?year=2013&amp;month=mar">March 2013</a></li>
+<li><a href="pull2.php?year=2013&amp;month=feb">February 2013</a></li>
+<li><a href="pull2.php?year=2013&amp;month=jan">January 2013</a></li>
+<li><a href="pull2.php?year=2012&amp;month=dec">December 2012</a></li>
+<li><a href="funhistory2.php"><b>See previous years</b></a></li>
 </ul>
 </div>
 
-<!--<div id="rightcol2">
-<span class="boxTitle"> Support CnP</span>
-<div align="center">
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="FNCPFF5TRF4MW">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
 
-</div>
-</div>
-<br>-->
 <div id="rightcol2"> 
 <span class="boxTitle">Advert</span>
 
@@ -313,25 +319,7 @@ options[this.elements[0].selectedIndex]. value,'_top'); return(false)">
 
 
 
-<!--<div id="rightcol3"> 
-<span class="boxTitle">Advertisement</span>
 
-/* OpenX iFrame Tag v2.8.6-rc2 LJ outer */
-
-<iframe id='a5a46f7e' name='a5a46f7e' src='http://d1.openx.org/afr.php?zoneid=295976&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='160' height='600'><a href='http://d1.openx.org/ck.php?n=a4402d29&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://d1.openx.org/avw.php?zoneid=295976&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a4402d29' border='0' alt='' /></a></iframe>
-
-
-</div>-->
-
-
-<!--
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<div id="rightcol2">
-<span class="boxTitle">Random Sh*t</span>
-<div align="center">
-<iframe src="http://www.cokeandpopcorn.ch/mgid-vert.htm" width="165" height="400" frameborder="0" scrolling="no"></iframe>
-
-</div></div>-->
 </div>  
 
 
@@ -343,31 +331,12 @@ options[this.elements[0].selectedIndex]. value,'_top'); return(false)">
 
 </div>
 <!--body end -->
-<script type="text/javascript" async="" src="//ssl.widgets.webengage.com/js/widget/webengage-min-v-3.0.js"></script><script id="_webengage_script_tag" type="text/javascript">
-  window.webengageWidgetInit = window.webengageWidgetInit || function(){
-    webengage.init({
-      licenseCode:"~47b66703"
-    }).onReady(function(){
-      webengage.render();
-    });
-  };
 
-  (function(d){
-    var _we = d.createElement('script');
-    _we.type = 'text/javascript';
-    _we.async = true;
-    _we.src = (d.location.protocol == 'https:' ? "//ssl.widgets.webengage.com" : "//cdn.widgets.webengage.com") + "/js/widget/webengage-min-v-3.0.js";
-    var _sNode = d.getElementById('_webengage_script_tag');
-    _sNode.parentNode.insertBefore(_we, _sNode);
-  })(document);
-</script>
 
 <div id="bodyBottom">
 <!--upcoming episodes -->
 <div align="center">
-<div class="leaderboard"><span>Advertisement <a href="javascript:void(0)" onclick="closead(11)" align="center"><b>--MUTE!</b></a></span>
-<iframe src="http://www.cokeandpopcorn.ch/ads/728x90_bottom.php" width="728" height="90" frameborder="0" scrolling="no" allowtransparency="true" horizontalscrolling="no" verticalscrolling="no"></iframe>
-</div>
+<a href="http://tubeoffline.com?ck=2" target="_blank"><img src="http://cokeandpopcorn.ch/ads/tub/sc728.png"></a> 
 
 </div><!--upcoming episodes end --><br class="spacer">
 </div>
@@ -381,40 +350,11 @@ options[this.elements[0].selectedIndex]. value,'_top'); return(false)">
 	<li><a href="http://www.cokeandpopcorn.ch/privacy.php">Privacy Policy</a>|</li>
   </ul>
    <p class="copyright">© Coke &amp; Popcorn. All rights reserved.
-    <a href="http://www.me.cc/?r=samihabby" style="color:#323232; text-decoration:none;">Free .me.cc domains</a>
-<a href="http://cokeandpopcorn.me.cc" style="color:#323232; text-decoration:none;">.</a></p>
+   <a href="http://www.me.cc/?r=samihabby" style="color:#323232; text-decoration:none;">A Collection of the World's Best TV Shows and Videos.</a></p><a href="http://www.me.cc/?r=samihabby" style="color:#323232; text-decoration:none;">
 
    <br><br>
 
-  </div>
-
- <!-- PopAds.net Popunder Code for www.cokeandpopcorn.ch 
-<script type="text/javascript">
-  var _pop = _pop || [];
-  _pop.push(['siteId', 39802]);
-  _pop.push(['minBid', 0]);
-  _pop.push(['popundersPerIP', 3]);
-  _pop.push(['delayBetween', 0]);
-  _pop.push(['default', "PCEtLSBCRUdJTiBQT1AtVU5ERVIgLS0+DQo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+dmFyIF9ndW5nZ28gPXtzZXR0aW5nczp7c2l0ZUlEOidTMDAwMTUxNCcscG9wOnt0eXBlOidwb3B1bmRlcid9fX07PC9zY3JpcHQ+PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iaHR0cDovL2Nkbi5kaXJlY3RyZXYuY29tL2pzL2dwLm1pbi5qcyI+PC9zY3JpcHQ+PCEtLSBFTkQgUE9QLVVOREVSIC0tPg=="]);
-  _pop.push(['defaultPerDay', 3]);
-  _pop.push(['topmostLayer', false]);
-  (function() {
-    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
-    var s = document.getElementsByTagName('script')[0]; 
-    pa.src = 'http://c1.popads.net/pop.js';
-    pa.onerror = function() {
-      var sa = document.createElement('script'); sa.type = 'text/javascript'; sa.async = true;
-      sa.src = 'http://c2.popads.net/pop.js';
-      s.parentNode.insertBefore(sa, s);
-    };
-    s.parentNode.insertBefore(pa, s);
-  })();
-</script>
-PopAds.net Popunder Code End -->
+  </a></div><a href="http://www.me.cc/?r=samihabby" style="color:#323232; text-decoration:none;">
 
 
-
-
-
-
-</body></html>
+</a></body></html>
