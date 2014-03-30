@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobriya.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216105245id_/http%3A//www.jobriya.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobriya.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330191754id_/http%3A//www.jobriya.com/privacy.php) for the most accurate reproduction.*
 
 # Jobriya - Find Latest Government and Private Sector Jobs Vacancy Recruitment
 
