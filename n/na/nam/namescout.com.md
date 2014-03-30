@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the namescout.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116044850id_/http%3A//www.namescout.com/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namescout.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330190641id_/http%3A//www.namescout.com/PrivacyStatement.aspx) for the most accurate reproduction.*
 
-# Namescout.com - Privacy Statement
+# Privacy Statement
 
 ### This Privacy Statement protects your privacy by:
 
