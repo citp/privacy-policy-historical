@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the earlymoments.com privacy policy that was archived on 2013-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531050211id_/https%3A//www.earlymoments.com/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the earlymoments.com privacy policy that was archived on 2014-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140330235803id_/https%3A//www.earlymoments.com/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta name="description" content="This page describes the Privacy Policy of Early Moments.">
@@ -7,7 +7,7 @@
     <title>
 	
         Privacy Policy - Earlymoments.com
-</title><link rel="stylesheet" type="text/css" href="/styles/default/all.css" media="screen"><link rel="stylesheet" type="text/css" href="/styles/default/kolon.css"><link rel="stylesheet" type="text/css" href="/styles/default/custom.css" media="screen"><link rel="stylesheet" type="text/css" href="/styles/default/TextStyles.css"><link rel="stylesheet" type="text/css" href="/styles/default/print.css" media="print"><link rel="stylesheet" type="text/css" href="/styles/default/fonts.css" media="screen">
+</title><link rel="stylesheet" type="text/css" href="/styles/default/all.css?v2" media="screen"><link rel="stylesheet" type="text/css" href="/styles/default/kolon.css"><link rel="stylesheet" type="text/css" href="/styles/default/custom.css?v2" media="screen"><link rel="stylesheet" type="text/css" href="/styles/default/TextStyles.css"><link rel="stylesheet" type="text/css" href="/styles/default/print.css" media="print"><link rel="stylesheet" type="text/css" href="/styles/default/fonts.css" media="screen"><link rel="stylesheet" type="text/css" href="/styles/default/bootstrap.gbn.css?v2" media="screen">
     <!--[if IE 6]>
     <script type="text/javascript" src="/scripts/ie-hover-ns-pack.js"></script>
     <![endif]-->
@@ -18,7 +18,7 @@
     <script type="text/javascript" src="/scripts/html5.js"></script>
     <![endif]-->
     
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0012/4902.js?439592" async="" type="text/javascript"></script><script type="text/javascript">
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0012/4902.js?439597" async="" type="text/javascript"></script><script type="text/javascript">
     var console = window.console || { log: function () { } };
 
 
@@ -62,9 +62,27 @@
             facebooklib: '/scripts/js/libs/facebook',
             ads : '/scripts/js/libs/ads',
             marketing : '/scripts/js/libs/marketing',
-            analytics: '/scripts/js/libs/analytics'
+            analytics: '/scripts/js/libs/analytics',
+            backbone: '/scripts/js/base/extensions/backbone/lib/backbone',
+            underscore: '/scripts/js/base/aura/lib/lodash',
+            nickservice: '/scripts/nickservice',
+            bootstrap: '//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min'
         },
         shim: {
+            'bootstrap': {
+                deps: ['jquery'],
+                exports: '$.fn.popover'
+            },
+            'underscore': {
+                exports: '_'
+            },
+            'backbone': {
+                deps: ['underscore', 'jquery'],
+                exports: 'Backbone'
+            },
+            'jquery': {
+                exports: '$'
+            },
             galleria: {
                 deps: ['jquery'],
                 exports: 'jQuery.fn.galleria'
@@ -126,7 +144,7 @@
         }
     };
     </script>
-    <script data-main="main" type="text/javascript" src="/scripts/require.js"></script>
+    <script data-main="main" type="text/javascript" src="/scripts/require.js"></script><script type="text/javascript" charset="utf-8" data-requirecontext="_" data-requiremodule="main" src="/Scripts/main.js"></script>
     <script type="text/javascript">
         require.onError = function (err) {
             console.log(err.requireType);
@@ -152,30 +170,91 @@
 <meta id="ctl00_cphFacebookMetaData_fbMeta_fmdType" property="og:type" content="article">
 <meta id="ctl00_cphFacebookMetaData_fbMeta_fmbImage" property="og:image" content="">
 <meta id="ctl00_cphFacebookMetaData_fbMeta_fmbSiteName" property="og:site_name" content="Earlymoments.com">
-<meta id="ctl00_cphFacebookMetaData_fbMeta_fmbDescription" property="og:description" content="This privacy policy was last updated on March 6, 2009. Early Moments is part of Sandvik Publishing Interactive, Inc. (SPI) which is the Pennsylvania company that owns and operates this Web site. We care about the privacy of each user of our Web site. This privacy statement discloses the privacy practices for this Web site. If you have any questions or concerns regarding this statement, please contact Customer Care at 1-800-353-3140.">
+<meta id="ctl00_cphFacebookMetaData_fbMeta_fmbDescription" property="og:description" content="This privacy policy was last updated on&amp;nbsp;July 3, 2013. Early Moments is part of Sandvik Publishing Interactive, Inc. (SPI) which is the Pennsylvania company that owns and operates this Web site. We care about the privacy of each user of our Web site. This privacy statement discloses the privacy practices for this Web site. If you have any questions or concerns regarding this statement, please contact Customer Care at 1-800-353-3140.">
 <meta id="ctl00_cphFacebookMetaData_fbMeta_fmbUrl" property="og:url" content="http://www.earlymoments.com/Privacy-Policy/">
 <meta id="ctl00_cphFacebookMetaData_fbMeta_fmdAppId" property="fb:app_id" content="171225629600117">
 
 
 
-<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="main" src="/Scripts/main.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="/Scripts/jquery.js"></script></head>
+    
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="/Styles/Default/Mobile.css" rel="stylesheet">
+
+<script type="text/javascript">
+    
+    require(['jquery'], function ($) {
+        
+        /* Toggle Mobile Menu */
+        window.ToggleMobileMenu = function() {
+            $(".mobileMenuContainer").slideToggle(300);
+        };
+        
+    });
+    
+</script>
+<script type="text/javascript" charset="utf-8" data-requirecontext="_" data-requiremodule="jquery" src="/Scripts/jquery.js"></script><script type="text/javascript" charset="utf-8" data-requirecontext="_" data-requiremodule="placeholder" src="/scripts/jquery.placeholder.js"></script></head>
 <body>
     <!-- start wrapper -->
     <div id="wrapper">
-        <form name="aspnetForm" method="post" action="/Privacy-Policy/" id="aspnetForm">
+        
+        <form name="aspnetForm" method="post" action="/Privacy-Policy/" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
 <div>
 <input type="hidden" name="ctl00_ScriptManager1_HiddenField" id="ctl00_ScriptManager1_HiddenField" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTEyMDg5Nzg0MA9kFgJmD2QWBGYQZGQWBAIND2QWAmYPZBYCZg8WAh4EVGV4dAVHPGxpbmsgcmVsPSJzaG9ydGN1dCBpY29uIiBocmVmPSIvdXBsb2FkL0RpdmVyc2UvRmF2aWNvbi9mYXZpY29uLmljbyIgLz5kAg8PZBYCAgEPZBYOZg8WAh4HY29udGVudAUOUHJpdmFjeSBQb2xpY3lkAgIPFgIfAQUHYXJ0aWNsZWQCBA8WAh8BZWQCBg8WAh8BBRBFYXJseW1vbWVudHMuY29tZAIIDxYCHwEFtANUaGlzIHByaXZhY3kgcG9saWN5IHdhcyBsYXN0IHVwZGF0ZWQgb24gTWFyY2ggNiwgMjAwOS4gRWFybHkgTW9tZW50cyBpcyBwYXJ0IG9mIFNhbmR2aWsgUHVibGlzaGluZyBJbnRlcmFjdGl2ZSwgSW5jLiAoU1BJKSB3aGljaCBpcyB0aGUgUGVubnN5bHZhbmlhIGNvbXBhbnkgdGhhdCBvd25zIGFuZCBvcGVyYXRlcyB0aGlzIFdlYiBzaXRlLiBXZSBjYXJlIGFib3V0IHRoZSBwcml2YWN5IG9mIGVhY2ggdXNlciBvZiBvdXIgV2ViIHNpdGUuIFRoaXMgcHJpdmFjeSBzdGF0ZW1lbnQgZGlzY2xvc2VzIHRoZSBwcml2YWN5IHByYWN0aWNlcyBmb3IgdGhpcyBXZWIgc2l0ZS4gSWYgeW91IGhhdmUgYW55IHF1ZXN0aW9ucyBvciBjb25jZXJucyByZWdhcmRpbmcgdGhpcyBzdGF0ZW1lbnQsIHBsZWFzZSBjb250YWN0IEN1c3RvbWVyIENhcmUgYXQgMS04MDAtMzUzLTMxNDAuZAIKDxYCHwEFK2h0dHA6Ly93d3cuZWFybHltb21lbnRzLmNvbS9Qcml2YWN5LVBvbGljeS9kAgwPFgIfAQUPMTcxMjI1NjI5NjAwMTE3ZAIBEGRkFhYCAw9kFgQCAQ9kFgICAQ8PFgIeCFJvb3RQYWdlBQUyNTQ2N2QWAmYPZBYCAgEPFCsAAg8WBB4LXyFEYXRhQm91bmRnHgtfIUl0ZW1Db3VudGZkZGQCAw9kFg4CAQ8PFgYeCEltYWdlVXJsZB4NQWx0ZXJuYXRlVGV4dAUOUHJpdmFjeSBQb2xpY3keB1Zpc2libGVoZGQCAw8WAh4Fc3R5bGUFBXRvcDo7FgICAQ8PFgIfB2hkFgJmDxYCHgVjbGFzcwUTbWV0YS1ib3hBcnRpY2xlV2lkZRYCAgMPFCsAAg8WBB8DZx8EAv////8PZGRkAgUPFgIfAAUOUHJpdmFjeSBQb2xpY3lkAgcPZBYCZg9kFgJmDw8WAh8HZ2RkAgkPDxYEHgtfaXNFZGl0YWJsZWgeCV9sYXN0VHlwZQUHRGVmYXVsdGRkAgsPDxYEHwpoHwsFB0RlZmF1bHRkZAINDw8WAh8HaGRkAgUPZBYCZg9kFgJmD2QWAgIBD2QWAgIDD2QWAgIBDw8WBh8AZB4HVG9vbFRpcGQeC05hdmlnYXRlVXJsZGRkAgcPZBYCZg8WAh8IBUBiYWNrZ3JvdW5kOnVybCgvdXBsb2FkL0xvZ29lci9FTWxvZ28td2ViLXRhZ2xpbmUucG5nKSBuby1yZXBlYXQ7FgICAQ8PFgYfAGQfDQUsL1RlbXBsYXRlcy9EZWZhdWx0L1BhZ2VzL1N0YXJ0LmFzcHg/aWQ9MjIxOTYfDAUNRWFybHkgTW9tZW50c2RkAgkPZBYIAgEPDxYEHwAFBEhvbWUfDQUBL2RkAgMPDxYEHwAFB015IFBhZ2UfDQUIL015UGFnZS9kZAIFDw8WAh8HaGRkAgcPFgIfB2gWAgIBD2QWBAIBDw9kFgIeC3BsYWNlaG9sZGVyBQZTZWFyY2hkAgMPDxYCHwAFBlNlYXJjaGRkAgsPZBYCAgEPZBYCZg9kFgICAQ9kFgJmD2QWAgIFDxAPFgIeB0NoZWNrZWRoZGRkZAIND2QWBgIBDw8WBh8KaB4JX3BhZ2VMaW5rKClsRVBpU2VydmVyLkNvcmUuUGFnZVJlZmVyZW5jZSwgRVBpU2VydmVyLCBWZXJzaW9uPTYuMS4zNzkuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj04ZmU4M2RlYTczOGI0NWI3BTIyMTk2HwsFB0RlZmF1bHRkZAIDDxQrAAIPFgQfA2cfBAIJZGQWAmYPZBYEAgEPZBYKAgEPZBYCAgEPDxYEHw0FLy9UZW1wbGF0ZXMvTXlQYWdlL1BhZ2VzL0Zyb250UGFnZS5hc3B4P2lkPTIyNDU0HwxkZBYCZg8PFgYfAAUHTXkgUGFnZR4IQ3NzQ2xhc3MFEUhlYWRpbmdMaWdodEdyZWVuHgRfIVNCAgJkZAICD2QWAgIBDw8WBB8NBS4vVGVtcGxhdGVzL0RlZmF1bHQvUGFnZXMvQXJ0aWNsZS5hc3B4P2lkPTI0NjQ4HwxkZBYCZg8PFgYfAAUIQWJvdXQgdXMfEQUNSGVhZGluZ1Zpb2xldB8SAgJkZAIDD2QWAgIBDw8WBB8NBS4vVGVtcGxhdGVzL0RlZmF1bHQvUGFnZXMvQXJ0aWNsZS5hc3B4P2lkPTI1ODUzHwxkZBYCZg8PFgYfAAUERkFRcx8RBQ9IZWFkaW5nRGFya0JsdWUfEgICZGQCBA9kFgICAQ8PFgQfDQUuL1RlbXBsYXRlcy9EZWZhdWx0L1BhZ2VzL0FydGljbGUuYXNweD9pZD0yNDc0Nh8MZGQWAmYPDxYGHwAFDUN1c3RvbWVyIENhcmUfEQUNSGVhZGluZ09yYW5nZR8SAgJkZAIFD2QWAgIBDw8WBB8NBS4vVGVtcGxhdGVzL0RlZmF1bHQvUGFnZXMvQXJ0aWNsZS5hc3B4P2lkPTg4NDgyHwxkZBYCZg8PFgYfAAUOTWFrZSBhIFBheW1lbnQfEQUQSGVhZGluZ0xpZ2h0Qmx1ZR8SAgJkZAICD2QWCAIBD2QWAgIBDw8WBB8NBS4vVGVtcGxhdGVzL0RlZmF1bHQvUGFnZXMvQXJ0aWNsZS5hc3B4P2lkPTI1NDY3HwxkZBYCZg8PFgYfAAUOUHJpdmFjeSBQb2xpY3kfEQULSGVhZGluZ1BpbmsfEgICZGQCAg9kFgICAQ8PFgQfDQUuL1RlbXBsYXRlcy9EZWZhdWx0L1BhZ2VzL0FydGljbGUuYXNweD9pZD0yNjA1Mx8MZGQWAmYPDxYGHwAFEUluZGV4IG9mIEFydGljbGVzHxEFEUhlYWRpbmdMaWdodEdyZWVuHxICAmRkAgMPZBYCAgEPDxYEHw0FL2h0dHA6Ly93d3cuZWFybHltb21lbnRzLmNvbS9TaXRlbWFwLmF4ZD9pbmRleD0xHwxkZBYCZg8PFgYfAAUIU2l0ZSBtYXAfEQUNSGVhZGluZ1Zpb2xldB8SAgJkZAIED2QWAgIBDw8WBB8NBS0vVGVtcGxhdGVzL0RlZmF1bHQvUGFnZXMvU2ltcGxlLmFzcHg/aWQ9OTA5MjQfDGRkFgJmDw8WBh8ABRhFbXBsb3ltZW50IE9wcG9ydHVuaXRpZXMfEQUPSGVhZGluZ0RhcmtCbHVlHxICAmRkAgUPFgQfAAXTCDwhLS0gIEdvb2dsZSBUcmFja2luZy0gLS0+DQo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+Ly8gPCFbQ0RBVEFbDQovLyA8IVtDREFUQVsNCgkJdmFyIGdhSnNIb3N0ID0gKCgiaHR0cHM6IiA9PSBkb2N1bWVudC5sb2NhdGlvbi5wcm90b2NvbCkgPyAiaHR0cHM6Ly9zc2wuIiA6ICJodHRwOi8vd3d3LiIpOw0KCQlkb2N1bWVudC53cml0ZSh1bmVzY2FwZSgiJTNDc2NyaXB0IHNyYz0nIiArIGdhSnNIb3N0ICsgImdvb2dsZS1hbmFseXRpY3MuY29tL2dhLmpzJyB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnJTNFJTNDL3NjcmlwdCUzRSIpKTsNCi8vIDwhW0NEQVRBWw0KLy8gXV0+PC9zY3JpcHQ+DQo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+Ly8gPCFbQ0RBVEFbDQovLyA8IVtDREFUQVsNCgkJdHJ5ew0KCQl2YXIgcGFnZVRyYWNrZXIgPSBfZ2F0Ll9nZXRUcmFja2VyKCJVQS04Mzk2MjgxLTEiKTsNCgkJcGFnZVRyYWNrZXIuX3NldERvbWFpbk5hbWUoImVhcmx5bW9tZW50cy5jb20iKTsNCgkJcGFnZVRyYWNrZXIuX3RyYWNrUGFnZXZpZXcoKTsNCgkJfSBjYXRjaChlcnIpIHt9DQovLyA8IVtDREFUQVsNCi8vIF1dPjwvc2NyaXB0Pg0KPCEtLSAgR29vZ2xlIFRyYWNraW5nLSAtLT4NCjxwPjxpbWcgc3JjPSJodHRwczovL3d3dy5idXJzdG5ldC5jb20vZW5saWdodG4vNDU3OS8vQUQ0QS8iIGJvcmRlcj0iMCIgYWx0PSIiIHdpZHRoPSIwIiBoZWlnaHQ9IjAiIC8+PC9wPg0KDQo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+DQpzZXRUaW1lb3V0KGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7DQp2YXIgYj1kb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnc2NyaXB0JylbMF07DQphLnNyYz1kb2N1bWVudC5sb2NhdGlvbi5wcm90b2NvbCsiLy9kbm41MDZ5cmJhZ3JnLmNsb3VkZnJvbnQubmV0L3BhZ2VzL3NjcmlwdHMvMDAxMi80OTAyLmpzPyIrTWF0aC5mbG9vcihuZXcgRGF0ZSgpLmdldFRpbWUoKS8zNjAwMDAwKTsNCmEuYXN5bmM9dHJ1ZTthLnR5cGU9InRleHQvamF2YXNjcmlwdCI7Yi5wYXJlbnROb2RlLmluc2VydEJlZm9yZShhLGIpfSwgMSk7DQo8L3NjcmlwdD4NCh8HZ2QCDw9kFgYCAQ9kFgJmDw8WBh8NBQgvTXlQYWdlLx8ABQdNeSBQYWdlHwwFB015IFBhZ2VkZAIDD2QWAmYPDxYGHw0FKi9Qcm9tb3RpbmctTGl0ZXJhY3ktYW5kLWEtTG92ZS1vZi1SZWFkaW5nLx8ABRJDaGlsZHJlbiAmIFJlYWRpbmcfDAUSQ2hpbGRyZW4gJiBSZWFkaW5nZGQCBQ9kFgJmDw8WBh8NBSpodHRwczovL3d3dy5lYXJseW1vbWVudHMuY29tL091ci1Qcm9kdWN0cy8fAAUOUG9wdWxhciBvZmZlcnMfDAUOUG9wdWxhciBvZmZlcnNkZAIRD2QWAgIBD2QWBAIBD2QWAgIBDw8WBB8NBSwvVGVtcGxhdGVzL0RlZmF1bHQvUGFnZXMvU3RhcnQuYXNweD9pZD0yMjE5Nh8ABQRIb21lZGQCAw8WAh4JX1BhZ2VMaW5rKCsEBTIyMTk2FhpmD2QWAgIBD2QWBGYPFQEAZAIBD2QWAgIBDw8WBh8KaB4OX2JvdW5kUGFnZUxpbmsCtq8BHwsFB0RlZmF1bHRkZAIBD2QWAgIBD2QWBGYPFQEMIG5vcm1hbC1tZW51ZAIBD2QWAgIBDw8WBh8KaB8UAo/HAR8LBQdEZWZhdWx0ZGQCAg9kFgICAQ9kFgRmDxUBDCBub3JtYWwtbWVudWQCAQ9kFgICAQ8PFgYfCmgfFAKQxwEfCwUHRGVmYXVsdGRkAgMPZBYCAgEPZBYEZg8VAR1zaWRlYmFyLXNlcGFyYXRvciBub3JtYWwtbWVudWQCAQ9kFgICAQ8PFgYfCmgfFALIwAEfCwUHRGVmYXVsdGRkAgQPZBYCAgEPZBYEZg8VAQBkAgEPZBYCAgEPDxYGHwpoHxQCss8FHwsFB0RlZmF1bHRkZAIFD2QWAgIBD2QWBGYPFQEMIG5vcm1hbC1tZW51ZAIBD2QWAgIBDw8WBh8KaB8UAsrsAx8LBQdEZWZhdWx0ZGQCBg9kFgICAQ9kFgRmDxUBDCBub3JtYWwtbWVudWQCAQ9kFgICAQ8PFgYfCmgfFAKV0gUfCwUHRGVmYXVsdGRkAgcPZBYCAgEPZBYEZg8VAQwgbm9ybWFsLW1lbnVkAgEPZBYCAgEPDxYGHwpoHxQC0LMFHwsFB0RlZmF1bHRkZAIID2QWAgIBD2QWBGYPFQEdc2lkZWJhci1zZXBhcmF0b3Igbm9ybWFsLW1lbnVkAgEPZBYCAgEPDxYGHwpoHxQC/ckBHwsFB0RlZmF1bHRkZAIJD2QWAgIBD2QWBGYPFQEMIG5vcm1hbC1tZW51ZAIBD2QWAgIBDw8WBh8KaB8UAqrBAR8LBQdEZWZhdWx0ZGQCCg9kFgICAQ9kFgRmDxUBDCBub3JtYWwtbWVudWQCAQ9kFgICAQ8PFgYfCmgfFAKNwAIfCwUHRGVmYXVsdGRkAgsPZBYCAgEPZBYEZg8VAQwgbm9ybWFsLW1lbnVkAgEPZBYCAgEPDxYGHwpoHxQCr68BHwsFB0RlZmF1bHRkZAIMD2QWAgIBD2QWBGYPFQEdc2lkZWJhci1zZXBhcmF0b3Igbm9ybWFsLW1lbnVkAgEPZBYCAgEPDxYGHwpoHxQCorMFHwsFB0RlZmF1bHRkZAITD2QWAgIBDxYCHxAoKwQFODI5NzcWBGYPZBYCZg8VAdkCPGgyPjxpbWcgdGl0bGU9IkZhY2Vib29rIiBzcmM9Ii91cGxvYWQvR29ib2tlbi9GYWNlYm9va19Ud2l0dGVyL0ZhY2Vib29rX3N5bWJvbF8zMHBpeC5qcGciIGFsdD0iRmFjZWJvb2siIHdpZHRoPSIzMCIgaGVpZ2h0PSIzMCIgLz48YnIgLz48c3BhbiBjbGFzcz0iSGVhZGluZ09yYW5nZSI+PGEgdGl0bGU9IkVhcmx5IE1vbWVudHMiIGhyZWY9Imh0dHA6Ly93d3cuZmFjZWJvb2suY29tL3VwZGF0ZV9zZWN1cml0eV9pbmZvLnBocD93aXphcmQ9MSMhL3BhZ2VzL0Vhcmx5LU1vbWVudHMvOTgwMDEwODM0NDAiIHRhcmdldD0iX2JsYW5rIj5Kb2luIFVTIE9OPGJyIC8+ZmFjZWJvb2s8L2E+PC9zcGFuPjwvaDI+ZAIBD2QWAmYPFQHzATxoMiBzdHlsZT0idGV4dC1hbGlnbjogcmlnaHQ7Ij4mbmJzcDs8aW1nIHNyYz0iL3VwbG9hZC9Hb2Jva2VuL0ZhY2Vib29rX1R3aXR0ZXIvVHdpdHRlcl9zeW1ib2xfMzBwaXguanBnIiBhbHQ9IiIgd2lkdGg9IjMwIiBoZWlnaHQ9IjMwIiAvPjxiciAvPjxhIGNsYXNzPSJIZWFkaW5nTGlnaHRCbHVlIiBocmVmPSJodHRwOi8vdHdpdHRlci5jb20vIyEvS2lkQm9va01vbW15Ij5Gb2xsb3cgdXMgb24gdHdpdHRlcjwvYT48L2gyPmQCGQ9kFgJmDxYCHwdoFgZmDxYCHwBkZAIBDxQrAAIPFgQfA2cfBAL/////D2RkZAIEDw8WAh8NZWQWAgIBDxYCHwBkZAIbD2QWBGYPFgIfECgrBAU4Mjk3NhYCAgEPZBYCZg8VAegBPHA+PGEgaHJlZj0iaHR0cHM6Ly9ob29rZWRvbnBob25pY3MuY29tLz9zb3VyY2U9ZWFybHltb21lbnRzIiB0YXJnZXQ9Il9CbGFuayI+PGltZyBzcmM9Ii91cGxvYWQvRWFybHlNb21lbnRzL0FkQ2FtcGFpZ25zLzExMTJfMTQ5NV8xNjB4NjAwXzAxLmdpZiIgYWx0PSJIb29rZWQgb24gUGhvbmljczogVGVhY2ggWW91ciBDaGlsZCB0byBSZWFkIiB3aWR0aD0iMTYwIiBoZWlnaHQ9IjYwMCIgLz48L2E+PC9wPmQCAg8WAh8QZGQYCQU5Y3RsMDAkZnVsbFJlZ2lvbiRuYXZpZ2F0aW9uUmVnaW9uJHVjU3ViTWVudSRsc3RQYXJlbnRMaXN0DzwrAA4DCGYMZg0C/////w9kBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgUsY3RsMDAkdWNMb2dpbiRsb2dpblZpZXckbG9naW5DdHJsJFJlbWVtYmVyTWUFTWN0bDAwJHVjTG9naW4kbG9naW5WaWV3JGxvZ2luQ3RybCR1Y1Bhc3N3b3JkUmVjb3ZlcnkkaW1iQ2xvc2VQYXNzd29yZFJlY292ZXJ5BRRjdGwwMCRjdGwwOSRtdkhlYWRlcg8PZAIBZAU2Y3RsMDAkZnVsbFJlZ2lvbiRtYWluUmVnaW9uJExpbmtlZEFydGljbGVzMSRsdkFydGljbGVzD2dkBRZjdGwwMCRSaWdodEJveCRib3hsaXN0Dw9mZGQFFmN0bDAwJHVjRm9vdGVyJGx2TGlua3MPFCsADmRkZAIFZGRkPCsACQACCWRkZGYC/////w9kBRhjdGwwMCRjdGwxMCRsZWZ0Ym94bGlua3MPD2ZkZAUbY3RsMDAkUmlnaHRCb3gkYm94bGlzdGxvd2VyDw9mZGQFI2N0bDAwJFNob3BwaW5nQ2FydCRsdlNob3BwaW5nQmFza2V0D2dkYRGHDgufbTrQWaN0bQj6kSK7Zfg=">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1NzE0NjQ0MTEPZBYCZg9kFgZmEGRkFgQCDg9kFgJmD2QWAmYPFgIeBFRleHQFRzxsaW5rIHJlbD0ic2hvcnRjdXQgaWNvbiIgaHJlZj0iL3VwbG9hZC9EaXZlcnNlL0Zhdmljb24vZmF2aWNvbi5pY28iIC8+ZAIQD2QWAgIBD2QWDmYPFgIeB2NvbnRlbnQFDlByaXZhY3kgUG9saWN5ZAICDxYCHwEFB2FydGljbGVkAgQPFgIfAWVkAgYPFgIfAQUQRWFybHltb21lbnRzLmNvbWQCCA8WAh8BBbgDVGhpcyBwcml2YWN5IHBvbGljeSB3YXMgbGFzdCB1cGRhdGVkIG9uJm5ic3A7SnVseSAzLCAyMDEzLiBFYXJseSBNb21lbnRzIGlzIHBhcnQgb2YgU2FuZHZpayBQdWJsaXNoaW5nIEludGVyYWN0aXZlLCBJbmMuIChTUEkpIHdoaWNoIGlzIHRoZSBQZW5uc3lsdmFuaWEgY29tcGFueSB0aGF0IG93bnMgYW5kIG9wZXJhdGVzIHRoaXMgV2ViIHNpdGUuIFdlIGNhcmUgYWJvdXQgdGhlIHByaXZhY3kgb2YgZWFjaCB1c2VyIG9mIG91ciBXZWIgc2l0ZS4gVGhpcyBwcml2YWN5IHN0YXRlbWVudCBkaXNjbG9zZXMgdGhlIHByaXZhY3kgcHJhY3RpY2VzIGZvciB0aGlzIFdlYiBzaXRlLiBJZiB5b3UgaGF2ZSBhbnkgcXVlc3Rpb25zIG9yIGNvbmNlcm5zIHJlZ2FyZGluZyB0aGlzIHN0YXRlbWVudCwgcGxlYXNlIGNvbnRhY3QgQ3VzdG9tZXIgQ2FyZSBhdCAxLTgwMC0zNTMtMzE0MC5kAgoPFgIfAQUraHR0cDovL3d3dy5lYXJseW1vbWVudHMuY29tL1ByaXZhY3ktUG9saWN5L2QCDA8WAh8BBQ8xNzEyMjU2Mjk2MDAxMTdkAgEPDxYCHgdWaXNpYmxlaGRkAgIQZGQWIgIDD2QWBAIBD2QWAgIBDw8WAh4IUm9vdFBhZ2UFBTI1NDY3ZBYCZg8WAh8CaBYCAgEPFCsAAg8WBB4LXyFEYXRhQm91bmRnHgtfIUl0ZW1Db3VudGZkZGQCAw9kFg4CAQ8PFgYeCEltYWdlVXJsZB4NQWx0ZXJuYXRlVGV4dAUOUHJpdmFjeSBQb2xpY3kfAmhkZAIDDxYCHgVzdHlsZQUFdG9wOjsWAgIBDw8WAh8CaGQWAmYPFgIeBWNsYXNzBRNtZXRhLWJveEFydGljbGVXaWRlFgICAw8UKwACDxYEHwRnHwUC/////w9kZGQCBQ8WAh8ABQ5Qcml2YWN5IFBvbGljeWQCBw8PFgIfAmhkZAIJDw8WBB4LX2lzRWRpdGFibGVoHglfbGFzdFR5cGUFB0RlZmF1bHRkZAILDw8WBB8KaB8LBQdEZWZhdWx0ZGQCDQ8PFgIfAmhkZAIFD2QWAmYPZBYCZg9kFgICAQ9kFgICAw9kFgICAQ8PFgYfAGQeB1Rvb2xUaXBkHgtOYXZpZ2F0ZVVybGRkZAIHD2QWAmYPFgIfCAVAYmFja2dyb3VuZDp1cmwoL3VwbG9hZC9Mb2dvZXIvRU1sb2dvLXdlYi10YWdsaW5lLnBuZykgbm8tcmVwZWF0OxYCAgEPDxYGHwBkHw0FLC9UZW1wbGF0ZXMvRGVmYXVsdC9QYWdlcy9TdGFydC5hc3B4P2lkPTIyMTk2HwwFDUVhcmx5IE1vbWVudHNkZAIJD2QWCAIBDw8WBB8NBQgvTXlQYWdlLx8ABQdNeSBQYWdlZGQCAw8PFgQfDWUfAAURU2hvcHBpbmcgQ2FydCAoMClkZAIFDw8WAh8ABQlNeSBlQm9va3NkZAIHDxYCHwJoFgICAQ9kFgQCAQ8PZBYCHgtwbGFjZWhvbGRlcgUMU2VhcmNoIFN0b3JlZAIDDw8WAh8ABQZTZWFyY2hkZAILD2QWAgIBD2QWAmYPZBYCAgEPZBYCZg9kFgICBQ8QDxYCHgdDaGVja2VkaGRkZGQCDw8PFgIfDQUIL015UGFnZS9kZAIRDw8WAh8NBS5odHRwczovL29yZGVycy5lYXJseW1vbWVudHMuY29tL2xvZ2luaGVscC5hc3B4ZGQCEw8PFgYfDQUIL015UGFnZS8fAAUHTXkgUGFnZR8MBQdNeSBQYWdlZGQCFQ8PFgYfDQUqL1Byb21vdGluZy1MaXRlcmFjeS1hbmQtYS1Mb3ZlLW9mLVJlYWRpbmcvHwAFEkNoaWxkcmVuICYgUmVhZGluZx8MBRJDaGlsZHJlbiAmIFJlYWRpbmdkZAIXDw8WBh8NBSpodHRwczovL3d3dy5lYXJseW1vbWVu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AgIBDw8WBB8NBS4vVGVtcGxhdGVzL0RlZmF1bHQvUGFnZXMvQXJ0aWNsZS5hc3B4P2lkPTI1NDY3HwxkZBYCZg8PFgYfAAUOUHJpdmFjeSBQb2xpY3kfEwULSGVhZGluZ1BpbmsfFAICZGQCAg9kFgICAQ8PFgQfDQUuL1RlbXBsYXRlcy9EZWZhdWx0L1BhZ2VzL0FydGljbGUuYXNweD9pZD0yNjA1Mx8MZGQWAmYPDxYGHwAFEUluZGV4IG9mIEFydGljbGVzHxMFEUhlYWRpbmdMaWdodEdyZWVuHxQCAmRkAgMPZBYCAgEPDxYEHw0FL2h0dHA6Ly93d3cuZWFybHltb21lbnRzLmNvbS9TaXRlbWFwLmF4ZD9pbmRleD0xHwxkZBYCZg8PFgYfAAUIU2l0ZSBtYXAfEwUNSGVhZGluZ1Zpb2xldB8UAgJkZAIED2QWAgIBDw8WBB8NBS0vVGVtcGxhdGVzL0RlZmF1bHQvUGFnZXMvU2ltcGxlLmFzcHg/aWQ9OTA5MjQfDGRkFgJmDw8WBh8ABRhFbXBsb3ltZW50IE9wcG9ydHVuaXRpZXMfEwUPSGVhZGluZ0RhcmtCbHVlHxQCAmRkAgUPFgQfAAXoDTwhLS0gIEdvb2dsZSBUcmFja2luZy0gLS0+DQo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+Ly8gPCFbQ0RBVEFbDQovLyA8IVtDREFUQVsNCgkJdmFyIGdhSnNIb3N0ID0gKCgiaHR0cHM6IiA9PSBkb2N1bWVudC5sb2NhdGlvbi5wcm90b2NvbCkgPyAiaHR0cHM6Ly9zc2wuIiA6ICJodHRwOi8vd3d3LiIpOw0KCQlkb2N1bWVudC53cml0ZSh1bmVzY2FwZSgiJTNDc2NyaXB0IHNyYz0nIiArIGdhSnNIb3N0ICsgImdvb2dsZS1hbmFseXRpY3MuY29tL2dhLmpzJyB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnJTNFJTNDL3NjcmlwdCUzRSIpKTsNCi8vIDwhW0NEQVRBWw0KLy8gXV0+PC9zY3JpcHQ+DQo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+Ly8gPCFbQ0RBVEFbDQovLyA8IVtDREFUQVsNCgkJdHJ5ew0KCQl2YXIgcGFnZVRyYWNrZXIgPSBfZ2F0Ll9nZXRUcmFja2VyKCJVQS04Mzk2MjgxLTEiKTsNCgkJcGFnZVRyYWNrZXIuX3NldERvbWFpbk5hbWUoImVhcmx5bW9tZW50cy5jb20iKTsNCgkJcGFnZVRyYWNrZXIuX3RyYWNrUGFnZXZpZXcoKTsNCgkJfSBjYXRjaChlcnIpIHt9DQovLyA8IVtDREFUQVsNCi8vIF1dPjwvc2NyaXB0Pg0KPCEtLSAgR29vZ2xlIFRyYWNraW5nLSAtLT4NCjwhLS1wPjxpbWcgc3JjPSJodHRwczovL3d3dy5idXJzdG5ldC5jb20vZW5saWdodG4vNDU3OS8vQUQ0QS8iIGJvcmRlcj0iMCIgYWx0PSIiIHdpZHRoPSIwIiBoZWlnaHQ9IjAiIC8+PC9wLS0+DQoNCjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4NCnNldFRpbWVvdXQoZnVuY3Rpb24oKXt2YXIgYT1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCJzY3JpcHQiKTsNCnZhciBiPWRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdzY3JpcHQnKVswXTsNCmEuc3JjPWRvY3VtZW50LmxvY2F0aW9uLnByb3RvY29sKyIvL2RubjUwNnlyYmFncmcuY2xvdWRmcm9udC5uZXQvcGFnZXMvc2NyaXB0cy8wMDEyLzQ5MDIuanM/IitNYXRoLmZsb29yKG5ldyBEYXRlKCkuZ2V0VGltZSgpLzM2MDAwMDApOw0KYS5hc3luYz10cnVlO2EudHlwZT0idGV4dC9qYXZhc2NyaXB0IjtiLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKGEsYil9LCAxKTsNCjwvc2NyaXB0Pg0KPCEtLS0tLS0tLS0tLS0tLS0tLSBHT09HTEUgUmVtYXJrZXRpbmcgLS0tLS0tLS0tLS0tLS0tLS0tPg0KPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPg0KLyogPCFbQ0RBVEFbICovDQp2YXIgZ29vZ2xlX2NvbnZlcnNpb25faWQgPSAxMDMzNDA2MzI3Ow0KdmFyIGdvb2dsZV9jdXN0b21fcGFyYW1zID0gd2luZG93Lmdvb2dsZV90YWdfcGFyYW1zOw0KdmFyIGdvb2dsZV9yZW1hcmtldGluZ19vbmx5ID0gdHJ1ZTsNCi8qIF1dPiAqLw0KPC9zY3JpcHQ+DQo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSIvL3d3dy5nb29nbGVhZHNlcnZpY2VzLmNvbS9wYWdlYWQvY29udmVyc2lvbi5qcyI+DQo8L3NjcmlwdD4NCjxub3NjcmlwdD4NCjxkaXYgc3R5bGU9ImRpc3BsYXk6aW5saW5lOyI+DQo8aW1nIGhlaWdodD0iMSIgd2lkdGg9IjEiIHN0eWxlPSJib3JkZXItc3R5bGU6bm9uZTsiIGFsdD0iIiBzcmM9Ii8vZ29vZ2xlYWRzLmcuZG91YmxlY2xpY2submV0L3BhZ2VhZC92aWV3dGhyb3VnaGNvbnZlcnNpb24vMTAzMzQwNjMyNy8/dmFsdWU9MCZhbXA7Z3VpZD1PTiZhbXA7c2NyaXB0PTAiLz4NCjwvZGl2Pg0KPC9ub3NjcmlwdD4NCjwhLS0tLS0tLS0tLS0tLS0tLS0gR09PR0xFIFJlbWFya2V0aW5nIC0tLS0tLS0tLS0tLS0tLS0tLT4fAmdkAh0PZBYGAgEPZBYCZg8PFgYfDQUIL015UGFnZS8fAAUHTXkgUGFnZR8MBQdNeSBQYWdlZGQCAw9kFgJmDw8WBh8NBSovUHJvbW90aW5nLUxpdGVyYWN5LWFuZC1hLUxvdmUtb2YtUmVhZGluZy8fAAUSQ2hpbGRyZW4gJiBSZWFkaW5nHwwFEkNoaWxkcmVuICYgUmVhZGluZ2RkAgUPZBYCZg8PFgYfDQUqaHR0cHM6Ly93d3cuZWFybHltb21lbnRzLmNvbS9PdXItUHJvZHVjdHMvHwAFDlBvcHVsYXIgb2ZmZXJzHwwFDlBvcHVsYXIgb2ZmZXJzZGQCHw9kFgICAQ9kFgQCAQ9kFgICAQ8PFgQfDQUsL1RlbXBsYXRlcy9EZWZhdWx0L1BhZ2VzL1N0YXJ0LmFzcHg/aWQ9MjIxOTYfAAUESG9tZWRkAgMPFgIfECgrBAUyMjE5NhYaZg9kFgICAQ9kFgRmDxUBAGQCAQ9kFgICAQ8PFgYfCmgfEQK2rwEfCwUHRGVmYXVsdGRkAgEPZBYCAgEPZBYEZg8VAQwgbm9ybWFsLW1lbnVkAgEPZBYCAgEPDxYGHwpoHxECj8cBHwsFB0RlZmF1bHRkZAICD2QWAgIBD2QWBGYPFQEMIG5vcm1hbC1tZW51ZAIBD2QWAgIBDw8WBh8KaB8RApDHAR8LBQdEZWZhdWx0ZGQCAw9kFgICAQ9kFgRmDxUBHXNpZGViYXItc2VwYXJhdG9yIG5vcm1hbC1tZW51ZAIBD2QWAgIBDw8WBh8KaB8RAsjAAR8LBQdEZWZhdWx0ZGQCBA9kFgICAQ9kFgRmDxUBAGQCAQ9kFgICAQ8PFgYfCmgfEQKyzwUfCwUHRGVmYXVsdGRkAgUPZBYCAgEPZBYEZg8VAQwgbm9ybWFsLW1lbnVkAgEPZBYCAgEPDxYGHwpoHxECyuwDHwsFB0RlZmF1bHRkZAIGD2QWAgIBD2QWBGYPFQEMIG5vcm1hbC1tZW51ZAIBD2QWAgIBDw8WBh8KaB8RApXSBR8LBQdEZWZhdWx0ZGQCBw9kFgICAQ9kFgRmDxUBDCBub3JtYWwtbWVudWQCAQ9kFgICAQ8PFgYfCmgfEQLQswUfCwUHRGVmYXVsdGRkAggPZBYCAgEPZBYEZg8VAR1zaWRlYmFyLXNlcGFyYXRvciBub3JtYWwtbWVudWQCAQ9kFgICAQ8PFgYfCmgfEQL9yQEfCwUHRGVmYXVsdGRkAgkPZBYCAgEPZBYEZg8VAQwgbm9ybWFsLW1lbnVkAgEPZBYCAgEPDxYGHwpoHxECqsEBHwsFB0RlZmF1bHRkZAIKD2QWAgIBD2QWBGYPFQEMIG5vcm1hbC1tZW51ZAIBD2QWAgIBDw8WBh8KaB8RAo3AAh8LBQdEZWZhdWx0ZGQCCw9kFgICAQ9kFgRmDxUBDCBub3JtYWwtbWVudWQCAQ9kFgICAQ8PFgYfCmgfEQKvrwEfCwUHRGVmYXVsdGRkAgwPZBYCAgEPZBYEZg8VAR1zaWRlYmFyLXNlcGFyYXRvciBub3JtYWwtbWVudWQCAQ9kFgICAQ8PFgYfCmgfEQKiswUfCwUHRGVmYXVsdGRkAiEPZBYCAgEPFgIfEigrBAU4Mjk3NxYEZg9kFgJmDxUB2QI8aDI+PGltZyB0aXRsZT0iRmFjZWJvb2siIHNyYz0iL3VwbG9hZC9Hb2Jva2VuL0ZhY2Vib29rX1R3aXR0ZXIvRmFjZWJvb2tfc3ltYm9sXzMwcGl4LmpwZyIgYWx0PSJGYWNlYm9vayIgd2lkdGg9IjMwIiBoZWlnaHQ9IjMwIiAvPjxiciAvPjxzcGFuIGNsYXNzPSJIZWFkaW5nT3JhbmdlIj48YSB0aXRsZT0iRWFybHkgTW9tZW50cyIgaHJlZj0iaHR0cDovL3d3dy5mYWNlYm9vay5jb20vdXBkYXRlX3NlY3VyaXR5X2luZm8ucGhwP3dpemFyZD0xIyEvcGFnZXMvRWFybHktTW9tZW50cy85ODAwMTA4MzQ0MCIgdGFyZ2V0PSJfYmxhbmsiPkpvaW4gVVMgT048YnIgLz5mYWNlYm9vazwvYT48L3NwYW4+PC9oMj5kAgEPZBYCZg8VAfMBPGgyIHN0eWxlPSJ0ZXh0LWFsaWduOiByaWdodDsiPiZuYnNwOzxpbWcgc3JjPSIvdXBsb2FkL0dvYm9rZW4vRmFjZWJvb2tfVHdpdHRlci9Ud2l0dGVyX3N5bWJvbF8zMHBpeC5qcGciIGFsdD0iIiB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIC8+PGJyIC8+PGEgY2xhc3M9IkhlYWRpbmdMaWdodEJsdWUiIGhyZWY9Imh0dHA6Ly90d2l0dGVyLmNvbS8jIS9LaWRCb29rTW9tbXkiPkZvbGxvdyB1cyBvbiB0d2l0dGVyPC9hPjwvaDI+ZAInD2QWAmYPDxYCHwJoZBYGZg8WAh8AZGQCAQ8WAh8FZmQCBA8PFgIfDWVkFgICAQ8WAh8AZGQCKQ9kFgRmDxYCHxIoKwQFODI5NzYWAgIBD2QWAmYPFQGIAjxwPjxhIGhyZWY9Imh0dHBzOi8vb3JkZXJzLmhvb2tlZG9ucGhvbmljcy5jb20vTGVhcm4tVG8tUmVhZC0yc3RwLmFzcHg/dmM9SE9VMSZhbXA7cGM9T0hPVUFBIiB0YXJnZXQ9Il9CbGFuayI+PGltZyBzcmM9Ii91cGxvYWQvRWFybHlNb21lbnRzL0FkQ2FtcGFpZ25zLzExMTJfMTQ5NV8xNjB4NjAwXzAxLmdpZiIgYWx0PSJIb29rZWQgb24gUGhvbmljczogVGVhY2ggWW91ciBDaGlsZCB0byBSZWFkIiB3aWR0aD0iMTYwIiBoZWlnaHQ9IjYwMCIgLz48L2E+PC9wPmQCAg8WAh8SZGQYCAUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFLGN0bDAwJHVjTG9naW4kbG9naW5WaWV3JGxvZ2luQ3RybCRSZW1lbWJlck1lBU1jdGwwMCR1Y0xvZ2luJGxvZ2luVmlldyRsb2dpbkN0cmwkdWNQYXNzd29yZFJlY292ZXJ5JGltYkNsb3NlUGFzc3dvcmRSZWNvdmVyeQUYY3RsMDAkY3RsMTUkbGVmdGJveGxpbmtzDw9mZGQFNmN0bDAwJGZ1bGxSZWdpb24kbWFpblJlZ2lvbiRMaW5rZWRBcnRpY2xlczEkbHZBcnRpY2xlcw9nZAUUY3RsMDAkY3RsMTEkbXZIZWFkZXIPD2QCAWQFOWN0bDAwJGZ1bGxSZWdpb24kbmF2aWdhdGlvblJlZ2lvbiR1Y1N1Yk1lbnUkbHN0UGFyZW50TGlzdA88KwAOAwhmDGYNAv////8PZAUWY3RsMDAkUmlnaHRCb3gkYm94bGlzdA8PZmRkBRZjdGwwMCR1Y0Zvb3RlciRsdkxpbmtzDxQrAA5kZGQCBWRkZDwrAAkAAglkZGRmAv////8PZAUbY3RsMDAkUmlnaHRCb3gkYm94bGlzdGxvd2VyDw9mZGS/objZjVae4Z2VG0EjQwYyf9u0sw==">
 </div>
 
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
 
-<script src="/ScriptResource.axd?d=SjWnzsrfzbTrf6qXsDFYZ3ato2FzjVCsCNkuC5vrDT5Kqk262E87qekCDLllsI_LV_szloq-b-jJKY_P8eOx2K9BkUigiv_4zvVxezTqrSOc0OB00&amp;t=fffffffffd88dfc4" type="text/javascript"></script>
+
+<script src="/WebResource.axd?d=ssmulLp-kjIP6AJ2SISyDvJb91TOdBRhSTY0407-0QJmUtBjNABitXAblkn1tkDmnzR-nol_onWShb-iut51XSE-7EM1&amp;t=635195493660000000" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=X7te2LdCNEVRGEVhRTkI3wAw7TE5caUXrvU5IsAAdi67FJt95QrDHDXpL8aWWzH3EK-LJOMEmBjY5z1s8iUc8x3iR5Fkqu6OSLLDdNL4_flFVEJY8FtBLAAfObucHzcogksmtIlVRgbYfgbptRRxOB_ZnvA1&amp;t=362a7238" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Tgs4KbzHDDuOTaMPtgdXqn3Zs0SjrL4qJYVzz1q1ZmqIWpNUp7KYm5i2yBzLRwx6N_I5x4GHMsTAk-ieH2TOKWTEhsJlG-niKaF7bCVmizSAz0tceYOLps9jU9Gcc2mIuh9O0Q2&amp;t=7f16157c" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=2Y63bWaKYcHlHT2LmVp1EWuJbTWlyO4wA40y-vgQyeweRZHOUQQ8QU1gQScWhmt5V6Ar7Wppylccz4HiSjPT9SGuXVyOppj_oGv7Enh53MYou_4dGbq2GYWoFMTIcEi-pQncdg2&amp;t=7f16157c" type="text/javascript"></script>
 <script src="/Templates/Default/Pages/Article.aspx?_TSM_HiddenField_=ctl00_ScriptManager1_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d4.1.60623.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen%3a187c1d17-2715-476f-9eeb-4fd46e2849ea%3a5546a2b%3a475a4ef5%3ad2e10b12%3aeffe2a26%3a37e2e5c9%3a1d3ed089%3a751cdd15%3adfad98a5%3a497ef277%3aa43b07eb%3a3cf12cf1" type="text/javascript"></script>
-        
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+        <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm', ['tctl00$taf$upTellAFriend','','tctl00$ucLogin$loginView$loginCtrl$ucPasswordRecovery$ctl00',''], ['ctl00$taf$btnSend',''], [], 90, 'ctl00');
+//]]>
+</script>
+
         <!-- start twocolumns -->
         <div id="twocolumns">
+            
+
+            
+
             <!-- start main -->
             <div id="main">
+                
                 <!-- start content -->
                 <div id="content">
                     
@@ -184,12 +263,7 @@
                             <!-- start navigation -->
                             <div class="navigation">
                                 
-                                    <div id="ctl00_fullRegion_navigationRegion_ucSubMenu_divNavigation" class="navigation">
-    <div class="MenuItemContainer">
-        
-    </div>
-    <div style="clear:both"></div>
-</div>
+                                    
                                 
                             </div>
                             <div class="visual">
@@ -212,29 +286,16 @@
 
                     
 
-<div class="FacebookContainer">  
-    <div class="Like">
-        <div id="ctl00_fullRegion_mainRegion_facebookLike1_facebookScriptHandler1_pnlOutputFacebookScript">
-	
-    <div id="fb-root"></div>
-    <script type="text/javascript" src="https://connect.facebook.net/en_US/all.js#appId=171225629600117&amp;xfbml=1"></script>    
-
-</div>
-          
-        <fb:like href="http://www.earlymoments.com/Privacy-Policy/" layout="button_count" show_faces="true" width="450" font=""></fb:like>
-    </div>
-</div>
-
                     <div class="articleDescription">
                         <div>
-	<p>This privacy policy was last updated on March 6, 2009. <strong>Early Moments</strong> is part of Sandvik Publishing Interactive, Inc. (SPI) which is the Pennsylvania company that owns and operates this Web site. We care about the privacy of each user of our Web site. This privacy statement discloses the privacy practices for this Web site. If you have any questions or concerns regarding this statement, please contact Customer Care at 1-800-353-3140.</p>
+	<p>This privacy policy was last updated on&nbsp;July 3, 2013. <strong>Early Moments</strong> is part of Sandvik Publishing Interactive, Inc. (SPI) which is the Pennsylvania company that owns and operates this Web site. We care about the privacy of each user of our Web site. This privacy statement discloses the privacy practices for this Web site. If you have any questions or concerns regarding this statement, please contact Customer Care at 1-800-353-3140.</p>
 </div>
                     </div>
                     <div class="entry">
                         <div>
 	<p><img src="/upload/EarlyMoments/BRP/BRP_character_art/cith_standingS.jpg" alt="The Cat in the Hat" align="left"></p>
 <h2 class="HeadingLightBlue">Information Collection and Use</h2>
-<p>When you set up an account on our Web site or purchase an item from our Web site, we collect personal information provided by you that may include your: (i) first and last name; (ii) billing address; (iii) shipping address; (iv) other shipping addresses; (v) e-mail address; (vi) phone number; (vii) credit card account number; (viii) items purchased from us; and (ix) browsing, buying and selling patterns. We use this personal information in order to provide you with the goods and services that you purchase on our Web site. We use your e-mail address or mailing address to provide you with information about your order and its status and we may occasionally send out e-mails and mail to people who have placed an order online, with information about other goods and services available on our Web site or from partner companies. Your phone number is used by us only in the event that our customer care representatives need to contact you about an order you have placed, to respond to an inquiry from you or to make offers for new products or services from us or our partners that we believe will be of interest to you.</p>
+<p>When you set up an account on our Web site or purchase an item from our Web site, we collect personal information provided by you that may include your: (i) first and last name; (ii) billing address; (iii) shipping address; (iv) other shipping addresses; (v) e-mail address; (vi) phone number; (vii) credit card account number; (viii) items purchased from us; and (ix) browsing, buying and selling patterns. We use this personal information in order to provide you with the goods and services that you purchase on our Web site. We use your e-mail address or mailing address to provide you with information about your order and its status and we may occasionally send out e-mails and mail to people who have placed an order online, with information about other goods and services available on our Web site or from partner companies. The phone number you provide may be used by our autodialer in the event that we need to contact you about your membership or to make you aware of offers for new products or services from us or our partners that we believe will be of interest to you.</p>
 <p><strong>SPI</strong> owns and operates this Web site and we are the sole owner of this information collected on the Web site. We will not sell, share, or rent this information to a third party in any way other than as disclosed in this privacy policy. We fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities and may, in our sole discretion, disclose personal information or other information to satisfy any law, regulation, subpoena, or government request. We reserve the right to release personal information or other information about users who we believe are engaged in illegal activities or are otherwise in violation of our Terms of Service, even without a subpoena, warrant or court order, if we believe, in our sole discretion, that such disclosure is necessary or appropriate to operate our Web site or to protect the rights or property of our Web site, our affiliates, or our officers, directors, employees, agents, third-party content providers, suppliers, sponsors, or licensors. We also reserve the right to report to law enforcement agencies any activities we reasonably believe in our sole discretion to be unlawful. If we are legally compelled to disclose information about you to a third party, we will attempt to notify you by sending an e-mail to the e-mail address in our records unless doing so would violate the law or unless you have not provided your e-mail address to us.</p>
 <h2 class="HeadingLightBlue">Orders</h2>
 <p>We request additional personal information from our users when placing an order on our Web site. In completing our order form, a user may provide contact information, such as name and shipping address, and financial information, such as credit card account number and expiration date. This information is used for billing purposes and to fulfill our customer orders. If we experience difficulties processing an order, we will contact a user through this information. While entering information into user forms on the Web site, personal information may be collected prior to the user clicking the submit button. Information collected in this manner may be used to contact users about their finished or unfinished transactions.</p>
@@ -255,7 +316,7 @@
 <h2 class="HeadingLightBlue">Collecting Information from Children Younger than 18</h2>
 <p>Our Web site does not knowingly collect or use any personal information from children under the age of 18 without obtaining verifiable parental consent.</p>
 <h2 class="HeadingLightBlue">Notification of Changes in Use of Information</h2>
-<p>Our privacy policy is subject to change. In the event of any change, we will provide notice of such change on our Web site. If we want to use your personal information in a manner different from that stated to you at the time you provided such information to us, we will notify you of such change via e-mail in addition to posting notification of such change on our Web site. At such time, you can determine whether you wish to allow us to use your information in this different manner. If you have opted out of all communication with our Web site or have deleted or deactivated your account with us, then you will not be contacted and your personal information will not be used.<br><br>If you have any questions about this privacy policy or believe that our Web site is not abiding by our privacy policy, please contact Customer Care at 1-800-353-3140. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the TRUSTe WatchDog Dispute Resolution Process.</p>
+<p>Our privacy policy is subject to change. In the event of any change, we will provide notice of such change on our Web site. If we want to use your personal information in a manner different from that stated to you at the time you provided such information to us, we will notify you of such change via e-mail in addition to posting notification of such change on our Web site. At such time, you can determine whether you wish to allow us to use your information in this different manner. If you have opted out of all communication with our Web site or have deleted or deactivated your account with us, then you will not be contacted and your personal information will not be used.</p>
 </div>
                     </div>
                 </div>
@@ -274,6 +335,7 @@
                         </div>
                     
                 </div>
+
                 <!-- start header -->
                 <div id="header">
                     <div class="holder">
@@ -292,18 +354,19 @@
                         <div class="tools">
                             
 
+
 <ul class="header-nav">
-	<li>
-		<a id="ctl00_ucSiteSearchAndLinks_hlHome" class="home" href="/">Home</a>
-	</li>
 	<li>
 		<a id="ctl00_ucSiteSearchAndLinks_hlMyPage" class="mypage" href="/MyPage/">My Page</a>
 	</li>
 	<li>
-		
-	  
+		<a id="ctl00_ucSiteSearchAndLinks_hlShoppingCart" class="cart">Shopping Cart (0)</a>
+	</li>
+    <li>
+        <a id="ctl00_ucSiteSearchAndLinks_hlEbooks" class="ebooks" href="https://ebooks.earlymoments.com/">My eBooks</a>
 	</li>
 </ul>
+
 <!-- search -->
 
  
@@ -320,7 +383,7 @@
                             <legend>
                                 Login
                             </legend>
-                            <div id="ctl00_ucLogin_loginView_loginCtrl_pnlLogin">
+                            <div id="ctl00_ucLogin_loginView_loginCtrl_pnlLogin" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_ucLogin_loginView_loginCtrl_btnLogin')">
 			
                                 <div class="loginFailedContainer">
                                     <span id="ctl00_ucLogin_loginView_loginCtrl_FailureText" class="submit loginFailed"></span>
@@ -346,13 +409,10 @@
                                 <div class="leftLoginContainer">
                                     <ul class="buttons" style="width: 80px">
                                         <li style="margin: 3px 5px !important">
-                                            <a id="ctl00_ucLogin_loginView_loginCtrl_LoginButton" title="Login" class="btn-green" href="javascript:__doPostBack('ctl00$ucLogin$loginView$loginCtrl$LoginButton','')">
-                                                <span class="loginUser">
-                                                    Login
-                                                </span>
-                                            </a>
                                             
-                                            <input type="submit" name="ctl00$ucLogin$loginView$loginCtrl$btnLogin" value="" id="ctl00_ucLogin_loginView_loginCtrl_btnLogin" style="display: none">
+
+                                            
+                                            <input type="submit" name="ctl00$ucLogin$loginView$loginCtrl$btnLogin" value="Login" id="ctl00_ucLogin_loginView_loginCtrl_btnLogin" title="Login" class="submit-btn small" style="padding:3px 7px;margin:0;cursor: pointer">
                                         </li>
                                     </ul>
                                 </div>
@@ -412,7 +472,223 @@
 </div>
 
 
+                        
+                        <div style="clear: both"></div>
                     </div>
+                    
+                    
+                    
+                    
+                    
+            <div class="toggleMobileMenuContainer">
+                <a id="toggleMobileMenu" onclick="ToggleMobileMenu()">
+                    <div class="iconContainer">
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
+                    <div class="menuTitle">
+                        Menu
+                    </div>
+                </a>
+                <div style="clear: both"></div>
+                <div class="mobileMenuContainer">
+                    
+                    <div class="loginRegister">
+                        <div class="sidebar-links">
+                            <div><a id="ctl00_hlLogin" href="/MyPage/">Log in</a></div>
+                            <div><a id="ctl00_hlRegister" href="https://orders.earlymoments.com/loginhelp.aspx">Register</a></div>
+                            <div>&nbsp;</div>
+                            <div><a id="ctl00_hlMobileBookmark1" title="My Page" href="/MyPage/">My Page</a></div>
+                            <div><a id="ctl00_hlMobileBookmark2" title="Children &amp; Reading" href="/Promoting-Literacy-and-a-Love-of-Reading/">Children &amp; Reading</a></div>
+                            <div><a id="ctl00_hlMobileBookmark3" title="Popular offers" href="https://www.earlymoments.com/Our-Products/">Popular offers</a></div>
+                        </div>
+                    </div>
+                    <div class="mobileMenu">
+                        
+<div class="sidebar-links">
+    <div id="ctl00_ucMobileMenu_liHome">
+        <a id="ctl00_ucMobileMenu_hlHome" href="/">Home</a>
+    </div>
+    
+            <div id="ctl00_ucMobileMenu_mlMenu_ctl00_liMenu">
+                <div style="float:left" class="div ">
+                    
+
+<!-- PageLink is used as default in the menu -->
+<a href="/MyPage/">My Page</a>
+
+<!-- If an image is set on a page, hyperlink + image is used and PageLink hidden -->
+
+                
+                </div>
+            </div>
+        
+            <div id="ctl00_ucMobileMenu_mlMenu_ctl01_liMenu">
+                <div style="float:left" class="div  normal-menu">
+                    
+
+<!-- PageLink is used as default in the menu -->
+<a href="/Our-Products/">Our Products</a>
+
+<!-- If an image is set on a page, hyperlink + image is used and PageLink hidden -->
+
+                
+                </div>
+            </div>
+        
+            <div id="ctl00_ucMobileMenu_mlMenu_ctl02_liMenu">
+                <div style="float:left" class="div  normal-menu">
+                    
+
+<!-- PageLink is used as default in the menu -->
+<a href="/Fun-Activities/">Games &amp; Activities</a>
+
+<!-- If an image is set on a page, hyperlink + image is used and PageLink hidden -->
+
+                
+                </div>
+            </div>
+        
+            <div id="ctl00_ucMobileMenu_mlMenu_ctl03_liMenu">
+                <div style="float:left" class="div sidebar-separator normal-menu">
+                    
+
+<!-- PageLink is used as default in the menu -->
+<a href="/Our-Story/">Our Story</a>
+
+<!-- If an image is set on a page, hyperlink + image is used and PageLink hidden -->
+
+                
+                </div>
+            </div>
+        
+            <div id="ctl00_ucMobileMenu_mlMenu_ctl04_liMenu">
+                <div style="float:left" class="div ">
+                    
+
+<!-- PageLink is used as default in the menu -->
+<a href="/dr-seuss/Dr-Seuss--His-Friends-Club/" target="_top">About Dr. Seuss</a>
+
+<!-- If an image is set on a page, hyperlink + image is used and PageLink hidden -->
+
+                
+                </div>
+            </div>
+        
+            <div id="ctl00_ucMobileMenu_mlMenu_ctl05_liMenu">
+                <div style="float:left" class="div  normal-menu">
+                    
+
+<!-- PageLink is used as default in the menu -->
+<a href="/disney/List-of-Disney-Books/">About Disney</a>
+
+<!-- If an image is set on a page, hyperlink + image is used and PageLink hidden -->
+
+                
+                </div>
+            </div>
+        
+            <div id="ctl00_ucMobileMenu_mlMenu_ctl06_liMenu">
+                <div style="float:left" class="div  normal-menu">
+                    
+
+<!-- PageLink is used as default in the menu -->
+<a href="/baby-einstein/List-of-Baby-Einstein-Books/" target="_top">About Baby Einstein</a>
+
+<!-- If an image is set on a page, hyperlink + image is used and PageLink hidden -->
+
+                
+                </div>
+            </div>
+        
+            <div id="ctl00_ucMobileMenu_mlMenu_ctl07_liMenu">
+                <div style="float:left" class="div  normal-menu">
+                    
+
+<!-- PageLink is used as default in the menu -->
+<a href="https://www.hookedonphonics.com/" target="_blank">Hooked on Phonics</a>
+
+<!-- If an image is set on a page, hyperlink + image is used and PageLink hidden -->
+
+                
+                </div>
+            </div>
+        
+            <div id="ctl00_ucMobileMenu_mlMenu_ctl08_liMenu">
+                <div style="float:left" class="div sidebar-separator normal-menu">
+                    
+
+<!-- PageLink is used as default in the menu -->
+<a href="/Frequently-Asked-Questions/">FAQs</a>
+
+<!-- If an image is set on a page, hyperlink + image is used and PageLink hidden -->
+
+                
+                </div>
+            </div>
+        
+            <div id="ctl00_ucMobileMenu_mlMenu_ctl09_liMenu">
+                <div style="float:left" class="div  normal-menu">
+                    
+
+<!-- PageLink is used as default in the menu -->
+<a href="/Customer-Care/">Customer Care</a>
+
+<!-- If an image is set on a page, hyperlink + image is used and PageLink hidden -->
+
+                
+                </div>
+            </div>
+        
+            <div id="ctl00_ucMobileMenu_mlMenu_ctl10_liMenu">
+                <div style="float:left" class="div  normal-menu">
+                    
+
+<!-- PageLink is used as default in the menu -->
+<a href="/Testimonials/">Testimonials</a>
+
+<!-- If an image is set on a page, hyperlink + image is used and PageLink hidden -->
+
+                
+                </div>
+            </div>
+        
+            <div id="ctl00_ucMobileMenu_mlMenu_ctl11_liMenu">
+                <div style="float:left" class="div  normal-menu">
+                    
+
+<!-- PageLink is used as default in the menu -->
+<a href="/contact-us/">Contact Us</a>
+
+<!-- If an image is set on a page, hyperlink + image is used and PageLink hidden -->
+
+                
+                </div>
+            </div>
+        
+            <div id="ctl00_ucMobileMenu_mlMenu_ctl12_liMenu">
+                <div style="float:left" class="div sidebar-separator normal-menu">
+                    
+
+<!-- PageLink is used as default in the menu -->
+<a href="/unsubscribe1/">Make a Payment</a>
+
+<!-- If an image is set on a page, hyperlink + image is used and PageLink hidden -->
+
+                
+                </div>
+            </div>
+           
+</div>
+                    </div>
+                    <div style="clear: both"></div>
+                </div>
+            </div>
+
+                    
+                    
+
                 </div>
                 
 <!-- start footer -->
@@ -424,7 +700,7 @@
 			<!-- start copyright -->
 			<div class="copyright">
 				<div>
-	<p>© 2012 Sandvik Publishing, Danbury, CT, 06811.&nbsp; All rights reserved.</p>
+	<p>© 2013 Sandvik Publishing, Danbury, CT, 06810.&nbsp; All rights reserved.</p>
 </div>
 			</div>
             
@@ -478,7 +754,7 @@
 // <![CDATA[
 // ]]></script>
 <!--  Google Tracking- -->
-<p><img src="https://www.burstnet.com/enlightn/4579//AD4A/" border="0" alt="" width="0" height="0"></p>
+<!--p><img src="https://www.burstnet.com/enlightn/4579//AD4A/" border="0" alt="" width="0" height="0" /></p-->
 
 <script type="text/javascript">
 setTimeout(function(){var a=document.createElement("script");
@@ -486,10 +762,26 @@ var b=document.getElementsByTagName('script')[0];
 a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0012/4902.js?"+Math.floor(new Date().getTime()/3600000);
 a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </script>
-
+<!--- GOOGLE Remarketing- -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1033406327;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1033406327/?value=0&amp;guid=ON&amp;script=0" />
+</div>
+</noscript>
+<!--- GOOGLE Remarketing- -->
             </div>
+
             <!-- start sidebar -->
             <div id="sidebar">
+                
                 <!-- start sidenav -->
                 
 <ul class="sidenav">
@@ -610,7 +902,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
                     
 
 <!-- PageLink is used as default in the menu -->
-<a href="https://www.earlymoments.com/hooked-on-phonics" target="_blank">Hooked on Phonics</a>
+<a href="https://www.hookedonphonics.com/" target="_blank">Hooked on Phonics</a>
 
 <!-- If an image is set on a page, hyperlink + image is used and PageLink hidden -->
 
@@ -716,15 +1008,15 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 				<legend>Send to email address</legend>
                 <div id="ctl00_taf_upTellAFriend">
 	
-                        <div>
+                        <div onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_taf_btnSend')">
 		
                             <input name="ctl00$taf$tbEmailRecipient" type="text" id="ctl00_taf_tbEmailRecipient" class="text" placeholder="Send to email address">
-                            
+                            <span id="ctl00_taf_ctl02" style="color:Red;display:none;">*</span>
 
-                            
+                            <span id="ctl00_taf_valEmail" style="color:Red;display:none;">Not a valid e-mail address</span>
                         
                             <input name="ctl00$taf$tbName" type="text" id="ctl00_taf_tbName" class="text" placeholder="Your name">
-                            
+                            <span id="ctl00_taf_ctl04" style="color:Red;display:none;">*</span>
 
                             <input type="submit" name="ctl00$taf$btnSend" value="Send" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$taf$btnSend&quot;, &quot;&quot;, true, &quot;vgTipAFriend&quot;, &quot;&quot;, false, false))" id="ctl00_taf_btnSend" class="submit">
                             <span id="ctl00_taf_lblResponse" style="font-weight:bold;"></span>
@@ -746,7 +1038,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
         <!-- start aside -->
         <div class="aside">
             <!-- start balloons -->
-            <a id="ctl00_ctl11_hlTopRight" class="balloons"></a>
+            <a id="ctl00_ctl16_hlTopRight" class="balloons"></a>
             <!-- shopping cart -->
             
 
@@ -757,7 +1049,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
                 <div class="frame">
     
         <div class="box">
-            <p><a href="https://hookedonphonics.com/?source=earlymoments" target="_Blank"><img src="/upload/EarlyMoments/AdCampaigns/1112_1495_160x600_01.gif" alt="Hooked on Phonics: Teach Your Child to Read" width="160" height="600"></a></p>
+            <p><a href="https://orders.hookedonphonics.com/Learn-To-Read-2stp.aspx?vc=HOU1&amp;pc=OHOUAA" target="_Blank"><img src="/upload/EarlyMoments/AdCampaigns/1112_1495_160x600_01.gif" alt="Hooked on Phonics: Teach Your Child to Read" width="160" height="600"></a></p>
         </div>
     
         </div> </div> </div>
@@ -767,12 +1059,69 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 
         </div>
         
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("ctl00_taf_ctl02"), document.getElementById("ctl00_taf_valEmail"), document.getElementById("ctl00_taf_ctl04"));
+//]]>
+</script>
 
 <script type="text/javascript">
 //<![CDATA[
-(function() {var fn = function() {$get("ctl00_ScriptManager1_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();Sys.Application.add_init(function() {
+var ctl00_taf_ctl02 = document.all ? document.all["ctl00_taf_ctl02"] : document.getElementById("ctl00_taf_ctl02");
+ctl00_taf_ctl02.controltovalidate = "ctl00_taf_tbEmailRecipient";
+ctl00_taf_ctl02.errormessage = "*";
+ctl00_taf_ctl02.display = "Dynamic";
+ctl00_taf_ctl02.validationGroup = "vgTipAFriend";
+ctl00_taf_ctl02.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_taf_ctl02.initialvalue = "";
+var ctl00_taf_valEmail = document.all ? document.all["ctl00_taf_valEmail"] : document.getElementById("ctl00_taf_valEmail");
+ctl00_taf_valEmail.controltovalidate = "ctl00_taf_tbEmailRecipient";
+ctl00_taf_valEmail.display = "Dynamic";
+ctl00_taf_valEmail.validationGroup = "vgTipAFriend";
+ctl00_taf_valEmail.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+ctl00_taf_valEmail.validationexpression = "\\w+([-+.]\\w+)*@\\w+([-.]\\w+)*\\.\\w+([-.]\\w+)*";
+var ctl00_taf_ctl04 = document.all ? document.all["ctl00_taf_ctl04"] : document.getElementById("ctl00_taf_ctl04");
+ctl00_taf_ctl04.controltovalidate = "ctl00_taf_tbName";
+ctl00_taf_ctl04.errormessage = "*";
+ctl00_taf_ctl04.display = "Dynamic";
+ctl00_taf_ctl04.validationGroup = "vgTipAFriend";
+ctl00_taf_ctl04.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_taf_ctl04.initialvalue = "";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("ctl00_ScriptManager1_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        Sys.Application.add_init(function() {
     $create(Sys.Extended.UI.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","CancelControlID":"ctl00_ucLogin_loginView_loginCtrl_ucPasswordRecovery_imbClosePasswordRecovery","OnCancelScript":"ResetPasswordRecovery();","OnOkScript":"ResetPasswordRecovery();","PopupControlID":"ctl00_ucLogin_loginView_loginCtrl_ucPasswordRecovery_panPasswordRecovery","dynamicServicePath":"/Templates/Default/Pages/Article.aspx","id":"ctl00_ucLogin_loginView_loginCtrl_ucPasswordRecovery_extPopup"}, null, null, $get("ctl00_ucLogin_loginView_loginCtrl_ucPasswordRecovery_lbOpenPasswordRecovery"));
 });
+
+document.getElementById('ctl00_taf_ctl02').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_taf_ctl02'));
+}
+
+document.getElementById('ctl00_taf_valEmail').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_taf_valEmail'));
+}
+
+document.getElementById('ctl00_taf_ctl04').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_taf_ctl04'));
+}
 //]]>
 </script>
 </form>
