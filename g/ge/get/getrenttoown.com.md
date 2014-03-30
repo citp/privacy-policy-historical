@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getrenttoown.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226072351id_/http%3A//www.getrenttoown.com/privacy-policy.html%3Fadid%3DGRTO1003) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getrenttoown.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330142753id_/http%3A//www.getrenttoown.com/privacy-policy.html%3Fadid%3DGRTO1003) for the most accurate reproduction.*
 
 # GetRentToOwn: Contact Us to find out more about Foreclosure Listings in your area
 
