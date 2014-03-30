@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the websitebox.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823094744id_/http%3A//www.websitebox.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitebox.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330224222id_/http%3A//www.websitebox.com/privacy-policy.php) for the most accurate reproduction.*
 
 # WebsiteBox | Privacy Policy
 
-[Login](http://www.websitebox.com/login.php "Login") [Sign Up](https://secure.websitebox.com/signup.php "Sign Up")
+1-866-857-1657
+
+(Monday to Friday 8 AM to 8 PM EST)
 
 ## Terms of Use covers the collection and use of personal information that may be collected
 
@@ -46,3 +48,46 @@ Canada
 
 
 
+
+###### Client Reviews[See More](http://www.websitebox.com/realtors/clients.php)
+
+  * > “The $99 one-time price was too good to be true at the beginning. I did the research and I studied and found out it is true. It's a one-time fee, it's $99 and gives me lots of features.”
+> 
+> Nina Kashefpour Toronto, ON
+
+  * > “WebsiteBox is known for having really good SEO, now they are going to be known for having a really great price point. I think people are going to be really surprised when they find out what they can get for $99.”
+> 
+> Michael Weaver Indianapolis, IN
+
+  * > “We have been through many websites over the years, but WebsiteBox has proven themselves to be far superior above the rest. Great content, great quality and exceptional customer service for $99, our search is over!”
+> 
+> Ifoma & Hazel Pierre Queens, NY
+
+  * > “The support team will help you and make sure the job gets done. They really know what they are doing. I was so grateful for them because I am not techie. I am so happy about everything. For $99.00 forever, I feel like dancing! I still can't believe it!”
+> 
+> Cat Stevens Miramar Beach, FL
+
+  * > “I was thinking of investing a lot of money into a website and then I came across WebsiteBox. I am very tech savvy and I loved the fact that I am able to design the site and make it look the way I want. The best thing is that I no longer have to pay a monthly bill for my website.”
+> 
+> Guillermo Ley Miami, FL
+
+  * > “Compared to all the other website providers, I can actually get everything I need for an unbeatable price. The IDX integration and customization was what drew me to WebsiteBox. I love the fact that I am able to build a clean and professional site with ease.”
+> 
+> Michael Hinderberger Newport Beach, CA
+
+  * > “I am extremely impressed by WebsiteBox. Every other comparable website provider is in the $600-$2000 range, not to mention the additional $30-$50 month for IDX hosting. There was a slight learning curve but after figuring out the technology I have spent more time looking for pictures ...”
+> 
+> Jeff Royle Orlando, FL
+
+
+
+  * Previous
+  * Next
+
+
+
+###### Get FREE Email Updates
+
+Receive Free Real Estate Technology Advice Right in Your Email Inbox.
+
+###### Chat With Us Live
