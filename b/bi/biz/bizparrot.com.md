@@ -1,46 +1,46 @@
-> *The following text is extracted and transformed from the bizparrot.com privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902122252id_/http%3A//www.bizparrot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizparrot.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330215624id_/https%3A//alllike.me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - bizparrot.com
+# Privacy Policy - Alllikeme
 
-**Bizparrot** understands and respects your concerns about privacy.
+**Alllikeme** understands and respects your concerns about privacy. 
 
-## Information Collection and Use
+### Information Collection and Use
 
-  * When you register we ask for information such as Company name, email address, zip code and industry type. Once you register with Bizparrot and login into our services, you are not anonymous to us.
-  * Bizparrot collects information about your transactions with us.
-  * Bizparrot automatically receives and records information on our server logs from your browser, including your IP address, cookie information, and the page you request for security purpose to prevent data scraping.
-  * Bizparrot uses information for the following general purposes to fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for all our clients.
-
-
-
-## Information Sharing and Disclosure
-
-  * Bizparrot does not sell or share confidential information with nonaffiliated companies except to provide products or services you've requested.
-  * After Registering your business with Bizparrot you are agree with our terms and conditions, your information about business will be available in search results to target your customers.
+  * When you register we ask for information such as Page name, email address, zip code and industry type. Once you register with Alllikeme and login into our services, you are not anonymous to us.
+  * Alllikeme collects information about your transactions with us.
+  * Alllikeme automatically receives and records information on our server logs from your browser, including your IP address, cookie information, and the page you request for security purpose to prevent data scraping.
+  * Alllikeme uses information for the following general purposes to fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for all our clients.
 
 
 
-## About Cookies
+### Information Sharing and Disclosure
 
-  * Bizparrot may set and access cookies on your computer for remember your login account, and other technical solutions.
+  * Alllikeme does not sell or share confidential information with nonaffiliated companies except to provide products or services you've requested.
+  * After Registering your business with Alllikeme you are agree with our terms and conditions, your information about business will be available in search results to target your customers.
 
 
 
-## Your Ability to Edit and Delete Your Account
+### About Cookies
+
+  * Alllikeme may set and access cookies on your computer for remember your login account, and other technical solutions.
+
+
+
+### Your Ability to Edit and Delete Your Account
 
   * You can edit your Business and Account Information, at any time.
-  * We reserve the right to send you certain communications relating to the Bizparrot service, such as service announcements, administrative messages, that are considered part of your Bizparrot account.
+  * We reserve the right to send you certain communications relating to the Alllikeme service, such as service announcements, administrative messages, that are considered part of your Alllikeme account.
 
 
 
-## Confidentiality and Security
+### Confidentiality and Security
 
   * We limit access to confidential information by employees, who we reasonably believe do not need to be in contact with that information when providing services or to do their jobs.
-  * We prevent unwanted data scraping on Bizparrot, We happy to announce that our Bizparrot development lab specially work to protect data and business information with advance development concepts and technologies.
+  * We prevent unwanted data scraping on Alllikeme, We happy to announce that our Alllikeme development lab specially work to protect data and business information with advance development concepts and technologies.
 
 
 
-## Changes to this Privacy Policy
+### Changes to this Privacy Policy
 
   * We may from time-to-time revise this privacy policy. so please be sure to check back periodically.
 
