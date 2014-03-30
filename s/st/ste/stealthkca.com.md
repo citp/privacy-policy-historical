@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stealthkca.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119195210id_/http%3A//www.stealthkca.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stealthkca.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330214959id_/http%3A//www.stealthkca.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stealth Blog
 
