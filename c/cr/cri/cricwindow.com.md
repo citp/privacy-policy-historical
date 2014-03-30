@@ -1,14 +1,17 @@
-> *The following text is extracted and transformed from the cricwindow.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626042830id_/http%3A//www.cricwindow.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricwindow.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330191307id_/http%3A//www.cricwindow.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of cricwindow.com
 
 |  |   
 ---  
-|   
----  
-| [](https://web.archive.org/web/20130626042830id_/http%3A//www.cricwindow.com/live-streaming-video.html)  
+| [](http://fanapp.mobi/ipl7livescore)  
 ---  
 |   
+---  
+Advertisement  
+|   
+---  
+| Advertisement  
 ---  
 |   
 ---  
