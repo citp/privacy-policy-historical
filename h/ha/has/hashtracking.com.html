@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hashtracking.com privacy policy that was archived on 2013-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130508111516id_/https%3A//www.hashtracking.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hashtracking.com privacy policy that was archived on 2014-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140330225806id_/https%3A//www.hashtracking.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 		<title>Powerful Tracking for Hashtags | Hashtracking.com</title>
@@ -24,18 +24,24 @@
 	<script type="text/javascript" src="/common/js/jquery.ui.slider.js"></script>
 	<script type="text/javascript" src="/common/js/motionpack.js"></script>
 	<script type="text/javascript" src="/common/js/functions.js"></script>
+	<script type="text/javascript" src="/common/js/xregexp/xregexp.js"></script>
+	<script type="text/javascript" src="/common/js/xregexp/addons/unicode/unicode-base.js"></script>
 	<script type="text/javascript" src="/account/login.js"></script>
 	<script type="text/javascript" src="/account/register.js"></script>
 	<script type="text/javascript" src="/admin/admin.js"></script>
-
+	<script type="text/javascript" src="https://platform.linkedin.com/in.js?async=true"></script>
+	<script type="text/javascript">
+	IN.init({api_key : "771pjzgeupzkgx"});
+	</script>
 	</head>
 	<body bgcolor="#000" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
 	<div id="loading" style="display:none"></div>
 <div id="help" style="display:none"></div>
 <div id="instructions" style="display:none"></div>
 <div id="legal" class="ui-widget-content" style="display:none"></div>
-<div id="overlay" class="ui-widget-content" style="display:none"></div>
-<div id="blackout" style="position: absolute; z-index: 1; width: 100%; top: 0px; left: 0px; background-color: rgb(0, 0, 0); opacity: 0.5; display: none; height: 2504px;"></div>
+<div id="overlay" class="ui-widget-content ui-draggable" style="display: none; cursor: move;"></div>
+<div id="highlight" class="ui-widget-content" style="display:none"></div>
+<div id="blackout" style="position: absolute; z-index: 1; width: 100%; top: 0px; left: 0px; background-color: rgb(0, 0, 0); opacity: 0.5; display: none; height: 3058px;"></div>
 
 	<div id="page" class="blur">
 		<div id="header">
@@ -62,6 +68,7 @@
 		</div>
 	</div>
 	<div style="clear:both"></div>
+
 </div>
 		<div id="main">
 			<div id="inner">
@@ -127,8 +134,8 @@
 		<div id="col-150">
 			<div id="title">Connect</div>
 			<div><a href="https://twitter.com/Hashtracking" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @Hashtracking</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
-			<div><iframe src="//www.facebook.com/plugins/like.php?href=https://www.hashtracking.com&amp;send=false&amp;layout=button_count&amp;width=150&amp;show_faces=true&amp;action=recommend&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=401883116500986" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px; height:21px;" allowtransparency="true"></iframe></div>
-			<div><script src="//platform.linkedin.com/in.js" type="text/javascript"></script><script type="IN/FollowCompany" data-id="2859237" data-counter="none"></script></div>
+			<div><iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.hashtracking.com&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;share=false&amp;height=21&amp;appId=328549887264398" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowtransparency="true"></iframe></div>
+			<div><script type="IN/FollowCompany" data-id="2859237" data-counter="none"></script></div>
 			<div><div class="g-plus" data-action="share" data-annotation="none"></div></div>
 		</div>
 		<div id="col-175-right">
@@ -144,10 +151,10 @@
 			</div>
 		</div>
 	
-	<div id="disclaimer" style="clear:both">Copyright © 2010-2013 Hashtracking, LLC. All rights reserved.</div>
+	<div id="disclaimer" style="clear:both">Copyright © 2010-2014 Hashtracking, Inc. All rights reserved.</div>
 	<div style="position:absolute; bottom:5px; right:10px"><a href="/support/" target="_blank"><img src="/images/helpdesk.gif" width="27" height="30" border="0" alt="SUBMIT ISSUE TO HELPDESK"></a></div>
 </div>
-<div style="position:absolute; bottom:0px; left:0px"><iframe name="print" width="0" height="0" frameborder="0" src="about:blank"></iframe></div>
+<iframe id="print" name="print" width="0" height="0" frameborder="0" src="about:blank"></iframe>
 <script type="text/javascript">
 (function() {
 	var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
