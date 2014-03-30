@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adtrustmedia.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806112105id_/https%3A//adtrustmedia.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtrustmedia.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330191319id_/https%3A//adtrustmedia.com/policy) for the most accurate reproduction.*
 
 # AdtrustMedia - Privacy Policy
 
@@ -51,7 +51,7 @@ We may have a good faith belief that access, use, preservation or disclosure of 
 
 ##  _4\. Sites Covered By This Privacy Policy_
 
-The AdTrustMedia, LLC websites ([www.adtrustmedia.com](http://www.adtrustmedia.com/) and [www.privdog.com](http://privdog.com/) ) may from time-to-time link to third-party websites for your convenience and to provide easy access to additional useful information. Should you select such a link, you will leave the AdTrustMedia, LLC website. AdTrustMedia, LLC does not control those sites nor their privacy practices, which may differ from AdTrustMedia, LLC’s practices and policies. Any personal data you choose to provide to or that is collected by such third parties is not in any way covered by the AdTrustMedia, LLC Privacy Policy. It is recommended that you read over such website’s privacy policy before providing any personal information. A link to another website from AdTrustMedia, LLC websites does not constitute an endorsement or representation about the value, quality or usefulness of anything found on that third-party website.
+The AdTrustMedia, LLC websites ([www.adtrustmedia.com](http://www.adtrustmedia.com/) and [www.adpolice.com](http://www.adpolice.com/)) may from time-to-time link to third-party websites for your convenience and to provide easy access to additional useful information. Should you select such a link, you will leave the AdTrustMedia, LLC website. AdTrustMedia, LLC does not control those sites nor their privacy practices, which may differ from AdTrustMedia, LLC’s practices and policies. Any personal data you choose to provide to or that is collected by such third parties is not in any way covered by the AdTrustMedia, LLC Privacy Policy. It is recommended that you read over such website’s privacy policy before providing any personal information. A link to another website from AdTrustMedia, LLC websites does not constitute an endorsement or representation about the value, quality or usefulness of anything found on that third-party website.
 
 ####  _a. PrivDog Product ([www.privdog.com](http://www.privdog.com/))_
 
@@ -61,18 +61,16 @@ IF YOU DO NOT WISH TO PREVENT THE DISPLAY OF THIRD PARTY ADVERTISEMENTS, DO NOT 
 
 THE “TRUSTED ADVERTISEMENTS” FEATURE DISPLAYS ADVERTISEMENTS FROM A TRUSTED SOURCE IN THE EMPTY ADVERTISEMENT SECTIONS OF WEBPAGES WHERE ADVERTISEMENTS ARE PREVENTED FROM DISPLAYING ON THE USER’S COMPUTER BY THE PRODUCT.
 
-THE “TRUSTED ADVERTISEMENTS” FEATURE ALSO OVERLAYS SEARCH RESULTS ADVERTISEMENTS WITH ADVERTISEMENTS FROM A TRUSTED SOURCE IN THE FORM OF AN OVERLAY WINDOW.  THIS WINDOW IS IDENTIFIED BY DISCLOSURE OF AN “AT-M Ad’ ON THE TOP LEFT OR RIGHT SECTION OF THE WINDOW.   TO VIEW THE OTHER ADVERTISEMENTS UNDERNEATH THE TRUSTED ADVERTISEMENTS OVERLAY WINDOW AND CLOSE THE WINDOW, CLICK THE “See Non AT-M Ad” LINK PRESENT ON THE OVERLAY WINDOW.
-
 IF YOU ELECT TO RECEIVE “TRUSTED ADVERTISEMENTS” WITH THE PRODUCT, YOU ARE GIVING EXPRESS PERMISSION TO ADTRUSTMEDIA TO SEND ADVERTISEMENTS TO YOU SOLEY FROM ADTRUSTMEDIA AND ITS AFFILIATES. THE ADVERTISEMENTS ARE DELIVERED TO YOU USING GEOLOCATION DATA OF YOUR COMPUTER. IF YOU DO NOT WISH TO RECEIVE ADVERTISEMENTS SOLELY FROM ADTRUSTMEDIA AND/OR ITS AFFILIATES, DO NOT SELECT THE “TRUSTED ADVERTISEMENTS” OPTION.
 
 AFTER USING THE “TRUSTED ADVERTISEMENTS” OPTION, IF YOU WISH TO TURN OFF THE “TRUSTED ADVERTISEMENTS” FEATURE, TAKE THE FOLLOWING STEPS:
 
-a. When an advertisement is displayed, there is a disclosure at the bottom right of the advertisement indicated by “AT-M Ad” and an icon.   
-b. Click on the icon to bring up a menu with the option “Ad preferences.”  
-c. Click on “Ad preferences” and it opens a page to select either the “Block all ads” or “Only allow Trusted Ads to be shown” functionality.  
+a. When an advertisement is displayed, there is a disclosure at the bottom right of the advertisement indicated by “Ad by ATM” and an icon.   
+b. Click on the icon to bring up a menu with the option “Ad Preferences.”  
+c. Click on “Ad Preferences” and it opens a page to select either the “Content Blocker” or “Ad Displayer” functionality.  
 d. Click on “Block all ads.”
 
-TO UNINSTALL THE PRIVDOG PRODUCT, TAKE THE FOLLOWING STEPS:
+TO UNINSTALL THE PrivDog PRODUCT, TAKE THE FOLLOWING STEPS:
 
 a. Go to “Add or Remove” on your operating system.   
 b. Select or highlight the PrivDog program, then click “Remove.”
@@ -97,7 +95,7 @@ To prevent unauthorized access and disclosure, to maintain data accuracy, and to
 
 ##  _7\. Changes To This Policy_
 
-If and when there are future changes to our Privacy Policy, in response we will post them at [www.adtrustmedia.com](http://www.adtrustmedia.com/) and [www.privdog.com](http://privdog.com/).
+If and when there are future changes to our Privacy Policy, in response we will post them at [www.adtrustmedia.com](http://www.adtrustmedia.com/) and [www.adpolice.com]().
 
 ##  _8\. Contacting Us_
 
