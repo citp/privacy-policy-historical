@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the hcgdietdirect.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516014740id_/http%3A//www.hcgdietdirect.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hcgdietdirect.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330052709id_/http%3A//www.hcgdietdirect.com/privacypolicy.html) for the most accurate reproduction.*
 
-# HCG Diet Directs Privacy Policy
+# Lipoderms Privacy Policy
 
 **Privacy Policy**  
 
 
-**HCG Diet Direct** __ values the privacy of our visitors/customers and takes every known precaution to safe guard the information we collect from unauthorized use.  The following is a detailed explanation of the privacy policy for HCG Diet Direct. 
+**Lipoderm** __ values the privacy of our visitors/customers and takes every known precaution to safe guard the information we collect from unauthorized use.  The following is a detailed explanation of the privacy policy for Lipoderm. 
 
 **WHAT INFORMATION DO WE COLLECT?**
 
-HCG Diet Direct believes it is important for you to know what types of information we collect when you use our site.  We employ various methods for collecting information. 
+Lipoderm believes it is important for you to know what types of information we collect when you use our site.  We employ various methods for collecting information. 
 
 To begin with, we use “cookies” that are needed to compile aggregate non-personally identifiable information about the visitors to our web site. Personally identifiable information consists of information that is unique to you, such as credit card numbers, bank accounts, social security numbers, home address, email address and the like.  This is the type of information that most people consider private and deem the most important to protect from unauthorized access. 
 
@@ -45,7 +45,7 @@ Only those employees that are responsible for handling your account have access 
 
 **CAN I CORRECT OR REMOVE INFORMATION FROM YOUR SITE?**
 
-You always have the option to view your account to make sure the information we have collected from you is indeed correct.  You also have the option of removing any information from your account that you wish to keep private.  However, please note that removing certain information such as your email address, contact information, and the like may greatly hinder our ability to effectively provide the service or products you have requested.  We recommend, that you [contact us ](https://web.archive.org/web/20130516014740id_/http%3A//www.hcgdietdirect.com/contactus.html)first to discuss which information you may remove without interrupting the quality of service we intend to provide for you. 
+You always have the option to view your account to make sure the information we have collected from you is indeed correct.  You also have the option of removing any information from your account that you wish to keep private.  However, please note that removing certain information such as your email address, contact information, and the like may greatly hinder our ability to effectively provide the service or products you have requested.  We recommend, that you [contact us ](https://web.archive.org/web/20140330052709id_/http%3A//www.hcgdietdirect.com/contactus.html)first to discuss which information you may remove without interrupting the quality of service we intend to provide for you. 
 
 **CAN I OPT OUT OF HAVING CERTAIN INFORMATION COLLECTED?**
 
