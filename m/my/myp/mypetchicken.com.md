@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the mypetchicken.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014165721id_/http%3A//www.mypetchicken.com/about-our-company/policy/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypetchicken.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330233725id_/http%3A//www.mypetchicken.com/about-our-company/policy/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - My Pet Chicken
 
 We are committed to protecting your privacy and ensuring that your experience on our website is positive. This notice outlines the types of personal information we collect and some of the steps we take to safeguard information. We hope this helps you make an informed decision about sharing personal information with us. 
 
-When you order products on MyPetChicken.com, make requests, and register to receive e-newsletters or other materials, we collect information such as: 
-
+When you order products on MyPetChicken.com, make requests, and register to receive e-newsletters or other materials, we collect information such as:   
 Name  
 Address  
 Email address  
@@ -14,21 +13,24 @@ Payment Information
 Etc.   
 
 
-On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are: 
-
+On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are:   
 Name  
 Address  
 Phone Number  
 Etc.  
 
 
-We use your information in these five ways only. We will only use your personal information in the way we specified when it was collected. We will not subsequently change the way your personal information is used without your consent. 
+This website uses remarketing service (such as Google AdWords and AdRoll) to advertise on third party websites to previous visitors to our site. It could mean that we advertise to previous visitors who haven't completed a task on our site. Third-party vendors use cookies to serve ads based on someone's past visits to the MyPetChicken.com website. You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), or use the [NAI opt-out tool](http://www.networkadvertising.org/choices/).
+
+This website uses Google Analytics to track general website usage and behvior. No personally identifiable information is collected or linked, but agregate demographic information, based on users' browsing history, may be collected. You can set preferences for the information Google collects at [Google Preferences page](http://www.google.com/settings/ads/onweb/)
+
+We use your information in these five ways only. We will only use your personal information in the way we specified when it was collected. 
 
   * When placing an order, to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
   * If you have opted in to our e-newsletter, to email you product and service updates. (You will always have the ability to opt out from receiving newsletters by replying with "unsubscribe" in the subject line.)
   * If you send us an inquiry via email, to respond via email.
   * If you register with our website to receive our e-newsletter, to save items in your shopping cart or wish list, or to save announcing new products and services, to store your preferences.
-  * In some instances, My Pet Chicken may collect non-personal (aggregate or demographic) data collected on our website and e-newsletters, through cookies, web beacons and web logs. This information is used to better understand and improve the usability, performance and effectiveness of our website and e-newsletters.
+  * In some instances, My Pet Chicken may collect non-personal (aggregate or demographic) data collected on our website, e-newsletters and network, through cookies, web beacons and web logs. This information is used to better understand and improve the usability, performance, effectiveness and promotion of our website and e-newsletters.
 
 
 
