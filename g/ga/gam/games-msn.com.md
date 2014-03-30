@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the games-msn.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806190905id_/http%3A//www.games-msn.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games-msn.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330235957id_/http%3A//www.games-msn.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy-Download Free Games-Free pc games download full version|games-msn.com
+# Privacy Policy-Download Games-Pc games download|games-msn.com
 
 games-msn.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following statement discloses the information gathering and dissemination practices for this web site. 
 
@@ -14,4 +14,4 @@ games-msn.com has created this privacy statement in order to demonstrate our fir
 
 **Cookies**  A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such including a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. games-msn.com uses cookies to track the items you add to your shopping card and to enforce security rules regarding software that you download. If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You can refuse cookies by turning them off in your browser. However, you need to have cookies turned on to purchase software through games-msn.com. 
 
-**Unsubscribe Policy**  Users may unsubscribe to any of our electronic newsletters at any time by following the instructions contained at the end of each newsletter. 
+**Unsubscribe Policy**  Users may unsubscribe to any of our electronic newsletters at any time by following the instructions contained at the end of each newsletter.
