@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the sawaal.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813005939id_/http%3A//www.sawaal.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sawaal.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330222806id_/http%3A//www.sawaal.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+#### Privacy Policy
+
+* * *
 
 ### What information do we collect?
 
