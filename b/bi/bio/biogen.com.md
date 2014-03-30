@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biogen.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021000152id_/http%3A//www.biogenidec.com/privacy_policy.aspx%3FID%3D5453) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biogen.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330224047id_/http%3A//www.biogenidec.com/privacy_policy.aspx%3FID%3D5453) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,8 +6,7 @@ We are committed to respecting your privacy and we understand how important it i
 
 We urge all users of this site (the "Site") to read this Privacy Policy to learn more about the policies and practices that we have developed to safeguard personal information, and to better understand our relationships with the third parties who may have access to this information.
 
-##   
-Information We Collect.
+## Information We Collect.
 
 We have access to the following categories of information regarding you and your visit to the Site. Only some of the information in these categories is Personally Identifiable Information that could identify you directly, but each category offers some information about your interests and activities that could be used to make inferences about you.
 
