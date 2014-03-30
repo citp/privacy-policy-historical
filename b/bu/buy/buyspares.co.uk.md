@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyspares.co.uk privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230150648id_/http%3A//www.buyspares.co.uk/payment-security/help.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyspares.co.uk privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330044756id_/http%3A//www.buyspares.co.uk/payment-security/help.pl) for the most accurate reproduction.*
 
 # Terms & Conditions
 
@@ -34,7 +34,7 @@ At times we may choose to offer promotional or discount codes. The use of such c
 
 It is illegal to sell 'age restricted' products to people under the required age. We offer several ‘age restricted’ products on this website, including knives and solvents. By ordering these products you confirm that you (and the recipient of the product if applicable) are of the required age. All ‘age restricted’ products on this website can only be purchased by, and for, individuals aged 18 and over.
 
-*This policy covers only the website www.buyspares.co.uk. Any other websites which may be linked to by this website are subject to their own policy, which may differ from ours.
+This policy covers only the website www.buyspares.co.uk. Any other websites which may be linked to by this website are subject to their own policy, which may differ from ours.
 
   * View Privacy Policy
 
@@ -59,7 +59,7 @@ Your personal information may be disclosed to other businesses within CDSL and t
 
 ##### What are cookies?
 
-We use "cookies". Cookies are a piece of data stored on your computers hard drive which contains information about you. If you reject the cookies you may be limiting your use of some areas of the site. Our cookies hold the following information:
+We use "cookies". Cookies are a piece of data stored on your computer's hard drive which contains information about you. If you reject the cookies you may be limiting your use of some areas of the site. Our cookies hold the following information:
 
     * A unique identification number in order to keep track of your order
     * A unique order reference number to help identify the order as a whole
@@ -114,7 +114,7 @@ Verified by Visa is a simple password-protected identity-checking service that t
 
   * View Payment Methods
 
-The prices of products on this website are in £ Sterling, inclusive of VAT and exclusive of delivery. You'll find details of our delivery options and costs in the Delivery Information section. They are also shown when you place items in the basket.
+The prices of products on this website are in £ Sterling , inclusive of VAT and exclusive of delivery. You'll find details of our delivery options and costs in the Delivery Information section. They are also shown when you place items in the basket.
 
 The prices, offers and products on this website are subject to availability and may change before (but not after) we accept your order. We do our best to ensure that all information on this site is accurate. However, just occasionally, an error may occur. If we discover an error in the price or description of a product you have ordered, we will inform you as soon as possible and ask whether you wish to continue with your order or cancel it.
 
@@ -146,7 +146,7 @@ What are cookies? And why do we use them?
 
 There are lots of misconceptions about cookies and what they are for. At BuySpares we believe in being open, upfront and honest. In this section we briefly explain the cookie types we use and how they benefit your experience using the website.
 
-Cookies are used by almost all websites. They contain simple pieces of information and they are downloaded on to your pc when you visit the website. Cookies are not programs; they are simple text files that can used by a website for various purposes. At BuySpares we use cookies to ensure our website works efficiently and also to observe visitor behaviour on our website during a session.
+Cookies are used by almost all websites. They contain simple pieces of information and they are downloaded on to your pc when you visit the website. Cookies are not programs; they are simple text files that can be used by a website for various purposes. At BuySpares we use cookies to ensure our website works efficiently and also to observe visitor behaviour on our website during a session.
 
 All the information contained in our cookies is used to ensure the website works correctly, delivers the performance you expect and also to improve the overall experience we offer our visitors and customers. Some of the cookies we use are essential to the operation of the website.
 
@@ -171,7 +171,7 @@ These cookies allow us to identify and count the number of visitors to our sites
 
 Our site uses a range of cookies for marketing purposes. Marketing cookies record your visits to our sites, the pages you have visited and the links you have followed. We use this information to make our site and the advertising displayed on them more relevant to your interests. Sometimes we share anonymous information about your browsing activity recorded using cookies with our advertising partners. They may use this information to advertise products that may interest you on other sites. Please note we don’t share any of your personal or sensitive information.
 
-The use of cookies will not result in you receiving unsolicited emails. We understand that not everyone wants to receive marketing information. In order to receive marketing communications from us, you have to opt-in. This can be done during the checkout process or you can [sign up here](http://www.buyspares.co.uk/newsletter-signup.pl). You also have the option to unsubscribe from our email mailing list at anytime.
+The use of cookies will not result in you receiving unsolicited emails. We understand that not everyone wants to receive marketing information. In order to receive marketing communications from us, you have to opt-in. This can be done during the checkout process or you can [sign up here](http://www.buyspares.co.uk/newsletter-signup.pl). You also have the option to unsubscribe from our email mailing list at any time.
 
 **Use of cookies & consent**
 
