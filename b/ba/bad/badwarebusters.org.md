@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badwarebusters.org privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010081533id_/https%3A//www.badwarebusters.org/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badwarebusters.org privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330180919id_/https%3A//www.badwarebusters.org/main/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BadwareBusters
 
@@ -88,5 +88,5 @@ This Privacy Statement is effective as of December 22, 2010.
 If you have any questions about this Privacy Statement, you may contact us by email at contact@stopbadware.org or by mail to:
 
 StopBadware  
-PO Box 380295  
-Cambridge, MA 02238-0295
+One Broadway, 14th Floor  
+Cambridge, MA 02142
