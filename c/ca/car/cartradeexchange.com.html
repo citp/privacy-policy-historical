@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the cartradeexchange.com privacy policy that was archived on 2013-10-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131017092645id_/http%3A//www.cartradeexchange.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cartradeexchange.com privacy policy that was archived on 2014-03-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331000547id_/http%3A//www.cartradeexchange.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<title>CarTradeExchange - Leading online vehicle auction platform with 1200+ Dealers across India.</title>
+	<title>CarTradeExchange - Leading online vehicle auction platform with 3000+ Dealers across India.</title>
 <meta name="description" content="Car Auctions in more than 80 cities in India. Live Auctions &amp; Live Update, India's Leading online vehicle market to Buy and sell used cars.">
 <meta name="keywords" content="">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -11,9 +11,9 @@
 <meta http-equiv="Expires" content="-1">
 <meta name="fragment" content="#">
 <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/favicon.ico">
-<link href="/css/calendar.css?1382002005" rel="stylesheet" type="text/css">
-<link rel="stylesheet" type="text/css" href="/css/cssnew.css?1382002005&amp;version=2">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script language="javascript" type="text/javascript">vServer="www.cartradeexchange.com";vSec="adeccac0c7dbecb6006f6e2aa73dc3cd";</script>
+<link href="/css/calendar.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="/css/cssnew.css">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script language="javascript" type="text/javascript">vServer="www.cartradeexchange.com";vSec="a21b7d38f5e6b3774cecfd65029e65f2";</script>
 <script type="text/javascript" language="javascript">isItIndia=false;</script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -41,43 +41,94 @@
 <div align="center">
 <div align="left"><!--TOPBLOCK12345 --><script language="javascript">
 var config_browser = "mozilla"; var config_browser_version="5.0";
-vsession_id = "02lnf8ts09h7hgg2gco0emgs64";
+vsession_id = "u9i71683hjs5j551oknqdl0oh5";
 </script>
-    <header id="header" class="forDealerHeader"> 
+<script language="javascript">
+	function show_popup(val){
+	document.getElementById(val).style.display = "block";
+	}
+	function hide_popup(val){
+	document.getElementById(val).style.display = "none";
+	}
+</script>
+    <header id="header" class="forDealerHeader">
         <div class="mainHeader container">
-                	<div class="logoExchange">
+                 	<div class="logoExchange">
                 <a href="#">Cartrade Exchange</a>
             </div>
-                    
-        <!--	<div style="float:left; width:560px; margin-left:-60px; height:90px;">
+                <!--	<div style="float:left; width:560px; margin-left:-60px; height:90px;">
 			<img src="/images/cte_top_add2.png" alt="Become A Cartrade Franchisee" title="Become A Cartrade Franchisee" />
             </div> -->
-           <!--
-           when honda condition appear need to change css for below div 
-           "width:560px; margin-left:-60px;" to "width:485px; margin-left:28px;"           
-           -->
-             <div class="ForDealeradd" style="float:left;  width:560px;margin-left:-45px; height:90px;">
+                   <div class="ForDealeradd" style="float:left;  width:560px;margin-left:-50px; height:90px;">
                 <div class="popupBoxLink">
-                	 <!--/images/cte_top_add3.png -->
-                    <a href="#"><img src="/images/cte_top_add2.jpg" alt="Become A Cartrade Franchisee" title="Become A Cartrade Franchisee"></a>
-                    <div class="popupBox" style="margin-left:945px;top:100px;">
+                    
+                    <script type="text/javascript">
+					var images = [], 
+					index = 0;
+					
+					images[0] = "<a href = 'Javascript:show_popup(\"reg_pop1\")'><img id='banner_image' src='/images/cte-top-consumer-banner.jpg' alt='Visit Computer Hope'></a>";
+					images[1] = "<a href = 'Javascript:show_popup(\"reg_pop2\")'><img id='banner_image' src='/images/cte-top-franchise-banner.png' alt='Computer History'></a>";
+					
+					index = Math.floor(Math.random() * images.length);
+					document.write(images[index]);
+					</script><a href='Javascript:show_popup("reg_pop1")'><img id="banner_image" src="/images/cte-top-consumer-banner.jpg" alt="Visit Computer Hope"></a>
+                   <input type="hidden" name="htext" id="needval" value="0">
+                    <a id="first_banner" href="#"><img src="/images/cte-top-consumer-banner.jpg" alt=""></a>
+                    <a id="second_banner" style="display:none" href="#"><img src="/images/cte-top-franchise-banner.png" alt=""></a>
+                    
+                    <script>
+                    function randImages(){
+                    var images = [], 
+                    rval = 0;
+                    try{ var rval = document.getElementById("needval").value; }catch(e){ alert(e); }
+                    if( rval == 1 ){
+                        document.getElementById("needval").value = 0;
+                        document.getElementById("first_banner").style.display = "block";
+                        document.getElementById("second_banner").style.display = "none";
+                    }else{
+                        document.getElementById("needval").value = 1;
+                        document.getElementById("first_banner").style.display = "none";
+                        document.getElementById("second_banner").style.display = "block";
+                    }
+                    }
+                    setTimeout(function(){ randImages(); },1000);
+                    </script>
+
+                    <div id="reg_pop1" class="popupBox" style="margin-left:945px;top:110px;">
                         <form name="enquiry" id="enquiry" method="post" action="" onsubmit="return validate1(this)" target="_enq_frm">
                         <div class="popupBoxCnt">
                         <h3 style="background-color:#fffeee; border-bottom:0px solid #fffeee ">Enter your details below and benefit from this Limited Offer</h3>
                         <input type="text" name="name" id="name" onblur="if(this.value=='')this.value='Your name'" onfocus="if(this.value=='Your name') this.value=''" value="Your name">
-                        <input type="text" name="mobile" id="mobile" onblur="if(this.value=='')this.value='Your 10 digit mobile number'" onfocus="if(this.value=='Your 10 digit mobile number') this.value=''" value="Your 10 digit mobile number">
+                        <input type="text" name="mobile" id="mobile" maxlength="10" onblur="if(this.value=='')this.value='Your 10 digit mobile number'" onfocus="if(this.value=='Your 10 digit mobile number') this.value=''" value="Your 10 digit mobile number">
                         <input type="text" name="city" id="city" onblur="if(this.value=='')this.value='Your City'" onfocus="if(this.value=='Your City') this.value=''" value="Your City">
 						<input type="text" name="email" id="email" onblur="if(this.value=='')this.value='Enter Your Valid Email Address'" onfocus="if(this.value=='Enter Your Valid Email Address') this.value=''" value="Enter Your Valid Email Address">
-                        <input type="submit" class="redBtn" value="Submit">
+                        <input type="submit" class="redBtn" value="Submit" style="float:left;"> <div style="float: right; color:#000; line-height:20px; width:180px; text-align:right; font-weight:bold; font-size:14px;">SMS INT on +917506006810</div>
                         <input type="hidden" value="limitedoffer" name="action">
                         <div class="popuptopArrow"></div>
-                        <div class="popupCrossBtn"></div>
+                        <div class="popupCrossBtn" onclick="hide_popup('reg_pop1')"></div>
                         </div>
                         </form>
                     </div>
-                 </div>
+                    
+                    <div id="reg_pop2" class="popupBox2" style="margin-left:945px;top:110px;">
+                        <form name="enquiry" id="enquiry" method="post" action="" onsubmit="return validate2(this)" target="_enq_frm">
+                        <div class="popupBoxCnt">
+                        <h3 style="background-color:#fffeee; border-bottom:0px solid #fffeee ">Enter your details below and benefit from this Limited Offer</h3>
+                        <input type="text" name="name2" id="name2" onblur="if(this.value=='')this.value='Your name'" onfocus="if(this.value=='Your name') this.value=''" value="Your name">
+                        <input type="text" name="mobile2" id="mobile2" maxlength="10" onblur="if(this.value=='')this.value='Your 10 digit mobile number'" onfocus="if(this.value=='Your 10 digit mobile number') this.value=''" value="Your 10 digit mobile number">
+                        <input type="text" name="city2" id="city2" onblur="if(this.value=='')this.value='Your City'" onfocus="if(this.value=='Your City') this.value=''" value="Your City">
+						<input type="text" name="email2" id="email2" onblur="if(this.value=='')this.value='Enter Your Valid Email Address'" onfocus="if(this.value=='Enter Your Valid Email Address') this.value=''" value="Enter Your Valid Email Address">
+                        <input type="submit" class="redBtn" value="Submit" style="float:left;"> 
+                        <input type="hidden" value="limitedoffer2" name="action">
+                        <div class="popuptopArrow"></div>
+                        <div class="popupCrossBtn" onclick="hide_popup('reg_pop2')"></div>
+                        </div>
+                        </form>
+                    </div>
+                    
+                                     </div>
             </div>
-                        <div class="logo rhtlogo">
+                       <div class="logo rhtlogo">
                 <a href="http://www.cartrade.com" target="_blank">Cartrade</a>
             </div>
                     </div>
@@ -149,7 +200,7 @@ vsession_id = "02lnf8ts09h7hgg2gco0emgs64";
 <div align="left">    <footer id="footer">
 		<div style="background-color:#f2f2f2; border-top:1px solid #cdcdcd; ">
             <ul class="copyRight">
-                <li>© 2011 - 2013 CarTradeExchange.com. All rights reserved in favour of MXC Solutions India Pvt Ltd. </li>  
+                <li> © 2011 - 2014 CarTradeExchange.com. All rights reserved in favour of MXC Solutions India Pvt Ltd. </li>  
                 <li><a href="/privacy_policy">Privacy Policy</a> |</li> 
                 <li><a href="/userterms">Terms &amp; Conditions</a></li> 
 
@@ -181,33 +232,5 @@ disableSelection(document.getElementsByTagName("a"));
 disableSelection(document.getElementsByTagName("p"));
 disableSelection(document.getElementsByTagName("td"));
 
-//setInterval(trackUserlog,300000);
-//setInterval(trackUserlog,2000);
-
-function trackUserlog(){
-	
-	var xmlReq = false;
-	try {
-	xmlReq = new ActiveXObject("Msxml2.XMLHTTP");
-	} catch (e) {
-	try {
-	xmlReq = new ActiveXObject("Microsoft.XMLHTTP");
-	} catch (e2) {
-	xmlReq = false;
-	}
-	}
-	if (!xmlReq && typeof XMLHttpRequest != 'undefined') {
-	xmlReq = new XMLHttpRequest();
-	}
-	xmlReq.open('get', 'temp_cron_users_log.php?uid=&sid=02lnf8ts09h7hgg2gco0emgs64', true);
-	xmlReq.setRequestHeader("Connection", "close");
-	xmlReq.send(null);
-	xmlReq.onreadystatechange = function(){
-		if(xmlReq.readyState == 4 && xmlReq.status==200) {
-			// clearInterval(logtime);
-			//	document.location.href = "\home?action=logout";
-		}
-	}
-}
 </script>
 </body></html>
