@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the soundtrack.net privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013225659id_/http%3A//www.soundtrack.net/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundtrack.net privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330231630id_/http%3A//www.soundtrack.net/about/privacy.php) for the most accurate reproduction.*
 
 # About Us
 
 **This privacy statement applies to the website of:**  
 Soundtrack.Net / Autotelics, LLC [mail@soundtrack.net](mailto:mail@soundtrack.net)
 
-We respect your privacy. This is why we have taken the time to disclose our information collection practices and our privacy policy. Please take the time to review this document. 
+The following outlines our data collection practices and our privacy policy. Please take the time to review this document. 
 
 **Of the information we do collect, we allow our visitors the following access to the information:**  
 Access is given to other collected information. (For example, users can access things such as their own user account and voting history, etc.).
@@ -27,14 +27,14 @@ Collecting the information you provide allows you to log into and/or use our web
 • Contacting our visitors for promotion of the site or products.  
 • Preserving social history as governed by existing law or policy.  
 • Contacting our visitiors via telephone for promotion of the site or products.  
-
+• We, along with third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together for the purpose of reporting usage analytics (such as ad impressions), other uses of ad services, and interactions with these ad impressions and ad services are related to visits to the site. We may use Google's interest-based advertising platform to serve ads to you. You can opt-out of Google Analytics for Display Advertising and customize Google Display Network at Google's website ([click here](https://www.google.com/settings/ads)). 
 
 **Who has access to the information we collect?**  
 
 
-• Ourselves and/or our agents who utilize the information only for the purpose given.  
+• Ourselves and/or our agents who utilize the information for the purpose given.  
 • Public forums such as bulletin boards.  
-
+• Anyone accessing our site for information that you have chosen to make public. 
 
 
 **How long is information kept?**  
