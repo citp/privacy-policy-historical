@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1888articles.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204060602id_/http%3A//www.1888articles.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1888articles.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330134954id_/http%3A//www.1888articles.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of 1888 Articles.com
 
