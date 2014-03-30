@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iterasi.net privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817220735id_/http%3A//www.iterasi.com/iterasi-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iterasi.net privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330221017id_/http%3A//www.iterasi.com/iterasi-privacy-policy) for the most accurate reproduction.*
 
 # Iterasi Privacy Policy — Iterasi Web Archiving Services
 
