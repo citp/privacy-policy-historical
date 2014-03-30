@@ -1,47 +1,87 @@
-> *The following text is extracted and transformed from the manolith.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503134435id_/http%3A//www.manolith.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manolith.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330055040id_/http%3A//www.manolith.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Manolith
 
-Manolith respects the privacy of our customers and is serious about protecting your online privacy. This policy will explain how we gather and use personal information submitted. Therefore, by applying and using this site, you are agreeing and accepting this policy. If you do not agree to the terms of this policy, in whole or in part, you should not use this site, and should immediately terminate your registration (if you have previously signed up) by clicking on our ‘opt-out’ link.Information Collected:
+This privacy policy (the “ **Privacy Policy** ”) describes the manner in which Rebellion Media Group Corp. and its subsidiaries and affiliates (“ **we** ”, “ **us** ”, or “ **our** ”, as the context requires) collects information from you on our websites, mobile applications or any related software, features or functionality (collectively the “Sites and Services”) and how we use and maintain that information . **If you do not agree to this Privacy Policy, please do not use the Sites and Services.**
 
-Manolith only collects information that is volunteered during the application process or in any responses to specific information requests. We do need this information in order to provide services that you request. Examples of the information collected includes: information knowingly provided by you through on-line forms, surveys, email addresses, personal financial or demographic information, telephone numbers and addresses. We may also collect your IP address and information through the use of electronic ‘cookies’. However, we limit the use and collection of information about our customers to that extent which is necessary to administer our business.
+******1.** **Information We Collect**
 
-How We Use That Information:
+  * **Personally identifiable information.** We only collect personally identifiable information provided by you when you register on the Sites and Services as a user or, in some cases, to download an application forming part of our Sites and Services, to enter a survey or contest, or to subscribe to a newsletter .The information collected may include your name, email address or other information, as applicable .We will collect personally identifiable information from you only if you voluntarily submit such information to us .You can always refuse to supply personally identifiable information, except that it may prevent you from engaging in certain Sites and Services related activities or in downloading certain apps.
+  * **Non-personally identifiable information**. We may collect non-personally identifiable information about you when you visit and interact with the Sites and Services .Non-personally identifiable information may include browser information, device information (such as hardware model and operating system), log information (such as details of how you used the Sites and Services and IP address), cookies and anonymous identifiers.
 
-Manolith reserves the right to use this information provided by you for:
 
-the specific purpose for which such information was provided (including matching applicants with advertisers on our site;personal, demographic and profile data to improve our site;marketing and promotional purposes;as disclosed at the time such information is provided; and/or as disclosed in this Policy.
 
-Although, it is important to note that Manolith reserves the right to change or modify this policy at any time with or without notice. If you have any questions regarding the use of your information or about this policy, please feel free to contact us at contact us.
+**2.** **Web Browser Cookies and Web Beacons**
 
-Manolith may also share your information with its affiliates, partners’ advertisers, service providers, and any other entities that we believe are able to provide you with special opportunities and offers. Manolith may in the future use your information for additional purposes not currently included in this policy.
+Cookies are small files that are transferred to your computer through your web browser when you visit a site that enables the site to recognize your browser and capture and remember certain information .Cookies may store user preferences and other information .You can choose to set your browser to refuse all cookies or to alert you when a cookie is being sent .However, some features of the Sites and Services may not function properly without cookies.
 
-Manolith may occasionally license, share, or otherwise disclose data we collected to third parties. Manolith does not have control over such party’s information handling practices and is not responsible for any failure of such party to adhere to this Policy. As a condition of application, you must agree that we are allowed to share your information with such entities, or else you may not apply. If you have already registered, you must immediately terminate your account, by clicking on the ‘opt-out’ link and follow further instructions.
+We may use cookies to save your preferences for future visits, keep track of advertising data and compile data about Sites and Services traffic and interaction to provide a better Sites and Services experience.
 
-Application Compliance / Do Not Call Registry Compliance:
+The Sites and Services may also use web beacons, provided by some of our third-party advertising companies, to help manage our online advertising. Web beacons allow us to recognize a cookie when a browser visits the Sites and Services, and to learn which banner ads bring users to our Sites and Services.
 
-By submitting your personal information on our site, you are hereby granting written permission to us, our affiliated sites, sponsors, etc. for contact via telephone, mail, and/or e-mail. You are also consenting to receive phone calls from Manolith, our affiliates, and our partners for contact via telephone, and thereby, you waive your right to file a claim with the FTC or any other agency in regards to these contacts or calls.
+**3.** **How We Use Collected Information**
 
-Third Party Offers:
+We may use information collected for the following purposes:
 
-By registering at Manolith, you may receive follow-up contacts/offers from third party companies. We cannot be responsible for the services or representations of third party advertisers.
+  * **To personalize your experience.** We may use information collected to understand how you individually or collectively with other users make use of the Sites and Services so that we may improve your experience on the Sites and Services.
+  * **To develop and measure advertising programs.** We may use information collected to develop targeted marketing or advertising programs and to measure the effectiveness of such programs.
+  * **To improve our Sites and Services.** We continually strive to improve the Sites and Services offerings based on the information and feedback we receive from you both individually and collectively with other users.
+  * **To administer surveys or promotional events.** This information may be used to administer surveys, sweepstakes, giveaways, contests, or similar promotions or events.
+  * **To provide customer service and technical support.**
+  * **To send periodic emails.** The email address you provide when contacting us through the Sites and Services will be used to respond to your inquiries .If you decide to opt-in to our mailing list, you may receive emails that include company news, content updates and related product or service information.
 
-We use third-party advertising companies to serve ads when you visit our website and sites upon which we advertise. These third-party advertising technologies use information about your visits to this website and the sites upon which we advertise, to serve our ads to you. In the course of our advertisements being served to you, these companies may place or recognize their own unique third-party cookies on your browser. In addition, we may use Web beacons, provided by some of our third-party advertising companies, to help manage our online advertising. These Web beacons allow us to recognize a browser’s cookie when a browser visits this site and to learn which banner ads bring users to our website. To learn more about our third-party ad-serving companies, cookies, and how to “opt-out” please click here.
 
-Other Sites Advertised:
 
-Manolith may contain links to other sites. We are not responsible for the privacy practices or the content of such websites.
+**4.** **Opt-out and Unsubscribe Policy**
 
-Your Opt-Out Rights:
+**** You have the option not to register any personally identifiable information with us and to opt out of subscribing to newsletters .You can also opt not to participate in certain interactive areas of the Sites and Services, which eliminates the need to gather any personally identifiable information from you.
 
-You may opt-out of receiving communications from us, our affiliates, and/or third parties by not submitting your information. We also allow you to remove your information from our database by responding to any of our email communications with “remove” in the subject line. If you remove your information from our database, it will no longer be used by us for secondary purposes or disclosed to third parties. Manolith takes your privacy seriously and we do not tolerate spam.
+If at any time you would like to discontinue receiving email communications from us, you can follow the unsubscribe instructions included at the bottom of each email or you may contact us through the Sites and Services.
 
-Transfer, Sale, or Assign:
+**5.** **How We Protect Your Information**
 
-At its sole discretion, Manolith may transfer, sell, and/or assign information collected on and through this site, including but not limited to, the users personal information collected, to one or more third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization, or liquidation of Manolith.
+We use commercially reasonable data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information .While we make efforts to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third parties from illegally obtaining this information.
 
-Change in Policy:
+**6.** **Sharing Your Personal Information**
 
-We reserve the right to change this policy at any time. Depending on the nature of the change, we may notify you of the existence and location of the new or revised policy through email or by posting the changes online at our site.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information .This excludes trusted third parties who assist us in operating our Sites and Services or administrating activities on our behalf, such as sending out newsletters or surveys.
 
-Additionally, Manolith may disclose your information if required to do so by law or in the good faith belief that such action is necessary to: (a) comply with the applicable laws; (b) protect and defend the rights and/or property of Manolith and its family of websites; and (c) comply with the valid legal process.
+We may disclose your personally identifiable information if required to do so by law or in the good faith belief that such action is necessary to:
+
+  * comply with applicable laws or valid legal processes;
+  * enforce our Sites and Services policies; or
+  * protect and defend ours or others’ rights, property, or safety.
+
+
+
+Non-personally identifiable visitor information may be provided in aggregate to other parties for marketing, advertising, or other uses.
+
+**7.** **Third-Party Websites**
+
+You may find advertising or other content on our Sites and Services that links to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties .We do not control the content or links that appear on these sites and are not responsible for the practices employed by sites linked to or from our Sites and Services .Browsing and interaction on any other site, including sites which have a link to our Sites and Services, is subject to that site’s own privacy policy and terms of use.
+
+Ads appearing on our Sites and Services may be delivered to you by advertising partners, who may send their own unique cookies through your browser .These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non-personally identifiable information about you or others who use your computer .This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you .This Privacy Policy does not cover the use of cookies by any advertisers.
+
+If you use a link to leave the Sites and Services to purchase products or services, you are completing a purchase transaction according to the rules and regulations of the vendor company, not the Sites and Services.
+
+**8.** **Compliance with U.S. _Children’s Online Privacy Protection Act_**
+
+The safety and privacy of children is important to us .We do not knowingly collect or maintain information from users who are under the age of 13 .The Sites and Services are directed at a general audience and intended to be used by adults .No part of our Sites and Services are structured to attract anyone under the age of 13 .If you become aware that your child has provided us with personally identifiable information without your consent, please contact us at info@rebellionmedia.com.
+
+**9.** **California _Online Privacy Protection Act_ Compliance**
+
+Companies that collect personally identifiable information from California residents and disclose such information to third parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided, or (2) provide a mechanism by which a consumer may opt-out of having their information shared with third parties .We have elected the second option and you may request that your personal information not be shared with third parties by contacting us as described in our opt-out and unsubscribe policy above.
+
+**10.** **Changes to this Privacy Policy**
+
+Our Privacy Policy may change from time to time .We will post any Privacy Policy changes on this page and change the last modified date indicated at the bottom of this page .If the changes are significant we will provide a more prominent notice .We encourage users to frequently check this page for any changes to stay informed about how we are handling and protecting the personal information we collect.
+
+Your continued use of the Sites and Services following the posting of changes to this Privacy Policy will be deemed your acceptance of those changes . **If any changes to this Privacy Policy are unacceptable to you, you must discontinue using the Sites and Services.**
+
+******11.** **Transfer, Sale or Assignment**
+
+At our sole discretion, we may transfer, sell, or assign information collected on and through the Sites and Services, including but not limited to, personally identifiable information, to one or more third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization, or liquidation of us or affiliated companies.
+
+**12.** **Contacting Us**
+
+If you have any questions about this Privacy Policy, the practices of the Sites and Services, or your dealings with the Sites and Services, please contact us at the [Manolith Contact Page](https://web.archive.org/contact-us/)
