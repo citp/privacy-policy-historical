@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the appbackr.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115223308id_/http%3A//privacy-policy.truste.com/verified-policy/www.appbackr.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appbackr.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330223727id_/http%3A//privacy-policy.truste.com/verified-policy/www.appbackr.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.appbackr.com
 
 Effective on August 15, 2010 
 
-This privacy statement describes how appbackr inc. collects and uses the personal information you provide on our Web site: [www.appbackr.com ](http://www.appbackr.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how appbackr inc. collects and uses the personal information you provide on our Web site: [www.appbackr.com ](https://www.appbackr.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **TRUSTe**
 
@@ -95,6 +95,8 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@appbackr.com ](mailto:support@appbackr.com)
 
 In order to make a purchase from us, you must use our shopping cart provider to finalize and pay for your order. Its privacy statement and security practices will also apply to your information. We encourage you to read that privacy statement before providing your information.
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@appbackr.com](mailto:support@appbackr.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ## Additional Policy Information
 
