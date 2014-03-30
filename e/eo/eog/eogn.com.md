@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eogn.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509224345id_/http%3A//blog.eogn.com/eastmans_online_genealogy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eogn.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330180144id_/http%3A//blog.eogn.com/eastmans_online_genealogy/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Eastman's Online Genealogy Newsletter
 
@@ -31,3 +31,49 @@ You are asked to attribute the original source of the article, however. Details 
 **Additional Information**
 
 Questions? Please contact Dick Eastman: <http://blog.eogn.com/eastmans_online_genealogy//contact-us.html>
+
+  * Your email address is safe with me. I promise that:
+
+    1. I will never sell, rent, or give away your address to any outside party, ever;
+    2. You can click the link at the bottom of any email I send to instantly and securely unsubscribe. Period.
+
+
+
+
+  * April 11th to 14th, 2014 - Annual Guild of One-Name Studies Conference, [Ashford, Kent, United Kingdom](http://www.one-name.org/conf2014_ashford.html)
+
+April 19, 2014 - Tacoma-Pierce County Genealogical Society, [Tacoma, Washington](http://www.rootsweb.ancestry.com/~watpcgs/seminar.html)
+
+April 27, 2014 - Genealogical Society of Washtenaw County, [Michigan](http://washtenawgenealogy.org/)
+
+May 7 to 10, 2014 - National Genealogical Society annual conference, [ Richmond, Virginia](http://conference.ngsgenealogy.org/)
+
+June 6 to 8, 2014 - Southern California Genealogy Jamboree, [ Burbank, California](http://genealogyjamboree.com/)
+
+June 14, 2014 - Middlesex Society of Genealogists, Middlesex County, Massachusetts
+
+10-11 October 2014 - Western Michigan Genealogical Society's Annual Seminar, [ Grand Rapids, Michigan](http://gotancestors.com/)
+
+December 7 to 14, 2014 -Eastern Caribbean Genealogy Cruise - [ Fort Lauderdale, Florida; San Juan, Puerto Rico; Basseterre, St. Kitts and Philipsburg, St. Maarten](http://www.cecruisegroups.com/genealogy-cruise-2014.html)
+
+11 April 2015 - Imperial Polk Genealogical Society Seminar 2015, [ Lakeland, Florida](http://www.ipgs.org/)
+
+* * *
+
+**Dick Eastman LIVE at your event**
+
+Dick Eastman is available for presentations and full-day seminars at genealogy conferences around the world. Dick knows that sitting through a boring speech is painful. Therefore, he keeps things light and humorous, giving presentations that are educational, motivational, and entertaining.
+
+[Contact Dick Eastman](http://blog.eogn.com/eastmans_online_genealogy//contact-us.html) for more information. 
+
+* * *
+
+
+
+
+**Search This Newsletter's Past Articles**
+
+  * [](http://www.webpageanalyse.com/blog.eogn.com "Securityscore of blog.eogn.com on Webpageanalyse")
+
+
+
