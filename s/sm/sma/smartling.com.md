@@ -1,21 +1,10 @@
-> *The following text is extracted and transformed from the smartling.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921124420id_/http%3A//www.smartling.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartling.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330191826id_/http%3A//www.smartling.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Translation Management Software | Smartling
 
 ## Your Privacy Is Important to Us
 
 Modified on 7/29/2010.
-
-### Contact Smartling
-
-Please review the privacy policies for our commitment to safeguarding your privacy online. If you have any questions regarding this privacy policy, please contact us.
-
-475 Park Ave S, 23 Floor  
-New York, NY 10016  
-[info@smartling.com](mailto:info@smartling.com)  
-+1 866.70.SMART 
-
-[Contact Us](https://web.archive.org/contact_sales)
 
 ### What information do we collect?
 
@@ -70,14 +59,3 @@ By using our site, you consent to our web site privacy policy.
 ### Changes to our Privacy Policy
 
 We reserve the right to modify this privacy policy at any time, so please check for change notices on a regular basis. If we decide to change our privacy policy in a material way, we will post a prominent change notice on the Site, and we may notify you by email of those changes so that you continue to be aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-### Contact Smartling
-
-Please review the privacy policies for our commitment to safeguarding your privacy online. If you have any questions regarding this privacy policy, please contact us.
-
-475 Park Ave S, 23 Floor  
-New York, NY 10016  
-[info@smartling.com](mailto:info@smartling.com)  
-+1 866.70.SMART 
-
-[Contact Us](https://web.archive.org/contact_sales)
