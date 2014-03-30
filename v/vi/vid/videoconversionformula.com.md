@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the videoconversionformula.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030121549id_/http%3A//www.videoconversionformula.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoconversionformula.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330202950id_/http%3A//www.videoconversionformula.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Video Conversion Formula 2.0 by Maria A. Andros - Official Site
+# Privacy Policy « Video Conversion Formula 2.0 by Maria A. Andros – Official Site
 
 Video Marketing Queen, Inc. and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information (“Personal Information”) you share with us.
 
