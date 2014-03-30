@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518192524id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330231951id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
 
 # UniqueRewards
 
@@ -93,17 +93,16 @@ By registering to use the UniqueRewards service, you agree to accept this privac
 
 |  | 
 
-[](https://web.archive.org/cgi-bin/click.cgi?mid=14390)
-
-**Discover it Card**
-
-Apply now for no annual fee. Earn 5% cash back in categories that change throughout the year like gas, restaurants, and department stores up to the quarterly maximum. Unlimited 1% cash back on all other purchases!  
-Apply and activate your Discover It Card.
-
 [](https://web.archive.org/cgi-bin/click.cgi?mid=3914)
 
 **UniqueRewards Profile Survey**
 
 UniqueRewards Profile Survey!
+
+[](https://web.archive.org/cgi-bin/click.cgi?mid=16304)
+
+**VIP Voice**
+
+Think of VIP Voice as an influential team that helps your favorite companies make decisions about the products you see in stores. When you join us (it's free!), you become part of this powerful group!
 
 | 
