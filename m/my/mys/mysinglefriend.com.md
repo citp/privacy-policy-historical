@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mysinglefriend.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819012641id_/http%3A//www.mysinglefriend.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysinglefriend.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330213646id_/http%3A//www.mysinglefriend.com/privacy) for the most accurate reproduction.*
 
 # Mysinglefriend Privacy Policy for Online Dating
 
-**My Single Friend's Data Protection and Privacy Notice**
+**MySingleFriend's Data Protection and Privacy Notice**
 
-Your personal information is held by My Single Friend Limited. The personal information that you include within your profile is available to other users of www.mysinglefriend.com. If you send a message through our service, the personal information contained within that message will be shared with the recipient of that message. All other personal information that we process is kept confidential on our secure database. We will use your personal information to provide you with our services (including approving your profile and photograph(s), communicating with you regarding your membership and responding to complaints), for administration and accounting, for marketing and to ensure that the content and services that we offer are tailored to your needs and interests.
+Your personal information is held by MySingleFriend Limited. The personal information that you include within your profile is available to other users of www.mysinglefriend.com. If you send a message through our service, the personal information contained within that message will be shared with the recipient of that message. All other personal information that we process is kept confidential on our secure database. We will use your personal information to provide you with our services (including approving your profile and photograph(s), communicating with you regarding your membership and responding to complaints), for administration and accounting, for marketing and to ensure that the content and services that we offer are tailored to your needs and interests.
 
 We will store your personal information for so long as you are a registered user. After you cease to be a registered user we will keep your personal information on our records for a period of one year to enable us to respond to any queries or complaints that you may have. After this time we may continue to store your personal information, however such personal information shall only be processed where necessary for legal reasons (for example we will need to keep your billing information for 7 years in accordance with HM Revenue and Customs rules) or we have reason to believe that the processing may (i) assist with the detection and/or prevention of crime; and/or (ii) protect your safety or that of a third party.
 
@@ -37,4 +37,4 @@ If your personal details change, please log in to www.mysinglefriend.com and upd
 My Single Friend Ltd  
 4th Floor, 7 Swallow Place, London, W1B 2AG
 
-mysinglefriend® and [mysinglefriend logo](https://web.archive.org/online/logos) **™**   are trade marks proprietary to My Single Friend Limited. All rights reserved.
+mysinglefriend® and [mysinglefriend logo](https://web.archive.org/online/logos) **™**   are trade marks proprietary to MySingleFriend Limited. All rights reserved.
