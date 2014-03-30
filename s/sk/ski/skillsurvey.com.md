@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skillsurvey.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424162722id_/http%3A//www.skillsurvey.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillsurvey.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330223800id_/http%3A//www.skillsurvey.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | SkillSurvey
 
