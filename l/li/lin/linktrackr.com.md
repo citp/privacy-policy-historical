@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the linktrackr.com privacy policy that was archived on 2013-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130729174223id_/http%3A//www.linktrackr.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linktrackr.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330222649id_/http%3A//ww3.linktrackr.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LinkTrackr
-
-Last Updated: January 12, 2008
 
 LinkTrackr.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."
 
@@ -48,7 +46,7 @@ You should also be aware that if you voluntarily disclose Personally Identifiabl
 
 **Children**
 
-LinkTrackr.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe LinkTrackr.com has any information from or about anyone under 13, please contact us at the address listed below.
+LinkTrackr.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe LinkTrackr.com has any information from or about anyone under 13, please contact us at the address listed below. 
 
 **Contacting Us**
 
@@ -56,10 +54,10 @@ You can easily contact us via our support desk at: [http://support.incomattic.co
 
 Our physical address and contact details are as below: 
 
-> Incomattic Sdn Bhd,   
->  No 3B, Second Floor, Jalan 14/20,   
->  Petaling Jaya 46200, Selangor,   
->  Malaysia. 
+Incomattic Sdn Bhd,   
+No 3B, Second Floor, Jalan 14/20,   
+Petaling Jaya 46200, Selangor,   
+Malaysia. 
 
 **Changes to this Policy**
 
