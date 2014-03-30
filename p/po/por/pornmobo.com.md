@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the pornmobo.com privacy policy that was archived on 2013-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130709175401id_/http%3A//www.pornmobo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornmobo.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331000213id_/http%3A//www.pornmobo.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - PornMobo.COM
+# Privacy Policy - pornmobo.com
 
-[](http://www.pornmobo.com/)
-
-## Privacy Policy
+## pornmobo.com Privacy Policy
 
 pornmobo.com recognizes that its customers, visitors, users, and others who use pornmobo.com value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the pornmobo.com web site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site.
 
@@ -15,7 +13,7 @@ Please note that any video, image, or other content posted at the direction of u
 User-provided information: You provide certain personally identifiable information (such as your name and email address) to pornmobo.com when choosing to participate in various activities on the sites such as uploading videos or posting messages.
 
   * Cookies Information: When you visit the pornmobo.com web site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. pornmobo.com uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the pornmobo.com web site may not function properly if the ability to accept cookies is disabled. 
-  * Log File Information: When you use the pornmobo.com web site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ('IP') address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser. 
+  * Log File Information: When you use the pornmobo.com web site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser. 
 
 
 
