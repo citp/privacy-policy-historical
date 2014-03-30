@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clear.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211124549id_/http%3A//www.clear.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clear.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330055307id_/http%3A//www.clear.com/legal/privacy) for the most accurate reproduction.*
 
 # Legal | Privacy Policy | CLEAR
 
