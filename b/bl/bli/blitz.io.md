@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blitz.io privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515000450id_/https%3A//www.blitz.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blitz.io privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330174524id_/https%3A//www.blitz.io/privacy) for the most accurate reproduction.*
 
 # Blitz - Privacy
 
@@ -6,17 +6,15 @@
 
   * [Why Blitz](https://www.blitz.io/why-blitz)
   * [Services](https://www.blitz.io/for/performance)
-  * [Pricing](https://secure.blitz.io/pricing)
+  * [Pricing](https://web.archive.org/pricing)
   * [Customers](https://www.blitz.io/customers)
+  * Redeem Promo ▼
+    * [Cisco Live](https://www.blitz.io/events/melbourne14)
+    * [New Relic](https://www.blitz.io/events/newrelic14)
+    * [SXSW](https://www.blitz.io/events/sxsw14)
   * [Sign In](https://web.archive.org/login)
 
 
-
-### Response time
-
-### Required Amount of Credits
-
-This Test Needs  0  out of  0  Credit 
 
 ### Privacy Policy
 
