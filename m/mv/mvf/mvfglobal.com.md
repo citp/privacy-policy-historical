@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mvfglobal.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806225625id_/http%3A//www.mvfglobal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mvfglobal.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330062954id_/http%3A//www.mvfglobal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MVF Global
 
-## MVF Global - Privacy Policy Statement
+## MVF - Privacy Policy Statement
 
-This Privacy Policy Statement explains the data processing practices of MVF Global (MVF) If you have any requests concerning your personal information or any queries with regard to these practices please contact our Privacy Officer by e-mail at [privacy@mvfglobal.com](mailto:privacy@mvfglobal.com).
+This Privacy Policy Statement explains the data processing practices of MVF. If you have any requests concerning your personal information or any queries with regard to these practices please contact our Privacy Officer by e-mail at [privacy@mvfglobal.com](mailto:privacy@mvfglobal.com).
 
 Registration & Information Collected
 
@@ -23,7 +23,7 @@ We use personal information collected via MVF to:
 
 We use "cookies" to identify you when you visit the MVF site and to build up a profile of our regular users.  
 A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information back from the browser. Our use of cookies also allows members to be presented with a personalised version of the site.  
-We will only read cookies from your cookie file placed there through your web browser's interaction with the MVF Global site. Please see [www.aboutcookies.org](http://www.aboutcookies.org/ "www.aboutcookies.org") for more information about cookies.
+We will only read cookies from your cookie file placed there through your web browser's interaction with the MVF site. Please see [www.aboutcookies.org](http://www.aboutcookies.org/ "www.aboutcookies.org") for more information about cookies.
 
 ## Use of session files
 
@@ -48,4 +48,4 @@ Our site links to other web sites and we are not responsible for the content on 
 
 ## Data Protection
 
-MVF Global is a trading name of Marketing VF Ltd. which is registered under the 1998 Data Protection Act, ref PZ1995728.
+MVF is a trading name of Marketing V F Limited. which is registered under the 1998 Data Protection Act, ref PZ1995728.
