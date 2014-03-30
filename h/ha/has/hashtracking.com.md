@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hashtracking.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508111516id_/https%3A//www.hashtracking.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hashtracking.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330225806id_/https%3A//www.hashtracking.com/privacy-policy) for the most accurate reproduction.*
 
 # Powerful Tracking for Hashtags | Hashtracking.com
 
