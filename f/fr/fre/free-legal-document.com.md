@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-legal-document.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231011647id_/http%3A//www.free-legal-document.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-legal-document.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330053630id_/http%3A//www.free-legal-document.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Free-Legal-Document.com
 
@@ -32,7 +32,11 @@ We may serve third party advertisements that use cookies and web beacons in the 
 
 If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, visit [http://www.networkadvertising.org](http://www.networkadvertising.org/)
 
-Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy/ads/).
+  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+  * Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/settings/ads?hl=en&sig=ACi0TCiu7RbWf6Xc84q4hybxCdBTkc0zL09jT0jZXNcRGLjiMVsX2KV1k93KkvxG--8i-Z4Kbzj4GG6fV-UM-lvmfZlADDMRe4MntfGATOkOHEu0UJsOQhPHZVpp88Ojx20JW3zHIDbNcehZ7A3XDYyRXanIYifvqRReG68J38GjhgpaKZTSPZzZAbkUI6lTL0klSWVP1bizyGJfM_hu2dd-4Kyhb7ATN_hbefkHwX8K2mu8JCq2wGI).
+
+
 
 Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose. In FireFox, choose Tools > Options > Privacy to set your cookie settings. In Internet Explorer, choose Tools > Internet Options > Privacy. In other browsers, please check the documentation of that browser for how to change the cookie settings.
 
