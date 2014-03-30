@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamechanger.io privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109031917id_/http%3A//www.gamechanger.io/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamechanger.io privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330062943id_/http%3A//www.gamechanger.io/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | About | GameChanger | GameChanger
 
