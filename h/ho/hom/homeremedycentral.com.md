@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeremedycentral.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509013845id_/http%3A//www.homeremedycentral.com/en/administration/home-remedy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeremedycentral.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330214558id_/http%3A//www.homeremedycentral.com/en/administration/home-remedy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy-Home Remedy-Admin Home Remedy Central
 
@@ -12,9 +12,9 @@ Homeremedycentral.com uses statistical tracking software to provide metrics of s
 
 ## Contact Information:
 
-You may contact us via email from the "Contact Us" section of this website, email [info@homeremedycentral.com](mailto:info@homeremedycentral.com), calling 425-881-8411 or at the address below. 
+You may contact us via email from the "Contact Us" section of this website, email [info@homeremedycentral.com](mailto:info@homeremedycentral.com), calling 425-881-8411 or at the address below.
 
-Corina Wilson 
+Corina Wilson
 
 PO Box 12001,  
 Mill Creek, WA 98082  
@@ -44,11 +44,11 @@ Persons who supply us with their telephone numbers on-line will only receive tel
 
 ## Third-Party Advertising
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
   * Google, as a third party vendor, uses cookies to serve ads on this site.
   * Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy/ads/).
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/technologies/ads/).
 
 
 
@@ -57,7 +57,7 @@ We use third-party advertising companies to serve ads when you visit our website
 To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
 
   * [Amazon privacy policy](http://www.amazon.com/gp/help/customer/display.html?nodeId=468496).
-  * [Google ad and content network privacy policy](http://www.google.com/privacy/ads/)
+  * [Google ad and content network privacy policy](http://www.google.com/policies/technologies/ads/)
 
 
 
