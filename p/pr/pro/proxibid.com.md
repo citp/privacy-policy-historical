@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the proxibid.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811062549id_/https%3A//www.proxibid.com/asp/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxibid.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330223800id_/https%3A//www.proxibid.com/asp/PrivacyPolicy.asp) for the most accurate reproduction.*
 
-# Leader in Online Timed & Live Webcast Auctions | Proxibid Auctions
+# Leader in Online Timed & Live Webcast Auctions Auctions Online | Proxibid
 
 At, Proxibid, your privacy is one of our highest priorities. We provide this Privacy Policy to help you make an informed choice about your personal information. We desire to be open and honest at all times about information collected from you, how that information is used, and your rights regarding that information.  
 
@@ -9,7 +9,7 @@ At, Proxibid, your privacy is one of our highest priorities. We provide this Pri
 **POLICY ACCEPTANCE**
 
   * This privacy policy applies to all information collected by or supplied to [www.proxibid.com](http://www.proxibid.com/).  By visiting [www.proxibid.com](http://www.proxibid.com/) you are accepting the practices described in this Privacy Policy. 
-  * If you choose to visit [www.proxibid.com](https://web.archive.org/web/20130811062549id_/https%3A//www.proxibid.com/asp/www.proxibid.com), your visit and any dispute over privacy is subject to this Privacy Policy and our Unified User Agreement, including limitations on damages and application of the law of the State of Nebraska.
+  * If you choose to visit [www.proxibid.com](https://web.archive.org/web/20140330223800id_/https%3A//www.proxibid.com/asp/www.proxibid.com), your visit and any dispute over privacy is subject to this Privacy Policy and our Unified User Agreement, including limitations on damages and application of the law of the State of Nebraska.
 
 
 
