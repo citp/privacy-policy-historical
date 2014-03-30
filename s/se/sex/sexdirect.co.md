@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexdirect.co privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806043515id_/http%3A//uk.sexdirect.co/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexdirect.co privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330225101id_/http%3A//uk.sexdirect.co/help/privacy.cfm) for the most accurate reproduction.*
 
 # Sex Direct (UK) :: Sex Direct (UK) Member Privacy Policy
 
