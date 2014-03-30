@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the see.me privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830202249id_/https%3A//www.see.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the see.me privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330220936id_/https%3A//www.see.me/privacy) for the most accurate reproduction.*
 
 # See | Me - Where great talent receives endless attention
 
@@ -19,6 +19,8 @@ We work with third parties who provide services including, but not limited to, d
 Notwithstanding any other provision of this policy to the contrary, we reserve the right to disclose information about you to others as we believe to be appropriate (a) under applicable law; (b) to comply with legal process; (c) to respond to governmental requests; (d) to enforce our Terms of Use; (e) to protect our operations; (f) to protect the rights, privacy, safety or property of our company, you, or others; and (g) to permit us to pursue available remedies or limit the damages that we may sustain. For example, we may, to the fullest extent the law allows, disclose information about you to law enforcement agencies to assist them in identifying individuals who have been or may be engaged in unlawful activities.
 
 We reserve the right to transfer any and all information that we collect from the site users to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets, or ownership interests (including, without limitation, in connection with any bankruptcy or similar proceedings).
+
+In an effort to give See.Me members more opportunities for promotion and recognition, we will from time to time post members' work to our social media channels, including, but not limited to, Facebook, Twitter, Pinterest, and Tumblr. When images are posted to any of those sites, those images become subject to the privacy policies and terms of use of those sites, which are not under the control of See.Me.
 
 ### Postal Communications
 
@@ -68,6 +70,6 @@ If you feel that we have not complied with the policy, you may contact us at the
 
 Our postal address is:
 
-2525 44th Drive, Long Island City, NY 11101
+26-19 Jackson Ave, Long Island City, NY 11101
 
 We can also be reached via e-mail at [hello@see.me](mailto:hello@see.me).
