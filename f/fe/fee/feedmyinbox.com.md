@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the feedmyinbox.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811122605id_/https%3A//www.feedmyinbox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedmyinbox.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330235247id_/https%3A//www.feedmyinbox.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# RSS and Twitter feed to your inbox. Free real-time email updates for favorite blogs, feeds, and news delivered to your inbox
 
 "Our Commitment to PrivacyYour privacy is extremely important to us. To better protect you, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on every page of this website."
 
