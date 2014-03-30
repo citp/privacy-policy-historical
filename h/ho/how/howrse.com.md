@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howrse.com privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915213848id_/http%3A//www.howrse.com/footer/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howrse.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330233334id_/http%3A//www.howrse.com/footer/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -110,12 +110,12 @@ These files are harmless and do not contain any personal information regarding s
 
 You may oppose to the installation of "cookies" by modifying your browser settings. However, you are informed that blocking cookies through the browser's settings or firewall will prevent our games from functioning normally. 
 
-In addition, where Owlient inserts third parties advertising on its websites, you are aware that those third parties may place a cookie. You have the possibility to de-install these cookies on a page of the third party’ website accessible at the address: <http://www.exponential.com/who-we-are/privacy-policy.jsp>
+In addition, where Owlient inserts third parties advertising on its websites, you are aware that those third parties may place a cookie. You have the possibility to de-install these cookies on a page of the third party' website accessible at the address: <http://www.exponential.com/who-we-are/privacy-policy.jsp>
 
   
 
 
-###  5\. Specific Rules regarding minors’ privacy 
+###  5\. Specific Rules regarding minors' privacy 
 
 We encourage parents and guardians to be aware of and participate in their children's online activities. If you are under the age of 18, you are informed that you need the consent of your parents in order to provide us with your personal information. 
 
@@ -128,7 +128,7 @@ Users of our websites located in the United States are informed that we strictly
 
 ###  6\. International users 
 
-You are advised that this Privacy Policy is intended to meet the laws and regulation of France. By using any of our websites, you acknowledge and agree that personal information you provide to us will be treated in accordance with the laws and regulation of France, although they may differ from your own country’s laws and regulations. 
+You are advised that this Privacy Policy is intended to meet the laws and regulation of France. By using any of our websites, you acknowledge and agree that personal information you provide to us will be treated in accordance with the laws and regulation of France, although they may differ from your own country's laws and regulations. 
 
   
 
