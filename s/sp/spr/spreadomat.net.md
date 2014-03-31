@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreadomat.net privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115035757id_/http%3A//www.spreadshirt.net/privacy-policy-C3928) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreadomat.net privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331065145id_/http%3A//www.spreadshirt.net/privacy-policy-C3928) for the most accurate reproduction.*
 
 # Privacy Policy | Spreadshirt
 
