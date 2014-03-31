@@ -1,18 +1,18 @@
-<!--The following is the downloaded HTML source of the haikudeck.com privacy policy that was archived on 2013-08-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130830073548id_/http%3A//www.haikudeck.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the haikudeck.com privacy policy that was archived on 2014-03-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331073818id_/http%3A//www.haikudeck.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" itemscope="" itemtype="http://schema.org/Article"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="Content-Language" content="en-US">
 <meta http-equiv="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link href="/css/font_quicksand.css" media="screen" rel="stylesheet" type="text/css">
-<link href="http://static.haikudeck.com/lib/bootstrap2.3.1/css/bootstrap.min.css" media="screen" rel="stylesheet" type="text/css">
-<link href="http://static.haikudeck.com/css/global.css" media="screen" rel="stylesheet" type="text/css">
-<link href="http://static.haikudeck.com/css/modal.css" media="screen" rel="stylesheet" type="text/css">
-<link href="http://static.haikudeck.com/css/haikudeck.player.1.4.2.css" media="screen" rel="stylesheet" type="text/css">
-<link href="http://static.haikudeck.com/css/terms.css" media="screen" rel="stylesheet" type="text/css">
-<link href="http://static.haikudeck.com/css/header.css" media="screen" rel="stylesheet" type="text/css">
-<link href="http://static.haikudeck.com/css/footer.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Quicksand:300,400,700" media="screen" rel="stylesheet" type="text/css">
+<link href="/css/font_quicksand_cdn.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/lib/bootstrap2.3.1/css/bootstrap.min.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/css/haikudeck.website.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/build/haikudeck.core.0.3.4.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/css/haikudeck.player.1.7.2.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/css/terms.css" media="screen" rel="stylesheet" type="text/css">
 
 <link rel="icon" type="image/png" href="http://static.haikudeck.com/images/haikudeck-icon.png">
 <link rel="favicon" href="/favicon.ico">
@@ -25,12 +25,24 @@
 <meta name="apple-mobile-web-app-title" content="Haiku Deck">
 <meta name="google-site-verification" content="tkBVF99Ge70RiRMbir6Dc3xvcc4VjXMm9afmg-_08-w"><!-- do not remove -->
 
-<title>Presentation Software That's Simple, Beautiful, and Fun | Haiku Deck</title>
+<title>Presentation Software that Inspires | Haiku Deck</title>
 
-<script type="text/javascript" src="http://static.haikudeck.com/js/haikudeck.vendor.0.0.7.js"></script>
-<script type="text/javascript" src="http://static.haikudeck.com/js/global.js"></script>
-<script type="text/javascript" src="http://static.haikudeck.com/js/haikudeck.core.0.0.7.js"></script>
-<script type="text/javascript" src="http://static.haikudeck.com/js/haikudeck.player.1.4.2.js"></script>
+<script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script type="text/javascript" src="https://www.haikudeck.com/build/haikudeck.vendor.0.3.4.js"></script>
+<script type="text/javascript" src="https://www.haikudeck.com/build/haikudeck.analytics.0.0.5.js"></script>
+<script type="text/javascript" src="/js/global.js"></script>
+<script type="text/javascript" src="/build/haikudeck.webapp.0.3.4.js"></script>
+<script type="text/javascript" src="/build/haikudeck.player.1.7.2.js"></script>
+<script>
+var _prum = [['id', '5267a8e7abe53dda3e000000'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+    var s = document.getElementsByTagName('script')[0]
+      , p = document.createElement('script');
+    p.async = 'async';
+    p.src = '//rum-static.pingdom.net/prum.min.js';
+    s.parentNode.insertBefore(p, s);
+})();
+</script>
 
 </head>
 <body>
@@ -47,57 +59,54 @@
 	HD.app = new HD.App({
 		PARSE_APP_ID: 'Bkamxah7hQxp1qZvX3HddH99t6iZ14fx4eQ1ijRl',
 		PARSE_JS_KEY: '6PDBhc65gAfzvoHKeAWm5ylhvMIaPucVCn6O54kI',
-		REST_API_ROOT: 'http://api.haikudeck.com/1/'
-	});
+		REST_API_ROOT: 'http://api.haikudeck.com/1/',
+		REALTIME_RASTERIZE: 1	});
 
-  
+  HD.User.logOut(); // end client side Parse session (if any)
+
 </script>
 
 <div class="header">
 	<div class="container">
-
 		<div class="row-fluid">
 				
-				<a href="/"><img src="http://static.haikudeck.com/images/haiku-deck-header-logo-sm.png" alt="presentation software by Haiku Deck" vspace="15" border="0"></a>
+				<a id="hd-logo" class="pull-left" href="/"><img src="http://static.haikudeck.com/images/haiku-deck-header-logo-sm.png" alt="presentation software by Haiku Deck"></a>
 
 
-				<ul class="nav nav-pills headlinks pull-right">
+				<ul class="nav nav-pills pull-right">
 
-					
-						<li>
+						                    <li class="device-banner">
+	                    	<!-- The text of this button is set dynamically at runtime based on browser -->
+							<a class="torchic" data-location="home page top">NEW DECK</a>
+	                    </li>
+	                
+											<li>
 							<a href="/gallery">GALLERY</a>
 						</li>
-						<li class="divider">//</li>
-
 						<li>
 							<a href="//blog.haikudeck.com/">BLOG</a>
 						</li>
-						<li class="divider">//</li>
-
 						<li>
-							<a href="/press">PRESS</a>
+							<a href="/press">REVIEWS</a>
 						</li>
-						<li class="divider">//</li>
-
 						<li>
-							<a href="/about">ABOUT US</a>
+							<a href="/about">OUR STORY</a>
 						</li>
-						<li class="divider">//</li>
-
+						<li>
+							<a href="https://haikudeck.zendesk.com/home">HELP</a>
+						</li>
+                        
 					
-					
-													<li>
-								<a href="/account/signin">SIGN IN</a>
-							</li>
 											
+						
 						<li>
-  <a class="highlight" onclick="window.downloadController.start('Header')">TRY HAIKU DECK</a>
-</li>
+							<a href="/account/signin">SIGN IN</a>
+						</li>
 
+											
+						                        
 											
 				</ul>
-
-
 		</div>
 	</div>
 </div>
@@ -178,7 +187,7 @@
 		<div class="row">
   <div class="span12">
     <div class="greybar get-haiku-deck">
-      <a class="highlight" onclick="window.downloadController.start('Privacy')"><span>TRY HAIKU DECK</span></a>
+      <a class="highlight torchic" onclick="window.downloadController.start('Privacy')"><span>NEW DECK</span></a>
       <h2>WANT TO MAKE YOUR OWN HAIKU DECK?</h2>
     </div>
   </div>
@@ -202,45 +211,26 @@
 
 
 
-
 <div class="footer">
-
-	<div class="footercontrols">
-		© 2013 Haiku Deck by Giant Thinkwell, Inc.  All rights reserved.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-		<a href="//www.facebook.com/HaikuDeck" target="_blank" class="footerlink"><img src="http://static.haikudeck.com/images/facebook_16.png" border="0" align="middle" hspace="2"></a>
-
-		<a href="//twitter.com/#!/HaikuDeck" target="_blank" class="footerlink"><img src="http://static.haikudeck.com/images/twitter_16.png" align="middle" border="0" hspace="2"></a>
-
-		<a href="http://pinterest.com/haikudeck/" target="_blank" class="footerlink"><img src="http://static.haikudeck.com/images/pinterest_16.png" align="middle" border="0" hspace="2"></a>
-
-		<a href="http://www.linkedin.com/company/2974495?trk=tyah" target="_blank" class="footerlink"><img src="http://static.haikudeck.com/images/linkedin_16.png" align="middle" border="0" hspace="2"></a>
-
-		<a href="https://plus.google.com/113772520125166602217" target="_blank" class="footerlink"><img src="http://static.haikudeck.com/images/googleplus_16.png" align="middle" border="0" hspace="2"></a>
-
-		&nbsp;&nbsp;
-
-		<a class="footerlink" href="https://haikudeck.zendesk.com/home" target="_blank" title="Open feedback &amp; support dialog">Support</a>
-
-		&nbsp;&nbsp;|&nbsp;&nbsp;
-
-		<a href="/faq" class="footerlink">FAQ</a>
-
-		&nbsp;&nbsp;|&nbsp;&nbsp;
-
-		<a href="/terms" class="footerlink">Terms of Service</a>
-
-		&nbsp;&nbsp;|&nbsp;&nbsp;
-
-		<a href="/privacy" class="footerlink">Privacy</a>
-
-		&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/jobs" class="footerlink">Jobs</a>
-
-
+	<div class="set-width">
+		<ul class="social_links">
+			<li><a href="//www.facebook.com/HaikuDeck"><img src="/images/social_facebook.png" width="22" height="22" alt="" title=""></a></li>
+			<li><a href="//twitter.com/#!/HaikuDeck"><img src="/images/social_twitter.png" width="22" height="22" alt="" title=""></a></li>
+			<li><a href="//pinterest.com/haikudeck"><img src="/images/social_pinterest.png" width="22" height="22" alt="" title=""></a></li>
+			<li><a href="//www.linkedin.com/company/2974495?trk=tyah"><img src="/images/social_linkedin.png" width="22" height="22" alt="" title=""></a></li>
+			<li><a href="//plus.google.com/113772520125166602217"><img src="/images/social_google-plus.png" width="22" height="22" alt="" title=""></a></li>
+		</ul>
+		<ul class="footer_links">
+			<li class="copyright">© 2014 Haiku Deck by Giant Thinkwell, Inc. All rights reserved.</li>
+			<li><a href="https://haikudeck.zendesk.com/home">Support</a></li>
+			<li><a href="/faq">FAQ</a></li>
+			<li><a href="/terms">Terms of Service</a></li>
+			<li><a href="/privacy">Privacy</a></li>
+			<li><a href="/jobs">Jobs</a></li>
+			<li class="last-item"><a href="/presentation-topics" title="Presentation Topics">Presentations</a></li>
+		</ul>
+		<a href="//www.rackspace.com" class="rackspace_hosting"><img src="/images/footer_rackspace_logo.png" width="124" height="36" alt="Powered by Rackspace Hosting" title="Powered by Rackspace Hosting"></a>
 	</div>
-
-	<div class="rslogo"></div>
-
 </div>
 
 
@@ -251,5 +241,4 @@
 
 
 
-
-<!-- 0.023524045944214 --></body></html>
+<!-- 0.021862030029297  server: production  host: production --></body></html>
