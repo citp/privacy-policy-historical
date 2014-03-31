@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the riseup.net privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425082717id_/https%3A//help.riseup.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riseup.net privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331235926id_/https%3A//help.riseup.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - help.riseup.net
 
-Your privacy is our primary concern. Our goal is to retain as little information on you as possible while still retaining the ability to provide reliable service and prevent abuse of server resources.
+Our goal is to retain as little information on you as possible while still retaining the ability to provide reliable service and prevent abuse of server resources.
 
-### Please delete your user data¶
+### Please delete your user data
 
 We collect user information from you when you make a request for service. Once your request is approved, you have two options:
 
@@ -17,22 +17,22 @@ Riseup.net does not want to keep your user information. If we don’t have your 
 
 For mail accounts, user information can be deleted by visiting [mail.riseup.net](http://mail.riseup.net/) and clicking “change my settings.” For lists, you can edit the list description and owners (and other information) from the list admin interface once you are logged into [lists.riseup.net](http://lists.riseup.net/).
 
-### We keep minimal logs¶
+### We keep minimal logs
 
 Most Online Service Providers keep detailed records of all connections. In general, we do not keep information which uniquely identifies you or could be used to build a profile of your usage and associations. We do not log IP addresses. For troubleshooting, we may enable increased logging for brief periods of time. These extra logs are deleted immediately after they are used.
 
-### We do not share data with anyone¶
+### We do not share data with anyone
 
 We do not share any user information with any other groups or individuals. Within the Riseup Collective, members of the collective have access only to information which they need in order to perform their work.
 
-### We will defend your data¶
+### We will defend your data
 
 We will actively fight any attempt to force Riseup Networks to disclose user information or logs.
 
-### We will not monitor your communications¶
+### We will not monitor your communications
 
 We will not read, search, or process any of your incoming or outgoing mail other than to protect you from viruses and spam or when directed to do so by you when troubleshooting.
 
-### Your data is encrypted¶
+### Your data is encrypted
 
 The content of your communications, the calendar date of your last login, your addressbook, and all backups are stored in encrypted format.
