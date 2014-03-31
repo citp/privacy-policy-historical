@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adoreme.com privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922080737id_/http%3A//www.adoreme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adoreme.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331145203id_/http%3A//www.adoreme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -80,6 +80,6 @@ If we change or update this Privacy Policy, we will post changes and updates on 
 **Mailing Address**
 
 AdoreMe  
-485 7th Ave. Suite 505  
-New York, New York 10018  
-United States
+499 7th Avenue (Fashion Tower),  
+19th Floor, South,   
+10018, New York, NY
