@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the l4dmaps.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822201502id_/http%3A//www.l4dmaps.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the l4dmaps.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331032213id_/http%3A//www.l4dmaps.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - L4Dmaps.com
 
