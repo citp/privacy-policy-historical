@@ -1,183 +1,213 @@
-<!--The following is the downloaded HTML source of the coupaw.com privacy policy that was archived on 2013-09-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130916221947id_/https%3A//www.coupaw.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coupaw.com privacy policy that was archived on 2014-03-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331102720id_/https%3A//www.coupaw.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="UTF-8">	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Privacy | Coupaw</title>
-	<link href="/favicon.ico" title="Icon" type="image/x-icon" rel="icon">
-	<link href="/favicon.ico" title="Icon" type="image/x-icon" rel="shortcut icon">
-	<!-- STYLES -->
-	<link rel="stylesheet" type="text/css" href="/css/bootstrap-modal.css?v=26">
 	
-	<link rel="stylesheet" type="text/css" href="/css/home.css?v=26">
-	<link rel="stylesheet" type="text/css" href="/css/terms.css?v=26">
+	
 
-	<!--[if IE]>
-		<link href="/css/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
-	<![endif]-->
+	
+	<link href="/favicon.ico" title="Icon" type="image/x-icon" rel="icon">
+	<link href="/favicon.ico" title="Icon" type="image/x-icon" rel="shortcut icon">	
+	<!-- STYLES -->
+	<link rel="stylesheet" href="/css/coupaw_styles.css" title="Coupaw Styles" type="text/css" media="screen" charset="utf-8">
 
 	<!-- SCRIPTS -->
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-	<!--[if IE]>
-		<script src='//html5shiv.googlecode.com/svn/trunk/html5.js'></script>
+	<script type="text/javascript" src="https://dtgdymf1f1fqo.cloudfront.net/js/v99/modernizr.js"></script>	<!--[if lt IE 9]>
+	  <script type="text/javascript" src='/js/html5shiv.js'></script>
+	  <script type="text/javascript" src="/js/nwmatcher-1.2.5.js"></script>
+      <script type="text/javascript" src="/js/selectivizr-min.js"></script>
+      <link type="text/css" href="/css/ie.css" media="screen, projection" rel="stylesheet"/>
 	<![endif]-->
-	
-	
-
-	<!-- Bootstrap Scripts -->
-	<script type="text/javascript" src="/js/bootstrap-collapse.js?v=26"></script>
-	<script type="text/javascript" src="/js/bootstrap-dropdown.js?v=26"></script>
-	<script type="text/javascript" src="/js/bootstrap-modalmanager.js?v=26"></script>
-	<script type="text/javascript" src="/js/bootstrap-modal.js?v=26"></script>
-	<script type="text/javascript" src="/js/bootstrap-alert.js?v=26"></script>
-	<script type="text/javascript" src="/js/jstorage.min.js?v=26"></script>
-	<script type="text/javascript" src="/js/main.js?v=26"></script>
-	<script type="text/javascript" src="/js/jquery.cookie.js?v=26"></script>
 
 	<script type="text/javascript">
 		var user = {
 			logged_in : false,
 			user_level: ''
 		};
+		var locale = 'en';
+	    
+	    $(document).ready(function(){
+	        $('[data-toggle="tooltip"]').tooltip();
+	        
+	        //fixed header
+            var myHeader = $('#header');
+            myHeader.data( 'position', myHeader.position() );
+            $(window).scroll(function(){
+                var hPos = myHeader.data('position'), scroll = getScroll();
+                if ( hPos.top < scroll.top ){
+                    myHeader.addClass('nav-fixed');
+                }
+                else {
+                    myHeader.removeClass('nav-fixed');
+                }
+            });
+            
+            function getScroll () {
+                var b = document.body;
+                var e = document.documentElement;
+                return {
+                    left: parseFloat( window.pageXOffset || b.scrollLeft || e.scrollLeft ),
+                    top: parseFloat( window.pageYOffset || b.scrollTop || e.scrollTop )
+                };
+            }
+        });
 	</script>
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+	
+			<script type="text/javascript">
+					
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-26800482-1']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body>
 	<div class="page-container">
-		<nav class="navbar navbar-fixed-top navbar-inverse">
-	<div class="navbar-inner">
-		<div class="container-fluid">
-			<a class="brand" href="/">
-				<img src="/img/coupaw_nav_logo.png" alt="Coupaw - Daily Pet Deals">			</a>
-						<ul class="nav pull-right">
-				<li><a href="/cart/view"><i class="icon-shopping-cart icon-white"></i> CART
-						<span class="cartCounter">
-						0
-						<b class="notch"></b></span></a>				</li>
-				<li><a href="#subscribeModal" id="subscribeLink" data-toggle="modal" role="button">SUBSCRIBE</a></li>
-				<li class="divider-vertical"></li>
-				<li><a href="/users/login">Login</a></li>
-			</ul>
-						<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</a>
-
-			<div class="nav-collapse collapse">
-				<ul class="nav">
-					<li><a href="/category/All-Dog">All Dog</a></li><li><a href="/category/All-Cat">All Cat</a></li><li><a href="/category/Chews-Treats">Chews/Treats</a></li><li><a href="/category/Toys">Toys</a></li><li><a href="/category/Home-Goods">Home Goods</a></li><li><a href="/category/Accessories">Accessories</a></li><li><a href="/category/Health">Health</a></li><li><a href="/category/Clearance">Clearance</a></li>				</ul>
+		<div id="inner-wrap" class="closed">
+			<header id="header">
+    <div class="page">
+        <div class="logo inline">
+            <a class="logo" href="/"><img src="/img/coupaw_logo.png" alt="Coupaw - Daily Pet Deals"></a>
+            <img src="/img/tagline_blue3.png" width="200" alt="Because you are obsessed with your pet" class="tagline">        </div>
+        <ul class="inline sub-account">
+            			<li class="cart"><a href="/cart/view"><i class="icon-shopping-cart icon-white"></i> <span>CART</span>
+					<span class="cartCounter">
+					0
+					<b class="notch"></b></span></a>			</li>
+			<li><a href="#subscribeModal" id="subscribeLink" data-toggle="modal" role="button"><i class="icon-edit"></i> <span>Subscribe</span></a>			</li>
+            <li><a href="/users/login"><i class="icon-signin"></i> <span>Login</span></a></li>
+                        <li class="show-mobile"><i class="icon-reorder" onclick="$('#primary-nav').slideToggle('slow');"></i></li>
+        </ul>
+    	<div class="pull-right locale">
+    		
+<a name="change-locale"></a>
+<div class="locale-navigation">
+	<small>
+		<p class="locale-navigation-status">
+			You're in <img src="/img/flags/usa-32.png" width="30" alt="usa" title="usa">. 
+																			<a href="/pages/privacy?locale=en_CA" style="margin-left:12px;"><small>[change to <img src="/img/flags/canada-32.png" width="22" alt="canada" title="canada">]</small></a> 
+									</p>
+	</small>
 			</div>
-		</div>
-	</div>
-</nav>
-<nav class="container-fluid secondaryNav">
-		<div class="row-fluid">
-		<div class="span3">
-			<a href="/"><img src="/img/coupaw_logo.png" alt="Coupaw - Daily Pet Deals"></a>
-		</div>
-		<div class="span9">
-			<ul class="nav nav-pills pull-right">
-				<li>
-					<a href="/">Today's Deals</a>				</li>
-				<li>
-					<a href="/deals/recent">Expired Deals</a>				</li>
-				<li>
-					<a href="/pages/how_it_works">How it Works</a>				</li>
-				<li>
-					<a href="/pages/referrals">Refer a Friend</a>				</li>
-			</ul>
-		</div>
-		<!-- END span9 -->
-	</div>
-	<!-- END row-fluid -->
-	<br class="clearfix">
-</nav>				
+    	</div>
+    	<form action="/search" method="POST" class="search-form">
+    	    <div class="input-prepend">
+                <span class="add-on"><i class="icon-search"></i></span>
+                <input type="search" name="query" placeholder="Search our Deals!">     
+    	    </div>
+    	</form>
+    	<!-- credits earned -->
+    	    </div><!-- end page-->
+    <nav id="primary-nav">
+        <div class="page clearfix">
+            <a href="/"><img src="/img/coupaw_nav_logo.png" alt="Coupaw - Daily Pet Deals" class="nav-logo"></a>
+            <ul class="pull-right hidden-fixed-nav">
+                    			<li class="cart"><a href="/cart/view"><i class="icon-shopping-cart icon-white"></i> <span>CART</span>
+    					<span class="cartCounter">
+    					0
+    					<b class="notch"></b></span></a>    			</li>
+    			<li><a href="#subscribeModal" id="subscribeLink" data-toggle="modal" role="button"><i class="icon-edit"></i> <span>Subscribe</span></a>    			</li>
+                <li><a href="/users/login"><i class="icon-signin"></i> <span>Login</span></a></li>
+                                <li class="show-mobile"><i class="icon-reorder" onclick="$('.primary').slideToggle('slow'); $('.dropdown-nav').slideToggle('slow');"></i></li>
+            </ul>
+            <ul class="primary">
+                <li class=""><a href="/">Deals</a></li><!--
+                --><li class=""><a href="/category/Everyday-Values">Everyday Values</a></li><!--
+  
+								--><li class=""><a href="/pages/how_it_works">How it Works</a></li><!--
+				--><li class=""><a href="/pages/referrals">Refer a Friend</a></li><!--
+				--><li class="hidden-fixed-nav hidden-mobile"><i class="icon-reorder" onclick="$('.dropdown-nav').slideToggle('slow');"></i></li>
+            </ul>
+        </div>
+        <nav class="dropdown-nav">
+            <div class="page">
+				            </div>
+        </nav>
+    </nav>
+</header>
+
+						
 <section class="privacy">
-	<div class="container-fluid">
-		<div class="row-fluid">
-			<div class="span12">
-				<h3>Privacy Policy</h3>
-				<p>Dice Solutions LLC dba FamilyPet.com privacy policy is created to inform you of our policies and practices surrounding the collection and use of any information you provide to us. This privacy statement covers the Web site <a href="/">www.Coupaw.com</a>. If you have questions or concerns regarding this statement, you should first email <a href="mailto:Privacy@coupaw.com">Privacy@coupaw.com</a>.</p>
-				<p>Please read the following to learn more about our privacy policy (“Privacy Policy”). This Privacy Policy applies to the use of the Sites (as defined below), including by both consumers and pet care professionals (pet care professionals including, without limitation, dog walkers , pet sitters, groomers, pet movers, pet insurance companies, boarding companies, pet medication companies, pet online companies, pet retail companies and other non-consumer service professionals, are referred to as “Professionals”). Professionals, consumers and other persons using the Sites are individually and collectively referred to as “you”, and DICE SOLUTIONS LLC and its subsidiaries and affiliates are referred to as, "DICE", "we", "us" and "our". We use the Sites to provide you with information, resources, tools, products and services specific to the pet care industry and related markets, and to provide you with information about us and our advertisers, and our respective products and services.</p>
+	<div class="page">
+		<h3 class="page-header">Privacy Policy</h3>
+		<p>Dice Solutions LLC dba FamilyPet.com privacy policy is created to inform you of our policies and practices surrounding the collection and use of any information you provide to us. This privacy statement covers the Web site <a href="/">www.Coupaw.com</a>. If you have questions or concerns regarding this statement, you should first email <a href="mailto:Privacy@coupaw.com">Privacy@coupaw.com</a>.</p>
+		<p>Please read the following to learn more about our privacy policy (“Privacy Policy”). This Privacy Policy applies to the use of the Sites (as defined below), including by both consumers and pet care professionals (pet care professionals including, without limitation, dog walkers , pet sitters, groomers, pet movers, pet insurance companies, boarding companies, pet medication companies, pet online companies, pet retail companies and other non-consumer service professionals, are referred to as “Professionals”). Professionals, consumers and other persons using the Sites are individually and collectively referred to as “you”, and DICE SOLUTIONS LLC and its subsidiaries and affiliates are referred to as, "DICE", "we", "us" and "our". We use the Sites to provide you with information, resources, tools, products and services specific to the pet care industry and related markets, and to provide you with information about us and our advertisers, and our respective products and services.</p>
 
-				<h5>What information is collected from me?</h5>
-				<p>Information You Give Us: Information collected from you will vary, depending on how you use the Site and what information you may choose to provide to us (whether through email or otherwise). It's possible to browse most sections of the Site without submitting any personally identifiable information. Personally identifiable information (“Personal information”) means individually identifiable information about you that we collect online, including but not limited to, your full name, email address, phone number, physical address. Whenever we ask for personal information, we strive to provide a link to this Privacy Policy to help you understand how your personal information will be used before you decide whether to disclose it. You can choose not to provide us with personal information, but then you may not be able to fully take advantage of certain features of our site and we may not be able to provide you with certain requested information, products and/or services.</p>
+		<h5>What information is collected from me?</h5>
+		<p>Information You Give Us: Information collected from you will vary, depending on how you use the Site and what information you may choose to provide to us (whether through email or otherwise). It's possible to browse most sections of the Site without submitting any personally identifiable information. Personally identifiable information (“Personal information”) means individually identifiable information about you that we collect online, including but not limited to, your full name, email address, phone number, physical address. Whenever we ask for personal information, we strive to provide a link to this Privacy Policy to help you understand how your personal information will be used before you decide whether to disclose it. You can choose not to provide us with personal information, but then you may not be able to fully take advantage of certain features of our site and we may not be able to provide you with certain requested information, products and/or services.</p>
 
-				<h5>Information Sharing Disclosure - How is my information used and shared?</h5>
-				<p>The use of your information depends on the context in which it is collected. Therefore, pay special attention to the categories below that relate to the features of the Sites that you wish to utilize.</p>
+		<h5>Information Sharing Disclosure - How is my information used and shared?</h5>
+		<p>The use of your information depends on the context in which it is collected. Therefore, pay special attention to the categories below that relate to the features of the Sites that you wish to utilize.</p>
 
-				<h5>Personal Information</h5>
-				<p>We may share the Personal information we collect from you only with your consent or under the following circumstances: User-Requested Services and Information: Certain products or services on our Sites may seek Personal information from you, which may be used in the following ways:</p>
-				<ul>
-					<li>For products and services provided by the Sites, the information you submit is used by us to provide the information, product or service you've requested. We may also share this information with others, but only to the extent necessary to fulfill your request or to facilitate your use of their services.</li>
-					<li>We may use other companies and individuals to perform supporting functions for the various tools, functionality and services offered through our site on our behalf. These service providers will not be permitted to use the information collected from you for any other purpose other than performing the support functions for DICE. </li>
-					<li>For products and services offered to you jointly by us and a third party, your personal information may be shared with or independently gathered by the third party. In these situations, DICE will only use your personal information as outlined in this Privacy Policy, but the third party may use the information in different ways. Be aware that each company we do business with has its own policies regarding the use and protection of your information that may differ from those outlined in this Privacy Policy.</li>
-				</ul><strong>Referrals</strong>: If you participate in any referral service we may offer:<p></p>
-				<ul>
-					<li><strong>Consumers</strong>: We use the information you submit to determine which of our participating professional(s) may be able to serve your needs. We may then forward your information, which may include Personal information, contained on our sign-up form to certain professional(s), who may then contact you</li>
-					<li><strong>Professionals</strong>: You may receive information from consumers seeking your products or services, including, without limitation, their Personal information. You may only use the information sent to you via our Sites for the purposes of providing products and/or services to the consumer. We require that you otherwise not share, use or transmit this information to or with any third party without the consumer's consent. </li>
-				</ul>
-				<p><strong>Protection of rights</strong>: We will release Personal information if we believe that such action is appropriate to:</p>
-				<p>&nbsp;&nbsp;&nbsp;&nbsp;(1) comply with a legal process, warrant, subpoena or court order</p>
-				<p>&nbsp;&nbsp;&nbsp;&nbsp;(2) enforce the Terms of Use Agreement for the applicable Site, or</p>
-				<p>&nbsp;&nbsp;&nbsp;&nbsp;(3) identify, contact or bring legal action against persons or entities who are or we believe will cause injury to us or a third party, or</p>
-				<p>&nbsp;&nbsp;&nbsp;&nbsp;(4) otherwise protect the rights, property or personal safety of DICE, its employees, Site users or others.</p>
-				<strong>Customer Information</strong>: The Personal information you provide when you become a customer of the site is used primarily to help us customize your online experience, increase the convenience of accessing new tools, products and services, and, if applicable, provide the products and/or services you purchase or request. The data you give us about your personal preferences and demographics (e.g., Address, ZIP code or the like) may be used to help us offer content, advertisements, products, and services that we believe will be of interest to you. In addition, we may share this information, in aggregate form, with our current and potential advertisers so that they can present advertisements more effectively.<p></p>
-				<ul>
-					<li>Unless you specify that you'd prefer not to hear from us, we may use the email address you provide to contact you for promotional or other purposes. You may have these communications terminated at any time by opting out by clicking on any "unsubscribe" link contained in a promotional email. If you would like to request to opt out with respect to all of the Sites please email <a href="mailto:Privacy@coupaw.com">Privacy@coupaw.com</a> with your requests.</li>
-					<li>Professionals. Personal information provided to us from your trade association is not shared with third parties, unless you authorize it directly. Additionally, information provided by you for the purposes of offering your products and services to others via one or more of the Sites will be shared with others, including consumers accessing one or more of the Sites. To the extent such information is necessary to offer such products and services it will be posted on the applicable Site(s). This may include, without limitation, your full name, email address, address, phone number, graphic images and any other data intended to help consumers identify or contact you and for your products and services.</li>
-				</ul>
+		<h5>Personal Information</h5>
+		<p>We may share the Personal information we collect from you only with your consent or under the following circumstances: User-Requested Services and Information: Certain products or services on our Sites may seek Personal information from you, which may be used in the following ways:</p>
+		<ul>
+			<li>For products and services provided by the Sites, the information you submit is used by us to provide the information, product or service you've requested. We may also share this information with others, but only to the extent necessary to fulfill your request or to facilitate your use of their services.</li>
+			<li>We may use other companies and individuals to perform supporting functions for the various tools, functionality and services offered through our site on our behalf. These service providers will not be permitted to use the information collected from you for any other purpose other than performing the support functions for DICE. </li>
+			<li>For products and services offered to you jointly by us and a third party, your personal information may be shared with or independently gathered by the third party. In these situations, DICE will only use your personal information as outlined in this Privacy Policy, but the third party may use the information in different ways. Be aware that each company we do business with has its own policies regarding the use and protection of your information that may differ from those outlined in this Privacy Policy.</li>
+		</ul><strong>Referrals</strong>: If you participate in any referral service we may offer:<p></p>
+		<ul>
+			<li><strong>Consumers</strong>: We use the information you submit to determine which of our participating professional(s) may be able to serve your needs. We may then forward your information, which may include Personal information, contained on our sign-up form to certain professional(s), who may then contact you</li>
+			<li><strong>Professionals</strong>: You may receive information from consumers seeking your products or services, including, without limitation, their Personal information. You may only use the information sent to you via our Sites for the purposes of providing products and/or services to the consumer. We require that you otherwise not share, use or transmit this information to or with any third party without the consumer's consent. </li>
+		</ul>
+		<p><strong>Protection of rights</strong>: We will release Personal information if we believe that such action is appropriate to:</p>
+		<p>&nbsp;&nbsp;&nbsp;&nbsp;(1) comply with a legal process, warrant, subpoena or court order</p>
+		<p>&nbsp;&nbsp;&nbsp;&nbsp;(2) enforce the Terms of Use Agreement for the applicable Site, or</p>
+		<p>&nbsp;&nbsp;&nbsp;&nbsp;(3) identify, contact or bring legal action against persons or entities who are or we believe will cause injury to us or a third party, or</p>
+		<p>&nbsp;&nbsp;&nbsp;&nbsp;(4) otherwise protect the rights, property or personal safety of DICE, its employees, Site users or others.</p>
+		<strong>Customer Information</strong>: The Personal information you provide when you become a customer of the site is used primarily to help us customize your online experience, increase the convenience of accessing new tools, products and services, and, if applicable, provide the products and/or services you purchase or request. The data you give us about your personal preferences and demographics (e.g., Address, ZIP code or the like) may be used to help us offer content, advertisements, products, and services that we believe will be of interest to you. In addition, we may share this information, in aggregate form, with our current and potential advertisers so that they can present advertisements more effectively.<p></p>
+		<ul>
+			<li>Unless you specify that you'd prefer not to hear from us, we may use the email address you provide to contact you for promotional or other purposes. You may have these communications terminated at any time by opting out by clicking on any "unsubscribe" link contained in a promotional email. If you would like to request to opt out with respect to all of the Sites please email <a href="mailto:Privacy@coupaw.com">Privacy@coupaw.com</a> with your requests.</li>
+			<li>Professionals. Personal information provided to us from your trade association is not shared with third parties, unless you authorize it directly. Additionally, information provided by you for the purposes of offering your products and services to others via one or more of the Sites will be shared with others, including consumers accessing one or more of the Sites. To the extent such information is necessary to offer such products and services it will be posted on the applicable Site(s). This may include, without limitation, your full name, email address, address, phone number, graphic images and any other data intended to help consumers identify or contact you and for your products and services.</li>
+		</ul>
 
-				<h5>Non-personal Information</h5>
-				<p>Children's Privacy: Our Site is a general audience Web site. If you are under the age of 13 you should not provide information on our Site. We do not collect Personal information from any person we actually know is a child under the age of 13. If you have knowledge that a child under the age of 13 has submitted Personal information to us, please email <a href="mailto:Privacy@coupaw.com">Privacy@coupaw.com</a>.</p>
+		<h5>Non-personal Information</h5>
+		<p>Children's Privacy: Our Site is a general audience Web site. If you are under the age of 13 you should not provide information on our Site. We do not collect Personal information from any person we actually know is a child under the age of 13. If you have knowledge that a child under the age of 13 has submitted Personal information to us, please email <a href="mailto:Privacy@coupaw.com">Privacy@coupaw.com</a>.</p>
 
-				<h5>Accessing your personal information</h5>
-				<p>If your personally identifiable information changes, or if you no longer desire our service, you may request the change by emailing our Customer Support at <a href="mailto:Privacy@coupaw.com">Privacy@coupaw.com</a> or by contacting us by telephone or postal mail at the contact information listed below.</p>
+		<h5>Accessing your personal information</h5>
+		<p>If your personally identifiable information changes, or if you no longer desire our service, you may request the change by emailing our Customer Support at <a href="mailto:Privacy@coupaw.com">Privacy@coupaw.com</a> or by contacting us by telephone or postal mail at the contact information listed below.</p>
 
-				<h5>Scope of This Privacy Policy: Outside Links:</h5>
-				<p>Be aware that our Site may link to other Web sites that may collect personally identifiable information about you. This Privacy Policy only applies to the Site, and we are not responsible for the privacy practices or the content for any linked Web sites. You should refer to the privacy policies and statements of other Web sites or contact the respective Webmasters of those Web sites to obtain information regarding their information collection, use and disclosure policies.</p>
+		<h5>Scope of This Privacy Policy: Outside Links:</h5>
+		<p>Be aware that our Site may link to other Web sites that may collect personally identifiable information about you. This Privacy Policy only applies to the Site, and we are not responsible for the privacy practices or the content for any linked Web sites. You should refer to the privacy policies and statements of other Web sites or contact the respective Webmasters of those Web sites to obtain information regarding their information collection, use and disclosure policies.</p>
 
-				<h5>Cookies</h5>
-				<p>A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.</p>
+		<h5>Cookies</h5>
+		<p>A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.</p>
 
-				<h5>Security:</h5>
-				<p>We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.</p>
+		<h5>Security:</h5>
+		<p>We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.</p>
 
-				<h5>Effective Date and Modifications:</h5>
-				<p>This Privacy Policy is effective as of the date first written above and may be updated and modified from time to time by us in our sole discretion. If we choose to update or modify this Privacy Policy, such updated or modified policy shall become effective five (5) business days after its posting on the applicable Site(s). Accordingly, we encourage you to periodically review this Privacy Policy and the Sites in order to keep apprised of our current privacy practices. If you do not agree to any provision of this Privacy Policy, or any update or modification thereto, please do not use the Sites.</p>
+		<h5>Effective Date and Modifications:</h5>
+		<p>This Privacy Policy is effective as of the date first written above and may be updated and modified from time to time by us in our sole discretion. If we choose to update or modify this Privacy Policy, such updated or modified policy shall become effective five (5) business days after its posting on the applicable Site(s). Accordingly, we encourage you to periodically review this Privacy Policy and the Sites in order to keep apprised of our current privacy practices. If you do not agree to any provision of this Privacy Policy, or any update or modification thereto, please do not use the Sites.</p>
 
-				<h5>Changes in this Privacy Statement</h5>
-				<p>If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it</p>
-				<p>We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.</p>
+		<h5>Changes in this Privacy Statement</h5>
+		<p>If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it</p>
+		<p>We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.</p>
 
-				<h5>Contacting Us</h5>
-				<p>If you have concerns about this Privacy Policy or our privacy practices in general, contact us at:</p>
-				<p>Privacy Administrator Legal Department DICE SOLUTIONS LLC 17 Barstow Road, Suite 305, Great Neck, NY 11021 Email: <a href="mailto:Privacy@coupaw.com">Privacy@coupaw.com</a> Phone Number: 1-800-398-6081</p>
-			</div>
-		</div>
+		<h5>Contacting Us</h5>
+		<p>If you have concerns about this Privacy Policy or our privacy practices in general, contact us at:</p>
+		<p>Privacy Administrator Legal Department DICE SOLUTIONS LLC 17 Barstow Road, Suite 305, Great Neck, NY 11021 Email: <a href="mailto:Privacy@coupaw.com">Privacy@coupaw.com</a> Phone Number: 1-800-398-6081</p>
 	</div>
-</section>		<footer>
-	<div class="container-fluid">
-		<div class="socialNetworks pull-right">
-			<ul>
-				<li>
-					<i class="icon-envelope-alt"></i>
-					<a href="#subscribeModal" class="" data-toggle="modal" role="button"> subscribe</a>				</li>
-				<li class="facebook"><i class="icon-facebook-sign"></i><a href="http://facebook.com/coupaw" target="_blank"> like us</a></li>
-				<li class="twitter"><i class="icon-twitter"></i> <a href="http://twitter.com/coupaw" target="_blank">follow us</a></li>
-				<li class="pinterest"><i class="icon-pinterest"></i><a href="http://pinterest.com/coupaw" target="_blank"> pin it</a></li>
-				<li><i class="icon-group"></i><a href="/pages/referrals">refer a friend</a></li>
-			</ul>
-		</div>
+</section>			<footer>
+	<div class="page">
+    	
 		<ul>
 			<li>COMPANY INFO</li>
 			<li><a href="/pages/about">about us</a></li>
 			<li><a href="/pages/contact">contact us</a></li>
 			<li><a href="/pages/privacy">privacy policy</a></li>
 			<li><a href="/pages/terms">terms of use</a></li>
+			<li><a href="/s/product-info">product info</a></li>
 		</ul>
 		<ul>
 			<li>BUSINESS INFO</li>
+			<li><a href="/deals/recent">expired deals</a></li>
 			<li><a id="businessRequestLink" href="#businessRequestModal" data-toggle="modal">run a deal with us</a></li>
 			<li><a id="affiliateRequestLink" href="#affiliateRequestModal" data-toggle="modal">become an affiliate</a></li>
 			<li><a href="/affiliate">affiliate login</a></li>
@@ -186,42 +216,65 @@
 		<ul>
 			<li>USER INFO</li>
 			<li><a href="/pages/how_it_works">how it works</a></li>
-			<li><a href="/pages/faqs">faq's</a></li>
+			<li><a href="/pages/faqs">faq's usa <img src="/img/flags/usa-24.png" width="20" alt=""></a></li>
+			<li><a href="/pages/faqsCanada">faq's canada <img src="/img/flags/canada-24.png" width="20" alt=""></a></li>
 			<li><a href="/pages/referrals">refer a friend program</a></li>
 			<li><a href="/pages/returns">return policy</a></li>
 							<li><a href="/users/login">user login / signup</a></li>
 					</ul>
-	</div>
-	<div class="row-fluid">
-		<div style="width:130px;margin:16px auto 0 auto;">
-			<a title="Dice Solutions, LLC BBB Business Review" href="http://www.bbb.org/new-york-city/business-reviews/marketing-programs-and-services/dice-solutions-llc-in-great-neck-ny-111934/#bbbonlineclick"><img alt="Dice Solutions, LLC BBB Business Review" style="border: 0;" src="https://seal-newyork.bbb.org/seals/black-seal-120-61-dice-solutions-llc-111934.png"></a>
+		<div class="socialNetworks">
+			<ul>
+				<li>
+					<i class="icon-envelope"></i>
+					<a href="#subscribeModal" id="footerSubscribeLink" class="" data-toggle="modal" role="button"> subscribe</a>				</li>
+				<li class="facebook"><i class="icon-facebook-sign"></i><a href="http://facebook.com/coupaw" target="_blank"> like us</a></li>
+				<li class="twitter"><i class="icon-twitter"></i> <a href="http://twitter.com/coupaw" target="_blank">follow us</a></li>
+				<li class="pinterest"><i class="icon-pinterest"></i><a href="http://pinterest.com/coupaw" target="_blank"> pin it</a></li>
+				<li><i class="icon-group"></i><a href="/pages/referrals">refer a friend</a></li>
+									<li style="margin-left:120px;margin-top:-110px;">
+						<div style="text-align:center;">
+						<!-- Embedded WhosOn: Insert the script below at the point on your page where you want the Click To Chat link to appear -->
+						<script type="text/javascript" src="//hostedusa6.whoson.com/include.js?domain=www.coupaw.com"></script>
+						<script type="text/javascript">
+						if(typeof sWOTrackPage=='function')sWOTrackPage();
+						</script>
+						<!-- End of embedded WhosOn -->
+					</div></li>
+				</ul></div>
+							
 		</div>
-	</div>
-</footer>
+    	<!-- country selection -->
+    	<div class="pull-right span3 country-selector">
+    		
+<a name="change-locale"></a>
+<div class="locale-navigation">
+	<small>
+		<p class="locale-navigation-status">
+			You're in <img src="/img/flags/usa-32.png" width="30" alt="usa" title="usa">. 
+																			<a href="/pages/privacy?locale=en_CA" style="margin-left:12px;"><small>[change to <img src="/img/flags/canada-32.png" width="22" alt="canada" title="canada">]</small></a> 
+									</p>
+	</small>
+			</div>
+    	</div>
+		<div class="bbb_logo">
+			<a title="Dice Solutions, LLC BBB Business Review" href="http://www.bbb.org/new-york-city/business-reviews/marketing-programs-and-services/dice-solutions-llc-in-great-neck-ny-111934/#bbbonlineclick"><img alt="Dice Solutions, LLC BBB Business Review" style="border: 0;" src="//seal-newyork.bbb.org/seals/black-seal-120-61-dice-solutions-llc-111934.png"></a>
+					</div>
+		<br class="clearBoth">
+	</footer></div>
 
-		<!-- LOAD MODALS -->
-		<script type="text/javascript" src="/js/users/create.js?v=26"></script>
-	<script type="text/javascript" src="/js/bootstrap-typeahead.js?v=26"></script>
+	
+			<!-- LOAD MODALS -->
+			<script type="text/javascript" src="https://dtgdymf1f1fqo.cloudfront.net/js/v99/users/create.js"></script>
+	<script type="text/javascript" src="https://dtgdymf1f1fqo.cloudfront.net/js/v99/bootstrap-typeahead.js"></script>
 <div id="subscribeModal" class="modal hide fade" data-tabindex="-1" data-replace="true" data-keyboard="false" data-backdrop="static">
 	<div class="modal-header">
 		<h4>Subscribe</h4>
 	</div>
 	<div class="modal-body">
-		<p><span class="blue">Daily Deals for Dogs &amp; Cats</span> - Save on everything from chews, toys, treats,
+		<p class="text-warning"><span class="blue">Daily Deals for Dogs &amp; Cats</span> - Save on everything from chews, toys, treats,
 			accessories &amp; more at up to 85% off. Subscribe here (it's free!):</p>
-		<img src="/img/dogCat.png" alt="" class="pull-right">		<form action="/users/create" method="post">			<label for="UsersEmail">Email</label><input type="email" name="email" required="1" id="UsersEmail">			<label for="UsersZipCode">US Zipcode or City</label><input type="text" name="profile[zip_code]" required="1" id="UsersZipCode">			<script>
-				var h = '<span style="font-size:68%;float:right;"><a id="canada-link" style="color:#999999;" href="javascript:void(0)">What about Canada?</a></span>';
-				$(document).ready(function(){
-					$("label[for='UsersZipCode']").html(
-						$("label[for='UsersZipCode']").text() + ' ' + h
-					);
-					$("#canada-link").click(function(){
-						alert("We are still growing and will be available in Canada soon!");
-					});
-				});
-			</script>
-
-			<div class="control-row">
+		<img src="/img/dogCat.svg" alt="" class="dogCat">		<form action="/users/create" method="post">			<label for="UsersEmail">Email</label><input type="email" name="email" required="1" id="UsersEmail">			<label for="UsersZipCode">US Zipcode or Canada Postal Code <img src="/img/flags/usa-24.png" width="18" alt=""> <img src="/img/flags/canada-24.png" width="18" alt=""></label>
+			<input type="text" name="profile[zip_code]" required="1" id="UsersZipCode">			<div class="control-row">
 				<label>Do you own a:</label>
 				<label for="pet-dog" class="radio inline">
 					<input type="radio" name="profile[pet]" id="pet-dog" value="dog"> Dog
@@ -234,8 +287,12 @@
 				</label>
 							</div>
 			<br>
+			<div id="discount-alert" class="alert alert-warning">
+				<span><strong>10% off your first order.</strong><br> Enter promo code NEW at checkout.</span>
+			</div>
 			<button type="submit" id="modal-subscribe-btn" class="btn btn-primary">Subscribe</button>
-		</form>	</div>
+		</form>		<br class="clear">
+	</div>
 	<div class="modal-footer">
 		<a href="/pages/privacy" class="pull-left">privacy policy</a>
 		<p>Already a user? &nbsp; &nbsp;</p>
@@ -251,18 +308,18 @@
 			}
 		});
 	});
-</script>		<div id="modal" class="modal hide fade modal-body" data-tabindex="-1" data-replace="true"></div>
-		<div id="affiliateRequestModal" class="modal hide fade" data-tabindex="-1" data-replace="true">
+</script>
+			<div id="affiliateRequestModal" class="modal hide fade" data-tabindex="-1" data-replace="true">
 	<div class="modal-header">
 		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
 		<h4>
 			Want to be a Coupaw Affiliate?
 		</h4>
-		<p>Coupaw offers the best deals on top quality products for dogs &amp; cats. Each day we post new sales on treats, toys, collars, leashes, home décor health products &amp; more!</p>
-		<p>Coupaw’s Affiliate Program will give you access to all of our deals, dedicated tracking links, product images &amp; 24/7 support from a personal account manager. You will be able to create a stream of revenue for yourself by generating new subscribers &amp; purchasers to Coupaw.com.</p>
 	</div>
-	<form action="/affiliate_requests/submitRequest" id="affiliateRequestForm" data-reference="affilrequest" method="post">		<input type="hidden" name="previous_url" value="pages/privacy" id="PreviousUrl">		<input type="hidden" name="security[token]" value="$2a$10$BWO7G7Rtffq2KSnvSnN.luPIxcNzsaW/5fsb.UTdBJtUzGdPd1PdC" disabled="disabled">		<div class="modal-body modal-taller">
-			<p style="font-size:90%;">
+	<form action="/affiliate_requests/submitRequest" id="affiliateRequestForm" data-reference="affilrequest" method="post">		<input type="hidden" name="previous_url" value="pages/privacy" id="PreviousUrl">		<input type="hidden" name="security[token]" value="$2a$10$H/V28o6cydYwzjms2VzY4.0tEP7V1K1LuSotfDcgOX.8GIuooIrU." disabled="disabled">		<div class="modal-body modal-taller">
+			<p>Coupaw offers the best deals on top quality products for dogs &amp; cats. Each day we post new sales on treats, toys, collars, leashes, home décor health products &amp; more!</p>
+			<p>Coupaw’s Affiliate Program will give you access to all of our deals, dedicated tracking links, product images &amp; 24/7 support from a personal account manager. You will be able to create a stream of revenue for yourself by generating new subscribers &amp; purchasers to Coupaw.com.</p>
+			<p class="text-warning" style="font-size:90%;">
 				* Indicates a required field
 			</p>
 			<div class="row-fluid">
@@ -291,7 +348,7 @@
 				<div class="span8">
 					<p class="captcha-message"></p>
 					<label for="Location">* Please enter the code</label>
-					<img src="/recaptcha/generate/affilrequest?306607" class="captcha_image" alt="captcha">
+					<img src="/recaptcha/generate/affilrequest?577274" class="captcha_image" alt="captcha">
 					<input type="text" name="captcha">
 				</div>
 			</div>
@@ -299,14 +356,14 @@
 		<div class="modal-footer">
 			<button class="btn btn-warning submit" id="SubmitRequest">Submit Request</button>		</div>
 	</form></div>
-		<div id="businessRequestModal" class="modal hide fade" data-tabindex="-1" data-replace="true">
+			<div id="businessRequestModal" class="modal hide fade" data-tabindex="-1" data-replace="true">
 	<div class="modal-header">
 		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
 		<h4>
 			Want to Run a Deal With Us?
 		</h4>
 	</div>
-	<form action="/business_requests/submitRequest" id="businessRequestForm" data-reference="bizrequest" method="post">		<input type="hidden" name="previous_url" value="pages/privacy" id="PreviousUrl">		<input type="hidden" name="security[token]" value="$2a$10$h0S/83EVq461uOSnkU/BsOtrKT3wMsBrDpWVs6L9Xce/KsK4PZKTC" disabled="disabled">		<div class="modal-body modal-taller">
+	<form action="/business_requests/submitRequest" id="businessRequestForm" data-reference="bizrequest" method="post">		<input type="hidden" name="previous_url" value="pages/privacy" id="PreviousUrl">		<input type="hidden" name="security[token]" value="$2a$10$CNC645xx1D2kr5NdZH9ZQ./El64Cz.MDhJV.o/GEli3fWmIOgegg6" disabled="disabled">		<div class="modal-body modal-taller">
 			<p style="font-size:90%;">
 				* Indicates a required field
 			</p>
@@ -339,7 +396,7 @@
 				<div class="span8">
 					<p class="captcha-message"></p>
 					<label for="Location">* Please enter the code</label>
-					<img src="/recaptcha/generate/bizrequest?690277" class="captcha_image" alt="captcha">
+					<img src="/recaptcha/generate/bizrequest?86135" class="captcha_image" alt="captcha">
 					<input type="text" name="captcha">
 				</div>
 			</div>
@@ -348,17 +405,20 @@
 		<div class="modal-footer">
 			<button class="btn btn-warning submit" id="SubmitRequest">Submit Request</button>		</div>
 	</form></div>
-			</div><!-- END page container-->
-			<script type="text/javascript">
-			var _gaq = _gaq || [];
-			_gaq.push(['_setAccount', 'UA-26800482-1']);
-			_gaq.push(['_trackPageview']);
-			(function() {
-				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-			})();
-		</script>
+					</div>
+	<!-- END page container-->
+	<!-- SCRIPTS -->
+	
+	
+	<!-- Bootstrap Scripts -->
+			<script type="text/javascript" src="https://dtgdymf1f1fqo.cloudfront.net/js/v99/bootstrap-collapse.js"></script>
+	<script type="text/javascript" src="https://dtgdymf1f1fqo.cloudfront.net/js/v99/bootstrap-dropdown.js"></script>
+	<script type="text/javascript" src="https://dtgdymf1f1fqo.cloudfront.net/js/v99/bootstrap-modal.js"></script>
+	<script type="text/javascript" src="https://dtgdymf1f1fqo.cloudfront.net/js/v99/bootstrap-alert.js"></script>
+	<script type="text/javascript" src="https://dtgdymf1f1fqo.cloudfront.net/js/v99/bootstrap-tooltip.js"></script>
+	<script type="text/javascript" src="https://dtgdymf1f1fqo.cloudfront.net/js/v99/jstorage.min.js"></script>
+	<script type="text/javascript" src="https://dtgdymf1f1fqo.cloudfront.net/js/v99/main.js"></script>
+	<script type="text/javascript" src="https://dtgdymf1f1fqo.cloudfront.net/js/v99/jquery.cookie.js"></script>
 				<script type="text/javascript">
 						adroll_adv_id = "BHWR5AQDMBHTPO3NHJIDMV";
 			adroll_pix_id = "CD6VPKXAAZGHVMEJCF7TVP";
@@ -383,5 +443,6 @@
 				} catch(err){}
 			}
 		</script>
-	
+		
+
 </body></html>
