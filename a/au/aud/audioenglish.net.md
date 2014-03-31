@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the audioenglish.net privacy policy that was archived on 2012-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120707071831id_/http%3A//www.audioenglish.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audioenglish.net privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331073805id_/http%3A//www.audioenglish.org/privacy_policy.php) for the most accurate reproduction.*
 
-# AudioEnglish.net Privacy Policy
+# AudioEnglish.org Privacy Policy
 
 _Effective June 9, 2009_
 
 **Our Commitment To Privacy**
 
-We at AudioEnglish.net are committed to providing you with excellent service. Your privacy is important to us, and have developed this Privacy Policy to inform you about our privacy practices for the entire AudioEnglish.net Web site and all its subdomains. To better protect your privacy we provide this notice explaining the choices you can make about the way your information is collected and used.
+We at AudioEnglish.org are committed to providing you with excellent service. Your privacy is important to us, and have developed this Privacy Policy to inform you about our privacy practices for the entire AudioEnglish.org Web site and all its subdomains. To better protect your privacy we provide this notice explaining the choices you can make about the way your information is collected and used.
 
-Privacy is of great concern to most users of the Internet, and is a critical part of an enjoyable and satisfactory user experience. We at AudioEnglish.net are sensitive to the privacy concerns of our subscribers and other visitors to our Web sites. Whether you are a subscriber or a visitor to our site, we assure you that we do not collect personal information from you unless you provide it to us. If you are subscribing to our services, you may be asked to provide certain personal and credit card information. Please note, however, that we are asking for this information for the limited purposes of managing your subscription and we do not get and/or store any credit card information, as this is entered by customers on the server of our payment gateway provider and not on our servers. When you enter sensitive information (such as credit card number), that information is encrypted using secure socket layer technology (SSL). You should also be assured that we do not provide or sell information about our customers or site visitors to anyone except as required by law.
+Privacy is of great concern to most users of the Internet, and is a critical part of an enjoyable and satisfactory user experience. We at AudioEnglish.org are sensitive to the privacy concerns of our subscribers and other visitors to our Web sites. Whether you are a subscriber or a visitor to our site, we assure you that we do not collect personal information from you unless you provide it to us. If you are subscribing to our services, you may be asked to provide certain personal and credit card information. Please note, however, that we are asking for this information for the limited purposes of managing your subscription and we do not get and/or store any credit card information, as this is entered by customers on the server of our payment gateway provider and not on our servers. When you enter sensitive information (such as credit card number), that information is encrypted using secure socket layer technology (SSL). You should also be assured that we do not provide or sell information about our customers or site visitors to anyone except as required by law.
 
 Our Web site may contain links to other sites. Please note that we are not responsible for the privacy practices, privacy statements, or content of these other sites.
 
@@ -48,11 +48,13 @@ You should be aware that cookies contain no more information than you volunteer,
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
-Advertisements that appear on AudioEnglish.net are sometimes delivered (or "served") directly to users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies to measure the effectiveness of their ads and to personalize advertising content.
+Advertisements that appear on AudioEnglish.org are sometimes delivered (or "served") directly to users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies to measure the effectiveness of their ads and to personalize advertising content.
 
 Google, as a third party advertising company, uses cookies to serve ads on our site. Google's use of the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to our Web site's visitors based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-Please note that AudioEnglish.net does not endorse any of the ads shown on these pages, whether in editorial or advertising matter, and can in no circumstances be held responsible for the outcome of any action taken by any visitor in relation with such an ad. Visitors are advised to take all usual precautions before entering into any agreement with the advertiser and to satisfy themselves as to the suitability of the products or services offered by the advertiser.
+Google and third-party advertising companies may also store, access and/or collect other information from your browser, computer or mobile device in connection with the ads they provide, such as information about your options for cookie management, device-specific information, location information or other information on your device in connection with the advertising they provide. By continuing to use this Web Site, you give your express consent to the storing and accessing of such information by Google and other third-party advertising companies.
+
+Please note that AudioEnglish.org does not endorse any of the ads shown on these pages, whether in editorial or advertising matter, and can in no circumstances be held responsible for the outcome of any action taken by any visitor in relation with such an ad. Visitors are advised to take all usual precautions before entering into any agreement with the advertiser and to satisfy themselves as to the suitability of the products or services offered by the advertiser.
 
 Third party advertisers have no access to your personal information stored on our servers unless you choose to share it with them.
 
@@ -70,7 +72,7 @@ If we are required by law to disclose certain information to local, state, feder
 
 **How To Contact Us**
 
-Our contact information is available on the [contact us page](http://www.audioenglish.net/english-learning/contact.htm).  
+Our contact information is available on the [contact us page](http://www.audioenglish.org/english-learning/contact.htm).  
 Should you have other questions or concerns about our Web site or services, please send us an email at the email address provided on the contact page.
 
 **Amendment to privacy policy**
