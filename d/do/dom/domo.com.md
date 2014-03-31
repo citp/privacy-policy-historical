@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the domo.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512123031id_/http%3A//www.domo.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domo.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401011217id_/http%3A//www.domo.com/company/privacy-policy) for the most accurate reproduction.*
 
-# DOMO :: Company :: Privacy Policy
-
-### Overview
+# Domo Privacy Policy | Domo
 
 Domo respects your preferences concerning the collection and use of personally identifiable information. This statement discloses the privacy practices for the domo.com website. As part of the normal operation of this site, we may collect and, in some cases, may disclose information about you. This Privacy Policy describes the information we collect about you and how we may use or share that information.
 
@@ -20,12 +18,12 @@ If you no longer wish to receive newsletters from us in the future, please let u
 
 You can help Domo to maintain the accuracy of your information by notifying us of any change to your subscription information. You can notify us by sending email [info@domo.com](mailto:info@domo.com) or surface mail to us at the address below.
 
-Domo Technologies, Inc.  
-350 North 400 West Suite 100  
-Lindon, UT 84042  
+Domo, Inc.  
+772 East Utah Valley Drive  
+American Fork, Utah 84003  
 [www.domo.com](https://web.archive.org/)
 
-We can also be contacted using the [contact form](https://web.archive.org/company/contact-us#web-form) or you can reach us by telephone at 1.800.899.1000. Our business hours for telephone contact are 9:00 AM to 8:00 PM Eastern.
+We can also be contacted  by telephone at 1.800.899.1000. Our business hours for telephone contact are 9:00 AM to 8:00 PM Eastern.
 
 ### Links
 
@@ -87,6 +85,6 @@ We also use Personally Identifiable Information to improve our marketing and pro
 
 ### Use by Third Parties
 
-We may share your personally identifiable information with third parties to assist Domo with responding to your sales request, taking your order, or processing your payment, with third parties that sponsor Domo events or conferences that you attend, and when you give your consent. We may also share information to comply with legal requirements (see Legal Disclosures below)
+We may share your personally identifiable information with third parties to assist Domo with responding to your sales request, taking your order, or processing your payment, with third parties that sponsor Domo events or conferences that you attend, and when you give your consent. We may also share information to comply with legal requirements.
 
 If you have any comments, questions, or concerns about the Domo Privacy Policy, feel free to [contact us](https://web.archive.org/company/contact-us).
