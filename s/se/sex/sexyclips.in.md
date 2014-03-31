@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexyclips.in privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812053551id_/http%3A//www.jizzyuz.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexyclips.in privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331025856id_/http%3A//www.jizzyuz.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - JizzyUz.com
 
