@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offerna.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629061223id_/http%3A//www.offerna.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerna.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331225847id_/http%3A//www.offerna.com/en/privacy) for the most accurate reproduction.*
 
 # Offerna.com
 
