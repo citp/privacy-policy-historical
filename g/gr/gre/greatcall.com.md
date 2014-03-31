@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatcall.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224133503id_/http%3A//www.greatcall.com/Legal/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatcall.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331095351id_/http%3A//www.greatcall.com/Legal/privacy-policy.aspx) for the most accurate reproduction.*
 
 # GreatCall - Legal - Privacy Policy
 
@@ -87,7 +87,7 @@ We are sensitive to privacy issues and look to protect your child’s informatio
 
 
 
-**NOTICE: Visit[www.ftc.gov/kidzprivacy](http://www.ftc.gov/kidzprivacy) for information from the Federal Trade Commission about protecting children’s privacy online.**
+**NOTICE: Visit[www.business.ftc.gov/privacy-and-security/childrens-privacy](http://www.business.ftc.gov/privacy-and-security/childrens-privacy) for information from the Federal Trade Commission about protecting children’s privacy online.**
 
 If a child under the age of 13 has provided personal information on our Web site without the consent of his or her parent or guardian, we ask that a parent or guardian send us an email through our Contact Us page, and we will delete the child’s personal information from our files.
 
