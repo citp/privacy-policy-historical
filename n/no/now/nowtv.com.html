@@ -1,133 +1,50 @@
-<!--The following is the downloaded HTML source of the nowtv.com privacy policy that was archived on 2013-09-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130912024650id_/http%3A//www.nowtv.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nowtv.com privacy policy that was archived on 2014-03-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331070723id_/http%3A//www.nowtv.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html id="ng-app" ng-app="nowtv" ng-controller="AppCtrl" class="no-js" lang="en" data-version="2"><!--<![endif]--><head>
-    <title>Privacy &amp; Cookies - NOW TV</title>
+    <title>Privacy &amp; Cookies | NOW TV</title>
+
     <meta name="viewport" content="width=1024">
-    <meta name="google" content="notranslate">
-    <meta http-equiv="Content-Language" content="en">
+<meta name="google" content="notranslate">
+<meta http-equiv="Content-Language" content="en">
+<meta name="apple-itunes-app" content="app-id=512266300">
+<meta name="fragment" content="!">
+
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-retina.png">
+
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+
+<script>
     
+var NOWTV = NOWTV || {};
 
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-retina.png">
-
-    <link rel="icon" type="image/x-icon" href="/static/X1D0rln6uN3eA4uHmbwxK7UgCVUffBIoV5KZnSfP20j.ico">
-
-    
-
-    
-
-    <link href="/static/Po0cxBb9Ezvhvh0DeQD5RHOb5YjUxLLZko4p61QXNJR.css" type="text/css" media="screen, projection" rel="stylesheet">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script src="/static/nbkOApynIWibBYE1C7lznnAPsP14gGXDgZGd8fBnGTf.js" type="text/javascript"></script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script type="text/javascript">
-        (function(ntv) {
-
-            var supportsPlaceholder = Modernizr.input.placeholder,
-                isLargeDeviceOrIe8  = ( Modernizr.mq('only screen and (min-device-width: 1025px)') || !Modernizr.touch || ($('html').hasClass('lt-ie9')) );
-
-            ntv.env = {
+(function(ntv) {
+    ntv.env = {
   "cookieDomain": ".nowtv.com",
-  "serverURL": "http://www.nowtv.com",
+  "serverURL": "http://watch.nowtv.com",
   "clientUrl": "http://client.nowtv.com",
   "proxyClientUrl": "/proxy/client",
-  "secureServerURL": "https://www.nowtv.com",
-  "currentURL": "http://www.nowtv.com/privacy",
+  "secureServerURL": "https://watch.nowtv.com",
+  "cmsUrls": {
+    "sports": "http://www.nowtv.com/sports",
+    "movies": "http://www.nowtv.com/movies"
+  },
   "liveAgent": {
     "deploymentURL": "https://c.la1w1.salesforceliveagent.com/content/g/deployment.js"
   },
   "epg": {
-    "frameSrc": "http://tvguide.nowtv.com/embedded-guide?externalCss=http://www.nowtv.com/css/epg.css&externalJs=http://www.nowtv.com/js/fake/epgOverrides.js&channelList=1301,1302,1306,1322,1333,1314&domain=nowtv.com",
-    "imageServerURL": "http://epgstatic.sky.com/epgdata/1.0/paimage/81/0/"
+    "domain": "nowtv.com",
+    "frameSrc": "http://tvguide.nowtv.com/embedded-guide?externalCss=http://watch.nowtv.com/css/epg.css&externalJs=http://watch.nowtv.com/assets/fake/epgOverrides.js&channelList=1301,1302,1306,1322,1333,1314&domain=nowtv.com",
+    "imageServerURL": "http://epgstatic.sky.com/epgdata/1.0/paimage/81/0/",
+    "defaultChannel": "1301"
   },
   "webServices": {
     "customer": "/webservices/customer",
-    "passes": "/sports/passes",
+    "devices": "/webservices/devices",
     "epg": {
-      "programmeDetails": "/sports/details",
-      "recommendations": "/sports/recommendations"
+      "programmeDetails": "/proxy/client/schedule/channels/:channelId/descriptions/:eventId"
     }
   },
   "payment": {
@@ -136,163 +53,187 @@
     }
   },
   "skyId": {
-    "signIn": "https://skyid.sky.com/signin/nowtv?navigation=restricted&successUrl=http%3A%2F%2Fwww.nowtv.com%2Fprivacy",
+    "signIn": "https://skyid.sky.com/signin/nowtv",
     "signUp": "https://skyid.sky.com/signup/nowtv",
-    "signOut": "https://skyid.sky.com/signout/nowtv?successUrl=http%3A%2F%2Fwww.nowtv.com%2Fsignout"
+    "signOut": "https://skyid.sky.com/signout/nowtv?successUrl=http%3A%2F%2Fwatch.nowtv.com%2Fsignout"
   },
   "urls": {
-    "sports": "http://www.nowtv.com/sports",
-    "movies": "http://www.nowtv.com/movies",
-    "genres": "http://www.nowtv.com/movies/genres",
-    "collections": "http://www.nowtv.com/movies/collections",
-    "liveTv": "http://www.nowtv.com/movies/livemovies",
-    "ents": "http://www.nowtv.com/entertainment",
-    "entsGenres": "http://www.nowtv.com/entertainment/genres",
-    "entsChannels": "http://www.nowtv.com/entertainment/channels",
-    "entsLiveTv": "http://www.nowtv.com/entertainment/livetv",
-    "myTv": "http://www.nowtv.com/mytv",
-    "help": "http://www.nowtv.com/help",
-    "community": "http://www.nowtv.com/community",
-    "myAccount": "https://www.nowtv.com/account",
-    "blog": "http://www.nowtv.com/blog",
-    "nowTvBoxLink": "http://shop.nowtv.com"
+    "sports": "http://watch.nowtv.com/sports",
+    "movies": "http://watch.nowtv.com/movies",
+    "genres": "http://watch.nowtv.com/movies/genres",
+    "collections": "http://watch.nowtv.com/movies/collections",
+    "liveTv": "http://watch.nowtv.com/movies/livemovies",
+    "ents": "http://watch.nowtv.com/entertainment",
+    "entsGenres": "http://watch.nowtv.com/entertainment/genres",
+    "entsChannels": "http://watch.nowtv.com/entertainment/channels",
+    "entsLiveTv": "http://watch.nowtv.com/entertainment/livetv",
+    "myTv": "http://watch.nowtv.com/mytv",
+    "help": "http://watch.nowtv.com/help",
+    "community": "http://watch.nowtv.com/community",
+    "myAccount": "https://watch.nowtv.com/account",
+    "terms": "http://watch.nowtv.com/terms",
+    "blog": "http://watch.nowtv.com/blog",
+    "nowTvBoxLink": "http://shop.nowtv.com",
+    "endEventProxy": "http://watch.nowtv.com/stream/event?eventUrl=",
+    "almostDone": "https://watch.nowtv.com/setup/almostdone"
   },
   "features": {
     "nowTvBoxLink": true
+  },
+  "player": {
+    "version": "1.7.5148.30373",
+    "domain": ".nowtv.com",
+    "playerXap": "/xap/1.7.5148.30373/player.xap",
+    "miniClientExtensionXap": "/xap/1.7.5148.30373/MiniClientExtension.xap",
+    "convivaConfigEnabled": false
   }
 };
+})(NOWTV);
+               
+
+
+
+        (function(w){w.EventCollector=function(rethrowOriginalError){this.rethrowOriginalError=rethrowOriginalError===undefined?true:rethrowOriginalError;this.bindOnErrorHandler()};w.EventCollector.prototype={LOG_URL:"http://log.nowtv.com/log",LOG_ORIGIN:"nowtv-prod",METHOD:"post",SEVERITY:{ERROR:"error"},TYPE:{GLOBAL:"global"},previousHandler:null,destroy:function(){this.unbindOnErrorHandler()},onError:function(){try{var xhr=this.getXhrObject(),payload=this.createLogPayload.apply(this,arguments);xhr.send(JSON.stringify(payload))}catch(err){}},sendError:function(severity,type,message,errorCode){try{var xhr=this.getXhrObject(),payload=this.createLogPayload(severity,type,message);if(errorCode){payload.errorCode=errorCode}xhr.send(JSON.stringify(payload))}catch(err){}},getProfileId:function(){var profileId=document.cookie.replace(/(?:(?:^|.*;\s*)just\s*\=\s*([^;]*).*$)|^.*$/,"$1");return profileId?parseInt(profileId,10):null},createLogPayload:function(severity,type,message,fileName,lineNumber){return{origin:this.LOG_ORIGIN,severity:severity,type:type,message:message,location:fileName?fileName+":"+lineNumber:"",profileId:this.getProfileId(),href:this._getWindowLocationHref()}},_getWindowLocationHref:function(){return window.location.href},bindOnErrorHandler:function(){if(!this.previousHandler){var self=this;this.previousHandler=w.onerror;w.onerror=function(message,fileName,lineNumber){try{self.onError.call(self,self.SEVERITY.ERROR,self.TYPE.GLOBAL,message,fileName,lineNumber)}catch(ex){self.triggerPreviousOnError(ex.message,ex.fileName,ex.lineNumber)}if(self.rethrowOriginalError){self.triggerPreviousOnError(message,fileName,lineNumber)}}}},triggerPreviousOnError:function(){if(typeof this.previousHandler==="function"){this.previousHandler.apply(window,arguments)}},unbindOnErrorHandler:function(){if(this.previousHandler){w.onerror=this.previousHandler;this.previousHandler=null}},getXhrObject:function(){var xhr=new XMLHttpRequest;if(!("withCredentials"in xhr)&&typeof XDomainRequest!="undefined"){xhr=new XDomainRequest;xhr.open(this.METHOD,this.LOG_URL)}else{xhr.open(this.METHOD,this.LOG_URL,true);xhr.setRequestHeader("Content-Type","application/json")}return xhr}}})(window)
+        window.PRE_NOWTV = {};
+        window.PRE_NOWTV.ec = new EventCollector();
+
+
+</script>
+
+<script>
+    window["adrum-app-key"] = "AD-AAB-AAA-DKS";
+    window["adrum-start-time"] = new Date().getTime();
+</script>
+<script src="//web.static.nowtv.com/ice/3.0.4/js/iceberg.widget.bundle.js"></script>
+
+    <script src="/assets/base-head-65abcf19085b468122d92d94e888dd5f.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="/assets/base-458a08cf2242ffe22bcaede1351c7bc6.css">
+
+    <script>
+        (function(ntv) {
+
             ntv.dfa = { trackingURL: '//fls.doubleclick.net/activityi;src=3662759;', env: '' };
             ntv.genres = ntv.genres || {};ntv.genres.movies = [
   {
     "title": "View All",
-    "url": "http://www.nowtv.com/movies/genres"
+    "url": "http://watch.nowtv.com/movies/genres"
   },
   {
     "title": "Action",
-    "url": "http://www.nowtv.com/movies/genres/action"
+    "url": "http://watch.nowtv.com/movies/genres/action"
   },
   {
     "title": "Classic",
-    "url": "http://www.nowtv.com/movies/genres/classic"
+    "url": "http://watch.nowtv.com/movies/genres/classic"
   },
   {
     "title": "Comedy",
-    "url": "http://www.nowtv.com/movies/genres/comedy"
+    "url": "http://watch.nowtv.com/movies/genres/comedy"
   },
   {
     "title": "Disney",
-    "url": "http://www.nowtv.com/movies/genres/disney"
+    "url": "http://watch.nowtv.com/movies/genres/disney"
   },
   {
     "title": "Drama",
-    "url": "http://www.nowtv.com/movies/genres/drama"
+    "url": "http://watch.nowtv.com/movies/genres/drama"
   },
   {
     "title": "Factual",
-    "url": "http://www.nowtv.com/movies/genres/factual"
+    "url": "http://watch.nowtv.com/movies/genres/factual"
   },
   {
     "title": "Family",
-    "url": "http://www.nowtv.com/movies/genres/family"
+    "url": "http://watch.nowtv.com/movies/genres/family"
   },
   {
     "title": "Horror",
-    "url": "http://www.nowtv.com/movies/genres/horror"
+    "url": "http://watch.nowtv.com/movies/genres/horror"
   },
   {
     "title": "Indie",
-    "url": "http://www.nowtv.com/movies/genres/indie"
-  },
-  {
-    "title": "Modern Great",
-    "url": "http://www.nowtv.com/movies/genres/modern_great"
+    "url": "http://watch.nowtv.com/movies/genres/indie"
   },
   {
     "title": "Romance",
-    "url": "http://www.nowtv.com/movies/genres/romance"
+    "url": "http://watch.nowtv.com/movies/genres/romance"
   },
   {
     "title": "Sci-fi",
-    "url": "http://www.nowtv.com/movies/genres/sci_fi"
+    "url": "http://watch.nowtv.com/movies/genres/sci-fi"
   },
   {
     "title": "Thriller",
-    "url": "http://www.nowtv.com/movies/genres/thriller"
+    "url": "http://watch.nowtv.com/movies/genres/thriller"
   }
 ];ntv.genres.entertainment = [
   {
     "title": "View All",
-    "url": "http://www.nowtv.com/entertainment/genres"
-  },
-  {
-    "title": "Action",
-    "url": "http://www.nowtv.com/entertainment/genres/Action"
-  },
-  {
-    "title": "Art",
-    "url": "http://www.nowtv.com/entertainment/genres/Art"
+    "url": "http://watch.nowtv.com/entertainment/genres"
   },
   {
     "title": "Comedy",
-    "url": "http://www.nowtv.com/entertainment/genres/Comedy"
+    "url": "http://watch.nowtv.com/entertainment/genres/comedy"
   },
   {
-    "title": "Documentary",
-    "url": "http://www.nowtv.com/entertainment/genres/Documentary"
+    "title": "Documentaries",
+    "url": "http://watch.nowtv.com/entertainment/genres/documentaries"
   },
   {
     "title": "Drama",
-    "url": "http://www.nowtv.com/entertainment/genres/Drama"
+    "url": "http://watch.nowtv.com/entertainment/genres/drama"
   },
   {
-    "title": "Factual",
-    "url": "http://www.nowtv.com/entertainment/genres/Factual"
+    "title": "Entertainment",
+    "url": "http://watch.nowtv.com/entertainment/genres/entertainment"
   },
   {
-    "title": "Family",
-    "url": "http://www.nowtv.com/entertainment/genres/Family"
+    "title": "Kids",
+    "url": "http://watch.nowtv.com/entertainment/genres/kids"
   },
   {
-    "title": "Game Shows",
-    "url": "http://www.nowtv.com/entertainment/genres/Game+Shows"
-  },
-  {
-    "title": "Reality",
-    "url": "http://www.nowtv.com/entertainment/genres/Reality"
-  },
-  {
-    "title": "Supernatural",
-    "url": "http://www.nowtv.com/entertainment/genres/Supernatural"
+    "title": "Music and Arts",
+    "url": "http://watch.nowtv.com/entertainment/genres/music-and-arts"
   }
 ];
 
-            ntv.load([{
-                test: supportsPlaceholder,
-                nope: [ '/static/9tQXkyJilgUio9Xj4eMxDhll6XMgXsJDGmTqGnJhI3m.js' ]
-            }, {
-                test: isLargeDeviceOrIe8,
-                yep: [ '/static/WpirCE6ixDRKagl6uNvXSYHxRbUWzq7REv9GPa9bXf4.js' ],
-                callback: function() {
-                    $(document).ready(function() {
-                        ntv.livesearch = new ntv.LiveSearch();
-                    });
-                }
-            }]);
+            var supportsPlaceholder = Modernizr.input.placeholder,
+    isLargeDeviceOrIe8  = ( Modernizr.mq('only screen and (min-device-width: 1025px)') || !Modernizr.touch || ($('html').hasClass('lt-ie9')) );
 
-            ntv.session = ntv.session || {};
+ntv.load([
+    {
+        test: supportsPlaceholder,
+        nope: [ '/assets/polyfills/placeholder-ed18faa1b83ed3f3995a984a515f0cb4.js' ]
+    },
+    {
+        test: isLargeDeviceOrIe8,
+        yep: [ '/assets/modules/liveSearch-eb2e6dca0c71747461badac2d04f9117.js' ],
+        callback: function() { ntv.livesearch = new ntv.LiveSearch(); }
+    }
+]);
+
+ntv.session = ntv.session || {};
+
+
+    ntv.nowtvEventCollector.subscribe(window.PRE_NOWTV.ec);
+
 
         })(NOWTV);
     </script>
+
     
     
     <meta name="layout" content="base">
 
     
 
-    <link href="//www.nowtv.com/resources/terms.css" type="text/css" rel="stylesheet" media="screen, projection"><script src="//www.nowtv.com/resources/terms.js" type="text/javascript"></script>
+    <link href="http://www.nowtv.com/resources/terms.css" type="text/css" rel="stylesheet" media="screen, projection"><script src="http://www.nowtv.com/resources/terms.js" type="text/javascript"></script>
+    <link href="http://www.nowtv.com/resources/cookie-banner.css" type="text/css" rel="stylesheet" media="screen, projection"><script src="http://www.nowtv.com/resources/cookie-banner.js" type="text/javascript"></script>
 </head>
 
 <body>
+    <div class="ib-cookie-info-container"><div class="ib-cookie-info"><a class="dismiss" href="#" style=""></a><p class="message">Cookies remember you so we can give you a better service online. By using this website or closing this message, you are agreeing to our <a href="http://www.nowtv.com/privacy">Cookies notice</a>.</p></div></div>
+
     <div id="pageNotification">
         <div class="notification">
             <div class="message"></div>
@@ -317,16 +258,14 @@
     </li>
 </ul></script>
     <script type="text/ng-template" id="partials/globalUserMenu.html"><nav id="userMenu" class="user-menu clearfix">
-    <a ng-show="!customer.isAuthenticated()" href="{{urls.signIn}}" class="sign-in">{{titles.signIn}}</a>
+    <a ng-show="!customer.isAuthenticated()" ng-href="{{signInUrl()}}" class="sign-in">{{titles.signIn}}</a>
 
-    <a ng-show="customer.hasWallet()" href="{{urls.myAccount}}" class="my-account">{{titles.myAccount}}</a>
-    <a ng-show="customer.isAuthenticated()" href="{{urls.signOut}}" class="sign-out">{{titles.signOut}}</a>
-    <a href="{{urls.help}}" class="help">{{titles.help}}</a>
-    <a href="{{urls.community}}" class="community">{{titles.community}}</a>
-    <a href="{{urls.blog}}" class="blog">{{titles.blog}}</a>
-</nav>
-
-</script>
+    <a ng-show="customer.hasWallet()" ng-href="{{urls.myAccount}}" class="my-account">{{titles.myAccount}}</a>
+    <a ng-show="customer.isAuthenticated()" ng-href="{{urls.signOut}}" class="sign-out">{{titles.signOut}}</a>
+    <a ng-href="{{urls.help}}" class="help">{{titles.help}}</a>
+    <a ng-href="{{urls.community}}" class="community">{{titles.community}}</a>
+    <a ng-href="{{urls.blog}}" class="blog">{{titles.blog}}</a>
+</nav></script>
     <script type="text/ng-template" id="partials/overlay.html"><div class="overlay-container" ng-show="show">
     <div class="overlay-shim" ng-click="close()"></div>
     <div class="overlay">
@@ -347,6 +286,92 @@
     <time ng-hide="progress.isCurrent" datetime="{{progress.dateTime}}">{{progress.startTime}}</time>
 </div>
 </script>
+    <script type="text/ng-template" id="partials/deviceSlots.html"><div>
+    <p>
+        You can add one device per month, up to your limit of 4.
+    </p>
+
+    <ol class="devices">
+
+        <li ng-repeat="device in devices"
+            id="device_{{device.id}}"
+            data-device-id="{{device.id}}"
+            ng-class="{ 'even': ($index + 1) % 2 == 0, 'unassigned': (!device.id && !device.loading), 'loading': device.loading }"
+            ntv-device-slot device="device" index="{{$index}}" changesleft="{{changesLeft}}">
+        </li>
+    </ol>
+</div>
+</script>
+    <script type="text/ng-template" id="partials/deviceSlot.html"><li>
+    <table border="0" cellpadding="0" cellspacing="0" class="device-slot">
+        <thead>
+            <tr>
+                <th scope="col">Device Number</th>
+                <th scope="col">Device Type</th>
+                <th scope="col">Device Details</th>
+                <th scope="col">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-show="device.loading">
+                <td class="slot-number">
+                    {{getSlotNumber()}}
+                </td>
+                <td colspan="3">
+                    loading devices...
+                </td>
+            </tr>
+            <tr ng-show="isLoaded() && !isRenaming()">
+                <td class="slot-number">
+                    {{getSlotNumber()}}
+                </td>
+                <td class="device-type" ng-class="['device-type', '{{device.type.toLowerCase()}}']">{{device.type}}</td>
+                <td>
+                   <span class="device-name">{{device.name}}</span>
+                   <span class="device-firstUsed" ng-show="device.firstUsed">Date added: {{device.firstUsed | dayMonthYear}}</span>
+                   <span class="current-device" ng-show="device.currentDevice">(current device)</span>
+                </td>
+                <td class="slot-actions">
+                    <button data-t-remove-btn data-device-id="{{device.id}}" class="btn" ng-click="removeDevice()">Remove</button>
+                    <a data-t-rename-link href="javascript:void(0);" title="Rename Device" data-device-id="{{device.id}}" ng-click="renameDevice()">Rename</a>
+                </td>
+            </tr>
+            <tr ng-show="isRenaming()">
+                <td class="slot-number">
+                    {{getSlotNumber()}}
+                </td>
+                <td class="device-type" ng-class="['device-type', '{{device.type.toLowerCase()}}']">{{device.type}}</td>
+                </td>
+                <td colspan="2">
+                    <form name="renameForm" novalidate>
+                        <input type="text" name="renameDevice" autocomplete="off"
+                               ng-model="device.name"
+                               required
+                               ng-pattern="deviceNameRegex"
+                               data-t-rename-device class="rename-field" />
+                        <button type="submit" class="btn" ng-click="saveRename()" ng-disabled="renameForm.$invalid || device.invalidDeviceName" data-t-save-btn>Save</button>
+                        <button class="btn inverse-btn" ng-click="cancelRename()" data-t-cancel-btn>Cancel</button>
+                        <div class="validation-message">
+                            <p data-t-invalid="{{index}}" ng-show="renameForm.$invalid || device.invalidDeviceName">
+                                Up to 18 characters. Letters and numbers only</p>
+                        </div>
+                    </form>
+                </td>
+            </tr>
+            <tr ng-show="isUnassigned()">
+                <td class="slot-number">
+                    {{getSlotNumber()}}
+                </td>
+                <td colspan="3">
+                    Unused slot<br />
+                    A new device will be automatically registered the first time you watch from it.
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</li>
+
+</script>
 
     <div class="user-navbar">
         <div class="navbar">
@@ -359,14 +384,14 @@
 
             <header class="site-header">
                 <div class="logo">
-                    <a href="/" class="logo-link" title="NOW TV" onclick="s_objectID=&quot;https://web.archive.org/_1&quot;;return this.s_oc?this.s_oc(e):true">NOW TV</a>
+                    <a href="http://watch.nowtv.com" class="logo-link" title="NOW TV">NOW TV</a>
                 </div>
                 <nav class="primary-nav" role="navigation">
                     <div ntv-navigation="" selected-item=""></div>
                 </nav>
 
-                <form action="http://www.nowtv.com/search" method="get" id="search" class="search">
-    <div class="search-icon"></div>
+                <form action="http://watch.nowtv.com/search" method="get" id="search" class="search">
+    <div data-tracking-search="content" data-tracking-context-id="searchQuery" class="search-icon"></div>
     <input id="searchQuery" class="query" type="text" name="query" autocomplete="off" placeholder="Search">
     <div class="dropdown live-search">
     <ul class="preview"></ul>
@@ -376,16 +401,16 @@
 
             <section role="main">
                 
-    <section>
+    <section class="terms-page">
         <h2>Privacy Notice</h2>
         <p>This privacy notice applies to the use of personal information by British Sky Broadcasting Limited and its group companies.</p>
-        <p>Any member of the British Sky Broadcasting group may use and share, within that group, the information you provide and other information it holds about you for the purposes set out below.&nbsp;<a href="#privacy-policy" onclick="s_objectID=&quot;https://web.archive.org/web/20130912024650id_/http%3A//www.nowtv.com/privacy#privacy-policy_1&quot;;return this.s_oc?this.s_oc(e):true">Please see our privacy notice</a>.</p>
+        <p>Any member of the British Sky Broadcasting group may use and share, within that group, the information you provide and other information it holds about you for the purposes set out below.&nbsp;<a href="#privacy-policy" target="_self">Please see our privacy notice</a>.</p>
 
         <h3>Cookies Notice</h3>
-        <p>When you create or log in to an online account you agree to our privacy and cookies notice. Otherwise, by continuing to use our websites or mobile services you agree to the use of cookies as described in this notice.&nbsp;<a href="#cookies-policy" onclick="s_objectID=&quot;https://web.archive.org/web/20130912024650id_/http%3A//www.nowtv.com/privacy#cookies-policy_1&quot;;return this.s_oc?this.s_oc(e):true">Please see our cookies notice</a>.</p>
+        <p>When you create or log in to an online account you agree to our privacy and cookies notice. Otherwise, by continuing to use our websites or mobile services you agree to the use of cookies as described in this notice.&nbsp;<a href="#cookies-policy" target="_self">Please see our cookies notice</a>.</p>
 
         <h3>Now TV</h3>
-        <p>If you are a Now TV customer, there are additions to this notice specific to the Now TV service. <a href="#nowtv" onclick="s_objectID=&quot;https://web.archive.org/web/20130912024650id_/http%3A//www.nowtv.com/privacy#nowtv_1&quot;;return this.s_oc?this.s_oc(e):true">Please see Now TV additions</a>.</p>
+        <p>If you are a Now TV customer, there are additions to this notice specific to the Now TV service. <a href="#nowtv" target="_self">Please see Now TV additions</a>.</p>
 
         <h2 id="privacy-policy">Privacy Notice</h2>
 
@@ -396,7 +421,7 @@
             <li>Information about our products and services you've ordered or enquired about.</li>
             <li>Information provided by other companies who've obtained your permission to share information about you.</li>
             <li>Information about the channels, programmes, advertisements and services you access, for example how you view, record or fast forward them.</li>
-            <li>Information we collect using cookies stored on your device about your use of Sky and/or selected third party websites. For more information on cookies and how to manage them, please see the&nbsp;<a href="#cookies-policy" onclick="s_objectID=&quot;https://web.archive.org/web/20130912024650id_/http%3A//www.nowtv.com/privacy#cookies-policy_2&quot;;return this.s_oc?this.s_oc(e):true">section on cookies</a>.</li>
+            <li>Information we collect using cookies stored on your device about your use of Sky and/or selected third party websites. For more information on cookies and how to manage them, please see the&nbsp;<a href="#cookies-policy" target="_self">section on cookies</a>.</li>
             <li>Your IP address, this is a number that identifies a specific network device on the internet and is required for your device to communicate with websites.</li>
             <li>Technical information from your Sky device(s) relating to the service you receive, for example, the collection of diagnostic information.</li>
         </ul>
@@ -408,7 +433,7 @@
         <ul>
             <li>To monitor and improve our products, services and websites.</li>
             <li>We may share information with credit reference and fraud prevention agencies for use in credit decisions, and for fraud detection and prevention purposes.</li>
-            <li>If false or inaccurate information is provided and fraud is identified, the details will be passed to fraud prevention agencies. Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent fraud and money laundering, for example when: checking details on applications for credit and credit related or other facilities; managing credit and credit related accounts and facilities; recovering debt; checking details on proposals and claims for all types of insurance; or checking details of job applications and employees. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies. Please contact us by emailing us at <a href="mailto:mysky@bskyb.com" onclick="s_objectID=&quot;mailto:mysky@bskyb.com_1&quot;;return this.s_oc?this.s_oc(e):true">mysky@bskyb.com</a>&nbsp;if you want to receive details of the relevant fraud prevention agencies.</li>
+            <li>If false or inaccurate information is provided and fraud is identified, the details will be passed to fraud prevention agencies. Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent fraud and money laundering, for example when: checking details on applications for credit and credit related or other facilities; managing credit and credit related accounts and facilities; recovering debt; checking details on proposals and claims for all types of insurance; or checking details of job applications and employees. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies. Please contact us by emailing us at <a href="mailto:mysky@bskyb.com">mysky@bskyb.com</a>&nbsp;if you want to receive details of the relevant fraud prevention agencies.</li>
             <li>We may also share your information with other companies for debt recovery purposes.</li>
             <li>For market research.</li>
             <li>To enable us to comply with any legal or regulatory requirements; to protect or enforce our rights or the rights of any third party; in the detection and prevention of fraud and other crimes; and for the purpose of safeguarding national security.</li>
@@ -432,7 +457,7 @@
         <h4>Personalisation (including tailored advertising)</h4>
             <p>You can opt out by calling us on 08442 414141 or via your MySky account. Please note that if you opt out of personalisation you will not receive tailored advertising. This means you will still see the same number of adverts but they will be ones that appear as standard.</p>
         <h4>Online behavioural advertising</h4>
-            <p>If you do not want to receive online behavioural advertising, or don't want any information processed through the use of cookies, please see the&nbsp;<a href="#cookies-policy" onclick="s_objectID=&quot;https://web.archive.org/web/20130912024650id_/http%3A//www.nowtv.com/privacy#cookies-policy_3&quot;;return this.s_oc?this.s_oc(e):true">section on cookies</a>.</p>
+            <p>If you do not want to receive online behavioural advertising, or don't want any information processed through the use of cookies, please see the&nbsp;<a href="#cookies-policy" target="_self">section on cookies</a>.</p>
 
         <h2 id="nowtv">Now TV</h2>
 
@@ -446,7 +471,7 @@
         <p>You can change your marketing preference at any time within your account management area.</p>
 
         <h3>Contacting Sky</h3>
-        <p>Any queries or comments about this privacy notice or for requests of copies of the information we hold about you should be sent to&nbsp;<a href="mailto:dpoffice@bskyb.com" onclick="s_objectID=&quot;mailto:dpoffice@bskyb.com_1&quot;;return this.s_oc?this.s_oc(e):true">dpoffice@bskyb.com</a>&nbsp;or to Customer Relations, Sky Subscriber Services Ltd, PO Box 43, Livingston, West Lothian, EH54 7DD, UK.</p>
+        <p>Any queries or comments about this privacy notice or for requests of copies of the information we hold about you should be sent to&nbsp;<a href="mailto:dpoffice@bskyb.com">dpoffice@bskyb.com</a>&nbsp;or to Customer Relations, Sky Subscriber Services Ltd, PO Box 43, Livingston, West Lothian, EH54 7DD, UK.</p>
         <p>Please ensure you notify us of any updates, amendments and corrections to your information by contacting us on 08442 414141 or through MySky.</p>
 
 
@@ -515,42 +540,62 @@
         <footer>
             <nav>
     <ul class="site-links">
-        <li><a href="/" class="home" onclick="s_objectID=&quot;https://web.archive.org/_2&quot;;return this.s_oc?this.s_oc(e):true">Home</a></li>
-        <li><a href="http://www.nowtv.com/privacy" class="privacy" onclick="s_objectID=&quot;http://www.nowtv.com/privacy_1&quot;;return this.s_oc?this.s_oc(e):true">Privacy &amp; Cookies</a></li>
-        <li><a href="http://www.nowtv.com/terms" class="terms" onclick="s_objectID=&quot;http://www.nowtv.com/terms_1&quot;;return this.s_oc?this.s_oc(e):true">Terms &amp; Conditions</a></li>
-        <li><a href="http://www.nowtv.com/contactus" onclick="s_objectID=&quot;http://www.nowtv.com/contactus_1&quot;;return this.s_oc?this.s_oc(e):true">Contact Us</a></li>
+        <li><a href="http://watch.nowtv.com" class="home">Home</a></li>
+        <li><a href="http://watch.nowtv.com/privacy" class="privacy">Privacy &amp; Cookies</a></li>
+        <li><a href="http://watch.nowtv.com/terms" class="terms">Terms &amp; Conditions</a></li>
+        <li><a href="http://watch.nowtv.com/contactus">Contact Us</a></li>
     </ul>
     <ul class="social-links">
-        <li><a class="icon icon-facebook" href="http://facebook.com/NOWTV" target="_blank" title="Facebook" onclick="s_objectID=&quot;http://facebook.com/NOWTV_1&quot;;return this.s_oc?this.s_oc(e):true">Facebook</a></li>
+        <li><a class="icon icon-facebook" href="http://facebook.com/NOWTV" target="_blank" title="Facebook">Facebook</a></li>
         <li>
-            <a class="icon icon-twitter" href="javascript:void(0);" title="Twitter" onclick="s_objectID=&quot;javascript:void(0);_1&quot;;return this.s_oc?this.s_oc(e):true">Twitter</a>
+            <a class="icon icon-twitter" href="javascript:void(0);" title="Twitter">Twitter</a>
 
             <div class="twitter-choice">
                 <ul>
-                    <li><a href="http://twitter.com/NOWTV" target="_blank" onclick="s_objectID=&quot;http://twitter.com/NOWTV_1&quot;;return this.s_oc?this.s_oc(e):true">Movies</a></li>
-                    <li><a href="http://twitter.com/NOWTVSport" target="_blank" onclick="s_objectID=&quot;http://twitter.com/NOWTVSport_1&quot;;return this.s_oc?this.s_oc(e):true">Sports</a></li>
+                    <li><a href="http://twitter.com/NOWTV" target="_blank">Movies</a></li>
+                    <li><a href="http://twitter.com/NOWTVSport" target="_blank">Sports</a></li>
                 </ul>
             </div>
         </li>
-        <li><a class="icon icon-youtube" href="http://youtube.com/nowtvofficial" target="_blank" title="YouTube" onclick="s_objectID=&quot;http://youtube.com/nowtvofficial_1&quot;;return this.s_oc?this.s_oc(e):true">Youtube</a></li>
+        <li><a class="icon icon-youtube" href="http://youtube.com/nowtvofficial" target="_blank" title="YouTube">Youtube</a></li>
     </ul>
 </nav>
 <div class="brought-to-you">Brought to you by</div>
-            <div id="disclaimer" class="disclaimer grid"><h5>The Legal bit:</h5><small><div class="legal-column"><p>*Available on iPhone and selected Android devices.</p><p><span class="underline">Comparison:</span>&nbsp;Comparison of online movie subscription using top UK box office films from past 18 months. See <a href="/compare" class="terms-footer-link" onclick="s_objectID=&quot;https://web.archive.org/compare_1&quot;;return this.s_oc?this.s_oc(e):true">nowtv.com/compare</a>.</p><p><span class="underline">Sky Movies Pass:</span>&nbsp;Fees apply after Free Trial unless cancelled.  Introductory price of £8.99 per month for 3 months, then £15 per month.  Introductory price no longer available if you unsubscribe before month 4.  You can stop renewal at any time.  One Free Trial per person.  Free Trial excludes Sky Sports Day Pass.  Live channels not available on YouView.</p></div><div class="legal-column"><p><span class="underline">Sports Day Pass:</span>&nbsp;Each Pass costs £9.99.  Viewing period ends 24 hours after you first watch.  Pass must be redeemed within 365 days of purchase.  Not available on YouView.</p><p><span class="underline">General:</span>&nbsp;18+. UK only. Content streamed. Requires broadband/3G (charges may apply). Register up to four compatible devices, and watch on two at the same time. Device changes limited to one per month. Some content unavailable on live channels and/or some devices. Xbox® Gold Live needed to use NOW TV on Xbox® 360.NOW TV available on compatible Roku LT and XS boxes only. HDMI cable required for higher quality viewing. You will need to create a Roku UK account to use NOW TV with Roku. See <a href="http://help.nowtv.com/HelpArticle?id=kA1G0000000Ctu5KAC&amp;topicKey=All&amp;selectedTopicKey=" onclick="s_objectID=&quot;http://help.nowtv.com/HelpArticle?id=kA1G0000000Ctu5KAC&amp;topicKey=All&amp;selectedTopicKey=_1&quot;;return this.s_oc?this.s_oc(e):true">here</a> for device compatibility requirements. For content/device restrictions read the FAQs. Full terms of service <a href="http://www.nowtv.com/terms" class="terms-footer-link" onclick="s_objectID=&quot;http://www.nowtv.com/terms_2&quot;;return this.s_oc?this.s_oc(e):true">here</a>.</p></div></small></div>
+            <div id="disclaimer" class="disclaimer grid"><h5>The Legal bit:</h5><small><div class="legal-column"><p>*Available on iPhone and selected Android devices.</p><p><span class="underline">Comparison:</span> Comparison of online movie subscription using top UK box office films from past 18 months. See <a href="/compare" class="terms-footer-link">nowtv.com/compare</a>.</p><p><span class="underline">Sky Movies Pass:</span> Fees apply after Free Trial. Sky Movies Pass automatically renews at £8.99 a month unless cancelled and you can stop renewal at any time. One Free Trial per person, excludes Sky Sports Day Pass, Entertainment Month Pass or new customers who purchase a NOW TV Box movies bundle. Live channels not available on YouView.</p>
+<p><span class="underline">Sports Day Pass:</span> Each Pass costs £9.99. Viewing period ends 24 hours after you first watch. Pass must be redeemed within 365 days of purchase. Only available on YouView to TalkTalk customers. Red button and interactive services are unavailable.</p>
+<p><span class="underline">Entertainment Month Pass:</span> Introductory price of £4.99 per month if joining by 29th May 2014. Pass automatically renews unless cancelled. Currently not available on Android devices and YouView. Not all content available on catch up or live channels. For content we cannot show on live channels see  <a href="http://help.nowtv.com/HelpArticle?id=kA1G0000000Cum3&amp;topicKey=All&amp;selectedTopicKey=">nowtv.com/slating</a></p></div><div class="legal-column"><p><span class="underline">NOW TV Box:</span>&nbsp;Connects to TV via HDMI (cable supplied). BBC iPlayer, Demand 5 and 4OD apps offer a wide selection of the catch up content available on the BBC/Channel 5/4OD websites. A Spotify Premium account is required to use the Spotify application on the NOW TV Box.</p>
+<p><span class="underline">General:</span> 18+. UK Only. Content streamed. Requires broadband/3G (charges may apply). Register up to four compatible devices, and watch on two at the same time. Device changes limited to one per month. Some content unavailable on live channels and/or some devices. Xbox® Gold Live needed to use NOW TV on Xbox® 360. NOW TV available on compatible Roku LT and XS boxes only. HDMI cable required for higher quality viewing. You will need to create a Roku UK account to use NOW TV with Roku. See <a href="http://community.nowtv.com/t5/NOW-TV-news-and-information/NOW-TV-Device-FAQs/td-p/51688">here</a> for device compatibility requirements. For content/device restrictions read the FAQs. Full terms of service <a href="http://www.nowtv.com/terms" class="terms-footer-link">here</a>. (Updated in October 2013 for Entertainment Month Pass.)</p></div></small></div>
         </footer>
     </div>
 
     <script type="text/javascript">
-    var SKY_TRACKING = {
+    NOWTV.SKY_TRACKING = {
         
-        site: 'sky/portal/nowtv',
+        
+        site: 'nowtv',
         section: 'privacy_policy',
-        browseMethod: 'web',
         account: 'bskybwebpopcorn,bskybnetworkglobal',
-        orderId: '',
-        events: ''
+        customEvents: [
+                
+        ],
+        customVariables: [
+            
+            
+            { 'customerType': { eVar: 23 } }
+        ]
     };
+
 </script>
+
+    <script type="text/javascript">
+    try {
+        analytics.trackPage(NOWTV.SKY_TRACKING);
+    } catch(err) {
+        NOWTV.pubsub.publish(NOWTV.pubsub.ERROR, { name: err.message, message: err.stack });
+    }
+</script>
+
+
 
     <script type="text/html" id="customerDetailsErrorOverlayTmpl"><div id="customerDetailsErrorMessage" class="modal-dialog">
 
@@ -568,47 +613,41 @@
     <p>Please enter your 4 digit payment PIN.</p>
 
     <form action="" method="post" name="paymentPin">
-        <fieldset id="">
-    <legend></legend>
-    <div id="paymentRow" class="row">
-    <label for="payment" class="label"></label>
-    <input type="tel" maxlength="4" pattern="[0-9]{1}" min="0" max="9" class="pin" name="pin" id="pin" autocomplete="off" />
-</div>
-</fieldset>
-
-        <input type="hidden" type="submit" value="Save Pin"/>
+        <fieldset>
+            {{>pinEntry pinEntryModel}}
+        </fieldset>
     </form>
 
-    <a class="forgotten-pwd" href="https://www.nowtv.com/account/resetpaymentpin?returnUrl=http%3A%2F%2Fwww.nowtv.com%2Fprivacy"><span>Forgotten your PIN?</span></a>
+    <a class="forgotten-pwd"><span>Forgotten your PIN?</span></a>
+    <a class="forgotten-pwd-syndicated-player" target="_blank"><span>Forgotten your PIN?</span></a>
 </div>
 </script>
     <script type="text/html" id="moviesSummaryOverlayTmpl"><div id="purchaseSubscription" class="prompt-overlay purchase-subscription">
     <p>Your order:</p>
     <h1 class="purchase">SKY MOVIES PASS</h1>
 
-    <p>&pound;8.99 a month for 3 months</p>
+    <p>&pound;8.99 a month.</p>
 
-    <p class="purchase-price">Please confirm your purchase - payment will be taken as soon as you<br /> click "Renew Subscription"</p>
+    <p class="purchase-price">Please confirm your purchase - payment will be taken as soon as you<br /> click "Buy Month Pass"</p>
     <p>You can manage your subscription in My Account once signed in.</p>
 
-    <a href="http://www.nowtv.com/terms" class="terms" target="_blank">Terms &amp; Conditions apply</a>
+    <a href="{{ termsUrl }}" class="terms" target="_blank">Terms &amp; Conditions apply</a>
 
     <div class="overlay-actions">
         <button class="btn" id="cancel" title="Cancel">Cancel</button>
         <button class="btn" id="voucher" title="Apply a voucher">Apply a voucher</button>
-        <button class="btn" id="confirm" title="Start Now">Renew Subscription</button>
+        <button class="btn" id="confirm" title="Buy Month Pass">Buy Month Pass</button>
     </div>
-
 </div></script>
     <script type="text/html" id="moviesSummaryFreeTrialOverlayTmpl"><div id="moviesFreeTrialSubscription" class="prompt-overlay purchase-subscription">
     <p>Your order:</p>
     <h1 class="purchase">SKY MOVIES PASS</h1>
 
-    <p class="purchase-price">30 day free trial then &pound;8.99  a month for 3 months</p>
+    <p class="purchase-price">30 day free trial then &pound;8.99 a month.</p>
     <p>Start watching more of the latest and biggest movies 12 months before Netflix or Lovefilm Instant</p>
     <p>Click "Start Now" to start your 30 day free trial.</p>
 
-    <p><a href="http://www.nowtv.com/terms" class="terms" target="_blank">Terms &amp; Conditions apply</a></p>
+    <p><a href="{{ termsUrl }}" class="terms" target="_blank">Terms &amp; Conditions apply</a></p>
 
     <div class="overlay-actions">
         <button class="btn" id="cancel" title="Cancel">Cancel</button>
@@ -620,35 +659,40 @@
     <p>Your order:</p>
     <h1 class="purchase">ENTERTAINMENT MONTH PASS</h1>
 
-    <p>&pound;0.00 a month</p>
+    <p>&pound;4.99 a month introductory price</p>
 
-    <p class="purchase-price">Please confirm your purchase - payment will be taken as soon as you<br /> click "Renew Subscription"</p>
-    <p>You can manage your subscription in My Account once signed in.</p>
+    <p class="purchase-price">Click "Buy Now" to purchase your Entertainment Month Pass</p>
 
-    <a href="http://www.nowtv.com/terms" class="terms" target="_blank">Terms &amp; Conditions apply</a>
+    <a href="{{ termsUrl }}" class="terms" target="_blank">Terms &amp; Conditions apply</a>
 
     <div class="overlay-actions">
         <button class="btn" id="cancel" title="Cancel">Cancel</button>
         <button class="btn" id="voucher" title="Apply a voucher">Apply a voucher</button>
-        <button class="btn" id="confirm" title="Start Now">Renew Subscription</button>
+        <button class="btn" id="confirm" title="Buy Now">Buy Now</button>
     </div>
+
+    <p class="footer">Please note: The Entertainment Month Pass is currently not available on Android devices and YouView.</p>
 
 </div>
 </script>
-    <script type="text/html" id="entertainmentSummaryFreeTrialOverlayTmpl"><div id="entertainmentFreeTrialSubscription" class="prompt-overlay purchase-subscription">
+    <script type="text/html" id="entertainmentSummaryRenewalOverlayTmpl"><div id="purchaseSubscription" class="prompt-overlay purchase-subscription">
     <p>Your order:</p>
     <h1 class="purchase">ENTERTAINMENT MONTH PASS</h1>
 
-    <p class="purchase-price">30 day free trial then &pound;0.00  a month</p>
-    <p>Click "Start Now" to start your 30 day free trial.</p>
+    <p>&pound;4.99 a month introductory price</p>
 
-    <p><a href="http://www.nowtv.com/terms" class="terms" target="_blank">Terms &amp; Conditions apply</a></p>
+    <p class="purchase-price">Click "Buy Month Pass" to purchase your Entertainment Month Pass</p>
+
+    <a href="{{ termsUrl }}" class="terms" target="_blank">Terms &amp; Conditions apply</a>
 
     <div class="overlay-actions">
         <button class="btn" id="cancel" title="Cancel">Cancel</button>
         <button class="btn" id="voucher" title="Apply a voucher">Apply a voucher</button>
-        <button class="btn" id="confirm" title="Start Now">Start Now</button>
+        <button class="btn" id="confirm" title="Buy Month Pass">Buy Month Pass</button>
     </div>
+
+    <p class="footer">Please note: The Entertainment Month Pass is currently not available on Android devices and YouView.</p>
+
 </div>
 </script>
     <script type="text/html" id="moviesVoucherEntryTmpl"><div id="voucherEntry" class="prompt-overlay purchase-subscription">
@@ -718,74 +762,26 @@
     </div>
 </div>
 </script>
+    <script type="text/html" id="pinEntryPartialTmpl"><div id="{{ id }}Row" class="row {{rowClassname}}">
+    <label for="{{id}}" class="label">{{label}}</label>
+    <input type="tel" maxlength="4" pattern="[0-9]{1}" min="0" max="9" class="pin" name="{{name}}" id="{{id}}"
+           autocomplete="off"/>
+</div>
+</script>
 
     
 
-    <script src="/static/vINf1FnUNsVRFhpALHX4RSFcTGYEK2LTwg2vjtbpnMg.js" type="text/javascript"></script>
+    <script src="/assets/base-defer-ae1748fa5b00bb0a1bc451af76b8a648.js" type="text/javascript"></script>
+    <script>
+    window.optimizely = {
+        push: function () {}
+    };
+</script>
 
+    
+        <script src="//cdn.optimizely.com/js/562540257.js"></script>
+    
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script src="/static/T08H1SF1HQvptOjOyr12Cfv84ct3puxTVEgLfi0CoxO.js" type="text/javascript"></script>
 
     
 
