@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the games2win.com privacy policy that was archived on 2013-09-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130917205621id_/http%3A//www.games2win.com/corporate/privacy-policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the games2win.com privacy policy that was archived on 2014-03-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331185212id_/http%3A//www.games2win.com/corporate/privacy-policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy - Games2win.com - Play Free Games Online</title>
@@ -9,10 +9,10 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 
 <meta name="msapplication-starturl" content="/index.asp?utm_source=pin-feature&amp;utm_medium=web&amp;utm_content=site-start&amp;utm_campaign=ie9">
-<link href="http://cdn.adoption.games2win.com/cssv4/globe_v2.css?v=20130911" rel="stylesheet" type="text/css">
-<link href="http://cdn.adoption.games2win.com/cssv4/corporate.css?v=20130911" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
-<script language="javascript" type="text/javascript" src="http://cdn.adoption.games2win.com/scriptsv4/globe.js?v=20130613"></script>
+<link href="http://cdn.adoption.games2win.com/cssv4/globe_v2.css?v=20140121" rel="stylesheet" type="text/css">
+<link href="http://cdn.adoption.games2win.com/cssv4/corporate.css?v=20140114" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+<script language="javascript" type="text/javascript" src="http://cdn.adoption.games2win.com/scriptsv4/globe.js?v=20140114"></script>
 <script src="http://cdn.adoption.games2win.com/scriptsv4/common_jq.js" language="javascript" type="text/javascript"></script>
 <script src="http://www.google.com/jsapi"></script>
 
@@ -83,8 +83,70 @@ function showselectbox()
 		$("#contentLYR").css("display","block");
 	}
 }
-</script>
 
+
+function lessMore() {
+/*********new styling jquery**********/
+	if(document.getElementById("bottm_menu").style.display == 'none'){
+			$("#bottm_menu").toggle();
+			$("#header").css("height","200px");
+			$("#topNav").css("height","50px");
+			$("#links").css("height","50px");
+			$("#nav").css("height","76px");
+			$("#down-arrow").toggle();
+			$("#up-arrow").toggle();
+		}
+		else
+		{
+			$("#bottm_menu").toggle();
+			$("#header").css("height","180px");
+			$("#topNav").css("height","25px");
+			$("#links").css("height","25px");
+			$("#nav").css("height","51px");
+			$("#down-arrow").toggle();
+			$("#up-arrow").toggle();
+		}
+/*******new styling jquery end********/
+	}
+</script>
+<script>
+	function showHide(shID) {
+		if (document.getElementById(shID)) {
+			if (document.getElementById(shID+'-show').style.display != 'none') {
+				document.getElementById(shID+'-show').style.display = 'none';
+				document.getElementById(shID).style.display = 'block';
+			}
+			else {
+				document.getElementById(shID+'-show').style.display = 'inline';
+				document.getElementById(shID).style.display = 'none';
+			}
+		}
+	}
+	</script>
+	<!--[if IE 7]> 
+<style>
+.navie7 {  
+  margin-left: -90px;
+}
+
+#more-link {
+	text-align:center;
+	padding-bottom:7px;
+	padding-top:400px;
+}
+#more {
+	position:absolute;
+	margin-top:-2px;
+	margin-left: 20px;
+}
+.blueBoldTxt
+{
+width:200px;
+}
+.pad10{padding-top:25px;padding-bottom:10px;padding-left:10px;padding-right:10px;}
+
+</style>
+<![endif]-->
 <!-- PUT THIS TAG IN THE head SECTION -->
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
@@ -194,8 +256,8 @@ pageTracker._trackEvent("Bookmark", "Clicked");
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
   
 </script>
@@ -234,10 +296,10 @@ pageTracker._trackEvent("Bookmark", "Clicked");
 				<div id="mainTab">
 				  <ul>
 				    <li><a href="/en/" onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','all games']);" class="selected">All Games</a></li>
-					<li style="width:98px;"><a onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','iphone']);" href="/en/iphone/iphone-apps.asp"><div style="float:left"><img src="http://cdn.adoption.games2win.com/imagesv3/socialshare-btn/apple.png" style="margin-top: 2px; margin-left: 3px; margin-bottom: 0px;"></div>iOS Apps</a></li>
-	<li style="width:106px;"><a href="/en/android/android-apps.asp" onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','android']);"><div style="float:left"><img style="margin-top: 2px; margin-left: 3px; margin-bottom: 0px;" src="http://cdn.adoption.games2win.com/imagesv3/socialshare-btn/android.png"></div>Android Apps</a></li>
-	<li style="width:114px;"><a onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Amazon']);" href="/en/amazon/amazon-apps.asp"><div style="float:left"><img src="http://cdn.adoption.games2win.com/imagesv3/socialshare-btn/kindle.png" style="margin-top: 2px; margin-left: 3px; margin-bottom: 0px;"></div>Amazon Apps</a></li>		
-	<li style="width:112px;"><a href="/en/chimpoo/" onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','virtual world']);">Kids Virtual World</a></li>
+					<li style="width:98px; height: 15px;"><a onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','iphone']);" style="height: 20px;" href="/en/iphone/iphone-apps.asp"><div style="float:left"><img src="http://cdn.adoption.games2win.com/imagesv3/socialshare-btn/apple.png" style="margin-top: 2px; margin-left: 3px; margin-bottom: 0px;"></div>iOS Apps</a></li>
+	<li style="width:106px; height: 15px;"><a href="/en/android/android-apps.asp" onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','android']);" style="height: 20px;"><div style="float:left"><img style="margin-top: 2px; margin-left: 3px; margin-bottom: 0px;" src="http://cdn.adoption.games2win.com/imagesv3/socialshare-btn/android.png"></div>Android Apps</a></li>
+	<li style="width:114px; height: 15px;"><a onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Amazon']);" style="height: 20px;" href="/en/amazon/amazon-apps.asp"><div style="float:left"><img src="http://cdn.adoption.games2win.com/imagesv3/socialshare-btn/kindle.png" style="margin-top: 2px; margin-left: 3px; margin-bottom: 0px;"></div>Amazon Apps</a></li>		
+	<li style="width:112px; height: 15px;"><a href="/en/chimpoo/" onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','virtual world']);" style="height: 20px;">Kids Virtual World</a></li>
 			      </ul>
 			    </div>
 				
@@ -1197,28 +1259,51 @@ rss help tool tip
 			</div>
 			
 			
-<div id="topNav">
-	<div id="links">
-	  <ul>
-		<li><a onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Popular']);" href="/en/popular-games.asp">Popular</a></li>
-		<li><a onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Romance']);" href="/en/romance-games.asp">Romance</a></li>
-		<li><a onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Naughty']);" href="/en/naughty-games.asp">Naughty</a></li>
-		<li><a onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Funny']);" href="/en/funny-games.asp">Funny</a></li>	
-		<li><a onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Naughty-City']);" href="/en/naughty-city-games.asp">Naughty City</a></li>
-		<li><a onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Naughy-Boulevard']);" href="/en/naughty-boulevard-games.asp">Naughty Boulevard</a></li>
-		<li><a onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Dress-Up']);" href="/en/dress-up-games.asp">Dress Up</a></li>
-		<li><a onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Make-Up']);" href="/en/make-up-games.asp">Make Up</a></li>
-		<li><a onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Arcade']);" href="/en/arcade-games.asp">Arcade</a></li>
-		<li><a onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Escape']);" href="/en/escape-games.asp">Escape</a></li>
-		<li><a onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Boys']);" href="/en/boys-games.asp">Boys</a></li>
-		<li><a onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Indian']);" href="/en/indian-games.asp">Indian</a></li>
-		<li><a onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Kids']);" href="/en/kids-games.asp">Kids</a></li>
-		<li><a onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Cricket']);" href="/en/cricket-games.asp">Cricket</a></li>
+<div id="topNav" style="height: 50px;">
+	<div id="links" style="height: 50px;">
+	
+
+	
+
+	   <ul id="top_menu">
+		<li><a href="/en/popular-games.asp" onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Popular']);">Popular</a></li>
+		<li><a href="/en/indian-games.asp" onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Indian']);">Indian</a></li>
+		<li><a href="/en/cricket-games.asp" onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Cricket']);">Cricket</a></li>
+		<li><a href="/en/boys-games.asp" onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Boys']);">Boys</a></li>
+		<li><a href="/en/romance-games.asp" onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Romance']);">Romance</a></li>
+		<li><a href="/en/tycoon-games.asp" onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','tycoon']);">Tycoon</a></li>
+		<li><a href="/en/naughty-games.asp" onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Naughty']);">Naughty</a></li>
+		<li><a href="/en/funny-games.asp" onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Funny']);">Funny</a></li>
 		
-			
+		
+		<li style="width:177px; background:none repeat scroll 0 0 transparent;" class="last_list"><a href="/en/dress-up-games.asp" onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Dress-Up']);" class="navie7">Dress Up</a>
+		 
+		<a onclick="lessMore()" id="more" style="float: right; cursor:pointer;"><img style="margin-right: 3px; display: inline;" id="up-arrow" alt="click" onclick=" _gaq.push(['_trackEvent', 'Clicks on Navigation Arrow', 'Up']);" src="http://cdn.adoption.games2win.com/imagesv3/up_arrow.png"><img style="margin-right: 3px; display: none;" id="down-arrow" alt="click" onclick=" _gaq.push(['_trackEvent', 'Clicks on Navigation Arrow', 'Down']);" src="http://cdn.adoption.games2win.com/imagesv3/down_arrow.png"></a></li>
+		
+		
+		  </ul>
+		<ul id="bottm_menu">
+		<li><a href="/en/make-up-games.asp" onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Make-Up']);">Make Up</a></li>	
+		
+		<li><a href="/en/kissing-games.asp" onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','kissing']);">Kissing</a></li>
+		<li><a href="/en/escape-games.asp" onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Escape']);">Escape</a></li>
+		
+		
+		 <li><a href="/en/arcade-games.asp" onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Arcade']);">Arcade</a></li>
+		 
+		 
+		<li><a href="/en/naughty-city-games.asp" onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Naughty-City']);">Naughty City</a></li>
+
+       <li><a href="/en/car-games.asp" onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Car']);">Car</a></li>
+		<li><a href="/en/puzzle-games.asp" onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Puzzle']);">Puzzle</a> </li>
+		<li style="width: 150px;"><a href="/en/naughty-boulevard-games.asp" onclick="javascript:_gaq.push(['_trackEvent','Top Navigation','Naughy-Boulevard']);">Naughty Boulevard</a></li>
+		
 		</ul>
+
+	
+	
 	</div>
-	</div>
+</div>
 
 		</div></div>
 <!-- End of Header --><script type="text/javascript">
@@ -1270,14 +1355,18 @@ Corporate Sections</h2></div>
     <p>We also cannot warrant the security of the information, which you transmit to us.</p>
     <p>We categorise information about you (collectively referred to as "Personal Information") as follows:</p>
     <ul>
-<li><strong>Profiling Information:</strong> Information which you provide when you Subscribe or register for a Service
+	
+<li><strong>Profiling Information:</strong>
 <div class="list">
+<p>(i) Information which you provide when you Subscribe or register for a Service: </p>
 <ul>
 <li>Information   about your personal identity such as gender, age, etc.; </li>
 <li>Your financial information such as your banking details and any information relating to your income and lifestyle levels (if requested and provided); and</li>
 <li>Your contact details such as your physical addresses, postal addresses, telephone, mobile and fax numbers and the like (if requested and provided).</li>
 <li>Payment and Account Information: Your account history with us including (without limitation) all billing information and communications, payment history, etc (if requested and provided). We maintain this in encrypted form on secure servers</li>
 </ul>
+<p>(ii) Information from Google's Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics:
+- We use Google Analytics tracking code to track our site's traffic. This code also supports Display Advertising. The Google Analytics features include Google Analytics Demographics and Interest Reporting that we have implemented based on Display Advertising.</p>
 </div> </li>
 
   <li><strong>Service Usage:</strong> Information about your navigation using our Services, for example the URLs of websites, which you visit and from which you request downloads.</li>
@@ -1336,8 +1425,9 @@ Corporate Sections</h2></div>
   <p>Such interception, disclosure, monitoring and storage may take place without your knowledge. In that case, we will not be liable to you or any third party for any damages howsoever arising from such interception, disclosure, monitoring and storage.</p>
   <p> In order to ensure that all our Users comply with the <a href="/corporate/rules.asp">User Rules</a>, we may monitor your Personal Information to the extent that this may be required to determine compliance and/or to identify instances of non-compliance.    </p>
   <p><strong>To ensure that the security and integrity of our Services are safeguarded, we may monitor your Personal Information. This monitoring may include (without limitation) the filtering of incoming and outgoing electronic data messages to identify, limit and/or prevent the transmission of spam, viruses and/or unlawful, defamatory, obscene or otherwise undesirable material or content.</strong></p>
-  <p>We may under certain circumstances procure an element of the Services from a third party service provider; for example we may use third party advertising companies to serve advertisements when you visit our Website. To the extent that it may be necessary, and solely for the purposes of providing the Service to you, you agree that we may disclose to such third party any of your Personal Information that may be necessary for the procurement of services from the third party. These companies may also use information (not including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you. More information about this practice and your choices about not having this information used by these companies would be available with the respective third parties. Also, you can visit the following URLs for information on how to opt-out of the use of such technologies for the delivery of more relevant advertising.<br>
-  <a href="http://www.networkadvertising.org/choices" target="_blank">http://www.networkadvertising.org/choices</a><br>
+  <p>We may under certain circumstances procure an element of the Services from a third party service provider; for example we may use third party advertising companies to serve advertisements when you visit our Website. To the extent that it may be necessary, and solely for the purposes of providing the Service to you, you agree that we may disclose to such third party any of your Personal Information that may be necessary for the procurement of services from the third party. These companies may also use information (not including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you. More information about this practice and your choices about not having this information used by these companies would be available with the respective third parties. Also, you can visit <a href="http://www.networkadvertising.org/choices/" target="_blank">http://www.networkadvertising.org/choices</a> for information on how to opt-out of the use of such technologies for the delivery of more relevant advertising.<br>
+  <br>
+  Using the Google Ads Settings <a href="https://www.google.com/settings/ads">https://www.google.com/settings/ads</a>, you can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. You can also opt-out by downloading and installing the Google Analytics Opt-out Browser Add-on <a href="https://tools.google.com/dlpage/gaoptout/">https://tools.google.com/dlpage/gaoptout/ </a> for your web browser.
   </p><p>In addition to the general limitations in the above terms, we will not be liable to you or any other third party for any damages suffered by you or any other third party howsoever arising from the disclosure of your Personal Information. Your only remedy under such circumstances will be to end this agreement. </p>
   </div>
 </div>
@@ -1381,18 +1471,21 @@ Corporate Sections</h2></div>
 
 	
 		
-		<a href="/en/popular-games.asp">Popular&nbsp;Games</a> |
-		<a href="/en/romance-games.asp">Romance&nbsp;Games</a> |
-		<a href="/en/naughty-games.asp">Naughty&nbsp;Games</a> |
-		<a href="/en/funny-games.asp">Funny&nbsp;Games</a> |	
-		<a href="/en/dress-up-games.asp">Dress Up&nbsp;Games</a> |
-		<a href="/en/make-up-games.asp">Make Up&nbsp;Games</a> |
-		<a href="/en/arcade-games.asp">Arcade&nbsp;Games</a> |
-		<a href="/en/escape-games.asp">Escape&nbsp;Games</a> |
-		<a href="/en/boys-games.asp">Boys&nbsp;Games</a> |
-		<a href="/en/indian-games.asp">Indian&nbsp;Games</a> |
-		<a href="/en/kids-games.asp">Kids&nbsp;Games</a> |
-		<a href="/en/cricket-games.asp">Cricket&nbsp;Games</a>
+		<a href="/en/popular-games.asp">Popular</a> |
+		<a href="/en/romance-games.asp">Romance</a> |
+		<a href="/en/tycoon-games.asp">Tycoon</a> |
+		<a href="/en/naughty-games.asp">Naughty</a> |
+		<a href="/en/funny-games.asp">Funny</a> |
+		<a href="/en/puzzle-games.asp">Puzzle</a> |		
+		<a href="/en/dress-up-games.asp">Dress Up</a> |
+		<a href="/en/make-up-games.asp">Make Up</a> |
+		<a href="/en/escape-games.asp">Escape</a> |
+		<a href="/en/kissing-games.asp">Kissing</a> |
+		<a href="/en/arcade-games.asp">Arcade</a> |
+		<a href="/en/boys-games.asp">Boys</a> |
+		<a href="/en/car-games.asp">Car</a> |
+		<a href="/en/indian-games.asp">Indian</a> |
+		<a href="/en/cricket-games.asp">Cricket</a>
 		
 	
 	
@@ -1415,7 +1508,7 @@ Corporate Sections</h2></div>
   </div>
 				</div>
 				
-				<img src="http://www.games2win.com/g2wcookies.asp?referer=index1&amp;day=18" height="1" width="1" border="0">
+				<img src="http://www.games2win.com/g2wcookies.asp?referer=index1&amp;day=1" height="1" width="1" border="0">
 				
 				<script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
