@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picollecta.com privacy policy that was archived on 2013-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130315012828id_/http%3A//www.picollecta.com/page/Privacy-Policy-4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picollecta.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331025906id_/https%3A//www.picollecta.com/page/Privacy-Policy-4) for the most accurate reproduction.*
 
 # Privacy Policy | Picollecta
 
@@ -51,6 +51,8 @@ Part of our Service requires us to use technological tools including, but not li
 5.2 All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
 5.3 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+5.4 We do not store credit card details nor do we share customer details with any 3rd parties. 
 
 **6 Uses Made Of The Information: **
 
