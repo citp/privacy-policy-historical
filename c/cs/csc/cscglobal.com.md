@@ -1,183 +1,244 @@
-> *The following text is extracted and transformed from the cscglobal.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508125842id_/https%3A//www.cscglobal.com/global/web/csc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cscglobal.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331132149id_/https%3A//www.cscglobal.com/global/web/csc/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy U.S. | Corporation Service Company
 
-At Corporation Service Company, we value your relationship and honor your trust. As a result, you can rely on us to respect and help protect your personal and company-related data.
+###  Corporation Service Company Privacy Statement
 
-  * We respect your privacy. We will not sell your personal information to third parties for marketing or other purposes.
-  * We secure your data. We employ strict security standards and safeguards to help protect your personal information and prevent fraud.
-  * We offer continued protection. We protect your personal information, whether you are a current or former customer.
-  * View our [U.S. Safe Harbor Compliance Statement for Data Privacy](https://web.archive.org/web/20130508125842id_/https%3A//www.cscglobal.com/global/web/csc/safe-harbor.html).
-
-
+At Corporation Service Company ("we" or "CSC"), we value your relationship and respect your trust. As a result, we have chosen to comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. CSC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Corporation Service Company's certification, please visit [safeharbor.export.gov](https://safeharbor.export.gov/list.aspx)
 
 ###  About this Privacy Statement
 
-Our Privacy Statement explains how we handle and protect your personal and company data, how we gather this data, and how we manage this data to serve you. We may change this Statement from time to time as the need arises to accurately reflect how we gather and manage your data. All changes to this Statement will be effective upon posting to this web site without any other notice to you.
+This Privacy Statement explains how we handle and protect your personal and company data, how we gather this data, and how we manage this data to serve you. We may change this Statement from time to time as the need arises to accurately reflect how we gather and manage your data.
 
-###  Scope of this Privacy Statement
+All changes to this Statement will be effective upon posting to this website without any other notice to you. Use of the website following such changes constitutes your acceptance of the revised Privacy Statement then in effect. We encourage you to frequently visit this Privacy Statement for modifications. This Statement is effective as of December 1, 2013.
 
-The scope of this privacy statement includes this website and its various applications.
+1\. **Personal Data**
 
-###  What Information We Collect, and Why
+Personal data, where used in this Privacy Statement shall mean any information concerning personal or material circumstances of an identified or identifiable natural person, such as your name, your telephone number or your email address.
 
-We may collect the following types of information from you at this web site:
+2\. **Scope of this Privacy Statement**
 
-###  INFORMATION PROVIDED BY YOU
+This Privacy Statement applies to personal data submitted to us through this website and its various applications.
 
-If you use this web site or its various applications, you may be required to provide the following information as part of registration: first name, last name, company name, title, address, city, state, zip, telephone, email address, preferred method of contact (email, phone, postal), account number, service and product interest information, and intended use of services or products by user. In addition, you may choose to provide additional information relating to yourself or your companies to take advantage of different services available on this web site.
+3\. **Administration of this Privacy Statement**
 
-###  LOG FILES
+Any questions or concerns about the interpretation or operation of this Statement or about what may or may not be done with regard to personal information should be directed in the first instance to our legal department, which can be contacted at +1 (302) 636-5400.
 
-We also periodically gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp and click-stream data.
+4\. **What Information We Collect, and Why**
 
-###  COOKIES INFO
+The information we collect from you at this website may include the following: your name, gender, home and work contact details, business title, email address, IP address, telephone number, date of birth, country in which you reside payment information, purchase history and your reviews and opinions about our products and services.
+
+4.1. **Information Provided By You**
+
+If you use this website or its various applications, you may be required to provide the following information as part of registration: first name, last name, company name, title, address, city, state, zip, telephone, email address, preferred method of contact (email, phone, postal), account number, service and product interest information, and intended use of services or products. In addition, you may choose to provide additional information relating to yourself or your companies to take advantage of different services available on this website.
+
+We generally do not require you to provide sensitive personal data, such as that which reveals race, national origin political opinions, religion or philosophical beliefs, or trade union membership or that reveals criminal convictions, health, marital status, or sexual orientation, preference or activities. However, if it becomes necessary for us to collect such information, we may provide the opportunity to affirmatively and explicitly consent to the processing and disclosure of such sensitive data.
+
+4.2. **Log Files**
+
+We also periodically gather certain information automatically and store it in log files. This information includes browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp and click-stream data.
+
+4.3. **Cookies**
 
 Corporation Service Company is committed to transparency when it comes to the technologies we use, and we've outlined below how we use cookies when you visit our website.
 
-###  What is a cookie?
+4.3.1. **What are a cookies?**
 
-A cookie is a snippet of text that a website asks your browser to store. All cookies have expiration dates that determine how long they stay in your browser. Cookies can be removed from your browser in two ways: automatically (when they expire), or when you manually delete them. We've included more details below to help you understand what kinds of cookies we use.
+Cookies are small pieces of code which are issued to your device when you visit a website and which store and sometimes track information about your use of our site. We use cookies to elevate your user experience and the quality of our site and service. When you enter our site our web server sends a cookie to your computer which allows us to recognize your computer.
 
-###  Does Corporation Service Company use cookies?
+By using our site, you consent to our cookie settings and agree that you understand our cookie policy, which explains how you can manage your cookie choices and preferences. Please be aware that restricting cookies will impact your user experience and may prevent you from using part of our website.
 
-Yes, with the primary goal of making our website work more effectively.
+Cookies can be removed from your browser in two ways: automatically (when they expire), or when you manually delete them. We've included more details below to help you understand what kinds of cookies we use and how you can manage them.
 
-###  What kinds of cookies does Corporation Service Company use and why?
+4.3.2. **Why does Corporation Service Company use cookies?**
 
-We use different kinds of cookies for various reasons:
+Corporation Service Company's primary reason for using cookies is to make our website work more effectively.
 
-  * **Session cookies:** These temporary cookies expire and are automatically erased whenever you close your browser. We use session cookies to grant our customers access to content and to enable commenting—actions they must be logged in to do.
-  * **Persistent cookies:** These usually have an expiration date in the distant future and remain in your browser until they expire or you manually delete them. We use persistent cookies to better understand usage patterns so we can improve the site for our customers. We use a persistent cookie to remember that you closed the banner, but this only works when cookies on our site are enabled.
+4.3.3. **What kinds of cookies does Corporation Service Company use and why?**
 
-
-
-###  What other cookies might I encounter on the CSC website?
-
-There are also limited third-party cookies on the site. In keeping with our policies, these session or persistent cookies are set only by trusted partners of Corporation Service Company. For example, we currently allow:
-
-  * **Audience measurement and validation** – We use services including Omniture and Google Analytics to understand usage patterns at our website. No personally identifiable information (PII) is stored and site usage is always analyzed on an aggregate (and anonymous) basis.
-  * **Authentication** – We allow the [Better Business Bureau](https://www.bbb.org/delaware/business-reviews/incorporating-companies/corporation-service-company-in-wilmington-de-32001200/#bbbonlineclick) to verify that Corporation Service Company is a partner in good standing and authorized to display the BBB seal. A cookie is required for this purpose.
+  * Session cookies: These temporary cookies expire and are automatically erased whenever you close your browser. We use session cookies to grant our customers access to content and to enable commenting.
+  * Persistent cookies: These usually have an expiration date in the distant future and remain in your browser until they expire or you manually delete them. Persistent cookies may be used for a variety of purposes including remembering our users' preferences and choices when using our site or to target advertising.
+  * First- and third-party cookies: Whether a cookie is ‘first' or ‘third' party refers to the website or domain placing the cookie. In basic terms, first-party cookies are set by a website visited by the user - the website displayed in the URL window. Third-party cookies are cookies that are set by a domain, such as google.com, other than the one being visited by the user. If a user visits a website and a separate company sets a cookie through that website this would be a third-party cookie.
+  * Remarketing: Corporation Service Company uses remarketing. Placing a remarketing tag on our website can help us reach visitors who have previously visited our website as they visit other sites on the Google Display Network or search on Google. Using remarketing, messages will be shown to these visitors tailored on which sections of our site they visited. The remarketing tag uses third-party cookies from the Google Display Network. Visitors can opt-out of Google's use of cookies by visiting [Google Ads Settings](http://www.google.com/ads/preferences/?hl=en). Remarketing tags are not used on CSC's microsites such as [Cscglobal.co.uk](https://www.cscglobal.co.uk/), [cscgloblal.de](https://web.archive.org/web/20140331132149id_/https%3A//www.cscglobal.com/global/web/csc/www.cscgloblal.de), [cscglobal.es](https://web.archive.org/web/20140331132149id_/https%3A//www.cscglobal.com/global/web/csc/www.cscglobal.es) and [cscglobal.fr](https://web.archive.org/web/20140331132149id_/https%3A//www.cscglobal.com/global/web/csc/cscglobal.es).
 
 
 
-###  What kinds of cookies does Corporation Service Company not use?
+The cookies we may use on our website are:
 
-We do not use re-targeting cookies and or flash cookies (sometimes known as local shared objects or LSOs). Nor do we allow third-party advertisers to drop cookies on our site to target our users.
+Cookie |  Purpose  
+---|---  
+JSESSIONID |  This maintains session synchronization within a user's browser.  
+BIGipServer* |  This is used to keep a user's site access on the server within a cluster.  
+ObSSOCookie |  This cookie is a secure mechanism to ensure user authentication.  
+testCookie |  This is used to check whether cookies are enabled within a user's browser.  
+GUEST_LANGUAGE_ID |  This is used to recognize a user's preferred language and to ensure that that language is displayed.  
+BFP |  This maintains a log of the CSC business function programs that a user may access.  
+EID |  This remembers the email address for a logged in user.  
+UID |  This remembers the user ID for a logged in user.  
+LFR* |  This remembers the remaining Liferay session time.  
+PID |  This remembers the last CSC Dashboard tab for a logged in user.  
+QUICKLINKS |  This remembers the CSC Dashboard quick link for a logged in user.  
+logoutFeedback |  This remembers a user's ID and password if a user submits feedback after logging out.  
+Conversion Tracking |  This adds a cookie to a user's computer whenever the user clicks on an ad. The cookie tracks sales and conversions for Google paid ads.  
+Remarketing Tags |  A remarketing tag is a small snippet of code from Google AdWords that is added across all pages on cscglobal.com. This remembers site visitors and shows them targeted ads when on other sites. [Click here](https://support.google.com/adwords/answer/2454000?hl=en) for more information regarding how remarketing works. Remarketing Tags are not used on CSC's microsites (see above).  
+  
+4.3.4. **What other cookies might you encounter on the CSC website?**
 
-###  Does Corporation Service Company use any so-called "intrusive" cookies?
+We may also use third-party cookies on the site. In keeping with our policies, these session or persistent cookies are set only by trusted partners of Corporation Service Company.
 
-No. We don't use re-targeting cookies or flash cookies or any other kind of cookie that can capture personally identifiable information (PII).
+The third party cookies which we may use on our website are:
 
-###  Does Corporation Service Company use cookies to sell customer information?
+Cookie |  Purpose/further information  
+---|---  
+s_* |  This cookie is used to track site performance and usage. It is owned by Adobe Sitecatalyst.  
+Is_returning |  This cookie is used to track site performance and usage. It is owned by Crazy Egg.  
+LivePersonID/HumanClick |  This is used to monitor chat sessions and site activity. It is owned by Live Person.  
+Google Analytics  
+_utma  
+_utmb  
+_utmc  
+_utmz |  These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. For an overview of privacy at Google, see the official [Google Analytics page.](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)  
+j.maxmind.com |  This is a third-party cookie used to help us identify a users' location using a geo-location IP service.  
+DoubleClick |  Doubleclick uses cookies to improve advertising. DoubleClick uses cookie IDs to keep a log of which ads show to which browsers. DoubleClick can use the browser's cookie ID to check which DoubleClick ads have already been delivered to that particular browser. DoubleClick cookies contain no personally identifiable information.  
+  
+When you access our website, in certain jurisdictions, as required by law, you will receive a clear notice advising you that we intend to use cookies and that you must click an "I accept" box in order for cookies to be placed.
+
+If you prefer not to receive cookies through our website you can set your browser to either reject all cookies (see below), to allow only "trusted" websites to set them, or to accept only those cookies from those sites you currently use. If you access our website in Europe, you can refuse to click the "I accept" box and/or click the "I disagree" box when you are presented with a cookie notice on our homepage.
+
+When you access our website outside of Europe, our system will automatically issue cookies when you log on to our website (unless you have set your browser to reject them).
+
+4.3.5. **Cookies we do not use**
+
+We do not use flash cookies (sometimes known as local shared objects or LSOs).
+
+4.3.6. **Does Corporation Service Company use cookies to sell customer information?**
 
 No.
 
-###  How can I delete or disable cookies?
+4.3.7. **Will the site work if you disable cookies?**
 
-To learn how to delete or disable cookies, visit [www.allaboutcookies.org/manage-cookies.](http://www.allaboutcookies.org/manage-cookies/)
+You can browse our site with cookies disabled, though some interactions may not work properly.
 
-###  Will the site work if I disable cookies?
+4.3.8. **EU cookie law**
 
-You can browse our site with cookies disabled, though some interactions may not work properly. Customers who log in to our site are required to accept cookies because key components of our online services depend on them.
+If visiting from Europe, we display a banner to explain how we use cookies on our homepage so that you can consent to our placement of cookies on your browser. The banner appears until you click "I agree" or "I disagree". We place a persistent cookie on your browser to log your consent, if appropriate. Please be aware that our microsites will not display this banner as we do not utilize cookies on any of our microsites.
 
-###  Why does the message explaining cookies keep appearing?
+4.3.9. **Manage your cookies**
 
-If you close the banner and it reappears the next time you visit us, you most likely have cookies disabled. We use a persistent cookie to remember that you closed the banner, but this only works when cookies on our site are enabled. For more information on cookies, see: [http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
+There are several ways you can manage your cookie settings and preferences.
 
-###  CHILDREN'S INFORMATION
+  * Learn about cookies: <http://www.allaboutcookies.org/>
+  * Opt out of Google's use of cookies: [Ads Settings](http://www.google.com/settings/ads)
+  * [US Based:](http://www.aboutads.info/choices/)
+  * [UK Based](http://www.google.co.uk/policies/technologies/ads/)
+  * Opt out of third-party vendor's use of cookies – [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/).
+  * [DoubleClick opt-out page](https://www.google.com/settings/ads/plugin)
+  * Manage companies' cookies [(US)](http://www.aboutads.info/choices/) or [EU based:](http://www.youronlinechoices.com/uk/your-ad-choices)
+  * [Manage cookies in your web browser](http://www.google.com/policies/technologies/managing/)
 
-We do not knowingly collect information from children under the age of 13 and we do not target our websites to children under 13. If we determine that an individual under the age of 13 has submitted information to this site, we will delete that information.
 
-##  Use of Your Information
 
-###  INFORMATION INPUT BY THE USER
+4.4. **CHILDREN'S INFORMATION**
 
-The information we collect is used solely to contact you in the event that we have announcements regarding this website, the applications within this website, or other services of Corporation Service Company, or in connection with support-related activities. We do not share your personal information with any third party. If you do not wish to receive announcements regarding this website, you may opt out of receiving some or all of such communications by contacting our Technical Support staff from 8:00 a.m. to 8:00 p.m. EST, Monday through Friday, at:
+We do not knowingly collect information from children under the age of 18 and we do not target our websites to children under 18. If we determine that an individual under the age of 18 has submitted information to this site, we will delete that information.
 
-Phone: (866) 403-5272  
-Fax: (302) 636-5454
+5\. **Use of Your Personal Data**
 
-###  LOG FILES
+We may use the personal data we collect:
 
-Log files give us a general picture of who is visiting our website and which pages are viewed most often. This information is not specific to an individual viewer and is only collected to assist us in the maintenance and administration of our website. Log files are collected mainly for research purposes to see what pages are of greatest interest to current and potential clients. We do not link this automatically collected data to personally identifiable information.
+  * to provide you with information, goods and/or services which you have requested;
+  * to contact you in connection with support-related activities;
+  * to contact you in the event that we have announcements regarding this website or the applications within this website;
+  * to fulfill any other purpose for which you provided it;
+  * for billing and collection purposes;
+  * in any other way we may describe when you provide the data; and/or
+  * for any other purpose with your consent.
 
-##  Distribution of Your Information
 
-Corporation Service Company does not sell or offer your personally identifiable information to third parties for marketing or other purposes. In some instances, we may be asked to disclose certain information pursuant to a court order, subpoena, search warrant or law enforcement request.
 
-###  Other Websites
+We may also use your data to contact you about our own goods and services that may be of interest to you. If you do not want us to use your information in this way or any of the ways described above, please (i) contact us at the address below, (ii) check the relevant box or ensure the relevant box is checked on the form on which we collect your data for this purpose, or (iii) follow the unsubscribe instructions in the email or other communication you have received.
 
-Some affiliates of Corporation Service Company have their own websites with their own unique privacy statements, tailored to the services they provide. We encourage you to read those privacy statements carefully when you visit those affiliated sites.
+5.1. **LOG FILES**
 
-For your convenience, our website may contain links to websites that are owned or operated by third parties not affiliated with Corporation Service Company. We can make no promises or guarantees regarding data collection or privacy practices on websites that are not owned or operated by CSC. We strongly suggest that you review such third parties' privacy policies before providing any data to them. These other sites may send their own cookies to users, collect data, or solicit personally identifiable information. You should contact these entities directly if you have any questions about their use of the information that they collect.
+Log files give us a general picture of who is visiting our website and which pages are viewed most often. This information is not specific to an individual viewer and is only collected to assist us in the maintenance, administration and improvement of our website. Log files are collected mainly for research purposes to see what pages, services and information are of greatest interest to current and potential clients. We do not link this automatically collected data to personal data.
 
-###  Steps We Take to Ensure your Privacy
+6\. **Disclosure and Transfer of Your Information**
 
-The security of your personal information is important to us. We use generally accepted, industry standard tools and techniques to ensure the privacy of your information. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially reasonable means to protect your personal information, we cannot guarantee its absolute security.
+In some instances, we may be asked to disclose certain personal data pursuant to a court order, subpoena, search warrant or law enforcement request or to protect the rights, property or safety of our company, our customers, our employees or others. We may also disclose your information in order to enforce our terms of use or to protect the rights or property and/or the personal safety of (in each case) us, our staff and customers. In addition, we may disclose your information in order to permit us to pursue available remedies or limit the damages that we may sustain, to respond to an emergency and/or in the event that we sell (or propose to sell) any property, business or assets, we may disclose your information to the prospective buyer.
 
-###  Infrastructure Security
+6.1. **CORPORATION SERVICE COMPANY AFFILIATES AND SERVICE PROVIDERS**
 
-We secure the infrastructure that supports information collection, exchange and storage/retrieval at the following levels:
+We may disclose your personal data on a need to know basis to any member of our company group. Some affiliates of Corporation Service Company have their own websites with their own unique privacy statements, tailored to the services they provide. We encourage you to read those privacy statements carefully when you visit those affiliated sites.
 
-###  PERIMETER SECURITY
+From time to time, we may engage our affiliated entities or other carefully selected third parties to provide services on our behalf, in particular to collect, process and use your personal data on our behalf. We may disclose your information to such service providers compliant with applicable data protection law and provided that they agree to use your information only for the purposes of providing services to us.
+
+6.2. **TRANSFERS OVERSEAS**
+
+The personal data we receive will be held on our computers and systems in the United States and may be accessed by or given to our staff, one of our affiliates or carefully selected suppliers working in the United States or otherwise outside the European Union. By submitting your information to us, you agree to this transfer, storing and processing.
+
+7\. **Revocation of Consent**
+
+You may revoke your consent to your information being used by us. To revoke your consent, please contact us between the hours of 8:00 a.m. to 8:00 p.m. EST, Monday through Friday, at: Phone: +1 (302) 636-5400
+
+We will promptly process your request, but you may continue to receive some communications from us while your request is being processed. Thereafter we may still communicate with you to respond to your new inquiries or in connection with services you have engaged.
+
+8\. **Website Links to Other Sites**
+
+For your convenience, our website may contain links to websites that are owned or operated by third parties not affiliated with Corporation Service Company. We can make no promises or guarantees regarding personal data collection or privacy practices on websites that are not owned or operated by Corporation Service Company. We strongly suggest that you review such third parties' privacy policies before providing any personal data to them. These other sites may send their own cookies to users, collect data, or solicit personal data. You should contact these entities directly if you have any questions about their use of the information that they collect.
+
+9\. **Steps We Take to Ensure your Privacy**
+
+The security of your personal data is important to us. We use generally accepted, industry standard tools and techniques to protect your personal data against unauthorized disclosure. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially reasonable means to protect your personal information, we cannot guarantee its absolute security.
+
+9.1. **PERIMETER SECURITY**
 
 We use firewalls to secure the perimeter of our information network and monitor our systems on a regular basis.
 
-###  DATA SECURITY
+9.2. **DATA SECURITY**
 
-An authentication and authorization mechanism based on user ID and password is used to restrict access to information on CSCGlobal. Each authenticated user only has access to the information that he or she is authorized to use.
+An authentication and authorization mechanism based on user ID and password is used to restrict access to information on Corporation Service Company Global. Each authenticated user only has access to the information that he or she is authorized to use. We use physical, administrative and technical procedures to limit access to personal information.
 
-###  TRANSACTION SECURITY
+9.3. **TRANSACTION SECURITY**
 
-All information exchanged between our servers and your web browser is encrypted using Secure Sockets Layer (SSL).
+All personal data exchanged between our servers and your web browser is encrypted using Secure Sockets Layer (SSL).
 
-###  Social Engineering (Our Employees)
+10\. **Social Engineering (Our Employees)**
 
 All of our employees are made aware of our Confidentiality of Client Information Policy on a regular basis and must acknowledge that they have received and read the same.
 
-###  Steps You Can Take to Ensure Your Privacy
+11. **Steps You Can Take to Ensure Your Privacy**
 
 Remember that you play a vital role in ensuring the security of your information on this website and the applications within. Here are a few steps you can take to maintain the privacy of your information:
 
-###  MANAGING YOUR PERSONALLY IDENTIFIABLE INFORMATION
+11.1. **MANAGING YOUR PERSONAL DATA**
 
-Registration for access to this web site requires that you provide personally identifiable information (including name, company name, address, city, state, zip code, email address, and phone number). It is your responsibility to make sure this information is accurate and current. If your information changes, you should update it. If you require assistance to update this information, you may contact our Customer Service staff from 8:00 a.m. to 8:00 p.m. EST, Monday through Friday, at:
-
-Phone: (866) 403-5272  
-Fax: (302) 636-5454
+Registration for access to this website requires that you provide personal data (including name, company name, address, city, state, zip code, email address, and phone number). It is your responsibility to make sure this information is accurate and current. If your personal data changes, you should update it by login into the site and visiting the account detail page or by contacting us using the contact details above. If you require assistance to update this information, you may contact our Customer Service staff from 8:00 a.m. to 8:00 p.m. EST, Monday through Friday, at: Phone: +1 (302) 636-5400
 
 We will process all information update requests in a timely manner.
 
-###  SAFEGUARD PASSWORDS
+11.2. **SAFEGUARD PASSWORDS**
 
-You should take the necessary precautions to safeguard your user ID and password to prevent unauthorized access to your information stored on this website and the applications within. If you feel that your user ID and password have been compromised, contact our Technical Support staff immediately between the hours of 8:00 a.m. to 8:00 p.m. EST, Monday through Friday, at:
-
-Phone: (866) 403-5272  
-Fax: (302) 636-5454
+You should take the necessary precautions to safeguard your user ID and password to prevent unauthorized access to your personal data stored on this website and the applications within. If you feel that your user ID and password have been compromised, contact our Technical Support staff immediately between the hours of 8:00 a.m. to 8:00 p.m. EST, Monday through Friday, at: Phone: +1 (302) 636-5400
 
 Your password will be reset and emailed to you at the address maintained on record.
 
-###  CLOSE YOUR BROWSER WHEN FINISHED
+11.3. **ERASE TEMPORARY FILES**
 
-After you have finished your session with this web site, close your browser to erase information that may have been stored on your computer during your session. Any information you entered during your session may be temporarily stored in the memory storage area of your computer until you close the browser. Logging off and closing your browser will clear this temporary storage area from your computer.
+Any information you entered during your session may be temporarily stored in the memory storage area of your computer. Closing the browser will erase this information if you have your browser set to automatically erase temporary files when it is closed.
 
-###  USE OF A FIREWALL
+11.4. **USE OF A FIREWALL**
 
 Consider using a firewall to help prevent unauthorized access to your network or personal computer, especially if you are using a DSL or cable modem to access the Internet.
 
-###  Notification of Changes
+12\. **Access to Your Information**
 
-We may change this Statement from time to time as the need arises to accurately reflect how we gather, manage and use your personally identifiable information. We will notify you by posting a change to the Privacy Statement linked to the web site's home page and to other places that we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we make material changes to this policy, we will also display a notice on this web site's home page.
+We provide you with reasonable access to the personal information we hold about you. To learn what information we hold about you or to correct, amend or delete that information, please contact us using the contact details above.
 
-Modifications to this Privacy Statement will become effective on the day they are posted. We encourage you to frequently review this Privacy Statement for any modifications.
+13\. **Controller and Local Representatives**
 
-###  Questions or Concerns
+Corporation Service Company, 2711 Centerville Road, Suite 400, Wilmington, DE 19808, United States, act as controller in the meaning of the Directive 95/46/EC when collecting, processing and using personal data collected through this website. Our local representative in the United Kingdom is Corporation Service Company (UK) Limited, 2-5 Benjamin Street, First Floor, London EC1M 5QL. Our local representative in Germany is Corporation Service Company (DBS) GmbH, Borsigstrasse 20, 65205 Wiesbaden Germany.
 
-If you have questions or suggestions regarding our privacy policy or this Privacy Statement, please contact our Customer Service staff between the hours of 8:00 a.m. to 8:00 p.m. EST, Monday through Friday, at:
-
-Phone: (866) 403-5272  
-Fax: (302) 636-5454
+Complaints or concerns about this Statement should be directed to our legal department who can be contacted at +1 (302) 636-5400. We will investigate and attempt to resolve such complaints in accordance with the principles contained in this Statement.
 
   
 
