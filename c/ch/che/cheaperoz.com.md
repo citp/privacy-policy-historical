@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheaperoz.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921193134id_/http%3A//www.cheaperoz.com/z/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheaperoz.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331235147id_/http%3A//www.cheaperoz.com/z/privacy_policy.jsp) for the most accurate reproduction.*
 
 # CheaperOz.com - Privacy Policy
 
