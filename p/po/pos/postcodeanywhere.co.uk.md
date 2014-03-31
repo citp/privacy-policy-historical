@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postcodeanywhere.co.uk privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424024812id_/http%3A//www.postcodeanywhere.co.uk/privacy/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcodeanywhere.co.uk privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331025222id_/http%3A//www.postcodeanywhere.co.uk/privacy/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Postcode Anywhere Privacy Policy
 
@@ -69,29 +69,13 @@ Over and above what our company does to protect your privacy and security, we wo
 
 ## Use of cookies
 
-A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk, so that the website can remember who you are.
-
-A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number.
-
-When you visit our website, we send you a cookie. Cookies may be used in the following ways:
-
-  * To help us recognise you, so that you do not have to re-key your registration details.
-  * To help us recognise you as a unique visitor (just a number) when you return to our website, and to allow us to tailor content to match your preferred interests.
-  * To compile anonymous, aggregated statistics that allow us to understand how users use our website, and to help us improve the structure of our website. We cannot identify you personally in this way.
-
-
-
-Two types of cookie are used on this website: (1) session cookies, which are temporary cookies that remain in the cookie file of your browser until you leave the site; and (2) persistent cookies, which remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of the specific cookie).
-
 Our website creates a cookie every time you access the website. The cookie contains a sequence of randomly generated numbers and letters that can distinguish between you and other users of the service. The cookie is only valid whilst you are using the website and is essential to its operation. No personal information is stored in this cookie, and the contents of the cookie are only available to the our website.
 
 When you choose to purchase an item from our website a session cookie is set to remember your product choice. This cookie is cleared upon purchase, and is only valid for the duration of your session on our website.
 
 If you choose to automatically log on to your account each time you visit the website, a cookie will be stored on your PC containing an encrypted version of your account code which is then used to log you in to the website whenever you visit.
 
-From time to time we may also choose to run analytics and A/B testing on our site in order to improve the user experience. This can also use cookies, but no personal details will be captured as a result of this exercise.
-
-We also use a live help / chat feature across the site to improve customer support. In order to serve you best this may set cookies if you engage in a chat with us. Personal details are not captured for this purpose, only information enabling conversations to persist over different pages.
+Read more about [our use of cookies](https://web.archive.org/web/20140331025222id_/http%3A//www.postcodeanywhere.co.uk/privacy/cookies.aspx).
 
 ## Use of Web Beacons
 
@@ -129,10 +113,9 @@ If you want to know exactly what personal information we hold on you, you can ob
 
 IT Director,   
 Postcode Anywhere (Europe) Ltd,   
-Enigma House,   
-Elgar Business Centre,   
-Hallow,   
+Waterside,   
+Basin Road,   
 WORCESTER,   
-WR2 6NJ. 
+WR5 3DA. 
 
 If you would like to contact us with any other queries or comments, then either [send an email here](https://web.archive.org/contact-us/) or please write to the Customer Service Department at the above address.
