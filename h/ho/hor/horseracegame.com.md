@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the horseracegame.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229112057id_/http%3A//www.horseracegame.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horseracegame.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331202520id_/http%3A//www.horseracegame.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for Our Racing Games - Horse Racing Simulation, LLC
 
 Privacy Statement for www.horseracegame.com
 
-has created this privacy statement in order to demonstrate our firm commitment to privacy. We believe that strong electronic privacy is crucial for the ongoing success of the Internet as a service, commercial, and entertainment medium. The following discloses our information gathering and dissemination practices for our website: [http://www.horseracegame.com](http://www.horseracegame.com/ "Horse Racing Fantasy").
+Horse Racing Simulation, LLC has created this privacy statement in order to demonstrate our firm commitment to privacy. We believe that strong electronic privacy is crucial for the ongoing success of the Internet as a service, commercial, and entertainment medium. The following discloses our information gathering and dissemination practices for our website: [http://www.horseracegame.com](http://www.horseracegame.com/ "Horse Racing Fantasy").
 
 Personal Information Collected
 
@@ -44,8 +44,8 @@ If you have any questions about this privacy statement, the practices of this si
 
 > Privacy Questions  
 >  Horse Racing Simulation, LLC  
->  3230 E. Flamingo Road, Ste. 8-307  
->  Las Vegas, NV 89121
+>  3870 East Flamingo Road A2 -307  
+>  Las Vegas NV 89121
 
 Glossary of Terms
 
