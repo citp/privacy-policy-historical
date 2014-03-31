@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the williamhillcasino.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117082717id_/http%3A//www.williamhillcasino.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williamhillcasino.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331030015id_/http%3A//www.williamhillcasino.com/privacy.htm) for the most accurate reproduction.*
 
 # Information on William Hill Casino's Use of Personal Data
 
