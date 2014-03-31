@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golden1.com privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830234748id_/https%3A//www.golden1.com/pdf/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golden1.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331105841id_/https%3A//www.golden1.com/pdf/privacy.pdf) for the most accurate reproduction.*
 
 # 
 
