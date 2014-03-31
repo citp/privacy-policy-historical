@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ufcu.org privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807104925id_/https%3A//www.ufcu.org/about/legal/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufcu.org privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331025754id_/https%3A//www.ufcu.org/about/legal/privacy/index.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ We may collect nonpublic personal information about you from the following sourc
 
 We may disclose the information we collect to process transactions on your behalf, follow your authorized instructions, or to comply with applicable laws. UFCU does not disclose consumer reporting agency information to its affiliated companies, and UFCU’s affiliated companies do not disclose any of their customers’ information to UFCU. **We do not sell your nonpublic personal information to anyone for any reason.**
 
-If you terminate your membership with UFCU or your customer relationship with any of the UFCU affiliated companies, we will not share information about you except as required by law. 
+If you terminate your membership with UFCU or your customer relationship with any of UFCU's affiliated companies, we will not share information about you except as required by law. 
 
 ###  How We Protect Your Information 
 
