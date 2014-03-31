@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the folica.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820080122id_/http%3A//www.folica.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the folica.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331034735id_/http%3A//www.folica.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Folica.com - The best selection of hair care, flat irons and hair styling products anywhere
 
-### Last Updated 06-13-2013
+### Last Updated 01-06-2014
 
 Folica, Inc. ("Folica") owns and operates this web site, Folica.com ("Web Site"). Folica recognizes and respects the importance of maintaining the privacy of our customers, registered members ("Members") and users, and has established this Privacy Policy as a result. The purpose of this Privacy Policy is to inform you of: the personal information we may collect from you when you visit our Web Site, respond to our emails, place orders via mail or fax, or otherwise contact us via telephone, email, fax or mail.
 
@@ -30,6 +30,7 @@ Depending on how you interact with us, we collect some or all of the following t
   * products purchased
   * any promotion or gift card code and related information, and
   * other information you provide to us.
+  * Information shared via your social media account. (see Social Media section)
 
 
 
@@ -38,6 +39,12 @@ Information you provide may be collected by us even if an order, registration, o
 Upon completing a purchase with Folica, a customer is automatically opted in for e-mails. To opt out, please e-mail: unsubscribe@folica.com.
 
 When you use the Ratings & Reviews or the Question & Answer services you will become a registered user (if you aren’t already one) and any personal information you submit will become part of your profile, as maintained by Folica.
+
+### Social Media
+
+Folica invites you to socialize and share your hair care finds and purchases with your friends using Social Media tools such as Facebook, Twitter, Pinterest and Instagram. If you choose to use these tools, you may be sharing certain profile elements, including your comments. This sharing is subject to each social media program's privacy policies. We also use Facebook Social Plugins to allow Facebook to share information and friends' activities with its members while they are on our website. For example, Social Plugins allow Facebook to show you and your friends' "Likes" on our product pages if you are logged into Facebook while shopping at Folica com. Folica does not receive or control any of the content from Facebook Social Plugins. For more information about Facebook Social Plugins and other social media tools, click this [link](https://developers.facebook.com/docs/plugins/). 
+
+We may allow you to sign in to your Folica.com account using your social media account. If you choose to do this, we may collect information necessary to facilitate social interactions such as friend lists, birthday, check-ins, basic profile information and your profile picture but only if the privacy settings you and your friends set within your account allow it. We will use the information we collect to create and facilitate an interactive social experience and to bring you products, services and programs from Folica.com . Folica.com will always comply both with its privacy policy as well as with terms and conditions regarding use of your social media profile information. 
 
 ### How we use "Cookies" and "Action Tags".
 
