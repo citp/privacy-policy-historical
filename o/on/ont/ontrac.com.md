@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ontrac.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015140522id_/http%3A//www.ontrac.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontrac.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331035427id_/https%3A//www.ontrac.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # OnTrac Shipping - Privacy Policy
 
@@ -12,7 +12,7 @@ This Privacy Policy describes the personally identifiable information that OnTra
 
 In order to better provide you with our numerous services, OnTrac collects two types of information about users of our Site: Personally Identifiable Information and Non-Personally Identifiable Information. Our primary goal in collecting information from you is to provide you with a smooth, efficient, and customized experience while using our Site.
 
-Personally Identifiable Information: Several areas of the Site ask for personal information such as Schedule a Pickup, Order Supplies Online, WebOn Trac Login, and Open a Free Account. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, we may ask that you provide us personal information, such as your first and last name, mailing address (including ZIP Code), email address, employer, telephone number and other personal identifying information.
+Personally Identifiable Information: Several areas of the Site ask for personal information such as Schedule a Pickup, Order Supplies Online, WebOnTrac Login, and Open a Free Account. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, we may ask that you provide us personal information, such as your first and last name, mailing address (including ZIP Code), email address, employer, telephone number and other personal identifying information.
 
 Non-Personally Identifiable Information: This refers to information that does not by itself identify a specific individual. We may use browser cookies, web server log files, or other technologies to collect non-personally identifiable information in connection with your visit to the Site, such as the name of your internet service provider, the internet protocol (IP) address of the computer you are using, the type of browser software and operating system that you use, the date and time you access our Site, the website address, if any, from which you are linked directly to our Site, the website address, if any, to which you travel from our Site, and other similar traffic-related information.
 
@@ -58,7 +58,7 @@ OnTrac or any of its employees do not accept or consider unsolicited ideas, incl
 You agree that: (1) your submissions and their contents will automatically become the property of OnTrac, without any compensation to you; (2) OnTrac may use or redistribute the submissions and their contents for any purpose and in any way; (3) there is no obligation for OnTrac to review the submission; and (4) there is no obligation to keep any submissions confidential.
 
 **Service Comments**  
-OnTrac does, however, welcome your comments. If you want to send us your comments, and we hope you do, we simply request that you send it to us using the form found on our [Contact Us](https://web.archive.org/web/20131015140522id_/http%3A//www.ontrac.com/contactus.asp#comments) page. Please provide only specific comments on OnTrac services; do not include any ideas that OnTrac policy will not permit it to accept or consider. It’s just one more way that OnTrac can learn how to best satisfy your needs. Any comments you provide at this site shall be deemed to be non-confidential. OnTrac shall be free to use such information on an unrestricted basis.
+OnTrac does, however, welcome your comments. If you want to send us your comments, and we hope you do, we simply request that you send it to us using the form found on our [Contact Us](https://web.archive.org/web/20140331035427id_/https%3A//www.ontrac.com/contactus.asp#comments) page. Please provide only specific comments on OnTrac services; do not include any ideas that OnTrac policy will not permit it to accept or consider. It’s just one more way that OnTrac can learn how to best satisfy your needs. Any comments you provide at this site shall be deemed to be non-confidential. OnTrac shall be free to use such information on an unrestricted basis.
 
 **Revisions to Privacy Policy**
 
