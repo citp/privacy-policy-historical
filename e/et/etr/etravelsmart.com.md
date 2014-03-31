@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etravelsmart.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007012843id_/http%3A//www.etravelsmart.com/bus/online-bus-booking-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etravelsmart.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331065104id_/http%3A//www.etravelsmart.com/bus/online-bus-booking-privacy.htm) for the most accurate reproduction.*
 
 # Bus Tickets Booking Privacy Policy | Online Bus Tickets | Bus Tickets Coupons | Best Bus Ticket Deals
 
