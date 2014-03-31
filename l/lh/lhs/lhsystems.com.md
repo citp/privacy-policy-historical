@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lhsystems.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813221947id_/https%3A//www.lhsystems.com/siteinfo/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lhsystems.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331154629id_/https%3A//www.lhsystems.com/siteinfo/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy | Lufthansa Systems
 
@@ -61,6 +61,8 @@ Dr. Barbara Kirchberg-Lennartz
 Deutsche Lufthansa AG  
 FRA DSB  
 60546 Frankfurt 
+
+[Register of proceedings of the data protection officer](https://www.lhsystems.com/siteinfo/privacy-policy/register-of-proceedings-of-the-data-protection-officer.html)
 
 ## Legal effectiveness of this liability disclaimer
 
