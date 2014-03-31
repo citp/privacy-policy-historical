@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobdiagnosis.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517134137id_/http%3A//www.jobdiagnosis.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobdiagnosis.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401003155id_/https%3A//www.jobdiagnosis.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - Untitled Document Effective Date: 02/13/2013 GE. - JobDiagnosis
+# JobDiagnosis Privacy Policy Pg
 
 _Effective Date: 02/13/2013_
 
@@ -8,18 +8,18 @@ _Effective Date: 02/13/2013_
 VHMnetwork LLC (“Company”, “we”, “us”) respects the privacy of its users whether they use our website located at [www.JobDiagnosis.com](http://www.jobdiagnosis.com/) (“Website”) to participate in career diagnostic and information services as well as to take advantage of services and product offerings or simply to view the Website. The following Company privacy policy (“Privacy Policy”) is designed to inform you, as a user of the Website, about the types of information that we may gather about or collect from you in connection with your use of the Website. It also is intended to explain the conditions under which we uses and discloses that information, and your rights in relation to that information. Changes to this Privacy Policy are discussed at the end of this document. Each time you use the Website, however, the current version of this Privacy Policy will apply. Accordingly, each time you use the Website you should check the date of this Privacy Policy (which appears at the beginning of this document) and review any changes since the last time you used the Website.    
 Our Website is hosted in the United States of America and is subject to U.S. state and federal law. If you are accessing our Website from other jurisdictions, please be advised that you are transferring your personal information to us in the United States, and by using our Website, you consent to that transfer and to abide by the applicable laws of applicable states and U.S. federal law concerning your use of the Website and your agreements with us. Any persons accessing our Website from any jurisdiction with laws or regulations governing the use of the Internet, including personal data collection, use and disclosure different from those of the jurisdictions mentioned above may only use the Website in a manner lawful in their jurisdiction. If your use of our Website would be unlawful in your jurisdiction, please do not use the Website.
 
-VHMnetwork LLC, has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, [www.JobDiagnosis.com](http://www.jobdiagnosis.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:
+VHMnetwork LLC, has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, [www.JobDiagnosis.com](http://www.jobdiagnosis.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:
 
 Privacy Officer  
 VHMnetwork LLC  
-65 Broadway, 7th Fl.  
-New York, NY 10006  
+270 Greenwich Ave  
+Greenwich, CT 06830  
 Fax: [212-430-6360]  
 Email:  [admin@VHMnetwork.com](mailto:admin@VHMnetwork.com)
 
 If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). ****
 
-**BY REGISTERING WITH OR USING THE WEBSITE, YOU CONSENT TO THE USE AND DISCLOSURE OF YOUR PERSONALLY IDENTIFYING INFORMATION AS DESCRIBED IN THIS PRIVACY POLICY.**
+**BY REGISTERING WITH OR USING THE WEBSITE, YOU CONSENT TO THE USE AND DISCLOSURE OF YOUR PERSONAL INFORMATION AS DESCRIBED IN THIS PRIVACY POLICY.**
 
 As used in this Privacy Policy, “Non-Personally-Identifying Information” is information that, without the aid of additional information, cannot be directly associated with a specific person. “Personally-Identifying Information,” by contrast, is information such as a name or email address that, without more, can be directly associated with a specific person. 
 
@@ -43,7 +43,7 @@ We and our affiliates may use your contact information to send you marketing com
 
 **_Company Disclosures_**
 
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties. By using the Company Services and accessing the Website, which are all provided as a free service, you consent to Company using and disclosing your Personally-Identifying Information under the following circumstances:
+We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties. By using the Company Services and accessing the Website, which are all provided as a free service, you consent to Company using and disclosing your Personally-Identifying Information under the following circumstances:
 
   * **Marketing Communications**. We may contact users about products and services that we believe may be of interest to users using all contact information that you provide to us. We may also provide users’ email information, telephone numbers, mailing addresses, and other contact information to third parties (including providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation, email marketing, and telemarketing), so that those third parties may directly contact users about additional products and services. If a user wishes to opt out of receiving marketing materials from us or have their contact information provided to third parties at any time after registration, they may do so by going to their account settings or contacting us using the contact information found below. Even after opting-out, a user may continue to receive marketing emails, telephone calls, direct mail from third parties to whom we have already has provided the user’s contact information. Users will be responsible for directly contacting such third parties to request cessation of further marketing contacts.
   * **Business Partners:  **When you make purchases or otherwise engage in promotions offered through our Website or our services, we may share Personally-Identifying Information with the businesses with which we partner to offer you those products, services, promotions, contests and/or sweepstakes. When you elect to engage in a particular merchant's offer or program, you authorize us to provide your email address and other information to that merchant. We do not request or collect sensitive financial or sensitive information such as your credit card number, bank account information or social security number in order to register with our Website. 
@@ -92,9 +92,9 @@ We use third-party advertising companies to serve ads when you visit the Website
 
 A “Web Beacon” is an object that is embedded in a web page that is usually invisible to the user and allows website operators to check whether a user has viewed a particular web page. We may use Web Beacons on the Website to count users who have visited particular pages and to deliver co-branded services. Web Beacons are not used to access users’ Personally-Identifying Information; they are a technique we may use to compile aggregated statistics about Website usage. Web Beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web Beacon resides. You may not decline Web Beacons, however, they can be rendered ineffective by declining all cookies or modifying your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis.
 
-**_Aggregated and Non-Personally-Identifying Information_**
+**_Aggregated and Non-Personal Information_**
 
-We may share aggregated and Non-Personally Identifying Information we collect under any of the above circumstances. We may also share it with third parties and our affiliate companies to develop and deliver targeted advertising on our Website and on websites of third parties. We may combine Non-Personally Identifying Information we collect with additional Non-Personally Identifying Information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our Website and the most popular features or services accessed. This information does not contain any Personally-Identifying Information and may be used to develop website content and services that we hope you and other users will find of interest and to target content and advertising.
+We may share aggregated and Non-Personal Information we collect under any of the above circumstances. We may also share it with third parties and our affiliate companies to develop and deliver targeted advertising on our Website and on websites of third parties. We may combine Non-Personal Information we collect with additional Non-Personal Information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our Website and the most popular features or services accessed. This information does not contain any Personally-Identifying Information and may be used to develop website content and services that we hope you and other users will find of interest and to target content and advertising.
 
 **Social Media Widgets**
 
@@ -119,7 +119,7 @@ If you have any questions regarding our Privacy Policy, please contact our priva
 
 Privacy Officer  
 VHMnetwork LLC  
-65 Broadway, 7th Fl.  
-New York, NY 10006  
+270 Greenwich Ave  
+Greenwich, CT 06830  
 Fax: [212-430-6360]  
 Email:  [admin@VHMnetwork.com](mailto:admin@VHMnetwork.com)
