@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rodales.com privacy policy that was archived on 2013-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131008020719id_/http%3A//www.rodales.com/s/rodales/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rodales.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331023009id_/http%3A//www.rodales.com/s/rodales/privacy-policy.html) for the most accurate reproduction.*
 
 # Rodale's Privacy Policy: Protecting Your Information
 
 * * *
 
-Rodale's LLC ("we"), a shopping destination where inspired design meets healthy living, is a subsidiary of Rodale (together "Rodale"), the world's leading healthy lifestyle company, which publishes some of the best-known health and wellness lifestyle magazines, including _Prevention_ , _Men's Health_ , _Women's Health_ , _Runner's World_ , _Running Times_ , _Bicycling_ , and _Organic Gardening_ , and one of the largest independent book publishers in the United States. Rodale brings you the ideas, insights, and information that inspire and enable people to improve their lives and the world around them. We're a family-run business that values integrity, and we're deeply committed to protecting your privacy and the security of the information you share with us. 
+Rodale's® LLC ("we"), a shopping destination where inspired design meets healthy living, is a subsidiary of Rodale (together "Rodale"), the world's leading healthy lifestyle company, which publishes some of the best-known health and wellness lifestyle magazines, including _Prevention_ , _Men's Health_ , _Women's Health_ , _Runner's World_ , _Running Times_ , _Bicycling_ , and _Organic Gardening_ , and one of the largest independent book publishers in the United States. Rodale brings you the ideas, insights, and information that inspire and enable people to improve their lives and the world around them. We're a family-run business that values integrity, and we're deeply committed to protecting your privacy and the security of the information you share with us. 
 
 We believe you have the right to know everything regarding the information we collect about you, how this information benefits you, and how you can say "no" to the use of any of this information.
 
