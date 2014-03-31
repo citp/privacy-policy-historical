@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filepicker.io privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425003733id_/https%3A//www.filepicker.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filepicker.io privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331025742id_/https%3A//www.inkfilepicker.com/privacy) for the most accurate reproduction.*
 
-# Filepicker.io | Privacy Policy
+# Ink File Picker | Privacy Policy
 
 ## What information do we collect?
 
@@ -54,13 +54,14 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-FilePicker.io  
+Ink  
 188 King St. #603  
 San Francisco, CA 94107 
 
 ## Changes made to this Policy
 
-  * June 18, 2012: Updated contact address from Boston to Palo Alto
+  * June 18, 2013: Updated contact name from Filepicker.io to Ink
   * November 5, 2012: Updated contact address from Palo Alto to San Francisco
+  * June 18, 2012: Updated contact address from Boston to Palo Alto
 
 
