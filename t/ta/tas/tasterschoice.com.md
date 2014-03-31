@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tasterschoice.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509045953id_/http%3A//www.tasterschoice.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tasterschoice.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331091352id_/http%3A//www.tasterschoice.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - NESCAFÉ® Taster's Choice®
 
@@ -90,7 +90,7 @@ Back to top
 
 __Demographic info__
 
-This includes any information that describes your demographic or psychographic characteristics. Examples may include your date of birth, age or age range, gender, geographic location (e.g., zip code, city and state, mobile location), favorite products, hobbies and interests, and household or lifestyle information. We typically collect demographic information in connection with a variety of activities, including general website registration, newsletter sign-up, website community registration, contests and other promotions, and consumer surveys. If you create an account with us, you may be allowed to modify certain demographic information stored under your account. To do so, log in to the relevant edit account section of our site (if available) or contact Consumer Services. For demographic information stored under your profile on a third party social network (e.g., Facebook), see separate paragraph on “[Social network info](https://web.archive.org/admin/SocialNetworkInfo).”
+This includes any information that describes your demographic or psychographic characteristics. Examples may include your date of birth, age or age range, gender, geographic location (e.g., zip code, city and state, mobile location), favorite products, hobbies and interests, and household or lifestyle information. We typically collect demographic information in connection with a variety of activities, including general website registration, newsletter sign-up, website community registration, contests and other promotions, and consumer surveys. If you create an account with us, you may be allowed to modify certain demographic information stored under your account. To do so, log in to the relevant edit account section of our site (if available) or contact Consumer Services. For demographic information stored under your profile on a third party social network (e.g., Facebook), see separate paragraph on “Social network info.”
 
 Back to top
 
