@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eagleview.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907043644id_/http%3A//www.eagleview.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eagleview.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331074803id_/http%3A//www.eagleview.com/Privacy.aspx) for the most accurate reproduction.*
 
 # EagleView Technologies - Roof Measurement & Aerial Measurement Service
 
@@ -10,7 +10,7 @@ Effective Date: 11/02/2010
 
 EagleView is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the EagleView Web site and governs data collection and usage. By using the EagleView website, you consent to the data practices described in this statement. 
 
-### Information Collection and how it is Used
+### Information Collection and How It Is Used
 
 EagleView collects and uses your personal information to operate the EagleView Web site and deliver the services you have requested. EagleView also uses your personally identifiable information to inform you of other products or services available from EagleView and its affiliates. EagleView may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
@@ -18,7 +18,7 @@ EagleView keeps track of the Web sites and pages our customers visit within Eagl
 
 EagleView does not sell, rent or lease its customer lists to third parties. EagleView may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, EagleView may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to EagleView, and they are required to maintain the confidentiality of your information.
 
-### The information we collect
+### The Information We Collect
 
   * **Cookies:** Cookies are data files that are placed on a computer when it is used to visit a website. These cookies may be used for many purposes, including, without limitation, tracking user preferences and web pages visited while using the site. You may disable cookies using your browser's preferences. However, some features of the site may not function properly or may operate slowly if you disable the cookies.
   
@@ -49,11 +49,11 @@ Upon request we provide site visitors with access to unique identifier informati
   
 
 
-### Security of your Personal Information
+### Security of Your Personal Information
 
 EagleView secures your personal information from unauthorized access, use or disclosure. EagleView secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-### Changes to this Statement
+### Changes to This Statement
 
 EagleView will occasionally update this Statement of Privacy to reflect company and customer feedback. EagleView encourages you to periodically review this Statement to be informed of how EagleView is protecting your information.
 
