@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamolition.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817163826id_/http%3A//www.gamolition.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamolition.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331025028id_/http%3A//www.gamolition.com/privacy.html) for the most accurate reproduction.*
 
 # Gamolition - Privacy Policy
 
@@ -29,6 +29,10 @@ At **www.gamolition.com** , we recognize that the privacy of your personal infor
 ### Online Behavioral Advertising
 
 **www.gamolition.com** uses OBA for several of its ad blocks. OBA is based on a set of principles encouraging consumer-friendly standards in online advertising such as educating the user about the ads he will see, transparency in regards to their placement and data security for the user browsing our web pages. The Advertising Networks that we use adhere to these standards as well. 
+
+Gamolition.com implemented the following Google Analytics features based on Display Advertising: Google Analytics Demographics and Interest Reporting.
+
+You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads). 
 
 ### Cookies and Web Beacons
 
