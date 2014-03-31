@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talentlms.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216152724id_/http%3A//www.talentlms.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talentlms.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331061454id_/http%3A//www.talentlms.com/privacy) for the most accurate reproduction.*
 
 # TalentLMS - Privacy Policy
 
