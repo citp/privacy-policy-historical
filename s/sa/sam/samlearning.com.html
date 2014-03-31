@@ -1,16 +1,19 @@
-<!--The following is the downloaded HTML source of the samlearning.com privacy policy that was archived on 2013-08-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130821075747id_/https%3A//www.samlearning.com/about-us/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the samlearning.com privacy policy that was archived on 2014-03-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331143928id_/https%3A//www.samlearning.com/about-us/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" class="no-js"><head profile="http://gmpg.org/xfn/11">
 	<link rel="shortcut icon" href="https://static.samlearning.com/platform/theme/secondary/icons/favicon.ico" type="image/x-icon">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="Privacy Policy  SAM Learning">
 
 	<title>Privacy Policy «  SAM Learning</title>
 
 	<style type="text/css" media="screen">
-		@import url( https://static.samlearning.com/site/uk1/style.css/30652.style.css );
-		@import url( https://static.samlearning.com/site/css/wizardStyles.css/29750.wizardStyles.css );
+		@import url( https://static.samlearning.com/site/uk1/style.css/33624.style.css );
+		@import url( https://static.samlearning.com/site/css/wizardStyles.css/33596.wizardStyles.css );
         @import url( https://static.samlearning.com/platform/theme/secondary/css/video-room.css/29421.video-room.css );
+        @import url( https://static.samlearning.com/platform/css/rwpPlayer.css/32715.rwpPlayer.css );
+        @import url( https://static.samlearning.com/platform/css/activityPlayer.css/33624.activityPlayer.css );
 	</style>
 
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://www.samlearning.com/wp-includes/js/swfobject.js?ver=2.1"></script>
@@ -23,18 +26,39 @@
     window.slStaticPath="https://static.samlearning.com//";
     window.slStaticPathTheme="https://static.samlearning.com//platform/theme/secondary/";
     window.slGACode="UA-21911009-1";
+    function NS(name)
+    {
+        var ns = name.split(".");
+        var current = window, s;
+        while (s = ns.shift()) {
+            if (typeof(current[s]) == "undefined") {
+                current[s] = {};
+            }
+            current = current[s];
+        }
+    }
+    NS('sl.session');
+    sl.session.user = {};
+    sl.session.user.type = 'learner';
+    sl.session.user.name = {};
+    sl.session.user.name.first = sl.session.user.name.last = '';
+    sl.session.school = {};
+    sl.session.school.isDemo = false;
+    window.slDebugMode=false;
+    window.slUserType = sl.session.user.type;
     //]]>
     </script>
-    <script type="text/javascript" src="https://static.samlearning.com/library/jQuery/jquery.js/32340.jquery.js"></script>
-    <script type="text/javascript" src="https://static.samlearning.com/library/jQuery/jquery.validate.js/29701.jquery.validate.js"></script>
+    <script type="text/javascript" src="https://static.samlearning.com/library/jQuery/jquery-1.10.2.js/32977.jquery-1.10.2.js"></script>
+    <script type="text/javascript" src="https://static.samlearning.com/library/jQuery/jquery-migrate-1.0.0.js/32977.jquery-migrate-1.0.0.js"></script>
+
+    <script type="text/javascript" src="https://static.samlearning.com/library/fullJavascripts.js/33632.fullJavascripts.js"></script>
+    <script type="text/javascript" src="https://static.samlearning.com/library/jQuery/jquery.validate.js/32977.jquery.validate.js"></script>
     <script type="text/javascript" src="https://static.samlearning.com/platform/application/content/js/flash-preamble.js/21723.flash-preamble.js"></script>
-    <script type="text/javascript" src="https://static.samlearning.com/library/jQuery/jquery.corner.js/19148.jquery.corner.js"></script>
-    <script type="text/javascript" src="https://static.samlearning.com/library/jQuery/ui.core.js/26967.ui.core.js"></script>
-    <script type="text/javascript" src="https://static.samlearning.com/library/jQuery/ui.dialog.js/30263.ui.dialog.js"></script>
+    <script type="text/javascript" src="https://static.samlearning.com/library/jQuery/jquery.corner.js/32977.jquery.corner.js"></script>
     <script type="text/javascript" src="https://static.samlearning.com/library/jQuery/jquery.ba-hashchange.js/26977.jquery.ba-hashchange.js"></script>
     <script type="text/javascript" src="https://static.samlearning.com/platform/application/content/js/open-video-in-popup.js/29803.open-video-in-popup.js"></script>
     <script type="text/javascript" src="https://static.samlearning.com/platform/application/content/js/video-player.js/29803.video-player.js"></script>
-    <script type="text/javascript" src="https://static.samlearning.com/site/js/showexercise.js/27524.showexercise.js"></script>
+    <script type="text/javascript" src="https://static.samlearning.com/site/js/showexercise.js/33606.showexercise.js"></script>
     <script type="text/javascript" src="https://static.samlearning.com/library/passwordReminder.js/29421.passwordReminder.js"></script>
     <script type="text/javascript" src="https://static.samlearning.com/library/freeStudentWizard.js/28094.freeStudentWizard.js"></script>
     <script type="text/javascript" src="https://static.samlearning.com/library/modernizr-1.5.js/25202.modernizr-1.5.js"></script>
@@ -51,6 +75,7 @@
             }, 'html');
             $("#aseDlg").dialog({ bgiframe: true,  modal: true, width: 770, height: 578, position: ['center', 10],  resizable: false, titleClose: 'Close' });
         };
+        translationHelper.addMessages({"UGCBUILDER_DEFAULT_NAME":"{0}'s Activity","UGCBUILDER_DELETE_SCREEN_CONFIRM":"Are you sure you want to delete the selected screen?","UGCBUILDER_DRAGANDDROP_ADD_ANSWER_PLACEHOLDER":"add answer","UGCBUILDER_DRAGANDDROP_ADD_DISTRACTOR_PLACEHOLDER":"add distractor","UGCBUILDER_ERROR_DEFAULT_TEXT":"Some screens contain default text, please update or delete these screens before publishing","UGCBUILDER_ERROR_MULTICHOICE_NO_CHOICE":"One or more multiple choice question screens only have one choice. Please add at least two choices before publishing.","UGCBUILDER_ERROR_MULTICHOICE_NO_CORRECT":"One or more multiple choice question screens does not have the correct choice set. Please set correct choices before publishing.","UGCBUILDER_ERROR_NO_SCREENS":"Please add a screen before saving","UGCBUILDER_ERROR_PREVIEW_NO_SCREENS":"There are no screens to preview. Add some screens to enable the preview feature.","UGCBUILDER_FREETEXT_ADD_CRITERIA":"Add Criteria","UGCBUILDER_FREETEXT_CRITERIA_PLACEHOLDER":"Click here to describe what is required to get marks","UGCBUILDER_FREETEXT_CRITERIA_TITLE":"Marking Criteria","UGCBUILDER_FREETEXT_MARK_INSTRUCTION":"Tick a box for each mark scored","UGCBUILDER_FREETEXT_QUESTION_PLACEHOLDER":"<b>Click to enter text<\/b>","UGCBUILDER_INFORMATION_PLACEHOLDER":"<b>Click to enter text<\/b>","UGCBUILDER_INVALID_AUDIO_MIMETYPE":"This file type is not supported. Activity Builder supports mp3, ogg or aac","UGCBUILDER_MARKS_SCORED":"Marks scored:","UGCBUILDER_MULTICHOICE_ADD_CHOICE":"Add Choice","UGCBUILDER_MULTICHOICE_CHOICE_PLACEHOLDER":"Click to enter choice text","UGCBUILDER_MULTICHOICE_INSTRUCTION":"Enter answer choices and click the radio button to set the correct choice","UGCBUILDER_MULTICHOICE_MARKS_INSTRUCTION":"Click arrows to set marks","UGCBUILDER_MULTICHOICE_QUESTION_PLACEHOLDER":"<b>Click to enter text<\/b>","UGCBUILDER_ON_SAVE_MESSAGE":"Enter Activity title","UGCBUILDER_PERCENT_SCORE":"Show percent score instead of the grade","UGCBUILDER_SET_GRADES":"Select the grades available for this activity","UGCBUILDER_SET_GRADES_LABELS":"Select the grades available for this activity. Optionally, you may add custom grade labels that students see.","UGCBUILDER_SET_GRADE_BOUNDARIES":"Click and drag the sliders to adjust grade boundaries","UGCBUILDER_SET_TIMER":"Set countdown timer (optional):","UGCBUILDER_UNSAVED_CHANGES":"You have unsaved changes in this activity, if you leave or reload this page those changes will be lost.","UGCBUILDER_YOU_SCORED":"You scored <b>{0}%<\/b> in this activity and gained <b>{1} points<\/b>","UGCBUILDER_YOU_SCORED_PREVIEW":"You scored <b>X%<\/b> in this activity"});
     //]]>
 	</script>
 <script type="text/javascript">
@@ -464,30 +489,32 @@
 
         </div>
             <div class="socIcon">
+                <a href="https://www.samlearning.com/vivo" class="icoVivo" title="Vivo"></a>
                 <a href="http://www.facebook.com/SAMLearning" class="icoFacebook" title="Facebook"></a>
                 <a href="http://twitter.com/samlearning" class="icoTwitter" title="Twitter"></a>
-            </div>       
-            <div class="clear"></div> 
+            </div>
+            <div class="clear"></div>
     </div>
 
     <div id="content">
 
-                <div class="mainMenu">   
+                <div class="mainMenu">
                 <div class="topMenu smallcorners " style="width: 115px"><a href="https://www.samlearning.com">Home</a></div>
 <div class="topMenu smallcorners " style="width: 115px"><a href="https://www.samlearning.com/our-services-2/sam-learning/">Our Services</a></div>
 <div class="topMenu smallcorners " style="width: 115px"><a href="https://www.samlearning.com/try-it/free-trial-activities/">Try it</a></div>
 <div class="topMenu smallcorners " style="width: 115px"><a href="https://www.samlearning.com/buy-it-2/sam-learning-order-form/">Buy it</a></div>
-<div class="topMenu smallcorners " style="width: 115px"><a href="https://www.samlearning.com/support/videos/">Support</a></div>
+<div class="topMenu smallcorners " style="width: 115px"><a href="https://www.samlearning.com/support/the-student-data-exporter/">Support</a></div>
 <div class="topMenu smallcorners  topMenuSelected" style="width: 115px"><a href="https://www.samlearning.com/about-us/company-profile/">Contact Us</a></div>
 <div class="topMenu smallcorners " style="width: 115px"><a href="https://www.samlearning.com/news/sam-learning-news/">News</a></div>
 <div style="clear:both"></div>            </div>
                 <div class="contentbody">
-                     
-                    <div class="homebanner">
-                      
-                        <div class="submenucontainer">
-                            <ul class="mainNavigation">
-                                <li class="subMenu "><a href="https://www.samlearning.com/about-us/company-profile/">Company Profile</a></li>
+                                        <div class="sidebar">
+
+                        <div class="homebanner">
+
+                            <div class="submenucontainer">
+                                <ul class="mainNavigation">
+                                    <li class="subMenu "><a href="https://www.samlearning.com/about-us/company-profile/">Company Profile</a></li>
 <li class="subMenu "><a href="https://www.samlearning.com/about-us/awards/">Awards</a></li>
 <li class="subMenu "><a href="https://www.samlearning.com/about-us/vacancies/">Vacancies</a></li>
 <li class="subMenu "><a href="https://www.samlearning.com/about-us/corporate-social-responsibility/">Corporate Social Responsibility</a></li>
@@ -498,24 +525,21 @@
 <li class="subMenu "><a href="https://www.samlearning.com/about-us/terms-of-service-knowledge-hub-schools/">Terms of Service – Knowledge Hub Schools</a></li>
 <li class="subMenu "><a href="https://www.samlearning.com/about-us/terms-of-site-use/">Terms of Site Use</a></li>
 <li class="subMenu "><a href="https://www.samlearning.com/about-us/copyright-and-licence/">Copyright and Licence</a></li>
-                            </ul>
+                                </ul>
+                            </div>
+
                         </div>
-                        
-                       
-                        
-                       <!-- <p><a href="https://www.surveymonkey.com/s/GVQFYCJ" target="_blank"><img style="margin-left: -7px;" title="Box_OnlineGuide" src="https://static.samlearning.com/site/uploads_samlearning.com/2011/09/Box_OnlineGuide.jpg" alt="Box_OnlineGuide" width="223" height="127" /></a></p>
--->  
-                       
-                    </div>                     <div class="pagecontent" style="height:100%;">
+                        <div class="pagebanner"><div style="width:100%;position:relative;text-align:center;"><a href="/demo" title="FreeDemo"><img class="aligncenter size-full wp-image-44394" title="FreeDemo" src="https://static.samlearning.com/site/uploads_samlearning.com/2013/09/FreeDemosmallarrow.jpg" alt="FreeDemo" width="182" height="207"></a></div>
+</div>
+                    </div>
+                                        <div class="pagecontent" style="height:100%;">
 
 
                         <div class="pagetext">
-                                                    
-                            <div class="post-content">
-                             
-                            <div class="pagetitle">
                         
-                                Privacy Policy                            </div>
+                            <div class="post-content">
+                                                        <h1 class="pagetitle">
+                                Privacy Policy                            </h1>
                                                             <p style="margin-top: 20px;"><span>We at SAM Learning Ltd. take the privacy of our users seriously. This Privacy  Statement describes the information we collect on our website and how we use it.  This document covers data supplied by individuals. We have a separate policy for  Student Data sent to SAM Learning by or under the direction of schools set out  in Student  Data Policy Statement.</span></p>
 <p><span><strong>What information do we collect and how do we use it?</strong></span></p>
 <p><span>We use your IP address (a special number that relates to your Internet  connection on your computer) to help identify problems with our server and to  help administer our website.</span></p>
