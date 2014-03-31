@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the liveandworkwell.com privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916231107id_/https%3A//www.liveandworkwell.com/public/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveandworkwell.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331145019id_/https%3A//www.liveandworkwell.com/public/content/privacy.asp) for the most accurate reproduction.*
 
 # Mental health, work & life changes, stress, depression - liveandworkwell.com | Privacy Policy
 
-  
+|  |    
 
 
 ## HIPAA Notice of Privacy Practice:
@@ -29,9 +29,9 @@ This site is intended for a United States audience. If you access this site from
 
 ### Cookies and non-personal information
 
-"Non-personal information" means information that does not permit us to specifically identify you by your full name or similar unique identifying information such as a social security number, member identification number, address or telephone number. The Company uses "cookie" technology and similar technology to gather non-personal information from our website visitors such as which pages are used and how often they are used, and to enable certain features on this website.
+"Non-personal information" means information that does not permit us to specifically identify you by your full name or similar unique identifying information such as a social security number, member identification number, address or telephone number. Passive tracking mechanisms are not used to monitor individual site use. The Web site does not deploy software or spyware that aids in gathering and distributing information about a person or organization without their knowledge or asserts control over a user's computer. The Company does use "cookie" technology and similar technology to gather non-personal information from our website visitors such as which pages are used and how often they are used, and to enable certain features on this website.
 
-You may disable these cookies and similar items by adjusting your browser preferences on your computer at any time; however, this may limit your ability to take advantage of all the features on this website. Keep in mind that cookies are not used to collect any personal information and do not tell us who you are. Some examples of the way we use cookies include: 
+You may disable these cookies and similar items by adjusting your browser preferences on your computer at any time; however, this may limit your ability to take advantage of all the features on this website. Keep in mind that cookies are not used to collect any personal information and do not tell us who you are. Some examples of the way we use cookies include:
 
   * Tracking resources and data accessed on the site.
   * Recording general site statistics and activity.
@@ -49,11 +49,11 @@ Because non-personal information does not identify who you are, we do not limit 
 
 ### Personal information provided by you
 
-"Personal information" means information that specifically identifies you as an individual, such as your full name, telephone number, e-mail address, postal address, or certain account numbers. As used in this Website Privacy Policy, personal information does not include any information protected under HIPAA, which would be protected as described in the HIPAA Notices of Privacy Practices of your health plans or physicians and other health care professionals. This website may include web pages that give you the opportunity to provide us with personal information about yourself. **You do not have to provide us with personal information if you do not want to; however, that may limit your ability to use certain functions of this website or to request certain services or information.**
+"Personal information" means information that specifically identifies you as an individual, such as your full name, birthdate, gender, telephone number, e-mail address, postal address, or certain account numbers. As used in this Website Privacy Policy, personal information does not include any information protected under HIPAA, which would be protected as described in the HIPAA Notices of Privacy Practices of your health plans or physicians and other health care professionals. This website may include web pages that give you the opportunity to provide us with personal information about yourself. **You do not have to provide us with personal information if you do not want to; however, that may limit your ability to use certain functions of this website or to request certain services or information.** This site does not collect or require you to enter any personal health information. If you Opt-in to provide information, we collect personal information via the Registration form. You may access, supplement and amend your information via the "My Profile" page. Your information is stored indefinitely in a secure Company database. It is not discarded. If you wish to opt-out of future collection of personal information and/or to have your information removed, use the Technical Support form in the "Help" area. There are no limitations on amendments and deletions of your personal information. Opting-out and/or deleting your information may affect your access and use of the site.
 
 We may combine personal information that you provide us through this website with other personal information held by the Company, including with affiliates or our vendors. For example, if you have purchased a product or service from us, we may combine personal information you provide through this website with information regarding your receipt of the product or service.
 
-We may use personal information for a number of purposes such as: 
+The Web site does not use personally-identifiable information for any purposes outside the scope of the original opt-in without first obtaining additional opt-in (unless required by law). We may use personal information for a number of purposes such as: 
 
   * To respond to an e-mail or particular request from you.
   * To personalize the website for you.
@@ -74,13 +74,13 @@ The journaling function accessible from this Site allows users to submit and pos
 
 ### With whom is personal information shared?
 
-We will only share your personal information with third parties as outlined in this Website Privacy Policy (in its current or future form) and as otherwise permitted by law.
+We will only share your personal information with third parties as outlined in this Website Privacy Policy (in its current or future form) and as otherwise permitted by law. Voluntary opt-in is obtained prior to disclosure of personal information unless required for health care operations, treatment, payment, internal quality management activities or legal requirements.
 
 We share and give access to personal information to our employees and agents in the course of operating our businesses. For example, if you sent us an e-mail asking a question, we would provide your e-mail address to one of our employees or agents, along with your question, in order for that person to reply to your e-mail. We may share personal information with other affiliates or business units within the Company.
 
 We may share and give access to personal information with other companies that we hire to perform services on our behalf or collaborate with. For example, we may hire an outside company to help us send and manage e-mail, and in that case we might provide the outside company with your e-mail address and certain other information in order for them to send you an e-mail message on our behalf. Similarly, we may hire outside companies to host or operate some of our websites and related computers and software applications.
 
-However, if we share or give access to personal information to outside companies we require them to use the personal information only for limited purposes, such as for sending you the e-mail in the example above. If you believe we or any company associated with the Company has misused any of your information please contact us immediately and report such misuse.
+However, if we share or give access to personal information to outside companies we require them to use the personal information only for limited purposes, such as for sending you the e-mail in the example above. We require written agreement from any third party that has access to personally identifiable information and personal health information on (or obtained through) the Web site, holding them to the same (or higher) privacy and security standards as we use. Internal and external security audits are used to ensure that security meets or exceeds industry security standards and practices - both technological and administrative - to guard against unauthorized access to personally identifiable information and personal health information. There are no delegated sharing arrangements allowing outside companies to use or share personal information except for a defined limited purpose and the companies are contractually bound to protect this information. If you believe we or any company associated with the Company has misused any of your information please contact us immediately and report such misuse.
 
 We may share personal information if all or part of the Company is sold, merged, dissolved, acquired, or in a similar transaction.
 
@@ -94,7 +94,7 @@ This website may permit you to view your visitor profile and related personal in
 
 ### Website and information security
 
-We use a number of physical security (such as locks and alarm systems), electronic security (such as passwords and encryption methods), and procedural security methods (such as rules regarding the handling and use of information), designed to protect the security and integrity of information submitted through this website. Due to the nature of the Internet and online communications, however, we can not guarantee that any information transmitted online will remain absolutely confidential, and we are not liable for the illegal acts of third parties such as criminal hackers.
+We use a number of physical security (such as locks and alarm systems), electronic security (such as passwords and encryption methods), and procedural security methods (such as rules regarding the handling and use of information), designed to protect the security and integrity of information submitted through this website. Due to the nature of the Internet and online communications, however, we can not guarantee that any information transmitted online will remain absolutely confidential, and we are not liable for the illegal acts of third parties, such as criminal hackers. Our Company secure database maintains any PII.
 
 ### Our online communication practices
 
@@ -126,4 +126,8 @@ The Effective Date of this Privacy Policy is November 11, 2011.
 
 We may change this Website Privacy Policy. If we do so such change will appear on this page of our website or in another location as indicated by us. It is your responsibility to review the Website Privacy Policy each time you use this website. By continuing to use this website, you consent to any changes to our Website Privacy Policy.
 
+* * *
+
 *Resources and information available to you on liveandworkwell.com may vary depending on your benefit.
+
+|  | 
