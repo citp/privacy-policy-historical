@@ -1,25 +1,37 @@
-<!--The following is the downloaded HTML source of the zumper.com privacy policy that was archived on 2013-08-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130807224554id_/https%3A//www.zumper.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zumper.com privacy policy that was archived on 2014-03-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331061747id_/https%3A//www.zumper.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-    <script type="text/javascript" async="" src="https://widget.uservoice.com/B7zEMwjfvngfwJkgO6LLow.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+    <script type="text/javascript">
       var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-21602263-1']);
-      _gaq.push(['_setDomainName', 'zumper.com']);
-      _gaq.push(['_trackPageview']);
-
+      _gaq.push(['_setAccount', 'UA-21602263-1'], ['_setDomainName', 'zumper.com'], ['_trackPageview']);
       (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        if (typeof(console) === 'undefined') { console = {log: function() {}, error: function() {}}; }
+        if (document.location.hostname === 'www.zumper.com') {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        } else {
+          console.log('ga:', JSON.stringify(_gaq));
+          _gaq = {push: function(arg) { console.log('ga:', JSON.stringify(arg)); }};
+        }
       })();
     </script>
 
     <title>Privacy Policy - Zumper</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://d2n1sxp1qtdjke.cloudfront.net/b7/css/zumper_min.css" rel="stylesheet">
+    <link href="https://d2n1sxp1qtdjke.cloudfront.net/ff/css/zumper_min.css" rel="stylesheet">
+    <link href="https://d214hhm15p4t1d.cloudfront.net/ff/img/favicon.ico" rel="shortcut icon">
     
-    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <meta property="og:type" content="company">
+    <meta property="og:site_name" content="Zumper Homes and Apartments for Rent">
+    <meta property="og:url" content="https://www.zumper.com/privacy-policy">
+    <meta property="fb:admins" content="russell.j.middleton">
+    <meta name="apple-itunes-app" content="app-id=678683201">
+    <meta name="robots" content="noodp,noydir">
+
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.9/angular.min.js"></script>
 
     
     
@@ -32,11 +44,11 @@
       <div class="container">
         <div class="float-left">
           <a class="header-map-link" href="/">
-            <img class="logo" src="https://d2n1sxp1qtdjke.cloudfront.net/b7/img/header-logo.png">
+            <img alt="Homes and Apartments for Rent" class="logo" src="https://d2n1sxp1qtdjke.cloudfront.net/ff/img/header-logo.png">
           </a>
         </div>
         <div class="sections" id="section-links">
-          <a class="unselected" href="/map">Map</a><a class="unselected" href="/listing-feed">Listing Feed</a><a class="unselected" href="/favorites"><img class="favorites-star" listing-id="" src="https://d214hhm15p4t1d.cloudfront.net/b7/img/star-small-full.png" title="Favorite Listing"> Favorites</a>
+          <a class="unselected" href="/map">Map</a><a class="unselected" href="/listing-feed">Listing Feed</a><a class="unselected" href="/favorites"><img class="favorites-star" listing-id="" src="https://d214hhm15p4t1d.cloudfront.net/ff/img/star-small-full.png" title="Favorite Listing"> Favorites</a>
         </div>
         <div class="nav-bar-links" id="header-links">
           
@@ -48,6 +60,12 @@
 
 
         </div>
+        
+
+<div butter-bar="" class="butter-bar-container butter-bar-container- ng-cloak" ng-show="visible" ng-click="hideMessage()">
+  <div class="butter-bar">{[ message ]}</div>
+</div>
+
       </div>
     </div>
     <div class="content-wrapper">
@@ -64,92 +82,85 @@
         </div>
         <div class="details">
           <div class="details-container">
-<h5>Introduction</h5>
+<h5>1. Introduction</h5>
 
-<p>This privacy policy is designed to inform users of the Zumper, Inc. website (the "Website") about
-how Zumper, Inc. ("Zumper", "we" or "us") gathers and uses personal information submitted to
-Zumper through the Website. Zumper will take reasonable steps to protect user privacy consistent
-with the guidelines set forth in this policy and with applicable U.S. laws. In this policy, "user"
-or "you" means any person viewing the Website or submitting any personal information to Zumper
-in connection with using the Website. By using the Website, you are indicating your consent to
-this Privacy Policy. IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, YOU SHOULD NOT USE THE
-WEBSITE.</p>
+<p>This privacy policy is designed to inform users of the Zumper, Inc. website and any related smartphone or mobile application, including Zumper Pro (collectively, the "Website"), about how Zumper, Inc. ("Zumper", "we" or "us") gathers and uses personal information submitted to Zumper through the Website. Zumper will take reasonable steps to protect user privacy consistent with the guidelines set forth in this policy and with applicable U.S. laws. In this policy, "user" or "you" means any person viewing the Website or submitting any personal information to Zumper in connection with using the Website. By using the Website, you are indicating your consent to this Privacy Policy. IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, YOU SHOULD NOT USE THE WEBSITE.</p>
 
-<h5>What Information Do We Collect?</h5>
+<h5>2. What Information Do We Collect?</h5>
 
 <p>Personal Information:</p>
 
-<p><i>Renters:</i>&nbsp;If you sign up to use services offered through the Website, Zumper will collect certain personal information, including your name, email address, home address, employment information, phone number, educational background, credit score, financial information and income and tenancy history (collectively, the "Personal Information"). The collection of such Personal Information is consistent with our provision of services to you, including the facilitation of preliminary determinations by landlords, landlord representatives, brokers, property managers and sub-lessors of your suitability as a potential tenant. In addition, if you contact Zumper and disclose additional personal information, we may store that Personal Information.</p>
+<p><i>Renters</i>: If you sign up to use services offered through the Website, Zumper may collect certain personal information, including your name, email address, home address, employment information, phone number, educational background, credit score, financial information and income and tenancy history (collectively, the "Personal Information"). The collection of such Personal Information is consistent with our provision of services to you, including the facilitation of preliminary determinations by landlords, landlord representatives, brokers, property managers and sub-lessors of your suitability as a potential tenant. In addition, if you contact Zumper and disclose additional personal information, we may store that Personal Information.</p>
 
-<p><i>Landlords and Brokers:</i>&nbsp;When landlords, landlord representatives, brokers, property managers and sub-lessors list properties for rent on the Website, we collect the name, telephone number and email address of a contact person for such landlord, landlord representative, broker property manager or sub-lessor. We also collect bank account information from landlords, landlord representatives, brokers, property managers and sub-lessors so we are able to process payments in connection with the successful rental of listed properties.</p>
+<p><i>Landlords and Brokers</i>: When landlords, landlord representatives, brokers, property managers and sub-lessors list properties for rent on the Website, we collect the name, telephone number and email address of a contact person for such landlord, landlord representative, broker property manager or sub-lessor. We also collect bank account information from landlords, landlord representatives, brokers, property managers and sub-lessors so we are able to process payments in connection with the successful rental of listed properties.</p>
 
 <p>Web Tracking Information:</p>
 
-<p>We, and third party service providers that we engage to provide services to us ("Contractors"), may use web tracking technologies such as cookies, web beacons, pixel tags and clear GIFs in order to operate the Website efficiently and to collect data related to usage of the Website. Such collected data ("Web Tracking Information") may include the address of the websites you visited before and after you visited the Website, the type of browser you are using, your Internet Protocol (IP) address, what pages in the Website you visit and what links you clicked on, and whether you opened email communications we send to you. In order to collect Web Tracking Information and to make your use of the Website more efficient, we may store cookies on your computer. We may also use web tracking technologies that are placed in web pages on the Website or in email communications to collect information about actions that users take when they interact with the Website or such email communications, and our Contractors may also do so. We do not correlate Web Tracking Information to individual user Personal Information. Some Web Tracking Information may include data, such as IP address data, that is unique to you. You may be able to modify your browser settings to alter which web tracking technologies are permitted when you use the Website, but this may affect the performance of the Website.
-</p>
+<p>We, and third party service providers that we engage to provide services to us ("Contractors"), may use web tracking technologies such as cookies, web beacons, pixel tags and clear GIFs in order to operate the Website efficiently and to collect data related to usage of the Website. Such collected data ("Web Tracking Information") may include the address of the websites you visited before and after you visited the Website, the type of browser you are using, your Internet Protocol (IP) address, what pages in the Website you visit and what links you clicked on, and whether you opened email communications we send to you. In order to collect Web Tracking Information and to make your use of the Website more efficient, we may store cookies on your computer. We may also use web tracking technologies that are placed in web pages on the Website or in email communications to collect information about actions that users take when they interact with the Website or such email communications, and our Contractors may also do so. We do not correlate Web Tracking Information to individual user Personal Information. Some Web Tracking Information may include data, such as IP address data, that is unique to you. You may be able to modify your browser settings to alter which web tracking technologies are permitted when you use the Website, but this may affect the performance of the Website.</p>
 
-<h5>How Do We Use the Information We Collect?</h5>
+<h5>3. How Do We Use the Information We Collect?</h5>
 
-<p><i>Personal Information:</i> We will use and store Personal Information for the purpose of delivering the Website and our services to you, and to analyze and enhance the operation of the Website. We may also use Personal Information for the internal operational and administrative purposes of the Website. We may enter Personal Information into our contact management database, and may use such database to send you marketing materials and to contact you regarding your interest in Zumper products and services.</p>
+<p><i>Personal Information</i>: We will use and store Personal Information for the purpose of delivering the Website and our services to you, and to analyze and enhance the operation of the Website. We may also use Personal Information for the internal operational and administrative purposes of the Website. We may enter Personal Information into our contact management database, and may use such database to send you marketing materials and to contact you regarding your interest in Zumper products and services.</p>
 
-<p><i>Aggregate Information:</i> We will also create statistical, aggregated data relating to our users and the Website for analytical purposes. Aggregated data is derived from Personal Information and Web Tracking Information but in its aggregated form it does not relate to or identify any individual. This data is used to understand our customer base and to develop, improve and market our services.</p>
+<p><i>Aggregate Information</i>: We will also create statistical, aggregated data relating to our users and the Website for analytical purposes. Aggregated data is derived from Personal Information and Web Tracking Information but in its aggregated form it does not relate to or identify any individual. This data is used to understand our customer base and to develop, improve and market our services.</p>
 
-<p><i>Web Tracking Information:</i> We use Web Tracking Information to administer the Website and to understand how well our Website is working, to store your user preferences, and to develop statistical information on usage of the Website. This allows us to determine which features visitors like best to help us improve the Website, to personalize your user experience, and to measure overall effectiveness.</p>
+<p><i>Web Tracking Information</i>: We use Web Tracking Information to administer the Website and to understand how well our Website is working, to store your user preferences, and to develop statistical information on usage of the Website. This allows us to determine which features visitors like best to help us improve the Website, to personalize your user experience, and to measure overall effectiveness.</p>
 
-<p><i>Legal Exception:</i> Notwithstanding the above, Zumper may use Personal Information to the extent required by law or legal process, or if in Zumper's reasonable discretion use is necessary to investigate fraud or any threat to the safety of any individual, to protect Zumper's legal rights or to protect the rights of third parties.</p>
+<p><i>Legal Exception</i>: Notwithstanding the above, Zumper may use Personal Information to the extent required by law or legal process, or if in Zumper's reasonable discretion use is necessary to investigate fraud or any threat to the safety of any individual, to protect Zumper's legal rights or to protect the rights of third parties.</p>
 
-<h5>What Information Do We Disclose to Third Parties?</h5>
+<h5>4. What Information Do We Disclose to Third Parties?</h5>
 
-<p><i>Zumper's Disclosure of Personal Information:</i> We will use the Personal Information you give us to fulfill the services you request from us. This may include sharing such Personal Information with any of our Contractors, or with any landlord, landlord representative, broker, property manager or sub-lessor who is bound by obligations of confidentiality and with whom you may wish to enter into a rental contract. Except as set forth in the previous sentence, as described under "Permitted Disclosures" below, and as otherwise authorized by you, Zumper will not disclose Personal Information to any third party. Zumper shall in no event be liable to you for any use or misuse of Personal Information by any third party with whom your Personal Information has been shared in accordance with the terms of this paragraph.</p>
+<p><i>Zumper's Disclosure of Personal Information</i>: We will use the Personal Information you give us to fulfill the services you request from us. This may include sharing such Personal Information with any of our Contractors, or with any landlord, landlord representative, broker, property manager or sub-lessor who is bound by obligations of confidentiality and with whom you may wish to enter into a rental contract. Except as set forth in the previous sentence, as described under "Permitted Disclosures" below, and as otherwise authorized by you, Zumper will not disclose Personal Information to any third party. Zumper shall in no event be liable to you for any use or misuse of Personal Information by any third party with whom your Personal Information has been shared in accordance with the terms of this paragraph.</p>
 
-<p><i>Web Tracking Information:</i> We may disclose Web Tracking Information to Contractors in order to analyze the performance of the Website and the behavior of users, and to operate and improve the Website. Certain Web Tracking information, such as the popularity ranking of certain pages of the Website, may be published on the Website and so disclosed to all users of the Website.</p>
+<p><i>Web Tracking Information</i>: We may disclose Web Tracking Information to Contractors in order to analyze the performance of the Website and the behavior of users, and to operate and improve the Website. Certain Web Tracking information, such as the popularity ranking of certain pages of the Website, may be published on the Website and so disclosed to all users of the Website.</p>
 
-<p><i>Aggregate Information:</i> We may disclose aggregated data that does not contain Personal Information to any third parties, such as potential customers, business partners, advertisers, and funding sources, in order to describe our business and operations.</p>
+<p><i>Aggregate Information</i>: We may disclose aggregated data that does not contain Personal Information to any third parties, such as potential customers, business partners, advertisers, and funding sources, in order to describe our business and operations.</p>
 
-<p><i>Permitted Disclosures:</i> Notwithstanding the foregoing, Zumper reserves the right to disclose any information we collect in connection with the Website, without further notice to you to any successor to Zumper's business as a result of any merger, acquisition or similar transaction; and to any law enforcement or regulatory authority to the extent required by law or if, in Zumper's reasonable discretion, disclosure is necessary to investigate fraud or any threat to the safety of any individual, to protect Zumper's legal rights or to protect the rights of third parties.</p>
+<p><i>Permitted Disclosures</i>: Notwithstanding the foregoing, Zumper reserves the right to disclose any information we collect in connection with the Website, without further notice to you to any successor to Zumper's business as a result of any merger, acquisition or similar transaction; and to any law enforcement or regulatory authority to the extent required by law or if, in Zumper's reasonable discretion, disclosure is necessary to investigate fraud or any threat to the safety of any individual, to protect Zumper's legal rights or to protect the rights of third parties.</p>
 
-<h5>How Can You Opt Out of Use and Disclosure of Your Information?</h5>
+<h5>5. How Can You Opt Out of Use and Disclosure of Your Information?</h5>
 
 <p>If you would like your Personal Information removed from our mailing list or database, please contact us at <a href="mailto:hello@zumper.com">hello@zumper.com</a>. In the event of any such removal, Zumper may retain copies of information for its archives.</p>
 
-<h5>Accessing, Updating or Deleting Your Personal Information</h5>
+<h5>6. Accessing, Updating or Deleting Your Personal Information</h5>
 
 <p>You can access, review, update, correct and/or delete your Personal Information by using the profile editing tools on the Website or by contacting us at <a href="mailto:hello@zumper.com">hello@zumper.com</a>. Zumper reserves the right to verify your identity in order to provide such access.</p>
 
-<p>Even after you remove information from your profile or delete your account, copies of that information may remain viewable elsewhere to the extent it has been shared with others. However, your name will no longer be associated with that information on the Website. Additionally, we may retain certain information to prevent identity theft and other misconduct even if deletion has been requested.  Removed and deleted information may persist in backup copies indefinitely, but will not be available to others.</p>
+<p>Even after you remove information from your profile or delete your account, copies of that information may remain viewable elsewhere to the extent it has been shared with others. However, your name will no longer be associated with that information on the Website. Additionally, we may retain certain information to prevent identity theft and other misconduct even if deletion has been requested. Removed and deleted information may persist in backup copies indefinitely, but will not be available to others.</p>
 
-<h5>Security</h5>
+<h5>7. Security</h5>
 
-<p>We use reasonable security precautions to protect the security and integrity of your Personal Information, both during transmission and once we receive it, in accordance with this policy and applicable law.  We encrypt transmissions of Personal Information through the Website using secure socket layer technology (SSL).  However, no method of electronic storage or Internet transmission is completely secure, and we cannot guarantee that security breaches will not occur. Without limitation of the foregoing, we are not responsible for the actions of hackers and other unauthorized third parties that breach our reasonable security procedures.</p>
+<p>We use reasonable security precautions to protect the security and integrity of your Personal Information, both during transmission and once we receive it, in accordance with this policy and applicable law. We encrypt transmissions of Personal Information through the Website using secure socket layer technology (SSL). However, no method of electronic storage or Internet transmission is completely secure, and we cannot guarantee that security breaches will not occur. Without limitation of the foregoing, we are not responsible for the actions of hackers and other unauthorized third parties that breach our reasonable security procedures.</p>
 
-<h5>Links</h5>
+<h5>8. Links</h5>
 
-<p>The Website may contain links to other websites. Zumper is not responsible for the privacy practices or the content of those websites. Users should be aware of this when they leave our site and review the privacy statements of each Web site they visit that collects information. This Privacy Policy applies solely to personal information collected by Zumper.</p>
+<p>The Website may contain links to other websites. Zumper is not responsible for the privacy practices or the content of those websites. Users should be aware of this when they leave our site and review the privacy statements of each website they visit that collects information. This Privacy Policy applies solely to personal information collected by Zumper.</p>
 
-<h5>Amendments</h5>
+<h5>9. Amendments</h5>
 
 <p>Zumper may modify or amend this policy from time to time. If we make any material changes, as determined by Zumper, to this Privacy Policy, including in the way in which Personal Information is collected, used or transferred, we will notify you by e-mail to the address specified in your Zumper profile or by means of a notice on the Website prior to the change becoming effective.</p>
 
-<h5>Website Visitors from outside the United States</h5>
+<h5>10. Website Visitors from outside the United States</h5>
 
 <p>Zumper and its servers are located in the United States and are subject to the applicable state and federal laws of the United States. If you choose to access the Website, you consent to the use and disclosure of information in accordance with this privacy policy and subject to such laws.</p>
 
-<h5>Users under 13 years of age</h5>
+<h5>11. Users under 13 years of age</h5>
 
 <p>The Website does not knowingly collect personal information from users under the age of 13. If you are under the age of 13, you are not permitted to use the Website.</p>
 
-<h5>Terms of Use</h5>
+<h5>12. Terms of Use</h5>
 
-<p>This policy forms part of, and is subject to, the provisions of Zumper's <b><a href="/terms-of-use">Terms of Use</a></b>.</p>
+<p>This policy forms part of, and is subject to, the provisions of Zumper's <a href="/terms-of-use">Terms of Use</a>.</p>
 
-<p>Effective Date of this policy: July 3rd, 2012 
-          </p></div>
+<p>Effective Date of this policy: February 10, 2014.</p>
+
+          </div>
         </div>
       </div>
     </div>
   </div>
 
-<script type="text/javascript" src="https://d214hhm15p4t1d.cloudfront.net/b7/js/static-compiled.js"></script>
+<script type="text/javascript" src="https://d214hhm15p4t1d.cloudfront.net/ff/js/static-compiled.js"></script>
 
     </div>
     
@@ -160,7 +171,7 @@ WEBSITE.</p>
   <h3>Sign In</h3>
 </div>
 <div class="modal-body">
-  <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="hLdOaXYJN8xxbxFFnCPZNWrtxghjzmwE"></div>
+  <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="VO2r2WgigzGv4ZhInF2ZLKPzwUWiP3CM"></div>
   <div class="facebook-login">
     <a href="https://graph.facebook.com/oauth/authorize?client_id=178791798914625&amp;redirect_uri=https://www.zumper.com/zumper-account/facebook-login/&amp;scope=email"><img src="https://developers.facebook.com/images/devsite/login-button.png"></a> or <b>Sign In</b> with your Zumper account
   </div>
@@ -193,7 +204,7 @@ WEBSITE.</p>
   </div>
 </div>
 <div class="modal-footer">
-  <a href="#" class="btn close-form">Close</a>
+  <a class="btn close-form">Close</a>
   <input class="btn btn-success submit" data-orig-val="Sign In" type="submit" value="Sign In">
 </div>
 
@@ -210,7 +221,7 @@ WEBSITE.</p>
   <div class="facebook-login">
     <a href="https://graph.facebook.com/oauth/authorize?client_id=178791798914625&amp;redirect_uri=https://www.zumper.com/zumper-account/facebook-login/&amp;scope=email"><img src="https://developers.facebook.com/images/devsite/login-button.png"></a> or <b>Create a Zumper Account</b>
   </div>
-  <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="hLdOaXYJN8xxbxFFnCPZNWrtxghjzmwE"></div>
+  <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="VO2r2WgigzGv4ZhInF2ZLKPzwUWiP3CM"></div>
   <fieldset>
     <div class="control-group">
       <div class="controls">
@@ -253,7 +264,7 @@ WEBSITE.</p>
   </div>
 </div>
 <div class="modal-footer">
-  <a href="#" class="btn close-form">Close</a>
+  <a class="btn close-form">Close</a>
   <input class="btn btn-success submit" data-orig-val="Create Account" type="submit" value="Create Account">
 </div>
 
@@ -297,30 +308,78 @@ WEBSITE.</p>
 
     
       <div class="page-footer">
-        © 2013 Zumper Inc. <span class="small-divider">|</span>
-        <a href="/about">About</a> <span class="small-divider">|</span>
-        <a href="http://blog.zumper.com">Blog</a> <span class="small-divider">|</span>
-        <a href="http://www.facebook.com/zumperinc">Facebook</a> <span class="small-divider">|</span>
-        <a href="http://twitter.com/zumperrentals">@ZumperRentals</a> <span class="small-divider">|</span>
-        <a href="/terms-of-use">Terms Of Use</a> <span class="small-divider">|</span>
-        <a href="/privacy-policy">Privacy Policy</a>
+        
+          <div class="location-link-container">
+            
+
+
+
+<h3>Homes and apartments for rent in popular cities</h3>
+<div class="fifth-container">
+  <a href="/rentals/ann-arbor-mi-apartments-for-rent">Ann Arbor</a><br>
+  <a href="/rentals/arlington-va-apartments-for-rent">Arlington</a><br>
+  <a href="/rentals/atlanta-ga-apartments-for-rent">Atlanta</a><br>
+  <a href="/rentals/austin-tx-apartments-for-rent">Austin</a><br>
+  <a href="/rentals/baltimore-md-apartments-for-rent">Baltimore</a><br>
+  <a href="/rentals/boston-ma-apartments-for-rent">Boston</a>
+</div>
+<div class="fifth-container">
+  <a href="/rentals/charlotte-nc-apartments-for-rent">Charlotte</a><br>
+  <a href="/rentals/chicago-il-apartments-for-rent">Chicago</a><br>
+  <a href="/rentals/columbus-oh-apartments-for-rent">Columbus</a><br>
+  <a href="/rentals/dallas-tx-apartments-for-rent">Dallas</a><br>
+  <a href="/rentals/denver-co-apartments-for-rent">Denver</a><br>
+  <a href="/rentals/detroit-mi-apartments-for-rent">Detroit</a>
+</div>
+<div class="fifth-container">
+  <a href="/rentals/houston-tx-apartments-for-rent">Houston</a><br>
+  <a href="/rentals/las-vegas-nv-apartments-for-rent">Las Vegas</a><br>
+  <a href="/rentals/los-angeles-ca-apartments-for-rent">Los Angeles</a><br>
+  <a href="/rentals/miami-fl-apartments-for-rent">Miami</a><br>
+  <a href="/rentals/minneapolis-mn-apartments-for-rent">Minneapolis</a><br>
+  <a href="/rentals/new-york-ny-apartments-for-rent">New York</a>
+</div>
+<div class="fifth-container">
+  <a href="/rentals/philadelphia-pa-apartments-for-rent">Philadelphia</a><br>
+  <a href="/rentals/phoenix-az-apartments-for-rent">Phoenix</a><br>
+  <a href="/rentals/pittsburgh-pa-apartments-for-rent">Pittsburgh</a><br>
+  <a href="/rentals/portland-or-apartments-for-rent">Portland</a><br>
+  <a href="/rentals/san-antonio-tx-apartments-for-rent">San Antonio</a><br>
+  <a href="/rentals/san-diego-ca-apartments-for-rent">San Diego</a>
+</div>
+<div class="fifth-container last-child">
+  <a href="/rentals/san-francisco-ca-apartments-for-rent">San Francisco</a><br>
+  <a href="/rentals/santa-monica-ca-apartments-for-rent">Santa Monica</a><br>
+  <a href="/rentals/seattle-wa-apartments-for-rent">Seattle</a><br>
+  <a href="/rentals/tampa-fl-apartments-for-rent">Tampa</a><br>
+  <a href="/rentals/tucson-az-apartments-for-rent">Tucson</a><br>
+  <a href="/rentals/washington-dc-apartments-for-rent">Washington</a>
+</div>
+
+          </div>
+        
+        <div class="footer-content">
+          <a href="/about">About</a>
+          <a href="https://angel.co/zumper/jobs">Jobs</a>
+          <a href="http://blog.zumper.com">Blog</a>
+          <a href="http://www.facebook.com/zumperinc">Facebook</a>
+          <a href="http://twitter.com/zumperrentals">@ZumperRentals</a>
+          <a href="/sitemap">Site Map</a>
+          <a href="/terms-of-use">Terms Of Use</a>
+          <a href="/privacy-policy">Privacy Policy</a>
+          <div class="attribution">
+            © 2014 Zumper Inc.
+          </div>
+        </div>
       </div>
     
     <input id="user-id" type="hidden" value="">
     <div class="hide">
       
-      <img src="https://d2n1sxp1qtdjke.cloudfront.net/b7/img/markers/marker-white.png">
-      <img src="https://d214hhm15p4t1d.cloudfront.net/b7/img/markers/marker-visited.png">
+      <img src="https://d2n1sxp1qtdjke.cloudfront.net/ff/img/markers/marker-white.png">
+      <img src="https://d214hhm15p4t1d.cloudfront.net/ff/img/markers/marker-visited.png">
     </div>
 
-    <script type="text/javascript">
-      var uvOptions = {};
-      (function() {
-        var uv = document.createElement('script'); uv.type = 'text/javascript'; uv.async = true;
-        uv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'widget.uservoice.com/B7zEMwjfvngfwJkgO6LLow.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv, s);
-      })();
-    </script>
     
   
 
