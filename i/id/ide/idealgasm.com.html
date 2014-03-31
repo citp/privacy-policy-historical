@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the idealgasm.com privacy policy that was archived on 2013-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130526201345id_/https%3A//www.idealgasm.com/page/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the idealgasm.com privacy policy that was archived on 2014-03-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331102048id_/https%3A//www.idealgasm.com/page/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <title>iDealgasm - Daily Adult Deals - Privacy Policy</title>
@@ -7,10 +7,12 @@
 <meta name="description" content="This Privacy Policy discloses the privacy practices for the iDealgasm website">
 <link rel="stylesheet" title="css" href="/css/style.css" type="text/css">
 <link rel="stylesheet" href="/css/anythingslider.css" type="text/css">
+<link rel="stylesheet" href="/video-js/video-js.min.css">
 <link rel="alternate" title="RSS 2.0" href="/rss/us/san-francisco" type="application/rss+xml">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/javascript/jquery-1.6.1.min.js"></script>
 <script type="text/javascript" src="/javascript/jquery-countdown.js"></script>
 <script type="text/javascript" src="/javascript/jquery.anythingslider.min.js"></script>
+<script type="text/javascript" src="/video-js/video.js"></script>
 <script type="text/javascript" src="https://connect.facebook.net/en_US/all.js"></script>
 <link href="/images/favicon.ico" type="image/x-icon" rel="icon">
 <link href="/images/favicon.ico" type="image/x-icon" rel="shortcut icon">
@@ -19,13 +21,14 @@
 <div id="fb-root"></div>
 <script type="text/javascript">  
 $(document).ready(function(){
-	      FB.init({
-            appId      : '123496127736285',
-            status     : true, 
-            cookie     : true,
-            xfbml      : true,
-            oauth      : true,
-          });
+	FB.init({
+	  appId      : '123496127736285',
+	  status     : true, 
+	  cookie     : true,
+	  xfbml      : true,
+	  oauth      : true,
+	});
+
 	$("#overlay").css('height', $(document).height());
 	$('#paymentFaqList .qFaq').each(function() { var obj = $(this), state = false, answer = obj.next('div.aFaq').hide(); obj.click(function() { state = !state; answer.slideToggle(state); obj.toggleClass('active',state); }); });
 });
@@ -33,57 +36,58 @@ $(document).ready(function(){
 <div id="overlay" style="display: none;"></div>
 <div class="total-container">
 <h1>iDealGasm - <strong>Daily adult deals</strong>! </h1>
-<div class="topHeader">
-  <div class="header-container">
+<div class="header-container">
+  <div class="header">
     <div id="logo" class="logo"><a href="/" title="Adult Deals"><img src="/images/logo.png" width="198" height="149" alt="Daily adult deals" title="Adult Deals"></a></div>
-      <ul class="topNavBar">
-      <li><a class="city-select" title="Adult Deals from San Francisco" onclick="$('ul[id^=states]').hide();$('#statesC').show();$('div.dropdown-wrapper').slideDown();$('#overlay').show();">San Francisco</a></li>
-      <li><a href="/page/how-it-works">How it works</a></li>
-      <li><a href="/blog/" class="button blogBtn" title="iDeal Gasm Blog" target="_blank">Adult Deals Blog</a></li>
-        <li class="social"><a href="http://www.facebook.com/idealgasm" class="facebook" target="_blank" title="iDealGasm @ Facebook">Facebook</a> <a href="http://www.twitter.com/idealgasm" class="twitter" target="_blank" title="iDealgasm @ Twitter">Twitter</a></li>
-      <li><a href="/user/signin">Sign in</a></li>
-      <li><a href="/user/signup">Sign up</a></li>
-      </ul>
-    <div class="header">
-      <div class="header-box">
-        <ul>
-          <li><a href="/us/san-francisco/past-trial-deals" title="Past Adult Deals"><span>Past Deals</span></a></li>
-          <li><a href="/us/san-francisco/trial-deals" title="Trial Adult Deals"><span>Trial Deals</span></a></li>
-                    <li><a href="http://gasmstore.idealgasm.com" title="Gasm Store" target="_blank"><span>Gasm Store</span></a></li>
-          <li class="redeem"><a href="/us/san-francisco/live-deals" title="Live Adult Deals"><span>Live Deals</span></a></li>
-          <li><a href="/us/san-francisco" title="Featured Adult Deal"><span>Featured Deal</span></a></li> 
-        </ul>
-      </div>
-      <div class="searchHeader">
-        <form action="/us/san-francisco/search" method="post">
-          <input type="text" name="q" value="search all deals..." class="input" onblur="if (this.value == '') {this.value = this.defaultValue;}" onfocus="if (this.value == this.defaultValue) {this.value = '';};">
-          <input type="submit" name="submit" class="submit" value="Search">
-        </form>
-      </div>
-      <div class="clear"></div>
-      <div class="headerCategories">
-        <ul>
-          <li><a href="/us/san-francisco/category/most viewed">Most Viewed</a></li>
-          <li><a href="/us/san-francisco/category/membership">Membership</a></li>
-          <li><a href="/us/san-francisco/category/pornstar">Pornstar</a></li>
-          <li><a href="/us/san-francisco/category/cams and dating">Cams and Dating</a></li>
-          <li><a href="/us/san-francisco/category/toys and lingerie">Toys and Lingerie</a></li>
-          <li><a href="/us/san-francisco/category/supplement">Supplement</a></li>
-          <li><a href="/us/san-francisco/category/dvd">DVD</a></li>
-          <li><a href="/us/san-francisco/all">View All</a></li>
-        </ul> 
-      </div>
+    <div class="topbar">
+    <ul>
+      <li class="item link first"><a class="city-select" title="Adult Deals from San Francisco" onclick="$('ul[id^=states]').hide();$('#statesC').show();$('div.dropdown-wrapper').slideDown();$('#overlay').show();">San Francisco</a></li>
+	        <li class="item link"><a href="/blog/" class="button blogBtn" title="iDeal Gasm Blog" target="_blank">Adult Deals Blog</a></li>
+      <li class="item link"><a href="http://www.facebook.com/idealgasm" class="social facebook" target="_blank" title="iDealGasm @ Facebook">Facebook</a><a href="http://www.twitter.com/idealgasm" class="social twitter" target="_blank" title="iDealgasm @ Twitter">Twitter</a></li>
+      <li class="item link"><a href="/user/signin">Sign in</a></li>
+      <li class="item link"><a href="/user/signup">Sign up</a></li>
+	        <li class="item">
+        <div class="search">
+          <form action="/us/san-francisco/search" method="post">
+            <input type="text" name="q" placeholder="search all deals..." class="input">
+            <input type="submit" name="submit" class="submit" value="Search">
+          </form>
+        </div>
+      </li>
+	  	</ul>
+    </div>
+    <div class="alertBox"><a id="getDealAlertBtn">Get an iDealgasm Alert here</a></div>	<div class="clear"></div>
+    <div class="nav">
+      <ul>
+        <li class="featured"><span></span><a href="/us/san-francisco" title="The Daily Deal">The Daily Deal</a></li> 
+        <li class="redeem"><a href="/us/san-francisco/live-deals" title="Live Adult Deals"><span>&nbsp;</span>Favorites</a></li>
+        <li><a href="/view-all-categories" title="Categories">Categories</a></li>
+        <li><a href="/us/san-francisco/category/view all">View All Deals</a></li>
+        <li class="newapp"><a href="http://www.badoink.com/go.php?t=832&amp;aid=104390&amp;sid=tab&amp;utm_source=idealgasm_tab&amp;utm_medium=idealgasm_tab&amp;utm_campaign=idealgasm_tab" target="_blank" title="Free Porn App">Free Porn App</a></li>
+        <li class="vendor"><a href="/us/san-francisco/featured-vendor" title="ClubSeventeen Deals" style="background: url(https://www.idealgasm.com/images/clubseventeen-tab.png)">ClubSeventeen Deals</a></li>              </ul>
+    </div>
+    <div class="clear"></div>
+    <div class="categories">
+      <ul>
+        <li><a href="/us/san-francisco/category/most viewed">Most Viewed This Week</a></li>
+        <li><a href="/us/san-francisco/category/membership">Membership</a></li>
+        <li><a href="/us/san-francisco/category/porn star">Porn Star</a></li>
+        <li><a href="/us/san-francisco/category/cams and dating">Cams &amp; Dating</a></li>
+        <li><a href="/us/san-francisco/category/toys and lingerie">Toys &amp; Lingerie</a></li>
+        <li><a href="/page/idealgasm-entertainment">Entertainment</a></li>
+        <li><a href="/us/san-francisco/category/supplement">Supplement</a></li>
+        <li><a href="http://www.gasmlive.com/en/" target="_blank" title="Live Cams" style="color: #F00">Live Cams</a></li>
+        <li><a href="/us/san-francisco/past-deals" title="Past Adult Deals">View Past Deals</a></li>
+      </ul> 
     </div>
     <div class="clear"></div>
   </div>
-</div><div class="main-container">
-  <div class="wrapper-left">
-    <div class="wrapperTop"></div>
-    <div class="wrapperBG">
-      <div class="wrapper">
-        <h2>Privacy Policy</h2>
-        <div class="pageBox">
-          
+</div>
+<div class="main-container">
+  <div class="wrapper wrapper-left">
+    <h2>Privacy Policy</h2>
+    <div class="pageBox">
+      
 <p class="MsoNormal" style="line-height: normal;"><span style="font-size: 12pt; font-family: 'Times New Roman'; font-weight: bold;"></span><span style="font-size: 12pt; font-family: 'Times New Roman';">This Privacy Policy discloses the privacy practices for the iDealgasm website (collectively, the "Website” located at www.idealgasm.com). SternDoor LLC, D/B/A iDealgasm, a Pennsylvania corporation, the provider of the Website (referred to as "us” or "we”), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the "User” or the "End User”) and how we use that information. If you have any questions about our privacy policy, please email us.</span></p>
 
 
@@ -241,85 +245,45 @@ $(document).ready(function(){
 
 
 <p class="MsoNormal"><span style="font-size: 12pt; line-height: 115%; font-family: 'Times New Roman';">Or via email @ info@idealgasm.com</span></p> 	
-        </div>
-        <div class="clear"></div>
-      </div>
     </div>
-    <div class="wrapperBottom"></div>
+    <div class="clear"></div>
   </div>
   <div class="wrapper-right">
-	<script src="/javascript/jquery.validate.js" type="text/javascript"></script>
-<script type="text/javascript">
-
-$(document).ready(function() {
-	$("#subscribe").validate();
-	$("#getDealAlertBtn").click(function(){
-			$("#getDealAlertBtn").hide();
-			$(".subscribeBox").show();
-		});
-	$("#closeDealAlertBtn").click(function(){
-			$(".subscribeBox").hide();
-			$("#getDealAlertBtn").show();		
-		});
-});
-function subscribe234(){
-	if($("#subscribe").valid())
-	{
-
-		$.ajax({
-   type: "POST",
-   url: "/extra/subscribe.php",
-   data: "email="+$('#subscribe_email').val()+"&zipcode="+$('#subscribe_zip').val()+"&gender="+$('[name="gender"]:checked').val()+"",
-   success: function(msg){
-    	if(msg == "confirm"){
-		$('#alert_message').show();
-		$('#alert_holder').hide();
-		} else {
-		$('#alert_error').html(msg);
-		}
-   	}});
-	}
 	
-}
-</script>
-	<a class="rightBox" id="getDealAlertBtn">Get an iDealgasm Alert here</a>
-    <div class="rightBox subscribeBox">
-      <div id="alert_message" class="subscribeSucceed">Thanks for signing up to get an iDealgasm!</div>
-      <div id="alert_holder">      
-        <div class="rightBoxTop"></div>
-        <div class="rightContent">
-          <h4>Get An iDealgasm Alert</h4>
-          <div class="subscribeMsg">Enter your info below<br> and we will remind you<br> of the hottest deals around.</div>
-          <div class="subscribePic"></div>
-          <form action="/subscribe/add/new" method="post" name="subscribe" id="subscribe" onsubmit="subscribe234(); return false;">
-            <div id="alert_error"></div>
-            <p><label for="subscribe_email">Email</label><input type="text" value="Your email" class="subscribeinput required email" name="email" id="subscribe_email" onclick="if(this.value == 'Your email') this.value='';" onblur="if(this.value == '')  this.value='Your email';"></p>
-            <p><label for="subscribe_zip">Zip code</label><input type="text" value="Your zip code" class="subscribeinput required postalcode" name="zipcode" id="subscribe_zip" onclick="if(this.value == 'Your zip code') this.value='';" onblur="if(this.value == '')  this.value='Your zip code';"></p>
-            <p><label>Genre</label>
-              <input type="radio" value="1" name="gender" id="subscribecheck1" checked="checked"> Male
-              <input type="radio" value="0" name="gender" id="subscribecheck2"> Female</p>
-            <p><label class="over18"><input type="checkbox" value="" class="required" name="subscribecheck3" id="subscribecheck3"> I am over 18 years old</label></p>
-            <p><input type="submit" id="login" value="Subscribe" class="button btnSubscribe"></p>
-          </form>
-            <a id="closeDealAlertBtn">Close</a>
-        </div>
-      </div>
-    </div>
+
 
 <div class="rightBox">
-  <a href="http://gasmcams.idealgasm.com" target="_blank" class="rightBoxCam">iDealGasm Cams</a>
+  <a href="http://natour.naughtyamerica.com/track/idealgasm1.12.8.8.12.1005682.0.0.0/?apc=OTk1" target="_blank"><img src="/images/naughtyamerica/banner-2.png" alt="NaughtyAmerica - 70% OFF" width="235" height="166"></a>
 </div>
-            <div class="rightBox">
-  <a href="http://www.fyretv.com/" target="_blank"><img src="/banners/FYRE-banner.png" width="231" height="144" alt="Unlimited XXX Movies"></a>
-</div>          </div>
+
+        <div class="rightBox">
+  <a href="http://gasmcams.idealgasm.com" target="_blank" class="rightBoxCam">iDealGasm Cams</a>
+</div>              </div>
   <div class="clear"></div>
 </div>
+<div class="ads-container"><div class="adsFloating"><a href="http://secure.cherrypimps.com/track/MTUwMjkwLjI3LjEuMS4wLjAuMC4wLjA" target="_blank"><img src="https://www.idealgasm.com/banners/5303bb54be6ea.png" alt=""></a></div></div>
+<script type="text/javascript">  
+function floatingAds(){
+  var width = $(window).width();
+  
+  if(width > 1200)  {
+	$('div.adsFloating').css("display", "block");
+  } else {
+	$('div.adsFloating').css("display", "none");
+  }
+};
+
+$(document).ready(function(){ floatingAds() });
+$(window).resize(function() { floatingAds() });
+
+</script>
+
 <div class="footer-container">
   <ul class="footer">
     <li class="footerLi">
     <div class="bottom affiliates">
-      <h4><a href="/page/affiliate" title="iDealgasm Affiliates">iDealgasm Affiliates</a></h4>
-      <p><a href="/page/affiliate">Contact us today if you are interested in joining our affiliate program.</a></p>
+      <h4><a href="/signup/affiliate" title="iDealgasm Affiliates">iDealgasm Affiliates</a></h4>
+      <p><a href="/signup/affiliate">Contact us today if you are interested in joining our affiliate program.</a></p>
     </div>
     </li>
     <li class="footerLi">
@@ -329,13 +293,16 @@ function subscribe234(){
       </div>
     </li>
     <li class="footerLi">
-      <div class="bottom gasmcams">
-        <h4><a href="http://gasmcams.idealgasm.com/" target="_blank" title="iDealGasm Cams">Live Show in Progress<br> ENTER NOW!</a></h4>
+      <div class="bottom gasmstore">
+        <h4><a href="http://gasmstore.idealgasm.com/" target="_blank" title="iDealGasm Store">Shop at the Gasm Store <br>today for a sexy tomorrow</a></h4>
+      </div>
+      <div class="bottom refer">
+        <h4><a href="/page/refer-a-friend" title="Refer A Friend">Refer a friend and earn <br> $11 Gasm Bucks!</a></h4>
       </div>
     </li>
     <li class="footerLi">
-      <div class="bottom refer">
-        <h4><a href="/page/refer-a-friend" title="Refer A Friend">Refer a friend and earn <br> $11 Gasm Bucks!</a></h4>
+      <div class="bottom categories">
+        <h4><a href="/view-all-categories"><img src="/images/footer-categories.png" alt="iDealgasm Categories" width="216" height="96"></a></h4>
       </div>
       <div class="social">
 		<div class="follow">Follow us  
@@ -372,7 +339,7 @@ function subscribe234(){
       <div>
         <h5>About iDealgasm</h5>
         <p>iDealgasm provides you with more bang for your buck, we strip up to 100% off the best in adult entertainment products and services. It's simple: we take off, you get off.</p>
-        <p class="copyright">© 2013 iDealgasm, Inc. All Rights Reserved.</p>
+        <p class="copyright">© 2014 iDealgasm, Inc. All Rights Reserved.</p>
        	<p class="asacp"><a href="http://www.asacp.org/" rel="nofollow" target="_blank"><img src="/images/ASACP.gif" alt="ASACP"></a>&nbsp;&nbsp;&nbsp;<a href="http://www.rtalabel.org/" rel="nofollow" target="_blank"><img src="/images/rta.png" alt="RTA"></a></p>
       </div>
     </li>
@@ -380,7 +347,7 @@ function subscribe234(){
             <p class="gasmsSavedTitle">GASMS SAVED</p>
       <div class="gasmsSavedDiv">
         <span class="gasmsSaved">$</span>
-                <span class="gasmsSaved">2</span>                <span class="gasmsSaved">2</span>                <span class="gasmsSaved">3</span><span class="gasmsSavedCom">,</span>                <span class="gasmsSaved">8</span>                <span class="gasmsSaved">9</span>                <span class="gasmsSaved">2</span>              </div>
+                <span class="gasmsSaved">3</span>                <span class="gasmsSaved">3</span>                <span class="gasmsSaved">9</span><span class="gasmsSavedCom">,</span>                <span class="gasmsSaved">8</span>                <span class="gasmsSaved">4</span>                <span class="gasmsSaved">8</span>              </div>
             <div><a id="footerDelia">Meet Dealia</a></div>
     </li>
   </ul>
@@ -405,6 +372,103 @@ function subscribe234(){
   });
 </script>
 </div>
+<div class="subscribeBox">
+  <div id="alert_holder" class="alertSubscribe">
+    <h4>Get An iDealgasm Alert</h4>
+    <div class="title"><div>Enter your info below<br> and we will remind you<br> of the hottest deals around.</div></div>
+    <form action="/subscribe/add/new" method="post" name="subscribe" id="subscribe" onsubmit="subscribe234(); return false;">
+      <div id="alert_error"></div>
+      <p><label for="subscribe_first_name">First name</label><input type="text" value="" class="subscribeinput required" name="fname" id="subscribe_first_name" placeholder="First name"></p>
+      <p><label for="subscribe_last_name">Last name</label><input type="text" value="" class="subscribeinput required" name="lname" id="subscribe_last_name" placeholder="Last name"></p>
+      <p><label for="subscribe_email">Email</label><input type="text" value="" class="subscribeinput required email" name="email" id="subscribe_email" placeholder="Your email"></p>
+      <p><label for="subscribe_password">Password</label><input type="password" value="" class="subscribeinput required password" name="pass1" id="subscribe_password" placeholder="Password"></p>
+      <p><label for="subscribe_confirm_password">Confirm password</label><input type="password" value="" class="subscribeinput required password" name="pass2" id="subscribe_confirm_password" placeholder="Confirm password"></p>
+      <p><label for="subscribe_zip">Zip code</label><input type="text" value="" class="subscribeinput required postalcode" name="zipcode" id="subscribe_zip" placeholder="Your zip code"></p>
+      <p><label>Genre</label><input type="radio" value="1" name="gender" id="subscribecheck1" checked="checked"> Male <input type="radio" value="0" name="gender" id="subscribecheck2"> Female</p>
+      <p><label class="over18"><input type="checkbox" value="" class="required" name="subscribecheck3" id="subscribecheck3"> I am over 18 years old</label></p>
+      <p><label class="over18"><input type="checkbox" value="" class="required" name="subscribecheck4" id="subscribecheck4"> I agree to the <a href="/page/terms-and-conditions" target="_blank">Terms of Use</a> and <a href="/page/privacy-policy" target="_blank">Privacy</a>.</label></p>
+      <p><input type="submit" id="login" value="Subscribe" class="button btnSubscribe"></p>
+    </form>
+    <div><a class="close">Close</a></div>
+  </div>
+  <div id="alert_message" class="subscribeSucceed">
+  	<div>Thanks for signing up to get an iDealgasm!</div><a class="close">Close</a>
+  </div>
+</div>
+<script src="/javascript/jquery.validate.js" type="text/javascript"></script>
+<script type="text/javascript">
+  $(document).ready(function() {
+	$("#subscribe").validate({
+      rules: {
+          fname: "required",
+          lname: "required",
+          pass1: {
+              required: true,
+              minlength: 5
+          },
+          pass2: {
+              required: true,
+              minlength: 5,
+              equalTo: "#subscribe_password"
+          },
+          email: {
+              required: true,
+              email: true
+          },
+		  zipcode: {
+              required: true,
+              postalcode: true
+			  
+          },
+          subscribecheck3: "required"				
+      },
+      messages: {
+          fname: "Please enter your firstname",
+          lname: "Please enter your lastname",
+          pass1: {
+              required: "Please provide a password",
+              minlength: "Your password must be at least 5 characters long"
+          },
+          pass2: {
+              required: "Please provide a password",
+              minlength: "Your password must be at least 5 characters long",
+              equalTo: "Please enter the same password"
+          },
+          email: "Please enter a valid email address",
+		  zipcode: "Please enter a valid zip code",
+          subscribecheck3: "This field is required"
+      }
+  });
+  
+	$("#getDealAlertBtn").click(function(){
+	  $('#overlay').show();
+	  $('.subscribeBox').slideDown();
+	  $('html, body').animate({scrollTop:0}, 500);
+	});
+  
+	$("div.subscribeBox .close").click(function(){
+	  $('.subscribeBox').slideUp(); 
+	  $('#overlay').hide();
+	});
+  });
+
+function subscribe234(){
+  if($("#subscribe").valid()){
+   $.ajax({
+	 type: "POST",
+	 url: "/extra/subscribe.php",
+	 data: "email="+$('#subscribe_email').val()+"&zipcode="+$('#subscribe_zip').val()+"&gender="+$('[name="gender"]:checked').val()+"&fname="+$('#subscribe_first_name').val()+"&lname="+$('#subscribe_last_name').val()+"&pass1="+$('#subscribe_password').val()+"&pass2="+$('#subscribe_confirm_password').val()+"",
+	 success: function(msg){
+		if(msg == "confirm"){
+		  $('#alert_message').show();
+		  $('#alert_holder').hide(); 
+		} else {
+		  $('#alert_error').html(msg);
+		}
+	  }});
+   }
+}
+</script>
 <div class="redeem-wrapper"></div>
 <div class="dropdown-wrapper">
   <div class="dropdowntop"></div>
@@ -428,7 +492,7 @@ function subscribe234(){
             	 <li><a href="#"><span class="dropdown-city">Alaska</span></a></li><li><a href="/us/anchorage">Anchorage</a></li></ul><ul>
             	 <li><a href="#"><span class="dropdown-city">Arizona</span></a></li><li><a href="/us/chandler">Chandler</a></li><li><a href="/us/gilbert">Gilbert</a></li><li><a href="/us/glendale">Glendale</a></li><li><a href="/us/mesa">Mesa</a></li><li><a href="/us/peoria">Peoria</a></li><li><a href="/us/phoenix">Phoenix</a></li><li><a href="/us/scottsdale">Scottsdale</a></li><li><a href="/us/surprise">Surprise</a></li><li><a href="/us/tempe">Tempe</a></li><li><a href="/us/tucson">Tucson</a></li></ul><ul>
             	 <li><a href="#"><span class="dropdown-city">Arkansas</span></a></li><li><a href="/us/little-rock">Little Rock</a></li></ul><div class="clear"></div></div><div class="dropdown-list" id="statesC"><ul>
-            	 <li><a href="#"><span class="dropdown-city">California</span></a></li><li><a href="/us/anaheim">Anaheim</a></li><li><a href="/us/antioch">Antioch</a></li><li><a href="/us/bakersfield">Bakersfield</a></li><li><a href="/us/berkeley">Berkeley</a></li><li><a href="/us/beverly-hills">Beverly Hills</a></li><li><a href="/us/burbank">Burbank</a></li><li><a href="/us/carlsbad">Carlsbad</a></li><li><a href="/us/chula-vista">Chula Vista</a></li><li><a href="/us/concord">Concord</a></li><li><a href="/us/corona">Corona</a></li><li><a href="/us/costa-mesa">Costa Mesa</a></li><li><a href="/us/daly-city">Daly City</a></li><li><a href="/us/downey">Downey</a></li><li><a href="/us/el-monte">El Monte</a></li><li><a href="/us/elk-grove">Elk Grove</a></li><li><a href="/us/escondido">Escondido</a></li><li><a href="/us/fairfield">Fairfield</a></li><li><a href="/us/fontana">Fontana</a></li><li><a href="/us/fremont">Fremont</a></li></ul><ul><li><a href="/us/fresno">Fresno</a></li><li><a href="/us/fullerton">Fullerton</a></li><li><a href="/us/garden-grove">Garden Grove</a></li><li><a href="/us/hayward">Hayward</a></li><li><a href="/us/huntington-beach">Huntington Beach</a></li><li><a href="/us/inglewood">Inglewood</a></li><li><a href="/us/irvine">Irvine</a></li><li><a href="/us/lancaster-1">Lancaster</a></li><li><a href="/us/long-beach-1">Long Beach</a></li><li><a href="/us/los-angeles">Los Angeles</a></li><li><a href="/us/los-gatos">Los Gatos</a></li><li><a href="/us/modesto">Modesto</a></li><li><a href="/us/moreno-valley">Moreno Valley</a></li><li><a href="/us/murrieta">Murrieta</a></li><li><a href="/us/norwalk">Norwalk</a></li><li><a href="/us/oakland">Oakland</a></li><li><a href="/us/oceanside">Oceanside</a></li><li><a href="/us/ontario">Ontario</a></li><li><a href="/us/orange">Orange</a></li><li><a href="/us/oxnard">Oxnard</a></li></ul><ul><li><a href="/us/pacifica">Pacifica</a></li><li><a href="/us/palmdale">Palmdale</a></li><li><a href="/us/palo-alto">Palo Alto</a></li><li><a href="/us/pomona">Pomona</a></li><li><a href="/us/rancho-cucamonga">Rancho Cucamonga</a></li><li><a href="/us/riverside">Riverside</a></li><li><a href="/us/roseville">Roseville</a></li><li><a href="/us/sacramento">Sacramento</a></li><li><a href="/us/salinas">Salinas</a></li><li><a href="/us/san-bernardino">San Bernardino</a></li><li><a href="/us/san-diego">San Diego</a></li><li><a href="/us/san-francisco">San Francisco</a></li><li><a href="/us/san-jose">San Jose</a></li><li><a href="/us/santa-ana">Santa Ana</a></li><li><a href="/us/santa-clara">Santa Clara</a></li><li><a href="/us/santa-clarita-1">Santa Clarita</a></li><li><a href="/us/santa-clarita-1">Santa Clarita</a></li><li><a href="/us/santa-rosa">Santa Rosa</a></li><li><a href="/us/simi-valley">Simi Valley</a></li><li><a href="/us/stockton">Stockton</a></li></ul><ul><li><a href="/us/sunnyvale">Sunnyvale</a></li><li><a href="/us/temecula">Temecula</a></li><li><a href="/us/thousand-oaks">Thousand Oaks</a></li><li><a href="/us/torrance">Torrance</a></li><li><a href="/us/vallejo">Vallejo</a></li><li><a href="/us/ventura">Ventura</a></li><li><a href="/us/victorville">Victorville</a></li><li><a href="/us/visalia">Visalia</a></li><li><a href="/us/west-covina">West Covina</a></li></ul><ul>
+            	 <li><a href="#"><span class="dropdown-city">California</span></a></li><li><a href="/us/anaheim">Anaheim</a></li><li><a href="/us/antioch">Antioch</a></li><li><a href="/us/bakersfield">Bakersfield</a></li><li><a href="/us/berkeley">Berkeley</a></li><li><a href="/us/beverly-hills">Beverly Hills</a></li><li><a href="/us/burbank">Burbank</a></li><li><a href="/us/carlsbad">Carlsbad</a></li><li><a href="/us/chula-vista">Chula Vista</a></li><li><a href="/us/concord">Concord</a></li><li><a href="/us/corona">Corona</a></li><li><a href="/us/costa-mesa">Costa Mesa</a></li><li><a href="/us/daly-city">Daly City</a></li><li><a href="/us/downey">Downey</a></li><li><a href="/us/el-monte">El Monte</a></li><li><a href="/us/elk-grove">Elk Grove</a></li><li><a href="/us/escondido">Escondido</a></li><li><a href="/us/fairfield">Fairfield</a></li><li><a href="/us/fontana">Fontana</a></li><li><a href="/us/fremont">Fremont</a></li></ul><ul><li><a href="/us/fresno">Fresno</a></li><li><a href="/us/fullerton">Fullerton</a></li><li><a href="/us/garden-grove">Garden Grove</a></li><li><a href="/us/hayward">Hayward</a></li><li><a href="/us/huntington-beach">Huntington Beach</a></li><li><a href="/us/inglewood">Inglewood</a></li><li><a href="/us/irvine">Irvine</a></li><li><a href="/us/lancaster-1">Lancaster</a></li><li><a href="/us/long-beach-1">Long Beach</a></li><li><a href="/us/los-angeles">Los Angeles</a></li><li><a href="/us/los-gatos">Los Gatos</a></li><li><a href="/us/modesto">Modesto</a></li><li><a href="/us/moreno-valley">Moreno Valley</a></li><li><a href="/us/murrieta">Murrieta</a></li><li><a href="/us/norwalk">Norwalk</a></li><li><a href="/us/oakland">Oakland</a></li><li><a href="/us/oceanside">Oceanside</a></li><li><a href="/us/ontario">Ontario</a></li><li><a href="/us/orange">Orange</a></li><li><a href="/us/oxnard">Oxnard</a></li></ul><ul><li><a href="/us/pacifica">Pacifica</a></li><li><a href="/us/palmdale">Palmdale</a></li><li><a href="/us/palo-alto">Palo Alto</a></li><li><a href="/us/pomona">Pomona</a></li><li><a href="/us/rancho-cucamonga">Rancho Cucamonga</a></li><li><a href="/us/riverside">Riverside</a></li><li><a href="/us/roseville">Roseville</a></li><li><a href="/us/sacramento">Sacramento</a></li><li><a href="/us/salinas">Salinas</a></li><li><a href="/us/san-bernardino">San Bernardino</a></li><li><a href="/us/san-diego">San Diego</a></li><li><a href="/us/san-francisco">San Francisco</a></li><li><a href="/us/san-jose">San Jose</a></li><li><a href="/us/santa-ana">Santa Ana</a></li><li><a href="/us/santa-clara">Santa Clara</a></li><li><a href="/us/santa-clarita">Santa Clarita</a></li><li><a href="/us/santa-clarita">Santa Clarita</a></li><li><a href="/us/santa-rosa">Santa Rosa</a></li><li><a href="/us/simi-valley">Simi Valley</a></li><li><a href="/us/stockton">Stockton</a></li></ul><ul><li><a href="/us/sunnyvale">Sunnyvale</a></li><li><a href="/us/temecula">Temecula</a></li><li><a href="/us/thousand-oaks">Thousand Oaks</a></li><li><a href="/us/torrance">Torrance</a></li><li><a href="/us/vallejo">Vallejo</a></li><li><a href="/us/ventura">Ventura</a></li><li><a href="/us/victorville">Victorville</a></li><li><a href="/us/visalia">Visalia</a></li><li><a href="/us/west-covina">West Covina</a></li></ul><ul>
             	 <li><a href="#"><span class="dropdown-city">Colorado</span></a></li><li><a href="/us/arvada">Arvada</a></li><li><a href="/us/aurora">Aurora</a></li><li><a href="/us/centennial">Centennial</a></li><li><a href="/us/colorado-springs">Colorado Springs</a></li><li><a href="/us/denver">Denver</a></li><li><a href="/us/fort-collins">Fort Collins</a></li><li><a href="/us/lakewood">Lakewood</a></li><li><a href="/us/pueblo">Pueblo</a></li><li><a href="/us/thornton">Thornton</a></li><li><a href="/us/westminster">Westminster</a></li></ul><ul>
             	 <li><a href="#"><span class="dropdown-city">Connecticut</span></a></li><li><a href="/us/bridgeport">Bridgeport</a></li><li><a href="/us/hartford">Hartford</a></li><li><a href="/us/new-haven">New Haven</a></li><li><a href="/us/stamford">Stamford</a></li><li><a href="/us/waterbury">Waterbury</a></li></ul><div class="clear"></div></div><div class="dropdown-list" id="statesD"><ul>
             	 <li><a href="#"><span class="dropdown-city">District of Columbia</span></a></li><li><a href="/us/washington">Washington</a></li></ul><div class="clear"></div></div><div class="dropdown-list" id="statesF"><ul>
@@ -469,7 +533,7 @@ function subscribe234(){
             	 <li><a href="#"><span class="dropdown-city">Utah</span></a></li><li><a href="/us/provo">Provo</a></li><li><a href="/us/salt-lake-city">Salt Lake City</a></li><li><a href="/us/west-jordan">West Jordan</a></li><li><a href="/us/west-valley-city">West Valley City</a></li></ul><div class="clear"></div></div><div class="dropdown-list" id="statesV"><ul>
             	 <li><a href="#"><span class="dropdown-city">Virginia</span></a></li><li><a href="/us/alexandria">Alexandria</a></li><li><a href="/us/chesapeake">Chesapeake</a></li><li><a href="/us/hampton">Hampton</a></li><li><a href="/us/leesburg">Leesburg</a></li><li><a href="/us/newport-news">Newport News</a></li><li><a href="/us/norfolk-[e]">Norfolk [e]</a></li><li><a href="/us/richmond">Richmond</a></li><li><a href="/us/virginia-beach">Virginia Beach</a></li></ul><div class="clear"></div></div><div class="dropdown-list" id="statesW"><ul>
             	 <li><a href="#"><span class="dropdown-city">Washington</span></a></li><li><a href="/us/bellevue">Bellevue</a></li><li><a href="/us/everett">Everett</a></li><li><a href="/us/seattle">Seattle</a></li><li><a href="/us/spokane">Spokane</a></li><li><a href="/us/tacoma">Tacoma</a></li><li><a href="/us/vancouver">Vancouver</a></li></ul><ul>
-            	 <li><a href="#"><span class="dropdown-city">Wisconsin</span></a></li><li><a href="/us/green-bay">Green Bay</a></li><li><a href="/us/madison">Madison</a></li><li><a href="/us/milwaukee">Milwaukee</a></li></ul><div class="clear"></div></div>     <div id="statesOUT" class="dropdown-list"><ul><li><a href="/dz/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'dz'});return false;">Algeria</a></li><li><a href="/ar/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'ar'});return false;">Argentina</a></li><li><a href="/au/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'au'});return false;">Australia</a></li><li><a href="/at/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'at'});return false;">Austria</a></li><li><a href="/by/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'by'});return false;">Belarus</a></li><li><a href="/ba/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'ba'});return false;">Bosnia</a></li><li><a href="/br/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'br'});return false;">Brazil</a></li><li><a href="/bg/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'bg'});return false;">Bulgaria</a></li><li><a href="/ca/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'ca'});return false;">Canada</a></li><li><a href="/cl/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'cl'});return false;">Chile</a></li><li><a href="/cn/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'cn'});return false;">China</a></li></ul><ul><li><a href="/hr/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'hr'});return false;">Croatia</a></li><li><a href="/cz/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'cz'});return false;">Czech Republic</a></li><li><a href="/dk/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'dk'});return false;">Denmark</a></li><li><a href="/eg/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'eg'});return false;">Egypt</a></li><li><a href="/fi/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'fi'});return false;">Finland</a></li><li><a href="/fr/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'fr'});return false;">France</a></li><li><a href="/de/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'de'});return false;">Germany</a></li><li><a href="/gr/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'gr'});return false;">Greece</a></li><li><a href="/hu/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'hu'});return false;">Hungary</a></li><li><a href="/in/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'in'});return false;">India</a></li><li><a href="/ie/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'ie'});return false;">Ireland</a></li></ul><ul><li><a href="/il/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'il'});return false;">Israel</a></li><li><a href="/it/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'it'});return false;">Italy</a></li><li><a href="/lv/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'lv'});return false;">Latvia</a></li><li><a href="/lt/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'lt'});return false;">Lithuania</a></li><li><a href="/mx/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'mx'});return false;">Mexico</a></li><li><a href="/md/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'md'});return false;">Moldova</a></li><li><a href="/ma/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'ma'});return false;">Morocco</a></li><li><a href="/nl/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'nl'});return false;">Netherlands</a></li><li><a href="/nz/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'nz'});return false;">New Zealand</a></li><li><a href="/ng/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'ng'});return false;">Nigeria</a></li><li><a href="/no/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'no'});return false;">Norway</a></li></ul><ul><li><a href="/pk/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'pk'});return false;">Pakistan</a></li><li><a href="/py/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'py'});return false;">Paraguay</a></li><li><a href="/ph/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'ph'});return false;">Philippines</a></li><li><a href="/pl/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'pl'});return false;">Poland</a></li><li><a href="/pt/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'pt'});return false;">Portugal</a></li><li><a href="/ro/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'ro'});return false;">Romania</a></li><li><a href="/ru/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'ru'});return false;">Russia</a></li><li><a href="/rs/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'rs'});return false;">Serbia</a></li><li><a href="/es/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'es'});return false;">Spain</a></li><li><a href="/se/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'se'});return false;">Sweden</a></li><li><a href="/ch/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'ch'});return false;">Switzerland</a></li></ul><ul><li><a href="/th/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'th'});return false;">Thailand</a></li><li><a href="/tn/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'tn'});return false;">Tunisia</a></li><li><a href="/tr/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'tr'});return false;">Turkey</a></li><li><a href="/ua/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'ua'});return false;">Ukraine</a></li><li><a href="/uk/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'uk'});return false;">United Kingdom</a></li><li><a href="/us/" onclick="$('#statesAjax,#statesOUT').hide();$('#us_state,#statesA').show();return false;">United States</a></li><li><a href="/uy/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'uy'});return false;">Uruguay</a></li><li><a href="/ve/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'ve'});return false;">Venezuela</a></li><li><a href="/vn/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'vn'});return false;">Vietnam</a></li></ul>     <div class="clear"></div>
+            	 <li><a href="#"><span class="dropdown-city">Wisconsin</span></a></li><li><a href="/us/green-bay">Green Bay</a></li><li><a href="/us/madison">Madison</a></li><li><a href="/us/milwaukee">Milwaukee</a></li></ul><div class="clear"></div></div>     <div id="statesOUT" class="dropdown-list"><ul><li><a href="/dz/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'dz'});return false;">Algeria</a></li><li><a href="/ar/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'ar'});return false;">Argentina</a></li><li><a href="/au/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'au'});return false;">Australia</a></li><li><a href="/at/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'at'});return false;">Austria</a></li><li><a href="/bd/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'bd'});return false;">Bangladesh</a></li><li><a href="/by/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'by'});return false;">Belarus</a></li><li><a href="/ba/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'ba'});return false;">Bosnia</a></li><li><a href="/br/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'br'});return false;">Brazil</a></li><li><a href="/bg/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'bg'});return false;">Bulgaria</a></li><li><a href="/ca/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'ca'});return false;">Canada</a></li><li><a href="/cl/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'cl'});return false;">Chile</a></li><li><a href="/cn/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'cn'});return false;">China</a></li></ul><ul><li><a href="/hr/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'hr'});return false;">Croatia</a></li><li><a href="/cz/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'cz'});return false;">Czech Republic</a></li><li><a href="/dk/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'dk'});return false;">Denmark</a></li><li><a href="/eg/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'eg'});return false;">Egypt</a></li><li><a href="/ep/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'ep'});return false;">Ethiopia</a></li><li><a href="/fi/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'fi'});return false;">Finland</a></li><li><a href="/fr/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'fr'});return false;">France</a></li><li><a href="/de/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'de'});return false;">Germany</a></li><li><a href="/gr/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'gr'});return false;">Greece</a></li><li><a href="/hu/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'hu'});return false;">Hungary</a></li><li><a href="/in/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'in'});return false;">India</a></li><li><a href="/id/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'id'});return false;">Indonesia</a></li></ul><ul><li><a href="/ir/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'ir'});return false;">Iran</a></li><li><a href="/ie/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'ie'});return false;">Ireland</a></li><li><a href="/il/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'il'});return false;">Israel</a></li><li><a href="/it/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'it'});return false;">Italy</a></li><li><a href="/jp/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'jp'});return false;">Japan</a></li><li><a href="/lv/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'lv'});return false;">Latvia</a></li><li><a href="/lt/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'lt'});return false;">Lithuania</a></li><li><a href="/mx/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'mx'});return false;">Mexico</a></li><li><a href="/md/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'md'});return false;">Moldova</a></li><li><a href="/ma/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'ma'});return false;">Morocco</a></li><li><a href="/nl/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'nl'});return false;">Netherlands</a></li><li><a href="/nz/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'nz'});return false;">New Zealand</a></li></ul><ul><li><a href="/ng/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'ng'});return false;">Nigeria</a></li><li><a href="/no/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'no'});return false;">Norway</a></li><li><a href="/pk/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'pk'});return false;">Pakistan</a></li><li><a href="/py/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'py'});return false;">Paraguay</a></li><li><a href="/pu/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'pu'});return false;">Peru</a></li><li><a href="/ph/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'ph'});return false;">Philippines</a></li><li><a href="/pl/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'pl'});return false;">Poland</a></li><li><a href="/pt/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'pt'});return false;">Portugal</a></li><li><a href="/ro/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'ro'});return false;">Romania</a></li><li><a href="/ru/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'ru'});return false;">Russia</a></li><li><a href="/rs/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'rs'});return false;">Serbia</a></li><li><a href="/sf/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'sf'});return false;">South Africa</a></li></ul><ul><li><a href="/es/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'es'});return false;">Spain</a></li><li><a href="/se/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'se'});return false;">Sweden</a></li><li><a href="/ch/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'ch'});return false;">Switzerland</a></li><li><a href="/th/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'th'});return false;">Thailand</a></li><li><a href="/tn/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'tn'});return false;">Tunisia</a></li><li><a href="/tr/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'tr'});return false;">Turkey</a></li><li><a href="/ua/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'ua'});return false;">Ukraine</a></li><li><a href="/uk/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'uk'});return false;">United Kingdom</a></li><li><a href="/us/" onclick="$('#statesAjax,#statesOUT').hide();$('#us_state,#statesA').show();return false;">United States</a></li><li><a href="/uy/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'uy'});return false;">Uruguay</a></li><li><a href="/ve/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'ve'});return false;">Venezuela</a></li><li><a href="/vn/" onclick="$('#statesOUT,#us_state').hide();$('#statesAjax').show();$('#statesAjax').load('/ajaxcountry.php',{'c':'vn'});return false;">Vietnam</a></li></ul><ul></ul>     <div class="clear"></div>
      </div>
      <div id="statesAjax" class="dropdown-list" style="display:none"></div>
   </div>
