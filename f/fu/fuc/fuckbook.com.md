@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuckbook.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818015710id_/https%3A//www.fuckbook.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuckbook.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331022617id_/https%3A//www.fuckbook.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fuckbook
 
@@ -112,7 +112,7 @@ BY PROVIDING PERSONAL INFORMATION TO US YOU SIGNIFY YOUR CONSENT TO OUR COLLECTI
 
 ### 17) Handling Complaints, Questions and Suggestions. 
 
-To stop or resume receiving email notifications regarding various site activity or offers, users can edit their [account preferences](https://www.fuckbook.com/account/preferences).  
+To stop or resume receiving email notifications regarding various site activity or offers, users can edit their [account preferences](https://www.fuckbook.com/account).  
 If you have any further questions, or concerns about Fuckbook's privacy policies and use of personal information, please contact us using our online [contact form](https://www.fuckbook.com/about/contact). 
 
 ### 18) Dispute Resolution 
