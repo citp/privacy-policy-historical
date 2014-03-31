@@ -1,48 +1,28 @@
-> *The following text is extracted and transformed from the ssactivewear.com privacy policy that was archived on 2007-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070816021154id_/http%3A//www.ssactivewear.com/SSActivewearPrivacyNotice.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssactivewear.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331152115id_/https%3A//www.ssactivewear.com/About/PrivatePolicy.aspx) for the most accurate reproduction.*
 
-# S&S Activewear
+# Privacy Policy
 
-**S &S Activewear Website Privacy Notice**
+  1. _Acceptance of Terms_. Welcome to **www.ssactivewear.com** (the “ **Site** ”), a web site operated on behalf of S&S Activewear LLC (“ **S &S**”, “ **us** ” and “ **our** ”). Your privacy is important to us. It is our policy to protect your Personal Information (as defined below) and to use it only in accordance with this Privacy Policy. Using our Site is voluntary, and by using the Site, you consent to our collection and use of your identifying and non-identifying information as described in this Privacy Policy. This Privacy Policy only governs our use and disclosure of information collected through this Site.
+  2. _Information We Collect From You_. We automatically collect information about your Internet connection, including but not limited to: 
+    * The name of the Internet domain you used to access the Internet;
+    * The IP address of the web site from which you linked directly to our Site;
+    * The connection speed/screen resolution/browser used; 
+    * The date and time you accessed our Site; and
+    * The pages you visited.
+This information (“ **Non-Personal Information** ”) does not identify you personally. We use this Non-Personal Information to monitor the effectiveness of the Site and to consider potential improvements to the Site.
 
-S&S Activewear knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting www.ssactivewear.com, you are accepting the practices described in this Privacy Notice.**
+We may request that you provide certain personally identifiable information or information specific to your business (“ **Personal Information** ”) to view certain areas of the Site and/or purchase products from the Site. We request that you provide (1) contact information, including but not limited to your name, address, e-mail address and phone number and (2) certain credit card information when making a purchase on the Site. **Your credit card information is encrypted and provided to the credit card issuer for verification and approval. We do not retain any credit card information At your option, you may download a credit application, fill it out and submit through the Site.** We do not collect any Personal Information about you when you visit the Site unless you give us that information. You may view the products on the Site without registering or providing any Personal Information. You may choose not to provide Personal Information via the Site by not purchasing any products available on the Site. 
 
-* * *
+  3. _Use of Your Personal Information_. We use your Personal Information to administer your participation in the Site and to communicate information we think may be of interest to you. 
+  4. _Sharing Your Information_. We may use third party service providers and suppliers to facilitate the Site and the services we provide, and they may have access to Personal Information. In addition, we may buy or sell business assets or be acquired by or acquire other corporations. In such transactions, Personal Information generally is one of the transferred business assets. In addition, in the event we merge or consolidate with another institution, Personal Information may be transferred to the successor entity. We may also disclose Personal Information to other affiliated institutions and/or if we are required to do so by law. 
+  5. _Use of Cookies_. The use of cookies enables us to enhance your visits to the Site. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser. The help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, but this may limit your ability to use some features of the Site. Cookies enable us to recognize your browser and provide features that are tailored to your needs. Cookies must be enabled in order for you to log onto the Site. We use them to keep track of your user name and password, but this feature is optional and you may elect not to have your user name and password recognized. 
 
-**What Personal Information About Customers Does ssactivewear.com gather?**
+We may use information from cookies for purposes of planning and tracking, as well as assessing the technical function of the Site. We may also use cookies to track information about which pages you visit within the Site to help us gauge the effectiveness of the Site or our content.
 
-The information we learn from customers helps us personalize and continually improve your shopping experience at ssactivewear.com. Here are the types of information we gather. 
-
-  * **Information You Give Us** : We receive and store information you enter on our website or give us in any other way. Information includes Customer Name and Number, Billing/Shipping Address(es), Type of Business, Email, products ordered, and any credit card information if paying via credit card. You can choose not to provide certain information, but then you might be unable to order via the website. We use the information that you provide for such purposes as fulfilling orders, responding to your requests, customizing future shopping for you, improving our stores, and communicating with you. 
-  * **Automatic Information** : We receive and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies". Our site uses cookies for your Customer Number only. If you have “cookies” turned off on your browser, it may prevent you from getting to specific areas of the website. Cookies are deleted upon leaving the site. If the deletion does not occur, you can use your web browser utilities to delete all cookies. 
-  * **E-mail Communications** : Emails are sent to the customer upon completion of the order and act as an order confirmation. S&S Activewear may utilize your email account only if it is the only means of contacting the customer in case there is a problem with the order. 
-  * **Information from Other Sources** : S&S Activewear will only access the customer’s website information if requested by the customer via phone or email. Such changes would include a change in email address or association of the customer number with the account. Other than that, no other sources are used to change or update customer information.
-
-
-
-* * *
-
-**Does ssactivewear.com Share the Information It Receives?**
-
-Information about our customers is an important part of our business, and we are not in the business of selling it to others. We do not share ANY information with any other businesses or sources. We consider our customers information to be personal and confidential. We would only share information at the customers’ request.
-
-* * *
-
-**How Secure Is Information About Me?**
-
-  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. You can view our SSL Certificate Online.
-  * We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
-  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to log off when finished using a shared computer. 
+  6. _Linked Sites_. We may provide links on the Site to other sites of interest. We do not review or endorse the content of these sites or guarantee that they will abide by this Privacy Policy. Your use of such linked sites is subject to the privacy policies of the providers of those sites. We encourage our users to be aware when they leave our Site and to read the privacy statements of each Site that collects Personal Information. 
+  7. _Security Measures_. We work hard to protect the security of your information. Our registration pages of our Site use Secure Socket Layer (“SSL”) technology, the current standard for secure transactions over the Internet. While we strive to protect your information by using SSL and through measures to protect our system, such security cannot be guaranteed. Consequently, we do not insure or warrant the security of information you transmit, and you do so at your own risk. Passwords are encrypted and cannot be looked up by anyone. 
+  8. _Children and Parents_. We do not offer or provide products and services for children. If you are under 18, you may not use our Site. We do not intend to collect Personal Information from children. If your child has submitted Personal Information and you would like to request that such information be removed, you may contact us via one of the contact methods described on the Site and we will promptly remove such information and shall not use such information or include it in our database. Users under the age of 18 and their parents or guardians are advised that any Personal Information voluntarily entered by children may be available for public access until we become aware that a user is under the age of 18 and have had a reasonable opportunity to remove the information from the site.
+  9. _Reviewing Information_. You may review your Personal Information stored in your profile by logging into the Site. You may change your email address or the designated contact person but if you wish to make a change to your company name or address, you will need to contact our Customer Service Department at 630-679-9940. You may contact us via one of the contact methods described in the Terms and Conditions if you wish to discuss any issues regarding your Personal Information.
+  10. _Changes_. We may change this Privacy Policy from time-to-time. If we do make a change, we will post the revised Privacy Policy on this Site. We encourage you to review this Privacy Policy periodically. Questions, comments or complaints about our privacy policies should be submitted to us via the methods described in the Terms and Conditions.
 
 
-
-* * *
-
-**What Information Can I Access?**
-
-ssactivewear.com gives you access to your personal account information, with the exception of credit card information which is not shown via the website and is a required entry every time the customer chooses to pay via credit card.
-
-* * *
-
-**Conditions of Use, Notices, and Revisions**
-
-If you choose to visit ssactivewear.com, your visit and any dispute over privacy is subject to this Notice, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at ssactivewear.com, please send us a thorough description to [info@ssactivewear.com](mailto:lmloden@ssactivewear.com?subject=S&S%20Activewear%20Website%20Privacy%20Policy), and we will try to resolve it. 
