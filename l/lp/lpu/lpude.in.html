@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lpude.in privacy policy that was archived on 2013-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131206123520id_/http%3A//www.lpu.in/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lpude.in privacy policy that was archived on 2014-03-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331032523id_/http%3A//www.lpu.in/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/admissions.dwt.php" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -14,13 +14,19 @@
  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="../js/jquery-1.9.0.min.js"></script>
 <script type="text/javascript" src="../js/gooeymenu.js"></script>
 <script type="text/javascript" src="../js/more_links.js"></script>
+<script type="text/javascript" src="../js/pace.min.js"></script>
 <link rel="shortcut icon" href="../favicon.ico">
 <script type="text/javascript">
   $(document).ready(
   function(){
 
   $('document').ready(function(){
-
+	if($('.stream').find('li').length)
+		$('.stream').css('display','');
+	else
+	$('.stream').css('display','none');
+		//alert('out'+$('.stream').find('li').length);
+	
   $('.submenuheader').click(function(){
 
   rel = $(this).attr('rel');
@@ -61,6 +67,10 @@
   });
 
   });
+  
+ 
+	
+  
 </script>
 <script>
   gooeymenu.setup({id:'gooeymenu3', fxtime:250})
@@ -215,7 +225,7 @@ altRows('alternatecolor10');
 <!--Header start-->
 <div class="header">
   <div class="HighResolution a1360 a1007">
-    <div class="main_header_left"> <a href="../index.php">
+    <div class="main_header_left"> <a href="http://www.lpu.in">
       <div class="logo"></div>
       </a> </div>
     <div class="main_header_right">
@@ -240,13 +250,14 @@ altRows('alternatecolor10');
         <li><a href="../eQuotations/frmListing.aspx">e- Quotations</a></li>
         <li><a href="../LPUFoundation.aspx">LPU Foundation</a></li>
         <li><a href="../frmloginaccounts.aspx">Online Fee Payment</a></li>
+        <li><a href="../about_lpu/recent_events.aspx">Recent Events</a></li>
       </ul>
       <ul>
-        <li><a href="../about_lpu/recent_events.aspx">Recent Events</a></li>
+        
         <li><a href="../about_lpu/socialmedia_at_lpu/socialmedia_at_lpu.php" target="_blank">Social Media @ LPU</a></li>
         <li><a href="../about_lpu/testimonials_v.php">Voices of Experience</a></li>
-         
-            <li><a href="../fee_notification_for_even_term_2013.php">Fee Notification</a></li>
+         <li><a href="../ssr.aspx">SSR</a></li>
+            <li><a href="../fee_notification.php">Fee Notification</a> <img src="images/new.gif" width="19" height="7"></li>
       </ul>
       <div class="ex_div">
         <ul>
@@ -256,7 +267,7 @@ altRows('alternatecolor10');
           <li><a href="http://alumni.lpu.in/" target="_blank"> Alumni</a></li>
         </ul>
       </div>
-      <div style="width:450px; background:#ffd200; height:30px; position:relative; top:95px;">
+      <div style="width:450px; background:#ffd200; height:30px; position:relative; top:111px;">
         <div class="top_right_link_internal_pages"> <a href="../jobs/jobs_at_lpu.php">Jobs at LPU</a>:<a href="../NewsreleaseHome.aspx">LPU in Media</a>:<a href="../Repository/allevents.aspx">Gallery</a> </div>
       </div>
     </div>
@@ -286,7 +297,7 @@ altRows('alternatecolor10');
     <li> <a class="paneltext" href="../scholarship/scholarship_and_financial_aid.php">Scholarship and Financial Aid</a></li>
     <li> <a class="paneltext" href="../admissions/LPU_entrance_tests.php">LPU Eligibility/Entrance Tests</a></li>
     <li><a class="paneltext" href="../downloads/reporting_schdeule_programme_wise.xls">Reporting Schedule 2013</a></li>
-    <li><a class="paneltext" href="../admissions/lpu_career_assessment.php">Career Assessment Tests</a></li>
+    <li><a class="paneltext" href="../admissions/career_assessment.php">Career Assessment Tests</a></li>
     <li> <a class="paneltext" href="../ask_us.aspx">Ask us / Request for Brochure</a></li>
     <li> <a class="paneltext" href="../LPU_in_your_town.aspx">LPU in Your Town</a></li>
     <!-- dropdown sub menu start--> 
