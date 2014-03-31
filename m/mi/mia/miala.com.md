@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miala.com privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302145310id_/http%3A//www.miala.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miala.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331122116id_/http%3A//www.miala.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
