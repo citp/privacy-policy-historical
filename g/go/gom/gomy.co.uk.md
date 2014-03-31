@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomy.co.uk privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817130222id_/http%3A//www.gomy.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomy.co.uk privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331024309id_/http%3A//www.gomy.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - gomy.co.uk
 
