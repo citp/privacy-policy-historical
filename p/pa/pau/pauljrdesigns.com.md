@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pauljrdesigns.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230031214id_/http%3A//pauljrdesigns.com/PRIVACY-POLICY.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pauljrdesigns.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331120321id_/http%3A//pauljrdesigns.com/PRIVACY-POLICY.html) for the most accurate reproduction.*
 
 # Please check out the Paul Jr. privacy policy
 
