@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the notgoingtouni.co.uk privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215163049id_/http%3A//www.notgoingtouni.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notgoingtouni.co.uk privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331035034id_/http%3A//www.notgoingtouni.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# NGTU
+# Privacy Policy - NotGoingtoUni - NGTU
 
 **Why do we have a privacy policy?**
 
@@ -14,15 +14,14 @@ If you have any queries relating to our Security and Privacy Policies please do 
 
 **Email:** [info@notgoingtouni.co.uk](mailto:info@notgoingtouni.co.uk)
 
-**Telephone:** 0208 787 7047
+**Telephone:** 0203 691 2800
 
 **Address:**  
-notgoingtouni  
-Unit E1  
-The Seedbed Centre  
-Loughton  
-Essex  
-IG10 3TQ 
+Not Going to Uni,  
+Mountcharm House,  
+Ground Floor 102-104 Queens Road  
+Buckhurst Hill IG9 5BS  
+
 
 **What sort of data do we collect?**
 
