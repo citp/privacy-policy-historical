@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uninor.in privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529201212id_/http%3A//www.uninor.in/Pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uninor.in privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331102026id_/http%3A//www.uninor.in/Pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Uninor India
 
@@ -11,7 +11,8 @@ This Personal Information collected, handled and dealt by us may include, amongs
 Subscription Information that allows Uninor to provision desired services and to communicate with you and comply with current legal and regulatory requirements. This information may include without limitation:  
 a. Your name, address, telephone numbers, email id, photographs.  
 b. Information contained in documents used as proof of Identity and proof of address.  
-Service Information such as service or complaint history, email or letter sent by you, payment history etc. Equipment, performance, and other technical information which gets generated during your use of our network, services and products such as call detail records, usage analysis, location information, IP addresses assigned, signaling information, network related information and any other information collected automatically in relation to your use of Uninor web/wap site, products and services by our equipment and systems.
+c. Service Information such as service or complaint history, email or letter sent by you, payment history etc.   
+d. Equipment, performance, and other technical information which gets generated during your use of our network, services and products such as call detail records, usage analysis, location information, IP addresses assigned, signaling information, network related information and any other information collected automatically in relation to your use of Uninor web/wap site, products and services by our equipment and systems.
 
 Other Information may be collected in form of various surveys which you agree to participate in or provide other feedback to us regarding our products or services; when you register to receive news or public policy updates or when you apply for a job through our website; subscription enquires through our web site.  
 Sensitive Personal Data Or Information may be received, stored and processed by us or our authorized third parties such as passwords, financial information such as bank accounts or other payment instruments details for providing or products, services. In case you do not provide your information or consent for usage of personal information or later on withdraw your consent for usage of the personal information so collected, Uninor reserves the right to discontinue the services for which the said information was sought. In case you do not provide your information or consent for usage of personal information or later on withdraw your consent for usage of the personal information so collected, Uninor reserves the right to discontinue the services for which the said information was sought. 
@@ -22,11 +23,13 @@ The Personal Information that we collect from you is held in accordance with app
 
 a) Verification of your identity as per prevalent laws and regulation;
 
-b) processing your request and providing you with products and/or services requested or administering your account; c) settling accounts with those who provide related services to us;
+b) processing your request and providing you with products and/or services requested or administering your account;
+
+c) settling accounts with those who provide related services to us;
 
 d) dealing with requests, enquiries or complaints and other customer care related activities; and all other general administrative and business purposes;
 
-e) Carrying out market and product analysis and marketing our companies’ products and services and communicate updates, offers and promotion.
+e) Carrying out market and product analysis and marketing our companies' products and services and communicate updates, offers and promotion.
 
 f) Customer analytics on usage pattern and deliver customized content and advertising that may be of interest to you;  
 g) Provide you with the best customer experience possible;  
@@ -40,7 +43,7 @@ k) Carrying out activities connected with the running of our business such as pe
 ###### 3\. Disclosure of personal infromation
 
 We may disclose and/or transfer your Personal Information at times to third parties in cases it is necessary for providing services to you and/or if you have consented for the same. We may disclose and/or transfer your information to:  
-a) Other communications companies as a normal part of our business for connecting and charging of calls over each other’s networks. 
+a) Other communications companies as a normal part of our business for connecting and charging of calls over each other's networks. 
 
 b) other companies that provide services directly to you on our behalf or provide services to us by collecting, receiving ,processing, storing, dealing or handling your information. To enable them to do this, we may need to share your personal information with them. 
 
@@ -74,9 +77,9 @@ We reserve the right to update this Policy as necessary from time to time. Pleas
 
 ###### 7\. Definitions used in this policy
 
-“Personal information” means any information that relates to a natural person, which, either directly or indirectly, in combination with other information available or likely to be available with a body corporate, is capable of identifying such person. 
+"Personal information" means any information that relates to a natural person, which, either directly or indirectly, in combination with other information available or likely to be available with a body corporate, is capable of identifying such person. 
 
-“Sensitive personal data or information” of a person means such personal information which consists of information relating to:- 
+"Sensitive personal data or information" of a person means such personal information which consists of information relating to:- 
 
 i. password;
 
@@ -90,6 +93,6 @@ v. medical records and history;
 
 vi. Biometric information;
 
-provided that, any information that is freely available or accessible in public domain or furnished under the Right to Information Act, 2005 or any other law for the time being in force shall not be regarded as sensitive personal data or information for the purposes of these rules. 
+provided that, any information that is freely available or accessible in public domain or furnished under the Right to Information Act, 2005 or any other law for the time being in force shall not be regarded as sensitive personal data or information for the purposes of this Privacy Policy. 
 
-**Third party:** For the purposes of this document, a ‘Third Party’ is a service provider who associates with Uninor and is involved in handling, managing, storing, processing, protecting and transmitting information of Uninor and also includes all sub-contractors, consultants and/or representatives of the Third party. 
+**Third party:** For the purposes of this document, a 'Third Party' is a service provider who associates with Uninor and is involved in handling, managing, storing, processing, protecting and transmitting information of Uninor and also includes all sub-contractors, consultants and/or representatives of the Third party. 
