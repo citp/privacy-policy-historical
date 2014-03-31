@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tejuri.com privacy policy that was archived on 2013-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130707034044id_/http%3A//www.tejuri.com/en/customerservice/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tejuri.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331183220id_/http%3A//www.tejuri.com/en/customerservice/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -92,7 +92,7 @@ We require and take reasonable steps to ensure that third parties with whom we s
 
 ### How do we use "cookies" and "log files"?
 
-As part of offering and providing customisable and personalised services, we use cookies to store and sometimes track information about your use of this Site (such as your preferences, session information and information on how you visit and access our Site). A cookie is a small amount of data that is sent to your internet web browser from our web server and stored on your computer, but does not contain any of your personal information. We may also log IP addresses (the electronic addresses of computers connected to the internet) to analyse trends, administer this Site, track user movements on this Site and gather broad demographic information for aggregate use by us, our group companies, Retailers and our advertisers.
+As part of offering and providing customisable and personalised services, we use cookies to store and sometimes track information about your use of this Site (such as your preferences, session information and information on how you visit and access our Site). A cookie is a small amount of data that is sent to your internet web browser from our web server and stored on your computer, but does not contain any of your personal information. We may also log IP addresses (the electronic addresses of computers connected to the internet) to analyse trends, administer this Site, track user movements on this Site and gather broad demographic information for aggregate use by us, our group companies, Retailers and our advertisers. Please [opt-out​](https://www.google.com/settings/ads?hl=en&sig=ACi0TChgkROGriYusXNlG1rxEt80wuxaV5ngDpePeRy441UopZmOwGRJpid5Orl48KlWIOkYCv6L8h8zpG_Ujz98Ddfy4ZWTZG8IPzYo5OSuNCKlf8653ZmE37-E5WWV8nv29W40iDjFOO81F_Qoki8dHg7FXBMZcLZKlv78fh7fZoJ_kHsI2Ffjm2lJjtRoW-12ao0NlK4SWek0cNz4eHTveAAYA1w1j4ts1L471V2PAmIOyzc5YJELX3J3EvL_L_GLkIs-z6zmVGUQXB912tmiwDk0v57M4g) if you do not wish for such demographic information to be collected by us. 
 
 ### What do we do to safeguard personal information?
 
