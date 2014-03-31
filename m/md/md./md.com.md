@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the md.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817132855id_/https%3A//www.md.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the md.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331065557id_/https%3A//www.md.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: MD.com
-
-## MD.com Privacy Statement
-
-### We are serious about privacy and security, and we take all reasonable steps to protect you.
 
 This Privacy Statement describes how MD.com collects information from you, when you visit our website or use our mobile applications, respond to emails, sign up for notifications, or visit any page that displays our content or advertisements. 
 
