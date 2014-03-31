@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashgenerator.co.uk privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901020533id_/http%3A//www.cashgenerator.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashgenerator.co.uk privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331152745id_/http%3A//www.cashgenerator.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # None
 
@@ -20,13 +20,19 @@ We may collect and process the following data about you:
 
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-The Cash Generator website uses 4 cookies. A cookie is a small file of letters and numbers that we put on your computer if you agree. These cookies allow us to distinguish you from other users on the website helping us to provide you with a good experience when you browse and transact on the Cash Generator website. They also allow us to improve our website based on visitor activity.
+The Cash Generator website uses 5 cookies. A cookie is a small file of letters and numbers that we put on your computer if you agree. These cookies allow us to distinguish you from other users on the website helping us to provide you with a good experience when you browse and transact on the Cash Generator website. They also allow us to improve our website based on visitor activity.
 
 We use a first party session cookie which allows essential functions such as remembering what you have put in your shopping basket as you browse around the site and allowing you to register and login. It also speed up your site searches and allows a secure connection to be provided when you are performing secure transactions. This cookie is not linked to any information we might hold against you as a customer. It expires when your session ends.
 
-We also use 3 performance cookies which allow us to anonymously track site usage and user behaviour allowing us to improve the performance of the website and the user experience on the site. These cookies are third party persistent cookies. The Cash Generator website uses Google Analytics, Adobe SiteCatalyst and Optimizely cookies. Google Analytics is a web analytics service provided by Google, Inc. Google Analytics sets a cookie in order to evaluate user behaviour on the website. Adobe SiteCatalyst (2o7.net) uses cookies, log file data and embedded code to gather data on behalf of Cash Generator. Optimizely sets a cookie in order to evaluate user behavior on the website. Google Analytics, Adobe SiteCatalyst and Optimizely track site usage and audience and help Cash Generator to improve the experience it provides to users on the website. 
+We also use 4 performance cookies which allow us to anonymously track site usage and user behaviour allowing us to improve the performance of the website and the user experience on the site. These cookies are third party persistent cookies. The Cash Generator website uses Google Analytics, Google Display Advertising via DoubleClick, Adobe SiteCatalyst and Optimizely cookies. 
 
-If you wish to restrict or block web browser cookies which are set on your device then you can do this through your browser settings; the Help function within your browser should tell you how. Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/), which contains comprehensive information on how to do this on a wide variety of desktop browsers. 
+Google Analytics is a web analytics service provided by Google, Inc. Google Analytics sets a cookie in order to evaluate user behaviour on the website. In addition to this the DoubleClick cookie allows Google Analytics to collect data about traffic to the website in addition to data collected through the standard Google Analytics implementation. We use Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, may show our ads on sites across the Internet. These cookies inform, optimize, and serve ads based on a consumers previous visits to our website.
+
+Adobe SiteCatalyst (2o7.net) uses cookies, log file data and embedded code to gather data on behalf of Cash Generator.
+
+Optimizely sets a cookie in order to evaluate user behaviour on the website. Google Analytics, Adobe SiteCatalyst and Optimizely track site usage and audience and help Cash Generator to improve the experience it provides to users on the website.
+
+If you wish to restrict or block web browser cookies which are set on your device then you can do this through your browser settings; the Help function within your browser should tell you how. Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/), which contains comprehensive information on how to do this on a wide variety of desktop browsers. You can also opt-out of Google Analytics for Display Advertising and customize Google Display Network ads by clicking [here](https://www.google.com/settings/ads).
 
 You can choose whether to opt out of certain cookies that are set when you use the Cash Generator website, on the [Manage cookies page](https://web.archive.org/ManageCookies.aspx).
 
