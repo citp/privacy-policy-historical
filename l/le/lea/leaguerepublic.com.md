@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leaguerepublic.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021175927id_/http%3A//www.leaguerepublic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaguerepublic.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331021608id_/http%3A//www.leaguerepublic.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -43,7 +43,7 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 We may also use your data to provide you with information about goods and services which may be of interest to you and we may contact you about these by post or telephone.
 
-If you do not want us to use your data in this way, please [Contact Us](https://web.archive.org/contact.html#contact-form)
+If you do not want us to use your data in this way, please [Contact Us](https://web.archive.org/contact.html)
 
 ### Disclosure of your information
 
@@ -60,7 +60,7 @@ We may disclose your personal information to third parties:
 
 ### Your Rights
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also change your preferences at any time by [contacting us](https://web.archive.org/contact.html#contact-form)
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also change your preferences at any time by [contacting us](https://web.archive.org/contact.html)
 
 You have the right to access information held about you. You can find out what information we hold about you by making a Subject Access Request under the Act. If we hold personal information about you we will give you a description of it, tell you why we are holding it and let you have a copy of it. 
 
@@ -140,4 +140,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ### Contact
 
-Questions, comments and requests regarding this privacy policy should be addressed to LeagueRepublic, DJH Technology Ltd, Saturn Centre, Spring Road, Wolverhampton WV4 6JX or [Contact Us](https://web.archive.org/contact.html#contact-form)
+Questions, comments and requests regarding this privacy policy should be addressed to LeagueRepublic, DJH Technology Ltd, Saturn Centre, Spring Road, Wolverhampton WV4 6JX or [Contact Us](https://web.archive.org/contact.html)
