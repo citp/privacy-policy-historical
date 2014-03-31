@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the surveyjury.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513212609id_/http%3A//www.surveyjury.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyjury.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331033227id_/http%3A//www.surveyjury.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Survey Jury
+
+###  Privacy Policy 
 
 Survey Jury respects your privacy. We have absolutely no intentions to use any information provided to us in any way that would violate your privacy. Since I am not a lawyer, I will try to describe, in layman's terms, what this exactly includes or excludes.
 
