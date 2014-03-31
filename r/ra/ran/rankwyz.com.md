@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rankwyz.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820053448id_/http%3A//www.rankwyz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankwyz.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331023308id_/http%3A//www.rankwyz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RankWyz
 
