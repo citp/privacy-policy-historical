@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hunt4tunes.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218193443id_/http%3A//www.hunt4tunes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hunt4tunes.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331231254id_/http%3A//www.hunt4tunes.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Hunt4Tunes
 
