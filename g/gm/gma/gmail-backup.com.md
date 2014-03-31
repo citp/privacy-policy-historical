@@ -1,19 +1,10 @@
-> *The following text is extracted and transformed from the gmail-backup.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530000747id_/http%3A//www.gmail-backup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmail-backup.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331111011id_/http%3A//www.gmail-backup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gmail Backup
 
 | 
 
-We hope you like the GMail Backup website. This website is provided by  
-`  
-Filip Jurčíček  
-Sokolská 359  
-Dlouhá Loučka  
-783 86  
-Czech Republic`
-
-` IČO: 74296108  
-`  
+We hope you like the GMail Backup website.  
 Email: [info@gmail-backup.com](mailto:info@gmail-backup.com)
 
 **Our Commitment To Privacy**
@@ -68,6 +59,6 @@ Persons who supply us with their telephone numbers on-line will only receive tel
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or e-mail.
 
-`06/03/2009`
+`22/07/2013`
 
 | 
