@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the headspace.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022093407id_/http%3A//www.getsomeheadspace.com/customer-services/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headspace.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331022158id_/http%3A//www.getsomeheadspace.com/customer-services/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Statement | Website privacy statement from Get Some Headspace | Headspace
+# Headspace Privacy Statement | Headspace
 
 ## headspace meditation limited 
 
