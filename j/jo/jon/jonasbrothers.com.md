@@ -1,83 +1,133 @@
-> *The following text is extracted and transformed from the jonasbrothers.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125002012id_/http%3A//jonasbrothers.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonasbrothers.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331174638id_/http%3A//www.jonasbrothers.com/privacy) for the most accurate reproduction.*
 
-# Jonas Brothers Privacy Policy
+# Privacy - Jonas Brothers
 
-For the purposes of this document "company" is defined as Jonas Brothers
+**Your Privacy Rights**
 
-### PRIVACY POLICY
+(last updated March 21, 2013)
 
-Company is committed to respecting your privacy. Please read the following privacy policy to understand how your personal information will be treated if it is collected through this Web site (the “Site”) by Company. Except as explicitly provided herein, this Privacy Policy does not apply to the practices of companies that Company does not own or control, or to people that Company does not employ or manage. This Privacy Policy may change from time to time so please check back periodically. The current version of this Privacy Policy is dated February 11, 2008. 
+**This Privacy Policy applies to the sites and apps where it appears.**
 
-Any dispute over privacy is subject to this Privacy Policy and our Terms of Service. Please note that the use of information that we gather is subject to the Privacy Policy in effect at the time of use. You should check this Site frequently to see recent changes in this Site’s Privacy Policy and its Terms of Service.
+This Policy describes how we treat personal information we collect both online and offline. This includes on our websites or in our apps. It also includes at our box offices or in phone or email interactions you have with us. If you live in Canada, please read our [Canadian Privacy Policy](http://www.ticketmaster.ca/h/privacy.html).
 
-### 1\. What personal information is collected from me?
+**We collect information from and about you.**
 
-The types of personal information collected on these pages may include, but are not limited to, your name, email address, standard contact information including addresses and phone numbers, transactional information, and financial information such as credit card or bank account numbers. You also may provide additional information to us when you conduct a search on this Site, place an order for merchandise, complete a questionnaire or an entry form for sweepstakes or contests, and participate in forums and chat rooms or other community features. We may also ask you to voluntarily provide us with information regarding, for example, your personal or professional interests, demographics, experiences with the services we provide and contact preferences. Wherever Company collects personal information, we make an effort to include a link to this Privacy Policy on that page.
+**Contact information.** For example, we might collect your name and street address. We might also collect your phone number or email.
 
-Company may gather and collect any of the following: (1) IP addresses (the Internet address of a computer) to track a user’s session while the user remains anonymous, (2) computer and connection information such as browser type and version, operating system, and platform, (3) purchase history, (4) the full Uniform Resource Locator (URL) clickstream to, through, and from this Site, including date and time, (5) cookie number, and (6) Web pages and/or products you viewed or searched. Company analyzes this data for certain trends in statistics, such as which parts of this Site users visit and how long they spend there. In general, we do not link your IP addresses to anything personally identifiable to you. During some visits Company may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
+**Payment and billing information.** For example, we collect your credit card number and zip code when you buy a membership package.
 
-Company gathers and stores certain types of information whenever you use this Site or the services made available hereon (the “Services”). For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses this Site. Various third party companies offer utilities that are designed to allow or help you visit and use Web sites anonymously; Please note, however, that Company may not be able to provide you with a personalized experience on this Site if you choose to utilize any such utilities.
+**Information you post.** For example, we collect information you post in a public space on our website or on a third-party social media site.
 
-### 2\. What are cookies and how are they used by Company?
+**Demographic information.** We may collect information about events you like or products you buy. We might collect this as part of a survey, for example.
 
-Company may place Internet cookies on your hard drive. Internet cookies are small files that may be placed on your hard disk for record-keeping purposes. Cookies are used to (a) remind us of who you are in order to deliver you better service, (b) estimate our audience size by determining repeat usage of the Web site to help target advertisements based on user interests and behavior, (c) track your progress and entries in promotions, sweepstakes and contests, if any, and (d) measure certain traffic patterns for use as a research tool to understand how our users’ habits are similar or different from one another. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. By not accepting cookies, some Web pages of this Site may not display properly or you may not be permitted to access certain information.
+**Other information.** If you use our website, we may collect information about the browser you are using. We might look at what site you came from, or what site you visit when you leave us. If you use our mobile app, we may collect your GPS location or your device's unique identifier. We might also collect the type of mobile device you are using, or the version of the operating system your computer or device is running. We might look at how often you use the app and where you downloaded it.
 
-### 3\. Does Company use Web beacons, and, if so, how?
+**We collect information in different ways.**
 
-Company may employ Web beacons (also called single-pixel gifs), which are customized links or similar technologies, when sending you newsletters or promotional emails. Web beacons allow Company to (a) determine whether you have opened, or acted upon, a promotional email and which links you have clicked on in order to deliver to you more focused email communications and other information, (b) allow Company to count the number of users who have visited certain Web pages and effectively deliver co-branded services, and (c) enable Company to compile aggregated statistics and determine the efficacy of promotions by using Web beacons from third parties, without allowing such third parties to use Web beacons on this Site to collect or access your personal information.
+**We collect information directly from you.** For example, if you register for a promotion or buy tickets. We also collect information if you post a comment on our websites or ask us a question.
 
-We may allow third-parties, including our authorized service providers, IAC companies, advertising companies, and ad networks, to display advertisements or provide applications and services on our site. These companies may use tracking technologies, such as [cookies](http://www.google.com/Top/Computers/Programming/Internet/Cookies/) or [web beacons](http://www.webopedia.com/TERM/W/Web_beacon.html), to collect information about users who view or interact with their advertisements or use their applications and services. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and personalized online experiences and gauge their effectiveness. Some of the third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)).
+**We collect information from you passively.** We use tracking tools like browser cookies and web beacons. To learn more about these tools and to control them, please click here.
 
-### 4\. How is my information used?
+**We get information about you from third parties.** For example, if you use an integrated social media feature on our websites or mobile applications. The third-party social media site will give us certain information about you. This could include your name and email address. Your activities on our sites and apps may be posted to the social media platforms.
 
-Company will not sell, rent or lease your personally identifiable information to others without your consent, except as provided in this Privacy Policy. In general, the information you provide will be used to support your customer relationship with Company. 
+**We use information as disclosed and described here.**
 
-We want to help you quickly find information regarding the Services on this Site and alert you to specific offers, updated information, and other new products and Services that are available. Accordingly, we may send you direct mailings or contact you by telephone about our various products and Services or other products and services we feel may be of interest to you. If you do not want to receive such mailings, simply “opt-out” by the means provided for (if any) in the mailings or by contacting [tou@ helloecho.com](mailto:tou@%20helloecho.com). 
+**We use information to respond to your requests or questions.** For example, we might use your information to confirm your registration for an event or contest. If you give us your friend's information, we will only use it to provide services you requested.
 
-Notwithstanding the foregoing, Company does research on our users’ demographics, interests and behavior based on the information provided to us during your use of this Site. This research is compiled and analyzed on an aggregated basis. Aggregated data does not include personally identifiable information. Company may share this aggregated data with others. Company also may combine your information with information we collect or receive from other companies and sources (such as demographic data) to improve and personalize our services.
+**We use information to improve our products and services.** We might use your information to customize your experience with us. This could include displaying content based upon your preferences.
 
-### 5\. What does “opt-out” mean?
+**We use information to look at site trends and customer interests.** We may use your information to make our website and products better. We may combine information we get from you with information about you we get from third parties.
 
-To “opt-out” means that you have notified Company that we no longer have permission to use your information for a particular purpose. For example, when we send you information on a new product, you will be given the opportunity to “opt-out” of receiving such information in the future.
+**We use information for security purposes.** We may use information to protect our company, our customers, or our websites.
 
-### 6\. Who is collecting my information?
+**We use information for marketing purposes.** For example, we might send you information about special promotions or offers. We might also tell you about new features or products. These might be our own offers or products, or third-party offers or products we think you might find interesting. Or, for example, if you buy tickets from us we'll enroll you in our newsletter. We may use push notifications and your location information on our mobile apps to send you alerts regarding local events. To learn about your choices for these communications, read the choices section below.
 
-Information is collected on the Site by or on behalf of Company. If data is being collected and/or maintained by any company other than Company or an agent for Company, you will be notified prior to the time of the data collection or transfer. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular Service or purchasing those particular goods.
+**We use information to send you transactional communications.** For example, we might send you emails about your account or a ticket purchase. We might also contact you about this policy or our website terms.
 
-Please be aware that advertisers that may have links on this Site may collect personal information about you through the use of cookies, JavaScript, Web beacons, and other technologies. Company does not have any control over or access to such technologies that may be used by these advertisers, and the information practices of those Web sites linked to this Site either through advertisements or other hyperlinks are not covered by this Privacy Policy. Company does not, however, provide any personally identifiable information about you to these advertisers.
+**We use information as otherwise permitted by law.**
 
-### 7\. With whom does Company share my information?
+**We may share information with third parties.**
 
-Company may share the personal data you provide or the information gathered by Company to any party with your consent or, in any event, to Company subsidiaries, agents, contractors and our business partners. Company also may share information with the following groups: (a) affiliated business which Company does not control but with which it engages in joint and co-branded offerings, (b) third party service providers in order to facilitate the performance of only those functions which are assigned to them, such as website operation and maintenance, order fulfillment, data analysis, marketing assistance, provision of search results and links, credit card payment processing, and customer service, and (c) entities with which Company may merge or which may acquire all or substantially all of Company’s assets, as customer information likely will be one of the transferred assets. 
+**We will share information with third parties who perform services on our behalf.** For example, we share information with vendors who help us manage our online registration process or who fulfill your purchases. Some vendors may be located outside of the United States.
 
-In addition, Company believes it is necessary to share information in order to (x) investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, and violations of the Terms of Service, (y) respond to subpoenas, court orders, or legal process, and (z) establish or exercise our legal rights, or defend against legal claims, and as otherwise required by law. Except as provided above or in the event of a merger, consolidation, or sale of all or substantially all of Company’s assets, we will not share any of your information with any third party without your permission.
+**We will share information with our business partners.** This includes a third party who provides or sponsors an event, or who operates a venue where we hold events. Our partners use the information we give them as described in their privacy policies. You should read those polices to learn how they treat your information.
 
-### 8\. How do I access, update or delete my information?
+**We may share information if we think we have to in order to comply with the law or to protect ourselves.** For example, we will share information to respond to a court order or subpoena. We may also share it if a government agency or investigatory body requests. Or, we might also share information when we are investigating potential fraud. This might include fraud we think has happened during a sweepstakes or promotion.
 
-You can request the individual information that Company has collected about you, correct factual inaccuracies in your information, remove personal information from Company’s databases and/or update your personal information here or by contacting [tou@ helloecho.com](mailto:tou@%20helloecho.com).
+**We may share information with any successor to all or part of our business.** For example, if part of our business is sold we may give our customer list as part of that transaction.
 
-### 9\. What else should I know about my privacy?
+**We may share your information for reasons not described in this policy.** We  
+will tell you before we do this.
 
-Third party Internet Web sites and services accessible through this Site have separate privacy and data collection practices, independent of us. Company has no responsibility or liability for these independent policies or actions. Please be careful and responsible online. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. While we strive to protect your information, Company cannot ensure or warrant the security of any information through the transmission process, and any transmission by you of information is done at your own risk.
+**You have certain choices about how we use your information.**
 
-### 10\. Children.
+**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, follow the instructions in any promotional message you get from us. Your device settings should provide you with instructions on how to turn off push notifications. It may take about ten days to process your request. Don't worry! Even if you opt out of getting marketing messages, we will still be sure to send you transactional messages. For example, we may still contact you about your orders.
 
-The Site is not intended for use by children. We will not knowingly collect any personal information submitted by visitors to the Site who are under the age of 13.
+**You can modify information you have given us.** To modify or delete information you gave us, log into your account and follow the instructions to modify your profile. We make changes as soon as we can. This information may stay in our backup files. If we cannot make the changes you want, we will let you know and explain why. If you contact us requesting access to your information, we will respond within 30 days.
 
-### 11\. Security.
+**You can control cookies and tracking tools.** To learn how to manage how we and our vendors use cookies and other tracking tools, please click [here](http://www.jonasbrothersfanclub.com/privacy/#adchoices).
 
-Company uses its best efforts to protect your personal information and, to that end, uses tools such as encryption, passwords, and physical security to protect your personal information against unauthorized access and disclosure. However, no website can be absolutely secure, and third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from this Site. Therefore, although Company works very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain absolutely private.
+**You can control tools on your mobile devices.** For example, you can turn off the GPS locator or push notifications on your phone. Each push notification has an  
+"unsubscribe" link.
 
-### 12\. Other legal notices.
+**Your California Privacy Rights.**
 
-Any dispute over privacy is subject to this Privacy Policy and our Terms of Service, including limitations on damages and application of the law of the State Tennessee.
+If you live in California and have an established business relationship with us, you can request a list of the personal information we have shared with third parties for their marketing purposes. We will also give you a list of the third parties that have received your information. You can make a request one time each year.
 
-### 13\. Contact us
+To exercise your rights, you can [email](mailto:privacy@jonasbrothers.com "E-mail Link") us or write to us at the address below. Mention in your letter that you are making a "California Shine the Light" inquiry. We will respond within 30  
+days.
 
-If you have any concern about your privacy in connection with this policy, please send a thorough description to [tou @ helloecho.com](mailto:tou@helloecho.om), and we will try to resolve it.
+**These sites and apps are for children.**
 
-echomusic, LLC (echo)  
-1101 17th Ave S.  
-Nashville, TN 37212  
-p. 615-371-5119  
-f. 615-777-5119
+All users under the age of 13 must seek permission from a parent or guardian before you may participate on these forums.
+
+Once the parental consent form has been received, an account will be created for the child with the information supplied, and an email will be sent to the provided email address to notify that your account is ready for use. Account details can be modified from the 'My Controls' area upon logging in with the new account.
+
+**We use standard security measures.**
+
+We have security measures in place to protect your information. The standard security measures we use will depend on the type of information collected. However, the Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords.
+
+**We store information both in and outside of the United States.**
+
+If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection of those in your country. Live Nation complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries. Live Nation has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Live Nation's certification, please visit <http://www.export.gov/safeharbor>.
+
+**We may link to third party sites or services we don't control.**
+
+If you click on one of those links, you will be taken to websites we do not control. This policy does not apply to the privacy practices of those websites. Read the privacy policy of other websites carefully. We are not responsible for these third party sites.
+
+**Feel free to contact us if you have more questions.**
+
+If you have any questions about this Policy or other privacy concerns, you can email us at [privacy@jonasbrothers.com](mailto:privacy@jonasbrothers.com "E-mail Link"). Please do not include your credit card number or other sensitive information in your email.
+
+**What we will do if there is an update to this policy.**
+
+From time to time we may change our privacy practices. We will notify you of any material changes to this policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
+
+**Ad Choices**
+
+**We use common tracking technologies.**
+
+We or our vendors use several common tracking tools. These may include browser cookies. We may also use web beacons and similar technologies. We use these tools:
+
+  *  
+  * To recognize new or past customers.
+  * To store your password if you are registered on our sites.
+  * To improve our website.
+  * To serve you with advertising content in which we think you will be interested. To do so, we may observe your behaviors on this website and other websites. We may also collect information about your browsing history.
+  * To better understand the interests of our customers and our website visitors.
+
+
+
+**You can control tracking tools.**
+
+Your browser may give you the ability to control cookies. How you do so depends on the type of cookie. Certain browsers can be set to reject browser cookies. To control flash cookies, which we may use on certain websites from time to time, you can go [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Why? Because flash cookies cannot be controlled through your browser settings.
+
+If you block cookies on your browser, certain features on our sites may not work.
+
+**Some ads may be served based on tracking.**
+
+We may work with online advertising companies to show you relevant and useful ads. This may include ads served on our own websites or apps. This may also include our ads served on other companies' sites. These ads may be based on information collected by us or third parties (for example, when you register for a site). These ads may also be based on your activities on our websites or on third party sites.This second type of advertising is called "online behavioral advertising."
+
+**You can opt-out of online behavioral advertising.**
+
+To opt out of having your online behavioral advertising, click [here](http://www.aboutads.info/choices). 
