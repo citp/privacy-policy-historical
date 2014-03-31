@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the bchydro.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127003225id_/http%3A//www.bchydro.com/siteinfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bchydro.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331075231id_/http%3A//www.bchydro.com/siteinfo/privacy.html) for the most accurate reproduction.*
 
-# BC Hydro - Privacy Statement
+# Privacy Statement
 
 _Protecting your personal information is an obligation BC Hydro takes seriously. Any personal information we collect is handled in accordance with the British Columbia Freedom of Information and Protection of Privacy Act (FOIPPA)._
 
- _BC Hydro only discloses customer personal information to third parties in accordance with applicable laws. BC Hydro serves customers in accordance with the Electric Tariff regulated by the British Columbia Utilities Commission and in compliance with the Hydro and Power Authority Act. If you have any questions regarding the collection of personal information, please contact us._
+_BC Hydro only discloses customer personal information to third parties in accordance with applicable laws. BC Hydro serves customers in accordance with the Electric Tariff regulated by the British Columbia Utilities Commission and in compliance with the Hydro and Power Authority Act. If you have any questions about how your personal information is handled, please[contact us](https://web.archive.org/contact.html) or call BC Hydro at 604 224 9376 (Greater Vancouver), 1 800 224 9376 (Other Areas).  
+_
 
 ### What is considered personal information
 
@@ -62,7 +63,7 @@ With the exception of transactional emails (e.g. confirmation of online registra
 
 ### Text Message or Short Message Service (SMS)
 
-BC Hydro is collecting your personal information (mobile number and email address) in support of its mandate under the _Utilities Commission Act_. Your information will only be used to send you messages about energy conservation and related promotions. No data will be stored outside of Canada. If you have any questions about how your personal information is handled, please call BC Hydro at 604 224 9376 (Greater Vancouver), 1 800 224 9376 (Other Areas). If you decide that you are no longer interested in receiving mobile alerts from us, simply text “STOP” to “POWER” (76397) to unsubscribe.
+BC Hydro is collecting your personal information (mobile number and email address) in support of its mandate under the _Hydro and Power Authority Act_ , the _Clean Energy Act_ , and the BC Hydro Electric Tariff regulated by the BC Utilities Commission under the _Utilities Commission Act_. Your information will only be used to send you messages about energy conservation and related promotions. No data will be stored outside of Canada. If you have any questions about how your personal information is handled, please contact us or call BC Hydro at 604 224 9376 (Greater Vancouver), 1 800 224 9376 (Other Areas). If you decide that you are no longer interested in receiving mobile alerts from us, simply text “STOP” to “POWER” (76397) to unsubscribe.
 
 ### Changes to our privacy policy
 
@@ -70,4 +71,4 @@ From time to time, we review and revise our privacy policy to better reflect the
 
 ### Contact Us
 
-If you have any questions or concerns regarding your privacy, please [Contact us](https://web.archive.org/contact.html) by email, phone or mail.
+If you have any questions or concerns regarding your privacy, please [contact us](https://web.archive.org/contact.html).
