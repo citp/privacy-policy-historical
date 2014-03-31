@@ -1,15 +1,104 @@
-> *The following text is extracted and transformed from the irce.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008131734id_/http%3A//irce.internetretailer.com/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irce.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331063242id_/https%3A//www.ireventsgroup.com/privacy-policy) for the most accurate reproduction.*
 
-# Vertical Web Media Privacy Policy
+# Privacy Policy | IR Events Group
 
-The policies below are applicable to web sites and e-mail newsletters owned or operated by Vertical Web Media, unless any such site or e-mail publication contains another, separate privacy policy. The Vertical Web Media sites are maintained by Vertical Web Media, 125 S. Wacker Drive, Suite 2900, Chicago, IL 60606-4439. 
+**Introduction**
 
-Vertical Web Media respects each individual user's right to privacy. Vertical Web Media may place a "cookie" on the visitor's hard drive in order to facilitate a user friendly experience. Cookies are small pieces of information that a Web site places on your computer's hard drive for tracking purposes. Vertical Web Media uses cookie information it receives by placing the cookie on user's hard drive to improve the efficiency of customer service on our online subscription based sites, allowing subscribers to easily change addresses, and add or cancel subscriptions by automatically verifying that you are a subscriber. Vertical Web Media also uses cookies to enhance our site content by compiling aggregate information about what specific sections users visit and which pages. Cookies may also be placed by our advertisers or independent third parties who actually operate the servers on which the ads reside. Although Vertical Web Media requests such parties to adhere to appropriate privacy standards and policies, Vertical Web Media is not responsible for the actions or policies of such parties. 
+Welcome to [www.irce.com](http://www.irce.com/). This website is owned and operated by GLM Shows / Internet Retailer Events Group. By visiting our website and accessing the information, resources, services, products, and tools we provide, you understand and agree to accept and adhere to the following terms and conditions as stated in this policy (hereafter referred to as 'User Agreement'). [Click here to view the User Agreement.](http://images.internetretailer.com/IR-Conferences/IRCE2013_TermsOfService.html)
 
-Vertical Web Media collects personal identifying information, when such information is specifically and knowingly provided from users during (i)contest, survey, sweepstakes or site registration promotions, and (ii) subscription registration for sites or services requiring such registration information. Vertical Web Media may use this information for marketing and promotional purposes. Vertical Web Media occasionally informs our users of special deals, new products, and other third party product and service offers that we believe our users will find interesting. Users are given the option to choose whether they would like to receive such mailings upon registration. Individual users can request, at any time, that their information not be used for such purposes by sending an e-mail request to Vertical Web Media at the address given above. 
+This agreement is in effect as of Jan 07, 2013.
 
-Vertical Web Media may decide in the future to offer selected companies and organizations that have a product or service believed to be of interest to the user the opportunity to rent our list. Vertical Web Media may share a user's personally-identifiable information with these companies in an effort to help locate these resources. Vertical Web Media will, however, offer the user the opportunity to "opt out" of having their personally-identifiable information shared with third parties that are not affiliated with Vertical Web Media. 
+**What information do we collect?**
 
-If a Vertical Web Media user knowingly provides personal information such as a user name or e-mail address in a chat or bulletin board area, that user should be aware that the information provided can be collected and used by others in that area. 
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, fill out a form or Register for our show.
 
-No information should be submitted to Vertical Web Media by children 16 years of age or under without their parent's or guardian's consent. Vertical Web Media does not monitor the age of its user audience. 
+Any data we request that is not required will be specified as voluntary or optional.
+
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+
+Like most websites, we use cookies to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them.
+
+**What do we use your information for?**
+
+Any of the information we collect from you may be used in one of the following ways:
+
+  * To personalize your experience  
+(your information helps us to better respond to your individual needs)
+  * To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
+  * To process transactions  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer.
+  * To send periodic emails  
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.  
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+  * To administer a contest, promotion, survey or other site feature
+
+
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or enter, submit, or access your personal information.
+
+These security measures include: password protected directories and databases to safeguard your information, SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely or PCI Scanning to actively protect our servers from hackers and other vulnerabilities.
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act (COPPA), all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**CAN-SPAM Compliance**
+
+We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
+
+**Your Consent**
+
+By using our site, you consent to our privacy policy.
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
+
+This policy was last modified on  **January 7, 2013**
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+IRCE, 125 S. Wacker Driver  
+Chicago, IL 60606  
+USA
+
+[jbrown@glmshows.com](mailto:jbrown@glmshows.com)
+
+**Privacy Policy Customer Pledge**
+
+We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
+Federal Trade Commision Fair  
+California Online Privacy Protection Act  
+Childrens Online Privacy Protection Act  
+Privacy Alliance  
+Controlling the Assault of Non-Solicited Pornography and Marketing Act  
+Trust Guard Privacy Requirements
