@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lebara.com privacy policy that was archived on 2013-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130621171438id_/http%3A//www.lebara.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lebara.com privacy policy that was archived on 2014-03-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331204231id_/http%3A//www.lebara.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -221,7 +221,153 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 			});
  			/*]]>*/			
 		</script>
+		
+ 
+<script type="text/javascript">
+var price='';
+var pageNameFromURL= 'http://www.lebara.com/pages/pt_TP26.jsp';
+var splitPageName=pageNameFromURL.split("/");
+var pageName=splitPageName[splitPageName.length-1];
+var orderValue = '';
+var productPrice = '';
+var amount = '0';
+
+if(pageNameFromURL.indexOf('lebara.co.uk') != -1 )
+{
+	if(price!=null || price!="") {
+		var currencySymbolRemoved= price.substr(1,price.length);
+		orderValue = currencySymbolRemoved;
+		productPrice = currencySymbolRemoved;
+	}
+}
+if(pageNameFromURL.indexOf('lebara.fr') != -1 ||  pageNameFromURL.indexOf('lebara.es') != -1 ||  pageNameFromURL.indexOf('lebara.de') != -1||  pageNameFromURL.indexOf('lebara.nl') != -1)
+{
+	if(price!=null || price!="") {
+		var currencySymbolRemoved= price.substr(0,price.length-1);
+		orderValue = currencySymbolRemoved;
+		productPrice = currencySymbolRemoved;
+	}
+}
+if(pageNameFromURL.indexOf('lebara.pl') != -1 )
+{
+	if(price!=null || price!="") {
+		var currencySymbolRemoved= price.substr(2,price.length);
+		orderValue = currencySymbolRemoved;
+		productPrice = currencySymbolRemoved;
+	}
+}
+var pageURL = location.href;
+var productId = '';
+var productSKU = '';
+var productName = '';
+var simSelected = 	'';
+if(pageNameFromURL.indexOf('lebara.fr') != -1 || pageNameFromURL.indexOf('lebara.co.uk') != -1);
+{
+	if( productName == 'Topup')
+	{
+	 productName = 'Registered';		
+	}
+	else if (simSelected.toString() == 'true' && productName == 'UnregisteredTopup') 
+	{
+		productName = 'PaidSim'	;
+	}
+}
+var orderNumber = '';                                        
+var productCategory = '';
+var quantity = '1';
+var searchTerm = '';
+var topupType = '';
+var loggedIn;
+var customerAccountId =''; //email id
+var voucherCode =''; // promotion code
+var taxAmount = ''; // always empty for lebara
+var purchaseType=''; // not yet decided
+
+if(customerAccountId == null || customerAccountId ==''){
+	loggedIn = "no";
+}else{
+	loggedIn = "yes";
+}
+
+if(pageNameFromURL.indexOf('lebara.dk') != -1 ) {
+	/*DK Specific Parameters Free SIM*/
+ 	orderNumber = '';
+ 	
+ 	/*Check for other orderNumber in PRCC */
+ 	if(!(orderNumber != "")) {
+ 		orderNumber = '';
+ 	}
+ 	
+ 	/*DK Specific Parameters Free SIM*/
+ 	if(''!=null){
+ 	if(''!=null && ''!=null) {
+ 	   if(''!='FREE'){
+ 	 	  productCategory = 'paid_sim';
+ 	 	  productPrice = '';
+ 	 	  orderValue = '';
+ 	 	 productId='';
+ 	 	 productName='';
+ 	 	} 
+ 	   else{
+ 	      productCategory = 'free_sim';
+ 	 	  productPrice = '0';
+ 	 	  orderValue = '0';
+ 	 	 productId='sim_2';
+ 	 	 productName='Free';
+ 	   }
+ 	}
+ 	}
+ 	if(''!=null){
+ 	   if(''=="instantTopup"){
+ 	      productCategory = 'instantTopup';
+ 	 	  productPrice = '';
+ 	 	  orderValue =  '';
+ 	 	 productId= '';
+ 	 	 productName='';
+ 	   }
+ 	   if(''=="autoTopup"){
+ 	     productCategory = 'autoTopup';
+ 	    productPrice = '';
+	 	  orderValue =  '';
+	 	 productId= '';
+	 	 productName='';
+ 	  }
+ 	    if(''!=null && ''=="MBB"){
+ 	 	    productCategory = 'data';
+ 	 	    productPrice = '49';
+ 		 	  orderValue =  '49';
+ 		 	 productId= '49_lebaraMobileData';
+ 		 	 productName='49_lebaraMobileData';
+ 	 	 }
+ 	   if(''!=null && ''=="TakeAway"){
+	 	    productCategory = 'Take_Away';
+	 	    productPrice = '49';
+		 	  orderValue =  '49';
+		 	 productId= '49_lebaraMobileData';
+		 	 productName='49_lebaraMobileData';
+	 	 }
+ 	   if(''!=null && ''=="Roaming"){
+	 	    productCategory = 'Roaming';
+	 	    productPrice = '';
+		 	orderValue =  '';
+		    productId= 'roaming_49';
+		 	productName='roaming_49';
+		 	orderNumber='';
+	 	 }
+ 	}
+ 	/*Check for other productPrice in DK PRCC */
+	if(productPrice == "") {
+		orderValue = amount;
+		productPrice = amount;
+	}
+	voucherCode = '';
+	quantity = '1' ;
+}
+</script>
 	
+				
+			
+			
 <script type="text/javascript">
  function getCurrentPageLocation(url){
    if (url != "") {
@@ -253,6 +399,19 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 	          <div class="globalSiteFlagTop"></div>
 	          <div class="globalSitesFlag clear">
 	            <ul>
+	            
+		              
+			              
+								
+									
+								              
+				              		<li class="firstLine" style="height: 68px;"><a href="http://www.lebara-mobile.com.au/" target="_blank"><img width="48" height="29" alt="Australia" src="/medias/sys_master/8800518242334.jpg"> <span>Australia</span></a></li>
+				              	
+				              	
+							
+			              
+			              
+		              
 	            
 		              
 			              
@@ -295,14 +454,25 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 	            
 		              
 			              
+			              
+			              		
+			              				              			              	
+			                 		<li><a href="http://www.lebara.fr" target="_blank"><img width="50" height="29" alt="France" src="/medias/sys_master/8800518373406.jpg"> <span>France</span></a></li>             
 								
-									
-								              
-				              		<li class="firstLine" style="height: 68px;"><a href="http://www.lebara-mobile.com.au/" target="_blank"><img width="48" height="29" alt="Australia" src="/medias/sys_master/8800518242334.jpg"> <span>Australia</span></a></li>
-				              	
-				              	
+								
 							
 			              
+		              
+	            
+		              
+			              
+			              
+			              		
+			              				              			              	
+			                 		<li><a href="http://www.lebara-mobile.nl" target="_blank"><img width="50" height="29" alt="Netherlands" src="/medias/sys_master/8800518504478.jpg"> <span>Netherlands</span></a></li>             
+								
+								
+							
 			              
 		              
 	            
@@ -324,30 +494,6 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 			              		
 			              				              			              	
 			                 		<li><a href="http://www.lebara-movil.es/" target="_blank"><img width="50" height="29" alt="Spain" src="/medias/sys_master/8800518570014.jpg"> <span>Spain</span></a></li>             
-								
-								
-							
-			              
-		              
-	            
-		              
-			              
-			              
-			              		
-			              				              			              	
-			                 		<li><a href="http://www.lebara.fr" target="_blank"><img width="50" height="29" alt="France" src="/medias/sys_master/8800518373406.jpg"> <span>France</span></a></li>             
-								
-								
-							
-			              
-		              
-	            
-		              
-			              
-			              
-			              		
-			              				              			              	
-			                 		<li><a href="http://www.lebara-mobile.nl" target="_blank"><img width="50" height="29" alt="Netherlands" src="/medias/sys_master/8800518504478.jpg"> <span>Netherlands</span></a></li>             
 								
 								
 							
@@ -657,6 +803,21 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 				              	<li class="firstLine" style="height: 68px;">
 				              	    
 					              		
+					              			<a href="http://www.lebara-mobile.com.au/" target="_blank"><img width="48" height="29" alt="Australia" src="/medias/sys_master/8800518242334.jpg"> <span>Australia</span></a>
+					              		
+					              		
+				              		
+				              	</li>
+			              
+			              
+		              
+	            
+		              
+			              
+			                			              
+				              	<li class="firstLine" style="height: 68px;">
+				              	    
+					              		
 					              			<a href="http://www.lebara-mobile.de" target="_blank"><img width="48" height="29" alt="Germany" src="/medias/sys_master/8800518438942.jpg"> <span>Germany</span></a>
 					              		
 					              		
@@ -698,16 +859,29 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 	            
 		              
 			              
-			                			              
-				              	<li class="firstLine" style="height: 68px;">
-				              	    
-					              		
-					              			<a href="http://www.lebara-mobile.com.au/" target="_blank"><img width="48" height="29" alt="Australia" src="/medias/sys_master/8800518242334.jpg"> <span>Australia</span></a>
-					              		
-					              		
-				              		
-				              	</li>
+			              			               
+			                 <li>
+				                 
+					              				                 
+				                 			<a href="http://www.lebara.fr" target="_blank"><img width="50" height="29" alt="France" src="/medias/sys_master/8800518373406.jpg"> <span>France</span></a>
+					              	
+					              	
+				              	 			                 	
+			                 </li>             
 			              
+		              
+	            
+		              
+			              
+			              			               
+			                 <li>
+				                 
+					              				                 
+				                 			<a href="http://www.lebara-mobile.nl" target="_blank"><img width="50" height="29" alt="Netherlands" src="/medias/sys_master/8800518504478.jpg"> <span>Netherlands</span></a>
+					              	
+					              	
+				              	 			                 	
+			                 </li>             
 			              
 		              
 	            
@@ -738,34 +912,6 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 			                 </li>             
 			              
 		              
-	            
-		              
-			              
-			              			               
-			                 <li>
-				                 
-					              				                 
-				                 			<a href="http://www.lebara.fr" target="_blank"><img width="50" height="29" alt="France" src="/medias/sys_master/8800518373406.jpg"> <span>France</span></a>
-					              	
-					              	
-				              	 			                 	
-			                 </li>             
-			              
-		              
-	            
-		              
-			              
-			              			               
-			                 <li>
-				                 
-					              				                 
-				                 			<a href="http://www.lebara-mobile.nl" target="_blank"><img width="50" height="29" alt="Netherlands" src="/medias/sys_master/8800518504478.jpg"> <span>Netherlands</span></a>
-					              	
-					              	
-				              	 			                 	
-			                 </li>             
-			              
-		              
 	                            
 	            </ul>
             </div>
@@ -779,9 +925,15 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
 
 	 <!-- footer --><!-- wrapper -->
-	<div class="accessibility"> &nbsp;
+			     	    
+		   
+			
+				<div class="accessibility">
+					 &nbsp;
 	
-	</div> </div>
+				</div>
+			
+		 </div>
 	
 
 
