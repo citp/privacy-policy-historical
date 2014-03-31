@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shootproof.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806193204id_/http%3A//www.shootproof.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shootproof.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331143330id_/https%3A//www.shootproof.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy :: ShootProof.com
+# Privacy Policy | ShootProof
 
 This Privacy Policy pertains to the use of services related to www.shootproof.com. Children under the age of 13 are not permitted to use any ShootProof services, and so this Privacy Policy makes no provision for children's use of the website. By accessing the ShootProof Website, you agree to our Privacy Policy as outlined herein.
 
@@ -14,7 +14,7 @@ ShootProof will only use the information submitted or collected from you to opti
 
 ## How is my credit card information protected?
 
-We do not store any credit card information at ShootProof. We have partnered with Authorize.Net a solution of CyberSource Corporation, a wholly owned subsidiary of Visa (NYSE: V), for our e-commerce capabilities. Authorize.Net is a leading provider of gateway services, managing the submission of billions of transactions to the processing networks on behalf of merchant customers. Further, we provide connectivity to PayPal, a subsidiary of eBay, Inc. (NYSE: EBAY), to lend photographers the ability to receive payments through a service with more than 80 million users in 190 markets and 24 currencies around the world.
+We do not store any credit card information at ShootProof. We have partnered with Braintree Payment Solutions LLC, for our e-commerce capabilities. Braintree Payments is a leading provider of gateway services, managing the submission of billions of transactions to the processing networks on behalf of merchant customers. Further, we provide connectivity to PayPal, a subsidiary of eBay, Inc. (NYSE: EBAY), to lend photographers the ability to receive payments through a service with more than 80 million users in 190 markets and 24 currencies around the world.
 
 ## Are my pictures available for public viewing?
 
