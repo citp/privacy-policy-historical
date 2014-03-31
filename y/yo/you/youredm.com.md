@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youredm.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928061108id_/http%3A//www.youredm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youredm.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331023649id_/http%3A//www.youredm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Your EDM
 
@@ -66,4 +66,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 <http://www.youredm.com/>  
 info@youredm.com
 
-This document was last updated on July 25, 2012
+This document was last updated on Feb 18, 2014
