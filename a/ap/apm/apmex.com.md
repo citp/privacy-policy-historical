@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apmex.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820133037id_/http%3A//www.apmex.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apmex.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331144134id_/http%3A//www.apmex.com/privacypolicy) for the most accurate reproduction.*
 
-# APMEX | Privacy Policy | APMEX.com
+# APMEX | APMEX - Privacy Policy | APMEX.com
 
 The American Precious Metals Exchange, Inc. ("APMEX") respects your privacy. We will never willfully disclose individually identifiable information about our customers to any third party, except in the limited circumstances permitted by this policy.
 
