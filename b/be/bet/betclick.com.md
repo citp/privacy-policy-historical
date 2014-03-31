@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the betclick.com privacy policy that was archived on 2013-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130130211206id_/https%3A//en.betclic.com/content.aspx%3FPageCode%3DRVPND) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betclick.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331232611id_/https%3A//en.betclic.com/content/privacypolicy) for the most accurate reproduction.*
 
-# Online Sports Betting | Bet on Football, Tennis & More | Betclic
-
-## PRIVACY AND COOKIE POLICY
-
-Version: 1.9  
-Date: 13/11/2012
+# 
 
 Betclic (Gibraltar) Limited (“we”, “us”, “Betclic”), the company that operates the websites www.betclic.com, www.betclick.com and all variants thereof (the “Site” or “Sites”), as well as the mobile application, m.betclic.com and all variants thereof (the “Mobile Offer”), has strict security measures designed to protect your personal data. The group of companies of which Betclic is a part includes Betclic and any holding company or subsidiary of Betclic or any subsidiary of any such holding company and any company associated with such holding or subsidiary (“Group”).
 
@@ -15,13 +10,9 @@ Please note that you may choose whether or not you wish to permit us, a member o
 
 Should you require further information or if you have any questions regarding privacy or confidentiality issues, please contact our [Customer Services Team](mailto:support@betclic.com). Please take the time to read our Privacy Policy carefully.
 
-## 1\. Your personal data
-
 The information we collect enables us to ensure that our customers can enjoy safe and user-friendly browsing conditions. Our aim is to offer the best possible services, whilst making sure that betting and gaming on our Site remains a fun activity!
 
 All references to ‘personal data’ in this Privacy Policy refer to any personal information about a natural person which enables that individual to be identified directly or indirectly by reference to the data provided. Specifically, We collect the following information when you open an Account with us: first name; surname; gender; date of birth; place of residence; postal address; email address; phone number; language, currency, passport or ID card number and secret question. You will also be required to provide login details of your choice, namely a username, password and an answer to the secret question which will be kept by us. We additionally require you to provide us with a payment method and payment details (such as bank transfer, credit card or another acceptable means of payment) in order that you can credit your Account. Further, before your first withdrawal of funds from your Account, we will request that you send us a copy of an official document (e.g. passport, driving licence or other approved identity document) in order to confirm the accuracy of the data you have provided. We also use geolocation tools to record your internet protocol (IP) address and to compare it against your user identification in order to prevent fraudulent activities and also to create an audit trail. When you make a pre-registration sign-up and before you fully register as a customer, we request the following information from you: title, first name, surname, date of birth and email address. We store this information in order to provide you with a pre-populated registration form if and when you decide to fully register with us. When you access the Mobile Offer, we collect the following information: IP address, access provider and type/version of browser used. We require the above information in order to ensure that you can identify yourself when using the Site, to ensure that you are of legal age to use our services, to improve our services to you and to keep you informed regarding any of our services which may be of interest to you. You have the right to request that we cease forwarding marketing information about our, and/or our partners', services to you. You also have the right to access your personal data at any time in order to make alterations to any personal information that may have changed or become obsolete. Should you believe that any personal information we hold for you is incorrect, please email our customer services team at support@betclic.com and we will amend any information found to be incorrect.
-
-## 2\. Use of your personal data
 
 Once your personal data is submitted to us, it shall be kept securely on our database.
 
@@ -35,17 +26,11 @@ The personal data submitted by our customers may be stored and/or processed in a
 
 Betclic shall in no manner whatsoever be held responsible for the manner in which third parties process the personal data of our customers. Betclic shall only be responsible for its own Privacy Policy and it does not warrant the standard of the privacy policies of any of the third parties who may have links placed on our Sites. We strongly recommend that when you access a new page via a link on our Site(s) which takes you to an external website, you take time to read through the privacy policy of the new website which you enter.
 
-## 3\. Retention of your personal data
-
 As our customer, you or we can close your Account with us at any time. Following closure of your Account, we will retain your personal data on record for as long as required by law. We will only use your data should such use be required by competent authorities in cases of fraud or investigation into any other illegal activity. This will be the sole exception to use of your personal data until its complete deletion from our records.
-
-## 4\. Protection of minors
 
 The online betting and gaming services that we offer are strictly prohibited for persons under 18 years of age or under the age of legal consent for using online betting and gaming services under the laws of the jurisdiction in which the person is located. Consequently, minors may not register on our Site or on the Mobile Offer and should not provide us with any personal data. We collect proof of identification from our customers as part of our age verification process. 
 
 Any minor who is found to be gambling on Betclic shall have any winnings confiscated and his/her Account will be immediately blocked. Betclic reserves the right to conduct a security review to validate your identity and age. Acceptance of our Privacy Policy authorises us to conduct such security reviews which may include ordering of credit reports or verification of the information supplied by you against third party databases.
-
-## 5\. Cookies
 
 **What are cookies?**  
 A cookie is a small file which asks permission to be placed on your computer's hard drive or browser and which collects information. We use cookies to provide you with a better Site. For example, we use them with your permission to remember information about your Site preferences (for example, the language you use on the Site) and for essential functions such as ensuring that when you add something to your betting slip, it’s still there when you come to place the bet. We also use third-party cookies for security and fraud prevention purposes. Session ID cookies terminate once your close your browser. Persistent cookies are stored on your hard drive and are sent back to our Site each time you visit so that we can recognise you and tailor the Site to your preferences.
@@ -62,9 +47,7 @@ Analytics cookie – this is used to anonymously collect information on how visi
 **Can cookies be blocked?**  
 You can set which cookies are used when you visit our Site by adjusting your browser settings. However, if you block essential cookies, you may not be able to use all functionalities on our Site and your user experience will be reduced. Our site will use cookies when you visit it unless you adjust your browser settings. You can find out more about cookies and how to manage them at sites such as www.allaboutcookies.org.
 
-## 6\. Security
-
-Betclic (Gibraltar) Limited is a company incorporated in Gibraltar with company number 106 443 and which has its place of business at Suite 7.3.1, Europort, Europort Road, Gibraltar. Betclic is licensed under the Gambling Act 2005 by the Government of Gibraltar and regulated by the Gibraltar Gambling Commissioner. BetClic Limited uses its best endeavours to protect the confidentiality of your personal data and to prevent any unauthorised external or internal users from accessing such information without your consent. However, Betclic shall take no responsibility whatsoever for events beyond its control inclusive of, but not limited to, acts of god or natural disasters and including power cuts and strikes.
+Betclic (Gibraltar) Limited is a company incorporated in Gibraltar with company number 106 443 and which has its place of business at Suite 7.3.1, Europort, Europort Road, Gibraltar. Betclic is licensed under the Gambling Act 2005 by the Government of Gibraltar and regulated by the Gibraltar Gambling Commissioner. Betclic Limited uses its best endeavours to protect the confidentiality of your personal data and to prevent any unauthorised external or internal users from accessing such information without your consent. However, Betclic shall take no responsibility whatsoever for events beyond its control inclusive of, but not limited to, acts of god or natural disasters and including power cuts and strikes.
 
 We are sure that, as our customer, you understand the evolving nature of our business due to continuous technological innovation and, although we endeavour to do our best to ensure the protection and privacy of your personal data at all times, we cannot guarantee that the performance of our service will be free from error at all times. Should any such error have an effect or consequence on the privacy of your personal data, we shall not be liable in any manner whatsoever in damages or otherwise.
 
@@ -79,11 +62,6 @@ All sensitive data which is transmitted between your computer and Betclic is tra
 **Other security measures**  
 When users submit sensitive information via the Site, their information is protected both online and offline. When our registration form asks users to enter sensitive information (such as a credit card number), that information is encrypted and is protected using Secure Socket Layer– (SSL) technology. While on a secure page, such as our deposit page, the lock icon at the bottom, or in the url, of your web browser becomes locked. The lock icon is unlocked, or open, when users are simply 'surfing' and are not inputting sensitive information. All payments made on our Site and Mobile Offer are secured, in compliance with the relevant EU rules and regulations.
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information offline. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only authorised BetClic employees/contractors are granted access to personally identifiable information. We perform checks on all of our potential employees/contractors to ensure that none of them have a criminal record. Our employees/contractors are regularly made aware of security best practices within the industry and security audits are carried out on a regular basis. Finally, the servers that store personally identifiable information are in a secure environment.
-
-## 7\. Modifications
+While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information offline. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only authorised Betclic employees/contractors are granted access to personally identifiable information. We perform checks on all of our potential employees/contractors to ensure that none of them have a criminal record. Our employees/contractors are regularly made aware of security best practices within the industry and security audits are carried out on a regular basis. Finally, the servers that store personally identifiable information are in a secure environment.
 
 It may become necessary, at any time, for us to make modifications to the Site and/or Mobile Offer or to the House Rules, Terms and Conditions or Privacy Policy governing our services. The purpose of such modifications may be to further simplify user processes or to further reinforce security measures in order to upgrade to future technological innovations. In such cases, customers previously registered on our Site will keep their user name and password; no modifications will be required on their part. Continued use of our Site by the members after any modifications to the Site, Mobile Offer, House Rules, Terms and Conditions or Privacy Policy will be considered as their acceptance thereof. It is the responsibility of each customer to regularly check the House Rules, Terms and Conditions and Privacy Policy for updates.
-
-  
-
