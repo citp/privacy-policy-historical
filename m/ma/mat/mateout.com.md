@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the mateout.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603184551id_/http%3A//mateout.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mateout.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331124127id_/http%3A//www.mateout.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# 
+# Mate Out
 
-_We gather and utilize various types of information listed below. By using this Site, or by continuing your membership with Mateout.com, you signify your acceptance of this Policy._
+_We gather and utilize various types of information listed below. By using this Site, or by continuing your membership with mateout.com, you signify your acceptance of this Policy._
 
 ## Types of Information We Collect:
 
 **Public Information** \- You may visit the Web Site anonymously. During your visit, we may collect information that is not personally identifiable such as your IP address, site usage and purchase behavior, browser type, browser activity, and browser settings. 
 
 **Private Information** \- We may collect information about you to provide you with the services that you request. The information we collect may include but is not limited to name, email address, mailing address, phone number, credit card
+
+**Email Information** \- When you become a member of and opt-in to the site, you will automatically be registered to receive promotional offers and updates via email from our mailing partner, All Inbox, LLC.
 
 Customers credit card data will never be sold, shared, or transferred to a 3rd party.
 
