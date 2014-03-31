@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloomsbury.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007020910id_/http%3A//www.bloomsbury.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomsbury.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331101922id_/http%3A//www.bloomsbury.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Bloomsbury - Privacy & Cookies
 
@@ -53,14 +53,14 @@ The transmission of information via the internet is not completely secure. Altho
 We use information held about you in the following ways:
 
 •  To ensure that content from our site is presented in the most effective manner for you and for your computer.  
-•  To provide you with information, products or services that you request from us or which we feel may interest you, or to allow selected third parties to do the same, where you have consented to be contacted for such purposes.  
+•  To provide you with information, products or services that you request from us or which we feel may interest you where you have consented to be contacted for such purposes.  
 •  To carry out our obligations arising from any contracts entered into between you and us. To the extent that carrying out such obligations necessitates us disclosing your personal information to agents, contractors or other third parties involved in the performance of contracts entered into between you and us, you agree and consent to such disclosure.  
 •  To allow you to participate in interactive features of our service, when you choose to do so.  
 •  To notify you about changes to our service.  
 •  In order to comply with any of our legal and regulatory obligations.  
-•  Bloomsbury.com newsletters are 'opt-in' which means that you will not be sent any newsletters unless you specifically request them. Our newsletters also contain simple instructions for quickly discontinuing your subscription should you wish to do so. To subscribe or unsubscribe to one or more of our e-mail newsletters [click here](http://www.bloomsbury.com/newsletters).
+•  Bloomsbury.com newsletters are 'opt-in' which means that you will not be sent any newsletters unless you specifically request them. Our newsletters also contain simple instructions for quickly discontinuing your subscription should you wish to do so. To subscribe to one or more of our e-mail newsletters [click here](http://www.bloomsbury.com/customer/newsletter).
 
-You will not receive unsolicited marketing communications from us and/or from third parties selected by us unless you have agreed to this. We may, however, contact you from time to time as necessary with information or queries about your registration, your purchases and/or your postings.  
+You will not receive unsolicited marketing communications from us unless you have agreed to this. We may, however, contact you from time to time as necessary with information or queries about your registration, your purchases and/or your postings.  
 We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users. We may also use such aggregate information to help advertisers reach the kind of audience they want to target. We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
 
  **Disclosure of your information**
