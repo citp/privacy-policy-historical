@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the viaddress.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231095210id_/http%3A//www.viaddress.com/privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viaddress.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331152333id_/https%3A//www.viabox.com/privacy) for the most accurate reproduction.*
 
-# Viaddress : The Global Leader in Package Forwarding
+# Viabox : The Global Leader in Package Forwarding
 
-At VIAddress.com we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us.   
+At Viabox we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us.   
 This Privacy Policy, together with our terms of use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you.  
 We do update this Policy from time to time so please do review this Policy regularly.
 
@@ -46,15 +46,15 @@ The transmission of information via the internet is not completely secure and th
 
 **Disclosing Your Information**
 
-Where applicable, we may disclose your personal information to any member of our group. This includes, where applicable, our subsidiaries, our holding company and its other subsidiaries (if any).  
-We may also disclose your personal information to third parties:  
-Where we sell any or all of our business and/or our assets to a third party.  
-Where we are legally required to disclose your information.  
-To assist fraud protection and minimize credit risk.
+Where applicable, we may disclose your personal information to third parties:  
+
+
+  * Where we are legally required by law to disclose your information.
+  * To assist in fraud protection or investigation.
 
 **Third Party Links**
 
-You mind find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
+You may find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
 
 As you would expect of us, we will take all reasonable measures to ensure that the personal information you provide through our website is held and managed securely. However, there is not a lot that you can do to help keep your personal information safe – not just on our website, but whenever you provide information online.  
 Here are some simple ways you can improve the security of you information:
@@ -65,6 +65,6 @@ Here are some simple ways you can improve the security of you information:
 
 
 
-VIAddress.com is fully PCI Compliant and runs on a full secure https platform.  
-VIAddress also use enterprise strength security devices to protect your information.  
+Viabox.com is fully PCI Compliant and runs on a full secure https platform.  
+Viabox also use enterprise strength security devices to protect your information.  
  
