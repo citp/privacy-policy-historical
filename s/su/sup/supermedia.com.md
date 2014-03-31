@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supermedia.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024142111id_/http%3A//www.supermedia.com/trust/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supermedia.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331060408id_/http%3A//www.supermedia.com/trust/privacy-security) for the most accurate reproduction.*
 
 # Privacy & security - SuperMedia
 
