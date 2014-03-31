@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lbinary.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224065632id_/http%3A//www.lbinary.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbinary.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331053231id_/http%3A//www.lbinary.com/company/privacy) for the most accurate reproduction.*
 
-# lbinary - Privacy
+# Privacy
 
 **INFORMATION COLLECTED BY WEBSITE**
 
@@ -18,7 +18,7 @@ When you apply or maintain a trading account with the Company, the Company  col
 
 **SHARING INFORMATION WITH OUR AFFILIATES**
 
-Company may share personal information described above with the Company's  affiliates for business purposes and within the limits of the applicable law. Our affiliates may include companies of the same group as well as companies that do not have an ownership interest in our company. The information the Company share with affiliates may include any of the information described above, such as your name, address and account information. Our affiliates maintain the privacy of your information to the same extent as the Company does and in accordance with this Policy.
+The Company may share personal information described above with the Company's  affiliates for business purposes and within the limits of the applicable law. Our affiliates may include companies of the same group as well as companies that do not have an ownership interest in our company. The information the Company share with affiliates may include any of the information described above, such as your name, address and account information. Our affiliates maintain the privacy of your information to the same extent as the Company does and in accordance with this Policy.
 
 **SHARING INFORMATION WITH THIRD PARTIES**
 
@@ -26,8 +26,8 @@ The Company does not disclose your personal information to third parties except 
 
 **REGULATORY DISCLOSURE**
 
-Under limited circumstances, The Company may disclose your personal information to third parties as permitted by, or to comply with, applicable laws and regulations. For example, Company may disclose personal information in order to cooperate with regulatory authorities and law enforcement agencies to comply with subpoenas or other official requests and as necessary to protect our rights or property. 
+Under limited circumstances, the Company may disclose your personal information to third parties as permitted by, or to comply with, applicable laws and regulations. For example, the Company may disclose personal information in order to cooperate with regulatory authorities and law enforcement agencies to comply with subpoenas or other official requests and as necessary to protect our rights or property. 
 
 **OPT OUT**
 
-You are not required to supply any of the personal information that Company may request; however, failure to do so may result in being unable to open or maintain your account or to provide services to you. While Company make every effort to ensure that all information Company hold about you is accurate, complete and up to date, you can help us considerably by promptly notifying us if there are any changes to your personal information.
+You are not required to supply any of the personal information that the Company may request; however, failure to do so may result in being unable to open or maintain your account or to provide services to you. While the Company will make every effort to ensure that all information  the Company holds about you is accurate, complete and up to date, you can help us considerably by promptly notifying us if there are any changes to your personal information.
