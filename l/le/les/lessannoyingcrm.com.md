@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lessannoyingcrm.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917174230id_/https%3A//www.lessannoyingcrm.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lessannoyingcrm.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331034300id_/https%3A//www.lessannoyingcrm.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy and Security Policies
 
@@ -15,7 +15,7 @@ At times we will collect personally identifiable or private information from you
 
 You are never required to provide Less Annoying CRM with any personal information, but without the information detailed above, Less Annoying CRM will not be able to provide our service to you. 
 
-Less Annoying CRM also collects usage data and statistics about its users' behavior and visitor information (browser, operating system, etc.) for the purposes of improving the product and service we provide, but this data is for internal use only is and is never shared. 
+Less Annoying CRM also collects usage data and statistics about its users' behavior and visitor information (browser, operating system, etc.) for the purposes of improving the product and service we provide, but this data is for internal use only is and is never shared. We do not honor Do Not Track requests. 
 
 As a company, we are dedicated to keeping your personally identifiable information out of the hands of unauthorized viewers. We will always use the utmost discretion with your information, and we will never provide this information to any third party without your express consent, except in cases where: 
 
