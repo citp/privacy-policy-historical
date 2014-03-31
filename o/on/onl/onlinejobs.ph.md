@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the onlinejobs.ph privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424195616id_/http%3A//www.onlinejobs.ph/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinejobs.ph privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331195720id_/http%3A//www.onlinejobs.ph/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | OnlineJobs.PH
-
-  * [Home](http://www.onlinejobs.ph/)
-  * Privacy Policy
-
-
+# Privacy Statement | OnlineJobs.ph
 
 The basic gist of this is that we won't sell or rent your private info. We care about your privacy. We hate spam, too.
 
