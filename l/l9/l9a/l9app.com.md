@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the l9app.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808074259id_/https%3A//www.l9app.com/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the l9app.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401011407id_/https%3A//www.l9app.com/privacystatement.asp) for the most accurate reproduction.*
 
 # Level 9 App
 
@@ -44,5 +44,4 @@ Level 9 Marketing will occasionally update this Statement of Privacy to reflect 
 
 ## Contact Information
 
-Level 9 Marketing welcomes your comments regarding this Statement of Privacy. If you believe that Level 9 Marketing has not adhered to this Statement, please contact Level 9 Marketing at support@level9app.com. We will use commercially reasonable efforts to promptly determine and remedy the problem.   
-
+Level 9 Marketing welcomes your comments regarding this Statement of Privacy. If you believe that Level 9 Marketing has not adhered to this Statement, please contact Level 9 Marketing at support@level9app.com. We will use commercially reasonable efforts to promptly determine and remedy the problem. 
