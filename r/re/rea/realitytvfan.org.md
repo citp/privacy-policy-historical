@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realitytvfan.org privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120120300id_/http%3A//realitytvfan.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realitytvfan.org privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331113714id_/http%3A//realitytvfan.org/privacy-policy) for the most accurate reproduction.*
 
 # RealityTVFan.org » Privacy Policy
 
