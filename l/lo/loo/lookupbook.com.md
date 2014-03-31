@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lookupbook.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020230518id_/http%3A//www.lookupbook.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookupbook.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331102904id_/http%3A//www.lookupbook.com/privacy.html) for the most accurate reproduction.*
 
-# Lookupbook - Privacy Policy
+# Privacy Policy | Lookupbook
 
 Privacy Policy for www.lookupbook.com 
 
