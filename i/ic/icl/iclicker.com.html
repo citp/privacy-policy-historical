@@ -1,12 +1,13 @@
-<!--The following is the downloaded HTML source of the iclicker.com privacy policy that was archived on 2013-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602093046id_/http%3A//www1.iclicker.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iclicker.com privacy policy that was archived on 2014-03-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331225514id_/http%3A//www1.iclicker.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><!--<![endif]--><head>	
+		<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0013/2140.js?438998" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=003028138986584309883:-7mvilzfkty"></script><script src="//cdn.optimizely.com/js/176532191.js"></script><!-- Optimizely code -->
 	<link rel="shortcut icon" href="http://www1.iclicker.com/wp-content/themes/iclicker/iclicker-favicon.png">
         <meta charset="UTF-8">
         
-								        <title>Privacy Policy | iClicker</title>
-								        <link rel="profile" href="http://gmpg.org/xfn/11">
+		    <title>Privacy Policy - i&gt; clicker</title>
+	        <link rel="profile" href="http://gmpg.org/xfn/11">
         <link rel="pingback" href="http://www1.iclicker.com/xmlrpc.php">
                 <!--[if lt IE 9]>
         <script src="http://www1.iclicker.com/wp-content/themes/iclicker/js/html5.js" type="text/javascript"></script>
@@ -19,7 +20,7 @@
 <link rel="stylesheet" id="iclicker-style-css" href="http://www1.iclicker.com/wp-content/themes/iclicker/style.css?ver=3.5.1" type="text/css" media="all">
 <link rel="stylesheet" id="iclickermain-css" href="http://www1.iclicker.com/wp-content/themes/iclicker/css/iClicker.css?ver=3.5.1" type="text/css" media="all">
 <link rel="stylesheet" id="iclickermain-style-flexslider-css" href="http://www1.iclicker.com/wp-content/themes/iclicker/css/flexslider.css?ver=3.5.1" type="text/css" media="all">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=003028138986584309883:-7mvilzfkty"></script><script type="text/javascript" src="http://www1.iclicker.com/wp-includes/js/jquery/jquery.js?ver=1.8.3"></script>
+<script type="text/javascript" src="http://www1.iclicker.com/wp-includes/js/jquery/jquery.js?ver=1.8.3"></script>
 <script type="text/javascript" src="http://www1.iclicker.com/wp-content/themes/iclicker/scripts/jquery.equalizecols.js?ver=3.5.1"></script>
 <script type="text/javascript" src="http://www1.iclicker.com/wp-content/themes/iclicker/scripts/accordion.js?ver=3.5.1"></script>
 <script type="text/javascript" src="http://www1.iclicker.com/wp-content/themes/iclicker/scripts/facebox.js?ver=3.5.1"></script>
@@ -32,7 +33,7 @@
 <link rel="next" title="Accessibility Standards" href="http://www1.iclicker.com/accessibility-standards/">
 <meta name="generator" content="WordPress 3.5.1">
 
-<!-- All in One SEO Pack 1.6.15.3 by Michael Torbert of Semper Fi Web Design[408,440] -->
+<!-- All in One SEO Pack 1.6.15.3 by Michael Torbert of Semper Fi Web Design[486,509] -->
 <link rel="canonical" href="http://www1.iclicker.com/privacy-policy/">
 <!-- /all in one seo pack -->
 	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
@@ -67,11 +68,13 @@
                         {
                             jQuery("#headerWrapper").stop().animate({height:"50px", padding: "10px 0 10px 0"},0);
                             //$("#headerWrapper").addClass("smallBg");
+			    //jQuery("#register_ticcker").css("top", "62px");
                         }
                         else
                         {
                             //$("#headerWrapper").removeClass("smallBg");	
                             jQuery("#headerWrapper").stop().animate({height: "52px", padding: "38px 0 38px 0"},0);
+			    //jQuery("#register_ticcker").css("top", "88px");
                         }	
                     }
                 }
@@ -114,25 +117,58 @@
                     var top_margin = 80;
                     jQuery('body,html').animate({scrollTop: postion.top - top_margin},'slow');
                     return false;
-                });
+                });		
             });
             /*Page bookmark end here*/
 	    
 	    //PDF file path will be set in the session
-	    function setSession(filePath, redirectURL){
+	    function setSession(filePath, redirectURL){		
 		jQuery.ajax({           
 		    dataType: "html",            
 		    type : 'GET',
-		    url : 'setsession.php',            
+		    url : 'http://www1.iclicker.com/setsession.php',            
 		    data: {                
 			'filePath' : filePath
 		    },
-		    success: function(result) {
-			 document.location.href = redirectURL;
+		    success: function(result) {			
+			if(redirectURL=="form1" && jQuery("#tfa_FirstName").val() != "" && jQuery("#tfa_LastName").val() != "" && jQuery("#tfa_Email").val() != "" && jQuery("#tfa_4134860925660").val() != "")
+			{
+			    document.form1.submit();
+			}
+			else if(redirectURL!="" && redirectURL!="form1")
+			{
+			    document.location.href = redirectURL;
+			}
 		    }	    
 		});
 	    }
 	    //set session ends here
+	    
+	    //function to hide the ticker
+	    function ticker_hide(){
+		jQuery.ajax({  
+		    type: 'GET',  
+		    url: 'http://www1.iclicker.com/get-ticker-data',  
+		    data: {  
+		      hide_ticker: 1,  
+		    }		     
+		});
+		jQuery("div.tickerBar").hide();
+	    }
+	    //hide ticker function ends here
+	    
+	    //function to hide the overlay
+	    function overlay_hide(){
+		jQuery.ajax({  
+		    type: 'GET',  
+		    url: 'http://www1.iclicker.com/get-ticker-data',  
+		    data: {  
+		      hide_overlay: 1,  
+		    }		     
+		});
+		jQuery("div.register_popup").hide();
+	    }
+	    //hide overlay function ends here
 	    
         </script>
         
@@ -151,9 +187,14 @@
 if(navigator.userAgent.indexOf('Mac') > 0 && navigator.userAgent.indexOf('Firefox') > 0)
 //{document.write ('<style type="text/css">section#slider{position:relative; right:1px;}</style>');}
 {document.write ('<link rel="stylesheet" type="text/css" href="http://www1.iclicker.com/wp-content/themes/iclicker/css/macFF.css">');}
-</script>	
-    </head>
-    <body>
+</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "7534af01-93ec-4865-b117-88b1d4c7ce09", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+    <script type="text/javascript" async="" src="//munchkin.marketo.net/munchkin.js"></script></head>
+    <body>	
+	<!--Ticker bar starts here -->
+                <!--Ticker bar ends here -->		
+	
         <div id="wrapper">
             <!--Header starts here -->
             <div id="headerWrapper" class="">
@@ -170,6 +211,9 @@ if(navigator.userAgent.indexOf('Mac') > 0 && navigator.userAgent.indexOf('Firefo
                       Response Solution</a></p>
                   </li>
                   <li><a href="http://www1.iclicker.com/response-system-software">i&gt;clicker Software</a></li>
+		  <li><a href="http://www1.iclicker.com/iclicker-on-linux">i&gt;clicker on Linux</a></li>
+		  <li><a href="http://www1.iclicker.com/iclicker-for-australia">i&gt;clicker for Australia</a></li>
+		  <li><a href="http://www1.iclicker.com/iclicker-for-new-zealand">i&gt;clicker for New Zealand</a></li>
 		  <li>&nbsp;</li>
 		  <li>
                     <p><a href="http://www1.iclicker.com/audience-response-system-updates">Product Updates</a></p>
@@ -181,7 +225,7 @@ if(navigator.userAgent.indexOf('Mac') > 0 && navigator.userAgent.indexOf('Firefo
                   <li>
                     <p><a href="http://www1.iclicker.com/student-response-devices">Response Devices</a></p>
                   </li>
-                  <li><a href="http://www1.iclicker.com/student-remote-iclicker-plus">i&gt;clicker +</a></li><li><a href="http://www1.iclicker.com/student-remote-iclicker-2">i&gt;clicker 2</a></li><li><a href="http://www1.iclicker.com/online-polling-web-clicker">web&gt;clicker</a></li><li><a href="http://www1.iclicker.com/mobile-polling-iclicker-go">i&gt;clicker GO</a></li><li><a href="http://www1.iclicker.com/student-response-system-receiver">i&gt;clicker base</a></li><li><a href="http://www1.iclicker.com/presenter-polling-remote-iclicker-plus">i&gt;clicker+ Presenter</a></li><li><a href="http://www1.iclicker.com/presenter-polling-remote-iclicker-2">i&gt;clicker 2 Presenter</a></li><li><a href="http://www1.iclicker.com/res-device/empowerment-power-in-flexibility/"></a></li>                </ul>
+                  <li><a href="http://www1.iclicker.com/res-device/empowerment-power-in-flexibility/"></a></li><li><a href="http://www1.iclicker.com/presenter-polling-remote-iclicker-2">i&gt;clicker 2 Presenter</a></li><li><a href="http://www1.iclicker.com/presenter-polling-remote-iclicker-plus">i&gt;clicker + Presenter</a></li><li><a href="http://www1.iclicker.com/student-response-system-receiver">i&gt;clicker Base</a></li><li><a href="http://www1.iclicker.com/mobile-polling-iclicker-go">i&gt;clicker GO</a></li><li><a href="http://www1.iclicker.com/student-remote-iclicker-2">i&gt;clicker 2</a></li><li><a href="http://www1.iclicker.com/student-remote-iclicker-plus">i&gt;clicker +</a></li>                </ul>
                 <ul class="accessibility">
                   <li>
                     <p><a href="http://www1.iclicker.com/response-device-accessibility">Accessibility</a></p>
@@ -206,13 +250,14 @@ if(navigator.userAgent.indexOf('Mac') > 0 && navigator.userAgent.indexOf('Firefo
             </div>
           </li>
 										<li><a href="http://www1.iclicker.com/audience-response-solutions"><span>Solutions</span></a>
-            <div class="resources_over">
+            <div class="solution_over">
              						
 												            <ul>
 																														<li><a href="http://www1.iclicker.com/higher-education-responseware">Higher Education</a></li>
 																																	<li><a href="http://www1.iclicker.com/student-clickers-k12">K-12 Education</a></li>
 																																	<li><a href="http://www1.iclicker.com/audience-polling-corporate">Corporate</a></li>
 																																	<li><a href="http://www1.iclicker.com/interactive-presentations-government">Government</a></li>
+																																	<li><a href="http://www1.iclicker.com/interactive-training-healthcare">Healthcare</a></li>
 																            </ul>
          
 						              <div class="clear"></div>
@@ -225,50 +270,21 @@ if(navigator.userAgent.indexOf('Mac') > 0 && navigator.userAgent.indexOf('Firefo
                 <li><a href="http://www1.iclicker.com/assitive-technology-white-papers">White Papers</a></li>
                 <li><a href="http://www1.iclicker.com/pedagogy-webinars">Pedagogy Webinars</a></li>
                 <li><a href="http://www1.iclicker.com/campus-highlights">Campus Highlights</a></li>
-                <!--<li><a href="http://www1.iclicker.com">The Active Class Blog</a></li>-->
+		<li><a href="http://www1.iclicker.com/user-community">User Community</a></li>
+                <li><a href="http://www1.iclicker.com/blogs">Blog</a></li>
               </ul>
               <div class="clear"></div>
             </div>
           </li>
-          <li><a href="https://iclicker.zendesk.com/home"><span>Support</span></a>
-            <!--<div class="support_over">
-              <div class="leftNavi">
-                <ul class="ul_Left">
-                  <li>
-                    <p><a href="">User Guides</a></p>
-                  </li>
-                                  </ul>
-		<ul class="ul_Right">
-                  <li>
-                    <p><a href="">Technical Support</a></p>
-                  </li>
-                                  </ul>
-                <ul class="ul_Right">
-                  <li>
-                    <p><a href="">Product Updates</a></p>
-                  </li>
-                  <li><a href="">Downloads and Release Notes</a></li>
-                  <li><a href="">i>clicker Utilities</a></li>
-                </ul>
-                <div class="clear"></div>
-                <ul class="ul_Left lessMargin">
-                  <li>
-                    <p><a href="">Self Help</a></p>
-                  </li>
-                  <?php// show_support_self_help_sub_menu($sub_menu); ?>
-                </ul>                
-                <div class="clear"></div>
-              </div>
-              <div class="rightNavi">
-                <h4>Getting Started</h4>
-                <p>Download the latest software and utility tools for your i>clicker system here.</p>
-                <a href="" class="btnGrey"><span>Downloads &gt;</span></a>
-                <div class="clear"></div>
-              </div>
-              
-              
-              <div class="clear"></div>
-            </div>-->
+          <li><a href="http://support.iclicker.com/home"><span>Support</span></a>
+	    <div class="support_over">
+              <ul>	
+		<li><a href="http://support.iclicker.com/forums">Knowledge Base</a></li>
+                <li><a href="http://support.iclicker.com/categories/20106298-Student-Support">Student Support</a></li>
+                <li><a href="https://iclicker.webex.com" target="_blank">Training</a></li>
+                <li><a href="http://support.iclicker.com/anonymous_requests/new">Submit a Request</a></li>
+	      </ul>
+	    </div>	   
           </li>
           <li><a href="http://www1.iclicker.com/purchase-response-devices"><span>Purchase</span></a></li>
           <li><a href="http://www1.iclicker.com/register-student-remote"><span>Register</span></a>
@@ -284,56 +300,112 @@ if(navigator.userAgent.indexOf('Mac') > 0 && navigator.userAgent.indexOf('Firefo
 			    
                     <div class="clear"></div>
                 </div>
-            </div><!--Container starts here -->
+            </div>
+	    
+	    <!--Overlay starts here -->
+	    		<!--<div class="register_popup">
+		    <a href="javascript:void(0)" onClick= 'overlay_hide()' class="popup_close"></a>
+		    <div class="clear"></div>
+		    <h2>Hey Students, Register Your Remote.</h2>
+		    <a href="http://www1.iclicker.com/register-an-iclicker" class="btnBlack">Register Now &gt;</a>
+		    <div class="clear"></div>
+		    <p>If you are using i>clicker GO in class, please visit <a href="http://www.iclickergo.com" target="_blank">www.iclickergo.com</a> or download the iOS or Android app.</p>
+		</div>	-->
+	    	    <!--Overlay ends here -->    <!--Container starts here -->
 <div id="container" class="">
     <div id="caseStudies" class="innerPages">
         <div class="noSidebar">
-                        <h2>Privacy Policy</h2>
+                        <h1>Privacy Policy</h1>
             <div id="footerPages">
-                <p><strong><a href="http://www1.iclicker.com">www1.iclicker.com</a> web site privacy notice<br>Effective Date July 1, 2011</strong></p>
-<p>We, at i&gt;clicker (“we” or “i&gt;clicker”) respect your concerns about privacy and value the relationship we have with you. This Privacy Notice describes the types of personal information we collect on <a href="http://www1.iclicker.com">www1.iclicker.com</a>, how we may use that information, and with whom we may share it. Our Privacy Notice also describes the measures we take to protect the security of the information. In addition, we describe the choices you can make about how we use the information you provide to us. We also tell you how you can reach us to update your contact information, contact us with general questions or comments, inquire about our company and its products and services, or answer any questions you may have about our privacy practices or this website.</p>
-<p>For information on how i&gt;clicker addresses FERPA privacy laws, please <a href="http://www1.iclicker.com/classroom-response-system-faq">see our FAQs</a>.</p>
-<p>Read the sections below to learn what information we collect:</p>
+                <strong><a href="http://www1.iclicker.com">www1.iclicker.com</a> web site privacy notice
+Effective Date July 1, 2011</strong>
+
+<p>We, at i&gt;clicker (“we” or “i&gt;clicker”) respect your concerns about privacy and value the relationship we have with you. This Privacy Notice describes the types of personal information we collect on <a href="http://www1.iclicker.com">www1.iclicker.com</a>, how we may use that information, and with whom we may share it. Our Privacy Notice also describes the measures we take to protect the security of the information. In addition, we describe the choices you can make about how we use the information you provide to us. We also tell you how you can reach us to update your contact information, contact us with general questions or comments, inquire about our company and its products and services, or answer any questions you may have about our privacy practices or this website.</p><br>
+
+<p>For information on how i&gt;clicker addresses FERPA privacy laws, please <a href="http://www1.iclicker.com/classroom-response-system-faq">see our FAQs</a>.</p><br>
+
+Read the sections below to learn what information we collect:<br>
 <ul>
-<li>Customer Support</li>
-<li>Student Registration</li>
-<li>Sweepstakes, Contests and Other Promotions</li>
-<li>Surveys and Questionnaires</li>
-<li>Chat Rooms, Forums, Blogs and Discussion Groups</li>
-<li>“Contact Us” and Technical Support</li>
-<li>Newsletters and Updates</li>
-<li>Cookies</li>
-</ul>
-<p>The sections below will also explain:</p>
+ <li>Customer Support</li>
+ <li>Student Registration</li>
+ <li>Sweepstakes, Contests and Other Promotions</li>
+ <li>Surveys and Questionnaires</li>
+ <li>Chat Rooms, Forums, Blogs and Discussion Groups</li>
+ <li>“Contact Us” and Technical Support</li>
+ <li>Newsletters and Updates</li>
+ <li>Cookies</li>
+</ul><br>
+The sections below will also explain:<br>
 <ul>
-<li>How We Use Information We Collect</li>
-<li>Information We Share</li>
-<li>Links to Other Web sites</li>
-<li>Security</li>
-<li>Your Choices About Marketing</li>
-<li>Updates to this Privacy Notice</li>
-<li>How To Contact Us</li>
-</ul>
-<p><strong>Customer Support</strong><br>We may offer content, products and services to our adopting customers (e.g., adopting instructors, school administrators, company administrators). A user account may be necessary to get access to and/or support for such content, products and services. To create a user account, you will need to enter your name and e-mail address. You will also need to establish a password of your choosing. We may require additional information to confirm your status as an adopting customer (e.g., your school/company name and location, course/department information, and a telephone number where we can contact you). In addition, you may choose to provide optional information (e.g., your areas of interest), which will allow us to serve you better.</p>
-<p><strong>Student Registration</strong><br>Instructors may ask you to register your i&gt;clicker to your name/student ID. Such registration is necessary for instructors to assign credit to you for participating in class and/or selecting correct answers using the i&gt;clicker. If you choose to register online, you will need to register your name, i&gt;clicker ID and student ID (as designated by your instructor).</p>
-<p><strong>Sweepstakes, Contests and Other Promotions</strong><br>From time to time we may run sweepstakes, contests or other promotions on our Web site. If you choose to participate, we may request your contact and other information in connection with the promotion.</p>
-<p><strong>Surveys and Questionnaires</strong><br>We may ask visitors to our Web site to complete online surveys and opinion polls on a variety of topics, such as their activities, attitudes, and interests, and our products and services. These surveys help us understand the needs of our visitors.</p>
-<p><strong>Chat Rooms, Forums, Blogs and Discussion Groups</strong><br>We may host chat rooms, forums, blogs and/or discussion groups (including by e-mail, bulletin board, instant messaging or other technologies) on our own or on third-party Web sites. If you choose to participate in a chat room, forum, blog or discussion group, we may request certain information such as your e-mail address, date of birth, academic status and affiliation, and other pertinent information. Please be aware that some or all the information you provide (including personally identifiable information such as your name) in connection with a chat room, forum, blog or discussion group may be available to specific groups or to the public generally, depending upon the technologies used.</p>
-<p><strong>Sharing or Commenting Through Third-Party Sites</strong><br>The functionality of our site lets you share or comment on our content through third-party sites and communities that you are a member of, such as Facebook and Twitter. For example, you may “like” or “share” content through your Facebook account, or tweet about content through your Twitter account. When you share or comment through your third-party account, the third-party site will collect and share your information in accordance with that site’s own policies and practices.</p>
-<p><strong>Email a Friend</strong><br>The functionality of our site also lets you share a page of our site with a friend. In order to share a page, we will ask for your name and e-mail address, and your friend’s e-mail address. We will not use your friend’s e-mail address other than to forward the page on your behalf.</p>
-<p><strong>“Contact Us” and Technical Support</strong><br>You may choose to contact us through our Web site. If you e-mail us comments or questions, we will have your e-mail address, as well as any other information you choose to provide.</p>
-<p><strong>Newsletters and Updates</strong><br>You may sign up for e-mail alerts such as i&gt;news and other newsletters or updates on a variety of topics such as software and other developments involving i&gt;clicker.</p>
-<p><strong>Cookies</strong><br>We use cookies on our Web site, to help us administer certain site features. Cookies are small text files that Web sites often store on the computer hard drives of visitors to their sites. A cookie contains a unique code, which is used to recognize a computer when a user of that computer returns to a Web site that was visited previously. The “help” portion of the toolbar on most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. However, in order to use certain features of our Web site, users must have the “cookie” function on their browsers enabled.</p>
-<p><strong>Other Passive Collection Information</strong><br>When you visit our Web site, your browser automatically sends us certain Internet-related information, such as the Internet Protocol (IP) address of the computer you’re using and your originating domain. We also use log files to collect certain aggregate information about Web site use, such as how many users visited our site, the average time spent on the site and the pages viewed. By collecting this information, we learn how best to tailor our Web sites to our visitors. While we generally examine such information only in the aggregate, such information could be linked back to individual IP addresses. In addition, if you are a registered user of our Web site, this information may be associated with your user name or id.</p>
-<p><strong>How We Use Information We Collect</strong><br>Information collected through our Web site is used in connection with the purpose for which it was submitted (for example, to contact you if you win a sweepstakes or contest, to allow you to participate in a chat room, to contact you with an answer to a question, or to send you information or a product you’ve requested). We may also contact you as a user of our products to: ask you to serve as a reviewer; to request an appointment with you at your campus or at a conference to talk about an existing or planned product; and other similar kinds of feedback and discussion. We may also use the information we collect to send you information or products we think may be of interest to you, and to customize our contacts with you. Finally, we may use some of the information we collect to analyze Web site use and to do other internal analyses, such as market research, that will allow us to better meet the needs of our customers.</p>
-<p><strong>Information We Share</strong><br>We do not sell, rent, trade or otherwise disclose personal information about our Web site visitors, except as described here. If we describe more limited sharing practices in connection with your use of a specific product or service anywhere on our Web sites, those more limited practices will apply as to that product or service only. We may share the information you provide with companies that are related to i&gt;clicker through common ownership. We also share information provided by our Web site visitors with service providers we have retained to perform services on our behalf. In addition, we may share information about you with non-affiliated third parties whose products or services may be of interest to you. These third parties may contact you about their products and services. We will not share your information with these third parties for their own marketing purposes if you request that we not do so. We may, however, engage in joint marketing activities, such as contests or promotions, with selected third parties and may share personal information about our Web site visitors with them. In addition, we may disclose information about you (i) if we are required to do so by law, (ii) in response to legal process, (iii) to law enforcement authorities or other government officials, or (iv) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity.</p>
+ <li>How We Use Information We Collect</li>
+ <li>Information We Share</li>
+ <li>Links to Other Web sites</li>
+ <li>Security</li>
+ <li>Your Choices About Marketing</li>
+ <li>Updates to this Privacy Notice</li>
+ <li>How To Contact Us</li>
+</ul><br>
+<p><strong>Customer Support</strong>
+We may offer content, products and services to our adopting customers (e.g., adopting instructors, school administrators, company administrators). A user account may be necessary to get access to and/or support for such content, products and services. To create a user account, you will need to enter your name and e-mail address. You will also need to establish a password of your choosing. We may require additional information to confirm your status as an adopting customer (e.g., your school/company name and location, course/department information, and a telephone number where we can contact you). In addition, you may choose to provide optional information (e.g., your areas of interest), which will allow us to serve you better.</p>
+
+<p><strong>Student Registration</strong>
+Instructors may ask you to register your i&gt;clicker to your name/student ID. Such registration is necessary for instructors to assign credit to you for participating in class and/or selecting correct answers using the i&gt;clicker. If you choose to register online, you will need to register your name, i&gt;clicker ID and student ID (as designated by your instructor).</p>
+
+<p><strong>Sweepstakes, Contests and Other Promotions</strong>
+From time to time we may run sweepstakes, contests or other promotions on our Web site. If you choose to participate, we may request your contact and other information in connection with the promotion.</p>
+
+<p><strong>Surveys and Questionnaires</strong>
+We may ask visitors to our Web site to complete online surveys and opinion polls on a variety of topics, such as their activities, attitudes, and interests, and our products and services. These surveys help us understand the needs of our visitors.</p>
+
+<p><strong>Chat Rooms, Forums, Blogs and Discussion Groups</strong>
+We may host chat rooms, forums, blogs and/or discussion groups (including by e-mail, bulletin board, instant messaging or other technologies) on our own or on third-party Web sites. If you choose to participate in a chat room, forum, blog or discussion group, we may request certain information such as your e-mail address, date of birth, academic status and affiliation, and other pertinent information. Please be aware that some or all the information you provide (including personally identifiable information such as your name) in connection with a chat room, forum, blog or discussion group may be available to specific groups or to the public generally, depending upon the technologies used.</p>
+
+<p><strong>Sharing or Commenting Through Third-Party Sites</strong>
+The functionality of our site lets you share or comment on our content through third-party sites and communities that you are a member of, such as Facebook and Twitter. For example, you may “like” or “share” content through your Facebook account, or tweet about content through your Twitter account. When you share or comment through your third-party account, the third-party site will collect and share your information in accordance with that site’s own policies and practices.</p>
+
+<p><strong>Email a Friend</strong>
+The functionality of our site also lets you share a page of our site with a friend. In order to share a page, we will ask for your name and e-mail address, and your friend’s e-mail address. We will not use your friend’s e-mail address other than to forward the page on your behalf.</p>
+
+<p><strong>“Contact Us” and Technical Support</strong>
+You may choose to contact us through our Web site. If you e-mail us comments or questions, we will have your e-mail address, as well as any other information you choose to provide.</p>
+
+<p><strong>Newsletters and Updates</strong>
+You may sign up for e-mail alerts such as i&gt;news and other newsletters or updates on a variety of topics such as software and other developments involving i&gt;clicker.</p>
+
+<p><strong>Cookies</strong>
+We use cookies on our Web site, to help us administer certain site features. Cookies are small text files that Web sites often store on the computer hard drives of visitors to their sites. A cookie contains a unique code, which is used to recognize a computer when a user of that computer returns to a Web site that was visited previously. The “help” portion of the toolbar on most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. However, in order to use certain features of our Web site, users must have the “cookie” function on their browsers enabled.</p>
+
+<p><strong>Other Passive Collection Information</strong>
+When you visit our Web site, your browser automatically sends us certain Internet-related information, such as the Internet Protocol (IP) address of the computer you’re using and your originating domain. We also use log files to collect certain aggregate information about Web site use, such as how many users visited our site, the average time spent on the site and the pages viewed. By collecting this information, we learn how best to tailor our Web sites to our visitors. While we generally examine such information only in the aggregate, such information could be linked back to individual IP addresses. In addition, if you are a registered user of our Web site, this information may be associated with your user name or id.</p>
+
+<p><strong>How We Use Information We Collect</strong>
+Information collected through our Web site is used in connection with the purpose for which it was submitted (for example, to contact you if you win a sweepstakes or contest, to allow you to participate in a chat room, to contact you with an answer to a question, or to send you information or a product you’ve requested). We may also contact you as a user of our products to: ask you to serve as a reviewer; to request an appointment with you at your campus or at a conference to talk about an existing or planned product; and other similar kinds of feedback and discussion. We may also use the information we collect to send you information or products we think may be of interest to you, and to customize our contacts with you. Finally, we may use some of the information we collect to analyze Web site use and to do other internal analyses, such as market research, that will allow us to better meet the needs of our customers.</p>
+
+<p><strong>Information We Share</strong>
+We do not sell, rent, trade or otherwise disclose personal information about our Web site visitors, except as described here. If we describe more limited sharing practices in connection with your use of a specific product or service anywhere on our Web sites, those more limited practices will apply as to that product or service only. We may share the information you provide with companies that are related to i&gt;clicker through common ownership. We also share information provided by our Web site visitors with service providers we have retained to perform services on our behalf. In addition, we may share information about you with non-affiliated third parties whose products or services may be of interest to you. These third parties may contact you about their products and services. We will not share your information with these third parties for their own marketing purposes if you request that we not do so. We may, however, engage in joint marketing activities, such as contests or promotions, with selected third parties and may share personal information about our Web site visitors with them. In addition, we may disclose information about you (i) if we are required to do so by law, (ii) in response to legal process, (iii) to law enforcement authorities or other government officials, or (iv) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity.</p>
+
 <p>We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to try to ensure that the transferee uses personal information you have provided through this Web site in a manner that is consistent with this Privacy Notice.</p>
-<p><strong>Links to Other Web sites</strong><br>We provide links to other Web sites for your convenience. Also, on occasion, we may provide to a department, program, class or instructor access to a third-party Web site (which may also include access to third-party software). These sites may operate independently from i&gt;clicker, and may not be under our control. These sites may have their own privacy notices in place, which we strongly suggest you review if you visit any linked Web sites. We may not be responsible for the content of these sites, any products or services that may be offered through these sites, or the privacy practices of these sites.</p>
-<p><strong>Security</strong><br>We use administrative, technical and physical safeguards to protect information in our possession and control against foreseeable hazards. Please note, however, that perfect security does not exist on the Internet.</p>
-<p><strong>Your Choices About Marketing</strong><br>We give you the option of requesting that we not share personal information about you with third parties that are unrelated by common ownership with i&gt;clicker for marketing use. Click here if you DO NOT want us to share your personal information with unrelated third parties for their own marketing use.We also give you the option of requesting that we not share your information with companies related to i&gt;clicker by common ownership for marketing use. However, PLEASE NOTE that, because of the integrated nature of the businesses of i&gt;clicker and some of these companies, if you opt out of sharing with them, you will also automatically be opted out of marketing use by i&gt;clicker. That means that you will not receive information about new products, promotions and services from i&gt;clicker. Click here if you do not want us to share your information with related companies for marketing use (or use the information for marketing purposes ourselves). (Keep in mind, however, that some of our related companies may have independently obtained your information, in which case you may continue to receive communications from those companies, unless you opt out directly with them.) Please be aware that we are able to effectuate an opt-out only for a specific e-mail address, or for a name and address or other identifying information. For example, we are unable to opt out “John Smith” by name alone, because of the large number of persons by that name in our databases. So, if you have more than one e-mail address, if you move or change jobs, or if the information you provide us when opting out doesn’t match the information in our databases, your opt out request may not be effectuated properly. If you believe you have opted out, but continue to receive e-mails from us, please contact us by one of the means listed under “How to Contact Us”, below, and we will endeavor to resolve the issue.</p>
-<p><strong>Updates to this Privacy Notice</strong><br>We may change or update portions of this Privacy Notice at any time and without prior notice to you. Please check back from time to time so you are aware of any changes or updates to the Notice. We will indicate above the effective date of the Notice.</p>
-<p><strong>How to Contact Us</strong><br>If you have any questions about our information practices or our products or services, please contact us by <a href="mailto:sales@iclicker.com">clicking here</a></p>
-<p>Write us at:<br>i&gt;clicker<br>18 W 18th Street, 7th floor<br>New York, NY 10011<br>Attention: Sarah Martin, Director of Sales and Marketing</p>                
+
+<p><strong>Links to Other Web sites</strong>
+We provide links to other Web sites for your convenience. Also, on occasion, we may provide to a department, program, class or instructor access to a third-party Web site (which may also include access to third-party software). These sites may operate independently from i&gt;clicker, and may not be under our control. These sites may have their own privacy notices in place, which we strongly suggest you review if you visit any linked Web sites. We may not be responsible for the content of these sites, any products or services that may be offered through these sites, or the privacy practices of these sites.</p>
+
+<p><strong>Security</strong>
+We use administrative, technical and physical safeguards to protect information in our possession and control against foreseeable hazards. Please note, however, that perfect security does not exist on the Internet.</p>
+
+<p><strong>Your Choices About Marketing</strong>
+We give you the option of requesting that we not share personal information about you with third parties that are unrelated by common ownership with i&gt;clicker for marketing use. Click here if you DO NOT want us to share your personal information with unrelated third parties for their own marketing use.We also give you the option of requesting that we not share your information with companies related to i&gt;clicker by common ownership for marketing use. However, PLEASE NOTE that, because of the integrated nature of the businesses of i&gt;clicker and some of these companies, if you opt out of sharing with them, you will also automatically be opted out of marketing use by i&gt;clicker. That means that you will not receive information about new products, promotions and services from i&gt;clicker. Click here if you do not want us to share your information with related companies for marketing use (or use the information for marketing purposes ourselves). (Keep in mind, however, that some of our related companies may have independently obtained your information, in which case you may continue to receive communications from those companies, unless you opt out directly with them.) Please be aware that we are able to effectuate an opt-out only for a specific e-mail address, or for a name and address or other identifying information. For example, we are unable to opt out “John Smith” by name alone, because of the large number of persons by that name in our databases. So, if you have more than one e-mail address, if you move or change jobs, or if the information you provide us when opting out doesn’t match the information in our databases, your opt out request may not be effectuated properly. If you believe you have opted out, but continue to receive e-mails from us, please contact us by one of the means listed under “How to Contact Us”, below, and we will endeavor to resolve the issue.</p>
+
+<p><strong>Updates to this Privacy Notice</strong>
+We may change or update portions of this Privacy Notice at any time and without prior notice to you. Please check back from time to time so you are aware of any changes or updates to the Notice. We will indicate above the effective date of the Notice.</p>
+
+<p><strong>How to Contact Us</strong>
+If you have any questions about our information practices or our products or services, please contact us by <a href="mailto:sales@iclicker.com">clicking here</a></p><br>
+
+<p>Write us at:</p>
+<p>i&gt;clicker</p>
+<p>18 W 18th Street, 7th floor</p>
+<p>New York, NY 10011</p>
+<p>Attention: Sarah Martin, Director of Client Services</p>                
 <div id="comments" class="comments-area">
 
 	
@@ -349,17 +421,23 @@ if(navigator.userAgent.indexOf('Mac') > 0 && navigator.userAgent.indexOf('Firefo
                 <div class="footerLeft">
                     <div class="box01">
                         <h5>Contact Technical Support</h5>
-                        <p>Students: <a href="https://iclicker.zendesk.com/categories/20106298-Student-Support">Click Here</a></p>
-<p>Presenters, Administrators, IT: <a href="https://iclicker.zendesk.com/home">Click Here</a></p>                        <h5>Contact Your Rep:</h5>
-                        <p>Higher Education: 877-414-5922, option 2</p>
-<p>K12 and Corporate: 877-414-5923</p>
-<p>All: <a href="mailto:contact@iclicker.com">contact@iclicker.com</a></p>                    </div>
-                    <div class="box02">
-                        <h5>Place or Track an Order</h5>
+                        <p>Students: <a href="http://support.iclicker.com/categories/20106298-Student-Support">Click Here</a></p>
+<p>Presenters, Administrators, IT: <a href="http://support.iclicker.com/home">Click Here</a></p>			<h5>MPS Orders</h5>
                         <p>888-330-8477 or </p>
-<p><a href="mailto:customerservice@mpsvirginia.com">customerservice@mpsvirginia.com</a></p>                        <h5>Feedback or Questions?</h5>
+<p><a href="mailto:customerservice@mpsvirginia.com">customerservice@mpsvirginia.com</a></p> 
+			<h5>Feedback or Questions</h5>
                         <p>877-414-5922 or </p>
 <p><a href="mailto:contact@iclicker.com">contact@iclicker.com</a></p>                    </div>
+                    <div class="box02">
+                        <h5>Contact Your Rep for Information &amp; Pricing</h5>
+                        <p>Higher Ed: 877-414-5922, option 2</p>
+<p>K12 and Corporate: 877-414-5923</p>
+<p>All: <a href="mailto:contact@iclicker.com">contact@iclicker.com</a></p>
+
+<h5>Orders for Hardware Remotes on iclicker.com</h5>
+<p>(877) 340-1054 or </p>
+<p><a href="mailto:consumerorders@mpsvirginia.com">consumerorders@mpsvirginia.com</a></p>             
+                    </div>
                     <div class="clear"></div>
                 </div>
 		    <div class="footerRight">
@@ -377,6 +455,7 @@ if(navigator.userAgent.indexOf('Mac') > 0 && navigator.userAgent.indexOf('Firefo
 																																	<p><a href="http://www1.iclicker.com/student-clickers-k12">K-12 Education</a></p>
 																																	<p><a href="http://www1.iclicker.com/audience-polling-corporate">Corporate</a></p>
 																																	<p><a href="http://www1.iclicker.com/interactive-presentations-government">Government</a></p>
+																																	<p><a href="http://www1.iclicker.com/interactive-training-healthcare">Healthcare</a></p>
 																            
          
 						                    </div>
@@ -386,8 +465,10 @@ if(navigator.userAgent.indexOf('Mac') > 0 && navigator.userAgent.indexOf('Firefo
                         <p><a href="http://www1.iclicker.com/assitive-technology-white-papers">White Papers</a></p>
                         <p><a href="http://www1.iclicker.com/pedagogy-webinars">Pedagogy Webinars</a></p>
                         <p><a href="http://www1.iclicker.com/campus-highlights">Campus Highlights</a></p>
+			<p><a href="http://www1.iclicker.com/user-community">User Community</a></p>
+			<p><a href="http://www1.iclicker.com/blogs">Blog</a></p>
 																							 
-			<h5><a href="https://iclicker.zendesk.com/home">Support Portal</a></h5>
+			<h5><a href="http://support.iclicker.com/home">Support Portal</a></h5>
                         <!--<p><a href="http://www1.iclicker.com/student-response-system-user-guides">User Guides</a></p>
                         <p><a href="http://www1.iclicker.com/student-response-system-self-help">Self Help</a></p>
                         <p><a href="http://www1.iclicker.com/audience-response-system-updates">Product Updates</a></p>
@@ -404,7 +485,7 @@ if(navigator.userAgent.indexOf('Mac') > 0 && navigator.userAgent.indexOf('Firefo
 			<p><a href="http://www1.iclicker.com/register-an-iclicker">Register an i&gt;clicker</a></p>
 			<p><a href="http://www1.iclicker.com/find-an-iclicker">Find an i&gt;clicker ID</a></p>
 			<h5><a href="http://www1.iclicker.com/press">Press Room</a></h5>
-			<h5><a href="http://www1.iclicker.com/careers">Careers</a></h5>
+			<h5><a href="http://www1.iclicker.com/careers" rel="nofollow">Careers</a></h5>
 			<h5><a href="http://www1.iclicker.com/about-iclicker">About i&gt;clicker</a></h5>
                     </div>
                     <div class="clear"></div>
@@ -412,7 +493,7 @@ if(navigator.userAgent.indexOf('Mac') > 0 && navigator.userAgent.indexOf('Firefo
                 <div class="clear"></div>
                 <div class="footerBottom">
                     <div class="copyright">
-                        <p><a href="http://www1.iclicker.com/privacy-policy">Privacy Policy</a> | <a href="http://www1.iclicker.com/accessibility-standards">Accessibility Standards</a> | <a href="http://www1.iclicker.com/terms-of-use">Terms of Use</a> | Copyright © 2013 i&gt;clicker <span>All Rights Reserved.</span></p>
+                        <p><a href="http://www1.iclicker.com/privacy-policy" rel="nofollow">Privacy Policy</a> | <a href="http://www1.iclicker.com/accessibility-standards" rel="nofollow">Accessibility Standards</a> | <a href="http://www1.iclicker.com/terms-of-use" rel="nofollow">Terms of Use</a> | Copyright © 2014 i&gt;clicker <span>All Rights Reserved.</span></p>
                     
 										</div>
 										<script>
@@ -428,18 +509,16 @@ if(navigator.userAgent.indexOf('Mac') > 0 && navigator.userAgent.indexOf('Firefo
 												})();
 											</script>
 											<div style="width:290px; margin:-8px 0 0 0;padding:0;float:left;"><gcse:search></gcse:search></div>
-                    <div class="socialMediafooter"> <span class="lblConnect">connect with us</span> <a href="https://twitter.com/iclicker" target="_blank" class="twitter"></a> <a href="#" class="youTube"></a> <a href="#" class="shareMedia"></a> <a href="#" class="pintrest"></a> <a href="#" class="googlePlus"></a> <a href="https://www.facebook.com/pages/iclicker/84134164980" class="facebook" target="_blank"></a>
-                    <a href="http://www.linkedin.com/company/iclicker?trk=top_nav_home" target="_blank" class="linkedIn"></a>
+                    <div class="socialMediafooter"> <span class="lblConnect">connect with us</span> <a href="https://twitter.com/iclicker" rel="nofollow" target="_blank" class="twitter"></a> <a href="#" rel="nofollow" class="youTube"></a> <a href="#" rel="nofollow" class="shareMedia"></a> <a href="#" rel="nofollow" class="pintrest"></a> <a href="#" rel="nofollow" class="googlePlus"></a> <a href="https://www.facebook.com/pages/iclicker/84134164980" rel="nofollow" class="facebook" target="_blank"></a>
+                    <a href="http://www.linkedin.com/company/iclicker?trk=top_nav_home" rel="nofollow" target="_blank" class="linkedIn"></a>
                         <div class="clear"></div>
                     </div>
 										
                     <div class="clear"></div>
                 </div>
             </div>
-        </div>
+        </div>        
         
-        <!--Ticker bar starts here -->
-                <!--Ticker bar ends here -->
         <script type="text/javascript" src="http://www1.iclicker.com/wp-content/themes/iclicker/js/navigation.js?ver=1.0"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -462,6 +541,53 @@ jQuery(document).ready( function($) {
             })();
         </script>
         <!--Google Analytics Code ends here-->
+	
+	<!--Munchkin Code starts here-->
+	<script type="text/javascript">
+	    (function() {
+	      var didInit = false;
+	      function initMunchkin() {
+		if(didInit === false) {
+		  didInit = true;
+		  Munchkin.init('212-QHO-003', {wsInfo: 'j0hRcdjOKwEI'});
+		}
+	      }
+	      var s = document.createElement('script');
+	      s.type = 'text/javascript';
+	      s.async = true;
+	     s.src = '//munchkin.marketo.net/munchkin.js';
+	      s.onreadystatechange = function() {
+		if (this.readyState == 'complete' || this.readyState == 'loaded') {
+		  initMunchkin();
+		}
+	      };
+	      s.onload = initMunchkin;
+	      document.getElementsByTagName('head')[0].appendChild(s);
+	    })();
+	</script>
+	<!--Munchkin Code ends here-->
+	
+	<!-- Google remarketing code starts here--> 
+	<script>
+	/* <![CDATA[ /
+	  var google_conversion_id = 1008574724;
+	  var google_custom_params = window.google_tag_params;
+	  var google_remarketing_only = true;
+	  / ]]> */
+	</script>
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+	<!--Google remarketing Code ends here-->
+	
+	<!-- crazyegg code starts here--> 
+	<script>
+	setTimeout(function(){
+	    var a=document.createElement("script");
+	    var b=document.getElementsByTagName("script")[0];
+	    a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0013/2140.js?"+Math.floor(new Date().getTime()/3600000);
+	    a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+	</script>
+	<!-- crazyegg code ends here--> 
+	
     
 
 
