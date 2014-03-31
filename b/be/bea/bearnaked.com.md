@@ -1,66 +1,149 @@
-> *The following text is extracted and transformed from the bearnaked.com privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120113254id_/http%3A//www.bearnaked.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bearnaked.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331150420id_/http%3A//www.bearnaked.com/en_US/privacy.html) for the most accurate reproduction.*
 
-# Bear Naked :: Fuel Your Wild Life
+# Bear Naked | All Natural Whole Grain Granola
 
-**Bear Naked Inc.'s Online Privacy Policy**   
-Bear Naked Inc. ("Bear Naked") cares about personal privacy and recognizes its obligation to its customers, community and online visitors to adhere to the highest standards of decency, fairness, and integrity in all its operations. As in our other business operations, Bear Naked approaches our communications on the Internet with respect for, and commitment to, individual privacy rights. We support active self-regulation of this online environment to ensure that responsible marketers can maintain the right to use all communication media to interact with its consumers. This privacy policy discloses how Bear Naked, its affiliates and agents (agents are defined as contractors, and other organizations acting on behalf of, and with authorization by, Bear Naked) collect, protect, use and share information gathered about you on our website.We hope that this disclosure will help increase your confidence in our sites and enhance your experience on the Internet. In reviewing this policy, please remember that this site and the servers that make this site available are located in the U.S. By using this site you agree to the transfer, collection, processing and use of data by this site in the U.S. 
+**BearNaked.com Privacy Policy**
 
-We provide a variety of content at our site. We may offer games, product information, recipes, entertainment, advertising, surveys, promotions, sweepstakes and contests, as well as information about our company and special services for our registered shareholders. Our company information includes information on job openings and requirements as well as opportunities to apply for jobs online. We hope you enjoy our site and the various features and opportunities we offer. 
+Updated August, 2013
 
-This site's content and features may be updated, revised, modified and supplemented.Bear Naked reserves the right to change the information, features, products, policies,promotions, disclosures and disclaimers at any time without notice. Changes to this Online Privacy Policy will be posted on our site so please check our Policy periodically for changes. At the end of this Policy we indicate the date of an update to the Policy. Your continued use of the Bear Naked site following the posting of changes to this Online Privacy Policy signifies your acceptance of these changes. Unless there is a material change in our data collection, use or disclosure practices, in which case we will obtain a new consent. Any consent provided to Bear Naked will apply to the revised Online Privacy Policy and any new or modified features. 
+Bear Naked, Inc., ("Company"), has created this privacy policy for www.BearNaked.com (the "Site") in order to demonstrate its firm commitment to privacy. (Bear Naked, Inc. is a subsidiary of Kellogg Company. "We" or "Us", as used in this Privacy Policy, may include the Kellogg family of companies.) The following discloses The Company's information gathering and dissemination practices for the information collected through this Site. We encourage you to read this Policy before using this Site. Your use of this Site signifies that you agree with all terms of this Policy, so please do not use this Site if you disagree with any part of this Policy.
 
-**Shopping**   
-Personal information, including your name, billing and credit card information, mailing address, email address and telephone number, which is necessary to fulfill orders for products, will be collected by Bear Naked. Bear Naked will also share aggregate information internally about transactions by Bear Naked customers and statistical data on orders placed. For your convenience and to serve you better, your customer profile will include preference information based on your orders. Bear Naked may also use third-party order fulfillment services to process and fulfill orders made on the site. Your personal information will only be provided to these third parties to process your order or fulfill your requests and we require that these companies agree to maintain the confidentiality of your information. 
+**PRIVACY STATEMENT**
 
-**Terms and Conditions of Use of Site**
+**I. The Company's Collection and Use of Information**
 
-  * This web site (the "Site") is provided by Bear Naked, conditional on your acceptance of the terms and conditions of use set forth below (the "Terms and Conditions"). This site is intended for use by adults, age 18 or older. By visiting or using this Site (collectively, "Use" of the Site), including without limitation to access, use, and/or download messages, information, data, text, software or images, or other content from this Site, or to send messages, information, data, text, software or images, or other content to the Site, (collectively, the "Content"), you agree on your own behalf, and on behalf of any entity on whose behalf you may act, to accept and abide by the Terms and Conditions for each Use of and each visit to this Site. If you do not agree to abide by these Terms and Conditions, you should not Use this Site. The Contents of the Bear Naked web site is protected from copying or distribution under national and international copyright laws and treaties throughout the world. 
-  * Bear Naked has the right, in its sole discretion, to add to, remove, modify or otherwise change any part of the Terms and Conditions, in whole or in part, at any time. Changes will be effective when notice of such change is posted at this Site. Please check the Terms and Conditions frequently for updates by checking the date of "Last Update" at the top of this document. If any term, condition or any change thereto is not acceptable to you, you must discontinue your Use of this Site immediately. Your continued Use of this Site after any such changes are posted will constitute acceptance of those changes. 
-  * These Terms and Conditions apply exclusively to your Use of this Site and do not alter the terms or conditions of any other agreement you may have with Bear Naked. 
+**A. Personally Identifiable Information**
+
+We will collect personally identifiable information about you, such as your name, postal address, telephone number, e-mail address, when you provide it to us while on this Site. You may provide personally identifiable information when you create an account, enter a sweepstakes on this Site or on a third party site, sign up for email communications, participate in a survey, contact customer service, engage in a promotion online or instore or otherwise interact with this Site. Your personally identifiable information may be used by us for all legal purposes, which may include, but are not limited to, responding to your requests, processing your transactions, for administrative purposes such as conducting contests, tracking which parts of the Site are of interest to you, and processing prizes. If you choose to opt-in, you may receive certain future information or communications from The Company, and we may share your personally identifiable information with The Company's subsidiaries or affiliated entities ("Affiliated Entities") for purposes of sending you information about the programs of The Company or its Affiliated Entities and, occasionally, sending you advertising/promotional material from some of their advertising and strategic partners (see the Opt-In/Choice section below). We may also use your personally identifiable information for internal business purposes, such as optimizing Site experiences and analyzing and managing our businesses.
+
+**Note Regarding Use of this Site by Children**
+
+This Site is not directed at children and we request that children do not provide personally identifiable information through the Site.
+
+**B. Demographic Information**
+
+We may also collect demographic data, such as your gender and postcode, when you provide this information to us. Demographic data may be used to tailor your experience at this Site, such as showing you content including special events and advertising that you might be interested in, and displaying the content according to your postcode.
+
+On occasion, aggregate information that does not identify any particular user may be compiled and shared with subsidiaries and affiliates of The Company, and other third parties as described in Section II below.
+
+**C. Passive Collection of Non-Personal Information**
+
+This Site often requires the use of encrypted or non-encrypted cookies. Cookies are data that a web server transfers to an individual's computer for recordkeeping purposes. Cookies are an industry standard used by most websites and help facilitate users' ongoing access to and use of a particular website, for example by providing information used to deliver content specific to your interests and for other purposes, such as security and other account administrative functions, and which may track personal identifying information.
+
+Cookies do not cause damage to your computer systems or files, and only the website that transferred a particular cookie to you can read, modify or delete such cookie. If you do not want information collected through the use of cookies, there are simple procedures in most browsers that allow you to delete existing cookies, to automatically decline cookies or to be given the choice of declining or accepting the transfer of particular cookies to your computer. Please refer to your browser instructions or help screen to learn more about these functions. You should note, however, that declining cookies may make it difficult or impossible for you to use portions of the Site.
+
+As part of the log-in process, this Site may use persistent cookies when you give us permission to do so. Persistent cookies are cookies stored on your computer. They allow us, with your permission, to remember information about you, such as your log-in information, so that we may enhance your experience the next time you visit the Site. You must give your permission to allow this Site to set persistent cookies. You may opt-out of the use of persistent cookies at any time.
+
+We may also use flash cookies, also known as "local shared objects," on this Site during the log-in process. Flash cookies are small files similar to browser cookies and are used to remember the Site's settings in order to personalize the look and feel of the site. Flash cookies only collect data in the aggregate. This Site's log-in process also may use session cookies, if you choose to register with this Site. Session cookies enable the Site to recognize your log-on credentials, and enhance your browsing of the Site.
+
+Some uses of cookies in connection with the Site may be under the control of unaffiliated entities that the Company retains for the management of certain programs and fulfillment of specific visitor/customer requests. The Company requires these entities to confine their use of cookies to the uses permitted by this Policy, but the Company cannot be responsible for third party uses of cookies.
+
+The Site may use "pixel tags", "web beacons", "clear GIFs" or similar means (collectively, "Pixel Tags") to compile aggregate statistics about Site usage and response rates. Pixel Tags allow us to count users who have visited certain pages of the Site, to deliver advertisements for goods and services that may be of interest to you and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted email messages, Pixel Tags can tell the sender whether and when the email has been opened.
+
+The Company also collects **"referrers"** information, **IP addresses** and various **environmental variables**.
+
+  * A "referrer" is information the web browser passes along to our web servers that references the URL from which you came.
+  * The "IP address" is a number used by computers on the network to identify your computer so that data can be transmitted to you.
+  * "Environmental variables" include, among other things, the domain from which you access the Internet, the time you accessed this site, type of web browsers and operating system or platform used, the Internet address of the website you left to visit this Site, the names of the pages you visit while at this Site and the Internet address of the website you then visit.
 
 
 
-**FREQUENTLY ASKED QUESTIONS**
+This information is collected for The Company's internal use such as to enhance website security, to detect broad demographic trends, to assist The Company in providing content tailored to your interests and to otherwise enhance your experience on this Site. This information may also be shared with third parties on an aggregate and non-personally identifiable basis.
 
-**Q1: What types of information does Bear Naked collect and how does the site collect it?**   
-We collect certain information automatically, like IP addresses, browser types, referring websites, and access times, when consumers visit our site. This "web log" information is not personally identifiable, but provides important information on the number of visitors,and what areas or features they like best. Our visitors can review our site and participate in many features without disclosing any personally identifiable information. 
+We may use both personally identifiable information and non-personally identifiable information, individually or together, to improve our marketing and promotional efforts, improve our products and services, better understand customer interests and preferences, and /or provide you relevant information. We may enhance or merge personally identifiable information that you provide with data obtained from third parties.
 
-Bear Naked collects personally identifiable information including, but not limited to,name, home address, email address, and telephone number, from our visitors on a voluntary basis. We do not require this information for customers to access any of our sites. However, to participate in some of the programs or features we offer, customers may have to provide personally identifiable information. We request only the personally identifiable information we feel we need to offer the service or feature or to fulfill requests. For example, we need your name and email address to add you to an email update list. We may require a home address and telephone number to enter you in a contest or sweepstakes so that we can send prize notifications and prizes. We may request feedback from our visitors in the form of surveys, questionnaires or our feedback forms on their preferences and reaction to our products, including demographic information, like age, gender and interests, to help us better serve you.We ask for credit card information where we offer online shopping opportunities. 
+**II. Disclosure of Information to Third Parties**
 
-We may sometimes offer programs with other sponsors where personally identifiable information is shared with both Bear Naked and a business partner. In those instances, we will provide you with notice at the time of any registration about the program and will offer you a choice about sharing the information. If you choose to NOT have your information shared, your information will not be shared and you will not be able to participate in or receive the benefits or services provided by our business partners. 
+The Company may share personally identifiable information, including information that you provide on the Site, with third parties as described below.
 
-We use Google Analytics, a web analytics service provided by Google, Inc., to provide us with data collection and reporting information regarding our customers' activities on our websites. When you visit our websites, Google may set cookies (i.e., small data files that a site sends to your computer to make your access easier and/or faster) on our behalf and may receive information about your browsing activity (e.g., pages viewed,etc). You may refuse the use of cookies by selecting the appropriate settings on your browser, but if you do this, you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes described herein. For more information about Google Analytics, please visit 
+**A. Affiliated Entities**
 
-[http://www.googleanalyticssupport.com/privacy policy/default.html](http://www.googleanalyticssupport.com/privacy%20policy/default.html) . For more information on cookies, please see Q5 below. 
+We may share any information, including personally identifiable information that you provide on the Site, with our subsidiaries and affiliates worldwide, for the purposes described in Section I(A).
 
-**Q2: How does Bear Naked use the personally identifiable information that has been collected?**   
-Except as explained below, personally identifiable information shared with Bear Naked will only be used to fulfill your requests, to improve our site and our products, to provide customized features and offerings, and for other internal marketing purposes, and will not be sold or provided to third parties. If you decide to provide personally identifiable information in order to participate in a special area of our site, such as registering for email updates or for a special program or contest, we will use the information you provide for that purpose. We may also ask if you would like to receive information about other products available from members of our family of companies. Only those visitors that ask to receive this information will receive it. We also offer visitors an opt-out option in each of our promotional emails that allows you, at any time, to cease receiving such information. 
+**B. Strategic Partners**
 
-Anonymous, aggregate data about site usage and other features may be shared with third parties. Bear Naked reserves the right to use or disclose any information as needed to satisfy any law, regulation or legal request, to conduct investigations of consumer complaints or possible breaches of law, to protect our site, our property, or the safety or rights of any visitor or third party, to fulfill your requests, to cooperate in a legal investigation, or in connection with the sale of our business without notice or consent. For our practices regarding children under the age of thirteen, please see Q4below. 
+From time to time we may enter into a special relationship with another company that is not owned by or affiliated with The Company to provide additional features on this Site. These special relationships may include business partners, sponsors and co-branded sites (referred to here as "co-branded pages"). Any information, including personally identifiable information that you provide on one of these co-branded pages, may be shared with these third party partners. By participating in activities or providing your information on these co-branded pages, you also consent to our providing your personally identifiable information to those third parties. Since these third parties will use your information in accordance with their own privacy practices, you should check their websites for information regarding their privacy policies.
 
-**Q3: Does Bear Naked share the personally identifiable information that it collects?**   
-On sites owned exclusively by Bear Naked, personally identifiable information received from any visitor will only be used for the purpose for which it was provided or for internal marketing purposes and will not be sold or provided to third parties, except for our technical and fulfillment agents who help us make the site available and provide the services and products on our site. Those firms have agreed to adhere to our Privacy Policy and practices. 
+**C. Service Providers**
 
-In some circumstances, we may partner with another company to provide certain content, programs or features. Examples include certain promotions, loyalty programs,sweepstakes or contests. In those situations, when you provide personally identifiable information about yourself, it may be sent directly to Bear Naked and to our partner company, or we may share the information with our partner company. In these circumstances, we will always let you know whether, in addition to Bear Naked, another company is collecting information or if we need to share your personally identifiable information with a partner company to provide the program, service or feature. We (and our partner company) will also provide a link to the respective online privacy policies so that you can make an informed decision about whether to share your information. Although we only partner with companies who agree to adopt privacy policies that are consistent with our own values and policy, we are not responsible for the policies or offerings of any third party, and urge you to review their policies and terms and conditions as they may vary. 
+We may use third party service providers to help us operate our business and this Site or administer activities on our behalf, such as sending emails, order fulfillment and sweepstake administration. We may share your information with these third parties for those limited purposes. For instance, if you participate in a sweepstake, game or loyalty program resulting in a prize or award, we will share personally identifiable information about you with our games and merchandise fulfillment and management agencies.
 
-**Q4: Does Bear Naked collect information from children under 13?**   
-Bear Naked does not knowingly collect personally identifiable information from children under the age of 13. 
+**D. Ad Networks**
 
-A number of tools exist to help parents manage their children's online experience,including hardware and software programs that provide filtering options. You can download special software or purchase specific hardware that will limit surfing the sites you deem appropriate for your home. Many of these services are free; others require some form of payment. 
+We may have relationships with third party service providers known as Ad Networks to serve ads on our behalf across the internet. Using Cookies and Pixel Tags (also known as Web Beacons), Ad Networks collect anonymous information about your visits to our web site and other web sites in order to deliver advertisements that may be of particular interest to you. This process does not involve the collection of any personally identifiable information. The Ad Networks do not know your name, phone number, address, email address or any personally identifiable information We do not share any personally identifiable information about you with these advertising networks. To find out more about how the networks manage the privacy of information in conjunction with delivering ads online and how to opt-out of information collection by these networks please go to: [http://www.youradchoices.com](http://www.youradchoices.com/) or [http://www.networkadvertising.org](http://www.networkadvertising.org/). We do not operate or control these sites, and are not responsible for the opt-out choices available there.
 
-**Q5: Does Bear Naked use "cookies" or other tools?**  
-Yes, Bear Naked uses "Session Cookies," small data files that a site sends to your computer. Our cookies allow our site to remember important information that will make your use of the site more enjoyable, efficient and useful; they do not contain personally identifiable information. We use cookies and IP addresses to obtain non-personal information from online visitors and also to provide registered users with a customized,personalized, online experience. They can, for example, help to give you faster access to pages you have already visited, allow you to personalize your pages, and help you to participate in some activities or events on the site. We also use cookies to determine how many people visit our site, and which features are most useful and popular and which may need improvement. We may also use another technology, called clear GIFs or web beacons, to provide us with other important anonymous information, such as when an email has been opened.If you don't want cookies, you can turn off all cookies or have your computer notify you when cookies are being sent by following the instructions for your particular web browser, such as Netscape, Safari, Firefox or Internet Explorer.  **Q6: What type of security does Bear Naked provide?**   
-Bear Naked uses its best efforts to make sure all information received from our online visitors is secure from unauthorized access and use. All personally identifiable information from our customers is protected by our security measures, which are periodically reviewed. Bear Naked also requires agents used by Bear Naked for fulfillment and technical services to sign confidentiality agreements protecting your information. 
+**E. Other Disclosures**
 
-Bear Naked cares about the safety and security of your credit card transactions or shareholder information and uses 124-bit SSL ("Secure Sockets Layer") when you provide your credit card or other similar sensitive personal information to us online. SSL is the industry standard security protocol which makes it difficult for others to intercept your information online. You should keep in mind, however, that no data transmission over the Internet is 100% secure and any information disclosed online can potentially be collected and used by parties other than the intended recipient. 
+Personally identifiable information of any individual user may be shared with other companies outside The Company: (i) as permitted by law, (ii) in the event of a transfer of ownership, assets or a bankruptcy of The Company, (iii) where we determine that disclosure of specific information is necessary to comply with the request of a law enforcement or regulatory agency or other legal process, or (iv) to protect the interests or safety of The Company or other visitors to this Site.
 
-**Q7: Does Bear Naked provide links to other sites?**  
-The Bear Naked site may contain links to other sites. We make every effort only to link to websites that share our high standards of decency, fairness, and integrity. We try our best to ensure that these links are safe for children, but the privacy and data collection practices on any linked websites are entirely separate from Bear Naked and are not covered by this Online Privacy Policy. Bear Naked shall not be responsible for any failure on the part of any linked websites to comply with any privacy policy posted on the website, or any contractual or other legal obligations to which the operators of such website may be subject. In addition, other websites, may also link to the Bear Naked websites without Bear Naked's knowledge or consent. Bear Naked has no responsibility for the content, policies or actions of these websites.  **Q8: How can I review the information you have stored about me and how can I change or update this information?**   
-Customers who provide personally identifiable information through our websites can review this information by logging into their profile page on our website. You can review, update, change or delete any or all of your personal information. If you have any concerns about this information or need assistance, you can contact our Consumer Relations Department by 1) using the contact us form on the website, 2) calling 866-374-4442 Monday through Friday 5am - 4pm PT, or 3) writing to Bear Naked Consumer Relations, PO BOX 8557, La Jolla, CA 92038. 
+**F. User Generated Content Functions**
 
-Updated August, 2009 
+This Site enables users to submit their own content in "Challenges" and other functions on the Site. Please remember that any information you disclose in connection with a submission becomes public information and you should exercise caution when deciding to disclose your personal, financial or other information in a submission. The Company cannot prevent such information from being used in a manner that may violate this Privacy Policy, the law or your personal privacy and safety and is not responsible for the results of such postings.
 
-Return to the top of the page 
+**G. Sweepstakes, Contests etc.**
 
-|   
----|---
+We may operate sweepstakes, contests, raffles and similar promotions through the Site that may require online registration. We typically ask you for certain personally identifiable information when you enter and, if applicable, win a sweepstake, contest, raffle or similar promotion. We may share this personally identifiable information with third party sponsors of such sweepstakes, contests, raffles and promotions (irrespective of whether it is hosted by us), or otherwise in accordance with the rules applicable to such sweepstakes, contest, raffle or promotion. You should carefully review the rules of each sweepstake, contest, raffle and promotion in which you participate through the Site, as they may contain additional important information about The Company's or a sponsor's use of your personally identifiable information. Insofar as the terms and conditions of such rules concerning the treatment of your personally identifiable information conflict with this Privacy Statement, the terms and conditions of such rules shall control.
+
+**III. LINKS AND THIRD PARTIES' PRIVACY PRACTICES**
+
+This Site may contain links to other sites that are not operated by The Company. **THE COMPANY IS NOT RESPONSIBLE FOR THE PRIVACY PRACTICES OR THE CONTENT OF SUCH OTHER WEBSITES, INCLUDING WEBSITES OPERATED BY AFFILIATED ENTITIES**. We provide such links only as a convenience and the inclusion of a link on the site does not imply endorsement of the linked site by The Company. If you provide any personally identifiable information through any such third party website, your transaction will occur on such third party's website (and not on this site) and the personally identifiable information you provide will be collected by and controlled by the privacy policy of that third party. The Company recommends that you review the privacy policy of third party websites arrived at from links on this Site.
+
+**IV. SECURITY**
+
+This Site has security measures in place to help protect against the loss, misuse and alteration of the personally identifiable information under its control. The Company employs reasonable security measures consistent with standard industry practice to help protect against public access to personally identifiable and account activity information collected on and used by The Company at this Site. For instance, access to our databases with personally identifiable information is logged for security purposes and access is limited to key personnel. Personally identifiable information and account activity are also protected through the use of user names and passwords. In order to help maintain the security of your information, you should protect the confidentiality of your user name and password.
+
+**V. OPT-IN/CHOICE**
+
+This Site may provide you with the opportunity to opt-in to receive marketing communications from The Company. If you do not opt-in, The Company will not send you its promotional offers. You may also opt-out of marketing communications at any time by clicking the "unsubscribe" link in the body of the communication. However, regardless of your opt-in preferences, The Company may still at times need to send program e-mails for administrative reasons. If you opt to receive communications from multiple brands within the Kellogg family of companies and then change your election, you may need to opt-out individually from each of the brands to which you agreed to receive brand-specific communications.
+
+The Company also gives you convenient methods for removing your information from our database so as not to receive future communications or to close your account. You may:
+
+  * use the contact us form on the website;
+  * call 866-374-4442 Monday through Friday 5am - 4pm PT
+
+
+
+or you may send mail to the following postal address:
+
+Bear Naked Consumer Affairs  
+P.O. Box 8557  
+La Jolla, CA 92038-8557
+
+This Site gives you several options for reviewing, correcting, updating or otherwise modifying information you have previously provided. You may:
+
+  * use the contact us form on the website;
+  * call 866-374-4442 Monday through Friday 5am - 4pm PT;
+  * Or, you may send mail to the following postal address:
+
+
+
+Bear Naked Consumer Affairs  
+P.O. Box 8557  
+La Jolla, CA 92038-8557
+
+Please note, changes may not be effective immediately. In each event, you must clearly indicate the information that you wish to have changed or clearly indicate that you wish to have your personally identifiable information removed from our database. We will endeavor to comply with your request as soon as reasonably possible. Note that despite any request for removal of or change to personally identifiable information, we may need to retain certain information for recordkeeping purposes, and there may also be residual information that will remain within our databases and other records, which will not be removed or changed. We also reserve the right, from time to time, to re-contact former users of the site for important administrative purposes. Finally, we are not responsible for informing third parties (including without limitation our third party service providers or strategic partners) with whom we have already shared your personally identifiable information of any changes requested pursuant to this section, or for removing information from or causing information to be removed from the databases or records of such entities.
+
+**VI. UPDATES TO THIS PRIVACY POLICY**
+
+The Company reserves the right to make changes in this Privacy Policy. These changes will take effect immediately upon posting. For your convenience, the last revised date of the current policy will be posted at the top of this page. By continuing to use the Site following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Privacy Policy, please do not continue using the Site.
+
+**VII. GOVERNING LAW**
+
+This Privacy Policy is governed by the laws of the State of Michigan, USA, without regard to its choice of law provisions.
+
+**VIII. CONTACTING THE BEAR NAKED COMPANY**
+
+If you have any questions about this Privacy Policy or the practices of this Site, you may contact:
+
+Bear Naked Consumer Affairs  
+P.O. Box 8557  
+La Jolla, CA 92038-8557
+
+866-374-4442
+
+Monday through Friday 5am - 4pm PT
+
+[Contact Us](https://web.archive.org/en_US/contact_us.html)
+
+[Return to the top of the page ](https://web.archive.org/en_US/privacy.html)  
+
