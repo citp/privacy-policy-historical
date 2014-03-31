@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thetrafficplayer.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426001723id_/http%3A//www.thetrafficplayer.com/%3Fpage_id%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetrafficplayer.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331030002id_/http%3A//www.thetrafficplayer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Traffic Player
 
-This privacy policy sets out how **[business name] **uses and protects any information that you give **[business name]** when you use this website.
+This privacy policy sets out how TheTrafficPlayer.com uses and protects any information that you give TheTrafficPlayer.com when you use this website.
 
-**[business name]** is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+**TheTrafficPlayer.coom** is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-**[business name]** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from [date].
+****TheTrafficPlayer.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from [date].
 
 **What we collect**
 
@@ -53,12 +53,13 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at **[email address]**
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at:support (at) thetrafficplayer.com **  
+**
 
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to **[address].**
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to support (at) thetrafficplayer.com ****
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
