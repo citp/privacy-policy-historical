@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ezcater.com privacy policy that was archived on 2013-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130323154410id_/https%3A//www.ezcater.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezcater.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331024242id_/https%3A//www.ezcater.com/privacy_policy) for the most accurate reproduction.*
 
 # Catering Services | Caterer Reviews | ezCater
+
+[](https://privacy.truste.com/privacy-seal/ezCater,-Inc/validation?rid=1180da02-ae1b-49ab-9cad-af815c2df2e3 "TRUSTe online privacy certification")
 
 ###  Privacy Policy 
 
@@ -10,9 +12,9 @@ Guiding Principle _You control what we do with your personal information._
 
 This privacy policy describes how ezCater, Inc. (ezCater) collects and uses the personal information you provide on our web site, www.ezcater.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
-ezCater, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this web site [www.ezcater.com](http://www.ezcater.com/). 
+ezCater, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's Program Requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this web site [www.ezcater.com](http://www.ezcater.com/). 
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@ezcater.com](mailto:support@ezcater.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@ezcater.com](mailto:support@ezcater.com). If you are not satisfied with our response you can contact [TRUSTe’s Feedback and Resolution System](https://feedback-form.truste.com/watchdog/request). 
 
 #####  What information do we collect and how do we use it? 
 
