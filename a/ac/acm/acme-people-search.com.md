@@ -1,22 +1,85 @@
-> *The following text is extracted and transformed from the acme-people-search.com privacy policy that was archived on 2010-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100826065449id_/http%3A//acme-people-search.com/privacy.php%3Fu%3D1228299815ZTEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acme-people-search.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331030828id_/https%3A//acme-people-search.com/l/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Acme-People-Search.com
+# Privacy Policy for be.teamtissa.com
 
-If you choose to register for unlocked search results at our Web Site, we ask for your first name and email address so we can send you a confirmation link to create your free search account.  We use your first name and your email address ONLY to correspond with you regarding your search request.
+**Privacy Policy**
 
-100% of the data that appears in our search results is obtained from third parties. Therefore we are not responsible for the accuracy or completeness of such data.  Since we have no control over the sources of such data, we do not offer any means for you to opt out of the results displayed on our Web Site.
+**HOW WE PROTECT YOUR PRIVACY**
 
-When you visit our Web Site and perform searches, we may collect non-personal information about you, including but not limited to, your computer's IP address, your browser type, the web site that referred you, and your search criterion. This non-personal information may be shared with third parties.
+This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy. 
 
-Although our Web Site may contain links to third parties' web sites, we are not responsible for the privacy practices of such third parties' web sites.  You are encouraged to review the privacy policies of these third parties' web sites independently, before you provide them with any personal information.
+**MINORS**
 
-When you visit our Web site, third parties such as Google AdSense may send cookies to your Web browser, or use beacons to collect information. According to Google: "A 'cookie' is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the web site again, the cookie allows that site to recognize your browser. Cookies may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies."
+We do not provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information. 
 
-We use [third-party advertising companies](https://www.google.com/adsense/support/bin/answer.py?answer=94149) to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+**POLICY IS PART OF OUR TERMS AND CONDITIONS OF USE**
 
-We reserve the right to change this Privacy Policy at any time. All changes will be published on this page, which is located here: <http://acme-people-search.com/privacy.php>. If you have any questions or concerns about this Privacy Policy, please [contact us online](https://web.archive.org/web/20100826065449id_/http%3A//acme-people-search.com/contact.php?u=1228299815ZTEN), or at the mailing address below:
+Our privacy policy is part of, and subject to, our website's [terms and conditions of use](https://web.archive.org/l/terms "Terms and Conditions"). You may view these [terms and conditions](https://web.archive.org/l/terms "Terms and Conditions") on our website. 
 
-Acme-People-Search.com  
-Attn.: Privacy Policy  
-5505 Connecticut Ave., NW, #101  
-Washington, DC 20015
+**THE TYPE OF INFORMATION WE COLLECT FROM YOU**
+
+Like most places on the Internet, simply by visiting our website you automatically tell us certain information. This includes basic information such as your IP address, when you visited, the website from where you came prior to visiting us, the website where you go when you leave our website, your computer's operating system, and the type of web browser that you are using. Our website automatically records this basic information about you. 
+
+And like many other websites, we may use cookies. In plain English, this means information that our website's server transfers to your computer. This information can be used to track your session on our website. Cookies may also be used to customize our website content for you as an individual. If you are using one of the common Internet web browsers, you can set up your browser to either let you know when you receive a cookie or to deny cookie access to your computer. 
+
+We may also collect any data that you provide us by posting it at our website or by e-mail. You can always choose not to provide us with information. However, if you do withhold information, we may deny you access to some or all of our website's services and features. 
+
+Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services. In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction. 
+
+**WHAT WE DO WITH YOUR INFORMATION**
+
+We use your information to operate our website's business activities. For example, we may use this data to contact you about changes to our website, new services, or special offers, resolve disputes, troubleshoot issues, and enforce our website's terms and conditions. 
+
+As a general rule, we will not give your data to third parties without your permission. However, there are some important exceptions to this rule that are described in the following paragraphs. 
+
+We may, in our sole discretion, provide information about you to law enforcement or other government officials for purposes of fraud investigations, alleged intellectual property infringement, or any other suspected illegal activity or matters that may expose us to legal liability. 
+
+Although we do not disclose individually identifiable information, we may disclose aggregate data about our website's visitors to advertisers or other third parties for marketing and promotional purposes. 
+
+From time to time, we may use third party suppliers to provide services on our website. If a supplier wants to collect information about you, you will be notified. However, you will never be required to give information to a third party supplier. We restrict the way third party suppliers can use your information. They are not allowed to sell or give your information to others. 
+
+**USER NAMES AND PASSWORDS**
+
+Your access to parts of our website may be protected by a user name and a password. Do not give your password to anyone. If you enter a section of our website that requires a password, you should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet. 
+
+**YOUR USE OF INFORMATION AND UNSOLICITED JUNK E-MAIL**
+
+If you obtain personally identifiable information about another website user, you are not allowed to disclose this information to anyone else without the consent of the user and our consent too. 
+
+We hate junk e-mail (Spam). Information you obtain from our website about us or other site users cannot be used by you or others to send unsolicited commercial e-mail or to send unsolicited commercial communications via our website's posting or other communication systems. 
+
+**YOUR VOLUNTARY DISCLOSURE OF INFORMATION TO THIRD PARTIES WHO ARE NOT OUR SUPPLIERS**
+
+You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information. 
+
+**AUTORESPONDERS**
+
+We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to legal[at]teamtissa.com, or sending us mail to the address listed below. 
+
+**POLICY CHANGES**
+
+The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website's home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes. 
+
+If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to legal[at]teamtissa.com and providing us with information relating to your concern. 
+
+You may also mail your concerns to us at the following address: 
+
+_Tissa Godavitarne  
+5501 Merchants View Square  
+#708  
+Haymarket, VA 20169  
+U.S.A._
+
+**CALIFORNIA PRIVACY RIGHTS**
+
+If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to legal[at]teamtissa.com or write us at the following address: 
+
+_Tissa Godavitarne  
+5501 Merchants View Square  
+#708  
+Haymarket, VA 20169  
+U.S.A._
+
+This privacy policy was last updated on 01-23-2011. 
+
+Copyright © 2008- Law Office of Michael E. Young PLLC, and licensed for use by the owner of this website at be.teamtissa.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner. 
