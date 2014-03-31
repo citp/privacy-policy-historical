@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitedutilities.com privacy policy that was archived on 2013-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131003051212id_/http%3A//www.unitedutilities.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedutilities.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331192045id_/http%3A//www.unitedutilities.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | United Utilities
 
@@ -6,7 +6,7 @@
 
 © Copyright 2012 United Utilities Group PLC
 
-**Please read the following privacy policy carefully before continuing to use this site. In particular, we ask that you read it before providing us with any personal information.**
+**Please read the following privacy policy carefully before continuing to use this site. In particular, we ask that you read it before providing us with any personal information.  This Policy is subject to change and we suggest that you read it on a regular basis.**
 
 This notice applies to personal information we hold about individuals, sole traders and partnerships. It does not apply to information we hold about companies and other large organisations. It explains how we may collect information about you and then use it. It also explains some of the security measures we take to protect your privacy, and tells you certain things we will not do. We also tell you what your rights are, and how you can get in touch with us, and give links to other policies which you might find helpful.
 
@@ -34,7 +34,7 @@ You are advised not to use e-mail to send us credit/debit card information, bank
 
 We take reasonable precautions to protect your information, however you should understand that "perfect security" does not exist on the internet or on email networks and that use of these mediums involves some level of risk to you. 
 
-Method of response - You acknowledge and agree that we may treat specific actions by you, such as sending us an email, or supplying us with an email address for customer services to respond to you, as a request that we may, where necessary, communicate in our response personal and/or account information by email. We also reserve the right to select an alternative method to communicate with you. We may update your account with the email address you contact us with. 
+**Method of response** \- You acknowledge and agree that we may treat specific actions by you, such as sending us an email, or supplying us with an email address for customer services to respond to you, as a request that we may, where necessary, communicate in our response personal and/or account information by email. We also reserve the right to select an alternative method to communicate with you. We may update your account with the email address you contact us with. 
 
 If you have given us your mobile phone number we may update your account with it and use it to contact you. Please let us know if your details such as your address, mobile phone number and/or email address change so that we can keep your records up to date. 
 
@@ -42,14 +42,33 @@ Where you communicate with United Utilities electronically (including by email, 
 
 When one of our customer advisors/employees needs to contact you to discuss your account or the services and products we supply you with, they will ask you security questions in order to validate your identity and protect the information we hold about you.
 
-**Marketing** \- In addition, from time to time, we may tell you about offers that we think may be of interest or benefit to you. These might come from us or a carefully selected third party. Each time you are contacted about such offers, you are given the opportunity not to hear about any more. However, if you don’t want to be contacted about any offers at all, please let us know by writing to us at the address set out in the ‘Your Rights’ section of this privacy policy. Please note though, that every year when we send bills to you we are required by our regulators to supply you with certain information and this information will be included with your bill. If you have agreed to received products and services from another company and later decide not to, you will need to contact that company yourself to let them know. You can of course ask us not to continue to provide your personal information to any more companies, for the purposes of marketing, in the future by writing to us at the address found in the ‘Your Rights’ section. 
+**Disclosure of personal information -** We will not disclose your personal information unless we are permitted to do so by law. Instances where we may share your personal information include: 
 
-In order that we can monitor and improve the site, we may gather certain information about your use, including details of your domain name and IP address, operating system and browser type, for system administration. New technologies are emerging on the internet that help us to deliver customised visitor experiences. In particular, there is a technology called "cookies" which may be used by us to provide you with customised information from our web site. A cookie is an element of data that a web site can send to your browser, which may then store it on your system. [Find out more about cookies](https://web.archive.org/Cookies.aspx "Find out more about cookies"). 
+  * With our employees and contractors, including specialist data processors, in order to help provide our service to you. 
+  * With credit reference, and fraud prevention, agencies in order to locate and identify our customers, understand their ability to pay, help prevent and detect fraud, or as part of our debt collection process. 
+  * With external agencies in the event of an emergency situation, such as under the Civil Contingencies Act 2004. 
+  * When we are under a legal duty to do so, because of a court order or statutory obligation. 
+  * Where we believe that you may be interested in the services offered by other organisations. 
+  * To the police/law enforcement bodies for crime detection. 
+  * For research purposes.
 
-We will populate your account and supplement the information you have supplied to us or which has been supplied to us by a third party with information from other third parties such as 192.com, local authorities, credit reference agencies and/or debt collection agencies. We may also share your data with third parties for the purpose of investigating fraud. You should be aware that credit reference agencies may keep a record of our enquiry, which could then be revealed to other organisations searching your credit file. Where we use third parties to act on our behalf, we ensure that they have appropriate privacy systems. 
 
-Your Rights -   
-You have the right to see information about personal data (as defined in the Data Protection Act) we keep about you upon written request, identification and payment of a fee. 
+
+**Web Chat** \- The web chat system's main purpose is to provide an easy-to-use channel for customers to contact United Utilities. Users of this channel are reminded that any form of abuse towards employees which could include any information deemed by us to be unlawful, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, a personal attack on a person’s character, hateful, racially derogatory or otherwise objectionable is prohibited. We reserve the right to immediately terminate a web chat and/or deny the web chat facility to any person, at any time, with or without prior notice, with or without explanation.
+
+In such cases, we reserve the right to collect and process the IP address relevant to the unacceptable behaviour and use this to identify the user with the intention of either bringing a civil claim against them in Court and/or reporting (disclosing) any abuse to the Police. We may share this information with the affected employee should they wish to take their own action.
+
+**Marketing** \- In addition, from time to time, we may tell you about offers that we think may be of interest or benefit to you. These might come from us or a carefully selected third party. We may need to share your personal information with others in order to do this.. Each time you are contacted about such offers, you are given the opportunity not to hear about any more. However, if you don’t want to be contacted about any offers at all, please let us know by writing to us at the address set out in the ‘Your Rights’ section of this privacy policy or emailing the email address found in the ‘Your Rights’ section below. 
+
+Please note that every year, when we send bills to you, we are required by our regulators to supply you with certain information and this information will be included with your bill. If you have agreed to received products and services from another company and later decide not to, you will need to contact that company yourself to let them know.
+
+**Cookies** \- In order that we can monitor and improve the site, we may gather certain information about your use, including details of your domain name and IP address, operating system and browser type, for system administration. New technologies are emerging on the internet that help us to deliver customised visitor experiences. In particular, there is a technology called "cookies" which may be used by us to provide you with customised information from our web site. A cookie is an element of data that a web site can send to your browser, which may then store it on your system. [Find out more about cookies](https://web.archive.org/Cookies.aspx "Find out more about cookies"). 
+
+**Datasharing** \- We want to be able to identify who our customers are, make the best and fair decisions we can about the extent of their responsibility and their ability to pay for the services we are required to supply. We want to be able to place them on the best payment arrangement or payment assistance scheme with a view to helping them avoid water debt or become free of water debt. We are also aware, due to the way our industry is set up, that we need to seek out sources of accurate, up to date and relevant information about our customers in order to meet our DPA compliance obligations as well as our business responsibilities.
+
+We’ve recently decided to share information on all new and existing accounts with Credit Reference Agencies (CRAs) and, when fraud is suspected, Fraud Prevention Agencies (FPAs). These are highly reputable organisations that help to trace people who don’t pay their bills. They strictly safeguard the personal information we share with them about our customers. CRAs or FPAs won’t use your information to send you sales or marketing material you haven’t asked for. Our leaflet explains the full details of how your data may be used.
+
+**Your Rights** **-** You have the right to see information about personal data (as defined in the Data Protection Act) we keep about you upon written request, identification and payment of a fee. 
 
 If you wish to make a request to access your information please contact:   
 Data Protection and Fraud Manager, United Utilities, Grasmere House, Lingley Mere Business Park, Lingley Green Avenue, Warrington WA5 3LP. If you would prefer a third party to act on your behalf you will need to complete [our authorisation form](https://web.archive.org/documents/Third_party_authorisation_form.pdf), giving us permission to discuss your personal details with your nominated person or organisation.
@@ -60,7 +79,7 @@ Please be aware that this policy applies only to http://[www.unitedutilities.com
 
 In the course of undertaking the activities specified in this privacy policy we may transfer data outside the European Economic Area. If this is the case, we will ensure that your personal data is given a similar level of protection to that which you have within the United Kingdom. 
 
-Related Policies – for further information about how we collect, use and protect your information please see the links below to related policies:
+**Related Policies** – for further information about how we collect, use and protect your information please see the links below to related policies:
 
   * [Recruitment privacy policy](http://corporate.unitedutilities.com/recruitment-privacy-policy.aspx "Recruitment privacy policy")
 
