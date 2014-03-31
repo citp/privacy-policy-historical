@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the medbridgeeducation.com privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120053605id_/http%3A//www.medbridgeeducation.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medbridgeeducation.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331040749id_/http%3A//www.medbridgeeducation.com/about/privacypolicy) for the most accurate reproduction.*
 
-# Online CEUs for PT, ATC | Continuing Education | MedBridge Education
+# Online CEUs for PT, ATC, OT | Continuing Education | MedBridge
 
 **_I. General Policy_**
 
