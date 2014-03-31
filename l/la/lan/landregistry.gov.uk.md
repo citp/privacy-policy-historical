@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landregistry.gov.uk privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230020358id_/http%3A//www.landregistry.gov.uk/public/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landregistry.gov.uk privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331032310id_/http%3A//www.landregistry.gov.uk/public/information/privacy) for the most accurate reproduction.*
 
 # Privacy statement - Land Registry for England and Wales
 
@@ -9,6 +9,8 @@ Land Registry has created this privacy statement in order to demonstrate our fir
 This privacy notice tells you what to expect when Land Registry collects personal information. It applies to information we collect about:
 
   * visitors to our websites (with the exception of Land Registry's test sites) 
+  * people who call our Customer Contact Centre 
+  * users of our paper application services ` 
   * users of our services by making paper applications
   * users of our online public services
   * people who use our business e-services
@@ -18,15 +20,17 @@ This privacy notice tells you what to expect when Land Registry collects persona
 
 ### Visitors to our websites 
 
-When someone visits our websites we collect standard internet log information and details of visitor behavior patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone. We do not make any attempt to find out the identities of those visiting either of our websites. We will not associate any data gathered from this site with any personally identifying information from any other source. If we do want to collect personally identifiable information through our website, we will be up front about this and say so.
+When someone visits our websites we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone. We do not make any attempt to find out the identities of those visiting either of our websites. We will not associate any data gathered from the sites with any personally identifying information from any other source. If we do want to collect personally identifying information through our websites, we will be up front about this and say so.
+
+The contact forms on our websites require users to provide certain information – see People who use our forms.
 
 Our online surveys may ask users and customers of our services for contact information (such as an email address). The contact information will be used to contact customers when appropriate. Users may opt out if they choose. 
 
-Please see our [Cookies statement](http://www.landregistry.gov.uk/cookies) for details.
+Please see our [Cookies statement](http://www.landregistry.gov.uk/cookies) for information on our use of cookies..
 
 ### People who call our Customer Contact Centre 
 
-When you call our Customer Contact Centre we collect information. We use this information to help improve its efficiency and effectiveness. Some telephone calls are recorded for quality assurance. We also collect information from customers who want to arrange an appointment to attend one of our Customer Information Centres. The information collected includes names, contact details, title information. For information on our Voice Recording Policy – See [Voice Recording policy](http://www.landregistry.gov.uk/public/about-us/policy-statements/voice-recording-policy). We will retain telephone recordings for 60 calendar days.
+When you call our Customer Contact Centre we collect information, such as names and contact details. We use this information to help improve our efficiency and effectiveness. The information is recorded within our various customer systems. Some telephone calls are recorded for quality assurance. We also collect information from customers who want to arrange an appointment to attend one of our Customer Information Centres. The information collected includes names, contact details, title information. For information on our Voice Recording Policy – See [Voice Recording policy](http://www.landregistry.gov.uk/public/about-us/policy-statements/voice-recording-policy). We will retain telephone recordings for 60 calendar days.
 
 ### People who use our forms
 
@@ -75,6 +79,16 @@ Similarly, where enquiries are submitted to us we will only use the information 
 Usually we do not, identify any complainants unless the details have already been made public.
 
 Information from complaint files is not available under Land Registry’s statutory inspection protocol and Open Register. 
+
+#### Usability Suite
+
+Land Registry has a Usability Suite which is used by Land Registry to undertake study/research into product, service and system development. Land Registry’s Usability suite is a facility which hosts a studio where the testing takes place and an observation room where those involved in the development of products or services can observe the testing as it happens. The suite uses world leading eye tracking technology which highlights where users look and shows their immediate reactions and the distribution of their attention during a test.
+
+Usability testing is a way of studying how easy it is to use a product, system or service by testing it with real users. Undertaking this kind of testing will help Land Registry to develop new, and refresh existing, products and service as we move to more digital services. 
+
+Customers and staff may be asked to participate in such research. This is purely voluntary and participants have the right to withdraw at any time. Participants in such studies will be given information about the research being undertaken and we will be asked to give their consent before taking part. The informed consents are held securely. The information obtained from the research project will be held for no longer than the information has a useful value.
+
+For further information you should contact Gavin Thorne, Head of Customer and Market Insight Team: [gavin.thorne@landregistry.gsi.gov.uk](mailto:gavin.thorne@landregistry.gsi.gov.uk)
 
 ### People who use our other services
 
@@ -165,7 +179,7 @@ We acknowledge that your trust and are committed to protecting the information y
 
 ### Security
 
-We have security measures in place on our sites and services to protect against loss, misuse and alteration of information under our control. We will use all reasonable efforts to safeguard your personal information, you acknowledge that the use of the internet is not secure and for this reasons we cannot guarantee the security or integrity of any information in transit from or to you. 
+We have security measures in place on our sites and services to protect against loss, misuse and alteration of information under our control. We will use all reasonable efforts to safeguard your personal information, you acknowledge that the use of the internet is not secure and for this reasons we cannot guarantee the security or integrity of any information in transit from or to you. Therefore, information sent over the internet via e-mail from our website may not be as secure as information that you provide us with to register for our services. 
 
 ### Links to other websites
 
