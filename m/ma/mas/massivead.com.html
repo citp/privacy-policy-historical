@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the massivead.com privacy policy that was archived on 2013-08-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130820064112id_/https%3A//massivead.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the massivead.com privacy policy that was archived on 2014-03-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331143057id_/https%3A//massivead.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -21,7 +21,7 @@
 	    <link rel="stylesheet" href="/css/themes/blue/slide-blue.css" type="text/css" media="all">
 	    <link rel="stylesheet" href="/css/themes/blue/style-blue.css" type="text/css" media="all">
 		<link rel="stylesheet" href="/css/themes/blue/nav-style-blue.css" type="text/css" media="all">
-		<script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script language="javascript">
+		<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script language="javascript">
 	function getthemecolor(colorno){
 		$.ajax({url:"/themecolor/"+colorno, success:function(result) {
 			if ($.trim(result)=="success") {
@@ -95,6 +95,17 @@
     
     <!-- Profit Calculator -->
     <script type="text/javascript" src="/js/inccalc.js"></script>
+    	
+    <!-- COMODO -->
+	<script language="javascript" type="text/javascript">
+    //<![CDATA[
+    var cot_loc0=(window.location.protocol == "https:")? "https://secure.comodo.com/trustlogo/javascript/cot.js" :
+    "http://www.trustlogo.com/trustlogo/javascript/cot.js";
+    document.writeln('<scr' + 'ipt language="JavaScript" src="'+cot_loc0+'" type="text\/javascript">' + '<\/scr' + 'ipt>');
+    //]]>
+    </script><script language="JavaScript" src="https://secure.comodo.com/trustlogo/javascript/cot.js" type="text/javascript"></script>
+
+    <!-- / COMODO -->
     
 </head>    
 <body>
@@ -180,7 +191,7 @@
         <!-- Server Date and Time -->
         <div class="server_wrapper">
             <p>	<script type="text/javascript">
-		var currenttime = 'August 20, 2013 10:41:09' //PHP method of getting server date
+		var currenttime = 'March 31, 2014 18:30:57' //PHP method of getting server date
 
 		var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
 		var serverdate=new Date(currenttime)
@@ -203,12 +214,12 @@
 			document.getElementById("servertime").innerHTML=datestring+" "+timestring;
 		}
 
-		window.onload=function(){
+		$(document).ready(function() {
 			setInterval("displaytime()", 1000)
-		}
+		});
 	</script>
 
-	</p><p><b>Server Time:</b> <span id="servertime">August 20, 2013 10:41 AM</span></p>
+	</p><p><b>Server Time:</b> <span id="servertime"></span></p>
 	<p></p> 
         </div>
         <!-- / Server Date and Time -->
@@ -243,13 +254,63 @@
 
                  <!-- Log Wrapper -->
                 <div class="log_wrapper">
-                                        <button type="button" name="Send" value="" class="top_bar_log" onclick="parent.location='/login'">Member Login
-                    <img src="/images/log_in_icon.png" width="15" height="14" alt="" class="pad_left5">
-                    </button>
-					
-                    <button type="button" name="Send" value="" class="top_bar_log" onclick="parent.location='/register'">Register
-                    <img src="/images/register_logo.png" height="14" width="15" alt="Register" class="pad_left5">
-                    </button>
+                    			<button type="button" name="Send" value="" class="top_bar_log" onclick="parent.location='/login'">Member Login
+		<img src="/images/log_in_icon.png" width="15" height="14" alt="" class="pad_left5">
+		</button>
+	
+	<button type="button" name="Send" value="" class="top_bar_log" onclick="parent.location='/register'">Register
+		<img src="/images/register_logo.png" height="14" width="15" alt="Register" class="pad_left5">
+	</button>
+
+		
+	<div class="clear"></div>
+    
+    <!-- Social Buttons -->
+    <div class="" style="width:auto; height:25px; background:none; float:right; margin:7px 60px 0 0;">
+        
+        <div style="float:left;"><a href="http://www.youtube.com/user/massiveworldwide" target="_blank"><img src="/images/youtube-logo-new.png"></a></div>
+        
+        <div style="float:left; margin:2px 0 0 10px; border:1px solid none; width:100px; height:auto;">
+        
+            <div id="fb-root"></div>
+            <script>(function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+            fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));</script>
+            
+            <div class="fb-like" data-href="https://www.facebook.com/MassiveWorldWideLimited?ref=br_tf" data-width="The pixel width of the plugin" data-height="The pixel height of the plugin" data-colorscheme="light" data-layout="button_count" data-action="like" data-show-faces="true" data-send="false"></div>
+        </div>
+        
+        <div class="clear"></div>
+        
+    </div>
+    <!-- Social Buttons -->
+    
+	<div class="clear"></div>
+	
+	<!--<a href="https://zingaya.com/widget/7978097e0c654ed181bb0c371bd7b52f" target="_blank"><button type="button" name="Send" value="" class="top_bar_log" style="float:right; margin:5px 50px 0 0;">Call Us Now!
+	</button></a>-->
+	
+	<!-- Skype -->
+	<!--<div>
+	
+		<script type="text/javascript" src="http://cdn.dev.skype.com/uri/skype-uri.js"></script>
+		<div id="SkypeButton_Call_massiveadsupport_1" style="position:relative; top:-15px; left:150px;">
+		<script type="text/javascript">
+		Skype.ui({
+		"name": "call",
+		"element": "SkypeButton_Call_massiveadsupport_1",
+		"participants": ["massiveadsupport"],
+		"imageSize": 24
+		});
+		</script>
+		</div>
+	
+	</div>-->
+	<!-- Skype -->
                 </div>
                 <!-- / Log Wrapper -->
                 
@@ -271,7 +332,8 @@
 
                         <li><a href="#">Opportunity</a>
                             <ul>
-                                <li><a href="/business-plan" title="Business Plan">Business Plan</a></li>
+                                <!--<li><a href="/business-plan" title="Business Plan">Business Plan</a></li>-->
+                                <li><a href="/our-packages" title="Referral Banners">Our Packages</a></li>
                                 <li><a href="/referral-banners" title="Referral Banners">Referral Banners</a></li>
                                 <li><a href="/terms-of-use" title="Terms of Use ">Terms of Use</a></li>
 								<li><a href="/deposit" title="Deposit">Deposit</a></li>
@@ -285,11 +347,11 @@
                             <ul>
                                 <li><a href="/legal-documents" title="Legal Documents">Legal Documents</a></li>
                                 <li><a href="/pdf/compesation_plan.pdf" title="Business Plan" target="_blank">Business Plan</a></li>
-                                <li><a href="/ppt/Massive Ad_V 1.7.ppt" title="Power Point Presentation" target="_blank">Power Point Presentation</a></li>
+                                <li><a href="/ppt/Massive Ad_V 1.7.ppsx" title="Power Point Presentation" target="_blank">Power Point Presentation</a></li>
                             </ul>
                         </li>
 
-                        <li><a href="/getting-started" title="Getting Started">Getting Started</a></li>
+                        <li><a href="/products/index.html" title="Products">Products</a></li>
 
                         <li><a href="/faq" title="FAQ">FAQ</a></li>
 
@@ -319,7 +381,9 @@
         
 		<h1>Privacy Policy</h1>
         
+        <div class="main_image_other">
         <img src="/images/privacy_policy.jpg" height="300" width="690" alt="Privacy Policy">
+        </div>
 		
         <p>Protecting your privacy is the main priority at Massive Ad World-Wide We is committed to protecting the privacy of your personal information while stored in our electronic facility. Any personal information provided to us, collected by us or stored in our facility is not accessible by anyone but you through the use of your unique user name and password. In the performance of our duty, only a limited number of system administrators have monitored access to the information that you provide while purchasing our product and/or services.  When you solicit our service, we tell you about this policy and obtain your consent before collecting, using or disclosing personal information, except where permitted or allowed by law.
         </p>
@@ -478,7 +542,7 @@
             <!-- / Income Box Wrapper -->
             
             <!-- Representative Box Wrapper -->
-            <div class="rp_box_wrapper_side">
+            <div class="rp_box_wrapper_side" style="margin-left:0;">
             
                 <!-- Representative Box Title -->
                 <div class="rp_box_title_side">
@@ -498,8 +562,8 @@
 
 		    <img src="/images/representatives_male.png" height="60" width="60" alt="Representative" style="margin-left:80px;">
 		    
-		    <p align="center"><img src="/images/flags/Germany.png" height="19" width="22" alt="Germany">&nbsp; John<br>
-		    </p>Germany		    
+		    <p align="center"><img src="/images/flags/France.png" height="19" width="22" alt="France">&nbsp;Alberto <br>
+		    </p>		    
 		</div>
 		</blockquote>
 	 
@@ -508,8 +572,8 @@
 
 		    <img src="/images/representatives_male.png" height="60" width="60" alt="Representative" style="margin-left:80px;">
 		    
-		    <p align="center"><img src="/images/flags/United Kingdom.png" height="19" width="22" alt="United Kingdom">&nbsp; Roy<br>
-		    </p>United Kingdom		    
+		    <p align="center"><img src="/images/flags/Dominican Republic.png" height="19" width="22" alt="Dominican Republic">&nbsp;Elias P. B<br>
+		    </p>		    
 		</div>
 		</blockquote>
 	 
@@ -518,68 +582,8 @@
 
 		    <img src="/images/representatives_male.png" height="60" width="60" alt="Representative" style="margin-left:80px;">
 		    
-		    <p align="center"><img src="/images/flags/United States.png" height="19" width="22" alt="United States">&nbsp; mickel<br>
-		    </p>United States		    
-		</div>
-		</blockquote>
-	 
-		<blockquote>
-		<div class="rp_box_desc_side">
-
-		    <img src="/images/984128_461929570566437_476496598_n.jpg" height="60" width="60" alt="Representative" style="margin-left:80px;">
-		    
-		    <p align="center"><img src="/images/flags/Japan.png" height="19" width="22" alt="Japan">&nbsp; TOM<br>
-		    </p>Japan		    
-		</div>
-		</blockquote>
-	 
-		<blockquote>
-		<div class="rp_box_desc_side">
-
-		    <img src="/images/5.jpg" height="60" width="60" alt="Representative" style="margin-left:80px;">
-		    
-		    <p align="center"><img src="/images/flags/India.png" height="19" width="22" alt="India">&nbsp; okjhgv<br>
-		    </p>India		    
-		</div>
-		</blockquote>
-	 
-		<blockquote>
-		<div class="rp_box_desc_side">
-
-		    <img src="/images/6.jpg" height="60" width="60" alt="Representative" style="margin-left:80px;">
-		    
-		    <p align="center"><img src="/images/flags/Bahamas.png" height="19" width="22" alt="Bahamas">&nbsp; kjhgfnm<br>
-		    </p>Bahamas		    
-		</div>
-		</blockquote>
-	 
-		<blockquote>
-		<div class="rp_box_desc_side">
-
-		    <img src="/images/7.jpg" height="60" width="60" alt="Representative" style="margin-left:80px;">
-		    
-		    <p align="center"><img src="/images/flags/Australia.png" height="19" width="22" alt="Australia">&nbsp; okjhgv<br>
-		    </p>Australia		    
-		</div>
-		</blockquote>
-	 
-		<blockquote>
-		<div class="rp_box_desc_side">
-
-		    <img src="/images/8.png" height="60" width="60" alt="Representative" style="margin-left:80px;">
-		    
-		    <p align="center"><img src="/images/flags/United Arab Emirates.png" height="19" width="22" alt="United Arab Emirates">&nbsp; Morris<br>
-		    </p>United Arab Emirates		    
-		</div>
-		</blockquote>
-	 
-		<blockquote>
-		<div class="rp_box_desc_side">
-
-		    <img src="/images/representatives_female.png" height="60" width="60" alt="Representative" style="margin-left:80px;">
-		    
-		    <p align="center"><img src="/images/flags/Bangladesh.png" height="19" width="22" alt="Bangladesh">&nbsp; okjhgv<br>
-		    </p>Bangladesh		    
+		    <p align="center"><img src="/images/flags/Austria.png" height="19" width="22" alt="Austria">&nbsp;Andy Mark<br>
+		    </p>		    
 		</div>
 		</blockquote>
 	 
@@ -588,24 +592,470 @@
 
 		    <img src="/images/representatives_male.png" height="60" width="60" alt="Representative" style="margin-left:80px;">
 		    
-		    <p align="center"><img src="/images/flags/Guyana.png" height="19" width="22" alt="Guyana">&nbsp; martin<br>
-		    </p>Guyana		    
+		    <p align="center"><img src="/images/flags/Switzerland.png" height="19" width="22" alt="Switzerland">&nbsp;Ronnie<br>
+		    </p>		    
+		</div>
+		</blockquote>
+	 
+		<blockquote>
+		<div class="rp_box_desc_side">
+
+		    <img src="/images/representatives_male.png" height="60" width="60" alt="Representative" style="margin-left:80px;">
+		    
+		    <p align="center"><img src="/images/flags/Cambodia.png" height="19" width="22" alt="Cambodia">&nbsp;Roger Wilson<br>
+		    </p>		    
 		</div>
 		</blockquote>
 			</div>
-                <!-- / Representative Box Desc -->
+             <!-- / Representative Box Desc -->
                 
-            <a href="/agents"><button type="button" class="test_more_button">More</button></a> 
-            </div>
+				<a href="/agents"><button type="button" class="test_more_button">More</button></a> 
+			            </div>
             <!-- / Representative Box Wrapper -->
                 
             </div>
             <!-- / Representative Box Wrapper -->
             
             <div class="clear"></div>
+            
+            <!-- Testimonial Box Wrapper -->
+            <div class="rp_box_wrapper_side">
+            
+                <!-- Testimonial Box Title -->
+                <div class="rp_box_title_side">
+                    
+                    <img src="/images/representatives_icon.png" width="20" height="18" class="float_left margin_top7 margin_left20">
+                    <h2>Testimonials</h2>
+                    
+                </div>
+                <!-- / Testimonial Box Title -->
+                
+                <!-- Testimonial Box Desc -->
+                <div class="testimonial_box_desc" id="testimonials1">
+                		<blockquote>
+                    	
+                        <!-- Testimonials -->
+                        <div class="testimonial_inside">
+                        
+                            <img src="/images/quote_top.png" width="12" height="9">
+                            
+                            <p>Hello awesome website for making money<img src="/images/quote_bottom.png" width="12" height="10" class="right"></p>
+                            
+                            <div class="clear"></div>
+                            
+                            <img src="/images/author_icon.png" width="13" height="12" style="margin-top:10px;"><p>krishna</p>
+                            
+                        </div>
+                        <!-- / Testimonials -->
+                    
+                    </blockquote>
+		<blockquote>
+                    	
+                        <!-- Testimonials -->
+                        <div class="testimonial_inside">
+                        
+                            <img src="/images/quote_top.png" width="12" height="9">
+                            
+                            <p>joined., looks like good program<img src="/images/quote_bottom.png" width="12" height="10" class="right"></p>
+                            
+                            <div class="clear"></div>
+                            
+                            <img src="/images/author_icon.png" width="13" height="12" style="margin-top:10px;"><p>Cecilio Abalos Jr</p>
+                            
+                        </div>
+                        <!-- / Testimonials -->
+                    
+                    </blockquote>
+		<blockquote>
+                    	
+                        <!-- Testimonials -->
+                        <div class="testimonial_inside">
+                        
+                            <img src="/images/quote_top.png" width="12" height="9">
+                            
+                            <p>This is the Great program for for best business in the world<img src="/images/quote_bottom.png" width="12" height="10" class="right"></p>
+                            
+                            <div class="clear"></div>
+                            
+                            <img src="/images/author_icon.png" width="13" height="12" style="margin-top:10px;"><p>napas janyapong</p>
+                            
+                        </div>
+                        <!-- / Testimonials -->
+                    
+                    </blockquote>
+		<blockquote>
+                    	
+                        <!-- Testimonials -->
+                        <div class="testimonial_inside">
+                        
+                            <img src="/images/quote_top.png" width="12" height="9">
+                            
+                            <p>good company<img src="/images/quote_bottom.png" width="12" height="10" class="right"></p>
+                            
+                            <div class="clear"></div>
+                            
+                            <img src="/images/author_icon.png" width="13" height="12" style="margin-top:10px;"><p>Future2Sky</p>
+                            
+                        </div>
+                        <!-- / Testimonials -->
+                    
+                    </blockquote>
+		<blockquote>
+                    	
+                        <!-- Testimonials -->
+                        <div class="testimonial_inside">
+                        
+                            <img src="/images/quote_top.png" width="12" height="9">
+                            
+                            <p>Let\'s go with this opportunity<img src="/images/quote_bottom.png" width="12" height="10" class="right"></p>
+                            
+                            <div class="clear"></div>
+                            
+                            <img src="/images/author_icon.png" width="13" height="12" style="margin-top:10px;"><p>YAO TANOH LANDRY HERVE</p>
+                            
+                        </div>
+                        <!-- / Testimonials -->
+                    
+                    </blockquote>
+		<blockquote>
+                    	
+                        <!-- Testimonials -->
+                        <div class="testimonial_inside">
+                        
+                            <img src="/images/quote_top.png" width="12" height="9">
+                            
+                            <p>IM VERY HAPPY JOIN AT MASSIVE AD.<img src="/images/quote_bottom.png" width="12" height="10" class="right"></p>
+                            
+                            <div class="clear"></div>
+                            
+                            <img src="/images/author_icon.png" width="13" height="12" style="margin-top:10px;"><p>ariesto</p>
+                            
+                        </div>
+                        <!-- / Testimonials -->
+                    
+                    </blockquote>
+		<blockquote>
+                    	
+                        <!-- Testimonials -->
+                        <div class="testimonial_inside">
+                        
+                            <img src="/images/quote_top.png" width="12" height="9">
+                            
+                            <p>\"\' good programm best way money make\'\"<img src="/images/quote_bottom.png" width="12" height="10" class="right"></p>
+                            
+                            <div class="clear"></div>
+                            
+                            <img src="/images/author_icon.png" width="13" height="12" style="margin-top:10px;"><p>shasitharan</p>
+                            
+                        </div>
+                        <!-- / Testimonials -->
+                    
+                    </blockquote>
+		<blockquote>
+                    	
+                        <!-- Testimonials -->
+                        <div class="testimonial_inside">
+                        
+                            <img src="/images/quote_top.png" width="12" height="9">
+                            
+                            <p>I love this<img src="/images/quote_bottom.png" width="12" height="10" class="right"></p>
+                            
+                            <div class="clear"></div>
+                            
+                            <img src="/images/author_icon.png" width="13" height="12" style="margin-top:10px;"><p>Betty Dusabe</p>
+                            
+                        </div>
+                        <!-- / Testimonials -->
+                    
+                    </blockquote>
+		<blockquote>
+                    	
+                        <!-- Testimonials -->
+                        <div class="testimonial_inside">
+                        
+                            <img src="/images/quote_top.png" width="12" height="9">
+                            
+                            <p>Amazing site.. Good opportunity! However video tutorials would need to...<img src="/images/quote_bottom.png" width="12" height="10" class="right"></p>
+                            
+                            <div class="clear"></div>
+                            
+                            <img src="/images/author_icon.png" width="13" height="12" style="margin-top:10px;"><p>centralfl</p>
+                            
+                        </div>
+                        <!-- / Testimonials -->
+                    
+                    </blockquote>
+		<blockquote>
+                    	
+                        <!-- Testimonials -->
+                        <div class="testimonial_inside">
+                        
+                            <img src="/images/quote_top.png" width="12" height="9">
+                            
+                            <p>feel  happy to join MA<img src="/images/quote_bottom.png" width="12" height="10" class="right"></p>
+                            
+                            <div class="clear"></div>
+                            
+                            <img src="/images/author_icon.png" width="13" height="12" style="margin-top:10px;"><p>Muhammad Waqas</p>
+                            
+                        </div>
+                        <!-- / Testimonials -->
+                    
+                    </blockquote>
+		<blockquote>
+                    	
+                        <!-- Testimonials -->
+                        <div class="testimonial_inside">
+                        
+                            <img src="/images/quote_top.png" width="12" height="9">
+                            
+                            <p>This is one of the best online business i have ever seen,the compensat...<img src="/images/quote_bottom.png" width="12" height="10" class="right"></p>
+                            
+                            <div class="clear"></div>
+                            
+                            <img src="/images/author_icon.png" width="13" height="12" style="margin-top:10px;"><p>CHUDDY</p>
+                            
+                        </div>
+                        <!-- / Testimonials -->
+                    
+                    </blockquote>
+		<blockquote>
+                    	
+                        <!-- Testimonials -->
+                        <div class="testimonial_inside">
+                        
+                            <img src="/images/quote_top.png" width="12" height="9">
+                            
+                            <p>Happy Earning.
+<img src="/images/quote_bottom.png" width="12" height="10" class="right"></p>
+                            
+                            <div class="clear"></div>
+                            
+                            <img src="/images/author_icon.png" width="13" height="12" style="margin-top:10px;"><p>Alice Zhang</p>
+                            
+                        </div>
+                        <!-- / Testimonials -->
+                    
+                    </blockquote>
+		<blockquote>
+                    	
+                        <!-- Testimonials -->
+                        <div class="testimonial_inside">
+                        
+                            <img src="/images/quote_top.png" width="12" height="9">
+                            
+                            <p>i feel hapy to join MA<img src="/images/quote_bottom.png" width="12" height="10" class="right"></p>
+                            
+                            <div class="clear"></div>
+                            
+                            <img src="/images/author_icon.png" width="13" height="12" style="margin-top:10px;"><p>Azaan Khan</p>
+                            
+                        </div>
+                        <!-- / Testimonials -->
+                    
+                    </blockquote>
+		<blockquote>
+                    	
+                        <!-- Testimonials -->
+                        <div class="testimonial_inside">
+                        
+                            <img src="/images/quote_top.png" width="12" height="9">
+                            
+                            <p>IM VERY HAPPY JOIN AT MASSIVE AD.<img src="/images/quote_bottom.png" width="12" height="10" class="right"></p>
+                            
+                            <div class="clear"></div>
+                            
+                            <img src="/images/author_icon.png" width="13" height="12" style="margin-top:10px;"><p>ariesto</p>
+                            
+                        </div>
+                        <!-- / Testimonials -->
+                    
+                    </blockquote>
+		<blockquote>
+                    	
+                        <!-- Testimonials -->
+                        <div class="testimonial_inside">
+                        
+                            <img src="/images/quote_top.png" width="12" height="9">
+                            
+                            <p>Joining to Massive Ad has been the best opportunity to invest my money...<img src="/images/quote_bottom.png" width="12" height="10" class="right"></p>
+                            
+                            <div class="clear"></div>
+                            
+                            <img src="/images/author_icon.png" width="13" height="12" style="margin-top:10px;"><p>Maria Santana</p>
+                            
+                        </div>
+                        <!-- / Testimonials -->
+                    
+                    </blockquote>
+		<blockquote>
+                    	
+                        <!-- Testimonials -->
+                        <div class="testimonial_inside">
+                        
+                            <img src="/images/quote_top.png" width="12" height="9">
+                            
+                            <p>Indeed, This is the most reliable online investment that i can recomme...<img src="/images/quote_bottom.png" width="12" height="10" class="right"></p>
+                            
+                            <div class="clear"></div>
+                            
+                            <img src="/images/author_icon.png" width="13" height="12" style="margin-top:10px;"><p>OGUNDELE MICHAEL AYINDE</p>
+                            
+                        </div>
+                        <!-- / Testimonials -->
+                    
+                    </blockquote>
+		<blockquote>
+                    	
+                        <!-- Testimonials -->
+                        <div class="testimonial_inside">
+                        
+                            <img src="/images/quote_top.png" width="12" height="9">
+                            
+                            <p>This is really massive and trustfully business <img src="/images/quote_bottom.png" width="12" height="10" class="right"></p>
+                            
+                            <div class="clear"></div>
+                            
+                            <img src="/images/author_icon.png" width="13" height="12" style="margin-top:10px;"><p>ricky</p>
+                            
+                        </div>
+                        <!-- / Testimonials -->
+                    
+                    </blockquote>
+		<blockquote>
+                    	
+                        <!-- Testimonials -->
+                        <div class="testimonial_inside">
+                        
+                            <img src="/images/quote_top.png" width="12" height="9">
+                            
+                            <p>Am glad i received my first earnings from massivead on 16th Dec.
+This ...<img src="/images/quote_bottom.png" width="12" height="10" class="right"></p>
+                            
+                            <div class="clear"></div>
+                            
+                            <img src="/images/author_icon.png" width="13" height="12" style="margin-top:10px;"><p>Ngozi Ahamefula</p>
+                            
+                        </div>
+                        <!-- / Testimonials -->
+                    
+                    </blockquote>
+		<blockquote>
+                    	
+                        <!-- Testimonials -->
+                        <div class="testimonial_inside">
+                        
+                            <img src="/images/quote_top.png" width="12" height="9">
+                            
+                            <p>Am glad i received my first earnings from massivead on 16th Dec.
+This ...<img src="/images/quote_bottom.png" width="12" height="10" class="right"></p>
+                            
+                            <div class="clear"></div>
+                            
+                            <img src="/images/author_icon.png" width="13" height="12" style="margin-top:10px;"><p>Ngozi Ahamefula</p>
+                            
+                        </div>
+                        <!-- / Testimonials -->
+                    
+                    </blockquote>
+		<blockquote>
+                    	
+                        <!-- Testimonials -->
+                        <div class="testimonial_inside">
+                        
+                            <img src="/images/quote_top.png" width="12" height="9">
+                            
+                            <p>Thank you very to made the real business in the world:) I never seen l...<img src="/images/quote_bottom.png" width="12" height="10" class="right"></p>
+                            
+                            <div class="clear"></div>
+                            
+                            <img src="/images/author_icon.png" width="13" height="12" style="margin-top:10px;"><p>Bhirabhon Nunthachan</p>
+                            
+                        </div>
+                        <!-- / Testimonials -->
+                    
+                    </blockquote>
+		<blockquote>
+                    	
+                        <!-- Testimonials -->
+                        <div class="testimonial_inside">
+                        
+                            <img src="/images/quote_top.png" width="12" height="9">
+                            
+                            <p>join the massivead.com  already  10 days ... i make sale my left side ...<img src="/images/quote_bottom.png" width="12" height="10" class="right"></p>
+                            
+                            <div class="clear"></div>
+                            
+                            <img src="/images/author_icon.png" width="13" height="12" style="margin-top:10px;"><p>Sufri Hj A Matasan</p>
+                            
+                        </div>
+                        <!-- / Testimonials -->
+                    
+                    </blockquote>
+		<blockquote>
+                    	
+                        <!-- Testimonials -->
+                        <div class="testimonial_inside">
+                        
+                            <img src="/images/quote_top.png" width="12" height="9">
+                            
+                            <p>EXCELENTE<img src="/images/quote_bottom.png" width="12" height="10" class="right"></p>
+                            
+                            <div class="clear"></div>
+                            
+                            <img src="/images/author_icon.png" width="13" height="12" style="margin-top:10px;"><p>Jose  G Da Silva</p>
+                            
+                        </div>
+                        <!-- / Testimonials -->
+                    
+                    </blockquote>
+		<blockquote>
+                    	
+                        <!-- Testimonials -->
+                        <div class="testimonial_inside">
+                        
+                            <img src="/images/quote_top.png" width="12" height="9">
+                            
+                            <p>thank you<img src="/images/quote_bottom.png" width="12" height="10" class="right"></p>
+                            
+                            <div class="clear"></div>
+                            
+                            <img src="/images/author_icon.png" width="13" height="12" style="margin-top:10px;"><p>kyungbar kang</p>
+                            
+                        </div>
+                        <!-- / Testimonials -->
+                    
+                    </blockquote>
+		<blockquote>
+                    	
+                        <!-- Testimonials -->
+                        <div class="testimonial_inside">
+                        
+                            <img src="/images/quote_top.png" width="12" height="9">
+                            
+                            <p>MassiveAd the best business opportunity.. join today and be beneficial<img src="/images/quote_bottom.png" width="12" height="10" class="right"></p>
+                            
+                            <div class="clear"></div>
+                            
+                            <img src="/images/author_icon.png" width="13" height="12" style="margin-top:10px;"><p>Future2Sky</p>
+                            
+                        </div>
+                        <!-- / Testimonials -->
+                    
+                    </blockquote>
+	                </div>
+                <!-- / Testimonial Box Desc -->
+                
+                <a href="/testimonial"><button type="button" class="test_more_button-new">More</button></a>
+                
+            </div>
+            <!-- / Testimonial Box Wrapper -->
+            
+            <div class="clear"></div>
+            
             <!-- Buttons -->
             
-            <button type="button" class="sidebar" value="" name="" onclick="parent.location='/register'">Register Now ! </button>
+            <button type="button" class="sidebar" value="" name="" onclick="parent.location='/register'" style="position:relative; z-index:10;">Register Now ! </button>
 
         </div>
         <!-- / Content Right Center -->
@@ -665,7 +1115,7 @@
                     
                     <ul style="margin-right:0;">
                         <li><a href="/seeking-help" title="Seeking Help">Seeking Help</a></li>
-                        <li><a href="report-a-bug" title="Report A Bug">Report A Bug</a></li>
+                        <li><a href="/report-a-bug" title="Report A Bug">Report A Bug</a></li>
                         <li><a href="/make-sugggestion" title="Make Suggestion">Make Suggestion</a></li>
                     </ul>
 
@@ -732,8 +1182,8 @@
                 <!-- Callback -->
                 <div class="toobar_wrap">
                     
-                    <a href="/callback"><img src="images/callback-images/callback-image-default.png"></a>
-                
+							<a href="/callback"><img src="images/callback-images/callback-image-blue.png"></a>
+
                 </div>
                 <!-- / Callback -->
                 
@@ -796,7 +1246,19 @@
 			});
 		</script>
 
-	<a href="https://www.skysa.com/page/features/live-support-chat" id="SKYSA-NoScript">Live Support</a><script type="text/javascript" src="//static2.skysa.com?i=759674D4-D2EC-4B61-8AEC-A0E71AFB6CD3" async=""></script>
+	<!-- <a href="https://www.skysa.com/page/features/live-support-chat" id="SKYSA-NoScript">Live Support</a><script type="text/javascript" src="//static2.skysa.com?i=759674D4-D2EC-4B61-8AEC-A0E71AFB6CD3" async></script> -->
+	
+	<!-- Comodo -->
+    
+        <a href="http://www.instantssl.com" id="comodoTL">SSL</a>
+        <script language="JavaScript" type="text/javascript">
+        COT("https://massivead.com/images/cot_evssl.gif", "SC3", "none");
+        </script>
+
+        <!--<a href="http://www.instantssl.com" id="">
+        <img src="images/cot_evssl.gif" style="position:fixed; bottom:30px;right:0;"/></a>-->
+        
+    <!-- / Comodo -->
         
 
 </body></html>
