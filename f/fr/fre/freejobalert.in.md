@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the freejobalert.in privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530041421id_/http%3A//www.freejobalert.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freejobalert.in privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331035533id_/http%3A//www.freejobalert.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FREEJobAlert.in
+# Privacy Policy | Freejobalert.in
+
+[](http://www.freejobalert.in/privacy-policy/ "Free Job Alert Logo")
 
 **Privacy Policy for the website: www.freejobalert.in**  
 We are always committed to safeguard your Personal Information. In this regard with Privacy Statement which governs and make the use of your personal information such as email address. Some of this information provided by you is used for our own legitimate business purposes, such as sending you latest govt. jobs updates of the other event happening on our website and is not shared or use for the benefit of any non-affiliated third-party.
