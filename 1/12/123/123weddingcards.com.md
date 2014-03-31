@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123weddingcards.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031045518id_/http%3A//www.123weddingcards.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123weddingcards.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331031315id_/http%3A//www.123weddingcards.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy | 123 wedding cards
 
@@ -26,7 +26,7 @@ We does not sell, rent, trade or lease any personal/private information collecte
 
 We might collect the email addresses as to make a comprehensive email lists to keep our members informed about new event/products/offers launching at our website. We do not sell, rent, trade, or lease the email addresses of our list to any individual or company. In addition to this, we have configured our list server software to refuse to disclose the email addresses of our subscribers to anyone but authorized 123WeddingCards.com staff.  
   
-#### Our Facilities
+Our Facilities
 
 For evaluation of quality, design and color, we offer samples as well. Cost of up to 5 samples are adjustable in the later bulk order you place with us.   
 Samples are sent blank. In case if you need personalized sample with your own text, additional printing charges will be applicable.   
