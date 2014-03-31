@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benefitspro.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217000606id_/http%3A//www.benefitspro.com/pages/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefitspro.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331035427id_/http%3A//www.benefitspro.com/pages/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | BenefitsPro
 
