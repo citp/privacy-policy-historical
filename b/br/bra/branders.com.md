@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the branders.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925022833id_/http%3A//www.branders.com/content/pages/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the branders.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331075112id_/http%3A//www.branders.com/content/pages/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | Branders.com Promotional Products
+# Privacy Policy | Branders.com Brand BuildersBrand Builders
 
 Branders.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy.By visiting Branders.com, you are accepting the practices described in this Privacy Notice.
 
