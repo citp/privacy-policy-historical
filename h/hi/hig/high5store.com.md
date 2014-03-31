@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the high5store.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009034446id_/http%3A//www.high5store.com/content/3-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the high5store.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331031458id_/http%3A//www.high5store.com/content/3-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - High5Store.com
 
@@ -10,7 +10,7 @@ High5store will not sell or disclose your personal information to third parties 
 
 Members may review and change your information, opt out of receiving certain messages in your account settings, and you may remove certain optional pieces of information.
 
- **What we do with the information we gather**
+**What we do with the information we gather**
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
@@ -21,11 +21,11 @@ We require this information to understand your needs and provide you with a bett
 
 
 
- **Security**
+**Security**
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
- **How we use cookies**
+**How we use cookies**
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
@@ -35,11 +35,11 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
- **Links to other websites**
+**Links to other websites**
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
- **Controlling your personal information**
+**Controlling your personal information**
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
@@ -52,7 +52,7 @@ We will not sell, distribute or lease your personal information to third parties
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
- **Contacting Us**
+**Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below:
 
