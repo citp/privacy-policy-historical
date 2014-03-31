@@ -1,16 +1,13 @@
-> *The following text is extracted and transformed from the vitsoe.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822091423id_/https%3A//www.vitsoe.com/gb/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitsoe.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331071714id_/https%3A//www.vitsoe.com/gb/privacy) for the most accurate reproduction.*
 
 # Vitsœ | Privacy policy
 
 [Vitsœ](https://web.archive.org/gb)
 
-  * [Home](https://web.archive.org/gb)
-  * [Shelves](https://web.archive.org/gb/shelves)
-  * [Chairs](https://web.archive.org/gb/chairs)
-  * [About](https://web.archive.org/gb/about)
-  * [News](https://web.archive.org/gb/news)
-  * [Contact](https://web.archive.org/gb/contact)
-  * [My Vitsœ](https://web.archive.org/login/)
+  * [About Vitsœ](https://web.archive.org/gb/about)
+  * [606 Universal Shelving System](https://web.archive.org/gb/606)
+  * [620 Chair Programme](https://web.archive.org/gb/620)
+  * [621 Side Table](https://web.archive.org/gb/621)
 
 
 
