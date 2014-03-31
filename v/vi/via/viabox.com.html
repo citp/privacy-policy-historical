@@ -1,374 +1,19 @@
-<!--The following is the downloaded HTML source of the viabox.com privacy policy that was archived on 2013-08-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130806072955id_/http%3A//www.viabox.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the viabox.com privacy policy that was archived on 2014-03-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331152333id_/https%3A//www.viabox.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
   <title>Viabox : The Global Leader in Package Forwarding</title>
   <link media="all" rel="stylesheet" type="text/css" href="css/all.css">
-  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//static.woopra.com/js/w.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
   <script type="text/javascript">window.jQuery || document.write('<script src="js/jquery-1.8.3.min.js"><\/script>')</script><script src="js/jquery-1.8.3.min.js"></script>
   <script type="text/javascript" src="js/jquery.main.js"></script>
   <!--[if lt IE 9]>
     <script type="text/javascript" src="js/ie.js"></script>
     <link media="all" rel="stylesheet" type="text/css" href="css/ie.css" />
   <![endif]-->
-<script language="javascript">AC_FL_RunContent = 0;</script><script src="AC_RunActiveContent.js" language="javascript"></script><script type="text/javascript">
-// Index It Image Slideshow script- By JavaScriptKit.com
-// For this and over 400+ free scripts, visit JavaScript Kit- http://www.javascriptkit.com/
-// This notice must intact for use
-
-//Specify images for slideshow:
-//["Image Path", "Optional Image link"]
-
-var numberslide=new Array()
-numberslide[0]=["images/test1.jpg", "http://www.google.com"]
-numberslide[1]=["images/test.jpg", ""]
-numberslide[2]=["images/test1.jpg", ""]
-numberslide[3]=["images/test1.jpg", ""]
-numberslide[4]=["images/test1.jpg", ""]
-
-var mylinktarget="" //specify optional link target
-var mylinkcolor="navy" //specify default color of number links
-var mylinkcolorSelected="red" //specify color of selected links
-
-var imgborderwidth=0 //specify border of image slideshow
-
-/////Stop customizing here////////////////
-
-var preloadit=new Array()
-for (i=0;i<numberslide.length;i++){
-preloadit[i]=new Image()
-preloadit[i].src=numberslide[i][0]
-}
-
-var currentindex=""
-
-function changeslides(which){
-var imghtml=""
-currentindex=(which=="initial")? 0 : parseInt(which)
-var mode=(which=="initial")? "initial" : ""
-var which=(mode=="initial")? numberslide[0] : numberslide[which]
-if (which[1]!="")
-imghtml='<a href="'+which[1]+'" target="'+mylinktarget+'">'
-imghtml+='<img src="'+which[0]+'" border="'+imgborderwidth+'">'
-if (which[1]!="")
-imghtml+='</a>'
-
-if (mode=="initial")
-document.write('<div>'+imghtml+'</div>')
-else{
-document.getElementById("imagecontainer").innerHTML=imghtml
-changecolors()
-}
-}
-
-function createnumbers(){
-document.write('<a href="javascript:changeslides(0)" style="color:'+mylinkcolorSelected+'">0</a> ')
-for (i=1; i< numberslide.length; i++)
-document.write('<a href="javascript:changeslides(\''+i+'\')">'+i+'</a> ')
-}
-
-function changecolors(){
-var numberobj=document.getElementById("numberDiv")
-numberlinks=numberobj.getElementsByTagName("A")
-for (i=0; i<=currentindex; i++)
-numberlinks[i].style.color=mylinkcolorSelected
-for (i=currentindex+1; i<numberslide.length; i++)
-numberlinks[i].style.color=mylinkcolor
-}
-
-function goforward(){
-if (currentindex<numberslide.length-1)
-changeslides(currentindex+1)
-}
-
-function goback(){
-if (currentindex!=0)
-changeslides(currentindex-1)
-}
-</script><script src="slide-js/mootools-1-11-v2.js" type="text/javascript"></script><script src="slide-js/carrousel-c.htm" type="text/javascript"></script><script src="slide-js/home.htm" type="text/javascript"></script><script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script><script language="JavaScript" type="text/javascript" charset="utf-8" src="Scripts/default_1239286914.js"></script><script>
-
-var timeout  = 500;
-
-var closetimer  = 0;
-
-var ddmenuitem  = 0;
-
-
-
-// open hidden layer
-
-function mopen(id)
-
-{  
-
-  // cancel close timer
-
-  mcancelclosetime();
-
-
-
-  // close old layer
-
-  if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
-
-
-
-  // get new layer and show it
-
-  ddmenuitem = document.getElementById(id);
-
-  ddmenuitem.style.visibility = 'visible';
-
-
-
-}
-
-// close showed layer
-
-function mclose()
-
-{
-
-  if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
-
-}
-
-
-
-// go close timer
-
-function mclosetime()
-
-{
-
-  closetimer = window.setTimeout(mclose, timeout);
-
-}
-
-
-
-// cancel close timer
-
-function mcancelclosetime()
-
-{
-
-  if(closetimer)
-
-  {
-
-    window.clearTimeout(closetimer);
-
-    closetimer = null;
-
-  }
-
-}
-
-
-
-// close layer when click-out
-
-document.onclick = mclose; 
-
-
-
-</script><style>
-
-#sddm{
-
-  font-family:Arial, Helvetica, sans-serif;
-
-  margin: 0;
-
-  padding: 0;
-
-
-
-}
-
-
-
-#sddm li
-
-{  margin: 0;
-
-  padding: 0;
-
-  list-style: none;
-
-  float: left;
-
-  font-size:10px;
-
-  font-weight:bold;
-
-  text-align:left;
-
-  
-
-}
-
-#sddm li b{
-
-  font-size:17px;
-
-  text-align:left;
-
-  padding-bottom:10px;
-
-}
-
-
-
-#sddm li a
-
-{  display: block;
-
-  margin: 0 1px 0 0;
-
-
-
-  color: #d6d6d6;
-
-  text-decoration: none}
-
-
-
-#sddm li a:hover{
-
-  color:#8d8d8d;
-
-  text-decoration:none;
-
-  
-
-}
-
-
-
-#sddm div
-
-{  position: absolute;
-
-  visibility: hidden;
-
-  margin: 0;
-
-  width:181px;
-
-  margin-left:-90px;
-
-  background:url(images/country_select_bg.gif) repeat-x bottom;
-
-  border:1px solid #fed009;
-
-  z-index:999;
-
-  }
-
-
-
-  #sddm div a
-
-  {  position: relative;
-
-    display: block;
-
-    margin: 20;
-
-    padding: 5px 10px;
-
-    width: auto;
-
-    white-space: nowrap;
-
-    text-align: left;
-
-    text-decoration: none;
-
-    border-bottom:1px #c9c9c9 dashed;
-
-    color: #a6a6a6;
-
-    font: 11px arial
-
-    }
-
-
-
-  #sddm div a:hover{
-
-    color: #FFF;
-
-    background:#fee002;
-
-    }
-
-
-
-.top_menus{
-
-  font-size:17px;
-
-  font-weight:normal;
-
-  border-left:2px solid #CCC;
-
-  font-weight:bold;
-
-  height:30px;
-
-  
-
-}
-
-.top_menus a{
-
-  color: #d6d6d6;
-
-  
-
-  text-decoration:none;
-
-  
-
-}
-
-.top_menus a:hover{
-
-  color:#8d8d8d;
-
-}
-
-</style><style type="text/css">.jcf-unselectable{-moz-user-select:none;-webkit-tap-highlight-color:rgba(255,255,255,0);-webkit-user-select:none;user-select:none;}</style></head>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<style type="text/css">#fancybox-overlay{position:fixed;top:0;left:0;}</style><style type="text/css">.js-slide-hidden{position:absolute !important;left:-9999px !important;top:-9999px !important;display:block !important}</style><style type="text/css">.jcf-unselectable{-moz-user-select:none;-webkit-tap-highlight-color:rgba(255,255,255,0);-webkit-user-select:none;user-select:none;}</style></head>
 <body>
 <div id="header">
     <span class="top-line">&nbsp;</span>
@@ -735,7 +380,7 @@ function validate1()
   <div id="main">
     <div class="main-holder">
       <div class="main-frame">
-        <div id="content">
+<div id="content">
           <div class="shoppers-info">
             <div style="padding:10px">
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -820,16 +465,15 @@ given you (or where you have chosen) a password so that you can access certain
 parts of our site, you are responsible for keeping this password confidential.<br>
 <br>
 <b>Disclosing Your Information</b></p>
-<p>Where applicable, we may disclose your personal information to any member of 
-our group. This includes, where applicable, our subsidiaries, our holding 
-company and its other subsidiaries (if any).<br>
-We may also disclose your personal information to third parties:<br>
-Where we sell any or all of our business and/or our assets to a third party.<br>
-Where we are legally required to disclose your information.<br>
-To assist fraud protection and minimize credit risk.<br>
-<br>
-<b>Third Party Links</b></p>
-<p>You mind find links to third party websites on our website. These websites 
+<p>Where applicable, we may disclose your personal information to third parties:<br>
+
+</p><ul>
+  <li>Where we are legally required by law to disclose your information.</li>
+  <li>To assist in fraud protection or investigation.</li>
+</ul>
+
+<b>Third Party Links</b><p></p>
+<p>You may find links to third party websites on our website. These websites 
 should have their own privacy policies which you should check. We do not accept 
 any responsibility or liability for their policies whatsoever as we have no 
 control over them.</p>
@@ -856,9 +500,19 @@ your information.<br>
                   </tbody></table>            
             </div>
           
-            
+            <div class="features features-tablet">
+              <h2><span>FEATURES</span></h2>
+              <ul>
+                <li class="automated"><span class="ttl"><strong>Automated</strong>Warehouse</span></li>
+                <li class="fast"><span class="ttl"><strong>Fast</strong>Processing</span></li>
+                <li class="concierge"><span class="ttl"><strong>Concierge</strong>Service</span></li>
+                <li class="package"><span class="ttl"><strong>Package</strong>Consolidation</span></li>
+                <li class="free"><span class="ttl"><strong>Free 90</strong>Day storage</span></li>
+                <li class="repackaging"><span class="ttl"><strong>Repackaging</strong></span></li>
+              </ul>
+            </div>
           </div>
-        </div>
+        </div>        
       </div>
     </div>
   </div>
@@ -866,21 +520,8 @@ your information.<br>
     <div class="holder">
       <div class="stat-container">
         <span class="title">What people are buying</span>
+
         <div class="man">
-          <ul>
-            <li><span class="btn" style="width:84%;">Electronics &amp; Computers</span> 77%</li>
-						<li><span class="btn" style="width:71%;">Clothes</span> 68%</li>
-						<li><span class="btn" style="width:58%;">Shoes &amp; Accesories</span> 59%</li>
-						<li><span class="btn" style="width:51%;">Books, Movies &amp; Music</span> 52%</li>
-						<li><span class="btn" style="width:43%;">Sports &amp; Outdoors</span> 44%</li>
-						<li><span class="btn" style="width:38%;">Office Supplies</span> 39%</li>
-						<li><span class="btn" style="width:34%;">Toys &amp; Games</span> 35%</li>
-						<li><span class="btn" style="width:31%;"><span style="font-size:9px;">Auto Parts &amp; Industrial</span></span> 31%</li>
-						<li><span class="btn" style="width:24%;">Collectibles</span> 26%</li>
-						<li><span class="btn" style="width:22%;"><span style="font-size:9px;">Home &amp; Garden</span></span> 18%</li>
-          </ul>
-        </div>
-        <div class="woman">
           <ul>
             <li><span class="btn" style="width:84%;">Electronics &amp; Computers</span> 77%</li>
             <li><span class="btn" style="width:71%;">Clothes</span> 68%</li>
@@ -894,10 +535,26 @@ your information.<br>
             <li><span class="btn" style="width:22%;"><span style="font-size:9px;">Home &amp; Garden</span></span> 18%</li>
           </ul>
         </div>
+        <div class="woman">
+          <ul>
+            <li><span class="btn" style="width:81%;">Clothes</span> 81%</li>
+                        <li><span class="btn" style="width:75%;">Shoes, Bags &amp; Accesories</span> 75%</li>
+                        <li><span class="btn" style="width:69%;">Makeup &amp; Cosmetics</span> 69%</li>
+                        <li><span class="btn" style="width:64%;">Jewelry</span> 64%</li>
+                        <li><span class="btn" style="width:58%;">Kids &amp; Baby Clothing</span> 58%</li>
+                        <li><span class="btn" style="width:51%;">Books, Movies &amp; Music</span> 51%</li>
+                        <li><span class="btn" style="width:44%;">Electronics &amp; Computers</span> 44%</li>
+                        <li><span class="btn" style="width:35%;">Home &amp; Garden</span> 35%</li>
+                        <li><span class="btn" style="width:29%;">Toys &amp; Games</span> 29%</li>
+                        <li><span class="btn" style="width:23%;">Sports Gear</span> 23%</li>
+
+          </ul>
+        </div>
       </div>
       <div class="col">
         <div class="members"><strong>100,000</strong>members</div>
         <div class="customers"><span class="txt">Customers in</span><strong>220</strong>countries</div>
+
       </div>
     </div>
   </div>
@@ -915,6 +572,18 @@ your information.<br>
     });
     
   </script>  
+  
+<style>
+.norton-logo1 {
+    height: 70px;
+    left: 494px;
+    overflow: hidden;
+    position: absolute;
+    text-indent: -9999px;
+    top: 48px;
+    width: 156px;
+}
+</style>  
 
     <div class="top-row">      <strong class="ttl">SHOP ANY US ONLINE STORE:</strong>
       <div class="logos">
@@ -927,15 +596,16 @@ your information.<br>
           <ul class="cards">            <li><a href="#"><img src="images/visa-ico.png" alt="visa"><img class="over" src="images/visa-ico-over.png" alt="visa"></a></li>            <li><a href="#"><img src="images/am-ex-ico.png" alt="american express"><img class="over" src="images/am-ex-ico-over.png" alt="american express"></a></li>            <li><a href="#"><img src="images/master-ico.png" alt="master card"><img class="over" src="images/master-ico-over.png" alt="master card"></a></li>            <li><a href="#"><img src="images/paypal-ico.png" alt="paypal"><img class="over" src="images/paypal-ico-over.png" alt="paypal"></a></li>          </ul>
           <a href="#" class="norton-logo-static">norton secured</a>
           <span class="ttl">PARTNERS:</span>
-          <ul class="partners">            <li><a href="#"><img src="images/fedex-ico.png" alt="fedex"><img class="over" src="images/fedex-ico-over.png" alt="fedex"></a></li>            <li><a href="#"><img src="images/usps-ico.png" alt="us postal service"><img class="over" src="images/usps-ico-over.png" alt="us postal service"></a></li>            <li><a href="#"><img src="images/dhl-ico.png" alt="dhl"><img class="over" src="images/dhl-ico-over.png" alt="dhl"></a></li>            <li><a href="#"><img src="images/ups-ico.png" alt="ups"><img class="over" src="images/ups-ico-over.png" alt="ups"></a></li>          </ul>
+          <ul class="partners">            <li><a href="#"><img src="images/fedex-ico.png" alt="fedex"><img class="over" src="images/fedex-ico-over.png" alt="fedex"></a></li>            <li><a href="#"><img src="images/usps-ico.png" alt="us postal service"><img class="over" src="images/usps-ico-over.png" alt="us postal service"></a></li>  <li><a href="#"><img src="images/tnt-ico.png" alt="tnt"><img class="over" src="images/tnt-ico-over.png" alt="tnt"></a></li>          <li><a href="#"><img src="images/dhl-ico.png" alt="dhl"><img class="over" src="images/dhl-ico-over.png" alt="dhl"></a></li>                      </ul>
         </div>
-        <a href="" class="norton-logo">norton secured</a>
+          
+            <a href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.viabox.com&amp;lang=en" target="_blank" class="norton-logo">norton secured</a>
         <div class="twitter-box">
           <ul id="tweets-box">
             <p>loading...</p>
           </ul>
 
-          <a href="https://twitter.com/viaddress" class="twitter-follow-button" data-show-count="true" data-dnt="true"></a>
+          <a href="https://twitter.com/viabox" class="twitter-follow-button" data-show-count="true" data-dnt="true"></a>
 <script language="JavaScript" type="text/javascript">
 
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
@@ -953,11 +623,11 @@ your information.<br>
             <li><a href="http://www.viabox.com">Home</a></li>
             <li><a href="about-us">About Us</a></li>
             <li><a href="support">Contact Us</a></li>
-            <li><a href="http://www.viaddressreviews.com" target="_blank">Reviews</a></li>
+            <li><a href="http://www.pinterest.com/viabox" target="_blank">Reviews</a></li>
             <li><a href="terms_conditions">Terms &amp; Conditions</a></li>
             <li><a href="privacy">Privacy Policy</a></li>
           </ul>
-          <span class="copy">© 2013 Viabox. All Rights Reserved.</span>
+          <span class="copy">© 2014 Viabox. All Rights Reserved.</span>
         </div>
       </div>
       <div class="logo-box">
@@ -965,18 +635,33 @@ your information.<br>
         <span class="txt">The Global Leader in Package Forwarding </span>
       </div>
       <ul class="social">        
-        <li><a href="http://www.facebook.com/viabox" target="_blank" class="facebook">facebook</a></li>        
+        <li><a href="http://www.twitter.com/viabox" target="_blank" class="twitter2">twitter</a></li> 
+        <li><a href="http://www.facebook.com/viaboxcom" target="_blank" class="facebook">facebook</a></li>    
+        <li><a href="http://www.pinterest.com/viabox" target="_blank" class="twitter">pinterest</a></li>    
         <li><a href="http://www.linkedin.com/company/viabox" target="_blank" class="linkedin">linkedin</a></li>        
-        <li><a href="http://www.twitter.com/viabox" target="_blank" class="twitter">twitter</a></li>        
-        <li><a href="http://www.twitter.com/statuses/user_timeline/42590669.rss" target="_blank" class="rss">rss</a></li>        
-        <li><a href="http://www.pinterest.com/viabox" target="_blank" class="twitter2">pinterest</a></li>        
-        <li><a href="http://www.vimeo.com/user3204844" target="_blank" class="vimeo">vimeo</a></li>        
-        <li><a href="http://www.youtube.com/viaddress" target="_blank" class="youtube">youtube</a></li>        
-        <li><a href="http://www.instagram.com/viabox" target="_blank" class="amazon">instagram</a></li>      
+        <!--
+        <li><a href="http://www.youtube.com/viaboxDotCom" target="_blank" class="youtube">youtube</a></li>       
+        <li><a href="https://script.googleusercontent.com/macros/echo?user_content_key=LYO2tPiNbmxz8bdJoZMvsBHKHUxyRQoa8if_IUJvahXvT7UynnWltRAdBPoqQ_UUmcJ8k-btmYSUux8VK6PbzN-8L1UbGug8m5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnAqCGX0umkfei094sfkZfq6xpqSnFG_C0GfZE8-MFMMjnzm-9oQ9ca1BXNqMYZa6Fx1suj2P8J5JAHEa9_V7lYKwkXJbgoX_8i9N2zw5FsbM&lib=M3Vu5lEIMt3DvXsaVEB2zqz3FZZAEnAtP" target="_blank" class="rss">rss</a></li>        
+        --> 
       </ul>
     </div>
   </div>
   
+<!-- Start of Woopra Code -->
+<script>
+(function(){
+var t,i,e,n=window,o=document,a=arguments,s="script",r=["config","track","identify","visit","push","call"],c=function(){var t,i=this;for(i._e=[],t=0;r.length>t;t++)(function(t){i[t]=function(){return i._e.push([t].concat(Array.prototype.slice.call(arguments,0))),i}})(r[t])};for(n._w=n._w||{},t=0;a.length>t;t++)n._w[a[t]]=n[a[t]]=n[a[t]]||new c;i=o.createElement(s),i.async=1,i.src="//static.woopra.com/js/w.js",e=o.getElementsByTagName(s)[0],e.parentNode.insertBefore(i,e)
+})("woopra");
+
+woopra.config({
+    domain: 'viabox.com',
+    idle_timeout: 1800000
+});
+woopra.track();
+</script>
+<!-- End of Woopra Code -->
+
+<!-- Start of Google Analytics Code -->
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -990,6 +675,12 @@ your information.<br>
   })();
 
 </script>
+<!-- End of Google Analytics Code -->
+
+<!-- Start of Google plus page verification -->
+<a href="https://plus.google.com/113428561726242779649" rel="publisher">Google+</a>
+<!-- End of Google plus page verification -->
+
     
 
-</body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div><iframe id="font-resize-frame-334" class="font-resize-helper" style="width: 100em; height: 10px; position: absolute; border-width: 0px; top: -9999px; left: -9999px;"></iframe></body></html>
