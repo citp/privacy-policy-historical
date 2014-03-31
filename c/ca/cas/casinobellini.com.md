@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinobellini.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116131440id_/http%3A//www.casinobellini.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinobellini.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331113403id_/http%3A//www.casinobellini.com/privacy.html) for the most accurate reproduction.*
 
 # Casino Bellini: Privacy Statement
 
@@ -97,8 +97,16 @@ Whenever you have any queries or fears concerning data privacy and protection pl
  **Turbo SSL® certificate**  
 Casino Bellini (under the name of the casino group) employs a GoDaddy.com Turbo SSL® certificate to guarantee 100% protection and security. A SSL certificate is a digital certificate that confirms the identity of a Web site's owner to a visitor's web browser and encodes data for the web server via Secure Sockets Layer (SSL) technology. GoDaddy.com SSL certificates support both industry-standard 128-bit (used by all banking infrastructures to protect private information) and high-grade 256-bit SSL encryption to protect online transactions. 
 
-**TST Technical Systems Testing.**  
-TST Technical Systems Testing North America Incorporated is a familiar and esteemed statistical and technical software-testing firm, situated in Vancouver, BC Canada. They examine all of our poker and casino games for level fairness and accuracy, and put out letters of compliance for web sites that fulfill these rigorous measures. Note: PlayTech, the most prominent software supplier in the online gambling industry, develops all our gambling software. Consequently, the TST compliance letters have PlayTech's name. As a PlayTech client, we apply their software without change and thus can show this logo and the compliance letter that it links to. TST compliance letters for our poker and casino games can be viewed from the links at the bottom of our webpage 
+  
+
+
+## Gaming Laboratories International
+
+[](https://web.archive.org/resource/Casino_Bellini_Game_Payout_Certification.pdf) (Click on the logo to view GLI Payout Verification) 
+
+Additionally, all of our games are independently tested by GLI – Gaming Laboratories International. GLI is a large and well-respected firm that carries out independent tests on the fairness and accuracy of casino games. We are proud to display the GLI payout calculation on all of our pages.
+
+Note: all our gaming software is written by Playtech, the leading software provider in the gaming industry. Therefore, the GLI payout calculation letters feature Playtech’s name. As a Playtech client, we use their software without alteration and therefore display this logo and the compliance letter that it links to.
 
   
 
