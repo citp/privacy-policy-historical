@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downlopedia.com privacy policy that was archived on 2013-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130122001746id_/http%3A//www.downlopedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downlopedia.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331181931id_/http%3A//www.downlopedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Downlopedia | Privacy Policy
 
