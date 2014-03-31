@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knackhq.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523061228id_/http%3A//www.knackhq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knackhq.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331221209id_/https%3A//www.knackhq.com/privacy) for the most accurate reproduction.*
 
 # Knack: Build Online Databases & Web Apps - Privacy Statement
 
