@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the targetwoman.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514153959id_/http%3A//www.targetwoman.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the targetwoman.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331032017id_/http%3A//www.targetwoman.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TargetWoman
 
@@ -28,6 +28,8 @@ The information we may collect for submitting to our directory - User name,Email
 
 **Contact Information** :  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you should contact the Webmaster through our [contact](http://www.targetwoman.com/contact.html) page. 
+
+The personal information collected from the visitors of our website, including their identity, remains confidential. We respect the law(s) on confidentiality applicable to this website (US) and we will never pass on these data to any third party, unless required by law. Our website does not collect any cookies. 
 
 **Changes to our Privacy Policy** :  
 We reserve the right to change this privacy policy at any time for any reason. Notice of any such changes will be posted as an updated Privacy Policy on this site. 
