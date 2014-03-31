@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geolearning.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020021618id_/http%3A//www.sumtotalsystems.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geolearning.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331111022id_/http%3A//www.sumtotalsystems.com/privacy) for the most accurate reproduction.*
 
 # SumTotal Systems | Privacy | LMS Solutions
 
@@ -116,6 +116,10 @@ SumTotal Systems is a general audience Web site and does not request the age of 
 ### Safe Harbor
 
 SumTotal complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. SumTotal has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view SumTotal’s certification, please visit <http://www.export.gov/safeharbor/>
+
+### Australian Privacy Policy
+
+The purpose of the [SumTotal Australian Privacy Policy](https://web.archive.org/privacy/australian-privacy-policy.html) is to inform and notify our Australian customers and end users with regard to the types of personal information that SumTotal may collect, how we collect and handle such information, and how we protect such information. SumTotal takes the privacy and confidentiality of its customers seriously and follows the Australian Privacy Principles (APPs) contained in the Privacy Amendment (Enhancing Privacy protections) Act 2012. If you would like a copy of [SumTotal’s Australian Privacy Policy](https://web.archive.org/privacy/australian-privacy-policy.html), please send an email to [privacy@sumtotalsystems.com](mailto:privacy@sumtotalsystems.com) and SumTotal will take reasonable steps to provide you a copy in the format you requested. We may, in our sole discretion, modify this policy by posting a revised version on our web site ("SumTotal Systems Site") or otherwise publicly disseminating it, so please check back from time to time.
 
 ### Contacting Us
 
