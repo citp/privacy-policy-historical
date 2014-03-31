@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the amharicmovies.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226015504id_/http%3A//www.amharicmovies.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amharicmovies.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331065851id_/http%3A//www.amharicmovies.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - AmharicMovies.com - Amharic Movies Online
 
 ## Privacy Statement for AmharicMovies
 
-AmharicMovies has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: AmharicMovies
+AmharicMovies has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: AmharicMovies.
 
 ## Information Automatically Logged
 
@@ -32,13 +32,17 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 
 ## Children's Guidelines
 
-AmharicMovies is a family oriented website and as such due caution is taken to see that it meets with all national, international and local standards of operation. Safeguarding the Personal Information of children is extremely important. For those AmharicMovies sites specifically directed at children, and where users have indicated they are younger than 18, AmharicMovies sites will collect the minimum amount of Personal Information necessary to the operation of the service. These AmharicMovies sites will also send follow up mail to the user's e-mail address instructing them to seek parental permission for their use of the site. A child's Personal Information will be used for the operation of the service but it will not be used for "Secondary Uses" without a parent's permission.
+AmharicMovies is a family oriented website and as such due caution is taken to see that it meets with all national, international and local standards of operation. Safeguarding the Personal Information of children is extremely important.
+
+For those AmharicMovies sites specifically directed at children, and where users have indicated they are younger than 18, AmharicMovies sites will collect the minimum amount of Personal Information necessary to the operation of the service. These AmharicMovies sites will also send follow up mail to the user's e-mail address instructing them to seek parental permission for their use of the site. A child's Personal Information will be used for the operation of the service but it will not be used for "Secondary Uses" without a parent's permission.
 
 ## Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information.
+
+To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
 AmharicMovies.com works with third parties that serves ads to this site.
 
