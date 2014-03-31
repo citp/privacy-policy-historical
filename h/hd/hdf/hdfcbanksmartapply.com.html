@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hdfcbanksmartapply.com privacy policy that was archived on 2013-01-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130116230523id_/https%3A//www.hdfcbanksmartapply.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hdfcbanksmartapply.com privacy policy that was archived on 2014-03-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331032539id_/https%3A//www.hdfcbanksmartapply.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
@@ -31,6 +31,10 @@
 
 <script type="text/javascript">
     // Javascript Ajax support implementation
+
+    function getNewImage() {
+        return (window.Image ? new Image() : document.createElement('img'));
+    }
 
     //Gets the browser specific XmlHttpRequest Object
     function getXmlHttpRequestObject() {
@@ -66,15 +70,15 @@
             receiveReq.send(null);
         }
         return false;
-    }
+    };
 
     var st = new Date();
     var loc = escape(window.location);
     var ctx = "/";
-    var unique_id = "UPcyNH8AAAEAAC6WB60AAACH"
-    var start_time = "1358377524282282"
+    var unique_id = "UzjgNH8AAQEAAANkii8AAAAA";
+    var start_time = "1396236340851929";
     var req = ctx + "images/started.gif?id=" + unique_id + "&t=" + start_time;
-    new Image().src = req;
+    getNewImage().src = req;
 </script>
 <title>Privacy Commitment</title>
     <!-- HTTP 1.1 -->
@@ -84,11 +88,11 @@
 <!-- Prevents caching at the Proxy Server -->
 <meta http-equiv="Expires" content="0">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="shortcut icon" href="/images/favicon.ico">
+<link href="//d348z50i2vdtcc.cloudfront.net/images/favicon.ico" type="image/x-icon" rel="shortcut icon">
 
-<link rel="stylesheet" type="text/css" media="screen" href="https://d30qxz8zb1evpi.cloudfront.net/N522970321/bundles/main.css">
+<link rel="stylesheet" type="text/css" media="screen" href="https://d348z50i2vdtcc.cloudfront.net/N1393696449/bundles/main.css">
 <!--[if IE]>
-<link rel="stylesheet" type="text/css" media="screen" href="https://d30qxz8zb1evpi.cloudfront.net/N1242867543/bundles/ie.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="https://d348z50i2vdtcc.cloudfront.net/N1242867543/bundles/ie.css" />
 <![endif]-->
 
 </head>
@@ -156,52 +160,58 @@
             <div id="hdfcBBLogo"><span class="gb powered-by" title="Powered by bankbazaar.com"></span></div>
             <div class="footer">
 	<div class="footer_content">
-	    <span class="float_right gb verisign lazy-load {src:'/security-seals.html'}"></span><span class="copy">© <script type="text/javascript">var d = new Date();
-            document.write(d.getFullYear());</script>2020 HDFC Bank Ltd. All rights reserved.
+	    <span class="float_right gb verisign lazy-load {src:'/security-seals.html'}"></span><span class="copy">© 2014 HDFC Bank Ltd. All rights reserved.
             <a href="/privacy-policy.html" target="_blank">Privacy</a> | <a href="/website-usage.html" target="_blank">Website Usage Terms</a></span>
 	</div>
 </div></div>
     </div>
 </div>
 
-<input type="hidden" name="website" value="HDFC_WHITELABEL" id="website"><script type="text/javascript" src="/jawr_loader.js?_=1358092957909"></script>
+<input type="hidden" name="website" value="HDFC_WHITELABEL" id="website"><script type="text/javascript" src="/1395416493590/jawr_loader.js"></script>
 <script type="text/javascript">
-JAWR.loader.getURLs=function (path,ptype) {
-    var paths=[];
-    var type=ptype;
-    if(ptype==null){
-    type='js';        //settting JS as default type
-    }
-var bundles=[];
-if(type.toString().toLowerCase()=='css'){
-    bundles=this.cssbundles;
-    }
-if(type.toString().toLowerCase()=='js'){
-    bundles=this.jsbundles
-    }
-var   mappingToUse=this.mapping;
-for (var x = 0; x < bundles.length; x++) {
-    var bundle = bundles[x];
-    if (bundle.belongsToBundle(path) && !this.usedBundles[bundle.name]) {
-    this.usedBundles[bundle.name] = true;
-    var pathtoRender = bundle.alternateProductionURL ? bundle.alternateProductionURL : this.normalizePath(mappingToUse + '/' + bundle.prefix + bundle.name);
-        if (typeof pathtoRender != undefined) {
-            /*Replacing both http and https to use // to use the page's security  protocol*/
-            pathtoRender = pathtoRender.replace(/http:\/\//gi,"//");
-            pathtoRender = pathtoRender.replace(/https:\/\//gi,"//");
+    JAWR.loader.getURLs = function (path, ptype) {
+        var paths = [];
+        var type = ptype;
+        if (ptype == null) {
+            type = 'js';        //settting JS as default type
         }
-    paths.push(pathtoRender);
+        var bundles = [];
+        if (type.toString().toLowerCase() == 'css') {
+            bundles = this.cssbundles;
+        }
+        if (type.toString().toLowerCase() == 'js') {
+            bundles = this.jsbundles
+        }
+        var mappingToUse = this.mapping;
+        for (var x = 0; x < bundles.length; x++) {
+            var bundle = bundles[x];
+            if (bundle.belongsToBundle(path) && !this.usedBundles[bundle.name]) {
+                this.usedBundles[bundle.name] = true;
+                var pathtoRender;
+                if (isJawrDebug() && isDevelopmentEnv()) {
+                    pathtoRender = bundle.itemPathList;
+                    paths = paths.concat(pathtoRender);
+                } else {
+                    pathtoRender = bundle.alternateProductionURL ? bundle.alternateProductionURL : this.normalizePath(mappingToUse + '/' + bundle.prefix + bundle.name);
+                    if (typeof pathtoRender != undefined) {
+                        /*Replacing both http and https to use // to use the page's security  protocol*/
+                        pathtoRender = pathtoRender.replace(/http:\/\//gi, "//");
+                        pathtoRender = pathtoRender.replace(/https:\/\//gi, "//");
+                        paths.push(pathtoRender);
+                    }
+                }
+            }
+        }
+        return paths;
     }
-}
-return paths;
-}
 
-</script><script type="text/javascript" src="https://d30qxz8zb1evpi.cloudfront.net/1875339551/bundles/main.js"></script>
-<input type="hidden" name="" value="7E36F31DA17F9972F634F7765798055C-n1.hdfc2" id="sessionId"><input type="hidden" name="" value="" id="propertyCity"><input type="hidden" name="" value="" id="mcIdVal"><script type="text/javascript">
+</script><script type="text/javascript" src="https://d348z50i2vdtcc.cloudfront.net/N1162142851/bundles/site-wide.js"></script>
+<script type="text/javascript" src="https://d348z50i2vdtcc.cloudfront.net/N1841289342/bundles/site-wide-lazy.js"></script>
+<input type="hidden" name="" value="0195A905E7B2FEBF5D7A46E67DA33765.hdfc1" id="sessionId"><input type="hidden" name="" value="" id="propertyCity"><input type="hidden" name="" value="P4_hp_ChkElig_TWL" id="mcIdVal"><script type="text/javascript">
 isMobileReceived = 'false';
-mcId = "";
-product = 'false';
-pTypeId = '';
+mcId = "P4_hp_ChkElig_TWL";
+product = '';
+pTypeId = '97';
 </script>
 <script type="text/javascript">
 
@@ -234,12 +244,9 @@ pTypeId = '';
             }
         });
     }
-    
-    $(document).ready(crossDomainGATracking);
-
 </script>
 <noscript>
-    <img src="/images/no-javascript.gif" alt="JS is not enabled in browser"/>
+    <img src="//d348z50i2vdtcc.cloudfront.net/images/no-javascript.gif" alt="JS is not enabled in browser"/>
 </noscript>
 
 
@@ -249,7 +256,7 @@ pTypeId = '';
     var loc = escape(window.location);
     var ctx = "/";
     var req = ctx + "images/loaded.gif?id=" + unique_id + "&t=" + start_time;
-    new Image().src = req;
+    getNewImage().src = req;
 
     function addLoadEvent(func) {
         var oldonload = window.onload;
@@ -276,9 +283,7 @@ pTypeId = '';
     });
 
 </script>
-
-
-<input type="hidden" name="mobileReceivedCheck" value="false" id="mobileReceivedCheck"><input type="hidden" name="mobileProductNameSpace" value="" id="mobileProductNameSpace"><input type="hidden" name="stage" value="prod" id="stageValue"><input type="hidden" name="mobilePixelSession" value="7E36F31DA17F9972F634F7765798055C-n1.hdfc2" id="tyrooSession"><input type="hidden" name="mobilePropertyCity" value="" id="mobilePropertyCity"><input type="hidden" name="website" value="HDFC_WHITELABEL" id="global_website"><div class="dontshow">
+<input type="hidden" name="mobileReceivedCheck" value="false" id="mobileReceivedCheck"><input type="hidden" name="mobileProductNameSpace" value="" id="mobileProductNameSpace"><input type="hidden" name="productNameSpace" value="" id="productNameSpace"><input type="hidden" name="stage" value="prod" id="stageValue"><input type="hidden" name="jawrDebug" value="" id="jawrDebug"><input type="hidden" name="mobilePixelSession" value="0195A905E7B2FEBF5D7A46E67DA33765.hdfc1" id="tyrooSession"><input type="hidden" name="mobilePropertyCity" value="" id="mobilePropertyCity"><input type="hidden" name="website" value="HDFC_WHITELABEL" id="global_website"><input type="hidden" name="variantOptions" value="" id="variantOptions"><div class="dontshow">
     </div>
 
 
