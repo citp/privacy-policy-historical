@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the consumerbase.com privacy policy that was archived on 2013-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130904183455id_/http%3A//www.consumerbase.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerbase.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331021129id_/http%3A//www.consumerbase.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 The Privacy Policy was created in 2003 and most recently updated in November, 2010, and again in June, 2012.
 
-Organ Worldwide, LLC, Exact Data ConsumerBase LLC, ListFinder.com, NetPostmaster.com, FastCount.com as well as affiliates, divisions, contractors and all data sources and suppliers, all of which are referred to herein as "The Company” have a deep commitment to the privacy of every individual about whom it holds information. Since we gather individual consumer data, we want users to fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it, and how we correct or change it.
+Organ Worldwide, LLC, Exact Data LLC, ListFinder.com, NetPostmaster.com, FastCount.com as well as affiliates, divisions, contractors and all data sources and suppliers, all of which are referred to herein as "The Company” have a deep commitment to the privacy of every individual about whom it holds information. Since we gather individual consumer data, we want users to fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it, and how we correct or change it.
 
 Company asserts that protecting consumer privacy is our greatest concern. We pledge to conduct our business according to the following principles:
 
@@ -76,7 +76,6 @@ Our Privacy Advocate also ensures that all aspects of our privacy policy are uph
 
 Our Consumer Privacy Advocates may be reached via e-mail or postal mail:  
 Privacy Department  
-Exact Data ConsumerBase LLC  
-1603 Orrington Avenue, Floor 9  
-Evanston, IL 60201-3841  
+328 S Jefferson Street, Suite 550  
+Chicago, Il 60661-5614  
 [privacy@consumerbase.com](mailto:privacy@consumerbase.com)
