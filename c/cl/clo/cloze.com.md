@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cloze.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809051431id_/https%3A//www.cloze.com/app/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloze.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331020241id_/https%3A//www.cloze.com/app/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | Cloze
 
-_Last Updated: June 15, 2012_
+_Last Updated: January 27, 2014_
 
-This Privacy Policy sets forth Cloze, Inc.'s ("Cloze", "we", "us" or "our") privacy practices and procedures in connection with Cloze's website located at www.cloze.com and all related sub-domains, tools and services (the "Website" or "Site"). Access to the Website is provided pursuant to the Terms of Service accessible at our Website.  Capitalized terms used but not defined in this Privacy Policy, shall have the meaning set forth in the Terms of Service. This Privacy Policy applies solely to information collected by or in connection with this Site.  This policy does not apply to the practices of companies that Cloze does not administer, or to individuals that Cloze does not employ. 
+This Privacy Policy sets forth Cloze, Inc.'s ("Cloze", "we", "us" or "our") privacy practices and procedures in connection with Cloze's websites located at cloze.com, circulate.it and all related sub-domains, tools and services ("Website", "Websites", "Site" or "Sites"). Access to the Websites is provided pursuant to the Terms of Service accessible on our Websites.  Capitalized terms used but not defined in this Privacy Policy, shall have the meaning set forth in the Terms of Service. This Privacy Policy applies solely to information collected by or in connection with this Site.  This policy does not apply to the practices of companies that Cloze does not administer, or to individuals that Cloze does not employ. 
 
 ## Summary
 
@@ -18,7 +18,7 @@ Rather than a dense legalistic Privacy Policy we have tried to write a clear, op
 
 ●      We'll be open and transparent as to how we will use your information within Cloze
 
-Your privacy is important to us. This Privacy Policy explains our online information practices and the choices you can make about the way the information obtained through this Website is collected and used. This Privacy Policy applies only to personal information collected by Cloze from users of our Website. This Privacy Policy does not apply to information collected by Cloze in other ways, including offline. Our Website contains links to other websites operated by third parties. Cloze is not responsible for the online information practices or policies of such third party websites, and this Privacy Policy does not apply to those websites.
+Your privacy is important to us. This Privacy Policy explains our online information practices and the choices you can make about the way the information obtained through this and other Cloze Websites is collected and used. This Privacy Policy applies only to personal information collected by Cloze from users of our Websites. This Privacy Policy does not apply to information collected by Cloze in other ways, including offline. Our Websites contains links to other websites operated by third parties. Cloze is not responsible for the online information practices or policies of such third party websites, and this Privacy Policy does not apply to those websites.
 
 **Scope**
 
@@ -38,7 +38,7 @@ We use cookies and other technologies to keep track of your use of our Services 
 
 ●      You may opt-out of phone and postal marketing 
 
-●      By using our Website, you indicate your consent for Cloze to send cookies to your computer in order to uniquely identify your browser and improve the quality of our Services; however, you may turn off cookies in your browser though, in doing so, some or all of our Services may not work.
+●      By using our Websites, you indicate your consent for Cloze to send cookies to your computer in order to uniquely identify your browser and improve the quality of our Services; however, you may turn off cookies in your browser though, in doing so, some or all of our Services may not work.
 
 **Important Information**
 
@@ -52,7 +52,7 @@ By email to privacy@cloze.com.
 
 **The Cloze Services**
 
-The Website and the Cloze Mobile Apps, and all services provided by Cloze via the Website and/or Mobile Apps, now and as they become available (collectively, the "Services").  As part of the Services, Cloze organizes and provides efficient means to access and receive updates regarding your contacts that may have been previously dispersed over many different Third Party Platforms.  "Third Party Platforms" are social networking and email services such as Facebook, LinkedIn, Google, Twitter and other similar platforms, from which you authorize us to import your contacts and email.  Cloze's Services enable you to access, organize and receive updates about those with whom you have professional relationships, including publicly available information about your professional contacts. After your Cloze account has been setup, you may use the Services to receive updates automatically each time new information is discovered about your contacts' data from a Third Party Platform or by another Cloze user with whom you've shared contacts. 
+The Websites and the Cloze Mobile Apps, and all services provided by Cloze via the Websites and/or Mobile Apps, now and as they become available (collectively, the "Services").  As part of the Services, Cloze organizes and provides efficient means to access and receive updates regarding your contacts that may have been previously dispersed over many different Third Party Platforms.  "Third Party Platforms" are social networking and email services such as Facebook, LinkedIn, Google, Twitter and other similar platforms, from which you authorize us to import your contacts and email.  Cloze's Services enable you to access, organize and receive updates about those with whom you have professional relationships, including publicly available information about your professional contacts. After your Cloze account has been setup, you may use the Services to receive updates automatically each time new information is discovered about your contacts' data from a Third Party Platform or by another Cloze user with whom you've shared contacts. 
 
 **What Is Personal Information?**
 
@@ -62,7 +62,7 @@ The Website and the Cloze Mobile Apps, and all services provided by Cloze via th
 
 We collect personal information you voluntarily provide to us, such as when you register for an account and create a profile, send us an email or post information or other content to our Site, or when other users provide information about you.
 
-In order to use some features of this Website, we may ask you to complete a registration form and create a user name and password ("Cloze Login Credentials").  During any such registration, you are required to give truthful contact information (such as name and email address) in accordance with our Terms of Service.  We use this information to contact you about the Services on our Website in which you have expressed interest.  We also use it to create your user profile (your "Public Profile").  Your Public Profile contains personal information such as your first name, last name, organization, title, location, and a profile picture if available. A subset of your Public Profile information may be searched and viewed by other users of the Service.  Except for your name and organization, you may be able to remove some personal information from your Public Profile. If you apply for or purchase a Premium Service requiring billing or payment information on our Website, we require that you provide certain additional personal information, including your address, phone number, and credit card number ("Payment Information").  This information is necessary to process your requests and to contact you.
+In order to use some features of the Websites, we may ask you to complete a registration form and create a user name and password ("Cloze Login Credentials").  During any such registration, you are required to give truthful contact information (such as name and email address) in accordance with our Terms of Service.  We use this information to contact you about the Services on our Websites in which you have expressed interest.  We also use it to create your user profile (your "Public Profile").  Your Public Profile contains personal information such as your first name, last name, organization, title, location, and a profile picture if available. A subset of your Public Profile information may be searched and viewed by other users of the Service.  Except for your name and organization, you may be able to remove some personal information from your Public Profile. If you apply for or purchase a Premium Service requiring billing or payment information on our Websites, we require that you provide certain additional personal information, including your address, phone number, and credit card number ("Payment Information").  This information is necessary to process your requests and to contact you.
 
 Your data that you import in connection with the Services such as files, social networking data, and email archives that you choose to provide to us in order to create and update your Cloze account may contain personal information.  By default we will treat your data as confidential ("Private Data") except as described in this Privacy Policy. Your data will remain Private Data until you share or disclose it to another user. 
 
@@ -110,7 +110,7 @@ We do not sell, share, rent, or otherwise provide personal information to third 
 
 **What does Cloze do with the information you upload or connect?**
 
-By default your data that you import into Cloze in connection with your use of our Services is Private Data.  Private Data is maintained as confidential by Cloze except as described in this Privacy Policy and is stored securely on our servers.  After importing your data, we will process your data so that it is usable within the Cloze Services.  For instance, Cloze will calculate a "Cloze Score" for each contact record in your Cloze account based on factors determined from your data.  Your Cloze Scores may be viewed by your Cloze Connections. Your data and your Third Party Platforms may be periodically processed by Cloze as part of our routine operations to update your contact records in your Cloze account and Cloze Scores.  We may also use basic information, such as name, organization, title, and geographic location from your contact records in your Cloze account to create a "Contact Profile" for you and your contacts to allow other users to find and connect with you and your contacts.  Contact Profile information can be searched and viewed by other users of the Service. You may opt-out from the creation of Contact Profiles from your data through the Settings page on the Website  Whenever you enter data, we will make clear whether it is Private Data or Shared Data.  We may share your data with third parties as permitted in this Privacy Policy and as provided in our Terms of Service.
+By default your data that you import into Cloze in connection with your use of our Services is Private Data.  Private Data is maintained as confidential by Cloze except as described in this Privacy Policy and is stored securely on our servers.  After importing your data, we will process your data so that it is usable within the Cloze Services.  For instance, Cloze will calculate a "Cloze Score" for each contact record in your Cloze account based on factors determined from your data.  Your Cloze Scores may be viewed by your Cloze Connections. Your data and your Third Party Platforms may be periodically processed by Cloze as part of our routine operations to update your contact records in your Cloze account and Cloze Scores.  We may also use basic information, such as name, organization, title, and geographic location from your contact records in your Cloze account to create a "Contact Profile" for you and your contacts to allow other users to find and connect with you and your contacts.  Contact Profile information can be searched and viewed by other users of the Service. You may opt-out from the creation of Contact Profiles from your data through the Settings page on the Websites  Whenever you enter data, we will make clear whether it is Private Data or Shared Data.  We may share your data with third parties as permitted in this Privacy Policy and as provided in our Terms of Service.
 
 This Site is operated from and hosted on servers located in the United States.  Your information may be transferred around the world to countries in which we do business, including to affiliates, service providers or third parties, which may be located in jurisdictions that may not have the same level of data protection laws as those in your home country. 
 
@@ -136,9 +136,9 @@ We share personal information as follows:
 
 ●      in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where personal information may be disclosed or transferred as one of the business assets of us;
 
-●      information you share on the Website, such as when you transmit or post a message to another user through the Services; and
+●      information you share on the Websites, such as when you transmit or post a message to another user through the Services; and
 
-●      If you apply for or purchase a product or Premium Service requiring financial information on our Website; we may share your financial information with a third party payment processing service provider to process payment or we may direct you to provide that information directly to such third party.
+●      If you apply for or purchase a product or Premium Service requiring financial information on our Websites; we may share your financial information with a third party payment processing service provider to process payment or we may direct you to provide that information directly to such third party.
 
 In addition to the above, we promise that we will not share any of your Private Data, without your consent or except as described in this Privacy Policy, the Terms of Service or as required by law.
 
@@ -146,9 +146,9 @@ We are not responsible for the actions of service providers or other third parti
 
 **User Communications**
 
-Many communications you initiate through Cloze (e.g., an invitation sent to a non-User) will list your primary email address and name in the header of the message. Messages you initiate may also provide basic information about your network. Other communications that you initiate through the Cloze website, like a request for an introduction, will list your name as the initiator, but will not include your personal email address or contact information. Your Contact Profile will be shared with another user if both of you have indicated that you would like to establish contact with each other. Cloze may also share your Contact Profile with other users who we predict that you have a pre-existing relationship.
+Many communications you initiate through Cloze (e.g., an invitation sent to a non-User) will list your primary email address and name in the header of the message. Messages you initiate may also provide basic information about your network. Other communications that you initiate through the Websites, like a request for an introduction, will list your name as the initiator, but will not include your personal email address or contact information. Your Contact Profile will be shared with another user if both of you have indicated that you would like to establish contact with each other. Cloze may also share your Contact Profile with other users who we predict that you have a pre-existing relationship.
 
-You may choose to provide us with another person's e-mail address so that person may be invited to create an account on our Website. By providing us with another person's e-mail address, you represent to us that you have obtained the consent of the person concerned as regards such disclosure to us of that e-mail address. All invitees are provided with the option not to receive further invitations. We may disclose such information if required to do so in order to comply with legal process, as described above.
+You may choose to provide us with another person's e-mail address so that person may be invited to create an account on our Websites. By providing us with another person's e-mail address, you represent to us that you have obtained the consent of the person concerned as regards such disclosure to us of that e-mail address. All invitees are provided with the option not to receive further invitations. We may disclose such information if required to do so in order to comply with legal process, as described above.
 
 **Links to Other Sites**
 
@@ -176,7 +176,7 @@ You may review, update, correct or delete the personal information in your accou
 
 **Legal Disclaimer**
 
-We reserve the right to disclose your Personal Information as required by law and when we believe that disclosure is necessary to protect our rights or the rights, property or safety of others; to comply with a judicial proceeding, court order, or legal process served on us or the Website; or in connection with an actual or proposed corporate transaction or insolvency proceeding involving all or part of the business or asset to which the information pertains.
+We reserve the right to disclose your Personal Information as required by law and when we believe that disclosure is necessary to protect our rights or the rights, property or safety of others; to comply with a judicial proceeding, court order, or legal process served on us or the Websites; or in connection with an actual or proposed corporate transaction or insolvency proceeding involving all or part of the business or asset to which the information pertains.
 
 **Minors**
 
@@ -190,4 +190,4 @@ Cloze may update this Privacy Policy from time to time.  If we decide to change
 
 Please contact us at privacy@cloze.com if you have any questions about our Privacy Policy.
 
-Copyright © 2013 Cloze, Inc. All Rights Reserved.
+Copyright © 2014 Cloze, Inc. All Rights Reserved.
