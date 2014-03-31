@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the coupaw.com privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916221947id_/https%3A//www.coupaw.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupaw.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331102720id_/https%3A//www.coupaw.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy | Coupaw
-
-### Privacy Policy
 
 Dice Solutions LLC dba FamilyPet.com privacy policy is created to inform you of our policies and practices surrounding the collection and use of any information you provide to us. This privacy statement covers the Web site [www.Coupaw.com](https://web.archive.org/). If you have questions or concerns regarding this statement, you should first email [Privacy@coupaw.com](mailto:Privacy@coupaw.com).
 
