@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dmtc.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216172401id_/http%3A//www.dmtc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmtc.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331063344id_/http%3A//www.dmtc.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
