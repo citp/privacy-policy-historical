@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singsale.com.sg privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208195640id_/http%3A//www.singsale.com.sg/PrivacyPolicy.aspx%3Fcid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singsale.com.sg privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331110137id_/http%3A//www.singsale.com.sg/PrivacyPolicy.aspx%3Fcid%3D10) for the most accurate reproduction.*
 
 # Singsale.com.sg - Privacy
 
@@ -6,7 +6,11 @@ SINGSALE.COM.SG, referred to in this Privacy Policy as the “Website”, is an 
 
 In this Privacy Policy, "we" or "us" mean Ozsale and its affiliates and subsidiaries, including Singsale Pte. Ltd., which provides settlement and customer services on behalf of Ozsale in Singapore; and "you" means the user and/or customer of the Website.
 
-Ozsale values our relationship with you and the other users of this Website. We recognize that you may be concerned about our collection, use, and disclosure of your personally identifiable information that we may collect when you use the Website. Accordingly, we have implemented this Privacy Policy to inform you of the information that we collect from you, how we collect this information, and what we do with it after we collect it. If you have any questions or comments regarding this Privacy Policy, please contact us via our contact us page or call +65 6842 2919.
+Ozsale values our relationship with you and the other users of this Website. We recognize that you may be concerned about our collection, use, and disclosure of your personally identifiable information that we may collect when you use the Website. Accordingly, we have implemented this Privacy Policy to inform you of the information that we collect from you, how we collect this information, and what we do with it after we collect it. If you have any questions or comments regarding this Privacy Policy, please contact us via our contact us page, email contactus@singsale.com.sg or call +65 6842 2919.
+
+If you wish to unsubscribe from our daily notifications you can do so by clicking the unsubscribe link at the bottom of any of our email notifications or by visiting www.singsale.com.sg/unsubscribe.aspx.
+
+Singsale is located at; Block 3 Kallang Sector #05-03 Singapore 349278
 
 ## Membership Registration
 
