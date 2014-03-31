@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxl-sale.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118180117id_/http%3A//www.xxl-sale.com/legal.html%23Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxl-sale.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331072122id_/http%3A//www.xxl-sale.com/legal.html%23Privacy-policy) for the most accurate reproduction.*
 
 # xxl-sale.com - Price Comparison, test reports and product ratings on XXL-Sale.com. Find the best prices now! - Legal
 
