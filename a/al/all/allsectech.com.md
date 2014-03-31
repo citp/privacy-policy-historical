@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allsectech.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103172912id_/http%3A//www.allsectech.com/Allsec/disclaimer.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allsectech.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331063801id_/http%3A//www.allsectech.com/Allsec/disclaimer.aspx) for the most accurate reproduction.*
 
 # Allsec Technologies | Privacy
 
