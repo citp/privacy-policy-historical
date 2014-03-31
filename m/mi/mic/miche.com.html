@@ -1,0 +1,449 @@
+<!--The following is the downloaded HTML source of the miche.com privacy policy that was archived on 2014-03-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331190327id_/https%3A//miche.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	
+<meta id="SERVER_IS_UP" content="Server IP(s): .189">
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>
+		Privacy Policy
+	</title>
+	<link rel="icon" type="image/x-icon" href="/Resource/favicon.ico">
+    <link href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.21/themes/smoothness/jquery-ui.css" rel="stylesheet">
+
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script>(window.jQuery)||document.write('<script src="/scriptbundles/jquery"><\/script>');</script><script src="/scriptbundles/jquery"></script>
+
+	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.21/jquery-ui.min.js"></script>
+<script>(window.jQuery.ui)||document.write('<script src="/scriptbundles/jqueryui"><\/script>');</script>
+
+	<script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
+<script>(window.jQuery.validator)||document.write('<script src="/scriptbundles/jqueryval"><\/script>');</script>
+
+	<script src="//ajax.aspnetcdn.com/ajax/knockout/knockout-2.2.1.js"></script>
+<script>(window.ko)||document.write('<script src="/scriptbundles/knockout"><\/script>');</script><script src="/scriptbundles/knockout"></script>
+
+    <script src="/scriptbundles/site?v=xuCVZwfpa4JxGm90qjymeLtjCmBUlPf591zVDTgrYnY1"></script>
+
+    
+
+
+<link rel="Stylesheet" type="text/css" href="/Resource/Content/CSS/mainStructure.css">
+<link rel="Stylesheet" type="text/css" href="/Resource/Content/CSS/mainTheme.css">
+
+<!--option1-->
+    <script type="text/javascript">
+		//<![CDATA[
+		$(function () {
+			$.fn.showLoading.defaults.imageUrl = '/Resource/Content/Images/loading.gif';
+
+			// setup async exception handling
+			$(document).ajaxComplete(function (e, request, settings) {
+				var isErrorPage = /<input *type *= *"hidden" *value *= *"ErrorPage" *\/>/i.test(request.responseText);
+				if (isErrorPage) {
+					window.location = '/Error/';
+				}
+			});
+
+			var myClose = function (hash) {
+				hash.w.fadeOut('2000', function () {
+					if ($('#DoNotReloadPrevious').length > 0) {
+						$.post('/Cart/SetOrderGiven', { action: "get" });
+					}
+					hash.o.remove();
+				});
+			};
+			$('#GetLastPendingOrderByAccountDiv').jqm({ onHide: myClose });
+			showLastCart();
+
+
+
+
+			$('#languagePicker .languageSelector').click(function () {
+				var languageId = $(this).attr('id').replace(/\D/g, '');
+				if (languageId != '1') {
+					$.post('/SetLanguage', { languageId: languageId }, function () {
+						window.location.reload();
+					});
+				}
+			});
+
+
+
+		});
+
+		function showLastCart() {
+			var isReload = !!$.cookie('isReload');
+			if (isReload) {
+				$.post('/Cart/GetLastPendingOrderByAccount', { action: "get" }, function (data) {
+					$('#GetLastPendingOrderByAccountDiv').html(data);
+					if ($('#previousOrderDiv').children().length > 0) {
+						$('#GetLastPendingOrderByAccountDiv').jqmShow();
+					}
+					$.cookie('isReload', null);
+				});
+			}
+		}
+
+		function loggedIn(name) {
+			$('#loginContainer').hide(300);
+
+			NS.get({
+				url: '/Static/LoggedIn',
+				success: function (response) {
+					if (response != '') {
+						$('#loggedIn').html(response);
+					}
+				},
+				complete: function () {
+					$('#loggedIn').show();
+					$('#loggedOut').hide();
+					$('#loggedInName').text(name);
+					showLastCart();
+				}
+			});
+		}
+
+		function openLink(response) {
+			if (parseBool(response.openNewWindow) == true) {
+				loggedIn(response.name);
+				window.open(response.returnUrl);
+			} else {
+				loggedIn(response.name);
+				window.location = response.returnUrl;
+			}
+		}
+
+		function showLoading(element, css) {
+			if (!element.jquery)
+				element = $(element);
+			var loading = $('<img src="/Resource/Content/Images/Icons/loading-blue.gif" alt="loading..." />');
+			if (css) {
+				loading.css(css);
+			}
+			else if (element.height()) {
+				loading.css('height', element.height() + 'px');
+			}
+			element.after(loading).hide();
+		}
+
+		function hideLoading(element) {
+			if (!element.jquery)
+				element = $(element);
+			element.show().next().remove();
+		}
+		
+		//]]>
+	</script>
+	<script type="text/javascript">
+//<![CDATA[
+    $(function () {
+        $('#txtUsername,#txtPassword').keyup(function (e) {
+            if (e.keyCode == 13)
+                $('#btnLogin').click();
+        });
+        //$('#loginContainer').hide();
+        $('#btnShowLogin').click(function (e) {
+            $('#loginContainer').show(300, function () {
+                $('#txtUsername').focus();
+            });
+            e.stopPropagation();
+            e.stopImmediatePropagation();
+            $(document).mousedown(function (e) {
+                var resPos = $('#loginContainer').offset();
+                resPos.bottom = resPos.top + $('#loginContainer').outerHeight();
+                resPos.right = resPos.left + $('#loginContainer').outerWidth();
+
+                if (e.pageY < resPos.top || e.pageY > resPos.bottom || e.pageX < resPos.left || e.pageX > resPos.right) {
+                    $('#loginContainer').hide(300);
+                    $(document).unbind('mousedown');
+                }
+            });
+        });
+        $('#btnLogin').click(function () {
+            var t = $(this);
+            showLoading(t, { float: 'left' });
+            $('#invalidLogin').hide();
+            NS.post({
+                url: '/Login',
+                data: {
+                    username: $('#txtUsername').val(),
+                    password: $('#txtPassword').val()
+                },
+                success: function (response) {
+                    hideLoading(t);
+                    if (response.result) {
+                        $.cookie('isReload', 'True');
+                        if (response.returnUrl) {
+                            openLink(response);
+                        } else if (/^\/Shop/i.test(window.location.pathname) || response.reload)
+                            window.location.reload();
+                        else {
+                            loggedIn(response.name);
+                        }
+                    } else {
+                        $('#invalidLogin').show();
+                    }
+                },
+                error: function () {
+                    hideLoading(t);
+                    $('#invalidLogin').show();
+                }
+            });
+        });
+    });
+//]]>
+</script>
+
+	
+    <!-- Page ID: 161 -->
+
+	
+<!--Below is the script that should be implemented right after deployment--><script type="text/javascript" src="/FileUploads/CMS/Documents/CWS_DefaultScript.js">
+</script><!--Below is the commented out new framework css files waiting until ready to be viewable-->
+<link href="/FileUploads/CMS/Documents/DefaultTheme.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/FileUploads/CMS/Documents/pwsUpdates.css" rel="stylesheet" type="text/css">
+<!--Below is the temporary call to the PWS files until the new framework is ready to be used--><!--<link href="https://base.miche.com/Resource/Content/CSS/Skin-Base.css" rel="stylesheet" type="text/css" />--><style type="text/css">
+#SiteUserUtilities {float:none;margin:-28px auto 0;} #SiteUserUtilities .Button {padding:0;} .SiteInfo .dropDown {top:25px;}
+
+.loginForm #chkOptOut, .loginForm label[for="chkOptOut"] {display:none;}
+/*Modal CSS required after an Update to server css files*/
+.suggestedAddressContainer .icon-label {display: none;}
+.FL.mt5.upsValidationNote {float: right;}
+#ContentWrap .LModal .mContent {background: none repeat scroll 0 0 #FFFFFF;}
+.mContent h3 {background: none repeat scroll 0 0 #888888;font-size: 13px;font-weight: bold;}
+.useTypedAddress .FormContainer.pad5 {margin: 0;padding:0;}
+#UnverifiedAddress .splitCol.useTypedAddress {padding: 0;width: 53%;}
+.Button.useTypedAddress {margin: 20px 10px;float:left;}
+/* Promotions Free Gift Modal Temporary Fix */
+#SelectPromotionProducts {
+    position:fixed;
+    left:10%  !important;
+    right:10%;
+    max-height:70%;
+    overflow:auto;
+    width:auto !important;
+}
+.promoProductsWrap {
+    height:350px !important;
+}
+
+#SelectPromotionProducts h3 {
+	font-family:ColaborateRegular, Arial, Helvetica, Tahoma, sans-serif;
+	font-size:14px;
+}</style>
+<meta content="fhVZ3Zp3PCrZe2nD_PcO81bFj8c" name="alexaVerifyID">
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"hQh4j1a4ZP00yv", domain:"miche.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=hQh4j1a4ZP00yv" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript --></head>
+<body>
+	<div id="SiteContain">
+		<div id="PageContain">
+			<div id="TopPane">
+				<div class="TopInner">
+					<div id="Logo">
+						<div class="imagewrapper"><a href="/Home"><img src="/FileUploads/CMS/Images/1x1PixelPlaceholder.png" alt=""></a></div>
+					</div>
+					<div class="TagLine btCorp">
+						
+					</div>
+					<!-- shopper, pc, party host, registered users -->
+					<div id="SiteUserUtilities">
+						<div class="jqmWindow LModal" id="GetLastPendingOrderByAccountDiv" style="z-index: 3000;
+							display: none;">
+						</div>
+						<ul class="flatList inlineNav SiteInfo">
+							<li id="loggedIn" class="AccountMenu mr10">
+    <span id="anonUser" class="anonGreet">Welcome!</span>
+    <div class="userLinks anonLinks">
+        <ul class="flatList" id="VisitorLinks">
+            <li class="ulLogIn"><a href="/Login">Please log in</a></li>
+            <li class="ulCart"><a href="/Cart">Cart</a></li>
+        </ul>
+    </div>
+<div id="loginContainer" class="UI-darkBg pad5 brdrAll brdr LoginContainer" style="display: none;">
+    <div class="UI-lightBg brdrAll brdr pad5 loginContainerInner">
+        <h1>
+            Log in to your account</h1>
+        <p>
+            <input type="text" id="txtUsername" placeholder="Username" value=""></p>
+        <p>
+            <input type="password" id="txtPassword" placeholder="Password" value=""></p>
+        <div id="invalidLogin" style="display: none;" class="clr pad10 error">
+            Invalid login.</div>
+        <div class="clr SubmitForm">
+            <a href="javascript:void(0);" id="btnLogin" class="FR Button btnLogIn"><span>Login</span></a>
+                <a href="/ForgotPassword" class="FL mr10 Button MinorButton btnSignUp">
+                    <span>Forgot your password?</span></a>
+            <a href="/Login" class="FL Button MinorButton btnSignUp"><span>Sign up</span></a>
+            <span class="clr"></span>
+        </div>
+    </div>
+</div>
+							</li>
+						</ul>
+						<span class="clr"></span>
+					</div>
+						<div id="SiteNav">
+							<ul class="navigation"><li class="navigationItem"><a href="/why-miche"><span>why miche?</span></a></li><li class="navigationItem"><a href="/join-us"><span>join us</span></a><ul class="navigation"><li class="navigationItem"><a href="/the-miche-lifestyle"><span>the miche lifestyle</span></a></li><li class="navigationItem"><a href="/join-the-miche-team"><span>join the miche team</span></a></li><li class="navigationItem"><a href="/starter-kit"><span>starter kit</span></a></li></ul></li><li class="navigationItem"><a href="/miche-party"><span>host a party</span></a><ul class="navigation"><li class="navigationItem"><a href="/hostess-benefits"><span>hostess benefits</span></a></li><li class="navigationItem"><a href="/miche-party-ideas"><span>miche party ideas</span></a></li><li class="navigationItem"><a href="/miche-party/miche-promotions"><span>Miche Promotions</span></a></li></ul></li><li class="navigationItem"><a href="/Home"><span><img src="/FileUploads/CMS/Images/logo.png" alt="Miche"></span></a></li><li class="navigationItem"><a href="/locate?intent=Purchase"><span>shop</span></a><ul class="navigation"><li class="navigationItem"><a href="/shop-egiftcard"><span>eGift Card</span></a></li></ul></li><li class="navigationItem"><a href="/about-us"><span>about us</span></a><ul class="navigation"><li class="navigationItem"><a href="/giving-back"><span>giving back</span></a><ul class="navigation"><li class="navigationItem"><a href="/giving-back/the-hope-shell"><span>the hope shell</span></a></li><li class="navigationItem"><a href="/giving-back/project-6"><span>project 6</span></a></li><li class="navigationItem"><a href="/giving-back/cancer-research"><span>Cancer Research</span></a><ul class="navigation"><li class="navigationItem"><a href="/giving-back/cancer-research/hope-lives"><span>Hope Lives</span></a></li></ul></li><li class="navigationItem"><a href="/giving-back/you"><span>You</span></a></li><li class="navigationItem"><a href="/giving-back/charity"><span>Charity</span></a></li></ul></li><li class="navigationItem"><a href="/in-the-news"><span>in the news</span></a></li><li class="navigationItem"><a href="/careers"><span>careers</span></a></li><li class="navigationItem"><a href="/faq"><span>faq</span></a></li></ul></li><li class="navigationItem"><a href="/contact"><span>contact</span></a><ul class="navigation"><li class="navigationItem"><a href="/contact"><span>contact us</span></a></li><li class="navigationItem"><a href="http://blog.michebag.com/"><span>our blog</span></a></li><li class="navigationItem"><a href="http://facebook.com/OfficialMiche"><span>facebook</span></a></li><li class="navigationItem"><a href="http://twitter.com/#!/michedotcom"><span>twitter</span></a></li></ul></li></ul>
+						</div>
+				</div>
+			</div>
+			<div id="ContentWrap">
+				<div id="ContentInnerWrap">
+					
+<div id="OneColWrap">
+    <div class="OneColumnContent">
+        <div class="body"><div class="body">
+	<style type="text/css">
+.btnSignUp {
+display:none;
+}	</style>
+	<div id="main-container">
+		<h1 style="text-align:left;" class="jubilat purple">
+			Privacy Policy</h1>
+		<p class="benton">
+			<span class="pullout"><strong>Miche, LLC, and its affiliated entities (referred to herein collectively as “Miche”, “we,” “us” and “our”) is committed to protecting your privacy as a user (“User”) of Miche’s website, http://www.miche.com (“Website”). </strong></span> As described below in this privacy policy (“Privacy Policy”), we go to great lengths to protect User information, and use the information we collect about Users to create profiles, to process product orders and to provide a more effective and personalized User experience on the Website.</p>
+	<p class="benton">
+			<span class="pullout"><strong>Information Collection.</strong></span> Miche may collect two different types of information, Personally Identifiable Information (“PII”) and Non-Personally Identifiable Information (“Non-PII”). PII is information that identifies the User as an individual (e.g., name, address, telephone number, email address, credit card information, billing address and shipping information.) Non-PII is generic information that does not identify the User personally (e.g., IP addresses, demographic information, User behavior data from web interaction metrics tools and any other information that does not reveal a User’s personal identity.) Miche reserves the right to collect PII about any Website User. Miche may collect PII and Non-PII from other sources as well, including information provided directly to us through in-person discussions, telephone conversations and electronic or other written communications. Miche will use commercially reasonable efforts to treat both types of information with their due care and use such only as provided for in these Privacy Policies or as otherwise allowable, proper and deemed necessary by Miche in its reasonable discretion.</p>
+		<p class="benton">
+			<span class="pullout"><strong>How We Use the Information We Collect.</strong></span> When a User places a product order, for example, we need to know certain types of potentially sensitive PII (e.g., User’s name, email address, mailing address, phone number, credit card number and expiration.) We may use the information Users provide to us in a number of ways, including one or more of the following:</p>
+		<ul class="benton" style="list-style:disc outside none;padding:0;margin-left:15px;">
+			<li style="padding:0;list-style:outside;">
+				Enforce Miche’s Terms and Conditions of Use;</li>
+			<li style="padding:0;list-style:outside;">
+				Create and verify a new User’s account profile;</li>
+			<li style="padding:0;list-style:outside;">
+				Process a submitted Agreement;</li>
+			<li style="padding:0;list-style:outside;">
+				Fulfill a product order;</li>
+			<li style="padding:0;list-style:outside;">
+				Provide User with information and customer service in response to User’s specific request or respond to any other User inquiries;</li>
+			<li style="padding:0;list-style:outside;">
+				Analyze selling trends and customer behavior;</li>
+			<li style="padding:0;list-style:outside;">
+				Provide User with information on Miche’s services, either on a personalized or aggregate basis;</li>
+			<li style="padding:0;list-style:outside;">
+				Improve the content, user interface and other features on the Website; OR</li>
+			<li style="padding:0;list-style:outside;">
+				Resolve disputes, prevent and detect fraud and otherwise help Miche to comply with applicable laws.</li>
+		</ul>
+	<p class="benton">
+			Note: Miche will not share PII about User with an unaffiliated third party who is not performing services for us without first obtaining User’s permission, except if such sharing is otherwise permitted by this Privacy Policy. We may also release information in good faith as permitted by contractual agreement, to our affiliates, third parties in connection with the provision of services to User, government entities and regulatory bodies, or those with whom Users have specifically requested us to share information.</p>
+		<p class="benton">
+			Miche requires third parties who perform services for us to agree to treat PII about User confidentially and securely.</p>
+		<p class="benton">
+			Notwithstanding any other provision of this Privacy Policy or the Terms and Conditions of Use to the contrary, we further reserve the right to disclose and use a User’s PII if we believe that we are required to do so: (&nbsp;a&nbsp;) by law; (&nbsp;b&nbsp;) in response to legal process, for example, in response to a court order or a subpoena; (&nbsp;c&nbsp;) in response to a law enforcement agency’s request; (&nbsp;d&nbsp;) to protect our business operations and Product distribution networks; (&nbsp;e&nbsp;) to protect the rights, privacy, safety or property of Miche, User or others; or (&nbsp;f&nbsp;) to permit us to pursue available remedies or limit the damages we may sustain. Because Non-PII does not personally identify User, we reserve the right to use Non-PII, and to disclose Non-PII to third parties, for any purpose deemed necessary and proper by Miche. Notwithstanding the foregoing, unless otherwise restricted by law, regulation, contract or professional standards, Miche may transfer PII about User outside of the United States to other countries for the purposes described in this Privacy Policy.</p>
+		<p class="benton">
+			NOTE THAT EXCEPT AS OTHERWISE EXPRESSLY STATED HEREIN, THIS PRIVACY POLICY DOES NOT ADDRESS THE PRIVACY PRACTICES OR POLICIES OF THIRD PARTIES, INCLUDING WITHOUT LIMITATION, INDEPENDENT MICHE REPRESENTATIVES.</p>
+		<p class="benton">
+			<span class="pullout"><strong>Consent.</strong></span> By using the Website, User agrees to the terms of this Privacy Policy, including without limitation, Miche’s collection and use of PII and Non-PII as set forth in this Privacy Policy. If we decide to change our Privacy Policy, we will post changes on this page and note the effective date so that Users are always aware of what information we collect and how we use it. If we materially change our practices regarding collection or use of a User’s PII, such User’s PII will continue to be governed by the Privacy Policy under which is was collected unless User has been provided notice, and has not objected to such change.</p>
+		<p class="benton">
+			<span class="pullout"><strong>Children’s Privacy.</strong></span> Neither Miche nor the Website intentionally targets, solicits or collects PII from children under 13 years of age.</p>
+		<p class="benton">
+			<span class="pullout"><strong>Security.</strong></span> Whether User places a product order or simply creates a user-profile, we use industry-standard secure server software (SSL) and encrypt the information User inputs before it is sent to us. In addition, we use additional commercially reasonable measures to protect the customer data against unauthorized access.</p>
+		<p class="benton">
+			<span class="pullout"><strong>Amendments to the Privacy Policy.</strong></span> Miche reserves the right to change this Privacy Policy as it sees fit. Any Amendments to the Privacy Policy will become effective upon the posting of the revised Privacy Policy on the Website, via email to the User, or as otherwise allowed by applicable law. We recommend that User checks the Website regularly to view recent changes or updates.</p>
+		<p class="benton">
+			<span class="pullout"><strong>Cookies.</strong></span> “Cookies” are small pieces of information that are stored by a User’s web browser on their computer when they visit almost any website. Our Cookies enable us to personalize a User’s visits to their interests and preferences. Most web browsers automatically accept Cookies. However, anyone can usually change the web browser to disable Cookies, if so desired.</p>
+	<p class="benton">
+			<span class="pullout"><strong>Linking.</strong></span> Links to third party websites may be provided on the Website. We have not reviewed all linked third party sites. We do not control and are not responsible for any of these websites and their content. We do not endorse or make any representations about such websites or any information or materials found there or any results that may be obtained from using them.</p>
+		<p class="benton">
+			<span class="pullout"><strong>Contacting You.</strong></span> Miche utilizes different methods of responding to information requests, such as mailing brochures or replying via email or telephone. By using our service to request information from Miche, you consent to Miche (or our partners and vendors) to contact you using the methods of their choice, to fulfill your information request, even if you may be listed on the National Do-Not-Call Registry. Miche reserves the right to contact you (or our partners and vendors to contact you) in the future to help improve our Website, operations or to introduce new services, such as surveys, to ensure that we have followed up with your information requests in a timely manner.</p>
+		<p class="benton">
+			<span class="pullout"><strong>Limitation of Liability.</strong></span> Under no circumstances, including negligence, shall Miche or anyone else involved in administering or distributing the Website be liable for any direct, indirect, incidental, special or consequential or exemplary damages that arise under the Privacy Policy or result from the use or mis-use of User’s PII or Non-PII, including but not limited to loss of revenue or lost profits, or losses that result from mistakes, omissions, interruptions, deletion of files or email, errors, defects, viruses, delays in operation or transmission, or any failure of performance. In no event shall Miche be liable to User for more than the aggregate amounts paid to Miche for the use of the Website.</p>
+		<p class="benton">
+			<span class="pullout"><strong>Spam and Electronic Messages.</strong></span> Under no circumstances shall Users of the Website send commercial electronic mail messages to other Users as defined in the new Federal spam law, the CAN-SPAM Act of 2003 (the “Act”). For clarification, this does not prohibit User from sending transactional or relationship messages as defined in the Act. In addition, except as expressly authorized by Miche, any and all electronic messages initiated or sent by User or on User’s behalf must identify User as the sender and may not suggest or imply, or mislead or be likely to mislead a recipient into believing that a Miche site is the sender or sponsor of, or has procured User to send, such electronic messages. To be clear, User may not use a return address, subject heading, header information or message contents that misleads or confuses or is likely to mislead or confuse a recipient as to User being the sender.</p>
+		<p class="benton">
+			<span class="pullout"><strong>Indemnification.</strong></span> User agrees to indemnify and hold harmless Miche, its affiliates, and its directors, officers, managers, employees, agents, attorneys and licensors, from and against all losses, expenses, damages and costs, including reasonable attorneys’ fees, resulting from any violation of these Privacy Policies or other applicable agreements between User and Miche. We reserve the right, but not the obligation, to take over the exclusive defense of any claim for which we are entitled to indemnification under the Privacy Policy. In such event, User shall provide us with such cooperation as is reasonably requested by us.</p>
+		<p class="benton">
+			<span class="pullout"><strong>Contact Us.</strong></span> If there are questions regarding this Privacy Policy, User may contact us by using the information below. Under California Civil Code Section 1789.3, California Users are entitled to the following consumer rights notice:</p>
+		<p class="benton">
+			If you have a question or complaint regarding the Website, please send an email to: support@miche.com. User may also contact us by writing to Miche, LLC 10808 South River Front Parkway, Suite #150, South Jordan, Utah 84095, Attn: Miche Public Affairs, or by calling Miche’s corporate offices at: 801-566-4243. California residents may reach the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by mail at: 1625 North Market Blvd., Sacramento, CA 95834, or by telephone at: 916.445.1254 or 800.952.5210.</p>
+		<p class="benton">
+			<span class="pullout"><strong>Effective Date.</strong></span> The Privacy Policy was last modified on January 31, 2012.</p>
+	</div>
+</div>
+</div>
+    </div>
+</div>
+
+					<span class="ClearAll"></span>
+				</div>
+			</div>
+				<div id="Footer" class="Footer">
+					<div id="FooterInner">
+						<div class="body"><div id="footer-top">
+	<div class="box">
+		<h2>
+			Buy Miche Products</h2>
+		<p>
+			Can't wait and want to get your Miche now? <a href="/locate?intent=Purchase" target="_parent">Click here</a> to buy from a Representative in your area.</p>
+	</div>
+	<div class="box">
+		<h2>
+			Join Our Team!</h2>
+		<p>
+			Become a Representative in your area. It's easy to get going! <a href="/locate?intent=InquireEnroll" target="_parent">Click here</a> to find out how.</p>
+	</div>
+	<div class="box">
+		<h2>
+			Host a Miche Party</h2>
+		<p>
+			Interested in throwing a Miche Party? <a href="/locate?intent=InquireHost" target="_parent">Click here</a> to schedule yours today.</p>
+	</div>
+</div>
+<div id="footer-bottom">
+	<div class="shadow">
+		&nbsp;</div>
+	<p>
+		<a href="/why-Miche" target="_parent"><span style="display:inline-block;width:90px;padding-bottom:5px;color:#a9c398;">Why Miche?:</span></a><a href="/why-miche" target="_parent">Why Miche?</a><br>
+		<a href="/join-us" target="_parent"><span style="display:inline-block;width:90px;padding-bottom:5px;color:#a9c398;">Join Us:</span></a><a href="/the-miche-lifestyle" target="_parent">The Miche Lifestyle</a> &nbsp; <a href="/join-the-miche-team" target="_parent">Join the Miche Team</a> &nbsp; <a href="/starter-kit" target="_parent">Starter Kit</a><br>
+		<a href="http://www.miche.com/locate?intent=InquireHost" target="_parent"><span style="display:inline-block;width:90px;padding-bottom:5px;color:#a9c398;">Host a Party:</span></a><a href="/hostess-benefits">Hostess Benefits</a> &nbsp; <a href="/miche-party-ideas">Miche Party Ideas</a> &nbsp; <a href="/miche-party/miche-promotions">Miche Promotions</a><br>
+		<a href="/about-us" target="_parent"><span style="display:inline-block;width:90px;padding-bottom:5px;color:#a9c398;">About Us:</span></a><a href="/giving-back" target="_parent">Giving Back</a> &nbsp; <a href="/careers" target="_parent">Careers</a> &nbsp; <a href="/in-the-news" target="_parent">In the News</a> &nbsp; <a href="/faq" target="_parent">FAQ</a> &nbsp; <a href="/international" target="_parent">International</a><br>
+		<a href="/contact" target="_parent"><span style="display:inline-block;width:90px;padding-bottom:5px;color:#a9c398;">Contact:</span></a><a href="http://blog.michebag.com/" target="_blank">Our Blog</a> &nbsp; <a href="http://facebook.com/OfficialMiche" target="_blank">Facebook</a> &nbsp; <a href="http://twitter.com/#!/michedotcom" target="_blank">Twitter</a><br>
+		<a href=""><span style="display:inline-block;width:90px;color:#a9c398;">Policies:</span></a><a href="/return-policy" target="_parent">Return Policy</a> &nbsp; <a href="/privacy-policy" target="_parent">Privacy Policy</a> &nbsp; <a href="/terms-and-conditions" target="_parent">Terms and Conditions</a></p>
+	<p>
+		Miche is a pending member of the DSA and subscribes, supports and complies with the DSA Code of Ethics. <a href="http://www.dsa.org/ethics/" target="_blank">Click here</a> to learn more.</p>
+	<p>
+		© 2014 Miche Bag, LLC, all rights reserved. Miche® and Endless Possibilities® are registered trademarks of Miche Bag, LLC. The handbags shown herein are the subject of one or more of the following patents or patent applications: US D610,801, US D611,705, US D613,062, US D637,810, US D636,988, US D637,399, US D639,551, US D659,389, US D658,366, US D640,871, US D638,627, US D665,176, US D661,089, US D665,176, US D692,653, US 6,186,201, CA 128738, CA 132720, CA 132728, CA 2679264, CN ZL 200830142455.2, BR DI 6900369-6, European Patent No. 2,163,169, EU 001011043-0001-0004, AU 2009100633, US 6,186,201, EU 001727306-(0001-0007), EU 001727306-(0008-0028), AU 331296, AU 331477, AU 331478, CN XL 201030114904.X, JP 1406686, JP 1400702, or one or more U.S. or international patents pending.</p>
+</div>
+<script type="text/javascript">
+        var _gaq = _gaq || [];
+        
+_gaq.push(['_setDomainName', 'none']);_gaq.push(['_setAccount', 'UA-1361199-23']);_gaq.push(['_trackPageview']); _gaq.push(['_setAllowLinker', true]);_gaq.push(['_setCustomVar', 1, 'hostName', '10.0.3.35', 3]); _gaq.push(['b._setDomainName', 'none']);_gaq.push(['b._setAccount', 'UA-37841239-5']);_gaq.push(['b._trackPageview']); _gaq.push(['b._setAllowLinker', true]);_gaq.push(['b._setCustomVar', 1, 'hostName', '10.0.3.35', 3]);         
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script></div>
+						<div id="FooterLinks">
+							
+							<span class="clr"></span>
+						</div>
+						<span class="clr"></span>
+					</div>
+				</div>
+		</div>
+	</div>
+	<img src="/Resource/Content/Images/loading.gif" alt="" style="visibility:hidden;position:absolute;top:-100px;left:-100px;">
+	
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        
+_gaq.push(['_setDomainName', 'none']);_gaq.push(['_setAccount', 'UA-1361199-23']);_gaq.push(['_trackPageview']); _gaq.push(['_setAllowLinker', true]);_gaq.push(['_setCustomVar', 1, 'hostName', 'miche.com', 3]); _gaq.push(['b._setDomainName', 'none']);_gaq.push(['b._setAccount', 'UA-37841239-5']);_gaq.push(['b._trackPageview']); _gaq.push(['b._setAllowLinker', true]);_gaq.push(['b._setCustomVar', 1, 'hostName', 'miche.com', 3]);         
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+</body></html>
