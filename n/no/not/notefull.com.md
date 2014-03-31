@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the notefull.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927225350id_/https%3A//www.notefull.com/content.php%3FpgID%3D406) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notefull.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331035101id_/https%3A//www.notefull.com/content.php%3FpgID%3D406) for the most accurate reproduction.*
 
 # NOTEFULL
+
+Great news: We've designed a new "How To Choose Your Program Page" to make the process of registering for the right program even easier. _**[Please click here to check it out!](https://www.notefull.com/content.php?pgID=251)**_
+
+### Privacy Policy
 
 You're privacy is very important to us. We want to make sure that you have a great, positive experience at NoteFull. Below you'll find information that is relevant to how we use your information to better help you succeed.
 
@@ -22,24 +26,46 @@ Third party vendors, including Google, may show you ads on other sites on the In
 
 The contents of this statement may be altered at any time, at our discretion. If you have any questions regarding the privacy policy of this website then you may contact us using the contact form on this website.  
   
+---  
+  
 ### COMMENTS
 
 * * *
 
-2 entries 
+4 entries 
 
 * * *
 
-|  LeahFromNoteFull wrote on Tuesday July 30, 2013 11:08am 
+| 
+
+[Reply](https://web.archive.org/content.php?pgID=406&cid=40617&action=reply#comments)
+
+najat wrote on Sunday March 30, 2014 12:12pm   
+Hey, I lost my password and I forgot the zip code that I wrote .And I aant tonight to buy the coyrse but I can not enter to.my account .Please help me because I want to get discount for early bird . Thanks my e-mail najat_2005@yahoo.com   
+---  
+  
+* * *  
+  
+[Reply](https://web.archive.org/content.php?pgID=406&cid=39927&action=reply#comments)
+
+Madhu Vanga wrote on Saturday February 1, 2014 5:17pm   
+hey i am Madhu vanga , i registered with you on dec 31st and i took my toefl on june 17th 2014 my scores are R-24, L-22, S-24 AND W-22 . I am taking once again toefl on feb 8th so please help me out for crossing that dpeaking and writing to 26 and 24 for my pharmacy license. please help me out please.   
+  
+* * *  
+  
+[Reply](https://web.archive.org/content.php?pgID=406&cid=38099&action=reply#comments)
+
+LeahFromNoteFull wrote on Tuesday July 30, 2013 11:08am 
 
 **DAN SU said**  
 " _Can I return my vocabulary course? Because I don't like to learn word in that way, maybe it more difficult for me to learn in English. And I bought this e-book just now._ "
 
 Hello Dan, Thanks for posting. We completely understand your situation and will review it carefully. Please send an email with your request, including your first and last name and the email address on your account, to StudentHelp@NoteFull.com. We look forward to helping you.   
----  
   
 * * *  
   
+[Reply](https://web.archive.org/content.php?pgID=406&cid=38071&action=reply#comments)
+
 DAN SU wrote on Sunday July 28, 2013 6:23pm   
 Can I return my vocabulary course? Because I don't like to learn word in that way, maybe it more difficult for me to learn in English. And I bought this e-book just now.   
   
