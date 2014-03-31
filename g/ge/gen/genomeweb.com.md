@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the genomeweb.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124082945id_/http%3A//www.genomeweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genomeweb.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331145426id_/http%3A//www.genomeweb.com/privacy) for the most accurate reproduction.*
 
 # GenomeWeb's Privacy Policy | GenomeWeb | GenomeWeb
 
-GenomeWeb values your privacy. This statement explains what information GenomeWeb gathers from you through our website and how we may use it. By using genomeweb.com you indicate your acceptance of GenomeWeb's privacy policy. 
+GenomeWeb values your privacy. This statement explains what information GenomeWeb gathers from you through our website and how we may use it. By using genomeweb.com you indicate your acceptance of GenomeWeb's privacy policy.
 
 **What information do we collect?**
 
@@ -24,15 +24,13 @@ Any of the information we collect from you may be used in one of the following w
 
 • To administer a contest, promotion, survey or other site feature
 
-• To send periodic emails (The email address you provide may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.)
+• To send periodic emails (The email address you provide may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, offers from GenomeWeb and its partners, etc.)Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent.
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent.
-
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email, or you can request to unsubscribe by contacting [customerservice@genomeweb.com](mailto:customerservice@genomeweb.com).
 
 **How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
 We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway provider's database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
@@ -44,7 +42,7 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
 We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements, and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by calling 212-651-5612 or by contacting [ customer service](mailto:customerservice@genomeweb.com).
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by calling 212-651-5612 or by contacting customer service.
 
 **Do we disclose any information to outside parties?**
 
@@ -58,7 +56,7 @@ At our discretion, we may include or offer third-party products or services on o
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at any time by logging into genomweb.com and accessing the "My Account" page.
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at any time by logging into genomeweb.com and accessing the "My Account" page.
 
 **Children's Online Privacy Protection Act Compliance**
 
@@ -68,21 +66,21 @@ We are in compliance with the requirements of COPPA (Children's Online Privacy P
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-**Your Consent**
+Your Consent
 
 By using our site, you consent to our website's privacy policy.
 
-**Changes to our Privacy Policy**
+Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the privacy policy modification date below.
 
-This policy was last modified on March 21, 2013
+This policy was last modified on March 24, 2013
 
-**Contacting Us**
+Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-GemomeWeb LLC  
+GenomeWeb LLC  
 40 Fulton St., 10th Floor  
 New York, NY 10038
 
