@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pplmotorhomes.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806231717id_/http%3A//www.pplmotorhomes.com/gotopage/privacy-policy-sales.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pplmotorhomes.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331024341id_/http%3A//www.pplmotorhomes.com/gotopage/privacy-policy-sales.htm) for the most accurate reproduction.*
 
 # PPL Privacy Policy - PPL Motor Homes
 
@@ -121,8 +121,8 @@
 > 
 > 
 > **[Home](https://web.archive.org/) | [RVs for Sale](https://web.archive.org/used_rvs_for_sale.htm) | [Steps to Buy](https://web.archive.org/gotopage/steps-to-buy.htm) | [Sell Your RV](https://web.archive.org/seller/rv-consignment.htm) | [RV Parts](https://web.archive.org/parts/rv_parts_rv_accessories.htm)  
->  [PPL Privacy Policy](https://web.archive.org/gotopage/privacy-policy-sales.htm) | [About PPL](https://web.archive.org/gotopage/about-ppl-motorhomes.htm) | [Photo Tour](https://web.archive.org/gotopage/picstory.htm) | [Contact PPL](https://web.archive.org/contact.htm) | [Testimonials](https://web.archive.org/seller/comments.htm)**
+>  [PPL Privacy Policy](https://web.archive.org/gotopage/privacy-policy-sales.htm) | [About PPL](https://web.archive.org/gotopage/about-ppl-motorhomes.htm) | [Contact PPL](https://web.archive.org/contact.htm) | [Testimonials](https://web.archive.org/seller/comments.htm)**
 > 
 > **Copyright (C) PPL Motor Homes  
 >  Houston, Texas  
->  All Rights Reserved, 1997 - 2013**
+>  All Rights Reserved, 1997 - 2014**
