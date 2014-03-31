@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetypics.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208041728id_/http%3A//www.sweetypics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetypics.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331110841id_/http%3A//www.sweetypics.com/privacy.html) for the most accurate reproduction.*
 
 # Sweetypics Privacy Policy page
 
