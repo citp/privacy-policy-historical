@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the haikudeck.com privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830073548id_/http%3A//www.haikudeck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haikudeck.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331073818id_/http%3A//www.haikudeck.com/privacy) for the most accurate reproduction.*
 
-# Presentation Software That's Simple, Beautiful, and Fun | Haiku Deck
+# Presentation Software that Inspires | Haiku Deck
 
 Thank you for visiting GiantThinkwell's ("GiantThinkwell") Internet web site located at the URL [www.haikudeck.com](http://www.haikudeck.com/) ("Site"). This Privacy Policy details certain policies implemented throughout Haiku Deck governing GiantThinkwell's use of personally identifiable information about users of our Site and users of our services and/or software that is available for download on this Site.
 
@@ -47,3 +47,7 @@ We may employ procedural and technological measures, consistent with industry pr
 GiantThinkwell provides you with the ability to review and update the registration information that you provide to us by accessing and modifying this information on your user profile page.
 
 If you have any questions regarding this Privacy Policy please contact us via email at [privacy@giantthinkwell.com](mailto:privacy@giantthinkwell.com). Our computer systems are currently based in the United States, so your personal data will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with the Site as a visitor from outside the United States, by using the Site you agree to this Privacy Policy and you consent to the transfer of all such information to the United States, which may not offer an equivalent level of protection of that required in the European Union or certain other countries, and to the processing of that information as described in this Privacy Policy.
+
+NEW DECK
+
+## WANT TO MAKE YOUR OWN HAIKU DECK?
