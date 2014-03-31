@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportscardigest.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117034826id_/http%3A//www.sportscardigest.com/about-sports-car-digest/site-map/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportscardigest.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331034757id_/http%3A//www.sportscardigest.com/about-sports-car-digest/site-map/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sports Car Digest
+# Privacy Policy
 
 At Sports Car Digest, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.sportscardigest.com and how it is used. 
 
