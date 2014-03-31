@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freepbx.org privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012033812id_/http%3A//www.freepbx.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepbx.org privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331030227id_/http%3A//www.freepbx.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FreePBX
+# Website Privacy Policy | FreePBX
 
 Contents
 
@@ -24,7 +24,7 @@ The types of personal information we collect include all the information entered
 In addition, we also save webserver logs which tell us your IP address and unique FreePBX installation ID. We gather this information for the purpose of estimating the size of our user base and other marketing purposes.  
 We will, from time-to-time, set up surveys to learn more about what FreePBX users want and how the product is used.
 
-Uses of Information 
+Uses of Information
 
 We use the information you provide when placing an order to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order or to provide services where the outside party is acting on our behalf and has no independent right to use the information we provide (i.e. a third party shipping or customer support center).
 
@@ -46,7 +46,7 @@ Data Security
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-PayPal uses secure servers to protect all of your personal information including your name, address and credit card information. 
+PayPal uses secure servers to protect all of your personal information including your name, address and credit card information.
 
 As a merchant who accepts PayPal, our PayPal-enabled checkout process uses industry-standard SSL encryption to ensure the privacy and security of your information. (Please remember that no data transmission over the Internet, or by other means, can be guaranteed to be 100% secure.)
 
@@ -56,4 +56,4 @@ You can access and correct your order and contact information by contacting us. 
 
 Contact Information
 
-Should you have other questions or concerns about this our privacy policies, please contact us at [privacy@freepbx.org]()
+Should you have other questions or concerns about this our privacy policies, please contact us at privacy@freepbx.org
