@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartwaiver.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104052657id_/https%3A//www.smartwaiver.com/p/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartwaiver.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331152603id_/https%3A//www.smartwaiver.com/p/Privacy) for the most accurate reproduction.*
 
 # Smartwaiver | Privacy Policy
 
@@ -108,6 +108,6 @@ If you have any questions or concerns about Smartwaiver Inc’s Privacy Policy o
 
 Smartwaiver Inc may update its Privacy Policy from time to time. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy.
 
-Smartwaiver Inc, 233 S.W. Wilson Ave., Suite 1, Bend, OR  97702
+Smartwaiver Inc, 626 NW Arizona Ave. Suite 7, Bend, OR  97701
 
 Last updated: May 27, 2012
