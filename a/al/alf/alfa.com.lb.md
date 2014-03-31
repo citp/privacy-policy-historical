@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alfa.com.lb privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013172339id_/https%3A//www.alfa.com.lb/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfa.com.lb privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331143541id_/https%3A//www.alfa.com.lb/privacy.aspx) for the most accurate reproduction.*
 
 # alfa - privacy
 
