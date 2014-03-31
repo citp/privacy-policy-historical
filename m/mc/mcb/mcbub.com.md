@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcbub.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420080304id_/http%3A//www.mcbub.com/help/Terms_and_Policies/our_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcbub.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331225859id_/http%3A//www.mcbub.com/help/Terms_and_Policies/our_privacy_policy) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
