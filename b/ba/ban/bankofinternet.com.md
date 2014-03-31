@@ -1,112 +1,11 @@
-> *The following text is extracted and transformed from the bankofinternet.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815224458id_/https%3A//www.bankofinternet.com/customer-support/disclosures/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofinternet.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331031538id_/https%3A//www.bankofinternet.com/customer-support/disclosures/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and Security | Bank of Internet USA
 
-Rev. August 2012
+Rev. August 2013
 
 We recognize, respect and protect the personal privacy rights of all our customers and work diligently to safeguard your privacy. We are committed to providing the highest level of security and privacy regarding the collection and use of our customers' personal information, as well as the personal information of all consumers who visit our institution.
 
-The following privacy notice explains how we use and protect the information about our customers. We ask that you read it carefully.
-
-## Facts
-
-  
-  
----  
-WHAT DOES BOFI FEDERAL BANK DO WITH YOUR PERSONAL INFORMATION?  
-**Why?** |  Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.   
-**What?** |  The types of personal information we collect and share depend on the product or service you have with us. This information can include: 
-
-  * Social Security number and account transactions
-  * Income and payment history
-  * Transaction history and credit history
-
-When you are no longer our customer, we continue to share your information as described in this notice.   
-**How?** |  All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons BofI Federal Bank chooses to share; and whether you can limit this sharing.   
-  
-## Reasons we can share your personal information
-
-  
-| Does BofI Federal Bank share? | Can you limit this sharing?  
----|---|---  
-  
-  
-**For our everyday business purposes –**  
-such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus  |  YES  |  NO   
-**For our marketing purposes –**  
-to offer our products and services to you  |  YES  |  NO   
-**For joint marketing with other financial companies**  
-|  NO  |  We don't share   
-**For our affiliates’ everyday business purposes –**  
-information about your transactions and experiences  |  NO  |  We don't share   
-**For our affiliates’ everyday business purposes –**  
-information about your creditworthiness  |  NO  |  We don't share   
-  
-## Questions?
-
-  
-  
----  
-Call our toll free number 1-877-541-2634 or email us at [customerservice@bankofinternet.com ](mailto:customerservice@bankofinternet.com)  
-  
-## What We Do
-
-  
-  
----  
-**How does BofI Federal Bank protect my personal information?** |  To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. We restrict access to nonpublic personal information about you to our employees who need to know that information to provide you with products and services or to maintain your accounts.   
-**How does BofI Federal Bank collect my personal information?** |  We collect your personal information, for example, when you: 
-
-  * Open an account
-  * Make deposits or withdrawals from your account
-  * Pay your bills
-  * Use your debit or credit card
-  * Apply for a loan
-
-We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.   
-**Why can’t I limit all sharing?** |  Federal law gives you the right to limit only: 
-
-  * Sharing for affiliates’ everyday business purposes – information about your creditworthiness
-  * Affiliates from using your information to market to you
-  * Sharing for non-affiliates to market to you
-
-State laws and individual companies may give you additional rights to limit sharing.   
-  
-## DEFINITIONS
-
-  
-  
----  
-**Affiliates** |  Companies related by common ownership or control. They can be financial and non-financial companies. 
-
-  * **BofI Federal Bank** has no affiliates
-
-  
-**Non-affiliates** |  Companies not related by common ownership or control. They can be financial and non-financial companies. 
-
-  * **BofI Federal Bank** does not share with non-affiliates so they can market to you 
-
-  
-**Joint marketing** |  A formal agreement between non-affiliated financial companies that together market financial products or services to you. 
-
-  * **BofI Federal Bank** does not jointly market
-
-  
-  
-## Other important information
-
-  
-  
----  
-  
-It is the policy of BofI Federal Bank to maintain accurate and complete information on our customers. If you have reason to believe that the information we hold with respect to you or your account is inaccurate, outdated, or incomplete, please contact us by telephone 1-877-541-2634 or write to us at **BofI Federal Bank, P.O. Box 509127, San Diego, CA 92150-9948.**
-
-BofI Federal Bank does not knowingly collect, use or disclose personal information from children under age 13 without obtaining verifiable parental consent. Our website is directed to a general audience, and may be accessed by the public. Should a child whom we know to be under 13 send personal information to us, we will only use that information to respond to a one-time request from the child, provide notice to the child’s parents, or ensure the safety of the child.  
-
-
-The Children’s Online Privacy Protection Act (COPPA) protects children under the age of 13 from the online collection of personal information. For more information about COPPA, visit the Federal Trade Commission website: [www.ftc.gov](http://www.ftc.gov/)  
-  
-  
 Revised 06/20/2013
 
 This Online Privacy Notice (the “Notice”) applies to anyone who visits BofI Federal Bank (“Bank”, “Us”, “Our”, “We”) website (the “Site”). This Notice describes how this website may collect, use and share information from or about you. Information you provide to us when you apply for or receive a product from us is governed by our [Privacy Notice](https://web.archive.org/customer-support/disclosures/privacy-and-security#Privacy%20Notice). Your use of this Site constitutes your acceptance of the Bank of Internet (a division of BofI Federal Bank) general terms and conditions, which we may change or modify at any time and from time to time at our sole and absolute discretion and which are available on our [Disclosure](https://www.bankofinternet.com/customer-support/disclosures/). 
