@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the xoom.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105213405id_/https%3A//www.xoom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xoom.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331075125id_/https%3A//www.xoom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Xoom
 
-Xoom Corporation, a Delaware corporation, takes your privacy very seriously. This Privacy Policy applies to Xooms websites (for purposes of this Privacy Policy, " **websites** " includes our mobile applications) and is effective as of **2013-10-22**.
+Xoom Corporation, a Delaware corporation, takes your privacy very seriously. This Privacy Policy applies to Xoom''s websites (for purposes of this Privacy Policy, " **websites** " includes our mobile applications) and is effective as of **2014-01-16**.
 
 We are committed to protecting our customers' privacy and security. This Privacy Policy explains what personal information we collect about you, with whom we share it, and how you [the user of the Service] can direct us not to share certain information with certain parties. "Personal Information" refers to information such as name and email address that can be used to identify an individual. You should read this Privacy Policy in its entirety. Certain sections may apply differently to residents of different jurisdictions.
 
-[Truste](https://privacy.truste.com/privacy-seal/Xoom-Corporation/validation?rid=082b03b6-0dbf-45de-b8b4-3d73247810ba "TRUSTe online privacy certification") Xoom Corporation has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and its practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through the websites. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
+[ Truste ](https://privacy.truste.com/privacy-seal/Xoom-Corporation/validation?rid=082b03b6-0dbf-45de-b8b4-3d73247810ba "TRUSTe online privacy certification") Xoom Corporation has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and its practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through the websites. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
 If you have questions or concerns regarding this statement, you should first [contact us](https://web.archive.org/contact-xoom-customer-service). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
@@ -20,10 +20,13 @@ We may collect the following information about you, which may include non-public
   * Information about your usage of the Service, including your transaction history, how you use the Service to send or receive money, and to whom you send money; 
   * Information that we lawfully obtain from third parties, such as identity verification services, electronic database services, and credit reporting agencies; and 
   * Information that we indirectly obtain from you, such as information about the device, hardware and software you use when accessing the Service, your IP address, the pages you access on this website, and other websites that you visit prior to accessing the Service. 
+  * Recordings of your communications with our Customer Service department, including telephone calls and electronic communications. 
 
 
 
 We may also use "cookies" to track your use of our websites. A cookie is a small data file that is placed on your computer to remember your preferences when you return to the website. You are free to decline these cookies if your browser permits, but doing so may interfere with your use of the Service. The information we store in the cookie may include your email address in addition to non-personally identifiable information.
+
+We currently do not recognize "do-not-track" signals from your browser. We engage third parties, such as marketing or analytics partners, who may collect information about your online activities over time and across different websites when you use our websites.
 
 Our third-party service providers may use both session ID and cookies to enhance our websites. The use of cookies by our third-party service providers is not covered by this Privacy Policy. You are free to decline these cookies if your browser permits. We do not have access or control over these cookies. Our third party partners may employ clear gifs, images, and scripts that help them better manage content on our site. We may use Flurry analytics tool in order to develop and analyze use of the Service. Analytics companies may access anonymous data (such as your identifier for advertising or device ID) to help us understand how the Service is used. They use this data solely on our behalf. They do not share it except in aggregate form; no data is shared as to any individual user. If you wish to opt-out from Flurry analytics, please follow this link: <http://www.flurry.com/privacy-policy.html>. From time to time, we may also tie cookies, clear gifs, images and scripts to personally identifiable information for reasons such as analysis, security, content generation or marketing.
 
@@ -39,6 +42,7 @@ We collect information for the following purposes:
   * To comply with applicable laws, regulations, and rules, such as those relating to "know-your-customer", and anti-money laundering requirements. 
   * To detect and prevent fraud and other illegal uses of the Service 
   * To send you marketing notices, service updates, and promotional offers 
+  * To contact you by telephone using auto-dialed or pre-recorded message calls or text (SMS) messages (if applicable) as authorized for the purposes described in this Privacy Policy 
 
 
 
