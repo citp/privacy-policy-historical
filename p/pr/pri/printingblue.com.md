@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the printingblue.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819012552id_/http%3A//www.printingblue.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printingblue.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331143652id_/http%3A//www.printingblue.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[www.printingblue.com](https://web.archive.org/web/20130819012552id_/) is committed to maintaining the confidentiality of our customers. We do not share, sell, or otherwise disclose information about our clients to any other party except as required to process and ship purchases.
+[www.printingblue.com](https://web.archive.org/web/20140331143652id_/) is committed to maintaining the confidentiality of our customers. We do not share, sell, or otherwise disclose information about our clients to any other party except as required to process and ship purchases.
 
 Information Collection
 
