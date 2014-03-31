@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yooco.org privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209105007id_/http%3A//www.yooco.org/datenschutz.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yooco.org privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401001242id_/http%3A//www.yooco.org/datenschutz.html) for the most accurate reproduction.*
 
 # Privacy - Yooco.org
 
