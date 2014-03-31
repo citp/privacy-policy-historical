@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jlabaudio.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203092644id_/http%3A//www.jlabaudio.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jlabaudio.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331034805id_/http%3A//www.jlabaudio.com/index/privacy) for the most accurate reproduction.*
 
 # JLab Audio - Headphones, Earphones, Earbuds, USB Laptop Speakers, Cases & Accessories
 
@@ -16,8 +16,8 @@ We use the information you provide about someone else when placing an order only
 
 Thank you for taking the time to read our privacy policy. Our staff wishes you a great shopping experience. If you have questions please do not hesitate to contact us. 
 
-[ ](http://www.amazon.com/JLAB-J6M-PNK-FOIL-Ergonomic-Headphones-Honeysuckle/dp/B00A71TW24/ref=sr_1_5?s=electronics&ie=UTF8&qid=1364838388&sr=1-5&keywords=j6m)
-
-[ ](http://www.jlabaudio.com/Products/Bluetooth/Crasher/708)
-
 [ ](http://www.jlabaudio.com/Products/Headphones/Intro/889)
+
+[ ](http://www.jlabaudio.com/Products/Bluetooth/Bouncer/718)
+
+[ ](http://www.jlabaudio.com/Products/Earbuds-with-Mic/Neon/883)
