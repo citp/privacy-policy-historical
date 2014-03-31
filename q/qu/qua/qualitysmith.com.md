@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the qualitysmith.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828062712id_/http%3A//www.qualitysmith.com/request/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualitysmith.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331153806id_/http%3A//www.qualitysmith.com/request/privacy-policy) for the most accurate reproduction.*
 
 # 
 
 ### Privacy and Information Gathering
 
 The privacy of our customers is extremely important to us. We work with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site (first party cookies). A cookie is a small packet of information stored on a user's computer that allows a website server to know certain information about a user, for example, how many times a user has visited the site. A web beacon is typically a transparent graphic placed on a site or in an email that allows a site to record, for example, whether a page was accessed or an e-mail opened, for statistical analysis. Our cookies and Web beacons are not tied to personally identifiable information. We don't collect personal information without your knowledge. We ask for it in a form that must be submitted by the user. 
+
+We have agreements with certain data management platform companies and/or behavioral advertising companies to serve ads and/or collect certain information when you visit our websites. Behavioral advertising companies may use cookies to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this ‘behavioral advertising' practice or to opt-out of this use of your anonymous information, you can visit the network advertising initiative's opt-out link at http://www.networkadvertising.org/managing/opt_out.asp. 
 
 ### Service From Third-Party Sites
 
