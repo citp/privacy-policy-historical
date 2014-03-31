@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourkidsmom.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815174254id_/http%3A//www.ourkidsmom.com/pr-info/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourkidsmom.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331065743id_/http%3A//www.ourkidsmom.com/pr-info/disclosure) for the most accurate reproduction.*
 
 # Disclosure & Privacy - OurKidsMom
 
@@ -32,4 +32,4 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 [contact-form] [contact-field label="Name" type="name" required="true" /] [contact-field label="Email" type="email" required="true" /] [contact-field label="Website" type="url" /] [contact-field label="Comment" type="textarea" required="true" /] [/contact-form] 
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.ourkidsmom.com%2Fpr-info%2Fdisclosure%2F&media=&description=Disclosure%20%26%23038%3B%20Privacy)
+[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.ourkidsmom.com%2Fpr-info%2Fdisclosure%2F&media=&description=Disclosure%20%26%23038%3B%20Privacy)
