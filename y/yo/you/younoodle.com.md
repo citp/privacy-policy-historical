@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the younoodle.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817160033id_/http%3A//www.younoodle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the younoodle.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331153852id_/https%3A//www.younoodle.com/privacy) for the most accurate reproduction.*
 
 # YouNoodle | Privacy Policy
 
@@ -8,7 +8,7 @@ Effective as of Sep 3rd, 2012
 
 Welcome to YouNoodle! This document, our Privacy Policy, governs how the data we collect when you access and use the YouNoodle Services and how we use it. This includes both the social website at www.YouNoodle.com (“Social” or the “Site”), and Podium, our competition platform and administration tool.
 
-This Privacy Policy is incorporated as part of the YouNoodle [Terms of Service](https://web.archive.org/terms). By using the YouNoodle Services you agree to the provisions of this policy. If you do not want to be bound by our Privacy Policy, please do not use the YouNoodle Services!
+This Privacy Policy is incorporated as part of the YouNoodle [Terms of Service](https://web.archive.org/terms "Terms of Service"). By using the YouNoodle Services you agree to the provisions of this policy. If you do not want to be bound by our Privacy Policy, please do not use the YouNoodle Services!
 
 We take your privacy seriously. If you have any questions about this policy or about privacy at YouNoodle, please contact us at feedback@younoodle.com.
 
@@ -16,7 +16,7 @@ DATA COLLECTED DURING ACCOUNT CREATION
 
 Users with Social Accounts: In order to become a member of YouNoodle Social and send messages to other users, you must create an account. When you create an account we require a username and password. We store this information on our servers along with any additional information you provide about yourself during the sign up process. If you have a Podium account, you can use the same name and password, or choose an different one. If you use the same name and password, your Podium data and Social data will be associated in our database.
 
-You can also login to YouNoodle Social using your Facebook name and password by clicking the Facebook Connect button. By using Facebook Connect, you are allowing YouNoodle to access some Personal Information in your Facebook account pursuant to the [Facebook Terms of Use](https://www.facebook.com/legal/terms). Facebook Connect will pre-populate your account sign-up process with information from your Facebook account
+You can also login to YouNoodle Social using your Facebook name and password by clicking the Facebook Connect button. By using Facebook Connect, you are allowing YouNoodle to access some Personal Information in your Facebook account pursuant to the [Facebook Terms of Use](https://www.facebook.com/legal/terms "Facebook Terms of Use"). Facebook Connect will pre-populate your account sign-up process with information from your Facebook account
 
 Users with Podium Accounts: In order to participate in, judge or administer a competition that is powered by the Podium platform, you need to create an account on Podium. If you have a Social account, you can use the same name and password, or choose an different one. If you received an invitation to be a judge, you can choose whether to use the email address the invitation was sent to when creating the Podium account. Like in Social, if you use the same name and password, your Podium data and Social data will be associated in our database. The data collected by Podium will vary by competition. It will include personal information (such as your name, address, passport identification number, contact information, email, phone number, resume or biography), and competition information (such as a business plan, mission statement, charts and graphs, etc.).
 
