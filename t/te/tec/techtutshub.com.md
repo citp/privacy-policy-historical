@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techtutshub.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816042719id_/http%3A//www.techtutshub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techtutshub.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331141019id_/http%3A//www.techtutshub.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | TechTutsHubTechTutsHub
+# Privacy Policy - TechTutsHub
 
 At [ **Techtutshub**](http://www.techtutshub.com/ "Techtutshub") ** ** the  **privacy**  of our visitors is extremely important.  This _**Privacy Policy**_ outlines the types of personal information that is received and collected and how it is used.
 
