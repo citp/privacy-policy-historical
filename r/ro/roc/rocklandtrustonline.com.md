@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the rocklandtrustonline.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425025809id_/http%3A//www.rocklandtrust.com/Planning-Tools-And-Resources/Security-Center/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocklandtrustonline.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331035305id_/http%3A//www.rocklandtrust.com/Planning-Tools-And-Resources/Security-Center/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Rockland Trust
 
-**For a printed copy of this Privacy Notice, please[ **click here >>**](https://web.archive.org/uploadDocs/1/RT_Privacy_web.pdf)** 
+**For a printed copy ofthis Privacy Notice, please [**click here >>**](https://web.archive.org/uploadDocs/1/RT_Privacy_web.pdf)** 
 
 **     FACTS**
 
 |  | **      WHAT DOES ROCKLAND TRUST DO WITH YOUR PERSONAL INFORMATION?**  
 ---|---|---  
 **  
-Why?** | Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.   
+Why?** | Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some, but not all, sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.   
 ---|---  
 **  
 What?** | 
 
 The types of personal information we collect and share depend on the product or service you have with us. This information can include:
 
-  * Social Seccurity number and income 
+  * Social Security number and income 
   * Account balances and transaction history 
   * Payment history and credit scores
 
@@ -58,7 +58,7 @@ However, you can contact us at any time to limit our sharing.
 
 **Who We Are**  
 ---  
-**Who is providing this notice?** | Rockland Trust, including its affiliates as listed below.   
+**Who is providing this notice?** | Rockland Trust, including its affiliates, as listed below.   
 **What We Do**  
 ---  
 **How does** **Rockland Trust  
@@ -127,7 +127,7 @@ Rockland Trust is required by law to protect customers' non-public personal info
 
 Any private information given us is kept confidential. We collect only the information required to provide the information, services, and/or products that our customers request. Only our employees and vendors that have an actual need to access this information to fulfill their required duties have access to this information. Access to customers' personal information is restricted and safeguarded by physical, electronic, and procedural policies and controls. 
 
-Rockland Trust has a comprehensive Written Information Security Program in place that addresses all applicable federal and state laws and regulations. We are required to review our Information Security Program at least annually, and revise it in light of new products or services, any discovered or anticipated weaknesses, or new technology that becomes available. Our Board of Directors reviews and approves the Information Security Program annually. The Information Security Program, in conjunction with our technology and security policies, standards, and guidelines, not only describes the procedures, electronic, and physical controls we require, but also addresses the responsibility of our employees and imposes disciplinary action for any security or bank policy violation. Mandatory annual security awareness training is in place for all employees. A vendor management program is in place for the evaluation of third-party service providers. Rockland Trust's internal auditors regularly evaluate the effectiveness of internal controls and procedures regarding our Information Security Program. Further, independent auditors and bank examiners regularly examine and review our compliance with applicable laws, including those regarding the protection of non-public personal information on an ongoing basis. 
+Rockland Trust has a comprehensive written Information Security Program in place that addresses all applicable federal and state laws and regulations. We are required to review our Information Security Program at least annually, and revise it in light of new products or services, any discovered or anticipated weaknesses, or new technology that becomes available. Our Board of Directors reviews and approves the Information Security Program annually. The Information Security Program, in conjunction with our technology and security policies, standards, and guidelines, not only describes the procedures, electronic, and physical controls we require, but also addresses the responsibility of our employees and imposes disciplinary action for any security or bank policy violation. Mandatory annual security awareness training is in place for all employees. A vendor management program is in place for the evaluation of third-party service providers. Rockland Trust's internal auditors regularly evaluate the effectiveness of internal controls and procedures regarding our Information Security Program. Further, independent auditors and bank examiners regularly examine and review our compliance with applicable laws, including those regarding the protection of non-public personal information on an ongoing basis. 
 
 ### 
 
@@ -135,7 +135,7 @@ Rockland Trust has a comprehensive Written Information Security Program in place
 
 Protection under the Electronic Funds Transfer Act 
 
-Regulation E, which implements the Electronic Fund Transfer Act, provides consumers with certain protections when errors occur that involve electronic fund transfers (EFT). If you notify Rockland Trust that an error involving an EFT has occurred, Rockland Trust must investigate and resolve the claim within specified deadlines. An "EFT" includes any transfer of funds that is initiated through an electronic terminal, telephone or computer for the purpose of ordering, instructing or authorizing a withdrawal or deposit transaction on your account.  It includes, but is not limited to, ATM transfers, point-of-sale transfers, direct deposits or withdrawals of funds, telephone transfers, transfers resulting from debit card transactions, and one-time electronic withdrawals when information from a paper check is used to create an electronic withdrawal ("check conversion"). These protections are available for consumers and their consumer bank accounts, including those that may be accessed electronically through online banking. However, these protections are not available to business entities and the business accounts that they maintain.  Contact use at 800.222.2299 for more information. 
+Regulation E, which implements the Electronic Fund Transfer Act, provides consumers with certain protections when errors occur that involve electronic fund transfers (EFT). If you notify Rockland Trust that an error involving an EFT has occurred, Rockland Trust must investigate and resolve the claim within specified deadlines. An "EFT" includes any transfer of funds that is initiated through an electronic terminal, telephone or computer for the purpose of ordering, instructing or authorizing a withdrawal or deposit transaction on your account.  It includes, but is not limited to, ATM transfers, point-of-sale transfers, direct deposits or withdrawals of funds, telephone transfers, transfers resulting from debit card transactions, and one-time electronic withdrawals when information from a paper check is used to create an electronic withdrawal ("check conversion"). These protections are available for consumers and their consumer bank accounts, including those that may be accessed electronically through online banking. However, these protections are not available to business entities and the business accounts that they maintain.  Contact us at 800.222.2299 for more information. 
 
 **  
 What is considered an Error?  
@@ -149,10 +149,11 @@ What is considered an Error?
 * When Rockland Trust improperly identifies an EFT on a statement; 
 * When a consumer requests documentation that was required to be given on a receipt or statement, or for clarification or additional information other than routine inquires. 
 
-### What is and isn't covered by the Regulation E Error Resolution Requirements  
+### What is and isn't covered by the Regulation E Error Resolution Requirements
 
+### 
 
- **Electronic transactions that are covered include:**
+**Electronic transactions that are covered include:**
 * Unauthorized debit card transactions that appear on a customer's personal account statement. 
 * Withdrawal transactions conducted against a customer's personal account at an ATM, when the machine dispenses an incorrect amount of cash. 
 
