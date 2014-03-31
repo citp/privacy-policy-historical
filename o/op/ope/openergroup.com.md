@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openergroup.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630165442id_/http%3A//www.ibuonline.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openergroup.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331035617id_/http%3A//www.ibuonline.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # ibuonline
 
