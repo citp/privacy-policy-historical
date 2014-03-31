@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drbatras.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210111100id_/http%3A//www.drbatras.com/en/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drbatras.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331023959id_/http%3A//www.drbatras.com/en/privacy-policy.aspx%3Fsl%3Dfl) for the most accurate reproduction.*
 
 # Privacy Policy - Dr. Batra's
 
@@ -18,11 +18,11 @@ Please note that Dr. Batra's may reviews its Privacy Policy from time to time as
 
 ### Opt-out option: 
 
-If you would like to have your personally-identifiable information removed from Dr. Batra's databases, please call +91.22.3955.4800 or e-mail to info@drbatras.com. We will use reasonable efforts to comply with your request. However, there will be residual information that will remain within Dr. Batra's databases, access logs, and other historical internal records, which may contain such personally-identifiable information.
+If you would like to have your personally-identifiable information removed from Dr. Batra's databases, please call +91.22.3367.1200 or e-mail to info@drbatras.com. We will use reasonable efforts to comply with your request. However, there will be residual information that will remain within Dr. Batra's databases, access logs, and other historical internal records, which may contain such personally-identifiable information.
 
 ### Your requesting available information about you: 
 
-If you want to find out what information Dr. Batra's has in its database about you, please write to Dr. Batra's at the address mentioned in the contact details provided herein, call +91.22.3955.4800, or e-mail to info@drbatras.com. Please include your name, e-mail address, and other information in the same format that you originally supplied to Dr. Batra's so we can be more certain of matching your request to the correct information.
+If you want to find out what information Dr. Batra's has in its database about you, please write to Dr. Batra's at the address mentioned in the contact details provided herein, call +91.22.3367.1200, or e-mail to info@drbatras.com. Please include your name, e-mail address, and other information in the same format that you originally supplied to Dr. Batra's so we can be more certain of matching your request to the correct information.
 
 ### Information we may gather:
 
@@ -87,7 +87,7 @@ Dr. Batra's provides certain services such as bulletin boards, discussion forum,
 
 Any information you reveal in the Interactive Areas, including but not limited to any public forum is not subject to this Privacy Policy and can be seen by third parties unrelated to Dr. Batra's. It is therefore important that you carefully consider what information you disclose in these Interactive Areas.
 
-Further, Dr. Batra's can not and does not control the acts and comments of the users of its Website's services or monitor the accuracy of postings by such users.  If communications in such Interactive Areas are not in conformity to the Terms of Service, Disclaimer or the Privacy Policy, Dr. Batra's shall solely be entitled to investigate the allegation and remove or request the removal of the communication. Dr. Batra's reserves the right (but is not obligated) to edit or delete any communication posted on the Website, regardless of whether such communication violate these standards for content. The views expressed by the users of this Website (including but not limited to the Interaction Areas) are that of the users and Dr. Batra's does not subscribe to or agree with the contents therein in any manner whatsoever. Dr. Batra's cannot and does not assume any responsibility for any actions or omissions of third parties, including other website users and the manner in which they might use information received from Dr. Batra's. In the event that you encounter any user who (a) is improperly collecting or using information about you or other users; or (b) making inappropriate comments or remarks, please contact us at +91.22.3955.4800, or e-mail to info@drbatras.com.
+Further, Dr. Batra's can not and does not control the acts and comments of the users of its Website's services or monitor the accuracy of postings by such users.  If communications in such Interactive Areas are not in conformity to the Terms of Service, Disclaimer or the Privacy Policy, Dr. Batra's shall solely be entitled to investigate the allegation and remove or request the removal of the communication. Dr. Batra's reserves the right (but is not obligated) to edit or delete any communication posted on the Website, regardless of whether such communication violate these standards for content. The views expressed by the users of this Website (including but not limited to the Interaction Areas) are that of the users and Dr. Batra's does not subscribe to or agree with the contents therein in any manner whatsoever. Dr. Batra's cannot and does not assume any responsibility for any actions or omissions of third parties, including other website users and the manner in which they might use information received from Dr. Batra's. In the event that you encounter any user who (a) is improperly collecting or using information about you or other users; or (b) making inappropriate comments or remarks, please contact us at +91.22.3367.1200, or e-mail to info@drbatras.com.
 
 ### Data Security:
 
@@ -117,4 +117,4 @@ By using the Website, you agree that the terms set out in this Privacy Policy ar
 
 ### Contact us:
 
-Should you have other questions or concerns about this Privacy Policy, please write to Dr. Batra's registered office at 2nd Floor, H. Kantilal Compound, Andheri - Kurla Road, Sakinaka, Andheri (E), Mumbai - 400071, Maharashtra, India, or call us at +91.22.3955.4800, or send an e-mail to [info@drbatras.com](mailto:info@drbatras.com)
+Should you have other questions or concerns about this Privacy Policy, please write to Dr. Batra's registered office at 2nd Floor, H. Kantilal Compound, Andheri - Kurla Road, Sakinaka, Andheri (E), Mumbai - 400071, Maharashtra, India, or call us at +91.22.3367.1200, or send an e-mail to [info@drbatras.com](mailto:info@drbatras.com)
