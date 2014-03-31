@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stitchfix.com privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902032627id_/https%3A//stitchfix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stitchfix.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331020148id_/https%3A//www.stitchfix.com/privacy) for the most accurate reproduction.*
 
 # Stitch Fix | Privacy Policy | We Ship Boxes of Handpicked Women's Clothes
 
