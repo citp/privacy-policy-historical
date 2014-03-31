@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redbet.com privacy policy that was archived on 2013-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130414124624id_/https%3A//www.redbet.com/en/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbet.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331062207id_/https%3A//www.redbet.com/en/about/privacy_policy) for the most accurate reproduction.*
 
-# About us | Redbet
+# About us
 
 Redbet is committed to maintaining the privacy and security of the Personal Information of all visitors to this website who have submitted their personal details. As part of that commitment, we have implemented this Privacy Policy to reflect the current needs of our visitors to know what information about them we collect, why we collect it, and where it goes. We encourage you to read this Privacy Policy.
 
