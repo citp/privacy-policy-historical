@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingramspark.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224192450id_/https%3A//www1.ingramspark.com/Portal/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingramspark.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331143838id_/https%3A//www1.ingramspark.com/Portal/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy-Policy
 
