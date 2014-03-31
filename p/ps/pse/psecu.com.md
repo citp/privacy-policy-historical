@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the psecu.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831044631id_/https%3A//www.psecu.com/privacy/%3FWT.ac%3Dprivacy-footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psecu.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331071658id_/https%3A//www.psecu.com/privacy/%3FWT.ac%3Dprivacy-footer) for the most accurate reproduction.*
 
 # PSECU - Privacy Act Policy
 
-**_Board Approval 9/11/2012_**
+**_Board Approval 11/7/2013_**
 
 A. Policy Statement:
     
@@ -21,7 +21,7 @@ The specific goals of the Privacy Act Policy are:
   * To provide internal controls for ongoing compliance.
   * To have a written board approved privacy policy.
   * To provide privacy notices to all members initially and annually.
-  * To designate an individual who will be responsible for overall effectiveness to ensure compliance. 
+  * To designate an individual who will be responsible for overall effectiveness to ensure compliance.
   * To determine if and what information is shared to any party not affiliated with the PSECU.
   * To provide an opportunity for members to "opt out" of information sharing.*
   * To provide initial training and ongoing training as needed.
@@ -29,7 +29,7 @@ The specific goals of the Privacy Act Policy are:
 
 
 
-*PSECU does not share member nonpublic personal information; therefore an opt out option is not necessary.
+* PSECU does not share member nonpublic personal information; therefore an opt out option is not necessary.
 
 C. Internal Controls:
     
@@ -79,7 +79,8 @@ In addition, the Board of Directors has adopted a Confidentiality of Member Info
 
 We invite you to review our Privacy Policy and contact us with any questions you may have.
 
-Joseph Sassano, Chair, Board of Directors Gregory A. Smith, President
+Gregory A. Smith, PresidentJoseph Sassano, Chair  
+Board of Directors 
 
 ## Our Policy Regarding the Collection, Use and Disclosure of Your Information...
 
@@ -101,7 +102,7 @@ What Information We Disclose...
 We may disclose nonpublic personal information about you to the following types of third parties:
 
   * **Financial service providers** , such as insurance companies, mortgage service companies, and broker-dealers.
-  * **Non-financial companies** , such as consumer reporting agencies, data processors, check printers, financial statement publishers, retailers, plastic card processors, and government agencies (with court orders/subpoenas/member written consent), or any third party with a valid court order, warrant or subpoena.
+  * **Non-financial companies** , such as consumer reporting agencies, data processors, check printers, financial statement publishers, retailers, plastic card processors, and government agencies (with court orders / subpoenas / member written consent), any third party with a valid court order, warrant or subpoena, as well as risk mitigation service providers.
 
 
 
@@ -144,7 +145,7 @@ PSECU recognizes the importance of maintaining a presence on the World Wide Web 
 Visiting Us Online...
     
 
-We may gather information about which sites our visitors browse while they are on any PSECU owned site or affiliated site. This enables us to track how a visitor navigates through the site areas in which they show interest. We gather information such as number of hits to the site, page visits, and length of user sessions. This is similar to a traffic report: it tracks trends and behaviors of members/users in general, but does not identify individuals in particular. We use this information to better serve you and it helps keep our site relevant and useful. 
+We may gather information about which sites our visitors browse while they are on any PSECU owned site or affiliated site. This enables us to track how a visitor navigates through the site areas in which they show interest. We gather information such as number of hits to the site, page visits, and length of user sessions. This is similar to a traffic report: it tracks trends and behaviors of members/users in general, but does not identify individuals in particular. We use this information to better serve you and it helps keep our site relevant and useful.
 
 Our Use of Cookies...
     
@@ -161,7 +162,7 @@ Online Security...
 
 We will maintain industry standard security controls to ensure that member information stored in our files and on the computers are protected. Where appropriate, we will use security-coding techniques, like encryption, to protect against unauthorized access and the integrity of communications and transactions, and protect member confidentiality. PSECU uses 128-bit encryption technology, the strongest industry standard encryption available as of October 2007.
 
-We also use firewalls to secure your information. A firewall is a security measure that insulates the credit union's computer network from the World Wide Web. PSECU analyzes traffic coming into and out of our firewalls, which would indicate hacking activity and other computer threats. We also regularly monitor our logs and scan our systems for known vulnerabilities. PSECU contracts with third party security specialists to regularly penetrate our network and to evaluate the security of our online banking application. PSECU has implemented layered security within psecu@home ®. Layered security provides an additional means of authentication beyond traditional user names and passwords. Further, PSECU's on-line presence is subject to regular reviews and tests by independent security providers.
+We also use firewalls to secure your information. A firewall is a security measure that insulates the credit union's computer network from the World Wide Web. PSECU analyzes traffic coming into and out of our firewalls, which would indicate hacking activity and other computer threats. We also regularly monitor our logs and scan our systems for known vulnerabilities. PSECU contracts with third party security specialists to regularly penetrate our network and to evaluate the security of our online banking application. PSECU has implemented layered security within psecu@home®. Layered security provides an additional means of authentication beyond traditional user names and passwords. Further, PSECU's on-line presence is subject to regular reviews and tests by independent security providers.
 
 Protecting Children's Online Privacy...
     
@@ -180,7 +181,7 @@ PSECU does not disclose nonpublic personal information about you to nonaffiliate
 
 Once we would receive your request, we will have a reasonable amount of time to stop the disclosures. You may always contact us for assistance if you wish to later revoke your opt-out election.
 
-PSECU has an e-mail marketing service. PSECU will periodically send e-mails promoting our products and services, or those of our affiliates, to members for whom we have recorded e-mail addresses. All members who receive the marketing e-mails will have the opportunity to opt out of this service at any time by simply clicking the unsubscribe button. As always, all members can opt out by contacting us using the methods described in this policy. 
+PSECU has an e-mail marketing service. PSECU will periodically send e-mails promoting our products and services, or those of our affiliates, to members for whom we have recorded e-mail addresses. All members who receive the marketing e-mails will have the opportunity to opt out of this service at any time by simply clicking the unsubscribe button. As always, all members can opt out by contacting us using the methods described in this policy.
 
 What You as a Member Can Do to Help...
     
@@ -197,4 +198,4 @@ PSECU is committed to protecting the privacy of our members. Members can help by
 
 
 
-Board Approval 9/11/2012
+Board Approval 11/7/2013
