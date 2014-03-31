@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrscleanusa.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129182023id_/http%3A//www.mrscleanusa.com/en/cleaning-services/mrs-clean/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrscleanusa.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331035950id_/http%3A//www.mrscleanusa.com/en/cleaning-services/mrs-clean/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Mrs Clean House Cleaning & Maid Service
 
@@ -124,12 +124,8 @@ Consumers can have this information corrected by sending us e-mail at the above 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office.
 
-[House Cleaning FAQ](http://www.mrscleanusa.com/en/cleaning-services/maid-service/frequently-asked-questions.html) House Cleaning & Maid Service FAQ These are the most frequently asked questions about getting started with Mrs Clean's House Cleaning and Maid Service. If you've had all your questions answered, you can&n... [ More detail](http://www.mrscleanusa.com/en/cleaning-services/maid-service/frequently-asked-questions.html)
+[Office Cleaning](http://www.mrscleanusa.com/en/cleaning-services/maid-service/office-cleaning.html) Trusted Office and Commercial Cleaning You focus on your business, we'll handle the office cleaning. Mrs. Clean has been... [ More detail](http://www.mrscleanusa.com/en/cleaning-services/maid-service/office-cleaning.html)
 
-[Cleaning Estimate](http://www.mrscleanusa.com/en/cleaning-services/maid-service/house-cleaning-estimate.html) Request a House Cleaning/Maid Service/Office Cleaning Estimate You work hard. You deserve a clean home. Mrs. Clean is ready and waiting to serve you. Are you ready for a cleaning company that's dependable, affordable... [ More detail](http://www.mrscleanusa.com/en/cleaning-services/maid-service/house-cleaning-estimate.html)
+[Deep Cleaning](http://www.mrscleanusa.com/en/cleaning-services/maid-service/deep-cleaning.html) Deep House Cleaning Mrs. Clean specializes in detailed deep cleaning maid services of your home, condo or office. Deep... [ More detail](http://www.mrscleanusa.com/en/cleaning-services/maid-service/deep-cleaning.html)
 
-[Client Testimonials](http://www.mrscleanusa.com/en/cleaning-services/mrs-clean/testimonials.html) Company Testimonials We are proud of delighting our clients and receiving feedback on their quality house cleaning. Mrs. Clean is committed to your clean home with our 100% guaranteed maid services. Our Servi... [ More detail](http://www.mrscleanusa.com/en/cleaning-services/mrs-clean/testimonials.html)
-
-[Customer Promise](http://www.mrscleanusa.com/en/cleaning-services/mrs-clean/what-to-expect.html) What to Expect From Mrs. Clean House Cleaning and Maid Service Mrs. Clean's promise to our valued clients. A Guaranteed House Cleaning If you are not completely satisfied with your house cleaning, contact us... [ More detail](http://www.mrscleanusa.com/en/cleaning-services/mrs-clean/what-to-expect.html)
-
-[Company Mission](http://www.mrscleanusa.com/en/cleaning-services/mrs-clean/our-mission.html) Mrs. Clean's House Cleaning Mission Statement Mrs. Clean's mission is to enrich the lives of our clients through superior quality house cleaning, legendary customer service, and the highest level of customer s... [ More detail](http://www.mrscleanusa.com/en/cleaning-services/mrs-clean/our-mission.html)
+[Housekeeping Service](http://www.mrscleanusa.com/en/cleaning-services/maid-service/housekeeping-service.html) Mrs. Clean's Housekeeping Services Mrs. Clean is the housekeeping service you can trust. Our cleaning services are customized... [ More detail](http://www.mrscleanusa.com/en/cleaning-services/maid-service/housekeeping-service.html)
