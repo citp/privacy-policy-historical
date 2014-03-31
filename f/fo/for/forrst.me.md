@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forrst.me privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005162320id_/https%3A//forrst.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forrst.me privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331104646id_/https%3A//forrst.com/legal/privacy) for the most accurate reproduction.*
 
 # Forrst | Forrst is a community for developers and designers
 
@@ -10,14 +10,11 @@ By using the Site and by submitting information to Forrst, you agree to the prac
 
 We take your privacy very seriously and we work hard to earn and keep your trust. As such, we adhere to the following basic principles to protect your privacy:
 
-  * We do not rent or sell your personally identifiable information to third parties for marketing purposes.
+We do not rent or sell your personally identifiable information to third parties for marketing purposes.
 
-  * We do not share your contact information without your consent.
+We do not share your contact information without your consent.
 
-  * Any personally identifiable information that you provide will be secured with industry standard protocols and technology.
-
-
-
+Any personally identifiable information that you provide will be secured with industry standard protocols and technology.
 
 **1. _Information about Cookies_**
 
