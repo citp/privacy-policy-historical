@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the myseniorportal.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918002956id_/http%3A//www.myseniorportal.com/cms_contents/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myseniorportal.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331102956id_/https%3A//www.myseniorportal.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# My Senior Portal: Privacy policy
 
-Our privacy policy is designed to help you understand how we collect and use any personal information you decide to share. and help make informed decisions when using My Senior Portal, located at myseniorportal.com
+Our privacy policy is designed to help you understand how we collect and use any personal information you decide to share. and help make informed decisions when using My Senior Portal, located at www.myseniorportal.com
 
 By using or accessing My Senior Portal you are accepting the practices described in this Privacy Policy.
 
 We developed My Senior Portal to make it easy to find information, benefit from the resources available on the internet, share information with others and develop a way to store and share valuable personal and familial information. We understand you may not want everyone in the world to have the information you share on My Senior Portal which is why we give you control of your information. Our default privacy settings limit the information displayed in your profile and store most personal information only on your personal computer system.
 
-My Senior Portal follows two core principles:
+### My Senior Portal follows two core principles:
 
   1. You should have control over your personal information.
 My Senior Portal helps you share information with your friends and people around you. You choose what information you put in your profile, including contact and personal information, pictures, interests and groups you join. And you control the users with whom you share that information through the privacy settings on the Privacy page. 
@@ -16,11 +16,7 @@ My Senior Portal helps you share information with your friends and people around
 
 
 
-Safe Use of My Senior Portal
-
-For information for users and parents about staying safe on My Senior Portal, click here.
-
-My Senior Portal’s Privacy Policy
+### My Senior Portal’s Privacy Policy
 
 My Senior Portal's Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using My Senior Portal, located at www.My Senior Portal.com and its directly associated domains (collectively, "My Senior Portal" or "Website")
 
@@ -34,7 +30,7 @@ EU Safe Harbor Participation
 
 We participate in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should visit our Help Center. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe at http://www.truste.org/users/users_watchdog_intro.html.
 
-The Information We Collect
+### The Information We Collect
 
 When you visit My Senior Portal you provide us with two types of information: personal information you knowingly choose to disclose that is collected by us and Web Site use information collected by us as you interact with our Web Site. When you register with My Senior Portal, you provide us with certain personal information, such as your name, your email address, your telephone number, your address, your gender, schools attended and any other personal or preference information that you provide to us.
 
@@ -56,11 +52,11 @@ Children Under Age 13
 
 My Senior Portal does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for My Senior Portal or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on My Senior Portal. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us through the form on our privacy help page.
 
-Children Between the Ages of 13 and 18
+### Children Between the Ages of 13 and 18
 
 We recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet.
 
-Use of Information Obtained by My Senior Portal
+### Use of Information Obtained by My Senior Portal
 
 When you register with My Senior Portal, you create your own profile and privacy settings. Your profile information, as well as your name and email, are displayed to people in the networks specified in your privacy settings to enable you to connect with people on My Senior Portal. We may occasionally use your name and email address to send you notifications regarding new services offered by My Senior Portal that we think you may find valuable.
 
@@ -76,7 +72,7 @@ My Senior Portal may use information in your profile without identifying you as 
 
 We may use information about you that we collect from other sources, including but not limited to newspapers and Internet sources such as blogs, instant messaging services, My Senior Portal Platform developers and other users of My Senior Portal, to supplement your profile. Where such information is used, we generally allow you to specify in your privacy settings that you do not want this to be done or to take other actions that limit the connection of this information to your profile (e.g., removing photo tag links).
 
-Sharing Your Information with Third Parties
+### Sharing Your Information with Third Parties
 
 My Senior Portal is about sharing information with others — friends and people in your networks — while providing you with privacy settings that restrict other users from accessing your information. We allow you to choose the information you provide to friends and networks through My Senior Portal. Our network architecture and your privacy settings allow you to make informed choices about who has access to your information. We do not provide contact information to third party marketers without your permission. We share your information with third parties only in limited circumstances where we believe such sharing is 1) reasonably necessary to offer the service, 2) legally required or, 3) permitted by you. For example:
 
@@ -92,34 +88,32 @@ My Senior Portal is about sharing information with others — friends and people
 
 
 
-To learn more about the operation of the service, we encourage you to read the tutorial here. To opt out of the service altogether, click here.
-
 Like many other websites that interact with third party sites, we may receive some information even if you are logged out from My Senior Portal, or that pertains to non-My Senior Portal users, from those sites in conjunction with the technical operation of the system. In cases where My Senior Portal receives information on users that are not logged in, or on non-My Senior Portal users, we do not attempt to associate it with individual My Senior Portal accounts and will discard it.
 
 If the ownership of all or substantially all of the My Senior Portal business, or individual business units owned by My Senior Portal, Inc., were to change, your user information may be transferred to the new owner so the service can continue operations. In any such transfer of information, your user information would remain subject to the promises made in any pre-existing Privacy Policy.
 
 When you use My Senior Portal, certain information you post or share with third parties (e.g., a friend or someone in your network), such as personal information, comments, messages, photos, videos, Marketplace listings or other information, may be shared with other users in accordance with the privacy settings you select. All such sharing of information is done at your own risk. Please keep in mind that if you disclose personal information in your profile or when posting comments, messages, photos, videos, Marketplace listings or other items , this information may become publicly available.
 
-Links
+### Links
 
 My Senior Portal may contain links to other websites. We are of course not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by My Senior Portal.
 
-Third Party Advertising
+### Third Party Advertising
 
 Providers of goods and services that appear on My Senior Portal are sometimes delivered (or "served") directly to users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and "web beacons" (also known as "1x1 gifs") to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the advertising network to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. My Senior Portal does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on My Senior Portal unless you choose to share it with them.
 
 This privacy policy covers the use of cookies by My Senior Portal and does not cover the use of cookies or other tracking technologies by any of its advertisers.
 
-Changing or Removing Information
+### Changing or Removing Information
 
 Access and control over most personal information on My Senior Portal is readily available through the profile editing tools. My Senior Portal users may modify or delete any of their profile information at any time by logging into their account. Information will be updated immediately. Individuals who wish to deactivate their My Senior Portal account may do so on the My Account page. Removed information may persist in backup copies for a reasonable period of time but will not be generally available to members of My Senior Portal.
 
 Where you make use of the communication features of the service to share information with other individuals on My Senior Portal, however, (e.g., sending a personal message to another My Senior Portal user) you generally cannot remove such communications.
 
-Security
+### Security
 
-My Senior Portal takes appropriate precautions to protect our users' information. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as your password), we encrypt that information using secure socket layer technology (SSL). (To learn more about SSL, go to http://en.wikipedia.org/wiki/Secure_Sockets_Layer). Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of My Senior Portal Web Site, please contact us through the Help Center.
+My Senior Portal takes appropriate precautions to protect our users' information. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as your password), we encrypt that information using secure socket layer technology (SSL). (To learn more about SSL, go to [Wikipedia Secure Sockets Layer](http://en.wikipedia.org/wiki/Secure_Sockets_Layer)). Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of My Senior Portal Web Site, please contact us through the Help Center.
 
-Terms of Use, Notices and Revisions
+### Terms of Use, Notices and Revisions
 
 Your use of My Senior Portal, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.
