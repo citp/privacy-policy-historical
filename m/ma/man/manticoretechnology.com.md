@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manticoretechnology.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120150923id_/http%3A//www.manticoretechnology.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manticoretechnology.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331032219id_/http%3A//www.salesengineintl.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Sales Engine International
 
