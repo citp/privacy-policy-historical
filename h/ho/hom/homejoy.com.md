@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homejoy.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425105500id_/https%3A//www.homejoy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homejoy.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331061217id_/https%3A//www.homejoy.com/privacy) for the most accurate reproduction.*
 
 # Homejoy
 
@@ -9,7 +9,7 @@
 
 **Our Policy**
 
-Welcome to the web site (the "Site") of Allihub, Inc. (d/b/a Homejoy) ("Homejoy", "we", "us" and/or "our"). This Site is operated by Homejoy and has been created to provide information about our company and services (our services, together with the Site, the "Services") to our Service visitors and users ("you" and/or "your"). This Privacy Policy sets forth Homejoy's policy with respect to information, including personally identifiable data ("Personal Data") and other information, that is collected from visitors and users of the Services
+Welcome to the web site (the "Site") of Homejoy, Inc. (d/b/a Homejoy) ("Homejoy", "we", "us" and/or "our"). This Site is operated by Homejoy and has been created to provide information about our company and services (our services, together with the Site, the "Services") to our Service visitors and users ("you" and/or "your"). This Privacy Policy sets forth Homejoy's policy with respect to information, including personally identifiable data ("Personal Data") and other information, that is collected from visitors and users of the Services
 
 **Information We Collect:**
 
