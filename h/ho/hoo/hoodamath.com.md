@@ -1,69 +1,74 @@
-> *The following text is extracted and transformed from the hoodamath.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819024128id_/http%3A//www.hoodamath.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoodamath.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331070241id_/http%3A//www.hoodamath.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - HOODA MATH - over 500 Math Games
 
-Hooda Math® has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: Hooda Math®  
+**Updated: February 2, 2014**
 
+HoodaMath.com has created this privacy statement in order to demonstrate our firm commitment to privacy. Hooda Math is intended to provide fun and educational resources for kids and teens to use under the guidance of their parents and teachers. As required by The Children's Online Privacy Protection Act ("COPPA"), we provide this privacy policy to inform parents and legal guardians (collectively, “Parents”) about our privacy practices on our site www.hoodamath.com. 
 
-#### Information Automatically Logged
+We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information. We use this information to help us design a website that is targeted to the interests of our visitors. We do not tie any personal information to your IP address. 
 
-We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information. We use this information to help us design a website that is targeted to the interests of our visitors.  
+Hooda Math uses cookies to track game progress and level completion. A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. The use of cookies by third parties is not covered by our privacy policy. We do not have access or control over these cookies. Clear Gifs (Web Beacons/Web Bugs) 
 
+We employ or our third party tracking utility partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. Advertisers 
 
-#### Advertisers
+We use third-party advertising companies to serve ads when you visit our Web site. In response to the new COPPA rules, HoodaMath.com has opted out of behaviorally targeted ads from all of our advertising networks, and instead only shows contextually-based ads or other carefully-selected ads which are not based on a user's browsing behavior. 
 
-We use third-party advertising companies to serve ads when you visit our Web site. ~~These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.~~ **We no longer allow advertisers to gather information of any kind on our users to coincide with changes to COPPA 2013** If you would like more information about this practice and to know your choices about not having this information used by these companies, click here  
-<http://www.networkadvertising.org/managing/opt_out.asp>
+We have asked all of our advertising networks to turn off all behaviorally targeted ads that would track a user or attempt to create a profile on any of our users. We have also alerted our advertising agencies that a portion of our audience is "under 13" and that they need to adhere to all COPPA rules and regulations. Hooda Math does not run behaviorally targeted ads, but, if you want to opt out of these on other websites that do, you can opt out here: <http://www.iab.net/privacymatters/>
 
-This website may utilize certain services provided by DoubleClick, Inc. (DoubleClick). For further information concerning DoubleClick's privacy practices, including the ability to opt-out from any data collection, reporting and/or targeting activities associated with its services, please go to: <http://www.google.com/intl/en/privacy/privacy-policy.html>
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” or web beacon on your browser. 
 
-#### Third Party Cookies
+You can view the privacy policies for each ad company by following the links below: 
 
-**We no longer allow advertisers to gather information of any kind on our users to coincide with changes to COPPA 2013**
-
-#### Our Cookies and other user information gathering
-
-Our flash games use cookies to save data on your computer so the user can keep playing where the user can start at the same place they left
-
-#### External Links  
-
-
-This site contains links to other sites. Hooda Math® is not responsible for the privacy practices or the content of such Web sites.  
-
-
-#### Security
-
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.   
-
-
-#### Mobile Application
-
-Download our apps at your own device risk. Hooda Math® takes no responsibility for the operation of your mobile device. If you do have a problem with one of our apps, contact us immediately and we will either try to help, or create an update to the app if necessary. 
-
-#### Children's Guidelines
-
-We care about children and understand that they have special privacy needs. Therefore, we have adopted the following privacy policy regarding children:
-
-We will NOT collect, use, or distribute to third parties personally identifiable information without prior verifiable parental consent.
-
-When verifiable parental consent is not obtained, we will only use the online contact information (such as email) to:
-
-  1. Respond directly to the child's request on a one-time basis and not use that information to re-contact the child for other purposes.  
-
-  2. Request the name or online contact information of a parent for the purpose of obtaining verifiable parental consent or providing parental notification.  
-
-  3. Respond more than once directly to a specific request from a child (such as in the case where a child requests a newsletter subscription) and not used to re-contact the child for other purposes. We will use our best efforts to provide parental notification, which will include the nature and intended use as well as an opportunity for the parent to prevent the use of the information and participation in the activity.
+  * BURST! Media: <http://www.burstmedia.com/privacy.html>
+  * Google Adsense: <http://www.google.com/privacy.html>
+  * Viacom Media Network Tribes: <http://www.viacom.com/privacypolicy/Pages/default.aspx>
+  * Commission Junction: <http://www.cj.com/legal/privacy_web_user.html>
+  * Linkshare: <http://www.linkshare.com/legal/privacy/>
 
 
 
-We will NOT entice the child to divulge more information than is needed to participate in any activity, game, or service.
+HoodaMath.com uses third-party analytics software to provide us with information regarding the usage of the Website. The information we receive from such third-party analytics software is not Personal Information attributable to any user but rather information that is aggregated by the software so that we can track such things as how many users we have of the Website on a daily, weekly or monthly basis, what Website content or features our users are frequenting and the general geographic locations of our users. 
 
-We will provide the parent a description of the specific types of a personally identifiable information collected from their child upon request. We will allow the parent to refuse further use or future online collection of personally identifiable information and provide a way for a parent to obtain any personally identifiable information collected from their child.
+To opt-out from this type of tracking, please use the links below: 
 
-We will provide notice to children in age appropriate terms of what personally identifiable information is to be collected. 
+  * Google Analytics: <http://tools.google.com/dlpage/gaoptout>
+  * comScore: <http://www.comscore.com/About_comScore/Privacy_Policy>
 
-We will encourage children to get their parent's permission before sharing personal information online. 
 
-#### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can click here: [Contact Us](https://web.archive.org/web/20130819024128id_/http%3A//www.hoodamath.com/contact/index.html)
+This site contains links to other sites. HoodaMath.com is not responsible for the privacy practices or the content of such Web sites. We encourage you to be aware when you leave our site and to read the privacy policies of each and every site that collects personal information. This privacy policy applies only to the information collected on this Site. Security 
+
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. 
+
+Children's Guidelines: 
+
+We care about children and understand that they have special privacy needs. Therefore, we have adopted the following privacy policy regarding children: 
+
+We will NOT collect, use, or distribute to third parties personally identifiable information without prior verifiable parental consent. 
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. The only information we collect from you prior to allowing your use of the tell a friend feature that is ran by a third party social media feature is your age to determine whether or not you are able to use this feature. 
+
+We will share your personal information only in the ways that are described in this privacy policy. We do not sell your personal information to third parties. 
+
+We may provide your personal information to companies that provide services to help us with our business activities such as providing customer support or content management. These companies are authorized to use your personal information only as necessary to provide these services to us. 
+
+We may also disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. 
+
+If we are involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified by prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
+
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by emailing our Customer Support at admin@hoodamath.com. We will respond to your request to access within 30 days. Data Retention 
+
+We will retain your information as needed to provide you services. If you wish to request that we no longer use your information to provide you services contact us at the email address provided above. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+We may update this privacy policy to reflect changes to our information practices. If we make material changes we will notify you by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+
+If we make material changes to how we use personal information collected from children under 13, we will notify parents by e-mail (if possible), or by means of a notice on this Site in order to obtain verifiable consent for the new uses of the child's personal information. 
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
+
+Hooda Math LLC   
+5115 Excelsior Blvd   
+#321   
+St Louis Park, MN 55416   
+admin@hoodamath.com 
