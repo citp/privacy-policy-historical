@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourmechanic.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814231827id_/https%3A//www.yourmechanic.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourmechanic.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331024002id_/https%3A//www.yourmechanic.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Use YourMechanic to find high quality local mechanics - your privacy is important!
 
