@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lordhtml.blogspot.in privacy policy that was archived on 2013-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130224014051id_/http%3A//lordhtml.blogspot.in/2012/03/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lordhtml.blogspot.in privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331060704id_/http%3A//lordhtml.blogspot.in/2012/03/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Lord HTML
+# Privacy Policy | Place To Download
 
   
 
