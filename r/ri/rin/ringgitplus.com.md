@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the ringgitplus.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526162556id_/http%3A//www.ringgitplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringgitplus.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331145357id_/https%3A//ringgitplus.com/en/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | RinggitPlus.com
+# Privacy Policy - RinggitPlus
 
-**English | Bahasa Melayu**
+## We view and treat your privacy seriously
+
+  * English
+  * Bahasa Melayu
+
+
 
 RinggitPlus.com (“RinggitPlus”) view and treat your Personal Data seriously.
 
@@ -10,11 +15,11 @@ In order for us to provide you with the best possible advice and offers on finan
 
 Please take some time to read our Personal Data and Privacy Policy so that you understand your rights on the matter.
 
-**1\. Collection and Use of Personal Data**
+ **1\. Collection and Use of Personal Data**
 
 Your Personal Data is information that relates directly or indirectly to you, who is identified or identifiable from that information or from that and other information. During the course of your transaction and dealings with RinggitPlus, you may be requested to furnish your Personal Data from time to time. RinggitPlus and its third party service providers may share the Personal Data with each other and use it consistent with this Privacy Policy. They may also combine it with other information to provide and improve RinggitPlus’ products and services.
 
-**2\. Personal Data that RinggitPlus may collect**
+ **2\. Personal Data that RinggitPlus may collect**
 
 When you register to become a user of RinggitPlus’ website, we may collect a variety of your Personal Data, which may include your:
 
@@ -68,7 +73,7 @@ x. Investment preferences
 
 The list of personal data stated above is not exhaustive and may include other personal data depending on the nature of dealings or transaction.
 
-**3\. How RinggitPlus use your Personal Data**
+ **3\. How RinggitPlus use your Personal Data**
 
 Your Personal Data that RinggitPlus collect allows us to process the necessary transaction in relation to our services that you have opted for. The collection of such data is also used in order for us to provide an optimized and customized user experience for our website users.
 
@@ -78,15 +83,15 @@ RinggitPlus may also use your Personal Data for internal purposes such as auditi
 
 RinggitPlus may also disclose your data to third parties such as enforcement agencies or governmental departments pursuant to the requirements of the law or to comply with any court order.
 
-**4\. Protection of Personal Data**
+ **4\. Protection of Personal Data**
 
 RinggitPlus takes the necessary precautions, both administrative and technical to safeguard your personal information against loss, theft, misuse and unauthorized access, disclosure, usage, alteration or destruction.
 
-**5\. Retention of Personal Data and Access**
+ **5\. Retention of Personal Data and Access**
 
 RinggitPlus shall endeavour to make it easy for you to keep your information accurate, complete and up to date. We will retain your personal data for the period necessary to fulfill the many different purposes outlined in this Privacy Policy unless a longer retention period is permitted or required by law. You can help ensure that your contact information and preferences are accurate, complete, and up to date by logging into RinggitPlus’ website at [www.ringgitplus.com](http://www.ringgitplus.com/). For other personal information, we make good faith efforts to provide you with access so you can request that we correct the data if it is inaccurate or delete the data if RinggitPlus is not required to retain it by law or for legitimate business purposes. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. Access, correction, or deletion requests can be made through RinggitPlus’ website at [www.ringgitplus.com](http://www.ringgitplus.com/)
 
-**6\. Cookies**
+ **6\. Cookies**
 
 In order for RinggitPlus to improve on the quality of its services and products as well as to customize user experience, we may track user behaviour on its websites by using “Cookies”. A cookie is a small text file that is stored on your computer that provide us with information about your online use of our website to help us customize your user experience and make our website more user friendly.
 
@@ -94,7 +99,7 @@ Website visitors who have yet to register as our user or have yet to log in as a
 
 If you have set your web browser to warn you before accepting cookies, you should receive a notice message with each cookie. You may decline the use of cookies by opting to turn them off in your web browser but please note that in doing so, this may affect our ability to render the best user experience on our website.
 
-**7\. Other Matters**
+ **7\. Other Matters**
 
 If you have any questions regarding this policy, please contact the following:-
 
@@ -118,7 +123,7 @@ Telephone: 03 7495 5600
 
 RinggitPlus reserves the right to update and amend this policy from time to time. Any material changes will be posted on our website with the updated Privacy Policy.
 
-**Bahasa Melayu | English**
+* * *
 
 RinggitPlus.com (“RinggitPlus”) menganggap dan memperlakukan Data Peribadi anda dengan serius.
 
@@ -126,11 +131,11 @@ Agar kami dapat memberikan nasihat dan tawaran terbaik kepada anda tentang produ
 
 Sila baca Data Peribadi dan Dasar Privasi kami dengan teliti agar anda dapat memahami hak anda dalam perkara ini.
 
-**1\. Pengumpulan dan Penggunaan Data Peribadi**
+ **1\. Pengumpulan dan Penggunaan Data Peribadi**
 
 Data Peribadi anda adalah maklumat yang berkait secara langsung atau tidak langsung dengan anda, yang dikenal pasti atau boleh dikenal pasti daripada maklumat tersebut atau daripada maklumat tersebut dan maklumat lain. Sepanjang transaksi dan urusan anda dengan RinggitPlus, anda mungkin diminta memberikan Data Peribadi anda dari semasa ke semasa. RinggitPlus dan penyedia perkhidmatan pihak ketiganya boleh berkongsi Data Peribadi antara satu sama lain dan menggunakan Data Peribadi secara konsisten dengan Dasar Privasi ini. Mereka juga boleh menggabungkannya dengan maklumat lain untuk menyediakan dan meningkatkan produk dan perkhidmatan RinggitPlus.
 
-**2\. Data Peribadi yang mungkin dikumpul oleh RinggitPlus**
+ **2\. Data Peribadi yang mungkin dikumpul oleh RinggitPlus**
 
 Apabila anda mendaftar untuk menjadi pengguna laman web RinggitPlus, kami boleh mengumpul pelbagai Data Peribadi anda, yang mungkin termasuk:-
 
@@ -184,7 +189,7 @@ x. Pilihan pelaburan anda
 
 Senarai data peribadi yang dinyatakan di atas bukan menyeluruh dan mungkin merangkum data peribadi lain bergantung kepada sifat urusan atau transaksi.
 
-**3\. Bagaimana RinggitPlus menggunakan Data Peribadi anda**
+ **3\. Bagaimana RinggitPlus menggunakan Data Peribadi anda**
 
 Data Peribadi anda yang dikumpul oleh RinggitPlus membolehkan kami memproses transaksi yang diperlukan berhubung dengan perkhidmatan kami yang dipilih oleh anda. Pengumpulan data tersebut juga digunakan untuk membolehkan kami menyediakan pengalaman pengguna yang optimum dan khusus buat pengguna laman web kami.
 
@@ -194,15 +199,15 @@ RinggitPlus juga boleh menggunakan Data Peribadi anda bagi tujuan dalaman sepert
 
 Ringgit Plus juga boleh mendedahkan data anda kepada pihak ketiga seperti agensi penguatkuasaan atau jabatan kerajaan selaras dengan keperluan undang-undang atau demi mematuhi sebarang perintah mahkamah.
 
-**4\. Perlindungan Data Peribadi**
+ **4\. Perlindungan Data Peribadi**
 
 RinggitPlus mengambil langkah berjaga-jaga yang perlu, dari segi pentadbiran dan teknikal, untuk melindungi maklumat peribadi anda daripada kehilangan, kecurian, penyalahgunaan dan akses yang tidak dibenarkan, pendedahan, penggunaan, perubahan atau kemusnahan.
 
-**5\. Penyimpanan Data Peribadi dan Akses**
+ **5\. Penyimpanan Data Peribadi dan Akses**
 
 RinggitPlus akan berusaha sedaya upaya untuk membantu anda memastikan maklumat anda adalah tepat, lengkap dan dikemaskinikan. Kami akan menyimpan data peribadi anda bagi tempoh yang diperlukan untuk memenuhi pelbagai tujuan berbeza yang dibentangkan dalam Dasar Privasi ini kecuali sekiranya tempoh penyimpanan lebih lama dibenarkan atau dikehendaki oleh undang-undang. Anda boleh membantu memastikan bahawa maklumat hubungan dan pilihan anda adalah tepat, lengkap dan dikemaskinikan dengan mendaftar masuk (‘log in’) di laman web RinggitPlus di [www.ringgitplus.com](http://www.ringgitplus.com/). Untuk maklumat peribadi lain, kami melaksanakan usaha niat baik untuk memberikan akses kepada anda agar anda boleh meminta kami membetulkan data jika tidak tepat atau memadamkan data jika RinggitPlus tidak perlu menyimpannya menurut undang-undang atau bagi tujuan perniagaan yang sah. Kami boleh enggan memproses permintaan yang dengan tidak munasabah dibuat berulang-ulang kali, memerlukan usaha teknikal yang keterlaluan, mengancam privasi orang lain, adalah benar-benar tidak praktik, atau sekiranya akses untuknya sebaliknya tidak diperlukan oleh undang-undang tempatan. Permintaan untuk akses, pembetulan, atau pemadaman boleh dibuat melalui laman web RinggitPlus di [www.ringgitplus.com](http://www.ringgitplus.com/)
 
-**6\. ‘Cookies’**
+ **6\. ‘Cookies’**
 
 Demi membantu RinggitPlus mempertingkatkan mutu perkhidmatan dan produknya, serta memberikan pengalaman khusus untuk pengguna, kami boleh mengesan perilaku pengguna di laman webnya dengan menggunakan “Cookies”. ‘Cookie’ adalah fail teks kecil yang disimpan di komputer anda yang memberikan maklumat kepada kami tentang penggunaan laman web oleh anda dalam talian untuk membantu kami menyesuaikan pengalaman pengguna anda dan menjadikan laman web kami lebih mesra pengguna.
 
@@ -210,7 +215,7 @@ Pelawat laman web yang belum mendaftar sebagai pengguna kami atau belum mendafta
 
 Jika anda telah menetapkan pelayar web anda supaya memberi amaran kepada anda sebelum menerima ‘cookies’, anda seharusnya akan menerima pesanan notis dengan setiap ‘cookie’. Anda boleh menolak penggunaan ‘cookies’ dengan memilih untuk menutup penggunaannya dalam pelayar web anda tetapi ingat bahawa dengan berbuat demikian, ini boleh menjejaskan keupayaan kami untuk memberikan pengalaman pengguna terbaik di laman web kami.
 
-**7\. Hal-hal Lain**
+ **7\. Hal-hal Lain**
 
 Jika anda mempunyai sebarang soalan tentang dasar ini, sila hubungi:-
 
@@ -233,3 +238,44 @@ E-mel: [dataprivacy@ringgitplus.com](mailto:dataprivacy@ringgitplus.com)
 Telefon: 03 7495 5600
 
 RinggitPlus merizab hak untuk mengemaskinikan dan meminda dasar ini dari semasa ke semasa. Sebarang perubahan material akan dimaklumkan di laman web kami dengan Dasar Privasi yang dikemaskinikan.
+
+#### Top Credit Card Comparisons
+
+[Top 5 Business Credit Cards](https://web.archive.org/en/lifestyle-card/Credit-Cards-for-the-Entrepreneur.html)
+    Compare the best credit cards for small business, startups, entrepreneurs and the self-employed.
+[Top 5 Business Travel Cards](https://web.archive.org/en/lifestyle-card/Credit-Cards-for-the-Business-Traveller.html)
+    Compare the top credit cards for frequent business travellers on Malaysia Airlines Business Class and leading airlines in South East Asia.
+[Top 5 Holiday & Travel Cards](https://web.archive.org/en/lifestyle-card/Best-Holiday-and-Travel-Credit-Cards.html)
+    Our comparison of the top credit cards for holidays and heavy travellers, frequent flyers, Air Asia VIPs, get free air miles faster.
+[Top 5 Islamic Banking Cards](https://web.archive.org/en/lifestyle-card/Best-Islamic-Credit-Cards.html)
+    Read about all available islamic card-i banking cards that are Shariah compliant and free of Riba and Gharar.
+[Top 5 Petrol Credit Cards](https://web.archive.org/en/lifestyle-card/Best-Petrol-Credit-Cards.html)
+    Browse the top petrol credit cards for drivers and commercial travellers, fill your tank for less at Petronas, Shell, BHP, and other petrol stations
+[Top 5 Premium Credit Cards](https://web.archive.org/en/lifestyle-card/Best-Premium-Credit-Cards.html)
+    Leading premium credit cards for the VIP, instant access to airport lounge privileges, golf benefits, luxury resorts and major hotels.
+[Top 5 Shopping Credit Cards](https://web.archive.org/en/lifestyle-card/Best-Credit-Cards-for-Shopping.html)
+    Our top list of shopping credit cards gets you more discounts and rebates on your everyday purchases at leading supermarkets,hypermarkets, and malls. Shop more for less at AEON, Tesco, Giant, Parkson, and more.
+
+#### Personal Finance Library
+
+[Malaysian Money News](https://web.archive.org/en/blog/)
+    Personal finance news and reviews from the leading financial comparison website in Malaysia. Learn tips on how to save money, get out of credit card debt, and better manage your budget.
+[Credit Card Reviews](https://web.archive.org/en/credit-card/reviews/)
+    Reviews for the top credit cards in Malaysia. Understand the pros and cons for each card and discover the features and benefits that could save you thousands of ringgit every year.
+[Credit Card Promotions](https://web.archive.org/en/promotions/)
+    Connect to the latest promotions available for your Malaysian credit cards and debit cards. Explore the promotions you need to save on dining, travel, and shopping.
+[Bank Negara](http://www.bnm.gov.my/)
+    Official website of the national central bank of Malaysia.
+[AKPK](http://www.akpk.org.my/)
+    Official website of the Agensi Kaunseling Dan Pengurusan Kredi. This is the agency to contact if you're having serious debt issues or are on the verge of bankruptcy.
+[Banking Terms & Definitions](https://web.archive.org/en/banking-terms-and-definitions.html)
+    Get explanations on banking terms and jargon straight from the mouth of the leading financial comparison website in Malaysia. We've made our glossary to help you understand the fine print like a banker.
+
+#### About Us
+
+##### RinggitPlus is Malaysia's leading comparison website. Everyday, we'll help you get more for your money - whether you're [applying for a credit card](https://web.archive.org/en/credit-card/) or [personal loan](https://web.archive.org/en/personal-loan/), planning the best [mortgage](https://web.archive.org/en/home-loan/) for your dream house, or looking for [great discounts](https://web.archive.org/en/promotions/).
+
+  * [Read more about RinggitPlus](https://web.archive.org/en/about-us.html)
+  * [Contact us](https://web.archive.org/en/contact-us.html)
+
+
