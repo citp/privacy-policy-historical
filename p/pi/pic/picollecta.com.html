@@ -1,10 +1,7 @@
-<!--The following is the downloaded HTML source of the picollecta.com privacy policy that was archived on 2013-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130315012828id_/http%3A//www.picollecta.com/page/Privacy-Policy-4) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the picollecta.com privacy policy that was archived on 2014-03-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331025906id_/https%3A//www.picollecta.com/page/Privacy-Policy-4) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-
-
-
 <title>Privacy Policy | Picollecta</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="picollecta" content="nopic">
@@ -13,338 +10,725 @@
 <meta name="description" content="This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.">
 <meta name="keywords" content="Privacy Policy">
 
+<!-- links.tpl -->
+<link rel="dns-prefetch" href="https://img1.picollecta.com">
+<link rel="dns-prefetch" href="https://img2.picollecta.com">
+<link rel="dns-prefetch" href="https://img3.picollecta.com">
 
-
-</head><body><input type="hidden" id="SITEURL" value="http://www.picollecta.com/">
-<link rel="shortcut icon" href="http://www.picollecta.com/templates/images/favicon.ico">
-<link rel="apple-touch-icon-precomposed" href="favicon.ico">
-<link href="http://www.picollecta.com/templates/css/import.css" rel="stylesheet" type="text/css">
-
+<link rel="icon" href="https://www.picollecta.com/templates/images/favicon.png" type="image/x-icon">
+<link rel="apple-touch-icon-precomposed" href="https://www.picollecta.com/templates/images/ipad-icon.png">
+	<link href="https://www.picollecta.com/templates/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+	<link href="https://www.picollecta.com/min/?f=templates/css/reset.css,templates/css/style.css,templates/css/inner-style.css,templates/css/animate.css,templates/css/jquery.jscrollpane.css,templates/css/cookiecuttr.css" rel="stylesheet" type="text/css">
 
 
 <!--[if lt IE 8]>
 <p>You aren't using a recent version of Internet Explorer.</p>
 <![endif]-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.picollecta.com/templates/js/jquery-1.7.2.min.js" type="text/javascript"></script>
-<script src="http://www.picollecta.com/templates/js/jquery.masonry.js" type="text/javascript"></script>
-<script src="http://www.picollecta.com/templates/js/jquery.picollecta.js"></script>
+<script src="https://code.jquery.com/jquery-1.7.2.min.js" type="text/javascript"></script>
+
+
+	<script src="https://www.picollecta.com/min/?f=templates/js/masonry.pkgd.js,templates/js/imagesloaded.pkgd.js,templates/js/jquery.message.js,templates/js/jquery.autosize.js,templates/js/jquery.autocomplete.js,templates/js/jquery.jscrollpane.min.js,templates/js/jquery.picollecta.js,templates/js/jquery.cookiecuttr.js,templates/js/jquery.cookie.js,templates/js/lazyload.min.js" type="text/javascript"></script> 
+
+
+
 
 <script type="text/javascript">
 /*function for home page layout*/
 	$('#tumblelog').hide();
-$(function () {
-    var $tumblelog = $('#tumblelog');
-		$('#tumblelog').hide();
-    $tumblelog.imagesLoaded(function () {$('#tumblelog').show();
+	$(function () {
+	  var $tumblelog = $('#tumblelog');
+	
+	$("img.lazy").show().lazyload({ 
+		threshold : 500,
+		skip_invisible : false
+	});
+
+  	$('#tumblelog').hide();
+    $tumblelog.imagesLoaded(function () { $('#loading-message').hide(); $('#tumblelog').show();
         $tumblelog.masonry({
-            columnWidth: 212,
-            gutterWidth: 20,
-            isAnimated: true,
+            columnWidth: 232,
+            gutter: 20,
+            isAnimated: false,
+            transitionDuration: 0,			
             isFitWidth: true
         });
     });
-
+    
+    window.onload = function() {
+        $(window).resize();
+    };
 });
-
 </script>
+
+<!-- Start Google Analytics js code in analytics.tpl -->
 
 <script type="text/javascript">
+    if(location.hostname == "www.picollecta.com")
+    {
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-36683930-1']);
+		  _gaq.push(['_trackPageview']);
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-36683930-1']);
-  _gaq.push(['_trackPageview']);
+		  (function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+	}
+	else
+	{
+		// Note: Not www.picollecta.com, no Google analytics code included
+	}
+</script>
+<!-- End Google Analytics Javascript -->
+<!--[if lt IE 9]>
+      <link href="https://www.picollecta.com/templates/css/ie-only.css" rel="stylesheet" type="text/css">
+<![endif]-->
+</head>
+<body>
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+<div id="page-header">
+	<!-- Start Alexa Certify Javascript in alexa.tpl -->
 
+<script type="text/javascript">
+    if(location.hostname == "www.picollecta.com")
+    {
+        _atrk_opts = { atrk_acct:"HV2+g1awA400g7", domain:"picollecta.com",dynamic: true};
+        (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+    }
 </script>
 
-
-
-
-
-
-<!--[if lt IE 9]>
-      <link href="http://www.picollecta.com/templates/css/ie-only.css" rel="stylesheet" type="text/css">
-<![endif]-->
+<noscript>
+	<img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=HV2+g1awA400g7" style="display:none" height="1" width="1" alt="" />
+</noscript>
+<!-- End Alexa Certify Javascript -->
+<!-- Start cookieCuttr Javascript in header.tpl -->
+<script type="text/javascript">
+	$(document).ready(function () {
+		$.cookieCuttr();
+	});
+</script>
+<!-- End cookieCuttr Javascript -->
+<input type="hidden" id="SITEURL" value="https://www.picollecta.com/">
 
 <div id="header" style="background:#404067">
-  <div class="container">
-  
-  
-    <div class="search-box">
-	
-		
-				
-	
-      <form method="post" action="http://www.picollecta.com/">
-        <input type="text" id="searchheader" name="searchheader" maxlength="40" value="Search" onfocus=" if(this.value=='Search')this.value='' " onblur=" if(this.value=='')this.value='Search'  ">
-     
-
-	 
-	 <input type="hidden" name="headersearchdecode" id="headersearchdecode" value="Search">
-	 
-	  </form>
-    </div>
-    <h1 class="logo"><a href="http://www.picollecta.com/" title="picollecta">picollecta</a></h1>
-    <ul class="navigation">
-      <li class="social-icon">
-        <div class="clearfix">
-			<a href="http://www.facebook.com/Picollecta" class="facebook" target="_blank">facebook</a> 
-			<a href="https://twitter.com/Picollecta" class="twitter" target="_blank">twitter</a>
+	<div class="container">
+		<form id="mySearch" method="post" action="https://www.picollecta.com/collecting/">
+			<div class="search-box">
+				<input type="text" placeholder="Search..." id="searchheader" name="searchheader" maxlength="40" value="">
+			</div>
+			<div id="searchSubmit" class="control-search"></div>
+			<div id="searchClear" class="control-clear"></div>
+			<input type="hidden" value="" name="search_cat">
+			<div class="advSearch finger" id="advSearch">Advanced</div>
+		</form>
+		<div id="logo">
+			<span class="logo"><a href="https://www.picollecta.com/" title="picollecta">picollecta</a></span>
 		</div>
-      </li>
-
-      <li><a href="Javascript: void(0);" onclick="showModel('add-popup-box'); return false;">Add Photos</a></li>
-
-	  
-	  	
-	  
-	  
-	   	 	 
-      <li class="about"><a href="#">Privacy Policy</a>
-        <div class="drop-down">
-          <ul>
-		 	        		<li>
-					<a href="http://www.picollecta.com/page/About-Us-7">About Us
-					</a>
-				</li>
-      		        		<li>
-					<a href="http://www.picollecta.com/page/Acceptable-Use-Policy-72">Acceptable Use Policy
-					</a>
-				</li>
-      		        		<li>
-					<a href="http://www.picollecta.com/page/Competition-Terms-Conditions-75">Competition Terms-Conditions
-					</a>
-				</li>
-      		        		<li>
-					<a href="http://www.picollecta.com/page/Contact-Us-5">Contact Us
-					</a>
-				</li>
-      		        		<li>
-					<a href="http://www.picollecta.com/page/Cookie-Policy-73">Cookie Policy
-					</a>
-				</li>
-      		        		<li>
-					<a href="http://www.picollecta.com/page/Copyright-Policy-6">Copyright Policy
-					</a>
-				</li>
-      		        		<li>
-					<a href="http://www.picollecta.com/page/Help-3">Help
-					</a>
-				</li>
-      		        		<li>
-					<a href="http://www.picollecta.com/page/Our-Mission-1">Our Mission
-					</a>
-				</li>
-      		        		<li>
-					<a href="http://www.picollecta.com/page/Pic-It-Button-8">Pic It Button
-					</a>
-				</li>
-      		        		<li>
-					<a href="http://www.picollecta.com/page/Privacy-Policy-4">Privacy Policy
-					</a>
-				</li>
-      		        		<li>
-					<a href="http://www.picollecta.com/page/Site-Map-70">Site Map
-					</a>
-				</li>
-      		        		<li>
-					<a href="http://www.picollecta.com/page/Terms-and-conditions-of-use-68">Terms and conditions of use
-					</a>
-				</li>
-      					<li><a href="http://www.picollecta.com/picitbutton.php">Embed HTML code</a></li>
-		  </ul>
-        </div>
-      </li>
-            <li><a href="http://www.picollecta.com/login"> Log In</a> </li>
-            
-    </ul>
-  </div>
+		
+		<ul class="navigation">
+			<li class="social-icon">
+				<div class="clearfix">
+					<a href="http://www.facebook.com/Picollecta" class="facebook" target="_blank">facebook</a> 
+					<a href="https://twitter.com/Picollecta" class="twitter" target="_blank">twitter</a>
+				</div>
+			</li>
+			
+			<li>
+								<a href="Javascript: void(0);" onclick="showModel('add-popup-box'); return false;">Add Photos</a>
+							</li>
+						 
+			   				 
+			<li class="about"><a href="#">Privacy Policy</a>
+				<div class="drop-down">
+					<ul>
+												<li>
+							<a href="https://www.picollecta.com/page/About-Us-7">About Us</a>
+						</li>
+												<li>
+							<a href="https://www.picollecta.com/page/Acceptable-Use-Policy-72">Acceptable Use Policy</a>
+						</li>
+												<li>
+							<a href="https://www.picollecta.com/page/Contact-Us-5">Contact Us</a>
+						</li>
+												<li>
+							<a href="https://www.picollecta.com/page/Cookie-Policy-73">Cookie Policy</a>
+						</li>
+												<li>
+							<a href="https://www.picollecta.com/page/Copyright-Policy-6">Copyright Policy</a>
+						</li>
+												<li>
+							<a href="https://www.picollecta.com/page/Help-3">Help</a>
+						</li>
+												<li>
+							<a href="https://www.picollecta.com/page/Our-Mission-1">Our Mission</a>
+						</li>
+												<li>
+							<a href="https://www.picollecta.com/page/Pic-It-Button-8">Pic It Button</a>
+						</li>
+												<li>
+							<a href="https://www.picollecta.com/page/Privacy-Policy-4">Privacy Policy</a>
+						</li>
+												<li>
+							<a href="https://www.picollecta.com/page/Site-Map-70">Site Map</a>
+						</li>
+												<li>
+							<a href="https://www.picollecta.com/page/Terms-and-conditions-of-use-68">Terms and conditions of use</a>
+						</li>
+											
+						<li>
+							<a href="https://www.picollecta.com/picitbutton.php">Embed HTML code</a>
+						</li>
+				  </ul>
+				</div>
+			</li>
+			
+							<li><a href="https://www.picollecta.com/login"> Log In</a></li>
+					</ul>
+		
+	</div>
 </div>
-<div id="category-wrapper">
+<div id="msgBoxes">
+<!--Chat Boxes Inserted Here Via JQUERY -->
+<input type="hidden" id="fromUser" value="">	
+<input type="hidden" id="fromUserProfile" value="												 https://www.picollecta.com/templates/images/s_NoProfileImage.png
+												 												 ">
+<input type="hidden" id="userid" value="">
+</div>
+<div id="searchOptions" style="display:none" class="popup-container hideShowPopup">
+	<div style="width: 60%; margin-left: 0px; bottom:50%; left: 20%; height: 132px; border: none" class="msgContainer popup-box addpic-rss bounceInUp animated">
+		<div class="msgHeader">
+			<div class="toUser">Advanced Search</div>
+			<div onclick="hideModel('searchOptions');" class="msgBtn msgClose">X</div>
+		</div>
+		<form id="advSearchForm" method="post" action="https://www.picollecta.com/">
+			<div class="userSearch" style="padding:10px">
+				<div id="searchInputBoxes">
+					<input type="text" placeholder="Search All Categories..." onkeydown="if(event.keyCode==13)removeHiddenInput(event);" name="searchheader" id="catSearchInput" maxlength="40" class="showSearchInput">
+					<input type="text" placeholder="Search For Pics From..." onkeydown="if(event.keyCode==13)removeHiddenInput(event);" name="searchheader" id="usernameSearchInput" maxlength="40">
+					<input type="text" placeholder="Search For Pics within Category..." onkeydown="if(event.keyCode==13)removeHiddenInput(event);" name="searchheader" id="subCatSearchInput" maxlength="40">
+					<input type="text" placeholder="Search For Pics With Headline..." onkeydown="if(event.keyCode==13)removeHiddenInput(event);" name="searchheader" id="headlineSearchInput" maxlength="40">
+					<input type="text" placeholder="Search For Pics With Description..." onkeydown="if(event.keyCode==13)removeHiddenInput(event);" name="searchheader" id="descriptionSearchInput" maxlength="40">
+					<input type="text" placeholder="Search For Albums..." onkeydown="if(event.keyCode==13)removeHiddenInput(event);" name="searchheader" id="albumSearchInput" maxlength="40">
+					<input type="text" placeholder="Search For Pics from Website..." onkeydown="if(event.keyCode==13)removeHiddenInput(event);" name="searchheader" id="piccedViaSearchInput" maxlength="40">
+				</div>
+				<div id="searchListBoxes">
+					<input type="radio" id="catSearch" name="advSearchRadio" value="text" checked="">
+					<label for="catSearch">All Categories</label>
+					<input type="radio" id="usernameSearch" name="advSearchRadio" value="username">
+					<label for="usernameSearch">Username</label>
+					<input type="radio" id="subCatSearch" name="advSearchRadio" value="subCat">
+					<label for="subCatSearch">Category</label>
+					<input type="radio" id="headlineSearch" name="advSearchRadio" value="headline">
+					<label for="headlineSearch">Headline</label>
+					<input type="radio" id="descriptionSearch" name="advSearchRadio" value="description">
+					<label for="descriptionSearch">Description</label>
+					<input type="radio" id="albumSearch" name="advSearchRadio" value="album_name">
+					<label for="albumSearch">Album</label>
+					<input type="radio" id="piccedViaSearch" name="advSearchRadio" value="picced_via_domain">
+					<label for="piccedViaSearch">Picced Via Domain</label>
+				</div>
+			</div>
+			<input type="hidden" value="All Categories" name="search_cat">
+		</form>
+	</div>
+	<div onclick="hideModel('searchOptions');" class="bg-overlay"></div>
+</div>
+<script src="https://www.picollecta.com/templates/js/jquery.search.js" type="text/javascript"></script>
+<script type="text/javascript">
+(function($){
+    var origContent = "";
+
+    function loadContent(hash) {
+        if(hash != "") {
+            if(origContent == "") {
+                origContent = $('#content').html();
+            }
+            $('#content').load(hash +".html",
+                               function(){ prettyPrint(); });
+        } else if(origContent != "") {
+            $('#content').html(origContent);
+        }
+    }
+
+    $(document).ready(function() {
+            $('#navigation a').not('.external-link').click(function(e) {
+                    var url = $(this).attr('href');
+                    url = url.replace(/^.*#/, '');
+                    $.history.load(url);
+                    return false;
+                });
+        });
+})(jQuery);
+
+</script>	<div id="welcome-msg">
   <div class="container">
-    <ul class="main-nav">
-                        <li class="all-cat">
-	  	  	  <a href="http://www.picollecta.com/collectible/all">All Categories</a>
-		  
-		  	  
-        <div class="category-list animated fadeInDown"> 
-          <!-- For Popular categories -->
-          <div class="pop-cat">
-            <h2 class="cat-heading">Popular categories</h2>
-            			
-                        
-                        <ul>
-                            
-            <!--  -->
-                                          <li><a href="http://www.picollecta.com/collectible/antiques" id="category4" class="highlight">Antiques</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/art" id="category5" class="highlight">Art</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/autographs" id="category6" class="highlight">Autographs</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/books" id="category14" class="highlight">Books</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/cars" id="category20" class="highlight">Cars</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/coins" id="category23" class="highlight">Coins</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/comic-books" id="category24" class="highlight">Comic books</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/furniture" id="category35" class="highlight">Furniture</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/handbags" id="category87" class="highlight">Handbags</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/jewelry" id="category40" class="highlight">Jewelry</a></li>
-                          </ul>
-                        <ul>
-                            
-            <!--  -->
-                                          <li><a href="http://www.picollecta.com/collectible/models" id="category51" class="highlight">Models</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/movie-memorabilia" id="category30" class="highlight">Movie memorabilia</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/music-memorabilia" id="category53" class="highlight">Music memorabilia</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/photography" id="category60" class="highlight">Photography</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/postage-stamps" id="category62" class="highlight">Postage stamps</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/sports-memorabilia" id="category70" class="highlight">Sports memorabilia</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/toys" id="category73" class="highlight">Toys</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/trading-cards" id="category74" class="highlight">Trading cards</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/watches" id="category78" class="highlight">Watches</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/wine" id="category80" class="highlight">Wine</a></li>
-                          </ul>
-             </div>
-          <!-- For Non popular categories -->
-          <div class="oth-cat">
-            <h2 class="cat-heading">Other categories</h2>
-            			
-            			
-                        <ul>
-                            
-                            
-                                          <li><a href="http://www.picollecta.com/collectible/action-figures" id="category2">Action figures</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/advertising-memorabilia" id="category3">Advertising memorabilia</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/automobilia" id="category7">Automobilia</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/aviation-memorabilia" id="category8">Aviation memorabilia</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/banknotes" id="category9">Banknotes</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/cameras" id="category17">Cameras</a></li>
-                          </ul>
-                        <ul>
-                            
-                            
-                                          <li><a href="http://www.picollecta.com/collectible/clocks" id="category21">Clocks</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/dolls" id="category27">Dolls</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/ferrari" id="category106">Ferrari</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/figurines" id="category103">Figurines</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/macabre" id="category43">Macabre</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/medals" id="category47">Medals</a></li>
-                          </ul>
-                        <ul>
-                            
-                            
-                                          <li><a href="http://www.picollecta.com/collectible/meteorites" id="category110">Meteorites</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/militaria" id="category48">Militaria</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/musical-instruments" id="category54">Musical Instruments</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/posters" id="category64">Posters</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/royal-memorabilia" id="category66">Royal memorabilia</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/silver" id="category105">Silver</a></li>
-                          </ul>
-                        <ul>
-                            
-                            
-                                          <li><a href="http://www.picollecta.com/collectible/space-memorabilia" id="category69">Space memorabilia</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/titanic-memorabilia" id="category111">Titanic memorabilia</a></li>
-                                          <li><a href="http://www.picollecta.com/collectible/vintage-clothing" id="category77">Vintage clothing</a></li>
-                          </ul>
-             
-            <!--<div>
-				<img src="http://www.picollecta.com/templates/images/icon-question.jpg" href="Javascript: void(0);" style="cursor:pointer;" onclick="showModel('request_categories'); return false;" />
-			</div>--> 
-            
-          </div>
-          <span class="button btn-red btn-more" id="btn-more">More »</span> 
-          <!--<div class="separator"></div>-->
-          <div class="btn-help" onclick="showModel('request_categories'); return false;">Not found your collecting interest <span class="button btn-red">?</span> </div>
-        </div>
-      </li>
-    </ul>
-    <ul id="pic-type">
-            
-      	  
-	         
-                  <li class="news"><a href="http://www.picollecta.com/collectible/all/news">News</a></li>
-      <li class="advice"><a href="http://www.picollecta.com/collectible/all/opinion">Opinion</a></li>
-      <li class="trade"><a href="http://www.picollecta.com/collectible/all/buy-sell">Buy/Sell</a></li>
-          </ul>
-  </div>
+    <div class="page-container">
+		<p>The community for collectors | Share your collection, news, links and videos</p>
+		  			  <ul>
+				<li><a href="https://www.picollecta.com/signup" class="btn signup">Free Account</a></li>
+				<li><a href="https://www.picollecta.com/login" class="btn login">Log in</a></li>
+			  </ul>
+		   
+		</div>
+	</div>
 </div>
-
+	<!-- headercategory.tpl -->
+<div id="category-wrapper">
+	<div class="container">
+		<ul class="main-nav">
+								  
+						
+						<li class="all-cat">
+									<a href="https://www.picollecta.com/collectible/all-categories">All Categories</a>
+								<div class="category-list animated fadeInDown"> 
+					<!-- For Popular categories -->
+					<div class="pop-cat">
+						<h6 class="cat-heading">Popular categories</h6>
+									
+						  
+											
+													<ul>
+																																			<li>
+											<a href="https://www.picollecta.com/collectible/all-categories" id="category">
+												<strong>All Categories</strong>
+											</a>
+										</li>
+								
+									
+																											<li>
+											<a href="https://www.picollecta.com/collectible/antiques" id="category4">
+												Antiques
+											</a>
+										</li>
+								
+									
+																											<li>
+											<a href="https://www.picollecta.com/collectible/art" id="category5">
+												Art
+											</a>
+										</li>
+								
+									
+																											<li>
+											<a href="https://www.picollecta.com/collectible/autographs" id="category6">
+												Autographs
+											</a>
+										</li>
+								
+									
+																											<li>
+											<a href="https://www.picollecta.com/collectible/books" id="category14">
+												Books
+											</a>
+										</li>
+								
+									
+																											<li>
+											<a href="https://www.picollecta.com/collectible/cars" id="category20">
+												Cars
+											</a>
+										</li>
+								
+									
+																											<li>
+											<a href="https://www.picollecta.com/collectible/coins" id="category23">
+												Coins
+											</a>
+										</li>
+								
+									
+																											<li>
+											<a href="https://www.picollecta.com/collectible/comic-books" id="category24">
+												Comic books
+											</a>
+										</li>
+								
+									
+																											<li>
+											<a href="https://www.picollecta.com/collectible/dolls" id="category27">
+												Dolls
+											</a>
+										</li>
+								
+									
+																											<li>
+											<a href="https://www.picollecta.com/collectible/furniture" id="category35">
+												Furniture
+											</a>
+										</li>
+								
+									
+																											<li>
+											<a href="https://www.picollecta.com/collectible/jewelry" id="category40">
+												Jewelry
+											</a>
+										</li>
+								
+									
+															</ul>
+													<ul>
+																																			<li>
+											<a href="https://www.picollecta.com/collectible/models" id="category51">
+												Models
+											</a>
+										</li>
+								
+									
+																											<li>
+											<a href="https://www.picollecta.com/collectible/movie-memorabilia" id="category30">
+												Movie memorabilia
+											</a>
+										</li>
+								
+									
+																											<li>
+											<a href="https://www.picollecta.com/collectible/music-memorabilia" id="category53">
+												Music memorabilia
+											</a>
+										</li>
+								
+									
+																											<li>
+											<a href="https://www.picollecta.com/collectible/photography" id="category60">
+												Photography
+											</a>
+										</li>
+								
+									
+																											<li>
+											<a href="https://www.picollecta.com/collectible/postage-stamps" id="category62">
+												Postage stamps
+											</a>
+										</li>
+								
+									
+																											<li>
+											<a href="https://www.picollecta.com/collectible/sports-memorabilia" id="category70">
+												Sports memorabilia
+											</a>
+										</li>
+								
+									
+																											<li>
+											<a href="https://www.picollecta.com/collectible/toys" id="category73">
+												Toys
+											</a>
+										</li>
+								
+									
+																											<li>
+											<a href="https://www.picollecta.com/collectible/trading-cards" id="category74">
+												Trading cards
+											</a>
+										</li>
+								
+									
+																											<li>
+											<a href="https://www.picollecta.com/collectible/vintage-clothing" id="category77">
+												Vintage clothing
+											</a>
+										</li>
+								
+									
+																											<li>
+											<a href="https://www.picollecta.com/collectible/watches" id="category78">
+												Watches
+											</a>
+										</li>
+								
+									
+																											<li>
+											<a href="https://www.picollecta.com/collectible/wine" id="category80">
+												Wine
+											</a>
+										</li>
+								
+									
+															</ul>
+						 
+					</div>
+					<!-- For Non popular categories -->
+					<div class="oth-cat">
+						<h6 class="cat-heading">Other categories</h6>
+									
+						
+						
+													<ul>
+																																										<li>
+										<a href="https://www.picollecta.com/collectible/action-figures" id="category2">
+											Action figures
+										</a>
+									</li>
+																										<li>
+										<a href="https://www.picollecta.com/collectible/advertising-memorabilia" id="category3">
+											Advertising memorabilia
+										</a>
+									</li>
+																										<li>
+										<a href="https://www.picollecta.com/collectible/automobilia" id="category7">
+											Automobilia
+										</a>
+									</li>
+																										<li>
+										<a href="https://www.picollecta.com/collectible/aviation-memorabilia" id="category8">
+											Aviation memorabilia
+										</a>
+									</li>
+																										<li>
+										<a href="https://www.picollecta.com/collectible/banknotes" id="category9">
+											Banknotes
+										</a>
+									</li>
+																										<li>
+										<a href="https://www.picollecta.com/collectible/cameras" id="category17">
+											Cameras
+										</a>
+									</li>
+																										<li>
+										<a href="https://www.picollecta.com/collectible/ceramics" id="category6847">
+											Ceramics
+										</a>
+									</li>
+																										<li>
+										<a href="https://www.picollecta.com/collectible/clocks" id="category21">
+											Clocks
+										</a>
+									</li>
+																										<li>
+										<a href="https://www.picollecta.com/collectible/disney-collectibles" id="category6844">
+											Disney Collectibles
+										</a>
+									</li>
+															</ul>
+													<ul>
+																																										<li>
+										<a href="https://www.picollecta.com/collectible/ferrari" id="category106">
+											Ferrari
+										</a>
+									</li>
+																										<li>
+										<a href="https://www.picollecta.com/collectible/figurines" id="category103">
+											Figurines
+										</a>
+									</li>
+																										<li>
+										<a href="https://www.picollecta.com/collectible/glassware" id="category6848">
+											Glassware
+										</a>
+									</li>
+																										<li>
+										<a href="https://www.picollecta.com/collectible/handbags" id="category87">
+											Handbags
+										</a>
+									</li>
+																										<li>
+										<a href="https://www.picollecta.com/collectible/interiors" id="category6845">
+											Interiors
+										</a>
+									</li>
+																										<li>
+										<a href="https://www.picollecta.com/collectible/lunchboxes" id="category414">
+											Lunchboxes
+										</a>
+									</li>
+																										<li>
+										<a href="https://www.picollecta.com/collectible/macabre" id="category43">
+											Macabre
+										</a>
+									</li>
+																										<li>
+										<a href="https://www.picollecta.com/collectible/medals" id="category47">
+											Medals
+										</a>
+									</li>
+																										<li>
+										<a href="https://www.picollecta.com/collectible/meteorites" id="category110">
+											Meteorites
+										</a>
+									</li>
+															</ul>
+													<ul>
+																																										<li>
+										<a href="https://www.picollecta.com/collectible/militaria" id="category48">
+											Militaria
+										</a>
+									</li>
+																										<li>
+										<a href="https://www.picollecta.com/collectible/musical-instruments" id="category54">
+											Musical Instruments
+										</a>
+									</li>
+																										<li>
+										<a href="https://www.picollecta.com/collectible/passports" id="category6849">
+											Passports
+										</a>
+									</li>
+																										<li>
+										<a href="https://www.picollecta.com/collectible/pins-and-badges" id="category6839">
+											Pins and Badges
+										</a>
+									</li>
+																										<li>
+										<a href="https://www.picollecta.com/collectible/political-memorabilia" id="category6838">
+											Political Memorabilia
+										</a>
+									</li>
+																										<li>
+										<a href="https://www.picollecta.com/collectible/posters" id="category64">
+											Posters
+										</a>
+									</li>
+																										<li>
+										<a href="https://www.picollecta.com/collectible/royal-memorabilia" id="category66">
+											Royal memorabilia
+										</a>
+									</li>
+																										<li>
+										<a href="https://www.picollecta.com/collectible/seashells" id="category6843">
+											Seashells
+										</a>
+									</li>
+																										<li>
+										<a href="https://www.picollecta.com/collectible/silver" id="category105">
+											Silver
+										</a>
+									</li>
+															</ul>
+													<ul>
+																																										<li>
+										<a href="https://www.picollecta.com/collectible/space-memorabilia" id="category69">
+											Space memorabilia
+										</a>
+									</li>
+																										<li>
+										<a href="https://www.picollecta.com/collectible/tableware" id="category415">
+											Tableware
+										</a>
+									</li>
+																										<li>
+										<a href="https://www.picollecta.com/collectible/titanic-memorabilia" id="category111">
+											Titanic memorabilia
+										</a>
+									</li>
+																										<li>
+										<a href="https://www.picollecta.com/collectible/video-games" id="category6840">
+											Video Games
+										</a>
+									</li>
+																										<li>
+										<a href="https://www.picollecta.com/collectible/vinyl-records" id="category6842">
+											Vinyl Records
+										</a>
+									</li>
+																										<li>
+										<a href="https://www.picollecta.com/collectible/whisky-spirits" id="category79">
+											Whisky &amp; Spirits
+										</a>
+									</li>
+															</ul>
+						 
+					</div>
+					<span class="button btn-red btn-more" id="btn-more">More »</span> 
+					<!--<div class="separator"></div>-->
+					<div class="btn-help" onclick="showModel('request_categories'); return false;">Not found your collecting interest <span class="button btn-red">?</span></div>
+				</div>
+			</li>
+					</ul>
+		
+		<ul id="pic-type">
+								  
+													<li class="news"><h5><a href="https://www.picollecta.com/collectible/all/news">News</a></h5></li>
+			<li class="advice"><h5><a href="https://www.picollecta.com/collectible/all/opinion">Community</a></h5></li>
+			<li class="trade"><h5><a href="https://www.picollecta.com/collectible/all/buy-sell">Marketplace</a></h5></li>
+						<li class="blog"><h5><a href="https://www.picollecta.com/collectible/all/blogs">Blogs</a></h5></li>
+		</ul>
+	</div>
+</div>
 
 <div class="popup-container hideShowPopup" id="request_categories">
-  <div class="popup-box bounceInUp animated">
-    <div class="heading">
-      <h1>Request Category</h1>
+	<div class="popup-box bounceInUp animated">
+		<div class="heading">
+			<div class="h1">Request Category</div>
+		</div>
+		<div class="popup-content" style="font-size:13px;"> <p>&nbsp;</p>
+<p lang="en-US" style="margin-bottom: 0in; widows: 2; orphans: 2; font-color: #000000; font: Helvetica, sans-serif; font-size: 3">Not found the collecting category you are looking for? Send us an Email to <a href="mailto:info@picollecta.com?subject=Request%20Category"> <u>info@picollecta.com</u> </a> and we’ll consider adding it to the list.</p></div>
+	</div>
+	<div class="bg-overlay" onclick="hideModel('request_categories');"></div>
+</div>
+</div>
 
-    </div>
-    <div class="popup-content" style="font-size:13px;"> <p>&nbsp;</p>
-<p lang="en-US" style="margin-bottom: 0in; widows: 2; orphans: 2"><font color="#000000"><font face="Helvetica, sans-serif"><font size="3">Not found the collecting category you are looking for? Send us an Email to <a href="mailto:info@picollecta.com?subject=Request%20Category"> <u>info@picollecta.com</u> </a> and we’ll consider adding it to the list.</font></font></font></p></div>
-  </div>
-  <div class="bg-overlay" onclick="hideModel('request_categories');"></div>
-</div>
-<div class="popup-container hideShowPopup" id="add-popup-box">
-  <div class="popup-box popup-addplus bounceIn animated">
-    <div class="heading">
-      <h1>Add+</h1>
-  <!--<p class="info-txt">To add pictures from any website use the <a href="http://www.picollecta.com/page/Pic-It-28">"Pic it" </a> button</p>-->
-  <p class="info-txt">You may also add pictures from any website with the <a href="http://www.picollecta.com/page/Pic-It-Button-8" style="color:#0099FF;">Pic It</a> button</p>
-    </div>
-    <div class="popup-content">
-      <ul class="add-links clearfix">
-        <li class="add-pic"><a href="Javascript: void(0);" onclick="showModel('welcome_message'); return false;"><span></span></a>
-          <h2>Add a Pic</h2>
-        </li>
-        <li class="upload-pic"><a href="Javascript: void(0);" onclick="showModel('welcome_message'); return false;"><span></span></a>
-          <h2>Upload a Pic</h2>
-        </li>
-        <li class="create-board"><a href="Javascript: void(0);" onclick="showModel('welcome_message'); return false;"><span></span></a>
-          <h2>Create an Album</h2>
-        </li>
-      </ul>
-    </div>
-  </div>
-  <div class="bg-overlay" onclick="hideModel('add-popup-box');"></div>
-</div>
-<div class="popup-container hideShowPopup" id="welcome_message">
+	<div class="popup-container hideShowPopup" id="add-popup-box">
+		<div class="popup-box popup-addplus bounceIn animated">
+			<div class="heading">
+				<div class="f-left">
+					<h6>Add Pics</h6>
+				</div>
+				<div class="f-right">
+					<button class="button btn-red btn-close " type="button" onclick="hideModel('add-popup-box');">X</button>  
+				</div>
+			</div>
+			<p class="info-txt">You may also add pictures from any website with the <a href="https://www.picollecta.com/page/Pic-It-Button-8" style="color:#0099FF;">Pic It</a> button</p>
+			<div class="popup-content">
+				<ul class="add-links clearfix">
+					<li class="add-pic"><a href="Javascript: void(0);" onclick="change_url('addpic/url'); showModel('welcome_message'); return false;"><span></span></a>
+						<h6>Add a Pic</h6>
+					</li>
+					<li class="upload-pic"><a href="Javascript: void(0);" onclick="change_url('addpic/local'); showModel('welcome_message'); return false;"><span></span></a>
+						<h6>Upload a Pic</h6>
+					</li>
+					<li class="create-board"><a href="Javascript: void(0);" onclick="change_url('addpic/createalbum'); showModel('welcome_message'); return false;"><span></span></a>
+					  <h6>Create an Album</h6>
+					</li>
+				</ul>
+			</div>
+		</div>
+	  <div class="bg-overlay" onclick="hideModel('add-popup-box');"></div>
+	</div>
+	
+
+	<div class="popup-container hideShowPopup" id="welcome_message">
   <div class="popup-box addpic-url bounceInUp animated">
     <div class="heading">
-      <h2></h2>
+      <h4></h4>
     </div>
     <div class="popup-content">
-      <p></p><p style="text-align: center;"><strong>Welcome to Picollecta! </strong>To get started sharing your collection, please&nbsp;<a href="http://picollecta.com/signup"><span style="color: rgb(0, 0, 255);"><u><strong>Sign Up Now</strong></u></span></a> or <span style="color: rgb(0, 0, 255);"><u><a href="http://picollecta.com/login"><span style="color: rgb(0, 0, 255);"><strong>L</strong><strong>og In</strong></span></a></u></span><span style="color: rgb(0, 0, 255);">&nbsp;</span>using Facebook or Twitter. Our funky&nbsp;<a href="http://www.picollecta.com/page/Pic-It-Button-8"><strong><u><span style="color: rgb(0, 0, 255);">Pic It</span></u></strong></a> button makes it easy to add images that link back to your own Website or Page!</p><p></p>
+	<div class="logo" style="text-align: center">
+      <span class="h1"><a href="https://www.picollecta.com/"><img src="/templates/images/logo-login-page.png" alt="Login"></a></span>
+    </div>
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+      <p style="text-align: center;"><strong>Welcome to Picollecta! </strong>To get started sharing your collection, please&nbsp;<a href="http://picollecta.com/signup"><span style="color: rgb(0, 0, 255);"><u><strong>Sign Up Now</strong></u></span></a> or <span style="color: rgb(0, 0, 255);"><u><a id="logLink" href="##LINK##"><span style="color: rgb(0, 0, 255);"><strong>L</strong><strong>og In</strong></span></a></u></span><span style="color: rgb(0, 0, 255);">&nbsp;</span>using Facebook or Twitter. The&nbsp;<a href="http://www.picollecta.com/page/Pic-It-Button-8"><strong><u><span style="color: rgb(0, 0, 255);">Pic It</span></u></strong></a> button makes it easy to add images that link back to your own Website or Page!</p>
 	  
-	  
+	  <p>&nbsp;</p>
       
     </div>
   </div>
   <div class="bg-overlay" onclick="hideModel('welcome_message');"></div>
 </div>
 
-      
+	
+	     
 <div class="container about-page">
   <div class="page">
     <div class="about-links">
       <h1 class="heading">Privacy Policy</h1>
-      <div class="logo"><img src="http://www.picollecta.com/templates/images/logo-about-page.png" alt="logo"></div>
+      <div class="logo"><img src="https://www.picollecta.com/templates/images/logo-about-page.png" alt="logo"></div>
       <ul>
-                <li><a href="http://www.picollecta.com/page/About-Us-7">About Us</a></li>
-                <li><a href="http://www.picollecta.com/page/Acceptable-Use-Policy-72">Acceptable Use Policy</a></li>
-                <li><a href="http://www.picollecta.com/page/Competition-Terms-Conditions-75">Competition Terms-Conditions</a></li>
-                <li><a href="http://www.picollecta.com/page/Contact-Us-5">Contact Us</a></li>
-                <li><a href="http://www.picollecta.com/page/Cookie-Policy-73">Cookie Policy</a></li>
-                <li><a href="http://www.picollecta.com/page/Copyright-Policy-6">Copyright Policy</a></li>
-                <li><a href="http://www.picollecta.com/page/Help-3">Help</a></li>
-                <li><a href="http://www.picollecta.com/page/Our-Mission-1">Our Mission</a></li>
-                <li><a href="http://www.picollecta.com/page/Pic-It-Button-8">Pic It Button</a></li>
-                <li><a href="http://www.picollecta.com/page/Site-Map-70">Site Map</a></li>
-                <li><a href="http://www.picollecta.com/page/Terms-and-conditions-of-use-68">Terms and conditions of use</a></li>
+                <li><a href="https://www.picollecta.com/page/About-Us-7">About Us</a></li>
+                <li><a href="https://www.picollecta.com/page/Acceptable-Use-Policy-72">Acceptable Use Policy</a></li>
+                <li><a href="https://www.picollecta.com/page/Contact-Us-5">Contact Us</a></li>
+                <li><a href="https://www.picollecta.com/page/Cookie-Policy-73">Cookie Policy</a></li>
+                <li><a href="https://www.picollecta.com/page/Copyright-Policy-6">Copyright Policy</a></li>
+                <li><a href="https://www.picollecta.com/page/Help-3">Help</a></li>
+                <li><a href="https://www.picollecta.com/page/Our-Mission-1">Our Mission</a></li>
+                <li><a href="https://www.picollecta.com/page/Pic-It-Button-8">Pic It Button</a></li>
+                <li><a href="https://www.picollecta.com/page/Site-Map-70">Site Map</a></li>
+                <li><a href="https://www.picollecta.com/page/Terms-and-conditions-of-use-68">Terms and conditions of use</a></li>
               </ul>
     </div>
     <h1 class="page-heading">Privacy Policy</h1>
     <div class="page-content scroll-pane"> 
-		<p><strong>Picollecta Privacy Policy</strong></p>
+			<p><strong>Picollecta Privacy Policy</strong></p>
 <div>Fraser Investments Limited are committed to protecting and respecting your privacy.</div>
 <div>&nbsp;</div>
 <div>This policy (together with our <a href="http://picollecta.com/page/Terms-and-conditions-of-use-68"><span style="color: rgb(0, 0, 255);">terms of use</span></a> and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.</div>
@@ -392,6 +776,8 @@ $(function () {
 <div>5.2<span class="Apple-tab-span" style="white-space:pre">	</span>All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.</div>
 <div>&nbsp;</div>
 <div>5.3<span class="Apple-tab-span" style="white-space:pre">	</span>Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.</div>
+<div>&nbsp;</div>
+<div>5.4 We do not store credit card details nor do we share customer details with any 3rd parties.&nbsp;</div>
 <div>&nbsp;</div>
 <div><strong>6<span class="Apple-tab-span" style="white-space:pre">	</span>Uses Made Of The Information:&nbsp;</strong></div>
 <div>&nbsp;</div>
@@ -459,22 +845,48 @@ $(function () {
 <div>&nbsp;</div>
 <div>Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Fraser Investments Limited at 5 Strand House, The Strand, St.Peter Port, Guernsey GY1 1LJ or info@picollecta.com.</div>
 <div>&nbsp;</div> 
-	
+		
 	</div>
   </div>
 </div>
- 
-<script src="http://www.picollecta.com/templates/js/functions.js" type="text/javascript"></script> 
-<script src="http://www.picollecta.com/templates/js/jquery.jscrollpane.min.js" type="text/javascript"></script>
 
-<script src="http://www.picollecta.com/templates/js/jquery.mousewheel.js" type="text/javascript"></script>
+
+	<script src="https://www.picollecta.com/min/?f=templates/js/functions.js,templates/js/jquery.jscrollpane.min.js,templates/js/jquery.mousewheel.js" type="text/javascript"></script>
+
 
 <script>
-$(function () {
+
+$(document).ready(function() {
     $('.scroll-pane').jScrollPane({
         verticalDragMinHeight: 50
     })
 });
+
+function showImage(panelID, url){ 
+	if (navigator.appName == 'Microsoft Internet Explorer')	{
+		window.location.href=url; // urlshow+
+	}else{
+		if(!window.history.pushState("object or string", "Title", "/"+maindomain+url)){
+			document.href=	url;
+		}
+		$('.hideShowPopup').fadeOut("slow");
+		// $('title').text(url);
+		$('#zoomed-pic').empty();
+		$('#zoomed-pic').load(url, function() {});
+		$('#'+panelID).fadeIn("slow");
+		$('body').css("overflow","hidden");
+	}
+}
+
+function hideImage(panelId, url){
+	window.history.pushState("object or string", "Title", "/" + maindomain + url);
+	// $('title').text('Home :: picollecta');
+	$('.hideShowPopup').fadeOut("slow");
+	$('#' + panelId).fadeOut("slow");
+	$('body').css("overflow","auto");
+	$("" + panelId).empty();
+}
+
 </script>
 
 
