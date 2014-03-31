@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startlocal.in privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812085306id_/http%3A//www.startlocal.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startlocal.in privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331024059id_/http%3A//www.startlocal.in/privacy.html) for the most accurate reproduction.*
 
 # Privacy: Start Local - Your Local Indian Business Directory
 
