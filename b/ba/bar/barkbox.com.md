@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the barkbox.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805201732id_/https%3A//barkbox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barkbox.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331235610id_/https%3A//barkbox.com/privacy-policy) for the most accurate reproduction.*
 
-# BarkBox | Goodies for Dogs |
+# Toys, Gifts, and Gadgets for Dog Lovers | BarkBox
 
 Barkbox knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy for the Barkbox.com web site (the “Site”).
 
@@ -30,8 +30,6 @@ We automatically track certain information based upon your behavior on the Site.
 ## Log Files
 
 Like many Web sites, we automatically gather certain information about our Site traffic and store it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the Site, to track users’ movements around the Site and to gather demographic information about our user base.
-
-We do not link this automatically collected data to personally identifiable information.
 
 We do not link this automatically collected data to personally identifiable information.
 
