@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the castingnetworks.com privacy policy that was archived on 2013-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130121081427id_/http%3A//cni2.castingnetworks.com/wsdl/webservice.svc/GetCurrentPolicy%3FsiteId%3DNY%26policyType%3DPrivacy%2520Policy%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castingnetworks.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331033250id_/http%3A//cni.castingnetworks.com/wsdl/webservice.svc/GetCurrentPolicy%3FsiteId%3DNY%26policyType%3DPrivacy%2520Policy%23PrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
