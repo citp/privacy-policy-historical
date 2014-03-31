@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the greatcall.com privacy policy that was archived on 2013-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131224133503id_/http%3A//www.greatcall.com/Legal/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the greatcall.com privacy policy that was archived on 2014-03-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331095351id_/http%3A//www.greatcall.com/Legal/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head id="ctl00_headc"><meta http-equiv="X-UA-Compatible" content="IE=9"><meta charset="utf-8"><link rel="Shortcut Icon" href="/images/favicon.ico" type="image/icon"><link href="https://plus.google.com/113485242174601156296" rel="publisher"><link rel="stylesheet" href="/Shared/styles/global.css" type="text/css" media="all"><link rel="stylesheet" href="/Shared/styles/reset.css" type="text/css" media="all"><link rel="stylesheet" href="/Shared/styles/layout.css" type="text/css" media="all"><link rel="stylesheet" href="/Shared/styles/modalboxes.css" type="text/css" media="all"><link rel="stylesheet" href="/Shared/scripts/slider/styles/slider.css" type="text/css" media="all"><link rel="stylesheet" type="text/css" href="/Shared/styles/gcmodal.css" media="all"><link href="/Shared/Styles/jquery-ui/jquery-ui-1.8.13.custom.css" rel="stylesheet" type="text/css"><link rel="Stylesheet" href="/Shared/Styles/siteHeadFootNavStyle.less" type="text/css">
-
-	<script type="text/javascript" async="" src="https://web.archive.org/web/20110923034008/https://ssl.google-analytics.com/ga.js"></script><script src="//tags.tiqcdn.com/utag/greatcall/greatcallweb/prod/utag.js" type="text/javascript" async=""></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script src="/Shared/scripts/jquery-1.7.2.min.js" type="text/javascript"></script>
-	<script type="text/javascript" src="/Shared/scripts/jquery-ui-1.8.13.min.js"></script>
+<!DOCTYPE html><html lang="en" class=" js rgba cssanimations"><head id="ctl00_headc"><meta charset="utf-8"><link rel="Shortcut Icon" href="/images/favicon.ico" type="image/icon"><link href="https://plus.google.com/113485242174601156296" rel="publisher"><link rel="stylesheet" href="/Shared/styles/global.css" type="text/css" media="all"><link rel="stylesheet" href="/Shared/styles/reset.css" type="text/css" media="all"><link rel="stylesheet" href="/Shared/styles/layout.css" type="text/css" media="all"><link rel="stylesheet" href="/Shared/styles/modalboxes.css" type="text/css" media="all"><link rel="stylesheet" href="/Shared/scripts/slider/styles/slider.css" type="text/css" media="all"><link rel="stylesheet" type="text/css" href="/Shared/styles/gcmodal.css" media="all"><link href="/Shared/Styles/jquery-ui/jquery-ui-1.8.13.custom.css" rel="stylesheet" type="text/css"><link rel="Stylesheet" href="/Shared/Styles/siteHeadFootNavStyle.less" type="text/css">
+    <script src="//tags.tiqcdn.com/utag/greatcall/greatcallweb/prod/utag.js" type="text/javascript" async=""></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script src="/scripts/headtag/modernizr.custom.min.js"></script>
+	<script src="/scripts/bodytag/jquery-1.11.0.min.js" type="text/javascript"></script>
+	<script src="/scripts/bodytag/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
+	<script type="text/javascript" src="/scripts/bodytag/jquery-ui-1.9.2.min.js"></script>
 
 	<script src="/Shared/Scripts/common.js" type="text/javascript"></script>
 	<script src="/Shared/Scripts/mask.js" type="text/javascript"></script>
@@ -38,35 +39,9 @@ text-shadow: 2px 1px 1px #4c4c4c;
 </style>
 
    
-	<!--[if IE]>  
-	 <script type="text/javascript" src="/Shared/scripts/html5.js"></script>   
-	<![endif]--> 
-
-
     	<!--[if IE 7]>
 	<link rel="stylesheet" href="/shared/styles/ie7.less" type="text/css" />
 	<![endif]-->
-	
-
-<script type="text/javascript">
-var url = window.location.href;
-var scriptArray = new Array();
-var filename = "";
-if (url.match(/\/confirmation.aspx/i))
-{
-        filename = "/Shared/Scripts/googleConfirm.js";
-}
-else
-{
-        filename = "/Shared/Scripts/googleRegular.js"; 
-}
-var fileref=document.createElement('script')
-fileref.setAttribute("type","text/javascript")
-fileref.setAttribute("src", filename)
- document.getElementsByTagName("head")[0].appendChild(fileref)
-</script><script type="text/javascript" src="/Shared/Scripts/googleRegular.js"></script>
-
-
 	<script type="text/javascript">
 	  function addToHead(timeout, url) {
 		var meta = document.createElement("meta");
@@ -78,15 +53,13 @@ fileref.setAttribute("src", filename)
 <title>
 
 </title></head>
-<body onunload="if(checkCount){checkCount();}">   
+<body onunload="if(checkCount){checkCount();}" style="">   
 <script type="text/javascript">
 		var utag_data = {
 
 		}
 </script>	
 	
-	
-
 
 <div class="selectParent">
     <div class="selectBackground">
@@ -152,6 +125,12 @@ fileref.setAttribute("src", filename)
                 $("#reg-modal-body-phonenumber").hide();
                 $("#registrationModal_btnBack").show();
             }
+            else if (section && section == "number") {
+                $("#reg-modal-body-devices").hide();
+                $("#reg-modal-body-apps").hide();
+                $("#reg-modal-body-phonenumber").show();
+                $("#registrationModal_btnBack").hide();
+            }
             else {
                 $("#reg-modal-body-devices").show();
                 $("#reg-modal-body-apps").hide();
@@ -167,6 +146,7 @@ fileref.setAttribute("src", filename)
         showAppsSection: function () {
             $("#reg-modal-body-phonenumber").slideToggle("slow");
             $("#reg-modal-body-apps").slideToggle("slow");
+            $("#registrationModal_btnBack").show();
         },
         showPhoneNumberSection: function () {
             $("#reg-modal-body-phonenumber").find(".loading").hide();
@@ -329,7 +309,7 @@ fileref.setAttribute("src", filename)
 				<input id="query" type="text" class="searchbox" name="s" value="Search" onfocus="if(this.value=='Search')this.value='';" onblur="if(this.value=='')this.value='Search';" onkeypress="return interceptEnterKeyStrokeClickButton('new-search-btn', event.keyCode);">
 				<input id="new-search-btn" type="image" src="/images/backgrounds/searchBlank.png" class="searchbox_submit" value="" onclick="searchSite('http://www.greatcall.com/'); return false;">
 			</div>
-		 <a href="http://www.greatcall.com/featured-offers.aspx"><img id="freeShippingHeader" src="/Images/banners/free-shipping-header-holiday.png"></a>
+		 <a href="http://www.greatcall.com/featured-offers.aspx"><img id="freeShippingHeader" src="/Images/banners/free-shipping-header.png"></a>
 		</div>
 
          
@@ -381,16 +361,23 @@ fileref.setAttribute("src", filename)
 				<li class="rightLI">&nbsp;</li>
 			</ul>
 		</li>
-		<li id="ctl00_Navigation_fivestarLI" class="mainNavLI innerLI"><a href="http://www.greatcall.com/FiveStar_urgent_response/" id="ctl00_Navigation_fivestarLink">5Star Urgent Response</a>
+		<li id="ctl00_Navigation_fivestarLI" class="mainNavLI innerLI"><a href="http://www.greatcall.com/FiveStar_urgent_response/" id="ctl00_Navigation_fivestarLink">The 5Star</a>
 			<ul id="ctl00_Navigation_fiveStarSubNav" class="subnav">
 				<li id="ctl00_Navigation_fiveStarOverviewLI" class="leftLI subNavLI"><a href="http://www.greatcall.com/FiveStar_urgent_response/" id="ctl00_Navigation_fiveStarOverviewLink">Overview</a></li>
 				<li id="ctl00_Navigation_fiveStarResponderLI" class="innerLI subNavLI"><a href="http://www.greatcall.com/FiveStar_urgent_response/FiveStar_responder/" id="ctl00_Navigation_fiveStarResponderLink">The 5Star</a></li>
 				<li id="ctl00_Navigation_fiveStarUseLI" class="innerLI subNavLI"><a href="http://www.greatcall.com/FiveStar_urgent_response/Use_Case/" id="ctl00_Navigation_fiveStarUseLink">When to Use The 5Star</a></li>
 				<li id="ctl00_Navigation_fiveStarLocatorLI" class="innerLI subNavLI"><a href="http://www.greatcall.com/FiveStar_urgent_response/FiveStar_locator/" id="ctl00_Navigation_fiveStarLocatorLink">Locator Service</a></li>
+				<li id="ctl00_Navigation_fiveStarAccessoriesLI" class="innerLI subNavLI"><a href="http://www.greatcall.com/FiveStar_urgent_response/Accessories/" id="ctl00_Navigation_fiveStarAccessoriesLink">Accessories</a></li>
 				<li id="ctl00_Navigation_fiveStarActivateLI" class="innerLI subNavLI"><a href="http://www.greatcall.com/Activate/" id="ctl00_Navigation_fiveStarActivateLink">Activate</a></li>
 				<li class="rightLI">&nbsp;</li>
 			</ul>
 		</li>
+        <li id="ctl00_Navigation_gclinkLI" class="mainNavLI innerLI"><a href="http://www.greatcall.com/Link/" id="ctl00_Navigation_gclinkLink">Link</a>
+            <ul id="ctl00_Navigation_gclinkSubNav" class="subnav">
+                <li id="ctl00_Navigation_gclinkOverviewLI" class="LeftLI subnavLI"><a href="http://www.greatcall.com/Link/" id="ctl00_Navigation_gclinkOverviewLink">GreatCall Link</a></li>
+                <li class="rightLI">&nbsp;</li>
+            </ul>
+        </li>
 		<li id="ctl00_Navigation_appsLI" class="mainNavLI innerLI"><a href="http://www.greatcall.com/MobileApps/" id="ctl00_Navigation_appsLink">Health &amp; Medical Apps</a>
 			<ul id="ctl00_Navigation_appsSubNav" class="subnav">
 				<li id="ctl00_Navigation_appsOverviewLI" class="leftLI subNavLI"><a href="http://www.greatcall.com/MobileApps/" id="ctl00_Navigation_appsOverviewLink">Overview</a></li>
@@ -398,7 +385,7 @@ fileref.setAttribute("src", filename)
 				<li id="ctl00_Navigation_appsMedcoachLI" class="innerLI subNavLI"><a href="http://www.greatcall.com/MobileApps/Medcoach" id="ctl00_Navigation_appsMedcoachLink">MedCoach</a></li>
 				<li id="ctl00_Navigation_appsLivenurseLI" class="innerLI subNavLI"><a href="http://www.greatcall.com/MobileApps/Urgentcare" id="ctl00_Navigation_appsLivenurseLink">Urgent Care</a></li>
 				<li id="ctl00_Navigation_appsRegisterLI" class="innerLI subNavLI">
-					<a id="ctl00_Navigation_appsRegisterLink" class="register" onclick="RegistrationModal.show('apps'); return false;">Register</a>
+					<a id="ctl00_Navigation_appsRegisterLink" class="register" onclick="RegistrationModal.show('number'); return false;">Register</a>
 				</li>
 				<li class="rightLI">&nbsp;</li>
 			</ul>
@@ -425,7 +412,7 @@ fileref.setAttribute("src", filename)
 
 					   <form name="aspnetForm" method="post" action="privacy-policy.aspx" id="aspnetForm">
 <input type="hidden" name="ctl00_ToolkitScriptManager_HiddenField" id="ctl00_ToolkitScriptManager_HiddenField" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE5OTMzNzY1OTEPZBYCZg9kFgQCBw9kFgICAQ9kFgICAQ8WAh4HVmlzaWJsZWhkAgkPZBYCAgEPZBYMAgEPZBYEZg8WAh4EaHJlZgUjaHR0cDovL3d3dy5ncmVhdGNhbGwuY29tL0ppdHRlcmJ1Zy9kAgIPZBYOAgEPZBYCZg8WAh8BBSNodHRwOi8vd3d3LmdyZWF0Y2FsbC5jb20vSml0dGVyYnVnL2QCAw9kFgJmDxYCHwEFSmh0dHA6Ly93d3cuZ3JlYXRjYWxsLmNvbS9KaXR0ZXJidWcvSml0dGVyYnVnLVRvdWNoLUVhc3ktVG8tVXNlLVNtYXJ0cGhvbmUvZAIFD2QWAmYPFgIfAQUraHR0cDovL3d3dy5ncmVhdGNhbGwuY29tL0ppdHRlcmJ1Zy9Hb1BsYW5zL2QCBw9kFgJmDxYCHwEFLmh0dHA6Ly93d3cuZ3JlYXRjYWxsLmNvbS9KaXR0ZXJidWcvQmFzaWNQbGFucy9kAgkPZBYCZg8WAh8BBSxodHRwOi8vd3d3LmdyZWF0Y2FsbC5jb20vSml0dGVyYnVnL0FwcHN0b3JlL2QCCw9kFgJmDxYCHwEFL2h0dHA6Ly93d3cuZ3JlYXRjYWxsLmNvbS9KaXR0ZXJidWcvQWNjZXNzb3JpZXMvZAIND2QWAmYPFgIfAQUiaHR0cDovL3d3dy5ncmVhdGNhbGwuY29tL0FjdGl2YXRlL2QCAw9kFgRmDxYCHwEFMmh0dHA6Ly93d3cuZ3JlYXRjYWxsLmNvbS9GaXZlU3Rhcl91cmdlbnRfcmVzcG9uc2UvZAICD2QWCgIBD2QWAmYPFgIfAQUyaHR0cDovL3d3dy5ncmVhdGNhbGwuY29tL0ZpdmVTdGFyX3VyZ2VudF9yZXNwb25zZS9kAgMPZBYCZg8WAh8BBUVodHRwOi8vd3d3LmdyZWF0Y2FsbC5jb20vRml2ZVN0YXJfdXJnZW50X3Jlc3BvbnNlL0ZpdmVTdGFyX3Jlc3BvbmRlci9kAgUPZBYCZg8WAh8BBTtodHRwOi8vd3d3LmdyZWF0Y2FsbC5jb20vRml2ZVN0YXJfdXJnZW50X3Jlc3BvbnNlL1VzZV9DYXNlL2QCBw9kFgJmDxYCHwEFQ2h0dHA6Ly93d3cuZ3JlYXRjYWxsLmNvbS9GaXZlU3Rhcl91cmdlbnRfcmVzcG9uc2UvRml2ZVN0YXJfbG9jYXRvci9kAgkPZBYCZg8WAh8BBSJodHRwOi8vd3d3LmdyZWF0Y2FsbC5jb20vQWN0aXZhdGUvZAIFD2QWBGYPFgIfAQUkaHR0cDovL3d3dy5ncmVhdGNhbGwuY29tL01vYmlsZUFwcHMvZAICD2QWCAIBD2QWAmYPFgIfAQUkaHR0cDovL3d3dy5ncmVhdGNhbGwuY29tL01vYmlsZUFwcHMvZAIDD2QWAmYPFgIfAQUsaHR0cDovL3d3dy5ncmVhdGNhbGwuY29tL01vYmlsZUFwcHMvRml2ZXN0YXJkAgUPZBYCZg8WAh8BBSxodHRwOi8vd3d3LmdyZWF0Y2FsbC5jb20vTW9iaWxlQXBwcy9NZWRjb2FjaGQCBw9kFgJmDxYCHwEFLmh0dHA6Ly93d3cuZ3JlYXRjYWxsLmNvbS9Nb2JpbGVBcHBzL1VyZ2VudGNhcmVkAgcPZBYEZg8WAh8BBSFodHRwOi8vd3d3LmdyZWF0Y2FsbC5jb20vU3VwcG9ydC9kAgIPZBYKAgEPZBYCZg8WAh8BBSFodHRwOi8vd3d3LmdyZWF0Y2FsbC5jb20vU3VwcG9ydC9kAgMPZBYCZg8WAh8BBS9odHRwOi8vd3d3LmdyZWF0Y2FsbC5jb20vU3VwcG9ydC9kb2N1bWVudHMuYXNweGQCBQ9kFgJmDxYCHwEFL2h0dHA6Ly93d3cuZ3JlYXRjYWxsLmNvbS9TdXBwb3J0L2NvbnRhY3R1cy5hc3B4ZAIHD2QWAmYPFgIfAQUtaHR0cDovL3d3dy5ncmVhdGNhbGwuY29tL1N1cHBvcnQvcmV0dXJucy5hc3B4ZAIJD2QWAmYPFgIfAQUsaHR0cDovL3d3dy5ncmVhdGNhbGwuY29tL1N1cHBvcnQvc2FmZXR5LmFzcHhkAgkPZBYCZg8WAh8BBSpodHRwOi8vd3d3LmdyZWF0Y2FsbC5jb20vTXlHcmVhdENhbGwvSW5kZXhkAgsPDxYCHgRUZXh0BQ4xLTgwMC05MTgtODU0M2RkZN50g4zHK/oJnm2dQsILPkHY/Gim">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE5OTMzNzY1OTEPZBYCZg9kFgQCBQ9kFgICAQ9kFgICAQ8WAh4HVmlzaWJsZWhkAgcPZBYCAgEPZBYOAgEPZBYEZg8WAh4EaHJlZgUjaHR0cDovL3d3dy5ncmVhdGNhbGwuY29tL0ppdHRlcmJ1Zy9kAgIPZBYOAgEPZBYCZg8WAh8BBSNodHRwOi8vd3d3LmdyZWF0Y2FsbC5jb20vSml0dGVyYnVnL2QCAw9kFgJmDxYCHwEFSmh0dHA6Ly93d3cuZ3JlYXRjYWxsLmNvbS9KaXR0ZXJidWcvSml0dGVyYnVnLVRvdWNoLUVhc3ktVG8tVXNlLVNtYXJ0cGhvbmUvZAIFD2QWAmYPFgIfAQUraHR0cDovL3d3dy5ncmVhdGNhbGwuY29tL0ppdHRlcmJ1Zy9Hb1BsYW5zL2QCBw9kFgJmDxYCHwEFLmh0dHA6Ly93d3cuZ3JlYXRjYWxsLmNvbS9KaXR0ZXJidWcvQmFzaWNQbGFucy9kAgkPZBYCZg8WAh8BBSxodHRwOi8vd3d3LmdyZWF0Y2FsbC5jb20vSml0dGVyYnVnL0FwcHN0b3JlL2QCCw9kFgJmDxYCHwEFL2h0dHA6Ly93d3cuZ3JlYXRjYWxsLmNvbS9KaXR0ZXJidWcvQWNjZXNzb3JpZXMvZAIND2QWAmYPFgIfAQUiaHR0cDovL3d3dy5ncmVhdGNhbGwuY29tL0FjdGl2YXRlL2QCAw9kFgRmDxYCHwEFMmh0dHA6Ly93d3cuZ3JlYXRjYWxsLmNvbS9GaXZlU3Rhcl91cmdlbnRfcmVzcG9uc2UvZAICD2QWDAIBD2QWAmYPFgIfAQUyaHR0cDovL3d3dy5ncmVhdGNhbGwuY29tL0ZpdmVTdGFyX3VyZ2VudF9yZXNwb25zZS9kAgMPZBYCZg8WAh8BBUVodHRwOi8vd3d3LmdyZWF0Y2FsbC5jb20vRml2ZVN0YXJfdXJnZW50X3Jlc3BvbnNlL0ZpdmVTdGFyX3Jlc3BvbmRlci9kAgUPZBYCZg8WAh8BBTtodHRwOi8vd3d3LmdyZWF0Y2FsbC5jb20vRml2ZVN0YXJfdXJnZW50X3Jlc3BvbnNlL1VzZV9DYXNlL2QCBw9kFgJmDxYCHwEFQ2h0dHA6Ly93d3cuZ3JlYXRjYWxsLmNvbS9GaXZlU3Rhcl91cmdlbnRfcmVzcG9uc2UvRml2ZVN0YXJfbG9jYXRvci9kAgkPZBYCZg8WAh8BBT5odHRwOi8vd3d3LmdyZWF0Y2FsbC5jb20vRml2ZVN0YXJfdXJnZW50X3Jlc3BvbnNlL0FjY2Vzc29yaWVzL2QCCw9kFgJmDxYCHwEFImh0dHA6Ly93d3cuZ3JlYXRjYWxsLmNvbS9BY3RpdmF0ZS9kAgUPZBYEZg8WAh8BBR5odHRwOi8vd3d3LmdyZWF0Y2FsbC5jb20vTGluay9kAgIPZBYCAgEPZBYCZg8WAh8BBR5odHRwOi8vd3d3LmdyZWF0Y2FsbC5jb20vTGluay9kAgcPZBYEZg8WAh8BBSRodHRwOi8vd3d3LmdyZWF0Y2FsbC5jb20vTW9iaWxlQXBwcy9kAgIPZBYIAgEPZBYCZg8WAh8BBSRodHRwOi8vd3d3LmdyZWF0Y2FsbC5jb20vTW9iaWxlQXBwcy9kAgMPZBYCZg8WAh8BBSxodHRwOi8vd3d3LmdyZWF0Y2FsbC5jb20vTW9iaWxlQXBwcy9GaXZlc3RhcmQCBQ9kFgJmDxYCHwEFLGh0dHA6Ly93d3cuZ3JlYXRjYWxsLmNvbS9Nb2JpbGVBcHBzL01lZGNvYWNoZAIHD2QWAmYPFgIfAQUuaHR0cDovL3d3dy5ncmVhdGNhbGwuY29tL01vYmlsZUFwcHMvVXJnZW50Y2FyZWQCCQ9kFgRmDxYCHwEFIWh0dHA6Ly93d3cuZ3JlYXRjYWxsLmNvbS9TdXBwb3J0L2QCAg9kFgoCAQ9kFgJmDxYCHwEFIWh0dHA6Ly93d3cuZ3JlYXRjYWxsLmNvbS9TdXBwb3J0L2QCAw9kFgJmDxYCHwEFL2h0dHA6Ly93d3cuZ3JlYXRjYWxsLmNvbS9TdXBwb3J0L2RvY3VtZW50cy5hc3B4ZAIFD2QWAmYPFgIfAQUvaHR0cDovL3d3dy5ncmVhdGNhbGwuY29tL1N1cHBvcnQvY29udGFjdHVzLmFzcHhkAgcPZBYCZg8WAh8BBS1odHRwOi8vd3d3LmdyZWF0Y2FsbC5jb20vU3VwcG9ydC9yZXR1cm5zLmFzcHhkAgkPZBYCZg8WAh8BBSxodHRwOi8vd3d3LmdyZWF0Y2FsbC5jb20vU3VwcG9ydC9zYWZldHkuYXNweGQCCw9kFgJmDxYCHwEFKmh0dHA6Ly93d3cuZ3JlYXRjYWxsLmNvbS9NeUdyZWF0Q2FsbC9JbmRleGQCDQ8PFgIeBFRleHQFDjEtODAwLTkxOC04NTQzZGRkJRbsskGPzJnIXspyRsSU3o6pvjo=">
 
 
 <script type="text/javascript">
@@ -441,13 +428,7 @@ s.eVar1="";
 //]]>
 </script>
 
-<script src="/ScriptResource.axd?d=qKqfbj1hS-RRwK6LrmAT0_bE1HQyU1vNkJ6H8J6VMlcCtScsgsrDe7tYZPk_CyKKSKzetRqbvLWRv-EErM1rQvjzCMDNNY49veNDIvERm4JjLZYMQ5GZZydDHgXHxiT74RssziqUZDLtTr9YBD7oHO4CplzK8HSgM7ckRF8fKbZPXeoM0&amp;t=218dd34d" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
-//]]>
-</script>
-
+<script src="/ScriptResource.axd?d=FyMcZgNRyljtt8itmcYrYrb9D45tXB5B8ROpsxPmi6ek7nJ-Ov78NKCmZZcFlpatZNS66_VGdIIRiZz8UEimaajHo-vpGe-phrOITb5R8a-t95Ry1X5LlIRjdHCuvNntqB35GHtWi1Nn7BCl1LKczjLgaA631iwNlpDVhaRygNdSnXfU0&amp;t=218dd34d" type="text/javascript"></script>
 
 						
 
@@ -551,7 +532,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                         <li>If you would like to review personal information about your child that we have on file, or request that certain information be changed or deleted, please send us an email through our <a href="/Support/contactus.aspx">Contact Us</a> page.</li>                    
                     </ul>
 
-                    <p><strong>NOTICE: Visit <a href="http://www.ftc.gov/kidzprivacy">www.ftc.gov/kidzprivacy</a> for information from the Federal Trade Commission about protecting children’s privacy online.</strong></p>
+                    <p><strong>NOTICE: Visit <a href="http://www.business.ftc.gov/privacy-and-security/childrens-privacy">www.business.ftc.gov/privacy-and-security/childrens-privacy</a> for information from the Federal Trade Commission about protecting children’s privacy online.</strong></p>
                     <p>If a child under the age of 13 has provided personal information on our Web site without the consent of his or her parent or guardian, we ask that a parent or guardian send us an email through our Contact Us page, and we will delete the child’s personal information from our files.</p>
 
                     <p><strong>Contests, Sweepstakes and Other Promotions</strong></p>
@@ -677,6 +658,10 @@ Sys.Application.initialize();
 					<a href="http://www.greatcall.com/Activate/">Activate Your Jitterbug</a>
 					</li>
 				</ul>
+                <h5>GreatCall Link</h5>
+                <ul>
+                    <li><a href="http://www.greatcall.com/Link/">Overview</a></li>
+                </ul>
 				</li>
 				<li id="listCol2" class="listCallNew">
 				<h5>5Star<br>Urgent Response</h5>
@@ -829,16 +814,16 @@ Sys.Application.initialize();
 				<h5>Connect</h5>
 				<ul>
 					<li>
-					<a href="http://www.facebook.com/greatcall" target="_blank" onclick="_gaq.push(['_trackEvent', 'Social', 'Click', 'Facebook']);" title="Like us on Facebook" class="facebook">Like us on Facebook</a>
+					<a href="http://www.facebook.com/greatcall" target="_blank" onclick="utag.link({ga_eventCategory:'Social', ga_eventAction:'Click', ga_eventLabel:'Facebook'});" title="Like us on Facebook" class="facebook">Like us on Facebook</a>
 					</li>
 					<li>
-					<a href="http://www.twitter.com/greatcallinc" target="_blank" onclick="_gaq.push(['_trackEvent', 'Social', 'Click', 'Twitter']);" title="Follow us on Twitter" class="twitter">Follow us on Twitter</a>
+					<a href="http://www.twitter.com/greatcallinc" target="_blank" onclick="utag.link({ga_eventCategory:'Social', ga_eventAction:'Click', ga_eventLabel:'Twitter'});" title="Follow us on Twitter" class="twitter">Follow us on Twitter</a>
 					</li>
 					<li>
-					<a href="http://www.youtube.com/user/GreatCallInc?sub_confirmation=1 " target="_blank" onclick="_gaq.push(['_trackEvent', 'Social', 'Click', 'YouTube']);" title="GreatCall on YouTube" class="videos">Watch our Videos</a>
+					<a href="http://www.youtube.com/user/GreatCallInc?sub_confirmation=1 " target="_blank" onclick="utag.link({ga_eventCategory:'Social', ga_eventAction:'Click', ga_eventLabel:'YouTube'});" title="GreatCall on YouTube" class="videos">Watch our Videos</a>
 					</li>
 					<li>
-					<a href="http://greatcall.us2.list-manage.com/subscribe?u=789209ef7af3aaa3b9d46be82&amp;id=cc59fa5367" onclick="_gaq.push(['_trackEvent', 'Social', 'Click', 'Email']);" target="_blank" title="Receive Special Offers" class="offers">Receive special offers</a>
+					<a href="http://greatcall.us2.list-manage.com/subscribe?u=789209ef7af3aaa3b9d46be82&amp;id=cc59fa5367" onclick="utag.link({ga_eventCategory:'Social', ga_eventAction:'Click', ga_eventLabel:'Email'});" target="_blank" title="Receive Special Offers" class="offers">Receive special offers</a>
 					</li>
 					<li>
 					<a href="http://www.greatcall.com/Support/contactus.aspx" class="contact">Contact Us</a>
@@ -851,18 +836,12 @@ Sys.Application.initialize();
 		 <div id="footer-copyright">©2020&nbsp;GreatCall. All Rights Reserved.</div>   
 	</div>
 </footer>
-<div id="freeShipping" class="modal-boxes-small dev-noxbutton">
-    <h3>Enjoy FREE Everyday Shipping on all orders.</h3>
-    <p>Eligible customers must select the Ground Shipping option during checkout in order to receive free shipping. Most in-stock items will arrive 3-7 business days after your order is received. Free Ground Shipping is valid in the US only (excluding Hawaii, Alaska, and Puerto Rico).</p>
-</div>
-<div id="touchPopup" class="modal-message-large dev-noxbutton" title="Call Now To Order Your Jitterbug Touch">
- <img id="" src="/Images/banners/modal-women.png">
 
-    <p>Thank you for your interest in the Jitterbug Touch. This new phone is not available to purchase online at this time. To place your order, please call one of our friendly Sales Representatives at <span>1-800-650-4412.</span></p>
-</div>
+
 <script type="text/javascript">
 	$(".accordion-toggle-minus, .accordion-toggle").click(function () {
-		$(this).closest(".accordion").find(".accordion-toggle-minus").not(this).removeClass("accordion-toggle-minus").addClass("accordion-toggle");
+	    $(this).closest(".accordion-lc").find(".accordion-toggle-minus").not(this).removeClass("accordion-toggle-minus").addClass("accordion-toggle");
+	    $(this).closest(".accordion-blog").find(".accordion-toggle-minus").not(this).removeClass("accordion-toggle-minus").addClass("accordion-toggle");
 		if ($(this).attr("class") == "accordion-toggle-minus") {
 			$("#learningCenterContent").css("height", "326px");
 		}
@@ -887,12 +866,20 @@ Sys.Application.initialize();
 		$(this).toggleClass("accordion-toggle-minus accordion-toggle");
 	});
 </script>
-<script type="text/javascript">
-	(function (a, b, c, d) {
-		a = '//tags.tiqcdn.com/utag/greatcall/greatcallweb/prod/utag.js';
-		b = document; c = 'script'; d = b.createElement(c); d.src = a; d.type = 'text/java' + c; d.async = true;
-		a = b.getElementsByTagName(c)[0]; a.parentNode.insertBefore(d, a);
-	})();
- </script>
+    <script src="/scripts/bodytag/greatcall.usertimeout.js" type="text/javascript"></script>
+    <script type="text/javascript">
+	    (function (a, b, c, d) {
+		    a = '//tags.tiqcdn.com/utag/greatcall/greatcallweb/prod/utag.js';
+		    b = document; c = 'script'; d = b.createElement(c); d.src = a; d.type = 'text/java' + c; d.async = true;
+		    a = b.getElementsByTagName(c)[0]; a.parentNode.insertBefore(d, a);
+	    })();
+     </script>
 
-<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close" style="text-decoration: none; border: 0px solid;"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close" style="text-decoration: none; border: 0px solid;"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all no-xbutton" tabindex="-1" role="dialog" aria-labelledby="ui-id-1" style="display: none; outline: 0px; z-index: 1000;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-id-1" class="ui-dialog-title">&nbsp;</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="freeShipping" class="modal-boxes-small dev-noxbutton ui-dialog-content ui-widget-content">
+    <h3>Enjoy FREE Everyday Shipping on all orders.</h3>
+    <p>Eligible customers must select the Ground Shipping option during checkout in order to receive free shipping. Most in-stock items will arrive 3-7 business days after your order is received. Free Ground Shipping is valid in the US only (excluding Hawaii, Alaska, and Puerto Rico).</p>
+</div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all no-xbutton ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-labelledby="ui-id-2" style="outline: 0px; position: absolute; height: auto; width: 300px; top: 302px; left: 529px; display: block; z-index: 1001;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-id-2" class="ui-dialog-title">Call Now To Order Your Jitterbug Touch</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="touchPopup" class="modal-message-large dev-noxbutton ui-dialog-content ui-widget-content" scrolltop="0" scrollleft="0" style="width: auto; min-height: 94px; height: auto;">
+ <img id="" src="/Images/banners/modal-women.png">
+
+    <p>Thank you for your interest in the Jitterbug Touch. This new phone is not available to purchase online at this time. To place your order, please call one of our friendly Sales Representatives at <span>1-800-650-4412.</span></p>
+</div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 1000;"></div></div></body></html>
