@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ioldating.co.za privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515194244id_/http%3A//www.ioldating.co.za/s/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ioldating.co.za privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331024546id_/http%3A//www.ioldating.co.za/s/help/privacy.php) for the most accurate reproduction.*
 
 # IOL Dating - Privacy Policy
 
@@ -59,6 +59,10 @@ Our members and site visitors have the option to share a profile they like with 
 
 Our technical team do their utmost to ensure the security of our systems. Internet Security is a complex topic and no system can be considered 100% secure. Should a security breach occur we would endeavour to react as fast as possible to remedy the problem. However we cannot assume responsibility for member details compromised in the unlikely event of a security breach.
 
-#### 13\. Changes to This Policy
+#### 13\. Signing up with Social Network Accounts
+
+We provide a quick and easy method for members to join or log in with a social network accounts, e.g. Facebook. This is for the sole purpose of speeding up the join process and no references to or content about IOL Dating will be posted to your social network account or timeline. Refer to the 'Social Network Sharing' section for occasions where you may give permission to post updates on your social network account or timeline.
+
+#### 14\. Changes to This Policy
 
 If we make material changes to our privacy policy, these changes will be posted to our privacy policy page. You should review this page regularly for updates.
