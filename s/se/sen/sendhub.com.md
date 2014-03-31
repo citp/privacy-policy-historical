@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendhub.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819015506id_/https%3A//www.sendhub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendhub.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331034718id_/https%3A//www.sendhub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SendHub
 
@@ -14,7 +14,9 @@ We will collect and use personal information solely with the objective of fulfil
 
 We will only retain personal information as long as necessary for the fulfillment of those purposes.
 
-We will collect personal information by lawful means and, where appropriate, with your knowledge or consent of.
+We will collect personal information by lawful means and, where appropriate, with your knowledge or consent.
+
+We do not track or honor “Do Not Track” signals sent from any web browser or any other device, mechanism, or software used to access the Website. 
 
 Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
 
@@ -30,7 +32,7 @@ Our web pages use web beacons in conjunction with cookies to compile aggregate s
 
 We will make readily available to customers information about our policies and practices relating to the management of personal information. InfoReach understands the importance of protecting children's privacy online. The Website is not intended for children 13 years of age or younger. It is not our policy to intentionally collect or maintain information about anyone under the age of 13.
 
-We do not rent, sell, or otherwise provide your Personal Information to third parties for marketing purposes, although we may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to help them understand the usage patterns for certain aspects of the Service.
+We do not rent, sell, or otherwise provide your personal information to third parties. We do, however, reserve the right to share personally identifiable information and non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with trusted partners. This data shared to and analyzed by our trusted partners is used for the betterment of our products, services, and the overall experience of our customers. Such sharing occurs for purposes of developing website analytics, improvement of engagement, prevention of SPAM, and as an aid to diagnose and repair bugs. We may also use personal information to provide you updates on the status of the Website, your account, or the service.
 
 If you post Personal Information about your contacts, we will not communicate with those contacts without your consent, nor will we provide this information to third parties, unless compelled by law, necessary to enforce our User Agreement or to protect the rights, property, or personal safety of InfoReach, its users, the Site, or the public.
 
