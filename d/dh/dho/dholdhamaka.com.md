@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dholdhamaka.com privacy policy that was archived on 2013-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130913033932id_/http%3A//www.dholdhamaka.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dholdhamaka.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331083113id_/http%3A//www.dholdhamaka.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - DholDhamaka.com
+# Privacy Policy
 
 ## Account and Registration Obligations
 
@@ -16,7 +16,7 @@ By accepting the Privacy Policy during registration, you expressly consent to ou
 
 At DholDhamaka.com, we are extremely proud of our commitment to protect your privacy. We value your trust in us. We will work hard to earn your confidence so that you can enthusiastically use our services and recommend us to friends and family. Please read the following policy to understand how your personal information will be treated as you make full use of our Site.
 
-## We want you to:
+### We want you to:
 
   * Feel comfortable using our Site.
   * Feel secure in submitting information to us.
@@ -25,15 +25,15 @@ At DholDhamaka.com, we are extremely proud of our commitment to protect your pri
 
 
 
-## DholDhamaka.com Privacy Guarantee
+### DholDhamaka.com Privacy Guarantee
 
 DholDhamaka.com promises that we will not sell or rent your personal information to third parties (except as provided in this Privacy Policy) without your consent. We and/or certain authorized third party service providers will use the personal information provided by you to provide you with the services, which are offered on DholDhamaka.com. From time to time we may reveal general statistical information about our Site and visitors, such as number of visitors, number and type of goods and services purchased, etc. Your trust and confidence are our highest priority.
 
-## What Information Is Or May Be Collected from You?
+### What Information Is Or May Be Collected from You?
 
 DholDhamaka.com collects the details provided by you on registration together with information we learn about you from your use of our service and your visits to our Site and other sites accessible from them. We also collect information about the transactions you undertake including details of payment cards used. We may collect additional information in connection with your participation in any promotions or competitions offered by us and information you provide when giving us feedback or completing profile forms. We also monitor customer traffic patterns and Site use, which enables us to improve the service we provide. We will collect only such information as is necessary and relevant to us to provide you with the services available on the Site.
 
-## Anonymous Information
+#### Anonymous Information
 
 We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from "cookies" sent to your browser from:
 
@@ -51,7 +51,7 @@ Non-registered visitors of the Site are sent anonymous cookies to keep track of 
 
 Most browsers allow you to turn off the cookie function. If you want to know how to do this please look at the help menu on your browser. As described above this will restrict the DholDhamaka.com services you can use.
 
-## Personally Identifiable Information
+#### Personally Identifiable Information
 
 We may collect the following personally identifiable information about you like:
 
@@ -65,7 +65,7 @@ We may collect the following personally identifiable information about you like:
 
 You can terminate your account at any time. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.
 
-## Who Collects the Information?
+#### Who Collects the Information?
 
 We will collect anonymous traffic information from you when you visit our Site.
 
@@ -75,7 +75,7 @@ Our advertisers may collect anonymous traffic information from their own assigne
 
 The Site contains links to other Web sites. We are not responsible for the privacy practices of such Web sites, which we do not own, manage or control and we urge you to study the privacy policies of such Web sites.
 
-## Our Use of Your Information?
+#### Our Use of Your Information?
 
 We use your personal information to:
 
@@ -108,7 +108,7 @@ Generally, we use anonymous traffic information to:
 
 
 
-## Our Disclosure of Your Information
+#### Our Disclosure of Your Information
 
 We will not use your personal information for any purpose other than to complete a transaction with you.
 
@@ -121,7 +121,7 @@ We do not rent, sell or share your personal information and we will not disclose
 
 
 
-## What choices are available to you regarding Collection, Use and Distribution of Your Information?
+#### What choices are available to you regarding Collection, Use and Distribution of Your Information?
 
 Supplying personally identifiable information is entirely voluntary. You are not required to register with us in order to browse our Site. However, we offer some services only to visitors who do register.
 
@@ -131,31 +131,31 @@ Upon request, we will remove / block your personally identifiable information fr
 
 If we plan to use your personally identifiable information for any commercial purposes, we will notify you at the time we collect that information and allow you to opt-out of having your information used for those purposes.
 
-## Security
+#### Security
 
 To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. For example, our servers are accessible only to authorized personnel and that your information is shared with respective personnel on need to know basis to complete the transaction and to provide the services requested by you.
 
 Although we will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using this Site, you agree that we will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties.
 
-## Access or change your personally identifiable information
+#### Access or change your personally identifiable information
 
 To protect your privacy and security, we will verify your identity before granting access or making changes to your personally-identifying information. If you have registered your profile on dholdhamaka , your books.DholDhamaka .com ID and Password are required in order to access your profile information
 
-## How Can you Correct Inaccuracies in the Information?
+#### How Can you Correct Inaccuracies in the Information?
 
 You can update or correct any information by clicking on .
 
-## Policy Updates
+#### Policy Updates
 
 We reserve the right to change or update this policy at any time. Such changes shall be effective immediately upon posting to this Site.
 
 You are can offer your views, suggestions, if any, by submitting your feedback using the form in the Contact Us section.
 
-## Your Consent
+#### Your Consent
 
 By using the Site, you consent to the collection and use of the information you disclose on the Site by Shoppoz Enterprises. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-## Contact Customer Support
+#### Contact Customer Support
 
 DholDhamaka.com (Online Retail)  
 514, 2nd Floor,  
