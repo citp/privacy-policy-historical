@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfav.es privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909074423id_/https%3A//www.myfav.es/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfav.es privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331023756id_/https%3A//www.myfav.es/privacy-policy) for the most accurate reproduction.*
 
 # Myfav.es - Privacy Policy
 
@@ -16,7 +16,7 @@ The information is used to enhance the vistor's experience when using the websit
 
 E-mail addresses will not be sold, rented or leased to 3rd parties.
 
-E-mail may be sent to inform you of news of our services or offers by us or our affiliates.
+E-mail may be sent to inform you of news of our services.
 
 ### Visitor Options
 
