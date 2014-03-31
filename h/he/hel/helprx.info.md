@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the helprx.info privacy policy that was archived on 2013-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131008130049id_/http%3A//www.helprx.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helprx.info privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331035314id_/http%3A//www.helprx.info/privacy-policy) for the most accurate reproduction.*
 
-# HelpRx.info - Online Pharmacy Discounts
+# Privacy Policy
 
 Note from the webmaster
 
 The privacy policy that follows is lengthy, and while we’d hope you review the whole thing, the important bits are as follows:
 
 * We do not sell or rent your personal information to other companies for any purpose.
-  
-
 * If you provide us your email address or mailing address we may contact you from time to time about our website, or other affiliated Script Relief services we believe may be of interest to you. If you’d prefer not to receive any ongoing communication we’d be happy to remove you from our lists. Just email us: Customerservice@ScriptRelief.com
 
 Script Relief respects your right to privacy. We have developed this Privacy Policy to inform you of the data gathering and dissemination practices applicable to our web site. By using Script Relief's website and services you are accepting the practices described in this Privacy Policy and you agree to adhere to the Terms and Conditions posted on the Site. If you do not agree with any terms, please do not use this site or submit any personal information. 
