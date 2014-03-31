@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the pluginseo.com privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902072700id_/http%3A//www.pluginseo.com/Info/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluginseo.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331110157id_/https%3A//www.pluginseo.com/Info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Plug in SEO
 
-**Updated on: April 28, 2011**
+  
+**Updated on: November 5, 2013**
 
 This Policy applies as between you, the User of this Web Site and Pemberton Rank Ltd the owner and provider of this Web Site. This Policy applies to our use of any and all Data collected by us in relation to your use of the Web Site and any Services therein. 
 
@@ -14,6 +15,8 @@ In this Policy terms shall have the same meanings as defined in the Terms of Use
 ---|---  
 “Data”| means collectively all information that you submit to the Website. This includes, but is not limited to, Account details and information submitted using any of our Services;  
   
+
+
 ## 2\. Data Collected
 
 Without limitation, any of the following Data may be collected: 
@@ -28,14 +31,15 @@ Without limitation, any of the following Data may be collected:
   8. web browser type and version (automatically collected);
   9. operating system (automatically collected);
   10. a list of URLS starting with a referring site, your activity on this Website, and the site you exit to (automatically collected); and
-  11. Cookie information (see clause 10 below).
+  11. Cookie information (see clause 9 below).
 
+  
 
 
 ## 3\. Our Use of Data
 
   1. Any personal Data you submit will be retained by Pemberton Rank for as long as you use the Services provided on the Web Site. 
-  2. If you terminate your account, we may retain the Data that you submitted indefinitely, to enable us to reactivate your account in the event that you choose to re-enable your account. If you do not wish us to retain your Data in this way, inform us by emailing hello@pluginseo.com and we will delete it.
+  2. If you terminate your account, we may retain the Data that you submitted indefinitely, to enable us to reactivate your account in the event that you choose to re-enable your account. If you do not wish us to retain your Data in this way, inform us by emailing help@pluginseo.com and we will delete it.
   3. Unless we are obliged or permitted by law to do so, and subject to Clause 4, your Data will not be disclosed to third parties.
   4. All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998. Fore more details on security, see clause 8 below.
   5. Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using our Web Site. Specifically, Data may be used by us for the following reasons: 
@@ -44,6 +48,7 @@ Without limitation, any of the following Data may be collected:
     * transmission by email of promotional materials that may be of interest to you, until such time as you unsubscribe from the mailing list by following the instructions that we supply within each such email;
     * contact for market research purposes which may be done using email, telephone, fax or mail. Such information may be used to customise or update the Website.
 
+  
 
 
 ## 4\. Third Party Web Sites and Services
@@ -55,6 +60,7 @@ Pemberton Rank may, from time to time, employ the services of other parties for 
   1. Pemberton Rank may, from time to time, expand or reduce its business and this may involve the sale of certain divisions or the transfer of control of certain divisions to other parties. Data provided by Users will, where it is relevant to any division so transferred, be transferred along with that division and the new owner or newly controlling party will, under the terms of this Policy, be permitted to use the Data for the purposes for which it was supplied by you.
   2. In the event that any Data submitted by Users will be transferred in such a manner, you will not be contacted in advance and informed of the changes. 
 
+  
 
 
 ## 6\. Your Right to Withhold Information
@@ -62,6 +68,7 @@ Pemberton Rank may, from time to time, employ the services of other parties for 
   1. You may access certain areas of the Website without providing any Data at all. However, to use all Services available on the Website you may be required to submit Account information or other Data.
   2. You may restrict your internet browser’s use of Cookies. For more information see clause 9 below.
 
+  
 
 
 ## 7\. Accessing your own Data
@@ -69,6 +76,7 @@ Pemberton Rank may, from time to time, employ the services of other parties for 
   1. You may access your Account at any time to view or amend the Data. You may need to modify or update your Data if your circumstances change. Additional Data as to your marketing preferences may also be stored and you may change this at any time.
   2. You have the right to ask for a copy of your personal Data on payment of a small fee.
 
+  
 
 
 ## 8\. Security
@@ -82,6 +90,7 @@ Data security is of great importance to Pemberton Rank and to protect your Data 
   3. You may delete Cookies, however you may lose information that enables you to access the Services more quickly.
   4. Your web browser may provide functionality to enable or disable cookies. Disabling Cookies may prevent you from using the full range of Services available on the Website.
 
+  
 
 
 ## 10\. Financial information
