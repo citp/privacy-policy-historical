@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freejinger.org privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113192715id_/http%3A//www.freejinger.org/fj-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freejinger.org privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401052448id_/http%3A//www.freejinger.org/fj-privacy-policy) for the most accurate reproduction.*
 
 # FJ Privacy Policy | Free Jinger
 
