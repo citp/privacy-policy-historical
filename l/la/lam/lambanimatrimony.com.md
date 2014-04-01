@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lambanimatrimony.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027023810id_/http%3A//www.lambanimatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lambanimatrimony.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401210258id_/http%3A//www.lambanimatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Lambani Matrimony, Matrimony, Indian Matrimony
 
