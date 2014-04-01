@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitekingdoms.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216001805id_/http%3A//www.elitekingdoms.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitekingdoms.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401030230id_/http%3A//elitekingdoms.com/privacy.php) for the most accurate reproduction.*
 
 # EliteKingdoms - Private Servers - EliteKingdoms.com
 
