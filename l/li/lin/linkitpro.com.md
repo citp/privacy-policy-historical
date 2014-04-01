@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkitpro.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201120757id_/http%3A//www.linkitpro.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkitpro.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401170643id_/http%3A//www.linkitpro.com/page/privacy) for the most accurate reproduction.*
 
 # Link Building Strategies, Packages, Campaigns - LinkitPro.com
 
@@ -10,7 +10,7 @@ Users can, at their option, opt to join the LinkitPro.com email newsletter. Link
 
 If a user of the LinkitPro website becomes a customer, then they will also be subscribed to the customer announcement list - which they can also unsubscribe from or manage from the LinkitPro customer dashboard.
 
-If a subscribed user wishes to unsubscribe from the newsletter for any reason, he or she may do so instantly by following the automated unsubscribe link, located in the footer of every email. In addition, the user may [email us here](https://web.archive.org/web/20131201120757id_/http%3A//www.linkitpro.com/page/contact.php)
+If a subscribed user wishes to unsubscribe from the newsletter for any reason, he or she may do so instantly by following the automated unsubscribe link, located in the footer of every email. In addition, the user may [email us here](https://web.archive.org/web/20140401170643id_/http%3A//www.linkitpro.com/page/contact.php)
 
 The data collected by our newsletter system will be used for marketing purposes related to topics on affiliate marketing, internet business or similarly relevant content.
 
