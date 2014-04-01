@@ -1,261 +1,354 @@
-<!--The following is the downloaded HTML source of the yellowise.com privacy policy that was archived on 2010-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100516030304id_/http%3A//www.yellowise.com/node/3) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yellowise.com privacy policy that was archived on 2014-04-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140401030633id_/http%3A//inuvo.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr" class="js"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <title>Yellowise.com Privacy Policy | Yellowise.com</title>
-        <meta name="description" content="The Yellowise.com Privacy Policy.">
-<meta name="robots" content="index,follow">
-<link rel="canonical" href="http://www.yellowise.com/privacy-policy">
-	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-	<meta http-equiv="imagetoolbar" content="no">
-	<link rel="icon" href="/sites/all/themes/yellowise/favicon.ico" type="image/x-icon">
-	<link rel="shortcut icon" href="/sites/all/themes/yellowise/favicon.ico" type="image/x-icon"> 
-	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/sites/all/themes/yellowise/ie6.css" media="screen"/><![endif]-->
-    <link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?g">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?g">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?g">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?g">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?g">
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/yellowise/style.css?g">
-    <script type="text/javascript" src="/misc/jquery.js?g"></script>
-<script type="text/javascript" src="/misc/drupal.js?g"></script>
-<script type="text/javascript" src="/sites/all/themes/yellowise/scripts.js?g"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, { "basePath": "/" });
-//--><!]]>
-</script>
-</head>
-<body>
-	<div id="main">
-		<!-- user-area -->
-		
-<p class="logo"><a href="http://www.yellowise.com/"><img src="http://www.yellowise.com/sites/all/themes/yellowise/images/logo_old.gif" height="72px" width="259px" alt=" " title=" "></a></p>		<!-- content start -->
-		<div id="content">
-
-			<!-- search-form start -->
-			<!-- USE GEO IP- location: Seattle, WA -->
-
-<script language="javascript"> 
-<!--
- 
-/* ************************************************************************************* */
-/* ************************************************************************************* */
-/* PRESET VALUE CHECKER/SWITCHER */
-/* ************************************************************************************* */
-/* ************************************************************************************* */
-
-/* Presets default values */
-var presetWhatDefault = "(e.g. Dentist, Bob's Market, Tattoo parlor)";
-var presetWhereDefault = "Seattle, WA";
-/* Define other variables to store values */
-var formWhatDefault = "";
-var formWhereDefault = ""; 
-var gotDefaultValues = false; 
-var formWhat = "";
-var formWhere = "";
-
-function assignDefaults() /* Get the form defaults */
-{
-	formWhatDefault = document.getElementById('l-what').value; 
-	formWhereDefault = document.getElementById('l-where').value; 
-	gotDefaultValues = true;
-} /* /END assignDefaults */
-
-function formValueDefaults(checkStatus,currentElement) /* Show hide/defaults */
-{
-
-	/* Grab the defaults the first time */
-	if (!gotDefaultValues) { assignDefaults(); } 
-
-	/* Get object data */
-	formWhat = document.getElementById('l-what'); 
-	formWhere = document.getElementById('l-where'); 
-	
-	/* Check it, change it */
-	if (checkStatus == "start")
-	{
-		switch(currentElement) 
-		{
-			case 'what':
-				/* Page default is same as preset default */
-				if (formWhat.value == presetWhatDefault) {  
-					formWhat.value = ""; 
-					formWhat.className='form-text-user';
-				}	
-				/* Is the value the loaded page default? */
-				formWhat.focus();
-		    	break;
-		    case 'where':
-				/* Page default is same as preset default */
-				if (formWhere.value == presetWhereDefault) {  
-					formWhere.value = ""; 
-					formWhere.className='form-text-user';
-				}	
-				/* Is the value the loaded page default? */
-				formWhere.focus();
-			    break;
-		}
-	}
-	else
-	{
-		switch(currentElement) 
-		{
-			case 'what':
-				/* Is it blank? Fill it back in with the default */
-				if (formWhat.value == "") {	
-					formWhat.value = presetWhatDefault; 
-					formWhat.className='form-text';
-				}
-    			break;
-		    case 'where':
-				/* Is it blank? Fill it back in with the default */
-				if (formWhere.value == "") {	
-					formWhere.value = presetWhereDefault; 
-					formWhere.className='form-text';
-				}
-	    		break;
-		}
-	} /* END checkStatus */
-} /* /END formValueDefaults */	
-	
-/* ************************************************************************************* */
-/* ************************************************************************************* */
-
-// --></script>
-
-
-
-             <div class="search-form">
-				<form action="null" onsubmit="return validate_form(this);">
-					<div>
-						<div class="container-inline">
-							<div class="form-item">
-								<label for="l-what">What? </label>
-								<input type="text" id="l-what" class="form-text" title="Enter the terms you wish to search for." value="(e.g. Dentist, Bob's Market, Tattoo parlor)" size="15" name="what" maxlength="128" onfocus="formValueDefaults('start','what');" onblur="formValueDefaults('end','what');">
-							</div>
-							<div class="form-item">
-						<!--		<a href="#" class="link">Change location</a>  -->
-								<label for="l-where">Where?</label>
-								<input type="text" id="l-where" class="form-text" title="Enter the city and state you wish to search in." value="Seattle, WA" size="15" name="where" maxlength="128" onfocus="formValueDefaults('start','where');" onblur="formValueDefaults('end','where');">
-							</div>
-							<input type="submit" class="form-submit" value="&nbsp;">
-						</div>
-					</div>
-				</form>
-			</div>                        <!-- search-form end -->
- 
-			<!-- content-container start-->
-			<div class="content-container">
-																												<div class="content-container-head">
-																									</div>
-				<div id="node-3" class="node">
-
-
-
-  
-  <div class="content clear-block">
+<!DOCTYPE html><html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" itemscope="" itemtype="http://schema.org/Thing" lang="en-US"><head>
     
-<h2>Privacy Policy</h2>
-<p>At Yellowise.com™, we are committed to protecting online user privacy. This "Privacy Policy" discloses the privacy practices governing our knowing collection, use, and disclosure of information. In order to ensure your privacy, information we collect is used only in the manner and for the purposes described below.</p>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    
 
-<p>Anonymous User Information: Yellowise.com collects some anonymous information each time you visit Yellowise.com so we can improve the overall quality of your online experience. We collect your IP address, referral data, and browser and platform type. You do not have to register with Yellowise.com before we can collect this anonymous information. We do not collect any unique information about you (such as your name, e-mail address, etc.) except when you specifically and knowingly provide such information. Yellowise.com does not require you to share information that identifies you personally, such as your name or email address, in order for you to use the Yellowise.com search. Yellowise.com assigns an anonymous ID number to your requests and links the following additional data to that number: the date and time you visited Yellowise.com, your search terms, and the links upon which you choose to click. Like most standard Web site servers, we use log files to collect and store this anonymous user information. We analyze this information to examine trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. Yellowise.com may present links in a format that enables us to understand whether they have been followed. We use this information to understand and improve the quality of the Yellowise.com search. </p>
+    <!--INCLUDE SQS SCRIPTS, META TAGS AND USER CONTENT FROM THE CODE INJECTION TAB-->
 
-<p>Cookies: We use a feature of Internet web browsers called a "cookie," which is a small file that is sent to your computer when you visit a website. This enables us to store user preferences and track user trends and search patterns. We use cookies to improve the quality of the Yellowise.com services and to better understand how users interact with us. We do not and cannot use Cookies to retrieve individual personally identifiable information about you from your computer unless you knowingly and willingly provided such information. The cookie technology we use cannot obtain information from your hard drive or pass on a computer virus. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Yellowise.com features or services may not function properly without cookies. </p>
+    <!-- This is Squarespace. --><!-- inuvo -->
+<base href="">
+<meta charset="utf-8">
+<title>PRIVACY POLICY — Inuvo Inc: Targeted Internet Marketing</title>
+<link rel="canonical" href="http://www.inuvo.com/privacy-policy/">
+<meta property="og:site_name" content="Inuvo Inc: Targeted Internet Marketing">
+<meta property="og:title" content="PRIVACY POLICY">
+<meta itemprop="name" content="PRIVACY POLICY">
+<meta property="og:url" content="http://www.inuvo.com/privacy-policy/">
+<meta itemprop="url" content="http://www.inuvo.com/privacy-policy/">
+<meta property="og:type" content="article">
+<meta property="og:image" content="http://static.squarespace.com/static/51fc0495e4b0f895796d8296/52006036e4b0748af59ebfc2/526acfbee4b054b5e171d289/?format=500w">
+<meta itemprop="thumbnailUrl" content="http://static.squarespace.com/static/51fc0495e4b0f895796d8296/52006036e4b0748af59ebfc2/526acfbee4b054b5e171d289/?format=500w">
+<link rel="image_src" href="http://static.squarespace.com/static/51fc0495e4b0f895796d8296/52006036e4b0748af59ebfc2/526acfbee4b054b5e171d289/?format=500w">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//static.squarespace.com/universal/scripts-compressed/common-a27bbe35a572f7828f0d452bf9a12854-min.js"></script><script type="text/javascript" src="//static.squarespace.com/universal/scripts-compressed/commerce-9b12e9b8977eedd6c3c85d03eac78237-min.js"></script><link rel="stylesheet" type="text/css" href="//static.squarespace.com/universal/styles-compressed/commerce-66c4ff922726edd23802e5edb4a146df-min.css"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 
-<p>Information security: We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. We restrict access to your personally identifying information to employees who need to know that information in order to operate, develop or improve our services. </p>
+<script> Static.SQUARESPACE_CONTEXT = {"templateTweakable":true,"website":{"id":"51fc0495e4b0f895796d8296","identifier":"inuvo","contentModifiedOn":1395327897914,"cloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Chicago","machineTimeZoneOffset":-18000000,"timeZoneOffset":-18000000,"timeZoneAbbr":"CDT","siteTitle":"Inuvo Inc: Targeted Internet Marketing","siteDescription":"","location":{"mapZoom":13.0,"mapLat":35.0896593,"mapLng":-92.43945889999998,"markerLat":35.0896593,"markerLng":-92.43945889999998,"addressTitle":"Inuvo Inc.","addressLine1":"1111 Main Street, Suite 201  ","addressLine2":"Conway, AR 72032 ","addressCountry":"Faulkner County"},"logoImageId":"525dbc1ce4b0607b1e37323c","shareButtonOptions":{"8":true,"7":true,"6":true,"5":true,"4":true},"logoImageUrl":"//static.squarespace.com/static/51fc0495e4b0f895796d8296/t/525dbc1ce4b0607b1e37323c/1395327897914/","authenticUrl":"http://www.inuvo.com","baseUrl":"http://www.inuvo.com","primaryDomain":"www.inuvo.com","statsMigrated":true,"imageMetadataProcessingEnabled":false},"tzData":{"zones":[[-360,"US","C%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"websiteCloneable":false,"isSystemPage":false,"collection":{"title":"PRIVACY POLICY","id":"52006036e4b0748af59ebfc2","fullUrl":"/privacy-policy/"},"subscribed":false,"appDomain":"squarespace.com","templateId":"515c7bd0e4b054dae3fcf003","rollups":{"squarespace-audio-player":{"css":"//static.squarespace.com/universal/styles-compressed/audio-player-fe4a6ef632bb16f10167f42b20429784-min.css","js":"//static.squarespace.com/universal/scripts-compressed/audio-player-0160337466dea1dba564e29dc8353f60-min.js"},"squarespace-calendar-block-renderer":{"css":"//static.squarespace.com/universal/styles-compressed/calendar-block-renderer-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/calendar-block-renderer-5cbe9e07d557b80017901b60d79a42c6-min.js"},"squarespace-comments":{"css":"//static.squarespace.com/universal/styles-compressed/comments-0ff2173a8486327170337d8983fb0019-min.css","js":"//static.squarespace.com/universal/scripts-compressed/comments-6a2105bf63ea0194bbda1446e93adfa8-min.js"},"squarespace-dialog":{"css":"//static.squarespace.com/universal/styles-compressed/dialog-889620b582f0f5b5e996e29c75afb3c3-min.css","js":"//static.squarespace.com/universal/scripts-compressed/dialog-387270a2d26e70f7056ed7a05cd6dc56-min.js"},"squarespace-pinterest":{"css":"//static.squarespace.com/universal/styles-compressed/pinterest-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/pinterest-358479691c5549c114e261aeeaa92e54-min.js"}},"tweakJSON":{"aspect-ratio":"Auto","contentBgColor":"rgba(255,255,255,1)","first-index-image-fullscreen":"false","fixed-header":"false","footerBgColor":"rgba(0,0,0,1)","gallery-arrow-style":"No Background","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-design":"Slideshow","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","gridSize":"350px","gridSpacing":"20px","headerBgColor":"rgba(0,0,0,1)","index-image-height":"Half","parallax-scrolling":"true","product-gallery-auto-crop":"true","product-image-auto-crop":"true"},"websiteSettings":{"id":"51fc0495e4b0f895796d82a0","websiteId":"51fc0495e4b0f895796d8296","type":"Business","subject":"Marketing/Advertising","country":"","state":"","markdownMode":false,"simpleLikingEnabled":true,"lastAgreedTermsOfService":2,"defaultPostFormat":"%y/%m/%d/%t","commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","homepageTitleFormat":"%s","collectionTitleFormat":"%c \u2014 %s","itemTitleFormat":"%i \u2014 %s","commentsEnabled":true,"contactPhoneNumber":"501-205-8508","contactEmail":"info@inuvo.com","allowSquarespacePromotion":true,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"useLightCart":false,"showNoteField":false,"currenciesSupported":["USD"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"isLive":false,"stripeConnected":false,"storeState":3},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1},"secureDomain":"https://inuvo.squarespace.com"}; SquarespaceFonts.loadViaContext(); Squarespace.load(); </script>
 
-<p>Aggregated General Information: We may share aggregated general information about our site with our corporate partners or others. Examples of this include the number of users who searched for "Classic Cars", the daily number of unique visitors, or how many users clicked on a particular advertisement. Aggregated data does not contain any personally identifiable information that could be used to contact or identify you. Information sharing We may share personally identifying information to other companies or individuals in any of the following limited circumstances: <br><br>
+<script type="text/javascript" src="//use.typekit.net/ik/8GAtEeOKUnMIYkkJucaz4BU_aX6amOAGFwnjaOdojD9fezwgfFHN4UJLFRbh52jhWD9UZcw3F2quZQsKwejt5Q9a5QZq52JoFyTBiaiaOc80iWZzOcFzdPUTd1mhdkoRdhXC-Aouicv0SaBujW48Sagyjh90jhNlOfG0-Aouicv0SaBujW48Sagyjh90jhNlJ6U3ScNt-AuyOAozicIKfAZuiYmkjPu3ifG4fHvgIMMjgfMfH6qJRMIbMg6sJMJ7fbK0MsMMegM6MKG4fJCgIMMjgkMfH6qJnbIbMg6eJMJ7fbK3MsMMeMt6MKG4fJsmIMIjgfMfH6qJ689bMs6sJMJ7fbKgmsMgeMS6MKG4fJmmIMIj2KMf.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic">
+<!--[if gte IE 9]> <link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/51fc0495e4b0f895796d8296/211/515c7bd0e4b054dae3fcf003/51fc0497e4b0f895796d8479/2464/1395327897912/site.css?"/><![endif]-->
+<!--[if lt IE 9]><script src="//static.squarespace.com/universal/scripts-thirdparty/html5/html5-shiv.js"></script><link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/51fc0495e4b0f895796d8296/211/515c7bd0e4b054dae3fcf003/51fc0497e4b0f895796d8479/2464/1395327897912/site.css?&noMedia=true"/><![endif]-->
+<!--[if !IE]> --> <link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/51fc0495e4b0f895796d8296/211/515c7bd0e4b054dae3fcf003/51fc0497e4b0f895796d8479/2464/1395327897912/site.css?"> <!-- <![endif]-->
+<script type="text/javascript"> var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-10893569-1']); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); </script><!-- End of Squarespace Headers -->
+    <script type="text/javascript" src="https://static.squarespace.com/static/ta/515c7b5ae4b0875140c3d94a/2464/scripts/site.js"></script>
+  <!-- test comment -->
+  </head>
 
-• We have your consent. <br>
-• We provide such information to trusted businesses or persons for the sole purpose of processing personally identifying information on our behalf. When this is done, it is subject to agreements that oblige those parties to process such information only on our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures. <br>
-• When required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a criminal investigation, a court order, or legal process served on our Web site. We may also share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yellowise.com's terms of use, or as otherwise required by law. <br>
-• If you have an account, we may share the information submitted under your account among all of our services in order to provide you with a seamless experience and to improve the quality of our services. We will not disclose your account information to other people or non-affiliated companies, except in the limited circumstances described in this Policy or with your consent. <br>
-• We may store and process personal information collected on our site in the United States or any other country in which Yellowise.com or its agents maintain facilities. By using our services, you consent to the transfer of your information among these facilities, including those located outside your country. <br>
-• Yellowise.com may use third party service providers to serve ads and emails on our behalf. These companies may use technologies to measure the effectiveness of ads and emails and use information about your visits to Yellowise.com so that we can provide a better search experience to you. For this purpose, we may also provide these third parties service providers anonymous information about your site navigation. <br>
-• We may share certain information about you with carefully selected business partners, including those who may offer services that complement those provided by us or which we believe may be of interest to you. We may also disclose information to third parties who assist us in providing our services to you. For example, we may engage third parties to make improvements on our site, to offer new products and to allow us to customize your experience on the Site. </p>
+    <body id="collection-52006036e4b0748af59ebfc2" class="collection-type-page view-list mobile-style-available collection-52006036e4b0748af59ebfc2 collection-layout-default gallery-design-slideshow aspect-ratio-auto lightbox-style-dark gallery-navigation-bullets gallery-info-overlay-show-on-hover gallery-arrow-style-no-background gallery-show-arrows gallery-auto-crop    event-excerpts event-list-date event-list-time event-list-address event-icalgcal-links  parallax-scrolling    title--description-alignment-left title--description-position-over-image   index-image-height-half  blog-layout-columns blog-width-full  product-list-titles-under product-list-alignment-center product-item-size-11-square product-image-auto-crop product-gallery-size-11-square product-gallery-auto-crop show-product-price show-product-item-nav product-social-sharing   opentable-style-light newsletter-style-dark small-button-style-solid small-button-shape-square medium-button-style-solid medium-button-shape-square large-button-style-solid large-button-shape-square button-style-default button-corner-style-square native-currency-code-usd">
 
-<p>Correspondence: If you contact Yellowise.com, we may keep a record of that correspondence and we may collect your email address. </p>
+      <div id="mobileNav">
+        
+  <nav class="main-nav">
+      <div class="nav-wrapper">
+        <ul class="cf">
+        
 
-<p>Third Party Information Gathering: Yellowise.com includes content and ads from third parties that may perform user activity tracking other than that described herein. These other sites may place their own cookies on your computer, collect data or solicit personal information. For more information about each third party content provider, cookies, and how to "opt-out", please refer to such third party advertiser's privacy policy Yellowise.com contains links to other sites on the Web. Please be aware that Yellowise.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. </p>
+          
+            <li class="page-collection">
 
-<p>Children's Privacy: Yellowise.com does not knowingly request or collect personally identifiable information online or offline contact information from users under 13 years of age nor do we knowingly use or share personal information from users under 13 years of age with third parties. </p>
+            
+              <a href="/"><span>Home</span></a>
+            
+            </li>
+          
 
-<p>Sale of Assets: In the event that another company acquires all or substantially all of the assets related to the business of Yellowise.com, we reserve the right to include any or all stored personal information among the assets transferred to the acquiring company. </p>
+          
+            
+        
 
-<p>Paid Submissions: The Information that is gathered when submitting a URL to the SITENAME Directory is only used to contact the customer and will not be sold or otherwise transferred without their explicit permission. </p>
+          
 
-<p>Changes to Privacy Policy: We reserve the right to amend or revise this privacy policy from time to time. We will post these changes to this page. Use of information that we gather now is subject to the privacy policy in effect at the time the information is used.</p>
-  </div>
+          
+            <li class="external-link">
+              <a href="http://investor.inuvo.com"><span>Investors</span></a>
+            </li>
+          
+            
+        
 
-  <div class="clear-block">
-    <div class="meta">
-        </div>
+          
+            <li class="folders-collection folder">
+
+            
+
+                  <!--FOLDER-->
+
+                  <div class="folder-parent">
+                    <a aria-haspopup="true"><span>COMPANY</span></a>
+                    <div class="folder-child-wrapper">
+                      <ul class="folder-child">
+                        
+
+                          
+                            <li class="">
+                              <a href="/management/">
+                                <span>MANAGEMENT</span>
+                              </a>
+                            </li>
+                          
+
+                          
+                        
+
+                          
+                            <li class="">
+                              <a href="/news/">
+                                <span>News</span>
+                              </a>
+                            </li>
+                          
+
+                          
+                        
+
+                          
+                            <li class="">
+                              <a href="/careers/">
+                                <span>CAREERS</span>
+                              </a>
+                            </li>
+                          
+
+                          
+                        
+
+                      </ul>
+                    </div>
+                  </div>
+            
+            </li>
+          
+
+          
+            
+        
+
+          
+            <li class="page-collection">
+
+            
+              <a href="/contact/"><span>Contact</span></a>
+            
+            </li>
+          
+
+          
+            
+        
+      </ul>
+    </div>
+  </nav>
 
       </div>
+    
+    <!--HEADER-->
+    <div class="site-wrapper">
+      <div class="site-inner-wrapper">
+    <!--CONTENT INJECTION POINT-->
+    
+     
 
-</div>
-                                 
-			</div>
-                        <!-- content-container end -->  
+        <div id="header-wrapper">
+          <header id="header">
 
-                        <!-- more-info start -->
-                        <div class="more-info">
-                                      <script type="text/javascript">
-            function __inuvo() { return '/scripts/at_' + new Date().getTime() + '.js?c=' + escape(__inuvi()) + '&ref=' + (document.referrer != null ? escape(document.referrer) : ''); }
-           function __inuvi() {
-                var nameEQ = '__inuvi=';
-                var ca = document.cookie.split(';');
-                for(var iC = 0; iC < ca.length; iC++){
-                    var c = ca[iC];
-                    while (c.charAt(0) == ' ') { c = c.substring(1, c.length); }
-                    if (c.indexOf(nameEQ) == 0) { return c.substring(nameEQ.length, c.length); }
-                }
-                return '';
-            }
-            document.write(unescape("%3Cscript src='http://testats.inuvo.com") + __inuvo() + unescape("' type='text/javascript'%3E%3C/script%3E")); 
-        </script><script src="http://testats.inuvo.com/scripts/at_1580366862268.js?c=&amp;ref=" type="text/javascript"></script>
-        <script type="text/javascript">
-            try {
-                var pvs = new inuvoAnalytics('8', '9');
-                pvs.Track();
-            } catch (err) { }
-        </script><script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-10116223-1");
-pageTracker._trackPageview();
-} catch(err) {}</script><script type="text/javascript" src="http://tracking.inuvo.com/dl_js"></script><script type="text/javascript">
-document.write(unescape("%3Cscript src='http://ats.inuvo.com/scripts/pv.js' type='text/javascript'%3E%3C/script%3E"));    
-</script><script src="http://ats.inuvo.com/scripts/pv.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
- var pt = new inuvoTracker('8','9');
- pt.Track();
- } catch (err) { }
-</script>
-                        </div>
-                        <!-- more-info end -->
- 
-		</div>
-		<!-- content end -->
-		<!-- footer start -->
-		<div id="footer">
-							<div class="foot-nav">
-					<ul class="noclass"><li class="menu-158 first"><a href="http://www.yellowise.com/about-us" rel="nofollow" title="More about Yellowise.com">About Yellowise.com</a></li>
-<li class="menu-187"><a href="/contact-us">Contact Us</a></li>
-<li class="menu-122"><a href="http://www.yellowise.com/node/3" rel="nofollow" title="The Yellowise.com Privacy Policy">Privacy Policy</a></li>
-<li class="menu-157"><a href="http://www.yellowise.com/site-map" title="Yellowise.com Site Map">Site Map</a></li>
-<li class="menu-121 last"><a href="http://www.yellowise.com/node/2" rel="nofollow" title="The Yellowise.com Terms Of Service">Terms Of Service</a></li>
-</ul>				</div>
-						<p></p><div class="copy">© 2010 Inuvo™</div><div class="power"><a href="http://www.localxml.com/" target="_blank"><img src="/poweredbylocalxml.gif" width="105" height="11" alt="Powered by LocalXML" border="0"></a></div>
-<p></p>
-		</div>
-		<!-- footer end -->
-	</div>
+            <div class="title-nav-wrapper">
 
+              <!--SITE TITLE OR LOGO-->
 
-</body></html>
+                        
+              <h1 data-content-field="site-title" class="site-title">
+                <a href="/" id="top">
+                  
+                   <img src="//static.squarespace.com/static/51fc0495e4b0f895796d8296/t/525dbc1ce4b0607b1e37323c/1395327897914/?format=400w" alt="Inuvo Inc: Targeted Internet Marketing">
+                  
+                </a>
+              </h1>
+              <a class="icon-menu" id="mobileMenu"></a>
+              
+
+              <!--MAIN NAVIGATION-->
+              <div id="desktopNav">
+                
+  <nav class="main-nav">
+      <div class="nav-wrapper">
+        <ul class="cf">
+        
+
+          
+            <li class="page-collection">
+
+            
+              <a href="/"><span>Home</span></a>
+            
+            </li>
+          
+
+          
+            
+        
+
+          
+
+          
+            <li class="external-link">
+              <a href="http://investor.inuvo.com"><span>Investors</span></a>
+            </li>
+          
+            
+        
+
+          
+            <li class="folders-collection folder">
+
+            
+
+                  <!--FOLDER-->
+
+                  <div class="folder-parent">
+                    <a aria-haspopup="true"><span>COMPANY</span></a>
+                    <div class="folder-child-wrapper">
+                      <ul class="folder-child">
+                        
+
+                          
+                            <li class="">
+                              <a href="/management/">
+                                <span>MANAGEMENT</span>
+                              </a>
+                            </li>
+                          
+
+                          
+                        
+
+                          
+                            <li class="">
+                              <a href="/news/">
+                                <span>News</span>
+                              </a>
+                            </li>
+                          
+
+                          
+                        
+
+                          
+                            <li class="">
+                              <a href="/careers/">
+                                <span>CAREERS</span>
+                              </a>
+                            </li>
+                          
+
+                          
+                        
+
+                      </ul>
+                    </div>
+                  </div>
+            
+            </li>
+          
+
+          
+            
+        
+
+          
+            <li class="page-collection">
+
+            
+              <a href="/contact/"><span>Contact</span></a>
+            
+            </li>
+          
+
+          
+            
+        
+      </ul>
+    </div>
+  </nav>
+
+              </div>
+
+            </div>
+          </header>
+
+          
+          
+            
+                
+                <div class="banner-image content-fill" style="overflow: hidden;">
+                  <img data-src="http://static.squarespace.com/static/51fc0495e4b0f895796d8296/t/526acfbee4b054b5e171d289/1382731745821/Main2_resizeB.jpg" data-image="http://static.squarespace.com/static/51fc0495e4b0f895796d8296/t/526acfbee4b054b5e171d289/1382731745821/Main2_resizeB.jpg" data-image-dimensions="2160x1440" data-image-focal-point="0.7076344040204894,0.32986944184886463" alt="Main2_resizeB.jpg" class="loading" src="https://static.squarespace.com/static/51fc0495e4b0f895796d8296/t/526acfbee4b054b5e171d289/1382731745821/Main2_resizeB.jpg?format=1500w" style="top: -287px; left: 0px; width: 1350px; height: 900px; position: relative;">
+                </div>
+                
+                <div class="title-desc-wrapper has-main-image no-description" data-content-field="page-settings">
+                  <div class="title-desc-inner">
+                    <h1 class="page-title">PRIVACY POLICY</h1><br>
+                    
+                  </div>
+                </div>
+              
+            
+          
+        </div>
+        
+        <section id="content-wrapper">
+          <div class="sqs-cart-dropzone"></div> 
+          <div class="content">
+            <div class="content-inner">
+            <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1382723658686" id="page-52006036e4b0748af59ebfc2"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-54946dd2368aa6836f5f"><div class="sqs-block-content"><p>Inuvo®, Inc. takes consumer privacy seriously.&nbsp; We are committed to following industry standards, best practices and guidelines relating to the use of consumer information and privacy.&nbsp; Inuvo recognizes and complies with the self regulatory policies of the&nbsp;<a href="http://www.networkadvertising.org/index.asp">Network Advertising Initiative (NAI).</a><br></p><p>This privacy policy is intended to inform consumers about the way Inuvo uses and protects the information we collect about customers and users. Information is collected by Inuvo through our website&nbsp;<a href="http://www.inuvo.com/">www.inuvo.com</a>, through Inuvo-owned and operated websites, and across our various Technology Platforms. All use of Inuvo’s products and services, as well as visits to our websites, are subject to this privacy policy.</p><h3>The Right to Change This Policy</h3><p><strong></strong></p><p>Inuvo reserves the right to modify this privacy statement at any time, so please review it frequently.</p><h3>Contact Us</h3><p><strong></strong></p><p>If you have questions about our privacy policy, please contact us at&nbsp;<a class="spamspan" href="mailto:privacy%40inuvo.com">privacy@inuvo.com</a>&nbsp;or by mail at:</p><p>Inuvo, Inc.<br>Attn: Marketing and Communications</p><p>1111 Main Street, Suite 201</p><p>
+Conway, AR 72032</p><p><span>501-205-8508</span>&nbsp;</p></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-8a64e6254e4efaf2bef9"><div class="sqs-block-content"><hr></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-d3f460ac34c135eb4c08"><div class="sqs-block-content"><h2>Information Collection and Use</h2><p class="field-item odd"></p><p>We collect Personally Identifiable Information (“PII”) from Inuvo websites when you choose to provide it to us via an information request form or contact us email. PII is any information that can be used to identify or locate a particular person or entity. This includes, but is not limited to, name, postal address, telephone number, email address, gender, birth date and information about your interests in and use of various products, programs and services. For example, you may choose to send us PII about yourself in an email or by completing an online form on an Inuvo website. We use this information to contact you to respond to an inquiry, and in some instances, certain parts of our Inuvo websites require requested PII for you to participate in programs and services. Once collected, we will store your PII for a reasonable time for record-keeping purposes and promotional marketing efforts.</p><p></p><p>Inuvo also collects PII on our websites when you sign up as an Account Holder. Account Holders include both Advertisers and Publishers who have been qualified and approved for access to an Inuvo product or service offering, or Consumers who have created an account to access one of our ecommerce websites. Account Holder information collected includes PII necessary to conduct business including, but not limited to, account holder name, phone number, email address, and/or tax ID number. Payments made to and/or from Inuvo require the provision of and specified collection of additional PII which may include, but is not limited to, bank account information and credit card numbers. Phone, facsimile, email and/or cell numbers may be used to contact Account Holders as needed.</p><p>&nbsp;All Account Holder information collected is maintained in a password-protected environment. This information is used for client/customer service, media delivery, contact, billing-payables and receivables and/or other reporting purposes. Account Holders may change, update or add additional information about themselves online through our various Inuvo web sites.</p><p>We also collect Non-Personally Identifiable Information (Non-PII) via Inuvo websites and our various&nbsp;Technology&nbsp;Platforms. Non-PII cannot be used to contact any single person or entity and may include, but is not limited to, IP address, content viewed, ad interaction, interaction with other advertiser websites, browser type, Internet Service Provider, the time/date of your visit to the website, your computer’s operating system (e.g., Windows XP), search terms used and other click and browsing behavior.</p><p>Inuvo uses Non-PII for internal purposes such as to administer our websites, improve and customize our websites, and to understand and analyze how our websites are being used for marketing purposes.</p><h3>Cookies and Web Beacons</h3><p>We use cookies and web beacons to help manage our websites and analyze usage patterns. Cookies are small packets of data stored on a user’s computer that allow sites to recognize the computer when a user revisits a website. Cookies can be used to provide consumer services such as auto login, information delivery and a better understanding of how users interact with the site. These cookies enable sites to customize the site to a user’s needs and interests, so that they can be as valuable and relevant as possible.<br></p><p>Web beacons are small pieces of code placed on a web page to monitor the behavior of and collect data about the visitors viewing a web page. The use of a web beacon allows a website to record that someone has visited a particular webpage, along with additional Non-PII that the website may choose to include with the beacon.</p><p>You are always free to decline cookies. You can configure your browser to accept all cookies, reject all cookies, erase cookies or notify you when a cookie is set. For more information about cookies and web beacons, visit&nbsp;<a href="http://www.allaboutcookies.org/cookies/">http://www.allaboutcookies.org/cookies/</a>.</p><h3>Public Forums</h3><p><strong></strong></p><p>Inuvo websites make chat rooms, polls, surveys, forums, message boards, blogs commentary and/or news groups available to users. Please remember that any information that is disclosed in these areas becomes public information. You should exercise caution when deciding to disclose your PII through these channels.</p><h3>Third-Party Websites</h3><p><strong></strong></p><p>Inuvo websites may contain links to other websites, including Advertiser offers for Publisher participation. Third parties may perform functions on our behalf, such as fulfilling orders, providing promotional materials to our users, sending email, managing data, processing credit card payments or providing customer service. They have access to your personal information only to the extent necessary to perform their functions and may not use it for any other purpose.</p><p>Such websites may use cookies and/or other data collection tools. Inuvo is not responsible for the privacy practices, policies or content of such other websites. Inuvo encourages everyone to read the posted privacy policies whenever interacting with any website to learn more about the privacy practices of that website. Inuvo has no control over the use of information by third-party websites, and you should exercise caution when deciding to disclose any PII to those websites.</p></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-0aff047ea68687992cd4"><div class="sqs-block-content"><hr></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-66e8c25eba63d77d10f8"><div class="sqs-block-content"><h2>Information Security and Storage</h2><h2></h2><h3>Storage of PII</h3><h2><strong></strong></h2><p>All information collected via information request forms or contact us emails is only used to respond to that inquiry. Once collected, we will store your PII for a reasonable time for record-keeping purposes and promotional marketing efforts.</p><p>All Account Holder information collected is maintained in a password-protected environment. This information is used for client/customer service, media delivery, contact, billing-payables and receivables and/or other reporting purposes.</p><h3>Storage of Non-PII</h3><p><strong></strong></p><p>We maintain Non-PII collected by our technology for up to 180 days. This data includes, but is not limited to, IP address, content viewed, ad interaction, interaction with other advertiser websites, browser type, Internet Service Provider, the time/date of your visit to our websites, your computer’s operating system (e.g., Windows XP), search terms used and other click and browsing behavior.</p><h3>Security</h3><p><strong></strong></p><p></p><p>Inuvo uses industry standard practices to safeguard the confidentiality of information and treats data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company.</p></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-bac129a30607eb5d02db"><div class="sqs-block-content"><hr></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-acbf80ffc5d21b18c5ac"><div class="sqs-block-content"><h2>Information Sharing and Disclosure</h2><p class="content"></p><p>We do not sell, rent or share PII collected on Inuvo websites with non-affiliated third parties without your consent.</p><p>Inuvo may share Non-PII collected via our Technology Platforms with third-party service providers whom have contracted with third-party marketing partners, business partners and/or Inuvo clients, and as expressly provided for herein. Similarly, we may enhance the Non-PII collected via our Technology Platforms with Non-PII collected from third-party marketing partners, business partners and/or Inuvo clients. This information cannot be used to contact or identify any person individually.</p><p>We may disclose information to third parties when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including but not limited to, fraud and situations involving potential threats to the physical safety of any person.</p><p>Finally, we may transfer information, including any PII collected via Inuvo websites, to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change.</p><p></p></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-caafc624804788aee04d"><div class="sqs-block-content"><hr></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-9fe2ff5e5906a1b71cf0"><div class="sqs-block-content"><h2>Inuvo Opt-Out</h2><p class="field-item odd"></p><h3>Opt-Out of Non-PII Data Collection</h3><p><strong></strong></p><p>If you’d like to opt-out from having Inuvo collect your anonymous Non-PII information in connection with our Technology Platforms, click the link below. In doing so, Inuvo will place an opt-out cookie on your browser. The opt-out cookie means information will not be collected. If you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice. Please note that by clicking on the link below you will be immediately opted out.&nbsp;<a href="http://www.simpli.fi/partner_opt_out?turl=http://www.inuvo.com/opt-out"><strong>Click here to opt-out of Non-PII data collection.</strong></a></p><h3>Opt-Out or Update Your PII</h3><p><strong></strong></p><p>As an Account Holder across our websites, you will only receive email communications from Inuvo for business administration purposes, including website and platform service updates. Any promotional emails you may receive will have an opt-out option within the footer of the email. If you opt-out, you will be removed from the promotional email list, however, as an Account Holder, you will still receive any/all business administration emails applicable to your account. As an Account Holder, you can update your PII through most of our websites yourself by simply logging into your account and modifying your account profile.</p><p>If you have voluntarily submitted your PII via one of our websites through an information request form or contact us email, then you may be receiving promotional marketing communications from Inuvo.</p><p>At any time, you can unsubscribe directly from any of these communications by following the opt-out instructions included within the footer of the communication received.</p><p>Should you have any further questions about how to opt out or modify your information, please contact us at&nbsp;<a class="spamspan" href="mailto:privacy%40inuvo.com">privacy@inuvo.com</a>&nbsp;and we will process your request within a reasonable period of time after receipt. You can also contact us by mail by writing us at:</p><p><strong>Inuvo, Inc.<br>Attn: Marketing and Communications</strong></p><p><strong>1111 Main Street, Suite 201</strong></p><p><strong>Conway, AR 72032</strong></p><p><strong>501-205-8508</strong></p><p>Updated October 2013</p><p><strong></strong></p><p>&nbsp;</p><p>&nbsp;</p></div></div></div></div></div>
+            </div>
+            
+              
+                
+              
+            
+          </div>
+        </section>
+      
+    
+
+    <!--FOOTER WITH OPEN BLOCK FIELD-->
+    <footer id="footer">
+      <div class="back-to-top-link"><a href="#top"><span class="arrow"></span>Top</a></div>
+      <div class="footer-wrapper">
+        <div class="sqs-layout sqs-grid-12 columns-12" data-type="block-field" data-updated-on="1383148079869" id="footerBlocks"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-008a61b18fad6dab44ce"><div class="sqs-block-content"><span></span><p class="text-align-center"><span><span><span>© 2013 INUVO®</span></span></span><span>&nbsp;&nbsp;</span><span>• &nbsp;</span>&nbsp;<span>1111 MAIN STREET, SUITE 201&nbsp;&nbsp;• &nbsp;CONWAY, AR&nbsp;&nbsp;• &nbsp;72032</span>&nbsp;&nbsp;<span>• &nbsp;<a href="mailto:info@inuvo.com" target="_blank">INFO@INUVO.COM</a></span><span>&nbsp;&nbsp;</span><span>• &nbsp;</span><a href="/privacy-policy">PRIVACY POLICY</a>&nbsp;&nbsp;• &nbsp;<a href="/inuvo-terms-use">TERMS OF USE</a>&nbsp;&nbsp;<span style="letter-spacing: 0px; line-height: 1.6em; ">&nbsp;&nbsp;• &nbsp;<a href="/sitemap">SITE MAP</a></span></p><span style="letter-spacing: 0px; line-height: 1.6em;"><a href="/site-map"></a></span><span style="letter-spacing: 0px; line-height: 1.6em;"><a href="/site-map"></a></span></div></div></div></div></div>
+      </div>
+    </footer>
+
+    <!--INJECTION POINT FOR TRACKING SCRIPTS AND USER CONTENT FROM THE CODE INJECTION TAB-->
+
+    <script>(function() {var SQUARESPACE_SIZES=[1500,1E3,750,500,300,100],IMAGE_LOADING_CLASS="loading",ImageLoader=new function(){this.load=function(a,b){function c(a,b,c){var d=new Image;d.onload=b;d.onerror=c;d.src=a}a.getDOMNode&&(a=a.getDOMNode());var d=this._getDataFromNode(a,b),e=!(!d.dimensions||!d.dimensions.width||!d.dimensions.height),l=d.load+"";if("false"===l)return!1;var g=d.mode;if(e&&("fit"==g||"fill"==g)){g=a.parentNode;if(!g)return console.error("Not doing anything, parentNode not found."),!1;if(!this.refresh(a,
+b,g))return!1}var n=this._intendToLoad(a,d);if("string"==typeof n&&"viewport"!==l){var m=this.getUrl(n,d),d=a.getAttribute("data-image-resolution");a.getAttribute("src")!==m&&this.isValidResolution(n,d)&&(a.onload=function(){a.className=a.className.replace(IMAGE_LOADING_CLASS," ").trim();a.setAttribute("data-image-resolution",n)},!a.getAttribute("src")&&-1===a.className.indexOf(IMAGE_LOADING_CLASS)&&(a.className+=(a.className?" ":"")+IMAGE_LOADING_CLASS),!a.getAttribute("src")&&e?a.setAttribute("src",
+m):c(m,function(){e?a.setAttribute("src",m):(a.setAttribute("data-image-dimensions",this.width+"x"+this.height),ImageLoader.load(a,b))},function(){a.className=a.className.replace(IMAGE_LOADING_CLASS," ").trim();a.setAttribute("src",m)}));return!0}return n};this.refresh=function(a,b,c){a.getDOMNode&&(a=a.getDOMNode());c&&c.getDOMNode&&(c=c.getDOMNode());c=c||a.parentNode;if(!c)return console.error("Not doing anything, parentNode not found."),!1;var d=this._getDataFromNode(a,b),e=c.offsetWidth,l=c.offsetHeight;
+b=d.mode;if("none"!=b){var g=d.dimensions.width,n=d.dimensions.height,m=g/n,q=e/l;if(d.fixedRatio)"fill"==b&&q>m||"fit"==b&&q<m?(h=100,k=100*(q/m),r=(100-k)*d.focalPoint.y,p=0):(h=100*(m/q),k=100,r=0,p=(100-h)*d.focalPoint.x),a.style.top=r+"%",a.style.left=p+"%",a.style.width=h+"%",a.style.height=k+"%";else{var f;"fill"===b?f=m>q?l/n:e/g:"fit"===b&&(f=m<q?l/n:e/g);!d.stretch&&("fit"==b&&1<f)&&(f=1);var h=Math.ceil(g*f),k=Math.ceil(n*f);if(0===h||0===k)return!1;var p,r;"fill"===b?(p=Math.min(Math.max(e/
+2-h*d.focalPoint.x,e-h),0),r=Math.min(Math.max(l/2-k*d.focalPoint.y,l-k),0)):"fit"===b&&(f=d.fitAlignment,p=f.left?0:f.right?e-h:h<e?(e-h)/2:0,r=f.top?0:f.bottom?l-k:k<l?(l-k)/2:0,"inline"==this._getStyle(a,"display")&&(a.style.fontSize="0px"),this._resetAlt(a,function(){h-=a.offsetHeight-a.clientHeight;k-=a.offsetWidth-a.clientWidth}));a.style.top=Math.ceil(r)+"px";a.style.left=Math.ceil(p)+"px";a.style.width=Math.ceil(h)+"px";a.style.height=Math.ceil(k)+"px"}p=this._getStyle(c,"position");a.style.position=
+"relative"==p?"absolute":"relative";if("fill"==b&&(b=this._getStyle(c,"overflow"),!b||"hidden"!=b))c.style.overflow="hidden";return!0}};this._intendToLoad=function(a,b){function c(c,d){"none"===b.mode&&(a.style.width=null,a.style.height=null);var e=parseFloat(a.getAttribute(c)),f=parseFloat(e);if(!f||isNaN(f))e=g._getStyle(a,c),f=parseFloat(e);if(!f||isNaN(f))e=g._getStyle(a,"max-"+c,"max"+(c.substr(0,1).toUpperCase()+c.substr(1))),f=parseFloat(e);if(0===d||e)switch(g._stringType(e)){case "percentage":d=
+parseInt(e,10)/100*l["offset"+c.substr(0,1).toUpperCase()+c.substr(1)];break;case "number":d=parseInt(e,10)}!f&&(0!==d&&!a.getAttribute("src"))&&(d=0);return d}b=b||this._getDataFromNode(a);if(!b.source)return!1;var d=a.offsetWidth,e=a.offsetHeight,l=a.parentNode,g=this;this._resetAlt(a,function(){d=c("width",d);e=c("height",e)});0===d&&0===e?(d=b.dimensions.width,e=b.dimensions.height):0===d?d=this.getDimensionForValue("width",e,b):0===e&&(e=this.getDimensionForValue("height",d,b));"viewport"===
+b.load&&(a.style.width=Math.floor(d)+"px",a.style.height=Math.floor(e)+"px");return this.getSquarespaceSize(d,e,b)};this._getDataFromNode=function(a,b){b=b||{};var c={focalPoint:{x:0.5,y:0.5},dimensions:{width:null,height:null},mode:"none",fitAlignment:{center:!0},load:"true",stretch:!0,fixedRatio:!1};if(b.focalPoint)c.focalPoint=b.focalPoint;else{var d=a.getAttribute("data-image-focal-point");if(d&&(d=d.split(","))&&2==d.length)c.focalPoint={x:parseFloat(d[0]),y:parseFloat(d[1])}}if(b.dimensions)c.dimensions=
+b.dimensions;else if((d=a.getAttribute("data-image-dimensions"))&&(d=d.split("x"))&&2==d.length)c.dimensions={width:parseInt(d[0],10),height:parseInt(d[1],10)};b.mode?c.mode=b.mode:(d=a.parentNode.className,-1!==d.indexOf("content-fill")?c.mode="fill":-1!==d.indexOf("content-fit")&&(c.mode="fit"));if("fit"===c.mode&&(d=b.fitAlignment||a.getAttribute("data-alignment")||a.parentNode.getAttribute("data-alignment")))c.fitAlignment={top:-1!==d.indexOf("top"),left:-1!==d.indexOf("left"),center:-1!==d.indexOf("center"),
+right:-1!==d.indexOf("right"),bottom:-1!==d.indexOf("bottom")};if(b.load)c.load=b.load;else if(d=a.getAttribute("data-load"))c.load=d;if("undefined"!==typeof b.stretch)c.stretch=b.stretch;else if(d=a.getAttribute("data-image-stretch"))c.stretch="true"===d?!0:!1;c.source=b.source?b.source:a.getAttribute("data-src");if(c.source&&(-1!==c.source.indexOf("squarespace.com")||-1!==c.source.indexOf("squarespace.net"))&&"http:"===c.source.substr(0,5)&&"https"===window.location.protocol.substr(0,5))c.source=
+c.source.replace("http://","https://");if(b.fixedRatio)c.fixedRatio=b.fixedRatio;else if(d=a.getAttribute("data-fixed-ratio"))c.fixedRatio="true"==d;return c};this._stringType=function(a){return"string"===typeof a&&-1!==a.indexOf("%")?"percentage":isNaN(parseInt(a,10))?NaN:"number"};this._getStyle=function(a,b,c){var d;a.currentStyle?d=a.currentStyle[c||b]:window.getComputedStyle&&(d=document.defaultView.getComputedStyle(a,null).getPropertyValue(b));return d};this._isVisible=function(a){a=a.getBoundingClientRect();
+return 0<=a.left&&0<=a.top||0<=a.bottom&&0<=a.right||0<=a.left&&0<=a.bottom||0<=a.right&&0<=a.top};this.getSquarespaceSize=function(a,b,c){a=Math.max(b/(c.dimensions.height/c.dimensions.width),a);"number"==typeof window.devicePixelRatio&&(a*=window.devicePixelRatio);for(b=1;b<SQUARESPACE_SIZES.length&&!(a>SQUARESPACE_SIZES[b]);b++);return SQUARESPACE_SIZES[b-1]+"w"};this.getDimensionForValue=function(a,b,c){var d=c.dimensions.width;c=c.dimensions.height;return"width"==a?d/c*b:"height"==a?c/d*b:NaN};
+this.getUrl=function(a,b){var c=b.source;return a&&("/"==c[0]||-1!=c.indexOf("squarespace.com")||-1!=c.indexOf("squarespace.net"))?(-1===c.indexOf("format="+a)&&(c=c+(-1!==c.indexOf("?")?"&":"?")+"format="+a),window.Static&&(window.Static.IN_BACKEND&&-1===c.indexOf("storage=local"))&&(c+="&storage=local"),c):b.source};this.isValidResolution=function(a,b){a=parseInt(a,10);b=parseInt(b,10);return isNaN(a)||isNaN(b)?!0:a>b};this._resetAlt=function(a,b){var c=a.getAttribute("alt"),d=c&&0<c.length&&!a.getAttribute("src");
+if(d){var e=a.style.display;a.removeAttribute("alt");a.style.display="none";a.offsetHeight+0;a.style.display=e}b.call(this);d&&a.setAttribute("alt",c)}};window.ImageLoader=ImageLoader;var siteCSSHandle,loopHandle,imagesTimer=50;function ancestorHasClass(a,b){return"undefined"!==typeof a.className&&-1!==a.className.indexOf(b)?!0:a.parentNode?ancestorHasClass(a.parentNode,b):!1}
+var hasAttr=function(a,b){return a.hasAttribute?a.hasAttribute(b):!!a.attributes[b]},getAttr=function(a,b){return a.getAttribute?a.getAttribute(b):a.attributes[b]};function init(){var a=document.images;if(0<a.length)for(var b=0,c=a.length;b<c;b++)(hasAttr(a[b],"data-image")||hasAttr(a[b],"data-src"))&&"false"!==getAttr(a[b],"data-load")+""&&ImageLoader.load(a[b])}init();window.YUI&&YUI.add("squarespace-imageloader",function(a){});
+})();</script>
+<script>Squarespace.afterBodyLoad();</script>
+  </div>
+  </div>
+
+  
+    
+  
+
+ </body></html>
