@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobbuddy.ie privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203061127id_/http%3A//jobbuddy.ie/Pages/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobbuddy.ie privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402011534id_/http%3A//www.jobbuddy.ie/Pages/Privacy-Policy) for the most accurate reproduction.*
 
 # Irish Jobs | Ireland Jobs - Irish Jobs Privacy Policy
 
