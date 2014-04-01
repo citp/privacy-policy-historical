@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warehouse.co.uk privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512042837id_/https%3A//www.warehouse.co.uk/fcp/content/Privacy-Statement/content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warehouse.co.uk privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401153702id_/http%3A//www.warehouse.co.uk/fcp/content/Privacy-Statement/content) for the most accurate reproduction.*
 
 # Information - Privacy - Warehouse.co.uk
 
