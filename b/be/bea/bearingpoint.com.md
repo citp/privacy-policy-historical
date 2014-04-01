@@ -1,89 +1,98 @@
-> *The following text is extracted and transformed from the bearingpoint.com privacy policy that was archived on 2012-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121001095825id_/http%3A//www.bearingpoint.com/en-other/7-3275/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bearingpoint.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401122803id_/http%3A//www.bearingpoint.com/en-other/7633-3275/privacy-policy/%3Fcpssessionid%3DSID-004EA5F1-EFCBFF81) for the most accurate reproduction.*
 
-# BearingPoint - Privacy policy
+# Privacy Policy - BearingPoint
 
-## Privacy policy
+## Privacy and Cookie Policy
 
-BearingPoint’s privacy and data protection practices on the web. This notice describes the privacy and data protection practices for web sites of BearingPoint Inc and its affiliates (“BearingPoint”), such as the type of information gathered and tracked on bearingpoint.com and linked BearingPoint sites, how the information is used, and with whom the information is shared.
+This Privacy Statement sets out the data protection practices carried out through the use of the Internet and any other electronic communications networks by **BearingPoint Holding BV** and its associated companies (all together “ **BearingPoint** ”). If you have any requests concerning your personal information or any queries with regard to these practices please contact [contact@bearingpoint.com](mailto:contact@bearingpoint.com).
 
-**Links to Other Sites**
+#### 1\. Personal Information Collected
 
-This privacy statement applies only to information collected by a BearingPoint web site.
+1.1 BearingPoint collects personal information from you through the use of registration forms, for instance every time you sign up for an electronic newsletter, when you send us an application to be considered for employment, when you register for an event, when you submit a request for proposal or for information, when you request the authorization of downloading a document, when you enter an online competition or when you send us a message via an email reply mechanism provided on the BearingPoint sites.
 
-The BearingPoint web site contains links to other sites that are not owned or administered by BearingPoint. Please be aware that BearingPoint is not responsible for the privacy practices of such other third party sites. We encourage you to read the privacy statements of every web site you visit.
+#### 2\. Use of Personal Information
 
-**Active and Passive Collection**
+2.1 We process personal information collected via the BearingPoint sites for the purposes of:
 
-On our sites, we collect information in two ways: actively and passively. Active information collection refers to instances in which you voluntarily provide information to us, such as by completing a registration form, signing up for an electronic newsletter, or sending us a message via an e-mail reply mechanism provided by any of our sites. Passive information collection refers to instances in which we collect information from you that you have not actively provided.
-
-Generally, collected information can be in a personally identifiable form (“personal data” or “personally identifiable information”) as well as in a manner that does not allow you to be identified.
-
-**Collection and Use of the Personal Data You Provided To Us**
-
-You can visit most of our sites without disclosing your personally identifiable information and we do not collect personal data from you unless you may choose to voluntarily provide it to us. When a visitor chooses to provide personally identifiable information to BearingPoint, BearingPoint uses this information solely for the purposes for which it was provided as described at the time of collection. For example, you may choose to provide us with your name and postal or e-mail address to correspond with you or to provide you with the service or information you requested but we will not contact you for any unrelated reasons. If you give us personal information about somebody else, we assume that you have that person’s permission to do so.
-
-We generally retain personal data only for as long as necessary to achieve the purpose for which it was collected.
-
-**Personal data submitted online through our global careers portal**
-
-Personal data you submitted in connection with your application to be considered for employment is kept on file as long as the information is necessary to complete the employment application process, for as long as required by law, until the employment application is no longer under consideration, or until you request that such information be disposed of, whichever comes first. If the employment application process does not result in employment, BearingPoint may keep the application on file for future reference, unless the applicant requests it to be removed. By submitting personal data through the BearingPoint web site, the visitor is providing explicit consent to the cross-border transmission of this information.
-
-Please be advised that if you join BearingPoint, BearingPoint may share the information you provided to us during the recruitment process with third parties assisting BearingPoint in the administration and management of your employment relationship with BearingPoint such as a payroll management companies, pension plan companies, health insurance companies or agencies, credit card companies and other BearingPoint agents and services providers and that your personal data may be transferred globally to be processed. 
-
-If you have questions regarding your personal data in connection with our recruitment sites, please contact us and indicate that your inquiry relates to recruitment.
-
-BearingPoint does not generally seek to collect and discourages applicants and visitors of its sites to provide sensitive personal data. Sensitive personal data includes information such as information about a person’s private life, racial and ethnic origin, religious and philosophical beliefs, pregnancy and physical or mental disabilities. If you choose to provide such information, you explicitly consent that BearingPoint processes it as part of its ordinary recruitment process. Please note that BearingPoint may be required by local law to solicit certain personal information such as ethnicity or gender from applicants.
-
-**Information We Collect when You Access our Sites**
-
-When you access our sites, our servers automatically log information about your visits in the normal course of establishing and maintaining web connections. Server logs record statistical information, such as visitors' IP addresses, type of operating systems, time and duration of visit, web pages requested, and identify categories of visitors by items such as domains and browser types. These statistics are reported in aggregate form and are used to optimize the web experience for visitors. 
-
-This site uses Internet protocol (IP) addresses. IP addresses are unique identifiers automatically assigned to each computer when logging onto the Internet. IP addresses allow us to collect much of the same information we collect through cookies, including browser type, what pages you visit, and how long you stay on the Site. In general, IP addresses allow us to identify problems with our servers, prepare aggregate demographic information and other information regarding this use of this Site, and improve the functions of this site.
-
-We use “cookies” and other technologies to collect personally non-identifiable information from your visits to our website to enhance your overall site experience and for statistical purposes. A cookie is a block of data that a web server places on a user’s PC. Typically, it is used to ease navigation through the site. However, it is also a useful means of the website identifying the user, tracking the user’s path through the site, and identifying repeat visits to the site by the same user (or same user’s machine). This can then lead to a website owner being able to profile an individual user’s browsing habits - and all potentially done without the knowledge, or consent, of the user. 
-
-Most browsers can be set to prevent cookies being downloaded onto a PC. You can look into the “cookie” or “Temporary Internet” folder of your PC and see if you can identify a cookie placed by your site. Cookies often, but not always, contain site names. However, if you turn off the “cookies”, some websites may not work properly. 
-
-We employ a technique called data tagging to collect web site traffic information. Data tagging works by embedding tags on the website that transmit relevant data to a centralized data collection facility. The data tags are a small piece of JavaScript code that transmits page-specific information via query string parameters. We do not tie the information gathered by data tagging to our visitors’ personally identifiable information. 
-
-We generally do not link passively collected non-personally identifiable information with personal data you have actively provided elsewhere on any of our sites. We do not link server log information to any other data in a way that would enable us to identify individual visitors. However, we may review server logs for security purposes, for example, to detect threats to our IT system. Please be advised that it is possible for server log data containing IP addresses to be used in instances of suspected criminal activities to identify an individual. In such instances, raw data logs may be shared with authorized law enforcement agencies.
-
-**Global Transfer**
-
-BearingPoint has business operations and affiliates world-wide. When information is collected and processed over the Internet, it usually involves transferring data internationally. Given the international nature of the Internet and BearingPoint, personal data collected on our site may therefore be transferred and shared amongst BearingPoint affiliates globally. Some countries may provide for less legal protection of your personal data than your home jurisdiction. BearingPoint binds its global affiliates with contractual safeguards to a level deemed adequate under the EU Data Protection Directive in case of a data transfer from one of its EU affiliates. Our privacy practices as described here are designed to provide a globally consistent level of protection for your personal data. By browsing our site and communicating electronically with us you demonstrate your consent to the global transfer and processing of your personal data in accordance with our Privacy Statement.
-
-**Disclosure to Third Parties**
-
-BearingPoint does not share personal data provided by visitors of BearingPoint web sites with external third parties unless explicitly requested by the visitor. We sometime provide information to other companies that work on our behalf in order to help deliver publications or services as requested by a visitor or to facilitate the purpose for which the personal data was received. BearingPoint’s website is hosted on servers owned and operated by a third party. These third party agents are required to keep personal information confidential and are prohibited from using it for any unrelated purpose.
-
-BearingPoint does not use personal data collected from its websites to facilitate unsolicited marketing activities. 
-
-Please be aware that it is possible that personal data you provide to BearingPoint may be subject to disclosure under the law (e.g., pursuant to a statutory provision, a court order, or a subpoena) or in case BearingPoint needs to defend its rights.
-
-Access, Correction and Deletion of Personal Data   
-You have the right to reasonably access your personal data collected by BearingPoint and we will provide you with a possibility to verify that your personal data is accurate and up to date. You can request access, correction and deletion of your personal information by [contacting us here](mailto:contact%40bearingpoint.com). We will use reasonable efforts to accommodate your request. To update or delete your data or correct an inaccuracy, we may ask you to verify your identity.
-
-In case you chose to be on a mailing list for periodic email updates regarding BearingPoint services and events, you can [contact us here](mailto:contact%40bearingpoint.com) if you no longer want to receive such communications. We will make reasonably efforts to honor your choice and refrain from sending you such announcements in the future as soon as possible. 
-
-**Security of Your Personal Data**
-
-BearingPoint takes various organizational and technical steps to protect your personal data from unauthorized or unintended use or disclosure. However, you should note that no transfer of data over the internet is completely secure. While we use reasonable efforts to protect personal data under our control, when data is transferred over the Internet it may potentially be accessed and used by unauthorized parties. BearingPoint has no control over the performance or security of the Internet and does not warrant that any communication through the Internet is secure and is not liable for any damages resulting from a data breach due to any reason beyond BearingPoint’s reasonable control. 
-
-**Changes in this Privacy Statement and How to Contact Us**
-
-We may modify this privacy statement at any time, so please review it frequently. If we make material changes to our privacy practices, we will notify you here or by means of a notice on our home page.
-
-If you have questions regarding our web privacy practices and the protection of your personal data collected through our website, please [contact us here](mailto:contact%40bearingpoint.com).
-
-_Revised 10/2007_
-
-Quick Start
-
-  * [](https://web.archive.org/en-other/7-1564/bearingpoint-in-80-sec/)
-
-  * [](https://web.archive.org/en-other/7-2177/bearingpoint-spirit/)
-
-  * [](https://web.archive.org/en-other/7-526/we-are-where-you-are/)
+  * Providing our services
+  * Dealing with your enquiries and requests
+  * Recruitment
+  * Proposing/inviting access to BearingPoint’s social media accounts
+  * Providing you with information about products and services.
 
 
 
+#### 3\. Information We Gather Automatically and How We Use It
+
+3.1 When you visit one of the BearingPoint sites, we collect information automatically about those visits.
+
+3.2 In particular, your browser automatically sends us certain Internet-related information, such as the Internet Protocol (IP) address of the computer you are using.
+
+3.3 We also collect information through the use of cookies to better understand how visitors use the BearingPoint sites, to identify problems with our servers, prepare aggregate demographic information and other information regarding the use of the BearingPoint sites, and to improve the functions of the BearingPoint sites. Cookies do not collect any information that enables you to be identified as an individual.
+
+#### 4\. Use of Cookies
+
+4.1 Cookies are small text files that Web sites often store on computer hard drives of visitors to their sites. They are widely used in order to make Web sites work, or work more efficiently, as well as to provide information to the owners of the site.
+
+4.2 A cookie contains a unique number, which is used to recognize your computer when a user of your computer returns to a Web site that it visited previously. We use cookies to enhance the online experience of our visitors, for statistical purposes and to better understand how our sites are used. Cookies may tell us, for example, whether you have visited our sites before or whether you are a new visitor.
+
+4.3 There are two broad categories of cookies – ‘first party cookies’ and ‘third party cookies’. First party cookies are cookies that are served directly by the Web site operator to your computer, and are used only by the Web site operator to recognise your computer when it revisits that site. Third party cookies are served by a service provider on behalf of the Web site operator, and can be used by the service provider to recognise your computer when it visits other Web sites. Third party cookies are most commonly used for Web site analytics or advertising purposes.
+
+4.4 This Web site serves only the following first party cookies to your computer:
+
+**Cookie** | **Name** | **Purpose** | **More information**  
+---|---|---|---  
+Session cookies | JSESSIONID   
+bpsession  | These cookies are used to keep track of the session to know how many users are viewing the sites and to enable communication with the users’ Internet browsers. |   
+Preference cookies | country   
+locale | These cookies are used to hold information about the specific country site users are visiting and users’ language preference. |   
+Google Analytics | _utma   
+_utmb  
+_utmc  
+_utmz  
+_utmv | These cookies are set by Google, Inc. and are used to collect information about how visitors use our sites. We use this information to compile reports and to help us improve the sites. The cookies collect information in an anonymous form, including the number of visitors to the sites, where visitors have come to the sites from and the pages they visited. | To see an overview of privacy at Google and how this applies to Google Analytics, visit 
+
+<http://www.google.com/analytics/learn/privacy.html>.
+
+To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.  
+  
+4.5 Furthermore, when browsing the BearingPoint website you may get access to embedded media and other external sources which may store cookies. As cookies from externally embedded media may be used or modified without BearingPoint’s knowledge or consent, you are invited to consult the following links for further information.
+
+**Media** | **Link to their privacy statement**  
+---|---  
+AddThis | <http://www.addthis.com/privacy>  
+Eventbrite | <https://www.eventbrite.com/privacypolicy/>  
+FontDeck  | <http://blog.fontdeck.com/post/23997061678/cookies>  
+issuu | <http://issuu.com/about/privacy>  
+Twitter | <https://twitter.com/privacy>  
+YouTube | <http://www.google.com/policies/privacy/>  
+  
+4.6 You have the right to choose whether or not to accept cookies. You can exercise this right by amending or setting the controls on your browser to reflect your cookie preferences. However, please note that if you choose to refuse cookies you may not be able to use the full functionality of the BearingPoint sites.
+
+4.7 The "help" portion of the toolbar on most Internet browsers will tell you how to change your browser cookie settings, including how to have the browser notify you when you receive a new cookie, and how to disable cookies altogether. For further information about cookies and how to control their use, please visit the following third party educational resources: [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+
+#### 5\. Information We Share
+
+5.1 We will only disclose personal information to other companies within our group of companies, business partners, government bodies and law enforcement agencies, successors in title to our business and suppliers we engage to process data on our behalf. In these circumstances we will share your personal information for purposes such as our legitimate business purposes and to comply with legal obligations.
+
+#### 6\. Links to Other Sites
+
+6.1 This Privacy Statement applies only to information collected by a BearingPoint site.
+
+6.2 BearingPoint sites contain links to other sites that are not owned or administered by BearingPoint. Please be aware that BearingPoint is not responsible for the privacy practices of such other third party sites. We encourage you to read the privacy statements of every Web site you visit.
+
+#### 7\. Security
+
+7.1 We maintain safeguards to protect against unauthorized disclosure, use, alteration, or destruction of the personal information you provide to us through the BearingPoint sites. Please note, however, that perfect security does not exist on the Internet. Therefore, while we endeavour to protect your personal data, when data is transferred over the Internet it may potentially be accessed and used by unauthorised parties.
+
+#### 8\. Access rights
+
+8.1 You have a right to access the personal data BearingPoint holds about you. To obtain a copy of the personal information we hold about you, please email us at [contact@bearingpoint.com](mailto:contact@bearingpoint.com).
+
+#### 9\. Internet-based Transfers
+
+9.1 Given that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore, by browsing the BearingPoint sites and communicating electronically with us, you acknowledge our processing of personal data in this way. However, we will endeavour to protect all personal information collected through the BearingPoint sites in accordance with strict data protection standards.
+
+#### 10\. Updates to this Privacy Notice
+
+10.1 From time to time we may update this Privacy Statement. When we do so we will publish the changes on the BearingPoint sites. If you do not agree to these changes, please do not continue to use the BearingPoint sites. If material changes are made to this Privacy Statement, we will notify you by placing a prominent notice on the BearingPoint sites.
