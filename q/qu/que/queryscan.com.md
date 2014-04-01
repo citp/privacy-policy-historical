@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the queryscan.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027080518id_/http%3A//queryscan.com%3Ftmp%3Dnemo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the queryscan.com privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402015357id_/http%3A//queryscan.com%3Ftmp%3Dnemo_privacy) for the most accurate reproduction.*
 
 # QueryScan - Privacy Policy
 
