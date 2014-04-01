@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the finishdishwashing.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203145912id_/http%3A//www.rb.com/site/RKBR/Templates/General.aspx%3Fpageid%3D8%26cc%3DGB) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finishdishwashing.com privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402001855id_/http%3A//www.rb.com/site/RKBR/Templates/General.aspx%3Fpageid%3D8%26cc%3DGB) for the most accurate reproduction.*
 
-# Privacy policy - Reckitt Benckiser (RB)
+# Privacy policy - RB (Reckitt Benckiser)
 
 ## General
 
