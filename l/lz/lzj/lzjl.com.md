@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lzjl.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128063351id_/http%3A//paypopup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lzjl.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401122326id_/http%3A//www.paypopup.com/privacy.php) for the most accurate reproduction.*
 
 # Targeted Internet Advertising
 
   |  |   
 ---  
-| [Home](https://web.archive.org/web/20131128063351id_/http%3A//paypopup.com/index.php) | [Advertisers](https://web.archive.org/web/20131128063351id_/http%3A//paypopup.com/advertisers.php) | [Publishers](https://web.archive.org/web/20131128063351id_/http%3A//paypopup.com/webmasters_affiliate_program.php) | [Resellers](https://web.archive.org/web/20131128063351id_/http%3A//paypopup.com/traffic_resellers.php) | [Technology](https://web.archive.org/web/20131128063351id_/http%3A//paypopup.com/advertising_technology.php) | [Company](https://web.archive.org/web/20131128063351id_/http%3A//paypopup.com/company.php)  
+| [Home](https://web.archive.org/web/20140401122326id_/http%3A//www.paypopup.com/index.php) | [Advertisers](https://web.archive.org/web/20140401122326id_/http%3A//www.paypopup.com/advertisers.php) | [Publishers](https://web.archive.org/web/20140401122326id_/http%3A//www.paypopup.com/webmasters_affiliate_program.php) | [Resellers](https://web.archive.org/web/20140401122326id_/http%3A//www.paypopup.com/traffic_resellers.php) | [Technology](https://web.archive.org/web/20140401122326id_/http%3A//www.paypopup.com/advertising_technology.php) | [Company](https://web.archive.org/web/20140401122326id_/http%3A//www.paypopup.com/company.php)  
 ---|---|---|---|---|---  
 |  | 
 
