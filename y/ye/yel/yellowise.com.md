@@ -1,35 +1,111 @@
-> *The following text is extracted and transformed from the yellowise.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516030304id_/http%3A//www.yellowise.com/node/3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowise.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401030633id_/http%3A//inuvo.com/privacy-policy) for the most accurate reproduction.*
 
-# Yellowise.com Privacy Policy | Yellowise.com
+# PRIVACY POLICY — Inuvo Inc: Targeted Internet Marketing
 
-## Privacy Policy
+Inuvo®, Inc. takes consumer privacy seriously.  We are committed to following industry standards, best practices and guidelines relating to the use of consumer information and privacy.  Inuvo recognizes and complies with the self regulatory policies of the [Network Advertising Initiative (NAI).](http://www.networkadvertising.org/index.asp)  
 
-At Yellowise.com™, we are committed to protecting online user privacy. This "Privacy Policy" discloses the privacy practices governing our knowing collection, use, and disclosure of information. In order to ensure your privacy, information we collect is used only in the manner and for the purposes described below.
 
-Anonymous User Information: Yellowise.com collects some anonymous information each time you visit Yellowise.com so we can improve the overall quality of your online experience. We collect your IP address, referral data, and browser and platform type. You do not have to register with Yellowise.com before we can collect this anonymous information. We do not collect any unique information about you (such as your name, e-mail address, etc.) except when you specifically and knowingly provide such information. Yellowise.com does not require you to share information that identifies you personally, such as your name or email address, in order for you to use the Yellowise.com search. Yellowise.com assigns an anonymous ID number to your requests and links the following additional data to that number: the date and time you visited Yellowise.com, your search terms, and the links upon which you choose to click. Like most standard Web site servers, we use log files to collect and store this anonymous user information. We analyze this information to examine trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. Yellowise.com may present links in a format that enables us to understand whether they have been followed. We use this information to understand and improve the quality of the Yellowise.com search. 
+This privacy policy is intended to inform consumers about the way Inuvo uses and protects the information we collect about customers and users. Information is collected by Inuvo through our website [www.inuvo.com](http://www.inuvo.com/), through Inuvo-owned and operated websites, and across our various Technology Platforms. All use of Inuvo’s products and services, as well as visits to our websites, are subject to this privacy policy.
 
-Cookies: We use a feature of Internet web browsers called a "cookie," which is a small file that is sent to your computer when you visit a website. This enables us to store user preferences and track user trends and search patterns. We use cookies to improve the quality of the Yellowise.com services and to better understand how users interact with us. We do not and cannot use Cookies to retrieve individual personally identifiable information about you from your computer unless you knowingly and willingly provided such information. The cookie technology we use cannot obtain information from your hard drive or pass on a computer virus. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Yellowise.com features or services may not function properly without cookies. 
+### The Right to Change This Policy
 
-Information security: We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. We restrict access to your personally identifying information to employees who need to know that information in order to operate, develop or improve our services. 
+Inuvo reserves the right to modify this privacy statement at any time, so please review it frequently.
 
-Aggregated General Information: We may share aggregated general information about our site with our corporate partners or others. Examples of this include the number of users who searched for "Classic Cars", the daily number of unique visitors, or how many users clicked on a particular advertisement. Aggregated data does not contain any personally identifiable information that could be used to contact or identify you. Information sharing We may share personally identifying information to other companies or individuals in any of the following limited circumstances: 
+### Contact Us
 
-• We have your consent.   
-• We provide such information to trusted businesses or persons for the sole purpose of processing personally identifying information on our behalf. When this is done, it is subject to agreements that oblige those parties to process such information only on our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures.   
-• When required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a criminal investigation, a court order, or legal process served on our Web site. We may also share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yellowise.com's terms of use, or as otherwise required by law.   
-• If you have an account, we may share the information submitted under your account among all of our services in order to provide you with a seamless experience and to improve the quality of our services. We will not disclose your account information to other people or non-affiliated companies, except in the limited circumstances described in this Policy or with your consent.   
-• We may store and process personal information collected on our site in the United States or any other country in which Yellowise.com or its agents maintain facilities. By using our services, you consent to the transfer of your information among these facilities, including those located outside your country.   
-• Yellowise.com may use third party service providers to serve ads and emails on our behalf. These companies may use technologies to measure the effectiveness of ads and emails and use information about your visits to Yellowise.com so that we can provide a better search experience to you. For this purpose, we may also provide these third parties service providers anonymous information about your site navigation.   
-• We may share certain information about you with carefully selected business partners, including those who may offer services that complement those provided by us or which we believe may be of interest to you. We may also disclose information to third parties who assist us in providing our services to you. For example, we may engage third parties to make improvements on our site, to offer new products and to allow us to customize your experience on the Site. 
+If you have questions about our privacy policy, please contact us at [privacy@inuvo.com](mailto:privacy%40inuvo.com) or by mail at:
 
-Correspondence: If you contact Yellowise.com, we may keep a record of that correspondence and we may collect your email address. 
+Inuvo, Inc.  
+Attn: Marketing and Communications
 
-Third Party Information Gathering: Yellowise.com includes content and ads from third parties that may perform user activity tracking other than that described herein. These other sites may place their own cookies on your computer, collect data or solicit personal information. For more information about each third party content provider, cookies, and how to "opt-out", please refer to such third party advertiser's privacy policy Yellowise.com contains links to other sites on the Web. Please be aware that Yellowise.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+1111 Main Street, Suite 201
 
-Children's Privacy: Yellowise.com does not knowingly request or collect personally identifiable information online or offline contact information from users under 13 years of age nor do we knowingly use or share personal information from users under 13 years of age with third parties. 
+Conway, AR 72032
 
-Sale of Assets: In the event that another company acquires all or substantially all of the assets related to the business of Yellowise.com, we reserve the right to include any or all stored personal information among the assets transferred to the acquiring company. 
+501-205-8508 
 
-Paid Submissions: The Information that is gathered when submitting a URL to the SITENAME Directory is only used to contact the customer and will not be sold or otherwise transferred without their explicit permission. 
+## Information Collection and Use
 
-Changes to Privacy Policy: We reserve the right to amend or revise this privacy policy from time to time. We will post these changes to this page. Use of information that we gather now is subject to the privacy policy in effect at the time the information is used.
+We collect Personally Identifiable Information (“PII”) from Inuvo websites when you choose to provide it to us via an information request form or contact us email. PII is any information that can be used to identify or locate a particular person or entity. This includes, but is not limited to, name, postal address, telephone number, email address, gender, birth date and information about your interests in and use of various products, programs and services. For example, you may choose to send us PII about yourself in an email or by completing an online form on an Inuvo website. We use this information to contact you to respond to an inquiry, and in some instances, certain parts of our Inuvo websites require requested PII for you to participate in programs and services. Once collected, we will store your PII for a reasonable time for record-keeping purposes and promotional marketing efforts.
+
+Inuvo also collects PII on our websites when you sign up as an Account Holder. Account Holders include both Advertisers and Publishers who have been qualified and approved for access to an Inuvo product or service offering, or Consumers who have created an account to access one of our ecommerce websites. Account Holder information collected includes PII necessary to conduct business including, but not limited to, account holder name, phone number, email address, and/or tax ID number. Payments made to and/or from Inuvo require the provision of and specified collection of additional PII which may include, but is not limited to, bank account information and credit card numbers. Phone, facsimile, email and/or cell numbers may be used to contact Account Holders as needed.
+
+ All Account Holder information collected is maintained in a password-protected environment. This information is used for client/customer service, media delivery, contact, billing-payables and receivables and/or other reporting purposes. Account Holders may change, update or add additional information about themselves online through our various Inuvo web sites.
+
+We also collect Non-Personally Identifiable Information (Non-PII) via Inuvo websites and our various Technology Platforms. Non-PII cannot be used to contact any single person or entity and may include, but is not limited to, IP address, content viewed, ad interaction, interaction with other advertiser websites, browser type, Internet Service Provider, the time/date of your visit to the website, your computer’s operating system (e.g., Windows XP), search terms used and other click and browsing behavior.
+
+Inuvo uses Non-PII for internal purposes such as to administer our websites, improve and customize our websites, and to understand and analyze how our websites are being used for marketing purposes.
+
+### Cookies and Web Beacons
+
+We use cookies and web beacons to help manage our websites and analyze usage patterns. Cookies are small packets of data stored on a user’s computer that allow sites to recognize the computer when a user revisits a website. Cookies can be used to provide consumer services such as auto login, information delivery and a better understanding of how users interact with the site. These cookies enable sites to customize the site to a user’s needs and interests, so that they can be as valuable and relevant as possible.  
+
+
+Web beacons are small pieces of code placed on a web page to monitor the behavior of and collect data about the visitors viewing a web page. The use of a web beacon allows a website to record that someone has visited a particular webpage, along with additional Non-PII that the website may choose to include with the beacon.
+
+You are always free to decline cookies. You can configure your browser to accept all cookies, reject all cookies, erase cookies or notify you when a cookie is set. For more information about cookies and web beacons, visit <http://www.allaboutcookies.org/cookies/>.
+
+### Public Forums
+
+Inuvo websites make chat rooms, polls, surveys, forums, message boards, blogs commentary and/or news groups available to users. Please remember that any information that is disclosed in these areas becomes public information. You should exercise caution when deciding to disclose your PII through these channels.
+
+### Third-Party Websites
+
+Inuvo websites may contain links to other websites, including Advertiser offers for Publisher participation. Third parties may perform functions on our behalf, such as fulfilling orders, providing promotional materials to our users, sending email, managing data, processing credit card payments or providing customer service. They have access to your personal information only to the extent necessary to perform their functions and may not use it for any other purpose.
+
+Such websites may use cookies and/or other data collection tools. Inuvo is not responsible for the privacy practices, policies or content of such other websites. Inuvo encourages everyone to read the posted privacy policies whenever interacting with any website to learn more about the privacy practices of that website. Inuvo has no control over the use of information by third-party websites, and you should exercise caution when deciding to disclose any PII to those websites.
+
+## Information Security and Storage
+
+### Storage of PII
+
+##  ****
+
+All information collected via information request forms or contact us emails is only used to respond to that inquiry. Once collected, we will store your PII for a reasonable time for record-keeping purposes and promotional marketing efforts.
+
+All Account Holder information collected is maintained in a password-protected environment. This information is used for client/customer service, media delivery, contact, billing-payables and receivables and/or other reporting purposes.
+
+### Storage of Non-PII
+
+We maintain Non-PII collected by our technology for up to 180 days. This data includes, but is not limited to, IP address, content viewed, ad interaction, interaction with other advertiser websites, browser type, Internet Service Provider, the time/date of your visit to our websites, your computer’s operating system (e.g., Windows XP), search terms used and other click and browsing behavior.
+
+### Security
+
+Inuvo uses industry standard practices to safeguard the confidentiality of information and treats data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company.
+
+## Information Sharing and Disclosure
+
+We do not sell, rent or share PII collected on Inuvo websites with non-affiliated third parties without your consent.
+
+Inuvo may share Non-PII collected via our Technology Platforms with third-party service providers whom have contracted with third-party marketing partners, business partners and/or Inuvo clients, and as expressly provided for herein. Similarly, we may enhance the Non-PII collected via our Technology Platforms with Non-PII collected from third-party marketing partners, business partners and/or Inuvo clients. This information cannot be used to contact or identify any person individually.
+
+We may disclose information to third parties when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including but not limited to, fraud and situations involving potential threats to the physical safety of any person.
+
+Finally, we may transfer information, including any PII collected via Inuvo websites, to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change.
+
+## Inuvo Opt-Out
+
+### Opt-Out of Non-PII Data Collection
+
+If you’d like to opt-out from having Inuvo collect your anonymous Non-PII information in connection with our Technology Platforms, click the link below. In doing so, Inuvo will place an opt-out cookie on your browser. The opt-out cookie means information will not be collected. If you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice. Please note that by clicking on the link below you will be immediately opted out. [ **Click here to opt-out of Non-PII data collection.**](http://www.simpli.fi/partner_opt_out?turl=http://www.inuvo.com/opt-out)
+
+### Opt-Out or Update Your PII
+
+As an Account Holder across our websites, you will only receive email communications from Inuvo for business administration purposes, including website and platform service updates. Any promotional emails you may receive will have an opt-out option within the footer of the email. If you opt-out, you will be removed from the promotional email list, however, as an Account Holder, you will still receive any/all business administration emails applicable to your account. As an Account Holder, you can update your PII through most of our websites yourself by simply logging into your account and modifying your account profile.
+
+If you have voluntarily submitted your PII via one of our websites through an information request form or contact us email, then you may be receiving promotional marketing communications from Inuvo.
+
+At any time, you can unsubscribe directly from any of these communications by following the opt-out instructions included within the footer of the communication received.
+
+Should you have any further questions about how to opt out or modify your information, please contact us at [privacy@inuvo.com](mailto:privacy%40inuvo.com) and we will process your request within a reasonable period of time after receipt. You can also contact us by mail by writing us at:
+
+ **Inuvo, Inc.  
+Attn: Marketing and Communications**
+
+ **1111 Main Street, Suite 201**
+
+ **Conway, AR 72032**
+
+ **501-205-8508**
+
+Updated October 2013
