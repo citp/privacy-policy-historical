@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mj.am privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615035616id_/http%3A//www.mailjet.com/Privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mj.am privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401041807id_/https%3A//www.mailjet.com/s/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy policy - Mailjet
 
