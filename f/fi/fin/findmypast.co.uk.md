@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findmypast.co.uk privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014124754id_/http%3A//www.findmypast.co.uk/content/using-the-site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmypast.co.uk privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401071435id_/http%3A//www.findmypast.co.uk/content/using-the-site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Findmypast.co.uk
 
