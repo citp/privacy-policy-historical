@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pentair.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125231119id_/http%3A//www.pentair.com/privacy-statement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pentair.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401155115id_/http%3A//www.pentair.com/privacy-statement/index.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -105,9 +105,9 @@ You may review, update or correct your personal information by logging in and vi
 
 We cannot delete your personal information except by deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect. 
 
-If you delete your User Contributions from our e-communication source, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other users. Proper access and use of information provided by the Company, including User Contributions, is governed by our [terms of use](https://web.archive.org/web/20131125231119id_/http%3A//www.pentair.com/terms-of-use/index.html). 
+If you delete your User Contributions from our e-communication source, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other users. Proper access and use of information provided by the Company, including User Contributions, is governed by our [terms of use](https://web.archive.org/web/20140401155115id_/http%3A//www.pentair.com/terms-of-use/index.html). 
 
-Our e-communication is not intended for children under 13 years of age. No one under age 13 may provide any information to or on our e-communication source. We do not knowingly collect personal information from children under 13. If you believe we might have any information from or about a child under 13, please contact us by clicking [here](https://web.archive.org/web/20131125231119id_/http%3A//www.pentair.com/contact-us/index.html). 
+Our e-communication is not intended for children under 13 years of age. No one under age 13 may provide any information to or on our e-communication source. We do not knowingly collect personal information from children under 13. If you believe we might have any information from or about a child under 13, please contact us by clicking [here](https://web.archive.org/web/20140401155115id_/http%3A//www.pentair.com/contact-us/index.html). 
 
 ## DATA SECURITY
 
