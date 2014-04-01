@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the affiliatesonly.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809101038id_/http%3A//www.affiliatesonly.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatesonly.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401164112id_/http%3A//www.affiliatesonly.com/privacy.html) for the most accurate reproduction.*
 
-# affiliatesonly.com
+# Affiliates Only
 
-Privacy Policy 
+ 
+
+## Privacy Policy
 
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
