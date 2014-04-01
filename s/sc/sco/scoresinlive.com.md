@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoresinlive.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201124856id_/http%3A//www.scoresinlive.com/privacy.php%3Fl%3Ddefault) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoresinlive.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401085127id_/http%3A//www.scoresinlive.com/privacy.php%3Fl%3Ddefault) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -16,4 +16,4 @@ Change
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here or by means of a notice on our homepage. 
 
-If you have any questions about the Privacy Statement of ScoresinLive.com, please contact us using [this page](https://web.archive.org/web/20131201124856id_/http%3A//www.scoresinlive.com/feedback.php?l=default)
+If you have any questions about the Privacy Statement of ScoresinLive.com, please contact us using [this page](https://web.archive.org/web/20140401085127id_/http%3A//www.scoresinlive.com/feedback.php?l=default)
