@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the eversave.com privacy policy that was archived on 2013-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130510075033id_/http%3A//www.eversave.com/privacy-policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eversave.com privacy policy that was archived on 2014-04-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140401031752id_/http%3A//www.eversave.com/privacy-policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -25,12 +25,15 @@
  
  
  
+ 
+ 
  <script type="text/javascript" src="/javascript/jquery-1.3.2.min.js"></script>
+ <script type="text/javascript" src="/common/javascript/AjaxRequest.js"></script>
  <script type="text/javascript" src="/javascript/save.js"></script>
 
 <style type="text/css">
  .menuItem{
-    text-align: left;
+    text-align: center;
     background-color: #93b20f;
     float: left;
     height: 40px;
@@ -40,9 +43,10 @@
 .menuItemShare{
     text-align: center;
     background-color: #93b20f;
-    float: left;
+    float: right;
     height: 40px;
     vertical-align: middle;
+    padding-right: 10px;
 }
 </style>
 
@@ -121,136 +125,130 @@
            </div>
             END RIGHT SIDE BAR SPACER -->
        <div id="logo">
-         <a href="/index.jsp"><img style="width: 177px; height: 70px; border: 0;" src="http://images.eversave.com/Images/newsletter/298x118_EversaveLogo_020110.gif" alt="Eversave - Share the Save"></a>
+         <a href="/index.jsp"><img style="border: 0;" src="http://images.eversave.com/Images/newsletter/177x70_EversaveLogo_090413.gif" alt="Eversave - Share the Save"></a>
        </div>
-       
-       <div id="locLinkContainer" class="locationContainer">
-         <div id="locationText">
-           <div style="clear: both;" class="currentLocation">Online</div>
-           <div style="clear: both;" class="valignTextMiddle"></div>
-           <div style="vertical-align: middle; text-decoration: underline; color:#93B20F;">
-             <a href="javascript:showHideLocations();" class="header" style="color:#93B20F;"> view a different location</a>
-           </div>
-         </div>
-       </div>
-       
-
       <div id="locationTextOuterDiv">
-	  <div id="locationText">
+	<span class="valignTextMiddle"></span>
+	<span class="saveHdrSignin">
+	 <span class="valignTextMiddle">
+	  <div><a class="saveHdrSignin" href="/refer-a-friend.jsp">Refer friends, get $10</a></div>
 	  
-	    <div id="subscribeDivCopy">Get the daily Save in your inbox.
-		<span id="subscribeLink">
-		
-		 <a href="http://www.eversave.com/save-login-a.jsp?subscribeMktg=true&amp;event=signuppath&amp;version=headersubscribelink">Subscribe</a>
-		</span>
-	    </div>
-	    <div>
-	      <!--div style="float: left; font-weight: bold; padding-right: 10px; border-right: solid 1px #C1BFBA; font-size: 12px;">
-		<a href="/save-login.jsp?createNew=true&postAuthentPage=">Sign Up</a></div-->
-	      <div id="qa_signInFromHeader"><a href="/save-login.jsp?postAuthentPage=">Sign In</a>&nbsp;&nbsp;&nbsp;</div>
-	    </div>
 	  
-	</div>
-       </div>
-
-       <div id="pledgeContainer" style="vertical-align: middle; float: right; margin-top: 1px; width: 250px; position: relative;">
-       <div style="float: left;"><a class="nav" href="#" onclick="window.open('/eversave-pledge-details.jsp ','PP','width=650,height=615,scrollbars=yes,menubar=yes,toolbar=yes'); return false;" style="float: left; color:#ffffff;font-size:20px; font-weight:bold;text-decoration:underline;" target="_blank"><img alt="Eversave Pledge" style="width: 80px; height: 77px; border: 0;" src="http://images.eversave.com/Images/newsletter/95x92_EversavePledge.png"></a></div>
-       <div style="float: left; width: 150px; padding-top: 10px; text-align: left;"><a href="#" onclick="window.open('/eversave-pledge-details.jsp ','PP','width=650,height=615,scrollbars=yes,menubar=yes,toolbar=yes'); return false;" style="float: left; color: #A2842E; font-size:13px; line-height: 17px; font-weight:bold; text-decoration:none;" target="_blank">All Save purchases are covered by our <span style="text-decoration: underline;">Eversave Pledge</span></a></div>
-       </div>
+	    
+	      <div><a class="saveHdrSignin" href="/save-login.jsp?postAuthentPage=">Log in</a></div>
+	      <div><a class="saveHdrSignin" href="/save-login.jsp?postAuthentPage=&amp;createNew=true">Sign up</a></div>
+	    
+	  
+	  
+	 </span>
+	</span>
+      </div>
        <div class="clearBoth"></div>
      </div>
    </div>
    <!-- END LOGO AND LOCATION -->
    <!-- MENU BAR -->
-   <div class="menuContainer">
-     <div id="menuItemsContainer" class="wrapper menuItemWrapper">
-       
-       <div class="menuItem menuItemL menuItemFirst" style="width: 65px; padding-left: 15px; ">
-   <span class="valignTextMiddle"></span>
-   <span class="menuItemText">
-	   <span class="valignTextMiddle">
-             <a id="qa_todaysSaveLink" href="/online" class="nav">Today's<br>Save</a>
+
+  <div class="menuContainer">
+    <div id="menuItemsContainer" class="wrapper menuItemWrapper">
+
+      
+	<div class="menuItem menuItemL menuItemFirst " style="width: 95px;">
+	  <span class="valignTextMiddle"></span>
+	  <span class="menuItemText">
+	    <span class="valignTextMiddle">
+	      <a id="qa_todaysSaveLinkHdr" href="/online" class="nav">Daily Deals</a>
+	    </span>
 	  </span>
-   </span>
-       </div>
-       <div class="menuItem menuItemL" style="width: 63px; padding-left: 17px; ">
+	</div>
+
+	<div class="menuItem menuItemL " style="width: 95px;">
          <span class="valignTextMiddle"></span>
          <span class="menuItemText">
 	   <span class="valignTextMiddle">
-             <a id="qa_travelSavesLink" href="/ClickThru?where_to=1386734" class="nav">Travel<br>Saves</a>
+             <a href="/Welcome.jsp" class="nav">Coupons</a>
 	   </span>
          </span>
        </div>
-       <div class="menuItem menuItemL" style="width: 65px; padding-left: 15px; ">
+
+       <div class="menuItem menuItemL " style="width: 95px;">
          <span class="valignTextMiddle"></span>
          <span class="menuItemText">
 	   <span class="valignTextMiddle">
-             <a id="qa_recentSavesLink" href="/recent-saves.jsp" class="nav">Recent<br>Saves</a>
+             <a href="/PromotionsList.jsp" class="nav">Giveaways</a>
 	   </span>
          </span>
        </div>
-       <div class="menuItem menuItemL" style="width: 78px; padding-left: 8px; ">
-         <span class="valignTextMiddle"></span>
-         <span class="menuItemText">
-           <a id="qa_redirectGiftsLink" href="/shopping-save.jsp" class="nav">Shopping</a>
-         </span>
-       </div>
-       <div class="menuItem menuItemL" style="width: 110px;">
-         <span class="valignTextMiddle"></span>
-         <span id="qa_giftWrap" style="text-align: center; vertical-align: middle; display: inline-block;">
-            <a href="/ClickThru?where_to=1135581" target="_ss"><img style="display: inline-block; width: 24px; height: 24px; border: 0; padding-right: 5px;" src="http://images.eversave.com/Images/newsletter/26x26_ShoppingMainNavIcon_120211.png"></a>
-	     </span>
-         <span class="menuItemText">
-	   <span class="valignTextMiddle">
-             <a id="qa_redirectGiftsLink" href="/ClickThru?where_to=1135581" class="nav" target="_ss">Printable<br>Coupons</a>
-	   </span>
-         </span>
-       </div>
-       <div class="menuItem menuItemL" style="width: 110px;">
-         <span class="valignTextMiddle"></span>
-         <span id="qa_giftWrap" style="text-align: center; vertical-align: middle; display: inline-block;">
-            <a href="http://blog.eversave.com" target="_ss"><img style="display: inline-block; width: 24px; height: 24px; border: 0; padding-right: 5px;" src="http://images.eversave.com/Images/newsletter/26x26_ShoppingMainNavIcon_120211.png"></a>
-	     </span>
-         <span class="menuItemText">
-	   <span class="valignTextMiddle">
-             <a id="qa_redirectGiftsLink" href="http://blog.eversave.com" class="nav" target="_ss">Savings<br>Blog</a>
-	   </span>
-         </span>
-       </div>
-       <div class="menuItem menuItemL" style="width: 105px; padding-left: 15px; ">
+
+       <div class="menuItem menuItemL " style="width: 95px;">
          <span class="valignTextMiddle"></span>
          <span class="menuItemText">
 	   <span class="valignTextMiddle">
-             <a id="qa_referLink" href="/refer-a-friend.jsp" class="nav">Refer Friends,<br> Get $10</a>
+             <a href="/ClickThru?where_to=110541" class="nav">Recipes</a>
 	   </span>
          </span>
        </div>
-       <div class="menuItem menuItemL menuItemR" style=" width: 92px; padding-left: 13px; ">
-        <span class="valignTextMiddle"></span>
+
+       <div class="menuItem menuItemL " style="width: 130px;">
+         <span class="valignTextMiddle"></span>
          <span class="menuItemText">
-           <a id="qa_myAccountLink" href="/my-account.jsp" class="nav">My Account</a>
+	   <span class="valignTextMiddle">
+             <a href="/OfferCategories.jsp" class="nav">Offers &amp; Freebies</a>
+	   </span>
          </span>
        </div>
-       <div class="menuItemShare" style="width: 190px;">
+
+       <div class="menuItem menuItemL " style="width: 130px;">
+         <span class="valignTextMiddle"></span>
+         <span class="menuItemText">
+	   <span class="valignTextMiddle">
+             <a href="/blog.jsp" class="nav">Blog</a>
+	   </span>
+         </span>
+       </div>
+
+        <div class="menuItem menuItemL " style="width: 130px;">
+         <span class="valignTextMiddle"></span>
+         <span class="menuItemText">
+           <span class="valignTextMiddle">
+             <a href="/circulars.jsp" class="nav">Circulars</a>
+           </span>
+         </span>
+       </div>
+
+       <div class="menuItem menuItemL menuItemR " style="width: 95px;">
+         <span class="valignTextMiddle"></span>
+         <span class="menuItemText">
+	   <span class="valignTextMiddle">
+             <a href="/my-account.jsp" class="nav">My Account</a>
+	   </span>
+         </span>
+       </div>
+
+       <div class="menuItemShare">
 	 <span class="valignTextMiddle"></span>
 	 <span class="menuItemText">
 	   <span id="qa_fbFan" style="text-align: center; vertical-align: middle; display: inline-block;">
-             <a href="http://www.facebook.com/eversavedeals" target="_fb"><img style="display: inline-block; width: 24px; height: 24px; border: 0; padding-right: 5px;" src="http://images.eversave.com/Images/newsletter/24x24_FacebookIconNav_102111.gif"></a>
+             <a id="qa_fbFanLinkHdr" href="https://www.facebook.com/eversavedeals" target="_fb"><img style="display: inline-block; width: 24px; height: 24px; border: 0; padding-right: 5px;" src="http://images.eversave.com/Images/newsletter/24x24_FacebookIconNav_102111.gif"></a>
 	   </span>
 	   <span id="qa_twitterJoin" style="text-align: center; vertical-align: middle; display: inline-block;">
-             <a href="http://twitter.com/sharethesave" target="_tw"><img style="display: inline-block; width: 24px; height: 24px; border: 0; padding-right: 5px;" src="http://images.eversave.com/Images/newsletter/24x24_TwitterIconNav_102111.gif"></a>
-	   </span>
-	   <span class="valignTextMiddle">
-             <span style="font-size: 11px; color: #ffffff; font-weight: bold; line-height: 14px;">Follow us to<br>win free stuff</span>
+             <a id="qa_twitterJoinLinkHdr" href="https://twitter.com/Eversave" target="_tw"><img style="display: inline-block; width: 24px; height: 24px; border: 0; padding-right: 5px;" src="http://images.eversave.com/Images/newsletter/24x24_TwitterIconNav_102111.gif"></a>
 	   </span>
 	 </span>
        </div>
-
-
    
-       </div>
-       <div class="clearBoth"></div>
-     </div>
+    </div>
+    <div class="clearBoth"></div>
+  </div>
+
+<!-- SUB NAVBAR: DAILY DEALS -->
+
+
+<!-- SUB NAVBAR: COUPONS -->
+
+
+<!-- END SUB NAVBAR -->
+
    <!-- END MENU BAR -->
 
 
@@ -259,7 +257,6 @@
 
    <!-- MARKETING CENTER SUBSCRIPTIONS -->
    
-   <div style="background-color: #ffffff; width: 100%; height: 2px; margin: 0;"></div>
 
    
 
@@ -274,148 +271,473 @@
 <div id="modal"></div>
 <div id="locationsPopFull">
   <div id="locationsWrapClose"><div class="locationsCloseLeftFillerWh">&nbsp;</div><div class="locationsCloseLeftFiller">&nbsp;</div><div class="locationsClose" onclick="showHideLocations();"><img src="http://images.eversave.com/Images/newsletter/43x43_RoundCloseBttn_042911.png" width="43" height="43" alt="Close WIndow"></div></div>
-  <div id="locationsPopWrap">    
-    <div id="locationPopMain">
-      
-      <div id="locationsPopContents" style="padding-bottom: 195px;">
-        <h2>Locations</h2>
-      
-        <p>Eversave has daily saves in the following locations:</p> 
-        <ul>
-        
-	             			<li style="margin-left:0px"><a href="/albuquerque">Albuquerque</a></li>
-	           
-	             			<li style="margin-left:0px"><a href="/atlanta">Atlanta</a></li>
-	           
-	             			<li style="margin-left:0px"><a href="/austin">Austin</a></li>
-	           
-	             			<li style="margin-left:0px"><a href="/baltimore">Baltimore</a></li>
-	           
-	             			<li style="margin-left:0px"><a href="/birmingham">Birmingham</a></li>
-	           
-	             			<li style="margin-left:0px"><a href="/boston">Boston</a></li>
-	           
-	             			<li style="margin-left:0px"><a href="/brooklyn">Brooklyn</a></li>
-	           
-	             			<li style="margin-left:0px"><a href="/buffalo">Buffalo</a></li>
-	           
-	             			<li style="margin-left:0px"><a href="/charlotte">Charlotte</a></li>
-	           
-	             			<li style="margin-left:0px"><a href="/chicago">Chicago</a></li>
-	           
-	             			<li style="margin-left:0px"><a href="/cincinnati">Cincinnati</a></li>
-	           
-	             			<li style="margin-left:0px"><a href="/cleveland">Cleveland</a></li>
-	           
-	             			<li style="margin-left:0px"><a href="/columbus">Columbus</a></li>
-	           
-	             			<li style="margin-left:0px"><a href="/dallas">Dallas</a></li>
-	           
-	             			<li style="margin-left:0px"><a href="/denver">Denver</a></li>
-	           
-	             			<li style="margin-left:0px"><a href="/detroit">Detroit</a></li>
-	           
-	             			<li style="margin-left:0px"><a href="/fairfield-county">Fairfield County</a></li>
-	           
-	             			<li style="margin-left:0px"><a href="/fort-worth">Fort Worth</a></li>
-	           	
-	            			<li style="margin-left:160px; margin-top: -450px;"><a href="/fort-lauderdale">Ft Lauderdale</a></li>
-	            		
-	             			<li style="margin-left:160px"><a href="/fort-myers">Ft Myers</a></li>
-	           
-	             			<li style="margin-left:160px"><a href="/grand-rapids">Grand Rapids</a></li>
-	           
-	             			<li style="margin-left:160px"><a href="/greensboro">Greensboro</a></li>
-	           
-	             			<li style="margin-left:160px"><a href="/greenville">Greenville</a></li>
-	           
-	             			<li style="margin-left:160px"><a href="/harrisburg">Harrisburg</a></li>
-	           
-	             			<li style="margin-left:160px"><a href="/hartford">Hartford</a></li>
-	           
-	             			<li style="margin-left:160px"><a href="/houston">Houston</a></li>
-	           
-	             			<li style="margin-left:160px"><a href="/indianapolis">Indianapolis</a></li>
-	           
-	             			<li style="margin-left:160px"><a href="/jacksonville">Jacksonville</a></li>
-	           
-	             			<li style="margin-left:160px"><a href="/kansas-city">Kansas City</a></li>
-	           
-	             			<li style="margin-left:160px"><a href="/las-vegas">Las Vegas</a></li>
-	           
-	             			<li style="margin-left:160px"><a href="/long-island">Long Island</a></li>
-	           
-	             			<li style="margin-left:160px"><a href="/los-angeles">Los Angeles</a></li>
-	           
-	             			<li style="margin-left:160px"><a href="/louisville">Louisville</a></li>
-	           
-	             			<li style="margin-left:160px"><a href="/manhattan">Manhattan</a></li>
-	           
-	             			<li style="margin-left:160px"><a href="/memphis">Memphis</a></li>
-	           
-	             			<li style="margin-left:160px"><a href="/miami">Miami</a></li>
-	           	
-	            			<li style="margin-left:320px; margin-top: -450px;"><a href="/milwaukee">Milwaukee</a></li>
-	            		
-	             			<li style="margin-left:320px"><a href="/minneapolis">Minneapolis</a></li>
-	           
-	             			<li style="margin-left:320px"><a href="/nashville">Nashville</a></li>
-	           
-	             			<li style="margin-left:320px"><a href="/new-orleans">New Orleans</a></li>
-	           
-	             			<li style="margin-left:320px"><a href="/norfolk">Norfolk</a></li>
-	           
-	             			<li style="margin-left:320px"><a href="/north-jersey">North Jersey</a></li>
-	           
-	             			<li style="margin-left:320px"><a href="/oklahoma-city">Oklahoma City</a></li>
-	           
-	             			<li style="margin-left:320px"><a href="/orlando">Orlando</a></li>
-	           
-	             			<li style="margin-left:320px"><a href="/philadelphia">Philadelphia</a></li>
-	           
-	             			<li style="margin-left:320px"><a href="/phoenix">Phoenix</a></li>
-	           
-	             			<li style="margin-left:320px"><a href="/pittsburgh">Pittsburgh</a></li>
-	           
-	             			<li style="margin-left:320px"><a href="/portland">Portland</a></li>
-	           
-	             			<li style="margin-left:320px"><a href="/providence">Providence</a></li>
-	           
-	             			<li style="margin-left:320px"><a href="/queens">Queens</a></li>
-	           
-	             			<li style="margin-left:320px"><a href="/raleigh-durham">Raleigh &amp; Durham</a></li>
-	           
-	             			<li style="margin-left:320px"><a href="/sacramento">Sacramento</a></li>
-	           
-	             			<li style="margin-left:320px"><a href="/salt-lake-city">Salt Lake City</a></li>
-	           
-	             			<li style="margin-left:320px"><a href="/san-antonio">San Antonio</a></li>
-	           	
-	            			<li style="margin-left:480px; margin-top: -450px;"><a href="/san-diego">San Diego</a></li>
-	            		
-	             			<li style="margin-left:480px"><a href="/san-francisco">San Francisco</a></li>
-	           
-	             			<li style="margin-left:480px"><a href="/san-jose">San Jose</a></li>
-	           
-	             			<li style="margin-left:480px"><a href="/seattle">Seattle</a></li>
-	           
-	             			<li style="margin-left:480px"><a href="/stlouis">St. Louis</a></li>
-	           
-	             			<li style="margin-left:480px"><a href="/tampa">Tampa</a></li>
-	           
-	             			<li style="margin-left:480px"><a href="/washington-dc">Washington, DC</a></li>
-	           
-	             			<li style="margin-left:480px"><a href="/west-palm-beach">West Palm Beach</a></li>
-	           
-	             			<li style="margin-left:480px"><a href="/westchester-county">Westchester County</a></li>
-	           
-	             			<li style="margin-left:480px"><a href="/wilkes-barre">Wilkes-Barre</a></li>
-	           
-	             			<li style="margin-left:480px"><a href="/worcester">Worcester</a></li>
-	           
-        </ul>
-      </div>
-    </div>
+  <div id="locationsPopWrap">	
+	<div id="locationPopMain">
+	  
+	  <div id="locationsPopContents" style="padding-bottom: 195px;">
+		<h2>Locations</h2>
+	  
+		<p>Eversave has daily saves in the following locations:</p> 
+		<ul>
+			
+					<li style="margin-left:0px; ">
+					
+						<a href="#" onclick="changeLocation('albuquerque'); return false;">
+					
+					Albuquerque</a></li>
+				
+				
+					<li style="margin-left:0px; ">
+					
+						<a href="#" onclick="changeLocation('atlanta'); return false;">
+					
+					Atlanta</a></li>
+				
+				
+					<li style="margin-left:0px; ">
+					
+						<a href="#" onclick="changeLocation('austin'); return false;">
+					
+					Austin</a></li>
+				
+				
+					<li style="margin-left:0px; ">
+					
+						<a href="#" onclick="changeLocation('baltimore'); return false;">
+					
+					Baltimore</a></li>
+				
+				
+					<li style="margin-left:0px; ">
+					
+						<a href="#" onclick="changeLocation('birmingham'); return false;">
+					
+					Birmingham</a></li>
+				
+				
+					<li style="margin-left:0px; ">
+					
+						<a href="#" onclick="changeLocation('boston'); return false;">
+					
+					Boston</a></li>
+				
+				
+					<li style="margin-left:0px; ">
+					
+						<a href="#" onclick="changeLocation('brooklyn'); return false;">
+					
+					Brooklyn</a></li>
+				
+				
+					<li style="margin-left:0px; ">
+					
+						<a href="#" onclick="changeLocation('buffalo'); return false;">
+					
+					Buffalo</a></li>
+				
+				
+					<li style="margin-left:0px; ">
+					
+						<a href="#" onclick="changeLocation('charlotte'); return false;">
+					
+					Charlotte</a></li>
+				
+				
+					<li style="margin-left:0px; ">
+					
+						<a href="#" onclick="changeLocation('chicago'); return false;">
+					
+					Chicago</a></li>
+				
+				
+					<li style="margin-left:0px; ">
+					
+						<a href="#" onclick="changeLocation('cincinnati'); return false;">
+					
+					Cincinnati</a></li>
+				
+				
+					<li style="margin-left:0px; ">
+					
+						<a href="#" onclick="changeLocation('cleveland'); return false;">
+					
+					Cleveland</a></li>
+				
+				
+					<li style="margin-left:0px; ">
+					
+						<a href="#" onclick="changeLocation('columbus'); return false;">
+					
+					Columbus</a></li>
+				
+				
+					<li style="margin-left:0px; ">
+					
+						<a href="#" onclick="changeLocation('dallas'); return false;">
+					
+					Dallas</a></li>
+				
+				
+					<li style="margin-left:0px; ">
+					
+						<a href="#" onclick="changeLocation('denver'); return false;">
+					
+					Denver</a></li>
+				
+				
+					<li style="margin-left:0px; ">
+					
+						<a href="#" onclick="changeLocation('detroit'); return false;">
+					
+					Detroit</a></li>
+				
+				
+					<li style="margin-left:0px; ">
+					
+						<a href="#" onclick="changeLocation('fairfield-county'); return false;">
+					
+					Fairfield County</a></li>
+				
+				
+					<li style="margin-left:0px; ">
+					
+						<a href="#" onclick="changeLocation('fort-worth'); return false;">
+					
+					Fort Worth</a></li>
+				
+				
+					<li style="margin-left:160px; margin-top: -450px;">
+					
+						<a href="#" onclick="changeLocation('fort-lauderdale'); return false;">
+					
+					Ft Lauderdale</a></li>
+				
+				
+					<li style="margin-left:160px; ">
+					
+						<a href="#" onclick="changeLocation('fort-myers'); return false;">
+					
+					Ft Myers</a></li>
+				
+				
+					<li style="margin-left:160px; ">
+					
+						<a href="#" onclick="changeLocation('grand-rapids'); return false;">
+					
+					Grand Rapids</a></li>
+				
+				
+					<li style="margin-left:160px; ">
+					
+						<a href="#" onclick="changeLocation('greensboro'); return false;">
+					
+					Greensboro</a></li>
+				
+				
+					<li style="margin-left:160px; ">
+					
+						<a href="#" onclick="changeLocation('greenville'); return false;">
+					
+					Greenville</a></li>
+				
+				
+					<li style="margin-left:160px; ">
+					
+						<a href="#" onclick="changeLocation('harrisburg'); return false;">
+					
+					Harrisburg</a></li>
+				
+				
+					<li style="margin-left:160px; ">
+					
+						<a href="#" onclick="changeLocation('hartford'); return false;">
+					
+					Hartford</a></li>
+				
+				
+					<li style="margin-left:160px; ">
+					
+						<a href="#" onclick="changeLocation('houston'); return false;">
+					
+					Houston</a></li>
+				
+				
+					<li style="margin-left:160px; ">
+					
+						<a href="#" onclick="changeLocation('indianapolis'); return false;">
+					
+					Indianapolis</a></li>
+				
+				
+					<li style="margin-left:160px; ">
+					
+						<a href="#" onclick="changeLocation('jacksonville'); return false;">
+					
+					Jacksonville</a></li>
+				
+				
+					<li style="margin-left:160px; ">
+					
+						<a href="#" onclick="changeLocation('kansas-city'); return false;">
+					
+					Kansas City</a></li>
+				
+				
+					<li style="margin-left:160px; ">
+					
+						<a href="#" onclick="changeLocation('las-vegas'); return false;">
+					
+					Las Vegas</a></li>
+				
+				
+					<li style="margin-left:160px; ">
+					
+						<a href="#" onclick="changeLocation('long-island'); return false;">
+					
+					Long Island</a></li>
+				
+				
+					<li style="margin-left:160px; ">
+					
+						<a href="#" onclick="changeLocation('los-angeles'); return false;">
+					
+					Los Angeles</a></li>
+				
+				
+					<li style="margin-left:160px; ">
+					
+						<a href="#" onclick="changeLocation('louisville'); return false;">
+					
+					Louisville</a></li>
+				
+				
+					<li style="margin-left:160px; ">
+					
+						<a href="#" onclick="changeLocation('manhattan'); return false;">
+					
+					Manhattan</a></li>
+				
+				
+					<li style="margin-left:160px; ">
+					
+						<a href="#" onclick="changeLocation('memphis'); return false;">
+					
+					Memphis</a></li>
+				
+				
+					<li style="margin-left:160px; ">
+					
+						<a href="#" onclick="changeLocation('miami'); return false;">
+					
+					Miami</a></li>
+				
+				
+					<li style="margin-left:320px; margin-top: -450px;">
+					
+						<a href="#" onclick="changeLocation('milwaukee'); return false;">
+					
+					Milwaukee</a></li>
+				
+				
+					<li style="margin-left:320px; ">
+					
+						<a href="#" onclick="changeLocation('minneapolis'); return false;">
+					
+					Minneapolis</a></li>
+				
+				
+					<li style="margin-left:320px; ">
+					
+						<a href="#" onclick="changeLocation('nashville'); return false;">
+					
+					Nashville</a></li>
+				
+				
+					<li style="margin-left:320px; ">
+					
+						<a href="#" onclick="changeLocation('new-orleans'); return false;">
+					
+					New Orleans</a></li>
+				
+				
+					<li style="margin-left:320px; ">
+					
+						<a href="#" onclick="changeLocation('norfolk'); return false;">
+					
+					Norfolk</a></li>
+				
+				
+					<li style="margin-left:320px; ">
+					
+						<a href="#" onclick="changeLocation('north-jersey'); return false;">
+					
+					North Jersey</a></li>
+				
+				
+					<li style="margin-left:320px; ">
+					
+						<a href="#" onclick="changeLocation('oklahoma-city'); return false;">
+					
+					Oklahoma City</a></li>
+				
+				
+					<li style="margin-left:320px; ">
+					
+						<a href="#" onclick="changeLocation('orlando'); return false;">
+					
+					Orlando</a></li>
+				
+				
+					<li style="margin-left:320px; ">
+					
+						<a href="#" onclick="changeLocation('philadelphia'); return false;">
+					
+					Philadelphia</a></li>
+				
+				
+					<li style="margin-left:320px; ">
+					
+						<a href="#" onclick="changeLocation('phoenix'); return false;">
+					
+					Phoenix</a></li>
+				
+				
+					<li style="margin-left:320px; ">
+					
+						<a href="#" onclick="changeLocation('pittsburgh'); return false;">
+					
+					Pittsburgh</a></li>
+				
+				
+					<li style="margin-left:320px; ">
+					
+						<a href="#" onclick="changeLocation('portland'); return false;">
+					
+					Portland</a></li>
+				
+				
+					<li style="margin-left:320px; ">
+					
+						<a href="#" onclick="changeLocation('providence'); return false;">
+					
+					Providence</a></li>
+				
+				
+					<li style="margin-left:320px; ">
+					
+						<a href="#" onclick="changeLocation('queens'); return false;">
+					
+					Queens</a></li>
+				
+				
+					<li style="margin-left:320px; ">
+					
+						<a href="#" onclick="changeLocation('raleigh-durham'); return false;">
+					
+					Raleigh &amp; Durham</a></li>
+				
+				
+					<li style="margin-left:320px; ">
+					
+						<a href="#" onclick="changeLocation('sacramento'); return false;">
+					
+					Sacramento</a></li>
+				
+				
+					<li style="margin-left:320px; ">
+					
+						<a href="#" onclick="changeLocation('salt-lake-city'); return false;">
+					
+					Salt Lake City</a></li>
+				
+				
+					<li style="margin-left:320px; ">
+					
+						<a href="#" onclick="changeLocation('san-antonio'); return false;">
+					
+					San Antonio</a></li>
+				
+				
+					<li style="margin-left:480px; margin-top: -450px;">
+					
+						<a href="#" onclick="changeLocation('san-diego'); return false;">
+					
+					San Diego</a></li>
+				
+				
+					<li style="margin-left:480px; ">
+					
+						<a href="#" onclick="changeLocation('san-francisco'); return false;">
+					
+					San Francisco</a></li>
+				
+				
+					<li style="margin-left:480px; ">
+					
+						<a href="#" onclick="changeLocation('san-jose'); return false;">
+					
+					San Jose</a></li>
+				
+				
+					<li style="margin-left:480px; ">
+					
+						<a href="#" onclick="changeLocation('seattle'); return false;">
+					
+					Seattle</a></li>
+				
+				
+					<li style="margin-left:480px; ">
+					
+						<a href="#" onclick="changeLocation('stlouis'); return false;">
+					
+					St. Louis</a></li>
+				
+				
+					<li style="margin-left:480px; ">
+					
+						<a href="#" onclick="changeLocation('tampa'); return false;">
+					
+					Tampa</a></li>
+				
+				
+					<li style="margin-left:480px; ">
+					
+						<a href="#" onclick="changeLocation('washington-dc'); return false;">
+					
+					Washington, DC</a></li>
+				
+				
+					<li style="margin-left:480px; ">
+					
+						<a href="#" onclick="changeLocation('west-palm-beach'); return false;">
+					
+					West Palm Beach</a></li>
+				
+				
+					<li style="margin-left:480px; ">
+					
+						<a href="#" onclick="changeLocation('westchester-county'); return false;">
+					
+					Westchester County</a></li>
+				
+				
+					<li style="margin-left:480px; ">
+					
+						<a href="#" onclick="changeLocation('wilkes-barre'); return false;">
+					
+					Wilkes-Barre</a></li>
+				
+				
+					<li style="margin-left:480px; ">
+					
+						<a href="#" onclick="changeLocation('worcester'); return false;">
+					
+					Worcester</a></li>
+				
+			
+		</ul>
+	  </div>
+	</div>
   </div>
 </div>
 
@@ -534,123 +856,176 @@
         <div class="mainContent mainContentLg beigeBack">
           <div class="content contentLg">
           <div>
-            <h2>Privacy Policy</h2>
-            
-            <br>
-            <br>
+<h2>Eversave Privacy Policy</h2>
+<br>
+<br>
 
-<p>Below you'll find all kinds of Privacy Policy information that lawyers want you to know. &nbsp;Take a look, and if there's something you don't understand, please don't hesitate to email us via <a href="http://www.eversave.com/contact-request.jsp?cc=1">this link.</a></p>
+<p>This is the Eversave privacy policy (the "Privacy Policy"), which discloses the privacy practices for the Eversave service (the "Service") and the Service's website, Eversave.com (the "Site"). The Privacy Policy may be amended from time to time in accordance with Section 12 below. The Service and Site are owned and operated by Prospectiv Direct, Inc.  with offices at 40 Harvard Mills Square, Suite 1, Wakefield, MA  01880.</p>
 
-<p>This is an updated Privacy Policy. This new Privacy Policy applies to all users who were notified about this updated Privacy Policy in accordance with the old privacy policy and new users who register on our site on or after the Effective Date. If you do not agree to our practices, please do not register, subscribe, create an account, purchase a Save, or otherwise interact with us at www.eversave.com (or the mobile and touch versions), and any individual, business partner-specific, merchant-specific, city-specific, or other area-specific sites we offer.</p>
+<p>If you have any questions about this Privacy Policy, please don't hesitate to email us via <a href="http://www.eversave.com/contact-request.jsp?cc=1">this link.</a></p>
 
-<p><b>Effective Date: March 22, 2012</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/privacy-policy1.jsp">Click here to view the previous Privacy Policy.</a></p>
-&nbsp;
-<p>This Eversave.com privacy policy (the "Privacy Policy") is intended to inform you of our policies and practices regarding the collection, use and disclosure of any information you submit to us through www.eversave.com (“Eversave.com”). This includes "Personal Information," which is information about you that is personally identifiable such as your name, e-mail address, mailing address, telephone number, date of birth, billing information, unique referring url and other non-public information that is associated with you, as well as "Anonymous Information," which is information that is not associated with or linked to your Personal Information and does not permit the identification of individual persons. This is an updated Privacy Policy.</p>
+<p>1. Purpose of this Privacy Policy</p>
 
-<p><b>Regarding Children</b><br>
-Children under the age of 13 are not permitted to use Eversave.com and we do not intentionally collect or maintain Personal Information from those who are under 13 years old. Protecting the privacy of children is very important to us. Thus, if we obtain actual knowledge that a user is under 13, we will take steps to remove that user's Personal Information permanently from our databases, unless we are legally required to obtain such information. We recommend that children between the ages of 13 and 18 obtain their parent’s permission before submitting information over the internet. By using Eversave.com, you are representing that you are at least 18 years old, or that you are at least 13 years old and have a parent’s or guardian’s permission to use Eversave.com.</p>
-&nbsp;
-<p><b>Collection of Information</b></p>
-&nbsp;
-<p><b>Personal Information that You Provide</b><br>
-“Personal Information” includes information that alone or when in combination with other information may be used to readily identify, contact, or locate you (e.g., your full name, address, telephone number, email address, and location).</p>
+<p>This Privacy Policy has been created to demonstrate our firm commitment to our visitors' and users' privacy. The following discloses our information gathering, use, safekeeping and disclosure practices for the Service and the Site. Effective date: This Privacy Policy was last updated on June 26, 2013.
+<br><br>
+This Privacy Policy is incorporated into, and forms part of, the Terms and Conditions which govern your use of the Site and the Service.</p>
 
-<p>We collect Personal Information that you submit to us voluntarily through Eversave.com. We also collect Personal Information that you submit in the process of creating or editing your account and user profile on Eversave.com. For example, our registration and login process requires you to provide us with a valid email address and your zip code. You may also elect to provide us your name and mobile number at that time. In addition, when you link your account to our loyalty program, we collect information about your transactions and redemptions at participating merchants.</p>
+<p>2. What Information We Collect and How it is Collected</p>
 
-<p>When you personalize your profile and use the features of Eversave.com, we will collect any information you voluntarily provide, and we may also request optional information to support your use of Eversave.com, such as your year of birth, gender, mailing address, the age of your children and their gender, home phone number, a password of your choice and other demographic information.</p>
+<p><b><i>Use of Eversave Service</i></b>
+<br><br>
+As a user of the Service, you will be asked to provide certain personally identifiable information ("Personal Information") about yourself to complete an online registration form(s), such as name, email address, mailing address and/or date of birth depending on how you use the Service.</p>
 
-<p>We may also collect information, personal or otherwise, you voluntarily provide during your use of Eversave.com. in the form of the content that you submit, such as photos, reviews, ratings, postings, comments, testimonials and other information you choose to submit within the Eversave.com community.</p>
+<p>When you personalize your profile and use the features of the Site, we will collect any information you voluntarily provide, and we may also request optional information to support your use of the Site, such as your year of birth, gender, mailing address, the age of your children and their gender, home phone number, a password of your choice and other demographic information.</p>
 
-<p>We may also collect information about you and your friends who use Eversave.com, including from any social network or other site you may have connected from, in order to provide you with a more personalized experience. For instance, we may collect your user ID or profile information that you have permitted to be displayed through Eversave.com in order to display you as a friend or in association with your profile and collections.</p>
+<p>We may also collect information, personal or otherwise, you voluntarily provide during your use of the Site, including, photos, reviews, ratings, postings, comments, and testimonials. We may also collect information about you from any social network or other site you may have connected from, in order to provide you with a more personalized experience.</p>
 
-<p>When you purchase a Save, you will need to submit your credit or debit card number, expiration date, authentication codes or other payment information so that our service providers can process your payment for the Save and is retained by us to expedite your purchase of future Saves.  Your card information is also used in connection with our loyalty program, if you participate, so that you can take advantage of offers made available in the program.  This information is not used for other purposes.</p>
+<p>When you purchase a voucher that will enable you to buy goods and services from an offer Merchant, which we refer to as “Saves”, you will need to submit your credit or debit card number, expiration date, authentication codes or other payment information so that our service providers can process your payment for the Save such information is also retained by us to expedite your purchase of future Saves. Your card information is also used in connection with our loyalty program, if you participate, so that you can take advantage of offers made available in the program. This information is not used for other purposes except as expressly authorized by you.</p>
 
-<p>When you sign up for, or win, any contests, sweepstakes, or other activities that we make available on Eversave.com or via third parties\vendors, Facebook or other platforms, we will collect the information designated along with such activity, which may include your contact information such as your address and mobile or telephone number.</p>
+<p>When you sign up for, or win, any contests, sweepstakes, or other activities that we make available on the Site or via third parties, Facebook or other platforms, we will collect the information provided by you in connection with such activity, which may include your contact information such as your address and mobile or telephone number.</p>
 
 <p>If you choose to sign up to receive information about products or services that may be of interest to you, we will collect your email address and other related information.</p>
+
+<p>If you are not currently registered as an Eversave.com user and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join Eversave.com. You can edit your Facebook privacy settings for Facebook or disconnect this service by visiting the Facebook Application Settings page. If you choose to use our referral service or buy a Save for a friend, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email with the gift you bought for him/her or inviting your friend to visit the Site. The Site stores this information for the sole purpose of sending this one-time email, sending the gift, and tracking the success of our referral program. Your friend may contact us via <a href="http://www.eversave.com/contact-request.jsp?cc=1">this link</a> to request that we remove this information from our database.</p>
+
+<p>In addition, we may receive other information about you from the merchants in our network with whom you visit or transact. They may provide information such as purchase transaction(s), items ordered, order number and date and time of purchase, which is linked to your Personal Information. In addition, we may maintain this information in an anonymous, aggregate manner for purposes of enhancing users' experience on the Site or to determine which merchant sites are most frequently visited by our users. We handle Personal Information and all such other information in accordance with this Privacy Policy.</p>
+
+<p>If you send an e-mail to us or fill out our "Feedback" form through Eversave.com, we will collect your e-mail address and the full content of your e-mail, including attached files, and other information you provide.</p>
  
-<p>If you are a merchant that is interested in participating in Eversave.com, we will collect your Personal Information when you complete our contact sheet, which information we will store in our database.</p>
-&nbsp;
-<p>If you are not currently registered as an Eversave.com user and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join Eversave.com. You can edit your Facebook privacy settings for Facebook or disconnect this service by visiting the Facebook Application Settings page.&nbsp; If you choose to use our referral service or buy a Save for a friend, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email with the gift you bought for them or inviting him or her to visit the site. Eversave.com stores this information for the sole purpose of sending this one-time email, sending the gift, and tracking the success of our referral program. Your friend may contact us via <a href="http://www.eversave.com/contact-request.jsp?cc=1">this link.</a> to request that we remove this information from our database.</p>
-&nbsp;
-<p><b>Personal Information from Other Sources</b><br>
-We may receive Personal Information about you from other sources with which you have registered, companies who we have partnered with (collectively, "Partners") or other third parties, including billing processors. We may associate this information with the other Personal Information we have collected about you.</p>
-&nbsp;
-<p><b>E-mail and E-mail Addresses</b><br>
-If you send an e-mail to us or fill out our "Feedback" form  through Eversave.com, we will collect your e-mail address and the full content of your e-mail, including attached files, and other information you provide. We may use and display your full name and email address when you send an email notification to a friend through Eversave.com or the social network from which you have connected to Eversave.com (such as in an invitation, or when sharing your content). Additionally, we use your email address to contact you on behalf of your friends (such as when someone sends you a personal message) or notifications from a social network or other website with whom you have registered to receive such notifications. We may use this e-mail address to contact you, for things such as notifications of sales, promotions and other related information. You may indicate your preference to stop receiving further promotional communications as further detailed below.</p>
-&nbsp;
-<p><b>Information Collected Via Technology</b><br>
-As you use Eversave.com, certain information may also be passively collected and stored on our or our service providers’ server logs, including your Internet protocol address, browser type, and operating system, and when you use our mobile sites and apps, certain information including your geographic location, phone information and operating system.</p>
+<p><b><i>Surveys</i></b></p>
 
-<p>We also use Cookies and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit and the solutions and information for which you searched and viewed, or on which of the advertisements displayed on Eversave.com you clicked. This type of information is collected to make Eversave.com more useful to you and to tailor the experience with Eversave.com to meet your special interests and needs.</p>
+<p>From time-to-time we may provide you the opportunity to participate in contests or surveys on the Site. If you participate, we will request certain information from you. Participation in these surveys or contests is voluntary. The requested information typically includes certain Personal Information (such as name, email and/or mailing address). We may use this information to publish contest winners, to monitor Site traffic or personalize the Site, and/or to send participants an email newsletter. We may use a third party service provider to conduct these surveys or contests; however, that company will be prohibited from using your Personal Information for any other purpose.</p>
 
-<p>We also engage in remarketing to market our sites across the web. When a user visits our site, a cookie is dropped on the user. Users with this cookie may be targeted across advertising networks to receive relevant advertisements, including from us. You may opt out of this behavioral ad serving using the Network Advertising Initiative (NAI) opt-out page (http://www.networkadvertising.org/managing/opt_out.asp).</p>
-&nbsp;
-<p>An "Internet protocol address" or "IP Address" is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP Address stays the same from browser session to browser session; but if you use a consumer internet access provider, your IP Address probably varies from session to session. For example, we, or our service providers, may track your IP Address when you access Eversave.com to assist with ad targeting.</p>
-&nbsp;
-<p>"Cookies" are small pieces of information that a website sends to your computer’s hard drive while you are viewing a website. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience with Eversave.com. Persistent Cookies can be removed by following your Internet browser help file directions. In order to use our services offered through Eversave.com, your web browser must accept Cookies. If you choose to disable Cookies, some aspects of Eversave.com may not work properly, and you may not be able to receive our services.</p>
+<p><b><i>Refer-a-Friend</i></b></p>
 
-<p>We may also enable advertisers and ad servers to promote third-party products and/or services by placing advertisements on Eversave.com. These advertisers and ad servers may use Cookies and/or "Web Beacons" (which are usually small, transparent graphic images) in order to monitor information related to served advertisements. Clicking on such advertisements will direct you to the website of a third-party and the advertiser. This Privacy Policy does not cover the privacy practices of any advertisers or ad servers.</p>
+<p>We may offer a referral service (called Refer-A-Friend) that will allow you to potentially earn rewards if you provide the Service with specific Personal Information (generally name and email address) of your friends and other contacts and they register and use the Site. The Service will then forward certain marketing communications and/or emails to those individuals and monitor if they utilize the Service or Site. We will not use these invitee email addresses for any other purpose.</p>
 
-&nbsp;
-<p><b>Use and Disclosure of Information</b><br>
-In general, Personal Information you submit to us is used by us to provide you access to Eversave.com, to improve Eversave.com, to better tailor the features, performance, and support of Eversave.com and to offer you additional information, opportunities, promotions and functionality from us, our partners or our advertisers. Additionally, we do share your content preferences and other information with the social network with which you have connected to Eversave.com, along with those companies and persons you have asked or allowed us to share your information with.</p>
-&nbsp;
-<p>We may provide your Personal Information to merchants and third-party service providers who work on behalf of or with us to provide some of the services and features of Eversave.com, including our loyalty program, and to help us and them communicate with you.</p>
-&nbsp;
-<p>Examples of such services include sending email, analyzing data, providing marketing assistance, service and administer loyalty programs, processing payments (including credit card payments), providing customer service and running and implementing contests, sweepstakes and other similar activities. We require our third-party service providers to promise not to use such information except as necessary to provide the relevant services to us.</p>
-&nbsp;
-<p>We may share some or all of your Personal Information with third party partners who contribute prizes, sponsor or participate in our contests, sweepstakes and similar activities. We may share some or all of your Personal Information (other than credit or debit card information) with Merchants whose Saves you have purchased for their commercial purposes and to provide the Save as well as so they can track your redemption activity and provide customer support . If you do not want us to use or disclose Personal Information collected about you in the manner identified in this Privacy Policy, you should not use&nbsp;Eversave.com.</p>
+<p><b><i>Cookies and Logfiles</i></b></p>
 
-<p>Additionally, we may create Anonymous Information records from Personal Information by excluding information (such as your name) that would otherwise make the Anonymous Information personally identifiable to you. Generally, we aggregate this information and use it in statistical analysis to help us analyze patterns in the use of Eversave.com. This Privacy Policy does not limit our use or disclosure of any Anonymous Information in any way, and we reserve the right to use and disclose Anonymous Information to our partners, advertisers and other third parties in our discretion.</p>
+<p>Like many websites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp and clickstream data. We use this information to analyze trends, to administer the Site, to track users' movements around the Site and to gather information about our user base as a whole. After collection, during our processing of the data, we link this automatically-collected data to the Personal Information that we hold.</p>
 
-<p>We may share some or all of your Personal Information with Eversave.com affiliated companies that are under a common control, in which case we will require them to honor this Privacy Policy.  We may also share some or all of your Personal Information with unaffiliated companies, such as merchants, for their own marketing and other purposes, but only if you consent to our doing so.   We will seek your consent in those instances where we want to share your information with unaffiliated companies for their marketing purposes.</p>
+<p>A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use session and persistent cookies on the Site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file.</p>
 
-<p>In the event we go through a business transition such as a merger, acquisition by another company, or sale of all or a portion of our assets, your Personal Information may be among the assets transferred. You acknowledge that such transfers may occur and are permitted by this Privacy Policy, and that any acquirer of ours or that acquirer’s assets may continue to process your Personal Information as set forth in this Privacy Policy. Your Personal Information will remain subject to this Privacy Policy unless and until changed in accordance with its terms.</p>
-&nbsp;
+<p>We may use persistent cookies to (a) store your sign-in information so that you do not have to enter it more than once per visit to use our Site, (b) to deliver content consistent with your interests and manner in which you interact with our Site, (c) customize your Site experience, and (d) for other purposes to enhance and streamline your Site visit. If you reject persistent or session cookies, you may still use our Site, but your ability to utilize some areas and benefits of the Site, such as the cash back rewards, contests and surveys, will be limited. You may learn about how to remove persistent and/or session cookies by visiting the Interactive Advertising Bureau's website, allaboutcookies.org.</p>
+
+<p><b><i>Third Party Cookies</i></b></p>
+
+<p>In addition, we may use advertising technology to place advertisements on search engines, on our Site and/or on third party sites upon which we advertise. This technology uses information about your previous visits to the Site and the third party sites upon which we advertise to tailor the advertisements shown to you. In the course of serving our advertisements, a unique third-party cookie may be placed or recognized on your browser. In addition, we use cookies provided by our ad serving partner to help manage our Site. This third party technology enables our ad server to recognize a browser's cookie when a browser visits our Site and to learn which advertisements or listings bring users to our Site. We reserve the right to supplement the cookie data which we collect from you with information collected by cookies set by third parties on our behalf in order to understand how you use the Internet and what products and services are of interest to you.</p>
+
+<p><b><i>Marketing Data From Third Parties</i></b></p>
+
+<p>We may combine the information you submit under your account with other information from our affiliates and/or received from third parties, including from our merchants, to better target our advertising and to improve the quality of our services.</p>
+
+<p><b><i>User Communications</i></b></p>
+
+<p>When you communicate with us (by postal mail, email or otherwise), we may retain those communications to enable us to process inquiries, respond to your requests and improve our services. </p>
+
+<p>3. How Personally Identifiable Information is Used and Disclosed</p>
+
+<p><b><i>Usage</i></b></p>
+
+<p>In general, Personal Information you submit to us is used by us to provide you access to the Site, to improve the Site, to better tailor the features, performance, and support of the Site and to offer you additional information, opportunities, promotions and functionality from us, our partners or our advertisers.</p>
+
+<p>We only use and/or process Personal Information for the purposes described in this Privacy Policy, including for various purposes:</p>
+
+<p>to identify you as a user of our service(s);</p>
+<p>to provide the services and offerings that you request, to communicate with you regarding such services and offerings (including sending you service-related emails), to facilitate your transactions with our merchants and to provide customer support relating to such services and offerings;</p>
+<p>to ensure the proper functioning of the Site and our services;</p>
+<p>to meet our research and product/service development needs and to improve our Site, services and offerings;</p>
+<p>to personalize your experience, including targeting other services and offerings to you, whether provided by us, our affiliates, or third parties;</p>
+<p>We store information that we collect through cookies, log files, clear gifs, and/or third party sources to create a summary of your preferences. We tie your Personal Information and/or your usage history to information in the summary, in order to provide tailored promotions and marketing offers, to improve and/or customize the content of the Site for you and/or to determine your preferences, and</p>
+<p>We may match information collected from you through different means or at different times, including, for example, information collected online and offline, and use such information along with information obtained from other sources, including third parties.</p>
+
+<p><b><i>E-mail and E-mail Addresses</i></b></p>
+
+<p>We may use and display your full name and email address when you send an email notification to a friend through Eversave.com or the social network from which you have connected to Eversave.com (such as in an invitation, or when sharing your content). Additionally, we use your email address to contact you on behalf of your friends (such as when someone sends you a personal message) or notifications from a social network or other website with whom you have registered to receive such notifications. We may use this e-mail address to contact you for things such as notifications of sales, promotions and other related information. You may indicate your preference to stop receiving further promotional communications as further detailed below.</p>
+
+<p><b><i>Feedback</i></b></p>
+
+<p>If you provide feedback to us, we may use and disclose such feedback for any purpose, provided we do not associate such feedback with your Personal Information. We will collect any information contained in such feedback and will treat the Personal Information in it in accordance with this Privacy Policy. You agree that any such comments and any email we receive become our property. We may use feedback for marketing purposes or to add to or modify our services without paying any royalties or other compensation to you.</p>
+
+<p>If you do not want us to use Personal Information collected about you in the manner identified in this Privacy Policy, you should not use the Site.</p>
+
+<p><b><i>Disclosure</i></b></p>
+
+<p>We may provide your Personal Information to merchants and third-party service providers who work on behalf of or with us to provide some of the services and features of the Site, including our loyalty program, and to help us and them communicate with you.  Examples of such services include sending email, analyzing data, providing marketing assistance, servicing and administering loyalty programs, processing payments (including credit card payments and rebate checks), providing customer service and implementing and conducting contests, sweepstakes and other similar activities.  In addition, we may provide your Personal Information to third party service providers who provide hosting services, to  content providers and software and/or hardware vendors who may have access to our databases.  We require our third-party service providers to promise not to use such information except as necessary to provide the relevant services to us.</p>
+
+<p>We may share some or all of your Personal Information with affiliated companies that are under common control, in which case we will require them to honor this Privacy Policy. We may also share some or all of your Personal Information with unaffiliated companies, such as merchants, for their own marketing and other purposes, but only if you consent to our doing so. We will seek your consent in those instances where we want to share your information with unaffiliated companies for their marketing purposes.</p>
+
+<p>In the event we consummate a business transition such as a merger, acquisition by another company, or sale of all or a portion of our assets, your Personal Information may be among the assets transferred. You acknowledge that such transfers may occur and are permitted by this Privacy Policy, and that any acquirer of ours or of our assets may continue to process your Personal Information as set forth in this Privacy Policy. Your Personal Information will remain subject to this Privacy Policy unless and until changed in accordance with its terms.</p>
+
 <p>We may disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; or (b) to protect and defend our rights or property, you, or third parties. You hereby consent to us sharing your Personal Information under the circumstances described herein.</p>
-&nbsp;
-<p><b>The Ability of Others to View Your Information</b><br>
-Helping you to protect your information is important to us. It is up to you to make sure you are comfortable with the information you choose to provide us and the information you choose to publish. You understand that when you use Eversave.com, certain information you post or provide through Eversave.com, such as your name, profile, comments, testimonials, and reviews, may be shared with other users and posted on publicly available portions of Eversave.com, including without limitation, social media applications and other public forums in which you choose to participate. Please keep in mind that if you choose to disclose Personal Information when posting comments or other information or content through Eversave.com, this information may become publicly available and may be collected and used by others, including people outside the Eversave.com. We will not have any obligations with respect to any information that you post to parts of Eversave.com available to others, and recommend that you use caution when giving out personal information to others through social media networks or otherwise.</p>
-&nbsp;
-<p><b>Third Party Sites</b><br>
-Eversave.com&nbsp;may contain links to other websites, including those of our partners and merchants. Please be aware that we are not responsible for the privacy practices, the content, or the compliance with their own privacy policies of such other websites. We encourage our users to read the privacy statements of each and every website they visit. This Privacy Policy applies solely to information collected by us through Eversave.com and does not apply to these third-party websites. The ability to access information of third-parties from Eversave.com, or links to other websites or locations, is for your convenience and does not signify our endorsement of such third-parties, their products, their services, other websites, locations or their content.</p>
-&nbsp;
-<p><b>Your Choices Regarding Your Personal Information</b><br>
-We offer you choices regarding the collection, use, and sharing of your Personal Information. You have a right at any time to stop us from contacting you for marketing purposes. When you receive promotional communications from us, you may indicate a preference to stop receiving further promotional communications from us and you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the promotional e-mail you receive or by contacting us directly via <a href="http://www.eversave.com/contact-request.jsp?cc=1">this link.</a></p>
-&nbsp;
-<p>Despite your indicated email marketing preferences, we may send you administrative emails regarding Eversave.com, including, for example, administrative and transactional confirmations, and notices of updates to our Privacy Policy if we choose to provide such notices to you in this manner.</p>
 
-<p>You have the right to request a copy of [and /or have deleted?] the Personal Information that we hold about you. If you would like a copy of some or all of your Personal Information, or to have such Personal Information deleted from our records, please contact us via <a href="http://www.eversave.com/contact-request.jsp?cc=1">this link.</a>. We want to make sure that your information is accurate and up-to-date. You may ask us to correct or remove information which you think is inaccurate. You may also change any of your profile information by editing it in the profile settings page.   Please note that we cannot change or delete information in the databases of third parties with whom we have already shared your Personal Information.</p>
-&nbsp;
-<p><b>Feedback</b><br>
-If you provide feedback to us, we may use and disclose such feedback for any purpose, provided we do not associate such feedback with your Personal Information. We will collect any information contained in such feedback and will treat the Personal Information in it in accordance with this Privacy Policy. You agree that any such comments and any email we receive becomes our property. We may use feedback for marketing purposes or to add to or modify our services without paying any royalties or other compensation to you.</p>
-&nbsp;
-<p><b>Security</b><br>
-We are committed to protecting the security of your Personal Information. We use a variety of industry-standard security technologies and procedures to help protect your Personal Information from unauthorized access, use, or disclosure. Even though we have taken reasonable steps to protect your Personal Information, no company, including us, can fully eliminate security risks associated with Personal Information.</p>
+<p>We share your content preferences and other personal information with the social network with which you have connected to Eversave.com, along with those companies and persons with which you have asked or allowed us to share your information.</p>
 
-<p><b>U.S. Market Only</b><br>
-All information posted on this site is intended for the US market only and will be interpreted and governed solely by US law.  If you access this site from a location outside the US, you are responsible for compliance with all applicable non-US laws and regulations.</p>
+<p>We may share some or all of your Personal Information with third party partners who contribute prizes, sponsor or participate in our contests, sweepstakes and similar activities. We may share some or all of your Personal Information (other than credit or debit card information) with merchants whose Saves you have purchased for their commercial purposes and to provide the Save as well as so they can track your redemption activity and provide customer support.We may disclose your Personal Information to our affiliates and unaffiliated third parties  as an example of representative savings and/or to identify you as a user of our service.</p>
 
-<p><b>Notice of Privacy Rights to California Residents</b><br>
-Under California Civil Code Section 1798.83, also known as California’s “Shine the Light Law,” residents of California may request and receive, free of charge, a copy of our California Information Disclosure Notice for the previous calendar year.  This Notice lists the third party entities with which EverSave shared Personal Information for the third parties’ direct marketing purposes.  To request this Notice, please email us via <a href="http://www.eversave.com/contact-request.jsp?cc=1">this link.</a></p>
+<p><b>The Ability of Others to View Your Information</b></p>
+Helping you to protect your information is important to us. It is up to you to make sure you are comfortable with the information you choose to provide us and the information you choose to publish. You understand that when you use Eversave.com, certain information you post or provide through Eversave.com, such as your name, profile, comments, testimonials, and reviews, may be shared with other users and posted on publicly available portions of Eversave.com, including without limitation, social media applications and other public forums in which you choose to participate. Please keep in mind that if you choose to disclose Personal Information when posting comments or other information or content through Eversave.com, this information may become publicly available and may be collected and used by others, including people outside the Eversave.com. We will not have any obligations with respect to any information that you post to parts of Eversave.com available to others, and recommend that you use caution when giving out personal information to others through social media networks or otherwise.<p></p>
 
-<p><b>Contact and Revisions</b><br>
-If you have questions or concerns about our Privacy Policy, please contact us via <a href="http://www.eversave.com/contact-request.jsp?cc=1">this link.</a>.</p>
+<p>If you do not want us to disclose Personal Information collected about you in the manner identified in this Privacy Policy, you should not use the Site.</p>
 
-<p>This Privacy Policy is subject to revision at our discretion, and if we make any substantial changes in the way we use your Personal Information, we will post an alert on this page. If you object to any such changes, you must cease using Eversave.com. Continued use of Eversave.com following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions <a href="/terms.jsp">Terms of Service</a> of such changes.</p>
-&nbsp;
-<p><b>Corporate Address</b><br>
-Customer Service, Eversave.com<br>
-40 Harvard Mills Square<br>
-Suite 1<br>
-Wakefield, MA 01880<br>
-</p>
+<p>4. Choice With Respect to Receiving Marketing Emails</p>
 
+<p>We offer you choices regarding the collection, use, and sharing of your Personal Information. You have a right at any time to stop us from contacting you for marketing purposes. When you receive promotional communications from us, you may indicate a preference to stop receiving further promotional communications from us and you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the promotional e-mail you receive or by contacting us directly via <a href="http://www.eversave.com/contact-request.jsp?cc=1">this link</a>. If you elect to opt out, such election (a) will not apply to communications that are directly related to the fulfillment of a specific transaction you have requested; (b) shall not preclude us, including our employees, contractors, agents and other representatives, from accessing and viewing your Personal Information to provide support and for any other purpose relating to your use of the Service; and (c) shall not preclude us from disclosing your Personal Information as described in this Privacy Policy for purposes other than sending you promotional and marketing materials not related to your use of our service(s). 
 
+</p><p>5. Links to Third Party Sites</p>
 
-            <br>
-            <br>
+<p>Our Site may contain links or references to third party websites, and the privacy policies of these sites may differ from our own. Please be aware that we have no control over such third party websites. Our privacy policy does not apply to such websites. We encourage you to read the privacy policies of all such third party websites.</p>
+
+<p>6. How We Protect the Security of Personal Information</p>
+
+<p>The security of your Personal Information is an important concern to us.</p>
+
+<p>We take appropriate security measures that comply with Federal law to protect your Personal Information against unauthorized access to or loss, misuse, disclosure, alteration or destruction. We implement generally accepted standards of technology security, including firewalls, to protect your Personal Information. These measures include computer safeguards and secured files and buildings.
+Unfortunately, "perfect security" does not exist on the Internet, and no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your information, we cannot guarantee that any information stored on our servers, or transmitted to or from a user, will be free from unauthorized access and you agree not to hold us responsible for any breach of security. In addition, unencrypted e-mail is not a "secure" means of communicating with us, since e-mail may be intercepted by a third party in the course of its delivery.</p>
+
+<p>7. Transfer of Personal Information Outside of Your Country of Residency</p><p>
+
+</p><p>You acknowledge that we may need to host or store data outside of the United States. By providing any Personal Information to the Site, you consent to the hosting and storage of such information outside of the United States.</p>
+
+<p>Although we cannot guarantee the same level of protection for your Personal Information as may be afforded in the United States, and despite the risks entailed with on-line communications, we take every reasonable precaution to protect your Personal Information.</p>
+
+<p>8. Children's Privacy</p><p>
+
+</p><p>Protecting the privacy of children is very important to us. Our service is not available to anyone under 18 years of age. We do not collect or maintain Personal Information from people whom we know are under 18 years of age.</p>
+
+<p>9. California Privacy Rights</p>
+
+<p>Under California law, California residents have the right to request in writing from businesses with whom they have entered an established business relationship, (1) a list of the categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information, please e-mail us via <a href="http://www.eversave.com/contact-request.jsp?cc=1">this link</a> or write to us at Eversave Customer Service, 40 Harvard Mills Square, Suite 1, Wakefield, MA 01880.</p>
+
+<p>We will respond to such written requests within 30 days following receipt at the e-mail or mailing address stated above. If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that we are only required to respond to each customer once per calendar year.</p>
+
+<p>10. How to Update your Personal Information</p>
+
+<p>You have the right to request a copy of the Personal Information that we hold about you. If you would like a copy of your Personal Information, or to have such Personal Information deleted from our records, please contact us via
+
+<a href="http://www.eversave.com/contact-request.jsp?cc=1">this link</a>. We want to make sure that your information is accurate and up-to-date. You may ask us to correct or remove information which you think is inaccurate. You may also change any of your profile information by editing it in the profile settings page. Please note that we cannot change or delete information in the databases of third parties with whom we have already shared your Personal Information.</p>
+
+<p>11. Compliance Issues</p>
+
+<p>The Service has designated a representative responsible for privacy matters. If you believe your Personal Information has been used in a way that is not consistent with this Privacy Policy or your specified preferences, or if you have further questions related to this policy, please contact Eversave, c/o General Counsel, 6 High Ridge Park, Stamford, CT 06905.</p>
+
+<p>12. Changes to this Privacy Policy</p>
+
+<p>We reserve the right to amend or modify this Privacy Policy at any time, so please review it frequently on the Site. If we make any changes, we will either notify you by email or post a notice on the Site's homepage. We will also summarize any material changes to the Privacy Policy on the Site. We encourage you to read any revised Privacy Policy. 
+<br><br>
+Your continued use of our Site following the notification of, or posting of, changes to this Privacy Policy means you accept these changes.</p>
+
+<p>13. Your Acceptance of this Privacy Policy</p>
+
+<p>By using our Site and/or using the Service, you signify your acceptance of this Privacy Policy.</p>
+
+<p>14. Treatment of Information of Former Customers</p>
+
+<p>We will continue to follow our Privacy Policy for your Personal Information even when you are no longer a customer of the Service.</p>
+
+<p>15. Applicable Law</p>
+
+<p>All information posted on this site is intended for the U.S. market only and will be interpreted and governed solely by U.S. law. If you access this site from a location outside the U.S., you are responsible for compliance with all applicable non-U.S. laws and regulations.</p>
+
+<br>
+<br>
 </div>
 
           </div>
@@ -673,25 +1048,26 @@ Wakefield, MA 01880<br>
             <a href="/contact-us.jsp" class="footer">Contact Us</a><br>
             <a href="/privacy-policy.jsp" class="footer">Privacy Policy</a><br>
             <a href="/terms.jsp" class="footer">Terms of Service &amp; Sale</a><br>
+            <a href="#" onclick="window.open('/eversave-pledge-details.jsp','PP','width=650,height=615,scrollbars=yes,menubar=yes,toolbar=yes'); return false;" class="footer">Eversave Pledge</a><br>
             <a href="/for-businesses.jsp" class="footer">For Businesses</a><br>
-            <a href="/careers.jsp" class="footer">Careers</a>
+            <a href="/careers.jsp" class="footer">Careers</a><br>
+            <a href="/SiteMap.jsp" class="footer">Site Map</a>
       </div>
       <div id="qa_theSave" class="footerItem">
         <span class="footerTitles">The Save</span><br>
         <a href="/how-save-works.jsp" class="footer">How it works</a><br>
         <a href="/recent-saves.jsp" class="footer">Recent Saves</a><br>
-        <a href="/online" class="footer">Today's Save</a><br>
+        <a id="qa_todaysSaveLinkFtr" href="/online" class="footer">Today's Save</a><br>
         <a href="/refer-a-friend.jsp" class="footer">Refer-A-Friend</a><br>
         <a href="/how-gifting-works.jsp" class="footer">How Gifting Works</a><br>
       </div>
       <div id="qa_connected" class="footerItem">
         <span class="footerTitles">Stay Connected</span><br>
 	<a href="http://itunes.apple.com/us/app/eversave/id483167935" target="_ap" class="footer">Get our iPhone app</a><br>
-        <a href="http://blog.eversave.com" target="_bl" class="footer">Check out our Blog</a><br>
-	
-        <a href="http://www.facebook.com/eversavedeals" target="_fb" class="footer">Become a fan on Facebook</a><br>
-        <a href="http://twitter.com/sharethesave" target="_tw" class="footer">Follow us on Twitter</a><br>
-        <a href="http://www.eversave.com/rss/online" target="_rss" class="footer">Subscribe with RSS</a><br>
+        <a href="/blog.jsp" class="footer">Check out our Blog</a><br>
+        <a id="qa_fbFanLinkFtr" href="https://www.facebook.com/eversavedeals" target="_fb" class="footer">Become a fan on Facebook</a><br>
+	<a id="qa_twitterJoinLinkFtr" href="https://twitter.com/Eversave" target="_tw" class="footer">Follow us on Twitter</a><br>
+        <a id="qa_rssLinkFtr" href="http://www.eversave.com/rss/online" target="_rss" class="footer">Subscribe with RSS</a><br>
       </div>
       <div id="qa_partners" class="footerItem">
         <span class="footerTitles">Partner With Us</span><br>
@@ -701,7 +1077,7 @@ Wakefield, MA 01880<br>
     </div>
   </div>
 <center>
-Eversave.com™ © Copyright 1999 - 2013 All rights reserved.
+Eversave.com™ © Copyright 1999 - 2014 All rights reserved.
 </center>
   <!-- END FOOTER -->
 <div id="fb-root"></div>
@@ -709,6 +1085,7 @@ Eversave.com™ © Copyright 1999 - 2013 All rights reserved.
   function logout(keepSession, subscribeMktg) {
     var goto = '/servlet/save-login?signout=true&keepSession=' + ((keepSession != null) ? keepSession : false) +
     '&subscribeMktg=' + ((subscribeMktg != null) ? subscribeMktg : false) +
+    '&createNew=null' +
     ((document.getElementById('saveparent') != null) ? getQuantityString() : (document.getElementById('quantity') != null ? '&quantity=' + document.getElementById('quantity').value : "")) +
     (document.getElementById('saveaddresschoice') != null ? '&saveaddresschoice=' + document.getElementById('saveaddresschoice').value : "") +
     (document.getElementById('saveCouponCodeId') != null ? '&saveCouponCodeId=' + document.getElementById('saveCouponCodeId').value : "");
@@ -729,7 +1106,7 @@ Eversave.com™ © Copyright 1999 - 2013 All rights reserved.
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 
 <script type="text/javascript">
-    var pageTracker = _gat._getTracker("UA-5204194-29");
+    var pageTracker = _gat._getTracker("UA-5204194-8");
 	pageTracker._trackPageview();
 </script>
 
