@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growingtreetoys.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221113726id_/http%3A//www.growingtreetoys.com/customer-service-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growingtreetoys.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401210016id_/http%3A//www.growingtreetoys.com/customer-service-security.html) for the most accurate reproduction.*
 
 # Customer Service - Security
 
