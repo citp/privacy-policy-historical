@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathlearningcenter.org privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831215605id_/http%3A//www.mathlearningcenter.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathlearningcenter.org privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401170051id_/http%3A//www.mathlearningcenter.org/privacy) for the most accurate reproduction.*
 
 # Privacy policy | The Math Learning Center
 
