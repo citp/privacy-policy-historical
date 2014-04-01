@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadrush.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117171529id_/http%3A//dev.leadrush.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadrush.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401214434id_/http%3A//dev.leadrush.com/privacypolicy) for the most accurate reproduction.*
 
 # LeadRush
 
