@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lonak.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121040459id_/http%3A//www.lonak.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lonak.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401035006id_/http%3A//lonak.com/privacy.asp) for the most accurate reproduction.*
 
-# Lonak - Unikanie rozgłosu
+# Lonak - Privacy
 
 **  
 Lonak privacy policy**
