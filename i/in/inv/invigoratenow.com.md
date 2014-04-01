@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the invigoratenow.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604081235id_/http%3A//www.invigoratenow.com/privacy-policy-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invigoratenow.com privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402013356id_/http%3A//invigoratenow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | InvigorateNOW
+# Privacy Policy
 
 **InvigorateNOW – PRIVACY POLICY**
 
-This is the Privacy Policy for Invigorate Now, Inc. and this Website [www.invigoratenow.com](https://web.archive.org/web/20120604081235id_/http://www.invigoratenow.com/privacy-policy-3/www.invigoratenow.com) (individually and collectively the “Company”). When you use this Website, you agree to the Privacy Policy that follows. If you do not agree with this Privacy Policy you should immediately stop using this Website.
+This is the Privacy Policy for Invigorate Now, Inc. and this Website [www.invigoratenow.com](https://web.archive.org/web/20140402013356id_/http://invigoratenow.com/privacy-policy/www.invigoratenow.com) (individually and collectively the “Company”). When you use this Website, you agree to the Privacy Policy that follows. If you do not agree with this Privacy Policy you should immediately stop using this Website.
 
 **Information The Company Collects**
 
@@ -65,7 +65,7 @@ The Company reserves the right, at our complete discretion, to change this Priva
 
 **How to Contact Us**
 
-If you have any questions about this Privacy Policy, Please contact us by emailing us at: [customerservice@invigoratenow.com.](https://web.archive.org/web/20120604081235id_/http://www.invigoratenow.com/privacy-policy-3/customerservice@invigoratenow.com)
+If you have any questions about this Privacy Policy, Please contact us by emailing us at: [customerservice@invigoratenow.com.](https://web.archive.org/web/20140402013356id_/http://invigoratenow.com/privacy-policy/customerservice@invigoratenow.com)
 
 **Miscellaneous**
 
