@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nlng.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029112200id_/http%3A//www.nlng.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nlng.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401223400id_/http%3A//www.nlng.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Nigeria LNG
 
@@ -6,7 +6,7 @@
 
 Introduction During your visits to our NLNG internet site, you may be asked to provide us with personal information. We have developed this comprehensive Privacy Policy to describe when we will collect and record your personal information, what we will use your personal information for, and when we may disclose your personal information to third parties. 
 
-**If you have any questions regarding this Privacy Policy, please   [contact us.](https://web.archive.org/web/20121029112200id_/http%3A//www.nlng.com/ContactUs.aspx)**
+**If you have any questions regarding this Privacy Policy, please   [contact us.](https://web.archive.org/web/20140401223400id_/http%3A//www.nlng.com/ContactUs.aspx)**
 
 **Who does this Privacy Policy apply to?**
 
