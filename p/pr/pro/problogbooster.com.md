@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the problogbooster.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029003604id_/http%3A//www.problogbooster.com/2009/09/privacy-policy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the problogbooster.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401202151id_/http%3A//www.problogbooster.com/2009/09/privacy-policy-statement.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement - ProBlogBooster
 
@@ -9,6 +9,9 @@ Title: ProBlogBooster -  **** **Blog Tips to Help You Make ProBlogger**
 **Short Description :  **ProBlogBooster is a weblog dedicated to blog builders plus masters as well. We constantly publish useful tricks, tools, tutorials and advanced tips.  
 Web link: <http://www.problogbooster.com/>   
 **Address** **:** Upton Park, London, UK  
+
+
+  
 
 
 This blog is a personal blog written and edited by me. For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name along with IP addresses. 
