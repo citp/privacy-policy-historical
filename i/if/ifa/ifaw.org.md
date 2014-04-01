@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifaw.org privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231035153id_/http%3A//www.ifaw.org/united-states/our-work/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifaw.org privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401174104id_/http%3A//www.ifaw.org/united-states/our-work/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | IFAW - International Fund for Animal Welfare
 
