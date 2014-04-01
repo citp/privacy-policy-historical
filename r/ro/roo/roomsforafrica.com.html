@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the roomsforafrica.com privacy policy that was archived on 2013-09-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130902150229id_/http%3A//www.roomsforafrica.com/aboutus/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the roomsforafrica.com privacy policy that was archived on 2014-04-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140401031046id_/http%3A//www.roomsforafrica.com/aboutus/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -9,15 +9,15 @@
   
    
   
-  <link rel="stylesheet" href="/js/jquery/css/rfa-theme/jquery-ui-1.10.1.custom.1370255021243.css" type="text/css">
-  <link rel="stylesheet" href="/css/styles.1376370267917.css" type="text/css">
-  <!--[if lt IE 8]><link rel="stylesheet" href="/css/ie.1370255017115.css" type="text/css" media="screen, projection"><![endif]-->
+  <link rel="stylesheet" href="/js/jquery/css/rfa-theme/jquery-ui-1.10.1.custom.1381902894056.css" type="text/css">
+  <link rel="stylesheet" href="/css/styles.1395832634323.css" type="text/css">
+  <!--[if lt IE 8]><link rel="stylesheet" href="/css/ie.1395832634321.css" type="text/css" media="screen, projection"><![endif]-->
   <!--[if IE 7]><style type="text/css">body{behavior:url("/css/ie7.1370255028451.css");}</style><![endif]-->
   <!--[if IE 6]><style type="text/css">body{behavior:url("/css/csshover.htc");}</style><![endif]-->
 </head>
 <body onload="" class="">
 
-    <img src="http://www.resafrica.com/survey/activity/sref=sro0506970;rref=http%3A//www.roomsforafrica.com/establishment.do%3Fid%3D1311;lref=http%3A//www.roomsforafrica.com/aboutus/privacy.jsp;rn=61240289994" style="position:absolute;width:1px;height:1px;border:none;">
+    <img src="http://www.resafrica.com/survey/activity/sref=sro0506970;rref=http%3A//www.roomsforafrica.com/;lref=http%3A//www.roomsforafrica.com/aboutus/privacy.jsp;rn=895097558715" style="position:absolute;width:1px;height:1px;border:none;">
 
     <table cellspacing="0" cellpadding="0" id="global_border" class="center_div"><tbody><tr>
       <td id="left_global_gradient" class="global_gradient"><img class="bottom_corner_grad" src="/img/bottom_left_grad.jpg"></td>
@@ -28,7 +28,7 @@
   <h1 id="site_description"><b>South African accommodation</b><br>directory &amp; bookings</h1>
   <div id="quick_search"> 
     <a href="/search/powersearch.jsp" style="float: left;">Advanced Search</a>
-    <form name="quickSearchForm" method="POST" action="/quicksearch.do">
+    <form name="quickSearchForm" method="POST" action="/quicksearch.do" id="quickSearchForm">
       <input type="text" name="searchText" size="30" value="Search" onblur="
           if(this.value == ''){
             style.color='#C0C0C0'
@@ -460,12 +460,21 @@
       </td>
     </tr>
   </tbody></table>
-  © Copyright 2002 - Mon Sep 02 17:02:30 SAST 2013 RoomsForAfrica.com
+  © Copyright 2002 - Tue Apr 01 05:10:47 SAST 2014 RoomsForAfrica.com
 </div>
 
       </td>
       <td id="right_global_gradient" class="global_gradient"><img class="bottom_corner_grad" src="/img/bottom_right_grad.jpg"></td>
     </tr></tbody></table> 
+    
+    <script type="text/javascript" src="/js/jquery/js/jquery-1.9.1.1370255001463.js"></script> 
+    <script type="text/javascript" src="/js/jquery/js/roomsforafrica_custom.1395832634352.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function() { 
+        $('#quickSearchForm').preventDoubleSubmission();
+        
+      });
+    </script>
     
 
 
