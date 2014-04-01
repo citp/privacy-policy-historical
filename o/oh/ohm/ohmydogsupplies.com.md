@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohmydogsupplies.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125052651id_/http%3A//www.ohmydogsupplies.com/pages.php%3Fpageid%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohmydogsupplies.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401224355id_/http%3A//www.ohmydogsupplies.com/pages.php%3Fpageid%3D12) for the most accurate reproduction.*
 
 # Privacy Policy - Oh My Dog Supplies
 
