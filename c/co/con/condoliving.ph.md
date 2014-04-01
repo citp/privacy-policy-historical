@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the condoliving.ph privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224083915id_/http%3A//www.condoliving.ph/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the condoliving.ph privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401033556id_/http%3A//www.condoliving.ph/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Condo for sale, lease or rent in the Philippines!
+# Privacy Policy | CondoLiving.ph - Condo Buying and Searching Made Easier!
 
 **COMMITMENT TO YOUR PRIVACY**  
 This site is owned and operated by CondoLiving.ph, a property of Sproads Media Inc. Your privacy on the Internet is of the utmost importance to us. At CondoLiving.ph, we want to make your experience online satisfying and safe.  
