@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the assembla.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221070906id_/http%3A//helpdesk.assembla.com/customer/portal/articles/684544-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assembla.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401153726id_/http%3A//helpdesk.assembla.com/customer/portal/articles/684544-privacy-policy) for the most accurate reproduction.*
 
 # Assembla | Privacy Policy
 
