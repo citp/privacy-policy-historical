@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the covertbacklinks.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905081656id_/http%3A//www.covertbacklinks.com/member/membership/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covertbacklinks.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401124950id_/http%3A//www.covertbacklinks.com/member/membership/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Covert Backlinks
 
