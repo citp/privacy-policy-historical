@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americasarmy.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211150856id_/http%3A//www.americasarmy.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americasarmy.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401045701id_/http%3A//www.americasarmy.com/legal/privacy) for the most accurate reproduction.*
 
 # America's Army: Privacy Policy
 
