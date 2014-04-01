@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psncenergy.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116054414id_/http%3A//www.psncenergy.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psncenergy.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401043615id_/http%3A//psncenergy.com/en/privacy-policy) for the most accurate reproduction.*
 
 # PSNC Energy - Privacy Policy
 
