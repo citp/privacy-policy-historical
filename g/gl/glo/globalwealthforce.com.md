@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the globalwealthforce.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010053845id_/http%3A//www.globalwealthforce.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalwealthforce.com privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402124714id_/http%3A//www.globalwealthforce.com/privacy.php) for the most accurate reproduction.*
 
 # GlobalWealthForce.com
 
 |  | Banners Ads  
 ---  
-|  |  [ ](http://www.globalwealthforce.com/trr.php?id=1097)  
----  
-|  |  [ ](http://www.globalwealthforce.com/trr.php?id=1451)  
----  
 |  |  [ ](http://www.globalwealthforce.com/trr.php?id=1427)  
 ---  
+|  |  [ ](http://www.globalwealthforce.com/trr.php?id=1496)  
+---  
+|  |  [ ](http://www.globalwealthforce.com/trr.php?id=1595)  
+---  
   
-[](http://www.globalwealthforce.com/tr.php?id=94)   
+[](http://www.globalwealthforce.com/tr.php?id=112)   
 
 
 Global Wealth Force Privacy PolicyWhat information do we collect?  
@@ -47,33 +47,33 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 Terms and Conditions:  
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website by [Clicking Here](https://web.archive.org/web/20131010053845id_/http%3A//www.globalwealthforce.com/terms.php).
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website by [Clicking Here](https://web.archive.org/web/20140402124714id_/http%3A//www.globalwealthforce.com/terms.php).
 
 Your Consent:  
 By using our site, you consent to our privacy policy.Contacting Us:  
-If there are any questions regarding this privacy policy you may contact us by clicking the [Contact Us](https://web.archive.org/web/20131010053845id_/http%3A//www.globalwealthforce.com/contactus.php) button below.
+If there are any questions regarding this privacy policy you may contact us by clicking the [Contact Us](https://web.archive.org/web/20140402124714id_/http%3A//www.globalwealthforce.com/contactus.php) button below.
 
   
-[](http://www.globalwealthforce.com/tr.php?id=107)  
+[](http://www.globalwealthforce.com/tr.php?id=119)  
 
 
 |  | Text Ads  
 ---  
 | 
 
-**Data Entry  
-** I Earning Daily up to $4  
-From Data Entry & Daily   
-Instant Payout To Payza.  
-[Click Here Now](http://www.globalwealthforce.com/tr1.php?id=1428)  
+**MYLeadSystem PRO  
+** Intense Training for  
+MORE Leads & Income!  
+Success Starts HERE!  
+[Click Here Now](http://www.globalwealthforce.com/tr1.php?id=1495)  
   
 ---  
   
- **== >> DO NOT <<==  
-**Get Left  
-Behind!  
-CLICK NOW!  
-[Click Here Now](http://www.globalwealthforce.com/tr1.php?id=1362)  
+ **ojooo  
+** I make money every  
+single day in my sleep;  
+do you want to see how?  
+[Click Here Now](http://www.globalwealthforce.com/tr1.php?id=1538)  
   
  **100% RevShare &  
 **Fast Sustainable  
@@ -81,8 +81,10 @@ CLICK NOW!
 20% Ref Commission!  
 [Click Here Now](http://www.globalwealthforce.com/tr1.php?id=994)  
   
- **Advertise Here  
-** Advertise Here  
-[Click Here Now](https://web.archive.org/web/20131010053845id_/http%3A//www.globalwealthforce.com/target=_blank)  
+ **FREE VIDEO Reveals  
+** 21-Step Business System  
+Deposits $1k $3k & $5k  
+Directly Into Your Bank  
+[Click Here Now](http://www.globalwealthforce.com/tr1.php?id=1540)  
   
 [Ads by GlobalWealthForce.com](http://www.globalwealthforce.com/)
