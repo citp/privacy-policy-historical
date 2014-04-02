@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpmburner.com privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825170753id_/http%3A//cpmburner.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpmburner.com privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402111310id_/http%3A//cpmburner.com/privacy.php) for the most accurate reproduction.*
 
 # Cpmburner - Advertising Network
 
