@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smilepk.info privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207203047id_/http%3A//www.smilepk.info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smilepk.info privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402104955id_/http%3A//www.smilepk.info/privacy.html) for the most accurate reproduction.*
 
 # Download Free Hindi Song, Video Songs and Online Movies for free.
 
