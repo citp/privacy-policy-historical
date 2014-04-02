@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the posturown.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817013013id_/http%3A//www.posturown.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the posturown.com privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402201046id_/http%3A//www.posturown.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
