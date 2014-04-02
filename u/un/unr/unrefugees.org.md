@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unrefugees.org privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023091050id_/http%3A//www.unrefugees.org/site/lookup.asp%3Fc%3DnhIULYNELsE%26b%3D4803629) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unrefugees.org privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402132214id_/http%3A//www.unrefugees.org/site/lookup.asp%3Fc%3DnhIULYNELsE%26b%3D4803629) for the most accurate reproduction.*
 
 # United States Association for UNHCR Privacy Policy - USA for UNHCR
 
@@ -13,7 +13,7 @@ This website is owned by the United States Association for UNHCR. Please feel fr
 Mail:   
 United States Association for UNHCR  
 1775 K Street, NW  
-Suite 290  
+Suite 580  
 Washington, DC 20006
 
 Phone: (800) 770-1100  
@@ -45,5 +45,5 @@ You can recognize secure web pages by checking for the secure symbol at the bott
 The United States Association for UNHCR protects all paper files as well. Any personal information recorded on paper file is secured in a locked facility at all times. Only two permanent full time staff members have access to the files. 
 
 **Links to other websites  
-****  
-** The United States Association for UNHCR website contains links to other sites. USA for UNHCR is not responsible for the privacy practices or the content of such websites.
+** **  
+**The United States Association for UNHCR website contains links to other sites. USA for UNHCR is not responsible for the privacy practices or the content of such websites.
