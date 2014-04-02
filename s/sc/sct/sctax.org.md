@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sctax.org privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116171446id_/http%3A//www.sctax.org/DOR%2BFrontpage/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sctax.org privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402222043id_/http%3A//www.sctax.org/DOR%2BFrontpage/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -50,8 +50,6 @@ Various Web sites will be linked through us. This includes Web sites of other go
 We have taken steps to limit access to personally identifiable information to support staff who require access in order to perform their assigned duties. We have notified and instructed our staff of their responsibilities concerning the protection of personally identifiable information.
 
  **Contact Us**
-
-The person responsible for the administration of the Departments privacy policy is Michael D. Garon, CIO. (803)898-5586.
 
 If you have questions about this privacy statement, the practices of this site, or your interaction with this web site, please contact:
 
