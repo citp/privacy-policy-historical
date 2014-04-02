@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipad-transfer.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229125337id_/http%3A//www.ipad-transfer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipad-transfer.com privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402110650id_/http%3A//www.ipad-transfer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
