@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamegeniuses.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201021948id_/http%3A//www.gamegeniuses.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamegeniuses.com privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402074338id_/http%3A//www.gamegeniuses.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Game Genius
 
