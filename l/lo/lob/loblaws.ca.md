@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loblaws.ca privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114183432id_/http%3A//www.loblaws.ca/content/loblaws/en_CA/company-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loblaws.ca privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402022908id_/http%3A//www.loblaws.ca/content/loblaws/en_CA/company-policy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
