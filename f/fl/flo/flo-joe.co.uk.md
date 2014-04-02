@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the flo-joe.co.uk privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922135220id_/http%3A//www.flo-joe.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flo-joe.co.uk privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402023819id_/http%3A//www.flo-joe.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Flo-Joe for First Certificate, Certificate in Advanced English and Certificate of Proficiency in English
 
   * **Manage Cookies**   
-Like many other sites on the web, this site uses small files called cookies to help provide you with services and functionalty and to help us develop the website further. Please see our [Cookies information](https://web.archive.org/web/20130922135220id_/http%3A//www.flo-joe.co.uk/cookies.htm) page for further information.
+Like many other sites on the web, this site uses small files called cookies to help provide you with services and functionalty and to help us develop the website further. Please see our [Cookies information](https://web.archive.org/web/20140402023819id_/http%3A//www.flo-joe.co.uk/cookies.htm) page for further information.
   * **General**   
 Flo-Joe is committed to safeguarding your privacy online. We collect the e-mail addresses of those who communicate with us via e-mail, who are making a request for additional information, signing up for our newsletters, purchasing one of our products or who are offering feedback. This information is only used to respond to the request made by the visitor. We do not and will not release any e-mails sent to us to any third party for any reason whatsoever without the individual's consent. To safeguard your privacy, we use a "confirmed opt-in" system with our newsletter. This ensures that no-one can sign you up to our newsletter without your permission (see below). 
   * **Newsletters**  
