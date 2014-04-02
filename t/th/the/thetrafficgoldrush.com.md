@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thetrafficgoldrush.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926191919id_/http%3A//thetrafficgoldrush.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetrafficgoldrush.com privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402191446id_/http%3A//thetrafficgoldrush.com/privacy.php) for the most accurate reproduction.*
 
 # The Traffic Goldrush | Web Traffic Targeted | Free Marketing Email | Email Marketing Direct
 
-[](http://thetrafficgoldrush.com/bannerclick.php?id=4979)  
+[](http://thetrafficgoldrush.com/banclick.php?code=536a76f94cf7535158f66cfbd4b113b6)  
 
 
 The Traffic Goldrush Privacy Policy
@@ -35,7 +35,10 @@ What happens if the Privacy Policy Changes? We will let our Visitors and Authori
 Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
   
-Copyright (c) The Traffic Goldrush All Rights Reserved 
+Copyright (c) The Traffic Goldrush All Rights Reserved - Part of the [_Trax Web_](http://www.traxhelpdesk.com/sites/)
 
-[Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) | [Recommended Site Of The Day](http://easyprofitlist.com/recommends.php)   
+[Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) | [Recommended Site Of The Day](https://web.archive.org/recommends.php)   
+
+
+  
 
