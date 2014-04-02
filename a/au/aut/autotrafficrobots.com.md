@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autotrafficrobots.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814024611id_/http%3A//www.autotrafficrobots.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autotrafficrobots.com privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402105901id_/http%3A//www.autotrafficrobots.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
