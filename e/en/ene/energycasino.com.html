@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the energycasino.com privacy policy that was archived on 2013-08-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130809002203id_/https%3A//energycasino.com/TermsConditions/Privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the energycasino.com privacy policy that was archived on 2014-04-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140402205908id_/https%3A//energycasino.com/TermsConditions/Privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" dir="ltr"><head><link rel="stylesheet" type="text/css" href="https://static.energycasino.com/EnergyCasino/_import.css?d=221"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://static.energycasino.com/_js/combined.js"></script><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="requiresActiveX=true"><link rel="shortcut icon bookmark" href="/favicon.ico" type="image/x-icon"><link rel="apple-touch-icon" href="/apple-touch-icon.png" type="image/png">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" dir="ltr"><head><link rel="stylesheet" type="text/css" href="https://static.energycasino.com/EnergyCasino/_import.css?d=92"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://static.energycasino.com/_js/combined.js"></script><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="requiresActiveX=true"><link rel="shortcut icon bookmark" href="/favicon.ico" type="image/x-icon"><link rel="apple-touch-icon" href="/apple-touch-icon.png" type="image/png">
 
 
 
@@ -9,6 +9,7 @@
 
 <meta name="google-site-verification" content="76yl3Wv3fCeI4s0PQ-1EHn9qnzf93ixvnN57s4j1ZMo">
 <script language="javascript" type="text/javascript" src="//static.energycasino.com/EnergyCasino/fppshop/pxgradient-1.0.2.jquery.min.js"></script>
+<link rel="stylesheet" type="text/css" href="//static.energycasino.com/apps/promocodes/css/promocodes.css">
 
 <meta http-equiv="content-language" content="en"><script type="text/javascript" src="/_google_analytics.ashx?_=2035&amp;u=0" async="async" defer="defer"></script><style type="text/css">.IntroducePanel p {margin-bottom:20px;}
 #message-box{
@@ -24,6 +25,17 @@ height:1.5em;
 cursor:pointer;
 }
 #message-box .close-btn:hover { background-position:-36px -252px; }
+.mb-bottom-buttons{margin-top:8px;text-align:center;margin-bottom:-20px;}
+.mb-button {background: #f9cd00;background: -moz-linear-gradient(top,  #f9cd00 35%, #d49800 85%);background: -webkit-gradient(linear, left top, left bottom, color-stop(35%,#f9cd00), color-stop(85%,#d49800));background: -webkit-linear-gradient(top,  #f9cd00 35%,#d49800 85%);background: -o-linear-gradient(top,  #f9cd00 35%,#d49800 85%);background: -ms-linear-gradient(top,  #f9cd00 35%,#d49800 85%);background: linear-gradient(to bottom,  #f9cd00 35%,#d49800 85%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9cd00', endColorstr='#d49800',GradientType=0 );border-radius: 8px;color: #FFFFFF !important;display: inline-block;margin: 5px 5px 0;padding: 2px 8px;text-shadow: 1px 1px 0 #000000;}
+
+.country-flags .gr { background: url("//static.energycasino.com/EnergyCasino/_files/images/flags_sprite.png") no-repeat scroll -62px -362px transparent !important; }
+
+#ep-points {
+white-space:nowrap;
+line-height:90px !important;
+}
+
+
 
 </style><title>
 	Terms &amp; Conditions
@@ -31,12 +43,76 @@ cursor:pointer;
 <body dir="ltr" class="lang_en  Anonymous" data-desktop="" data-mobile="" data-cookiedomain="energycasino.com" data-ismobile="0">
 
 
+
+<script>
+        GLOBAL_USERNAME = '';
+        GLOBAL_LANGUAGE = 'en';
+        document.domain = 'energycasino.com';
+</script>
+
 <script type="text/javascript">
 // <![CDATA[
     InputFields.onErrorPlacement = function (error, element) {
         error.attr('elementId', $(element).parents("div.inputfield").attr('id'));
         error.insertAfter($('td.controls > *:last', $(element).parents("div.inputfield")));
     }
+
+    jQuery.fn.QuickRegistration = function () {
+        var $this = $(this);
+
+        var height = 545;
+        var width = 800;
+
+        function onDialogOpen(dialog) {
+            dialog.data.css('padding', '0px').show();
+            var marginLeft = (width / -2).toString(10) + "px";
+            dialog.container.css("margin-left", marginLeft);
+            dialog.container.css("width", width.toString(10) + "px");
+            dialog.container.css({ "border": "0px", "border-radius": "12px 12px 12px 12px" });
+
+            dialog.container.find(".simplemodal-wrap").css("border-radius", "12px 12px 12px 12px");
+
+            dialog.container.css({ "z-index": "999999", "height": "auto", "top": "25px", "left": "50%" }).show();
+            dialog.overlay.css("z-index", "999998").show();
+
+            $('div.simplemodal-wrap', dialog.container).css('overflow', 'hidden');
+        };
+
+        $this.click(function (e) {
+            e.preventDefault();
+
+            var id = '_dlg_' + (new Date).getTime().toString();
+            var $iframe = $('<iframe allowTranceparency="true" scrolling="no" frameborder="0" style="background-color:transparent"></iframe>');
+            $iframe.attr('id', id);
+            $iframe = $iframe.appendTo(top.document.body);
+            $iframe = $(top.document.getElementById(id));
+            $iframe.width(width).height(height);
+
+            var url = '/QuickRegister/Dialog/?_=' + ((new Date).getTime());
+            $iframe.attr('src', url);
+
+            var dialogCloseHtml = '<a class="modalCloseImg" title="Close"></a>"';
+
+            $.modal($iframe[0], { appendTo: top.document.body
+            , width: width
+            , height: height
+            , minHeight: height
+            , autoResize: false
+            , autoPosition: false
+            , closeHTML: dialogCloseHtml
+            , onOpen: onDialogOpen
+            , containerCss: { padding: '0px'
+                            , border: 'solid 1px #999999'
+                            , background: 'url(/images/icon/loading.gif) no-repeat 20px 20px #000000'
+            }
+            , overlayClose: true
+            , onClose: function (dialog) {
+                dialog.placeholder = false;
+                $.modal.close();
+            }
+            });
+        });
+    };
 
     $(document).ready(function () {
         $(".deposit-table .link").each(function () {
@@ -62,24 +138,28 @@ cursor:pointer;
 
 
 
-<script>
-        GLOBAL_USERNAME = '';
-        GLOBAL_LANGUAGE = 'en';
-</script>
+<style type="text/css">html,body {background: url("//static.energycasino.com/EnergyCasino/_files/images/bg-2.jpg") no-repeat center top black !important;}</style>
 
 
     <script language="javascript" type="text/javascript" src="//static.energycasino.com/apps/js/libs/dust-full-1.2.3.min.js"></script>
     <script language="javascript" type="text/javascript" src="//static.energycasino.com/apps/js/libs/dust-helpers-1.1.1.js"></script>
+    <script language="javascript" type="text/javascript" src="//static.energycasino.com/apps/js/libs/jquery.animate-shadow-min.js"></script>
+
 
     <script language="javascript" type="text/javascript" src="//static.energycasino.com/apps/js/core.template.helpers.js"></script>
     <script language="javascript" type="text/javascript" src="//static.energycasino.com/apps/js/core.template.loader.js"></script>
+
+
+<script language="javascript" type="text/javascript" src="//static.energycasino.com/apps/js/screens.autowin.js?update=15"></script>
+<script language="javascript" type="text/javascript" src="//static.energycasino.com/apps/js/templates/screens.screenshot.tp.js"></script>
+<script language="javascript" type="text/javascript" src="//static.energycasino.com/apps/js/screens.screenshots.js"></script>
 
 <div id="container">
     <div class="content">
         <div class="footerbg"></div>
         <div id="header">
             <div class="topbar">
-                <div id="logo"><a href="/en/"><img title="EnergyCasino" alt="EnergyCasino" src="//static.energycasino.com/EnergyCasino/_files/images/logo.png"></a></div>
+                <div id="logo"><a href="/en/"><img title="EnergyCasino" alt="EnergyCasino" src="//static.energycasino.com/EnergyCasino/_files/images/logomain.png"></a></div>
                 <div class="wrapAccountBox" style="float:right;">
                     <iframe id="ifmAccountBox" frameborder="0" scrolling="no" allowtransparency="true" src="/AccountWidget" style="width:600px;height:80px;background:none;">
                     </iframe>
@@ -123,13 +203,6 @@ cursor:pointer;
         <a href="/de/TermsConditions/Privacypolicy" title="Deutsch">
             <img border="0" src="/images/transparent.gif" class="de">
             <span class="language-name">Deutsch</span>
-        </a>
-    </li>
-    
-    <li>
-        <a href="/ka/TermsConditions/Privacypolicy" title="ქართული">
-            <img border="0" src="/images/transparent.gif" class="ge">
-            <span class="language-name">ქართული</span>
         </a>
     </li>
     
@@ -190,13 +263,6 @@ cursor:pointer;
     </li>
     
     <li>
-        <a href="/nl/TermsConditions/Privacypolicy" title="Nederlands">
-            <img border="0" src="/images/transparent.gif" class="nl">
-            <span class="language-name">Nederlands</span>
-        </a>
-    </li>
-    
-    <li>
         <a href="/cs/TermsConditions/Privacypolicy" title="Čeština">
             <img border="0" src="/images/transparent.gif" class="cz">
             <span class="language-name">Čeština</span>
@@ -207,6 +273,27 @@ cursor:pointer;
         <a href="/sk/TermsConditions/Privacypolicy" title="Slovenčina">
             <img border="0" src="/images/transparent.gif" class="sk">
             <span class="language-name">Slovenčina</span>
+        </a>
+    </li>
+    
+    <li>
+        <a href="/sl/TermsConditions/Privacypolicy" title="slovenski">
+            <img border="0" src="/images/transparent.gif" class="si">
+            <span class="language-name">slovenski</span>
+        </a>
+    </li>
+    
+    <li>
+        <a href="/fi/TermsConditions/Privacypolicy" title="suomi">
+            <img border="0" src="/images/transparent.gif" class="fi">
+            <span class="language-name">suomi</span>
+        </a>
+    </li>
+    
+    <li>
+        <a href="/pt/TermsConditions/Privacypolicy" title="Português">
+            <img border="0" src="/images/transparent.gif" class="pt">
+            <span class="language-name">Português</span>
         </a>
     </li>
     
@@ -323,6 +410,18 @@ cursor:pointer;
           </li>
           
           
+          <li class="main-item menu-blog  ">
+            <a class=" menu-item" href="https://blog.energycasino.com/en/" onclick="this.blur();" target="_self">
+<span class=" menu-item_Right">
+    <span class=" menu-item_Left">
+        <span class=" menu-item_Center">
+            <span>Blog</span>
+        </span>
+    </span>
+</span></a>
+          </li>
+          
+          
           <li class="main-item menu-support last ">
             <a class=" menu-item" href="/en/Support" onclick="this.blur();" target="_self">
 <span class=" menu-item_Right">
@@ -364,7 +463,7 @@ cursor:pointer;
         <div class="sidemenupanel_Center_Left">
             <div class="sidemenupanel_Center_Middle">
     
-    <div class="sidemenu" id="_32840cbef3a841839c63a55eaea8be71">
+    <div class="sidemenu" id="_8449f4e60ead4dee8e8e4babdad4c4c8">
 <ul>
 <li class="first Odd"><span><a target="_self" href="/TermsConditions/General">General</a></span></li>
 <li class="normal selected Even"><span><a target="_self" href="/TermsConditions/Privacypolicy">Privacy Policy</a></span></li>
@@ -375,7 +474,7 @@ cursor:pointer;
 </div>
 <script language="javascript" type="text/javascript">
 //<![CDATA[
-$(document).ready( function() { $('#_32840cbef3a841839c63a55eaea8be71').initilizeNavigationMenu('sidemenu'); } );
+$(document).ready( function() { $('#_8449f4e60ead4dee8e8e4babdad4c4c8').initilizeNavigationMenu('sidemenu'); } );
 //]]>
 </script>
 
@@ -565,9 +664,118 @@ $(document).ready( function() { $('#_32840cbef3a841839c63a55eaea8be71').initiliz
 
 
 
-<div id="help"><a href="/Deposit"><img alt="deposit" src="//static.energycasino.com/EnergyCasino/_files/images/en-cashier.png"></a></div>
+<div id="help" style="top: 255px;"><a href="/Deposit"><img alt="deposit" src="//static.energycasino.com/EnergyCasino/_files/images/en-cashier.png"></a></div>
 
 
+
+    <div id="promoCodeBox" style="top: 455px;">
+         <img class="big-promo-box-img" src="//static.energycasino.com/EnergyCasino/_files/apps/en-promo-code-btn.png">
+<img class="mini-promo-box-img" src="//static.energycasino.com/EnergyCasino/_files/apps/en-promo-code-mini.png">
+
+    </div> 
+
+    
+    <script language="javascript" type="text/javascript" src="//static.energycasino.com/apps/js/templates/promocodes.tp.js"></script>
+    <script language="javascript" type="text/javascript" src="//static.energycasino.com/apps/js/promocodes.js"></script>
+    
+    
+
+    
+
+<script language="javascript" type="text/javascript">
+    var siteJSON = siteJSON || {messages:{}};
+
+    
+
+siteJSON.messages.PromoCode_NotFound = 'Promocode not found';
+siteJSON.messages.PromoCode_WasUsed = 'Promo code was used';
+siteJSON.messages.PromoCode_isInactive = 'Promo code is inactive';
+siteJSON.messages.PromoCode_isInactiveE = 'Promo code is inactive (expired)';
+siteJSON.messages.PromoCode_PromoWasUsed = 'You used promo code from this promotion';
+siteJSON.messages.PromoCode_Right = 'Code is right';
+siteJSON.messages.PromoCode_Prompt = 'Give your promo code, to get extra bonus';
+siteJSON.messages.PromoCode_LoginRequired = 'Login or register to use promo codes.';
+siteJSON.messages.PromoCode_Wait = 'Wait, loading...';
+siteJSON.messages.PromoCode_Submit = 'Redeem';
+siteJSON.messages.PromoCode_YouGet = 'We added bonus to your account';
+siteJSON.messages.PromoCode_OtherBonus = 'You have other bonus on your account';
+
+siteJSON.messages.PromoCode_Login = 'Login';
+siteJSON.messages.PromoCode_Register = 'Register';
+
+
+siteJSON.messages.Award_NeedHelp = 'Need help? ';
+siteJSON.messages.Award_YourCurrent = 'Your current';
+siteJSON.messages.Award_PointsBalance = '&amp;nbsp; ';
+siteJSON.messages.Award_Price = 'Price';
+siteJSON.messages.Award_OrderNow = 'Order now';
+siteJSON.messages.Award_More = 'More...';
+siteJSON.messages.Award_Success = 'Your order has been accepted for processing. It shall arrive soon.';
+siteJSON.messages.Award_Confirm = 'Are you sure you want order that item? ';
+siteJSON.messages.Award_ConfirmYes = 'Yes';
+siteJSON.messages.Award_ConfirmNo = 'No';
+
+
+
+siteJSON.messages.Sidebar_ActivitiesTitle  = 'Activites';
+siteJSON.messages.Sidebar_TournamentsTitle = 'Tournaments';
+siteJSON.messages.Sidebar_ScreenshotTitle = 'Screenshot';
+
+siteJSON.messages.Screenshot_Waiting = 'You can\u0027t make screenshot now';
+siteJSON.messages.Screenshot_Error = 'Error, spin to try again';
+siteJSON.messages.Screenshot_Generate = 'Take a screenshot';
+siteJSON.messages.Screenshot_Loading = 'Loading... Wait a minute.';
+siteJSON.messages.Screenshot_SuccessDesc = '\u003Cp\u003E Here is your screenshot, share it with friends by copying link below.\u003C/p\u003E';
+siteJSON.messages.Screenshot_DirectLink = 'Direct link:';
+siteJSON.messages.Screenshot_BoardLink = 'BBcode for your favorite board';
+siteJSON.messages.Screenshot_BtnHide = 'I\u0027m done, hide this panel.';
+siteJSON.messages.Screenshot_ClickToOpen = 'click to show';
+
+siteJSON.messages.Notify_UserLogin = 'logged in, we wish him luck!';
+siteJSON.messages.Notify_UserStartedGame = 'started game';
+siteJSON.messages.Notify_MakeScreen = '\u003Cstrong\u003E %user% \u003C/strong\u003E made screenshot in game \u003Ca href=\u0022#\u0022\u003E%item%\u003C/a\u003E';
+siteJSON.messages.Notify_In = 'in';
+siteJSON.messages.Notify_Won = 'user \u003Cstrong\u003E%user%\u003C/strong\u003E won \u003Cspan class=\u0022highlight\u0022\u003E%value%\u003C/span\u003E in \u003Ca href=\u0022#\u0022\u003E%item%\u003C/a\u003E';
+siteJSON.messages.Notify_Freespins = 'has free spins: ';
+siteJSON.messages.Notify_BuyShop = 'buy in shop: ';
+
+siteJSON.messages.Notify_Tournament = 'user \u003Cstrong\u003E%user%\u003C/strong\u003E get \u003Cspan class=\u0022highlight\u0022\u003E%value%\u003C/span\u003E place in \u003Ca href=\u0022#\u0022\u003E%item%\u003C/a\u003E';
+siteJSON.messages.Notify_TournamentGame = 'user \u003Cstrong\u003E%user%\u003C/strong\u003E won \u003Cspan class=\u0022highlight\u0022\u003E%win%\u003C/span\u003E, and get \u003Cspan class=\u0022highlight\u0022\u003E%place%\u003C/span\u003E place in \u003Ca href=\u0022#\u0022\u003E%tour%\u003C/a\u003E while playing \u003Ca href=\u0022#\u0022\u003E%game%\u003C/a\u003E';
+
+siteJSON.messages.Timedelta_Days = 'days';
+siteJSON.messages.Timedelta_Hours = 'hours';
+siteJSON.messages.Timedelta_Minutes = 'minutes';
+
+
+siteJSON.messages.Tournament_Name = 'name:';
+siteJSON.messages.Tournament_Ends_In = 'Ends in: ';
+siteJSON.messages.Tournament_Members = 'participants:';
+siteJSON.messages.Tournament_Details = 'details:';
+siteJSON.messages.Tournament_YoursRank = 'Your rank: ';
+siteJSON.messages.Tournament_Join = 'Join';
+siteJSON.messages.Tournament_Award = 'award:';
+siteJSON.messages.Tournament_Loading = 'Loading...';
+siteJSON.messages.Tournament_NoTournaments = 'Nie ma tourniej\u00F3w dla tej gry. Id\u017A do \u003Ca href=\u0022/tournaments\u0022\u003Etournaments page\u003C/a\u003E by znale\u017A\u0107 aktywne turnieje.';
+
+
+</script>
+
+<script language="javascript" type="text/javascript">
+    var siteJSON = {username:'', messages:{}}; 
+
+    siteJSON.messages.Pofile_acceptNewTermsMsg = 'Terms & Conditions have changed!<br /><br />Before you can proceed you must accept the <a href="/TermsConditions/">new Terms &amp; Conditions</a>. (By clicking accept you agree automatically to follow up with new rules)<br /><br />If you do not accept the newest version of <a href="/TermsConditions/">Terms &amp; Conditions</a> you will not be able to log into the service.';
+    siteJSON.messages.Pofile_acceptNewTermsButton = 'I accept new Terms & Conditions';
+
+
+
+
+   siteJSON.isInitialized = false;
+
+
+        jQuery.getScript('/node/web/usermng/initialize/?language=en&username=');
+
+    
+</script>
 
 
 
@@ -658,8 +866,8 @@ $(document).ready( function() { $('#_32840cbef3a841839c63a55eaea8be71').initiliz
                     }
                 },
         hide: function(){
-                    this.overlay.css("display","none").find('.messageec').text('');
-                    this.overlay.find('.confirm-btn a').text('OK');
+                    $('#message-overlay').css("display","none").find('.messageec').text('');
+                    $('#message-overlay').find('.confirm-btn a').text('OK');
                 },
         clickListener: null
     }
@@ -691,38 +899,91 @@ $(document).ready( function() { $('#_32840cbef3a841839c63a55eaea8be71').initiliz
 
 
 
+
+
 <script language="javascript" type="text/javascript">
     var siteJSON = siteJSON || {messages:{}};
 
     
 
-siteJSON.messages.PromoCode_NotFound = 'promocode not found';
-siteJSON.messages.PromoCode_WasUsed = 'promo code was used';
-siteJSON.messages.PromoCode_isInactive = 'promo code is inactive';
-siteJSON.messages.PromoCode_isInactiveE = 'promo code is inactive (expired)';
-siteJSON.messages.PromoCode_PromoWasUsed = 'you used promo code from this promotion';
-siteJSON.messages.PromoCode_Right = 'code is right';
+siteJSON.messages.PromoCode_NotFound = 'Promocode not found';
+siteJSON.messages.PromoCode_WasUsed = 'Promo code was used';
+siteJSON.messages.PromoCode_isInactive = 'Promo code is inactive';
+siteJSON.messages.PromoCode_isInactiveE = 'Promo code is inactive (expired)';
+siteJSON.messages.PromoCode_PromoWasUsed = 'You used promo code from this promotion';
+siteJSON.messages.PromoCode_Right = 'Code is right';
 siteJSON.messages.PromoCode_Prompt = 'Give your promo code, to get extra bonus';
-siteJSON.messages.PromoCode_LoginRequired = 'you must login, to use promo codes';
+siteJSON.messages.PromoCode_LoginRequired = 'Login or register to use promo codes.';
 siteJSON.messages.PromoCode_Wait = 'Wait, loading...';
 siteJSON.messages.PromoCode_Submit = 'Redeem';
 siteJSON.messages.PromoCode_YouGet = 'We added bonus to your account';
+siteJSON.messages.PromoCode_OtherBonus = 'You have other bonus on your account';
+
+siteJSON.messages.PromoCode_Login = 'Login';
+siteJSON.messages.PromoCode_Register = 'Register';
 
 
 siteJSON.messages.Award_NeedHelp = 'Need help? ';
 siteJSON.messages.Award_YourCurrent = 'Your current';
-siteJSON.messages.Award_PointsBalance = '&nbsp; ';
+siteJSON.messages.Award_PointsBalance = '&amp;nbsp; ';
 siteJSON.messages.Award_Price = 'Price';
 siteJSON.messages.Award_OrderNow = 'Order now';
 siteJSON.messages.Award_More = 'More...';
 siteJSON.messages.Award_Success = 'Your order has been accepted for processing. It shall arrive soon.';
+siteJSON.messages.Award_Confirm = 'Are you sure you want order that item? ';
+siteJSON.messages.Award_ConfirmYes = 'Yes';
+siteJSON.messages.Award_ConfirmNo = 'No';
+
+
+
+siteJSON.messages.Sidebar_ActivitiesTitle  = 'Activites';
+siteJSON.messages.Sidebar_TournamentsTitle = 'Tournaments';
+siteJSON.messages.Sidebar_ScreenshotTitle = 'Screenshot';
+
+siteJSON.messages.Screenshot_Waiting = 'You can\u0027t make screenshot now';
+siteJSON.messages.Screenshot_Error = 'Error, spin to try again';
+siteJSON.messages.Screenshot_Generate = 'Take a screenshot';
+siteJSON.messages.Screenshot_Loading = 'Loading... Wait a minute.';
+siteJSON.messages.Screenshot_SuccessDesc = '\u003Cp\u003E Here is your screenshot, share it with friends by copying link below.\u003C/p\u003E';
+siteJSON.messages.Screenshot_DirectLink = 'Direct link:';
+siteJSON.messages.Screenshot_BoardLink = 'BBcode for your favorite board';
+siteJSON.messages.Screenshot_BtnHide = 'I\u0027m done, hide this panel.';
+siteJSON.messages.Screenshot_ClickToOpen = 'click to show';
+
+siteJSON.messages.Notify_UserLogin = 'logged in, we wish him luck!';
+siteJSON.messages.Notify_UserStartedGame = 'started game';
+siteJSON.messages.Notify_MakeScreen = '\u003Cstrong\u003E %user% \u003C/strong\u003E made screenshot in game \u003Ca href=\u0022#\u0022\u003E%item%\u003C/a\u003E';
+siteJSON.messages.Notify_In = 'in';
+siteJSON.messages.Notify_Won = 'user \u003Cstrong\u003E%user%\u003C/strong\u003E won \u003Cspan class=\u0022highlight\u0022\u003E%value%\u003C/span\u003E in \u003Ca href=\u0022#\u0022\u003E%item%\u003C/a\u003E';
+siteJSON.messages.Notify_Freespins = 'has free spins: ';
+siteJSON.messages.Notify_BuyShop = 'buy in shop: ';
+
+siteJSON.messages.Notify_Tournament = 'user \u003Cstrong\u003E%user%\u003C/strong\u003E get \u003Cspan class=\u0022highlight\u0022\u003E%value%\u003C/span\u003E place in \u003Ca href=\u0022#\u0022\u003E%item%\u003C/a\u003E';
+siteJSON.messages.Notify_TournamentGame = 'user \u003Cstrong\u003E%user%\u003C/strong\u003E won \u003Cspan class=\u0022highlight\u0022\u003E%win%\u003C/span\u003E, and get \u003Cspan class=\u0022highlight\u0022\u003E%place%\u003C/span\u003E place in \u003Ca href=\u0022#\u0022\u003E%tour%\u003C/a\u003E while playing \u003Ca href=\u0022#\u0022\u003E%game%\u003C/a\u003E';
+
+siteJSON.messages.Timedelta_Days = 'days';
+siteJSON.messages.Timedelta_Hours = 'hours';
+siteJSON.messages.Timedelta_Minutes = 'minutes';
+
+
+siteJSON.messages.Tournament_Name = 'name:';
+siteJSON.messages.Tournament_Ends_In = 'Ends in: ';
+siteJSON.messages.Tournament_Members = 'participants:';
+siteJSON.messages.Tournament_Details = 'details:';
+siteJSON.messages.Tournament_YoursRank = 'Your rank: ';
+siteJSON.messages.Tournament_Join = 'Join';
+siteJSON.messages.Tournament_Award = 'award:';
+siteJSON.messages.Tournament_Loading = 'Loading...';
+siteJSON.messages.Tournament_NoTournaments = 'Nie ma tourniej\u00F3w dla tej gry. Id\u017A do \u003Ca href=\u0022/tournaments\u0022\u003Etournaments page\u003C/a\u003E by znale\u017A\u0107 aktywne turnieje.';
+
+
 </script>
 
 <script type="text/javascript">  var _gaq = _gaq || [];  _gaq.push(['_setAccount', 'UA-38697552-1']);  _gaq.push(['_trackPageview']);  (function() {    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);  })();</script>
 
 
 
-<script type="text/javascript">//<![CDATA[
+<script>//<![CDATA[
 ;var isIE6=/msie 6/i.test(navigator.userAgent);if(isIE6){alert("You are using Internet Explorer 6, some of the features may not be available, and we recommend that you upgrade your Internet Explorer to a higher version for an improved experience.");}try{var arrCookie=document.cookie.split(";");for(var i=0;i<arrCookie.length;i++){var arr=arrCookie[i].split("=");if("_ser"==arr[0].replace(/(^\s*)|(\s*$)/g,"")){var endIndex=arr[1].indexOf(";");if(endIndex==-1){endIndex=arr[1].length;}var sessionExitReason=unescape(arr[1].substring(arr[1],endIndex));var expDate=new Date();expDate.setDate(expDate.getDate()-1);document.cookie="_ser=0; expires="+expDate.toGMTString()+";path=/; domain=energycasino.com";var msg="";switch(sessionExitReason){case"Expired":msg="You have been inactive for too long and your session has timed out. For security reasons you have been logged out automatically.\u000APlease click OK to log in again.";break;case"Reentry":msg="You have been disconnected as someone has signed in with your account in another place.\u000A\u000APlease note that if this was not intentional, someone may have stolen your password and we suggest change it immediately.";
 break;case"IPChanged":msg="You have been disconnected as your IP address was changed since your last login.";break;case"LimitExceeded":msg="You have been disconnected as your session time limitation is reached.";break;}if(msg.length>0){alert(msg);}}}}catch(e){}$(function(){$(document).bind("BALANCE_UPDATED",function(){try{top.reloadBalance();}catch(e){}});});
 
