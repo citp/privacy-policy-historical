@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsp1.com privacy policy that was archived on 2012-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120302234902id_/http%3A//newsp1.kbm.wpcdn.arcostream.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsp1.com privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402155319id_/http%3A//www.newsp1.com/privacy) for the most accurate reproduction.*
 
-# Privacy | News Page 1
+# PrivacyNews Page One | News Page One
 
 News Page 1 takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
 
