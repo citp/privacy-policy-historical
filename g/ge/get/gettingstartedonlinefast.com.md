@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gettingstartedonlinefast.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014233553id_/http%3A//www.gettingstartedonlinefast.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettingstartedonlinefast.com privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402024559id_/http%3A//www.gettingstartedonlinefast.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for GettingStartedOnlineFast.com
 
