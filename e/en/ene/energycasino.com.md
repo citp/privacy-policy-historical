@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energycasino.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809002203id_/https%3A//energycasino.com/TermsConditions/Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energycasino.com privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402205908id_/https%3A//energycasino.com/TermsConditions/Privacypolicy) for the most accurate reproduction.*
 
 # Terms & Conditions
 
