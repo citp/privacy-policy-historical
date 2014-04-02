@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oceanspray.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127051732id_/http%3A//www.oceanspray.com/Footer/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oceanspray.com privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402215221id_/http%3A//oceanspray.com/Footer/Privacy.aspx) for the most accurate reproduction.*
 
 # Home | Ocean Spray
 
@@ -12,9 +12,8 @@ Ocean Spray Consumer Affairs Department
 Ocean Spray Cranberries, Inc.  
 One Ocean Spray Drive  
 Lakeville-Middleboro, MA 02349  
-1-800-662-3263  
- 
+1-800-662-3263
 
-### Ideas Submission Policy
+###  Ideas Submission Policy
 
-Ocean Spray does not accept unsolicited ideas and submissions for products, packaging, marketing, advertising, research, or business operations. Should you ignore this policy and submit an idea, you agree that the idea becomes and remains the sole and exclusive property of Ocean Spray without further compensation.
+Ocean Spray does not accept unsolicited ideas and submissions for products, packaging, marketing, advertising, research, or business operations. Should you ignore this policy and submit an idea, you agree that the idea becomes and remains the sole and exclusive property of Ocean Spray without further compensation. 
