@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nc.gov privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120205131id_/http%3A//nc.gov/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nc.gov privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402153449id_/http%3A//nc.gov/privacy.aspx) for the most accurate reproduction.*
 
 # NC.gov: Privacy
 
