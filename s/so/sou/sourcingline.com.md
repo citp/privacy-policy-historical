@@ -1,56 +1,74 @@
-> *The following text is extracted and transformed from the sourcingline.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118210926id_/http%3A//www.sourcingline.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcingline.com privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402041741id_/https%3A//www.sourcingline.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | SourcingLine
 
-SourcingLine takes your privacy seriously. Please read the following to learn more about how your private information is protected, collected and used. This policy may be updated by SourcingLine from time to time. SourcingLine will provide notice of materially significant changes to this privacy policy by posting notice on the SourcingLine site.
+Last revised on January 1, 2014
 
-**1\. Coverage**  
-This policy covers how SourcingLine treats personal information that SourcingLine collects and receives, including information related to your past use of SourcingLine. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. This policy does not apply to the practices of companies that SourcingLine does not own or control or to people that SourcingLine does not employ or manage.
+The mission of SourcingLine is to connect buyers and sellers of business services. To achieve our mission, we make services available through our website to assist buyers in identifying prospective service providers and leaving reviews, and we assist service providers in marketing their companies and services.
 
-**2\. General**  
-SourcingLine collects personal information when you register with SourcingLine, when you edit your account information, add optional information to your, and when you visit SourcingLine pages or the pages of certain SourcingLine partners.
+We protect your personal information and will only provide it to third parties:
 
-a) When you register we ask for information such as your name, email address, phone number, country, zip/postal code, state, city, and company. You may edit or update this information on your account page.
+  * With your consent;
+  * Where it is necessary to carry out your instructions;
+  * As reasonably necessary in order to provide SourcingLine features and functionality to you;
+  * As we reasonably believe is permitted by law or regulation; or
+  * As necessary to enforce our User Agreement or protect the rights, property, or safety of SourcingLine, its users, and the public.
+  * We have implemented appropriate security safeguards designed to protect your information in accordance with industry standards.
 
-b) As a prospective buyer using offerings on our site (such as our Get Proposals service) to receive information from or about provider, you are required to provide additional information so SourcingLine can deliver these services to you. This includes registration information and information on your purchasing needs and requirements. The information collected varies according to the different purchasing categories and can be viewed by visiting the different forms located throughout our site.
 
-c) As a provider using offerings on our site, you must provide information that allows us to deliver our service to you. This includes your contact information, information about your desired target markets, and billing information. Providers may also add option information to their company profile. Optional information for provider company profiles includes company name, location, size, technical focus, industry focus, key words, services, references, credentials and payment terms. The company profile will be visible to all other users.
 
-d) When you register with SourcingLine and sign in to our services, you are not anonymous. SourcingLine collects information about your transactions with us and with some of our business partners. SourcingLine automatically receives and records information on our server logs from your browser, including your IP address, SourcingLine cookie information, and the pages you request. SourcingLine may use information for the following general purposes: to customize the advertising and content you see, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
+We may modify this Privacy Policy from time to time, and if we make material changes to it, we will provide notice through our website or other services (“SourcingLine” or “Service”) or by other means so that you may review the changes before you continue to use SourcingLine. If you object to any changes, you may stop using the Service and close your account. Continuing to use SourcingLine after we publish or communicate a notice about any changes to this Privacy Policy means that you are consenting to the changes.
 
-**3\. Information Sharing and Disclosure**  
-SourcingLine does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under certain other circumstances detailed below:
+### Information We Collect
 
-a) Information Shared with Prospective Buyers - To facilitate our business of matching buyers and providers, prospective buyers using our services will be provided information about providers relevant to the buyer's request or inquiry. This includes provider contact information, company background information, and ratings or reviews.
+Our Privacy Policy applies to anyone using the SourcingLine Website. The personal information provided to or gathered by SourcingLine is controlled by SourcingLine, 1200 18th Street, NW, Suite 700, Washington, DC 20036. If you have any concern about providing information to us or having such information displayed on the SourcingLine services or otherwise used in any manner permitted in this Privacy Policy and the User Agreement, you should not use the Website or register on SourcingLine. If you have already registered, you should close your account.
 
-b) Information Shared with Providers - Providers, whose products or services are relevant to a prospective buyer's request, will be provided with that prospective buyer's information. This may include prospective buyer's name, email address, telephone number, city, state, country, and purchasing needs and requirements. In addition, providers may receive information about buyers in a manner that does not disclose personally identifiable information.
+We collect information when you use the SourcingLine website or participate in our research process. When you create an account with us, you provide us with personal information (including your name and email address) either directly or via your LinkedIn account. You understand that, by creating an account, SourcingLine and others will be able to identify you by your SourcingLine user profile, and you allow SourcingLine to use this information in accordance with this Privacy Policy and our User Agreement. We may also ask for your credit card details if you purchase certain SourcingLine services.
 
-c) We may provide the information to trusted partners who work on behalf of or with SourcingLine under confidentiality agreements. These companies may use your personal information to help SourcingLine communicate with you about offers from SourcingLine and our marketing partners. However, these companies do not have any independent right to share this information.
+You may also share personal information of other individuals (e.g. clients) such as name, email, phone number and company to support our reference check and review process. You should obtain the consent of other individuals prior to providing SourcingLine with their personal information. Client personal information is only used in the reference check and review process and is managed in accordance with other personal information collected by SourcingLine. Note, when we publish reviews, your clients have the option of keeping their review anonymous or being identified on the review (full name, title, company, photograph, etc.).  
 
-d) We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of SourcingLine's User Agreement, or as otherwise required by law.
+We use cookies and similar technologies to help us recognize you, improve your SourcingLine experience, increase security, and measure use of our Services. You can control cookies through your browser settings and other tools. By visiting SourcingLine, you consent to the placement of cookies and beacons in your browser in accordance with this Privacy Policy.
 
-e) SourcingLine offers an external profile feature which allows users to publish some or all of their SourcingLine profile, including your name, to the public Internet. Users may opt-out of this feature.
+We do not share personally identifiable information with any third-party advertiser or ad network, although your user profile is visible to other SourcingLine users and may be visible through public search. Additionally, SourcingLine currently does not share any personal information with third parties for their direct marketing purposes.
 
-f) We will transfer information about you if SourcingLine is acquired by or merged with another company. In this event, SourcingLine will notify you before information about you is transferred. SourcingLine may display targeted advertisements based on personal information. SourcingLine does not provide any personal information to the advertiser when you interact with or view a targeted ad.
+When you visit or leave SourcingLine by clicking a hyperlink we automatically receive the URL of the site from which you came or the one to which you are directed. Also, advertisers receive the URL of the page that you are on when you click an ad on SourcingLine. We also receive the internet protocol (“IP”) address of your computer or the proxy server that you use to access the web, your computer operating system details, your type of web browser, your mobile device (including your mobile device identifier provided by your mobile device operating system), your mobile operating system (if you are accessing SourcingLine using a mobile device), and the name of your ISP or your mobile carrier.
 
-**4\. Cookies**  
-SourcingLine may set and access SourcingLine cookies on your computer. SourcingLine may let other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies. Advertisers or other companies do not have access to SourcingLine cookies. SourcingLine may use web beacons to access SourcingLine cookies inside and outside our network of web sites and in connection with SourcingLine products and services.
+SourcingLine is a dynamic, innovative environment, which means we are always seeking to improve the services we offer you. We often introduce new features, some of which may result in the collection of new information. Furthermore, new partnerships or corporate acquisitions may result in new features, and we may potentially collect new types of information.
 
-**5\. Minors**  
-Minors (under the age of 18) are not eligible to use the Service and request minors do not submit any personal information or use the Service.
+### How We User Your Personal Information
 
-**6\. Communication from SourcingLine**  
-We reserve the right to send you certain communications relating to the SourcingLine service, such as service announcements and administrative messages that are considered part of your SourcingLine account, without offering you the opportunity to opt out of receiving them.
+When you join SourcingLine, you acknowledge that information you provide (user profile, company profile, reviews, etc.) can be seen by others and used by us as described in this Privacy Policy and our User Agreement.
 
-**7\. Account Information**  
-You can view and edit your account information by logging into your account and viewing/editing your account information. If you elect to close your account, you can do so by contacting customer service. After closing an account, your account and profile will be deactivated, but SourcingLine may retain your data in an archive to facilitate reinstatement of the account.
+By providing information to us when you create or update your account and profile, you are expressly and voluntarily accepting the terms and conditions of SourcingLine’s User Agreement and freely accepting and agreeing to our processing of your personal information in ways set out by this Privacy Policy. Supplying information to us, including any information deemed “sensitive” by applicable law, is entirely voluntary on your part. You have the right to withdraw or modify your consent to SourcingLine’s collection and processing of the information you provide at any time, in accordance with the terms of this Privacy Policy and the User Agreement, by changing your settings, changing your user profile, changing other submitted data (company profile, reviews, etc.), or by closing your account.
 
-**8\. Anti-spam Service**  
-SourcingLine uses a service from Mollom to combat spam on a number of forms (e.g. registration forms, comment forms, etc.). By using our service you accept that your content and other personal details about you will be analyzed and stored for anti-spam and quality monitoring purposes, in accordance with Mollom's [privacy policy](http://mollom.com/web-service-privacy-policy).
+We communicate with you through email, notices posted on the SourcingLine website, and other means available through the Service. Examples of these messages include: (1) welcome and engagement messages - when you register on SourcingLine, we may send you a series of emails to inform you about how to best use SourcingLine as well as new features; (2) service messages – these will cover service availability, security, and other issues about the functioning of SourcingLine; (3) promotional messages –may contain promotional information directly or on behalf of our partners.
 
-**9\. Comments and Suggestions**  
-If you have questions or comments about this privacy policy, please email us via the contact us page or at the following address:
+Any information you put on your user profile and any content you post on SourcingLine may be seen by others. We don’t provide any of your non-public information (like your email address) to third parties without your consent, unless required by law, or as described in this Policy.
 
-Attn: SourcingLine Privacy Policy  
-1753 Kilbourne Place, NW  
-Washington, DC 20010
+Posting content on SourcingLine may result in displaying some of your personal information outside of SourcingLine. For example, when you post a Review, your content, including your name as the contributor, may be displayed in search engine results.
+
+If you provide any reviews or testimonials either about SourcingLine or Service Providers covered in our research we may post those reviews or testimonials or portions thereof in. Reviews or testimonials and advertisements may include your name, title, company and other personal information that you have provided.
+
+SourcingLine may share your information with third-party vendors or business partners who provide services or functions on our behalf, which may include business analytics, customer service, marketing, and fraud prevention. We may also authorize third-party vendors to collect information on our behalf, including as necessary to operate features of our website. Third-party vendors have access to and may collect information only as needed to perform their functions and are not permitted to share or use the information for any other purpose.
+
+We may also disclose your personal information to a third party as part of a sale of the assets of SourcingLine, a subsidiary, or division, or as the result of a change in control of the company or one of its affiliates, or in preparation for any of these events. Any third party to which SourcingLine transfers or sells SourcingLine’s assets will have the right to continue to use the personal and other information that you provide to us in the manner set out in this Privacy Policy.
+
+### Your Choices & Data Retention
+
+You have a right to (1) access, modify, correct, or delete your personal information controlled by SourcingLine regarding your user profile on the Service, (2) change or remove your content (company profile, portfolio items, reviews, etc.), and (3) close your account. You can also contact us for any account information which is not on your profile or readily accessible to you. If you close your account, your information will generally be removed or unpublished from the Service within 24 hours.
+
+Note, information that others have copied may remain visible and you may not be able to access, correct, or eliminate any information about you that others copied or exported out of SourcingLine, because this information may not be in our control. Your information may be displayed in search engine results until the search engine refreshes its cache.
+
+We keep your information for as long as your account is active or as needed. For example, we may keep certain information even after you close your account if it is necessary to comply with our legal obligations, meet regulatory requirements, resolve disputes, prevent fraud and abuse, enforce this agreement or as part of our Website data backup process. We may keep your data in an unpublished format on the Service or in backups of the Website.
+
+### Other Important Information
+
+We may change this Privacy Policy from time to time. If we make significant changes in the way we treat your personal information, or to the Privacy Policy, we will provide notice to you on the Service or by some other means, such as email. Please review the changes carefully. If you agree to the changes, simply continue to use our Service. If you object to any of the changes to our terms and you no longer wish to use SourcingLine, you may stop using the Service and close your account. Using SourcingLine after a notice of changes has been communicated to you or published on our Service shall constitute consent to the changed terms or practices.
+
+We have implemented security safeguards designed to protect the personal information that you provide in accordance with industry standards. Access to your data on SourcingLine is password-protected, and sensitive data (such as credit card information) is protected by SSL encryption when it is exchanged between your web browser and the SourcingLine Services and Partners (e.g. PayPal). We also offer secure https access to the website. To protect any data you store on our servers, we also regularly monitor our system for possible vulnerabilities and attacks. However, since the Internet is not a 100% secure environment, we cannot ensure or warrant the security of any information that you transmit to SourcingLine. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. It is your responsibility to protect the security of your login information. Please note that emails, instant messaging, and similar means of communication with other SourcingLine users are not encrypted, and we strongly advise you not to communicate any confidential information through these means. Please help keep your account safe by using a strong password.
+
+SourcingLine is a general audience site and does not offer services directed to audiences under the age of 18. Should an individual whom we know to be under age 18 send personal information to us, we will delete or destroy such information as soon as reasonably possible.
+
+SourcingLine uses a service from Mollom to combat spam on some. By using our service you accept that your content and other personal details about you will be analyzed and stored for anti-spam and quality monitoring purposes, in accordance with [Mollom's privacy policy](http://mollom.com/web-service-privacy-policy).
+
+If you have questions about this privacy policy, please [contact us](https://web.archive.org/contact).
