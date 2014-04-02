@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizwaremagic.com privacy policy that was archived on 2013-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131002194019id_/http%3A//www.bizwaremagic.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizwaremagic.com privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402231246id_/http%3A//www.bizwaremagic.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
