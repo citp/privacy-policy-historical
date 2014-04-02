@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the bitinfocharts.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124070803id_/http%3A//bitinfocharts.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitinfocharts.com privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402055906id_/http%3A//bitinfocharts.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
 ### Privacy policy
 
-**What information do we collect?**
-
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
-
 **Do we use cookies?**
 
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+**What information do we collect?**
+
+Google, as a third party vendor, uses cookies to serve ads on site. You may opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads). 
 
 **Do we disclose any information to outside parties?**
 
@@ -36,3 +36,5 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 http://bitinfocharts.com/  
 bitinfocharts@gmail.com
+
+Contact:    Donations: BTC 13KPgojUhg2Rx92WRJQDZR7vy2vegonHsf  /  DOGE D86cPCwS4CQEiXsTHU3r5fTXToujJsCmax    [Privacy Policy / Disclaimer](https://web.archive.org/privacypolicy.html)
