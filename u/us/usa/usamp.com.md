@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the usamp.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102203148id_/http%3A//www.usamp.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usamp.com privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402095459id_/http%3A//www.usamp.com/privacyPolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy | uSamp
-
-## Privacy Policy
+# Online Market Research | Global Market Research Panel | uSamp
 
 Thank you for your interest in the online surveys and solutions offered on the website www.usamp.com (the "Website") owned, operated, licensed or controlled by uSamp (United Sample, Inc.) (collectively "United Sample," "we," "our", or "us").
 
 We respect our users' ("users", "you" or "your") privacy. This privacy policy, effective January 2, 2010 applies to all users of the Website including members of survey panels created, maintained, and/or operated by United Sample and non-panel members participating in surveys offered, provided, hosted, or administered by United Sample. This privacy policy shall also apply to information collected by us through websites we maintain for our customers to the extent such website is under our control. We want to share with you how information that we receive or collect from you is processed, disclosed and used. By using the Website, you acknowledge your consent to this Privacy Policy. If you do not agree with the terms, do not use the Website.
 
-## What information do we collect? When?
+### What information do we collect? When?
 
 For the purposes of this Privacy Policy, "Personal Information" or "Personally Identifiable Information" shall mean any information that can identify or locate an individual, including, without limitation, an individuals' first and last name, residential address, email address, telephone number, race, age, gender and date of birth and "Demographic Information" shall mean demographic information including, without limitation, income, disabilities, educational attainment, home ownership, employment status, hobbies, interests, product ownership and location.
 
@@ -16,11 +14,11 @@ Please be assured that we do not collect any Personal Information from you, unle
 
 We may automatically collect certain non-personal information about your use of the Website whenever you access the Website. We might collect, among other things, information concerning the type of Internet browser or computer operating system you are using, the domain name of your Internet service provider, your "click path" through the Website, and the third-party web sites or advertisements linked to or from the Website that you visited. To do this, we may use cookies, clear gifs, frames, server log analysis and other technology. When you use or visit the Website, our servers log your IP address. We shall collect IP addresses for the purposes of providing our services, including, without limitation, system administration, troubleshooting, user compliance with our terms of service, investigating security breaches, and compiling non-personal information such as how many visitors logged on to the Website.
 
-## Cookies
+### Cookies
 
 The Website may contain "cookies." Cookies are bits of electronic information stored on a user’s hard drive to provide information needed by the user on a regular basis. They are often used to save website customizations and website login information. Clear gifs (also known as "web beacons") assist in the delivery of cookies. Most internet browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. You should refer to your browser instructions to learn more about how to manage cookies. However, please note that if you block cookies, some portions of the Website may not function properly. United Sample uses cookies to provide a better experience for individuals participating in surveys and limits the use of cookies for quality control and validation purposes. Cookies are used temporarily during the time individuals are actively completing a survey or filling out the registration forms and United Sample does not store or retain information collected by a cookie. We do not and cannot use cookies to retrieve individual personally identifying information about you from your computer unless you knowingly and willingly provide such information.
 
-## How do we use and share the information that we collect?
+### How do we use and share the information that we collect?
 
 All Personal Information and Demographic Information that we collect is stored and used to meet your requests and our legitimate business objectives in accordance with this Privacy Policy. Except as set forth in this Privacy Policy, we do not trade, share, rent, sell or give away information concerning you to third parties. As a general rule, United Sample uses Personal Information for the purpose of contacting and communicating with individuals in connection with their panel membership and/or their participation in a surveys, and uses Personal Information and Demographic Information to tailor and match survey invitations to individuals. We may also collect social security numbers of panel members for tax purposes in connection with incentive fulfillment. We may also use the information we collect from you for the purpose of providing you with technical support, customer service, and account maintenance. We may also use information to learn what you like, tailor your experience accordingly, and to improve the Website. United Sample will not use any Personal Information or Demographic Information for direct marketing or advertising purposes.
 
@@ -30,33 +28,33 @@ We may disclose your Personal Information or otherwise use such information to c
 
 United Sample may disclose or share Personal Information to authorized and approved agents, consultants, vendors and/or subcontractors of United Sample and/or of United Sample's clients (individually a **"Subcontractor"** and collectively the **"Subcontractors"** ) in connection with a Subcontractor's performance of services for United Sample and/or United Sample's clients. Prior to performing services, United Sample requires Subcontractors to agree in writing to protect and maintain the security and integrity of the Personal Information disclosed by United Sample and to use the Personal Information only in accordance with the specific purpose for which such Personal Information was disclosed by United Sample.
 
-## Change of control
+### Change of control
 
 In the event that another company acquires all or substantially all of the assets related to the Website, or if we experience some other change of control event such as merger, insolvency, bankruptcy or receivership, we reserve the right to include any or all Personal Information among the assets transferred to the acquiring company. United Sample will require the surviving entity in the case of a merger, or the acquiring entity in the case of an acquisition or sale, to agree in writing to protect and maintain the security and integrity of the transferred Personal Information in accordance with the applicable laws. We do not guarantee that any entity receiving such information in connection with any of these transactions will comply with all the terms of this policy.
 
-## Data security & integrity
+### Data security & integrity
 
 United Sample is committed to protecting the security and integrity of all Personal Information collected by, or disclosed to, United Sample and takes appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of such Personal Information. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. We also restrict access to Personal Information to our employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. We take reasonable steps to ensure that the Personal Information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
 
-## Accessing and updating personal information
+### Accessing and updating personal information
 
 We make good faith efforts to provide you with access to your Personal Information and to correct this data if it is inaccurate. Individuals may access their Personal Information in order to review, correct, or delete any Personal Information by accessing their individual membership account and following the instructions contained therein. We request individual users to identify themselves and the information requested to be accessed or corrected before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical, or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort.
 
-## Opting-out of panels
+### Opting-out of panels
 
 If a panel member desires to end his or her membership with an United Sample panel, such panel member may terminate his or her membership by (a) following the instructions set forth in their membership account, or (b) sending an email request to support@usamp.com. Upon opting out of panel membership, United Sample will deactivate the applicable membership account and the individual will not receive any further survey invitations; although the individual may continue to receive some previously prepared survey invitations for a few days following the termination of membership. United Sample will retain the Personal Information of a terminating member for an indefinite period of time; however, United Sample will continue to protect such Personal Information in accordance with this Privacy Policy.
 
-## Compliance
+### Compliance
 
 We strive to conform our privacy practices, policies and/or procedures with applicable laws, regulations and rules and the industry codes, standards and regulations of various market and opinion research professional associations and/or organisations, including without limitation the ICC/ESOMAR International Code on Market and Social Research and the Code of Standards and Ethics for Survey Research of the Council of American Survey Research Organizations ("CASRO"), with whom United Sample is a member.
 
-## DIGITAL FINGERPRINTING
+### DIGITAL FINGERPRINTING
 
 Digital fingerprinting technologies assign a unique identifier to a user's computer to identify and track the computer.
 
 United Sample will not use digital fingerprinting to collect Personal Information, or track the online activities, of the user of a computer; and will not disrupt or interfere with the use or control of a computer or alter, modify or change the settings or functionality of a computer. United Sample will use digital fingerprinting to assist United Sample's clients in ensuring the integrity of survey results. In furtherance of United Sample's efforts to assist its clients in protecting and ensuring the integrity of survey results, United Sample (a) may link or associate your unique identifier to you and any of your Personal Information; (b) may share your unique identifier with United Sample's clients and with other sample or panel providers; and (c) may receive or obtain a unique identifier linked to you from a related or unrelated third party. Any unique identifier received or obtained by United Sample and linked to a specific individual will be protected in accordance with this Privacy Policy. United Sample shall use digital fingerprinting in a professional and ethical manner and in accordance with (a) United Sample's privacy policy, (b) any statements and/or disclosures made by United Sample to respondents, and (c) applicable laws and industry codes.
 
-## Children's privacy protection
+### Children's privacy protection
 
 United Sample complies with the Children's Online Privacy Protection Act and all other applicable laws and regulations concerning children and the Internet.
 
@@ -68,11 +66,11 @@ Because the Website and surveys are not directed to children under the age of 13
 
 If you are a parent or guardian who has discovered that your child has submitted his or her personal information without your permission or consent, United Sample will take reasonable steps to remove that information from the its database at your request. To request removal of your child’s information, please send us an e-mail at support@usamp.com and be sure to include in your message the same user name, password, and e-mail address that your child submitted.
 
-## Third-party websites and advertisements
+### Third-party websites and advertisements
 
 Third-party websites and advertisements with links to and from the Website may collect Personal Information about users. You should be aware that these third-party websites have their own information collection practices and privacy policies. If you click on a third-party advertisement or link, the privacy policies of the third-party web site that you link to will govern the collection and use of your information by that web site’s operator. This Privacy Policy does not extend to these third-party web sites and advertisements. Please refer directly to these third-party web sites regarding their privacy policies. We assume no responsibility or liability for the actions of such third parties with respect to their use of your information or otherwise. Accordingly, please make sure you are aware of and comfortable with the privacy policies of any third-party web sites to which you follow a link. Also, we do not control cookies in third-party advertisements, and users are encouraged to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. We also do not endorse the third party websites or any products or services advertised, offered and/or sold by, through or in connection with the third party websites.
 
-## ENFORCEMENT
+### ENFORCEMENT
 
 United Sample is committed to working with individuals to obtain a fair resolution to any complaints or disputes about privacy and Personal Information. United Sample's commitment to privacy is demonstrated and documented by our internal Privacy Compliance Officer, by our adherence to the applicable Laws and Codes, and by our compliance with the Safe Harbor Principles. Any complaints or concerns about this Privacy Policy should be sent via regular mail, postage prepaid, addressed to:
 
@@ -80,6 +78,6 @@ uSamp (United Sample, Inc.)
 16501 Ventura Blvd., Suite 300  
 Encino, CA 91436
 
-## Changes to the policy
+### Changes to the policy
 
 By agreeing to participate in United Sample's research services or to become a United Sample panel member, you signify your acceptance of the terms and conditions of this Privacy Policy. United Sample hereby reserves the right to make changes to this Privacy Policy, from time to time, and United Sample will post such changes on the Website for you to review on a regular basis. Your continued participation in United Sample's research services, or continued membership as a panel member, after United Sample revises this Privacy Policy constitutes your acceptance of this Privacy Policy, as amended.
