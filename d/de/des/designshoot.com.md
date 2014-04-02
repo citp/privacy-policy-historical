@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designshoot.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111085707id_/http%3A//www.designshoot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designshoot.com privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402155434id_/http%3A//www.designshoot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Design Inspiration and Resource
 
