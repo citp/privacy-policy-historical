@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazingpass.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807004021id_/http%3A//www.amazingpass.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazingpass.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403135729id_/http%3A//www.amazingpass.com/privacy.html) for the most accurate reproduction.*
 
 # Amazingpass - Our privacy policy
 
@@ -17,4 +17,4 @@ As soon as the subscriber uses the website, the subscriber agrees that DXcreator
 **Our Commitment To Data Security**  
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place reasonable and appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20130807004021id_/http%3A//www.amazingpass.com/contact.php) . 
+Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20140403135729id_/http%3A//www.amazingpass.com/contact.php) . 
