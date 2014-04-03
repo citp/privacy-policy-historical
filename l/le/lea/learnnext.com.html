@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the learnnext.com privacy policy that was archived on 2013-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131122131558id_/http%3A//www.learnnext.com/user/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the learnnext.com privacy policy that was archived on 2014-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140403223853id_/http%3A//www.learnnext.com/user/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" webkit chrome linux js webkit chrome linux js"><head>
 <style type="text/css">
@@ -390,6 +390,8 @@ var callFromShowHide = false;
 
 
 
+
+
 <script type="text/javascript" src="/template/qxhtml/validation.js"></script>
 
 <script>
@@ -527,13 +529,13 @@ $(function(){
  </div>
     <div id="menu">
   
-    	<ul class="dropdown">
+    	<ul class="dropdown" style="width: 745px">
     		<li class="seperator">&nbsp;</li>
-        	<li id="nav-home" style="margin-left: 0px;"><a href="/" style="padding: 4px 17px 6px 17px;">Home</a></li>
+        	<li id="nav-home" style="margin-left: 0px;"><a href="/" style="padding: 4px 14px 6px 14px;">Home</a></li>
         	<li class="seperator">&nbsp;</li>
-            <li id="nav-what"><a href="/user/whatisLearnNextNew.htm" style="padding: 4px 17px 6px 17px;">What is LearnNext?</a></li>
+            <li id="nav-what"><a href="/user/whatisLearnNextNew.htm" style="padding: 4px 14px 6px 14px;">What is LearnNext?</a></li>
             <li class="seperator">&nbsp;</li>
-            <li id="nav-lnonline" class="lnOnline"><a href="/client/lnOnline.htm" style="padding: 4px 15px 6px 14px !important;">Learn&nbsp;Online</a>
+            <li id="nav-lnonline" class="lnOnline"><a href="/client/lnOnline.htm" style="padding: 4px 14px 6px 14px !important;">Learn&nbsp;Online</a>
             	<ul class="sub_menu">
         			 <li class="dir"><a href="#">CBSE</a>
         			 <ul>
@@ -750,18 +752,24 @@ $(function(){
                 </li>
                 
             <li class="seperator seperator1">&nbsp;</li>
-            <li id="nav-library" class="libraryIe6"><a href="/Library.htm" style="padding: 4px 17px 6px 17px;">Library</a></li>
+            <li id="nav-library" class="libraryIe6"><a href="/Library.htm" style="padding: 4px 14px 6px 14px;">Library</a></li>
             <li class="seperator seperator2">&nbsp;</li>
-            <li id="nav-free" class="freetrailIe6"><a href="/user/whatFree.htm" style="padding: 4px 17px 6px 17px;">Free Trial</a></li>
+            <li id="nav-free" class="freetrailIe6"><a href="/user/whatFree.htm" style="padding: 4px 14px 6px 14px;">Free Trial</a></li>
             <li class="seperator seperator3">&nbsp;</li>
             <li id="nav-subscribe" class="subscribeIe6"> 
-  <a href="/user/buy.htm" style="padding: 4px 17px 6px 17px;">Purchase</a>
+  <a href="/user/buy.htm" style="padding: 4px 14px 6px 14px;">Purchase</a>
  </li>
  <li class="seperator seperator4">&nbsp;</li>
  <img src="/media/images/newimg.png" class="new">         
- <li id="nav-qa"><a href="/answers/home.htm" style="padding: 4px 17px 6px 17px;">Q&amp;A</a></li>
+ <li id="nav-qa"><a href="/answers/home.htm" style="padding: 4px 14px 6px 14px;">Q&amp;A</a></li>
  <li class="seperator seperator5">&nbsp;</li>
-  <li id="nav-quiz"><a href="/user/quizResultLogin.htm">Quiz</a></li>
+ <img src="/media/images/newimg.png" class="newText">
+  <li id="nav-quiz" class="assessmentslist"><a href="/user/landLiveAssessments.htm" style="padding: 4px 14px 6px 14px;">Assessments</a>
+  <ul class="assementsmenu">
+  	<li><a href="/user/landLiveAssessments.htm" style="width: 115px;">What is Assessment?</a></li>
+  	<li><a href="/user/liveTestHome.htm" style="width: 115px;">Launch Assessments</a></li>
+  </ul>
+  </li>
    <li class="seperator seperator5">&nbsp;</li>
         </ul>
         
@@ -1144,6 +1152,19 @@ With respect to network advertising companies (companies that manage and provide
 				
                
             }
+   /*This function is used for LeaderBoard jsp and q2aHome jsp as well as for (ask-a-question)*/
+   function ask_loginpopup()
+   {
+   	var currentUser = '';
+   	if(currentUser == null || currentUser == 0 || currentUser == ''){
+   		$("#loginalert_popup").lightbox_me({centered: true, onLoad: function() {
+   				$("#loginalert_popup").find("input:first").focus();
+   		}});
+   	}else{
+   		location.href = '/answers/ask-a-question.htm';
+   	}
+   	return true;
+   }
 </script>
 
 <script type="text/javascript">
