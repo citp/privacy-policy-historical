@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfreeporn.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828055153id_/http%3A//www.cfreeporn.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfreeporn.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403223222id_/http%3A//www.cfreeporn.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
