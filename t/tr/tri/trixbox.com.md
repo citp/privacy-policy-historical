@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trixbox.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207003619id_/http%3A//www.trixbox.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trixbox.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403150700id_/https%3A//trixbox.com/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Fonality trixbox | The Open Platform for Business Telephony
 
