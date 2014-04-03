@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the movoto.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610081220id_/http%3A//www.movoto.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movoto.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403213909id_/http%3A//www.movoto.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Movoto Real Estate - Privacy Policy
 
+Our Privacy Policy 
+
 Movoto takes your privacy seriously. At Movoto we created this policy to demonstrate our commitment to ensuring that your personal information remains safe and secure. For information about safe surfing from the FTC, see [http://www.ftc.gov](http://www.ftc.gov/). 
+
+Scope
 
 This policy applies to the Movoto website(s) and our interactions with Movoto clients and covers how Movoto collects and treats information that is personally identifiable, like name, address, email address or phone number. At its sole discretion, Movoto will update this privacy policy statement from time to time. You are responsible for regularly reviewing this Privacy Policy and any applicable changes. Continued use of the service after any changes take effect will constitute your acceptance of such changes. You can review the current version of this Privacy Policy at any time at [http://www.movoto.com](http://www.movoto.com/). 
 
@@ -24,7 +28,7 @@ We currently contract with several online partners to help manage and optimize o
 
 When appropriate, we will ask for information that personally identifies you (personal information) or allows us to contact you. Generally, this information will be requested when you register for a Movoto account, perform property searches, or request other information through our site. Movoto uses this information for the purpose of fulfilling your requests for products and services, improving our services, conducting research, and customizing the content and advertising you see. 
 
-When you provide your personal information to Movoto, you agree that Movoto may use that information to contact you. For example, we may send you e-mail communications related to real estate information, services or products that we believe may be of interest to you. Similarly, if you provide your phone number we may call you to discuss a request for information or to introduce you to a real estate professional. If you do not want to receive such e-mails or phone calls from Movoto, contact us at [movoto.privacy@gmail.com](mailto:movoto.privacy@gmail.com "mailto:movoto.privacy@gmail.com") or click on the "opt-out" or "Manage My Account" link contained in the e-mails. 
+When you provide your personal information to Movoto, you agree that Movoto may use that information to contact you. For example, we may send you e-mail communications related to real estate information, services or products that we believe may be of interest to you. Similarly, if you provide your phone number we may call you to discuss a request for information or to introduce you to a real estate professional. If you do not want to receive such e-mails or phone calls from Movoto, contact us at [](mailto:customercare@movoto.com "mailto:customercare@movoto.com") or click on the "opt-out" or "Manage My Account" link contained in the e-mails. 
 
 Movoto maintains a company Do-Not-Call List in compliance with California and Federal laws. For a copy of Movoto's Do Not Call Policy, please see section 5 below. 
 
@@ -34,7 +38,7 @@ Movoto does not rent, sell, or share personal information about you with other p
 
 **III. Your ability to change your privacy settings  
 **   
-You may opt out of receiving e-mails, e-mail updates and alerts and phone calls by contacting Movoto at [movoto.privacy@gmail.com](mailto:movoto.privacy@gmail.com "mailto:movoto.privacy@gmail.com"). Your account can be deactivated by contacting Movoto at [movoto.privacy@gmail.com](mailto:movoto.privacy@gmail.com "mailto:movoto.privacy@gmail.com"). You may also turn off cookies in your browser. 
+You may opt out of receiving e-mails, e-mail updates and alerts and phone calls by contacting Movoto at [](mailto:customercare@movoto.com "mailto:customercare@movoto.com"). Your account can be deactivated by contacting Movoto at [](mailto:customercare@movoto.com "mailto:customercare@movoto.com"). You may also turn off cookies in your browser. 
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
@@ -58,6 +62,6 @@ Movoto requires our sales staff, affiliated real estate agents and other personn
 
 **Our Affiliated Entities:** A do-not-call request applies to Movoto and our affiliated agents for the purposes of Movoto initiated business contact. 
 
-**Any Questions?** If you have any questions or concerns about the do-not-call rules, bring it immediately to the attention Movoto Customer Care. Our central office is located at 1730 S El Camino Real Ste 500, San Mateo, CA 94402. We can also be reached by fax at (650) 349-9900, or by phone at 888-766-8686.
+**Any Questions?** If you have any questions or concerns about the do-not-call rules, bring it immediately to the attention Movoto Customer Care. Our central office is located at 1700 S Amphlett Boulevard, Ste 205, San Mateo, CA 94402. We can also be reached by fax at (650) 349-9900, or by phone at 888-766-8686.
 
-© 2004-2012 by Movoto LLC. All rights reserved. Patent Pending. 
+© 2005-2014 by Movoto LLC. All rights reserved. Patent Pending. 
