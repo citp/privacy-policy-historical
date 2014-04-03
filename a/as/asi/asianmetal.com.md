@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianmetal.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806030040id_/http%3A//www.asianmetal.com/about/privacyPolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianmetal.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403053018id_/http%3A//www.asianmetal.com/about/privacyPolicy.shtml) for the most accurate reproduction.*
 
 # Asian Metal--About Us
 
@@ -42,4 +42,4 @@
 
 #### While we will take all reasonable steps to protect your information, we cannot guarantee the security of any personal information you disclose online. You accept the inherent security implications of providing information online and will not hold us responsible for any breach of security unless we have been negligent or in willful default. 
 
-#### If you feel that Asian Metal is not abiding by its posted privacy policy, you should contact Tiger Pan by e-mail: info@asianmetal.com or phone (1 412 880 5300/01/02/03/04/05) or (86 10 59080011/22/33/44).
+#### If you feel that Asian Metal is not abiding by its posted privacy policy, you should contact Elsa Wang by e-mail: info@asianmetal.com or phone (86 10 59080011/22/33/44).
