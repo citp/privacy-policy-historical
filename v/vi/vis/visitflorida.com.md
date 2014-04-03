@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the visitflorida.com privacy policy that was archived on 2013-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130222033353id_/http%3A//www.visitflorida.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitflorida.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403211925id_/http%3A//www.visitflorida.com/en-us/privacy-policy.html) for the most accurate reproduction.*
 
-# VISIT FLORIDA Privacy Policy - | VISITFLORIDA.com
+# Privacy Policy | VISITFLORIDA.com
 
-**I. About VISIT FLORIDA and Privacy**  
+**I. About VISIT FLORIDA and Privacy**
+
 VISIT FLORIDA is the Official Tourism Marketing Corporation for the State of Florida.
 
 VISITFLORIDA.com is the official web site of VISIT FLORIDA.
@@ -15,28 +16,28 @@ Tallahassee, FL 32301
 We can be reached via e-mail at [info@VISITFLORIDA.org](mailto:info@VISITFLORIDA.org)
 
 **About Privacy**  
-Your privacy is important to VISIT FLORIDA and we will treat any of your information with care. 
+Your privacy is important to VISIT FLORIDA and we will treat any of your information with care.
 
-Our Privacy Statement lets you know how we handle personally identifiable information you share with us through our digital and printed communication vehicles. 
+Our Privacy Statement lets you know how we handle personally identifiable information you share with us through our digital and printed communication vehicles.
 
 **II. Privacy Statement ("Privacy Statement")**  
 **Scope**  
 This Privacy Statement explains how we collect and handle personally identifiable information you share with VISIT FLORIDA through our web site, electronic newsletter and promotional emails. It also describes our use of cookies and other tracking devices. It provides instruction regarding links to other web sites, security of the information you provide and potential changes to the Privacy Statement. It provides contact information for questions and instructions for un-subscribing.
 
 **Personal Information Collection**  
-You may use our web sites, digital newsletters and other forms of internet-based communications to learn about VISIT FLORIDA products and services without disclosing any personal information beyond what you provided when requesting authorized VISIT FLORIDA publications, both digital or printed. We may ask you to provide us with personal information, for example, to access or use certain features or if you request additional information from VISIT FLORIDA Partners. Information that may be requested by VISIT FLORIDA includes: contact information, such as name, address, email address, and telephone number; demographic information, such as household information, age group, etc. and information about your travel interests. 
+You may use our web sites, digital newsletters and other forms of internet-based communications to learn about VISIT FLORIDA products and services without disclosing any personal information beyond what you provided when requesting authorized VISIT FLORIDA publications, both digital or printed. We may ask you to provide us with personal information, for example, to access or use certain features or if you request additional information from VISIT FLORIDA Partners. Information that may be requested by VISIT FLORIDA includes: contact information, such as name, address, email address, and telephone number; demographic information, such as household information, age group, etc. and information about your travel interests.
 
 **Personal Information Uses**  
 Personal information that you voluntarily offer may be used to reply to your requests, to update and improve content on our web site or electronic newsletter, or to assist with marketing research. Such information includes but is not limited to survey responses, site registrations and information preferences, normally related to potential vacations in Florida. This information is used to tailor communications to you, either by authorized VISIT FLORIDA communications entities, such as COF, or VISIT FLORIDA Partner organizations that are suited to your provided information/preferences. Note: VISIT FLORIDA Partner organizations, as referenced here, would include hospitality businesses or organizations in Florida which are also paid members of the VISIT FLORIDA Partner organization.
 
-With respect to sharing personal information with authorized, membership Partners: We sometimes offer information or services on behalf of Partners within a solicitation. We endeavor to make clear and apparent when corporate partner offers are combined with COF offers. In such cases, the information you provide is shared with our Partners and is subject to use within that company's privacy policy. Note: VISIT FLORIDA Partners, as referenced here, would include companies wishing to offer products or services to Florida visitors, but not necessarily Florida-based companies. Examples could include financial, lodging or transportation firms. 
+With respect to sharing personal information with authorized, membership Partners: We sometimes offer information or services on behalf of Partners within a solicitation. We endeavor to make clear and apparent when corporate partner offers are combined with COF offers. In such cases, the information you provide is shared with our Partners and is subject to use within that company's privacy policy. Note: VISIT FLORIDA Partners, as referenced here, would include companies wishing to offer products or services to Florida visitors, but not necessarily Florida-based companies. Examples could include financial, lodging or transportation firms.
 
-VISIT FLORIDA will not share your personal information with non-Partners for their independent use without your permission. 
+VISIT FLORIDA will not share your personal information with non-Partners for their independent use without your permission.
 
 We may disclose your personal information as required by law, in conjunction with a government inquiry, or in litigation or dispute resolution.
 
 **Cookies and Other Tracking Devices**  
-We may use cookies and other tracking devices on our web sites to allow us to measure site activity in aggregate, not on the individual level. This in turn allows us to provide a better user experience. Only information you voluntarily provide is stored in your customer file. 
+We may use cookies and other tracking devices on our web sites to allow us to measure site activity in aggregate, not on the individual level. This in turn allows us to provide a better user experience. Only information you voluntarily provide is stored in your customer file.
 
 You can choose to refuse cookies - simply refer to your browser Help instructions to learn more about how to manage their use.
 
@@ -50,18 +51,14 @@ VISIT FLORIDA recognizes the importance of safeguarding personal information in 
 If you have concerns or questions regarding VISIT FLORIDA's consumer privacy practices, please forward them to [privacy@VISITFLORIDA.org](mailto:privacy@VISITFLORIDA.org)
 
 **To Unsubscribe**  
-We do not want to send you information you do not want to receive. If you no longer want us to contact you, please [click here](http://www.visitflorida.com/ezine/index.php?form=unsubscribe) to be removed from our mailing list. 
+We do not want to send you information you do not want to receive. If you no longer want us to contact you, please [click here](http://news.visitflorida.com/visitflorida/unsub/default.htm?) to be removed from our mailing list.
 
 **Changes to Privacy Statement**  
 VISIT FLORIDA retains the right to change this Privacy Statement. For your benefit, we will post changes to this page in a timely manner.
 
-**Florida** **Hot Vacation Deals**  
-The offers provided on this(ese) page(s) are the sole responsibility of the vendors making the offers. VISIT FLORIDA makes no representation as to the accuracy or reliability of the offers being made, or of the values represented herein. Consumers wishing to take advantage of these offers are urged to use diligence in doing so and to understand that they do so at their own risk. 
+**Deals**  
+The offers provided on this(ese) page(s) are the sole responsibility of the vendors making the offers. VISIT FLORIDA makes no representation as to the accuracy or reliability of the offers being made, or of the values represented herein. Consumers wishing to take advantage of these offers are urged to use diligence in doing so and to understand that they do so at their own risk.
 
-**Open AdStream - 24/7 Real Media**  
-This site uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, 24/7 Real Media. These files enable 24/7 Real Media to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our web site. The cookie was placed by us, or by another advertiser who works with 24/7 Real Media. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address.
-
-  
 **User Media Facebook Upload Tool**
 
 When users upload their media and related media information through the VISIT FLORIDA Facebook Upload Tool, the media and related media information, such as credit line, caption and date/place taken, will be uploaded to the VISIT FLORIDA Facebook Wall as well as the VISITFLORIDA.com UserMedia page at www.VISITFLORIDA.com/usermedia. No other information about the user will be shared with VISIT FLORIDA or Facebook.
