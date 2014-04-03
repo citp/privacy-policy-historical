@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitaltutors.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424100335id_/http%3A//www.digitaltutors.com/11/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaltutors.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403060317id_/http%3A//www.digitaltutors.com/11/privacy_policy.php) for the most accurate reproduction.*
 
-# Digital-Tutors > Tutorials and Training for CG, 3D, Animation and VFX
+# Privacy Policy > Digital-Tutors
 
 Our Commitment Policy
 
