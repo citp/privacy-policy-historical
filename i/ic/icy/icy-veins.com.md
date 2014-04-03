@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icy-veins.com privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915000010id_/http%3A//www.icy-veins.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icy-veins.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403153626id_/http%3A//www.icy-veins.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Icy Veins
 
