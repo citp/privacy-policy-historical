@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourfreesurveys.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824154710id_/http%3A//www.yourfreesurveys.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourfreesurveys.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403022607id_/http%3A//www.yourfreesurveys.com/privacy.htm) for the most accurate reproduction.*
 
 # Your Free Survey
 
