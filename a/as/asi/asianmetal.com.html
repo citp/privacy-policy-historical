@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the asianmetal.com privacy policy that was archived on 2013-08-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130806030040id_/http%3A//www.asianmetal.com/about/privacyPolicy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the asianmetal.com privacy policy that was archived on 2014-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140403053018id_/http%3A//www.asianmetal.com/about/privacyPolicy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -24,12 +24,14 @@
     	<div class="logodiv"><a href="http://www.asianmetal.com/" target="_blank" class="pageen"></a></div>
         <div class="logochar">Guiding the World Metal Market</div>
     </div>
+    <div class="floatleft appadvdiv"><a href="/app/" target="_blank"><img src="/img/appadven.gif" border="0" width="430" height="94"></a></div>
     <div class="floatright">
 	    <div class="logindiv">
         	<ul>
             	<li><a href="http://www.asianmetal.com.cn/" target="_blank" class="pagecn">钢铁中文版</a></li>
               <li class="lineli1">|</li>
             	<li><a href="http://www.asianmetal.cn/" target="_blank" class="pagecn">有色中文版</a></li>
+            	<li><a href="/app/" target="_blank" class="pagemp">Mobile App</a></li>
           </ul>
         </div>
         <div class="clearfloat"></div>
@@ -61,6 +63,7 @@
     	<div id="loginbox" class="logindiv">
         	<ul>
         		<form name="loginHead" id="loginHead" method="post" action="/login/login.am">
+        		<input type="hidden" name="ifc" id="ifc" value="1">
             	<li><a class="loginbutn" onclick="return checkLoginEn();"></a></li>
             	<li>
                 <input style="display:none;" id="txtUser_Pwd" name="txtUser_Pwd" class="logininput" type="password" onkeydown="if(event.keyCode == 13) return checkLoginEn();" onfocus="sso_focus(this)">
@@ -70,14 +73,22 @@
             </form>
             </ul>
         </div>
+         <script>
+$(document).ready(function () {
+	if(window.navigator.cookieEnabled)
+  	  $("#ifc").val("1");
+    else
+  	  $("#ifc").val("0");
+});
+</script>
         <div class="clearfloat"></div>
         <div class="logindiv">
         	<ul>
             	<li><a href="/redirect/redirectLoginEn.am?returnUrl=/member/getMmbNewsEn.am" class="logina4">My page</a></li>
                 <li class="lineli2">|</li>
-            	<li><a href="/about/aboutusEn.shtml" target="_blank" class="logina3">About us</a></li>
+            	<li><a href="/about/contactusEn.shtml" target="_blank" class="logina2">Contact us</a></li>
             	<li class="lineli2">|</li>
-            	<li><a href="/about/aboutusEn.shtml" target="_blank" class="logina2">Contact us</a></li>
+            	<li><a href="/about/aboutusEn.shtml" target="_blank" class="logina3">About us</a></li>
             	<li class="lineli2">|</li>
             	<li><a href="/login/findPwdEn.shtml" target="_blank" class="logina1">Forgot password?</a></li>
             </ul>
@@ -214,7 +225,7 @@ jQuery(function($){
 			<h3>Security</h3>
 			<h4>This site takes every precaution to protect our users’ information. When you submit sensitive information via the site, your information is protected and encrypted. If you have any questions about the security at the site, you can send an email to info@asianmetal.com. </h4>
 			<h4>While we will take all reasonable steps to protect your information, we cannot guarantee the security of any personal information you disclose online. You accept the inherent security implications of providing information online and will not hold us responsible for any breach of security unless we have been negligent or in willful default. </h4>
-			<h4>If you feel that Asian Metal is not abiding by its posted privacy policy, you should contact Tiger Pan by e-mail: info@asianmetal.com or phone (1 412 880 5300/01/02/03/04/05) or (86 10 59080011/22/33/44).</h4>
+			<h4>If you feel that Asian Metal is not abiding by its posted privacy policy, you should contact Elsa Wang by e-mail: info@asianmetal.com or phone (86 10 59080011/22/33/44).</h4>
 		</div>
 	<!--this is right sider end-->
 </div>
@@ -240,7 +251,7 @@ jQuery(function($){
         	<div class="footenmenu"><a href="/interviews/indexEn.shtml" target="_blank">Interviews</a></div>
         	<div class="footenmenu">Database</div>
         	<div class="footenmenu"><a href="/cag/indexen.shtml" target="_blank">Visits</a></div>
-        	<div class="footenmenu"><a href="/about/aboutusEn.shtml" target="_blank">Contact Us</a></div>
+        	<div class="footenmenu"><a href="/about/contactusEn.shtml" target="_blank">Contact Us</a></div>
         	<div class="footenmenu"><a href="/about/privacyPolicy.shtml" target="_blank">Privacy</a></div>
         	<div class="footenmenu"><a href="/about/termsConditions.shtml" target="_blank">Terms &amp; Conditions</a></div>
         	<div class="footenmenu">China</div>
