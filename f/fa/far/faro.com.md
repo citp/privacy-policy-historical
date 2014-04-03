@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the faro.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513040420id_/http%3A//www.faro.com/en-US/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faro.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403064150id_/http%3A//www.faro.com/en-us/footer/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# FARO - Privacy Policy
 
 This website is owned and operated by FARO Technologies Inc. (“FARO”, “we”, “our”, or “us”). FARO respects the privacy of visitors to our website. This Notice describes the types of information we collect about visitors to the FARO website, how we may use the information and with whom we may share it. This Notice also describes (1) the measures we take to safeguard the information we collect and (2) your rights and privileges concerning our collection, use and disclosure of information about you. 
 
