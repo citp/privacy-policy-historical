@@ -1,22 +1,18 @@
-> *The following text is extracted and transformed from the cloud66.com privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826025538id_/https%3A//www.cloud66.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloud66.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403145351id_/http%3A//www.cloud66.com/privacy) for the most accurate reproduction.*
 
-# Cloud 66 | Code to Cloud in 5 minutes
+# Cloud 66 | Privacy Ploicy
 
-## The “ **I’m like you** ” version
+  * Information we may collect from you
+  * IP Addresses and Cookies
+  * Where we store your personal data
+  * Uses made of the information
+  * Disclosure of your information
+  * Your Rights
+  * Access to Information
+  * Changes to our privacy policy
+  * Contact
 
-### What data do we collect?
 
-We use cookies to collect anonymised web traffic on our site. We also store all information you’ve given us about yourself and your servers, jobs and schedules on our secure servers and as secure as possible.
-
-### What do we do with your data?
-
-Your data belongs to you and we do not sell or lend any part of your data to any third party. This excludes legal obligations to government bodies in various jurisdictions
-
-### What happens to your data when you leave Cloud 66?
-
-We delete everything we have on our servers about you, your servers and your apps permanently. We might hold on to your name and email address so we can contact you later
-
-## The “ **I am a lawyer** ” version
 
 [Cloud 66](http://www.cloud66.com/) (“We”) are committed to protecting and respecting your privacy. This policy (together with [Terms and Conditions](https://web.archive.org/terms) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
@@ -37,7 +33,9 @@ We may collect and process the following data about you:
 
 ### IP Addresses and Cookies
 
-We may collect information about your computer, including where available your IP address, operating workspace and browser type, for workspace administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual and we will not collect personal information in this way. We may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:
+We may collect information about your computer, including where available your IP address, operating workspace and browser type, for workspace administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual and we will not collect personal information in this way.
+
+We may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:
 
   * To estimate our audience size and usage pattern.
   * To store information about your preferences, and so allow us to customise our site according to your individual interests.
@@ -50,7 +48,11 @@ You may refuse to accept cookies by activating the setting on your browser which
 
 ### Where we store your personal data
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing.
+
+We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. Unfortunately, the transmission of information via the internet is not completely secure. 
+
+Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
 ### Uses made of the information
 
