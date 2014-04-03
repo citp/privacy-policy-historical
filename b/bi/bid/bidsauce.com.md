@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidsauce.com privacy policy that was archived on 2013-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130913064658id_/http%3A//www.bidsauce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidsauce.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404002044id_/http%3A//www.bidsauce.com/privacy-policy) for the most accurate reproduction.*
 
 # Bidsauce Privacy Policy
 
