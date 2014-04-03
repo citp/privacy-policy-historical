@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rrb.gov privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214040404id_/http%3A//www.rrb.gov/IRM/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rrb.gov privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403063823id_/http%3A//www.rrb.gov/IRM/privacy_policy.asp) for the most accurate reproduction.*
 
 # Internet Privacy Policy
 
@@ -41,7 +41,7 @@ If Federal laws (e.g., Privacy Act, Railroad Retirement Act, or the Railroad Une
 
 ## Your Access to the Information We Collect About You
 
-You may have access to any of the information we collect about you at this site. We'll correct any errors you may find. If you need to get or correct information about you, see [ How to Obtain Records about Yourself](https://web.archive.org/web/20131214040404id_/http%3A//www.rrb.gov/bis/privacy_act/obtain_records.asp).
+You may have access to any of the information we collect about you at this site. We'll correct any errors you may find. If you need to get or correct information about you, see [ How to Obtain Records about Yourself](https://web.archive.org/web/20140403063823id_/http%3A//www.rrb.gov/bis/privacy_act/obtain_records.asp).
 
 ## How We Protect the Security of the Information We Collect
 
