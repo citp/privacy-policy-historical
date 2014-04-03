@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postcodelottery.co.uk privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820112527id_/http%3A//www.postcodelottery.co.uk/AboutUs/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcodelottery.co.uk privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403185750id_/http%3A//www.postcodelottery.co.uk/AboutUs/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # People's Postcode Lottery UK - Privacy Policy
 
