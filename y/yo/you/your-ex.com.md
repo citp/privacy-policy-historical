@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the your-ex.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116085542id_/http%3A//your-ex.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the your-ex.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403051527id_/http%3A//your-ex.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
