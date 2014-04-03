@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the mylist.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127163829id_/http%3A//www.mylist.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylist.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403152041id_/http%3A//mylist.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # myList: Privacy Policy
 
 Though lists are shared with friends (that’s the fun of myList), your personal information belongs to you, and you determine when/if it will be shared.
-
-myList™ Privacy Policy
 
 Effective January 2012
 
