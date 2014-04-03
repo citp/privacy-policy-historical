@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthypawspetinsurance.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114035919id_/https%3A//www.healthypawspetinsurance.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthypawspetinsurance.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403204208id_/http%3A//www.healthypawspetinsurance.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Healthy Paws
 
@@ -20,7 +20,7 @@ You provide most information voluntarily when you apply for pet insurance or sub
 
 Information we collect
 
-The information we request from you or collect from third parties relates to your transaction with us such as your pet's information, your name, address, phone number, e-mail, address and bank or credit card information.
+The information we request from you or collect from third parties relates to your transaction with us such as your pet's information, your name, address, phone number, e-mail, address and bank or credit card information. 
 
 How your information may be used
 
@@ -28,21 +28,21 @@ We collect and use information to evaluate requests for insurance or claims, to 
 
 Other personal information
 
-In addition, we may collect user information for our web site via cookies, alphanumeric identifiers transmitted from a web site to a visitor's browser. We collect such information solely for the purpose of better customer service, enabling our ability to identify users and create content to meet their needs. While it is possible to disable cookies via your browser settings, doing do may not allow us to enhance your web experience.
+In addition, we may collect user information for our web site via cookies, alphanumeric identifiers transmitted from a web site to a visitor's browser. We collect such information solely for the purpose of better customer service, enabling our ability to identify users and create content to meet their needs. While it is possible to disable cookies via your browser settings, doing do may not allow us to enhance your web experience. Non-personally identifiable information may be collected for use in Google Analytics features, such as Demographics and Interest Reporting, Remarketing, Display Network Impression Reporting, and DoubleClick Campaign Manager Integration. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads by visiting Google Ads Settings. Third-party vendors, including Google, may show our ads on sites across the Internet. We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on visitor's past visits to our website, as well as to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our site. 
 
-We collect only the domain name; the e-mail addresses of thosee who communicate with us via e-mail; aggregate information on what pages customers visit; and information volunteered by you the customer, such as quote requests, survey information, and/or site reggistrations
+We collect only the domain name; the e-mail addresses of those who communicate with us via e-mail; aggregate information on what pages customers visit; and information volunteered by you the customer, such as quote requests, survey information, and/or site registrations
 
 Payment Information
 
-We partnered with Authorize.net, a CyberSource company, to provide credit card processing services. CyberSource is compliant with the Pyment Card Industry Data Security Standard ("PCIDSS") as a Level 1 service provider. CyberSource has been compliant with PCI DSS is the bankcard industry's most stringent security standard. Examples of CyberSource's security measures include: physical, electronic, and procedural safeguards; sophisticated security monitoring toolss; documented security policies; use of strong encryption for transmissions of order information to and from CyberSource customers; restricted access of personally identifiable information; and periodic security audits by third party security experts.
+We partnered with Authorize.net, a CyberSource company, to provide credit card processing services. CyberSource is compliant with the Payment Card Industry Data Security Standard ("PCIDSS") as a Level 1 service provider. CyberSource has been compliant with PCI DSS is the bankcard industry's most stringent security standard. Examples of CyberSource's security measures include: physical, electronic, and procedural safeguards; sophisticated security monitoring tools; documented security policies; use of strong encryption for transmissions of order information to and from CyberSource customers; restricted access of personally identifiable information; and periodic security audits by third party security experts.
 
 Parties to whom we may disclose information
 
-We only disclose your information as necessary to effect, administer, or enforce your transaction with us, or in conjunction with servicing your insurance policy through insurance crriers or their represenatatives. When we disclose information to our service partners, we require the company to maintain the confidentiality of the information.
+We only disclose your information as necessary to effect, administer, or enforce your transaction with us, or in conjunction with servicing your insurance policy through insurance carriers or their representatives. When we disclose information to our service partners, we require the company to maintain the confidentiality of the information.
 
 From time to time, we may change this Privacy Policy. The effective date of this policy, as stated below, indicates the last time this policy was revised or materially changed. Checking the effective date below allows you to determine whether there have been changed since the last time you reviewed the policy.
 
-Effective Date: 2/10/2010   
+Effective Date: 12/18/2013   
 Healthy Paws Pet Insurance LLC  
 P.O. Box 50034  
 Bellevue, WA 98015 
