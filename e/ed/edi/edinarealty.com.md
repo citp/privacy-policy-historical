@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edinarealty.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220131655id_/http%3A//www.edinarealty.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edinarealty.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403134408id_/http%3A//www.edinarealty.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -32,7 +32,7 @@ Our web site contains links to and from other web sites and may be in the form o
 
 When you provide us with Personal Information, you consent to the collection and use of this information by Edina Realty, its affiliates, and those entities providing services necessary to complete your transaction. If we decide to change our privacy policy, we will post changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-© 2003-2013 Edina Realty, Inc. All Rights Reserved.
+© 2003-2014 Edina Realty, Inc. All Rights Reserved.
 
 [](https://www.mcafeesecure.com/RatingVerify?ref=www.edinarealty-stage.com)
 
