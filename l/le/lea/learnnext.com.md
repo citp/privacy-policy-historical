@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnnext.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122131558id_/http%3A//www.learnnext.com/user/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnnext.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403223853id_/http%3A//www.learnnext.com/user/privacy.htm) for the most accurate reproduction.*
 
 # CBSE TuTorial's Online, CBSE Maths, CBSE Science -Class X, Class IX, Class VIII , Class VII, Class VI
 
