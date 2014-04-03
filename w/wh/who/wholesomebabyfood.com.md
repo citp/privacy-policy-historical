@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesomebabyfood.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621120234id_/http%3A//wholesomebabyfood.momtastic.com/privacyWBF.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesomebabyfood.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403181431id_/http%3A//wholesomebabyfood.momtastic.com/privacyWBF.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -90,4 +90,4 @@ It is our policy to provide notifications, whether such notifications are requir
 
 We reserve the right to change this policy at any time.  Please check this page periodically for changes.  Your continued use of our Website following the posting of changes to these terms will constitute acceptance of those changes.  Information collected prior to the time any change is posted will be used according to the rules and law that applied at the time the information was collected.     
 
-If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please [contact us.](https://web.archive.org/web/20130621120234id_/http%3A//wholesomebabyfood.momtastic.com/contact_us.htm)
+If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please [contact us.](https://web.archive.org/web/20140403181431id_/http%3A//wholesomebabyfood.momtastic.com/contact_us.htm)
