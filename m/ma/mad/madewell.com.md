@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madewell.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925162345id_/https%3A//madewell.com/footer/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madewell.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403062349id_/https%3A//www.madewell.com/footer/privacy.jsp) for the most accurate reproduction.*
 
 # Our Privacy Policy - Madewell Private Policy - Madewell
 
@@ -26,7 +26,7 @@ SIZE CHARTS
   
 ## **OUR PRIVACY POLICY**
 
-**Last Updated: August 30, 2013**
+**Last Updated: February 20, 2014**
 
 This Privacy Policy describes how J.Crew Group, Inc. and our brands and subsidiaries (including but not limited to J.Crew, crewcuts, Factory and Madewell) (collectively, "J.Crew," "we" or "us") collect, use and share information about you. This policy applies to information we collect when you use our websites, shop in our stores or otherwise interact with us as described below.
 
@@ -123,7 +123,7 @@ Please note that even if you opt out of receiving promotional communications, we
 
 ### cookies 
 
-Most web browsers are set to accept cookies by default. If you prefer, you can usually set your browser to remove or reject cookies, but note that doing so does not necessarily affect third party flash cookies used in connection with our websites. For more information about disabling flash cookies, see [www.adobe.com/products/flashplayer/security](http://www.adobe.com/products/flashplayer/security). In addition, many web browsers support Do Not Track technology. If you enable Do Not Track, we will stop collecting information that allows us to tailor your online experience. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our websites. 
+Most web browsers are set to accept cookies by default. If you prefer, you can usually set your browser to remove or reject cookies, but note that doing so does not necessarily affect third party flash cookies used in connection with our websites. For more information about disabling flash cookies, see [www.adobe.com/products/flashplayer/security](http://www.adobe.com/products/flashplayer/security). Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our websites. In addition, many web browsers support Do Not Track technology. If you enable Do Not Track, J.Crew will not use information about your web viewing activities to tailor your online experience on other websites operated by J.Crew. Note, however, that our third party advertising providers may continue to use information about your web viewing activities to tailor advertising to your interests across different websites even when you have Do Not Track enabled in your browser. For more information about how to opt out of ad targeting by our partners, see "advertising & analytics services" above. 
 
 ### your california privacy rights 
 
