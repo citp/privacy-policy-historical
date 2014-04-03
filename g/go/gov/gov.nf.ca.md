@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gov.nf.ca privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926205422id_/http%3A//www.gov.nf.ca/disclaimer/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.nf.ca privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403150203id_/http%3A//www.gov.nf.ca/disclaimer/index.html) for the most accurate reproduction.*
 
 # Disclaimer/Copyright/Privacy Statement | Government of Newfoundland and Labrador
 
-[Francais](https://web.archive.org/web/20130926205422id_/http%3A//www.gov.nf.ca/disclaimer/francais.html)
+[Francais](https://web.archive.org/web/20140403150203id_/http%3A//www.gov.nf.ca/disclaimer/francais.html)
 
 The following policies govern the operation and management of this Web site:
 
@@ -67,7 +67,7 @@ A cookie is a small text file placed on your hard drive (with your permission) b
 
 Please direct any questions regarding this privacy policy or the _ATIPP Act_ to the Access to Information and Protection of Privacy (ATIPP) Office.
 
-<http://www.justice.gov.nl.ca/just/info/index.html>
+<http://www.atipp.gov.nl.ca/>
 
 If you have a complaint or concern about your personal information, please contact the relevant public body. If your complaint is not resolved to your satisfaction, the _ATIPP Act_ provides a mechanism for independent review by contacting the Office of the Information and Privacy Commissioner.
 
