@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frugalfabulousfinds.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216154421id_/http%3A//frugalfabulousfinds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugalfabulousfinds.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403145219id_/http%3A//frugalfabulousfinds.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - BLOG PRIVACY POLICY
 
