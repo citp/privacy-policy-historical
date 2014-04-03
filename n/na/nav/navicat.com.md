@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the navicat.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027031527id_/http%3A//www.navicat.com/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navicat.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403194418id_/http%3A//www.navicat.com/privacystatement) for the most accurate reproduction.*
 
-# 隱私條款
+# Privacy Statement
 
 Privacy Statement
 
@@ -30,7 +30,7 @@ At this Site, there may be links to companies with whom we have a relationship. 
 Please remember that any information you submit in a chat group or forum will be deemed public information and is not confidential. There is a risk in such communication venues that information can be collected and used by others. Please be careful and responsible when you are online.
 
   
-If you have any questions about any of these practices, please feel free to [contact us](http://navicat.com/cht/component/content/category/2-uncategorised?layout=blog#contact-info "Contact Us").
+If you have any questions about any of these practices, please feel free to [contact us](http://www.navicat.com/company/aboutus#contact-info "Contact Us").
 
   
 
