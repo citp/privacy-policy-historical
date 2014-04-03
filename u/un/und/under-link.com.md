@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the under-link.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208090122id_/http%3A//under-link.com/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the under-link.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403200340id_/http%3A//under-link.com/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@ Most browsers allow you to refuse to accept cookies. (For example, in Internet E
 
 Google, as a third party vendor, uses cookies to serve ads on this website. The DART cookie used by Google enables it to serve ads to our users based on their visit to other sites on the Internet.
 
-Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://web.archive.org/web/20131208090122id_/http%3A//external.html?link=http://www.google.com/privacy_ads.html). 
+Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://web.archive.org/web/20140403200340id_/http%3A//external.html?link=http://www.google.com/privacy_ads.html). 
 
 **3\. Using your personal data**
 
@@ -106,4 +106,4 @@ The website contains links to other websites. We are not responsible for the pri
 
 **10\. Contact**
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us using the [contact form here](https://web.archive.org/web/20131208090122id_/http%3A//external.html?link=http://wwww.under-link.com/contact).
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us using the [contact form here](https://web.archive.org/web/20140403200340id_/http%3A//external.html?link=http://wwww.under-link.com/contact).
