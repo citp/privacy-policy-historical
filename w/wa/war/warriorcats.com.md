@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warriorcats.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106180328id_/http%3A//www.harpercollinschildrens.com/Home/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warriorcats.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403052348id_/http%3A//www.harpercollinschildrens.com/Home/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Harper Collins Children's
 
@@ -100,4 +100,4 @@ HarperCollins Publishers
 10 East 53rd Street  
 New York, NY 10022 
 
-© 2013 HarperCollins Publishers Inc. All Rights Reserved.  
+© 2014 HarperCollins Publishers Inc. All Rights Reserved.  
