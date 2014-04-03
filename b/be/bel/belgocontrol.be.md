@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the belgocontrol.be privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214212409id_/http%3A//www.belgocontrol.be/belgoweb/publishing.nsf/Content/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belgocontrol.be privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403231637id_/http%3A//www.belgocontrol.be/belgoweb/publishing.nsf/Content/Privacy_Policy) for the most accurate reproduction.*
 
 # Belgocontrol - Privacy Policy
 
 BELGOCONTROL (“we”, “us”, “our”) provides the information set out on the www.belgocontrol.be website (the “Website”) solely for information purposes.
 
-Your use of the Website is governed by the [Terms and Conditions](https://web.archive.org/web/20131214212409id_/http%3A//www.belgocontrol.be/belgoweb/publishing.nsf/Content/TermsConditions). By using any part of the Website, completing any subscription with us and/or submitting any information to us on the Website, you agree that your personal information obtained through the Website may be held and processed in accordance with the Privacy Policy.
+Your use of the Website is governed by the [Terms and Conditions](https://web.archive.org/web/20140403231637id_/http%3A//www.belgocontrol.be/belgoweb/publishing.nsf/Content/TermsConditions). By using any part of the Website, completing any subscription with us and/or submitting any information to us on the Website, you agree that your personal information obtained through the Website may be held and processed in accordance with the Privacy Policy.
 
 1\. INFORMATION COLLECTION AND USE
 
