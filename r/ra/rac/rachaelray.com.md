@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rachaelray.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226200848id_/http%3A//www.rachaelray.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rachaelray.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403140854id_/http%3A//www.rachaelray.com/privacy.php) for the most accurate reproduction.*
 
 # Rachael Ray's Official Website - Privacy Policy
 
@@ -77,4 +77,4 @@ Governing Law
 
 This Privacy Policy shall be governed by the laws of the State of New York, without regard to its conflict of law provisions.  Any dispute concerning this Privacy Policy or your use of this Site shall be submitted to binding arbitration in New York within one (1) year from the date that the cause of action arose (or, if multiple cause of actions are involved, from the date that the first cause of action arose), with such arbitration conducted pursuant to the then prevailing rules of the American Arbitration Association.  To the fullest extent permitted by law, no arbitration brought pursuant hereto shall be joined to any other action or any other arbitration initiated pursuant hereto.  If any portion of this Privacy Policy is deemed unenforceable, unlawful or void by a Court of competent jurisdiction, then that portion of the Privacy Policy will be deemed severable and will not affect the enforceability or validity of the remaining portions of this Privacy Policy.
 
-™ and © 2007 - 2011 Rachael Ray Digital LLC.  All rights reserved. 
+™ and © 2007 - 2014 Rachael Ray Digital LLC.  All rights reserved. 
