@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tip.it privacy policy that was archived on 2013-09-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130917184850id_/http%3A//www.tip.it/runescape/pages/view/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tip.it privacy policy that was archived on 2014-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140403094219id_/http%3A//www.tip.it/runescape/pages/view/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <base href="http://www.tip.it/runescape/">
@@ -9,33 +9,34 @@
     <link href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700&amp;v2" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Fenix" rel="stylesheet" type="text/css">
 	<link href="images/site/favicon.ico" rel="shortcut icon">
-	<link rel="stylesheet" type="text/css" href="min/b=css&amp;g=main_css&amp;41" media="screen">
-	<!--[if lte IE 9]><link href="css/ie.css?41" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
-    <!--[if lt IE 8]><link href="css/ie7.css?41" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
+	<link rel="stylesheet" type="text/css" href="min/b=css&amp;g=main_css&amp;64" media="screen">
+	<!--[if lte IE 9]><link href="css/ie.css?64" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
+    <!--[if lt IE 8]><link href="css/ie7.css?64" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.google.com/jsapi"></script>
     <script type="text/javascript">
         google.load("jquery", "1");
         google.load("jqueryui", "1");
     </script>
-    <script type="text/javascript" src="min/b=js&amp;g=main_js&amp;41"></script>
+    <script type="text/javascript" src="min/b=js&amp;g=main_js&amp;64"></script>
         <link rel="stylesheet" type="text/css" href="min/b=css&amp;g=guides_css" media="screen">
 <script type="text/javascript">
 $(document).ready(function(){
-if ($.browser.msie  && parseInt($.browser.version, 10) < 9) {
-  return false; 
-} else {
-    var History = window.History;
-    if ( !History.enabled ) {
-        return false;
-    }
-    url = $(location).attr('href');
-	if (url.indexOf("#") >= 0) {
-		url = url.split("#")[0];
+	$.itemTooltip();
+	if ($.browser.msie  && parseInt($.browser.version, 10) < 9) {
+	  return false; 
+	} else {
+	    var History = window.History;
+	    if ( !History.enabled ) {
+	        return false;
+	    }
+	    url = $(location).attr('href');
+		if (url.indexOf("#") >= 0) {
+			url = url.split("#")[0];
+		}
+	    $('#guidelinks a, #guide-contents a').click(function() {
+	    History.pushState(null, null, url + this.hash);
+	    });
 	}
-    $('#guidelinks a, #guide-contents a').click(function() {
-    History.pushState(null, null, url + this.hash);
-    });
-}
 });
 </script><script type="text/javascript" async="" src="http://platform.twitter.com/widgets.js"></script></head>
 <!-- 
@@ -50,19 +51,15 @@ forces the sidebars apart when the content can't be made smaller, then feel free
 	<table id="container">
 		<tbody><tr>
 			<td id="header" colspan="3">
-				<a id="top" href="http://www.tip.it/runescape/"><img id="logo" src="images/site/tip-it.png" alt="Welcome to Rune Tips, the first ever RuneScape help site. We aim to offer skill guides, quest guides, maps, calculators, informative databases, tips, and much more to help you get the most from the Massive Online Adventure Game, RuneScape, by Jagex Ltd © 2013."></a>
+				<a id="top" href="http://www.tip.it/runescape/"><img id="logo" src="images/site/tip-it.png" alt="Welcome to Rune Tips, the first ever RuneScape help site. We aim to offer skill guides, quest guides, maps, calculators, informative databases, tips, and much more to help you get the most from the Massive Online Adventure Game, RuneScape, by Jagex Ltd © 2014."></a>
 				
 				<div id="top_ad">
 <script type="text/javascript"><!--
-google_ad_client = "ca-pub-9897821215082159";
-/* Leaderboard */
-google_ad_slot = "3368721629";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
+ e9 = new Object();
+ e9.noAd = 1;
+    e9.size = "728x90,468x60";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/Tipit/ROS/tags.js"></script>
                 </div>
                 
 				<p id="report_top_ad"><a href="http://forum.tip.it/topic/16906-report-bad-ads-here/">Report Ad</a></p>
@@ -110,12 +107,12 @@ google_ad_height = 90;
 					<div id="newsticker">
 						<!--GRAND EXCHANGE UPDATES-->
 						<div id="ge_update">
-							<a href="grand-exchange-centre" id="nav_geupdate" data-last-update="1379438102">GE</a>
+							<a href="grand-exchange-centre" id="nav_geupdate" data-last-update="1396502101">GE</a>
 						</div>
 						
 						<!--TWITTER FEED-->
 						<div id="twitter">
-							<span id="twitter_icon"></span>
+							<span id="twitter_icon"></span><span id="twitch_broadcast_icon" style="display:none;"></span>
 							<a class="twitter_username" href="">Status</a>: <span class="twitter_message">Loading Tweets...</span> <span class="twitter_time">› <a href="">right now!</a></span>
 						</div>
 					</div>
@@ -168,7 +165,7 @@ google_ad_height = 90;
                                 <li><a href="pages/view/dungeon_maps.htm">› Dungeon Maps</a></li>
                                 <li><a href="pages/view/special_maps.htm">› Special Maps</a></li>
                                 <li><a href="pages/view/mining_maps.htm">› Mining Sites</a></li>
-                                <li><a href="pages/view/hunting_locations.htm">› Hunting Locations</a></li>
+                                <li><a href="pages/view/special_maps.htm#loca">› Hunting Locations</a></li>
                                 <li><a href="pages/view/fairy_ring_map.htm">› Fairy Ring Map</a></li>
                                 <li><h3><span class="menu_info menu_graphic"></span> Info</h3></li>
                                 <li class="hr"><hr></li>
@@ -261,31 +258,37 @@ google_ad_height = 90;
 					<div class="banner_right"></div>
 				</div>
 				<div class="box list-items poll">
-					<p id="poll_question">How often do you submit bug reports when you find a bug in RuneScape?</p>
+					<p id="poll_question">How often are you planning on using Legacy Combat mode once it's implemented?</p>
 					<hr>
                                         <form action="http://www.tip.it/runescape/polls/vote" method="post" accept-charset="utf-8">			         <input name="poll" value="vote" type="hidden">
-			         <input name="poll_id" value="285" type="hidden">
+			         <input name="poll_id" value="289" type="hidden">
 						<ul>
 									    	    <li><input name="answer_id" value="1" id="p1" type="radio">
-			        	    <label for="p1">I report all of the bugs I find.</label>
+			        	    <label for="p1">All the time</label>
 			             </li>
 				        			    	    <li><input name="answer_id" value="2" id="p2" type="radio">
-			        	    <label for="p2">I report most of the bugs I find.</label>
+			        	    <label for="p2">I'll switch back and forth</label>
 			             </li>
 				        			    	    <li><input name="answer_id" value="3" id="p3" type="radio">
-			        	    <label for="p3">I report some of the bugs I find.</label>
+			        	    <label for="p3">Never</label>
 			             </li>
 				        			    	    <li><input name="answer_id" value="4" id="p4" type="radio">
-			        	    <label for="p4">I report none of the bugs I find.</label>
+			        	    <label for="p4">Depends on how it's implemented</label>
 			             </li>
 				        			    	    <li><input name="answer_id" value="5" id="p5" type="radio">
-			        	    <label for="p5">I don't find any bugs.</label>
+			        	    <label for="p5">Only for non-PVP</label>
+			             </li>
+				        			    	    <li><input name="answer_id" value="6" id="p6" type="radio">
+			        	    <label for="p6">Only for PVP</label>
+			             </li>
+				        			    	    <li><input name="answer_id" value="7" id="p7" type="radio">
+			        	    <label for="p7">I don't know what that is</label>
 			             </li>
 				        						</ul>
 						<hr class="clear">
 						<div id="poll_submit_input">
 							<input name="submit" value="Vote" class="button" type="submit">
-							<input type="button" onclick="parent.location='http://www.tip.it/runescape/polls/view/285-how-often-do-you-submit-bug-reports-when'" value="Results">
+							<input type="button" onclick="parent.location='http://www.tip.it/runescape/polls/view/289-how-often-are-you-planning-on-using-legacy'" value="Results">
 						</div>
 					</form>
                     					<div id="poll_bottom">
@@ -302,8 +305,8 @@ google_ad_height = 90;
     				</div>
     				<div class="box list-items penguins">        			
         				<div id="circus-penguin-toggle" style="display:none">
-        					<p><b>Circus:</b> Gnome Stronghold</p>
-        					<a href="http://www.tip.it/runescape/weekly-locations#circus"><img src="images/misc/circus_gnome_stronghold.gif" width="138" height="138" alt="Circus"></a>
+        					<p><b>Circus:</b> Falador</p>
+        					<a href="http://www.tip.it/runescape/weekly-locations#circus"><img src="images/misc/circus_falador.gif" width="138" height="138" alt="Circus"></a>
         					<hr>
         					<p><a id="circus-box-penguin-link" href="http://www.tip.it/runescape/weekly-locations#penguins">» View penguin locations «</a></p>
         				</div>
@@ -313,15 +316,11 @@ google_ad_height = 90;
                 <!--ADVERT-->
                 <div id="right_ad">
 <script type="text/javascript"><!--
-google_ad_client = "ca-pub-9897821215082159";
-/* Skycraper */
-google_ad_slot = "7117923629";
-google_ad_width = 160;
-google_ad_height = 600;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
+ e9 = new Object();
+ e9.noAd = 1;
+    e9.size = "160x600,120x600";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/Tipit/ROS/tags.js"></script>
                                 </div>
                 <p id="report_right_ad"><a href="http://forum.tip.it/topic/16906-report-bad-ads-here/">Report Ad</a></p>
                 
@@ -419,7 +418,7 @@ google_ad_height = 600;
                         <li><a href="pages/view/dungeon_maps.htm">› Dungeon Maps</a></li>
                         <li><a href="pages/view/special_maps.htm">› Special Maps</a></li>
                         <li><a href="pages/view/mining_maps.htm">› Mining Sites</a></li>
-                        <li><a href="pages/view/hunting_locations.htm">› Hunting Locations</a></li>
+                        <li><a href="pages/view/special_maps.htm#loca">› Hunting Locations</a></li>
                         <li><a href="pages/view/fairy_ring_map.htm">› Fairy Ring Map</a></li>
 					</ul>
 					<ul>
@@ -438,7 +437,7 @@ google_ad_height = 600;
 					<a href="http://m.tip.it/pages/view/privacy.htm?use_mobile"><span id="phone_icon"></span></a>
 				</div>
 				
-				<p id="copyright">© 1999 - 2013 RuneScape Tips, all rights reserved. <a href="http://runescape.com/">RuneScape</a>® and Jagex® are trademarks of Jagex Ltd © 2000 - 2013 Andrew Gower.<br>
+				<p id="copyright">© 1999 - 2014 RuneScape Tips, all rights reserved. <a href="http://runescape.com/">RuneScape</a>® and Jagex® are trademarks of Jagex Ltd © 2000 - 2014 Andrew Gower.<br>
 				Reproducing or copying any material found on this page is not allowed. Designed for IE8+, Firefox 3.5+, Safari 4+, Opera 10+, and Chrome by Mil.</p>
 			</td>
 		</tr>
@@ -487,7 +486,7 @@ google_ad_height = 600;
                         <li><a href="pages/view/dungeon_maps.htm">› Dungeon Maps</a></li>
                         <li><a href="pages/view/special_maps.htm">› Special Maps</a></li>
                         <li><a href="pages/view/mining_maps.htm">› Mining Sites</a></li>
-                        <li><a href="pages/view/hunting_locations.htm">› Hunting Locations</a></li>
+                        <li><a href="pages/view/special_maps.htm#loca">› Hunting Locations</a></li>
                         <li><a href="pages/view/fairy_ring_map.htm">› Fairy Ring Map</a></li>
     				</ul>
     			</li>
@@ -511,18 +510,30 @@ google_ad_height = 600;
         $(document).ready(function(){ 
             $(".guide img, .calc img, .map img").not(".drop img").lazyload({ threshold : 200, skip_invisible : false });
             var tweets = new Array();
-        tweets[0] = {"tweet":"In what other Super September challenge could you confuse a Gnome dressed as a chicken? <a href=\"http:\/\/t.co\/j2eKqH6PU2\">http:\/\/t.co\/j2eKqH6PU2<\/a> <a href=\"http:\/\/t.co\/abR1CVPRog\">http:\/\/t.co\/abR1CVPRog<\/a>","user":"RuneScape","time":1379419376,"id":"379938521064435712","relative_time":"about 6 hours ago"};
+            tweets[0] = {"tweet":"<a href=\"http:\/\/www.twitter.com\/DjNicolajJensen\" >@DjNicolajJensen<\/a> Good luck on both :)","user":"RuneScape","time":1396516457,"id":"451648875427024896","relative_time":"14 minutes ago"};
 
-tweets[1] = {"tweet":"Did you already see our new Divination Transmutation Profit\/Loss calculator? <a href=\"http:\/\/t.co\/9owjDurN1q\">http:\/\/t.co\/9owjDurN1q<\/a>","user":"RuneTips","time":1377693664,"id":"372700359325941760","relative_time":"about 20 days ago"};
+tweets[1] = {"tweet":"The most anticipated quest of the year is here: Fate of the Gods! If you're stuck, check out our guide: <a href=\"http:\/\/t.co\/0V0o5mQQbz\">http:\/\/t.co\/0V0o5mQQbz<\/a> <a href=\"http:\/\/hashtags.org\/search?query=Runescape\" >#Runescape<\/a>","user":"RuneTips","time":1395827474,"id":"448759068908597248","relative_time":"about 8 days ago"};
 
     
             
             var tweet_counter = 0;
             function cycleTweet() {
                 $('div#twitter').fadeOut(function() {
-                    $('a.twitter_username').attr("href", "http://www.twitter.com/"+tweets[tweet_counter].user).html(tweets[tweet_counter].user);
-                    $('span.twitter_message').html(tweets[tweet_counter].tweet);
-                    $('span.twitter_time').html("&rsaquo;&nbsp;<a href='"+tweets[tweet_counter].id+"'>"+tweets[tweet_counter].relative_time+"</a>");
+					if (tweets[tweet_counter].id == 'Twitch') {
+						// Show Twitch info
+						$('#twitter_icon').hide();
+						$('#twitch_broadcast_icon').show();
+						$('a.twitter_username').attr("href", tweets[tweet_counter].user).html(tweets[tweet_counter].tweet);
+						$('span.twitter_message').html(tweets[tweet_counter].time+" - Watch Live!");
+						$('span.twitter_time').html("&rsaquo;&nbsp;<a href='"+tweets[tweet_counter].id+"'>"+tweets[tweet_counter].relative_time+"</a>");
+					} else {
+						// Show Twitter info
+						$('#twitter_icon').show();
+						$('#twitch_broadcast_icon').hide();
+						$('a.twitter_username').attr("href", "http://www.twitter.com/"+tweets[tweet_counter].user).html(tweets[tweet_counter].user);
+						$('span.twitter_message').html(tweets[tweet_counter].tweet);
+						$('span.twitter_time').html("&rsaquo;&nbsp;<a href='"+tweets[tweet_counter].id+"'>"+tweets[tweet_counter].relative_time+"</a>");
+					}
                 }).fadeIn();
                 tweet_counter++;
                 if (tweet_counter >= tweets.length) {
@@ -601,18 +612,22 @@ tweets[1] = {"tweet":"Did you already see our new Divination Transmutation Profi
                 });
             }
             if ($("#information_tabs ul").length > 0) {
-                $("#information_tabs ul").idTabs(function(id, list, set) {
-                    $("a",set).removeClass("selected").filter("[href*='"+id+"']",set).addClass("selected"); 
-                    for(i in list) {
-                        $(list[i]).hide();
-                    } 
-                    $(id).fadeIn('slow'); 
-                    return false; 
-                });
+				// Activating this code will make it impossible to choose the default selected tab.
+				// Got to find a solution to this sometime...
+                //$("#information_tabs ul").idTabs(function(id, list, set) {
+                //   $("a",set).removeClass("selected").filter("[href*='"+id+"']",set).addClass("selected"); 
+                //    for(i in list) {
+                //        $(list[i]).hide();
+                //    } 
+                //    $(id).fadeIn('slow'); 
+                //    return false; 
+                //});
+				var tabname='tab1';
+				$("#information_tabs ul").idTabs(tabname);
             }
         });
     </script>
-    <script type="text/javascript" src="min/b=js&amp;g=js_js&amp;41"></script>
+    <script type="text/javascript" src="min/b=js&amp;g=js_js&amp;64"></script>
     <script type="text/javascript">	
         (function(){
             var twitterWidgets = document.createElement('script');
@@ -639,4 +654,4 @@ tweets[1] = {"tweet":"Did you already see our new Divination Transmutation Profi
     </script>
 
 
-<!-- Page Generation Time: 0.0234 --></body></html>
+<!-- Page Generation Time: 0.0248 --></body></html>
