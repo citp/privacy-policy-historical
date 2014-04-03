@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanbankingnews.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118085050id_/http%3A//www.americanbankingnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanbankingnews.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403115602id_/http%3A//www.americanbankingnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy, Investment Disclaimer and Disclosures - American Banking News
 
