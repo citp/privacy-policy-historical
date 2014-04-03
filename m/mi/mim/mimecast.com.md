@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mimecast.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806150936id_/http%3A//www.mimecast.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mimecast.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403064932id_/http%3A//www.mimecast.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy
 
@@ -78,10 +78,20 @@ Information that you submit via the Site is sent to and stored on secure servers
 
 You have a legal right under the Data Protection Act 1998 to a copy of all the personal information about you held by us. On request, we will provide you with a copy of this information subject to a fee not exceeding £10. You also have a right to correct any errors in that information. As mentioned above, you have a right to prevent the use of your personal information for direct marketing purposes.
 
-### Safe Harbor
+### Safe Harbor affirmation
 
-Mimecast has certified its participation, and compliance with, the U.S. Department of Commerce Safe Harbor framework regarding the transfer of personal information from European Union member countries, or Switzerland,  to the United States. The principles of Safe Harbor compliance are notice, choice, onward transfer, security, data integrity, access and enforcement. Additional information about the Safe Harbor principles and certification process can be found at www.export.gov/safeharbor.
+Mimecast complies with the U.S. – EU Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Mimecast has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, and enforcement. To learn more about the Safe Harbor program, and to view Mimecast’s certification, please visit <http://www.export.gov/safeharbor/>
+
+As set out in the U.S. – EU and U.S. – Swiss Safe Harbor Principles, adherence to the Principles may be limited (a) to the extent necessary to meet national security, public interest, or law enforcement requirements.
 
 ### Contacting us
 
-Please submit any questions, concerns or comments you have about this privacy policy or any requests concerning your personal data by email to info@mimecast.com.
+Please submit any questions, concerns or comments you have about this privacy policy or any requests concerning your personal data by email to [info@mimecast.com](mailto:info@mimecast.com "info@mimecast.com").
+
+If you have any questions, concerns or complaints specifically related to Mimecast’s participation in the Safe Harbor program, please direct them to [legal@mimecast.com](mailto:legal@mimecast.com "legal@mimecast.com"), or to:  
+Mimecast, Inc.  
+Attn: Legal Department  
+480 Pleasant Street  
+Watertown, MA
+
+If your inquiry is not satisfactorily addressed, contact American Arbitration Association Dispute Resolution Process. The American Arbitration Association will serve as a liaison with the website to resolve your concerns.
