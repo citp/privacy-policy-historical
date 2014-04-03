@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basicscan.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813095055id_/http%3A//www.basicscan.com%3Ftmp%3Dnemo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basicscan.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404012210id_/http%3A//basicscan.com%3Ftmp%3Dnemo_privacy) for the most accurate reproduction.*
 
 # BasicScan - Privacy Policy
 
