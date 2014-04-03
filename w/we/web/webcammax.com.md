@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcammax.com privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406100730id_/http%3A//www.webcammax.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcammax.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403110743id_/http%3A//www.webcammax.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy | WebcamMax
 
