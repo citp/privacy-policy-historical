@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbalremedy.in privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823083727id_/http%3A//www.herbalremedy.in/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbalremedy.in privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403151704id_/http%3A//www.herbalremedy.in/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Herbal Remedy India - Privacy Policy
 
