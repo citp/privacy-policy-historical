@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwinnersadvantage.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104062252id_/https%3A//iwinnersadvantage.com/%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwinnersadvantage.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404153107id_/http%3A//www.iwinnersadvantage.com/%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - I Winners Advantage (IWA)
 
@@ -65,11 +65,11 @@ I Online Marketing LLC may also disclose Information to affiliated entities, whe
 
 _Opting Out from Offers from I Online Marketing LLC._
 
-At any time, a user may [opt out](https://www.iwinnersadvantage.com/?p=unsubscribe) from receiving future offers from I Online Marketing LLC through the user�s profile on the Site, by following the instructions contained within each marketing communication. Such opting out will not apply to any communications from third parties to whom I Online Marketing LLC may have provided Information regarding the user. Third parties� use of the Information is subject to such parties� own privacy policies, for which I Online Marketing LLC shall not be responsible.
+At any time, a user may [opt out](http://www.iwinnersadvantage.com/?p=unsubscribe) from receiving future offers from I Online Marketing LLC through the user�s profile on the Site, by following the instructions contained within each marketing communication. Such opting out will not apply to any communications from third parties to whom I Online Marketing LLC may have provided Information regarding the user. Third parties� use of the Information is subject to such parties� own privacy policies, for which I Online Marketing LLC shall not be responsible.
 
 _Access to Information._
 
-All users who provide their Information to I Online Marketing LLC may modify and correct such Information by contacting I Online Marketing LLC at 570 South Research Drive, Central Islip, NY 17722, USA. IwinnersAdvanatge.com utilizes e-mail as a primary communication channel with customers. As a customer, and by submitting your information on the IwinnersAdvanatge.com website, you hereby acknowledge and grant IwinnersAdvanatge.com the permission to communicate with you via e-mail. IwinnersAdvanatge.com determines to, system messages, confirmation messages, newsletters, service announcements and other promotional messages. IwinnersAdvanatge.com will use best efforts to honor customers requests to [OPTOUT](https://www.iwinnersadvantage.com/?p=unsubscribe) procedures. 
+All users who provide their Information to I Online Marketing LLC may modify and correct such Information by contacting I Online Marketing LLC at 570 South Research Drive, Central Islip, NY 17722, USA. IwinnersAdvanatge.com utilizes e-mail as a primary communication channel with customers. As a customer, and by submitting your information on the IwinnersAdvanatge.com website, you hereby acknowledge and grant IwinnersAdvanatge.com the permission to communicate with you via e-mail. IwinnersAdvanatge.com determines to, system messages, confirmation messages, newsletters, service announcements and other promotional messages. IwinnersAdvanatge.com will use best efforts to honor customers requests to [OPTOUT](http://www.iwinnersadvantage.com/?p=unsubscribe) procedures. 
 
 _Your California Privacy Rights._
 
