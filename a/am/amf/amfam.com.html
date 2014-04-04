@@ -1,8 +1,11 @@
-<!--The following is the downloaded HTML source of the amfam.com privacy policy that was archived on 2013-10-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131009220037id_/http%3A//www.amfam.com/security/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amfam.com privacy policy that was archived on 2014-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140405013202id_/http%3A//www.amfam.com/security/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us"><head>
-
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <!-- meta content -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<!-- meta content -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 <link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon">
@@ -24,7 +27,6 @@
 <meta name="description" content="The Privacy and Security Policy for American Family Insurance"> 
 <meta name="keywords" content="American Family, Privacy, Security Policy"> 
 
-<meta name="robots" content="nofollow">
 	<!-- /meta content -->
 
     <!-- mp_trans_disable_start -->
@@ -130,9 +132,89 @@ function setCookie(name,value,path,domain) {
 </script>
 <!-- /Motionpoint Switch Language -->
 
+<!-- Motionpoint Switch Language -->
+<script type="text/javascript"> 
+	function switchLanguage() {
+	oh=new Array();tsd=new Array();
+	tsh='www.amfamlatino.com';
+	oh[0]='web.amfam.com';tsd[0]='/enes/sdweb/';
+	oh[1]='amfam.ensera.com';tsd[1]='/enes/densera/'; 
+	oh[2]='www.sgcnetwork.com';tsd[2]='/enes/dsgcnetwork/';
+    oh[3]='secure4.amfam.com';tsd[3]='/enes/sdsecure4/';
+    oh[4]='wwwa.amfam.com';tsd[4]='/enes/sdwwwa/';
+	oh[5]='wwwqa.amfam.com';tsd[4]='/enes/sdwwwqa/';
+	oh[6]='www.amfam.com';tsd[5]='/enes/';
+	idx=location.href.indexOf(tsh);
+	var chost = null;
+	if(idx==-1){
+		for (i=0;i<oh.length;i++){ 
+			idx=location.href.indexOf(oh[i]);
+			if(idx>-1) break;}
+		idx=idx+oh[i].length;hname=tsh+tsd[i];
+		tsh=hname;
+		pidx=oh[i].lastIndexOf('.',oh[i].lastIndexOf('.')-1);
+		if (pidx==-1) pidx=0;
+		chost=oh[i].substring(pidx);
+	}else{
+		for (i=0;i<tsd.length;i++){ 
+			idx=location.href.indexOf(tsd[i]);
+			if(idx>-1) break;}
+		idx=idx+tsd[i].length;hname=oh[i];}
+	path=location.href.substring(idx);
+	hend=hname.charAt(hname.length-1);pstart=path.charAt(0);
+	if(hend=='/' && pstart=='/')path=path.substring(path.indexOf('/')+1);
+	if(hend!='/' && pstart!='/')path='/'+path;
+	var scookieStr = null;
+	if (hname == tsh) {
+		var secookie = 'mpsessionestablished';
+		if (!isCookie(secookie)) {
+			scookieStr = document.cookie;
+			setCookie(secookie,'true','/',chost);}
+	} else {
+		idx = path.indexOf('mpactionid=');
+		if (idx>0)
+			path = path.substring(0,idx-1);
+		idx=path.indexOf(';mp_params=');
+		if (idx>0) {
+			var qryString = path.substring(idx+11);
+			idx = path.indexOf('?');
+			if (idx > 0) {
+				path = path.substring(0,idx);
+				if (qryString != null)
+					path = path+'?'+qryString;}}}
+	if (scookieStr == null) {
+		location.href=location.protocol+'//'+hname+path;
+	} else {
+		var qryString = 'mpactionid=56';
+		idx = path.indexOf('?');
+		if (idx > 0) {
+			qryString = path.substring(idx+1)+'&'+qryString;
+			path = path.substring(0,idx);}
+		postCookies(location.protocol+'//'+hname+path+'?'+qryString, scookieStr)}
+	return false;}
+function postCookies(url, scookieStr) {
+	cform=document.createElement('form'); 
+	document.body.appendChild(cform);
+	cform.method='POST'; 
+	cform.action=url;
+	cinput=document.createElement('input');
+	cinput.type='hidden';
+	cinput.name='scookies';
+	cinput.value=scookieStr;
+	cform.appendChild(cinput);
+	cform.submit();}
+function isCookie(name) { 
+	return (document.cookie.indexOf(name+'=') > -1); } 
+function setCookie(name,value,path,domain) {
+	var setcookie = name+'='+escape(value);
+	if (path != null) setcookie = setcookie+'; path=' + path;
+	if (domain != null)	setcookie = setcookie+'; domain=' + domain;
+	document.cookie = setcookie;}
+</script>
+<!-- /Motionpoint Switch Language -->
 <div id="wrapper">
 	<div id="container">
-    	<div id="language"><a mporgnav="" href="http://www.amfamlatino.com/enes/sdwwwa/" onclick="return switchLanguage();">Español</a></div>
+    	<div id="language"><a mporgnav="" href="http://www.amfamlatino.com/enes/sdwwwqa/security/privacy.asp" onclick="return switchLanguage('es');function switchLanguage(lang){MP.SrcUrl=unescape('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();MP.switchLanguage(MP.UrlLang==lang?'en':lang);return false;}">Español</a></div>
     	<div id="header">
         	<div id="banner">
             	<div id="amFamLogo"><a href="default.asp"></a></div>
@@ -147,10 +229,11 @@ function setCookie(name,value,path,domain) {
                     	<li id="linkURL"><a href="#general">General Privacy Notice</a></li>
                     	<li id="linkURL"><a href="#securitypolicy">Security Policy</a></li>                   
                     	<li id="linkURL"><a href="#cookie">Web Cookie Policy</a></li>
+                    	<li id="linkURL"><a href="#social-mobile">Social Mobile Data Policy</a></li>
                     	<li id="linkURL"><a href="#health">Health Information Privacy Notice</a></li>
                     </ul>
                     <a name="general" id="general"></a>
-                    <h3>General Privacy Notice</h3>
+                  <h3>General Privacy Notice</h3>
                     <p>The companies of American Family Insurance Group (see <a href="http://www.amfam.com/security/identification.asp" target="_blank">Company Identification</a>) recognize the   importance of our customers’ trust. Keeping our customers’ personal information   confidential is a top priority for all American Family Insurance employees, agents and   staff. This notice, which is required by state and federal law, explains   our privacy policies.</p>
                     
                     <ol>
@@ -185,8 +268,11 @@ function setCookie(name,value,path,domain) {
                     <p>Web cookies are small computer   files that a website places on an Internet user's computer to   store basic information. As a general rule, cookies help website operators   serve their users better and more quickly. There are two types of cookies:   session and persistent. Session cookies exist only during an Internet user's   online session. They do not collect information from a user's computer, and they   typically store information only in the form of session identification. Session   cookies are erased from a user's computer when the user closes the browser   software. Persistent cookies remain on a user's computer after the browser has   been closed, and are stored on a user's hard drive until they expire or until   the user deletes the cookie. Persistent cookies are used to collect identifying   information about a user, such as Web surfing behavior or user preferences for a   specific website. </p>
                     <h4>How We Use Web Cookies </h4>
                     <p>When you interact with the   American Family Insurance website, we strive to make your experience easy and   meaningful. Our Web server uses both session and persistent cookies to improve   your interaction with the Website, and to help us improve user experience. We   use cookies to measure behavior on this website for usability purposes and to   save choices made on some pages. The cookies used on this website do not   identify you personally. Unless you choose to identify yourself voluntarily,   they merely recognize your browser. You may choose to identify yourself to us by   requesting a quote, by requesting more information on a product or service, or   by completing one of several contact forms.   Otherwise, you remain anonymous. Users who disable their Web browsers'   ability to accept cookies can still browse this website. However,   we encourage you to accept cookies (which can be set through your browser   settings) so that we may take further strides in making this website easier  to use. </p>
+                    <p><a name="social-mobile" id="social-mobile"></a></p>
+                    <h3>Social and Mobile Policy                    </h3>
+                    <p>American Family Insurance may use common tracking to customize our websites, mobile applications and social media interactions to enhance your overall customer experience. Our mobile and social media applications may also collect non-personally identifiable demographic information (such as age, sex, and city/state location) about the users of each application. Prior to installation of any mobile or social application, you will see a statement describing what information is collected from your use of that particular application. Collection and use of this data is to provide you with more relevant content. You may choose to utilize your social media profile from select social networking sites such as Facebook, Twitter, Google+ and other like-type social media sites to interact with us.  By doing so, you specifically grant permission and authorize us to collect; store and use authorized personal information from these sites as indicated during the use and authorization process.”</p>
                     <a name="health" id="health"></a>
-                    <h3>Health Information Privacy Notice (for health insurance   policyholders)</h3>
+                  <h3>Health Information Privacy Notice (for health insurance   policyholders)</h3>
                     <p>We understand the personal nature of your medical information and are  committed to protecting it. If you have an American Family health insurance  policy, our policy administrator (American Enterprise Group Companies) provides  you the following <a href="/pdf/insurance/health/health-privacy-notice.pdf" target="_blank">Notice of Privacy Practices for Health Information</a>,<span class="superscript">1</span> effective Jan. 1, 2013. <br>
                     </p>
                     <p class="footnote"><span class="superscript">1</span>A PDF reader is required to open a PDF. American Family  Insurance is not liable for any direct or indirect technical or system issues  or consequences from your use of third-party technologies or programs  accessible through our site.</p>
