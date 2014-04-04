@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esetnod32keys4free.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115171626id_/http%3A//www.esetnod32keys4free.com/p/privacy-policy_10.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esetnod32keys4free.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404113131id_/http%3A//www.esetnod32keys4free.com/p/privacy-policy_10.html) for the most accurate reproduction.*
 
 # ESET NOD32 KEYS 2012 |Latest updates|FRESH username and Password| 100% WORKING KEY
 
