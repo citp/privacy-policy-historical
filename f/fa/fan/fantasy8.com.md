@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasy8.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109031423id_/http%3A//www.fantasy8.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasy8.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404163938id_/http%3A//www.fantasy8.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - fantasy8.com
 
