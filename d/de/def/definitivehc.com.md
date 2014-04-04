@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the definitivehc.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122035749id_/http%3A//www.definitivehc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the definitivehc.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404222318id_/http%3A//www.definitivehc.com/privacy) for the most accurate reproduction.*
 
 # Definitive Healthcare Privacy Policy | Definitive Healthcare | Healthcare Provider Research and Databases
 
