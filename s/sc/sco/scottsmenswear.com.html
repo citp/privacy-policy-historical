@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the scottsmenswear.com privacy policy that was archived on 2013-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130523231515id_/http%3A//www.scottsmenswear.com/customer-service/privacy%3Fcm_re%3DGlobal-_-Footer-_-Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scottsmenswear.com privacy policy that was archived on 2014-04-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140404233320id_/http%3A//www.scottsmenswear.com/customer-service/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -30,18 +30,25 @@
 		}		
 	</script>
 	
-
+	<!--Ensighten-->
+	  <script src="//nexus.ensighten.com/jdplc/sc/Bootstrap.js"></script>
+	<!--Ensighten-->
+	
+</head>
  
-</head><body>
+<body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 40px; padding-right: 0px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear:left"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden;" class=""></div><div id="cboxLoadingOverlay" class=""></div><div id="cboxLoadingGraphic" class=""></div><div id="cboxTitle" class=""></div><div id="cboxCurrent" class=""></div><div id="cboxNext" class=""></div><div id="cboxPrevious" class=""></div><div id="cboxSlideshow" class=""></div><div id="cboxClose" class=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear:left"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position:absolute; width:9999px; visibility:hidden; display:none"></div></div>
 	<!-- overall page container -->	
-    <div id="page" class="web20130523231515id_http%3Awww.scottsmenswear.comcustomer-serviceprivacy%3Fcm_re%3DGlobal-_-Footer-_-Privacy">		
+    <div id="page" class="web20140404233320id_http%3Awww.scottsmenswear.comcustomer-serviceprivacy">		
 	<!--[if IE]><div class="thisIsIE"><![endif]-->
 	<!--[if lte IE 6]><div class="thisIsIE6"><![endif]-->
 	<!-- Start - JSP File name:  style1/CachedHeaderDisplay.jsp --><!-- needed -->
+<meta name="viewport" content="width=1024"> 
+
+
 <script type="text/javascript" src="/js/jd_scripts.js"></script>
 <script>
 
-
+ 
 function trim(str) { 
   str = str.replace( /^\s+/g, "" ); // strip leading 
   str = str.replace( /\s+$/g, "" ); // strip trailing 
@@ -73,9 +80,14 @@ if(RegularExpression.test(searchCriteria))
 	form.mfpartNumber.value = searchCriteria.replace("S","").replace("s","");
 	pluForCm  = form.mfpartNumber.value;
 	}
+   else{     
+     // searchCriteria=encodeURIComponent(searchCriteria);     
+     form.action='/search/'+searchCriteria;
+ }
 	
-form.freeText.value = searchCriteria.replace(new RegExp( "\'", "g" ),'');
+form.freeText.value = searchCriteria.replace(new RegExp( "\'", "g" ),'%27');
 var searchTag ="Home-_-Header-_-search";
+
 var targetUrl = form.action+'?cm_re='+searchTag+'&storeId='+11801+'&catalogId='+12551+'&langId='+-1+'&mfpartNumber='+pluForCm +'&freeText='+searchCriteria; 
 cmCreateManualLinkClickTag(targetUrl,null,null);
 form.submit()	
@@ -85,21 +97,24 @@ form.submit()
 
 
 
-<div id="header">        
-        <form action="/webapp/wcs/stores/servlet/CatalogSearchResultView" method="post" id="search" name="headerSearch">
+
+
+<div class="full-width-header"><div id="header">        
+        <form action="/webapp/wcs/stores/servlet/CategoryDisplay" method="post" id="search" name="headerSearch">
         <input type="hidden" name="cm_re" value="Home-_-Header-_-search"> 
         <input type="hidden" name="storeId" value="11801">
         <input type="hidden" name="catalogId" value="12551">
         <input type="hidden" name="langId" value="-1">
         <input type="hidden" name="mfpartNumber" value="">
-	 
+        <input type="hidden" name="langId" value="search">
+        <input type="hidden" name="categoryId" value="12203"> 	
 
             <label>Search site</label>
-	    <input name="freeText" type="text" value="Enter your search here" onblur="if(this.value=='') this.value='Enter your search here';" onfocus="if(this.value=='Enter your search here') this.value='';">
-	    <button onclick="javascript:submitSearch('document.headerSearch')" title="Search" accesskey="]"><span>search</span></button>
+	    <input name="freeText" type="text" value="Enter your search here" onblur="if(this.value=='') this.value='Enter your search here';" onfocus="if(this.value=='Enter your search here') this.value='';" onkeypress="javascript:if(event.keyCode==13) submitSearch('document.headerSearch');">
+           <button onclick="javascript:submitSearch('document.headerSearch')" title="Search" accesskey="]"><span>search</span></button>
         </form>
 
-<a href="http://www.scottsmenswear.com/home/?cm_re=Home-_-Header-_-logo" id="logo" accesskey="M"><img src="/images/logo.png" title="Scotts" alt="Scotts"></a>  
+<a href="http://www.scottsmenswear.com/home?cm_re=Home-_-Header-_-logo" id="logo" accesskey="M"><img src="/images/logo.png" title="Scotts" alt="Scotts"></a>  
 <!-- Start - JSP File Name: MiniShopCartDisplay.jsp --><!-- needed --> 
     <div id="miniBagContainer">
 		<input type="hidden" name="currentOrderItemIds" id="currentOrderItemIds" value="">    			
@@ -116,20 +131,15 @@ form.submit()
         <a href="http://www.scottsmenswear.com/webapp/wcs/stores/servlet/OrderCalculate?URL=http%3a%2f%2fwww.scottsmenswear.com%2fwebapp%2fwcs%2fstores%2fservlet%2fOrderItemDisplay&amp;langId=-1&amp;storeId=11801&amp;catalogId=12551&amp;updatePrices=1&amp;calculationUsageId=-1&amp;calculationUsageId=-2&amp;calculationUsageId=-7&amp;orderId=." class="miniBagItems">0 Item(s) - £0.00</a>
         </span>
 
-			<div id="miniBasketContainer" style="height: 32px;">
-				<div id="miniBasket" style="top: -32px; height: 32px;">
+			<div id="miniBasketContainer">
+				<div id="miniBasket">
 					<div>
 					<!--[if lte IE 6]><iframe src="javascript:false;" width="100%" height="100%" ></iframe><![endif]--> 
                      <!-- iFrame Background to prevent select boxes appearing above miniBasket IE6 -->
 						<table class="miniBasket" border="0" cellspacing="0" cellpadding="3" summary="Summary of the items currently in your shopping bag">
                            	   
 							
-	<script type="text/javascript" language="javascript">
-	function remove(itemId){
-		window.location = "http://www.scottsmenswear.com/webapp/wcs/stores/servlet/OrderItemDelete"+"?storeId=10151&catalogId=10551&orderItemId="+itemId+"&orderId=.&calculationUsageId=-1"+"&calculationUsageId=-2"+ 
-		"&calculationUsageId=-7"+"&updatePrices=1"+"&URL=OrderCalculate?URL="+escape(document.URL);
-	}	
-	</script>
+	
                            
                            
                          
@@ -161,46 +171,48 @@ form.submit()
 						<li>
 							<!-- needed --><ul class="menuCol">
 	<li class="menMenuHeading"><span>Shop by Category</span></li>
-	<li><span><a href="/clothing/polos/">Polos</a></span></li>
-	<li><span><a href="/clothing/knits/">Knits</a></span></li>
-	<li><span><a href="/clothing/chinos/">Chinos</a></span></li>
-	<li><span><a href="/clothing/jeans-and-trousers/">Jeans &amp; Trousers</a></span></li>
-	<li><span><a href="/clothing/shorts/">Shorts</a></span></li>
-	<li><span><a href="/clothing/jackets-and-coats/">Jackets &amp; Coats</a></span></li>
-	<li><span><a href="/clothing/tees-and-vests/">Tees &amp; Vests</a></span></li>
-	<li><span><a href="/clothing/hoodies/">Hoodies</a></span></li>
-	<li><span><a href="/clothing/shirts/">Shirts</a></span></li>
-	<li><span><a href="/clothing/sweats/">Sweats</a></span></li>
-	<li><span><a href="/clothing/track-tops/">Track Tops</a></span></li>
-	<li><span><a href="/clothing/track-pants/">Track Pants</a></span></li>
-	<li><span><a href="/clothing/tracksuits/">Track Suits</a></span></li>
-    <li><span><a href="/clothing/onesies/">Onesies</a></span></li>
-    <li><span><a href="/search/gilets/?fredhopperUrl=fh_location=//catalog01/en_GB/categories&lt;{catalog01_ct34702}/categories&lt;{catalog01_ct34702_ct79709}">Gilets</a></span></li>
-    
+    <li><span><a href="/clothing/jackets-and-coats/" manual_cm_re="Global-_-Header-_-DD-SBC-cl-jackets-and-coats">Jackets &amp; Coats</a></span></li>
+	<li><span><a href="/clothing/polos/" manual_cm_re="Global-_-Header-_-DD-SBC-cl-polos">Polos</a></span></li>
+	<li><span><a href="/clothing/knits/" manual_cm_re="Global-_-Header-_-DD-SBC-cl-knits">Knits</a></span></li>
+	
+	<li><span><a href="/clothing/jeans-and-trousers/" manual_cm_re="Global-_-Header-_-DD-SBC-cl-jeans-and-trousers">Jeans &amp; Trousers</a></span></li>
+    <li><span><a href="/clothing/hoodies/" manual_cm_re="Global-_-Header-_-DD-SBC-cl-hoodies">Hoodies</a></span></li>
+    <li><span><a href="/clothing/tees-and-vests/" manual_cm_re="Global-_-Header-_-DD-SBC-cl-tees-and-vests">Tees &amp; Vests</a></span></li>
+    <li><span><a href="/clothing/shirts/" manual_cm_re="Global-_-Header-_-DD-SBC-cl-shirts">Shirts</a></span></li>
+	<li><span><a href="/clothing/sweats/" manual_cm_re="Global-_-Header-_-DD-SBC-cl-sweats">Sweats</a></span></li>
+    <li><span><a href="/clothing/track-pants/" manual_cm_re="Global-_-Header-_-DD-SBC-cl-track-pants">Track Pants</a></span></li>
+    <li><span><a href="/clothing/track-tops/" manual_cm_re="Global-_-Header-_-DD-SBC-cl-track-tops">Track Tops</a></span></li>
+    <li><span><a href="/clothing/tracksuits/" manual_cm_re="Global-_-Header-_-DD-SBC-cl-tracksuits">Track Suits</a></span></li>
+	<li><span><a href="/clothing/shorts/" manual_cm_re="Global-_-Header-_-DD-SBC-cl-shorts">Shorts</a></span></li>
+    <li><span><a href="/clothing/kids-branded-clothing/" manual_cm_re="Global-_-Header-_-DD-SBC-cl-kidswear">Kidswear</a></span></li>	
+	<!-- 13-10-08 <li><span><a href="/clothing/chinos/" manual_cm_re="Global-_-Header-_-DD-SBC-cl-chinos">Chinos</a></span></li> -->
+    <!--<li><span><a href="/clothing/onesies/">Onesies</a></span></li>-->
+    <!-- 13-10-08 <li><span><a href="/search/gilets/?fredhopperUrl=fh_location=//catalog01/en_GB/categories<{catalog01_ct34702}/categories<{catalog01_ct34702_ct79709}" manual_cm_re="Global-_-Header-_-DD-SBC-cl-gilets">Gilets</a></span></li> -->   
 </ul>
+
 <ul class="menuCol">
 	<li class="menMenuHeading"><span>Shop by Brand</span></li>
-    <li><span><a href="/clothing/brand/one-true-saxon/">One-True-Saxon</a></span></li>
-	<li><span><a href="/clothing/brand/g-star/">G-Star</a></span></li>
-	<li><span><a href="/clothing/brand/lyle-and-scott/">Lyle &amp; Scott</a></span></li>
-	<li><span><a href="/clothing/brand/adidas-originals/">adidas Originals</a></span></li>
-	<li><span><a href="/clothing/brand/emporio-armani-ea7/">Emporio Armani EA7</a></span></li>
-	<li><span><a href="/clothing/brand/lacoste/">Lacoste</a></span></li>
-	<li><span><a href="/clothing/brand/fred-perry/">Fred Perry</a></span></li>
-	<li><span><a href="/clothing/brand/duffer-of-st-george/">Duffer of St. George</a></span></li>
-	<li><span><a href="/clothing/brand/henri-lloyd/">Henri Lloyd</a></span></li>
-	<li><span><a href="/clothing/brand/original-penguin/">Original Penguin</a></span></li>
-	<li><span><a href="/clothing/brand/duck-and-cover/">Duck &amp; Cover</a></span></li>
-	<li><span><a href="/clothing/brand/pretty-green/">Pretty Green</a></span></li>
-	<li class="breakline"><span><a href="/brands/"><b>View all Brands</b></a></span></li>
-</ul>
-<ul class="menuCol">
-	<li class="menMenuHeading"><span>Featured</span></li>
-	<li><span><a href="/clothing/latest/">Latest Clothing</a></span></li>
-	<li><span><a href="/clothing/exclusive/">Exclusive Clothing</a></span></li>
-	<li class="sale"><span><a href="/clothing/sale/">Sale</a></span></li>
-    <li><span><a href="http://www.scottsmenswear.com/search/last+chance+to+buy+clothing+13+01+28/?fredhopperUrl=fh_location=//catalog01/en_GB|secondid&lt;{068097,085765,074955,067581,022477,081251,019250,073657,049821,049192,046128,035664,067237,060072,052507,052386,023539,004025,054832,024043,049185,084754,014462,025901,057064,009916,002847,018771,022467,020834,030731,047425,017129,054534,053092,052981,053038,036731,054914,008500}">Last Chance To Buy</a></span></li>
-    <li><span><a href="http://www.scottsmenswear.com/search/football+casuals+16?fredhopperUrl=fh_location=//catalog01/en_GB|secondid&lt;{036460,018379,021195,032120,021363,006321,032134,034339,076566,011709,017328,078482,048183,019630,048068,019628,058563,007671,086282,088969,076190,082971,017163,017292,056622,088737,088733,025360,046273,038253,060648,020763,027589,036532,036543,089712,072649,048002,034312,030643}">Football Casuals</a></span></li>
+    <li><span><a href="/clothing/brand/one-true-saxon/" manual_cm_re="Global-_-Header-_-DD-SBB-cl-one-true-saxon">One-True-Saxon</a></span></li>
+    <li><span><a href="/clothing/brand/fred-perry/" manual_cm_re="Global-_-Header-_-DD-SBB-cl-fred-perry">Fred Perry</a></span></li>
+	<li><span><a href="/clothing/brand/henri-lloyd/" manual_cm_re="Global-_-Header-_-DD-SBB-cl-henri-lloyd">Henri Lloyd</a></span></li>
+	<li><span><a href="/clothing/brand/lacoste/" manual_cm_re="Global-_-Header-_-DD-SBB-cl-lacoste">Lacoste</a></span></li>
+    <li><span><a href="/clothing/brand/original-penguin/" manual_cm_re="Global-_-Header-_-DD-SBB-cl-original-penguin">Original Penguin</a></span></li>
+    <li><span><a href="/clothing/brand/pretty-green/" manual_cm_re="Global-_-Header-_-DD-SBB-cl-pretty-green">Pretty Green</a></span></li>	
+    <li><span><a href="/clothing/brand/emporio-armani-ea7/" manual_cm_re="Global-_-Header-_-DD-SBB-cl-emporio-armani-ea7">EA7</a></span></li>
+   	<li><span><a href="/clothing/brand/luke-1977/" manual_cm_re="Global-_-Header-_-DD-SBB-cl-luke">Luke</a></span></li>
+    <li><span><a href="/clothing/brand/g-star/" manual_cm_re="Global-_-Header-_-DD-SBB-cl-g-star">G-Star</a></span></li>
+	<li><span><a href="/clothing/brand/fila/" manual_cm_re="Global-_-Header-_-DD-SBB-cl-fila">Fila</a></span></li>
+	<li><span><a href="/clothing/brand/adidas-originals/" manual_cm_re="Global-_-Header-_-DD-SBB-cl-adidas-originals">adidas Originals</a></span></li>
+	<li class="breakline"><span><a href="/brands/" manual_cm_re="Global-_-Header-_-DD-SBB-cl-view-all-brands"><b>View all Brands</b></a></span></li>
+</ul><ul class="menuCol">
+  <li class="menMenuHeading"><span>Featured</span></li>
+  <li><span><a href="/clothing/latest/" manual_cm_re="Global-_-Header-_-DD-FEA-cl-latest-clothing">Latest Clothing</a></span></li>
+  <li><span><a href="/clothing/exclusive/" manual_cm_re="Global-_-Header-_-DD-FEA-cl-exclusive-clothing">Exclusive Clothing</a></span></li>
+  <li><span><a href="http://www.scottsmenswear.com/search/football+casuals/?fredhopperUrl=fh_location=//catalog01/en_GB|secondid&lt;{101084,101065,101101,071871,071834,069374,134150,101077,101104,101087,101079,072104,102196,057230,057429,057152,055249,054756,054699,106433,070423,069386,007671,017328,132379,131787,131790,103849,030504,026925,054524,054493,129901,039726,022254,042350,016168,056172,054720,139938}&#10; " manual_cm_re="Global-_-Header-_-DD-FEA-cl-football-casuals">Football Casuals</a></span></li>
+  <li><span><a href="http://www.scottsmenswear.com/search/modwear/?fredhopperUrl=fh_location=//catalog01/en_GB|secondid&lt;{117276,024352,029466,016578,070443,057425,057416,101024,069856,110564,070489,057161,128057,128061,128059,125664,128062,050497,057230,057238,070611,035475,035497,110606,054737,035532,110598,057563,070875,070423,070381,110773,110817,020714,096397,020828,024923,009487,009690,114572}" manual_cm_re="Global-_-Header-_-DD-FEA-cl-mod-wear">Mod Wear</a></span></li>
+  <li><span><a href="http://www.scottsmenswear.com/search/lightweight+jackets/?fredhopperUrl=fh_location=//catalog01/en_GB|secondid&lt;{035475,035497,110606,054737,122805,035532,110598,057563,118528,070875,070423,070381,128028,118402,122804,110646,070916,057386,128042,035604,059342,128041,124453,035547,117167,011228,071543,035340,056723,057663,117162,035378,055193,099772,036284,099216,099773,055153,035278,035573}" manual_cm_re="Global-_-Header-_-DD-FEA-acc-mod-wear">Lightweight Jackets</a></span></li>
+  <li class="sale"><span><a href="/clothing/sale/" manual_cm_re="Global-_-Header-_-DD-FEA-cl-sale">Sale</a></span></li>
+  <li><span><a href="http://www.scottsmenswear.com/search/50+plus/?fredhopperUrl=fh_location=//catalog01/en_GB|secondid&lt;{094611,119510,124516,123163,095041,117158,118556,123164,118508,099233,129044,099525,117249,017214,095816,038245,093318,099555,121728,133228,127795,127794,019090,117165,099378,099613,043331,099650,117140,017229,118518,099597,127792,099655,117277,118552,098102,116886,084067,118795}" manual_cm_re="Global-_-Header-_-DD-FEA-acc-mod-wear">50% Off</a></span></li>
 </ul>
 						</li>
 					</ul>
@@ -218,34 +230,36 @@ form.submit()
 						<li>
 							<!-- needed --><ul class="menuCol">
 	<li class="menMenuHeading"><span>Shop by Category</span></li>
-	<li><span><a href="/footwear/trainers/">Trainers</a></span></li>
-	<li><span><a href="/footwear/sports-classics/">Sports Classics</a></span></li>
-	<li><span><a href="/footwear/boots-and-shoes/">Boots &amp; Shoes</a></span></li>
-	<li><span><a href="/page/espadrilles-ss12">Espadrilles</a></span></li>
-	<li><span><a href="/footwear/canvas-and-plimsoles/">Canvas &amp; Plimsoles</a></span></li>
-	<li><span><a href="/footwear/hi-tops/">Hi-Tops</a></span></li>
-	<li><span><a href="/footwear/sandals-and-flip-flops/">Sandals &amp; Flip Flops </a></span></li>
+	<li><span><a href="/footwear/trainers/" manual_cm_re="Global-_-Header-_-DD-SBC-fw-trainers">Trainers</a></span></li>
+	<li><span><a href="/footwear/boots-and-shoes/" manual_cm_re="Global-_-Header-_-DD-SBC-fw-boots-and-shoes">Boots &amp; Shoes</a></span></li>
+    <!--<li><span><a href="/footwear/hi-tops/" manual_cm_re="Global-_-Header-_-DD-SBC-fw-hi-tops">Hi-Tops</a></span></li>-->
+    <li><span><a href="/footwear/canvas-and-plimsoles/" manual_cm_re="Global-_-Header-_-DD-SBC-fw-canvas-and-plimsoles">Canvas &amp; Plimsoles</a></span></li>
+	<li><span><a href="/footwear/espadrilles/" manual_cm_re="Global-_-Header-_-DD-SBC-fw-espadrilles">Espadrilles</a></span></li>
+	<li><span><a href="/footwear/sandals-and-flip-flops/" manual_cm_re="Global-_-Header-_-DD-SBC-fw-sandals-and-flip-flops">Sandals &amp; Flip Flops</a></span></li>
+    <li><span><a href="/search/kids+wear+footwear/" manual_cm_re="Global-_-Header-_-DD-SBC-fw-kids-footwear">Kids Footwear</a></span></li>
 </ul>
 <ul class="menuCol">
 	<li class="menMenuHeading"><span>Shop by Brand</span></li>
-	<li><span><a href="/footwear/brand/adidas-originals/">Adidas Originals</a></span></li>
-	<li><span><a href="/footwear/brand/lacoste/">Lacoste</a></span></li>
-	<li><span><a href="/footwear/brand/fred-perry/">Fred Perry</a></span></li>
-	<li><span><a href="/footwear/brand/nike/">Nike</a></span></li>
-	<li><span><a href="/footwear/brand/puma/">Puma</a></span></li>
-	<li><span><a href="/footwear/brand/timberland/">Timberland</a></span></li>
-	<li><span><a href="/footwear/brand/deakins/">Deakins</a></span></li>
-	<li><span><a href="/footwear/brand/luke-1977/">Luke</a></span></li>
-	<li class="breakline"><span><a href="/brands/"><b>View all Brands</b></a></span></li>
-</ul>
-<ul class="menuCol">
-	<li class="menMenuHeading"><span>Quick Links</span></li>
-	<li><span><a href="/footwear/latest/">Latest Footwear</a></span></li>
-    <li><span><a href="http://www.scottsmenswear.com/search/retro+footwear+02/?fredhopperUrl=fh_location=//catalog01/en_GB%7Csecondid%3C%7B018379,034339,011709,017328,048183,048068,058563,007671,086282,088969,082971,076190,025360,046273,038253,060648,046018,036543,089712%7D&amp;fh_refview=home&amp;fh_reftheme=221c4e92-7366-4c8e-958f-a37c636db27c%2Cseeall%2C%2F%2Fcatalog01%2Fen_GB&amp;preview_advanced=true&amp;preview_seo=false&amp;canned_result=true">Retro Footwear</a></span></li>
-    <li><span><a href="http://www.scottsmenswear.com/search/football+casuals+16?fredhopperUrl=fh_location=//catalog01/en_GB|secondid&lt;{036460,018379,021195,032120,021363,006321,032134,034339,076566,011709,017328,078482,048183,019630,048068,019628,058563,007671,086282,088969,076190,082971,017163,017292,056622,088737,088733,025360,046273,038253,060648,020763,027589,036532,036543,089712,072649,048002,034312,030643}">Football Casuals</a></span></li>
-	<li><span><a href="/footwear/exclusive/">Exclusive Footwear</a></span></li>
-	<li class="sale"><span><a href="/footwear/sale/">Sale</a></span></li>
-    <li><span><a href="http://www.scottsmenswear.com/search/last+chance+to+buy+footwear+13+01+28/?fredhopperUrl=fh_location=//catalog01/en_GB|secondid&lt;{016262,080913,068503,068433,068309,047796,040250,030167,030051,026263,023991,052908,039994,079056,072336,078994,068414,018993,075220,068548,063062,049267,047525,027569,087812,061337,029437,084981,078335,034218,082969,040537,048185,060039,079036,020309,063906,058210,026379,044682}">Last Chance To Buy</a></span></li>
+	<li><span><a href="/footwear/brand/adidas-originals/" manual_cm_re="Global-_-Header-_-DD-SBB-fw-adidas-originals">Adidas Originals</a></span></li>
+	<li><span><a href="/footwear/brand/lacoste/" manual_cm_re="Global-_-Header-_-DD-SBB-fw-lacoste">Lacoste</a></span></li>
+	<li><span><a href="/footwear/brand/fred-perry/" manual_cm_re="Global-_-Header-_-DD-SBB-fw-fred-perry">Fred Perry</a></span></li>
+	<li><span><a href="/footwear/brand/nike/" manual_cm_re="Global-_-Header-_-DD-SBB-fw-nike">Nike</a></span></li>
+	<li><span><a href="/footwear/brand/puma/" manual_cm_re="Global-_-Header-_-DD-SBB-fw-puma">Puma</a></span></li>
+	<li><span><a href="/footwear/brand/timberland/" manual_cm_re="Global-_-Header-_-DD-SBB-fw-timberland">Timberland</a></span></li>
+	<li><span><a href="/footwear/brand/onitsuka-tiger/" manual_cm_re="Global-_-Header-_-DD-SBB-fw-onitsuka-tiger">Onitsuka Tiger</a></span></li>
+	<li><span><a href="/footwear/brand/luke-1977/" manual_cm_re="Global-_-Header-_-DD-SBB-fw-luke-1977">Luke</a></span></li>
+	<li class="breakline"><span><a href="/brands/" manual_cm_re="Global-_-Header-_-DD-SBB-fw-view-all-brands"><b>View all Brands</b></a></span></li>
+</ul><ul class="menuCol">
+  <li class="menMenuHeading"><span>Featured</span></li>
+  <li><span><a href="/footwear/latest/" manual_cm_re="Global-_-Header-_-DD-FEA-fw-latest+footwear">Latest Footwear</a></span></li>
+  <li><span><a href="/footwear/exclusive/" manual_cm_re="Global-_-Header-_-DD-FEA-fw-exclusive-footwear">Exclusive Footwear</a></span></li>
+  <li><span><a href="http://www.scottsmenswear.com/search/football+casuals/?fredhopperUrl=fh_location=//catalog01/en_GB|secondid&lt;{002798,002791,002804,009589,101084,101065,101101,071871,071834,069374,134150,101077,101104,101087,101079,072104,102196,057230,057429,055249,054756,054699,106433,070423,007671,017328,132379,131787,131790,103849,030504,026925,054524,054493,129901,042350,016168,056172,054720,139938}" manual_cm_re="Global-_-Header-_-DD-FEA-fw-running-footwear">Football Casuals</a></span></li>
+  <!--<li><span><a href="http://www.scottsmenswear.com/search/modwear/?fredhopperUrl=fh_location=//catalog01/en_GB|secondid<{117276,024352,029466,016578,070443,057425,057416,101024,069856,110564,070489,057161,128057,128061,128059,125664,128062,050497,057230,057238,070611,035475,035497,110606,054737,035532,110598,057563,070875,070423,070381,110773,110817,020714,096397,020828,024923,009487,009690,114572}" manual_cm_re="Global-_-Header-_-DD-FEA-fw-mod-wear">Mod Wear</a></span></li>-->
+  <li><span><a href="http://www.scottsmenswear.com/search/terrace+footwear/?fredhopperUrl=fh_location=//catalog01/en_GB|secondid&lt;{127329,007671,017328,018631,018847,043596,042605,127337,127338,025223,011709,086282,029833,131360,129904,131796,018379,047987,048002,030069,129901,022375,129802,018685,022251,029986,017888,041859,131358,129887,121941,020234,022244,032014,022254,040269,018676,058563,042350,131787}" manual_cm_re="Global-_-Header-_-DD-FEA-fw-retro-footwear">Terrace Footwear</a></span></li>
+  <li><span><a href="http://www.scottsmenswear.com/search/retro+runners/?fredhopperUrl=fh_location=//catalog01/en_GB|secondid&lt;{131774,017328,018631,018847,043596,042605,025223,029833,131360,131796,018379,030069,129802,018685,022251,029986,017888,041859,131358,129887,022244,022254,040269,018676,030093,028670,040298,028678,041952,017887,041865,129893,092674,121340,042373,093116,054255,041854,120172,093431}" manual_cm_re="Global-_-Header-_-DD-FEA-fw-retro-footwear">Retro Runners</a></span></li>
+  <li><span><a href="http://www.scottsmenswear.com/search/Gazelles/?fredhopperUrl=fh_location=//catalog01/en_GB|secondid&lt;{053966,119123,031684,119122,032014,046162,024035,132379,131790,131787,072649,058563,086282,086283,011709,027376,032097,032360,046094,032153,132381}" manual_cm_re="Global-_-Header-_-DD-FEA-fw-gazelles">Gazelles</a></span></li>
+  <li class="sale"><span><a href="/footwear/sale/" manual_cm_re="Global-_-Header-_-DD-FEA-fw-sale">Sale</a></span></li>
+  <li><span><a href="http://www.scottsmenswear.com/search/50+plus/?fredhopperUrl=fh_location=//catalog01/en_GB|secondid&lt;{094611,119510,124516,123163,095041,117158,118556,123164,118508,099233,129044,099525,117249,017214,095816,038245,093318,099555,121728,133228,127795,127794,019090,117165,099378,099613,043331,099650,117140,017229,118518,099597,127792,099655,117277,118552,098102,116886,084067,118795}" manual_cm_re="Global-_-Header-_-DD-FEA-acc-mod-wear">50% Off</a></span></li>
 </ul>
 						</li>
 					</ul>
@@ -263,45 +277,44 @@ form.submit()
 						<li>
 							<!-- needed --><ul class="menuCol">
 <li class="menMenuHeading"><span>Shop by Category</span></li>
-<li><span><a href="/accessories/bags-and-wallets/">Bags &amp; Wallets</a></span></li>
-<li><span><a href="/accessories/hats/">Caps &amp; Hats</a></span></li>
-<li><span><a href="/accessories/socks-and-underwear/">Socks &amp; Underwear</a></span></li>
-<li><span><a href="/accessories/belts/">Belts</a></span></li>
-<!--<li><span><a href="/accessories/watches/">Watches</a></span></li>-->
-<!--<li><span><a href="/accessories/gloves-and-scarves/">Gloves &amp; Scarves</a></span></li>-->
-<li><span><a href="/accessories/miscellaneous/">Miscellaneous</a></span></li>
-<li><span><a href="/accessories/sunglasses/">Sunglasses</a></span></li>
+<li><span><a href="/accessories/hats/" manual_cm_re="Global-_-Header-_-DD-SBC-acc-caps-and-hats">Caps &amp; Hats</a></span></li>
+<li><span><a href="/accessories/bags-and-wallets/" manual_cm_re="Global-_-Header-_-DD-SBC-acc-bags-and-wallets">Bags &amp; Wallets</a></span></li>
+<li><span><a href="/accessories/gloves-and-scarves/" manual_cm_re="Global-_-Header-_-DD-SBC-acc-gloves-and-scarves">Gloves &amp; Scarves</a></span></li>
+<li><span><a href="/accessories/socks-and-underwear/" manual_cm_re="Global-_-Header-_-DD-SBC-acc-socks-and-underwear">Socks &amp; Underwear</a></span></li>
+<li><span><a href="/accessories/belts/" manual_cm_re="Global-_-Header-_-DD-SBC-acc-belts">Belts</a></span></li>
+<li><span><a href="/accessories/miscellaneous/" manual_cm_re="Global-_-Header-_-DD-SBC-acc-miscellaneous">Miscellaneous</a></span></li>
+<li><span><a href="/accessories/sunglasses/" manual_cm_re="Global-_-Header-_-DD-SBC-acc-sunglasses">Sunglasses</a></span></li>
+<!--<li><span><a href="/accessories/watches/" manual_cm_re="Global-_-Header-_-DD-SBC-acc-watches">Watches</a></span></li>-->
+
 </ul>
 
 <ul class="menuCol">
 <li class="menMenuHeading"><span>Shop by Brand</span></li>
-<li><span><a href="/accessories/brand/adidas-originals/">Adidas Originals</a></span></li>
-<li><span><a href="/accessories/brand/new-era/">New Era</a></span></li>
-<li><span><a href="/accessories/brand/original-penguin/">Original Penguin</a></span></li>
-<li><span><a href="/accessories/brand/fred-perry/">Fred Perry</a></span></li>
-<li><span><a href="/accessories/brand/lacoste/">Lacoste</a></span></li>
-<li><span><a href="/accessories/brand/paul-and-shark/">Paul and Shark</a></span></li>
-<li><span><a href="/accessories/brand/lyle-and-scott/">Lyle and Scott</a></span></li>
-<li><span><a href="/accessories/brand/armani-jeans/">Armani Jeans</a></span></li>
-<li><span><a href="/accessories/brand/calvin-klein/">Calvin Klein</a></span></li>
-<li class="breakline"><span><a href="/brands/"><b>View all Brands</b></a></span></li>
+<li><span><a href="/accessories/brand/adidas-originals/" manual_cm_re="Global-_-Header-_-DD-SBB-acc-adidas-originals">Adidas Originals</a></span></li>
+<li><span><a href="/accessories/brand/one-true-saxon/" manual_cm_re="Global-_-Header-_-DD-SBB-acc-one-true-saxon">One True Saxon</a></span></li>
+<li><span><a href="/accessories/brand/original-penguin/" manual_cm_re="Global-_-Header-_-DD-SBB-acc-original-penguin">Original Penguin</a></span></li>
+<li><span><a href="/accessories/brand/lacoste/" manual_cm_re="Global-_-Header-_-DD-SBB-acc-lacoste">Lacoste</a></span></li>
+<li><span><a href="/accessories/brand/emporio-armani-ea7/" manual_cm_re="Global-_-Header-_-DD-SBB-acc-emporio-armani-ea7">EA7</a></span></li>
+<li><span><a href="/accessories/brand/new-balance/" manual_cm_re="Global-_-Header-_-DD-SBB-acc-new-balance">New Balance</a></span></li>
+<li><span><a href="/accessories/brand/armani-jeans/" manual_cm_re="Global-_-Header-_-DD-SBB-acc-armani-jeans">Armani Jeans</a></span></li>
+<li><span><a href="/accessories/brand/emporio-armani/" manual_cm_re="Global-_-Header-_-DD-SBB-acc-emporio-armani">Emporio-Armani</a></span></li>
+<li><span><a href="/accessories/brand/calvin-klein/" manual_cm_re="Global-_-Header-_-DD-SBB-acc-calvin-klein">Calvin Klein</a></span></li>
+<li class="breakline"><span><a href="/brands/" manual_cm_re="Global-_-Header-_-DD-SBB-acc-view+all+brands"><b>View all Brands</b></a></span></li>
+</ul><ul class="menuCol">
+  <li class="menMenuHeading"><span>Featured</span></li>
+  <li><span><a href="/accessories/latest/" manual_cm_re="Global-_-Header-_-DD-fea-acc-latest-accessories">Latest Accessories</a></span></li>
+  <li><span><a href="/accessories/exclusive/" manual_cm_re="Global-_-Header-_-DD-fea-acc-exclusive-accessories">Exclusive Accessories</a></span></li>
+  <!--<li><span><a href="http://www.scottsmenswear.com/search/modwear/?fredhopperUrl=fh_location=//catalog01/en_GB|secondid<{117276,024352,029466,016578,070443,057425,057416,101024,069856,110564,070489,057161,128057,128061,128059,125664,128062,050497,057230,057238,070611,035475,035497,110606,054737,035532,110598,057563,070875,070423,070381,110773,110817,020714,096397,020828,024923,009487,009690,114572}" manual_cm_re="Global-_-Header-_-DD-FEA-acc-mod-wear">Mod Wear</a></span></li>-->
+  <li class="sale"><span><a href="/accessories/sale/" manual_cm_re="Global-_-Header-_-DD-fea-acc-sale">Sale</a></span></li>
+   <li><span><a href="http://www.scottsmenswear.com/search/50+plus/?fredhopperUrl=fh_location=//catalog01/en_GB|secondid&lt;{094611,119510,124516,123163,095041,117158,118556,123164,118508,099233,129044,099525,117249,017214,095816,038245,093318,099555,121728,133228,127795,127794,019090,117165,099378,099613,043331,099650,117140,017229,118518,099597,127792,099655,117277,118552,098102,116886,084067,118795}" manual_cm_re="Global-_-Header-_-DD-FEA-acc-mod-wear">50% Off</a></span></li>  
 </ul>
-
-<ul class="menuCol">
-
-<li class="menMenuHeading"><span>Quick Links</span></li>
-<li><span><a href="/accessories/latest/">Latest Accessories</a></span></li>
-<li><span><a href="/accessories/exclusive/">Exclusive Accessories</a></span></li>
-<li class="sale"><span><a href="/accessories/sale/">Sale</a></span></li>
-</ul>
-
 						</li>
 					</ul>
 				</li>
 			</ul>
 		</li>
 <li><span><a id="" class="brandsLink" href="/brands/">Brands</a></span></li>	
-	
+<!--<li><span><a id="" class="authorityLink" href="/page/features/">Features</a></span></li>-->	
 <li><span><a id="" class="storefinderLink" href="/store-finder/">Our Stores</a></span></li>
 <li><span><a id="" class="saleLink" href="/sale/?fredhopperUrl=fh_location=//catalog01/en_GB/sale={only20view20sale20items}&amp;fh_reffacet=sale&amp;fh_refview=home&amp;fh_eds=%C3%9F&amp;fh_refpath=facet_2">Sale</a></span></li>
 
@@ -313,19 +326,28 @@ form.submit()
     
     <ul id="secondaryNavigation">
 		<li>
-			<!-- needed --><ul id="USPs" style="margin-bottom:35px; display:block; height:54px; width:940px;">
+			<!-- needed --><!--<ul id="USPs" style="margin-bottom:35px; display:block; height:54px; width:940px;">
 
-<li><a id="freeDeliveryHeader" href="/customer-service/deliveryinfo">Free UK Standard delivery over £50</a></li>
+<li><a id="freeDeliveryHeader" href="/customer-service/deliveryinfo">Free UK Standard delivery over &pound;50</a></li>
  
 <li><a id="NDDeliveryHeader" href="/customer-service/deliveryinfo" style="margin-left:40px;">Free delivery to store </a></li>
 
-<li><a id="intDeliveryHeader" href="/customer-service/deliveryinfo#International">International delivery £4.99 </a></li></ul>
+<li><a id="intDeliveryHeader" href="/customer-service/deliveryinfo#International">International delivery &pound;4.99 </a></li></ul>-->
+
+
+<ul id="USPs" style="margin-bottom:35px; display:block; height:54px; width:940px;">
+
+<li><a id="freeDeliveryHeader" href="/customer-service/deliveryinfo">Free UK Standard delivery over £50</a></li>
+ 
+<li><a id="NDDeliveryHeader" href="/customer-service/deliveryinfo" style="margin-left:40px;">Free Next Day delivery over £60</a></li>
+
+<li><a id="intDeliveryHeader" href="/customer-service/deliveryinfo#International">Free delivery to store</a></li></ul>
 
 
 
-
-
-
+<ul id="cookieLink">
+<li><a href="/page/cookies">Cookies</a></li>
+</ul>
 
 		</li>
     </ul>
@@ -334,17 +356,16 @@ form.submit()
 	    
     		<li><a href="http://www.scottsmenswear.com/webapp/wcs/stores/servlet/LogonForm?cm_re=Home-_-Header-_-login&amp;langId=-1&amp;storeId=11801&amp;catalogId=12551">Login</a></li>
     		<li><a href="http://www.scottsmenswear.com/webapp/wcs/stores/servlet/LogonForm?langId=-1&amp;storeId=11801&amp;catalogId=12551?cm_re=Home-_-Header-_-create+account">Create Account</a></li>
-	     
+	    
         <li><a href="http://www.scottsmenswear.com/store-finder?cm_re=Home-_-Header-_-Store+finder">Store Finder</a></li>
-       <li class=""><a href="http://www.scottsmenswear.com/customer-service/faqs?cm_re=Home-_-Header-_-customer+service">Customer Service</a></li>
-<li class="lastItem"><a href="/page/cookies">Cookies</a></li>
-
+	
+       <li class="lastItem"><a href="http://www.scottsmenswear.com/customer-service/faqs?cm_re=Home-_-Header-_-customer+service">Customer Service</a></li>
             </ul>
     
     </div>
     
 
-</div>
+</div></div>
 
 	<div class="contentContainer bg-white">
 		<!--Breadcrumb  -->
@@ -359,10 +380,7 @@ form.submit()
 			<div class="customerService">CUSTOMER SERVICE</div>
 			<br>
 			<ul class="menu">
-
-
-
-			
+				
 		  			       <li>
 		  			       <a href="http://www.scottsmenswear.com/customer-service/faqs">FAQs
 </a></li>
@@ -414,22 +432,27 @@ form.submit()
 			<div class="content">
 			
 			 	<!-- needed --><h1>Privacy policy</h1>
-<p>We (scottsmenswear.com) are committed to protecting your privacy. This privacy policy explains what personal information is collected from you via this Web Site and what we do with that information. 
-It forms part of our terms and conditions, which we may amend from time to time. By using this Web Site you agree to the way in which we process your personal information as outlined in this policy.</p>
+<h2>About Us</h2>
+<p>( scotts Menswear ) is part of the <a href="/page/our-brands/" target="_blank">JD Sports Fashion Group</a> and, for the purposes of the information which you provide to us, acts as the data controller. This means that we are responsible for what happens to the information that you give to us. We will at all times comply with the Data Protection Act 1998 and make sure that we keep your data secure and steps are taken to prevent any unauthorised access to your information. From time to time, we will share the information which you provide to us with other group companies within the <a href="/page/our-brands/" target="_blank">JD Sports Fashion Group</a>.</p>
+<p><a href="/page/our-brands/" target="_blank">JD Sports Fashion Group</a> is constantly growing and changing. We will always update the web page here, so you should take a look from time to time to see if new companies have joined the group or if any company leaves our group.</p>
 
-<h2>Information collected</h2>
-<p>We collect personal information from you when you register with us, complete an on-line form, you e-mail us or complete a transaction with us, you enter a prize draw or other competition with us, or we speak to you over the telephone. 
-We also collect personal information about you by using "cookies" on our Web Site - please see the section on cookies below. We collect the following information about you in order to process our orders: your name, address, delivery address (if different), credit or debit card number and expiry date. We also ask for a telephone number to contact you if there are any difficulties with your order.</p>
+<h2>What data do we collect?</h2>
+<p>We collect all of the information which you submit to us. For example, when you sign up to receive our newletter or when you communicate with us in any way (for example, email, Facebook, Twitter or in one of our stores).  This information will include any passwords, usernames, contact details, account details, preferences, interests and details of any complaints you may have made. We will also collect information when you buy from us on our website or in one of our stores. This will include the time and date of your purchase, the goods you purchased and details of any relevant payment card you used.</p>
+<p>From time to time we may access publically available information about you on the internet to assist in fraud prevention, for identity verification (such as to confirm we have the correct address details for you) and for marketing purposes, as set out in more detail below.</p>
+<p>We also look at your activity on our website, for example what device you're using and what products you're looking at. Much of this information is collected by cookies. For full details, have a look at our <a href="/customer-service/privacy">cookie policy</a>.</p>
 
-<h2>Use of information</h2>
-<p>We use the information we collect about you to process orders, deal with any enquiry or request and/or to send you information about our products and offers from time to time. Your credit card details are taken through a secure server for processing by your card provider, our card processor and our bank . Please see our terms and conditions for details of the measures we take to try and ensure the security of your data. We will pass your name and delivery address on to the carrier responsible for delivering your order. We may also use the information that we collect to inform you about new products, offers or changes to our products. If you would prefer not to receive any marketing information, please send an e-mail to help@scottsmenswear.com.
-The information collected about you will not be used for any other purposes and will not be sold or otherwise disclosed to any other organisations, except to (i) other companies within our group, (ii) our or their successors in title and (iii) third party service providers engaged by us (or other members of our group) to help operate our business effectively. From time to time your personal information may be processed by systems which are located outside the United Kingdom. Where this happens, we will ensure that your information will be kept secure and your privacy rights remain protected consistent with the Data Protection Act 1998.</p>
+<h2>What do we do with your data?</h2>
+<p>We use your data to fulfil any orders you place with us. We also share your data with third party service providers who help us to do this and to generally operate our business effectively.</p>
+<p>We also use your data for marketing purposes which may mean that you will receive marketing communications from us, other companies within the <a href="/page/our-brands/" target="_blank">JD Sports Fashion Group</a> or carefully selected third parties. However if you do receive marketing communications from other companies, we will endeavour to ensure that the company in question and its products will be as relevant to you as possible.</p>
+<p>We may, from time to time, use your personal information to administer a prize draw or competition but this will only happen if you have chosen to enter. Take a look at our Facebook page for our latest competitions <a href="https://www.facebook.com/scottsofficial" target="_blank">facebook.com/scottsofficial</a></p>
+<p>As part of our marketing programme, we may pool and share aggregated data with third parties. We then use this data to produce statistics about our customers. This helps us to select and tailor products, services or special discounts to you and to inform you about those which we think you will be interested to hear about.</p>
 
 <h2>Cookies</h2>
-<h3>Collection of Anonymous Data</h3>
+<br>
+<h4><b>Collection of Anonymous Data</b></h4>
 <p>As described above, we sometimes collect anonymous information from visits to our site to help us provide better customer service. For example, we keep track of the domains from which people visit and we also measure visitor activity on this Web Site, but we do so in ways that keep the information anonymous. We use the information that we collect to measure the number of visitors to the different areas of our Web Site, and to help us make our Web Site more useful to visitors. This includes analysing these logs periodically to measure the traffic through our servers, the number of pages visited and the level of demand for pages and topics of interest. The logs may be preserved indefinitely and used at any time and in any way to prevent security breaches and to ensure the integrity of the data on our servers. We collect the anonymous information we mentioned above through the use of various technologies, one of which is called "cookies". A cookie is an element of data that a web site can send to your browser, which may then be stored on your hard drive.</p>
 
-<h3>Customer/User Identification and Log-In</h3>
+<h4><b>Customer/User Identification and Log-In</b></h4>
 <p>A temporary cookie is currently used to identify a user during the registration and checkout processes. When a user provides a username (email address) and password to "log into" this Web Site, either as an existing or a new user, a temporary cookie is set which identifies the applicable user account. This temporary cookie is maintained until the user:</p>
 <ol>
     <li>Clicks the log out button</li>
@@ -437,7 +460,7 @@ The information collected about you will not be used for any other purposes and 
     <li>Manually clears the User identification cookie</li>
 </ol><br>
 
-<h3>User Log-In Caching</h3>
+<h4><b>User Log-In Caching</b></h4>
 <p>Within this Web Site cookies may in the future be used to save the visitor's password (if and when this facility is provided) so that it does not have to be re-entered at each new visit. If the user has chosen "remember login and password", the following two items above will be encoded within cookies:</p>
 <ul>
 	<li>A unique Customer ID</li>
@@ -445,7 +468,7 @@ The information collected about you will not be used for any other purposes and 
 </ul><br>
 <p>If a "registered" user to this Web Site returns to the site without logging in, the ID stored in the cookie can be used to track the user (unless the user manually deleted the cookie, at which point the server may automatically regenerate another cookie).</p>
 
-<h3>Basket Functionality</h3>
+<h4><b>Basket Functionality</b></h4>
 <p>This Web Site also utilises cookies for the identification of baskets. When a user clicks an "Add to Basket" button for the first time during a browsing session a temporary cookie is set to identify a unique Basket ID for that user. Any items that the user chooses to add to the basket are associated with the unique Basket ID until the user either:</p>
 <ul>
     <li>Closes down their browser session</li>
@@ -455,7 +478,7 @@ The information collected about you will not be used for any other purposes and 
 </ul><br>
 <p>The temporary cookie is cleared when any of the above events occur.</p>
 
-<h3>Basket Caching</h3>
+<h4><b>Basket Caching</b></h4>
 <p>This Web Site may, at some point in the future utilise non-temporary cookies or (i.e. having a limited or unlimited lifespan) to enable basket identifiers to be stored for longer than a single browsing session. Non-temporary cookies would only be used to enhance the user experience and avoid the need for new basket identifiers to be issued during each new user session. Non-temporary basket cookies would remain until the user:</p>
 <ol>
     <li>Places an order</li>
@@ -463,8 +486,9 @@ The information collected about you will not be used for any other purposes and 
     <li>Manually clears the Basket Cookie</li>
 </ol><br>
 
-<h2>Collection and Anonymous Usage of Personal Data</h2>
-<p>When we collect personal data from you in connection with a transaction we may extract some information about that transaction in an anonymous format and combine it with other anonymous information. This anonymous information is used and analysed only at an aggregate level to help us understand trends and patters. None of this information is reviewed at an individual level. If you do not want your transaction details used in this manner, you can either disable your cookies or opt-out at the order or request stage.</p>
+<h2>How do I manage my data and what you do with it?</h2>
+<p>We always give you the choice of whether or not you wish to continue receiving marketing communications from us. By clicking on the 'unsubscribe' link in a promotional email or by contacting us at <a href="mailto:help@scottsmenswear.com">help@scottsmenswear.com</a> your details will be removed from our mailing list.</p>
+<p>If at any time you want to talk to us about your data, for example if you spot a mistake, or if you want to change how we market to you, please contact our customer services team at <a href="mailto:help@scottsmenswear.com">help@scottsmenswear.com</a> or on 0844 264 0111, who will be happy to help. Or you can edit your information at any time by clicking <a href="https://www.scottsmenswear.com/webapp/wcs/stores/servlet/LogonForm?langId=-1&amp;storeId=11801&amp;catalogId=12551&amp;krypto=9d4F5axPVtkjq7KUx3tg9A%3D%3D&amp;ddkey=http:LogonForm" target="_blank">here</a></p>
 
 <h2>Children</h2>
 <p>If you are aged under 12 then you can not register, or enter any competitions, on this Web Site.</p>
@@ -491,122 +515,132 @@ the operators of these sites may collect information from you which will be used
 			</div>
 		</div>
 	</div>
-    <!--/contentContainer--><!-- needed -->
-<div class="footerMain">
-<div id="footerAdditional">
-	
-		<a href="http://www.facebook.com/scottsofficial" target="_blank"><img src="/lib/home/facebook-icon.gif" title="View Scotts on FaceBook" alt="Facebook image" class="social-icon"></a>
-		<a href="http://www.twitter.com/scottsmenswear" target="_blank"><img src="/lib/home/twitter-icon.gif" title="View Scotts on Twitter" alt="Twitter image" class="social-icon"></a>
-		<a href="http://www.youtube.com/scottsofficial" target="_blank"><img src="/lib/home/youtube-icon.gif" title="View Scotts on YouTube" alt="YouTube image" class="social-icon"></a>
-	
-	
-	
-	
-	
-</div>
+    <!--/contentContainer--><!-- needed --><div class="full-width-footer"><div id="footerMain">
 
-<div class="footerLinks">
+<div class="emailSignUp">
+<h3>Join the scotts mailing list...</h3>
+        <span class="rule"></span>
 
-	<ul>
-		<li><a href="/competitions/?cm_re=Global-_-Footer-_-Competitions">Competitions</a></li>
-        <li><a href="https://www.voucherexpress.co.uk/verse/scotts/default.aspx" target="_blank">Giftcard</a></li>
-		<!--<li><a href="/search/football+casuals?cm_re=Global-_-Footer-_-Football-Casuals">Football Casuals</a></li>
-        <li><a href="/page/scotts-football-league?cm_re=Global-_-Footer-_-Fantasy-Football">Fantasy Football</a></li> <li><a href="/page/christmas-2012/?cm_re=Global-_-Footer-_-christmas"><span style="color:#751239;"><i>Christmas Shop</i></span></a></li>-->
+        <p>Receive updates on new and exclusive products, competitions and more.</p>
         
-       
-	</ul>
-    <ul>
-         <li><a href="/customer-service/contactus?cm_re=Global-_-Footer-_-Contact-Us">Contact Us</a></li>
-         <li><a href="/customer-service/ordertracking?cm_re=Global-_-Footer-_-Order-Tracking">Order Tracking</a></li>
-         <li><a href="/customer-service/returningitems?cm_re=Global-_-Footer-_-Returning-Items">Returning Items</a></li>
-         <li><a href="/store-finder">Store Finder</a></li>
-    </ul>
-	<ul>
-	    <li><a href="/customer-service/deliveryinfo?cm_re=Global-_-Footer-_-Delivery-Info">Delivery Info</a></li>
-		<li><a href="/customer-service/sizechart?cm_re=Global-_-Footer-_-Size-Chart">Size Chart</a></li>
-	    <li><a href="/customer-service/faqs?cm_re=Global-_-Footer-_-FAQ">FAQ's</a></li>
-        <li><a href="/page/student-discount/?cm_re=Global-_-Footer-_-Student-Discount">10% Student Discount</a></li>
-	</ul>
-	
-    <div class="storeDelivery">
-		<h3 class="storeDeliveryTitle">Store finder</h3>
-        
-		<p>Enter your postcode or town to find your nearest scotts store.</p>
-		
-        <form id="storeFind" name="storeFind" action="/webapp/wcs/stores/servlet/StoreFinderCmd" method="get">
-        
-        <input type="text" name="townPostcode" value="Town/Postcode" onblur="if(this.value=='') this.value='Town/Postcode';" onfocus="if(this.value=='Town/Postcode') this.value='';">
-        
-        
-        <input type="hidden" name="languageId" value="-1">
-        
-        <input type="hidden" name="redirectURL" value="StoreFinderResultsView">
-        <input type="hidden" name="errorViewURL" value="StoreFinderView">
-        <input type="hidden" name="storeId" value="11801">	
-        <input type="hidden" name="catalogId" value="12551">
-        <button type="submit" name="submit"><span>Find</span></button>
-        </form>
-        
-        
-    </div>
-    
-    
-    <div class="emailSignUp">
-        <h3 class="emailSignUpTitle">Newsletter</h3>
-        <p>Receive updates on new-in and exclusive products, competitions and more.</p>
-        
+		<!--
         <form action="/webapp/wcs/stores/servlet/LogonForm" method="get" id="signUp" name="signUp">
         <label>Email address</label>
-        <input type="text" name="logonId" value="enter your email" onblur="if(this.value=='') this.value='enter your email';" onfocus="if(this.value=='enter your email') this.value='';" class="text">
+        <input type="text" name="logonId" value="Enter your email address" onblur="if(this.value=='') this.value='Enter your email address';" onfocus="if(this.value=='Enter your email address') this.value='';" class="text">
         
         <input type="hidden" name="storeId" value="11801">
         <input type="hidden" name="catalogId" value="12551">
         
         <input type="hidden" name="langId" value="-1">
         <input type="hidden" name="URL" value="TopCategoriesDisplay">
-        <button type="submit" name="submit"><span>Join</span></button>
+        <button type="submit" name="submit"><span>Go</span></button>
         </form>  
-    </div>   
+		-->
+
+		<form action="http://cl.s6.exct.net/subscribe.aspx?lid=11881" id="signUp" name="subscribeForm" method="post">
+		<label>Email address</label>
+		<input type="hidden" name="thx" value="http://www.scottsmenswear.com/page/webcollect_et-thank-you">
+<input type="hidden" name="err" value="http://www.scottsmenswear.com/page/webcollect_et-sorry">
+<input type="hidden" name="usub" value="http://www.scottsmenswear.com/page/webcollect_et-unsub">
+<input type="hidden" name="MID" value="6181817">
+
+		<table width="350" cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+        	<!--<td><input type="text" name="ETSubscriberKey" value="JD_" style="display:none"></td>-->
+        	<td width="310"><input type="text" class="et-newsletter-input" name="Email Address" value="Enter your email address" onblur="if(this.value=='') this.value='Enter your email address';" onfocus="if(this.value=='Enter your email address') this.value='';"></td>
+        	<td width="40"><input type="submit" class="et-newsletter-submit" value="Go"></td>
+    	</tr>
+		</tbody></table>
+		</form>	
+        
+        <ul id="footer-sociallinks">
+    <a onclick="cmCreateManualLinkClickTag('cm_re=HomeMain-_-Social-_-Twitter');" href="http://www.twitter.com/scottsmenswear" target="_blank"><li class="twitter"></li></a>
+    <a onclick="cmCreateManualLinkClickTag('cm_re=HomeMain-_-Social-_-Facebook');" href="http://www.facebook.com/scottsofficial" target="_blank"><li class="facebook"></li></a>
+    <a onclick="cmCreateManualLinkClickTag('cm_re=HomeMain-_-Social-_-Instagram');" href="http://instagram.com/scottsmenswear" target="_blank"><li class="instagram"></li></a>
+    <a onclick="cmCreateManualLinkClickTag('cm_re=HomeMain-_-Social-_-Uoutube');" href="http://www.youtube.com/scottsofficial" target="_blank"><li class="youtube"></li></a>
+   <!-- <a href="#" target="_blank" manual_cm_re="Global-_-Header-_-Pinterest"><li class="pinterest"></li></a>
+    <a href="#" target="_blank" manual_cm_re="Global-_-Header-_-Tumblr"><li class="tumblr"></li></a> -->
+    <a onclick="cmCreateManualLinkClickTag('cm_re=HomeMain-_-Social-_-Google-Plus');" href="https://plus.google.com/102188752738586928842/about" target="_blank"><li class="google"></li></a>
+    </ul>
+    </div>  
     
     
+   <div class="useful-links">
+    <h3>Useful</h3>
+    <span class="rule"></span>
     
-</div><!-- end footerLinks -->
+    <ul>
+    
+    <li><a href="/customer-service/sizechart/" manual_cm_re="Global-_-Footer-_-Size-Chart">Size Chart</a></li>
+    <li><a href="/store-finder/" manual_cm_re="Global-_-Footer-_-Store-Finder">Store Finder</a></li>
+    <li><a href="/customer-service/faqs/" manual_cm_re="Global-_-Footer-_-FAQ">FAQ’s</a></li>
+    <li><a href="/customer-service/privacy" manual_cm_re="Global-_-Footer-_-Privacy-Policy">Privacy Policy</a></li>
+    <li><a href="http://careers.scottsmenswear.com" target="_blank" onclick="cmCreateManualLinkClickTag('cm_re=HomeMain-_-Footer-_-Careers');">Careers</a></li>
+    <li><a href="/competitions/" manual_cm_re="Global-_-Footer-_-Competitions">Competitions</a></li>
+    <li><a href="/page/gift-cards/" target="_blank" onclick="cmCreateManualLinkClickTag('cm_re=HomeMain-_-Footer-_-gift-cards');">Giftcard</a></li>
+    <!--<li><a href="#">10% Off Mersey Beat Promo Terms </a></li>
+    <li><a href="/page/student-discount/" manual_cm_re="Global-_-Footer-_-Student-Discount">Student discount</a></li>-->
+    </ul>
+    </div>
+ 
+ <div class="customer-service">
+ <h3>Customer Services</h3>
+     <span class="rule"></span>
 
-<div id="established2">
-	
-		<a href="/customer-service/sitesecurity?cm_re=Global-_-Footer-_-Site-Security">Site Security</a> &nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="/customer-service/privacy?cm_re=Global-_-Footer-_-Privacy">Privacy</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="/customer-service/termsandconditions/?cm_re=Global-_-Footer-_-Terms-Conditions">Terms &amp; Conditions</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a target="_blank" href=" http://careers.scottsmenswear.com?cm_re=Global-_-Footer-_-Careers-at-Scotts">Careers at Scotts</a>
-  <img src="/lib/home/cards-icon.gif" class="cards-icon"> </div>
+    <ul>
+        <li><a href="/customer-service/contactus" manual_cm_re="Global-_-Footer-_-Contact-Us">Contact Us</a></li>
 
+    <li><a href="/customer-service/deliveryinfo" manual_cm_re="Global-_-Footer-_-Delivery-Info">Delivery Info</a></li>
+        <li><a href="/customer-service/ordertracking" manual_cm_re="Global-_-Footer-_-Order-Tracking">Order Tracking</a></li>
 
+    <li><a href="/customer-service/returningitems" manual_cm_re="Global-_-Footer-_-Returning-Items">Returning Items</a></li>
+    </ul>
+    
+    </div>
+    
+    
+    <ul id="header-sociallinks" style="display:none;">
+    <a onclick="cmCreateManualLinkClickTag('cm_re=HomeMain-_-Social-_-Twitter');" href="http://www.twitter.com/scottsmenswear" target="_blank"><li class="twitter"></li></a>
+    <a onclick="cmCreateManualLinkClickTag('cm_re=HomeMain-_-Social-_-Facebook');" href="http://www.facebook.com/scottsofficial" target="_blank"><li class="facebook"></li></a>
+    <a onclick="cmCreateManualLinkClickTag('cm_re=HomeMain-_-Social-_-Instagram');" href="http://instagram.com/scottsmenswear" target="_blank"><li class="instagram"></li></a>
+    <a onclick="cmCreateManualLinkClickTag('cm_re=HomeMain-_-Social-_-Uoutube');" href="http://www.youtube.com/scottsofficial" target="_blank"><li class="youtube"></li></a>
+   <!-- <a href="#" target="_blank" manual_cm_re="Global-_-Header-_-Pinterest"><li class="pinterest"></li></a>
+    <a href="#" target="_blank" manual_cm_re="Global-_-Header-_-Tumblr"><li class="tumblr"></li></a> -->
+    <a onclick="cmCreateManualLinkClickTag('cm_re=HomeMain-_-Social-_-Google-Plus');" href="https://plus.google.com/102188752738586928842/about" target="_blank"><li class="google"></li></a>
+    </ul>
 
-<div id="established">
-	<a id="estImage" href="/page/about-us/">
-	<img alt="Established 1984 logo" title="View the Scotts Story page." src="/lib/home/est1984-icon.png"></a>
-</div>
-
-
-<!-- <div class="stickyfooter" style="height:50px; background-color:#711439;">
-    <a href="scottsmenswear.com/customer-service/deliveryinfo?cm_re=Global-_-Footer-_-free-delivery-over-25-pounds"><img src="/lib/images/banners/free-delivery-25-120828-maroon.gif" title="Free UK Delivery over 25 pounds" alt="Free UK Delivery over 25 pounds"/></a>
-</div>
-
-footer banner
-<div class="stickyfooter" style="height:50px;">
-    <a href="page/scotts-football-league/?cm_re=Global-_-Footer-_-scotts-football-league-banner"><img src="/lib/images/banners/fantasy-league-120808.gif" alt="Join the scotts Fantasy Football League"/></a>
-</div>--> 
-
-
+</div></div>
 
 <script>window.jQuery || document.write("<script src='/js/jquery.js'>\x3C/script>")</script><script src="/js/jquery.js"></script>
 
-
-
 <!-- Built part two of primary nav -->
-<script type="text/javascript">
+<script type="text/javascript" language="javascript">
 jQuery.noConflict();
-jQuery(function () {
+jQuery(function ()
+{
+	
+	jQuery('#header').wrapAll('<div class="full-width-header" />');
+	
+	if(('div.homepage').length) {
+		jQuery('#footerMain').wrapAll('<div class="full-width-footer" />');
+	}
+		
+	jQuery('ul#header-sociallinks').find('a').hover(function() {
+		jQuery(this).find('li').addClass('hover');
+		}, 
+		function() {
+			jQuery(this).find('li').removeClass('hover');
+	});
+	
+	// NEWSLETTER SIGNUP FORM (attach JD_to ETSubscriberKey
+	jQuery("#subscribeForm").submit(function ()
+	{
+		var emailValue = jQuery(" input[name='Email Address']").val();
+		jQuery('#subscribeForm input[name="ETSubscriberKey"]').val("SC_"+emailValue);
+		jQuery('#subscribeForm').submit();
+		return false;
+	});
+	
 	if (document.getElementById('header')) {
 		// add menu items	
 		jQuery('#primaryNavigation > li:first-child').addClass('first');
@@ -617,8 +651,10 @@ jQuery(function () {
 	});
 </script>
 
+
+
 <!-- Rearrange objects on product page -->
-<script type="text/javascript">
+<script type="text/javascript" language="javascript">
 jQuery.noConflict();
 jQuery(function () {
 	if (document.getElementById('productPage')) {
@@ -643,32 +679,22 @@ jQuery(function () {
 <script type="text/javascript" src="/js/viewer.js"></script>
 <script type="text/javascript" src="/js/scripts.js"></script> 
 
-
-
-
-
-
-
-
-
-
-
 <!-- Add contextual class name to div #page  -->
-<script type="text/javascript">
+<script type="text/javascript" language="javascript">
     //<![CDATA[
         /* parseUri JS v0.1, by Steven Levithan (http://badassery.blogspot.com)
         Splits any well-formed URI into the following parts (all are optional):
         ----------------------
-         source (since the exec() method returns backreference 0 [i.e., the entire match] as key 0, we might as well use it)
-         protocol (scheme)
-         authority (includes both the domain and port)
-             domain (part of the authority; can be an IP address)
-             port (part of the authority)
-         path (includes both the directory path and filename)
-             directoryPath (part of the path; supports directories with periods, and without a trailing backslash)
-             fileName (part of the path)
-         query (does not include the leading question mark)
-         anchor (fragment)
+        â¢ source (since the exec() method returns backreference 0 [i.e., the entire match] as key 0, we might as well use it)
+        â¢ protocol (scheme)
+        â¢ authority (includes both the domain and port)
+            â¢ domain (part of the authority; can be an IP address)
+            â¢ port (part of the authority)
+        â¢ path (includes both the directory path and filename)
+            â¢ directoryPath (part of the path; supports directories with periods, and without a trailing backslash)
+            â¢ fileName (part of the path)
+        â¢ query (does not include the leading question mark)
+        â¢ anchor (fragment)
         */
         function parseUri(sourceUri){
             var uriPartNames = ["source","protocol","authority","domain","port","path","directoryPath","fileName","query","anchor"];
@@ -709,14 +735,10 @@ jQuery(function () {
     </script>
 
 
-
-
-<!-- 3rd Party Tracking -->	
-<script type="text/javascript" src="//www.dwin1.com/2769.js" defer="defer"></script>				
-<script type="text/javascript" src="//ssl.hurra.com/ostracker.js?cid=141"></script>
-<!-- /3rd Party Tracking -->	
 <!-- Surveys -->
-<iframe src="javascript:'';" id="ecos_iframe" style="position:absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden;" title=""></iframe><iframe src="javascript:'';" id="ecos_iframe2" style="position:absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden;" title=""></iframe><div id="ecos_surveylayer" style="position:absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden;" title="Visitor Survey (dynamically generated)"></div><script language="Javascript" type="text/javascript">
+<iframe src="javascript:'';" id="ecos_iframe" style="position:absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden;" title=""></iframe><iframe src="javascript:'';" id="ecos_iframe2" style="position:absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden;" title=""></iframe><div id="ecos_surveylayer" style="position:absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden;" title="Visitor Survey (dynamically generated)"></div>
+
+<script language="javascript" type="text/javascript">
 <!--
 /*** eDigitalSurvey survey code v5.0.9 *******/
 /* Copyright (c) 2010 eDigitalResearch Ltd */
@@ -1001,11 +1023,14 @@ ecos_img = new Image;
 ecos_img.src = ecos_buildurl('i') + '&nosup=1';
 }}
 // -->
-</script><noscript><img src="//ecustomeropinions.com/survey/img.php?sid=794515399&amp;nojs=1" border="0" width="1" height="1" alt="" /><a href="//ecustomeropinions.com/survey/noscript.php?sid=794515399&amp;nojs=1" rel="nofollow">We would like your feedback, please fill in our survey</a></noscript>
-<!-- /Surveys -->
-</div><!-- /footerMain -->
+</script>
 
-<script type="text/javascript">
+<!--
+<noscript><img src="//ecustomeropinions.com/survey/img.php?sid=794515399&amp;nojs=1" border="0" width="1" height="1" alt="" /><a href="//ecustomeropinions.com/survey/noscript.php?sid=794515399&amp;nojs=1" rel="nofollow">We would like your feedback, please fill in our survey</a>
+</noscript> -->
+<!-- /Surveys -->
+
+<script type="text/javascript" language="javascript">
 jQuery.noConflict();
 var $refresh = function(changedAttr)
 {
@@ -1065,15 +1090,13 @@ jQuery(".filterMenu").find("a").each(function() {jQuery(this).attr('href','javas
 jQuery("#perPage").find("a").each(function() {jQuery(this).attr('href','javascript:;');});
 // removal of temp fix as real fix is now there -- if ("11801" != "12351" && "11801" != "11301")
 jQuery(".no-flexcroll").each(function() {jQuery(this).attr('class','flexcroll');});
-$registerAll();
+//$registerAll();
 isBack="";
 }
 );
 </script> 
 
-
-
-<script type="text/javascript">
+<script type="text/javascript" language="javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-38092451-1']);
@@ -1085,12 +1108,7 @@ isBack="";
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
-</script>
-
-
-
-
-    <!--[if IE]></div><![endif]-->
+</script><!--[if IE]></div><![endif]-->
 	</div>
     <!--/page-->
 <script type="text/javascript" src="//libs.coremetrics.com/eluminate.js"></script> 
@@ -1108,8 +1126,7 @@ cmSetupOther({"cm_TrackImpressions":""});
             <div id="cmpageid">
             <script language="JavaScript1.1" type="text/JavaScript">
 
-cmCreatePageviewTag("Help\/Privacy ", "HELP", null, null, 11801);</script> </div> <script type="text/javascript" src="/js/optimost_global_body1.js"></script>
-			<script type="text/javascript" src="/js/optimost_global_body2.js"></script>
+cmCreatePageviewTag("Help\/Privacy ", "HELP", null, null, 11801);</script> </div> 
             
 
 
