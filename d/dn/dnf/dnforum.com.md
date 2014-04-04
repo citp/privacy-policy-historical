@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnforum.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212004258id_/http%3A//www.dnforum.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnforum.com privacy policy that was archived on 2014-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140405004349id_/http%3A//www.dnforum.com/privacy.php) for the most accurate reproduction.*
 
 # Welcome to DNF.com™ - Domain Sales, Domain Forum, Domain Appraisals, Domain Registrars
 
