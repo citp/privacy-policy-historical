@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the leaprate.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122161649id_/http%3A//www.leaprate.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaprate.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404170856id_/http%3A//www.leaprate.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Forex | News | Regulated | FX Brokers | Binary Options | LeapRate - Privacy Policy
+# LeapRate | Forex News | Regulated Brokers - Privacy Policy
+
+##  Privacy Policy 
 
 LeapRate is committed to protecting your privacy. This Privacy Policy describes how we collect, store and use information on individuals that use this website.
 
@@ -10,7 +12,7 @@ LeapRate hereby informs you that the by voluntarily sending us your personal dat
 
 In order to use some of our services, users may be asked to fill in a form, which requires providing certain personal information to LeapRate. Unless otherwise provided in those fields expressly marked with an asterisk (*), answers to our questions on personal data are not mandatory. Not supplying the information required in such optional fields shall not represent any decrease of the services and information that we may provide. However, failure to complete those compulsory fields or providing incorrect personal data shall prevent us from providing the requested information or services.
 
-LeapRate informs you of the possibility of exercising your rights to access, rectify, cancel and object to the processing of your personal data or transfer of such data to any third parties, by making an email request to LeapRate at access@leaprate.com.
+LeapRate informs you of the possibility of exercising your rights to access, rectify, cancel and object to the processing of your personal data or transfer of such data to any third parties, by making an email request to LeapRate at [access@leaprate.com](mailto:access@leaprate.com).
 
 This website does not use "cookies" to gather personal information such as a person's name or email address. A cookie is a small text file placed on your computer's hard drive or browser by a webpage server.
 
