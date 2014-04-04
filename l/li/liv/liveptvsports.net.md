@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liveptvsports.net privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207205250id_/http%3A//liveptvsports.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveptvsports.net privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404051608id_/http%3A//liveptvsports.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PTV Sports Live
+# Privacy Policy
 
 **Privacy Policy**  
 PTVSPORTSLIVE takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.  
