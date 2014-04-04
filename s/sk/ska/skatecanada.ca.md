@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skatecanada.ca privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127104451id_/http%3A//www.skatecanada.ca/Home/tabid/115/ctl/Privacy/language/en-US/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skatecanada.ca privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404040816id_/http%3A//www.skatecanada.ca/Home/tabid/115/ctl/Privacy/language/en-US/Default.aspx) for the most accurate reproduction.*
 
 # Skate Canada > Home
 
