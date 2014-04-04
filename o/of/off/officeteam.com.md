@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the officeteam.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808103315id_/http%3A//www.officeteam.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officeteam.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404050226id_/http%3A//www.roberthalf.com/officeteam/PrivacyPolicy) for the most accurate reproduction.*
 
 # OfficeTeam - Privacy Policy
 
 Officeteam Website Privacy Policy  
 ---  
   
-Welcome to [www.officeteam.com](http://www.officeteam.com/Home) (the "Site"). This website privacy policy ("Policy") describes how Robert Half International Inc. and its subsidiaries ("We", "we", or "RHI") may use and disclose personally identifiable information that we may collect about you through the Site ("Personal Information").
+Welcome to [www.officeteam.com](https://web.archive.org/officeteam/Home) (the "Site"). This website privacy policy ("Policy") describes how Robert Half International Inc. and its subsidiaries ("We", "we", or "RHI") may use and disclose personally identifiable information that we may collect about you through the Site ("Personal Information").
 
 #### Collections and Uses of Personal Information
 
@@ -25,7 +25,7 @@ As described in Section 4 of the Terms of Use, RHI may disclose Personal Informa
 
 #### Revisions to the Policy
 
-If we change this privacy policy we will post any updates here for your review. If we change material terms in this Policy, we will provide notice of the revised policy for 30 days on the home page at [www.officeteam.com](https://web.archive.org/Home) with a link back to this page.
+If we change this privacy policy we will post any updates here for your review. If we change material terms in this Policy, we will provide notice of the revised policy for 30 days on the home page at [www.officeteam.com](https://web.archive.org/officeteam/Home) with a link back to this page.
 
 This Policy is effective as of July 1, 2004. If you have any questions about our website privacy policies, please contact us at:
 
