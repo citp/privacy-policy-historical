@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namely.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602191410id_/http%3A//namely.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namely.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404033842id_/https%3A//www.namely.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Namely - The People Management Platform
 
@@ -12,13 +12,13 @@ TRUSTe's mission, as an independent third party, is to accelerate online trust a
 
 Namely complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Namely has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Namely certification, please visit <http://www.export.gov/safeharbor/>.
 
-#### What Does This Privacy Policy Cover?
+##### What Does This Privacy Policy Cover?
 
 This Privacy Policy covers the treatment of personally identifiable information (“Personal Information”) gathered when you use or access the Services and Mobile App. This Privacy Policy also covers our treatment of any Personal Information that our clients share with us or that we share with our business partners. 
 
 This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, services and applications (“Third Party Services”) that you elect to access through the Service or to individuals that we do not manage or employ. While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those Third Party Services. We encourage you to carefully review the privacy policies of any Third Party Services you access.
 
-#### What Information Do We Collect About You?
+##### What Information Do We Collect About You?
 
 The information we gather enables us to personalize, improve and continue to operate the Services. In connection with certain aspects of the Services, we may request and collect some of your Personal Information. We collect the following types of information from our users. 
 
@@ -52,21 +52,21 @@ Our Web site includes Social Media Features, such as the Facebook Like button an
 
 We collect statistical information about how both users, collectively, use the Services (“Aggregate Information”). Some of this information is derived from Personal Information. This statistical information is not Personal Information and cannot be tied back to you or your web browser. 
 
-#### Information Related to Data Collected for our Clients
+##### Information Related to Data Collected for our Clients
 
 ###### Service Provider Collection and Use:
 
 When acting as a service provider, Namely collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes.
 
-#### Choice
+##### Choice
 
 When acting as a service provider, we collect information for our clients, if you interact with one of our Clients and would no longer like to have your Personal Information used by one of our Clients that use our service, please contact the client that you interact with directly. 
 
-#### Access to Personal Information Controlled by our Clients
+##### Access to Personal Information Controlled by our Clients
 
 When acting as a service provider, Namely has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Namely’s Client (the data controller). If the Client requests Namely to remove the data, we will respond to their request within 30 business days. 
 
-#### How, and With Whom, Is My Information Shared?
+##### How, and With Whom, Is My Information Shared?
 
 ###### Third Party Services:
 
@@ -92,22 +92,22 @@ We also reserve the right to access, read, preserve, and disclose any informatio
 
 Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information. We will share your Personal Information only in the ways that are described in this Privacy Policy.
 
-#### Access To Personal Information
+##### Access To Personal Information
 
 If your Personal Information changes, or if you no longer desire our service, you may correct, update, delete/deactivate it by logging into your account and making the appropriate changes or by emailing our customer support at support@namely.com. We will respond to your request to access within 30 days.
 
 We will retain your Personal Information, the Personal Information we process on behalf of our Clients, and geo location data for as long as needed provide services to our Client, for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-#### Security
+##### Security
 
 The security of your personal information and our clients’ information is important to us. When you enter sensitive information (such as login credentials and geo location data) we encrypt the transmission of that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact info@namely.com.
 
-#### What Happens When There Are Changes to this Privacy Policy?
+##### What Happens When There Are Changes to this Privacy Policy?
 
 We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we collect or use information, we will notify you by posting an announcement on the Services or sending you an email prior to the changes becoming effective. A user is bound by any changes to the Privacy Policy when he or she uses the Services after such changes have been first posted. 
 
-#### What If I Have Questions or Concerns? 
+##### What If I Have Questions or Concerns? 
 
-If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to info@namely.com or via postal mail at 90 Park Avenue, 20th floor, New York, NY 10016. We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to info@namely.com or via postal mail at 45 West 34th Street, Suite 710-712, New York, NY 10001. We will make every effort to resolve your concerns.
 
-Effective Date: May 6st, 2013
+Effective Date: May 6th, 2013
