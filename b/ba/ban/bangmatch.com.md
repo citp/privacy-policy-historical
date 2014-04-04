@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangmatch.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502060414id_/http%3A//www.bangmatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangmatch.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404040241id_/http%3A//bangmatch.com/privacy-policy) for the most accurate reproduction.*
 
 # BangMatch - Meet ID verified sex seekers online for chat and more - Privacy Policy
 
