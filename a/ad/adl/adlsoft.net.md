@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adlsoft.net privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811001003id_/http%3A//adlsoft.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adlsoft.net privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404163342id_/http%3A//adlsoft.net/privacy.html) for the most accurate reproduction.*
 
 # :: ADL Soft ::
 
