@@ -1,200 +1,213 @@
-<!--The following is the downloaded HTML source of the mycollegeoptions.org privacy policy that was archived on 2012-02-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120213065208id_/https%3A//www.mycollegeoptions.org/Core/SiteContent/Students/About/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mycollegeoptions.org privacy policy that was archived on 2014-04-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140404203234id_/https%3A//www.mycollegeoptions.org/Core/SiteContent/Students/About/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="head"><title>
 	My College Options - PrivacyPolicy
 </title><meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
 <meta http-equiv="pragma" content="no-cache"> 
 <meta http-equiv="content-style-type" content="text/css"> 
 <meta http-equiv="content-script-type" content="text/javascript"> 
-<link type="text/css" rel="stylesheet" href="/Core/CMSPages/GetCSS.aspx?stylesheetname=CorporateSite"> 
-<link type="text/css" rel="stylesheet" href="/Core/CMSPages/GetCSS.aspx?stylesheetname=Header">
-<link type="text/css" rel="stylesheet" href="/Core/CMSPages/GetCSS.aspx?stylesheetname=mco-login">
-<link type="text/css" rel="stylesheet" href="/Core/CMSPages/GetCSS.aspx?stylesheetname=footer">
-<link type="text/css" rel="stylesheet" href="/Core/CMSPages/GetCSS.aspx?stylesheetname=validationPopupMessages">
-<link type="text/css" rel="stylesheet" href="/Core/CMSPages/GetCSS.aspx?stylesheetname=ProfileLeftNavigation">
-<link type="text/css" rel="stylesheet" href="/Core/CMSPages/GetCSS.aspx?stylesheetname=ResourceCenterWidget">
-<link type="text/css" rel="stylesheet" href="/Core/CMSPages/GetCSS.aspx?stylesheetname=Poll">
- <script type="text/javascript" src="/Core/CMSScripts/jQuery/jquery.min.js"></script>
-  <script type="text/javascript" src="/Core/CMSScripts/DisplayNewsVideo.js"></script>
-  <script type="text/javascript" src="/Core/CMSScripts/InteractBannerAd/InteractOffer.js"></script>
- <script type="text/javascript" src="/Core/CMSScripts/jQuery/jquery.simplemodal.js"></script>
-<script type="text/javascript" language="javascript">
+<link href="/Core/CMSPages/GetResource.ashx?stylesheetname=CorporateSite" type="text/css" rel="stylesheet"> 
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<link type="text/css" rel="stylesheet" href="/Core/CMSPages/GetCSS.aspx?stylesheetname=MCOSite">
+<link type="text/css" rel="stylesheet" href="/Core/CMSPages/GetCSS.aspx?stylesheetname=ResearchSummit">
 
-$(document).ready(function() {
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/Core/CMSScripts/jQuery/jquery.min.js" type="text/javascript"></script>
+    <script src="/Core/CMSScripts/DisplayNewsVideo.js" type="text/javascript"></script>
+    <script src="/Core/CMSScripts/InteractBannerAd/InteractOffer.js" type="text/javascript"></script>
+    <script src="/Core/CMSScripts/jQuery/jquery.simplemodal.js" type="text/javascript"></script>
+   
+    <script type="text/javascript">
+        $(document).ready(function () {
+          //alert("hi");
+            $(document).click(function (e) {
+                $('#divPopupSignInErrorMsgNavigation').fadeOut(1000);
+            });
 
- $(document).click(function(e) {
-            $('#divPopupSignInErrorMsgNavigation').fadeOut(1000);
+
+            //code for ntpt event tracking
+            //colleges interested
+            $(".headerSubMenu2CMSListMenuLI").click(function () {
+                if ($(this).find('.headerSubMenu2CMSListMenuLink').text() == "Colleges Interested") {
+                    ntptAddPair('ClickSourceLocation', 'TopNav');
+                    ntptEventTag('ev=ViewCollegeInterestedList');
+                }
+            });
+
+            $(".headerSubMenu2CMSListMenuHighlightedLI").click(function () {
+                if ($(this).find('.headerSubMenu2CMSListMenuLinkHighlighted').text() == "Colleges Interested") {
+                    ntptAddPair('ClickSourceLocation', 'TopNav');
+                    ntptEventTag('ev=ViewCollegeInterestedList');
+                }
+            });
+
+            //colleges matched
+            $(".headerSubMenu2CMSListMenuLI").click(function () {
+                if ($(this).find('.headerSubMenu2CMSListMenuLink').text() == "Colleges Matched") {
+                    ntptAddPair('ClickSourceLocation', 'TopNav');
+                    ntptEventTag('ev=ViewCollegeMatchList');
+                }
+            });
+
+            $(".headerSubMenu2CMSListMenuHighlightedLI").click(function () {
+                if ($(this).find('.headerSubMenu2CMSListMenuLinkHighlighted').text() == "Colleges Matched") {
+                    ntptAddPair('ClickSourceLocation', 'TopNav');
+                    ntptEventTag('ev=ViewCollegeMatchList');
+                }
+            });
+
+            //favorite colleges
+            $(".headerSubMenu2CMSListMenuLI").click(function () {
+                if ($(this).find('.headerSubMenu2CMSListMenuLink').text() == "Favorite Colleges") {
+                    ntptAddPair('ClickSourceLocation', 'TopNav');
+                    ntptEventTag('ev=ViewCollegeFavoriteList');
+                }
+            });
+
+            $(".headerSubMenu2CMSListMenuHighlightedLI").click(function () {
+                if ($(this).find('.headerSubMenu2CMSListMenuLinkHighlighted').text() == "Favorite Colleges") {
+                    ntptAddPair('ClickSourceLocation', 'TopNav');
+                    ntptEventTag('ev=ViewCollegeFavoriteList');
+                }
+            });
+
+            //scholarships matched
+            $(".headerSubMenu2CMSListMenuLI").click(function () {
+                if ($(this).find('.headerSubMenu2CMSListMenuLink').text() == "Scholarships Matched") {
+                    ntptAddPair('ClickSourceLocation', 'TopNav');
+                    ntptEventTag('ev=ViewScholarshipMatchList');
+                }
+            });
+
+            $(".headerSubMenu2CMSListMenuHighlightedLI").click(function () {
+                if ($(this).find('.headerSubMenu2CMSListMenuLinkHighlighted').text() == "Scholarships Matched") {
+                    ntptAddPair('ClickSourceLocation', 'TopNav');
+                    ntptEventTag('ev=ViewScholarshipMatchList');
+                }
+            });
+
+            //Edit/View Profile
+            $(".headerSubMenu2CMSListMenuLI").click(function () {
+                if ($(this).find('.headerSubMenu2CMSListMenuLink').text() == "Edit/View Profile") {
+                    ntptAddPair('ClickSourceLocation', 'TopNav');
+                    ntptEventTag('ev=ViewUserProfile');
+
+                }
+            });
+            $(".headerSubMenu2CMSListMenuHighlightedLI").click(function () {
+                if ($(this).find('.headerSubMenu2CMSListMenuLinkHighlighted').text() == "Edit/View Profile") {
+                    ntptAddPair('ClickSourceLocation', 'TopNav');
+                    ntptEventTag('ev=ViewUserProfile');
+                }
+            });
+
+
+            //end of code for ntpt event tracking
+            //code to dispaly the 1st and 2nd level of menu
+            //because when we click on the 1st level "highlight" class is not apply to other level, so we need to display allUL's 
+            $(".headerMainMenuCMSListMenuHighlightedLI").find(".headerSubMenu1CMSListMenuUL").css('display', 'block');
+
+            $(".headerSubMenu1CMSListMenuLI").mouseover(function () {
+                //alert("hi1");
+                closeSecondLevel();
+                $(this).find('ul.headerSubMenu2CMSListMenuUL').css('display', 'block');
+            });
+
+            $(".headerSubMenu1CMSListMenuHighlightedLI").mouseover(function () {
+              //alert("hi");
+                closeSecondLevel();
+                $(this).find('ul.headerSubMenu2CMSListMenuUL').css('display', 'block');
+            });
+
+
+            wireUpLoginClick();
+            wireUpCancelLoginClick();
+
+
         });
 
+        function closeSecondLevel() {
 
-  //code for ntpt event tracking
-    //colleges interested
-    $(".headerSubMenu2CMSListMenuLI").click(function() {
-        if ($(this).find('.headerSubMenu2CMSListMenuLink').text() == "Colleges Interested") {
-            ntptAddPair('ClickSourceLocation', 'TopNav');
-            ntptEventTag('ev=ViewCollegeInterestedList');
-        }
-    });
-
-    $(".headerSubMenu2CMSListMenuHighlightedLI").click(function() {
-        if ($(this).find('.headerSubMenu2CMSListMenuLinkHighlighted').text() == "Colleges Interested") {
-            ntptAddPair('ClickSourceLocation', 'TopNav');
-            ntptEventTag('ev=ViewCollegeInterestedList');
-        }
-    });
-
-    //colleges matched
-    $(".headerSubMenu2CMSListMenuLI").click(function() {
-        if ($(this).find('.headerSubMenu2CMSListMenuLink').text() == "Colleges Matched") {
-            ntptAddPair('ClickSourceLocation', 'TopNav');
-            ntptEventTag('ev=ViewCollegeMatchList');
-        }
-    });
-
-    $(".headerSubMenu2CMSListMenuHighlightedLI").click(function() {
-        if ($(this).find('.headerSubMenu2CMSListMenuLinkHighlighted').text() == "Colleges Matched") {
-            ntptAddPair('ClickSourceLocation', 'TopNav');
-            ntptEventTag('ev=ViewCollegeMatchList');
-        }
-    });
-
-    //favorite colleges
-    $(".headerSubMenu2CMSListMenuLI").click(function() {
-        if ($(this).find('.headerSubMenu2CMSListMenuLink').text() == "Favorite Colleges") {
-            ntptAddPair('ClickSourceLocation', 'TopNav');
-            ntptEventTag('ev=ViewCollegeFavoriteList');
-        }
-    });
-
-    $(".headerSubMenu2CMSListMenuHighlightedLI").click(function() {
-        if ($(this).find('.headerSubMenu2CMSListMenuLinkHighlighted').text() == "Favorite Colleges") {
-            ntptAddPair('ClickSourceLocation', 'TopNav');
-            ntptEventTag('ev=ViewCollegeFavoriteList');
-        }
-    });
-
-    //scholarships matched
-    $(".headerSubMenu2CMSListMenuLI").click(function() {
-        if ($(this).find('.headerSubMenu2CMSListMenuLink').text() == "Scholarships Matched") {
-            ntptAddPair('ClickSourceLocation', 'TopNav');
-            ntptEventTag('ev=ViewScholarshipMatchList');
-        }
-    });
-
-    $(".headerSubMenu2CMSListMenuHighlightedLI").click(function() {
-        if ($(this).find('.headerSubMenu2CMSListMenuLinkHighlighted').text() == "Scholarships Matched") {
-            ntptAddPair('ClickSourceLocation', 'TopNav');
-            ntptEventTag('ev=ViewScholarshipMatchList');
-        }
-    });
-
-    //Edit/View Profile
-    $(".headerSubMenu2CMSListMenuLI").click(function() {
-        if ($(this).find('.headerSubMenu2CMSListMenuLink').text() == "Edit/View Profile") {
-            ntptAddPair('ClickSourceLocation', 'TopNav');
-            ntptEventTag('ev=ViewUserProfile');
+            $('ul.headerSubMenu2CMSListMenuUL').css('display', 'none');
 
         }
-    });
-    $(".headerSubMenu2CMSListMenuHighlightedLI").click(function() {
-        if ($(this).find('.headerSubMenu2CMSListMenuLinkHighlighted').text() == "Edit/View Profile") {
-            ntptAddPair('ClickSourceLocation', 'TopNav');
-            ntptEventTag('ev=ViewUserProfile');
+        function wireUpLoginClick() {
+
+            $('.head-loginout').click(function () {
+                //alert("hi");
+                $("#head-loginout-box").fadeIn(500);
+            });
         }
-    });
+        function wireUpCancelLoginClick() {
+
+            $('.hover-button').click(function () {
+
+                $("#head-loginout-box").hide();
+            });
+        }
+    </script>
+    <script language="javascript" type="text/javascript">
+
+        $(document).ready(function () {
+
+            $("#divCloseButton").click(function () {
+                $(".popupContainer").hide();
+                $(".popupBackground").hide();
+            });
+            //Interact offer tracking JS funcion
+            InteractOffer.InitializeTrackingTools();
+        });
+
+        function CollegeProfessionalPopup() {
+            var maskHeight = $(document).height();
+            var maskWidth = $(window).width();
+            $(".popupBackground").css({ 'width': maskWidth, 'height': maskHeight, 'opacity': '0.5' });
+            $(".popupBackground").fadeIn("slow");
 
 
-    //end of code for ntpt event tracking
-  //code to dispaly the 1st and 2nd level of menu
-    //because when we click on the 1st level "highlight" class is not apply to other level, so we need to display allUL's 
-    $(".headerMainMenuCMSListMenuHighlightedLI").find(".headerSubMenu1CMSListMenuUL").css('display', 'block');
+            var winH = $(window).height();
+            var winW = $(window).width();
 
-    $(".headerSubMenu1CMSListMenuLI").mouseover(function() {
-        closeSecondLevel();
-        $(this).find('ul.headerSubMenu2CMSListMenuUL').css('display', 'block');
-    });
+            //Set the popup window to center  
+            $('.popupContainer').css('top', winH / 2 - $('.popupContainer').height() / 2);
+            $('.popupContainer').css('left', winW / 2 - $('.popupContainer').width() / 2);
+
+            $(".popupContainer").fadeIn(10);
+        }
+
+
+
+    </script>
     
-    $(".headerSubMenu1CMSListMenuHighlightedLI").mouseover(function() {
-        closeSecondLevel();
-        $(this).find('ul.headerSubMenu2CMSListMenuUL').css('display', 'block');
-    });
+    <script type="text/javascript">
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
+        ga('create', 'UA-42896973-2', 'mycollegeoptions.org');
+        ga('send', 'pageview');
 
-    wireUpLoginClick();
-    wireUpCancelLoginClick();
-
-
-});
-
-function closeSecondLevel() {
-
-    $('ul.headerSubMenu2CMSListMenuUL').css('display', 'none');
-
-}
-function wireUpLoginClick() {
-
-    $('.head-loginout').click(function() {
-
-        $("#head-loginout-box").fadeIn(500);
-    });
-}
-function wireUpCancelLoginClick() {
-
-    $('.hover-button').click(function() {
-
-        $("#head-loginout-box").hide();
-    });
-}
-</script>
-<script language="javascript" type="text/javascript">
-
-    $(document).ready(function() {
-
-        $("#divCloseButton").click(function() {
-            $(".popupContainer").hide();
-            $(".popupBackground").hide();
-        });
-	//Interact offer tracking JS funcion
-	InteractOffer.InitializeTrackingTools();
-    });
-
-    function CollegeProfessionalPopup() {
-        var maskHeight = $(document).height();
-        var maskWidth = $(window).width();
-        $(".popupBackground").css({ 'width': maskWidth, 'height': maskHeight, 'opacity': '0.5' });
-        $(".popupBackground").fadeIn("slow");
-
-
-        var winH = $(window).height();
-        var winW = $(window).width();
-
-        //Set the popup window to center  
-        $('.popupContainer').css('top', winH / 2 - $('.popupContainer').height() / 2);
-        $('.popupContainer').css('left', winW / 2 - $('.popupContainer').width() / 2);
-
-        $(".popupContainer").fadeIn(10);
-    }
-
-
-
-</script>
-<link type="text/css" rel="stylesheet" href="/Core/CMSPages/GetCSS.aspx?stylesheetname=McoTwoColumnWithLeftNav"> 
-<link rel="shortcut icon" href="/Core/favicon.ico">
-<link rel="icon" href="/Core/favicon.ico"><link href="../../../App_Themes/CorporateSite/Dialogs.css" type="text/css" rel="stylesheet"><link href="../../../App_Themes/CorporateSite/ECommerce.css" type="text/css" rel="stylesheet"></head>
-<body class="LTR ENUS">
-    <form method="post" action="/Core/SiteContent/Students/About/PrivacyPolicy.aspx" id="form1">
-<div>
+    </script><link type="text/css" rel="stylesheet" href="/Core/CMSPages/GetCSS.aspx?stylesheetname=McoTwoColumnWithLeftNav"> 
+<link href="/Core/favicon.ico" type="image/x-icon" rel="shortcut icon"> 
+<link href="/Core/favicon.ico" type="image/x-icon" rel="icon"> 
+<link href="/Core/CMSPages/GetResource.ashx?stylesheetfile=/Core/App_Themes/CorporateSite/Dialogs.css" type="text/css" rel="stylesheet"><link href="/Core/CMSPages/GetResource.ashx?stylesheetfile=/Core/App_Themes/CorporateSite/ECommerce.css" type="text/css" rel="stylesheet"><link href="/Core/CMSPages/GetResource.ashx?stylesheetfile=/Core/App_Themes/CorporateSite/Skin.css" type="text/css" rel="stylesheet"></head>
+<body class="LTR ENUS ContentBody">
+    <form method="post" action="/Core/SiteContent/Students/About/PrivacyPolicy.aspx" id="form">
+<div class="aspNetHidden">
+<input type="hidden" name="manScript_HiddenField" id="manScript_HiddenField" value="">
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTU2MjkyNjQyNw9kFgICARBkZBYCAgMPZBYCZg9kFgJmD2QWBgIBD2QWAmYPZBYCAgEPZBYEAgEPD2QWBh4Gb25ibHVyBRdXYXRlck1hcmsodGhpcywgZXZlbnQpOx4Hb25mb2N1cwUXV2F0ZXJNYXJrKHRoaXMsIGV2ZW50KTseCm9ua2V5cHJlc3MFZ3JldHVybiBjbGlja0J1dHRvbk9uRW50ZXJLZXlQcmVzcyhldmVudCwncGxjX2x0X1pvbmVTZWFyY2hCb3hfdXNlcmNvbnRyb2xfdXNlckNvbnRyb2xFbGVtX2hsbmtTZWFyY2gnKTtkAgMPDxYEHghJbWFnZVVybAVEL0NvcmUvQXBwX1RoZW1lcy9XZWJQcm9qZWN0L21lZGlhL0ltYWdlcy9CdXR0b25zL2ljbl9zZWFyY2hTbWFsbC5naWYeC05hdmlnYXRlVXJsBdgCSmF2YVNjcmlwdDpzZWFyY2goJ3BsY19sdF9ab25lU2VhcmNoQm94X3VzZXJjb250cm9sX3VzZXJDb250cm9sRWxlbV9xJywncGxjX2x0X1pvbmVTZWFyY2hCb3hfdXNlcmNvbnRyb2xfdXNlckNvbnRyb2xFbGVtX2N4JywncGxjX2x0X1pvbmVTZWFyY2hCb3hfdXNlcmNvbnRyb2xfdXNlckNvbnRyb2xFbGVtX2NvZicsJy9Db250ZW50L1NlYXJjaFJlc3VsdHMuYXNweCcsJ2h0dHBzOi8vd3d3Lm15Y29sbGVnZW9wdGlvbnMub3JnOjQ0My9Db3JlL0NNU1BhZ2VzL1BvcnRhbFRlbXBsYXRlLmFzcHg/YWxpYXNwYXRoPSUyZlNpdGVDb250ZW50JTJmU3R1ZGVudHMlMmZBYm91dCUyZlByaXZhY3lQb2xpY3knKTtkZAICD2QWAmYPZBYEAgMPZBYCZg9kFgJmD2QWAgIBD2QWAgIFDxAPFgIeBFRleHRlZGRkZAIFD2QWAgIDDw9kFgIeBXN0eWxlBQ1kaXNwbGF5Om5vbmU7ZAIDD2QWAmYPZBYCAgIPZBYCZg9kFgJmD2QWAgIBD2QWAmYPZBYCAgEPZBYCAgEPZBYCZg9kFgJmDxYGHhJUcmFuc2Zvcm1hdGlvbk5hbWUFJUNNUy5NZW51SXRlbS5SZXNvdXJjZUNlbnRlcldpZGdldExpc3QeFkhpZGVDb250cm9sRm9yWmVyb1Jvd3NoHgxaZXJvUm93c1RleHRlFgpmD2QWAmYPZBYCZg8VAmsvQ29yZS9TaXRlQ29udGVudC9TdHVkZW50cy9BZHZpY2UvQ29sbGVnZS1SZXNvdXJjZS1DZW50ZXIvR2V0dGluZy1Jbi1Uby1Db2xsZWdlL1JldGFraW5nLXRoZS1TQVRzLUFDVHMuYXNweBZSZXRha2luZyB0aGUgU0FUcy9BQ1RzZAIBD2QWAmYPZBYCZg8VAogBL0NvcmUvU2l0ZUNvbnRlbnQvU3R1ZGVudHMvQWR2aWNlL0NvbGxlZ2UtUmVzb3VyY2UtQ2VudGVyL0NvbGxlZ2UtU2VhcmNoLWFuZC1TZWxlY3Rpb24vSGlzdG9yaWNhbGx5LUJsYWNrLUNvbGxlZ2VzLWFuZC1Vbml2ZXJzaXRpZXMuYXNweCxIaXN0b3JpY2FsbHkgQmxhY2sgQ29sbGVnZXMgYW5kIFVuaXZlcnNpdGllc2QCAg9kFgJmD2QWAmYPFQJ8L0NvcmUvU2l0ZUNvbnRlbnQvU3R1ZGVudHMvQWR2aWNlL0NvbGxlZ2UtUmVzb3VyY2UtQ2VudGVyL0NvbGxlZ2UtU2VhcmNoLWFuZC1TZWxlY3Rpb24vTmFycm93aW5nLURvd24tWW91ci1Db2xsZWdlLUxpc3QuYXNweCBOYXJyb3dpbmcgRG93biBZb3VyIENvbGxlZ2UgTGlzdGQCAw9kFgJmD2QWAmYPFQJpL0NvcmUvU2l0ZUNvbnRlbnQvU3R1ZGVudHMvQWR2aWNlL0NvbGxlZ2UtUmVzb3VyY2UtQ2VudGVyL0FwcGx5aW5nLXRvLUNvbGxlZ2UvRWFybHktQWRtaXNzaW9ucy1QbGFucy5hc3B4FkVhcmx5IEFkbWlzc2lvbnMgUGxhbnNkAgQPZBYCZg9kFgJmDxUCZy9Db3JlL1NpdGVDb250ZW50L1N0dWRlbnRzL0FkdmljZS9Db2xsZWdlLVJlc291cmNlLUNlbnRlci9BcHBseWluZy10by1Db2xsZWdlL0FjY2VwdGVkLS0tTm93LVdoYXQtLmFzcHgUQWNjZXB0ZWQgLSBOb3cgV2hhdD9kGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBTJwbGMkbHQkem9uZUxvZ2luJE1DT0xvZ29uRm9ybSRMb2dpbjEkY2hrUmVtZW1iZXJNZQUycGxjJGx0JHpvbmVMb2dpbiRNQ09Mb2dvbkZvcm0kTG9naW4xJGJ0bkltYWdlTG9nb25mUplVJaMca/l1+uvfw9qvMMWruQ==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODc3OTc4NjAwDxYCHhNWYWxpZGF0ZVJlcXVlc3RNb2RlAgEWAgIBEGRkFgICBQ9kFgJmD2QWAmYPZBYGZg9kFgICAQ9kFgZmDxUBQ2h0dHBzOi8vd3d3Lm15Y29sbGVnZW9wdGlvbnMub3JnL0F1dGhlbnRpY2F0aW9uL1NpZ25JblVzaW5nRmFjZWJvb2tkAgMPZBYCZg9kFgJmD2QWAgIBD2QWAgIFDxAPFgQeBFRleHRlHgdUb29sVGlwZWRkZGQCBQ9kFgICAw8PZBYCHgVzdHlsZQUNZGlzcGxheTpub25lO2QCAQ9kFgJmD2QWAgICD2QWBAIBDw9kFgYeBm9uYmx1cgUXV2F0ZXJNYXJrKHRoaXMsIGV2ZW50KTseB29uZm9jdXMFF1dhdGVyTWFyayh0aGlzLCBldmVudCk7HgpvbmtleXByZXNzBWVyZXR1cm4gY2xpY2tCdXR0b25PbkVudGVyS2V5UHJlc3MoZXZlbnQsJ3BfbHRfWm9uZVNlYXJjaEJveF91c2VyY29udHJvbF91c2VyQ29udHJvbEVsZW1faGxua1NlYXJjaCcpO2QCAw8PFgQeCEltYWdlVXJsBUQvQ29yZS9BcHBfVGhlbWVzL1dlYlByb2plY3QvbWVkaWEvSW1hZ2VzL0J1dHRvbnMvaWNuX3NlYXJjaFNtYWxsLmdpZh4LTmF2aWdhdGVVcmwFwgJKYXZhU2NyaXB0OnNlYXJjaCgncF9sdF9ab25lU2VhcmNoQm94X3VzZXJjb250cm9sX3VzZXJDb250cm9sRWxlbV9xJywncF9sdF9ab25lU2VhcmNoQm94X3VzZXJjb250cm9sX3VzZXJDb250cm9sRWxlbV9jeCcsJ3BfbHRfWm9uZVNlYXJjaEJveF91c2VyY29udHJvbF91c2VyQ29udHJvbEVsZW1fY29mJywnL1NpdGVTZWFyY2gnLCdodHRwczovL3d3dy5teWNvbGxlZ2VvcHRpb25zLm9yZzo0NDMvQ29yZS9DTVNQYWdlcy9Qb3J0YWxUZW1wbGF0ZS5hc3B4P2FsaWFzcGF0aD0lMmZTaXRlQ29udGVudCUyZlN0dWRlbnRzJTJmQWJvdXQlMmZQcml2YWN5UG9saWN5Jyk7ZGQCAw9kFgICAQ9kFgICAg9kFgJmD2QWAmYPZBYCAgEPZBYCZg9kFgICAg9kFgRmD2QWAgIBD2QWAmYPZBYCZg8WCB4SVHJhbnNmb3JtYXRpb25OYW1lBSxNQ08uUmVzb3VyY2VBcnRpY2xlLlJlc291cmNlQ2VudGVyV2lkZ2V0TGlzdB4LXyFJdGVtQ291bnQCBR4WSGlkZUNvbnRyb2xGb3JaZXJvUm93c2geDFplcm9Sb3dzVGV4dGUWCmYPZBYCZg9kFgJmDxUCpQEvQ29yZS9TaXRlQ29udGVudC9TdHVkZW50cy9BZHZpY2UvQ29sbGVnZS1SZXNvdXJjZS1DZW50ZXIvR2V0dGluZy1pbi0tLUFwcGx5aW5nLXRvLUNvbGxlZ2UvQ29sbGVnZS1BcHBsaWNhdGlvbnMtLS10aGUtQXBwbGljYXRpb24tUHJvY2Vzcy9FYXJseS1BZG1pc3Npb25zLVBsYW5zLmFzcHgWRWFybHkgQWRtaXNzaW9ucyBQbGFuc2QCAQ9kFgJmD2QWAmYPFQKcAS9Db3JlL1NpdGVDb250ZW50L1N0dWRlbnRzL0FkdmljZS9Db2xsZWdlLVJlc291cmNlLUNlbnRlci9Db2xsZWdlLVNlYXJjaC0tLVNlbGVjdGlvbi9BZnRlci1IaWdoLVNjaG9vbC9UeXBlcy1vZi1Db2xsZWdlcy1Zb3VyLU9wdGlvbnMtQWZ0ZXItSGlnaC1TY2hvb2wuYXNweBlPcHRpb25zIGFmdGVyIEhpZ2ggU2Nob29sZAICD2QWAmYPZBYCZg8VAnovQ29yZS9TaXRlQ29udGVudC9TdHVkZW50cy9BZHZpY2UvQ29sbGVnZS1SZXNvdXJjZS1DZW50ZXIvRm9yLVBhcmVudHMvQ29sbGVnZS1BZG1pc3Npb25zL0RlZmVycmluZy1Db2xsZWdlLUVucm9sbG1lbnQuYXNweBxEZWZlcnJpbmcgQ29sbGVnZSBFbnJvbGxtZW50ZAIDD2QWAmYPZBYCZg8VAqUBL0NvcmUvU2l0ZUNvbnRlbnQvU3R1ZGVudHMvQWR2aWNlL0NvbGxlZ2UtUmVzb3VyY2UtQ2VudGVyL0dldHRpbmctaW4tLS1BcHBseWluZy10by1Db2xsZWdlL0NvbGxlZ2UtQXBwbGljYXRpb25zLS0tdGhlLUFwcGxpY2F0aW9uLVByb2Nlc3MvQ29tbW9uLUVzc2F5LVF1ZXN0aW9ucy5hc3B4FkNvbW1vbiBFc3NheSBRdWVzdGlvbnNkAgQPZBYCZg9kFgJmDxUCfy9Db3JlL1NpdGVDb250ZW50L1N0dWRlbnRzL0FkdmljZS9Db2xsZWdlLVJlc291cmNlLUNlbnRlci9Db2xsZWdlLVNlYXJjaC0tLVNlbGVjdGlvbi9Db2xsZWdlLVJlc2VhcmNoL1Jlc2VhcmNoaW5nLUNvbGxlZ2VzLmFzcHgUUmVzZWFyY2hpbmcgQ29sbGVnZXNkAgEPFgIeB1Zpc2libGVoZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgUucCRsdCR6b25lVG9wJE1DT0xvZ29uRm9ybSRMb2dpbjEkY2hrUmVtZW1iZXJNZQUucCRsdCR6b25lVG9wJE1DT0xvZ29uRm9ybSRMb2dpbjEkYnRuSW1hZ2VMb2dvbrhjuAfy2sVhYu8Az4pXtjpBR6LB">
 </div>
 
 <script type="text/javascript">
 //<![CDATA[
-var theForm = document.forms['form1'];
+var theForm = document.forms['form'];
 if (!theForm) {
-    theForm = document.form1;
+    theForm = document.form;
 }
 function __doPostBack(eventTarget, eventArgument) {
     if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
@@ -207,7 +220,7 @@ function __doPostBack(eventTarget, eventArgument) {
 </script>
 
 
-<script src="/Core/WebResource.axd?d=_xqoAC_y7luLaqnRFtp75Q2&amp;t=634359628026297296" type="text/javascript"></script>
+<script src="/Core/WebResource.axd?d=Cr6NY1haBII3CUWgTf-vRxkAVYzK1FJ6XORbJp5zHXYb1faJ2WnIXBUQYE-i4nGMszzp_Bd8NNpxf0uVdI32lDKWS0A1&amp;t=634773912100000000" type="text/javascript"></script>
 
 <!-- BEGIN: Unica Page Tag -->
         <!-- Copyright 2004-2006 Unica Corporation.  All rights reserved. -->
@@ -215,111 +228,291 @@ function __doPostBack(eventTarget, eventArgument) {
         <noscript>
         <img src="https://pagetag.mycollegeoptions.org/ntpagetag.gif" height="1" width="1" border="0" hspace="0" vspace="0" alt="" />
         </noscript>
-        <!-- END: Unica Page Tag --><div><input type="hidden" name="lng" id="lng" value="en-US">
-</div>
-<script src="/Core/ScriptResource.axd?d=yKxM2c5NMtKctHTIHwO2XDKR5r3alIJEZjgUbeJgPECJ_J-AJwFHNtm2y5Ji0TIIvzU8uEvW_hFAebZCs7n_ZB41SDh5r_ng6r5_kyvvX8g1&amp;t=16ab2387" type="text/javascript"></script>
-<script src="/Core/ScriptResource.axd?d=yKxM2c5NMtKctHTIHwO2XDKR5r3alIJEZjgUbeJgPECJ_J-AJwFHNtm2y5Ji0TIIIxZ5QPGaGlGg67xyiL57dood7YKXE1es8AEAC30b5do1&amp;t=16ab2387" type="text/javascript"></script>
-<div>
+        <!-- END: Unica Page Tag --><input type="hidden" name="lng" id="lng" value="en-US">
+<script type="text/javascript">
+	//<![CDATA[
 
-	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0">
-	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0">
-</div>
-    <div id="manPortal">
-
-</div><script type="text/javascript">
-//<![CDATA[
-Sys.WebForms.PageRequestManager._initialize('manScript', 'form1', [], [], [], 90, '');
+function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }__doPostBack('m',param); }
+function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }WebForm_DoCallback('m',param,callback,ctx,null,true); }
 //]]>
 </script>
+<script src="/Core/ScriptResource.axd?d=_uvaJKwGYdKoVLtnfhb7Ya1ph3BqpNDnKP7VkKLz53G2mPLaRxYEy507YIPwNUkHV12Jvk4Y-piiUMi1fe0tHJGWX-2-VgmYo8a8EaT5s_Kkcul70&amp;t=3a1336b1" type="text/javascript"></script>
+<script src="/Core/ScriptResource.axd?d=WT7uBt5UTwr__FY7gzeZfkaVAo7buyOZGg1LLjV1L4mhXhqdJxVmx5c8Qg65NJkMZfJK2WP4tVQ6EAixFe40AtCafqPwuXbDQwVpy8Ehl0klUx9ayBexeGMejLDHM_KeLev5YA2&amp;t=3a1336b1" type="text/javascript"></script>
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM',''], [], [], 90, '');
+//]]>
+</script>
+<div id="CMSHeaderDiv">
+	<!-- -->
+</div>
+    <div id="ctxM">
 
-     
+</div>
+    
+<script type="text/javascript">
+  var $= jQuery.noConflict();
+</script>
+
+<style type="text/css">
+  .login-box {
+    position: relative;
+    
+  }
+  .login-box #member #head-loginout-box {
+    top: 33px;
+    border: solid 1px #6185A0;
+    right: 66px;
+    background: white;
+  }
+  .login-box #member #head-loginout-box div.top {
+    background: white;
+  }
+  .login-box #member #head-loginout-box div.btm {
+    background: white;
+  }
+  .login-box .head-loginout.active {
+    background: white;
+    padding-bottom: 15px;
+    border: solid 1px #6185A0;
+    border-bottom: none;
+  }
+</style>
 <div class="main">
 <div class="user-nav">
-    <div class="user-alert">
-        <a style="color: rgb(255, 255, 255); margin: 0;" href="/home">My College Options®</a>
+    <div class="user-alert" style="margin-top:6px;">
+        <a href="/home"><img border="0" src="/Core/App_Themes/WebProject/media/Images/Logo/lgoMCONavBigNew.gif"></a>
     </div>
-    <div class="user-login">
-    </div>
+    <!--<div class="user-login">
+    </div>-->
     <!-- /user-nav-->
 </div>
 <div class="site-nav">
-    <div id="menu">
+    <div id="menu" style="margin-left:183px;">
      
 	<ul class="headerMainMenuCMSListMenuUL" id="menuElem">
-		<li class="headerMainMenuCMSListMenuHighlightedLI"><a href="/Home?IsDefaultMenuItem=true" class="headerMainMenuCMSListMenuLinkHighlighted" title="Students">Students</a>
+		<li class="headerMainMenuCMSListMenuHighlightedLI" style=""><a href="/Home?IsDefaultMenuItem=true" class="headerMainMenuCMSListMenuLinkHighlighted" style="" title="Students">Students</a>
 		<ul class="headerSubMenu1CMSListMenuUL">
-			<li class="headerSubMenu1CMSListMenuLI"><span class="headerSubMenu1CMSListMenuLink" onclick="return false;" title="My Home">My Home</span>
+			<li class="headerSubMenu1CMSListMenuLI" style=""><a href="/MyHome" class="headerSubMenu1CMSListMenuLink" style="" title="My Home">My Home</a></li>
+			<li class="headerSubMenu1CMSListMenuLI" style=""><span class="headerSubMenu1CMSListMenuLink" style="" onclick="return false;" title="Search">Search</span>
 			<ul class="headerSubMenu2CMSListMenuUL">
-				<li class="headerSubMenu2CMSListMenuLI"><a href="/MyHome?tab=interested" class="headerSubMenu2CMSListMenuLink" title="Colleges Interested">Colleges Interested</a></li>
-				<li class="headerSubMenu2CMSListMenuLI"><a href="/MyHome?tab=matched" class="headerSubMenu2CMSListMenuLink" title="College Matches">College Matches</a></li>
-				<li class="headerSubMenu2CMSListMenuLI"><a href="/MyHome?tab=favorite" class="headerSubMenu2CMSListMenuLink" title="Favorite Colleges">Favorite Colleges</a></li>
-				<li class="headerSubMenu2CMSListMenuLI"><a href="/MyHome?tab=scholarships" class="headerSubMenu2CMSListMenuLink" title="Scholarship Matches">Scholarship Matches</a></li>
+				<li class="headerSubMenu2CMSListMenuLI" style=""><a href="/CollegeSearch" class="headerSubMenu2CMSListMenuLink" style="" title="Colleges">Colleges</a></li>
+				<li class="headerSubMenu2CMSListMenuLI" style=""><a href="/highschoolsearch?HighlightMatchPattern=high-school-search|high-School-profile" class="headerSubMenu2CMSListMenuLink" style="" title="High Schools">High Schools</a></li>
+				<li class="headerSubMenu2CMSListMenuLI" style=""><a href="/scholarship-advanced-search.aspx?HighlightMatchPattern=scholarship-search|scholarship-advanced|scholarshipsearch" class="headerSubMenu2CMSListMenuLink" style="" title="Scholarships">Scholarships</a></li>
 			</ul>
 			</li>
-			<li class="headerSubMenu1CMSListMenuLI"><span class="headerSubMenu1CMSListMenuLink" onclick="return false;" title="Search">Search</span>
+			<li class="headerSubMenu1CMSListMenuLI" style=""><span class="headerSubMenu1CMSListMenuLink" style="" onclick="return false;" title="Advice">Advice</span>
 			<ul class="headerSubMenu2CMSListMenuUL">
-				<li class="headerSubMenu2CMSListMenuLI"><a href="/college-search/us.aspx?HighlightMatchPattern=college-search|search-results-colleges|search-results-advanced|college-profile" class="headerSubMenu2CMSListMenuLink" title="Colleges">Colleges</a></li>
-				<li class="headerSubMenu2CMSListMenuLI"><a href="/high-school-search/us.aspx?HighlightMatchPattern=high-school-search|high-School-profile" class="headerSubMenu2CMSListMenuLink" title="High Schools">High Schools</a></li>
-				<li class="headerSubMenu2CMSListMenuLI"><a href="/scholarship-advanced-search.aspx?HighlightMatchPattern=scholarship-search|scholarship-advanced|scholarshipsearch" class="headerSubMenu2CMSListMenuLink" title="Scholarships">Scholarships</a></li>
+				<li class="headerSubMenu2CMSListMenuLI" style=""><a href="/Core/SiteContent/Students/Advice/Admit-One-Blog.aspx" class="headerSubMenu2CMSListMenuLink" style="" onclick="window.open('http://admitoneblog.org');return false;" title="Admit One Blog">Admit One Blog</a></li>
+				<li class="headerSubMenu2CMSListMenuLI" style=""><a href="/Core/SiteContent/Students/Advice/College-Resource-Center.aspx" class="headerSubMenu2CMSListMenuLink" style="" title="Resource Center">Resource Center</a></li>
 			</ul>
 			</li>
-			<li class="headerSubMenu1CMSListMenuLI"><span class="headerSubMenu1CMSListMenuLink" onclick="return false;" title="Advice">Advice</span>
+			<li class="headerSubMenu1CMSListMenuLI" style=""><span class="headerSubMenu1CMSListMenuLink" style="" onclick="return false;" title="Tools">Tools</span>
 			<ul class="headerSubMenu2CMSListMenuUL">
-				<li class="headerSubMenu2CMSListMenuLI"><a href="/Core/SiteContent/Students/Advice/College-Resource-Center.aspx" class="headerSubMenu2CMSListMenuLink" title="Resource Center">Resource Center</a></li>
-				<li class="headerSubMenu2CMSListMenuLI"><a href="/Core/SiteContent/Students/Advice/PrepTalkHome.aspx" class="headerSubMenu2CMSListMenuLink" title="Prep Talk">Prep Talk</a></li>
-			</ul>
-			</li>
-			<li class="headerSubMenu1CMSListMenuLI"><span class="headerSubMenu1CMSListMenuLink" onclick="return false;" title="Tools">Tools</span>
-			<ul class="headerSubMenu2CMSListMenuUL">
-				<li class="headerSubMenu2CMSListMenuLI"><a href="/Content/ForStudents/ZeroHourThreat/ZeroHourThreatGame.aspx" class="headerSubMenu2CMSListMenuLink" title="ACT/SAT Test Prep">ACT/SAT Test Prep</a></li>
-				<li class="headerSubMenu2CMSListMenuLI"><a href="/Core/SiteContent/Students/Tools/MajorsSearch.aspx" class="headerSubMenu2CMSListMenuLink" title="Major &amp; Career Research">Major &amp; Career Research</a></li>
-				<li class="headerSubMenu2CMSListMenuLI"><a href="/SimpleTuition/StudentLoanSearch.aspx?HighlightMatchPattern=SimpleTuition" class="headerSubMenu2CMSListMenuLink" title="Student Loan Search">Student Loan Search</a></li>
+				<li class="headerSubMenu2CMSListMenuLI" style=""><a href="/Core/SiteContent/Students/Tools/TestPrep.aspx" class="headerSubMenu2CMSListMenuLink" style="" title="Test Prep">Test Prep</a></li>
+				<li class="headerSubMenu2CMSListMenuLI" style=""><a href="/Core/SiteContent/Students/Tools/MajorsSearch.aspx" class="headerSubMenu2CMSListMenuLink" style="" title="Majors Search">Majors Search</a></li>
+				<li class="headerSubMenu2CMSListMenuLI" style=""><a href="/Core/SiteContent/Students/Tools/FinancialAid.aspx" class="headerSubMenu2CMSListMenuLink" style="" title="Financial Aid">Financial Aid</a></li>
+				<li class="headerSubMenu2CMSListMenuLI" style=""><a href="/CollegeFeed" class="headerSubMenu2CMSListMenuLink" style="" title="College News">College News</a></li>
 			</ul>
 			</li>
 		</ul>
 		</li>
-		<li class="headerMainMenuCMSListMenuLI"><a href="/Content/ForParents/ParentsHome.aspx" class="headerMainMenuCMSListMenuLink" title="Parents">Parents</a>
+		<li class="headerMainMenuCMSListMenuLI" style=""><a href="/Content/ForParents/ParentsHome.aspx" class="headerMainMenuCMSListMenuLink" style="" title="Parents">Parents</a>
 		<ul class="headerSubMenu1CMSListMenuUL">
-			<li class="headerSubMenu1CMSListMenuLI"><a href="/Content/ForParents/ParentsHome.aspx" class="headerSubMenu1CMSListMenuLink" title="Home">Home</a></li>
-			<li class="headerSubMenu1CMSListMenuLI"><span class="headerSubMenu1CMSListMenuLink" onclick="return false;" title="Search">Search</span>
+			<li class="headerSubMenu1CMSListMenuLI" style=""><a href="/MyStudents" class="headerSubMenu1CMSListMenuLink" style="" title="My Home">My Home</a></li>
+			<li class="headerSubMenu1CMSListMenuLI" style=""><span class="headerSubMenu1CMSListMenuLink" style="" onclick="return false;" title="Search">Search</span>
 			<ul class="headerSubMenu2CMSListMenuUL">
-				<li class="headerSubMenu2CMSListMenuLI"><a href="/college-search/us.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="Colleges">Colleges</a></li>
-				<li class="headerSubMenu2CMSListMenuLI"><a href="/high-school-search/us.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="High Schools">High Schools</a></li>
-				<li class="headerSubMenu2CMSListMenuLI"><a href="/scholarship-advanced-search.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="Scholarships">Scholarships</a></li>
+				<li class="headerSubMenu2CMSListMenuLI" style=""><a href="/collegesearch?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" style="" title="Colleges">Colleges</a></li>
+				<li class="headerSubMenu2CMSListMenuLI" style=""><a href="/highschoolsearch?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" style="" title="High Schools">High Schools</a></li>
+				<li class="headerSubMenu2CMSListMenuLI" style=""><a href="/scholarship-advanced-search.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" style="" title="Scholarships">Scholarships</a></li>
 			</ul>
 			</li>
-			<li class="headerSubMenu1CMSListMenuLI"><span class="headerSubMenu1CMSListMenuLink" onclick="return false;" title="Advice">Advice</span>
+			<li class="headerSubMenu1CMSListMenuLI" style=""><span class="headerSubMenu1CMSListMenuLink" style="" onclick="return false;" title="Advice">Advice</span>
 			<ul class="headerSubMenu2CMSListMenuUL">
-				<li class="headerSubMenu2CMSListMenuLI"><a href="/CollegeResources/CollegeResources.aspx?HighlightMenuItem=False" class="headerSubMenu2CMSListMenuLink" title="College Resources">College Resources</a></li>
-				<li class="headerSubMenu2CMSListMenuLI"><a href="/BlogEngine/Default.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="Fat Envelope">Fat Envelope</a></li>
-				<li class="headerSubMenu2CMSListMenuLI"><a href="/Core/SiteContent/Students/Advice/PrepTalkHome.aspx" class="headerSubMenu2CMSListMenuLink" title="Prep Talk">Prep Talk</a></li>
+				<li class="headerSubMenu2CMSListMenuLI" style=""><a href="/Core/SiteContent/Parents/Advice/Admit-One-Blog.aspx" class="headerSubMenu2CMSListMenuLink" style="" onclick="window.open('http://admitoneblog.org');return false;" title="Admit One Blog">Admit One Blog</a></li>
+				<li class="headerSubMenu2CMSListMenuLI" style=""><a href="/CollegeResources/CollegeResources.aspx?HighlightMenuItem=False" class="headerSubMenu2CMSListMenuLink" style="" title="Resource Center">Resource Center</a></li>
 			</ul>
 			</li>
-			<li class="headerSubMenu1CMSListMenuLI"><span class="headerSubMenu1CMSListMenuLink" onclick="return false;" title="Tools">Tools</span>
+			<li class="headerSubMenu1CMSListMenuLI" style=""><span class="headerSubMenu1CMSListMenuLink" style="" onclick="return false;" title="Tools">Tools</span>
 			<ul class="headerSubMenu2CMSListMenuUL">
-				<li class="headerSubMenu2CMSListMenuLI"><a href="/Content/ForStudents/ZeroHourThreat/ZeroHourThreatGame.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="ACT/SAT Test Prep (Zero Hour Threat Game)">ACT/SAT Test Prep (Zero Hour Threat Game)</a></li>
-				<li class="headerSubMenu2CMSListMenuLI"><a href="/Content/Research/Major/Research.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="Research Majors/Careers">Research Majors/Careers</a></li>
-				<li class="headerSubMenu2CMSListMenuLI"><a href="/SimpleTuition/StudentLoanSearch.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="Student Loans">Student Loans</a></li>
-			</ul>
-			</li>
-			<li class="headerSubMenu1CMSListMenuLI"><span class="headerSubMenu1CMSListMenuLink" onclick="return false;" title="About">About</span>
-			<ul class="headerSubMenu2CMSListMenuUL">
-				<li class="headerSubMenu2CMSListMenuLI"><a href="/Content/About/Index.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="About Us">About Us</a></li>
-				<li class="headerSubMenu2CMSListMenuLI"><a href="/Content/SiteResources/NewsAndPressRelease.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="Press Releases">Press Releases</a></li>
-				<li class="headerSubMenu2CMSListMenuLI"><a href="/Content/ForStudents/ReferAFriend.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="Tell A Friend">Tell A Friend</a></li>
-				<li class="headerSubMenu2CMSListMenuLI"><a href="/Content/SiteResources/ContestWinners.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="Winners Circle">Winners Circle</a></li>
+				<li class="headerSubMenu2CMSListMenuLI" style=""><a href="/Content/ForStudents/ZeroHourThreat/ZeroHourThreatGame.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" style="" title="Test Prep">Test Prep</a></li>
+				<li class="headerSubMenu2CMSListMenuLI" style=""><a href="/Core/SiteContent/Students/Tools/MajorsSearch.aspx" class="headerSubMenu2CMSListMenuLink" style="" title="Majors Search">Majors Search</a></li>
+				<li class="headerSubMenu2CMSListMenuLI" style=""><a href="/Core/SiteContent/Students/Tools/FinancialAid.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" style="" title="Financial Aid">Financial Aid</a></li>
+				<li class="headerSubMenu2CMSListMenuLI" style=""><a href="/Collegefeed?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" style="" title="College News">College News</a></li>
 			</ul>
 			</li>
 		</ul>
 		</li>
-		<li class="headerMainMenuCMSListMenuLI"><a href="https://educators.mycollegeoptions.org?HighlightMenuItem=false" class="headerMainMenuCMSListMenuLink" title="Counselors | Educators">Counselors | Educators</a>
+		<li class="headerMainMenuCMSListMenuLI" style=""><a href="https://educators.mycollegeoptions.org?HighlightMenuItem=false" class="headerMainMenuCMSListMenuLink" style="" title="Counselors | Educators">Counselors | Educators</a>
 		<ul class="headerSubMenu1CMSListMenuUL">
 			<li class="headerSubMenu1CMSListMenuLI"><a href="/Core/SiteContent/CounselorsAndEducators/College-Planning-Tour.aspx" class="headerSubMenu1CMSListMenuLink" title="College Planning Tour">College Planning Tour</a></li>
 		</ul>
 		</li>
+		<li class="headerMainMenuCMSListMenuLI"><a href="/Core/SiteContent/E-store.aspx" class="headerMainMenuCMSListMenuLink" title="TestE-store">TestE-store</a>
+		<ul class="headerSubMenu1CMSListMenuUL">
+			<li class="headerSubMenu1CMSListMenuLI"><a href="/Core/SiteContent/E-store/Cart.aspx" class="headerSubMenu1CMSListMenuLink" title="Cart">Cart</a></li>
+		</ul>
+		</li>
+		<li class="headerMainMenuCMSListMenuLI"><a href="/Core/SiteContent/two.aspx" class="headerMainMenuCMSListMenuLink" title="two">two</a></li>
 	</ul>
 
+<div class="login-box" style="float: right; margin: 12px 0 0 0;">
+<style type="text/css">
+   #LoginRegister li{
+        display: inline;
+        list-style-type: none;
+        margin-right: 0px;
+    }
 
+    #LoginRegister a {
+        text-decoration: none;
+        color: #15486b;
+        font: bold 1.1em "Trebuchet MS" , Arial, Helvetica, sans-serif;
+    
+    }
+    .LoginName
+    {
+        font: bold 1.1em "Trebuchet MS", Arial, Helvetica, sans-serif;
+    }
+</style>
+<script type="text/javascript">
+    function cmsDoFacebookLogin() {
+        var myUrl = 'https://www.mycollegeoptions.org/Authentication/SignInUsingFacebook';
+        $.ajax({
+            type: "POST",
+            url: myUrl,
+            dataType: "text",
+            cache: false,
+            success: function(data) {
+                //alert('success');
+                if (data != null && data.trim() != "") {
+                    window.location = data;
+                }
+            },
+            error: function(xhr, ajaxOptions, thrownError) {
+                //alert(thrownError);
+                if (xhr.status == 500) {
+                    alert('Error occured. Please try again.');
+                }
+            }
+        });
+    }
+</script>
+<!-- Not logged in defaults to "Login" text link -->
+
+<div id="p_lt_zoneTop_MCOLogonForm_pnlLoginUser">
+	
+    <div style="margin-top:1px;">
+        <ul id="LoginRegister">
+            <li>
+                <a class="head-loginout" href="javascript:void(0);" title="Log In to your account">Log In</a>
+            </li>
+            <li>
+                <span>|</span>
+            </li>
+            <li>
+                <a href="/SignUp" title="Register for My College Options®">Register</a>
+            </li>
+        </ul>
+    </div>
+    <div id="member">
+        <div id="head-loginout-box" style="width:200px;height:auto;">
+            <div class="btm">
+                <table id="p_lt_zoneTop_MCOLogonForm_Login1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+		<tbody><tr>
+			<td>
+                        <div id="p_lt_zoneTop_MCOLogonForm_Login1_pnlLogin" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'p_lt_zoneTop_MCOLogonForm_Login1_btnImageLogon')">
+				
+                            <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                                <tbody>
+                                    <tr>
+                                        <td style="text-align:right;padding-top:3px;padding-right:3px;">
+                                            <img src="/Core/App_Themes/WebProject/media/images/Buttons/close.png" id="Img1" class="hover-button" alt="Close" title="Close">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <label for="head-user-name">
+                                                <label for="p_lt_zoneTop_MCOLogonForm_Login1_UserName" id="p_lt_zoneTop_MCOLogonForm_Login1_lblUserName">Username:</label>
+                                            </label>
+                                            <input name="p$lt$zoneTop$MCOLogonForm$Login1$UserName" type="text" maxlength="100" id="p_lt_zoneTop_MCOLogonForm_Login1_UserName" tabindex="4" class="headerLoginControlsTextbox">
+                                            <br>
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr class="pad-top">
+                                        <td>
+                                            <label for="head-user-password">
+                                                <label for="p_lt_zoneTop_MCOLogonForm_Login1_Password" id="p_lt_zoneTop_MCOLogonForm_Login1_lblPassword">Password:</label></label>
+                                            <input name="p$lt$zoneTop$MCOLogonForm$Login1$Password" type="password" maxlength="110" id="p_lt_zoneTop_MCOLogonForm_Login1_Password" tabindex="5" class="headerLoginControlsTextbox">
+                                        </td>
+                                    </tr>
+                                    <tr class="pad-top" style="display:none;">
+                                       <td>
+                                            <label for="head-user-remember">
+                                                Remember: <span class="help">(remember you on this computer)</span></label>
+                                            <span class="ie-auto"><input id="p_lt_zoneTop_MCOLogonForm_Login1_chkRememberMe" type="checkbox" name="p$lt$zoneTop$MCOLogonForm$Login1$chkRememberMe" tabindex="7"></span>
+                                        </td>
+                                    </tr>
+                                    <tr class="pad-top">
+                                        <td>
+                                            <table>
+                                                <tbody><tr>
+                                                    <td style="text-align:left; margin-left:0; padding-left:0;">
+                                                        <input type="image" name="p$lt$zoneTop$MCOLogonForm$Login1$btnImageLogon" id="p_lt_zoneTop_MCOLogonForm_Login1_btnImageLogon" tabindex="8" src="../../../App_Themes/WebProject/media/images/Buttons/btn_login.gif" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;p$lt$zoneTop$MCOLogonForm$Login1$btnImageLogon&quot;, &quot;&quot;, true, &quot;Login1&quot;, &quot;&quot;, false, false))" style="height:18px;width:65px;width: 65px; height: 18px; margin-left:0;padding-left: 0;">
+                                                    </td>
+                                                    <td style="padding-left: 5px;">
+                                                        <span style="font-family: Arial,Helvetica,sans-serif;">or sign
+                                                            <br>
+                                                            in with:</span>
+                                                    </td>
+                                                    <td style="padding-left: 7px;">
+                                                        <a href="javascript:cmsDoFacebookLogin()" title="Sign in using Facebook">
+                                                            <img src="/Core/App_Themes/WebProject/media/images/Buttons/btnFacebookLogin.jpg" alt="Sign in using Facebook" style="border:none;">
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <div class="login-alert" id="headerSignInErrorMsg" style="width:142px;padding:3px;margin-top:10px;">
+                                               Unable to login. Please verify your username and password.
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr visible="false">
+                                       <td align="left">
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr visible="false">
+                                        <td colspan="2" style="color: red" class="bigmess">
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding-top:10px;">
+                                             <span class="help"><a href="/ResetPassword" tabindex="6">Forgot your login info?</a></span>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        
+			</div>
+                    </td>
+		</tr>
+	</tbody></table>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+<input type="hidden" name="p$lt$zoneTop$MCOLogonForm$hdnPasswDisplayed" id="p_lt_zoneTop_MCOLogonForm_hdnPasswDisplayed">
+</div>
     </div>
     <div id="search_box_main">
      
@@ -398,113 +591,38 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form1', [], [], [], 90
 
 </script>
 
-<input name="plc$lt$ZoneSearchBox$usercontrol$userControlElem$q" type="text" value="Search The Site" maxlength="512" id="plc_lt_ZoneSearchBox_usercontrol_userControlElem_q" class="s" onblur="WaterMark(this, event);" onfocus="WaterMark(this, event);" onkeypress="return clickButtonOnEnterKeyPress(event,'plc_lt_ZoneSearchBox_usercontrol_userControlElem_hlnkSearch');">
-<a id="plc_lt_ZoneSearchBox_usercontrol_userControlElem_hlnkSearch" class="go" imagealign="AbsMiddle" href="JavaScript:search('plc_lt_ZoneSearchBox_usercontrol_userControlElem_q','plc_lt_ZoneSearchBox_usercontrol_userControlElem_cx','plc_lt_ZoneSearchBox_usercontrol_userControlElem_cof','/Content/SearchResults.aspx','https://www.mycollegeoptions.org:443/Core/CMSPages/PortalTemplate.aspx?aliaspath=%2fSiteContent%2fStudents%2fAbout%2fPrivacyPolicy');" style="display:inline-block;height:17px;width:20px;"><img src="/Core/App_Themes/WebProject/media/Images/Buttons/icn_searchSmall.gif" alt="" style="border-width:0px;"></a>
-<input type="hidden" name="plc$lt$ZoneSearchBox$usercontrol$userControlElem$cx" id="plc_lt_ZoneSearchBox_usercontrol_userControlElem_cx" value="005161944183285838012:nve0vu6x5gk">
-<input type="hidden" name="plc$lt$ZoneSearchBox$usercontrol$userControlElem$cof" id="plc_lt_ZoneSearchBox_usercontrol_userControlElem_cof" value="FORID:11">
+<input name="p$lt$ZoneSearchBox$usercontrol$userControlElem$q" type="text" value="Search The Site" maxlength="512" id="p_lt_ZoneSearchBox_usercontrol_userControlElem_q" class="s" onblur="WaterMark(this, event);" onfocus="WaterMark(this, event);" onkeypress="return clickButtonOnEnterKeyPress(event,'p_lt_ZoneSearchBox_usercontrol_userControlElem_hlnkSearch');">
+<a id="p_lt_ZoneSearchBox_usercontrol_userControlElem_hlnkSearch" class="go" imagealign="AbsMiddle" href="JavaScript:search('p_lt_ZoneSearchBox_usercontrol_userControlElem_q','p_lt_ZoneSearchBox_usercontrol_userControlElem_cx','p_lt_ZoneSearchBox_usercontrol_userControlElem_cof','/SiteSearch','https://www.mycollegeoptions.org:443/Core/CMSPages/PortalTemplate.aspx?aliaspath=%2fSiteContent%2fStudents%2fAbout%2fPrivacyPolicy');" style="display:inline-block;height:17px;width:20px;"><img src="/Core/App_Themes/WebProject/media/Images/Buttons/icn_searchSmall.gif" alt=""></a>
+<input type="hidden" name="p$lt$ZoneSearchBox$usercontrol$userControlElem$cx" id="p_lt_ZoneSearchBox_usercontrol_userControlElem_cx" value="005161944183285838012:nve0vu6x5gk">
+<input type="hidden" name="p$lt$ZoneSearchBox$usercontrol$userControlElem$cof" id="p_lt_ZoneSearchBox_usercontrol_userControlElem_cof" value="FORID:11">
 
         <!-- /search_box -->
     </div>
 </div>
 
-<!-- Not logged in defaults to "Login" text link -->
-
-<div id="plc_lt_zoneLogin_MCOLogonForm_pnlLoginUser">
-	
-    <div class="user-login-name">
-        <a class="head-loginout" href="javascript:void(0);" title="Log In to your account">Log
-            In</a> | <a href="/Content/ForStudents/StudentLounge/LoungePreview.aspx" title="Register for My College Options®">Register</a></div>
-    <div id="member">
-        <div id="head-loginout-box" style="bottom: -239px;">
-            <div class="top">
-            </div>
-            <div class="btm">
-                <table id="plc_lt_zoneLogin_MCOLogonForm_Login1" cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse;">
-		<tbody><tr>
-			<td>
-                        <div id="plc_lt_zoneLogin_MCOLogonForm_Login1_pnlLogin" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'plc_lt_zoneLogin_MCOLogonForm_Login1_btnImageLogon')">
-				
-                            <table cellspacing="0" cellpadding="0" border="0" width="100%">
-                                <tbody>
-                                    <tr>
-                                        <th>
-                                            <label for="head-user-name">
-                                                <label for="plc_lt_zoneLogin_MCOLogonForm_Login1_UserName" id="plc_lt_zoneLogin_MCOLogonForm_Login1_lblUserName">Email/Username:</label>
-                                                <span class="help">(the email address or username you used to sign up)</span></label>
-                                        </th>
-                                        <td>
-                                            <input name="plc$lt$zoneLogin$MCOLogonForm$Login1$UserName" type="text" maxlength="100" id="plc_lt_zoneLogin_MCOLogonForm_Login1_UserName" tabindex="4" class="headerLoginControlsTextbox">
-                                            <br>
-                                            <div class="login-alert" id="headerSignInErrorMsg">
-                                                <h3>
-                                                    Login Error:</h3>
-                                                Unable to login. Please verify your username and password.</div>
-                                            
-                                        </td>
-                                    </tr>
-                                    <tr class="pad-top">
-                                        <th>
-                                            <label for="head-user-password">
-                                                <label for="plc_lt_zoneLogin_MCOLogonForm_Login1_Password" id="plc_lt_zoneLogin_MCOLogonForm_Login1_lblPassword">Password:</label></label>
-                                        </th>
-                                        <td>
-                                            <input name="plc$lt$zoneLogin$MCOLogonForm$Login1$Password" type="password" maxlength="110" id="plc_lt_zoneLogin_MCOLogonForm_Login1_Password" tabindex="5" class="headerLoginControlsTextbox">
-                                            <span class="help"><a href="/Content/ForStudents/ForgotPassword.aspx" tabindex="6">Forgot your login info?</a></span>
-                                        </td>
-                                    </tr>
-                                    <tr class="pad-top">
-                                        <th>
-                                            <label for="head-user-remember">
-                                                Remember: <span class="help">(remember you on this computer)</span></label>
-                                        </th>
-                                        <td>
-                                            <span class="ie-auto"><input id="plc_lt_zoneLogin_MCOLogonForm_Login1_chkRememberMe" type="checkbox" name="plc$lt$zoneLogin$MCOLogonForm$Login1$chkRememberMe" tabindex="7"></span>
-                                        </td>
-                                    </tr>
-                                    <tr class="pad-top">
-                                        <th>
-                                            &nbsp;
-                                        </th>
-                                        <td>
-                                            <input type="image" name="plc$lt$zoneLogin$MCOLogonForm$Login1$btnImageLogon" id="plc_lt_zoneLogin_MCOLogonForm_Login1_btnImageLogon" tabindex="8" src="../../../App_Themes/WebProject/media/images/Buttons/btn_login.gif" align="absmiddle" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;plc$lt$zoneLogin$MCOLogonForm$Login1$btnImageLogon&quot;, &quot;&quot;, true, &quot;Login1&quot;, &quot;&quot;, false, false))" style="height:18px;width:65px;border-width:0px;vertical-align: bottom;">
-                                            <img src="/Core/App_Themes/WebProject/media/images/Buttons/btn_cancel.gif" id="head-user-cancel" class="hover-button" tabindex="9">
-                                        </td>
-                                    </tr>
-                                    <tr visible="false">
-                                        <td>
-                                        </td>
-                                        <td align="left">
-                                            
-                                        </td>
-                                    </tr>
-                                    <tr visible="false">
-                                        <td colspan="2" style="color: red">
-                                            
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        
-			</div>
-                    </td>
-		</tr>
-	</tbody></table>
-            </div>
-        </div>
-    </div>
-
-</div>
-
-
-<input type="hidden" name="plc$lt$zoneLogin$MCOLogonForm$hdnPasswDisplayed" id="plc_lt_zoneLogin_MCOLogonForm_hdnPasswDisplayed">
-
 <div>
 	
- 
+
 <div class="ProfileLeftNavigationLeftCol">
 
 <link href="/Core/App_Themes/WebProject/ProfileLeftNavigation.css" rel="stylesheet" type="text/css">
 
+<style type="text/css">
+    .FakeLink
+    {
+        font: normal 1.2em "Trebuchet MS" , Arial, Helvetica, sans-serif !important;
+    }
+    .CartLink
+    {
+        line-height: 18px;
+        list-style: none;
+        font: bold .9em Arial,Verdana,sans-serif;
+        color: #000;
+        vertical-align: middle;
+        margin: 2px 0 5px 4px;
+        height: 14px;
+    }
+</style>
 <script type="text/javascript">
     $(document).ready(function () {
         var tabValue = '';
@@ -523,10 +641,10 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form1', [], [], [], 90
         }
     }); 
 </script>
-<div style="display: block; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
+<div id="p_lt_zoneContent_pageplaceholder_p_lt_zoneLeft_usercontrol_userControlElem_CtlSudentDiv" style="display: block; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
     
     <a href="https://www.mycollegeoptions.org/SignUp">
-        <img id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneLeft_usercontrol_userControlElem_imgProfileLoggedOut" src="../../../App_Themes/WebProject/media/Images/Picture/ProfilePicture/picDefaultUserProfile.jpg" alt="Please login now to access the My Options Box.  If you don't already have an account with us, click on the Free Registration link" style="border-width:0px;"></a>
+        <img id="p_lt_zoneContent_pageplaceholder_p_lt_zoneLeft_usercontrol_userControlElem_imgProfileLoggedOut" src="../../../App_Themes/WebProject/media/Images/Picture/ProfilePicture/picDefaultUserProfile.jpg" alt="Please login now to access the My Options Box.  If you don't already have an account with us, click on the Free Registration link" style="width:183px;"></a>
     
 <script language="javascript" type="text/javascript">
     $(document).ready(function () {
@@ -536,132 +654,190 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form1', [], [], [], 90
         });
     });
 </script>
-<div class="ResourceCenterWidgetLt" style="border-right:none 0 #e4e4e4;">
+<div class="ResourceCenterWidgetLt" style="width: 182px">
     <div class="title">
-        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center.aspx"><span style="color: #15598b">
-            My College Options®
-            <br>
-            Resource Center</span></a></div>
+        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center.aspx">
+            <span style="color: #15598b">My College Options®
+                <br>
+                Resource Center</span></a></div>
     <div class="status">
         The My College Options® Resource Center provides up to date news and information
         for students and parents.</div>
-    <img src="/Core/App_Themes/WebProject/media/Images/Backgrounds/resourceCenter.png" alt="MyRecentDocument" width="128" height="128" border="0" style="margin-left: 20px;
-        margin-bottom: 0px; margin-top: 10px;">
-    <div style="border:1px none #E4E4E4; margin-top:0;"><ul id="HomeResourceSectionLinks">
-<li class="listMargin"><a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Getting-In-To-College/Retaking-the-SATs-ACTs.aspx" class="resourceArticle">Retaking the SATs/ACTs</a></li>
-<li class="listMargin"><a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Search-and-Selection/Historically-Black-Colleges-and-Universities.aspx" class="resourceArticle">Historically Black Colleges and Universities</a></li>
-<li class="listMargin"><a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Search-and-Selection/Narrowing-Down-Your-College-List.aspx" class="resourceArticle">Narrowing Down Your College List</a></li>
-<li class="listMargin"><a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Applying-to-College/Early-Admissions-Plans.aspx" class="resourceArticle">Early Admissions Plans</a></li>
-<li class="listMargin"><a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Applying-to-College/Accepted---Now-What-.aspx" class="resourceArticle">Accepted - Now What?</a></li>
+    <img src="/Core/App_Themes/WebProject/media/Images/Backgrounds/resourceCenter.png" width="128" height="128" border="0" style="margin-left: 20px; margin-bottom: 0px;
+        margin-top: 10px;">
+    <div style="border:1px none #E4E4E4; margin-top:0;"><ul id="HomeResourceSectionLinks"><li class="listMargin"><a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Getting-in---Applying-to-College/College-Applications---the-Application-Process/Early-Admissions-Plans.aspx" class="resourceArticle">Early Admissions Plans</a></li><li class="listMargin"><a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Search---Selection/After-High-School/Types-of-Colleges-Your-Options-After-High-School.aspx" class="resourceArticle">Options after High School</a></li><li class="listMargin"><a href="/Core/SiteContent/Students/Advice/College-Resource-Center/For-Parents/College-Admissions/Deferring-College-Enrollment.aspx" class="resourceArticle">Deferring College Enrollment</a></li><li class="listMargin"><a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Getting-in---Applying-to-College/College-Applications---the-Application-Process/Common-Essay-Questions.aspx" class="resourceArticle">Common Essay Questions</a></li><li class="listMargin"><a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Search---Selection/College-Research/Researching-Colleges.aspx" class="resourceArticle">Researching Colleges</a></li>
 </ul></div>
-        
 </div>
 
-    
-</div>
+    </div>
+
+<script type="text/javascript">
+    function parentResources() {
+        alert('Coming soon, a link to the page for parent resources.');
+    }
+    function connectStudent() {
+        alert('Coming soon, a link to the page to connect to a student');
+    }
+    function linkToStudent() {
+        alert('Coming soon, link to student.');
+    }
+</script>
 
 </div>
 <div id="divRightContainer">
 <!-- Page Title Starts -->
-<div id="divSectionHeading1">Privacy Policy Statement</div>
+<div id="divSectionHeading1">
+ Privacy Policy Statement</div>
 <!-- Page Title Ends -->
-<div id="divTwoColumnContentMargin"><!-- TwoColumnContentMargin Starts -->
-<p>Dear Student:  The most important benefit of participating in this voluntary survey and research              project is the information you and your family will receive from colleges and universities. In some              cases, you and your family may also receive information about educational products &amp; services such              as student loans and financial aid, college admissions and tutorial services, extra-curricular              enrichment and recognition programs, career, employment and military opportunities, and camps from              non-profit organizations, companies offering educational products &amp; services, and government agencies.              NRCCUA does not share your information with commercial marketers offering to sell you              non-education-related products and services.</p>
-<p class="distance">NRCCUA protects the privacy of student email addresses.  We require all messages sent to the             student from our database, whether on behalf of NRCCUA or its members and approved organizations,             meet the established guidelines of permission-based email messaging.  We do not distribute this data              without provisions that allow the student to opt out.  A student may choose to opt out of NRCCUA at             any time by sending an email to <a href="mailto:mrc@nrccua.org">mrc@nrccua.org</a> indicating the desire             to be removed from future emails or mailings, or both.</p>
-<p class="distance"><strong>Commitment to Student Privacy</strong><br>
-For over 35 years, the National Research Center for College &amp; University Admissions has built educational bridges between              college-bound high school students and colleges and universities. Our mission is to create a brighter future for America’s              youth, with integrity through a unique process that captures and shares their educational and career aspirations…one dream at a time.</p>
-<p class="distance">NRCCUA is a non-profit organization devoted to helping students receive the information needed to assist them in selecting a              college education or career path that is tailored to their interests. Through NRCCUA’s <span>Post-Secondary Planning Survey®</span>, nearly              5.5 million current high school students have an opportunity to identify their college and career preferences. This information is then              shared with 2,000 colleges and universities. In addition, students benefit from information about financial aid and other educational              organizations. Currently, 55,000 educators at 22,000 high schools have administered the survey to their students.</p>
-<p class="distance"><strong>Privacy Protection</strong><br>
-As a holder of student information, we recognize our responsibility to protect student privacy. We have worked to promote adoption              of standards within the educational community, and to inform the public about privacy issues. Working with our advisory council of              education leaders, NRCCUA developed principles (see below) to protect student privacy that guide NRCCUA’s data collection and              dissemination efforts. These principles are designed to assist NRCCUA in determining appropriate uses of information collected from              students for educational purposes consistent with The Elementary and Secondary Education Act (ESEA), and other applicable law.</p>
-<p class="distance">In 2001, the Chairman of the Federal Trade Commission announced his agency’s interest in reviewing the privacy practices of organizations              that collect personal information in offline or paper procedures. In 2002, the FTC and a group of state Attorney’s General inquired into              NRCCUA’s student privacy practices, focusing on disclosure issues. These inquiries and the resulting review of NRCCUA’s practices led to              mutually agreeable disclosure guidelines for NRCCUA to follow. NRCCUA was very pleased with the outcome of this process and continues to              operate in compliance with both the FTC and AG agreements.</p>
-<p class="distance"><strong>Principles for Educational Products and Services</strong><br>
-The following principles, created with the assistance of our voluntary Advisory Council, are designed to provide guidance to NRCCUA in              determining appropriate uses of information collected from students for educational purposes consistent with The Elementary and Secondary              Education Act (ESEA), and other applicable law.</p>
-<p class="distance">The primary mission of NRCCUA is to provide data from annual student surveys to colleges and universities in order to enable high school              students to learn about and prepare for post-secondary opportunities.</p>
-<p class="distance">Other education-related non-profit and for-profit organizations may use the student information to provide information about:</p>
-<ol class="BulletedListPrivacy">
-    <li>financial planning, student loans, and scholarships</li>
-    <li>enrichment opportunities such as travel programs, camps, extra-curricular activities and conferences</li>
-    <li>curriculum materials, books, Internet based educational programs, educational magazines and low-cost literary products</li>
-    <li>academic assistance, remedial help, and preparation for college-entrance examinations</li>
-    <li>recognition for high levels of performance</li>
-    <li>participation in community service</li>
-    <li>learning about civic responsibilities</li>
-    <li>employment, career options and the military</li>
-</ol>
-<p class="distance">NRCCUA also uses student data for research purposes to have a greater understanding of the nation’s high school and college-bound students.</p>
-<p style="font-weight: bold; font-style: italic; text-decoration: underline;" class="distance">Advisory Council Members</p>
-<table cellspacing="2" cellpadding="2" border="1">
-    <tbody>
-        <tr>
-            <td style="width: 45%;">Mr. Reggie Felton<br>
-            Director, Federal Relations<br>
-            National School Boards Association</td>
-            <td style="width: 10%;">&nbsp;</td>
-            <td style="width: 45%;">Delia Pompa<br>
-            Director of Education<br>
-            National Council of La Raza</td>
-        </tr>
-        <tr>
-            <td style="width: 45%;">Mr. Dallas Martin <br>
-            President<br>
-            National Association of Student Financial Aid Administrators</td>
-            <td style="width: 10%;">&nbsp;</td>
-            <td style="width: 45%;">Jill Cook <br>
-            Director of Programs<br>
-            American School Counselor Association</td>
-        </tr>
-        <tr>
-            <td style="width: 45%;">Dr. John A. Martin<br>
-            President<br>
-            Roberts Wesleyan College</td>
-            <td style="width: 10%;">&nbsp;</td>
-            <td style="width: 45%;">Harley Frankel<br>
-            Director<br>
-            College Match</td>
-        </tr>
-        <tr>
-            <td style="width: 45%;">Ms. Joyce Smith <br>
-            Executive Director<br>
-            National Association for College Admission Counseling</td>
-            <td style="width: 10%;">&nbsp;</td>
-            <td style="width: 45%;">Dr. Nicole Francis-Williams<br>
-            President &amp; CEO<br>
-            Visionary Policy Institute, LLC</td>
-        </tr>
-    </tbody>
-</table>
-<p class="distance"><strong>Information Collected Through Our Website</strong></p>
-<p class="distance">Our web server automatically recognizes your domain name, but not your email address.             We do not collect nonpublic personal information from visitors to our sites unless             it is expressly provided to us. The information we do collect from our websites             (such as domain name, number of hits, pages visited and length of user session)             may be combined to analyze how our websites are used. This information is then             used to improve the usefulness of the sites.</p>
-<p class="distance">Like most websites, we use "cookies" to enhance your online experience. Cookies             are pieces of data that are temporarily placed on your computer's hard drive to help             a website identify you. These cookies are not used to collect any personal information,              but rather to separate each visitor from the other.</p>
-<p class="distance">For visitors to our websites who are presented with a questionnaire, we may place a cookie on              your hard drive to identify whether you have completed or declined to complete that particular questionnaire.              This cookie is not designed to collect personal information about you. Rather it is designed to make your return              visits more pleasant by preventing the same survey from being offered to you again.</p>
-<p class="distance">We do not intend to collect nonpublic personal information from children under 13 years of age. If we learn that              we have collected this information from a child under the age of 13, we will promptly take all reasonable steps to              delete the data from our system.</p>
-<p class="distance">From time to time, you may access our sites through a co-branded page of one of             our marketing partners. We will try to show clearly, by placing our marketing partner's             name or logo in a prominent place or otherwise, whether a page is co-branded. If             you provide your information on a co-branded page, your registration information             may be shared with our marketing partner. It is important to remember that, if you             link to a third-party site from any of our websites, that party's privacy policy             and its terms and conditions of use apply to you. We encourage you to learn about             each third party's privacy policy before giving personal information to them.</p>
-<p class="distance">If you give us nonpublic personal information, unless prohibited by law, you may             request that the nonpublic personal information be removed from our system by contacting             us at the address indicated at the end of this policy. If you register information             on our websites, you also have the right, upon reasonable notice, to view that             information and correct it if necessary.</p>
-<p class="distance">In our information technology systems environment, The National Research Center for College &amp; University Admissions safeguards your information             according to industry established security standards. We also routinely test our             systems to ensure a high level of security.</p>
-<p class="title1">Contact Us</p>
-<p class="distance">If you have any questions or comments about this policy, please email The National Research Center for College &amp; University Admissions at              <a href="mailto:studentprivacy@nrccua.org">studentprivacy@nrccua.org</a> or contact us at              <span>816-525-2201</span>             or write to:</p>
-<p class="distance">My College Options</p>
-<p>c/o <span>NRCCUA</span></p>
-<p><span>3651 NE Ralph Powell Road</span></p>
-<p><span>Lee's Summit</span>,              <span>MO</span>              <span>64064</span></p>
-<p><span>816-525-2201</span></p>
+<div id="divTwoColumnContentMargin">
+ <!-- TwoColumnContentMargin Starts -->
+ <p>
+  Dear Student: The most important benefit of participating in this voluntary survey and research project is the information you and your family will receive from colleges and universities. In some cases, you and your family may also receive information about educational products &amp; services such as student loans and financial aid, college admissions and tutorial services, extra-curricular enrichment and recognition programs, career, employment and military opportunities, and camps from non-profit organizations, companies offering educational products &amp; services, and government agencies. My College Options is a service operated by the National Research Center for College &amp; University Admissions™(NRCCUA®). The term "My College Options" or the acronym "MCO" also mean National Research Center for College and University Admissions or NRCCUA.&nbsp;NRCCUA does not share your information with commercial marketers offering to sell you non-education-related products and services.</p>
+ <p class="distance">
+  NRCCUA protects the privacy of student email addresses. We require all messages sent to the student from our database, whether on behalf of NRCCUA or its members and approved organizations, meet the established guidelines of permission-based email messaging. We do not distribute this data without provisions that allow the student to opt out. A student may choose to opt out of NRCCUA at any time by sending an email to <a href="mailto:mrc@nrccua.org">mrc@nrccua.org</a> indicating the desire to be removed from future emails or mailings, or both.</p>
+ <p class="distance">
+  <strong>Commitment to Student Privacy</strong><br>
+  For 40 years, the National Research Center for College &amp; University Admissions (NRCCUA)&nbsp;has built educational bridges between college-bound high school students and colleges and universities. Our mission is to create<em> a brighter future through a unique process that captures and shares educational and career aspirations, with integrity…<strong>one dream at a time!</strong></em></p>
+ <p class="distance">
+  NRCCUA is a non-profit organization devoted to helping students receive the information needed to assist them in selecting a college education or career path that is tailored to their interests. Through NRCCUA’s <span>Post-Secondary Planning Survey®</span>, nearly 5.5 million current high school students have an opportunity to identify their college and career preferences. This information is then shared with 2,000 colleges and universities. In addition, students benefit from information about financial aid and other educational organizations. Currently, 55,000 educators at 22,000 high schools have administered the survey to their students.</p>
+ <p class="distance">
+  <strong>Privacy Protection</strong><br>
+  As a holder of student information, we recognize our responsibility to protect student privacy. We have worked to promote adoption of standards within the educational community, and to inform the public about privacy issues. Working with our advisory council of education leaders, NRCCUA developed principles (see below) to protect student privacy that guide NRCCUA’s data collection and dissemination efforts. These principles are designed to assist NRCCUA in determining appropriate uses of information collected from students for educational purposes consistent with The Elementary and Secondary Education Act (ESEA), and other applicable law.</p>
+ <p class="distance">
+  In 2001, the Chairman of the Federal Trade Commission announced his agency’s interest in reviewing the privacy practices of organizations that collect personal information in offline or paper procedures. In 2002, the FTC and a group of state Attorney’s General inquired into NRCCUA’s student privacy practices, focusing on disclosure issues. These inquiries and the resulting review of NRCCUA’s practices led to mutually agreeable disclosure guidelines for NRCCUA to follow. NRCCUA was very pleased with the outcome of this process and continues to operate in compliance with both the FTC and AG agreements.</p>
+ <p class="distance">
+  <strong>Principles for Educational Products and Services</strong><br>
+  The following principles, created with the assistance of our voluntary Advisory Council, are designed to provide guidance to NRCCUA in determining appropriate uses of information collected from students for educational purposes consistent with The Elementary and Secondary Education Act (ESEA), and other applicable law.</p>
+ <p class="distance">
+  The primary mission of NRCCUA is to provide data from annual student surveys to colleges and universities in order to enable high school students to learn about and prepare for post-secondary opportunities.</p>
+ <p class="distance">
+  Other education-related non-profit and for-profit organizations may use the student information to provide information about:</p>
+ <ol class="BulletedListPrivacy">
+  <li>
+   financial planning, student loans, and scholarships</li>
+  <li>
+   enrichment opportunities such as travel programs, camps, extra-curricular activities and conferences</li>
+  <li>
+   curriculum materials, books, Internet based educational programs, educational magazines and low-cost literary products</li>
+  <li>
+   academic assistance, remedial help, and preparation for college-entrance examinations</li>
+  <li>
+   recognition for high levels of performance</li>
+  <li>
+   participation in community service</li>
+  <li>
+   learning about civic responsibilities</li>
+  <li>
+   employment, career options and the military</li>
+ </ol>
+ <p class="distance">
+  NRCCUA also uses student data for research purposes to have a greater understanding of the nation’s high school and college-bound students.</p>
+ <p class="distance" style="font-style: italic; font-weight: bold; text-decoration: underline;">
+  Advisory Council Members</p>
+ <table border="1" cellpadding="2" cellspacing="2">
+  <tbody>
+   <tr>
+    <td style="width: 45%;">
+     Mr. Reggie Felton<br>
+     Director, Federal Relations<br>
+     National School Boards Association</td>
+    <td style="width: 10%;">
+     &nbsp;</td>
+    <td style="width: 45%;">
+     Delia Pompa<br>
+     Director of Education<br>
+     National Council of La Raza</td>
+   </tr>
+   <tr>
+    <td style="width: 45%;">
+     Phyllis Blaunstein<br>
+     Senior Counsel<br>
+     Widmeyer Communications, Inc.</td>
+    <td style="width: 10%;">
+     &nbsp;</td>
+    <td style="width: 45%;">
+     Jill Cook<br>
+     Director of Programs<br>
+     American School Counselor Association</td>
+   </tr>
+   <tr>
+    <td style="width: 45%;">
+     Dr. John A. Martin<br>
+     President<br>
+     Roberts Wesleyan College</td>
+    <td style="width: 10%;">
+     &nbsp;</td>
+    <td style="width: 45%;">
+     Harley Frankel<br>
+     Director<br>
+     College Match</td>
+   </tr>
+   <tr>
+    <td style="width: 45%;">
+     Ms. Joyce Smith<br>
+     Executive Director<br>
+     National Association for College Admission Counseling</td>
+    <td style="width: 10%;">
+     &nbsp;</td>
+    <td style="width: 45%;">
+     Dr. Nicole Francis<br>
+     Program Manager<br>
+     NASA Research &amp; Education Support Services (NRESS) Smart Global Solutions, LLC (JV)</td>
+   </tr>
+  </tbody>
+ </table>
+ <p class="distance">
+  <strong>Information Collected Through Our Website</strong></p>
+ <p class="distance">
+  Our web server automatically recognizes your domain name, but not your email address. We do not collect non-public personal information from visitors to our sites unless it is expressly provided to us. The information we do collect from our websites (such as domain name, number of hits, pages visited and length of user session) may be combined to analyze how our websites are used. This information is then used to improve the usefulness of the sites.</p>
+ <p class="distance">
+  Like most websites, we use "cookies" to enhance your online experience. Cookies are pieces of data that are temporarily placed on your computer's hard drive to help a website identify you. These cookies are not used to collect any personal information, but rather to separate each visitor from the other.</p>
+ <p class="distance">
+  For visitors to our websites who are presented with a questionnaire, we may place a cookie on your hard drive to identify whether you have completed or declined to complete that particular questionnaire. This cookie is not designed to collect personal information about you. Rather it is designed to make your return visits more pleasant by preventing the same survey from being offered to you again.</p>
+ <p class="distance">
+  We do not intend to collect non-public personal information from children under 13 years of age. If we learn that we have collected this information from a child under the age of 13, we will promptly take all reasonable steps to delete the data from our system.</p>
+ <p class="distance">
+  From time to time, you may access our sites through a co-branded page of one of our marketing partners. We will try to show clearly, by placing our marketing partner's name or logo in a prominent place or otherwise, whether a page is co-branded. If you provide your information on a co-branded page, your registration information may be shared with our marketing partner. It is important to remember that, if you link to a third-party site from any of our websites, that party's privacy policy and its terms and conditions of use apply to you. We encourage you to learn about each third party's privacy policy before giving personal information to them.</p>
+ <p class="distance">
+  If you give us non-public personal information, unless prohibited by law, you may request that the non-public personal information be removed from our system by contacting us at the address indicated at the end of this policy. If you register information on our websites, you also have the right, upon reasonable notice, to view that information and correct it if necessary.</p>
+ <p class="distance">
+  In our information technology systems environment, The National Research Center for College &amp; University Admissions (NRCCUA) safeguards your information according to industry established security standards. We also routinely test our systems to ensure a high level of security.</p>
+ <p class="title1">
+  Contact Us</p>
+ <p class="distance">
+  If you have any questions or comments about this policy, please email The National Research Center for College &amp; University Admissions at <a href="mailto:studentprivacy@nrccua.org">studentprivacy@nrccua.org</a> or contact us at <span>816-525-2201</span> or write to:</p>
+ <p class="distance">
+  My College Options</p>
+ <p>
+  c/o <span>NRCCUA</span></p>
+ <p>
+  <span>3651 NE Ralph Powell Road</span></p>
+ <p>
+  <span>Lee's Summit</span>, <span>MO</span> <span>64064</span></p>
+ <p>
+  <span>816-525-2201</span></p>
 </div>
 <!-- TwoColumnContentMargin Ends -->
+
+
+
+
 </div>
 
 </div>
 <br style="clear:both;">
 <!-- footer -->
 <div class="Footer">
-<input type="hidden" name="plc$lt$cx" id="plc_lt_cx" value="005161944183285838012:nve0vu6x5gk">
-<input type="hidden" name="plc$lt$cof" id="plc_lt_cof" value="FORID:11">
-
+<input type="hidden" name="p$lt$cx" id="p_lt_cx" value="005161944183285838012:nve0vu6x5gk">
+<input type="hidden" name="p$lt$cof" id="p_lt_cof" value="FORID:11">
+<span class="FooterIcons">
     <a href="http://twitter.com/collegeoptions" target="_blank" title="Follow us on Twitter">
         <img src="/Core/App_Themes/WebProject/media/Images/Icon/twitter.png" width="16" height="16" vspace="5">
     </a>
     <a href="http://www.facebook.com/mycollegeoptions" target="_blank" title="Like us on Facebook">
         <img src="/Core/App_Themes/WebProject/media/Images/Icon/facebook.png" width="16" height="16" hspace="3" vspace="5">
     </a>
+</span>
     <br>	
 <a href="/Core/SiteContent/Students/About/SiteMap.aspx">Site Map</a> | <a href="/Core/SiteContent/Students/About/AboutUs.aspx">
         About</a> | <a href="/Core/SiteContent/Students/About/FAQ.aspx">FAQ</a> |
@@ -671,17 +847,17 @@ The following principles, created with the assistance of our voluntary Advisory 
                 Partners</a>
     <br>
     <a href="/Home.aspx">
-        Home</a> | <a href="/Content/ForParents/ParentsHome.aspx">For
+        Home</a> | <a href="/Core/SiteContent/Parents/ParentHome.aspx">For
                 Parents</a> | <a href="/Content/ForHighSchools/MembersBenefit.aspx">
                     Counselors | Educators</a> |
     <!-- / JAVASCRIPT FUNCTION ADDED BY HEADER CONTROL -->
     <a href="" onclick="Javascript:CollegeProfessionalPopup(); return false;">College Admissions</a>
-    | <a href="http://www.nrccua.org/" target="_blank">NRCCUA</a> | <a href="/Core/SiteContent/Students/Advice/PrepTalkHome/PrepTalkBlog.aspx">
-            Prep Talk</a> | <a href="/Core/SiteContent/Students/About/PrivacyPolicy.aspx" class="standardLink">Privacy Statement</a>
+    | <a href="http://www.nrccua.org/" target="_blank">NRCCUA</a> | <a href="http://admitoneblog.org/" target="_blank">
+        Admit One Blog</a> | <a href="/Core/SiteContent/Students/About/PrivacyPolicy.aspx" class="standardLink">Privacy Statement</a>
     <br>
     <span class="FooterLegal">
     This site is protected by copyright and trademark laws under U.S. and International
-    law. All rights reserved. ©2012 My College Options® &nbsp; 
+    law. All rights reserved. ©2014 My College Options® &nbsp; 
     </span>
     <a href="/Core/SiteContent/Students/About/Copyright.aspx">
         Copyright</a>
@@ -735,18 +911,14 @@ The following principles, created with the assistance of our voluntary Advisory 
 </div>
     
     
-<!-- response complete - no errors -->
+
 <script type="text/javascript">
 //<![CDATA[
-
-theForm.oldSubmit = theForm.submit;
-theForm.submit = WebForm_SaveScrollPositionSubmit;
-
-theForm.oldOnSubmit = theForm.onsubmit;
-theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
-//]]>
+(function() {var fn = function() {$get("manScript_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();
+var callBackFrameUrl='/Core/WebResource.axd?d=xhZl2YF6bzvNCJr6bGEYXjKgJCXR3qmYNu2vR19u0Kll674hu2OeQgII-o83RaCy_GUwZtSH0he-BAOHJat5Z9aqbQE1&t=634773912100000000';
+WebForm_InitCallback();//]]>
 </script>
-</form>
+<!-- response complete - no errors --></form>
 
 
 </body></html>
