@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xmatters.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614231339id_/http%3A//www.xmatters.com/policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmatters.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404064907id_/http%3A//www.xmatters.com/policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | xMatters, inc.
 
@@ -65,17 +65,17 @@ We use this information to:
 
 xMatters will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. xMatters will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-### **Disclosure of Information**
+###  **Disclosure of Information**
 
 We will share your personal information with third parties only in the ways that are described in this privacy statement.  We do not sell your personal information to third parties.
 
-#### **Service Providers and Sub-Processors**
+####  **Service Providers and Sub-Processors**
 
 We may provide your personal information to companies that provide services to help us with our business activities such as submitting promotional email communications and emergency alerts to you on the behalf of xMatters. These companies are authorized to use your personal information _only as necessary_ to provide these services to us.
 
 xMatters may transfer personal information to companies that help us provide our service to our Clients. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients.
 
-#### **Legal Disclaimer**
+####  **Legal Disclaimer**
 
 We may also disclose your personal information:
 
@@ -86,67 +86,67 @@ We may also disclose your personal information:
 
 
 
-### **Access to Information and Choice**  
+###  **Access to Information and Choice**  
  
 
-#### **Data Controlled by xMatters**
+####  **Data Controlled by xMatters**
 
 If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete, or ask to have it removed from a public forum, directory or testimonial on our site by making the change within your account settings or by contacting us via one of the methods listed below.  We will respond to your request to access within 30 days.
 
-#### **Data Controlled by our Clients**
+####  **Data Controlled by our Clients**
 
 xMatters has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the xMatters Client (the data controller). If the Client requests xMatters to remove the data, we will respond to their request within 30 business days.
 
-_Opt-out Preferences_
+ _Opt-out Preferences_
 
 Out of respect for your privacy, you may choose to stop receiving our marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or by contacting us via one of the methods listed below.
 
-### **Security**
+###  **Security**
 
 The security of your personal information and our Clients’ information is important to us.  When you enter sensitive information we encrypt the transmission of that information using secure socket layer technology (SSL).
 
 We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security. If you have any questions about security on our web site, you can contact us via one of the methods listed below.
 
-### **Tracking Technologies**  
+###  **Tracking Technologies**  
  
 
-#### **Cookies**
+####  **Cookies**
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We, and our third party service providers, use both session ID cookies and persistent cookies.  Session cookies make it easier for you to navigate our site and expire when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
 
-#### **Web Beacons / Gifs**
+####  **Web Beacons / Gifs**
 
 Our third party web analytics partners employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of users.  In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on pages and are about the size of the period at the end of this sentence. The information gathered by clear gifs is not tied to our customers’ personally identifiable information.
 
-### **Changes to this Privacy Policy**
+###  **Changes to this Privacy Policy**
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you or our Client by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-#### **Additional Information**
+####  **Additional Information**
 
-**Links to 3 rd Party Sites**
+ **Links to 3 rd Party Sites**
 
 Our Site includes links to other web sites whose privacy practices may differ from those of xMatters. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
 
-**Blog / Forum**
+ **Blog / Forum**
 
 Our web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us via one of the methods listed below.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-**Testimonials**
+ **Testimonials**
 
 With your consent we may post your testimonial along with your name.  If you wish to update or delete your testimonial, you can contact us via one of the methods listed below.
 
-**Public Profiles**
+ **Public Profiles**
 
 The profile you create on our site will be publically accessible unless otherwise indicated.  You may change the privacy settings of your profile through your account portal. If you wish to request removal of your information from our directory or to deactivate your profile, you can contact us via one of the methods listed below.
 
-**Referrals**
+ **Referrals**
 
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  xMatters does not store this information for additional purposes.
 
-### **Contact Us**
+###  **Contact Us**
 
 Your privacy is extremely important to us.  Please send all privacy concerns to [privacy@xmatters.com](mailto:privacy@xmatters.com).  Additional contact information can be found [here](http://www.xmatters.com/company/contact-us/).
 
