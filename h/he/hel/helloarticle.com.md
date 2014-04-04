@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helloarticle.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923201803id_/http%3A//helloarticle.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helloarticle.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404041317id_/http%3A//www.helloarticle.com/privacy.htm) for the most accurate reproduction.*
 
 # HelloArticle.com
 
@@ -38,7 +38,7 @@ You may view and manage your advertising preferences or opt out of receiving the
 #### Privacy Contact Information  
   
   | If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:  
-By e-mail: [http://www. ** _HelloArticle.com_**.com/email.htm](https://web.archive.org/web/20130923201803id_/http%3A//helloarticle.com/email.htm)  
+By e-mail: [http://www. ** _HelloArticle.com_**.com/email.htm](https://web.archive.org/web/20140404041317id_/http%3A//www.helloarticle.com/email.htm)  
   |    
   | We reserve the right to make changes to this policy. Any changes to this policy will be posted.  
   |    
