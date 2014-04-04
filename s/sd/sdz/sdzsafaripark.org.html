@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sdzsafaripark.org privacy policy that was archived on 2013-10-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131018001244id_/http%3A//www.sandiegozoo.org/disclaimers/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sdzsafaripark.org privacy policy that was archived on 2014-04-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140404033316id_/http%3A//www.sandiegozoo.org/disclaimers/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!-- InstanceBegin template="/Templates/sub_noside.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <!-- InstanceBeginEditable name="doctitle" -->
@@ -213,19 +213,60 @@ pageTracker._initData();
 </script>
 <!-- END GOOGLE ANALYTICS TRACKING CODE -->
 
-
-<script language="JavaScript" type="text/javascript" src="/central/js/purl/purl.js"></script>
 <!-- SITECATALYST BEGINS -->
-<script language="JavaScript" type="text/javascript" src="/central/js/omniture/sitecode/s_code.js"></script>
-<script language="JavaScript" type="text/javascript" src="/central/js/omniture/sitecat_page_include.js"></script><!-- SiteCatalyst code version: H.24.2.
+<!-- SiteCatalyst code version: H.24.2.
 Copyright 1996-2012 Adobe, Inc. All Rights Reserved
 More info available at http://www.omniture.com -->
-<noscript>
-<img src="https://web.archive.org/web/20131007015128/http://sandiegozoo.d1.sc.omtrdc.net/b/ss/sandiegozoodev/1/H.24.2--NS/0" height="1" width="1" border="0" alt="" />
-</noscript><!--/DO NOT REMOVE/-->
+<script language="JavaScript" type="text/javascript" src="http://www.sandiegozoo.org/central/js/omniture/sitecode/s_code.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://www.sandiegozoo.org/central/js/jq/jQuery-URL-Parser/jquery.url.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+var thewholeurl = new Array();
+thewholeurl = jQuery.url().segment();
+for(var i in thewholeurl) {
+/* document.write(thewholeurl[i]; */
+thewholeurl[i] = thewholeurl[i].replace(/.*(index).*\..*/, "home");
+thewholeurl[i] = thewholeurl[i].replace(/\.html/, "");
+thewholeurl[i] = thewholeurl[i].replace(/\.htm/, "");
+thewholeurl[i] = thewholeurl[i].replace(/\.php/, "");
+thewholeurl[i] = thewholeurl[i].replace(/\.shtml/, "");
+/* document.write(thewholeurl[i]); */
+}
+if (thewholeurl[0] == '') {
+  thewholeurl[0] = "site home";
+}
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.server="San Diego Zoo";
+s.prop1="";
+s.prop2="zoo";
+s.pageName=thewholeurl.join(":");
+if (typeof thewholeurl[0] != 'undefined') s.channel = thewholeurl[0];
+if (typeof thewholeurl[1] != 'undefined') s.prop3 = thewholeurl[1];
+if (typeof thewholeurl[2] != 'undefined') s.prop4 = thewholeurl[2];
+s.prop5 = "Sub Section (level" + thewholeurl.length + ") Page";
+s.pageType = "";
+/* Conversion Variables */
+s.campaign="";
+s.state="";
+s.zip="";
+s.events="";
+s.products="";
+s.purchaseID="";
+s.eVar1="";
+s.eVar2="";
+s.eVar3="";
+s.eVar4="";
+s.eVar5="";
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img src="http://sandiegozoo.d1.sc.omtrdc.net/b/ss/sandiegozoodev/1/H.24.2--NS/0"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.24.2. -->
 
 <!-- SITECATALYST ENDS -->
+
 
 
     <!-- InstanceEndEditable --></cfinclude></div>
