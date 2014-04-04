@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the districtravel.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204091400id_/http%3A//www.districtravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the districtravel.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404084420id_/http%3A//www.districtravel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Travel, Travel Articles, Travel Tips, Travel Topics, Travel Advice, Leisure Topics, Leisure Articles, Travel & Leisure and Cheap Travel Tips.
 
