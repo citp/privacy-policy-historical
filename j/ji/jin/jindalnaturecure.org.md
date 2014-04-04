@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the jindalnaturecure.org privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130093137id_/http%3A//www.jindalnaturecure.org/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jindalnaturecure.org privacy policy that was archived on 2014-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140405013111id_/http%3A//jindalnaturecure.org/privacypolicy.htm) for the most accurate reproduction.*
 
 # Untitled Page
 
 Jindal Naturecure Institute - Privacy Policy   
 \--------------------------------------------------------------------------------------------------------- 
 
-Jindalnaturecure.org respects your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by Jindalnaturecure.org. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Jindalnaturecure.org you agree to the collection and use of your data by Jindalnaturecure.org in the manner provided in this Privacy Policy. 
+Jindalnaturecure.org respects your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by Jindal Naturecure Institute. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Jindalnaturecure.org you agree to the collection and use of your data by Jindal Naturecure Institute in the manner provided in this Privacy Policy. 
 
-If you have questions or concerns regarding this statement, you should contact Jindalnaturecure.org at info@jindalnaturecure.org.
+If you have questions or concerns regarding this statement, you should contact Jindal Naturecure Institute at info@jindalnaturecure.org.
 
-The Policy does not apply to the procedures and practices followed by entities that are not managed, owned or controlled by jindalnaturecure.org or to the people that are not engaged, employed or managed by jindalnaturecure.org 
+The Policy does not apply to the procedures and practices followed by entities that are not managed, owned or controlled by Jindal Naturecure Institute or to the people that are not engaged, employed or managed by Jindal Naturecure Institute 
 
 **We want you to**
 
@@ -41,8 +41,6 @@ We will collect anonymous traffic information from you when you visit our site.
 We collect the personally identifiable information from you when you register with us. During registration you are required to give us your contact information (such as name, email address, gender, cell number). Upon registration, users may receive communications from jindalnaturecure.org.  Also we collect other information like DOB, occupation, marital status, age, height, weight, accommodation want, days you will stay, passport & visa details, personal health details etc.
 
 We use this information only for our internal use. 
-
-The Site does not contain link to any other web sites. Hence there is no chance to use your information by other website. 
 
 We are the sole owners of your information collected by us at several different points on our Website. 
 
