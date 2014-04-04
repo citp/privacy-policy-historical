@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amfam.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009220037id_/http%3A//www.amfam.com/security/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amfam.com privacy policy that was archived on 2014-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140405013202id_/http%3A//www.amfam.com/security/privacy.asp) for the most accurate reproduction.*
 
 # Privacy and Security Policy | American Family Insurance
 
@@ -7,6 +7,7 @@
   * General Privacy Notice
   * Security Policy
   * Web Cookie Policy
+  * Social Mobile Data Policy
   * Health Information Privacy Notice
 
 
@@ -50,6 +51,10 @@ Web cookies are small computer files that a website places on an Internet user's
 #### How We Use Web Cookies 
 
 When you interact with the American Family Insurance website, we strive to make your experience easy and meaningful. Our Web server uses both session and persistent cookies to improve your interaction with the Website, and to help us improve user experience. We use cookies to measure behavior on this website for usability purposes and to save choices made on some pages. The cookies used on this website do not identify you personally. Unless you choose to identify yourself voluntarily, they merely recognize your browser. You may choose to identify yourself to us by requesting a quote, by requesting more information on a product or service, or by completing one of several contact forms. Otherwise, you remain anonymous. Users who disable their Web browsers' ability to accept cookies can still browse this website. However, we encourage you to accept cookies (which can be set through your browser settings) so that we may take further strides in making this website easier to use. 
+
+### Social and Mobile Policy 
+
+American Family Insurance may use common tracking to customize our websites, mobile applications and social media interactions to enhance your overall customer experience. Our mobile and social media applications may also collect non-personally identifiable demographic information (such as age, sex, and city/state location) about the users of each application. Prior to installation of any mobile or social application, you will see a statement describing what information is collected from your use of that particular application. Collection and use of this data is to provide you with more relevant content. You may choose to utilize your social media profile from select social networking sites such as Facebook, Twitter, Google+ and other like-type social media sites to interact with us. By doing so, you specifically grant permission and authorize us to collect; store and use authorized personal information from these sites as indicated during the use and authorization process.”
 
 ### Health Information Privacy Notice (for health insurance policyholders)
 
