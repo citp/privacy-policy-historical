@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dennys.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126025230id_/http%3A//www.dennys.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dennys.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404121007id_/http%3A//dennys.com/html/privacy.html) for the most accurate reproduction.*
 
 # untitled
 
