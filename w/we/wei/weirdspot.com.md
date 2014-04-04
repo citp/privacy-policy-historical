@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weirdspot.com privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916023022id_/http%3A//www.weirdbum.com/contact/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weirdspot.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404082606id_/http%3A//www.weirdbum.com/contact/privacy) for the most accurate reproduction.*
 
 # Privacy | Weird Pictures Weird Stuff Weird Names Weird Facts
 
