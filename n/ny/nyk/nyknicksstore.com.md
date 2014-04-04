@@ -1,0 +1,129 @@
+> *The following text is extracted and transformed from the nyknicksstore.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404112347id_/http%3A//www.nyknicksstore.com/helpdesk/Privacy%233) for the most accurate reproduction.*
+
+# Privacy Information
+
+This website, nyknicksstore.com, including the mobile version, if applicable (collectively, the "Website"), is operated by Fanatics Retail Group North, Inc. and/or its affiliates ("Fanatics Entities") pursuant to an agreement with MSG Holdings, L.P. and/or other affiliates of the New York Knicks ("Knicks Entities"). Information collected through the Website will be shared among and used by the Fanatics Entities and the Knicks Entities in accordance with this policy ("Privacy Policy"). This Privacy Policy applies only to information collected through this Website; it does not apply to information collected by the Fanatics Entities or the Knicks Entities through any other website or other means. When used in this Privacy Policy, the terms "we," "us" or "our" include the Fanatics Entities and the Knicks Entities (collectively, the "Website Entities"). 
+
+We take very seriously the protection and proper use of your personal and non-personal information. We want you to understand what information we may collect from you, how we use such information, and the choices you have regarding our use of this information. Accordingly, this Policy explains how we collect, use and disclose your personal and other information through this Website. We will treat your information consistent with this Privacy Policy unless you have consented otherwise. Also, you may opt-out of certain uses and disclosures of your personal information, as further explained in this Privacy Policy.
+
+**Your Consent**
+
+By accessing and using the Website, you consent to our collection, use and disclosure of your information in accordance with this Privacy Policy and you agree to be legally bound by its terms. IF YOU DO NOT AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY, YOU MAY NOT ACCESS OR USE THE PROPERTIES.
+
+**How We Collect and Use Personal Information**
+
+1\. 
+
+_Personal Information Collected_
+
+. During your access or use of the Website, you may be asked to voluntarily provide certain personal information, such as your name, email address, postal address, credit card number, telephone number, gender, etc. You also may be asked to provide certain personal information about your friend(s) in connection with a "friend" referral program that we may run from time to time. It is always your choice whether to provide this personal information; however, without providing some of the requested information, certain features will not be accessible, and you will not be able to conduct transactions through the Website. Although we try to prevent it, we also may unintentionally collect or receive personal information when mixed in with non-personal information.
+
+2\. 
+
+_How We Use Personal Information_
+
+. We may use your personal information to contact and correspond with you, to respond to your inquiries, to process transactions and payments, to facilitate and enhance your use of the Website, to alert you to our services and those of our affiliates and partners, and for other purposes. For example, if you make a purchase through the Website, we may use your personal information collected during that transaction to market products and services to you that we think may interest you. If you participate in our referral program, we may email the friend you referred inviting him or her to visit our Website, and may store the email address for the purpose of sending such email(s) and to track the success of that program. Your friend may contact us at privacy@fanatics.com to request that we remove this information from our database. Additionally, we may ask you to indicate favorite teams and players, and to provide information about your friends and family members who are sports fans, including their favorite teams and players, their birthdays and other similar information. We will treat such information as personal information when it is associated with other personal information provided by you. When such information is not associated with other personal information provided by you, this information will be treated as non-personally identifiable information.
+
+As indicated above, we may disclose your personal information to any of the Fanatics Entities or Knicks Entities. We will share your personal information with third parties only in the ways that are described in this Privacy Policy. We do not sell your personal information to third parties. We may permit our vendors and subcontractors to access your personal information, but only in connection with performing services for us. For example, in order to process your transactions, we may share your personal information with certain third parties, such as your credit card issuer, a third-party credit verification company, the product handler and the delivery service. Before personal information is disclosed to such a party, we endeavor to require the party to agree to protect the privacy and confidentiality of your personal information. We also may share your personal information with our affiliates or partners who are required to protect the privacy and confidentiality of your personal information. Such affiliates or partners may use your personal information to provide services on our behalf and/or to provide you with information about their own products and services. Further, we may disclose your personal information: (a) as required by law or legal process; (b) to investigate suspected fraud, harassment or other violations of any law, rule, or regulation; or (c) to investigate suspected violations of any terms or policies applicable to the Website or the services provided by us or our third party providers or affiliates. We also may transfer your personal information in connection with a sale, merger, change of control or similar transaction involving the Website or the Website Entities. You will be notified via email (sent to the email address specified in your account) or a notice or updated Privacy Policy on our Website upon any transfer of control of your personal information to a non-affiliate of a Website Entity.
+
+**How We Collect and Use Non-Personally Identifiable and Aggregated Information**
+
+3\. 
+
+_Non-Personally Identifiable Information Collected_
+
+. Like many other websites and applications, we may automatically collect certain non-personally identifiable information regarding our Website's users. Such information may include, without limitation, the Internet Protocol ("IP") address of your computer, your device ID, the IP address of your Internet service provider, your zip code, the date and time you access the Website, the Internet address of a referring website, the operating system you are using, the sections or pages of the Website that you visit, and the images and content viewed. Some of the ways in which we may collect and use non-personally identifiable and aggregated information are further described below.
+
+_Clickstream Data_. As you use the Internet, a trail of electronic information is left at each website you visit. This information, sometimes referred to as "clickstream data," can be collected and stored by a website's server. For example, clickstream data can tell us the type of computer and browsing software you use and the address of the website from which you linked to the Website. We may collect and use clickstream data as a form of aggregate information to anonymously determine how much time visitors spend on each page of our Website, how visitors navigate throughout the Website and how we may tailor our Website to better meet the needs of visitors. This information often will be used to improve our Website and our services. Any collection or use of clickstream data will be anonymous and aggregated, and will not intentionally contain any personal information.
+
+_Cookies, Tracking Pixels, and Similar Technologies_. The Website may use cookies, a type of technology that installs a small amount of information on a website user's computer or other device to permit a website to, for example, recognize future visits using that computer or device. We may use other similar technologies (including, without limitation, tracking pixels, as described further below, and other anonymous identifiers) to gather non-personally identifiable information. We may use cookies and similar technologies on the Website to customize your visit, to enable us to enhance our service, or for other purposes. For example, information provided through cookies is used to recognize you as a previous user of the Website so you do not have to enter your personal information every time and to offer personalized content. You may choose to decline cookies by adjusting your browser preferences, but doing so may affect your use of the Website and your ability to access certain features of the Website or engage in transactions through the Website. If you delete your cookies, change browsers or use a different cookie, cookies that we may use (or an opt-out cookie) may no longer work. Cookies and similar technologies also may be used by our affiliates, a tracking utility company, and other parties to, for example, make it easier for you to navigate our Website. We do not have access to or control over these cookies and technologies and we cannot state whether these parties will comply with this Privacy Policy. Additionally, we may employ, either directly or through trusted third parties, tracking pixels. Tracking pixels are tiny, transparent graphics with a unique identifier, similar in function to cookies, and are used to provide analytical information concerning the user experience as well as to support custom marketing activities for users of the Website. In contrast to cookies, which are stored on a user's computer hard drive, tracking pixels are embedded invisibly on web pages. We may use tracking pixels to help us better manage content, such as by improving the user interface or improving our marketing programs. We also may use non-personally identifiable information to create aggregate tracking information reports regarding user demographics, traffic patterns and purchases and may link tracking information with personal information provided by users.
+
+_Interest-Based Advertising_. We may engage third party vendors to use non-personally identifiable information in connection with their own information to deliver targeted advertising to you when you visit other websites. Cookies, described above, may be used in this process. For example, if you are searching for information on a particular product, our vendor may cause an advertisement to appear on other websites you view with information on that product. This form of advertising, sometimes called "behavioral advertising," is based on anonymous information and not on any personal information. As a result, we and our vendor know your interests, but do not know who you are in connection with the delivery of that specific ad. We believe that such advertising is helpful because you will see advertisements that are relevant to your interests. However, if you would like to opt-out of these interest-based advertisements, please see the Opt-Out Process/Options and Additional Terms section below.
+
+_Other Sources of Information_. We may obtain information about you from third party sources and combine that information with data collected through the Website, including personal information. This combined information may result in, among other things, a profile about you, which we may use in accordance with this Privacy Policy.
+
+4\. 
+
+_How We Use Non-Personally Identifiable Information_
+
+. Your non-personally identifiable information can be used by us for any lawful purpose and may be shared with any number of third parties, provided that such information does not specifically identify you. Such information may be permanently archived for future use. Some examples of how we may use non-personal information are for system administration purposes, analytics and to improve the Website. Other examples of how we may use such information are provided above, such as "Interest-Based Advertising." We also may use location data, preferences, or other information received from the Website, including through your mobile device, to send you tailored marketing messages. Additionally, we may use non-personally identifiable information to engage in interactive, real-time discussions with users, which we or the users may initiate.
+
+**Opt-Out Process/Options and Additional Terms**
+
+5\. 
+
+_Opt-Out Process/Options_
+
+. If you receive an email from us, you may unsubscribe from future unsolicited emails through a link, typically at the bottom of the e-mail. If you have an account with us, you may opt-out of unsolicited communications by updating your account's personal information settings. If you participate in our referral program, the friend you referred may contact us at privacy@fanatics.com to opt out of future communications. In addition, you may request that we delete your personal information by emailing your request to privacy@fanatics.com and we will process your request within a reasonable time after receipt. If you do not want to receive targeted advertisements, then you can opt-out of being tracked by our vendors. For more information about how to opt-out of such tracking, please visit http://www.networkadvertising.org/choices and http://www.aboutads.info/choices/ or similar sites. Opting out of interest-based advertising does not mean that you no longer will see any advertisements; rather, you will still see advertisements that are general and not tailored to your specific interests and activities.
+
+_Direct Marketing Opt-Out_. If you do not want your personal information shared with any third party who may use such information for direct marketing purposes, then you may opt-out of such disclosures by sending an email to privacy@fanatics.com. However, we are not responsible for removing your personal information from the lists of any third party who has previously been provided with your information in accordance with this Privacy Policy.
+
+6\. 
+
+_Accessing Your Personal Information_
+
+. You may request access to your personal information and information about our collection, use and disclosure of that information by contacting privacy@fanatics.com. Subject to certain exceptions prescribed by law, you will be given reasonable access to your personal information, entitlement to challenge the accuracy and completeness of the information and the ability to have it amended as is appropriate. You can help us maintain the accuracy of your information by notifying us of any changes to your personal information.
+
+7\. 
+
+_Security_
+
+. When you enter sensitive information, such as a credit card number on our order forms, we encrypt the transmission of that information using secure socket layer ("SSL") technology. We use reasonable security measures to protect the confidentiality of the personal information submitted to us both during transmission and after we receive it. However, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. 
+
+8\. 
+
+_Contests and Promotions_
+
+. If contests or promotions are made available through the Website, the applicable contest or promotion rules may include rules regarding the collection, use and disclosure of personal information. To the extent that those specific rules conflict with this Privacy Policy, the contest or promotion rules will supersede this Privacy Policy with respect to the conflicting terms and the non-conflicting terms of this Privacy Policy and our Terms of Use will continue to apply. 
+
+9\. 
+
+_Third Party Websites_
+
+. The Website may contain links to other websites or Internet resources. When you click on one of those links, you are contacting another website or Internet resource. We have no responsibility or liability for, or control over, those other websites or resources or their collection, use and disclosure of your information. We suggest that you read the privacy policy and terms of use of each such website. 
+
+10\. 
+
+_Social Media, Widgets and Open Forums_
+
+. Our Website may allow you to engage with social media services, such as Facebook, Twitter, Pinterest and Instagram, and widgets such as the "Share this" button, or interactive mini-programs that run on our Website ("Social Functions"). These Social Functions may access, collect and integrate with your social media accounts and information. For example, these Social Functions may collect your IP address, identify which page you are visiting on our Website, or set a cookie. If you choose to use these Social Functions, you may be sharing certain profile elements with us, including your comments, contacts, photos or favorite teams. This sharing is subject to each social media service's own privacy policy and terms of use. We do not control those social media services or your profiles on those services. Nor do we modify your privacy settings on those services or establish rules about how your personal information on those services will be used. Social Functions are either hosted by a third party or hosted directly on our Website. Your interactions with them are governed by the privacy policy of the company providing them. Information you include and transmit online in a publicly accessible blog, chat room or social media platform, or that you share in an open forum such as an in-person panel or survey, may be viewed and used by others without any restrictions. We do not control such uses of your personal information, and by using such services you assume the risk and acknowledge that the personal information provided by you may be viewed and used by us and/or third parties for any number of purposes and that the usage restrictions set forth in this Privacy Policy do not apply to such services. To request removal of your personal information from a blog, community forum or other publicly-accessible part of the Website, contact us at privacy@fanatics.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so.
+
+11\. 
+
+_Data Retention_
+
+. We will retain your personal information for as long as your account is active (as determined by us) and for a reasonable time thereafter. You may request that we deactivate your account at any time by contacting us at privacy@fanatics.com. We also may retain your personal information for a longer period of time as needed to provide you services or as necessary to comply with our legal obligations, to resolve disputes, and to enforce our agreements. Even if we delete some or all of your personal information, we may continue to retain and use aggregate, anonymous data previously collected and/or anonymize and aggregate your personal information.
+
+12\. 
+
+_Protection for Children_
+
+. We are committed to the preservation of online privacy for all of our visitors, including children. We sell products intended for purchase by adults (i.e., those age 18 or older). If you make a purchase on our Website, you are representing that you are an adult. Consistent with the Children's Online Privacy Protection Act, we will not knowingly collect any personal information from children under the age of 13. If you are a child under the age of 13, you are not authorized to use the Website without consent from your parent or legal guardian. If we become aware that personal information from a child under 13 has been collected without such child's parent or guardian's consent, we will use all reasonable efforts to delete such information from our database. If any parent, guardian or other responsible adult becomes aware that we have collected personal information from a child under the age of 13, please contact us at privacy@fanatics.com.
+
+13\. 
+
+_Privacy Policy Changes_
+
+. We have the sole discretion to change, modify, add or remove portions of this Privacy Policy from time to time. New versions of this Privacy Policy will be posted here. Our collection, use and disclosure of your information will be governed by the version of this Privacy Policy in effect at the time of such collection, use or disclosure. If we materially change the way that we collect, use or disclose your personal information, we will notify you through a notice or updated Privacy Policy on the Website, or by email (sent to the email address specified in your account), prior to or upon the change(s) becoming effective. Accordingly, when you access or use the Website, you should check the date of this Privacy Policy and be aware of any changes since the last version. Your continued use of the Website following the posting of any changes to this Privacy Policy means that you accept such changes.
+
+14\. 
+
+_Servers in the United States of America_
+
+. Our servers are maintained in the United States of America ("USA"). By using the Website, you freely and specifically give us your consent to export your personal information to the USA and to store and use it in the USA as specified in this Privacy Policy. You understand that data stored in the USA may be subject to lawful requests by the courts or law enforcement authorities in the USA.
+
+15\. 
+
+_Terms and Conditions_
+
+. Use of the Website is governed by, and subject to, the Terms of Use contained at [http://nyknicksstore.com/pages/termsofuse](http://www.nyknicksstore.com/pages/termsofuse), and this Privacy Policy is incorporated therein. Your use or accessing of the Website constitutes your agreement to be bound by the Terms of Use.
+
+For questions or concerns relating to this Privacy Policy, we can be contacted at:
+
+NYKnicksStore.com  
+c/o Fanatics Retail Group North, Inc.  
+5245 Commonwealth Avenue  
+Jacksonville, FL 32254  
+privacy@fanatics.com
+
+**Last Updated March 27, 2014**
