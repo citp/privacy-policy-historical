@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yessoftware.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820225714id_/http%3A//www.yessoftware.com/content.php%3Fcontent_id%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yessoftware.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404205317id_/http%3A//www.yessoftware.com/content.php%3Fcontent_id%3Dprivacy) for the most accurate reproduction.*
 
 # YesSoftware Privacy Policy
 
