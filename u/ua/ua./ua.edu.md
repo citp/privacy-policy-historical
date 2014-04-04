@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ua.edu privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217200916id_/http%3A//www.ua.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ua.edu privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404033706id_/http%3A//ua.edu/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - The University of Alabama
 
