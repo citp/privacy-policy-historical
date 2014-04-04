@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pufcigs.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229184405id_/http%3A//pufcigs.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pufcigs.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404210602id_/http%3A//pufcigs.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
