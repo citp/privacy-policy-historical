@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onetwotrade.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124032224id_/http%3A//www2.onetwotrade.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onetwotrade.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404101625id_/http%3A//www.onetwotrade.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OneTwoTrade
 
