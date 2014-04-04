@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the single-russian-woman.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831235159id_/http%3A//www.single-russian-woman.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the single-russian-woman.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404162159id_/http%3A//www.single-russian-woman.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -82,7 +82,7 @@ If you have any questions about this privacy statement, you can [contact us](htt
 ---|---|---  
 |  | 
 
-© Copyright 1999-2013 Single-Russian-Woman.com
+© Copyright 1999-2014 Single-Russian-Woman.com
 
 |   
 ---|---|---
