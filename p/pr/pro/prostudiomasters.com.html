@@ -1,18 +1,7 @@
-<!--The following is the downloaded HTML source of the prostudiomasters.com privacy policy that was archived on 2013-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131202013527id_/http%3A//www.prostudiomasters.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prostudiomasters.com privacy policy that was archived on 2014-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140405093824id_/http%3A//www.prostudiomasters.com/privacy) for the most accurate reproduction.-->
 
-<html class=" js no-touch rgba backgroundsize borderradius boxshadow textshadow opacity cssanimations audio"><head></head><body><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
-
-<h4>A PHP Error was encountered</h4>
-
-<p>Severity: Notice</p>
-<p>Message:  Undefined index: HTTP_ACCEPT_LANGUAGE</p>
-<p>Filename: hooks/language_hook.php</p>
-<p>Line Number: 10</p>
-
-</div>
-
-
+<!DOCTYPE html><html style="" class=" js no-touch rgba backgroundsize borderradius boxshadow textshadow opacity cssanimations audio"><head>
 
 	<base href="http://www.prostudiomasters.com/">
 
@@ -32,7 +21,7 @@
 	<link rel="icon" href="static/img/v2/favicon.ico" type="image/x-icon">
 	
 	<link rel="stylesheet" href="//d3j0fj9hcy3zm8.cloudfront.net/static/css/reset.css">
-	<link rel="stylesheet" href="static/css/main-20131112.css">
+	<link rel="stylesheet" href="static/css/main-20140306.css">
 	<link rel="stylesheet" href="static/lib/fancyapps-fancyBox-18d1712/source/jquery.fancybox.css">
 
 	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=567591483294840"></script><script type="text/javascript" src="//d3j0fj9hcy3zm8.cloudfront.net/static/lib/jquery-1.10.2.min.js"></script>
@@ -63,9 +52,7 @@
 	<script type="text/javascript" src="//d3j0fj9hcy3zm8.cloudfront.net/static/lib/hotkeys/jquery.hotkeys.js"></script>
 
 	<!-- soundmanager2 stuff -->
-	<!-- <link rel="stylesheet" type="text/css" href="static/lib/soundmanagerv297a-20121104/demo/mp3-player-button/css/mp3-player-button-psm.css" /> -->
 	<script type="text/javascript" src="static/lib/soundmanager2-20131115/script/soundmanager2-nodebug-jsmin.js"></script>
-	<!-- <script type="text/javascript" src="static/lib/soundmanager2-20131115/script/soundmanager2.js"></script> -->
 	<script type="text/javascript">
 
 		soundManager.setup({
@@ -120,6 +107,10 @@
 					scrollTop: 0
 				}, 600);
 			});
+			
+			$(document).on('change', 'select.select-store', function(){
+				location.href = '/?store=' + $(this).val();
+			});
 
 		});
 
@@ -129,31 +120,47 @@
 	<style type="text/css">
 		body { margin-top: 115px; }
 		#header { position: fixed; top: 0; width: 100%; z-index: 2; box-shadow: 0 5px 25px rgba(0,0,0,0.5); border-bottom: 1px solid #23262b; }
+		#header form.search { display: inline; }
+		#header form.search input.q {
+			width: 140px;
+			font-size: 12px;
+			color: #c3c6cb;
+			margin: 0 0 0 7px;
+			border: 1px solid transparent;
+			border-radius: 4px;
+			padding: 5px 5px 5px 26px;
+			background: #33363b url(static/img/v1/icon-search.gif) 5px center no-repeat;
+			background-size: 16px 16px;
+			outline: none;
+		}
+		#header form.search input.small { padding: 0 0; height: 26px; line-height: 1; font-size: 11px; }
+		#header #nav a { font-size: 12px; }
+		
+		#footer .select-store { font-size: 12px; outline: none; }
+			
 		#main.home { position: relative; padding-top: 30px; }
 
-/*		.quickview-button { display: inline-block; padding: 3px 5px 4px; position: absolute; top: -2px; right: -2px; z-index: 1; background: rgba(70,70,90,0.8); color: #d3d6db; border: 1px solid #93999b; border-radius: 3px; line-height: 1; box-shadow: 0 2px 5px rgba(0,0,0,0.5); font-size: 11px; text-shadow: 0 1px 0 rgba(0,0,0,0.8); }*/
-/*		.quickview-button:hover { border-color: #b3b6bb; color: #f3f6fb; }*/
-
 		.stop-scrolling { width: 100%; height: 100%; overflow: hidden; }
-		#overlay { width: 100%; height: 100%; margin: 0 0 0 0; padding: 0; position: fixed; top: 0; left: 0; background: rgba(0,0,0,0.3); display: none; z-index: 998; }
+		#overlay { width: 100%; height: 100%; margin: 0 0 0 0; padding: 0; position: fixed; top: 0; left: 0; background: rgba(0,0,0,0.5); display: none; z-index: 998; }
 		
 		#quickview { position: fixed; width: 720px; height: 540px; top: 20px; left: 20px; display: none; background: #e3e6eb; box-shadow: 0 0 50px #000; color: #111; text-shadow: 0 1px 0 rgba(255,255,255,0.3); text-align: left; z-index: 999; clear: both; }
 		#quickview .content { margin: 0; padding: 0; font-weight: 300; }
 		#quickview a { color: #357; }
 		
-		#quickview .content .close { float: right; margin: -10px 5px 5px 5px; display: inline-block; padding: 0.5em 0.75em; font-size: 11px; color: #93969b; line-height: 1; background: transparent; cursor: pointer; border: 1px inset #fff; }
-		#quickview .content .mast { margin: 15px; height: 180px; }
+		#quickview .content .close { position: absolute; top: 14px; right: 0; display: inline-block; padding: 0.5em 0.75em; font-size: 11px; color: #93969b; line-height: 1; background: transparent; cursor: pointer; border: 1px inset #fff; }
+		#quickview .content .mast { margin: 12px; width: 660px; -background: #eee; }
 		#quickview .content .mast tr td { vertical-align: top; }
-		#quickview .content .mast .album-art { border: 1px solid #d3d6db; width: 180px; height: 180px; margin: 0 15px 0 0; }
+		#quickview .content .mast tr td.col1 { width: 200px; }
+		#quickview .content .mast .album-art { border: 1px solid #d3d6db; width: 180px; height: 180px; margin: 3px; }
 		#quickview .content .mast .cmenu { display: inline; }
 		#quickview .content .mast .cmenu span.value { padding: 8px 12px 8px 0; }
-		#quickview .content .mast .button { padding: 11px 20px 10px; }
+		#quickview .content .mast .button { padding: 11px 20px 10px; margin-left: 10px; }
 
-		#quickview .content .mast .album-name { font-size: 20px; font-weight: 400; line-height: 1.2; margin-top: 0.5em; margin-bottom: 4px; }
+		#quickview .content .mast .album-name { font-size: 20px; font-weight: 400; line-height: 1.2; margin-top: 0.25em; margin-bottom: 4px; }
 		#quickview .content .mast .album-artist { font-size: 14px; line-height: 1.2; margin-bottom: 12px; }
 		#quickview .content .mast .album-blurb { font-size: 12px; line-height: 1.5; margin: 2em 0; }
 
-		#quickview .content .mast .album-purchase { height: 40px; line-height: 1; }
+		#quickview .content .mast .album-purchase { height: 40px; line-height: 1; white-space: nowrap; }
 
 		#quickview .content .tabs { text-align: left; margin-left: 212px; }
 		#quickview .content .tabs .tab  { display: inline-block; border: 1px solid #c3c6cb; width: 90px; padding: 6px; font-size: 11px; cursor: pointer; white-space: nowrap; }
@@ -161,21 +168,23 @@
 
 		#quickview .content .album-info-container     { display: none; margin-top: 10px; height: 260px; overflow: auto; border-top: 1px solid #c3c6cb; background: #d9dbe3; padding: 40px 60px; line-height: 1.7; font-size: 12px; color: #000; }
 		#quickview .content .recording-info-container { display: none; margin-top: 10px; height: 260px; overflow: auto; border-top: 1px solid #c3c6cb; background: #d9dbe3; padding: 40px 60px; line-height: 1.7; font-size: 12px; color: #000; }
+		#quickview .content .comments-container { display: none; margin-top: 10px; height: 260px; overflow: auto; border-top: 1px solid #c3c6cb; background: #d9dbe3; padding: 40px 60px; line-height: 1.7; font-size: 12px; color: #000; }
 
 		#quickview .content .tracks-container { margin-top: 10px; height: 340px; overflow: none; overflow-x: auto; border-top: 1px solid #73767b; background: #d9dbe3; }
 		#quickview .content .tracks { width: 100%; }
 		#quickview .content .tracks tr.head td { font-weight: 400; }
-		#quickview .content .tracks td { padding: 9px; border-bottom: 1px solid #c3c6cb; vertical-align: middle; font-size: 12px; line-height: 1; }
+		#quickview .content .tracks td { padding: 9px; border-bottom: 1px solid #c3c6cb; vertical-align: middle; font-size: 11px; line-height: 1; }
 		#quickview .content .tracks td.track-seq { text-align: right; width: 16px; font-weight: 600; }
 		#quickview .content .tracks td.track-play { text-align: center; width: 24px; }
 		#quickview .content .tracks td.track-name { text-align: left; width: auto; cursor: pointer; }
 		#quickview .content .tracks td.track-duration { text-align: right; width: 40px; }
-		#quickview .content .tracks td.track-format { text-align: center; width: 60px; }
-		#quickview .content .tracks td.track-price { text-align: center; width: 50px; }
+		#quickview .content .tracks td.track-format { text-align: right; width: 60px; }
+		#quickview .content .tracks td.track-price { text-align: left; width: 60px; white-space: nowrap; font-size: 10px; padding-left: 12px; }
 
 		#quickview .content .tracks td.track-format span { border: 0 solid rgba(0,0,0,0.1); padding: 2px 4px; display: inline-block; white-space: nowrap; font-size: 11px; }
-		#quickview .content .tracks td.track-price span.album-only { white-space: nowrap; font-size: 11px; }
-		#quickview .content .tracks td.track-price span.buy-track  { white-space: nowrap; font-size: 11px; font-weight: 400; color: #37a; border: 1px solid #59c; display: inline-block; padding: 3px 1px 4px 0px; border-radius: 2px; cursor: pointer; text-align: center; width: 50px; background: #e3e6eb; }
+		#quickview .content .tracks td.track-price span.album-only { white-space: nowrap; font-size: 10px; color: #c3c6cb; margin-left: 8px; }
+		#quickview .content .tracks td.track-price span.buy-track { background: #c3c6cb url(static/img/v2/bg-button-track.png) repeat-x top; color: #23262b; text-shadow: 0 1px 0 rgba(255,255,255,0.4); border-radius: 2px; padding: 4px 10px 3px 8px !important; display: inline-block; cursor: pointer; font-family: arial; font-weight: normal; font-size: 10px; line-height: 1; box-shadow: 1px 1px 2px rgba(0,0,0,0.25); white-space: nowrap; }
+		#quickview .content .tracks td.track-price span.buy-track:active { background-color: #d3d6db !important; }
 
 		#quickview .content .tracks td.album-pline { line-height: 1.4; font-size: 10px; opacity: 0.6; }
 
@@ -198,22 +207,24 @@
 
 
 		/* SKIN */
-		#quickview { background: #63666b url(static/img/v2/gradient-overlay.png) no-repeat left top; ; color: #fff; font-weight: 300; text-shadow: 0 1px 0 #63666b; }
+		#quickview { background: #63666b url(static/img/v2/gradient-overlay.png) no-repeat left top; color: #fff; font-weight: 300; text-shadow: 0 1px 0 #63666b; }
 		#quickview a { color: #fff; text-decoration: none; }
-		#quickview .content .close { color: rgba(0,0,0,0.2); background: rgba(255,255,255,0.2); border: 1px solid transparent; text-shadow: none; border-radius: 2em; font-weight: 600; margin: -5px 10px 0 0; }
-		#quickview .content .close:hover { background: rgba(255,255,255,0.3); }
+		#quickview .content .social-container { float: right; display: inline-block; margin: 0px 0 12px 12px; width: 140px; height: 24px; text-align: right; -background: #999; }
+		#quickview .content .social { display: none; }
+		#quickview .content .close { color: rgba(255,255,255,0.4); background: rgba(100,100,100,0.1); border: 1px solid rgba(255,255,255,0.3); text-shadow: none; border-radius: 3em; font-weight: 600; margin: -5px 10px 0 150px; }
+		#quickview .content .close:hover { background: rgba(255,255,255,0.1); }
 		#quickview .content .tabs .tab     { border: 1px solid rgba(255,255,255,0.3); margin-right: 2px; border-radius: 2px; }
 		#quickview .content .tabs .tab.on  { border: 1px solid rgba(255,255,255,0.4); background: rgba(0,0,0,0.1); }
 		#quickview .content .album-info-container     { border-top: 1px solid #33363b; background: #63666b; padding: 40px 60px; line-height: 1.7; font-size: 12px; color: #fff; }
 		#quickview .content .recording-info-container { border-top: 1px solid #33363b; background: #63666b; padding: 40px 60px; line-height: 1.7; font-size: 12px; color: #fff; }
 		#quickview .content .tracks-container { border-top: 1px solid #33363b; background: #73767b; }
 		#quickview .content .tracks tr td { border-bottom: 1px solid #83868b; cursor: default; }
-		#quickview .content .tracks tr.head td { background: #63666b !important; }
+		#quickview .content .tracks tr.head td { background: #63666b !important; font-size: 11px; }
 		#quickview .content .tracks tr:hover td { background: #66696e; }
 
 		.fancybox-skin { border-radius: 0; }
 
-		#faq24 { display: none; width: 540px; padding: 30px 60px; text-align: left; line-height: 1.5; background: #53565b; color: #fff; }
+		#faq24 { display: none; width: 540px; padding: 20px 60px 30px 60px; text-align: left; line-height: 1.5; background: #2E3D58; color: #fff; }
 		#faq24 h3 { font-size: 18px; margin: 1.5em 0 0.5em 0; color: #fff; }
 		#faq24 h4 { font-size: 12px; margin: 1em 0 0.5em 0; color: #fff; font-weight: 300; }
 		#faq24 p  { font-size: 12px; margin: 0 0 1.5em 0; color: #eee; }
@@ -223,7 +234,7 @@
 		
 	</style>
 
-	<script type="text/javascript" src="static/js/album_quickview.js"></script>
+	<script type="text/javascript" src="static/js/album_quickviewB.js"></script>
 	
 	<script type="text/javascript" charset="utf-8">
 		/* Modernizr 2.6.2 (Custom Build) | MIT & BSD
@@ -254,15 +265,18 @@
 				cursorwidth: 9
 			});
 			
-			$('#nav li:first').dblclick(function(e){
-				var q = prompt('Search on Label, Artist or Album Name');
-				if (q) {
-					location.href = 'search?q=' + escape(q);
-				}
-				e.preventDefault();
-			});
-
 			$('#header .flashdata').delay(4000).fadeOut();
+			
+			$('#header form.search').submit(function(e){
+				if ($('#header form.search .q').val() == '') {
+					$('#header form.search .q').focus();
+					e.preventDefault();
+				}
+			});
+			
+			if (location.pathname == '/search') {
+				$('#header form.search .q').focus();
+			}
 			
 			
 			// FAQ POPOVER
@@ -317,11 +331,18 @@
 	</script>
 
 	
-
-
+</head>
+<body>
 
 
 <div id="fb-root"></div>
+<script>
+window.fbAsyncInit = function() {
+  $('body').on('refreshfb',function(e){
+	FB.XFBML.parse();
+  });
+};
+</script>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
@@ -343,7 +364,7 @@
 
 								<li>Hello</li>
 				<li class="sfmenu">
-					<a href="featured" class="nounderline">Browse Albums <img src="//d3j0fj9hcy3zm8.cloudfront.net/static/img/v2/downarrow.png" width="11" height="8" border="0" alt=""></a>
+					<a href="featured" class="nounderline">Browse By Genre <img src="//d3j0fj9hcy3zm8.cloudfront.net/static/img/v2/downarrow.png" width="11" height="8" border="0" alt=""></a>
 					<ul>
 						<li><a href="topsellers">Top Sellers</a></li>
 						<li><a href="featured/genre/classical">Classical</a></li>
@@ -359,6 +380,18 @@
 								<li><a href="cart" class="cart">Cart</a></li>
 				
 			</ul>
+			
+			<div id="search-browse" style="position: absolute; top: 64px; left: 610px;">
+				<form class="search" action="search" method="get">
+					<input type="text" tabindex="1" name="q" class="q" placeholder=""> 
+					<input type="submit" class="button small" value="Search">
+				</form>
+			</div>
+			
+			<div id="social-follow" style="position: absolute; top: 66px; left: 896px;">
+				<a target="_blank" href="http://www.facebook.com/prostudiomasters"><img src="//d3j0fj9hcy3zm8.cloudfront.net/static/img/v2/footer-facebook.png" width="22" height="22" border="0" alt="Like us on Facebook" style="border-radius: 1em;"></a>
+				<a target="_blank" href="http://www.twitter.com/prostudiom"><img src="//d3j0fj9hcy3zm8.cloudfront.net/static/img/v2/footer-twitter.png" width="22" height="22" border="0" alt="Follow us on Twitter" style="border-radius: 1em; margin-left: 2px;"></a>
+			</div>
 						
 		</div>
 		<div class="flashdata"></div>
@@ -492,19 +525,27 @@
 					<li><a href="http://support.prostudiomasters.com/" target="_blank">Support</a></li>
 					<!-- <li><a href="session/destroy">Logout</a></li> -->
 
-									</ul>
-				<div class="copyright">© 2013 ProStudioMasters.com, Inc. &nbsp; All rights reserved.</div>
+										
+					<li>Store: &nbsp;
+						<select class="select-store">
+							<optgroup label="Select Your Country">
+								<option value="us" selected="">United States</option>
+								<option value="ca">Canada</option>
+							</optgroup>
+						</select>
+				</li></ul>
+				<div class="copyright">© 2014 ProStudioMasters.com, Inc. &nbsp; All rights reserved.</div>
 			</div>
 		</div>
 
-		<div class="col2" style="text-align: right;">
+		<div class="col2" style="text-align: right; width: auto;">
 
 			
-			<div style="margin-top: 20px;">
-				<a target="_blank" href="http://www.facebook.com/prostudiomasters"><img src="//d3j0fj9hcy3zm8.cloudfront.net/static/img/v2/footer-facebook.png"></a>
+			<!-- <div style="margin-top: 20px;">
+				<a target="_blank" href="http://www.facebook.com/prostudiomasters"><img src="//d3j0fj9hcy3zm8.cloudfront.net/static/img/v2/footer-facebook.png" /></a>
 				&nbsp;&nbsp;
-				<a target="_blank" href="http://www.twitter.com/prostudiom"><img src="//d3j0fj9hcy3zm8.cloudfront.net/static/img/v2/footer-twitter.png"></a>
-			</div>
+				<a target="_blank" href="http://www.twitter.com/prostudiom"><img src="//d3j0fj9hcy3zm8.cloudfront.net/static/img/v2/footer-twitter.png" /></a>
+			</div> -->
 
 			
 		</div>
