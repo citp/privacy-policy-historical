@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datanami.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203111659id_/http%3A//www.datanami.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datanami.com privacy policy that was archived on 2014-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140405160417id_/http%3A//www.datanami.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Datanami: Our privacy policy at Datanami and Tabor Communications, Inc. - Datanami
 
