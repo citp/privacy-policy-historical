@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toptenpk.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207050048id_/http%3A//toptenpk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptenpk.com privacy policy that was archived on 2014-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140405160759id_/http%3A//toptenpk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Top Ten Lists or Best Top 10 Lists at TopTenpk.com
 
@@ -10,7 +10,7 @@ Please note that these companies may use information (not including your name, a
 
 Here are some third-party vendors serving ads on this site and you may visit those vendor websites to opt out of cookies (if the vendor offers this capability).
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://toptenpk.com/contact-us/ "contact us") by email at info gsmtweet@gmail.com
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info gsmtweet@gmail.com
 
 At toptenpk.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by toptenpk.com and how it is used.
 
