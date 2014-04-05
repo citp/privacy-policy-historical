@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whoswhosa.co.za privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206222310id_/http%3A//whoswho.co.za/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoswhosa.co.za privacy policy that was archived on 2014-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140405044925id_/http%3A//whoswhosa.co.za/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Who's Who SA
 
