@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rn.org privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115203946id_/http%3A//www.rn.org/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rn.org privacy policy that was archived on 2014-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140405092638id_/http%3A//www.rn.org/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Online Nursing Continuing Education Provider with a Free Online CE Course
 
 | 
 
-[Nursing Resources](http://www.rn.org/NursingOrganizations.php)[](https://web.archive.org/web/20131115203946id_/http%3A//www.rn.org/index.php)
+[Nursing Resources](http://www.rn.org/NursingOrganizations.php)[](https://web.archive.org/web/20140405092638id_/http%3A//www.rn.org/index.php)
 
 |    
 ---|---  
@@ -83,7 +83,7 @@ At RN.org, we are committed to protecting your privacy.  This Privacy Policy wi
 
 We collect information on the site in order to make it possible for you to purchase items on our website and to enhance your overall experience.  We also monitor traffic patterns and site usage to help us develop and improve design and layout.  **RN.org will not collect personal information about you without your knowledge and consent.**
 
-We may employ outside agents, meaning other companies or individuals to perform functions on our behalf, such as sending postal mail and email, promotional activities, processing credit card payments, and providing customer service.  These RN.org agents have access to personal information needed to perform their functions, but may not use it for other purposes.  Other than our outside agents, we keep all of your personal information private and will not share it with any third party, unless you have authorized us to or we are legally required to do so.  RN.org may also release account information when we believe, in good faith, that such release is reasonably necessary to enforce or apply the provisions of our _[Terms of Service](https://web.archive.org/web/20131115203946id_/http%3A//www.rn.org/TermsofService.php)_ or to protect the rights, property or safety of RN.org, our users, or others.
+We may employ outside agents, meaning other companies or individuals to perform functions on our behalf, such as sending postal mail and email, promotional activities, processing credit card payments, and providing customer service.  These RN.org agents have access to personal information needed to perform their functions, but may not use it for other purposes.  Other than our outside agents, we keep all of your personal information private and will not share it with any third party, unless you have authorized us to or we are legally required to do so.  RN.org may also release account information when we believe, in good faith, that such release is reasonably necessary to enforce or apply the provisions of our _[Terms of Service](https://web.archive.org/web/20140405092638id_/http%3A//www.rn.org/TermsofService.php)_ or to protect the rights, property or safety of RN.org, our users, or others.
 
 RN.ORG may provide information in the aggregate to third parties without disclosure of personally identifying information.
 
