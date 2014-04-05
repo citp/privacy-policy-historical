@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webtender.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228194754id_/http%3A//www.webtender.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtender.com privacy policy that was archived on 2014-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140405233012id_/http%3A//www.webtender.com/info/privacy.html) for the most accurate reproduction.*
 
 # The Webtender: Privacy Policy
 
@@ -12,7 +12,7 @@ The Webtender is deeply committed to protecting the privacy of Internet users. T
 
 The Webtender does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address, unless you actively provide this by filling out registration forms etc. However, The Webtender does obtain some types of non-personally identifiable information such as your IP address, your browser type and operating system, and the address of the web site that referred you to The Webtender. This information is collected by The Webtender and is used for to provide potential advertisers with statistics, to administer the web site, and to track abusive users. 
 
-Some sections of The Webtender may also use [cookies](https://web.archive.org/web/20131228194754id_/http%3A//www.webtender.com/info/cookies.html). For more information on how they are used by The Webtender, please [click here](https://web.archive.org/web/20131228194754id_/http%3A//www.webtender.com/info/cookies.html).
+Some sections of The Webtender may also use [cookies](https://web.archive.org/web/20140405233012id_/http%3A//www.webtender.com/info/cookies.html). For more information on how they are used by The Webtender, please [click here](https://web.archive.org/web/20140405233012id_/http%3A//www.webtender.com/info/cookies.html).
 
 ### Polls, surveys and voting
 
@@ -30,7 +30,7 @@ Everyone that submit recipes to The Webtender must provide their name and a work
 
 ### Feedback and suggestions
 
-To be able to reply to feedback and suggestions you are required to supply an e-mail address. However, this will be treated according to the [e-mail policy](https://web.archive.org/web/20131228194754id_/http%3A//www.webtender.com/info/nospam.html) and never be sold or used in mass mailings.
+To be able to reply to feedback and suggestions you are required to supply an e-mail address. However, this will be treated according to the [e-mail policy](https://web.archive.org/web/20140405233012id_/http%3A//www.webtender.com/info/nospam.html) and never be sold or used in mass mailings.
 
 ### Ads served by third party
 
@@ -48,8 +48,8 @@ This site contains links to other sites and The Webtender can not be held respon
 
 If you have additional questions regarding your privacy on The Webtender, feel free to contact [privacy@webtender _._ com](https://web.archive.org/cgi-bin/mailto?privacy), or visit one of the links below.
 
-  * **[E-mail policy](https://web.archive.org/web/20131228194754id_/http%3A//www.webtender.com/info/nospam.html)**
-  * **[Cookies information](https://web.archive.org/web/20131228194754id_/http%3A//www.webtender.com/info/cookies.html)**
+  * **[E-mail policy](https://web.archive.org/web/20140405233012id_/http%3A//www.webtender.com/info/nospam.html)**
+  * **[Cookies information](https://web.archive.org/web/20140405233012id_/http%3A//www.webtender.com/info/cookies.html)**
 
 
 
@@ -59,6 +59,6 @@ If you have additional questions regarding your privacy on The Webtender, feel f
 
 [Home](https://web.archive.org/) · [Search](https://web.archive.org/search/) · [Forums](https://web.archive.org/iforum/) · [Bookstore](https://web.archive.org/books/) · [Barstore](https://web.archive.org/barstore/open.php/t=pft) · [Web Index](https://web.archive.org/index/) · [Feedback](https://web.archive.org/cgi-bin/feedback.cgi) · [Survey](https://web.archive.org/info/bsurveyframe.html)
 
-[Copyright](https://web.archive.org/info/c.html) © 1995-2013 The Webtender.  
+[Copyright](https://web.archive.org/info/c.html) © 1995-2014 The Webtender.  
 [About](https://web.archive.org/info/) | [Disclaimer](https://web.archive.org/info/disclaimer.html) | [Privacy policy](https://web.archive.org/info/privacy.html)  
 
