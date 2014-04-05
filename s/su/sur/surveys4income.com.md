@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveys4income.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209081159id_/http%3A//www.surveys4income.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveys4income.com privacy policy that was archived on 2014-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140406000339id_/http%3A//www.surveys4income.com/privacy.html) for the most accurate reproduction.*
 
 # Paid Surveys- Earn Real Income From Home
 
