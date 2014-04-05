@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the usgcn.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609183535id_/http%3A//www.usgcn.com/home/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usgcn.com privacy policy that was archived on 2014-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140406000143id_/http%3A//usgcn.com/home/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - AMERICAN JOINT
 
-American joint International Investment Group, LLC, its affiliates and subsidiaries (together, "American joint International Investment Group" or "us") realize how important your privacy is to you, and are committed to ensuring that we keep your personal information secure. This privacy policy seeks to help you understand what information about you we may collect, how we collect it and how we may use and disclose it. It also sets out your rights and the procedures that we have in place to safeguard your privacy.
+American joint International Investment Group, LLC, its affiliates and subsidiaries (together, "American joint International Investment Group" or "we" or "us") realize how important your privacy is to you, and are committed to ensuring that we keep your personal information secure. This privacy policy seeks to help you understand what information about you we may collect, how we collect it and how we may use and disclose it. It also sets out your rights and the procedures that we have in place to safeguard your privacy.
 
 By using the website, you agree to the collection, use, disclosure and transfer of your personal information, as well as to the use of cookies, as set out in this privacy policy. This privacy policy may be updated by us at any time and any changes will be effective once posted on the website. If we make any substantial changes to this privacy policy, we may place a notice on the website so that you are aware at all times of how your personal information is collected and used.
 
