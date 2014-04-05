@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eduassets.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827214113id_/http%3A//www.eduassets.com/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduassets.com privacy policy that was archived on 2014-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140405104826id_/http%3A//eduassets.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # EDU Assets
 
