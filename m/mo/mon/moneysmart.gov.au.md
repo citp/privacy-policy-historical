@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneysmart.gov.au privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509125317id_/https%3A//www.moneysmart.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysmart.gov.au privacy policy that was archived on 2014-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140405141646id_/https%3A//www.moneysmart.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy | MoneySmart by ASIC
 
@@ -33,7 +33,7 @@ For example, MoneySmart may include your visit to its superannuation calculator 
 
 Other than for statistical purposes no attempt will be made to identify your visit or browsing activities except in the unlikely event of an investigation.  In an investigation, a law enforcement agency may inspect the internet service provider's log files with a warrant.
 
-## Back to topCollection, use and disclosure of personal information
+## Collection, use and disclosure of personal information
 
 MoneySmart will only retain personal information with your consent, via a prominent button that you may choose to click.  Any time this occurs, you will be informed of the purpose for which the information is being collected.
 
@@ -45,11 +45,11 @@ Your email address will only be used for the purpose for which you provided it a
 
 You can amend all the information in your MoneySmart personal profile.
 
-## Back to topPublishing unclaimed money data
+## Publishing unclaimed money data
 
 Unclaimed money records are published on the MoneySmart website so people can find their lost money.  ASIC offers a free service that people would otherwise be charged for by commercial money finding businesses. ASIC is required or authorised by law to publish this information.
 
-## Back to topCookies
+## Cookies
 
 This website may use cookies (small pieces of information exchanged between your web browser and a website server) for online surveys.
 
@@ -61,7 +61,7 @@ As there may be security risks in sending information via the internet, you shou
 
 If you have any concerns about your privacy when using this website, email us at [info@moneysmart.gov.au](mailto:info@moneysmart.gov.au "info@moneysmart.gov.au") or phone the ASIC Infoline on 1300 300 630.
 
-Last updated: 21 Dec 2012
+Last updated: 24 Feb 2014
 
 Helpful
 
