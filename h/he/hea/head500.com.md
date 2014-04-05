@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the head500.com privacy policy that was archived on 2013-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130725000436id_/http%3A//www.head500.com/Privacy%2520Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the head500.com privacy policy that was archived on 2014-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140405213901id_/http%3A//www.head500.com/Privacy%2520Policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy-HSBC
 
