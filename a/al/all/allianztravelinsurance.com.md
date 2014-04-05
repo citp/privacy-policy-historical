@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allianztravelinsurance.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220115650id_/http%3A//www.allianztravelinsurance.com/aa/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allianztravelinsurance.com privacy policy that was archived on 2014-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140405043235id_/http%3A//www.allianztravelinsurance.com/aa/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | Allianz Travel Insurance
 
