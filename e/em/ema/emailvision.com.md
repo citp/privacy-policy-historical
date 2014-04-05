@@ -1,112 +1,164 @@
-> *The following text is extracted and transformed from the emailvision.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824170238id_/http%3A//www.emailvision.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailvision.com privacy policy that was archived on 2014-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140405141750id_/http%3A//www.smartfocus.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Online Marketing Services - Emailvision
+# Privacy & Cookies Policy
 
-**1\. Web Sites Covered**  
-This Privacy Statement covers the information practices of Web site that linked to this Privacy Statement: [**http://www.emailvision.com/**](http://www.emailvision.com/) (collectively referred to as “Emailvision’s Web site” or “the Company’s Web sites”).  
-Emailvision’s Web sites may contain links to other Web sites. Emailvision is not responsible for the information practices or the content of such other Web sites. The Company encourages you to review the privacy statements of other Web sites to understand their information practices.
+[](https://privacy.truste.com/privacy-seal/SmartFocus/validation?rid=9cc4b303-121a-4baf-9bc8-0a30f0c5c2c9 "TRUSTe European Safe Harbor certification")
 
-By using the Company’s Web sites, you agree with the terms of this Privacy Statement and are consenting to the collection, use, and disclosure of information in accordance with this Privacy Statement.
+SmartFocus is committed to protecting and respecting your privacy. 
 
-Emailvision SA has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program does not cover information that may be collected through downloadable software.  The TRUSTe program covers only information that is collected through this Web site, [www.emailvision.com](http://www.emailvision.com/).
+Smartfocus.com (the "Website") is owned and operated by SmartFocus UK Limited ("we"). This policy together with our [Terms of Use](https://smartfocus.com/en/terms-of-use) explain how we may use information we collect about you, as well as your rights over any personal information we hold about you. Please read this policy and our [Terms of Use](https://smartfocus.com/en/terms-of-use) carefully; by accessing the Website you confirm to have understood and agreed to them. 
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@emailvision.com.  If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+  
 
-**Emailvision Holdings Ltd.** complies with the U.S.-EU Safe Harbor Framework **and the U.S.-Swiss Safe Harbor Framework** as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal **information** from European Union member **countries and Switzerland**.  **Emailvision Holdings Ltd.** has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view **Emailvision Holdings Ltd.** ’s certification, please visit <http://www.export.gov/safeharbor/>
 
-**2\. Personal Information Collected**  
-Emailvision offers a variety of services that are collectively referred to as the “Service.” Emailvision collects information from individuals who visit the Company’s Web sites (“Visitors”) and individuals who register to use the Service (“Customers”).  
-When expressing an interest in obtaining additional information about the Service or registering to use the Service, Emailvision requires you to provide the Company with contact information, such as name, company name, address, phone number, and email address (“Required Contact Information”). When purchasing the Service, Emailvision requires you to provide the Company with financial qualification and billing information, such as billing name and address, credit card number, and the number of employees within the organization that will be using the Service (“Billing Information”). Emailvision may also ask you to provide additional information, such as company annual revenues, number of employees, or industry (“Optional Information”). Required Contact Information, Billing Information, and Optional Information are referred to collectively as “Data About Emailvision Customers.”  
-As you navigate the Company’s Web sites, Emailvision may also collect information through the use of commonly-used information-gathering tools, such as cookies and Web beacons (“Web Site Navigational Information”). Web Site Navigational Information includes standard information from your Web browser (such as browser type and browser language), your Internet Protocol (“IP”) address, and the actions you take on the Company’s Web sites (such as the Web pages viewed and the links clicked).
+## What Information We Collect About You 
 
-**3\. Use of Information Collected**  
-The Company uses Data About Emailvision Customers to perform the services requested. For example, if you fill out a “Contact Me” Web form, the Company will use the information provided to contact you about your interest in the Service.  
-The Company may also use Data About Emailvision Customers for marketing purposes. For example, the Company may use information you provide to contact you to further discuss your interest in Emailvision, the Service, and to send you information regarding the Company, such as information about promotions or events.
+We collect information about you when you: 
 
-**Choice/Opt-Out**  
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at **support@emailvision.com**.
+  * visit the Website, and other sites accessible from the Website; 
+  * register with us to use any products or services on the Website, by phone, email or social media functions on the Website; 
+  * take part in customer surveys and questionnaires; 
+  * contact us (i.e. in writing, call customers services)
 
-Emailvision uses Web Site Navigational Information to operate and improve the Company’s Web sites. The Company may also use Web Site Navigational Information in combination with Data About Emailvision Customers to provide personalized information about the Company.
 
-**4\. Web Site Navigational Information**  
-Emailvision uses commonly-used information-gathering tools, such as cookies and Web beacons, to collect information as you navigate the Company’s Web sites (“Web Site Navigational Information”). This section describes the types of Web Site Navigational Information the Company may collect and how the Company may use this information.
 
-**Cookies**  
-Emailvision uses cookies to make interactions with the Company’s Web sites easy and meaningful. When you visit one of the Company’s Web sites, Emailvision’s servers send a cookie to your computer. Standing alone, cookies do not personally identify you. They merely recognize your Web browser. Unless you choose to identify yourself to Emailvision, either by responding to a promotional offer, opening an account, or filling out a Web form (such as a “Contact” or a “Free Campaign Commander™ Demo” Web form), you remain anonymous to the Company. There are two types of cookies: session-based and persistent-based.  
-Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. If you have chosen to identify yourself to Emailvision, the Company uses session cookies containing encrypted information to allow the Company to uniquely identify you. Each time you log into the Service, a session cookie containing an encrypted, unique identifier that is tied to your account is placed in your browser. These session cookies allow the Company to uniquely identify you when you are logged into the Service and to process your online transactions and requests. Session cookies are required to use the Service.
+The information you give us may include: name; email address; phone number; job title; Internet Protocol address used to connect your computer to the Internet. 
 
-Persistent cookies remain on your computer after you close your browser or turn off your computer. Emailvision uses persistent cookies that only the Company can read and use to identify browsers that have previously visited the Company’s Web sites. When you purchase the Service or provide the Company with personal information, a unique identifier is assigned you. This unique identifier is associated with a persistent cookie that the Company places on your Web browser. The Company is especially careful about the security and confidentiality of the information stored in persistent cookies. For example, the Company does not store account numbers or passwords in persistent cookies. If you disable your Web browser’s ability to accept cookies, you will be able to navigate the Company’s Web sites, but you will not be able to successfully use the Service.  
-Emailvision may use information from session and persistent cookies in combination with Data About Emailvision Customers to provide you with information about the Company and the Service.
+  
 
-**Third Party Cookies**  
-From time-to-time, Emailvision engages third parties to track and analyze non-personally identifiable usage and volume statistical information from individuals who visit the Company’s Web sites. Emailvision may also use other third-party cookies to track the performance of Company advertisements. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after the Company receives it. This Privacy Statement does not cover the use of third party cookies.
 
-**Web Beacons**  
-Emailvision uses Web beacons alone or in conjunction with cookies to compile information about Customers and Visitors’ usage of the Company’s Web sites and interaction with emails from the Company. Web beacons are clear electronic images that can recognize certain types of information on your computer, such as cookies, when you viewed a particular Web site tied to the Web beacon, and a description of a Web site tied to the Web beacon. For example, Emailvision may place Web beacons in marketing emails that notify the Company when you click on a link in the email that directs you to one of the Company’s Web sites. Emailvision uses Web beacons to operate and improve the Company’s Web sites and email communications. Emailvision may use information from Web beacons in combination with Data About Emailvision Customers to provide you with information about the Company and the Service.
+## Using Your Information 
 
-**IP Addresses**  
-When you visit Emailvision’s Web sites, the Company collects your Internet Protocol (“IP”) addresses to track and aggregate non-personally identifiable information. For example, Emailvision uses IP addresses to monitor the regions from which Customers and Visitors navigate the Company’s Web sites.  
-Emailvision also collects IP addresses from Customers whey they log into the Service as part of the Company’s “Identity Confirmation” and “IP Range Restrictions” security features.
+We use your information to: 
 
-**5\. Public Forums and Customer Testimonials**  
-Emailvision may provide bulletin boards, blogs, or chat rooms on the Company’s Web sites. Any personal information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Emailvision is not responsible for the personal information you choose to submit in these forums.
+  * manage and improve the Website; 
+  * personalize our services to you; 
+  * tell you important changes to the Website and our services; 
+  * allow you to participate in interactive features of our service, when you choose to do so; 
+  * manage customer requests, inquiries, surveys and questionnaires; 
+  * carry out customer and marketing research; 
+  * provide you with information about our products and services; 
+  * process your application for employment at SmartFocus
 
-Emailvision posts a list of Customers and testimonials on the Company’s Web sites that contain information such as Customer names and titles. Emailvision obtains the consent of each Customer prior to posting any information on such a list or posting testimonials.
+  
 
-**6\. Sharing of Information Collected**  
-Emailvision may share Data About Emailvision Customers with the Company’s agents so that these agents can contact Customers and Visitors who have provided contact information on our behalf. Emailvision may also share Data About Emailvision Customers with the Company’s agents to ensure the quality of information provided. Emailvision does not share, sell, rent, or trade personal information with third parties for their promotional purposes.  
-Emailvision uses a third-party intermediary to manage credit card processing. This company is not permitted to store, retain, or use Billing Information except for the sole purpose of credit card processing on the Company’s behalf.
 
-Emailvision reserves the right to disclose personal information of the Company’s Customers or Visitors if required by law or if the Company reasonably believes that disclosure is necessary to protect the Company’s rights and/or to comply with a judicial proceeding, court order, or legal process.
+#### Sharing Your Data
 
-**7\. Communications Preferences**  
-Emailvision offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to **support@emailvision.com**.
+We may share your personal information across the SmartFocus Group so we can provide you with the relevant products and services; or where we are required or permitted to do so by law; or to any successors in title of our business. 
 
-**8\. Correcting and Updating Your Information**  
-Customers may update, delete or change their registration information by editing their user or organization record. To update or delete a user profile, please login to [**http://www.campaigncommander.com**](http://www.campaigncommander.com/) with your Campaign Commander™ username and password and click “Manage Account" or by emailing our Customer Support at **support@emailvision.com**.
+When we have your consent, we may share your information with selected third parties including business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you. 
 
-We will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+  
 
-**Blogs**  
-Our Web site offers publicly accessible blogs. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
 
-To request removal of your personal information from our blog or community forum, contact us at **support@emailvision.com**. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+#### Marketing and Customer Research
 
-**Customer Testimonials/Comments/Reviews**  
-We post customer testimonials/comments/reviews on our web site which may contain personal information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to update or delete your testimonial, you can contact us at **support@emailvision.com**.
+If you agree, we may contact you with information about SmartFocus’ products or services or other marketing research. This choice is yours. If you decide not to receive any further marketing information from us, please follow the unsubscribe instructions included in our emails or you can contact us at [support@smartfocus.com](mailto:support@smartfocus.com). 
 
-**9\. Customer Data**
+  
 
-**End Users**  
-Emailvision provides a wide variety of services and solutions to its business clients (each, a "Client") that facilitate services for their employees ("End Users"). In these cases, personal data collected from End Users is owned by the applicable Client, and Emailvision processes this data on the Client's behalf. There may be limited instances in which Emailvision owns and processes personal data collected from End Users on its own behalf, rather than on behalf of a Client. In all instances, Emailvision will obtain access to EU Personal Data about End Users in the course of operating Web sites, providing contractually obligated services, and providing customer care and other related services. Such data may include, name, billing address, business address, email address, telephone number, , and other information, depending on the particular Client, Web site or other application or service at issue. In all instances, Emailvision will not share, sell, rent or trade with third parties for promotional purposes any personal data processed by Emailvision, unless Emailvision is directed to do so by a Client who owns such personal data.
 
-Emailvision Customers use the Service to host data and information (“Customer Data”). Emailvision will not review, share, distribute, or reference any such Customer Data except as provided in the Emailvision Master Subscription Agreement, or as may be required by law. Individual records of Customer Data may be viewed or accessed only for the purpose of resolving a problem, support issues, or suspected violation of the Emailvision Master Subscription Agreement, or as may be required by law. Customers are responsible for maintaining the security and confidentiality of their Campaign Commander™ usernames and passwords.
+#### Other Websites
 
-**10\. Children’s Protection**  
-We do not collect, use, or disclose information from children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with personal information without their consent, he or she should contact us at **privacy@emailvision.com**. If we learn or have reason to suspect that an Emailvision Web site visitor is under age 13, we will promptly delete any personal information regarding that visitor.
+The Website may contain links to other sites which are outside our control and not covered by this policy. Please be aware that we are not responsible for the privacy practices of these other sites. We encourage our visitors to be aware of this when they leave our website, and to read the privacy policy of such websites linked to when visiting them. 
 
-**11\. Security**  
-Emailvision uses robust security measures to protect Customer Data from unauthorized access, maintain data accuracy, and help ensure the appropriate use of Customer Data. When the Service is accessed using Internet Explorer version 6.0 or later, Firefox version 2.0 or later, or Safari version 3.0 or later, Secure Socket Layer (“SSL”) technology protects Customer Data using both server authentication and data encryption. These technologies help ensure that Customer Data is safe, secure, and only available to the Customer to whom the information belongs and those to whom the Customer has granted access. Emailvision also implements an advanced security method based on dynamic data and encoded session identifications, and the Company hosts its Web sites in a secure server environment that uses firewalls and other advanced technology to prevent interference or access from outside intruders. Emailvision also offers enhanced security features within the Service that permit Customers to configure security settings to the level they deem necessary. Because the Company uses the Service to maintain Data About Emailvision Customers, this information is secured in the same manner as described above for Customer Data.
+  
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at **security@emailvision.com**.
 
-**12\. Additional Information**
+## Cookies 
 
-_Links to 3rd Party Sites_
+  
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of Emailvision SA. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
 
-_Social Media Widgets_
+#### What is a Cookie? 
 
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+Cookies are text files containing small amounts of information which are downloaded to your personal computer, mobile or other device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie. Cookies are useful because they allow a website to recognize a user's device. You can find more information about cookies at [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) and [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/). 
 
-**13\. Changes to this Privacy Statement**  
-Emailvision reserves the right to change this Privacy Statement. Emailvision will provide notification of the material changes to this Privacy Statement through the Company’s Web sites at least thirty (30) business days prior to the change taking effect.
+  
 
-**14\. Contacting Us**  
-Questions regarding this Privacy Statement or the information practices of the Company’s Web sites should be directed to Emailvision Privacy by emailing **privacy@emailvision.com** or by mailing:
 
-Emailvision Privacy  
-Lynton House  
-7-12 Tavistock Square  
-London WC1H 9LT - United Kingdom
+#### What Cookies We Use on the Website
+
+A list of all the cookies used on the Website by category is set out below. 
+
+The Website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site and your browsing experience. **By using the Website, you agree that we can place these types of cookies on your device.**
+
+**Session Cookies**  
+These cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. If you have chosen to identify yourself to us, we use session cookies containing encrypted information to allow us to uniquely identify you. 
+
+  * **ASP.NET_SessionId**  
+Enables us to store a unique identifier for your session
+
+
+
+**Persistent Cookies**  
+These cookies remain on your computer after you close your browser or turn off your computer. They are activated each time that the user visits the website that created that particular cookie.When you purchase our services or provide us with personal information, a unique identifier is assigned to you. This unique identifier is associated with a persistent cookie that we place on your Web browser. We are especially careful about the security and confidentiality of the information stored in persistent cookies. For example, we do not store account numbers or passwords in persistent cookies. 
+
+  * **__ar_v4**  
+Enables other websites to know that you have visited our website (using DoubleClick) 
+  * **_ga**  
+Enables us to track non-personal visitor information such as number of visits, visit length and referrer (using Google Analytics) 
+  * **AdRoll**  
+Enables us to present you with retargeting advertising on other websites (using AdRoll) 
+  * **GeolocatedCountry**  
+Enables us to predict your location and display content in the appropriate language
+  * **Google AdWords Conversion**  
+Enables us to track leads and other conversions from our advertising (using Google AdWords) 
+  * **Smartfocus#lang**  
+Enables us to store your preferred content language
+  * **trackdiscovery.net**  
+Enables us to track who has visited our website (using Lead Forensics)
+
+
+
+If you reject the cookie or have cookies turned off, you may still use the Website although we will be unable to provide you with the personalized experience we can offer using the cookie data. 
+
+  
+
+
+## Social Media and Public Forums
+
+You may choose to submit information through the bulletin boards, blogs, chat rooms or other social media features (including Facebook Like button and Widgets) that run on the Website. Social Media Features and Widgets are either hosted by a third party or hosted directly on the Website. This Policy only applies to those hosted on the Website. Please also note that the information that you decide to share through such social media features or public forum will be read, collected or used by other users. 
+
+  
+
+
+## SmartFocus US, Inc. Complies with the U.S.-EU Safe Harbor Framework
+
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. By submitting your personal data, you agree to this transfer, storing or processing. 
+
+**SmartFocus US, Inc.** complies with the U.S.-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. SmartFocus US, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view SmartFocus US, Inc.’ certification, please visit <http://www.export.gov/safeharbor>. 
+
+  
+
+
+## TRUSTe Privacy Seal
+
+SmartFocus has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through the Company’s websites. 
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. 
+
+  
+
+
+## Access to Information
+
+To obtain a copy of information we hold about you, please contact [info@smartfocus.com](mailto:info@smartfocus.com). Your right of access can be exercised in accordance with the applicable data protection legislation. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. 
+
+  
+
+
+## Changes to Our Privacy Policy
+
+We reserve the right to change this policy at any time and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy policy. 
+
+  
+
+
+## Contact
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [contact@smartfocus.com](mailto:contact@smartfocus.com).
+
+_Last Update: 1/10/2013_  
+_© SmartFocus 2014_
