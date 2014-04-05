@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techatlast.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210102110id_/http%3A//techatlast.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techatlast.com privacy policy that was archived on 2014-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140405213423id_/http%3A//techatlast.com/about/privacy-policy) for the most accurate reproduction.*
 
-# TechAtLast Privacy Policy for Content Readers & Advertisers | TechAtLast - Talking Technology!
+# TechAtLast Privacy Policy for Content Readers & Advertisers | TechAtLast
 
 If you require any more information or have any questions about our **privacy policy** , please feel free to contact us by email at coolcash4live @ gmail.com.
 
