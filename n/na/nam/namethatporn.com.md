@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namethatporn.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023150922id_/http%3A//namethatporn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namethatporn.com privacy policy that was archived on 2014-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140405165105id_/http%3A//namethatporn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NameThatPorn.com :: One and Only Q&A site for Porn!
 
@@ -50,4 +50,4 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 ## Your Rights
 
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us via [Send Feedback](https://web.archive.org/web/20131023150922id_/http%3A//namethatporn.com/send-feedback) form. 
+You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us via [Send Feedback](https://web.archive.org/web/20140405165105id_/http%3A//namethatporn.com/send-feedback) form. 
