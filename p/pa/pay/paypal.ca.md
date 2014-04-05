@@ -1,209 +1,140 @@
-> *The following text is extracted and transformed from the paypal.ca privacy policy that was archived on 2006-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060428043013id_/http%3A//www.paypal.com/cgi-bin/webscr%3Fcmd%3Dp/gen/ua/policy_privacy-outside) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paypal.ca privacy policy that was archived on 2014-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140405065750id_/https%3A//cms.paypal.com/ca/cgi-bin/marketingweb%3Fcmd%3D_render-content%26content_ID%3Dua/Privacy_full) for the most accurate reproduction.*
 
-# PayPal - User Agreement - Privacy Policy
+# Privacy Policy - PayPal
 
-This Privacy Policy applies to all countries PayPal services except for Switzerland, Australia and those countries in the European Union. The Privacy Policy for all European Union countries except Germany, Austria, France, Belgium, Spain, and Italy is available under the "EU (in English)" link above. The Privacy Policy for Germany is available under the "DE (auf Deutsch)" link above. The Privacy Policy for Austria is available under the "AT (auf Deutsch)" link above. The Privacy Policy for France is available under the "FR (en Français)" link above. The Privacy Policy for Belgium is available in both English and French under the "BE (in English)" and "BE (en Français)" links above. The Privacy Policy for Spain is available under the "ES (en Español)" link above. The Privacy Policy for Italy is available under the "IT (in Italiano)" link above. The Privacy Policy for Switzerland is available under the "CH (auf Deutsch)" link above. The Privacy Policy for Australia is available under the "AU (in English)" link above.   
----  
-| The Privacy Policy below governs your PayPal account and any information you provide on this site. 
+[](https://www.paypal.com/ca/cgi-bin/webscr?cmd=_home)
 
-* * *
+Skip to main content
 
-  
-  
----  
-[](http://www.bbbonline.org/cks.asp?id=20111061155818568)[](http://www.truste.org/ivalidate.php?url=www.paypal.com&sealid=101)A. Overview  
-B. Information We Collect  
-C. Our Use and Disclosure of Information  
-D. Information Security  
-E. Accessing and Changing Your Information  
-F. Contacting Us
+>> [View all legal agreements](https://www.paypal.com/webapps/mpp/ua/legalhub-full "Legal Agreements")
 
-* * *
+Last Update: Jul 13, 2010
 
-  
-A. Overview
+**Jump to section:**
 
-In order to operate the PayPal service and to reduce the risk of fraud, PayPal Corp. ("PayPal" or "we") must ask you to provide us information about yourself and your credit card and/or bank account. This Privacy Policy describes the information we collect and how we use that information. 
+This policy describes the ways we collect, store, use and protect your personal information. You accept this policy and consent to such collection, storage and use when you sign up for or use our products, services or any other feature, technologies or functionalities offered by us on our website or through any other means (collectively “the PayPal Services”). We may amend this policy at any time by posting a revised version on our website. The revised version will be effective at the time we post it. In addition, if the revised version includes a substantial change, we will provide you with 30 days’ prior notice by posting notice of the change on the "Policy Updates" page of our website. After this 30 days notice, you will be considered as having expressly consented to all amendments to this policy.
 
-If you apply for a PayPal VISA® credit card (available in the U.S. only), you authorize PayPal and Providian National Bank (which is the issuer of the PayPal VISA card) to exchange the information you provide in the application form. If you are approved for a PayPal VISA credit card, your credit card account will be governed by the [Providian Privacy Policy](https://www.paypalcreditcard.com/providianpolicy).
+### How we collect information about you
 
-PayPal takes the privacy of your personal information very seriously and will use your information only in accordance with the terms of this Privacy Policy. We will not sell or rent your personally identifiable information or a list of our customers to third parties. However, as described in more detail in Part C below, there are limited circumstances in which some of your information will be shared with third parties, under strict restrictions, so it is important for you to review this Privacy Policy. This Privacy Policy applies to all services that are hosted on the PayPal.com Web site, whether the services are offered by PayPal, by its subsidiaries, or by the PayPal Money Market Fund. 
+When you visit the PayPal website or use the PayPal Services, we collect your IP address and standard web log information, such as your browser type and the pages you accessed on our website.
 
-Your privacy is important to us. By participating in the Council of Better Business Bureau's BBBOnLine® Privacy Program we have made a commitment to meet the program's strict requirements regarding how we treat your information and have it verified by BBBOnLine. Further information about this program is available at [http://www.bbbonline.org](http://www.bbbonline.org/).
+If you open an account, we collect the following types of information from you:
 
-Additionally, in order to enhance the protection of your privacy and our compliance with this Privacy Policy, PayPal has agreed to disclose our information practices and to have our practices reviewed for compliance by TRUSTe. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. By displaying the TRUSTe trustmark, PayPal has agreed to notify you of: 
+  * Contact information - your name, address, phone, email, Skype ID and other similar information.
+  * Financial information - the full bank account numbers and credit card numbers that you link to your PayPal account or give us when you use the PayPal services.
 
-  1. What personally identifiable information of yours is collected by PayPal.
-  2. The organization collecting the information.
-  3. How the information is used.
-  4. With whom the information may be shared.
-  5. What choices are available to you regarding collection, use and distribution of the information.
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under PayPal's control.
-  7. How you can correct any inaccuracies in the information.
 
-If you have questions or concerns regarding this Privacy Policy, you should first contact PayPal using [this form](http://www.paypal.com/ewf/f=ci_prv). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with PayPal to resolve your concerns. 
 
-By accepting the Privacy Policy and User Agreement in registration, you expressly consent to our use and disclosure of your personal information in the manner described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the PayPal User Agreement. This Privacy Policy will take effect on March 4, 2003. This Privacy Policy was last updated on April 15, 2005.
+Before permitting you to use the PayPal Services, we may require you to provide additional information we can use to verify your identity or address or manage risk, such as your date of birth. We may also obtain information about you from third parties such as credit bureaus and identity verification services.
 
-Please note that your personal information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your country but PayPal will hold and transmit your personal information in a safe, confidential and secure environment. If you object to your personal information being transferred or used as described in this Privacy Policy, please do not register for the PayPal service. 
+When you are using the PayPal Services, we collect information about your account transactions and your other activities on our website or using the PayPal Services and we may collect information about your computer or other access device for fraud prevention purposes.
 
-Notification of Changes  
-This policy may be revised over time as new features are added to the PayPal service or as we incorporate suggestions from our customers. If we are going to use or disclose your personally identifiable information in a manner materially different from that stated at the time we collected the information, you will have a choice as to whether or not we use or disclose your information in this new manner. Any material changes will be effective only after we provide you by e-mail with at least 30 days' notice of the amended Privacy Policy (if you have closed your PayPal account, you will not be contacted to notify you of the amended Policy and your personal information will not be used or disclosed in this new manner). 
+Finally, we may collect additional information from or about you in other ways from contacts with our customer support team, results when you respond to a survey and from interactions with Members of the eBay corporate family, or other companies.
 
-We will post the amended Privacy Policy prominently on our Web site so that you can always review what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check the PayPal Web site at [www.paypal.com](https://www.paypal.com/) at any time for the most current version of our Privacy Policy.
+Back to top
 
-PayPal Shops and other pages on the PayPal Web site include links to third party Web sites. These sites are governed by their own privacy statements, and PayPal is not responsible for their operations, including but not limited to their information practices. Users submitting information to or through these third party Web sites should review the privacy statement of these sites before providing them with personally identifiable information.
+### How we use cookies
 
-A Special Note About Children. Children are not eligible to use our service and we ask that minors (under the age of 18) do not submit any personal information to us or use the service.
+When you access our website, we, or companies we hire to track how our website is used, may place small data files called "cookies" on your computer.
 
-  
+We send a "session cookie" to your computer when you log in to your account or otherwise use the PayPal Services. This type of cookie helps us to recognize you if you visit multiple pages on our site during the same session, so that we don’t need to ask you for your password on each page. Once you log out or close your browser, this cookie expires and no longer has any effect.  
+We also use longer-lasting cookies for other purposes such as to display your e-mail address on our sign-in form, so that you don't need to retype the e-mail address each time you log in to your account.
 
+We encode our cookies so that only we can interpret the information stored in them. You are free to decline our cookies if your browser permits, but doing so may interfere with your use of our website. We may also collect information about your computer or other access device to mitigate risk and for fraud prevention purposes.
 
-* * *
+We and our service-providers also use cookies to customize the PayPal services, content and advertising; measure promotional effectiveness, and promote trust and safety.
 
-  
-B. Information We Collect
+You may encounter cookies from third parties when using the PayPal Services on websites that we do not control (for example, if you view a webpage created by a third party or use an application developed by a third party, there may be a cookie placed by that web page or application).
 
-Required Information  
-To open a PayPal account, you must provide your name, address, phone number, and e-mail address. In order to make payments through PayPal, you must provide credit card, debit card or bank account information (bank account information is required to make payments totaling more than $1,000.00 USD). We also ask you to choose two different security questions to answer (such as your city of birth or your pet's name) This required information is necessary for us to process transactions, issue a new password if you forget or lose your password, protect you against credit card fraud and checking account fraud, and to contact you should the need arise in administering your account. 
+Back to top
 
-Pursuant to section 326 of the USA PATRIOT Act, the U.S. Department of the Treasury and the Securities and Exchange Commission require PayPal Funds to obtain, verify, and record the following information for each investor in the PayPal Money Market Fund.
+### How we protect and store personal information
 
-  * Name
-  * Address
-  * Date of Birth (for Individuals)
-  * Tax Identification Number (social security number for individuals or employer identification number for businesses) 
+Throughout this policy, we use the term "personal information" to describe information that can be associated with a specific person and can be used to identify that person. We do not consider personal information to include information that has been anonymized so that it does not identify a specific user.
 
-In order to comply with the Bank Secrecy Act, we will also require your Tax Identification Number if you send or receive certain high-value transactions or high overall payment volumes through PayPal. If you choose to register or apply for certain optional features or products offered through PayPal Web sites, such as listing your business in PayPal Shops, or applying for the PayPal Visa® credit card or the PayPal MasterCard® debit card, you will be required to provide additional information to establish that you qualify for such features or products. 
+We store and process your personal information on our computers in the US and elsewhere in the world where PayPal has facilities, and we protect it by maintaining physical, electronic and procedural safeguards in compliance with applicable law. We use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our buildings and files, and we authorize access to personal information only for those employees who require it to fulfill their job responsibilities.
 
-Transaction Information  
-When you use PayPal to send money to someone else or request money from someone else, we ask you to provide information related to each transaction, including the amount of the transaction, the type of transaction (purchase of goods, purchase of services, or simple money transfer ("quasi-cash")) and the e-mail address or phone number of the third party. We retain this information for each of your transactions through PayPal. We also collect the Internet address (IP address) of the computer or device you use to access your PayPal account, in order to help detect possible instances of unauthorized transactions. 
+Back to top
 
-Information About You From Third Parties  
-In order to protect all our customers against potential fraud, we verify with third parties the information you provide. In the course of such verification, we receive personally identifiable information about you from such services. In particular, if you register a credit card or debit card with PayPal, we will use card authorization and fraud screening services to verify that your card information and address matches the information that you supplied to PayPal, and that the card has not been reported as lost or stolen. 
+### How we use the personal information we collect
 
-If you register your online business with PayPal Shops or if you send or receive high overall payment volumes through PayPal, in some circumstances we will conduct a background check on your business by obtaining information about you and your business from a credit bureau or a business information service such as Dun & Bradstreet. If you incur a debt to PayPal, we will generally conduct a credit check on you by obtaining additional information about you from a credit bureau, to the extent permitted by law. PayPal, at its sole discretion, also reserves the right periodically to retrieve and review a business and / or consumer credit report for any account, and reserves the right to close an account based on information obtained during this credit review process. 
+Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. To that end, we use your personal information to:
 
-Additional Verification  
-If we cannot verify the information that you provide, or if you request a withdrawal by check to an address other than your verified credit card billing address, we ask you to send us additional information by fax (such as your drivers' license, credit card statement, and/or a recent utility bill or other information linking you to the applicable address), or to answer additional questions online to help verify your information. 
+  * provide the services and customer support you request;
+  * process transactions and send notices about your transactions
+  * resolve disputes, collect fees, and troubleshoot problems;
+  * prevent potentially prohibited or illegal activities, and enforce our User Agreement;
+  * customize, measure, and improve our services and the content and layout of our website;
+  * deliver targeted marketing, service update notices, and promotional offers based on your communication preferences;
+  * compare information for accuracy and verify it with third parties.
 
-Web Site Traffic Information  
-Because of the way that World Wide Web communication standards work, when you arrive at or leave the PayPal Web site, we automatically receive the Web address of the site that you came from or are going to. We also collect information on which pages of our Web site you visit while you are on the PayPal site, the type of browser you use and the times you access our Web site. We use this information only to try to understand our customers' preferences better and to manage the load on our servers, so as to improve our service and your experience with PayPal. We do not track the Web sites that you visit before or after you leave the PayPal site. 
 
-Our Use of "Cookies"  
-"Cookies" are small files of data that reside on your computer and allow us to recognize you as a PayPal customer if you return to the PayPal site using the same computer and browser. We send a "session cookie" to your computer if and when you log in to your PayPal account by entering your e-mail address and password. These cookies allow us to recognize you if you visit multiple pages in our site during the same session, so that you don't need to re-enter your password multiple times. Once you log out or close your browser, these session cookies expire and no longer have any effect. 
 
-We also use longer-lasting cookies to display your e-mail address on our sign-in form, so that you don't have to retype the e-mail address each time when you log in to your PayPal account. In addition, we use cookies to process our referral program, described in Section C below. Our cookie files are encoded so that your e-mail address and other information can only be interpreted by PayPal. We may, however, share cookie information regarding whether or not a certain user is already registered with PayPal with certain merchants with whom we have an official co-marketing relationship. 
+Back to top
 
-Customer Service Correspondence  
-If you send us correspondence, including e-mails and faxes, we retain such information in the records of your account. We will also retain customer service correspondence and other correspondence from PayPal to you. We retain these records in order to measure and improve our customer service, and to investigate potential fraud and violations of our User Agreement. We may, over time, delete these records if permitted by law. 
+### Marketing
 
-Questionnaires, Surveys and Profile Data  
-From time to time, we offer optional questionnaires and surveys to our users for such purposes as collecting demographic information or assessing users' interests and needs. The use of the information collected will be explained in detail in the survey itself. If we collect personally identifiable information from our users in these questionnaires and surveys, the users will be given notice of how the information will be used prior to their participation in the survey or questionnaire. 
+We don’t sell or rent your personal information to third-parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies and use it to improve and personalize our services, content and advertising. If you don’t wish to receive marketing communications from us or participate in our ad-customization programs, simply indicate your preference by logging into your account going to the profiles subtab under the My Account tab and adjusting your preferences or by following the directions provided with the communication or advertisement.
 
-Non-member Recipients and Requests  
-When a member either sends a payment to, or requests a payment from, an individual who is not a registered member of PayPal, we will retain the information that the member submits to us, including, for example, the other party's email address and/or name, for the benefit of the member who is attempting to contact the non-member, so that the member can see a complete record of his or her transactions, including uncompleted transactions. Although this information is stored indefinitely, we will not market to the non-member in any way at any time. Additionally, these non-members have the same rights to access and correct information about themselves (assuming that their email addresses were correct enough to reach them) as anyone else who uses PayPal. 
+Back to top
 
-  
+### How we share personal information with other PayPal users
 
+To process your payments, we need to share some of your personal information with the person or company that you are paying or is paying you. Your contact information, date of sign-up, the number of payments you have received from verified PayPal users, and whether you have verified control of a bank account are provided to other PayPal users who you transact with through PayPal. In addition, this and other information may also be shared with third parties when you use these third parties to access PayPal services. Unless you agreed to it, these third parties are not allowed to use this information for any other purpose other than to enable the PayPal Services.
 
-* * *
+If you are buying goods or services and pay through PayPal, we may also provide the seller with your confirmed credit card billing address to help complete your transaction with the seller. The seller is not allowed to use this information to market their services to you unless you have agreed to it. If an attempt to pay your seller fails, or is later invalidated, we may also provide your seller with details of the unsuccessful payment. To facilitate dispute resolutions, we may provide a buyer with the seller’s address so that goods can be returned to the seller.
 
-  
-C. Our Use and Disclosure of Information
+We work with third parties, including merchants to enable them to accept or facilitate payments from or to you using PayPal. In doing so, a third party may share information about you with us, such as your email address or mobile phone number to inform you a payment is sent to you or when you attempt to pay that merchant or through that third party. We use this information to confirm that you are a PayPal a PayPal customer and PayPal as a form of payment can be enabled, or where a payment is sent to you to send a notification that you have received payment. Please note that merchants you buy from and contract with have their own privacy policies, and PayPal may not be held responsible for their operations, including, but not limited to, their information practices.
 
-Internal Uses  
-We collect, store and process your personal information on servers located in the United States. We use the information we collect about you in order 1) to provide our services and process your transactions, 2) to provide customer service, 3) to determine your eligibility to receive offers for special features or products, such as the PayPal MasterCard® debit card, and 4) to improve our products and services. At your option (as indicated in your PayPal Profile settings), we use the information you provide to access specific third party services on your behalf and perform the actions that you request us to perform, such as invoicing winning bidders on behalf of auction sellers.
+Regardless, we will not disclose your credit card number or bank account number to anyone you have paid or who has paid you through PayPal or with the third parties that offer or use the PayPal Services, except with your express permission or if we are required to do so to comply with a credit card rules, subpoena or other legal process.
 
-We give access to individually identifiable information about our users only to those employees who require it to fulfill customer service requests.
+Back to top
 
-Disclosure to Other PayPal Customers  
-If you are a registered PayPal user, your name, e-mail address, phone number (if applicable) date of sign-up, and whether you have verified control of a bank account are displayed to other PayPal customers whom you have paid or who are attempting to pay you through PayPal. If you are a Business account holder, we will also display to other PayPal customers the Web site address (URL) and customer service contact information that you provide us. However, your credit card number, bank account and other financial information will NEVER be revealed to anyone whom you have paid or who has paid you through PayPal, except with your express permission or if we are required to do so pursuant to a subpoena or other legal process. 
+### How we share personal information with other parties
 
-If you are buying goods or services and paying through PayPal, the seller of the goods or services may request that you provide a mailing address that PayPal has confirmed as matching the billing address in the credit card system. You do not have to provide this information. If you do not provide the information, however, the seller may choose not to accept your PayPal payment and not to complete the transaction. 
+We may share your personal information with:
 
-We work with third party merchants to enable them to accept payments from you, including direct credit card payments. Merchants who use this service will share personally identifiable information you provide to them with PayPal in order to validate the information, assess the risks of your payment, or confirm the existence or status of your PayPal account. You permit PayPal to share information with the merchant on the validity of the personally identifiable information you provided to the merchant, and on the existence or status of your PayPal account. 
+  * Members of the eBay Inc. corporate family -- like eBay or Shopping.com -- to provide joint content, products and services (like registration, transactions and customer support), to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about their products, services and communications. Members of our corporate family will use this information to send you marketing communications only if you have requested their services.
+  * Service providers under contract who help with parts of our business operations; (fraud prevention, bill collection, marketing, technology services). Our contracts dictate that these service providers only use your information in connection with the services they perform for us and not for their own benefit.
+  * Banking partners as required by credit card association rules for inclusion on their list of terminated merchants (in the event that you meet their criteria which includes having PayPal close your PayPal Account due to your breach of the PayPal User Agreement).
+  * Companies that we plan to merge with or be acquired by. (Should such a combination occur, we will require that the new combined entity follow this privacy policy with respect to your personal information. If your personal information could be used contrary to this policy, you will receive prior notice).
+  * Law enforcement, government officials, or other third parties when
+    * we are compelled to do so by a subpoena, court order or similar legal procedure
+    * we need to do so to comply with law or credit card rules
+    * we believe in good faith that the disclosure of personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of our User Agreement.
+  * Other third parties with your consent or direction to do so.
 
-PayPal does not store the personally identifiable information provided by these merchants to validate the existence of your account.
 
-Beginning in spring 2001, PayPal will also disclose to other PayPal customers the number of payments you have received from Verified PayPal customers (as defined in the User Agreement on the www.paypal.com site), or other aggregate measures that provide an indication of your reputation with other PayPal customers. 
 
-Disclosure to Third Parties Other Than PayPal Customers  
-PayPal will not sell or rent any of your personally identifiable information to third parties. PayPal will not share any of your personally identifiable information with third parties except in the limited circumstances described below, or with your express permission (and with other PayPal customers as described above). These third parties are limited by law or by contract from using the information for secondary purposes beyond the purposes for which the information is shared. 
+Please note that these third parties may be in other countries where the laws on processing personal information may be less stringent than in your country.
 
-  1. We share information with companies that help us process the transactions you request and protect our customers' transactions from fraud, such as sharing your credit card number with a service that screens for lost and stolen card numbers. See "Information About You From Third Parties" in Section B above. Additionally, if you go into a negative balance and owe us money, we may share information with processing companies including collection agencies.
-  2. We may disclose the information we collect, as described in Section B above, to companies that perform marketing services on our behalf. We may also disclose the information we collect (but not your bank account or credit card information) to other financial institutions with whom we have joint marketing agreements, in order to determine whether you are pre-approved for the products that PayPal is jointly marketing with the third party (such as the PayPal Visa credit card issued by Providian National Bank). These companies are subject to confidentiality agreements with us and other legal restrictions that prohibit using the information except to market the specified PayPal-related products or services, unless you have affirmatively agreed or given your prior permission for other uses. 
+PayPal will not sell or rent any of your personal information to third parties for their marketing purposes and only shares your personal information with third parties as described in this policy.
 
-If you do not want PayPal to share any of your information with our joint marketing partners, please log in to your account to set your Notification preferences in the Profile page of the My Account tab to indicate that you do not want to receive Partner/Third-Party Promotions or the PayPal Periodical Monthly Newsletter and Product Updates. Use the following URL to see your Notification preferences: https://www.paypal.com/PREFS-NOTI.
+If you open a PayPal account directly on a third party website or via a third party application, any information that you enter on that website or application (and not directly on a PayPal website) will be shared with the owner of the third party website or application and your information may be subject to their privacy policy.
 
-  3. We disclose information that we in good faith believe is appropriate to cooperate in investigations of fraud or other illegal activity, or to conduct investigations of violations of our User Agreement. For example, this means that if we conduct a fraud investigation and conclude that one side has engaged in deceptive practices, we can give that person or entity's contact information (but not bank account or credit card information) to victims who request it.
-  4. We disclose information in response to a subpoena, warrant, court order, levy, attachment, order of a court-appointed receiver or other comparable legal process, including subpoenas from private parties in a civil action.
-  5. When a user signs up for a co-branded version of PayPal (e.g. PayPal Evite) through links to PayPal from our co-branded partner's website, PayPal will share with the co-branded partner that user's name, e-mail address and physical address in order to provide enhanced integration between PayPal's services and the services of our co-branded partner. If you do not want your information shared with PayPal's co-branded partner, you should sign up with PayPal directly and not through a link from our partner's website.
-  6. If you choose to invest in the PayPal Money Market Fund, we will share your information with PayPal Funds, a Delaware business trust which is the issuer of the Money Market Fund, and with PayPal Asset Management, Inc., a wholly-owned subsidiary of PayPal that is the transfer agent for the Money Market Fund, so that you can complete your investment more easily and can move funds into and out of the Money Market Fund without re-entering your personal information for every transaction.
-  7. We disclose information to your agent or legal representative (such as the holder of a power of attorney that you grant, or a guardian appointed for you).
-  8. We share aggregated statistical data with our business partners or for public relations. For example, we may disclose that a specific percentage of our users live in California. However, this aggregated information is not tied to personally identifiable information.
-  9. As with any other business, it is possible that PayPal in the future could merge with or be acquired by another company. If such an acquisition occurs, the successor company would have access to the information maintained by PayPal, including customer account information, but would continue to be bound by this Privacy Policy unless and until it is amended as described in Section A above.
-  10. We share your information with our parent, subsidiaries and joint ventures to help coordinate the services we provide to you, enforce our terms and conditions, and promote trust and safety.  
+Back to top
 
+### How you can control our communications with you
 
-  
-Our Contacts with PayPal Customers  
-We communicate with users on a regular basis via e-mail to provide requested services, and we also communicate by phone to resolve customer complaints or investigate suspicious transactions. We use your e-mail address to confirm your opening of a PayPal account, to send you notice of payments that you send or receive through PayPal (including referral payments described below), to send information about important changes to our products and services, and to send notices and other disclosures required by law. Generally, users cannot opt out of these communications, but they will be primarily informational in nature rather than promotional. 
+You can control how we use your contact information to market our services to you by changing your preferences on the Notifications page. This page can be accessed by going to the **Profile** subtab under the **My Account** tab after you login to the PayPal website.
 
-We also use your e-mail address to send you other types of communications that you can control, including the PayPal Periodical newsletter, auction tips, customer surveys and notice of special third-party promotions. You can choose whether to receive some, all or none of these communications when you complete the registration process, or at any time thereafter, by logging in to your account on the PayPal Web site and changing your preferences in the Profile page of the My Account tab. You can also change your choices at any time through the same procedure. 
+Back to top
 
-In connection with independent audits of our financial statements and operations, the auditors may seek to contact a sample of our customers to confirm that our records are accurate. However, these auditors cannot use personally identifiable information for any secondary purposes. 
+### How you can access or change your personal information
 
-Internet Address Information  
-We use IP addresses, browser types and access times to analyze trends, administer the site, improve site performance and gather broad demographic information for aggregate use. 
+You can review and edit your personal information at any time by logging in to your account and clicking the **Profile** subtab under the **My Account** tab.
 
-Your Use of Information and Our Services  
-In order to facilitate the transactions between PayPal members, our service allows you limited access other users' contact or shipping information. As a seller you may have access to the User ID, email address and other contact or shipping information of the purchaser, and as a purchaser you may have access to the User ID, email address and other contact information of the seller. 
+Back to top
 
-By entering into our User Agreement, you agree that, with respect to other users' personally identifiable information that you obtain through the site or through an PayPal-related communication or PayPal-facilitated transaction, you will only use this information for: (a) PayPal-related communications that are not unsolicited commercial messages, (b) using services offered through PayPal (e.g. insurance, shipping and fraud complaints), and (c) any other purpose that such user expressly agrees to after adequate disclosure of the purpose(s). 
+### Binding Corporate Rules
 
-In all cases, you must provide users with the opportunity to remove themselves from your database and review any information you have collected about them. In addition, under no circumstances, except as defined in this Section, can you disclose personally identifiable information about another PayPal user to any third party without our consent and the consent of such other user after adequate disclosure. Note that law enforcement personnel and other rights holders are given different rights with respect to information they access. 
+In addition to the privacy practices set out in this Privacy Policy, eBay Inc. has established a set of Corporate Rules (also referred to as Binding Corporate Rules), approved by a number of European Union privacy regulators. These Corporate Rules, depending upon your location, may provide additional privacy rights through your privacy regulator or a court. If you would like additional information regarding the Corporate Rules or contact us via the contact details above.
 
-PayPal does not tolerate spam. Therefore, without limiting the foregoing, you may not add a PayPal user to your mail list (email or physical mail) without their express consent after adequate disclosure, even if said user has previously made a purchase from you. We strictly enforce our Anti-Spam Policy! To report PayPal-related spam to PayPal, please [contact us](http://www.paypal.com/ewf/f=pps_spam).
+Back to top
 
-Merchant Referral Program  
-When you sign up for a PayPal account, you become eligible to participate in our Merchant Referral Bonus program. We provide you with a link on the [Merchant Referral Bonus page](http://www.paypal.com/cgi-bin/webscr?cmd=_web-referrals-mrb-outside) which identifies you as the referrer. If a merchant uses that link to sign up for a Premier or Business PayPal account and completes the [bonus requirements](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_bonus-outside), you are eligible for a referral bonus. If you use a referral link to sign up, your business name (if you have a Business account) or first and last name (if you have a Premier account) may be listed in the referrer's PayPal account, along with the amount of bonus you have generated for the referrer, which is calculated as a percentage of your transaction volume, as described in the [Merchant Referral Bonus Policy](http://www.paypal.com/cgi-bin/webscr?cmd=_web-referrals-mrb-outside).
+### How you can contact us about privacy questions
 
-Please use our referral program responsibly. We strictly enforce our [Anti-Spam Policy](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/spam-outside)! Read details on the [Referral Bonus](http://www.paypal.com/cgi-bin/webscr?cmd=_web-referrals-mrb-outside).
+If you have questions or concerns regarding this policy, you should contact us by using [this form](http://www.paypal.com/ca/ewf/f=ci_prv) or writing to us at PayPal, Attn: Privacy Department, P.O. Box 45950, Omaha, NE 68145-0950.  
 
-  
 
-
-* * *
-
-  
-D. Information Security
-
-Information Security  
-PayPal is committed to handling your customer information with high standards of information security. Your credit card and bank account information are stored only in encrypted form on computers that are not connected to the Internet. We restrict access to your personally identifiable information to employees who need to know that information in order to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information. We test our security systems regularly and also contract with outside companies to audit our security systems and processes. For more information on PayPal's security practices, please visit the [PayPal Security Center](http://www.paypal.com/cgi-bin/webscr?cmd=_security-center-outside).
-
-The security of your PayPal account also relies on your protection of your PayPal password. You may not share your PayPal password with anyone. PayPal will never ask you to send your password or other sensitive information to us in an e-mail, though we may ask you to enter this type of information on the PayPal website, which will always have a URL beginning with https://www.paypal.com/. 
-
-Any e-mail or other communication requesting your password, asking you to provide sensitive account information via email, or linking to a website with a URL that does not begin with https://www.paypal.com/ should be treated as unauthorized and suspicious and should be reported to PayPal immediately using [this form](http://www.paypal.com/ewf/f=sa_fake). If you do share your PayPal password with a third party for any reason, including because the third party has promised to provide you additional services such as account aggregation, the third party will have access to your account and your personal information, and you may be responsible for actions taken using your password. If you believe someone else has obtained access to your password, please change it immediately by logging in to your account at [www.paypal.com/](https://www.paypal.com/) and changing your Profile settings, and also contact us right away as described in Section F below. 
-
-  
-
-
-* * *
-
-  
-E. Accessing and Changing Your Information
-
-You can review the personal information you provided us and make any desired changes to such information, or to the settings for your PayPal account, at any time by logging in to your account on the PayPal Web site and changing your preferences in the Profile page of the "My Account" tab. You can also close your account through the PayPal Web site. If you close your PayPal account, we will mark your account in our database as "Closed," but will keep your account information in our database. This is necessary in order to deter fraud, by ensuring that persons who try to commit fraud will not be able to avoid detection simply by closing their account and opening a new account. However, if you close your account, your personally identifiable information will not be used by us for any further purposes, nor sold or shared with third parties, except as necessary to prevent fraud and assist law enforcement, or as required by law (for example, to send former Money Market Fund investors a report of dividends paid during the calendar year for tax reporting purposes). 
-
-  
-
-
-* * *
-
-  
-F. Contacting Us
-
-If you have any questions about this privacy statement, PayPal's information practices, or your dealings with PayPal, you can contact us using [this form](http://www.paypal.com/ewf/f=ci_prv), call 402-935-7733 Monday through Friday between the hours of 4am and 10pm PST, or write us at PayPal, P.O. Box 45950, Omaha, NE 68145-0950.
-
-With respect to our privacy practices as a financial institution and our compliance with this Privacy Policy, PayPal is regulated by the Federal Trade Commission (FTC). You can obtain information about the FTC at [http://www.ftc.gov](http://www.ftc.gov/).
+Back to top
