@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadeboss.com privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011161045id_/http%3A//www.arcadeboss.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadeboss.com privacy policy that was archived on 2014-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140405044526id_/http%3A//www.arcadeboss.com/privacy.php) for the most accurate reproduction.*
 
 # Arcade Boss Games - Privacy Policy
 
