@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the halldata.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201031447id_/http%3A//halldata.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halldata.com privacy policy that was archived on 2014-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140406165011id_/http%3A//halldata.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy »
+# Privacy Policy - Hallmark Data Systems
 
 **Acceptable Email Usage Policy**. Hallmark Data Systems maintains an acceptable email use policy (AUP) with all customers broadcasting email through Hallmark’s system. For further details, please refer to the [AUP](http://halldata.com/aup/ "AUP"), for a description of Hallmark’s email policy.
 
