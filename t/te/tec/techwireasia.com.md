@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techwireasia.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207055846id_/http%3A//www.techwireasia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techwireasia.com privacy policy that was archived on 2014-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140406150209id_/http%3A//www.techwireasia.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Tech Wire Asia
+# Privacy Policy | Tech Wire Asiassss
 
 **Consumer Privacy at Tech Wire Asia, a Hybrid News Limited venture**
 
@@ -70,7 +70,7 @@ We take appropriate physical, electronic, and other security measures to help sa
 **Changes to our Privacy Policy**  
 We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an e-mail to the e-mail address you most recently provided to us and/or by prominently posting notice of the changes on our website.
 
-**How to[contact](http://www.techwireasia.com/contact/ "contact") us**  
+**How to contact us**  
 If you have any questions about this summary or our information practices, please [contact us](http://techwireasia.com/contact) by email or postal mail below:
 
 Content Manager  
