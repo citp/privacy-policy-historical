@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the laserfiche.com privacy policy that was archived on 2013-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131216130454id_/http%3A//www.laserfiche.com/en-us/Company/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the laserfiche.com privacy policy that was archived on 2014-04-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140406190001id_/http%3A//www.laserfiche.com/en-us/Company/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-us" xml:lang="en-us"><head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" lang="en-us">
@@ -28,8 +28,8 @@
 	<link rel="alternate" hreflang="ja-jp" href="http://www.laserfiche.com/ja-jp/company/privacy">
     
 
-    <link rel="stylesheet" href="/css/default.css?ver=131212180315" type="text/css" charset="utf-8" media="all">
-	<link rel="stylesheet" href="/template/site/blue.css?ver=131212180316" type="text/css" media="all">
+    <link rel="stylesheet" href="/css/default.css?ver=140404154016" type="text/css" charset="utf-8" media="all">
+	<link rel="stylesheet" href="/template/site/blue.css?ver=140404154017" type="text/css" media="all">
     
     <title>
      Privacy Policy 
@@ -41,7 +41,7 @@
         <link rel="stylesheet" type="text/css" href="/template/site/ie6.css">
 	<![endif]-->
 
-    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MKCFNT"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://use.typekit.com/hdh4fvn.js"></script>
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MKCFNT"></script><script type="text/javascript" src="http://use.typekit.com/hdh4fvn.js"></script>
     <script type="text/javascript"> try { Typekit.load(); } catch (e) { }</script>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 
@@ -56,6 +56,7 @@
 	    var bannerImage = "";
 	    var bannerHeight = 0;
 	    var scheme = null;
+        var userepo = "no";
 
 
         bannerImage = "privacy_banner.jpg";
@@ -63,8 +64,11 @@
 
         $(document).ready(function ()
         {
-            if (bannerImage)
-                $("#nav2").attr("style", "background-image: url(\"/img/" + bannerImage + "\");" + (bannerHeight ? " height: " + bannerHeight + "px" : ""));
+            if (bannerImage)  
+                if(userepo == "yes")
+                    $("#nav2").attr("style", "background-image: url(\"" + bannerImage + "\");" + (bannerHeight ? " height: " + bannerHeight + "px" : ""));   
+                else           
+                    $("#nav2").attr("style", "background-image: url(\"/img/" + bannerImage + "\");" + (bannerHeight ? " height: " + bannerHeight + "px" : ""));                          
             else
                 $("#nav2").hide();
 
@@ -109,22 +113,7 @@
     </script>
 
 
-
 	
-	
-    <script src="/scripts/gatag.js" type="text/javascript"></script>
-	<script type="text/javascript">
-	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount', 'UA-167879-21']);
-	_gaq.push(['_trackPageview']);
-
-	(function() {
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
-    </script>
-
     <script type="text/javascript" src="/scripts/jquery.placeholder.js"></script>
 </head>
 
@@ -145,7 +134,7 @@
     <div id="connect" class="container_16 clearfix">
         <ul class="clearfix">
            <li class="out">
-                <iframe src="/en-us/Account/LogOnButton?returnUrl=%2Fen-us%2Fcompany%2Fprivacy" min-width="200" height="19" frameborder="0" scrolling="no" allowtransparency="true" style="filter: chroma(color='#FFFFFF');"></iframe>
+                <iframe src="/en-us/Account/LogOnButton?returnUrl=%2Fen-us%2FCompany%2FPrivacy" min-width="200" height="19" frameborder="0" scrolling="no" allowtransparency="true" style="filter: chroma(color='#FFFFFF');"></iframe>
            </li>
            <li class="out">
                 <a href="/en-us/Home/Worldwide" id="world">English (United States)</a>
@@ -251,7 +240,7 @@
                         <li><h2><a href="/en-us/Events">Support &amp; Training Overview</a></h2></li>
 					    <li><h2><a href="https://support.laserfiche.com" id="support-overview">Technical Support</a></h2></li>
 
-					    <li><h2><a href="https://support.laserfiche.com/ForumsFrames.aspx">Forums</a></h2></li>
+					    <li><h2><a href="https://answers.laserfiche.com/">Laserfiche Answers</a></h2></li>
 						<li><h2><a href="/en-us/Scanner" id="Scanner">Scanner Reviews</a></h2></li>
                         <li><h2><a href="/en-us/Events/CPPs" id="CPPs">Online Training (CPP)</a></h2></li>
                         <li><h2><a href="/en-us/Events/Webinars" id="Webinars">Webinars</a></h2></li>
@@ -263,20 +252,20 @@
 				</div>
 				</li>
 
-				<li id="company"><a href="/en-us/Company">COMPANY &amp; COMMUNITY</a>
+				<li id="company_community"><a href="/en-us/Company">COMPANY &amp; COMMUNITY</a>
 					<div class="sub">
 						<ul style="width: 280px;">
 							<li><h2><a href="/en-us/Company" id="Overview">About Us</a></h2></li>
 							<li><h2><a href="http://jobs.laserfiche.com" id="careers">Careers</a></h2></li>
                             <li><h2><a href="/SolutionExchange" id="SolutionExchange">Solution Exchange</a></h2></li>
-                            <li><h2><a href="http://luminary.laserfiche.com">Luminaries</a></h2></li>
                             <li><h2><a href="/en-us/Company/UserGroups" id="UserGroups">User Groups</a></h2></li>
                             <li><h2><a href="/en-us/Company/Integrator" id="Integrator">Systems Integrator Program</a></h2></li>
                             <li><h2><a href="/en-us/Company/VAR" id="VAR">Value Added Reseller (VAR)</a></h2></li>
-                            <li><h2><a href="/en-us/Company/PDP" id="PDP">Professional Developer Program (PDP)</a></h2></li>
+                            <li><h2><a href="/en-us/Company/PDP" id="PDP">Professional Developer Partnership (PDP)</a></h2></li>
                             <li><h2><a href="/en-us/Company/ACE" id="ACE">Analysts, Consultants &amp; Experts</a></h2></li>
-					        <li><h2><a href="/en-us/ECMBlog" id="ECMBlog">Laserfiche ECM Blog</a></h2></li>
-							<li><h2><a href="/en-us/PressCenter" id="PressCenter">Laserfiche Press Center</a></h2></li>
+					        <li><h2><a href="/en-us/ECMBlog" id="ECMBlog">ECM Blog</a></h2></li>
+                            <li><h2><a href="http://simplicity.laserfiche.com" id="SimplicityBlog">Simplicity 2.0 Blog</a></h2></li>
+							<li><h2><a href="/en-us/PressCenter" id="PressCenter">Press Center</a></h2></li>
 						</ul>
 					</div>
 				</li>
@@ -390,7 +379,7 @@
 			<div class="run_smarter">Run Smarter<span class="tm" dir="ltr">®</span></div>
 		</div>
 		<div class="grid_5">
-			© 2013 Laserfiche<br>
+			© 2014 Laserfiche<br>
 			<a href="/en-us/Company/Privacy" id="Privacy">Privacy</a> | <a href="/Company#trademark">Trademark</a>
 		</div>
 	</div> <!-- container_16 -->
@@ -399,16 +388,30 @@
 <!-- ClickDimensions Tracking Code-->
 <script type="text/javascript">
     var language = window.location.href.match(/\/\/.*?\/(.*?)\/?(\?.*)?$/)[1].split('/')[0] + '/';
-    if (language == "SolutionExchange/") {
-    var cdCampaignKey = "www_SolutionExchange";
-    }
-else if (window.location.href == "www.laserfiche.com/" + language + "Company") {
-var cdCampaignKey = "www_Contact_Us";
-    }
-    else{
+    var pathname = window.location.pathname.replace(/\//g, '').toLowerCase();
+    
+    if (language.toLowerCase() == "solutionexchange/") {
 
-    var cdCampaignKey = "www_" + window.location.href.match(/\/\/.*?\/(.*?)\/?(\?.*)?$/)[1].replace(language, '').split('/').join('_');
+        var cdCampaignKey = "www_SolutionExchange";
     }
+    else if (pathname == language.toLowerCase().replace(/\//g, '') + 'company') {
+
+        var cdCampaignKey = "www_contact_us";
+    }
+
+    else if (pathname.indexOf("eventswebinarssignup") > 0 || pathname.indexOf("eventsworkshopssignup") > 0) {
+    var lowercaseGuid = $("#form_name").val().split('(')[1].toLowerCase();
+    var cdCampaignKey = $("#form_name").val().split('_')[1].split('(')[0] + '(' + lowercaseGuid;
+        
+
+    }
+    else {
+
+
+        var cdCampaignKey = "www_" + window.location.href.match(/\/\/.*?\/(.*?)\/?(\?.*)?$/)[1].replace(language, '').split('/').join('_');
+
+    }
+
 </script>
 
 
@@ -419,9 +422,6 @@ var cdCampaignKey = "www_Contact_Us";
         //var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
     })();
 </script>
-
-<!-- Google Adwords Code-->
-
 
 
 
