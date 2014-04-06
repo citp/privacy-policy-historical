@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketgenie.in privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208064747id_/http%3A//ticketgenie.in/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketgenie.in privacy policy that was archived on 2014-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140406212614id_/http%3A//www.ticketgenie.in/privacy_policy.php) for the most accurate reproduction.*
 
 # Ticketgenie
 
