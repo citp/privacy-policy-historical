@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kenexa.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223085110id_/http%3A//www.kenexa.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenexa.com privacy policy that was archived on 2014-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140406220228id_/http%3A//www.kenexa.com/privacypolicy) for the most accurate reproduction.*
 
-# Kenexa > Privacy Policy
+# Kenexa, an IBM Company > Privacy Policy
 
 [](https://privacy.truste.com/privacy-seal/Kenexa-Technology,-Inc/validation?rid=ad2ff9cd-aa8a-49c2-806f-0fc0c97a9d32 "TRUSTe European Safe Harbor certification")
 
