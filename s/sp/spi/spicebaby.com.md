@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the spicebaby.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920071754id_/http%3A//www.spicebaby.com/spicebaby-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spicebaby.com privacy policy that was archived on 2014-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140406074337id_/http%3A//www.spicebaby.com/spicebaby-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SpiceBaby.com
+# Privacy Policy | SpiceBaby
+
+[Home](http://www.spicebaby.com/) Privacy Policy
 
 This privacy policy sets out how Spicebaby.com uses and protects any information that you give while using www.spicebaby.com
 
