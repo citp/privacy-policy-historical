@@ -1,26 +1,21 @@
-> *The following text is extracted and transformed from the tweetree.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503222830id_/http%3A//tweetree.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetree.com privacy policy that was archived on 2014-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140406213337id_/http%3A//tweetree.com/privacy-policy) for the most accurate reproduction.*
 
-# Tweetree - Privacy Policy
+# Privacy Policy | Privacy Policy For Tweetree.com
 
-## Tweetree Privacy Policy
+Our privacy policy has been developed with the end user needs in mind.  We have developed this Policy to help you understand collect, use, disclose, communicate and make use of personal information. Here is an outline of our privacy policy.
 
-This is the web site of Tweetree, a website created by [Draconis Software, LLC.](http://www.draconis.com/)
+Before we collect your personal information, we first establish the purpose for which the information is being collected.
 
-Our postal address is  
-444 Washington St, Suite 202  
-Woburn, MA 01801  
-We can be reached via e-mail at [info@draconis.com](mailto:info@draconis.com) or you can reach us by telephone at (617) 812-1701
+We will collect and use all the personal information to fulfill the specified objectives and other compatible uses. However, your personal information can be used for other purposes with your consent or if required to do so by the law.
 
-For each visitor to our Web page, we collect the IP address of visitors to our Web page, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as Twitter message content).
+We will only retain your personal information for the necessary period for the fulfillment of those purposes.
 
-With regards to security: We take reasonable precautions to safeguard the confidentiality of your personal information. We employ electronic and physical safeguards, including maintaining servers in a secure datacenter, and installing firewalls, encryption, and other software. Your Twitter login and password is transmitted to the Twitter API, and is used for no other purpose. Access to Tweetree servers is restricted to only those Draconis Software employees requiring it to perform their duties.
+In collecting personal information, we will follow the lawful procedures and make sure that the process is fair. Where possible the concerned individual will be notified before the information is collected.
 
-The information we collect is used to customize the content and/or layout of our page for each individual visitor.
+The personal data collected should be relevant to the purposes for which it will be used. The data collected by the physical therapy assistant should also be up-to date, complete and accurate.
 
-With respect to cookies: Like many websites, we use cookies to record session information such as account registrations.
+We have reasonable security guards to protect personal information from loss or theft, disclosure, copying, unauthorized access or modification.
 
-We do not send any emails of any kind to users. For emails like forgotten password reminders, users are directed to Twitter.com.
+We will make information about our policies and practices readily available to the customers.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes. We suggest that you regularly check this Privacy Policy for changes.
-
-If you have any questions regarding this privacy policy, how we use your personal information, or any other tweetree-related questions, please contact us.
+We are fully committed to conducting our business in line with these principles. This will ensure confidentiality of personal information ids safeguarded.
