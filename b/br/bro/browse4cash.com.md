@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the browse4cash.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928224450id_/http%3A//www.browse4cash.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browse4cash.com privacy policy that was archived on 2014-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140406075252id_/http%3A//browse4cash.com/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
