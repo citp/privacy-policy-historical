@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the actblue.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424155005id_/https%3A//secure.actblue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actblue.com privacy policy that was archived on 2014-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140406072334id_/https%3A//secure.actblue.com/privacy) for the most accurate reproduction.*
 
-# ActBlue — Privacy
+# ActBlue — privacy
 
 ## Privacy Policy
 
@@ -20,9 +20,9 @@ When you contribute to candidates, causes and committees on ActBlue, we are requ
 
 We securely transmit your credit card information to Litle & Co. (our payment processor), and do not store this information unless you have specifically requested a recurring contribution. We also request your **phone number and email address** when you contribute so that we can reach you should further verification of your credit card information be required. 
 
-### Reports to fundraising page authors
+### Reports to contribution form authors
 
-Authors of fundraising pages receive reports about donations made through the web pages they create. These reports include the dates, amounts, and recipients of these contributions. 
+Authors of contribution forms receive reports about donations made through the web pages they create. These reports include the dates, amounts, and recipients of these contributions. 
 
 ### Use of third party vendors
 
