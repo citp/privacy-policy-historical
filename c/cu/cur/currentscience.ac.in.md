@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the currentscience.ac.in privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016014605id_/http%3A//www.currentscience.ac.in/php/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currentscience.ac.in privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407001727id_/http%3A//www.currentscience.ac.in/php/policy.php) for the most accurate reproduction.*
 
-# Current Science
+# Current Science - Privacy Policy
 
-Editorial
+Guest Editorial
 
-Sustainable materials based on aliphatic polyesters: teaching old chemistry some new tricks  
-S. Sivaram
+Science in the service of a symbiotic society  
+Madhav Gadgil
 
-The power of chemistry was unleashed in the early fifties by the arrival of polymers as a class of new materials with a vibrant industry spawning the manufacture of myriad...
+In Hind Swaraj, the book that outlined his social and economic philosophy Mahatma Gandhi unfortunately re-jected modern science, technology and industrialization....
 
-[...read more](https://web.archive.org/web/20131016014605id_/http%3A//www.currentscience.ac.in/Volumes/105/07/0879.pdf)
+[...read more](https://web.archive.org/web/20140407001727id_/http%3A//www.currentscience.ac.in/php/Volumes/106/06/0787.pdf)
 
 Privacy Policy
 
