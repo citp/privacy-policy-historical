@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the androidbegin.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205111932id_/http%3A//www.androidbegin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidbegin.com privacy policy that was archived on 2014-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140406135615id_/http%3A//www.androidbegin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AndroidBegin
-
-[Home](http://www.androidbegin.com/)  »  Privacy Policy
 
 **Privacy Policy for www.AndroidBegin.com**
 
