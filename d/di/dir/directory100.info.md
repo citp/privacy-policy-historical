@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directory100.info privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214040711id_/http%3A//directory100.info/page/privacy-policy-4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directory100.info privacy policy that was archived on 2014-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140406202426id_/http%3A//directory100.info/page/privacy-policy-4) for the most accurate reproduction.*
 
 # Privacy Policy
 
