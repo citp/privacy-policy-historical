@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laserfiche.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216130454id_/http%3A//www.laserfiche.com/en-us/Company/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laserfiche.com privacy policy that was archived on 2014-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140406190001id_/http%3A//www.laserfiche.com/en-us/Company/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
