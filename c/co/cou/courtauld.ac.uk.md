@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the courtauld.ac.uk privacy policy that was archived on 2013-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131008142647id_/http%3A//www.courtauld.ac.uk/about/web_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courtauld.ac.uk privacy policy that was archived on 2014-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140406072654id_/http%3A//www.courtauld.ac.uk/about/web_privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy, The Courtauld Institute of Art
 
@@ -12,7 +12,7 @@ The Courtauld Institute of Art is committed to protecting your privacy. This sta
 We collect the following information from people visiting the website:
 
   * Information on how people use the site 
-  * Your name and email address if you sign up for an [enewsletter](https://web.archive.org/web/20131008142647id_/http%3A//www.courtauld.ac.uk/gallery/ebulletins/index.shtml)
+  * Your name and email address if you sign up for an [enewsletter](https://web.archive.org/web/20140406072654id_/http%3A//www.courtauld.ac.uk/gallery/ebulletins/index.shtml)
   * Your name and payment details when you [buy gallery merchandise](http://www.courtauldshop.com/), pay for one of our [events](http://www.courtauld.ac.uk/researchforum/calendar.shtml) and [courses](http://www.courtauld.ac.uk/publicprogrammes/shortcourses/index.shtml), or [donate online](http://www.courtauld.ac.uk/supporting/donateonline.shtml)
   * Visitors' external IP addresses, details of which browser they used and on what kind of machine (eg Windows/Mac)
 
@@ -31,11 +31,11 @@ We collect that information about users of this site in three different ways:
 
 Cookies
 
-We use small data files stored on your computer called 'cookies'. Most big websites do this. They help us improve the website experience for you. Find out what we use them for, and how to control their use on our [cookies page](https://web.archive.org/web/20131008142647id_/http%3A//www.courtauld.ac.uk/about/cookies.shtml).
+We use small data files stored on your computer called 'cookies'. Most big websites do this. They help us improve the website experience for you. Find out what we use them for, and how to control their use on our [cookies page](https://web.archive.org/web/20140406072654id_/http%3A//www.courtauld.ac.uk/about/cookies.shtml).
 
 Online forms
 
-Forms such as the [enewsletter form](https://web.archive.org/web/20131008142647id_/http%3A//www.courtauld.ac.uk/gallery/ebulletins/index.shtml) collect data from users of the site. In this instance the user volunteers their personal information and the information is held in accordance with our Data Protection Policy.
+Forms such as the [enewsletter form](https://web.archive.org/web/20140406072654id_/http%3A//www.courtauld.ac.uk/gallery/ebulletins/index.shtml) collect data from users of the site. In this instance the user volunteers their personal information and the information is held in accordance with our Data Protection Policy.
 
 Online payments
 
