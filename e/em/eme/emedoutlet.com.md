@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emedoutlet.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909182344id_/http%3A//www.emedoutlet.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emedoutlet.com privacy policy that was archived on 2014-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140406204532id_/http%3A//www.emedoutlet.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy ::Emedoutlet Online Pharmacy::
 
@@ -11,6 +11,9 @@ We have strict policies and procedures in place to safeguard the privacy and sec
 **Types And Use Of Personal Information Collected**  
 The personal information we collect from you and about you is used to provide you with discount prescription medicines. This information varies depending upon whether you are a client or a prospective client. Examples of personal information we may collect from you or about you include: your name, address, telephone number, medical information and credit card information.  
 The information may be obtained from a telephone conversation, application, prescription form or from other sources, such as medical forms or reports. We maintain personal information regarding your transactions with Emedoutlet and we may request additional information in order to provide you with our products.  
+**Display Advertising Policy**  
+To improve customer satisfaction, we have implemented Google Analytics Demographics and Interest Reporting to understand our user preferences. Through this we will only track the visitors demographic information such as age, gender and interests with Google Analytics.  
+Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads).  
 **Safeguarding Your Medical Information**  
 Emedoutlet does not rent, sell, or give away your personally identifiable medical information to anyone for marketing purposes. We will only use and share personally identifiable medical information for specifically requested transactions and for those purposes required or permitted by law.  
 **When We May Disclose Information**  
@@ -26,6 +29,16 @@ We welcome your inquiries. Please email us at [noreply@emedoutlet.com](mailto:no
 [ ](http://www.emedoutlet.com/invitefriends_step1.php "Online Drugstore Referral Discount Program")
 
 ### [View Testimonial](https://www.emedoutlet.com/testimonial_view.php)
+
+  * Fletcher P
+
+Just have to say that emedoutlet is the best online offshore pharmacy.   
+Great prices quality pro...
+
+  * aneas o
+
+Arrived ahead of schedule and as advertised.  
+...
 
   * Kevin H
 
@@ -66,14 +79,6 @@ I spent days looking for a website white low prices AND that werent scams. Emedo
   * Roxanne N
 
 Very easy to navigate website easy to place order and prompt delivery. I will use again....
-
-  * eloy t
-
-recieved good quality meds as described highly recommend this site...
-
-  * Alexandria M
-
-I was very nervous about ordering onlinethe price seemed to good to be true as well as previous cust...
 
 
 
