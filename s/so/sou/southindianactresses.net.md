@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southindianactresses.net privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502152420id_/http%3A//www.southindianactresses.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southindianactresses.net privacy policy that was archived on 2014-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140406080406id_/http%3A//www.southindianactresses.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | SouthIndianActresses.net
 
@@ -24,4 +24,4 @@ Your use of the SouthIndianActresses.net websites signifies your acceptance of t
 
 ## Contacting the Website:
 
-If you have any questions about this privacy statement, the practices of this site or your dealings with this Website, you can [contact us](https://web.archive.org/web/20130502152420id_/http%3A//www.southindianactresses.net/contact-us.php)
+If you have any questions about this privacy statement, the practices of this site or your dealings with this Website, you can [contact us](https://web.archive.org/web/20140406080406id_/http%3A//www.southindianactresses.net/contact-us.php)
