@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iblognet.com privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427142345id_/http%3A//www.iblognet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iblognet.com privacy policy that was archived on 2014-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140406213227id_/http%3A//www.iblognet.com/privacy) for the most accurate reproduction.*
 
 # iBlognet Privacy Policy
 
