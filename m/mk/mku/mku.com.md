@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mku.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226105119id_/http%3A//www.mku.com/privacy-security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mku.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407140538id_/http%3A//mku.com/privacy-security.asp) for the most accurate reproduction.*
 
 # MKU :: Manufacturers of Defence, Armed Forces and Paramilitary Solutions
 
