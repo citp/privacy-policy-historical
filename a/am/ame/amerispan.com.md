@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amerispan.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831004728id_/http%3A//www.amerispan.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amerispan.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407030145id_/http%3A//www.amerispan.com/privacy_statement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -85,4 +85,4 @@ This privacy policy was last modified on February 28, 2007. AmeriSpan may revise
  
 
 |    
-[](https://web.archive.org/catalog_request/request.asp)[](https://web.archive.org/application/register.asp)[](https://web.archive.org/send_email)[](https://web.archive.org/newsletter.asp)
+[](https://web.archive.org/application/register.asp)[](https://web.archive.org/send_email)[](https://web.archive.org/newsletter.asp)
