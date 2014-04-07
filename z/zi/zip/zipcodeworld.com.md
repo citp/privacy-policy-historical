@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zipcodeworld.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127170447id_/http%3A//www.zipcodeworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipcodeworld.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407132942id_/http%3A//www.zipcodeworld.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | IP2Location.com
 
@@ -13,6 +13,10 @@ When you visit and navigate our sites and when you communicate with us via our s
   3. required or permitted by law.
 
 
+
+#### Device Information
+
+When you use mobile App from IP2Location, we may collect some information, such as IP address, device identifier, device type, operating system, location and usage information through the App. IP2Location uses the information to better understand your needs and to provide you with better user experiences. We will not disclose the information to third-party. If you do not agree with the data collection, you can uninstall the App from the devices anytime. 
 
 #### Your E-Mail
 
