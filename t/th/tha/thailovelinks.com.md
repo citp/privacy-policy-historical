@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the thailovelinks.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510032742id_/http%3A//www.thailovelinks.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thailovelinks.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407085159id_/http%3A//www.thailovelinks.com/privacy.cfm) for the most accurate reproduction.*
 
-# ThaiLoveLinks.com | Privacy Policy
+# Privacy Statement | ThaiLoveLinks.com
 
-**CUPID MEDIA PTY LTD PRIVACY POLICY**
+ThaiLoveLinks.com ("the Website") is owned and operated by the company described in item 1 of the Schedule to this Privacy Policy (the "Company", "we", "our", "us"). This Privacy Policy sets out the Company's policies relating to the collection and use of your Personal Information whilst you use this Website.
 
-ThaiLoveLinks.com (“the Website”) is owned and operated by the company described in item 1 of the Schedule to this Privacy Policy (the "Company", "we", "our", "us").  This Privacy Policy sets out the Company's policies relating to the collection and use of your Personal Information whilst you use this Website.
-
-  **1\. PRIVACY**
+**1\. PRIVACY**
 
 The Company is committed to protecting user privacy. We understand that visitors and users of the Website are concerned about their privacy, and the confidentiality and security of any information that is provided.
 
@@ -28,7 +26,7 @@ Whenever users (including non-member users) visit the Website, our servers autom
 
 (f) the exit URL.
 
-This information we collect about you is not Personal Information and, in any event, remains anonymous.  We do not link the anonymous information to any other Personal Information unless you have either registered as a member or logged on as a member at the time of use. Accordingly, if you have not identified yourself on the Website, such as by registering as a member or logging on as a member, we will not link a record of your usage of our Website to you personally. 
+This information we collect about you is not Personal Information and, in any event, remains anonymous. We do not link the anonymous information to any other Personal Information unless you have either registered as a member or logged on as a member at the time of use. Accordingly, if you have not identified yourself on the Website, such as by registering as a member or logging on as a member, we will not link a record of your usage of our Website to you personally. 
 
 **2.2 Members**
 
@@ -90,13 +88,29 @@ Where we collect Information about you from someone else we will take reasonable
 
 We utilise "cookies" which enable us to monitor traffic patterns and to serve you more efficiently if you revisit the Website. A cookie does not identify you personally but it does identify your computer. You can set your browser to disable cookies or to notify you when you receive a cookie and provide you with an opportunity to either accept or reject it in each instance. If you disable cookies, you may not be able to access certain areas or features on our Website.
 
+**2.9 Third Parties**
+
+We may allow third-parties, including authorized service providers, advertising companies and ad networks to serve advertisements on our sites. Any information that these third-parties collect via cookies is completely anonymous and is non-identifiable.
+
 **3\. USE AND DISCLOSURE**
 
-**3.1 Disclosure**
+**3.1 Use**
+
+Information collected via cookies may be used by us and third party vendors to:
+
+(i) support Google Analytics for Display Advertising, including Remarketing and Google Display Network Impression Reporting to advertise our services online.
+
+(ii) optimize, personalize and serve ads based on your past visits to our website.
+
+(iii) report uses of ad services, and interactions with ad impressions and how they are related to visits to our site.
+
+You can customize or opt out of Google Analytics for Display Advertising using the [Ads Settings](https://www.google.com/settings/ads) for your Google account. 
+
+**3.2 Disclosure**
 
 We shall only disclose Personal Information in accordance with the terms of this Policy. 
 
-**3.2 Secondary Purpose**
+**3.3 Secondary Purpose**
 
 We shall not use or disclose any Information about you for a Secondary Purpose unless:
 
@@ -370,7 +384,7 @@ that is also Personal Information; or
 
 Name
 
-**: Cupid Media Pty Ltd (ACN 104 844 564 begin_of_the_skype_highlighting              104 844 564      end_of_the_skype_highlighting), which shall include any related body corporate or associate (as those terms are defined in the Corporations Act 2001 (Cth)) of Cupid Media Pty Ltd.  
+**: Cupid Media Pty Ltd (ACN 104 844 564), which shall include any related body corporate or associate (as those terms are defined in the Corporations Act 2001 (Cth)) of Cupid Media Pty Ltd.  
 **Address** : PO Box 9304, Gold Coast MC Qld 9726  
 **Phone** : 61 7 5571 1181  
 **Fax Number** : 61 7 3103 4000  
