@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the members1st.org privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227222635id_/http%3A//www.members1st.org/media/22257/privacy_notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the members1st.org privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407020142id_/http%3A//www.members1st.org/media/22257/privacy_notice.pdf) for the most accurate reproduction.*
 
 # FACTS
 
-                                                                                                              Rev.  03/2013
+                                                                                                              Rev.  03/2014
                       WHAT DOES Members 1st Federal Credit Union
 FACTS                 DO WITH YOUR PERSONAL INFORMATION?
 Why?                 Financial companies choose how they share your personal information. Federal law gives
