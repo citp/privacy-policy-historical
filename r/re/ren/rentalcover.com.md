@@ -1,50 +1,80 @@
-> *The following text is extracted and transformed from the rentalcover.com privacy policy that was archived on 2013-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130913001955id_/http%3A//www.rentalcover.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentalcover.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407124613id_/http%3A//www.rentalcover.com/privacy) for the most accurate reproduction.*
 
 # Rental Cover - Privacy Policy
 
 This document explains the collection, usage and disclosure policies pertaining to the personal information obtained on this website RentalCover.com, operated by Insurance Genius Pty Ltd, Australian Company Number (ACN) 159 983 598 ("we" or "us") of 33 Ward St Willoughby NSW Australia 2068. We may amend this policy from time to time.
 
-**How do we collect your personal information?**
+  
+**How is your personal information collected?**
 
-1.1.  Generally, the only personal information we collect about you is that which you choose to tell us, or the personal information which we obtain from others.  
-1.2.  We may also collect information from a friend or someone who refers our services to you, or through your use of our website.  
+  
+1.1.  Most of the personal information we have will be directly provided by you, however on occasion information will be sourced from others. 
+
+1.2.  If you have been referred by a friend they may have provided information about you, or it can be collected through our website. 
+
 1.3. This website supports "Secure Socket Layer" or SSL encrypted 125-bit SSL.
 
-**What personal information do we collect?**
+  
+**What sort of personal information do we collect?**
 
-2.1.  We collect personal information which we consider relevant in providing and promoting our services to you, and operating our website.  
-2.2.  The type of information we collect includes, your name, address, telephone number, your computer's IP address and information provided at the time of booking and information provided from within your "My Account" section.
+  
+2.1.  Personal information may be collected in order to promote our services to you or to operate our website. 
 
-**How do we use the information we collect?**
+2.2.  We only collect basic personal information such as, your name, address, telephone number, your computer's IP address and information provided when booking and within your "My Account" section.
 
-3.1.  We use your personal information to provide and promote services to you.  
-3.2.  We may also use your personal information to maintain and develop our business systems including other websites we operate, to provide customer service, for traffic analysis, for billing purposes and to comply with the law.  
-3.3.  If you do not provide us with all or part of the personal information we require, it may prevent us from carrying out the things we have stated in clause  
-3.4.  If you receive promotional material you may choose to "opt out" of receiving this information.  
-3.5  We use your personal information for booking reminders
+  
+**How is personal information used?**
 
-**Do we disclose your personal information?**
+  
+3.1.  We use your personal information to keep you updated regarding our services. 
 
-4.1.  We will not sell your personal information without your consent, unless we sell our business.  
-4.2.  We may choose to disclose your personal information to our contractors, our agents, our suppliers, government authorities and any other party who may assist us in providing services to you, or in promoting or marketing our services to you, or any party who purchases or seeks to purchase our business (or any part of it including a website).  
-4.3.  We may disclose your personal information to our contractors and suppliers who may be located outside of Australia where we do we will do so in accordance with the Privacy Act 1988 (Cth).
+3.2.  Your personal information may also be used to maintain and develop our business systems including other websites we operate, to provide customer service, for traffic analysis, for billing purposes and to comply with the law. 
 
-**How do we use cookies?**
+3.3.  Should you choose to to provide us will details of your personal information we may not be able to carry out the things we have stated in clause. 
 
-5.1.  We use cookies to track your internet browsers behaviour, and also to store your favourite settings on our website.  
-5.2.  A cookie is a small file we store on your computer which holds the information we outlined in clause  
-5.3.  Every time you visit our site we can view this information.
+3.4.  You can 'opt out' of receiving promotional material at any time. 
 
-**How do we safeguard your personal information?**
+3.5  Your personal information can be used to issue you with booking reminders for you convenience.
 
-6.1.  We store your information in electronic form.  
-6.2.  We take all reasonable precautions to protect these records from misuse or unauthorised access by using physical, electronic and procedural safeguards.  
-6.3.  It is our practice to destroy, delete or de-identify your personal information when it is no longer needed.
+  
+**Can your personal information be disclosed?**
 
-**How can you access information and ensure its accuracy?**
+  
+4.1.  Your personal information will never be sold without your permission unless they are sold as a part of the business. 
 
-7.1.  When you provide us with personal information (or other third parties) provide us with personal information, we assume that it is correct unless you tell us otherwise.  
-7.2.  Unless we know that personal information is incorrect, we cannot correct it. You can assist us, by telling us when the information we hold has changed and is no longer accurate.  
-7.3.  If you wish to access the personal information we hold about you, you can do so by making a request to us using the contact us form.
+4.2.  Your personal information may be passed on in the exception of buiness for you, it may be disclosed to contractors, our agents, our suppliers, government authorities and any other party required to fulfil our services to you, or in promoting or marketing our services to you, or any party who purchases or seeks to purchase our business (or any part of it including a website). 
 
-We welcome any questions or comments and invite you to complete our contact us form or email us on privacy[at]rentalcover.com.
+4.3. In accordance with the Privacy Act 1988 (Cth) we may provide details of your personal information to our suppliers and contractors outside of Australia.
+
+  
+**How are cookies used?**
+
+  
+5.1.  We use cookies to store your favourite settings on our website to make your experience more convenient, they are also used monitor how your internet browser behaves. 
+
+5.2.  A cookie is a small file that is download to your computer and accumulates the information outlined in the above clause. 
+
+5.3.  We view the information gathered every time you visit our site.
+
+  
+**How is your personal information protected?**
+
+  
+6.1.  Your information is stored electronically. 
+
+6.2.  Reasonable precautions are takes to prevent misuse or unauthorised access by using physical, electronic and procedural safeguards of your personal information. 
+
+6.3. If your personal information is no longer needed by will take steps  to destroy, delete or de-identify your details.
+
+  
+**What access do you have to your information to update its accuracy?**
+
+  
+7.1.  When you (or other third parties) provide us with personal information, we assume that it is correct unless you update it. 
+
+7.2.  In rider for our records to remain accurate please inform us if your details change so that we are able to update them and provide you with a full service. 
+
+7.3. In the event that you want to update your personal information or discuss it with us, please use the [contact us form](http://www.rentalcover.com/site/contact).
+
+  
+If you have any questions, comments or queries please [contact us](http://www.rentalcover.com/site/contact) using the [form](http://www.rentalcover.com/site/contact) or email us on privacy[at]rentalcover.com.
