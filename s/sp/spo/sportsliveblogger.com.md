@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsliveblogger.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122072741id_/http%3A//www.sportsliveblogger.com/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsliveblogger.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407113213id_/http%3A//www.sportsliveblogger.com/p/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
