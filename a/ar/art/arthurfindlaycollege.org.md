@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arthurfindlaycollege.org privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807160836id_/http%3A//www.arthurfindlaycollege.org/afcprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arthurfindlaycollege.org privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407233306id_/http%3A//arthurfindlaycollege.org/afcprivacy.html) for the most accurate reproduction.*
 
 # AFC Privacy Policy
 
@@ -45,7 +45,7 @@ Our website contains links to other websites of interest. However, once you have
 You may choose to restrict the collection or use of your personal information in the following ways: 
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by emailing us at: [ _webmanager@arthurfindlaycollege.org_](mailto:webmanager@arthurfindlaycollege.org) or use the ' _[Unsubscribe](https://web.archive.org/web/20130807160836id_/http%3A//www.arthurfindlaycollege.org/links.html)_ ' link on the website.
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by emailing us at: [ _webmanager@arthurfindlaycollege.org_](mailto:webmanager@arthurfindlaycollege.org) or use the ' _[Unsubscribe](https://web.archive.org/web/20140407233306id_/http%3A//arthurfindlaycollege.org/links.html)_ ' link on the website.
 
 
 
