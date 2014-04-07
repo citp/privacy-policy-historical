@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the processregister.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923121009id_/http%3A//www.processregister.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the processregister.com privacy policy that was archived on 2014-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140408004241id_/http%3A//www.processregister.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy policy of ProcessRegister.com - The online yellow pages for the process, energy and greater manufacturing industry buyer or supplier
 
@@ -13,6 +13,7 @@ We respect the privacy of those who visit our web site and those who become subs
   * We use this information for three general purposes: to customize the content you see, to fulfill your requests for certain services, and to contact you about services.
   * We also automatically receive and record information on our server logs from your browser including your IP address, cookie information and the page you requested. This information is not linked to your account and will not be used to identify you.
   * We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
+  * We utilize the Google Analytics Demographics and Interest Reporting based on Display Advertising. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings.
 
 
   * We will not sell or rent your personally identifiable information to anyone.
@@ -23,7 +24,7 @@ We respect the privacy of those who visit our web site and those who become subs
 
 
   * **[Jobs Section](http://processregister.4jobs.com/): **ProcessRegister provides users the manufacturing career and job development areas through partnership with [Artemis HR](http://www.artemishr.com/). If you register for services offered in the "JOB" areas of our portal, personal information you provide is maintained by Artemis HR in accordance with [Artemis HR's privacy policy](http://processregister.4jobs.com/MKT/Content/JS/default.asp?pg=privacy).
-  * **[FREE Magazines Section](http://processregister.tradepub.com/): **ProcessRegister offers users the FREE process, energy and greater manufacturing trade magazines through partnership with [TradePub.com](http://www.tradepub.com/), a division of NetLine corporation. If you register for services offered in those "Magazine" areas of our portal, personal information you provide is maintained by NetLine in accordance with [NetLine's privacy policy](https://web.archive.org/web/20130923121009id_/http%3A//www.processregister.com/about/rel=).
+  * **[FREE Magazines Section](http://processregister.tradepub.com/): **ProcessRegister offers users the FREE process, energy and greater manufacturing trade magazines through partnership with [TradePub.com](http://www.tradepub.com/), a division of NetLine corporation. If you register for services offered in those "Magazine" areas of our portal, personal information you provide is maintained by NetLine in accordance with [NetLine's privacy policy](https://web.archive.org/web/20140408004241id_/http%3A//www.processregister.com/about/rel=).
 
 
   * We give you the ability to edit your Account Information and preferences at any time, including whether you want us to contact you about new services.
