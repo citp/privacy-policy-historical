@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidsii.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512081736id_/http%3A//www.kidsii.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsii.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407231116id_/http%3A//www.kidsii.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,7 +58,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 Questions & Feedback
 
-We welcome your questions, comments, and concerns about privacy. Please [send ](https://web.archive.org/web/20130512081736id_/http%3A//www.kidsii.com/t-contact.aspx)us any and all feedback pertaining to privacy, or any other issue. 
+We welcome your questions, comments, and concerns about privacy. Please [send ](https://web.archive.org/web/20140407231116id_/http%3A//www.kidsii.com/t-contact.aspx)us any and all feedback pertaining to privacy, or any other issue. 
 
 Online Policy Only
 
@@ -66,11 +66,11 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20130512081736id_/http%3A//www.kidsii.com/t-termsandconditions.aspx) section establishing the use, disclaimers, and limitations of liability governing the use of our website. 
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20140407231116id_/http%3A//www.kidsii.com/t-termsandconditions.aspx) section establishing the use, disclaimers, and limitations of liability governing the use of our website. 
 
 Severability
 
-In the event that any part or provision of these [Terms and Conditions](https://web.archive.org/web/20130512081736id_/http%3A//www.kidsii.com/t-termsandconditions.aspx) is declared fully or partially invalid, unlawful, void or unenforceable by a court of competent jurisdiction, the remainder of these [Terms and Conditions](https://web.archive.org/web/20130512081736id_/http%3A//www.kidsii.com/t-termsandconditions.aspx) will remain in full force and effect. 
+In the event that any part or provision of these [Terms and Conditions](https://web.archive.org/web/20140407231116id_/http%3A//www.kidsii.com/t-termsandconditions.aspx) is declared fully or partially invalid, unlawful, void or unenforceable by a court of competent jurisdiction, the remainder of these [Terms and Conditions](https://web.archive.org/web/20140407231116id_/http%3A//www.kidsii.com/t-termsandconditions.aspx) will remain in full force and effect. 
 
 Inventor Submissions & Communications
 
