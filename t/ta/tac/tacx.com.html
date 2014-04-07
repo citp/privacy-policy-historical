@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tacx.com privacy policy that was archived on 2013-04-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130424130851id_/http%3A//www.tacx.com/en/service/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tacx.com privacy policy that was archived on 2014-04-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140407183003id_/http%3A//www.tacx.com/en/service/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" class="dyn contents"><head> 
 		<meta charset="utf-8">
@@ -9,6 +9,7 @@
 		<meta name="og:site_name" content="tacx.com">
 		<meta name="fb:app_id" content="324183947677488"> 
 		<link href="/Themes/Tacx2012/styles/css/tacx.css" rel="stylesheet" type="text/css">
+<link href="/Themes/Tacx2012/styles/css/tacxshop.common.css" rel="stylesheet" type="text/css">
 <link href="/Themes/Tacx2012/styles/css/tacx.vendor.css" rel="stylesheet" type="text/css">
 <link href="/Themes/Tacx2012/styles/css/tacx.hacks.css" rel="stylesheet" type="text/css">
 <!--[if lt IE 9]>
@@ -16,12 +17,16 @@
 <![endif]-->
 <link href="/Themes/Tacx2012/styles/dcMegaMenu/dcmegamenu.css" rel="stylesheet" type="text/css">
 <link href="/Themes/Tacx2012/styles/dcMegaMenu/skins/tacx.css" rel="stylesheet" type="text/css">
-<link href="/Modules/Piedone.Facebook.Suite.Connect/Styles/piedone-facebook-suite-connect.css" rel="stylesheet" type="text/css">
+<link href="/Modules/Piedone.Facebook.Suite.Connect/styles/piedone-facebook-suite-connect.css" rel="stylesheet" type="text/css">
+<link href="/Modules/AIM.jQuery/styles/cookiecuttr/cookiecuttr.css" rel="stylesheet" type="text/css">
 <script src="/Modules/Orchard.jQuery/scripts/jquery-1.8.2.min.js" type="text/javascript"></script>
 <script src="/Modules/Piedone.Facebook.Suite/Scripts/FacebookSuite.js" type="text/javascript"></script>
 <script src="/Modules/AIM.jQuery/scripts/hoverIntent/jquery.hoverIntent.minified.js" type="text/javascript"></script>
 <script src="/Themes/Tacx2012/scripts/dcMegaMenu/jquery.dcmegamenu.1.3.3.min.js" type="text/javascript"></script>
+<script src="/Modules/AIM.JSLibrary/scripts/AGA/AGA.min.js" type="text/javascript"></script>
 <script src="/Modules/Piedone.Facebook.Suite.Connect/Scripts/FacebookConnect.js" type="text/javascript"></script>
+<script src="/Modules/AIM.jQuery/scripts/cookie/jquery.cookie.min.js" type="text/javascript"></script>
+<script src="/Modules/AIM.jQuery/scripts/cookiecuttr/jquery.cookiecuttr.min.js" type="text/javascript"></script>
 <!--[if lt IE 9]>
 <script src="/Themes/Tacx2012/Scripts/ie_legacy_html5.js" type="text/javascript"></script>
 <![endif]-->
@@ -30,7 +35,105 @@
 <meta content="Orchard" name="generator">
 <meta content="IE=edge,chrome=1" name="X-UA-Compatible">
 <link href="/Themes/Tacx2012/Content/favicon.ico" rel="shortcut icon" type="image/x-icon">
+	<script type="text/javascript">
+		$(function () {
+			$('#topnav > ul > li > a').click(function () {
+				var url = $(this).attr('href');
+				
+				// strip the culture prefix
+				if (url.indexOf('/') === 0 && url.length > 3 && url.substr(3, 1) == '/') {
+					url = url.substr(3); 
+				}
+				
+				url = url.split('?')[0];
+				
+				return AGA.trackEventAndRedirectWithMaxDelay($(this).attr('href'), 500, 'Menu', 'Clicked Top Level Link', url);
+			});
+		});
+	</script>
 
+<script type="text/javascript">
+	$(function () {
+		var suffix = "-popup";
+		var catSuffix = " (Popup)";
+		
+		$('a.lnk-catalog' + suffix).click(function () {
+			var name = $(this).data('name');
+			
+			return AGA.trackEvent('Catalogue' + catSuffix, 'Clicked Catalogue-Only Link', name + ' [' + $(this).attr('href') + ']');
+		});
+	});
+</script>
+
+<script type="text/javascript">
+	$(function () {
+		$('a.lnk-change-culture').click(function () {
+			var culture = $(this).data('culture');
+			var currentCulture = $('html').attr('lang');
+			
+			return AGA.trackEventAndRedirectWithMaxDelay($(this).attr('href'), 500, 'Language Bar', 'Clicked Language Link (' + culture + ')', currentCulture);
+		});
+	});
+</script>
+
+<script type="text/javascript">
+	$(function () {
+		$('div.search-popup-searchbar > form').submit(function () {
+			var q = $('div.search-popup-searchbar form .txt-search-input').val();
+			var isPartnerSite = $('article.widget-PartnerSiteMenu').length > 0;
+			
+			if (typeof q != 'undefined' && q != '') {
+				return AGA.trackEventAndSubmitWithMaxDelay($('div.search-popup-searchbar > form'), 500, 'Search Bar' + (isPartnerSite ? ' (Partner)' : ''), 'Performing Search', q);
+			}
+
+			return true;
+		});
+	});
+</script>
+
+<script type="text/javascript">
+	$(function () {
+		$('a.lnk-soc-twitter').click(function () {
+			return AGA.trackEventAndRedirectWithMaxDelay($(this).attr('href'), 500, 'Sitemap', 'Clicked Tacx Twitter Link');
+		});
+
+		$('a.lnk-soc-facebook').click(function () {
+			return AGA.trackEventAndRedirectWithMaxDelay($(this).attr('href'), 500, 'Sitemap', 'Clicked Tacx Facebook Link');
+		});
+
+		$('a.lnk-soc-youtube').click(function () {
+			return AGA.trackEventAndRedirectWithMaxDelay($(this).attr('href'), 500, 'Sitemap', 'Clicked Tacx Youtube Link');
+		});
+	});
+</script>
+
+<script type="text/javascript">
+	$(function () {
+		window.setTimeout(function () {
+			var isPartnerSite = $('article.widget-PartnerSiteMenu').length > 0;
+			
+			$('a.cc-cookie-accept').click(function () {
+				return AGA.trackEvent('Cookie Bar' + (isPartnerSite ? ' (Partner)' : ''), 'Clicked Accept Button');
+			});
+			$('div.cc-cookies a:first').click(function () {
+				return AGA.trackEventAndRedirectWithMaxDelay($(this).attr('href'), 500, 'Cookie Bar' + (isPartnerSite ? ' (Partner)' : ''), 'Clicked Cookie Policy Link');
+			});
+		}, 250);
+	});
+</script>
+
+
+		
+
+<script>
+	if (typeof window.AGA != 'undefined') {
+		AGA.setCustomVar(AGA.CUSTOMVAR_SLOT_1, 'Authentication Level',"guest", AGA.CUSTOMVAR_SCOPE_PAGE);
+		AGA.setCustomVar(AGA.CUSTOMVAR_SLOT_2, 'Current Culture', "en-US", AGA.CUSTOMVAR_SCOPE_PAGE);
+		AGA.setCustomVar(AGA.CUSTOMVAR_SLOT_3, 'Cultureless Url', "/service/privacy-policy", AGA.CUSTOMVAR_SCOPE_PAGE);
+		AGA.setCustomVar(AGA.CUSTOMVAR_SLOT_4, 'Request Domain', "www.tacx.com", AGA.CUSTOMVAR_SCOPE_PAGE);
+			AGA.setCustomVar(AGA.CUSTOMVAR_SLOT_5, 'Request Scheme', "https", AGA.CUSTOMVAR_SCOPE_PAGE);
+	}
+</script> 
 		<script type="text/javascript">
 			(function (d) { d.className = "dyn" + d.className.substring(6, d.className.length); })(document.documentElement);
 			
@@ -71,9 +174,10 @@ $(document).ready(function(){
 
 	<div id="topnav">
 		<ul>
-					<li><a class=" top-nav-selected" href="/en/products">Products</a></li>
-					<li><a class="" href="/en/experience">Experience</a></li>
-					<li style="background-image: none;"><a class="" href="/en/service">Service</a></li>		
+					<li><a class="menu-nolink-white " href="/en/products">Products</a></li>
+					<li><a class="menu-nolink-white " href="/en/experience">Experience</a></li>
+					<li><a class="menu-nolink-white  top-nav-selected" href="/en/service">Service</a></li>
+					<li style="background-image: none;"><a class="menu-nolink-white " href="/en/onlineshop">Online Shop</a></li>		
 		</ul>
 	</div>
 	
@@ -81,307 +185,48 @@ $(document).ready(function(){
 		<div class="black">  
 			<ul id="mega-menu-2" class="mega-menu">
 
-	 <li class="nav-selected">
-<a class="" href="/en/products/trainers">Trainers</a>		<ul>
 	 <li class="">
-<a class="menu-blue" href="javascript:void(0)" style="cursor: default;">VR Trainers</a>		<ul>
+<a class="menu-nolink-white " href="/en/service/software-updates">Software Updates</a>		<ul>
 	 <li class="">
-<a class="" href="/en/products/trainers/i-genius-multiplayer">i-Genius Multiplayer</a>	 </li>
+<a class="menu-nolink-white " href="/en/service/software-updates/tacx-trainer-software-4">Tacx Trainer software 4</a>	 </li>
 	 <li class="">
-<a class="" href="/en/products/trainers/i-genius">i-Genius</a>	 </li>
+<a class="menu-nolink-white " href="/en/service/software-updates/tacx-trainer-software-3">Tacx Trainer software 3</a>	 </li>
 	 <li class="">
-<a class="" href="/en/products/trainers/i-vortex">i-Vortex</a>	 </li>
+<a class="menu-nolink-white " href="/en/service/software-updates/bushido">Bushido</a>	 </li>
 	 <li class="">
-<a class="" href="/en/products/trainers/i-flow">i-Flow</a>	 </li>
+<a class="menu-nolink-white " href="/en/service/software-updates/i-vortex">i-Vortex</a>	 </li>
 		</ul>
 	 </li>
 	 <li class="">
-<a class="menu-green" href="javascript:void(0)" style="cursor: default;">Ergotrainers</a>		<ul>
+<a class="menu-nolink-white " href="/en/service/manuals">Manuals</a>		<ul>
 	 <li class="">
-<a class="" href="/en/products/trainers/bushido">Bushido</a>	 </li>
+<a class="menu-nolink-white " href="/en/service/manuals/tacx-trainer-software-4">Tacx Trainer software 4</a>	 </li>
 	 <li class="">
-<a class="" href="/en/products/trainers/flow">Flow</a>	 </li>
+<a class="menu-nolink-white " href="/en/service/manuals/tacx-trainer-software-3">Tacx Trainer software 3</a>	 </li>
+	 <li class="">
+<a class="menu-nolink-white " href="/en/service/manuals/virtual-reality-trainers">VR Trainers</a>	 </li>
+	 <li class="">
+<a class="menu-nolink-white " href="/en/service/manuals/ergotrainers">Ergotrainers</a>	 </li>
+	 <li class="">
+<a class="menu-nolink-white " href="/en/service/manuals/cycletrainers">Cycletrainers</a>	 </li>
+	 <li class="">
+<a class="menu-nolink-white " href="/en/service/manuals/rollers">Rollers</a>	 </li>
+	 <li class="">
+<a class="menu-nolink-white " href="/en/service/manuals/repairstands">Repairstands</a>	 </li>
 		</ul>
 	 </li>
 	 <li class="">
-<a class="menu-pink" href="javascript:void(0)" style="cursor: default;">Cycletrainers</a>		<ul>
+<a class="menu-nolink-white " href="/en/service/spare-parts">Spare Parts</a>	 </li>
 	 <li class="">
-<a class="" href="/en/products/trainers/booster">Booster</a>	 </li>
+<a class="menu-nolink-white " href="/en/service/find-a-dealer">Find a dealer</a>	 </li>
 	 <li class="">
-<a class="" href="/en/products/trainers/satori">Satori</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/trainers/blue-motion">Blue Motion</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/trainers/blue-matic">Blue Matic</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/trainers/blue-twist">Blue Twist</a>	 </li>
-		</ul>
-	 </li>
-	 <li class="">
-<a class="menu-purple" href="javascript:void(0)" style="cursor: default;">Rollers</a>		<ul>
-	 <li class="">
-<a class="" href="/en/products/trainers/galaxia">Galaxia</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/trainers/antares">Antares</a>	 </li>
-		</ul>
-	 </li>
-		</ul>
-	 </li>
-	 <li class="">
-<a class="" href="/en/products/software">Software</a>		<ul>
-	 <li class="">
-<a class="menu-blue" href="/en/products/software/tacx-trainer-software-4-advanced">Advanced</a>		<ul>
-	 <li class="">
-<a class="" href="/en/products/software/virtual-reality-advanced">Virtual Reality</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/software/catalyst-advanced">Catalyst</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/software/tacx-films-advanced">Tacx Films</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/software/gps-rides-advanced">GPS courses</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/software/multiplayer-advanced">Multiplayer</a>	 </li>
-		</ul>
-	 </li>
-	 <li class="">
-<a class="menu-blue" href="/en/products/software/tacx-trainer-software-4-basic">Basic</a>		<ul>
-	 <li class="">
-<a class="" href="/en/products/software/virtual-reality-basic">Virtual Reality</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/software/catalyst-basic">Catalyst</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/software/tacx-films-basic">Tacx Films</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/software/gps-rides-basic">GPS courses</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/software/multiplayer-basic">Multiplayer</a>	 </li>
-		</ul>
-	 </li>
-	 <li class="">
-<a class="menu-blue" href="/en/products/software/tablets-smartphones">Tablets &amp; smartphones</a>	 </li>
-	 <li class="">
-<a class="menu-pink" href="/en/products/software/video-player">Video Player</a>	 </li>
-		</ul>
-	 </li>
-	 <li class="">
-<a class="" href="/en/products/films">Films</a>		<ul>
-	 <li class="">
-<a class="midblue" href="javascript:void(0)" style="cursor: default;">Cycling Classics</a>		<ul>
-	 <li class="">
-<a class="" href="/en/products/films/cycling-classics/milan-san-remo">Milan-San Remo</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/cycling-classics/tour-of-lombardy">Tour of Lombardy</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/cycling-classics/hell-of-the-north">Hell of the North</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/cycling-classics/amstel-gold-race">Amstel Gold Race</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/cycling-classics/monte-paschi-eroica">Monte Paschi Eroica</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/cycling-classics/tour-of-flanders">Tour of Flanders</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/cycling-classics/san-sebastian-classic">San Sebastian Classic</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/cycling-classics/liege-bastogne-liege">Liège-Bastogne-Liège</a>	 </li>
-		</ul>
-	 </li>
-	 <li class="">
-<a class="" href="javascript:void(0)" style="cursor: default;">Mountain Stages</a>		<ul>
-	 <li class="">
-<a class="" href="/en/products/films/mountain-stages/arizona-climbs">Arizona Climbs</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/mountain-stages/mont-ventoux">Mont Ventoux</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/mountain-stages/the-grossglockner">The Grossglockner</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/mountain-stages/l’etape-du-tour-de-france">L’Etape du Tour de France 2010</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/mountain-stages/l’etape-du-tour-de-france---2011">L’Etape du Tour de France 2011</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/mountain-stages/sella-ronda">Sella Ronda</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/mountain-stages/alpine-classic---part-i">Alpine Classic 2010 Part I</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/mountain-stages/route-des-grandes-alpes-part-1">Route des Grandes Alpes Part I</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/mountain-stages/route-des-grandes-alpes-part-2">Route des Grandes Alpes Part II</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/mountain-stages/route-des-grandes-alpes-part-3">Route des Grandes Alpes Part III</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/mountain-stages/giro-d-italia-2013">Giro d'Italia 2013</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/mountain-stages/l-etape-du-tour-2013">L'Etape du Tour 2013</a>	 </li>
-		</ul>
-	 </li>
-	 <li class="">
-<a class="" href="javascript:void(0)" style="cursor: default;">Climbs Collection</a>		<ul>
-	 <li class="">
-<a class="" href="/en/products/films/climbs-collection/climbs-collection-i">Climbs Collection Italy I</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/climbs-collection/climbs-collection-france-ii">Climbs Collection France II</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/climbs-collection/climbs-collection-iii-provence-–-france">Climbs Collection Provence III</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/climbs-collection/climbs-collection-france-iv">Climbs Collection France IV</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/climbs-collection/climbs-collection-v---spain">Climbs Collection Spain V</a>	 </li>
-		</ul>
-	 </li>
-	 <li class="">
-<a class="" href="javascript:void(0)" style="cursor: default;">Cycletours</a>		<ul>
-	 <li class="">
-<a class="" href="/en/products/films/cycle-tours/arizona-cycle-tours">Arizona</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/cycle-tours/schwarzwald---germany">Schwarzwald</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/cycle-tours/lake-district">Lake District</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/cycle-tours/new-forest">New Forest</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/cycle-tours/elba-tour">Elba Tour</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/cycle-tours/bergen-–-voss">Bergen – Voss</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/cycle-tours/the-dordogne">The Dordogne</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/cycle-tours/mallorca-tour-i">Mallorca Tour I</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/cycle-tours/mallorca-tour-ii">Mallorca Tour II</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/cycle-tours/the-argus-tour-2010">The Argus Tour 2010</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/cycle-tours/sierra-nevada-yosemite-california-usa">Sierra Nevada, Yosemite</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/cycle-tours/pacific-coast-highway">Pacific Coast Highway</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/cycle-tours/king-ridge-granfondo">King Ridge GranFondo</a>	 </li>
-		</ul>
-	 </li>
-	 <li class="">
-<a class="" href="javascript:void(0)" style="cursor: default;">Training with the pros</a>		<ul>
-	 <li class="">
-<a class="" href="/en/products/films/training-with-the-pros/training-with-rabobank">Training with Rabobank</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/training-with-the-pros/bart-brentjens-challenge">Bart Brentjens Challenge</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/training-with-the-pros/training-with-saxo-bank">Training with Saxo Bank</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/training-with-the-pros/training-with-quick-step">Training with Quick Step</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/training-with-the-pros/training-with-pro-team-astana">Training with Pro team Astana</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/training-with-the-pros/training-with-radioshack-nissan">Training with Radioshack-Nissan</a>	 </li>
-		</ul>
-	 </li>
-	 <li class="">
-<a class="" href="javascript:void(0)" style="cursor: default;">Citytrips</a>		<ul>
-	 <li class="">
-<a class="" href="/en/products/films/citytrip/rome-paris">Rome &amp; Paris</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/citytrip/london-barcelona">London &amp; Barcelona</a>	 </li>
-		</ul>
-	 </li>
-	 <li class="">
-<a class="" href="javascript:void(0)" style="cursor: default;">Download Films</a>		<ul>
-	 <li class="">
-<a class="" href="/en/products/films/download-films/gorges-du-cians">Gorges du Cians</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/download-films/cap-de-formentor">Cap de Formentor</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/download-films/puig-de-randa">Puig de Randa</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/download-films/mount-whitney-portal">Mount Whitney Portal</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/download-films/aube-valley">Aube Valley</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/download-films/route-des-grands-crus">Route des Grands Crus</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/download-films/honister-pass">Honister Pass</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/download-films/coleman-valley">Coleman Valley</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/download-films/monte-baldo">Monte Baldo</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/download-films/passo-san-pellegrino">Passo San Pellegrino</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/films/download-films/cote-du-puget">Côte du Puget</a>	 </li>
-		</ul>
-	 </li>
-	 <li class="">
-<a class="" href="javascript:void(0)" style="cursor: default;">Triathlon Films</a>		<ul>
-	 <li class="">
-<a class="" href="/en/products/films/triathlon-films/wildflower">Wildflower Triathlon</a>	 </li>
-		</ul>
-	 </li>
-		</ul>
-	 </li>
-	 <li class="">
-<a class="" href="/en/products/bottles-bottlecages">Bottles &amp; -cages</a>		<ul>
-	 <li class="">
-<a class="" href="/en/products/bottles-bottlecages/shanti">Shanti</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/bottles-bottlecages/shiva">Shiva</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/bottles-bottlecages/source">Source</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/bottles-bottlecages/deva">Deva </a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/bottles-bottlecages/uma">Uma</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/bottles-bottlecages/foxy">Foxy</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/bottles-bottlecages/tao">Tao</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/bottles-bottlecages/allure">Allure</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/bottles-bottlecages/uni">Uni</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/bottles-bottlecages/bottle-printing">Printing Bottles</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/bottles-bottlecages/accessories">Accessories</a>	 </li>
-		</ul>
-	 </li>
-	 <li class="">
-<a class="" href="/en/products/tools">Tools</a>		<ul>
-	 <li class="">
-<a class="" href="/en/products/tools/spider-prof">Spider Prof</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/tools/spider-team">Spider Team</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/tools/cycle-motion-stand">Cycle Motion Stand</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/tools/cyclestand">Cyclestand</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/tools/gem-bikestand">Gem Bikestand</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/tools/tools-for-wheels">Wheel Tools</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/tools/bracket-tools">Bracket Tools</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/tools/crank-tools">Crank Tools</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/tools/chain-tools">Chain Tools</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/tools/tools-to-go">On the road tools </a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/tools/mitram-chain-lubricant-spreader">Mitram chain lubricant spreader</a>	 </li>
-	 <li class="">
-<a class="" href="/en/.InBetweenBox/66093">Carbon assembly compound</a>	 </li>
-		</ul>
-	 </li>
-	 <li class="">
-<a class="" href="/en/products/extra" style="background-image:none;">Extras</a>		<ul>
-	 <li class="">
-<a class="" href="/en/products/extra/jockey-wheels">Jockey Wheels</a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/extra/bike-lightning">Bicycle lighting </a>	 </li>
-	 <li class="">
-<a class="" href="/en/products/extra/cycling-clothes">Cycling Clothes</a>	 </li>
-		</ul>
-	 </li>
+<a class="menu-nolink-white " href="/en/service/warranty" style="background-image:none;">Warranty Conditions</a>	 </li>
 			</ul>
 		</div>
 	</div>
+
+
+
 
 
 <script>
@@ -408,28 +253,109 @@ $(document).ready(function(){
 	<div class="small-popup-outer">
 		<div class="small-popup-inner">
 <div class="small-popup-row">
-				<a href="/de/service/privacy-policy?lang=de-DE" class="cursor-hand">
+				<a href="/de/service/privacy-policy?lang=de-DE" class="cursor-hand lnk-change-culture" data-culture="de-DE">
 					<img class="language-popup-flag" src="/Themes/Tacx2012/Styles/images/languages/de-de.png" width="16" height="11">
 					<span class="medium size14 black85 language-popup-text ">Deutsch</span> </a>
 			</div>
 <div class="small-popup-row">
-				<a href="/en/service/privacy-policy?lang=en-US" class="cursor-hand">
+				<a href="/en/service/privacy-policy?lang=en-US" class="cursor-hand lnk-change-culture" data-culture="en-US">
 					<img class="language-popup-flag" src="/Themes/Tacx2012/Styles/images/languages/en-us.png" width="16" height="11">
 					<span class="medium size14 black85 language-popup-text bold">English</span> </a>
 			</div>
 <div class="small-popup-row">
-				<a href="/fr/service/privacy-policy?lang=fr-FR" class="cursor-hand">
+				<a href="/fr/service/privacy-policy?lang=fr-FR" class="cursor-hand lnk-change-culture" data-culture="fr-FR">
 					<img class="language-popup-flag" src="/Themes/Tacx2012/Styles/images/languages/fr-fr.png" width="16" height="11">
 					<span class="medium size14 black85 language-popup-text ">Français</span> </a>
 			</div>
 <div class="small-popup-row">
-				<a href="/nl/service/privacy-policy?lang=nl-NL" class="cursor-hand">
+				<a href="/nl/service/privacy-policy?lang=nl-NL" class="cursor-hand lnk-change-culture" data-culture="nl-NL">
 					<img class="language-popup-flag" src="/Themes/Tacx2012/Styles/images/languages/nl-nl.png" width="16" height="11">
 					<span class="medium size14 black85 language-popup-text ">Nederlands</span> </a>
 			</div>
+		
+						<div style="background-color: #a0A0A0; height: 1px; margin: 5px 10px 0;"></div>
+						<div style="background-color: #f3f3f3; padding: 1px 0 0;">
+							<p class="bold size14 black85" style="text-align: center; margin: 5px;">Catalogues only:</p>					
+							
+					<div class="small-popup-row">
+						<a href="https://wwwstatic3.tacx.com/Media/Default/Catalogue/2014/CN/index.html" target="_blank" class="cursor-hand lnk-catalog-popup" data-name="简体中文">
+							<img class="language-popup-flag" src="/Themes/Tacx2012/Styles/images/languages/cn.png" width="16" height="11">
+							<span class="medium size14 black85 language-popup-text">简体中文</span> 
+						</a>
+					</div>
+					<div class="small-popup-row">
+						<a href="https://wwwstatic1.tacx.com/Media/Default/Catalogue/2014/DK/index.html" target="_blank" class="cursor-hand lnk-catalog-popup" data-name="Dansk">
+							<img class="language-popup-flag" src="/Themes/Tacx2012/Styles/images/languages/dk.png" width="16" height="11">
+							<span class="medium size14 black85 language-popup-text">Dansk</span> 
+						</a>
+					</div>
+					<div class="small-popup-row">
+						<a href="https://wwwstatic1.tacx.com/Media/Default/Catalogue/2014/ES/index.html" target="_blank" class="cursor-hand lnk-catalog-popup" data-name="Español">
+							<img class="language-popup-flag" src="/Themes/Tacx2012/Styles/images/languages/es.png" width="16" height="11">
+							<span class="medium size14 black85 language-popup-text">Español</span> 
+						</a>
+					</div>
+					<div class="small-popup-row">
+						<a href="https://wwwstatic3.tacx.com/Media/Default/Catalogue/2014/FI/index.html" target="_blank" class="cursor-hand lnk-catalog-popup" data-name="Suomalainen">
+							<img class="language-popup-flag" src="/Themes/Tacx2012/Styles/images/languages/fi.png" width="16" height="11">
+							<span class="medium size14 black85 language-popup-text">Suomalainen</span> 
+						</a>
+					</div>
+					<div class="small-popup-row">
+						<a href="https://wwwstatic2.tacx.com/Media/Default/Catalogue/2014/IT/index.html" target="_blank" class="cursor-hand lnk-catalog-popup" data-name="Italiano">
+							<img class="language-popup-flag" src="/Themes/Tacx2012/Styles/images/languages/it.png" width="16" height="11">
+							<span class="medium size14 black85 language-popup-text">Italiano</span> 
+						</a>
+					</div>
+					<div class="small-popup-row">
+						<a href="https://wwwstatic1.tacx.com/Media/Default/Catalogue/2014/JP/index.html" target="_blank" class="cursor-hand lnk-catalog-popup" data-name="日本語">
+							<img class="language-popup-flag" src="/Themes/Tacx2012/Styles/images/languages/jp.png" width="16" height="11">
+							<span class="medium size14 black85 language-popup-text">日本語</span> 
+						</a>
+					</div>
+					<div class="small-popup-row">
+						<a href="https://wwwstatic1.tacx.com/Media/Default/Catalogue/2014/KR/index.html" target="_blank" class="cursor-hand lnk-catalog-popup" data-name="한국의">
+							<img class="language-popup-flag" src="/Themes/Tacx2012/Styles/images/languages/kr.png" width="16" height="11">
+							<span class="medium size14 black85 language-popup-text">한국의</span> 
+						</a>
+					</div>
+					<div class="small-popup-row">
+						<a href="https://wwwstatic3.tacx.com/Media/Default/Catalogue/2014/NO/index.html" target="_blank" class="cursor-hand lnk-catalog-popup" data-name="Norsk">
+							<img class="language-popup-flag" src="/Themes/Tacx2012/Styles/images/languages/no.png" width="16" height="11">
+							<span class="medium size14 black85 language-popup-text">Norsk</span> 
+						</a>
+					</div>
+					<div class="small-popup-row">
+						<a href="https://wwwstatic2.tacx.com/Media/Default/Catalogue/2014/PL/index.html" target="_blank" class="cursor-hand lnk-catalog-popup" data-name="Polski">
+							<img class="language-popup-flag" src="/Themes/Tacx2012/Styles/images/languages/pl.png" width="16" height="11">
+							<span class="medium size14 black85 language-popup-text">Polski</span> 
+						</a>
+					</div>
+					<div class="small-popup-row">
+						<a href="https://wwwstatic1.tacx.com/Media/Default/Catalogue/2014/PT/index.html" target="_blank" class="cursor-hand lnk-catalog-popup" data-name="Português">
+							<img class="language-popup-flag" src="/Themes/Tacx2012/Styles/images/languages/pt.png" width="16" height="11">
+							<span class="medium size14 black85 language-popup-text">Português</span> 
+						</a>
+					</div>
+					<div class="small-popup-row">
+						<a href="https://wwwstatic2.tacx.com/Media/Default/Catalogue/2014/RU/index.html" target="_blank" class="cursor-hand lnk-catalog-popup" data-name="российский">
+							<img class="language-popup-flag" src="/Themes/Tacx2012/Styles/images/languages/ru.png" width="16" height="11">
+							<span class="medium size14 black85 language-popup-text">российский</span> 
+						</a>
+					</div>
+					<div class="small-popup-row">
+						<a href="https://wwwstatic3.tacx.com/Media/Default/Catalogue/2014/TR/index.html" target="_blank" class="cursor-hand lnk-catalog-popup" data-name="Türk">
+							<img class="language-popup-flag" src="/Themes/Tacx2012/Styles/images/languages/tr.png" width="16" height="11">
+							<span class="medium size14 black85 language-popup-text">Türk</span> 
+						</a>
+					</div>
+
+
+						</div>
 		</div>
 	</div>
 </fieldset>
+
 
 
 </article></div>
@@ -452,7 +378,7 @@ $(document).ready(function(){
 							<div class="search-popup-searchbar search-popup-searchbar-ie searchbox-padding-ie">
 								<form method="GET" action="/en/search">
 										<input type="hidden" name="terms" value="products,service,experience">		
-									<input class="regular size14 black85 default-value-search" type="text" placeholder="Enter your search query here..." maxlength="255" name="q">
+									<input class="regular size14 black85 default-value-search txt-search-input" type="text" placeholder="Enter your search query here..." maxlength="255" name="q">
 									<button type="submit"></button>
 								</form>
 							</div>
@@ -460,6 +386,7 @@ $(document).ready(function(){
 		</div>
 	</div>
 </div>
+
 
 
 </article></div>           
@@ -483,7 +410,7 @@ $(document).ready(function(){
 		<div class="login-popup-outer">
 			<div class="login-popup-inner">
 				<h2 class="black85">Login</h2>
-				<div class="login-form login-form-ie">
+				<div class="login-form login-form-ie frm-bar-logon">
 <form action="/en/Users/Account/LogOn?ReturnUrl=%2Fen%2Fservice%2Fprivacy-policy" method="post">						<table class="login-table">
 							<tbody><tr>
 								<td style="width:120px;">Email</td>
@@ -494,22 +421,31 @@ $(document).ready(function(){
 								<td>Password</td>
 								<td class="login-field"><input class="regular size14 black85" type="password" value="" maxlength="40" name="password"></td>
 								<td><button value="draft" name="commit" type="submit"></button></td>
-								</tr>
+							</tr>
+							<tr>
+								<td>
+								</td><td style="padding-top:10px" colspan="2">
+									<div>
+										<label style="float:left;" class="forcheckbox" for="remember-me-widget">Remember Me</label>
+										<input id="remember-me-widget" name="rememberMe" style="margin: 6px 0px 0px 10px; display:inline; padding:0; width:20px;" type="checkbox" value="true"><input name="rememberMe" type="hidden" value="false">						
+									</div>
+								</td>
+							</tr>
 							<tr>
 								<td style="padding-top:10px">&nbsp;</td>
-								<td style="padding-top:10px;"><a href="/en/Users/Account/RequestLostPassword">Forgot password?</a></td>
+								<td style="padding-top:10px;"><a href="/en/Users/Account/RequestLostPassword" class="lnk-bar-forgot-password">Forgot password?</a></td>
 								<td style="padding-top:10px">&nbsp;</td>
 							</tr>
 							<tr>
 								<td>&nbsp;</td>
-																<td colspan="2">
+								<td colspan="2">
 									<a href="" id="facebook-connect-link" style="margin-left:0;" class="piedone-facebook-suite-connect connect-link">
 										Connect with Facebook
 									</a>
 								</td>
 							</tr>
 						</tbody></table>
-<input name="__RequestVerificationToken" type="hidden" value="YquiSDjf9SP3sGcBbdL0zcaXIk3ndl6q8HrEQFAuGJ8z3f21oZyV1RF-XcNXg3gKut19GCON_NjlQAe99DuDoptH0ZMwASrw_oXUajCFIaO-B1kEOu5cTqvY2oAs4g6hGREPhNnHjiWgWfeCBAn7_MjbA-e6Opaf9w1-Rd2L7Qk1"></form>				</div>
+<input name="__RequestVerificationToken" type="hidden" value="LwYcRIO15xRGbi29Yhs-ImVazVKnIJsp5k7BHyj2H4HtrnanlHNLfgcubsGvEToT-hxpurYfCW8fs970GVO1bAeMd_3xaXVsVm7q-q91u97O80KOB84nK8EY6TMNQrhFPjBLLNc7cHZxzSMcEsKdqjsjKFDPQDqk49TqB-NuW0g1"></form>				</div>
 			</div>
 		</div>
 	</div>
@@ -541,10 +477,61 @@ $(document).ready(function(){
 	<!-- Facebook connect scripts -->
 	<script type="text/javascript">
 			$(document).live("facebook:ready", function () {
-				$.facebookConnect.initializeLogin("/Piedone.Facebook.Suite.Connect/Connect/Connect?ReturnUrl=%2Fen%2Fservice%2Fprivacy-policy", "user_about_me", "/Piedone.Facebook.Suite.Connect/Connect/SaveSession", "gaRflok15Kx58r_r5lElTNYAKvW9kbV0wsGkBfZB5E9oJxTWsF7gU28aWmu_JNu3dHj2kULvFlVcd5kVUsxaCBPhRE7_Dloa6RK8ZeXyBIy_ntJWrdWV38UwHfW5Zeb7TEiKFKL7e0w4BaBPnl5CRxOXac_ijRfOU_Ut_P8adZ81");
+				$.facebookConnect.initializeLogin("/Piedone.Facebook.Suite.Connect/Connect/Connect?ReturnUrl=%2Fen%2Fservice%2Fprivacy-policy", "user_about_me", "/Piedone.Facebook.Suite.Connect/Connect/SaveSession", "1I-8LmJgMIEpIFXLK3C7cnBlWwmrVHFi5QqnLAhTjaz_QIdPkpRif__911YNBJQ3icwLQF_kZ0C1Btf7qBXxQWAt1V9SEgE2EYb9RSpoqauBNDRE5eUrxD1nHouqXjNZ87sT-gUdFvzFATEauTKhoxVWpc0hIpEsSr9KF4CMs4s1", function(response) {
+					var isPartnerSite = $('article.widget-PartnerSiteMenu').length > 0;
+					
+					if (response.status === 'connected') { 	// logged in into facebook and authorized
+						AGA.trackEvent('User Bar' + (isPartnerSite ? ' (Partner)' : ''), 'Facebook Connect Attempt', 'connected');
+					} 
+					else if (response.status === 'not_authorized') { // logged in into facebook but not authorized
+						AGA.trackEvent('User Bar' + (isPartnerSite ? ' (Partner)' : ''), 'Facebook Connect Attempt', 'not_authorized');
+					} 
+					else { // not logged into facebook
+						AGA.trackEvent('User Bar' + (isPartnerSite ? ' (Partner)' : ''), 'Facebook Connect Attempt', 'not_authenticated');
+					}
+				});
 		});
 	</script>
- 
+
+<script type="text/javascript">
+	$(function () {
+		var isPartnerSite = $('article.widget-PartnerSiteMenu').length > 0;
+		var isAuthenticated = false;
+		
+		$('div.user_menu').click(function () {
+			AGA.trackEvent('User Bar' + (isPartnerSite ? ' (Partner)' : ''), 'Clicked User Bar', isAuthenticated ? 'authenticated' : 'unauthenticated');
+			
+			return true;
+		});
+		
+		if (!isAuthenticated) {
+			$('#remember-me-widget').change(function () {
+				AGA.trackEvent('User Bar' + (isPartnerSite ? ' (Partner)' : ''), 'Toggled remember me checkbox', this.checked ? 'checked' : 'unchecked');
+			
+				return true;
+			});
+			
+			$('a.lnk-bar-forgot-password').click(function() {
+				return AGA.trackEventAndRedirectWithMaxDelay($(this).attr('href'), 500, 'User Bar' + (isPartnerSite ? ' (Partner)' : ''), 'Clicked Forgot Password Link');
+			});
+			
+			$('div.frm-bar-logon > form').submit(function () {
+				return AGA.trackEventAndSubmitWithMaxDelay($('div.frm-bar-logon > form'), 500, 'User Bar' + (isPartnerSite ? ' (Partner)' : ''), 'Attempting Sign In');
+			});
+		}
+		else {
+			$('.lnk-bar-my-profile').click(function() {
+				return AGA.trackEventAndRedirectWithMaxDelay($(this).attr('href'), 500, 'User Bar' + (isPartnerSite ? ' (Partner)' : ''), 'Clicked My Profile Link');
+			});
+			$('.lnk-bar-logoff').click(function() {
+				return AGA.trackEventAndRedirectWithMaxDelay($(this).attr('href'), 500, 'User Bar' + (isPartnerSite ? ' (Partner)' : ''), 'Clicked Sign Out Link');
+			});
+		}
+		
+
+	});
+</script> 
+
 
 
 </article></div>        
@@ -564,6 +551,11 @@ $(document).ready(function(){
 			</div>
 		</div>
 		<div id="content">
+      <div class="tacx-label">
+        <a href="//www.tacx.com">
+          <img src="/Themes/Tacx2012/Content/tacx-label.png">
+        </a>
+      </div>
 			
 			<div class="zone zone-content">
 
@@ -575,8 +567,7 @@ $(document).ready(function(){
 	<span class="size22 black60 medium"></span>
 	<span class="size16 black60 medium"></span>
 </div>
-<div style="height: 25px; display:block;"></div>
-
+<div style="height: 25px; display:block;" class="title-div-block"></div>
 <div class="topline topline-blue"></div>
 	
 <div style="margin-top:20px;">
@@ -675,7 +666,7 @@ $(document).ready(function(){
 <a class="greylink " href="/en/products/films">Films</a>		<br>
 <a class="greylink " href="/en/products/bottles-bottlecages">Bottles &amp; -cages</a>		<br>
 <a class="greylink " href="/en/products/tools">Tools</a>		<br>
-<a class="greylink " href="/en/products/extra">Extras</a>		<br>
+<a class="greylink " href="/en/products/extra">More Tacx</a>		<br>
 
 		</div>
 		<div id="sitemap-column-2">
@@ -688,6 +679,7 @@ $(document).ready(function(){
 <a class="greylink " href="/en/experience/about-tacx">About Tacx</a>		<br>
 <a class="greylink " href="/en/experience/tacx-coach">Tacx Coach</a>		<br>
 <a class="greylink " href="/en/experience/tacx-teams">Tacx and the teams</a>		<br>
+<a class="greylink " href="/en/experience/ironman">IRONMAN</a>		<br>
 
 		</div>
 		<div id="sitemap-column-3">
@@ -717,32 +709,34 @@ $(document).ready(function(){
 <a class="greylink" href="http://partner.tacx.com/" target="_blank">Partnersite</a>	<br>
 <a class="greylink" href="/en/service/find-a-dealer">Where do I find a dealer?</a>	<br>
 <a class="greylink" href="/en/service/privacy-policy">Privacy Policy</a>	<br>
-<a class="greylink" href="/Media/Default/Service/Conditions/Salesconditions_en.pdf" target="_blank">Terms and Conditions</a>	<br>
+<a class="greylink" href="https://wwwstatic2.tacx.com/Media/Default/Service/Conditions/Salesconditions_en.pdf" target="_blank">Terms and Conditions</a>	<br>
 </div>
 
 <div id="sitemap-column-5">
 	<div class="social-link-container">
 		<div class="button">
-			<a class="social-link darkgreylink" href="http://www.twitter.com/tacx">
+			<a class="social-link darkgreylink lnk-soc-twitter" href="http://www.twitter.com/tacx">
 				<span class="icon-twitter">Tacx Twitter</span>
 			</a>
 		</div>
 	</div>
 	<div class="social-link-container">
 		<div class="button">
-			<a class="social-link darkgreylink" href="http://facebook.tacx.com">
+			<a class="social-link darkgreylink lnk-soc-facebook" href="http://facebook.tacx.com">
 				<span class="icon-facebook">Tacx Facebook</span>
 		  </a>
 		</div>
 	</div>
 	<div class="social-link-container" style="border-bottom:1px transparent">
 		<div class="button">
-			<a class="social-link darkgreylink" href="http://www.youtube.com/tacx">
+			<a class="social-link darkgreylink lnk-soc-youtube" href="http://www.youtube.com/tacx">
 				<span class="icon-youtube">Tacx YouTube channel</span>
 			</a>
 		</div>
 	</div>
 </div>
+
+
 
 
 </article></div>
@@ -753,6 +747,54 @@ $(document).ready(function(){
 	</div>
 </div>
 
+<div class="zone zone-end-of-body">
+<article class="widget-end-of-body widget-aim-cookie-cuttr-widget widget">
+    
+
+
+
+<script type="text/javascript">
+	$(document).ready(function () {
+		var cookiesettings = {};
+			
+		cookiesettings.cookieCutter = false; 
+		cookiesettings.cookieCutterDeclineOnly = false;
+		cookiesettings.cookieAnalytics = false;
+		cookiesettings.cookieDeclineButton = false;
+		cookiesettings.cookieAcceptButton = true;
+		cookiesettings.cookieResetButton = false;
+		cookiesettings.cookieOverlayEnabled = false;
+		cookiesettings.cookiePolicyLink = "/en/service/cookie-policy";
+		cookiesettings.cookieMessage = "This site uses cookies, to, among other things, analyse the website and enhance the visitor experience. By using this website, or by clicking on \u0027OK\u0027, you are consenting to the use of cookies.  \u003ca href=\"{{cookiePolicyLink}}\"\u003ecookie policy\u003c/a\u003e";
+		cookiesettings.cookieAnalyticsMessage = "";
+		cookiesettings.cookieErrorMessage = "";
+		cookiesettings.cookieWhatAreTheyLink = "";
+		cookiesettings.cookieDisable = "";
+		cookiesettings.cookieExpires = 365;
+		cookiesettings.cookieAcceptButtonText = "OK";
+		cookiesettings.cookieDeclineButtonText = "";
+		cookiesettings.cookieResetButtonText = "";
+		cookiesettings.cookieWhatAreLinkText = "http://www.allaboutcookies.org/";
+		cookiesettings.cookieNotificationLocationBottom = true;       
+		cookiesettings.cookiePolicyPage = false;
+		cookiesettings.cookiePolicyPageMessage = "";
+		cookiesettings.cookieDiscreetLink = false;
+		cookiesettings.cookieDiscreetReset = false;
+		cookiesettings.cookieDiscreetLinkText = "";
+		cookiesettings.cookieDiscreetPosition = false;
+		cookiesettings.cookieNoMessage = false;
+		cookiesettings.cookieDomain = "";
+
+		$.cookieCuttr(cookiesettings);
+	});
+</script>
+
+
+
+
+
+
+</article></div>
 <script type="text/javascript">
 	$(document).ready(function () {
 		$("#language").hover(function () {
