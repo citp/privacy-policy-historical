@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catholichealth.net privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106125933id_/http%3A//www.catholichealth.net/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholichealth.net privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407184417id_/http%3A//www.catholichealth.net/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy Denver, Colorado (CO) - Catholic Health Initiatives
 
@@ -7,10 +7,11 @@
 Website Privacy Policy  
   
 ---  
-| [Website Privacy Policy](https://web.archive.org/web/20131106125933id_/http%3A//www.catholichealth.net/website-privacy-policy)  
+| [CHI Culture Preview](https://web.archive.org/web/20140407184417id_/http%3A//www.catholichealth.net/culture-project-39709)  
 ---  
-[Contact Us](https://web.archive.org/web/20131106125933id_/http%3A//www.catholichealth.net/contact-us)  
-[Terms and Conditions](https://web.archive.org/web/20131106125933id_/http%3A//www.catholichealth.net/terms-and-conditions)  
+[Website Privacy Policy](https://web.archive.org/web/20140407184417id_/http%3A//www.catholichealth.net/website-privacy-policy)  
+[Contact Us](https://web.archive.org/web/20140407184417id_/http%3A//www.catholichealth.net/contact-us)  
+[Terms and Conditions](https://web.archive.org/web/20140407184417id_/http%3A//www.catholichealth.net/terms-and-conditions)  
   
 ### **Privacy Policy**
 
@@ -49,9 +50,9 @@ If a User’s personally identifiable information changes (such as your zip code
   *   * 
 
 
-| [Mercy Clinics Recognized for Innovative Primary Care Staffing](https://web.archive.org/web/20131106125933id_/http%3A//www.catholichealth.net/body.cfm?id=37543&action=detail&ref=1177)  
+| [Centura Health Announces Three New Health Centers for North Denver](https://web.archive.org/web/20140407184417id_/http%3A//www.catholichealth.net/body.cfm?id=37543&action=detail&ref=1242)  
 ---  
-[CHI Hospitals Recognized by The Joint Commission](https://web.archive.org/web/20131106125933id_/http%3A//www.catholichealth.net/body.cfm?id=37543&action=detail&ref=1176)  
-[Five CHI Hospitals Receive Consumer Choice Awards](https://web.archive.org/web/20131106125933id_/http%3A//www.catholichealth.net/body.cfm?id=37543&action=detail&ref=1175)  
+[CHI Reaches Agreement on Acquisition of QualChoice Holdings](https://web.archive.org/web/20140407184417id_/http%3A//www.catholichealth.net/body.cfm?id=37543&action=detail&ref=1240)  
+[Mercy Hot Springs Transfers to St. Vincent Health System](https://web.archive.org/web/20140407184417id_/http%3A//www.catholichealth.net/body.cfm?id=37543&action=detail&ref=1241)  
   
-[](https://web.archive.org/web/20131106125933id_/http%3A//www.catholichealth.net/body.cfm?ID=39279)
+[](https://web.archive.org/web/20140407184417id_/http%3A//www.catholichealth.net/body.cfm?ID=39279)
