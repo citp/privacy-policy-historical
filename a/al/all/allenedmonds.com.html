@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the allenedmonds.com privacy policy that was archived on 2013-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131127234713id_/http%3A//www.allenedmonds.com/aeonline/PrivacyView%3FcatalogId%3D40000000001%26langId%3D-1%26storeId%3D1) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allenedmonds.com privacy policy that was archived on 2014-04-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140407185025id_/http%3A//www.allenedmonds.com/aeonline/PrivacyView%3FcatalogId%3D40000000001%26langId%3D-1%26storeId%3D1) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="dj_webkit dj_contentbox"><head>
 
@@ -19,7 +19,7 @@
 
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<script src="//tags.tiqcdn.com/utag/allenedmonds/main/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript" src="/wcsstore/dojo131/dojo/dojo.js" djconfig="parseOnLoad: false, isDebug: false, useCommentedJson: true,locale: 'en-us' "></script>
+<script type="text/javascript" src="/wcsstore/dojo131/dojo/dojo.js" djconfig="parseOnLoad: false, isDebug: false, useCommentedJson: true,locale: 'en-us' "></script>
 <!-- BEGIN CommonJSToInclude.jspf -->
 <link rel="stylesheet" href="/wcsstore/AllenEdmonds/css/common2_1.css" type="text/css">
 <!--[if IE 7]>
@@ -117,7 +117,7 @@ function cycleBackgroundImage()
 <script type="text/javascript" language="javascript" src="/wcsstore/AllenEdmonds//javascript/Adobe/mbox.js"></script>
 
 <script type="text/javascript" src="/wcsstore/AllenEdmonds/javascript/Common.js"></script>
-
+<script defer="" type="text/javascript" src="/wcsstore/AllenEdmonds/javascript/Search.js"></script>
 <script type="text/javascript">
   dojo.addOnLoad(function() {
 		CommonContextsJS.setCommonParameters('-1','1','40000000001');
@@ -159,21 +159,60 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "stats.g.doubleclick.net/
 </script><script src="https://stats.g.doubleclick.net/dc.js" type="text/javascript"></script>
 <script type="text/javascript">
 <!--
+/*
 var pageTracker = _gat._getTracker("UA-3370851-1");
 pageTracker._initData();
 pageTracker._trackPageview();
+*/
+
+var _gaq = _gaq || [];
+_gaq.push(["_setAccount", "UA-3370851-1"]);
+_gaq.push(["_trackPageview"]);
+
 
 function recordOutboundLink(link, category, action) {
   try {    
-    pageTracker._trackEvent(category, action);
+    //pageTracker._trackEvent(category, action);
+    _gaq.push(['_trackEvent', category, action]);
     setTimeout('document.location = "' + link.href + '"', 100);
   }catch(err){}
 }
 function recordOutboundLinkWindowOpen(link, category, action) {
   try {    
-    pageTracker._trackEvent(category, action);
+    //pageTracker._trackEvent(category, action);
+    _gaq.push(['_trackEvent', category, action]);
     setTimeout('window.open = "' + link.href + '"', 100);
   }catch(err){}
+}
+
+function undefinedIfEmpty(param) {
+	if(param) {
+		return param;
+	} else {
+		return;
+	}
+}
+
+function trackEvent(category, action, label, value) {
+	category = undefinedIfEmpty(category);
+	action = undefinedIfEmpty(action);
+	label = undefinedIfEmpty(label);
+	value = undefinedIfEmpty(value);
+	
+	_gaq.push(['_trackEvent', category, action, label,  value]);
+}
+
+function trackAddTrans(transactionId, affiliation, total, tax, shipping, city, state, country) {
+	_gaq.push(['_addTrans',transactionId, affiliation, total, tax, shipping, city, state, country]);
+	
+}
+
+function trackAddIransItem(transactionId, sku, name, category, price, quantity) {
+	_gaq.push(['_addItem', transactionId, sku, name, category, price, quantity]);
+}
+
+function trackTrans() {
+	_gaq.push(['_trackTrans']);
 }
 
 // -->
@@ -183,11 +222,7 @@ function recordOutboundLinkWindowOpen(link, category, action) {
 </script>
 </head>
 <body>
-<!-- ClickTale Top part -->
-<script type="text/javascript">
-	var WRInitTime=(new Date()).getTime();
-</script>
-<!-- ClickTale end of Top part --><!-- BEGIN StoreCommonUtilities.jspf -->
+<!-- BEGIN StoreCommonUtilities.jspf -->
 <script type="text/javascript" src="/wcsstore/AllenEdmonds/javascript/StoreCommonUtilities.js"></script>
 <script type="text/javascript">
 		
@@ -215,26 +250,8 @@ function recordOutboundLinkWindowOpen(link, category, action) {
 <!-- END: ChannelAdvisor Pixel --><!-- END StoreCommonUtilities.jspf --><!-- Page Start -->
 <div id="contentpage">
 	<!-- Header Start --><!-- BEGIN LayoutContainerTop.jspf --><!-- BEGIN HeaderDisplay.jspf --><!--  The following is used to create the utag_data tealium variable (for now) -->
-<script type="text/JavaScript"> 
-var utag_data = {
-	country_code : "us",
-	language_code : "en", 
-	is_user_authenticated : "0"  ,	
-	customer_email :  "",
-	customer_id : "",
-	customer_first_name : "",
-	customer_city : "",   
-	customer_country : "",  
-	customer_id : "",
-	customer_state : "",
-	customer_zip : ""
-}
-
-if(utag_data.customer_first_name=='')
-{
-	utag_data.customer_first_name = "Guest";
-}
-</script><!-- BEGIN Global Adobe TnT script-->
+	<script type="text/javascript" src="/webapp/wcs/stores/servlet/NoCacheVarsAsJSON?langId=-1&amp;storeId=1&amp;catalogId=40000000001"></script>
+<!-- BEGIN Global Adobe TnT script-->
 <div class="mboxDefault"></div>
 
 <script language="javascript1.2">
@@ -504,6 +521,14 @@ mboxCreate('global');
 		<!--  <a href='#' onclick='javascript:window.open = null;};'>win close</a>-->
 		
 			<script type="text/javascript">
+			function trackGoogleEmailPopupEvent() {
+				var category, action, label, value;
+				category = "EmailJoin";
+				action = "subscribe";
+				label = "PopUp";
+				value = "";
+				trackEvent(category, action, label, value);
+			}
 			
 			function showHideSubscriberEmailPopup() {	
 				el = document.getElementById("overlay");
@@ -525,7 +550,8 @@ mboxCreate('global');
 			*/		
 				
 				var emailVal =  document.getElementById("email").value;				
-				if(isEmailValid(emailVal)){	     
+				if(isEmailValid(emailVal)){
+					trackGoogleEmailPopupEvent();	     
 				    document.getElementById('ae-popupError2').style.display='none';	
 			    	document.getElementById('ae-popupError1').style.display='block';
 			    	showHideSubscriberEmailPopup();
@@ -664,12 +690,12 @@ mboxCreate('global');
 					return (emailValid);
 					} 
 		
-				if(document.URL.indexOf("utm_source=PromotionalEmail") != -1 || document.URL.indexOf("webapp") != -1 ) {
+				
+				if(document.URL.indexOf("utm_source=PromotionalEmail") != -1) {
 		  			noThanks();
 					} else {
 		  			//n; //nothing was required to be executed here;
 				}  
-		       
 		        
 		        if(getPageClicks() == 2 && !GetSubscriberCookie("AESubscriberPopUpShown") && GetSubscriberCookie('AESubscriberPopUpClosed')!=3) {        	
 			        showHideSubscriberEmailPopup();
@@ -696,8 +722,8 @@ mboxCreate('global');
 <div class="genericESpot">
 <!--
 	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td>  </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td>  </td></tr>
+	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 28037 </td></tr>
+	<tr><td>MarketingSpotIdentifier Name:</td> <td> headerTop_EMS </td></tr>
 	</table>			
 -->
 
@@ -710,7 +736,11 @@ mboxCreate('global');
 	mboxCreate('headerEMSMbox');
 	</script>
  
-  <!-- TOP HEADER ESPOTS END --><!-- BEGIN CachedHeaderDisplay.jsp --><!-- BEGIN APPAREL MARKUP -->
+  <!-- TOP HEADER ESPOTS END --><!-- BEGIN CachedHeaderDisplay.jsp -->
+
+
+		<meta name="CommerceSearch" content="storeId_1">
+		<!-- BEGIN APPAREL MARKUP -->
 <script type="text/javascript">
 var is_touch_device = 'ontouchstart' in document.documentElement;
 if(is_touch_device) {
@@ -829,14 +859,18 @@ dojo.addOnLoad(function(){
  });
 
 </script>
-<!-- END APPAREL MARKUP -->
-									
+<!-- END APPAREL MARKUP -->							
 <script type="text/javascript">
 	
    var initialShopCartRefresh = false;
-  
+  	// The primary Array to hold all static search suggestions
+	var staticContent = new Array();
+	// The titles of each search grouping
+	var staticContentHeaders = new Array();
 	dojo.addOnLoad(function() {
 	parseWidget("MyAccountContainer");  
+			parseWidget("autoSuggest_Result_div");
+		parseWidget("autoSuggestCachedSuggestions_div");
 	writeValueToCookie('lastViewedCatalogPageURL',document.location.href);
 	var shopCartTotal = document.getElementById('shopCartTotal');
 	if(shopCartTotal != null)
@@ -856,6 +890,10 @@ dojo.addOnLoad(function(){
 			writeBlueHornetCookie(bhRoiData);
 		}
 		//Blue Hornet Revenue Tracking - End 
+		SearchJS.setCachedSuggestionsURL('http://www.allenedmonds.com/aeonline/SearchComponentCachedSuggestionsView?catalogId=40000000001&amp;langId=-1&amp;storeId=1');
+		SearchJS.setAutoSuggestURL('http://www.allenedmonds.com/aeonline/SearchComponentAutoSuggestView?catalogId=40000000001&amp;langId=-1&amp;coreName=MC_40000000001_CatalogEntry_en_US&amp;storeId=1&amp;serverURL=http%3A%2F%2Fkramer.allenedmonds.com%3A3737%2Fsolr%2FMC_40000000001_CatalogEntry_en_US');
+	    SearchJS.init();
+
 	});
 	
 	var storeId = '1';
@@ -884,17 +922,59 @@ dojo.addOnLoad(function(){
 	<div id="header">
 
 		<div id="header_logo2">
-			<a href="http://www.allenedmonds.com/" id="WC_CachedHeaderDisplay_Link_1"><img id="logo-img" class="headerfooter-sprite" src="/wcsstore/dojo131/dojo/resources/blank.gif" alt="Allen Edmonds Shoes"></a>
+			<a href="http://www.allenedmonds.com/" id="WC_CachedHeaderDisplay_Link_1"><img id="logo-img" class="headerfooter-sprite" src="/wcsstore/dojo131/dojo/resources/blank.gif" alt="Allen Edmonds Mens Shoes"></a>
 		</div>
+		<!-- Start SearchDropdownWidget -->
+					 	<div id="as_section">
+						<div id="autoSuggest_Result_div" style="display:none;">
+					
+							<div id="widget_search_dropdown" class="widget_search_dropdown_position">
+								<div class="widget_search_dropdown">						 
+									<div class="clearDiv"></div>							
+									<!-- Main Content Area -->
+									<div class="content_left_border">
+										<div class="content_right_border">
+							
+											<div id="AutoSuggestDiv" class="content" role="region" aria-required="true" aria-labelledby="AutoSuggestDiv" onmouseover="SearchJS.autoSuggestHover = true;" onmouseout="SearchJS.autoSuggestHover = false; document.getElementById('headerSrchFieldInput').focus();">
+												
+								  
+													<div dojotype="wc.widget.RefreshArea" widgetid="autoSuggestDisplay_Widget" controllerid="AutoSuggestDisplayController" id="autoSuggestDynamic_Result_div" role="region" aria-live="polite" aria-atomic="true" aria-relevant="all" aria-labelledby="autoSuggestDynamic_Result_div_ACCE_Label">
+														
+													</div>
+							
+													<div id="autoSuggestStatic_1"></div>
+													<div id="autoSuggestStatic_2"></div>
+													<div id="autoSuggestStatic_3"></div>
+													<div id="autoSuggestHistory"></div>											 
+							
+											<!-- End content Section -->
+											</div>
+							
+										<!-- End content_right_border -->
+										</div>
+									<!-- End content_left_border -->
+									</div>
+						 
+									
+								</div>
+							</div>
+						
+						</div>
+						<!-- End SearchDropdownWidget --><!-- Refresh area to retrieve cached suggestions -->
+						<span id="autoSuggestCachedSuggestions_div_ACCE_Label" class="spanacce"></span>
+						<div dojotype="wc.widget.RefreshArea" widgetid="AutoSuggestCachedSuggestions" controllerid="AutoSuggestCachedSuggestionsController" id="autoSuggestCachedSuggestions_div" role="region" aria-live="polite" aria-atomic="true" aria-relevant="all" style="display:none;" aria-labelledby="autoSuggestCachedSuggestions_div_ACCE_Label">
+						</div>
+						</div>	
 		<!-- BEGIN APPAREL MARKUP -->
 	<div id="header_top">
 		
 		<div id="header_links_holder"><!-- This doesn't move -->
 			<div id="header_links">	<!-- This does move --><!-- div id="headerSrchField2_spacer"></div-->	
-					<!-- <input id="headerSrchFieldInput" type="text"  name="searchTerm" size="30" /> -->
-					
-					
-					<form name="CatalogSearchForm" action="SearchDislay" method="get" id="CatalogSearchForm2" onsubmit="document.CatalogSearchForm.searchTerm.value=trim(document.CatalogSearchForm.searchTerm.value);document.CatalogSearchForm.action=getAbsoluteURL()+'SearchDisplay'; submitSpecifiedForm(document.CatalogSearchForm);">
+					<!-- <input id="headerSrchFieldInput" type="text"  name="searchTerm" size="30" /> -->			 				
+
+				
+
+					<form name="CatalogSearchForm" action="/aeonline/SearchDisplay" method="get" id="CatalogSearchForm2">
 					  	<input type="hidden" name="storeId" value="1" id="WC_CachedHeaderDisplay_FormInput_storeId_In_CatalogSearchForm_1">
 						<input type="hidden" name="catalogId" value="40000000001" id="WC_CachedHeaderDisplay_FormInput_catalogId_In_CatalogSearchForm_1">
 						<input type="hidden" name="langId" value="-1" id="WC_CachedHeaderDisplay_FormInput_langId_In_CatalogSearchForm_1">
@@ -902,12 +982,9 @@ dojo.addOnLoad(function(){
 						<input type="hidden" name="beginIndex" value="0" id="WC_CachedHeaderDisplay_FormInput_beginIndex_In_CatalogSearchForm_1">				 
 						<input type="hidden" name="showResultsPage" value="true" id="WC_CachedHeaderDisplay_input_1">
 						<input type="hidden" name="pageView" value="image" id="WC_CachedHeaderDisplay_input_2">
-						<input id="headerSrchFieldInput" name="searchTerm" type="text" tabindex="2" onkeypress="if(event.keyCode==13) javascript:this.value=trim(this.value);">
-					 		
-							
-							
-					 </form>
-						
+						<input id="headerSrchFieldInput" name="searchTerm" type="text" tabindex="2" onkeypress="return SearchJS._onKeyPress(event);">												
+					 </form>					 	
+									 
 					<div id="header_links_bag" class="header-bag-not-selected" onmouseover="miniShopCartMouseOver(); showMiniShopCartDropDown(event, 'miniMyAccountLeftCorner','quick_cart_container','orderItemsList');" onmouseout="miniShopCartMouseOut();">
 						
 						<a id="headerShopCartURL" href="http://www.allenedmonds.com/aeonline/OrderCalculate?calculationUsageId=-1&amp;updatePrices=1&amp;catalogId=40000000001&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=-1&amp;storeId=1&amp;URL=AjaxOrderItemDisplayView">			 
@@ -991,7 +1068,7 @@ dojo.addOnLoad(function(){
 				</div><!-- header_links -->
 			</div><!-- header_links_holder -->
 			 
-			<button id="header_search_button" onclick="document.CatalogSearchForm.searchTerm.value=trim(document.CatalogSearchForm.searchTerm.value);document.CatalogSearchForm.action=getAbsoluteURL()+'AjaxCatalogSearchView'; submitSpecifiedForm(document.CatalogSearchForm);" tabindex="1">
+			<button id="header_search_button" onclick="if(trim(document.CatalogSearchForm.searchTerm.value).length > 0){document.CatalogSearchForm.searchTerm.value=trim(document.CatalogSearchForm.searchTerm.value);document.CatalogSearchForm.action=getAbsoluteURL()+'SearchDisplay'; submitSpecifiedForm(document.CatalogSearchForm)};" tabindex="1">
 				<img src="/wcsstore/AllenEdmonds/images/search.png"> 
 			</button>
 			
@@ -1183,47 +1260,36 @@ mboxCreate('TopNavMenu');
 		
             <div id="WC_ContentAreaESpot_div_16_1" class="thumb-display">
                 <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->
-		
-			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6526418_div_1">
+						 <img class="clearancebanner" src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/ribbon_webgem.png">
+						 	
+			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6672068_div_1">
 				
-				<img src="/wcsstore/AllenEdmonds/upload/images/database/allenedmonds_shoes_vernon_brown_m.jpg" alt="Vernon Dress Oxfords The price is $239.00." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=13891&amp;intv_id=10009&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6526418&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF8808');">
+				<img src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/allenedmonds_shoes_macneil-5_burgundy-khaki-thread_m.jpg" alt="MacNeil 5 Wingtips The price is $315.00." class="thumbnailImageWithRibbon thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF9005_1_40000000001_-1_');">
 			 
 			</div>
 			<div class="thumb-product-name-cell">
-				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=13891&amp;intv_id=10009&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6526418&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF8808');">
-					<a href="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=13891&amp;intv_id=10009&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6526418&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF8808">
-						Vernon Dress Oxfords
+				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF9005_1_40000000001_-1_');">
+					<a href="http://www.allenedmonds.com/aeonline/producti_SF9005_1_40000000001_-1_">
+						MacNeil 5 Wingtips
 					</a>
 				</div>
 				
 			</div>
 			<div class="thumb-product-price-cell">
-					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf --><!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="listPriceCategories">
-			$345.00
-		</span>
-		
-		<!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="productDisplayPriceRed">
-			&nbsp;&nbsp;$239.00
-		</span>
-
-	<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
+					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf -->
+			<span class="categoriesDisplayPrice">
+				$315.00
+			</span>
+		<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
 			</div>
 			<div class="clearDiv"></div>
 		
 			 
 			 
 	
-    <input type="hidden" id="compareImgPath_6526418" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_shoes_vernon_brown_m.jpg">
-    <input type="hidden" id="compareProductDetailsPath_6526418" value="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=13891&amp;intv_id=10009&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6526418&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF8808">
-    <input type="hidden" id="compareImgDescription_6526418" value="Vernon Dress Oxfords">
+    <input type="hidden" id="compareImgPath_6672068" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_shoes_macneil-5_burgundy-khaki-thread_m.jpg">
+    <input type="hidden" id="compareProductDetailsPath_6672068" value="http://www.allenedmonds.com/aeonline/producti_SF9005_1_40000000001_-1_">
+    <input type="hidden" id="compareImgDescription_6672068" value="MacNeil 5 Wingtips">
 	<!-- END CatalogEntryThumbnailDisplay.jsp -->
             </div>
         </td>
@@ -1232,48 +1298,35 @@ mboxCreate('TopNavMenu');
         <td class="thumb-display" id="WC_ContentAreaESpot_td_2_2">
 		
             <div id="WC_ContentAreaESpot_div_16_2" class="thumb-display-padded">
-                <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->
-		
-			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6658817_div_1">
+                <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->	
+			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_590000_div_1">
 				
-				<img src="/wcsstore/AllenEdmonds/upload/images/database/allenedmonds_shoes_mcadam_black-calf_m.jpg" alt="McAdam Dress Boots The price is $197.00." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=13891&amp;intv_id=10009&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6658817&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF9011');">
+				<img src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/allenedmonds_shoes_park-avenue_black_m.jpg" alt="Park Avenue Cap-toe Oxfords The price is $365.00." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF270_1_40000000001_-1_');">
 			 
 			</div>
 			<div class="thumb-product-name-cell">
-				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=13891&amp;intv_id=10009&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6658817&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF9011');">
-					<a href="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=13891&amp;intv_id=10009&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6658817&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF9011">
-						McAdam Dress Boots
+				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF270_1_40000000001_-1_');">
+					<a href="http://www.allenedmonds.com/aeonline/producti_SF270_1_40000000001_-1_">
+						Park Avenue Cap-toe Oxfords
 					</a>
 				</div>
 				
 			</div>
 			<div class="thumb-product-price-cell">
-					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf --><!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="listPriceCategories">
-			$295.00
-		</span>
-		
-		<!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="productDisplayPriceRed">
-			&nbsp;&nbsp;$197.00
-		</span>
-
-	<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
+					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf -->
+			<span class="categoriesDisplayPrice">
+				$365.00
+			</span>
+		<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
 			</div>
 			<div class="clearDiv"></div>
 		
 			 
 			 
 	
-    <input type="hidden" id="compareImgPath_6658817" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_shoes_mcadam_black-calf_m.jpg">
-    <input type="hidden" id="compareProductDetailsPath_6658817" value="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=13891&amp;intv_id=10009&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6658817&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF9011">
-    <input type="hidden" id="compareImgDescription_6658817" value="McAdam Dress Boots">
+    <input type="hidden" id="compareImgPath_590000" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_shoes_park-avenue_black_m.jpg">
+    <input type="hidden" id="compareProductDetailsPath_590000" value="http://www.allenedmonds.com/aeonline/producti_SF270_1_40000000001_-1_">
+    <input type="hidden" id="compareImgDescription_590000" value="Park Avenue Cap-toe Oxfords">
 	<!-- END CatalogEntryThumbnailDisplay.jsp -->
             </div>
         </td>
@@ -1320,6 +1373,10 @@ mboxCreate('TopNavMenu');
 											<div class="header_nav_submenu_head">Men's Clothing</div>
 											
 													<div class="header_nav_submenuitem">
+														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Apparel_1_40000000001_-1_1_image_0_N_129207_129207_134809_subcategory__">New Arrivals</a></span>
+													</div>	
+													
+													<div class="header_nav_submenuitem">
 														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Apparel_1_40000000001_-1_1_image_0_N_129207_129207_130314_subcategory__">Sport Coats &amp; Vests</a></span>
 													</div>	
 													
@@ -1354,14 +1411,6 @@ mboxCreate('TopNavMenu');
 										</div>
 										
 										<div class="header_nav_submenu header_nav_submenu_catgroup">
-											<!-- Apparel : Looks -->
-												<div class="header_nav_submenuitem">
-													<span>
-														<a href="http://www.allenedmonds.com/aeonline/cati2_Looks_1_40000000001_-1_1_image_0_N_148357_148357__subcategory__">
-															Looks
-														</a>
-													</span>
-												</div>
 											<!-- Apparel : LeatherGoods -->
 												<div class="header_nav_submenuitem">
 													<span>
@@ -1417,47 +1466,36 @@ mboxCreate('TopNavMenu');
 		
             <div id="WC_ContentAreaESpot_div_16_1" class="thumb-display">
                 <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->
-		
-			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6651939_div_1">
+						 <img class="clearancebanner" src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/ribbon_new.png">
+						 	
+			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6670417_div_1">
 				
-				<img src="/wcsstore/AllenEdmonds/upload/images/database/allenedmonds_sport-coat_multi-check_grey_m.jpg" alt="Multi Check Sport Coat The price is $260.25." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=13888&amp;intv_id=10006&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6651939&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSFAE2004');">
+				<img src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/allenedmonds_spring-2014_sport-coats_glen-plaid_grey_m.jpg" alt="Grey Glen Plaid Sport Coat The price is $495.00." class="thumbnailImageWithRibbon thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SFAE2012_1_40000000001_-1_');">
 			 
 			</div>
 			<div class="thumb-product-name-cell">
-				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=13888&amp;intv_id=10006&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6651939&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSFAE2004');">
-					<a href="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=13888&amp;intv_id=10006&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6651939&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSFAE2004">
-						Multi Check Sport Coat
+				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SFAE2012_1_40000000001_-1_');">
+					<a href="http://www.allenedmonds.com/aeonline/producti_SFAE2012_1_40000000001_-1_">
+						Grey Glen Plaid Sport Coat
 					</a>
 				</div>
 				
 			</div>
 			<div class="thumb-product-price-cell">
-					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf --><!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="listPriceCategories">
-			$495.00
-		</span>
-		
-		<!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="productDisplayPriceRed">
-			&nbsp;&nbsp;$260.25
-		</span>
-
-	<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
+					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf -->
+			<span class="categoriesDisplayPrice">
+				$495.00
+			</span>
+		<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
 			</div>
 			<div class="clearDiv"></div>
 		
 			 
 			 
 	
-    <input type="hidden" id="compareImgPath_6651939" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_sport-coat_multi-check_grey_m.jpg">
-    <input type="hidden" id="compareProductDetailsPath_6651939" value="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=13888&amp;intv_id=10006&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6651939&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSFAE2004">
-    <input type="hidden" id="compareImgDescription_6651939" value="Multi Check Sport Coat">
+    <input type="hidden" id="compareImgPath_6670417" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_spring-2014_sport-coats_glen-plaid_grey_m.jpg">
+    <input type="hidden" id="compareProductDetailsPath_6670417" value="http://www.allenedmonds.com/aeonline/producti_SFAE2012_1_40000000001_-1_">
+    <input type="hidden" id="compareImgDescription_6670417" value="Grey Glen Plaid Sport Coat">
 	<!-- END CatalogEntryThumbnailDisplay.jsp -->
             </div>
         </td>
@@ -1467,47 +1505,36 @@ mboxCreate('TopNavMenu');
 		
             <div id="WC_ContentAreaESpot_div_16_2" class="thumb-display-padded">
                 <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->
-		
-			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6646645_div_1">
+						 <img class="clearancebanner" src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/ribbon_new.png">
+						 	
+			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6670483_div_1">
 				
-				<img src="/wcsstore/AllenEdmonds/upload/images/database/allenedmonds_pants_charcoal-twill-trousers_m.jpg" alt="Charcoal Wool Dress Pants The price is $146.25." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=13888&amp;intv_id=10006&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6646645&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSFAE8000');">
+				<img src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/allenedmonds_spring-2014_shirts_micro-check_purple_m.jpg" alt="Mini Check Button Down Collar Dress Shirt The price is $115.00." class="thumbnailImageWithRibbon thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SFAE1010_1_40000000001_-1_');">
 			 
 			</div>
 			<div class="thumb-product-name-cell">
-				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=13888&amp;intv_id=10006&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6646645&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSFAE8000');">
-					<a href="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=13888&amp;intv_id=10006&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6646645&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSFAE8000">
-						Charcoal Wool Dress Pants
+				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SFAE1010_1_40000000001_-1_');">
+					<a href="http://www.allenedmonds.com/aeonline/producti_SFAE1010_1_40000000001_-1_">
+						Mini Check Button Down Collar Dress Shirt
 					</a>
 				</div>
 				
 			</div>
 			<div class="thumb-product-price-cell">
-					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf --><!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="listPriceCategories">
-			$195.00
-		</span>
-		
-		<!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="productDisplayPriceRed">
-			&nbsp;&nbsp;$146.25
-		</span>
-
-	<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
+					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf -->
+			<span class="categoriesDisplayPrice">
+				$115.00
+			</span>
+		<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
 			</div>
 			<div class="clearDiv"></div>
 		
 			 
 			 
 	
-    <input type="hidden" id="compareImgPath_6646645" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_pants_charcoal-twill-trousers_m.jpg">
-    <input type="hidden" id="compareProductDetailsPath_6646645" value="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=13888&amp;intv_id=10006&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6646645&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSFAE8000">
-    <input type="hidden" id="compareImgDescription_6646645" value="Charcoal Wool Dress Pants">
+    <input type="hidden" id="compareImgPath_6670483" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_spring-2014_shirts_micro-check_purple_m.jpg">
+    <input type="hidden" id="compareProductDetailsPath_6670483" value="http://www.allenedmonds.com/aeonline/producti_SFAE1010_1_40000000001_-1_">
+    <input type="hidden" id="compareImgDescription_6670483" value="Mini Check Button Down Collar Dress Shirt">
 	<!-- END CatalogEntryThumbnailDisplay.jsp -->
             </div>
         </td>
@@ -1640,47 +1667,36 @@ mboxCreate('TopNavMenu');
 		
             <div id="WC_ContentAreaESpot_div_16_1" class="thumb-display">
                 <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->
-		
-			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6623667_div_1">
+						 <img class="clearancebanner" src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/ribbon_new.png">
+						 	
+			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6670890_div_1">
 				
-				<img src="/wcsstore/AllenEdmonds/upload/images/database/allenedmonds_belts_arrow-creek_m.jpg" alt="Arrow Creek The price is $69.00." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=25937&amp;intv_id=10007&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6623667&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF31811');">
+				<img src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/allenedmonds_belts_man-creek_black_m.jpg" alt="Man Creek The price is $98.00." class="thumbnailImageWithRibbon thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF37231_1_40000000001_-1_');">
 			 
 			</div>
 			<div class="thumb-product-name-cell">
-				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=25937&amp;intv_id=10007&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6623667&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF31811');">
-					<a href="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=25937&amp;intv_id=10007&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6623667&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF31811">
-						Arrow Creek
+				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF37231_1_40000000001_-1_');">
+					<a href="http://www.allenedmonds.com/aeonline/producti_SF37231_1_40000000001_-1_">
+						Man Creek
 					</a>
 				</div>
 				
 			</div>
 			<div class="thumb-product-price-cell">
-					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf --><!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="listPriceCategories">
-			$98.00
-		</span>
-		
-		<!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="productDisplayPriceRed">
-			&nbsp;&nbsp;$69.00
-		</span>
-
-	<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
+					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf -->
+			<span class="categoriesDisplayPrice">
+				$98.00
+			</span>
+		<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
 			</div>
 			<div class="clearDiv"></div>
 		
 			 
 			 
 	
-    <input type="hidden" id="compareImgPath_6623667" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_belts_arrow-creek_m.jpg">
-    <input type="hidden" id="compareProductDetailsPath_6623667" value="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=25937&amp;intv_id=10007&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6623667&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF31811">
-    <input type="hidden" id="compareImgDescription_6623667" value="Arrow Creek">
+    <input type="hidden" id="compareImgPath_6670890" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_belts_man-creek_black_m.jpg">
+    <input type="hidden" id="compareProductDetailsPath_6670890" value="http://www.allenedmonds.com/aeonline/producti_SF37231_1_40000000001_-1_">
+    <input type="hidden" id="compareImgDescription_6670890" value="Man Creek">
 	<!-- END CatalogEntryThumbnailDisplay.jsp -->
             </div>
         </td>
@@ -1689,48 +1705,35 @@ mboxCreate('TopNavMenu');
         <td class="thumb-display" id="WC_ContentAreaESpot_td_2_2">
 		
             <div id="WC_ContentAreaESpot_div_16_2" class="thumb-display-padded">
-                <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->
-		
-			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6648201_div_1">
+                <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->	
+			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6648221_div_1">
 				
-				<img src="/wcsstore/AllenEdmonds/upload/images/database/allen-edmonds_leather-goods_strand-collection_double-flap-briefcase_walnut_m.jpg" alt="Strand Double Flap Briefcase The price is $516.00." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=25937&amp;intv_id=10007&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6648201&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF98690A');">
+				<img src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/allen-edmonds_leather-goods_park-avenue-collection_duffle-bag_black_m.jpg" alt="Park Avenue Duffel Bag The price is $695.00." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF98511A_1_40000000001_-1_');">
 			 
 			</div>
 			<div class="thumb-product-name-cell">
-				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=25937&amp;intv_id=10007&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6648201&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF98690A');">
-					<a href="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=25937&amp;intv_id=10007&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6648201&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF98690A">
-						Strand Double Flap Briefcase
+				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF98511A_1_40000000001_-1_');">
+					<a href="http://www.allenedmonds.com/aeonline/producti_SF98511A_1_40000000001_-1_">
+						Park Avenue Duffel Bag
 					</a>
 				</div>
 				
 			</div>
 			<div class="thumb-product-price-cell">
-					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf --><!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="listPriceCategories">
-			$645.00
-		</span>
-		
-		<!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="productDisplayPriceRed">
-			&nbsp;&nbsp;$516.00
-		</span>
-
-	<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
+					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf -->
+			<span class="categoriesDisplayPrice">
+				$695.00
+			</span>
+		<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
 			</div>
 			<div class="clearDiv"></div>
 		
 			 
 			 
 	
-    <input type="hidden" id="compareImgPath_6648201" value="/wcsstore/AllenEdmonds/images/database/allen-edmonds_leather-goods_strand-collection_double-flap-briefcase_walnut_m.jpg">
-    <input type="hidden" id="compareProductDetailsPath_6648201" value="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=25937&amp;intv_id=10007&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6648201&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF98690A">
-    <input type="hidden" id="compareImgDescription_6648201" value="Strand Double Flap Briefcase">
+    <input type="hidden" id="compareImgPath_6648221" value="/wcsstore/AllenEdmonds/images/database/allen-edmonds_leather-goods_park-avenue-collection_duffle-bag_black_m.jpg">
+    <input type="hidden" id="compareProductDetailsPath_6648221" value="http://www.allenedmonds.com/aeonline/producti_SF98511A_1_40000000001_-1_">
+    <input type="hidden" id="compareImgDescription_6648221" value="Park Avenue Duffel Bag">
 	<!-- END CatalogEntryThumbnailDisplay.jsp -->
             </div>
         </td>
@@ -1838,47 +1841,36 @@ mboxCreate('TopNavMenu');
 		
             <div id="WC_ContentAreaESpot_div_16_1" class="thumb-display">
                 <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->
-		
-			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6655518_div_1">
+						 <img class="clearancebanner" src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/ribbon_new.png">
+						 	
+			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6669017_div_1">
 				
-				<img src="/wcsstore/AllenEdmonds/upload/images/database/allenedmonds_shoes_jack-nicklaus_desert-mountain_olive-orange_m.jpg" alt="Desert Mountain Walking Shoes The price is $97.00." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=24939&amp;intv_id=70502&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6655518&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF20204');">
+				<img src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/allenedmonds_shoes_golf_strand_walnut_m.jpg" alt="Strand Golf Shoes The price is $295.00." class="thumbnailImageWithRibbon thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF8644_1_40000000001_-1_');">
 			 
 			</div>
 			<div class="thumb-product-name-cell">
-				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=24939&amp;intv_id=70502&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6655518&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF20204');">
-					<a href="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=24939&amp;intv_id=70502&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6655518&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF20204">
-						Desert Mountain Walking Shoes
+				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF8644_1_40000000001_-1_');">
+					<a href="http://www.allenedmonds.com/aeonline/producti_SF8644_1_40000000001_-1_">
+						Strand Golf Shoes
 					</a>
 				</div>
 				
 			</div>
 			<div class="thumb-product-price-cell">
-					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf --><!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="listPriceCategories">
-			$195.00
-		</span>
-		
-		<!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="productDisplayPriceRed">
-			&nbsp;&nbsp;$97.00
-		</span>
-
-	<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
+					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf -->
+			<span class="categoriesDisplayPrice">
+				$295.00
+			</span>
+		<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
 			</div>
 			<div class="clearDiv"></div>
 		
 			 
 			 
 	
-    <input type="hidden" id="compareImgPath_6655518" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_shoes_jack-nicklaus_desert-mountain_olive-orange_m.jpg">
-    <input type="hidden" id="compareProductDetailsPath_6655518" value="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=24939&amp;intv_id=70502&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6655518&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF20204">
-    <input type="hidden" id="compareImgDescription_6655518" value="Desert Mountain Walking Shoes">
+    <input type="hidden" id="compareImgPath_6669017" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_shoes_golf_strand_walnut_m.jpg">
+    <input type="hidden" id="compareProductDetailsPath_6669017" value="http://www.allenedmonds.com/aeonline/producti_SF8644_1_40000000001_-1_">
+    <input type="hidden" id="compareImgDescription_6669017" value="Strand Golf Shoes">
 	<!-- END CatalogEntryThumbnailDisplay.jsp -->
             </div>
         </td>
@@ -1888,47 +1880,36 @@ mboxCreate('TopNavMenu');
 		
             <div id="WC_ContentAreaESpot_div_16_2" class="thumb-display-padded">
                 <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->
-		
-			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6621517_div_1">
+						 <img class="clearancebanner" src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/ribbon_new.png">
+						 	
+			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6669180_div_1">
 				
-				<img src="/wcsstore/AllenEdmonds/upload/images/database/allenedmonds_shoes_jack-nicklaus_desert-mountain_black-blue_m.jpg" alt="Desert Mountain Walking Shoes The price is $97.00." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=24939&amp;intv_id=70502&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6621517&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF20200');">
+				<img src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/allenedmonds_shoes_golf_weybridge_black-grain_m.jpg" alt="Weybridge Golf Shoes The price is $295.00." class="thumbnailImageWithRibbon thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF6892_1_40000000001_-1_');">
 			 
 			</div>
 			<div class="thumb-product-name-cell">
-				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=24939&amp;intv_id=70502&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6621517&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF20200');">
-					<a href="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=24939&amp;intv_id=70502&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6621517&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF20200">
-						Desert Mountain Walking Shoes
+				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF6892_1_40000000001_-1_');">
+					<a href="http://www.allenedmonds.com/aeonline/producti_SF6892_1_40000000001_-1_">
+						Weybridge Golf Shoes
 					</a>
 				</div>
 				
 			</div>
 			<div class="thumb-product-price-cell">
-					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf --><!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="listPriceCategories">
-			$195.00
-		</span>
-		
-		<!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="productDisplayPriceRed">
-			&nbsp;&nbsp;$97.00
-		</span>
-
-	<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
+					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf -->
+			<span class="categoriesDisplayPrice">
+				$295.00
+			</span>
+		<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
 			</div>
 			<div class="clearDiv"></div>
 		
 			 
 			 
 	
-    <input type="hidden" id="compareImgPath_6621517" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_shoes_jack-nicklaus_desert-mountain_black-blue_m.jpg">
-    <input type="hidden" id="compareProductDetailsPath_6621517" value="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=24939&amp;intv_id=70502&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6621517&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF20200">
-    <input type="hidden" id="compareImgDescription_6621517" value="Desert Mountain Walking Shoes">
+    <input type="hidden" id="compareImgPath_6669180" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_shoes_golf_weybridge_black-grain_m.jpg">
+    <input type="hidden" id="compareProductDetailsPath_6669180" value="http://www.allenedmonds.com/aeonline/producti_SF6892_1_40000000001_-1_">
+    <input type="hidden" id="compareImgDescription_6669180" value="Weybridge Golf Shoes">
 	<!-- END CatalogEntryThumbnailDisplay.jsp -->
             </div>
         </td>
@@ -1962,41 +1943,7 @@ mboxCreate('TopNavMenu');
 						<td valign="top"><img class="headerfooter-sprite header_nav-bar" src="/wcsstore/dojo131/dojo/resources/blank.gif"></td>
 						
 
-						<td class="menu-header-cell"><a href="http://www.allenedmonds.com/aeonline/cati2_Looks_1_40000000001_-1_1_image_0_N_148357_148357__subcategory__" id="HeaderMenu_DropDown_5">Looks</a>
-							<div>
-								
-								<div class="header_nav_spacing"></div>
-								<div class="header_dropdown"></div>
-								<div class="header_nav_content header-content-border">
-									
-									<div class="header_nav_submenu_left">
-										<!-- ###### FOR EACH SUB CAT ##### -->
-							
-									</div><!-- header_nav_submenu_left -->	
-									<div class="header_nav_submenu_right">
-										<!-- espot for Looks --><!-- BEGIN ContentAreaESpot.jsp -->
-
-<div class="genericESpot espotNoContent" id="WC_ContentAreaESpot_div_1_TopNavFeaturedLooks">
-    <div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_TopNavFeaturedLooks">[TopNavFeaturedLooks]</div>
-
-
-
-
-</div>
-
-<!-- END ContentAreaESpot.jsp -->										
-
-									</div>
-									<div style="clear: both;"></div>
-								</div><!-- header_nav_content -->
-							</div><!-- li div -->
-						</td>
- 
-						
-						<td valign="top"><img class="headerfooter-sprite header_nav-bar" src="/wcsstore/dojo131/dojo/resources/blank.gif"></td>
-						
-
-						<td class="menu-header-cell"><a href="http://www.allenedmonds.com/aeonline/cati2_Accessories_1_40000000001_-1_1_image_0_N_198_198__subcategory__" id="HeaderMenu_DropDown_6">Accessories</a>
+						<td class="menu-header-cell"><a href="http://www.allenedmonds.com/aeonline/cati2_Accessories_1_40000000001_-1_1_image_0_N_198_198__subcategory__" id="HeaderMenu_DropDown_5">Accessories</a>
 							<div>
 								
 								<div class="header_nav_spacing"></div>
@@ -2013,7 +1960,7 @@ mboxCreate('TopNavMenu');
 													</div>	
 													
 													<div class="header_nav_submenuitem">
-														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Accessories_1_40000000001_-1_1_image_0_N_198_198_130311_subcategory__">Cedar &amp; Closet Organization</a></span>
+														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Accessories_1_40000000001_-1_1_image_0_N_198_198_130311_subcategory__">Closet Organization</a></span>
 													</div>	
 													
 													<div class="header_nav_submenuitem">
@@ -2041,6 +1988,10 @@ mboxCreate('TopNavMenu');
 													</div>	
 													
 													<div class="header_nav_submenuitem">
+														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Accessories_1_40000000001_-1_1_image_0_N_198_198_157907_subcategory__">Money Clips</a></span>
+													</div>	
+													
+													<div class="header_nav_submenuitem">
 														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Accessories_1_40000000001_-1_1_image_0_N_198_198_156409_subcategory__">Pocket Squares</a></span>
 													</div>	
 													
@@ -2055,6 +2006,8 @@ mboxCreate('TopNavMenu');
 													<div class="header_nav_submenuitem">
 														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Accessories_1_40000000001_-1_1_image_0_N_198_198_129210_subcategory__">Umbrellas &amp; Rainwear</a></span>
 													</div>	
+													
+														</div><div class="header_nav_submenu newcol">
 													
 													<div class="header_nav_submenuitem">
 														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Accessories_1_40000000001_-1_1_image_0_N_198_198_137307_subcategory__">Watches &amp; Wrist Wear</a></span>
@@ -2088,14 +2041,6 @@ mboxCreate('TopNavMenu');
 													<span>
 														<a href="http://www.allenedmonds.com/aeonline/cati2_Apparel_1_40000000001_-1_1_image_0_N_129207_129207__subcategory__">
 															Clothing
-														</a>
-													</span>
-												</div>
-											<!-- Accessories : Looks -->
-												<div class="header_nav_submenuitem">
-													<span>
-														<a href="http://www.allenedmonds.com/aeonline/cati2_Looks_1_40000000001_-1_1_image_0_N_148357_148357__subcategory__">
-															Looks
 														</a>
 													</span>
 												</div>
@@ -2137,48 +2082,35 @@ mboxCreate('TopNavMenu');
         <td class="thumb-display" id="WC_ContentAreaESpot_td_2_1">
 		
             <div id="WC_ContentAreaESpot_div_16_1" class="thumb-display">
-                <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->
-		
-			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6650785_div_1">
+                <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->	
+			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6610117_div_1">
 				
-				<img src="/wcsstore/AllenEdmonds/upload/images/database/allenedmonds_fall-2012-gloves_black-wool_m.jpg" alt="Leather Wool Gloves by Allen Edmonds The price is $43.50." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=13887&amp;intv_id=10005&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6650785&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF81060BLK2');">
+				<img src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/allenedmonds_shoe-care_assorted-laces_gift-box_m.jpg" alt="30' Assorted Shoelaces Gift Box The price is $19.95." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF634_1_40000000001_-1_');">
 			 
 			</div>
 			<div class="thumb-product-name-cell">
-				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=13887&amp;intv_id=10005&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6650785&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF81060BLK2');">
-					<a href="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=13887&amp;intv_id=10005&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6650785&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF81060BLK2">
-						Leather Wool Gloves by Allen Edmonds
+				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF634_1_40000000001_-1_');">
+					<a href="http://www.allenedmonds.com/aeonline/producti_SF634_1_40000000001_-1_">
+						30" Assorted Shoelaces Gift Box
 					</a>
 				</div>
 				
 			</div>
 			<div class="thumb-product-price-cell">
-					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf --><!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="listPriceCategories">
-			$58.00
-		</span>
-		
-		<!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="productDisplayPriceRed">
-			&nbsp;&nbsp;$43.50
-		</span>
-
-	<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
+					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf -->
+			<span class="categoriesDisplayPrice">
+				$19.95
+			</span>
+		<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
 			</div>
 			<div class="clearDiv"></div>
 		
 			 
 			 
 	
-    <input type="hidden" id="compareImgPath_6650785" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_fall-2012-gloves_black-wool_m.jpg">
-    <input type="hidden" id="compareProductDetailsPath_6650785" value="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=13887&amp;intv_id=10005&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6650785&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF81060BLK2">
-    <input type="hidden" id="compareImgDescription_6650785" value="Leather Wool Gloves by Allen Edmonds">
+    <input type="hidden" id="compareImgPath_6610117" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_shoe-care_assorted-laces_gift-box_m.jpg">
+    <input type="hidden" id="compareProductDetailsPath_6610117" value="http://www.allenedmonds.com/aeonline/producti_SF634_1_40000000001_-1_">
+    <input type="hidden" id="compareImgDescription_6610117" value="30 Assorted Shoelaces Gift Box">
 	<!-- END CatalogEntryThumbnailDisplay.jsp -->
             </div>
         </td>
@@ -2188,47 +2120,36 @@ mboxCreate('TopNavMenu');
 		
             <div id="WC_ContentAreaESpot_div_16_2" class="thumb-display-padded">
                 <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->
-		
-			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6648223_div_1">
+						 <img class="clearancebanner" src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/ribbon_new.png">
+						 	
+			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6669767_div_1">
 				
-				<img src="/wcsstore/AllenEdmonds/upload/images/database/allen-edmonds_leather-goods_park-avenue-collection_ipad-case_black_front_m.jpg" alt="Park Avenue iPad Case The price is $171.00." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=13887&amp;intv_id=10005&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6648223&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF96511A');">
+				<img src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/eyebobs_ae-exclusive_readers_benchmark_blue_m.jpg" alt="Bench Mark Reading Glasses by Eyebobs Exclusive for Allen Edmonds The price is $75.00." class="thumbnailImageWithRibbon thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF2309-59_1_40000000001_-1_');">
 			 
 			</div>
 			<div class="thumb-product-name-cell">
-				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=13887&amp;intv_id=10005&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6648223&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF96511A');">
-					<a href="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=13887&amp;intv_id=10005&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6648223&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF96511A">
-						Park Avenue iPad Case
+				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF2309-59_1_40000000001_-1_');">
+					<a href="http://www.allenedmonds.com/aeonline/producti_SF2309-59_1_40000000001_-1_">
+						Bench Mark Reading Glasses by Eyebobs Exclusive for Allen Edmonds
 					</a>
 				</div>
 				
 			</div>
 			<div class="thumb-product-price-cell">
-					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf --><!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="listPriceCategories">
-			$245.00
-		</span>
-		
-		<!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="productDisplayPriceRed">
-			&nbsp;&nbsp;$171.00
-		</span>
-
-	<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
+					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf -->
+			<span class="categoriesDisplayPrice">
+				$75.00
+			</span>
+		<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
 			</div>
 			<div class="clearDiv"></div>
 		
 			 
 			 
 	
-    <input type="hidden" id="compareImgPath_6648223" value="/wcsstore/AllenEdmonds/images/database/allen-edmonds_leather-goods_park-avenue-collection_ipad-case_black_front_m.jpg">
-    <input type="hidden" id="compareProductDetailsPath_6648223" value="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=13887&amp;intv_id=10005&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6648223&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF96511A">
-    <input type="hidden" id="compareImgDescription_6648223" value="Park Avenue iPad Case">
+    <input type="hidden" id="compareImgPath_6669767" value="/wcsstore/AllenEdmonds/images/database/eyebobs_ae-exclusive_readers_benchmark_blue_m.jpg">
+    <input type="hidden" id="compareProductDetailsPath_6669767" value="http://www.allenedmonds.com/aeonline/producti_SF2309-59_1_40000000001_-1_">
+    <input type="hidden" id="compareImgDescription_6669767" value="Bench Mark Reading Glasses by Eyebobs Exclusive for Allen Edmonds">
 	<!-- END CatalogEntryThumbnailDisplay.jsp -->
             </div>
         </td>
@@ -2262,7 +2183,7 @@ mboxCreate('TopNavMenu');
 						<td valign="top"><img class="headerfooter-sprite header_nav-bar" src="/wcsstore/dojo131/dojo/resources/blank.gif"></td>
 						
 
-						<td class="menu-header-cell"><a href="http://www.allenedmonds.com/aeonline/cati2_RecraftingPages_1_40000000001_-1_1_image_0_N_130812_130812__subcategory__" id="HeaderMenu_DropDown_7">Recrafting</a>
+						<td class="menu-header-cell"><a href="http://www.allenedmonds.com/aeonline/cati2_RecraftingPages_1_40000000001_-1_1_image_0_N_130812_130812__subcategory__" id="HeaderMenu_DropDown_6">Recrafting</a>
 							<div>
 								
 								<div class="header_nav_spacing"></div>
@@ -2301,7 +2222,7 @@ mboxCreate('TopNavMenu');
 						<td valign="top"><img class="headerfooter-sprite header_nav-bar" src="/wcsstore/dojo131/dojo/resources/blank.gif"></td>
 						
 
-						<td class="menu-header-cell"><a href="http://www.allenedmonds.com/aeonline/cati2_Sale_1_40000000001_-1_______132809_subcategory?" id="HeaderMenu_DropDown_8">Sale &amp; Clearance</a>
+						<td class="menu-header-cell"><a href="http://www.allenedmonds.com/aeonline/cati2_Sale_1_40000000001_-1_______132809_subcategory?" id="HeaderMenu_DropDown_7">Sale &amp; Clearance</a>
 							<div>
 								
 								<div class="header_nav_spacing"></div>
@@ -2311,7 +2232,7 @@ mboxCreate('TopNavMenu');
 									<div class="header_nav_submenu_left">
 										<!-- ###### FOR EACH SUB CAT ##### -->
 										<div class="header_nav_submenu">
-											<div class="header_nav_submenu_head">Sale &amp; Clearance</div>
+											<div class="header_nav_submenu_head">Clearance</div>
 											
 													<div class="header_nav_submenuitem">
 														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Sale_1_40000000001_-1_1_image_0_N_132807_132807_132809_subcategory__">Men's Shoes</a></span>
@@ -2333,10 +2254,6 @@ mboxCreate('TopNavMenu');
 														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Sale_1_40000000001_-1_1_image_0_N_132807_132807_132810_subcategory__">Men's Accessories</a></span>
 													</div>	
 													
-													<div class="header_nav_submenuitem">
-														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Sale_1_40000000001_-1_1_image_0_N_132807_132807_142857_subcategory__">Shoe Care</a></span>
-													</div>	
-													
 														<div class="header_nav_viewAllLink">
 															<span><a href="http://www.allenedmonds.com/aeonline/cati2_Sale_1_40000000001_-1_1_image_0_N_132807_132807_132809_subcategory__">View All</a></span>	
 														</div>
@@ -2348,144 +2265,84 @@ mboxCreate('TopNavMenu');
 									<div class="header_nav_submenu_right">
 										<!-- espot for Sale --><!-- BEGIN ContentAreaESpot.jsp -->
 
-<div class="genericESpot catalogEntriesEspot" id="WC_ContentAreaESpot_div_1_TopNavFeaturedSale">
+<div class="genericESpot espotNoContent" id="WC_ContentAreaESpot_div_1_TopNavFeaturedSale">
     <div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_TopNavFeaturedSale">[TopNavFeaturedSale]</div>
 
 
 
-            <div class="contentgrad_header" id="WC_ContentAreaESpot_div_10_1">
-                 <div class="left_corner" id="WC_ContentAreaESpot_div_11_1"></div>
 
+</div>
+
+<!-- END ContentAreaESpot.jsp -->										
+
+									</div>
+									<div style="clear: both;"></div>
+								</div><!-- header_nav_content -->
+							</div><!-- li div -->
+						</td>
+ 
 						
-                    <div class="left" id="WC_ContentAreaESpot_div_13_1"><span class="contentgrad_text">Featured Products</span></div>
-                
-				<div class="espot_title_bar"></div>  
-                <div class="right_corner" id="WC_ContentAreaESpot_div_14_1"></div>
-                
-                
-                
-            </div>
-            
-            <div class="body588" id="WC_ContentAreaESpot_div_15_1">
-                <table id="four-grid-espot" cellpadding="0" cellspacing="0" border="0">
-            
-            
-            <tbody><tr>
-                <td class="divider_line" colspan="4" id="WC_ContentAreaESpot_td_1_1"></td>
-            </tr>
-            <tr>
-        
-        <td class="thumb-display" id="WC_ContentAreaESpot_td_2_1">
-		
-            <div id="WC_ContentAreaESpot_div_16_1" class="thumb-display">
-                <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->
-		
-			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6658980_div_1">
-				
-				<img src="/wcsstore/AllenEdmonds/upload/images/database/allenedmonds_shoes_hale_black_m.jpg" alt="Hale Dress Oxfords The price is $239.00." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=18937&amp;intv_id=25001&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6658980&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF5406');">
-			 
-			</div>
-			<div class="thumb-product-name-cell">
-				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=18937&amp;intv_id=25001&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6658980&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF5406');">
-					<a href="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=18937&amp;intv_id=25001&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6658980&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF5406">
-						Hale Dress Oxfords
-					</a>
-				</div>
-				
-			</div>
-			<div class="thumb-product-price-cell">
-					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf --><!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="listPriceCategories">
-			$345.00
-		</span>
-		
-		<!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="productDisplayPriceRed">
-			&nbsp;&nbsp;$239.00
-		</span>
+						<td valign="top"><img class="headerfooter-sprite header_nav-bar" src="/wcsstore/dojo131/dojo/resources/blank.gif"></td>
+						
 
-	<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
-			</div>
-			<div class="clearDiv"></div>
-		
-			 
-			 
-	
-    <input type="hidden" id="compareImgPath_6658980" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_shoes_hale_black_m.jpg">
-    <input type="hidden" id="compareProductDetailsPath_6658980" value="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=18937&amp;intv_id=25001&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6658980&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF5406">
-    <input type="hidden" id="compareImgDescription_6658980" value="Hale Dress Oxfords">
-	<!-- END CatalogEntryThumbnailDisplay.jsp -->
-            </div>
-        </td>
+						<td class="menu-header-cell"><a href="http://www.allenedmonds.com/aeonline/cati2_Clearance_1_40000000001_-1_1_image_0_N_127607_127607_130263_subcategory__" id="HeaderMenu_DropDown_8">Clearance</a>
+							<div>
+								
+								<div class="header_nav_spacing"></div>
+								<div class="header_dropdown"></div>
+								<div class="header_nav_content header-content-border">
+									
+									<div class="header_nav_submenu_left">
+										<!-- ###### FOR EACH SUB CAT ##### -->
+										<div class="header_nav_submenu">
+											<div class="header_nav_submenu_head">Clearance</div>
+											
+													<div class="header_nav_submenuitem">
+														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Clearance_1_40000000001_-1_1_image_0_N_127607_127607_130263_subcategory__">Men's Shoes</a></span>
+													</div>	
+													
+													<div class="header_nav_submenuitem">
+														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Clearance_1_40000000001_-1_1_image_0_N_127607_127607_157407_subcategory__">Men's Clothing</a></span>
+													</div>	
+													
+													<div class="header_nav_submenuitem">
+														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Clearance_1_40000000001_-1_1_image_0_N_127607_127607_130264_subcategory__">Men's Belts</a></span>
+													</div>	
+													
+													<div class="header_nav_submenuitem">
+														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Clearance_1_40000000001_-1_1_image_0_N_127607_127607_157408_subcategory__">Men's Leather Goods</a></span>
+													</div>	
+													
+													<div class="header_nav_submenuitem">
+														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Clearance_1_40000000001_-1_1_image_0_N_127607_127607_130265_subcategory__">Men's Accessories</a></span>
+													</div>	
+													
+														<div class="header_nav_viewAllLink">
+															<span><a href="http://www.allenedmonds.com/aeonline/cati2_Clearance_1_40000000001_-1_1_image_0_N_127607_127607_130263_subcategory__">View All</a></span>	
+														</div>
+													
+										</div>
+										
+										<div class="header_nav_submenu header_nav_submenu_catgroup">
+											<!-- Clearance : Sale -->
+												<div class="header_nav_submenuitem">
+													<span>
+														<a href="http://www.allenedmonds.com/aeonline/cati2_Sale_1_40000000001_-1_______132809_subcategory?">
+															Sale &amp; Clearance
+														</a>
+													</span>
+												</div>
+											
+										</div>
+										
+							
+									</div><!-- header_nav_submenu_left -->	
+									<div class="header_nav_submenu_right">
+										<!-- espot for Clearance --><!-- BEGIN ContentAreaESpot.jsp -->
 
-        
-        <td class="thumb-display" id="WC_ContentAreaESpot_td_2_2">
-		
-            <div id="WC_ContentAreaESpot_div_16_2" class="thumb-display-padded">
-                <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->
-		
-			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6659306_div_1">
-				
-				<img src="/wcsstore/AllenEdmonds/upload/images/database/allenedmonds_shoes_naples_black_m.jpg" alt="Naples Tassel Loafers The price is $147.00." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=18937&amp;intv_id=25001&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6659306&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF42584');">
-			 
-			</div>
-			<div class="thumb-product-name-cell">
-				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=18937&amp;intv_id=25001&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6659306&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF42584');">
-					<a href="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=18937&amp;intv_id=25001&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6659306&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF42584">
-						Naples Tassel Loafers
-					</a>
-				</div>
-				
-			</div>
-			<div class="thumb-product-price-cell">
-					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf --><!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="listPriceCategories">
-			$250.00
-		</span>
-		
-		<!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="productDisplayPriceRed">
-			&nbsp;&nbsp;$147.00
-		</span>
+<div class="genericESpot espotNoContent" id="WC_ContentAreaESpot_div_1_TopNavFeaturedClearance">
+    <div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_TopNavFeaturedClearance">[TopNavFeaturedClearance]</div>
 
-	<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
-			</div>
-			<div class="clearDiv"></div>
-		
-			 
-			 
-	
-    <input type="hidden" id="compareImgPath_6659306" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_shoes_naples_black_m.jpg">
-    <input type="hidden" id="compareProductDetailsPath_6659306" value="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=18937&amp;intv_id=25001&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6659306&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF42584">
-    <input type="hidden" id="compareImgDescription_6659306" value="Naples Tassel Loafers">
-	<!-- END CatalogEntryThumbnailDisplay.jsp -->
-            </div>
-        </td>
-
-        
-    </tr>
-
-        </tbody></table>
-        <br>
-    </div>
-    <div class="footer" id="WC_ContentAreaESpot_div_17">
-        <div class="left_corner" id="WC_ContentAreaESpot_div_18"></div>
-        <div class="left" id="WC_ContentAreaESpot_div_19"></div>
-        <div class="right_corner" id="WC_ContentAreaESpot_div_20"></div>
-    </div>
-    <div class="space"> </div>
 
 
 
@@ -2676,47 +2533,36 @@ mboxCreate('TopNavMenu');
 		
             <div id="WC_ContentAreaESpot_div_16_1" class="thumb-display">
                 <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->
-		
-			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6526418_div_1">
+						 <img class="clearancebanner" src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/ribbon_webgem.png">
+						 	
+			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6672068_div_1">
 				
-				<img src="/wcsstore/AllenEdmonds/upload/images/database/allenedmonds_shoes_vernon_brown_m.jpg" alt="Vernon Dress Oxfords The price is $239.00." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26937&amp;intv_id=10009&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6526418&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF8808');">
+				<img src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/allenedmonds_shoes_macneil-5_burgundy-khaki-thread_m.jpg" alt="MacNeil 5 Wingtips The price is $315.00." class="thumbnailImageWithRibbon thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF9005_1_40000000001_-1_');">
 			 
 			</div>
 			<div class="thumb-product-name-cell">
-				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26937&amp;intv_id=10009&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6526418&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF8808');">
-					<a href="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26937&amp;intv_id=10009&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6526418&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF8808">
-						Vernon Dress Oxfords
+				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF9005_1_40000000001_-1_');">
+					<a href="http://www.allenedmonds.com/aeonline/producti_SF9005_1_40000000001_-1_">
+						MacNeil 5 Wingtips
 					</a>
 				</div>
 				
 			</div>
 			<div class="thumb-product-price-cell">
-					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf --><!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="listPriceCategories">
-			$345.00
-		</span>
-		
-		<!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="productDisplayPriceRed">
-			&nbsp;&nbsp;$239.00
-		</span>
-
-	<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
+					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf -->
+			<span class="categoriesDisplayPrice">
+				$315.00
+			</span>
+		<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
 			</div>
 			<div class="clearDiv"></div>
 		
 			 
 			 
 	
-    <input type="hidden" id="compareImgPath_6526418" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_shoes_vernon_brown_m.jpg">
-    <input type="hidden" id="compareProductDetailsPath_6526418" value="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26937&amp;intv_id=10009&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6526418&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF8808">
-    <input type="hidden" id="compareImgDescription_6526418" value="Vernon Dress Oxfords">
+    <input type="hidden" id="compareImgPath_6672068" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_shoes_macneil-5_burgundy-khaki-thread_m.jpg">
+    <input type="hidden" id="compareProductDetailsPath_6672068" value="http://www.allenedmonds.com/aeonline/producti_SF9005_1_40000000001_-1_">
+    <input type="hidden" id="compareImgDescription_6672068" value="MacNeil 5 Wingtips">
 	<!-- END CatalogEntryThumbnailDisplay.jsp -->
             </div>
         </td>
@@ -2725,48 +2571,35 @@ mboxCreate('TopNavMenu');
         <td class="thumb-display" id="WC_ContentAreaESpot_td_2_2">
 		
             <div id="WC_ContentAreaESpot_div_16_2" class="thumb-display-padded">
-                <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->
-		
-			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6658817_div_1">
+                <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->	
+			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_590000_div_1">
 				
-				<img src="/wcsstore/AllenEdmonds/upload/images/database/allenedmonds_shoes_mcadam_black-calf_m.jpg" alt="McAdam Dress Boots The price is $197.00." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26937&amp;intv_id=10009&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6658817&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF9011');">
+				<img src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/allenedmonds_shoes_park-avenue_black_m.jpg" alt="Park Avenue Cap-toe Oxfords The price is $365.00." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF270_1_40000000001_-1_');">
 			 
 			</div>
 			<div class="thumb-product-name-cell">
-				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26937&amp;intv_id=10009&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6658817&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF9011');">
-					<a href="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26937&amp;intv_id=10009&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6658817&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF9011">
-						McAdam Dress Boots
+				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF270_1_40000000001_-1_');">
+					<a href="http://www.allenedmonds.com/aeonline/producti_SF270_1_40000000001_-1_">
+						Park Avenue Cap-toe Oxfords
 					</a>
 				</div>
 				
 			</div>
 			<div class="thumb-product-price-cell">
-					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf --><!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="listPriceCategories">
-			$295.00
-		</span>
-		
-		<!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="productDisplayPriceRed">
-			&nbsp;&nbsp;$197.00
-		</span>
-
-	<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
+					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf -->
+			<span class="categoriesDisplayPrice">
+				$365.00
+			</span>
+		<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
 			</div>
 			<div class="clearDiv"></div>
 		
 			 
 			 
 	
-    <input type="hidden" id="compareImgPath_6658817" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_shoes_mcadam_black-calf_m.jpg">
-    <input type="hidden" id="compareProductDetailsPath_6658817" value="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26937&amp;intv_id=10009&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6658817&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF9011">
-    <input type="hidden" id="compareImgDescription_6658817" value="McAdam Dress Boots">
+    <input type="hidden" id="compareImgPath_590000" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_shoes_park-avenue_black_m.jpg">
+    <input type="hidden" id="compareProductDetailsPath_590000" value="http://www.allenedmonds.com/aeonline/producti_SF270_1_40000000001_-1_">
+    <input type="hidden" id="compareImgDescription_590000" value="Park Avenue Cap-toe Oxfords">
 	<!-- END CatalogEntryThumbnailDisplay.jsp -->
             </div>
         </td>
@@ -2813,6 +2646,10 @@ mboxCreate('TopNavMenu');
 											<div class="header_nav_submenu_head">Men's Clothing</div>
 											
 													<div class="header_nav_submenuitem">
+														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Apparel_1_40000000001_-1_1_image_0_N_129207_129207_134809_subcategory__">New Arrivals</a></span>
+													</div>	
+													
+													<div class="header_nav_submenuitem">
 														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Apparel_1_40000000001_-1_1_image_0_N_129207_129207_130314_subcategory__">Sport Coats &amp; Vests</a></span>
 													</div>	
 													
@@ -2847,14 +2684,6 @@ mboxCreate('TopNavMenu');
 										</div>
 										
 										<div class="header_nav_submenu header_nav_submenu_catgroup">
-											<!-- Apparel : Looks -->
-												<div class="header_nav_submenuitem">
-													<span>
-														<a href="http://www.allenedmonds.com/aeonline/cati2_Looks_1_40000000001_-1_1_image_0_N_148357_148357__subcategory__">
-															Looks
-														</a>
-													</span>
-												</div>
 											<!-- Apparel : LeatherGoods -->
 												<div class="header_nav_submenuitem">
 													<span>
@@ -2910,47 +2739,36 @@ mboxCreate('TopNavMenu');
 		
             <div id="WC_ContentAreaESpot_div_16_1" class="thumb-display">
                 <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->
-		
-			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6651939_div_1">
+						 <img class="clearancebanner" src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/ribbon_new.png">
+						 	
+			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6670417_div_1">
 				
-				<img src="/wcsstore/AllenEdmonds/upload/images/database/allenedmonds_sport-coat_multi-check_grey_m.jpg" alt="Multi Check Sport Coat The price is $260.25." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26944&amp;intv_id=10006&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6651939&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSFAE2004');">
+				<img src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/allenedmonds_spring-2014_sport-coats_glen-plaid_grey_m.jpg" alt="Grey Glen Plaid Sport Coat The price is $495.00." class="thumbnailImageWithRibbon thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SFAE2012_1_40000000001_-1_');">
 			 
 			</div>
 			<div class="thumb-product-name-cell">
-				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26944&amp;intv_id=10006&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6651939&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSFAE2004');">
-					<a href="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26944&amp;intv_id=10006&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6651939&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSFAE2004">
-						Multi Check Sport Coat
+				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SFAE2012_1_40000000001_-1_');">
+					<a href="http://www.allenedmonds.com/aeonline/producti_SFAE2012_1_40000000001_-1_">
+						Grey Glen Plaid Sport Coat
 					</a>
 				</div>
 				
 			</div>
 			<div class="thumb-product-price-cell">
-					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf --><!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="listPriceCategories">
-			$495.00
-		</span>
-		
-		<!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="productDisplayPriceRed">
-			&nbsp;&nbsp;$260.25
-		</span>
-
-	<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
+					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf -->
+			<span class="categoriesDisplayPrice">
+				$495.00
+			</span>
+		<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
 			</div>
 			<div class="clearDiv"></div>
 		
 			 
 			 
 	
-    <input type="hidden" id="compareImgPath_6651939" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_sport-coat_multi-check_grey_m.jpg">
-    <input type="hidden" id="compareProductDetailsPath_6651939" value="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26944&amp;intv_id=10006&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6651939&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSFAE2004">
-    <input type="hidden" id="compareImgDescription_6651939" value="Multi Check Sport Coat">
+    <input type="hidden" id="compareImgPath_6670417" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_spring-2014_sport-coats_glen-plaid_grey_m.jpg">
+    <input type="hidden" id="compareProductDetailsPath_6670417" value="http://www.allenedmonds.com/aeonline/producti_SFAE2012_1_40000000001_-1_">
+    <input type="hidden" id="compareImgDescription_6670417" value="Grey Glen Plaid Sport Coat">
 	<!-- END CatalogEntryThumbnailDisplay.jsp -->
             </div>
         </td>
@@ -2960,47 +2778,36 @@ mboxCreate('TopNavMenu');
 		
             <div id="WC_ContentAreaESpot_div_16_2" class="thumb-display-padded">
                 <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->
-		
-			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6646645_div_1">
+						 <img class="clearancebanner" src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/ribbon_new.png">
+						 	
+			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6670483_div_1">
 				
-				<img src="/wcsstore/AllenEdmonds/upload/images/database/allenedmonds_pants_charcoal-twill-trousers_m.jpg" alt="Charcoal Wool Dress Pants The price is $146.25." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26944&amp;intv_id=10006&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6646645&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSFAE8000');">
+				<img src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/allenedmonds_spring-2014_shirts_micro-check_purple_m.jpg" alt="Mini Check Button Down Collar Dress Shirt The price is $115.00." class="thumbnailImageWithRibbon thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SFAE1010_1_40000000001_-1_');">
 			 
 			</div>
 			<div class="thumb-product-name-cell">
-				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26944&amp;intv_id=10006&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6646645&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSFAE8000');">
-					<a href="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26944&amp;intv_id=10006&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6646645&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSFAE8000">
-						Charcoal Wool Dress Pants
+				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SFAE1010_1_40000000001_-1_');">
+					<a href="http://www.allenedmonds.com/aeonline/producti_SFAE1010_1_40000000001_-1_">
+						Mini Check Button Down Collar Dress Shirt
 					</a>
 				</div>
 				
 			</div>
 			<div class="thumb-product-price-cell">
-					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf --><!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="listPriceCategories">
-			$195.00
-		</span>
-		
-		<!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="productDisplayPriceRed">
-			&nbsp;&nbsp;$146.25
-		</span>
-
-	<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
+					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf -->
+			<span class="categoriesDisplayPrice">
+				$115.00
+			</span>
+		<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
 			</div>
 			<div class="clearDiv"></div>
 		
 			 
 			 
 	
-    <input type="hidden" id="compareImgPath_6646645" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_pants_charcoal-twill-trousers_m.jpg">
-    <input type="hidden" id="compareProductDetailsPath_6646645" value="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26944&amp;intv_id=10006&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6646645&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSFAE8000">
-    <input type="hidden" id="compareImgDescription_6646645" value="Charcoal Wool Dress Pants">
+    <input type="hidden" id="compareImgPath_6670483" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_spring-2014_shirts_micro-check_purple_m.jpg">
+    <input type="hidden" id="compareProductDetailsPath_6670483" value="http://www.allenedmonds.com/aeonline/producti_SFAE1010_1_40000000001_-1_">
+    <input type="hidden" id="compareImgDescription_6670483" value="Mini Check Button Down Collar Dress Shirt">
 	<!-- END CatalogEntryThumbnailDisplay.jsp -->
             </div>
         </td>
@@ -3133,47 +2940,36 @@ mboxCreate('TopNavMenu');
 		
             <div id="WC_ContentAreaESpot_div_16_1" class="thumb-display">
                 <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->
-		
-			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6623667_div_1">
+						 <img class="clearancebanner" src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/ribbon_new.png">
+						 	
+			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6670890_div_1">
 				
-				<img src="/wcsstore/AllenEdmonds/upload/images/database/allenedmonds_belts_arrow-creek_m.jpg" alt="Arrow Creek The price is $69.00." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26946&amp;intv_id=10007&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6623667&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF31811');">
+				<img src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/allenedmonds_belts_man-creek_black_m.jpg" alt="Man Creek The price is $98.00." class="thumbnailImageWithRibbon thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF37231_1_40000000001_-1_');">
 			 
 			</div>
 			<div class="thumb-product-name-cell">
-				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26946&amp;intv_id=10007&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6623667&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF31811');">
-					<a href="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26946&amp;intv_id=10007&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6623667&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF31811">
-						Arrow Creek
+				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF37231_1_40000000001_-1_');">
+					<a href="http://www.allenedmonds.com/aeonline/producti_SF37231_1_40000000001_-1_">
+						Man Creek
 					</a>
 				</div>
 				
 			</div>
 			<div class="thumb-product-price-cell">
-					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf --><!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="listPriceCategories">
-			$98.00
-		</span>
-		
-		<!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="productDisplayPriceRed">
-			&nbsp;&nbsp;$69.00
-		</span>
-
-	<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
+					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf -->
+			<span class="categoriesDisplayPrice">
+				$98.00
+			</span>
+		<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
 			</div>
 			<div class="clearDiv"></div>
 		
 			 
 			 
 	
-    <input type="hidden" id="compareImgPath_6623667" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_belts_arrow-creek_m.jpg">
-    <input type="hidden" id="compareProductDetailsPath_6623667" value="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26946&amp;intv_id=10007&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6623667&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF31811">
-    <input type="hidden" id="compareImgDescription_6623667" value="Arrow Creek">
+    <input type="hidden" id="compareImgPath_6670890" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_belts_man-creek_black_m.jpg">
+    <input type="hidden" id="compareProductDetailsPath_6670890" value="http://www.allenedmonds.com/aeonline/producti_SF37231_1_40000000001_-1_">
+    <input type="hidden" id="compareImgDescription_6670890" value="Man Creek">
 	<!-- END CatalogEntryThumbnailDisplay.jsp -->
             </div>
         </td>
@@ -3182,48 +2978,35 @@ mboxCreate('TopNavMenu');
         <td class="thumb-display" id="WC_ContentAreaESpot_td_2_2">
 		
             <div id="WC_ContentAreaESpot_div_16_2" class="thumb-display-padded">
-                <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->
-		
-			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6648201_div_1">
+                <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->	
+			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6648221_div_1">
 				
-				<img src="/wcsstore/AllenEdmonds/upload/images/database/allen-edmonds_leather-goods_strand-collection_double-flap-briefcase_walnut_m.jpg" alt="Strand Double Flap Briefcase The price is $516.00." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26946&amp;intv_id=10007&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6648201&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF98690A');">
+				<img src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/allen-edmonds_leather-goods_park-avenue-collection_duffle-bag_black_m.jpg" alt="Park Avenue Duffel Bag The price is $695.00." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF98511A_1_40000000001_-1_');">
 			 
 			</div>
 			<div class="thumb-product-name-cell">
-				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26946&amp;intv_id=10007&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6648201&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF98690A');">
-					<a href="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26946&amp;intv_id=10007&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6648201&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF98690A">
-						Strand Double Flap Briefcase
+				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF98511A_1_40000000001_-1_');">
+					<a href="http://www.allenedmonds.com/aeonline/producti_SF98511A_1_40000000001_-1_">
+						Park Avenue Duffel Bag
 					</a>
 				</div>
 				
 			</div>
 			<div class="thumb-product-price-cell">
-					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf --><!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="listPriceCategories">
-			$645.00
-		</span>
-		
-		<!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="productDisplayPriceRed">
-			&nbsp;&nbsp;$516.00
-		</span>
-
-	<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
+					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf -->
+			<span class="categoriesDisplayPrice">
+				$695.00
+			</span>
+		<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
 			</div>
 			<div class="clearDiv"></div>
 		
 			 
 			 
 	
-    <input type="hidden" id="compareImgPath_6648201" value="/wcsstore/AllenEdmonds/images/database/allen-edmonds_leather-goods_strand-collection_double-flap-briefcase_walnut_m.jpg">
-    <input type="hidden" id="compareProductDetailsPath_6648201" value="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26946&amp;intv_id=10007&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6648201&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF98690A">
-    <input type="hidden" id="compareImgDescription_6648201" value="Strand Double Flap Briefcase">
+    <input type="hidden" id="compareImgPath_6648221" value="/wcsstore/AllenEdmonds/images/database/allen-edmonds_leather-goods_park-avenue-collection_duffle-bag_black_m.jpg">
+    <input type="hidden" id="compareProductDetailsPath_6648221" value="http://www.allenedmonds.com/aeonline/producti_SF98511A_1_40000000001_-1_">
+    <input type="hidden" id="compareImgDescription_6648221" value="Park Avenue Duffel Bag">
 	<!-- END CatalogEntryThumbnailDisplay.jsp -->
             </div>
         </td>
@@ -3331,47 +3114,36 @@ mboxCreate('TopNavMenu');
 		
             <div id="WC_ContentAreaESpot_div_16_1" class="thumb-display">
                 <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->
-		
-			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6655518_div_1">
+						 <img class="clearancebanner" src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/ribbon_new.png">
+						 	
+			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6669017_div_1">
 				
-				<img src="/wcsstore/AllenEdmonds/upload/images/database/allenedmonds_shoes_jack-nicklaus_desert-mountain_olive-orange_m.jpg" alt="Desert Mountain Walking Shoes The price is $97.00." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26938&amp;intv_id=70502&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6655518&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF20204');">
+				<img src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/allenedmonds_shoes_golf_strand_walnut_m.jpg" alt="Strand Golf Shoes The price is $295.00." class="thumbnailImageWithRibbon thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF8644_1_40000000001_-1_');">
 			 
 			</div>
 			<div class="thumb-product-name-cell">
-				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26938&amp;intv_id=70502&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6655518&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF20204');">
-					<a href="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26938&amp;intv_id=70502&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6655518&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF20204">
-						Desert Mountain Walking Shoes
+				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF8644_1_40000000001_-1_');">
+					<a href="http://www.allenedmonds.com/aeonline/producti_SF8644_1_40000000001_-1_">
+						Strand Golf Shoes
 					</a>
 				</div>
 				
 			</div>
 			<div class="thumb-product-price-cell">
-					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf --><!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="listPriceCategories">
-			$195.00
-		</span>
-		
-		<!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="productDisplayPriceRed">
-			&nbsp;&nbsp;$97.00
-		</span>
-
-	<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
+					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf -->
+			<span class="categoriesDisplayPrice">
+				$295.00
+			</span>
+		<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
 			</div>
 			<div class="clearDiv"></div>
 		
 			 
 			 
 	
-    <input type="hidden" id="compareImgPath_6655518" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_shoes_jack-nicklaus_desert-mountain_olive-orange_m.jpg">
-    <input type="hidden" id="compareProductDetailsPath_6655518" value="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26938&amp;intv_id=70502&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6655518&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF20204">
-    <input type="hidden" id="compareImgDescription_6655518" value="Desert Mountain Walking Shoes">
+    <input type="hidden" id="compareImgPath_6669017" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_shoes_golf_strand_walnut_m.jpg">
+    <input type="hidden" id="compareProductDetailsPath_6669017" value="http://www.allenedmonds.com/aeonline/producti_SF8644_1_40000000001_-1_">
+    <input type="hidden" id="compareImgDescription_6669017" value="Strand Golf Shoes">
 	<!-- END CatalogEntryThumbnailDisplay.jsp -->
             </div>
         </td>
@@ -3381,47 +3153,36 @@ mboxCreate('TopNavMenu');
 		
             <div id="WC_ContentAreaESpot_div_16_2" class="thumb-display-padded">
                 <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->
-		
-			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6621517_div_1">
+						 <img class="clearancebanner" src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/ribbon_new.png">
+						 	
+			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6669180_div_1">
 				
-				<img src="/wcsstore/AllenEdmonds/upload/images/database/allenedmonds_shoes_jack-nicklaus_desert-mountain_black-blue_m.jpg" alt="Desert Mountain Walking Shoes The price is $97.00." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26938&amp;intv_id=70502&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6621517&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF20200');">
+				<img src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/allenedmonds_shoes_golf_weybridge_black-grain_m.jpg" alt="Weybridge Golf Shoes The price is $295.00." class="thumbnailImageWithRibbon thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF6892_1_40000000001_-1_');">
 			 
 			</div>
 			<div class="thumb-product-name-cell">
-				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26938&amp;intv_id=70502&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6621517&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF20200');">
-					<a href="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26938&amp;intv_id=70502&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6621517&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF20200">
-						Desert Mountain Walking Shoes
+				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF6892_1_40000000001_-1_');">
+					<a href="http://www.allenedmonds.com/aeonline/producti_SF6892_1_40000000001_-1_">
+						Weybridge Golf Shoes
 					</a>
 				</div>
 				
 			</div>
 			<div class="thumb-product-price-cell">
-					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf --><!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="listPriceCategories">
-			$195.00
-		</span>
-		
-		<!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="productDisplayPriceRed">
-			&nbsp;&nbsp;$97.00
-		</span>
-
-	<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
+					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf -->
+			<span class="categoriesDisplayPrice">
+				$295.00
+			</span>
+		<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
 			</div>
 			<div class="clearDiv"></div>
 		
 			 
 			 
 	
-    <input type="hidden" id="compareImgPath_6621517" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_shoes_jack-nicklaus_desert-mountain_black-blue_m.jpg">
-    <input type="hidden" id="compareProductDetailsPath_6621517" value="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26938&amp;intv_id=70502&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6621517&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF20200">
-    <input type="hidden" id="compareImgDescription_6621517" value="Desert Mountain Walking Shoes">
+    <input type="hidden" id="compareImgPath_6669180" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_shoes_golf_weybridge_black-grain_m.jpg">
+    <input type="hidden" id="compareProductDetailsPath_6669180" value="http://www.allenedmonds.com/aeonline/producti_SF6892_1_40000000001_-1_">
+    <input type="hidden" id="compareImgDescription_6669180" value="Weybridge Golf Shoes">
 	<!-- END CatalogEntryThumbnailDisplay.jsp -->
             </div>
         </td>
@@ -3455,41 +3216,7 @@ mboxCreate('TopNavMenu');
 						<td valign="top"><img class="headerfooter-sprite header_nav-bar" src="/wcsstore/dojo131/dojo/resources/blank.gif"></td>
 						
 
-						<td class="menu-header-cell"><a href="http://www.allenedmonds.com/aeonline/cati2_Looks_1_40000000001_-1_1_image_0_N_148357_148357__subcategory__" id="HeaderMenu_DropDown_5">Looks</a>
-							<div>
-								
-								<div class="header_nav_spacing"></div>
-								<div class="header_dropdown"></div>
-								<div class="header_nav_content header-content-border">
-									
-									<div class="header_nav_submenu_left">
-										<!-- ###### FOR EACH SUB CAT ##### -->
-							
-									</div><!-- header_nav_submenu_left -->	
-									<div class="header_nav_submenu_right">
-										<!-- espot for Looks --><!-- BEGIN ContentAreaESpot.jsp -->
-
-<div class="genericESpot espotNoContent" id="WC_ContentAreaESpot_div_1_TopNavFeaturedLooks_promo">
-    <div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_TopNavFeaturedLooks_promo">[TopNavFeaturedLooks_promo]</div>
-
-
-
-
-</div>
-
-<!-- END ContentAreaESpot.jsp -->										
-
-									</div>
-									<div style="clear: both;"></div>
-								</div><!-- header_nav_content -->
-							</div><!-- li div -->
-						</td>
- 
-						
-						<td valign="top"><img class="headerfooter-sprite header_nav-bar" src="/wcsstore/dojo131/dojo/resources/blank.gif"></td>
-						
-
-						<td class="menu-header-cell"><a href="http://www.allenedmonds.com/aeonline/cati2_Accessories_1_40000000001_-1_1_image_0_N_198_198__subcategory__" id="HeaderMenu_DropDown_6">Accessories</a>
+						<td class="menu-header-cell"><a href="http://www.allenedmonds.com/aeonline/cati2_Accessories_1_40000000001_-1_1_image_0_N_198_198__subcategory__" id="HeaderMenu_DropDown_5">Accessories</a>
 							<div>
 								
 								<div class="header_nav_spacing"></div>
@@ -3506,7 +3233,7 @@ mboxCreate('TopNavMenu');
 													</div>	
 													
 													<div class="header_nav_submenuitem">
-														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Accessories_1_40000000001_-1_1_image_0_N_198_198_130311_subcategory__">Cedar &amp; Closet Organization</a></span>
+														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Accessories_1_40000000001_-1_1_image_0_N_198_198_130311_subcategory__">Closet Organization</a></span>
 													</div>	
 													
 													<div class="header_nav_submenuitem">
@@ -3534,6 +3261,10 @@ mboxCreate('TopNavMenu');
 													</div>	
 													
 													<div class="header_nav_submenuitem">
+														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Accessories_1_40000000001_-1_1_image_0_N_198_198_157907_subcategory__">Money Clips</a></span>
+													</div>	
+													
+													<div class="header_nav_submenuitem">
 														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Accessories_1_40000000001_-1_1_image_0_N_198_198_156409_subcategory__">Pocket Squares</a></span>
 													</div>	
 													
@@ -3548,6 +3279,8 @@ mboxCreate('TopNavMenu');
 													<div class="header_nav_submenuitem">
 														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Accessories_1_40000000001_-1_1_image_0_N_198_198_129210_subcategory__">Umbrellas &amp; Rainwear</a></span>
 													</div>	
+													
+														</div><div class="header_nav_submenu newcol">
 													
 													<div class="header_nav_submenuitem">
 														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Accessories_1_40000000001_-1_1_image_0_N_198_198_137307_subcategory__">Watches &amp; Wrist Wear</a></span>
@@ -3581,14 +3314,6 @@ mboxCreate('TopNavMenu');
 													<span>
 														<a href="http://www.allenedmonds.com/aeonline/cati2_Apparel_1_40000000001_-1_1_image_0_N_129207_129207__subcategory__">
 															Clothing
-														</a>
-													</span>
-												</div>
-											<!-- Accessories : Looks -->
-												<div class="header_nav_submenuitem">
-													<span>
-														<a href="http://www.allenedmonds.com/aeonline/cati2_Looks_1_40000000001_-1_1_image_0_N_148357_148357__subcategory__">
-															Looks
 														</a>
 													</span>
 												</div>
@@ -3630,48 +3355,35 @@ mboxCreate('TopNavMenu');
         <td class="thumb-display" id="WC_ContentAreaESpot_td_2_1">
 		
             <div id="WC_ContentAreaESpot_div_16_1" class="thumb-display">
-                <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->
-		
-			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6650785_div_1">
+                <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->	
+			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6610117_div_1">
 				
-				<img src="/wcsstore/AllenEdmonds/upload/images/database/allenedmonds_fall-2012-gloves_black-wool_m.jpg" alt="Leather Wool Gloves by Allen Edmonds The price is $43.50." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26939&amp;intv_id=10005&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6650785&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF81060BLK2');">
+				<img src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/allenedmonds_shoe-care_assorted-laces_gift-box_m.jpg" alt="30' Assorted Shoelaces Gift Box The price is $19.95." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF634_1_40000000001_-1_');">
 			 
 			</div>
 			<div class="thumb-product-name-cell">
-				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26939&amp;intv_id=10005&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6650785&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF81060BLK2');">
-					<a href="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26939&amp;intv_id=10005&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6650785&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF81060BLK2">
-						Leather Wool Gloves by Allen Edmonds
+				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF634_1_40000000001_-1_');">
+					<a href="http://www.allenedmonds.com/aeonline/producti_SF634_1_40000000001_-1_">
+						30" Assorted Shoelaces Gift Box
 					</a>
 				</div>
 				
 			</div>
 			<div class="thumb-product-price-cell">
-					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf --><!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="listPriceCategories">
-			$58.00
-		</span>
-		
-		<!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="productDisplayPriceRed">
-			&nbsp;&nbsp;$43.50
-		</span>
-
-	<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
+					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf -->
+			<span class="categoriesDisplayPrice">
+				$19.95
+			</span>
+		<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
 			</div>
 			<div class="clearDiv"></div>
 		
 			 
 			 
 	
-    <input type="hidden" id="compareImgPath_6650785" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_fall-2012-gloves_black-wool_m.jpg">
-    <input type="hidden" id="compareProductDetailsPath_6650785" value="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26939&amp;intv_id=10005&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6650785&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF81060BLK2">
-    <input type="hidden" id="compareImgDescription_6650785" value="Leather Wool Gloves by Allen Edmonds">
+    <input type="hidden" id="compareImgPath_6610117" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_shoe-care_assorted-laces_gift-box_m.jpg">
+    <input type="hidden" id="compareProductDetailsPath_6610117" value="http://www.allenedmonds.com/aeonline/producti_SF634_1_40000000001_-1_">
+    <input type="hidden" id="compareImgDescription_6610117" value="30 Assorted Shoelaces Gift Box">
 	<!-- END CatalogEntryThumbnailDisplay.jsp -->
             </div>
         </td>
@@ -3681,47 +3393,36 @@ mboxCreate('TopNavMenu');
 		
             <div id="WC_ContentAreaESpot_div_16_2" class="thumb-display-padded">
                 <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->
-		
-			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6648223_div_1">
+						 <img class="clearancebanner" src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/ribbon_new.png">
+						 	
+			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6669767_div_1">
 				
-				<img src="/wcsstore/AllenEdmonds/upload/images/database/allen-edmonds_leather-goods_park-avenue-collection_ipad-case_black_front_m.jpg" alt="Park Avenue iPad Case The price is $171.00." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26939&amp;intv_id=10005&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6648223&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF96511A');">
+				<img src="//content.allenedmonds.com/wcsstore/AllenEdmonds/Attachment/images/database/eyebobs_ae-exclusive_readers_benchmark_blue_m.jpg" alt="Bench Mark Reading Glasses by Eyebobs Exclusive for Allen Edmonds The price is $75.00." class="thumbnailImageWithRibbon thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF2309-59_1_40000000001_-1_');">
 			 
 			</div>
 			<div class="thumb-product-name-cell">
-				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26939&amp;intv_id=10005&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6648223&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF96511A');">
-					<a href="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26939&amp;intv_id=10005&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6648223&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF96511A">
-						Park Avenue iPad Case
+				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/aeonline/producti_SF2309-59_1_40000000001_-1_');">
+					<a href="http://www.allenedmonds.com/aeonline/producti_SF2309-59_1_40000000001_-1_">
+						Bench Mark Reading Glasses by Eyebobs Exclusive for Allen Edmonds
 					</a>
 				</div>
 				
 			</div>
 			<div class="thumb-product-price-cell">
-					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf --><!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="listPriceCategories">
-			$245.00
-		</span>
-		
-		<!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="productDisplayPriceRed">
-			&nbsp;&nbsp;$171.00
-		</span>
-
-	<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
+					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf -->
+			<span class="categoriesDisplayPrice">
+				$75.00
+			</span>
+		<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
 			</div>
 			<div class="clearDiv"></div>
 		
 			 
 			 
 	
-    <input type="hidden" id="compareImgPath_6648223" value="/wcsstore/AllenEdmonds/images/database/allen-edmonds_leather-goods_park-avenue-collection_ipad-case_black_front_m.jpg">
-    <input type="hidden" id="compareProductDetailsPath_6648223" value="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26939&amp;intv_id=10005&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6648223&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF96511A">
-    <input type="hidden" id="compareImgDescription_6648223" value="Park Avenue iPad Case">
+    <input type="hidden" id="compareImgPath_6669767" value="/wcsstore/AllenEdmonds/images/database/eyebobs_ae-exclusive_readers_benchmark_blue_m.jpg">
+    <input type="hidden" id="compareProductDetailsPath_6669767" value="http://www.allenedmonds.com/aeonline/producti_SF2309-59_1_40000000001_-1_">
+    <input type="hidden" id="compareImgDescription_6669767" value="Bench Mark Reading Glasses by Eyebobs Exclusive for Allen Edmonds">
 	<!-- END CatalogEntryThumbnailDisplay.jsp -->
             </div>
         </td>
@@ -3755,7 +3456,7 @@ mboxCreate('TopNavMenu');
 						<td valign="top"><img class="headerfooter-sprite header_nav-bar" src="/wcsstore/dojo131/dojo/resources/blank.gif"></td>
 						
 
-						<td class="menu-header-cell"><a href="http://www.allenedmonds.com/aeonline/cati2_RecraftingPages_1_40000000001_-1_1_image_0_N_130812_130812__subcategory__" id="HeaderMenu_DropDown_7">Recrafting</a>
+						<td class="menu-header-cell"><a href="http://www.allenedmonds.com/aeonline/cati2_RecraftingPages_1_40000000001_-1_1_image_0_N_130812_130812__subcategory__" id="HeaderMenu_DropDown_6">Recrafting</a>
 							<div>
 								
 								<div class="header_nav_spacing"></div>
@@ -3794,7 +3495,7 @@ mboxCreate('TopNavMenu');
 						<td valign="top"><img class="headerfooter-sprite header_nav-bar" src="/wcsstore/dojo131/dojo/resources/blank.gif"></td>
 						
 
-						<td class="menu-header-cell"><a href="http://www.allenedmonds.com/aeonline/cati2_Sale_1_40000000001_-1_______132809_subcategory?" id="HeaderMenu_DropDown_8">Sale &amp; Clearance</a>
+						<td class="menu-header-cell"><a href="http://www.allenedmonds.com/aeonline/cati2_Sale_1_40000000001_-1_______132809_subcategory?" id="HeaderMenu_DropDown_7">Sale &amp; Clearance</a>
 							<div>
 								
 								<div class="header_nav_spacing"></div>
@@ -3804,7 +3505,7 @@ mboxCreate('TopNavMenu');
 									<div class="header_nav_submenu_left">
 										<!-- ###### FOR EACH SUB CAT ##### -->
 										<div class="header_nav_submenu">
-											<div class="header_nav_submenu_head">Sale &amp; Clearance</div>
+											<div class="header_nav_submenu_head">Clearance</div>
 											
 													<div class="header_nav_submenuitem">
 														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Sale_1_40000000001_-1_1_image_0_N_132807_132807_132809_subcategory__">Men's Shoes</a></span>
@@ -3826,10 +3527,6 @@ mboxCreate('TopNavMenu');
 														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Sale_1_40000000001_-1_1_image_0_N_132807_132807_132810_subcategory__">Men's Accessories</a></span>
 													</div>	
 													
-													<div class="header_nav_submenuitem">
-														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Sale_1_40000000001_-1_1_image_0_N_132807_132807_142857_subcategory__">Shoe Care</a></span>
-													</div>	
-													
 														<div class="header_nav_viewAllLink">
 															<span><a href="http://www.allenedmonds.com/aeonline/cati2_Sale_1_40000000001_-1_1_image_0_N_132807_132807_132809_subcategory__">View All</a></span>	
 														</div>
@@ -3841,144 +3538,84 @@ mboxCreate('TopNavMenu');
 									<div class="header_nav_submenu_right">
 										<!-- espot for Sale --><!-- BEGIN ContentAreaESpot.jsp -->
 
-<div class="genericESpot catalogEntriesEspot" id="WC_ContentAreaESpot_div_1_TopNavFeaturedSale_promo">
+<div class="genericESpot espotNoContent" id="WC_ContentAreaESpot_div_1_TopNavFeaturedSale_promo">
     <div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_TopNavFeaturedSale_promo">[TopNavFeaturedSale_promo]</div>
 
 
 
-            <div class="contentgrad_header" id="WC_ContentAreaESpot_div_10_1">
-                 <div class="left_corner" id="WC_ContentAreaESpot_div_11_1"></div>
 
+</div>
+
+<!-- END ContentAreaESpot.jsp -->										
+
+									</div>
+									<div style="clear: both;"></div>
+								</div><!-- header_nav_content -->
+							</div><!-- li div -->
+						</td>
+ 
 						
-                    <div class="left" id="WC_ContentAreaESpot_div_13_1"><span class="contentgrad_text">Featured Products</span></div>
-                
-				<div class="espot_title_bar"></div>  
-                <div class="right_corner" id="WC_ContentAreaESpot_div_14_1"></div>
-                
-                
-                
-            </div>
-            
-            <div class="body588" id="WC_ContentAreaESpot_div_15_1">
-                <table id="four-grid-espot" cellpadding="0" cellspacing="0" border="0">
-            
-            
-            <tbody><tr>
-                <td class="divider_line" colspan="4" id="WC_ContentAreaESpot_td_1_1"></td>
-            </tr>
-            <tr>
-        
-        <td class="thumb-display" id="WC_ContentAreaESpot_td_2_1">
-		
-            <div id="WC_ContentAreaESpot_div_16_1" class="thumb-display">
-                <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->
-		
-			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6658980_div_1">
-				
-				<img src="/wcsstore/AllenEdmonds/upload/images/database/allenedmonds_shoes_hale_black_m.jpg" alt="Hale Dress Oxfords The price is $239.00." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26947&amp;intv_id=25001&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6658980&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF5406');">
-			 
-			</div>
-			<div class="thumb-product-name-cell">
-				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26947&amp;intv_id=25001&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6658980&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF5406');">
-					<a href="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26947&amp;intv_id=25001&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6658980&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF5406">
-						Hale Dress Oxfords
-					</a>
-				</div>
-				
-			</div>
-			<div class="thumb-product-price-cell">
-					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf --><!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="listPriceCategories">
-			$345.00
-		</span>
-		
-		<!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="productDisplayPriceRed">
-			&nbsp;&nbsp;$239.00
-		</span>
+						<td valign="top"><img class="headerfooter-sprite header_nav-bar" src="/wcsstore/dojo131/dojo/resources/blank.gif"></td>
+						
 
-	<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
-			</div>
-			<div class="clearDiv"></div>
-		
-			 
-			 
-	
-    <input type="hidden" id="compareImgPath_6658980" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_shoes_hale_black_m.jpg">
-    <input type="hidden" id="compareProductDetailsPath_6658980" value="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26947&amp;intv_id=25001&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6658980&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF5406">
-    <input type="hidden" id="compareImgDescription_6658980" value="Hale Dress Oxfords">
-	<!-- END CatalogEntryThumbnailDisplay.jsp -->
-            </div>
-        </td>
+						<td class="menu-header-cell"><a href="http://www.allenedmonds.com/aeonline/cati2_Clearance_1_40000000001_-1_1_image_0_N_127607_127607_130263_subcategory__" id="HeaderMenu_DropDown_8">Clearance</a>
+							<div>
+								
+								<div class="header_nav_spacing"></div>
+								<div class="header_dropdown"></div>
+								<div class="header_nav_content header-content-border">
+									
+									<div class="header_nav_submenu_left">
+										<!-- ###### FOR EACH SUB CAT ##### -->
+										<div class="header_nav_submenu">
+											<div class="header_nav_submenu_head">Clearance</div>
+											
+													<div class="header_nav_submenuitem">
+														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Clearance_1_40000000001_-1_1_image_0_N_127607_127607_130263_subcategory__">Men's Shoes</a></span>
+													</div>	
+													
+													<div class="header_nav_submenuitem">
+														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Clearance_1_40000000001_-1_1_image_0_N_127607_127607_157407_subcategory__">Men's Clothing</a></span>
+													</div>	
+													
+													<div class="header_nav_submenuitem">
+														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Clearance_1_40000000001_-1_1_image_0_N_127607_127607_130264_subcategory__">Men's Belts</a></span>
+													</div>	
+													
+													<div class="header_nav_submenuitem">
+														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Clearance_1_40000000001_-1_1_image_0_N_127607_127607_157408_subcategory__">Men's Leather Goods</a></span>
+													</div>	
+													
+													<div class="header_nav_submenuitem">
+														<span><a href="http://www.allenedmonds.com/aeonline/cati2_Clearance_1_40000000001_-1_1_image_0_N_127607_127607_130265_subcategory__">Men's Accessories</a></span>
+													</div>	
+													
+														<div class="header_nav_viewAllLink">
+															<span><a href="http://www.allenedmonds.com/aeonline/cati2_Clearance_1_40000000001_-1_1_image_0_N_127607_127607_130263_subcategory__">View All</a></span>	
+														</div>
+													
+										</div>
+										
+										<div class="header_nav_submenu header_nav_submenu_catgroup">
+											<!-- Clearance : Sale -->
+												<div class="header_nav_submenuitem">
+													<span>
+														<a href="http://www.allenedmonds.com/aeonline/cati2_Sale_1_40000000001_-1_______132809_subcategory?">
+															Sale &amp; Clearance
+														</a>
+													</span>
+												</div>
+											
+										</div>
+										
+							
+									</div><!-- header_nav_submenu_left -->	
+									<div class="header_nav_submenu_right">
+										<!-- espot for Clearance --><!-- BEGIN ContentAreaESpot.jsp -->
 
-        
-        <td class="thumb-display" id="WC_ContentAreaESpot_td_2_2">
-		
-            <div id="WC_ContentAreaESpot_div_16_2" class="thumb-display-padded">
-                <!-- BEGIN CatalogEntryThumbnailDisplay.jsp --><!--OTB Price-->
-		
-			<div class="img" id="WC_CatalogEntryThumbnailDisplayJSPF_6659306_div_1">
-				
-				<img src="/wcsstore/AllenEdmonds/upload/images/database/allenedmonds_shoes_naples_black_m.jpg" alt="Naples Tassel Loafers The price is $147.00." class="thumbnailImage" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26947&amp;intv_id=25001&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6659306&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF42584');">
-			 
-			</div>
-			<div class="thumb-product-name-cell">
-				<div class="thumb-product-name-div" onclick="loadLink('http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26947&amp;intv_id=25001&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6659306&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF42584');">
-					<a href="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26947&amp;intv_id=25001&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6659306&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF42584">
-						Naples Tassel Loafers
-					</a>
-				</div>
-				
-			</div>
-			<div class="thumb-product-price-cell">
-					 <!-- Start - JSP File Name:  CatalogEntryPriceDisplay.jspf --><!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="listPriceCategories">
-			$250.00
-		</span>
-		
-		<!-- 
-		The empty gif are put in front of the prices so that the alt text can be read by the IBM Homepage Reader to describe the two prices displayed. 
-		These descriptions are necessary for meeting Accessibility requirements 
-		-->
-		<span class="productDisplayPriceRed">
-			&nbsp;&nbsp;$147.00
-		</span>
+<div class="genericESpot espotNoContent" id="WC_ContentAreaESpot_div_1_TopNavFeaturedClearance_promo">
+    <div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_TopNavFeaturedClearance_promo">[TopNavFeaturedClearance_promo]</div>
 
-	<!-- End - JSP File Name:  CatalogEntryPriceDisplay.jspf -->				
-			</div>
-			<div class="clearDiv"></div>
-		
-			 
-			 
-	
-    <input type="hidden" id="compareImgPath_6659306" value="/wcsstore/AllenEdmonds/images/database/allenedmonds_shoes_naples_black_m.jpg">
-    <input type="hidden" id="compareProductDetailsPath_6659306" value="http://www.allenedmonds.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=26947&amp;intv_id=25001&amp;storeId=1&amp;expDataType=CatalogEntryId&amp;expDataUniqueID=6659306&amp;URL=http%3a%2f%2fwww.allenedmonds.com%2faeonline%2fProductDisplay%3fcatalogId%3d40000000001%26langId%3d-1%26storeId%3d1%26partNumber%3dSF42584">
-    <input type="hidden" id="compareImgDescription_6659306" value="Naples Tassel Loafers">
-	<!-- END CatalogEntryThumbnailDisplay.jsp -->
-            </div>
-        </td>
-
-        
-    </tr>
-
-        </tbody></table>
-        <br>
-    </div>
-    <div class="footer" id="WC_ContentAreaESpot_div_17">
-        <div class="left_corner" id="WC_ContentAreaESpot_div_18"></div>
-        <div class="left" id="WC_ContentAreaESpot_div_19"></div>
-        <div class="right_corner" id="WC_ContentAreaESpot_div_20"></div>
-    </div>
-    <div class="space"> </div>
 
 
 
@@ -4044,7 +3681,8 @@ if (show_nav2 == true)
 			
 
 <div class="clearDiv"></div>
-<!-- BEGIN BreadCrumbTrailDisplay.jsp --><!-- END BreadCrumbTrailDisplay.jsp -->
+
+
 
 <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.allenedmonds.com/aeonline/PrivacyView?catalogId=40000000001&amp;langId=-1&amp;storeId=1">
 <!-- END HeaderDisplay.jspf -->
@@ -4447,12 +4085,12 @@ If you do not want to receive Allen Edmonds catalogs,  please send an email to <
 						<li><a href="#" target="_blank" onclick="recordOutboundLink(this, 'Outbound Links', 'allenedmondsblog.blogspot.com');window.open('http://allenedmondsblog.blogspot.com/');return false;">CEO Blog</a></li>
 						<li><a href="http://www.allenedmonds.com/aeonline/VideoLibrary?catalogId=40000000001&amp;langId=-1&amp;storeId=1">Video Library</a></li>
 						<li><a href="http://www.allenedmonds.com/aeonline/InTheSpotlightView?catalogId=40000000001&amp;langId=-1&amp;storeId=1">Press Room</a></li>
-						<li><a href="#" target="_blank" onclick="recordOutboundLink(this, 'Outbound Links', 'ioxphere.com');window.open('http://www.ioxphere.com/f.asp?A=YTQPPXJ&amp;B=IHXWBCR&amp;C=2');return false;">Survey</a></li>
+						<li><a href="#" target="_blank" onclick="recordOutboundLink(this, 'Outbound Links', 'surveymonkey.com');window.open('https://www.surveymonkey.com/s/AllenEdmonds');return false;">Survey</a></li>
                         <li id="socialWrapper">
-							<a href="#" id="newSpriteFacebook" alt="Like Us On Facebook" target="_blank" onclick="recordOutboundLink(this, 'Outbound Links', 'facebook.com');window.open('https://www.facebook.com/allenedmonds/app_554450227908870');return false;"> </a>
-							<a href="#" id="newSpriteTwitter" alt="Follow Us On Twitter" target="_blank" onclick="recordOutboundLink(this, 'Outbound Links', 'twitter.com');window.open('http://twitter.com/AllenEdmonds');return false;"> </a>
-							<a href="#" id="newSpritePinterest" alt="Share Us On Pinterest" target="_blank" onclick="recordOutboundLink(this, 'Outbound Links', 'pintrest.com');window.open('http://pinterest.com/allenedmonds');return false;"> </a>
-							<a href="#" id="newSpriteYoutube" alt="Watch Us On YouTube" target="_blank" onclick="recordOutboundLink(this, 'Outbound Links', 'youtube.com');window.open('http://www.youtube.com/AllenEdmondsShoes');return false;"> </a>
+							<a href="#" id="newSpriteFacebook" alt="Allen Edmonds Facebook page" target="_blank" onclick="recordOutboundLink(this, 'Outbound Links', 'facebook.com');window.open('https://www.facebook.com/allenedmonds/app_554450227908870');return false;"> </a>
+							<a href="#" id="newSpriteTwitter" alt="Allen Edmonds Twitter page" target="_blank" onclick="recordOutboundLink(this, 'Outbound Links', 'twitter.com');window.open('http://twitter.com/AllenEdmonds');return false;"> </a>
+							<a href="#" id="newSpritePinterest" alt="Allen Edmonds Pinterest page" target="_blank" onclick="recordOutboundLink(this, 'Outbound Links', 'pintrest.com');window.open('http://pinterest.com/allenedmonds');return false;"> </a>
+							<a href="#" id="newSpriteYoutube" alt="Allen Edmonds YouTube page" target="_blank" onclick="recordOutboundLink(this, 'Outbound Links', 'youtube.com');window.open('http://www.youtube.com/AllenEdmondsShoes');return false;"> </a>
 						</li>
 					</ul>    
                 </li>
@@ -4462,7 +4100,7 @@ If you do not want to receive Allen Edmonds catalogs,  please send an email to <
                     <ul>
 						<li><a href="http://www.allenedmonds.com/aeonline/CustomerStories?catalogId=40000000001&amp;langId=-1&amp;storeId=1">Read Stories</a></li>
                     	<li>
-                        	<a href="/webapp/wcs/stores/servlet/BVSubmissionView?catalogId=40000000001&amp;langId=-1&amp;storeId=1&amp;bvdisplaycode=7512-en_us&amp;bvappcode=sy&amp;bvproductid=GAE&amp;bvpage=http%3A//allenedmonds.ugc.bazaarvoice.com/stories/7512-en_us/product/GAE/submitstory.htm?format=embedded&amp;campaignid=BV_STORIES_SUMMARY_BOX&amp;return=http%3A//www.allenedmonds.com/webapp/wcs/stores/servlet/CustomerStories?catalogId=40000000001&amp;langId=-1&amp;storeId=1&amp;innerreturn=http%3A//allenedmonds.ugc.bazaarvoice.com/stories/7512-en_us/product/GAE/stories.djs?format=embeddedhtml&amp;user=__USERID__&amp;sessionparams=__BVSESSIONPARAMS__&amp;bvcontenttype=STORY_SUBMISSION&amp;bvauthenticateuser=false1">Share Your Story</a>
+                        	<a href="/aeonline/BVSubmissionView?catalogId=40000000001&amp;langId=-1&amp;storeId=1&amp;bvdisplaycode=7512-en_us&amp;bvappcode=sy&amp;bvproductid=GAE&amp;bvpage=http%3A//allenedmonds.ugc.bazaarvoice.com/stories/7512-en_us/product/GAE/submitstory.htm?format=embedded&amp;campaignid=BV_STORIES_SUMMARY_BOX&amp;return=http%3A//www.allenedmonds.com/webapp/wcs/stores/servlet/CustomerStories?catalogId=40000000001&amp;langId=-1&amp;storeId=1&amp;innerreturn=http%3A//allenedmonds.ugc.bazaarvoice.com/stories/7512-en_us/product/GAE/stories.djs?format=embeddedhtml&amp;user=__USERID__&amp;sessionparams=__BVSESSIONPARAMS__&amp;bvcontenttype=STORY_SUBMISSION&amp;bvauthenticateuser=false1">Share Your Story</a>
                         </li>
 					</ul>    
                 </li>
@@ -4491,8 +4129,18 @@ If you do not want to receive Allen Edmonds catalogs,  please send an email to <
 						-->
 					</script><script language="javascript" type="text/javascript">
 					<!--
+						function trackGoogleEmailFormEvent() {
+							var category, action, label, value;  
+							category = "EmailJoin";
+							action = "subscribe";
+							label = "Footer";
+							value = "";
+							trackEvent(category, action, label, value);
+						}
+					
 						function doSubmit() {
 							if (check_cdfs(document.survey)) {
+								trackGoogleEmailFormEvent();
 								window.open('','signup','resizable=1,scrollbars=0,width=300,height=150');
 								return true;
 							}
@@ -4523,7 +4171,7 @@ If you do not want to receive Allen Edmonds catalogs,  please send an email to <
 	
 
 <script type="text/javascript">dojo.addOnLoad(function() { parseWidget("giftCardBalance"); } );</script>	
-<!-- END CachedFooterDisplay.jsp --><!--Application Server Info Begin--><!-- Server Name: server5 -->
+<!-- END CachedFooterDisplay.jsp --><!--Application Server Info Begin--><!-- Server Name: server7 -->
 <!--Application Server Info End--><!-- END FooterDisplay.jspf -->
 
 
@@ -4536,20 +4184,6 @@ If you do not want to receive Allen Edmonds catalogs,  please send an email to <
 </script>
 <!-- END LayoutContainerBottom.jspf --><!-- Footer End -->
 </div>
-<!-- ClickTale Bottom part -->
-<div id="ClickTaleDiv" style="display: none;"></div>
-<script type="text/javascript">
-document.write(unescape("%3Cscript%20src='"+
- (document.location.protocol=='https:'?
-  'https://clicktale.pantherssl.com/':
-  'http://s.clicktale.net/')+
- "WRc5.js'%20type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://clicktale.pantherssl.com/WRc5.js" type="text/javascript"></script>
-<script type="text/javascript">
-	var ClickTaleSSL=1;
-	if(typeof ClickTale=='function') ClickTale(50146,0.02,"www");
-</script>
-<!-- ClickTale end of Bottom part -->
 
 
 
