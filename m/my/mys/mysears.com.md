@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysears.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231161715id_/http%3A//www.sears.com/shc/s/nb_10153_12605_NB_CSprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysears.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407061218id_/http%3A//www.sears.com/shc/s/nb_10153_12605_NB_CSprivacy) for the most accurate reproduction.*
 
 # Sears: Online department store featuring appliances, tools, fitness equipment and more
 
