@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paidcoin.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021061416id_/http%3A//paidcoin.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidcoin.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407083244id_/http%3A//paidcoin.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Social Media Marketing Community | PaidCoin
+# Get More Facebook Likes & Fans | PaidCoin
 
 LEGAL PRIVACY POLICY for PaidCoin.com
 
@@ -80,10 +80,10 @@ Third party links may be found on our site. These third party links have their
 6\. Cancellation & Refund Policy**
 
 **Cancellation Policy**  
-PaidCoin.com believes in helping its customers as far as possible, and has therefore a liberal cancellation policy. Under this policy:  
+paidcoin.net believes in helping its customers as far as possible, and has therefore a liberal cancellation policy. Under this policy:  
 • Cancellations will be considered only if the request is made within 24 hours of placing an order. However, the cancellation request will not be entertained if the orders have been communicated to the vendors/merchants and they have initiated the process of shipping them.  
 • There is no cancellation of orders placed under the Same Day Delivery category.  
-• PaidCoin.com does not accept cancellation requests for items(points) that you are already used.  
+• paidcoin.net does not accept cancellation requests for items(points) that you are already used.  
 • In case you feel that the product received is not as shown on the site or as per your expectations, you must bring it to the notice of our customer service within 24 hours of receiving the product. The Customer Service Team after looking into your complaint will take an appropriate decision.
 
 **Refund Policy**  
@@ -91,4 +91,4 @@ When you buy our products/services, your purchase is covered by our 1-day money-
 
 **7\. Contact** **  Information**
 
-For questions, further information, requests or comments please feel free to contact us via [support center](http://support.paidcoin.com/ "paidcoin.com - Support Center").
+For questions, further information, requests or comments please feel free to contact us via [support center](http://support.paidcoin.net/ "paidcoin.net - Support Center").
