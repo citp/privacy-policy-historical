@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mochimedia.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201082731id_/http%3A//www.mochimedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mochimedia.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407185017id_/http%3A//www.mochimedia.com/privacy.html%3FMMref%3DNav_foot) for the most accurate reproduction.*
 
-# Privacy Policy – Mochi Media :: Fueling Creativity
+# Mochi Media - Privacy Policy – Mochi Media :: Fueling Creativity
 
 Mochi Media, Inc. (the “Mochi Media”) knows that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting Mochi Media’s websites at http://www.mochimedia.com, http://www.mochiads.com, http://www.mochibot.com, http://www.mochikit.com (the “Websites”), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
 
