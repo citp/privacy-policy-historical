@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rangde.org privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630145058id_/http%3A//www.rangde.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rangde.org privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407155713id_/http%3A//www.rangde.org/privacy) for the most accurate reproduction.*
 
-# Rang De - Rang De - Privacy Policy
+# Rang De - Privacy Policy
 
 > Last revised on : Nov 21, 2010
 
@@ -10,7 +10,7 @@ Rang De stresses its privacy and security standards to guard against identity th
 
 * * *
 
-### We may use personal information to provide the services you've requested.
+#### We may use personal information to provide the services you've requested.
 
 Simply put, we do not and will not sell or rent your personal information to anyone, for any reason, at any time. Rang De uses and discloses your personal information only as follows:
 
@@ -29,7 +29,7 @@ In the event that you access the Service as brought to you by one of our co-bran
 
 * * *
 
-### We limit the collection and use of personal information.
+#### We limit the collection and use of personal information.
 
 Certain areas and features of [RangDe.Org](https://web.archive.org/home "RangDe.Org - Home") are available to you without registration or the need to provide to us any information. However, other features of the Site or the Service may require registration, which involves provision to Rang De of an email address, a password and your pin code and to participate on our forum boards, a username (collectively the 'Registration Information'). 
 
@@ -37,13 +37,13 @@ From time to time we may request other personal information to provide you with 
 
 * * *
 
-### Changes to your Registration Information.
+#### Changes to your Registration Information.
 
 If your Registration Information changes during your usage of Rang De, you may update it any time via the Service.
 
 * * *
 
-### Online session information and use is only used to improve your experience
+#### Online session information and use is only used to improve your experience
 
 When you visit [RangDe.Org](https://web.archive.org/home "RangDe.Org - Home"), we may collect technical and navigational information, such as computer browser type, Internet protocol address, pages visited, and average time spent on our Site. This information may be used, for example, to alert you to software compatibility issues, or it may be analyzed to improve our Web design and functionality.
 
@@ -57,19 +57,19 @@ We may use third party service providers to help us analyze certain online activ
 
 * * *
 
-### Blogs and other Forums on RangDe.Org
+#### Blogs and other Forums on RangDe.Org
 
 If you use a bulletin board, blog or chat room on our site, you should be aware that any information you submit there can be read, collected or used by other users and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these forums. These forums may be hosted by Rang De or by one of our third party service providers on Rang De's behalf.
 
 * * *
 
-### Contests, Giveaways and Surveys
+#### Contests, Giveaways and Surveys
 
 From time to time, Rang De may offer you the opportunity to participate in contests, giveaways and other promotions. Any information submitted in connection with such activities will be treated in accordance with this Privacy and Security Policy, except as specifically set forth in the rules for those contests, giveaways or promotions. From time to time, Rang De may also ask you to participate in surveys designed to help Rang De improve the Site. Any personal information provided to Rang De in connection with any survey will be used only in relation to that survey and as elsewhere set forth in this Policy.
 
 * * *
 
-### Disclosure of your information to protect our rights or if required by law
+#### Disclosure of your information to protect our rights or if required by law
 
 Notwithstanding the foregoing, Rang De reserves the right (and you authorize Rang De) to share or disclose your personal information when Rang De determines, in its sole discretion, that the disclosure of such information is necessary or appropriate:   
 To enforce our rights against you or in connection with a breach by you of this Privacy and Security Policy or the [RangDe.Org Terms of Use](https://web.archive.org/termsofuse "RangDe.Org - Terms of Use"); To prevent prohibited or illegal activities; or When required by any applicable law, rule regulation, subpoena or other legal process.   
@@ -77,25 +77,25 @@ To enforce our rights against you or in connection with a breach by you of this 
 
 * * *
 
-### Your data may be transferred upon change of control but only in accordance with this Policy
+#### Your data may be transferred upon change of control but only in accordance with this Policy
 
 Personal information may be transferred to a third party as a result of a sale, acquisition, merger, reorganization or other change of control. If we sell, merge or transfer any part of our business, part of the sale may include your personal information. If so, you will be asked if you'd like to stop receiving promotional information following any change of control.
 
 * * *
 
-### You can transport or delete your data
+#### You can transport or delete your data
 
 Your data is yours. You can remove it anytime you want. When you request us to delete your account for the Service, your data will be permanently expunged from our primary production servers and further access to your account will not be possible. We will also promptly disconnect any connection we had established to your Account Information and delete all account credentials. However, portions of your data, consisting of aggregate data derived from your Account Information, may remain on our production servers indefinitely. Your data may also remain on a backup server or media. Rang De keeps these backups to ensure our continued ability to provide the Service to you in the event of malfunction or damage to our primary production servers. We also reserve the right to use any aggregated or anonymous data derived from or incorporating your personal information.
 
 * * *
 
-### Email communications from us
+#### Email communications from us
 
 We provide our registered customers with monthly summaries of their social investments and email alerts. We also allow users to subscribe to email newsletters and from time to time may transmit emails promoting Rang De. [RangDe.Org](https://web.archive.org/home "RangDe.Org - Home") subscribers have the ability to opt-out of receiving our promotional emails and to terminate their newsletter subscriptions by following the instructions in the emails. Opting out in this manner will not end transmission of service-related emails, such as email alerts.
 
 * * *
 
-### You are responsible for maintaining the confidentiality of your Login ID and Password
+#### You are responsible for maintaining the confidentiality of your Login ID and Password
 
 We maintain rules to help prevent others from guessing your password. We also recommend that you change your password periodically. Your password must be 6-8 characters in length. You are responsible for maintaining the security of your Login ID and Password. You may not provide these credentials to any third party. If you believe that they have been stolen or been made known to others, you must contact us immediately at security@RangDe.Org, but in any event you should change your password immediately via the Service. We are not responsible if someone else accesses your account through Registration Information they have obtained from you or through a violation by you of this Privacy and Security Policy or the [RangDe.Org Terms of Use](https://web.archive.org/termsofuse "RangDe.Org - Terms of Use").
 
@@ -103,12 +103,12 @@ If you have a security related concern, please contact us at security@RangDe.Org
 
 * * *
 
-### We post updates on our website whenever there is a change to our Privacy and Security Policy
+#### We post updates on our website whenever there is a change to our Privacy and Security Policy
 
 We update this Privacy & Security Policy periodically. The date last revised appears at the top of the Policy. Changes take effect immediately upon posting.
 
 * * *
 
-### Contact us if you have any questions or concerns
+#### Contact us if you have any questions or concerns
 
 If you have questions, comments, concerns or feedback regarding this Privacy and Security Policy or any other privacy or security concern, send an e-mail to security@RangDe.Org.
