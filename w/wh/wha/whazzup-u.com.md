@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whazzup-u.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625145324id_/http%3A//whazzup-u.ning.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whazzup-u.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407181042id_/http%3A//whazzup-u.ning.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Whazzup-U
 
