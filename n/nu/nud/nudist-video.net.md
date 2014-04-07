@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nudist-video.net privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101204207id_/http%3A//www.nudist-video.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nudist-video.net privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407034138id_/http%3A//nudist-video.net/privacy.html) for the most accurate reproduction.*
 
 # 
 
