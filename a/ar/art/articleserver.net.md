@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleserver.net privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111032819id_/http%3A//articleserver.net/pages/2/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleserver.net privacy policy that was archived on 2014-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140408042457id_/http%3A//articleserver.net/pages/2/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
