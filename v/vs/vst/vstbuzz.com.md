@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vstbuzz.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808070240id_/http%3A//www.vstbuzz.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vstbuzz.com privacy policy that was archived on 2014-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140408182431id_/http%3A//www.vstbuzz.com/content/privacy-policy) for the most accurate reproduction.*
 
 # VSTBuzz
 
