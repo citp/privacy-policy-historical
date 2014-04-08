@@ -1,78 +1,86 @@
-> *The following text is extracted and transformed from the viasat.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230045559id_/http%3A//www.viasat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viasat.com privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409011200id_/http%3A//www.viasat.com/privacy) for the most accurate reproduction.*
 
 # Satellite and Other Digital Communications Networks, Services, and Technology
 
-ViaSat, Inc. and our subsidiaries (collectively, ViaSat) respect your privacy and are committed to protect the personal information that you share with us. Generally, you can browse through our website without giving us any information about yourself. When we do need your personal information to provide services that you request or when you choose to provide us with your personal information, this Privacy Policy describes how we collect and use your personal information.
+ViaSat Inc. and its subsidiaries and affiliates (collectively, “ViaSat,” “we,” “us,” or “our”) respect and value your privacy. In this Website Privacy Policy (“Policy”), we describe the information that we collect from users of ViaSat websites that include but are not limited to [www.viasat.com](http://www.viasat.com/), <http://www.exede.com/>, and <http://www.wildblue.com/> (the “Sites”). This Policy does not apply to users of customer websites such as exede.net and wildblue.net. The privacy policies applicable to customers of ViaSat services can be found on our customer websites. By visiting our Sites, you agree that your information will be handled as described in this Policy.
 
-  * Information Collection
-  * Notice and Choice
-  * Information Sharing and Disclosure
-  * Data Security
-  * Children and Privacy
-  * EEA Safe Harbor Notice
+  * Information we collect and how we use the information
+  * Information disclosure
+  * Consent to transfer information to the United States
+  * Data security
+  * Links to other websites
+  * Special information for California residents
+  * Our commitment to children's privacy
   * Changes to this Privacy Policy
-  * Questions or Suggestions
+  * How to contact us
 
 
 
 * * *
 
-  
+ 
 
+## **Information We Collect and How We Use the Information**
 
-### Information Collection
-
-Personal information means any information that may be used to identify an individual, including, but not limited to, a first and last name, email address, a home, postal or other physical address, telephone number, other contact information, company name, title, birth date, gender, occupation, industry, personal interests, or other information when needed to provide a service you requested.
-
-ViaSat collects personal information when you register a ViaSat product, register for a ViaSat account, when you use certain ViaSat products or services, when you register to attend a seminar or participate in an online survey, when you ask to be included in an email or other mailing list, or when you submit your personal information to ViaSat for any other reason. From time to time, ViaSat also receives personal information from business partners and vendors. ViaSat only uses such information if it has been assured by its business partners and vendors that such information was collected in accordance with acceptable privacy practices consistent with this Privacy Policy and applicable laws.
-
-### Notice and Choice
-
-When personal information is collected, we will inform you at the point of collection of the purpose for the collection.
-
-If you choose to provide us with your personal information, we may transfer that information within ViaSat or to ViaSat's third party service providers unless you inform us that you do not want us to do so. Your information may be transferred across borders and from your country or jurisdiction to other countries or jurisdictions around the world.
-
-We will always give you the opportunity to "opt out" of receiving direct marketing or market research information. This means we will use the information you provide for direct marketing or market research information unless you take affirmative action to indicate that you do not want us to do so, for instance by clicking or checking the appropriate option or box at the point of collection.
-
-Finally, you can opt-out of receiving marketing at any time. If you do not want to be included on ViaSat's marketing list, simply tell us when you give us your personal information. Or, at any time, you can easily opt-out by sending an email to [privacy@viasat.com](mailto:privacy@viasat.com). Individuals in the European Economic Area (“EEA”) may also send an email to this address to ask to opt-out of disclosures to third parties, but such a limitation on data sharing may make it difficult or impossible for ViaSat US to provide the requested services. Notwithstanding other statements in this Privacy Policy, ViaSat US may disclose contact information of individuals in the EEA, including, without limitation, names, addresses, work phone numbers and work email addresses, where ViaSat US is legally required to disclose (e.g., under statutes, contracts or otherwise) or the disclosure is permitted by law and ViaSat US has a legitimate business interest in such disclosure.
-
-### How We Use Information Collected
-
-ViaSat uses information for several general purposes: to fulfill your requests for certain products and services, to keep you up to date on the latest product announcements, software updates, special offers or other information we think you'd like to hear about either from us or from our business partners, and to better understand your needs and provide you with better services. We may also use your information to send you, or to have our business partners send you, direct marketing information or contact you for market research.
-
-### Information Sharing and Disclosure
-
-Because ViaSat is a global company, your personal information may be shared with other ViaSat offices or subsidiaries around the world. All such entities are governed by this Privacy Policy. Inside ViaSat, data is stored in controlled servers with limited access. Your information may be stored and processed in the United States.
-
-ViaSat may send your personal information to other companies or people under any of the following circumstances even if you have opted out of receiving direct marketing or market research information:
-
-  * We need to share your information to provide the product or service you have requested;
-  * We need to send the information to companies who work on behalf of ViaSat to provide a product or service to you (we will only provide those companies the information they need to deliver the service, and they will be prohibited from using that information for any other purpose);
-  * If required to do so by law, or if we have a good-faith belief that such action is necessary to comply with a court order or subpoena, to cooperate with investigations by law enforcement or regulatory authorities or to participate or cooperate with a judicial proceeding, or in urgent circumstances, to protect personal safety, the public or our websites; or
-  * In the event of a merger, consolidation or reorganization involving ViaSat, acquisition of ViaSat by another company, a sale of all or a portion of ViaSat's assets, or other similar transaction, your personal information will, in most instances, be transferred to the control of a third party.
+  * **Information You Provide to Us**
 
 
 
-### Your Ability to Review, Revise or Delete Your Personal Information
+Generally, you may browse through the Sites without giving us any personal information about yourself. When you request information about our products, services, or events, you may voluntarily provide us with contact information, including your name, phone number and/or email address (“Information”). We use the Information that you provide to respond to your information requests regarding our products and services.
 
-You may request to review, revise or delete any of your personal information held by us by sending an email to [privacy@viasat.com](mailto:privacy@viasat.com)
+  * **Information You Post**
 
-### Data Security
 
-ViaSat safeguards the security of the data you send us with physical, electronic, and managerial procedures. While we strive to protect your personal information, we cannot ensure the security of the information you transmit to us, and so we urge you to take every precaution to protect your personal data when you are on the Internet.
 
-### Children and Privacy
+Any comments or information that you post on social media Sites may be viewable by other users, as well as visitors to our Sites, and becomes public information. If you post content on these Sites, we may collect and use that information. ViaSat is not responsible for the privacy of any information that you choose to post on these Sites or for the accuracy of any information contained in those postings.
 
-ViaSat takes the privacy of children seriously. ViaSat does not seek to collect personal information about children. If we become aware that a person submitting personal information to us is a child, we delete the information as soon as we discover it and do not use it for any purpose, nor do we disclose it to third parties.
+  * **Information Automatically Collected**
 
-### **EEA Safe Harbor Notice**
 
-ViaSat, Inc. US adheres to the Safe Harbor Privacy Principles published by US Department of Commerce (“Safe Harbor Principles”) with respect to personal data about individuals in the EEA that subsidiaries, customers and other business partners in the EEA send to ViaSat, Inc. US. ViaSat US’s Safe Harbor Certification does not extend to data that ViaSat US receives directly through [www.viasat.com](http://www.viasat.com/) or other websites (information on ViaSat US’s practices regarding data received through websites is contained in the applicable website privacy statements, if any). More information on the Safe Harbor Principles and ViaSat US’s scope of participation is available at [www.export.gov/safeharbor](http://www.export.gov/safeharbor/sh_overview.html "http://www.export.gov/safeharbor/sh_overview.html").
 
-### Changes to this Privacy Policy
+We may use cookies, tracking pixels, or other similar technologies to conduct analytics of our Sites. For example, we may automatically collect certain non-personal information from you such as your browser type, operating system, software version, Internet Protocol (IP) address, Internet service provider and platform types. We may also collect non-personal information about your use of the Sites, including the areas or pages of the Sites that you visit, the amount of time you spend using the Sites, the number of times you return, and other Site usage data. This information helps us to track and understand how visitors use our Sites, and improve the performance and user experience of our Sites. To learn more about the use of cookies for website analytics, and to know your options for not having this information used by our service providers, please click [here](http://www.google.com/intl/en_uk/analytics/privacyoverview.html).
 
-ViaSat will amend this Privacy Policy from time to time. If we make any substantial changes in the way we use your personal information we will make that information available by posting a notice on this site. We may also, but are not required to, notify you by email or regular mail.
+  * **How We Respond to Do Not Track Signals**
 
-### Questions or Suggestions
 
-If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us at [privacy@viasat.com](mailto:privacy@viasat.com) This document was last updated June 27, 2008.
+
+Our cookies and other analytics technologies do not collect personal information and we do not combine the general information collected through cookies with other personal information to us to tell us who you are. You may adjust your browser or operating system settings to limit this tracking or to decline cookies, but by doing so, you may not be able to use certain features on the Sites or take full advantage of all of our offerings.  Check the “Help” menu of your browser or operating system to learn how to adjust your tracking settings or cookie preferences. Note that our system does not recognize Do Not Track (DNT) headers from browsers. However, we only use your Information as described in this Policy.  
+ 
+
+## **Information Disclosure**
+
+ViaSat may disclose the information we collect from and about you as follows: (1) to our agents, if the disclosure will enable them to perform a business, professional or technical support function for us; (2) to respond to judicial process or provide information to law enforcement or regulatory agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; or (3) as otherwise described to you at the point of collection.
+
+We may share aggregate or anonymous non-personal information with third parties to perform functions related to the Sites.
+
+Also, ViaSat may sell or purchase assets during the normal course of our business.  If another entity acquires us or any of our assets, information we have collected about you may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against us, then such information may be considered an asset of ours and may be sold or transferred to third parties.
+
+## **Consent to Transfer Information to the United States **
+
+Your information is stored on servers in the United States. If you are located outside of the United States, please note that information we collect will be transferred to and processed in the United States. By using our Sites, you consent to the transfer to and processing of your information in the United States, which may not have data protection laws that provide the same level of protection that exists in countries in the European Economic Area.
+
+## **Data Security**
+
+ViaSat has taken certain physical, administrative, and technical steps to safeguard the Information we collect from and about our Site visitors.  While we seek to ensure the integrity and security of our network and systems, we cannot guarantee the security of the Information. We encourage you to take precautions to protect your personal data when you are on the Internet.
+
+## **Links to Other Websites**
+
+The Sites may contain links to other third party websites. Any access to and use of such linked websites is not governed by this Policy, but instead is governed by the privacy policies of those third party websites, even though some of these other sites may be co-branded with us and may look like Site features. We are not responsible for the information practices of such third party websites.
+
+## **Special Information for California Residents**
+
+ViaSat does not currently disclose any Information to third parties for their direct marketing purposes.
+
+## **Our Commitment to Children's Privacy**
+
+Protecting children’s privacy is important to us. We do not direct the Sites to, nor do we knowingly collect any personal information from, children under the age of thirteen.
+
+## **Changes to this Policy**
+
+ViaSat may amend this Policy from time to time. When we do, we will post the change(s) on the Sites. If we make any material changes in the way we use or disclose the Information you provide to us, we will provide appropriate notice to you.
+
+## **How to Contact Us**
+
+If you have any questions that you would like to ask about this Policy or about our handling of the Information collected on our Sites, please contact us at [privacy@viasat.com](mailto:privacy@viasat.com?subject=Regarding%20your%20Privacy%20Policy).
+
+Effective Date: January 31, 2014
