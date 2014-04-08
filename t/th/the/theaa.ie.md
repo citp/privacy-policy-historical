@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theaa.ie privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204231328id_/http%3A//www.theaa.ie/AA/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaa.ie privacy policy that was archived on 2014-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140408171829id_/http%3A//www.theaa.ie/AA/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # AA Ireland | Data Protection & Privacy Policy | AA Ireland
 
-"AA" means the AA group of companies including AA Ireland Limited and its subsidiary and holding companies. AA Ireland Limited trading as AA Insurance is part of ACROMAS Holdings Ltd. A list of the companies within the AA Group can be obtained from The Secretary, AA Ireland Ltd, 56 Drury Street, Dublin 2.
+"AA" means the AA group of companies including AA Ireland Limited and its subsidiary and holding companies. AA Ireland Limited trading as AA Insurance is part of ACROMAS Holdings Ltd. A list of the companies within the AA Group can be obtained from The Secretary, AA Ireland Ltd, 61A South William Street, Dublin 2.
 
 AA (We) are committed to protecting your privacy. We comply with the principles of the Data Protection Acts 1988 and 2003 and aim to maintain consistently high levels of best practice in our processing of personal and/or sensitive personal data.
 
@@ -30,7 +30,7 @@ Generally by providing the requested data you consent to The AA using that data 
 
 ## Opt Out
 
-Each time you receive marketing information or a message, you have the option to decline to receive further marketing information from us. This is known as an "opt-out". If you wish to exercise the opt-out, write to The Data Protection Officer, AA Ireland Ltd, 56 Drury Street, Dublin 2, email us at aadataprotection@aaireland.ie or telephone us at 1800 72 74 76. If you have more than one address or email address please make sure to notify any changes to your preferences for each address or email address you have registered with us.
+Each time you receive marketing information or a message, you have the option to decline to receive further marketing information from us. This is known as an "opt-out". If you wish to exercise the opt-out, write to The Data Protection Officer, AA Ireland Ltd, 61A South William Street, Dublin 2, email us at aadataprotection@aaireland.ie or telephone us at 1800 72 74 76. If you have more than one address or email address please make sure to notify any changes to your preferences for each address or email address you have registered with us.
 
 If you have more than one address or email address please make sure to notify any changes to your preferences for each address or email address you have registered with us.
 
@@ -99,7 +99,8 @@ Rest assured that the cookies we use do not store personal details, such as paym
 **4) Targeting or advertising cookies**   
 **In brief:** These cookies collect anonymous information about your browsing habits which are then used to make advertising relevant to you. They remember if you have visited a website and share this information with advertisers.
 
-**For example** , We limit advertising to certain sections of the website. These services are provided by our carefully selected and monitored partners, and we are committed to ensuring any information is used appropriately.
+**For example** , For remarketing purposes, we use DoubleClick Cookies. These cookies are provided by our online advertising agency. They help us tailor the advertisements you see on third party sites by understanding what interests you on our sites, such as the pages you view. We don’t combine this information with other personal information you provide with us. These cookies expire 30 days from when you last click on the advertisement.  
+We limit advertising to certain sections of the website. These services are provided by our carefully selected and monitored partners, and we are committed to ensuring any information is used appropriately.
 
 **Links to other sites**
 
@@ -287,11 +288,11 @@ Please advise us in writing at the address/details provided above as to any chan
 
 ##  Subject access requests
 
-You have a statutory right of access to accessible personal data that we hold about you. In order to exercise this right, your application must be in writing for security reasons. Please write to The Secretary, AA Ireland Ltd, 56 Drury Street, Dublin 2. Please refer to the information you wish to see giving dates if possible, and enclose your cheque for €6.35 payable to AA Ireland Limited. We will not administer Subject Access Requests by a third party unless accompanied by a written authority of the individual who is the subject of the request.
+You have a statutory right of access to accessible personal data that we hold about you. In order to exercise this right, your application must be in writing for security reasons. Please write to The Secretary, AA Ireland Ltd, 61A South William Street, Dublin 2. Please refer to the information you wish to see giving dates if possible, and enclose your cheque for €6.35 payable to AA Ireland Limited. We will not administer Subject Access Requests by a third party unless accompanied by a written authority of the individual who is the subject of the request.
 
 **Your choice of information**
 
-You may change the type of material sent to you at any time. The AA allows you to select which products you wish to receive information about, and to cancel any previous expressions of interest in particular areas. If you wish to take advantage of this, please write to The Secretary, AA Ireland Ltd, 56 Drury Street, Dublin 2
+You may change the type of material sent to you at any time. The AA allows you to select which products you wish to receive information about, and to cancel any previous expressions of interest in particular areas. If you wish to take advantage of this, please write to The Secretary, AA Ireland Ltd, 61A South William Street, Dublin 2
 
 **Changes to our privacy policy**
 
@@ -301,4 +302,4 @@ If we decide to change our privacy policy, we will update all relevant documenta
 
 The AA welcome your questions and comments about privacy.
 
-AA welcomes your questions and comments about privacy. Please write to The Secretary, AA Ireland Ltd, 56 Drury Street, Dublin 2.
+AA welcomes your questions and comments about privacy. Please write to The Secretary, AA Ireland Ltd, 61A South William Street, Dublin 2.
