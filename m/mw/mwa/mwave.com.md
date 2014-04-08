@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mwave.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028005009id_/http%3A//www.mwave.com/mwave/pledge.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mwave.com privacy policy that was archived on 2014-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140408214655id_/http%3A//www.mwave.com/mwave/pledge.asp) for the most accurate reproduction.*
 
 # mwave.com: Security and Privacy
 
-This privacy statement discloses the privacy practices for Mwave.com. If you have any questions regarding this statement, please visit our [Contact Us](https://web.archive.org/web/20121028005009id_/http%3A//www.mwave.com/mwave/contactus.asp?) page to reach the appropriate department. 
+This privacy statement discloses the privacy practices for Mwave.com. If you have any questions regarding this statement, please visit our [Contact Us](https://web.archive.org/web/20140408214655id_/http%3A//www.mwave.com/mwave/contactus.asp?) page to reach the appropriate department. 
 
 **We respect your privacy**  
 At Mwave.com, we value our customers and their privacy. All personal information is used to ensure efficient processing of your order. This information is used by our staff for contacting and identifying customers and their needs. We will not give, sell, rent, or loan any personally identifiable information to any third party, unless we are legally required to do so or you authorize us to do so.
@@ -13,7 +13,7 @@ Unsolicited, "spam" mail is not sent to Mwave.com's customers. The only email cu
 **Your personal information Is Secure**  
 Mwave.com uses the industry standard security protocol Secure Sockets Layer (SSL) to encode sensitive information like your credit card number that passes between you and Mwave.com. We employ the latest 128-bit encryption technology in all areas of the site which require you to provide your personal or account information. This means that the credit card information you send is encrypted by your computer, and then decrypted again on our side, preventing others from accessing your private information in between. So, when using an SSL capable browser, shopping on Mwave.com's web site is perfectly safe.
 
-If you have any questions regarding Mwave.com's privacy/security pledge, please visit our [Contact Us](https://web.archive.org/web/20121028005009id_/http%3A//www.mwave.com/mwave/contactus.asp?) page to reach the appropriate department.
+If you have any questions regarding Mwave.com's privacy/security pledge, please visit our [Contact Us](https://web.archive.org/web/20140408214655id_/http%3A//www.mwave.com/mwave/contactus.asp?) page to reach the appropriate department.
 
 | 
 
@@ -41,14 +41,14 @@ This website takes every precaution to protect our users’ information. When us
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment. 
 
-If you have any questions about the security at our web site, please visit our [Contact Us](https://web.archive.org/web/20121028005009id_/http%3A//www.mwave.com/mwave/contactus.asp?) page. 
+If you have any questions about the security at our web site, please visit our [Contact Us](https://web.archive.org/web/20140408214655id_/http%3A//www.mwave.com/mwave/contactus.asp?) page. 
 
 Removal/Opt Out  
 Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor.
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. E-mail us: Visit our [Contact Us](https://web.archive.org/web/20121028005009id_/http%3A//www.mwave.com/mwave/contactus.asp?) page to reach the appropriate department. 
+  1. E-mail us: Visit our [Contact Us](https://web.archive.org/web/20140408214655id_/http%3A//www.mwave.com/mwave/contactus.asp?) page to reach the appropriate department. 
   2. You can send mail to the following postal address: 20159 Paseo Del Prado, Walnut, CA 91789
   3. You can call the following telephone number: 1-800-234-3358 
 
@@ -56,7 +56,7 @@ Correct/Update
 This site gives users the following options for changing and modifying information previously provided. 
 
   1. web site: [Update/Modify Account Information](https://www.mwave.com/mwave/secure/customerprofile.asp?)
-  2. Contact Info: Visit our [Contact Us](https://web.archive.org/web/20121028005009id_/http%3A//www.mwave.com/mwave/contactus.asp?) page to e-mail us. 
+  2. Contact Info: Visit our [Contact Us](https://web.archive.org/web/20140408214655id_/http%3A//www.mwave.com/mwave/contactus.asp?) page to e-mail us. 
   3. send mail to the following postal address: 20159 Paseo Del Prado, Walnut, CA 91789
   4. call the following telephone number: 1-800-234-3358 
 
@@ -71,4 +71,4 @@ If you have any questions about this privacy statement, the practices of this si
 Mwave.com  
 20159 Paseo Del Prado  
 Walnut, CA 91789  
-Or visit our [Contact Us](https://web.archive.org/web/20121028005009id_/http%3A//www.mwave.com/mwave/contactus.asp?) page to reach the appropriate department.
+Or visit our [Contact Us](https://web.archive.org/web/20140408214655id_/http%3A//www.mwave.com/mwave/contactus.asp?) page to reach the appropriate department.
