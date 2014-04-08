@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebgalz.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216170751id_/http%3A//celebgalz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebgalz.com privacy policy that was archived on 2014-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140408035957id_/http%3A//celebgalz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Celebgalz.com :: Hottest News
 
@@ -38,5 +38,3 @@ Be Sociable, Share!
   * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fcelebgalz.com%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
   * 
 
-
-by [Amazon Auto Links](http://en.michaeluno.jp/amazon-auto-links)
