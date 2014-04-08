@@ -1,113 +1,80 @@
-> *The following text is extracted and transformed from the crescendonetworks.com privacy policy that was archived on 2011-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110824135224id_/http%3A//www.crescendonetworks.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crescendonetworks.com privacy policy that was archived on 2014-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140408180625id_/https%3A//f5.com/about-us/policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | Crescendo Networks
+# Privacy Policy
 
-**CRESCENDONETWORKS.COM PRIVACY POLICY**  
-(the “Privacy Policy” or “Policy”)
+This policy is effective January 28, 2014
 
-  
-**Effective Date:** April 15, 2010
+Welcome to the web site for F5 Networks, Inc. ("F5"). F5’s web site is comprised of various web pages, collectively the “web site.” F5 believes that the confidentiality of customer information is one of its fundamental responsibilities. This Privacy Policy governs F5’s data collection and usage. Please review the Privacy Policy carefully. Your use of the web site constitutes your agreement to all such terms, conditions and notices. If you do not agree to these terms, do not use the web site or provide any personal information. 
 
-### 
+F5 limits the collection, retention and use of customer information to what F5 believes is necessary or useful to conduct its business, provide quality service and offer products and services of interest to its customers. The following sections describe how F5 collects, retains and uses customer information. Additional specifics on how DevCentral collects and uses such information is provided at the bottom.
 
-Definitions
+F5 uses commercially reasonable safeguards to help protect and secure your personal information, and uses reasonable efforts to obtain the agreement of business partners to take steps to protect the confidentiality, security, and integrity of personal information F5 shares with them. However, no electronic data transmission or storage of information can be guaranteed to be 100% private and secure.
 
-www.crescendonetworks.com (the "Web Site") is owned and operated by Crescendo Networks Ltd. 
+### Collection and retention of customer information
 
-  The terms "Crescendo Networks", "we", "us", "our" and "ours" when used in this Privacy Policy means Crescendo Networks Ltd. which includes all its parents, subsidiaries, divisions, branches, and affiliates. 
+F5 collects the following information:
 
-  The terms "you", "your" and "yours" when used in this Privacy Policy means any user of the Web Site. 
+  * F5 collects personally identifiable customer information from registration forms, including information requests, software downloads, webcast registrations and training requests. For instance, F5 collects personal information needed to process registration and login information for the DevCentral web site, as well as personal information in connection with online requests for literature, applications and forms, and use of online tools. 
+  * F5 collects information that is not personally identifiable to the user, such as referring URL addresses, time spent in certain areas of the site, and origination of the user.
+  * Some information about your computer hardware and software is automatically collected. This information can include your IP address, browser type, domain names, and access times. This information is used by F5 for operating the web site, to maintain quality of the service, and to provide general statistics regarding use of the web site.
+  * If you are providing payment through the F5 web site, no credit or debit card information is stored on F5 servers; such information is stored by our PCI-compliant third-party payment processors, Recurly and Authorize.net. All credit and debit card transactions occur between the computer originating the transaction and our payment processor
 
-  The term "Personal Data" refers to personally identifiable information about you, such as your name, birth date, e-mail address or mailing address. 
 
-  This Privacy Policy describes Crescendo Networks’ current policies and practices with regard to Personal Data collected by Crescendo Networks through the Web Site.
 
-### Collection of Personal Data Including E-Mail Addresses
+### How F5 uses the information
 
-Crescendo Networks takes your privacy seriously.  We respect and protect the privacy of our users and take appropriate steps to safeguard your personal information.
+The personal information (e.g., name and address) F5 requires when you request or download information is used only to service your account and provide you with information on F5 products and services. Unless you choose to identify yourself in responding to a request for information on the web site, you will remain anonymous to F5. Any personal information that is collected is used to provide service to you in connection with your use of the web site and is not shared with third parties, except for F5 partners, as described in the Privacy Policy.
 
-We collect the information you give us when you visit our Web Site and use it to download or view specific product information or when you request to be contacted. You may use this Web Site to register to receive additional information (i.e. newsletters) or products from us. When you register, we ask you for contact information like your name, postal address and e-mail address. 
+F5 may also use aggregated user data from these web tools as part of research to develop new web features, tools, and content, and for market research related to its products.
 
-We sometimes supplement the information that you provide with information that is received from third parties. For instance, if inaccurate postal or zip codes are received, we will use third party software to fix them.
+### Third parties with Whom F5 share information
 
-### Crescendo Networks Email Marketing Communication Policy
+The majority of F5 products are sold through its business partners (resellers, distributors, etc.). In order to transact business, F5 shares limited information with the F5 partners that resell F5 products. F5 also works with business partners to provide specific services, such as sending newsletters, providing software downloads or product deliveries, or handling credit or debit card transactions. F5 provide these partners limited customer information such as name, company name and address.
 
-Crescendo Networks sends promotional email only to:  
-•    Customers   
-•    People who have given consent to Crescendo Networks to receive promotional email   
-•    People on rented email lists who have given permission to the list owner to receive third-party promotional email   
-•    All of the abovementioned who have not opted out after having received promotional email from us.  
-In each promotional email, we provide an easy and clear way to opt out of future Crescendo Networks email. Opt-out requests using the opt-out link in our emails are processed automatically and go into effect immediately. Opt-out requests sent by the following email marketing [at]  crescendonetworks.com are processed within 10 business days. When sending email to rented email lists, we suppress addresses of those people who have opted out of Crescendo Networks email in the past. 
+In addition, F5 will disclose your personal information, without notice, only if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on F5 or the web site; (b) protect and defend the rights or property of F5; or, (c) act under exigent circumstances to protect the personal safety of users of F5, or the public.
 
-We always disclose our identity in mass email communications, including the address of our headquarters location.
+F5 does not rent or sell customer information to unaffiliated third parties for the purpose of marketing their products or services to you.
 
-  We never use deceiving header information or subject lines.
+### Use of cookies
 
-  We never send mass, promotional email to email addresses “harvested” from websites.
+F5 understands that re-entering personal data to transmit a request can be time consuming. For example, F5 asks you to fill out information about yourself, such as your name and e-mail address, when you register at AskF5, DevCentral or when requesting literature. F5 uses cookies on various pages of its web site to identify users and prepare customized web pages for them. When you log in, F5 sends you a cookie with a unique identifier. F5 uses this cookie to remember who you are each time you view a new web page on the web site. Cookies are used in a similar manner on other pages of its web site where information is requested from you, such as forms for service or literature requests. F5 also uses cookies in connection with satisfaction surveys and web traffic monitoring. Satisfaction survey cookies help us prevent the same surveys from reappearing the next time you visit the web site. Web traffic monitoring cookies help us analyze your past browsing behavior of the web site. Some of the cookies sent from the web site may expire upon logging-off (e.g., AskF5, DevCentral, requested service form/requested literature related cookies), some may persist for only a limited amount of time, 30 days or more, before expiring (e.g., satisfaction survey related cookies), and some may persist indefinitely (e.g., web traffic monitoring related cookies).
 
-  We never, under any circumstances, rent or sell email addresses to any other company or individual.
+If you prefer to not receive cookies while browsing the web site, you can set your browser to warn you before accepting them and refuse the cookie(s) when your browser warns you, or you can set your browser to refuse all cookies from the web site (or certain parts of the web site), and/or you can delete cookies received from the web site using your browser, for instance. Cookie handling instructions vary depending on the particular browser being used, and F5 does not assume responsibility for any undesired results arising from altering your browser's cookie handling settings.
 
-  When coordinating with our resellers for the purpose of follow-up on sales inquiries made to us, we provide full contact information of the inquirer to the reseller, including email address, so the reseller can follow up on the inquiry.
+Although you do not need to accept all cookies from the web site or you may choose to delete any cookies received from the web site, some cookies may be needed to use/navigate through parts of the web site before certain actions can be performed (e.g., accessing portions of the web site requiring login and password), to enable F5 to collect/analyze accurate repeat web site visitor behavior information, or to prevent the same surveys from reappearing upon subsequent visits by you. Turning cookies off, refusing the cookies, or deleting cookies received from the web site may prevent you from taking full advantage or in some cases even from accessing certain portions of the web site, and may hinder our efforts to better understand your needs and provide you with customized content.
 
-  Our marketing email policy and practice fully conforms to the United States Federal “CAN SPAM” act of 2003 and the Israeli applicable statues such as the Protection Of Privacy Law 5741-1981.  Note that some regions such as the European Union, have different email laws and guidelines, and Crescendo Networks conforms to local laws in those cases. We welcome and encourage your thoughts on this policy at marketing [at]  crescendonetworks.com.
+### Surveys
 
-### Use of Personal Data
+Occasionally, F5 conducts surveys regarding the web site or other products or services. The information you provide is used collectively for analytical purposes. You will not receive unsolicited communications as a result of your participation in a survey if you notify us not to contact you.
 
-We process your Personal Data only for specific and limited purposes. We ask only for data that is adequate, relevant and not excessive for those purposes. When we ask you for Personal Data, we tell you the purposes for which we will process that data. 
+### Links to Other Sites
 
-  Some of these purposes include the following:  
-•    We may contact you occasionally to inform you of new services we will be providing, or special offers, events or articles we think will be of interest to you.   
-•    We may send you regular updates by e-mail or by post on Crescendo Networks organized or related events.   
-•    We may send you requested product information and promotional material.   
-•    We may use your Personal Data for marketing purposes and market research.   
-•    We may use your Personal Data internally to help us improve our products and services and to help resolve any problems.
+On the web site, F5 may provide links to third parties that provide articles and other information that may be of interest to you. Should you choose to visit these sites, you should read their privacy policies to understand what information they collect from you and how they use it. F5 is not responsible for the privacy statements or actions of other web sites.
 
-### Disclosure of Your Personal Data
+### DevCentral Specific Terms
 
-We do not share, sell or distribute your Personal Data with unrelated third parties, except under these limited circumstances:
+DevCentral collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. DevCentral also collects anonymous demographic information that is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-Personal Data may occasionally be transferred to third parties who act for or on behalf of Crescendo Networks, or in connection with the business of Crescendo Networks for further processing in accordance with the purposes for which the data was originally collected or for purposes to which you have subsequently consented. For example, sometimes a third party may have access to your Personal Data in order to handle our mailings on our behalf.
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through DevCentral public message boards, this information may be collected and used by others. Note: DevCentral does not read any of your private online communications.
 
-We may share or transfer the information in our databases to comply with a legal requirement, for the administration of justice, to protect your vital interests, to protect the security or integrity of our databases or this Web Site, to take precautions against legal liability, or in the event of a corporate sale, merger, reorganization, dissolution or similar event. 
+DevCentral may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, DevCentral may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to DevCentral, and they are required to maintain the confidentiality of your information.
 
-Where appropriate, before disclosing Personal Data to a third party, we contractually require the third party to take adequate precautions to protect that data.
+DevCentral does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
-### Anonymous data collected through this Web Site
+DevCentral uses commercially reasonable safeguards to secure your personal information from unauthorized access, use or disclosure. DevCentral secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. 
 
-In addition to the information we collect as described above, we use technology to collect anonymous information about the use of our Web Site. This technology does not identify you personally; it simply enables us to compile statistics about our visitors and their use of our Web Site. 
+### You have a choice
 
-  We use this anonymous data to improve the content and functionality of this Web Site and our e-mail updates, to better understand our customers and markets, and to improve our products and services.
+F5 is sensitive to the fact that some of its customers prefer not to receive offers or product promotions from F5. Customers who do not wish to receive these offers may have their names removed at any time from future solicitations. To remove your name from future mailings, please send your request to remove@f5.com or in writing to F5 Networks, 401 Elliot Ave. West, Seattle, WA 98119 Attn: Marketing.
 
-### Cookies
+### Help us keep accurate records
 
-In order to collect the anonymous data described in the preceding paragraph, we may use "cookies" that collect the first level domain name of the user and the date and time you accessed this Web Site. A cookie is a small file containing a string of characters. This information is sent to your computer when you use the Web Site and it’s stored on your computer, subject to your cookies storage preferences, so that we can uniquely identify a user’s browser.
+F5 understands the importance of maintaining accurate customer records. Please help keep your records accurate by contacting us at [updateinfo@f5.com](mailto:updateinfo@f5.com)
 
-  We also use your IP address to help diagnose problems with our server and to administer our Web Site. An IP address is a numeric code that identifies your computer on a network, or in this case, the Internet. Your IP address is also used to gather broad demographic information, such as determining how many of our visitors are from outside of the US.
+### Notification of Changes
 
-### User Communications
+F5 reserves the right to change the terms, conditions, and notices under which the web site is offered, including but not limited to the charges associated with the use of the web site. When F5 does, F5 will update the revision date at the top of this statement. Your continued use of the web site indicates your agreement to the modified terms, conditions, and notices.
 
-When you send email or other communication to Crescendo Networks, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
+### Questions
 
-### Links To Other Web Sites
-
-This Privacy Policy applies only to www.crescendonetworks.com and to other Crescendo Networks URLs through or from which you have reached this Web Site. This Web Site contains hyperlinks to web sites that are not operated by Crescendo Networks. These hyperlinks are provided for your reference and convenience only and do not imply any endorsement of the activities of these third-party web sites or any association with their operators. We do not control these web sites and are not responsible for their data or privacy practices. We urge you to review any privacy policy posted on any site you visit before using the site or providing any Personal Data about yourself.
-
-### Information Security
-
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
-
-Access to Personal Data is for restricted to designated Crescendo Networks employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
-
-### Special Note for Parents and Children Under Age 18
-
-The site you are visiting is a general audience site. The Web Site is not directed to persons under 18. If a parent or guardian becomes aware that his or her child has provided us with personal information without their consent, he or she should contact us. We do not knowingly collect or solicit personal information from people under 18. If we become aware that a person under 18 has provided us with personal information, we will delete such information from our files.
-
-If you are under 18, do not attempt to provide us any information about yourself.
-
-### Changes to This Policy
-
-This Policy may change from time to time. We will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice. Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Policy in an archive for your review.
-
-### Questions 
-
-If you have any questions about this Privacy Policy or concerns about the way we process your Personal Data, please contact us by e-mailing us at marketing [at]  crescendonetworks.com.
+F5 recognizes and respects the privacy expectations of its customers. F5 wants its customers to understand its commitment to privacy. If you have questions about the Privacy Policy, please email us at [privacy@f5.com](mailto:privacy@f5.com).
