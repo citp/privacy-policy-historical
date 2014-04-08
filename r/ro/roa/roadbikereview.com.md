@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadbikereview.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231021230id_/http%3A//www.consumerreview.com/channels/consumerreview/data/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadbikereview.com privacy policy that was archived on 2014-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140408141606id_/http%3A//www.consumerreview.com/channels/consumerreview/data/main/privacy.html) for the most accurate reproduction.*
 
 # Consumer Product Reviews - ConsumerREVIEW.com
 
