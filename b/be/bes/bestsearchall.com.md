@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestsearchall.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625004424id_/http%3A//www.bestsearchall.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestsearchall.com privacy policy that was archived on 2014-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140408105446id_/http%3A//bestsearchall.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Bestsearchall.com- Privacy Policy
 
