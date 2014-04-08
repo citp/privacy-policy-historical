@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audiomidi.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207080542id_/http%3A//www.audiomidi.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiomidi.com privacy policy that was archived on 2014-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140408052527id_/http%3A//www.audiomidi.com/info/privacy) for the most accurate reproduction.*
 
 # audioMIDIcom: Help > Privacy, Security & Accessibility
 
