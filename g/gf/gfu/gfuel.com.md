@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gfuel.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106183227id_/http%3A//www.gfuel.com/customer-support/security-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfuel.com privacy policy that was archived on 2014-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140408132834id_/http%3A//www.gfuel.com/customer-support/security-privacy-policy) for the most accurate reproduction.*
 
 # G Fuel | Security / Privacy Policy
 
