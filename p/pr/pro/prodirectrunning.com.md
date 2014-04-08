@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prodirectrunning.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204191038id_/http%3A//www.prodirectrunning.com/articles/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prodirectrunning.com privacy policy that was archived on 2014-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140408100930id_/http%3A//www.prodirectrunning.com/articles/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy & Security at Pro-Direct Running - Running Shoes & Clothing - The Definitive Running Store
 
