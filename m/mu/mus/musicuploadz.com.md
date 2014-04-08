@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicuploadz.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106194545id_/http%3A//www.musicuploadz.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicuploadz.com privacy policy that was archived on 2014-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140408042154id_/http%3A//www.musicuploadz.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
