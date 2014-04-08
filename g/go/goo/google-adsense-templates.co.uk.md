@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the google-adsense-templates.co.uk privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105002412id_/http%3A//www.google-adsense-templates.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the google-adsense-templates.co.uk privacy policy that was archived on 2014-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140408143334id_/http%3A//www.google-adsense-templates.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy for the Website ****
+Privacy Policy for the Website **http://www.google-adsense-templates.co.uk/**
 
 The privacy of our visitors is important to us.
 
@@ -26,4 +26,4 @@ We may also use third party advertisements to support our website such as Google
 
 You can disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as commenting.
 
-End of Privacy Policy for the Website ****
+End of Privacy Policy for the Website **http://www.google-adsense-templates.co.uk/**
