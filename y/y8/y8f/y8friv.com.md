@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the y8friv.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817070023id_/http%3A//www.y8friv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the y8friv.com privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409164736id_/http%3A//www.y8friv.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Y8 Friv
 
