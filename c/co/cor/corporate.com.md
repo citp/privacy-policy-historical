@@ -1,10 +1,33 @@
-> *The following text is extracted and transformed from the corporate.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805222953id_/https%3A//www.incorporate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corporate.com privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409072704id_/https%3A//www.incorporate.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - The Company Corporation
 
-Privacy Statement
+Getting Started
 
-[$50,000 Corporate Veil Guarantee when you form your business with us. Click to learn more.](https://web.archive.org/web/20130805222953id_/https%3A//www.incorporate.com/cvg_50K_guarantee.html)
+  * [Incorporate Now](https://web.archive.org/incorporate_now.html)
+  * [Business Startup Wizard](https://web.archive.org/business_startup_wizard.html)
+  * [Limited Liability Company  
+(LLC)](https://web.archive.org/limited_liability_company.html)
+  * [S Corporation](https://web.archive.org/s_corporation.html)
+  * [C Corporation](https://web.archive.org/c_corporation.html)
+  * [Comparison Chart](https://web.archive.org/business_structure_comparison_chart.html)
+  * [Business Licenses](https://web.archive.org/business_licenses_permits.html)
+  * [Employer ID Number (EIN)](https://web.archive.org/employer_id_number_ein.html)
+
+
+
+Learn More
+
+  * [Benefits of Incorporating](https://web.archive.org/benefits_of_incorporating.html)
+  * [Start-up Tasks](https://web.archive.org/completing_startup_tasks.html)
+  * [Corporation vs LLC](https://web.archive.org/comparing_corporations_llcs.html)
+  * [Bylaws & Operating Agreements](https://web.archive.org/bylaws_operating_agreements.html)
+  * [State Guides](https://web.archive.org/choosing_a_state.html)
+  * [Business Coaching](https://web.archive.org/compliance_coaching.html)
+  * [Annual Report](https://web.archive.org/annual_report_filing.html)
+  * [Contact Us](https://web.archive.org/contact_us.html)
+
+
 
 ## The Company Corporation Privacy Statement 
 
