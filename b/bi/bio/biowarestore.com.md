@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biowarestore.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208153236id_/http%3A//www.biowarestore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biowarestore.com privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409095253id_/http%3A//www.biowarestore.com/privacy-policy) for the most accurate reproduction.*
 
 # The BioWare Store - Privacy Policy
 
