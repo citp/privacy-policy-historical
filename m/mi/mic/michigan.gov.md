@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the michigan.gov privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230133510id_/http%3A//www.michigan.gov/som/0%2C4669%2C7-192-26914-2088--%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michigan.gov privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409224533id_/http%3A//www.michigan.gov/som/0%2C4669%2C7-192-26914-2088--%2C00.html) for the most accurate reproduction.*
 
-# SOM - Terms of Use, Privacy Policy, and Linking Policy
+# SOM -
 
 ### Terms of Use, Privacy Policy, and Linking Policy
 
@@ -98,5 +98,9 @@ To link to Michigan.gov, use the following HTML code:
 <a href="http://www.michigan.gov">
 
 You may also link to individual State department or agency websites by creating a text link to a specific State department or agency.  You are not, however, permitted to use the individual State department or agency logo for linking purposes. 
+
+### Mobile Application License Terms of Use
+
+Please see the [State of Michigan Mobile Application License Terms of Use](http://www.michigan.gov/som/0,4669,7-192-26914-285832--,00.html) for Mobile Application Terms and Conditions. 
 
 Effective Date: November 2013
