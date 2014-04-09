@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the procamrunning.in privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221010122id_/http%3A//www.procamrunning.in/PRIVACY-POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the procamrunning.in privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409125039id_/http%3A//procamrunning.in/PRIVACY-POLICY) for the most accurate reproduction.*
 
 # Procamrunning Official Site - Privacy Policy
 
