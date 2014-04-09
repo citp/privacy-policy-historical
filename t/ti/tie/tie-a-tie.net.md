@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tie-a-tie.net privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105095708id_/http%3A//www.tie-a-tie.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tie-a-tie.net privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409055949id_/http%3A//www.tie-a-tie.net/privacy.html) for the most accurate reproduction.*
 
 # Tie-a-Tie.net | Privacy Policy
 
@@ -64,7 +64,7 @@ If you purchase my Tie Knot Video Series, I offer you the choice that I keep you
 
 **Correcting/Updating Personal Information**
 
-If you purchase my Tie Knot Video Series, and you need to correct or update your personal information (such as your eMail address), or you no longer desire my service you can let me know by [sending me a message](https://web.archive.org/web/20131105095708id_/http%3A//www.tie-a-tie.net/contact.html "Contact Me").
+If you purchase my Tie Knot Video Series, and you need to correct or update your personal information (such as your eMail address), or you no longer desire my service you can let me know by [sending me a message](https://web.archive.org/web/20140409055949id_/http%3A//www.tie-a-tie.net/contact.html "Contact Me").
 
 **Changes to Privacy Statement**
 
@@ -78,7 +78,7 @@ I may disclose personal information when required by law or in the good-faith be
 
 **Contact Me**
 
-If you have any questions about this Privacy Policy, the practices of Tie-a-Tie.net with respect to personal information or your dealings with this Website, you can [contact me here](https://web.archive.org/web/20131105095708id_/http%3A//www.tie-a-tie.net/contact.html "Contact Me") or write to:
+If you have any questions about this Privacy Policy, the practices of Tie-a-Tie.net with respect to personal information or your dealings with this Website, you can [contact me here](https://web.archive.org/web/20140409055949id_/http%3A//www.tie-a-tie.net/contact.html "Contact Me") or write to:
 
 * * *
 
