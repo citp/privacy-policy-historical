@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calastrology.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220113617id_/http%3A//www.calastrology.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calastrology.com privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409191318id_/http%3A//www.calastrology.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,7 +13,7 @@
 
 [](http://smallbusiness.yahoo.com/ecommerce/)
 
-| | [](https://web.archive.org/web/20131220113617id_/http%3A//www.calastrology.com/index.html)
+| | [](https://web.archive.org/web/20140409191318id_/http%3A//www.calastrology.com/index.html)
 
 |    
 |  We are a Yahoo! Store Merchant. Our website is hosted by Yahoo! Store. We strictly adhere to Yahoo!'s [Yahoo! Store Guidelines](http://store.yahoo.com/guide.html) and [Terms of Service](http://store.yahoo.com/terofser.html). 
@@ -28,14 +28,14 @@ Additionally, we use the McAfee Secure service, which continually monitors our w
 
 [](https://scanalert.com/RatingVerify?ref=www.calastrology.com)
 
-Of course, you can always order from us by [ mail or fax](https://web.archive.org/web/20131220113617id_/http%3A//www.calastrology.com/info.html). 
+Of course, you can always order from us by [ mail or fax](https://web.archive.org/web/20140409191318id_/http%3A//www.calastrology.com/info.html). 
 
   
 Sometimes we may make our mailing list (name & postal address) available to carefully chosen companies whose unique offers may be of interest to you. Although we may group our mailing list by clients who bought similar products, we never release credit card, financial, or personal information to any companies or other organizations. **We will never share your email address with anyone.**
 
-If you prefer that we not include your **name and address** when we share our client list with selected companies, please [click here](https://web.archive.org/web/20131220113617id_/http%3A//www.calastrology.com/contact.html) to use our online contact form. 
+If you prefer that we not include your **name and address** when we share our client list with selected companies, please [click here](https://web.archive.org/web/20140409191318id_/http%3A//www.calastrology.com/contact.html) to use our online contact form. 
 
-If you would like to be removed from our **email** newsletter mailing list, please [click here](https://web.archive.org/web/20131220113617id_/http%3A//www.calastrology.com/unsubscribe.html). 
+If you would like to be removed from our **email** newsletter mailing list, please [click here](https://web.archive.org/web/20140409191318id_/http%3A//www.calastrology.com/unsubscribe.html). 
 
 **Additional information from Yahoo!**
 
