@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrixstream.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822163253id_/http%3A//www.metrixstream.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrixstream.com privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409031017id_/http%3A//www.metrixstream.com/policy) for the most accurate reproduction.*
 
 # Online Video Platform | Live Video Streaming Software | Metrixstream
 
