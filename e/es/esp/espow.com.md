@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the espow.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806232644id_/http%3A//www.espow.com/faq.html%3FcID%3D86) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the espow.com privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409080256id_/http%3A//www.espow.com/privacy-policy.html) for the most accurate reproduction.*
 
-# FAQ ESPOW
-
-**Privacy Policy**
+# Privacy Policy
 
 ESPOW.COM collects information like your name, shipping and billing address, credit card number, email address etc from you as we have to
 
@@ -16,4 +14,4 @@ ESPOW.COM may share information collected by us with third parties to help proce
 
 ESPOW.COM will not share, rent, lease, or sell your personal information (e.g. your email address, your credit card information, your name, your address, etc.) to any third party for their independent use or benefit.
 
-Future changes to this Privacy Policy may be made at any time by sending you an email or posting notice of the changes on the site, with the changes effective 30 days after ESPOW.COM dispatch of the email or posting of the notice. To ask questions about this policy or to remove your personal information from our database, write us at _privacy@espow.com._
+Future changes to this Privacy Policy may be made at any time by sending you an email or posting notice of the changes on the site, with the changes effective 30 days after ESPOW.COM dispatch of the email or posting of the notice. To ask questions about this policy or to remove your personal information from our database, write us at  _[privacy@espow.com](mailto:privacy@espow.com)._
