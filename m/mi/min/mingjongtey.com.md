@@ -1,27 +1,41 @@
-> *The following text is extracted and transformed from the mingjongtey.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124003955id_/http%3A//www.mingjongtey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mingjongtey.com privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409164334id_/http%3A//www.mingjongtey.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We, at [http://www.mingjongtey.com](http://www.mingjongtey.com/)  takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
+www.MingJongTey.com Privacy Policy 
 
-## Routine Information Collection
+(’I’ and ‘we’ refers to Ming Jong Tey, owner of this website) I am committed to keeping all your personal details safe and secure. My privacy policy strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+Collecting Your Personal Information 
 
-## Cookies and Web Beacons
+I am committed to protecting your privacy. I will only use the information that I collect about you lawfully (in accordance with the Data Protection Act 1998). I will not pass on your details to any third party and do not send out marketing e-mails to customers unless they have registered to receive such material, purchased from me, or downloaded one of my free or paid products. 
 
-Where necessary, we use cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+The type of information I ‘may’ collect about you includes: 
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
+Your full name   
+Your e-mail address   
+Your postal address 
 
-## Controlling Your Privacy
+Generally, this information is requested when you are either downloading free products, when you purchase any of my products (eBooks, software etc.), or when you subscribe to my newsletters. I will never collect sensitive information about you without your explicit consent. The information I hold will be accurate and up to date. You can check the information that I hold about you by e-mailing us at mingjong@MingJongTey.com. If you find any inaccuracies we will delete or correct it promptly. 
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [web browser privacy management](http://www.synclastic.com/privacy/browser-configuration/) links may also be useful.
+How I Control Your Personal Information I will not use your personal information for any other reason other than to contact you. We do not sell, give away or rent your email address to any third party. If in the future I did for any reason wish to rent, sell or use your email address for any other purpose we will ask you for your permission first. 
 
-## Special Note About Google Advertising
+How We Use Your Personal Information 
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
+Your personal information is used for four main purposes and they are as follows: 
 
-## Contact Information
+1\. To send out information, recommendations and resources to you. 
 
-Concerns or questions about this privacy policy can be directed at the [contact page](http://www.psoriasistreatmentblog.org/contact/) for further clarification.
+2\. To provide assistance to you after you have purchased products from me. 
+
+3\. To help me create and deliver content most relevant to you. 
+
+4\. To enlighten you about new products, services, tool, upgrades, special offers and information which I feel may be of use to you. 
+
+I will only disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: 
+
+(a) Conform to the edicts of the law or comply with legal process served on www.MingJongTey.com 
+
+(b) Protect and defend the rights or property of www.MingJongTey.com
+
+(c) Act in urgent circumstances to protect the personal safety of users of www.MingJongTey.com
