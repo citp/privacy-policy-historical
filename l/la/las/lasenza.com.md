@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasenza.com privacy policy that was archived on 2013-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131008120011id_/http%3A//www.lasenza.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasenza.com privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409170907id_/http%3A//www.lasenza.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy | La Senza
 
@@ -153,7 +153,7 @@ If you have general questions about our Privacy Policy, or the manner in which w
 
 For specific questions, concerns, or complaints contact our Associate Vice President (AVP) of Legal and Compliance Services, who administers this policy. You may contact this person by letter or email at:
 
-> AVP, Privacy Legal & Compliance Services Limited Brands, Inc.  
+> AVP, Privacy Legal & Compliance Services L Brands, Inc.  
 >  3 Limited Parkway  
 >  Columbus, OH 43230  
 >  US  
