@@ -1,60 +1,98 @@
-> *The following text is extracted and transformed from the westnet.com.au privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212115220id_/http%3A//www.westnet.com.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westnet.com.au privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409104602id_/http%3A//www.westnet.com.au/legal/privacy.html) for the most accurate reproduction.*
 
-# Westnet - Privacy Policy
+# Westnet Legal Stuff - Privacy statement
 
-Privacy Policy
+Westnet is committed to providing excellent service and protecting your personal information is important to us. This statement explains how we collect, use, share and hold your personal information.
 
-Westnet takes its responsibility to protect your personal and financial information.   
+### What personal information we collect
+
+Westnet collects personal information from our customers including the type of information required to provide our services such as your name, address, date of birth, gender, contact details, payment information, credit information, driver’s licence number, usage data, Westnet username, password and voice password.
+
+If you don’t provide all or part of the personal information we require, we may not be able to provide you with the relevant services. 
+
+### How we may collect your personal information
+
+Westnet usually collects personal information about you directly. For example, we collect information when you provide it to us by phone or email.
+
+Westnet usually collects personal information about you directly. For example, we collect personal information when you provide information to us by phone or email, or when you enter your personal details on our websites.
+
+We may also collect information about you indirectly, including from:
+
+  * our employees, agents, contractors or suppliers;
+  * third parties such as our related companies, [credit reporting bodies](http://myhelp.westnet.com.au/Credit_Reporting_explained) and credit providers;
+  * third parties such as sporting clubs and community organisations that we partner with;
+  * third parties such as utility aggregators who provide product comparison services for telecommunications market;
+  * our customer’s authorised representatives;
+  * other telecommunication and information service providers;
+  * our equipment; and
+  * publicly available sources of information.
 
 
-Westnet operates under strict privacy guidelines outlined by the Federal Governments Privacy Act (see [www.privacy.gov.au](http://www.privacy.gov.au/)) 
 
-In order to conduct business there is certain information that Westnet requires from members such as your name, date of birth, address, telephone numbers, payment details along with any survey responses or information supplied for competitions you choose to enter.
+### Why we collect your personal information
 
-**Use of Personal Information**
+Your personal information is collected and used by Westnet so we can go about our day-to-day business of providing you awesome customer service.
 
-There are two primary reasons Westnet requires such information. 
+For example, to: 
 
-  1. To supply services to our members:  
+  * verify your identity;
+  * assess whether you are eligible for our services;
+  * assist you to complete an application that was abandoned;
+  * carry out checks for credit-worthiness and for fraud;
+  * process your application to become an Westnet customer;
+  * provide the services you require;
+  * deal with enquiries and provide customer support;
+  * manage your services, including billing, account management and collecting debts;
+  * research and develop our products and services;
+  * business planning;
+  * provide information to the manager of the Integrated Public Number Database (IPND);
+  * provide you with information about our services, products and special offers (and marketing those products to you unless you have requested us not to do so).
 
-• including market research and product development purposes;  
-• also general administrative purposes involving customer service records and connection logs. 
-  2. To enable us to communicate with members:   
-
-• To identify members when they contact Westnet;  
-• for billing-related reasons including debt collection;  
-• to inform members of any changes/ improvements/ additions to our service offerings. 
 
 
-**Protection of personal information**
+### How we may share your personal information
 
-Westnet collects and stores information in electronic and/or hardcopy formats. Stringent measures are taken, in accordance with Government legislation, to guarantee that all information provided is kept confidential and secure. Provisions are in place to ensure that members ' accounts are only viewable by those personnel within the organisation that have the appropriate security clearance.
+We may need to share your personal information to organisations outside Westnet. We ensure that these companies take the security of your personal information as seriously as we do. 
 
-**Disclosure of Personal Information**
+We may need to share your personal information to organisations outside Westnet, for example, with:
 
-Under no circumstances will Westnet sell members' information. The only time information is disclosed to a third party is when it is integral to the provision of services or if Westnet is required to do so by law. In both cases these entities meet with strict guidelines to preserve members ' privacy. Our third party suppliers will not contact Westnet members unless expressly requested to do so by the member themselves.
+  * suppliers so we can supply the service to you;
+  * technicians we engage to resolve faults concerning your service;
+  * a credit reporting body or credit provider if you fail to make payments due under our CRA;
+  * a fraud-checking agency to carry out checks;
+  * debt collection agencies and similar parties that assist with debt-recovery;
+  * specialist contractors for the purposes of research and development;
+  * other communication companies, for specific marketing campaigns;
+  * our professional advisers, including our accountants, auditors and lawyers;
+  * other telecommunications and information service providers, for example, for billing purposes;
+  * your authorised representative or contact person in the manner you have agreed to;
+  * your legal advisers, if requested by you to do so;
+  * a duly authorised government, regulatory authority or other organisation such as the TIO, when we are required or specifically permitted by law to do so (for example, to the operator of the IPND, which supplies information for telephone directories) or to resolve customer complaints or disputes;
+  * a specified recipient if a court order compels us to do so, and
+  * law enforcement agencies concerning the enforcement of criminal and other laws if we are compelled, or required to do so.
 
-**Members Access to their Account Details**
 
-Members are able to view and update their account information at any time online through the [My Account](http://myaccount.westnet.com.au/) section of the website.
 
-**Cookies**
+There are some circumstances where iiNet may provide your personal information to an organisation located outside of Australia. These organisations work with us to provide professional services in software development, systems and technical support, data storage, marketing and product development. The countries these organisations are based in include: Singapore, the United Kingdom, the United States of America, China and Indonesia. We ensure that these companies take the security and confidentiality of your personal information as seriously as we do.
 
-Saving of passwords, and pre-population of information is made possible by cookies. Cookies are simply small text files that are automatically saved on your computer when you visit or interact with a website.  
-For our members' convenience, Westnet uses cookies. These pieces of information are applied to our site to enhance its functionality to save you having to input the same information time and time again.  
-Westnet does not use cookies to store personal information about you or to track your internet usage.
+### How we hold your personal information
 
-**Changes to Privacy Policy**
+We keep customer information on controlled systems, which are secure against unauthorised access. Proof of identity is always required before personal information is disclosed to any person, including the specific customer. We take particular care with credit card details, which are not stored unencrypted in Westnet systems.
 
-Westnet is committed to enhancing our members experience through enhancements to existing services and investment in new technologies. As such we will update our Privacy Policy as necessary. Any changes to our privacy policy will be communicated to members via email or in our monthly [Westnet newsletter](http://www.westnet.com.au/members/newsletter/) and will be viewable on this page.
+### Our websites
 
-**Westnet Privacy Officer**
+We may also collect information about visits to our websites for marketing and statistical purposes to improve the way we interact with you.  We may use cookies or other similar technology for these purposes. You can usually remove or block cookies (by using the settings in your browser), but it may affect your ability to use the website.
 
-If you have any questions in regards to Westnet's Privacy Policy please do not hesitate to contact our Privacy Officer 
+### How to access & correct your personal information
 
-> via email: [marketing@westnet.com.au](mailto:marketing@westnet.com.au)   
->  or letter:
-> 
-> The Westnet Privacy Officer  
->  PO Box 1767  
->  Osborne Park, WA 6916.
+Your personal information can be accessed via your secure [MyAccount](https://myaccount2.westnet.com.au/) or by [contacting us](https://web.archive.org/web/20140409104602id_/http%3A//contact/).
+
+We maintain and update the personal information we hold as it becomes necessary, for example when our customers inform us that their personal information has changed. A customer can request opt-out of certain communications and make changes to their personal information directly through their Toolbox or by contacting us at [support@westnet.com.au](mailto:support@westnet.com.au) or by calling 1300 786 068.
+
+Please [contact us](https://web.archive.org/web/20140409104602id_/http%3A//contact/) if you wish to access or correct personal information that we hold about you.
+
+### Contact us about our privacy statement
+
+If you have any queries concerning this privacy statement, please [contact us](https://web.archive.org/web/20140409104602id_/http%3A//contact/) by calling support on 1300 786 068 or email [ support@westnet.com.au](mailto:support@westnet.com.au). Any privacy complaints will be handled in accordance with our [complaint process](http://myhelp.westnet.com.au/Complaint_Resolution_Process).
+
+Date: 11 March 2014
