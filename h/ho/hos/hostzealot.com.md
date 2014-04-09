@@ -1,32 +1,43 @@
-> *The following text is extracted and transformed from the hostzealot.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929043528id_/http%3A//www.hostzealot.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostzealot.com privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409143630id_/http%3A//www.hostzealot.com/private-policy) for the most accurate reproduction.*
 
-# Privacy Policy | HostZealot
+# Private policy | HostZealot
 
-This statement discloses the privacy practices of HostZealot Hosting. By using HostZealot.net or by agreeing to the Terms and Conditions in HostZealot's Terms of Service, you consent and agree, without limitation or qualification, to the collection, use and disclosure of personal information and to the privacy practices set out in the Privacy Policy and to any other privacy or data collection policy which is displayed or is included as a link in any individual  
+Private policy
+
+This statement discloses the privacy practices of HostZealot Hosting. By using HostZealot.net or by agreeing to the Terms and Conditions in HostZealot's Terms of Service, you consent and agree, without limitation or qualification, to the collection, use and disclosure of personal information and to the privacy practices set out in the Privacy Policy and to any other privacy or data collection policy which is displayed or is included as a link in any individual
+
 This statement discloses the privacy practices of HostZealot. By using HostZealot or by agreeing to the Terms and Conditions in HostZealot's Terms of Service, you consent and agree, without limitation or qualification, to the collection, use and disclosure of personal information and to the privacy practices set out in the Privacy Policy and to any other privacy or data collection policy which is displayed or is included as a link in any individual HostZealot web site. The following is a list of our current Privacy Policy items. We suggest you check back from time-to-time, to see what has been updated. Questions or concerns regarding our use of your information and this statement should be directed to HostZealot's Privacy Coordinator.
 
-**Transmission of Personal Data:**  
+Transmission of Personal Data:
+
 When you order from HostZealot, all your personal information is protected. We use Secure Sockets Layer (SSL), the industry standard, for encrypting all personal information, including name, address and credit card numbers.
 
-**About Cookies and Web Beacons:**  
+About Cookies and Web Beacons:
+
 Nowadays, cookies are used on most major web sites. Most browsers are initially set up to accept cookies. If you prefer, you can reset your browser either to notify you when you have received a cookie, or to refuse to accept cookies. You should understand that while HostZealot does not require you to use cookies, certain pages may not function properly if you set your browser to not accept cookies.
 
 A cookie is a small text file containing a unique identification number that is transferred from a web site to the hard drive of your computer so that the web site may identify you. This unique number identifies your browser, but not you, to HostZealot's servers whenever you visit HostZealot. A cookie will not let a web site know any personal information about you, such as your real name and address. The coding in the cookies lets us know that you are using a particular computer but nothing more. Since cookies are only text files, they cannot run on your computer, search your computer for other information or transmit any information to anyone.
 
-**To help serve you better, HostZealot uses cookies to:**  
+To help serve you better, HostZealot uses cookies to:
+
 Help us remember who you are through your browser settings so that we can offer and provide personalized services. HostZealot uses cookies to store and sometimes track information about what is done and seen across HostZealot. Cookies also allow us to save passwords and preferences for you so that you will not have to re-enter them the next time you visit.
 
-Measure traffic patterns. Without cookies, it could be difficult for us to know that certain services are more popular than others are. This information helps us to better understand when to offer new services.  
+Measure traffic patterns. Without cookies, it could be difficult for us to know that certain services are more popular than others are. This information helps us to better understand when to offer new services.
+
 Estimate audience size. Cookies help us know whether or not users have seen particular displays, including advertisements.
 
 Displaying advertisements. HostZealot and third party advertising networks used by HostZealot may use cookies when serving advertisements.
 
 HostZealot may contain electronic images known as Web beacons, which are sometimes called single-pixel gifs, that allow HostZealot to count users who have visited those pages and to deliver co-branded services. Web beacons are not used to access your personal information on HostZealot. They are a technique used to compile statistics about HostZealot usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. HostZealot web pages may also contain Web beacons placed there by our advertising partners to help HostZealot determine the effectiveness of our Internet advertising campaigns.
 
-**How does HostZealot Use the Information?**  
-Any personal information you provide to HostZealot is maintained and accessible only by HostZealot, unless specifically stated otherwise. HostZealot requests information from its users so that users can enjoy customized experiences across HostZealot. We may use the information collected as follows:  
-To offer users the ability to customize or personalize content.  
-To deliver products and services requested.  
+How does HostZealot Use the Information?
+
+Any personal information you provide to HostZealot is maintained and accessible only by HostZealot, unless specifically stated otherwise. HostZealot requests information from its users so that users can enjoy customized experiences across HostZealot. We may use the information collected as follows:
+
+To offer users the ability to customize or personalize content.
+
+To deliver products and services requested.
+
 HostZealot uses the anonymous, aggregate data collected to inform our sponsors and advertisers as to numbers of people who have certain demographic characteristics and the number of those people who have seen and "clicked" on their advertisement(s). HostZealot will also disclose to those third-party sponsors and advertisers the overall demographics available regarding who saw and "clicked" on their advertisement. No personal information will be disclosed to these sponsors and advertisers as part of this process; only information in an anonymous, aggregate form will be disclosed.
 
 HostZealot also uses the anonymous, aggregate data to perform statistical analyses of the collective characteristics and behavior of our registered users and visitors, to measure user demographics and interests regarding specific areas of HostZealot, to describe our services to third parties such as prospective business partners and advertisers and to analyze how and where best to use our resources. Without such data, we would not know what the most popular areas of HostZealot are, and we would not be able to change and update the content and services appropriately. HostZealot also uses such data to monitor and improve the operation of HostZealot and to maintain the quality of the Products and Services made available through HostZealot. No personal information will be disclosed during these activities.
@@ -39,7 +50,8 @@ HostZealot may also use personal information if it has reasonable grounds to bel
 
 HostZealot may disclose personal information: (i) to a lawyer who is representing it; (ii) if required to comply with a subpoena or warrant issued or an order made by a court, person or body with jurisdiction to compel the production of information, or to comply with rules of court relating to the production of records; (iii) to a government institution or part of a government institution that has made a request for the information, identified its lawful authority to obtain the information and indicated that: (A) it suspects that the information relates to national security, the defence of Canada or the conduct of international affairs, (B) the disclosure is requested for the purpose of enforcing any law of Canada, a province or a foreign jurisdiction, carrying out an investigation relating to the enforcement of any such law or gathering intelligence for the purpose of enforcing any such law, or (C) the disclosure is requested for the purpose of administering any law of Canada or a province; (iv) to a person who needs the information because of an emergency that threatens the life, health or security of an individual; (v) for purposes related to investigating a breach of an agreement or a contravention of the laws of Canada or a province; or (vi) where otherwise required by law.
 
-**Does HostZealot Share the Information that is Collected?**  
+Does HostZealot Share the Information that is Collected?
+
 In order to provide you with content and services that match your interests, HostZealot may have relationships with services and other companies on the Internet. These also may require registration to make them function properly. You can recognize most of these sites by the joint branding of HostZealot and such companies. As well, if you see a logo on the page that says 'Powered by third party"', you are on a co-branded site. Other third-party relationships are "private label" relationships where another entity provides HostZealot with technology, services and/or content under HostZealot branding. These sites form part of HostZealot if pages at the site display HostZealot branding bar and a link to the Terms and Conditions or to this Privacy Policy. If you provide, or if HostZealot collects, personal information on a co-branded or private label site that forms part of HostZealot, that data may be shared with the partners for the purpose of providing the products and services available at the site.
 
 In addition to finding co-branded sites that form part of HostZealot, you will find direct links on HostZealot to sites offered by third parties that are not part of HostZealot. Some of these sites are authorized to use HostZealot brands and/or logos. In some cases the operators of such sites may disclose personal information collected by them to HostZealot. Such information will be used by HostZealot solely in connection with the products and services of such third party. This Privacy Policy does not, however, apply to the privacy practices of such sites
@@ -48,21 +60,26 @@ HostZealot may disclose personal information to its agents, suppliers and servic
 
 HostZealot does not sell, rent or lease its customer lists to third parties. HostZealot may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your personal information (e-mail, name, address, telephone number) is not disclosed to the third party.
 
-**Can you Access, Edit or Delete your Information?**  
+Can you Access, Edit or Delete your Information?
+
 HostZealot provides its customers the ability to access and edit the personal information in their user profiles or password-protected web-based management tools. HostZealot also offers all users who have volunteered any personal information to HostZealot, the opportunity to review the information provided and to rectify any inaccuracies. Please contact the Privacy Coordinator, for more details.
 
-**Can you Opt-out?**  
+Can you Opt-out?
+
 You can opt-out of providing personal information and from receiving information on HostZealot updates and new services, as well as direct email offers from selected HostZealot partners and sponsors. This is done either at the point of initial collection of information or during the editing or updating process. The process to opt out of most HostZealot email materials is the same as the process for editing user information profiles described above. In addition, all such email materials have easy-to-follow unsubscribe directions posted at the bottom of the email. If you have any questions or concerns, please contact us.
 
-**What Security Procedures are in Place?**  
+What Security Procedures are in Place?
+
 HostZealot has security measures in place to attempt to protect against the loss, misuse and alteration of your user data under our control. HostZealot attempts to keep such information in secure facilities, protected from unauthorized access and kept only as long as is reasonably required. Only persons who have a need to know your personal information for the purposes described in this Privacy Policy have access to the user data you choose to provide to us. HostZealot has imposed strict rules on HostZealot employees who have access to the databases that store user personal information or to the servers that host our services. While HostZealot cannot guarantee that loss, misuse or alteration to data will not occur, we make reasonable efforts to prevent such occurrences. Any other particularly sensitive information, such as credit card numbers, is encrypted prior to transmission. HostZealot is not liable for any use or disclosure of your personal information that is beyond its reasonable control.
 
 You are responsible for the security of your HostZealot login ID and password. Please take care when using and storing them. HostZealot recommends that you do not divulge your password to anyone. You should log out of your browser at the end of each computer session to ensure that others cannot access your personal information and correspondence, especially if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe.
 
-**Links to Other Sites:**  
+Links to Other Sites:
+
 Please note that HostZealot's sites may contain links to other sites. We cannot and do not represent or guarantee that their privacy practices will be the same as those set out in our Privacy Policy. So bear in mind that sites that are linked to HostZealot sites may have privacy policies which differ from that of HostZealot.
 
 Also, be aware that HostZealot sponsors and other advertisers have links on our sites that take you to other sites that may collect personal information about you. This Privacy Policy does not cover third party data collection practices and HostZealot does not assume any responsibility for the actions of such third parties.
 
-**NO-SPAM POLICY**  
+NO-SPAM POLICY
+
 We have a strict policy against using the SPAMMING of unsolicited emails in mass or individually of any kind as a way to market our programs, products and/or services. Should complaints be received in relation to SPAMMING activity that connects back to you, we reserve the right to suspend your account while we investigate all evidence submitted to us. Should you be deemed in violation of such policies, we reserve the right to immediately terminate any active accounts to your name, and all rights in association to these accounts shall be revoked.
