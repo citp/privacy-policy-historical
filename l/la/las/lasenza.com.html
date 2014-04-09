@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the lasenza.com privacy policy that was archived on 2013-10-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131008120011id_/http%3A//www.lasenza.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lasenza.com privacy policy that was archived on 2014-04-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140409170907id_/http%3A//www.lasenza.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwMFWF9UGwEBUFZWAQc="};window.NREUM||(NREUM={}),__nr_require=function t(e,n,r){function o(i){if(!n[i]){var a=n[i]={exports:{}};e[i][0].call(a.exports,function(t){var n=e[i][1][t];return o(n?n:t)},a,a.exports,t,e,n,r)}return n[i].exports}for(var i=0;i<r.length;i++)o(r[i]);return o}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=i[t],o=r&&r.length||0,s=n[a]||(n[a]={}),d=0;o>d;d++)r[d].apply(s,e);return s}function r(t,e){var n=i[t]||(i[t]=[]);n.push(e)}function o(t){return delete t[a]}var i={},a="nr@context";e.exports={on:r,emit:n,clear:o}},{}],2:[function(t){function e(t,e,o,a,d){return s?s-=1:n("err",[d||new UncaughtException(t,e,o)]),"function"==typeof i?i.apply(this,r(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}var n=t("handle"),r=t(6),o=t(5),i=window.onerror,a=!1,s=0;t("loader").features.push("err"),window.onerror=e;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),a=!0)}o.on("fn-start",function(){a&&(s+=1)}),o.on("fn-err",function(t,e,r){a&&(this.thrown=!0,n("err",[r,(new Date).getTime()]))}),o.on("fn-end",function(){a&&!this.thrown&&s>0&&(s-=1)})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){n.inPlace(this,i,"fn-")}var n=t(1),r=t(2),o=window.XMLHttpRequest,i=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(t){var i=new o(t);return r.emit("new-xhr",[],i),n.inPlace(i,["addEventListener","removeEventListener"],"-",function(t,e){return e}),i.addEventListener("readystatechange",e,!1),i},window.XMLHttpRequest.prototype=o.prototype},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;p>o;o++)t.removeEventListener(u[o],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,s="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,d=e(s);if(d&&(r.rxSize=d),this.sameOrigin){var f=t.getResponseHeader("X-NewRelic-App-Data");f&&(n.cat=f.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,i("xhr",[n,r])}}}function r(t,e){var n=a(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}function o(t,e){return e}t("loader").features.push("xhr");var i=t("handle"),a=t(1),s=t(5),d=t(6),u=["load","error","abort","timeout"],p=u.length,f=t(2);t(3),t(4),d.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),s.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),d.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),d.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),d.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var a=e(o);a&&(r.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){}};for(var s=0;p>s;s++)n.addEventListener(u[s],this.listener,!1)}),d.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),d.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),d.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),d.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&d.emit("xhr-load-added",[t[1],t[2]],e)}),d.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&d.emit("xhr-load-removed",[t[1],t[2]],e)}),d.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),d.on("fn-end",function(t,e){this.xhrCbStart&&d.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:15,6:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=c.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID){c.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=d.createElement("script");e.src=c.proto+t.agent,d.body.appendChild(e)}}function r(){"complete"===d.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,d=s.document,u="addEventListener",p="attachEvent",f=(""+location).split("?")[0],c=e.exports={offset:i(),origin:f,features:[]};d[u]?(d[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(d[p]("onreadystatechange",r),s[p]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,n,r){function nrWrapper(){try{var a,s=i(arguments),d=this,u=n&&n(s,d)||{};o.emit(e+"start",[s,d,r],u)}catch(p){}try{return a=t.apply(d,s)}catch(f){try{o.emit(e+"err",[s,d,f],u)}catch(p){}throw f}finally{try{o.emit(e+"end",[s,d,a],u)}catch(p){}}}return t&&"function"==typeof t&&t.apply&&!t._wrapped?(e||(e=""),nrWrapper._wrapped=!0,nrWrapper):t}function r(t,e,r,o){r||(r="");var i,a,s,d="-"===r.charAt(0);for(s=0;s<e.length;s++)a=e[s],i=t[a],i&&"function"==typeof i&&i.apply&&!i._wrapped&&(t[a]=n(i,d?a+r:r,o,a,t))}var o=t(1),i=t(2);e.exports=n,n.inPlace=r},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 <title>Privacy Policy | La Senza</title>
 <meta name="description" content="This privacy policy explains what personal information is collected through LaSenza.com">
 <meta name="keywords" content="La Senza, Lasenza, La Sensa, La Sanza, La Sezna, La Senze, Lasenze, La Senxa, Lasen, Le Senza, Lesenza, La Seza, Privacy, Privacy Policy">
@@ -107,7 +107,7 @@ _gaq.push(['_trackPageview']);
 //]]>
 </script>
 <!-- END GOOGLE ANALYTICS CODE -->
-<div class="wrapper" style="background: url('http://www.lasenza.com/media/background/default/bg-carnival-optimized.png')">
+<div class="wrapper" style="background: url('http://www.lasenza.com/media/background/default/bg-beyond-home.png')">
         <noscript>
         <div class="global-site-notice noscript">
             <div class="notice-inner">
@@ -125,7 +125,7 @@ _gaq.push(['_trackPageview']);
                                 </div>
         <div class="quick-access">
             <div class="header-links">
-                <!--{CART_SIDEBAR_1ed331cb92cfb9c991f1bbe9f8af4822}--><div class="top-cart">
+                <div class="top-cart">
 
 
         <div class="block-title no-items">
@@ -147,16 +147,16 @@ _gaq.push(['_trackPageview']);
     jQuery('.top-cart .btn-remove').on('click', function() {
         GoogleAnalytics.pushEvent(['_trackEvent', 'Shopping', 'Remove from Cart']);
     });
-</script><!--/{CART_SIDEBAR_1ed331cb92cfb9c991f1bbe9f8af4822}-->                <ul class="links">
+</script>                <ul class="links">
                         <li class="first"><a href="https://www.lasenza.com/customer/account/" title="My Account">My Account</a></li>
-                                <!--{WISHLISTLINKS_09d1a73b6bba9413140d53468ae03689}--><li class=" last"><a href="https://www.lasenza.com/lasenza/wishlist/" title="My Wishlists">My Wishlists</a></li>
-<!--/{WISHLISTLINKS_09d1a73b6bba9413140d53468ae03689}-->            </ul>
+                                <li class=" last"><a href="https://www.lasenza.com/lasenza/wishlist/" title="My Wishlists">My Wishlists</a></li>
+            </ul>
                 <div class="welcome-msg">
-                    <!--{ACCLINKS_7eccf8d9cfea19807439945633d587a5}--><ul class="links">
+                    <ul class="links">
                         <li class="first"><a href="https://www.lasenza.com/customer/account/login/" title="Login">Login</a></li>
                                 <li class=" last"> or <a href="https://www.lasenza.com/customer/account/create/" title="register">register</a></li>
             </ul>
-<!--/{ACCLINKS_7eccf8d9cfea19807439945633d587a5}-->                    <span class="welcome-msg"> <!--{WELCOME_881fe9b457c3c021c76fc718c3166c9e}-->Welcome!<!--/{WELCOME_881fe9b457c3c021c76fc718c3166c9e}--></span>
+                    <span class="welcome-msg"> Welcome!</span>
                 </div>
             </div>
             <div class="header-search">
@@ -188,31 +188,68 @@ _gaq.push(['_trackPageview']);
             </li>   
                                                 <li class="language-ca_en">
                         <img src="http://www.lasenza.com/skin/frontend/lasenza/lasenza/images/lasenza/flags/ca_en.png" alt="">
-                        <a href="http://www.lasenza.ca/privacy-policy-cookie-restriction-mode?SID=6hj9cllnk25j2fqn55ogmgcue784th01&amp;___store=ca_en&amp;___from_store=us_en">English</a>
+                        <a href="http://www.lasenza.ca/privacy-policy-cookie-restriction-mode?SID=&amp;___store=ca_en&amp;___from_store=us_en">English</a>
                     </li>
                                                                 <li class="language-ca_fr">
                         <img src="http://www.lasenza.com/skin/frontend/lasenza/lasenza/images/lasenza/flags/ca_fr.png" alt="">
-                        <a href="http://www.lasenza.ca/privacy-policy-cookie-restriction-mode?SID=6hj9cllnk25j2fqn55ogmgcue784th01&amp;___store=ca_fr&amp;___from_store=us_en">French</a>
+                        <a href="http://www.lasenza.ca/privacy-policy-cookie-restriction-mode?SID=&amp;___store=ca_fr&amp;___from_store=us_en">French</a>
                     </li>
                                                                 </ul>
     </div>
 </div>
 
 </div>
-            </div>
+                            </div>
         </div>
     </div>
     <div class="tabmenu">
     <div class="inner">
         <ul class="tabs">
                                     <li class="tab  first bras">
+                <a href="http://www.lasenza.com/new-arrivals.html"><span class="tab-title">New Arrivals</span></a>
+                                <div style="display: none;" class="tab-content ">
+                    <div><div class="cms-content">
+<span class="title">
+    New Arrivals</span>
+<div class="cms-tab-content">
+    <ul><li><a href="http://www.lasenza.com/new-arrivals/bras.html"><span>Bras</span></a></li><li><a href="http://www.lasenza.com/new-arrivals/panties.html"><span>Panties</span></a></li><li><a href="http://www.lasenza.com/new-arrivals/lingerie.html"><span>Sexy Lingerie</span></a></li><li><a href="http://www.lasenza.com/new-arrivals/loungewear.html"><span>Sexy Lounge</span></a></li><li><a href="http://www.lasenza.com/new-arrivals/accessories.html"><span>Beauty &amp; Accessories</span></a></li></ul></div>
+<div class="link">
+    <a href="http://www.lasenza.com/new-arrivals.html">
+        <span>View all New Arrivals</span>
+    </a>
+</div></div>
+<div class="cms-content">
+<span class="title">
+    New Collections</span>
+<div class="cms-tab-content">
+    <ul><li><a href="http://www.lasenza.com/collections/new-bras-collection.html"><span>NEW! Beyond Sexy</span></a></li><li><a href="http://www.lasenza.com/collections/festival-styles.html"><span>NEW! Festival Lust Haves </span></a></li><li><a href="http://www.lasenza.com/collections/travel-lust-haves.html"><span>Travel Lust Haves</span></a></li><li><a href="http://www.lasenza.com/collections/on-trend-ombre.html"><span>What's Hot Now: Ombré</span></a></li><li><a href="http://www.lasenza.com/collections/sexy-back-bras.html"><span>Sexy Back Bras</span></a></li><li><a href="http://www.lasenza.com/collections/exclusive-panties.html"><span>Exclusive Panty Styles</span></a></li><li><a href="http://www.lasenza.com/collections/top-pins.html"><span>Top Pinterest Pins</span></a></li><li><a href="http://www.lasenza.com/collections/party-approved.html"><span>Party Approved Looks</span></a></li></ul></div>
+<div class="link">
+    <a href="http://www.lasenza.com/collections.html">
+        <span>View all New Collections</span>
+    </a>
+</div></div>
+<div class="cms-content"><span class="title">Beyond Sexy Bras</span>
+<div class="cms-tab-content">
+<p><a title="Beyond Sexy Bra Collection - 3 Sexy Bra Styles - Ultimate Push-Up, Light Push Up and Multi-way Push Up! Beyond Sexy Bras – Buy One, Get One for $15! Shop Now >" href="http://www.lasenza.com/beyondsexy" target="_self"> <img title="Beyond Sexy Bra Collection - 3 Sexy Bra Styles - Ultimate Push-Up, Light Push Up and Multi-way Push Up! Beyond Sexy Bras – Buy One, Get One for $15! Shop Now >" src="/media/wysiwyg/2014/Beyond/drop-beyondsexy-bogo15v2-en.jpg" alt="Beyond Sexy Bra Collection - 3 Sexy Bra Styles - Ultimate Push-Up, Light Push Up and Multi-way Push Up! Beyond Sexy Bras – Buy One, Get One for $15! Shop Now >!"></a></p>
+</div>
+<div class="link"><a title="Beyond Sexy Bra Collection - 3 Sexy Bra Styles - Ultimate Push-Up, Light Push Up and Multi-way Push Up! Beyond Sexy Bras – Buy One, Get One for $15! Shop Now >!" href="http://www.lasenza.com/beyondsexy"> <span>SHOP NOW</span> </a></div>
+</div>
+<div class="cms-content last"><span class="title">Panties to match</span>
+<div class="cms-tab-content">
+<p><a title="Panties to Match - Sexy Panties - Buy 2, Get 1 Free - Shop Sexy Panties >" href="http://www.lasenza.com/specials/sexy-panty-deals-1.html" target="_self"><img title="Panties to Match - Sexy Panties - Buy 2, Get 1 Free - Shop Sexy Panties >" src="/media/wysiwyg/2014/Beyond/drop-beyondsexy-panties2match-en.jpg" alt="Panties to Match - Sexy Panties - Buy 2, Get 1 Free - Shop Sexy Panties >"></a></p>
+</div>
+<div class="link"><a title="Panties to Match - Sexy Panties - Buy 2, Get 1 Free - Shop Sexy Panties >" href="http://www.lasenza.com/specials/sexy-panty-deals-1.html"> <span>SHOP NOW</span> </a></div>
+</div></div>
+                </div>
+                            </li>
+                                    <li class="tab  bras">
                 <a href="http://www.lasenza.com/bras.html"><span class="tab-title">Bras</span></a>
                                 <div style="display: none;" class="tab-content ">
                     <div><div class="cms-content">
 <span class="title">
     shop by style</span>
 <div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.com/bras/push-up.html"><span>Push-Up</span></a></li><li><a href="http://www.lasenza.com/bras/strapless-multi-way.html"><span>Strapless &amp; Multi-Way</span></a></li><li><a href="http://www.lasenza.com/bras/lightly-lined.html"><span>Lightly Lined</span></a></li><li><a href="http://www.lasenza.com/bras/bandeau.html"><span>Bandeau &amp; Bralettes</span></a></li><li><a href="http://www.lasenza.com/bras/full-coverage.html"><span>Full Coverage</span></a></li><li><a href="http://www.lasenza.com/bras/racerback.html"><span>Racerback</span></a></li><li><a href="http://www.lasenza.com/bras/wireless.html"><span>Wireless</span></a></li><li><a href="http://www.lasenza.com/bras/halter.html"><span>Halter</span></a></li><li><a href="http://www.lasenza.com/bras/bustiers.html"><span>Bustiers</span></a></li><li><a href="http://www.lasenza.com/bras/bra-accessories.html"><span>Bra Accessories</span></a></li></ul></div>
+    <ul><li><a href="http://www.lasenza.com/bras/push-up-bras.html"><span>Push-Up</span></a></li><li><a href="http://www.lasenza.com/bras/strapless-multi-way-bras.html"><span>Strapless &amp; Multi-Way</span></a></li><li><a href="http://www.lasenza.com/bras/lightly-lined-bras.html"><span>Lightly Lined</span></a></li><li><a href="http://www.lasenza.com/bras/front-close-bras.html"><span>Front-Close</span></a></li><li><a href="http://www.lasenza.com/bras/light-push-up-bras.html"><span>Light Push-Up</span></a></li><li><a href="http://www.lasenza.com/bras/full-coverage-bras.html"><span>Full Coverage</span></a></li><li><a href="http://www.lasenza.com/bras/bustiers-bras.html"><span>Crop Bustiers</span></a></li><li><a href="http://www.lasenza.com/bras/backless-bras.html"><span>Backless </span></a></li><li><a href="http://www.lasenza.com/bras/bandeau.html"><span>Bandeau &amp; Bralettes</span></a></li><li><a href="http://www.lasenza.com/bras/bra-accessories.html"><span>Bra Accessories</span></a></li><li><a href="http://www.lasenza.com/bras/racerback-bras.html"><span>Racerback</span></a></li></ul></div>
 <div class="link">
     <a href="http://www.lasenza.com/bras.html">
         <span>View all Bras</span>
@@ -222,23 +259,23 @@ _gaq.push(['_trackPageview']);
 <span class="title">
     Collections</span>
 <div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.com/bras/collections/beyond-sexy.html"><span>Beyond Sexy</span></a></li><li><a href="http://www.lasenza.com/bras/collections/the-show-off.html"><span>The Show Off</span></a></li><li><a href="http://www.lasenza.com/bras/collections/hello-sugar.html"><span>Hello Sugar</span></a></li><li><a href="http://www.lasenza.com/bras/collections/body-kiss.html"><span>Body Kiss</span></a></li><li><a href="http://www.lasenza.com/bras/collections/so-free.html"><span>So Free</span></a></li><li><a href="http://www.lasenza.com/bras/collections/my-customized.html"><span>My Customized</span></a></li><li><a href="http://www.lasenza.com/bras/collections/itec.html"><span>Itec</span></a></li><li><a href="http://www.lasenza.com/bras/collections/cotton.html"><span>Cotton</span></a></li><li><a href="http://www.lasenza.com/bras/collections/bras-new-arrivals.html"><span>New Arrivals</span></a></li><li><a href="http://www.lasenza.com/bras/collections/sexy-back-bras.html"><span>Sexy Back</span></a></li></ul></div>
+    <ul><li><a href="http://www.lasenza.com/bras/bra-collections/beyond-sexy.html"><span>Beyond Sexy</span></a></li><li><a href="http://www.lasenza.com/bras/bra-collections/the-show-off.html"><span>The Show Off</span></a></li><li><a href="http://www.lasenza.com/bras/bra-collections/hello-sugar.html"><span>Hello Sugar</span></a></li><li><a href="http://www.lasenza.com/bras/bra-collections/body-kiss.html"><span>Body Kiss</span></a></li><li><a href="http://www.lasenza.com/bras/bra-collections/so-free.html"><span>So Free</span></a></li><li><a href="http://www.lasenza.com/bras/bra-collections/my-customized.html"><span>My Customized</span></a></li><li><a href="http://www.lasenza.com/bras/bra-collections/cotton-bra.html"><span>Cotton</span></a></li></ul></div>
 <div class="link">
-    <a href="http://www.lasenza.com/bras/collections.html">
+    <a href="http://www.lasenza.com/bras/bra-collections.html">
         <span>View all Collections</span>
     </a>
 </div></div>
-<div class="cms-content"><span class="title">Back in Black</span>
+<div class="cms-content"><span class="title">Beyond Sexy Bras</span>
 <div class="cms-tab-content">
-<p><a title="Back in Black - take $10 off any regular priced bra. Enter code: BackInBlack at checkout. Shop Now >" href="http://www.lasenza.com/bras.html" target="_self"><img title="Back in Black - take $10 off any regular priced bra. Enter code: BackInBlack at checkout. Shop Now >" src="/media/wysiwyg/Dropdowns/dropdown-backinblack-10off-wG-EN.jpg" alt="Back in Black - take $10 off any regular priced bra. Enter code: BackInBlack at checkout. Shop Now >" height="210"></a></p>
+<p><a title="Beyond Sexy Bra Collection - 3 Sexy Bra Styles - Ultimate Push-Up, Light Push Up and Multi-way Push Up! Beyond Sexy Bras – Buy One, Get One for $15! Shop Now >" href="http://www.lasenza.com/beyondsexy" target="_self"> <img title="Beyond Sexy Bra Collection - 3 Sexy Bra Styles - Ultimate Push-Up, Light Push Up and Multi-way Push Up! Beyond Sexy Bras – Buy One, Get One for $15! Shop Now >" src="/media/wysiwyg/2014/Beyond/drop-beyondsexy-bogo15v2-en.jpg" alt="Beyond Sexy Bra Collection - 3 Sexy Bra Styles - Ultimate Push-Up, Light Push Up and Multi-way Push Up! Beyond Sexy Bras – Buy One, Get One for $15! Shop Now >!"></a></p>
 </div>
-<div class="link"><a title="Back in Black - take $10 off any regular priced bra. Enter code: BackInBlack at checkout. Shop Now >" href="http://www.lasenza.com/bras.html"> <span>Shop Now</span> </a></div>
+<div class="link"><a title="Beyond Sexy Bra Collection - 3 Sexy Bra Styles - Ultimate Push-Up, Light Push Up and Multi-way Push Up! Beyond Sexy Bras – Buy One, Get One for $15! Shop Now >!" href="http://www.lasenza.com/beyondsexy"> <span>SHOP NOW</span> </a></div>
 </div>
-<div class="cms-content last"><span class="title">All Bras - Buy 1 Get 1 50% Off</span>
+<div class="cms-content last"><span class="title">Select Bras</span>
 <div class="cms-tab-content">
-<p><a title="All Bras – Buy 1, Get 1 for 50% off. Shop Now >" href="http://www.lasenza.com/bras.html" target="_self"><img title="All Bras – Buy 1, Get 1 for 50% off. Shop Now >" src="/media/wysiwyg/Dropdowns/dropdown-backinblack-bogo50-wG-EN.jpg" alt="All Bras – Buy 1, Get 1 for 50% off. Shop Now >"></a></p>
+<p><a title="Bras – Buy One, Get One for 50% off. Shop Now >" href="http://www.lasenza.com/bras.html" target="_self"><img title="Bras – Buy One, Get One for 50% off. Shop Now >" src="/media/wysiwyg/SAS_2014/Callouts/Dropdowns/dropdown-braBogo-regprice-en.jpg" alt="Bras – Buy One, Get One for 50% off. Shop Now >"></a></p>
 </div>
-<div class="link"><a title="All Bras – Buy 1, Get 1 for 50% off. Shop Now >" href="http://www.lasenza.com/bras.html"> <span>SHOP NOW</span> </a></div>
+<div class="link"><a title="Bras – Buy One, Get One for 50% off. Shop Now >" href="http://www.lasenza.com/bras.html"> <span>SHOP NOW</span> </a></div>
 </div></div>
                 </div>
                             </li>
@@ -249,7 +286,7 @@ _gaq.push(['_trackPageview']);
 <span class="title">
     shop by style</span>
 <div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.com/panties/g-strings.html"><span>G-Strings</span></a></li><li><a href="http://www.lasenza.com/panties/thongs.html"><span>Thongs</span></a></li><li><a href="http://www.lasenza.com/panties/brazilian-and-cheeky.html"><span>Brazilians &amp; Cheekies</span></a></li><li><a href="http://www.lasenza.com/panties/hipsters.html"><span>Hipsters</span></a></li><li><a href="http://www.lasenza.com/panties/bikinis.html"><span>Bikinis</span></a></li><li><a href="http://www.lasenza.com/panties/boyshorts.html"><span>Boyshorts</span></a></li><li><a href="http://www.lasenza.com/panties/garters.html"><span>Garters</span></a></li><li><a href="http://www.lasenza.com/panties/panties-new-arrivals.html"><span>New Arrivals</span></a></li></ul></div>
+    <ul><li><a href="http://www.lasenza.com/panties/g-strings.html"><span>G-Strings</span></a></li><li><a href="http://www.lasenza.com/panties/thongs.html"><span>Thongs</span></a></li><li><a href="http://www.lasenza.com/panties/brazilian-and-cheeky-panties.html"><span>Brazilians &amp; Cheekies</span></a></li><li><a href="http://www.lasenza.com/panties/hipster-panties.html"><span>Hipsters</span></a></li><li><a href="http://www.lasenza.com/panties/bikini-panties.html"><span>Bikinis</span></a></li><li><a href="http://www.lasenza.com/panties/boyshorts.html"><span>Boyshorts</span></a></li><li><a href="http://www.lasenza.com/panties/garters.html"><span>Garters</span></a></li></ul></div>
 <div class="link">
     <a href="http://www.lasenza.com/panties.html">
         <span>View all Panties</span>
@@ -259,17 +296,23 @@ _gaq.push(['_trackPageview']);
 <span class="title">
     Collections</span>
 <div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.com/panties/collections/beyond-sexy.html"><span>Beyond Sexy</span></a></li><li><a href="http://www.lasenza.com/panties/collections/the-show-off.html"><span>The Show Off</span></a></li><li><a href="http://www.lasenza.com/panties/collections/hello-sugar.html"><span>Hello Sugar</span></a></li><li><a href="http://www.lasenza.com/panties/collections/body-kiss.html"><span>Body Kiss</span></a></li><li><a href="http://www.lasenza.com/panties/collections/sexy-pin-up.html"><span>Sexy Pin Up</span></a></li><li><a href="http://www.lasenza.com/panties/collections/magnificent.html"><span>Magnificent</span></a></li><li><a href="http://www.lasenza.com/panties/collections/ooh-la-lace.html"><span>Ooh La Lace</span></a></li><li><a href="http://www.lasenza.com/panties/collections/so-free.html"><span>So Free</span></a></li><li><a href="http://www.lasenza.com/panties/collections/cotton.html"><span>Cotton</span></a></li><li><a href="http://www.lasenza.com/panties/collections/ultra-soft-and-seamless.html"><span>Ultra Soft, Seamless &amp; No Show</span></a></li><li><a href="http://www.lasenza.com/panties/collections/exclusive-panties.html"><span>Exclusive Styles – Get them before they're gone!</span></a></li><li><a href="http://www.lasenza.com/panties/collections/scandalous-panty.html"><span>Scandalous Panty</span></a></li></ul></div>
+    <ul><li><a href="http://www.lasenza.com/panties/collections/scandalous-panty.html"><span>Scandalous</span></a></li><li><a href="http://www.lasenza.com/panties/collections/beyond-sexy.html"><span>Beyond Sexy</span></a></li><li><a href="http://www.lasenza.com/panties/collections/the-show-off.html"><span>The Show Off</span></a></li><li><a href="http://www.lasenza.com/panties/collections/hello-sugar.html"><span>Hello Sugar</span></a></li><li><a href="http://www.lasenza.com/panties/collections/body-kiss.html"><span>Body Kiss</span></a></li><li><a href="http://www.lasenza.com/panties/collections/sexy-pin-up.html"><span>Sexy Pin Up</span></a></li><li><a href="http://www.lasenza.com/panties/collections/magnificent.html"><span>Magnificent</span></a></li><li><a href="http://www.lasenza.com/panties/collections/so-free.html"><span>So Free</span></a></li><li><a href="http://www.lasenza.com/panties/collections/cotton.html"><span>Cotton</span></a></li><li><a href="http://www.lasenza.com/panties/collections/ultra-soft-and-seamless.html"><span>Ultra Soft, Seamless &amp; No Show</span></a></li><li><a href="http://www.lasenza.com/panties/collections/ooh-la-lace.html"><span>Ooh La Lace</span></a></li></ul></div>
 <div class="link">
     <a href="http://www.lasenza.com/panties/collections.html">
         <span>View all Collections</span>
     </a>
 </div></div>
+<div class="cms-content"><span class="title">Panties to match</span>
+<div class="cms-tab-content">
+<p><a title="Panties to Match - Sexy Panties - Buy 2, Get 1 Free - Shop Sexy Panties >" href="http://www.lasenza.com/specials/sexy-panty-deals-1.html" target="_self"><img title="Panties to Match - Sexy Panties - Buy 2, Get 1 Free - Shop Sexy Panties >" src="/media/wysiwyg/2014/Beyond/drop-beyondsexy-panties2match-en.jpg" alt="Panties to Match - Sexy Panties - Buy 2, Get 1 Free - Shop Sexy Panties >"></a></p>
+</div>
+<div class="link"><a title="Panties to Match - Sexy Panties - Buy 2, Get 1 Free - Shop Sexy Panties >" href="http://www.lasenza.com/specials/sexy-panty-deals-1.html"> <span>Shop Sexy Panties</span> </a></div>
+</div>
 <div class="cms-content last"><span class="title">Cotton Panties</span>
 <div class="cms-tab-content">
-<p><a title="Cotton Panties - Buy 5 for $27 - Shop Now!" href="/specials/trendy-panty-deals-1.html" target="_self"><img title="Cotton Panties - Buy 5 for $27 - Shop Now!" src="/media/wysiwyg/Dropdowns/dropdown-backinblack-CtnPanties5for27-EN.jpg" alt="Cotton Panties - Buy 5 for $27- Shop Now!"></a></p>
+<p><a title="Cotton Panties – 7 For $28! Shop Now >" href="http://www.lasenza.com/specials/trendy-panty-deals-1.html" target="_self"><img title="Cotton Panties – 7 For $28! Shop Now >" src="/media/wysiwyg/2014/Non-Seasonal/dropdown-7for28panties-en.jpg" alt="Cotton Panties – 7 For $28! Shop Now >"></a></p>
 </div>
-<div class="link"><a title="Cotton Panties - Buy 5 for $27 - Shop Now!" href="http://www.lasenza.com//specials/trendy-panty-deals-1.html"> <span>Shop Now</span> </a></div>
+<div class="link"><a title="Cotton Panties – 7 For $28! Shop Now >" href="http://www.lasenza.com/specials/trendy-panty-deals-1.html"> <span>Shop Panties</span> </a></div>
 </div></div>
                 </div>
                             </li>
@@ -280,7 +323,7 @@ _gaq.push(['_trackPageview']);
 <span class="title">
     Shop by Style</span>
 <div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.com/sexy-lingerie/bustiers.html"><span>Bustiers &amp; Bras</span></a></li><li><a href="http://www.lasenza.com/sexy-lingerie/garters.html"><span>Garters &amp; Panties</span></a></li><li><a href="http://www.lasenza.com/sexy-lingerie/babydolls.html"><span>Babydolls</span></a></li><li><a href="http://www.lasenza.com/sexy-lingerie/merrywidows.html"><span>Merrywidows</span></a></li><li><a href="http://www.lasenza.com/sexy-lingerie/chemises.html"><span>Chemises</span></a></li><li><a href="http://www.lasenza.com/sexy-lingerie/sexy-lingerie-sets.html"><span>Sexy Sets</span></a></li><li><a href="http://www.lasenza.com/sexy-lingerie/kimonos.html"><span>Kimonos</span></a></li><li><a href="http://www.lasenza.com/sexy-lingerie/body-suits.html"><span>Bodysuits</span></a></li></ul></div>
+    <ul><li><a href="http://www.lasenza.com/sexy-lingerie/bustiers.html"><span>Bustiers &amp; Bras</span></a></li><li><a href="http://www.lasenza.com/sexy-lingerie/garters.html"><span>Garters &amp; Panties</span></a></li><li><a href="http://www.lasenza.com/sexy-lingerie/babydoll-lingerie.html"><span>Babydolls</span></a></li><li><a href="http://www.lasenza.com/sexy-lingerie/merrywidow-lingerie.html"><span>Merrywidows</span></a></li><li><a href="http://www.lasenza.com/sexy-lingerie/chemises.html"><span>Chemises</span></a></li><li><a href="http://www.lasenza.com/sexy-lingerie/sexy-satin-kimonos.html"><span>Kimonos</span></a></li><li><a href="http://www.lasenza.com/sexy-lingerie/body-suits.html"><span>Bodysuits</span></a></li></ul></div>
 <div class="link">
     <a href="http://www.lasenza.com/sexy-lingerie.html">
         <span>View all Lingerie</span>
@@ -290,100 +333,75 @@ _gaq.push(['_trackPageview']);
 <span class="title">
     Collections</span>
 <div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.com/sexy-lingerie/collections/beyond-sexy.html"><span>Beyond Sexy</span></a></li><li><a href="http://www.lasenza.com/sexy-lingerie/collections/the-show-off.html"><span>The Show Off</span></a></li><li><a href="http://www.lasenza.com/sexy-lingerie/collections/hello-sugar.html"><span>Hello Sugar</span></a></li><li><a href="http://www.lasenza.com/sexy-lingerie/collections/private-collection.html"><span>Private Collection</span></a></li><li><a href="http://www.lasenza.com/sexy-lingerie/collections/lingerie-new-arrivals.html"><span>New Arrivals</span></a></li></ul></div>
+    <ul><li><a href="http://www.lasenza.com/sexy-lingerie/collections/beyond-sexy.html"><span>Beyond Sexy</span></a></li><li><a href="http://www.lasenza.com/sexy-lingerie/collections/the-show-off.html"><span>The Show Off</span></a></li><li><a href="http://www.lasenza.com/sexy-lingerie/collections/hello-sugar.html"><span>Hello Sugar</span></a></li><li><a href="http://www.lasenza.com/sexy-lingerie/collections/private-collection.html"><span>Private Collection</span></a></li></ul></div>
 <div class="link">
     <a href="http://www.lasenza.com/sexy-lingerie/collections.html">
         <span>View all Collections</span>
     </a>
 </div></div>
-<div class="cms-content last"><span class="title">New Arrivals<br></span>
+<div class="cms-content last"><span class="title">New Arrivals</span>
 <div class="cms-tab-content">
-<p><a title="Shop Sexy Lingerie" href="http://www.lasenza.com/sexy-lingerie.html" target="_self"><img title="Sexy Lingerie" src="/media/wysiwyg/Dropdowns/dropdown-beyond-sexyLingerie-EN.jpg" alt="Sexy Lingerie"></a></p>
+<p><a title="New Sexy Lingerie Arrivals! Shop Now >" href="http://www.lasenza.com/new-arrivals/lingerie.html"><img title="New Sexy Lingerie Arrivals! Shop Now >" src="/media/wysiwyg/2014/HelloSugar/Drop-NA-Lingerie-en.jpg" alt="New Sexy Lingerie Arrivals! Shop Now >"></a></p>
 </div>
-<div class="link"><a href="http://www.lasenza.com/sexy-lingerie.html"> <span>Shop Sexy Lingerie</span> </a></div>
+<div class="link"><a title="New Sexy Lingerie Arrivals! Shop Now >" href="http://www.lasenza.com/new-arrivals/lingerie.html"> <span>Shop Now</span> </a></div>
 </div></div>
                 </div>
                             </li>
                                     <li class="tab  sleepwear">
                 <a href="http://www.lasenza.com/sexy-lounge.html"><span class="tab-title">Sexy Lounge</span></a>
                                 <div style="display: none;" class="tab-content ">
-                    <div><div class="cms-content">
+                    <div><div class="cms-content" style="text-align: left;">
 <span class="title">
     Shop by Style</span>
 <div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.com/sexy-lounge/tops.html"><span>Tops</span></a></li><li><a href="http://www.lasenza.com/sexy-lounge/bottoms.html"><span>Bottoms</span></a></li><li><a href="http://www.lasenza.com/sexy-lounge/chemises.html"><span>Chemises</span></a></li><li><a href="http://www.lasenza.com/sexy-lounge/loungwear-new-arrivals.html"><span>New Arrivals</span></a></li></ul></div>
+    <ul><li><a href="http://www.lasenza.com/sexy-lounge/womens-tops.html"><span>Tanks, Tees, &amp; Hoodies</span></a></li><li><a href="http://www.lasenza.com/sexy-lounge/bottoms.html"><span>Leggings, Pants, &amp; Shorts</span></a></li></ul></div>
 <div class="link">
     <a href="http://www.lasenza.com/sexy-lounge.html">
         <span>View all Sexy Lounge</span>
     </a>
 </div></div>
-<div class="cms-content last"><span class="title">Sexy Lounge</span>
+<div class="cms-content"><span class="title">New Arrivals</span>
 <div class="cms-tab-content">
-<p><a title="Shop Sexy Lounge" href="http://www.lasenza.com/sexy-lounge.html" target="_self"><img title="Sexy Lounge" src="/media/wysiwyg/Dropdowns/Dropdown-SexyLounge-EN.jpg" alt="Sexy Lounge"></a></p>
+<p><a title="Shop New Arrivals in Sexy Lounge! - Shop Now >" href="http://www.lasenza.com/new-arrivals/loungewear.html" target="_self"><img title="Shop New Arrivals in Sexy Lounge! - Shop Now >" src="/media/wysiwyg/2014/Beyond/drop-beyondsexy-lounge-en.jpg" alt="Shop New Arrivals in Sexy Lounge! - Shop Now >"></a></p>
 </div>
-<div class="link"><a href="http://www.lasenza.com/sexy-lounge.html"> <span>View all sexy lounge</span> </a></div>
-</div></div>
-                </div>
-                            </li>
-                                    <li class="tab  beauty">
-                <a href="http://www.lasenza.com/beauty.html"><span class="tab-title">Beauty</span></a>
-                                <div style="display: none;" class="tab-content ">
-                    <div><div class="cms-content">
-<span class="title">
-    Shop by Type</span>
-<div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.com/beauty/lotions-creams.html"><span>Lotions, Creams &amp; Body Washes</span></a></li><li><a href="http://www.lasenza.com/beauty/flirty-treats.html"><span>Flirty Treats</span></a></li><li><a href="http://www.lasenza.com/beauty/lip-glosses.html"><span>Lip Glosses</span></a></li></ul></div>
-<div class="link">
-    <a href="http://www.lasenza.com/beauty.html">
-        <span>View all Beauty</span>
-    </a>
-</div></div>
-<div class="cms-content">
-<span class="title">
-    Collections</span>
-<div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.com/beauty/collections/body-kiss.html"><span>Body Kiss</span></a></li><li><a href="http://www.lasenza.com/beauty/collections/body-kissables.html"><span>Body Kissables</span></a></li><li><a href="http://www.lasenza.com/beauty/collections/ooh-la-lips.html"><span>Ooh La Lips</span></a></li></ul></div>
-<div class="link">
-    <a href="http://www.lasenza.com/beauty/collections.html">
-        <span>View all Collections</span>
-    </a>
-</div></div>
-<div class="cms-content last"><span class="title">Body Kiss - 2 for $15</span>
-<div class="cms-tab-content">
-<p><a title="Body Kiss Lotions &amp; Creams - 2 for $15 " href="http://www.lasenza.com/specials/body-kiss-2-for-15.html" target="_self"><img title="Body Kiss - 2 for $15" src="/media/wysiwyg/Dropdowns/Dropdown-Beauty-EN.jpg" alt="Body Kiss Lotions &amp; Creams - 2 for $15"></a></p>
+<div class="link"><a title="Shop New Arrivals in Sexy Lounge! - Shop Now >" href="http://www.lasenza.com/new-arrivals/loungewear.html"> <span>Shop New Sexy Lounge</span> </a></div>
 </div>
-<div class="link"><a href="http://www.lasenza.com/specials/body-kiss-2-for-15.html"> <span>Shop Body Kiss</span> </a></div>
+<div class="cms-content last"><span class="title">Festival Lust Haves</span>
+<div class="cms-tab-content">
+<p><a title="Festival Lust Haves - bras, crop bustiers, tanks, shorts &amp; more ! Shop Now >" href="http://www.lasenza.com/collections/festival-styles.html" target="_self"><img title="Festival Lust Haves - bras, crop bustiers, tanks, shorts &amp; more ! Shop Now >" src="/media/wysiwyg/2014/Non-Seasonal/drop-festival_lusthaves-en.jpg" alt="Festival Lust Haves - bras, crop bustiers, tanks, shorts &amp; more ! Shop Now >"></a></p>
+</div>
+<div class="link"><a title="Festival Lust Haves - bras, crop bustiers, tanks, shorts &amp; more ! Shop Now >" href="http://www.lasenza.com/collections/festival-styles.html"> <span>Shop Festival Looks</span> </a></div>
 </div></div>
                 </div>
                             </li>
                                     <li class="tab  accessories">
-                <a href="http://www.lasenza.com/accessories.html"><span class="tab-title">Accessories</span></a>
+                <a href="http://www.lasenza.com/beauty-and-accessories.html"><span class="tab-title">Beauty &amp; Accessories</span></a>
                                 <div style="display: none;" class="tab-content ">
                     <div><div class="cms-content">
 <span class="title">
     Shop by type</span>
 <div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.com/accessories/hosiery.html"><span>Hosiery</span></a></li><li><a href="http://www.lasenza.com/accessories/bra-accessories.html"><span>Bra Accessories</span></a></li><li><a href="http://www.lasenza.com/accessories/gift-sets-and-boxes.html"><span>Gift Sets &amp; Boxes</span></a></li></ul></div>
+    <ul><li><a href="http://www.lasenza.com/beauty-and-accessories/lotions-creams.html"><span>Lotions, Creams &amp; Body Washes</span></a></li><li><a href="http://www.lasenza.com/beauty-and-accessories/lip-glosses.html"><span>Lip Glosses</span></a></li><li><a href="http://www.lasenza.com/beauty-and-accessories/hosiery.html"><span>Hosiery</span></a></li><li><a href="http://www.lasenza.com/beauty-and-accessories/bra-accessories.html"><span>Bra Accessories</span></a></li><li><a href="http://www.lasenza.com/beauty-and-accessories/naughty-accessories.html"><span>Naughty Accessories</span></a></li><li><a href="http://www.lasenza.com/beauty-and-accessories/booties.html"><span>Booties - Now $4.99!</span></a></li><li><a href="http://www.lasenza.com/beauty-and-accessories/cosmetic-bags.html"><span>Cosmetic Bags</span></a></li><li><a href="http://www.lasenza.com/beauty-and-accessories/gift-sets-and-boxes.html"><span>Gift Sets &amp; Boxes</span></a></li><li><a href="http://www.lasenza.com/beauty-and-accessories/phone-cases.html"><span>Phone Cases</span></a></li></ul></div>
 <div class="link">
-    <a href="http://www.lasenza.com/accessories.html">
-        <span>View all Accessories</span>
+    <a href="http://www.lasenza.com/beauty-and-accessories.html">
+        <span>View all Beauty &amp; Accessories</span>
     </a>
 </div></div>
 <div class="cms-content">
 <span class="title">
     Collections</span>
 <div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.com/accessories/collections/dreamshapers.html"><span>Dreamshapers</span></a></li><li><a href="http://www.lasenza.com/accessories/collections/dreamlegs.html"><span>Dreamlegs</span></a></li><li><a href="http://www.lasenza.com/accessories/collections/accessories-new-arrivals.html"><span>New Arrivals</span></a></li></ul></div>
+    <ul><li><a href="http://www.lasenza.com/beauty-and-accessories/collections/body-kiss.html"><span>Body Kiss</span></a></li><li><a href="http://www.lasenza.com/beauty-and-accessories/collections/ooh-la-lips.html"><span>Ooh La Lips</span></a></li><li><a href="http://www.lasenza.com/beauty-and-accessories/collections/dreamshapers.html"><span>Dreamshapers</span></a></li><li><a href="http://www.lasenza.com/beauty-and-accessories/collections/dreamlegs.html"><span>Dreamlegs</span></a></li></ul></div>
 <div class="link">
-    <a href="http://www.lasenza.com/accessories/collections.html">
+    <a href="http://www.lasenza.com/beauty-and-accessories/collections.html">
         <span>View all Collections</span>
     </a>
 </div></div>
-<div class="cms-content last"><span class="title">Complete Your Look</span>
+<div class="cms-content last"><span class="title">Lip Gloss - Now 2 for $12!</span>
 <div class="cms-tab-content">
-<p><a title="Accessories" href="http://www.lasenza.com/accessories.html" target="_self"><img title="Accessories" src="/media/wysiwyg/Dropdowns/Dropdown-ExtrasAcc-EN.jpg" alt="Accessories"></a></p>
+<p><a title="Pucker-Up! Lip Gloss is now 2 for $12!" href="http://www.lasenza.com/specials/beauty-deals-2.html" target="_self"><img title="Pucker-Up! Lip Gloss is now 2 for $12!" src="/media/wysiwyg/2014/Non-Seasonal/dropdown-accessories-en.jpg" alt="Pucker-Up! Lip Gloss is now 2 for $12!"></a></p>
 </div>
-<div class="link"><a href="http://www.lasenza.com/accessories.html"> <span>Shop Accessories</span> </a></div>
+<div class="link"><a title="Pucker-Up! Lip Gloss is now 2 for $12!" href="http://www.lasenza.com/specials/beauty-deals-2.html"> <span>SHOP NOW</span> </a></div>
 </div></div>
                 </div>
                             </li>
@@ -392,7 +410,7 @@ _gaq.push(['_trackPageview']);
                                 <div style="display: none;" class="tab-content ">
                     <div><div class="cms-content">
 <span class="title">
-    Shop by Category</span>
+    Sale</span>
 <div class="cms-tab-content">
     <ul><li><a href="http://www.lasenza.com/sale/bras.html"><span>Bras</span></a></li><li><a href="http://www.lasenza.com/sale/panties.html"><span>Panties</span></a></li><li><a href="http://www.lasenza.com/sale/sexy-lingerie.html"><span>Sexy Lingerie</span></a></li><li><a href="http://www.lasenza.com/sale/sexy-lounge.html"><span>Sexy Lounge</span></a></li><li><a href="http://www.lasenza.com/sale/accessories.html"><span>Beauty &amp; Accessories</span></a></li></ul></div>
 <div class="link">
@@ -404,23 +422,23 @@ _gaq.push(['_trackPageview']);
 <span class="title">
     Specials</span>
 <div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.com/specials/bandeau-bralettes-2-for-20.html"><span>Bandeau &amp; Bralettes 2 for $20</span></a></li><li><a href="http://www.lasenza.com/specials/sexy-panty-deals-1.html"><span>Sexy Panties 3 for $20</span></a></li><li><a href="http://www.lasenza.com/specials/sexy-panty-deals-2.html"><span>Sexy Panties $3 each</span></a></li><li><a href="http://www.lasenza.com/specials/trendy-panty-deals-1.html"><span>Cotton Panties 5 for $27</span></a></li><li><a href="http://www.lasenza.com/specials/trendy-panty-deals-2.html"><span>Sale Panties $3 each</span></a></li><li><a href="http://www.lasenza.com/specials/body-kiss-2-for-15.html"><span>Body Kiss 2 for $15</span></a></li></ul></div>
+    <ul><li><a href="http://www.lasenza.com/specials/bra-specials-1.html"><span>Select Bras BOGO 50% off</span></a></li><li><a href="http://www.lasenza.com/specials/sexy-panty-deals-1.html"><span>Sexy Panties Buy 2, Get 1 Free</span></a></li><li><a href="http://www.lasenza.com/specials/trendy-panty-deals-1.html"><span>Cotton Panties 7 for $28</span></a></li><li><a href="http://www.lasenza.com/specials/pj-sets.html"><span>PJ Sets - Now $9.99!</span></a></li><li><a href="http://www.lasenza.com/specials/booties-15.html"><span>Booties - Now $4.99!</span></a></li><li><a href="http://www.lasenza.com/specials/body-kiss-2-for-15.html"><span>Body Kiss 2 for $15</span></a></li><li><a href="http://www.lasenza.com/specials/beauty-deals-2.html"><span>Lip Glosses 2 for $12</span></a></li></ul></div>
 <div class="link">
     <a href="http://www.lasenza.com/specials.html">
         <span>View all Specials</span>
     </a>
 </div></div>
-<div class="cms-content"><span class="title">All Bras</span>
+<div class="cms-content"><span class="title">Beyond Sexy Bras</span>
 <div class="cms-tab-content">
-<p><a title="All Bras – Buy 1, Get 1 for 50% off. Shop Now " href="http://www.lasenza.com/bras.html" target="_self"><img title="All Bras – Buy 1, Get 1 for 50% off. Shop Now >" src="/media/wysiwyg/Dropdowns/dropdown-backinblack-bogo50-wG-EN.jpg" alt="All Bras – Buy 1, Get 1 for 50% off. Shop Now >"></a></p>
+<p><a title="Beyond Sexy Bra Collection - 3 Sexy Bra Styles - Ultimate Push-Up, Light Push Up and Multi-way Push Up! Beyond Sexy Bras – Buy One, Get One for $15! Shop Now >" href="http://www.lasenza.com/beyondsexy" target="_self"> <img title="Beyond Sexy Bra Collection - 3 Sexy Bra Styles - Ultimate Push-Up, Light Push Up and Multi-way Push Up! Beyond Sexy Bras – Buy One, Get One for $15! Shop Now >" src="/media/wysiwyg/2014/Beyond/drop-beyondsexy-bogo15v2-en.jpg" alt="Beyond Sexy Bra Collection - 3 Sexy Bra Styles - Ultimate Push-Up, Light Push Up and Multi-way Push Up! Beyond Sexy Bras – Buy One, Get One for $15! Shop Now >!"></a></p>
 </div>
-<div class="link"><a title="All Bras – Buy 1, Get 1 for 50% off. Shop Now >" href="http://www.lasenza.com/bras.html"> <span>Shop All Bras</span> </a></div>
+<div class="link"><a title="Beyond Sexy Bra Collection - 3 Sexy Bra Styles - Ultimate Push-Up, Light Push Up and Multi-way Push Up! Beyond Sexy Bras – Buy One, Get One for $15! Shop Now >!" href="http://www.lasenza.com/beyondsexy"> <span>SHOP NOW</span> </a></div>
 </div>
-<div class="cms-content last"><span class="title">Cotton Panties</span>
+<div class="cms-content last"><span class="title">Panties to match</span>
 <div class="cms-tab-content">
-<p><a title="Cotton Panties - 5 for $27 - Shop Now >" href="http://www.lasenza.com/specials/trendy-panty-deals-1.html" target="_self"><img title="Cotton Panties - Buy 5 for $27 - Shop Now!" src="/media/wysiwyg/Dropdowns/dropdown-backinblack-CtnPanties5for27-EN.jpg" alt="Cotton Panties - Buy 5 for $27 - Shop Now >"></a></p>
+<p><a title="Panties to Match - Sexy Panties - Buy 2, Get 1 Free - Shop Sexy Panties >" href="http://www.lasenza.com/specials/sexy-panty-deals-1.html" target="_self"><img title="Panties to Match - Sexy Panties - Buy 2, Get 1 Free - Shop Sexy Panties >" src="/media/wysiwyg/2014/Beyond/drop-beyondsexy-panties2match-en.jpg" alt="Panties to Match - Sexy Panties - Buy 2, Get 1 Free - Shop Sexy Panties >"></a></p>
 </div>
-<div class="link"><a title="Cotton Panties - Buy 5 for $27 - Shop Now >" href="http://www.lasenza.com/specials/trendy-panty-deals-1.html"> <span>Shop Cotton Panties</span> </a></div>
+<div class="link"><a title="Panties to Match - Sexy Panties - Buy 2, Get 1 Free - Shop Sexy Panties >" href="http://www.lasenza.com/specials/sexy-panty-deals-1.html"> <span>Shop Sexy Panties</span> </a></div>
 </div></div>
                 </div>
                             </li>
@@ -443,15 +461,21 @@ _gaq.push(['_trackPageview']);
 
     </div>
         <!--{PAGE_BREADCRUMBS_3e749ba3c9c4ba77fb69742158daa941}--><div class="global-header-banner">
-</div>
+<table style="width: 1002; height: 35;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td><a title="Beyond Sexy Bra Collection - 3 Sexy Bra Styles - Ultimate Push-Up, Light Push Up and Multi-way Push Up! Beyond Sexy Bras – Buy One, Get One for $15! Shop Now >" href="http://www.lasenza.com/bras/bra-collections/beyond-sexy.html" target="_self"><img src="http://www.lasenza.com/media/wysiwyg/2014/Beyond/global-beyond-bogo15_mon_en_1.jpg" alt="Beyond Sexy Bra Collection - 3 Sexy Bra Styles - Ultimate Push-Up, Light Push Up and Multi-way Push Up! Beyond Sexy Bras – Buy One, Get One for $15! Shop Now >"></a></td>
+<td>
+<h1 class="receive-info"><a class="link" title="Free Shipping on Orders of $75 or more. Enter Code: BEYOND. Get Details >" href="http://www.lasenza.com/free-shipping" target="_self"><img title="Free Shipping on Orders of $75 or more. Enter Code: BEYOND. Get Details >" src="http://www.lasenza.com/media/wysiwyg/2014/Beyond/global-beyond-bogo15_en_2.jpg" alt="Free Shipping on Orders of $75 or more. Enter Code: BEYOND. Get Details >"></a></h1>
+</td>
+</tr>
+</tbody>
+</table></div>
 <div class="breadcrumbs">
     <ul>
                     <li class="home">
                             <a href="http://www.lasenza.com/" title="Go to Home Page">Home</a>
-                                        <span>/ </span>
-                        </li>
-                    <li class="cms_page">
-                            Privacy Policy | La Senza                                    </li>
+                                    </li>
             </ul>
 </div>
 
@@ -463,7 +487,7 @@ _gaq.push(['_trackPageview']);
 </script>
 <!--/{PAGE_BREADCRUMBS_3e749ba3c9c4ba77fb69742158daa941}-->        <div class="main col2-left-layout">
             <div class="col-main">
-                <!--{GLOBAL_MESSAGES_3e966cafdcb3f0c9cd9f8bc6a0021644}--><!--/{GLOBAL_MESSAGES_3e966cafdcb3f0c9cd9f8bc6a0021644}-->                <div class="std"><!--{MESSAGES_ae8cbde2baddb9675c295f25283e7db9}--><!--/{MESSAGES_ae8cbde2baddb9675c295f25283e7db9}--><div class="containerCustom" style="text-align:left">
+                                <div class="std"><div class="containerCustom" style="text-align: left;">
 <h1>Privacy Policy</h1>
 <p>This privacy policy explains what personal information is collected through this Website, how that information is used, to whom it’s disclosed, and how it’s safeguarded. Unless indicated otherwise, this policy applies only to personal information collected through the Website, microsites, or mobile sites of the La Senza brand and lines of business that expressly adopt, and display or link to, this policy. By "personal information" we mean identifiable information about you (like name, home address, email address, and descriptive information like tastes and preferences). We may refer to our brand and lines of business (i.e., La Senza) as "we," "us," or "our" throughout this privacy policy.</p>
 <p>This privacy policy answers these questions</p>
@@ -551,7 +575,7 @@ _gaq.push(['_trackPageview']);
 <blockquote>La Senza Corporation<br> Customer Service Department<br> 3 Limited Parkway, Columbus, OH 43230<br> US<br> 1 888 LA SENZA (1—888—527—3692)<br> E—mail: onlinemanager@lasenza.com</blockquote>
 <p>2. Specific Questions about this Policy</p>
 <p>For specific questions, concerns, or complaints contact our Associate Vice President (AVP) of Legal and Compliance Services, who administers this policy. You may contact this person by letter or email at:</p>
-<blockquote>AVP, Privacy Legal &amp; Compliance Services Limited Brands, Inc.<br> 3 Limited Parkway<br> Columbus, OH 43230<br> US<br> generalcounsel@limitedbrands.com (ATTN: Privacy Matter)</blockquote>
+<blockquote>AVP, Privacy Legal &amp; Compliance Services L Brands, Inc.<br> 3 Limited Parkway<br> Columbus, OH 43230<br> US<br> generalcounsel@limitedbrands.com (ATTN: Privacy Matter)</blockquote>
 <h2 id="answer10">When was this policy last updated?</h2>
 <p>If you’re concerned about how your personal information is used, please visit our site often for this and other important announcements about LaSenza.com.</p>
 <p>This Privacy Statement is effective April 15, 2013.</p>
@@ -568,6 +592,8 @@ _gaq.push(['_trackPageview']);
 <ul>
 <li><a href="/customer-service/frequently-asked-questions">Frequently Asked Questions</a></li>
 <li><a href="/contacts">Contact Us</a></li>
+<li><a href="/sales/order/history/">Order Status</a></li>
+<li><a href="http://www.lasenza.com/ustorelocator/location/map/">Store Locator</a></li>
 </ul>
 <br>
 <h3 class="lhnSub" style="padding-left: 5px;">Size Charts</h3>
@@ -581,7 +607,6 @@ _gaq.push(['_trackPageview']);
 <br>
 <h3 class="lhnSub" style="padding-left: 5px;">Ordering &amp; Shipping</h3>
 <ul>
-<li><a href="/sales/order/history/">Order Status</a></li>
 <li><a href="/customer-service/promotional-offers">Promotional Offers</a></li>
 <li><a href="/customer-service/redeeming-prestige-card">Using your Prestige Card</a></li>
 <li><a href="/customer-service/gift-purchases">Gift Purchases</a></li>
@@ -589,6 +614,16 @@ _gaq.push(['_trackPageview']);
 <li><a href="/customer-service/shipping-details">Shipping Details</a></li>
 <li><a href="/customer-service/order-changes-and-cancellations">Order Changes &amp; Cancellations</a></li>
 <li><a href="/customer-service/return-policy">Return Policy</a></li>
+</ul>
+<br>
+<h3 class="lhnSub" style="padding-left: 5px;">Company Info</h3>
+<ul>
+<li><a href="http://www.lasenza.com/about-lasenza">About La Senza</a></li>
+<li><a href="http://www.limitedbrands.com/investors" target="_blank">Investor Relations</a></li>
+<li><a href="http://www.limitedbrands.jobs/jobs/job-search-results/?categories=-1&amp;brands=-1&amp;country=-1&amp;state=-1&amp;city=-1&amp;distance=-1&amp;zipcode=Zip%20Code&amp;shift=-1&amp;keyword=La%20Senza" target="_blank">Job Opportunities</a></li>
+<li><a href="http://www.lasenza.com/giving-back">Giving Back</a></li>
+<li><a href="http://www.lasenza.com/terms-and-conditions">Terms &amp; Conditions</a></li>
+<li><a href="http://www.lasenza.com/privacy-policy-cookie-restriction-mode">Privacy</a></li>
 </ul>
 </div>
 </div>
@@ -603,26 +638,26 @@ _gaq.push(['_trackPageview']);
 <p>FOR PRESTIGE VIPS ONLY</p>
 <p><a class="exlusive-link" href="http://www.lasenza.com/prestige-vip-card-390001.html">JOIN NOW</a></p>
 <p><a title="Get 10% off every purchase, all year for Prestige VIP's only. Not a member? Join Now>" href="http://www.lasenza.com/prestige-vip-card-390001.html"><img src="http://www.lasenza.com/media/wysiwyg/prestige-VIP.png" alt="Get 10% off every purchase, all year for Prestige VIP's only. Not a member? Join Now>"></a></p>
-<p><a class="update" href="https://ebm.cheetahmail.com/r/regf2?a=0&amp;aid=2088621369&amp;n=9" target="_blank">Update Your Prestige VIP Preferences</a></p>            </div>
+<p><a class="update" href="https://ebm.cheetahmail.com/r/regf2?a=0&amp;aid=2088621369&amp;n=9" target="_blank" rel="nofollow">Update Your Prestige VIP Preferences</a></p>            </div>
         </div>
         <div class="company-info">
             <div class="title">Company info</div>
             <ul>
-<li><a href="http://www.lasenza.com/about-lasenza">About La Senza</a></li>
-<li><a href="http://www.limitedbrands.com/investors" target="_blank">Investor Relations</a></li>
-<li><a href="http://www.limitedbrands.jobs/jobs/job-search-results/?categories=-1&amp;brands=-1&amp;country=-1&amp;state=-1&amp;city=-1&amp;distance=-1&amp;zipcode=Zip%20Code&amp;shift=-1&amp;keyword=La%20Senza" target="_blank">Job Opportunities</a></li>
-<li><a href="http://www.lasenza.com/ustorelocator/location/map/">Store Locator</a></li>
-<li><a href="http://www.lasenza.com/giving-back">Giving Back</a></li>
-<li><a href="http://surv.cheetahmail.com/s?n=3&amp;aid=2088621369&amp;o=1" target="_blank">Take Our Website Survey</a></li>
-</ul>        </div>
+<li><a href="http://www.lasenza.com/about-lasenza" rel="nofollow">About La Senza</a></li>
+<li><a href="http://www.limitedbrands.com/investors" rel="nofollow" target="_blank">Investor Relations</a></li>
+<li><a href="http://www.limitedbrands.jobs/jobs/job-search-results/?categories=-1&amp;brands=-1&amp;country=-1&amp;state=-1&amp;city=-1&amp;distance=-1&amp;zipcode=Zip%20Code&amp;shift=-1&amp;keyword=La%20Senza" rel="nofollow" target="_blank">Job Opportunities</a></li>
+<li><a href="http://www.lasenza.com/ustorelocator/location/map/" rel="nofollow">Store Locator</a></li>
+<li><a href="http://www.lasenza.com/giving-back" rel="nofollow">Giving Back</a></li>
+<!--<li><a href="http://surv.cheetahmail.com/s?n=3&amp;aid=2088621369&amp;o=1" target="_blank" rel="nofollow">Take Our Website Survey</a></li>--></ul>        </div>
         <div class="customer-service">
             <div class="title">Customer service</div>
             <ul>
-<li><a href="http://www.lasenza.com/customer-service">Frequently Asked Questions</a></li>
-<li><a href="http://www.lasenza.com/contacts">Contact Us</a></li>
-<li><a href="http://www.lasenza.com/sales/order/history/">Order Status</a></li>
-<li><a href="http://www.lasenza.com/customer-service/return-policy">Delivery &amp; Returns</a></li>
-<li><a href="http://www.lasenza.com/customer-service/size-charts">Size Charts</a></li>
+<li><a href="http://www.lasenza.com/customer-service/frequently-asked-questions">Frequently Asked Questions</a></li>
+<li><a href="http://www.lasenza.com/contacts" rel="nofollow">Contact Us</a></li>
+<li><a href="http://www.lasenza.com/sales/order/history/" rel="nofollow">Order Status</a></li>
+<li><a href="http://www.lasenza.com/customer-service/shipping-details" rel="nofollow">Shipping Details</a></li>
+<li><a href="http://www.lasenza.com/customer-service/return-policy" rel="nofollow">Return Policy</a></li>
+<li><a href="http://www.lasenza.com/customer-service/size-charts/size-chart-bras" rel="nofollow">Size Charts</a></li>
 <li><a href="http://www.lasenza.com/gifts/gift-cards.html">Gift Cards</a></li>
 </ul>        </div>
         <div class="right-footer-block">
@@ -646,7 +681,7 @@ _gaq.push(['_trackPageview']);
                                         <li class="instagram"><a onclick="window.open(this.href);return false;" href="http://instagram.com/lasenza"></a></li>
                                         <li class="youtube"><a onclick="window.open(this.href);return false;" href="http://www.youtube.com/lasenza"></a></li>
                                         <li class="tumblr"><a onclick="window.open(this.href);return false;" href="http://lasenza.tumblr.com"></a></li>
-                                        <li class="googleplus"><a onclick="window.open(this.href);return false;" href="https://plus.google.com/102096587158841457407/posts"></a></li>
+                                        <li class="googleplus"><a onclick="window.open(this.href);return false;" href="http://plus.google.com/+lasenza/"></a></li>
                     </ul>
     </div>
 </div>
@@ -655,14 +690,12 @@ _gaq.push(['_trackPageview']);
     var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
     //]]>
 </script>    </div>
-    <address class="copyright">©2013 La Senza Corporation. All rights reserved.</address>
+    <address class="copyright">©2014 La Senza Corporation. All rights reserved.</address>
     <div class="footer-menu">
         <ul>
-<li><a href="http://www.lasenza.com/terms-and-conditions">Terms &amp; Conditions</a></li>
-<li><a href="http://www.lasenza.com/privacy-policy-cookie-restriction-mode">Privacy</a></li>
+<li><a href="http://www.lasenza.com/terms-and-conditions" rel="nofollow">Terms &amp; Conditions</a></li>
+<li><a href="http://www.lasenza.com/privacy-policy-cookie-restriction-mode" rel="nofollow">Privacy</a></li>
 <li><a href="http://www.lasenza.com/california-privacy-policy">California Privacy Policy</a></li>
-<li><a href="http://www.lasenza.com/customer-service/shipping-details">Shipping Information</a></li>
-<li><a href="http://www.lasenza.com/return-policy">Return Policy</a></li>
 <li><a href="http://www.lasenza.com/catalog/seo_sitemap/category">Site Map</a></li>
 </ul>    </div>
     <div class="seo-block">
@@ -671,7 +704,7 @@ _gaq.push(['_trackPageview']);
     </div>
 </div>
 
-        <!--{WISHLISTS_279aec8accc019c641bc5a3e775e8c34}--><script type="text/javascript">
+        <script type="text/javascript">
 //<![CDATA[
 Enterprise.Wishlist.list = [
 ];
@@ -682,8 +715,8 @@ Enterprise.Wishlist.url.create = 'https://www.lasenza.com/wishlist/index/createw
 Enterprise.Wishlist.canCreate = false;
 //]]>
 </script>
-<!--/{WISHLISTS_279aec8accc019c641bc5a3e775e8c34}-->    </div>
+    </div>
 </div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"596c0663a0","applicationID":"2147466","transactionName":"b1AHY0sCV0ZTAUxdXFYaJFRNClZbHRJZU1ZbVAZfXExLUEMXXUdHF0UXWFoGSkY=","queueTime":0,"applicationTime":116,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-378.min.js"}</script>
 
-
-</body></html>
+<script src="https://js-agent.newrelic.com/nr-378.min.js"></script></body></html>
