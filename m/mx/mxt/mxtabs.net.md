@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mxtabs.net privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025104104id_/http%3A//www.songsterr.com/a/wa/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mxtabs.net privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409020631id_/http%3A//www.songsterr.com/a/wa/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Songsterr Tabs with Rhythm
 
