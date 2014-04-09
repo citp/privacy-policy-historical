@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wqam.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118215808id_/http%3A//bbgi.com/privacypolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wqam.com privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409103939id_/http%3A//bbgi.com/privacypolicy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
