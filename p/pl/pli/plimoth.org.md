@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plimoth.org privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214071411id_/http%3A//www.plimoth.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plimoth.org privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409075400id_/http%3A//www.plimoth.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Plimoth Plantation
 
