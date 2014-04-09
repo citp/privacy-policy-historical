@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaillust.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924215018id_/http%3A//www.jaillust.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaillust.com privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409103722id_/http%3A//jaillust.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy.
 
