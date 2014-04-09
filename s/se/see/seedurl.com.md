@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seedurl.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031185053id_/http%3A//www.seedurl.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedurl.com privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409023333id_/http%3A//seedurl.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Seedurl.com Absolutely Free File Hosting and Sharing Service for you! Free File Upload
 
