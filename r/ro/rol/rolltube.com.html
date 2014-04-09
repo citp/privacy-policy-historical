@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rolltube.com privacy policy that was archived on 2013-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131227112619id_/http%3A//www.rolltube.com/privacy.html%3F) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rolltube.com privacy policy that was archived on 2014-04-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140409155738id_/http%3A//www.rolltube.com/privacy.html%3F) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
   <title>Roll Tube - Privacy Policy</title>
@@ -59,7 +59,6 @@
       </div>
     </div>
     <div id="header-tools">
-      
       <p id="choose-language">
   <a id="choose-language-toggle" href="#languageSelectFooter" title="">Choose your language »</a>
   <span id="choose-language-dropdown"><a href="http://www.rolltube.com/privacy.html?langchoice=de">Deutsch</a> | <a href="http://www.rolltube.com/privacy.html?langchoice=es">Español</a> | <a href="http://www.rolltube.com/privacy.html?langchoice=fr">Français</a> | <a href="http://www.rolltube.com/privacy.html?langchoice=it">Italiano</a> | <a href="http://www.rolltube.com/privacy.html?langchoice=nl">Nederlands</a> | <a href="http://www.rolltube.com/privacy.html?langchoice=pt">Português</a> | <a href="http://www.rolltube.com/privacy.html?langchoice=sv">Svenska</a></span>
@@ -183,13 +182,6 @@
         </div>
         <!-- Optional skin affiliate advert section -->
         
-        <div class="footer-section">
-  <h3>We're Hiring</h3>
-  <p>
-    We are seeking talented technical and creative people to join our team.<br>
-    <a href="http://www.naiaddev.com/" target="_blank">Check out our job listings here.</a>
-  </p>
-</div>
       </div>
       <div class="footer-column right-column">
         <div class="footer-section">
@@ -213,7 +205,7 @@
             <p>All models appearing on this website are 18 years or older.</p>
             <img src="http://m1.nsimg.net/shared/rta.gif" width="88" height="31" border="0" alt="">&nbsp;<img src="http://m1.nsimg.net/shared/asacp.gif" width="88" height="31" border="0" alt="">
           </div>
-          <p class="copyright"><b>© 2003 – 2013 rolltube.com. All rights reserved.</b></p>
+          <p class="copyright"><b>© 2003 – 2014 rolltube.com. All rights reserved.</b></p>
         </div>
       </div>
     </div>
@@ -238,7 +230,7 @@
 <noscript>
   <img class="hide" src="http://www.rolltube.com/pixel/nojs.php" alt="">
 </noscript>
-<script type="text/javascript" src="http://m2.nsimg.net/cache/js/bundle/naiad/20131217/naiad.js"></script>
+<script type="text/javascript" src="http://m2.nsimg.net/cache/js/bundle/naiad/20140131/naiad.js"></script>
 <script type="text/javascript">
 window.suggestmeyes_loaded = true;
 Naiad.Init({mediabase:'http://m1.nsimg.net',state:'',wwwbase:location.protocol+'//'+location.hostname});
@@ -255,6 +247,11 @@ Naiad.OnDomReadyQueue([ 50, function() {
   }
 }, '' ], [ 60, function() {
   Naiad.Util.InitClearNotice( '.public-note' );
+}, '' ], [ 0, function() {
+  setTimeout(function () {
+    var is404 = !!Naiad.Y.one('#error-page');
+    Naiad.LogPerformanceTiming(is404);
+  }, 0);
 }, '' ]);
 </script>
 
