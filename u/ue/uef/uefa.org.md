@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uefa.org privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014143102id_/http%3A//www.uefa.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uefa.org privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409114755id_/http%3A//www.uefa.org/privacypolicy.html) for the most accurate reproduction.*
 
 # UEFA Privacy Policy - UEFA.org
 
@@ -46,7 +46,7 @@ UEFA may allow third parties that are presenting promotions or researching users
  **Children's privacy**  
 UEFA does not knowingly collect personal data from children. UEFA does not take specific steps to protect the privacy of children who disclose their personal identifying information to UEFA.  
 Access to your personal identifying information  
-UEFA gives you the ability to access your personal identifying information by sending us an email including in the title of the email the reference to personal identifying information at info@uefa.com.  
+UEFA gives you the ability to access your personal identifying information by sending us an email including in the title of the email the reference to personal identifying information at through the [feedback form](http://www.uefa.com/community/feedback/index.html).  
 UEFA allows you to challenge the data that it holds about you and you may have such data rectified, amended or completed.
 
  **Security**  
@@ -64,4 +64,4 @@ Questions or suggestions
 If you have any questions or suggestions regarding this Privacy Policy, please ****[click here](http://www.uefa.com/community/feedback/index.html).  
 ©UEFA.com 1998-2012. All rights reserved.
 
-©UEFA.com 1998-2013. All rights reserved.
+©UEFA.com 1998-2014. All rights reserved.
