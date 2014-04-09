@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typhongroup.net privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210052755id_/http%3A//www.typhongroup.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typhongroup.net privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409162603id_/http%3A//www.typhongroup.com/privacy.htm) for the most accurate reproduction.*
 
 # Typhon Group: Healthcare Solutions
 
@@ -24,4 +24,4 @@ By visiting Typhon Group’s web sites, you agree to all of the policies as outl
 
 Thank you for your interest in Typhon Group.
 
-We also recommend you view our [ Web Site Security Statement](https://web.archive.org/web/20131210052755id_/http%3A//www.typhongroup.com/security.htm)
+We also recommend you view our [ Web Site Security Statement](https://web.archive.org/web/20140409162603id_/http%3A//www.typhongroup.com/security.htm)
