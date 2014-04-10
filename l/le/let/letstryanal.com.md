@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letstryanal.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209163002id_/http%3A//i1.mofos.com/policy_files/pp.php%3Fsite%3Dlta) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letstryanal.com privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410125943id_/http%3A//i1.mofos.com/policy_files/pp.php%3Fsite%3Dlta) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
