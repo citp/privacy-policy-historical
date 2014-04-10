@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epicwallpaper.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905083227id_/http%3A//www.epicwallpaper.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicwallpaper.com privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410022920id_/http%3A//epicwallpaper.com/privacypolicy) for the most accurate reproduction.*
 
 # Epic Wallpapers - Free Wallpapers
 
