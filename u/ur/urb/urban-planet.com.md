@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urban-planet.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207234137id_/http%3A//www.urban-planet.com/eng/aboutUs/privacy.cfm%3F%26var%3Dd%26ckey%3DCA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urban-planet.com privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410122105id_/http%3A//www.urban-planet.com/eng/aboutUs/privacy.cfm%3F%26var%3Dd%26ckey%3DCA) for the most accurate reproduction.*
 
 # Urban Planet
 
