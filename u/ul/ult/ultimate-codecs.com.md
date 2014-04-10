@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimate-codecs.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115054308id_/http%3A//tweaks-soft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimate-codecs.com privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410230108id_/http%3A//tweaks-soft.com/privacy.html) for the most accurate reproduction.*
 
 # Tweaks - Free software
 
