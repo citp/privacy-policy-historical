@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digital-muscle.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209160308id_/http%3A//www.digital-muscle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digital-muscle.com privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410024349id_/http%3A//www.digital-muscle.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Digital Muscle
 
