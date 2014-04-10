@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smstau.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115072858id_/http%3A//www.smstau.com/privecy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smstau.com privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410111710id_/http%3A//www.smstau.com/privecy_policy.php) for the most accurate reproduction.*
 
 # Contact Us - SMS-TAU.com
 
