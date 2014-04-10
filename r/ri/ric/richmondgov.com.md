@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richmondgov.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204195848id_/http%3A//www.richmondgov.com/common/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richmondgov.com privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410122359id_/http%3A//www.richmondgov.com/common/Privacy.aspx) for the most accurate reproduction.*
 
 # Richmond VA > Richmond City Council
 
