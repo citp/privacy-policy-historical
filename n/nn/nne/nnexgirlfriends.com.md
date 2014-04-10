@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nnexgirlfriends.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031184746id_/http%3A//join.nnexgirlfriends.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nnexgirlfriends.com privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410073043id_/http%3A//join.nnexgirlfriends.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
