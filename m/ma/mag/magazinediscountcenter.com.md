@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magazinediscountcenter.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104084341id_/http%3A//www.magazinediscountcenter.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazinediscountcenter.com privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410131917id_/http%3A//www.magazinediscountcenter.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
