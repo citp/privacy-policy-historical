@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mostbuying.com privacy policy that was archived on 2013-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130304144751id_/http%3A//www.mostbuying.com/article-49.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mostbuying.com privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410155903id_/http%3A//www.mostbuying.com/article-49.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.Mostbuying.com
 
