@@ -1,20 +1,29 @@
-<!--The following is the downloaded HTML source of the batteriesplus.com privacy policy that was archived on 2013-11-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131108161018id_/http%3A//www.batteriesplus.com/t-privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the batteriesplus.com privacy policy that was archived on 2014-04-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140411013415id_/http%3A//www.batteriesplus.com/t-privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-  <title>Privacy Policy for BatteriesPlus.com</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-  <meta name="verify-v1" content="DuunRUZOAfZnD82kO/IAORbOBr+43NlJYrCDpzxt1po=">
-  <meta name="google-site-verification" content="NsArve1km06I7mQmcI3XuSr2RSr0p9OXZDseX2pRlFY">
-  <meta name="y_key" content="44a6034d890de1cd">
-  <meta content="BatteriesPlus.com is committed to your privacy - View our Privacy Policy" name="description">
-  <meta content="privacy policy, data collection, cookies, account, sharing of information, protect my information" name="keywords">
-  <base href="http://www.batteriesplus.com/">
-  <link href="css/GRN-styles4.css" rel="stylesheet" type="text/css">
-  <script type="text/javascript" src="jscripts/CustomJS.js"></script>
-  <script type="text/javascript" src="jscripts/autotagging.js"></script>
-  <meta property="fb:admins" content="1436426932">
+    <title>Privacy Policy for BatteriesPlus.com</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <meta name="verify-v1" content="DuunRUZOAfZnD82kO/IAORbOBr+43NlJYrCDpzxt1po=">
+    <meta name="google-site-verification" content="NsArve1km06I7mQmcI3XuSr2RSr0p9OXZDseX2pRlFY">
+    <meta name="y_key" content="44a6034d890de1cd">
+    <meta content="BatteriesPlus.com is committed to your privacy - View our Privacy Policy" name="description">
+    <meta content="privacy policy, data collection, cookies, account, sharing of information, protect my information" name="keywords">
+    <base href="http://www.batteriesplus.com/">
+    <link href="css/GRN-styles4.css" rel="stylesheet" type="text/css">
+    <link href="css/geolocation/dialogbox.css" rel="stylesheet">
+    <link href="css/jquery-ui.css" rel="stylesheet">
+    <script src="jscripts/jquery-1.9.1.js" type="text/javascript"></script>    
+    <script src="jscripts/jquery-ui.js" type="text/javascript"></script>
+    <script type="text/javascript" src="jscripts/CustomJS.js"></script>
+    <script type="text/javascript" src="jscripts/autotagging.js"></script>
+    <script type="text/javascript" language="javascript">
+        $(function () {           
+            $("#CustomerStore span").attr("style", "margin-left:30px");
+        });
+    </script>
+    <meta property="fb:admins" content="1436426932">
 <meta property="og:site_name" content="Batteries Plus">
 <meta property="og:title" content="Privacy Policy for BatteriesPlus.com">
 <meta property="og:description" content="BatteriesPlus.com is committed to your privacy - View our Privacy Policy">
@@ -22,60 +31,284 @@
 <meta property="og:url" content="http://www.batteriesplus.com/t-privacy.aspx">
 <meta property="fb:page_id" content="95313885706">
 <meta property="og:type" content="article">
-     
+       
 </head>
-<body id="_body">
 
-    <!-- CONTAINER DIV -->
-    <div id="CONTAINER">
-    
-    
-        <div id="ACCOUNT" class="colBack">
-           
-                    <span id="userName"><br>
-                    </span><span id="loginText"><a href="t-service.aspx">Customer
-                        Support </a>| <a href="signin.aspx" rel="nofollow">Log In</a></span>
-                    | <a href="Shoppingcart.aspx" rel="nofollow">View Cart (0)</a>
+<body id="_body">     
+      <div id="ACCOUNT" style="position: relative; z-index: 99999;">
           
+<script type="text/javascript">
+    $(function () {
+        var storeCode = $("#YourStore_customerStoreCode").text();
+        var isShow = $("#YourStore_isShow").text();
+        var lblCityState = $("#YourStore_lblCityState").text();
+
+        var msgIsYourStore = "Is Your Store:";
+        var msgYourStore = "Your Store:";
+
+        if (storeCode == '0') {
+            $("#CustomerStore").hide();
+            $("#ChangeCustomerStore").hide();
+            hideDivYourStore();
+        }
+        else {
+            $("#YourStore_customerStoreCode").hide();
+            $("#CustomerStore").show();
+            $("#ChangeCustomerStore").show();
+
+            if (isShow == "True") {
+                $("#lblStateCity").text(lblCityState);
+                $("#divYourStore").css("display", "inline-block");
+                $("#topYourStore").text(msgIsYourStore);
+                $("#yellowYourStore").text(msgIsYourStore);
+            }
+            else {
+                hideDivYourStore();
+                $("#topYourStore").text(msgYourStore);
+                $("#yellowYourStore").text(msgYourStore);
+            }
+
+            if (checkIsMainPage()) {
+                hideDivYourStore();
+            }
+
+            if (checkShowChangeStore()) {
+                $("#ChangeCustomerStore").hide();
+            }
+        }
+    })
+
+    function hideDivYourStore() {
+        $("#divYourStore").hide();
+        $("#lblStateCity").text("");
+    }
+
+
+    function checkShowChangeStore() {
+        var url = window.location.href.toLowerCase();
+        if (url.indexOf('checkout1.aspx') > 0 || url.indexOf('checkoutreview.aspx') > 0) {
+            return true;
+        }
+        else {
+            return false;
+        }
+    }
+
+    function checkIsMainPage() {
+        var url = window.location.href.toLowerCase();
+        var newUrl = url.split('/')[3];
+        if (newUrl == '' || newUrl.indexOf('default.aspx') > 0 || newUrl.indexOf('checkout1.aspx') > 0 || newUrl.indexOf('checkoutreview.aspx') > 0) {           
+            return true;           
+        }
+        else {            
+            return false;           
+        }
+    }
+</script>
+<style type="text/css">
+    .hiddenLabel {
+        visibility: hidden;
+    }
+</style>
+<div id="topStoreInfo">
+    <div id="CustomerStore" style="float: left; width: 400px; min-height: 1px; text-align: left; display: none;">
+        <span class="dialog-inside-bold" id="topYourStore"></span>
+        <br>
+        <span id="YourStore_lblCityState" class="lblCityState">Ashburn, VA</span>
+        <br>
+        <span id="YourStore_lblAddress" class="lblAddress">44110 Ashburn Shopping Plaza</span>
+    </div>
+    <div id="ChangeCustomerStore" style="float: left; min-height: 1px; display: none;">
+        <br>
+        <span id="YourStore_customerStoreCode" class="hiddenLabel">1107</span>
+        <span id="YourStore_isShow" class="hiddenLabel">True</span>
+        <br>
+        <span id="storeInfo">Store Info<img src="images/geolocation/StoreDownArrow.png"></span><span class="div-marginright">|</span>
+        <span id="changeStore">Change Store<img src="images/geolocation/StoreDownArrow.png"></span>
+    </div>
+</div>
+            
+            <div style="float: right; width: 325px; font-weight: bold;">
+                <div style="margin-bottom: 15px; margin-top: 4px;"><span id="userName"></span>&nbsp;</div>
+                <span id="loginText"><a href="signin.aspx" rel="nofollow">Log In</a>
+                    <span class="top-marginright">|</span><a href="t-service.aspx">Help</a></span>
+                <span class="top-marginright">|</span><a href="Shoppingcart.aspx" rel="nofollow">View Cart (0)</a>
+            </div>
+            
+
+<!--Store window -->
+<div id="StoreInfo" class="navigation-window" style="width: 880px; height: 170px; position: absolute; top: 64px; left: 30px; display: none;">
+    <img src="images/geolocation/Arrow.png" alt="" class="store-arrow-icon">
+    <div class="window-dialog window-store">
+        <div class="dialog-close">
+            <img src="images/geolocation/close.png" alt="close"></div>
+        <div class="dialog-content">
+            <div class="dialog-inside">
+                <div class="dialog-inside-bold">
+                    <span id="TopStoreInfo1_lblStoreName">Ashburn, Virginia</span>                    
+                    <span id="TopStoreInfo1_lblStoreCodeInfo" class="lblStoreCodeInfo" style="display:none;">680</span>
+                </div>
+                <div>
+                    <span id="TopStoreInfo1_lbladdress"><span itemprop="streetAddress">44110 Ashburn Shopping Plaza</span><br><span itemprop="addressLocality">Ashburn</span>, <span itemprop="addressRegion">VA</span> <span itemprop="postalCode">20147</span></span></div>
+                <div class="dialog-inside-bold">Phone:
+                    <span id="TopStoreInfo1_lblphone"><span itemprop="telephone">571.291.2916  </span></span>
+                    | Fax:
+                    <span id="TopStoreInfo1_lblfax"><span itemprop="faxNumber"> 571.291.9602  </span></span></div>
+                <div class="dialog-inside-bold">Hours:
+                    <span id="TopStoreInfo1_lblhour"><meta itemprop="openingHours" content=" Mo-Th:8:00 am -20:00 pm">Mon–Thurs: 8:00 am - 8:00 pm,<meta itemprop="openingHours" content="Fr 8:00 am -20:00 pm"> Fri: 8:00 am - 8:00 pm,<meta itemprop="openingHours" content="Sa 8:00 am -19:00 pm"> Sat: 8:00 am - 7:00 pm,<meta itemprop="openingHours" content="Su 10:00 am -17:00 pm"> Sun: 10:00 am - 5:00 pm</span></div>
+               
+                <div class="dialog-inside-bold">
+                    <span id="TopStoreInfo1_lblStoreCoupons"><a href="store_details/680.aspx#Coupons">Store Coupons <img src="images/geolocation/delta.gif" width="4" height="7" alt=">>"></a></span></div>
+                <div class="dialog-inside-bold"><a href="store_locator/drive/Ashburn-680.aspx" id="TopStoreInfo1_GetDirections">Get Directions
+                    <img src="images/geolocation/delta.gif" width="4" height="7" alt=">>"></a></div>
+            </div>
         </div>
+    </div>
+</div>
+
+<div id="StoreList" class="navigation-window" style="width: 460px; height: 458px; position: absolute; top: 64px; left: 140px; display: none">
+    <img src="images/geolocation/Arrow.png" alt="" class="store-arrow-icon">
+    <div class="window-dialog window-storelist">
+        <div class="dialog-close">
+            <img src="images/geolocation/close.png" alt="close"></div>
+        <div class="dialog-content">
+
+            <div class="zip-search">
+                <div class="dialog-inside-bold">Please enter an street address, city and state, or ZIP code.</div>
+                <div class="search-input" style="position: relative;">
+                    <input id="search-input-left" class="search-input-left" onkeydown="if(((window.event) ? event.keyCode : e.which)==13){return false;}">
+                    <span class="search-input-icon">
+                        <img id="search-input-icon" src="images/geolocation/Search-icon.png"></span>
+                </div>
+            </div>
+            <div id="storeliststyle2" style="overflow-x: hidden; overflow-y: scroll;">
+                <span class="error-title">Did you mean:</span>
+                <ul>
+                    <li class="dialog-inside-bold"><a href="#" onclick="return false" lat="" lon=""></a></li>
+                </ul>
+            </div>
+            <div id="loadingpage" style="text-align:center;">
+                <img src="images/geolocation/loading.gif" width="50" height="50" style="margin-top:140px;">
+            </div>
+            <div id="storelistnotfound" style="display: none; overflow: hidden;">
+                <div style="word-break: break-all; width: 430px; margin: 10px; overflow: hidden;">
+                    <p class="storetitle">We could not find a store nearby based upon your search.</p>
+                    <p>
+                        <strong><em>Try one of these options:</em></strong>
+                        <br>
+                        <strong>Give us a call</strong> - 1.800.677.8278<br>
+                        <strong>Shop Online</strong> - Our online store is always open for business. Use the toolbar at the top to begin shopping right now<br>
+                        <strong>Modify&nbsp;Your Search</strong> - Try searching by street address, city and state, or ZIP code to find a Batteries Plus store.
+                    </p>
+                </div>
+            </div>
+            <div id="divstorelist">
+                <ul>
+                    <li>
+                        <div style="height: auto;">
+                            <div class="list-locator-icon"><span></span></div>
+                            <div class="store-list-right">
+                                <span style="position: absolute; top: 0px; right: 0px;" class="distance">mi</span>
+                                <div class="dialog-inside-bold yourstore" style="display: none">Your Store:</div>
+                                <div class="dialog-inside-bold">
+                                    <span class="spanyourstore"></span>
+                                </div>
+                                <div>
+                                    <span class="spanaddress"></span>
+                                </div>
+                                <div class="dialog-inside-bold">
+                                    Phone:
+                                                 <span class="spanphone"></span>
+                                    | Fax:
+                                                 <span class="spanfax"></span>
+                                </div>
+                                <div class="showdetail" style="display: none">
+                                    <div class="dialog-inside-bold hour">
+                                        <span class="spanhour"></span>
+                                    </div>
+                                    <div class="dialog-inside-bold">
+                                        <span class="spanstorecoupons"></span>
+                                    </div>
+                                    <div class="dialog-inside-bold divgetdirections">
+                                        <a href="">Get Directions
+                                                <img src="images/geolocation/delta.gif" width="4" height="7" alt=">>"></a>
+                                    </div>
+                                </div>
+                                <div class="dialog-inside-bold hidedetail">
+                                    <a href="#" onclick="return false" fid="" data-cid="">Make This Your Store</a>
+                                </div>
+                                <span style="position: absolute; bottom: 0px; right: 0px;" class="dialog-inside-bold dropdownicon">
+                                    <a href="#" onclick="return false">Show Details</a>
+                                    <img src="images/geolocation/downarrowicon.png" width="7" height="4" alt="" style="position: relative; top: -2px; left: 0px;"></span>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div class="dialog-inside-bold" style="margin-top: 2px; margin-left: 5px;">
+                <a href="t-storeloc.aspx">Find More Stores
+                    <img src="images/geolocation/delta.gif" width="4" height="7" alt=">>"></a>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="jscripts/TopStoreDialogJS.js"></script>
+<!--End Store window-->
+
+        </div>
+    
+    <!-- CONTAINER DIV -->
+    <div id="CONTAINER">     
         <div id="TOPLEFT">
             <div id="LOGO">
                 <a href="/" border="0">
-                    <img src="media/branding.png"></a></div>
-                    
+                    <img src="media/branding.png"></a>
+            </div>
+
             <div id="SEARCH">
                 <label>
                     Search:</label>
-                <input type="text" value="Keyword" id="SearchTerm" name="SearchTerm" class="search" onfocus="clearText(this)" onblur="clearText(this)" onkeydown="doSearch(event);">
+                <input type="text" value="Keyword" id="SearchTerm" name="SearchTerm" class="search" onfocus="clearText(this)" onblur="clearText(this)" onkeydown="doSearch(event);" size="200">
                 &nbsp;<input id="searchButton" type="submit" value="Go!" onclick="Search(this.id);" class="goBtn">
             </div>
-            <div id="STORELOC">
-           
-                
-                <form id="storeform" style="margin: 0pt;" action="storelookup_process.aspx" method="get">
-              <label>
-                    Find a Store:</label>
-                <input id="storeentry" value="Zip or ST" name="storeentry" class="zip" onfocus="clearText(this)" onblur="clearText(this)" on="">&nbsp;<input id="getStoresbtn" type="submit" value="Go!">
-           </form>
-           </div>
-          
-              <!-- READ FROM DB --><div id="HELP">Call: <span class="help">800-677-8278</span></div><div id="NAV"><div style="float:left;display:inline;width:620px; height:45px;margin-top:5px;"><a href="t-promodetails.aspx"><img src="media/nav-coupons.png" alt="Coupons" width="90" height="45" border="0"></a><a href="t-batteries-plus-recycles.aspx"><img src="media/nav-recycling.png" alt="Recycling" width="70" height="45" border="0"></a><a href="t-tech-center.aspx"><img src="media/nav-tech.png" alt="Tech Center" width="74" height="45" border="0"></a><img src="media/nav4.png" width="32" height="45"><a href="http://www.batteriesplus.com/franchising?navbar" target="_blank"><img src="media/nav-franchise.png" alt="Own A Franchise" width="312" height="45" border="0"></a><img src="media/nav6.png" width="42" height="45"></div></div><!-- END OF DB -->
+            
+
+            <!-- READ FROM DB --><div id="HELP">Call: <span class="help">800-677-8278</span></div><div id="NAV"><div style="float:left;display:inline;width:620px; height:45px;margin-top:5px;"><a href="t-promodetails.aspx"><img src="media/nav-specials.png" alt="Specials" width="90" height="45" border="0"></a><a href="t-batteries-plus-recycles.aspx"><img src="media/nav-recycling.png" alt="Recycling" width="70" height="45" border="0"></a><a href="t-tech-center.aspx"><img src="media/nav-tech.png" alt="Tech Center" width="74" height="45" border="0"></a><img src="media/nav4.png" width="32" height="45"><a href="http://www.batteriesplus.com/franchising?navbar" target="_blank"><img src="media/nav-franchise.png" alt="Own A Franchise" width="312" height="45" border="0"></a><img src="media/nav6.png" width="42" height="45"></div></div><!-- END OF DB -->
 
 
-   
+
             <div id="BCRUMB" class="bcrumb">
-              <strong>You are here: </strong><a href="/">BatteriesPlus.com Home</a>&nbsp;→&nbsp; Privacy Policy
+                <strong>You are here: </strong><a href="/">BatteriesPlus.com Home</a>&nbsp;→&nbsp; Privacy Policy
+            </div>
+            <div id="divYourStore">
+                <div style="float: left; width: 275px; text-align: left; line-height: 30px;">
+                    <span id="yellowYourStore"></span>
+                    <span id="lblStateCity" class="dialog-inside-bold" style="letter-spacing:-0.02em;"></span>
+                </div>
+                <div style="float: left; width: 140px; text-align: center;">
+                    <button class="btnYourStore" id="makeYourStore" type="submit">
+                        <span>Yes,This is My Store
+                        </span>
+                    </button>
+                </div>
+                <div style="float: left; min-height: 1px; line-height: 30px;">
+                    <span id="divStoreInfo">Store Info<img src="images/geolocation/StoreDownArrow.png"></span><span class="div-marginright">|</span>
+                    <span id="divChangeStore">Change Store<img src="images/geolocation/StoreDownArrow.png"></span>
+                </div>
+                <div class="div-YS-close" style=" position:absolute; top:4px; right:4px;">
+                    <img alt="close" src="images/geolocation/close.png">
+                </div>
             </div>
         </div>
-       
+
         <form name="form1" method="post" action="driver.aspx?Topic=privacy" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEyMDkxNzQzNTIPZBYCAgIPZBYCAgMPZBYCZg9kFgICAQ9kFggCAw8QZBAVAQAVAQAUKwMBZ2RkAgcPEGQQFQEAFQEAFCsDAWdkZAILDxBkEBUBABUBABQrAwFnZGQCEQ8WAh4EVGV4dAX1DjxkaXYgc3R5bGU9Im1hcmdpbi10b3A6IDI1cHg7IHdpZHRoOiAyNjVweDsgaGVpZ2h0OiA1NTBweDsiPjx0YWJsZSBib3JkZXI9IjAiIGNlbGxwYWRkaW5nPSIwIiBjZWxsc3BhY2luZz0iMCIgd2lkdGg9IjI2NSI+PHRib2R5Pjx0cj48dGQ+PGEgaHJlZj0iaHR0cDovL3d3dy5mYWNlYm9vay5jb20vQmF0dGVyaWVzUGx1cyIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSJodHRwOi8vYmxvZy5iYXR0ZXJpZXNwbHVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMDcxM18wMS1mYWNlYm9vay5naWYiIGFsdD0iRmFjZWJvb2sgJmd0OyIgYm9yZGVyPSIwIiBoZWlnaHQ9IjU3IiB3aWR0aD0iNDciPjwvYT48YSBocmVmPSJodHRwOi8vdHdpdHRlci5jb20vYmF0dGVyaWVzcGx1cyIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSJodHRwOi8vYmxvZy5iYXR0ZXJpZXNwbHVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMDcxM18wMi10d2l0dGVyLmdpZiIgYWx0PSJUd2l0dGVyICZndDsiIGJvcmRlcj0iMCIgaGVpZ2h0PSI1NyIgd2lkdGg9IjQ2Ij48L2E+PGEgaHJlZj0iaHR0cHM6Ly9wbHVzLmdvb2dsZS5jb20vdS8wLzExMzQ1NzEyMDY1Njk0NTU4MDAzMi9wb3N0cyIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSJodHRwOi8vYmxvZy5iYXR0ZXJpZXNwbHVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMDcxM18wMy1nb29nbGVwbHVzLmpwZyIgYWx0PSJHb29nbGUrICZndDsiIGJvcmRlcj0iMCIgaGVpZ2h0PSI1NyIgd2lkdGg9IjQyIj48L2E+PGEgaHJlZj0iaHR0cDovL3d3dy55b3V0dWJlLmNvbS9iYXR0ZXJpZXNwbHVzIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Imh0dHA6Ly9ibG9nLmJhdHRlcmllc3BsdXMuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8wNzEzXzA0LXlvdXR1YmUuZ2lmIiBhbHQ9IllvdVR1YmUgJmd0OyIgYm9yZGVyPSIwIiBoZWlnaHQ9IjU3IiB3aWR0aD0iODUiPjwvYT48YSBocmVmPSJodHRwOi8vcGludGVyZXN0LmNvbS9iYXR0ZXJpZXNwbHVzLyIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSJodHRwOi8vYmxvZy5iYXR0ZXJpZXNwbHVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMDcxM18wNS1waW50ZXJlc3QuZ2lmIiBhbHQ9IlBpbnRlcmVzdCAmZ3Q7IiBib3JkZXI9IjAiIGhlaWdodD0iNTciIHdpZHRoPSI0NSI+PC9hPjwvdGQ+PC90cj48dHI+DQogIDx0ZCBzdHlsZT0iYm9yZGVyLWJvdHRvbTo4cHggc29saWQgI2ZmODIwMDsiPjxhIGhyZWY9Imh0dHA6Ly9ibG9nLmJhdHRlcmllc3BsdXMuY29tIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Imh0dHA6Ly9ibG9nLmJhdHRlcmllc3BsdXMuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8wNzEzXzA2LWJsb2cuanBnIiBhbHQ9IkJlIFBvc2l0aXZlIC0gYSBCbG9nIHBvd2VyZWQgYnkgQmF0dGVyaWVzIFBsdXMiIHdpZHRoPSIxMzIiIGhlaWdodD0iNjMiIGJvcmRlcj0iMCI+PC9hPjxhIGhyZWY9InQtcHNpZGVfc2lnbnVwLmFzcHgiPjxpbWcgc3JjPSJodHRwOi8vYmxvZy5iYXR0ZXJpZXNwbHVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMDcxM18wNy1uZXdzbGV0dGVyLmdpZiIgYWx0PSJOZXdzbGV0dGVyIFNpZ251cCIgd2lkdGg9IjEzMyIgaGVpZ2h0PSI2MyIgYm9yZGVyPSIwIj48L2E+PC90ZD48L3RyPjx0cj4NCiAgICA8dGQgc3R5bGU9InBhZGRpbmctdG9wOjRweDsiPjxhIGhyZWY9InQtQnVzaW5lc3MtQ29udGFjdC1Gb3JtLmFzcHgiPjxpbWcgc3JjPSJodHRwOi8vYmxvZy5iYXR0ZXJpZXNwbHVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvQjJCLXByaWNpbmcyLmdpZiIgYWx0PSJDb21tZXJjaWFsIFByaWNpbmcgUmVxdWVzdCBGb3JtIiAgYm9yZGVyPSIwIj48L2E+PC90ZD48L3RyPjx0cj48dGQ+Jm5ic3A7PGJyPg0KPC90ZD48L3RyPjwvdGJvZHk+PC90YWJsZT4NCiA8L2Rpdj5kZHDVybnquTFh7TEgSzUzLZo8mlTK">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEyMDkxNzQzNTIPZBYCAgIPZBYGAgEPZBYIZg8PFgIeBFRleHQFC0FzaGJ1cm4sIFZBZGQCAQ8PFgIfAAUcNDQxMTAgQXNoYnVybiBTaG9wcGluZyBQbGF6YWRkAgIPDxYCHwAFBDExMDdkZAIDDw8WAh8ABQRUcnVlZGQCAw9kFhACAQ8PFgIfAAURQXNoYnVybiwgVmlyZ2luaWFkZAIDDw8WAh8ABQM2ODBkZAIFDw8WAh8ABcgBPHNwYW4gaXRlbXByb3A9InN0cmVldEFkZHJlc3MiPjQ0MTEwIEFzaGJ1cm4gU2hvcHBpbmcgUGxhemE8L3NwYW4+PEJSPjxzcGFuIGl0ZW1wcm9wPSJhZGRyZXNzTG9jYWxpdHkiPkFzaGJ1cm48L3NwYW4+LCA8c3BhbiBpdGVtcHJvcD0iYWRkcmVzc1JlZ2lvbiI+VkE8L3NwYW4+IDxzcGFuIGl0ZW1wcm9wPSJwb3N0YWxDb2RlIj4yMDE0Nzwvc3Bhbj5kZAIHDw8WAh8ABTA8c3BhbiBpdGVtcHJvcD0idGVsZXBob25lIj41NzEuMjkxLjI5MTYgIDwvc3Bhbj5kZAIJDw8WAh8ABTE8c3BhbiBpdGVtcHJvcD0iZmF4TnVtYmVyIj4gNTcxLjI5MS45NjAyICA8L3NwYW4+ZGQCCw8PFgIfAAXkAjxtZXRhIGl0ZW1wcm9wPSJvcGVuaW5nSG91cnMiIGNvbnRlbnQ9IiBNby1UaDo4OjAwIGFtIC0yMDowMCBwbSI+TW9uJiM4MjExO1RodXJzOiA4OjAwIGFtIC0gODowMCBwbSw8bWV0YSBpdGVtcHJvcD0ib3BlbmluZ0hvdXJzIiBjb250ZW50PSJGciA4OjAwIGFtIC0yMDowMCBwbSI+IEZyaTogODowMCBhbSAtIDg6MDAgcG0sPG1ldGEgaXRlbXByb3A9Im9wZW5pbmdIb3VycyIgY29udGVudD0iU2EgODowMCBhbSAtMTk6MDAgcG0iPiBTYXQ6IDg6MDAgYW0gLSA3OjAwIHBtLDxtZXRhIGl0ZW1wcm9wPSJvcGVuaW5nSG91cnMiIGNvbnRlbnQ9IlN1IDEwOjAwIGFtIC0xNzowMCBwbSI+IFN1bjogMTA6MDAgYW0gLSA1OjAwIHBtZGQCDQ8PFgIfAAWDATxhIGhyZWY9J3N0b3JlX2RldGFpbHMvNjgwLmFzcHgjQ291cG9ucyc+U3RvcmUgQ291cG9ucyA8aW1nIHNyYz0naW1hZ2VzL2dlb2xvY2F0aW9uL2RlbHRhLmdpZicgd2lkdGg9JzQnIGhlaWdodD0nNycgYWx0PSc+PicgLz48L2E+ZGQCDw8WAh4EaHJlZgUkc3RvcmVfbG9jYXRvci9kcml2ZS9Bc2hidXJuLTY4MC5hc3B4ZAIHD2QWAmYPZBYCAgEPZBYKAgMPEGQQFQEAFQEAFCsDAWdkZAIHDxBkEBUBABUBABQrAwFnZGQCCw8QZBAVAQAVAQAUKwMBZ2RkAhEPFgIfAAXZDjxkaXYgc3R5bGU9Im1hcmdpbi10b3A6IDI1cHg7IHdpZHRoOiAyNjVweDsgaGVpZ2h0OiA1NTBweDsiPjx0YWJsZSBib3JkZXI9IjAiIGNlbGxwYWRkaW5nPSIwIiBjZWxsc3BhY2luZz0iMCIgd2lkdGg9IjI2NSI+PHRib2R5Pjx0cj48dGQ+PGEgaHJlZj0iaHR0cDovL3d3dy5mYWNlYm9vay5jb20vQmF0dGVyaWVzUGx1cyIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSJodHRwOi8vYmxvZy5iYXR0ZXJpZXNwbHVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMDcxM18wMS1mYWNlYm9vay5naWYiIGFsdD0iRmFjZWJvb2sgJmd0OyIgYm9yZGVyPSIwIiBoZWlnaHQ9IjU3IiB3aWR0aD0iNDciPjwvYT48YSBocmVmPSJodHRwOi8vdHdpdHRlci5jb20vYmF0dGVyaWVzcGx1cyIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSJodHRwOi8vYmxvZy5iYXR0ZXJpZXNwbHVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMDcxM18wMi10d2l0dGVyLmdpZiIgYWx0PSJUd2l0dGVyICZndDsiIGJvcmRlcj0iMCIgaGVpZ2h0PSI1NyIgd2lkdGg9IjQ2Ij48L2E+PGEgaHJlZj0iaHR0cHM6Ly9wbHVzLmdvb2dsZS5jb20vdS8wLzExMzQ1NzEyMDY1Njk0NTU4MDAzMi9wb3N0cyIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSJodHRwOi8vYmxvZy5iYXR0ZXJpZXNwbHVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMDcxM18wMy1nb29nbGVwbHVzLmpwZyIgYWx0PSJHb29nbGUrICZndDsiIGJvcmRlcj0iMCIgaGVpZ2h0PSI1NyIgd2lkdGg9IjQyIj48L2E+PGEgaHJlZj0iaHR0cDovL3d3dy55b3V0dWJlLmNvbS9iYXR0ZXJpZXNwbHVzIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Imh0dHA6Ly9ibG9nLmJhdHRlcmllc3BsdXMuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8wNzEzXzA0LXlvdXR1YmUuZ2lmIiBhbHQ9IllvdVR1YmUgJmd0OyIgYm9yZGVyPSIwIiBoZWlnaHQ9IjU3IiB3aWR0aD0iODUiPjwvYT48YSBocmVmPSJodHRwOi8vcGludGVyZXN0LmNvbS9iYXR0ZXJpZXNwbHVzLyIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSJodHRwOi8vYmxvZy5iYXR0ZXJpZXNwbHVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMDcxM18wNS1waW50ZXJlc3QuZ2lmIiBhbHQ9IlBpbnRlcmVzdCAmZ3Q7IiBib3JkZXI9IjAiIGhlaWdodD0iNTciIHdpZHRoPSI0NSI+PC9hPjwvdGQ+PC90cj48dHI+DQogIDx0ZCBzdHlsZT0iYm9yZGVyLWJvdHRvbTo4cHggc29saWQgI2ZmODIwMDsiPjxhIGhyZWY9Imh0dHA6Ly9ibG9nLmJhdHRlcmllc3BsdXMuY29tIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Imh0dHA6Ly9ibG9nLmJhdHRlcmllc3BsdXMuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8wNzEzXzA2LWJsb2cuanBnIiBhbHQ9IkJlIFBvc2l0aXZlIC0gYSBCbG9nIHBvd2VyZWQgYnkgQmF0dGVyaWVzIFBsdXMiIHdpZHRoPSIxMzIiIGhlaWdodD0iNjMiIGJvcmRlcj0iMCI+PC9hPjxhIGhyZWY9InQtcHNpZGVfc2lnbnVwLmFzcHgiPjxpbWcgc3JjPSJodHRwOi8vYmxvZy5iYXR0ZXJpZXNwbHVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMDcxM18wNy1uZXdzbGV0dGVyLmdpZiIgYWx0PSJOZXdzbGV0dGVyIFNpZ251cCIgd2lkdGg9IjEzMyIgaGVpZ2h0PSI2MyIgYm9yZGVyPSIwIj48L2E+PC90ZD48L3RyPjx0cj4NCiAgICA8dGQgc3R5bGU9InBhZGRpbmctdG9wOjRweDsiPjxhIGhyZWY9InQtQnVzaW5lc3MtQ29udGFjdC1Gb3JtLmFzcHgiPjxpbWcgc3JjPSJodHRwOi8vYmxvZy5iYXR0ZXJpZXNwbHVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvQjJCLXByaWNpbmcyLmdpZiIgYWx0PSJDb21tZXJjaWFsIFByaWNpbmcgUmVxdWVzdCBGb3JtIiAgYm9yZGVyPSIwIj48L2E+PC90ZD48L3RyPjwvdGJvZHk+PC90YWJsZT4NCg0KIDwvZGl2PmQCEw8WAh8AZWRkY+Wdgb7n/U/iKgF9BK22UN2tAxA=">
 
 
 <script src="/ScriptResource.axd?d=OgKFM2vxcWlyg3e5mmeFnZ5rwWuD8YAW1fYyc9fTQZd6UeC9I9NfAlCCHpAt4Y_koqpPGeUdgLxutexGsYBGgiaUH2mShZHJ81bDzDqpjx9VD2AmuLS6BWmLHi-w-ea7JqmjW_2EnI4hIAx0JlyyRvB34irKP4u83BlWzlbPyPKybG040&amp;t=7d33bd9f" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=7X3WJCKDNEGWHnubAMlzk66AflRwE0jMdSgp3Nh9AZmyfdt_F1N5JuFocbd595eSwyGnXoRJKjanKx0YjdspGCUt0PktT-LDB_jcTulBg34T-6ZqgZ5V-yNK7uKInr8NF-lTEMOR4TJCJlVy-aEO6Br8_u41&amp;t=4de957a9" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=yZpeuv5MQ_4FVVo43HAtzoU7ROA3wLl7lnyQD_GQhK1fYiDraTNLlr4qT1-7z5vWy09wkqcqqt-X0BOWf9NctyQ5EuYX5vjdcC9BqQ7LB0PhpvS_qcZVYlbpHBwSFGNnLJ7ew_muTnoLFzViuLMbwLIZyI_9w8vaOCuX9_ZKQVGYwFBr0&amp;t=4de957a9" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=mT0wFsLMpMBF9KA5Q2ASKkQKf5Q_Ojq-vTxWa4vCDnORum0SNg-TOGP8rrg0exZX1zBExQcTIPzWM1VdNfStwAAG-4XsE76FtT9yqD7P4f0pBPuYuZTj3-mC0kWTs9rRbQcxSmpQTdOdIXUFlR9VAanWYRsJq1VlooS_Ayf6ayL-zGfwmCkbaYIxT-kPi0R--mjN4w2&amp;t=4de957a9" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=7X3WJCKDNEGWHnubAMlzk66AflRwE0jMdSgp3Nh9AZmyfdt_F1N5JuFocbd595eSwyGnXoRJKjanKx0YjdspGCUt0PktT-LDB_jcTulBg34T-6ZqgZ5V-yNK7uKInr8NF-lTEMOR4TJCJlVy-aEO6Br8_u41&amp;t=7e966d99" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=yZpeuv5MQ_4FVVo43HAtzoU7ROA3wLl7lnyQD_GQhK1fYiDraTNLlr4qT1-7z5vWy09wkqcqqt-X0BOWf9NctyQ5EuYX5vjdcC9BqQ7LB0PhpvS_qcZVYlbpHBwSFGNnLJ7ew_muTnoLFzViuLMbwLIZyI_9w8vaOCuX9_ZKQVGYwFBr0&amp;t=7e966d99" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=mT0wFsLMpMBF9KA5Q2ASKkQKf5Q_Ojq-vTxWa4vCDnORum0SNg-TOGP8rrg0exZX1zBExQcTIPzWM1VdNfStwAAG-4XsE76FtT9yqD7P4f0pBPuYuZTj3-mC0kWTs9rRbQcxSmpQTdOdIXUFlR9VAanWYRsJq1VlooS_Ayf6ayL-zGfwmCkbaYIxT-kPi0R--mjN4w2&amp;t=7e966d99" type="text/javascript"></script>
     
 
 <div id="TOPRIGHT">
@@ -119,8 +352,8 @@
      
         <div style="margin-top: 25px; width: 265px; height: 550px;"><table border="0" cellpadding="0" cellspacing="0" width="265"><tbody><tr><td><a href="http://www.facebook.com/BatteriesPlus" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/0713_01-facebook.gif" alt="Facebook >" border="0" height="57" width="47"></a><a href="http://twitter.com/batteriesplus" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/0713_02-twitter.gif" alt="Twitter >" border="0" height="57" width="46"></a><a href="https://plus.google.com/u/0/113457120656945580032/posts" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/0713_03-googleplus.jpg" alt="Google+ >" border="0" height="57" width="42"></a><a href="http://www.youtube.com/batteriesplus" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/0713_04-youtube.gif" alt="YouTube >" border="0" height="57" width="85"></a><a href="http://pinterest.com/batteriesplus/" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/0713_05-pinterest.gif" alt="Pinterest >" border="0" height="57" width="45"></a></td></tr><tr>
   <td style="border-bottom:8px solid #ff8200;"><a href="http://blog.batteriesplus.com" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/0713_06-blog.jpg" alt="Be Positive - a Blog powered by Batteries Plus" width="132" height="63" border="0"></a><a href="t-pside_signup.aspx"><img src="http://blog.batteriesplus.com/wp-content/uploads/0713_07-newsletter.gif" alt="Newsletter Signup" width="133" height="63" border="0"></a></td></tr><tr>
-    <td style="padding-top:4px;"><a href="t-Business-Contact-Form.aspx"><img src="http://blog.batteriesplus.com/wp-content/uploads/B2B-pricing2.gif" alt="Commercial Pricing Request Form" border="0"></a></td></tr><tr><td>&nbsp;<br>
-</td></tr></tbody></table>
+    <td style="padding-top:4px;"><a href="t-Business-Contact-Form.aspx"><img src="http://blog.batteriesplus.com/wp-content/uploads/B2B-pricing2.gif" alt="Commercial Pricing Request Form" border="0"></a></td></tr></tbody></table>
+
  </div>
      </div>
     
@@ -133,14 +366,60 @@
 
     <div id="BOTTOMLEFT">
         <div id="CONTENT">
-<!-- READ FROM DB --><a id="top" name="top"></a> <div style="WIDTH: 580px"><h5 class="title">BatteriesPlus.com Privacy Policy - Version 1.3, Effective Date 7/1/2009</h5><p>Batteries Plus LLC (“BPLUS”) is committed to protecting your privacy. This policy describes our practices regarding personal and account information collected through our web site. In this policy, “personal and account information” means your name, company name, account number, address, telephone number, and e-mail address plus other information that personally identifies you, including your industry, the number of employees at your company, and purchase history, and “we” and “us” means BPLUS as well as its franchisees.</p><p>We reserve the right to modify this privacy policy from time to time. Each version of our Privacy Policy is marked with a version number and effective date. We recommend that you visit our web site periodically to review any changes. </p><h5 class="title">How much information must I share?</h5><p>The amount and type of information we collect from you depends on your activities and use of our web site. Below, we explain what information we collect.</p><blockquote><p><span class="bold">When you browse our web site</span><br>We may collect your IP address to measure our web site traffic and to help provide a relevant shopping experience. </p><p>If you come to our web site via a link, we may collect the location of the link that referred you.</p><p>We may collect information about the browser you are using to help optimize our web site for visitors. </p><p>We may keep track of pages you visit to help provide you with a more personalized shopping experience. </p><p><span class="bold">When you make purchases through our web site </span><br>We collect your name, address and payment information to process your order. However, you may provide credit card and purchase order numbers by telephone. </p><p>We may collect information contained in “cookies,” such as your purchases and login data, to personalize your shopping experience. Your browser may be required to accept cookies if you wish to add items to a shopping cart.</p><p><span class="bold">When you create an e-Account on our web site </span><br>We collect your user name, password, bill-to address, and email address. You can help us ensure your privacy by not sharing your user name or password. </p><p><span class="bold">When you subscribe to our email newsletter through our web site&nbsp;</span></p><p>We use your email information&nbsp;to&nbsp;deliver newsletters, company information and promotions. Your email information may be used in conjunction with any purchases you make at BatteriesPlus.com to provide customized offers or promotions.&nbsp; You may unsubscribe by visiting&nbsp;<a href="http://www.batteriesplus.com/t-unsubscribeform.aspx">www.batteriesplus.com/t-unsubscribeform.aspx</a> and following the instructions therein. </p><p><span class="bold">When you e-mail a friend</span><br>If you use our site to send something to a friend, we will ask you for the friend’s name and email address. We may automatically send your friend an email inviting him/her to visit the site. We store this information for the sole purpose of sending this one-time, automatically generated email to your friend and to track the success of our referral program. Your friend may visit <a href="http://www.batteriesplus.com/t-unsubscribeform.aspx">www.batteriesplus.com/t-unsubscribeform.aspx</a>&nbsp;to&nbsp;remove this information from our database.</p><p><span class="bold">When you communicate with us through our web site </span><br>We collect your email address and the other information that you provide in order to respond to your communication.</p><p><span class="bold">When you enter contests, participate in surveys, or register for other activities on our web site</span> <br>We collect your name, email address and telephone number, and the other information that is required for entry or participation, which varies depending on the activity. </p><p>Our business partners may co-sponsor contests on our site. If you enter one of these contests our co-sponsors may receive the information collected or may collect the information directly. In these situations, we will tell you who is collecting your information, how they may use it and how to contact them.</p><p><span class="bold">When you sign up to be a BPLUS affiliate</span><br>You will be directed to our third party affiliate partner’s site to complete the affiliate application. For more information on how they use your information, please review their privacy policy.</p><p><span class="bold">When you submit a Franchise Request for Information or Application</span><br>We collect your name and contact information, age, date of birth, educational background, social security number and information about your interest in a BPLUS franchise. </p></blockquote><h5 class="title">How is my personal and account information used?</h5><p>We may use your personal and account information to provide products or services you have requested, respond to a communication from you, contact you, and as otherwise described in this policy.<br><br>We may occasionally send you promotional or product information. If you do not wish to receive promotional or product information, you may opt out of future communications by following the instructions in the e-mail communication.</p><p>In addition, in order to measure how we are doing and to better understand how we can improve our product offerings, we or one of our service providers or strategic partners may contact you by telephone or e-mail and solicit your participation in research. Your participation is voluntary.</p><p>If you become our customer, we may send you updates on important information about our company and services. </p><h5 class="title">How is my personal and account information shared?</h5><p>We restrict access to your personal and account information to those who need access to use it as set forth in this policy, which includes franchisees and service providers who are restricted by confidentiality obligations. Only authorized personnel are permitted to see your E-Account password.</p>
-<p>We may share your personal and account information with our third party services providers, including but not limited to our credit card processors, web site developers and hosts, advertising agencies, third party shippers and other services providers, whose use of your information is limited to providing services to us. We do not sell, trade, rent or otherwise share your personal information with others. </p><p>We may disclose your personal and account information to respond to subpoenas, court orders, or other legal process, as required by law, or to establish or exercise our legal rights or defend against legal claims. Your personal and account information may also be disclosed in event of any future connection with a sale of some or all of our business or a merger with another company.</p><h5 class="title">How do you protect my personal and account information?</h5><p>We use 256-bit encryption technology and Secure Socket Layers (“SSL”) in all areas where your personal and account information is required. </p><p>In addition, your personal and account information and transaction history are kept behind our firewall on separate servers. All transaction information is processed under encrypted channels.</p><h5></h5><h5 class="title">How do I edit or delete my account information?</h5><p>You may edit your account information at anytime by signing in to your account and clicking “update account”. You can access, review and update your personal information. Your account can be deleted but doing so will result in not being able to access certain areas of the site. To delete your account, please call us at 1.800.677.8278 with specific instruction to delete your account.</p><h5 class="title">How can I give you feedback or contact you?</h5><p>You may contact us through the <a href="t-contact.aspx">Contact Us</a> section from our online web site. Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes. Comments or questions can also be sent to us via postal mail, and we will use reasonable efforts to promptly review and respond as appropriate:</p><p>Batteries Plus<br>925 Walnut Ridge Drive<br>Hartland, WI 53029</p><p style="COLOR: rgb(102,102,102); FONT-SIZE: 10px">GP:1934782 v3</p><p style="FONT-SIZE: 10px; FONT-WEIGHT: bold"><a style="TEXT-DECORATION: underline" href="#top">Go to top &gt;</a></p></div><!-- END OF DB -->
+<!-- READ FROM DB --><a id="top" name="top"></a> <div style="WIDTH: 580px"><h5 class="title">BatteriesPlus.com Privacy Policy - Version 1.4, Effective Date 3/5/2014</h5><p>
+Batteries Plus LLC ("BPLUS" or Batteries Plus Bulbs) is committed to protecting your privacy. This policy describes our practices regarding personal and account information collected through our web site. In this policy, "personal and account information" means your name, company name, account number, address, telephone number, and e-mail address plus other information that may personally identify you ("personally identifiable information"), including your industry, the number of employees at your company, and purchase history, and "we" and "us" means BPLUS as well as its franchisees.
+</p>
+  <p>We reserve the right to modify this privacy policy from time to time. Each version of our Privacy Policy is marked with a version number and effective date. We recommend that you visit our web site periodically to review any changes.</p>
+  <p> <strong>How much information must I share?</strong>
+    <br>
+  The amount and type of information we collect from you depends on your activities and use of our web site. Below, we explain what information we collect.</p>
+  <p> <strong>When you browse our web site</strong>
+    <br>
+    Generally, you may visit this Site without providing Batteries Plus Bulbs or its affiliates with any personally identifiable information. We collect personally identifiable information about you only if you voluntarily provide it to us and you have the option not to provide any personally identifiable information to us. You may voluntarily provide to us personally identifiable information such as your name, address, email, phone number and other contact information, when you contact us. We may also collect other personally identifiable information that you choose to include in any communications that you send to us. We may use your personally identifiable information to respond to your requests for information and provide you with information. </p>
+  <p>Batteries Plus LLC may use third-party vendors, such as Google Analytics, to advertising to its customers online.  These third-party vendors may display Batteries Plus® advertisements on other websites based on users internet usage.  More specifically, these vendors use first-party cookies (such as the Google Analytic cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on a user's past visits to the Batteries Plus® websites.  Any information that these third parties collect via cookies is not linked to any personally identifiable information we collect or you provide on the website. Customers can opt-out of Google Analytics for Display Advertising by using Google's <a href="https://www.google.com/settings/ads" target="_blank" rel="nofollow">Ads Settings</a>. </p>
+  <p>We may transfer your personally identifiable information and other information that you submit on our Batteries Plus Bulbs Site to our offices, affiliates, and service providers in the United States. However, we can, and will ask our service providers to, use, store and otherwise process your information collected through the Batteries Plus Bulbs Site in accordance with this Policy regardless of where it is transferred. We do not share your personally identifiable information with third parties, without your consent, except as described in this policy and to the extent required by law, in accordance with your instructions.</p>
+  <p> <strong>When you make purchases through our web site </strong>
+    <br>
+  We collect your name, address and payment information (such as credit card number, expiration date and credit card verification code) to process your order.  We may also collect your zip code to assist in finding whether a certain product is available at a store near you. </p>
+  <p><strong>When you create an e-Account on our web site</strong> <br>
+  We collect your user name, password, bill-to address, and email address. You can help us ensure your privacy by not sharing your user name or password.</p>
+  <p> <strong>When you subscribe to our email newsletter through our web site</strong> <br>
+  We use your email information to deliver newsletters, company information and promotions. Your email information may be used in conjunction with any purchases you make at BatteriesPlus.com to provide customized offers or promotions.  You may unsubscribe by visiting <a href="t-unsubscribeform.aspx">www.batteriesplus.com/t-unsubscribeform.aspx</a> and following the instructions therein. </p>
+  <p><strong>When you communicate with us through our web site</strong> <br>
+    We collect your email address and the other information that you provide in order to respond to your communication.
+    When you enter contests, participate in surveys, or register for other activities on our web site 
+    We collect your name, email address and telephone number, and the other information that is required for entry or participation, which varies depending on the activity.
+  Our business partners may co-sponsor contests on our site. If you enter one of these contests our co-sponsors may receive the information collected or may collect the information directly. In these situations, we will tell you who is collecting your information, how they may use it and how to contact them.</p>
+  <p> <strong>How is my personal and account information used?</strong> <br>
+    We may use your personal and account information to provide products or services you have requested, respond to a communication from you, contact you, and as otherwise described in this policy.  </p>
+  <p>We may occasionally send you promotional or product information. If you do not wish to receive promotional or product information, you may opt out of future communications by following the instructions in the e-mail communication.    </p>
+  <p>In addition, in order to measure how we are doing and to better understand how we can improve our product offerings, we or one of our service providers or strategic partners may contact you by telephone or e-mail and solicit your participation in research. Your participation is voluntary.    </p>
+  <p>If you become our customer, we may send you updates on important information about our company and services.</p>
+  <p> <strong>How is my personal and account information shared?</strong> <br>
+    We restrict access to your personal and account information to those who need access to use it as set forth in this policy, which includes franchisees and service providers who are restricted by confidentiality obligations. Only authorized personnel are permitted to see your E-Account password.  </p>
+  <p>We may share your personal and account information with our third party services providers, including but not limited to our credit card processors, web site developers and hosts, advertising agencies, third party shippers and other services providers, whose use of your information is limited to providing services to us. We do not sell, trade, rent or otherwise share your personal information with others.    </p>
+  <p>We may disclose your personal and account information to respond to subpoenas, court orders, or other legal process, as required by law, or to establish or exercise our legal rights or defend against legal claims. Your personal and account information may also be disclosed in event of any future connection with a sale of some or all of our business or a merger with another company.</p>
+  <p> <strong>How do you protect my personal and account information?</strong>
+    <br>
+    We use 2048-bit keys and TLS 1.2 (Transport Layer Security) technology in all areas where your personal and account information is required. </p><p></p>In addition, your personal and account information and transaction history are kept behind our firewall on separate servers. All transaction information is processed under encrypted channels.<p></p>
+  <p><strong> How do I edit or delete my account information?</strong> <br>
+  You may edit your account information at any time by signing in to your account and clicking "update account". You can access, review and update your personal information. Your account can be deleted but doing so will result in not being able to access certain areas of the site. To delete your account, please call us at 1.800.677.8278 with specific instruction to delete your account.</p>
+  <p> <strong>How can I give you feedback or contact you?</strong>
+    <br>
+    You may contact us through the <a href="t-contact.aspx">Contact Us</a> section from our online web site. Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes. Comments or questions can also be sent to us via postal mail, and we will use reasonable efforts to promptly review and respond as appropriate: </p>
+  <p>Batteries Plus
+    <br>
+    1325 Walnut Ridge Drive
+    <br>
+  Hartland, WI 53029 </p>
+ <p style="FONT-SIZE: 10px; FONT-WEIGHT: bold"><a style="TEXT-DECORATION: underline" href="#top">Go to top &gt;</a></p></div>
+<!-- END OF DB -->
 
 
         </div>
     </div>
     
-
+<script>loadstorelist('1107',0, 0, 'loadpage');</script>
 <script type="text/javascript">
 //<![CDATA[
 Sys.Application.initialize();
@@ -155,8 +434,8 @@ Sys.Application.add_init(function() {
 });
 //]]>
 </script>
-</form> 
-        
+</form>
+
         <div class="clear"></div>
 
         <div id="FOOTER">
@@ -164,8 +443,8 @@ Sys.Application.add_init(function() {
                 <div id="FOOTERLINKS">
                     <ul>
                         <li class="final"></li>
-                        <li><a href="t-sitemap.aspx">Our Site</a></li>
-                        <li><a href="t-about.aspx">Our Company</a></li>
+                        <li><a href="t-sitemap.aspx">Our Site</a></li><a href="t-sitemap.aspx">
+                        </a><li><a href="t-sitemap.aspx"></a><a href="t-about.aspx">Our Company</a></li>
                         <li><a href="t-faq.aspx">FAQs</a></li>
                         <li><a href="t-msds.aspx">MSDS</a></li>
                         <li><a href="franchising/landing_IntheNews.aspx">The Newsroom</a></li>
@@ -174,40 +453,28 @@ Sys.Application.add_init(function() {
                         <li><a href="t-recallnotices-bulletins.aspx">Recall Notices/Bulletins</a></li>
                         <li class="final"><a href="t-supplychain-transparency.aspx">Supply Chain Transparency</a></li>
                     </ul>
-                   </div>
+                </div>
             </div>
-            <!-- <div align="center"><img src="media/footer.png" width="930"/></div> -->
+             <!-- <div align="center"><img src="media/footer.png" width="930"/></div> -->
             <div class="footerContent">
-                <p>
-                    We strive to provide you with the lowest prices possible on batteriesplus.com and
-                    our stores.
-                    <br>
-                    However, store pricing may differ from prices online. <a href="t-conditionsofuse.aspx">
-                        Conditions of Use</a>
-                    <br>
+                <p>We strive to provide you with the lowest prices possible on batteriesplus.com and our stores.<br>
+                    However, store pricing may differ from prices online. <a href="t-conditionsofuse.aspx">Conditions of Use</a><br>
                     <strong>Policies</strong>: <a href="t-shipping.aspx">Shipping</a>&nbsp;<a href="t-returns.aspx">Returns</a>&nbsp;<a href="t-privacy.aspx">Privacy</a>&nbsp;<a href="t-warranty.aspx">Warranty</a></p>
-
-                <p>All registered trademarks are the property of their respective owners.</p>
-
-                <p>
-                    Copyright ©2013, Batteries Plus LLC. All rights reserved.</p>
-
-
-                          </div>
-           <div id="ICONS">
-                <img src="media/credit_cards.png">                
-		<a rel="nofollow" target="_blank" href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.batteriesplus.COM&amp;lang=en">
-                    <img height="43" border="0" width="85" src="media/verisign.gif">
-                </a>
-		<a rel="nofollow" href=" http://www.stellaservice.com/profile/BatteriesPlus.com/" target="_blank"><img border="0" width="115" alt="Excellent STELLAService Rating" src="/media/stella_rating_excellent.png"></a>
-	        <a rel="nofollow" xmlns="http://www.w3.org/1999/xhtml" target="https://www.bizrate.com" href="http://www.bizrate.com/ratings_guide/merchant_detail__mid--130101.html">
-		<img border="0" align="top" alt="BizRate Customer Certified (GOLD) Site" src="https://medals.bizrate.com/medals/dynamic/130101_medal.gif">
-		</a>		
+                <p>© 2014, Batteries Plus LLC. All rights reserved. All registered trademarks are the property of their respective owners.</p>
+                <p>© 2014 DURACELL, a division of the Gillette Company, Bethel, CT 06801. DURACELL is a registered trademark of the Gillette Company, used under license. All rights reserved.</p>
             </div>
-            
+            <div id="ICONS"><img style="margin-bottom:10px;" src="media/credit_cards.png"> 
+		<a rel="nofollow" target="_blank" href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.batteriesplus.COM&amp;lang=en">
+		<img border="0" width="100" src="https://seal.verisign.com/getseal?at=0&amp;sealid=1&amp;dn=www.batteriesplus.com&amp;lang=en"></a>
+		 <a rel="nofollow" href="http://www.stellaservice.com/profile/BatteriesPlus.com/" target="_blank">
+		 <img border="0" style="margin-bottom:15px;" width="115" alt="Excellent STELLAService Rating" src="media/stella_rating_excellent.png"></a>
+		 <a rel="nofollow" xmlns="http://www.w3.org/1999/xhtml" target="https://www.bizrate.com" href="http://www.bizrate.com/ratings_guide/merchant_detail__mid--130101.html">
+		<img border="0" align="top" alt="BizRate Customer Certified (GOLD) Site" width="115" src="https://medals.bizrate.com/medals/dynamic/130101_medal.gif"></a>
+	    </div>
+
             <!-- BEGIN: Unica Page Tag -->
             <!-- Copyright 2004-2006 Unica Corporation.  All rights reserved. -->
-             <script language="JavaScript" type="text/javascript" src="jscripts/ntpagetag.js"></script>
+            <script language="JavaScript" type="text/javascript" src="jscripts/ntpagetag.js"></script>
             <!-- END: Unica Page Tag -->
             <!-- OPEN GRAPH --->
             <div id="fb-root"></div><script language="JavaScript" type="text/javascript" src="jscripts/opengraph.js"></script>
@@ -216,15 +483,15 @@ Sys.Application.add_init(function() {
 
             <!-- END CONTAINER DIV -->
 
-           
 
 
 
-      </div>
-        
-</div>
 
+        </div>
 
+    </div>
+
+    
 
 
 </body></html>
