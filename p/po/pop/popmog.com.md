@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popmog.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017002543id_/http%3A//en.popmog.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popmog.com privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410202727id_/http%3A//en.popmog.com/static/privacy) for the most accurate reproduction.*
 
 # POPMOG - Your portal for free-to-play online games
 
@@ -7,7 +7,7 @@
 * * *
 
   
-You can download the privacy in PDF format [here](http://dwtrd9cmgca2m.cloudfront.net/files/assets/pdf/POPMOG2_Datenschutzerklaerung_en.pdf) and store them on your computer.  
+You can download the privacy in PDF format [here](https://s3-eu-west-1.amazonaws.com/gamegenetics-production/files/file_uploads/59/97/POPMOG+Data+Privacy+Statement+-+Jan+7+2014.pdf) and store them on your computer.  
 
 
 * * *
