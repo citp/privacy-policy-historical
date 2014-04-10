@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iwwh.in privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209074236id_/http%3A//www.iwwh.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwwh.in privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410075117id_/http%3A//www.iwwh.in/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Iwwh Edublog - Education, Jobs and Results: Privacy Policy
 
 This Privacy Policy governs the manner in which iwwh collects, uses, maintains and discloses information collected from users (each, a "User") of the www.iwwh.in website ("Site"). This privacy policy applies to the Site and all products and services offered by iwwh.
 
