@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the posthereads.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212090208id_/http%3A//posthereads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the posthereads.com privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410134053id_/http%3A//posthereads.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
