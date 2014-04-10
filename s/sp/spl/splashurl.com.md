@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splashurl.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213163017id_/http%3A//splashurl.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splashurl.com privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411011636id_/http%3A//splashurl.com/privacy.php) for the most accurate reproduction.*
 
 # SplashURL.com - shorten that long URL into a splash URL
 
