@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metafaq.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920193926id_/http%3A//www.transversal.com/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metafaq.com privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410202927id_/http%3A//www.transversal.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Transversal
 
@@ -7,6 +7,10 @@ This statement sets out Transversal's policy in relation to holding and using in
 If you have opted to provide Transversal with information about yourself, Transversal may use this information to contact you by email or by post and to send you details about its products and any other information which Transversal believes may be of interest to you. Transversal will not pass information it holds about you to any other organization other than its group companies.
 
 Under the Data Protection Act 1998 (or equivalent legislation which may be in force from time to time in other countries within the European Community), you may request details of personal information Transversal holds about you. Please send such requests to our head office (Transversal, Betjeman House, 104 Hills Road, Cambridge, CB2 1LQ, UK), marked for the attention of the Office Manager. An official fee will be payable. If you believe that any information Transversal holds about you is incorrect or incomplete, you can use the user information page to update or correct this or alternatively you should write without delay to the Office Manager at our head office at the above address. Transversal will promptly correct any information which is found to be incorrect.
+
+#### Spam
+
+By submitting a contact enquiry, job application, event registration or newsletter signup you accept that your message and other personal details about you may be analyzed and stored for anti-spam and quality monitoring purposes, in accordance with [Mollom's privacy policy](https://mollom.com/web-service-privacy-policy).
 
 #### Use of cookies
 
