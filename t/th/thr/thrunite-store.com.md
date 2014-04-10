@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thrunite-store.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126124103id_/http%3A//www.thrunite-store.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrunite-store.com privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410174808id_/http%3A//www.thrunite-store.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
