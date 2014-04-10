@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wissports.net privacy policy that was archived on 2013-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130307174156id_/http%3A//www.wissports.net/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wissports.net privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410112535id_/http%3A//www.wissports.net/legal/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Legal | NGIN
+# Privacy Policy | Legal | Sport Ngin
 
 Your privacy is very important to us. To better protect your privacy, we provide this notice explaining our online information practices on how your information is collected and used at this Sport Ngin site (the “Policy”).
 
@@ -100,4 +100,4 @@ From time to time, we may update this privacy notice. We will note the date the 
 
 
 
-LAST UPDATED: January 23, 2013 © Sport Ngin, 2013. All Rights Reserved. Use of this site signifies your acceptance of this Privacy Policy.
+LAST UPDATED: January 23, 2013 © Sport Ngin, 2014. All Rights Reserved. Use of this site signifies your acceptance of this Privacy Policy.
