@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fsd38.ab.ca privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209213921id_/http%3A//www.fsd38.ab.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsd38.ab.ca privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410165117id_/http%3A//www.fsd38.ab.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Foothills School Division
 
