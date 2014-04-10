@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the firecracker.me privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907083908id_/http%3A//med.firecracker.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firecracker.me privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410162647id_/http%3A//med.firecracker.me/privacy) for the most accurate reproduction.*
 
-# Firecracker
+# Firecracker | Learn Faster, Remember Everything
 
 _Last Updated: December 2012_
 
-#### Overview
+## Overview
 
 Thank you for using Firecracker! This Privacy Policy provides Firecracker’s (“we” or “our”) policies and procedures for collecting, using, and disclosing your information. Users can access our website and services (the “Services”) through our website www.firecracker.me, applications on Devices, through APIs, and through third-parties. A “Device” is any computer used to access our Service, including without limitation a desktop, laptop, mobile phone, tablet, or other consumer electronic device. This Privacy Policy governs your access of the our Services, regardless of how you access it, and by using our Services you consent to the collection, transfer, processing, storage, disclosure and other uses described in this Privacy Policy. All of the different forms of data, content, and information described below are collectively referred to as “information.” 
 
 If you have questions or concerns regarding this Privacy Policy, please contact us by e-mail at [chat@firecracker.me.](mailto:chat@firecracker.me)
 
-#### Information We Collect & How We Use It
+## Information We Collect & How We Use It
 
 Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. This allows us to provide Services that most likely meet your needs, and to customize our Services to make your experience safer and easier. We only collect personal information about you that we consider necessary for achieving this purpose. 
 
 In general, you can browse our Services without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are no longer anonymous to us. 
 
-#### Information You Choose to Share
+## Information You Choose to Share
 
 In order to use some of our Services, you must first complete the registration form and create a username and password. During registration, you are required to give truthful contact information (such as a valid email address) in accordance with our Terms of Service. We use this information to contact you about Services in which you have expressed interest. 
 
@@ -60,7 +60,7 @@ The types of information listed below are by default publicly available, and are
 
 
 
-#### Information We Collect About Anonymous Visitors
+## Information We Collect About Anonymous Visitors
 
 We automatically track certain information based upon your behavior on the Website. We use this information to do internal research on our users’ demographics, interests, and behavior to better understand, protect and serve you and our community. 
 
@@ -149,5 +149,5 @@ _Contact Us_
 If you have any questions or suggestions regarding our privacy policy, please contact us via email at [chat@firecracker.me](mailto:chat@firecracker.me) or by mail at this address: 
 
 **Firecracker Inc.**   
-**1 Broadway, 14th Floor**   
-**Cambridge, MA 02142**
+**66 Church St. Floor 2**   
+**Cambridge, MA 02138**
