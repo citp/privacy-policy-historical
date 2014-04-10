@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markdown.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511211403id_/http%3A//marketplace.theblaze.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markdown.com privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410174528id_/http%3A//marketplace.theblaze.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
