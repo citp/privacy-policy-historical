@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficengine.net privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612004437id_/http%3A//www.trafficengine.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficengine.net privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410064657id_/http%3A//trafficengine.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Traffic Engine - Search Engine Marketing Technology
 
