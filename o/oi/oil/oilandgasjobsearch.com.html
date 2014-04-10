@@ -1,9 +1,8 @@
-<!--The following is the downloaded HTML source of the oilandgasjobsearch.com privacy policy that was archived on 2013-08-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130827213925id_/https%3A//www.oilandgasjobsearch.com/Page/privacy-policy%3Fpopup%3DTrue) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oilandgasjobsearch.com privacy policy that was archived on 2014-04-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140410232546id_/https%3A//www.oilandgasjobsearch.com/Page/privacy-policy%3Fpopup%3DTrue) for the most accurate reproduction.-->
 
 <html><head></head><body><div class="box">
-	<h1 id="content-title">Privacy Policy</h1>
-	<div id="content-body" class="box-inner">
+<h1 id="content-title">Privacy Policy</h1>	<div id="content-body" class="box-inner">
 <p>This site, oilandgasjobsearch.com, is owned and operated by Oilandgasjobsearch.com Limited. Oilandgasjobsearch.com Limited is the data controller for the purpose of the Data Protection Act 1998.</p>
 <p>This policy together with our terms and conditions and any other documents referred to in it sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.</p>
 <p>Please read the following carefully to understand our practices regarding your personal data and how we will treat it. If you do not agree to our processing of your data in the manner set out below, please do not submit any personal data to us.</p>
@@ -67,49 +66,52 @@
 
 <script type="text/javascript">
 	$(function () {
-		if ($(".field-validation-error").length == 0 || $("#Email").val() == OGJS.lang["Email"] + ":") {
-			$("#Email").val(OGJS.lang["Email"] + ":").focus(function () { $(this).attr("title", $(this).val()); $(this).val(""); }).blur(function () { if ($(this).val() == "") { $(this).val($(this).attr("title")) } });
-		}
+        try {
+		    if ($(".field-validation-error").length == 0 || $("#Email").val() == OGJS.lang["Email"] + ":") {
+			    $("#Email").val(OGJS.lang["Email"] + ":").focus(function () { $(this).attr("title", $(this).val()); $(this).val(""); }).blur(function () { if ($(this).val() == "") { $(this).val($(this).attr("title")) } });
+		    }
 
-		$("body").on("click", "#signup-button", function (e) {
-			e.preventDefault();
-			var email = $("#Email").val();
+		    $("body").on("click", "#signup-button", function (e) {
+			    e.preventDefault();
+			    var email = $("#Email").val();
 			
-			if (email == "" || email == OGJS.lang["Email"] + ":" ) {
-				$("#employer-reg p").addClass("field-validation-error").html(OGJS.lang["Please enter your email address"]);
-				$("#Email").addClass("input-validation-error");
-				return false;
-			}
+			    if (email == "" || email == OGJS.lang["Email"] + ":" ) {
+				    $("#employer-reg p").addClass("field-validation-error").html(OGJS.lang["Please enter your email address"]);
+				    $("#Email").addClass("input-validation-error");
+				    return false;
+			    }
 
-			// Check for valid email address
-			var emailPattern = /\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}\b/;
-			if (!emailPattern.test(email)) {
-				$("#employer-reg p").addClass("field-validation-error").html(OGJS.lang["Please enter a valid email address"]);
-				$("#Email").addClass("input-validation-error");
-				return false;
-			}
+			    // Check for valid email address
+			    var emailPattern = /\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}\b/;
+			    if (!emailPattern.test(email)) {
+				    $("#employer-reg p").addClass("field-validation-error").html(OGJS.lang["Please enter a valid email address"]);
+				    $("#Email").addClass("input-validation-error");
+				    return false;
+			    }
 
-			// Ok thats the basic validation out the way. now lets check if the email address is already taken.
-			$.ajax({
-				url: "/Ajax/CheckAccountExists",
-				data: { Email: email },
-				type: "post"
-			}).done(function (result) {
-				if (result.exists) {
-					$("#employer-reg p").addClass("field-validation-error").html(OGJS.lang["This email address is already in use"]);
-					$("#Email").addClass("input-validation-error");
-					return false;
-				}
-				else {
-					$("#employer-reg p").removeClass("field-validation-error").html(OGJS.lang["Please enter your email address to register with us"]);
-					$("#Email").removeClass("input-validation-error");
-					$("#client-reg-form").submit();
-				}
-			}).fail(function () {
-				alert("An error occurred. Please let us know.");
-				return false;
-			});
-		});
+			    // Ok thats the basic validation out the way. now lets check if the email address is already taken.
+			    $.ajax({
+				    url: "/Ajax/CheckAccountExists",
+				    data: { Email: email },
+				    type: "post"
+			    }).done(function (result) {
+				    if (result.exists) {
+					    $("#employer-reg p").addClass("field-validation-error").html(OGJS.lang["This email address is already in use"]);
+					    $("#Email").addClass("input-validation-error");
+					    return false;
+				    }
+				    else {
+					    $("#employer-reg p").removeClass("field-validation-error").html(OGJS.lang["Please enter your email address to register with us"]);
+					    $("#Email").removeClass("input-validation-error");
+					    $("#client-reg-form").submit();
+				    }
+			    }).fail(function () {
+				    alert("An error occurred. Please let us know.");
+				    return false;
+			    });
+		    });
+        }
+        catch(ex) {}
 	});
 </script>
 <style type="text/css">
