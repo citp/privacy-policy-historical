@@ -1,12 +1,17 @@
-<!--The following is the downloaded HTML source of the stuff.tv privacy policy that was archived on 2013-08-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130820033744id_/http%3A//www.stuff.tv/haymarket-media-group-privacy-notice) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stuff.tv privacy policy that was archived on 2014-04-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140411172742id_/http%3A//www.stuff.tv/haymarket-media-group-privacy-notice) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-GB" dir="ltr"><!--<![endif]--><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwQHU1BACQcAVFRbBQ=="};window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a,b){function c(a,b,c){c||(c={});for(var d=f[a],e=d&&d.length||0,h=c[g]||(c[g]={}),i=0;e>i;i++)d[i].apply(h,b);return h}function d(a,b){var c=f[a]||(f[a]=[]);c.push(b)}function e(a){return delete a[g]}var f={},g="nr@context";b.exports={on:d,emit:c,clear:e}},{}],2:[function(a){function b(a,b,e,g,i){return h?h-=1:c("err",[i||new UncaughtException(a,b,e)]),"function"==typeof f?f.apply(this,d(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var c=a("handle"),d=a("lodash._slice"),e=a("../../../contextual-ee"),f=window.onerror,g=!1,h=0;a("loader").features.push("err"),window.onerror=b;try{throw new Error}catch(i){"stack"in i&&(a("../../wrap-timer"),a("../../wrap-raf"),"addEventListener"in window&&a("../../wrap-events"),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&a("../../wrap-xhr"),g=!0)}e.on("fn-start",function(){g&&(h+=1)}),e.on("fn-err",function(a,b,d){g&&(this.thrown=!0,c("err",[d,(new Date).getTime()]))}),e.on("fn-end",function(){g&&!this.thrown&&h>0&&(h-=1)})},{"../../../contextual-ee":1,"../../wrap-events":3,"../../wrap-raf":4,"../../wrap-timer":5,"../../wrap-xhr":6,handle:"4O2Y62",loader:"YLUGVp","lodash._slice":14}],3:[function(a){function b(a){d.inPlace(a,["addEventListener","removeEventListener"],"-",c)}function c(a){return a[1]}var d=a("../wrap-function"),e=(a("lodash._slice"),a("../contextual-ee"));if(b(window),"getPrototypeOf"in Object){for(var f=document;f&&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&&b(f);for(var g=XMLHttpRequest.prototype;g&&!g.hasOwnProperty("addEventListener");)g=Object.getPrototypeOf(g);g&&b(g)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&b(XMLHttpRequest.prototype);e.on("addEventListener-start",function(a){if(a[1]){var b=a[1];"function"==typeof b?this.wrapped=b["nr@wrapped"]?a[1]=b["nr@wrapped"]:b["nr@wrapped"]=a[1]=d(b,"fn-"):"function"==typeof b.handleEvent&&d.inPlace(b,["handleEvent"],"fn-")}}),e.on("removeEventListener-start",function(a){var b=this.wrapped;b&&(a[1]=b)})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],4:[function(a){var b=(a("lodash._slice"),a("../wrap-function")),c=a("../contextual-ee");b.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),c.on("raf-start",function(a){a[0]=b(a[0],"fn-")})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],5:[function(a){function b(a){var b=a[0];"string"==typeof b&&(b=new Function(b)),a[0]=c(b,"fn-")}var c=(a("lodash._slice"),a("../wrap-function")),d=a("../contextual-ee");c.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),d.on("setTimer-start",b)},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],6:[function(a){function b(){c.inPlace(this,f,"fn-")}var c=a("../wrap-function"),d=a("../contextual-ee"),e=window.XMLHttpRequest,f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(a){var f=new e(a);return d.emit("new-xhr",[],f),c.inPlace(f,["addEventListener","removeEventListener"],"-",function(a,b){return b}),f.addEventListener("readystatechange",b,!1),f},window.XMLHttpRequest.prototype=e.prototype},{"../contextual-ee":1,"../wrap-function":15}],7:[function(a){function b(a){if("string"==typeof a&&a.length)return a.length;if("object"!=typeof a)return void 0;if("undefined"!=typeof ArrayBuffer&&a instanceof ArrayBuffer&&a.byteLength)return a.byteLength;if("undefined"!=typeof Blob&&a instanceof Blob&&a.size)return a.size;if("undefined"!=typeof FormData&&a instanceof FormData)return void 0;try{return JSON.stringify(a).length}catch(b){return void 0}}function c(a){var c=this.params,d=this.metrics;if(!this.ended){this.ended=!0;for(var e=0;k>e;e++)a.removeEventListener(j[e],this.listener,!1);if(!c.aborted){if(d.duration=(new Date).getTime()-this.startTime,4===a.readyState){c.status=a.status;var g=a.responseType,h="arraybuffer"===g||"blob"===g||"json"===g?a.response:a.responseText,i=b(h);if(i&&(d.rxSize=i),this.sameOrigin){var l=a.getResponseHeader("X-NewRelic-App-Data");l&&(c.cat=l.split(", ").pop())}}else c.status=0;d.cbTime=this.cbTime,f("xhr",[c,d])}}}function d(a,b){var c=g(b),d=a.params;d.host=c.hostname+":"+c.port,d.pathname=c.pathname,a.sameOrigin=c.sameOrigin}function e(a,b){return b}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){a("loader").features.push("xhr");var f=a("handle"),g=a("./parse-url.js"),h=a("../../../wrap-function"),i=a("../../../contextual-ee"),j=["load","error","abort","timeout"],k=j.length,l=a("../../../loader/id");a("../../wrap-events"),a("../../wrap-xhr"),i.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=c,this.ended=!1,this.xhrGuids={}}),h.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",e),i.on("open-xhr-start",function(a){this.params={method:a[0]},d(this,a[1]),this.metrics={}}),i.on("open-xhr-end",function(a,b){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&b.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),i.on("send-xhr-start",function(a,c){var d=this.metrics,e=a[0],f=this;if(d&&e){var g=b(e);g&&(d.txSize=g)}this.startTime=(new Date).getTime(),this.listener=function(a){try{"abort"===a.type&&(f.params.aborted=!0),("load"!==a.type||f.called===f.totalCbs&&(f.onloadCalled||"function"!=typeof c.onload))&&f.end(c)}catch(b){}};for(var h=0;k>h;h++)c.addEventListener(j[h],this.listener,!1)}),i.on("xhr-cb-time",function(a,b,c){this.cbTime+=a,b?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof c.onload||this.end(c)}),i.on("xhr-load-added",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&!this.xhrGuids[c]&&(this.xhrGuids[c]=!0,this.totalCbs+=1)}),i.on("xhr-load-removed",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&this.xhrGuids[c]&&(delete this.xhrGuids[c],this.totalCbs-=1)}),i.on("addEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-added",[a[1],a[2]],b)}),i.on("removeEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-removed",[a[1],a[2]],b)}),i.on("fn-start",function(a,b,c){b instanceof XMLHttpRequest&&("onload"===c&&(this.onload=!0),("load"===(a[0]&&a[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),i.on("fn-end",function(a,b){this.xhrCbStart&&i.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,b],b)})}},{"../../../contextual-ee":1,"../../../loader/id":11,"../../../wrap-function":15,"../../wrap-events":3,"../../wrap-xhr":6,"./parse-url.js":8,handle:"4O2Y62",loader:"YLUGVp"}],8:[function(a,b){b.exports=function(a){var b=document.createElement("a"),c=window.location,d={};b.href=a,d.port=b.port;var e=b.href.split("://");return!d.port&&e[1]&&(d.port=e[1].split("/")[0].split(":")[1]),d.port&&"0"!==d.port||(d.port="https"===e[0]?"443":"80"),d.hostname=b.hostname||c.hostname,d.pathname=b.pathname,"/"!==d.pathname.charAt(0)&&(d.pathname="/"+d.pathname),d.sameOrigin=!b.hostname||b.hostname===document.domain&&b.port===c.port&&b.protocol===c.protocol,d}},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],11:[function(a,b){function c(a){if(!a||"object"!=typeof a&&"function"!=typeof a)return-1;if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!0,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&&a.agent&&a.licenseKey&&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],14:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}],15:[function(a,b){function c(a,b,c,d){function nrWrapper(){var g,h=f(arguments),i=this,j=c&&c(h,i)||{};try{e.emit(b+"start",[h,i,d],j)}catch(k){}try{return g=a.apply(i,h)}catch(l){throw e.emit(b+"err",[h,i,l],j),l}finally{try{e.emit(b+"end",[h,i,g],j)}catch(k){}}}return a&&"function"==typeof a&&a.apply&&!a._wrapped?(b||(b=""),nrWrapper._wrapped=!0,nrWrapper):a}function d(a,b,d,e){d||(d="");var f,g,h,i="-"===d.charAt(0);for(h=0;h<b.length;h++)g=b[h],f=a[g],f&&"function"==typeof f&&f.apply&&!f._wrapped&&(a[g]=c(f,i?g+d:d,e,g,a))}var e=a("../contextual-ee"),f=a("lodash._slice");b.exports=c,c.inPlace=d},{"../contextual-ee":1,"lodash._slice":14}]},{},["YLUGVp",7,2]);</script>
 
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><script type="text/javascript" src="https://tags.tiqcdn.com/utag/haymarket/stuff-intl/prod/utag.js"></script>
-<link rel="shortcut icon" href="http://www.stuff.tv/sites/stuff.tv/files/stuff_favicon.ico" type="image/x-icon">
+<script type="text/javascript" src="https://tags.tiqcdn.com/utag/haymarket/stuff-intl/prod/utag.js"></script>
+<meta http-equiv="x-dns-prefetch-control" content="on">
+<link rel="dns-prefetch" href="//images.cdn.stuff.tv">
+<link rel="dns-prefetch" href="//css.cdn.stuff.tv">
+<link rel="dns-prefetch" href="//www.stuff.tv">
+<link rel="dns-prefetch" href="//cdn.stuff.tv">
+<link rel="shortcut icon" href="http://cdn.stuff.tv/sites/stuff.tv/files/stuff_favicon.ico" type="image/x-icon">
 <link rel="alternate" hreflang="en-GB" href="http://www.stuff.tv/haymarket-media-group-privacy-notice">
 <link rel="alternate" hreflang="en-MY" href="http://www.stuff.tv/my/haymarket-media-group-privacy-notice">
 <link rel="alternate" hreflang="en-SG" href="http://www.stuff.tv/sg/haymarket-media-group-privacy-notice">
@@ -24,8 +29,10 @@
    TODO: ADD images when required -->
 
   <title>Haymarket Media Group Privacy Notice | Stuff</title>
-  <link type="text/css" rel="stylesheet" media="all" href="http://www.stuff.tv/sites/stuff.tv/files/css/css_cfd077144f78c34d76addc13e119a071.css">
-<link type="text/css" rel="stylesheet" media="screen" href="http://www.stuff.tv/sites/stuff.tv/files/css/css_287ed077be64a9484f1a18a04f2f3477.css">
+  <!-- CSS aggregated by CDN module. -->
+<link type="text/css" rel="stylesheet" media="all" href="http://css.cdn.stuff.tv/sites/stuff.tv/files/css/cdn_css_11a255516d62ad96a0cd1bb5e70bb548.css">
+<link type="text/css" rel="stylesheet" media="screen" href="http://css.cdn.stuff.tv/sites/stuff.tv/files/css/cdn_css_cd3049ab9d48c1d04f6b4eefdc3bd8d3.css">
+<!-- CSS aggregated by CDN module. -->
 
   <!--[if lt IE 9]>
   <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -38,10 +45,10 @@
       try {var tracker = new HayInject();
       } catch (e) {}
       </script>
-                                <script type="text/javascript" src="http://www.stuff.tv/sites/stuff.tv/files/js/js_a37e2870d280638a16a84a3f0ba2de96.js"></script>
+<script type="text/javascript" src="http://cdn.stuff.tv/sites/stuff.tv/files/js/js_e28df01c25c6df6e2b81f44a0a6b48d8.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","fbconnect":{"user_pictures":"allow","language_code":"en_US","app_id":"134822896675190","debug":false,"connect_js":"document.location.protocol + '\/\/connect.facebook.net\/en_US\/all.js'","loginout_mode":"manual","invite_name":"Stuff International","fast_reg_mode":1,"fast_reg_autoname":1,"fbuid":null,"user":{"uid":0,"fbuid":null}},"hcm_ads":{"ads_domain":"stuff"}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","fbconnect":{"user_pictures":"allow","language_code":"en_US","app_id":"134822896675190","debug":false,"connect_js":"document.location.protocol + '\/\/connect.facebook.net\/en_US\/all.js'","loginout_mode":"manual","invite_name":"Stuff International","fast_reg_mode":1,"fast_reg_autoname":1,"fbuid":null,"user":{"uid":0,"fbuid":null}},"hcm_ads":{"ads_domain":"stuff"},"locales_list":{"bd":"en-SG","bn":"en-MY","cn":"en-SG","hk":"en-SG","id":"en-MY","jp":"en-SG","kh":"en-MY","kp":"en-SG","kr":"en-SG","la":"en-MY","lk":"en-SG","mm":"en-MY","mn":"en-SG","mo":"en-SG","my":"en-MY","pg":"en-SG","ph":"en-SG","sg":"en-SG","th":"en-MY","tl":"en-SG","tw":"en-SG","vn":"en-SG"},"prefix_list":{"en":"","en-GB":"","en-HK":"hk","en-MY":"my","en-SG":"sg","pl":"pl","th":"th"},"stuff_locale_message":{"message_":"\n\u003cdiv id=\"stuff-message-popup\" class=\"clearfix\"\u003e\n  \u003cdiv class =\"popup-content info\"\u003e\n    \u003cdiv id=\"popup-text\"\u003eDid you know we have a version of Stuff TV in the UK? \u003ca href=\"\/\"\u003eTo visit the home page, click here \u003e\u003e\u003c\/a\u003e\u003c\/div\u003e\n    \u003cdiv id=\"popup-button\"\u003e\n      \u003cdiv class=\"text\"\u003eClose\u003c\/div\u003e\u003cbutton type=\"button\" class=\"ignore-button\"\u003e\u003c\/button\u003e\n    \u003c\/div\u003e\n  \u003c\/div\u003e\n\u003c\/div\u003e\n","message_my":"\n\u003cdiv id=\"stuff-message-popup\" class=\"clearfix\"\u003e\n  \u003cdiv class =\"popup-content info\"\u003e\n    \u003cdiv id=\"popup-text\"\u003eDid you know we have a version of Stuff TV in Malaysia? \u003ca href=\"\/my\"\u003eTo visit the home page, click here \u003e\u003e\u003c\/a\u003e\u003c\/div\u003e\n    \u003cdiv id=\"popup-button\"\u003e\n      \u003cdiv class=\"text\"\u003eClose\u003c\/div\u003e\u003cbutton type=\"button\" class=\"ignore-button\"\u003e\u003c\/button\u003e\n    \u003c\/div\u003e\n  \u003c\/div\u003e\n\u003c\/div\u003e\n","message_sg":"\n\u003cdiv id=\"stuff-message-popup\" class=\"clearfix\"\u003e\n  \u003cdiv class =\"popup-content info\"\u003e\n    \u003cdiv id=\"popup-text\"\u003eDid you know we have a version of Stuff TV in Singapore? \u003ca href=\"\/sg\"\u003eTo visit the home page, click here \u003e\u003e\u003c\/a\u003e\u003c\/div\u003e\n    \u003cdiv id=\"popup-button\"\u003e\n      \u003cdiv class=\"text\"\u003eClose\u003c\/div\u003e\u003cbutton type=\"button\" class=\"ignore-button\"\u003e\u003c\/button\u003e\n    \u003c\/div\u003e\n  \u003c\/div\u003e\n\u003c\/div\u003e\n"}});
 //--><!]]>
 </script>
 <script type="text/javascript">
@@ -53,18 +60,28 @@ jQuery.extend(Drupal.absolute_messages, {"dismiss":{"status":false,"warning":fal
 
 </head>
 <body class="not-front not-logged-in page-node node-type-page no-sidebars theme-stuff i18n-en-GB col-1 ">
-  <header id="header" role="banner" class="clearfix">
-          <div id="hat-region">
-        <div class="container">
-          <div class="sixteen columns">
-              <section id="block-menu-menu-social-links" class="block block-menu block">
+  <div id="fake-body-wrapper">
+    <div id="fake-body">
+      <header id="header" role="banner" class="clearfix">
+                  <div id="hat-region">
+            <div class="container">
+              <div class="sixteen columns">
+                  <section id="block-menu-menu-hat-menu" class="block block-menu block">
+
+  <h2>Hat Menu</h2>
+
+<div class="content">
+  <ul class="menu"><li class="leaf first last"><a href="http://www.themagazineshop.com/stuff" target="_blank">Buy the magazine</a><div class="arrow"></div></li>
+</ul></div> <!-- /.content -->
+</section> <!-- /.block -->
+  <section id="block-menu-menu-social-links" class="block block-menu block">
 
   <h2>Follow us</h2>
 
 <div class="content">
   <ul class="menu"><li class="leaf first"><a href="http://www.facebook.com/joinstuff" title="Stuff on Facebook" class="menu_icon menu-657">Stuff on Facebook</a><div class="arrow"></div></li>
-<li class="leaf"><a href="https://plus.google.com/117781174173561503872" title="Stuff on Google Plus" class="menu_icon menu-659">Stuff on Google Plus</a><div class="arrow"></div></li>
 <li class="leaf"><a href="http://twitter.com/Stufftv" title="Stuff on Twitter" class="menu_icon menu-658">Stuff on Twitter</a><div class="arrow"></div></li>
+<li class="leaf"><a href="https://plus.google.com/117781174173561503872" title="Stuff on Google Plus" class="menu_icon menu-659">Stuff on Google Plus</a><div class="arrow"></div></li>
 <li class="leaf last"><a href="http://www.youtube.com/stuffmagazine" title="Stuff on YouTube" class="menu_icon menu-660">Stuff on YouTube</a><div class="arrow"></div></li>
 </ul></div> <!-- /.content -->
 </section> <!-- /.block -->
@@ -73,9 +90,9 @@ jQuery.extend(Drupal.absolute_messages, {"dismiss":{"status":false,"warning":fal
   
   <div id="locale-menu" class="menu">
     <div class="showing">
-      <ul><li class="en-GB first active"><a href="/haymarket-media-group-privacy-notice" class="site-link active">Stuff UK</a></li>
-<li class="en-MY"><a href="/my" class="site-link">Stuff Malaysia</a></li>
-<li class="en-SG last"><a href="/sg" class="site-link">Stuff Singapore</a></li>
+      <ul><li class="en-GB first active"><a href="/haymarket-media-group-privacy-notice" class="site-link locale- active">Stuff UK</a></li>
+<li class="en-MY"><a href="/my" class="site-link locale-my">Stuff Malaysia</a></li>
+<li class="en-SG last"><a href="/sg" class="site-link locale-sg">Stuff Singapore</a></li>
 </ul>    </div>
   </div> <!-- /.content -->
   </section> <!-- /.block -->
@@ -88,14 +105,14 @@ jQuery.extend(Drupal.absolute_messages, {"dismiss":{"status":false,"warning":fal
 <li class="last"><a href="/user/register" class="cpanel-link" title="Sign up to the Stuff website">Sign up</a></li>
 </ul></div></div> <!-- /.content -->
 </section> <!-- /.block -->
+              </div>
+            </div>
           </div>
-        </div>
-      </div>
-        <div class="container">
-      <div class="sixteen columns">
+                <div class="container">
+          <div class="sixteen columns">
 
-                  <div id="header-region">
-              <div id="search-block-button"></div>
+                          <div id="header-region">
+                  <div id="search-block-button"></div>
 <section id="block-search-0" class="block block-search block">
 
       <h2>Search</h2>
@@ -107,7 +124,7 @@ jQuery.extend(Drupal.absolute_messages, {"dismiss":{"status":false,"warning":fal
  <input type="search" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="20" value="" class="form-text searchInput auto-hint" title="Search site">
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search" class="form-submit">
-<input type="hidden" name="form_build_id" id="form-e642f4ef27d2e6c026f2a9f83bf80eeb" value="form-e642f4ef27d2e6c026f2a9f83bf80eeb">
+<input type="hidden" name="form_build_id" id="form-a915fca9f173717389fa6c2370437e26" value="form-a915fca9f173717389fa6c2370437e26">
 <input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form">
 </div>
 
@@ -117,48 +134,46 @@ jQuery.extend(Drupal.absolute_messages, {"dismiss":{"status":false,"warning":fal
 
 
 <div class="content">
-  <div class="view view-News view-id-News view-display-id-block_2 view-dom-id-2">
+  <div class="view view-News view-id-News view-display-id-block_2 view-dom-id-3">
     
   
   
       <div class="view-content">
-      <!-- Start a count of the number of rows. -->
-<div class="views-row views-row-1 views-row-odd views-row-first">
+      <div class="views-row views-row-1 views-row-odd views-row-first">
     
   <div class="views-field-title">
-      <span class="field-content"><a href="/light-sleeper-meet-lamp-thats-also-pillow/news">Light sleeper: meet the lamp that's also a pillow</a></span>
+      <span class="field-content"><a href="/musaic-hands-multiroom-audio-system-thats-taking-sonos/news">Musaic hands-on: the multiroom audio system that's taking on Sonos</a></span>
   </div>
-    <!-- Place an image ad after the fifth element. -->
+  
     </div>
 <div class="views-row views-row-2 views-row-even">
     
   <div class="views-field-title">
-      <span class="field-content"><a href="/apple/would-you-buy-gold-iphone-5s/news">Would you buy a gold iPhone 5S?</a></span>
+      <span class="field-content"><a href="/david-brown-speedback-gt-aston-martin-db5-21st-century/news">David Brown Speedback GT is an Aston Martin DB5 for the 21st century</a></span>
   </div>
-    <!-- Place an image ad after the fifth element. -->
+  
     </div>
 <div class="views-row views-row-3 views-row-odd">
     
   <div class="views-field-title">
-      <span class="field-content"><a href="/apple/apple-next-generation-ipad-case-photos-show-ipad-mini-inspired-design/news">Apple next-generation iPad case photos show off iPad Mini-inspired design</a></span>
+      <span class="field-content"><a href="/amazon/amazon-grabs-digital-comic-app-comixology/news">Amazon buys digital comic app comiXology</a></span>
   </div>
-    <!-- Place an image ad after the fifth element. -->
+  
     </div>
 <div class="views-row views-row-4 views-row-even">
     
   <div class="views-field-title">
-      <span class="field-content"><a href="/apple/iphone-5c-spotted-wild/news">This iPhone 5C leak looks completely genuine</a></span>
+      <span class="field-content"><a href="/amazon/amazon-drone-deliveries-closer-fifth-and-sixth-gen-models-are-tested/news">Amazon drone deliveries closer as fifth and sixth-gen models are tested</a></span>
   </div>
-    <!-- Place an image ad after the fifth element. -->
+  
     </div>
 <div class="views-row views-row-5 views-row-odd views-row-last">
     
   <div class="views-field-title">
-      <span class="field-content"><a href="/edge/ubuntu-edge-smashes-crowdfunding-record-raising-more-us10-million/news">Ubuntu Edge smashes crowdfunding record, but it's not enough</a></span>
+      <span class="field-content"><a href="/galaxy-s5/samsung-galaxy-s5-prices-where-get-best-uk-deals/news">Samsung Galaxy S5 prices: where to get the best UK deals</a></span>
   </div>
-    <!-- Place an image ad after the fifth element. -->
+  
     </div>
-<!-- If there are less than five rows, print the image at the end. -->
     </div>
   
   
@@ -177,102 +192,121 @@ jQuery.extend(Drupal.absolute_messages, {"dismiss":{"status":false,"warning":fal
 
 
 <div class="content">
-  <div class="view view-Reviews view-id-Reviews view-display-id-block_3 view-dom-id-1">
+    <div class="view view-Reviews view-id-Reviews view-display-id-block_3 view-dom-id-1">
+              <div class="attachment attachment-before">
+        <div class="item-list"><h3>Top 10s</h3><ul><li class="first"><a href="/smartphones/top-ten">Smartphones</a></li>
+<li><a href="/tablets/top-ten">Tablets </a></li>
+<li><a href="/headphones/top-ten">Headphones </a></li>
+<li><a href="/cameras/top-ten">Compact Cameras </a></li>
+<li><a href="/tvs/top-ten">TVs </a></li>
+<li><a href="/apps-and-games/console-games/top-ten">Games</a></li>
+<li class="last"><a href="/geek-accessories/top-ten">Geek Accessories </a></li>
+</ul></div><a href="/product-categories">All categories</a>      </div>
+                  <div class="view-header">
+        <h3>Latest reviews</h3>      </div>
     
-  
-  
-      <div class="view-content">
-      <!-- Start a count of the number of rows. -->
-<div class="views-row views-row-1 views-row-odd views-row-first">
+              <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
     
   <div class="views-field-title">
-                <span class="field-content"><a href="/playstation-3/splinter-cell-blacklist/review">Splinter Cell Blacklist</a></span>
+                <span class="field-content"><a href="/sony/sony-xperia-z2/review">Sony Xperia Z2</a></span>
   </div>
-    <!-- Place an image ad after the fifth element. -->
-    </div>
+      </div>
 <div class="views-row views-row-2 views-row-even">
     
   <div class="views-field-title">
-                <span class="field-content"><a href="/google-chromecast/review">Google Chromecast</a></span>
+                <span class="field-content"><a href="/g3/lg-g3/review">LG G3</a></span>
   </div>
-    <!-- Place an image ad after the fifth element. -->
-    </div>
+      </div>
 <div class="views-row views-row-3 views-row-odd">
     
   <div class="views-field-title">
-                <span class="field-content"><a href="/htc-one-mini/review">HTC One Mini</a></span>
+                <span class="field-content"><a href="/gear-2/samsung-gear-2-and-gear-2-neo/review">Samsung Gear 2</a></span>
   </div>
-    <!-- Place an image ad after the fifth element. -->
-    </div>
+      </div>
 <div class="views-row views-row-4 views-row-even">
     
   <div class="views-field-title">
-                <span class="field-content"><a href="/google-nexus-7-2013/review">Google Nexus 7 (2013)</a></span>
+                <span class="field-content"><a href="/playstation-4/batman-arkham-knight/review">Batman: Arkham Knight</a></span>
   </div>
-    <!-- Place an image ad after the fifth element. -->
-    </div>
+      </div>
 <div class="views-row views-row-5 views-row-odd views-row-last">
     
   <div class="views-field-title">
-                <span class="field-content"><a href="/nokia-lumia-1020/review">Nokia Lumia 1020</a></span>
+                <span class="field-content"><a href="/galaxy-s5/samsung-galaxy-s5/review">Samsung Galaxy S5</a></span>
   </div>
-    <!-- Place an image ad after the fifth element. -->
-    </div>
-<!-- If there are less than five rows, print the image at the end. -->
-    </div>
-  
-  
-  
-      
+      </div>
+      </div>
+    
+    
+    
+          
 <div class="more-link">
   <a href="/reviews">
     See all reviews  </a>
 </div>
-  
-  
-  
-</div> </div> <!-- /.content -->
+    
+    
+    
+  </div> </div> <!-- /.content -->
 </section> <!-- /.block -->
-          </div>
-                <div class="menu-mobile-icon"></div>
-        <div id="logo-title">
-                      <a href="/" title="Home" rel="home" id="logo">
-              <img src="/sites/stuff.tv/themes/stuff_theme/logo.png" alt="Home">
-            </a>
-          
-          <div id="name-and-slogan">
-            
-            
-          </div>
-          <!-- /name-and-slogan -->
-        </div>
-        <!-- /logo-title -->
+  <section id="block-hcm_topten-hcm_topten" class="block block-hcm_topten block">
 
-        
-        <div id="skip-link"><em><a href="#content">Skip to Content</a></em> ↓</div>
 
-        <div id="navigation" class="menu withprimary ">
-                      <nav id="primary" role="navigation">
-              <ul class="links primary-links"><li class="menu-653 first"><a href="/" title="">Home</a></li>
+<div class="content">
+  <div class="item-list"><ul><li class="first"><a href="/smartphones/top-ten" class="desktop-hover-icon"><img src="http://images.cdn.stuff.tv/sites/stuff.tv/files/imagecache/top10icon/nodequeue/ST_111113_navigationassets_mobiles_0.png" alt="" title="" width="35" height="35" class="imagecache imagecache-top10icon "></a><a href="/smartphones/top-ten" class="desktop-icon"><img src="http://images.cdn.stuff.tv/sites/stuff.tv/files/imagecache/top10icon/nodequeue/ST_111113_navigationassets_mobiles.png" alt="" title="" width="35" height="35" class="imagecache imagecache-top10icon "></a><a href="/smartphones/top-ten" class="text-link">Smartphones</a></li>
+<li><a href="/wearable-tech/top-ten" class="desktop-hover-icon"><img src="http://images.cdn.stuff.tv/sites/stuff.tv/files/imagecache/top10icon/nodequeue/ST_111113_desktopnavigation_wearabletech_0.png" alt="" title="" width="35" height="35" class="imagecache imagecache-top10icon "></a><a href="/wearable-tech/top-ten" class="desktop-icon"><img src="http://images.cdn.stuff.tv/sites/stuff.tv/files/imagecache/top10icon/nodequeue/ST_111113_desktopnavigation_wearabletech.png" alt="" title="" width="35" height="35" class="imagecache imagecache-top10icon "></a><a href="/wearable-tech/top-ten" class="text-link">Wearable Tech </a></li>
+<li><a href="/system-cameras/top-ten" class="desktop-hover-icon"><img src="http://images.cdn.stuff.tv/sites/stuff.tv/files/imagecache/top10icon/nodequeue/ST_111113_navigationassets_cameras_1.png" alt="" title="" width="35" height="35" class="imagecache imagecache-top10icon "></a><a href="/system-cameras/top-ten" class="desktop-icon"><img src="http://images.cdn.stuff.tv/sites/stuff.tv/files/imagecache/top10icon/nodequeue/ST_111113_navigationassets_cameras_0.png" alt="" title="" width="35" height="35" class="imagecache imagecache-top10icon "></a><a href="/system-cameras/top-ten" class="text-link">System Cameras </a></li>
+<li><a href="/laptops/top-ten" class="desktop-hover-icon"><img src="http://images.cdn.stuff.tv/sites/stuff.tv/files/imagecache/top10icon/nodequeue/ST_111113_desktopnavigation_laptops_2.png" alt="" title="" width="35" height="35" class="imagecache imagecache-top10icon "></a><a href="/laptops/top-ten" class="desktop-icon"><img src="http://images.cdn.stuff.tv/sites/stuff.tv/files/imagecache/top10icon/nodequeue/ST_111113_desktopnavigation_laptops_0.png" alt="" title="" width="35" height="35" class="imagecache imagecache-top10icon "></a><a href="/laptops/top-ten" class="text-link">Laptops</a></li>
+<li><a href="/hi-fi-streaming/top-ten" class="desktop-hover-icon"><img src="http://images.cdn.stuff.tv/sites/stuff.tv/files/imagecache/top10icon/nodequeue/ST_111113_navigationassets_hifi.png" alt="" title="" width="35" height="35" class="imagecache imagecache-top10icon "></a><a href="/hi-fi-streaming/top-ten" class="text-link">Hi-fi &amp; Streaming </a></li>
+<li><a href="/apps-and-games/console-games/top-ten" class="desktop-icon"><img src="http://images.cdn.stuff.tv/sites/stuff.tv/files/imagecache/top10icon/nodequeue/ST_111113_desktopnavigation_games.png" alt="" title="" width="35" height="35" class="imagecache imagecache-top10icon "></a><a href="/apps-and-games/console-games/top-ten" class="text-link">Games</a></li>
+<li><a href="/tvs/top-ten" class="desktop-hover-icon"><img src="http://images.cdn.stuff.tv/sites/stuff.tv/files/imagecache/top10icon/nodequeue/ST_111113_desktopnavigation_tvs_0.png" alt="" title="" width="35" height="35" class="imagecache imagecache-top10icon "></a><a href="/tvs/top-ten" class="desktop-icon"><img src="http://images.cdn.stuff.tv/sites/stuff.tv/files/imagecache/top10icon/nodequeue/ST_111113_desktopnavigation_tvs.png" alt="" title="" width="35" height="35" class="imagecache imagecache-top10icon "></a><a href="/tvs/top-ten" class="text-link">TVs </a></li>
+<li><a href="/headphones/top-ten" class="desktop-hover-icon"><img src="http://images.cdn.stuff.tv/sites/stuff.tv/files/imagecache/top10icon/nodequeue/ST_111113_navigationassets_headphones_0.png" alt="" title="" width="35" height="35" class="imagecache imagecache-top10icon "></a><a href="/headphones/top-ten" class="desktop-icon"><img src="http://images.cdn.stuff.tv/sites/stuff.tv/files/imagecache/top10icon/nodequeue/ST_111113_navigationassets_headphones.png" alt="" title="" width="35" height="35" class="imagecache imagecache-top10icon "></a><a href="/headphones/top-ten" class="text-link">Headphones </a></li>
+<li><a href="/tablets/top-ten" class="desktop-hover-icon"><img src="http://images.cdn.stuff.tv/sites/stuff.tv/files/imagecache/top10icon/nodequeue/ST_111113_desktopnavigation_tablets_0.png" alt="" title="" width="35" height="35" class="imagecache imagecache-top10icon "></a><a href="/tablets/top-ten" class="desktop-icon"><img src="http://images.cdn.stuff.tv/sites/stuff.tv/files/imagecache/top10icon/nodequeue/ST_111113_desktopnavigation_tablets.png" alt="" title="" width="35" height="35" class="imagecache imagecache-top10icon "></a><a href="/tablets/top-ten" class="text-link">Tablets </a></li>
+<li class="last"><a href="/connected-home/top-ten" class="text-link">Connected Home </a></li>
+</ul></div><a href="/product-categories" class="more-link">All Categories</a></div> <!-- /.content -->
+</section> <!-- /.block -->
+              </div>
+                        <div class="menu-mobile-icon"></div>
+            <div id="logo-title">
+                              <a href="/" title="Home" rel="home" id="logo">
+                  <img src="http://images.cdn.stuff.tv/sites/stuff.tv/themes/stuff_theme/logo.png" alt="Home">
+                </a>
+              
+              <div id="name-and-slogan">
+                
+                
+              </div>
+              <!-- /name-and-slogan -->
+            </div>
+            <!-- /logo-title -->
+
+            
+            <div id="skip-link"><em><a href="#content">Skip to Content</a></em> ↓</div>
+
+            <div id="navigation" class="menu withprimary ">
+                              <nav id="primary" role="navigation">
+                  <ul class="links primary-links"><li class="menu-653 first"><a href="/" title="">Home</a></li>
 <li class="menu-2157"><a href="/news" title="">News</a></li>
 <li class="menu-806"><a href="/reviews" title="">Reviews</a></li>
+<li class="menu-18369"><a href="/product-categories" class="topten" title="">TOP 10s</a></li>
 <li class="menu-6995"><a href="/features" title="">Features</a></li>
 <li class="menu-7495"><a href="/videos" title="">Videos</a></li>
 <li class="menu-11042 last"><a href="/competitions" title="">Win</a></li>
-</ul>            </nav>
-          
-                  </div>
-        <!-- /navigation -->
-      </div>
-      <!-- /header inner -->
-    </div>
-    <!-- /container -->
-  </header>
-  <!-- /header -->
-      <section class="postheader clearfix">
-      <div class="container">
-        <div class="sixteen columns postheader-inner">
-            <section id="block-hcm_ads-leaderboard" class="block block-hcm_ads block">
+</ul>                </nav>
+              
+                          </div>
+            <!-- /navigation -->
+          </div>
+          <!-- /header inner -->
+        </div>
+        <!-- /container -->
+      </header>
+      <!-- /header -->
+              <section class="postheader clearfix">
+          <div class="container">
+            <div class="sixteen columns postheader-inner">
+                <section id="block-hcm_ads-leaderboard" class="block block-hcm_ads block">
 
 
 <div class="content">
@@ -287,17 +321,17 @@ jQuery.extend(Drupal.absolute_messages, {"dismiss":{"status":false,"warning":fal
       }
       </script></div> <!-- /.content -->
 </section> <!-- /.block -->
-        </div>
-      </div>
-    </section>
-  
-  <div id="page">
+            </div>
+          </div>
+        </section>
+      
+      <div id="page">
 
-  <div class="container clear-block with-navigation" id="page-node">
-        
-    <div id="main" role="main" class="column col-center sixteen columns">
-                  <h1 class="title" id="page-title">Haymarket Media Group Privacy Notice</h1>                              <div id="content" class="clear-block">
-        <article id="node-1423814" class="node clear-block">
+      <div class="container clear-block with-navigation" id="page-node">
+                
+        <div id="main" role="main" class="column col-center sixteen columns">
+                              <h1 class="title" id="page-title">Haymarket Media Group Privacy Notice</h1>                                                  <div id="content" class="clear-block">
+            <article id="node-1423814" class="node clear-block">
 
   <header>
     
@@ -305,7 +339,7 @@ jQuery.extend(Drupal.absolute_messages, {"dismiss":{"status":false,"warning":fal
           <p class="submitted"><time itemprop="datePublished" datetime="2013-06-04T10:55">4 June 2013</time></p>
       </header>
 
-<div class="content">
+<div class="content ">
   <p>1. Introduction</p>
 <p>Your personal information is being processed by Haymarket Media Group ('Haymarket'). For a full list of our brands and business divisions please visit our web site. Haymarket respects your privacy and is committed to protecting your personal information. We comply with the principles of the Data Protection Act 1998 and aim to maintain consistently high levels of best practice in our processing of your personal information. This Privacy Notice relates to our use of any personal information you provide to us through the Haymarket network of websites and/or other services provided by Haymarket.</p>
 <p>In order to provide you with the full range of services, we may request and/or record information about you. This privacy notice explains the following:</p>
@@ -360,44 +394,44 @@ TW11 9BE</p>
 
 
 </article> <!-- /.node -->
-      </div>
-      <!-- /content-content -->
           </div>
-    <!-- /content -->
-
-      </div>
-</div>
-<!-- /page -->
-  <footer id="footer" role="contentinfo">
-    <div id="footer-wrapper" class="container">
-
-      <div class="eight columns alpha">
-        <div class="footer-logo">
-                      <a href="/" title="Home" rel="home" id="logo">
-              <img src="/sites/stuff.tv/themes/stuff_theme/logo.png" alt="Home">
-            </a>
+          <!-- /content-content -->
                   </div>
-                  <ul class="menu footer-menu two columns col-0"><li class="0 first"><a href="/content/about-us" title="About Stuff link.">About Stuff</a></li>
+        <!-- /content -->
+
+              </div>
+    </div>
+    <!-- /page -->
+      <footer id="footer" role="contentinfo">
+        <div id="footer-wrapper" class="container">
+
+          <div class="eight columns alpha">
+            <div class="footer-logo">
+                              <a href="/" title="Home" rel="home" id="logo">
+                  <img src="http://images.cdn.stuff.tv/sites/stuff.tv/themes/stuff_theme/logo.png" alt="Home">
+                </a>
+                          </div>
+                          <ul class="menu footer-menu two columns col-0"><li class="0 first"><a href="/content/about-us" title="About Stuff link.">About Stuff</a></li>
 <li class="1"><a href="/contact-us" title="">Contact Us</a></li>
 <li class="2"><a href="/legal" title="Terms and conditions">Legal</a></li>
 <li class="3 active"><a href="/haymarket-media-group-privacy-notice" title="Haymarket Media Group Privacy Policy" class="active">Privacy Policy</a></li>
-<li class="4 last"><a href="http://www.themagazineshop.com/all-titles/stuff?offer=wbs13" title="">Subscriptions</a></li>
+<li class="4 last"><a href="http://www.themagazineshop.com/stuf/wbs14" title="">Subscriptions</a></li>
 </ul><ul class="menu footer-menu two columns col-1"><li class="0 first"><a href="/Advertise" title="">Advertise</a></li>
 <li class="1"><a href="/rss" title="">RSS</a></li>
 <li class="2"><a href="/sitemap.xml" title="Dynamically generated XML sitemap">Sitemap</a></li>
 <li class="3 last"><a href="/product-categories" title="">Product Categories</a></li>
-</ul>              </div>
+</ul>                      </div>
 
-      <div class="eight columns omega">
-                  <div class="footer-region">
-              <section id="block-menu-menu-social-links-1" class="block block-menu block">
+          <div class="eight columns omega">
+                          <div class="footer-region">
+                  <section id="block-menu-menu-social-links-1" class="block block-menu block">
 
   <h2>Follow us</h2>
 
 <div class="content">
   <ul class="menu"><li class="leaf first"><a href="http://www.facebook.com/joinstuff" title="Stuff on Facebook" class="menu_icon menu-657">Stuff on Facebook</a><div class="arrow"></div></li>
-<li class="leaf"><a href="https://plus.google.com/117781174173561503872" title="Stuff on Google Plus" class="menu_icon menu-659">Stuff on Google Plus</a><div class="arrow"></div></li>
 <li class="leaf"><a href="http://twitter.com/Stufftv" title="Stuff on Twitter" class="menu_icon menu-658">Stuff on Twitter</a><div class="arrow"></div></li>
+<li class="leaf"><a href="https://plus.google.com/117781174173561503872" title="Stuff on Google Plus" class="menu_icon menu-659">Stuff on Google Plus</a><div class="arrow"></div></li>
 <li class="leaf last"><a href="http://www.youtube.com/stuffmagazine" title="Stuff on YouTube" class="menu_icon menu-660">Stuff on YouTube</a><div class="arrow"></div></li>
 </ul></div> <!-- /.content -->
 </section> <!-- /.block -->
@@ -416,16 +450,18 @@ TW11 9BE</p>
       }
       </script></div> <!-- /.content -->
 </section> <!-- /.block -->
-          </div>
               </div>
+                      </div>
 
-              <div class="themextensions-copyright parent-branding sixteen columns">
-          <div class="copyright">© 2013 Haymarket Media Group</div>          <a href="http://www.haymarket.com" target="_blank" rel="nofollow" class="footer-image" title="Haymarket Publishing"><img src="http://www.stuff.tv/sites/stuff.tv/files/imagecache/footer-link/sites/all/modules/custom/themextensions/images/haymarket-logo.png" alt="Haymarket" title="Haymarket" width="81" height="20" class="imagecache imagecache-footer-link "></a>        </div>
-      
+                      <div class="themextensions-copyright parent-branding sixteen columns">
+              <div class="copyright">© 2014 Haymarket Media Group</div>              <a href="http://www.haymarket.com" target="_blank" rel="nofollow" class="footer-image" title="Haymarket Publishing"><img src="http://images.cdn.stuff.tv/sites/stuff.tv/files/imagecache/footer-link/sites/all/modules/custom/themextensions/images/haymarket-logo.png" alt="Haymarket" title="Haymarket" width="81" height="20" class="imagecache imagecache-footer-link "></a>            </div>
+          
+        </div>
+        <!-- /footer-wrapper -->
+      </footer>
+      <!-- /footer -->
     </div>
-    <!-- /footer-wrapper -->
-  </footer>
-  <!-- /footer -->
+  </div>
         <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
       <script type="text/javascript">
         window.fbAsyncInit = function() {
@@ -451,17 +487,17 @@ TW11 9BE</p>
       </script>
 <div style="display: none"><form action="/haymarket-media-group-privacy-notice?destination=node%2F1423814" accept-charset="UTF-8" method="post" id="fbconnect-autoconnect-form">
 <div><input type="submit" name="op" id="edit-connect" value="Connect" class="form-submit">
-<input type="hidden" name="form_build_id" id="form-07ff288de80decbcb234cc7561c68271" value="form-07ff288de80decbcb234cc7561c68271">
+<input type="hidden" name="form_build_id" id="form-6cdfd3987d10fb075e1ed526161e67c1" value="form-6cdfd3987d10fb075e1ed526161e67c1">
 <input type="hidden" name="form_id" id="edit-fbconnect-autoconnect-form" value="fbconnect_autoconnect_form">
 
 </div></form>
-</div><script type="text/javascript" src="http://www.stuff.tv/sites/stuff.tv/files/js/js_316fcc579966a8d9cba2995b489345dd.js"></script>
+</div><script type="text/javascript" src="http://cdn.stuff.tv/sites/stuff.tv/files/js/js_cdc313466fe73e642ec038175fbcadfc.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery.extend(Drupal.settings, {"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_html_info":"\n\u003cdiv\u003e\n  \u003cdiv class =\"popup-content info\"\u003e\n    \u003cdiv id=\"popup-text\"\u003e\n      \u003cp\u003eWe use cookies on stuff.tv to improve your browsing experience and to provide you with relevant      content and advertising, by continuing to use our site you agree to this.      See our \u003ca href=\"\/haymarket-media-group-privacy-notice\" target=\"_blank\"\u003ePrivacy policy\u003c\/a\u003e      for more details.\u003c\/p\u003e\n    \u003c\/div\u003e\n    \u003cdiv id=\"popup-buttons\"\u003e\n      \u003cbutton type=\"button\" class=\"agree-button\"\u003eContinue\u003c\/button\u003e\n      \u003cbutton type=\"button\" class=\"find-more-button\"\u003ePrivacy Policy\u003c\/button\u003e\n    \u003c\/div\u003e\n  \u003c\/div\u003e\n\u003c\/div\u003e\n","popup_html_agreed":"\n\u003cdiv\u003e\n  \u003cdiv class =\"popup-content agreed\"\u003e\n    \u003cdiv id=\"popup-text\"\u003e\n       Thank you     \u003c\/div\u003e\n    \u003cdiv id=\"popup-buttons\"\u003e\n      \u003cbutton type=\"button\" class=\"hide-popup-button\"\u003eHide this message \u003c\/button\u003e\n      \u003cbutton type=\"button\" class=\"find-more-button\" \u003eMore information on cookies\u003c\/button\u003e\n    \u003c\/div\u003e\n  \u003c\/div\u003e\n\u003c\/div\u003e\n","popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/haymarket-media-group-privacy-notice","popup_position":0,"popup_language":"en-GB"}});
 //--><!]]>
 </script>
 
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","1ac3da5a9f","1400592","MQdQNRNTXRVRVUxeVghNcwIVW1wIH1hXU1w5ElMGBG1FD1VB",0,529,new Date().getTime(),"","","","",""]);</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"1ac3da5a9f","applicationID":"1400592","transactionName":"MQdQNRNTXRVRVUxeVghNcwIVW1wIH1hXU1w5ElMGBG1FD1VB","queueTime":0,"applicationTime":840,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-361.min.js"}</script>
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-361.min.js"></script></body></html>
