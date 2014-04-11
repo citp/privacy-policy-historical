@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the ebookw.net privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201172006id_/http%3A//ebookw.net/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookw.net privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411044557id_/http%3A//ebookw.net/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy » Free Ebooks magazines Review and Download - Share For All
 
-| **
-
-eBookw – Privacy Policy
-
-**  
-By using our Web site, you consent to the collection and use of this information by eBookw. If we decide to change our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Currently, ebookw may provide aggregate statistics about our traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personal identifying information.
+| By using our Web site, you consent to the collection and use of this information by eBookw. If we decide to change our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Currently, ebookw may provide aggregate statistics about our traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personal identifying information.
 
  **Third Party Advertising**
 
