@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the flythomascook.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121155205id_/http%3A//book.flythomascook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flythomascook.com privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411060432id_/http%3A//flythomascook.com/PrivacyPolicy.aspx%23intcmp%3Dsearch_footer_privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy and Cookies | flythomascook
+# flythomascook - Privacy Policy
 
-### COOKIES
+##### Cookies
 
 This site uses cookies to distinguish you from other users. Some of these cookies are essential to make this site work properly, to allow you to make your travel booking or other purchases, and to enable Thomas Cook Retail Limited to fulfil your purchase requests. Other types of cookie help us to provide you with a good experience when you browse our site, allow us to improve our site or the way we provide our service to customers, or are used to provide you with information or offers from Thomas Cook companies or third parties that may be of interest to you.
 
-_Cookie Listings on this website_
+_Cookie Listings on this website:_
 
 Cookie Type | Purpose | Cookie Names  
 ---|---|---  
-First Party Cookies set by flythomascook | Used for analytics (Google) | __utmb  
+First Party Cookies set by flythomascook | Used for analytics (Google) |  __utmb  
 __utmc  
 __utma  
 __utmz  
 ___utmv  
-___utmx  
-First Party Cookies set by flythomascook | Used for tracking in connection with the Bold Chat application | _bcvm_vid_700628025874094646  
+___utmx   
+First Party Cookies set by flythomascook | Used for tracking in connection with the Bold Chat application |  _bcvm_vid_700628025874094646  
 _bcvm_vrid_700628025874094646  
 _bcvm_vid_3703131938619912677  
-_bcvm_vrid_3703131938619912677  
-Third Party Cookies set by non-flythomascook companies | Advertising, Data aggregation, Audiance Targetting, Search Re-targetting | TCCSADBID  
+_bcvm_vrid_3703131938619912677   
+Third Party Cookies set by non-flythomascook companies | Advertising, Data aggregation, Audiance Targetting, Search Re-targetting |  TCCSADBID  
 TCCSAkey  
 TCCSAuvt  
 svid  
-usy46gabsosd  
+usy46gabsosd   
   
 You can accept or decline cookies at any time by accessing the preference panels from your browser's main menu (usually found under 'Edit', 'Tools' or 'Options'). However, if you choose to remove cookies parts of the site may not work properly or your use of the site may be impaired.
 
@@ -32,9 +32,9 @@ In order to help us maintain and improve our service to you we also use 'cookies
 
 We use third-party application service providers to perform some tracking functions. These companies may use cookie-based information (not including your name, address email address or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness. We may also collect information about your visit to our website, based on your browsing (click stream) activities. This information may include the pages you browse and products and services viewed or booked for example. This helps us to better manage and develop our offers and to provide you with better products and services tailored to your individual interests and needs. We may use this information to measure the entry and exit points of visitors to the Site and respective numbers of visitors to various pages and sections of the Site and details of searches performed. We may also use this information to measure the usage of advertising banners, other click-throughs from the site. We may disclose information of this nature in aggregate form to third parties, personal information on individual visitors will not be passed on to any third party.
 
-_PLEASE NOTE:_ if you choose to use this site without declining any non-essential cookies, then your use will constitute implied consent to the non-essential cookies that are set.
+_PLEASE NOTE:_ if you choose to use this site without declining any non-essential cookies, then your use will constitute implied consent to the non-essential cookies that are set. 
 
-### PRIVACY POLICY
+##### Privacy Policy
 
 Thomas Cook Retail Ltd understands and respects the importance of your privacy. The following information explains what personal data we may collect from you when you use this site, and how we will hold and use that data.
 
