@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the money2k.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126185800id_/http%3A//www.money2k.com/PrivacyPolicy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the money2k.com privacy policy that was archived on 2014-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140412013324id_/http%3A//www.money2k.com/PrivacyPolicy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Money2k Privacy Policy
 
