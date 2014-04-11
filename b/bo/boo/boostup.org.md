@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the boostup.org privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226160821id_/http%3A//www.boostup.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boostup.org privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411201725id_/http%3A//www.boostup.org/privacy) for the most accurate reproduction.*
 
-# BoostUp.org
+# Privacy Policy - Boost Attendance
 
-BOOSTUP.ORG PRIVACY POLICY 
+BOOSTATTENDANCE.ORG PRIVACY POLICY 
 
 THIS IS OUR OFFICIAL PRIVACY POLICY, WHICH IS PART OF OUR TERMS OF USE AND FORMS A PART OF YOUR LEGAL AGREEMENT WITH US. PLEASE READ IT CAREFULLY SINCE IT DESCRIBES THE TYPES OF INFORMATION WE COLLECT, HOW WE COLLECT AND USE INFORMATION, THE CIRCUMSTANCES IN WHICH WE DISCLOSE OR SHARE INFORMATION AND HOW YOU CAN ACCESS, UPDATE OR DELETE CERTAIN INFORMATION WE HAVE COLLECTED ABOUT YOU. 
 
