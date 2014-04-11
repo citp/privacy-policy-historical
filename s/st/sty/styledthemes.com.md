@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the styledthemes.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215162326id_/http%3A//www.styledthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styledthemes.com privacy policy that was archived on 2014-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140412013304id_/http%3A//styledthemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,8 @@ Your privacy is critically important to us. At Styled Themes we have a few funda
 
   * We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)
   * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
-  * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
+  * We don’t store personal information on our servers unless required for the on-going operation of one of our services or for anyone other than law enforcement.
+  * Your IP will be stored for any investigations by official law enforcement and or payment processors such as PayPal or financial credit card institutions for alledged fraudulent or unauthorized payments.
   * In our blogging products, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.
 
 
@@ -52,5 +53,3 @@ Comments and other content submitted to our Akismet anti-spam service are not sa
 ### Privacy Policy Changes
 
 Although most changes are likely to be minor, Styled Themes may change its Privacy Policy from time to time, and in Styled Themes’s sole discretion. Styled Themes encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a WordPress.com account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
-
- 
