@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iranianlivetv.biz privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211181231id_/http%3A//iranianlivetv.biz/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iranianlivetv.biz privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411021008id_/http%3A//iranianlivetv.biz/privacy_policy.php) for the most accurate reproduction.*
 
 # Watch privacy_policy - Iran TV Series - iranianlivetv.biz
 
@@ -10,14 +10,14 @@
 
 |  |   
 ---  
-[Live TVs](https://web.archive.org/web/20131211181231id_/http%3A//iranianlivetv.biz/index.php)  
-[Live Radios](https://web.archive.org/web/20131211181231id_/http%3A//iranianlivetv.biz/radio.php)  
-[Frequency List](https://web.archive.org/web/20131211181231id_/http%3A//iranianlivetv.biz/frequency.php)  
-[Movies](https://web.archive.org/web/20131211181231id_/http%3A//iranianlivetv.biz/movies.php)  
-[TV Series](https://web.archive.org/web/20131211181231id_/http%3A//iranianlivetv.biz/serial.php)  
+[Live TVs](https://web.archive.org/web/20140411021008id_/http%3A//iranianlivetv.biz/index.php)  
+[Live Radios](https://web.archive.org/web/20140411021008id_/http%3A//iranianlivetv.biz/radio.php)  
+[Frequency List](https://web.archive.org/web/20140411021008id_/http%3A//iranianlivetv.biz/frequency.php)  
+[Movies](https://web.archive.org/web/20140411021008id_/http%3A//iranianlivetv.biz/movies.php)  
+[TV Series](https://web.archive.org/web/20140411021008id_/http%3A//iranianlivetv.biz/serial.php)  
 [Iran Music & More](http://www.music0098.com/)  
-[Useful Links](https://web.archive.org/web/20131211181231id_/http%3A//iranianlivetv.biz/links.php)  
-[Parazit](https://web.archive.org/web/20131211181231id_/http%3A//iranianlivetv.biz/parasites.php)  
+[Useful Links](https://web.archive.org/web/20140411021008id_/http%3A//iranianlivetv.biz/links.php)  
+[Parazit](https://web.archive.org/web/20140411021008id_/http%3A//iranianlivetv.biz/parasites.php)  
   
 ### persian live tv, iranian live tv, farsi live tv,iran tv, persian tv,iran movie,pars tv,iranian tv, iran live tv, iran radio, iranian radio  
   
