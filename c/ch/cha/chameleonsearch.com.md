@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chameleonsearch.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602055017id_/http%3A//chameleonsearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chameleonsearch.com privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411193600id_/http%3A//chameleonsearch.com/privacy.html%3FKeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D400%26width%3D800) for the most accurate reproduction.*
 
 # 
 
