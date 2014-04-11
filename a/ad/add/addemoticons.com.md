@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addemoticons.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918072737id_/http%3A//www.addemoticons.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addemoticons.com privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411095256id_/http%3A//www.addemoticons.com/privacy_policy.html) for the most accurate reproduction.*
 
 # FREE Download MSN Messenger Winks, Emoticons, Smiley, Meegos etc...
 
