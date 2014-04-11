@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timetoplaymag.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217112125id_/http%3A//www.timetoplaymag.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetoplaymag.com privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411202619id_/http%3A//www.timetoplaymag.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# TimetoPlayMag.com Privacy Policy | TimetoPlayMag.com | Time to Play
+# TimetoPlayMag.com Privacy Policy | TimetoPlayMag.com | Time to Play | TTPM.com
 
 #### PLEASE READ OUR PRIVACY POLICY CAREFULLY BEFORE USING THIS WEB SITE. YOUR USE OF THIS WEB SITE CONFIRMS YOUR UNCONDITIONAL ACCEPTANCE OF THE FOLLOWING TERMS AND CONDITIONS. IF YOU DO NOT ACCEPT THESE TERMS AND CONDITIONS, DO NOT USE THIS WEB SITE.
 
