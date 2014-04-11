@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghs.org privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205145943id_/http%3A//www.ghs.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghs.org privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411031419id_/http%3A//www.ghs.org/privacypolicy) for the most accurate reproduction.*
 
 # Greenville Health System Privacy Policy - Greenville Health System
 
