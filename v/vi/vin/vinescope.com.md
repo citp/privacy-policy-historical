@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vinescope.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209094704id_/http%3A//vinescope.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinescope.com privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411152822id_/http%3A//vinescope.com/privacy_policy.html) for the most accurate reproduction.*
 
-# VineScope - When your friend offers to pay for your food
+# VineScope - How you and your friend see yourselves singing inside a car vs how others see you
 
 ## Privacy Policy for VineScope
 
