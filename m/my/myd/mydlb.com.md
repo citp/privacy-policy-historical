@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydlb.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119084114id_/http%3A//mydlb.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydlb.com privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411222016id_/http%3A//mydlb.com/privacy.htm) for the most accurate reproduction.*
 
 # My DLB Privacy Policy
 
