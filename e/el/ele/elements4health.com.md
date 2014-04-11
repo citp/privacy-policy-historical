@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elements4health.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219202035id_/http%3A//www.elements4health.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elements4health.com privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411192931id_/http%3A//www.elements4health.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ Elements4Health provides you with original articles about a variety of health to
 
 What information is collected by Elements4Health:
 
-You may use Elements4Health’s services anonymously and we will not collect any personal information about you.
+You may use Elements4Healthâ€™s services anonymously and we will not collect any personal information about you.
 
 What information is collected by Elements4Health via technology:
 
@@ -21,7 +21,7 @@ Elements4Health notes and saves information such as time of day, browser type, b
 Elements4Health uses cookies. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of this or other websites you visit.  
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-In particular, Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DoubleClick DART cookie enables it to serve ads to our users based on your visits to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+In particular, Google, as a third party vendor, uses cookies to serve ads on our site. Googleâ€™s use of the DoubleClick DART cookie enables it to serve ads to our users based on your visits to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 Privacy of Minors:
 
@@ -33,7 +33,7 @@ Elements4Health may disclose personal information if required to do so by law or
 
 Updates to this privacy policy:
 
-We may occasionally update this Privacy Policy. When we do, we will also revise the ‘last updated’ date at the top of the Privacy Policy. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personal information we collect. Your continued use of the service constitutes your agreement to this Privacy Policy and any updates.
+We may occasionally update this Privacy Policy. When we do, we will also revise the â€˜last updatedâ€™ date at the top of the Privacy Policy. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personal information we collect. Your continued use of the service constitutes your agreement to this Privacy Policy and any updates.
 
 Sale of assets:
 
