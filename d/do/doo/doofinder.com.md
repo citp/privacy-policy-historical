@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doofinder.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105220642id_/http%3A//www.doofinder.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doofinder.com privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411080206id_/http%3A//www.doofinder.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Doofinder - Doofinder's privacy policy
+# Doofinder's privacy policy
 
 ## General Information
 
