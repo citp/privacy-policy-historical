@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convert4.me privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211083823id_/http%3A//convert4.me/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convert4.me privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411233530id_/http%3A//convert4.me/privacy_policy.php) for the most accurate reproduction.*
 
 # Convert4.Me
 
