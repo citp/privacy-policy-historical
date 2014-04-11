@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stylecraze.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504161141id_/http%3A//www.stylecraze.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylecraze.com privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411202110id_/http%3A//www.stylecraze.com/privacy-policy/%3Fref%3Dnavbar) for the most accurate reproduction.*
 
-# Privacy Policy - StyleCraze StyleCraze
+# Privacy Policy | StyleCraze
 
 “Privacy can be invaded” this statement describes how the personal information collected through the community when you register with us is protected. The terms  **“we”**  and  **“us”**  refer to Style Craze Beauty Care Pvt Ltd which is part of the Terms of Use, which governs your use of the Site and is located here.
 
@@ -50,11 +50,36 @@ The Site may contain links to third party websites with which we have no affilia
 
 **OUR POLICY TOWARDS CHILDREN**
 
-The Site is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that your child has provided us with personal information without your consent, please contact us at service[@StyleCraze](http://www.stylecraze.com/members/stylecraze/).com. If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child’s account.
+The Site is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that your child has provided us with personal information without your consent, please contact us at sangramsimha@stylecraze.com. If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child’s account.
 
 **SECURITY**
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+**INTERNET BASED ADVERTISING**
+
+Google AdSense is used on StyleCraze.com.  Adsense serves ads based on the content of the sites you view.  As you browse websites that have partnered with Google or Google sites, such as YouTube, Google may place a cookie in your browser to track the types of pages visited or content that you viewed. Based on this information, Google associates your browser with relevant interest categories and uses these categories to show interest-based ads. For example, if you frequently visit travel websites, Google may show more ads related to travel.  Google will not associate sensitive interest categories with your browser (such as those based on race, religion, sexual orientation, health, or sensitive financial categories), and will not use such categories when showing you interest-based ads.
+
+**How do I opt out of interest-based advertising?** If you prefer not to receive interest-based advertising, you can click the “Opt out” button at the top of this page, or click on the “Opt out” button on the Google Ads Preferences Manager Page. Google also offers a number of options to permanently save your opt-out settings in your browser. After you opt out, Google will not collect interest category information and you will not receive interest-based ads.
+
+**DoubleClick DART Cookie**  Google, as a third party vendor, uses cookies to serve ads on StyleCraze.com. Google’s use of the DART cookie enables it to serve ads to users based on their visit to StyleCraze.com and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include….
+
+  * Google Adsense
+  * Commission Junction
+  * Widget Bucks
+  * Adbrite
+  * Clickbank
+  * Azoogle
+  * Chitika
+  * Linkshare
+  * Amazon
+  * Kontera
+
+
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on StyleCraze.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. StyleCraze.com has no access to or control over these cookies that are used by third-party advertisers. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. StyleCraze.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
 **DISPUTE RESOLUTION**
 
@@ -66,7 +91,7 @@ Above Blue pal solutions (PVT) ltd (3rd floor)
 # 132/A, 6th Road, Western Hills,  
 Kukatpally, Hyderabad 500072
 
-or contact us via email at [service](mailto:privacy@beautylish.com)[@StyleCraze](http://www.stylecraze.com/members/stylecraze/) .com 
+or contact us via email at [sangramsimha@stylecraze.com](mailto:sangramsimha@stylecraze.com)
 
 **MODIFICATIONS TO THIS STATEMENT**
 
