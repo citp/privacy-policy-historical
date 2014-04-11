@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the growstats.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209162346id_/http%3A//www.growstats.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growstats.com privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411072817id_/http%3A//www.growstats.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - GrowStats.com
+# 
 
-[Home](http://www.growstats.com/) » [Privacy policy ](http://www.growstats.com/privacy-policy.html)
-
-* * *
+0% OFF XMAS DAY SALE USE CODE SAVE50Ends:   
+11/21/2013
 
 This privacy statement best describes how Growstats collects and uses the/your personal information that you provide to us on our Web site: [www.growstats.com](http://www.growstats.com/) . It also outlines the choices that are available to you regarding our use of your personal information and how you can access and update this information if required.
 
