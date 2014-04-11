@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the artofliving.org privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030075040id_/http%3A//www.artofliving.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artofliving.org privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411224222id_/http%3A//www.artofliving.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Art Of Living Global
+# Privacy Policy
 
 International Art of Living Foundation (the "Art of Living") respects the privacy rights of visitors to our website and is committed to protecting those rights. To support this commitment, we have adopted a Privacy Policy that guides how we collect, use, disclose, update and protect the information you provide online to the Art of Living.
 
@@ -89,7 +89,7 @@ We strive to provide you with choices regarding the personal information you pro
 
   * _**Tracking Technologies and Advertising.**_ You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of this website may then be inaccessible or not function properly.
   * _**Disclosure of Your Information for Third-Party Advertising.**_ If you do not want us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by sending us an email at [donations.support@artofliving.org](mailto:donations.support@artofliving.org).
-  * _**Promotional Offers from the Art of Living.**_ If you do not wish to have your e-mail address or other contact information used by the Art of Living to promote our own or third parties' products or services, you can opt-out by sending us an e-mail stating your request to d[onations.support@artofliving.org](mailto:Donations.support@artofliving.org).If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions.
+  * _**Promotional Offers from the Art of Living.**_ If you do not wish to have your e-mail address or other contact information used by the Art of Living to promote our own or third parties' products or services, you can opt-out by sending us an e-mail stating your request to [donations.support@artofliving.org](mailto:donations.support@artofliving.org). If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions.
   * _**Targeted Advertising.**_ If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers' target-audience preferences, you can opt-out by sending us an e-mail stating your request to [donations.support@artofliving.org](mailto:donations.support@artofliving.org).
 
 
