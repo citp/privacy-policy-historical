@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wowblackbook.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209090748id_/http%3A//www.wowblackbook.com/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowblackbook.com privacy policy that was archived on 2014-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140412162721id_/http%3A//wowblackbook.com/Privacy_Statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
+
+**THE FOLLOWING IS A GENERIC PRIVACY STATEMENT THAT YOU ARE FREE TO USE. HOWEVER, WE RECOMMEND THAT YOU READ IT THOROUGHLY AND EDIT IT ACCORDINGLY AS SOME OF THE INFORMATION MAY NOT APPLY TO YOUR SITE. WE ALSO RECOMMEND THAT YOU HAVE IT APPROVED BY A LAWYER AS XSITE PRO AND INTELLIMON CANNOT, IN ANY WAY, BE HELD RESPONSIBLE FOR ANY DAMAGES, LITIGATION,LEGAL INFRINGEMENT SOR COMPLAINTS CAUSED THROUGH USING THIS GENERIC STATEMENT. IF YOU USE THE STATEMENT BELOW AS IS OR IN AN EDITED VERSION YOU DO SO COMPLETELY AT YOUR OWN RISK.**
 
 **Privacy Policy**
 
