@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedwaymotors.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210101153id_/http%3A//www.speedwaymotors.com/privacypolicy.dlp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedwaymotors.com privacy policy that was archived on 2014-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140412122026id_/http%3A//www.speedwaymotors.com/privacypolicy.dlp) for the most accurate reproduction.*
 
 # Privacy and Security Policy - Speedway Motors, America's Oldest Speed Shop
 
@@ -53,9 +53,17 @@ _**What information will be disclosed if required by law?**_
 If required by law, we may provide any and all information we have about you to law enforcement or other government agencies, pursuant to a subpoena, warrant, or other order by a court of competent jurisdiction. In all cases, we will require written documentation of the request, proof of the identity of the law enforcement official making the request, and we will take steps to authenticate the validity of the request. Any law enforcement or government agency request submitted with less than a court-issued order will be evaluated on a case-by-case basis according to the need and urgency as well as the particular law enforcement agency making the request.
 
 _**What are cookies and how do we use them?**_  
-A cookie is a block of text placed in a file on your hard drive by a website you've visited. These types of cookies cannot identify an individual user specifically, such as by name or address, unless the cookie data is attached to personally identifiable information via online registration. Speedway Motors uses cookies to observe our site visitor's navigation throughout the site. This helps us identify ways to improve the shopping experience. Cookies are also used in line with Google Remarketing and Analytics to serve advertisements to you on other websites across the Internet based on your past visits to our website. Your personally identifiable information, such as telephone number and address, are not shared with Google via cookies.
+A cookie is a block of text placed in a file on your hard drive by a website you've visited. These types of cookies cannot identify an individual user specifically, such as by name or address, unless the cookie data is attached to personally identifiable information via online registration. Speedway Motors uses cookies to observe our site visitor's navigation throughout the site. This helps us identify ways to improve the shopping experience.
 
-Speedway Motors also uses a session cookie, which is a piece of identification between your browser and our server that helps to do things such as keeping track of the items in your shopping cart. The shopping cart cookie is saved for a designated period of time in case your session expires or if you return to complete a purchase within that time frame.  
+Cookies are also used in line with Google Remarketing, Google Analytics and Bazaarvoice (our 3rd party product ratings and reviews provider) to collect demographic and interest-based information such as gender and shopping behavior. This information allows Speedway Motors to serve relevant content specific to you on SpeedwayMotors.com and relevant advertisements to you on other websites across the Internet based on your past visits to our website. Your personally identifiable information, such as telephone number and address, are not shared with Google or Bazaarvoice via cookies.
+
+Lastly, Speedway Motors uses a session cookie, which is a piece of identification between your browser and our server that helps to do things such as keeping track of the items in your shopping cart. The shopping cart cookie is saved for a designated period of time in case your session expires or if you return to complete a purchase within that time frame.
+
+If you wish to track and manage your cookies, we suggest using the Network Advertising Initiative's 
+
+[_Consumer Opt-Out Tool_](http://www.networkadvertising.org/choices/?mkt_tok=3RkMMJWWfF9wsRonu67Jde%252FhmjTEU5z16uorXqK1gokz2EFye%252BLIHETpodcMTcJlNLvYDBceEJhqyQJxPr3NKNgNytJ5RhDlDA%253D%253D)
+
+.  
 _  
 **What choices are available to you regarding the collection, use and distribution of the information and how you can correct any inaccuracies in information?** _   
 If you do not want to receive email from us in the future, please let us know by calling, sending an email, or by writing to us at the above postal address and telling us that you do not want to receive email from our company.
