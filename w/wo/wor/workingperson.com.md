@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workingperson.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206175025id_/http%3A//workingperson.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workingperson.com privacy policy that was archived on 2014-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140412202344id_/http%3A//workingperson.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -170,8 +170,8 @@ Why Choose Working Person? Let Our Customers Explain!
 
 > “
 > 
-> Thank you very much. I will be using your company in the future and will be sure to mention it to all my friends. Thanks again.   
+> I like the photos on your site, they really show each angle and you get a good picture of the product. And if it doesn't fit, they don't hassle you about returns. It's a great place to shop.  
 >   
-> Matthew S. from Fort Meyers, Florida
+> D. Frick from Fargo, North Dakota
 > 
 > ”
