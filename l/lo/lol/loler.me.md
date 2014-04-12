@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loler.me privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206144603id_/http%3A//www.loler.me/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loler.me privacy policy that was archived on 2014-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140412080342id_/http%3A//www.loler.me/privacy.php) for the most accurate reproduction.*
 
 # Loler.Me
 
