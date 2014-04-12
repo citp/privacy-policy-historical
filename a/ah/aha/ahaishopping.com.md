@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahaishopping.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812020805id_/http%3A//www.ahaishopping.com/article-17-Privacy%2BPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahaishopping.com privacy policy that was archived on 2014-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140412051514id_/http%3A//www.ahaishopping.com/article-17-Privacy%2BPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - About Us
 
