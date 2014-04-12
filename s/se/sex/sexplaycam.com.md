@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexplaycam.com privacy policy that was archived on 2013-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130725031757id_/http%3A//www.sexplaycam.com/index.php%3Fs%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexplaycam.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413012357id_/http%3A//www.sexplaycam.com/main/privacy_policy) for the most accurate reproduction.*
 
 # SexPlayCam - The web's most unique adult fantasy playground
 
@@ -53,7 +53,7 @@ Members of the Website can directly communicate with you through messaging servi
 
 If you choose to use our external referral service to tell a friend about the Website, we will ask you for your friend's contact information. The Website will automatically send your friend an e-mail inviting them to visit the Website. The Website maintains this information for the sole purpose of sending this email and tracking the success of the referral.
 
-#### 6). Your Use of Other Users' Information. 
+#### 6) Your Use of Other Users' Information. 
 
 You may not use other Users' information for commercial purposes, to send SPAM or SPIM, to harass, to make unlawful threats, or for any other illegal purpose. SexPlayCam.com reserves the right to terminate the Service to those who misuse other Users' information.
 
@@ -142,7 +142,7 @@ To stop or resume receiving email notifications regarding various site activity 
 
 If you have any further questions or concerns about SexPlayCam.com's privacy policies and use of personal information, please contact us using our online [contact form](https://web.archive.org/contact) or by email to [the webmaster.](mailto:abuse@SexPlayCam.com)
 
-#### 18). Dispute Resolution 
+#### 18) Dispute Resolution
 
 Any claim or cause of action you may have arising from, connected with, or relating to this privacy policy or SexPlayCam.com's handling of your personal information, or any related matters must be commenced within six (6) months after the claim or cause of action arises, after which time the claim or cause of action is forever barred, regardless of any statute or law to the contrary. 
 
