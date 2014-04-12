@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the passportalmsp.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104040900id_/http%3A//www.passportal.it/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passportalmsp.com privacy policy that was archived on 2014-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140412200025id_/http%3A//www2.passportalmsp.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – - PASSPORTAL - The Best Online IT Password Management Solution
+# Privacy Policy | Passportal - The Best Online IT Password Management Solution
 
 **Your Privacy**
 
@@ -30,11 +30,11 @@ When you visit this web site, PASSPORTAL may collect Personally Identifiable Inf
 
 This Privacy Policy sets out the purposes of PASSPORTAL's data handling in respect to this web site, the use of cookies and how to exercise your rights for your Personally Identifiable Information.
 
-By using the PASSPORTAL service and this website, you consent to the information practices described in this policy. Keep in mind that your use of the PASSPORTAL service is also subject to, and controlled by, the PASSPORTAL Terms and Conditions and the PASSPORTAL [User Agreement](http://www.passportal.it/user-agreement "User Agreement").
+By using the PASSPORTAL service and this website, you consent to the information practices described in this policy. Keep in mind that your use of the PASSPORTAL service is also subject to, and controlled by, the PASSPORTAL Terms and Conditions and the PASSPORTAL User Agreement.
 
 **Data Handler**
 
-The Data Handler and Contact Person for Data Protection is Colin Knox. Should you have any questions, recommendations, or complaints about this Privacy Policy or our data handling activities, please [contact us](http://www.passportal.it/contact "contact us").
+The Data Handler and Contact Person for Data Protection is Colin Knox. Should you have any questions, recommendations, or complaints about this Privacy Policy or our data handling activities, please contact us.
 
 _via e-mail at:_[ _privacy@passportal.it_](mailto:privacy@passportal.it) __
 
@@ -106,7 +106,7 @@ By submitting your information you consent to the use of that information as set
 
 Whenever you visit the PASSPORTAL site, we may also automatically receive and record information from your browser, including your IP address, your computer's name, the type and version of your web browser, referrer addresses, and other generally-accepted log information. We may also record page views (hit counts) and other general statistical and tracking information.
 
-This information is collected automatically by the system and the software procedures dedicated to the operating of this website which requires no action on your part. With the exception of your IP address which is used to support various security related [features](http://www.passportal.it/features "features"), this information is not associated with your Personally Identifiable Information.
+This information is collected automatically by the system and the software procedures dedicated to the operating of this website which requires no action on your part. With the exception of your IP address which is used to support various security related features, this information is not associated with your Personally Identifiable Information.
 
 This data enables us to become more familiar with which parts of the world visitors to our site come from, how often they visit, and what parts of the site they visit most often. We analyze this data for trends and statistics, we use them exclusively to help us better understand how our site is being used, to improve the value and user-friendliness of our web site as well as detect any technical problems as early as possible. To help us record and understand our website traffic we may also use a third party service, such as Google Analytics or website page counters – in which case absolutely _no_ Personally Identifiable Information is recorded by the third party service, nor associated with the aggregate anonymous website data.
 
