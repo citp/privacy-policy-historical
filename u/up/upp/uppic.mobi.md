@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uppic.mobi privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109180537id_/http%3A//s2.uppic.mobi/content-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uppic.mobi privacy policy that was archived on 2014-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140412082213id_/http%3A//s2.uppic.mobi/content-privacy.html) for the most accurate reproduction.*
 
 # Free Image Hosting By Uppic.Mobi CoverDD.com ฝากรูป ฝากปก ฝากแบบสกรีน CD DVD VCD MP3 Blu-Ray เกมส์ -
 
