@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucan.org privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129094349id_/http%3A//ucan.org/index.php/2-uncategorised/149-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucan.org privacy policy that was archived on 2014-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140412224021id_/http%3A//www.ucan.org/index.php/2-uncategorised/149-privacy-policy) for the most accurate reproduction.*
 
 # UCAN - Utility Consumers' Action Network | San Diego - Privacy Policy
 
