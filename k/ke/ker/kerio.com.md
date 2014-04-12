@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the kerio.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110223520id_/http%3A//www.kerio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kerio.com privacy policy that was archived on 2014-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140412033408id_/http%3A//www.kerio.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Kerio
-
-## Privacy Policy
-
-## How We Use the Information We Collect
+# Kerio Privacy Policy | Kerio Technologies
 
 At Kerio Technologies Inc. (“Kerio”), we know that you care about how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. Please read the following to understand what Information we collect, how we use that Information, to whom we may disclose that Information, and how we safeguard that Information. Because the Internet is global, the Information about you that we collect or that you submit may be transferred to, processed in, and stored in countries (including the United States) other than the one in which you reside. By using our various Websites and our Products and Services, you explicitly consent to such use of your Information and agree to the terms of this Privacy Policy.
 
@@ -38,7 +34,7 @@ Kerio’s Products and Services include collaboration features that by their nat
 
 Kerio provides you with opportunities to connect with third party applications or services. If you choose to use any such third party applications or services, we may facilitate sharing of your information including your username and documents you choose to use with those applications and services and such third parties may contact you directly as necessary. Your use of such applications and services is not governed by Kerio’s Terms of Use or Privacy Policy. Kerio does not control the applications or services of those third parties or how they use your information and documents. Be sure to review the terms and the privacy policies of those third parties before using their applications or services.
 
-Notwithstanding anything in this Privacy Policy to the contrary, Kerio reserves the right, unless limited by applicable law, to share any information we have collected about you or that you have submitted: (1) in order to comply with a law or legal request or to establish, protect, or exercise our legal rights or defend against legal claims; (2) if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, fraud, or situations involving potential threats to the safety of any person or property; (3) if we believe it is necessary to investigate, prevent, or take action regarding situations that involve significant abuse of our Websites or our Products and Services (such as voluminous spamming, denial of service attacks, or attempts to compromise the security of information); (4) to our affilaited companies (in which case we will require such entities to honor this Privacy Policy); (5) if we are acquired by or merged with another entity; and (6) to enforce our agreements, terms of use and policies.
+Notwithstanding anything in this Privacy Policy to the contrary, Kerio reserves the right, unless limited by applicable law, to share any information we have collected about you or that you have submitted: (1) in order to comply with a law or legal request or to establish, protect, or exercise our legal rights or defend against legal claims; (2) if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, fraud, or situations involving potential threats to the safety of any person or property; (3) if we believe it is necessary to investigate, prevent, or take action regarding situations that involve significant abuse of our Websites or our Products and Services (such as voluminous spamming, denial of service attacks, or attempts to compromise the security of information); (4) to our affiliated companies (in which case we will require such entities to honor this Privacy Policy); (5) if we are acquired by or merged with another entity; and (6) to enforce our agreements, terms of use and policies.
 
 ## Public Areas
 
@@ -68,6 +64,6 @@ If you have any questions about this Privacy Policy, please contact our General 
 
 ## Contact Us
 
-If you need to contact a Kerio Technologies Inc. representative in the U.S. for any reason, you can reach us by phone at: 1-408-496-4500, or by fax at: 1-408-496-6902. Our postal address is: Kerio Technologies, Inc., 111 North Market Street, 6th Floor, San Jose, CA 95113, USA. Our local representatives can be found on our Website at <http://www.kerio.com/company/locations>.
+If you need to contact a Kerio Technologies Inc. representative in the U.S. for any reason, you can reach us by phone at: 1-408-496-4500, or by fax at: 1-408-496-6902. Our postal address is: Kerio Technologies, Inc., 111 North Market Street, 6th Floor, San Jose, CA 95113, USA. Our local representatives can be found on our Website at [http://www.kerio.com/company/locations](https://web.archive.org/web/20140412033408id_/http%3A//www.kerio.com/node/79).
 
 _This Privacy Policy was last updated December 15, 2012._
