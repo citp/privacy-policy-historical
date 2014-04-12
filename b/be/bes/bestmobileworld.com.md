@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestmobileworld.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013183046id_/http%3A//www.bestmobileworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestmobileworld.com privacy policy that was archived on 2014-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140412163447id_/http%3A//www.bestmobileworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tech Blog - Best Mobile World
 
@@ -16,4 +16,6 @@ We use third-party advertising companies to serve ads when you visit our Website
 **Third Party Cookies:**  
 In the course of serving advertisements, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
 
-Rating: 0.0/ **10** (0 votes cast)
+Rating: 9.0/ **10** (1 vote cast)
+
+Privacy Policy, 9.0 out of 10 based on 1 rating 
