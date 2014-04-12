@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the foxcreekleather.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923075452id_/http%3A//www.foxcreekleather.com/help/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxcreekleather.com privacy policy that was archived on 2014-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140412164651id_/http%3A//www.foxcreekleather.com/help/%23privacy) for the most accurate reproduction.*
 
 # Fox Creek Leather
 
-If you have any questions or comments, please contact us. However, many questions are answered in our [FAQ](https://web.archive.org/web/20130923075452id_/http%3A//www.foxcreekleather.com/help/faq) which you may want to consult before calling.
+If you have any questions or comments, please contact us. However, many questions are answered in our [FAQ](https://web.archive.org/web/20140412164651id_/http%3A//www.foxcreekleather.com/help/faq) which you may want to consult before calling
 
 E-mail: [customerservice@foxcreekleather.com](mailto:customerservice@foxcreekleather.com)  
 
@@ -23,6 +23,9 @@ Independence, VA 24348
 Directions:  
 
 
+  
+
+
 ####  Follow us on these popular social sites:
 
 [](http://www.twitter.com/foxcreekleather)
@@ -30,6 +33,12 @@ Directions:
 [](http://www.facebook.com/pages/Fox-Creek-Leather/158197437547559)
 
 [Find us on](https://plus.google.com/113120357964649774322?prsrc=3)
+
+Back to the top
+
+[](http://www.bbb.org/western-virginia/business-reviews/leather-clothing-retail/fox-creek-leather-inc-in-independence-va-4001498/#bbbonlineclick "Fox Creek Leather, Inc. BBB Business Review")
+
+The Better Business Bureau only approves membership to businesses that have a proven track record. Although Fox Creek Leather has been around since 1983, we know it can be a leap of faith to order products online. We want you to be confident you can trust Fox Creek Leather to handle your purchase with courtesy and respect. 
 
 Back to the top
 
@@ -247,7 +256,7 @@ We do have a layaway program. For more information, [click here](https://web.arc
 
     4. Do you have a wholesale program? 
 
-We do have a wholesale program. For more information, [click here](https://web.archive.org/help/wholesaleProgram).
+We do have a wholesale program. For more information, please [contact us](https://web.archive.org/help/).
 
     5. Do you offer military discounts? 
 
@@ -255,7 +264,9 @@ Not only do we offer free shipping to military addresses, we offer a discount on
 
     6. How do I pay with PayPal? 
 
-Our site is not currently linked with PayPal. You will need to log into your PayPal account and click on the Send Money tab. Send the total to customerservice (at) foxcreekleather.com. If we haven't received payment when we process your order, we will send a PayPal request.
+You will be redirected to login to your PayPal account to verify the payment before submitting your order. When you submit your order, we will receive a payment confirmation automatically and all stock items should ship within 1-2 business days.
+
+Please note that PayPal Express Checkout is not available if your order total is $0.
 
     7. Can I change my shipping address on a package that's in transit? 
 
@@ -335,7 +346,9 @@ Please note, items sent back within our 30 day return policy that have had pins 
 
 Back to the top
 
-#### Download and fill out this [Returns and Exchange Form](http://www.foxcreekleather.com/forms/new_returns_policy.pdf) to return your Fox Creek Leather products. 
+### The return policy for Christmas orders will be extended until the last day of January.
+
+#### Download and fill out this [Returns and Exchange Form](http://www.foxcreekleather.com/forms/returns_policy_20140213.pdf) to return your Fox Creek Leather products. 
 
 Returns and exchanges should be made within 30 days of receipt of the item(s). If the item ordered does not fit properly, or if you are dissatisfied for any reason, [contact us immediately](https://web.archive.org/help/) so we may remedy the problem. We do not accept the return of used merchandise. 
 
@@ -374,27 +387,21 @@ If you have any questions regarding your return or exchange, please [contact us]
 
 Back to the top
 
-_Due to rising shipping costs, Fox Creek Leather has chosen to pay shipping on the initial shipment on orders of $99 or more only. This is to keep from raising prices._
+_Due to rising shipping costs, Fox Creek Leather has chosen to pay shipping on the initial shipment only. The customer is responsible for any subsequent shipping when exchanging their order. This is to keep from raising prices._
 
-We offer free standard UPS ground shipping on orders of $99 or more (before tax) within the contiguous 48 United States. The standard shipping rate on orders under $99 is $5.00 (when shipping within the 48 Contiguous United States). At our discretion, we may ship smaller packages via the United States Postal Service (USPS). Items shipped to a United States P.O. Box are not eligible for free shipping. Expedited shipping is available for an additional cost.
+We offer free standard shipping (before tax) within the United States (including Hawaii, Alaska, and Puerto Rico). At our discretion, we may ship your package via USPS First Class, USPS Priority Mail, UPS Surepost, or UPS Ground. 
 
-Shipments to Hawaii and Alaska addresses are not eligible for free shipping and are made via UPS Next Day Air, UPS 2nd day air, UPS Ground or USPS Priority Mail. 
+Using the available free options, shipping times all vary between 1-6 business days depending on your location. Please see the UPS shipping map below. When free standard shipping is selected, we will ship by the least expensive method. UPS Surepost may delay delivery up to 3 days from the below UPS chart. Expedited shipping is available for an additional cost. Depending on the weight and destination, USPS Priority may not always be a free option.
 
-USPS Priority Mail usually takes 2-5 business days shipping time to the 48 U.S. States. However, this is not guaranteed.
+Orders to APO or FPO addresses are shipped free of charge via USPS First Class or Priority Mail. 
 
-Orders of $99 or more shipping to APO or FPO addresses are shipped free of charge via USPS First Class or Priority Mail. 
-
-All international shipping fees are the responsibility of the customer. We ship internationally via USPS. If you are not quoted with a shipping price during checkout, we will contact you with a quote after your order is placed.
-
-Please note, Fox Creek Leather is not responsible for any brokerage, duties, clearance fees, added value taxes, and/or other fees incurred due to your location or chosen shipping method.
+All international shipping fees are the responsibility of the customer. We ship internationally via USPS, UPS, or DHL. Please note, Fox Creek Leather is not responsible for any brokerage, duties, clearance fees, added value taxes, and/or other fees incurred due to your location or chosen shipping method.
 
 If your order is placed before 9:30am Eastern Time we will ship all in-stock items that day. Orders placed after 9:30am will be shipped the following day.
 
 The following is an example of how domestic expedited shipping works. On Friday at 8:30am (EST), you place your order and request 3-day shipping. Your purchase will ship that day and arrive the afternoon of next Wednesday. If you had waited until Friday afternoon and chosen 3-day shipping your order would have arrived next Thursday afternoon.
 
 UPS does not pick up on Saturday. Expedited shipments placed Friday after 9:30am (EST) will not be shipped until Monday.
-
-**For UPS Canada customers only** : Canada Customs requires Canadian recipients to pay applicable duties and taxes on each shipment entering Canada. These charges may include PST, GST, HST, duties and other taxes of goods (e.g. excise tax). A brokerage fee is also charged to process shipments and present the requisite customs paperwork to Canada Customs on the importer's behalf. Your order will be shipped under UPS's e-Tailer Brokerage Program (eBP), where eligible shipments imported into Canada for non-commercial purposes and valued under CAD$ 200 shipped via UPS Standard service are subject to a reduced brokerage fee of CAD$ 10, plus any applicable duties and taxes. Shipments valued at CAD$200 and above and/or being imported to Canada for commercial purposes and/or subject to specialized clearance may incur additional fees. Please, be aware that UPS will request payment of these charges at the time of delivery. You have the ability to call UPS ahead of time (1-800-742-5877) to pay these charges, eliminating the need for payment on delivery.
 
 Back to the top
 
@@ -454,7 +461,7 @@ If you're personally identifiable information changes, or if you no longer desir
 
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
 
-We use persistent cookies to enable shopping cart and to track Web site use. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. You may find more information about cookies at <http://www.cookiecentral.com/faq/>.
+We use persistent cookies to enable shopping cart, to track Web site use, and for remarketing purposes. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. You may find more information about cookies at <http://www.cookiecentral.com/faq/>.
 
 The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. Because cookies allow you to take advantage of some of foxcreekleather.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or make an online purchase.
 
@@ -520,10 +527,6 @@ Any of the above conditioners can be used together. One popular combination is t
 [The Original Doc Bailey's Leather Black](https://web.archive.org/761.html) actually contains a dye pigment that restores lost colour. It also cleans, nourishes and waterproofs. [Doc Bailey's Leather Black](https://web.archive.org/761.html) gently cleans leather with specially formulated detergents which actually lift dirt out, opening the pores of the leather allowing the lanolin oil to flow into the leather nourishing and softening it. [Doc Bailey's Leather Black](https://web.archive.org/761.html) actually penetrates deep into the leather to restores lost colour. As a finishing touch, special waxes lock the colour in which protects and waterproofs your leather.
 
 Apply a small amount of [Doc Bailey's Leather Black ](https://web.archive.org/761.html) to a clean, dry sponge and wipe even over the surface to be treated. Rinse sponge after use. Allow to cure for 12 hours before exposing to moisture. Buff for higher shine if desired. Do not use on Buckskin or Suede. Product will darken all leather, always test in a discrete area. Reapply every 6 months or as needed.
-
-### Leather Honey Leather Conditioner 
-
-Since it was invented in 1968, [Leather Honey](https://web.archive.org/286-leather-care/1038-leather-honey-0153) has been used to rejuvenate and recondition old leather and soften and protect new leather. Made in the USA and sold by the same family for over 25 years as Harness Honey, our non-toxic, water repellent formula penetrates deep into leather's pores and prolongs the life of saddles and tack; boots, gloves, baseball mitts, and apparel; leather furniture and upholstery; and automobile and motorcycle seats and accessories. It softens, protects, and promotes flexibility, leaving your leather feeling and looking great. 
 
 ### Leather Therapy
 
