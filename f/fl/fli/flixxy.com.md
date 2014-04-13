@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flixxy.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824041331id_/http%3A//www.flixxy.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flixxy.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413021151id_/http%3A//www.flixxy.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Flixxy.com Privacy Policy
 
@@ -24,6 +24,8 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 (AdSense Privacy Policy provided by [JenSense](http://www.jensense.com/))   
 
 
+Cookies may also collect non-personally identifiable information [what your search for] during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To opt-out of this use of your anonymous information, please visit the   
+[Network Advertising Initiative's opt out page](http://www.networkadvertising.org/managing/opt_out.asp).   
 **  
 "No-Spam" Policy**
 
