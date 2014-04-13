@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conservatives.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016223306id_/http%3A//www.conservatives.com/Information/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservatives.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413084624id_/http%3A//www.conservatives.com/Information/Privacy.aspx) for the most accurate reproduction.*
 
 # The Conservative Party | Privacy
 
@@ -7,9 +7,7 @@ This is a privacy policy for the Conservative Party website. Our homepage on the
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address:
 
 Conservative Campaign Headquarters  
-30 Millbank  
-London, SW1P 4DP  
-United Kingdom
+4 Matthew Parker Street, London, SW1H 9HQ
 
 You may contact us by e-mail at [webmaster@conservatives.com](mailto:webmaster@conservatives.com). 
 
@@ -47,9 +45,23 @@ If you choose, we can tell a friend about our site - or even a particular page i
 
 To send us a message using our feedback forms we collect your name, email address and comments. At your option we may also collect your postal code. This data will be used by ourselves and our agents for contacting you.
 
-### Online Polls and Surveys
+### Online Polls and Q&A Informational Sites
 
-If you wish to participate in an online poll or survey, in addition to your answers, we collect your Internet Protocol (IP) address. This data will be used by ourselves and our agents to help validate the results and help prevent multiple entries from individuals. In addition to this a cookie will be placed on your system after participating in a poll or survey. No identifiable information will be stored in this cookie.
+The Party, from time to time, hosts Online Surveys and Question and Answer (Q&A) Informational Sites on our website. The data you provide in response to questions asked on these sites will be retained by the Party in accordance with the provisions of the Data Protection Act 1998 and related legislation. We will use the data you provide to: 
+
+a) improve our understanding of political life in the United Kingdom; 
+
+b) compile and provide anonymous statistics about voters in the United Kingdom; 
+
+c) facilitate our operation as a political party; and
+
+d) help the Party in developing policies to include in manifestos for elections. 
+
+For Q&A Informational Sites we will also use your responses to provide you with tailored information on the relevant subject area.
+
+In addition we may also ask you for your contact details such as your email address. By entering your contact details you agree to receive communications from us, from which you can opt-out using the “unsubscribe” link in each email we send or using the contact details at the top of this privacy notice. We will not share your details with anyone outside the Conservative Party.   In addition we may use your responses in the survey to keep you informed about issues that matter to you.
+
+If you wish to participate in an Online Survey, or make use of a Q&A Informational Site, in addition to your answers, we collect your Internet Protocol (IP) address. This data will be used to help validate the results and help prevent multiple entries from individuals. In addition to this a cookie will be placed on your system after participating in an Online Survey or Q&A Informational Site. No identifiable information will be stored in this cookie. If you wish to participate in an an Online Survey or Q&A Informational Site, in addition to your answers, we collect your Internet Protocol (IP) address. This data will be used by ourselves and our agents to help validate the results and help prevent multiple entries from individuals. In addition to this a cookie will be placed on your system after participating in a poll or survey. No identifiable information will be stored in this cookie.
 
 ### Log Files and Statistics
 
