@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magellangps.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229092649id_/http%3A//www.magellangps.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magellangps.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413022612id_/http%3A//www.magellangps.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Magellan GPS - Privacy Policy
 
