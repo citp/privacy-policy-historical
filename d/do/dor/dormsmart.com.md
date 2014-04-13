@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dormsmart.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502034759id_/http%3A//www.dormsmart.com/DormSmartcom-Privacy-Policy_ep_56-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dormsmart.com privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414005552id_/http%3A//www.dormsmart.com/DormSmartcom-Privacy-Policy_ep_56-1.html) for the most accurate reproduction.*
 
 # DormSmart.com Privacy Policy & Security
 
