@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecouponproject.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207225454id_/http%3A//thecouponproject.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecouponproject.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413085427id_/http%3A//thecouponproject.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — The Coupon Project
 
@@ -26,7 +26,5 @@ As a reader, you are invited to participate in this blog in a number of ways, in
 
 
 I reserve the right to amend this Policy at any time.  I agree to review this Policy at least annually for accuracy.  If you have additional questions regarding this Policy, I may be contacted at thecouponproject at hotmail dot com.
-
-[](https://www.pinterest.com/pin/create/button/)
 
 [](http://www.printfriendly.com/print/?source=site&url=http://thecouponproject.com/privacy-policy/)
