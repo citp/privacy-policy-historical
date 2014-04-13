@@ -1,38 +1,36 @@
-> *The following text is extracted and transformed from the reputation.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817135140id_/http%3A//www.reputation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reputation.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413231009id_/https%3A//www.reputation.com/privacy-policy) for the most accurate reproduction.*
 
-# Reputation.com - Privacy Policy | Reputation.com®
+# Privacy Policy | Reputation.com
 
 ## PRIVACY PLEDGES:
 
-  1. Reputation.com’s whole mission centers on empowering you, the consumer, to control your privacy online – that’s why we’re truly committed to maintaining the privacy and security of your personally identifiable information. Our privacy policy has been reviewed and approved by TRUSTe, which sets privacy program standards for accountability, transparency and choice. (learn more)
+  1. Reputation.com's whole mission centers on empowering you, the consumer, to control your privacy online - that's why we're truly committed to maintaining the privacy and security of your personally identifiable information. Our privacy policy has been reviewed and approved by TRUSTe, which sets privacy program standards for accountability, transparency and choice. (learn more)
   2. We collect and use only the personally identifiable information we need to make sure our products and services are effective. If we need any additional information, we will get your express, explicit approval before collecting and using it. (learn more)
-  3. We do not sell, give, rent or trade your personally identifiable information to advertisers, marketers, spammers, or any online “white pages” or “people finder” sites. (learn more)
+  3. We do not sell, give, rent or trade your personally identifiable information to advertisers, marketers, spammers, or any online "white pages" or "people finder" sites. (learn more)
   4. If you provide personally identifiable information to us about your customers or clients, we will keep that information confidential and will only use it as necessary to provide the services you have purchased. We will not share such information with third parties, including advertisers or marketers or spammers. (learn more)
   5. We take the security of your personally identifiable information seriously, and use industry standard safeguards to protect any personally identifiable information stored on our systems. (learn more)
-  6. We use cookies to help us understand how visitors use our site, but these cookies are not used for the purpose of collecting personally identifiable information. We never share any of this information with third parties – ever. (learn more)
+  6. We use cookies to help us understand how visitors use our site, but these cookies are not used for the purpose of collecting personally identifiable information. We never share any of this information with third parties - ever. (learn more)
   7. We are not responsible for the privacy practices of any websites linked to our site if they are not controlled or owned by Reputation.com. Please be diligent when visiting any other websites. (learn more)
   8. We like to send information and updates via email to our customers but you are welcome to opt out of receiving this information at any time. (learn more)
   9. The policy outlined below is legally binding and may be updated from time to time. (learn more)
 
 
 
-* * *
-
 ## PRIVACY POLICY
 
-**Effective July 30, 2013**
+**Effective January 7, 2014**
 
 ### 1\. ABOUT OUR PRIVACY POLICY
 
-1\. Reputation.com., has created this privacy statement ("Privacy Policy") in order to demonstrate our firm commitment to your privacy. This Privacy Policy explains the policies adopted and used by Reputation.com in order to protect your privacy as you visit and use the Reputation.com website, and associated sub-domains (the “Site) and in connection with the goods and services you purchase from us.
+1\. Reputation.com., has created this privacy statement ("Privacy Policy") in order to demonstrate our firm commitment to your privacy. This Privacy Policy explains the policies adopted and used by Reputation.com in order to protect your privacy as you visit and use the Reputation.com website, and associated sub-domains (the "Site) and in connection with the goods and services you purchase from us.
 
 2\. Your use of the Site, or your purchase of our products and services, constitutes an acceptance of our Terms of Use and Privacy Policy. If you have any questions regarding this Privacy Policy, please contact us at [info@reputation.com](mailto:info@reputation.com).
 
-3\. Reputation.com, Inc. has been awarded TRUSTe's Privacy Seal signifying that our Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html), including transparency, accountability and choice regarding the collection and use of your personally identifiable information.
+3\. Reputation.com, Inc. has been awarded TRUSTe's Privacy Seal signifying that our Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/), including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this web site [www.reputation.com](http://www.reputation.com/).
 
-4\. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trust mark and innovative trust solutions. This privacy statement covers the website Reputation.com and other sub-domains. If you have questions or concerns regarding this statement, you should first alert Reputation.com at [info@reputation.com](mailto:info@reputation.com). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
+4\. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trust mark and innovative trust solutions. This privacy statement covers the website Reputation.com and other sub-domains. If you have questions or concerns regarding this statement, you should first alert Reputation.com at [info@reputation.com](mailto:info@reputation.com). If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
-5\. Reputation.com complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Reputation.com has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Reputation.com’s certification, please visit <http://www.export.gov/safeharbor>.
+5\. Reputation.com complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Reputation.com has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Reputation.com's certification, please visit <http://www.export.gov/safeharbor>.
 
 ### 2\. THE INFORMATION WE COLLECT
 
@@ -48,7 +46,7 @@
 
 6\. We will retain your information for at least as long as your account is active or as needed to provide you services. We may also keep your information for longer periods of time consistent with our normal business practices and record-keeping requirements. If you wish to cancel your account, or request that we no longer use your information to provide you with our services, or request that we no longer maintain your information, please contact us at [info@reputation.com](mailto:info@reputation.com). We will respond to your request within 30 days.
 
-7\. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We also collect analytical data related to the performance of this Site via tracking technologies. This data is in no way associated with your personally identifiable information. (See “Cookies” below.)
+7\. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We also collect analytical data related to the performance of this Site via tracking technologies. This data is in no way associated with your personally identifiable information. (See "Cookies" below.)
 
 ### 3\. OUR USE AND DISCLOSURE OF INFORMATION
 
@@ -56,7 +54,7 @@ Reputation.com will not disclose any personally identifiable information about a
 
 #### Collection of Information from Third Parties
 
-We may collect your personally identifiable information from third parties. If we do, Reputation.com will not sell this personal information to advertisers, marketers or spammers. Nor will we provide any personal information to online “white pages” or “people finder” sites unless you specifically authorize us to do as part of our services.
+We may collect your personally identifiable information from third parties. If we do, Reputation.com will not sell this personal information to advertisers, marketers or spammers. Nor will we provide any personal information to online "white pages" or "people finder" sites unless you specifically authorize us to do as part of our services.
 
 #### Registration
 
@@ -72,13 +70,13 @@ Using your name and email address, we will occasionally send you information on 
 
 If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see "Choice and Opt-out."
 
-#### Testimonials 
+#### Testimonials
 
 We will always obtain your consent prior to posting your full name along with your testimonial. If, after you provide your prior written consent, you want to remove your personal information that displayed on the Site under public pages, please contact us at [info@reputation.com](mailto:info@reputation.com).
 
 #### Tell-A-Friend
 
-1\. If you choose to use our referral service to tell a friend about the Site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. Reputation.com stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+1\. If you choose to use our referral service to tell a friend about the Site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. Reputation.com stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
 2\. Your friend may contact us at [info@reputation.com](mailto:info@reputation.com). to request that we remove this information from our database. Note that this is not available in jurisdictions where this method of referral is prohibited, such as the European Union.
 
@@ -91,6 +89,10 @@ The Site offers publicly accessible blogs. You should be aware that any informat
 1\. You can log in to the Site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personally identifiable information with us, such as your name and email address, to pre-populate our sign up form.
 
 2\. Services like Facebook Connect give you the option to post information about your activities on the Site to your profile page to share with others within your network. You should take care to monitor and control what information these other websites and services collect and make public about you.
+
+#### Social Media Widgets
+
+Our website includes Social Media Features, such as the Facebook button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 #### Internal Uses of Your Personally Identifiable Information
 
@@ -162,9 +164,9 @@ The implementation of our Services may require you to share with us information 
 
 5\. Some of our business partners (e.g., analytical tracking software providers) use cookies and tracking technologies on their sites. We have no access to or control over these cookies or tracking technologies. This privacy statement covers the use of cookies on [www.reputation.com](https://www.reputation.com/) and by Reputation.com Inc. only and does not cover the use of cookies or tracking technologies by any such business partner.
 
-6\. We employ, and our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that helps us better manage content on the Site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies and are used to learn about the interactions of our users with the Site and our outbound emails. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie the information gathered by clear gifs to our customers’ personally identifiable information.
+6\. We employ, and our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that helps us better manage content on the Site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies and are used to learn about the interactions of our users with the Site and our outbound emails. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie the information gathered by clear gifs to our customers' personally identifiable information.
 
-7\. We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see the “Choice and Opt-out" section below.
+7\. We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see the "Choice and Opt-out" section below.
 
 ### 7\. LINKED SITES
 
@@ -191,3 +193,5 @@ Attention: Legal Department
 1001 Marshall St.  
 2nd Floor  
 Redwood City, CA 94063
+
+[](https://privacy.truste.com/privacy-seal/Reputation-com,-Inc-/validation?rid=9233e448-d503-4b64-8eaf-4dc218e7a2b8 "TRUSTe European Safe Harbor certification")
