@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jayco.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211041308id_/http%3A//www.jayco.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jayco.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413055706id_/http%3A//www.jayco.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Jayco 2014
 
