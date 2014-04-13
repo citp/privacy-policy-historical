@@ -1,39 +1,50 @@
-<!--The following is the downloaded HTML source of the activelylearn.com privacy policy that was archived on 2013-08-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130818000838id_/http%3A//www.activelylearn.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the activelylearn.com privacy policy that was archived on 2014-04-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140413092910id_/http%3A//www.activelylearn.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html><head><script type="text/javascript" async="" src="https://wisepops.com/default/index/get-loader?user_id=1256"></script><script async="" src="http://read.activelylearn.com/handler.ashx/account/isloggedin?callback=jQuery1830004267993614444299_1580374499334&amp;_=1580374499538"></script>
+    <script async="" charset="utf-8" src="//v2.zopim.com/?1Wnl0N6z5KrlIxJPpchbPJxJ9YWtTL44" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn.optimizely.com/js/319324847.js"></script>
     <title>Privacy - Actively Learn</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Actively Learn is a reading tool that enables teachers to guide, monitor and improve student learning.">
     <link href="/css/app.css?v=1.2" rel="stylesheet" type="text/css">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/jquery-1.8.3.js"></script>
+    <link rel="icon" type="image/png" href="/img/icon_100.png">
+    <script src="/js/jquery-1.8.3.js"></script>
     <script type="text/javascript">
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-34552812-1']);
-        _gaq.push(['_trackPageview']);
 
         (function () {
             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
             ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
+
+        window.$zopim || (function (d, s) {
+            var z = $zopim = function (c) { z._.push(c) }, $ = z.s =
+            d.createElement(s), e = d.getElementsByTagName(s)[0]; z.set = function (o) {
+                z.set.
+                _.push(o)
+            }; z._ = []; z.set._ = []; $.async = !0; $.setAttribute('charset', 'utf-8');
+            $.src = '//v2.zopim.com/?1Wnl0N6z5KrlIxJPpchbPJxJ9YWtTL44'; z.t = +new Date; $.
+            type = 'text/javascript'; e.parentNode.insertBefore($, e)
+        })(document, 'script');
     </script>
     <script type="text/javascript" src="//use.typekit.net/anx1yxy.js"></script>
     <script type="text/javascript">try { Typekit.load(); } catch (e) { }</script>
     <link type="text/css" rel="stylesheet" href="http://fast.fonts.com/cssapi/3aa9ca6e-6ff9-4a9c-b45d-f37014a530c1.css">
 </head>
-
-<body>
+<body style="display: none;">
     <div class="wrapper">
         <header class="padlr">
             <a href="/" style="float:left;"><img src="/img/logo.png"></a>
             <nav id="main">
-                <a href="/howitworks">How It Works</a>
-                <a href="/features">Features</a>
-                <a href="/pricing">Pricing</a>
-                <a href="/layers">Layers</a>
+                <a href="/howitworks">Learn More</a>
                 <a href="/schools">Schools</a>
+                <a href="/pricing">Pricing</a>
+                <a href="/jobs">Jobs</a>
                 <a href="/blog">Blog</a>
-                <a href="https://read.activelylearn.com/#account?si=1" class="btn" style="color: #FFFFFF;font-family:'Avenir Next W10 Bold';font-size: 15px;padding: 10px 15px;margin-top: -12px;">Sign In</a>
+                <a href="https://read.activelylearn.com/#account" class="btn" style="color: #FFFFFF;font-family:'Avenir Next W10 Bold';font-size: 15px;padding: 10px 15px;margin-top: -12px;" onclick="_gaq.push(['_trackEvent', 'signUp_0', 'click']);">Sign Up</a>
+                <a href="https://read.activelylearn.com/#account?si=1" class="btn" style="color: #FFFFFF;font-family:'Avenir Next W10 Bold';font-size: 15px;padding: 10px 15px;margin-top: -12px;" onclick="_gaq.push(['_trackEvent', 'signIn', 'click']);">Sign In</a>
             </nav>
             <div class="clearBoth"></div>
         </header>
@@ -165,6 +176,20 @@
             <a href="/privacy">Privacy</a>
             <a href="/terms">Terms of Service</a>
             <a href="/contact">Contact Us</a>
+            <a href="/layers">Layers</a>
+            <a href="/features">Features</a>
+
+            
+            
+            <!--
+            <a href="/">Home</a>
+            <a href="/about">About</a>
+            <a href="/blog">Blog</a>
+            <a href="/press">Press</a>
+            <a href="/privacy">Privacy</a>
+            <a href="/terms">Terms of Service</a>
+            <a href="/contact">Contact Us</a>
+                -->
             <a class="right" href="http://twitter.com/activelylearn" target="_blank"><img src="/img/icons/twitter.png"></a>
             <a class="right" href="http://www.facebook.com/activelylearn" target="_blank"><img src="/img/icons/facebook.png"></a>
             <div class="clearBoth"></div>
@@ -183,10 +208,40 @@
 
 
 <script>
+    $("body").hide();
+
+    try {
+        var url = "http://read.activelylearn.com/handler.ashx/account/isloggedin?callback=?";
+
+        $.getJSON(url, function (resp) {
+            if (resp.Success) {
+                window.location.href = "https://read.activelylearn.com/#" + resp.Data.Url;
+            }
+            else {
+                $("body").show();
+                _gaq.push(['_trackPageview']);
+            }
+        });
+    }
+    catch (ex) {
+        $("body").show();
+        _gaq.push(['_trackPageview']);
+    }
+
     if ($.browser.msie) {
         $("input").addClass("jq_watermark");
         $('.jq_watermark').watermark();
     }
 </script>
+
+ <!-- Code for Wisepops.com Popup Window -->
+<script type="text/javascript">
+    (function () {
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+        s.src = document.location.protocol + '//wisepops.com/default/index/get-loader?user_id=1256';
+        var s2 = document.getElementsByTagName('script')[0]; s2.parentNode.insertBefore(s, s2);
+    })();
+</script>
+
 
 </body></html>
