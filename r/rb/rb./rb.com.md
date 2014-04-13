@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rb.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203145908id_/http%3A//www.rb.com/site/rkbr/templates/General.aspx%3Fpageid%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rb.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413102544id_/http%3A//www.rb.com/site/rkbr/templates/General.aspx%3Fpageid%3D8) for the most accurate reproduction.*
 
-# Privacy policy - Reckitt Benckiser (RB)
+# Privacy policy - RB (Reckitt Benckiser)
 
 ## General
 
