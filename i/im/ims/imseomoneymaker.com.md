@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imseomoneymaker.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215013834id_/http%3A//imseomoneymaker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imseomoneymaker.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413122141id_/http%3A//imseomoneymaker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IM, SEO and Moneymaker
 
