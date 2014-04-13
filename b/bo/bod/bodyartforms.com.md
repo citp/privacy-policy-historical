@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bodyartforms.com privacy policy that was archived on 2013-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130421094315id_/http%3A//privacy-policy.truste.com/verified-policy/www.bodyartforms.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyartforms.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413213709id_/http%3A//privacy-policy.truste.com/verified-policy/www.bodyartforms.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.bodyartforms.com
 
 Effective on March 17, 2011 
 
-This privacy statement describes how Bodyartforms collects and uses the personal information you provide on our Web site: [www.bodyartforms.com ](http://www.bodyartforms.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how Bodyartforms collects and uses the personal information you provide on our Web site: [www.bodyartforms.com ](https://www.bodyartforms.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **TRUSTe**
 
@@ -92,6 +92,8 @@ The security of your personal information is important to us. We follow generall
 
 We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
 
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [bafservice1@bodyartforms.com](mailto:bafservice1@bodyartforms.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
 ## Additional Policy Information
 
 Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it. 
@@ -110,8 +112,8 @@ You can contact us about this privacy statement by writing or email us at the ad
 
 Bodyartforms 
 
-1350 E Palm Valley Blvd Ste F 
+1966 S. Austin Ave. 
 
-Round Rock, TX, United States 78664
+Georgetown, TX, United States 78626
 
 Phone: 5122460984
