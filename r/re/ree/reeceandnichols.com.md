@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reeceandnichols.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213125344id_/http%3A//www.reeceandnichols.com/Content/Content.aspx%3FFooterID%3D183793) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reeceandnichols.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413193615id_/http%3A//www.reeceandnichols.com/Content/Content.aspx%3FFooterID%3D183793) for the most accurate reproduction.*
 
 # Reece & Nichols
 
