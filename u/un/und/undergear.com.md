@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the undergear.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213151333id_/http%3A//undergear.com/on/demandware.store/Sites-undergear-Site/default/Page-Show%3Fcid%3Dug-privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undergear.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413130930id_/http%3A//undergear.com/on/demandware.store/Sites-undergear-Site/default/Page-Show%3Fcid%3Dug-privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and Security | Undergear
 
