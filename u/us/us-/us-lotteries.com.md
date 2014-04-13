@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the us-lotteries.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214065928id_/http%3A//www.us-lotteries.com/SiteUtilities/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us-lotteries.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413105442id_/http%3A//www.us-lotteries.com/SiteUtilities/privacy.asp) for the most accurate reproduction.*
 
 # US Lotteries - Privacy Statement
 
@@ -6,7 +6,7 @@ Privacy Statement
 
 ##### General
 
-This privacy Statement details our commitment to safeguard your information, and the limited manner in which we will use and disclose the information you provide to us. By using our web site, you consent to the collection, use and disclosure of your information by us as set forth in this policy. We may from time to time change this privacy policy so please check this privacy policy regularly for any changes or updates. If you have any questions regarding this privacy policy, then you may contact us. For additional information about the use of our web site, please review our [Terms and Conditions of Use](https://web.archive.org/web/20131214065928id_/http%3A//www.us-lotteries.com/SiteUtilities/terms.asp). 
+This privacy Statement details our commitment to safeguard your information, and the limited manner in which we will use and disclose the information you provide to us. By using our web site, you consent to the collection, use and disclosure of your information by us as set forth in this policy. We may from time to time change this privacy policy so please check this privacy policy regularly for any changes or updates. If you have any questions regarding this privacy policy, then you may contact us. For additional information about the use of our web site, please review our [Terms and Conditions of Use](https://web.archive.org/web/20140413105442id_/http%3A//www.us-lotteries.com/SiteUtilities/terms.asp). 
 
 ##### Personal Information
 
@@ -35,4 +35,4 @@ Also, we use third-party advertising companies to serve ads when you visit our w
 
 * * *
 
-Copyright © 2006-2013 US-LOTTERIES.COM
+Copyright © 2006-2014 US-LOTTERIES.COM
