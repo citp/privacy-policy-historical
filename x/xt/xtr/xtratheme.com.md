@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtratheme.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117114344id_/http%3A//xtratheme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtratheme.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413110139id_/http%3A//xtratheme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Xtratheme
 
