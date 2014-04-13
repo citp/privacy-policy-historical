@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winscp.net privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220022319id_/http%3A//winscp.net/eng/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winscp.net privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413234933id_/http%3A//winscp.net/eng/docs/privacy) for the most accurate reproduction.*
 
 # WinSCP Privacy Policy :: WinSCP
 
@@ -85,6 +85,6 @@ If we decide to change our Privacy policy, we will post those changes on this pa
 
 This policy was last modified on **2012-07-19**. 
 
-— [WinSCP team](http://winscp.net/ "http://winscp.net/eng/docs/../..")
+— [WinSCP team](http://winscp.net/ "http://winscp.net/")
 
 _This policy is based on[Free Privacy Policy Generator](http://www.freeprivacypolicy.com/ "http://www.freeprivacypolicy.com/")._
