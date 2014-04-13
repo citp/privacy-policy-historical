@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mta.tv privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928173709id_/http%3A//www.mta.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mta.tv privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413165018id_/http%3A//www.mta.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
