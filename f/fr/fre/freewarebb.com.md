@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewarebb.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806211134id_/http%3A//www.freewarebb.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewarebb.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413195258id_/http%3A//www.freewarebb.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - FreewareBB
 
