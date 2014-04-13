@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budapestaffiliateconference.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223231448id_/http%3A//www.igbaffiliate.com/events/budapestaffiliateconference/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budapestaffiliateconference.com privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414001252id_/http%3A//www.igbaffiliate.com/events/budapestaffiliateconference/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Budapest Affiliate Conference
 
