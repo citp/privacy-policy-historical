@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the activelylearn.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818000838id_/http%3A//www.activelylearn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activelylearn.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413092910id_/http%3A//www.activelylearn.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Actively Learn
+
+[](https://web.archive.org/) [Learn More](https://web.archive.org/howitworks) [Schools](https://web.archive.org/schools) [Pricing](https://web.archive.org/pricing) [Jobs](https://web.archive.org/jobs) [Blog](https://web.archive.org/blog) [Sign Up](https://read.activelylearn.com/#account) [Sign In](https://read.activelylearn.com/#account?si=1)
 
 Your privacy is important to us. Accordingly, Actively Learn Inc. (“Actively Learn”) developed this Privacy Policy in order for you to understand how we collect, store, use, communicate and disclose your information. 
 
