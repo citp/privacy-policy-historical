@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the vectorcast.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015020425id_/http%3A//www.vectorcast.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vectorcast.com privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414035017id_/http%3A//www.vectorcast.com/legal/privacy) for the most accurate reproduction.*
 
-# Vector Software Privacy Statement
+# Privacy Policy | Vector Software
 
-#### Privacy Policy
+Vector Software, Inc. (collectively, "we", "our", "us" or "Vector Software") is committed to your privacy. This privacy statement describes how Vector software collects and uses the personal information you provide on our Website [www.vectorcast.com](http://www.vectorcast.com/) (each a "Website" and collectively, "Websites"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. We encourage you to read this Privacy Statement carefully when using our Website, or when providing information to us through our Website. You understand that by using our Website you are accepting our practices as described in this privacy statement.
 
-Vector Software, Inc. (collectively, "we", "our", "us" or "Vector Software") is committed to your privacy. This privacy statement describes how Vector software collects and uses the personal information you provide on our Website www.vectorcast.com (each a "Website" and collectively, "Websites"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. We encourage you to read this Privacy Statement carefully when using our Website, or when providing information to us through our Website. You understand that by using our Website you are accepting our practices as described in this privacy statement. 
-
-**_What Information Do We Collect and Why?_**  
-
+**_What Information Do We Collect and Why?_**
 
 IP Address  
 We may use your IP address (not your e-mail address) to help diagnose problems with our server, to administer our Website, or to gather broad demographic information.
@@ -28,7 +25,7 @@ Links to Other Sites
 This site contains links to other sites. Vector Software is not responsible for the privacy practices or the content of other Websites. Please refer to the policies of the respective site.
 
 Unsubscribe to the Vector Software Newsletter  
-If you no longer wish to receive our free newsletters, you can cancel your subscription to the newsletter at any time. 
+If you no longer wish to receive our free newsletters, you can cancel your subscription to the newsletter at any time.
 
 Changes to our Privacy Policy  
 We reserve the right to amend the Privacy Policy at any time, for any reason, without notice to you, other than the posting of the amended Privacy Policy on this Website. You should check our Website frequently to see the current Privacy Policy that is in effect and any changes that may have been made to it. The provisions contained herein supersede all previous notices or policies regarding our privacy practices that govern the use of this Website.
@@ -39,4 +36,4 @@ If there are any questions regarding this privacy policy you may contact us in w
 Vector Software, Inc.  
 1351 South County Trail, Suite 310  
 East Greenwich, RI 02818  
-info@vectorcast.com 
+[info@vectorcast.com](mailto:info@vectorcast.com)
