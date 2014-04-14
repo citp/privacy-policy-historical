@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dansdames.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117054141id_/http%3A//www.dansdames.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dansdames.com privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414235813id_/http%3A//www.dansdames.com/privacy.html%3F) for the most accurate reproduction.*
 
 # DansDames - Privacy Policy
 
