@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rayashop.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206120605id_/http%3A//www.rayashop.com/Cms/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rayashop.com privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414181346id_/http%3A//www.rayashop.com/Cms/Privacy) for the most accurate reproduction.*
 
 # Rayashop.com is an Online Shopping Website and Also is an online source for mobile phones, Laptops, electronics, LCD TVs, DVD players, computers, cameras, games and more. Research, compare and buy securely online.
 
