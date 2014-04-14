@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lasenza.ca privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608085555id_/http%3A//www.lasenza.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasenza.ca privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414110906id_/http%3A//www.lasenza.ca/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | La Senza
 
 This privacy policy explains what personal information is collected through this Website, how that information is used, to whom it’s disclosed, and how it’s safeguarded. Unless indicated otherwise, this policy applies only to personal information collected through the Website, microsites, or mobile sites of the La Senza brand and lines of business that expressly adopt, and display or link to, this policy. By "personal information" we mean identifiable information about you (like name, home address, email address, and descriptive information like tastes and preferences). We may refer to our brand and lines of business (i.e., La Senza) as "we," "us," or "our" throughout this privacy policy.
 
@@ -153,7 +153,7 @@ If you have general questions about our Privacy Policy, or the manner in which w
 
 For specific questions, concerns, or complaints contact our Associate Vice President (AVP) of Legal and Compliance Services, who administers this policy. You may contact this person by letter or email at:
 
-> AVP, Privacy Legal & Compliance Services Limited Brands, Inc.  
+> AVP, Privacy Legal & Compliance Services L Brands, Inc.  
 >  3 Limited Parkway  
 >  Columbus, OH 43230  
 >  US  
@@ -176,5 +176,3 @@ If you would like to exercise your rights under California law, please send your
 >  3 Limited Parkway, Columbus, OH 43230  
 >  1 888 LA SENZA (1—888—527—3692)  
 >  E—mail: onlinemanager@lasenza.com
-
-HBdocs — 14485106v2
