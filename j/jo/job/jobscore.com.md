@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the jobscore.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925092951id_/http%3A//www.jobscore.com/site/about_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobscore.com privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414221246id_/http%3A//www.jobscore.com/site/about_privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | JobScore
 
 [All Agreements](https://web.archive.org/site/about_agreements)
 
-[](http://www.truste.org/ivalidate.php?url=www.jobscore.com&sealid=101)JobScore has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This privacy statement covers the site www.jobscore.com. By displaying the TRUSTe trustmark, JobScore has agreed to notify users of: 
+[ ](https://privacy.truste.com/privacy-seal/JobScore/validation?rid=e0dddde5-5f58-4b8b-9446-619dbb0874b8 "TRUSTe online privacy certification")
+
+JobScore has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, http://www.jobscore.com. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This privacy statement covers the site www.jobscore.com. By displaying the TRUSTe trustmark, JobScore has agreed to notify users of: 
 
   1. What personally identifiable information of yours is collected by JobScore. 
   2. How the information is used. 
@@ -15,7 +17,7 @@
 
 
 
-If you have questions or concerns regarding this statement, you should first contact the JobScore privacy coordinator by e-mail at privacy@jobscore.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+If you have questions or concerns regarding this statement, you should first contact the JobScore privacy coordinator by e-mail at privacy@jobscore.com. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 Any future changes to JobScore’s Privacy Policy will be posted on the JobScore website prior to the changes taking effect. If you have questions or concerns regarding this policy, you should contact JobScore by sending an email to [privacy@jobscore.com](mailto:privacy@jobscore.com).
 
@@ -81,7 +83,11 @@ JobScore’s Services are only intended for persons that are eligible to work un
 
 **Links to Other Websites**
 
-JobScore is not responsible for the privacy practices or the content of other websites that may be linked to this website. 
+JobScore is not responsible for the privacy practices or the content of other websites that may be linked to this website.
+
+**Social Media Features and Widgets**
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 **Opt-Out**
 
@@ -111,4 +117,4 @@ In the event JobScore merges, sells its assets, or is acquired by another compan
 
 Your use of JobScore’s website, including any dispute concerning privacy, is subject to this Privacy Policy and the applicable JobScore User Agreement ("Agreement(s)"). BY USING JOBSCORE’S WEBSITE AND/OR THE SERVICES, YOU ARE ACCEPTING THE PRACTICES SET OUT IN THIS PRIVACY POLICY AND THE APPLICABLE AGREEMENT. A copy of the Agreements can be found [here](https://web.archive.org/site/about_agreements). JobScore reserves the right to modify this Privacy Policy at any time by posting the changes on this webpage. Your continued use of any portion of JobScore’s website and/or the Services following posting of the updated Privacy Policy will constitute your acceptance of the changes. JobScore may enter into additional agreements for use of its Services with its users that have specialized terms ("Private Agreements"). Private Agreements may have unique privacy provisions outside of this Privacy Policy and will be as stated in the applicable Private Agreement. 
 
-Effective Date 4.07.11
+Effective Date 3.16.14
