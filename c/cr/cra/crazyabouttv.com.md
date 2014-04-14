@@ -1,15 +1,9 @@
-> *The following text is extracted and transformed from the crazyabouttv.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122150641id_/http%3A//www.crazyabouttv.com/miscpages/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyabouttv.com privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414020554id_/http%3A//www.crazyabouttv.com/miscpages/privacypolicy.html) for the most accurate reproduction.*
 
 # CrazyAboutTV.com Privacy Policy
 
 |     | 
 
-**Privacy Policy**   
-**CrazyAboutTV.com**
-
-  
-  
-  
 At CrazyAboutTV.com, we respect your privacy and make every effort to protect it while you are visiting our site. The vast majority of websites on the internet collect information about you when you visit. The information is generally utilized to provide the webmaster with information that enables them to better run their site. Another purpose for gathering information about you is to provide you with information aimed at your specific interests. The only piece of information we collect that may identify you personally is your IP address and the only reason we use that information is in the case of someone spamming our forum, hacking our site or engaging in some other unethical or illegal activity. In no case do we sell any information collected at our site to any third party. 
 
 ## Log Files:
@@ -30,5 +24,5 @@ We sometimes link to other sites. We have no control over the privacy policies o
 
 ## Contact Us:
 
-If you have any questions about our privacy policy feel free to contact us at admin@crazyabouttv.com. Please do not spam our email. We cherish our privacy too.  [](http://www.facebook.com/CrazyAboutTV) Copyright © 1997-2013 CrazyAboutTV.com  
+If you have any questions about our privacy policy feel free to contact us at admin@crazyabouttv.com. Please do not spam our email. We cherish our privacy too.  Copyright © 1997-2014 CrazyAboutTV.com  
 All rights reserved 
