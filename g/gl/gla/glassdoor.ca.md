@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glassdoor.ca privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430025417id_/http%3A//www.glassdoor.ca/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassdoor.ca privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415013442id_/http%3A//www.glassdoor.ca/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Glassdoor.ca
 
@@ -67,7 +67,7 @@ We use your Facebook Information in the following ways:
 
 ### Professional Profile
 
-Your Professional Profile (“ **Profile** ”) is your business card and professional resume for use with the App. You may use you Facebook Information to complete a Profile that is shared with other App users and Community members. You may access, update, change or remove your Profile information at any time by logging into your account and following the instructions to Edit Profile. 
+Your Professional Profile (“ **Profile** ”) is your business card and professional `resume` for use with the App. You may use you Facebook Information to complete a Profile that is shared with other App users and Community members. You may access, update, change or remove your Profile information at any time by logging into your account and following the instructions to Edit Profile. 
 
 ### Communications through the App
 
@@ -81,7 +81,7 @@ Your Profile and Facebook Information may be publicly available to anyone using 
 
 You can delink your preexisting Glassdoor account from your Facebook account and Profile by logging into Glassdoor and changing your account settings from within My Account. If you wish to remove your information permanently, please first remove the App from Facebook. You can use your Facebook App Settings to remove the App from Facebook or turn off all platform apps on Facebook by editing your Facebook Privacy Settings. We will use reasonable efforts to find out from Facebook when you remove the application or turn off all platform apps. 
 
-If you want to delete or remove your Facebook Information permanently, you may send an e-mail to privacysupport@glassdoor.com or through [Contact Us](https://web.archive.org/about/contact_input.htm). Please include "Delete my Facebook Information" in the subject line and your full name and e-mail address in the body of the e-mail. We will respond to or act on your request in a timely manner, normally within thirty (30) days. Please note that some information may not be deleted from all databases and backup records. If you have posted content on or through the App, we may not be able to delete it. Even after we your information, copies may remain viewable elsewhere to the extent it has been shared publicly, with connections, friends, friends of friends, or was copied or stored by others. We may also retain certain information for customer service, legal and similar business purposes. We will also retain logs, demographic, indirect, and statistical information that may relate to you but do not identify you personally. 
+If you want to delete or remove your Facebook Information permanently, you may send an e-mail to [privacysupport@glassdoor.com](mailto:72i6179su%70po%72t@g%6ca73%64o%6f%72%2ec%6f%6d) or through [Contact Us](https://web.archive.org/about/contact_input.htm). Please include "Delete my Facebook Information" in the subject line and your full name and e-mail address in the body of the e-mail. We will respond to or act on your request in a timely manner, normally within thirty (30) days. Please note that some information may not be deleted from all databases and backup records. If you have posted content on or through the App, we may not be able to delete it. Even after we your information, copies may remain viewable elsewhere to the extent it has been shared publicly, with connections, friends, friends of friends, or was copied or stored by others. We may also retain certain information for customer service, legal and similar business purposes. We will also retain logs, demographic, indirect, and statistical information that may relate to you but do not identify you personally. 
 
 ### Invite a Friend
 
@@ -103,7 +103,7 @@ We may also use your Personal Information to provide you with announcements, not
 
 We may create anonymised information from Personal Information by excluding information (such as your name) that makes the information personally identifiable to you. We may use this anonymised information for internal purposes, such as analysing usage patterns so that we may enhance the Services, and we also reserve the right to use and disclose such anonymised information at our discretion. 
 
-If you choose to use our service to tell a friend about our site, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. We store this information for the sole purpose of sending this one-time email and ensuring multiple invitations are not sent. Your friend may contact us at privacysupport@glassdoor.com or through [Contact Us](https://web.archive.org/about/contact_input.htm) to request that we remove this information from our database. 
+If you choose to use our service to tell a friend about our site, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. We store this information for the sole purpose of sending this one-time email and ensuring multiple invitations are not sent. Your friend may contact us at [privacysupport@glassdoor.com](mailto:72i6179su%70po%72t@g%6ca73%64o%6f%72%2ec%6f%6d) or through [Contact Us](https://web.archive.org/about/contact_input.htm) to request that we remove this information from our database. 
 
 ## **Public Postings**
 
@@ -137,7 +137,7 @@ We may send you service-related announcements when we believe it is necessary to
 
 We may notify you when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party. 
 
-You may request that your Account be terminated and that your Personal Information be deleted by sending an email to privacysupport@glassdoor.com or through [Contact Us](https://web.archive.org/about/contact_input.htm). Any termination of your account may involve deletion of your Account information from our live databases and all the information and data stored for such Account in the Services. Glassdoor will not have any liability whatsoever to you for any termination of your account or related deletion of you information. 
+You may request that your Account be terminated and that your Personal Information be deleted by sending an email to [privacysupport@glassdoor.com](mailto:72i6179su%70po%72t@g%6ca73%64o%6f%72%2ec%6f%6d) or through [Contact Us](https://web.archive.org/about/contact_input.htm). Any termination of your account may involve deletion of your Account information from our live databases and all the information and data stored for such Account in the Services. Glassdoor will not have any liability whatsoever to you for any termination of your account or related deletion of you information. 
 
 When we delete Personal Information that we have collected from or about you, it will be deleted from our active databases but may remain in our archives. 
 
@@ -171,7 +171,7 @@ We reserve the right to modify this statement at any time, so please review it f
 
 ## **Contact Us**
 
-If you have any questions or suggestions regarding our Privacy Policy please contact us by sending us an e-mail to privacysupport@glassdoor.com or through [Contact Us](https://web.archive.org/about/contact_input.htm). 
+If you have any questions or suggestions regarding our Privacy Policy please contact us by sending us an e-mail to [privacysupport@glassdoor.com](mailto:72i6179su%70po%72t@g%6ca73%64o%6f%72%2ec%6f%6d) or through [Contact Us](https://web.archive.org/about/contact_input.htm). 
 
 Glassdoor
 
