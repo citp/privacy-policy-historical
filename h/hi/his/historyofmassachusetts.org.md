@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historyofmassachusetts.org privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205085221id_/http%3A//historyofmassachusetts.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historyofmassachusetts.org privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415013326id_/http%3A//historyofmassachusetts.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | History of Massachusetts
 
@@ -28,4 +28,4 @@ About Google advertising: What is the DoubleClick DART cookie? The DoubleClick D
 
 Contact Information
 
-Concerns or questions about this privacy policy can be directed to rebekahbeatrice@gmail.com for further clarification.
+Concerns or questions about this privacy policy can be directed to historyofmassachusetts@gmail.com for further clarification.
