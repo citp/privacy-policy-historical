@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the review-bonus.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207052734id_/http%3A//review-bonus.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the review-bonus.com privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414184311id_/http%3A//review-bonus.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # R&Bl Privacy Policy
 
@@ -64,7 +64,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions:**
 
-Please also visit our [Terms and Conditions section](https://web.archive.org/web/20131207052734id_/http%3A//review-bonus.com/terms-and-conditions.html) establishing the use, disclaimers, and limitations of liability governing the use of our website at http://review-bonus.com.
+Please also visit our [Terms and Conditions section](https://web.archive.org/web/20140414184311id_/http%3A//review-bonus.com/terms-and-conditions.html) establishing the use, disclaimers, and limitations of liability governing the use of our website at http://review-bonus.com.
 
 **Your Consent:**
 
