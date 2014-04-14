@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the animestatic.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201192741id_/http%3A//www.animestatic.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animestatic.com privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414104001id_/http%3A//www.animestatic.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Watch Anime Online - English Dubbed Anime - Free Anime Episodes
-
-Game advertisements by [Game Advertising Online](http://www.game-advertising-online.com) require iframes.
-
-Animestatic has made our Youtube video featuring pictures of our loyal fans! **[WATCH IT HERE](http://www.animestatic.org/news/animestatic-youtube-video/)**! 
 
 **What information does Animestatic collect?**
 
@@ -34,23 +30,3 @@ By using our site, you consent to our privacy policy.
 
 **Changes to our Privacy Policy**  
 Animestatic.Com reserves the right to make any changes to our Privacy Policy, at any time. If and when we decide to change our privacy policy, we will post those changes on this page, with an update that can be viewed site-wide.
-
-Game advertisements by [Game Advertising Online](http://www.game-advertising-online.com) require iframes.
-
-**Frequently Asked Questions**
-
-**Question:** When I load the page, there aren't any videos being displayed. What happened?
-
-**Answer:** _Every episode has videos with multiple [often 5+] mirrors. If, after refreshing the page, there are still no videos, please try clearing your cache, and flushing your DNS._
-
-\--------------------
-
-**Question:** The video is loading slow/not loading.
-
-**Answer:** _That's either a connection problem on your end, or the source website is loading slow. If the video is taking too long to load, simply try a mirror, as each mirror is a different source website. If the video isn't loading at all, or is coming up with an error, please report it so we can look into it further._
-
-\--------------------
-
-**Question:** I keep getting a "You have watched 72 minutes of video" message. What does it mean?
-
-**Answer:** _If you want to bypass the Megavideo time limit, then you should invest in a Megavideo Premium account. Either that, or swap to another mirror, watch an hour of video on another source, then go back to Megavideo. There will always be mirrors for episodes, so you'll always have another source to avoid the 72 minute cap._
