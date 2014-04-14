@@ -1,37 +1,47 @@
-> *The following text is extracted and transformed from the essanteworldwide.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419130032id_/http%3A//www.essanteworldwide.com/content.aspx%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essanteworldwide.com privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414043426id_/http%3A//www.essanteorganics.com/privacy.aspx) for the most accurate reproduction.*
 
-# 
+# Essanté ORGANICS Home
 
-### What information do we collect? How do we use it?
+Essante Organics, Inc is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Essante Organics, Inc Web site and governs data collection and usage. By using the Essante Organics, Inc website, you consent to the data practices described in this statement.
 
-When you request information about a product or service or register with one of our sites, we may need to know specific information about you. This enables us to process your registration/ requests and reply to your needs promptly.
+Collection of your Personal Information
 
-Our site's registration and survey forms require users to give us contact information (like your name, e-mail and address) and demographic information (like your zip code, age, or position). We may use the contact information from these registration and survey forms to send you information about our organization. Users may opt-out of receiving future mailings. See the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor your experience at our sites and distribute content that we think you might be interested in.
+Essante Organics, Inc collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Essante Organics, Inc also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-When you order products or services from Essante Worldwide Web site, we need to know your name, e-mail address, mailing address, credit card number, and expiration date. This allows us to process and fulfill your order and to notify you of your order status. To learn more about our encryption policies, please review the section on "How does Essante Worldwidel protect customer information?"
+There is also information about your computer hardware and software that is automatically collected by Essante Organics, Inc. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Essante Organics, Inc for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Essante Organics, Inc Web site.
 
-We monitor customer traffic patterns and site usage to help us develop the design and layout of Essante Worldwide Web site. We may also use the information we collect to occasionally notify you about important changes to the Web site, new services offered by Essante Worldwide, and special offers and information we think you will find valuable. If you would rather not receive this information, please contact us through one of the channels identified in the choice/opt out section.
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Essante Organics, Inc public message boards, this information may be collected and used by others. Note: Essante Organics, Inc does not read any of your private online communications.
 
-### How does Essante Worldwide protect customer information?
+Essante Organics, Inc encourages you to review the privacy statements of Web sites you choose to link to from Essante Organics, Inc so that you can understand how those Web sites collect, use and share your information. Essante Organics, Inc is not responsible for the privacy statements or other content on Web sites outside of the Essante Organics, Inc and Essante Organics, Inc family of Web sites.
 
-When you place orders or access your account information, we use a secure server. This secure server software, SSL (Secure Sockets Layer) encrypts all information you input before it is sent to us. Furthermore, all of the customer transactional data we collect is protected against unauthorized access with the use of digital certificates. Digital certificates for Essante Worldwide are issued by VeriSign, one of the most established signers of digital certificates. To learn more about our online security, simply click on the "Security" icon in your browser tool bar.
+Use of your Personal Information
 
-### What about "cookies"?
+Essante Organics, Inc collects and uses your personal information to operate the Essante Organics, Inc Web site and deliver the services you have requested. Essante Organics, Inc also uses your personally identifiable information to inform you of other products or services available from Essante Organics, Inc and its affiliates. Essante Organics, Inc may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. Even without accepting cookies, you can still use most of the features throughout Essante Worldwide Web site.
+Essante Organics, Inc does not sell, rent or lease its customer lists to third parties. Essante Organics, Inc may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Essante Organics, Inc may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Essante Organics, Inc, and they are required to maintain the confidentiality of your information.
 
-Our site may use cookies to keep track of your shopping cart and to make sure you don't see the same advertisement or content repeatedly. We use cookies to deliver information specific to your interests and to save your password so you don't have to re-enter it each time you visit our site.
+Essante Organics, Inc does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
-### Will Essante Worldwide disclose the information it collects to outside parties?
+Essante Organics, Inc keeps track of the Web sites and pages our customers visit within Essante Organics, Inc, in order to determine what Essante Organics, Inc services are the most popular. This data is used to deliver customized content and advertising within Essante Organics, Inc to customers whose behavior indicates that they are interested in a particular subject area.
 
-Essante Worldwide does not sell, trade, or rent your personal information to others. (If you use more than one e-mail address, send this message from each e-mail account you use.)
+Essante Organics, Inc Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Essante Organics, Inc or the site; (b) protect and defend the rights or property of Essante Organics, Inc; and, (c) act under exigent circumstances to protect the personal safety of users of Essante Organics, Inc, or the public.
 
-### Choice/Opt-Out
+Use of Cookies
 
-Our site provides users the opportunity to opt-out of receiving communications from Essante Worldwide and our partners at the point where we request information about the visitor.
+The Essante Organics, Inc Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-This site allows the following options for removing your information from our database. If you do so, you will not receive future communications from us. Please review our contact us for information on how to contact Essante Worldwide.
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Essante Organics, Inc pages, or register with Essante Organics, Inc site or services, a cookie helps Essante Organics, Inc to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Essante Organics, Inc Web site, the information you previously provided can be retrieved, so you can easily use the Essante Organics, Inc features that you customized.
 
-### Your consent
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Essante Organics, Inc services or Web sites you visit.
 
-By using our Web site, you consent to the collection and use of this information by Essante Worldwide. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+Security of your Personal Information
+
+Essante Organics, Inc secures your personal information from unauthorized access, use or disclosure. Essante Organics, Inc secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+
+Changes to this Statement
+
+Essante Organics, Inc will occasionally update this Statement of Privacy to reflect company and customer feedback. Essante Organics, Inc encourages you to periodically review this Statement to be informed of how Essante Organics, Inc is protecting your information.
+
+Contact Information
+
+Essante Organics, Inc welcomes your comments regarding this Statement of Privacy. If you believe that Essante Organics, Inc has not adhered to this Statement, please contact Essante Organics, Inc at [angie@essanteworldwide.com](mailto:angie@essanteworldwide.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
