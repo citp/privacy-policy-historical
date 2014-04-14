@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the topgolf.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225232842id_/http%3A//topgolf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topgolf.com privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414182646id_/http%3A//topgolf.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TopGolf
+# Privacy Policy | Topgolf
 
 _UPDATED: July 11, 2013_
 
