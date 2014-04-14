@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loanworkout.org privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025090115id_/http%3A//loanworkout.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loanworkout.org privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414070620id_/http%3A//loanworkout.org/privacy-policy) for the most accurate reproduction.*
 
-# Legal & Privacy | Loan Calculator
+# Legal & Privacy | Loan Calculators
 
 The comments, posts, threads and material on this websites are NOT to be taken as legal advice and we highly recommend that anyone facing foreclosure should seek the counsel of an attorney and or an accountant. ALWAYS obtain a second and third opinion on your particular situation from a trusted source. We will not be held liable for any material, comments, posts, threads, emails or any communication made while your visit LoanWorkout.org. 
 
