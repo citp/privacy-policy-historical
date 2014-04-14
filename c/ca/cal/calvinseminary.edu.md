@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calvinseminary.edu privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219163705id_/https%3A//calvinseminary.edu/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calvinseminary.edu privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414133845id_/https%3A//calvinseminary.edu/about/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Calvin Theological Seminary
 
