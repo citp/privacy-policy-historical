@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the clubsys.net privacy policy that was archived on 2013-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131205014423id_/http%3A//www.clubsys.net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clubsys.net privacy policy that was archived on 2014-04-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140414054004id_/http%3A//www.clubsys.net/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
 <link rel="stylesheet" type="text/css" href="/plugins/editors/jckeditor/typography/typography.php">
@@ -43,7 +43,7 @@ var isRTL = false;
   <script src="/media/system/js/caption.js" type="text/javascript"></script>
   <script src="/plugins/system/jat3/jat3/base-themes/default/js/core.js" type="text/javascript"></script>
   <script src="/plugins/system/jat3/jat3/base-themes/default/js/menu/mega.js" type="text/javascript"></script>
-  <script src="/media/com_acymailing/js/acymailing_module.js?v=441" type="text/javascript"></script>
+  <script src="/media/com_acymailing/js/acymailing_module.js?v=451" type="text/javascript"></script>
   <script type="text/javascript">
 document.addEvent('domready', function() {
 	new Skyline_ScrollToTop({
@@ -66,6 +66,11 @@ window.addEvent('load', function() {
 				acymailing['CAPTCHA_MISSING'] = 'Please enter the security code displayed in the image';
 				acymailing['NO_LIST_SELECTED'] = 'Please select the lists you want to subscribe to';
 		
+function refreshCaptchaModule(){
+		var captchaLink = document.getElementById('captcha_picture_formAcymailing44451').src;myregexp = new RegExp('val-([0-9]+)');
+		valToChange=captchaLink.match(myregexp)[1];
+		document.getElementById('captcha_picture_formAcymailing44451').src = captchaLink.replace(valToChange,valToChange+'0');
+	}
   </script>
 
 <!--[if ie]><link href="/plugins/system/jat3/jat3/base-themes/default/css/template-ie.css" type="text/css" rel="stylesheet" /><![endif]--> 
@@ -360,15 +365,16 @@ window.addEvent('load', function() {
     	<div class="ja-moduletable moduletable  clearfix" id="Mod108">
 						<h3><span>Newsletter</span></h3>
 				<div class="ja-box-ct clearfix">
-		<div class="acymailing_module" id="acymailing_module_formAcymailing67051">
-	<div class="acymailing_fulldiv" id="acymailing_fulldiv_formAcymailing67051">
-		<form id="formAcymailing67051" action="/privacy-policy" onsubmit="return submitacymailingform('optin','formAcymailing67051')" method="post" name="formAcymailing67051">
+		<div class="acymailing_module" id="acymailing_module_formAcymailing44451">
+	<div class="acymailing_fulldiv" id="acymailing_fulldiv_formAcymailing44451">
+		<form id="formAcymailing44451" action="/privacy-policy" onsubmit="return submitacymailingform('optin','formAcymailing44451')" method="post" name="formAcymailing44451">
 		<div class="acymailing_module_form">
-			<span class="acymailing_introtext">Make sure you dont miss interesting happenings by joining our newsletter program.</span>						<div class="acymailing_form">
-					<p class="onefield fieldacyemail" id="field_email_formAcymailing67051">								<span class="acyfield_email"><input id="user_email_formAcymailing67051" onfocus="if(this.value == 'E-mail') this.value = '';" onblur="if(this.value=='') this.value='E-mail';" class="inputbox" type="text" name="user[email]" style="width:80%" value="E-mail"></span>
+			<div class="acymailing_introtext">Make sure you dont miss interesting happenings by joining our newsletter program.</div>						<div class="acymailing_form">
+					<p class="onefield fieldacyemail" id="field_email_formAcymailing44451">								<span class="acyfield_email"><input id="user_email_formAcymailing44451" placeholder="E-mail" class="inputbox" type="text" name="user[email]" style="width:80%" value=""></span>
 							</p>
+					
 					<p class="acysubbuttons">
-												<input class="button subbutton btn btn-primary" type="submit" value="Subscribe" name="Submit" onclick="try{ return submitacymailingform('optin','formAcymailing67051'); }catch(err){alert('The form could not be submitted '+err);return false;}">
+												<input class="button subbutton btn btn-primary" type="submit" value="Subscribe" name="Submit" onclick="try{ return submitacymailingform('optin','formAcymailing44451'); }catch(err){alert('The form could not be submitted '+err);return false;}">
 											</p>
 				</div>
 						<input type="hidden" name="ajax" value="0">
@@ -378,7 +384,7 @@ window.addEvent('load', function() {
 			<input type="hidden" name="redirectunsub" value="http%3A%2F%2Fwww.clubsys.net%2Fprivacy-policy">
 			<input type="hidden" name="option" value="com_acymailing">
 						<input type="hidden" name="hiddenlists" value="1">
-			<input type="hidden" name="acyformname" value="formAcymailing67051">
+			<input type="hidden" name="acyformname" value="formAcymailing44451">
 									</div>
 		</form>
 	</div>
@@ -400,15 +406,14 @@ window.addEvent('load', function() {
 	<li class="phone">
 		<strong>Hot line: </strong><span>(+44)123-343-4057</span> <img alt="" src="/images/en.gif" style="width: 15px; height: 10px;"></li>
 	<li class="email">
-		<strong>Email: </strong> 
- <script type="text/javascript">
+		<strong>Email: </strong> <script type="text/javascript">
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy30708 = 's&#97;l&#101;s' + '&#64;';
- addy30708 = addy30708 + 'cl&#117;bsys' + '&#46;' + 'n&#101;t';
- document.write('<a ' + path + '\'' + prefix + ':' + addy30708 + '\'>');
- document.write(addy30708);
+ var addy78878 = 's&#97;l&#101;s' + '&#64;';
+ addy78878 = addy78878 + 'cl&#117;bsys' + '&#46;' + 'n&#101;t';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy78878 + '\'>');
+ document.write(addy78878);
  document.write('<\/a>');
  //-->\n </script><a href="mailto:sales@clubsys.net">sales@clubsys.net</a><script type="text/javascript">
  <!--
@@ -476,8 +481,7 @@ window.addEvent('load', function() {
                         <div id="ja-footer" class="wrap ">
                    <div class="main clearfix">
            <div class="ja-copyright">
-    <small>Copyright © 2013 ClubSys - Club Management Software. All Rights Reserved..</small>
-
+    <small>Copyright © 2014 ClubSys - Club Management Software. All Rights Reserved. Powered by <a href="http://www.clubsys.net/" title="Club Management Software UAE, Qatar, Bahrain, UK, USA, India" rel="nofollow">ClubSys</a>.</small>
 
 
 
