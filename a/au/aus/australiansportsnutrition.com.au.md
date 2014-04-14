@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australiansportsnutrition.com.au privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816020810id_/http%3A//www.australiansportsnutrition.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australiansportsnutrition.com.au privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414223016id_/http%3A//www.australiansportsnutrition.com.au/privacy.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -60,11 +60,13 @@ Australian Sports Nutrition is dedicated to keeping personal information secure.
 
 
 
-  * You can advise us if you would prefer not to be directly contacted by Australian Sports Nutrition or would like to request an update or correction of the information we hold on you, please contact us on [info@asn.com.au ](https://web.archive.org/web/20130816020810id_/http%3A//www.australiansportsnutrition.com.au/contact.php?Store=Southport) and provide your details or alternatively, contact head office on (07) 5532 1199. 
+  * You can advise us if you would prefer not to be directly contacted by Australian Sports Nutrition or would like to request an update or correction of the information we hold on you, please contact us on [info@asn.com.au ](https://web.archive.org/web/20140414223016id_/http%3A//www.australiansportsnutrition.com.au/contact.php?Store=Southport) and provide your details or alternatively, contact head office on (07) 5532 1199. 
 
 
 
   * Winners' details and a description of the prizes will be entered on a database to comply with record-keeping requirements of relevant Australian State and Territory lotteries and gaming legislation. Details will also be published in accordance with the terms and conditions of each promotion
+
+
 
 
 **Disclosure**
@@ -84,7 +86,7 @@ Australian Sports Nutrition does not sell, rent or otherwise make available any 
 
 **Access and correction of details**
 
-You may access personal information Australian Sports Nutrition holds on you by contacting the Privacy Officer in writing on [info@asn.com.au](https://web.archive.org/web/20130816020810id_/http%3A//www.australiansportsnutrition.com.au/contact.php?Store=Southport). If the information held is inaccurate, incomplete or not up to date you may request Australian Sports Nutrition to correct the information. If you are concerned about a possible interference with your privacy, please contact the Privacy Officer, by completing the 'Contact Us' form available on [www.asn.com.au](https://web.archive.org/web/20130816020810id_/http%3A//www.australiansportsnutrition.com.au/contact.php).
+You may access personal information Australian Sports Nutrition holds on you by contacting the Privacy Officer in writing on [info@asn.com.au](https://web.archive.org/web/20140414223016id_/http%3A//www.australiansportsnutrition.com.au/contact.php?Store=Southport). If the information held is inaccurate, incomplete or not up to date you may request Australian Sports Nutrition to correct the information. If you are concerned about a possible interference with your privacy, please contact the Privacy Officer, by completing the 'Contact Us' form available on [www.asn.com.au](https://web.archive.org/web/20140414223016id_/http%3A//www.australiansportsnutrition.com.au/contact.php).
 
 **Changes to the Privacy Policy**
 
