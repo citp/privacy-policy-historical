@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eaglesofdeathmetal.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007015133id_/http%3A//www.eaglesofdeathmetal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eaglesofdeathmetal.com privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414090133id_/http%3A//eaglesofdeathmetal.com/privacy) for the most accurate reproduction.*
 
 # Eagles of Death Metal Official : PRIVACY POLICY FOR CLIENTS 1/13/2013
 
@@ -10,7 +10,7 @@ As of 01-10-2013
 
 Eagles of Death Metal Official has created this Privacy Policy in order to demonstrate our firm commitment to protecting personal information. The following discloses our information gathering and dissemination practices relating to a website located at http://eaglesofdeathmetal.com (the “Site” or the “Website”) and any mobile applications and other services that we may make available from time to time (collectively, the “Services”). The information you provide on this Site will not be shared other than as outlined in this Privacy Policy. By using the Services, you consent to the collection and use by us of any personal and other information you provide whilst using the Services in accordance with our Privacy Policy (this “Privacy Policy”). If you do not agree to the Privacy Policy, please do not use the Services.
 
-Please carefully read our Privacy Policy and [Terms and Conditions](https://web.archive.org/web/20131007015133id_/http%3A//www.eaglesofdeathmetal.com/privacy?page=tc).
+Please carefully read our Privacy Policy and [Terms and Conditions](https://web.archive.org/web/20140414090133id_/http%3A//eaglesofdeathmetal.com/privacy?page=tc).
 
 This Website presents information and content that is owned, licensed, or provided by Eagles of Death Metal Official its subsidiaries and affiliates ("Administrator"). The Site may also include services provided by third parties and distributed through the Site by virtue of a license, grant or some other form of agreement between the third party and Administrator. When used in this Privacy Policy, "we", “us” and "our" mean Administrator.
 
