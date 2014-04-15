@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glassdoor.com.au privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826075601id_/http%3A//www.glassdoor.com.au/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassdoor.com.au privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415160110id_/http%3A//www.glassdoor.com.au/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Glassdoor.com.au
 
@@ -67,7 +67,7 @@ We use your Facebook Information in the following ways:
 
 ### Professional Profile
 
-Your Professional Profile (“ **Profile** ”) is your business card and professional resume for use with the App. You may use you Facebook Information to complete a Profile that is shared with other App users and Community members. You may access, update, change or remove your Profile information at any time by logging into your account and following the instructions to Edit Profile. 
+Your Professional Profile (“ **Profile** ”) is your business card and professional `resume` for use with the App. You may use you Facebook Information to complete a Profile that is shared with other App users and Community members. You may access, update, change or remove your Profile information at any time by logging into your account and following the instructions to Edit Profile. 
 
 ### Communications through the App
 
