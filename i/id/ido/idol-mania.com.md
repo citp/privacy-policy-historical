@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idol-mania.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120033140id_/http%3A//idol-mania.com/american-idol-fan/privacy-policy-for-idol-maniacom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idol-mania.com privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415133056id_/http%3A//idol-mania.com/american-idol-fan/privacy-policy-for-idol-maniacom) for the most accurate reproduction.*
 
 # Privacy Policy for Idol-Mania.com
 
@@ -46,7 +46,7 @@ Help Support Idol-Mania Blog –
 
 [ Get Your American Idol CD’s, DVD’s and Merchandise ](http://astore.amazon.com/idol-store-20)
 
-[American Idol 2013 Season 12](http://idol-mania.com/american-idol-fan/)
+[American Idol 2014 Season 13](http://idol-mania.com/american-idol-fan/)
 
 _
 
