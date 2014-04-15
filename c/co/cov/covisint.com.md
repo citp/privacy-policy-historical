@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the covisint.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217055827id_/http%3A//www.covisint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covisint.com privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415214517id_/http%3A//www.covisint.com/privacy) for the most accurate reproduction.*
 
 # Privacy - www.covisint.com
 
