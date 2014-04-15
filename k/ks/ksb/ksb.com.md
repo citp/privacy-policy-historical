@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ksb.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214222402id_/http%3A//www.ksb.com/ksb-en/Legal_Information/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksb.com privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415084420id_/http%3A//www.ksb.com/ksb-en/Legal_Information/Privacy-Statement) for the most accurate reproduction.*
 
 # KSB - Legal Information - Privacy Statement
 
