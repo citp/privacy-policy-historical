@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mileskimball.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626010525id_/http%3A//www.mileskimball.com/mileskimball/customerservice/faq.aspx%23SecurityandPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mileskimball.com privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415094537id_/http%3A//www.mileskimball.com/mileskimball/customerservice/faq.aspx%23SecurityandPrivacy) for the most accurate reproduction.*
 
 # Frequently Asked Questions - Miles Kimball
 
@@ -13,7 +13,7 @@
   * Returns
   * Services
   * Toy Safety
-  * Canada
+  * International
   * Processing
   * Auto Refill
   * Gift Certificates
@@ -43,7 +43,7 @@ Attn: Product Ideas
 Oshkosh, WI 54906  
 [newideas@mileskimball.com](mailto:newideas@mileskimball.com)
 
-Please submit all customer service issues by [CLICKING HERE](https://web.archive.org/web/20130626010525id_/http%3A//www.mileskimball.com/mileskimball/customerservice/contactus.aspx). 
+Please submit all customer service issues by [CLICKING HERE](https://web.archive.org/web/20140415094537id_/http%3A//www.mileskimball.com/mileskimball/customerservice/contactus.aspx). 
 
 How do I get to the Miles Kimball locations?
 
@@ -81,13 +81,13 @@ What is the Miles Kimball Environmental Policy?
 
 Did you know?
 
-* Miles Kimball Company has invested $150,000 in lighting upgrades at the distribution center that has resulted in the annual electricity savings of 1,100,000 kilowatt hours. This is the equivalent of providing electricity to 100 homes or the energy of 1990 barrels of oil. The impact of this project is reducing our carbon footprint by 2,522,920lbs of CO2 annually. [Click here for more detail](https://web.archive.org/web/20130626010525id_/http%3A//www.mileskimball.com/mileskimball/images/docs/Copy%20of%20Environmental%20Emissions%20Equivalents.xls).  
+* Miles Kimball Company has invested $150,000 in lighting upgrades at the distribution center that has resulted in the annual electricity savings of 1,100,000 kilowatt hours. This is the equivalent of providing electricity to 100 homes or the energy of 1990 barrels of oil. The impact of this project is reducing our carbon footprint by 2,522,920lbs of CO2 annually. [Click here for more detail](https://web.archive.org/web/20140415094537id_/http%3A//www.mileskimball.com/mileskimball/images/docs/Copy%20of%20Environmental%20Emissions%20Equivalents.xls).  
 * Miles Kimball Company uses corrugate shipping containers made from over 60% post consumer content.  
 * Miles Kimball Company is committed to recycling. Annually, our distribution center recycles 600 tons of cardboard and 60 tons of office paper.  
-* From 2005 to 2007 our use of lighter weight paper has reduced our total wood use by 1,472 tons, or 10,191 trees. The energy saved was 21,806 million BTU’s, enough to power 240 homes each year. Greenhouse gases were reduced the equivalent of 4,364,582 lbs CO2, or the emissions from 396 cars per year. Wastewater was reduced 10,219,474 gallons. [Click here for more details](https://web.archive.org/web/20130626010525id_/http%3A//www.mileskimball.com/mileskimball/images/docs/Paper%20Reduction%202005-2007.pdf).  
+* From 2005 to 2007 our use of lighter weight paper has reduced our total wood use by 1,472 tons, or 10,191 trees. The energy saved was 21,806 million BTU’s, enough to power 240 homes each year. Greenhouse gases were reduced the equivalent of 4,364,582 lbs CO2, or the emissions from 396 cars per year. Wastewater was reduced 10,219,474 gallons. [Click here for more details](https://web.archive.org/web/20140415094537id_/http%3A//www.mileskimball.com/mileskimball/images/docs/Paper%20Reduction%202005-2007.pdf).  
 * The Miles Kimball Foundation donates more than $100,000 each year to support charitable, scientific, literary and educational institutions
 
-[Click here to see our entire environmental policy and vision statement](https://web.archive.org/web/20130626010525id_/http%3A//www.mileskimball.com/mileskimball/CustomerService/Environmental_Policy.aspx). 
+[Click here to see our entire environmental policy and vision statement](https://web.archive.org/web/20140415094537id_/http%3A//www.mileskimball.com/mileskimball/CustomerService/Environmental_Policy.aspx). 
 
   
 
@@ -98,7 +98,7 @@ You cannot cancel your submitted order through our website at this time; please 
 
  **Phone: 1-855-202-7394**  
 Monday-Friday 8:00AM - 10:00PM   
-Saturday 8:00AM - 5:00PM (Central)
+Saturday and Sunday 8:00AM - 5:00PM (Central)
 
  **Email:[ csr@mileskimball.com](mailto:csr@mileskimball.com)**  
 Please allow 24 hours in turn-around time for an email response.
@@ -109,20 +109,20 @@ Yes! Please contact our Sales Department.
 
  **Phone: 1-855-202-7394**  
 Monday-Friday 6:00AM - 1:00AM  
-Saturday 6:00AM - 9:00PM  
-Sunday 9:00AM – 5:00PM (Central)
+Saturday and Sunday 6:00AM - 9:00PM (Central)
 
  **Email:[ csr@mileskimball.com](mailto:csr@mileskimball.com)**  
 Please allow 24 hours in turn-around time for an email response.
 
 Can I place an order online and send you a check?
 
-We do not offer that kind of payment option. However, you may download a [printable order form](https://web.archive.org/web/20130626010525id_/http%3A//www.mileskimball.com/mileskimball/images/docs/Miles%20Kimball%20Order%20Form.pdf) from the website and mail it in with a check. 
+We do not offer that kind of payment option. However, you may download a [printable order form](https://web.archive.org/web/20140415094537id_/http%3A//www.mileskimball.com/mileskimball/images/docs/Miles%20Kimball%20Order%20Form.pdf) from the website and mail it in with a check. 
 
 Do I have to pay sales tax?
 
-Miles Kimball collects the applicable sales tax on all orders shipped to Wisconsin.  
- **Colorado and Oklahoma Sales Tax**
+Miles Kimball collects the applicable sales tax on all orders shipped to Wisconsin.
+
+ **Colorado, Oklahoma and Kentucky Sales Tax**
 
 We do not collect sales or use taxes in all states. For states imposing sales or use taxes, your purchase is subject to use tax unless it is specifically exempt from taxation. Your purchase is not exempt merely because it is made over the Internet or by other remote means. Many states require purchasers to file a sales/use tax return at the end of the year reporting all of the taxable purchases that were not taxed and to pay tax on those purchases. Details of how to file these returns may be found at the websites of your respective taxing authorities.
 
@@ -130,11 +130,13 @@ For Oklahoma purchasers, the tax may be reported and paid on the Oklahoma indivi
 
 We may be required by Colorado law to provide purchasers an end-of-year summary of Colorado purchases in order to assist purchasers in filing their tax returns. We also may be required by law to provide the Colorado Department of Revenue with a report of the total amount of all your purchases at the end of the year. We will not provide any transactional details to the Department other than the total amount of your purchases.
 
-Some customers have asked why these new requirements exist. We are required to provide the notice and the reports described above for Colorado purchases based on a Colorado law (HB 1193) enacted in February 2010. We are required to provide the notice (but not the reports) above for Oklahoma purchases based on an Oklahoma law (HB 2359) enacted in June 2010. 
+For Kentucky purchasers, we are not required to and do not collect Kentucky sales or use tax, the purchase may be subject to Kentucky use tax unless the purchase is exempt from taxation in Kentucky, the purchase is not exempt merely because it is made over the internet, by catalog or by any other remote means. The Commonwealth of Kentucky requires Kentucky purchasers to report all purchases of tangible personal property or digital property that are not taxed by the retailer and pay use tax on those purchases unless exempt under Kentucky law. The tax may be reported and paid on the Kentucky individual income tax return or by filing a consumer use tax return with the Kentucky department of Revenue. These forms and corresponding instructions may be found on the Kentucky Department of Revenue’s internet web site.
+
+Some customers have asked why these new requirements exist. We are required to provide the notice and the reports described above for Colorado purchases based on a Colorado law (HB 1193) enacted in February 2010. We are required to provide the notice (but not the reports) above for Oklahoma purchases based on an Oklahoma law (HB 2359) enacted in June 2010. We are required to provide the notice and the reports described above for Kentucky purchases based on a Kentucky law (HB 440) enacted in October 2013. 
 
 Do I have to register to place an order?
 
-No, but you may register to start an online account with your own unique password during the checkout process. You may use this password to check on the status of your order. You may feel free to create an online account by clicking this link: [My Account](https://web.archive.org/web/20130626010525id_/http%3A//www.mileskimball.com/mileskimball/account/default.aspx). Please keep in mind that you will not be able to check your order history or the status of your order if you are not logged into your account at the time you submit an order. 
+No, but you may register to start an online account with your own unique password during the checkout process. You may use this password to check on the status of your order. You may feel free to create an online account by clicking this link: [My Account](https://web.archive.org/web/20140415094537id_/http%3A//www.mileskimball.com/mileskimball/account/default.aspx). Please keep in mind that you will not be able to check your order history or the status of your order if you are not logged into your account at the time you submit an order. 
 
 How do I check the status of my web order?
 
@@ -242,7 +244,7 @@ Yes, we will let you know about availability before you add a product to your ca
 
 I can't find an item on your website that I know I saw in your catalog. Can I still order it?
 
-Yes! Please call our customer service department at 1-855-202-7394 Monday-Friday 8:00AM - 10:00PM, Saturday 8:00AM - 5:00PM (Central) to check the availability of the product you wish to order. 
+Yes! Please call our customer service department at 1-855-202-7394 Monday-Friday 8:00AM - 10:00PM, Saturday and Sunday 8:00AM - 5:00PM (Central) to check the availability of the product you wish to order. 
 
 I can't find the product I am looking for. How do I search for it?
 
@@ -284,7 +286,7 @@ Please note that you may upload photos to accompany your order by following the 
 
 After I've typed in the personalization for a product, how do I review it to make sure it is correct?
 
-You can review personalization when you are on the [ Shopping Cart page](https://web.archive.org/web/20130626010525id_/http%3A//www.mileskimball.com/mileskimball/checkout/checkoutstep1a.aspx). If the personalization is incorrect, click on the Edit button and make any changes you need. 
+You can review personalization when you are on the [ Shopping Cart page](https://web.archive.org/web/20140415094537id_/http%3A//www.mileskimball.com/mileskimball/checkout/checkoutstep1a.aspx). If the personalization is incorrect, click on the Edit button and make any changes you need. 
 
 If I order a personalized product and non-personalized product, will I receive all merchandise in the same order or in multiple shipments?
 
@@ -310,7 +312,7 @@ USPS Priority Mail is for customers OUTSIDE THE CONTIGUOUS UNITED STATES ONLY. I
 
 Do you ship internationally?
 
-Yes, we will ship to APO and FPO address as well as Alaska, Hawaii, Puerto Rico, US Territories and Canada (see Canadian FAQs). Also, if you live outside the US and wish to ship to a US state or territory, we can arrange to have your order set up with a foreign billing address and US shipping address by calling Customer Service at 1-855-202-7394. 
+Yes, we will ship internationally in addition to APO and FPO addresses as well as Alaska, Hawaii, Puerto Rico, and other US Territories. 
 
 How do you ship orders?
 
@@ -324,7 +326,7 @@ Please see the Shipping Cost table below for standard shipping rates. Please not
 
   * Some of our larger items may require additional shipping charges as indicated in the product copy.
   * $3.99 will be added to your shopping cart for each package sent to an additional address.
-  * There may be additional charges for shipments to Canada (see Canadian FAQs).
+  * There may be additional charges for international shipments (see International FAQs).
   * To substantially decrease shipping time, it is recommended that shipments to Alaska, Hawaii, Puerto Rico and US Territories be done via USPS Priority Mail (see “Do you have express shipping?” above for more details)
   * We do ship to APO/FPO addresses.
 
@@ -358,7 +360,7 @@ If you receive a damaged or incorrectly personalized item, or if you are missing
 
  **Phone: 1-855-202-7394**  
 Monday- Friday 8:00AM – 10:00PM  
-Saturday 8:00AM - 5:00PM (Central) 
+Saturday and Sunday 8:00AM - 5:00PM (Central) 
 
 **Email:[csr@mileskimball.com](mailto:csr@mileskimball.com)**  
 Please allow 24 hours in turn-around time for an email response.
@@ -376,7 +378,7 @@ Return Goods
 2155 S. Oakwood Rd.  
 Oshkosh, WI 54906
 
- **Use a Pre-paid Shipping Label.** For your convenience we offer the option of printing a prepaid merchandise return label online. A $7.00 charge will be deducted from your refund for using this service. Simply click [HERE](https://web.archive.org/web/20130626010525id_/http%3A//www.mileskimball.com/mileskimball/customerservice/webonlyreturns.aspx), fill in your order specifics and personal information, and print the return label. Affix it to your package and drop the package off at one of the approved UPS locations found [HERE](http://www.ups.com/dropoff?autosubmit=1&loc=en_US&appid=XOLT&country=US&Postal=54901&trans_mode=001). 
+ **Use a Pre-paid Shipping Label.** For your convenience we offer the option of printing a prepaid merchandise return label online. A $7.00 charge will be deducted from your refund for using this service. Simply click [HERE](https://web.archive.org/web/20140415094537id_/http%3A//www.mileskimball.com/mileskimball/customerservice/webonlyreturns.aspx), fill in your order specifics and personal information, and print the return label. Affix it to your package and drop the package off at one of the approved UPS locations found [HERE](http://www.ups.com/dropoff?autosubmit=1&loc=en_US&appid=XOLT&country=US&Postal=54901&trans_mode=001). 
 
   
 
@@ -399,71 +401,71 @@ Safety is a priority for the Miles Kimball Company. All toys sold by Miles Kimba
   
 
 
-How do you ship to Canada?
+How do you ship internationally?
 
-Miles Kimball fulfills online Canadian orders through our partner, Borderfree. Simply add items to your order and click on Canadian Check Out to complete your order. You will see your total landed price including all duties, taxes, shipping and handling charges in Canadian dollars before you place your order. You will pay Borderfree the total amount for your order in Canadian dollars (which means that they will bill your credit card) and we will ensure that products get right to your door. If you have any questions about Canadian orders, please contact our Customer Service Department.
+Miles Kimball fulfills online international orders through our partner, Borderfree. Simply add items to your order and click on international check out to complete your order. You will see your total landed price including all duties, taxes, shipping and handling charges in your currency before you finalize your order. You will pay Borderfree the total amount for your order in your currency (which means that they will bill your credit card) and we will ensure that products get right to your door. If you have any questions about your international order, please contact our Customer Service Department.
 
  **Phone: 1-855-202-7394**  
 Monday-Friday 8:00AM - 10:00PM  
-Saturday 8:00AM - 5:00PM (Central)
+Saturday and Sunday 8:00AM - 5:00PM (Central)
 
  **Email:[csr@mileskimball.com](mailto:csr@mileskimball.com)**  
-Please allow 24 hours in turn-around time for an email response. 
+Please allow 24 hours in turn-around time for an email response. All responses to customer service questions will be in English 
 
-How much duty do you charge on Canadian orders?
+How much duty do you charge on international orders?
 
-Determining your duty rates depends on many factors (Product, Country in which the product was manufactured, etc.). To know the exact duty charges before you buy, simply add items to your order and check out through our "Canadian Check Out." You will see the exact duty charges prior to submitting the order. 
+Determining your duty rates depends on many factors (Product, Country in which the product was manufactured, etc.). To know the exact duty charges before you buy, simply add items to your order and check out through our "International Check Out." You will see the exact duty charges prior to submitting the order. 
 
 How much tax will I be charged on my order?
 
-The tax rate applied depends on your ship-to destination. Please refer to the following chart to determine the relevant rate for you. Province of Delivery |  GST |  PST |  HST   
+The tax rate applied depends on your ship-to destination. Please refer to the following chart to determine the relevant rate for a Canadian order. Province of Delivery |  GST |  PST |  HST   
 ---|---|---|---  
 Alberta |  5% |  \- |  \-   
-BC |  \- |  \- |  12%   
+BC |  5% |  \- |  \-   
 Manitoba |  5% |  \- |  \-   
 New Brunswick |  \- |  \- |  13%   
 Newfoundland & Labrador |  \- |  \- |  13%   
-Northwest Territories |  5% |  \- |  \-   
+Northwest Territories |  6% |  \- |  \-   
 Nova Scotia |  \- |  \- |  15%   
 Nunavut |  5% |  \- |  \-   
 Ontario |  \- |  \- |  13%   
-Prince Edward Island |  5% |  \- |  \-   
+Prince Edward Island |  \- |  \- |  14%   
 Quebec |  5% |  \- |  \-   
 Saskatchewan |  5% |  \- |  \-   
 Yukon Territory |  5% |  \- |  \-   
   
-What are your shipping and handling charges for Canadian orders?
+What are your shipping and handling charges for international orders?
 
-Shipping and handling charges depend on the size and weight of your package and your ship-to destination. To know the exact shipping and handling charges before you buy, simply add items to your order and check out through our Canadian Check Out. Also included will be Processing. This is a flat fee to help defray the cost of handpicking your order. Processing will be included in the shipping and handling fee when you check out. We will tell you the exact charges for your desired item(s) before you actually place an order. 
+Shipping and handling charges depend on the size and weight of your package and your ship-to destination. To know the exact shipping and handling charges before you buy, simply add items to your order and check out through our International Check Out. Also included will be Processing. This is a flat fee to help defray the cost of handpicking your order. Processing will be included in the shipping and handling fee when you check out. We will tell you the exact charges for your desired item(s) prior to submitting the order. 
 
-What are my shipping options to Canada?
+What are my international shipping options?
 
-Miles Kimball offers the following shipping options to Canadian buyers: Shipping Method |  When in-stock items will arrive   
+Miles Kimball offers the following shipping options to international buyers: Shipping Method |  When in-stock items will arrive   
 ---|---  
-Standard |  6-13 business days (Monday through Friday, do not count weekends)*   
-Expedited |  6-8 business days (Monday through Friday, do not count weekends)*   
-Express |  5-8 business days (Monday through Friday, do not count weekends)*   
+Standard | Canada Post, 5-17 business days (Monday through Friday, do not count weekends)*   
+Expedited | DHL Express, 4-8 business days (Monday through Friday, do not count weekends)*   
+  
 *Add 2-3 days for orders with personalized items. 
 
 What will show up on my credit card statement?
 
-Your order will be billed to your credit card by our international service provider, Borderfree. "Miles Kimball WEB/PH ORDER BRDFREE" will appear as the billing company. 
+Your order will be billed to your credit card by our international service provider, Borderfree. "BF*MilesKimball*" will appear as the billing company. 
 
 When will I be billed?
 
-Your credit card will be billed by Borderfree once your order clears the Canadian border. 
+Your credit card will be billed by Borderfree once your order clears the border. 
 
 What exchange rate is applied to my orders?
 
-Real-time exchange rates are applied to your orders. The rate charged to you is a guaranteed amount - this will not change once you accept an order. To know the exact price before you buy, simply add items to your order and check out through our Canadian Check Out. You will see the exact price for your order in Canadian dollars before you actually place the order. 
+Real-time exchange rates are applied to your orders. The rate charged to you is a guaranteed amount - this will not change once you accept an order. To know the exact price before you buy, simply add items to your order and check out through our International Check Out. You will see the exact price for your order in your currency before you finalize the order. 
 
 How do I track my order?
 
-Within 24 hours of placing your order, you will receive an order confirmation email. When your package clears our international facility and is on its way to you, you will receive a shipment notification email that will include a link to track your package with the Canadian carrier. All other inquiries should be directed to [csr@mileskimball.com](mailto:csr@mileskimball.com). 
+Within 24 hours of placing your order, you will receive an order confirmation email. When your package clears our international facility and is on its way to you, you will receive a shipment notification email that will include a link to track your package. You may also track your international package directly through the Borderfree website [here](https://services.fiftyone.com/tracking.srv). All other inquiries should be directed to [csr@mileskimball.com](mailto:csr@mileskimball.com). All responses to customer service questions will be in English. 
 
-What is the returns policy for Canadian orders?
+What is the returns policy for international orders?
 
-All returns must be made within 45 days from the date that you receive the shipment. Personalized items cannot be returned for reasons other than defects in material or workmanship. If you have any damaged, missing, or incorrectly personalized item(s), call, write, or email our [Customer Service Department](https://web.archive.org/web/20130626010525id_/http%3A//www.mileskimball.com/mileskimball/customerservice/ContactUs.aspx). Information on how to do a return is listed on the back of the packing slip that is included with every shipment. 
+All returns must be made within 45 days from the date that you receive the shipment. Personalized items cannot be returned for reasons other than defects in material or workmanship. If you have any damaged, missing, or incorrectly personalized item(s), call, write, or email our [Customer Service Department](https://web.archive.org/web/20140415094537id_/http%3A//www.mileskimball.com/mileskimball/customerservice/ContactUs.aspx). Information on how to do a return is listed on the back of the packing slip that is included with every shipment. 
 
   
 
@@ -472,7 +474,7 @@ What is Processing?
 
 Processing helps us maintain the lowest possible prices and shipping charges by offsetting a portion of the cost to process and fulfill your order. We choose not to hide these costs within our shipping chart or cover them by raising the price of our products.
 
-Join our [Buyer's Club](http://www.mileskimball.com/mileskimball/shopping/productdetail.aspx?tid=_mileskimball&productid=bc00345369) and receive FREE shipping and 10% discount on all orders.
+Join our [Buyer's Club](http://www.mileskimball.com/mileskimball/displayitem.aspx?id=347791) and receive FREE shipping and 10% discount on all orders.
 
 OR
 
@@ -485,9 +487,9 @@ What is Auto Refill?
 
 The Auto Refill program is an automatic delivery service which allows you to receive select products you use on a regular basis every 30, 60, 90 or 120 days depending on the item. No need to worry about reordering. Your shipping is FREE on subsequent orders so you save both time and money when you sign up. 
 
-How do I opt into the program?
+How do I lock in my initial order price using Auto Refill?
 
-It is very easy to sign up for the Auto Refill program. To order online simply select the Auto Refill option when placing an eligible item into your shopping cart. When placing an order by phone simply request the Auto Refill service. 
+When you use Auto Refill, the price never goes up. By avoiding price increases online or in the catalog, you save money by getting the same price you paid in your initial order. Even when you receive a special promotion or sale price, the price stays the same on all your future Auto Refill orders. 
 
 How much is shipping?
 
@@ -517,7 +519,7 @@ Please allow 24 hours turn-around time for an email response.
 
 Miles Kimball Auto Refill Terms and Conditions
 
-Unless modified by the customer, the credit card used to set up the initial Auto Refill order will be charged for subsequent orders. Subsequent orders will be authorized 1-2 days prior to shipment and charged when shipped. Only credit or debit cards can be used as payment for Auto Refill orders. Gift vouchers, checks, and PayPal will not be accepted at this time. Order amount may vary due to changes in price. Product prices will reflect pricing at time of shipment. Auto Refill is not available for international orders. If an Auto Refill item is temporarily out of stock you will receive notification. Your order will ship when the item is back in stock and refill shipments will continue at the specified frequency from the date of the most recent shipment. Miles Kimball will notify you via email or letter if an item has been permanently discontinued.
+Unless modified by the customer, the credit card used to set up the initial Auto Refill order will be charged for subsequent orders. Subsequent orders will be authorized 1-2 days prior to shipment and charged when shipped. Only credit or debit cards can be used as payment for Auto Refill orders. Gift vouchers, checks, and PayPal will not be accepted at this time. Product prices will reflect the pricing of initial order and remain the same on all future orders. Auto Refill is not available for international orders. If an Auto Refill item is temporarily out of stock you will receive notification. Your order will ship when the item is back in stock and refill shipments will continue at the specified frequency from the date of the most recent shipment. Miles Kimball will notify you via email or letter if an item has been permanently discontinued.
 
  \- Remember to look for this icon for eligible products   
 
@@ -541,7 +543,7 @@ Your shipping and billing address may be used to send you our print catalog or c
 
  **Phone: 1-855-202-7394**  
 Monday-Friday 8:00AM - 10:00PM  
-Saturday 8:00AM - 5:00PM (Central)
+Saturday and Sunday 8:00AM - 5:00PM (Central)
 
  **Email:[csr@mileskimball.com](mailto:csr@mileskimball.com)**  
 Please allow 24 hours in turn-around time for an email response.
@@ -622,11 +624,11 @@ Oshkosh, WI 54906
 
  **How do we use Cookies?**
 
-A "cookie" is a small file stored on your computer by a web site that gathers certain information about your activity on the site. We use cookies only to provide a mechanism that allows us to maintain your shopping cart. Our cookies do not store any personal or financial information about you. Most web browsers automatically accept cookies and allow you to disable the use of cookies. However, if you disable this feature, certain aspects of the Miles Kimball web site, such as the shopping basket and "My Account" will not function properly.
+A "cookie" is a small file stored on your computer by a web site that gathers certain information about your computer’s activity on the site (but not specifically who is using it). We use cookies to track activity and enable the interaction of our website with visitors for such things as adding items to your shopping cart and allow us to associate the cookie with other customer information you have provided us. That customer information is stored on our secured database. Our cookies do not store any personal or financial information about you. Most web browsers automatically accept cookies and allow you to disable the use of cookies. However, if you disable this feature, certain aspects of the Miles Kimball web site, such as the shopping basket and "My Account" will not function properly.
 
- **Web (tracking) Bugs or Beacons**
+ **Pixel Tags or Web Beacons**
 
-"Web bugs" or "Web beacons" are devices placed inside emails that allow us to track certain activity. Tracked activity includes being able to tell if the email was opened, how many times a recipient opened the email, whether or not they clicked a link and how many links were clicked. We do not use these devices for any other tracking activity.
+"Pixel tags" or "Web beacons" are small graphic files that allow us to monitor the use of our websites and may be placed inside emails to allow us to track certain activity. Tracked activity includes such things as being able to tell if the email was opened, how many times a recipient opened the email, whether or not they clicked a link and how many links were clicked.
 
  **How do you opt out of MilesKimball.com email promotions?**
 
@@ -638,7 +640,7 @@ From time to time, Miles Kimball will send out an email announcing special sales
 
  **Phone: 1-855-202-7394**  
 Monday-Friday 8:00AM - 10:00PM  
-Saturday 8:00AM - 5:00PM (Central)
+Saturday and Sunday8:00AM - 5:00PM (Central)
 
  **Email:[csr@mileskimball.com](mailto:csr@mileskimball.com)**  
 Please allow 24 hours in turn-around time for an email response.
@@ -659,7 +661,7 @@ We do ask that you please review the acknowledgment of your request that you wil
 
 We may change our Privacy Policy at any time. Please return to this page every so often and let us know if you would like us to make changes in the way our Privacy Policy applies to you.
 
-Enjoy your visit to MilesKimball.com. We hope you find what you are looking for.
+Enjoy your visit to MilesKimball.com. We hope you find what you are looking for. 
 
   
 
