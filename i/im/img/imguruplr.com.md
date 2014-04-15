@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imguruplr.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214030205id_/http%3A//www.rapidcashmarketing.com/privacypolicy_1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imguruplr.com privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415075904id_/http%3A//www.rapidcashmarketing.com/privacypolicy_1.html) for the most accurate reproduction.*
 
 # Rapid Cash Marketing - Privacy Policy
 
