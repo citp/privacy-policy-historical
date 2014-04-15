@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigresponse.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813051259id_/http%3A//www.bigresponse.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigresponse.com privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415204601id_/http%3A//www.bigresponse.com/privacy.php) for the most accurate reproduction.*
 
 # Email Marketing & Autoresponders - Big Response
 
