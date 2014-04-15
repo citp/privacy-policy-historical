@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the economisthand.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214025112id_/http%3A//www.economisthand.com/privacy-policy-4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the economisthand.com privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415043232id_/http%3A//www.economisthand.com/privacy-policy-4) for the most accurate reproduction.*
 
 # Privacy Policy «
 
