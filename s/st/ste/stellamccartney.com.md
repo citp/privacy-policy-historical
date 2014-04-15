@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stellamccartney.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009130258id_/http%3A//www.stellamccartney.com/cms/legal/privacypolicy.asp%3Ftskay%3D8D665676) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stellamccartney.com privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415102107id_/http%3A//www.stellamccartney.com/cms/legal/privacypolicy.asp%3Ftskay%3D8D665676) for the most accurate reproduction.*
 
 # Stella McCartney Online Store - Legal Area
 
@@ -8,11 +8,11 @@ This Privacy Policy applies when you visit or surf the Site without purchasing a
 
 Since personal data (“ **Personal Data** ”) of users and customers (collectively " **Users** ") of this Site may be processed in the European Union, notably in Italy, any processing of Personal Data will be conducted in compliance with applicable Governing Laws. 
 
-Your personal data are collected and processed by Stella McCartney Ltd (hereinafter Stella McCartney) and the companies of Kering Group, as well as by their service providers located within and outside of the European Union (collectively " **us** ", " **we** ", " **our** "). Stella McCartney Ltd has its registered offices in Chalegrove House, 34-36 Perrymount Road, Haywards Heath, West Sussex RH16 3DN, UK - Company Number: 04169969 and may be contacted at privacypolicy@stellamccartney.com for any issue relating to this privacy policy. 
+Your personal data are collected and processed by Stella McCartney Ltd (hereinafter Stella McCartney) and the companies of Kering Group, as well as by their service providers located within and outside of the European Union (collectively " **us** ", " **we** ", " **our** "). Stella McCartney Ltd has its registered offices in Chalegrove House, 34-36 Perrymount Road, Haywards Heath, West Sussex RH16 3DN, UK - Company Number: 04169969 and may be contacted at [privacy@store.stellamccartney.com](mailto:privacy@store.stellamccartney.com) for any issue relating to this privacy policy. 
 
 Your Personal Data will be processed to provide the services you subscribed to or reserved for registered users, to facilitate your navigation of and shopping from the website and to keep you informed of Kering Group news and offers. 
 
-Stella McCartney Ltd and the companies of Kering Group are jointly controllers of Personal Data collected and processed for purpose of rendering the e-commerce services and the sale of products (herein the " **E-Commerce Purposes** ") through the Site, together with YOOX S.p.A. with registered offices in Via Nannetti 1, 40069 Zola Predosa (BO), Italy, Bologna Business Register, Tax and VAT number 02050461207, share capital Euro 579,373.60 fully paid up. 
+Stella McCartney Ltd and the companies of Kering Group are jointly controllers of Personal Data collected and processed for purpose of rendering the e-commerce services and the sale of products (herein the " **E-Commerce Purposes** ") through the Site, together with YOOX S.p.A. with registered offices in Via Nannetti 1, 40069 Zola Predosa (BO), Italy, Bologna Business Register, Tax and VAT number 02050461207, share capital Euro 583,082.76 fully paid up. 
 
 The management of the sale of the products and the transactions performed on www.stellamccartney.com, within the United States of America are operated, under license, by YOOX S.p.A.’ s subsidiary YOOX Corporation, a Delaware corporation having an address at 148 Lafayette Street, 10th Floor, New York, New York 10013 ("YOOX USA", YOOX S.p.A. and YOOX USA also jointly referred to as YOOX). 
 
@@ -25,7 +25,7 @@ Stella McCartney Ltd and the companies of Kering Group are the sole data control
 
 Everyone has the right to protection of his/her Personal Data. We and YOOX respect Users' right to be informed regarding the collection of and other operations involving their Personal Data. In using data that may directly or indirectly identify you personally, we will apply a principle of strict necessity. For this reason, we and YOOX have designed the Site in such a way that the use of your Personal Data will be kept to a minimum and will not exceed the purposes for which your Personal Data was collected and/or processed; we and YOOX do not process your Personal Data when we can provide you with services through the use of anonymous or traffic data (such as marketing research made for improving our services, browsing data processed to provide you with customized contents or offers adapted to your preferred language, your location, etc) or by other means which allow us and YOOX to identify you, apart from when it is strictly necessary or upon request by competent public authorities or the police (for example, in case of traffic data or your IP address). 
 
-This Privacy Policy provides you with all information needed to understand how we and YOOX collect data which may identify the Site’s Users. For further information on our Privacy Policy, please contact us and/or YOOX at privacypolicy@stellamccartney.com, or at YOOX or Stella McCartney Ltd at their registered offices indicated above. 
+This Privacy Policy provides you with all information needed to understand how we and YOOX collect data which may identify the Site’s Users. For further information on our Privacy Policy, please contact us and/or YOOX at [privacy@store.stellamccartney.com](mailto:privacy@store.stellamccartney.com), or at YOOX or Stella McCartney Ltd at their registered offices indicated above. 
 
 **  
 2\. Who collects and processes Your Personal Data, how and for which purposes?**
@@ -40,9 +40,9 @@ United Parcel Service, for purposes related to shipping, delivering and returnin
 
 BT Italia S.p.A., for purposes related to the housing of YOOX servers; 
 
-For the E-Commerce Purposes, we and YOOX collect your Personal Data (such as personal details, e-mail address, address, Credit Card numbers, bank code, tax code and telephone number, etc.) on your order form only for the purpose of selling the products ordered by you. Your Personal Data is mostly processed by electronic means and, in some circumstances, by paper-based means, such as when the processing of your Personal Data is required for preventing fraud on the Site. Your Personal Data shall be stored in a way which allows us and YOOX to identify you for the period necessary for the purposes which the data was collected for and subsequently processed and, in any case, in accordance with Governing Laws. Please report any modification of your Personal Data to privacypolicy@stellamccartney.com or through your personal account on the Site in order to ensure that your Personal Data is always accurate and up-to-date, relevant and complete. Your Personal Data shall not be disclosed to third parties other than us and YOOX for purposes which are not permitted by law or without your consent. 
+For the E-Commerce Purposes, we and YOOX collect your Personal Data (such as personal details, e-mail address, address, Credit Card numbers, bank code, tax code and telephone number, etc.) on your order form only for the purpose of selling the products ordered by you. Your Personal Data is mostly processed by electronic means and, in some circumstances, by paper-based means, such as when the processing of your Personal Data is required for preventing fraud on the Site. Your Personal Data shall be stored in a way which allows us and YOOX to identify you for the period necessary for the purposes which the data was collected for and subsequently processed and, in any case, in accordance with Governing Laws. Please report any modification of your Personal Data to [privacy@store.stellamccartney.com](mailto:privacy@store.stellamccartney.com) or through your personal account on the Site in order to ensure that your Personal Data is always accurate and up-to-date, relevant and complete. Your Personal Data shall not be disclosed to third parties other than us and YOOX for purposes which are not permitted by law or without your consent. 
 
-Aside from the Processors appointed for Personal Data processing, your Personal Data will be made available also to third parties, autonomous controllers, for purposes related to supplying services requested by Users (for example, for purchase transactions) or for purposes of third parties. For more information on the matter, see section 4 (To Whom Your Personal Data Will Be Disclosed). Please contact our Customer Care or send us an e-mail at privacypolicy@stellamccartney.com if you would like to receive a full list of our data Processors involved in processing your Personal Data. 
+Aside from the Processors appointed for Personal Data processing, your Personal Data will be made available also to third parties, autonomous controllers, for purposes related to supplying services requested by Users (for example, for purchase transactions) or for purposes of third parties. For more information on the matter, see section 4 (To Whom Your Personal Data Will Be Disclosed). Please contact our Customer Care or send us an e-mail at [privacy@store.stellamccartney.com](mailto:privacy@store.stellamccartney.com) if you would like to receive a full list of our data Processors involved in processing your Personal Data. 
 
 For the Marketing Purposes, we may process your Personal Data as well as browsing data (" **Traffic data** ") resulting from the use of our Services by any User, in order to provide Users with customized contents and offers on our Services or to deliver any newsletter they subscribed to, subject to their discretionary right to withdraw their subscription to such newsletter or to oppose or object to the receiving of any advertising or marketing content which we think is of interest to a specific User. For Marketing Purposes, Personal Data and Traffic data is mostly processed by electronic means and shall be stored for us in any case, in accordance with Governing Laws and made available to our Processors. 
 
@@ -70,7 +70,7 @@ Your Personal Data may also be provided to the following companies belonging to 
 
 
 
-Please send an e-mail at privacypolicy@stellamccartney.com if you would like to receive a full updated list of Kering Group companies. 
+Please send an e-mail at [privacy@store.stellamccartney.com](mailto:privacy@store.stellamccartney.com) if you would like to receive a full updated list of Kering Group companies. 
 
 Notwithstanding the foregoing, Personal Data will not be disclosed to any other third parties or disseminated or transferred without informing our Users of such disclosure/dissemination/transfer, and, in any case, in accordance with the Governing Laws. 
 
@@ -100,7 +100,7 @@ We wish to inform you that us or YOOX may process your Personal Data also withou
 **  
 8\. Your Right to Access Personal Data and Further Rights**
 
-You are entitled to obtain, at any time, confirmation from us or YOOX as to whether or not data relating to you is being processed, whether the data is not yet registered, and the communication in intelligible form of the data undergoing processing. Moreover, you are entitled to receive from us or YOOX information on the source of your Personal Data; the purposes and way of processing your Personal Data; the logic involved in any electronic data processing; details of the data controller and of the data processors; the names of the entities and categories of entities to whom your Personal Data may be disclosed or who may access your Personal Data, for example, as a data controller or a party so appointed. You can easily find part of the above information in our Privacy Policy. For further information, send an e-mail to privacypolicy@stellamccartney.com. 
+You are entitled to obtain, at any time, confirmation from us or YOOX as to whether or not data relating to you is being processed, whether the data is not yet registered, and the communication in intelligible form of the data undergoing processing. Moreover, you are entitled to receive from us or YOOX information on the source of your Personal Data; the purposes and way of processing your Personal Data; the logic involved in any electronic data processing; details of the data controller and of the data processors; the names of the entities and categories of entities to whom your Personal Data may be disclosed or who may access your Personal Data, for example, as a data controller or a party so appointed. You can easily find part of the above information in our Privacy Policy. For further information, send an e-mail to [privacy@store.stellamccartney.com](mailto:privacy@store.stellamccartney.com). 
 
 You are entitled to obtain at any time from us or YOOX: 
 
@@ -116,7 +116,7 @@ a. for legitimate reasons, to the processing of your personal data, even if it i
 
 b. to the processing of your personal data for advertising or direct marketing purposes or in order to carry out marketing research or commercial communications. 
 
-You may freely exercise your rights at any time, provided that you do so in compliance with Governing Laws, by sending your request to us or YOOX at the following e-mail address: privacypolicy@stellamccartney.com or by writing to us at our respective address mentioned in introduction to this Privacy Policy. We or YOOX will reply to you as necessary. 
+You may freely exercise your rights at any time, provided that you do so in compliance with Governing Laws, by sending your request to us or YOOX at the following e-mail address: [privacy@store.stellamccartney.com](mailto:privacy@store.stellamccartney.com) or by writing to us at our respective address mentioned in introduction to this Privacy Policy. We or YOOX will reply to you as necessary. 
 
 **  
 9\. Consent**
@@ -136,7 +136,7 @@ We or YOOX do not control or monitor such web sites or their web content. We or 
 
 **11\. Contacts**
 
-If you wish to receive further information on how we and/or YOOX process your Personal Data, please send an e-mail to [privacypolicy@stellamccartney.com](mailto:privacypolicy@stellamccartney.com). 
+If you wish to receive further information on how we and/or YOOX process your Personal Data, please send an e-mail to [privacypolicy@store.stellamccartney.com](mailto:privacypolicy@store.stellamccartney.com). 
 
 **  
 12\. Governing Laws**
