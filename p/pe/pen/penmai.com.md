@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the penmai.com privacy policy that was archived on 2013-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130410190215id_/http%3A//www.penmai.com/forums/forum-rules/1063-privacy-policy-penmai-com.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penmai.com privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415123259id_/http%3A//www.penmai.com/forums/forum-rules/1063-privacy-policy-penmai-com.html) for the most accurate reproduction.*
 
 # Privacy Policy of Penmai.com
 
-6th Dec 2010, 12:59 PM [#1](http://www.penmai.com/forums/forum-rules/1063-privacy-policy-penmai-com.html#post2215)
+* 6th Dec 2010, 01:59 PM [#1](http://www.penmai.com/forums/forum-rules-faqs/1063-privacy-policy-penmai-com-post2215.html#post2215)
 
 > If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [admin@penmai.com](mailto:admin@penmai.com).
 > 
@@ -31,7 +31,7 @@
 > 
 > Similar Threads:
 > 
->   * [Give your suggestions here to improve Penmai.com](http://www.penmai.com/forums/showthread.php?t=1049-Give%20your%20suggestions%20here%20to%20improve%20Penmai.com "Thread Starter: Penmai | Forum: Suggestions | Replies: 34")
+>   * [Give your suggestions here to improve Penmai.com](http://www.penmai.com/forums/showthread.php?t=1049-Give%20your%20suggestions%20here%20to%20improve%20Penmai.com "Thread Starter: Penmai | Forum: Suggestions | Replies: 49")
 >   * [Happy Diwali Wishes from Penmai.com](http://www.penmai.com/forums/showthread.php?t=909-Happy%20Diwali%20Wishes%20from%20Penmai.com "Thread Starter: Penmai | Forum: Festivals & Special Days | Replies: 16")
 >   * [Welcome to Penmai.Com](http://www.penmai.com/forums/showthread.php?t=2-Welcome%20to%20Penmai.Com "Thread Starter: Penmai | Forum: Introduce Yourself here! | Replies: 174")
 > 
