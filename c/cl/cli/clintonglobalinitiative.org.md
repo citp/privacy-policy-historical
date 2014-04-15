@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clintonglobalinitiative.org privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207010703id_/http%3A//www.clintonglobalinitiative.org/aboutus/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clintonglobalinitiative.org privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415053059id_/http%3A//www.clintonglobalinitiative.org/aboutus/privacy_policy.asp) for the most accurate reproduction.*
 
 # About Us: Privacy Policy | Clinton Global Initiative
 
