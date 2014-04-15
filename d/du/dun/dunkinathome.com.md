@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the dunkinathome.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213062549id_/http%3A//www.dunkinathome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunkinathome.com privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415231535id_/http%3A//www.dunkinathome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dunkin' Donuts Coffee
 
 **THE J. M. SMUCKER COMPANY**
-
-**PRIVACY POLICY**
 
 This Privacy Policy addresses the practices of The J.M. Smucker Company relating to the collection and use of information resulting from your use of our website. If you have any questions or comments regarding our Privacy Policy please contact us. Our contact information is: 
 
@@ -14,7 +12,7 @@ Orrville, Ohio 44667
 [Email](http://www.dunkinathome.com/contact-us/)  
 Telephone: 1-888-550-9555 
 
-**COLLECTION AND USE OF INFORMATION**
+### COLLECTION AND USE OF INFORMATION
 
 We may collect some or all of the following information from you when you visit our website: 
 
@@ -52,15 +50,11 @@ You can set your Internet browser settings to stop accepting new cookies, to rec
 
 _Information Collected From Other Sources_ \- We may obtain information about you from other sources, including commercially available sources, such as data aggregators, public databases and other third parties. This information may include name, demographic information, interests, and publicly-observed data, such as from social media and shopping behavior. For example, if you are on another website, and you opt in to receive information from us, that website will forward to us your email address and other information about you so we may contact you as requested. We may combine this information with the information we collect from you to help us tailor our communications to you and to improve our services and products. 
 
-**SHARING OF INFORMATION**
+### SHARING OF INFORMATION
 
 _Personally-Identifiable Information_ – We may share information among our various businesses and brands within The J.M. Smucker Company and its subsidiaries. We may provide your personal information to third parties who provide services on our behalf. For example, we use an outside shipping company to fulfill orders, and a credit card processing company to bill for goods. We use other third parties to provide promotions, contests, newsletters and hosting for our site. These service providers may use the information solely in conjunction with the specific services they provide for us. These service providers are not authorized to use, share, retain or store your personally-identifiable information for any other purpose. We may conduct joint promotions with other companies, and may share with these promotional partners (and their service providers) personally-identifiable information necessary to conduct the promotion. We may also use and disclose personally-identifiable information where we think it is necessary to investigate or prevent actual or expected fraud, or criminal activity or injury or damage to us or others, including when requested or required by law enforcement or government officials. We will not share personally-identifiable information with unaffiliated third parties. For California residents, please see Opting Out, below. 
 
 _Aggregate Information (non-personally-identifiable)_ \- We may share aggregated demographic information about our user base with our partners and advertisers who perform services on our behalf. This information does not identify individual users. We do this for online data analysis and research purposes to help provide our users with relevant tool and features. We do not link aggregate user data with personally-identifiable information. 
-
-**_OPTING OUT_**
-
-_Your_ _Choices_ – As discussed above, we provide you with the option to receive marketing and promotional materials. If you no longer wish to receive our newsletters and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or by **_[clicking here](http://myjms.net/unsubscribe/dunkin)_**. If you are registered with our website, you can change the information you have provided to us by visiting your profile page on the website and changing your preferences. Be sure to click “Update Profile” for the changes to become effective. 
 
 _For California Residents_ \- We may share your personally-identifiable information with affiliated third parties, some of which do not share the name of The J.M. Smucker Company, for their own direct marketing purposes. Because this category of affiliates is considered to be “unaffiliated parties” under California Law, you may opt out of us sharing with them. To opt out, please send a letter with your name, postal address, e-mail, with the heading “California Privacy Rights” to: 
 
@@ -68,36 +62,48 @@ Consumer Communications Center
 1 Strawberry Lane  
 Orrville, Ohio 44667 
 
-**DISCLOSURES REQUIRED BY LAW**
+### OPTING OUT
+
+_Your Choices_ — As discussed above, we provide you with the option to receive marketing and promotional materials. If you no longer wish to receive our newsletters and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or by [clicking here](http://www.dunkinathome.com/unsubscribe/). If you are registered with our website, you can change the information you have provided to us by visiting your profile page on the website and changing your preferences. Be sure to click “Update Profile” for the changes to become effective. 
+
+_For California Residents_
+
+— We may share your personally-identifiable information with affiliated third parties, some of which do not share the name of The J.M. Smucker Company, for their own direct marketing purposes. Because this category of affiliates is considered to be “unaffiliated parties” under California Law, you may opt out of us sharing with them. To opt out, please send a letter with your name, postal address, e-mail, with the heading “California Privacy Rights” to: 
+
+Consumer Communications Center   
+1 Strawberry Lane   
+Orrville, Ohio 44667 
+
+### DISCLOSURES REQUIRED BY LAW
 
 We reserve the right to disclose your personally-identifiable information as needed if we are required to do so by law, regulation, subpoena, or court order, or if necessary to protect our rights. 
 
-**LINKS TO OTHER SITES**
+### LINKS TO OTHER SITES
 
 Our website may contain links to other sites that are not owned or controlled by us. Please be aware that we, The J.M. Smucker Company, are not responsible for the privacy practices or content of such other sites. We encourage you to be aware when you leave our site. This includes reading the privacy policies of each and every website that collects personally-identifiable information as the privacy policy may differ from ours. 
 
-**HOW WE PROTECT YOUR INFORMATION**
+### HOW WE PROTECT YOUR INFORMATION
 
 The security of personally-identifiable information is important to us. We maintain administrative, technical and physical safeguards to protect against unauthorized use, disclosure, alteration or destruction of the personally-identifiable information we collect on this website. 
 
 You should keep in mind, however, that no data transmitted over the Internet is 100% secure and any information disclosed online can potentially be collected and used by parties other than the intended recipient. As a result, while we strive to protect your information, we cannot guarantee or warrant the security of any information you transmit to or from our web sites. 
 
-**UNITED STATES ONLY**
+### UNITED STATES ONLY
 
 This website is intended for use by residents of the United States of America only. All matters relating to this site are governed by the laws of the State of Ohio in the United States of America. If you are located outside of the United States of America and you contact us, please be advised that any information you provide to us will be transferred to the United States of America and that by submitting information, you explicitly authorize its transfer. 
 
-**TRANSFER OF PERSONALLY-IDENTIFIABLE INFORMATION**
+### PERSONALLY-IDENTIFIABLE INFORMATION
 
-In the event we go through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of our assets, your personally-identifiable information will likely be among the assets transferred to the acquiring entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties. __
+In the event we go through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of our assets, your personally-identifiable information will likely be among the assets transferred to the acquiring entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties. 
 
-**CONSENT TO PRIVACY POLICY**
+### CONSENT TO PRIVACY POLICY
 
 You consent to the terms of this Privacy Policy by using our website. If you do not agree with any term of this privacy policy, please refrain from using our site or submitting any personally-identifiable information. ****
 
-**A SPECIAL NOTE TO PARENTS**
+### A SPECIAL NOTE TO PARENTS
 
 We respect the privacy of all of our online users, especially children. We do not intend to collect personally-identifiable information from children under 13\. Our policy is intended to adhere to the Children's Advertising Review Unit (CARU) privacy guidelines and the Children’s Online Privacy Protection Act (COPPA). We encourage parents to monitor, supervise and join their children in online activities. 
 
-**CHANGES TO THIS PRIVACY POLICY**
+### CHANGES TO THIS PRIVACY POLICY
 
 We reserve the right to change or replace this Privacy Policy at any time. Please check back from time to time to ensure that you are aware of any changes or updates to the notice. We will indicate the Policy’s effective date on the first page of the Policy. 
