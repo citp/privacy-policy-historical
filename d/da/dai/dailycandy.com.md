@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailycandy.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219142527id_/http%3A//www.dailycandy.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycandy.com privacy policy that was archived on 2014-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140416003657id_/http%3A//www.dailycandy.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - DailyCandy
 
