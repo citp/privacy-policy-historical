@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the harmony-central.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501010341id_/http%3A//www01.harmony-central.com/t5/custom/page/page-id/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harmony-central.com privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415232519id_/http%3A//www01.harmony-central.com/t5/custom/page/page-id/privacy-policy) for the most accurate reproduction.*
 
-# PrivacyPolicy - Harmony Central
+# Privacy Policy - Harmony Central
 
 ## YOUR PRIVACY RIGHTS
 
@@ -68,9 +68,9 @@ This website incorporates appropriate safeguards to protect the security, integr
 
 You hereby acknowledge that Harmony Central is not responsible for any intercepted information sent via the Internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner.
 
-### CHILDREN
+### Collection Of Children’s Personal Information
 
-This website is not directed to children, and Harmony Central does not knowingly solicit information from any child under the age of 13. Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child (or a parent or guardian) to inform him or her that we must have parental consent before receiving his or her personal information.
+Harmony Central is committed to protecting the privacy of children. The Site is not directed to children under the age of 13, and Harmony Central does not collect or maintain personal information online from children we actually know are under the age of 13. Should we discover that we have collected personal information online from a child who is under 13, we will promptly delete that personal information. If you have concerns over the collection of children’s personal information online, please contact us at the address below.
 
 ### TERMS AND MODIFICATIONS TO THIS PRIVACY STATEMENT
 
