@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-lingerie-post.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214022007id_/http%3A//www.the-lingerie-post.com/privacy-policy-for-www-the-lingerie-post-com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-lingerie-post.com privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415111346id_/http%3A//www.the-lingerie-post.com/privacy-policy-for-www-the-lingerie-post-com) for the most accurate reproduction.*
 
 # Privacy Policy for www.the-lingerie-post.com - The Lingerie Post
 
