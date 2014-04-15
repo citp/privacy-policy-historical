@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citmedialaw.org privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022010408id_/http%3A//www.dmlp.org/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citmedialaw.org privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415232050id_/http%3A//www.dmlp.org/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Digital Media Law Project
 
