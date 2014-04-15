@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abazias.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001052839id_/http%3A//www.abazias.com/terms/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abazias.com privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415130005id_/http%3A//www.abazias.com/terms/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
