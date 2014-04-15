@@ -1,66 +1,71 @@
-> *The following text is extracted and transformed from the easyhosty.co.uk privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423164845id_/https%3A//easyhosty.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyhosty.co.uk privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415221018id_/http%3A//www.zendylabs.com/privacy) for the most accurate reproduction.*
 
-# EasyHosty Privacy Policy
+# Privacy Policy - Zendy Labs | Zendy Labs
 
-EasyHosty Solutions Limited. is committed to respecting privacy of customers and users of the EasyHosty website. 
+This Privacy Policy governs the manner in which Zendy Labs LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the [zendylabs.com](https://web.archive.org/web/20140415221018id_/http://www.zendylabs.com/privacy/zendylabs.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Zendy Labs LLC.
 
-This privacy policy governs the manner in which EasyHosty Solutions Limited. (EasyHosty) uses, maintains and discloses information collected from customers and users of the EasyHosty Website. 
+**Personal identification information**
 
-### Privacy
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-EasyHosty is committed to developing long lasting relationships based on trust. EasyHosty will do everything in its power to ensure that your right to privacy is maintained and protected. This Website is not directed at children under 13 years of age. 
+**Non-personal identification information**
 
-### Information EasyHosty Collects
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-EasyHosty may request or collect personal information from online users in a variety of ways, including through online forms for ordering products and services, and other instances where users are invited to volunteer such information. The information EasyHosty collects is personal information that identifies you personally, such as: 
+**Web browser cookies**
 
-Your name  
-E-mail address  
-Postal address  
-Telephone and facsimile numbers  
-URL  
-Billing information
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-EasyHosty may also collect information on how users access the Website by using a tracking ID unique to each user through the use of cookies. 
+**How we use collected information**
 
-### What are Cookies?
+Zendy Labs LLC may collect and use Users personal information for the following purposes:
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. EasyHosty may use both session ID cookies and persistent cookies. For session ID cookies, once you close your browser or log out, the cookie terminates and is erased. A persistent cookie is a small text file stored on your computer’s hard drive for an extended period of time. Your browser’s help file contains information and instructions for removing persistent cookies. Session ID cookies may be used by EasyHosty to track user preferences while the user is visiting the website. They also help to minimise load times and save on server processing. Persistent cookies may be used by EasyHosty to store, for example, whetheror not you want your password remembered, or other such information. Cookies used on the EasyHosty Website do not contain personally identifiable information. 
+  * _\- To improve customer service_  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * _\- To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _\- To improve our Site_  
+We may use feedback you provide to improve our products and services.
+  * _\- To process payments_  
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+  * _\- To run a promotion, contest, survey or other Site feature_  
+To send Users information they agreed to receive about topics we think will be of interest to them.
+  * _\- To send periodic emails_  
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
-### Log Files
 
-Like most standard Websites, EasyHosty use log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyse trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. However, none of the information stored in the EasyHosty log files, including but not limited to IP addresses, is linked to personally identifiable information. 
 
-### How EasyHosty uses this information
+**How we protect your information**
 
-EasyHosty may use the personally identifiable information collected by EasyHosty to contact customers regarding products and services offered by EasyHosty and, to the extent the User has agreed to it, by its trusted affiliates, independent contractors and business partners. EasyHosty may also use this information for research purposes regarding the effectiveness of Website services, marketing, advertising and sales efforts. EasyHosty will not in any way share this information with a third party either for free or by selling it, unless you specifically authorise such disclosures. 
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-### Disclosure of Information
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
 
-EasyHosty may also disclose aggregate, anonymous, data based on information collected from Users to investors and potential partners. In such cases, statistical information only will be disclosed and personally identifiable data will be kept strictly confidential. In case EasyHosty is sold, the information collected from users may be transferred to the new owners.
+**Sharing your personal information**
 
-EasyHosty may from time to time engage third parties, including its own subsidiaries and affiliated companies, to preserve, analyse or otherwise store or manipulate data received by EasyHosty from its customers. In all such cases, such third party service providers will be required to treat all such data with the same degree of care as EasyHosty and they will be prohibited from disclosing such data to any other person or party, except as otherwise provided for in this Privacy Policy. 
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-### Special Offers and Updates
+**Third party websites**
 
-EasyHosty customers and users will occasionally receive information on products, services, special deals, and possibly a newsletter. Out of respect for the privacy of users, EasyHosty presents the option to not receive these types of communications. 
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
-### Service Announcements
+**Changes to this privacy policy**
 
-On rare occasions it is necessary to send out a strictly service related announcement, if, for instance, a service is temporarily suspended for maintenance. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. 
+Zendy Labs LLC has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-### Legal Disclaimer
+**Your acceptance of these terms**
 
-Though every effort is made to preserve your privacy, EasyHosty may need to disclose personal information when required to by law. If it is deemed necessary that such action needs to be taken, EasyHosty will comply with judicial proceedings should a court order or legal process be served on EasyHosty. 
+By using this Site, you signify your acceptance of this policy and [terms of service](http://www.zendylabs.com/terms/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-The EasyHosty Website contains links to other sites. Please be aware that EasyHosty is not responsible for the privacy practices of such other sites. You are encouraged to read the privacy statements of each and every Web site that collects personally identifiable information. The EasyHosty Privacy Policy as described herein applies solely to information collected by EasyHosty. 
+**Contacting us**
 
-### Maintenance of Information
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+[Zendy Labs LLC](https://web.archive.org/web/20140415221018id_/http://www.zendylabs.com/privacy/zendylabs.com)  
+[zendylabs.com](https://web.archive.org/web/20140415221018id_/http://www.zendylabs.com/privacy/zendylabs.com)  
+1440 Kualapa Pl  
+Kapaa, HI 96746  
+USA  
+1.888.936.3966  
+support@zendylabs.com
 
-The information provided to EasyHosty is saved indefinitely and may be stored on one or more databases directly or indirectly maintained by EasyHosty. EasyHosty employs industry standard security measures to protect the confidentiality of the information. Although EasyHosty cannot guarantee that any loss, misuse or alteration of data will not occur; every effort is made to prevent such occurrences. Any other particularly sensitive information, such as payment details collected for commercial transactions, is encrypted prior to transmission by you to EasyHosty. 
-
-### Your Responsibility
-
-You are responsible for the security of your Account usernames and passwords. Make sure you keep it in a safe place and do not share it with others. 
-
-Always remember to log out after your session ends, to ensure that others cannot access your private personal information. You should take this precaution even if you are not using a public computer, such as at a library or internet café, but even when using your private computer in your home. 
+This document was last updated on November 27, 2013
