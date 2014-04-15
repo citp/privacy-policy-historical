@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eftps.gov privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817080810id_/https%3A//www.eftps.gov/eftps/direct/HelpDisclosure.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eftps.gov privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415173626id_/https%3A//www.eftps.gov/eftps/direct/HelpDisclosure.page) for the most accurate reproduction.*
 
 # Welcome To EFTPS - Help and Information
 
@@ -14,7 +14,7 @@ This information is used to measure the number of visitors to the various sectio
 
 We also monitor network traffic to identify unauthorized attempts to upload or change information or otherwise cause damage to the Web site. We focus on Web site security so that this service remains available to you and other visitors. We may use this network traffic information to identify you if we suspect unauthorized or illegal behavior.
 
-In addition, when you use this Web site to enroll in EFTPS® tax payment service or initiate a payment through this EFTPS® tax payment service, we collect personal information about your identity (including but not limited to your taxpayer identification number) and financial accounts. This information is used to create an enrollment in EFTPS® tax payment service and to process tax payments and related forms. More information regarding this information is found in the Privacy Act and Paperwork Reduction Act notice located [here](https://web.archive.org/web/20130817080810id_/https%3A//www.eftps.gov/eftps/direct/HelpPrivacyPaperwork.page). 
+In addition, when you use this Web site to enroll in EFTPS® tax payment service or initiate a payment through this EFTPS® tax payment service, we collect personal information about your identity (including but not limited to your taxpayer identification number) and financial accounts. This information is used to create an enrollment in EFTPS® tax payment service and to process tax payments and related forms. More information regarding this information is found in the Privacy Act and Paperwork Reduction Act notice located [here](https://web.archive.org/web/20140415173626id_/https%3A//www.eftps.gov/eftps/direct/HelpPrivacyPaperwork.page). 
 
 Use of Persistent Cookies
 
