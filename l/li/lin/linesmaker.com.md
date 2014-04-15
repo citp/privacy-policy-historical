@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the linesmaker.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102003426id_/http%3A//betlm.eu/support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linesmaker.com privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415093451id_/http%3A//betlm.eu/support/privacy.html) for the most accurate reproduction.*
 
-# LinesMaker.com: Protecting your privacy
+# Linesmaker.com: Protecting your privacy
 
-LinesMaker is 100% committed to protecting your privacy. The following discloses the information we gather and why. Equally important, we disclose what we will NOT do with information gathered.
+Linesmaker is 100% committed to protecting your privacy. The following discloses the information we gather and why. Equally important, we disclose what we will NOT do with information gathered.
 
 We never disclose information to any agencies, nor do we sell the information that we may obtain from you. Please read on for more specific details of our privacy policy.
 
@@ -34,7 +34,7 @@ We may make chat rooms, forums, message boards, and/or news groups available to 
 
 **Security**
 
-When you access your account information, it is protected by our highly secure encoding and processing technologies, utilizing the SSL Protocol. SSL uses 128 bit encryption which ensures server and client (us and you) authentication through encrypted algorithms, and is the highest industry standard. All of the player data we collect is protected against unauthorized access. For Further protection we use LinesMaker.com Financial Services proprietary Star-MX technology for sophisticated encryption.
+When you access your account information, it is protected by our highly secure encoding and processing technologies, utilizing the SSL Protocol. SSL uses 128 bit encryption which ensures server and client (us and you) authentication through encrypted algorithms, and is the highest industry standard. All of the player data we collect is protected against unauthorized access. For Further protection we use Linesmaker.com Financial Services proprietary Star-MX technology for sophisticated encryption.
 
 **Corrections/Update**
 
@@ -53,6 +53,20 @@ If we decide to change our privacy policy, we will post those changes here so th
 
 Protecting your privacy is very important to us. We use the information we collect on the site to facilitate the exchange of  funds and enhance the quality of our product. We do not sell, trade, rent or otherwise disclose your personal information to others.
 
-**Contacting LinesMaker.com**
+**Choice/Opt-Out of Sportsbook**
+
+This function only provides members/visitors the opportunity to opt-out of receiving communications from us.
+
+  1. You can visit the following URL: <http://betlm.eu/list/> and enter the e-mail address you want to remove from our list.
+
+
+
+You may request the closure of your wagering account at any time as long as there is no balance and no pending wagers. 
+
+**Correcting or Updating Personal Information**
+
+Linesmaker provides members with the secure ‘My Account’ area for changing and modifying information previously provided.
+
+**Contacting Linesmaker.com**
 
 If you have any questions about this privacy statement, our practices or your dealings with us, contact: [Customer Service](http://betlm.eu/support/contact.html?d=general&subject=%27Linesmaker%20Inquiry%27 "Customer Service").
