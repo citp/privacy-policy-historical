@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megarelease.net privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825222622id_/http%3A//www.megarelease.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megarelease.net privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415093759id_/http%3A//www.megarelease.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
