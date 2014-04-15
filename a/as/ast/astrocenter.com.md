@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the astrocenter.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213015934id_/http%3A//www.astrocenter.com/us/privacy.aspx%3FAf%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrocenter.com privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415184039id_/http%3A//www.astrocenter.com/us/privacy.aspx%3FAf%3D0) for the most accurate reproduction.*
 
 # Privacy Policy | Astrocenter.com
 
-Last Revised: October 1st, 2013
+Last Revised: March 25th, 2014
 
 Horoscope.com, Inc. ( **"we"** or **"Horoscope.com"** ) has created this privacy policy ( **"Privacy Policy"** ) to demonstrate our commitment to privacy. This Privacy Policy applies to www.astrocenter.com, www.psychiccenter.com, www.horoscope.com and www.horoscopo.com owned and operated by Horoscope.com, Inc. and to all Mobile and Facebook Apps operated by Horoscope.com, Inc. This privacy policy describes how Horoscope.com, Inc. collects and uses the Personal Data you provide on our websites: www.astrocenter.com, www.psychiccenter.com, www.horoscope.com and www.horoscopo.com, and in our Mobile and Facebook Apps, as well as the choices available to you regarding our use of your personal data and how you can access and update this information. We realize the importance of feeling safe online and want you to feel comfortable using our personalized products and services (collectively, **"Offerings"** ) and exchanging information on websites of Horoscope.com, Inc., its affiliates or agents ( **"Company"** or **"We"** ) with links to this Privacy Policy (collectively, the **"Website"** ) and our mobile applications (the **"Application(s)"** ).
 
 **1.    QUESTIONS; CONTACTING COMPANY; REPORTING VIOLATIONS**
 
-Horoscope.com, Inc. has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through these websites, www.astrocenter.com, www.psychiccenter.com, www.horoscope.com and www.horoscopo.com.
+Horoscope.com, Inc. has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through these websites, www.astrocenter.com, www.psychiccenter.com and www.horoscope.com.
 
 If you have any questions, concerns or complaints about our Privacy Policy or our data collection or processing practices, or if you want to report any security violations to us, please contact us at the following address or phone number:
 
@@ -21,7 +21,7 @@ If you have any questions, concerns or complaints about our Privacy Policy or ou
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
-Horoscope.com, Inc. complies with the U.S. – E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of Personal Data from the from European Union member countries. Horoscope.com, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Horoscope.com, Inc.’s certification, please visit http://www.export.gov/safeharbor/
+Horoscope.com, Inc. complies with the U.S. - E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of Personal Data from the from European Union member countries. Horoscope.com, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Horoscope.com, Inc.'s certification, please visit http://www.export.gov/safeharbor/
 
 **2.    USER CONSENT**
 
@@ -43,7 +43,7 @@ We collect Personal Data and Anonymous Data from you as described below when you
 
        **D.    Transactional Data.**   If you make purchase through the Company Properties we may collect and store certain information about you to process your purchases and populate forms for future transactions, such as your telephone number, address, e-mail address, and credit card information. This information may be shared with third parties who help process and fulfill your purchases. When you submit credit card numbers, we encrypt that information using industry standard technology.
 
-       **E.    Personal Data That We Collect from You About Others.**   If you decide to submit information about a third party, we will collect the third party’s Personal Data in order to personalize the services for such third party such as our “Tell a Friend” feature. If you choose to use our referral service to tell a friend about our website, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the website. Horoscope.com stores [or does not store] this information for the sole purpose of sending this one-time email [and tracking the success of our referral program]. You or the third party may contact us to request the removal of this information from our database by contacting us at privacy@horoscope.com.
+       **E.    Personal Data That We Collect from You About Others.**   If you decide to submit information about a third party, we will collect the third party's Personal Data in order to personalize the services for such third party such as our "Tell a Friend" feature. If you choose to use our referral service to tell a friend about our website, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the website. Horoscope.com stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. You or the third party may contact us to request the removal of this information from our database by contacting us at privacy@horoscope.com.
 
        **F.    Advertising.**   If there is advertising on the Company Properties, such advertising may employ the use of Cookies or other methods to track hits and clickthroughs. We are not responsible for advertiser Cookies or how the information gathered through their use might be used.
 
@@ -81,7 +81,7 @@ We collect Personal Data and Anonymous Data from you as described below when you
 
  _Collection of Data by Advertisers._
 
-   We may also use third parties to serve ads on the Company Properties. Certain third parties may automatically collect information about your visits to the Company Properties and other websites, your IP address, your ISP, the browser you use to visit our Company Properties (but not your name, address, e-mail address or telephone number). They do this by using Cookies, Pixel Tags or other technologies. Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Website and the other sites tracked by these third parties. This policy does not apply to, and we are not responsible for, Cookies or Pixel Tags in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of Cookies and other technologies. You may opt out of receiving interest-based advertising from some of our partners by visiting http://www.aboutads.info/choices or http://www.networkadvertising.org/managing/opt-out. We do not currently respond to "Do Not Track" signals from web browsers.
+   We may also use third parties to serve ads on the Company Properties. Certain third parties may automatically collect information about your visits to the Company Properties and other websites, your IP address, your ISP, the browser you use to visit our Company Properties (but not your name, address, e-mail address or telephone number). They do this by using Cookies, Pixel Tags or other technologies. Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Website and the other sites tracked by these third parties. This policy does not apply to, and we are not responsible for, Cookies or Pixel Tags in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of Cookies and other technologies. You may opt out of receiving interest-based advertising from some of our partners by visiting http://www.aboutads.info/choices or http://www.networkadvertising.org/managing/opt_out.asp. We do not currently respond to "Do Not Track" signals from web browsers.
 
             •   
 
@@ -135,9 +135,13 @@ We have implemented and follow reasonable industry standard technical and proced
 
 The Company Properties contain links to other websites. Our provision of a link to any other website or location, such as Partner Company websites, is for your convenience and does not signify our endorsement of such other website or location or its contents. When you click on such a link, you will leave the Company Properties and go to another website. During this process, another entity may collect Personal Data or Anonymous Data from you. Company has no control over, does not review, and is not responsible for the privacy practices or the content of such other websites. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on links to such outside websites.
 
-**9.    UPDATING/DELETING YOUR PROFILE**
+**9.    SOCIAL MEDIA FEATURES AND WIDGETS**
 
-       **A.    Changes to Personal Data.**   You can view the Personal Data you previously provided by viewing your Profile from your personalized Home Page. You can delete your Profile at any time by clicking on the "delete profile" link. You may request deletion of your Personal Data by us, but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives.
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+**10.    UPDATING/DELETING YOUR PROFILE**
+
+       **A.    Changes to Personal Data.**   You can view the Personal Data you previously provided by viewing your Profile from your personalized Home Page. You can delete your Profile at any time by clicking on the "delete profile" link. If your personal data changes, you may correct or update, by emailing us at privacy@horoscope.com or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days. You may request deletion of your Personal Data by us, but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives.
 
        **B.    Opt-out.**   If you have chosen to receive personalized messages, newsletters, or promotional communications by e-mail, you can at any time cancel this, or "opt-out," by following the instructions on your personalized Home Page or by following the unsubscribe instructions provided in the e-mail you receive. Should you decide to opt-out of receiving future mailings, we may share your e-mail address with our Third Party Contractors to ensure that you do not receive further communications from us. Despite your indicated e-mail preferences, we may send you service-related communications, including notices of any updates to our Terms of Service or Privacy Policy.
 
@@ -147,19 +151,19 @@ The Company Properties contain links to other websites. Our provision of a link 
 
        **E.    Applications.**   You can stop all collection of information by the Application(s) by uninstalling the Application(s). You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
-**10.    SERVICE-RELATED ANNOUNCEMENTS**
+**11.    SERVICE-RELATED ANNOUNCEMENTS**
 
 Despite your indicated e-mail preferences, we may send you service-related announcements (such as, but not limited to, notice that we have changed the Offerings, the Terms of Service, or the Privacy Policy) when we believe it is necessary to do so. You may not opt-out of these communications, which are not promotional in nature, but if you do not wish to receive these announcements, you have the option to delete your Profile. We will not have any liability whatsoever to you for any deletion of your Profile.
 
-**11.    DISPUTE RESOLUTION**
+**12.    DISPUTE RESOLUTION**
 
 If you believe that we have not adhered to this Privacy Policy, please contact us by e-mail at [privacy@horoscope.com]. We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation. If you and Company are unable to reach a resolution to the dispute, you and Company will settle the dispute exclusively under the rules of the American Arbitration Association (www.adr.org).
 
-**12.    CHANGES TO THIS PRIVACY POLICY**
+**13.    CHANGES TO THIS PRIVACY POLICY**
 
-We may amend this Privacy Policy at any time in our sole discretion. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy on our Website, and we will change the "Last Updated" date above. You should consult this Privacy Policy regularly for any changes. 
+We may amend this Privacy Policy at any time in our sole discretion. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy on our Website, and we will change the "Last Updated" date above. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. You should consult this Privacy Policy regularly for any changes. 
 
-**13.    CONTACTING US**
+**14.    CONTACTING US**
 
 If you have any questions about this Privacy Policy, the practices of the Company Properties, or your dealings with the Company Properties, you can contact us using the following contact information:
 
