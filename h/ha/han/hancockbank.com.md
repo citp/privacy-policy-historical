@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hancockbank.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005121423id_/http%3A//www.hancockbank.com/home/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hancockbank.com privacy policy that was archived on 2014-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140416232151id_/http%3A//www.hancockbank.com/home/privacy-policy.asp) for the most accurate reproduction.*
 
 # Hancock Bank: Privacy Policy
 
@@ -89,7 +89,7 @@ State laws and individual companies may give you additional rights to limit shar
 
 Companies related by common ownership or control. They can be financial and nonfinancial companies.
 
-  * _Our affiliates include financial companies such as our Hancock Bank, Whitney Bank, Hancock Investments, Harrison Finance Company and others such as Hancock Insurance Agency._
+  * _Ou_ _r affiliates include financial companies such as our Whitney Bank, Hancock Investment Services, Inc., Harrison Finance Company, and others such as Hancock Insurance Agency._
 
   
 **Nonaffiliates** | 
@@ -108,14 +108,16 @@ A formal agreement between nonaffiliated financial companies that together marke
   
    
   
-Hancock Holding Company family of companies: Hancock Bank, Whitney Bank, Hancock Investment Services, Inc. (including Whitney Investment Services, Whitney Investment Services, Inc., Whitney Investment Services of Texas, Inc.), Hancock Insurance Agency (including Whitney Insurance Agency, Inc., Whitney Insurance Agency of Texas, Inc., Hancock Insurance Agency of Alabama, Inc. and Hancock Insurance Agency of Florida, Inc.), Harrison Finance Company (including Harrison Loan Company).  
+Hancock Holding Company family of companies: Whitney Bank (doing business in Texas and Louisiana and doing business   
+as “Hancock Bank” in Mississippi, Alabama and Florida), Hancock Investment Services, Inc.(including Whitney Investment Services, Whitney Investment Services, Inc., Whitney Investment Services of Texas, Inc.), Hancock Insurance Agency   
+(including Whitney Insurance Agency, Inc., Whitney Insurance Agency of Texas, Inc., Hancock Insurance Agency of Alabama, Inc., and Hancock Insurance Agency of Florida, Inc.), Harrison Finance Company (including Harrison Loan Company).  
   
   
 At Hancock Bank, we take the issue of privacy very seriously. We want to assure visitors to our Web site the security, privacy and confidentiality that they expect from a premier financial services institution. You can be sure that our commitment to protect your financial information will continue under the principles and online guidelines described below.
 
 ## Information Collected Generally
 
-Hancock Bank does not collect any personal information from anyone who is merely visiting or browsing its Web site. Personal information may be requested if the visitor chooses to respond to online surveys, sends Hancock Bank an e-mail message, applies for products and services online, or uses Hancock Bank's e-Banking Services.
+Hancock Bank does not collect any personal information from anyone who is merely visiting or browsing its Web site. Personal information may be requested if the visitor chooses to respond to online surveys, sends Hancock Bank an e-mail message, applies for products and services online, or uses Hancock Bank's Online Banking Services.
 
 ## E-mail and Product Inquiry
 
@@ -127,7 +129,7 @@ Through its Web site, Hancock Bank offers opportunities to apply for various pro
 
 ## Protecting Your Bank Online
 
-When you bank online with Hancock Bank, we, along with our third-party service providers who bring these services to you, have access to your information. Information is retained on our system or the system of the appropriate third-party service provider, depending upon what is required to serve your needs. We use state-of-the-art Internet technology, supported by the third-party service providers that we work with, to make e-Banking secure and to protect your personal information. We also require an I.D. and password to access your accounts. If you do not provide this information, we cannot establish an e-Banking service for you. You can also help maintain the security of your banking information by not sharing your ID or password with anyone, by changing your password regularly, and by remembering to sign off.
+When you bank online with Hancock Bank, we, along with our third-party service providers who bring these services to you, have access to your information. Information is retained on our system or the system of the appropriate third-party service provider, depending upon what is required to serve your needs. We use state-of-the-art Internet technology, supported by the third-party service providers that we work with, to make Online Banking secure and to protect your personal information. We also require an I.D. and password to access your accounts. If you do not provide this information, we cannot establish an Online Banking service for you. You can also help maintain the security of your banking information by not sharing your ID or password with anyone, by changing your password regularly, and by remembering to sign off.
 
 ## Planning Tools and Personal Data
 
@@ -152,7 +154,7 @@ A cookie is a small piece of information about an Internet session that may be c
 
 
 
-* **Except for e-Banking**. Please refer to [e-Banking FAQ](https://web.archive.org/web/20131005121423id_/http%3A//www.hancockbank.com/personal/eBanking/e-banking-faq.asp) for more information regarding the use of Cookies with e-Banking.
+* **Except for Online Banking**. Please refer to [Online Banking FAQ](https://web.archive.org/web/20140416232151id_/http%3A//www.hancockbank.com/personal/eBanking/e-banking-faq.asp) for more information regarding the use of Cookies with Online Banking.
 
 ## Use of Information Collected
 
