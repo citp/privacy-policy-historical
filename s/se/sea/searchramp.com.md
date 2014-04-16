@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the searchramp.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213223604id_/http%3A//searchramp.com/privacy.aspx.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchramp.com privacy policy that was archived on 2014-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140416110415id_/http%3A//www.searchramp.com/privacy.aspx.html) for the most accurate reproduction.*
 
 # 
 
 At SearchRamp.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit SearchRamp.com, and how we safeguard your information. We never sell your personal information to third parties. The SearchRamp.com Web site is owned and operated by IcoLogic, Inc.
 
-If you have any questions regarding our privacy statement, please feel free to contact us though our [Contact Page](https://web.archive.org/web/20131213223604id_/http%3A//searchramp.com/Contact.aspx.html)
+If you have any questions regarding our privacy statement, please feel free to contact us though our [Contact Page](https://web.archive.org/web/20140416110415id_/http%3A//www.searchramp.com/Contact.aspx.html)
 
 **Gathering of Information**
 
@@ -58,7 +58,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 **How to Contact Us**
 
-If you have any questions regarding our privacy statement, please feel free to contact us though our [Contact Page](https://web.archive.org/web/20131213223604id_/http%3A//searchramp.com/Contact.aspx.html)
+If you have any questions regarding our privacy statement, please feel free to contact us though our [Contact Page](https://web.archive.org/web/20140416110415id_/http%3A//www.searchramp.com/Contact.aspx.html)
 
 This statement may change from time to time, so please check back periodically.
 
