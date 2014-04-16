@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penguinrandomhouse.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117202435id_/http%3A//www.penguinrandomhouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penguinrandomhouse.com privacy policy that was archived on 2014-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140416075359id_/http%3A//www.penguinrandomhouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Penguin Random House
 
