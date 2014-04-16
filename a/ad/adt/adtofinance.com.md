@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adtofinance.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229160756id_/http%3A//www.adtofinance.com/%3Fpage_id%3D1998) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtofinance.com privacy policy that was archived on 2014-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140416130833id_/http%3A//www.adtofinance.com/%3Fpage_id%3D1998) for the most accurate reproduction.*
 
 # Privacy Policy | ADToFinance.com
 
