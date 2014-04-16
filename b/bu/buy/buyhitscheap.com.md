@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyhitscheap.com privacy policy that was archived on 2013-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130729052359id_/http%3A//buyhitscheap.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyhitscheap.com privacy policy that was archived on 2014-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140416234544id_/http%3A//buyhitscheap.com/privacy.php) for the most accurate reproduction.*
 
 # buyhitscheap.com : Real Website Visitors, Guaranteed.
 
@@ -9,17 +9,17 @@
 
 Send up to one million real people directly to your website or online advertisement in one month. Watch your stats grow in real-time with our Client Control Panel!
 
-**[Learn More](https://web.archive.org/web/20130729052359id_/http%3A//buyhitscheap.com/traffic.php)** **     [Order Now](https://web.archive.org/web/20130729052359id_/http%3A//buyhitscheap.com/order.php)** ** Regional Traffic**
+**[Learn More](https://web.archive.org/web/20140416234544id_/http%3A//buyhitscheap.com/traffic.php)** **     [Order Now](https://web.archive.org/web/20140416234544id_/http%3A//buyhitscheap.com/order.php)** ** Regional Traffic**
 
 Need to market your website to a specific audience? We will deliver quality web traffic based on the country of web visitor that you choose. Choose from 4 Regional categories.
 
-**[Learn More](https://web.archive.org/web/20130729052359id_/http%3A//buyhitscheap.com/traffic_regional.php)** **     [Order Now](https://web.archive.org/web/20130729052359id_/http%3A//buyhitscheap.com/order.php)** **Questions & Answers**
+**[Learn More](https://web.archive.org/web/20140416234544id_/http%3A//buyhitscheap.com/traffic_regional.php)** **     [Order Now](https://web.archive.org/web/20140416234544id_/http%3A//buyhitscheap.com/order.php)** **Questions & Answers**
 
 Q. What is a "Unique Visitor"? 
 
 A. Unique visits are counted when someone views a web page for the first time. 
 
-**[Read More](https://web.archive.org/web/20130729052359id_/http%3A//buyhitscheap.com/faq.php)** ****
+**[Read More](https://web.archive.org/web/20140416234544id_/http%3A//buyhitscheap.com/faq.php)** ****
 
 | 
 
