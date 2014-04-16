@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buybuybaby.com privacy policy that was archived on 2013-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130919013407id_/http%3A//www.buybuybaby.com/store/static/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buybuybaby.com privacy policy that was archived on 2014-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140416143220id_/http%3A//www.buybuybaby.com/store/static/PrivacyPolicy) for the most accurate reproduction.*
 
-# buybuyBaby.com
+# Privacy Policy - buybuyBaby.com
 
 **Privacy Policy Effective Date: This Privacy Policy became effective in 1999, and was most recently changed on November 10, 2010.**
 
