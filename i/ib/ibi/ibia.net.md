@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibia.net privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001104902id_/http%3A//www.ibia.net/main.asp%3Fsitepages%3DCookiePolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibia.net privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417002925id_/http%3A//www.ibia.net/main.asp%3Fsitepages%3DCookiePolicy) for the most accurate reproduction.*
 
 # CookiePolicy
 
