@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slothster.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121061325id_/http%3A//www.slothster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slothster.com privacy policy that was archived on 2014-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140416075853id_/http%3A//www.slothster.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Slothster
 
@@ -8,7 +8,7 @@ Date of Last Revision: March 1, 2011
 
 This Privacy Policy describes Slothster's policies and procedures on the collection, use and disclosure of your information. Slothster receives your information through our various web sites, services and third-parties ("Services"). When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country that you reside in or create information from, your information may be used by Slothster in the United States or any other country where Slothster operates.
 
-If you have any questions or comments about this Privacy Policy, please contact us via the "Contact Us" form located [here](https://web.archive.org/web/20131121061325id_/http%3A//www.slothster.com/contact).
+If you have any questions or comments about this Privacy Policy, please contact us via the "Contact Us" form located [here](https://web.archive.org/web/20140416075853id_/http%3A//www.slothster.com/contact).
 
  _Information Collection and Use_
 
@@ -44,12 +44,12 @@ If you are a registered user of our Services, we provide you with tools to acces
 
  _Our Policy Towards Children_
 
-Our Services are not directed to people under 13. If you become aware that your child has provided us with personal information without your consent, please contact us as soon as possible using the Contact Us form by clicking [here](https://web.archive.org/web/20131121061325id_/http%3A//www.slothster.com/contact). We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account.
+Our Services are not directed to people under 13. If you become aware that your child has provided us with personal information without your consent, please contact us as soon as possible using the Contact Us form by clicking [here](https://web.archive.org/web/20140416075853id_/http%3A//www.slothster.com/contact). We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account.
 
  _Third party links_
 
-Occasionally, at our discretion, we may include or offer third party products or services on Slothster. These third party sites have separate and independent privacy policies and it is highly recommended you review their privacy policies which may differ from ours. Due to the fact we do not operate or control these sites, we cannot bear responsibility or liability for the content, activities, or policies of these linked sites. Nonetheless, we do seek to protect the integrity of Slothster and welcome any feedback about these sites. Feedback can be submitted by using the "Contact Us" form linked [ here](https://web.archive.org/web/20131121061325id_/http%3A//www.slothster.com/contact) for your convenience.
+Occasionally, at our discretion, we may include or offer third party products or services on Slothster. These third party sites have separate and independent privacy policies and it is highly recommended you review their privacy policies which may differ from ours. Due to the fact we do not operate or control these sites, we cannot bear responsibility or liability for the content, activities, or policies of these linked sites. Nonetheless, we do seek to protect the integrity of Slothster and welcome any feedback about these sites. Feedback can be submitted by using the "Contact Us" form linked [ here](https://web.archive.org/web/20140416075853id_/http%3A//www.slothster.com/contact) for your convenience.
 
  _Changes to this Policy_
 
-We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at [http://www.slothster.com/privacy](https://web.archive.org/web/20131121061325id_/http%3A//www.slothster.com/privacy). By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy. 
+We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at [http://www.slothster.com/privacy](https://web.archive.org/web/20140416075853id_/http%3A//www.slothster.com/privacy). By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy. 
