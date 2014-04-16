@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accel.io privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215174432id_/http%3A//accel.io/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accel.io privacy policy that was archived on 2014-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140416081147id_/http%3A//accel.io/privacy_policy) for the most accurate reproduction.*
 
 # Accel.io Privacy Policy
 
