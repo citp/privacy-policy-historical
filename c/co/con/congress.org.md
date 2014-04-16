@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the congress.org privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907043035id_/http%3A//corporate.cqrollcall.com/content/27/en/Footer%2520Content/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the congress.org privacy policy that was archived on 2014-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140416091340id_/http%3A//corporate.cqrollcall.com/content/27/en/Footer%2520Content/Privacy%2520Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
