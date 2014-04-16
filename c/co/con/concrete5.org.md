@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the concrete5.org privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015192033id_/http%3A//concrete5.org/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concrete5.org privacy policy that was archived on 2014-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140416153022id_/http%3A//www.concrete5.org/legal/privacy-policy) for the most accurate reproduction.*
 
 # concrete5 :: concrete5.org Privacy Policy
 
-Concrete CMS, Inc. (“concrete5”) is committed to protecting your privacy when you access and use our concrete5.org web site (the "Site") and provides you this notice that any data or information collected and used by Concrete5 in connection with the Site and services or materials available or enabled via the Site ("Services" and "Materials") are governed by this online privacy policy ("Privacy Policy") as amended from time to time, and not any privacy in effect at the time the data and information was collected. Please regularly review our Privacy Policy. This Privacy Policy does not govern privacy practices associated with any other web site (including any web sites linked to), offline activities or other products, services or materials not available or enabled by this Site. This Site and the Services and Materials enabled or made available by the Site are intended for adult audiences, and Concrete5 does not knowingly collect any personal information from anyone under 13 years of age.
+PortlandLabs, Inc. (“concrete5”) is committed to protecting your privacy when you access and use our concrete5.org web site (the "Site") and provides you this notice that any data or information collected and used by Concrete5 in connection with the Site and services or materials available or enabled via the Site ("Services" and "Materials") are governed by this online privacy policy ("Privacy Policy") as amended from time to time, and not any privacy in effect at the time the data and information was collected. Please regularly review our Privacy Policy. This Privacy Policy does not govern privacy practices associated with any other web site (including any web sites linked to), offline activities or other products, services or materials not available or enabled by this Site. This Site and the Services and Materials enabled or made available by the Site are intended for adult audiences, and Concrete5 does not knowingly collect any personal information from anyone under 13 years of age.
 
 1\. CHANGES IN PRIVACY POLICY
 
@@ -12,10 +12,10 @@ Any information that identifies or can be used to identify the person to whom su
 
 You have the right at all times to access and correct your personal information and privacy preferences. Any Registration Information may be edited or corrected by you once you are logged in by clicking "Update Your Profile" on the Site, or you can edit and correct your personal information and privacy preferences by writing to Concrete5 at:
 
-Concrete CMS, Inc.  
-Attn: concrete5.org/Support  
-17 se 3rd #410  
-Portland, OR 97214  
+Concrete CMS  
+Attn: PortlandLabs  
+1200 NW Naito Pkwy #290  
+Portland, OR 97209  
 USA
 
 Concrete5 is committed to respecting your preferences and legal rights with respect to access to, correction of, and deletion of your personal information. Except in particular circumstances described in this Privacy Policy, or where required by law, regulation, litigation, national security or law enforcement, Concrete5 will not provide your name to other companies or organizations without your consent.
@@ -72,10 +72,10 @@ Any information that you post to a public chat room, blog, bulletin board, or to
 
 If you feel that Concrete5 has failed to comply with its obligations under this Privacy Policy or otherwise have complaints with respect to Concrete5's use or protection of your personal information, you may fill out a Privacy Complaint form and send it to Concrete5's Privacy Officer at the following address:
 
-Concrete CMS, Inc.  
-Attn: concrete5.org/Support  
-17 se 3rd #410  
-Portland, OR 97214  
+Concrete CMS  
+Attn: PortlandLabs  
+1200 NW Naito Pkwy #290  
+Portland, OR 97209  
 USA
 
 Please be specific in your complaint and provide as much detail as possible so that we can promptly address your concerns. We will investigate and respond to all complaints promptly.
