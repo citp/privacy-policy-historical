@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbcshop.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216054944id_/http%3A//www.bbcshop.com/help/security-and-privacy/scat/securityandprivacy/%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbcshop.com privacy policy that was archived on 2014-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140416205623id_/http%3A//www.bbcshop.com/help/security-and-privacy/scat/securityandprivacy/%23privacypolicy) for the most accurate reproduction.*
 
 # Security and Privacy at BBC Shop
 
