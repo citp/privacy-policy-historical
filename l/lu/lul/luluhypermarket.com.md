@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luluhypermarket.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124154139id_/http%3A//uae.luluhypermarket.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luluhypermarket.com privacy policy that was archived on 2014-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140416110106id_/http%3A//uae.luluhypermarket.com/policy.html) for the most accurate reproduction.*
 
 # LuLu Hypermarket | Supermarkets | Department Stores
 
