@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the autocarbuy.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117170430id_/http%3A//beta.autocarbuy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autocarbuy.com privacy policy that was archived on 2014-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140416140003id_/http%3A//www.autocarbuy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Auto Car Buy
-
-##### Privacy Policy
 
 This Privacy Statement applies to AutoCarBuy and any affiliate website that links to this Notice. This explains how AutoCarBuy collects uses and shares the information from or regarding you as you visit a site, gives information on how advertisements are done, both on the Site and other websites, and how information is collected based on interactions with the online ads. In addition to the Notice, depending on the relationship with AutoCarBuy, you may receive and be under the coverage of AutoCarBuy, other privacy disclosures within account opening documents and other privacy and security rules as applicable to the relevant affiliate.
 
