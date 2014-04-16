@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the canistream.it privacy policy that was archived on 2013-10-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131019091114id_/http%3A//www.canistream.it/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the canistream.it privacy policy that was archived on 2014-04-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140416061321id_/http%3A//www.canistream.it/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html itemscope="" itemtype="http://schema.org/Product" lang="en"><head>
 
@@ -199,9 +199,6 @@
             <li><a href="/pages/bloggers" class="tools"><span class="img"></span><em>Tools</em>
                     <small>For Bloggers!</small>
                 </a></li>
-            <li><a href="http://www.popsecretlabs.com/post/34235345504/pop-search-a-web-browser-tool-that-finds-movies/?utm_source=canistreamit&amp;utm_medium=click_icon&amp;utm_campaign=PopSearch" class="pop_search"><span class="img"></span><em>Pop Search</em>
-                                <small>by Pop Secret!</small>
-                            </a></li>
         </ul>
     </div>
 </div>
@@ -212,6 +209,7 @@
         <div class='alert alert-error' style="margin:30px;">We're sorry but our site has been tested and currently
             optimized for IE8+, Chrome, Safari, and Firefox. The site might not work with your browser.        </div>
         <![endif]-->
+
         
 <div class="row-fluid ">
 <div class="hero-unit">
@@ -414,6 +412,20 @@
 <script type="text/javascript">
     $('.search-type').button();
 
+    var config = {
+        over: function () {
+            $(this).animate({ marginBottom: 0 });
+        }, // function = onMouseOver callback (REQUIRED)
+        timeout: 500, // number = milliseconds delay before onMouseOut
+        out: function () {
+            $(this).animate({ marginBottom: -100 });
+        } // function = onMouseOut callback (REQUIRED)
+    };
+
+    $('.goodies').hoverIntent(config);
+
+    setTimeout(function() { $('.goodies').animate({marginBottom:-100});},500);
+
     $('#howItWorksTabs a').click(function (e) {
         e.preventDefault();
         $(this).tab('show');
@@ -583,7 +595,7 @@
 </noscript>
 <!-- End Quantcast tag -->
 
-<!--vps22.sea1.defaultroute.net-->
+<!--vps21.sea1.defaultroute.net-->
 
 
 </body></html>
