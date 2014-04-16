@@ -1,16 +1,85 @@
-<!--The following is the downloaded HTML source of the worksessions.com privacy policy that was archived on 2012-08-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120822022658id_/http%3A//www.worksessions.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the worksessions.com privacy policy that was archived on 2014-04-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140416120214id_/http%3A//www.worksessions.com/privacy_policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+<!DOCTYPE html><html><head>
 <title>
 WorkSessions Record Pool - Privacy Policy
 </title><link href="/css/style.css" rel="stylesheet" type="text/css">
+<link href="/css/jp-simple.css" rel="stylesheet" type="text/css">
 <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
 
-<meta property="fb:app_id" content="335256443229413"></head><body>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta property="fb:app_id" content="335256443229413">
+
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=335256443229413"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="/js/jquery.jplayer.min.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	// Local copy of jQuery selectors, for performance.
+	var	my_jPlayer = $("#jquery_jplayer"),
+		my_playState = $("#jp_container .play-state"),
+		my_extraPlayInfo = $("#jp_container .extra-play-info");
+
+	// Some options
+	var	opt_play_first = true, // If true, will attempt to auto-play the default track on page loads. No effect on mobile devices, like iOS.
+		opt_auto_play = true, // If true, when a track is selected, it will auto-play.
+		opt_text_playing = "Now playing", // Text when playing
+		opt_text_selected = "Track selected"; // Text when not playing
+
+	// A flag to capture the first track
+	var first_track = true;
+
+	// Change the time format
+	$.jPlayer.timeFormat.padMin = false;
+	$.jPlayer.timeFormat.padSec = true;
+	$.jPlayer.timeFormat.sepMin = ":";
+	//$.jPlayer.timeFormat.sepSec = " sec";
+
+	// Initialize the play state text
+	my_playState.text(opt_text_selected);
+
+	// Instance jPlayer
+	my_jPlayer.jPlayer({
+		ready: function () {
+			$("#jp_container .track-default").click();
+		},
+		swfPath: "/js",
+		cssSelectorAncestor: "#jp_container",
+		supplied: "mp3",
+		wmode: "window"
+	});
+
+	// Create click handlers for the different tracks
+	$("#jp_container .track").click(function(e) {
+		my_jPlayer.jPlayer("setMedia", {
+			mp3: $(this).attr("href")
+		});
+		if((opt_play_first && first_track) || (opt_auto_play && !first_track)) {
+			my_jPlayer.jPlayer("play");
+		}
+		first_track = false;
+		$(this).blur();
+		return false;
+	});
+
+});
+</script>
+
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-42535259-2', 'worksessions.com');
+	ga('send', 'pageview');
+</script></head><body>
 
 <div id="fb-root"></div>
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=335256443229413"></script><script>(function(d, s, id) {
+<script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
@@ -18,58 +87,58 @@ WorkSessions Record Pool - Privacy Policy
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<div class="header">
+<div id="jquery_jplayer" style="width: 0px; height: 0px;"><img id="jp_poster_0" style="width: 0px; height: 0px; display: none;"><audio id="jp_audio_0" preload="metadata"></audio></div>
+
+<div id="jp_container" class="jp-container">
+
+<div id="header">
 	<div class="logo">
-		<a href="http://www.worksessions.com"><img src="/images/logo_f00.jpg" style="width: 365px; height: 77px;" alt="WorkSessions Record Pool" title="WorkSessions Record Pool"></a></div>
+		<a href="/"><img src="/images/logo.png" style="width: 365px; height: 77px;" alt="WorkSessions" title="WorkSessions"></a>
+	</div>
 
-	<div class="login">
-				Legally download thousands of songs for free.
-				<br><a href="http://www.worksessions.com/register/"><b>Register</b></a> | <a href="http://www.worksessions.com/login/"><b>Login</b></a>	</div>
-
-	<div class="search">
-		<form action="/search/search.cgi" method="get">
+	<div class="right">
+		<ul>
+			<li><a href="/upload/"><b>Upload</b></a></li>
+			<li><a href="/register/"><b>Register</b></a></li>
+			<li><a href="/login/"><b>Login</b></a></li>
+		</ul>
+		<div class="search">
+			<form action="/search/search.php" method="get">
 				<input type="text" name="query"> <input type="submit" value="SEARCH">
-				<br><a href="/search/">Advanced Search</a>
-		</form>
+			</form>
+		</div>
 	</div>
 
 	<div class="clear"></div>
 
 </div>
 
-<div class="main">
+<div id="main">
 	<div class="left">
-		<ul class="navigation">
-			<li class="home"><a href="/">HOME</a></li>
-			<li><a href="/">Download Songs</a>
+		<ul id="navigation">
+			<li><a href="/">Download</a>
 				<ul>
-					<li><a href="/search/search.php?query=hip+hop%2Frap&amp;fields=genre">Hip Hop/Rap</a> (6,851)</li>
-					<li><a href="/search/search.php?query=dance%2Felectronic&amp;fields=genre">Dance/Electronic</a> (584)</li>
-					<li><a href="/search/search.cgi?query=reggae&amp;fields=genre">Reggae</a> (332)</li>
-					<li><a href="/search/search.php?query=Latin&amp;fields=genre">Latin</a> (131)</li>
-					<li><a href="/search/search.php?query=rock&amp;fields=genre">Rock</a> (42)</li>
-					<li><a href="/songs/browse.cgi">Browse All Songs</a></li>
+					<li><a href="/search/hip+hop">Hip Hop/Rap</a> (8,650)</li>
+					<li><a href="/search/dance">Dance/Electronic</a> (977)</li>
+					<li><a href="/search/reggae">Reggae</a> (445)</li>
+					<li><a href="/search/Latin">Latin</a> (161)</li>
+					<li><a href="/search/rock">Rock</a> (130)</li>
+					<li><a href="/songs/browse.php">Browse All Songs</a></li>
 				</ul>
 			</li>
 			<li>
-				<a href="/songs/add_song.cgi">Record Labels</a>
+				<a href="/upload/">Upload</a>
 				<br>Earn revenue by uploading your latest singles.
 			</li>
 			<li>
-				<a href="/search/">Search</a>
-				<br>Search songs by artist, title, genre and more.
-			</li>
-			<li>
-				<a href="/message_boards/">Message Boards</a>
-				<br>Discuss various topics with other WorkSessions users.
+				<a href="/charts/">Charts</a>
+				<br>Most popular songs for the day, week and month.
 			</li>
 			<li>
 				<a href="/contact/">Contact Us</a>
-				<br>Call or e-mail us with questions and comments.
+				<br>Submit your questions, comments and feedback.
 			</li>
 		</ul>
-
-		<iframe src="/songs/preview/iframe_blank.cgi" frameborder="0" width="0" height="0" marginwidth="0" marginheight="0" name="preview_invisible" scrolling="no"></iframe>
 	</div>
 	<div class="center">
 <h1>Privacy Policy</h1>
@@ -106,59 +175,201 @@ WorkSessions Record Pool - Privacy Policy
 
 </p><p><b>Conclusion</b>
 
-</p><p>Thank you for taking the time to read this privacy policy. We intend to abide by this policy at all times.</p><p><script type="text/javascript"><!--
-google_ad_client = "ca-pub-4244628968668073";
-/* 336x280, created 2/21/10 */
-google_ad_slot = "1479270835";
-google_ad_width = 336;
-google_ad_height = 280;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>	</p></div>
-	<div class="right">		<p style="margin-top: 0px; margin-bottom: 10px;">
-			<fb:like-box href="http://www.facebook.com/worksessions" width="250" show_faces="true" border_color="" stream="false" header="true"></fb:like-box>
-		</p>		<p style="margin-top: 0px; margin-bottom: 10px;">
-		<script type="text/javascript"><!--
-		google_ad_client = "pub-4244628968668073";
-		/* 250x250, created 3/6/11 */
-		google_ad_slot = "6196235816";
-		google_ad_width = 250;
-		google_ad_height = 250;
-		//-->
-		</script>
-		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-		</script>
-		</p>
+</p><p>Thank you for taking the time to read this privacy policy. We intend to abide by this policy at all times.	</p></div>
+	<div class="right">
+<div class="trending_songs">
+	<h2>Trending Songs</h2>
+</div>
 
-		<p style="margin-top: 0px; margin-bottom: 10px;">
-		<script type="text/javascript"><!--
-		google_ad_client = "pub-4244628968668073";
-		/* 250x250, created 3/6/11 */
-		google_ad_slot = "6213610483";
-		google_ad_width = 250;
-		google_ad_height = 250;
-		//-->
-		</script>
-		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-		</script>
-		</p>	</div>
+<div class="trending_songs">
+	<div class="song">
+		<div class="table">
+			<div class="row">
+				<div class="album_art">
+	<a href="/songs/1286076341"><img src="/images/songs/album_art/50x50/3214.jpeg"></a>
+</div>
+				<div class="song_name">
+					<a href="/songs/1286076341"><b>J.T. JOHNSON CREW</b> - RESPECT (ft CRIS COLA)</a><br>
+					<span><a href="/JTPRODUCTIONSRECORDSLLC">J.T. PRODUCTIONS,RECORDS,LLC</a> </span>
+				</div>
+			</div>
+		</div>
+
+		<p><a href="/songs/audio/1000012527.mp3" class="track" onclick="hiddeniframe.location.replace('/songs/listen/logger.php?songs_mp3s_id=1000012527');">Play</a>
+		<a href="/songs/download/1000012527.mp3" class="download" target="hiddeniframe">Download</a> <a href="/songs/1286076341/buy" class="download" rel="nofollow">Buy</a>	</p></div>
+	<div class="song">
+		<div class="table">
+			<div class="row">
+				<div class="album_art">
+	<a href="/songs/1286076930"><img src="/images/songs/album_art/50x50/3640.jpeg"></a>
+</div>
+				<div class="song_name">
+					<a href="/songs/1286076930"><b>Stacc Boi</b> - I'm A Boss</a><br>
+					<span><a href="/StaccBoi">Stacc Boi Entertainment</a>  <a href="/account/status/" class="vip">VIP</a></span>
+				</div>
+			</div>
+		</div>
+
+		<p><a href="/songs/audio/1000013169.mp3" class="track" onclick="hiddeniframe.location.replace('/songs/listen/logger.php?songs_mp3s_id=1000013169');">Play</a>
+		<a href="/songs/download/1000013169.mp3" class="download" target="hiddeniframe">Download</a> <a href="/songs/1286076930/buy" class="download" rel="nofollow">Buy</a>	</p></div>
+	<div class="song">
+		<div class="table">
+			<div class="row">
+				<div class="album_art">
+	<a href="/songs/1286076367"><img src="/images/songs/album_art/50x50/3232.jpeg"></a>
+</div>
+				<div class="song_name">
+					<a href="/songs/1286076367"><b>J.T. JOHNSON</b> - YOU LOOK GOOD ON ME (ft J.T. JOHNSON CREW)</a><br>
+					<span><a href="/JTPRODUCTIONSRECORDSLLC">J.T. PRODUCTIONS,RECORDS,LLC</a> </span>
+				</div>
+			</div>
+		</div>
+
+		<p><a href="/songs/audio/1000012533.mp3" class="track" onclick="hiddeniframe.location.replace('/songs/listen/logger.php?songs_mp3s_id=1000012533');">Play</a>
+		<a href="/songs/download/1000012533.mp3" class="download" target="hiddeniframe">Download</a> <a href="/songs/1286076367/buy" class="download" rel="nofollow">Buy</a>	</p></div>
+	<div class="song">
+		<div class="table">
+			<div class="row">
+				<div class="album_art">
+	<a href="/songs/1286075578"><img src="/images/songs/album_art/50x50/3406.jpeg"></a>
+</div>
+				<div class="song_name">
+					<a href="/songs/1286075578"><b>Beyoncé</b> - Grown Woman</a><br>
+					<span><a href="/FreeAgent">Columbia/Sony BMG Entertainment</a> </span>
+				</div>
+			</div>
+		</div>
+
+		<p><a href="/songs/audio/1000011600.mp3" class="track" onclick="hiddeniframe.location.replace('/songs/listen/logger.php?songs_mp3s_id=1000011600');">Play</a>
+		<a href="/songs/download/1000011600.mp3" class="download" target="hiddeniframe">Download</a>	</p></div>
+	<div class="song">
+		<div class="table">
+			<div class="row">
+				<div class="album_art">
+	<a href="/songs/1286072880"><img src="/images/songs/album_art/50x50/1984.jpg"></a>
+</div>
+				<div class="song_name">
+					<a href="/songs/1286072880"><b>Rihanna</b> - Birthday Cake (Remix) (ft Chris Brown)</a><br>
+					<span><a href="/FreeAgent">Roc Nation/Def Jam</a> </span>
+				</div>
+			</div>
+		</div>
+
+		<p><a href="/songs/audio/1000008640.mp3" class="track" onclick="hiddeniframe.location.replace('/songs/listen/logger.php?songs_mp3s_id=1000008640');">Play</a>
+		<a href="/songs/download/1000008640.mp3" class="download" target="hiddeniframe">Download</a>	</p></div>
+	<div class="song">
+		<div class="table">
+			<div class="row">
+				<div class="album_art">
+	<a href="/songs/1286077267"><img src="/images/songs/album_art/50x50/3802.jpeg"></a>
+</div>
+				<div class="song_name">
+					<a href="/songs/1286077267"><b>The Faceless Project</b> - Ms. Betty (ft Rican)</a><br>
+					<span><a href="/JQMusicProductionsLLC">JQ Music Productions LLC</a> </span>
+				</div>
+			</div>
+		</div>
+
+		<p><a href="/songs/audio/1000013516.mp3" class="track" onclick="hiddeniframe.location.replace('/songs/listen/logger.php?songs_mp3s_id=1000013516');">Play</a>
+		<a href="/songs/download/1000013516.mp3" class="download" target="hiddeniframe">Download</a> <a href="/songs/1286077267/buy" class="download" rel="nofollow">Buy</a>	</p></div>
+	<div class="song">
+		<div class="table">
+			<div class="row">
+				
+				<div class="song_name">
+					<a href="/songs/1261242801"><b>Lil Jon</b> - Get Outta Your Mind (ft LMFAO)</a><br>
+					<span><a href="/upstreammusicgroup">Upstream Music Group/Universal Republic</a> </span>
+				</div>
+			</div>
+		</div>
+
+		<p><a href="/songs/audio/1000001434.mp3" class="track" onclick="hiddeniframe.location.replace('/songs/listen/logger.php?songs_mp3s_id=1000001434');">Play</a>
+		<a href="/songs/download/1000001434.mp3" class="download" target="hiddeniframe">Download</a> <a href="/songs/1261242801/buy" class="download" rel="nofollow">Buy</a>	</p></div>
+	<div class="song">
+		<div class="table">
+			<div class="row">
+				<div class="album_art">
+	<a href="/songs/1286076344"><img src="/images/songs/album_art/50x50/3215.jpeg"></a>
+</div>
+				<div class="song_name">
+					<a href="/songs/1286076344"><b>ERICA ORANGE</b> - MY LOVE SOUNDS LIKE MUSIC ( R&amp;B version)</a><br>
+					<span><a href="/JTPRODUCTIONSRECORDSLLC">J.T. PRODUCTIONS,RECORDS,LLC</a> </span>
+				</div>
+			</div>
+		</div>
+
+		<p><a href="/songs/audio/1000012503.mp3" class="track" onclick="hiddeniframe.location.replace('/songs/listen/logger.php?songs_mp3s_id=1000012503');">Play</a>
+		<a href="/songs/download/1000012503.mp3" class="download" target="hiddeniframe">Download</a> <a href="/songs/1286076344/buy" class="download" rel="nofollow">Buy</a>	</p></div>
+	<div class="song">
+		<div class="table">
+			<div class="row">
+				<div class="album_art">
+	<a href="/songs/1286076669"><img src="/images/songs/album_art/50x50/3479.jpeg"></a>
+</div>
+				<div class="song_name">
+					<a href="/songs/1286076669"><b>5th Ward Weebie</b> - Let Me Find Out</a><br>
+					<span><a href="/fivestarpro">Wobble Mart</a> </span>
+				</div>
+			</div>
+		</div>
+
+		<p><a href="/songs/audio/1000012884.mp3" class="track" onclick="hiddeniframe.location.replace('/songs/listen/logger.php?songs_mp3s_id=1000012884');">Play</a>
+		<a href="/songs/download/1000012884.mp3" class="download" target="hiddeniframe">Download</a> <a href="/songs/1286076669/buy" class="download" rel="nofollow">Buy</a>	</p></div>
+	<div class="song">
+		<div class="table">
+			<div class="row">
+				<div class="album_art">
+	<a href="/songs/1286077258"><img src="/images/songs/album_art/50x50/3793.jpeg"></a>
+</div>
+				<div class="song_name">
+					<a href="/songs/1286077258"><b>RonRonPowerUp</b> - Creep</a><br>
+					<span><a href="/RonronPowerUp">PowerUpClick Ent</a> </span>
+				</div>
+			</div>
+		</div>
+
+		<p><a href="/songs/audio/1000013507.mp3" class="track" onclick="hiddeniframe.location.replace('/songs/listen/logger.php?songs_mp3s_id=1000013507');">Play</a>
+		<a href="/songs/download/1000013507.mp3" class="download" target="hiddeniframe">Download</a> <a href="/songs/1286077258/buy" class="download" rel="nofollow">Buy</a>	</p></div>
+
+	<div class="view_more">
+		<a href="/charts/">View More Trending Songs</a>
+	</div>
+</div>
+
+	</div>
 </div>
 
 <div class="clear"></div>
 
-<div class="footer">
+<div id="footer">
 	<div class="footer_left">
-		<a href="/copyright.php">Copyright</a> © 2006-2012 <a href="/">WorkSessions</a>.  All rights reserved.
-
-		<br>For broadcast and promotion only. Unauthorized use or duplication is a violation of applicable laws.
+		<ul>
+			<li>
+				<a href="/copyright.php" rel="nofollow">Copyright</a>
+				© 2014
+				<a href="/WorkSessions">WorkSessions</a>
+			</li>
+			<li>
+				<a href="/privacy_policy.php" rel="nofollow">Privacy Policy</a>
+			</li>
+			<li>
+				<a href="/terms_of_use.php" rel="nofollow">Terms of Use</a>
+			</li>
+		</ul>
 	</div>
 	<div class="footer_right">
-		<a href="/contact/">Contact Us</a> | <a href="/contact/submit_url.php">Submit URL</a><br><a href="/privacy_policy.php">Privacy Policy</a> | <a href="/terms_of_use.php">Terms of Use</a>
+		<ul>
+			<li><a href="/contact/" rel="nofollow">Contact Us</a></li>
+			<li><a href="/contact/submit_url.php" rel="nofollow">Submit URL</a></li>
+		</ul>
 	</div>
 </div>
 
 <div class="clear"></div>
+
+</div>
+
+<iframe class="hiddeniframe" name="hiddeniframe"></iframe>
 
 
 
