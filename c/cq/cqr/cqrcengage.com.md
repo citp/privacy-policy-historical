@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cqrcengage.com privacy policy that was archived on 2013-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130330164053id_/http%3A//corporate.cqrollcall.com/content/27/en/Footer%2520Content/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cqrcengage.com privacy policy that was archived on 2014-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140416091340id_/http%3A//corporate.cqrollcall.com/content/27/en/Footer%2520Content/Privacy%2520Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At CQ Roll Call, we have measures in place to protect your privacy. We want to make sure you are comfortable exploring our sites and using our information. The following explains what information we collect about you, how we use it and what choices you have regarding this information. This policy applies to all information collected from or submitted this site. Other CQ Roll Call sites may be covered by their own site-specific privacy policies.
+At CQ Roll Call, we have measures in place to protect your privacy. We want to make sure you are comfortable exploring our sites and using our information. The following explains what information we collect about you, how we use it and what choices you have regarding this information. This policy applies to all information collected from or submitted this site. Other CQ Roll Call sites and apps may be covered by their own site-specific privacy policies.
 
 ## **What we know about you**
 
@@ -14,7 +14,7 @@ Our site uses "cookies" to improve your navigation through the site and to help 
 
 ## **How we use what we learn**
 
-Information we collect is used to improve the content of our sites, to develop products and to provide you with information or support you've requested. Also, we compile and use this information so that we may keep you apprised of special offers (by CQ Roll Call) that may be of interest to you.
+Information we collect is used to improve the content of our sites and apps, to develop products and to provide you with information or support you've requested. Also, we compile and use this information so that we may keep you apprised of special offers (by CQ Roll Call) that may be of interest to you.
 
 ## **What we tell others about you**
 
@@ -26,7 +26,7 @@ This site contains links to other sites, including those produced by other organ
 
 ## **Advertising**
 
-We accept advertising on our sites because the related revenue helps us bring you first-class journalism throughout each day. We use the services of Doubleclick for advertiser reporting.
+We accept advertising on our sites and apps because the related revenue helps us bring you first-class journalism throughout each day. We use the services of Doubleclick for advertiser reporting.
 
 ## **Choices you have**
 
@@ -36,11 +36,11 @@ If you wish to discontinue receiving communications from us at any time, please 
 
 For more information about Internet privacy, you may find one of the following links helpful:
 
-  * Center for Democracy and Technology ([www.cdt.org](http://www.cdt.org/)) 
-  * Electronic Frontiers Foundation (EFF) ([www.eff.org](http://www.eff.org/)) 
-  * Electronic Privacy Information Center (EPIC) ([www.epic.org](http://www.epic.org/)) 
-  * Federal Trade Commission (FTC) ([www.ftc.gov](http://www.ftc.gov/)) 
-  * Online Privacy Alliance ([www.privacyalliance.org](http://www.privacyalliance.org/)) 
+  * Center for Democracy and Technology ([www.cdt.org](http://www.cdt.org/))
+  * Electronic Frontiers Foundation (EFF) ([www.eff.org](http://www.eff.org/))
+  * Electronic Privacy Information Center (EPIC) ([www.epic.org](http://www.epic.org/))
+  * Federal Trade Commission (FTC) ([www.ftc.gov](http://www.ftc.gov/))
+  * Online Privacy Alliance ([www.privacyalliance.org](http://www.privacyalliance.org/))
 
 
   * Connect:
