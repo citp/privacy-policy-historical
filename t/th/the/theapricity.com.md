@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theapricity.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217213617id_/http%3A//www.theapricity.com/forum/content.php%3F7-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theapricity.com privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417181227id_/http%3A//www.theapricity.com/forum/content.php%3F7-Privacy-Policy) for the most accurate reproduction.*
 
 # The Apricity Forum: A European Cultural Community - Privacy Policy
 
