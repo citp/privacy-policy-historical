@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anywho.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221072311id_/http%3A//corporate.yp.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anywho.com privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417182542id_/http%3A//corporate.yp.com/about/privacy-policy) for the most accurate reproduction.*
 
 # YP Privacy Policy - YP
 
