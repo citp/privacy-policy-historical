@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9ddot.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216005223id_/http%3A//9ddot.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9ddot.com privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417023918id_/http%3A//9ddot.com/pp) for the most accurate reproduction.*
 
 # Daily Dose Of Troll » Redefining Humor » Privacy Policy
 
