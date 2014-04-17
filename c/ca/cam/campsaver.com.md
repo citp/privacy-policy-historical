@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the campsaver.com privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915025941id_/http%3A//www.campsaver.com/service/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campsaver.com privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417144110id_/http%3A//www.campsaver.com/service/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security :: CampSaver.com
+
+  *     * The product Commute Messenger Bag has been added to comparison list.
+    * The product Moench Longsleeve Shirt - Men's has been added to comparison list.
+    * The product Adaptor CoolMax Travel Liner has been added to comparison list.
+    * The product Run 2.0 Original Weight Mini-Crew Sock - Men's has been added to comparison list.
+    * The product eVac Dry Sack - 35L has been added to comparison list.
+    * The product 20 mm Accessory Straps has been added to comparison list.
+
+
 
 ## Privacy Statement
 
