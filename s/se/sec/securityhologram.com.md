@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securityhologram.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129034653id_/http%3A//www.securityhologram.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securityhologram.com privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417045002id_/http%3A//www.securityhologram.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Why Security Hologram? 3D Hologram Labels Features. buy hologram stickers Security stickers
 
