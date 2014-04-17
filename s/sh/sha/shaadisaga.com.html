@@ -1,335 +1,330 @@
-<!--The following is the downloaded HTML source of the shaadisaga.com privacy policy that was archived on 2013-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130905120051id_/http%3A//www.shaadisaga.com/staticPages/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shaadisaga.com privacy policy that was archived on 2014-04-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140417032731id_/http%3A//www.shaadisaga.com/privacyPolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><!--<![endif]--><head>
-
-    <!-- Basic Page Needs ==================================================
-================================================== -->
-
+<!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Privacy Policy | ShaadiSaga</title>
-    <meta name="description" content="Place to put your description text">
-    <meta name="author" content="">
-    <!--[if lt IE 9]>
-		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->
+    <meta name="description" content="Create your own free wedding website and wishlist of wedding gifts. You can share story, create wedding gallery, send wedding invitation and much more.">
+    <meta name="author" content="ShaadiSaga">
 
-    <!-- Mobile Specific Metas ==================================================
-================================================== -->
-
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
-    <!-- Scripts ==================================================
-================================================== -->
-    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=567322899952405"></script><script type="text/javascript" src="/js/jquery/jquery-1.7.1.min.js"></script>
-
-    <script src="/js/bootstrap/bootstrap.js"></script>
-    <!-- CSS ==================================================
-================================================== -->
-
-    <link href="/css/bootstrap/bootstrap.css" rel="stylesheet" media="screen">
-    <link href="/css/bootstrap/bootstrap-responsive.css" rel="stylesheet" media="screen">
-    <link href="/css/bootstrap/bootstrap-select.min.css" rel="stylesheet" media="screen">
-    <link href="/css/footer.css" rel="stylesheet" media="screen">
+    <!-- Google Fonts ======= -->
+    <link href="http://fonts.googleapis.com/css?family=Rochester" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Gentium+Basic:400,700" rel="stylesheet" type="text/css">
     <link rel="shortcut icon" href="/images/weddingSection/favicon.png">
 
-
-
+<link rel="stylesheet" href="/css/home/bootstrap.css" type="text/css">
+<link rel="stylesheet" href="/css/home/style.css" type="text/css">
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script async="" charset="utf-8" src="//v2.zopim.com/?21u1GqSJYCZBVOVW29uoIY7uEjPRnA9D" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/jquery_new/jquery-1.10.2.js" type="text/javascript"></script>
+<style>
+    p{
+        margin-top: 10px;
+    }
+</style>
 </head>
 <body>
-<div id="holder">
-    
 
 <div id="fb-root"></div><script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script><script type="text/javascript">FB.init({oauth : true, appId: '567322899952405', status:true, cookie:true, xfbml:true});</script>
+<link href="/css/bootstrap_new/newModal.css" rel="stylesheet">
 
-<script src="/js/validation/nod.js"></script>
-<script type="text/javascript">
-    function facebookLogin() {
-        FB.getLoginStatus(function(response) {
-            if (response.status === 'connected') {
-                window.location ="/facebookAuthentication/facebookLogin";
-            }
-        });
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-44630698-1', 'shaadisaga.com');
+    ga('send', 'pageview');
+
+    function searchCouple(){
+        var searchText = $("#searchText").val();
+        if(searchText){
+            $( "#searchCoupleForm" ).submit();
+        } else{
+            alert('Enter Text To Search');
+        }
+
     }
-    $(document).ready(function() {
-        var metrics = [
-            [ '#signUpEmail', 'email', 'Not a valid Email' ],
-            [ '#signUpEmail', 'presence', 'Cannot be empty' ],
-            [ '#signUpPassword', 'min-length:6', 'At least 6 characters please'  ],
-            [ '#signUpPassword', 'presence', 'Cannot be empty' ],
-            ['[name=category]', 'presence', 'Select a Category'],
-            ['#signUpMobile', 'presence', 'Cannot be empty'],
-            ['#logInEmail', 'presence', 'Cannot be empty'],
-            ['#logInPassword', 'presence', 'Cannot be empty']
-        ];
 
-        $( ".signUpForm" ).nod( metrics );
-        $( ".login-form" ).nod( metrics );
+
+</script>
+<script src="/js/validation/jqBootstrapValidation.js" type="text/javascript"></script>
+<script src="/js/common/headerLogin.js" type="text/javascript"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        var loginError = "";
+        if(loginError == 'true'){
+            $('#myModal').modal();
+            $('#loginFailMessage').css('display','block');
+        }else if(loginError=='exist'){
+            $('#myModal').modal();
+            $('#signUpFailMessage').css('display','block');
+        }else{
+            $('#loginFailMessage').css('display','none');
+            $('#signUpFailMessage').css('display','none');
+        }
     });
 </script>
-<style type="text/css">
-.nav li{
-    margin-top: 22px;;
-}
-</style>
-<div class="navbar navbar-inverse navbar-fixed-top">
-    <div class="navbar-inner">
-        <div class="container-fluid">
-            <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="brand" href="/"><img src="/images/static/logo_temp.png"></a>
-            <div class="nav-collapse collapse">
-                <ul class="nav">
-                    <li class="create_wedding_websites"><a href="/staticPages/createWeddingWebsite">Create Wedding Website</a></li>
-                    <li><a href="/staticPages/weddingPlanning">Wedding Planning</a></li>
-                    <li style="margin-left: 20px;margin-right: 20px;">
-                        <form action="/gifter/searchCoupleHeader" method="post" class="form-search">
-                            <div class="input-append">
-                                <input type="text" name="searchText" class="span3 navbar-search" placeholder="Search Couple...">
-                                <button type="submit" class="btn" style="margin-top: 5px;">
-                                    <i class="icon-search"></i>
-                                </button>
+
+<div class="top-bar">
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation" style="background: #181818">
+        <div class="logo-area">
+            <a href="/"><img src="/images/home/shaadisaga-logo.png" alt="ShaadiSaga"></a>
+        </div>
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <div class="navbar-collapse collapse">
+            <ul class="main-nav">
+                <li><a href="/create-Wedding-Website" id="createWebsiteHeader">Wedding Website</a></li>
+                <li><a href="/wedding-Planning">Wedding Planning</a></li>
+                
+            </ul>
+            <div class="search-area">
+                <form action="/gifter/searchCoupleHeader" id="searchCoupleForm">
+                    <input type="text" class="form-control" name="searchText" id="searchText" placeholder="Search Couple">
+                    <a href="javascript:void(0);" class="search-icon" onclick="searchCouple();"><span class="glyphicon glyphicon-search">&nbsp;</span></a>
+                </form>
+            </div>
+            <div class="pull-right" style="padding-right: 50px;padding-top:15px;">
+                
+                    <a href="javascript:void(0);" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Login / Sign Up</a>
+                
+                
+            </div>
+        </div>
+    </div>
+</div>
+<!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+    window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+            d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+            _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+        $.src='//v2.zopim.com/?21u1GqSJYCZBVOVW29uoIY7uEjPRnA9D';z.t=+new Date;$.
+                type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+</script>
+<!--End of Zopim Live Chat Script-->
+
+<input type="hidden" id="facebookAuthenticationUrl" name="facebookAuthenticationUrl" value="/facebookAuthentication/facebookLogin">
+<input type="hidden" id="googleAuthenticationUrl" name="googleAuthenticationUrl" value="/googleAuthentication/googleLogin">
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-area">
+                <div class="modal-cont">
+                    <div class="modal-body">
+                        <h2>SignUp/LogIn</h2>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="col-md-6 text-center">
+                                    <fb:login-button scope="email,publish_stream,manage_pages" onlogin="facebookLogin();" size="large">
+                                        FB CONNECT
+                                    </fb:login-button>
+                                </div>
+                                <div class="col-md-6 text-center">
+                                    
+                                        <span id="signinButton">
+                                            <span class="g-signin" data-callback="signinCallback" data-clientid="306447388886.apps.googleusercontent.com" data-cookiepolicy="single_host_origin" data-requestvisibleactions="http://schemas.google.com/AddActivity" data-scope="https://www.googleapis.com/auth/plus.login https://www.googleapis.com/auth/plus.profile.emails.read">
+                                            </span>
+                                        </span>
+                                    
+                                </div>
                             </div>
-                        </form>
-                    </li>
-                    <li class="catalog-icon"><a href="/productHome/getProducts">Browse Catalog</a></li>
+                        </div>
+
+                        <div class="row">
+                                <div class="col-md-6">
+                                    <form class="form-horizontal" action="/home/signUp" method="POST" role="form">
+                                        <div class="form-group">
+                                            <h4 class="header-font">Sign Up</h4>
+                                        </div>
+                                        <div class="form-group">
+                                            <input type="text" id="signUpEmail" class="form-control" placeholder="Enter Email" name="email" onblur="$('#signUpFailMessage').hide()" data-validation-ajax-ajax="/home/checkEmailAvailability" required="">
+                                        </div>
+                                        <div class="form-group">
+                                            <input type="password" minlength="6" id="signUpPassword" class="form-control" placeholder="Password" name="password" required="">
+                                            <p class="help-block"></p>
+                                        </div>
+                                        <div class="form-group">
+                                            <input type="text" minlength="10" id="signUpMobile" class="form-control" placeholder="Phone" name="mobileNumber" required="">
+                                            <p class="help-block"></p>
+                                        </div>
+                                        <div class="form-group">
+                                            <select id="category" name="category" onchange="showUserType(this.value)" class="form-control" required="">
+                                                <option value="">What you want to do?</option>
+                                                <option value="Couple" id="couple">Create Wedding Website</option>
+                                                <option value="Invitation" id="invitation">Send Invitation</option>
+                                            </select>
+                                        </div>
+
+                                        <div id="userType" class="form-group">
+                                            <label for="purpose" class="col-md-4 control-label">You are</label>
+                                            <div class="col-md-8">
+                                                <select name="userType" id="purpose" class="form-control">
+                                                    <option value="BRIDE">Bride</option>
+                                                    <option value="GROOM">Groom</option>
+                                                </select>
+                                            </div>
+
+                                        </div>
+                                        <div class="form-group">
+                                            <button class="btn btn-large btn-primary" type="submit">Sign Up</button>
+                                        </div>
+                                    </form>
+                                </div>
+                                <div class="col-md-5 col-md-offset-1">
+                                    <form class="form-horizontal" action="/j_spring_security_check" method="POST" role="form">
+                                        <div class="form-group">
+                                            <h4 class="header-font">Sign In</h4>
+                                        </div>
+                                        <div class="form-group">
+                                            <input type="email" class="form-control" id="logInEmail" placeholder="Enter Email" name="j_username" required="">
+                                        </div>
+
+                                        <div class="form-group">
+                                            <input type="password" id="logInPassword" class="form-control" placeholder="Password" name="j_password" required="">
+                                        </div>
+                                        <div class="form-group">
+                                            <a href="/register/forgotPassword">Forgot your password</a>
+                                        </div>
+                                        <div class="form-group">
+                                            <label>
+                                                <input type="checkbox" value="remember-me" name="_spring_security_remember_me"> Remember me
+                                            </label>
+                                        </div>
+                                        <div class="form-group">
+                                            <button class="btn btn-large btn-primary" type="submit">Sign In</button>
+                                        </div>
+                                    </form>
+                                </div>
+
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid">
+    <div class="row banner-area">
+        <div class="col-sm-4 banner-logo"></div>
+        <div class="col-sm-8" style="color:white;">
+            <div class="row">
+                <div class="col-sm-12" style="height:500px;overflow:scroll;">
+                    <h3>Privacy Policy</h3>
+                    <span>This privacy policy applies to your use of the ShaadiSaga website located at www.ShaadiSaga.com (hereafter known as ShaadiSaga),but not does apply to any third party sites that may be linked to them, or any relationships you may have with the businesses listed on ShaadiSaga.</span>
+                    <span>The terms "we", "us", and "ShaadiSaga" refer to ShaadiSaga.com and the terms "you" and "your" refer to you, as a user of ShaadiSaga.com. The term "personal information" means information that you provide to us which personally identifies you to be contacted or identified, such as your name, phone number, email address, and any other data that is tied to such information.</span>
+                    <span><strong>By using ShaadiSaga.com, you agree to be bound by terms of this privacy policy.</strong></span>
+                    <p><strong>1. Information we collect and how we use it</strong></p>
+                    <span>We use commercially reasonable efforts to ensure that the collection of personal information is limited to that which is necessary to fulfill the purposes identified below. If we use your information in a manner different than the purpose for which it is collected, then we will ask you for your consent prior to such use.</span>
+                    <span><i>Account information</i>. If you create an account to take advantage of the full range of services offered on Shaadisaga.com, we ask for and record personal information such as your name and email address. We use your email address to send you updates, news, and newsletters (if you willingly subscribe to the newsletter during signup, or anytime after sign up) and contact you on behalf of other users (such as other users who send you compliments, personal messages, or favorite reviews).</span>
+                    <span><i>Telephone numbers</i>. Any telephone number entered as part of the account information and which has not downloaded will not be shared with any third party. However, Shaadisaga assures that this information will not be made public or sold to any third party. Only the listed business contact info will be made public on the will of proprietor of that business. Shaadisaga is not liable for misuse of this information by these specific businesses or persons related to these businesses.</span>
+                    <span><i>Submissions</i>. We store and may publicly display your submissions in order to provide the services that we offer. When we display your submissions, we do so together with your account name (first name and last initial). The term "submissions" refers to the information that you submit or post to Shaadisaga for public display, such as business ratings, reviews, photos, compliments, and the information that you display as part of your account profile.</span>
+                    <span><i>Feedback</i>. If you contact us to provide feedback, register a complaint, or ask a question, we will record any personal information and other content that you provide in your communication so that we can effectively respond to your communication.</span>
+                    <span><i>Activity</i>. We record information relating to your use of Shaadisaga, such as the searches you undertake, the pages you view, your browser type, IP address, location, requested URL, referring URL, and timestamp information. We use this type of information to administer Shaadisaga and provide the highest possible level of service to you. We also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of Shaadisaga. You cannot be identified from this aggregate information.</span>
+                    <span><i>Cookies</i>. We send cookies to your computer in order to uniquely indentify your browser and improve the quality of our service. The term "cookies" refers to small pieces of information that a website sends to your computer's hard drive while you are viewing the site. We may use both session cookies (which expire once you close your browser) and persistent cookies (which stay on your computer until you delete them). Persistent cookies can be removed by following your browser help file directions. If you choose to disable cookies, some areas of Shaadisaga may not work properly or at all. Shaadisaga uses third party tools, who may collect anonymous information about your visits to Shaadisaga using cookies, and interaction with Shaadisaga products and services. Such third parties may also use information about your visits to Shaadisaga products and services and other web sites to target advertisements for Shaadisaga products and services. These third parties may have access to the name, phone number, address, email address, or any personally identifying information about Shaadisaga users. Please refer to the help file of your browser to understand the process of deactivating Cookies on your browser.</span>
+                    <span><i>Enforcement</i>. We may use the information we collect in connection with your use of Shaadisaga(including your personal information) in order to investigate, enforce, and apply our Terms of Service and Privacy Policy.</span>
+                    <p><strong>2. Transfer of information</strong></p>
+                    <span>We may distribute your submissions to third parties, as permitted pursuant to our Terms of Service. The third parties may in turn publicly display or publish your submissions in connection with their own websites and media platforms. When we distribute your submissions to third parties, we typically include your account name and details.</span>
+                    <span>We may share your personal information with third parties to provide you with services that we offer through Shaadisaga to conduct quality assurance testing, facilitate creation of accounts, provide technical and customer support, or provide specific services, such as synchronization of your contacts with other software applications, in accordance with your instructions. These third parties are required not to use your personal information other than to provide the services requested by you.</span>
+                    <span>We may share your personal information with our parent company, subsidiaries, joint ventures, or other companies under a common control (collectively, "Affiliates") that we may have now or in the future, in which case we will require them to honor this Privacy Policy. If another company acquires our company or our assets, that company will possess your personal information, and will assume the rights and obligations with respect to that information as described in this Privacy Policy</span>
+                    <span>We may disclose your personal information to third parties in a good faith belief that such disclosure is reasonably necessary to (a) take action regarding suspected illegal activities; (b) enforce or apply our Terms of Service and Privacy Policy; (c) comply with legal process, such as a search warrant, subpoena, statute, or court order; or (d) protect our rights, reputation, and property, or that of our users, affiliates, or the public. Please note that we are not required to question or contest the validity of any search warrant, subpoena or other similar governmental request that we receive.</span>
+                    <span>We may disclose information in the aggregate to third parties relating to user behavior in connection with actual or prospective business relationship with those third parties, such as advertisers and content distributors. For example, we may disclose the number of users that have been exposed to, or clicked on, advertising banners.</span>
+                    <p><strong>3. Others' information</strong></p>
+                    <span>You may choose to provide us with another person's e-mail address so that person may be invited to create an account on this website and become your friend. We use this information to contact and, if necessary, remind that person about the invitation. By providing us with another person's e-mail address, you represent to us that you have obtained the consent of the person concerned as regards such disclosure to us of their personal information. All invitees are provided with the option not to receive further invitations. We may disclose such information if required to do so in order to comply with legal process, as described above.</span>
+                    <p><strong>4. Links</strong></p>
+                    <span>Shaadisaga may contain links to third party websites to which we have no affiliation. Except as set forth herein, we do not share your personal information with those third parties, and are not responsible for their privacy practices. We suggest you read the privacy policies on all such third party websites</span>
+                    <p><strong>5. Controlling your personal data</strong></p>
+                    <span>To the extent you include personal information in your submissions (such as a photo of yourself), third parties may be able to identify you, associate you with your user account, and contact you. Third parties can also associate you with your user account using the member lookup feature on Shaadisaga, but only if the third party already knows your full name and you include information in your submission that allows the third party to distinguish you from other users who might share the same full name. Please do not include information in your submissions that you expect to keep private. In addition, you can reduce the risk of being personally identified by choosing a fictitious account name, though doing so could detract from the credibility of your submissions.</span>
+                    <span>As a registered Shaadisaga user, you can modify some of your personal information and your privacy preferences by accessing the "Account" section of this website. For example, you may choose not to receive e-mail solicitations from Shaadisaga by accessing the "Account" tab on Shaadisaga(after signing in) and updating your newsletter/notification settings.</span>
+                    <p><strong>6. Security</strong></p>
+                    <span>Your account is password protected. We use industry standard measures to protect the personal information that is stored in our database. We limit the access to your personal information to those employees and contractors who need access to perform their job function, such as our customer service personnel. If you have any questions about the security on Shaadisaga please contact us. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that your personal information will never be disclosed in a manner that is inconsistent with this Privacy Policy.</span>
+                    <span><i>You hereby acknowledge that Shaadisaga is not responsible for any intercepted information sent via the internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner.</i></span>
+                    <p><strong>7. E-mails and opt-out</strong></p>
+                    <span>You may opt-out of receiving any messages or newsletters from us by changing your notification settings under the "Account" tab after you log on to Shaadisaga. Unregistered users who receive e-mails from us may also opt-out of receiving further e-mails by following the instructions contained in our e-mails. Despite your indicated e-mail preferences, we may send you notices of any updates to our Terms of Use or Privacy Policy.</span>
+                    <p><strong>8. Terms and modifications to this Privacy Policy</strong></p>
+                    <span>We may modify this Privacy Policy at any time, and we will post any new versions on this page. If we make any material changes in the way we use your personal information, we will notify you by sending an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our website. Any such changes will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our website. These changes will be effective immediately for new users of Shaadisaga Please note that at all times you are responsible for updating your personal information to provide us with your most current e-mail address. In the event that the last e-mail you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of personal information that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your personal information, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us. Continued use of Shaadisaga following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.</span>
+                    <p><strong>9. Dispute resolution</strong></p>
+                    <span>If you believe that Shaadisaga not adhered to this Privacy Policy you may write to Shaadisaga at the following address:</span>
+                    <span><strong>support@shaadisaga.com</strong></span>
+                    <span>In your email, please describe in as much detail as possible ways in which you believe the Privacy Policy has not been complied with. We will investigate your complaint promptly.</span>
+                    <p><strong>10. Contacting the website and access to your personal information</strong></p>
+                    <span>Upon written request, subject to certain exceptions, Shaadisaga will inform you of the existence, use, and disclosure of your personal information and will give you access to that information. Access requests should be sent to our Privacy Officer, using the contact information above. When requesting access to your personal information, we may request specific information from you to enable us to confirm your identity and right to access, as well as to search for and provide the personal information that we hold about you. We may charge you a fee to access your personal information to cover our costs; however, we will advise you of any fee in advance, which will be no more than any maximum fee prescribed by law.</span>
+                    <span>If you have any questions about this Privacy Policy, you can contact us using the contact information listed above.</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-lg-12 f-txt">
+            <h3><img src="/images/homePage/degin-left.png">It's free and it'll always be!<img src="/images/homePage/degin-right.png"></h3> </div>
+    </div>
+
+</div>
+<footer class="footer">
+    <div class="container footer-area">
+        <div class="row">
+            <div class="col-md-3">
+                <h4>Wedding Website</h4>
+                <ul>
+                    <li><a href="/create-Wedding-Website" id="createWebsiteFooter">Wedding Website</a></li>
+                    <li><a href="/gifter/searchPage">Search Couples</a></li>
+                    <li><a href="/howItWorks">How It Works</a></li>
+                    <li><a href="http://demo.shaadisaga.com" title="sampleWebsite" target="_blank">See Sample Website</a></li>
                 </ul>
-                <div class="navbar-text pull-right">
-                    
-                    
-                        <ul class="nav">
-                            <li class="pull-right">
-                                <a href="#myModal" role="button" data-toggle="modal" class="navbar-link">Login/Sign Up</a>
-                            </li>
-                        </ul>
-                    
-                </div>
-            </div><!--/.nav-collapse -->
-        </div>
-    </div>
-</div>
-
-<div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-    <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-        <h3 id="myModalLabel">Sign Up/Login</h3>
-    </div>
-    <div class="modal-body">
-        <div class="container-fluid">
-            <div class="row-fluid">
-                <div class="span6 offset4">
-                    <fb:login-button scope="email,publish_stream" onlogin="facebookLogin();" size="large">
-                        CONNECT WITH FACEBOOK
-                    </fb:login-button>
-                </div>
             </div>
-            <div class="row-fluid">
-                <div class="span6">
-                    <form class="form-signin signUpForm" action="/user/signUp" method="POST">
-                        <h4 class="form-signin-heading">Sign Up</h4>
-                        <div class="control-group">
-                            <div class="controls">
-                                <input type="text" id="signUpEmail" class="input-block-level" placeholder="Email address" name="email">
-                            </div>
-                        </div>
-                        <div class="control-group">
-                            <div class="controls">
-                                <input type="password" id="signUpPassword" class="input-block-level" placeholder="Password" name="password">
-                            </div>
-                        </div>
-                        <div class="control-group">
-                            <div class="controls">
-                                <input type="text" id="signUpMobile" class="input-block-level" placeholder="Phone" name="mobileNumber">
-                            </div>
-                        </div>
-                        <div class="control-group">
-                            <div class="controls">
-                                <select class="selectpicker span9" name="category">
-                                    <option value="" disabled="" selected="">What you want to do?</option>
-                                    <option value="Couple">Create Wedding Website</option>
-                                    <option value="Gifter">Search Couples</option>
-                                </select>
-                            </div>
-                        </div>
-                        <button class="btn btn-large btn-primary" type="submit">Sign Up</button>
+            <div class="col-md-3">
+                <h4>Wedding Planning</h4>
+                <ul>
+                    <li><a href="/wedding-Planning">Our Services</a></li>
+                </ul>
+                <h4>Gifting From</h4>
+                <img src="/images/home/flipkart.png">
+                <img src="/images/home/amazon.png"></div>
 
-                    </form>
-                </div>
-                <div class="span6">
-                    <form class="form-signin login-form" action="/j_spring_security_check" method="POST">
-                        <h4 class="form-signin-heading">Sign In</h4>
-                        <div class="control-group">
-                            <div class="controls">
-                                <input type="text" id="logInEmail" class="input-block-level" placeholder="Email address" name="j_username">
-                            </div>
-                        </div>
-                        <div class="control-group">
-                            <div class="controls">
-                                <input type="password" id="logInPassword" class="input-block-level" placeholder="Password" name="j_password">
-                            </div>
-                        </div>
-                        <div class="control-group">
-                            <div class="controls">
-                                <label class="checkbox"><input type="checkbox" value="remember-me" name="_spring_security_remember_me"> Remember me</label>
-                            </div>
-                        </div>
-                        <button class="btn btn-large btn-primary" type="submit">Sign In</button>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-    <div id="body" class="container-fluid" style=" margin-top: 140px;margin-bottom: 30px;">
-        <div class="row-fluid">
-            <div class="span12">
-                <div class="span1"></div>
-                <div class="span10" style="border:20px solid #ededed;padding: 10px; ">
-                    <h3 style="border-bottom: 1px dotted;;">Privacy Policy</h3>
-                    <p>This privacy policy applies to your use of the ShaadiSaga website located at www.ShaadiSaga.com (hereafter known as ShaadiSaga),but not does apply to any third party sites that may be linked to them, or any relationships you may have with the businesses listed on ShaadiSaga.</p>
-                    <p>The terms "we", "us", and "ShaadiSaga" refer to ShaadiSaga.com and the terms "you" and "your" refer to you, as a user of ShaadiSaga.com. The term "personal information" means information that you provide to us which personally identifies you to be contacted or identified, such as your name, phone number, email address, and any other data that is tied to such information.</p>
-                    <p><strong>By using ShaadiSaga.com, you agree to be bound by terms of this privacy policy.</strong></p>
-                    <h4>1. Information we collect and how we use it</h4>
-                    <p>We use commercially reasonable efforts to ensure that the collection of personal information is limited to that which is necessary to fulfill the purposes identified below. If we use your information in a manner different than the purpose for which it is collected, then we will ask you for your consent prior to such use.</p>
-                    <p><i>Account information</i>. If you create an account to take advantage of the full range of services offered on Shaadisaga.com, we ask for and record personal information such as your name and email address. We use your email address to send you updates, news, and newsletters (if you willingly subscribe to the newsletter during signup, or anytime after sign up) and contact you on behalf of other users (such as other users who send you compliments, personal messages, or favorite reviews).</p>
-                    <p><i>Telephone numbers</i>. Any telephone number entered as part of the account information and which has not downloaded will not be shared with any third party. However, Shaadisaga assures that this information will not be made public or sold to any third party. Only the listed business contact info will be made public on the will of proprietor of that business. Shaadisaga is not liable for misuse of this information by these specific businesses or persons related to these businesses.</p>
-                    <p><i>Submissions</i>. We store and may publicly display your submissions in order to provide the services that we offer. When we display your submissions, we do so together with your account name (first name and last initial). The term "submissions" refers to the information that you submit or post to Shaadisaga for public display, such as business ratings, reviews, photos, compliments, and the information that you display as part of your account profile.</p>
-                    <p><i>Feedback</i>. If you contact us to provide feedback, register a complaint, or ask a question, we will record any personal information and other content that you provide in your communication so that we can effectively respond to your communication.</p>
-                    <p><i>Activity</i>. We record information relating to your use of Shaadisaga, such as the searches you undertake, the pages you view, your browser type, IP address, location, requested URL, referring URL, and timestamp information. We use this type of information to administer Shaadisaga and provide the highest possible level of service to you. We also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of Shaadisaga. You cannot be identified from this aggregate information.</p>
-                    <p><i>Cookies</i>. We send cookies to your computer in order to uniquely indentify your browser and improve the quality of our service. The term "cookies" refers to small pieces of information that a website sends to your computer's hard drive while you are viewing the site. We may use both session cookies (which expire once you close your browser) and persistent cookies (which stay on your computer until you delete them). Persistent cookies can be removed by following your browser help file directions. If you choose to disable cookies, some areas of Shaadisaga may not work properly or at all. Shaadisaga uses third party tools, who may collect anonymous information about your visits to Shaadisaga using cookies, and interaction with Shaadisaga products and services. Such third parties may also use information about your visits to Shaadisaga products and services and other web sites to target advertisements for Shaadisaga products and services. These third parties may have access to the name, phone number, address, email address, or any personally identifying information about Shaadisaga users. Please refer to the help file of your browser to understand the process of deactivating Cookies on your browser.</p>
-                    <p><i>Enforcement</i>. We may use the information we collect in connection with your use of Shaadisaga(including your personal information) in order to investigate, enforce, and apply our Terms of Service and Privacy Policy.</p>
-                    <h4>2. Transfer of information</h4>
-                    <p>We may distribute your submissions to third parties, as permitted pursuant to our Terms of Service. The third parties may in turn publicly display or publish your submissions in connection with their own websites and media platforms. When we distribute your submissions to third parties, we typically include your account name and details.</p>
-                    <p>We may share your personal information with third parties to provide you with services that we offer through Shaadisaga to conduct quality assurance testing, facilitate creation of accounts, provide technical and customer support, or provide specific services, such as synchronization of your contacts with other software applications, in accordance with your instructions. These third parties are required not to use your personal information other than to provide the services requested by you.</p>
-                    <p>We may share your personal information with our parent company, subsidiaries, joint ventures, or other companies under a common control (collectively, "Affiliates") that we may have now or in the future, in which case we will require them to honor this Privacy Policy. If another company acquires our company or our assets, that company will possess your personal information, and will assume the rights and obligations with respect to that information as described in this Privacy Policy</p>
-                    <p>We may disclose your personal information to third parties in a good faith belief that such disclosure is reasonably necessary to (a) take action regarding suspected illegal activities; (b) enforce or apply our Terms of Service and Privacy Policy; (c) comply with legal process, such as a search warrant, subpoena, statute, or court order; or (d) protect our rights, reputation, and property, or that of our users, affiliates, or the public. Please note that we are not required to question or contest the validity of any search warrant, subpoena or other similar governmental request that we receive.</p>
-                    <p>We may disclose information in the aggregate to third parties relating to user behavior in connection with actual or prospective business relationship with those third parties, such as advertisers and content distributors. For example, we may disclose the number of users that have been exposed to, or clicked on, advertising banners.</p>
-                    <h4>3. Others' information</h4>
-                    <p>You may choose to provide us with another person's e-mail address so that person may be invited to create an account on this website and become your friend. We use this information to contact and, if necessary, remind that person about the invitation. By providing us with another person's e-mail address, you represent to us that you have obtained the consent of the person concerned as regards such disclosure to us of their personal information. All invitees are provided with the option not to receive further invitations. We may disclose such information if required to do so in order to comply with legal process, as described above.</p>
-                    <h4>4. Links</h4>
-                    <p>Shaadisaga may contain links to third party websites to which we have no affiliation. Except as set forth herein, we do not share your personal information with those third parties, and are not responsible for their privacy practices. We suggest you read the privacy policies on all such third party websites</p>
-                    <h4>5. Controlling your personal data</h4>
-                    <p>To the extent you include personal information in your submissions (such as a photo of yourself), third parties may be able to identify you, associate you with your user account, and contact you. Third parties can also associate you with your user account using the member lookup feature on Shaadisaga, but only if the third party already knows your full name and you include information in your submission that allows the third party to distinguish you from other users who might share the same full name. Please do not include information in your submissions that you expect to keep private. In addition, you can reduce the risk of being personally identified by choosing a fictitious account name, though doing so could detract from the credibility of your submissions.</p>
-                    <p>As a registered Shaadisaga user, you can modify some of your personal information and your privacy preferences by accessing the "Account" section of this website. For example, you may choose not to receive e-mail solicitations from Shaadisaga by accessing the "Account" tab on Shaadisaga(after signing in) and updating your newsletter/notification settings.</p>
-                    <h4>6. Security</h4>
-                    <p>Your account is password protected. We use industry standard measures to protect the personal information that is stored in our database. We limit the access to your personal information to those employees and contractors who need access to perform their job function, such as our customer service personnel. If you have any questions about the security on Shaadisaga please contact us. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that your personal information will never be disclosed in a manner that is inconsistent with this Privacy Policy.</p>
-                    <p><i>You hereby acknowledge that Shaadisaga is not responsible for any intercepted information sent via the internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner.</i></p>
-                    <h4>7. E-mails and opt-out</h4>
-                    <p>You may opt-out of receiving any messages or newsletters from us by changing your notification settings under the "Account" tab after you log on to Shaadisaga. Unregistered users who receive e-mails from us may also opt-out of receiving further e-mails by following the instructions contained in our e-mails. Despite your indicated e-mail preferences, we may send you notices of any updates to our Terms of Use or Privacy Policy.</p>
-                    <h4>8. Terms and modifications to this Privacy Policy</h4>
-                    <p>We may modify this Privacy Policy at any time, and we will post any new versions on this page. If we make any material changes in the way we use your personal information, we will notify you by sending an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our website. Any such changes will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our website. These changes will be effective immediately for new users of Shaadisaga Please note that at all times you are responsible for updating your personal information to provide us with your most current e-mail address. In the event that the last e-mail you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of personal information that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your personal information, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us. Continued use of Shaadisaga following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.</p>
-                    <h4>9. Dispute resolution</h4>
-                    <p>If you believe that Shaadisaga not adhered to this Privacy Policy you may write to Shaadisaga at the following address:</p>
-                    <p><strong>support@shaadisaga.com</strong></p>
-                    <p>In your email, please describe in as much detail as possible ways in which you believe the Privacy Policy has not been complied with. We will investigate your complaint promptly.</p>
-                    <h4>10. Contacting the website and access to your personal information</h4>
-                    <p>Upon written request, subject to certain exceptions, Shaadisaga will inform you of the existence, use, and disclosure of your personal information and will give you access to that information. Access requests should be sent to our Privacy Officer, using the contact information above. When requesting access to your personal information, we may request specific information from you to enable us to confirm your identity and right to access, as well as to search for and provide the personal information that we hold about you. We may charge you a fee to access your personal information to cover our costs; however, we will advise you of any fee in advance, which will be no more than any maximum fee prescribed by law.</p>
-                    <p>If you have any questions about this Privacy Policy, you can contact us using the contact information listed above.</p>
-                </div>
-                <div class="span1"></div>
-            </div>
-        </div>
-    </div>
-    <div id="push"></div>
-</div>
-
-<!-- FOOTER -->
-<style type="text/css">
-footer{
-    color: white;
-}
-footer h4{
-    font-size: 15px;
-    border-bottom: 1px dotted;
-    color: #FF8C00;
-}
-footer ul{
-    list-style-type:none;
-    margin-left: 0px;
-    font-size: 12px;
-
-}
-    footer ul li a{
-        color:#F5F5F5;
-    }
-</style>
-<footer style="background: #333333;">
-    <div class="container-fluid">
-        <div class="row-fluid">
-            <div class="span8">
-                <div class="row-fluid">
-                    <div class="span4">
-                        <h4>Wedding Website</h4>
-                        <ul>
-                            <li><a href="/staticPages/createWeddingWebsite" id="createWebsiteFooter">Create Wedding Website</a></li>
-                            <li><a href="/gifter/searchPage">Search Couples</a></li>
-                            <li><a href="/staticPages/howItWorks">How It Works</a></li>
-                            <li><a href="http://demo.shaadisaga.com" title="sampleWebsite" target="_blank">See Sample Website</a></li>
-                            <li><a href="#" title="">What People Are Saying</a></li>
-                        </ul>
-                    </div>
-                    <div class="span4">
-                        <h4>Wedding Planning</h4>
-                        <ul>
-                            <li><a href="/staticPages/weddingPlanning">Our Services</a></li>
-                        </ul>
-                        <h4>Gifting From</h4>
-                        <ul>
-                            <li>
-                                <img src="https://s3-us-west-2.amazonaws.com/shaadisaga/images/flipkart-logo.gif" width="100">
-                                <img src="https://s3-us-west-2.amazonaws.com/shaadisaga/images/amazon_logo.jpg" width="100">
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="span4">
-                        <h4>About Us</h4>
-                        <ul>
-                            <li><a href="javascript:void(0);">About Us</a></li>
-                            <li><a href="/staticPages/contactUs">Contact Us</a></li>
-                            <li><a href="/staticPages/privacyPolicy">Privacy Policy</a></li>
-                            <li><a href="/staticPages/terms">Terms &amp; Conditions</a></li>
-                            <li><a href="#" title="">Careers</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="span4">
-                <div class="row-fluid">
-                    <div class="span12" style="margin-left: 10px;">
-                        <h4>Social Stuff</h4>
-                        <div id="fb-root"></div>
-                        <script>(function(d, s, id) {
-                            var js, fjs = d.getElementsByTagName(s)[0];
-                            if (d.getElementById(id)) return;
-                            js = d.createElement(s); js.id = id;
-                            js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=567322899952405";
-                            fjs.parentNode.insertBefore(js, fjs);
-                        }(document, 'script', 'facebook-jssdk'));</script>
-                        <div class="fb-like" data-href="http://www.facebook.com/shaadisaga" data-width="350" data-colorscheme="dark" data-show-faces="true" data-send="true"></div>
-                    </div>
-                    <div class="span12">
-                        <h4>Follow us on</h4>
-                        <a href="https://www.facebook.com/shaadisaga" target="_blank" data-placement="top" data-original-title="Find us on via facebook"><img style="width:40px" src="https://s3-us-west-2.amazonaws.com/shaadisaga/images/facebook.png" alt="facebook" title="Follow us on facebook"></a>
-                        <a href="https://twitter.com/ShaadiSaga" target="_blank" data-placement="top" data-original-title="Find us on via twitter"><img style="width:40px" src="https://s3-us-west-2.amazonaws.com/shaadisaga/images/twitter.png" alt="twitter" title="Follow us on twitter"></a>
-                        <a href="https://plus.google.com/u/0/104260804416229678022/posts" target="_blank" data-placement="top" data-original-title="Find us on via google+"><img style="width:40px" src="https://s3-us-west-2.amazonaws.com/shaadisaga/images/google.png" alt="Follow us on google+" title="google+"></a>
-                    </div>
-
-                </div>
+            <div class="col-md-2 col-sm-4">
+                <h4>ShaadiSaga</h4>
+                <ul>
+                    <li><a href="/contactUs">Contact Us</a></li>
+                    <li><a href="/privacyPolicy">Privacy Policy</a></li>
+                    <li><a href="/terms">Terms &amp; Conditions</a></li>
+                </ul>
             </div>
 
-        </div>
-        <div class="row-fluid" style="margin-top: 20px;">
-            <div class="span12" style="border-top: 1px dotted;color: #FF8C00">
-                <p style="font-size: 12px;">© 2013 ShaadiSaga.com</p>
+            <div class="col-md-4">
+                <h4>Social </h4>
+                <div class="fb-like fb_iframe_widget" data-href="http://www.facebook.com/shaadisaga" data-width="350" data-colorscheme="dark" data-show-faces="true" data-send="true" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=567322899952405&amp;color_scheme=dark&amp;href=http%3A%2F%2Fwww.facebook.com%2Fshaadisaga&amp;locale=en_US&amp;sdk=joey&amp;send=true&amp;show_faces=true&amp;width=350"><span style="vertical-align: bottom; width: 350px; height: 65px;"><iframe name="fa14a14fc" width="350px" height="1000px" frameborder="0" allowtransparency="true" scrolling="no" title="fb:like Facebook Social Plugin" src="http://www.facebook.com/plugins/like.php?app_id=567322899952405&amp;channel=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter%2FLEdxGgtB9cN.js%3Fversion%3D40%23cb%3Df1fbc49ac4%26domain%3Dwww.shaadisaga.com%26origin%3Dhttp%253A%252F%252Fwww.shaadisaga.com%252Ff12c96f964%26relation%3Dparent.parent&amp;color_scheme=dark&amp;href=http%3A%2F%2Fwww.facebook.com%2Fshaadisaga&amp;locale=en_US&amp;sdk=joey&amp;send=true&amp;show_faces=true&amp;width=350" class="" style="border: none; visibility: visible; width: 350px; height: 65px;"></iframe></span></div>
+                <h4>Follow us on</h4>
+                <a href="https://www.facebook.com/shaadisaga" target="_blank" data-placement="top" data-original-title="Find us on via facebook"><img src="/images/home/f-icon.png"></a>
+                <a href="https://twitter.com/ShaadiSaga" target="_blank" data-placement="top" data-original-title="Find us on via twitter"><img src="/images/home/t-icon.png"></a>
+                <a href="https://plus.google.com/u/0/104260804416229678022/posts" target="_blank" data-placement="top" data-original-title="Find us on via google+"><img src="/images/home/g-icon.png"></a>
+                <a href="http://www.linkedin.com/company/shaadisaga" target="_blank" data-placement="top" data-original-title="Find us on via linkedIn"><img src="/images/home/in-icon.png"></a>
+
             </div>
         </div>
     </div>
 
+
+    <div class="copyright"> ©  Copyright 2014 <span><a href="http://www.shaadisaga.com" style="color: #bf1e2d;">Shaadisaga.com</a></span>- All Rights Reserved</div>
 </footer>
+<script src="/js/bootstrap_new/bootstrap.js"></script>
 
 
 </body></html>
