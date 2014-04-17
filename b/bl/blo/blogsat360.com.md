@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogsat360.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220143119id_/http%3A//blogsat360.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogsat360.com privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417174335id_/http%3A//blogsat360.com/privacypolicy) for the most accurate reproduction.*
 
 # India Entertainment Blog | Fashion | Business | Lifestyle | Bollywood | Technology » PRIVACY POLICY
 
