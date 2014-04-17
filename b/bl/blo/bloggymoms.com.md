@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggymoms.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808235357id_/http%3A//www.bloggymoms.com/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.bloggymoms.com%252F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggymoms.com privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417071953id_/http%3A//www.bloggymoms.com/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.bloggymoms.com%252F) for the most accurate reproduction.*
 
 # Privacy Policy - Bloggy Moms
 
