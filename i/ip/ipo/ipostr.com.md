@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipostr.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514211509id_/http%3A//ipostr.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipostr.com privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417085610id_/http%3A//ipostr.com/privacypolicy.php) for the most accurate reproduction.*
 
 # 
 
