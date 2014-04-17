@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the troweprice.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818073335id_/http%3A//corporate.troweprice.com/ccw/home/privacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the troweprice.com privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417185540id_/http%3A//corporate.troweprice.com/ccw/home/privacyPolicy.do) for the most accurate reproduction.*
 
-# T. Rowe Price investment management
+# Privacy Policy | T. Rowe Price
 
 ### General Privacy Policy*
 
@@ -22,28 +22,36 @@ Except as noted below for certain users, we do not have any personally identifia
 
 If you are a registered user of our Web site who has enabled online access for your account(s), we collect all information that you submit through an online session, such as a transaction you've requested us to make. Also, we will recognize you each time you visit our site, even if you do not log in to conduct a transaction or check your balances. In this manner, your general usage patterns and other information noted above would be linked to you specifically. This information can be useful to us when assessing and offering tools and other features for such users. 
 
+On some of our sites that allow users to post comments, we may offer you the option to sign in using your third-party social network login credentials such as for your Facebook, Twitter, or LinkedIn account. If you choose to sign on to our site using your third-party social network credentials, the social network will obtain (or request) your consent for us to access and use available information from your social network profile. This consent will include a list of the types of categories of data that we may obtain from your social network profile, e.g. your name, age, gender, location, email address, profile picture and information, and list of friends. The information we collect from and about you may be used for our business purposes, such as data analysis, audits, developing new products and services, enhancing our sites, improving our services, personalizing your experiences, sending financial education tips and tools to you, identifying usage trends, determining the effectiveness of our promotional campaigns, and as otherwise described in our [General Privacy Policy, above.](http://individual.troweprice.com/public/Retail/hUtility/Customer-Service/Policies-&-Procedures/Privacy-Policy#General%20Privacy%20Policy)
+
 **Tools** : In all cases, if you use a tool, calculator, or analyzer, your inputs will only be collected and stored if you elect to save the information for your future use. Otherwise, your inputs are not preserved beyond the end of your online session. If you elect to save the information, we do not store it in a manner that is personally identifiable or link it to other information we may have about you. 
 
-**Use of E-mail Address** : If you have requested information regarding T. Rowe Price products and services and supplied your e-mail address to T. Rowe Price, we may occasionally send you follow-up communications or information on additional products or services. T. Rowe Price also offers subscription-based e-mail services regarding a variety of topics, such as market reports, investment information, daily closing fund prices, and the latest updates from T. Rowe Price. Additionally, registered shareholders can subscribe to the following e-mail services: 
+**Use of E-mail Address** : 
 
-  * Prospectus and Shareholder Reports—Receive prospectuses and shareholder reports online instead of by U.S. mail.
-  * Paperless Statements—Receive an e-mail with a link to our Web site informing you that your investor statements are available online to view, print, or download.
-  * Tax Form Alerts—Receive an e-mail in early January informing you if you will receive tax forms for your taxable T. Rowe Price mutual funds, including the approximate date they will be mailed.
+  1. **Requests and Subscriptions.** In the course of requesting information regarding T. Rowe Price products and services or in entering a promotion we may be offering, you may supply your e-mail address to T. Rowe Price and we may occasionally send you follow-up communications or information on additional products or services both directly through e-mail and indirectly through online advertising messages through social media channels such as Facebook and Twitter. T. Rowe Price also offers subscription-based e-mail services regarding a variety of topics, such as market reports, investment information, daily closing fund prices, and the latest updates from T. Rowe Price. Additionally, registered shareholders can subscribe to and unsubscribe from the following e-mail services: 
+    * Prospectus and Shareholder Reports—Receive prospectuses and shareholder reports online instead of by U.S. mail.
+    * Paperless Statements—Receive an e-mail with a link to our Web site informing you that your investor statements are available online to view, print, or download.
+    * Tax Form Alerts—Receive an e-mail in early January informing you if you will receive tax forms for your taxable T. Rowe Price mutual funds, including the approximate date they will be mailed.
+  
+If you have online account access with us, you can change your e-mail preferences by going to [troweprice.com/email](http://troweprice.com/email), logging in, and then updating your e-mail preferences. We also include instructions and links for unsubscribing from these mailings in T. Rowe Price e-mails. 
+
+Please note that if you are a participant in an employer-sponsored retirement plan for which T. Rowe Price Retirement Plan Services provides recordkeeping services, we may, at the plan sponsor's direction, continue to send you e-mails regarding the retirement plan and related matters. 
+
+  2. **Disclosure to Third Parties.** T. Rowe Price does not sell e-mail addresses to anyone, although we may disclose e-mail addresses to third parties that perform administrative or marketing services for us as described in the General Privacy Policy. To help gauge the effectiveness of our emails or social media messaging, we may track receipt of emails or be provided with anonymous statistical information from the social media provider. 
+  3. **Social Network Sign on.** If you are on a part of our site that allows you to post comments, you may have the option to sign on using your third-party social networking login credentials, such as for your Facebook, Twitter, or Linked-In account. In such cases, the social network will obtain (or request) your consent for us to access and use available information from your social network profile, including your email address, which we may use to send financial education tips and tools to you. Please see the section Information Collection and Use, above, for more information. 
 
 
-
-We always include instructions and links for unsubscribing from T. Rowe Price e-mails. However, if you are a participant in an employer-sponsored retirement plan for which T. Rowe Price Retirement Plan Services provides recordkeeping services, we may, at the plan sponsor's direction, continue to send you e-mails regarding the retirement plan and related matters. 
-
-T. Rowe Price does not sell e-mail addresses to anyone, although we may disclose e-mail addresses to third parties that perform administrative or marketing services for us as described in the General Privacy Policy. We may track receipt of e-mails to gauge the effectiveness of our communications. 
 
 **Surveys** : Occasionally, we conduct voluntary surveys regarding our Web site or other products or services. The information you provide is used collectively for analytical purposes. You will not receive unsolicited communications as a result of your participation in a survey if you notify us not to contact you. 
 
-**Online Advertising** : We may use third parties to serve (i.e., place) advertisements for us on other Web sites, including banner advertisements. The third parties may collect anonymous information through the use of cookies and action tags (referred to as Web beacons and GIF tags). [Click here](https://web.archive.org/ccw/home/privacyPolicy/cookiesandOtherWebTechnologies.do) for further information, including how to opt out of third-party cookies. 
+**Online Advertising** : We may use third parties to serve (i.e., place) advertisements for us on other Web sites, including banner advertisements. These third parties may collect anonymous information through the use of cookies and action tags (referred to as Web beacons and GIF tags). [Click here](https://web.archive.org/ccw/home/privacyPolicy/cookiesandOtherWebTechnologies.do) for further information, including how to opt out of third-party cookies. 
+
+You should also refer to the section above under "Use of E-Mail Addresses" for information about online advertising through social media channels. 
 
 **Links to Other Sites** : On our Web site, we may provide links to third parties that provide financial and other information that may be of interest to you. Once you've clicked a link and have left our Web site, our General Privacy Policy and Online Privacy Practices no longer apply, and you must read the privacy policy of the third party to see how your personal information will be handled on their site. 
 
 **Security** : T. Rowe Price protects your personal information when you transact business on our Web site by requiring the use of a browser software program that supports 128-bit encryption. The "128-bit" designation refers to the length of the key used to encrypt the data being transmitted, with a longer key representing a higher level of security. For more information on the security of your account data with T. Rowe Price, see the [Security Measures](https://web.archive.org/ccw/home/privacyPolicy/securityMeasures.do) section of our Web site. 
 
-**Effective Date and Additional Changes** : The effective date of these Online Privacy Practices is December 17, 2007. From time to time, we may change these Online Privacy Practices. When they are revised or materially changed, we will update the effective date. You can determine whether there have been changes since the last time you reviewed them by simply checking the effective date. 
+**Effective Date and Additional Changes** : The effective date of these Online Privacy Practices is October 7, 2013. From time to time, we may change these Online Privacy Practices. When they are revised or materially changed, we will update the effective date. You can determine whether there have been changes since the last time you reviewed them by simply checking the effective date. 
 
 If you have any questions about our privacy policy, please e-mail us at [feedback@troweprice.com](mailto:feedback@troweprice.com). 
