@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhealthylife.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215200943id_/http%3A//webhealthylife.com/prp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhealthylife.com privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417051617id_/http%3A//webhealthylife.com/prp.html) for the most accurate reproduction.*
 
 # Privacy policy
 
