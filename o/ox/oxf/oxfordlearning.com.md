@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxfordlearning.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216114250id_/http%3A//www.oxfordlearning.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordlearning.com privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417222322id_/http%3A//www.oxfordlearning.com/policy) for the most accurate reproduction.*
 
 # Privacy & Terms | Oxford Learning
 
