@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the english-listening-world.org privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202103623id_/http%3A//www.english-listening-world.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the english-listening-world.org privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417074138id_/http%3A//english-listening-world.info/index/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | English Listening Practice
+# ELW
+
+## Privacy Policy
 
 This Privacy Policy governs the manner in which Oceans of Knowledge collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.english-listening-world.com](http://www.english-listening-world.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Oceans of Knowledge.
 
@@ -71,6 +73,3 @@ If you have any questions about this Privacy Policy, the practices of this site,
 admin(at-mark)english-listening-world.com
 
 This document was last updated on June 16, 2013
-
-  * 
-
