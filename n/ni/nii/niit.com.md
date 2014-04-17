@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niit.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023050950id_/http%3A//www.niit.com/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niit.com privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417091934id_/http%3A//niit.com/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # privacy
 
@@ -14,7 +14,11 @@ We will not sell, forward or rent your personal information or what you share wi
 
 NIIT strives to comply with applicable laws that are designed to protect your privacy. Any interpretation of the terms of this Privacy Policy shall be in consonance with the “terms of use”. 
 
-###  2\. NIIT’s Principles to protect Privacy
+###  2\. Safe Harbor
+
+NIIT complies with the U.S. - EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. NIIT has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To view our Safe Harbor policy, please visit - <http://www.niit.com/safe-harbor/>. To learn more about the Safe Harbor program, and to view NIIT’s certification, please visit <http://www.export.gov/safeharbor/>. 
+
+###  3\. NIIT’s Principles to protect Privacy
 
 In order to protect your privacy, NIIT has adopted the following principles:
 
@@ -35,32 +39,32 @@ d) Access/Accuracy
 (d) Access/Accuracy   
   To the extent that you do provide NIIT with Personal Information, NIIT wishes to maintain accurate Personal Information. Where NIIT collects Personal Information from you on the Site, its aim is to provide a means of contacting NIIT should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your Personal Information to privacy@NIIT.com and NIIT will make reasonable efforts to incorporate the changes. 
 
-###  3\. Your Consent
+###  4\. Your Consent
 
 By using this Web site, you consent to the terms of NIIT’s Privacy Policy and to NIIT's processing of Personal Information for the purposes given above. There are times, however, when NIIT may need information from you, such as your name and address. When information is needed, NIIT will try (but is not obligated) to let you know at the time of collection, how it will use the personal information. 
 
 Usually, the personal information NIIT collects is used only by it to respond to your inquiry, process an order or allow you to access specific account information. Occasionally, NIIT may make the e-mail addresses, of those who provide information, available to other reputable organizations whose products or services it thinks you may find interesting. In these cases, you will be offered an opportunity to limit access to your information. In case NIIT does not receive any response from you to limit the access of your information, it shall be deemed that you consent to such distribution of your Personal Information as mentioned above. 
 
-###  4\. NIIT’s Disclosure of your information
+###  5\. NIIT’s Disclosure of your information
 
 For the purpose of alumni interaction or academic interaction amongst the enrolled students.  
 For the purpose of intra business interaction among various subsidiaries of NIIT. 
 
-###  5\. Affiliated/connected sites - 
+###  6\. Affiliated/connected sites - 
 
 We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to NIIT in order to deliver the service. We process such information in accordance with this Policy. If the affiliated sites have different privacy practices then the user is required to read their privacy policies. 
 
-###  6\. Cookies:
+###  7\. Cookies:
 
 The cookies installed by the NIIT shall be exclusively for the purpose of retrieving information from you which pertain to be useful for the purpose of running the Course of NIIT institution or IT Solution businesses of NIIT. Cookies shall, have limited scope, either for the purpose of students’ enrollment for imparting computer education or for the prospective business parties who will be availing the services of various IT Solutions. 
 
-###  7\. Changes in privacy policy
+###  8\. Changes in privacy policy
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice. Each version of this Policy will be identified at the top of the page by its effective date. 
 
 If you have any questions or concerns about this Policy, please feel free to contact us any time through this web site. 
 
-###  8\. Questions or Suggestions
+###  9\. Questions or Suggestions
 
 If you have any questions about NIIT Privacy Policy, collection, use, or disclosure of your personal information, please e-mail us at [ privacy@NIIT.com](mailto:privacy@niit.com;?subject:disclosure%20of%20personal%20information). 
 
