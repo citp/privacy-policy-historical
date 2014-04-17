@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbalife.co.in privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205172139id_/http%3A//www.herbalife.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbalife.co.in privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417180933id_/http%3A//www.herbalife.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Herbalife - India - Privacy Policy
 
