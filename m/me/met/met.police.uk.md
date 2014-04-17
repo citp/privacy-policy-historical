@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the met.police.uk privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201073815id_/http%3A//content.met.police.uk/Article/Privacy/1400013706731/1400013706731) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the met.police.uk privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417201456id_/http%3A//content.met.police.uk/Article/Privacy/1400013706731/1400013706731) for the most accurate reproduction.*
 
 # Privacy - Metropolitan Police Service
 
@@ -26,7 +26,7 @@ We use cookies on the website for the following reasons:
 
 
 
-### Managing cookies
+## Managing cookies
 
 The cookies we use will be sent to your browser and then stored in the cookies directory on your computer. To find out how to reject, delete or update your cookie preferences in your browser you need to know what browser you use and what version of it you have. Most browsers have guidelines on how to adjust cookie settings, use the 'Help' menu to find out this information.
 
