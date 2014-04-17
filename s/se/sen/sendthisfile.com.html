@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sendthisfile.com privacy policy that was archived on 2013-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131206104721id_/http%3A//www.sendthisfile.com/policy/privacy-policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sendthisfile.com privacy policy that was archived on 2014-04-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140417042600id_/http%3A//www.sendthisfile.com/policy/privacy-policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <title>Privacy Policy | SendThisFile</title>
@@ -31,11 +31,26 @@
 
     
 
+    <link href="/shared/template/20131203/header.css" rel="stylesheet" type="text/css">
+    <link href="/shared/template/20131203/basecontent.css" rel="stylesheet" type="text/css">
+    <link href="/shared/template/20140129_footer/footer.css" rel="stylesheet" type="text/css">
 
-<link href="/shared/template/20130930/buttons.css" rel="stylesheet" type="text/css">
-<link href="/shared/template/20130930/header.css" rel="stylesheet" type="text/css">
-<link href="/shared/template/20130930/basecontent.css" rel="stylesheet" type="text/css">
-<link href="/shared/template/20130930/footer.css" rel="stylesheet" type="text/css">
+<link href="/shared/style/common.css" rel="stylesheet" type="text/css">
+<link href="/shared/template/20131203/colors.css" rel="stylesheet" type="text/css">
+<link href="/shared/template/20131203/inputs.css" rel="stylesheet" type="text/css">
+
+
+        
+
+    
+    <link type="text/css" href="/shared/javascript/jquery-ui-1.8.6.custom/css/stf-theme/jquery-ui-1.8.6.custom.css" rel="stylesheet">
+    <script type="text/javascript" src="/shared/javascript/jquery-ui-1.8.6.custom/js/jquery-1.4.3.min.js"></script>
+    <script type="text/javascript" src="/shared/javascript/jquery-ui-1.8.6.custom/js/jquery-ui-1.8.6.custom.min.js"></script>
+    <script type="text/javascript" src="/shared/javascript/jquery-plugins/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+    <link rel="stylesheet" href="/shared/javascript/jquery-plugins/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen">
+
+    
+<!--<link href="/shared/javascript/jquery-plugins/dropit.css" rel="stylesheet" type="text/css"/>-->
 
     
 
@@ -60,17 +75,8 @@
 
 
 
-
     
 
-
-
-    
-    <link type="text/css" href="/shared/javascript/jquery-ui-1.8.6.custom/css/stf-theme/jquery-ui-1.8.6.custom.css" rel="stylesheet">
-    <script type="text/javascript" src="/shared/javascript/jquery-ui-1.8.6.custom/js/jquery-1.4.3.min.js"></script>
-    <script type="text/javascript" src="/shared/javascript/jquery-ui-1.8.6.custom/js/jquery-ui-1.8.6.custom.min.js"></script>
-    <script type="text/javascript" src="/shared/javascript/jquery-plugins/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
-    <link rel="stylesheet" href="/shared/javascript/jquery-plugins/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen">
 
 
 
@@ -78,40 +84,40 @@
 
 <script lang="javascript">
 
-    $(document).ready(function () {
-        $('[class*=stfEmail]').each(function (index) {
-            var classes = $(this).attr('class');
+    jQuery(document).ready(function () {
+        jQuery('[class*=stfEmail] , [class*=stfPhone]').each(function (index) {
+            var classes = jQuery(this).attr('class');
             if (classes.indexOf("stfEmailLegal") != -1) {
                 setEmail(this,"legal");
             } else if (classes.indexOf("stfEmailInfo") != -1) {
                 setEmail(this,"info");
+            } else if (classes.indexOf("stfEmailSales") != -1) {
+                setEmail(this,"sales");
+            } else if (classes.indexOf("stfEmailInquiries") != -1) {
+                setEmail(this,"inquiries");
+            } else if (classes.indexOf("stfPhone") != -1) {
+                setPhone(this);
             }
         });
 
+
     })
     ;
+    var phoneAreaCode = '(855)';
+    var phoneFirst3 = '736';
+    var phoneLast4 = '3844';
+    function setPhone(item) {
+        jQuery(item).text( phoneAreaCode + ' ' + phoneFirst3   +' - ' +  phoneLast4);
+    }
     function setEmail(item, email) {
-        $(item).text(email+"@sendthisfile.com");
-        $(item).attr('href', "mailto:"+email+"@sendthisfile.com");
+        jQuery(item).text(email+"@sendthisfile.com");
+        jQuery(item).attr('href', "mailto:"+email+"@sendthisfile.com");
     }
 
 </script>
 
 
-
-    <style>
-
-        .content {
-            text-align: left;
-            border: 0;
-            border-top: 1px solid #888;
-            padding-top: 20px;
-            font-family: arial, helvetica;
-            font-size: 14px;
-            line-height: 25px;
-        }
-
-    </style>
+	<link href="/policy/policy.css" rel="stylesheet" type="text/css">
 
 </head>
 
@@ -129,70 +135,212 @@
 
 
 
+
+
+
+
+
+
+
 <div id="header">
-  
     <div id="logo">
         <a href="http://www.sendthisfile.com/">
             <img src="https://www.sendthisfile.com/images/logos/stf_logo_261x53.gif" style="border:0" alt="SendThisFile Logo">
         </a>
     </div>
-
     <div class="nav">
         <div class="login">
-
-                     
-
-                <!-- BoldChat Live Chat Button HTML v3.00 (Type=HTML,ChatButton=- None -,ChatWindow=My Chat Window,Website=www.sendthisfile.com,Department=- None -) -->
-                <a href="https://livechat.boldchat.com/aid/8369664761404258304/bc.chat?cwdid=7733822269540826112&amp;wdid=3106181233431376896&amp;vr=&amp;vn=&amp;vi=&amp;ve=&amp;vp=&amp;iq=&amp;curl=" target="_blank" onclick="window.open((window.pageViewer &amp;&amp; pageViewer.link || function(link){return link;})(this.href + (this.href.indexOf('?')>=0 ? '&amp;' : '?') + 'url=' + escape(document.location.href)), 'Chat3776361740029128704', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');return false;">                  
-                    <script type="text/javascript"> document.write(unescape('%3Cscript language="JavaScript" type="text/javascript" src="' + (('https:' == document.location.protocol) ? 'https:' : 'http:') + '//cbi.boldchat.com/aid/8369664761404258304/bc.cbhs?wdid=3106181233431376896"%3E%3C/script%3E')); </script><script language="JavaScript" type="text/javascript" src="https://cbi.boldchat.com/aid/8369664761404258304/bc.cbhs?wdid=3106181233431376896"></script>
-                    <script type="text/javascript"> bt_showChatHTML('<span class=\"salesChat\">Live Sales Chat</span>','<span class=\"salesChat\">Live Chat Unavailable</span>'); </script>
-                    <noscript><span class="salesChat">Live Sales Chat</span></noscript>
-                </a>
-                 <!-- /BoldChat Live Chat Button HTML v3.00 -->
-
-                •
-
             
-            
-            
-
+                    <input type="button" class="button  signInBtn" value="Sign up | Login" alt="Sign up | Login" onclick="window.location.href='https://www.sendthisfile.com/login.jsp'">
+                    <input type="button" class="button  freeTrialBtn" value="Free Trial" alt="Free Trial" onclick="window.location.href='https://www.sendthisfile.com/l/c/index.jsp'">
                 
-                <a class="signIn" href="https://www.sendthisfile.com/login.jsp">User Sign-in</a>
-
-
-                         
-            
-        </div>   
-             
-        <div class="menu">
-            <ul>
-                <li><a href="http://www.sendthisfile.com/solutions/index.jsp">product</a></li>
-
-
-                <li><a href="https://www.sendthisfile.com/info/feature-matrix/index.jsp">pricing</a></li>
-
-                <li>
-                    <div class="buy-now">
-                        <a href="https://www.sendthisfile.com/buy/index.jsp">buy now</a>
-                    </div>
-                </li>
-
-
-                <li><a href="http://www.sendthisfile.com/help/">help</a></li>
-            </ul> 
         </div>
         
-    
+            <div class="menu">
+                <ul id="headerMenu">
+                    
+                        
+                        
+                        
+                        
+                        
+                        
+	                        <li>
+	                            <a href="http://www.sendthisfile.com/solutions/overview.jsp">Products</a>
+	
+	                        </li>
+                        
+                    
+                        
+                        
+                        
+                        
+                        
+                        
+	                        <li>
+	                            <a href="http://www.sendthisfile.com/features/how-does-it-work/index.jsp">Why SendThisFile?</a>
+	
+	                        </li>
+                        
+                    
+                        
+                        
+                        
+                        
+                        
+                        
+	                        <li>
+	                            <a href="http://www.sendthisfile.com/customers/case-study/index.jsp">Customers</a>
+	
+	                        </li>
+                        
+                    
+                        
+                        
+                        
+                        
+                        
+                        
+	                        <li>
+	                            <a href="http://www.sendthisfile.com/info/about.jsp">Company</a>
+	
+	                        </li>
+                        
+                    
+                        
+                        
+                        
+                        
+                            
+                            
+                            
+                        
+                        
+                        
+                    
+                </ul>
+            </div>
+        
+    </div>
+</div>
+
+    <div class="customBannerWrapper">
+        <div id="customBanner">
+            <div id="customBannerContent">
+                <div id="customBannerText">
+                    <div id="customBannerLeftTextOuter">
+                        <div id="customBannerLeftTextInner"><span class="fontOrange">Our</span> <span class="fontOrange">Policies</span></div>
+                    </div>
+                    <div id="customBannerRightTextOuter">
+                        <div id="customBannerRightTextInner"><span class="fontGray">SendThisFile's fully compliant solutions meet the privacy and security needs for its clients and partners. Ethics, integrity and data protection are core SendThisFile values.</span></div>
+                    </div>
+                </div>
+            </div>
+            
+                <div id="customSubmenu">
+                    
+                        
+                        
+                        
+                        
+                    
+                        
+                        
+                        
+                        
+                    
+                        
+                        
+                        
+                        
+                    
+                        
+                        
+                        
+                        
+                    
+                        
+                        
+                        
+                        
+                            
+                                
+                                
+                                
+                                
+                                        
+                                    
+                                <div class="customMenuItem customMenuItemUnselected">
+                                    <a href="/policy/safe-harbor.jsp">EU Safe Harbor</a>
+                                </div>
+                            
+                                
+                                
+                                
+                                
+                                        
+                                    
+                                <div class="customMenuItem customMenuItemSelected">
+                                    <a href="/policy/privacy-policy.jsp">Privacy Policy</a>
+                                </div>
+                            
+                                
+                                
+                                
+                                
+                                        
+                                    
+                                <div class="customMenuItem customMenuItemUnselected">
+                                    <a href="/policy/terms-of-use.jsp">Terms of Use</a>
+                                </div>
+                            
+                                
+                                
+                                
+                                
+                                        
+                                    
+                                <div class="customMenuItem customMenuItemUnselected">
+                                    <a href="/policy/subscription-agreement.jsp">Subscription Agreement</a>
+                                </div>
+                            
+                                
+                                
+                                
+                                
+                                        
+                                    
+                                <div class="customMenuItem customMenuItemUnselected">
+                                    <a href="/policy/regulatory-compliance.jsp">Regulatory Compliance</a>
+                                </div>
+                            
+                        
+                    
+                </div>
+            
+        </div>
     </div>
 
-</div>
+
+
+    
+        <div class="boldChatRightStatic">
+            <!-- BoldChat Live Chat Button HTML v3.00 (Type=HTML,ChatButton=- None -,ChatWindow=My Chat Window,Website=www.sendthisfile.com,Department=- None -) -->
+            <a href="https://livechat.boldchat.com/aid/8369664761404258304/bc.chat?cwdid=7733822269540826112&amp;wdid=3106181233431376896&amp;vr=&amp;vn=&amp;vi=&amp;ve=&amp;vp=&amp;iq=&amp;curl=" target="_blank" onclick="window.open((window.pageViewer &amp;&amp; pageViewer.link || function(link){return link;})(this.href + (this.href.indexOf('?')>=0 ? '&amp;' : '?') + 'url=' + escape(document.location.href)), 'Chat3776361740029128704', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');return false;">
+                <script type="text/javascript"> document.write(unescape('%3Cscript language="JavaScript" type="text/javascript" src="' + (('https:' == document.location.protocol) ? 'https:' : 'http:') + '//cbi.boldchat.com/aid/8369664761404258304/bc.cbhs?wdid=3106181233431376896"%3E%3C/script%3E')); </script><script language="JavaScript" type="text/javascript" src="https://cbi.boldchat.com/aid/8369664761404258304/bc.cbhs?wdid=3106181233431376896"></script>
+                <script type="text/javascript"> bt_showChatHTML('<span class=\"salesChat\"><img src="/shared/images/livechat/livechat.jpg"/> </span>', '<span class=\"salesChat\"><img src="/shared/images/livechat/contactus.jpg"/></span>'); </script>
+                <noscript><span class="salesChat"><img src="/shared/images/livechat/livechat.jpg"/></span></noscript>
+            </a>
+            <!-- /BoldChat Live Chat Button HTML v3.00 -->
+        </div>
+    
 
 
 
 
     <div class="content">
 
-        <p align="center" style="text-align:center"><b>PRIVACY POLICY</b></p>
+        <div class="contentTitle">PRIVACY POLICY</div>
         Last Updated: November 22, 2013
 
 
@@ -333,7 +481,7 @@
             personally identified information with third parties if (1) we believe in good
             faith that such disclosure is necessary to comply with an applicable law, a
             valid legal process, or to exercise our legal rights (including, without
-            limitation, a violation of the SendThisFile website <i>Terms and Conditions of
+            limitation, a violation of the SendThisFile website <i>Terms of
                 Use</i> or other agreement between SendThisFile and you), or to defend against
             legal claims; (2) we have a good faith belief that access, preservation, or
             disclosure of such information is reasonably necessary to protect the rights,
@@ -469,104 +617,133 @@
         </h3>
 
         <p>
-            If you have questions regarding the SendThisFile Privacy Policy, you can us via email at
+            If you have questions regarding the SendThisFile Privacy Policy, you can contact us via email at
             <a href="mailto:legal@sendthisfile.com" class="stfEmailLegal">legal@sendthisfile.com</a>, or via phone at 1-855-SEND-THIS (736-3844).
 
         </p>
 
     </div>
 
-    <div id="footer">
-
-        
-
-
-
-
-
-
-
-
-
-
-<div id="logobar">
-
+    <div class="footerPush"></div>
 </div>
+<div id="footer">
+    
 
-<div id="tab-1" class="footerLinks">
-    <div id="footerTable">
-        <table>
 
-            <tbody><tr>
-                <th>Product</th>
-                <th>Support</th>
-                <th>About Us</th>
-                <th>Share Files</th>
-            </tr>
 
-            <tr>
-                <td><a href="/info/sendthisfile.jsp">Overview</a></td>
-                <td><a href="http://www.sendthisfile.com/help/">Help Center</a></td>
-                <td><a href="http://www.sendthisfile.com/blog/">SendThisFile
-                    Blog</a></td>
-                <td><a href="/info/enterprise.jsp">Enterprise File Sending</a></td>
-            </tr>
 
-            <tr>
-                <td><a href="/buy/index.jsp">Pricing</a></td>
-                <td><a href="/info/contact.jsp">Contact Us</a></td>
-                <td><a href="http://www.sendthisfile.com/policy/privacy-policy.jsp" target="_blank">Privacy Policy</a></td>
-                <td><a href="/info/fileboxes.jsp">FileBoxes</a></td>
-            </tr>
 
-            <tr>
-                <td><a href="/info/feature-matrix/index.jsp">Features</a></td>
-                <td><a href="/info/contact.jsp">Press and Media Contact</a></td>
-                <td><a href="http://www.sendthisfile.com/policy/terms-of-use.jsp" target="_blank">Terms of Use</a></td>
-                <td><a href="http://www.sendthisfile.com/help/how-to-customize-incoming-file-notification-emails">Branded
-                    Emails</a></td>
-            </tr>
 
-            <tr>
-                <td><a href="/sitemap.jsp">Detailed Site Map</a></td>
-                <td></td>
-                <td><a href="http://www.sendthisfile.com/policy/subscription-agreement.jsp">Subscription
-                    Agreement</a></td>
-                <td></td>
-            </tr>
 
-            <tr>
-                <td></td>
-                <td></td>
-                <td><a href="http://www.sendthisfile.com/policy/regulatory-compliance.jsp" target="_blank">Regulatory Compliance</a></td>
-                <td></td>
-            </tr>
 
-            <tr>
-                <td></td>
-                <td></td>
-                <td><a href="/info/about.jsp">Team</a></td>
-                <td></td>
-            </tr>
 
-        </tbody></table>
-        <div id="footerSocialLinks">
-            <a href="http://www.facebook.com/sendthisfile" target="_blank"><img src="/shared/images/template/social/facebook.png" alt="SendThisFile Facebook"></a>
-            <a href="http://twitter.com/sendthisfile" target="_blank"><img src="/shared/images/template/social/twitter.png" alt="SendThisFile Twitter"></a>
-            <a href="http://linkedin.com/company/sendthisfile" target="_blank"><img src="/shared/images/template/social/linkedin.png" alt="SendThisFile LinkedIn"></a>
-            <a href="https://plus.google.com/+sendthisfile" target="_blank"><img src="/shared/images/template/social/googleplus.png" alt="SendThisFile Google+"></a>
-            <a href="http://feeds.feedburner.com/sendthisfile" target="_blank"><img src="/shared/images/template/social/rss.png" alt="SendThisFile Feedburner"></a>
-
+<div id="wholeFooterWrapper">
+	
+    	<div id="footerSpacer"></div>
+    
+    
+        <div id="logobar">
+        </div>
+        
+        <div id="tab-1" class="footerLinks">
+            <div id="footerTable">
+                <table>
+                    <tbody><tr>
+                        <th width="170px">Features</th>
+                        <th width="170px">Solutions</th>
+                        <th width="170px">Support</th>
+                        <th width="170px">About SendThisFile</th>
+                        <th width="200px">Contact</th>
+                    </tr>
+                    <tr>
+                        <td><a href="/features/secure/index.jsp">Advanced Security</a></td>
+                        <td><a href="/info/enterprise/index.jsp?page=television">Video Production</a></td>
+                        <td><a href="/help/">Help Center</a></td>
+                        <td><a href="/info/about.jsp">Our Story</a></td>
+                        <td><a href="mailto:sales@sendthisfile.com" class="stfEmailSales">sales@sendthisfile.com</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="/features/customizable/index.jsp">Site Integration</a></td>
+                        <td><a href="/info/enterprise/index.jsp?page=medicalTranscription">Healthcare</a></td>
+                        <td><a href="/help/category/video-walkthroughs">Video Tutorials</a></td>
+                        <td><a href="/blog/">Blog</a></td>
+                        <td><a href="mailto:inquiries@sendthisfile.com" class="stfEmailInquiries">inquiries@sendthisfile.com</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="/features/send-large-files/index.jsp">Tracking</a></td>
+                        <td><a href="/info/enterprise/index.jsp?page=lawOffices">Legal</a></td>
+                        <td><a href="/help/category/faq">FAQ</a></td>
+                        <td><a href="/customers/testimonials/index.jsp">Testimonials</a></td>
+                        <td rowspan="2">
+                            <div class="contactPhone fontMagnesium">
+                                <div class="phone">
+                                    Phone: <span class="stfPhone">(855) 736 - 3844</span>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><a href="/info/enterprise.jsp">Branding</a></td>
+                        <td><a href="/info/enterprise/index.jsp?page=graphicsPrinting">Graphics and Printing</a></td>
+                        <td><a href="/info/contact.jsp">Contact Support</a></td>
+                        <td><a href="/customers/case-study/index.jsp">Case Studies</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="/features/regulatory-compliance/index.jsp">Regulatory Compliance</a></td>
+                        <td><a href="/info/enterprise/index.jsp?page=manufacturing">Manufacturing</a></td>
+                        <td></td>
+                        <td><a href="/info/pressreleaselist.jsp">Press Releases</a></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><a href="/policy/safe-harbor.jsp">EU Safe Harbor</a></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <div class="contactAddressAndSocial fontMagnesium">
+                                <div class="address">
+                                    <div>
+                                        SendThisFile, Inc.
+                                    </div>
+                                    <div>
+                                        2250 N. Rock Rd. Suite 118-136
+                                    </div>
+                                    <div>
+                                        Wichita, KS 67226
+                                    </div>
+                                </div>
+                                <div id="footerSocialLinks">
+                                    <a href="http://twitter.com/sendthisfile" target="_blank"><img src="/shared/images/template/social/twitter.png" alt="SendThisFile Twitter"></a>
+                                    <a href="http://linkedin.com/company/sendthisfile" target="_blank"><img src="/shared/images/template/social/linkedin.png" alt="SendThisFile LinkedIn"></a>
+                                    <a href="https://plus.google.com/+sendthisfile" target="_blank"><img src="/shared/images/template/social/googleplus.png" alt="SendThisFile Google+"></a>
+                                    <a href="http://www.facebook.com/sendthisfile" target="_blank"><img src="/shared/images/template/social/facebook.png" alt="SendThisFile Facebook"></a>
+                                    <a href="http://feeds.feedburner.com/sendthisfile" target="_blank"><img src="/shared/images/template/social/rss.png" alt="SendThisFile Feedburner"></a>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </div>
+        </div>
+    
+    <div id="footerCopyright">
+        <div class="footerCopyrightLinks">
+              <span class="floatLeft copyright fontMagnesium">
+        ©  SendThisFile, Inc. All Rights Reserved.
+             </span>
+    <span class="floatRight copyrightLinks fontMagnesium">
+    <a class="fontMagnesium linkNoDecoration" href="http://www.sendthisfile.com/policy/privacy-policy.jsp">Privacy
+        Policy</a> |
+        <a class="fontMagnesium linkNoDecoration" href="http://www.sendthisfile.com/policy/terms-of-use.jsp">Terms
+            of Use</a> |
+        <a class="fontMagnesium linkNoDecoration" href="http://www.sendthisfile.com/policy/subscription-agreement.jsp">Subscription
+            Agreement</a>
+    </span>
         </div>
     </div>
-
-</div>
-<div id="footerCopyright">
-    <small>Copyright © 2003-2013 SendThisFile, Inc.&nbsp;&nbsp;All rights reserved. <a href="http://www.sendthisfile.com/policy/privacy-policy.jsp" target="_blank" style="margin-left: 10px;">Privacy Policy</a> | <a href="http://www.sendthisfile.com/policy/terms-of-use.jsp" target="_blank">Terms of Use</a> | <a href="http://www.sendthisfile.com/policy/subscription-agreement.jsp">Subscription
-        Agreement</a>
-    </small>
-</div>
-
+    <div id="tracking">
+        
 
 
 
@@ -608,12 +785,80 @@
 
 
 
+    
 
-
-
-
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1071964105;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt=""
+             src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1071964105/?value=0&amp;guid=ON&amp;script=0"/>
+    </div>
+</noscript>
 
     </div>
+</div>
+
+        <link href="/shared/template/20140129_footer/footersticky.css" rel="stylesheet" type="text/css">
+    
+
+
+
+
+
+
+
+<script lang="javascript">
+
+    jQuery(document).ready(function () {
+        jQuery('[class*=stfEmail] , [class*=stfPhone]').each(function (index) {
+            var classes = jQuery(this).attr('class');
+            if (classes.indexOf("stfEmailLegal") != -1) {
+                setEmail(this,"legal");
+            } else if (classes.indexOf("stfEmailInfo") != -1) {
+                setEmail(this,"info");
+            } else if (classes.indexOf("stfEmailSales") != -1) {
+                setEmail(this,"sales");
+            } else if (classes.indexOf("stfEmailInquiries") != -1) {
+                setEmail(this,"inquiries");
+            } else if (classes.indexOf("stfPhone") != -1) {
+                setPhone(this);
+            }
+        });
+
+
+    })
+    ;
+    var phoneAreaCode = '(855)';
+    var phoneFirst3 = '736';
+    var phoneLast4 = '3844';
+    function setPhone(item) {
+        jQuery(item).text( phoneAreaCode + ' ' + phoneFirst3   +' - ' +  phoneLast4);
+    }
+    function setEmail(item, email) {
+        jQuery(item).text(email+"@sendthisfile.com");
+        jQuery(item).attr('href', "mailto:"+email+"@sendthisfile.com");
+    }
+
+</script>
+
+
+
+
+
+
+
 
 </div>
 
