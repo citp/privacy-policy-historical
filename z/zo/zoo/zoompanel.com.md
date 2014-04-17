@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoompanel.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220010535id_/http%3A//zoompanel.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoompanel.com privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417160649id_/http%3A//zoompanel.com/corporate/privacy) for the most accurate reproduction.*
 
 # ZoomPanel - Privacy Policy
 
@@ -65,12 +65,6 @@ Without limiting the generality of the foregoing, note that we will NOT share yo
 ### Third Party Data Collection Through Our Site
 
 When one of our users deploys our tools to send out survey response requests or otherwise to collect data, e.g., through zoomerang.com, such user will receive and process any responses. We will host, but not access such information, except in connection with technical support, with the consent of the user who conducted the survey, or in any other manner permitted by this privacy policy. We post rules on how our tools should be used, however, we cannot control the data processing practices of our users and we do not assume any responsibility for actions of our users who conduct surveys or of any other third parties. 
-
-### Tell A Friend
-
-If you choose to use our referral service to tell a friend about our Site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. Critical Mix stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
-
-Your friend may contact us at the relevant email address in the "Contact Us" section below to request that we remove this information from our database. 
 
 ### Co-branded Sites
 
