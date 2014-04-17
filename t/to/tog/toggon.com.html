@@ -1,25 +1,24 @@
-<!--The following is the downloaded HTML source of the toggon.com privacy policy that was archived on 2013-09-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130923060308id_/http%3A//www.toggon.com/pages/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the toggon.com privacy policy that was archived on 2014-04-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140418010538id_/http%3A//www.toggon.com/general/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-
-	<meta charset="utf-8">
-
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<meta name="google-site-verification" content="pKOUgodFjChg4-_fq5ZZXveC9ptBPyjVu2YObrL8Fl8">
+	<meta name="msvalidate.01" content="46FCD98509BFED46529DE5FD37FCE023">
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Toggon - Information Networking</title>
+    <title>Toggon.com - Needs sharing social platform - Post free ads on needs related to jobs, services, products and customers</title>
 
 	
 
-    <meta name="description" content="Toggon - Information Networking">
+    <meta name="description" content="Toggon.com - Needs sharing social platform - Post free ads on needs related to jobs, services, products and customers">
 
     
 
     <link href="http://www.toggon.com/css/toggon.css" rel="stylesheet" media="all" type="text/css">
 
-	
-	
+
 
     <!--[if lte IE 7]>
 
@@ -34,11 +33,13 @@
 	<![endif]-->
 
 
-    	
+    
 
-	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=361820020558870"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 
 	var site_url = 'http://www.toggon.com/';
+	
+	var siteurl = site_url;
 
     var is_login = false;
 
@@ -47,7 +48,6 @@
 	var left = parseInt((screen.availWidth/2) - (700/2));
 
     </script>
-
     
     	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
 
@@ -56,62 +56,131 @@
 
 	<script src="http://www.toggon.com/js/tgnresources.js"></script>
 
-    <script src="http://www.toggon.com/js/jquery.mousewheel.min.js"></script>
-
+    <script src="http://www.toggon.com/js/jquery.leanModal.min.js"></script>
+    
 	
 
 	
     <script src="http://www.toggon.com/js/tgn.js"></script>
 
-    
+        <script src="http://www.toggon.com/js/expand.js"></script>
+    <script>	
+		$().ready(function() {
+			$(".expantarea").expandingTextarea();
+			//$('#gallery a').lightBox();
+			loadnote();
+	   });
+		$(function() {
+			$('a[rel*=leanModal]').leanModal({  closeButton: ".modal_close",top:"40" });
+			$('a[rel*=jobModal]').leanModal({  closeButton: ".job_close",top:"40" });		
+			$('a[rel*=quesrionModal]').leanModal({  closeButton: ".question_close",top:"40" });		
+			$('a[rel*=newsModal]').leanModal({  closeButton: ".news_close",top:"40" });
+			$("a[rel*=newsfeedpop]").leanModal({  closeButton: ".newsfeed_close",top:"40" });
+			$("a[rel*=loginpopup]").leanModal({  closeButton: ".login_close",top:"40" });
+			
+		});
+		$(".closeall").live("click", function(){
+			$("#newsfeedpop").hide();
+		});
+		
+		function loadnote() {
+			
+				
+			$.ajax({
+				url: site_url+"user/get_notification",
+				type: 'post',
+				dataType: 'html',
+								success: function(data) {
+					var new_data = data.split(":::");
+					if(new_data[0]!=0){
+						$("#message_notifiction").html(new_data[0]);
+					}
+					if(new_data[1]!=0){
+						$("#following_notifiction").html(new_data[1]);
+					}
+					if(new_data[2]!=0){
+						$("#connect_notifiction").html(new_data[2]);
+					}
+					if(new_data[3]!=0){
+						$("#all_notifiction").html(new_data[3]);
+					}
+										setTimeout(loadnote, 3000);
+				}
+			});
+		}
+		$(".follow").live("click", function(){	
+											
+			var login = '';
+			if(login=='' || login=='0'){
+				$('#loginpoplink').trigger('click');
+				return false;
+			}									
+			var rel = this.rel;
+			var urldata = "rel="+rel;
+			var obj = $(this);
+			$.ajax({
+				url: site_url+"user/addfollow",
+				type: 'post',
+				dataType: 'html',
+				data: urldata,
+				success: function(data) {
+					var new_rel = rel.split("|");
+					if(new_rel[2]=='unfollow'){
+						window.location.reload();
+						return false;
+					}
+					obj.attr('rel',new_rel[0]+"|"+new_rel[1]+"|"+data.trim());
+					obj.text(data);
+				}
+			});
+		});
+
+	</script>
     <link rel="icon" type="image/x-icon" href="http://www.toggon.com/favicon.ico">
-
-    
 </head>
-
-
-
 <body>
-
+<a href="#loginpopup" rel="loginpopup" id="loginpoplink" style="display:none;">Login</a>
 	<header>
 
    		<div class="wrap_center">
 		    <div class="headlogo">
 
           		<div class="sub_logo">
-                    <a href="http://www.toggon.com/"><div>Home</div></a>
-					<a href="http://www.toggon.com/links"><div>News Stream</div></a>
-					<a style="" href="https://www.facebook.com/dialog/oauth?display=popup&amp;app_id=361820020558870&amp;client_id=361820020558870&amp;redirect_uri=http%3A%2F%2Fwww.toggon.com%2Findex.php%2Fsecure%2Ffblogin&amp;scope=email,user_likes,user_birthday&amp;state=321524"><div class="">Join Toggon App</div>
-
-
-                </a></div><a style="" href="https://www.facebook.com/dialog/oauth?display=popup&amp;app_id=361820020558870&amp;client_id=361820020558870&amp;redirect_uri=http%3A%2F%2Fwww.toggon.com%2Findex.php%2Fsecure%2Ffblogin&amp;scope=email,user_likes,user_birthday&amp;state=321524">
-                            					
-				    <div class="fblike">
-
-                    	<div class="fb-like" data-href="https://www.facebook.com/pages/Toggoncom/458234010877982?ref=hl" data-send="false" data-layout="button_count" data-width="150" data-show-faces="false"></div>
-
-                	</div>
-
-            </a></div><a style="" href="https://www.facebook.com/dialog/oauth?display=popup&amp;app_id=361820020558870&amp;client_id=361820020558870&amp;redirect_uri=http%3A%2F%2Fwww.toggon.com%2Findex.php%2Fsecure%2Ffblogin&amp;scope=email,user_likes,user_birthday&amp;state=321524">
-
-
-
-          	</a><div class="headfields"><a style="" href="https://www.facebook.com/dialog/oauth?display=popup&amp;app_id=361820020558870&amp;client_id=361820020558870&amp;redirect_uri=http%3A%2F%2Fwww.toggon.com%2Findex.php%2Fsecure%2Ffblogin&amp;scope=email,user_likes,user_birthday&amp;state=321524">
-
-
-            					</a><a href="http://www.toggon.com/secure/register"><div class="registeron">Sign Up</div></a>
-           		<!--<li><a style="color:white;" href="https://accounts.google.com/o/oauth2/auth?response_type=code&redirect_uri=http%3A%2F%2Fwww.toggon.com%2Fsecure%2Fgauth&client_id=307501027610.apps.googleusercontent.com&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&access_type=offline&approval_prompt=force" ><div class="logingoogle">google</div></a></li>-->
-                <a style="color:white;" href="https://www.facebook.com/dialog/oauth?display=popup&amp;app_id=361820020558870&amp;client_id=361820020558870&amp;redirect_uri=http%3A%2F%2Fwww.toggon.com%2Findex.php%2Fsecure%2Ffblogin&amp;scope=email,user_likes,user_birthday&amp;state=321524"><div class="loginfacebook">facebook</div></a>
-				<a style="color:white;" href="http://www.toggon.com/secure/get_twitter_login_url"><div class="logintwitter">twitter</div></a>
-				
-				<div class="loginlinkedin">
-				<a style="color:white;" href="https://www.linkedin.com/uas/oauth2/authorization?response_type=code&amp;client_id=koa2aa1trzw0&amp;state=DCEEFWF45453sdffef424&amp;redirect_uri=http://www.toggon.com/secure/linkdinlogin/&amp;scope=r_basicprofile%20r_emailaddress%20r_fullprofile%20rw_nus%20r_contactinfo">linkedin</a>
+                <div class="image_logo"><a href="http://www.toggon.com/adpost/listing"><img src="http://www.toggon.com/images/logohome.png"></a>
 				</div>
-				
-				<a href="http://www.toggon.com/secure/login"><div class="loginon">toggon</div></a>
+					
+                </div>
+				<div class="header_tabs_container">
+					<a href="http://www.toggon.com/adpost/listing"><div class="header_tab">Advertisements</div></a>
+					<a href="http://www.toggon.com/business/listing"><div class="header_tab">Businesses</div></a>
+					<a href="http://www.toggon.com/socialfeed"><div class="header_tab">Social feed</div></a>
+					<a href="http://www.toggon.com/members"><div class="header_tab">People</div></a>
+				</div>	
+                
 
+                				
+
+            </div>
+
+
+
+          	<div class="headfields">
+
+
+            					<div class="registeron">
+				<a href="http://www.toggon.com/secure/register">Sign Up</a></div>
+           		<!--<a style="color:white;" href="" ><div class="logingoogle">google</div></a>-->
+                <a href="https://www.facebook.com/dialog/oauth?display=popup&amp;app_id=361820020558870&amp;client_id=361820020558870&amp;redirect_uri=http%3A%2F%2Fwww.toggon.com%2Findex.php%2Fsecure%2Ffblogin&amp;scope=email,user_likes,user_birthday,offline_access,publish_stream,manage_pages&amp;state=321524"><div class="loginfacebook">facebook</div></a>
+				<a href="http://www.toggon.com/secure/googlelogin"><div class="logintwitter">google</div></a>
 				
-				<a href="http://www.toggon.com/secure/login"><div class="registeron">Login with</div></a>
+				
+				<!--<a style="color:white;" href="https://www.linkedin.com/uas/oauth2/authorization?response_type=code&client_id=koa2aa1trzw0&state=DCEEFWF45453sdffef424&redirect_uri=http://www.toggon.com/secure/linkdinlogin/&scope=r_basicprofile%20r_emailaddress%20r_fullprofile%20rw_nus%20r_contactinfo%20r_network">linkedin</a>-->
+                <a href="http://www.toggon.com/secure/linkedine_login"><div class="loginlinkedin">linkedin
+				</div></a>
+				
+
+				<div class="registeron">
+				<a href="http://www.toggon.com/secure/login">Already a member - Login</a></div>
 
 
 
@@ -139,10 +208,10 @@
 			type:'get',
 	
 			success:function(n){
-	
+	//console.log(n);
 				if(n.n>0){
 	
-					$('.notifications').html('<li><a href="http://www.toggon.com/user/messages//unread">'+parseInt(n.n)+' Message(s)</a></li>');
+					$('.notifications').html('<li><a href="http://www.toggon.com/user/messages/unread">'+parseInt(n.n)+' Message(s)</a></li>');
 	
 				}
 	
@@ -153,72 +222,193 @@
 	}
 	
 	</script>
-       		<ul class="notifications">
+       		<ul class="notifications" style="display:none">
 
-          	 
+          	 	             <!--<li><a href="http://www.toggon.com/user/messages//unread"> Message(s)</a></li>-->
+            
        		</ul>
 
    		</div>
         
 </header>
 
-<div class="wrap_center wrap_main">
+<div class="wrap_center wrap_main" id="changeWrap">
 
 
 	
 		
 	
 	<div class="posts_con" id="post_con_1">
-	<div class="cms_page posts_container recent_posts" id="posts_container">
-		<h1>Privacy Policy</h1>
-        <p>Toggon.com respects the privacy of its users. Toggon.com privacy determines how we treat user information while user visits to our website and uses our services. It is important to us that our user retain their Privacy while pleasing the benefit of the services we offered.<br><br><strong>User/Personal Information</strong><br>To avail services on Toggon.com, users are required to provide personal data like Name, Email address, Sex, Date of Birth, Mobile number, Password, Location and Profile Photograph etc wherever required.<br>User availing services on Toggon.com via Facebook which allows us to obtain information like (User’s Email ID, Contacts, Friends etc) .User may give us permission to access your information in other services.<br>The purpose of collecting personal Information or data from the user is to improve our site and to provide best services to individual user.<br><br><strong>Child Protection</strong><br>Toggon.com does not offer services to the children who are under the age of 13. If we receive information signifying that a user who has registered to Toggon.com is under the age of 13, we entail the user to provide evidence confirming that the user is at least 13 years old. If the user fails to present such information within 48 hours then Toggon.com will right away terminate the corresponding user account.<br><br><strong>Cookies</strong><br>Depending upon how user is accessing our service, we may use “cookies” or similar technologies to record log data in order to collect information to assign each user a unique identity to understand the individual area of interest.</p><br><p>When user use Toggon.com our web server automatically record limited information about user interaction with our service i.e. “log data”, including the information which browser sends whenever user visit Toggon.com. This log data may include user computer’s connection to the internet, including User internet protocol address, browser type and settings, the date and time of user request. And how user used toggon.com</p><br><p>User Internet protocol address doesn’t identify any user personally; we use this information to deliver our pages to user upon request and to measure traffic within our website.<br><br><strong>Confidentiality/Information Security</strong><br>We have taken some security measures including physical, electronic and other required procedure to protect against unauthorized access to or unauthorized misuse, modification, discloser, loss and damage of user data we collect online. However Toggon.com doesn’t take any responsibility in case of theft / damage / loss of user’s personal data.</p><br><p>Toggon.com use third party advertising companies to serve ads when any user visits the website. These advertising companies may use relevant information’s may or may not including your name, email address, contact number in order to show advertisements about products, goods and services of respective area of interest to the user.<br><br><strong>Third Party Link</strong><br>Toggon.com includes/contains links to other websites/third party websites by Users/Advertisers/Prmoters. Such websites or service/products are governed by their respective Privacy Policy which may be differing from ours.</p><br><p>Toggon.com doesn’t take any responsibility for the Terms, Privacy Policy or Practices of any third party websites. Users/Advertisers/Promoters should visit third party websites at their own risks.</p><br><p>Toggon.com has the complete authority to remove third party websites / links if found inappropriate as per the Toggon.com Terms &amp; Conditions defined.</p><br><p><strong>Information Sharing and Disclosure</strong><br>Toggon.com may share user respective information to any third party for business or non-business purpose without obtaining the prior permission of the user. It may include any court or governmental agency or authority to disclose, for the purpose of authentication of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms; for complying with the applicable laws and regulations.</p><br><p><strong>Ability to Edit or Delete Account Information and preferences</strong><br>User can improve, correct, modify, edit, and update their information/data by visiting their respective profile page at any time. If any user wants to deactivate its respective account, user has to write us to toggon.com@gmail.com. Our team will deactivate the user account including user all posts, comments, Expressions and other related information from public view. User can activate their account at any stage in future by writing us to toggon.com@gmail.com our team will activate user account and restore all information including all posts, comments, Expressions and other related information.<br><br><strong>Changes to this Privacy Policy</strong><br>Toggon.com has the right to Change or amend its Privacy Policy with or without giving any prior notice to users. It is user’s responsibility to read privacy policy regularly and updates.</p><br><p><strong>Contact us</strong><br>If you have any question related to Privacy Policy of toggon.com, Please write us to: Toggon.com@gmail.com<br>For any Complain, feedback and Suggestions, please write us to: toggon.com@gmail.com<br>We will appreciate your feedback and suggestions and try to provide you the best service.</p> 
-	</div>
+		<div class="container_sidebar_feeds" id="container_sidebar">
+		<div class="sidebar_content_wrapp">
+		<div class="details_professional">
+				<div class="content_headline">
+				<label>You are On !</label>
+				</div>
+				<a title="About" href="http://www.toggon.com/general/about"><div class="user_pp_title">About
+				</div></a>
+				<a title="Team" href="http://www.toggon.com/general/team"><div class="user_pp_title">Team
+				</div></a>
 
-	<div class="container_sidebar mostviewed_posts" id="container_sidebar">
-		        <div class="sidebar_widget categories">
-        	    
-                	<h3 class="widget_header"><a href="http://www.toggon.com/pages/terms-of-service">Terms Of Service</a></h3>
-            									<h3 class="widget_header"><span>Privacy Policy</span></h3>
-                			    
-                	<h3 class="widget_header"><a href="http://www.toggon.com/pages/copyright">Copyright</a></h3>
-            				        </div>    
-        
-    </div>
-    <br clear="all">
+			
+				<a title="Terms of Service" href="http://www.toggon.com/general/terms-of-service"><div class="user_pp_title">Terms of Service
+				</div></a>
 
-    <div class="paging">
-    	    </div>
-</div>
-<script type="text/javascript">
-$(function(){
-	sidebar_height = $('#container_sidebar').height();
-	sidebar_width = $('#container_sidebar').width();
-	header_height = $('header').height();
-	s_w = $("#posts_container").width();
+				
+				<a title="Privacy Policy" href="http://www.toggon.com/general/privacy-policy"><div class="user_pp_title" style="background:gainsboro; color:#333;">Privacy Policy
+				</div></a>
+				
+				<a title="Copyright" href="http://www.toggon.com/general/copyright"><div class="user_pp_title">Copyright</div></a>
+				<a title="Contact" href="http://www.toggon.com/general/contact-us"><div class="user_pp_title">Contact Us</div></a>
+			
+		</div>
+		</div>
+		</div>
+
+<div class="container_center_post">	
+	<div class="profile_content_wrapp">
+		<div class="general_container">
+			<div class="page_description">
+			<div class="content_headline">
+			<label>Privacy Policy</label>
+			</div>
+			</div>
+			
+				<div class="page_description">
+				<div class="page_summary">
+				<label>Toggon.com respects the privacy of its users. Toggon.com privacy determines how we treat user information while user visits to our website and uses our services. It is important to us that our user retain their Privacy while pleasing the benefit of the services we offered.
+				</label>
+				</div>
+				</div>
+			
+				<div class="page_description">
+				<div class="content_headline">
+				<label>User/Personal Information</label></div>
+				<div class="page_summary">
+				<li>To avail services on Toggon.com, users are required to provide personal data like Name, Email address, Sex, Date of Birth, Mobile number, Password, Location and Profile Photograph etc wherever required. User availing services on Toggon.com via other social networking websites allows us to obtain information like (User’s Email ID, Contacts, Friends etc) .
+				By accessing our app and giving any information, user gives us permission to use information for business purpose.</li>
+				</div>
+				</div>
+			
+				<div class="page_description">
+				<div class="content_headline">
+				<label>Child Protection</label>
+				</div>
+				<div class="page_summary">
+				<li>Toggon.com does not offer services to the children who are under the age of 18.
+				If you are below 18 and registered to Toggon.com then we suggest you to delete your account, not doing this would make you solely responsible for all your activities, and its consequences.</li>
+				</div>
+				</div>
+
+				<div class="page_description">
+				<div class="content_headline">
+				<label>Cookies</label>
+				</div>
+				<div class="page_summary">
+				<label>Depending upon how user is accessing our service, we may use “cookies” or similar technologies to record log data in order to collect information to assign each user a unique identity to understand the individual area of interest.</label>
+				</div>
+				
+				<div class="page_summary">
+				<label>When user use Toggon.com our web server automatically record limited information about user interaction with our service i.e. “log data”, including the information which browser sends whenever user visit Toggon.com. This log data may include user computer’s connection to the internet, including User internet protocol address, browser type and settings, the date and time of user request. And how user used toggon.com</label>
+				</div>
+				
+				<div class="page_summary">
+				<label>User Internet protocol address doesn’t identify any user personally; we use this information to deliver our pages to user upon request and to measure traffic within our website.</label>
+				</div>
+
+				</div>
+			
+				<div class="page_description">
+				<div class="content_headline">
+				<label>Confidentiality/Information Security</label>
+				</div>
+				<div class="page_summary">
+				<label>We have taken some security measures including physical, electronic and other required procedure to protect against unauthorized access to or unauthorized misuse, modification, discloser, loss and damage of user data we collect online. However Toggon.com doesn’t take any responsibility in case of theft / damage / loss of user’s personal data.</label>
+				</div>
+				
+				<div class="page_summary">
+				<label>Toggon.com use third party advertising companies to serve ads when any user visits the website. These advertising companies may use relevant information’s may or may not including your name, email address, contact number in order to show advertisements about products, goods and services of respective area of interest to the user.</label>
+				</div>
+				</div>
+			
+				<div class="page_description">
+				<div class="content_headline">
+				<label>Third Party Link</label>
+				</div>
+				<div class="page_summary">
+				<label>Toggon.com doesn’t take any responsibility for the Terms, Privacy Policy or Practices of any third party websites. Users/Advertisers/Promoters should visit third party websites at their own risks.</label>
+				</div>
+				
+				<div class="page_summary">
+				<label>Toggon.com use third party advertising companies to serve ads when any user visits the website. These advertising companies may use relevant information’s may or may not including your name, email address, contact number in order to show advertisements about products, goods and services of respective area of interest to the user.</label>
+				</div>
+				
+				<div class="page_summary">
+				<label>Toggon.com has the complete authority to remove third party websites / links if found inappropriate as per the Toggon.com Terms &amp; Conditions defined.</label>
+				</div>
+				</div>
+
+				<div class="page_description">
+				<div class="content_headline">
+				<label>Information Sharing and Disclosure</label>
+				</div>
+				<div class="page_summary">
+				<label>Toggon.com may share user respective information to any third party for business or non-business purpose without obtaining the prior permission of the user. It may include any court or governmental agency or authority to disclose, for the purpose of authentication of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms; for complying with the applicable laws and regulations.</label>
+				</div>
+				</div>
+
+				<div class="page_description">
+				<div class="content_headline">
+				<label>Ability to Edit or Delete Account Information and preferences</label>
+				</div>
+				<div class="page_summary">
+				<label>User can improve, correct, modify, edit, and update their information/data by visiting their respective profile page at any time. If any user wants to deactivate its respective account, user has to write us to admin@toggon.com. Our team will deactivate the user account including user all posts, comments, Expressions and other related information from public view. User can activate their account at any stage in future by writing us to admin@toggon.com our team will activate user account and restore all information including all posts, comments, Expressions and other related information.</label>
+				</div>
+				</div>
+
+				<div class="page_description">
+				<div class="content_headline">
+				<label>Changes to this Privacy Policy</label>
+				</div>
+				<div class="page_summary">
+				<label>Toggon.com has the right to Change or amend its Privacy Policy with or without giving any prior notice to users. It is user’s responsibility to read privacy policy regularly and updates.</label>
+				</div>
+				</div>
+
+				<div class="page_description">
+				<div class="content_headline">
+				<label>Contact us<label>
+				</label></label></div>
+				<div class="page_summary">
+				<label>If you have any question related to Privacy Policy of toggon.com, Please write us to: admin@toggon.com <br>
+				For any Complain, feedback and Suggestions, please write us to: admin@toggon.com
+				We will appreciate your feedback and suggestions and try to provide you the best service.</label>
+				</div>
+				</div>
+			
+
+			
+		</div>
+		</div>
+</div>	
 	
-	$(window).scroll(function(){
-		w_s = (($(window).scrollTop() + $(window).height()) - header_height);
-		if(w_s > sidebar_height){
-			$('#container_sidebar').css({'position':'fixed','margin-left':(s_w+20)+'px','width':sidebar_width+'px'});
-		}else if(w_s < sidebar_height){
-			$('#container_sidebar').removeAttr('style');
-		}
-	});
-}); 
-</script>	<br clear="all">
+</div>
+	
+	<br clear="all">
     </div><!--end of wrap_center-->
-	    
-	    	        <div class="footer">
+
+    <div class="footer">
        	<div class="copyright">© 2013 <a href="http://www.toggon.com/">toggon.com</a> <span style="display:none;">(A product owned by Toggon Private Limited Company)</span>. All Rights Reserved.</div>
         
         <ul class="navigation">
-           	            <li><a title="Terms of Service" href="http://www.toggon.com/pages/terms-of-service">Terms of Service</a></li>
-            <li><a title="Privacy Policy" href="http://www.toggon.com/pages/privacy-policy">Privacy Policy</a></li>
-            <li><a title="Copyright" href="http://www.toggon.com/pages/copyright">Copyright</a></li>
+           				<li><a title="Terms of Service" href="http://www.toggon.com/general/about">About Company</a></li>
+            <li><a title="Terms of Service" href="http://www.toggon.com/general/terms-of-service">Terms of Service</a></li>
+            <li><a title="Privacy Policy" href="http://www.toggon.com/general/privacy-policy">Privacy Policy</a></li>
+            <li><a title="Copyright" href="http://www.toggon.com/general/copyright">Copyright</a></li>
+			<li><a title="Contact" href="http://www.toggon.com/general/contact-us">Contact Us</a></li>
         </ul>
     </div>
 
-	
 <div class="login-popup" id="reply_list">
 	<div class="close_div"><a class="clos" href="javascript:void(null)"><span class="btn_close">[X]</span></a></div>
   	<div class="popu_title">Replies</div>
@@ -229,6 +419,763 @@ $(function(){
 
 <input type="hidden" name="post_meta" id="post_meta">
 
+<script>
+$(function() {
+		   
+	$( "#tgn-share-link-top-topic").autocomplete({
+		source: site_url+"postquestion/suggest/topic",
+		minLength: 1,
+		select: function( event, ui ) {
+			$("#tgn-share-link-top-topic").val(ui.item.value);
+		}
+	});
+	$("#rebuseform").submit(function(){
+		$.ajax({
+			url: site_url+"secure/add_abuse",
+			type: 'post',
+			dataType: 'html',
+			data: $('#rebuseform').serialize(),
+			success: function(data) {
+				$( ".modal_close" ).trigger( "click" );
+			}
+		});
+		return false;						 
+	});
+	$('#note_user').live("paste",function(event) {	
+		return false;													
+	});
+	$("#popjobfrm").submit(function(){
+									
+		$('.submission_button').hide();
+		$('.loader').show();
+		$.ajax({
+			url: site_url+"jobs/ajax_add",
+			type: 'post',
+			dataType: 'html',
+			data: $('#popjobfrm').serialize(),
+			success: function(data) {
+				var newdata = data.split("$$$");
+				if(newdata.length==1){
+					$("#joppoperror").html(newdata[0]);
+					$("#joppoperror").show();			
+					$('.submission_button').show();
+					$('.loader').hide();
+				}else{
+					window.location.href = site_url+'jobs/preview/'+newdata[1];
+				}
+				//$( ".job_close" ).trigger( "click" );
+			}
+		});
+		return false;
+	});
+	
+	$(".news_close").click(function(){
+		$('#newsformsubmition')[0].reset();
+		$('.submission_field_headline').hide();
+		$('.submission_field_image').hide();
+		
+	});
+	
+	$(".job_close").click(function(){
+		$('#popjobfrm')[0].reset();
+		$('.submission_field_headline').hide();
+		$('.submission_field_image').hide();
+		$('#joppoperror').hide();
+		
+		
+	});
+	$(".question_close").click(function(){
+		$('#frmpostquestion')[0].reset();
+		$('.submission_field_headline').hide();
+		$('.submission_field_image').hide();
+		$('.question_error').hide();
+		$('#display_note_err').hide();
+		$('#display_topic_err').hide();
+		$('#display_category_err').hide();
+		
+	});
+});
+
+function show_loader(){
+	$('.submission_button').hide();
+	$('.loader_news').show();
+}
+$('#tgn-share-link-top-topic').live("keypress",function(event) {	
+	if(event.which==44 || event.which==47 || event.which==45 || event.which==92 || event.which==37 || event.which==38 || event.which==33 || event.which==126 || event.which==64 || event.which==35 || event.which==36 || event.which==42 || event.which==123 || event.which==125 || event.which==91 || event.which==93 || event.which==40 || event.which==41 || event.which==60 || event.which==62 || event.which==59 || event.which==58 || event.which==39 || event.which==34 || event.which==43 || event.which==95 || event.which==94 || event.which==92){ 
+		return false;
+	}else{
+		var value = $(this).val().split(" ");
+		if(value.length>3 && event.which!=8){
+			return false;
+		}	
+	}
+});
+</script>
+<div class="popup_container_field" id="newsfeedpop" style="display:none;">
+	<div class="popup_container_inner">
+		<div class="popup_main_container">
+
+				<div class="popup_wrapper">
+					<div class="popup_title">
+					<div class="popup_headline">
+					Hi  , Welcome to Information Networking website.
+					</div>
+					<div class="popup_cancel newsfeed_close">
+					<a href="javascript:void(0);">X</a>
+					</div>
+					</div>
+				</div>
+				<div class="welcome_container">
+				<div class="welcome_invitation">
+				You can get your contacts and  <a href="http://www.toggon.com/user/build_network">invite to your connections</a>
+				</div>
+				<div class="welcome_images_container">
+				<div class="welcome_images">
+				<a href="http://www.toggon.com/user/profile/gmail"><img src="http://www.toggon.com/images/gmail_icon.png"></a>
+				</div>
+				<div class="welcome_images">
+				<a href="http://www.toggon.com/user/profile/yahoo"><img src="http://www.toggon.com/images/yahoo_icon.png"></a>
+				</div>
+				</div>
+				</div>
+				<div class="welcome_container">
+				<div class="welcome_invitation">
+				You can do following
+				</div>
+				<div class="welcome_tab">
+				<a href="#newspost" rel="newsModal" title="Post your favorite link" class="closeall"><div class="popup_button">Share news</div></a>
+				</div>
+				<div class="welcome_tab">
+				<a href="#askquestion" rel="quesrionModal" class="closeall"><div class="popup_button">Ask question</div></a>
+				</div>
+				<div class="welcome_tab">
+				<a href="#jobadd" rel="jobModal" class="closeall"><div class="popup_button">Post job</div></a>
+				</div>
+				<div class="welcome_tab">
+				<a title="My Profile" href="http://www.toggon.com/user/profile"><div class="popup_button">Create profile</div></a>
+				</div>
+				</div>
+			
+			<div class="welcome_container">
+				<div class="welcome_invitation">
+				You can redirect to
+				</div>
+				<div class="welcome_see">
+				<a href="http://www.toggon.com/links"><div class="popup_button">News</div></a>
+				</div>
+				<div class="welcome_see">
+				<a href="http://www.toggon.com/postquestion/output"><div class="popup_button">Questions</div></a>
+				</div>
+				<div class="welcome_see">
+				<a href="http://www.toggon.com/jobs/board"><div class="popup_button">Jobs</div></a>
+				</div>
+				<div class="welcome_see">
+				<a href="http://www.toggon.com/members"><div class="popup_button">People</div></a>
+				</div>
+			</div>
+			<div class="welcome_container">
+				<div class="welcome_invitation">
+				People you may want to follow
+				</div>
+				<div class="people_follow_container">
+                
+				
+					
+				</div>
+			</div>
+		</div>
+	</div>	
+</div>
+<div class="popup_container_outer" id="report_abuse">
+	<div class="popup_container_inner">
+		<div class="popup_main_container">
+			<form action="" method="post" id="rebuseform">
+				<div class="popup_wrapper">
+					<div class="popup_title">
+					<div class="popup_headline">
+					Report as most appropriate among below
+					</div>
+					<div class="popup_cancel modal_close">
+					<a href="javascript:void(0);">Cancel</a>
+					</div>
+					</div>
+					
+					<div class="popup_field">
+					<div class="popup_radio"><input type="radio" name="abuse_text" class="abuse_radio" value="pornography" checked="checked"></div>
+					<div class="popup_content">
+					<label for="pornography">Nudity or Pornography</label>
+					</div>
+					</div>
+					
+					<div class="popup_field">
+					<div class="popup_radio"><input type="radio" name="abuse_text" class="abuse_radio" value="hate speech"></div>
+					<div class="popup_content"><label for="hate speech">Hate speech or racism</label></div>
+					</div>
+					
+					<div class="popup_field">
+					<div class="popup_radio"><input type="radio" name="abuse_text" class="abuse_radio" value="violence"></div>
+					<div class="popup_content"><label for="violence">Graphic violence or weapons</label></div>
+					</div>
+					
+					<div class="popup_field">
+					<div class="popup_radio"><input type="radio" name="abuse_text" class="abuse_radio" value="attack"></div>
+					<div class="popup_content"><label for="attack">Attacks a group or individual</label></div>
+					</div>
+					
+					<div class="popup_field">
+					<div class="popup_radio"><input type="radio" name="abuse_text" class="abuse_radio" value="self-harm"></div>
+					<div class="popup_content"><label for="self-harm">Actively promotes self-harm</label></div>
+					</div>
+					
+					<div class="popup_field">
+					<div class="popup_radio"><input type="radio" name="abuse_text" class="abuse_radio" value="exploitation"></div>
+					<div class="popup_content"><label for="exploitation">Child exploitation</label></div>
+					</div>
+					
+					<div class="popup_field">
+					<div class="popup_radio"><input type="radio" name="abuse_text" class="abuse_radio" value="copyright"></div>
+					<div class="popup_content"><label for="copyright">Copyright infringement</label></div>
+					</div>
+					
+					<div class="popup_field">
+					<div class="popup_radio"><input type="radio" name="abuse_text" class="abuse_radio" value="spam"></div>
+					<div class="popup_content"><label for="spam">Spam or Scam</label></div>
+					</div>
+					
+					<div class="popup_field">
+						<div class="popup_radio"><input type="radio" name="abuse_text" class="abuse_radio" id="harassment" value="harassment"></div>
+						<div class="popup_content"><label for="harassment">Harassment</label></div>
+						<div class="popup_insidefield" style="display:none;">
+							<div class="popup_radio"><input type="radio" name="abuse_text1" value="harassment me"></div>
+							<div class="popup_content"><label for="harassment">Harassing me</label></div>
+						</div>
+						<div class="popup_insidefield" style="display:none;">
+							<div class="popup_radio"><input type="radio" name="abuse_text1" value="harassment someone else"></div>
+							<div class="popup_content"><label for="harassment"> Harassing someone else</label></div>
+						</div>
+					</div>
+					
+					<div class="popup_field">
+					<div class="popup_radio"><input type="radio" name="abuse_text" class="abuse_radio" value="other"></div>
+					<div class="popup_content"><label for="other">Other</label></div>
+					</div>
+					
+					<div class="popup_field" id="text_custom_abuse" style="display:none;">
+					<div class="popup_textarea"><textarea type="text" name="abuse_custom_message" class="comment-box" placeholder="Type your own text here"></textarea></div>
+					</div>
+
+				</div>
+					<div class="submit_container">
+					<input name="btnsubmit" type="submit" value="Submit" class="submission_button">
+	                <img src="http://www.toggon.com/images/loading2.gif" style="float:right; padding:0px; display:none; width:16px;" width="16px" class="loader">
+					</div>
+					<input type="hidden" name="abusefor" id="abusefor" value="">
+					<input type="hidden" name="abuseid" id="abuseid" value="">
+			</form>   
+		</div>
+	</div>
+</div>
+
+<div class="popup_container_outer" id="jobadd">			
+	<div class="popup_container_inner">		
+		<div class="popup_main_container">		
+			<form action="" method="post" id="popjobfrm">
+				<div class="popup_wrapper">
+					<div class="popup_title">
+					<div class="popup_headline">
+					Provide job details below
+					</div>
+					<div class="popup_cancel job_close">
+					<a href="javascript:void(0);">Cancel</a>
+					</div>
+					</div>
+					
+					<div class="submission_field" id="joppoperror" style="display:none; padding:10px 15px;">
+					</div>
+					
+					<div class="submission_field" style="width:70%; height:40px;">
+					<input type="text" name="company_name" value="" id="company_name" class="" onblur="return create_url()" title="Enter company name" placeholder="Enter company name">					</div>
+					
+					<div class="submission_category" style="width:30%; height:40px;">
+					<select name="is_company_visible">
+					<option value="0">Visible / Hide</option>
+					<option value="1">Visible</option>
+					<option value="0">Hide</option>
+					</select>
+					</div>
+
+					<div class="submission_category">
+										<select name="company_type" id="company_type">
+												<option value="">Select company type</option>
+												<option value="Limited">Limited</option>
+												<option value="Private_Limited">Private Limited</option>
+												<option value="Incorporated">Incorporated</option>
+												<option value="Corporation">Corporation</option>
+												<option value="Public_Limited">Public Limited</option>
+												<option value="Liability_Limited">Liability Limited</option>
+												<option value="Sole_Proprietorship">Sole Proprietorship</option>
+												<option value="Ltd.">Ltd.</option>
+												<option value="Pvt._Ltd.">Pvt. Ltd.</option>
+												<option value="Inc.">Inc.</option>
+												<option value="Plc.">Plc.</option>
+												<option value="Llc.">Llc.</option>
+												<option value="Other">Other</option>
+										</select>
+					</div>
+					
+					<div class="submission_field">
+					<input type="text" name="designation" value="" id="designation" class="designation check_condition" onblur="return create_url();" title="Enter designation" placeholder="Enter designation">					</div>
+					
+					<div class="submission_category">
+						<select id="vertical" name="vertical" onchange="return create_url();">
+														<option value="">Select industry / vertical</option>
+														<option value="Accounting">Accounting</option>
+														<option value="AirlinesAviation">Airlines/Aviation</option>
+														<option value="Alternative_Dispute_Resolution">Alternative Dispute Resolution</option>
+														<option value="Alternative_Medicine">Alternative Medicine</option>
+														<option value="Animation">Animation</option>
+														<option value="Apparel__Fashion">Apparel &amp; Fashion</option>
+														<option value="Architecture__Planning">Architecture &amp; Planning</option>
+														<option value="Arts_and_Crafts">Arts and Crafts</option>
+														<option value="Automotive">Automotive</option>
+														<option value="Aviation__Aerospace">Aviation &amp; Aerospace</option>
+														<option value="Banking">Banking</option>
+														<option value="Biotechnology">Biotechnology</option>
+														<option value="Broadcast_Media">Broadcast Media</option>
+														<option value="Building_Materials">Building Materials</option>
+														<option value="Business_Supplies_and_Equipment">Business Supplies and Equipment</option>
+														<option value="Capital_Markets">Capital Markets</option>
+														<option value="Chemicals">Chemicals</option>
+														<option value="Civic__Social_Organization">Civic &amp; Social Organization</option>
+														<option value="Civil_Engineering">Civil Engineering</option>
+														<option value="Commercial_Real_Estate">Commercial Real Estate</option>
+														<option value="Computer__Network_Security">Computer &amp; Network Security</option>
+														<option value="Computer_Games">Computer Games</option>
+														<option value="Computer_Hardware">Computer Hardware</option>
+														<option value="Computer_Networking">Computer Networking</option>
+														<option value="Computer_Software">Computer Software</option>
+														<option value="Construction">Construction</option>
+														<option value="Consumer_Electronics">Consumer Electronics</option>
+														<option value="Consumer_Goods">Consumer Goods</option>
+														<option value="Consumer_Services">Consumer Services</option>
+														<option value="Cosmetics">Cosmetics</option>
+														<option value="Dairy">Dairy</option>
+														<option value="Defense__Space">Defense &amp; Space</option>
+														<option value="Design">Design</option>
+														<option value="Education_Management">Education Management</option>
+														<option value="E-Learning">E-Learning</option>
+														<option value="ElectricalElectronic_Manufacturing">Electrical/Electronic Manufacturing</option>
+														<option value="Entertainment">Entertainment</option>
+														<option value="Environmental_Services">Environmental Services</option>
+														<option value="Events_Services">Events Services</option>
+														<option value="Executive_Office">Executive Office</option>
+														<option value="Facilities_Services">Facilities Services</option>
+														<option value="Farming">Farming</option>
+														<option value="Financial_Services">Financial Services</option>
+														<option value="Fine_Art">Fine Art</option>
+														<option value="Fishery">Fishery</option>
+														<option value="Food__Beverages">Food &amp; Beverages</option>
+														<option value="Food_Production">Food Production</option>
+														<option value="Fund-Raising">Fund-Raising</option>
+														<option value="Furniture">Furniture</option>
+														<option value="Gambling__Casinos">Gambling &amp; Casinos</option>
+														<option value="Glass,_Ceramics__Concrete">Glass, Ceramics &amp; Concrete</option>
+														<option value="Government_Administration">Government Administration</option>
+														<option value="Government_Relations">Government Relations</option>
+														<option value="Graphic_Design">Graphic Design</option>
+														<option value="Health,_Wellness_and_Fitness">Health, Wellness and Fitness</option>
+														<option value="Higher_Education">Higher Education</option>
+														<option value="Hospital__Health_Care">Hospital &amp; Health Care</option>
+														<option value="Hospitality">Hospitality</option>
+														<option value="Human_Resources">Human Resources</option>
+														<option value="Import_and_Export">Import and Export</option>
+														<option value="Individual__Family_Services">Individual &amp; Family Services</option>
+														<option value="Industrial_Automation">Industrial Automation</option>
+														<option value="Information_Services">Information Services</option>
+														<option value="Information_Technology_and_Services">Information Technology and Services</option>
+														<option value="Insurance">Insurance</option>
+														<option value="International_Affairs">International Affairs</option>
+														<option value="International_Trade_and_Development">International Trade and Development</option>
+														<option value="Internet">Internet</option>
+														<option value="Investment_Banking">Investment Banking</option>
+														<option value="Investment_Management">Investment Management</option>
+														<option value="Judiciary">Judiciary</option>
+														<option value="Law_Enforcement">Law Enforcement</option>
+														<option value="Law_Practice">Law Practice</option>
+														<option value="Legal_Services">Legal Services</option>
+														<option value="Legislative_Office">Legislative Office</option>
+														<option value="Leisure,_Travel__Tourism">Leisure, Travel &amp; Tourism</option>
+														<option value="Libraries">Libraries</option>
+														<option value="Logistics_and_Supply_Chain">Logistics and Supply Chain</option>
+														<option value="Luxury_Goods__Jewelry">Luxury Goods &amp; Jewelry</option>
+														<option value="Machinery">Machinery</option>
+														<option value="Management_Consulting">Management Consulting</option>
+														<option value="Maritime">Maritime</option>
+														<option value="Marketing_and_Advertising">Marketing and Advertising</option>
+														<option value="Market_Research">Market Research</option>
+														<option value="Mechanical_or_Industrial_Engineering">Mechanical or Industrial Engineering</option>
+														<option value="Media_Production">Media Production</option>
+														<option value="Medical_Devices">Medical Devices</option>
+														<option value="Medical_Practice">Medical Practice</option>
+														<option value="Mental_Health_Care">Mental Health Care</option>
+														<option value="Military">Military</option>
+														<option value="Mining__Metals">Mining &amp; Metals</option>
+														<option value="Motion_Pictures_and_Film">Motion Pictures and Film</option>
+														<option value="Museums_and_Institutions">Museums and Institutions</option>
+														<option value="Music">Music</option>
+														<option value="Nanotechnology">Nanotechnology</option>
+														<option value="Newspapers">Newspapers</option>
+														<option value="Nonprofit_Organization_Management">Nonprofit Organization Management</option>
+														<option value="Oil__Energy">Oil &amp; Energy</option>
+														<option value="Online_Media">Online Media</option>
+														<option value="OutsourcingOffshoring">Outsourcing/Offshoring</option>
+														<option value="PackageFreight_Delivery">Package/Freight Delivery</option>
+														<option value="Packaging_and_Containers">Packaging and Containers</option>
+														<option value="Paper__Forest_Products">Paper &amp; Forest Products</option>
+														<option value="Performing_Arts">Performing Arts</option>
+														<option value="Pharmaceuticals">Pharmaceuticals</option>
+														<option value="Philanthropy">Philanthropy</option>
+														<option value="Photography">Photography</option>
+														<option value="Plastics">Plastics</option>
+														<option value="Political_Organization">Political Organization</option>
+														<option value="PrimarySecondary_Education">Primary/Secondary Education</option>
+														<option value="Printing">Printing</option>
+														<option value="Professional_Training__Coaching">Professional Training &amp; Coaching</option>
+														<option value="Program_Development">Program Development</option>
+														<option value="Public_Policy">Public Policy</option>
+														<option value="Public_Relations_and_Communications">Public Relations and Communications</option>
+														<option value="Public_Safety">Public Safety</option>
+														<option value="Publishing">Publishing</option>
+														<option value="Railroad_Manufacture">Railroad Manufacture</option>
+														<option value="Ranching">Ranching</option>
+														<option value="Real_Estate">Real Estate</option>
+														<option value="Recreational_Facilities_and_Services">Recreational Facilities and Services</option>
+														<option value="Religious_Institutions">Religious Institutions</option>
+														<option value="Renewables__Environment">Renewables &amp; Environment</option>
+														<option value="Research">Research</option>
+														<option value="Restaurants">Restaurants</option>
+														<option value="Retail">Retail</option>
+														<option value="Security_and_Investigations">Security and Investigations</option>
+														<option value="Semiconductors">Semiconductors</option>
+														<option value="Shipbuilding">Shipbuilding</option>
+														<option value="Sporting_Goods">Sporting Goods</option>
+														<option value="Sports">Sports</option>
+														<option value="Staffing_and_Recruiting">Staffing and Recruiting</option>
+														<option value="Supermarkets">Supermarkets</option>
+														<option value="Telecommunications">Telecommunications</option>
+														<option value="Textiles">Textiles</option>
+														<option value="Think_Tanks">Think Tanks</option>
+														<option value="Tobacco">Tobacco</option>
+														<option value="Translation_and_Localization">Translation and Localization</option>
+														<option value="TransportationTruckingRailroad">Transportation/Trucking/Railroad</option>
+														<option value="Utilities">Utilities</option>
+														<option value="Venture_Capital__Private_Equity">Venture Capital &amp; Private Equity</option>
+														<option value="Veterinary">Veterinary</option>
+														<option value="Warehousing">Warehousing</option>
+														<option value="Wholesale">Wholesale</option>
+														<option value="Wine_and_Spirits">Wine and Spirits</option>
+														<option value="Wireless">Wireless</option>
+														<option value="Writing_and_Editing">Writing and Editing</option>
+													</select>
+					</div>
+					
+					<div class="submission_category">
+					<select name="function_group" id="function_group">
+<option value="" selected="selected">Select function group</option>
+<option value="0">Business / Corporate</option>
+<option value="1">Finance / Accounts</option>
+<option value="2">Sales / Marketing / Business Development</option>
+<option value="3">Risk / Legal / Compliance / Auditing</option>
+<option value="4">Production / Supply Chain / Procurement / Logistics</option>
+<option value="5">Technology / Information Technology</option>
+<option value="6">Human Resource / Administration</option>
+<option value="7">Operations / Quality / Training / Consulting</option>
+<option value="8">Research / Development / Testing</option>
+<option value="9">Startup</option>
+<option value="10">Freelance</option>
+<option value="11">Other</option>
+</select>					</div>
+					
+					<div class="submission_field">
+					<input type="text" name="function" value="" id="function1" class="check_condition" onblur="return create_url(); " placeholder="Enter department / function">					</div>
+					
+					<div class="submission_field">
+					<input type="text" name="job_city" value="" id="job_city" class="check_condition" onblur="return create_url(); " placeholder="Enter city name">					</div>
+					
+					<div class="submission_field">
+					<input type="text" name="job_country" value="" id="job_country1" class="check_condition" onblur="return create_url()" placeholder="Enter country name">					</div>
+					
+					<div class="submission_category">
+					<select name="job_type" id="job_type" onchange="create_top();">
+<option value="" selected="selected">Select job type</option>
+<option value="full_time">Full Time</option>
+<option value="part_time">Part Time</option>
+<option value="freelance">Freelance</option>
+<option value="contract">Contract</option>
+</select>					</div>
+					
+					<div class="submission_category">
+					<select name="job_level" id="job_level" onchange="setexp(this.value);">
+<option value="" selected="selected">Select job position level</option>
+<option value="trainee">Trainee</option>
+<option value="intern">Intern</option>
+<option value="fresher">Fresher</option>
+<option value="freelancer">Freelance</option>
+<option value="entry">Entry Level</option>
+<option value="junior_management">Junior Management</option>
+<option value="middle_management">Middle Management</option>
+<option value="senior_management">Senior Management</option>
+<option value="cxo">CXO</option>
+</select>					</div>
+					
+					<div class="submission_category" style="width:50%">
+					<select name="min_experience" id="min_experience" onchange=" create_top();">
+<option value="" selected="selected">Select minimum experience</option>
+<option value="0">0</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30+">30+</option>
+</select>					</div>
+					
+					<div class="submission_category" style="width:50%">
+					<select name="max_experience" id="max_experience" onchange=" create_top();">
+<option value="" selected="selected">Select maximum experience</option>
+<option value="0">0</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30+">30+</option>
+</select>					<div class="field_two"><input type="hidden" name="page_url" id="page_url_field" value="" style="width:250px;">
+					</div>
+					</div>	
+				</div>
+
+				<div class="submit_container">
+				<input name="btnsubmit" type="submit" value="Submit Job" class="submission_button">
+                <img src="http://www.toggon.com/images/loading2.gif" style="float:right; padding:0px; display:none; width:16px;" width="16px" class="loader">
+				</div>
+					
+			</form>
+		</div>
+	</div>
+</div>
+	
+<div class="popup_container_outer" id="askquestion">
+	<div class="popup_container_inner">
+		<div class="popup_main_container">
+			<form name="frmpost" id="frmpostquestion" method="post" action="http://www.toggon.com/postquestion/ask" onsubmit="return submitpost()" enctype="multipart/form-data">
+					<div class="question_error">
+					<div style="color:#fff;text-align: justify" id="display_note_err"></div>
+					<div style="color:#fff;text-align: justify" id="display_topic_err"></div>
+					<div style="color:#fff;text-align: justify" id="display_category_err"></div>
+					</div>
+
+				<div class="popup_wrapper">
+					<div class="popup_title">
+					<div class="popup_headline">
+					Mention your question and details
+					</div>
+					<div class="popup_cancel question_close">
+					<a href="javascript:void(0);">Cancel</a>
+					</div>
+					</div>
+					
+					<div class="popup_field">
+					<div class="popup_textarea">
+					<textarea type="text" name="note" class="comment-box" id="note_user" value="" placeholder="Ask question here..."></textarea>
+					</div>
+					</div>
+					
+					<div class="submission_field">
+					<input type="text" id="tgn-share-link-top-topic" name="tgn-share-link-top" placeholder="Provide topic">
+					</div>
+
+					<div class="submission_category">
+					<select class="categories" id="tgn_post_category" name="tgn_post_category"><option value="">Choose Category</option><option value="2">Automobiles</option><option value="3">Business &amp; Corporate</option><option value="4">Beauty &amp; Personal Care</option><option value="5">Dating &amp; Relationships</option><option value="6">Jobs &amp; Education</option><option value="7">Fashion &amp; Apparel</option><option value="8">Food &amp; Dining</option><option value="9">Gadgets &amp; Technology</option><option value="10">Government &amp; Politics</option><option value="11">Health &amp; Lifestyle</option><option value="12">History &amp; Events</option><option value="13">Home &amp; Interiors</option><option value="14">Humor &amp; Jokes
+</option><option value="15">Internet &amp; Social Media</option><option value="16">Life Quotes &amp; Beliefs</option><option value="17">Entertainment &amp; Celebrities
+</option><option value="18">Arts &amp; Photography
+</option><option value="20">Science &amp; Nature</option><option value="21">Sports</option><option value="22">Startups &amp; Entrepreneurship</option><option value="23">Knowledge &amp; Awareness</option><option value="24">Travel &amp; Places</option><option value="25">Others</option><option value="26">Webmaster &amp; Developers</option><option value="27">Real Estate</option><option value="29">News, Media &amp; Publication</option></select>					</div>
+					
+					<div class="question_image_container">
+					<div class="question_image">
+					<label><input type="file" name="question_image"></label>
+					</div>
+					</div>
+					
+				</div>
+			
+				<div class="submit_container">
+				<input value="Submit Question" name="post_question" type="submit" class="submission_button">
+                <img src="http://www.toggon.com/images/loading2.gif" style="float:right; padding:0px; display:none; width:16px;" width="16px" class="loader">
+				</div>
+
+			</form>
+		</div>
+	</div>	
+</div>
+
+<div class="popup_container_outer" id="newspost">
+	<div class="popup_container_inner">
+		<div class="popup_main_container">
+			<form method="post" action="http://www.toggon.com/tog/p" onsubmit="return saveShareLink(this,'link')" id="newsformsubmition">
+				<div class="popup_wrapper">
+					<div class="popup_title">
+					<div class="popup_headline">
+					Share news url
+					</div>
+					<div class="popup_cancel news_close">
+					<a href="javascript:void(0);">Cancel</a>
+					</div>
+					</div>
+					
+					<div class="submission_field">
+					<input type="text" id="tgn-share-link-top" name="tgn-share-link-top" autocomplete="off" placeholder="Paste (Ctrl V) here the news url which you want to share">
+					</div>
+					
+					<div class="submission_field_image" style="display:none;">
+					<div id="tng-share-link-image-container">
+					</div>
+					</div>
+
+					<div class="submission_field_headline">
+					<div id="tng-share-link-content-container">
+					</div>
+					</div>
+					<!--<div class="submission_field_url">
+					
+					</div>
+					<div class="submission_field_descrip">
+					
+					</div>-->
+
+					<div class="popup_field">
+					<div class="popup_textarea">
+					<textarea type="text" name="custom" id="aboutme" class="comment-box" placeholder="Mention comment"></textarea>
+					</div>
+					</div>
+					<div class="submission_category">
+					<select class="categories" id="tgn_post_category" name="tgn_post_category"><option value="">Choose Category</option><option value="2">Automobiles</option><option value="3">Business &amp; Corporate</option><option value="4">Beauty &amp; Personal Care</option><option value="5">Dating &amp; Relationships</option><option value="6">Jobs &amp; Education</option><option value="7">Fashion &amp; Apparel</option><option value="8">Food &amp; Dining</option><option value="9">Gadgets &amp; Technology</option><option value="10">Government &amp; Politics</option><option value="11">Health &amp; Lifestyle</option><option value="12">History &amp; Events</option><option value="13">Home &amp; Interiors</option><option value="14">Humor &amp; Jokes
+</option><option value="15">Internet &amp; Social Media</option><option value="16">Life Quotes &amp; Beliefs</option><option value="17">Entertainment &amp; Celebrities
+</option><option value="18">Arts &amp; Photography
+</option><option value="20">Science &amp; Nature</option><option value="21">Sports</option><option value="22">Startups &amp; Entrepreneurship</option><option value="23">Knowledge &amp; Awareness</option><option value="24">Travel &amp; Places</option><option value="25">Others</option><option value="26">Webmaster &amp; Developers</option><option value="27">Real Estate</option><option value="29">News, Media &amp; Publication</option></select>					</div>
+				</div>
+				
+					<div class="submit_container">
+					<input name="btnsubmit" type="submit" value="Share" class="submission_button" onclick="if(document.getElementById('tgn-share-link-top').value==''){return false;}else{show_loader();}">
+	                <img src="http://www.toggon.com/images/loading2.gif" style="float:right; padding:0px; display:none; width:16px;" width="16px" class="loader_news">
+					</div>
+					<input type="hidden" name="post_title" id="tgn_post_title">
+					<input type="hidden" name="post_description" id="tgn_post_description">
+					
+			</form>
+		</div>
+	</div>
+</div>
+<div class="popup_container_field" style="display:none;" id="loginpopup">
+	<div class="popup_container_inner">
+		<div class="popup_wrapper">
+			<div class="popup_title">
+			<div class="popup_headline">
+			Connect with
+			</div>
+			<div class="popup_cancel login_close">
+			<a href="javascript:void(0);">X</a>
+			</div>
+			</div>
+			<div class="social_media_container">
+				<div class="social_media_connection">
+				
+				<a href="https://www.facebook.com/dialog/oauth?display=popup&amp;app_id=361820020558870&amp;client_id=361820020558870&amp;redirect_uri=http%3A%2F%2Fwww.toggon.com%2Findex.php%2Fsecure%2Ffblogin&amp;scope=email,user_likes,user_birthday,offline_access,publish_stream,manage_pages&amp;state=321524"><div class="social_fb_button">Facebook</div></a>
+				
+				</div>
+				
+				<div class="social_media_connection">
+				
+				<a href="http://www.toggon.com/secure/linkedine_login"><div class="social_lkd_button">Linkedin</div></a>
+				
+				</div>
+				
+				<div class="social_media_connection">
+				
+				<a href="http://www.toggon.com/secure/googlelogin"><div class="social_gml_button">Gmail</div></a>
+				
+				</div>
+				
+				<div class="social_media_connection">
+				
+				<a href="http://www.toggon.com/secure/login"><div class="social_toggon_button">Login with Toggon</div></a>
+				
+				
+				<a href="http://www.toggon.com/secure/register"><div class="social_toggon_button">Signup with Toggon</div></a>
+				
+				</div>
+			
+			</div>
+			
+			
+			
+			
+			
+
+		</div>
+	</div>
+		
+</div>
+
+ 
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-39916903-1']);
@@ -242,13 +1189,6 @@ $(function(){
 
 </script>
 
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=361820020558870";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
 
 	
 </body></html>
