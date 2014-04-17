@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivers-licenses.org privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206153534id_/http%3A//drivers-licenses.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivers-licenses.org privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417053023id_/http%3A//drivers-licenses.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Drivers-licenses.Org
 
@@ -99,7 +99,7 @@ We may provide your personal information as required by law, such as to comply w
 
 #### Anti-Spam Policy
 
-We have crafted a strong, zero-tolerance anti-spam policy to protect you. If you feel you have been sent spam, please email us at [info@Drivers-Licenses.org](https://web.archive.org/web/20131206153534id_/http%3A//drivers-licenses.org/info@Drivers-Licenses.org) and we'll immediately take steps to solve the problem. We hold the privacy of all users in the highest regard, as well as the recipients of emails sent by our advertisers. 
+We have crafted a strong, zero-tolerance anti-spam policy to protect you. If you feel you have been sent spam, please email us at [info@Drivers-Licenses.org](https://web.archive.org/web/20140417053023id_/http%3A//drivers-licenses.org/info@Drivers-Licenses.org) and we'll immediately take steps to solve the problem. We hold the privacy of all users in the highest regard, as well as the recipients of emails sent by our advertisers. 
 
 #### The Federal CAN-SPAM Act
 
