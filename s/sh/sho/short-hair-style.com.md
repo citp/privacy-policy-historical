@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the short-hair-style.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907190028id_/http%3A//www.short-hair-style.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the short-hair-style.com privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417161851id_/http%3A//www.short-hair-style.com/privacy.html) for the most accurate reproduction.*
 
 # Short-Hair-Style.com - Privacy Statement
 
