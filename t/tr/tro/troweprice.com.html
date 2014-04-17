@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the troweprice.com privacy policy that was archived on 2013-08-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130818073335id_/http%3A//corporate.troweprice.com/ccw/home/privacyPolicy.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the troweprice.com privacy policy that was archived on 2014-04-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140417185540id_/http%3A//corporate.troweprice.com/ccw/home/privacyPolicy.do) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -9,10 +9,10 @@
 		<meta http-equiv="Content-Language" content="en-us">
 		<meta http-equiv="imagetoolbar" content="false">
 		<meta name="MSSmartTagsPreventParsing" content="true">
-		<meta name="Description" content=" T. Rowe Price, a global investment management firm dedicated to helping clients achieve long term success  ">
-		<meta name="Keywords" content=" Personal information, financial information, information, T. Rowe Price, customer, product  ">
+		<meta name="Description" content=" View the T. Rowe Price privacy policy  ">
+		<meta name="Keywords" content=" Personal information, financial information, information, T. Rowe Price, customer, product,	privacy policy , t rowe price, TRP t. rowe price  ">
 		
-		<title> T. Rowe Price investment management  </title>
+		<title> Privacy Policy | T. Rowe Price  </title>
 		
 		<link href="/ccw/style/fonts.css?v=3" type="text/css" rel="Stylesheet">
 		<link href="/ccw/style/global.css?v=3" type="text/css" rel="Stylesheet">
@@ -31,12 +31,8 @@
 		<script language="javascript" src="/ccw/js/careers.js" type="text/javascript"></script>
 	
 	
-	
+	<script language="javascript" src="/ccw/js/jquery-1.7.2.min.js" type="text/javascript"></script>
 
-
-
-
-	
 
 
 
@@ -44,8 +40,18 @@
 
 		
 	<!--[if lte IE 7 ]>
-		<link media="all" href="/ccw/style/ie.css?v=3" type="text/css" rel="stylesheet" />
-	<![endif]-->	
+		<script language="javascript">
+			if(document.documentMode <= 7){
+				var head  = document.getElementsByTagName('head')[0];
+			    var link  = document.createElement('link');
+			    link.rel  = 'stylesheet';
+			    link.type = 'text/css';
+			    link.href = '/ccw/style/ie.css?v=3';
+			    link.media = 'all';
+			    head.appendChild(link);
+			}
+		</script>
+	<![endif]-->		
 	<!--[if lte IE 6]><link media="all" href="/ccw/style/ie6.css?v=3" type=text/css rel=stylesheet><![endif]-->
 	
 	
@@ -58,7 +64,7 @@
 		
 			var imageTagList = new Array();
 			var vsLinkList = new Array();
-			var wtaPageTitle = " T. Rowe Price investment management  ";
+			var wtaPageTitle = " Privacy Policy | T. Rowe Price  ";
 			
 			function vsLinkObject(element, linktext, linkplmt)
 			{
@@ -180,13 +186,13 @@
 			{
 				
 				
+					com.trp.metrics.SiteCatalyst.trackLink(linktext, linkplmt, element.href);
 					if (element.href.indexOf('careers') != -1 || element.href.indexOf('ccw') == -1)
 					{
 						WTA.utils.tags.sendexiturltag2(element, 'Privacy Policy', linktext, linkplmt, "CORP");
-				
 						return false;
 					}
-				
+					
 				
 				return true;
 			}
@@ -195,6 +201,7 @@
 			{
 				
 				
+					com.trp.metrics.SiteCatalyst.trackLink(linktext, linkplmt, element.href);
 					if (element.href.indexOf('careers') != -1 || element.href.indexOf('ccw') == -1)
 					{
 						WTA.utils.tags.sendcorpexiturl(element, 'Privacy Policy', linktext, linkplmt);
@@ -207,15 +214,18 @@
 			{
 				
 				
+					com.trp.metrics.SiteCatalyst.trackLink(linktext, linkplmt, element.href);
 					WTA.utils.tags.sendcorpexiturl(element, 'Privacy Policy', linktext, linkplmt);
 				
+
 			}
 
 			
-			function trackJSClick(element, linktext)
+			function trackJSClick(element, linktext, linkplmt)//  linkplmt new parameter added.
 			{
 				
 				
+					com.trp.metrics.SiteCatalyst.trackLink(linktext, linkplmt, element.href);
 					WTA.utils.tags.sendmclink(element, 'Privacy Policy', linktext, "CORP");
 				
 			}
@@ -224,11 +234,13 @@
 			{
 				
 				
+					com.trp.metrics.SiteCatalyst.trackLink(linktext, linkplmt, element.href);
 					if (element.href.indexOf('careers') != -1 || element.href.indexOf('ccw') == -1)
 					{
 						WTA.utils.tags.sendcorpexitjs(element, 'Privacy Policy', linktext, linkplmt);
 					}
 				
+
 			}
 	
 	<!--		 -->
@@ -359,7 +371,7 @@
 		
 	<script type="text/javascript" src="http://metrics.troweprice.com/scripts/wtatags_i.js" charset="ISO-8859-1"></script><script type="text/javascript" src="/ccw/js/oo_engine.js" charset="windows-1252"></script></head>
 
-	<body onload="handleOnLoadEvent()">
+	<body onload="handleOnLoadEvent()">		
 		<div id="legalPop" class="legalContainerBackground" style="display: none;"></div>
 <div id="legalContainer" class="legalContainer" style="display: none;">
 	<div class="legalPopBox">
@@ -402,7 +414,7 @@
 			<div class="headerLeft">
 				
 				
-					<h1><img id="trpTopNavLogo" src="https://web.archive.org/ccw/images/logo.jpg?v=2" width="205" height="80" alt="T. Rowe Price | Invest With Confidence | Home" style="cursor: pointer;" onclick="window.location.href='/ccw/home.do';"></h1>
+					<img id="trpTopNavLogo" src="https://web.archive.org/ccw/images/logo.jpg?v=2" width="187" height="80" alt="T. Rowe Price | Invest With Confidence | Home" style="cursor: pointer;" onclick="window.location.href='/ccw/home.do';">
 				
 			</div>
 			<div class="logoDown"><img src="/ccw/images/banner_downline.gif" alt="banner down"></div>
@@ -420,9 +432,9 @@
 				</div>
 				
 				<ul class="topNav">
-					<li><a href="/ccw/home/about/ourWebsites.do" onclick="return checkLinkVS(this, this.innerHTML, 'HDR')">Our Websites</a></li>
+					<li><a href="/ccw/home/websites.do" onclick="return checkLinkVS(this, this.innerHTML, 'HDR')">Websites</a></li>
 					<li class="seperatorBar">|</li>
-					<li><a href="/ccw/home/about/pressReleases.do" onclick="return checkLinkVS(this, this.innerHTML, 'HDR')">Press Releases</a></li>
+					<li><a href="/ccw/home/pressReleases.do" onclick="return checkLinkVS(this, this.innerHTML, 'HDR')">Press Releases</a></li>
 					<li class="seperatorBar">|</li>
 					<li><a href="http://ir.troweprice.com" onclick="return checkLinkVS(this, this.innerHTML, 'HDR')">Investor Relations</a></li>
 					<li class="seperatorBar">|</li>
@@ -431,7 +443,7 @@
 				
 				<div id="navTextLabel"><span style="background: #fff; padding: 2px;">PRODUCTS &amp; SERVICES FOR:</span></div>
 				
-				<div class="globalNav"> 
+				<div class="globalNav" data-metrics-placement="TN"> 
 			 		<ul class="nav" id="nav">
 			 			
 			 			
@@ -452,15 +464,27 @@
 											</li>
 										
 											<li class="">
-												<a href="/ccw/home/about/pressReleases.do" onclick="return checkLinkVS(this, this.innerHTML, 'TN')" class="hasSub">Press Releases</a>
+												<a href="/ccw/home/about/culture.do" onclick="return checkLinkVS(this, this.innerHTML, 'TN')" class="hasSub">Culture</a>
 											</li>
 										
 											<li class="">
-												<a href="/ccw/home/about/ourWebsites.do" onclick="return checkLinkVS(this, this.innerHTML, 'TN')" class="hasSub">Our Websites</a>
+												<a href="/ccw/home/about/investmentApproach.do" onclick="return checkLinkVS(this, this.innerHTML, 'TN')" class="hasSub">Investment Approach</a>
+											</li>
+										
+											<li class="">
+												<a href="/ccw/home/about/history.do" onclick="return checkLinkVS(this, this.innerHTML, 'TN')" class="hasSub">History</a>
+											</li>
+										
+											<li class="">
+												<a href="/ccw/home/about/leadership.do" onclick="return checkLinkVS(this, this.innerHTML, 'TN')" class="hasSub">Leadership</a>
+											</li>
+										
+											<li class="">
+												<a href="/ccw/home/about/investmentPerspective.do" onclick="return checkLinkVS(this, this.innerHTML, 'TN')" class="hasSub">Investment Perspective</a>
 											</li>
 										
 											<li class="last">
-												<a href="/ccw/home/about/ourSocialMediaSites.do" onclick="return checkLinkVS(this, this.innerHTML, 'TN')" class="hasSub">Our Social Media Sites</a>
+												<a href="/ccw/home/about/perspectives.do" onclick="return checkLinkVS(this, this.innerHTML, 'TN')" class="hasSub">Perspectives</a>
 											</li>
 										
 									</ul>
@@ -491,8 +515,12 @@
 												<a href="/ccw/home/responsibility/empoweringOurAssociates.do" onclick="return checkLinkVS(this, this.innerHTML, 'TN')" class="hasSub">Empowering Our Associates</a>
 											</li>
 										
-											<li class="last">
+											<li class="">
 												<a href="/ccw/home/responsibility/buildingFinancialCapabilityinCommunities.do" onclick="return checkLinkVS(this, this.innerHTML, 'TN')" class="hasSub">Building Financial Capability in Communities</a>
+											</li>
+										
+											<li class="last">
+												<a href="/ccw/home/responsibility/tRowePriceFoundation.do" onclick="return checkLinkVS(this, this.innerHTML, 'TN')" class="hasSub">T. Rowe Price Foundation</a>
 											</li>
 										
 									</ul>
@@ -566,7 +594,7 @@
 			 				<li class="firstLevel subMenu1">
 		 						
 		 						
-		 							<a class="link1" href="#" onclick="return checkLinkVS(this, 'Individuals', 'TN|Audience')">
+		 							<a class="link1" href="#" onclick="return checkLinkVS(this, 'Audience-'+'Individuals', 'TN')">
 				 						Individuals
 				 					</a>
 		 						
@@ -578,21 +606,30 @@
 											
 											
 												<li class="">
-													<a href="https://individual.troweprice.com/public/Retail?src=CorpHome" onclick="return checkLinkVS(this, this.innerHTML, 'TN|Audience')" class="hasSub">Individual Investors</a>
+													<a href="https://individual.troweprice.com/public/Retail?src=CorpHome" onclick="return checkLinkVS(this, 'Audience-'+this.innerHTML, 'TN')" class="hasSub">Individual Investors</a>
+												
+													<div class="menuInnerBorder"></div>
+												
 												</li>
 											
 										
 											
 											
 												<li class="">
-													<a href="http://rps.troweprice.com/?origins=CorpHome" onclick="return checkLinkVS(this, this.innerHTML, 'TN|Audience')" class="hasSub">Workplace Retirement Plan Participants</a>
+													<a href="http://rps.troweprice.com/?origins=CorpHome" onclick="return checkLinkVS(this, 'Audience-'+this.innerHTML, 'TN')" class="hasSub">Workplace Retirement Plan Participants</a>
+												
+													<div class="menuInnerBorder"></div>
+												
 												</li>
 											
 										
 											
 											
 												<li class="last">
-													<a href="/ccw/home/individuals/investorsOutsidetheUnitedStates.do" onclick="return checkLinkVS(this, this.innerHTML, 'TN|Audience')" class="hasSub">Investors Outside the United States</a>
+													<a href="/ccw/home/individuals/investorsOutsidetheUnitedStates.do" onclick="return checkLinkVS(this, 'Audience-'+this.innerHTML, 'TN')" class="hasSub">Investors Outside the United States</a>
+												
+													
+												
 												</li>
 											
 										
@@ -603,7 +640,7 @@
 			 				<li class="firstLevel subMenu2">
 		 						
 		 						
-		 							<a class="link2" href="#" onclick="return checkLinkVS(this, 'Financial Intermediaries', 'TN|Audience')">
+		 							<a class="link2" href="#" onclick="return checkLinkVS(this, 'Audience-'+'Financial Intermediaries', 'TN')">
 				 						Financial Intermediaries
 				 					</a>
 		 						
@@ -615,21 +652,30 @@
 											
 											
 												<li class="">
-													<a href="https://www2.troweprice.com/iws/wps/portal/public_fi?src=CorpHome" onclick="return checkLinkVS(this, this.innerHTML, 'TN|Audience')" class="hasSub">United States</a>
+													<a href="https://www2.troweprice.com/iws/wps/portal/public_fi?src=CorpHome" onclick="return checkLinkVS(this, 'Audience-'+this.innerHTML, 'TN')" class="hasSub">United States</a>
+												
+													<div class="menuInnerBorder"></div>
+												
 												</li>
 											
 										
 											
 											
 												<li class="">
-													<a href="https://www2.troweprice.com/iws/wps/screens/html/welcome.jsp?pdurl=/iws/wps/myportal/&amp;src=CorpHome" onclick="return checkLinkVS(this, this.innerHTML, 'TN|Audience')" class="hasSub">Europe, Middle East &amp; Africa</a>
+													<a href="https://www2.troweprice.com/iws/wps/screens/html/welcome.jsp?pdurl=/iws/wps/myportal/&amp;src=CorpHome" onclick="return checkLinkVS(this, 'Audience-'+this.innerHTML, 'TN')" class="hasSub">Europe, Middle East &amp; Africa</a>
+												
+													<div class="menuInnerBorder"></div>
+												
 												</li>
 											
 										
 											
 											
 												<li class="last">
-													<a href="https://www2.troweprice.com/iws/wps/screens/html/welcome.jsp?pdurl=/iws/wps/myportal/&amp;src=CorpHome" onclick="return checkLinkVS(this, this.innerHTML, 'TN|Audience')" class="hasSub">Asia Pacific</a>
+													<a href="https://www2.troweprice.com/iws/wps/screens/html/welcome.jsp?pdurl=/iws/wps/myportal/&amp;src=CorpHome" onclick="return checkLinkVS(this, 'Audience-'+this.innerHTML, 'TN')" class="hasSub">Asia Pacific</a>
+												
+													
+												
 												</li>
 											
 										
@@ -640,7 +686,7 @@
 			 				<li class="firstLevel subMenu3">
 		 						
 		 						
-		 							<a class="link3" href="#" onclick="return checkLinkVS(this, 'Institutions', 'TN|Audience')">
+		 							<a class="link3" href="#" onclick="return checkLinkVS(this, 'Audience-'+'Institutions', 'TN')">
 				 						Institutions
 				 					</a>
 		 						
@@ -650,37 +696,59 @@
 									<ul>
 										
 											
-											
-												<li class="">
-													<a href="https://www2.troweprice.com/iws/wps/screens/html/welcome.jsp?pdurl=/iws/wps/myportal/&amp;src=CorpHome" onclick="return checkLinkVS(this, this.innerHTML, 'TN|Audience')" class="hasSub">Institutional Investors</a>
-												</li>
-											
-										
-											
-											
-												<li class="">
-													<a href="https://www2.troweprice.com/iws/wps/screens/html/welcome.jsp?pdurl=/iws/wps/myportal/&amp;src=CorpHome" onclick="return checkLinkVS(this, this.innerHTML, 'TN|Audience')" class="hasSub">Institutional Consultants</a>
-												</li>
-											
-										
-											
-												<li class="subSection last">
+												<li class="subSection ">
 													
-														<a href="#" onclick="return checkLinkVS(this, this.innerHTML, 'TN|Audience')" class="hasSub_t">Defined Contribution Plan Sponsors</a>
+														<a href="#" onclick="return checkLinkVS(this, 'Audience-'+this.innerHTML, 'TN')" class="hasSub_t">Institutional</a>
 													
 													
 													<ul>
 														
 															<li class="">
-																<a href="https://www2.troweprice.com/rms/marketing/v/sponsors/index.jsp?src=CorpHome" onclick="return checkLinkVS(this, this.innerHTML, 'TN|Audience')" class="hasSub">Full Service</a>
-															</li>
-														
-															<li class="">
-																<a href="https://www2.troweprice.com/iws/wps/myportal/DCPlans?origins=corporate&amp;investorType=DCPlans" onclick="return checkLinkVS(this, this.innerHTML, 'TN|Audience')" class="hasSub">Investment Only</a>
+																<a href="https://www2.troweprice.com/iws/wps/screens/html/welcome.jsp?pdurl=/iws/wps/myportal/&amp;src=CorpHome" onclick="return checkLinkVS(this, 'Audience-'+this.innerHTML, 'TN')" class="hasSub">Investors</a>
+												
+																<div class="menuInnerBorder"></div>
+															
 															</li>
 														
 															<li class="last">
-																<a href="https://www2.troweprice.com/rms/marketing/v/consultants/index.jsp?src=CorpHome" onclick="return checkLinkVS(this, this.innerHTML, 'TN|Audience')" class="hasSub">Consultants</a>
+																<a href="https://www4.troweprice.com/icw/consultant/site/Start?placementGUID=CorpHome" onclick="return checkLinkVS(this, 'Audience-'+this.innerHTML, 'TN')" class="hasSub">Consultants</a>
+												
+																
+															
+															</li>
+														
+													</ul>
+												</li>
+											
+											
+										
+											
+												<li class="subSection last">
+													
+														<a href="#" onclick="return checkLinkVS(this, 'Audience-'+this.innerHTML, 'TN')" class="hasSub_t">Defined Contribution Plan Sponsors</a>
+													
+													
+													<ul>
+														
+															<li class="">
+																<a href="https://www2.troweprice.com/rms/marketing/v/sponsors/index.jsp?src=CorpHome" onclick="return checkLinkVS(this, 'Audience-'+this.innerHTML, 'TN')" class="hasSub">Full Service</a>
+												
+																<div class="menuInnerBorder"></div>
+															
+															</li>
+														
+															<li class="">
+																<a href="https://www2.troweprice.com/iws/wps/myportal/DCPlans?origins=corporate&amp;investorType=DCPlans" onclick="return checkLinkVS(this, 'Audience-'+this.innerHTML, 'TN')" class="hasSub">Investment Only</a>
+												
+																<div class="menuInnerBorder"></div>
+															
+															</li>
+														
+															<li class="last">
+																<a href="https://www2.troweprice.com/rms/marketing/v/consultants/index.jsp?src=CorpHome" onclick="return checkLinkVS(this, 'Audience-'+this.innerHTML, 'TN')" class="hasSub">Consultants</a>
+												
+																
+															
 															</li>
 														
 													</ul>
@@ -692,14 +760,14 @@
 			 					
 			 				</li>
 			 			
-		   			</ul>
+			 			</ul>
 			 		<ul class="login-nav" id="LoginNav">
 			 			
 			 			
 			 				<li class="firstLevel subMenu1">
 		 						
 		 						
-		 							<a class="link1" href="#" onclick="return checkLinkVS(this, 'Log In', 'TN|Login')">
+		 							<a class="link1" href="#" onclick="return checkLinkVS(this, 'Login-'+'Log In', 'TN')">
 				 						Log In
 				 					</a>
 		 						
@@ -714,28 +782,43 @@
 												<li class="subSection ">
 													
 													
-														<a href="#" onclick="return checkLinkVS(this, this.innerHTML, 'TN|Login')" class="hasSub">United States</a>
+														<a href="#" onclick="return checkLinkVS(this, 'Login-'+this.innerHTML, 'TN')" class="hasSub">United States</a>
 													
 													<ul>
 														
 															<li class="">
-																<a href="https://individual.troweprice.com/public/Retail/hMyAccounts/LogInToday?src=CorpHome" onclick="return checkLinkVS(this, this.innerHTML, 'TN|Login')" class="">Individual Investors</a>
+																<a href="https://individual.troweprice.com/public/Retail/hMyAccounts/LogInToday?src=CorpHome" onclick="return checkLinkVS(this, 'Login-'+this.innerHTML, 'TN')" class="">Individual Investors</a>
+															
+																<div class="menuInnerBorder"></div>
+															
 															</li>
 														
 															<li class="">
-																<a href="http://rps.troweprice.com/?origins=CorpHome" onclick="return checkLinkVS(this, this.innerHTML, 'TN|Login')" class="">Workplace Retirement Plan Participants</a>
+																<a href="http://rps.troweprice.com/?origins=CorpHome" onclick="return checkLinkVS(this, 'Login-'+this.innerHTML, 'TN')" class="">Workplace Retirement Plan Participants</a>
+															
+																<div class="menuInnerBorder"></div>
+															
 															</li>
 														
 															<li class="">
-																<a href="https://www2.troweprice.com/iws/wps/portal/public_fi/register/login?src=CorpHome" onclick="return checkLinkVS(this, this.innerHTML, 'TN|Login')" class="">Financial Intermediaries &amp; Advisors</a>
+																<a href="https://www2.troweprice.com/iws/wps/portal/public_fi/register/login?src=CorpHome" onclick="return checkLinkVS(this, 'Login-'+this.innerHTML, 'TN')" class="">Financial Intermediaries &amp; Advisors</a>
+															
+																<div class="menuInnerBorder"></div>
+															
 															</li>
 														
 															<li class="">
-																<a href="https://www2.troweprice.com/iws/wps/screens/html/welcome.jsp?pdurl=/iws/wps/myportal/&amp;src=CorpHome" onclick="return checkLinkVS(this, this.innerHTML, 'TN|Login')" class="">Institutional Investors</a>
+																<a href="https://www2.troweprice.com/iws/wps/screens/html/welcome.jsp?pdurl=/iws/wps/myportal/&amp;src=CorpHome" onclick="return checkLinkVS(this, 'Login-'+this.innerHTML, 'TN')" class="">Institutional Investors</a>
+															
+																<div class="menuInnerBorder"></div>
+															
 															</li>
 														
 															<li class="last">
-																<a href="https://www2.troweprice.com/rms/marketing/v/sponsors/index.jsp?src=CorpHome" onclick="return checkLinkVS(this, this.innerHTML, 'TN|Login')" class="">DC Plan Sponsors</a>
+																<a href="https://www2.troweprice.com/rms/marketing/v/sponsors/index.jsp?src=CorpHome" onclick="return checkLinkVS(this, 'Login-'+this.innerHTML, 'TN')" class="">Defined Contribution Plan Sponsors</a>
+															
+																
+															
 															</li>
 														
 													</ul>
@@ -747,16 +830,22 @@
 												<li class="subSection last">
 													
 													
-														<a href="#" onclick="return checkLinkVS(this, this.innerHTML, 'TN|Login')" class="hasSub">Outside the United States</a>
+														<a href="#" onclick="return checkLinkVS(this, 'Login-'+this.innerHTML, 'TN')" class="hasSub">Outside the United States</a>
 													
 													<ul>
 														
 															<li class="">
-																<a href="https://www2.troweprice.com/iws/wps/screens/html/welcome.jsp?pdurl=/iws/wps/myportal/&amp;src=CorpHome" onclick="return checkLinkVS(this, this.innerHTML, 'TN|Login')" class="">Institutional Investors</a>
+																<a href="https://www2.troweprice.com/iws/wps/screens/html/welcome.jsp?pdurl=/iws/wps/myportal/&amp;src=CorpHome" onclick="return checkLinkVS(this, 'Login-'+this.innerHTML, 'TN')" class="">Institutional Investors</a>
+															
+																<div class="menuInnerBorder"></div>
+															
 															</li>
 														
 															<li class="last">
-																<a href="https://www2.troweprice.com/iws/wps/screens/html/welcome.jsp?pdurl=/iws/wps/myportal/&amp;src=CorpHome" onclick="return checkLinkVS(this, this.innerHTML, 'TN|Login')" class="">Financial Intermediaries</a>
+																<a href="https://www2.troweprice.com/iws/wps/screens/html/welcome.jsp?pdurl=/iws/wps/myportal/&amp;src=CorpHome" onclick="return checkLinkVS(this, 'Login-'+this.innerHTML, 'TN')" class="">Financial Intermediaries</a>
+															
+																
+															
 															</li>
 														
 													</ul>
@@ -820,7 +909,7 @@
 		
 			
 			
-				<li class="current">Privacy Policy</li>
+				<li class="current"><h1>Privacy Policy</h1></li>
 			
 		
 	</ul>
@@ -851,7 +940,17 @@
 	
 	function openEmailWindow()
 	{
-		var url = '/ccw/home/emailPage.do?pageUrl=' + window.location.href + "?src=emailreferral";
+		var re = /([?])/ig;
+		var result = re.exec(window.location.href);
+		if (result !=null)
+		{
+			var src="&src=emailreferral";
+		}
+		else
+			var src="?src=emailreferral";
+	
+
+		var url = '/ccw/home/emailPage.do?pageUrl=' + encodeURIComponent(window.location.href) + src;
 		window.open(url, 'EmailPage', 'width=800, height=550, status=yes, location=no');
 	}
 </script>
@@ -889,6 +988,7 @@
 <!--  END /jsp/components/breadCrumb/breadCrumb.jsp--> 
 
 							
+
 							
 							
 							
@@ -909,132 +1009,87 @@
 		<h3 style="color: #000;">General Privacy Policy*</h3>
 
 <p>
-	T. Rowe Price recognizes the importance of protecting your personal and financial information when you visit our Web site. 
-	In the course of doing business with <span style="white-space: nowrap;">T. Rowe Price</span>, you share personal and 
-	financial information with us. We treat this information as confidential and recognize the importance of protecting access to it.
+	<span style="white-space: nowrap;">T. Rowe Price</span> recognizes the importance of protecting your personal and financial information when you visit our Web site. In the course of doing business with <span style="white-space: nowrap;">T. Rowe Price</span>, you share personal and financial information with us. We treat this information as confidential and recognize the importance of protecting access to it.
 </p>
 
 <p>
-	You may provide information when communicating or transacting with us in writing, electronically, or by phone. For instance, 
-	information may come from applications, requests for forms or literature, and your transactions and account positions with us. 
-	On occasion, such information may come from consumer reporting agencies and those providing services to us.
+	You may provide information when communicating or transacting with us in writing, electronically, or by phone. For instance, information may come from applications, requests for forms or literature, and your transactions and account positions with us. On occasion, such information may come from consumer reporting agencies and those providing services to us.
 </p>
 
 <p>
-	We do not sell information about current or former customers to any third parties, and we do not disclose it to third parties 
-	unless necessary to process a transaction, service an account, or as otherwise permitted by law. We may share information 
-	within the <span style="white-space: nowrap;">T. Rowe Price</span> family of companies in the course of providing or offering products and services to best meet your 
-	investing needs. We may also share that information with companies that perform administrative or marketing services for 
-	<span style="white-space: nowrap;">T. Rowe Price</span>; with a research firm we have hired; or with a business partner, such as a bank or insurance company, with whom 
-	we are developing or offering investment products. When we enter into such a relationship, our contracts restrict the companies' 
-	use of our customer information, prohibiting them from sharing or using it for any purposes other than those for which they were hired. 
+	We do not sell information about current or former customers to any third parties, and we do not disclose it to third parties unless necessary to process a transaction, service an account, or as otherwise permitted by law. We may share information within the <span style="white-space: nowrap;">T. Rowe Price</span> family of companies in the course of providing or offering products and services to best meet your investing needs. We may also share that information with companies that perform administrative or marketing services for <span style="white-space: nowrap;">T. Rowe Price</span>; with a research firm we have hired; or with a business partner, such as a bank or insurance company, with whom we are developing or offering investment products. When we enter into such a relationship, our contracts restrict the companies' use of our customer information, prohibiting them from sharing or using it for any purposes other than those for which they were hired.  
 </p>
 
 <p>
-	We maintain physical, electronic, and procedural safeguards to protect your personal information. Within <span style="white-space: nowrap;">T. Rowe Price</span>, access to 
-	such information is limited to those who need it to perform their jobs, such as servicing your accounts, resolving problems, or 
-	informing you of new products or services. Our Code of Ethics, which applies to all employees, restricts the use of customer 
-	information and requires that it be held in strict confidence.
+	We maintain physical, electronic, and procedural safeguards to protect your personal information. Within <span style="white-space: nowrap;">T. Rowe Price</span>, access to such information is limited to those who need it to perform their jobs, such as servicing your accounts, resolving problems, or informing you of new products or services. Our Code of Ethics, which applies to all employees, restricts the use of customer information and requires that it be held in strict confidence.
 </p>
 
 <h5>Online privacy practices</h5>
 
 <p>
-	Our practices concerning information gathered during online sessions are explained below. These practices are consistent with and remain 
-	subject to our General Privacy Policy stated above.
+	Our practices concerning information gathered during online sessions are explained below. These practices are consistent with and remain subject to our General Privacy Policy stated above.
 </p>
 
 <p>
-	<b>Information Collected and Use</b>: Our Web site utilizes a variety of technologies (such as 
-	<a href="/ccw/home/privacyPolicy/cookiesandOtherWebTechnologies.do" onclick="return checkLinkVS(this, this.innerHTML, 'MB')">cookies and Web beacons</a>) to collect, 
-	store, and aggregate data about usage. The use of these technologies helps us analyze and tailor the site for all users and better 
-	understand how our site is used, which features or pages are most popular, and browsing and usage patterns. Whether personally 
-	identifiable information is collected during your visit will depend on how the Web site is accessed.
+	<b>Information Collected and Use</b>: Our Web site utilizes a variety of technologies (such as <a href="/ccw/home/privacyPolicy/cookiesandOtherWebTechnologies.do" onclick="return checkLinkVS(this, this.innerHTML, 'MB')">cookies and Web beacons</a>) to collect, store, and aggregate data about usage. The use of these technologies helps us analyze and tailor the site for all users and better understand how our site is used, which features or pages are most popular, and browsing and usage patterns. Whether personally identifiable information is collected during your visit will depend on how the Web site is accessed.
 </p>
 
 <p>
-	Except as noted below for certain users, we do not have any personally identifiable information about you unless you choose to give 
-	us such information during an online session (for example, by requesting that literature be sent to you). While we track the general 
-	usage patterns for all visitors (such as pages visited and time spent on our site), we are not able to link this information as 
-	specifically belonging to you. If you do give us personal information during your session, we will collect that information and use 
-	it to service your request and as otherwise described in our General Privacy Policy above. Also, if you use tools or have subscribed 
-	to our e-mail program, see the additional information below.
+	Except as noted below for certain users, we do not have any personally identifiable information about you unless you choose to give us such information during an online session (for example, by requesting that literature be sent to you). While we track the general usage patterns for all visitors (such as pages visited and time spent on our site), we are not able to link this information as specifically belonging to you. If you do give us personal information during your session, we will collect that information and use it to service your request and as otherwise described in our General Privacy Policy above. Also, if you use tools or have subscribed to our e-mail program, see the additional information below.
 </p>
 
 <p>
-	If you are a registered user of our Web site who has enabled online access for your account(s), we collect all information that you 
-	submit through an online session, such as a transaction you've requested us to make. Also, we will recognize you each time you visit 
-	our site, even if you do not log in to conduct a transaction or check your balances. In this manner, your general usage patterns and 
-	other information noted above would be linked to you specifically. This information can be useful to us when assessing and offering 
-	tools and other features for such users.
+	If you are a registered user of our Web site who has enabled online access for your account(s), we collect all information that you submit through an online session, such as a transaction you've requested us to make. Also, we will recognize you each time you visit our site, even if you do not log in to conduct a transaction or check your balances. In this manner, your general usage patterns and other information noted above would be linked to you specifically. This information can be useful to us when assessing and offering tools and other features for such users.
 </p>
 
 <p>
-	<b>Tools</b>: In all cases, if you use a tool, calculator, or analyzer, your inputs will only be collected and stored if you elect 
-	to save the information for your future use. Otherwise, your inputs are not preserved beyond the end of your online session. If you 
-	elect to save the information, we do not store it in a manner that is personally identifiable or link it to other information we may have about you.
+	On some of our sites that allow users to post comments, we may offer you the option to sign in using your third-party social network login credentials such as for your Facebook, Twitter, or LinkedIn account. If you choose to sign on to our site using your third-party social network credentials, the social network will obtain (or request) your consent for us to access and use available information from your social network profile. This consent will include a list of the types of categories of data that we may obtain from your social network profile, e.g.  your name, age, gender, location, email address, profile picture and information, and list of friends. The information we collect from and about you may be used for our business purposes, such as data analysis, audits, developing new products and services, enhancing our sites, improving our services, personalizing your experiences, sending financial education tips and tools to you, identifying usage trends, determining the effectiveness of our promotional campaigns, and as otherwise described in our <a href="http://individual.troweprice.com/public/Retail/hUtility/Customer-Service/Policies-&amp;-Procedures/Privacy-Policy#General Privacy Policy">General Privacy Policy, above.</a>
+</p>
+<p>
+	<b>Tools</b>: In all cases, if you use a tool, calculator, or analyzer, your inputs will only be collected and stored if you elect to save the information for your future use. Otherwise, your inputs are not preserved beyond the end of your online session. If you elect to save the information, we do not store it in a manner that is personally identifiable or link it to other information we may have about you.
 </p>
 
 <p class="ulHeading">
-	<b>Use of E-mail Address</b>: If you have requested information regarding <span style="white-space: nowrap;">T. Rowe Price</span> products and services and supplied your e-mail 
-	address to <span style="white-space: nowrap;">T. Rowe Price</span>, we may occasionally send you follow-up communications or information on additional products or services. 
-	<span style="white-space: nowrap;">T. Rowe Price</span> also offers subscription-based e-mail services regarding a variety of topics, such as market reports, investment information, 
-	daily closing fund prices, and the latest updates from <span style="white-space: nowrap;">T. Rowe Price</span>. Additionally, registered shareholders can subscribe to the following 
-	e-mail services:
-</p>
-
-<ul class="content">
-	<li> Prospectus and Shareholder Reports—Receive prospectuses and shareholder reports online instead of by U.S. mail.</li>
-	<li> Paperless Statements—Receive an e-mail with a link to our Web site informing you that your investor statements 
-			are available online to view, print, or download.</li>
-	<li> Tax Form Alerts—Receive an e-mail in early January informing you if you will receive tax forms for your taxable 
-			<span style="white-space: nowrap;">T. Rowe Price</span> mutual funds, including the approximate date they will be mailed.</li>
-</ul>
-
-<p>
-	We always include instructions and links for unsubscribing from T. Rowe Price e-mails. However, if you are a participant in 
-	an employer-sponsored retirement plan for which <span style="white-space: nowrap;">T. Rowe Price</span> Retirement Plan Services provides recordkeeping services, we may, 
-	at the plan sponsor's direction, continue to send you e-mails regarding the retirement plan and related matters.
-</p>
+	<b>Use of E-mail Address</b>:
+	</p><ol type="a" class="content">
+		<li><strong>Requests and Subscriptions.</strong> In the course of requesting information regarding <span style="white-space: nowrap;">T. Rowe Price</span> products and services or in entering a promotion we may be offering, you may supply your e-mail address to <span style="white-space: nowrap;">T. Rowe Price</span> and we may occasionally send you follow-up communications or information on additional products or services both directly through e-mail and indirectly through online advertising messages through social media channels such as Facebook and Twitter. <span style="white-space: nowrap;">T. Rowe Price</span> also offers subscription-based e-mail services regarding a variety of topics, such as market reports, investment information, daily closing fund prices, and the latest updates from <span style="white-space: nowrap;">T. Rowe Price</span>.  Additionally, registered shareholders can subscribe to and unsubscribe from the following e-mail services:
+			<ul class="content">
+				<li>Prospectus and Shareholder Reports—Receive prospectuses and shareholder reports online instead of by U.S. mail.</li>
+				<li>Paperless Statements—Receive an e-mail with a link to our Web site informing you that your investor statements are available online to view, print, or download.</li>
+				<li>Tax Form Alerts—Receive an e-mail in early January informing you if you will receive tax forms for your taxable <span style="white-space: nowrap;">T. Rowe Price</span> mutual funds, including the approximate date they will be mailed.</li>
+			</ul>
+			<br>If you have online account access with us, you can change your e-mail preferences by going to <a href="http://troweprice.com/email">troweprice.com/email</a>, logging in, and then updating your e-mail preferences. We also include instructions and links for unsubscribing from these mailings in <span style="white-space: nowrap;">T. Rowe Price</span> e-mails.
+			<br><br>Please note that if you are a participant in an employer-sponsored retirement plan for which <span style="white-space: nowrap;">T. Rowe Price</span> Retirement Plan Services provides recordkeeping services, we may, at the plan sponsor's direction, continue to send you e-mails regarding the retirement plan and related matters.
+		</li>
+		<li><strong>Disclosure to Third Parties.</strong> <span style="white-space: nowrap;">T. Rowe Price</span> does not sell e-mail addresses to anyone, although we may disclose e-mail addresses to third parties that perform administrative or marketing services for us as described in the General Privacy Policy.  To help gauge the effectiveness of our emails or social media messaging, we may track receipt of emails or be provided with anonymous statistical information from the social media provider.
+		</li>
+		<li><strong>Social Network Sign on.</strong> If you are on a part of our site that allows you to post comments, you may have the option to sign on using your third-party social networking login credentials, such as for your Facebook, Twitter, or Linked-In account. In such cases, the social network will obtain (or request) your consent for us to access and use available information from your social network profile, including your email address, which we may use to send financial education tips and tools to you.  Please see the section Information Collection and Use, above, for more information.
+		</li>
+	</ol> 
+<p></p>
 
 <p>
-	T. Rowe Price does not sell e-mail addresses to anyone, although we may disclose e-mail addresses to third parties that perform 
-	administrative or marketing services for us as described in the General Privacy Policy. We may track receipt of <span style="white-space: nowrap;">e-mails</span> to gauge 
-	the effectiveness of our communications.
+	<b>Surveys</b>: Occasionally, we conduct voluntary surveys regarding our Web site or other products or services. The information you provide is used collectively for analytical purposes. You will not receive unsolicited communications as a result of your participation in a survey if you notify us not to contact you.
 </p>
 
 <p>
-	<b>Surveys</b>: Occasionally, we conduct voluntary surveys regarding our Web site or other products or services. The information 
-	you provide is used collectively for analytical purposes. You will not receive unsolicited communications as a result of your 
-	participation in a survey if you notify us not to contact you.
+	<b>Online Advertising</b>: We may use third parties to serve (i.e., place) advertisements for us on other Web sites, including banner advertisements.  These third parties may collect anonymous information through the use of cookies and action tags (referred to as Web beacons and GIF tags). <a href="/ccw/home/privacyPolicy/cookiesandOtherWebTechnologies.do" onclick="return checkLinkVS(this, this.innerHTML, 'MB')">Click here</a> for further information, including how to opt out of third-party cookies. 
 </p>
 
 <p>
-	<b>Online Advertising</b>: We may use third parties to serve (i.e., place) advertisements for us on other Web sites, including 
-	banner advertisements.  The third parties may collect anonymous information through the use of cookies and action tags (referred 
-	to as Web beacons and GIF tags).  <a href="/ccw/home/privacyPolicy/cookiesandOtherWebTechnologies.do" onclick="return checkLinkVS(this, this.innerHTML, 'MB')">Click here</a> 
-	for further information, including how to opt out of third-party cookies. 
+You should also refer to the section above under "Use of E-Mail Addresses" for information about online advertising through social media channels.
 </p>
 
 <p>
-	<b>Links to Other Sites</b>: On our Web site, we may provide links to third parties that provide financial and other information 
-	that may be of interest to you. Once you've clicked a link and have left our Web site, our General Privacy Policy and Online 
-	Privacy Practices no longer apply, and you must read the privacy policy of the third party to see how your personal information 
-	will be handled on their site.
+	<b>Links to Other Sites</b>: On our Web site, we may provide links to third parties that provide financial and other information that may be of interest to you. Once you've clicked a link and have left our Web site, our General Privacy Policy and Online Privacy Practices no longer apply, and you must read the privacy policy of the third party to see how your personal information will be handled on their site.
 </p>
 
 <p>
-	<b>Security</b>: T. Rowe Price protects your personal information when you transact business on our Web site by requiring the use 
-	of a browser software program that supports 128-bit encryption. The "128-bit" designation refers to the length of the key used to 
-	encrypt the data being transmitted, with a longer key representing a higher level of security. For more information on the security 
-	of your account data with <span style="white-space: nowrap;">T. Rowe Price</span>, see the <a href="/ccw/home/privacyPolicy/securityMeasures.do" onclick="return checkLinkVS(this, this.innerHTML, 'MB')">Security Measures</a> section of 
-	our Web site.
+	<b>Security</b>: <span style="white-space: nowrap;">T. Rowe Price</span> protects your personal information when you transact business on our Web site by requiring the use of a browser software program that supports 128-bit encryption. The "128-bit" designation refers to the length of the key used to encrypt the data being transmitted, with a longer key representing a higher level of security. For more information on the security of your account data with <span style="white-space: nowrap;">T. Rowe Price</span>, see the <a href="/ccw/home/privacyPolicy/securityMeasures.do" onclick="return checkLinkVS(this, this.innerHTML, 'MB')">Security Measures</a> section of our Web site.
 </p>
 
 <p>
-	<b>Effective Date and Additional Changes</b>: The effective date of these Online Privacy Practices is December 17, 2007. From time 
-	to time, we may change these Online Privacy Practices. When they are revised or materially changed, we will update the effective date. 
-	You can determine whether there have been changes since the last time you reviewed them by simply checking the effective date.
+	<b>Effective Date and Additional Changes</b>: The effective date of these Online Privacy Practices is October 7, 2013. From time to time, we may change these Online Privacy Practices. When they are revised or materially changed, we will update the effective date. You can determine whether there have been changes since the last time you reviewed them by simply checking the effective date.
 </p>
 
 <p>
@@ -1086,9 +1141,11 @@
 	<!--footer area start-->	  
 		<div class="footerContainer">
 			<ul class="footer" style="float: left;">
-				<li>© 2013 T. Rowe Price</li>
+				<li>© 2014 T. Rowe Price</li>
 				<li class="seperatorBar">|</li>
 				<li><a href="/ccw/home/privacyPolicy.do" onclick="return checkLinkVS(this, this.innerHTML, 'FTR')">Privacy Policy</a></li>
+				<li class="seperatorBar">|</li>
+				<li><a href="/ccw/home/privacyPolicy/securityMeasures.do" onclick="return checkLinkVS(this, this.innerHTML, 'FTR')">Security Measures</a></li>
 				<li class="seperatorBar">|</li>
 				<li><a href="/ccw/home/codeofEthicsandConduct.do" onclick="return checkLinkVS(this, this.innerHTML, 'FTR')">Code of Ethics and Conduct</a></li>
 				<li class="seperatorBar">|</li>
@@ -1106,11 +1163,11 @@
 
 
 				<ul class="footerSocial">
-<li style="margin-right: 20px; padding-top: 3px;"><a style="color: #589199;" onclick="return checkLinkVSjs(this, this.innerHTML, 'FTR')" href="/ccw/home/about/ourSocialMediaSites.do">Social Media Sites</a></li>
-<li><a onclick="return checkLinkVSjs(this, this.innerHTML, 'FTR')" href="http://www.facebook.com/troweprice" target="_blank"><img src="/ccw/images/facebook_medium.png" border="0"></a></li>
-<li><a onclick="return checkLinkVSjs(this, this.innerHTML, 'FTR')" href="https://twitter.com/troweprice" target="_blank"><img src="/ccw/images/twitter_medium.png" border="0"></a></li>
-<li><a onclick="return checkLinkVSjs(this, this.innerHTML, 'FTR')" href="http://www.linkedin.com/company/157329?trk=tyah" target="_blank"><img src="/ccw/images/linkedin_medium.png" border="0"></a></li>
-<li class="last"><a onclick="return checkLinkVSjs(this, this.innerHTML, 'FTR')" href="http://www.youtube.com/trowepricegroup" target="_blank"><img src="/ccw/images/youtube_medium.png" border="0"></a></li>
+<li style="margin-right: 20px; padding-top: 3px;"><a style="color: #589199;" onclick="return checkLinkVSjs(this, this.innerHTML, 'FTR')" href="/ccw/home/socialMediaSites.do">Social Media Sites</a></li>
+<li><a onclick="return checkLinkVSjs(this, 'Facebook', 'FTR')" href="http://www.facebook.com/troweprice" target="_blank"><img src="/ccw/images/facebook_medium.png" border="0"></a></li>
+<li><a onclick="return checkLinkVSjs(this, 'Twitter', 'FTR')" href="https://twitter.com/troweprice" target="_blank"><img src="/ccw/images/twitter_medium.png" border="0"></a></li>
+<li><a onclick="return checkLinkVSjs(this, 'LinkedIn', 'FTR')" href="http://www.linkedin.com/company/157329?trk=tyah" target="_blank"><img src="/ccw/images/linkedin_medium.png" border="0"></a></li>
+<li class="last"><a onclick="return checkLinkVSjs(this, 'YouTube', 'FTR')" href="http://www.youtube.com/trowepricegroup" target="_blank"><img src="/ccw/images/youtube_medium.png" border="0"></a></li>
 
 			</ul>			
 			<div style="clear: both; height: 1px;"></div>
@@ -1130,8 +1187,42 @@
 <!--  END /jsp/components/footer/footer.jsp--> 
 
 		</div>
+	
+ 	 
 		
-		<script type="text/javascript">document.write(unescape('%3Cscript type="text/javascript" src="'+document.location.protocol+'//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/2382.js"%3E%3C%2Fscript%3E'))</script><script type="text/javascript" src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/2382.js"></script>			
+		<script type="text/javascript">document.write(unescape('%3Cscript type="text/javascript" src="'+document.location.protocol+'//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/2382.js"%3E%3C%2Fscript%3E'))</script><script type="text/javascript" src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/2382.js"></script>
+		
+		
+			<script type="text/javascript">
+				//<![CDATA[
+				function siteCatalystInit() {
+					com.trp.metrics.SiteCatalyst.init({
+						lob:com.trp.metrics.SiteCatalyst.LOB.CORPORATE,
+						
+						
+							site:com.trp.metrics.SiteCatalyst.SITE.CORPORATE
+						
+					});
+				}
+									
+				function siteCatalystTrackLoad() {
+					com.trp.metrics.SiteCatalyst.track({ 
+					clickSelectors:['a.tracklink'], 
+					changeSelectors:['select.trackdropdown']}); 
+				} 
+					
+				//]]>
+			</script>	
+						
+			<!-- Adobe Marketing Cloud Tag Loader Code
+			Copyright 1996-2013 Adobe, Inc. All Rights Reserved
+			More info available at http://www.adobe.com/solutions/digital-marketing.html -->
+			<script type="text/javascript">//<![CDATA[
+			var amc=amc||{};if(!amc.on){amc.on=amc.call=function(){}};
+			document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d2/v2/ZDItdHJvd2VwcmljZS0zODM2LTE5OTAt/amc.js\"></sc"+"ript>");
+			//]]></script><script type="text/javascript" src="//www.adobetag.com/d2/v2/ZDItdHJvd2VwcmljZS0zODM2LTE5OTAt/amc.js"></script>
+			<!-- End Adobe Marketing Cloud Tag Loader Code -->	
+					
 	
 
 
