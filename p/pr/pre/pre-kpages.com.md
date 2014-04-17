@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pre-kpages.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206020229id_/http%3A//www.pre-kpages.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pre-kpages.com privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417223742id_/http%3A//www.pre-kpages.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pre-K Pages
 
