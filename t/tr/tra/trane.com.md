@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trane.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209062433id_/http%3A//www.trane.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trane.com privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417201324id_/http%3A//www.trane.com/privacy.aspx) for the most accurate reproduction.*
 
 # TRANE Data Protection and Privacy Policy
 
