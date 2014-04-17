@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the absolutemusic.co.uk privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509025102id_/http%3A//www.absolutemusic.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutemusic.co.uk privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417092801id_/http%3A//www.absolutemusic.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Absolute Music | privacy polcy
+# privacy polcy | Absolute Music
 
 **OUR COMMITMENT TO PRIVACY**
 
