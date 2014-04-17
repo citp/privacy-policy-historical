@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lakako.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807125543id_/http%3A//www.lakako.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lakako.com privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417131552id_/http%3A//www.lakako.com/privacypolicy) for the most accurate reproduction.*
 
 # Lakako - Privacy Policy
 
@@ -138,4 +138,4 @@ It is our policy to post any changes we make to our Privacy and Cookie Policy on
 
 11\. Contact Information
 
-To ask questions or comment about this Privacy and Cookie Policy and our privacy practices, contact us at: [webmaster@lakako.com](mailto:webmaster@lakako.com)
+To ask questions or comment about this Privacy and Cookie Policy and our privacy practices, contact us at: [Contact Us](http://www.lakako.com/contactus)
