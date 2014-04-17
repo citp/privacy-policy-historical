@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the brooksrunning.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116063156id_/http%3A//www.brooksrunning.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brooksrunning.com privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417093926id_/http%3A//www.brooksrunning.com/en_us/privacy-policy.html) for the most accurate reproduction.*
 
 # Brooks Sports, Inc. Privacy Policy
 
 Brooks Sports, Inc. Privacy Policy
 
-**Last Updated: June 6, 2013**
+**Last Updated: January 21, 2014**
 
-This Privacy Policy describes how information about you is collected, used, and disclosed by Brooks Sports, Inc., and its subsidiaries and affiliated companies, including Brooks Running and Moving Comfort (collectively, "Brooks" or "we"). This Privacy Policy applies to information we collect when you access or use our websites or other online or mobile services or applications ("Services"), shop in our stores, or otherwise interact with us.
+This Privacy Policy describes how information about you is collected, used, and disclosed by Brooks Sports, Inc., and its subsidiaries (collectively, "Brooks" or "we"). This Privacy Policy applies to information we collect when you access or use our websites or other online or mobile services or applications ("Services"), shop in our stores, or otherwise interact with us.
 
 From time to time, Brooks may revise this Privacy Policy. If we make changes, we will notify you by revising the "Last Updated" date above, and in some cases, we may provide you with more prominent notice (such as adding a statement to our homepage or sending you an email notification). We encourage you to review this Privacy Policy whenever you access our Services to stay informed about our information practices and the ways you can help protect your privacy.
 
