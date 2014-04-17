@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectwatches.cn privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216034354id_/http%3A//www.perfectwatches.cn/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectwatches.cn privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417025203id_/http%3A//www.perfectwatches.cn/privacy_policy.htm) for the most accurate reproduction.*
 
 # Replica Watches Privacy Policy
 
