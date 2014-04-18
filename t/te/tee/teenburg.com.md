@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenburg.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209192615id_/http%3A//teenburg.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenburg.com privacy policy that was archived on 2014-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140418074220id_/http%3A//teenburg.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy *** teenburg.com
 
@@ -30,4 +30,4 @@ You can access all your personally identifiable information that we collect onli
 granting access or making corrections.
 
 **How To Contact Us:**  
-Should you have other questions or concerns about these privacy policies, please send us an email at: [support@teenburg.com](https://web.archive.org/web/20131209192615id_/http%3A//teenburg.com/support.html).
+Should you have other questions or concerns about these privacy policies, please send us an email at: [support@teenburg.com](https://web.archive.org/web/20140418074220id_/http%3A//teenburg.com/support.html).
