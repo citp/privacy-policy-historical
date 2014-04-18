@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the biggcerealheroes.com privacy policy that was archived on 2013-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131101210111id_/http%3A//generalmills.com/home/Privacy_Policy/kids_privacy_policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the biggcerealheroes.com privacy policy that was archived on 2014-04-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140418161804id_/http%3A//generalmills.com/home/Privacy_Policy/kids_privacy_policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	General Mills: kids_privacy_policy
@@ -52,15 +52,83 @@
     </noscript>
     <form name="mainform" method="post" action="/home/Privacy_Policy/kids_privacy_policy.aspx" id="mainform">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2OTg5MDI1MTkPZBYCAgMPZBYCAgEQZGQWAgIDD2QWAmYPZBYCZg9kFgRmD2QWAmYPZBYCAgMPZBYCZg9kFgICAQ9kFgICAQ8PZBYEHgdvbmZvY3VzBS9XYXRlcm1hcmtGb2N1cygnbWFpbl8wX2N0bDAwX2N0bDAwX3R4dFNlYXJjaCcpOx4Gb25ibHVyBS5XYXRlcm1hcmtCbHVyKCdtYWluXzBfY3RsMDBfY3RsMDBfdHh0U2VhcmNoJyk7ZAIDD2QWAmYPZBYCZg8PFgIeB1Zpc2libGVoZGRkoaESC42if/kdLsSAuPK2tMLJZxw=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2NDk3NDUwMjcPZBYCAgMPZBYCAgEQZGQWAgIFD2QWAmYPZBYCZg9kFgRmD2QWAmYPZBYCAgMPZBYCZg9kFgICAQ9kFgICAQ8PZBYEHgdvbmZvY3VzBS9XYXRlcm1hcmtGb2N1cygnbWFpbl8wX2N0bDAwX2N0bDAwX3R4dFNlYXJjaCcpOx4Gb25ibHVyBS5XYXRlcm1hcmtCbHVyKCdtYWluXzBfY3RsMDBfY3RsMDBfdHh0U2VhcmNoJyk7ZAIDD2QWAmYPZBYCZg8PFgIeB1Zpc2libGVoZGRk1HlrojR7qH5YxK2y7lBuitzcmvU=">
 </div>
 
 
-<script src="/ScriptResource.axd?d=OA68vdnBo_ofxuRQPdtxgADh9Lu45-lrVMYpfQS-pgUBZYKjWNGtRbmU0CfZtH9MR8U321xZE0O-rWrAp-itfoKTATmoVlaPc84vTgCzB4FR-rkuH2G8wRum3Q_J899MT7l7BFHARxrfNLL9VmwbNg4nrMcfQ0zJTnrdmHDfquV4G14S0&amp;t=ffffffffb868b5f4" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=OA68vdnBo_ofxuRQPdtxgADh9Lu45-lrVMYpfQS-pgUBZYKjWNGtRbmU0CfZtH9MR8U321xZE0O-rWrAp-itfoKTATmoVlaPc84vTgCzB4FR-rkuH2G8wRum3Q_J899MT7l7BFHARxrfNLL9VmwbNg4nrMcfQ0zJTnrdmHDfquV4G14S0&amp;t=2e2045e2" type="text/javascript"></script>
 <div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLx8vK8AgKKrd/DDwKtiKa9C2llz5UDJMCLaTHeK17bjo1yu7Ln">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwKxxfCzDgKKrd/DDwKtiKa9C6fSMOGLgYStOZfxuH3FK7kBb7un">
 </div>
+    
+
+<script>
+    var $ = jQuery;
+    jQuery(document).ready(initi);
+
+    function initi() {
+        //add js
+        var coo = document.createElement('script');
+        coo.src = "/scripts/jquery/jquery.cookie.js";
+        var firstScriptTag = document.getElementsByTagName('script')[0];
+        firstScriptTag.parentNode.insertBefore(coo, firstScriptTag);
+        //add css
+        $('head').append('<link rel="stylesheet" href="/css/alert.css" type="text/css" />');
+        //check to see if browser is IE 7 then hide message
+        movechannellinks();
+
+        $(".alert-close-btn").click(function () { 
+            //We want remove the session cookie 
+            $.cookie('override-alert', 'N', { path: '/'}); 
+            $.cookie('show-alert', 'N', { path: '/', expires: 90 }); 
+         
+            $("#alert_wrapper").hide(); 
+            $("#siteSubMenu").css({ top: '' }); 
+             
+            return false; 
+        }); 
+         
+        $(".alert_message_phone a").click(function () { linkclick(); }); 
+         
+        $(".alert_message_desktop a").click(function () { linkclick(); }); 
+
+        $(window).resize(function () {
+            movechannellinks();
+        });
+    }
+
+    function linkclick() { 
+        //We want this to be a session cookie 
+        $.cookie('override-alert', 'Y', { path: '/' }); 
+        //Drop Main cookie but we will override it for the session 
+        $.cookie('show-alert', 'N', { path: '/', expires: 90 }); 
+    } 
+
+    function movechannellinks() {
+        var windowWidth = $(window).width();
+        var newheight = 0;
+
+        if (windowWidth > 800) {
+            newheight = ($("#alert_wrapper").outerHeight());
+        }
+        else if (windowWidth > 500) {
+            newheight = ($("#alert_wrapper").outerHeight());
+        }
+        else {
+            newheight = ($("#alert_wrapper").outerHeight());
+        }
+
+        $("#siteSubMenu").css({ top: newheight });
+    }
+</script>
+
+<div id="alert_wrapper" class="siteAlerts" style="background-color: #eaf0f5;">
+    <span class="alert_message_desktop"><p>We’ve updated our <a class="alert-action-btn" href="http://generalmills.com/Privacy_Policy.aspx">Privacy Policy</a>. Please note we also have new <a class="alert-action-btn" href="http://generalmills.com/Legal_Terms.aspx">Legal Terms</a> which require all disputes related to the purchase or use of any General Mills product or service to be resolved through binding arbitration. For more information on these changes, please <a class="alert-action-btn" href="http://generalmills.com/Legal_Notice_Summary.aspx">click here</a>.</p></span>
+    <span class="alert_message_phone"><p>IMPORTANT: We’ve revised our Privacy Policy and Legal Terms. <a href="http://generalmills.com/Legal_Notice_Summary.aspx">Learn More</a>.</p></span>
+    <a class="alert-close-btn"></a>
+</div>
+ 
     
     <div id="container">
         
@@ -172,8 +240,8 @@
 
         <div id="footer">
 	<div class="copyright">
-		© 2013 General Mills Inc. All Rights Reserved | An Equal Opportunity Employer 
-	</div><a href="/en.aspx">Home</a><a href="/en/ContactUs.aspx">Contact us</a><a href="/en/FAQ.aspx">FAQ</a><a href="/en/Terms_Of_Use.aspx">Terms of use</a><a href="/en/Privacy_Policy.aspx">Privacy policy</a><a href="/en/Community Rules.aspx">Community rules</a><a href="/en/SiteMap.aspx">Site map</a><br><a href="/en/Privacy_Policy/kids_privacy_policy.aspx?p=1" target="_blank"><img src="/images/icon_print.gif" alt="Print this page" width="92" height="32"></a>
+		© 2014 General Mills Inc. All Rights Reserved | An Equal Opportunity Employer 
+	</div><a href="/en.aspx">Home</a><a href="/en/ContactUs.aspx">Contact us</a><a href="/en/FAQ.aspx">FAQ</a><a href="/en/Legal_Terms.aspx">Legal terms</a><a href="/en/Privacy_Policy.aspx">Privacy policy</a><a href="/en/Community Rules.aspx">Community rules</a><a href="/en/SiteMap.aspx">Site map</a><br><a href="/en/Privacy_Policy/kids_privacy_policy.aspx?p=1" target="_blank"><img src="/images/icon_print.gif" alt="Print this page" width="92" height="32"></a>
 </div>
     </div>
     
