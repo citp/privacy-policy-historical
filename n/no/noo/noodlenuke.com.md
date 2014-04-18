@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noodlenuke.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216073903id_/http%3A//noodlenuke.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noodlenuke.com privacy policy that was archived on 2014-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140418021445id_/http%3A//noodlenuke.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ‹ NoodleNuke
 
