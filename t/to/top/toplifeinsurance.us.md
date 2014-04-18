@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toplifeinsurance.us privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108015010id_/http%3A//toplifeinsurance.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toplifeinsurance.us privacy policy that was archived on 2014-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140418085021id_/http%3A//toplifeinsurance.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Top Life Insurance | Top Life Insurance
 
@@ -38,4 +38,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 **Again, If you have any questions or opinions regarding this statement, feel free to contact with:**  
 Phone: +8801713367392(Communication), +8801713408470  
-E-mail: [techtricksbd.com@gmail.com](https://web.archive.org/web/20131108015010id_/http://toplifeinsurance.us/privacy-policy/techtricksbd.com@gmail.com "techtricksbd.com@gmail.com")
+E-mail: [techtricksbd.com@gmail.com](https://web.archive.org/web/20140418085021id_/http://toplifeinsurance.us/privacy-policy/techtricksbd.com@gmail.com "techtricksbd.com@gmail.com")
