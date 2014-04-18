@@ -1,16 +1,15 @@
-> *The following text is extracted and transformed from the clubcarlson.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023220500id_/http%3A//www.clubcarlson.com/section/privacy.home/privacy.sidemenus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubcarlson.com privacy policy that was archived on 2014-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140418221521id_/http%3A//www.clubcarlson.com/section/privacy.home/privacy.sidemenus) for the most accurate reproduction.*
 
 # Carlson Hotels Guest Privacy Policy
 
-Guest Privacy Policy  |   
----|---  
-  
-[](http://www.truste.org/ivalidate.php?url=www.goldpointsplus.com&sealid=103)
+Guest Privacy Policy 
+
+[](http://privacy.truste.com/privacy-seal/Carlson-Companies,-Inc-/validation?rid=235415cb-d2d2-407b-b923-3ea9f987af1b "TRUSTe European Safe Harbor certification")
 
 [Click here for the Club Carlson for Business Privacy Policy](http://www.clubcarlson.com/offers/4139729)
 
 **Carlson Hotels Guest Privacy Policy** \- Effective October 28, 2007  
-Last Updated - October 9, 2013
+Last Updated - April 2, 2014
 
  **Carlson Hotels Privacy Promises**. Carlson Hotels together with its subsidiaries (collectively, "Carlson Hotels") take your privacy seriously. These are our ten promises to you:
 
@@ -34,7 +33,7 @@ Customer Service
 11340 Blondo St.  
 Omaha, NE 68164
 
-In the U.S. & Canada call toll free at +1 (888) 201-1719.
+In the U.S. & Canada call toll free at +1 (888) 288-8889.
 
 **Email us:**  [privacy@clubcarlson.com](mailto:privacy@clubcarlson.com)
 
