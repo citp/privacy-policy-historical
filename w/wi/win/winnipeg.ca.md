@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winnipeg.ca privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227170204id_/http%3A//www.winnipeg.ca/interhom/conditions_of_use/PrivacyStatement.stm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winnipeg.ca privacy policy that was archived on 2014-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140418212150id_/http%3A//www.winnipeg.ca/interhom/conditions_of_use/PrivacyStatement.stm) for the most accurate reproduction.*
 
 # Conditions of Use - City of Winnipeg
 
@@ -22,7 +22,7 @@ Email News Subscribers
 
 The City of Winnipeg values your privacy. We do not sell or share your personal information with third parties. If you have received an email from City of Winnipeg it is because you have confirmed your subscription to an opt-in email list offered on a City of Winnipeg website. From time to time, the City of Winnipeg may include additional messages of interest to subscribers. You may unsubscribe or change your subscription options at any time by going to the [Social Media webpage](https://web.archive.org/interhom/socialmedia/).
 
-If you have any questions about the information gathered automatically by Winnipeg.ca, please read our [Conditions of Use](https://web.archive.org/web/20131227170204id_/http%3A//www.winnipeg.ca/interhom/conditions_of_use/default.stm) or contact the City of Winnipeg's [Corporate Web Manager](https://web.archive.org/shared/Winnipegca/htmlsnippets/MailForm.asp?Recipient=webmanager).
+If you have any questions about the information gathered automatically by Winnipeg.ca, please read our [Conditions of Use](https://web.archive.org/web/20140418212150id_/http%3A//www.winnipeg.ca/interhom/conditions_of_use/default.stm) or contact the City of Winnipeg's [Corporate Web Manager](https://web.archive.org/shared/Winnipegca/htmlsnippets/MailForm.asp?Recipient=webmanager).
 
   
 
