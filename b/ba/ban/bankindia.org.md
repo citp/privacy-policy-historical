@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bankindia.org privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207163335id_/http%3A//www.bankindia.org/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankindia.org privacy policy that was archived on 2014-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140418180928id_/http%3A//www.bankindia.org/p/privacy-policy.html) for the most accurate reproduction.*
 
-# PRIVACY POLICY Bank India - Banking Jobs, Internet Banking and Money guides for Indian Banks
+# PRIVACY POLICY Bank India — Indian Banks News & Tutorials
 
 We take your privacy seriously. This policy describes what personal information we collect and how we use it. (This privacy policy is applicable to websites falling under the primary holder ww.banksindia.org.)
 
