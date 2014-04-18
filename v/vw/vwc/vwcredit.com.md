@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vwcredit.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216014332id_/http%3A//www.vw.com/en/privacy/nav/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vwcredit.com privacy policy that was archived on 2014-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140418191631id_/http%3A//www.vw.com/en/privacy/nav/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy < Privacy Policy | VW.com < Volkswagen of America
 
