@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latinlove.org privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218020304id_/http%3A//www.latinlove.org/datasavety.php%3Fl%3Den%26randm%3D4%26randw%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latinlove.org privacy policy that was archived on 2014-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140418171125id_/http%3A//www.latinlove.org/datasavety.php%3Fl%3Den%26randm%3D4%26randw%3D7) for the most accurate reproduction.*
 
 # Latin Love
 
@@ -75,7 +75,8 @@ Please remember what you should do whenever you voluntarily provide personal inf
 
 ## 9\. Self-control
 
-IK Softwareportal GmbH allows compliance with the Privacy Policy regularly checked by an independent data protection officer. Please contact with any questions about privacy on our first customer. If your privacy questions could not be satisfactorily resolved by the customer, you can also contact our data security consultant Mr. Ingo Legner. You can reach him at: **[info@derschild.de](mailto:info@derschild.de?subject=Privacy%20request%20for%20Latin%20Love%20not-logged-in)** . 
+If your privacy questions could not be satisfactorily resolved by the customer, you can also contact our data security consultant Mr. Silvio Federau.   
+You can reach him at: **[datenschutzbeauftragter@mail.interkontakt.net](mailto:datenschutzbeauftragter@mail.interkontakt.net?subject=Privacy%20request%20for%20Latin%20Love%20not-logged-in)** . 
 
 ## 1\. Content
 
