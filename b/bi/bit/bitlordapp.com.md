@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitlordapp.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208053822id_/http%3A//www.bitlordapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitlordapp.com privacy policy that was archived on 2014-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140418212359id_/http%3A//www.bitlordapp.com/privacy-policy) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
