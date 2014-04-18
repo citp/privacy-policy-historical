@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chambermaster.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531035602id_/http%3A//micronetonline.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chambermaster.com privacy policy that was archived on 2014-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140418144451id_/http%3A//micronetonline.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Assocation Software. Association Management Software. Membership Management Software. MemberZone. ChamberMaster. MicroNet. Privacy Policy.
 
-**Last updated: October 1, 2012**
+**Last updated: February 1, 2014**
 
 This is the privacy policy that applies to our Sites and our services. MicroNet, Inc. has a strong commitment to safeguarding the privacy of our customers' personal information. Personal information is information about an identifiable individual. Publicly available information, such as a public directory listing of your name, address, telephone number, or electronic address, is not considered to be personal information.
 
