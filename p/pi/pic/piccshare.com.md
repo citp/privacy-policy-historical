@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the piccshare.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622030705id_/http%3A//piccshare.com/qd/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piccshare.com privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419015730id_/http%3A//www.piccshare.com/application/page/privacy) for the most accurate reproduction.*
 
-# Piccshare.com
+# PiccShare - Privacy Policy
 
-Our business name is **HTTO Group, Ltd (hereafter “HTTO”, “We” or “Company”)**. We are the owner of our web site, [www.PiccShare.com](http://www.piccshare.com/). All information provided in this Privacy Policy pertains to **HTTO Group, Ltd** and [www.PiccShare.com](http://www.piccshare.com/).
+Our business name is **HTTO Group, Ltd (hereafter "HTTO", "We" or "Company")**. We are the owner of our web site, [www.PiccShare.com](http://www.piccshare.com/). All information provided in this Privacy Policy pertains to **HTTO Group, Ltd** and [www.PiccShare.com](http://www.piccshare.com/).
 
   * ## General
 
@@ -61,7 +61,7 @@ All PiccShare Users are encouraged to freely distribute the PiccShare Software A
     * When you use the PiccShare service, other Users may see your name and content you are sharing. If you choose to provide additional Personal Information, Users will see such additional Personal Information, including, but not limited to, your photos, location, website and/or biography. Providing additional Personal Information is voluntary and should be based upon how much you want Users to know about you. CAVEAT: If you are concerned about confidentiality and do not want others to see your content or information, we suggest that you not post or share anything online or through PiccShare.
   * ## What About Data Security?
 
-    * To ensure the security of your data, including address information, PiccShare always uses industry-standard encryption technologies ( _256kb_ Secure Socket Layer – SSL) when transferring and receiving User data on our web site. 
+    * To ensure the security of your data, including address information, PiccShare always uses industry-standard encryption technologies ( _256kb_ Secure Socket Layer - SSL) when transferring and receiving User data on our web site. 
     * PiccShare has instituted appropriate security measures that protect against the loss, misuse or alteration of information that we have collected from Users. 
     * PiccShare requires that our third-party advertisers ensure the security of the data that Users provide to them, however, in the event of a breach of their security measures, User agrees that PiccShare will not be liable for any loss or damage to you.
     * PiccShare limits access to personal information about Users to employees for whom we reasonably believe it is necessary, in order to provide products or services. 
@@ -92,6 +92,6 @@ These _Policies_ are accessible from the Home Page of the PiccShare web site, at
 The section titles used in these _Policies_ are purely for convenience and carry with them no legal or contractual effect. 
   * ## What Is The Effective Date of These _Policies_?
 
-**These _Policies_ were last updated on December 16, 2011.**
+**These _Policies_ were last updated on July 1, 2013.**
 
 
