@@ -1,17 +1,14 @@
-> *The following text is extracted and transformed from the sony.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114013444id_/http%3A//www.sony.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sony.com privacy policy that was archived on 2014-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140418205113id_/http%3A//www.sony.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Sony USA - Privacy Policy
 
-Last Updated and Effective: August 20, 2012
+Last Updated and Effective: February 7, 2014
 
 This privacy policy (" **Privacy Policy** ") applies to the information collected by **Sony Corporation of America** (“ **SCA** ”), both offline and online, including through [**www.sony.com**](http://www.sony.com/)and through any interactive features, applications, widgets, blogs, social networks and other online or wireless offerings that post a link to this Privacy Policy, whether accessed via computer, mobile device or other technology (collectively, “ **SCA Websites** ” or “ **Websites** ”).  Please note that when you enter any subsites accessible through [**www.sony.com**](http://www.sony.com/), such subsites may have their own specific privacy policies.  Additionally, the websites of affiliated Sony companies, including some that are linked to/from the SCA Websites,  and internet domains that are linked to/from the SCA Websites, may have different policies; therefore, please review the privacy policy notices on those websites if you visit them.
 
 This Privacy Policy explains the information that SCA may collect when you interact with us and our practices with respect to that information.  Please read this Privacy Policy carefully. In addition, please review our Terms & Conditions, which govern your use of the SCA Websites.
 
-**Notice to California Residents** — Your California Privacy Rights: If you are a California resident, you have the right to receive: (a) information identifying any third party(ies) to whom SCA may have disclosed, within the preceding calendar year, your personal information for that third party’s direct marketing purposes; and (b) a description of the categories of personal information disclosed. To obtain such information free of charge, please write to us at Sony Corporation of America, 550 Madison Avenue, New York, New York 10022, Attn: Legal Department, or submit your request to [privacy@sonyusa.com](mailto:privacy@sonyusa.com). SCA will respond to these requests within thirty (30) days. Requests that come to SCA by other means may result in a delayed response.
-
-###    
-TABLE OF CONTENTS
+###  TABLE OF CONTENTS
 
 1\. Collection of Information
 
@@ -29,13 +26,15 @@ TABLE OF CONTENTS
 
 4\. Links To and SCA Content On Other Websites
 
-5\. Security
+5\. Notice to California Residents
 
-6\. Consent to Processing
+6\. Security
 
-7\. Policy Governs Use: Changes to Privacy Policy
+7\. Consent to Processing
 
-8\. Questions
+8\. Policy Governs Use: Changes to Privacy Policy
+
+9\. Questions
 
 ###  Collection of Information
 
@@ -110,6 +109,12 @@ The provisions above apply to our sharing of Personal Information with Affiliate
 ###  Links To and SCA Content On Other Websites
 
 The SCA Websites may contain links to other websites that are operated and controlled by third parties that we do not control. This includes links of advertisers, sponsors and partners that may use our logo(s) as part of a co-branding agreement. In addition, SCA content or widgets may be included on web pages and websites that are not associated with us and over which we have no control. These other websites may send their own cookies to your Device, and they may independently collect data or solicit Personal Information. A link from any SCA Website to any other website does not mean that Sony approves of, endorses, or recommends that website. SCA provides such links for your convenience and is not responsible for the content of any website linked to or from any SCA Website. Moreover, SCA is not responsible for the privacy practices of any third party, and it disclaims all warranties, express or implied, as to the accuracy, legality, reliability, or validity of any content on any other website.
+
+###  Notice to California Residents
+
+**Your California Privacy Rights** : If you are a California resident, you have the right to receive: (a) information identifying any third party(ies) to whom SCA may have disclosed, within the preceding calendar year, your personal information for that third party’s direct marketing purposes; and (b) a description of the categories of personal information disclosed. To obtain such information free of charge, please write to us at Sony Corporation of America, 550 Madison Avenue, New York, New York 10022, Attn: Legal Department, or submit your request to privacy@sonyusa.com. SCA will respond to these requests within thirty (30) days. Requests that come to SCA by other means may result in a delayed response.
+
+**California Online Privacy Protection Act Notice** : Some web browsers incorporate a “Do Not Track” feature that signals to websites that you visit that you do not want to have your online activity tracked. How browsers communicate the Do Not Track signal is not yet uniform. For this reason, our Websites do not currently interpret, respond to or alter their practices when they receive Do Not Track signals. Please note that third parties may collect personal information about your online activities over time and across different websites when you visit our website or other online websites and services. To find out more about "Do Not Track," you may wish to visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
 
 ###  Security
 
