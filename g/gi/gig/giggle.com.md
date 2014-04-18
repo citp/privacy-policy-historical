@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giggle.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222035725id_/http%3A//www.giggle.com/Privacy-Security/privacy-and-security%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giggle.com privacy policy that was archived on 2014-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140418144151id_/http%3A//www.giggle.com/Privacy-Security/privacy-and-security%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -25,7 +25,7 @@ To provide you with the best possible information and service, we may combine in
 At your election you may choose to stop receiving future electronic communications from giggle and/or giggle Partners by:
 
   * Clicking on the "unsubscribe" link and follow the instructions on how to unsubscribe included in each edition of our giggle emails;
-  * changing your preferences on your account information at [http://www.giggle.com](http://www.giggle.com/on/demandware.store/Sites-giggle-Site/default/Account-Show);
+  * changing your preferences on your account information at [http://www.giggle.com](https://www.giggle.com/on/demandware.store/Sites-giggle-Site/default/Account-Show);
   * emailing giggle Customer Service at [customerservice@giggle.com](mailto:customerservice@giggle.com) with specific instructions for the changes you wish to make; or
   * calling our Customer Service Department at 1.800-495.8577.
 
@@ -45,7 +45,7 @@ Cookies and Other Technology. Like many sites, our Site employs cookies and web 
 
 (d) Log Files. When you visit the Site, web servers collect information "traffic data" (such as, for example, time and date, the address of the website from which you entered the Site) about your visit, which is stored as anonymous, aggregate data. Collecting such data may entail the use of IP addresses or other numeric codes used to identify a computer. giggle uses "traffic data" to help diagnose problems with its server, analyze trends and administer the Site. Your IP address is not linked to personally identifiable information, but is used to gather broad demographic data and to monitor statistics to improve the Service. giggle may also use your IP address to help diagnose problems with its server. IP addresses are also used to provide an audit trail in the case of any attempted illegal or unauthorized use of the Site.
 
-Product Reviews. You may choose to submit a product review. If you wish to post a review, we will ask you to login with your username and password (or if it is your first review, to create a username and password) and for your email address and zip code. When you submit a review, your geographic location will be visible to other users (your email address will be kept private). Also, any personally identifiable information that you submit as part of the review can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. We strongly encourage you not to post or share any personally identifiable information such as your email address, phone number or address as it may pose safety concerns or otherwise violate our [Terms and Conditions](http://www.giggle.com/Terms-Conditions/terms-and-conditions,default,pg.html).
+Product Reviews. You may choose to submit a product review. If you wish to post a review, we will ask you to login with your username and password (or if it is your first review, to create a username and password) and for your email address and zip code. When you submit a review, your geographic location will be visible to other users (your email address will be kept private). Also, any personally identifiable information that you submit as part of the review can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. We strongly encourage you not to post or share any personally identifiable information such as your email address, phone number or address as it may pose safety concerns or otherwise violate our [Terms and Conditions](https://www.giggle.com/Terms-Conditions/terms-and-conditions,default,pg.html).
 
 ## Sharing of Information.
 
@@ -71,7 +71,7 @@ Under California Civil Code sections 1798.83-1798.84, California residents are e
 
 ## Updating Your Information.
 
-giggle allows you to access the following information about you for the singular purpose of viewing, and in certain situations, updating that information. You may access your account with our Site [here](http://www.giggle.com/on/demandware.store/Sites-giggle-Site/default/Account-Show).
+giggle allows you to access the following information about you for the singular purpose of viewing, and in certain situations, updating that information. You may access your account with our Site [here](https://www.giggle.com/on/demandware.store/Sites-giggle-Site/default/Account-Show).
 
 ## Third Party Sites.
 
@@ -87,7 +87,7 @@ giggle reserves the right to change or update this Privacy Statement at any time
 
 ## Additional Topics of Interest.
 
-In addition to our Privacy Policy, read our Site’s [Terms and Conditions](http://www.giggle.com/Terms-Conditions/terms-and-conditions,default,pg.html).
+In addition to our Privacy Policy, read our Site’s [Terms and Conditions](https://www.giggle.com/Terms-Conditions/terms-and-conditions,default,pg.html).
 
 ## Contact.
 
