@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the games96.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927144749id_/http%3A//www.games96.com/page/2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games96.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420010355id_/http%3A//www.games96.com/page/2.html) for the most accurate reproduction.*
 
 # Free Online Games at Games 96 - Privacy Policy
 
