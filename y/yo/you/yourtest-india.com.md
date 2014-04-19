@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourtest-india.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106173756id_/http%3A//www.yourtest-india.com/wingame/40/datenschutz_40.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourtest-india.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420013352id_/http%3A//www.yourtest-india.com/wingame/40/datenschutz_40.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
