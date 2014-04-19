@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamedistribution.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218222837id_/http%3A//www.gamedistribution.com/distribution/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamedistribution.com privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419152811id_/http%3A//www.gamedistribution.com/distribution/privacy-policy) for the most accurate reproduction.*
 
 # Game distribution and analytics services for iPhone, Android, mobile, web and downloadable games | Game Distribution
 
