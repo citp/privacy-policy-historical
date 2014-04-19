@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatdogsite.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810005910id_/http%3A//www.greatdogsite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatdogsite.com privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419083015id_/http%3A//www.greatdogsite.com/privacy) for the most accurate reproduction.*
 
 # Dogs - Dog Information - Dog Breeds, Pictures and Q&A for over 700 Dog Breeds | GreatDogSite.com
 
