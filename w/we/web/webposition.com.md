@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webposition.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210052354id_/http%3A//www.webposition.com/support/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webposition.com privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419133633id_/http%3A//www.webposition.com/support/privacy.htm) for the most accurate reproduction.*
 
 # WebPosition | Privacy
 
@@ -19,7 +19,7 @@ Attn: Privacy Policy
 Suite 1200   
 Bellevue, Washington 98004 USA. 
 
-You can also reach us by using the [Contact Form](https://web.archive.org/web/20131210052354id_/http%3A//www.webposition.com/support/contact-us.aspx). 
+You can also reach us by using the [Contact Form](https://web.archive.org/web/20140419133633id_/http%3A//www.webposition.com/support/contact-us.aspx). 
 
 We reserve the right to update this policy at any time. Changes will be effective immediately upon posting, but will not apply to a dispute of which we had actual notice of on, or any dispute arising solely from events occurring prior to, the date revisions are posted. Whenever we make material changes to our policy, we will give reasonable notice by posting information on our home page. Since policy change notices last only for a limited time, and non-material changes to the Privacy Policy may not be posted, however, you should check this Privacy Policy regularly to see if there have been any changes. 
 
