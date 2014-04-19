@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herokuapp.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815152611id_/https%3A//herokuapp.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herokuapp.com privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419230511id_/https%3A//herokuapp.com/policy/privacy) for the most accurate reproduction.*
 
 # Heroku | Privacy
 
@@ -94,4 +94,4 @@ Heroku reserves the right to change this Privacy Statement. Heroku will provide 
 
 ## 12\. Contacting Us
 
-Questions regarding this Privacy Statement or the information practices of the Company’s Web site should be directed to [privacy@heroku.com](mailto:privacy@heroku.com) or by mailing Heroku Privacy, 321 11th St, San Francisco, CA 94103.
+Questions regarding this Privacy Statement or the information practices of the Company’s Web site should be directed to [privacy@heroku.com](mailto:privacy@heroku.com) or by mailing Heroku Privacy, 650 7th St, San Francisco, CA 94103.
