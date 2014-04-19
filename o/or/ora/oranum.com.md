@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the oranum.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925014835id_/http%3A//community.oranum.com/en/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oranum.com privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419190015id_/http%3A//community.oranum.com/en/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Personal Data - Oranum
 
-Duodecad IT Services Luxembourg S.à.r.l., with the address at 44, Avenue John F. Kennedy, L-1855 Luxembourg, E-mail:info@duodecadits.com , Phone: +352-26-11-18-1, registered in the trade and companies registry of the Grand-Duchy of Luxembourg under the number B 171358 (hereinafter referred to as 'Company' or 'Oranum') is committed to protecting its members' privacy. The Company takes all appropriate security measures to protect all personal information against unauthorized access, unauthorized alteration, disclosure or destruction.
+Duodecad IT Services Luxembourg S.à r.l., with the address at 44, Avenue John F. Kennedy, L-1855 Luxembourg, E-mail:info@duodecadits.com , Phone: +352-26-11-18-1, registered in the trade and companies registry of the Grand-Duchy of Luxembourg under the number B 171358 (hereinafter referred to as 'Company' or 'Oranum') is committed to protecting its members' privacy. The Company takes all appropriate security measures to protect all personal information against unauthorized access, unauthorized alteration, disclosure or destruction.
 
 You can unsubscribe from our newsletter by sending and e-mail to [help@oranum.com](mailto:help@oranum.com) from your registered e-mail address, or by clicking on Unsubsribe at the bottom of any of our newsletters, and providing your e-mail address and user name.
 
