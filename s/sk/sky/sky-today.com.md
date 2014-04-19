@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sky-today.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207181558id_/http%3A//sky-today.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sky-today.com privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419234258id_/http%3A//sky-today.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
