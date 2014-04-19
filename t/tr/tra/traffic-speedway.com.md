@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traffic-speedway.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208215810id_/http%3A//traffic-speedway.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffic-speedway.com privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419090653id_/http%3A//traffic-speedway.com/privacy.php) for the most accurate reproduction.*
 
 # Traffic Speedway Privacy Policy
 
