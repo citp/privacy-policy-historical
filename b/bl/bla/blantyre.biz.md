@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blantyre.biz privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806195223id_/http%3A//www.blantyre.biz/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blantyre.biz privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419155516id_/http%3A//blantyre.biz/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy ... Bla'antir's Ain Website
 
