@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cobsolutions.com privacy policy that was archived on 2013-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130121090019id_/http%3A//www.cobsolutions.com/amd/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cobsolutions.com privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419051800id_/http%3A//www.cobsolutions.com/amd/privacypolicy) for the most accurate reproduction.*
 
 # COBSolutions :: Pages
 
