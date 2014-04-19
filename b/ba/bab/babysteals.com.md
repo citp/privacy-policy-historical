@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the babysteals.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610172922id_/http%3A//baby.steals.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babysteals.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420004204id_/http%3A//baby.steals.com/privacy.php) for the most accurate reproduction.*
 
-# BabySteals.com® | Daily Deals at 9am & 9pm MT for Mom and Baby
+# babySTEALS.com® | Daily Deals at 8am & 8pm PST for Mom and Baby
 
 This privacy notice discloses the privacy practices for baby.steals.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
