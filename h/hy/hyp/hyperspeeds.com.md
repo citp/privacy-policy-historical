@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyperspeeds.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219000630id_/http%3A//www.hyperspeeds.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperspeeds.com privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419224245id_/http%3A//www.hyperspeeds.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy hyperspeeds.com
 
