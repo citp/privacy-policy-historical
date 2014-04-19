@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morrisoneducation.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512052619id_/http%3A//www.morrisoneducation.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morrisoneducation.com privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419082540id_/http%3A//www.morrisoneducation.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Anthony Morrison Education: Achieve Financial Independence With Anthony Morrison
 
