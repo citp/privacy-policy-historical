@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the schaeffler.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113144622id_/http%3A//www.schaeffler.com/content.schaeffler.de/en/_global/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schaeffler.com privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419205459id_/http%3A//www.schaeffler.com/content.schaeffler.de/en/_global/Privacy.jsp) for the most accurate reproduction.*
 
-# Schaeffler Technologies |
+# Schaeffler Germany |
 
 Thank you for your interest in our company and in our products. Protecting your privacy while using our online services is very important to us. We comply with the legal requirements of the country in which the site processing the data is located when collecting and processing personal data. In the Federal Republic of Germany, the applicable law is the Federal Data Protection Act. 
 
