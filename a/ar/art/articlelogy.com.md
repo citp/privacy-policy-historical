@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlelogy.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109060357id_/http%3A//www.articlelogy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlelogy.com privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419075319id_/http%3A//www.articlelogy.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@
 14\. This Privacy Policy may be modified from time to time without any prior notice to the visitors. Continued access of ArticleLogy.com by you will constitute your acceptance of any changes or revisions to the Privacy Policy. It is the goal of ArticleLogy.com to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
 
 **Contacting Us**  
-15\. This is the website of ArticleLogy.com. We can be reached either via e-mail at admin (at) articlelogy.com or via our [contact](https://web.archive.org/web/20131109060357id_/http%3A//www.articlelogy.com/contact/index.html) page. Please replace (at) with @. If you feel that this site is not following its stated information policy, you may contact us at the above email address.
+15\. This is the website of ArticleLogy.com. We can be reached either via e-mail at admin (at) articlelogy.com or via our [contact](https://web.archive.org/web/20140419075319id_/http%3A//www.articlelogy.com/contact/index.html) page. Please replace (at) with @. If you feel that this site is not following its stated information policy, you may contact us at the above email address.
 
  **March 24 2008 Update: Google Ads.**  
 16\. Google, as a third-party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [ Google ad and content network privacy policy.](http://www.google.co.uk/privacy_ads.html) All terms and conditions are subject to change without prior notice.
