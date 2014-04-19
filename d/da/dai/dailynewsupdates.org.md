@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailynewsupdates.org privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216114725id_/http%3A//dailynewsupdates.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailynewsupdates.org privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419082106id_/http%3A//dailynewsupdates.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dailynewsupdates.org
 
