@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portero.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908082749id_/http%3A//www.portero.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portero.com privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419022629id_/https%3A//www.portero.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Portero Luxury
 
