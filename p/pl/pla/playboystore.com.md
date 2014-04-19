@@ -1,70 +1,47 @@
-> *The following text is extracted and transformed from the playboystore.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107083256id_/http%3A//www.playboystore.com/infoPages/privacy.php%3FfootDept%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playboystore.com privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419214328id_/http%3A//www.playboystore.com/privacy-policy) for the most accurate reproduction.*
 
-# Official Destination , Clothing and Collectibles for both men, women - Playboy Store
+# Privacy Policy
 
-This Privacy Policy (the "Policy") applies to Playboy Enterprises, Inc.'s and Playboy.com, Inc.'s (collectively, "Playboy") family of websites, www.playboystore.com, www.playboycatalog.com, www.shopthebunny.com, www.bunnyshopcatalog.com, www.bunnyshopcatalog.net, www.bunnyshopstore.com (collectively the "Sites"). The Sites are operated and maintained by eFashion Solutions, LLC ("eFashion", "we", or "us") on behalf of Playboy and all information collected on the Sites is collected by eFashion for use as permitted by this Policy. This Policy does not apply to other online or offline Playboy websites, products or services. 
+Welcome to the Official Playboy Store (the “Website”) operated by Araca Merchandise L.P. (“Araca”, “we”, “our”, or “us”). This Privacy Policy is intended to inform you about how Araca collects and uses your personally identifiable information (“PII”) and other information in operating the Website.
 
-This Policy explains what information we collect about you and what we do with it. We reserve the right to modify this Policy at any time, and we will notify you of any material changes to the Policy by posting the new Policy here and changing the "Effective Date" at the top. We encourage you to check this page periodically for any changes. By using or navigating any of the Sites, you acknowledge that you have read, understand and agree to be bound by this Policy or any modified Policy as posted. If you do not agree to these terms, please do not use or visit any of the Sites. 
+The Website offers anonymous browsers (“Visitors”) the ability to learn about Araca’s products. Visitors who are at least eighteen (18) years of age and who register with the Website (“Registrants”) can purchase our products online. Visitors and Registrants are collectively referred to herein as “you” or “your”.
 
-What information do we collect?
+By using the Website, you consent to the collection and use of your information by Araca as described in this policy. We reserve the right to change how we handle the information we collect through the Website at any time. We will update this Privacy Policy to reflect any changes in how we collect and handle information, and such changes will take effect immediately once posted to the Website.
 
-We collect personal information that you provide to us such as your name, e-mail address, street address and telephone number. We also collect credit card information from you. We generally collect this personal information on our registration and order forms when you sign up to receive products or services from any of the Sites. We may also collect information from our online surveys such as age, gender and income level.
+Registrants must provide certain personally identifiable information (“PII”) to Araca in order to purchase our products. PII includes basic information, such as your name and email address. We may also ask you for general statistical, non-PII about yourself and your interests.
 
-We collect IP addresses and demographic information (such as your zip code) and may use this data to: tailor your experience at the Sites; provide content in which we think you may be interested; display content according to your preferences; and analyze traffic to the Sites. 
+Unless you provide PII to Araca through the Website, we will not collect any PII from you.
 
-What do we do with the information we collect?
+Araca may use your PII to communicate offers on merchandise which we believe will be of interest to you, customize our communications to you, administer our business an improve your shopping experience.
 
-We use personal information and other demographic or profile information you provide to us to fulfill your order or request; to provide you with information about Playboy, to provide you with information from some of our partners and third party companies in which we think you may be interested; and to contact you when necessary. 
+If you would rather we did not send you direct marketing materials, please send a request in writing (an “Opt-Out Request”) to: Araca Merchandise LP, 545 West 45th Street, 10th Floor, New York, NY 10036, USA Attention: Web Marketing, or by email to orders@playboystore.com. 
 
-We use IP addresses and anonymous demographic information to tailor your experiences at the Sites by showing content in which we think you will be interested and displaying content according to your preferences. Anonymous demographic information is shared with advertisers and market researchers on an aggregate basis. 
+Please allow several weeks for us to comply with your Opt-Out Request. Until we are able to process the request we may continue to use your PII as described in this Privacy Policy. After receiving your Opt-Out Request, we may keep your name and other PII on file to fulfill your request, to communicate to you about your account, and for other purposes not related to direct marketing.  
+You can review or change your PII in any of the following ways:
 
-We use information collected to evaluate and improve our services. We may develop and use, in our sole discretion, consumer research which may be based on your use of our services. 
-
-Personal information collected on the Sites is stored and processed in the United States and by using any of the Sites, you consent to any such transfer of information outside of your country. 
-
-Do we share the information we collect with third parties?
-
-We will share information we collect with Playboy. In addition, in some cases we will share information we collect (including personal information or anonymous demographic information) with third party companies who may offer products or services in which we believe you may be interested. We also share this information with third parties with whom we partner to co-promote and administer sweepstakes and contests on the Sites. 
-
-We may also share information we collect with third party service providers to manage certain aspects of the services we provide, such as maintaining our servers and the Sites and processing or fulfilling orders for products and services you purchase through the Sites.
-
-We may also disclose your information in special cases if required to do so by law, court order or other governmental authority or when we believe in good faith that disclosing this information is otherwise necessary or advisable, including, for instance, to identify, contact, or bring legal action against someone who may be causing injury to or interfering with the rights or property of us or Playboy, another user or anyone else that could be harmed by such activities.
-
-Is the information submitted in public forums confidential?
-
-No. The Sites may offer chat rooms, forums, message boards and/or news groups to our users. Please remember that any information disclosed in these areas becomes public information. Accordingly, you should exercise caution when deciding to disclose your personal information and you do so at your own risk. 
-
-Do we use cookies?
-
-Yes. Cookies are pieces of information generated by web servers and stored in your computer for future access. The Sites use cookie technology to enhance your online experience by making it easier for you to navigate through the Sites or make a feature work better. Generally, cookies can be disabled. However, you must accept cookies in order to navigate the Sites; register for our membership Sites and order products from our online stores.
-
-Do we use web beacons?
-
-Yes. Some of the Sites may contain electronic images known as "web beacons" or single-pixel gifs that allow us to count visitors to the Sites and deliver co-branded services. Web beacons collect limited information including cookie number, time and date of a page view and a description of the page on which the web beacon resides. 
-
-Are the Sites secure?
-
-We are committed to maintaining the security of your information and have measures in place to protect against the loss, misuse and alteration of the information under our control. All credit transactions occur in a secure area of the Site using Secure Sockets Layer ("SSL") software to process orders. SSL encrypts the information you input on the Sites. In addition, all information is stored in a secure location behind a firewall with limited administrative access. 
-
-Does this Policy apply to linked sites other than the Sites?
-
-No. The Sites contain links to other Internet sites, resources and sources of Playboy. By clicking on an ad banner or other link, you will be redirected off the Sites and to third party websites. Playboy is not responsible for the privacy policies of such sites. You should make sure that you read and understand the privacy policies of these sites and direct any concerns regarding external links to the site administrator or webmaster of that third party website.
-
-How do I unsubscribe?
-
-All e-mails you receive from us will include specific instructions on how to unsubscribe and you may unsubscribe at any time. Additionally, we give you the following options for removing your information from our database:
-
-  1. send an email to: pbinfo@efashionsolutions.com
-  2. select the opt-out link at the bottom of any email we send you and follow the instructions provided; 
-  3. send mail to the following address:   
-Customer Service  
-eFashion Solutions, LLC  
-90 Enterprise Avenue South  
-Secaucus, NJ 07094  
+  1. Online. You can review or update your PII online by signing into the website with your username and password and clicking on any section of the “Your Account” tab. You can also reach your personal account by clicking on the my account link on the homepage.
+  2. By email. You can submit a request to review or update your PII by sending an email, requesting a copy of your PII or making changes to your PII, to: [orders@playboystore.com](mailto:orders@playboystore.com),
+  3. In writing. You can submit a request to review or update your PII in writing to us at: Araca Merchandise LP, 545 West 45th Street, 10th Floor, New York, NY 10036, USA, Attention: Web Marketing.Araca may provide your PII to entities who work for or with us. These entities may use your PII to help fill your requests in connection with the Website and to help us communicate with you about different resources on the Website. For instance, we may transfer information submitted by you, including PII, to service providers and other third parties who assist us in running the Website and to third party vendors in order to execute transactions requested by you.
 
 
 
+Araca may also share your PII with third parties for direct marketing purposes, and you acknowledge that the handling of your PII by such third parties will not be governed by the terms of this Privacy Policy.  
+If you would rather we did not share your PII with any third party for direct marketing purposes, please send a request in writing (an “Opt-Out Request”) to: Araca Merchandise LP, 545 West 45th Street, 10th Floor, New York, NY 10036, USA Attention: Web Marketing, or by email to orders@playboystore.com. 
 
-Can I update/correct my information?
+Please allow several weeks for us to comply with your Opt-Out Request. Until we are able to process the request we may continue to use your PII as described in this Privacy Policy. After receiving your Opt-Out Request, we may keep your name and other PII on file to fulfill your request, to communicate to you about your account, and for other purposes not related to direct marketing. 
 
-Yes. You may correct or update your personal information by sending us an email at pbinfo@efashionsolutions.com 
+If we receive your Opt-Out Request after having shared your PII with a third party for direct marketing purposes, Araca may not have the ability to control the use of such PII by the third party. You agree that, in this event, Araca shall not be responsible for any damages or loss caused by or related to the transfer of your PII or its use by any such third party. If you are concerned about Araca sharing your PII with third parties, you should not provide your PII to Araca. 
+
+We may also release your PII if we believe such release is necessary to comply with the law or a legal process, to enforce our customer agreements, to protect our rights or property, to protect Registrants and/or Visitors from fraudulent, abusive, or unlawful use of the Website, or if we reasonably believe that a danger to any person requires disclosure of your PII. We may also release your PII as part of a corporate reorganization, consolidation, merger, or sale of substantially all of the assets of Araca.We also collect anonymous and aggregate information from you about your preferences on the Website by using cookies, action tags and other methods. Cookies are small text files that identify your computer. We may use cookies to, among other things, monitor Website usage, customize Website features, identify your computer’s operating system and browser, and complete transactions. An action tag is a small, graphic image on a webpage that allows the website owner or a third party to monitor who is visiting a website. The Action tag collects the IP address of the computer to which the tag is sent, the URL of the webpage that the tag comes from and the time the webpage was viewed. Tags may be associated with cookie information. We may also use such anonymous and aggregate information for promotional purposes.
+
+Yes. If you do not want to be identified by us, you can set your browser to warn you before accepting cookies and refuse cookies when your browser alerts you to their presence. You can also adjust the settings in your browser to refuse all cookies. If you do not want us to have any of your PII, do not submit any of your PII to us.
+
+Araca takes steps consistent with commercially reasonable industry standards to secure any PII collected from you from loss, misuse, unauthorized access and destruction while under our control. Please note that despite our efforts to protect information provided to us, we cannot guarantee that such information will not be lost, disclosed or accessed by accident or by the unauthorized acts of others.
+
+Araca may provide links to other websites or resources of possible interest to you. Because we have no control over such websites or resources, the collection and use of your PII and other information by such websites shall be subject to the policies and procedures of such websites and not this Privacy Policy.
+
+You must be eighteen (18) years of age or older in order to purchase our products. Araca does not knowingly collect PII from anyone under thirteen (13) years of age.
+
+If you wish to remove PII that you have submitted to Araca from our records, please send us an email requesting such removal to [_orders@playboystore.com_](mailto:orders@playboystore.com) _._ If you have questions or concerns about any of our information collection or handling practices, please contact us at [_orders@playboystore.com_](mailto:orders@playboystore.com) _._
+
+We reserve the right to make changes to this policy. We suggest users periodically review this Privacy Policy to become aware of any modifications to these terms and conditions. Notice of changes to this policy will be posted on the homepage.
