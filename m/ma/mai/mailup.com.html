@@ -1,0 +1,545 @@
+<!--The following is the downloaded HTML source of the mailup.com privacy policy that was archived on 2014-04-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140420140620id_/http%3A//www.mailup.com/privacy-policy.htm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Privacy Policy | MailUp</title>
+<meta name="Description" content="The MailUp privacy policy">
+<meta name="Keywords" content="mailup, mail up">
+<meta name="Robots" content="index,follow">
+<meta name="Revisit-after" content="30">
+<link rel="canonical" href="http://www.mailup.com/privacy-policy.htm">
+<!--<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" >-->
+<!--INCLUDE JQUERY - START -->
+
+	<link type="text/css" rel="stylesheet" href="css/onepagecheckout.min.css?d=05%2F02%2F2013+12%2E03%2E25">
+
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="../includes/jquery/jquery-1.5.2.min.js"></script>
+<script type="text/javascript" src="../includes/jquery/jquery-ui-1.8.12.custom.min.js"></script>
+<script type="text/javascript" src="../includes/jquery/jquery.validate.min.OPC.js"></script>
+<script type="text/javascript" src="../includes/jquery/jquery.bgiframe.pack.js"></script>
+<script type="text/javascript" src="../includes/jquery/jquery.form.min.js"></script>
+<!--INCLUDE JQUERY - END --> 
+<!--include file="inc_sb.asp"-->
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
+<!--pcStrPageName=viewcontent.asp-->
+<script type="text/javascript" src="/js/jquery.validationEngine.js"></script>
+<script type="text/javascript" src="/js/jquery.validationEngine-it.js"></script>
+<link rel="stylesheet" href="css/validationEngine.jquery.css?d=25%2F09%2F2012+15%2E45%2E00" type="text/css">
+
+<!-- placeholder ie - validator form and track for subscription newsletter -->
+	<script type="text/javascript">
+		(function($) {
+		  jQuery.fn.placeholder = function() {
+			if(typeof document.createElement("input").placeholder == 'undefined') {
+			  jQuery('[placeholder]').focus(function() {
+				var input = $(this);
+				if (input.val() == input.attr('placeholder')) {
+				  input.val('');
+				  input.removeClass('placeholder');
+				}
+			  }).blur(function() {
+				var input = $(this);
+				if (input.val() == '' || input.val() == input.attr('placeholder')) {
+				  input.addClass('placeholder');
+				  input.val(input.attr('placeholder'));
+				}
+			  }).blur().parents('form').submit(function() {
+				jQuery(this).find('[placeholder]').each(function() {
+				  var input = $(this);
+				  if (input.val() == input.attr('placeholder')) {
+					input.val('');
+				  }
+			  })
+			});
+		  }
+		}
+		})(jQuery);
+		jQuery(document).ready(function() {			
+			jQuery.fn.placeholder();
+			jQuery("#formNL").validationEngine('attach', {promptPosition: "topLeft", scroll: false, 
+				onValidationComplete: function(form, status) {		
+					//alert("The form status is: " +status+", it will never submit");
+					_gaq.push(['_trackPageview', 'clic-newsletter']);
+					if(status) { 
+							_gaq.push(['_trackPageview', 'clic-newsletter-ok']); 
+							jQuery("#formNL").validationEngine('detach');
+							jQuery('#formNL').trigger('submit');
+					} 
+				} 
+			});		
+		});
+	</script>
+<!--// placeholder ie-->
+
+<!-- Aggiornamento della cache per i css -->
+
+<link type="text/css" rel="stylesheet" href="/css/pcHeaderFooter10.min.css?d=18%2F05%2F2011+09%2E37%2E53">
+<link type="text/css" rel="stylesheet" href="/css/pcStorefront.min.css?d=11%2F09%2F2012+11%2E16%2E41">
+<link type="text/css" rel="stylesheet" href="/css/pcBTO.css?d=14%2F09%2F2011+15%2E14%2E51">
+<link type="text/css" rel="stylesheet" href="/css/pcMailUp.css?d=25%2F01%2F2014+02%2E58%2E16">
+<link type="text/css" rel="stylesheet" href="/css/ei-tooltip.css?d=18%2F05%2F2011+15%2E58%2E51">
+<link type="text/css" rel="stylesheet" href="/css/jquery.qtip.min.css?d=09%2F04%2F2013+11%2E42%2E51">
+<!--[if (gte IE 7)&(lte IE 8)]>
+<link type="text/css" rel="stylesheet" href="/css/pcMailUp-ie.css?d=05%2F04%2F2013+09%2E52%2E41" />
+<![endif]-->
+<!--[if (gte IE 9)]>
+<link type="text/css" rel="stylesheet" href="/css/pcMailUp-ie9.css?d=12%2F02%2F2013+10%2E55%2E01" />
+<![endif]-->
+
+	<!--% if UCase(Request.ServerVariables("HTTPS")) = "OFF" then %>-->
+	<script type="text/javascript" async="" src="//use.typekit.com/coa1byp.js"></script>
+	<script type="text/javascript">
+		$(function() {   
+			try { Typekit.load({
+				 loading: function() {
+				   // Javascript to execute when fonts start loading
+				 },
+				 active: function() {
+				   // Javascript to execute when fonts become active
+				 },
+				 inactive: function() {
+				   function loadCssFile(filename) {
+					  var fileref=document.createElement('link');
+					  fileref.setAttribute('rel', 'stylesheet');
+					  fileref.setAttribute('type', 'text/css');
+					  fileref.setAttribute('href', filename);
+					  document.getElementsByTagName("head")[0].appendChild(fileref);
+				   }
+				   loadCssFile('/css/museofonts.css?d=07%2F12%2F2012+16%2E48%2E27');
+				 }
+			   })
+			 } catch(e) {}
+		});
+    </script>
+     
+ 
+	<!--% else %-->
+	<!--<link type="stylesheet" rel="stylesheet" href="/css/museofonts.css?d=07%2F12%2F2012+16%2E48%2E27" />-->
+	<!--% end if %-->
+
+<link rel="icon" href="/images/mailup2011/icon.gif" type="image/gif">
+<link rel="shortcut icon" href="/images/mailup2011/favicon.ico">
+
+<link rel="apple-touch-icon-precomposed" href="/images/mailup2011/apple-touch-icon-iphone.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/mailup2011/apple-touch-icon-ipad.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/mailup2011/apple-touch-icon-iphone4.png">
+
+<link rel="stylesheet" href="/js/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen">
+<script type="text/javascript" src="/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<script type="text/javascript" src="/js/jquery.cycle.all.min.js"></script>
+<script type="text/javascript" src="/js/jQuery.tubeplayer.js"></script>
+
+<script type="text/javascript" src="/js/jquery.qtip.min.js"></script>
+
+<script type="text/javascript" src="/js/cms.scripts.js"></script>
+<script type="text/javascript" src="/js/cms.scripts.home.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+  {lang: 'it'}
+</script>
+<!-- Google+-->
+<link href="https://plus.google.com/109440141771191632652/" rel="publisher">
+
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="rss.asp">
+<link type="text/css" rel="stylesheet" href="/includes/jquery/themes/redmond/jquery-ui-1.8.12.custom.min.css">
+
+<!-- Google Analytics | Edited by Massimo on 02.20.2014 due to code duplication with footer.asp (removed from footer.asp) -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-24683762-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- / Google Analytics -->
+
+</head>
+
+<body class="bodyCms">
+
+<div id="bodyTop10" class="bodyTop10Cms">
+	<div id="pcHeader10">
+        <div id="pcHeader10Left">
+		
+			<a href="/"><img src="/images/pc2010-logo-h.png" alt="The email and SMS delivery solution" title="The email and SMS delivery solution" border="0" width="216" height="86"></a>
+		
+        </div>
+        <div id="pcHeader10Center"></div>
+        <div id="pcHeader10Right">
+          
+<form action="/p/pc/search01.asp" id="cse-search-box">
+  <div>
+    <!--<input type="hidden" name="cx" value="002677979637044789328:7la55jk1je8" />-->
+    <input type="hidden" name="cx" value="002677979637044789328:gpztm7y_pg8">
+    <input type="hidden" name="cof" value="FORID:10;NB:1">
+    <input type="hidden" name="ie" value="UTF-8">
+    <span id="smallsearchboxbg"><input type="text" name="q" size="14" id="smallsearchbox"></span>
+    
+  </div>
+</form>
+
+<div id="SmallLanguageChooser">
+    <a href="javascript:;" class="active-language" id="SmallLanguageMenuActive"><span>English</span></a>
+    <div id="SmallLanguageMenu">
+        <a href="http://www.mailup.it">Italian</a>
+    </div>
+</div>
+
+<script type="text/javascript">
+<!--
+	function toggleLanguageStyles() {
+		jQuery('#SmallLanguageMenu').slideToggle('fast', function() {});
+		jQuery('#SmallLanguageMenuActive').toggleClass('active');	
+	}
+	function changeLanguage(l) {
+		toggleLanguageStyles();
+		jQuery('#SmallLanguageMenuActive span').text(l);		
+	}
+
+	jQuery(document).ready(function() {
+			
+		jQuery('#SmallLanguageMenuActive').click(function() {
+			toggleLanguageStyles();
+		});
+		jQuery('#SmallLanguageMenu a').click(function() {
+			changeLanguage(jQuery(this).text());	
+		});
+	});
+-->
+</script>
+    <ul id="pcHeader10RightNav"><li id="pcHeader10RightNavNewsletter"><a href="/email-marketing-solution.htm" title="Email campaign management tools">Why MailUp</a></li><li id="pcHeader10RightNavBlog"><a href="/new-email-marketing-features.htm">What's new</a></li><li id="pcHeader10RightNavContacts"><a href="/email-marketing-resources.htm">Resources</a></li><li id="pcHeader10RightNavContacts"><a href="/contacts.htm">Contact us</a></li>
+<li id="pcHeader10RightNavLogin"><a href="https://www.mailup.com/login" class="header-menu-button">Login</a></li></ul>   
+        </div>
+	</div> 
+<input type="hidden" name="thispageid" id="thispageid" value="53">
+<input type="hidden" name="pagetype" id="pagetype" value=""><!-- False -->
+<!-- template3 -->
+<div id="template3">
+<div id="pcTopCarousel10" class="pcTopCarousel10page"><div id="pcTopNav10"><a href="create-email-campaign.htm" class=" cosa">Features</a><a href="email-marketing-solution.htm" class=" perche">Value</a><a href="mailup-customers.htm" class=" clienti">Clients</a><a href="pay-per-speed-email-marketing.htm" class=" prezzi">Pricing</a><a href="email-marketing-for-agencies-mailup.htm" class=" agency">Agencies</a><a href="email-marketing-options.htm" class=" opzioni">More</a></div>
+</div>
+   
+
+  <div id="pcMainArea10">
+    
+  	<div id="pcMainArea10-LEFT">
+      <div id="pcMainArea10-LINKS">      
+        <ul>
+					
+		<li><a href="mailup-terms-and-conditions.htm">Terms and conditions</a></li>
+	
+		<li><a href="platform-license-agreement.htm">Platform License Agreement</a></li>
+	
+		<li><a href="terms-of-use.htm">Terms of Use</a></li>
+	
+		<li><a href="anti-spam-policy.htm">Anti-SPAM Policy</a></li>
+	
+		<li><a href="content-restrictions.htm">Content Restrictions</a></li>
+	
+		<li><a href="service-level-guarantee.htm">Service Level Guarantee</a></li>
+	
+		<li><a href="account-termination.htm">Account Termination</a></li>
+	
+		<li class="active"><a href="privacy-policy.htm">Privacy Policy</a></li>
+	
+         </ul>
+      </div>
+    </div>   
+    
+<div id="pcMainArea10-PC" class="pcMainArea10cms">    
+<span class="PageTitleContainer"><span class="PageTitle" style="width:100%;padding-left:320px;"><b>We hate SPAM and do not tolerate it.</b> <br>That's basically what our terms say</span></span>
+<link rel="stylesheet" type="text/css" href="css/pcMailUp.css">
+
+<div id="mailupPrivacy">
+<h1><span id="titolo-01-78" class="edit">Privacy Policy</span></h1>
+<span id="paragrafo-01-78" class="edit">
+
+<div class="box">
+<h3>Protection of Personal Information</h3>
+<p>MailUp, Inc. ("MailUp" or "We") provides a multichannel direct marketing system ("MailUp Service" or "Service") that businesses ("MailUp Users" or "Users") use to contact their customers and prospects ("Customers") using email, text messages, and social messages.</p>
+
+<p>MailUp protects all information belonging to any party that granted the Company or Users of the Service permission to contact them, and does not share any such information with any other party.</p>
+
+<p>In connection with the provision of the Service, MailUp collects and stores the following information:</p>
+
+<ul>
+<li>Anonymous information from visitors to this Web site</li>
+<li>Personal information (e.g. name and e-mail address) from visitors to this Web site that subscribe to our newsletter or elect to sign up for a free trial of the Service</li>
+<li>Detailed personal information (e.g. name, company name, company, address, etc.) from Users of the Service</li>
+<li>Personal information pertaining to the "Customers" uploaded to the MailUp system by Users in connection with their use of the Service.</li>
+</ul>
+</div>
+
+<div class="box-product-divider"></div>
+
+<div class="box"> <br>
+<h3>Use of Anonymous Information</h3>
+<p>We use Anonymous Information to run our Company more effectively and improve it over time. For example, we may detect the type of browser you are using and use that information to redirect you to a section of the MailUp Web Site that works best for your browser, and use the same information to increase browser compatibility over time. Similarly, we may attempt to detect your geolocation and direct you to a version of the MailUp Web site that is written in a language that might better match your needs.</p>
+<p>We reserve the right to maintain, use, and share Anonymous Information without limitation.</p>
+</div>
+
+<div class="box-product-divider"></div>
+
+<div class="box"> <br>
+<h3>Use of Personal Information</h3>
+<p>We use the Personal and Anonymous Information you provide when requesting information on the MailUp Service or signing up for a free trial of the Service in order to communicate with you or create a free trial account.</p>
+<p>We do not share Personal Information with outside parties except</p>
+<p>However, the Personal Information you have provided to MailUp may be transferred to another party if all or a share of our Company is purchased by another party.</p>
+<p>We never use or share Personal Information in ways unrelated to the ones described in this Privacy Policy, and we will not do so in the future without providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.</p>
+</div>
+
+<div class="box-product-divider"></div>
+
+<div class="box"> <br>
+<h3>Use of Detailed Personal Information</h3>
+<p>We collect detailed personal information about you and your business when you order the MailUp Service, becoming a User of the Service.</p>
+<p>We do not share Detailed Personal Information with outside parties except to the extent necessary to create and manage your MailUp account and billing subscription. For example, we "pass" the credit card information you provide, without storing it, to the payment gateway used by MailUp, which will securely store it and use it to process the recurring payments associated with your MailUp subscription.</p>
+<p>However, the Personal Information you have provided to MailUp may be transferred to another party if all or a share of our Company is purchased by another party.</p>
+<p>We never use or share Personal Information in ways unrelated to the ones described in this Privacy Policy, and we will not do so in the future without providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.</p>
+</div>
+
+<div class="box-product-divider"></div>
+
+<div class="box"> <br>
+<h3>Use of Customers Information</h3>
+<p>MailUp does not share with any other party, and does not use for its own promotional activities, personal information that has been uploaded to or otherwise used in connection with the Service by Users of the MailUp Service.</p>
+<p>Users of the MailUp Service are prohibited by the Terms and Conditions of Use of the Service from any misuse of the Service that results in the violation of the privacy of the Customers that granted them a permission to contact them. For example, the mailing of unsolicited email messages is strictly prohibited by the <a href="anti-spam-policy.htm" target="_blank">MailUp Anti-SPAM Policy</a>.</p>
+</div>
+
+<div class="box-product-divider"></div>
+
+<div class="box"> <br>
+<h3>Commitment to Information Security</h3>
+<p>
+Our server farm is located in a highly secure, state-of-the-art data center. MailUp uses security measures - such as storing confidential data in an encrypted format - to avoid the misuse of such data. In addition, MailUp Users agree to comply with a strict rule of conduct with regard to how personal information (e.g. your e-mail address) is handled.
+</p>
+<p>You acknowledge that MailUp has limited control on the ways the MailUp Service is used by a MailUp User. For example, it may take us some time to detect that a User is violating our Anti-SPAM Policy and to block such violation.</p>
+</div>
+
+<div class="box-product-divider"></div>
+
+<div class="box"> <br>
+<h3>Commitment To Children's Privacy</h3>
+<p>Our Site is not directed to Children. That said, we will not knowingly collect, use or disclose Personal Information from any child under the age of 13.</p>
+</div>
+
+<div class="box-product-divider"></div>
+
+<div class="box"> <br>
+<h3>How You Can Access Or Correct Your Information</h3>
+<p>If you are a Customer of a MailUp User, please contact that company or see the 'How to Stop Receiving Message' section below.</p>
+<p>If you are a User of the MailUp Service, you can change the Detailed Personal Information the Company has on file for your account by logging into your MailUp account. You acknowledge and agree that MailUp may preserve Personal and Anonymous Information, and may also disclose such data if required to do so by law or MailUp determines that such preservation or disclosure is reasonably necessary to (1) comply with legal process, (2) enforce the MailUp Terms of Use defined at <a href="terms-of-use.htm" target="_blank">http://www.mailup.com/terms-of-use.htm</a>, (3) respond to claims that any such data violates the rights of others, or (4) protect the rights, property or personal safety of MailUp, its employees, users of or visitors to the Site, and the public.</p>
+<p>You cannot access your payment information as we do not store it. You can update your payment information through the MailUp billing system and we will contact and update your recurring payment profile with stored by the payment gateway used by MailUp.</p>
+<h3>How To Contact Us</h3>
+<p>If you have questions about this Policy or need more information, you can contact MailUp, Inc. by using the contact information listed in the footer at the bottom on the MailUp Web site or at the following address:</p>
+<p>
+MailUp, Inc.
+<br>
+One Market Plaza, Steuart Tower, 5th Floor
+<br>
+San Francisco, CA 94105 USA
+<br>
+(888) 962-4587
+</p>
+</div>
+
+<div class="box-product-divider"></div>
+
+<div class="box"> <br>
+<h3>How to Stop Receiving Messages</h3>
+<p>
+If you receive a message that was sent via MailUp (e.g. you see the MailUp logo in the footer), it means that a business that you have or had a relationship with has become a User of the MailUp Service and your email address or mobile phone number exists in one of the lists they manage from their MailUp account.
+</p>
+<p>
+If you do not wish to receive additional messages from that business, simply click on the unsubscribe link that should exist somewhere in the body of the email message or reply STOP or END to the text message you received. If you are for any reason unable to unsubscribe, contact the business and let them know that you wish to unsubscribe. If you are still receiving messages after doing so, you can report the case to MailUp by sending a message to abuse@mailup.it. When you do so, please also send a copy of the complaint to the email sender of the unsolicited message.
+</p>
+</div>
+</span>
+</div>
+
+<div style="margin-top: 30px; padding-top: 15px; border-top: 1px dashed #CCC;"><a href="mailup-terms-and-conditions.htm">Return to Terms and Conditions</a> summary page.</div>
+
+</div></div></div>
+<!-- /template3 -->    
+  
+</div>    
+<div id="pcMainArea10-SPACER"></div>  
+  
+<div id="pcFooter10"><div id="pcFooter10blocks">    
+      	<div class="footer-box">
+        	<a class="footer-block" id="pcFooter10block03" href="/pay-per-speed-email-marketing.htm">
+                <img width="48" height="48" alt="" src="/images/mailup2011/icon-money-small.png">
+                <b>QUICK QUOTE</b>
+                <span>Flat pricing, unlimited messages. Get a quick quote..</span>
+            </a><a class="footer-block" id="pcFooter10block01" href="/News-d150.htm">
+                <img width="48" height="48" alt="" src="/images/mailup2011/footer-block-icon01.png">
+                <b>NEWS</b>
+                <span>News from the MailUp world and our industry.</span>
+            </a><a class="footer-block" id="pcFooter10block03" href="/mailup-api-web-services-integrations.htm">
+                <img width="48" height="48" alt="" src="/images/mailup2011/footer-block-icon03.png">
+                <b>API</b>
+                <span>Leverage the MailUp Web services for custom integrations.</span>
+            </a><a class="footer-block" id="pcFooter10block04" href="/resellers.htm">
+                <img width="48" height="48" alt="" src="/images/mailup2011/footer-block-icon04.png">
+                <b>RESELLERS</b>
+                <span>Resell MailUp to your clients (<em>whitelabel</em> option available).</span>
+            </a>  
+                  
+			<!-- box verde sinistra -->
+            <div class="box-verdi-footer box-verde-contatti">                        
+                <div id="footerAddress" class="location vcard">
+                    <span class="fn org">MailUp, Inc.</span>  |  
+                     <span class="adr">
+                        <span class="street-address">560 Mission Street, 13th Floor</span>
+                        <span class="locality">San Francisco, CA 94105</span>
+                     </span> | 
+                     <span class="email"><a href="/customer-service-request.htm" style="text-decoration:none">Email us</a></span>  |  
+                     <span class="tel">(888) 9-MAILUP</span> | <span class="tel">(888) 962-4587</span>      
+                </div>
+                
+                <div id="footerSocial">
+                	<a href="https://plus.google.com/u/0/b/111529055157032893540/" style="text-decoration: none;" target="_blank"><img src="/images/mailup2011/social-icon-google.png" width="25" height="25" style="border: 0;"></a><a href="https://www.facebook.com/pages/MailUp-Inc/274029182616940" target="_blank"><img width="25" height="25" alt="Facebook" src="/images/mailup2011/social-icon-facebook.png" border="0"></a><a href="http://twitter.com/mailup_us" target="_blank"><img width="25" height="25" alt="Twitter" src="/images/mailup2011/social-icon-twitter.png" border="0"></a><a href="http://www.linkedin.com/company/2559087" target="_blank"><img width="25" height="25" alt="LinkedIn" src="/images/mailup2011/social-icon-linkedin.png" border="0"></a><a href="rss.asp"><img width="25" height="25" alt="RSS" src="/images/mailup2011/social-icon-rss.png" border="0"></a>
+                </div>
+            </div><!-- // box verde sinistra -->
+            
+            <!-- box verde destra -->
+            <div class="box-verdi-footer">
+            	<h3>Subscribe to our newsletter</h3>
+                <form action="ajax_iscrNL.asp" name="formNL" id="formNL">
+                	<input placeholder="Your email" type="text" class="validate[required,custom[email]]" id="emailnl" name="email">
+                    <input type="submit" value="Subscribe" id="button-newsletter-subscribe">
+                </form>
+            </div><!-- // box verde destra -->  
+            
+            <div class="clear-both"></div>
+        </div>
+      </div>
+      
+      <div id="pcFooter10menu">  
+      	<div class="footer-box">
+        	<ul><li><a href="about-us.htm">About Us</a></li><li><a href="contacts.htm">Contacts</a></li><li><a href="it-infrastructure.htm">IT Infrastructure</a></li><li><a href="social-responsibility.htm">Social Responsibility</a></li><li><a href="work-with-us.htm">Work with Us</a></li><li><a href="mailup-terms-and-conditions.htm" rel="nofollow">Terms and Conditions</a></li><li id="footerMenuPrivacy"><a href="privacy-policy.htm" rel="nofollow">Privacy</a></li></ul>
+        </div>
+      </div>
+      <div id="pcFooter10sitemap"> 
+      	<div class="footer-box">  
+        	
+      		<div id="pcFooter10sitemap01" class="footer-box-sitemap"> 
+        		<a href="create-email-campaign.htm"><b>What it does</b></a>
+                <ul class="first-col">
+                	<li><a href="create-email-campaign.htm">Email</a></li>
+                    <li><a href="smtp-relay-service.htm">SMTP Relay</a></li>
+                	<li><a href="sms-text-campaign.htm">Text (SMS)</a></li>
+                	<li><a href="social-media-marketing.htm">Social</a></li>
+                </ul>
+            </div>
+      		<div id="pcFooter10sitemap02" class="footer-box-sitemap"> 
+            	<a href="email-marketing-solution.htm"><b>Why use it</b></a>
+                <ul class="first-col">    
+                    <li><a href="create-email-campaign.htm">Features</a></li>
+                	<li><a href="sending-delivering-messages.htm">Deliverability</a></li>
+                	<li><a href="pay-per-speed-email-marketing.htm">Flat pricing</a></li>
+                	<li><a href="email-marketing-ecommerce-stores.htm">Ecommerce ready</a></li>
+                	<li><a href="mailup-api-web-services-integrations.htm">API &amp; Plugins</a></li>
+                </ul>                
+            </div>
+      		<div id="pcFooter10sitemap03" class="footer-box-sitemap"> 
+            	<a href="mailup-customers.htm"><b>Customers</b></a>
+                <ul class="first-col">    
+                	<li><a href="direct-marketing-success-stories.htm">Success stories</a></li>
+                	<li><a href="mailup-customers.htm">Among our clients</a></li>
+                    <li><a href="mailup-free-trial.htm">Give it a try!</a></li>
+                	<li><a href="https://www.mailup.com/p/pc/login">Login</a></li>
+                </ul>                
+            </div>
+      		<div id="pcFooter10sitemap04" class="footer-box-sitemap"> 
+            	<a href="pay-per-speed-email-marketing.htm"><b>Pricing</b></a>
+                <ul class="first-col">    
+                	<li><a href="pay-per-speed-email-marketing.htm">Email</a></li>
+                	<li><a href="text-messaging-campaign-pricing.htm">Text (SMS)</a></li>
+                    <li><a href="email-marketing-options.htm#servizi">Custom solutions</a></li>
+                    <li><a href="contacts.htm">Contact us</a></li>
+                </ul>                
+            </div>
+      		<div id="pcFooter10sitemap05" class="footer-box-sitemap"> 
+            	<a href="email-marketing-options.htm"><b>More</b></a>
+                <ul class="first-col"> 
+                	<li><a href="email-marketing-options.htm#base">Most popular</a></li>
+                	<li><a href="email-marketing-options.htm#avanzate">Other options</a></li>
+                	<li><a href="email-marketing-options.htm#servizi">Other services</a></li>
+                </ul>                
+            </div>
+      		<div id="pcFooter10sitemap07" class="footer-box-sitemap"> 
+            	<a href="mailup-subscription-management.htm"><b>Getting started</b></a>
+                <ul class="first-col">
+                    <li><a href="mailup-free-trial.htm">Request a free trial</a></li>
+                    <li><a href="mailup-subscription-management.htm">Manage your account</a></li>
+                    <li><a href="email-marketing-for-agencies-mailup.htm">MailUp for agencies</a></li>
+                    <li><a href="customer-service-request-d108.htm">Contact sales</a></li> 
+					
+                       <li><a href="https://www.mailup.com/p/pc/login">Login</a><span class="text-green"><!-- - </span><a href="register.htm">Register</a>--></span></li>
+                          
+                </ul>                
+            </div>
+      		<div id="pcFooter10sitemap06" class="footer-box-sitemap"> 
+                <ul class="first-col">
+                	<li><a href="mailup-free-trial.htm">Free trial</a></li>
+                    <li><a href="pay-per-speed-email-marketing.htm"><span style="white-space:nowrap;">Quick Quote</span></a></li>
+                	<li><a href="/News-d150.htm">News</a></li>
+                    <li><a href="http://blog.mailup.com" target="_blank">Blog</a></li>
+                   	<li><a href="email-marketing-resources.htm">Resources</a></li>
+                    <li><a href="technical-support.htm">Support</a></li>
+                </ul>                
+            </div>
+            <div class="clear-both"></div>
+        </div>
+      </div>
+
+<script type="text/javascript">
+	<!--
+		$(document).ready(function()
+		{
+			var hb_local, hb_timeout;
+			// Heartbeat
+			hb_local = { request: function () {
+					clearTimeout(hb_timeout);
+					var request = $.ajax({ url: '/hb.asp', type: 'GET', cache: false, data: {}, contentType: 'application/json; charset=utf-8' });
+					request.success(function (dats) { hb_timeout = setTimeout(hb_local.request, 900000); });
+					request.error(function (err) { hb_timeout = setTimeout(hb_local.request, 900000); });
+			}};
+			hb_timeout = setTimeout(hb_local.request, 900000);
+			// end Heartbeat
+		});
+	-->
+</script>
+
+<!-- ShareThis -->
+
+<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="//ws.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'3c510ed5-bad5-471c-9a8a-7cec042afae5'});</script>
+<!-- END ShareThis -->
+</div>
+
+<!-- Google Code for Remarketing Tag -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 995068349;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/995068349/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- END - Google Code for Remarketing Tag -->
+<script src="//www.vivocha.com/a/mailupusa/api/vivocha.js"></script>
+
+</body></html>
