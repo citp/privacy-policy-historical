@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctionmaxx.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220081153id_/http%3A//www.auctionmaxx.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionmaxx.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420214758id_/http%3A//auctionmaxx.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # AuctionMaxx Online Auctions || Mississauga's Misguided Freight, Lost and Sold and Lost in Transit Auctions!
 
