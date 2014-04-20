@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the labkhand.me privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219062415id_/http%3A//www.labkhand.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labkhand.me privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420081158id_/http%3A//www.labkhand.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Smile
 
