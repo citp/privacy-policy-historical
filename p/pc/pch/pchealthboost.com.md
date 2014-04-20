@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pchealthboost.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101125028id_/http%3A//www.pchealthboost.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pchealthboost.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420033710id_/http%3A//www.pchealthboost.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | PCHealthBoost.com
+# PC HealthBoost® — Clean Up Your PC
 
 Your privacy is important to Boost Software, Inc. ("Boost"). This Privacy Policy describes the information practices for the Boost Sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. As described below, this statement also applies to your other interactions with Boost, such as when you license software subject to an End-User License Agreement or enter into Terms of Service for a Boost offering, or provide information to Boost at a trade show or other event. 
 
