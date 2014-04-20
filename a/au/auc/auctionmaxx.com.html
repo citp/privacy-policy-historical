@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the auctionmaxx.com privacy policy that was archived on 2013-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131220081153id_/http%3A//www.auctionmaxx.com/Home/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the auctionmaxx.com privacy policy that was archived on 2014-04-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140420214758id_/http%3A//auctionmaxx.com/Home/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1" prefix="og: http://ogp.me/ns#">
     <base href="http://www.auctionmaxx.com/">
@@ -12,70 +12,39 @@
     <meta name="distribution" content="GLOBAL">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-
-<!--    <meta http-equiv="refresh" content="55" />-->
-
     <link href="/Content/Images/favicon.ico" rel="shortcut icon" type="image/x-icon">
-
-    <!-- jQuery -->
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 	<script type="text/javascript" src="Scripts/jquery.timers-1.1.2.js"></script>
 	<script type="text/javascript" src="Scripts/jquery.cookie.js"></script>
-    
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.17/jquery-ui.min.js"></script>
-    
     <script type="text/javascript" src="Scripts/jquery.numberformatter-1.1.0.js"></script>
-
-
-
     <link type="text/css" href="Content/css/smoothness/jquery-ui-1.8.17.custom.css" rel="Stylesheet">
-
-    <!-- time picker -->
     <link type="text/css" href="Content/css/jquery.ptTimeSelect.css" rel="Stylesheet">
     <script type="text/javascript" src="Scripts/jquery.ptTimeSelect.js"></script>
-
-    <!-- additional datepicker regional settings added manually by rainworx -->
     <script type="text/javascript" src="Scripts/jquery-ui-i18n.rainworx.js"></script>
-    <!-- standard datepicker regional settings -->
     <script type="text/javascript" src="Scripts/jquery-ui-i18n.min.js"></script>
-
-    <script type="text/javascript" src="Scripts/jquery.ui.stars.js"></script><!-- todo: update stars plugin to latest when official jquery 1.6+ version is available -->
+    <script type="text/javascript" src="Scripts/jquery.ui.stars.js"></script>
 	<link type="text/css" href="Content/css/jquery.ui.stars.css" rel="Stylesheet">
-
-    <!-- AJAX -->
     <script type="text/javascript" src="Scripts/FrameWorx.js"></script>
     <script type="text/javascript" src="Scripts/swfupload.js"></script>
     <script type="text/javascript" src="Scripts/jquery-asyncUpload-0.1.js"></script>
     <script type="text/javascript" src="Scripts/json2.js"></script>
-
-<!-- // auctionmaxx.com - jquery countdown for listing end time -->
-    <script src="Scripts/jquery.countdown.min.js" type="text/javascript"></script>
-<!-- // auctionmaxx.com - jquery for print preview -->
+   <script src="Scripts/jquery.countdown.min.js" type="text/javascript"></script>
     <script src="Scripts/jquery.printThis.js" type="text/javascript"></script>
-<!-- // auctionmaxx.com - jquery for tool tips -->
     <script src="Scripts/jquery.qtip-1.0.0-rc3.min.js" type="text/javascript"></script>
-
-    <!-- CSS -->
 	<link type="text/css" href="Content/css/reset.css" rel="stylesheet">
-    <link type="text/css" href="Content/css/Template/002.css" rel="stylesheet">
+    <link type="text/css" href="Content/css/Template/005.css" rel="stylesheet">
     <!--[if IE 8]>
     <link type="text/css" href="Content/css/Template/IE8001.css" rel="stylesheet" />
     <![endif]-->
-
-
-    <!-- jQuery lightBox plugin -->
     <script type="text/javascript" src="Scripts/jquery.lightbox-0.5.js"></script>
 	<link type="text/css" href="Content/css/jquery.lightbox-0.5.css" rel="stylesheet">
-
-    <!-- fonts -->
 	<link rel="stylesheet" href="Content/fonts/am_font/stylesheet.css">
 	<link rel="stylesheet" href="Content/fonts/fa/css/font-awesome.min.css">
 	<!--[if IE 7]>
 	<link rel="stylesheet" href="Content/fonts/fa/css/font-awesome-ie7.min.css"/>
 	<![endif]-->	
-
-
-
+    
         <title>AuctionMaxx Online Auctions  ||  Mississauga's Misguided Freight, Lost and Sold and Lost in Transit Auctions!</title>
     
 
@@ -105,25 +74,14 @@
         });
         if ('' != "") $("#FullTextQuery").val('');
     });
-
-// auctionmaxx.com - reload the page
     function reloadPage() {
         document.location.reload();
     }
-
-// auctionmaxx.com - alert error
     function alertError(error) {
         window.alert(error);
     }
-
-// auctionmaxx.com - simple dropdown using jquery - todo: change dropdown later
     $(document).ready(function () {
         $(" .dropdown ul ").css({ display: "none" });
-//        $(" .dropdown li ").hover(
-//            function () { $(this).find('ul:first').css({ visibility: "visible", display: "none" }).slideDown(400); },
-//            function () { $(this).find('ul:first').slideUp(400); }
-//        );
-
         $(' .dropdown li').hover(
             function () {
                 $(this).closest('li').find('>ul').css({ 'opacity': 0 }).show().animate({'opacity': 1 }, 300);
@@ -132,34 +90,6 @@
                 $(this).closest('li').find('>ul').fadeOut(200, function () { $(this).hide(); } );
             }
         );
-
-        // auctionmaxx.com - obtain the total number of successful auctions
- //       Proxy.invoke("GetNumberOfSuccessfulAuctions", {},
- //           function (result) {
- //               $('#AuctionCounts').append(result + '.&nbsp;');
- //           },
- //           alertError
- //       );
-
-        // auctionmaxx.com - obtain the total number of successful auctions last week
- //       Proxy.invoke("GetNumberOfSuccessfulAuctionsLastWeek", {},
- //           function (result) {
- //               $('#AuctionCounts').append(result + '.&nbsp;');
- //           },
- //           alertError
- //       );
-
-        // auctionmaxx.com - obtain the total number of registered users
-        Proxy.invoke("GetNumberOfRegisteredUsers", {},
-            function (result) {
-                $('#UserCounts').append(' | ' + result);
-            },
-            alertError
-        );
-
-        // auctionmaxx.com 
-        //$("#Menu_Middle").click(reloadPage);
-
     });
 </script>
 <div id="Container">
@@ -170,6 +100,7 @@
  
         <div class="topmessage">
         </div>
+        <p style="margin:0px;"><img style="float:right;height:30px;margin:-7px 0 0 15px;" src="/Content/Images/auctionmaxx-is-canadian.jpg"></p>
 <!--		<a href="/Account/LogOn">Sign In</a>  -->
 			<a href="/Account/LogOn">Sign In&nbsp;<i class="icon-signin icon-large"></i></a>
         &nbsp;&nbsp;|&nbsp;&nbsp;
@@ -179,15 +110,11 @@
     </div>
 </div>
     </div><!--- Column12  -->
-
     <div class="Column12">
         <div id="Logo">
             <a href=""><img class="no-op" src="/Content/Images/header-logo.png" alt="AuctionMaxx Auctions Mississauga"></a>
         </div>
-        <!--<div id="dbanner">
-        	<img src="/Content/Images/details-banner.png" alt="Unclaimed Freight, Free Pickup, No Fees or Buyer Premiums">
-        </div>-->
-                <div class="top-advanced-link"><a href="/Search">Advanced Search</a>&nbsp;<i class="icon-double-angle-right"></i></div>
+        <div class="top-advanced-link" style="position:relative;z-index:99999 !Important;"><a href="/Search">Advanced Search</a>&nbsp;<i class="icon-double-angle-right"></i></div>
 
     </div><!--- Column12 -->
     <div class="Column12">
@@ -197,7 +124,6 @@
                 <div id="Menu_Top_Right"></div>
                 <div class="Menu_Top_Link"><i class="icon-home"></i>&nbsp;<a href="/">Home</a></div>
                 <div class="Menu_Top_Link">
-
                     <ul class="dropdown">
                     <li style="height:35px;">
                         <i class="icon-legal"></i>&nbsp;<a href="/Browse">What's For Sale</a>&nbsp;<i class="icon-angle-down"></i>
@@ -219,7 +145,7 @@
 	            		<i class="icon-tasks"></i>&nbsp;<a href="/Account">My Maxx</a>&nbsp;<i class="icon-angle-down"></i>
 						<ul class="sub_menu">
                             <li><a href="/Account/Bidding/Watching">My Watchlist</a></li>
-                            <li><a href="/Account/Bidding/Active">Active Bids</a></li>
+                            <li><a href="/Account/Bidding/Active">Current Bids</a></li>
                             <li><a href="/Account/Bidding/Won">Won Auctions</a></li>
                             <li><a href="/Account/AddressManagement">Address Book</a></li>
 							<li><a href="/Account/PropertyManagement/38">Account Details</a></li>
@@ -250,12 +176,10 @@
                     </ul>
                 </div>
 
-
             </div><!-- Menu_Top -->
             <div id="Menu_Middle">
                 <div id="Search_Basic">
 <form action="/Search" method="get">
-                    
                     <a class="searchrefreshbutton" href="javascript:document.location.reload();"><i class="icon-refresh"></i></a>
                     <input id="FullTextQuery" name="FullTextQuery" size="40" type="text" value="Enter Keywords">
                     <button type="submit" id="MenuSearch_Button" value="" name="Search"><i class="icon-search"></i>&nbsp;Search</button>
@@ -298,37 +222,37 @@
         
              <li class="CategoryList">        
               <a href="/Browse/C2819172/Books">Books</a>
-              (116)              
+              (203)              
               </li>                 
           
              <li class="CategoryList">        
               <a href="/Browse/C2819188/Movies">Movies</a>
-              (3)              
-              </li>                 
-          
-             <li class="CategoryList">        
-              <a href="/Browse/C2819224/Music">Music</a>
               (2)              
               </li>                 
           
              <li class="CategoryList">        
+              <a href="/Browse/C2819224/Music">Music</a>
+              (3)              
+              </li>                 
+          
+             <li class="CategoryList">        
               <a href="/Browse/C2819208/Video_Games">Video Games</a>
-              (41)              
+              (4)              
               </li>                 
           
              <li class="CategoryList">        
               <a href="/Browse/C160648/Automotive_Industrial">Automotive &amp; Industrial</a>
-              (118)              
+              (204)              
               </li>                 
           
              <li class="CategoryList">        
               <a href="/Browse/C380184/Womens_Clothing_Shoes_Accessories">Women's Clothing, Shoes &amp; Accessories</a>
-              (72)              
+              (134)              
               </li>                 
           
              <li class="CategoryList">        
               <a href="/Browse/C380214/Mens_Clothing_Shoes_Accessories">Men's Clothing, Shoes &amp; Accessories</a>
-              (39)              
+              (137)              
               </li>                 
           
              <li class="CategoryList">        
@@ -337,58 +261,63 @@
               </li>                 
           
              <li class="CategoryList">        
+              <a href="/Browse/C3116180/School_Supplies">School Supplies</a>
+              (1)              
+              </li>                 
+          
+             <li class="CategoryList">        
               <a href="/Browse/C160651/Electronics_Computers">Electronics &amp; Computers</a>
-              (169)              
+              (75)              
               </li>                 
           
              <li class="CategoryList">        
               <a href="/Browse/C160652/Everything_Else">Everything Else</a>
-              (6)              
+              (7)              
               </li>                 
           
              <li class="CategoryList">        
               <a href="/Browse/C160653/Health_Beauty">Health &amp; Beauty</a>
-              (137)              
+              (98)              
               </li>                 
           
              <li class="CategoryList">        
               <a href="/Browse/C160654/Home_Garden_Pets">Home, Garden &amp; Pets</a>
-              (91)              
+              (226)              
               </li>                 
           
              <li class="CategoryList">        
               <a href="/Browse/C401805/Hobbies_Art_Collectibles">Hobbies, Art &amp; Collectibles</a>
-              (32)              
+              (26)              
               </li>                 
           
              <li class="CategoryList">        
               <a href="/Browse/C380244/Jewellery">Jewellery</a>
-              (54)              
+              (10)              
               </li>                 
           
              <li class="CategoryList">        
               <a href="/Browse/C160655/Musical_Instruments">Musical Instruments</a>
-              (5)              
+              (4)              
               </li>                 
           
              <li class="CategoryList">        
               <a href="/Browse/C160656/Office_Store_Supplies">Office &amp; Store Supplies</a>
-              (46)              
+              (47)              
               </li>                 
           
              <li class="CategoryList">        
               <a href="/Browse/C160657/Sports_Fitness_Outdoors">Sports, Fitness &amp; Outdoors</a>
-              (18)              
+              (85)              
               </li>                 
           
              <li class="CategoryList">        
               <a href="/Browse/C160658/Tools_Home_Improvement">Tools &amp; Home Improvement</a>
-              (105)              
+              (84)              
               </li>                 
           
              <li class="CategoryList">        
               <a href="/Browse/C160659/Toys_Kids_Board_Games">Toys, Kids &amp; Board Games</a>
-              (30)              
+              (26)              
               </li>                 
   
 </ul>
@@ -399,23 +328,17 @@
 	<h2>Newest Listings</h2>
     <ul>
 
-        <li><span class="ni1"><i class="icon-caret-right"></i>&nbsp;&nbsp;</span><span class="ni2"><a href="/Listing/Details/8764251">31 ASSORTED INK JET PRINTER CATRIDGES</a></span></li>
+        <li><span class="ni1"><i class="icon-caret-right"></i>&nbsp;&nbsp;</span><span class="ni2"><a href="/Listing/Details/14726377">4 USED EMERGI-LITE EMERGENCY LIGHTS</a></span></li>
 
-        <li><span class="ni1"><i class="icon-caret-right"></i>&nbsp;&nbsp;</span><span class="ni2"><a href="/Listing/Details/8764186">NEW LOLE FINALIST YOGO PANTS WOMEN'S XS</a></span></li>
+        <li><span class="ni1"><i class="icon-caret-right"></i>&nbsp;&nbsp;</span><span class="ni2"><a href="/Listing/Details/14726330">NEW GEN-LITE 3PC CERAMIC LAMP SET</a></span></li>
 
-        <li><span class="ni1"><i class="icon-caret-right"></i>&nbsp;&nbsp;</span><span class="ni2"><a href="/Listing/Details/8763890">2 NEW SYLVANIA LED FLUTE LIGHTS</a></span></li>
+        <li><span class="ni1"><i class="icon-caret-right"></i>&nbsp;&nbsp;</span><span class="ni2"><a href="/Listing/Details/14726288">NEW HOME STUDIO POLYESTER ACCENT CHAIR</a></span></li>
 
-        <li><span class="ni1"><i class="icon-caret-right"></i>&nbsp;&nbsp;</span><span class="ni2"><a href="/Listing/Details/8763852">2 NEW SYLVANIA LED FLUTE LIGHTS</a></span></li>
+        <li><span class="ni1"><i class="icon-caret-right"></i>&nbsp;&nbsp;</span><span class="ni2"><a href="/Listing/Details/14726108">NEW ENVIROTECH 9" PILLOWTOP GEL MEM. FOAM MATTRESS</a></span></li>
 
-        <li><span class="ni1"><i class="icon-caret-right"></i>&nbsp;&nbsp;</span><span class="ni2"><a href="/Listing/Details/8763702">2 NEW SYLVANIA LED FLUTE LIGHTS</a></span></li>
+        <li><span class="ni1"><i class="icon-caret-right"></i>&nbsp;&nbsp;</span><span class="ni2"><a href="/Listing/Details/14726034">NEW ENVIROTECH 9" PILLOWTOP GEL MEM. FOAM MATTRESS</a></span></li>
 
-        <li><span class="ni1"><i class="icon-caret-right"></i>&nbsp;&nbsp;</span><span class="ni2"><a href="/Listing/Details/8763488">2 NEW SYLVANIA LED FLUTE LIGHTS</a></span></li>
-
-        <li><span class="ni1"><i class="icon-caret-right"></i>&nbsp;&nbsp;</span><span class="ni2"><a href="/Listing/Details/8763182">2 NEW SYLVANIA LED FLUTE LIGHTS</a></span></li>
-
-        <li><span class="ni1"><i class="icon-caret-right"></i>&nbsp;&nbsp;</span><span class="ni2"><a href="/Listing/Details/8762606">NEW KAIZEN NATURAL NEW ZEALAND WHEY PROTEIN 2LB</a></span></li>
-
-        <li><span class="ni1"><i class="icon-caret-right"></i>&nbsp;&nbsp;</span><span class="ni2"><a href="/Listing/Details/8762445">NEW KAIZEN NATURAL NEW ZEALAND WHEY PROTEIN 2LB</a></span></li>
+        <li><span class="ni1"><i class="icon-caret-right"></i>&nbsp;&nbsp;</span><span class="ni2"><a href="/Listing/Details/14725963">NEW ENVIROTECH 9" PILLOWTOP GEL MEM. FOAM MATTRESS</a></span></li>
 
     </ul>
     </div>
@@ -447,11 +370,9 @@
 
 
     <div class="Column12" id="Footer">
-            <div id="UserCounts" class="usersonline"> </div>
-            <div id="AuctionCounts" class="timenote"></div>
-<!--            <div id="Time"> --> <!--span #Time required for AJAX time -->
+    	<div class="usersonline">4877 Registered Users</div>
 			<div class="timenote">
-                <i class="icon-warning-sign"></i>&nbsp;Prices &amp; Bid info displayed are current as of Friday, December 20, 2013 3:11 AM. For up to date information please <span class="refresh_button"><a href="javascript:document.location.reload();"><i class="icon-refresh"></i>&nbsp;refresh</a></span> the page!
+                <i class="icon-warning-sign"></i>&nbsp;Prices &amp; Bid info displayed are current as of Sunday, April 20, 2014 5:47 PM. For up to date information please <span class="refresh_button"><a href="javascript:document.location.reload();"><i class="icon-refresh"></i>&nbsp;refresh</a></span> the page!
             </div>
             <div class="DIVclear0"></div>
         <div id="RegionCurrencyRow">
@@ -515,10 +436,9 @@
 	</p>
 	</div>
     <div id="Copyright">
-        © 2013 AuctionMaxx.com.  All Rights Reserved.<br>
+        © 2014 AuctionMaxx.com.  All Rights Reserved.<br>
 <!--        No part of this web page may be reproduced in any way without the prior written permission of AuctionMaxx.com.  -->
     </div>
 </div>
-
 
 </div></div></div></body></html>
