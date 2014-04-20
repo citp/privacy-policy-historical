@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alteryx.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202104014id_/http%3A//www.alteryx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alteryx.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420121412id_/http%3A//www.alteryx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Big Data Analytics, Strategic Analytics | Alteryx
 
