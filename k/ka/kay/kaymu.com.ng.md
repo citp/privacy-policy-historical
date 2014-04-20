@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaymu.com.ng privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220112930id_/http%3A//www.kaymu.com.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaymu.com.ng privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420112237id_/http%3A//www.kaymu.com.ng/privacy-policy) for the most accurate reproduction.*
 
 # Kaymu - Privacy and Confidentiality
 
@@ -36,7 +36,7 @@ We may disclose personal information to respond to legal requirements, enforce o
 
 3\. Other third parties to whom you explicitly ask us to send your information (or about whom you are otherwise explicitly notified and consent to when using a specific service).
 
-4\. Law enforcement agencies, other governmental agencies or third parties in response to a request for information relating to a criminal investigation, alleged illegal activity or any other activity that may expose us, you or any other KAYMU user to legal liability. The personal information we disclose may include your User ID and User ID history, name, city, county, telephone number, email address, fraud complaints and bidding and listing history or anything else that we deem relevant.
+4\. Law enforcement agencies, other governmental agencies or third parties in response to a request for information relating to a criminal investigation, alleged illegal activity or any other activity that may expose us, you or any other KAYMU user to legal liability. The personal information we disclose may include your User ID and User ID history, name, city, county, telephone number, email address, fraud complaints and listing history or anything else that we deem relevant.
 
 5\. Other agencies in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity, as we in our sole discretion believe necessary or appropriate, either under confidentiality agreement or as required by law. In such circumstances, we may disclose name, street address, city, county, postcode, country, phone number, email address and company name.
 
