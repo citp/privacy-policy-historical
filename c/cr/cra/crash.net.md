@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crash.net privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501232644id_/http%3A//www.crash.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crash.net privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420184040id_/http%3A//www.crash.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Crash.Net
 
