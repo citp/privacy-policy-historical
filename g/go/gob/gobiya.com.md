@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gobiya.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024045748id_/http%3A//www.gobiya.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobiya.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420031700id_/http%3A//www.gobiya.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -30,3 +30,5 @@ If you would like to correct your information please submit the changes request 
 If you feel that we are not following the rules stated above to please contact us at the information above or by our contact form.
 
 ### Thank you – The Gobiya Team
+
+Comments are closed.
