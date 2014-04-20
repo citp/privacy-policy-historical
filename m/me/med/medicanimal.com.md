@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicanimal.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029235844id_/https%3A//www.medicanimal.com/viewusarticle/%7EPrivacy-Policy/%7EcontentId%3DMA30005/%7EcurContentId%3DUS_ABOUT_US/%7EcurSubContentId%3DMA30005) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicanimal.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420084002id_/https%3A//www.medicanimal.com/viewusarticle/%7EPrivacy-Policy/%7EcontentId%3DMA30005/%7EcurContentId%3DUS_ABOUT_US/%7EcurSubContentId%3DMA30005) for the most accurate reproduction.*
 
 # View Content
 
