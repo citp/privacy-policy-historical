@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getsatisfaction.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211072807id_/https%3A//getsatisfaction.com/corp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsatisfaction.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420124740id_/https%3A//getsatisfaction.com/corp/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Get Satisfaction
 
@@ -166,4 +166,4 @@ San Francisco, California 94103
 
 **Effective August 19, 2013**
 
-**[Older privacy policies[03/25/2013](https://web.archive.org/web/20131211072807id_/https://getsatisfaction.com/corp/privacy-policy/privacy-pre-03-25-2013.php)]**
+**[Older privacy policies[03/25/2013](https://web.archive.org/web/20140420124740id_/https://getsatisfaction.com/corp/privacy-policy/privacy-pre-03-25-2013.php)]**
