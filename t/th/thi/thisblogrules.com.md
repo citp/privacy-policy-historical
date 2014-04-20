@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thisblogrules.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205172209id_/http%3A//www.thisblogrules.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisblogrules.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420020421id_/http%3A//www.thisblogrules.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » This Blog Rules | Why go elsewhere?
-
-## Privacy Policy
+# Privacy Policy | This Blog Rules | Why go elsewhere?
 
 ThisBlogRules.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
