@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dja.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124082636id_/http%3A//www.dja.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dja.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420155237id_/http%3A//dja.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | DJA - Don Jagoda Associates, Inc.
 
