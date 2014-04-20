@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scotch-soda.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015224525id_/http%3A//www.scotch-soda.com/en/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotch-soda.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420025723id_/http%3A//www.scotch-soda.com/en/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Scotch & Soda
 
