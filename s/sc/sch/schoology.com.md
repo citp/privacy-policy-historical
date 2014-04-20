@@ -1,20 +1,68 @@
-> *The following text is extracted and transformed from the schoology.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524142714id_/http%3A//www.schoology.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoology.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420182232id_/https%3A//www.schoology.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use | Schoology
 
 ## Privacy Policy & Terms of Use
 
-**Effective: 12/13/2011**
+**Effective: 1/10/2014**
 
 ### Terms and Conditions
 
 Schoology (the "Service") provided by Schoology, Inc. ("Schoology") with permission of your local school, local school district, teacher, or other responsible education authority (the "Subscriber") is made available to you (the "User") subject to the following Terms and Conditions in the Schoology Service Agreement (the "Agreement"). By using and accessing this Service located at www.schoology.com, you are agreeing to be bound by, and to comply with, these Terms and Conditions and any other terms and conditions or terms of service posted on any individual page of this Service.
 
-Schoology is a cloud-based learning management system and configurable social network for education. The platform provides a full suite of learning management tools, including an online gradebook, attendance, test/quizzes, discussion boards, blogs, and collaborative course and group pages. In order to promote student and teacher engagement, Schoology aims to leverage the familiarity and advantages of popular social media tools to promote communication and collaboration outside of the classroom. The social network permits multiple organizations to participate in shared classes, groups, and discussions. 
+Schoology is a cloud-based learning management system and configurable social network for education. The platform provides a full suite of learning management tools, including an online gradebook, attendance, test/quizzes, discussion boards, blogs, and collaborative course and group pages. In order to promote student and teacher engagement, Schoology aims to leverage the familiarity and advantages of popular social media tools to promote communication and collaboration outside of the classroom. The social network permits multiple organizations to participate in shared classes, groups, and discussions.
 
-Schoology, Inc has been awarded TRUSTe's Privacy and Children's Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. This privacy policy covers the Web site www.schoology.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at help@schoology.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+Schoology has received TRUSTe's Privacy Seal and Children’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification only covers the site [www.schoology.com](https://www.schoology.com/). If you have any questions or concerns regarding our privacy policy or practices, please contact us at [help@schoology.com](mailto:help@schoology.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+
+Schoology participates in the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor as set forth by the United States Department of Commerce. As part of our [participation](https://www.export.gov/safehrbr/list.aspx) in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](https://feedback-form.truste.com/watchdog/request), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about-TRUSTe/contact-us). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click [here](http://www.truste.com/products-and-services/dispute-resolution-services/) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
 
 Schoology complies with the U.S.- E.U. Safe Harbor framework and the U.S.- Swiss Safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from the European Union member countries and Switzerland. Schoology has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Schoology's certification, please visit http://www.export.gov/safeharbor.
+
+### Usage of Schoology by Students
+
+If a student is under the age of 13, a parent or legal guardian must give consent for the child to use Schoology.
+
+Schoology collects limited personal information from minor students only where that student’s school, district, or teacher has contracted with Schoology to collect personal information for the use and benefit of the learning environment.
+
+Schoology requires schools, districts, or teachers to obtain parental consent from parents.
+
+If you believe that a student’s school, district, or teacher has not required parental consent prior to our collection of any personal information, contact us at help@schoology.com.
+
+### Standard Provisions
+
+**If you are a student, the following provisions also apply:**
+
+  * Be careful who you share your information with while using Schoology.
+  * You must get your parent or guardian to read these Terms before using Schoology.
+  * You will only register for and access Schoology as a student registrant, and not as a teacher, parent, or any other category of user.
+  * You will only access Schoology using the access code given to you by your teacher. You may not use any access codes which you receive from other students or which you did not receive directly from your teacher.
+
+
+
+**If you are accessing Schoology on behalf of a School or District, the following provisions also apply:**
+
+  * You represent and warrant that you are solely responsible for complying with the Child Online Privacy Protection Act (COPPA), which requires parental consent for online collection of personal information from children under 13.
+  * You must obtain verifiable parental consent (“Consent”) from all parents whose children will be accessing Schoology and provide a copy to us upon our request. For more information on COPPA, please see www.ftc.gov/privacy.
+  * When obtaining Consent, you must provide parents with a copy of our Privacy Policy.
+  * You will only grant access codes to teachers and staff members who are current employees of your school or district. Upon termination of a teacher or other staff member’s employment with you, you will require such individual to return and cease using all access codes he or she has in his or her possession. If at any time you learn a user of Schoology claims to be affiliated with your school or district who is not, in fact, affiliated with your school or district, you will notify Schoology immediately.
+
+
+
+**If you are accessing Schoology as a Teacher, the following provisions also apply:**
+
+  * You represent and warrant that you have permission from your school or district to enter into these Terms, to use Schoology as part of your curriculum, and that you have the authority to bind your school or district to these Terms.
+  * You represent and warrant that you are solely responsible for complying with COPPA, which requires verifiable parental consent for online collection of personal information from children under 13.
+  * You must obtain Consent from all parents whose children under 13 will be accessing Schoology and provide a copy to us upon our request. For more information on COPPA, please see www.ftc.gov/privacy.
+  * When obtaining Consent, you must provide parents with a copy of our Privacy Policy.
+
+
+
+**If you are accessing Schoology as a Parent, the following provisions also apply:**
+
+  * You will only use the parent code(s) provided to you by your child or children’s teacher.
+  * You understand that your acceptance of these Terms indicates that you are agreeing to these Terms both on your own behalf as well as on behalf of your child or children who use Schoology. Children under 13 must not use Schoology until after a parent has accepted these Terms on their behalf.
+
+
 
 ### Changes in this Privacy Policy
 
@@ -24,7 +72,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ### Internet Privacy & Security
 
-Schoology and your school work together to protect the online privacy of all of your school community members that use Schoology, including students, parents, teachers, and administrators. Schoology information collection, security, and privacy policies have been authorized by your school or teacher, and Schoology strives to manage your school's internet services in a secure manner. For example, Schoology uses industry standard SSL (secure socket layer) encryption to transfer private, personal information, the same technology used by online banks. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure, and Schoology cannot ensure or warrant the security of any information managed by the site, whether transmitted to Schoology by you, your school, or your teacher. By agreeing to Schoology's privacy policy and terms of use, you agree to use Schoology at your own risk, and agree that Schoology shall not be liable if a security breach occurs, if the site malfunctions, or if information is misused or mismanaged in any way to your detriment or the detriment of a third party, whether by Schoology, your school, your teacher, or an unauthorized third party. 
+Schoology and your school work together to protect the online privacy of all of your school community members that use Schoology, including students, parents, teachers, and administrators. Schoology information collection, security, and privacy policies have been authorized by your school or teacher, and Schoology strives to manage your school's internet services in a secure manner. For example, Schoology uses industry-standard technology called SSL (Secure Socket Layer). SSL encrypts information transmitted across the internet to and from Schoology. You will know that SSL is working when you see the presence of an image of a closed lock or solid key in the bottom bar of your browser window. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure and “hacker-proof,” and Schoology cannot ensure or warrant the security of any information managed by the site, whether transmitted to Schoology by you, your school, or your teacher. Schoology shall not be liable if a security breach occurs, if the site malfunctions, or if information is misused or mismanaged in any way to your detriment or the detriment of a third party, whether by Schoology, your school, your teacher, or an unauthorized third party.
 
 ### Information Collection & Use of your Personal Information
 
@@ -38,11 +86,15 @@ A child's participation or access to an activity cannot be conditioned on her pr
 
 Parents have the right to consent to the site's use of the child's Personal Information without having to consent to its disclosure of that information to third parties by contacting the school administrator.
 
-As required by your school as part of their information management efforts. For example, if your school uses a certain third party company to manage their classroom scheduling and attendance system, necessary information may be shared with that company to assist in those administrative tasks.
+As required by your school as part of their information management efforts. For example, if your school uses a certain third-party company to manage their classroom scheduling and attendance system, necessary information may be shared with that company to assist in those administrative tasks.
 
 These information collection, management, and disclosure practices apply to parents, teachers, administrators, and students. If you are a parent, you agree that this is acceptable for you as well as any of your children that use Schoology. If you are a teacher, you agree that this is acceptable for you as well as any of your students that use Schoology.
 
 Schoology does not share, sell, rent or trade adult or children's personal information with third parties other than as disclosed within this privacy policy.
+
+We may disclose your or your child’s personally identifiable information in connection with business transfers and purchases. As we continue to develop our business we may buy or sell business divisions or companies, we may merge or combine with another company, or our company itself and/or all or a significant part of its assets may be acquired by another company. We may provide any information we have to a potential counter-party in any such potential transaction. If such a transaction is completed, your or your child’s personally identifiable information may be one of the transferred and shared business assets. In the event that information is shared in this manner, notice will be posted on our Site.
+
+We may also share de-identified and/or aggregated data with others for their own uses.
 
 We reserve the right to disclose your or your child's personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
 
@@ -60,7 +112,7 @@ Schoology does not control the messages, information or files delivered to Discu
 
 Both Schoology and Subscriber reserve the right at all times to disclose any information posted by you or any other user as necessary to satisfy any law, regulation or governmental request, or to edit, refuse to post or to remove any information or materials, in whole or in part, that in Schoology's sole discretion are objectionable or in violation of these terms and conditions.
 
-Your school may use Schoology to host forums for online discussion or message posting about issues important to your community or school. Your school will decide how these online forums are used, including whether they are available to students. These are public forums, and information that users post may be available to other members of the school community, and in some cases even other schools or the public internet. You should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of the forums, and could be used to send you unsolicited messages. You school will decide how it wishes to use online discussion and message boards. We are not responsible for the personally identifiable information you choose to submit in these forums. To request remove of your personal information from our blog or community forum, contact us at [help@schoology.com](mailto:help@schoology.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
+Your school may use Schoology to host forums for online discussion or message posting about issues important to your community or school. Your school will decide how these online forums are used, including whether they are available to students. These are public forums, and information that users post may be available to other members of the school community, and in some cases even other schools or the public internet. You should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of the forums, and could be used to send you unsolicited messages. You school will decide how it wishes to use online discussion and message boards. We are not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at [help@schoology.com](mailto:help@schoology.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
 
 ### Private Messages
 
@@ -80,9 +132,9 @@ You acknowledge that your profile may be viewed by other users of the site, this
 
 ### Testimonials
 
-We post customer testimonials on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. To request remove of your personal information from our testimonials, contact us at help@schoology.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+We post customer testimonials on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. To request removal of your personal information from our testimonials, contact us at help@schoology.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-### Third Party Content
+### Third-Party Content
 
 Schoology is a distributor (and not a publisher) of content supplied by Subscriber, third parties, and visitors. Accordingly, Schoology has no more editorial control over such content than does a public library, bookstore, or newsstand. Any opinions, advice, statements, services, offers, or other information or content expressed or made available by third parties, including information providers, members or any other user of this Service, are those of the respective author(s) or distributor(s) and not of Schoology. Neither Schoology nor any third-party provider of information guarantees the accuracy, completeness, or usefulness of any content, nor its merchantability or fitness for any particular purpose.
 
@@ -106,16 +158,16 @@ We use both session ID cookies and persistent cookies. We use session cookies to
 
 We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
 
-### Third Party Cookies
+### Third-Party Cookies
 
 The use of cookies by our tracking utility company is not covered by our privacy statement. We do not have access or control over these cookies. Our tracking utility company uses session ID cookies to make it easier for you to navigate our site.
 
 ### Links to Other Sites
 
-If you click on a link to a third party site, you will leave the schoology.com site be redirected to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as schoology.com. We encourage you to review the privacy statements of any other service provider from whom you request services. If you visit a third party website that is linked to the schoology.com site, you should read that site's privacy statement before providing any personally identifiable information.
+If you click on a link to a third-party site, you will leave schoology.com and be redirected to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as schoology.com. We encourage you to review the privacy statements of any other service provider from whom you request services. If you visit a third-party website that is linked to the schoology.com site, you should read that site's privacy statement before providing any personally identifiable information.
 
 Schoology, Inc.  
-115 West 30th Street, Suite 602  
+115 West 30th Street, 10th Floor  
 New York, NY 10001  
 Or Call Us at: 212-213-8333  
 
