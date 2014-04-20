@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fix-outlook-express.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629180203id_/http%3A//www.pchealthboost.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fix-outlook-express.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420033710id_/http%3A//www.pchealthboost.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | PCHealthBoost.com
+# PC HealthBoost® — Clean Up Your PC
 
 Your privacy is important to Boost Software, Inc. ("Boost"). This Privacy Policy describes the information practices for the Boost Sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. As described below, this statement also applies to your other interactions with Boost, such as when you license software subject to an End-User License Agreement or enter into Terms of Service for a Boost offering, or provide information to Boost at a trade show or other event. 
 
@@ -72,13 +72,15 @@ If a password is used to help protect your accounts and personal information, it
 
 **Enforcement:** Boost regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this statement or Boost's treatment of personal information by contacting us at the link or address indicated below. 
 
-**Cookies and Tracking Assets:** Boost uses to various technologies to collect and store information when you acquire a Boost product, which may include one or more cookies sent to your device. We also use cookies when you interact with services offered by our partners related to the Boost products, such as product registration, support or related services. A "cookie" is a name for tokens of information that our web site may provide to your browser while you are at those sites. We use cookies to help us and our partners keep track of the referring website and to help our partners identify you as a Boost licensee when you register a Boost Product, or request support or an additional service. 
+**Cookies and Tracking Assets:** Boost uses various technologies to collect and store information when you acquire a Boost product, which may include one or more cookies sent to your device. We also use cookies when you interact with services offered by our partners related to the Boost products, such as product registration, support or related services. A "cookie" is a name for tokens of information that our web site may provide to your browser while you are at those sites. We use cookies to help us and our partners keep track of the referring website and to help our partners identify you as a Boost licensee when you register a Boost Product, or request support or an additional service. 
 
-When you download a Boost product, we will assign you a unique identifier that may include machine and software usage information. Boost maintains a database that associates this identifier with the purchase and registration information you provide to us or our agents. This database is not disclosed to any non-Boost entity. 
+When you download a Boost product, we will assign you a unique identifier that may include machine and software usage information. Boost maintains a database that associates this identifier with the purchase and registration information you provide to our agents or us. This database is not disclosed to any non-Boost entity. 
 
 If you simply want to browse, you do not have to accept cookies from the Boost Sites. Should you decide, however, that you would like to register and login to special areas of a Boost Site or purchase Boost products and you have modified your browser settings not to accept cookies, you will need to re-set your browser to accept the cookies that we send it. Otherwise, you may not be able to participate in certain areas of the Boost Sites or purchase Boost products. Most browsers are defaulted to accept and maintain cookies. These cookies are not tied to your personally identifiable information.
 
 Third party vendors, including Google, may use cookies to serve ads to you while you are using the Boost Sites based on your prior visits. You may opt out of Google's use of cookies by visiting the Google advertising opt-out page.
+
+Google's use of the DoubleClick cookie enables it and its partners to serve ads to Boost Site users based on their visit to our sites and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Google Ads Settings](http://www.google.com/ads/preferences/). Boost Site users may also opt out of all third party vendor's use of cookies for interest-based advertising by visiting aboutads.info.
 
 **Links to Other Sites:** The Boost Sites often provide links to third-party web sites, such as those of our business partners and online advertisers. You should review their privacy policies to learn more about what, why, and how they collect and use personally identifiable information.
 
