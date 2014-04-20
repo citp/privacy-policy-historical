@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stardewvalley.net privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626220553id_/http%3A//www.stardewvalley.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardewvalley.net privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420041552id_/http%3A//www.stardewvalley.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stardew Valley
 
