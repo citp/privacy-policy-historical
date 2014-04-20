@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneid.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828080401id_/https%3A//www.oneid.com/legal/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneid.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420193018id_/https%3A//www.oneid.com/legal/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | OneID Identity Management System
 
