@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the padi.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205092839id_/http%3A//www.padi.com/scuba/privacy-policy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the padi.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420191533id_/http%3A//www.padi.com/scuba/privacy-policy/default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
