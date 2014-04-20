@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hudsonyardsnewyork.com privacy policy that was archived on 2013-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131219050006id_/http%3A//www.hudsonyardsnewyork.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hudsonyardsnewyork.com privacy policy that was archived on 2014-04-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140420205348id_/http%3A//hudsonyardsnewyork.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" webkit chrome linux js"><head>
     <meta charset="utf-8">
@@ -35,7 +35,8 @@
     <!-- Le styles -->
     <link href="/Content/bootstrap.css" rel="stylesheet" type="text/css">
     
-    <link href="/Content/hy.css" rel="stylesheet" type="text/css">
+    <link href="/Content/hy.css" rel="stylesheet" type="text/css" media="all">
+    <link href="/Content/hy-mediaprint.css" rel="stylesheet" type="text/css" media="print">
     <link href="/Content/slider.css" rel="stylesheet" type="text/css">
     <link href="/Content/guide.css" rel="stylesheet" type="text/css">
     <link href="/Content/modal.css" rel="stylesheet" type="text/css">
@@ -60,7 +61,9 @@
     <!-- INLINE SCRIPTS -->
      <!-- SOCIAL MEDIA -->
     <script type="text/javascript">
-        function fbs_click(url) { if (typeof (url) === 'undefined') url = location.href; if (url == '') url = location.href; window.open('http://www.facebook.com/sharer.php?u=' + encodeURIComponent(url) + '&t=' + encodeURIComponent(document.title), 'sharer', 'toolbar=0,status=0,width=626,height=436'); return false; }
+        function shareVideoUrl() { return $(".fancybox-iframe").attr("src"); }
+        function shareTitle() { return $(".fancybox-title").find("b").html(); }
+        function fbs_click(url) { if (typeof (url) === 'undefined') url = location.href; if (url == '') url = location.href; window.open('http://www.facebook.com/sharer.php?u=' + encodeURIComponent(url) + "?v=" + Math.floor((Math.random() * 1000000) + 1), 'sharer', 'toolbar=0,status=0,width=626,height=436'); return false; }
 //        function fbs_shared_image_click(slideshowId, position) { window.open('http://www.facebook.com/sharer.php?u=' + encodeURIComponent(location.protocol + '//' + location.host + location.pathname + (location.search ? location.search : "") + "#" + slideshowId + "-" + position) + '&t=' + encodeURIComponent(document.title), 'sharer', 'toolbar=0,status=0,width=626,height=436'); return false; }
         function twt_click(url, title) {
             if (typeof (url) === 'undefined') url = location.href; if (url == '') url = location.href;
@@ -85,29 +88,31 @@
 <div id="header" class="desktop-visible">
     <div class="container">
         <div id="main-nav">
+           
             <ul class="nav">
                 <li class="hy-logo">
                     <a href="/" class="HYLogo">
                         <img src="http://content.related.com/HYImages/Logos/logo.png" alt="HudsonYards" class="homeLogo">
                     </a>
                 </li>
+                
                          <li> 
-                            <a href="/the-story" class="">The Story</a>
+                            <a href="/the-story" data-secondarycolor="#342B2A" class="">The Story</a>
                          </li>
                          <li> 
-                            <a href="/office" class="">Office </a>
+                            <a href="/office" data-secondarycolor="#026BC5" class="">Office </a>
                          </li>
                          <li> 
-                            <a href="/living-here" class="">Living Here</a>
+                            <a href="/living-here" data-secondarycolor="#DE5206" class="">Living Here</a>
                          </li>
                          <li> 
-                            <a href="/shopping-dining" class="">Shopping &amp; Dining</a>
+                            <a href="/shopping-dining" data-secondarycolor="#AD0038" class="">Shopping &amp; Dining</a>
                          </li>
                          <li> 
-                            <a href="/arts-parks" class="">Arts &amp; Parks</a>
+                            <a href="/arts-parks" data-secondarycolor="#368745" class="">Arts &amp; Parks</a>
                          </li>
                          <li> 
-                            <a href="/news-press" class="">News &amp; Press</a>
+                            <a href="/news-press" data-secondarycolor="#515E66" class="">News &amp; Press</a>
                          </li>
             </ul>
         </div>
@@ -115,6 +120,26 @@
         <div class="hr-line x-background-secondary"></div>
     </div>
 </div>
+
+<script>
+    $(document).ready(function () {
+        $("#main-nav .nav li a").hover(function () {
+            if ($(this).attr("data-secondaryColor") != "") {
+                if (!$(this).hasClass("x-color-secondary")) {
+                    $(this).attr("style", "color:" + $(this).attr("data-secondaryColor") + "!important");
+                }
+            }
+        }, function () {
+            if ($(this).attr("data-secondaryColor") != "") {
+                if (!$(this).hasClass("x-color-secondary")) {
+                    $(this).attr("style", "color: #7d7d7d !important");
+                }
+            }
+        });
+    });
+
+</script>
+
     <!-- /HEADER -->
     <!-- CONTENT BODY -->
     
@@ -122,7 +147,7 @@
 
     <div id="sliderContainer" class="color-">
         <div id="shadow-top"></div>
-            <img id="imageOneItem" src="http://content.related.com/HYHeroShotLibrary/hudson-yards-nyc-10-hudson-yards-high-line-connection-dv-hero-092012.jpg" alt="">
+	            <img id="imageOneItem" src="http://content.related.com/HYHeroShotLibrary/hudson-yards-nyc-10-hudson-yards-high-line-connection-dv-hero-092012.jpg" alt="">
 
         <script type="text/javascript">
 
@@ -348,7 +373,7 @@
                     <li><a href="/website-map" target="_self">Website Map</a> </li>
                     <li><a href="/news-press" target="_self">News &amp; Press</a> </li>
                     <li><a href="/privacy-policy" target="_self">Privacy Policy</a> </li>
-                    <li><a href="/location" target="_self">Location</a> </li>
+                    <li><a href="/the-story/location" target="_self">Location</a> </li>
                     <li><a href="/terms-of-use" target="_self">Terms of Use</a> </li>
                     <li><a href="/library/images" target="_self">Images &amp; Videos</a> </li>
                 <li></li>
@@ -372,7 +397,8 @@
             <a href="http://www.related.com"><img class="related" src="/Content/images/logo_related.jpg" alt="Related"></a>
             <a href="http://www.oxfordproperties.com"><img class="oxford" src="/Content/images/logo_oxford.jpg" alt="Oxford"></a>
             <!-- -->
-            <div class="copyright">© 2013 HUDSON YARDS</div>
+            
+            <div class="copyright"><span title="NJCRWFE07 - 01/22/2014 07:20:04">© 2014 HUDSON YARDS</span></div>
         </div>
     </div>
 </footer>
