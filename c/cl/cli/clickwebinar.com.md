@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickwebinar.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128063311id_/http%3A//www.clickwebinar.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickwebinar.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420060533id_/http%3A//www.clickwebinar.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy - ClickWebinar
 
@@ -158,7 +158,7 @@ We may update this privacy statement to reflect changes to our information pract
 
 We need the user's help in keeping the Personal Information they have shared with us accurate and up-to-date.
 
-For additional inquiries about the privacy of the user's information, they can always contact Implix via email at [support@clickmeeting.com](https://web.archive.org/web/20131128063311id_/http%3A//www.clickwebinar.com/support@clickmeeting.com), by calling 1-877-725-425-2.
+For additional inquiries about the privacy of the user's information, they can always contact Implix via email at [support@clickmeeting.com](https://web.archive.org/web/20140420060533id_/http%3A//www.clickwebinar.com/support@clickmeeting.com), by calling 1-877-725-425-2.
 
 **IMPLIX Sp. z o.o.**  
 ul.Arkońska 6, A3   
