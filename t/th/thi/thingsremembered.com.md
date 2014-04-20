@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thingsremembered.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220113013id_/http%3A//www.thingsremembered.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thingsremembered.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420111915id_/http%3A//www.thingsremembered.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy and Security at Things Remembered
 
