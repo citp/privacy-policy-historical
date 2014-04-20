@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantcustomer.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124083914id_/http%3A//www1.instantcustomer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantcustomer.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420171624id_/http%3A//www1.instantcustomer.com/privacy-policy) for the most accurate reproduction.*
 
 # InstantCustomer.com » Privacy Policy
 
