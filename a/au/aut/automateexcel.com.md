@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automateexcel.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925071038id_/http%3A//www.automateexcel.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automateexcel.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420185102id_/http%3A//www.automateexcel.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Automate Excel » Privacy Policy
 
