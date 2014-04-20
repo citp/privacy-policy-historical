@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playon.tv privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021014718id_/https%3A//www.playon.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playon.tv privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420061243id_/http%3A//www.playon.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PlayOn
 
