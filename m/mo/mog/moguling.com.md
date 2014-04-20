@@ -1,34 +1,97 @@
-> *The following text is extracted and transformed from the moguling.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025005809id_/http%3A//moguling.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moguling.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420073158id_/http%3A//www.fitorbit.com/pages/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy -- Moguling
+# Privacy Policy
 
-### PRIVACY
+**PRIVACY POLICY FITORBIT.COM**
 
-Searchmarketing, LLC (SearchmarketingLLC.com) recognizes the importance of protecting the privacy of personal information regarding our customers and others who visit our web site. Individually identifiable information is not willfully disclosed to any third party without first receiving the permission of said individual, as explained in this privacy policy. 
+FitOrbit.com (the “Site”,” us” or “we”) has adopted this Privacy Policy because we are committed to protecting your privacy. The following Privacy Policy is only in effect for the webpages owned and operated by the Site. 
 
-**Searchmarketing and Cookies**  
-Upon your first visit to Searchmarketing, Searchmarketing sends a "cookie" to your computer. A cookie is a piece of data that identifies you as a unique user. Searchmarketing uses cookies to improve the quality of our website and to understand our user base. Searchmarketing does this by storing user preferences in cookies and by tracking user trends and patterns of how people navigate the web site. Searchmarketing will not disclose its cookies to third parties except as required by a valid legal process such as a search warrant, subpoena, statute, or court order. Note: Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. 
+By using the Site you agree to this Privacy Policy.   
+This Privacy Policy is effective as of January 1, 2011. 
 
-**What Information Do We Collect?**  
-Searchmarketing only collects unique information about you, such as (your name, address, phone number, email address, etc.) when you specifically and knowingly provide such information. Searchmarketing notes and saves information such as time of day, browser type, and IP address with each user session, which is used for statistical purposes only. 
+If you choose to visit the Site, your visit and any dispute over privacy is subject to this Privacy Policy and the Site’s [Terms of Use](http://www.fitorbit.com/pages/terms_of_service?popup=true), including limitations on damages, jurisdiction of disputes and application of the law of the State of California. 
 
-**How Do We Use Information Collected?**  
-Searchmarketing does not share personally identifiable information with outside parties except to the extent necessary to complete contracted service orders, or as required by a valid legal process such as a search warrant, subpoena, statute, or court order; without first receiving your permission, as explained in this privacy policy. 
+If you have any questions about this Privacy Policy, please feel free to contact us at support@fitorbit.com or write to us at:   
+Privacy Policy  
+FitOrbit, Inc.   
+11611 San Vicente Blvd, Suite 515  
+Los Angeles, CA 90049  
+Phone: (424) 652-9650  
 
-The Information you provide Searchmarketing is used to improve the content and/ or layout of our site, used to notify consumers about updates to our web site, used to provide consumers with requested materials and/ or services, used to complete service orders, and/ or used by us to contact consumers for marketing purposes, but is not shared with other organizations for commercial purposes. 
 
-Searchmarketing uses return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
+**1\. INFORMATION THAT YOU GIVE US.**   
+When you register or subscribe to our services, we collect personal information that can identify you (“PII”) such as your full name, email address, mailing address, telephone number. We also may collect PII from you when you contact us or participate in activities that may be available through our services such as: forums; message boards; chats; creating a profile; rating; tagging; commenting on articles or completing surveys. The information that we collect varies depending upon how you use our Service. When you register as a member of the Site, you will need to provide us with health related information that a trainer will need to design your fitness and nutrition plan. That information will be associated with your profile and therefore become PII. When you register as a trainer on the Site, you will need to provide us with information regarding your qualifications in designing fitness and nutrition plans. 
 
-Searchmarketing uses non-identifying and aggregate information to better design our web site and to share with clients, business partners, and other third parties. For example, we may tell an advertiser that X number of individuals visited a certain area on our web site, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
+WE DO NOT KNOWINGLY COLLECT PII FROM CHILDREN UNDER THE AGE OF THIRTEEN. 
 
-**Commitment to Data Security**  
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, Searchmarketing has put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+Please keep in mind that certain features on our Site give you an opportunity to interact with us and others. These may include forums, message boards, chats, creating community profiles, and rating, tagging and commenting on articles. When you use these features you should be aware that any information you submit, including your name, location and email address, may be publicly available to others. We are not responsible for any information you choose to submit through these interactive features. 
 
-**Consent and Changes to the Privacy Policy.**  
-By using the Searchmarketing web site, you consent to the collection and use of your information as we have outlined in this policy. Searchmarketing, LLC may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. 
+Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. When an individual chooses to post information that will be publicly disclosed, he or she is responsible for ensuring that such information conforms to all local data protection laws. We are not responsible under any data protection laws for user posted information. 
 
-**How Can I Correct or Update My Information?**  
-You can correct or update your information by sending a request to Searchmarketing, LLC Our email address is [info@SearchmarketingLLC.com](mailto:info@SearchmarketingLLC.com "info@SearchmarketingLLC.com"). Note: To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+**2\. OTHER INFORMATION WE COLLECT.**   
+Cookies. We use cookies and other technologies to collect information. Cookies are small bits of information that our websites place on the hard drive of your computer. We use cookies to facilitate your login processes; allow you to personalize and store your settings; collect usage information; determine our total audience size and traffic; and help us improve our sites by measuring which areas are of greatest interest to users. 
 
-**Questions? Contact Searchmarketing, LLC**  
-Feel free to contact us any time with additional questions or comments. Our email address is [info@SearchmarketingLLC.com](mailto:info@SearchmarketingLLC.com "info@SearchmarketingLLC.com").
+You can set the browser on your computer to warn you each time a cookie is being sent, block third party cookies or block all cookies. However, by blocking all cookies you may not have access to certain features on our Site. 
+
+We use ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across websites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to understand user behavior and optimize site performance. 
+
+You can choose to disable the Service at http://www.clicktale.net/disable.html. We also use web beacons(invisible images often referred to as pixel tags or clear GIFs) in order to recognize users and assess traffic patterns, and we may include web beacons and cookies in our email messages in order to count how many e-mail messages have been opened. 
+
+In addition we collect non PII such as IP addresses and website usage information from you. 
+
+**3\. HOW WE USE YOUR INFORMATION.**   
+Generally. We may use information in the following ways: 
+
+  * For the purposes for which you specifically provided it including, without limitation, to enable us to process and fulfill your subscription or other requests. 
+  * To send you information about your relationship or transactions with us. 
+  * To notify you about our products, services, and special offers. 
+  * To otherwise contact you with information that we believe will be of interest to you. 
+  * To enhance or develop features, products and services. 
+  * To allow us to personalize the content that you and others see on the Sites. 
+  * To provide advertisers and other third parties with aggregate information about our subscribers, web site user base and usage patterns. 
+  * To allow other select companies to send you promotional materials about their products and services. 
+
+
+
+We use non-Personally Identifiable Information for purposes such as measuring the number of visitors to sections of our Site, making the Site more useful to visitors and delivering targeted advertising and non-advertising content. We use IP addresses to analyze trends, administer the Site, track a visitor’s movement, and gather demographic information for aggregate, non-personally identifiable use. 
+
+We will not use your health related information for any purpose other than to provide you with fitness and nutrition services you request from us. 
+
+**4\. SHARING YOUR INFORMATION.**   
+Except as otherwise described in this Policy, or if we inform you otherwise at the time of data collection, we will not share your information with third parties. 
+
+We share your information as follows: 
+
+  * With Affiliates: We may share your PII with affiliated companies and businesses. 
+  * With Service Providers: We may use other companies to perform services including, without limitation, facilitating some aspects of our Site such as processing credit card transactions sending emails, and fulfilling purchase requests. These other companies may be supplied with or have access to your PII solely for the purpose of providing these services to you on our behalf. 
+  * With Business partners: When you make purchases or engage in promotions offered through our Site, we may share PII with the businesses with which we partner to offer you those products, services, and promotions. When you elect to engage in a particular business partner's offer or program, you authorize us to provide your information to that business partner. 
+  * Special Circumstances: We also may disclose your PII: 
+    * In response to a subpoena or similar investigative demand, a court order, or other request from a law enforcement or government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. 
+    * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our Site’s terms and conditions or other agreements or policies. 
+    * In connection with a corporate transaction, such as the sale of all or a portion of our business, a divestiture, merger, consolidation, or asset sale, or in the event of bankruptcy. 
+  * SPECIAL NOTICE FOR MEMBERS OF THE SITE: IF YOU ELECT TO MAKE YOUR PROFILE VIEWABLE BY TRAINERS, ALL INFORMATION (EXCLUDING YOUR PERSONAL CONTACT INFORMATION) THAT YOU INCLUDE IN YOUR PROFILE MAY BE VIEWED BY TRAINERS. YOU SHOULD NOT ENTER ANY INFORMATION IN YOUR PROFILE THAT YOU WISH TO REMAIN CONFIDENTIAL. A TRAINER WILL NOT BE ABLE TO CONTACT YOU EXCEPT THROUGH THE SITE UNLESS YOU PROVIDE A TRAINER WITH YOUR PERSONAL CONTACT INFORMATION. WE RECOMMEND THAT YOU CONTACT YOUR TRAINER THROUGH THE SITE ONLY. IF YOU CHOOSE TO PROVIDE A TRAINER WITH YOUR PERSONAL CONTACT INFORMATION, YOU DO SO AT YOUR OWN RISK. WE DO NOT SCREEN THE CREDENTIALS OF TRAINERS BEFORE ALLOWING THEM TO REGISTER IN OUR DATABASE. WE ARE NOT RESPONSIBLE FOR THE RETENTION, USE OR PRIVACY PRACTICES OF TRAINERS AFTER THEY HAVE RECEIVED YOUR INFORMATION. 
+  * SPECIAL NOTICE FOR TRAINERS: YOUR PROFILE WILL BE VIEWABLE BY VISITORS TO THE SITE. ALL INFORMATION (INCLUDING PERSONALLY IDENTIFIABLE INFORMATION) THAT YOU INCLUDE IN YOUR PROFILE MAY BE VIEWED BY VISITORS. YOU SHOULD NOT ENTER ANY INFORMATION IN YOUR PROFILE THAT YOU WISH TO REMAIN CONFIDENTIAL. 
+
+
+
+**5\. HOW TO ACCESS YOUR INFORMATION.**   
+If you have an online account with us, you have the ability to review and update your personal information online by visiting the account management section on the Site. You can also review and update your personal information by contacting us at the email address provided below in the “How to contact us” section of this Privacy Policy. 
+
+**6\. HOW WE PROTECT YOUR INFORMATION.**   
+We use commercially reasonable administrative, technical, personnel and physical measures to safeguard PII in our possession against loss, theft and unauthorized use, disclosure or modification but we cannot assure that your PII or non-PII will never be disclosed in a manner that is inconsistent with this Privacy Policy. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information. 
+
+**7\. TRANSFER TO U.S. OR OTHER COUNTRIES.**   
+Your information may be stored and processed in the United States or any other country where the Site has facilities, and by subscribing to our services and/or using our Site you consent to the transfer of information outside of your country. 
+
+**8\. CHANGES TO OUR PRIVACY POLICY.**   
+From time to time we may revise this Privacy Policy. If we make revisions that change the way we collect or use your PII, those changes will be posted in this Privacy Policy and the effective date will be noted at the beginning of the Privacy Policy. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. If we make material changes to our practices regarding use of your PII, your PII will continue to be governed by the Privacy Policy under which it was subject prior to those changes, unless you have been provided notice of, and have not objected to, the changes. 
+
+**9\. CHILDREN’S ONLINE PRIVACY PROTECTION ACT.**   
+The Site serves general users of the World Wide Web. We support and comply with the Children’s Online Privacy Protection Act (COPPA) and we do not knowingly collect information from children under the age of 13, nor do we share such information with third parties. Children under the age of 18 may not use the Site. 
+
+**10\. SPECIAL NOTIFICATION FOR CALIFORNIA RESIDENTS.**   
+If you reside in California and you have provided us with personal information, you may request information about our disclosures of certain categories of personal information (if any) to third parties for their direct marketing purposes. Such requests must be submitted to us using the email address below. Within thirty days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties (if any) for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph. 
+
+**11\. HOW TO CONTACT US.**
+
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us at support@FitOrbit.com or by writing a letter to: Fit Orbit, Inc. 11611 San Vicente Blvd, Suite 515 Los Angeles, CA 90049. 
