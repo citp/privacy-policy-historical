@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeadvisor.com privacy policy that was archived on 2013-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131008150841id_/http%3A//www.homeadvisor.com/rfs/aboutus/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeadvisor.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420103112id_/http%3A//www.homeadvisor.com/rfs/aboutus/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # HomeAdvisor - Privacy Policy
 
@@ -8,7 +8,7 @@ Your Privacy Rights - Last Updated: September 28, 2012
   
 HomeAdvisor respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy is intended to describe for you, as an individual who is a user of [www.homeadvisor.com](http://www.homeadvisor.com/) (and all websites and URL's controlled or operated by HomeAdvisor, Inc. which link to this policy, unless otherwise specified) or our services, or otherwise provide us with information through various means the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
 
-We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy. HomeAdvisor is a part of the IAC/InterActiveCorp family of businesses ([www.iac.com](https://web.archive.org/web/20131008150841id_/http%3A//www.homeadvisor.com/rfs/aboutus/www.iac.com)), which includes Ask.com, Match.com, UrbanSpoon, and many others.
+We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy. HomeAdvisor is a part of the IAC/InterActiveCorp family of businesses ([www.iac.com](https://web.archive.org/web/20140420103112id_/http%3A//www.homeadvisor.com/rfs/aboutus/www.iac.com)), which includes Ask.com, Match.com, UrbanSpoon, and many others.
 
 If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
 
