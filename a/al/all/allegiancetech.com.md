@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allegiancetech.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511070544id_/https%3A//www.allegiance.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allegiancetech.com privacy policy that was archived on 2014-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140421001938id_/https%3A//www.allegiance.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Allegiance
 
@@ -6,7 +6,7 @@
 
 Allegiance, Inc. is committed to building user trust and confidence by promoting and complying with the use of business practices that help protect the privacy of our customers’ and users’ data. Allegiance demonstrates its commitment to your privacy by agreeing to disclose its information, practices, and policies in compliance with Safe Harbor principals defined by the U.S. Department of Commerce with cooperation with the European Commission.
 
-Safe Harbor was initiated to help assure European members that adequate privacy protections are followed, and to identify participating members. Allegiance has cooperated with the US Department of Commerce to meet all principal requirements mandated by their defined policies. For more information about the Safe Harbor program and its benefits visit <http://export.gov/safeharbor/>.
+Safe Harbor was initiated to help assure European members that adequate privacy protections are followed, and to identify participating members. Allegiance has cooperated with the US Department of Commerce to meet all principal requirements mandated by their defined policies. For more information about the Safe Harbor program and its benefits visit <http://export.gov/safeharbor/eg_main_018273.asp>.
 
 Safe Harbor covers seven principles used to protect personal information. A list of these principals and how Allegiance meets these requirements follow.
 
@@ -21,7 +21,7 @@ Company administrators using Allegiance products must provide a First name, Last
 
 If you have questions, concerns, or complaints contact an Allegiance Privacy Compliance officer:
 
-Phone: 801-617-8000  
+Phone: 385.695.2800  
 Email: [privacycompliance@allegiance.com](mailto:privacycompliance@allegiance.com)  
 Mail: Allegiance, Inc., 10235 South Jordan Gateway, 5th Floor, South Jordan, UT 84095, USA
 
@@ -52,7 +52,7 @@ Allegiance, Inc.
 10235 South Jordan Gateway, 5th Floor  
 South Jordan, UT 84095  
 USA  
-1-801-617-8000
+1-385.695.2800
 
 ## Security
 
@@ -60,7 +60,7 @@ The security of your personal information is important to us. We follow general 
 
 ## Enforcement
 
-To ensure compliance, you are encouraged to contact a Privacy Compliancy officer by sending an email to [privacycompliance@allegiance.com](mailto:privacycompliance@allegiance.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been addressed to your satisfaction, you may escalate your feedback to a [Safe Harbor representative](http://www.export.gov/safeharbor/SH_Contact_Us.asp). They will serve as a liaison with us to resolve your concerns.
+To ensure compliance, you are encouraged to contact a Privacy Compliance officer by sending an email to [privacycompliance@allegiance.com](mailto:privacycompliance@allegiance.com). Allegiance agrees to cooperate and comply with the EU DPAs to investigate all unresolved complaints, regardless of the type of data involved.
 
 Allegiance, Inc. appreciates your confidence in us as a web portal and anonymous communication service. In an attempt to ensure your confidentiality and privacy, we have developed controls to keep your information from outside parties. Security encryption of your information using the latest in technology is utilized to help keep your information anonymous and confidential. This privacy policy covers all information collected on allegiance.com, including information collected in Allegiance’s CustomerVoice, EmployeeVoice, PartnerVoice, ActiveSurvey, and MysteryShopper products.
 
