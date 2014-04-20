@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailysale.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111234941id_/http%3A//dailysale.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailysale.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420035339id_/http%3A//dailysale.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy
 
