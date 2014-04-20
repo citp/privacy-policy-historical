@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pay.gov privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508214701id_/https%3A//www.pay.gov/paygov/privacyAndSecurityPolicy.html%3Bjsessionid%3DGqnPR3RdXpgt7Ws1Fk8YGpcScn1X0D5J4Jq1VpRjvQyfcDzq1Grp%21-1722767288%3Fnc%3D1366790653171) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pay.gov privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420070459id_/https%3A//www.pay.gov/paygov/privacyAndSecurityPolicy.html%3Bjsessionid%3DqS6MS3nhhvk8mBKGLVGpLlTcG5L9lRBPbdfvTNh4h3M6t85Lq52d%21-1718471595%3Fnc%3D1391980154670) for the most accurate reproduction.*
 
 # Pay.gov - Privacy And Security Policy
 
-[](http://www.fms.treas.gov/)   
+[](http://www.fiscal.treasury.gov/)   
 [](http://www.treas.gov/) [](http://www.usa.gov/)
 
 | 
