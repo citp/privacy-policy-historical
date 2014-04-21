@@ -1,64 +1,93 @@
-> *The following text is extracted and transformed from the aupair-world.net privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220114944id_/http%3A//www.aupair-world.net/index.php/tos/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aupair-world.net privacy policy that was archived on 2014-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140421023614id_/http%3A//www.aupair-world.net/index.php/tos/privacy_policy) for the most accurate reproduction.*
 
-# Aupair World - Privacy policy
+# Privacy policy - Aupair World
 
-####  General
+####  General information
 
-We respect your privacy and consider the protection of your personal data to be a particular quality feature of the services we provide. We therefore strictly adhere to the rules and regulations of data protection law.
+We respect your privacy and consider protecting your personal data a particular quality feature of the services we provide. Accordingly, we strictly comply with the provisions of applicable data protection laws. We are subject to the comparatively stringent data protection laws of the European Union and the Federal Republic of Germany.
 
-The following statement gives you an overview of how we ensure your data is protected. We would like to explain to you as a visitor to our website and user of our services what type of data we collect and why and how we use this data.
+The following statement provides you an overview of how we ensure the protection of your data. As a visitor to our website and user of our serves, we would like to explain to you which types of data we collect, why we do so and how we use this data.
+
+####  Privacy
+
+Following your registration, all data that are relevant for searching on Aupair World are visible to other users. This includes pictures that have been uploaded, information regarding availability, and of course your own description as an au pair or host family. Your last name is visible for others only if they are logged in as registered users. Otherwise the last name appears in an abbreviated form. Furthermore, the complete last names of au pairs can only be seen by host families who are Premium Members. The complete last name of host families can only be seen by au pairs who are logged in as registered users. Your postal address, e-mail address or your telephone number is only accessible to Aupair World employees. You decide on your own to whom you provide your contact information. The Aupair World internal messaging system is available to you in order to make contact and exchange information.
 
 ####  Collection, processing and transmission of data
 
-Personal data is only collected by us if you register with us. If you pay using Paypal or Worldpay, your data is transferred to these enterprises for this purpose. Otherwise there is no transmission of data to companies and private individuals, either for commercial or non-commercial purposes.
+We only collect personal data if you register on our website. If payment is made via Paypal or Worldpay, your data is transmitted to these services for such purposes. We transmit data to companies engaged by us for purposes of analysing user behaviour (for more information, see “Analysing user behaviour” below). Otherwise, no data is transmitted to companies or individuals other than users of the website for either commercial or non-commercial purposes.
 
-**By paying via Paypal or Worldpay you are consenting to your data being transmitted to these enterprises.** You can find out details regarding the data transmitted in the privacy policies of the operators:
+**By registering, you consent to authorize your data to be accessed by Aupair World users.** After contact has been established via the Aupair World internal messaging system, you decide to which other Aupair World users you want to provide your contact information.
 
-Worldpay (external link):  
-[http://www.worldpay.com/about_us/index.php?page=privacy&c=UK](http://www.worldpay.com/about_us/index.php?page=privacy&c=UK "Privacy policy of Worldpay operator")
+Mandatory information is indicated with an asterisk (*). This information is necessary for the Aupair World website to function.
 
-Paypal (external link):  
-[https://cms.paypal.com/en/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_EN](https://cms.paypal.com/en/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_EN "Privacy policy of Paypal operator")
+**By making payment using Paypal or Worldpay, you consent to the transmission of data to these companies.** The data to be transmitted is described in the privacy protection statement of the respective service provider:
 
-####  Information on cancellation
+Worldpay (external link): [http://www.worldpay.com/about_us/index.php?page=privacy&c=UK](http://www.worldpay.com/deutsch/about_us/index.php?page=privacy)
 
-**You may cancel permission to use your data at any time with effect from that time onwards.** To do so, send us an e-mail with the subject “Cancellation” to support(at)aupair-world.net. Your account will then be disabled and you will no longer be able to be traced in the system by a third party. This does not establish any claim to reimbursement of the user fees.
+Paypal (external Link): [https://cms.paypal.com/en/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_EN](https://cms.paypal.com/de/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=de_DE)
+
+####  Revocation
+
+You may revoke your consent to the future use of your data at any time. To do so, send an e-mail with the subject “Revocation” to support(at)aupair-world.net.  Your account will then be blocked and it will no longer be possible for third parties to locate you in the system.
 
 ####  Use of cookies
 
-This website uses so-called "cookies"; these are text files, which are stored on your computer and make it possible to analyse your use of the website. The information generated through the “cookie” regarding your use of this website is used in order to assess your activity on the website and to improve the services we offer. The information obtained is used only for internal statistical assessments and is not passed on to third parties.  
-You can prevent the installation of cookies through a corresponding setting on your browser software; however we would like to point out that in this case you might not be able to use all the functions of this website in their entirety.
+This website uses so-called “cookies”. Cookies are text files saved on your computer which help the website analyse how users use the site. Information on users of this website created by the cookies is used in order to analyse user behaviour on the website and to improve our offerings.
 
-####  Assessment of user behaviour
+You may refuse the installation of cookies by selecting the appropriate settings on your web browser; however, please note that if you do this you may not be able to use the full functionality of this website.
 
-We automatically collect and save information on our servers which your browser leaves with us whilst you are surfing. We compile the complete Uniform Resource Locators (URL) clickstream anonymously through and from our website, i.e. the sequence of the pages on our website which you look at, including the date and time of the content, which you have viewed or searched for. During your visits we sometimes use JavaScript to collect and evaluate information, including the length of time it takes to load a web page, errors during downloads, the duration of a visit to a single page, information on interaction between pages (e.g. scrolling, clicking, mouse-overs) and about how you leave our site.
+####  Analysis of user behaviour prior to your registration
 
-The most important data which we save is, in brief:  
-browser type/version  
-operating system used  
-referrer URL (the page visited previously)  
-host name of the accessing computer (IP address, short form)  
-time of server inquiry  
-visitor history
+We automatically collect and save information on our servers left behind by your browser whilst you are surfing. We collect the complete Uniform Resource Locator (URL) clickstream to and from our website in anonymized form, i.e. the sequence of your views of our sites, including date and time, the contents you have viewed or searched for. During visits to our website, we occasionally use JavaScript in order to collect and analyse information, including the time it takes for a page to load, errors in downloading, the duration of a visit to a details page, information on interactions between pages (e.g. scrolling, clicking, mouse-overs).
 
-We cannot assign this data to individual persons unless they are registered. This data is not combined with other data sources and is deleted after a statistical evaluation.
+A brief summary of the most important data we save:
 
-After your registration we additionally capture your IP address and the time of your registration from the data entered by you. By registering you agree that we may evaluate your data anonymously. This is necessary to be able to continue to offer high quality services at Aupair World. For this purpose we compare the data you have entered with other freely accessible data on the Internet. This enables us to identify undesired entries (joke entries, agencies, human trafficking, etc.). However, Aupair World does not guarantee the quality of the entries.
+  * Browser type / version 
+  * Operating system used 
+  * Referrer URL (the page you have visited previously) 
+  * The name of the host of the accessing computer (IP address, abbreviated) 
+  * Time of the server request
+  * User history
 
-####  Use of social plugins
 
-As a modern service provider it is our intention to be active in the field of social media. For this purpose, three social platforms (Facebook, Google+ and Twitter) have provided specific buttons.Through the connection created by these buttons, information will normally be sent to Twitter, Facebook and Google+ when accessing a web page regardless of whether the user explicitly gave consent or not. To avoid the transmission of your personal data to Twitter, Facebook and Google+, these social media functions are deactivated by default on [www.aupair-world.net](http://www.aupair-world.net/ "Homepage of Aupair World") . Thus no information will be passed on to third parties unless you agree to it. Only once you have activated the social media functions and you have given your consent to the sending of your data to Facebook, Google+ and Twitter, the buttons will be activated, thus establishing a connection to this service. 
 
-Among other things, in addition to the web address of the visited page, an identifier is transmitted which establishes a connection between the visitor of a particular page and his profile on Facebook, for instance. None of these platforms give concrete information on which further data is also passed on. Please find the privacy policies of the three platforms here: [Facebook](http://www.facebook.com/about/privacy/ "Privacy policy of Facebook"), [Google+](http://www.google.com/intl/en/policies/privacy/ "Privacy policy of Google+") and [Twitter](http://twitter.com/privacy "Privacy policy of Twitter"). 
+All of this data may only be associated with a specific person if you register at Aupair World. This data is not aggregated with other sources of data; in addition, this data is deleted following a statistical analysis.
 
-####  Data Protection Officer
+We also use the following software and services in order to analyse user behaviour. In some cases, these services are only used on underlying pages.
 
-It is important to Aupair World that data processing is carried out efficiently and securely under data protection law. In order to provide evidence of this also to external parties, we have appointed an external Data Protection Officer.
+**Adwords Conversion Tracking**
 
-Stephan Moers Sicherheitsberatung e.K.  
-Grüner Weg 30  
-34369 Hofgeismar  
-Germany  
-[www.dsb-moers.de](http://www.dsb-moers.de/ "Website of our external Data Protection Officer")
+If you reached our website via a Google advertisement, a cookie will be placed on your computer via Google Adwords Conversion Tracking. It remains valid for 30 days. To the extent you visit certain AuPair World pages whilst the cookie is valid, both we and Google are able to see that you have clicked on the ad and were directed to the site. In this manner, we learn how many users have clicked on our advertisements. You may prevent the recording of this data by deactivating the automatic placement of cookies in your browser settings for [http://www.google.de/analytics/terms/de.html.](http://www.google.de/analytics/terms/de.html) Data protection information from Google on conversion tracking may be found [here](http://services.google.com/sitestats/de.html "services.google.com/sitestats/de.html").
 
-You may contact Mr. Stephan Moers by e-mail at [datenschutz@and-is.de](mailto:datenschutz@and-is.de "Contact our external Data Protection Officer by e-mail").
+**Alexa**
+
+We additionally utilise Alexa, a service of Alexa Internet, Inc. This service uses so-called tracking pixels with which user behaviour is analysed on an anonymous basis. Information on your browser, date and time of your visit to our site, sites visited and the website from which you were referred to our page, as well as your anonymised IP Address are analysed. If you do not wish your behaviour to be analysed, please follow the instructions provided on this website: <http://www.alexa.com/settings/optout>
+
+**AW Stats**
+
+Aupair World uses AWStats, a free web analysis software deployed on our servers. Log files from visitor queries are created and graphically processed with the aid of AWStats. Data collected corresponds to the data referred to under “Analysis of user behaviour”.
+
+####  Analysis of user behaviour following your registration
+
+Following your registration, we collect your IP address and the time you registered in addition to the data you have entered. Upon registration, you consent to our analysis of this data. This is necessary in order to continue to able to offer the high level of quality at Aupair World. For such purposes, we compare the data you have entered to additional data freely available online. This enables us to identify unwanted entries (joke entries, agencies, human trafficking, etc.). However, Aupair World does not guarantee the quality of the entries presented in the profiles.
+
+####  Social bookmarks
+
+As a modern service provider it is our intention to be active in the field of social media. Our site contains a link to the social network sites; no programmes from these sites are integrated into our server. The data privacy policy of the respective provider ([Facebook](http://www.facebook.com/about/privacy/ "Facebook privacy policy"), [Google+](http://www.google.com/intl/en/policies/privacy/ "Google+ privacy policy") und [Twitter](http://twitter.com/privacy "Twitter privacy policy")) apply as soon as you visit a social network site. 
+
+####  Encryption
+
+Our website is not encrypted. As soon as you are connected to a service provider for the settlement of payments, the connection is ssl encrypted.
+
+####  Data protection officer
+
+It is important to Aupair World that data is processed properly and securely under applicable data protection laws. We have appointed an external data protection officer in order to be able to document this to external parties as well.
+
+Stephan Moers  
+Sicherheitsberatung e.K.  
+Grüner Weg 30,  
+34369 Hofgeismar
+
+[www.dsb-moers.de](http://www.dsb-moers.de/)
+
+You may reach Mr Stephan Moers by e-mail at [datenschutz@and-is.de](mailto:datenschutz@and-is.de).
