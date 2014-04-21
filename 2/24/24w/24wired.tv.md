@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the 24wired.tv privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220012252id_/http%3A//24wired.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24wired.tv privacy policy that was archived on 2014-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140421074542id_/http%3A//24wired.tv/privacy) for the most accurate reproduction.*
 
-# Privacy Policy » 24Wired.TV
+# Privacy Policy | 24Wired.TV
 
-Revised as of November 25, 2013
+Revised as of March 17, 2014
 
 **1\. INTRODUCTION**
 
-**_Purpose_**. The purpose of this Privacy Policy (“ **Policy** ”) is to describe how Moguldom Media Group LLC (“ **Company** ,” “ **we** ,” and “ **us** ”) collects, shares and protects your personal information. We collect certain personal information through our websites, which as of the revision date noted above, are located at bossip.com, madamenoire.com, mommynoire.com, styleblazer.com, hiphopwired.com, 24wired.tv, lossip.com, latinamadre.com and afkinsider.com, and including any associated mobile web sites and mobile applications (collectively, the “Sites”). **Please read this Policy carefully**. If you do not understand any aspects of this Policy or have any questions related to this Policy, please feel free to [contact us on-line](http://moguldom.com/privacycontact/), or in the alternative manner described at the end of this Policy.
+**_Purpose_**. The purpose of this Privacy Policy (“ **Policy** ”) is to describe how Moguldom Media Group LLC (“ **Company** ,” “ **we** ,” and “ **us** ”) collects, shares and protects your personal information. We collect certain personal information through our websites, which as of the revision date noted above, are located at bossip.com, madamenoire.com, mommynoire.com, styleblazer.com, hiphopwired.com, 24wired.tv, lossip.com, latinamadre.com, afkinsider.com, and moguldomstudios.com and including any associated mobile web sites and mobile applications (collectively, the “Sites”). **Please read this Policy carefully**. If you do not understand any aspects of this Policy or have any questions related to this Policy, please feel free to [contact us on-line](http://moguldom.com/privacycontact/), or in the alternative manner described at the end of this Policy.
 
 This Policy explains:
 
