@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the layoutlocator.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601035639id_/http%3A//www.layoutlocator.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the layoutlocator.com privacy policy that was archived on 2014-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140421230255id_/http%3A//www.layoutlocator.com/privacy.php) for the most accurate reproduction.*
 
 # LayoutLocator.com Privacy Policy
 
