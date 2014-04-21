@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebrighttag.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220091818id_/http%3A//www.brighttag.com/bt-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebrighttag.com privacy policy that was archived on 2014-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140421233218id_/http%3A//www.brighttag.com/bt-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Website and Tag Management Service
 
