@@ -1,23 +1,27 @@
-> *The following text is extracted and transformed from the fws.gov privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208084926id_/http%3A//www.fws.gov/help/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fws.gov privacy policy that was archived on 2014-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140421231038id_/http%3A//www.fws.gov/help/policies.html) for the most accurate reproduction.*
 
 # Fish and Wildlife Service
 
-**PRIVACY STATEMENT**
+### **PRIVACY STATEMENT**
 
 In accordance with the [Department of the Interior Privacy Policy](http://www.doi.gov/ocio/privacy/ "Link to non-FWS site"), The U.S. Fish and Wildlife Service is committed to maintaining a web site that protects the individual’s right to privacy. We do **not** require personal information from our visitors, nor do we collect any personally identifying information (name, email address, Social Security number, or other unique identifier) unless you knowingly provide it. Likewise, we do **not** give, sell, or transfer any personal information to a third party except as might be required by law .
 
 **Data Collection for Statistics**  
 To aid in web site management, certain information is collected for statistical purposes. The Service uses specialized software to create summary statistics, which are used for such purposes as assessing what information is of most and least interest to our customers, determining technical design specifications, and identifying system performance or problem areas.
 
-We collect only the following information about your visit:
+We collect only the following information about your visit:  
+
+
+  | 
 
   * the name of the domain from which you access the Internet (for example, "princeton.edu" if you are connecting from Princeton University’s domain, or "aol.com" if you are connecting from an America Online account);
   * the web site from which you linked directly to our web site, if you have used another web site to reach our site;
   * the operating system and web browser you use to view pages; and 
   * the date and time you access our web site.
 
-
-
+  
+---|---  
+  
 We use the information we collect to measure the number of visitors to the different sections of our web site, allowing us to make our web site more useful and accessible to visitors. We do not store any personal identifiers. 
 
 **Information Collected from E-mails and Forms**  
@@ -42,15 +46,20 @@ For more information: See the[ Federal Trade Commission's Children's Privacy sta
 
 The Department of the Interior [**Disclaimer Statement**](http://www.doi.gov/footer/disclaim.html "Link to non-FWS site") applies to the Service. 
 
-We will link to external sites that help us perform our mission - "working with others to conserve, protect, and enhance fish, wildlife, and plants and their habitats for the continuing benefit of the American people." 
+We will link to external sites that help us perform our mission - "working with others to conserve, protect, and enhance fish, wildlife, and plants and their habitats for the continuing benefit of the American people."   
+
+
+  | 
 
   * Links to external servers do not imply any official U.S. Fish and Wildlife Service endorsement of the opinions or ideas expressed therein, or guarantee the validity of the information provided. Links to commercial sites are in no way an endorsement of any vendor's products or services. 
   * Links will be provided to external servers that are managed in a professional manner (i.e., it is fully operational, is available most of the time, does not serve inaccurate information or obscene graphics, etc.). 
-  * This server will not link to external servers if such a link would appear to provide an official endorsement of fundraising efforts or lobbying for a political agenda. 
+  * This server will not link to external servers if such a link would appear to provide an official endorsement of fundraising efforts or lobbying for a political agenda.   
 
 
-
-**COPYRIGHT STATEMENT**
+  
+---|---  
+  
+###  **COPYRIGHT STATEMENT**
 
 Please note: 
 
