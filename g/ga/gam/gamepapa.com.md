@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamepapa.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810135534id_/http%3A//www.gamepapa.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamepapa.com privacy policy that was archived on 2014-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140421171513id_/http%3A//www.gamepapa.com/privacy.html) for the most accurate reproduction.*
 
 # Play at Gamepapa.com Free Online games arcade site
 
