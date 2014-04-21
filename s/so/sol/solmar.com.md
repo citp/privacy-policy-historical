@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solmar.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117071634id_/http%3A//www.solmar.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solmar.com privacy policy that was archived on 2014-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140421041052id_/http%3A//www.solmar.com/privacy.php) for the most accurate reproduction.*
 
 # Solmar Hotels & Resorts privacy policy
 
