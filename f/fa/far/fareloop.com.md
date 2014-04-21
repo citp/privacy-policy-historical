@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fareloop.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430223530id_/http%3A//fareloop.com/l1/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fareloop.com privacy policy that was archived on 2014-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140422000522id_/http%3A//www.fareloop.com/l1/privacy-policy.html) for the most accurate reproduction.*
 
 # FareSpotter.net :: Privacy Policy
 
