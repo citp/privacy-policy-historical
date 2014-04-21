@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tizenhub.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006075740id_/http%3A//www.tizenhub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tizenhub.com privacy policy that was archived on 2014-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140421221540id_/http%3A//www.tizenus.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Tizenhub.com
+# Privacy Policy | Tizenus.com
 
 **What information do we collect?**
 
