@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethnicpass.com privacy policy that was archived on 2013-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130730203714id_/http%3A//www.ethnicpass.com/cimages/legal/privacy.html%3Fsite%3Dethnicpass) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethnicpass.com privacy policy that was archived on 2014-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140421212738id_/http%3A//www.ethnicpass.com/cimages/legal/privacy.html%3Fsite%3Dethnicpass) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
