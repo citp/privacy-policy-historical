@@ -1,124 +1,61 @@
-> *The following text is extracted and transformed from the ogone.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219220653id_/http%3A//www.ogone.com/en/About%2520Ogone/Privacy%2520Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ogone.com privacy policy that was archived on 2014-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140422024712id_/http%3A//www.ogone.com/int/en/cookie-policy) for the most accurate reproduction.*
 
-# Ogone Privacy Policy
+# Ogone - Privacy policy - International
 
-### Who is Ogone
+##  Ogone Privacy/Cookie Statement
 
-Ogone is a company offering technical solutions to process online payments in e-commerce, MoTo and other sectors. Ogone is the interface between acquirers, banks, merchants and consumers, which is processing their online payments.   
+When visiting the Ogone Website 
 
+**Who is Ogone?**
 
-### PCI DSS Compliance   
+Ogone is a group of companies offering technical solutions to process online payments in e-commerce, MoTo and other sectors.   
+The Ogone group consists of several entities, an overview of which is available on <http://www.ogone.com/About-Ogone/Locations.aspx>.   
+With respect to any of your personal data collected during or otherwise processed in connection with your visit of an Ogone website, Ogone BVBA/SPRL acts as data controller. 
 
+Processing of your personal data when visiting the Ogone website  
+Please note that this policy applies to your visit of an Ogone website only and does not apply to payments processed via Ogone. 
 
-To protect your data and prevent misuse, Ogone is using up to date technologies, follows strict verifications rules and works with experienced specialists. All data is encrypted before storage, only encrypted data is transmitted. 
+Personal data are processed in accordance with the applicable data protection legislation arising from the Directive 95/46/EC on the protection of individuals with regard to the processing of personal data and on the free movement of such data. 
 
-Ogone is compliant with the Payment Card Industry Data Security Standard (PCI DSS). This certification and its rules are set by Visa, MasterCard, American Express... This standard guarantees save storage and handling of your credit card and bank account data under highest data security standards. 
+**Use by Ogone of your personal data**
 
-### Security Measures 
+During your visit of an Ogone website, Ogone may collect personal data regarding your use of the website via cookies or otherwise. This may include information about the date and duration of visit, your browser and operating system, the website pages you visited, usage preferences set by you, and the contact information you provided to us via the contact form. 
 
-Ogone undertakes all reasonable steps to protect any personal or sensitive information collected or processed by Ogone. Ogone implements, amongst others, the following measures: protection of its servers by firewalls, strict password control of database access and encryption of sensitive data. This list is not exhaustive. 
+Ogone uses such data for purposes of analysing and optimising the functioning and use of its websites, to allow you to visit Ogone's websites in accordance with your own preferences as notified to Ogone and to contact you following your request using the contact form. 
 
-## Data Collection 
+Your personal data may be shared with the following third parties and recipients: 
 
-Personal data is processed according to the Belgian National Law and the EU Directive 95/46 as of October 24th 1995. 
+\- With entities within the Ogone group for the purposes set out in this policy;   
+\- With third party suppliers of entities of the Ogone group (e.g. IT service providers), who may solely process your personal data in accordance with Ogone's instructions;   
+\- With legal authorities if required by law. 
 
-### Merchant Data 
+**Transfer of personal data outside European Economic Area**
 
-In order to be able to set up an Ogone account, Ogone needs to store personal information of the merchant. This information is requested from the merchant during your registration process for an Ogone account. This data is updated by the merchant, or on demand by Ogone. 
+You understand and accept that by using our website, your personal data can be transferred to countries outside of the European Union, which do not offer an adequate level of protection. Please note that our US entity Ogone Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland. Ogone Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program and to view Ogone Inc.’s certification, please visit <http://www.export.gov/safeharbor/>. In case you have any complaints, please note that Ogone Inc. has committed to co-operate with data protection authorities located in the European Union and Switzerland, or their authorized representatives. 
 
-### Consumer Data   
+**Cookies**
 
+A cookie is a small data file, which is stored temporarily or permanently on your device (e.g. a computer or a smartphone) within the web browser, when certain web pages are visited. Cookies are not intended to contain or collect information in isolation, but when read by a server via a web browser, they can give information to facilitate a more user friendly service by collecting information on, among other data, preferences (such as a language preference), detect errors and/or collect data for statistics. Cookies contain a unique code which allow to recognize your browser while visiting a website (so-called "session cookie") or also during later visits or later use (so-called "permanent cookie"). 
 
-Ogone uses the merchants' websites and the online forms of the payment page only to collect and transmit data which is necessary to process your payments. This is for example the amount you have to pay, the currency and payment method you use to pay etc. Additional information, the merchant needs to be able to process your order, is collected (e.g. details on the order, delivery and billing address etc.). This data is stored for each transaction in order to be able to process the transaction and if necessary to check it. For fraud prevention reasons, Ogone is furthermore storing the IP-address of the computer, which was used to place the transaction. 
+Ogone primarily makes use of cookies to enhance your surfing experience. All data we retrieve from our cookies is only used to understand your experience as a visitor on the website with the aim to improve the performance and usability on this website. 
 
-Ogone does not collect any sensitive personal information, in particular with regard to race, religion or political affiliation. 
+**This website uses different types of cookies**
 
-## Log-Files   
+1\. Functional cookies: These cookies are strictly necessary to enable you to move around the website or to provide certain features you have requested. 
 
+2\. Optimization cookies: These cookies help us to measure and improve the performance of the website providing you a better visitor experience. 
 
-To deliver secure and reliable services, Ogone is storing log-files. These contain information on data transfer between the involved parties. 
+3\. Personalized and Third party cookies: When you visit the Ogone websites you may notice some cookies that are not related to us. If you go on to a web page that contains embedded content, for example from Facebook or YouTube, you may be sent cookies from these websites. We do not control the generation of these cookies, so we suggest that you check the individual third-party websites for more information about their cookies and how to manage them. 
 
-## Cookies   
+**Opting out of cookies?**
 
+There are a number of options available to decline the use of cookies. Please visit the support websites of the different browsers to learn how to block the storage of cookies. 
 
-A cookie is a text file placed on your hard disk by a web page server. Cookies cannot run programs or put viruses on your computer. Cookies are allocated to you individually and can only be read by a web server in the domain that sent the cookie to you. 
+Please note that if you disable cookies, you may not be able to use all functionalities of the Ogone websites. 
 
-The principal function of cookies is to add convenience and save you time. For example, a cookie helps Ogone to remember, between two visits, the language you have chosen. 
+**Contact**
 
-You can accept or refuse cookies. Most web browsers automatically accept cookies, but you can usually change your browser's settings to refuse them if you wish. 
+Any questions or complaints relating to the collection and processing of your personal data should be sent by email to the following address: [privacy@ogone.com](mailto:privacy@ogone.com). At this address you can also request to change your personal data, or have your personal data deleted. Ogone will answer your request within a reasonable time. You can also send your requests in writing to the following address: Ogone BVBA/SPRL, Woluwedal/Boulevard de la Woluwe 102, B – 1200 Brussels, BELGIUM for the attention of the Privacy Officer (Legal Department) If you are contacting Ogone via letter, e-mail, phone or by fax, Ogone is storing your personal data in order to be able to answer your request. 
 
-The use of cookies is not necessary to view the public part of the site of Ogone. The use of cookies is compulsory only to access your private space after you opened an Ogone account. You can therefore set your Internet browser to refuse cookies. 
-
-## Use of data   
-
-
-### Merchant data   
-
-
-Merchant data collected by Ogone is only used to carry out the contractual services both parties agreed on. 
-
-### Consumer data   
-
-
-Information collected by Ogone is used to execute the entire online payment transaction process, which was instructed by the consumer between him and the merchant. 
-
-### Data storage 
-
-Data collected by Ogone is stored for an adequate time to process the online payment/fulfill the contract between the merchant and Ogone. Highest security standards are applied on data storage, all compliant to Payment Card Industry Data Security Standard (PCI DSS). 
-
-## Circulation of data to third parties
-
-### Circulation of consumer data to merchants 
-
-Merchants connected to Ogone can only access stored data of their customers. Credit card data is excluded from this access. Merchants can not access customers' credit card data via Ogone, neither via the Ogone website nor via e-mail or mail. 
-
-Credit card numbers are stored separately from the database which is accessible by the merchants. To Merchants only a part of the credit card number is visible, in order to enable them to clear their accounts. With Visa and MasterCard only the last four digits are visible to the merchants. With other credit card and bank account numbers, the part which is visible to the merchant depends on the length of the number. The complete number is never visible to them. 
-
-Merchants are only given access to complete credit card numbers if a special request from the merchant’s acquirer/bank was placed with Ogone. The bank account number is never stored if Payment on delivery or offline bank transfer is used as payment method for the transaction. 
-
-No merchant has access to consumer data, which is not related to a transaction between him and a certain consumer. 
-
-### Circulation of data to service provider in the frame of transaction processing 
-
-Ogone will not sell or rent private data to third parties. Furthermore, Ogone will not share private date with third parties, unless it is necessary to fulfill the contract/transaction you have with Ogone, or you have given Ogone your allowance. Situations when your data is transferred to third parties are the following: 
-
-Ogone may share data with certain trusted partners, whose contribution is necessary to perform the payment process in the context of technical partnerships. Data might for example be shared with the post to send out invoices, the Visa, MasterCard, American Express... processors to process your payment to the merchants or to service providers to undertake analyses on behalf of Ogone. 
-
-These third parties are forbidden to use your personal information for any purpose other than the provision of these services to Ogone, and are obliged to keep your information confidential.
-
-## Monitoring your personal information   
-
-
-You will receive a confirmation of your payment via e-mail. This mail includes the essential information you have given while placing your order with the merchant.   
-
-
-### Contact   
-
-
-Any questions or complaints relating to the collection and processing of your personal information should be sent by email to the following address: _privacy@ogone.com_. At this address you can also request to change or have your personal data, stored by Ogone, deleted. Ogone will answer your request within a reasonable time. You can also send your requests in writing to the following address: 
-
-> Ogone BVBA/SPRL   
-> Woluwedal/Boulevard de la Woluwe 102   
-> B – 1200 Brussels   
-> BELGIUM 
-
-If you are contacting Ogone via letter, e-mail, phone of by fax, Ogone is storing your personal information in order to be able to answer your request. Ogone will evaluate this information to prevent potential fraud and noncompliance with our general terms and conditions, and to improve our customer service. 
-
-### Deletion of data   
-
-
-As soon as your information is no longer necessary to process the above mentioned services, your data will be deleted. 
-
-If storage of data is necessary for tax reasons, it will be stored and blocked for every other use. 
-
-The use and processing of your personal information can be withdrawn at any time, effective for the future, by sending an e-mail to 
-
-_[privacy@ogone.com](mailto:privacy@ogone.com)_
-
-. 
-
-## Updating of this Policy 
-
-Ogone may update this privacy clause at any time without prior notice, e.g. to be compliant with legal requirements. 
-
-Ogone encourages you to consult this clause regularly to find out how your information is protected. 
+Updating of this Policy  
+Ogone reserves the right to change this privacy statement at all times. It is your responsibility to periodically verify the applicable privacy statement and to comply with its most recent version. This privacy statement was last modified in December 2013. 
