@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarterfox.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206024230id_/http%3A//www.smarterfox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarterfox.com privacy policy that was archived on 2014-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140422210211id_/http%3A//fastestfox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FastestFox: Browse Faster
 
