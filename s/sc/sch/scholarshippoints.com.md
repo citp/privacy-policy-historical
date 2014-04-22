@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarshippoints.com privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911074949id_/http%3A//www.scholarshippoints.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshippoints.com privacy policy that was archived on 2014-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140422020226id_/http%3A//www.scholarshippoints.com/privacy.php) for the most accurate reproduction.*
 
 # Edvisors Privacy Policy
 
@@ -19,13 +19,13 @@ We provide this policy to explain our privacy practices, including what informat
 
 
 
-This privacy policy covers all [Edvisors sites](http://www.edvisors.com/what-we-do/our-sites.php "Edvisors sites"). This policy also covers User Information that may be received by Edvisors that is submitted on forms accessible from Edvisors sites and managed by third-party partners. Please contact us if you have questions about this policy by writing to us at:
+This privacy policy covers all [Edvisors sites](http://www.edvisors.com/what-we-do/our-sites/ "Edvisors sites"). This policy also covers User Information that may be received by Edvisors that is submitted on forms accessible from Edvisors sites and managed by third-party partners. Please contact us if you have questions about this policy by writing to us at:
 
 **Edvisors  
 10000 W. Charleston Blvd., Suite 200  
 Las Vegas, NV 89135 USA**
 
-Our goal is to resolve questions or concerns you have about this policy or our privacy practices. You may also visit our [opt out page](http://www.edvisors.com/profile/opt-out.php "Opt out") or contact us directly via [email](http://www.edvisors.com/contact/ "Email Edvisors").
+Our goal is to resolve questions or concerns you have about this policy or our privacy practices. You may also visit our [opt out page](http://www.edvisors.com/contact/opt-out/ "Opt out") or contact us directly via [email](http://www.edvisors.com/contact/ "Email Edvisors").
 
 Edvisors is a member of the BBB Reliability Program. Visit the Better Business Bureau to find out more about Edvisors.
 
@@ -61,6 +61,10 @@ When you are referred to a financial service provider from one of our sites, we 
 
 
 
+**How We Respond to Browser "Do Not Track" Signals** Some Web browsers incorporate a "Do Not Track" feature that signals to websites that you visit that you do not want to have your online activity tracked. Each browser communicates "Do Not Track" signals to the actual website differently making it unworkable to honor each and every request correctly. To alleviate any communication error between browsers and website, we do not respond to Web browser "Do Not Track" signals at this time. As the technology and communication between browser and website improves, we will reevaluate the ability to honor "Do Not Track" signals and may make changes to our policy. 
+
+**Third Party Tracking** We permit third parties that we have agreements with to track you when you are on our website. When you leave our website there is a chance that these third parties may continue to track you. 
+
 **Cookies:** Edvisors uses "cookies" and other technologies to help us learn more about how our users use our sites and to recognize you when you return. Cookies are text files that are placed in your computer's browser by a Web page server, and that can be used to help recognize you as an Edvisors user. Cookies are not used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to your computer, and can only be read by a Web server in the domain that issued the cookie to you. Cookies may store user preferences and other information, and can be deleted or blocked by changing the settings on your Web browser. You may also be able to modify your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. However, choosing to decline cookies may hinder performance and negatively impact your experience on Edvisors websites.
 
 **Analytics Tools and Third Party Cookies:** Edvisors uses temporary cookies to help us determine how people travel through our site. A temporary cookie expires when you close your browser. This website also uses third-party analytics tools (such as Google Analytics) to collect information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use this information only to improve this site. Such tools use permanent cookies to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Edvisors. Third-parties providing such analytics tools may also transfer this information to other third-parties where required to do so by law, or where such third-parties process the information on their behalf. The third-party analytics provider cannot associate your IP address with your personally identifiable information. By using this website, you consent to the processing of data about you by a third-party click tracking analytics provider in the manner and for the purposes set out above. 
@@ -68,6 +72,8 @@ When you are referred to a financial service provider from one of our sites, we 
 **Online Advertising Networks and Third Party Cookies:** Edvisors sometimes runs online ad campaigns that display Edvisors ads to you based on your likely interests. We may learn your likely interests when you use our websites and from other companies and websites that help us understand your likely interests. These types of ads are often called "interest-based ads" or "online behavioral advertising." We hire "ad networks" to display these ads on websites across the Internet.
 
 The ad networks we hire to display these ads set their own cookies on your browser and use web beacons to measure the effectiveness of these ads and to understand your likely interests. Our ad networks and Edvisors both learn which Edvisors ads are shown to you, which ads are clicked on, and on which web page the ads were displayed.
+
+Notwithstanding the above, we may share information collected from you with third party data providers including web log data and/or hashed email addresses. Third party data providers may place anonymous cookies on your browser to receive customized ads or content, which you can opt out of at <http://www.aboutads.info/choices>.
 
 For more general information about interest-based ads and your choices, visit the Digital Advertising Alliance at <http://www.aboutads.info/choices>.
 
@@ -85,9 +91,9 @@ We use User Information to provide you the services you request (such as scholar
 
 We use Technical Information to operate, administer, test and improve our sites, and to customize and improve the user experience.
 
-**Edvisors Sites:** The sites that constitute the Edvisors Network all have access to and use information about you for the purposes described above. If you prefer not to receive marketing materials from Edvisors, you may [opt out.](http://www.edvisors.com/profile/opt-out.php "Opt out")
+**Edvisors Sites:** The sites that constitute the Edvisors Network all have access to and use information about you for the purposes described above. If you prefer not to receive marketing materials from Edvisors, you may [opt out.](http://www.edvisors.com/contact/opt-out/ "Opt out")
 
-**Advertisers and Marketing Partners:** We may share User Information and Technical Information with third parties whose products and services we think may be of interest to you, such as educational institutions; financial companies, such as those that make or arrange student loans and other financial products; non-financial institutions, such as retailers who sell a wide range of products and services to consumers; direct marketing companies; nonprofit organizations. If you prefer not to receive marketing materials from third parties, you may [opt out](http://www.edvisors.com/profile/opt-out.php "Opt out").
+**Advertisers and Marketing Partners:** We may share User Information and Technical Information with third parties whose products and services we think may be of interest to you, such as educational institutions; financial companies, such as those that make or arrange student loans and other financial products; non-financial institutions, such as retailers who sell a wide range of products and services to consumers; direct marketing companies; nonprofit organizations. If you prefer not to receive marketing materials from third parties, you may [opt out](http://www.edvisors.com/contact/opt-out/ "Opt out").
 
 **Analytics Partners:** We may share User Information and Technical Information with third parties who use the information solely for analytical purposes. The third-party analytics provider cannot associate your IP address with your personally identifiable information.
 
@@ -101,13 +107,13 @@ This site contains links to other sites. Please be aware that Edvisors does not 
 
 ## What Choices Do I Have About the Use of My Information?
 
-To edit any of your privacy preferences, please visit our [opt out](http://www.edvisors.com/profile/opt-out.php "Opt out") page. On that page, you may choose to opt out of our use or sharing of your information with third parties for marketing purposes or to change your email delivery options. 
+To edit any of your privacy preferences, please visit our [opt out](http://www.edvisors.com/contact/opt-out/ "Opt out") page. On that page, you may choose to opt out of our use or sharing of your information with third parties for marketing purposes or to change your email delivery options. 
 
 If you wish to opt out of the use of your Technical Information by Online Advertising Networks, please visit <http://www.aboutads.info/choices>. You can also disable or delete cookies directly on your web browser. Please see your browser's "help" content for information on how to do this.
 
-If you have any problems or questions regarding your privacy preferences or opt out options, and cannot resolve them using our [opt out](http://www.edvisors.com/profile/opt-out.php "Opt out") page, please [contact us](http://www.edvisors.com/contact/ "Contact Edvisors").
+If you have any problems or questions regarding your privacy preferences or opt out options, and cannot resolve them using our [opt out](http://www.edvisors.com/contact/opt-out/ "Opt out") page, please [contact us](http://www.edvisors.com/contact/ "Contact Edvisors").
 
-Any California residents who have an established relationship with Edvisors may opt out of Edvisors disclosing your personal information with third parties for marketing purposes. Under California law, third parties include affiliates of Edvisors. If you do not want Edvisors to disclose your personal information to third parties, including affiliates, you can opt-out using or [opt out webpage](http://www.edvisors.com/profile/opt-out.php "Opt out").
+Any California residents who have an established relationship with Edvisors may opt out of Edvisors disclosing your personal information with third parties for marketing purposes. Under California law, third parties include affiliates of Edvisors. If you do not want Edvisors to disclose your personal information to third parties, including affiliates, you can opt-out using or [opt out webpage](http://www.edvisors.com/contact/opt-out/ "Opt out").
 
 VERMONT RESIDENTS: Due to special rules affecting Vermont residents, if you register with a Vermont address, we will not share your personally-identifiable information with third-party marketers.
 
@@ -123,4 +129,4 @@ Your use of this site indicates an acceptance of the terms of the Privacy Policy
 
 ## What is the Effective Date of This Policy?
 
-This policy was last modified on July 17, 2013
+Revised: **December 16th, 2013**
