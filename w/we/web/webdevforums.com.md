@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdevforums.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103153233id_/http%3A//www.webdevforums.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdevforums.com privacy policy that was archived on 2014-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140422205109id_/http%3A//www.webdevforums.com/privacy.php) for the most accurate reproduction.*
 
 # Web Developer Community Forums : Privacy Policy
 
@@ -22,9 +22,9 @@ This site has security measures in place to protect the loss, misuse and alterat
 **Choice/Opt-Out**  
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us.
 
-  1. You can visit the following URL: [http://www.webdevforums.com/profile.php?do=editoptions](https://web.archive.org/web/20131103153233id_/http%3A//www.webdevforums.com/profile.php?do=editoptions)
+  1. You can visit the following URL: [http://www.webdevforums.com/profile.php?do=editoptions](https://web.archive.org/web/20140422205109id_/http%3A//www.webdevforums.com/profile.php?do=editoptions)
 and untick the "Allow Bulletin Board Administrators and Moderators To Send You Email Notices?" option. 
 **Contacting Us**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact the administrator at [admin@webdevforums.com](mailto:%61%64%6d%69%6e%40%77%65%62%64%65%76%66%6f%72%75%6d%73%2e%63%6f%6d)
 
-[Return to the Forums](https://web.archive.org/web/20131103153233id_/http%3A//www.webdevforums.com/index.php?) : Return to Top ^
+[Return to the Forums](https://web.archive.org/web/20140422205109id_/http%3A//www.webdevforums.com/index.php?) : Return to Top ^
