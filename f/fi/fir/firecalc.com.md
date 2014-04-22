@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firecalc.com privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922110744id_/http%3A//www.firecalc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firecalc.com privacy policy that was archived on 2014-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140422042925id_/http%3A//firecalc.com/privacy.php) for the most accurate reproduction.*
 
 # FIRECalc Privacy
 
