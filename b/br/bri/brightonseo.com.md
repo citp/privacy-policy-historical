@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightonseo.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221211031id_/http%3A//www.brightonseo.com/cookie-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightonseo.com privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423002711id_/http%3A//www.brightonseo.com/cookie-privacy-policy) for the most accurate reproduction.*
 
 # Cookie and Privacy Policy - BrightonSEO - BrightonSEO
 
