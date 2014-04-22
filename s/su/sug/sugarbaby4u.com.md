@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sugarbaby4u.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928102934id_/http%3A//www.sugarbaby4u.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugarbaby4u.com privacy policy that was archived on 2014-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140422110247id_/http%3A//www.sugarbaby4u.com/privacy_policy.php) for the most accurate reproduction.*
 
 # SugarBaby4u Privacy Policy
 
