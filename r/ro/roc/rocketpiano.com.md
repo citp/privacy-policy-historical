@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketpiano.com privacy policy that was archived on 2012-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120910060923id_/http%3A//www.rocketpiano.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketpiano.com privacy policy that was archived on 2014-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140422042406id_/http%3A//www.rocketpiano.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Rocket Piano Privacy Policy
 
