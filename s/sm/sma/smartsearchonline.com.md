@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartsearchonline.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216204247id_/http%3A//www.aps2k.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsearchonline.com privacy policy that was archived on 2014-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140422210207id_/http%3A//aps2k.com/privacy) for the most accurate reproduction.*
 
 # Contact: SmartSearch - Recruit the Right Way, Right Away
 
