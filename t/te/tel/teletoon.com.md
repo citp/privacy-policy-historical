@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teletoon.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226204132id_/http%3A//www.teletoon.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teletoon.com privacy policy that was archived on 2014-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140422225614id_/http%3A//www.teletoon.com/en/privacy) for the most accurate reproduction.*
 
 # Teletoon | Privacy Policy
 
@@ -90,13 +90,13 @@ Please contact:
 TELETOON's Privacy Officer via e-mail or by mail to  
 
 
-TELETOON, Brookfield Place,  
-181 Bay Street,  
-P.O. Box 787,  
+TELETOON Corus Quay  
+25 Dockside Drive,  
 Toronto, Ontario,  
-M5J 2T3  
-Telephone: 416-956-2060.  
-e-mail:[privacy@teletoon.com](mailto:privacy@teletoon.com)
+M5A 0B5  
+Telephone: (416) 479-7000  
+Fax: (416) 479-7006.   
+e-mail:[privacy@corusent.com](mailto:privacy@corusent.com)
 
-Updated on 01/07/2008  
+Updated on 02/25/2014  
 Subject to change without notice
