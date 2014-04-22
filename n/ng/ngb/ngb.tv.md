@@ -1,98 +1,87 @@
-> *The following text is extracted and transformed from the ngb.tv privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124094044id_/http%3A//origin.ngb.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngb.tv privacy policy that was archived on 2014-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140422233652id_/http%3A//origin.ngb.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NGB.tv
 
-### NGB.tv Privacy Notice
+This privacy policy applies to your use of the NGB.tv website and its applications for mobile devices (collectively, the “Site”), but does not apply to any third party sites that are linked to them, or any relationships you may maintain with the businesses on the Site.
 
-NGB.tv LLC (“NetworkGlobal Broadcasting”) recognizes that its customers, visitors, users, and others who use NGB.tv (collectively or individually “Users”) value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the NGB.tv Site. NGB.tv provides this Privacy Notice to help you make an informed decision about whether to use or continue using the NGB.tv Site. This Privacy Notice is incorporated into and is subject to the NGB.tv Terms of Use. Your use of the NGB.tv Site and any personal information you provide on the NGB.tv Site remains subject to the terms of this Privacy Notice and our Terms of Use. Please note that any video, image, or other content posted at the direction of Users onto the NGB.tv Site becomes published content and is not considered personally identifiable information subject to this Privacy Notice.   
+The terms “we”, “us”, and “NGB.tv” refer to Online Discovery LLC. The terms “you” and “your” refer to you, as a user of the Site. The term “personal information” means information that you provide to us which allows us to contact or identify you, such as your name, your phone number, your email address, your current location or any other data that is connected to such information.
+
+BY USING THE SITE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH THESE TERMS, YOU SHOULD NOT USE THE SITE. 
+
+### **1\. COLLECTION AND USE OF YOUR INFORMATION**
+
+We use commercially reasonable efforts to make sure that the collection of personal information is limited only to what is necessary in order to serve the purposes outlined below. If we plan to use your information for a manner other than the one which it is collected for, then we will ask you for your consent before we proceed to use it.
+
+**NGB.tv Member Account.** If you create a member account on NGB.tv in order to take advantage of all the services offered on the Site, we may ask for and record personal information such as your name and email address. We use your email address to send you news and updates as well as notifications regarding other users’ actions on your contributed content (such as when other users like or dislike your contributed content or comment on your contributed content). 
+
+**Added Content.** We store and may publicly display your added content on the Site in order to provide the services that we offer. When we display your content, we do so together with your account name (first name and last name), your current location and your profile photo. The term “added content” refers to the information that you submit or post to the Site for public display, such as business ratings, reviews, photos, videos, geo-tags, comments, business profile edits, spottings and the information that you display as part of your member profile.
+
+**Feedback.** If you contact us to provide feedback, register a complaint, or ask a question, we will record any personal information and other content that you provide in your communication so that we can effectively respond to your communication.
+
+**Activity.** We record information relating to your use of the Site, such as the searches you make, the pages you view, your browser type, IP address, requested URL, referring URL, and timestamp information. We use this type of information to administer the Site and provide the highest possible level of service to you. We also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the Site. You cannot be identified from this aggregate information.
+
+**Cookies.** We send cookies to your computer in order to uniquely identify your browser and improve the quality of our service. The term “cookies” refers to small pieces of information that a website sends to your computer’s hard drive while you are viewing the site. We may use both session cookies (which expire once you close your browser) and persistent cookies (which stay on your computer until you delete them). Persistent cookies can be removed by following directions in your specific browser. If you choose to disable cookies, some areas of the Site may not work properly.
+
+**Enforcement.** We may use the information we collect in connection with your use of the Site (including your personal information) in order to investigate, enforce, and apply our Terms of Service and Privacy Policy. 
+
+### **2\. TRANSFER OF INFORMATION**
+
+We may distribute your added content to third parties, as permitted pursuant to our Terms and Conditions of Use. The third parties may in turn publicly display or publish your added content in connection with their own websites and media platforms. When we distribute your added content to third parties, we may include your account name (but not your personal information unless you include it within your added content).
+
+We may share your personal information with third parties to provide you with services that we offer through the Site, conduct quality assurance testing, facilitate creation of accounts, provide technical and customer support, or provide specific services in accordance with your instructions. These third parties are required not to use your personal information other than to provide the services requested by you.
+
+We may share your personal information with our parent company, subsidiaries, joint ventures, or other companies under a common control (collectively, “Affiliates”) that we may have now or in the future, in which case we will require them to honor this Privacy Policy. If another company acquires our company or our assets, that company will possess your personal information, and will assume the rights and obligations with respect to that information as described in this Privacy Policy.
+
+We may disclose your personal information to third parties in a good faith belief that such disclosure is reasonably necessary to:
+
+  * (a) take action regarding suspected illegal activities
+  * (b) enforce or apply our Terms and Conditions of Use and Privacy Policy
+  * (c) comply with legal process, such as a search warrant, subpoena, statute, or court order
+  * (d) protect our rights, reputation, and property, or that of our users, affiliates, or the public. 
 
 
-### The Information NGB.tv Collects:
 
-User Provided Information: You provide certain personally identifiable information (such as your name and email address) to NGB.tv when choosing to participate in various activities on the NGB.tv Site such as uploading videos, posting messages in our forums or in the video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.
+Please note that we are not required to question or contest the validity of any search warrant, subpoena or other similar governmental request that we receive.
 
-  Cookies Information: When you visit the NGB.tv Site, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer that uniquely identifies your browser. NGB.tv uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the BodyArchitect.tv Site may not function properly if the ability to accept cookies is disabled.
+We may disclose information in the aggregate to third parties relating to user behavior in connection with actual or prospective business relationship with those third parties, such as advertisers and content distributors. For example, we may disclose the number of users that have been exposed to, or clicked on, advertising banners.
 
-  Log File Information: When you use the NGB.tv Site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
+We may use third party advertising companies to serve ads when you visit the Site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
 
-  Clear GIFs Information: When you use the NGB.tv Site, we may employ “clear GIFs” (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users anonymously (i.e., in a non-personally-identifiable manner). In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients.
+### 3\. OTHER PEOPLE’S INFORMATION
 
-### The Way NGB.tv Uses Information
+You may choose to provide us with another person’s email address to invite the person to use the Site. We use this information to contact that person about the invitation only once, unless that person becomes a member on the Site or provides us with their email address again, either by subscribing to a newsletter or by other means. By providing us with another person’s e-mail address, you represent to us that you have obtained the consent of the person to share his or her e-mail address with us. All invitees are provided with the option not to receive further invitations. We may disclose such information if required to do so in order to comply with legal process, as described above. 
 
-If you submit personally identifiable information to us through the NGB.tv Site, then we use your personal information to operate, maintain, and provide to you the features and functionality of the NGB.tv Site.
+### 4\. LINKS
 
-  Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Users when you upload videos or send messages through the NGB.tv Site and other Users can contact you through messages and comments. Any videos that you submit to the NGB.tv Site may be redistributed through the internet and other media channels, and may be viewed by the general public.
+The Site may contain links to third party websites to which we have no affiliation. Except as set forth herein, we do not share your personal information with those third parties, and are not responsible for their privacy practices. We suggest you read the privacy policies on all such third party websites. 
 
-  We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major NGB.tv Site changes or for customer service purposes).
+### 5\. CONTROLLING YOUR PERSONAL INFORMATION
 
-  We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the NGB.tv Site and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.
+To the extent you include personal information within your submissions (such as a photo of yourself), third parties may be able to identify you, associate you with your user account, and contact you. Third parties can also associate you with your user account using the “Member Search” feature on the Site, but only if the third party already knows your full name and you include information in your submissions that allow the third party to distinguish you from other users who might share the same full name. Please do not include information in your submissions that you expect to keep private. In addition, you can reduce the risk of being personally identified by choosing a fictitious account name, though doing so may detract from the credibility of your submissions among other users.
 
-  We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the NGB.tv Site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
+As a registered NGB.tv member, you can modify some of your personal information by accessing the “Account” section of this website. 
 
-### When NGB.tv Discloses Information
+If you close your account, we may still retain your personal information in our systems. 
 
-We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
+### 6\. SECURITY
 
-  We do not share your personally identifiable information, such as name or email address, with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+Your account is password protected. We use industry standard measures to protect the personal information that is stored in our database. We limit the access to your personal information to those employees and contractors who need access to perform their job function, such as our customer service personnel. If you have any questions about the security on the Site, please contact us. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that your personal information will never be disclosed in a manner that is inconsistent with this Privacy Policy.
 
-  We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the NGB.tv Site.
+You hereby acknowledge that NGB.tv is not responsible for any intercepted information sent via the internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner.
 
-  We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.
+### 7\. NAI Opt Out Procedures
 
-  NGB.tv also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that NGB.tv believes, in good faith, is appropriate or necessary to enforce our Terms of Use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of NGB.tv, our Users or others.
+Customized or interest based advertising is a commonly used set of technologies that allow advertising platforms to provide you with advertisements more closely tailored to your interests. The Network Advertising Initiative is a coalition of online media firms that allow you to opt-out of customized advertisements within your browser.  
+You can learn about which NAI member firms are customizing advertisements for your browser and choose to opt out of customized advertising of this type by going to the following link: <http://www.networkadvertising.org/choices/>
 
-### Your Options
+### 8\. TERMS AND MODIFICATIONS TO THIS PRIVACY POLICY
 
-You may, of course, decline to submit personally identifiable information through the NGB.tv Site, in which case NGB.tv may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your account profile page. Please note that media files uploaded by Users to the NGB.tv Site cannot be removed and remain subject to our Terms of Use.
+We may modify this Privacy Policy at any time, and will post any new versions on this page. If we make any material changes in the way we use your personal information, we will notify you by sending an e-mail to the last email address you provided to us and/or by prominently posting notice of the changes on our website. Any such changes will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our website. These changes will be effective immediately for new users of the Site. Please note that at all times you are responsible for updating your personal information to provide us with your most current e-mail address. In the event that the last e-mail you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of personal information that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your personal information, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us. Continued use of the Site following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. 
 
-  To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
+### 9\. DISPUTE RESOLUTION
 
-Please contact NGB.tv with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices using this contact form.
+If you believe that NGB.tv has not adhered to this Privacy Policy you may write to NGB.tv at [privacy@mvs.tv](mailto:privacy@mvs.tv). In your correspondence, please describe in as much detail as possible ways in which you believe the Privacy Policy has not been complied with. We will investigate your complaint promptly. 
 
-### Third-party Advertisers, Links to Other Site
+### 10\. CONTACTING THE WEBSITE AND ACCESS TO YOUR PERSONAL INFORMATION
 
-NGB.tv allows other companies, called third-party ad servers or ad networks, to serve advertisements within the NGB.tv Site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the NGB.tv Site. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
-
-NGB.tv does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks NGB.tv to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the NGB.tv Site, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.
-
-  You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices. NGB.tv ‘s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web Site.
-
-### Our Commitment To Data Security
-
-NGB.tv uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to NGB.tv and you do so at your own risk. Once we receive your transmission of information, NGB.tv makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
-
-If NGB.tv learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. NGB.tv may post a notice on the NGB.tv Site if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using this contact form.
-
-### Our Commitment To Childrens’ Privacy
-
-We are committed to protecting the privacy of young children. For that reason, NGB.tv does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the NGB.tv Site from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then do not use or access the NGB.tv Site at any time or in any manner. If NGB.tv learns that personally identifiable information of persons under 13 years of age has been collected on the NGB.tv Site without verified parental consent, then NGB.tv will take the appropriate steps to delete this information.
-
-### Special Note to International Users
-
-The NGB.tv Site is hosted in the United States and is intended for and directed to Users in the United States. If you are a User accessing the NGB.tv Site from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the NGB.tv Site, which are governed by U.S. law, this Privacy Notice, and our Terms of Use, you are transferring your personal information to the United States and you consent to that transfer.
-
-### Merger, Sale, or Bankruptcy
-
-In the event that NGB.tv is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors’ rights generally, we may not be able to control how your personal information is treated, transferred, or used.
-
-### Changes and updates to this Privacy Notice
-
-This Privacy Notice may be revised periodically and this will be reflected by the “effective date” below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the NGB.tv Site constitutes your agreement to this Privacy Notice and any future revisions.
-
- 
-
-For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
-
-**Date Last Modified: **  
-****
-
- ** **This Privacy Notice was last modified August 12, 2010.****
-
-******Contact Information:**  
-****
-
- ** **
-
-Please contact NGB.tv with any questions or comments about this Privacy Notice, please call email reports@networkglobal.tv.
-
-****
+If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can contact us using the contact information listed above.
