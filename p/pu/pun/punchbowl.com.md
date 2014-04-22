@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punchbowl.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022192146id_/http%3A//www.punchbowl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punchbowl.com privacy policy that was archived on 2014-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140422194642id_/http%3A//www.punchbowl.com/privacy-policy) for the most accurate reproduction.*
 
 # Punchbowl.com
 
@@ -41,6 +41,8 @@ From time to time, _Punchbowl, Inc._ may enter into strategic partnerships in wh
 _Punchbowl, Inc._ keeps track of the Web sites and pages our customers visit within Punchbowl, in order to determine what _Punchbowl, Inc._ services are the most popular. This data is used to deliver customized content and advertising within Punchbowl to customers whose behavior indicates that they are interested in a particular subject area.
 
 _Punchbowl, Inc._ will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on _Punchbowl, Inc._ or the site; (b) protect and defend the rights or property of _Punchbowl, Inc._ ; and, (c) act under exigent circumstances to protect the personal safety of users of _Punchbowl, Inc._ , or the public.
+
+Notwithstanding any other provision, we may also engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please go to <http://www.aboutads.info/choices>.
 
 ## Use of Cookies
 
