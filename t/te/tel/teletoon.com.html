@@ -1,7 +1,11 @@
-<!--The following is the downloaded HTML source of the teletoon.com privacy policy that was archived on 2013-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131226204132id_/http%3A//www.teletoon.com/en/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teletoon.com privacy policy that was archived on 2014-04-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140422225614id_/http%3A//www.teletoon.com/en/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en"><head><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="f5_cspm">(function(){var f5_cspm={f5_p:'CMDFHEJDHOAKENHGDIKIPGPIGLOBODMBGOGGKLBENABBGIOHKCLNLJNFPAPAJOINOLGAAKOEFNLJDAPPCLGPCIFJMMAAMBDJOMHLPNEDDHGAHKOABKGLMFLKCOAEFHPK',setCharAt:function(str,index,chr){if(index>str.length-1)return str;return str.substr(0,index)+chr+str.substr(index+1);},get_byte:function(str,i){var s=(i/16)|0;i=(i&15);s=s*32;return((str.charCodeAt(i+16+s)-65)<<4)|(str.charCodeAt(i+s)-65);},set_byte:function(str,i,b){var s=(i/16)|0;i=(i&15);s=s*32;str=f5_cspm.setCharAt(str,(i+16+s),String.fromCharCode((b>>4)+65));str=f5_cspm.setCharAt(str,(i+s),String.fromCharCode((b&15)+65));return str;},set_latency:function(str,latency){latency=latency&0xffff;str=f5_cspm.set_byte(str,32,(latency>>8));str=f5_cspm.set_byte(str,33,(latency&0xff));str=f5_cspm.set_byte(str,27,2);return str;},wait_perf_data:function(){try{var wp=window.performance.timing;if(wp.loadEventEnd>0){var res=wp.loadEventEnd-wp.navigationStart;if(res<60001){var cookie_val=f5_cspm.set_latency(f5_cspm.f5_p,res);window.document.cookie='aaaaaaaaaaaaaaa='+encodeURIComponent(cookie_val)+';path=/';}
+return;}}
+catch(err){return;}
+setTimeout(f5_cspm.wait_perf_data,100);return;},go:function(){var chunk=window.document.cookie.split(/\s*;\s*/);for(var i=0;i<chunk.length;++i){var pair=chunk[i].split(/\s*=\s*/);if(pair[0]=='f5_cspm'){if(pair[1]=='1234'){var d=new Date();d.setTime(d.getTime()-1);window.document.cookie='f5_cspm=;expires='+d.toUTCString()+';path=/;';setTimeout(f5_cspm.wait_perf_data,100);}}}}}
+f5_cspm.go();}());</script>
           <!--EE-->
           <!--include metadata-->
           <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -21,7 +25,7 @@
           <!-- Template -->
           
 <!-- Full Site JavaScript Library-->
-<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">   
+<script type="text/javascript">   
 //<![CDATA[
 
 /*------------------------------
@@ -42,8 +46,8 @@ tt.promoFolder;									//promo folder (site catalyst)
 tt.showFolder;									// /tv/showFolder/ reference
 tt.to;											//common timeout reference
 tt.button;										//selected button effect reference
-tt.pageURL="/en/privacy";		//localized page url
-tt.today= new Date("December 26, 2013 15:41:32");
+tt.pageURL="/en/privacy/";		//localized page url
+tt.today= new Date("April 22, 2014 18:56:14");
 tt.warning = new Object();
 //]]>
 </script>
@@ -171,74 +175,11 @@ function openWarningModal(w_ob) {
 		tt.promoClient = w_ob.promoClient;
 		tt.promoFolder = w_ob.promoFolder;
 		tt.showFolder = "\n";
-		SC_Track.warningPage(w_ob.type,w_ob.page,w_ob.url);
-	} else if (w_ob.type == "itunes" || w_ob.type == "appStore") {
-		//push show var to top level, reset unused vars
-		tt.promoClient = "\n";
-		tt.promoFolder = "\n";
-		tt.showFolder = w_ob.showFolder;
-		SC_Track.warningPage(w_ob.type,w_ob.page,w_ob.url);
-	} else {
-		//reset unused vars
-		tt.promoClient = "\n";
-		tt.promoFolder = "\n";
-		tt.showFolder = "\n";
-		SC_Track.warningPage(w_ob.type,w_ob.page,w_ob.url);
-	}
-		
-	//set default bg img, if needed
-	if (!w_ob.img) { w_ob.img="/teletoon4/"+tt.language+"/images/exitPage_bg_"+tt.language+".png";}
-	//set default size
-	if (!w_ob.w) { w_ob.w=610 };
-	if (!w_ob.h) { w_ob.h=405 };
-	
-	trace("Image is w_img="+w_ob.img);
-	trace("URL is w_url="+w_ob.url);
-	
-	//construct css
-	bgImg="url("+w_ob.img+")";
-	
-	$("#tt_warningPage").width(w_ob.w);
-	$("#tt_warningPage").height(w_ob.h);
-	
-	$("#tt_warningPage").modal( {
-			containerCss:{
-				width:w_ob.w,
-				height:w_ob.h,
-				padding:0,
-				margin:0
-			},
-			closeClass:"tt_warningPage_close",
-			overlayClose:true,
-			overlayCss: {backgroundColor:"#000"}
-		});
-	
-	//add image
-	$("#tt_warningPage").css('background-image', bgImg);
-	
-	//add continue btn click function
-	$("#tt_warningPage_leave_btn").click(function(){
-	
-		//sitecatalyst link tracking
-		sc_TrackExit(w_ob);
-	
-		window.open(w_ob.url, '_blank');
-	});
-						
-	//add stay btn click function
-	$("#tt_warningPage_stay_btn").click(function(){
-		$("#tt_warningPage_leave_btn").click(function(){});
-		$.modal.close();
-	});
-		
-}
-//]]>
-</script>
-          <link rel="stylesheet" type="text/css" href="/teletoon4/css/ttCore.css">
-          <link rel="stylesheet" type="text/css" href="/teletoon4/css/ttText.css">
-		  <link rel="stylesheet" type="text/css" href="/teletoon4/css/ttContent.css">
-		  <link rel="stylesheet" type="text/css" media="all" href="/teletoon4/en/css/ttNav.css">
-     <style type="text/css" media="screen">#btn_swf {visibility:hidden}</style></head>
+		SC_Track.warnin          <link rel="stylesheet" type="text/css" href="/teletoon4/css/ttCore.css" />
+          <link rel="stylesheet" type="text/css" href="/teletoon4/css/ttText.css" />
+		  <link rel="stylesheet" type="text/css" href="/teletoon4/css/ttContent.css" />
+		  <link rel="stylesheet" type="text/css" media="all" href="/teletoon4/en/css/ttNav.css" />
+     </head>
      <body>
 	 <!-- Omniture Shared Code/Include -->
      
@@ -250,7 +191,7 @@ function openWarningModal(w_ob) {
 <!-- Begin comScore Tag -->
 <script type="text/javascript">
   var _comscore = _comscore || [];
-  _comscore.push({ c1: "2", c2: "3005688", c4: "www.teletoon.com/en/privacy" });
+  _comscore.push({ c1: "2", c2: "3005688", c4: "www.teletoon.com/en/privacy/" });
   (function() {
     var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
     s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
@@ -259,11 +200,11 @@ function openWarningModal(w_ob) {
 </script>
 <noscript>
 <div style="display:none;">
-  <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=3005688&amp;&amp;c4=www.teletoon.com/en/privacycv=2.0&amp;cj=1" />
+  <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=3005688&amp;&amp;c4=www.teletoon.com/en/privacy/cv=2.0&amp;cj=1" />
 </div>
 </noscript>
 <!-- End comScore Tag -->
-			<div id="ad_link"></div> 
+			<style type="text/css" media="screen">#btn_swf {visibility:hidden}</style></head><body><div id="ad_link"></div> 
 			<div id="tt_ad_site">
                <div id="tt_unReal_otp"></div>
                <!-- End Template -->
@@ -314,7 +255,8 @@ function openWarningModal(w_ob) {
 <!--End top strip-->
 
 <!--Top Site Nav-->
-<div id="tt_nav" style="background: none;">
+<div id="tt_nav">
+<!--<div id="tt_nav" style="background: none;">-->
      <div id="tt_nav_logo"><a href="/en/">teletoon.com</a></div>
      <div id="tt_nav_btns">
           <ul>
@@ -377,59 +319,59 @@ function openWarningModal(w_ob) {
      <!-- Show Name -->
      <div class="tt_showNav_showName"></div>
      <div id="tt_showNav_highlightShows">
- <a href="/en/cantMissThursdays/"><img src="/teletoon4/en/images/tv/thumbs/cantMissThursdays.jpg" width="108" height="74" alt="Can't Miss Thursday"></a><!-- 	
-       --><a href="/en/tv/adventureTime/"><img src="/teletoon4/en/images/tv/thumbs/adventureTime.jpg" width="108" height="74" alt="Adventure Time with Finn &amp; Jake"></a><!-- 	
-	 --><a href="/en/tv/detentionaire/"><img src="/teletoon4/en/images/tv/thumbs/detentionaire.jpg" width="108" height="74" alt="Detentionaire"></a><!--
-	 --><a href="/en/tv/regularShow"><img src="/teletoon4/en/images/tv/thumbs/regularShow.jpg" width="108" height="74" alt="Regular Show"></a><!-- 	
-	  --><a href="/en/tv/dreamworksDragons/"><img src="/teletoon4/en/images/tv/thumbs/dreamworksDragons.jpg" width="108" height="74" alt="Dragons Riders of Berk"></a><!--	
-	  --><a href="/en/tv/annoyingOrange/"><img src="/teletoon4/en/images/tv/thumbs/annoyingOrange.jpg" width="108" height="74" alt="Annoying Orange"></a><!--	
-	  --><a href="/en/tv/legoLegendsOfChima/"><img src="/teletoon4/en/images/tv/thumbs/legoLegendsOfChima.jpg" width="108" height="74" alt="Lego Legends of Chima"></a><!--
-	  --><a href="http://www.grojband.com"><img src="/teletoon4/en/images/tv/thumbs/grojband.jpg" width="108" height="74" alt="Grojband"></a><!--
+ <a href="/en/cantMissThursdays/"><img src="/teletoon4/en/thumbs/cantMissThursdays_146.png" width="108" height="74" alt="Can't Miss Thursday"></a><!-- 	
+       --><a href="/en/tv/adventureTimeWithFinnAndJake/"><img src="/tv/adventureTimeWithFinnAndJake/showBar_adventureTimeWithFinnAndJake_108_en.jpg" width="108" height="74" alt="Adventure Time with Finn &amp; Jake"></a><!-- 	
+     --><a href="/en/tv/totalDramaAllStars/"><img src="/tv/totalDramaRevengeOfTheIsland/showBar_totalDramaRevengeOfTheIsland_108_en.jpg" width="108" height="74" alt="Total Drama All Stars"></a><!--	
+	  --><a href="/en/tv/dragonsRidersOfBerk/"><img src="/tv/dragonsRidersOfBerk/dragons_scroller_146.jpg" width="108" height="74" alt="Dragons Riders of Berk"></a><!--	
+	  --><a href="/en/tv/annoyingOrange/"><img src="/tv/annoyingOrange/scroller_annoyingOrange_120.jpg" width="108" height="74" alt="Annoying Orange"></a><!--	
+	  --><a href="/en/tv/legoLegendsOfChima/"><img src="/tv/legoLegendsOfChima/scroller_legoChima.jpg" width="108" height="74" alt="Lego Legends of Chima"></a><!--
+	  --><a href="/en/tv/packagesFromPlanetX"><img src="/tv/packagesFromPlanetX/scroller_planetx_146_en.jpg" width="108" height="74" alt="Packages from Planet X"></a><!--
+      --><a href="/en/tv/rocketMonkeys/"><img src="/tv/rocketMonkeys/rocketMonkeys_146.jpg" width="108" height="74" alt="Rocket Monkeys"></a><!--
       -->
      </div>
      <!--List-->
      <div id="tt_showNav_list">
-		<a href="/en/bigTicket/"><img src="/teletoon4/en/images/tv/thumbs/bigTicket.jpg" width="108" height="74" alt="Big Ticket Movies" style="margin-left: 0px;"></a><!--
---><a href="/en/tv/greenLantern/"><img src="/teletoon4/en/images/tv/thumbs/greenLantern.jpg" width="108" height="74" alt="Green Lantern: The Animated Series"></a><!--
---><a href="/en/tv/avengersAssemble/"><img src="/teletoon4/en/images/tv/thumbs/avengersAssemble.jpg" width="108" height="74" alt="Avengers Assemble"></a><!--
---><a href="/en/tv/teenTitansGo/"><img src="/teletoon4/en/images/tv/thumbs/teenTitansGo.jpg" width="108" height="74" alt="Teen Titans Go!"></a><!--
---><a href="/en/tv/angryBirds/"><img src="/teletoon4/en/images/tv/thumbs/angryBirds.jpg" width="108" height="74" alt="Angry Birds"></a><!--
---><a href="/en/tv/rocketMonkeys/"><img src="/teletoon4/en/images/tv/thumbs/rocketMonkeys.jpg" width="108" height="74" alt="Rocket Monkeys"></a><!--
---><a href="/en/tv/jimmyTwoShoes/"><img src="/teletoon4/en/images/tv/thumbs/jimmyTwoShoes.jpg" width="108" height="74" alt="Jimmy Two-Shoes"></a><!--
---><a href="/en/tv/bugsBunnyAndTweetyShow/"><img src="/teletoon4/en/images/tv/thumbs/bugsBunnyAndTweetyShow.jpg" width="108" height="74" alt="The Bugs Bunny and Tweety Show" style="margin-right: 0px;"></a><!--
---><a href="/en/tv/campLakebottom"><img src="/teletoon4/en/images/tv/thumbs/campLakebottom.jpg" width="108" height="74" alt="Camp Lakebottom" style="margin-left: 0px;"></a><!--
+		<a href="/en/bigTicket"><img src="/teletoon4/en/thumbs/BTM_showbar.jpg" width="108" height="74" alt="Big Ticket Movies" style="margin-left: 0px;"></a><!--
+--><a href="http://www.grojband.com"><img src="/tv/grojband/scroller_groBand.jpg" width="108" height="74" alt="Grojband"></a><!--
+--><a href="/en/tv/detentionaire/"><img src="/tv/detentionaire/showBar_detentionaire_108_en.jpg" width="108" height="74" alt="Detentionaire"></a><!--
+--><a href="/en/tv/hulk/"><img src="/tv/hulk/scroller_hulk_146.jpg" width="108" height="74" alt="Hulk and the Agents of SMASH"></a><!--
+--><a href="/en/tv/avengersSeries/"><img src="/tv/avengersSeries/scroller_avengersAssemble.jpg" width="108" height="74" alt="Avengers Assemble"></a><!--
+--><a href="/en/tv/teenTitansGo/"><img src="/tv/teenTitansGo/scroller_teenTitans.jpg" width="108" height="74" alt="Teen Titans Go!"></a><!--
+--><a href="/en/tv/angryBirds/"><img src="/tv/angryBirds/scroller_angrybirds_146.jpg" width="108" height="74" alt="Angry Birds"></a><!--
+--><a href="/en/tv/jimmyTwoShoes/"><img src="/tv/jimmyTwoShoes/showBar_jimmyTwoShoes_108_en.jpg" width="108" height="74" alt="Jimmy Two-Shoes" style="margin-right: 0px;"></a><!--
+--><a href="/en/tv/bugsBunnyAndTweetyShow/"><img src="/tv/bugsBunnyAndTweetyShow/showBar_bugsAndTweetyShow_108_en.jpg" width="108" height="74" alt="The Bugs Bunny and Tweety Show" style="margin-left: 0px;"></a><!--
+--><a href="/en/tv/campLakebottom"><img src="/tv/campLakebottom/scroller_campLakebottom_146_en.jpg" width="108" height="74" alt="Camp Lakebottom"></a><!--
 <!--<a href="/en/tv/holeInTheWall/"><img src="/tv/holeInTheWall/showBar_holeInTheWall_108_en.jpg" width="108" height="74" alt="Hole in the Wall" /></a><!--
---><a href="/en/tv/skatoony/"><img src="/teletoon4/en/images/tv/thumbs/skatoony.jpg" width="108" height="74" alt="Skatoony"></a><!--
---><a href="/en/tv/transformersPrime/"><img src="/teletoon4/en/images/tv/thumbs/transformersPrime.jpg" width="108" height="74" alt="Transformers Prime"></a><!--
---><a href="/en/tv/johnnyTest/"><img src="/teletoon4/en/images/tv/thumbs/johnnyTest.jpg" width="108" height="74" alt="Johnny Test"></a><!--
---><a href="/en/tv/bakuganMechtaniumSurge/"><img src="/teletoon4/en/images/tv/thumbs/bakuganMechtaniumSurge.jpg" width="108" height="74" alt="Bakugan: Mechtanium Surge"></a><!--
+--><a href="/en/tv/skatoony/"><img src="/tv/skatoony/showBar_skatoony_108_en.jpg" width="108" height="74" alt="Skatoony"></a><!--
+--><a href="/en/tv/transformersPrime/"><img src="/tv/transformersPrime/showBar_transformersPrime_108_en.jpg" width="108" height="74" alt="Transformers Prime"></a><!--
+--><a href="/en/tv/johnnyTest/"><img src="/tv/johnnyTest/showBar_johnnyTest_108_en.jpg" width="108" height="74" alt="Johnny Test"></a><!--
+--><a href="/en/tv/bakuganMechtaniumSurge/"><img src="/tv/bakuganMechtaniumSurge/showBar_bakuganMechtaniumSurge_108_en.jpg" width="108" height="74" alt="Bakugan: Mechtanium Surge"></a><!--
 <!--<a href="/en/tv/hotWheelsBattleForce5/"><img src="/tv/hotWheelsBattleForce5/showBar_hotWheelsBattleForce5_108_en.jpg" width="108" height="74" alt="Hot Wheels Battle Force 5" /></a><!--
---><a href="/en/tv/6teen/"><img src="/teletoon4/en/images/tv/thumbs/6teen.jpg" width="108" height="74" alt="6TEEN"></a><!--
---><a href="/en/tv/monsterInABox/"><img src="/teletoon4/en/images/tv/thumbs/monsterInABox.jpg" width="108" height="74" alt="Monster in a Box"></a><!--
---><a href="/en/tv/bewareTheBatman/"><img src="/teletoon4/en/images/tv/thumbs/bewareTheBatman.jpg" width="108" height="74" alt="Beware the Batman" style="margin-right: 0px;"></a><!--
---><a href="/en/tv/legoNinjago/"><img src="/teletoon4/en/images/tv/thumbs/legoNinjago.jpg" width="108" height="74" alt="Lego Ninjago" style="margin-left: 0px;"></a><!--
+--><a href="/en/tv/6teen/"><img src="/tv/6teen/showBar_6teen_108_en.jpg" width="108" height="74" alt="6TEEN"></a><!--
+--><a href="/en/tv/monsterInABox/"><img src="/tv/monsterInABox/showBar_monsterInABox_108.png" width="108" height="74" alt="Monster in a Box" style="margin-right: 0px;"></a><!--
+--><a href="/en/tv/bewareTheBatman/"><img src="/tv/bewareTheBatman/scroller_bewareTheBatman_146.jpg" width="108" height="74" alt="Beware the Batman" style="margin-left: 0px;"></a><!--
+--><a href="/en/tv/legoNinjago/"><img src="/tv/legoNinjago/showBar_legoNinjago_108.jpg" width="108" height="74" alt="Lego Ninjago"></a><!--
 <!--<a href="/en/tv/bestEd/"><img src="/tv/bestEd/showBar_bestEd_108_en.jpg" width="108" height="74" alt="Best Ed" /></a><!--
---><a href="/en/tv/gumball/"><img src="/teletoon4/en/images/tv/thumbs/gumball.jpg" width="108" height="74" alt="The Amazing World of Gumball"></a><!--
---><a href="/en/tv/maxSteel/"><img src="/teletoon4/en/images/tv/thumbs/maxSteel.jpg" width="108" height="74" alt="Max Steel"></a><!--
---><a href="/en/tv/looneyTunesShow/"><img src="/teletoon4/en/images/tv/thumbs/looneyTunesShow.jpg" width="108" height="74" alt="Looney Tunes Show"></a><!--
---><a href="/en/tv/tomAndJerryTales/"><img src="/teletoon4/en/images/tv/thumbs/tomAndJerryTales.jpg" width="108" height="74" alt="Tom and Jerry Tales"></a><!--
---><a href="/en/tv/amazingSpiez/"><img src="/teletoon4/en/images/tv/thumbs/amazingSpiez.jpg" width="108" height="74" alt="The Amazing Spiez"></a><!--
+--><a href="/en/tv/gumball/"><img src="/tv/gumball/gumball_showbar.jpg" width="108" height="74" alt="The Amazing World of Gumball"></a><!--
+--><a href="/en/tv/maxSteel/"><img src="/tv/maxSteel/scroller_maxsteel_146.jpg" width="108" height="74" alt="Max Steel"></a><!--
+--><a href="/en/tv/looneyTunesShow/"><img src="/tv/looneyTunesShow/showBar_looneyTunesShow_108_en.jpg" width="108" height="74" alt="Looney Tunes Show"></a><!--
+--><a href="/en/tv/tomAndJerryTales/"><img src="/tv/tomAndJerryTales/showBar_tomAndJerryTales_108_en.jpg" width="108" height="74" alt="Tom and Jerry Tales"></a><!--
+--><a href="/en/tv/amazingSpieZ/"><img src="/tv/amazingSpieZ/showBar_amazingSpieZ_108_en.jpg" width="108" height="74" alt="The Amazing Spiez"></a><!--
 <!--<a href="/en/tv/hauntingHour/"><img src="/tv/hauntingHour/showBar_hauntingHour_108_en.jpg" width="108" height="74" alt="The Haunting Hour" /></a><!--
---><a href="/en/tv/tenkaiKnights/"><img src="/teletoon4/en/images/tv/thumbs/tenkaiKnights.jpg" width="108" height="74" alt="Tenkai Knights"></a><!--
+--><a href="/en/tv/tenkaiKnights/"><img src="/tv/tenkaiKnights/tenkai_knights_146.jpg" width="108" height="74" alt="Tenkai Knights" style="margin-right: 0px;"></a><!--
 <!--<a href="/en/tv/carl2/"><img src="/tv/carl2/showBar_carl2_108_en.jpg" width="108" height="74" alt="Carl Squared" /></a><!--
---><a href="/en/tv/chowder/"><img src="/teletoon4/en/images/tv/thumbs/chowder.jpg" width="108" height="74" alt="Chowder" style="margin-right: 0px;"></a><!--
---><a href="/en/tv/mudpit/"><img src="/teletoon4/en/images/tv/thumbs/mudpit.jpg" width="108" height="74" alt="Mudpit" style="margin-left: 0px;"></a><!--
+--><a href="/en/tv/chowder/"><img src="/tv/chowder/showBar_chowder_108_en.jpg" width="108" height="74" alt="Chowder" style="margin-left: 0px;"></a><!--
+--><a href="/en/tv/mudpit/"><img src="/tv/mudpit/showBar_mudpit_108_en.jpg" width="108" height="74" alt="Mudpit"></a><!--
 <!--<a href="/en/tv/georgeOfTheJungle/"><img src="/tv/georgeOfTheJungle/showBar_georgeOfTheJungle_108_en.jpg" width="108" height="74" alt="George of the Jungle" /></a><!--
---><a href="/en/tv/totallySpies/"><img src="/teletoon4/en/images/tv/thumbs/totallySpies.jpg" width="108" height="74" alt="Totally Spies!"></a><!--
---><a href="http://www.totaldramaonline.com/"><img src="/teletoon4/en/images/tv/thumbs/totalDramaRevengeOfTheIsland.jpg" width="108" height="74" alt="Total Drama Revenge of the Island"></a><!--
---><a href="/en/tv/scoobyDooMysteryInc/"><img src="/teletoon4/en/images/tv/thumbs/scoobyDooMysteryInc.jpg" width="108" height="74" alt="Scooby-Doo, Mystery Inc."></a><!--
+--><a href="/en/tv/totallySpies/"><img src="/tv/totallySpies/showBar_totallySpies_108_en.jpg" width="108" height="74" alt="Totally Spies!"></a><!--
+--><a href="/en/tv/scoobyDooMysteryIncorporated/"><img src="/tv/scoobyDooMysteryIncorporated/showBar_scoobyDooMysteryIncorporated_108_en.jpg" width="108" height="74" alt="Scooby-Doo, Mystery Inc."></a><!--
 <!--<a href="/en/tv/spliced/"><img src="/tv/spliced/showBar_spliced_108_en.jpg" width="108" height="74" alt="Spliced" /></a><!--
---><a href="/en/tv/ultimateSpiderman"><img src="/teletoon4/en/images/tv/thumbs/ultimateSpiderman.jpg" width="108" height="74" alt="Ultimate Spiderman"></a><!--
---><a href="/en/tv/starWarsCloneWars/"><img src="/teletoon4/en/images/tv/thumbs/starWarsCloneWars.jpg" width="108" height="74" alt="Star Wars: The Clone Wars"></a><!--
+--><a href="/en/tv/ultimateSpiderman"><img src="/tv/ultimateSpiderman/ultimateSpiderman_showbar.jpg" width="108" height="74" alt="Ultimate Spiderman"></a><!--
+--><a href="/en/tv/starWarsCloneWarsSeries/"><img src="/tv/starWarsCloneWarsSeries/showBar_starWarsCloneWarsSeries_108_en.jpg" width="108" height="74" alt="Star Wars: The Clone Wars"></a><!--
+ --><a href="/en/tv/regularShow"><img src="/tv/regularShow/regularShow_showbar.jpg" width="108" height="74" alt="Regular Show"></a><!-- 
 <!--<a href="/en/tv/geoFreakz/"><img src="/tv/geoFreakz/showBar_geoFreakz_108_en.jpg" width="108" height="74" alt="Geo Freakz" /></a><!--
---><a href="/en/tv/kaijudo"><img src="/teletoon4/en/images/tv/thumbs/kaijudo.jpg" width="108" height="74" alt="Kaijudo"></a><!--
+--><a href="/en/tv/kaijudo"><img src="/tv/kaijudo/kaijudo_showbar.jpg" width="108" height="74" alt="Kaijudo" style="margin-right: 0px;"></a><!--
 <!--<a href="/en/tv/gameOfLife"><img src="/tv/gameOfLife/gameOfLife_showbar.jpg" width="108" height="74" alt="Game of Life" /></a><!--
---><a href="http://www.mybabysittersavampire.com/"><img src="/teletoon4/en/images/tv/thumbs/myBabysittersAVampireSeries.jpg" width="108" height="74" alt="My Babysitter's A Vampire" style="margin-right: 0px;"></a><!--
 	 -->	 
  </div>
      <!--cta-->
@@ -449,7 +391,7 @@ function openWarningModal(w_ob) {
 		<script type="text/javascript"><!--
 		document.write('<scr'+'ipt type="text/javascript" src="//adserver.adtechus.com/addyn/3.0/5226/951193/0/225/ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 		//-->
-		</script><script type="text/javascript" src="//adserver.adtechus.com/addyn/3.0/5226/951193/0/225/ADTECH;loc=100;target=_blank;key=;grp=33;misc=1580347117439"></script>
+		</script><script type="text/javascript" src="//adserver.adtechus.com/addyn/3.0/5226/951193/0/225/ADTECH;loc=100;target=_blank;key=;grp=602;misc=1580347118065"></script>
 		<noscript><div><a href="//adserver.adtechus.com/adlink/3.0/5226/951193/0/225/ADTECH;loc=300;key=;grp='+window.adgroupid+'" target="_blank"><img src="//adserver.adtechus.com/adserv/3.0/5226/951193/0/225/ADTECH;loc=300;key=;grp='+window.adgroupid+'" width="728" height="90" alt=""/></a></div></noscript>
 		<!-- End of JavaScript Tag -->
 	<!-- END leaderboard -->
@@ -531,8 +473,9 @@ function openWarningModal(w_ob) {
 			                                </li>
 						    </ul>
 								<p>Please contact:<br>TELETOON's Privacy Officer via e-mail or by mail to<br>
-								</p><p>TELETOON, Brookfield Place,<br>181 Bay Street,<br>P.O. Box 787,<br>Toronto, Ontario,<br>M5J 2T3<br>Telephone: 416-956-2060.<br>e-mail:<a href="mailto:privacy@teletoon.com">privacy@teletoon.com</a></p>
-								<p>Updated on 01/07/2008<br>Subject to change without notice</p>
+								</p><p>TELETOON Corus Quay<br>25 Dockside Drive,<br>Toronto, Ontario,<br>M5A 0B5<br>Telephone: (416) 479-7000<br>Fax: (416) 479-7006.
+								<br>e-mail:<a href="mailto:privacy@corusent.com">privacy@corusent.com</a></p>
+								<p>Updated on 02/25/2014<br>Subject to change without notice</p>
 						</div>
                          </div>
                          <!--right side-->
@@ -546,7 +489,7 @@ function openWarningModal(w_ob) {
 		<script type="text/javascript"><!--
 		document.write('<scr'+'ipt src="//adserver.adtechus.com/addyn/3.0/5226/951078/0/170/ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 		//-->
-		</script><script src="//adserver.adtechus.com/addyn/3.0/5226/951078/0/170/ADTECH;loc=100;target=_blank;key=;grp=33;misc=1580347117576"></script>
+		</script><script src="//adserver.adtechus.com/addyn/3.0/5226/951078/0/170/ADTECH;loc=100;target=_blank;key=;grp=602;misc=1580347118212"></script>
 		<noscript><div><a href="//adserver.adtechus.com/adlink/3.0/5226/951078/0/170/ADTECH;loc=300;key=;grp='+window.adgroupid+'" target="_blank"><img src="//adserver.adtechus.com/adserv/3.0/5226/951078/0/170/ADTECH;loc=300;key=;grp='+window.adgroupid+'" width="300" height="250" alt="" /></a></div></noscript>
 		<!-- End of JavaScript Tag -->
 	<!-- End 300x250 big box  --><div class="tt_adUnit_title">AD</div></div><br>
@@ -562,7 +505,7 @@ function openWarningModal(w_ob) {
 		<script type="text/javascript"><!--
 		document.write('<scr'+'ipt src="//adserver.adtechus.com/addyn/3.0/5226/951174/0/529/ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 		//-->
-		</script><script src="//adserver.adtechus.com/addyn/3.0/5226/951174/0/529/ADTECH;loc=100;target=_blank;key=;grp=33;misc=1580347117594"></script>
+		</script><script src="//adserver.adtechus.com/addyn/3.0/5226/951174/0/529/ADTECH;loc=100;target=_blank;key=;grp=602;misc=1580347118214"></script>
 		<noscript><div><a href="//adserver.adtechus.com/adlink/3.0/5226/951174/0/529/ADTECH;loc=300;key=;grp='+window.adgroupid+'" target="_blank"><img src="//adserver.adtechus.com/adserv/3.0/5226/951174/0/529/ADTECH;loc=300;key=;grp='+window.adgroupid+'" width="300" height="600" alt=""/></a></div></noscript>
 		<!-- End of JavaScript Tag -->
 	<!-- END half-page 300x600 -->
@@ -620,7 +563,7 @@ function openWarningModal(w_ob) {
 	</ul>
 	<ul>
 		<li>TELETOON acknowledges that all copyrights for characters and artwork are property of their respective owners</li>
-		<li><br>© 2013 TELETOON Canada Inc.</li>
+		<li><br>© 2013 Corus Digital Inc. Corus Kids</li>
 	</ul>
 	<ul>
 		<li><a href="http://www.teletoon.com/en/">teletoon.com</a></li>
@@ -704,7 +647,7 @@ function openWarningModal(w_ob) {
 		<script type="text/javascript"><!--
 		document.write('<scr'+'ipt type="text/javascript" src="//adserver.adtechus.com/addyn/3.0/5226/2192298/0/3454/ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 		//-->
-		</script><script type="text/javascript" src="//adserver.adtechus.com/addyn/3.0/5226/2192298/0/3454/ADTECH;loc=100;target=_blank;key=;grp=33;misc=1580347118002"></script>
+		</script><script type="text/javascript" src="//adserver.adtechus.com/addyn/3.0/5226/2192298/0/3454/ADTECH;loc=100;target=_blank;key=;grp=602;misc=1580347118227"></script>
 		<noscript><div><a href="//adserver.adtechus.com/adlink/3.0/5226/2192298/0/3454/ADTECH;loc=300;key=;grp='+window.adgroupid+'" target="_blank"><img src="//adserver.adtechus.com/adserv/3.0/5226/2192298/0/3454/ADTECH;loc=300;key=;grp='+window.adgroupid+'" width="1600" height="1050" alt=""/></a></div></noscript>
 	<!-- End of JavaScript Tag -->			   
 					<!--Ad OTP-->
@@ -714,7 +657,7 @@ function openWarningModal(w_ob) {
 	<script type="text/javascript"><!--
 	document.write('<scr'+'ipt type="text/javascript" src="//adserver.adtechus.com/addyn/3.0/5226/951100/0/277/ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 	//-->
-	</script><script type="text/javascript" src="//adserver.adtechus.com/addyn/3.0/5226/951100/0/277/ADTECH;loc=100;target=_blank;key=;grp=33;misc=1580347118012"></script>
+	</script><script type="text/javascript" src="//adserver.adtechus.com/addyn/3.0/5226/951100/0/277/ADTECH;loc=100;target=_blank;key=;grp=602;misc=1580347118230"></script>
 	<noscript><div><a href="//adserver.adtechus.com/adlink/3.0/5226/951100/0/277/ADTECH;loc=300;key=;grp='+window.adgroupid+'" target="_blank"><img src="//adserver.adtechus.com/adserv/3.0/5226/951090/0/277/ADTECH;loc=300;key=;grp='+window.adgroupid+'" width="2" height="2" alt=""/></a></div></noscript>
 	<!-- End of JavaScript Tag -->
 </div>
