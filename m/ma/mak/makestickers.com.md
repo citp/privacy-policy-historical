@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makestickers.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221233230id_/http%3A//www.makestickers.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makestickers.com privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423001054id_/http%3A//www.makestickers.com/Privacy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -16,7 +16,7 @@ We use your name, address, telephone, email and credit card information to proce
 
 ##### Spam Email
 
-We may send you an email to confirm that your order is being shipped or if we need to contact you concerning your order or to answer any questions you may have. **We will never share your email address with any third party** (If there is a problem delivering your order, we may direct FedEx to notify you via email.) In the past, we have never sent "blanket" emails to our customers. In the future, we may do such mailings. We promise that any email we send you will contain information about your account or the services we offer. We also pledge that we will not send you more than one email per month. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+We may send you an email to confirm that your order is being shipped or if we need to contact you concerning your order or to answer any questions you may have. We will never share your email address with any third party (If there is a problem delivering your order, we may direct FedEx to notify you via email.) We may, from time to time, send you our email newsletter or promotional emails regarding our products and services. If you do not wish to receive them, you may opt-out from future promotional or newsletter emails at any time by clicking the “Unsubscribe” link at the bottom of any email correspondence or by contacting us directly (see "Choice/Opt-Out" section below).
 
 ##### Security of Transactions
 
