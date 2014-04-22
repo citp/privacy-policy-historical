@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naruto-kun.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202171253id_/http%3A//www.naruto-kun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naruto-kun.com privacy policy that was archived on 2014-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140422200012id_/http%3A//www.naruto-kun.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Naruto-Kun
 
@@ -22,7 +22,7 @@ Naruto-Kun may store and disclose personal [information](https://web.archive.org
 
 ### Security
 
-At Naruto-Kun we make reasonable efforts to protect personal [information](https://web.archive.org/information/ "information") such as passwords and use technology such as encryption, access control procedures, firewalls, and physical security. We urge you to use a unique password with both letters and numbers to protect your account on Naruto-Kun and it's affiliated websites. If others, including family, friends or other household members access and use the message board through your [login](https://web.archive.org/login/ "login") credentials, you are responsible for the actions of that individual. Only in extreme cases will your account be fully terminated. 
+At Naruto-Kun we make reasonable efforts to protect personal [information](https://web.archive.org/information/ "information") such as passwords and use technology such as encryption, access control procedures, firewalls, and physical security. We urge you to use a unique password with both letters and numbers to protect your account on Naruto-Kun and it's affiliated websites. If others, including family, friends or other household members access and use the [message board](https://web.archive.org/forum/ "message board") through your [login](https://web.archive.org/login/ "login") credentials, you are responsible for the actions of that individual. Only in extreme cases will your account be fully terminated. 
 
 ### Third Parties
 
@@ -32,6 +32,6 @@ Additionally, we use third-party advertising companies to serve ads when you vis
 
 ### Website Policy Changes
 
-Naruto-Kun reserves the right to change this, and any other policy located on our website at anytime without notifying our users. If you have any comments, questions, or concerns regaurding this policy, or any other policy you may send them to us at policy@Naruto-Kun. 
+Naruto-Kun reserves the right to change this, and any other policy located on our website at anytime without notifying our users. If you have any comments, [questions](https://web.archive.org/faq/ "questions"), or concerns regaurding this policy, or any other policy you may send them to us at policy@Naruto-Kun. 
 
 By continuing to access Naruto-Kun and any of it's affiliated websites and files, you are expressly and impliedly agreeing to all of the [terms](https://web.archive.org/terms-of-use/ "terms") as stated above on this document. You also hereby affirm that you are in compliance with all Federal, State and Local laws in your place of residence concerning the contents of Naruto-Kun, and are also in agreeance with our [disclaimer](https://web.archive.org/legal-disclaimer/ "disclaimer") and [terms of use](https://web.archive.org/terms-of-use/ "terms of use"). 
