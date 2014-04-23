@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianjobtalks.in privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213151504id_/http%3A//www.indianjobtalks.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianjobtalks.in privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423184258id_/http%3A//www.indianjobtalks.in/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy for IndianJobTalks
 
