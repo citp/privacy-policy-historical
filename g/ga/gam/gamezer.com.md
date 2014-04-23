@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamezer.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928060022id_/http%3A//gamezconnect.com/en/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamezer.com privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423061252id_/http%3A//gamezconnect.com/en/legal/privacy) for the most accurate reproduction.*
 
 # GameZConnect | Privacy Policy
 
