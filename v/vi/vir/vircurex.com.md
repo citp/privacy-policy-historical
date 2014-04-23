@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vircurex.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221093459id_/https%3A//vircurex.com/welcome/privacy%3Flocale%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vircurex.com privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423174213id_/https%3A//vircurex.com/welcome/privacy%3Flocale%3Den) for the most accurate reproduction.*
 
-# Bitcoin, Namecoin, Litecoin, Devcoin, IXCoin, PPCoin, Terracoin, Freicoin, Feathercoin, Primecoin (BTC/NMC/LTC/DVC/I0C/IXC/PPC/TRC/FRC/FTC/XPM) Exchange and Trading Platform
+# Vircurex | Exchange and Trading Platform for Crypto Currencies such as Bitcoin Litecoin Namecoin and many more
 
 Date of last revision: 30th October 2011
 
