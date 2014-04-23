@@ -1,121 +1,250 @@
-> *The following text is extracted and transformed from the macon.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617114720id_/http%3A//www.macon.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macon.com privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423113318id_/http%3A//www.macon.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # Macon.com Macon, GA
 
-##### Effective Date: 9-4-09
+##### Effective Date: March 2014
 
-Macon.com ("Macon.com", "we", "our") has a firm commitment to privacy. We take your privacy concerns seriously and want to make reasonable efforts to address them as we strive to offer our site visitors a high quality, interactive and personalized experience. This Privacy Policy explains our position on information gathering and how we intend to use and share any information we collect. This Privacy Policy applies only to information collected by Macon.com and does not apply to information obtained or used by The Macon Telegraph or its affiliates through other means.
+Macon.com ("Macon.com", "we", "our") is firmly committed to respecting your privacy in the course of offering you a high quality, interactive, and personalized experience. We take your privacy concerns seriously. Our Privacy Policy is designed to inform you about how we may collect, use, share, and store information about you and the choices available to you.
 
-**You understand and agree that, by visiting Macon.com and its affiliated sites, you are accepting, without modification, this Privacy Policy. If you disagree with any portion of this Privacy Policy, then your only option is to not use Macon.com.**
+### PRIVACY POLICY HIGHLIGHTS
 
-Macon.com collects and stores personally identifiable information such as your name, address, and e-mail address. The information that we collect and store about you depends on the page you visit and the services in which you elect to participate. We use this information to operate our services, improve the quality of our services, offer you opportunities we think will interest you, and better tailor the advertising you see from us to suit you. This information is not shared with anyone outside of The Macon Telegraph and Macon.com except as provided for in this Privacy Policy or as explained at the time the information is collected. More specifics on the information we collect and how we use it are outlined within this Privacy Policy.
+This Highlights section contains an overview of our privacy practices. The full Privacy Policy is available here.
 
-This Privacy Policy is subject to change from time to time by Macon.com and your continued use of Macon.com means you agree to, without modification, the revisions. If you are a registered member of Macon.com, you will be notified of material revisions to this Privacy Policy via an e-mail message to the e-mail address that you provided at registration. If you are not a registered member of Macon.com, you may view revisions to this Privacy Policy on this page. Material changes to this Privacy Policy will be indicated by a revised effective date at the top left hand corner of this page and by a notice posted on the homepage of Macon.com. Whether or not you are a registered member of Macon.com, it is your responsibility to check back and review this page regularly to ensure you are familiar with the most current terms. Should you object to any such modifications to this Privacy Policy or become dissatisfied with Macon.com in any way, your only option is to immediately terminate your membership and discontinue use of Macon.com. Otherwise, continuing to use the service after the effective date means that you agree to be bound by the changes, without modification.
+**Information We Collect** \- We collect various information about you when you use our services, including:
 
-### Information we collect
-
-Access to certain special content, services and features on Macon.com requires users to be subscribers to The Macon Telegraph and/or to become registered members at Macon.com. Member registration may require you to provide certain personally identifiable information, such as your name, e-mail address, street address, telephone number, gender, and date of birth. If you choose to purchase a print subscription to The Macon Telegraph or a classified ad when you register, we also require credit card and billing information. For more information about how we use your credit card and billing information, see the Section below titled "Electronic commerce". You will be asked to select a member name and password so that you have access to this information and can revise it in the future. To complete the registration process, we will send you a validation e-mail message. You must click the link in the e-mail to fully activate your membership account. At registration you will have the opportunity to Opt in of subscribing to e-mail newsletters and alerts sent to you on behalf of Macon.com and its advertisers.
-
-Some features and services of Macon.com may require additional personally identifiable information or other demographic information. We may collect other personally identifiable information when you provide feedback, comments, engage in chat, message boards, interactive forums or participate in surveys, or if you contact us offline. For example, when you enter contests you will be asked to also provide your phone number so that we can reach you in the event you have won a prize. All users may decline to share such information with us, by choosing not to register on Macon.com or not to use our services. Only registered members, however, may access certain content, services and features.
-
-You may also be asked to create a separate registration account with some of the services provided by partners and other third-party providers on Macon.com. Be aware that the information collected by a third-party provider will be subject to that provider's privacy policy and terms of service, rather than this Privacy Policy. We, therefore, recommend you review the privacy policy of each third-party service provider with whom you interact and each Web site you visit prior to submitting information in connection therewith.
-
-If you wish to forward an article to a friend, we will ask that you provide your friend's name and e-mail address. While we may collect statistics on which articles are forwarded, we do not sell, rent, or market your friend's personal information, and retain the information only as long as necessary to provide this service.
-
-### Passive data collection and use
-
-Like most Web sites, Macon.com also collects and logs information automatically and through the use of electronic tools that may be transparent to you, such as your IP address, the name and location of your Internet Service Provider, the type and version of your browser, the length of time that you stay on Macon.com, search queries, your click-stream data, the location that referred you to Macon.com and the average number of pages viewed. If you visit another Web site prior to browsing Macon.com, that Web site might place personally identifiable information within a URL, which may be logged by us. Your IP address is the identifier assigned to your particular computer when you access the Internet. Depending on how you connect to the Internet, your IP address may always be the same, or it may change each time you access the Internet. Note that logging your IP address does not in and of itself provide us with your name, e-mail address or home or work address. We use this log information for systems administration and troubleshooting purposes and may also use it to gather general demographic information about you such as your general location and your Internet Service Provider. To better provide our services to you and to develop member profiles that enable us to tailor Macon.com's services and its advertisements to your interests, we may correlate this log information with other information about you, such as your registration information or newspaper subscription records. We may provide to third parties anonymous aggregated (non-personally identifiable) general information about our Web site and its users.
-
-### Use of cookies
-
-Most standard Web browsers contain a feature called "cookies," which allow a Web site to place information about a user's visit to that Web site in a small data text file that is stored on the user's computer. Our use of cookie technology will likely be transparent to you and is used to recognize you and hold information from one visit to the next in an effort to increase your ease of use of Macon.com and to allow us to better understand how people use Macon.com through click-stream analysis. For example, cookies may be used to store information such as your member name and password, sparing you from having to re-enter that information each time you visit. Another example is that we may use cookie technology to control the number of times you see a particular advertisement while visiting Macon.com. You can turn the cookies feature off by using your browser preference options, but doing so will severely limit your access to Macon.com and may prevent you from registration.
-
-Some of Macon.com's third-party content providers also may place a cookie on your computer. If you choose to monitor or restrict cookies that are placed on this computer, you can determine the Web site that is attempting to place a cookie. Those cookies are controlled by the content provider, and you should refer to that provider's privacy policy for further information regarding its use of cookies and about your options not to accept them.
-
-We use services provided by Yahoo! to display advertising on Macon.com, and we may use cookies in conjunction with displaying those ads. Please refer to Yahoo!'s privacy policy at <http://privacy.yahoo.com/> for further information concerning Yahoo!'s use of cookies.
-
-We participate in Tacoda Audience Networks (TAN), through which Tacoda Systems, a division of AOL, places a cookie on the user's computer to gather non-personal information about the user, such as the user's browsing behavior and demographic information. This non-personal information is aggregated into audience segments, allowing Tacoda to display relevant advertising to users who visit the websites of other members of TAN. Users' personally identifiable information is not shared with Tacoda or with third-party members of TAN. For more information about how Tacoda uses the information collected by these cookies, please review Tacoda's privacy policy at <http://www.platform-a.com/privacy>. We are not responsible for any actions or policies of Tacoda or of any third-party members of TAN.
-
-In addition, advertisers may elect to use other advertising companies to serve their ads on Macon.com, and advertisers themselves may also place a cookie on a user's computer. We do not have access to the cookies or their contents that are placed by advertisers or by third-party advertising companies. We, therefore, recommend that you read the privacy policy of each and every Web site you visit or with which you interact.
-
-Users may elect to be excluded from these and other targeted-advertising networks by following this link: <http://www.networkadvertising.org/managing/opt_out.asp>.
-
-Also, Macon.com uses services provided by the the News Licensing Groups's News Registry ("News Registry"). News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of Macon.com means you accept the privacy policy of News Registry. Please refer to the News Registry privacy policy at <http://www.newsregistry.com/privacycenter/servicepolicy.aspx> for further information.
-
-Pages on Macon.com may contain tiny electronic images known as web beacons. We use web beacons to assist us in delivering cookies on Macon.com and to allow us to count users who have visited those pages. We may include web beacons in promotional e-mail messages in order to determine whether messages have been opened and acted upon. Many of our web beacons are provided by Omniture, which uses the domain 2o7.net. Please refer to Omniture's privacy policy at <http://www.omniture.com/en/privacy> for more information concerning the use of web beacons. Users may elect to opt out of Omniture cookie tracking by following this link <http://www.omniture.com/en/privacy/2o7> and clicking on the "Click Here To Opt-Out of 2o7.net Cookie Tracking Now" link at the bottom of the page.
-
-### Behavioral Targeting
-
-Macon.com participates in the APT from Yahoo! platform and Yahoo! is an ad network partner to display ads on our sites. To improve your ad experience on Macon.com and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser's activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display. [Learn more](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html) about Yahoo!'s ad practices, including how to opt out of using anonymous information to select which ads to show you. Yahoo! is a member of the [Network Advertising Initiative](http://www.networkadvertising.org/).
-
-### Use of personally identifiable information
-
-Personally identifiable information may be accessed by the user who entered it, by The Macon Telegraph and Macon.com personnel, and by certain third parties, such as those who provide technical support or content services to Macon.com. For example, your billing and credit card information will be shared with third parties who perform tasks required to complete the purchase transaction. We ask these third parties to keep any personal information supplied by us confidential. We also endeavor to keep your personally identifiable information inaccessible to other users or advertisers of Macon.com. Note that your first name may be displayed on Macon.com when you visit Macon.com as a logged in member. We will also display your e-mail address and contact information in your Member Center. While no Web site is completely secure, we make reasonable efforts to secure the Member Center, such that; it can only be accessed by logging in with your member name and password.
-
-We may also disclose personally identifiable information when deemed necessary or appropriate: 
-
-  * to comply with a subpoena or other service of process, court order, or other legal proceeding, or if otherwise requested by a legitimate law enforcement body to cooperate in their investigations;
-  * to otherwise comply with applicable law;
-  * to prevent, investigate, or to take some other action against illegal activities, potential fraud, potential physical threats to any person, or as required by law;
-  * to comply with part of the sale or transfer of business assets, if we sell all or a part of our business;
-  * to protect the rights, property, or safety of Macon.com, its affiliates or others.
+  * information you provide to us;
+  * information about how you use our websites, mobile applications, and other online services;
+  * information about the computers and devices you use to access our services;
+  * information about your online activities and your interests;
+  * information about how you respond to our communications;
+  * information about the location of your mobile device based on the location of nearby WiFi networks or, subject to your consent, information accessed via the location functionality of your device; and
+  * information about you from publicly or commercially available sources.
 
 
 
-### Use of aggregated information
+**How We Use Information** \- We use information:
 
-To describe our services to prospective partners, advertisers and others, we may use your personally identifiable information to create a compiled, aggregate and anonymous view of the Macon.com audience and their usage patterns ("Aggregated Information"). We use Aggregated Information to operate our services and to better understand our audience as we develop new content and services. Aggregated Information may also be shared with third parties with whom we contract to provide content and services on Macon.com as well as advertisers so that they can better understand our audience. For example, we might disclose that a certain percentage of our users are female or within a certain age range or live within a cluster of ZIP codes.
+  * to provide you with products and services, respond to your requests, manage contests, and to personalize the content on our services;
+  * for research purposes;
+  * to communicate with you about your account; learn about you; send you or provide you with ads, offers, or other content based on your interests; and resolve disputes; and
+  * to improve, maintain, and troubleshoot our services.
 
-### Children's privacy
 
-Macon.com is particularly concerned with providing a safe online environment for children. Children under the age 13 will not be allowed to register and become a member of Macon.com in order to access general Macon.com content, features and services. We do not knowingly collect or solicit personally identifiable information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this Privacy Policy, we will delete that information immediately. If you believe we have any information from or about anyone under 13, please contact us at the address listed below.
 
-Macon.com, 120 Broadway, or 478-744-4200, or [feedback@macon.com](mailto:feedback@macon.com)
+**Sharing Information** \- We share information:
 
-### Member mail and e-mail offers
+  * with third parties, including service providers that process information on our behalf, to facilitate transactions and provide you with services;
+  * with our affiliates;
+  * to facilitate interest-based advertising; and
+  * in association with a transfer of a business or related assets; when there is a legal obligation to disclose your information; or to protect our legal rights, the public, or others.
 
-Macon.com does not rent, sell, barter or give away its user or member lists or its users' or members' names, e-mail addresses or mailing addresses for use by advertisers and other third parties for the purpose of solicitations, unless the user has previously given his or her consent at the time of general registration or registration for a specific contest or service. If a user granted permission to receive solicitations (referred to on Macon.com as e-mail Offers) at the time of registration but subsequently wishes to opt out from receiving such solicitations, the user may visit the Member Center and change one or more of the category-specific permissions related to receiving e-mail from The Macon Telegraph and Macon.com advertisers.
 
-All registered users will receive periodic Member Mail e-mail related to their membership account or various features and services on the The Macon Telegraph Web sites to which their membership entitles them access. Because Member Mail is an integral part of our service to you, users cannot opt-out of receiving Member Mail. If you do not want to receive Member Mail, your only option is to terminate your membership by following the directions in the Member Center.
 
-Separate from Macon.com Member Mail, The Macon Telegraph may send you information via e-mail about various products or services that we believe may be of interest to you, including e-mails that may contain content provided by third-party advertisers. If you do not want to receive this information, you can Opt in by changing your permission setting for The Macon Telegraph Promotions e-mail in the Member Center. The Member Center also allows you to select which categories of e-mail Offers might interest you. You can also change your Opt in preferences in the Member Center.
+##### Your Choices
 
-When a user specifically authorizes e-mail solicitations we make available the user names and other Personally Identifiable Information in accordance with the applicable license.
+You may update or delete the account information you provide us for any of our services in the account information page for that service.
 
-Our HTML-encoded e-mail messages may include graphic files, which we use to gather information about e-mails sent our members. When such a message is opened in an HTML-capable e-mail program, the recipient's computer accesses our server to retrieve the graphic file, and allows us to record and store the date and time, the recipient's e-mail address, and other standard logging information. These HTML-encoded e-mail messages may also read cookies.
+You may indicate your preferences regarding marketing communications in the Newsletter Member Center of our services.
 
-### Affiliated sites, linked sites and advertisements
+You can learn about your ability to register your "do not track" preferences in the Interest-Based Advertising section of the full Policy.
 
-Macon.com expects its partners, providers of content and services and advertisers to respect the privacy of its users. Be aware, however, that third parties, including our partners, providers of content and services, advertisers and others accessible through our site may have their own privacy and data collection policies and practices. For example, during your visit to Macon.com you may link to, or view as part of a frame on a Macon.com page, certain content that is actually created or hosted by a third party. Also through Macon.com you may be introduced to, or be able to access information, services, Web sites, features, contest or sweepstakes offered by other parties. The Macon Telegraph and Macon.com are not responsible for the actions or policies of such third parties. You should use common sense when you navigate the Web and be aware of when you travel outside of Macon.com. In addition, you should carefully review the applicable privacy policies of each Web site you visit and each Web service you use.
+##### Other Information
 
-### Electronic commerce
+We use reasonable security measures to protect your information.
 
-For certain electronic commerce services on Macon.com, such as placing classified ads electronically or subscribing to The Macon Telegraph, we require additional information. To complete these transactions, we may collect information from you such as your name, credit card number and other financial or personally identifiable information. We endeavor to protect the security of your payment information during transmission by using Secure Sockets Layer (SSL) technology, which encrypts information you submit. The Macon Telegraph uses the credit card and shipping information for the purpose of completing the transaction and does not provide this information to third parties except for the providers of the transaction processing and the issuers of credit cards in order to process the transaction, or as otherwise set forth in this policy.
+Our services are not intended for children under 13.
 
-### Changing your personal information and deleting your account
+We are not responsible for any third-party products or services you access via our services.
 
-In general, if you are a registered member, you may return to your account information page in the Member Center to update the information you previously provided to us. To prevent minors from improperly entering contests for which they are not eligible, we may require additional proof from people asking to change information regarding their date of birth. Macon.com may retain personal information for an indefinite amount of time.
+We may notify you of material updates to our Privacy Policy via email and will post a notice at [Macon.com](https://web.archive.org/). Your continued use of our services after notice constitutes your acceptance of the Privacy Policy.
 
-You can delete your Macon.com membership account in Member Center by clicking on the link labeled "delete my account." By doing so, all but a transactional record of your membership account will be removed from our databases, though some records may remain on back-up media. Note that by deleting your account, you will cancel your membership and may no longer be able to access those parts of Macon.com for which membership is required.
+### Macon.com Privacy Policy
 
-### Remember the risks when you use the Internet
+Please read this Privacy Policy carefully. You understand and agree that, by visiting or using any website, mobile application, or online service governed by this Privacy Policy, you consent to the processing of information as set forth in this Privacy Policy. Please note that this Privacy Policy is subject to change. We recommend that you review the Privacy Policy from time to time. If we make changes to this Privacy Policy, we will update the Effective Date at the top of this page. If you disagree with any portion of this Privacy Policy, now or as amended by us, your only option is to not use the websites, mobile applications, or online services governed by it. This Privacy Policy includes references to The McClatchy Company, which directly or indirectly owns and operates the newspapers, websites and apps referenced in this Privacy Policy.
 
-You should know that when you voluntarily disclose personal information on the Macon.com Web site (for example, in the discussion forums), that information can be collected and used by others and may result in unsolicited messages from other people. While we do our best to protect your personal information, we cannot be responsible for information that you choose to publicly disclose. Further, you are solely responsible for maintaining the secrecy of any passwords or other account information. Although we make good faith efforts to store the information we collect in a secure operating environment that is not available to the public and to work with responsible third parties, we cannot guarantee complete security for your information.
+### What Is in This Privacy Policy?
 
-In addition, our advertisers, content providers, partners and other Internet sites or services that may be accessible through Macon.com have separate data and privacy practices that are independent of us, and we disclaim any responsibility or liability for their policies or actions. Please contact those sites directly if you have questions about their privacy policies.
+  * What Information Does This Privacy Policy Cover?
+  * What Information Do We Collect?
+  * How We Use the Information We Collect
+  * How We Share the Information We Collect
+  * Third-Party Links and Content
+  * Children's Privacy
+  * Security
+  * Your Choices
+  * Notice to California Residents - Your California Privacy Rights
+  * International Transfers of Information
+  * Changes to Our Privacy Policy
+  * Contact Information
+
+
+
+### What Information Does This Privacy Policy Cover?
+
+This Privacy Policy applies to information collected through our websites, mobile applications, and online services ("our services") that link or otherwise refer to this Privacy Policy. If we combine this information with information from other sources, we will treat the combined information as being governed by this Privacy Policy. This Privacy Policy does not otherwise apply to information that we or our affiliates (including The Telegraph) collect through other means (for example, at a live event, via telephone, or through the mail).
+
+### What Information Do We Collect?
+
+_Information that you provide to us:_ We and our service providers collect information that you provide when you use our services. For example, to access certain parts of our services, you may have to register for an account. During registration we may collect your name, address, username, password, and email address. You may also provide us with information when you post a message on our services; sign up to receive communications from us; register for contests; participate in surveys; purchase a print subscription or classified ad; or contact us with a question, comment, or request. The information that you may provide us includes but is not limited to:
+
+  * Name
+  * Mailing address
+  * Email address
+  * Date of birth
+  * Telephone number
+  * Username
+  * Password
+  * Payment information, including account or card number
+  * Gender
+
+
+
+When you use social media platforms, applications or tools that enable features like audio or video content (sometimes known as "plugins"), or other features that are operated or offered by other companies (sometimes known as "third parties") and are integrated into our services or allow you to connect to our services, we may collect information from those third parties. Please refer to the privacy settings of the social media platforms or third-party features you use to manage how information is shared.
+
+If you wish to forward an article or other information to a friend using our services, we will ask you to provide your friend's name and email address. We may collect statistics on which articles are forwarded. We do not sell, rent, or market information about the friends to whom you forward articles or information, and we use your friends' names and email addresses only for purposes of forwarding articles or other information subject to your request.
+
+_Passive data collection:_ Like most companies that offer online services, we and our service providers may automatically collect certain technical information from your computer or mobile device when you use our services or interact with us. The information we may collect includes:
+
+  * IP address
+  * Operating system
+  * Device type
+  * Device manufacturer
+  * Device identifier
+  * Browser type
+  * Content viewed on our services
+  * Pages viewed immediately before and after you access our websites
+  * Which ads or content from us or our affiliated companies you view, access, or click on
+  * Your activities over time and across websites and apps within The McClatchy Company network and within the network of websites and apps serviced by the ad networks, advertisers, service providers, and other companies with which we do business, following your use of one of our websites or apps
+  * Whether you open our electronic communications and where you click within them
+  * Features of our services that you use
+  * Name and location of your Internet Service Provider
+  * Amount of time spent on our pages and how many pages you viewed during your visit
+
+
+
+For more information about how we collect this information, see Use of Web Beacons, Cookies and Other Technologies.
+
+We, our service providers, and other third parties with which we do business may collect information about you from publicly available sources (e.g., social media platforms) and commercially available resources. We may combine that information with the information described above and will handle the combined information as described in this Privacy Policy.
+
+_Location Information_ \- Our mobile applications may collect precise information about the location of your mobile device via your device's GPS or cellular connectivity, but only with your express consent. Once you have consented to the collection of such precise location information via your mobile device, you may adjust this consent by managing your Location Services preferences through the settings of your mobile device. We may also be able to infer your location from other information that you provide or information that we collect passively, such as the known locations of nearby WiFi networks.
+
+### How We Use the Information We Collect
+
+We may use the information we collect for a number of purposes, including, but not limited to:
+
+  * providing you with the products, services, or information you request or purchase;
+  * providing you with information about your account and our products and services;
+  * using your location information to deliver location-based services that you request or location-based offers that may be of interest to you;
+  * delivering information to you about offers for goods or services that may be of interest to you (see the Interest-Based Advertising section for more information);
+  * personalizing your experience when using our services and providing content based on your interests or other demographics;
+  * improving or troubleshooting our services;
+  * determining whether you are eligible for contests or promotions;
+  * generating and analyzing statistics about how you use our services and respond to our communications;
+  * creating compiled, aggregate, and anonymous information about the users' of our services and how our users interact with our services ("Aggregated Information");
+  * safeguarding your information;
+  * helping our advertisers and other companies better understand our users; and
+  * detecting, preventing, and responding to potential fraud, intellectual property infringement, violations of our Terms of Service, violations of law, or other misuse of our services.
+
+
+
+We may combine or aggregate any of the information we collect from our services and elsewhere for any of these purposes.
+
+### How We Share the Information We Collect
+
+We may disclose information about you:
+
+  * to service providers that process payments, handle marketing communications, provide technical support, conduct surveys, or perform other services for us;
+  * to business partners when you have elected to receive communications from them;
+  * to business partners that engage in interest-based advertising;
+  * as required by law, such as to comply with a subpoena or other legal process;
+  * as necessary to process transactions and provide you with the services, products, or information you request or purchase;
+  * when we have a good faith belief that disclosure is necessary to protect the rights or property of our affiliates or us, or to protect the safety of you or others;
+  * to detect, prevent, or respond to potential fraud, intellectual property infringement, violations of our Terms of Service, violations of law, or other misuse of our services
+  * to proceed with the negotiation or completion of a merger, acquisition, sale, or other transfer of all or part of our assets; or
+  * subject to your consent.
+
+
+
+We do not share your credit card information or other financial information to third parties for their marketing purposes or other independent use. When we share information with third parties for processing credit card or other payments, we require those third parties to comply with applicable Payment Card Industry standards.
+
+We may share Aggregated Information with third parties that provide content and services for us. We may also share Aggregated Information with advertisers and others so that they can better understand our audience. For example, we might disclose the gender, age, or geographical breakdown of our user base.
+
+Unless you have consented otherwise, we do not sell, rent, barter, or otherwise give away user lists, users' names, email addresses, or mailing addresses so that advertisers or other third parties may send you advertisements or other solicitations.
+
+You should know that when you voluntarily disclose personal information publicly on our services (for example, when commenting on articles), that information may be collected and used by others and you may receive unsolicited communications from other people. When you share information via features offered on our services by other companies (sometimes known as "third-party plugins"), the privacy settings of the for those features govern how the information will be shared. When you are logged into our services, depending on the service you are logged into, your name may be displayed, and your email address and contact information may be viewed. Be sure to logout of your account and take other steps to ensure that others cannot view that information without your knowledge.
+
+### Third-Party Links and Content
+
+Our services and communications may contain links to or content from websites or other online services provided by third parties. We expect our partners and third-party providers to respect your privacy, but you acknowledge and agree that we are not responsible for the collection and use of your information by websites and other services that are not under our control. The privacy practices of third parties are governed by their privacy policies, and we encourage you to review the privacy policies of all websites and online services that you use, view, or visit.
+
+### Use of Cookies, Web Beacons and Other Technologies
+
+We may use cookies, web beacons (also known as pixels), and other technologies to collect information when you use our services.
+
+A cookie is a text-only string of information that a website stores on your computer or device in the cookie file associated with the browser that you use to access the website. Most major websites use cookies. Cookies alone generally cannot be used to identify you. But if you choose the "Remember Me" feature or similar features, a cookie will store information that helps remember you, such as your username.
+
+Cookies help us recognize you when you return to our websites and hold information from one visit to the next for your ease of use. Cookies also help us better understand how people use our services through click-stream analysis. Further information on our use of cookies, including how to disable them or register your preferences regarding their use is contained in the Interest Based Advertising section of this Privacy Policy.
+
+Third-party content providers, advertisers, and advertising companies may place cookies on your computer or mobile device. Those cookies are controlled by the third parties and are not governed by this Privacy Policy. For information on how to disable third-party cookies and how to register your preferences regarding the use of some third-party cookies, see the Interest Based Advertising section of this Privacy Policy.
+
+We and some of our advertisers work with ad networks and ad delivery platforms that place retargeting pixels on users' computers to gather information about users' online activities, such as browsing histories and demographic information. This information can be aggregated into audience segments, which help deliver relevant advertising to users visiting our websites and third-party websites that use the same pixels.
+
+Some of our services and communications may contain tiny electronic images known as web beacons. We use web beacons to assist us in delivering cookies on our services and to allow us to count users who have visited those pages. We may include web beacons in promotional email messages in order to determine whether messages have been opened and acted upon.
+
+### Interest-Based Advertising
+
+To help ensure that you receive ads that are relevant to your interests on our services, our advertisers' services, and elsewhere on the Internet, we and third-parties (including service providers, advertisers, and advertising companies) may collect information about your online activities over time and across different websites and apps. We and third parties may use that information to help understand audience segments. Advertisers may use the segments to determine the audience groups to which they wish to deliver particular ads. Through this process, we do not use information that directly identifies you.
+
+You can opt out of receiving interest-based advertising from some companies, including us and our service providers, by visiting the following sites: <http://www.aboutads.info/choices/>, <http://www.networkadvertising.org/choices/>, <http://www.evidon.com/consumers-privacy/opt-out>, and <https://preferences-mgr.truste.com/>. Opting out does not mean you will no longer receive advertising. It means that the company or companies from which you opted out will no longer deliver ads tailored to your web preferences and usage patterns.
+
+If you do not wish to allow cookies to be placed on your computer or device, you can configure your web browser (Chrome, Firefox, Internet Explorer, Safari, etc.) to delete and/or control the use of cookies. Please note that the interest-based advertising opt outs provided in the links above rely on the use of cookies. If you disable or delete cookies, you may remove your opt-out preferences. Deleting and/or controlling the use of cookies AND visiting the opt-out links above to register your preferences will help to ensure that you do not receive interest-based advertising. Again, this does not mean that you will not receive ads, it simply means that you will not receive ads that are tailored to your web preferences and usage patterns.
+
+Except as otherwise disclosed in this Privacy Policy, we do not respond to browser Do Not Track signals or other mechanisms that provide a method to opt out of the collection of information across the networks of websites and online services in which we participate; if we do so in the future, we will describe how we do so here. For more information on Do Not Track, please visit [http://allaboutdnt.com](http://allaboutdnt.com/).
+
+### Children's Privacy
+
+We care about children's privacy. Our services are not directed to, nor do we knowingly collect information from, children under the age. We will not knowingly allow children under 13 to register for or become members of our services. If we discover that we have received any information from a child under 13, we will take reasonable steps to promptly delete that information. If you believe we have collected information from anyone under 13 without parental consent, please contact us via any of the channels listed below.
+
+### Your Choices
+
+In general, if you register to use any of our services, you may update the information you have provided to us for any of our services by visiting the account information page of that service.
+
+When you register for our services, you may be able to indicate your preferences regarding marketing communications. In the Newsletter Member Center of our services, you may be able to change those preferences and select the categories of communications that interest you. When we or our affiliates send you emails containing offers that may be of interest of you, those emails may contain links via which you may opt out of receiving those communications.
+
+You will not be able to opt-out of receiving certain service-related or transactional communications relating to our services unless you cancel your registration or membership.
+
+You can delete accounts associated with our services by visiting the appropriate account information page for that service and clicking on the link "delete my account." When you do so, we will delete your information from our servers except for a transactional record of your account. Some information may remain on back-up media. Deleting your account cancels your membership and you may no longer be able to access some of our services or some of the features or content offered by our services. If you need assistance locating the account information page for any service, or updating or deleting the information you have provided in connection with the service, please contact us as set forth below.
+
+### Security
+
+While we strive to maintain reasonable administrative, technical, and physical safeguards to protect your information, no information system can be 100% secure. We cannot guarantee the absolute security of your information. Moreover, we cannot be responsible for information that you transmit over networks that we do not control or information that you choose to publicly disclose. You are solely responsible for maintaining the secrecy of any passwords or other account information.
+
+We make reasonable efforts to secure the account information pages and other registration locations for our services, such that they can be accessed only by our authorized personnel or by logging in with your member name and password.
+
+We endeavor to protect the security of your payment information during transmission by using technology that encrypts information you submit.
 
 ### Notice to California Residents - Your California Privacy Rights:
 
-If you are a California resident, you have the right to receive: a) information identifying any third-party company(ies) to whom Macon.com may have disclosed, within the past year, personal information pertaining to you and your family for that company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information, please e-mail your request to [feedback@macon.com](mailto:feedback@macon.com).
+If you are a California resident, you have the right to receive: a) information identifying all third-party companies to which we may have disclosed, within the past year, personal information pertaining to you and your family for those companies' direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information, please email your request to [feedback@macon.com](mailto:feedback@macon.com).
 
-### International users
+### International Transfers of Information
 
-If you are an international user, by using Macon.com or by registering for any of its services, you agree that Macon.com may collect, use and transfer your personal information as described in this privacy policy, including transfers outside the country where you live. If you reside in a country in the European Union or other jurisdiction that provides access rights under law, you may access your personal information or have it corrected or updated by going to your account information page in the Member Center and personally updating the information in accordance with applicable law or by contacting us at the address or e-mail set forth below. In some jurisdictions, you may be charged a reasonable fee for access to information.
+By using any of our services, you agree that we may collect, use and transfer your personal information as described in this privacy policy, including transfers outside the country where you live. If you reside in a country in the European Union or other jurisdiction that provides access rights under law, you may access, correct or update the personal information you have provided by going to your account information page for any service provided by us and personally updating the information. Alternatively, you may contact us as set forth below. You may be charged a reasonable fee for access to information.
 
-### Platform for privacy preferences
+### Changes to This Privacy Policy
 
-Macon.com supports P3P, the Platform for Privacy Preferences, which allows us to convey our privacy policies, to the extent possible, in standardized, machine-readable code. While Macon.com supports P3P, the resulting code has inherent limitations such that it does not fully and may not accurately express all of our data practices. Some P3P-enabled browsers may interpret the same P3P code in different ways, while others may interpret P3P code in a manner inconsistent with the original intention. Accordingly, your browser's interpretation of the P3P code should only be considered as a short-hand expression of our privacy practices. This Privacy Policy remains our primary policy, and takes precedence over the P3P code or other privacy principals for all purposes.
+We reserve the right to update this Privacy Policy from time to time by posting a new Privacy Policy on this page. You are advised to consult this Privacy Policy regularly for any changes, and your continued use of the Site after such changes have been made constitutes acceptance of those changes. If you are a registered user of our services and we make any revisions that materially change the ways in which we use or share the information previously collected from you through our services, we will notify you of those revisions by sending an email to the email address listed in your registration. We will also post a notice of any material change to this policy by posting a notice on [Macon.com](https://web.archive.org/)
 
 ### Contact Information
 
-If you have any questions or comments about our policies, we may be reached at Macon.com, 120 Broadway, at 478-744-4200 or at [feedback@macon.com](mailto:feedback@macon.com).
+If you have any questions or comments about our privacy practices, we may be reached at   
+Macon.com,   
+487 Cherry Street,   
+478-744-4200   
+or at [feedback@macon.com](mailto:feedback@macon.com).
+
+### Definition of Certain Terms
+
+IP Address- the identifier assigned to facilitate communications over the Internet. Depending on how you connect to the Internet, your IP address may always be the same, or it may change each time you access the Internet. An IP address does not in and of itself disclose your name, email address, or home or work address.
+
+Service Providers- unaffiliated companies that perform services on our behalf, such as printing, mailing, processing payments, managing the delivery of advertisements, collections, data processing, or communications. We strive to limit the amount of users' personally identifiable information shared with service providers. We ask these service providers to keep confidential the information that we provide to them, and we require them to not share, sell, or rent any information collected from our users that directly identifies our users.
