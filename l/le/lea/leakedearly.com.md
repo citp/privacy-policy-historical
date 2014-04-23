@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leakedearly.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228122134id_/http%3A//www.leakedearly.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leakedearly.com privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423090245id_/http%3A//www.leakedearly.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Leaked Early
 
