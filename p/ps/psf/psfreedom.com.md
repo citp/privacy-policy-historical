@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psfreedom.com privacy policy that was archived on 2013-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130718074920id_/http%3A//psfreedom.com/viewpage.php%3Fpage_id%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psfreedom.com privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423182612id_/http%3A//psfreedom.com/viewpage.php%3Fpage_id%3D4) for the most accurate reproduction.*
 
 # PSFreedom - Privacy Policy
 
