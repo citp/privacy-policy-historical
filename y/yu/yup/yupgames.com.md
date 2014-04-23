@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yupgames.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123200858id_/http%3A//www.yupgames.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yupgames.com privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423115051id_/http%3A//www.yupgames.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy on YupGames.com
 
