@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the can-adasecurityinc.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620160056id_/http%3A//www.dexone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the can-adasecurityinc.com privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423172919id_/http%3A//www.dexone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dex One Corporation | Small Business Advertising, Local Marketing Solutions - Dex One
 
