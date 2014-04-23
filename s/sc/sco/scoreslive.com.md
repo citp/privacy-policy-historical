@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scoreslive.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811192044id_/http%3A//www.scoreslive.com/information/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoreslive.com privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423103252id_/http%3A//www.scoreslive.com/information/privacy_policy) for the most accurate reproduction.*
 
-# Live Sex Cams | Free Sex Chat | Scores Live
+# Live Sex | Free Live Cams | ScoresLive.com
 
 As always, the privacy, discretion and security of your personal information is AYA Entertainment, Inc.'s, and Scores Media Group LLC's (collectively, 'ScoresLive') top priority, and we want you to be aware of how we collect and handle information on our site.
 
