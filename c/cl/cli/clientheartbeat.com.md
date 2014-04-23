@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clientheartbeat.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817052956id_/https%3A//www.clientheartbeat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clientheartbeat.com privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423115746id_/https%3A//www.clientheartbeat.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Client Heartbeat
 
