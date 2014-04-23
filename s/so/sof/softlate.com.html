@@ -1,50 +1,317 @@
-<!--The following is the downloaded HTML source of the softlate.com privacy policy that was archived on 2013-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131225173243id_/http%3A//softlate.com/home/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the softlate.com privacy policy that was archived on 2014-04-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140423084931id_/http%3A//www.softlate.com/policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Softlate</title>	
-<link rel="stylesheet" type="text/css" href="style2.css">
-<link href="http://fonts.googleapis.com/css?family=Asap:400,700" rel="stylesheet" type="text/css">
-        
-   
-        
-</head>
-<body>
+<!DOCTYPE html><html><head>
+<meta charset="UTF-8">
+<title>Download </title>
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="http://softlate.com/favicon.ico" type="image/x-icon">
+
+<link href="http://images.softlate.com/portal/css/stylesheet-tonicopy-bing.css" type="text/css" rel="stylesheet">
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-29186107-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();</script>
+<script type="text/javascript">function hideScreenshot()
+{
+	document.getElementById('screenshotBand').style.display = 'none';
+	document.getElementById('screenshotBanner').style.display = 'none';
+}
+
+function getCookie(c_name)
+{
+var c_value = document.cookie;
+var c_start = c_value.indexOf(" " + c_name + "=");
+	if (c_start == -1)
+	{
+		c_start = c_value.indexOf(c_name + "=");
+	}
+	if (c_start == -1)
+	{
+		c_value = null;
+	}
+	else
+	{
+		c_start = c_value.indexOf("=", c_start) + 1;
+		var c_end = c_value.indexOf(";", c_start);
+		if (c_end == -1)
+		{
+			c_end = c_value.length;
+		}
+		c_value = unescape(c_value.substring(c_start,c_end));
+	}
+return c_value;
+}
+
+
+function getNota()
+{
+	var nota;// (rate_) variable para gestionar valores [ 9.6 / 9.7 / 9.8 / 9.9 ]
+	if (getCookie("rate_"))
+	{	
+		//leer valor de las cookies y pasarlo a nota	
+		nota=getCookie("rate_");
+		//document.write("</br>La Cookie para rate_ existe "+ nota);
+	}
+	else
+	{
+		var today = new Date();
+		expire = new Date(today.getTime() + (5 * 24 * 3600 * 1000));		
+		// Se declara un nuevo Array para rate_
+		rate = new Array;
+		var valor1;	
+		rate[1]="9.6";
+		rate[2]="9.7";
+		rate[3]="9.8";
+		rate[4]="9.9";
+		
+		//Obtenemos un valores aleatorio.
+		aleat = (Math.round((Math.random()*3)+1)) 
+		valor=rate[aleat]; 
+		document.cookie = "rate_="+valor+";expires="+expire;
+		nota=getCookie("rate_");
+		
+		//document.write("</br>La Cookie para rate_ ha sido creada"+ nota);
+	}
+	return nota;
+}
+
+function getUsers()
+{
+	var users_;// (users) variable para gestionar valores [3600 - 3900]
+	var users="";
+	var numero;
+	if (getCookie("peop_"))
+	{	
+		users_=getCookie("peop_");
+		for (var z = 0; z < users_.length; z++) 
+		{
+			numero = users_.charAt(z)
+			if (numero.length <= 5 && z == 0) 
+			{
+				numero +=".";
+			}
+			if(numero != "undefined")
+			{
+				//alert(numero);
+				users += numero;
+			}
+		}	
+		//document.write("</br>La Cookie poep_ existe " + users);
+	}
+	else
+	{
+		var today = new Date();
+		expire = new Date(today.getTime() + (5 * 24 * 3600 * 1000));		
+		var max = 3600;
+		var min = 3900;
+		var aleatorio = Math.floor(Math.random()*(max-(min-1))) + min;
 	
-	<div id="content">
-    	<section class="top">
-        	<h2>softlate.com</h2>
-        </section>
-        <div style=" margin:20px; text-align:left; font-size:12px;">
-        	<h3 style="margin:0 0 10px;">Privacy Policy</h3>
-            
-             <p>www.softlate.com protects and guarantees security in the collection and processing of the data that is affected through this site as well as the strict compliance with the current policy with regards to data protection. The following paragraphs inform about our procedures of data collection and processing.</p>
-        <p>Through this website personal data will be collected with the purposes of managing and providing our services, sending internal commercial promotions and providing information of interest for users, related the services of the site.</p>
-        <p>These data are stored in a archive of personal data whose www.softlate.com is holder, properly registered at the Agency of Data Protection. Nevertheless, the data holder may communicate his/her intention not to be sent any more information at any moment, by sending an email to <a href="mailto: contact@softlate.com" target="_blank">contact@softlate.com</a></p>
-        <p><strong>Identification and contact data of the Company.</strong></p>
+		document.cookie = "peop_="+aleatorio+";expires="+expire;
+		users_=getCookie("peop_");
+		
+		for (var z = 0; z < users_.length; z++) 
+		{
+			numero = users_.charAt(z)
+			if (numero.length <= 5 && z == 0) 
+			{
+				numero +=".";
+			}
+			if(numero != "undefined")
+			{
+				//alert(numero);
+				users += numero;
+			}
+		}	
+		
+		//document.write("</br>La Cookie poep_ ha sido creada "+ users);
+	}
+	return users;
+}	
 
-        <p>www.softlate.com is a product of Tuguu SL (<a href="http://www.tuguu.com" target="_blank">http://www.tuguu.com</a>) is a Spanish company based in Santa Cruz de Tenerife (Islas Canarias) Av. Barranco de las Torres Nº 10 of 4A. Terms of use and Privacy Policy - Should users wish to file any complaints, they can contact the company through the support form available in the site or sending a message to the email address <a href="mailto: contact@softlate.com" target="_blank">contact@softlate.com</a> </p>
-        <p><strong>Additional Information We Collect.</strong></p>
-        <p>When you use our Services, we collect tracking information like IP address, browser and operative system you are using, details about your computer hardware, the applications you have installed on your PC, and pages you visited on our Sites. None of this information is to identify you personally. </p>
-        
-        <p><strong>Cookies.</strong></p>
-        <p>You can choose if you want to accept or reject all the cookies by modifying your browser preferences. But it is possible that by rejecting all cookies you may be unable to use our Services.</p>
-        <p><strong>Security.</strong></p>
+function getDownloads()
+{
+	var downs="";
+	var downs_;
+	if (getCookie("downs_"))
+	{	
+		downs_=getCookie("downs_");
+		for (var z = 0; z < downs_.length; z++) 
+		{
+			numero = downs_.charAt(z)
+			
+			if (numero.length <= 6 && z == 2) 
+			{
+				numero +=".";
+			}
+			downs += numero;	
+		}	
+		//document.write("La Cookie para downs_ existe"+ downs);
+	}
+	else
+	{
+		var today = new Date();
+		expire = new Date(today.getTime() + (5 * 24 * 3600 * 1000));		
+		var max = 768270;
+		var min = 798420;
+		var aleatorio = Math.floor(Math.random()*(max-(min-1))) + min;
+		document.cookie = "downs_="+aleatorio+";expires="+expire;
+		downs=getCookie("downs_");
+		
+		for (var z = 0; z < downs_.length; z++) 
+		{
+			numero = downs_.charAt(z)
+			
+			if (numero.length <= 6 && z == 2) 
+			{
+				numero +=".";
+			}
+			downs += numero;	
+		}	
+		//document.write("La Cookie para downs_ ha sido creada"+ downs);
+	}
+	return downs;
+}
 
-        <p>We try not to collect information about children under the age of 13, but sometimes it's very difficult to make sure that the person who is providing the information is above 13, that's why we encourage parents and guardians to visit the websites that their children visit. The means with which website operators collect and use the personal information of children under 13 is regulated by The Federal Trade Commission (“FTC”) and it's followed by the Children's Online Privacy Protection Act of 1998 (the “Act”). For more information about the Act and children's on-line privacy in general you can visit the FTC's web site at <a href="http://www.ftc.gov/privacy" target="_blank">www.ftc.gov/privacy</a> and for safety tips on privacy visit <a href="http://www.OnGuardOnline.gov" target="_blank">www.OnGuardOnline.gov</a>.</p>
-        
-        <p><strong>International Policy.</strong></p>
-        <p>Our Services are hosted by servers in United States &amp; France. When you submit your personal information you should be aware that you understand and consent, to its transfer, storage and processing in United States &amp; France. Alternatively, if you would like, contact us via e-mail at <a href="mailto: contact@softlate.com" target="_blank">contact@softlate.com</a></p>
+function getParameterByName(name) 
+{
+    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+        results = regex.exec(location.search);
+    return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+}
 
-            
+$( document ).ready(function() {
+    var keyword = getParameterByName('kword');
+    $("#keywd").text(keyword);
+});
 
+function microtime (get_as_float) {
+          var now = new Date().getTime() / 1000;
+          var s = parseInt(now, 10);
+          return (get_as_float) ? now : (Math.round((now - s) * 1000) / 1000) + ' ' + s;
+}
+function generateLink(v_dlink)
+{
+       var link = v_dlink + '?' + location.search.substring(1); + "&__tc=" + microtime(true); 
+       location.href = link;
+       return false;
+}</script>
 
+<script type="text/javascript">
 
-            
+function microtime (get_as_float) {
+          var now = new Date().getTime() / 1000;
+          var s = parseInt(now, 10);
+          return (get_as_float) ? now : (Math.round((now - s) * 1000) / 1000) + ' ' + s;
+}
+function generateLink(v_dlink)
+{
+       var link = v_dlink + '?' + location.search.substring(1); + "&__tc=" + microtime(true); 
+       location.href = link;
+       return false;
+}
+
+</script>
+
+</head>
+
+<body>
+
+<div class="wrapper">
+	<div class="header">
+        <div class="logo">
+            <span class="icon"><img src="http://images.softlate.com/portal/images/tonicopy-bing/icon.png"></span>
+            <h1>Download  </h1>
         </div>
+    	<div class="menutop">
+     	
+           <ul>
+                    <li><a target="_blank" href="support.html">Support</a></li>
+                    <li><a target="_blank" href="terms.html">Terms &amp; Conditions</a></li>
+                    <li><a target="_blank" href="policy.html">Privacy Policy</a></li>
+                    <li><a target="_blank" href="contact.html">Contact Us</a></li>                
+                    <li><a target="_blank" href="uninstall.html" class="last">Uninstall Process</a></li>
+                 </ul>
+
+        </div>
+	</div>
+    <div class="clear"></div>
+    <div class="content">
+
+	<div id="learnmore">
+		<div class="legaltexts">
+			<div class="grid_15">
+				<h2>Privacy Policy</h2>
+		
+        
+        <p>softlate.com is serious to regard the privacy of Internet users, because our business success depends upon our ability to maintain the trust of our users.</p>
+
+        
+        <p>If you have any concern about our products or website's privacy policies, please click here to contact us. We read every message submitted and try to reply to every one promptly. We may also file your comments to improve the program and site, or review and discard the information.</p>
+        
+        <strong><p>When does softlate.com collect personally - identifiable information?</p></strong>
+        
+        <p>softlate.com will collect your information if the information is licensed to us, for example new released software subscription comes for users, software submission come from authors or order come from customers. We won't collect any personally- identifiable information about you, such as your name, address, phone number or email address from this web site without your knowledge, and will take measures to protect your privacy.</p>
+        
+       <strong> <p>How does softlate.com use the information?</p></strong>
+        
+        <p>Once you licensed us provide a new released software list to you, we could send information to you via email daily, weekly or other post time. And you could easily remove your email address from our mail list.</p>
+        
+        <p>Once you submit some software to our download library, we could offer the products information and other available information to the users. Because of complaints about spamming, that email address is no longer included on our web pages and does not go out in New Upload Digests, etc. However we simply MUST have that email address anyway. It is because we will be forwarding messages, complaints, etc. from users and audience to that address.</p>
+        
+        <p>And we may need to contact you about upload problems, etc. And you could easily remove your software and information from our library via email.</p>
+        
+        <p>Once you purchase products from us, additional information will be needed to fill your order. Any information provided will NOT be sold or given to any third party(ies) by any means, and will only be used for sending the Registration Information and the Free upgrade to you via email. Besides, if you send email to us for requesting help, your email address will only be used to send replies to you.</p>
+            
+        <p>We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies.</p>
+   		</div>
+   		</div>
+<div class="clear10"></div>
+	</div>
+
+</div>
+<div class="footer">
+        <div class="grid_10">
+            <p>softlate.com is distributing modified installers which differ from the originals. The modified installers are compliant with the original software manufacturer's policies and terms &amp; conditions. DomaIQ is an install manager that will manage the installation of your selected software. In addition to managing the installation of your selected software, DomaIQ will make recommendations for additional free software that you may be interested in. Additional software may include toolbars, browser add-ons, game applications, anti-virus applications, and other types of applications. You are not required to install any additional software to receive your selected software. You can completely remove the program at any time in Windows' Add/Remove Programs. At the time of downloading you accept the conditions of use and privacy policies stated by softlate.com. The download will be executed through a download manager that belongs to DomaIQ. The mentioned download manager doesn´t have any relationship with the author. It can be downloaded as well freely from the author's website. softlate.com aims to offer downloads free of viruses and malwares. The download manager is part of our virus and malware filtering system and certifies the file´s reliability. Additionally, the download manager offers the optional installation of a toolbar.
+            </p>
+        </div>
+        <div class="sidebar" style="margin-left: 25px;">
+            <div class="logobot">
+                <img src="http://images.softlate.com/portal/images/tonicopy-bing/icon.png">
+                <h4>Download </h4>
+            </div>
+            <div class="clear10"></div>
+            <p>© softlate.com - A Free Download Software Archive for Windows. All rights reserved.</p>
+<p>All other trademarks are the sole property of their respective owners.</p>
+
+<p>Copyright © 2004 - 2014 softlate.com</p>
+        </div>
+        <div class="clear10"></div>
+
+        <div class="rayafooter"></div>
+  	  <div class="menudown">
+        		
+           <ul>
+                    <li><a target="_blank" href="support.html">Support</a></li>
+                    <li><a target="_blank" href="terms.html">Terms &amp; Conditions</a></li>
+                    <li><a target="_blank" href="policy.html">Privacy Policy</a></li>
+                    <li><a target="_blank" href="contact.html">Contact Us</a></li>                
+                    <li><a target="_blank" href="uninstall.html" class="last">Uninstall Process</a></li>
+                 </ul>
+        </div>
+        <div class="clear"></div>
     </div>
-    
-    
+    <div class="clear"></div>
+
+  </div> 
+
+
 
 </body></html>
