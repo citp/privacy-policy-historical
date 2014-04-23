@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveybag.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118071201id_/http%3A//www.surveybag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveybag.com privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423215830id_/http%3A//www.surveybag.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -11,3 +11,22 @@ Surveybag also collects potentially personally-identifying information like Int
 
 **Gathering of Personally-Identifying Information**  
 Certain visitors to Surveybag’s websites choose to interact with Surveybag in ways that require Surveybag to gather personally-identifying information. The amount and type of information that Surveybag gathers depends on the nature of the interaction. For example, we ask visitors who sign up for Surveybag.com to provide a username and email address. In each case, Surveybag collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Surveybag. Surveybag does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+
+How helpful is this article:
+
+  * Extremely helpful
+
+  * Very helpful
+
+  * Somewhat helpful
+
+  * Not very helpful
+
+  * Not at all helpful
+
+
+
+
+Rating: 3.7/5 (7 vote casts)
+
+Feedback recorded. Thanks! 
