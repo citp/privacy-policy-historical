@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iplcricketlive.org privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213162743id_/http%3A//www.iplcricketlive.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iplcricketlive.org privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423020840id_/http%3A//www.iplcricketlive.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CLT20 Live, CLT20 Cricket 2013, CLT20 2013 Schedule, CLT20 Fixtures, CLT20 Online, CLT20 Live,
+# Privacy Policy | IPL Cricket Live, Season 7 IPL Cricket 2014, CLT20, Champions League T20 Live Cricket
 
 The following Privacy Statement discloses the information gathering and dissemination practices for IPLcricketlive.org
 
