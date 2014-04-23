@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the technoratimedia.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221035218id_/http%3A//technoratimedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technoratimedia.com privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423032846id_/http%3A//technoratimedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Technorati Media | Privacy Policy
+# Technorati – Privacy Policy
 
 _Version effective: June 13, 2011_
 
