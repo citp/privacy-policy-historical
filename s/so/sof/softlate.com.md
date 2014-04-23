@@ -1,31 +1,33 @@
-> *The following text is extracted and transformed from the softlate.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225173243id_/http%3A//softlate.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softlate.com privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423084931id_/http%3A//www.softlate.com/policy.html) for the most accurate reproduction.*
 
-# Softlate
+# Download
 
-### Privacy Policy
+## Privacy Policy
 
-www.softlate.com protects and guarantees security in the collection and processing of the data that is affected through this site as well as the strict compliance with the current policy with regards to data protection. The following paragraphs inform about our procedures of data collection and processing.
+softlate.com is serious to regard the privacy of Internet users, because our business success depends upon our ability to maintain the trust of our users.
 
-Through this website personal data will be collected with the purposes of managing and providing our services, sending internal commercial promotions and providing information of interest for users, related the services of the site.
+If you have any concern about our products or website's privacy policies, please click here to contact us. We read every message submitted and try to reply to every one promptly. We may also file your comments to improve the program and site, or review and discard the information.
 
-These data are stored in a archive of personal data whose www.softlate.com is holder, properly registered at the Agency of Data Protection. Nevertheless, the data holder may communicate his/her intention not to be sent any more information at any moment, by sending an email to [contact@softlate.com](mailto:%20contact@softlate.com)
+**
 
-**Identification and contact data of the Company.**
+When does softlate.com collect personally - identifiable information?
 
-www.softlate.com is a product of Tuguu SL ([http://www.tuguu.com](http://www.tuguu.com/)) is a Spanish company based in Santa Cruz de Tenerife (Islas Canarias) Av. Barranco de las Torres Nº 10 of 4A. Terms of use and Privacy Policy - Should users wish to file any complaints, they can contact the company through the support form available in the site or sending a message to the email address [contact@softlate.com](mailto:%20contact@softlate.com)
+**
 
-**Additional Information We Collect.**
+softlate.com will collect your information if the information is licensed to us, for example new released software subscription comes for users, software submission come from authors or order come from customers. We won't collect any personally- identifiable information about you, such as your name, address, phone number or email address from this web site without your knowledge, and will take measures to protect your privacy.
 
-When you use our Services, we collect tracking information like IP address, browser and operative system you are using, details about your computer hardware, the applications you have installed on your PC, and pages you visited on our Sites. None of this information is to identify you personally. 
+**
 
-**Cookies.**
+How does softlate.com use the information?
 
-You can choose if you want to accept or reject all the cookies by modifying your browser preferences. But it is possible that by rejecting all cookies you may be unable to use our Services.
+**
 
-**Security.**
+Once you licensed us provide a new released software list to you, we could send information to you via email daily, weekly or other post time. And you could easily remove your email address from our mail list.
 
-We try not to collect information about children under the age of 13, but sometimes it's very difficult to make sure that the person who is providing the information is above 13, that's why we encourage parents and guardians to visit the websites that their children visit. The means with which website operators collect and use the personal information of children under 13 is regulated by The Federal Trade Commission (“FTC”) and it's followed by the Children's Online Privacy Protection Act of 1998 (the “Act”). For more information about the Act and children's on-line privacy in general you can visit the FTC's web site at [www.ftc.gov/privacy](http://www.ftc.gov/privacy) and for safety tips on privacy visit [www.OnGuardOnline.gov](http://www.onguardonline.gov/).
+Once you submit some software to our download library, we could offer the products information and other available information to the users. Because of complaints about spamming, that email address is no longer included on our web pages and does not go out in New Upload Digests, etc. However we simply MUST have that email address anyway. It is because we will be forwarding messages, complaints, etc. from users and audience to that address.
 
-**International Policy.**
+And we may need to contact you about upload problems, etc. And you could easily remove your software and information from our library via email.
 
-Our Services are hosted by servers in United States & France. When you submit your personal information you should be aware that you understand and consent, to its transfer, storage and processing in United States & France. Alternatively, if you would like, contact us via e-mail at [contact@softlate.com](mailto:%20contact@softlate.com)
+Once you purchase products from us, additional information will be needed to fill your order. Any information provided will NOT be sold or given to any third party(ies) by any means, and will only be used for sending the Registration Information and the Free upgrade to you via email. Besides, if you send email to us for requesting help, your email address will only be used to send replies to you.
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies.
