@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurohumpers.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113062704id_/http%3A//www.fuckyoucash.com/privacy/eurohumpers) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurohumpers.com privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423141650id_/http%3A//www.eurohumpers.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
