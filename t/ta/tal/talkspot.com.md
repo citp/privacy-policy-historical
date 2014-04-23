@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkspot.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205194359id_/http%3A//www.talkspot.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkspot.com privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424011026id_/http%3A//www.talkspot.com/privacy.asp) for the most accurate reproduction.*
 
 # Talkspot Website Builder Privacy Policy. Your security is our primary concern.
 
