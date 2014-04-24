@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commentkahuna.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827122548id_/http%3A//www.commentkahuna.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commentkahuna.com privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424182005id_/http%3A//www.commentkahuna.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Comment Kahuna
 
