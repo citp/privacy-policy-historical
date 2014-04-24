@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jlab.org privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501162009id_/https%3A//www.jlab.org/privacy-and-security-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jlab.org privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424085327id_/https%3A//www.jlab.org/privacy-and-security-notice) for the most accurate reproduction.*
 
 # Privacy and Security Notice | Jefferson Lab
 
@@ -13,3 +13,7 @@
 ##  Privacy Notice
 
 > > You do not have to provide personal information to visit our site. Personally identifiable information is collected only if it is specifically and knowingly provided by you. If such information is collected, it will be used solely in connection with Jefferson Lab or for such other purposes as are described at the point of collection. We do not give, sell, or transfer any personal information to a third party. We also do not use persistent cookies. Certain information about usage is gathered automatically. This information does not identify you personally. We automatically collect and store information including the following: IP address, the date and time you accessed our site, the type of browser, and the address from which you linked directly to our site. This information is **_not_** shared with anyone beyond the support staff for this site, except when required by law or contract, and is used only as a source of anonymous statistical information.
+
+##  Rehabilitation Act
+
+> > The U.S. Department of Energy is committed to making its electronic and information technologies accessible to individuals with disabilities in accordance with [_Section 508 of the Rehabilitation Act (29 U.S.C. 794d), as amended in 1998_](http://www.access-board.gov/the-board/laws/rehabilitation-act-of-1973).  Send feedback or concerns related to the accessibility of this website to [webmaster@jlab.org](mailto:webmaster@jlab.org). For more information about Section 508, please visit the [ _DOE Section 508 website_](http://energy.gov/cio/department-energy-doe-and-section-508).
