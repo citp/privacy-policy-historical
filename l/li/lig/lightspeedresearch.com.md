@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightspeedresearch.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821090318id_/http%3A//www.lightspeedresearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightspeedresearch.com privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424201733id_/http%3A//www.lightspeedresearch.com/privacy-policy) for the most accurate reproduction.*
 
 # Lightspeed Research Privacy Policy
 
@@ -10,7 +10,7 @@ IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE T
 
 In addition, we may also collect non-personally identifiable information, such as your usage of the Service, IP host address, pages viewed, browser type, personal computer setting and other data, and may aggregate any information collected in a manner which does not identify any individual (“Non-PII”).
 
-**Information Usage:** Unless disclosed otherwise at the time of collection or in this privacy policy, we do not share any PII you submit through the Service with any unaffiliated third party, unless it is necessary to respond to your questions, provide the service you have requested or to comply with applicable law. This may include providing your PII to our contractors who are performing services on our behalf. We will never sell your PII to any third party not affiliated with Lightspeed Research without your consent except in connection with the sale or merger, in whole or in part, of Lightspeed Research, its assets or the division responsible for such Services.
+**Information Usage:** Unless disclosed otherwise at the time of collection or in this privacy policy, we do not share any PII you submit through the Service with any unaffiliated third party, unless it is necessary to respond to your questions, provide the service you have requested or to comply with applicable law. This may include providing your PII to our contractors who are performing services on our behalf. We will never sell your PII to any third party not affiliated with Lightspeed without your consent except in connection with the sale or merger, in whole or in part, of Lightspeed, its assets or the division responsible for such Services.
 
 We may use your PII to contact you directly about products and services which we believe may be of interest to you.
 
