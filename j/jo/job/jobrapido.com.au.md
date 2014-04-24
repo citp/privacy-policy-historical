@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobrapido.com.au privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223072046id_/http%3A//au.jobrapido.com/info/privacy-policy-iframe%3Fpopup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobrapido.com.au privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424224557id_/http%3A//au.jobrapido.com/info/privacy-policy-iframe%3Fpopup) for the most accurate reproduction.*
 
 # 
 
