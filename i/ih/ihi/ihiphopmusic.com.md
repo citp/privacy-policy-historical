@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihiphopmusic.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005011127id_/http%3A//www.ihiphopmusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihiphopmusic.com privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424080457id_/http%3A//www.ihiphopmusic.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
