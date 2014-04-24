@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realex.ie privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213042457id_/http%3A//www.realexpayments.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realex.ie privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424031330id_/http%3A//www.realexpayments.com/privacy-statement) for the most accurate reproduction.*
 
-# Realex Payments
+# Realex Payments - Privacy Statement
 
 ## General Information
 
