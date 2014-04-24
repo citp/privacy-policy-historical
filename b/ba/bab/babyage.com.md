@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the babyage.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814002617id_/http%3A//www.babyage.com/helpdesk/security_privacy.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyage.com privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424031917id_/http%3A//www.babyage.com/helpdesk/security_privacy.htm%23privacy) for the most accurate reproduction.*
 
-# Help Desk | BabyAge.com
-
-  
-
-
-## Customer Service
+# Privacy Policy - Helpdesk | BabyAge.com
 
 ### Security & Privacy
 
@@ -37,7 +32,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 #### Opting out from BabyAge.com Communications
 
-From time to time, you may receive telephone calls, periodic mailings or e-mails from BabyAge.com Team members with information on products or services, discounts, special promotions, upcoming events or other Babyage.com offers or marketing partner offers. You may opt out of receiving e-mail communications by clicking the "Unsubscribe" link at the bottom of the e-mail received. It may take us up to 10 days to complete this process, as permitted by law. You may opt out of receiving mailings or telephone calls by calling 1-800-BABYAGE and requesting to be removed.
+From time to time, you may receive telephone calls, periodic mailings or e-mails from BabyAge.com Team members with information on products or services, discounts, special promotions, upcoming events or other Babyage.com offers or marketing partner offers. You may opt out of receiving e-mail communications by clicking the "Unsubscribe" link at the bottom of the e-mail received. It may take us up to 10 days to complete this process, as permitted by law. You may opt out of receiving mailings or telephone calls by calling (570) 408-0800 and requesting to be removed.
 
 #### Site Links
 
@@ -45,6 +40,6 @@ The BabyAge.com Site may contain links to other sites, including content from ot
 
 #### Contact BabyAge.com
 
-If you have questions or concerns about this Privacy Policy, please [Click Here](http://www.babyage.com/customersupport.aspx) to send an e-mail via our Customer Support Form or call 1-800-BABYAGE or write to us at 195 Research Drive, Jenkins Township, PA, 18640.
+If you have questions or concerns about this Privacy Policy, please [Click Here](http://www.babyage.com/customersupport.aspx) to send an e-mail via our Customer Support Form or call (570) 408-0800 or write to us at 195 Research Drive, Jenkins Township, PA, 18640.
 
 [» Back to Help](https://web.archive.org/help_default.htm)
