@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecometro.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219135648id_/http%3A//chinookbook.net/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecometro.com privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424085124id_/http%3A//chinookbook.net/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy — Chinook Book
 
