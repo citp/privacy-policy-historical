@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igennie.net privacy policy that was archived on 2013-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130730083124id_/http%3A//www.igennie.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igennie.net privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424032415id_/http%3A//www.igennie.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Windows Help and Support | Computer Support | Microsoft Technical Support | Online Computer Help | Outlook Support
 
