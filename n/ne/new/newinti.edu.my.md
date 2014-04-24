@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newinti.edu.my privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114193340id_/http%3A//newinti.edu.my/main/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newinti.edu.my privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424070906id_/http%3A//newinti.edu.my/main/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | INTI International University
 
