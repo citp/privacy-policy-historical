@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundandvisionmag.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229183659id_/http%3A//privacy.sourceinterlinkmedia.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundandvisionmag.com privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424173809id_/http%3A//privacy.sourceinterlinkmedia.com/index.html) for the most accurate reproduction.*
 
 # Source Interlink Companies Privacy Policy
 
