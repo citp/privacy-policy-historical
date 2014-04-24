@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybusinessin20minutes.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623095334id_/http%3A//mybusinessin20minutes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybusinessin20minutes.com privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424143926id_/http%3A//mybusinessin20minutes.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
