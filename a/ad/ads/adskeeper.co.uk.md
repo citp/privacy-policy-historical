@@ -1,0 +1,116 @@
+> *The following text is extracted and transformed from the adskeeper.co.uk privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424030246id_/http%3A//www.yengointernational.com/text/privacy_policy) for the most accurate reproduction.*
+
+# Yengo
+
+>   1. This policy governs Yengo PTE Ltd. (hereinafter referred to as ‘Yengo’, ‘We’ or ‘Us’) use and disclosure of information we collect when users elect to use the Yengo widget, visit a publisher web site that includes the Yengo widget or uses Yengo Services, or view advertisements we serve. This policy does not otherwise apply to the practices of other web sites, third-party advertisers or advertising networks, or other services or companies that we do not own, manage or control. We do not control the privacy practices of such third parties, and you are subject to the privacy policies of those third parties when you use their services.
+> 
+>   2. We may collect information about you through the following means: (1) when you complete a Yengo registration; (2) when you visit our web site; (3) when you use our widget; (4) when you visit a web site using Yengo services; or (5) when you view or respond to advertisements served by us or on our behalf (see explanations below).
+> 
+>   3. If you elect to register with us, you will be providing us with certain information, some of which identifies you personally, such as your email address, and other registration information. From time to time, you may also provide us with additional information about yourself if you engage in any other transactions with us, for example, when you give us your phone number to seek customer support. We call this information you provide to us directly «Registration Information».
+> 
+> 
+
+
+Information Collection on the Site
+
+  1. Our Service allows for an interactive experience by integrating a commenting platform. By using our Service you understand and agree that we are providing a public comment sharing platform and that we or other Users may search for, see, use, re-post any of your User Content that you make publicly available through the Service. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms & Conditions](http://www.yengointernational.com/text/terms_and_conditions).
+
+
+Personally Identifiable Information
+
+  1. We use and disclose information we collect when users elect to use the Yengo’s widget, visit a publisher web site that includes the Yengo’s widget or uses Yengo Services, or view advertisements we serve.
+
+  2. As we explain below, we may collect information about you through the following means: when you complete a Yengo registration, when you visit our web site, when you use our widget, when you visit a web site using Yengo services, or when you view or respond to advertisements served by us or on our behalf.
+
+  3. We collect information when you visit our web site, use or interact with Yengo services, when you visit our partner publishers’ web sites that use our widget or Yengo services, and when you view or click advertisements that we serve or are served on our behalf. This information could include general click stream behavior such as web pages viewed (including the URL addresses of such pages), search queries from which users are directed to a page, navigation from page to page through the Yengo services, time spent on each page, and items that you click or select («Usage Information»). This Usage Information also may include IP address, information about your geographic location derived from your IP address and the domain name of your Internet Service Provider.
+
+  4. We ask for Personally Identifiable Information such as your name and e-mail address when you register for a Yengo account with the Service, or if you correspond with us (in which case we will also retain our responses). If you purchase services or sign up for a paid subscription, then we will also ask for additional information, such as your credit card number and billing address. We may also retain any messages you send through the Service, and may collect information you provide in User Content you post to the Service. We may receive Personally Identifiable Information about you from third parties, including, for example, information about your transactions, purchase history, or relationships with various product and service providers, and your use of certain applications.
+
+  5. We also collect and use information about your interactions with the Service in a manner and format that does not identify you as an individual («Non-Personally Identifiable Information»). We may collect, use, and disclose Non-Personally Identifiable Information as set forth below.
+
+  6. **Cookies Information:** Like many websites, we mostly use cookies and pixel tags to collect this Usage Information. A cookie is a small file containing a string of characters that is sent to your computer and stored on your hard drive when you visit a website; each website can send its own cookies to your browser. A pixel tag is a small graphic file that allows us to measure the use of Yengo services. Pixel tags allow us to collect information such as IP address of the computer that downloaded the page on which the tag appears, the URL of the page on which the pixel tag appears, the time (and length of time) the page containing the pixel tag is viewed, and the identification number (the long string of characters) of any cookie previously placed by that server on your computer. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click and other actions you take on the Service), and allow us or our business partners to track your usage of the Service over time. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+
+  7. **Analytics Information:** We use both our own analytics tools and third-party analytics tools to help us measure traffic and usage trends for the Service. These tools collect information sent by your browser as part of a web page request, including the web pages you visit, your browser add-ons, your browser’s width and height, and other information that assists us in improving the Service. We collect and use this analytics information in aggregate form such that it cannot reasonably be manipulated to identify any particular individual user.
+
+  8. **Log File Information:** Log file information is automatically reported by your browser each time you access a web page. When you use our Service, our servers automatically record certain log file information. These server logs may include anonymous information such as your web request, Internet Protocol («IP») address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information.
+
+  9. **Clear Gifs/Web Beacons Information:** When you use the Service, we may employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our users anonymously. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Service.
+
+
+Information Collection on Partner Sites
+
+  1. We may receive and collect information from users of third party sites which use the Yengo service («Partner Sites») about you and your usage of the Yengo Service on their sites. Unless you have allowed the Partner Site to share Personally Identifiable Information, such information will not include Personally Identifiable Information, but may include Non-Personally Identifiable Information and/or report anonymous information about your usage of the Partner Site and the Yengo Service on that site.
+
+
+How We Use and Share Personally Identifiable Information
+
+  1. **Use:** We use Personally Identifiable Information for the following purposes: (i) internally for purposes such as analyzing how the Service is used, diagnosing service or technical problems or maintaining security, (ii) to operate, maintain, and provide to you the features and functionality of the Service, (iii) to fulfill requests you may make to us, (iv) to personalize your experience and (v) to provide you with information and offers from us or third parties that we believe you may find useful or interesting, including newsletters, marketing or promotional materials and other information on services and products offered by us or third parties. Following termination or deactivation of your Yengo account, Yengo may retain your profile information and User Content for a commercially reasonable time for backup, archival, or audit purposes. Furthermore, Yengo may retain and continue to use indefinitely all information (including User Content) contained in your communications to other Users or posted to public or semi-public areas of the Service after termination or deactivation of your Yengo account. Yengo reserves the right, but has no obligation, to monitor the User Content you post on the Service. We reserve the right to remove any such information or material for any reason or no reason, including without limitation if in our sole opinion such information or material violates, or may violate, any applicable law or our Terms of Service, or to protect or defend our rights or property or those of any third party. Yengo also reserves the right to remove information upon the request of any third party.
+
+  2. Sharing: We will not rent or sell your Personally Identifiable Information to third parties outside Yengo and its controlled subsidiaries and affiliates without your consent, except as noted below:
+
+  3. • Who we may share your Personally Identifiable Information with: We may share your Personally Identifiable Information with third-party business partners for the purpose of providing the Service to you. Those business partners will be given limited access to the Personally Identifiable Information that is reasonably necessary to deliver the Service, and we will require that such third parties comply with this Privacy Policy.
+
+  4. • Who you may choose to share your User Content with: Any Personally Identifiable Information or content that you voluntarily disclose for posting to the Service, such as User Content, becomes available to the public, as controlled by any applicable privacy settings. To change your privacy settings on the Service, please change your profile setting. If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users have copied or saved that information.
+
+  5. • What happens in the event of a change of control: We may buy or sell/divest the company, or any combination of its products, services, assets and/or businesses. Personally Identifiable Information such as customer names and email addresses, User Content and other user information related to the Service will likely be among the items transferred in these types of transactions. We may also transfer or assign such information in the course of corporate divestitures, mergers, acquisitions, bankruptcies, dissolutions or similar transactions or proceedings.
+
+  6. • Instances where we are required to share your Personally Identifiable Information: Yengo will disclose Personally Identifiable Information where required to do so by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our [Terms & Conditions](http://www.yengointernational.com/text/terms_and_conditions) or to protect the security or integrity of our Service; and/or © to exercise or protect the rights, property, or personal safety of Yengo, our Users or others.
+
+
+How We Use and Share Non-Personally Identifiable Information
+
+  1. **Use:** We will use your Registration Information: (a) to fulfill requests for our services; (b) to communicate with you and respond to your inquiries; © to conduct research about the use of the Yengo services; (d) to enable you to create an account, store log-in credentials, and customize your Yengo services; (e) to contact you from time to time about Yengo services; and (f) for Yengo to provide offers for products and services of Yengo.
+
+  2. We use the Usage Information we collect and information collected from our third-party partners to assemble non-personal, demographic and behavioral information to group users that share a common interest into «Audience Segments.» These Audience Segments do not contain Personally Identifiable Information; for example, these segments may disclose that a user located in a geographic area may be interested in cars, but this information does not identify or include the name, e-mail address, phone number, mailing address, or user name of any specific individual. We will use these Audience Segments (a) to match advertisements that may be of interest to our users that fall within that segment and (b) to assist our advertisers, ad networks, and publisher web sites to deliver advertisements and offers that may be of interest to users within a given segment.
+
+  3. Sharing: We may share Non-Personally Identifiable Information, including information obtained through tools such as cookies, log files, device identifiers, location data and clear gifs (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.): (i) in any manner permitted for Personally Identifiable Information; and (ii) with our third-party business partners for the purposes described in the section above. We may also aggregate or otherwise strip data of all personally identifying characteristics and may share that aggregated, anonymized data with third parties.
+
+  4. We may share non-aggregate, non-personally identifiable Usage Information, including audience segments, with third party advertisers and publishers to assist us and them in delivering relevant, targeted advertising that is aligned with user interests. For example, these companies may use such information (e.g., click stream information, time and date, subject of advertisements clicked or scrolled over) in order to provide advertisements about goods and services likely to be of greater interest to you. Your preferences collected through this process may be used to influence which types of marketing messages you receive across sites that we work with.
+
+  5. We may also share aggregate statistical information about our services with advertisers and publishers. We do not provide any personally identifiable information to these third parties.
+
+
+Ads on Yengo
+
+  1. We may also share certain information such as your location, browser and cookie data and other data relating to your use of our Service with our business partners to deliver advertisements («ads») that may be of interest to you. Yengo may allow third-party ad servers or ad networks to serve advertisements on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser or mobile device, the ads and ad links that appear on the Service, and will automatically receive your IP address when they do so. They may also use other technologies (such as cookies, JavaScript, device identifiers, location data, and clear gifts (see above) to compile information about your browser’s or device’s visits and usage patterns on the Service, and to measure the effectiveness of their ads and to personalize the advertising content. Yengo does not sell, rent, or share the information we collect directly from you or about you from third parties with these third-party ad servers or ad networks for such parties’ own marketing purposes.
+
+  2. Please note that an advertiser may ask Yengo to show an ad to a certain audience of Users (e.g., based on demographics or other interests). In that situation, Yengo determines the target audience and Yengo serves the advertising to that audience and only provides anonymous aggregated data to the advertiser. If you respond to such an ad, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach.
+
+  3. The Yengo Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers or contact such advertisers for more information.
+
+
+Changing or Deleting Your Information
+
+  1. All registered users may review, update or correct the Personally Identifiable Information provided in their registration or account profile by changing their «user preferences» in their account. If you choose to opt out entirely, then your account may become deactivated and you will need to re-register should you decide to opt-in again. To delete your account entirely, please email us at [support.uk@yengo.com](mailto:support.uk@yengo.com). However, you understand and agree that we are not able to remove your Personally Identifiable Information from the records of any third party who has been provided with your information in compliance with the use and sharing policy outlined above.
+
+
+Security
+
+  1. Yengo is very concerned with safeguarding your information. Yengo uses commercially reasonable safeguards to preserve the integrity and security of all information collected through the Service. To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Yengo, at all times. Notwithstanding the foregoing measures, Yengo cannot ensure or warrant the security of any information you transmit to Yengo or guarantee that information on the Service may not be accessed, disclosed, altered, or destroyed. Your privacy settings may also be affected by changes to the functionality of Yengo’ distributors, such as social networks. Yengo is not responsible for the functionality or security measures of any third party.
+
+
+Policy Toward Children
+
+  1. This Site is not directed to children under 13. We do not knowingly collect or solicit personal information from children under 13 or knowingly allow such persons to register for an account. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Yengo. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [support.uk@yengo.com](mailto:support.uk@yengo.com).
+
+
+Links to Other Web Sites
+
+  1. We are not responsible for the practices employed by websites linked to or from the Service, nor the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website’s own rules and policies. Please read over those rules and policies before proceeding.
+
+  2. Yengo may, in its sole discretion, modify or update this Privacy Policy from time to time, and so you should review this page periodically. When we change the policy, we will update the ‘last modified’ date at the bottom of this page. Your continued use of the Site following the posting of any changes to this policy means you accept such changes.
+
+  3. We reserve the right to transfer your personal information in the event of a transfer of ownership of Yengo, such as acquisition by or merger with another company.
+
+  4. From time to time we may update this Privacy Policy. You should visit this page periodically to review any such changes to the privacy policy. In such cases, your continued use of this website or our service means that the provision of personally identifiable information to us after such material changes will be subject to the new terms. If we make material changes to this Privacy Policy that expand our rights to use your personal information that we have collected, we will notify you to seek your consent through email or a prominent posting on the site.
+
+  5. You always have the option to cancel your account with us at any time. Simply de-install the widget from your site. If you have any questions or need some clarification on our privacy policy, please do not hesitate to email us at [support.uk@yengo.com](mailto:support.uk@yengo.com).
+
+
+  
+
+
+  1. This Privacy Policy was first published and made effective on June 5, 2013.
+
+
+
