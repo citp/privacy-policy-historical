@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tweetangels.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524181710id_/http%3A//tweetangels.com/privacy-policy.html%23nav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetangels.com privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424141902id_/http%3A//tweetangels.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Tweetangels.com – Boost your social media presence and more!
+# TweetAngels - Buy Real Twitter Followers, YouTube Views, FB Likes & more.
 
 TweetAngels.com Statement of Privacy
 
