@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serial0098.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116045219id_/http%3A//www.serial0098.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serial0098.com privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424064559id_/http%3A//serial0098.com/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Serial0098.com
 
