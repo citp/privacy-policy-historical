@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myspytool.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115234118id_/http%3A//www.myspytool.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myspytool.com privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424142513id_/http%3A//www.myspytool.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We respect your privacy and we are committed to safeguard your privacy while online at our site myspytool.com. The following discloses the information gathering and dissemination practices for this Web site.
+We respect your privacy and we are committed to safeguard your privacy while online at our site www.myspytool.com. The following discloses the information gathering and dissemination practices for this Web site.
 
 **Log Files**  
 Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
@@ -11,7 +11,7 @@ Like most standard Web site servers we use log files. This includes internet pro
 A cookie is a piece of data stored on the user’s computer tied to information about the user. Our site doesn’t use cookies. However, Some of our business partners (for example, www.google.com ) use cookies on our site. However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. If you wish to disable cookies, you may do so through your individual browser options.
 
 **DoubleClick DART Cookie**   
-Google, as a third party vendor, uses cookies to serve ads on websites including our site myspytool.com.
+Google, as a third party vendor, uses cookies to serve ads on websites including our site www.myspytool.com.
 
 Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
 
@@ -26,4 +26,4 @@ We use outside ad companies to display ads on our site. These ads may contain co
 **Contact Information**  
 If users have any questions or suggestions regarding our privacy policy, please contact us at: sales@impactomatic.com
 
-Go Back to [myspytool.com](http://myspytool.com/)
+Go Back to [www.myspytool.com](http://www.myspytool.com/)
