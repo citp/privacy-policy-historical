@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alldealsasia.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119092413id_/http%3A//www.alldealsasia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alldealsasia.com privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424224039id_/https%3A//www.alldealsasia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | All Deals Asia
 
@@ -72,7 +72,7 @@ If you choose to store credit card information on the site, this is stored on a 
 
 As discussed above, you can always choose not to provide information, although it may be required to engage in a certain activity on the Website.
 
-As a condition of purchase of our products and services, we will send you Administrative and Promotional emails. We will send you information regarding your account activity and purchases as well as updates about our products and promotional offers. You cannot opt-out of Administrative Emails. "Administrative Emails" relate to a User's activity on the Website, and include emails regarding a particular User's account, requests or inquiries, and purchases of products and services. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails advertise our products and services, including exclusive sales and other offers, and/or the products and services of our Advertisers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by e-mailing us at [info@AllDealsAsia.com](mailto:info@AllDealsAsia.com), by writing to us at the address contained herein, or by hitting the "unsubscribe" button at the bottom of any of our e-mails. When contacting us, please indicate your name, address, email address, and what Promotional Emails you do not want to receive.
+As a condition of purchase of our products and services, we will send you Administrative and Promotional emails. We will send you information regarding your account activity and purchases as well as updates about our products and promotional offers. You cannot opt-out of Administrative Emails. "Administrative Emails" relate to a User's activity on the Website, and include emails regarding a particular User's account, requests or inquiries, and purchases of products and services. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails include new products, features, enhancements, special offers, contests, events of interest, and one-off marketing promotions. Such alerts may include marketing information about AllDealsAsia.com, our subsidiaries or selected business partners. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by registering your details at [info@AllDealsAsia.com](mailto:info@AllDealsAsia.com), by writing to us at the address contained herein, or by hitting the "unsubscribe" link button at the bottom of any of our e-mails. When contacting us, please indicate your name, address, email address, and what Promotional Emails you do not want to receive.
 
 #### 7\. Security of Information
 
@@ -104,4 +104,8 @@ Conversely, if you are not currently registered as an All Deals Asia user and yo
 
 Whether you're a new or loyal customer, restaurant owner, marketer, publisher, media member or job seeker we'd like to stay connected and want to hear from you!
 
-Customer Service Inquiries | [info@AllDealsAsia.com](mailto:info@AllDealsAsia.com)
+Email: [info@AllDealsAsia.com](mailto:info@AllDealsAsia.com)
+
+Contact No: +65 6592 5599
+
+Address: 119 Jalan Sultan Singapore 199008
