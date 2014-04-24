@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ordnancesurvey.co.uk privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231124933id_/http%3A//www.ordnancesurvey.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ordnancesurvey.co.uk privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424200844id_/http%3A//www.ordnancesurvey.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Data Protection and Privacy Policy | Ordnance Survey
 
-Last updated July 2013
+Last updated March 2014
 
 Ordnance Survey, Ordnance Survey Leisure Limited and Ordnance Survey International LLP, are committed to protecting and respecting your privacy, and operate within the requirements of the Data Protection Act 1998.
 
 All these organisations are referred to in this Data Protection and Privacy Policy as ‘we’, ‘us’, ‘our’ or ‘Ordnance Survey’.
 
-This Data Protection and Privacy Policy sets out how we collect and process any personal data that we collect from you, or that you provide to us, in connection with our website at www.ordnancesurvey.co.uk ; our website services such as OS getamap and our online Map Shop; and any other pages from which we link to this Data Protection and Privacy Policy (collectively, the Website and Website Services).
+This Data Protection and Privacy Policy sets out how we collect and process any organisation or personal data that we collect from you, or that you provide to us, in connection with our website at www.ordnancesurvey.co.uk; our website services such as OS getamap and our online Map Shop; and any other pages from which we link to this Data Protection and Privacy Policy (collectively, the Website and Website Services).
 
 We may amend this policy from time to time by updating this page. You may wish to check it each time you submit any personal data to us.
 
@@ -20,7 +20,7 @@ a. If you email us through the Website you will be asked for your name and email
 
 b. If you request the download of OS OpenData or other data through the Website we will usually require your email address.
 
-c. If you purchase any products through our Website Services, or apply to have OS OpenData mapping sent to you on a DVD, then we will require your name, company (if relevant), address, postcode and email address.
+c. If you purchase any products and/or services through our Website Services, or apply to have OS OpenData mapping sent to you on a DVD, then we will require your name, company (if relevant), address, postcode and email address.
 
 d. If you register or subscribe to OS getamap, we will require your name and email address. You may also provide a delivery address for purchases, and your telephone number.
 
@@ -34,7 +34,7 @@ h. You may supply us with information via our Website Services (including on web
 
 ## 2\. Information we store automatically
 
-a. Like many websites, we obtain certain information when your web browser accesses the Website. This is statistical data about our users’ browsing actions and patterns, and we do not use it to identify any individual.
+a. Like many websites, we obtain certain information when your web browser accesses the Website. We may obtain this information using a third party. This is statistical data about our users’ browsing actions and patterns. The data may identify organisations accessing our Website but we do not use it to identify any individual.
 
 For example, we collect:
 
@@ -52,9 +52,9 @@ d. We may monitor and record telephone calls, and keep a record of them for qual
 
 ## 3\. How we use your information
 
-a. We may use your personal data to:
+a. We may use your personal and organisation data to:
 
-i. provide you with personalised access to our mapping data;
+i. provide you with personalised access to our mapping data and/or services;
 
 ii. provide you with access to personalised areas of OS getamap, our online Map Shop and our leisure magazine;
 
@@ -70,9 +70,11 @@ vii. track the success of our marketing activity;
 
 viii. ensure the content of the Website and Website Services is fit for the purpose for which it was set up and to develop the experience of its users; monitor compliance with and enforce our Website terms and conditions or our data licensing terms;
 
-ix. if you have consented, to let you know about updates and promotional offers in relation to other Ordnance Survey products and services which may be of interest to you;
+ix. if you an idividual and have consented, to let you know about updates and promotional offers in relation to other Ordnance Survey products and services which may be of interest to you;
 
-x. if you have consented, to enable selected third parties to contact you.
+x. if you are an organisation, to let you know about existing or new products that may be of interest to you
+
+xi. if you have consented, to enable selected third parties to contact you.
 
 ## 4\. Sharing your information
 
