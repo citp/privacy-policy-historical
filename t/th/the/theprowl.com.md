@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theprowl.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116041102id_/http%3A//www.theprowl.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theprowl.com privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424020822id_/http%3A//www.theprowl.com/about/privacy_policy) for the most accurate reproduction.*
 
 # The Prowl
 
