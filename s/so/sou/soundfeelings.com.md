@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundfeelings.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222190240id_/http%3A//www.soundfeelings.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundfeelings.com privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424105327id_/http%3A//www.soundfeelings.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Sound Feelings - Privacy Policy
 
@@ -16,7 +16,7 @@ need your name, e-mail address, mailing address, telephone numbers credit card n
 
 **Who Sees This Information?**
 
-Only us! Sound Feelings will **NEVER** sell, trade or rent your personal information to others, for any purpose, whatsoever. THIS INCLUDES ANY IMAGES THAT YOU SEND FOR OUR CUSTOMIZED PRODUCTS SUCH AS THE [**SLIM PHOTO**](https://web.archive.org/web/20131222190240id_/http%3A//www.soundfeelings.com/products/alternative_medicine/weight_loss/fitness.htm) OR THE [**ANGER PILLOWCASE**](https://web.archive.org/web/20131222190240id_/http%3A//www.soundfeelings.com/products/alternative_medicine/other/anger_pillow.htm). We will NEVER share or post your images without your permission!
+Only us! Sound Feelings will **NEVER** sell, trade or rent your personal information to others, for any purpose, whatsoever. THIS INCLUDES ANY IMAGES THAT YOU SEND FOR OUR CUSTOMIZED PRODUCTS SUCH AS THE [**SLIM PHOTO**](https://web.archive.org/web/20140424105327id_/http%3A//www.soundfeelings.com/products/alternative_medicine/weight_loss/fitness.htm) OR THE [**ANGER PILLOWCASE**](https://web.archive.org/web/20140424105327id_/http%3A//www.soundfeelings.com/products/alternative_medicine/other/anger_pillow.htm). We will NEVER share or post your images without your permission!
 
 
 
@@ -45,9 +45,9 @@ Sound Feelings
 Tarzana, CA 91356  
 U.S.A.   
 Tel: 818-757-0600   
-[email](https://web.archive.org/web/20131222190240id_/http%3A//www.soundfeelings.com/contact.htm#info)
+[email](https://web.archive.org/web/20140424105327id_/http%3A//www.soundfeelings.com/contact.htm#info)
 
-Please also see our [Security Statement](https://web.archive.org/web/20131222190240id_/http%3A//www.soundfeelings.com/about/security.htm).
+Please also see our [Security Statement](https://web.archive.org/web/20140424105327id_/http%3A//www.soundfeelings.com/about/security.htm).
 
 
 
