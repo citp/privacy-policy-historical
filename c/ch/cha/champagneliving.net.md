@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the champagneliving.net privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224203124id_/http%3A//champagneliving.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the champagneliving.net privacy policy that was archived on 2014-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140425084704id_/http%3A//champagneliving.net/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Champagne Living
+# Privacy Policy
 
 **What information do we collect?**
 
@@ -68,4 +68,14 @@ _This policy was last modified on 3/13/2011_
 
 _**We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:[ http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)**_
 
-Follow Champagne Living on >>>>>>>>>>>> [](http://www.facebook.com/champagneliving "Follow us on Facebook")[](http://twitter.com/zipporahs "Follow Zippy on twitter")[](https://plus.google.com/101880883420067172700 "Follow us on Google+")[](http://pinterest.com/champagneliving "Champagne Living on Pinterest")[](http://www.linkedin.com/in/zipporahsandler "Find us on Linkedin")[](http://feeds.feedburner.com/ChampagneLiving "Subscribe to our RSS Feed")[](http://www.youtube.com/zipporahs "Find us on YouTube")
+  * Bio
+  * Twitter
+  * Facebook
+  * Google+
+  * Latest Posts
+
+
+
+#### Zipporah Sandler
+
+[Zipporah Sandler](https://plus.google.com/101880883420067172700?rel=author) AKA Zippy is a lifestyle and travel specialist who after living everywhere from Providence to Paris found herself suddenly residing in South Florida (something she swore she’d never do). Whether it be San Pellegrino water or Louis Roderer Cristal, Zippy suggests that you keep your life sparkling and your glass full.
