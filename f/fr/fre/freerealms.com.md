@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freerealms.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613201016id_/http%3A//www.station.sony.com/en_US/sonyonline/privacy.vm%3Ftheme%3Dfreerealms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freerealms.com privacy policy that was archived on 2014-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140425234721id_/http%3A//www.station.sony.com/en_US/sonyonline/privacy.vm%3Ftheme%3Dfreerealms) for the most accurate reproduction.*
 
-# Sony Online Entertainment
+# Sony Online Entertainment - Privacy Policy
 
 #### Your Privacy Rights
 
@@ -37,13 +37,13 @@ Because we provide you with the ability to exercise your "opt out" rights as des
 
 This Privacy Policy and the certification seal located above confirm that SOE is a valid licensee and participating member in the Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online. We have voluntarily undertaken this privacy initiative and The Station has been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this program, we are subject to frequent audits of The Station and other enforcement and accountability mechanisms administered independently by ESRB.
 
-If you have any questions, complaints, or comments regarding this Privacy Policy, please contact SOE Customer Service at [support@soe.sony.com](mailto:support@soe.sony.com). For complaints, you can also contact ESRB Privacy Online directly at [http://www.esrb.org/privacy/contact.jsp](http://www.esrb.org/privacy/contact.jsp%20) or by regular mail at 317 Madison Avenue, New York, NY 10017.
+If you have any questions, complaints, or comments regarding this Privacy Policy, please contact SOE Customer Service at [support@soe.sony.com](mailto:support@soe.sony.com). For complaints, you can also contact ESRB Privacy Online directly at <http://www.esrb.org/privacy/contact.jsp> or by regular mail at 317 Madison Avenue, New York, NY 10017.
 
 #### The web sites and services covered by this Privacy Policy
 
 We currently operate the web site located at [www.station.sony.com](http://www.station.com/), including all of its subsites (typically any web pages which end in station.sony.com, including the examples set out below) and all software, products, features, games and services made available, displayed, or offered by or through our web site or subsites (collectively, " **The Station** ").
 
-In addition, we own many other domain names (e.g. [www.soe.com](http://www.soe.com/), www.freerealms.com, and www.everquest.com) that may redirect you to the home page of The Station and/or content-specific "subsites" of The Station, and these subsites are also considered part of The Station for purposes of this Privacy Policy.
+In addition, we own many other domain names (e.g. [www.soe.com](http://www.soe.com/), [www.freerealms.com](http://www.freerealms.com/), and [www.everquest.com](http://www.everquest.com/)) that may redirect you to the home page of The Station and/or content-specific "subsites" of The Station, and these subsites are also considered part of The Station for purposes of this Privacy Policy.
 
 Examples of subsites include:
 
