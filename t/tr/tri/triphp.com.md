@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triphp.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626233227id_/http%3A//www.triphp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triphp.com privacy policy that was archived on 2014-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140426004638id_/http%3A//www.triphp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Webmaster Tools and Resources - Triphp
 
