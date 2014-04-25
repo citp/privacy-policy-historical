@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fafsa.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224203056id_/http%3A//www.fafsa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fafsa.com privacy policy that was archived on 2014-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140425133937id_/http%3A//www.fafsa.com/privacy) for the most accurate reproduction.*
 
 # Student Financial Aid Services, Inc. Privacy Policy
 
