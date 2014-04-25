@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iqpc.sg privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222223244id_/http%3A//www.iqpc.sg/About/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iqpc.sg privacy policy that was archived on 2014-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140426012551id_/http%3A//www.iqpc.sg/About/Privacy-Policy) for the most accurate reproduction.*
 
 # Business Conferences, Events & Training Seminars | Privacy Policy
 
