@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techotopia.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821045712id_/http%3A//www.techotopia.com/index.php/Techotopia%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techotopia.com privacy policy that was archived on 2014-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140425104540id_/http%3A//www.techotopia.com/index.php/Techotopia%3APrivacy_policy) for the most accurate reproduction.*
 
 # Techotopia:Privacy policy - Techotopia
 
@@ -35,6 +35,3 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 ## [[edit](https://web.archive.org/index.php?title=Techotopia:Privacy_policy&action=edit&section=7 "Edit section: How To Contact Us")] How To Contact Us 
 
 Should you have other questions or concerns about these privacy policies, please send us an email at feedback (at) techotopia.com. 
-
-  
-
