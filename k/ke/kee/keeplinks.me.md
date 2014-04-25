@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keeplinks.me privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906040035id_/http%3A//www.keeplinks.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keeplinks.me privacy policy that was archived on 2014-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140425024932id_/http%3A//www.keeplinks.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - keeplinks.me
 
