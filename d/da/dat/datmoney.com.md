@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datmoney.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111113809id_/http%3A//www.datmoney.com/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datmoney.com privacy policy that was archived on 2014-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140425051559id_/http%3A//www.datmoney.com/private-policy) for the most accurate reproduction.*
 
 # Private Policy | An Entrepreneur | DatMoney.com
 
