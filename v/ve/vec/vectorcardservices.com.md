@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vectorcardservices.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209054418id_/http%3A//vectorcardservices.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vectorcardservices.com privacy policy that was archived on 2014-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140425164502id_/http%3A//vectorcardservices.com/privacy.html) for the most accurate reproduction.*
 
 # Vector Card Services
 
