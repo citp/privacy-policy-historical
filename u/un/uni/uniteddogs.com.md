@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniteddogs.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124025136id_/http%3A//www.uniteddogs.com/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniteddogs.com privacy policy that was archived on 2014-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140425094520id_/http%3A//www.uniteddogs.com/en/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / Uniteddogs
 
