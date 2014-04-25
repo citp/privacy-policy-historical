@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the awldigital.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225023423id_/http%3A//awldigital.com/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awldigital.com privacy policy that was archived on 2014-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140425080119id_/http%3A//awldigital.com/%3Fpage_id%3D2) for the most accurate reproduction.*
 
-# Digital » Privacy Policy
+# awldigital.com » Privacy Policy
 
 ### About this Notice
 
