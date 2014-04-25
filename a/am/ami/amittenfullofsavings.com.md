@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amittenfullofsavings.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224071553id_/http%3A//www.amittenfullofsavings.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amittenfullofsavings.com privacy policy that was archived on 2014-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140425202157id_/http%3A//www.amittenfullofsavings.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - A Mitten Full of Savings
 
@@ -24,4 +24,4 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
-[](http://www.printfriendly.com/print?url=http://www.amittenfullofsavings.com/about/privacy-policy/)
+[](http://www.printfriendly.com/print?url=http%3A%2F%2Fwww.amittenfullofsavings.com%2Fabout%2Fprivacy-policy%2F)
