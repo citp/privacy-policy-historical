@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the viewlike.us privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023170359id_/http%3A//www.viewlike.us/index.php%3Fpage%3Dconditions%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewlike.us privacy policy that was archived on 2014-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140425201102id_/http%3A//www.viewlike.us/index.php%3Fpage%3Dconditions%23privacy) for the most accurate reproduction.*
 
 # ViewLikeUs - Check Sites in Multiple Resolutions and Screen Sizes!
 
 This policy covers how we use your personal information. We take your privacy seriously and will take all measures to protect your personal information.  
 Any personal information received will only be used to fill your order. We will not sell or redistribute your information to anyone.
 
-This privacy policy is for this website [WWW.VIEWLIKE.US](https://web.archive.org/web/20131023170359id_/http%3A//www.viewlike.us/www.viewlike.us) and served by VIEWLIKE.US and governs the privacy of its users who choose to use it. 
+This privacy policy is for this website [WWW.VIEWLIKE.US](https://web.archive.org/web/20140425201102id_/http%3A//www.viewlike.us/www.viewlike.us) and served by VIEWLIKE.US and governs the privacy of its users who choose to use it. 
 
 The policy sets out the different areas where user privacy is concerned and outlines the obligations & requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy.
 
