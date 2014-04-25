@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sffirecu.org privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227035911id_/http%3A//www.sffirecu.org/2011/12/6/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sffirecu.org privacy policy that was archived on 2014-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140425215950id_/https%3A//www.sffirecu.org/2013/12/20/privacy-notice-to-members) for the most accurate reproduction.*
 
 # SF Fire Credit Union : Privacy Notice to Members
 
@@ -105,7 +105,7 @@ No
 
 we don't share  
   
-For nonaffiliates to market to you
+For non-affiliates to market to you
 
 | 
 
@@ -168,9 +168,9 @@ Why can't I limit all sharing?
 
 Federal law gives you the right to limit only: 
 
-  * Sharing for affiliates' everyday business purposes â€“ information about your creditworthiness
+  * Sharing for affiliates' everyday business purposes – information about your creditworthiness
   * Affiliates from using your information to market to you
-  * Sharing for nonaffiliates to market to you
+  * Sharing for non-affiliates to market to you
 
 
 
@@ -192,17 +192,17 @@ Affiliates
 
 Companies related by common ownership or control. They can be financial and nonfinancial companies. SF Fire Credit Union has no affiliates.  
   
-Nonaffiliates
+Non-affiliates
 
 | 
 
-Companies not related by common ownership or control. They can be financial and nonfinancial companies. SF Fire Credit Union does not share with nonaffiliates.  
+Companies not related by common ownership or control. They can be financial and nonfinancial companies. SF Fire Credit Union does not share with non-affiliates.  
   
 Joint marketing
 
 | 
 
-A formal agreement between nonaffiliated financial companies that together market financial products or services to you. Our joint marketing partners include financial services and insurance companies.  
+A formal agreement between non-affiliated financial companies that together market financial products or services to you. Our joint marketing partners include financial services and insurance companies.  
   
 Other important information  
   
@@ -212,6 +212,6 @@ Children's Online Privacy Protection Act Rule \-- the law requires parental cons
 
 Cookies \-- "cookies" are pieces of data assigned by our web server and stored on your computer's hard drive for later retrieval. This helps us recognize you the next time you visit our site. We will not use cookies to record information that will enable anyone to contact you via telephone, email or regular mail. You may block the placement of cookies by adjusting the security settings on your web browser.  
   
-Rev. 08/2012
+Rev. 12/2013
 
-Posted on December 6th, 2011
+Posted on December 20th, 2013
