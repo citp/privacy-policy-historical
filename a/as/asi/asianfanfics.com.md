@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianfanfics.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222030617id_/http%3A//www.asianfanfics.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianfanfics.com privacy policy that was archived on 2014-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140426004821id_/http%3A//www.asianfanfics.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Asianfanfics.com
 
