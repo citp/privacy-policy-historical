@@ -1,88 +1,99 @@
-> *The following text is extracted and transformed from the sociomantic.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222145755id_/http%3A//www.sociomantic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sociomantic.com privacy policy that was archived on 2014-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140425071146id_/https%3A//www.sociomantic.com/privacy/%23privacy-policy) for the most accurate reproduction.*
 
-# Privacy « sociomantic labs | Real-time bidding solutions for eCommerce
+# Privacy Policy English | Sociomantic Labs
 
-_sociomantic labs_ takes the privacy and security of your data very seriously. This policy outlines the privacy practices of our web domain, [www.sociomantic.com,](http://www.sociomantic.com%2C/) as well as the privacy practices associated with our online advertising technologies. As a company located in the Federal Republic of Germany, we comply with some of the most stringent web privacy laws in the world. We also adhere to the industry’s _[Self-Regulatory Principles for Online Behavioral Advertising](http://www.aboutads.info/)_.
+**Sociomantic Labs**  takes the privacy and security of your data very seriously. We are an online advertising technology company that helps advertisers to deliver more relevant online display (banner) advertisements using anonymous, non-personally identifiable information.  We adhere to the online advertising industry’s _Framework for Online Behavioural Advertising._ You can read the framework and learn more about how this type of advertising works at the [Your Online Choices](http://www.youronlinechoices.eu/) website.
 
-This policy is effective as of 1 August, 2010.  
-Last updated: 8 November, 2010
+You can opt-out of seeing ads personalized by Sociomantic by selecting the checkbox below or on the [Your Online Choices](http://www.youronlinechoices.eu/) website.
 
-**Website Privacy Policy**
+When you opt-out, a new cookie is placed in your web browser that tells our technology to cease data collection from and ad delivery to your browser. You can opt-in to Sociomantic’s ads again at any time by un-checking the box above.
 
-This section outlines the privacy practices with regards to our website, [www.sociomantic.com](https://web.archive.org/web/20111222145755id_/http%3A//) and all related domains.
+Please note that if you delete, block, or otherwise restrict your cookies via browser controls, or if you use another browser or another device, you will need to renew your opt-out decision. Furthermore, this opt-out only applies to ads delivered by Sociomantic, and does not opt you out of ads delivered by other companies.
 
-  1. **Personally Identifiable Information (“PII”)**  
-We collect PII (such as your name, email address, or phone number) when you provide it to us for the purposes of communication with the company (e.g., by using our [contact form](https://web.archive.org/web/20111222145755id_/http%3A//contact/) or commenting on [our blog](http://blog.sociomantic.com/)). When we receive this information, we use it to respond to your inquiry, request, or comment, and then we store the information for a reasonable time to complete correspondence and keep a record of communications.We do not combine your PII with the non-PII data we store in our _sociomantic_ Sonar or third party cookies (more below). We will never share your PII with non-affiliate third parties unless obligated by the national law of the Federal Republic of Germany or international governance. 
+Read more about cookie control in our Privacy Policy below.
 
-If you would like to update or delete the PII we have on file, please feel free to email us.
+## What Kind of Data is Collected by Sociomantic, and How is it Used?
 
-  2. **Anonymous data (non-PII)**  
-Our website, [www.sociomantic.com](https://web.archive.org/web/20111222145755id_/http%3A//), places small text files on your internet browser called [cookies](http://www.allaboutcookies.org/). Cookies store non-personally identifiable information (non-PII) about your web browsing behaviors both on our site and after you leave our site. We use cookies for three purposes:
+We use browser cookies to collect anonymous, non-personally identifiable information (non-PII) about your interactions with the ads that we show and the websites of our clients (advertisers). The non-PII we collect is never attached to or combined with any personally identifiable information (PII), and is delivered anonymously and securely to our partners and clients for the purposes of delivering more relevant online advertising.
 
+Read more about the data collected and stored and how it is used in our Privacy Policy below.
 
+This policy is effective as of August 1, 2010.  
+Last Updated: September 1, 2013
 
-I) _Website Customization:_ these cookies can remember your preferences (e.g., your login status on our customer pages) to make your experience with our website more personalized and streamlined.
+**Sociomantic Labs**  takes the privacy and security of your data very seriously. Sociomantic Labs (referred to as “Sociomantic,” “we,” “us,” “our”) is an online advertising technology company that helps advertisers to deliver more relevant online display (banner) advertisements using anonymous, non-personally identifiable information.
 
-II) _Website Analytics:_ these third party cookies help us analyze our web traffic to improve the effectiveness of our website. They collect information such as your browser type, when you came to our site and which pages were visited, and what country you’re browsing from.
+## Corporate Website Privacy Policy
 
-III) _Online Advertising:_ these are our _sociomantic_ Sonar cookies, which enable us to serve you more relevant advertisements as you surf the web. They collect information such as the websites you visit after you leave our site and your clickstream activity on those sites. (More details in the following section.)
+This section of the privacy policy refers to your interactions with our homepage and all related domains and subdomains.
 
-In all three cases, we may share this anonymous data with third parties. Read the “Controlling the use of your information” section below to learn about how you can manage your cookie preferences.
+### Personally Identifiable Information (“PII”)
 
-**Online Advertising Privacy Policy**
+Sociomantic collects PII (such as your name, email address, or phone number) when you provide it to us directly, for example by using the contact form on our homepage, or when you contact us via email. We use this information to respond to your inquiry, request, or comment, and then we store the information for a reasonable time to complete correspondence and keep a record of communications. We will never share your PII with non-affiliate third parties unless obligated by the national law of the Federal Republic of Germany or international governance. If you would like to update or delete the PII we have on file for you, please feel free to contact us.
 
-Our technology helps our clients to deliver more relevant online advertisements using a range of ad targeting methods that depend on cookies to aggregate data about user behaviors on the web. If you’re interested in learning more about how these technologies work, we’d recommend starting at these sites:
+### Anonymous Data (non-PII)
 
-  * IABEurope’s [Your Online Choices](http://www.youronlinechoices.eu/) site (EU)
-  * IAB’s [Privacy Matters](http://www.iab.net/privacymatters/) site (learn about online behavioral advertising)
-  * Digital Advertising Alliance’s [AboutAds](http://www.aboutads.info/consumers/) site (U.S.-based self-regulatory initiative)
+Our website places small text files on your web browser called [cookies](http://www.allaboutcookies.org/ "All about cookies"). Cookies are small text files placed on your computer used to store a record. Sociomantic uses cookies to store only non-personally identifiable information (non-PII). We use cookies for the following purposes:
 
-
-
-The information we aggregate is never attached to or combined with any PII without user consent, and is delivered anonymously and securely to our partners and clients for the purposes of online advertising. If you are not interested in seeing more relevant online advertisements delivered by our technology, please scroll down to the “ **Cookie Control** ” or “ **Opt Out** ” sections below to learn about how you can control the collection and use of non-PII for your browser.
-
-  1. **Types of anonymous information collected  
-**Our targeting technology collects only non-PII data.  This anonymous data is stored as small files ([cookies](http://www.allaboutcookies.org/)) that are saved to your web browser to help us collect information such the websites visited by your browser, the advertisements clicked, items viewed in an online shop or added to an online shopping basket, etc. We also collect information on the performance of the ads delivered, for example how many times an ad was shown, whether or not it was clicked, or if that click resulted in an online purchase.
-  2. **How is information used?**  
-The information we collect is used to help make the ads you see more relevant to you. We do this by showing you ads based on your previous online actions and other dimensions we have assigned to your browser based on the non-PII we have collected. This helps to reduce the amount of “spam” advertisements you see as you browse the web, and it enables advertisers to connect to people who would be most interested in their offering. It also helps web publishers to make more money from the ad spaces they have to sell, so they can continue to offset their production costs and provide valuable content to you – many times for free.
-  3. **Storage and retention of data ******_  
-sociomantic labs_ has taken reasonable measures to encrypt and keep secure the all of the data we collect. This data is stored for a finite amount of time within the bounds of German law and in compliance with international standards.
+  * Website customization: These first-party cookies remember your preferences on our website, such as language preference or your login credentials for our user interface.
+  * Website analytics: These third-party cookies help us analyze our web traffic to improve the effectiveness of our website. They collect information such as your browser type, which pages were visited and for how long, and what country you are browsing from.
+  * Online advertising: The Sociomantic Sonar cookies are used for online advertising. These cookies enable us to serve you more relevant advertisements as you surf the web. They collect information such as how you interact with our clients’ online shops or the online banners that we serve.
+  * Social sharing and other third-party cookies: Some functionalities of our website include third-party tools that use cookies to help you share interesting information with others. For example, if you are signed into Facebook in your browser, you have the option to share certain articles from our site via Facebook because a cookie is used to remember your login credentials.
 
 
 
-**Controlling the Use of Your Information**
+We may share some non-PII with third parties, for example in reporting to our clients how you have interacted with their advertisements or web shops. Read the Controlling the Use of Your Information section below to learn about how you can manage your cookie preferences via opt-out and browser controls.
 
-  1. **Disclosure of information to third parties**  
-We will never share your PII with non-affiliate third parties without your consent. Non-PII data collected by our technologies may be shared with our clients and partners for the purposes of delivering targeted online advertisements or aggregated user insights.  The provision of your personal data to government institutions is only possible within the framework of the national law of the Federal Republic of Germany or in compliance with international governance.
-  2. **Children**  
-We never knowingly collect personal information about users under the age of 13 or from pages targeted to users of this age group. In the event that it is brought to our attention that personal information about a person under the age of 13 has been collected, we will take reasonable measures to remove this information from our system.
-  3. **Sensitive information  
-**We never collect sensitive information such as financial account numbers, Social Security numbers, pharmaceutical prescriptions, or medical records.
-  4. **Cookie Control**  
-Most modern web browsers give users the option to control the placement of cookies and/or to delete cookies which have been acquired while browsing the web. You can access these options in the preferences or options section of your web browser.
+## Online Advertising Privacy Policy
 
+Sociomantic’s online advertising technology helps our clients to deliver more relevant online advertisements. This section of the privacy policy refers to your interactions with our online advertising technology. If you are interested in learning more about how these technologies work in general, we recommend starting at one of these sites:
+
+  * IAB Europe’s [Your Online Choices](http://www.youronlinechoices.eu/ "Your Online Choices") site
+  * IAB’s [Privacy Matters](http://www.iab.net/privacymatters "Privacy Matters") site (learn about online behavioral advertising)
+  * Digital Advertising Alliance’s [AboutAds](http://www.aboutads.info/ "AboutAds") site
 
 
-**Opt-out**
 
-If you would like to opt-out of _sociomantic_ ’s Sonar tracking you can do so by selecting the checkbox below. This places a new cookie on your browser that tells our technology to refrain from collecting any further non-PII data about you. Please take note that if you delete, block, or otherwise restrict your cookies via browser controls, or if you use another browser or another computer, you may need to renew your opt-out decision.
+### Types of Anonymous Information (non-PII) Collected
 
-At any time you may return to this page and opt-in again by unchecking the box below.
+Our online advertising technology collects and stores only non-PII data, which is accessed using cookies. These cookies are saved to your web browser to help us collect information such as the web pages visited by your browser, the advertisements clicked, the items viewed in an online shop or added to an online shopping basket, etc. We also collect information on the performance of the ads delivered, for example how many times an ad was shown to a particular browser, whether or not the ad was clicked, and if that click resulted in an online purchase.
 
-**Links to Other Websites**  
-Our website may include links to other websites and third parties which are not directly affiliated with _sociomantic labs_ and are therefore not covered by this privacy policy. While we strive to link to companies with reputable privacy practices, we cannot guarantee that their policies will match our own. Please check the privacy policies of the website(s) you visit when questions arise.
+### How the Information is Used
 
-**Changes to the Privacy Policy**
+The information we collect is used to help make the ads you see more relevant to you. We do this by showing you ads based on your previous online actions and other dimensions we have assigned to your browser based on the non-PII we have collected. This helps to reduce the amount of “spam” advertisements you see as you browse the web, and it enables advertisers to connect to people who would be most interested in their offering.
+
+### Storage and Retention of Data
+
+Sociomantic Labs has taken reasonable measures to encrypt and keep secure all of the data we collect. This data is stored for a finite amount of time within the bounds of German law and in compliance with international standards.
+
+## Controlling the Use of Your Information
+
+###### Disclosure of Information to Third Parties
+
+We will never share your PII with non-affiliate third parties without your consent. Non-PII collected by our advertising technologies may be shared with our clients and partners for the purposes of delivering targeted online advertisements or aggregated reporting. The provision of your personal data to government institutions is only possible within the framework of the national law of the Federal Republic of Germany or in compliance with international governance.
+
+###### Children
+
+Sociomantic never knowingly collects personal information about users under the age of 13 or from pages targeted to users of this age group. In the event that it is brought to our attention that personal information about a person under the age of 13 has been collected, we will take reasonable measures to remove this information from our system.
+
+###### Sensitive Information
+
+We never knowingly collect sensitive information such as financial account numbers, social security numbers, pharmaceutical prescriptions, or medical records.
+
+###### Cookie Control
+
+Most modern web browsers give users the option to control the placement of cookies and/or to delete cookies that have been acquired while browsing the web. You can access these options in the preferences or options section of your web browser.
+
+## Links to Other Websites and Partner Cookies
+
+Our website may include links to other websites and third parties which are not directly affiliated with Sociomantic and are therefore not covered by this privacy policy. While we strive to link to companies with reputable privacy practices, we cannot guarantee that their policies will match our own. Furthermore, the use of cookies by our partners or sites we have linked to is not covered by this privacy policy. Please check the privacy policies of the website(s) you visit when questions arise.
 
 This privacy policy is subject to change. The date of changes to this policy will be posted at the top of this policy. When we make any material change to this privacy policy, we will post a notice on our homepage to alert visitors to the changes.
 
-**Contact Info**
-
-If you have any questions about our privacy policy or security practices, please email us or contact us at our office.
+If you have any questions about our privacy policy or security practices, please contact us at our German headquarters.
 
 sociomantic labs GmbH  
-Münzstraße 19  
-10178 Berlin  
-Germany
-
-http://www.sociomantic.com/privacy/ 
+Paul-Lincke-Ufer 39/40  
+10999 Berlin  
+Germany  
+[www.sociomantic.com/privacy/](http://www.sociomantic.com/privacy/)
