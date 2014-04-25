@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mundu.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231123653id_/http%3A//mundu.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mundu.com privacy policy that was archived on 2014-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140425233306id_/http%3A//mundu.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Welcome to Mundu.com – Privacy
 
