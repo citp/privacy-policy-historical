@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkwheel.net privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026220817id_/http%3A//www.linkwheel.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkwheel.net privacy policy that was archived on 2014-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140426163924id_/http%3A//www.linkwheel.net/privacy) for the most accurate reproduction.*
 
 # Privacy | LinkWheel SEO Services
 
