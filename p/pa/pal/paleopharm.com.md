@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paleopharm.com privacy policy that was archived on 2013-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130727174130id_/https%3A//www.paleopharm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paleopharm.com privacy policy that was archived on 2014-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140426174034id_/https%3A//www.paleopharm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PaleoPharm
 
