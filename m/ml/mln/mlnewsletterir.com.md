@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlnewsletterir.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226005207id_/http%3A//www.mlnewsletterir.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlnewsletterir.com privacy policy that was archived on 2014-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140426115439id_/http%3A//www.mlnewsletterir.com/privacy-policy) for the most accurate reproduction.*
 
 # Email Marketing Privacy Policy | MailerLite
 
