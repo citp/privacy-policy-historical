@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysale.my privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208202627id_/http%3A//www.mysale.my/PrivacyPolicy.aspx%3Fcid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysale.my privacy policy that was archived on 2014-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140426113228id_/http%3A//www.mysale.my/PrivacyPolicy.aspx%3Fcid%3D10) for the most accurate reproduction.*
 
 # Mysale.my - Privacy
 
@@ -6,7 +6,11 @@
 
 MYSALE.MY, referred to below as MySale, is an online retailer of consumer goods owned and operated by Ozsale Pty Limited (ABN 11 118 610 987) (“Ozsale”), a company registered in Australia.
 
-MySale values our relationship with you and the other users of this website. We recognize that you may be concerned about our collection, use, and disclosure of your personally identifiable information that we may collect when you use the Website. Accordingly, we have implemented this Privacy Policy to inform you of the information that we collect from you, how we collect this information, and what we do with it after we collect it. If you have any questions or comments regarding this Privacy Policy, please contact us via our contact us page or call 03 7391 7967.
+MySale values our relationship with you and the other users of this website. We recognize that you may be concerned about our collection, use, and disclosure of your personally identifiable information that we may collect when you use the Website. Accordingly, we have implemented this Privacy Policy to inform you of the information that we collect from you, how we collect this information, and what we do with it after we collect it. If you have any questions or comments regarding this Privacy Policy, please contact us via our contact us page, e-mail us contactus@mysale.my or call 03 7391 7967.
+
+If you wish to unsubscribe from our daily notifications you can do so by clicking the unsubscribe link at the bottom of any of our email notifications or by visiting www.mysale.my/unsubscribe.aspx.
+
+Mysale is located at Lot G.03, Wisma Academy, 4A Jalan 19/1, 46300 Petaling Jaya Selangor
 
 ## MYSALE's Commitment to Online Security
 
