@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neilgaiman.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229005100id_/http%3A//www.harpercollins.com/footer/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neilgaiman.com privacy policy that was archived on 2014-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140426100131id_/http%3A//www.harpercollins.com/footer/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy, HarperCollins Publishers
 
@@ -15,7 +15,7 @@ Table of Contents:
 
  **1\. INTRODUCTION**
 
-HarperCollins Publishers L.L.C. ("HarperCollins" or "we") wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications ("apps"), and widgets (collectively, the "HarperCollins Services"). By using HarperCollins Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies ("HarperCollins Affiliates") is available at [www.newscorp.com/about/](http://www.newscorp.com/about/).
+HarperCollins Publishers L.L.C. ("HarperCollins" or "we") wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications ("apps"), and widgets (collectively, the "HarperCollins Services"). By using HarperCollins Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies ("HarperCollins Affiliates") is available at [www.newscorp.com/about/our-businesses/](http://newscorp.com/about/our-businesses/).
 
 As set forth in our [Terms of Use](http://www.harpercollins.com/footer/termsOfUse.aspx), the HarperCollins Services are predominantly for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age. When we intend to collect information from children, we will provide additional information about how we protect children's privacy in our Childrenís Privacy policy. To read about our protections that relate to the online collection of information from children under 13, [click here](http://www.harpercollins.com/footer/coppa.aspx).
 
