@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solareworld.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208183537id_/http%3A//www.solareworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solareworld.com privacy policy that was archived on 2014-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140427011844id_/http%3A//www.solareworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, Solar Energy World
 
@@ -23,9 +23,9 @@ _*Indicates a required field_
 
 ## [](http://www.solareworld.com/the-sun-report/)
 
-### Solar Cell Efficiency Round-Up: Silicon, CIGS, and Sonics
+### Three New Finance Models for Non-Profits to Go Solar
 
-James Montgomery, Associate Editor, RenewableEnergyWorld.com December 03, 2013 New Hampshire, USA — During the past few weeks we’ve been tracking some announcements about solar cell efficiency improvements, both for silicon and thin-film PV. While research continues to push both traditional[Read More >](http://www.solareworld.com/2013/12/05/solar-cell-efficiency-round-silicon-cigs-sonics/)
+Daryl Zeis, REC Solar April 23, 2014  renewableenergyworld.com     There have generally been two main financial challenges for non-profits interested in going solar. First is the lack of funds or credit availability for purchasing a solar system. The second[Read More >](http://www.solareworld.com/2014/04/25/three-new-finance-models-non-profits-go-solar/)
 
 ## [ Hear from Our Customers >](http://www.solareworld.com/customer-testimonials/)
 
