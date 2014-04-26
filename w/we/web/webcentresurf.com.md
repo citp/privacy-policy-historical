@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webcentresurf.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211035031id_/http%3A//webcentresurf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcentresurf.com privacy policy that was archived on 2014-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140426120307id_/http%3A//webcentresurf.com/privacy) for the most accurate reproduction.*
 
 # WebCentre Surf - Traffic Exchange
 
-[Members](https://web.archive.org/web/20131211035031id_/http://webcentresurf.com/members/) | [Surf](https://web.archive.org/web/20131211035031id_/http://webcentresurf.com/surf/) | [Contests](https://web.archive.org/web/20131211035031id_/http://webcentresurf.com/contests/) | [Buy Advertising](https://web.archive.org/web/20131211035031id_/http://webcentresurf.com/buy/) | [News](https://web.archive.org/web/20131211035031id_/http://webcentresurf.com/news/) | [Contact](https://web.archive.org/web/20131211035031id_/http://webcentresurf.com/contact/) | [Help](https://web.archive.org/web/20131211035031id_/http://webcentresurf.com/help/)  
+[Members](https://web.archive.org/web/20140426120307id_/http://webcentresurf.com/members/) | [Surf](https://web.archive.org/web/20140426120307id_/http://webcentresurf.com/surf/) | [Contests](https://web.archive.org/web/20140426120307id_/http://webcentresurf.com/contests/) | [Buy Advertising](https://web.archive.org/web/20140426120307id_/http://webcentresurf.com/buy/) | [News](https://web.archive.org/web/20140426120307id_/http://webcentresurf.com/news/) | [Contact](https://web.archive.org/web/20140426120307id_/http://webcentresurf.com/contact/) | [Help](https://web.archive.org/web/20140426120307id_/http://webcentresurf.com/help/)  
 ---|---|---|---|---|---|---  
   
 WebCentre Surf respects your right to privacy and we understand that visitors to our website need to be in control of their personal information. We have created this statement in order to demonstrate our firm commitment to internet privacy. The following explains our use of information collected on this website. 
@@ -15,4 +15,4 @@ To join WebCentre Surf requires users to submit their name and email address. Th
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please contact us. 
 
-© 2005-2013 webcentresurf.com. All rights reserved.
+© 2005-2014 webcentresurf.com. All rights reserved.
