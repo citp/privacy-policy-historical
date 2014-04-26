@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fodors.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222024838id_/http%3A//www.fodors.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fodors.com privacy policy that was archived on 2014-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140426233711id_/http%3A//www.fodors.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Fodor's Travel
 
