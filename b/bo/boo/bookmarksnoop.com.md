@@ -1,0 +1,9 @@
+> *The following text is extracted and transformed from the bookmarksnoop.com privacy policy that was archived on 2014-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140426182127id_/http%3A//www.bookmarksnoop.com/posts/spain-fines-google-over-privacy-policy-2k) for the most accurate reproduction.*
+
+# Spain fines Google over privacy policy | BookmarkSnoop
+
+It seems that Google is in for a bad news as far as Spain is concerned with having been fined a whopping $1.23 million, which translates to £751,000 and 900,000 Euros, in lieu of breaking the data protection laws of the country. What is important to understand here is that this fine amount is so far the maximum to have been levied upon a firm in lieu of the country’s privacy laws. 
+
+This was imposed on Google following the changes it made to its privacy policy, which resulted in Google collecting user’s personal information. These policy changes, which were made by Google in March of 2012, enabled it to both track and collect data pertaining to activity of users across its services and its platform. This user activity also entailed platforms of search engine, YouTube and e-mail among its around 100 services. 
+
+Google has been accused of three breaches pertaining to Spanish national law regarding the protection of personal data. The Spanish Government data protection agency accused Google of unlawfully collecting and processing of personal information and was of the view that Google in the process of data collection had not obtained the prior consent of its users and had not even done enough in lieu of explanation of the purpose and subsequent usage of the collected data. The authority termed the language used by Google on its privacy policy pages as ‘highly ambiguous”, which renders it difficult for people to comprehend what would happen to the data collected by Google.
