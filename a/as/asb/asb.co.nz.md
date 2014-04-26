@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the asb.co.nz privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628161842id_/https%3A//www.asb.co.nz/story335.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asb.co.nz privacy policy that was archived on 2014-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140426231851id_/https%3A//www.asb.co.nz/story335.aspx) for the most accurate reproduction.*
 
 # Privacy - ASB Bank New Zealand
 
 **Privacy**
 
-ASB Bank Limited ("ASB") recognises the importance of safeguarding your personal and financial information. As an institution offering financial services, ASB needs to obtain personal information about you in the course of providing our products and services. 
+ASB Bank Limited ('ASB') recognises the importance of safeguarding your personal and financial information. As an institution offering financial services, ASB needs to obtain personal information about you in the course of providing our products and services. 
 
 To ensure your security, you will need to take appropriate steps to ensure that your Internet browser is capable of supporting our website's encryption requirements. 
 
