@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sortprice.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221085823id_/http%3A//sortprice.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sortprice.com privacy policy that was archived on 2014-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140426052616id_/http%3A//www.sortprice.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy new sp: Compare Prices, Reviews & Buy Online @ SortPrice Shopping
 
