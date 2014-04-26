@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ravand.ca privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028222835id_/http%3A//www.ravand.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ravand.ca privacy policy that was archived on 2014-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140426123736id_/http%3A//www.ravand.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy | Toronto, Canada - Offering premium dedicated servers, colocation hosting, cloud hosting, VPS, and web hosting management solutions.
 
