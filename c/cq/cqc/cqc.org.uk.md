@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cqc.org.uk privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030230709id_/http%3A//www.cqc.org.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cqc.org.uk privacy policy that was archived on 2014-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140426221106id_/http%3A//www.cqc.org.uk/home/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | Care Quality Commission
 
@@ -54,3 +54,15 @@ We will only do this if we are legally able to, and if there is a very good reas
 If we can, we will contact you first to tell you how we plan to share your information.
 
 Our code of practice details how we obtain, handle and use your personal information.
+
+## Looking at care records
+
+When we inspect care services, it helps us to look at some people’s care records as part of our checks that care is being provided in the right way.
+
+If you don’t want us to look at your records, please tell the manager of the organisation that provides your care service ie the hospital, care home, GP surgery or dentist. We will respect your wishes where it is possible to carry out our checks without looking at your records.
+
+## Personal information
+
+We do not hold personal information about people who use care services, but we sometimes take copies of some information, and in rare cases, we may need to share that information with other public bodies.
+
+If you think that we may hold your personal information and you want to make a request to see it, please visit [Freedom of information](https://web.archive.org/about-us/freedom-information-0) for more details. We may ask you for proof of identity and to pay a small fee before responding to your request. 
