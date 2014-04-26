@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gideons.org privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023204117id_/http%3A//www.gideons.org/privacy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gideons.org privacy policy that was archived on 2014-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140426025721id_/http%3A//www.gideons.org/privacy/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,9 +44,9 @@ This website contains links to other sites. Please be aware that The Gideons Int
 
 ## Surveys
 
-From time to time, our site requests information from users via surveys. Participation in these surveys is completely voluntary and the user has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as ZIP code, age level). Survey information will be used for purposes of monitoring or improving the use and satisfaction of our ministry. SecurityThis website takes every precaution to protect our users' information. When users submit sensitive information via the website, the information is protected both online and off-line. 
+From time to time, our site requests information from users via surveys. Participation in these surveys is completely voluntary and the user has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as ZIP code, age level). Survey information will be used for purposes of monitoring or improving the use and satisfaction of our ministry. This website takes every precaution to protect our users' information. When users submit sensitive information via the website, the information is protected both online and off-line. 
 
-When sensitive information (such as credit card number and/or social security number), is requested from users, that information is protected with the best encryption software presently available in the industry - Secured Socket Layer. [While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to unlocked, or open, when you are just 'surfing'.] 
+When sensitive information (such as credit card number and/or social security number), is requested from users, that information is protected with the best encryption software presently available in the industry - Secured Socket Layer. [While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Microsoft Internet Explorer becomes locked, as opposed to unlocked, or open, when you are just 'surfing'.] 
 
 While we use Secured Socket Layer encryption to protect sensitive information online, we also have in place procedures to protect user information off-line. Use of user information is restricted and monitored in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. 
 
@@ -56,8 +56,6 @@ If a user's personally identifiable information changes (such as your ZIP code),
 
 ## Notification of Changes
 
-Revisions in The Gideons International privacy policy will be posted on [our home page](https://web.archive.org/privacy/privacy.aspx) to ensure that users are always aware of what information is collected, how it is used, and under what circumstances, if any, it is disclosed. If at any point the personally identifiable information is used in a manner different from that stated at the time it was collected, users will be notified by way of an email. Users will have a choice as to whether or not their information is used in this different manner. User information will only be used in accordance with the privacy policy under which the information was collected. 
+Revisions in The Gideons International privacy policy will be posted on our home page to ensure that users are always aware of what information is collected, how it is used, and under what circumstances, if any, it is disclosed. If at any point the personally identifiable information is used in a manner different from that stated at the time it was collected, users will be notified by way of an email. Users will have a choice as to whether or not their information is used in this different manner. User information will only be used in accordance with the privacy policy under which the information was collected. 
 
 Revised September 2012. 
-
-Copyright © 2012 The Gideons International. All rights reserved. 
