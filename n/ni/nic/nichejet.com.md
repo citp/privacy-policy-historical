@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nichejet.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213005921id_/http%3A//nichejet.com%3Faction%3Dlegal-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nichejet.com privacy policy that was archived on 2014-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140426131727id_/http%3A//nichejet.com%3Faction%3Dlegal-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
