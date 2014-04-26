@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicjinni.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222072216id_/http%3A//www.musicjinni.com/privacy-policy.jsf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicjinni.com privacy policy that was archived on 2014-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140427003709id_/http%3A//www.musicjinni.com/privacy-policy.jsf) for the most accurate reproduction.*
 
 # Pakistani & indian movie songs | Online Radio | English songs | video songs | Pakistani Stage Drama | Indian Drama | Free mp3 download | musicjinni
 
