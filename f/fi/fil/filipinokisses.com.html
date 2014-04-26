@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the filipinokisses.com privacy policy that was archived on 2013-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131121234341id_/http%3A//www.filipinokisses.com/datasavety.php%3Fl%3Den%26randm%3D2%26randw%3D3) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the filipinokisses.com privacy policy that was archived on 2014-04-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140427015429id_/http%3A//www.filipinokisses.com/datasavety.php%3Fl%3Den%26randm%3D4%26randw%3D7) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 TRANSITIONAL//EN"><html><!--<![endif]--><head>
 <link rel="shortcut icon" href="favicon.ico">
@@ -32,7 +32,7 @@
 
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="Copyright" content="IK Softwareportal GmbH">
+    <meta name="Copyright" content="IK Softwareportal GmbH">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
     if (typeof ik == 'undefined') ik = {};
     ik.myId = 0;
@@ -40,7 +40,7 @@
         ik.isMobile=false;
 ik.isTablet=false;
 </script>
-<link type="text/css" rel="stylesheet" href="/members/cache/css/dbd11560054be09c37357f3b2cd11441-1382447148.css"><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script><script type="text/javascript" src="/members/cache/js/18bfe0bca2adf887817118ef7d841bde-1382447148.js"></script><script type="text/javascript" src="/js/js-php/common-en-1d06926856a13a7cadb1e3ac3b65ce87.php"></script><script type="text/javascript" src="/js/js-php/mailbox_send-en-1cf33cd99031b38b933731bb467afdee.php"></script>
+<link type="text/css" rel="stylesheet" href="/members/cache/css/dbd11560054be09c37357f3b2cd11441-1398166510.css"><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script><script type="text/javascript" src="/members/cache/js/18bfe0bca2adf887817118ef7d841bde-1398166510.js"></script><script type="text/javascript" src="/js/js-php/common-en-4f378bef4039d2d62c31a893f458814f.php"></script><script type="text/javascript" src="/js/js-php/mailbox_send-en-98440a1a1bf17672e7be6880fbc88969.php"></script>
 <script type="text/javascript">
     $(function() {
         $('ul.dropdownmenu li').hover(function() {$(this).toggleClass('hover');});
@@ -91,11 +91,50 @@ function getBrowserY() {
 }
 
 function load_info(next,infourl){
+    var myWidth = 0, myHeight = 0;
+    if( typeof( window.innerWidth ) == 'number' ) {
+        //Non-IE
+        myWidth = window.innerWidth;
+        myHeight = window.innerHeight;
+    } else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+        //IE 6+ in 'standards compliant mode'
+        myWidth = document.documentElement.clientWidth;
+        myHeight = document.documentElement.clientHeight;
+    } else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+        //IE 4 compatible
+        myWidth = document.body.clientWidth;
+        myHeight = document.body.clientHeight;
+    }
+
+    var x=getBrowserX();
+    var y=getBrowserY();
+
+    var p = 'scrollbars=yes, resizable=yes, toolbar=yes, menubar=yes, status=yes, location=yes, left=' + x + ', top=' + y +', height=' + myHeight + ',Width=' + myWidth;
+    if((navigator.userAgent.indexOf('Firefox') > 0) || ie) {
+        var win_parent = window;
+        var win2 = window.open(infourl, "bw", p);
+        win2.blur();
+        window.open("", "_self", "");
+        setTimeout(function () { win_parent.focus(); }, 150);
+    }
 }
 
 function load_infosubmit(infourl){
+    load_info("", infourl);
+	return true;
 }
 </script>
+<!-- Start Visual Website Optimizer Asynchronous Code -->
+<script type="text/javascript">
+    var _vwo_code=(function(){
+        var account_id=19351,
+            settings_tolerance=2000,
+            library_tolerance=2500,
+            use_existing_jquery=false,
+// DO NOT EDIT BELOW THIS LINE
+            f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=19351&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140427015429id_%2Fhttp%253A%2F%2Fwww.filipinokisses.com%2Fdatasavety.php%253Fl%253Den%2526randm%253D4%2526randw%253D7&amp;r=0.7621229969510708" type="text/javascript"></script>
+<!-- End Visual Website Optimizer Asynchronous Code -->
 </head><body>
 <div id="dialogNotAvailableForFree" title="Information" class="hidden" style="overflow: visible">
 	<p>
@@ -159,16 +198,16 @@ function load_infosubmit(infourl){
 			<!-- Begin flags -->
 			<table width="35" border="0" cellpadding="0" cellspacing="0" style="margin-right:10px;">
 				<tbody><tr>
-					<td><a href="/datasavety.php?l=de&amp;randm=2&amp;randw=3&amp;newslideshow="><img src="/bitmaps/flags/flag_d.gif" alt="German" title="German" width="35" height="25" border="0"></a></td>
-					<td><a href="/datasavety.php?l=en&amp;randm=2&amp;randw=3&amp;newslideshow="><img src="/bitmaps/flags/flag_gb.gif" alt="English" title="English" width="35" height="25" border="0"></a></td>
-					<td><a href="/datasavety.php?l=zh&amp;randm=2&amp;randw=3&amp;newslideshow="><img src="/bitmaps/flags/flag_china.gif" alt="Chinese" title="Chinese" width="35" height="25" border="0"></a></td>
-					<td><a href="/datasavety.php?l=fr&amp;randm=2&amp;randw=3&amp;newslideshow="><img src="/bitmaps/flags/flag_fr.gif" alt="French" title="French" width="35" height="25" border="0"></a></td>
+					<td><a href="/datasavety.php?l=de&amp;randm=4&amp;randw=7&amp;force_mobile=&amp;newslideshow="><img src="/bitmaps/flags/flag_d.gif" alt="German" title="German" width="35" height="25" border="0"></a></td>
+					<td><a href="/datasavety.php?l=en&amp;randm=4&amp;randw=7&amp;force_mobile=&amp;newslideshow="><img src="/bitmaps/flags/flag_gb.gif" alt="English" title="English" width="35" height="25" border="0"></a></td>
+					<td><a href="/datasavety.php?l=zh&amp;randm=4&amp;randw=7&amp;force_mobile=&amp;newslideshow="><img src="/bitmaps/flags/flag_china.gif" alt="Chinese" title="Chinese" width="35" height="25" border="0"></a></td>
+					<td><a href="/datasavety.php?l=fr&amp;randm=4&amp;randw=7&amp;force_mobile=&amp;newslideshow="><img src="/bitmaps/flags/flag_fr.gif" alt="French" title="French" width="35" height="25" border="0"></a></td>
 				</tr>
 				<tr>
-					<td><a href="/datasavety.php?l=es&amp;randm=2&amp;randw=3&amp;newslideshow="><img src="/bitmaps/flags/flag_es.gif" alt="Spanish" title="Spanish" width="35" height="25" border="0"></a></td>
-					<td><a href="/datasavety.php?l=pt&amp;randm=2&amp;randw=3&amp;newslideshow="><img src="/bitmaps/flags/flag_po.gif" alt="Portugese" title="Portugese" width="35" height="25" border="0"></a></td>
-					<td><a href="/datasavety.php?l=ru&amp;randm=2&amp;randw=3&amp;newslideshow="><img src="/bitmaps/flags/flag_rus.gif" alt="Russian" title="Russian" width="35" height="25" border="0"></a></td>
-					<td><a href="/datasavety.php?l=en&amp;randm=2&amp;randw=3&amp;newslideshow="><img src="/bitmaps/flags/flag_usa.gif" alt="English" title="English" width="35" height="25" border="0"></a></td>
+					<td><a href="/datasavety.php?l=es&amp;randm=4&amp;randw=7&amp;force_mobile=&amp;newslideshow="><img src="/bitmaps/flags/flag_es.gif" alt="Spanish" title="Spanish" width="35" height="25" border="0"></a></td>
+					<td><a href="/datasavety.php?l=pt&amp;randm=4&amp;randw=7&amp;force_mobile=&amp;newslideshow="><img src="/bitmaps/flags/flag_po.gif" alt="Portugese" title="Portugese" width="35" height="25" border="0"></a></td>
+					<td><a href="/datasavety.php?l=ru&amp;randm=4&amp;randw=7&amp;force_mobile=&amp;newslideshow="><img src="/bitmaps/flags/flag_rus.gif" alt="Russian" title="Russian" width="35" height="25" border="0"></a></td>
+					<td><a href="/datasavety.php?l=en&amp;randm=4&amp;randw=7&amp;force_mobile=&amp;newslideshow="><img src="/bitmaps/flags/flag_usa.gif" alt="English" title="English" width="35" height="25" border="0"></a></td>
 				</tr>
 			</tbody></table>
 			<!-- End flags -->
@@ -205,7 +244,7 @@ function load_infosubmit(infourl){
 	</div>
 	
 
-	</td></tr></tbody></table><table align="center" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td align="center"><div id="topcontainer"><ul class="top-menu menu-row ui-corner-top"><li class="first"><a class="" href="index.php?l=en&amp;randm=3&amp;randw=5" onclick="load_info(&quot;index.php?l=en&amp;randm=3&amp;randw=5&quot;,&quot;index_dating.php?source=&quot;)">Home</a></li><li><a class="" href="browse_members.php?l=en&amp;randm=3&amp;randw=5" onclick="load_info(&quot;browse_members.php?l=en&amp;randm=3&amp;randw=5&quot;,&quot;index_dating.php?source=&quot;)">Browse</a></li><li><a class="" href="join_now.php?l=en&amp;randm=3&amp;randw=5" onclick="load_info(&quot;join_now.php?l=en&amp;randm=3&amp;randw=5&quot;,&quot;index_dating.php?source=&quot;)">Register</a></li><li><a class="" href="a_search_all.php?l=en&amp;randm=3&amp;randw=5" onclick="load_info(&quot;a_search_all.php?l=en&amp;randm=3&amp;randw=5&quot;,&quot;index_dating.php?source=&quot;)">Search</a></li><li><a class="" href="gallery.php?l=en&amp;randm=3&amp;randw=5" onclick="load_info(&quot;gallery.php?l=en&amp;randm=3&amp;randw=5&quot;,&quot;index_dating.php?source=&quot;)">Galleries</a></li><li><a class="" href="statistik.php?l=en&amp;randm=3&amp;randw=5" onclick="load_info(&quot;statistik.php?l=en&amp;randm=3&amp;randw=5&quot;,&quot;index_dating.php?source=&quot;)">Statistic</a></li><li><a class="" href="testimonials.php?l=en&amp;randm=3&amp;randw=5" onclick="load_info(&quot;testimonials.php?l=en&amp;randm=3&amp;randw=5&quot;,&quot;index_dating.php?source=&quot;)">Success Stories (98)</a></li><li><a class="" href="login.php?l=en&amp;randm=3&amp;randw=5" onclick="load_info(&quot;login.php?l=en&amp;randm=3&amp;randw=5&quot;,&quot;index_dating.php?source=&quot;)">Member's login</a></li><li><a class="" href="impressum.php?l=en&amp;randm=3&amp;randw=5" onclick="load_info(&quot;impressum.php?l=en&amp;randm=3&amp;randw=5&quot;,&quot;index_dating.php?source=&quot;)">Contact us</a></li></ul></div><div class="ui-widget ui-helper-hidden" id="site-messages"></div><table border="0" cellspacing="0" cellpadding="0">
+	</td></tr></tbody></table><table align="center" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td align="center"><div id="topcontainer"><ul class="top-menu menu-row ui-corner-top"><li class="first"><a class="" href="index.php?l=en&amp;randm=5&amp;randw=9" onclick="load_info(&quot;index.php?l=en&amp;randm=5&amp;randw=9&quot;,&quot;index_dating.php?source=&quot;)">Home</a></li><li><a class="" href="browse_members.php?l=en&amp;randm=5&amp;randw=9" onclick="load_info(&quot;browse_members.php?l=en&amp;randm=5&amp;randw=9&quot;,&quot;index_dating.php?source=&quot;)">Browse</a></li><li><a class="" href="join_now.php?l=en&amp;randm=5&amp;randw=9" onclick="load_info(&quot;join_now.php?l=en&amp;randm=5&amp;randw=9&quot;,&quot;index_dating.php?source=&quot;)">Register</a></li><li><a class="" href="a_search_all.php?l=en&amp;randm=5&amp;randw=9" onclick="load_info(&quot;a_search_all.php?l=en&amp;randm=5&amp;randw=9&quot;,&quot;index_dating.php?source=&quot;)">Search</a></li><li><a class="" href="gallery.php?l=en&amp;randm=5&amp;randw=9" onclick="load_info(&quot;gallery.php?l=en&amp;randm=5&amp;randw=9&quot;,&quot;index_dating.php?source=&quot;)">Galleries</a></li><li><a class="" href="statistik.php?l=en&amp;randm=5&amp;randw=9" onclick="load_info(&quot;statistik.php?l=en&amp;randm=5&amp;randw=9&quot;,&quot;index_dating.php?source=&quot;)">Statistic</a></li><li><a class="" href="testimonials.php?l=en&amp;randm=5&amp;randw=9" onclick="load_info(&quot;testimonials.php?l=en&amp;randm=5&amp;randw=9&quot;,&quot;index_dating.php?source=&quot;)"><span style="font-size: 150%; line-height: 10px; color: #ffff00; font-face: Arial, Helvetica">☻</span> Success Stories (107)</a></li><li><a class="" href="login.php?l=en&amp;randm=5&amp;randw=9" onclick="load_info(&quot;login.php?l=en&amp;randm=5&amp;randw=9&quot;,&quot;index_dating.php?source=&quot;)">Member's login</a></li><li><a class="" href="impressum.php?l=en&amp;randm=5&amp;randw=9" onclick="load_info(&quot;impressum.php?l=en&amp;randm=5&amp;randw=9&quot;,&quot;index_dating.php?source=&quot;)">Contact us</a></li></ul></div><div class="ui-widget ui-helper-hidden" id="site-messages"></div><table border="0" cellspacing="0" cellpadding="0">
  <tbody><tr>
     <td width="100%" height="528" valign="top">
 
@@ -281,8 +320,9 @@ According to § 34 of the Data Protection Act we will give you very much free an
 Please remember what you should do whenever you voluntarily provide personal information online (eg in chat rooms, e-mail, forums), this information may be collected and used by others. So you might receive unsolicited messages from others when you send in areas with public access personal information online. They act cautiously and responsibly online and pay attention to the secrecy of your passwords and / or other personal information. If you have forgotten your password, click here and enter your login in the box or e-mail address. If you click "Send Password", you will receive the link to enter a password / change password immediately by e-mail.<br><br>
 <h2>9. Self-control</h2>
 
-    IK Softwareportal GmbH allows compliance with the Privacy Policy regularly checked by an independent data protection officer. Please contact with any questions about privacy on our first customer.
-If your privacy questions could not be satisfactorily resolved by the customer, you can also contact our data security consultant Mr. Ingo Legner. You can reach him at: <b><a href="mailto:info@derschild.de?subject=Privacy request for Filipino Kisses not-logged-in">info@derschild.de</a></b>
+    If your privacy questions could not be satisfactorily resolved by the customer, you can also contact our data security consultant Mr. Silvio Federau.
+    <br>
+    You can reach him at: <b><a href="mailto:datenschutzbeauftragter@mail.interkontakt.net?subject=Privacy request for Filipino Kisses not-logged-in">datenschutzbeauftragter@mail.interkontakt.net</a></b>
 .<br><br><h1>Disclaimer</h1>
 
 <h2>1. Content</h2>
@@ -303,7 +343,7 @@ This disclaimer is to be regarded as part of the internet publication which you 
   </tr>
 </tbody></table>
 </td><td style="background-image: url(/bitmaps/border/rahmen_r.gif);" width="17"></td></tr><tr><td width="17"><img src="/bitmaps/border/rahmen_ul.gif" width="17" height="13"></td><td style="background-image: url(/bitmaps/border/rahmen_u.gif);"></td><td width="17"><img src="/bitmaps/border/rahmen_ur.gif" width="17" height="13"></td></tr></tbody></table>
-<p><a href="/amazonbooklinks.php">Books</a>&nbsp;|&nbsp;<a href="/learn_thai.php?language=tagalog&amp;l=en" target="_blank">Learn Tagalog Filipino</a>&nbsp;|&nbsp;<a href="/freeware.php?l=en&amp;randm=3&amp;randw=5" target="_blank">Freeware</a>&nbsp;|&nbsp;<a href="/languages_all.php?l=en&amp;randm=3&amp;randw=5" target="_blank">Languages</a>&nbsp;|&nbsp;<a href="/datasavety.php?l=en&amp;randm=3&amp;randw=5" target="_blank">Privacy Policy</a>&nbsp;|&nbsp;<a href="/agb.php?l=en&amp;randm=3&amp;randw=5" target="_blank">Terms of service</a>&nbsp;|&nbsp;<a href="/ikfeedback.php?l=en" target="_blank">Feedback</a></p><div id="ajax"></div>	</td>
+<p><a href="/amazonbooklinks.php">Books</a>&nbsp;|&nbsp;<a href="/learn_thai.php?language=tagalog&amp;l=en" target="_blank">Learn Tagalog Filipino</a>&nbsp;|&nbsp;<a href="/freeware.php?l=en&amp;randm=5&amp;randw=9" target="_blank">Freeware</a>&nbsp;|&nbsp;<a href="/languages_all.php?l=en&amp;randm=5&amp;randw=9" target="_blank">Languages</a>&nbsp;|&nbsp;<a href="/datasavety.php?l=en&amp;randm=5&amp;randw=9" target="_blank">Privacy Policy</a>&nbsp;|&nbsp;<a href="/agb.php?l=en&amp;randm=5&amp;randw=9" target="_blank">Terms of service</a>&nbsp;|&nbsp;<a href="/ikfeedback.php?l=en" target="_blank">Feedback</a></p><div id="ajax"></div>	</td>
 
 	<!-- Footer -->
 	
@@ -313,23 +353,23 @@ This disclaimer is to be regarded as part of the internet publication which you 
 		<table border="0" cellpadding="0" cellspacing="0">
 		<tbody><tr>
 			<td height="132" align="center" valign="middle">
-			<a href="http://www.kissesofafrica.com?sc=ik_FK_new_banners" target="_blank" alt="Dating with african ladies">
-           <img src="/bitmaps/site_icons/african_dating.jpg"></a></td></tr><tr>
-			<td height="132" align="center" valign="middle">
-			<a href="http://www.asiankisses.de?sc=ik_FK_new_banners" target="_blank" alt="Dating with asian ladies">
-           <img src="/bitmaps/site_icons/asian_dating.jpg"></a></td></tr><tr>
+			<a href="http://www.latinlove.org?sc=ik_FK_new_banners" target="_blank" alt="Dating with Latinas">
+           <img src="/bitmaps/site_icons/dating_latinas.jpg"></a></td></tr><tr>
 			<td height="132" align="center" valign="middle">
 			<a href="http://www.chinesekisses.com?sc=ik_FK_new_banners" target="_blank" alt="Dating with chinese ladies">
            <img src="/bitmaps/site_icons/chinese_dating.jpg"></a></td></tr><tr>
 			<td height="132" align="center" valign="middle">
-			<a href="http://www.ladyboykisses.com?sc=ik_FK_new_banners" target="_blank" alt="Dating with asian Ladyboys">
-           <img src="/bitmaps/site_icons/dating_ladyboys.jpg"></a></td></tr><tr>
-			<td height="132" align="center" valign="middle">
 			<a href="http://www.thaikisses.com?sc=ik_FK_new_banners" target="_blank" alt="Dating with thai ladies">
            <img src="/bitmaps/site_icons/thai_dating.jpg"></a></td></tr><tr>
 			<td height="132" align="center" valign="middle">
-			<a href="http://www.latinlove.org?sc=ik_FK_new_banners" target="_blank" alt="Dating with Latinas">
-           <img src="/bitmaps/site_icons/dating_latinas.jpg"></a></td></tr><tr>
+			<a href="http://www.ladyboykisses.com?sc=ik_FK_new_banners" target="_blank" alt="Dating with asian Ladyboys">
+           <img src="/bitmaps/site_icons/dating_ladyboys.jpg"></a></td></tr><tr>
+			<td height="132" align="center" valign="middle">
+			<a href="http://www.asiankisses.de?sc=ik_FK_new_banners" target="_blank" alt="Dating with asian ladies">
+           <img src="/bitmaps/site_icons/asian_dating.jpg"></a></td></tr><tr>
+			<td height="132" align="center" valign="middle">
+			<a href="http://www.kissesofafrica.com?sc=ik_FK_new_banners" target="_blank" alt="Dating with african ladies">
+           <img src="/bitmaps/site_icons/african_dating.jpg"></a></td></tr><tr>
 			<td height="132" align="center" valign="middle">
 			<a href="http://www.interkontakt.net?sc=ik_FK_new_banners" target="_blank" alt="Dating with russian ladies">
            <img src="/bitmaps/site_icons/russian_girls_dating.jpg"></a></td></tr><tr><td colspan="2"><table width="100%"><tbody><tr><td alight="right"><script type="text/javascript">
@@ -343,27 +383,27 @@ This disclaimer is to be regarded as part of the internet publication which you 
 	<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 	</script></td></tr></tbody></table></td></tr><tr>
                     <td height="132" align="center" valign="middle">
-                    <a href="/view.php?l=en&amp;id=32118&amp;&amp;randm=3&amp;randw=5" alt="Mario, 48&nbsp;years" title="Mario, 48&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=32118&amp;&amp;&amp;randm=3&amp;randw=5','index_dating.php?source=')"><img class="border" src="http://photo1.filipinokisses.com/members/uploads/xx_06/internet-brides_32118_001011-101.jpg" border="1"></a>
+                    <a href="/view.php?l=en&amp;id=32374&amp;&amp;randm=5&amp;randw=9" alt="Peter, 52&nbsp;years" title="Peter, 52&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=32374&amp;&amp;&amp;randm=5&amp;randw=9','index_dating.php?source=')"><img class="border" src="http://photo1.filipinokisses.com/members/uploads/xx_06/filipino-ladies-for-marriage_32374_045022-74.jpg" border="1"></a>
                     </td>
                 </tr><tr>
                     <td height="132" align="center" valign="middle">
-                    <a href="/view.php?l=en&amp;id=11918&amp;&amp;randm=3&amp;randw=5" alt="Jing, 45&nbsp;years" title="Jing, 45&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=11918&amp;&amp;&amp;randm=3&amp;randw=5','index_dating.php?source=')"><img class="border" src="http://photo1.filipinokisses.com/members/uploads/xx_09/internet-brides_11918_162116-921.jpg" border="1"></a>
+                    <a href="/view.php?l=en&amp;id=13052&amp;&amp;randm=5&amp;randw=9" alt="Leonidisa, 60&nbsp;years" title="Leonidisa, 60&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=13052&amp;&amp;&amp;randm=5&amp;randw=9','index_dating.php?source=')"><img class="border" src="http://photo1.filipinokisses.com/members/uploads/xx_02/filipino-ladies-for-marriage_13052_055645-824.jpg" border="1"></a>
                     </td>
                 </tr><tr>
                     <td height="132" align="center" valign="middle">
-                    <a href="/view.php?l=en&amp;id=17066&amp;&amp;randm=3&amp;randw=5" alt="Bby, 41&nbsp;years" title="Bby, 41&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=17066&amp;&amp;&amp;randm=3&amp;randw=5','index_dating.php?source=')"><img class="border" src="http://photo1.filipinokisses.com/members/uploads/xx_11/internet-brides_17066_152919-62.jpg" border="1"></a>
+                    <a href="/view.php?l=en&amp;id=13346&amp;&amp;randm=5&amp;randw=9" alt="Nenalyn, 39&nbsp;years" title="Nenalyn, 39&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=13346&amp;&amp;&amp;randm=5&amp;randw=9','index_dating.php?source=')"><img class="border" src="http://photo1.filipinokisses.com/members/uploads/xx_03/filipino-ladies-for-marriage_13346_184419-201.jpg" border="1"></a>
                     </td>
                 </tr><tr>
                     <td height="132" align="center" valign="middle">
-                    <a href="/view.php?l=en&amp;id=32342&amp;&amp;randm=3&amp;randw=5" alt="Klaus, 54&nbsp;years" title="Klaus, 54&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=32342&amp;&amp;&amp;randm=3&amp;randw=5','index_dating.php?source=')"><img class="border" src="http://photo1.filipinokisses.com/members/uploads/xx_01/internet-brides_32342_165526-516.jpg" border="1"></a>
+                    <a href="/view.php?l=en&amp;id=32410&amp;&amp;randm=5&amp;randw=9" alt="Wolfgang, 59&nbsp;years" title="Wolfgang, 59&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=32410&amp;&amp;&amp;randm=5&amp;randw=9','index_dating.php?source=')"><img class="border" src="http://photo1.filipinokisses.com/members/uploads/xx_06/filipino-ladies-for-marriage_32410_173157-122.jpg" border="1"></a>
                     </td>
                 </tr><tr>
                     <td height="132" align="center" valign="middle">
-                    <a href="/view.php?l=en&amp;id=19680&amp;&amp;randm=3&amp;randw=5" alt="Charlotte Grace, 37&nbsp;years" title="Charlotte Grace, 37&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=19680&amp;&amp;&amp;randm=3&amp;randw=5','index_dating.php?source=')"><img class="border" src="http://photo1.filipinokisses.com/members/uploads/xx_11/internet-brides_19680_074736-347.jpg" border="1"></a>
+                    <a href="/view.php?l=en&amp;id=13384&amp;&amp;randm=5&amp;randw=9" alt="Rizalina, 55&nbsp;years" title="Rizalina, 55&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=13384&amp;&amp;&amp;randm=5&amp;randw=9','index_dating.php?source=')"><img class="border" src="http://photo1.filipinokisses.com/members/uploads/xx_04/filipino-ladies-for-marriage_13384_044545-737.jpg" border="1"></a>
                     </td>
                 </tr><tr>
                     <td height="132" align="center" valign="middle">
-                    <a href="/view.php?l=en&amp;id=19884&amp;&amp;randm=3&amp;randw=5" alt="Linda, 55&nbsp;years" title="Linda, 55&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=19884&amp;&amp;&amp;randm=3&amp;randw=5','index_dating.php?source=')"><img class="border" src="http://photo1.filipinokisses.com/members/uploads/xx_02/internet-brides_19884_210645-675.jpg" border="1"></a>
+                    <a href="/view.php?l=en&amp;id=14612&amp;&amp;randm=5&amp;randw=9" alt="Dolly, 44&nbsp;years" title="Dolly, 44&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=14612&amp;&amp;&amp;randm=5&amp;randw=9','index_dating.php?source=')"><img class="border" src="http://photo1.filipinokisses.com/members/uploads/xx_03/filipino-ladies-for-marriage_14612_035136-710.jpg" border="1"></a>
                     </td>
                 </tr>		</tbody></table>
 </td></tr></tbody></table>
