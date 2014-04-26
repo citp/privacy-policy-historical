@@ -1,0 +1,1047 @@
+<!--The following is the downloaded HTML source of the ssrn.com privacy policy that was archived on 2014-04-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140426112452id_/http%3A//www.ssrn.com/en/index.cfm/privacy-policy) for the most accurate reproduction.-->
+
+<html><head><script type="text/javascript" src="http://papers.ssrn.com/sol3/Scripts/jquery.js"></script>
+
+	<script language="javascript">
+		//Language functions
+		function changeLanguage(language, response){
+
+			$.ajax({
+				url: '/AltLanguage_ajax.cfm?type=changeLanguage&partid=1&strCode=' + language,
+				cache: false,
+				success: function(data) {
+					// Update values in cookies
+					Set_Cookie('SITEID',language,'-1','/','.ssrn.com','');
+					Set_Cookie('SITEID',language,'1000','/','.ssrn.com','');
+
+					// Finally, perform redirection
+					if (response == 'reload') {
+						window.location.reload();
+					}
+					else {
+						window.location.href=response;
+					}
+				}
+			});
+		}
+
+		function Set_Cookie( name, value, expires, path, domain, secure ) {
+			// set time, its in milliseconds
+			var today = new Date();
+			today.setTime( today.getTime() );
+
+			/*
+			if the expires variable is set, make the correct
+			expires time, the current script below will set
+			it for x number of days, to make it for hours,
+			delete * 24, for minutes, delete * 60 * 24
+			*/
+			if ( expires ) {
+				expires = expires * 1000 * 60 * 60 * 24;
+			}
+
+			var expires_date = new Date( today.getTime() + (expires) );
+
+			document.cookie = name + "=" +escape( value ) +
+			( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) +
+			( ( path ) ? ";path=" + path : "" ) +
+			( ( domain ) ? ";domain=" + domain : "" ) +
+			( ( secure ) ? ";secure" : "" );
+		}
+
+
+		/*
+		* We use this function when the language should be stripped from an object, like a form RADIO
+		*/
+		function getLanguage ( oObj ) {
+			var specialChars = "!@#$^&%*()+=-[]\/{}|:<>?,.";
+
+			// Need to clean up code if object came from Mura site.
+			sCode = oObj.value;
+			if (sCode.length > 2) {
+				for (var i = 0; i < specialChars.length; i++) {
+					sCode = sCode.replace(new RegExp("\\" + specialChars[i], 'gi'), '');
+				}
+				// After cleaning up special chars, we take the first two chars.
+				sCode = sCode.substring(0,2).trim();
+			}
+
+			return sCode;
+		}
+	</script>
+
+
+
+
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	
+	<meta name="generator" content="Mura CMS 5.6">
+	
+	<title>Privacy Policy :: SSRN</title>
+
+	<!--<link rel="icon" href="/en/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/en/images/favicon.ico" type="image/x-icon" />-->
+	<link rel="icon" href="/en/includes/themes/merced/images/ssrn/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="/en/includes/themes/merced/images/ssrn/favicon.ico" type="image/x-icon">
+
+	
+	<link rel="stylesheet" href="/en/css/reset.min.css" type="text/css" media="all">
+	<link rel="stylesheet" href="/en/css/mura.min.css" type="text/css" media="all">
+
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+	   
+
+
+
+       
+       
+       
+               
+                       
+                       
+	<link rel="stylesheet" href="/en/includes/themes/merced/compiled/core.min.20131211031749.css" media="all"><!--[if lt IE 8]><link rel="stylesheet" href="/en/includes/themes/merced/compiled/ie.lte7.min.20130715045020.css" media="all" /><![endif]--><link rel="stylesheet" href="/en/includes/themes/merced/compiled/print.min.20130715045020.css" media="print">
+	
+                       
+                       
+	
+
+	
+	<!--[if lte IE 8]>
+	<script src="/en/includes/themes/merced/js/ie/lte8/html5.js" type="text/javascript" language="Javascript"></script>
+	<![endif]-->
+
+	
+	
+
+
+					
+
+
+
+	<script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en";
+	</script>
+		
+<script type="text/javascript" src="/en/js/global.min.js"></script>
+<script type="text/javascript">
+var loginURL="?display=login";
+var siteid="en"; 
+var siteID="en"; 
+var context=""; 
+var jslib="jquery";
+var assetpath="/en";
+var themepath="/en/includes/themes/merced";
+var htmlEditorType="";
+var rb="en";
+</script>
+			 <script type="text/javascript"> 
+<!--
+!window.jQuery && document.write(unescape('%3Cscript type="text/javascript" src="/en/js/jquery/jquery.js"%3E%3C/script%3E'))
+//-->
+</script><script type="text/javascript" src="/en/js/jquery/jquery.js"></script>
+<link rel="stylesheet" href="/plugins/LocaleTransMgr/css/ltm.css" type="text/css" media="all">
+</head>
+
+<body id="privacypolicy" class="depth2">
+
+<div id="container" class="sysPrivacypolicy">
+	
+
+	
+
+
+
+
+
+
+
+
+	<header class="clearfix">
+		<hgroup>
+			<h1><a href="/en/">SSRN</a></h1>
+			
+		</hgroup>
+		
+			<form action="http://papers.ssrn.com/sol3/results.cfm" id="searchForm" method="post" target="_top" name="formQuickSearch">
+				<fieldset>
+					<input type="text" name="txtKey_Words" id="txtKeywords" class="textltr" value="QuickSearch SSRN eLibrary" title="Enter a Keyword Search" onfocus="this.style.color='black';" onclick="value='';" maxlength="250">
+					<a onclick="javascript:document.formQuickSearch.submit();" href="javascript:void(0);">
+						<img src="http://static.ssrn.com/Images/Header/btnSearch.png" alt="QuickSearch SSRN eLibrary">
+					</a>
+					<input type="hidden" name="searchallfields" value="true">
+					
+				</fieldset>
+			</form>
+		
+	</header>
+
+
+
+
+
+	<div id="content" class="clearfix">
+		<aside id="left">
+			<div class="login">
+				
+
+				
+				
+
+
+
+
+
+
+	
+	
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    	
+	
+	
+	
+   	
+	
+	
+	
+	        
+	
+
+
+
+
+
+<div style="position:absolute">
+	<form name="formErr" action="https://hq.ssrn.com/login/pubSignInJoin.cfm" method="post" target="_parent"><input type="hidden" id="errorMessage" name="errorMessage" value=""></form>
+</div>
+<p class="sidebarTitleLink" align="center"><a href="http://hq.ssrn.com">MEMBER SIGN IN</a></p>
+<p class="fistTime" align="center"><a href="http://hq.ssrn.com">First-time user? Free Registration</a></p>
+<form name="frmLoginBox" action="javascript:void(0);" onsubmit="return submitForm();">
+<input id="txtLogin" name="txtLogin" value="USER ID" style="color: rgb(153, 153, 153); width: 125px;direction:ltr;" onfocus="this.style.color='black';" onclick="if(this.value &amp;&amp; this.value == 'USER ID') { this.value = '';} else { this.select(); }">
+<div id="passwordbox" style="position:relative; float:left; width: 90px;">
+	<input type="text" maxlength="10" value="PASSWORD" onfocus="changeType();" id="txtPassword" name="txtPassword" style="color: rgb(153, 153, 153); width: 90px;direction:ltr;">
+</div>
+<div id="signinbox">
+	<input type="submit" class="go" id="go" value="Sign In" name="Process">
+</div>
+</form>
+<div style="position:relative;  float:left; font-size: 10px; font-family: sans-serif; color: rgb(32, 50, 118);display:none;visibility:hidden;" id="processingMessage">
+	<span id="progressBar">
+	<span>Processing request. </span>
+	<span style="position:relative; top:3px;">
+	<img src="http://hq.ssrn.com/submissions/Images/progress_bar_2.gif" border="0" title="Please wait, login in process." width="50" height="13">
+	</span>
+	</span>
+</div>
+
+<div style="position:relative;" id="errorMessageDiv"></div>
+<div style="position:relative;  float:left;">
+<p class="forgot"><a href="http://hq.ssrn.com/login/passwordAssistance.cfm?userEmail=&amp;rootPage=signIn">Forgot ID or Password?</a> | <a href="http://www.ssrn.com/en/index.cfm/contactus/" target="_blank" title="Contact">Contact Us</a>
+</p>
+</div>
+<div style="margin-top: 40px;">&nbsp;</div>
+
+
+
+
+<script type="text/javascript" src="http://hq.ssrn.com/validations.js"></script>
+<script type="text/javascript" src="http://static.ssrn.com/libraries/JQuery/jquery.min.js"></script>
+<script language="JavaScript">
+	function validateFields (){
+	  // size of form is currently 2 items any additions need to be accounted for
+	   if(document.getElementById("txtLogin") == null || document.getElementById("txtLogin").value == "")
+	   {
+		 alert ('The following field is empty: "User ID"');
+		 document.getElementById("txtLogin").focus();
+		 return false;
+	   }
+	   if(document.getElementById("txtPassword") == null || document.getElementById("txtPassword").value == "" )
+	   {
+		 alert ('The following field is empty: "Password"');
+		 document.getElementById("txtPassword").focus();
+		 return false;
+	   }
+	}
+
+
+	function changeType(){
+		document.getElementById("passwordbox").innerHTML = '<input type="password" style="color:black; width: 90px;" value="" name="txtPassword" id="txtPassword" maxlength="10" />';
+		setTimeout("document.getElementById('txtPassword').focus()",10);
+	}
+
+
+	function login () {
+		var completeURL = '/loginAjaxHeader.cfm?login=true&username='+document.getElementById("txtLogin").value+'&pass='+document.getElementById("txtPassword").value;
+
+		$.ajax({
+			url: completeURL,
+			cache: false,
+			success: function(data) {
+				if(data.indexOf('redirectFrom=true') != -1){
+					document.location.href = Trim(data);
+				} else {
+					document.getElementById("go").disabled=false;
+					document.getElementById("processingMessage").style.display="none";
+					document.getElementById("processingMessage").style.visibility="hidden";
+					document.getElementById("errorMessage").value = "User ID and Password do not match.";
+					document.getElementById("errorMessageDiv").style.display="block";
+					document.getElementById("errorMessageDiv").style.visibility="visible";
+					document.getElementById("errorMessageDiv").innerHTML = document.getElementById("errorMessage").value;
+				}
+
+			}
+		});
+	}
+
+
+	function submitForm(){
+		   if (validateFields() != false) {
+			document.getElementById("go").disabled=true;
+			document.getElementById("processingMessage").style.display="block";
+			document.getElementById("processingMessage").style.visibility="visible";
+			login ();
+		   }
+		   else {
+		   	return false;
+		   }
+	}
+</script>
+
+			</div>
+			<div class="sidebarLinks">
+				
+				
+
+
+
+
+
+
+
+<p align="center" class="sidebarTitle">RESEARCH NETWORKS:</p>
+
+<ul>
+	<li class="link-arn">
+		<a class="first linkSideA" href="/en/index.cfm/arn/">
+		<div class="sideLinkTextLeftltr">Accounting</div>
+		<div class="sideLinkTextRightltr">ARN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/arn/arn-partners-in-publishing/">Partners in Publishing</a></li>
+			<li><a href="/en/index.cfm/arn/arn-research-paper-series/">Research Paper Series</a></li>
+			<li class="line"><a href="/en/index.cfm/arn/arn-conferences-meetings/">Conference &amp; Meetings</a></li>
+			<li><a href="/en/index.cfm/arn/arn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/arn/arnjob/arn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/arn/arnann/arn_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/arn/arn-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to ARN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to ARN</a></li>
+		</ul>
+	</li>
+	<li class="link-aarn">
+		<a class="first linkSideA" href="/en/index.cfm/aarn/">
+		<div class="sideLinkTextLeftltr">Anthropology<br>&amp; Archaeology</div>
+		<div class="sideLinkTextRightltr">AARN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/aarn/aarn-partners-in-publishing/">Partners in Publishing</a></li>
+			<li class="line"><a href="/en/index.cfm/aarn/aarn-research-paper-series/">Research Paper Series</a></li>
+			<li><a href="/en/index.cfm/aarn/aarn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/aarn/aarnjob/aarn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/aarn/aarnann/aarn_ann.html">Professional Announcements</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to AARN</a></li>
+		</ul>
+	</li>
+	<li class="link-csn">
+		<a class="first linkSideA" href="/en/index.cfm/csn/">
+		<div class="sideLinkTextLeftltr">Cognitive Science</div>
+		<div class="sideLinkTextRightltr">CSN</div>
+		</a>
+		<ul>
+			<li class="line"><a href="/en/index.cfm/csn/csn-conferences-meetings/">Conference &amp; Meetings</a></li>
+			<li><a href="/en/index.cfm/csn/csn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/csn/csnjob/csn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/csn/csnann/csn_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/csn/csn-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to CSN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to CSN</a></li>
+		</ul>
+	</li>
+	<li class="link-cgn">
+		<a class="first linkSideA" href="/en/index.cfm/cgn/">
+		<div class="sideLinkTextLeftltr">Corporate Governance</div>
+		<div class="sideLinkTextRightltr">CGN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/cgn/cgn-partners-in-publishing/">Partners in Publishing</a></li>
+			<li class="line"><a href="/en/index.cfm/cgn/cgn-research-paper-series/">Research Paper Series</a></li>
+			<li><a href="/en/index.cfm/cgn/cgn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/cgn/cgnjob/cgn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/cgn/cgnann/cgn_ann.html">Professional Announcements</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to CGN</a></li>
+		</ul>
+	</li>
+	<li class="link-ern">
+		<a class="first linkSideA" href="/en/index.cfm/ern/">
+		<div class="sideLinkTextLeftltr">Economics</div>
+		<div class="sideLinkTextRightltr">ERN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/ern/ern-partners-in-publishing/">Partners in Publishing</a></li>
+			<li><a href="/en/index.cfm/ern/ern-research-paper-series/">Research Paper Series</a></li>
+			<li class="line"><a href="/en/index.cfm/ern/ern-conferences-meetings/">Conference &amp; Meetings</a></li>
+			<li><a href="/en/index.cfm/ern/ern-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/ern/ernjob/ern_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/ern/ernann/ern_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/ern/ern-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to ERN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to ERN</a></li>
+		</ul>
+	</li>
+	<li class="link-erpn">
+		<a class="first linkSideA" href="/en/index.cfm/erpn/">
+		<div class="sideLinkTextLeftltr">Entrepreneurship</div>
+		<div class="sideLinkTextRightltr">ERPN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/erpn/erpn-partners-in-publishing/">Partners in Publishing</a></li>
+			<li><a href="/en/index.cfm/erpn/erpn-research-paper-series/">Research Paper Series</a></li>
+			<li class="line"><a href="/en/index.cfm/erpn/erpn-conferences-meetings/">Conference &amp; Meetings</a></li>
+			<li><a href="/en/index.cfm/erpn/erpn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/erpn/erpnjob/erpn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/erpn/erpnann/erpn_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/erpn/erpn-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to ERPN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to ERPN</a></li>
+		</ul>
+	</li>
+	<li class="link-fen">
+		<a class="first linkSideA" href="/en/index.cfm/fen/">
+		<div class="sideLinkTextLeftltr">Finance</div>
+		<div class="sideLinkTextRightltr">FEN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/fen/fen-partners-in-publishing/">Partners in Publishing</a></li>
+			<li><a href="/en/index.cfm/fen/fen-research-paper-series/">Research Paper Series</a></li>
+			<li class="line"><a href="/en/index.cfm/fen/fen-conferences-meetings/">Conference &amp; Meetings</a></li>
+			<li><a href="/en/index.cfm/fen/fen-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/fen/fenjob/fen_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/fen/fenann/fen_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/fen/fen-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to FEN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to FEN</a></li>
+		</ul>
+	</li>
+	<li class="link-hen">
+		<a class="first linkSideA" href="/en/index.cfm/hen/">
+		<div class="sideLinkTextLeftltr">Health Economics</div>
+		<div class="sideLinkTextRightltr">HEN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/hen/hen-partners-in-publishing/">Partners in Publishing</a></li>
+			<li><a href="/en/index.cfm/hen/hen-research-paper-series/">Research Paper Series</a></li>
+			<li class="line"><a href="/en/index.cfm/hen/hen-conferences-meetings/">Conference &amp; Meetings</a></li>
+			<li><a href="/en/index.cfm/hen/hen-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/hen/henjob/hen_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/hen/henann/hen_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/hen/hen-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to HEN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to HEN</a></li>
+		</ul>
+	</li>
+	<li class="link-hrn">
+		
+		
+		
+			
+			<a class="first linkSideA" href="javascript:void(0);" onclick="changeLanguage('il','/il/index.cfm/hrn/?switch=1');">
+		
+		<div class="sideLinkTextLeftltr">Hebrew</div>
+		<div class="sideLinkTextRightltr">HRN</div>
+		</a>
+		<ul>
+			<li><a href="http://papers.ssrn.com/sol3/JELJOUR_Results.cfm?form_name=journalbrowse&amp;journal_id=2152362">Legal</a></li>
+			<li><a href="http://papers.ssrn.com/sol3/JELJOUR_Results.cfm?form_name=journalbrowse&amp;journal_id=2188559">Business</a></li>
+			<li><hr style="margin:10px 0; border-color:#666699;"></li>
+			<li><a href="http://hq.ssrn.com/Subscriptions.cfm">Subscribe</a></li>
+			<li><a href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit</a></li>
+		</ul>
+	</li>
+	<li class="link-crn">
+		<a class="first linkSideA" href="/en/index.cfm/crn/">
+		<div class="sideLinkTextLeftltr">Humanities: Classics</div>
+		<div class="sideLinkTextRightltr">CRN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/crn/crn-research-paper-series/">Research Paper Series</a></li>
+			<li class="line"><a href="/en/index.cfm/crn/crn-conferences-meetings/">Conference &amp; Meetings</a></li>
+			<li><a href="/en/index.cfm/crn/crn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/crn/crnjob/crn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/crn/crnann/crn_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/crn/crn-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to CRN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to CRN</a></li>
+		</ul>
+	</li>
+	<li class="link-lit">
+		<a class="first linkSideA" href="/en/index.cfm/lit/">
+		<div class="sideLinkTextLeftltr">Humanities: Literature</div>
+		<div class="sideLinkTextRightltr">LIT</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/lit/lit-research-paper-series/">Research Paper Series</a></li>
+			<li class="line"><a href="/en/index.cfm/lit/lit-conferences-meetings/">Conference &amp; Meetings</a></li>
+			<li><a href="/en/index.cfm/lit/lit-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/lit/litjob/lit_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/lit/litann/lit_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/lit/lit-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to LIT eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to LIT</a></li>
+		</ul>
+	</li>
+	<li class="link-mrcn">
+		<a class="first linkSideA" href="/en/index.cfm/mrcn/">
+		<div class="sideLinkTextLeftltr">Humanities: Music  <br> &amp; Composition</div>
+		<div class="sideLinkTextRightltr">MRCN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/mrcn/mrcn-partners-in-publishing/">Partners in Publishing</a></li>
+			<li class="line"><a href="/en/index.cfm/mrcn/mrcn-research-paper-series/">Research Paper Series</a></li>
+			<li><a href="/en/index.cfm/mrcn/mrcn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/mrcn/mrcnjob/mrcn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/mrcn/mrcnann/mrcn_ann.html">Professional Announcements</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to MRCN</a></li>
+		</ul>
+	</li>
+	<li class="link-prn">
+		<a class="first linkSideA" href="/en/index.cfm/prn/">
+		<div class="sideLinkTextLeftltr">Humanities: Philosophy</div>
+		<div class="sideLinkTextRightltr">PRN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/prn/prn-research-paper-series/">Research Paper Series</a></li>
+			<li class="line"><a href="/en/index.cfm/prn/prn-conferences-meetings/">Conference &amp; Meetings</a></li>
+			<li><a href="/en/index.cfm/prn/prn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/prn-/prnjob/prn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/prn-/prnann/prn_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/prn/prn-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to PRN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to PRN</a></li>
+		</ul>
+	</li>
+	<li class="link-rcrn">
+		<a class="first linkSideA" href="/en/index.cfm/rcrn/">
+		<div class="sideLinkTextLeftltr">Humanities: Rhetoric <br> &amp; Communication</div>
+		<div class="sideLinkTextRightltr">RCRN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/rcrn/rcrn-partners-in-publishing/">Partners in Publishing</a></li>
+			<li class="line"><a href="/en/index.cfm/rcrn/rcrn-research-paper-series/">Research Paper Series</a></li>
+			<li><a href="/en/index.cfm/rcrn/rcrn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/rcrn/rcrnjob/rcrn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/rcrn/rcrnann/rcrn_ann.html">Professional Announcements</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to RCRN</a></li>
+		</ul>
+	</li>
+	<li class="link-isn">
+		<a class="first linkSideA" href="/en/index.cfm/isn/">
+		<div class="sideLinkTextLeftltr">Information Systems<br> &amp; eBusiness</div>
+		<div class="sideLinkTextRightltr">ISN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/isn/isn-research-paper-series/">Research Paper Series</a></li>
+			<li class="line"><a href="/en/index.cfm/isn/isn-conferences-meetings/">Conference &amp; Meetings</a></li>
+			<li><a href="/en/index.cfm/isn/isn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/isn/isnjob/isn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/isn/isnann/isn_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/isn/isn-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to ISN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to ISN</a></li>
+		</ul>
+	</li>
+	<li class="link-irpn">
+		<a class="first linkSideA" href="/en/index.cfm/irpn/">
+		<div class="sideLinkTextLeftltr">Innovation</div>
+		<div class="sideLinkTextRightltr">IRPN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/irpn/irpn-partners-in-publishing/">Partners in Publishing</a></li>
+			<li><a href="/en/index.cfm/irpn/irpn-research-paper-series/">Research Paper Series</a></li>
+			<li class="line"><a href="/en/index.cfm/irpn/irpn-conferences-meetings/">Conference &amp; Meetings</a></li>
+			<li><a href="/en/index.cfm/irpn/irpn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/irpn/irpnjob/irpn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/irpn/irpnann/irpn_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/irpn/irpn-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to IRPN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to IRPN </a></li>
+		</ul>
+	</li>
+	<li class="link-lsn">
+		<a class="first linkSideA" href="/en/index.cfm/lsn/">
+		<div class="sideLinkTextLeftltr">Law</div>
+		<div class="sideLinkTextRightltr">LSN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/lsn/lsn-partners-in-publishing/">Partners in Publishing</a></li>
+			<li><a href="/en/index.cfm/lsn/lsn-research-paper-series/">Research Paper Series</a></li>
+			<li class="line"><a href="/en/index.cfm/lsn/lsn-conferences-meetings/">Conference &amp; Meetings</a></li>
+			<li><a href="/en/index.cfm/lsn/lsn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/lsn/lsnjob/lsn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/lsn/lsnann/lsn_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/lsn/lsn-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to LSN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to LSN</a></li>
+		</ul>
+	</li>
+	<li class="link-lrn">
+		<a class="first linkSideA" href="/en/index.cfm/lrn/">
+		<div class="sideLinkTextLeftltr">Leadership</div>
+		<div class="sideLinkTextRightltr">LRN</div>
+		</a>
+		<ul>
+			<li class="line"><a href="/en/index.cfm/lrn/lrn-partners-in-publishing/">Partners in Publishing</a></li>
+			<li><a href="/en/index.cfm/lrn/lrn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/lrn/lrnjob/lrn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/lrn/lrnann/lrn_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/lrn/lrn-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to LRN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to LRN</a></li>
+		</ul>
+	</li>
+	<li class="link-mrn">
+		<a class="first linkSideA" href="/en/index.cfm/mrn/">
+		<div class="sideLinkTextLeftltr">Management</div>
+		<div class="sideLinkTextRightltr">MRN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/mrn/mrn-partners-in-publishing/">Partners in Publishing</a></li>
+			<li><a href="/en/index.cfm/mrn/mrn-research-paper-series/">Research Paper Series</a></li>
+			<li class="line"><a href="/en/index.cfm/mrn/mrn-conferences-meetings/">Conference &amp; Meetings</a></li>
+			<li><a href="/en/index.cfm/mrn/mrn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/mrn/mrnjob/mrn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/mrn/mrnann/mrn_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/mrn/mrn-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to MRN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to MRN</a></li>
+		</ul>
+	</li>
+	<li class="link-mkt">
+		<a class="first linkSideA" href="/en/index.cfm/mkt/">
+		<div class="sideLinkTextLeftltr">Marketing</div>
+		<div class="sideLinkTextRightltr">MKT</div>
+		</a>
+		<ul>
+			<li class="line"><a href="/en/index.cfm/mkt/mkt-research-paper-series/">Research Paper Series</a></li>
+			<li><a href="/en/index.cfm/mkt/mkt-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/mkt/mktjob/mkt_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/mkt/mktann/mkt_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/mkt/mkt-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to MKT eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to MKT</a></li>
+		</ul>
+	</li>
+	<li class="link-neg">
+		<a class="first linkSideA" href="/en/index.cfm/neg/">
+		<div class="sideLinkTextLeftltr">Negotiation</div>
+		<div class="sideLinkTextRightltr">NEG</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/neg/neg-research-paper-series/">Research Paper Series</a></li>
+			<li class="line"><a href="/en/index.cfm/neg/neg-conferences-meetings/">Conference &amp; Meetings</a></li>
+			<li><a href="/en/index.cfm/neg/neg-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/neg/negjob/neg_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/neg/negann/neg_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/neg/neg-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to NEG eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to NEG</a></li>
+		</ul>
+	</li>
+	<li class="link-psn">
+		<a class="first linkSideA" href="/en/index.cfm/psn/">
+		<div class="sideLinkTextLeftltr">Political Science</div>
+		<div class="sideLinkTextRightltr">PSN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/psn/psn-partners-in-publishing/">Partners in Publishing</a></li>
+			<li><a href="/en/index.cfm/psn/psn-research-paper-series/">Research Paper Series</a></li>
+			<li class="line"><a href="/en/index.cfm/psn/psn-conferences-meetings/">Conference &amp; Meetings</a></li>
+			<li><a href="/en/index.cfm/psn/psn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/psn/psnjob/psn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/psn/psnann/psn_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/psn/psn-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to PSN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to PSN</a></li>
+		</ul>
+	</li>
+	<li class="link-sirn">
+		<a class="first linkSideA" href="/en/index.cfm/sirn/">
+		<div class="sideLinkTextLeftltr">Social Insurance</div>
+		<div class="sideLinkTextRightltr">SIRN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/sirn/sirn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/sirn/sirnjob/sirn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/sirn/sirnann/sirn_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/sirn/sirn-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to SIRN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to SIRN</a></li>
+		</ul>
+	</li>
+
+	<li class="link-srpn">
+		<a class="first linkSideA" href="/en/index.cfm/srpn/">
+		<div class="sideLinkTextLeftltr">Sustainability</div>
+		<div class="sideLinkTextRightltr">SRPN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/srpn/srpn-partners-in-publishing/">Partners in Publishing</a></li>
+			<li class="line"><a href="/en/index.cfm/srpn/srpn-research-paper-series/">Research Paper Series</a></li>
+			<li><a href="/en/index.cfm/srpn/srpn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/srpn/srpnjob/srpn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/srpn/srpnann/srpn_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/srpn/srpn-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to SRPN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to SRPN</a></li>
+		</ul>
+	</li>
+</ul>
+<p class="textLinks">
+	<a title="Section 508 Text Only Pages" href="/en/index.cfm/section-508/">Section 508 Text Only Pages</a>
+	<br>
+	<a title="SSRN's Database and Services (FAQ)" href="/en/index.cfm/ssrn-faq/">FAQ</a>
+	&nbsp;&nbsp;
+	<a title="Terms of Use" href="/en/index.cfm/terms-of-use/">Terms of Use</a>
+	<br>
+	<a title="Privacy Policy" href="/en/index.cfm/privacy-policy/">Privacy Policy</a>
+	&nbsp;&nbsp;
+	<a title="Copyright" href="/en/index.cfm/dmca-notice-policy/">Copyright</a>
+</p>
+
+			</div>
+		</aside>
+		<nav>
+			<ul id="navPrimary">
+				<div id="navTopMenu">
+					
+
+
+
+
+	<table valign="middle" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr>
+		<td class="tdLinks" color="CCCCCC" background="" width="100%">
+		<nobr>
+			<div style="position:relative">
+				
+				
+				
+				 
+
+				
+
+				<div class="ltrMenu">
+					<a class="textMenu" href="http://www.ssrn.com" target="_parent">Home</a>
+					<a class="textMenu" href="http://papers.ssrn.com" target="_parent">Search</a>
+					<a class="textMenu" href="http://papers.ssrn.com/sol3/DisplayJournalBrowse.cfm" target="_parent">Browse</a>
+					<a class="textMenu" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm" target="_parent">Submit</a>
+					<a class="textMenu" href="javascript:void(0);" onclick="window.open('http://www.ssrn.com/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe</a>
+					<a class="textMenu" href="http://papers.ssrn.com/sol3/ShoppingCart.cfm" target="_parent">Shopping Cart</a>
+					<a class="textMenu" href="http://hq.ssrn.com/Briefcase/myBriefcase.cfm" target="_parent">MyBriefcase</a>
+					<a class="textMenu" href="http://hq.ssrn.com/rankings/Ranking_display.cfm?TRN_gID=10" target="_parent">Top Papers</a>
+					<a class="textMenu" href="http://www.ssrn.com/en/index.cfm/top-authors/" target="_parent">Top Authors</a>
+					<a class="textMenu" href="http://www.ssrn.com/en/index.cfm/top-organizations/" target="_parent">Top Organizations</a>
+					<a class="textMenu" href="http://ssrnblog.com/" target="new">SSRN Blog</a>
+				</div>
+
+			</div>
+		</nobr>
+		</td>
+	<td color="FFFFFF" background="" width="100%">
+	</td>
+	</tr>
+	</tbody></table>
+
+
+				</div>
+			</ul>
+		</nav>
+		<div style="float:right;direction:ltr;margin-top:-30px;">
+			<select id="svLTM" class="dropdown" onchange="changeLanguage(getLanguage(this),this.value);">
+<option value="">English</option>
+
+	
+	<option value="/il/?linkServID=00000000000000000000000000000000001&amp;switch=1">Hebrew</option>
+
+</select>
+		</div>
+		<div class="maincontent">
+			<article>
+				
+				
+		
+			
+				 
+					
+								
+				
+				
+				
+				
+					
+				
+				
+				
+					
+								
+						
+
+	<table border="0" cellpadding="20" width="95%">
+	<tbody>
+		<tr>
+			<td align="left" height="500" valign="top"><br>
+				<table><!--<tr>
+					<td colspan="23" align="right">
+					<a class="breadcrumb" href="#" style="font-size: 10px;">[PRINTABLE VERSION]</a></td></tr>
+            -->
+					<tbody>
+						<tr>
+							<td>
+								<div>
+									<p class="sechead"><font face="ARIAL, HELVETICA">YOUR USE OF THIS SITE, OR YOUR PROVISION TO US OF ANY PERSONAL INFORMATION CONSTITUTES YOUR AGREEMENT TO THESE TERMS AND ANY SUBSEQUENT CHANGES TO THESE TERMS; DO NOT USE THE SITE OR PROVIDE INFORMATION IF YOU DO NOT AGREE WITH ALL OF THE TERMS.</font></p>
+									<p>&nbsp;</p>
+									<center><h6><font face="ARIAL, HELVETICA"><b>Privacy Notice</b></font></h6></center>
+									<p><font face="ARIAL, HELVETICA"><b>General Description</b><br>
+										Welcome to the Social Science Research Network ("SSRN"). SSRN is produced and owned by Social Science Electronic Publishing, Inc. together with its various affiliates or subsidiaries (collectively referred to as "SSEP" or "We"). The mission of the SSRN is to encourage readers to communicate directly with other subscribers concerning their own and other's research via the SSRN eLibrary and other services (collectively the "Services"). The following discloses the information gathering and dissemination practices for SSRN. We reserve the right to modify the information contained herein at anytime without prior notice. If we do make changes to our privacy policies, we will modify this page accordingly. Check this page periodically for amendments. This site and all information and materials on it are provided to you "as is" without warranty of any kind.</font></p>
+									<p><font face="ARIAL, HELVETICA"><b>Normal Browsing</b><br>
+										As with many websites, we collect certain information, even when you are not logged in. When you browse, read, or download information from SSRN, data is collected by SSRN, including but not limited to your IP address, URL request, browser type, and date and time of your request.<br>
+										<br>
+										We collect the IP addresses of visitors, time of access, browser type, and web pages visited. We also download information on which papers an individual user downloads. We do not collect any other information without your knowledge and permission.</font></p>
+									<p><font face="ARIAL, HELVETICA"><b>Information You Provide</b><br>
+										SSRN requests personally identifiable information when you register for a SSRN account and is subject to the <a href="http://www.ssrn.com/en/index.cfm/terms-of-use/" target="new">Terms of Use</a>. Such information may be used or requested to perform research, improve usability of the site, administer mailing lists or online communities, or other activities related to SSRN services. This information may include, but is not limited to, personal names, email addresses, location, title, and affiliation.</font></p>
+									<p><font face="ARIAL, HELVETICA"><b>Disclosure of Information</b><br>
+										Available log records, account information, and all data stored on our servers may be accessed by our system administrators. In the event that we are required by law (including a court order) to disclose the information you submit, we will provide you with notice (unless we are prohibited) that a request for your information has been made so that you may object to the disclosure. We will send this notice by email to the address you have given us. We prefer to independently object to overly broad requests for access to information about users of our site, but we cannot assure you that we will be able to do this in all cases. If you do not challenge the disclosure request yourself, we may be legally required to turn over your information.</font></p>
+									<p><font face="ARIAL, HELVETICA"><b>Cookies</b><br>
+										As set forth above under "Normal Browsing" anonymous users may receive session cookies while visiting our website while their browser is open. "Registered Users" have user accounts and are subject to the SSRN Terms of Use. Registered Users receive session cookies when they are signed into our site. To facilitate our registration and sign-in functions, we may use cookies to recognize when you return to our website. If you do not delete them, these cookies allow us to keep track of your username and password so that you do not have to resubmit the information to sign into your account. If others will be using your computer, you should sign out of your account and delete any cookies so that your sign-in information is cleared.</font></p>
+									<p><font face="ARIAL, HELVETICA"><b>Children's Privacy</b><br>
+										This website's content is intended for adults and we will not knowingly collect personal information from children under 13 years of age. If you are a parent or legal guardian of a child under age 13 who you believe has submitted personal information to this site, please contact us immediately.</font><br>
+										&nbsp;</p>
+									<p><font face="ARIAL, HELVETICA"><b>Posting</b><br>
+										Posting or updating content is a public action undertaken by Registered Users who are subject to the SSRN Terms of Use. For the avoidance of doubt, identification of all contributed content may include, but is not limited to, display of your account name. All content may be retained for restorative, archival, or research purposes by SSEP. Editing or deleting content may alter the displayed state of the content, but will not permanently delete the content from the website.</font><br>
+										&nbsp;</p>
+									<p><font face="ARIAL, HELVETICA"><b>Security</b><br>
+										This site has security measures in place to protect the loss, misuse and alteration of the information under our control. However, your confidential use of this site cannot be guaranteed by SSEP. SSEP shall not be responsible for any harm that you or any person may suffer as a result of a breach of confidentiality in respect to your use of SSRN.</font></p>
+									<p><font face="ARIAL, HELVETICA"><b>Other Websites</b><br>
+										Material on this website may link to independently run websites outside of the www.ssrn.com domain. SSEP is not responsible for the privacy practices or content of such websites. We encourage you to read the privacy policies of any websites you visit from this website.</font></p>
+								</div>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<!--<script type="text/javascript" src="http://www.ssrn.com/Include/Footer_Content.js"></script>-->
+
+
+
+					
+					
+						
+			 
+		
+	
+				
+			</article>
+		</div>
+	</div>
+	
+	<footer>
+		<div class="wrap clearfix">
+			
+			
+			
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+
+	
+	
+		
+	
+
+			
+
+
+
+
+	
+		
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+			<!-- includes piwik Trakcer -->
+ 
+
+
+	 
+
+
+<!-- Piwik --> 
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.ssrn.com/" : "http://piwik.ssrn.com/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://piwik.ssrn.com/piwik.js" type="text/javascript"></script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 7);
+	piwikTracker.trackPageView();
+	
+
+
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://piwik.ssrn.com/piwik.php?idsite=7" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Tracking Code -->
+
+<!--Includesss footer -->
+
+
+
+	
+	<p align="center" class="ssrn_ft">© 2014 Social Science Electronic Publishing, Inc. All Rights Reserved.&nbsp;
+	<a href="http://www.ssrn.com/en/index.cfm/ssrn-faq/" target="_blank" title="SSRN's Database and Services (FAQ)">FAQ</a>&nbsp;&nbsp;
+	<a href="http://www.ssrn.com/en/index.cfm/terms-of-use/" target="_blank" title="Terms of Use">Terms of Use</a>&nbsp;&nbsp;
+	<a href="http://www.ssrn.com/en/index.cfm/privacy-policy/" target="_blank" title="Privacy Policy">Privacy Policy</a>&nbsp;&nbsp;
+	<a href="http://www.ssrn.com/en/index.cfm/dmca-notice-policy/" target="_blank" title="Copyright">Copyright</a>&nbsp;&nbsp;
+	<a href="http://www.ssrn.com/en/index.cfm/contactus/" target="_blank" title="Contact">Contact Us</a>
+	<br>This page was processed by apollobot1 in <span id="serverTime">  0.219</span> seconds
+    <span id="loadingtime"></span></p>
+	<a href="/bots.not.allowed/"></a>
+
+	
+	
+
+	
+
+
+
+<script language="javascript">
+	if (window.loadingTime) {
+	addLoadEvent(loadingTime); }
+</script>
+
+		</div>
+	</footer>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+	   
+
+
+
+       
+       
+       
+               
+                       
+                       
+	<!--[if lt IE 8]><script type="text/javascript" src="/en/includes/themes/merced/compiled/ie.lte7.min.20130715045020.js"></script><![endif]--><!--[if lt IE 8]><script type="text/javascript" src="/en/includes/themes/merced/compiled/ie.lte7.roundies.min.20130715045020.js"></script><![endif]-->
+	
+                       
+                       
+	
+
+</div>
+
+</body></html>
