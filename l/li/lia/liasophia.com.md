@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liasophia.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921144030id_/http%3A//www.liasophia.com/regional/legal-stuff) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liasophia.com privacy policy that was archived on 2014-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140427120612id_/http%3A//www.liasophia.com/regional/legal-stuff) for the most accurate reproduction.*
 
 # lia sophia - Privacy Policy
 
