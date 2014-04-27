@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the goldenmartbeautysupply.com privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922150056id_/http%3A//www.goldenmartbeautysupply.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenmartbeautysupply.com privacy policy that was archived on 2014-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140427133312id_/http%3A//www.gmbshair.com/privacy.html) for the most accurate reproduction.*
 
-# Wigs | Hair Weave | Braids | Lace Front Wigs | Hair Extensions | Weaving | Human Hair | Remy Hair | Ethnic Wigs | African American Wigs | Black Hair Wigs |
+# Privacy Policy
 
-**Privacy** |  to the top   
-GMBShair.com policy is to respect and protect the privacy of our users. All personal information collected on this site is kept strictly confidential and not sold, reused, rented, disclosed, or loaned. Your personal information is used exclusively for the purpose of fulfilling your order and making your buying experience easy. Strict guidelines are enforced in order to keep your personal information safe and private.   
-**Personal Information** |  to the top   
-GMBShair.com takes your privacy very seriously. We do not sell or give away sensitive personal information (such as credit card information, driver's license information) to any company outside of  our company.  Because we respect your privacy, we have procedures to ensure that your personal information is handled in a safe, secure, and responsible manner.   
-**How Your Information is Handled** |  to the top  We have posted this privacy policy to let you know what kind of information we collect, how it is handled, what choices you have regarding our use of your information, and how you may access some of the information you provide to us. As we continue to develop our Web site and take advantage of advances in technology, our privacy policy may change. Please refer to this page frequently for the most up-to-date information.   
-Whenever you shop with us online, we obtain from you the information we need to complete your transaction only. This may include your first and last name, your address (the address the card is billed to), your billing address (city, state, and zip code), name on the credit card, your credit card number and expiration date, your telephone number, and e-mail address.   
-**Information Collected** |  to the top   
-In an effort to provide the best service to our clients, GMBShair.com periodically may or may not record phone calls for quality and training purposes. We may also send out special offers or coupons through e-mail, when registered on our mailing list. At any time you may unsubscribe to our mailing list by clicking *unsubscribe* on the promotion e-mail.   
-**Fraud& Theft** |  to the top CREDIT CARD FRAUD AND THEFT OF OUR MERCHANDISE WILL BE PROSECUTED TO THE HIGHEST EXTENT OF THE LAW.   
-**Site Testing** |  to the top  This site is tested and certified daily to pass the FBI/SANS Internet Security Test. Every creditcard purchase you make while shopping with us online is safe because we support 128 bitEncryption SSL - the Industry Standard. This secure server software is among the best software available today for secure commerce transactions.   
-We hope that we have been able to offer you some information that has given you some confidence in using our secure online shopping system. 
+GMBShair.com policy is to respect and protect the privacy of our users. All personal information collected on this site is kept strictly confidential and not sold, reused, rented, disclosed, or loaned. Your personal information is used exclusively for the purpose of fulfilling your order and making your buying experience easy. Strict guidelines are enforced in order to keep your personal information safe and private.
+
+GMBShair.com takes your privacy very seriously. We do not sell or give away sensitive personal information (such as credit card information, driver's license information) to any company outside of our company. Because we respect your privacy, we have procedures to ensure that your personal information is handled in a safe, secure, and responsible manner.
+
+We have posted this privacy policy to let you know what kind of information we collect, how it is handled, what choices you have regarding our use of your information, and how you may access some of the information you provide to us. As we continue to develop our Web site and take advantage of advances in technology, our privacy policy may change. Please refer to this page frequently for the most up-to-date information.
+
+In an effort to provide the best service to our clients, GMBShair.com periodically may or may not record phone calls for quality and training purposes. We may also send out special offers or coupons through e-mail, when registered on our mailing list. At any time you may unsubscribe to our mailing list by clicking *unsubscribe* on the promotion e-mail.
+
+CREDIT CARD FRAUD AND THEFT OF OUR MERCHANDISE WILL BE PROSECUTED TO THE HIGHEST EXTENT OF THE LAW.
+
+This site is tested and certified daily to pass the FBI/SANS Internet Security Test. Every creditcard purchase you make while shopping with us online is safe because we support 128 bitEncryption SSL - the Industry Standard. This secure server software is among the best software available today for secure commerce transactions.
