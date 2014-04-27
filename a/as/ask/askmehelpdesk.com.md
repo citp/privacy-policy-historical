@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askmehelpdesk.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223060117id_/http%3A//www.askmehelpdesk.com/faq.php%3Ffaq%3Dnew_faq_item%23faq_faq_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askmehelpdesk.com privacy policy that was archived on 2014-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140427070941id_/http%3A//www.askmehelpdesk.com/faq.php%3Ffaq%3Dnew_faq_item%23faq_faq_privacy_policy) for the most accurate reproduction.*
 
 # About Ask Me Help Desk
 
@@ -14,4 +14,4 @@ We use third-party advertising companies to serve ads when you visit our website
 By using our Website, you give AskMeHelpDesk permission to collect information about the pages served to you as an anonymous user for the purpose of calculating aggregate site statistics. If you register at AskMeHelpDesk, you authorize AskMeHelpDesk to use information you provide to personalize the information we deliver to you and to use your demographic information when calculating aggregate customer data. AskMeHelpDesk may occasionally amend this policy. We suggest that you bookmark this page and check to see if it has changed from time to time. 
 
 **Questions?:**   
-If you wish to change any information you have given us, please amend it in [My Profile](http://www.askmehelpdesk.com/usercp.php?). If you have any questions on our Privacy Policy, you can [contact us](http://www.askmehelpdesk.com/sendmessage.php). 
+If you wish to change any information you have given us, please amend it in [My Profile](http://www.askmehelpdesk.com/usercp.php). If you have any questions on our Privacy Policy, you can [contact us](http://www.askmehelpdesk.com/sendmessage.php). 
