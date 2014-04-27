@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boostmobile.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226055353id_/http%3A//www.boostmobile.com/support/services-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boostmobile.com privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428000913id_/http%3A//www.boostmobile.com/support/services-policies/privacy-policy) for the most accurate reproduction.*
 
 # Boost Mobile - Support - Privacy Policy | Boost Mobile
 
@@ -142,6 +142,8 @@ If you have any questions about Boost Mobile’s policies around children’s pr
 ### Information Choices and Changes
 
 We offer you choices regarding how we contact you for marketing-related communications and whether we use information regarding your online or mobile web activities for marketing purposes. We also offer you choices regarding the use of de-identified information to make ads you see on your mobile device more relevant and to produce or facilitate production of business and marketing reports shared with third parties. Visit [boostmobile.com/privacy](http://newsroom.boostmobile.com/privacy/) to learn about your choices and how to register your privacy preferences with us.
+
+As described above, we work with advertisers and advertising networks that serve ads on our sites and that may use cookies, web beacons and other technologies to collect information about your use of our sites and other websites. This information may be used to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on other websites and better understand your online activity. To find out more about targeted advertising and/or to "opt out" of automatic collection of information for this purpose, visit <http://www.aboutads.info/choices/>.
 
 You may also let us know that you do not want us to contact you for marketing purposes by calling Boost Customer Care at 1-866-402-7366. If you register a do-not-contact request with us, we still may contact you for non-promotional purposes, such as emails or wireless messages related to your account or our ongoing business relations. If you disable cookies on your Internet browser, you also may stop some collection and use of data when you visit our web sites. If you would like to change certain Boost account information, you may create an online account and manage your account online. For more information, visit [boostmobile.com](https://web.archive.org/). 
 
