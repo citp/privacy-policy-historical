@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the settingforfour.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226065017id_/http%3A//www.settingforfour.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the settingforfour.com privacy policy that was archived on 2014-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140427225830id_/http%3A//www.settingforfour.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Setting for Four: Privacy Policy
 
