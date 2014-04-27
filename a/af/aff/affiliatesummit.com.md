@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the affiliatesummit.com privacy policy that was archived on 2009-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090516202255id_/http%3A//www.affiliatesummit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatesummit.com privacy policy that was archived on 2014-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140427235853id_/http%3A//www.affiliatesummit.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Affiliate Summit
+# Privacy - Affiliate Summit
 
-AFFILIATE SUMMIT, INC. all its related web sites (”AFFILIATE SUMMIT”) Privacy Policy
+AFFILIATE SUMMIT, INC. all its related web sites (“AFFILIATE SUMMIT”) Privacy Policy
 
 PLEASE NOTE: OUR PRIVACY POLICY CHANGES FROM TIME TO TIME AND CHANGES ARE EFFECTIVE UPON POSTING. PLEASE CHECK BACK FREQUENTLY FOR UPDATES AS IT IS YOUR SOLE RESPONSIBILITY TO BE AWARE OF CHANGES. AFFILIATE SUMMIT DOES NOT PROVIDE NOTICES OF CHANGES IN ANY MANNER OTHER THAN BY POSTING THE CHANGES AT THIS WEB SITE.
 
@@ -44,7 +44,7 @@ The use of technology on the Internet, including cookies and web beacons, is rap
 
 1.5 Outside Information.
 
-AFFILIATE SUMMIT may receive information about individuals from third parties or from other sources of information outside of AFFILIATE SUMMIT including information located in public databases (”Outside Information”).
+AFFILIATE SUMMIT may receive information about individuals from third parties or from other sources of information outside of AFFILIATE SUMMIT including information located in public databases (“Outside Information”).
 
 1.6 Individual Information.
 
@@ -52,11 +52,11 @@ As used herein, Individual Information means Survey Information, Third Party Lis
 
 1.7 No Information Collected from Children.
 
-AFFILIATE SUMMIT will never knowingly collect any personal information about children under the age of 13. If AFFILIATE SUMMIT obtains actual knowledge that it has collected personal information about a child under the age of 13, that information will be immediately deleted from our database. Because it does not collect such information, AFFILIATE SUMMIT has no such information to use or to disclose to third parties. AFFILIATE SUMMIT has designed this policy in order to comply with the Children’s Online Privacy Protection Act (”COPPA”).
+AFFILIATE SUMMIT will never knowingly collect any personal information about children under the age of 13. If AFFILIATE SUMMIT obtains actual knowledge that it has collected personal information about a child under the age of 13, that information will be immediately deleted from our database. Because it does not collect such information, AFFILIATE SUMMIT has no such information to use or to disclose to third parties. AFFILIATE SUMMIT has designed this policy in order to comply with the Children’s Online Privacy Protection Act (“COPPA”).
 
 1.8 Credit Card Information.
 
-AFFILIATE SUMMIT may in certain cases collect credit card numbers and related information, such as the expiration date of the card (”Credit Card Information”) when an individual places an order from AFFILIATE SUMMIT. When the Credit Card Information is submitted to AFFILIATE SUMMIT, such information is encrypted and is protected with SSL encryption software. AFFILIATE SUMMIT will use the Credit Card Information for purposes of processing and completing the purchase transaction, and the Credit Card Information will be disclosed to third parties only as necessary to complete the purchase transaction.
+AFFILIATE SUMMIT may in certain cases collect credit card numbers and related information, such as the expiration date of the card (“Credit Card Information”) when an individual places an order from AFFILIATE SUMMIT. When the Credit Card Information is submitted to AFFILIATE SUMMIT, such information is encrypted and is protected with SSL encryption software. AFFILIATE SUMMIT will use the Credit Card Information for purposes of processing and completing the purchase transaction, and the Credit Card Information will be disclosed to third parties only as necessary to complete the purchase transaction.
 
 2\. Use of Individual Information.
 
