@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iorbix.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227084821id_/http%3A//iorbix.com/network-privacy.php%3Ftab%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iorbix.com privacy policy that was archived on 2014-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140427224158id_/http%3A//iorbix.com/network-privacy.php%3Ftab%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy and Terms | iOrbix
 
@@ -44,7 +44,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 Your account settings and email notifications
 
 When you register on iOrbix, you are automatically subscribed to the email notifications of its basic features.  
-However, you may disable some or all notifications via your [Account Settings](https://web.archive.org/web/20131227084821id_/http%3A//iorbix.com/settings-account.php).  
+However, you may disable some or all notifications via your [Account Settings](https://web.archive.org/web/20140427224158id_/http%3A//iorbix.com/settings-account.php).  
 On that page, you can edit your account preferences. You may also delete your account if you no longer wish to share your personal information on iOrbix. 
 
 iOrbix sub-sites sites
@@ -67,7 +67,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20131227084821id_/http%3A//iorbix.com/network-privacy.php?tab=terms) section establishing the use, disclaimers, and limitations of liability governing the use of our website. 
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20140427224158id_/http%3A//iorbix.com/network-privacy.php?tab=terms) section establishing the use, disclaimers, and limitations of liability governing the use of our website. 
 
 Your Consent
 
