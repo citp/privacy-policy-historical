@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techglobex.net privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117203938id_/http%3A//www.techglobex.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techglobex.net privacy policy that was archived on 2014-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140427072437id_/http%3A//www.techglobex.net/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | TechGlobeX
 
