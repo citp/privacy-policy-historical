@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tbrfootball.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109155721id_/http%3A//tbrfootball.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tbrfootball.com privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428005757id_/http%3A//tbrfootball.com/%3Fpage_id%3D5835) for the most accurate reproduction.*
 
 # Privacy Policy | The Boot Room
 
