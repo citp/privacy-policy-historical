@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marksandspencer.ie privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908055219id_/http%3A//www.marksandspencer.ie/Privacy-Policy/privacy-policy%2Cen_IE%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marksandspencer.ie privacy policy that was archived on 2014-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140427160231id_/http%3A//www.marksandspencer.ie/Privacy-Policy/privacy-policy%2Cen_IE%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
