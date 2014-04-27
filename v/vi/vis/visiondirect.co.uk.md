@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visiondirect.co.uk privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227231059id_/http%3A//www.visiondirect.co.uk/pageNoParse.php%3FxPage%3Dprivacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visiondirect.co.uk privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428003505id_/http%3A//www.visiondirect.co.uk/pageNoParse.php%3FxPage%3Dprivacy_policy.html) for the most accurate reproduction.*
 
-# Contact Lenses - Buy Cheap Contact Lenses - Up to 70% Discount! > Privacy Policy
+# Buy Cheap Contact Lenses Online | Vision Direct > Privacy Policy
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
