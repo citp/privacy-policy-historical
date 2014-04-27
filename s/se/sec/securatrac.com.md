@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securatrac.com privacy policy that was archived on 2013-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130713161320id_/http%3A//www.securatrac.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securatrac.com privacy policy that was archived on 2014-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140427041223id_/http%3A//www.securatrac.com/privacy) for the most accurate reproduction.*
 
 # SecuraTrac - Privacy Policy - GPS Child Tracking, GPS Pet Tracking
 
@@ -76,6 +76,6 @@ It may be necessary to share some customer information to our trusted partners i
 
 From time to time, SecuraTrac may introduce new products and services to its users and members. To the extent these new products and services affect this policy, this policy will be updated. You will be informed of these updates and any privacy conditions related to these services.
 
-Should you have any need or interest in knowing what types of personal information we store, please contact us in any manner convenient for you. You can see the alternatives available on our [contact us](https://web.archive.org/web/20130713161320id_/http%3A//support/contact.php) page.
+Should you have any need or interest in knowing what types of personal information we store, please contact us in any manner convenient for you. You can see the alternatives available on our [contact us](https://web.archive.org/web/20140427041223id_/http%3A//support/contact.php) page.
 
 Effective: March 8, 2009
