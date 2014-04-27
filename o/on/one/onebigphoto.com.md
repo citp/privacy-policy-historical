@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onebigphoto.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230161811id_/http%3A//pixeldizajn.com/onebigphoto/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onebigphoto.com privacy policy that was archived on 2014-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140427165824id_/http%3A//pixeldizajn.com/onebigphoto/privacy-policy) for the most accurate reproduction.*
 
 # » privacy policy | OneBigPhoto
 
