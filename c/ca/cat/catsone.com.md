@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catsone.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023100422id_/http%3A//www.catsone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catsone.com privacy policy that was archived on 2014-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140427195655id_/http%3A//www.catsone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CATS Applicant Tracking System
 
