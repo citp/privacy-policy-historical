@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the datingdirect.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013133215id_/http%3A//www.datingdirect.com/misc/privacy_v.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingdirect.com privacy policy that was archived on 2014-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140427225103id_/http%3A//www.datingdirect.com/misc/privacy_v.php) for the most accurate reproduction.*
 
-# Single? Meet and chat with other singles looking for love - Free registration
+# Single? Meet Other Singles Looking For Love - Free Signup
 
 Meetic uphold the strictest of European and French standards with respect to protection of privacy and of personal information, and have made a notification to the French data protection authority (Commission Nationale Informatique et Libertés - CNIL) under the no 796865, 802516 and 1107043. Our technical teams do their utmost to ensure the safety of our sites. Internet security is a complex issue and no system can be considered 100% secure. Should a security breach occur meetic.com will endeavour to act as fast as possible to remedy the problem.
 
