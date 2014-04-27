@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnb.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217205147id_/http%3A//www.dnb.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnb.com privacy policy that was archived on 2014-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140427203005id_/http%3A//www.dnb.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | D&B
 
@@ -142,13 +142,7 @@ Short Hills, NJ 07078
 
 Please allow at least 10 business days for us to respond to your complaint.
 
-If you are unable to resolve your complaint by contacting us directly, you may submit your complaint to TRUSTe. You may reach TRUSTe via the Internet by completing the [TRUSTe Watchdog Dispute Resolution Form](http://watchdog.truste.com/pvr.php?page=complaint&url=), by faxing TRUSTe Watchdog Dispute Resolution at 415-520-3420 or by postal mail at:
-
-TRUSTe Watchdog Dispute Resolution  
-55 2nd Street, 2nd Floor  
-San Francisco, CA U.S.A. 94105
-
-If you are submitting a complaint to TRUSTe regarding our collection or management of EU or Swiss personal data, you must include the following information in your submission: our company name; the nature of the alleged Data Privacy violation, including details about how your data was collected and what causes you to believe that a violation occurred; the resolution you are requesting; your contact information; and whether you give permission to TRUSTe to share the details of your complaint, including your name, with us. For additional information about TRUSTe and/or TRUSTe's dispute resolution process, please visit [TRUSTe Watchdog Dispute Resolution](http://watchdog.truste.com/pvr.php?page=complaint&url=) or request this information from TRUSTe by using any of the contact options listed above.
+As part of our [participation](http://export.gov/safeharbor/) in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet [here](https://feedback-form.truste.com/watchdog/request), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about-TRUSTe/contact-us). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, [click here](http://www.truste.com/products-and-services/dispute-resolution-services/) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities.
 
 ### Contact D&B
 
@@ -164,4 +158,6 @@ Short Hills, NJ 07078
 
 This online privacy notice is applicable to the following U.S. D&B websites: [www.dnb.com](https://web.archive.org/), [www.dnbi.com](https://sso.dnbi.com/cas/login), [www.dnbisolutions.com](http://www.dnbisolutions.com/), [www.zapdata.com](http://www.zapdata.com/), [www.dnboptimizer.com](http://www.dnboptimizer.com/) and [www.dnbgov.com](http://www.dnbgov.com/). Other U.S. and non-U.S. D&B websites have different online privacy notices and information management practices.
 
-Effective Date, November 19, 2013
+EU Data Subjects should contact the D&B EU Data Protection Officer at EUDPO@dnb.com for further information about D&B's EU Privacy Policy.
+
+Effective Date, January 13, 2014
