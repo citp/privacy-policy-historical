@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the schoollibraryjournal.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818143502id_/https%3A//shop.mediasourceinc.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoollibraryjournal.com privacy policy that was archived on 2014-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140427174646id_/https%3A//shop.mediasourceinc.com/policy.aspx) for the most accurate reproduction.*
 
 # Policy
 
-Effective Date: August 20, 2012
+Effective Date: March 17, 2014
 
 **Overview**  
 Our website visitors' privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site shop.mediasourceinc.com.
@@ -14,7 +14,7 @@ This Privacy Policy describes the policies of Media Source, Inc ("Media Source" 
 
 This privacy policy does not apply to information we collect by other means (including offline) or from other sources. Your use of this Site constitutes your acceptance of this Privacy Policy and your consent to any action we take with respect to your information in compliance with this Privacy Policy. 
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices..
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices..
 
 Media Source, Inc has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@mediasourceinc.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe certification only covers the site shop.mediasourceinc.com and does not cover information that may be collected through our Mobile applications or other sites that we may own and control.
 
