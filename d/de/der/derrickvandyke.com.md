@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the derrickvandyke.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209130816id_/http%3A//derrickvandyke.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the derrickvandyke.com privacy policy that was archived on 2014-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140427223123id_/http%3A//derrickvandyke.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DerrickVanDyke.com
 
