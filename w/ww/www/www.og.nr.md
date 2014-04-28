@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www.og.nr privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229090300id_/http%3A//www.og.nr/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.og.nr privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428225754id_/http%3A//www.og.nr/privacy.html) for the most accurate reproduction.*
 
 # OG.NR - OG.NR Privacy Policy
 
