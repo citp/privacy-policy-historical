@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inmotionnow.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228000310id_/http%3A//www.inmotionnow.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmotionnow.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429000712id_/https%3A//www.inmotionnow.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | inMotionNow
+# Privacy Policy | inMotionNowinMotionNow
 
 Please read this privacy policy before using the site or submitting any personal information. 
 
