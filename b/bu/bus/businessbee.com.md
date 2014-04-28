@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessbee.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228103922id_/http%3A//www.businessbee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessbee.com privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428232205id_/http%3A//www.businessbee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BusinessBee.com
 
