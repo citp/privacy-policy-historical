@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgix.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808140407id_/http%3A//www.imgix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgix.com privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428174627id_/http%3A//www.imgix.com/privacy) for the most accurate reproduction.*
 
 # imgix - Privacy Policy
 
