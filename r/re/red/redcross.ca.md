@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the redcross.ca privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224005312id_/http%3A//www.redcross.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcross.ca privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428031140id_/http%3A//www.redcross.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Red Cross Canada
 
 [Canadian Red Cross](https://web.archive.org/)
 
 You can help when help is most needed. Give to the Red Cross.
-
-One Time Monthly
 
 ##  Policy on the Collection, Use and Disclosure Of Personal Information
 
