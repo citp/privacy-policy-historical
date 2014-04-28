@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beesq.net privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819170827id_/http%3A//www.beesq.net/privacy.php%3Fdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beesq.net privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428223256id_/http%3A//beesq.net/privacy.php%3Fdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # BeesQ
 
