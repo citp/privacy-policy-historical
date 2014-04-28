@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fuller.edu privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228123822id_/http%3A//www.fuller.edu/Footer_Pages/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuller.edu privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428170737id_/http%3A//fuller.edu/Footer_Pages/Privacy_Policy) for the most accurate reproduction.*
 
-# Fuller :: Privacy Policy
+# Privacy Policy :: :: Fuller
 
 Fuller Theological Seminary appreciates your interest and use of our web sites. Since we share your concerns for privacy, this policy was created to inform you about what information we collect about you, how we collect it, use it, disclose it, and your rights regarding information you submit. Your privacy rights are important to us and we will be diligent to safeguard all information that you share with us. This policy discloses the privacy practices of Fuller Theological Seminary regarding its information collection forms at the [www.fuller.edu](http://www.fuller.edu/) and [www.guestcenter.com](http://www.guestcenter.com/) web sites.
 
