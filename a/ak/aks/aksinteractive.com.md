@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aksinteractive.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222200422id_/http%3A//www.aksinteractive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aksinteractive.com privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428175040id_/http%3A//www.aksinteractive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of AKS Interactive Solutions Pvt. Ltd
 
-[Home](https://web.archive.org/web/20131222200422id_/http%3A//www.aksinteractive.com/index) » Privacy policy
+[Home](https://web.archive.org/web/20140428175040id_/http%3A//www.aksinteractive.com/index) » Privacy policy
 
 ## Privacy policy
 
