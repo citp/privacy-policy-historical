@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the congamerge.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220231442id_/http%3A//www.congamerge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the congamerge.com privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428095219id_/http%3A//www.congamerge.com/privacy) for the most accurate reproduction.*
 
 # Conga Privacy Policy Statement - AppExtremes, Inc. dba Conga
 
