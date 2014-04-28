@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onhercam.tv privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129010357id_/http%3A//www.onhercam.com/privacy%3Fnats%3DMC4wLjguOS4wLjAuMC4wLjA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onhercam.tv privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428130033id_/http%3A//www.onhercam.com/privacy%3Fnats%3DMC4wLjguOS4wLjAuMC4wLjA) for the most accurate reproduction.*
 
 # OnHerCam Privacy Policy - Internet Privacy and Safe Surfing
 
