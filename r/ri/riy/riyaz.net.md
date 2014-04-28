@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riyaz.net privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927020914id_/http%3A//www.riyaz.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riyaz.net privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428132723id_/http%3A//www.riyaz.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
