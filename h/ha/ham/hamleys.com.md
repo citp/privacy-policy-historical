@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hamleys.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221092313id_/http%3A//www.hamleys.com/Privacy_Policy_%257C_Hamleys_Toys/M116_EDITORIAL_CONTENT_PRIVACY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamleys.com privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428100309id_/http%3A//www.hamleys.com/Privacy_Policy_%257C_Hamleys_Toys/M116_EDITORIAL_CONTENT_PRIVACY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
