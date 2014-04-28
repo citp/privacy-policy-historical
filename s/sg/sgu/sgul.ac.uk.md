@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sgul.ac.uk privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119084646id_/http%3A//www.sgul.ac.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgul.ac.uk privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428103147id_/http%3A//www.sgul.ac.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Cookies — St George's, University of London
+# Privacy and cookies — St George's, University of London
 
 St George's, University of London is required by law to comply with the Data Protection Act, 1998. The University aims to comply with the principles set out in the Data Protection Act in the processing of all personal data. To this end personal information is collected and used fairly, stored safely and not disclosed to any other person unlawfully.
 
