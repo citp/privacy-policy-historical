@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ongfirst.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026041516id_/http%3A//www.ongfirst.com/en/others/privacy-a-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ongfirst.com privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428202946id_/http%3A//www.ongfirst.com/en/others/privacy-a-security-policy) for the most accurate reproduction.*
 
 # Privacy and Security Policy
 
