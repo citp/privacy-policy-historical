@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fmpub.net privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219061655id_/http%3A//www.federatedmedia.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fmpub.net privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429001012id_/http%3A//www.federatedmedia.net/privacy-policy) for the most accurate reproduction.*
 
 # FM Publishing Privacy Policy
 
