@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the flvmplayer.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824184042id_/http%3A//flvmplayer.com/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flvmplayer.com privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428224430id_/http%3A//flvmplayer.com/terms.html) for the most accurate reproduction.*
 
 # FLV MPlayer | Terms & Conditions
 
 ## 1\. Product description
 
-FLV MPlayer is a media player which supports FLV, F4V, MP4 and MOV video formats. It plays videos in HD and Full Screen. You can create your own personal playlists. It is an easy-to-use and intuitive application.
+This product is a media player which supports FLV, F4V, MP4 and MOV video formats. It plays videos in HD and Full Screen. You can create your own personal playlists. It is an easy-to-use and intuitive application.
 
 ## 2\. Responsibilities
 
