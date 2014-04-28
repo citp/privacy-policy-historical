@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxfordbusinessgroup.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608182554id_/http%3A//www.oxfordbusinessgroup.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordbusinessgroup.com privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428214933id_/http%3A//www.oxfordbusinessgroup.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Oxford Business Group
 
