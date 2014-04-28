@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extension765.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217111636id_/http%3A//extension765.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extension765.com privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428032842id_/http%3A//extension765.com/legal) for the most accurate reproduction.*
 
 # A one-of-a-kind marketplace from Steven Soderbergh. - Extension 765
 
@@ -121,7 +121,7 @@ We are in your life now, and we are never going to let you forget it. If you don
 **Fraud Alerts: Protecting Your Personal Information**  
 
 
-You may come in contact with websites, e-mails or texts that try to lure/seduce/cajole/browbeat you into providing personal information with the offer of a Extension 765 gift card. There is no such thing! Extension 765 does not sponsor these offers nor are we affiliated with the promotion originators. We're hermits! If you become aware of any potentially fraudulent activity on a website or in an e-mail or text, please forward the information to service@Extension765.com or call us at 1-855-765-0765 so that we can follow up. We take these matters, and the protection of our customers' sensitive information, so seriously you wouldn't fucking believe it.
+You may come in contact with websites, e-mails or texts that try to lure/seduce/cajole/browbeat you into providing personal information with the offer of a Extension 765 gift card. There is no such thing! Extension 765 does not sponsor these offers nor are we affiliated with the promotion originators. We're hermits! If you become aware of any potentially fraudulent activity on a website or in an e-mail or text, please forward the information to service@Extension765.com so that we can follow up. We take these matters, and the protection of our customers' sensitive information, so seriously you wouldn't fucking believe it.
 
 **Business Transitions**  
 
@@ -141,14 +141,13 @@ If you are located outside the United States, any information you provide to us 
 **Additional Information**  
 
 
-If you're not "comfortable" shopping online (and would prefer to make your purchase via telephone), just give us a call at 1-888-282-6060. Our Customer Service Representatives will be happy to assist you. But we do not encourage this. Really. We don't have the time. Because of that, Extension 765 Direct may link to unaffiliated third party websites. Like we said before, this Privacy Policy does not apply to unaffiliated third party websites.
+If you're not "comfortable" shopping online (and would prefer to make your purchase via telephone), sorry we can't help in that department. Our Customer Service Representatives will be happy to assist you. But we do not encourage this. Really. We don't have the time. Because of that, Extension 765 Direct may link to unaffiliated third party websites. Like we said before, this Privacy Policy does not apply to unaffiliated third party websites.
 
 If you have questions regarding our Privacy Policy please contact us at:
 
 Extension 765   
 101 West 23rd St., #221  
 New York, NY 10011  
-1-855-765-0765  
 service@Extension765.com
 
 The examples contained in this Privacy Policy are illustrations only, and are not intended to be exhaustive. But they sure fucking felt like it.
