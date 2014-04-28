@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mopo.ca privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828142430id_/http%3A//www.mopo.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mopo.ca privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428103600id_/http%3A//www.mopo.ca/privacy) for the most accurate reproduction.*
 
 # Privacy - MoPo | Geek News
 
