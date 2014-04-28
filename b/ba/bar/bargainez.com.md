@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bargainez.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818224537id_/http%3A//bargainez.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargainez.com privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428112055id_/http%3A//bargainez.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy policy - BargainEZ
 
