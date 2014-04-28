@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bensoutlet.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118211107id_/http%3A//www.bensoutlet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bensoutlet.com privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428065056id_/http%3A//www.bensoutlet.com/privacy) for the most accurate reproduction.*
 
 # Ben's Outlet
 
