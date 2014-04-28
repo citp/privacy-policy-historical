@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the lexus.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227185418id_/http%3A//www.lexus.com/lexus-main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexus.com privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428124904id_/http%3A//www.lexus.com/lexus-main/privacy) for the most accurate reproduction.*
 
 # Your Privacy Rights
 
 This statement applies to the websites operated by Lexus, a division of Toyota Motor Sales, U.S.A., Inc. (Lexus) online.
 
-[](https://web.archive.org/web/20131227185418id_/http://www.lexus.com/privacy/online_statement.html?s_ocid=complete_privacy_statement)
+[](https://web.archive.org/web/20140428004041id_/http://www.lexus.com/privacy/online_statement.html?s_ocid=complete_privacy_statement)
 
-[](https://web.archive.org/web/20131227185418id_/http://www.lexus.com/privacy/online_statement.html?s_ocid=personal_info_sharing_practices#personal_Info_Practices)
+[](https://web.archive.org/web/20140428004041id_/http://www.lexus.com/privacy/online_statement.html?s_ocid=personal_info_sharing_practices#personal_Info_Practices)
 
-During 2012, Lexus shared Personal Information about our customers with SiriusXM™ Satellite Radio, Lexus hotel partners, Lexus Financial Services, Lexus Financial Savings Bank and our authorized Lexus dealers, where the information was used for the recipient’s own marketing.
+During 2013, Lexus shared Personal Information about our customers with SiriusXM™ Satellite Radio, Lexus hotel partners, Lexus Financial Services, Lexus Financial Savings Bank and our authorized Lexus dealers, where the information was used for the recipient’s own marketing.
 
 ## Information Collected
 
-[](https://web.archive.org/web/20131227185418id_/http://www.lexus.com/privacy/online_statement.html?s_ocid=uses_sharing#jInformation_We_Collect_on_Our_Platforms)
+[](https://web.archive.org/web/20140428004041id_/http://www.lexus.com/privacy/online_statement.html?s_ocid=uses_sharing#jInformation_We_Collect_on_Our_Platforms)
 
   * We collect personal information you choose to provide which may include your name, mailing address, e-mail address, and phone number together with certain demographic information from you in connection with surveys or from commercially available services.
   * We collect and store "usage information" about how you use our Sites, such as the name of your Internet service provider, the browser and type of machine you are using, the IP address and the website that referred you to us and the pages you visit to help manage the Sites.
@@ -22,7 +22,7 @@ During 2012, Lexus shared Personal Information about our customers with SiriusXM
 
 ## Uses and Sharing
 
-[](https://web.archive.org/web/20131227185418id_/http://www.lexus.com/privacy/online_statement.html?s_ocid=uses_sharing#jHow_We_Use_the_Information_We_Collect)
+[](https://web.archive.org/web/20140428004041id_/http://www.lexus.com/privacy/online_statement.html?s_ocid=uses_sharing#jHow_We_Use_the_Information_We_Collect)
 
   * We use personal information to provide you with services or information you request, such as new–vehicle information alerts, promotions and mailed brochures.
   * We also use personal information when you request to participate in promotional activities such as sweepstakes, contests, games, special events, blogs and chats.
@@ -36,7 +36,7 @@ During 2012, Lexus shared Personal Information about our customers with SiriusXM
 
 ## Your Privacy Rights, Choice and Access
 
-[](https://web.archive.org/web/20131227185418id_/http://www.lexus.com/privacy/online_statement.html?s_ocid=uses_sharing#jYour_Privacy_Rights,_Choice_and_Access)
+[](https://web.archive.org/web/20140428004041id_/http://www.lexus.com/privacy/online_statement.html?s_ocid=uses_sharing#jYour_Privacy_Rights,_Choice_and_Access)
 
   * You have the right to have a copy of the personal information you provide.
   * You have the right to correct or update your personal information.
@@ -46,7 +46,7 @@ During 2012, Lexus shared Personal Information about our customers with SiriusXM
 
 ## Important Information
 
-  * **[Children](https://web.archive.org/web/20131227185418id_/http://www.lexus.com/privacy/online_statement.html?s_ocid=children#jChildren)**. Lexus does not seek information from children under the age of 13.
-  * **[Acceptance](https://web.archive.org/web/20131227185418id_/http://www.lexus.com/privacy/online_statement.html?s_ocid=uses_sharing#jYour_Acceptance_of_Our_Privacy_Statement)**. By using the Sites, you signify your acceptance of this Privacy Policy.
+  * **[Children](https://web.archive.org/web/20140428004041id_/http://www.lexus.com/privacy/online_statement.html?s_ocid=children#jChildren)**. Lexus does not seek information from children under the age of 13.
+  * **[Acceptance](https://web.archive.org/web/20140428004041id_/http://www.lexus.com/privacy/online_statement.html?s_ocid=uses_sharing#jYour_Acceptance_of_Our_Privacy_Statement)**. By using the Sites, you signify your acceptance of this Privacy Policy.
 
 
