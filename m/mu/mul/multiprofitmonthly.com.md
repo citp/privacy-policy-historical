@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multiprofitmonthly.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805102912id_/http%3A//www.multiprofitmonthly.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multiprofitmonthly.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429081046id_/http%3A//www.multiprofitmonthly.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Multi Profit Monthly
 
