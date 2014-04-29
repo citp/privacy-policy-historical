@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalpropertyguide.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104004050id_/http%3A//www.globalpropertyguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalpropertyguide.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429033023id_/http%3A//www.globalpropertyguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Global Property Guide
 
@@ -20,4 +20,6 @@ The website logs are analyzed to constantly improve the value of the information
 
 The Global Property Guide uses cookies. These cookies hold no personal information whatsoever and are destroyed upon leaving the website. You are free to turn cookies off in your browser, but please be aware that in doing so, you will not be able to access sites with member sections.
 
-We endeavour to take all reasonable steps to protect your personal data, but cannot guarantee the security of any personal data you disclose online. You accept the inherent security implications of dealing online over the internet and will not hold us responsible for any breach of security unless we have been wilfully negligent.  You may view, or change the personal data we hold on you at any time. Please contact us using the details provided on this site. We may monitor or record telephone calls in order to improve customer service.
+We endeavour to take all reasonable steps to protect your personal data, but cannot guarantee the security of any personal data you disclose online. You accept the inherent security implications of dealing online over the internet and will not hold us responsible for any breach of security unless we have been wilfully negligent. You may view, or change the personal data we hold on you at any time. Please contact us using the details provided on this site. We may monitor or record telephone calls in order to improve customer service.
+
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>.
