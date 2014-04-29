@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidcentral.us privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228075211id_/http%3A//androidcentral.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidcentral.us privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429055438id_/http%3A//androidcentral.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Android Central
 
