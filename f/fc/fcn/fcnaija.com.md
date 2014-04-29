@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the fcnaija.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229131334id_/http%3A//www.fcnaija.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcnaija.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429153240id_/http%3A//www.fcnaija.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - - FCNaija
+# Privacy Policy | Other Pages
 
-## Our Privacy Policy
+  * 23 Apr 2014 11:01 
+  * Written by FC Naija 
+  * Category: Other Pages 
 
-##  70TH PRECINCT LIMITED
 
-**Privacy Policy for use of www.fcnaija.com Site**
 
 At 70TH Precinct Limited we have put in place measures to ensure that our reader privacy is protected. This Privacy Policy explains how we use the information we collect about you and procedures we have put in place to safeguard your privacy.  
-In this Privacy Policy references to we, us and our, are to 70TH PRECINCT LIMITED. References to the Site are to www.FCNAIJA.com and any of the ‘FCNAIJA’ branded sites or mobile applications.
+In this Privacy Policy references to we, us and our, are to 70TH PRECINCT LIMITED. References to the Site are to www.FCNAIJA.com and any of the 'FCNAIJA' branded sites or mobile applications.
 
 Certain expressions used in this Privacy Policy (such as User Content) have definitions which are set out in the Terms and Conditions for use of this Site.
 
@@ -45,7 +45,7 @@ Any personal information we collect from the Site we use for some or all of the 
 
 **5\. Updating/Modification**
 
-5.1 If any of the details you have provided the Site changes, please give us correct details by email to: info@fcnaija.com  
+5.1 If any of the details you have provided the Site changes, please give us correct details by email to: [info@fcnaija.com](mailto:info@fcnaija.com)  
 5.2 We reserve the right to change this Privacy Policy without notice. The new Privacy Policy will be posted upon the Site and your continued use of the Site will be considered acceptance of it. You are advised to check this Privacy Policy regularly.
 
 **6\. Visitor’s Consent**
@@ -56,14 +56,14 @@ Any personal information we collect from the Site we use for some or all of the 
 **7\. Requests for Data**
 
 7.1 We are the Data Controller in respect of personal data submitted to you in respect of the Site for the purposes of the Data Protection Act 1998, England.  
-7.2 If you wish to update the personal information or make a subject access request please email the info@fcnaija.com  
+7.2 If you wish to update the personal information or make a subject access request please email the [info@fcnaija.com](mailto:info@fcnaija.com)  
 7.3 This Privacy Policy is subject to the Terms and Conditions for use of this Site which are situated elsewhere on the Site.
 
 **Copyright Infringement**
 
 **70TH PRECINCTLIMITED**
 
-www.fcnaija.com Site, and any of the ‘FCNAIJA’ branded sites, mobile application or microsites etc.
+www.fcnaija.com Site, and any of the 'FCNAIJA' branded sites, mobile application or microsites etc.
 
 **Copyright Infringement Notification**
 
@@ -81,7 +81,7 @@ iv. A statement that the complainant owns the copyright material or is duly auth
 
 5\. A statement that the information in the notification is accurate to the best of the providers knowledge and belief and that the complainant is authorised to act on behalf of the owner of the claimed copyright material.
 
-Your written notice should be sent by email to: info@fcnaija.com  
+Your written notice should be sent by email to: [info@fcnaija.com](mailto:info@fcnaija.com)  
 Or in writing to:
 
 70TH Precinct Limited  
@@ -90,3 +90,6 @@ Ikeja
 Lagos, Nigeria
 
 We will take reasonable steps to remove copyright material from the Site where complete and accurate information is submitted in respect of the alleged copyright infringement. You are not entitled to submit a copyright infringement notification where you do not own or are not authorised to act on behalf of the owner of the copyright material. Such an action may render you liable to legal action by the true owner of the copyright material.
+
+
+
