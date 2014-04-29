@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topsylabs.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227205317id_/http%3A//about.topsy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topsylabs.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429113324id_/http%3A//about.topsy.com/privacy) for the most accurate reproduction.*
 
 # Topsy | Privacy Policy
 
