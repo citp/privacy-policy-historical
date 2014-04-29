@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transperfect.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821023517id_/http%3A//www.transperfect.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transperfect.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429112520id_/http%3A//www.transperfect.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | TransPerfect
 
