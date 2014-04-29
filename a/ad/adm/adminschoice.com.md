@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adminschoice.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215083926id_/http%3A//adminschoice.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adminschoice.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429155128id_/http%3A//adminschoice.com/privacy-statement) for the most accurate reproduction.*
 
-# Admin's Choice | Privacy Statement
+# Privacy Statement
 
 The following discloses the information gathering and dissemination practices for this Web site: AdminsChoice.com
 
@@ -20,3 +20,5 @@ We do not use cookies on this site. However there may be cookies associated with
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
 admin@adminschoice.com
+
+[](http://www.hupso.com/share/)
