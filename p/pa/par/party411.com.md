@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the party411.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226041752id_/http%3A//www.party411.com/PrivacyPolicy/tabid/5089/List/0/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the party411.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429164446id_/http%3A//www.party411.com/PrivacyPolicy/tabid/5089/List/0/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
