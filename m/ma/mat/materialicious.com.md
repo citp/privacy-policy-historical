@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the materialicious.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529214612id_/http%3A//www.materialicious.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the materialicious.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429112352id_/http%3A//materialicious.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | materialicious
-
-## Privacy Policy
+# Privacy Policy
 
 This document was last updated on 07-21-09.
 
 ### 1\. ACKNOWLEDGEMENT AND ACCEPTANCE OF TERMS
 
-Materialicious is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing Materialicious / http://materialicious.com], you acknowledge and fully understand Materialicious’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+Materialicious is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing Materialicious / http://materialicious.com, you acknowledge and fully understand Materialicious’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
-### 3\. INFORMATION WE COLLECT AND HOW WE USE IT
+### 2\. INFORMATION WE COLLECT AND HOW WE USE IT
 
 Materialicious collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
 
@@ -52,15 +50,15 @@ We will not disclose personally identifiable information we collect from you to 
 
 
 
-### 4\. ACCESSING WEB ACCOUNT INFORMATION
+### 3\. ACCESSING WEB ACCOUNT INFORMATION
 
 We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant -- http://materialicious.com/feedback.
 
-### 5\. CHANGES TO THIS STATEMENT
+### 4\. CHANGES TO THIS STATEMENT
 
 Materialicious has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
-### 6\. CONTACTING US
+### 5\. CONTACTING US
 
 If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at http://materialicious.com/feedback.
 
