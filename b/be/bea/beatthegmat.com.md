@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the beatthegmat.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808073001id_/http%3A//www.beatthegmat.com/mba/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beatthegmat.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429071721id_/http%3A//www.beatthegmat.com/mba/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 “GMAT” and other [GMAC](http://www.gmac.com/gmac/ "GMAC")™ trademarks are registered trademarks of the Graduate Management Admission Council™. The Graduate Management Admission Council™ does not endorse, nor is it affiliated in any way with the owner or any content on this website. The opinions expressed here are solely those of the author or those of the members of this website.
 
-BTG Test Prep, LLC (d/b/a Beat The GMAT) (“Beat The GMAT”) is committed to protecting your privacy.  Please read this Privacy Policy, as well as our [Terms of Use Agreement](https://web.archive.org/mba/terms-of-service) for more details about how we use information you submit to the Website.  This Privacy Policy, together with the [Terms of Use Agreement](https://web.archive.org/mba/terms-of-service), constitute the entire agreement between you and Beat The GMAT.  By your use of the Website you consent to be governed by this Privacy Policy.
+Hobsons, Inc. (d/b/a Beat The GMAT) (“Beat The GMAT”) is committed to protecting your privacy.  Please read this Privacy Policy, as well as our [Terms of Use Agreement](https://web.archive.org/mba/terms-of-service) for more details about how we use information you submit to the Website.  This Privacy Policy, together with the [Terms of Use Agreement](https://web.archive.org/mba/terms-of-service), constitute the entire agreement between you and Beat The GMAT.  By your use of the Website you consent to be governed by this Privacy Policy.
 
 **1.     PERSONALLY IDENTIFIABLE INFORMATION**
 
@@ -38,4 +38,4 @@ Beat The GMAT reserves the right to access and disclose Personal Information to 
 
 Beat The GMAT reserves the right to modify this Privacy Policy at any time.  Please review this Policy from time to time to ensure your familiarity with its terms.  If you have any questions about this Privacy Policy, please contact legal@beatthegmat.com.
 
-**© BTG Test Prep, LLC All Rights Reserved.**
+**© Hobsons, Inc. All Rights Reserved.**
