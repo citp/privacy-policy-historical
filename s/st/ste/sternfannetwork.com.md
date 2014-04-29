@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sternfannetwork.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129144105id_/http%3A//www.sternfannetwork.com/xen/index.php%3Fhelp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sternfannetwork.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429033059id_/http%3A//www.sternfannetwork.com/xen/index.php%3Fhelp/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SternFanNetwork
 
-[](http://www.tss-radio.com/blog/discontinued-siriusxm-radios/)
+[](http://www.tss-radio.com/satellite-radio-accessories/sirius-xm-motorcycle-parts/sirius-xm-motorcycle-kits/siriusxm-professional-motorcycle-install-kit-with-onyx-radio.html)
 
 COMMITMENT TO YOUR PRIVACY
 
@@ -169,7 +169,5 @@ Our site makes use of cookies. Cookies are used for the following purposes:
   2. Research and development
 
 
-
-[](http://www.tss-radio.com/satellite-radio-accessories/sirius-xm-motorcycle-parts/sirius-xm-motorcycle-kits/siriusxm-professional-motorcycle-install-kit-with-onyx-radio.html)
 
 [ ](http://www.sternfannetwork.com/xen/index.php?threads/where-are-the-new-logo-submissions.647580/)
