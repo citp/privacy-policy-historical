@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tribalshapes.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208112214id_/http%3A//www.tribalshapes.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tribalshapes.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429220120id_/http%3A//www.tribalshapes.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
+
+[](http://tattoomenow.com/adserver/www/delivery/ck.php?n=a3cb55fb&cb=2603806)
 
 Please read carefully this privacy policy before using the website or submitting any personal information. By using this website, you are accepting the practices described in this privacy policy. You are encouraged to review the privacy policy whenever you visit the website to be up to date with its content (though it may change as needed) and make sure you understand how any personal information you provide can be used.
 
