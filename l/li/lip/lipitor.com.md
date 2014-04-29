@@ -1,163 +1,148 @@
-> *The following text is extracted and transformed from the lipitor.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522044310id_/http%3A//pfizer.com/pfizer/privacy/mn_privacy_truste.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lipitor.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429214201id_/http%3A//pfizer.com/pfizer/privacy/mn_privacy_truste.jsp) for the most accurate reproduction.*
 
-# Pfizer Privacy | Pfizer: the world's largest research-based pharmaceutical company
+# See Our Updated Privacy Policy | Pfizer: the world's largest research-based pharmaceutical company
 
-The privacy of your personal information is important to Pfizer. To better protect your privacy, we provide you with our Privacy Policy so that you will understand our commitment to you and to your privacy. This Privacy Policy describes what information we may collect about you; how we use your information; how we protect it; and what choices you have on how that information is used. At Pfizer, we understand that health is a very personal, private subject, and we want you to feel as comfortable as possible visiting our various Web sites and using their respective services.
+**Effective December 16, 2013**
 
-As our privacy policy changes in significant ways, we will make every effort to notify you of the changes. Minor changes to the policy may occur that will not affect our use of individually identifiable or personal health information. When the privacy policy changes in a way that significantly affects the way we handle personal information, we will not use the information we have previously gathered without providing notice or obtaining your consent when appropriate. We will post privacy policy changes on our Web sites in a timely manner.
+Pfizer respects your privacy and understands that health is a very personal and private subject. This Privacy Policy describes the personal information Pfizer collects about you on the website from which you linked ( _ **“Site”**_ ); how we use that information; how we protect it; and the choices you may make with respect to your personal information. When we refer to ourselves as _**"we"**_ or _**"Pfizer,"**_ we mean our entire company including the affiliates within our family of companies, _e.g._ , a subsidiary. Your visit to the Site is subject to this Privacy Policy and to our Terms of Use.
 
-The following articles make up our Privacy Policy. We hope that reading them gives you a clear idea of how we manage information regarding you. For immediate access to a particular topic, click on the title of that topic.
+Our Site may contain links to third-party websites/ content/ services that are not owned or controlled by Pfizer. Pfizer is not responsible for how these properties operate or treat your personal information so we recommend that you read the privacy policies and terms associated with these third party properties carefully.
 
-  * Personal information we collect
-  * Use of your information
-  * How Pfizer handles privacy internally
-  * Your privacy choices
-  * Updating your personal information and contacting Pfizer
-  * Children's privacy
+Our Privacy Policy is organized in the following sections. For immediate access to a particular section, click on the title.
 
-
-
-When we refer to ourselves as "we" or "Pfizer," we mean our entire company, including any company that we control (for example, a subsidiary that we own). We may share information among companies that we own or control, and we may share information with our co-promotion partners, and companies working with Pfizer but all information we share will always be protected under the terms of this Privacy Policy.
-
-You should read the Privacy Policy at each Web site that you visit after you leave one of our sites. Pfizer is not responsible for how other Web sites treat your privacy once you leave a Pfizer site.
-
-### Personal information we collect
-
-### Information we collect from visitors
-
-Visitors to each of our Web sites can access the Web site's home page, and browse some areas of the site, without disclosing any personally identifiable information. We do track information provided to us by your browser, including the Web site you came from (known as the referring URL), the type of browser you use, the time and date of access, and other information that does not personally identify you. On some of our sites, you must register to access portions of the site.
-
-In addition, we gather information about you that is automatically collected by our Web server, such as your IP address and domain name. Pfizer may use Web server and browser information to individually customize its offerings and presentations if you submit your personal information.
-
-### Information we collect when you register
-
-Visitors registering for services on our Web sites are asked to provide identifying information, such as name, gender, and contact information. On the registration screen, we clearly label which information is required for registration, and which information is optional and may be given at your discretion. Pfizer Web sites obtain visitors' consent before collecting personally identifiable information.
-
-### Information from outside sources
-
-We may also collect information about physicians or other health care professionals who register on our Web sites from other sources in order to verify their licensure status and identity. In some cases, we ask customers for information after they register, such as credit card information. Where necessary (for example, to process an order for a purchase), our Web sites may contact financial or credit organizations to confirm customer credit card information.
-
-From time to time we may augment our existing user databases with legally obtained information from third parties. Some of this information may be personally identifiable, such as national change of address information. We do this to better target our information offerings and promotional campaigns and to provide pertinent offers in which we think you would be interested.
-
-### Other information
-
-  * We also collect information that you voluntarily provide to us through responses to surveys, search functions, questionnaires, feedback, Tell Your Story forms and the like.
-  * On some of our Web sites, we offer health assessment tools that ask you to provide self-assessment information.
-  * We may also ask you to provide additional information such as your e-mail address if you want to obtain additional services or information or to resolve complaints or concerns.
+  * [Information We Collect and Use](https://web.archive.org/general/privacy#one)
+  * [How We Use Personal Information](https://web.archive.org/general/privacy#two)
+  * [How We Share Your Personal Information](https://web.archive.org/general/privacy#three)
+  * [Cookies and Other Tools](https://web.archive.org/general/privacy#four)
+  * [Online Behavioral Advertising and the Advertising Option Icon](https://web.archive.org/general/privacy#five)
+  * [Security Policies](https://web.archive.org/general/privacy#six)
+  * [Your Privacy Choices and Updates](https://web.archive.org/general/privacy#seven)
+  * [Transfer of Data to Other Countries](https://web.archive.org/general/privacy#eight)
+  * [Children's Privacy](https://web.archive.org/general/privacy#nine)
+  * [Contact Us](https://web.archive.org/general/privacy#ten)
+  * [Resolving Your Privacy Concerns](https://web.archive.org/general/privacy#eleven)
+  * [Updates to our Privacy Policy](https://web.archive.org/general/privacy#twelve)
 
 
 
-###  Use of cookies and other tracking systems 
+##  Information We Collect and Use
 
-Cookies, log files, and pixel-tags (Web beacons) are technologies used by the Pfizer Web sites to identify a user as the user moves through our Web sites. Your browser allows us to place some information (session based IDs and/or persistent cookies) on your computer's hard drive that identifies the computer you are using. We may use cookies to personalize our Web sites and to track your usage across other Pfizer Web sites.
+We collect personal information you choose to provide, _e.g._ , through registrations, applications and surveys, and in connection with your inquiries. For example, you may choose to provide your name, contact information, health, insurance and/or financial information in connection with a promotion, a patient assistance or support program or a clinical trial. Healthcare providers may choose to provide information relating to their specialties and professional affiliations.
 
-Your Web browser can be set to allow you to control whether you will accept cookies, reject cookies, or to notify you each time a cookie is sent to you. If your browser is set to reject cookies, Web sites that are cookie-enabled will not recognize you when you return to the Web site, and some Web site functionality may be lost. The Help section of your browser will tell you how to prevent your browser from accepting cookies.
+In addition, we may gather information about you automatically through your use of the Site, _e.g._ , your IP address and how you navigate our Site. _See also_ , the Section below on **[Cookies and Other Tools](https://web.archive.org/general/privacy#CookiesTools)**.
 
-On occasion, we contract with third parties to place cookies on your computer's hard drive. These third parties have entered into an agreement with us that requires them to observe our Privacy Policy.
-
-Although cookies do not normally contain personally identifiable information, if you have provided us information about you, we may associate your registration information with cookies or other tracking utilities our Web site places on your computer's hard drive. Associating a cookie with your registration data allows us to offer increased personalization and functionality. Without cookies, this functionality would not be possible.
-
-Some of our business partners may use cookies on our sites (for example, links to business partners). We do not want our business partners to use cookies to track our customers' activities once they leave our sites. However, we may not have total control over how our business partners may use cookies on our Web sites. If you become aware that a Pfizer business partner is placing an unwanted cookie on your hard drive, please contact our Privacy Officer to assist us in resolving the problem.
-
-In addition, we may use other tracking systems like pixel-tags. Pixel tags, sometimes called Web beacons, are similar in function to a cookie. But because of their insignificant size, it is not visible; though, they are used to pass certain information to our servers to personalize our Web sites and to track your usage across other Pfizer Web sites. In addition, we may also use pixel tags in our HTML based e-mails.
+From time to time, we may use or augment the personal information we have about you with information obtained from third parties. For example, we may use such third party information to confirm contact or financial information, to verify licensure of healthcare professionals or to better understand your interests by associating demographic information with the information you have provided.
 
 Top
 
-### How we use the information
+##  How We Use Personal Information
 
-### Aggregate data
+We may use your personal information in the following ways:
 
-We gather aggregate data about visitors to our Web sites for product and service development and improvement activities. We also use it for market analysis. We may provide information from our Web sites in aggregate form, with identifying information removed, to third parties. When aggregate health information is provided, we pool it from many individual records and strip it of any data that could be used to identify an individual before it is used. Any third party that receives aggregated health care data must agree not to attempt to re-identify the people it belongs to.
+###  To Serve You:
 
-### Marketing – Health Care Messages
+We may use your personal information to respond to your inquiries and provide the products and services you request. When you respond to a promotion or service offering, we will provide the specific materials you request as well as communications about related products, brands, health topics and disease states. We also use your information to deliver the content and services we believe you will find the most relevant. For example, a female user may receive information on products targeted at women that a male user will not see; a user who we know is a healthcare professional who treats arthritis may receive information relating to new arthritis therapies. In addition, we may use personal identifiers to recognize you when you arrive at the Site via an external link, _e.g._ , such as a link appearing on a third party site or in an email Pfizer has presented to you. _See also_ our [Cookies and Other Tools](https://web.archive.org/general/privacy#CookiesTools) section below. We will also use your information to provide customer service and support.
 
-We may target our marketing and health care messaging depending on information we have about you. For example, a user we know is a woman may receive information on products targeted at women that a male user will not see, or a user who we know is a health care professional who treats arthritis may receive information for new arthritis therapies. We may send information to you that we may believe will benefit you, including information about any Pfizer product. (See your privacy choices section)
+###  To Serve Third Parties You Ask Us to Serve:
 
-We may also personalize our Web site based on your interests. For example, you may see different articles in different places on our Web site based on information you have shared with us, or information we have gained by reviewing your previous visits, or information we may have gained from your interactions with a third party that shares information with us.
+Our websites may offer various tools and functionality. Some of these are provided by Pfizer while others are provided by third parties. For example, Pfizer may provide functionality on the Site that will allow you to forward and share certain content with a friend or colleague. In addition, the Site may also offer third party sharing functionality such as third party social media widgets/tools/buttons. If you choose to use Pfizer sharing functionality to refer someone to our content, products or services, we will use your information and that of the individual you are sharing with to send the content or link you request, but we do not access, store or use the information relating to the individual you wish to share with other than in connection with your request. If you use third party sharing functionality, including social media widgets/tools/buttons, such use is subject to the third party’s privacy policy and terms. As with all links to non-Pfizer websites/content/services, we recommend that you read the privacy policies and terms associated with these third party properties carefully.
 
-When we share information with third parties working on behalf of Pfizer, we use our best efforts to assure that they agree in writing to abide by Pfizer privacy policies.
+###  To Validate Your Ability to Access / Use Certain Products, Services and Information:
 
-If we discover that a third party working on behalf of Pfizer inappropriately disclosed personal information about any of our visitors, we will take immediate action to prevent further occurrences.
+Some products, services and information we offer may only be suitable for/ accessible to individuals meeting certain eligibility or other criteria. In such cases, we may verify that you meet such criteria. For example, certain information relating to our products is only intended for and accessible to licensed healthcare professionals and we may use information we collect directly from you and from outside sources to validate your licensure and eligibility to view such information.
 
-Other than as described above, Pfizer will not release personally identifiable information to a third party without your consent.
+###  In Accordance with Special Program Terms:
 
-### Tell-A-Friend
+On occasion, Pfizer may offer special programs, activities, clinical trials, events or promotions via the Site ( ** _“Special Programs”_** ) that have specific terms, privacy notices and/or informed consent forms that explain how any personal information you provide will be processed in connection with the Special Program ( ** _“Special Program Terms”_** ). Pfizer will honor those Special Program Terms with respect to your personal information. Some of these Special Programs may involve sharing information with a third party and Pfizer will provide you with notice of this. You may be offered the opportunity to agree to or opt-out of the sharing of your information with such third party. But, in some instances, it may be necessary to agree to sharing with a third party in order to participate in a particular Special Program. If you consent/do not opt-out, we will share your information with the third party; and the personal information you provide may be used by the third party in accordance with the Special Program Terms and, unless provided otherwise in such Special Program Terms, for their own purposes in accordance with their own policies/terms. We strongly suggest you review both the Special Program Terms and any applicable third party policies/ terms before participating.
 
-If you choose to use our referral function to tell a friend about our site, our site will ask you for your friend's name and e-mail address as well as your information. The form automatically sends your friend a one-time e-mail inviting him or her to visit the site. We do not access or store this information, except to send this invitation.
+###  To Improve Products and Services and Protect Patients and Consumers:
 
-Top
+We use the information you provide to better understand how our products and services impact you and those you care for, to track and respond to safety concerns and to further develop and improve our products and services. For example, you may be invited to participate in a survey relating to our products or services; healthcare professionals may be invited to participate in various programs or panels of experts. In addition, we use the information you provide to comply with our regulatory monitoring and reporting obligations including those related to adverse events, product complaints and patient safety.
 
-### Protection of information
+###  To Identify Those Who Benefit From/Recommend Our Products/ Services:
 
-### How Pfizer handles privacy internally
+From time to time, we seek out individuals, _e.g._ , patients, healthcare professionals, who have benefitted from or recommend our products and services.
 
-### Our commitment to security
+###  In Aggregated or De-identified Form:
 
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
-
-### General policies
-
-We have implemented technology and security policies, rules, and other measures to protect the personal data that we have under our control from unauthorized access, improper use, alteration, unlawful or accidental destruction, and accidental loss. We also protect your information by requiring that all our employees and others who have access to or are associated with the processing of your data respect your confidentiality.
-
-Pfizer uses security methods to determine the identity of each registered user, so that appropriate rights and restrictions can be enforced for that user. Reliable verification of user identity is called authentication. Pfizer uses both passwords and usernames to authenticate users. Users are responsible for maintaining their own passwords.
-
-### Storage of health information
-
-Personally identifiable health information you share with us is stored on our database servers at Pfizer data centers (in whatever country they may be located) or hosted by third parties who have entered into agreements with us that require them to observe our Privacy Policy. We have a firewall and other technology to prevent individuals from accessing information without authorization. Data centers are designed to be physically secure and protected from unauthorized access by unauthorized persons.
-
-Information in our data centers is backed up routinely, in order to aid in the recovery of information in the event of accidental damage of information or due to a natural disaster. The backup media is stored in a physically secure storage facility.
-
-### Third parties
-
-In addition to aggregate information (discussed previously), we may share some kinds of information with third parties as described below.
-
-  * Companies and people who work for us: Because we are a large company, we contract with other companies and individuals to help us provide services. For example, we may host some of our Web sites on another company's computers, hire technical consultants to maintain our Web-based health sites, or work with companies to remove repetitive information from customer lists, analyze data, provide marketing assistance, and provide customer service. In addition, if you are a health care professional, we may validate your licensure status and other information against available databases that list licensed health care professionals. In order to perform their jobs, these other companies may have limited access to some of the personal information we maintain about our users. Other companies may collect information on our behalf through their sites. This occasionally incorporates the use of frames on the site that will not show the URL you are visiting in the browser address window. We require such companies to comply with the terms of our privacy policies, to limit their access to any personal information to the minimum necessary to perform their obligations, and not to use the information they may access for purposes other than fulfilling their responsibilities to us. We use our best efforts to limit other companies' use of personally identifiable or health care information.
-  * Promotional and informational offers: Sometimes we send offers to selected groups of customers. To accomplish this we may use third parties working on behalf of Pfizer . We provide a variety of mechanisms for you to tell us you do not want to receive such promotional — informational offers. For example, we may provide an opt-in box for customers to receive information that is sent by a third-party fulfillment house, and we make clear that, by opting in, you are submitting your data to a third-party. You can elect not to receive promotional or informational material from us by following the instructions to opt-out as mentioned or included in each of our programs we send to you.
-  * Business transfers: If we transfer a business unit (such as a subsidiary) or an asset (such as a Web site) to another company, we will require it to honor the terms of this Privacy Policy.
-  * Legal requirements: We may release account and other personal information when we believe release is required to comply with law. We may release personal health information if, in our judgment after review by an attorney, the release is compelled by law or regulation, or if the release may be necessary to prevent the death or serious injury of an individual.
-
-
+We may aggregate and/or de-identify data about visitors to our Site for various business purposes including product and service development and improvement activities.
 
 Top
 
-### Your privacy choices
+##  How We Share Your Personal Information
 
-When you complete registration of your member profile, you will be given the option of receiving recurring informational/promotional e-mail from Pfizer and third parties working with Pfizer. You may opt-out from receiving this e-mail when you provide the information or follow the instructions as mentioned in the e-mail or included in each program we send to you.
+Pfizer may share your personal information as follows:
 
-Customer Service will unsubscribe you from that newsletter or other programs within ten business days.
+###  In Connection with Business Transfers:
 
-### Choice
+If we sell or transfer a business unit (such as a subsidiary) or an asset (such as a website) to another company, we will share your personal information with such company and require such company to use and protect your personal information consistent with this Privacy Policy.
 
-You will be given the opportunity to choose whether your personal information is (a) to be disclosed to a third party working with Pfizer or (b) to be used for a purpose that is different from the purpose originally intended or authorized. In addition, for sensitive information that includes personal information specifying medical or health conditions, you will be given an affirmative or explicit opt-in choice.
+###  With Service Providers and Business Partners:
 
-### Onward transfer (transfers to third parties)
+We may retain other companies and individuals to perform services on our behalf and we may collaborate with other companies and individuals with respect to particular products or services (collectively, **_“Providers”_** ). Examples of Providers include data analysis firms, credit card processing companies, customer service and support providers, email and SMS vendors, web hosting and development companies and fulfillment companies. Providers also include our co-promote partners for products that we jointly develop and/or market with other companies. Some Providers may collect information on our behalf on our Site. These third parties may be provided with access to personal information needed to perform their functions, but they may not use such information other than on our behalf and subject to contracts that protect the confidentiality of the information. In addition, as noted above, we may share information with third parties in accordance with [Special Program Terms](https://web.archive.org/general/privacy#SpecialTerms) unless you opt-out/do not consent.
 
-We will provide you with notice and choice before either personal information or sensitive information is transferred by us to a third party.
+###  To Comply with Law/Protect:
+
+We reserve the right to disclose your personal information as required by law, when we believe disclosure is necessary to comply with a regulatory requirement, judicial proceeding, court order, or legal process served on us, or to protect the safety, rights, or property of our customers, the public or Pfizer.
+
+###  In the Aggregate/De-identified:
+
+Pfizer may also disclose aggregate or de-identified data that is not personally identifiable with third parties. Aggregate data is created by pooling information about individuals and describing the data in the aggregate, _e.g._ , 20% of customers who clicked on the X promotion participated in the promotion.
+
+##  Cookies and Other Tools
+
+Pfizer and its business partners collect information about you by using cookies, tracking pixels and other technologies (collectively, _**“Tools”**_ ). We use this information to better understand, customize and improve user experience with our websites, services and offerings as well as to manage our advertising. For example, we use web analytics services that leverage these Tools to help us to understand how visitors engage with and navigate our Site, _e.g._ , how and when pages in a site are visited and by how many visitors. We are also able to offer our visitors a more customized, relevant experience on our sites using these Tools by delivering content and functionality based on your preferences and interests. If you have provided us with personal information, _e.g._ , through a registration or a request for certain materials, we may associate this personal information with information gathered through the Tools. This allows us to offer increased personalization and functionality.
+
+Your web browser can be set to allow you to control whether you will accept cookies, reject cookies, or to notify you each time a cookie is sent to your browser. If your browser is set to reject cookies, websites that are cookie-enabled will not recognize you when you return to the website, and some website functionality may be lost. The Help section of your browser may tell you how to prevent your browser from accepting cookies. To find out more about cookies, visit [www.aboutcookies.org](http://www.aboutcookies.org/).
 
 Top
 
-### Updating your personal information and contacting Pfizer
+##  Online Behavioral Advertising and the Advertising Option Icon 
 
-You can always contact us in order to (i) remove the personal information that you have provided to us from our systems, (ii) update the personal information that you have provided to us, and (iii) change your preferences with respect to marketing contacts by e-mailing us at [privacy.officer@pfizer.com](mailto:privacy.officer@pfizer.com) or if available also logging into your account to update your information.
+Pfizer hopes to deliver to you advertising for products and services you need or want. There are many ways to do this in the online advertising world. For example, Pfizer partners with websites with whom you have shared your interests, conditions and concerns directly and asks that they serve our ads to users who have expressed an interest in Pfizer products or health conditions that our products treat. We may also partner with advertising companies to serve you ads based on your web browsing activity, purchases and/or interests. Some techniques for delivering content based on your interests are referred to as online behavioral advertising ( _ **“OBA”**_ ). You can read more about OBA at a site offered by the advertising industry’s Digital Advertising Alliance ( _ **“DAA”**_ ), [aboutads.info.](http://www.aboutads.info/)
+
+We want it to be easy for you to understand how we and our business partners use information to serve ads tailored for you and to opt-out from targeting based on OBA. To this end, we have licensed the DAA Advertising Options icon, , and agreed to adhere to the DAA Self-Regulatory Program for OBA. We also provide you with an easy-to-use means of opting-out from the use of your information for OBA. In addition, we offer plain English explanations of our practices in this Privacy Policy, in our Ad Choices Notice (displayed on our Sites on which data is collected for OBA purposes), and in our ads served using OBA. If you have any questions about our use of OBA or participation in the DAA Self-Regulatory Program, please do not hesitate to contact us at [Privacy.Officer@pfizer.com](mailto:privacy.officer@pfizer.com).
+
+In addition to the browser options and opt-out choices described in this policy, we are monitoring the development of do not track ("DNT") options for consumers and will consider adoption of this standard when it is finalized. At this time, we do not change our practices in response to DNT browser settings. For information about DNT, visit [www.allaboutdnt.org.](http://www.allaboutdnt.org/)
 
 Top
 
-### Children's policy
+##  Security Policies
 
-We are committed to protecting the privacy of children. We do not collect personally identifiable information from any person we actually know is a child under the age of 13.
+We use technical, administrative and procedural measures in an attempt to safeguard your personal and other information from unauthorized access or use. No such measure is ever 100% effective though, so we do not guarantee that your personal and other information will be secure from theft, loss, or unauthorized access or use, and we make no representation as to the reasonableness, efficacy, or appropriateness of the measures we use to safeguard such information. Users are responsible for maintaining the secrecy of their own passwords. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us by contacting us at [Privacy.Officer@pfizer.com](mailto:privacy.officer@pfizer.com).
 
-Pfizer Inc. Privacy Policy updated February 17, 2012.
+Top
+
+##  Your Privacy Choices and Updates
+
+You may always update your personal information and your preferences. Limited communications may be necessary in order for you to participate in a particular program or service. Different programs and services may offer different phone numbers, links or preference managers that allow you to inform us of your updates and choices, including opting out of particular communications. These contact options are typically available on our Sites or in the emails or texts we send but you may always contact our Privacy Officer for assistance at [Privacy.Officer@pfizer.com](mailto:privacy.officer@pfizer.com) if you have any difficulty finding these tools or otherwise updating your information or preferences.
+
+Top
+
+##  Transfer of Data to Other Countries
+
+Any information you provide to Pfizer through use of the Site may be stored and processed, transferred between and accessed from the United States and other countries which may not guarantee the same level of protection of personal information as the one in which you reside. However, Pfizer will handle your personal information in accordance with this Privacy Policy regardless of where your personal information is stored/accessed.
+
+Top
+
+##  Children's Privacy
+
+We are committed to protecting the privacy of children. We do not knowingly collect personal information from children under the age of 13.
+
+##  Contact Us
+
+Please contact us if you have any questions or concerns about your personal information or require assistance in managing your choices.
 
 Pfizer Inc  
 Privacy Officer  
 235 East 42nd Street  
-Mailstop 235/25/24  
+Mailstop 235/19/12  
 New York, NY 10017  
-[Privacy Officer](https://web.archive.org/contact/mail_privacy.jsp)
+[Privacy Officer](https://web.archive.org/contact/email_contact?inquiry=Privacy+Officer&x=21&y=23)
 
 Top
 
-### Resolving Your Privacy Concerns
+##  Resolving Your Privacy Concerns
 
 If, after attempting to address a privacy question or concern with Pfizer directly by contacting Pfizer's Privacy Officer, you still have a specific privacy concern that has not been resolved, you may choose mediation of that concern by a neutral third party at no cost to you. Pfizer will cover the cost of mediations submitted to the JAMS Alternative Dispute Resolution Service.
 
@@ -165,3 +150,11 @@ JAMS
 620 Eighth Avenue, 34th Floor  
 New York, NY 10018  
 (212) 751-2700
+
+Top
+
+##  Updates to Our Privacy Policy
+
+From time to time, we may update and timely post revisions to this Privacy Policy. Any changes will be effective immediately upon the posting of the revised Privacy Policy. If the Privacy Policy changes in a way that significantly affects how we handle personal information, we will not use the personal information we previously gathered in the manner described in the new policy without providing notice and/or obtaining your consent, as appropriate. Minor changes to the policy may occur that will not significantly affect our use of personal information without notice or consent. We encourage you to periodically review this page for the latest information on our privacy practices. This Privacy Policy was updated as of the effective date listed above.
+
+Top
