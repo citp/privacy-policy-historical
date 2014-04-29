@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexsubject.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227183951id_/http%3A//www.forexsubject.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexsubject.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429051031id_/http%3A//www.forexsubject.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
 # privacy Forex Subject - Free Forex Articles, Trading Tips And Resources
 
