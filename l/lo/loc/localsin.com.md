@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localsin.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210201847id_/http%3A//www.localsin.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localsin.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429192732id_/http%3A//www.localsin.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # LocalSin is the new way for dating. Find hookups tonight online and on your phone! It’s Free!
 
@@ -98,7 +98,7 @@ Further, We do not provide User information to third-parties (aside from the SIT
 
  _ **X. How to Access or Modify Your Information**_
 
-We offer Our Members the opportunity to access or modify information provided during registration. To access or modify such information, Members possess the ability of accessing and modifying their profiles via their “personal home page” at MyLocalSin. If any problems arise during efforts by Members to access or modify information, the Member may contact Our Customer Service Department at [www.localsin.com](https://web.archive.org/web/20131210201847id_/http%3A//www.localsin.com/support.aspx).
+We offer Our Members the opportunity to access or modify information provided during registration. To access or modify such information, Members possess the ability of accessing and modifying their profiles via their “personal home page” at MyLocalSin. If any problems arise during efforts by Members to access or modify information, the Member may contact Our Customer Service Department at [www.localsin.com](https://web.archive.org/web/20140429192732id_/http%3A//www.localsin.com/support.aspx).
 
  _ **XI. Where to Direct Questions About Our Privacy Policy**_
 
