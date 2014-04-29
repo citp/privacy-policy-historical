@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easypornstars.com privacy policy that was archived on 2013-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130711064746id_/http%3A//www.bornpornstars.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easypornstars.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429135346id_/http%3A//www.bornpornstars.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
