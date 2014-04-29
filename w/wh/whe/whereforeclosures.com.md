@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the whereforeclosures.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114124156id_/http%3A//www.whereforeclosures.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whereforeclosures.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429192456id_/http%3A//www.whereforeclosures.com/privacy-policy.html) for the most accurate reproduction.*
 
 # WhereForeclosures: Contact Us to find out more about Foreclosure Listings in your area
 
 ###### **PRIVACY POLICY  
 Effective: December 8, 2010**
 
-Last Updated: November 12, 2013
+Last Updated:April 9, 2014
 
 **Privacy Statement:**  
 We have developed this Privacy Policy to inform you of the data gathering and dissemination practices applicable to our web site (“Site”). By visiting, registering or using services obtained through our Site, you agree to the terms of this Privacy Policy.  If you do not agree with any terms of this Policy, please do not use or submit any personal information to this Site.
@@ -31,12 +31,14 @@ When you log on to our Site, our server may automatically recognize you by an en
 
 We may use third party cookies and clear pixels (also referred to as "web beacons") to measure page views and email responses. These devices allow us to identify unique visitors to our Site and act as a counter for ongoing monitoring of Site, email and corresponding future transaction activity related to a specific offer.
 
-**Third-Party Websites:**  
+**Third-Party Websites and Services:**  
 We are not responsible or liable for the content or data practices of any third-party site, including those of our advertisers, affiliates, partners, or vendors. We recommend that you read the privacy policy of all third-party sites carefully before sharing your Personally Identifiable Information with them.
 
 Occasionally, you may be offered the opportunity to participate in an offer or service that, by its very terms, will require us to forward your Personally Identifiable Information to the advertiser or partner so that they can provide the service to you. As always, it is your choice to participate.
 
 We do not guarantee the content or information practices of any third-party site. You alone are responsible for determining the appropriateness of sharing your Personally Identifiable Information with our advertisers.
+
+We have your consent to share collected personally identifiable information (including email addresses) with third parties for commercial purposes, such as advertising. 
 
 **Communication:**  
 We are available to you during normal business hours to answer any privacy-related questions or concerns you might have. Simply [contact us](https://web.archive.org/contact-us.html) and we will respond in a timely manner.
