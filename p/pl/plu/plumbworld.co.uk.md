@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plumbworld.co.uk privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426071903id_/http%3A//www.plumbworld.co.uk/info-4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plumbworld.co.uk privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429135006id_/http%3A//www.plumbworld.co.uk/info-4) for the most accurate reproduction.*
 
-# Privacy Guarantee
+# Privacy Policy
 
 If you have any questions or concerns about privacy these should be addressed to [md@plumbworld.co.uk](mailto:md@plumbworld.co.uk)
 
@@ -25,9 +25,3 @@ _Will[www.plumbworld.co.uk](http://www.plumbworld.co.uk/) disclose the informati
 We will never divulge any of your personal details, by which we mean your name and address or email address, to any third party for them to market un-related products or services to you. We may use your details to advise you of money saving offers, or major changes at www.plumbworld.co.uk. We may subcontract a third party to mail offers to you from ourselves but they will also be bound not to divulge your personal information to third parties.
 
 Third party cookies may be used to track behaviour on our site by third parties. These cookies do not contain any personal details.
-
-Customer Feedback
-
-I am very happy with my order from Plumbworld. It arrived promptly and well-packaged, in perfect condition. I think the quality and value of the items I ordered is excellent and I have already recommended you to friends. Your staff are very helpful and friendly and the delivery driver also said what a good company you are. I will certainly be returning as a satisfied customer in the future, thanks.
-
- **\- Clare Rundell, April 2008**
