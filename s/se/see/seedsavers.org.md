@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seedsavers.org privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603083717id_/http%3A//www.seedsavers.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedsavers.org privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429185030id_/http%3A//www.seedsavers.org/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
