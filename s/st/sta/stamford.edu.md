@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stamford.edu privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229153621id_/http%3A//www.stamford.edu/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stamford.edu privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429164258id_/http%3A//www.stamford.edu/PrivacyPolicy) for the most accurate reproduction.*
 
 # Stamford International University (Thailand) - Privacy Policy
 
