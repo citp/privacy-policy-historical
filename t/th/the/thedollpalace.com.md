@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedollpalace.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229151753id_/http%3A//www.thedollpalace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedollpalace.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429212446id_/http%3A//www.thedollpalace.com/privacy) for the most accurate reproduction.*
 
 # The Doll Palace Privacy Statement
 
@@ -92,4 +92,4 @@ The Internet offers a world of opportunity for children. Your guidance and invol
 
 **Effective Date, Updates and Acceptance**
 
-The privacy policy set out above is effective as of October 16, 2013. Your use of the Site is subject to this Privacy Policy and the Terms of Use Agreement. By using this Site, you are accepting the practices set out in this Privacy Policy and the Terms of Use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Your continued use of any portion of the Site following posting of the updated Privacy Policy will constitute your acceptance of the changes. 
+The privacy policy set out above is effective as of April 14, 2014. Your use of the Site is subject to this Privacy Policy and the Terms of Use Agreement. By using this Site, you are accepting the practices set out in this Privacy Policy and the Terms of Use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Your continued use of any portion of the Site following posting of the updated Privacy Policy will constitute your acceptance of the changes. 
