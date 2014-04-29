@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metaio.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121011902id_/http%3A//www.metaio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metaio.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429122825id_/http%3A//www.metaio.com/privacy-policy) for the most accurate reproduction.*
 
 # metaio | Privacy Policy | Augmented Reality Products & Solutions
 
@@ -63,8 +63,7 @@ If you have any questions about this Privacy Policy, please contact us at privac
 
 **metaio GmbH**
 
-Infanteriestrasse 19  
-House 4b  
-D-80797 Munich  
+Hackerbrücke 6  
+80335 Munich  
 Germany  
 Effective June 26, 2013
