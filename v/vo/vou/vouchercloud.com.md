@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vouchercloud.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816151152id_/http%3A//www.vouchercloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vouchercloud.com privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430001207id_/http%3A//www.vouchercloud.com/privacy) for the most accurate reproduction.*
 
 # Voucher Codes and Discount Vouchers from vouchercloud
 
@@ -36,7 +36,7 @@ When you send email or other communication to vouchercloud, we may retain the co
 
 ##### Information you provide on our partners' websites
 
-You mind find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them. 
+You mind find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
 
 ##### Merchant loyalty information
 
@@ -52,11 +52,11 @@ Where applicable, we may disclose your personal information to any member of our
 
 ##### Unsubscribe
 
-Users who wish to no longer receive one of our promotional emails may click on the "Update your preferences" link which is embedded with every email sent by vouchercloud to opt out of individual types of promotional email. 
+Users who do not wish to receive our promotional e-mail messages may click the ‘unsubscribe’ link which will be found at the bottom of each e-mail from vouchercloud. You will be sent to an ‘update your preferences’ page in your account where you can opt out of different types of promotional e-mails, or click unsubscribe from all. 
 
 ##### Emails
 
-Once you become a vouchercloud member we’ll send you weekly email newsletters letting you know about our offers. We may also send you other offers from our partners that we think you might be interested in. We’ll never share your details with a third party, and you can manage all your email subscriptions by login into your vouchercloud account and editing your email preferences.
+Once you become a vouchercloud member we’ll send you email newsletters letting you know about our offers and deals. We may also send you other offers from our partners that we think you might be interested in. We’ll never share your details with a third party, and you can manage all your email subscriptions by login into your vouchercloud account and editing your email preferences, or unsubscribing via the link at the bottom of the email.
 
 ### Use of Cookies
 
@@ -86,12 +86,13 @@ The Data Protection Act 1998 gives you the right to access the information that 
 
 If you have questions about this Privacy Policy, you can contact us at:
 
-**vouchercloud**  
-77 West Street  
-Bedminster  
+ **vouchercloud**  
+1st Floor, Merchants House  
+Wapping Road  
 Bristol  
-BS3 3NU  
+BS1 4RW  
 United Kingdom
 
-Email : [hello@vouchercloud.com](mailto:hello@vouchercloud.com)   
-Telephone: 08456 018 018 
+Email : [hello@vouchercloud.com](mailto:hello@vouchercloud.com)  
+Telephone: +44 (0) 117 926 1100  
+Fax: +44 (0) 117 926 1101 
