@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kuder.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230010942id_/http%3A//www.kuder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kuder.com privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430070825id_/http%3A//www.kuder.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Kuder
+# Privacy Policy | Kuder
 
 Kuder, Inc. (“Kuder” or “we”) is committed to your privacy. We demonstrate this commitment by posting this Privacy Policy to inform you of:
 
