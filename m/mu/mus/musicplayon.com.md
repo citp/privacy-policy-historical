@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the musicplayon.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222034830id_/http%3A//musicplayon.com/docs/PrivacyPolicy-en.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicplayon.com privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430150705id_/http%3A//musicplayon.com/docs/PrivacyPolicy-en.htm) for the most accurate reproduction.*
 
 # MusicPlayOn.com - Privacy Policy
-
-PRIVACY POLICY
 
 **Purpose**  
 This document sets out NETSENSE's commitment to your privacy and to the protection of personal data (the "Data") collected and processed in connection with your use of the Website, under the terms and conditions set out in the [User Agreement](http://musicplayon.com/docs/UserAgreement-en.htm).
