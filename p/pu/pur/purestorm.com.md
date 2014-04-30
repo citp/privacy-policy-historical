@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purestorm.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230101945id_/http%3A//purestorm.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purestorm.com privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430223047id_/http%3A//www.purestorm.com/privacy.aspx) for the most accurate reproduction.*
 
 # Purestorm Privacy
 
@@ -82,4 +82,4 @@ The Data Protection Act 1998 provides you with the right to access the informati
 
 ** 8. Contacting Us**
 
-We welcome any queries, requests you may have regarding this Privacy Policy, or comments. Please feel free to [contact us](https://web.archive.org/web/20131230101945id_/http%3A//purestorm.com/contact.aspx)
+We welcome any queries, requests you may have regarding this Privacy Policy, or comments. Please feel free to [contact us](https://web.archive.org/web/20140430223047id_/http%3A//www.purestorm.com/contact.aspx)
