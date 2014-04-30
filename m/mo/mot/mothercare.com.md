@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mothercare.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111161812id_/https%3A//www.mothercare.com/privacy-policy/services-ms-privacypolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mothercare.com privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430095305id_/http%3A//www.mothercare.com/privacy-policy/services-ms-privacypolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -136,7 +136,7 @@ Most web browsers allow you to control cookies through your browser settings. Yo
 
 [Mozilla Firefox](http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies)
 
-If your web browser is not detailed above or you are using a mobile device, please consult your user manual or online help guide for details on how to control cookies. To find out more about cookies and how to manage them, you may wish to visit [www.allaboutcookies.org](https://web.archive.org/web/20131111161812id_/https%3A//www.mothercare.com/privacy-policy/www.allaboutcookies.org). 
+If your web browser is not detailed above or you are using a mobile device, please consult your user manual or online help guide for details on how to control cookies. To find out more about cookies and how to manage them, you may wish to visit [www.allaboutcookies.org](https://web.archive.org/web/20140430095305id_/http%3A//www.mothercare.com/privacy-policy/www.allaboutcookies.org). 
 
 Please remember that all of the links above are third party websites. We do not endorse them and are not responsible for their contents.
 
