@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lids.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102163645id_/http%3A//www.lids.com/HelpDesk/Security/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lids.com privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430174145id_/http%3A//www.lids.com/HelpDesk/Security/PrivacyPolicy) for the most accurate reproduction.*
 
 # Lids.com - Help Desk - Safety, Security & Privacy
 
-Last updated: March 6, 2011
+Last updated: January 13, 2014
 
 **Our Commitment to Privacy**  
 Hat World values your time, respects your privacy, and seeks to earn your trust.
@@ -24,6 +24,8 @@ We receive and store any information from your visits to our Sites or that you g
 As is true of most web sites, we gather and store certain information automatically, including Internet Protocol (IP) addresses, browser types, Internet Service Provider (ISP), referring/exit pages, operating system, date/time stamp, and click stream data. This information does not identify individual users, and is used to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
 
 To do this, we use 'cookies' or alphanumeric identifiers that we transfer to your computer's hard drive through your web browser to enable our systems to recognize your browser and to provide features such as storage of items in your Shopping Cart between visits. We use a third-party service provider to serve ads on our behalf across the Internet and sometimes on the Sites. This provider may collect anonymous information about your visits to the Sites and may also use information about your visits to this and other Web sites to refine our services. If you are concerned about cookies, the "help", "options" or "preferences" functions on most browsers will allow to limit or disable cookies altogether. However, cookies allow you to take full advantage of our interactive features, and we recommend that you leave them turned on.
+
+Currently, our Sites do not respond to "Do Not Track" signals from your browser.
 
 We may also collect anonymous information about your interactions with us through the use of pixel tags (also called "web beacons" or "clear gifs"), which are tiny graphic images on the Sites and in our emails. Pixel tags are now standard in the industry and help to us analyze our customers' online behavior and measure the effectiveness of our Sites and our advertising. A third-party service provider also helps us in our use of these tools.
 
