@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the12volt.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230101102id_/http%3A//www.the12volt.com/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the12volt.com privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430223215id_/http%3A//www.the12volt.com/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,16 +11,15 @@
 [Relays](http://www.the12volt.com/relays/relays.asp "Relays, Wiring & Diagrams")  
 [Resistors](http://www.the12volt.com/resistors/resistors.asp "Color Codes - Calculator")  
 [Tools and Equipment](http://www.the12volt.com/tools/tools.asp "Tools for the Shop & Installer")  
-[Wire Sizes](http://www.the12volt.com/info/recwirsz.asp "Recommended Speaker, Power and Ground Wire Sizes")  
+[Wire Sizes](http://www.the12volt.com/wiring/recwirsz.asp "Recommended Speaker, Power and Ground Wire Sizes")  
 Car Audio & Mobile Video  
 [Introduction](http://www.the12volt.com/caraudio/caraudio.asp "Car Audio Introduction")  
-[Metra Application Guides](http://www.the12volt.com/wireinfo/metra.asp "Metra Application Guides")  
 [Parallel & Series Calcs](http://www.the12volt.com/caraudio/boxcalcs.asp "Parallel and Series Calculators")  
 [Passive Crossovers](http://www.the12volt.com/caraudio/cross.asp "Passive Crossovers Diagrams and Calculators")  
 [Port Length Calculators](http://www.the12volt.com/caraudio/boxcalcs.asp "Port Length Calculator")  
 [Subwoofer Box Calculators](http://www.the12volt.com/caraudio/boxcalcs.asp "Subwoofer Enclosure Calculators")  
 [Subwoofer Enclosure Types](http://www.the12volt.com/caraudio/boxes.asp "Subwoofer Enclosures")  
-[Subwoofer Wiring Options](http://www.the12volt.com/caraudio/woofer_configurations.asp "Subwoofer Wiring Wizard")  
+[Subwoofer Wiring Wizard](http://www.the12volt.com/caraudio/woofer_configurations.asp "Subwoofer Wiring Wizard")  
 [Thiele - Small Parameters](http://www.the12volt.com/caraudio/thiele.asp "Thiele - Small Paramaters")  
 [Miscellaneous](http://www.the12volt.com/info/diagrams.asp#cs "Miscellaneous Car Audio Applications")  
 [Relay Diagrams](http://www.the12volt.com/relays/relaydiagrams.asp "Relay Diagrams - Quick Reference - Dozens of diagrams at your fingertips!")  
@@ -35,7 +34,7 @@ Car Security & Convenience
 [Light Flash](http://www.the12volt.com/relays/page4.asp "Light Flash")  
 [Power Door Locks](http://www.the12volt.com/doorlocks/doorlocks.asp "Door Locks, Switch Types & Diagrams")  
 [Starter Interrupts](http://www.the12volt.com/relays/page2.asp "Starter Interrupts")  
-[Pictorials](http://www.the12volt.com/installbay/forum_topics.asp~FID~24 "Car Alarm, Keyless Entry, and Remote Starter Pictorials")  
+[Installation Pictorials](http://www.the12volt.com/installbay/forum_topics.asp?FID=24 "Car Alarm, Keyless Entry, and Remote Starter Pictorials")  
 [Relay Diagrams](http://www.the12volt.com/relays/relaydiagrams.asp "Relay Diagrams - Quick Reference - Dozens of diagrams at your fingertips!")  
 [Vehicle Wiring Database](http://www.the12volt.com/installbay/vehicles.html "Vehicle Wiring Information")  
 Cruise Controls  
@@ -46,30 +45,30 @@ Cruise Controls
 [VSS and Tach Info](http://www.the12volt.com/cruisecontrol/cruisecontrol.asp#special "VSS & Tachometer Information")  
 [Vehicle Wiring Databse](http://www.the12volt.com/installbay/vehicles.html "Vehicle Wiring Information")  
 Forums  
-[All Forums](http://www.the12volt.com/installbay/default.asp "Mobile Electronics Installation Forums")  
-[Buy & Sell Equipment](http://www.the12volt.com/installbay/forum_topics.asp~FID~11 "Buy & Sell Equipment")  
-[Car Audio](http://www.the12volt.com/installbay/forum_topics.asp~FID~2 "Car Audio")  
-[Car Audio Hot Topics](http://www.the12volt.com/installbay/forum_topics.asp~FID~22 "Car Audio Hot Topics")  
-[Car Security & Convenience](http://www.the12volt.com/installbay/forum_topics.asp~FID~3 "Car Security & Convenience")  
-[Car Security Hot Topics](http://www.the12volt.com/installbay/forum_topics.asp~FID~23 "Car Security & Convenience Hot Topics")  
-[Car Security Pictorials](http://www.the12volt.com/installbay/forum_topics.asp~FID~24 "Car Security & Convenience Pictorials")  
-[Cellular & Communications](http://www.the12volt.com/installbay/forum_topics.asp~FID~17 "Cellular & Communications")  
-[Cruise Controls](http://www.the12volt.com/installbay/forum_topics.asp~FID~10 "Cruise Controls")  
-[Employment](http://www.the12volt.com/installbay/forum_topics.asp~FID~14 "Employment")  
-[Fiberglass & Fabrication](http://www.the12volt.com/installbay/forum_topics.asp~FID~16 "Fiberglass, Fabrication & Interiors")  
-[General Discussion](http://www.the12volt.com/installbay/forum_topics.asp~FID~1 "General Discussion")  
-[Lights, Neon, LEDs, HIDs](http://www.the12volt.com/installbay/forum_topics.asp~FID~18 "Lights, Neon, LEDs, HIDs")  
-[Marine Electronics](http://www.the12volt.com/installbay/forum_topics.asp~FID~25 "Marine Electronics")  
-[Miscellaneous](http://www.the12volt.com/installbay/forum_topics.asp~FID~4 "Miscellaneous - Off Topic")  
-[Mobile Video & Navigation](http://www.the12volt.com/installbay/forum_topics.asp~FID~9 "Mobile Video, Navigation")  
-[Motorcycle Electronics](http://www.the12volt.com/installbay/forum_topics.asp~FID~21 "Motorcycle Electronics")  
-[Music, Favorite Songs](http://www.the12volt.com/installbay/forum_topics.asp~FID~19 "Music, Favorite Songs, Movies, Videos, Test CD's")  
-[Relays](http://www.the12volt.com/installbay/forum_topics.asp~FID~5 "Relays")  
-[Rides & Systems Gallery](http://www.the12volt.com/installbay/forum_topics.asp~FID~20 "Rides & Systems Gallery")  
-[Vehicle Information](http://www.the12volt.com/installbay/forum_topics.asp~FID~7 "Vehicle Information Requests")  
+[All Forums](http://www.the12volt.com/installbay "Mobile Electronics Installation Forums")  
+[Buy & Sell Equipment](http://www.the12volt.com/installbay/forum_topics.asp?FID=11 "Buy & Sell Equipment")  
+[Car Audio](http://www.the12volt.com/installbay/forum_topics.asp?FID=2 "Car Audio")  
+[Car Audio Hot Topics](http://www.the12volt.com/installbay/forum_topics.asp?FID=22 "Car Audio Hot Topics")  
+[Car Security & Convenience](http://www.the12volt.com/installbay/forum_topics.asp?FID=3 "Car Security & Convenience")  
+[Car Security Hot Topics](http://www.the12volt.com/installbay/forum_topics.asp?FID=23 "Car Security & Convenience Hot Topics")  
+[Car Security Pictorials](http://www.the12volt.com/installbay/forum_topics.asp?FID=24 "Car Security & Convenience Pictorials")  
+[Cellular & Communications](http://www.the12volt.com/installbay/forum_topics.asp?FID=17 "Cellular & Communications")  
+[Cruise Controls](http://www.the12volt.com/installbay/forum_topics.asp?FID=10 "Cruise Controls")  
+[Employment](http://www.the12volt.com/installbay/forum_topics.asp?FID=14 "Employment")  
+[Fiberglass & Fabrication](http://www.the12volt.com/installbay/forum_topics.asp?FID=16 "Fiberglass, Fabrication & Interiors")  
+[General Discussion](http://www.the12volt.com/installbay/forum_topics.asp?FID=1 "General Discussion")  
+[Lights, Neon, LEDs, HIDs](http://www.the12volt.com/installbay/forum_topics.asp?FID=18 "Lights, Neon, LEDs, HIDs")  
+[Marine Electronics](http://www.the12volt.com/installbay/forum_topics.asp?FID=25 "Marine Electronics")  
+[Miscellaneous](http://www.the12volt.com/installbay/forum_topics.asp?FID=4 "Miscellaneous - Off Topic")  
+[Mobile Video & Navigation](http://www.the12volt.com/installbay/forum_topics.asp?FID=9 "Mobile Video, Navigation")  
+[Motorcycle Electronics](http://www.the12volt.com/installbay/forum_topics.asp?FID=21 "Motorcycle Electronics")  
+[Music, Favorite Songs](http://www.the12volt.com/installbay/forum_topics.asp?FID=19 "Music, Favorite Songs, Movies, Videos, Test CD's")  
+[Relays](http://www.the12volt.com/installbay/forum_topics.asp?FID=5 "Relays")  
+[Rides & Systems Gallery](http://www.the12volt.com/installbay/forum_topics.asp?FID=20 "Rides & Systems Gallery")  
+[Vehicle Information](http://www.the12volt.com/installbay/forum_topics.asp?FID=7 "Vehicle Information Requests")  
 [Recent Forum Topics](http://www.the12volt.com/installbay/last100.asp "Last 100 Topics")  
-[Forum Help & How To](http://www.the12volt.com/installbay/forum_topics.asp~FID~15 "Forum Help & How To's")  
-[Forum & Site Notices](http://www.the12volt.com/installbay/forum_topics.asp~FID~12 "Notices")  
+[Forum Help & How To](http://www.the12volt.com/installbay/forum_topics.asp?FID=15 "Forum Help & How To's")  
+[Forum & Site Notices](http://www.the12volt.com/installbay/forum_topics.asp?FID=12 "Notices")  
 General Information  
 [Books & DVDs](http://www.the12volt.com/links/books.asp "Recommended Books and DVDs")  
 [Calculators](http://www.the12volt.com/info/diagrams.asp#cal "Index of Calculators")  
@@ -87,7 +86,6 @@ General Information
 [Vehicle Wiring Database](http://www.the12volt.com/installbay/vehicles.html "Vehicle Wiring Information")  
 Et Cetera  
 [About the12volt](http://www.the12volt.com/about/about.asp "About the12volt")  
-[Hurricane Katrina](http://www.the12volt.com/index.asp "Hurricane Katrina")  
 [Link to Us](http://www.the12volt.com/links/linktous.asp "Link to the12volt.com")  
 [Support Us](http://www.the12volt.com/installbay/donations.asp "Support the12volt.com. Make a donation and link to us. Help support the free exchange of information for mobile electronics installers and enthusiasts.")  
   
@@ -105,11 +103,11 @@ Et Cetera
 Privacy Statement   
   
 ---  
-the12volt.com endeavors to maintain the strictest professional standards in all transactions with our visitors. This standard of conduct includes maintaining the visitor's confidentiality.
+the12volt.com endeavors to maintain the strictest professional standards in all transactions with our visitors. This standard of conduct includes maintaining the visitor's confidentiality. 
 
-Personal information is held in the strictest confidence and will not be sold, divulged or otherwise revealed to any individual or entity without your express permission. This includes any information of a personal or private nature you have shared with us.
+Personal information is held in the strictest confidence and will not be sold, divulged or otherwise revealed to any individual or entity without your express permission. This includes any information of a personal or private nature you have shared with us. 
 
-the12volt.com will cooperate to the extent required by law with any law enforcement agency upon presentation of properly executed and served subpoenas or warrants.
+the12volt.com will cooperate to the extent required by law with any law enforcement agency upon presentation of properly executed and served subpoenas or warrants. 
 
 We have designed the12volt.com so that no personal identifying information is displayed online or is accessible to the general public. We do not reveal your e-mail address or other personal information, except to you when you update your profile information. We do not sell or rent our visitor or member information to any outside party under any circumstances.  
   
