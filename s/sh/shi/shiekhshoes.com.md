@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shiekhshoes.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809051403id_/http%3A//www.shiekhshoes.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiekhshoes.com privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430205906id_/http%3A//www.shiekhshoes.com/t-privacy.aspx) for the most accurate reproduction.*
 
-# Shoes, Boots and Sandals - For Casual and Athletics
+# Shop shoes securely online at Shiekh Shoes
 
 The privacy policy adopted by Shiekh is designed to provide you with an understanding of the type of information we collect, how it is done, and what we do with this information. Shiekh is the sole owner of this information and it is never shared, sold or rented to anyone not disclosed in this statement.
 
