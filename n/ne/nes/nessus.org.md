@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nessus.org privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807071221id_/http%3A//www.tenable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nessus.org privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430160659id_/http%3A//www.tenable.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tenable Network Security
 
