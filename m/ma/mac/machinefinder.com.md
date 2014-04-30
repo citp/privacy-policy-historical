@@ -1,28 +1,31 @@
-> *The following text is extracted and transformed from the machinefinder.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630235135id_/http%3A//www.machinefinder.com/ww/en-US/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinefinder.com privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430090921id_/http%3A//www.machinefinder.com/ww/en-US/privacy) for the most accurate reproduction.*
 
-# John Deere Global Privacy and Data
+# John Deere Privacy and Data US Policies
 
-  * ### Privacy and Data
+  * ##  [Policies and Statements](https://web.archive.org/wps/dcom/privacy_and_data/policies_statements/en_US/data_principles/business_data_commitment.page?)
+
+  * ###  [Privacy and Data](https://web.archive.org/wps/dcom/privacy_and_data/privacy_and_data_us.page?)
 
 
 
 
-[Home](https://web.archive.org/wps/dcom/en_US/regional_home.page) / Privacy and Data
-
-Privacy and Data
+[Policies and Statements](https://web.archive.org/wps/dcom/privacy_and_data/policies_statements/en_US/data_principles/business_data_commitment.page) / Privacy and Data
 
 The Enterprise Privacy Statement tab provides John Deere's global personal information and machine data policy. For a quick overview of this policy, please see the Privacy Summary tab.
 
 While the Enterprise Privacy Statement applies to personal information and machine data globally, additional privacy statements may also apply based upon country location and/or data type. Links to these statements can be found in the Additional Privacy Statements tab.
 
-Finally, the Contact Information tab provides country and an enterprise contacts that can provide additional information on our privacy practices.
+Finally, the Contact Information tab provides country and an enterprise contact that can provide additional information on our privacy practices.
 
-  * Privacy Summary 
-  * Enterprise Privacy Statement 
-  * Additional Privacy Statements 
-  * Contact Information 
+1\. Privacy Summary
 
+2\. Enterprise Privacy Statement
 
+3\. Additional Privacy Statements
+
+4\. Contact Information
+
+##  1 
 
 ## Privacy Summary
 
@@ -54,6 +57,8 @@ For additional information on our privacy practices, please see the "Enterprise 
 
 ### How to Contact Us
 
+ **USA or Canada  
+**  
 Privacy Manager
 
 Center for Global Business Conduct
@@ -66,17 +71,34 @@ Moline, Illinois 61265-8089 USA
 
 [PrivacyManager@JohnDeere.com](mailto:privacymanager@johndeere.com)
 
-**Last Updated: 22 December, 2011**
+ 
+
+ **Canada** For John Deere Canada ULC and all affiliates other than John Deere Financial: 
+
+Chief Privacy Officer  
+John Deere Canada ULC  
+P.O. Box 1000  
+Grimsby, Ontario, L9K 1M3
+
+For John Deere Financial: 
+
+Chief Privacy Officer  
+John Deere Financial  
+1001 Champlain Avenue  
+Suite 401  
+Burlington, Ontario L7L 5Z4 
+
+##  2 
 
 ## Enterprise Privacy Statement
 
-This Privacy Statement explains how John Deere and its controlled affiliates collect, use and disclose Personal Information and Machine Data. This Statement also answers specific questions that you may have regarding the privacy and security of collected information and data. If you have additional questions, please contact us at [PrivacyManager@JohnDeere.com](mailto:privacymanager@johndeere.com).
+This Privacy Statement explains how John Deere and its controlled affiliates collect, use and disclose Personal Information and Machine Data. This Statement also answers specific questions that you may have regarding the privacy and security of collected information and data. If you have additional questions, please contact us at [PrivacyManager@JohnDeere.com](mailto:R2DataPrivacyManager2@JohnDeere.com). 
 
-This Statement applies to Personal Information and Machine Data collected, used and disclosed by John Deere and its controlled affiliates. Additional privacy statements may also apply. For starters, John Deere provides financial and insurance products that generally require the collection of extra Personal Information. Privacy statements related to such products may be accessed in the "Additional Privacy Statements" tab. John Deere and its controlled affiliates around the world may also have additional privacy statements as needed to comply with local laws. Country specific privacy statements may also be found in the "Additional Privacy Statements" tab. Finally, John Deere products are distributed through our network of John Deere dealers and distributors, independently owned and operated businesses, which may have their own privacy policies.
+This Statement applies to Personal Information and Machine Data collected, used and disclosed by John Deere and its controlled affiliates. Additional privacy statements apply. For starters, John Deere provides financial and insurance products that generally require the collection of extra Personal Information. Privacy statements related to such products may be accessed in the "Additional Privacy Statements" tab. John Deere and its controlled affiliates around the world may also have additional privacy statements as needed to comply with local laws. Country specific privacy statements may also be found in the "Additional Privacy Statements" tab. Finally, John Deere products are distributed through our network of John Deere dealers and distributors, independently owned and operated businesses, which may have their own privacy policies.
 
 1.       Types of Information & Data We Collect 
 
-2.       How John Deere Collects Information & Date
+2.       How John Deere Collects Information & Data
 
 3.       How John Deere uses Information & Data (the "Purposes")
 
@@ -110,7 +132,7 @@ This Statement applies to Personal Information and Machine Data collected, used 
 
 John Deere and its controlled affiliates collect "Personal Information" and "Machine Data."
 
-**Personal Information** is information that can be used to identify, locate or contact you. It also includes other information about you that we tie to your Personal Information. John Deere and its controlled affiliates collect the following types of Personal Information:
+**Personal Information** is information that can be used to identify, locate or contact you. It also includes other information about you that we tie to Personal Information. John Deere and its controlled affiliates collect the following types of Personal Information:
 
   * **Contact Information** that allows us to identify and to communicate with you, such as your name, phone number, username, mailing address, email address, and language preference.
   * **Relationship Information** that helps us understand who you are and what you want in order to offer you products and services that may interest you, such as property, farm or business information, your general location, and other demographic information.
@@ -129,7 +151,7 @@ We collect Personal Information directly from you. We will ask you for Personal 
 
 **From Our Controlled Affiliates, Dealers, and Other Business Partners:**
 
-When you purchase or lease a product or obtain financing, we collect Personal Information (e.g. Transaction Information and Financial Account Information) with your consent from our dealers and financial affiliates. We may also collect Personal Information from third parties where you have provided consent (such as when we obtain credit information or need to verify information that you have provided) in order to complete your purchase or grant financing.
+When you purchase or lease a product or obtain financing, we collect Personal Information (e.g. Transaction Information and Financial Account Information) from our dealers and financial affiliates. We may also collect Personal Information from third parties (such as when we obtain credit information or need to verify information that you have provided) in order to complete your purchase or grant financing.
 
 **From Our Website:**
 
@@ -203,7 +225,7 @@ If you have any questions about your choices or if you need any assistance with 
 
 ### 8\. Access and Correction 
 
-John Deere respects your right to access, correct and delete your Personal Information. If you have an online account, you can log into your account to access and update the information you provided to us. Additionally, John Deere complies with applicable law regarding access, correction and deletion. If you need assistance updating or deleting your Personal Information, please contact us via email to [PrivacyManager@JohnDeere.com](mailto:privacymanager@deere.com). You can also write us at the address in the How to Contact Us section below. If you send us a letter, please provide your name, address, email address, and detailed information about the change you would like to make.
+John Deere complies with applicable law regarding your ability to access, correct and delete your Personal Information. If you have an online account, you may be able to log into your account to access and update certain information you provided to us.  If you need assistance updating or deleting your Personal Information, please contact us via email to [PrivacyManager@JohnDeere.com](mailto:privacymanager@deere.com). You can also write us at the address in the How to Contact Us section below. If you send us a letter, please provide your name, address, email address, and detailed information about the change you would like to make.
 
 ### 9\. Information & Data Security
 
@@ -249,28 +271,30 @@ Moline, Illinois 61265-8089 USA
 
 Alternatively, you may visit the "Contact Information" tab for the contact information for the country where you are located.
 
-**Last Updated: 22 December, 2011**
+##  3 
 
 ## Additional Privacy Statements
 
-  1. [John Deere Financial United States Privacy Statement](https://web.archive.org/en_US/docs/html/privacy_footer/jdfinancialusprivacystatement.html)
-    * [Privacy Notice - Multi-use Account](http://www.deere.com/en_US/docs/financial/usa/pdf/multiuseprivacy.pdf)
-    * [Privacy Notice - Revolving Account](http://www.deere.com/en_US/docs/financial/usa/pdf/jdfrpprivacy.pdf)
-    * [Privacy Notice - Installment Account](http://www.deere.com/en_US/docs/financial/usa/pdf/installmentprivacy.pdf)
-    * [Privacy Notice - Budget Billing Account](http://www.deere.com/en_US/docs/financial/usa/pdf/multiuseprivacy.pdf)
+  1. [John Deere Financial United States Privacy Statement](https://web.archive.org/wps/dcom/privacy_and_data/privacy_and_data_us_jdfinancialprivacystatement.page)
+    * [Privacy Notice - Multi-use Account](https://web.archive.org/privacy_and_data/docs/pdfs/multiuse_privacy.pdf)
+    * [Privacy Notice - Revolving Account](https://web.archive.org/privacy_and_data/docs/pdfs/jdfr_privacy.pdf)
+    * [Privacy Notice - Installment Account](https://web.archive.org/privacy_and_data/docs/pdfs/installment_privacy.pdf)
+    * [Privacy Notice - Budget Billing Account](https://web.archive.org/privacy_and_data/docs/pdfs/budgetbilling_privacy.pdf)
   2. Canadian Privacy Statement 
-    * [English](https://web.archive.org/en_US/docs/html/privacy_footer/canadianprivacystatement.html)
+    * [English](https://web.archive.org/wps/dcom/privacy_and_data/privacy_and_data_us_canadianprivacystatement.page)
     * [French  
-](https://web.archive.org/en_US/docs/html/privacy_footer/frenchprivacystatement.html)
-  3. [John Deere Insurance Company Privacy Statement](https://web.archive.org/en_US/docs/html/privacy_footer/jdfinancialriskprotectionprivacystatement.html)
+](https://web.archive.org/wps/dcom/privacy_and_data/privacy_and_data_us_frenchcanadianprivacystatement.page)
+  3. [John Deere Insurance Company Privacy Statement](https://web.archive.org/wps/dcom/privacy_and_data/privacy_and_data_us_jdfinancialriskprotectionprivacystatement.page)
 
 
+
+[Please see other country websites for additional statements](http://www.deere.com/en_US/deerecom/index.html).
+
+##  4 
 
 ## Contact Information
 
-The Privacy Statements explain how John Deere and its controlled affiliates collect, use and disclose Personal Information and Machine Data. If you have any questions or comments, please contact either the Enterprise Privacy Office or a country contact listed below:
-
-| GLOBAL PRIVACY OFFICE:  
+GLOBAL PRIVACY OFFICE:  
 ---  
        Privacy Manager  
        Office of Corporate Compliance  
@@ -282,28 +306,39 @@ The Privacy Statements explain how John Deere and its controlled affiliates col
   
    
 NORTH AMERICA:  
-  
-  * **México/Centroamérica**
+**Canada For John  Deere Canada ULC   
+and all affiliates other than John Deere Financial:  
+**Chief Privacy Officer  
+John Deere Canada ULC  
+P.O. Box 1000  
+Grimsby, Ontario, L9K 1M3  
+Phone:1-905-945-9281  
+Fax: 1-905-945-7311
+
+ **For John  Deere Financial:  
+**Chief Privacy Officer  
+John Deere Financial  
+Suite 401, 1001 Champlain Avenue  
+Burlington, Ontario L7L5Z4  
+Phone: 1-800-321-3766  
+Fax: 1-888-446-1890
+
+ **México/Centroamérica**
 
 Privacy Manager - Mexico   
-Alejandro Ortega.   
-Honey road miles. 6.5 s / no.   
-27400   
-Torreon, Coahuila, Mexico   
-** **
+Alejandro Ortega   
+Blvd. Díaz Ordaz número 500  
+Colonia La Leona, Código Postal 66210  
+San Pedro Garza García, Nuevo León MEXICO
 
-  * **USA/Canada**  
-
-
-Privacy Manager  
+**USA/Canada  
+** Privacy Manager  
 Center for Global Business Conduct  
 Deere & Company  
 One John Deere Place  
 Moline, Illinois 61265-8098 USA
 
-[PrivacyManager@JohnDeere.com](mailto:PrivacyManager@JohnDeere.com)
-
-
+[PrivacyManager@JohnDeere.com](mailto:PrivacyManager@JohnDeere.com)  
   
    
 LATIN AMERICA & CARIBBEAN:  
@@ -314,37 +349,49 @@ LATIN AMERICA & CARIBBEAN:
       Province of Santa Fe – Argentina  
    
 EUROPE:  
-      Deere & Company European Office  
-      Data Protection Officer   
-      John-Deere-Strasse 70  
-      68163 Mannheim, GERMANY 
+     
 
-      Telephone: (0621) 829 - 01   
-      Fax: (0621) 829-45-8300 
+     John Deere GmbH & Co. KG  
+     Region 2 Sales & Marketing Center  
+     Datenschutzbeauftragter  
+     John-Deere-Straße 70  
+     68163 Mannheim, Germany
 
-      [HildebrandtAndreas@JohnDeere.com](mailto:hildebrandtandreas@johndeere.com)  
+     Telephone: +49 621 829 - 01   
+     Fax:  +49 621 829-45-8300
+
+  
+     E-Mail: [R2DataPrivacyManager2@JohnDeere.com](mailto:R2DataPrivacyManager2@JohnDeere.com)  
   
    
 AFRICA:  
-       Privacy Manager  
-       Center for Global Business Conduct  
-       Deere  & Company  
-       One John Deere Place  
-       Moline, Illinois 61265-8098 USA
+Privacy Manager  
+Center for Global Business Conduct  
+Deere  & Company  
+One John Deere Place  
+Moline, Illinois 61265-8098 USA
 
-       [PrivacyManager@JohnDeere.com](mailto:privacymanager@johndeere.com)  
+[PrivacyManager@JohnDeere.com](mailto:privacymanager@johndeere.com)
+
+ **South Africa  
+** Deere & Company European Office  
+Data Protection Officer  
+John-Deere-Strasse 70  
+68163 Mannheim, GERMANY  
+Phone: (0621)829-01  
+Fax: (0621) 829-45-8300  
+[R2DataPrivacyManager2@JohnDeere.com](mailto:R2DataPrivacyManager2@JohnDeere.com)  
   
    
 MIDDLE EAST – Near & Middle East:  
       Deere & Company European Office  
       Data Protection Officer   
       John-Deere-Strasse 70  
-      68163 Mannheim, GERMANY
-
+      68163 Mannheim, Germany  
       Telephone: (0621) 829 - 01   
-      Fax: (0621) 829-45-8300 
+      Fax: (0621) 829-45-8300 
 
-      [HildebrandtAndreas@JohnDeere.com](mailto:hildebrandtandreas@johndeere.com)  
+      [R2DataPrivacyManager2@JohnDeere.com ](mailto:R2DataPrivacyManager2@JohnDeere.com)  
   
    
 ASIA:  
@@ -358,14 +405,26 @@ ASIA:
   
    
 AUSTRALIA & NEW ZEALAND:  
-       John Deere Limited - Head Office  
-       166-170 Magnesium Drive  
-       Deere  & Company  
-       Crestmead, Queensland 4132, AUSTRALIA
+         
+Privacy Officer  
+John Deere Financial Limited  
+166-170 Magnesium Drive  
+CRESTMEAD QLD 4132  
+or  
+PO Box 1544  
+BROWNS PLAINS BC QLD 4118  
+Ph: 1-800-857-057  
+Fax:(07) 3802 3142  
+Email[:23JDFinancial@JohnDeere.com](mailito:23JDFinancial@JohnDeere.com)
 
-       **Australia** :  
-       Free call: 1800 800 981 / Phone: +61 7 3802 3222  
-       **New Zealand** :  
-       Free call: 0800 303 100  
+ John Deere Limited - Head Office  
+166-170 Magnesium Drive  
+Deere  & Company  
+Crestmead, Queensland 4132, AUSTRALIA
+
+ **Australia** :  
+Free call: 1800 800 981 / Phone: +61 7 3802 3222  
+ **New Zealand** :  
+Free call: 0800 303 100  
   
----|---
+**Last Updated:  24 April 2014**
