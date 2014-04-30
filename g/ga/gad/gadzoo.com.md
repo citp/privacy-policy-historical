@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadzoo.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124004325id_/http%3A//www.gadzoo.com/InfoHome.aspx%3Finfo%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadzoo.com privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430032219id_/http%3A//www.gadzoo.com/InfoHome.aspx%3Finfo%3D10) for the most accurate reproduction.*
 
 # Welcome to Gadzoo.com
 
@@ -86,7 +86,7 @@ The security and confidentiality of your Personally Identifiable Information is 
 
 You may modify and correct Personally Identifiable Information provided directly to Gadzoo.com in connection with the Services, if necessary. Gadzoo.com offers users the following options for updating information: 
 
-  1. Send an email to us at [info@Gadzoo.com](https://web.archive.org/web/20131124004325id_/http%3A//www.gadzoo.com/EmailHome.aspx?mode=9); or 
+  1. Send an email to us at [info@Gadzoo.com](https://web.archive.org/web/20140430032219id_/http%3A//www.gadzoo.com/EmailHome.aspx?mode=9); or 
   2. Send a letter to us via postal mail to the following address:  
 Gadzoo.com 820 Davis Street Suite 210 Evanston, IL 60201 Attention: Operations 
 
@@ -94,7 +94,7 @@ Gadzoo.com 820 Davis Street Suite 210 Evanston, IL 60201 Attention: Operations
 
 ### 10\. Opt-Out Procedures
 
-You may opt out of receiving future mailings or other information from Gadzoo.com. If the mailing does not have an email cancellation form, send an email to [info@Gadzoo.com](https://web.archive.org/web/20131124004325id_/http%3A//www.gadzoo.com/EmailHome.aspx?mode=9) detailing the type of information that you no longer wish to receive. 
+You may opt out of receiving future mailings or other information from Gadzoo.com. If the mailing does not have an email cancellation form, send an email to [info@Gadzoo.com](https://web.archive.org/web/20140430032219id_/http%3A//www.gadzoo.com/EmailHome.aspx?mode=9) detailing the type of information that you no longer wish to receive. 
 
 ### 11\. Third Party Advertising and Ad Delivery
 
@@ -109,7 +109,7 @@ We may periodically edit or update this Privacy Policy. We encourage you to revi
 
 ### 13\. Additional Information
 
-Questions regarding the Gadzoo.com Privacy Policy should be directed to [info@Gadzoo.com](https://web.archive.org/web/20131124004325id_/http%3A//www.gadzoo.com/EmailHome.aspx?mode=9) or  
+Questions regarding the Gadzoo.com Privacy Policy should be directed to [info@Gadzoo.com](https://web.archive.org/web/20140430032219id_/http%3A//www.gadzoo.com/EmailHome.aspx?mode=9) or  
 Gadzoo.com 820 Davis Street Suite 210 Evanston, IL 60201 Attention: Operations 
 
 YOUR CALIFORNIA PRIVACY RIGHTS  
@@ -119,4 +119,4 @@ A California resident who has provided personal information to a business with w
 
 Gadzoo.com does not share information with third parties for their direct marketing purposes. If, however, you are accessing this Privacy Policy from one of our Affiliate sites, the privacy policy of our Affiliate will apply to the collection of your information unless the Affiliate’s privacy policy specifically states otherwise. You should review the privacy policy of the Affiliate to understand what information may be collected from you and how it may be used. 
 
-California customers may request further information about our compliance with this law by emailing [info@Gadzoo.com](https://web.archive.org/web/20131124004325id_/http%3A//www.gadzoo.com/EmailHome.aspx?mode=9). 
+California customers may request further information about our compliance with this law by emailing [info@Gadzoo.com](https://web.archive.org/web/20140430032219id_/http%3A//www.gadzoo.com/EmailHome.aspx?mode=9). 
