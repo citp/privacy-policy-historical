@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopguideposts.org privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209043928id_/http%3A//www.shopguideposts.org/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopguideposts.org privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430133125id_/http%3A//www.shopguideposts.org/security) for the most accurate reproduction.*
 
 # Guideposts Security
 
