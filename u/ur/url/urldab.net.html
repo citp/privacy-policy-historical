@@ -1,14 +1,12 @@
-<!--The following is the downloaded HTML source of the urldab.net privacy policy that was archived on 2013-10-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131027132105id_/http%3A//urldab.net/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the urldab.net privacy policy that was archived on 2014-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140430151536id_/http%3A//www.urldab.net/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
-   
 <!-- Page needs
 ================================================== -->
 <meta charset="utf-8"><title>
 	:: URLDAB - Helps you with amazing surveys  ::
 </title>
-    
 <!-- Mobile specific metas
 ================================================== -->
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -86,31 +84,67 @@ zoom: 1;
             .google-search input[type="submit"] {
         border:1px solid #d1d1d1;
         }
+       
     </style>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('a.removedomain').on('click', function () {
+                $('#form-boxes, #form-boxes .login').fadeIn(400);
+            });
+            $('a.close').on('click', function () {
+                $('#form-boxes, #form-boxes .register').fadeOut(150);
+            });
+            $('#remove').click(function () {
+                var url = "/Controls/Default_Controller.aspx?type=analyse&domain=" + $('#txtRemDomain').val();
+                $.post(url, function (data) {
+                    if (data == "1") {
+                        window.location = "/remove_site.aspx?domain=" + $('#txtRemDomain').val();
+                    }
+                    else {
+                        alert("No Information data");
+                    }
+                    
+                });
+                return false;
+            });
+        });
+        
+    </script>
 </head>
 <body>
     <form method="post" action="privacy_policy.html" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="o3YJae+QtByehDCdLFLMG+WGzF7tAY2IwEaUMGVlDVD9tdSgm7Ob0iA0Gk2qHNdjtlflQGVU1gS5iUCtGINnUXGNzNHxf7/OQinSiW9KoiQ6kjaumrlqVtcn3K6Vya/fWI3HJ3GEp6FBwKpfPjL1HaxAUAjRhDfIoGDiZoixxWNFBifuBCMM5ZYsyZbtHSQh+fEyeUugP6i0TaKZ61ChiMO1zRXo4iXYIXFNHH/Yu+e/RhBwr2AhdRF1LeyOfk2wddqRqUq/ZWsP0nS7ihl8ME9UtyVSx9XYNjdUAgsMLg8R3zdo0c7ISNPAmw/0QcS0GaevA7MzGy1L1ru4V23Yn9daDi0LJhNY7S7oyPkDuY64Kyh9zX51jYC3Ypu48kh6kkaouvN/XaPjdp5NmjM953pxev/kuA4rKf+n1oJbiu2B1IsQc8FByu22xrZ9ZrnnMrVlQxFNzQqdPn5HQcPw0Nz46kyS6lzWZqyQ2GSaIFNmWTTIxagSj5L3yQnSqWDvpj89PxuTgI4DPiLWAaxYdvLIscQlvsqu6kcf6jU5zAQRGY3gci34nuYadzAaufMgrgCNxrEKDg6kqirkVgo7i/+u2xDgWa15d3qvVMZUVq4xbpnreUv9krIYt+EFP+YdCl31OpoO3POuSEwUBRvxomLKZLj1ojRa2aFwY+h2aHbz/owZ5GZ9ibtCwYS1q8kzjlFKG+YgNi5aYd6pza8qQl3fzhhevaFCaIaN2aR2VLXf3kglBHTYw9y+KqmR8gDBRiuwV//nuhKCKYks7AGqt4fY8Sv1VMpl1RBxGjP3+OTrbdzF03zJmBtWq1v2RkWw6LjIq124xf2hQkcixHYh4w==">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="K1en/9e6IUgkfEpE1XF1Io/vZ697cj/ZOeXIruVhlapx996e1uXF8hHL8uNp5hWgsonNsINz0aS5CgqloTLazX+pcA7nHeULHGYUzi2ygMRAopHOAGegL1cswZrKNeUuSyFeFk/pCr5S7EkDcWCaZxbexFdBJWKX56dHfBTIMkMDbxm9M8vpC43YlLlPr6kTydewLnbZYhpmUuUnFaURiMOPsyONGohwt+ZSYyWrXV1X+8Dif8VzWhgmNIKfT13ax/68Y0y9rTwkqxo82LYDJZKr8+g7ln8vjNRfggtTTCl8Mgqe9uTMavM3mc+jccgRJcCS1a1f5G/fa7MMQlVfG6SfxFGvPV+RTiE15qIZzL/0m5B8maFiHNARvOIxsr52ilhjCqUySLNB/Han7rDShvvIfFWIztkVqUiDZRRvIp0l5LBE3qyXHi0xsvnmx7kinVw7Kx4Omj6RMDqTSDnrGABngP7HQR1xUrILswZZxis6WSY19IdI7dyqUZ0/AWN1kkZGFmD1t5OmGci0BHE36LpStutmbCqqOTQK8xmDntQSTALiT2xIkcyUBzHozu4079wZlFzbG+e1IVzrdyPnMONJt37D3msnOw6o1eXs3Hl4CnizNdEuS5TNhd7T2ic4N8MRgztDwEMf912O3e3i4fHKIqy2KVBbqkTgK3MjYt0T25GHI4IvUfxX9MNT4zZyoSCztb8fd8DJFtpSbZsr31VYXymvXv6f89NK0knNe3IrgNSK30MtKDVTESXIglzRBIaQ4wqkR/yb8adjJiZ+Q9W9yFn7uiYfXBKqpfyx235hmUxYAbURxBGLZlWI7L/FOLKNBwMYDCUAlmIRH4CUX712ANlIOxNes+ienEEtLjVwodykynP4YYMRXymkHRlIqtjnRO6PWY3e6UczBqYE/Q==">
+</div>
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="HQGPuSz9KaADCj9or3fpafCgSA9mo7DdMUl6bOdrxbwTW4QJ7eRqjkEuT4zH814zO6cEXzZAanP6EIwN6KzaI1mCW54kyl8vN0nFx+zFvMdERoSPys//TiR/nwcLiu2qwXqSLCq7n43jRK7ijNBHDA==">
-        
+        <div id="form-boxes" class="form-wrapper">
+            <div class="form-box login" style="top: 213px; left: 624px;z-index:999999;position:fixed;height:190px;">
+		        <div class="title"><h2>Remove Site</h2> <a class="close" href="#"></a></div>
+		        <div class="inpts">
+			        <ul>
+				        <li><label>Domain</label><input type="text" placeholder="Must be an domain" id="txtRemDomain"></li>
+				        <li class="f-right"><input type="submit" class="submit-btn" id="remove" value="Remove"></li>
+			        </ul>
+		        </div>
+	        </div>
+            <div style="position:fixed;background-color:#444;opacity:0.7;top:0;right:0;bottom:0;left:0;"></div>
+        </div>
 <!-- Header -->
 <header id="header">
 	
 	<div class="menu-wrapper">
 		<div class="container clearfix">
-			<div class="logo"><a href="/"><img src="/images/urldab-logo.png" alt="urldab-logo"></a></div>
+			<div class="logo"><a href="/"><img src="/images/urldab-logo.png" alt="urldab-logo" id="sitelogo"></a></div>
 			<nav id="navigation">
 				<ul style="float:left;">
 					<li><a href="/">Home</a></li>
                     
-                    
 					<li><a href="/moderators.html">Moderators</a></li>
-					<li><a href="/countries.html">Regional Pages</a></li>
+					<li><a href="/regional_pages">Regional Pages</a></li>
 					<li><a href="/about.html">About URL Dab</a></li>
-                    <li><a href="/privacy_policy.html">Privacy Policy </a></li>
 					<li><a href="/contact.html">Contact</a></li>
-                    <li><a href="/newdomain.html" class="addsite">Add Site</a> <span style="color:#FFF;">/</span> <a href="/newdomain.html" class="addsite">Remove Site</a> </li>
+                    <li><a href="/newdomain.html" class="addsite">Add Site</a> <span style="color:#FFF;">/</span> 
+                        <a class="removedomain" style="cursor:pointer;">Remove Site</a> </li>
                     <li><a href="/login.html">Login</a></li>
                     
 			
@@ -121,8 +155,127 @@ zoom: 1;
 	
 </header>
 <!-- Header. -->
-        
-        
+   
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $('.top-check-list li').click(function () {
+                    $('.loading').css("display", "none");
+                    $('.tab-phone-iframe').css("display", "none");
+                    $('.default-query').css("display", "none");
+                    $('.top-check-list li.chc input').removeAttr("checked");
+                    $('.top-check-list li.chc').removeClass("chc");
+                    $(this).addClass("chc");
+                    $('.top-check-list li.chc input').attr("checked", "checked");
+
+                    var val = $(this).attr("val");
+                    var btnText = "";
+                    var txtText = "";
+                    if (val == "analyse") {
+                        btnText = "Analyse";
+                        txtText = "Enter the Domain for Website Analyse";
+                    }
+                    else if (val == "resolution") {
+                        btnText = "Resolution";
+                        txtText = "Enter the Domain for Website Mobile Resolution";
+                    }
+                    else if (val == "alexa-inf") {
+                        btnText = "Alexa Information";
+                        txtText = "Enter the Domain for Alexa Information";
+                    }
+                    else if (val == "add") {
+                        btnText = "Add Site";
+                        txtText = "Enter the Domain for Add Website";
+                    }
+                    $('#txtsearch').attr("placeholder", txtText);
+                    $('#searchBtn').val(btnText);
+
+                });
+
+                $('#searchBtn').click(function () {
+                    
+                    $('.loading').css("display", "block");
+                    $('.tab-phone-iframe').css("display", "none");
+                    $('.default-query').css("display", "block");
+                    var type = $('.top-check-list li.chc').attr("val");
+                    $('.res-content').html("");
+                    
+                    var html = "";
+                    var domain = $('#txtsearch').val();
+
+                    if (type == "resolution") {
+
+                        $('.tab-phone-iframe').css("display", "block");
+                        html = '<div class="icons-tab-phone">';
+                        html += '<img src="/images/icon-phone-y.png" onclick="resolution(\'phone-y\')" /> ';
+                        html += '<img src="/images/icon-phone-x.png" onclick="resolution(\'phone-x\')" /> ';
+                        html += '<img src="/images/icon-tablet-y.png" onclick="resolution(\'tab-y\')" /> ';
+
+                        html += '</div>';
+                        $('.tab-phone-iframe iframe').attr("src", "http://" + domain);
+                        resolution("phone-y");
+                        $('.res-content').html(html);
+                        $('.loading').css("display", "none");
+                    }
+                    else {
+                        var url = "/Controls/Default_Controller.aspx?type=" + type + "&domain=" + domain;
+                        $.post(url, function (data) {                            
+
+                            if (type == "analyse") {
+                                if (data == 1) { window.location = "/www." + domain; }
+                                else {
+                                    html += '<div style="font-size:16px;text-align:center;">The <b>' + domain + '</b> domain has not been added yet. To add this domain, please use the <a href="/newdomain.html" style="color:red;font-weight:bold;">Add Site</a> page.';
+                                }
+                            }
+                            else if (type == "alexa-inf") {
+
+                                html = data;
+
+                            }
+
+                            $('.res-content').html(html);
+                            $('.loading').css("display", "none");
+                        });
+                    }
+                    return false;
+                });
+            });
+            function resolution(type)
+            {
+                /*
+
+Bilgisayar Ekranı ve Yatay Tablet Çözünürlüğü: 1024 pixel ve üstü
+Dikey Tablet Ekran Çöznürlüğü: 768px – 1023 pixel
+Dikey Telefon Ekran Çözünürlüğü: 479 pixel’den küçük
+Telefonların Yatay Ekran Çözünürlüğü: 480×767 pixel
+
+*/
+                
+                var width = "";
+                var height = "";
+                if (type == "tab-y") {
+                    $('.tab-phone-iframe').addClass("tablet-y-back");
+                    $('.tab-phone-iframe').removeClass("phone-y-back");
+                    $('.tab-phone-iframe').removeClass("phone-x-back");
+                    
+                }
+                else if (type == "tab-x") {
+                    width = "100%";
+                    height = "560px";
+                }
+                else if (type == "phone-y") {
+                    $('.tab-phone-iframe').addClass("phone-y-back");
+                    $('.tab-phone-iframe').removeClass("phone-x-back");
+                    $('.tab-phone-iframe').removeClass("tablet-y-back");
+                }
+                else if (type == "phone-x") {
+                    $('.tab-phone-iframe').removeClass("phone-y-back");
+                    $('.tab-phone-iframe').addClass("phone-x-back");
+                    $('.tab-phone-iframe').removeClass("tablet-y-back");
+                }
+                
+            }
+        </script>     
+           
 <!-- Content -->
 <div class="content">
 	<div class="container clearfix ">
@@ -131,15 +284,28 @@ zoom: 1;
         <!-- Search area -->
 		<div class="box-shadow">
 			<div class="top-line yellow"></div>
-			<div class="content searchoradd">
-				<div class="search-logo"><img src="/images/logo.png" alt="urldab-logo"></div>
-				<div class="search-or-add">
-    <input name="ctl00$txtsearch" type="text" id="txtsearch" class="searchit" placeholder="Search or Add URL">
-    <input type="submit" name="ctl00$searchBtn" value="Search or Add URL" id="searchBtn" class="submitit f-right">
+			<div class="content searchoradd" style="margin-bottom:25px;">
+				
+				<div class="search-or-add" style="margin-left:110px;">
+    <input type="text" class="searchit" id="txtsearch" name="txtsearch" placeholder="Enter the Domain for Website Analyse">
+<input type="submit" class="submitit" id="searchBtn" value="Analyse" name="searchBtn" style="margin-left:5px;">
+    
 				</div>
 			</div>
+            <div class="default-query">
+                <img src="/images/loadingBar.gif" style="width:200px;margin-left:auto;margin-right:auto;" class="loading">
+                <div class="res-content">
+
+                </div>
+                <div class="tab-phone-iframe">
+                    <div>
+                    <iframe src="" style="border:1px solid #D9D9D9;box-shadow: 0 0 4px #B5B5B5;background-color:#FFF;"></iframe> 
+                    </div>
+                </div>
+            </div>
 		</div>
 		<!-- Search area. -->
+        
         
     <h1>Privacy Policy</h1>
     <div class="simple_pp">
@@ -333,23 +499,23 @@ Definitions and legal references
                 
                         <li>
                             
-						<p></p><p>People now all over the world are looking for an easy, and reliable online shop and classified ad...</p>
-						<span class="date">8/4/2013</span>
-						<a href="/www.gumtree.com.sg" class="user-link">gumtree.com.sg</a><span style="float:right; margin-left:5px; margin-right:5px; font-size:12px;"> &gt; </span><a href="/moderators/celine-nemesis.html" class="user-link">Celine Nemesis</a>
+						<p>The website has been developed for the people who love Indian music. The site is just wonderful with...</p>
+						<span class="date">3/13/2014</span>
+						<a href="/www.downloadming.com" class="user-link">downloadming.com</a><span style="float:right; margin-left:5px; margin-right:5px; font-size:12px;"> &gt; </span><a href="/moderators/katie-cunningham.html" class="user-link">Katie Cunningham</a>
 					</li>
                     
                         <li>
                             
-						<p>It appears to be a site where in users get awarded in the terms of money, just by accomplishing task...</p>
-						<span class="date">8/4/2013</span>
-						<a href="/www.neobux.com" class="user-link">neobux.com</a><span style="float:right; margin-left:5px; margin-right:5px; font-size:12px;"> &gt; </span><a href="/moderators/patrick-michaud.html" class="user-link">Patrick Michaud</a>
+						<p>To watch online your favorite movies, TV shows, music videos www.letmewatchthis.ch is the best optio...</p>
+						<span class="date">3/13/2014</span>
+						<a href="/www.letmewatchthis.ch" class="user-link">letmewatchthis.ch</a><span style="float:right; margin-left:5px; margin-right:5px; font-size:12px;"> &gt; </span><a href="/moderators/patrick-michaud.html" class="user-link">Patrick Michaud</a>
 					</li>
                     
                         <li>
                             
-						<p>A Russian Web Design Studio page and very successfull one with PR 6. They have a unique style and cr...</p>
-						<span class="date">7/17/2013</span>
-						<a href="/www.art.su" class="user-link">art.su</a><span style="float:right; margin-left:5px; margin-right:5px; font-size:12px;"> &gt; </span><a href="/moderators/sandra-tutlyte.html" class="user-link">Sandra Tutlyte</a>
+						<p>As the website title clearly states that this website provides for Tamils who are looking to downloa...</p>
+						<span class="date">3/13/2014</span>
+						<a href="/www.pinguda.com" class="user-link">pinguda.com</a><span style="float:right; margin-left:5px; margin-right:5px; font-size:12px;"> &gt; </span><a href="/moderators/francisco-marques.html" class="user-link">Francisco Marques</a>
 					</li>
                     
 				</ul>
