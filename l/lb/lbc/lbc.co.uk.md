@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lbc.co.uk privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230110117id_/http%3A//www.lbc.co.uk/privacy-policy-3553) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbc.co.uk privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430090514id_/http%3A//www.lbc.co.uk/privacy-policy-3553) for the most accurate reproduction.*
 
 # Global Radio Privacy Policy | LBC
 
