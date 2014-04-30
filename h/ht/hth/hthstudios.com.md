@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hthstudios.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130074929id_/http%3A//www.hthstudios.com/index.php/component/content/article%3Fid%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hthstudios.com privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430064448id_/http%3A//www.hthstudios.com/index.php/component/content/article%3Fid%3D9) for the most accurate reproduction.*
 
 # HTH Studios
 
