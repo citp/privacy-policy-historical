@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicteachershelper.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111090809id_/http%3A//www.musicteachershelper.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicteachershelper.com privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430091131id_/http%3A//www.musicteachershelper.com/privacy) for the most accurate reproduction.*
 
 # Music Teacher's Helper: easy software to manage your music teaching studio
 
@@ -24,22 +24,22 @@ If you have concerns about your privacy with the Music Teacher's Helper Web site
 
 ### User Testimonials
 
-  * [](http://www.musicteachershelper.com/testimonials#)
+  * [](https://www.musicteachershelper.com/testimonials#)
 
 > "Music Teacher's Helper has been a fantastic time saving solution for my teaching business!! It has enabled me to streamline and automate almost everything I used to do manually. "
 
 – **Carmen Hillary** , Victoria, BC
-  * [](http://www.musicteachershelper.com/testimonials#)
+  * [](https://www.musicteachershelper.com/testimonials#)
 
 > "Music Teacher's Helper has taken the place of a secretary for me. I do not know what I would do with out all the wonderful features. And I can't begin to tell how many compliments I have had on my web page."
 
 – **Sherry Miller** , Middletown, DE
-  * [](http://www.musicteachershelper.com/testimonials#)
+  * [](https://www.musicteachershelper.com/testimonials#)
 
 > "This is one of the best things I've done for my business. I can now concentrate more on teaching and let the program take care of the business side of things!"
 
 – **Don Parkhurst, Jr.** , Lebanon, CT
-  * [](http://www.musicteachershelper.com/testimonials#)
+  * [](https://www.musicteachershelper.com/testimonials#)
 
 > "Everything that MTH offers: the website, the invoicing, the online payments... has greatly contributed to the success of my studio! It has brought a level of professionalism, that has resulted in the trust and confidence of the parents, which is absolutely invaluable to me as a teacher!"
 
@@ -47,4 +47,4 @@ If you have concerns about your privacy with the Music Teacher's Helper Web site
 
 
 
-[__See More Testimonials](http://www.musicteachershelper.com/testimonials)
+[__See More Testimonials](https://www.musicteachershelper.com/testimonials)
