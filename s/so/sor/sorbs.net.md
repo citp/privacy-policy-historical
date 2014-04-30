@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sorbs.net privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124071832id_/http%3A//www.sorbs.net/w3c/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sorbs.net privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430075859id_/http%3A//www.sorbs.net/w3c/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
