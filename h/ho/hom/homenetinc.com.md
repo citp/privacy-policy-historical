@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homenetinc.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228224811id_/http%3A//www.homenetauto.com/privacy-statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homenetinc.com privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430234351id_/http%3A//www.homenetauto.com/privacy-statement.asp) for the most accurate reproduction.*
 
 # HomeNet Automotive | Online vehicle marketing solutions for automobile dealerships
 
