@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the txstate.edu privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230063310id_/http%3A//www.tr.txstate.edu/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txstate.edu privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430051720id_/http%3A//www.tr.txstate.edu/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement : Technology Resources : Texas State University
 
@@ -9,6 +9,14 @@
 A "cookie" is a small file containing information that is placed on a user’s computer by a web server. Typically, these files are used to enhance the user’s experience of the site, to help users move between pages in a database, or to customize information for a user.
 
 Any information that Texas State University webservers may store in cookies is used for internal purposes only. Cookie data is not used in any way that would disclose personally identifiable information to outside parties unless legally required to do so in connection with law enforcement investigations or other legal proceedings. 
+
+Texas State University uses Google Analytics to gather user-data to improve the performance and use of our website.
+
+  * The Google Analytics features Texas State implemented are based on Display Advertising - Google Analytics Demographics and Interest Reporting.
+  * Using the [Ads Settings](https://www.google.com/settings/ads), visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. Website visitors can also install the[ Google Analytics Opt-out Browser Add-on.](https://tools.google.com/dlpage/gaoptout/)
+  * Texas State University does not facilitate the merging of personally-identifiable information with non-personally identifiable information previously collected from Display Advertising features that are based on the DoubleClick cookie.
+
+
 
 **II. Logs and Network Monitoring**
 
