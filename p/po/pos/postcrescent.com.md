@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the postcrescent.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630235530id_/http%3A//www.postcrescent.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcrescent.com privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430090757id_/http%3A//www.postcrescent.com/section/privacy) for the most accurate reproduction.*
 
-# PRIVACY | Appleton Post-Crescent | postcrescent.com
+# privacy | Post-Crescent Media | postcrescent.com
 
 Last Updated: January 3, 2013
 
@@ -122,7 +122,7 @@ Become a subscriber today to enjoy these benefits:
 
 
 
-[View subscription options](https://web.archive.org/section/subscription-options?gps-source=CPPWOPT)
+[View subscription options](http://subscribe.postcrescent.com/?gps-source=CPPWOPT)
 
 ## You now have full access.
 
