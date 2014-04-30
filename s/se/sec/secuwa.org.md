@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the secuwa.org privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229055338id_/http%3A//www.schoolemployeescu.org/privacy-policy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secuwa.org privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430024446id_/http%3A//www.schoolemployeescu.org/privacy-policy-security.html) for the most accurate reproduction.*
 
 # Privacy Policy & Security | School Employees Credit Union of Washington | Seattle - Spokane
 
 [**Download printable version of Privacy Policy**](https://web.archive.org/custom/fi/schoolemployeescu/fb/disclosure/Privacy-Policy.pdf) **.**
 
- **Our goal is to protect School Employees Credit Union** and its membership. **We recommend you always double-check your account activity through Online Banking** for any unusual transactions and notify us immediately of any suspicious activity. If you have any questions, please contact us at 206-628-4010 or 1-888-628-4010.
+[ **View our informational videos on a variety of security topics.**](http://www.secuwa.org/mstinc/grp/security_page/)
+
+ **Our goal is to protect School Employees Credit Union** **and its membership**. **We recommend you always double-check your account activity through Online Banking** for any unusual transactions and notify us immediately of any suspicious activity. If you have any questions, please contact us at 206-628-4010 or 1-888-628-4010.
 
  **PLEASE NOTE:** No employee of School Employees Credit Union of Washington will ever call you and ask for any credit union account numbers or associated passwords (PINs). Should you receive such a call, **do not** divulge any information and contact us immediately.
 
