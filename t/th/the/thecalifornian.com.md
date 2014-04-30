@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thecalifornian.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230233908id_/http%3A//www.thecalifornian.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecalifornian.com privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430135753id_/http%3A//www.thecalifornian.com/section/privacy) for the most accurate reproduction.*
 
-# PRIVACY | The Salinas Californian | thecalifornian.com
+# privacy | The Salinas Californian | thecalifornian.com
 
 Last Updated: January 3, 2013
 
@@ -122,7 +122,7 @@ Become a subscriber today to enjoy these benefits:
 
 
 
-[View subscription options](https://web.archive.org/section/subscription-options&gps-source=CPPWOPT)
+[View subscription options](http://subscribe.thecalifornian.com/?gps-source=CPPWOPT)
 
 ## You now have full access.
 
