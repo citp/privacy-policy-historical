@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logmycalls.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806201100id_/http%3A//www.logmycalls.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logmycalls.com privacy policy that was archived on 2014-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140501125316id_/http%3A//www.logmycalls.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,10 +8,15 @@ We invite you to contact us if you have questions about this policy. You may con
     
     
     ContactPoint LLC
+    
     1664 S. Dixie Dr.
+    
     Suite H-106
+    
     St. George, UT 84770 
+    
     USA
+    
     
 
 You may contact us by e-mail at [support@contactpointsolutions.com](mailto:support@contactpointsolutions.com). You may call us at 866-468-0900. 
@@ -128,6 +133,7 @@ The compact policy which corresponds to this policy is:
     
     
         CP="CAO CURa ADMa DEVa TAIa CONa OUR DELa BUS IND PHY ONL UNI COM NAV INT DEM PRE"
+    
     
 
 The following table explains the meaning of each field in the compact policy.
