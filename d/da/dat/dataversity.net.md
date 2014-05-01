@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dataversity.net privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230035650id_/http%3A//www.dataversity.net/about-dataversity-net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dataversity.net privacy policy that was archived on 2014-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140501141322id_/http%3A//www.dataversity.net/about-dataversity-net/privacy-policy) for the most accurate reproduction.*
 
 # DATAVERSITY Privacy Policy | DATAVERSITY
 
