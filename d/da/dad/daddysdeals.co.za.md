@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daddysdeals.co.za privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231000747id_/http%3A//www.daddysdeals.co.za/frontend/pages/page/2/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daddysdeals.co.za privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502000518id_/http%3A//www.daddysdeals.co.za/frontend/pages/page/2/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Daddy's Deals
 
@@ -16,7 +16,7 @@
 
 1.2.5 non-personal browsing habits and click patterns;
 
-1.2.6 preferences regarding voucher offers;
+1.2.6 preferences regarding Daddy's Deal offers;
 
 1.2.7 IP address.
 
