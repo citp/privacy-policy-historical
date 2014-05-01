@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamberry.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930160153id_/http%3A//www.jamberrynails.net/assets/pdf/JamberryPrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamberry.com privacy policy that was archived on 2014-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140501090326id_/http%3A//www.jamberrynails.net/assets/pdf/JamberryPrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # 
 
