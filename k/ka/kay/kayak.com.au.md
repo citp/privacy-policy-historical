@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kayak.com.au privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231083425id_/http%3A//www.kayak.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayak.com.au privacy policy that was archived on 2014-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140501200820id_/http%3A//www.kayak.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - KAYAK
 
@@ -102,8 +102,8 @@ Or in writing to:
 
 KAYAK Software Corporation  
 attn Privacy Officer  
-55 North Water Street, Suite 1  
-Norwalk, CT 06854  
+7 Market Street  
+Stamford, CT 06902  
 USA
 
 KAYAK Software Corporation is the controller of your Personal Information.
