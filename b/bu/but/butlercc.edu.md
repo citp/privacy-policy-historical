@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the butlercc.edu privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204052817id_/http%3A//www.butlercc.edu/parts/PrivacyStatement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the butlercc.edu privacy policy that was archived on 2014-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140501182127id_/http%3A//www.butlercc.edu/parts/PrivacyStatement.pdf) for the most accurate reproduction.*
 
 # Privacy Statement
 
