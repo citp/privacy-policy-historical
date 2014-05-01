@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlekarma.com privacy policy that was archived on 2012-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120418071526id_/http%3A//articlekarma.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlekarma.com privacy policy that was archived on 2014-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140501132154id_/http%3A//articlekarma.com/privacy.php) for the most accurate reproduction.*
 
 # Article Karma Directory
 
