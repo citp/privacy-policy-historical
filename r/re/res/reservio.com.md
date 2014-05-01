@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reservio.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231131927id_/http%3A//www.reservio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reservio.com privacy policy that was archived on 2014-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140501125755id_/http%3A//www.reservio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Reservio
 
