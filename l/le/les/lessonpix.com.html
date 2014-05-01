@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the lessonpix.com privacy policy that was archived on 2013-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630055442id_/http%3A//lessonpix.com/articles/11/26/LessonPix%2BPrivacy%2BPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lessonpix.com privacy policy that was archived on 2014-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140502014156id_/http%3A//lessonpix.com/articles/11/26/LessonPix%2BPrivacy%2BPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html class=" webkit chrome linux js"><head>
 <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+<meta property="twitter:account_id" content="135556146">
 <meta name="google-site-verification" content="rZEQPD3gaU-hLCTigQuK6DilfHKMsWjh1FOpgTZ-58c">
 <title>LessonPix Privacy Policy</title>
   <link rel="stylesheet" href="/cssCG/reset.css" type="text/css">
@@ -10,7 +11,7 @@
   <link rel="stylesheet" href="/css/actionButtons.css" type="text/css">
   <link rel="stylesheet" href="/cssCG/forum.css" type="text/css">
   <link rel="stylesheet" type="text/css" href="/css/jquery.selectbox.css">
-  <link rel="stylesheet" href="/cssCG/main3.css" type="text/css">
+  <link rel="stylesheet" href="/cssCG/main.css" type="text/css">
   <link rel="stylesheet" href="/css/star_rating.css" type="text/css">
   <link rel="stylesheet" href="/cssCG/dash.css" type="text/css">
   <link rel="stylesheet" href="/cssCG/home.css" type="text/css">
@@ -33,25 +34,21 @@
 
 <!-- CDN Test -->
 
+<!--
+  <script type="text/javascript" src="/min/?g=headerJS"></script>
+-->
+
   <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/jquery-1.9.1.js"></script>
   <script type="text/javascript" src="/js/jquery-ui.js"></script>
 
   <script type="text/javascript" src="/js/jquery.colourPicker.js"></script>
-  <script type="text/javascript">// <![CDATA[
-
-
-  // HOTFIX: We can't upgrade to jQuery UI 1.8.6 (yet)
-  // This hotfix makes older versions of jQuery UI drag-and-drop work in IE9
-  //  (function($){var a=$.ui.mouse.prototype._mouseMove;$.ui.mouse.prototype._mouseMove=function(b){if($.browser.msie&&document.documentMode>=9){b.button=1};a.apply(this,[b]);}}(jQuery));
-// ]]>
-</script>
   <script type="text/javascript" src="/js/jquery-numeric/jquery-ui-numeric.js"></script>
   <script type="text/javascript" src="/js/jquery.selectbox.js"></script>
 
   <script type="text/javascript" src="/jsCG/jquery.js"></script>
   <script type="text/javascript" src="/jsCG/global.js"></script>
   <script src="/jsCG/css_browser_selector.js" type="text/javascript"></script>
-  
+
   
 
 <script type="text/javascript">
@@ -291,11 +288,10 @@ ga('send', 'pageview');
        $('.spinner').numeric({emptyValue: false, minValue:0, increment: 1, largeIncement:5});
        $('#imageBox tbody').sortable({axis: 'y', cursor: 'move', opacity: 0.6, helper: fixHelper, handle: 'img.moveImg'});
        $('#imageBox .copyImg').on('click', function(evt){ 
-	   $('.spinner').numeric('destroy');
 	   var row = $(this).closest('tr'); 
-	   var newRow = row.clone(false);
-	   newRow.insertAfter(row);
-	   $('.spinner').numeric({emptyValue: false, minValue:0, increment: 1, largeIncement:5});
+	   	   var newRow = row.clone(false);
+		   //	   	   var newPicCell = newRow.find('td')[0];
+	   	   newRow.insertAfter(row);
 	 });
        $('#imageBox .delImg').on('click',function(evt){ 
 	   var row = $(this).closest('tr'); 
@@ -439,10 +435,8 @@ ga('send', 'pageview');
 
 
 <!-- RSS Feed links -->
-<link rel="alternate" type="application/rss+xml" title="LessonPix: Latest Pictures for Classroom Use" href="http://lessonpix.com/newImageFeed.php">
-<!--
-<link rel="alternate" type="application/rss+xml" title="LessonPix: Latest Forum Posts" href="http://lessonpix.com/newPostFeed.php"/>
--->
+<link rel="alternate" type="application/rss+xml" title="LessonPix: Latest Pictures for Classroom Use" href="http://lessonpix.com/feeds/images.rss">
+<link rel="alternate" type="application/rss+xml" title="LessonPix: Recent Shared Materials in the Sharing Center" href="http://lessonpix.com/feeds/shares.rss">
 
 <script type="text/javascript">
   /* It's possible that _gaq has already been setup with transaction info */
