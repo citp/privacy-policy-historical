@@ -1,43 +1,84 @@
-> *The following text is extracted and transformed from the adgooroo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217133527id_/http%3A//www.adgooroo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adgooroo.com privacy policy that was archived on 2014-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140501104711id_/http%3A//www.adgooroo.com/privacy-policy) for the most accurate reproduction.*
 
-# AdGooroo Privacy Policy
+# AdGooroo Privacy Policy | Adgooroo
 
-Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. 
+### Last updated: February 21, 2013
 
-**What Information Do We Collect?**
+The following Privacy Policy for AdGooroo, a division of Competitive Media Reporting, LLC (hereafter “AdGooroo”), is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
 
-When you visit the AdGooroo.com website you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse the AdGooroo.com website. 
+This privacy policy applies solely to the Web site pages located at www.AdGooroo.com and the Insight web applications located at industry.adgooroo.com and app.adgooroo.com (hereafter collectively the “Site”). It does not apply to any other products or services provided by AdGooroo or any other party.
 
-**Personal Information You Choose to Provide**
+**Information Collection**
 
-**Registration Information**
+****AdGooroo collects personally identifiable information from our users of this Site in certain sections of the Site, such as our Contact Us forms, Webinar sign-up forms, and Whitepaper download forms. Typically the information collected is name, company, email address, and phone number.
 
-You will provide us information about yourself, your firm or company, and your practices when you subscribe to the AdGooroo Services. You may also provide additional comments on how you see AdGooroo servicing your needs and interests. 
+If you submit a resume or otherwise seek employment with AdGooroo, we may collect your employment and professional history.
 
-**Email Information**
+We also collect non-personally identifiable information via various tracking utilities, as described below.
 
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. 
+**Information Use**
 
-**Web Site Use Information**
+We will use this information only as described below. We do not otherwise sell your personally identifiable information to third parties.
 
-Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how the AdGooroo.com website is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at the AdGooroo.com website, and the Web sites visited just before and just after our Web site. We, our advertisers and ad serving companies may also use small pieces of code called web beacons or clear gifs to determine which advertisements and promotions users have seen and how users responded to them. 
+  * For those users who provide an email address and phone number, we may communicate with you in response to your inquiries, to provide the services you request, to provide you information about AdGooroo’s products and services and to add you to our newsletter and marketing lists.
+  * If you are inquiring about employment with AdGooroo, we may use and disclose your information in consideration of your application.
+  * We may provide your personal information to companies that provide services to help us with our business activities such as offering customer service or marketing resources. These companies are authorized to use your personal information only as necessary to provide these services to us.
+  * We may send you service-related announcements.
+  * We may also disclose your personally identifiable information as required by law, such as to comply with a subpoena, or similar legal process or when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
+  * Your personally identifiable information may be transferred if AdGooroo is involved in a merger, acquisition, or sale of all or a portion of its assets.
+  * The site and services made available through AdGooroo are not intended for children under the age of 13. AdGooroo does not knowingly or specifically collect information about children under the age of 13 and believes that children of any age should get their parent’s consent before giving out any personal information.
 
-**How Do We Use the Information That You Provide to Us?**
 
-Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing subscriber service and making available other products and services to our subscribers and prospective subscribers. Occasionally, we may also use the information we collect to notify you about important changes to the AdGooroo.com website, new services and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at customersupport@adgooroo.com or visiting <http://www.adgooroo.com/unsubscribe.php>.
 
-**What Are Cookies?**
+Personally identifiable information which you voluntarily disclose online in a publicly accessible blog, chat room, social media platform or other open forum, may be viewed and used by others without any restrictions. We may associate your name and website with your comments on our blog, but we are unable to control uses of your personally identifiable information by other users who see your information, and by using such services you assume the risk that the personally identifiable information provided by you may be viewed and used by third parties for any number of purposes.
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. 
+**Opt-Out**
 
-**How Do We Use Information We Collect from Cookies?**
+If you no longer wish to receive email communications from AdGooroo as described above, you may opt-out by following the directions that are included in each email communication. You may also contact us at customersupport@adgooroo.com for assistance.
 
-As you visit on our Web site, the site uses its cookies to differentiate you from other visitors so your information is only available to you. In some cases, we also use cookies to prevent you from seeing unnecessary advertisements or requiring you to log in more than is necessary for security. Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting the AdGooroo.com website and which parts of the site are most popular. This helps us gather feedback in order to constantly improve the AdGooroo.com website and better serve our subscribers. Cookies do not allow us to gather any personal information about you and we do not generally store any personal information that you provided to us in your cookies.
+**Links to Other Sites**
 
-**Sharing Information with Third Parties**
+If you visit a third party website that is linked from this Site, you should read that site’s privacy policy before providing any personally identifiable information. We are not responsible for the practices of such third party websites, and a link to such website is not an endorsement by AdGooroo of such website’s privacy practices, products or services.
 
-We may enter into alliances, partnerships or other business arrangements with third parties who may be given access to personal information including your name, address, telephone number and email for the purpose of providing you information regarding products and services that we think will be of interest to you. In connection with alliances, partnerships or arrangements, we may also provide certain information to third parties if we have determined that the information will be used in a responsible manner by a responsible third party. For example, some of our partners operate stores or provide services on our site, while others power offerings developed by us for your use. We also use third parties to facilitate our business, including, but not limited to, sending email and processing credit card payments. In connection with these offerings and business operations, our partners and other third parties may have access to your personal information for use in connection with business activities. As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or any dissolution.
+**Tracking Utilities**
 
-**Notice of New Services and Changes**
+Log Files: As is true of most Web sites, we gather certain information automatically and store it in log files. This information is related to the use of this Site and services and includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
-Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As subscriber, you will be given the opportunity to notify us of your desire not to receive these offers by sending us an email request at [unsubscribe@adgooroo.com](mailto:unsubscribe@adgooroo.com).
+We use this information to analyze trends, to administer the Site, to track users’ movements around the Site and to gather demographic information about our user base as a whole.
+
+Cookies: We may collect certain non-personally identifiable information in part through the use of a web technology called a “cookie.” A cookie is a small text file that is saved to your computer using your web browser, which allows websites to recognize you and store preferences and other information if you return to the website using the same computer and browser.
+
+We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our Site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file, or click here for more information on cookies.
+
+**Web Beacons**
+
+We employ, and our third party analytics companies employ, a software technology called Web Beacons. Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used on this site to track the online movements of our site users. Web beacons are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. Web beacons may set cookies or interact with cookies on user’s computers. We use Web beacons in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see the “Opt-out” section above. We utilize certain third-party tracking services that deploy web beacons (and cookies) to track non-personally identifiable information about visitors to our Site in the aggregate to capture usage and volume statistics to improve our Site.
+
+**Security**
+
+We have put in place reasonable administrative, technical, and physical safeguards to protect against unauthorized access to the information we collect. However, no security measures are 100% impenetrable and we cannot guarantee against all potential security breaches. Moreover, the transmission of information over the Internet is not inherently secure, and we are not responsible for the transmission of information over networks that we do not control. Your use of our Site demonstrates your assumption of these risks.
+
+**Data Retention**
+
+We will retain the information described above for as long as the information has value as part of the services we offer, or as long as is necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, whichever is longer. If you wish to request that we no longer use your personally identifiable information to provide you services or information, please contact us at customersupport@adgooroo.com.
+
+**Data Access**
+
+For those users for whom we have email and other personally identifiable information, you may correct, update or remove your contact information by contacting us at customersupport@adgooroo.com. We will respond to all such requests within 30 days.
+
+**Changes in this Privacy Policy**
+
+If we are going to use your previously collected personally identifiable information in a manner materially different from that stated in our privacy policy at the time of collection, you will be notified via email if possible. You will have a choice as to whether or not we use your information in this different manner and instructions for how to make that choice will be included in the notification. We will not use personally identifiable information in a manner materially different from that stated in our privacy policy at the time of collection without notifying you.
+
+If we make changes to our privacy practices that do not affect information already stored in our database or for future collection, we will post a notice on our Site notifying our users that there is a change and pointing to the revised privacy policy.
+
+**International Transfer of Information Collected**
+
+To facilitate AdGooroo’s operations, the Company may transfer and access data around the world, including the United States. This Privacy Statement shall apply even if AdGooroo transfers Data to other countries.
+
+If you have questions related to privacy, please contact us at [customersupport@adgooroo.com](mailto:customersupport@adgooroo.com) or write to us at:
+
+Privacy Officer  
+AdGooroo, LLC  
+730 W. Randolph St.,  
+Chicago, IL 60661
