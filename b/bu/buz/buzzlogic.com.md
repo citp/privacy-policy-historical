@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzlogic.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214195129id_/http%3A//www.twelvefold.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzlogic.com privacy policy that was archived on 2014-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140501131715id_/http%3A//www.twelvefold.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Twelvefold Media | Drive Superior Results and Insights for Your Brand
 
