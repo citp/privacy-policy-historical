@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thevarmatrimony.com privacy policy that was archived on 2013-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131229222751id_/http%3A//www.thevarmatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thevarmatrimony.com privacy policy that was archived on 2014-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140501062450id_/http%3A//www.thevarmatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Thevar Matrimony, Matrimony, Indian Matrimony</title>
@@ -8,17 +8,13 @@
 	<meta name="keywords" content="Matrimony, Matrimony, Indian Matrimony">
 	<meta name="abstract" content="Matrimony, Matrimony, Indian Matrimony">
 	<meta name="Author" content="Matrimony, Matrimony, Indian Matrimony">
-	<meta name="copyright" content="Copyright © 2013 Communitymatrimony Pvt Ltd.<br>All rights reserved.">
+	<meta name="copyright" content="Copyright © 2014 Communitymatrimony Pvt Ltd.<br>All rights reserved.">
 	<meta name="Distribution" content="Matrimony, Matrimony, Indian Matrimony">
-	<link rel="stylesheet" href="http://imgs.thevarmatrimony.com/cbsstyles/main-style.css?id=56">
+	<link rel="stylesheet" href="http://imgs.thevarmatrimony.com/cbsstyles/main-style.css?id=71">
 	<link rel="stylesheet" href="http://imgs.thevarmatrimony.com/cbsstyles/form-layout.css?id=17">
-	<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0019/0857.js?439010" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://imgs.thevarmatrimony.com/cbsscripts/jquery.js?id=15"></script></head>
+	<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0019/0857.js?439010" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" id="__ss" src="//cdn-jp.gsecondscreen.com/static/ssclient.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://imgs.thevarmatrimony.com/cbsscripts/jquery.js?id=15"></script></head>
 
 <body>
-
-
-
-
 
 <script>
 var GoogleAnalyticKeyvar = 0;
@@ -29,6 +25,49 @@ var SearchSubCasteLabel = 'Subcaste';
 var DenominationVal     = '0';
 var sessCountyIP = "";
 var CountryId = "";
+var myhomtabval="";
+//var mod_name = '';
+function headerpaidpromo()
+{
+	this.init = function () {
+		var cookval = this.getCookie('headerpaidpromo_');
+		if (cookval == '') {
+			this.setCookie('headerpaidpromo_', '1', 1);
+		} else if (cookval == '1' && (typeof(oneTimePopUpVal) == 'undefined'  || oneTimePopUpVal != 1 || ""== 'done') && window.location.href.search('/myprofile/') < 0 && window.location.href.search('/login/') < 0 && window.location.href.search('act=accountsettings') < 0 && window.location.href.search('act=privacyphotosettings') < 0) {
+			this.displaypopup();
+			this.setCookie('headerpaidpromo_', '0', 1);
+		}
+	}
+	this.displaypopup = function () {
+		document.getElementById('paidpromopop').style.display="";
+	}
+	this.hidepopup = function () {
+		this.setCookie('headerpaidpromo_', '0', 1);
+		document.getElementById('paidpromopop').style.display="none";
+	}
+	this.getCookie = function(cname) {
+		var name = cname + "=";
+		var ca = document.cookie.split(';');
+		for(var i=0; i<ca.length; i++) {
+			var c = ca[i].replace(/^\s+|\s+$/g, '');
+			if (c.indexOf(name)==0) return c.substring(name.length,c.length);
+		}
+		return "";
+	}
+	this.setCookie = function(cname,cvalue,exdays) {
+		var expires = "expires=0";
+		if (exdays>0) {		
+			var d = new Date();
+			d.setTime(d.getTime()+(exdays*24*60*60*1000));
+			expires = "expires="+d.toGMTString();
+		}
+		document.cookie = cname + "=" + cvalue + "; " + expires + '; path=/; domain=.thevarmatrimony.com;';
+	}
+	this.init();
+}
+var likecount = 0;
+var cook_photo = 1;
+
 </script>
 <script type="text/javascript" language="javascript" src="http://imgs.thevarmatrimony.com/cbsscripts/ajax.js"></script>
 <script type="text/javascript" language="javascript" src="http://imgs.thevarmatrimony.com/cbsscripts/hp-common.js"></script>
@@ -83,8 +122,7 @@ var CountryId = "";
 				<div class="knotposn"><div class="topknot"><!--  --></div></div>
 				<div class="paddt2 paddl2"><!-- --></div><div class="clear"></div>
 			</div>
-			</div>
-		
+		</div>
 		<div style="clear:both;"><!-- --></div>
 	</nav>
 <iframe id="fadenew" class="black_overlay"></iframe>
@@ -155,7 +193,7 @@ var CountryId = "";
 			}
 		}
 
-		$('.closetour').live('click', function () 
+$('.closetour').live('click', function () 
 	{
 	$('#fadenew').hide();
 	$('#quicktourdiv').hide();
@@ -163,8 +201,8 @@ var CountryId = "";
 		 {
 		 $('#top_block'+j).hide();
 		 }
-	});
-	</script>
+});
+</script>
 <div style="width:960px; float:none;margin:0 auto;padding-top:50px;text-align:left;">	
 
 	<!-- Left pannel Start Here-->
@@ -234,15 +272,17 @@ var CountryId = "";
 <!-- Who viewed your profile -->
 <!-- Who viewed your profile -->
 
-
-<div id="rhsimilarprofiles">
-	</div>
 <div id="rhwhoviewedalsoviewed">
 	
 </div>
+<div id="rhsimilarprofiles">
+	</div>
 
 
 
+
+<!--right panel Offer banner start  -->
+<!-- Assisted Matrimony Banner End -->
 
 
 <!-- 3rd party banner Start -->
@@ -250,9 +290,7 @@ var CountryId = "";
 
 
 
-<!--right panel Offer banner start  -->
 
-<!--right panel Offer banner ends  -->
 
 </div>
 <!--right panel section ends  -->
@@ -268,42 +306,42 @@ var CountryId = "";
 <div class="padt10" style="margin:0px auto;width:998px;border:0px solid red">
 	<div class="foot-top-shadow">
 		<div class="fleft padb10 padl15" style="width:260px;">
-			<div class="mediumhdrtxt-m clrblack">Quick Links: </div>
+			<div class="font13 clrblack">Quick Links: </div>
 			<div class="padt15 padr20">
 				<div class="fleft padr25">
-					<div class="smalltxt"><a href="http://www.thevarmatrimony.com/site/index.php?act=aboutus&amp;gaact=abtus&amp;gasrc=ftr" class="clr5">About Us</a></div>
-					<div class="smalltxt padt2"><a href="http://www.thevarmatrimony.com/site/index.php?act=contactus&amp;gaact=conus&amp;gasrc=ftr" class="clr5">Contact Us</a></div>
-					<div class="smalltxt padt2"><a href="http://www.thevarmatrimony.com/site/index.php?act=feedback&amp;gaact=febk&amp;gasrc=ftr" class="clr5">Feedback</a></div>
-					<div class="smalltxt padt2"><a href="http://www.thevarmatrimony.com/payment/?SourceFrom=2&amp;gaact=uprd&amp;gasrc=ftr" class="clr5">Upgrade</a></div>
-					<div class="smalltxt padt2"><a href="http://www.thevarmatrimony.com/site/index.php?act=faq&amp;gaact=faq&amp;gasrc=ftr" class="clr5">FAQS</a></div>
+					<div class="font11"><a href="http://www.thevarmatrimony.com/site/index.php?act=aboutus&amp;gaact=abtus&amp;gasrc=ftr" class="clr5">About Us</a></div>
+					<div class="font11 padt2"><a href="http://www.thevarmatrimony.com/site/index.php?act=contactus&amp;gaact=conus&amp;gasrc=ftr" class="clr5">Contact Us</a></div>
+					<div class="font11 padt2"><a href="http://www.thevarmatrimony.com/site/index.php?act=feedback&amp;gaact=febk&amp;gasrc=ftr" class="clr5">Feedback</a></div>
+					<div class="font11 padt2"><a href="http://www.thevarmatrimony.com/payment/?SourceFrom=2&amp;gaact=uprd&amp;gasrc=ftr" class="clr5">Upgrade</a></div>
+					<div class="font11 padt2"><a href="http://www.thevarmatrimony.com/site/index.php?act=faq&amp;gaact=faq&amp;gasrc=ftr" class="clr5">FAQS</a></div>
 				</div>
 				<div class="fleft padl15">
-					<div class="smalltxt"><a href="http://image.thevarmatrimony.com/successstory/index.php?act=success&amp;gaact=pssry&amp;gasrc=ftr" class="clr5">Post Success Story</a></div>
-											<div class="smalltxt padt2"><a href="http://www.thevarmatrimony.com/matrimonials/?gaact=popmti&amp;gasrc=ftr" class="clr5">Popular Matrimony Searches</a></div>
-										<div class="smalltxt padt2"><a href="http://www.thevarmatrimony.com/site/index.php?act=termsandconditions&amp;gaact=trmcon&amp;gasrc=ftr" class="clr5">Terms and Conditions</a></div>
-					<div class="smalltxt padt2"><a href="http://www.thevarmatrimony.com/site/index.php?act=privacypolicy&amp;gaact=prypoy&amp;gasrc=ftr" class="clr5">Privacy Policy</a></div>
+					<div class="font11"><a href="http://image.thevarmatrimony.com/successstory/index.php?act=success&amp;gaact=pssry&amp;gasrc=ftr" class="clr5">Post Success Story</a></div>
+											<div class="font11 padt2"><a href="http://www.thevarmatrimony.com/matrimonials/?gaact=popmti&amp;gasrc=ftr" class="clr5">Popular Matrimony Searches</a></div>
+										<div class="font11 padt2"><a href="http://www.thevarmatrimony.com/site/index.php?act=termsandconditions&amp;gaact=trmcon&amp;gasrc=ftr" class="clr5">Terms and Conditions</a></div>
+					<div class="font11 padt2"><a href="http://www.thevarmatrimony.com/site/index.php?act=privacypolicy&amp;gaact=prypoy&amp;gasrc=ftr" class="clr5">Privacy Policy</a></div>
 				</div>
 				<div class="cleard"><!--  --></div>
 			</div>
 		</div>
 		<div class="fleft padt10 padr20" style="width:10px;"><div style="border-right:1px solid #e7e7e7; height:100px;"><!--  --></div></div>
 		<div class="fleft padb10" style="width:150px;">
-			<div class="mediumhdrtxt-m clrblack">Our Networks:</div>
+			<div class="font13 clrblack">Our Networks:</div>
 			<div class="padt15">
 				<div class="padr15">
-					<div class="smalltxt"><a href="http://www.communitymatrimony.com" target="_blank" class="clr5">CommunityMatrimony</a></div>
-					<div class="smalltxt padt2"><a href="http://www.matrimonygifts.com/" target="_blank" class="clr5">Matrimony Gifts</a></div>
-					<div class="smalltxt padt2"><a href="http://www.matrimonydirectory.com/" target="_blank" class="clr5">Matrimony Directory</a></div>
-					<div class="smalltxt padt2"><a target="_blank" href="http://www.tambulya.com/" class="clr5">Tambulya</a></div>
-					<div class="smalltxt padt2"><a href="http://www.indiaproperty.com/" target="_blank" class="clr5">Property</a></div>
-					<div class="smalltxt padt2"><a href="http://www.matrimonydirectory.com/" target="_blank" class="clr5">Classifieds</a></div>
-					<div class="smalltxt padt2"><a href="/site/index.php?act=wedding-directory-services&amp;gaact=weddir&amp;gasrc=ftr" target="_blank" class="clr5">Wedding Directory</a></div>
-					<div class="smalltxt padt2"><a href="http://www.weddingreturngifts.in/" target="_blank" class="clr5">Wedding Return Gifts</a></div>
+					<div class="font11"><a href="http://www.communitymatrimony.com" target="_blank" class="clr5">CommunityMatrimony</a></div>
+					<div class="font11 padt2"><a href="http://www.matrimonygifts.com/" target="_blank" class="clr5">Matrimony Gifts</a></div>
+					<div class="font11 padt2"><a href="http://www.matrimonydirectory.com/" target="_blank" class="clr5">Matrimony Directory</a></div>
+					<div class="font11 padt2"><a target="_blank" href="http://www.tambulya.com/" class="clr5">Tambulya</a></div>
+					<div class="font11 padt2"><a href="http://www.indiaproperty.com/" target="_blank" class="clr5">Property</a></div>
+					<div class="font11 padt2"><a href="http://www.matrimonydirectory.com/" target="_blank" class="clr5">Classifieds</a></div>
+					<div class="font11 padt2"><a href="/site/index.php?act=wedding-directory-services&amp;gaact=weddir&amp;gasrc=ftr" target="_blank" class="clr5">Wedding Directory</a></div>
+					<div class="font11 padt2"><a href="http://www.weddingreturngifts.in/" target="_blank" class="clr5">Wedding Return Gifts</a></div>
 				</div>
 	 		</div>
 		</div>
 		<div class="fleft padt10" style="width:10px;"><div style="border-right:1px solid #e7e7e7; height:100px;"><!--  --></div></div>
-		<div class="fleft padb10 padl25 smalltxt clr7 padt35 padr25"><div class="padt10">Copyright © 2013. All rights reserved.</div></div>
+		<div class="fleft padb10 padl25 font11 clr7 padt35 padr25"><div class="padt10">Copyright © 2014. All rights reserved.</div></div>
 		<div class="fleft padt10 padr10" style="width:10px;"><div style="border-right:1px solid #e7e7e7; height:100px;"><!--  --></div></div>
 		<div class="fleft padb10" style="padding-top:35px">
 			<a class="rss-icon clr4 fleft" href="http://www.thevarmatrimony.com/feeds/">RSS</a>
@@ -323,7 +361,10 @@ var CountryId = "";
 
 <script type="text/javascript" src="http://imgs.thevarmatrimony.com/cbsscripts/tollfree.js"></script>
 
-<script>var liveURL = 'http://www.thevarmatrimony.com';funLiveHelpNo();</script>
+<script>var liveURL = 'http://www.thevarmatrimony.com';funLiveHelpNo();</script><style>
+.pay-active-btn, .pay-active-btn-small {background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #fb0b0b), color-stop(1, #a10a15) );filter:  PROGID:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#fb0b0b, EndColorStr=#a10a15) progid:DXImageTransform.Microsoft.Shadow(color=#ffffff,direction=180,strength=0); background:-moz-linear-gradient( center top, #fb0b0b 10%, #a10a15 80% );  background-color:#a10a15; -moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;  border:2px solid #FFF !important; border:none; display:inline-block; color:#FFF; font-family:arial; font-size:18px; padding:5px 18px !important; padding:5px 15px; text-decoration:none;-moz-box-shadow: 0 0 2px 1px #bfbfbf; -webkit-box-shadow: 0 0 2px 1px #bfbfbf; box-shadow: 0 0 2px 1px #bfbfbf; cursor:pointer;margin:0px; outline:none;}
+</style>
+
 <div id="fade" class="bgfadediv"></div>
 <!-- Tool Tip -->
 <!-- <iframe frameBorder="0" border="0" id="tip_align1" style="width:167px; height:115px; margin-left:15px; border:none; background:#000; opacity: 0; filter:alpha(opacity=0);" class="hidespan"></iframe> -->
@@ -340,7 +381,9 @@ var CountryId = "";
 	</span>
 </div>
 <!-- Tool Tip --><!-- Google Analytics Scripts starts -->
+
 <script type="text/javascript">
+    var varGAAvailableStatus = 	true;
 		var _gaq = _gaq || [];
     	_gaq.push(['_setAccount', "UA-33551164-2"]);
 		_gaq.push(['_setDomainName', "thevarmatrimony.com"]);
@@ -366,8 +409,11 @@ var CountryId = "";
 
 
 
-<!-- -->
 
+
+
+
+<!-- -->
 
 
 <script language="javascript" type="text/javascript">
@@ -386,10 +432,21 @@ function phoneverifypopup(){
 	$('#lightpic_mobverify').css("display","block");
 }
 
+var d7popup=0;
+function showD7Popup(){
+	
+    $('#div_d7popup').bPopup({
+    escClose:false
+    });
+    $('#div_d7popup').css("display","block");
+}
 </script>
 	<script>
 		if(phoneverified==0){
 			setTimeout(phoneverifypopup,1000);	
+		}
+                if(d7popup==1){
+			setTimeout(showD7Popup,1000);	
 		}
 	</script>
 
@@ -412,5 +469,40 @@ function GATrack(redirect,page,event,label)
 }
 </script>
 <!-- GA Tracking Scripts End -->
+
+<script type="text/javascript">
+	var _ss_track = {};
+	
+	/* your customization options */
+	
+	_ss_track.options = {};
+	
+	/* Donot edit below this line */
+
+	_ss_track.id = "11cc6e77-5569-408f-bb4c-8dbe9d33732f";
+
+	_ss_track.events = []; _ss_track.handlers = []; _ss_track.alarms = [];
+
+	(function() {
+
+	var ss = document.createElement('script'); ss.type = 'text/javascript'; ss.async = true; ss.id = "__ss";
+	ss.src = '//cdn-jp.gsecondscreen.com/static/ssclient.min.js';
+	var fs = document.getElementsByTagName('script')[0]; fs.parentNode.insertBefore(ss, fs);
+	
+	})();
+
+</script>
+
+<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-50150782-1']);
+	  _gaq.push(['_setDomainName', 'cbsdomainconsolidation.com']);
+	  _gaq.push(['_trackPageview']);
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+</script>
 
 </body></html>
