@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewhole9.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230113407id_/http%3A//www.thewhole9.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewhole9.com privacy policy that was archived on 2014-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140501043635id_/http%3A//www.thewhole9.com/privacy.php) for the most accurate reproduction.*
 
 # Online community for artists, graphic designers, writers, etc.: The Whole 9
 
@@ -66,7 +66,7 @@ OPTING-OUT, CORRECTIONS AND CANCELLATIONS
 
 If you are already a registered user with The Whole 9, you may manage your promotional e-mail preferences by "opting-out" of further email contact from The Whole 9 (excepting notification of major changes to the service) directly by logging in, going to Account Information and selecting which emails you would like to receive under EMAIL OPTIONS.
 
-You may also correct information that is no longer accurate or delete your account completely on this page. If you have additional questions, please go to [CONTACT US](https://web.archive.org/web/20131230113407id_/http%3A//www.thewhole9.com/contact.php), or please contact:
+You may also correct information that is no longer accurate or delete your account completely on this page. If you have additional questions, please go to [CONTACT US](https://web.archive.org/web/20140501043635id_/http%3A//www.thewhole9.com/contact.php), or please contact:
 
 **The Whole 9  
 Attn: Member Services  
