@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vetsfirstchoice.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908153235id_/http%3A//0dbb9005ec1a3ab9a064-3527a3acafade13ff5df388af987340d.r9.cf1.rackcdn.com/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vetsfirstchoice.com privacy policy that was archived on 2014-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140501130044id_/http%3A//0dbb9005ec1a3ab9a064-3527a3acafade13ff5df388af987340d.r9.cf1.rackcdn.com/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY WE ARE COMMITTED TO SAFEGUARDING YOUR PRIVACY ONLINE. PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS SITE.
 
@@ -267,7 +267,7 @@ time, to recontact former users of the Site.
 12. Questions, Comments or Concerns
 To contact Vets First Choice about this Privacy Policy or privacy related issues or to report a violation of our
 Privacy Policy, please e-mail us at support@vetsfirstchioce.com. You may also contact us at: Vets First
-choice, 110 Exchange Street, Portland, ME 04101Vets First Choice Enterprises, LLC, or call us at: 1-(888)
+choice, 5013 S 110th St. Omaha, NE 68137 Vets First Choice Enterprises, LLC, or call us at: 1-(888)
 280-2221.
 Before using this site, please also read our Terms and Conditions.
 This policy is in effect as of November 2010.
