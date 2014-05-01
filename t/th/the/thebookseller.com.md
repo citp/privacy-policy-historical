@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebookseller.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230102119id_/http%3A//www.thebookseller.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebookseller.com privacy policy that was archived on 2014-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140501131456id_/http%3A//www.thebookseller.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy | The Bookseller
 
