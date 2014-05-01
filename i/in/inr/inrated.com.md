@@ -1,88 +1,33 @@
-> *The following text is extracted and transformed from the inrated.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925222608id_/http%3A//www.inrated.com/page.php%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inrated.com privacy policy that was archived on 2014-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140501054238id_/http%3A//inrated.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**InRated.com Website Privacy Statement**
+At inRated.com we appreciate your privacy and hope that you feel comfortable trusting us. inRated.com provides a comparison shopping service that enables consumers to compare prices, products and stores when they shop online. We believe that you have a right to know what information we collect, how we intend to use that information, whom we intend to share it with, and what measures we take to keep that information secure. 
 
-**This document was last updated on April 29, 2008.**
+## Collecting Your Information
 
-**1\. Acknowledgement and acceptance of terms**
+We collect information at several stages during your interaction with . When you first enter our site, we note your IP address and time of your visit. As you browse the site, we record your zipcode via a cookie so we can serve more location specific information on your next visit. We will not collect any personally identifiable information about you. Cookies do not recognise you as a person, just your computer.
 
-Justboughtit.com is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing Justboughtit.com, you acknowledge and fully understand Justboughtit.com’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+You are always free to decline our cookies if your browser permits although in that case you may not be able to use certain features on our site.
 
-**2\. Participating Merchant Policies**
+## Third Party Advertising
 
-Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in Justboughtit.com services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy.  However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites.  We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
+We work with third parties who use cookies to collect non-personally identifiable information when you visit our Web site and other sites. This information may be used to provide you with better shopping or savings opportunities through advertisements on this and other Web sites that you visit, or to conduct market research and website analysis.
 
-**3. Information We Collect and How We Use It**
+## User Submitted Reviews
 
-Justboughtit.com collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
+We discourage you from entering any personal information and please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. It is not required for you to submit personally identifiable information to enable you to submit a review.
 
-**a.        Web Server Logs.**
+## Sharing of information
 
-When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include: 
+inRated.com does not share any contact information or IP address information with its partners. We will only use information that helps our customers to find the lowest prices.
 
-  * Your Internet protocol address. 
-  * The kind of browser or computer you use. 
-  * Number of links you click within the site. 
-  * State or country from which you accessed the site. 
-  * Date and time of your visit. 
-  * Name of your Internet service provider. 
-  * Web page you linked to our site from. 
-  * Pages you viewed on the site.
+## How We Protect Your Information
 
+The privacy and protection of your personal information is vitally important to us. inRated.com does not make personal information available to any third parties without your permission. Any user statistics that we may provide to prospective advertisers or partners regarding your inRated.com usage are provided in the aggregate only and do not include any personally identifiable information about any individual user. 
 
+This Website Privacy Statement is effective as of the date listed below. Even if you read and/or agreed to a prior policy statement, you need to review this updated version. If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, or other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days.
 
-**b. Use of Cookies**
+**Effective Date: Privacy Notice last modified April 5, 2011.**
 
-InRated.com may use cookies to personalize or enhance your user experience.  A cookie is a small text file that is placed on your hard disk by a Web page server.  Cookies cannot be used to run programs or deliver viruses to your computer.  Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. 
-
-One of the primary purposes of cookies is to provide a convenience feature to save you time.  For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits.  Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality. 
-
-InRated.com reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into InRated.com.com a site that relies on third-party cookies).
-
-You have the ability to accept or decline cookies.  Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
-
-**       c. Personal Information Users**
-
-Visitors to our website can register to purchase services.  When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information.  If you are purchasing a service, we will request financial information.  Any financial information we collect is used only to bill you for the services you purchased.  If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
-
-We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
-
-§ To fulfill your service requests for services.
-
-§ To protect ourselves from liability,
-
-§ To respond to legal process or comply with law, or
-
-§  In connection with a merger, acquisition, or liquidation of the company.
-
-**4. Use of Web Beacons or GIF files**
-
-InRated/www.InRated.com Web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow InRated.com to count users who have visited those pages and to deliver co-branded services.  InRated.com may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
-
-Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications.  These Web beacons may be used by these service providers to place a persistent cookie on your computer.  This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site.  InRated.com prohibits Web beacons from being used to collect or access your personal information.
-
-**5\. Accessing Web Account Information**
-
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current.  You may review this information by contacting us by sending an email to our support attendant – [policies@InRated.com](mailto:policies@inrated.com)
-
-**8. Changes to this Statement**
-
-InRated.com has the discretion to occasionally update this privacy statement.  When we do, we will also revise the “updated” date at the top of this Privacy page.  We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect.  Your continued use of the service constitutes your agreement to this privacy statement and any updates.
-
-**7\. Contacting Us**
-
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us: [policies@InRated.com](mailto:policies@inrated.com) or send your comments to :
-
-By Mail:
-
-InRated.com
-
-**Attention:   Privacy Statement Personnel**
-
-(Canada - Head Office)
-
-[policies@InRated.com](mailto:policies@inrated.com)
-
-_**InRated.com will use commercially reasonable efforts to promptly respond and resolve any problem or question.**_
+Â© 2014 inRated.com 
