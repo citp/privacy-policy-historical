@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the project-syndicate.org privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206040735id_/http%3A//www.project-syndicate.org/pages/Terms-and-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the project-syndicate.org privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502010438id_/http%3A//www.project-syndicate.org/pages/terms-and-privacy) for the most accurate reproduction.*
 
 # Terms and Privacy - Project Syndicate
 
@@ -14,7 +14,7 @@ Google, as a third party vendor, uses cookies to serve ads on our site. Googleâ€
 
 Any of the information we collect from you may be used in one of the following ways:
 
-  * To improve our website(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
   * To administer a contest, promotion, survey or other site feature
   * To send periodic emails
 
@@ -28,7 +28,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 ## Do we use cookies?
 
-Yes. Cookies are small files that a site or its service provider transfers, if you allow, to your computers hard drive through your web browser. Cookies enable the sites or service providersâ€™ systems to recognize your browser and capture and remember certain information.
+Yes. Cookies are small files that a site or its service provider transfers, if you allow, to your computer's hard drive through your web browser. Cookies enable the site's or service provider's systems to recognize your browser and capture and remember certain information.
 
 ## Do we disclose any information to outside parties?
 
