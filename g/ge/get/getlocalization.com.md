@@ -1,28 +1,18 @@
-> *The following text is extracted and transformed from the getlocalization.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028032727id_/http%3A//support.getlocalization.com/entries/104948-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getlocalization.com privacy policy that was archived on 2014-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140501130320id_/https%3A//www.getlocalization.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Get Localization Help Desk
-
-### Privacy Policy
-
-Get Localization  
-posted this on January 28, 2010 21:20 
+# - Get Localization
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
-  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
+Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
+
   * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
   * We will only retain personal information as long as necessary for the fulfillment of those purposes.
-  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. We will provide you with a readable copy of the personal data which we keep about you, within a month. - although we may before require proof of your identity -. Information is provided without any charge once in a year.
-  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
+  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. We will provide you with a readable copy of the personal data which we keep about you, within a month. - although we may before require proof of your identity -. Information is provided without any charge once in a year. Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
   * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. All personal messages and other data are stored in a secure manner.
   * All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data. We ensure that your personal data will not be disclosed to State institutions and authorities except if required by law or other regulation.
   * All personal data can be deleted completely using a web interface and/or by contacting Get Localization support personnel. Deleted data is completely removed from our servers and it cannot be restored.
   * We will make readily available to customers information about our policies and practices relating to the management of personal information.
-  * We also use third party advertisements on GetLocalization.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). For more information about Google AdSense program, see privacy policy at <http://www.google.com/privacy.html>. You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
-
-
-
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
-
+  * We also use third party advertisements on Get Localization website to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). For more information about Google AdSense program, see privacy policy at <http://www.google.com/privacy.html>. You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
 
 
