@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sponsoredgiveaways.com privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902204030id_/http%3A//www.sponsoredgiveaways.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sponsoredgiveaways.com privacy policy that was archived on 2014-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140501021440id_/http%3A//www.giveaway.ly/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy : Sponsored Giveaways
+# Privacy Policy : Giveaway.ly | Sponsored Giveaways
 
 ### Privacy Policy:
 
-SponsoredGiveaways.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. 
+Giveaway.ly is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. 
 
 This Privacy Policy provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you. 
 
@@ -43,7 +43,7 @@ By using this site, you consent to the collection and use of information as outl
 
 #### Questions or Comments:
 
-If you have any questions or comments regarding this Privacy Policy, please contact us by e-mail at [support@sponsoredgiveaways.com](mailto:support@sponsoredgiveaways.com)  
+If you have any questions or comments regarding this Privacy Policy, please contact us by e-mail at [cs@giveaway.ly](mailto:cs@giveaway.ly)  
 or by mail to  
 2510 Warren Ave  
 Cheyenne,  
