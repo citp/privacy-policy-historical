@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evozi.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230203655id_/http%3A//evozi.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evozi.com privacy policy that was archived on 2014-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140501234502id_/http%3A//www.evozi.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
