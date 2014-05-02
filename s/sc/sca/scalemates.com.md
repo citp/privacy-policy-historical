@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scalemates.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121031900id_/http%3A//www.scalemates.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scalemates.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502073449id_/http%3A//www.scalemates.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement - Scalemates - Scale Modeling Community
 
@@ -10,7 +10,7 @@ Last Updated: 7th of June 2013
 
 ###  **Public Nature of Content Submitted to Sites**
 
-The nature of this website is to reach a public audience. Please be aware that any information that you submit to us whether through forms or email, including personally identifiable information, may be publicly displayed on sites hosted at http://www.scalemates.com/, or on websites not within our control. If you don’t want others to see such information, don’t submit it or make use of the appropriate privacy settings when posting information..
+The nature of this website is to reach a public audience. Please be aware that any information that you submit to us whether through forms or email, including personally identifiable information, may be publicly displayed on sites hosted at http://www.scalemates.com/, or on websites not within our control. If you don�t want others to see such information, don�t submit it or make use of the appropriate privacy settings when posting information..
 
 ### Membership - Registration
 
@@ -32,7 +32,7 @@ In case comments have been added the privacy settings can only be changed in a m
 
 ### **Log Files**
 
-Like many other Web sites, scalemates.com makes use of log files stored ou our server. The information inside the log files on our servers includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Like many other Web sites, scalemates.com makes use of log files stored ou our server. The information inside the log files on our servers includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user�s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google").
 
