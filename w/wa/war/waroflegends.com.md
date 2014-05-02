@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the waroflegends.com privacy policy that was archived on 2013-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130708085459id_/http%3A//www.jagex.com/g%3Dwaroflegends/privacy/privacy.ws) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waroflegends.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502062125id_/http%3A//www.jagex.com/g%3Dwaroflegends/privacy/privacy.ws) for the most accurate reproduction.*
 
 # Multiplayer Strategy Game War of Legends - by Jagex Publishing
 
-Effective Date: 20th February, 2013
+Effective Date: 26th September, 2013
 
 ### Privacy Policy
 
