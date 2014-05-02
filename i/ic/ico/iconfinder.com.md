@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iconfinder.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909100701id_/https%3A//www.iconfinder.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconfinder.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502175832id_/https%3A//www.iconfinder.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy | Iconfinder
 
@@ -110,9 +110,3 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 If you have any questions or concerns regarding our privacy policies, please send us a detailed message to [contact@iconfinder.com](mailto:contact@iconfinder.com) , and we will try to resolve your concerns.
 
 This Privacy Policy was last modified and made effective on February 22nd 2013.
-
-| 
-
-### Facebook fans  
-  
----|---
