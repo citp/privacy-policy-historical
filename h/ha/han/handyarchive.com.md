@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handyarchive.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125224139id_/http%3A//www.handyarchive.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handyarchive.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502110159id_/http%3A//www.handyarchive.com/policy.html) for the most accurate reproduction.*
 
 # Privacy policy at HandyArchive.com
 
@@ -20,4 +20,4 @@ HandyArchive.com automatically logs the following information about visitors to 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Use of software author names, addresses and any other personal information is used only in our announcements and is not released to third parties nor do we send any mail to the return addresses offering or soliciting any services.
 
 **Contacting the WebSite**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can mail to [admin@HandyArchive.com](mailto:admin@HandyArchive.com) or [contact us](https://web.archive.org/contact.html) via form on this website.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can mail to [contact us](https://web.archive.org/contact.html) via form on this website.
