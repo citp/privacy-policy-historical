@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trade-24.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226202542id_/http%3A//www.trade-24.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trade-24.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502092324id_/http%3A//www.trade-24.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -71,6 +71,10 @@ Links to external sites may be found on the website. The Company takes no respon
 
 Deposits - Currently, the Minimum deposit amount is USD500. There is no limit on the maximum amount that can be deposited.  
 Withdrawals - There is no Minimum or Maximum limits on withdrawals requests.The above Min/Max limits may be changed by the Company at any time.
+
+ _Credit Cards Policy:_
+
+The Company does not store full cardholder data in electronic format and does not process or transmit any cardholder data on their systems or premises.
 
  _Questions, Concerns or Complaints:_
 
