@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the brightpod.com privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018113049id_/http%3A//www.brightpod.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightpod.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502033750id_/http%3A//www.brightpod.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy : Brightpod
+# Privacy Policy | Brightpod
+
+Brightpod is a product of Synage Software Pvt. Ltd (Synage Software). Synage Software is committed to protecting the privacy of its customers. This Privacy Policy outlines how we may gather and use information collected from our customers.
 
 ##### Information We Collect
 
@@ -15,8 +17,8 @@ Synage Software ensures that your information remains private and confidential. 
 We will use your information for the following purposes: 
 
   1. To authenticate and provide you access to Brightpod.
-  2. To notify you of change of services, maintenance notifications, information and promotional materials, newsletters from Brightpod.
-  3. To improve our service and to track and diagnose problems. 
+  2. To notify you of change of services, maintenance notifications, information and promotional materials, newsletters from Brightpod. 
+  3. To improve our service and to track and diagnose problems.
   4. To contact you for your reviews on the website and your experience with using Brightpod.
   5. To use it in our billing systems.
 
