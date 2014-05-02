@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadclub.net privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231162536id_/http%3A//www.leadclub.net/policies/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadclub.net privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502222107id_/http%3A//www.leadclub.net/policies/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
