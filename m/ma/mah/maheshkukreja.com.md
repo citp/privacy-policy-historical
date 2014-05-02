@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maheshkukreja.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230043910id_/http%3A//www.maheshkukreja.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maheshkukreja.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502101147id_/http%3A//www.maheshkukreja.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
