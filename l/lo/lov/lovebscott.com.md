@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovebscott.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214051358id_/http%3A//lovebscott.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovebscott.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502114318id_/http%3A//lovebscott.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - B. Scott | Celebrity Entertainment News, Fashion, Music and Advice
 
@@ -38,8 +38,8 @@ The contents of this statement may be altered at any time, at our discretion.
 
 All images on lovebscott.com are readily available on the internet and believed to be in public domain. Images posted are believed to be published according to the U.S Copyright Fair Use Act (title 17, U.S. Code.)
 
-If you are the copyright owner and would like your media removed, please contact info@lovebscott.com.
+If you are the copyright owner and would like your media removed, please contact denver@lovebscott.com.
 
-If you have any questions regarding the privacy policy of LoveBScott.com then you may contact us at info@LoveBScott.com
+If you have any questions regarding the privacy policy of lovebscott.com then you may contact us at bscott@lovebscott.com
 
-Last updated Fri, 30 Sept 2011 05:33
+Last updated, 06 January 2014.
