@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubs.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127121332id_/http%3A//www.ubs.com/global/en/legalinfo2/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubs.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502190005id_/http%3A//www.ubs.com/global/en/legalinfo2/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement | UBS Global home
 
@@ -99,4 +99,4 @@ Switzerland
 Last update in July 2013.
 
 Products and services in these webpages may not be available for residents of certain nations. Please consult the sales restrictions relating to the service in question for further information.  
-© UBS 1998-2013. All rights reserved.
+© UBS 1998 - 2014. All rights reserved.
