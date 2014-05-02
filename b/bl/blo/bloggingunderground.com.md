@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggingunderground.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230233713id_/http%3A//www.bloggingunderground.com/bu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingunderground.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502043018id_/http%3A//www.bloggingunderground.com/bu/privacy-policy) for the most accurate reproduction.*
 
 # Blogging Underground Privacy Policy | Blogging Underground
 
