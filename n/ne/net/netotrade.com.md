@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netotrade.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226004444id_/http%3A//www.netotrade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netotrade.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502113959id_/http%3A//www.netotrade.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NetoTrade
 
@@ -19,11 +19,11 @@ Disclosure of Information
 
 Depending on the product or service concerned and particular restrictions on sensitive information, this means that personal information may be disclosed to: 
 
-  * Service providers and specialist advisers to us who have been contracted to provide us with administrative, financial, insurance, research or other services 
-  * introducing brokers with whom we have a mutual relationship (any of whom may be within or outside the European Economic Area) 
-  * credit providers, courts, tribunals and regulatory authorities as agreed or authorized by law 
-  * credit reporting or reference agencies 
-  * anyone authorized by an individual, as specified by that individual or the contract 
+  * service providers and specialist advisers to us who have been contracted to provide us with administrative, financial, insurance, research or other services, 
+  * introducing brokers with whom we have a mutual relationship (any of whom may be within or outside the European Economic Area), 
+  * credit providers, courts, tribunals and regulatory authorities as agreed to or authorized by law, 
+  * credit reporting or reference agencies, 
+  * anyone authorized by an individual, as specified by that individual or the contract. 
 
 
 
@@ -31,11 +31,11 @@ If you do not want us to use your personal information please let us know in wri
 
 Updating your information
 
-You may inform NetoTrade global investment Ltd at any time that your personal details have changed or that you wish NetoTrade global investment s Ltd to delete personal information we hold about you by e-mailing us at [support@netotrade.com](mailto:support@netotrade.com) NetoTrade global investment Ltd will change or delete your personal information in accordance with your instructions, except to the extent that we are required to hold your personal information for regulatory or legal purposes so that we can provide you with the services you have requested and to maintain adequate business records.
+You may inform NetoTrade UK Ltd at any time that your personal details have changed or that you wish NetoTrade UK Ltd to delete personal information we hold about you by e-mailing us at [support@netotrade.com](mailto:support@netotrade.com). NetoTrade UK Ltd will change or delete your personal information in accordance with your instructions, except to the extent that we are required to hold your personal information for regulatory or legal purposes so that we can provide you with the services you have requested and to maintain adequate business records.
 
 Use of Cookies
 
-If you open an account with us, you will need to use our trading software which enables us to use cookies in relation to your access to this website. Cookies are small files of information, which often include a unique identification number or value, which is stored on your computer’s hard drive as a result of you using this trading software and accessing this website. The purpose of this information is to provide you with a more relevant and effective experience on this website, including presenting web pages according to your needs or preferences. Cookies are frequently used on many websites on the internet and you can choose if and how a cookie will be accepted by changing your preferences and options in your browser. You may not be able to access some parts of this site if you choose to disable the cookie acceptance in your browser, particularly the secure parts of the website. We therefore recommend you enable cookie acceptance to benefit from all the services on the website.
+If you open an account with us, you will need to use our trading software, which enables us to use cookies in relation to your access to this website. Cookies are small files of information, which often include a unique identification number or value, which is stored on your computer’s hard drive as a result of you using this trading software and accessing this website. The purpose of this information is to provide you with a more relevant and effective experience on this website, including presenting web pages according to your needs or preferences. Cookies are frequently used on many websites on the internet and you can choose if and how a cookie will be accepted by changing your preferences and options in your browser. You may not be able to access some parts of this site if you choose to disable the cookie acceptance in your browser, particularly the secure parts of the website. We therefore recommend you enable cookie acceptance to benefit from all the services on the website.
 
   
 What are your rights
@@ -54,6 +54,6 @@ We may monitor your communications to evaluate the quality of service you receiv
 
 From time to time, we may update this privacy statement. In the event that we materially change this privacy statement, the revised statement will promptly be posted on the website and we will post a notice on our website informing you of such changes. You agree to accept the posting of a revised privacy statement electronically on the website as an actual notice to you. Any dispute over our privacy statement is subject to this notice and our customer agreement. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. If you have any questions that this statement does not address, please contact a client services representative. 
 
-If you have any questions regarding this policy, wish to access or change your information or have a complaint, please contact us via live chat, email or through one of our management centre’s with your concerns at:
+If you have any questions regarding this policy, wish to access or change your information or have a complaint, please contact us via live chat, email or through one of our management centres with your concerns at:
 
 Support@netotrade.com
