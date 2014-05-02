@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the nhanow.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231150638id_/http%3A//www.nhanow.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhanow.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502212226id_/http%3A//www.nhanow.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | NHA
 
 Privacy Policy
 
-**Assessment Technologies Institute, LLC Website**
+## **Assessment Technologies Institute, LLC Website**
 
 **Privacy Policy**
 
-Welcome to nhanow.com. This web site is owned and operated by Assessment Technologies Institute, LLC, located at 7500 West 160th Street, Stillwell, Kansas, USA (“NHA” or “we” or “us”).  This privacy policy (“Privacy Policy”) explains to visitors (“you”) how we collect, use and disclose personal information that we obtain through this web site.
+Welcome to nhanow.com. This web site is owned and operated by Assessment Technologies Institute, LLC, located at 11161 Overbrook Road, Leawood, Kansas 66211, USA (“NHA” or “we” or “us”).  This privacy policy (“Privacy Policy”) explains to visitors (“you”) how we collect, use and disclose personal information that we obtain through this web site.
 
 **Data Collection**
 
