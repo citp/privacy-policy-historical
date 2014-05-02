@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathworks.in privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101095211id_/http%3A//www.mathworks.in/company/aboutus/policies_statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathworks.in privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502114308id_/http%3A//www.mathworks.in/company/aboutus/policies_statements) for the most accurate reproduction.*
 
 # Policies and Statements - MathWorks India
 
@@ -62,7 +62,7 @@ MathWorks sends many types of e-mail and postal mail including printed and elect
 You can remove your name from e-mail or postal mail lists: 
 
   * [Postal mailing list removal form](https://web.archive.org/company/aboutus/policies_statements/removalform.html)
-  * [E-mail list removal form](https://web.archive.org/accesslogin/optOutEmail.do)
+  * [E-mail list removal form](https://go2.mathworks.com/preference-center)
 
 
 
