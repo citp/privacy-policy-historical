@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crystalmathlabs.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621035851id_/http%3A//crystalmathlabs.com/tracker/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystalmathlabs.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502205443id_/http%3A//crystalmathlabs.com/tracker/privacy.php) for the most accurate reproduction.*
 
-# Privacy - Crystal Math Labs Old School RuneScape XP Tracker
+# Privacy Policy - XP Tracker for Old School RuneScape - Crystal Math Labs
 
 ## Privacy Policy - Crystal Math Labs
 
@@ -14,15 +14,9 @@ We may collect personal identification information from Users in a variety of wa
 
 We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. 
 
-### Web browser cookies
-
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. 
-
 ### How we use collected information
 
-Crystal Math Labs may collect and use Users personal information for the following purposes:   
-\- To share your information with third parties We may share or sell information with third parties for marketing or other purposes.  
-\- To send periodic emails We may use the email address to respond to their inquiries, questions, and/or other requests. 
+Crystal Math Labs may collect and use Users personal information to send periodic emails. We may use the email address to respond to their inquiries, questions, and/or other requests. 
 
 ### How we protect your information
 
@@ -31,14 +25,6 @@ We adopt appropriate data collection, storage and processing practices and secur
 ### Third party websites
 
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies. 
-
-### Advertising
-
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers. 
-
-### Google Adsense
-
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html 
 
 ### Changes to this privacy policy
 
@@ -50,10 +36,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:   
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us [here](https://web.archive.org/web/20140502205443id_/http%3A//crystalmathlabs.com/tracker/contact.php).   
 Crystal Math Labs   
 crystalmathlabs.com 
 
-This document was last updated on February 11, 2013 
-
-Privacy policy created by Generate Privacy Policy 
+This document was last updated on August 13th, 2013. 
