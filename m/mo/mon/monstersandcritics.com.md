@@ -1,130 +1,82 @@
-> *The following text is extracted and transformed from the monstersandcritics.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115172330id_/http%3A//www.monstersandcritics.com/corp/article_1221209.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monstersandcritics.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502042517id_/http%3A//www.monstersandcritics.com/privacy) for the most accurate reproduction.*
 
-# Monsters and Critics' Privacy Policy - Monsters and Critics
+# Privacy - Monsters and Critics
 
-#### Corporate News
+This Privacy Policy governs the manner in which Monsters and Critics collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.monstersandcritics.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Monsters and Critics.
 
-By M&C  Nov 13, 2006, 7:09 GMT 
+Personal identification information
 
-**_Introduction_**
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-Monsters and Critics.com takes your privacy seriously and we endevour to comply with the privacy rules set out in USA under the Safe Harbour specification as well as The Data Protection Act in the UK.
+Non-personal identification information
 
-We also aim to have a transparent policy and have attempted in this document to lay out fully the ways in which we gather, store and use information provided by you to the site.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-**_Collection of your Personal Information_**
+Web browser cookies
 
-We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you are registering before entering a contest, ordering e-mail newsletters, joining the site, becoming a subscriber, signing up for an event, or when purchasing and/or registering to use Monsters and Critics services or products. Personal information collected by Monsters and Critics.com is often limited to e-mail address, language, country or location, but may include other information when needed to provide a service you requested. Optional demographic information is also requested for some services.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-For example: If you choose a service or transaction that requires payment, such as subscribing to access a subscriber only service from the Web site, we will request personal information necessary for billing and/or shipping, such as: name, address, telephone number, and credit card number. Credit card information is never stored by Monsters and Critics itself and is instead handled by secure third parties. You will always be able to access any payment details and ammend or cancel them yourself.
+How we use collected information
 
-Monster and Critics.com also collects certain information about your computer hardware and software. This information may include: your IP address, browser type, operating system, domain name, access times and referring Web site addresses. This information is used for the operation of the service, to improve the relevance of content, and to provide statistics regarding use of Monsters and Critics.com.
+Monsters and Critics may collect and use Users personal information for the following purposes:
 
-Monsters and Critics.com also collects information about which pages our customers visit within Monsters and Critics.com. This site usage data is is never linked with personal information unless a user consents as described below.
+\- To improve customer service  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.  
+\- To personalize user experience  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
+\- To improve our Site  
+We may use feedback you provide to improve our products and services.  
+\- To run a promotion, contest, survey or other Site feature  
+To send Users information they agreed to receive about topics we think will be of interest to them.  
+\- To send periodic emails  
+We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
-Monsters and Critics.com uses its own membership and subscription system. When you sign in to this site using this system, you will be asked to provide your login and a password to sign you in. 
+How we protect your information
 
-To learn more about free membership and paid subscription, the information stored in your profile, and how Monsters and Critics uses and protects your personal information, please read the our Terms and Conditions. (link)
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
- ** _How we use  your Personal Information_**
+Sharing your personal information
 
-We use your personal information for the following purposes:  
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
+Third party websites
 
-  * To ensure our site content is relevant to your needs and interests. 
-  * To deliver services, such as updates, newsletters, pre-delivered content, that you request, subscribe to or purchase. 
-  * To allow you access to restricted areas of our site as appropriate.  
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
+Advertising
 
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
+Google Adsense
 
-We will merge site-usage data with anonymous demographic information for research and marketing purposes, and we may use this information in aggregate to provide more relevant content. In some restricted sections of Monsters and Critics.com, with your approval, we will combine site-visitation data with your personal information in order to provide you with personalized content. If you decline permission, we will not provide you the personalized service and won't merge your personal information with site usage data.
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
 
-We occasionally hire other companies to provide services on our behalf, including packaging, mailing and delivering purchases, and delivery of content. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
+Compliance with children’s online privacy protection act
 
-Monsters and Critics may disclose your personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Monsters and Critics (WOTR Ltd) or the site; (b) protect and defend the rights or property of Monsters and Critics and its Web sites, or (c) act in urgent circumstances to protect the personal safety of Monsters and Crtitics employees, users, or members of the public.
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-Your information may be stored and processed in the United Kingdom, United States or any other country in which Monsters and Critics or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country. Monsters and Critics abides by the safe harbor(link) framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. As well as the Data Protection Act(link) in the UK where WOTR Ltd is registered.
+Changes to this privacy policy
 
-**_Google Ads_**
+Monsters and Critics has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-Google, as a third party vendor, uses cookies to serve ads on your site.   
-Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. 
+Your acceptance of these terms
 
-Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+Contacting us
 
-**_Control of your Personal Information_**
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+Monsters and Critics
 
-When you register, or otherwise give us personal information, Monsters and Critics.com will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above.
+http://www.monstersandcritics.com
 
-Registering also allows you to tell us how or whether you want Monsters and Critics.com to communicate with you. After registering, go to your personal homepage and establish your preferences in the  Options sections. There, you can decide what information you want to receive and how you want to receive it. Or you can tell us not to contact you by selecting the appropriate option.
+Teutonicscotia Limited  
+2-2 42 Tassie Street  
+Shawlands  
+Glasgow  
+Scotland  
+G41 3QF
 
-Monsters and Critics.com occasionally allows other companies to offer our registered customers information about their products and services. If you want to receive these offers, you should check the box in the Options section of your profile or indicate it upon registering.
+This document was last updated on March 06, 2014
 
-Monsters and Critics.com may send out periodic e-mails informing you of technical or service issues related to the site or a service you requested, or confirming you requested a product or service. You will not be able to choose to unsubscribe to these mailings, as they are considered an essential part of the site operation and are needed in order that we comply with etiquette regarding newsletter conformation and other practices.
-
-**_Accessing your Personal Information_**
-
-We will provide you with the means to ensure that your personal information is correct and current. As well as the ability to remove information stored by us about you.
-
-If you register on Monsters and Critics.com or subscribe to a newsletter, you can review and edit your personal information on your profile. You will be asked to enter your login and password before viewing your personal information, unless you have chosen for the site to remember your details. You can also be removed from any Newsletter by clicking the unsubscribe link which is present in every one.
-
-In your Profile you can: 
-
-  *  View and edit personal information you have already given us at Monsters and Critics.com.
-
-
-  * Tell us whether you want Monsters and Critics.com to send you marketing information.
-
-
-  * Choose whether you want third parties to send you their offers by postal mail or receive e-mail via Monsters and Critics from these companies.
-
-
-  * Subscribe, or cancel subscriptions, to newsletters about our services or content.
-
-
-  * Choose which Items you are tracking.  
-
-
-
-
-Some services and features offered on Monsters and Critics.com may collect information that is not accessible via your Profile. However, in such cases, you can access your personal information by contacting Monsters and Critics.com as described at the bottom of this statement.
-
-**_Security of your Personal Information_**
-
-Monsters and Critics.com is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. For example, we store the personal information you provide in computer servers with limited access that are located in controlled facilities. When we transmit sensitive information over the internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
-
-**_Children's Personal Information_**
-
-Monsters and Critics.com is a general audience site and does not knowingly collect any personal information from children under 13 years old.
-
-**_Protecting Children_**
-
-Monsters and Critics is committed to protecting children from any content inappropriate for them to view or from anything which their parents do not want them to see. To this end all our forums are moderated and staff are trained to watch for any inappropriate behaviour. We also endevour to stop childern under 13 from accessing certain parts of the site by requiring confirmation of age.
-
-The site is aimed at a general audience and has a strict policy against obscenity, racism, bigotry or sexism. However, it does review media and arts which cover a broad spectrum of subjects and have a varety of ratings. So we feel there is some content not appropriate for children under 13 years old.
-
-We cannot accept any responsiilty for persons accessing parts of the site against the wishes of their parents where we have been given false information. If you are concerned about anything you see on the site please do not hesitate to [contact us](http://support.monstersandcritics.com/index.php?group=default). We can also provide some limited advise on protecting your children from inappriate content.
-
-**_Use of Cookies_**
-
-When someone visits the site, a cookie is placed on the your computer  or is read if the customer has visited the site previously. One use of cookies is to assist in the collection of the site visitation statistics described above.
-
-We also use cookies to collect information on which newsletter links are clicked by customers. This information is used to ensure we are sending information customers want to read and so improve the service. It is collected in aggregate form and never linked with your personal information.
-
-Web beacons, also known as clear gif technology, or action tags, may be used to assist in delivering the cookie on our site. This technology tells us how many visitors clicked on key elements (such as links or graphics) on a Monsters and Critics.com Web page. We do not use this technology to access your personally identifiable information on Monsters and Critics.com; it is a tool we use to compile aggregated statistics about Monsters and Critics.com Web site usage. We may share aggregated site statistics with partner companies but do not allow other companies to place clear gifs on our sites.  
-
-
-We also uses cookies in connection with our membership and subscriber services.
-
-If you choose to not have your browser accept cookies from the Monsters and Critics.com Web site, you will be able to view the text on the screens, however you will not experience a personalized visit nor will you be able to access the full services and content on the site.
-
-**_Changes to this Statement_**
-
-Monsters and Critics.com will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this statement, Monsters and Critics.com will notify you by placing a prominent notice on the Web site.
-
-**_Contact Information_**
-
-We welcome your comments regarding this privacy statement, please contact us at news desk at gmail dot com.
+Privacy policy created by http://www.generateprivacypolicy.com
