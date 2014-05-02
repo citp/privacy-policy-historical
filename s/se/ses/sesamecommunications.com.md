@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sesamecommunications.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230134436id_/http%3A//www.sesamecommunications.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sesamecommunications.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502024716id_/http%3A//www.sesamecommunications.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sesame Communications
 
