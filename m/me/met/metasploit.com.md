@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metasploit.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110204254id_/http%3A//www.rapid7.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metasploit.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502050755id_/http%3A//www.rapid7.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Rapid7
 
@@ -8,7 +8,7 @@ Rapid7 LLC and its affiliates (collectively, "we", "our", "us" or "Rapid7") is c
 
 Rapid7 has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through these Web sites, [www.rapid7.com](http://www.rapid7.com/) and [www.metasploit.com](http://www.metasploit.com/) and does not cover information that may be collected through any software downloaded from the Sites. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@rapid7.com](mailto:info@rapid7.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-Rapid7 participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce.  As part of our [participation](https://www.export.gov/safehrbr/list.aspx) in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework.
+Rapid7 participates in the U.S.-Swiss Safe Harbor and U.S.-EU Safe Harbor Privacy Frameworks as set forth by the United States Department of Commerce.  As part of our [participation](https://www.export.gov/safehrbr/list.aspx) in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework.
 
 #### Collection and Use of Personal Information
 
@@ -116,7 +116,7 @@ We may update this privacy policy to reflect changes to our information practice
 
 You can contact us by writing or email us at the address below:  
 **Rapid7**  
-800 Boylston Street,   
-Prudential Tower, 29th Floor,   
-Boston, MA 02199-8095  
+100 Summer Street  
+13th Floor  
+Boston, MA 02110-2131  
 [info@rapid7.com](mailto:info@rapid7.com "mailto:info@rapid7.com")
