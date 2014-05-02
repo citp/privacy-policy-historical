@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klicknews.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222095949id_/http%3A//klicknews.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klicknews.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502053809id_/http%3A//www.klicknews.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | klicknews
 
