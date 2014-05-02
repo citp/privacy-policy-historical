@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeoutkl.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014195530id_/http%3A//www.timeoutkl.com/corporate/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoutkl.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502121749id_/http%3A//www.timeoutkl.com/corporate/Privacy) for the most accurate reproduction.*
 
 # KL Attractions, Activities & What's On in KL - Time Out Kuala Lumpur
 
@@ -54,3 +54,12 @@ Our site is not directed to users under the age of 16. TOKL will not knowingly (
 **TOKL's right to change privacy policy and no impediment on transfer of assets**
 
 This policy is effective as of Feb 2008. TOKL may change this policy at any time. You should periodically revisit our privacy policy to be sure that you are familiar with our current policy. Your use of the site following any modifications to the privacy policy will be conclusively deemed acceptance of the terms of this privacy policy and any changes to the policy. Nothing in this privacy policy is meant to impede TOKL's right or ability to transfer, sell or otherwise dispose of any of its assets.
+
+**Personal Data Protection Act 2010**
+
+  * All information received is for the use of Mongoose Publishing Sdn Bhd
+  * Subscriber / Purchaser allows Mongoose Publishing Sdn Bhd to process the information received for the fulfillment of subscription / products and all processes related to the purchase
+  * Subscriber / Purchaser allows the information to be processed and passed on to a third party contractor (address details only) for fulfillment of subscription / products (delivery).
+  * Any adjustment of the subscription / purchaser's information must be in writing by the relevant party to the address stated below or emailed to [subscription@mongooseasia.com](mailto:subscription@mongooseasia.com)
+
+
