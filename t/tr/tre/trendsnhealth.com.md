@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the trendsnhealth.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231144853id_/http%3A//www.trendsnhealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendsnhealth.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502203454id_/http%3A//www.trendsnhealth.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Trends and Health
+# Privacy Policy - Trends and Health
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.trendsnhealth.com%2Fprivacy-policy%2F&media=)
 
 **PLEASE READ THIS PRIVACY POLICY BEFORE ACCESING THE WEBSITE**
 
@@ -30,3 +32,5 @@ websites (by Google Adsense).
 Website may disclose this non-personal information (mentioned above) to its marketing partners and advertisers so that these third parties may learn the requirements and preferences of each visitor and, accordingly, serve each visitor with customized content including user-targeted advertisements. Although  _ **www.trendsnhealth.com**  _discloses such non-personal information to third parties on the condition that these third parties will not retain this non personal information or use it for any purpose other than that stated.
 
 Note: Your IP address or demographic information is never shared with anyone or disclosed to third parties.
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.trendsnhealth.com%2Fprivacy-policy%2F&media=)
