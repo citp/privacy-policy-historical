@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tfaforms.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509225832id_/http%3A//www3.formassembly.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfaforms.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502220025id_/http%3A//www3.formassembly.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Effective Date: January 1, 2013
+### Effective Date: October 16, 2013
 
 The Veer West LLC Privacy Policy was developed as an extension of our commitment to combine the highest-quality services with integrity in dealing with our Users and Subscribers. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be assessed from time to time against new technologies, business practices and our Subscribers and their Users' needs. 
 
@@ -25,11 +25,11 @@ Users
 
 ### TRUSTe Privacy Seal
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.formassembly.com&sealid=102 "TRUSTe Privacy Seal")
+[](https://privacy.truste.com/privacy-seal/Veer-West-LLC/validation?rid=2afc59f6-c34e-4649-afa2-5c2b1ec48991 "TRUSTe European Safe Harbor certification")
 
-Veer West LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the web site [formassembly.com](http://www.formassembly.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
+Veer West LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the web site [formassembly.com](http://www.formassembly.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
 
-If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
+If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
 * * *
 
@@ -40,7 +40,7 @@ If you are not satisfied with our response you can contact [TRUSTe here](http://
 
 [](https://privacy.truste.com/privacy-seal/Veer-West-LLC/validation?rid=2afc59f6-c34e-4649-afa2-5c2b1ec48991 "TRUSTe European Safe Harbor certification")
 
-Veer West LLC complies with the U.S.–E.U. and U.S.–Swiss Safe Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Veer West LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Veer West LLC's certification, please visit [http://www.export.gov/safeharbor](http://export.gov/safeharbor).
+Veer West LLC complies with the U.S.–E.U. and U.S.–Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Veer West LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Veer West LLC's certification, please visit [http://www.export.gov/safeharbor](http://export.gov/safeharbor).
 
 * * *
 
@@ -103,6 +103,9 @@ We will send you strictly service-related announcements on rare occasions when i
 From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). 
 
 We use this information to gather feedback on new or improved features, determine what improvements should be made to the application, and improve personalization of the application. In the case of a contest, information is used to notify winners and award prizes. 
+
+**Blog and Forum**  
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. _To request removal of your personal information from our blog or community forum, contact us at_ [contact@formassembly.com](mailto:contact@formassembly.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
 
 * * *
 
@@ -194,6 +197,10 @@ Although not owned, controlled, or moderated by our site, we do offer a link to 
 
 * * *
 
+Our Web site includes Social Media Features, such as the Follow us on Twitter button [and Widgets, such as Google Plus button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+* * *
+
   
 
 
@@ -226,6 +233,6 @@ Suite 224
 Bloomington, IN 47404 USA  
 `
 
-Veer West LLC participates in the EU and Swiss Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. 
+Veer West LLC participates in the EU and Swiss Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our [participation](http://www.export.gov/safeharbor/) in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. 
 
-If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [clicking here](https://feedback-form.truste.com/watchdog/request), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about-TRUSTe/contact-us). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click [here](https://feedback-form.truste.com/watchdog/request) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities.
+If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [clicking here](https://feedback-form.truste.com/watchdog/request), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about-TRUSTe/contact-us). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click [here](http://www.truste.com/products-and-services/dispute-resolution-services/) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities.
