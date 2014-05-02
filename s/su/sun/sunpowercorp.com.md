@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sunpowercorp.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107064615id_/http%3A//us.sunpowercorp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunpowercorp.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502114243id_/http%3A//us.sunpower.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SunPower
+
+This Privacy Policy is effective as of and was last updated on April 1, 2014
 
 **1\. General.**
 
@@ -24,7 +26,7 @@ Like most site operators, we gather Non-Personally-Identifying Information from 
 
 **(ii) Web Cookies.**
 
-A " **Web Cookie** "is a string of information that a site stores on your computer, and your browser provides to this Site, each time you submit a query to this Site. We may use Web Cookies to track the pages that you visit during each Site session, both to help us improve your experience and to help us understand how this Site is being used.
+A " **Web Cookie** " is a string of information that a site stores on your computer, and your browser provides to this Site, each time you submit a query to this Site. We may use Web Cookies to track the pages that you visit during each Site session, both to help us improve your experience and to help us understand how this Site is being used.
 
 IF YOU DO NOT WISH TO HAVE WEB COOKIES PLACED ON YOUR COMPUTER, YOU SHOULD SET YOUR BROWSER TO REFUSE WEB COOKIES BEFORE ACCESSING THIS SITE, WITH THE UNDERSTANDING THAT CERTAIN FEATURES OF THIS SITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF WEB COOKIES. IF YOU REFUSE WEB COOKIES, YOU ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY.
 
@@ -81,7 +83,7 @@ From time to time, we may offer you the opportunity to participate in contests, 
 
   * **Security.**
 
-We take reasonable precautions to protect the security of your information. However, neither people nor security systems are foolproof. Therefore, while we use reasonable efforts to protect your Personally-Identifying Information, we cannot guarantee its absolute security. Any unauthorized access to or use of this Site or information collected and maintained by this Site should be immediately brought to our attention by sending us an email at: [customercare@sunpowercorp.com](mailto:customercare@sunpowercorp.com).
+We take reasonable precautions to protect the security of your information. However, neither people nor security systems are foolproof. Therefore, while we use reasonable efforts to protect your Personally-Identifying Information, we cannot guarantee its absolute security. Any unauthorized access to or use of this Site or information collected and maintained by this Site should be immediately brought to our attention by sending us an email at: [customercare@sunpower.com](mailto:customercare@sunpower.com).
 
   * **Storage of Personally Identifying Information Outside of the United States and Canada.**
 
@@ -114,17 +116,34 @@ We may email you about products and services that we believe may be of interest 
 
 Third parties are under no obligation to comply with this Privacy Policy with respect to Personally-Identifying Information that you provide directly to those third parties or that those third parties collect for themselves. We do not control the third-party sites that may be accessible through this Site. Thus, this Privacy Policy does not apply to information provided to third-party sites or gathered by the third parties that operate them. Before visiting a third-party site, whether by means of a link on this Site or otherwise, and before providing any Personally-Identifying Information to any third party, you should inform yourself of the privacy policies and practices (if any) of the third party responsible for that site, and should take those steps necessary to your discretion, to protect your privacy.
 
-**6\. Privacy Policy Changes.**
+**6\. Tailored Messages.**
+
+  * **Do Not Track Policy.**
+
+California law requires that operators of website and online services disclose how they respond to a Do Not Track signal and whether other third parties may collect personally identifiable information about an individual’s online activities from their site or service.
+
+Some browsers have incorporated “Do Not Track” features. Most of these features, when turned on, send a signal or preference to the website or online service that a user visits, indicating that the user does not wish to be tracked. Because there is not yet a common understanding of how to interpret Do Not Track signals, SunPower does not currently respond to Do Not Track signal. We continue to work with the online industry to define a common understanding of how to treat Do Not Track signals. However, in the meantime, if you do want your use of the SunPower Service not to be tracked so that we can send you targeted advertisements, please contact us as indicated in the “Contact Us” section below.
+
+  * **Third Party Cookies.**
+
+We allow third parties with which we have a separate agreement to use cookies and other technologies to collect information about the use of our website. These third parties include (1) business partners, who collect information when you view or interact with one of their advertisements on this Site; and (2) advertising networks, which collect information about your interests when you view or interact with one of their advertisements. The information gathered by these third parties is used to make predictions about your interests or preferences so that they can display advertisements or promotional material on this Site and on other sites across the Internet tailored to your apparent interests.
+
+We do not do not share with these third parties any information that would readily identify about you (such as email address); however, these third parties may have access to information about your device (such as IP or MAC address). We do not have access to, or control over, the technologies that these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy.
+
+
+
+
+**7\. Privacy Policy Changes.**
 
 Because of changes in technology and the growth and development of our business, or for other business reasons, we may need to modify this Privacy Policy from time to time. We will alert you by email if this policy is revised (if you have given us your email address), and will post a copy of the new policy with its effective date on this Site. It is therefore important that you register with the site and notify us if you change your email address. If you do not provide us with a current email address, you should regularly review this policy to ensure that you are informed of any changes.
 
 Unless we obtain your express consent, any revised Privacy Policy will apply only to information collected after the time it takes effect, and not to information collected under any earlier Privacy Policy.
 
-**7\. Access to Information.**
+**8\. Access to Information.**
 
 You have a right to contact us in order to access or update any personal information that we may store about you.
 
-**8\. Contact Us.**
+**9\. Contact Us.**
 
 If you wish to contact us, please contact us at the following addresses and include your name, address and email address in your correspondence to us:
 
@@ -133,20 +152,18 @@ SunPower Customer Service
 77 Rio Robles  
 San Jose, CA 95134  
 Telephone: 800-786-7693  
-Email: [customercare@sunpowercorp.com](mailto:customercare@sunpowercorp.com)
+Email: [customercare@sunpower.com](mailto:customercare@sunpower.com)
 
 **Residential Users **  
 SunPower Customer Service  
 77 Rio Robles  
 San Jose, CA 95134  
 Telephone: 800-786-7693  
-Email: [customercare@sunpowercorp.com](mailto:customercare@sunpowercorp.com)
+Email: [customercare@sunpower.com](mailto:customercare@sunpower.com)
 
 **Commercial Customers**  
 SunPower Customer Service  
 77 Rio Robles  
 San Jose, CA 95134  
 Telephone: 800-786-7693  
-Email: [customercare@sunpowercorp.com](mailto:customercare@sunpowercorp.com)
-
-This Privacy Policy is effective as of and was last updated on December 01, 2011.
+Email: [customercare@sunpower.com](mailto:customercare@sunpower.com)
