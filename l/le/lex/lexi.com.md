@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lexi.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230171742id_/http%3A//www.lexi.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexi.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502235850id_/http%3A//www.lexi.com/home/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Respecting Your Concerns for Privacy - Lexi-Comp
+# Privacy Policy | Lexicomp
 
 Lexi-Comp, Inc. has created this privacy statement to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for all of our web sites. 
 
