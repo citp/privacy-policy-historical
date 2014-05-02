@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thelibertyman.com privacy policy that was archived on 2013-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131231191346id_/http%3A//thelibertyman.com/tlm-PrivacyPolicy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thelibertyman.com privacy policy that was archived on 2014-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140502214820id_/http%3A//www.thelibertyman.com/tlm-PrivacyPolicy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
       <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -15,8 +15,172 @@
       
 
   
+    <style type="text/css">
+/*Example CSS for the two demo scrollers*/
+#pscroller1{
+width: 900px;
+height: 100px;
+border: 0px solid #330606;
+padding: 5px;
+background-color: white;
+}
+#pscroller2 a{
+text-decoration: none;
+}
+.someclass{ //class to apply to your scroller(s) if desired
+}
+</style>
+    <script type="text/javascript">
+/*Example message arrays for the two demo scrollers*/
+var pausecontent=new Array()
+pausecontent[0]=' <h1 align="center"/><font face="Helvetica, Arial, sans-serif"/>John JR Moore\'s Guest Appearance Schedule</font></h1>
+<font face="Helvetica, Arial, sans-serif"/><br>
+</font>'
+pausecontent[1]='<h3><font face="Helvetica, Arial, sans-serif"/>Mondays at 4:00PM
+Central, Dr. Bill Deagle, <a target="_blank"
+href="http://www.gcnlive.com/CMS/index.php/showinfo?showCode=27"/>The
+Nutrimedical Report</a>, Genesis Communications Network <font
+color="#ff0000"/><b><a target="_blank"
+href="http://www.gcnlive.com/CMS/index.php"/>Listen Live</a></b></font></font></h3>'
+pausecontent[2]='<h3><font face="Helvetica, Arial, sans-serif"/>Fridays at 4:00PM
+Central, Dr. Bill Deagle, <a target="_blank"
+href="http://www.gcnlive.com/CMS/index.php/showinfo?showCode=27"/>The
+Nutrimedical Report</a>, Genesis Communications Network <font
+color="#ff0000"/><b><a target="_blank"
+href="http://www.gcnlive.com/CMS/index.php"/>Listen Live</a></b></font></font></h3>'
+</script>
+    <style type="text/css">
+/*Example CSS for the two demo scrollers*/
+#pscroller1{
+width: 900px;
+height: 70px;
+border: 0px solid #330101;
+padding: 5px;
+background-color: ;
+}
+#pscroller2{
+width: 900px;
+height: 100px;
+border: 1px solid black;
+padding: 5px;
+background-color: whitesmoke;
+}
+#pscroller2 a{
+text-decoration: none;
+}
+.someclass{ //class to apply to your scroller(s) if desired
+}
+</style>
+    <script type="text/javascript">
+/*Example message arrays for the two demo scrollers*/
+var pausecontent=new Array()
+pausecontent[0]='<big>Mondays at 4:00 PM Central, Dr. Bill Deagle, Nutrimedical Report, Genesis Communications Network - <a target="_new" href="http://www.gcnlive.com/CMS/index.php"/><b>Listen Live</b></a></big> '
+pausecontent[1]='<big>Fridays at 4:00 PM Central, Dr. Bill Deagle, Nutrimedical Report, Genesis Communications Network - <a target="_new" href="http://www.gcnlive.com/CMS/index.php"/><b>Listen Live</b></a></big> '
+
+
+
+
+var pausecontent2=new Array()
+pausecontent2[0]='<a href="http://www.news.com"/>News.com: Technology and business reports</a>'
+pausecontent2[1]='<a href="http://www.cnn.com"/>CNN: Headline and breaking news 24/7</a>'
+pausecontent2[2]='<a href="http://news.bbc.co.uk"/>BBC News: UK and international news</a>'
+</script>
+    <script type="text/javascript">
+/***********************************************
+* Pausing up-down scroller- Â© Dynamic Drive (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for this script and 100s more.
+***********************************************/
+function pausescroller(content, divId, divClass, delay){
+this.content=content //message array content
+this.tickerid=divId //ID of ticker div to display information
+this.delay=delay //Delay between msg change, in miliseconds.
+this.mouseoverBol=0 //Boolean to indicate whether mouse is currently over scroller (and pause it if it is)
+this.hiddendivpointer=1 //index of message array for hidden div
+document.write('<div id="'+divId+'" class="'+divClass+'" style="position: relative; overflow: hidden"/><div class="innerDiv" style="position: absolute; width: 100%" id="'+divId+'1"/>'+content[0]+'</div><div class="innerDiv" style="position: absolute; width: 100%; visibility: hidden" id="'+divId+'2"/>'+content[1]+'</div></div>')
+var scrollerinstance=this
+if (window.addEventListener) //run onload in DOM2 browsers
+window.addEventListener("load", function(){scrollerinstance.initialize()}, false)
+else if (window.attachEvent) //run onload in IE5.5+
+window.attachEvent("onload", function(){scrollerinstance.initialize()})
+else if (document.getElementById) //if legacy DOM browsers, just start scroller after 0.5 sec
+setTimeout(function(){scrollerinstance.initialize()}, 500)
+}
+// -------------------------------------------------------------------
+// initialize()- Initialize scroller method.
+// -Get div objects, set initial positions, start up down animation
+// -------------------------------------------------------------------
+pausescroller.prototype.initialize=function(){
+this.tickerdiv=document.getElementById(this.tickerid)
+this.visiblediv=document.getElementById(this.tickerid+"1")
+this.hiddendiv=document.getElementById(this.tickerid+"2")
+this.visibledivtop=parseInt(pausescroller.getCSSpadding(this.tickerdiv))
+//set width of inner DIVs to outer DIV's width minus padding (padding assumed to be top padding x 2)
+this.visiblediv.style.width=this.hiddendiv.style.width=this.tickerdiv.offsetWidth-(this.visibledivtop*2)+"px"
+this.getinline(this.visiblediv, this.hiddendiv)
+this.hiddendiv.style.visibility="visible"
+var scrollerinstance=this
+document.getElementById(this.tickerid).onmouseover=function(){scrollerinstance.mouseoverBol=1}
+document.getElementById(this.tickerid).onmouseout=function(){scrollerinstance.mouseoverBol=0}
+if (window.attachEvent) //Clean up loose references in IE
+window.attachEvent("onunload", function(){scrollerinstance.tickerdiv.onmouseover=scrollerinstance.tickerdiv.onmouseout=null})
+setTimeout(function(){scrollerinstance.animateup()}, this.delay)
+}
+// -------------------------------------------------------------------
+// animateup()- Move the two inner divs of the scroller up and in sync
+// -------------------------------------------------------------------
+pausescroller.prototype.animateup=function(){
+var scrollerinstance=this
+if (parseInt(this.hiddendiv.style.top)>(this.visibledivtop+5)){
+this.visiblediv.style.top=parseInt(this.visiblediv.style.top)-5+"px"
+this.hiddendiv.style.top=parseInt(this.hiddendiv.style.top)-5+"px"
+setTimeout(function(){scrollerinstance.animateup()}, 50)
+}
+else{
+this.getinline(this.hiddendiv, this.visiblediv)
+this.swapdivs()
+setTimeout(function(){scrollerinstance.setmessage()}, this.delay)
+}
+}
+// -------------------------------------------------------------------
+// swapdivs()- Swap between which is the visible and which is the hidden div
+// -------------------------------------------------------------------
+pausescroller.prototype.swapdivs=function(){
+var tempcontainer=this.visiblediv
+this.visiblediv=this.hiddendiv
+this.hiddendiv=tempcontainer
+}
+pausescroller.prototype.getinline=function(div1, div2){
+div1.style.top=this.visibledivtop+"px"
+div2.style.top=Math.max(div1.parentNode.offsetHeight, div1.offsetHeight)+"px"
+}
+// -------------------------------------------------------------------
+// setmessage()- Populate the hidden div with the next message before it's visible
+// -------------------------------------------------------------------
+pausescroller.prototype.setmessage=function(){
+var scrollerinstance=this
+if (this.mouseoverBol==1) //if mouse is currently over scoller, do nothing (pause it)
+setTimeout(function(){scrollerinstance.setmessage()}, 100)
+else{
+var i=this.hiddendivpointer
+var ceiling=this.content.length
+this.hiddendivpointer=(i+1>ceiling-1)? 0 : i+1
+this.hiddendiv.innerHTML=this.content[this.hiddendivpointer]
+this.animateup()
+}
+}
+pausescroller.getCSSpadding=function(tickerobj){ //get CSS padding value, if any
+if (tickerobj.currentStyle)
+return tickerobj.currentStyle["paddingTop"]
+else if (window.getComputedStyle) //if DOM2
+return window.getComputedStyle(tickerobj, "").getPropertyValue("padding-top")
+else
+return 0
+}
+</script>
     <meta http-equiv="content-type" content="text/html;
       charset=windows-1252">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
   
   
     <!--[endif]---->
@@ -37,7 +201,7 @@
     <meta name="keywords" content="News,Survival information,Palnet X,
       Nibiru, Talk Radio,John Moore Show,Earth Changes,climate change">
     <meta name="robots" content="noindex,follow">
-    <meta name="copyright" content="Copyright © 2012 TheLibertyMan.com.
+    <meta name="copyright" content="Copyright Â© 2012 TheLibertyMan.com.
       All Rights Reserved.">
     <meta name="author" content="John \" j.r.\"="" moore"="">
     <meta name="category" content="Alternative News">
@@ -53,11 +217,11 @@
           <tr>
             <td style=" vertical-align: middle; text-align: right;">
               <table style=" text-align: left; width: 100%; margin-left:
-                auto; margin-right: auto;" width="100%" border="0" cellpadding="0" cellspacing="0">
+                auto; margin-right: auto;" border="0" cellpadding="0" cellspacing="0" width="100%">
                 <tbody>
                   <tr align="left">
                     <td style="text-align: left;">
-                      <table style="text-align: left;" height="244" width="100%" border="0" cellpadding="0" cellspacing="0">
+                      <table style="text-align: left;" height="244" border="0" cellpadding="0" cellspacing="0" width="100%">
                         <tbody>
                           <tr>
                             <td style="vertical-align: top;"><a href="index.shtml"><img title="Click
@@ -112,7 +276,7 @@
                                     John Moore Show each weekday @ 06:00
                                     CT" title="LISTEN LIVE to the John
                                     Moore Show each weekday @ 06:00 CT
-                                    (Opens in new browser tab)" height="128" width="125" border="0"></big></a><a href="documents_index.shtml"><img src="images/download.png" title="Index
+                                    (Opens in new browser tab)" height="128" border="0" width="125"></big></a><a href="documents_index.shtml"><img src="images/download.png" title="Index
                                   of Free Media Downloads" alt="Link
                                   Button for Index of Free Document
                                   Downloads" style="border: 0px solid;
@@ -129,7 +293,7 @@
                                   Liberty Man on You Tube (Opens in new
                                   browser tab)" style="border: 0px
                                   solid; border: 0px solid; width: 48px;
-                                  height: 49px;" height="100" width="98" border="0"></a><a target="_blank" href="http://www.facebook.com/pages/The-John-Moore-Radio-Show/307607352591548?ref=ts&amp;fref=ts"><img target="blank" title="The Liberty Man
+                                  height: 49px;" height="100" border="0" width="98"></a><a target="_blank" href="http://www.facebook.com/pages/The-John-Moore-Radio-Show/307607352591548?ref=ts&amp;fref=ts"><img target="blank" title="The Liberty Man
                                   on Facebook (Opens in new browser
                                   tab)" alt="The Liberty Man on
                                   Facebook" src="images/facebook.png" style="border: 0px solid; border: 0px
@@ -142,63 +306,52 @@
                                   Moore writes for RuralSurvival.info" src="images/RSi.png" style="border:
                                   0px solid; border: 0px solid; width:
                                   48px; height: 50px;"></a>
-                              <div id="time"> <br>
-                                <div align="left">
+                              <div id="time"> <big><big><br>
+                                  </big></big>
+                                <div align="left"><big><big> </big></big>
                                   <ul>
-                                    <li><span style="color: rgb(0, 0,
-                                        0);"><a style=" font-style:
-                                          italic;" target="_blank" href="http://www.republicbroadcasting.org/shoutcast/shoutcast.html">Listen
+                                    <big><big> </big></big>
+                                    <li><big><span style="color: rgb(0,
+                                          0, 0);"><a style=" font-style:
+                                            italic;" target="_blank" href="http://www.republicbroadcasting.org/shoutcast/shoutcast.html">Listen
 
 
 
 
 
+                                            Live to the John Moore Show<br>
+                                          </a></span></big></li>
+                                    <small> </small><big> </big><small>
+                                    </small>
+                                    <li><big><a title="The Liberty Man
+                                          Radio Show Archives on
+                                          YouTube" target="_blank" href="http://www.youtube.com/user/jrliberty">Radio
 
 
 
 
 
+                                          Show Archives on YouTube</a></big></li>
+                                    <small> </small><big> </big><small>
+                                    </small>
+                                    <li><big><a href="http://www.thelibertyman.com/shows_index.shtml">Show
 
 
 
 
 
+                                          Archives 01 May, 2013 - to
+                                          present, hosted on
+                                          TheLibertyMan.Com</a></big></li>
+                                    <li><big><u><font color="#006600"><b>MUST
 
 
+                                              SEE!</b></font></u> <a href="http://www.thelibertyman.com/fsbo_home_omaha_ar.shtml">Home
 
 
-
-
-
-
-
-
-
-
-
-
-                                          Live to the John Moore Show<br>
-                                        </a></span></li>
-                                    <li><a title="The Liberty Man Radio
-                                        Show Archives on YouTube" target="_blank" href="http://www.youtube.com/user/jrliberty">Radio
-
-
-
-
-
-
-
-
-
-
-
-                                        Show Archives on YouTube</a></li>
-                                    <li><a href="http://www.thelibertyman.com/shows_index.shtml">Show
-
-
-                                        Archives 01 May, 2013 - to
-                                        present, hosted on
-                                        TheLibertyMan.Com</a></li>
+                                          in the Ozarks For Sale by
+                                          Owner</a><br>
+                                      </big></li>
                                   </ul>
                                 </div>
                               </div>
@@ -207,8 +360,18 @@
                               </a></td>
                           </tr>
                           <tr align="center">
-                            <td colspan="2" valign="top"><a target="_blank" href="http://www.terravivos.com/secure/affiliate.php?aid=1"><img alt="" src="http://www.thelibertyman.com/images/affiliatebanner.gif" style="border: 0px solid; border: 0px
-                                  solid; width: 870px; height: 97px;"></a></td>
+                            <td colspan="2" valign="top"><big><big><b>John
+
+
+
+
+
+                                    "J.R." Moore's Guest Appearances </b><b>Schedule:</b></big></big><br>
+                              <script type="text/javascript">
+//new pausescroller(name_of_message_array, CSS_ID, CSS_classname, pause_in_miliseconds)
+new pausescroller(pausecontent, "pscroller1", "someclass", 7000)
+document.write("<br />")
+</script><div id="pscroller1" class="someclass" style="position: relative; overflow: hidden"><div class="innerDiv" style="position: absolute; width: 900px; top: 5px;" id="pscroller11"><big>Mondays at 4:00 PM Central, Dr. Bill Deagle, Nutrimedical Report, Genesis Communications Network - <a target="_new" href="http://www.gcnlive.com/CMS/index.php"><b>Listen Live</b></a></big> </div><div class="innerDiv" style="position: absolute; width: 900px; visibility: visible; top: 80px;" id="pscroller12"><big>Fridays at 4:00 PM Central, Dr. Bill Deagle, Nutrimedical Report, Genesis Communications Network - <a target="_new" href="http://www.gcnlive.com/CMS/index.php"><b>Listen Live</b></a></big> </div></div><br> </td>
                           </tr>
                         </tbody>
                       </table>
@@ -252,6 +415,7 @@
 
 
   
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
     <link rel="stylesheet" media="all" href="tlm-css.css">
     <script src="http://www.thelibertyman.com/src_preload.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -288,24 +452,29 @@
     <div id="left">
       <script language="JavaScript">
 <!--
-
 function random_imglink(){
 var myimages=new Array()
 //specify random images below. You can have as many as you wish
-myimages[1]="http://www.thelibertyman.com/images/affiliatebannersky.gif"
+myimages[1]="http://thelibertyman.com/images/generac_skyscraper_tlm.png"
 myimages[2]="http://www.thelibertyman.com/images/GW-Sky.png"
 myimages[3]="http://www.thelibertyman.com/images/E-Clean_Sky.png"
 myimages[4]="http://www.thelibertyman.com/images/Faraday_Sky.png"
 myimages[5]="http://www.thelibertyman.com/images/amsoil_Sky.png"
-
+myimages[6]="http://www.thelibertyman.com/images/affiliatebannersky.gif"
+myimages[7]="http://www.thelibertyman.com/images/RE_Banner.png"
+myimages[8]="http://www.ruralsurvival.info/images/Sky_USB_Drive.png"
+myimages[9]="http://www.thelibertyman.com/images/Cover6Gear_Skyscraper.gif"
 //specify corresponding links below
 var imagelinks=new Array()
-imagelinks[1]="http://www.terravivos.com/secure/affiliate.php?aid=1"
+imagelinks[1]="http://generators.thelibertyman.com/"
 imagelinks[2]="http://www.thelibertyman.com/videos.shtml"
 imagelinks[3]="http://www.thelibertyman.com/energy_cleaner.shtml"
 imagelinks[4]="http://www.thelibertyman.com/gear.shtml"
 imagelinks[5]="http://www.lubedealer.com/johnmoore"
-
+imagelinks[6]="http://www.terravivos.com/secure/affiliate.php?aid=1"
+imagelinks[7]="http://www.thelibertyman.com/tlm-Contact.shtml"
+imagelinks[8]="http://www.ruralsurvival.info/usb_drive.shtml"
+imagelinks[9]="http://coversixgear.com/"
 var ry=Math.floor(Math.random()*myimages.length)
 if (ry==0)
 ry=1
@@ -313,7 +482,7 @@ document.write('<a target="_blank" href='+'"'+imagelinks[ry]+'"'+'><img src="'+m
 }
 random_imglink()
 //-->
-</script><a target="_blank" href="http://www.lubedealer.com/johnmoore"><img src="http://www.thelibertyman.com/images/amsoil_Sky.png" border="0"></a>
+</script><a target="_blank" href="http://generators.thelibertyman.com/"><img src="http://thelibertyman.com/images/generac_skyscraper_tlm.png" border="0"></a>
       <h4>Admin</h4>
       <ul id="navlist">
         <li style="color: rgb(0, 0, 0);" id="active"><a href="tlm-Contact.shtml" id="current">Contact Form</a></li>
@@ -325,125 +494,32 @@ random_imglink()
             in XML, is specifically for search engines' use and is of no
             general interest to most people." target="_blank" href="sitemap.xml">XML Site Map</a></li>
       </ul>
+      <script type="text/javascript" src="http://jh.revolvermaps.com/2/2.js?i=77up9cxtj5s&amp;m=0&amp;s=160&amp;c=54ff00&amp;t=1" async="async"></script><br>
+      <a target="_blank" href="http://youtu.be/f3q56o8PBWY?t=18m40s">Apollo
+
+        17 - Final Footprints On The Moon</a><br>
       <br>
       <span style="color: rgb(255, 0, 0); font-weight: bold;">Learning
         From HISTORY:<br>
       </span> <a href="http://www.thelibertyman.com/rangers.shtml">Rodger's
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         Rangers Standing Orders </a><br>
       <span style="color: rgb(255, 0, 0); font-weight: bold;"></span>
       <p><span style="color: rgb(255, 0, 0); font-weight: bold;">HEADS
           UP!<br>
-        </span></p>
+        </span><span style="color: rgb(255, 0, 0); font-weight: bold;"></span><a href="http://www.thelibertyman.com/csm_page.shtml">Special
+          Message from CSM Page (What to Watch For)</a><br>
+      </p>
+      <p><span style="color: rgb(255, 0, 0); font-weight: bold;"></span><span style="color: rgb(255, 0, 0); font-weight: bold;"> </span></p>
       <span style="color: rgb(255, 0, 0); font-weight: bold;"></span><b><a title="Opens in new tab or window..." target="_blank" href="http://www.youtube.com/watch?v=JvxIz-gyHXE">Lindsey
           Williams - Elite Emergency Data</a></b><br>
       <p><a href="http://www.thelibertyman.com/microwave_ovens.shtml">The
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
           Proven Dangers of Microwave Ovens</a><br>
       </p>
       <a href="http://www.thelibertyman.com/downloads/ConstitutionalModel.pdf">Draft
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
         of new Constitution for the United States- <i>circa 2005</i></a><br>
@@ -460,81 +536,9 @@ random_imglink()
                   Research Services, November, 2012" target="_blank" href="downloads/Congressioal_Research_gun_control.pdf">Gun
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                   Control Legislation (CRS)<br>
                 </a></i></li>
             <li><i><a title="Sponsors &amp; Supporters of Legislation" target="_blank" href="downloads/Assault_weapons_ban_2013_sponsors.docx">Sponsors
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
                   of the Assault Weapons Ban of 2013</a></i></li>
@@ -558,42 +562,6 @@ random_imglink()
                   threaded barrel." target="_blank" href="downloads/S_150_Assault_weapons_ban_summary_DF.docx">SB
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                   150 Assualt Wepons Ban Summary<br>
                 </a></i></li>
             <li><i><a title="To amend the Internal Revenue Code of 1986
@@ -604,7 +572,7 @@ random_imglink()
             <li>
               <title></title>
               <i> </i>
-              <meta name="GENERATOR" content="LibreOffice 3.5 (Linux)">
+              <meta name="generator" content="Bluefish 2.2.4">
               <i> </i>
               <style type="text/css">
 	<!--
@@ -626,6 +594,7 @@ random_imglink()
 
 
   
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
     <meta http-equiv="Content-Type" content="text/html;
       charset=windows-1252">
     <script src="http://www.thelibertyman.com/src_preload.js"></script>
@@ -664,9 +633,9 @@ random_imglink()
           <ul id="navlist">
             <h4>Navigation<br>
             </h4>
-            <li id="active"><span style="color: rgb(0, 0, 0);"><a href="file:///home/tim/public_html/thelibertyman.com/index.shtml" id="current">Home</a></span></li>
+            <li id="active"><span style="color: rgb(0, 0, 0);"><a href="http://www.thelibertyman.com/index.shtml" id="current">Home</a></span></li>
           </ul>
-          <font color="#33ff33"><i><b>NEW</b></i></font>:&nbsp; <a href="http://www.thelibertyman.com/downloads/the-power-of-your-subconscious-mind.pdf" target="_blank">The Power of your Subconscious Mind</a><br>
+          <a href="http://www.thelibertyman.com/downloads/the-power-of-your-subconscious-mind.pdf" target="_blank">The Power of your Subconscious Mind</a><br>
           <span style="color: rgb(0, 0, 0);"></span></li>
         <li id="active"><span style="color: rgb(0, 0, 0);"><a href="ccw.shtml">CCW Training</a></span><br>
         </li>
@@ -675,31 +644,6 @@ random_imglink()
               READ Document" target="_blank" href="gulf_stream_stopped.shtml">Gulf Stream Has Stopped!</a></span>
           <span style="color: rgb(0, 0, 0);"><a style="font-style:
               italic;" target="_blank" href="https://www.fnmoc.navy.mil/ncoda_web/dynamic/ncoda_1440x721_global_sst.gif">Current
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -714,60 +658,10 @@ random_imglink()
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-              Consultations</a></span><span style="color: rgb(0, 0, 0);"></span></li>
+              Consultations &amp; Keynote Presentations</a></span><span style="color: rgb(0, 0, 0);"></span></li>
         <li><a href="radio_meetups.shtml">Radio Show Meet-ups</a><span style=" color: rgb(0, 0, 0);"><br>
           </span></li>
         <li><span style="color: rgb(0, 0, 0);"><a href="seminars.shtml">Seminars
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -778,56 +672,8 @@ random_imglink()
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
               &amp; Alternative Medicine Library</a></span></li>
         <li><span style="color: rgb(0, 0, 0);"><a href="10books.shtml">10
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -837,59 +683,9 @@ random_imglink()
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
               Prologue</a></span><br>
           <span style="color: rgb(0, 0, 0);"><a style="font-style:
               italic;" target="_blank" href="http://www.youtube.com/watch?v=KU49MR19CcA&amp;feature=plcp">Watch
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -898,73 +694,12 @@ random_imglink()
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
               Commission Executive Report 2008</a> and also&nbsp; </span><a target="_blank" href="http://www.thelibertyman.com/downloads/dhs_power_outage_spaceweather.pdf">Impacts
-
-
-
-
-
-
-
-
-
-
-
 
 
 
             of Space Weather on the Electronic Grid</a></li>
         <li><span style="color: rgb(0, 0, 0);"><a target="_blank" href="http://www.youtube.com/watch?v=68LUHa_-OlA&amp;feature=related">Must
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -978,16 +713,23 @@ random_imglink()
           <li id="active"><a href="http://www.thelibertyman.com/turtletuff"><span style="color: rgb(0, 0, 0);"></span></a>
             <ul id="navlist">
               <div style="text-align: left;">
-                <li id="active"><a href="http://www.thelibertyman.com/energy_cleaner.shtml"><b><span style="color: rgb(0, 0, 0);">The Energy Cleaner</span></b><b>
-                    </b></a><b><br>
-                  </b> </li>
+                <li id="active"><a style=" font-style: italic;" href="http://www.thelibertyman.com/energy_cleaner_testimonials.shtml"><b><span style="color: rgb(0, 0, 0);"></span></b></a><b><a href="http://www.thelibertyman.com/energy_cleaner.shtml"><img alt="" src="http://www.thelibertyman.com/images/EC_Logo.png" height="40" border="0" width="160" align="middle"></a></b></li>
+                <li id="active"><small><small><small><a href="http://www.thelibertyman.com/downloads/Energy%20Cleaner.pdf"><b>View
+                            this Page in PDF Format</b></a></small></small></small></li>
                 <li id="active"><a style=" font-style: italic;" href="http://www.thelibertyman.com/energy_cleaner_testimonials.shtml"><b>&nbsp;</b><b><span style="color: rgb(0, 0, 0);">Energy Cleaner
-                        Testimonials</span></b></a></li>
+                        Testimonials&nbsp; </span></b><br>
+                    <small><small><small></small></small></small></a><small><small><small><a href="http://www.thelibertyman.com/downloads/Energy%20Cleaner%20Testimonials.pdf"><b>View
+                              this Page in PDF Format</b></a></small></small></small></li>
+                <div>
+                  <li id="active"><a target="_blank" href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=F9EEB4F0-693C-451F-B533-CECA585B8A06&amp;pid=e811c212495a455ba12608b0bbc60083&amp;bn=1"><b><font color="#006600">Purchase</font></b><span style="color: rgb(0, 0, 0);"> Energy Cleaner</span></a><a style=" font-style: italic;" href="http://www.thelibertyman.com/energy_cleaner_testimonials.shtml"><b><span style="color: rgb(0, 0, 0);"><br>
+                        </span></b></a></li>
+                </div>
               </div>
             </ul>
           </li>
-          <span style="color: rgb(0, 0, 0);"><a href="amsoil.shtml"><img alt="" src="images/amsoil.gif" style="border: 0px solid;
-                border: 0px solid; width: 150px; height: 38px;" align="middle"></a></span>
+          <span style="color: rgb(0, 0, 0);"><a href="http://www.thelibertyman.com/amsoil.shtml"><img alt="" src="images/amsoil.gif" style="border: 0px solid;
+                border: 0px solid; width: 150px; height: 38px;" height="54" border="0" width="216" align="middle"></a><br>
+          </span>
           <li id="active"><span style="color: rgb(0, 0, 0);"><a title="Berkey® Systems are the World’s Most Powerful and
                 Economical Personal Water purification Systems Providing
                 Reliable and User-friendly Water Purification" target="_blank" href="berkey_filters.shtml"><img alt="" title="Berkey® Systems are the World’s Most Powerful
@@ -995,15 +737,23 @@ random_imglink()
                   Providing Reliable and User-friendly Water
                   Purification" src="images/berkey.jpeg" style="border:
                   0px solid; width: 150px; height: 39px;" align="middle"></a></span></li>
+          <li id="active"><span style="color: rgb(0, 0, 0);"><a href="http://coversixgear.com/"><img alt="" src="http://www.thelibertyman.com/images//cover6gear_tile.png" style="border: 0px solid; border: 0px solid; width:
+                  150px; height: 38px;" height="40" border="0" width="160" align="middle"></a><br>
+            </span></li>
           <li id="active"><span style="color: rgb(0, 0, 0);"><a href="http://thelibertyman.com/gear.shtml">Faraday EM
                 Protective Bags</a></span></li>
-          <li id="active"><span style="color: rgb(0, 0, 0);"><a href="firearms.shtml">Firearms Videos</a></span><br>
-          </li>
-          <li id="active"><span style="color: rgb(0, 0, 0);"><a href="reports.shtml">Special Publications</a></span><br>
-          </li>
+          <li id="active"><span style="color: rgb(0, 0, 0);"><a href="firearms.shtml">Firearms Videos</a></span></li>
+          <li id="active"><a target="_blank" href="http://generators.thelibertyman.com/"><img alt="Generac Dealer Page Link Image" title="Click here
+                to view our selection of Generac Equipment" src="http://www.thelibertyman.com/images/generac.png" height="35" border="0" width="149"></a></li>
+          <li id="active"><span style="color: rgb(0, 0, 0);"><a href="reports.shtml">Special Publications</a></span></li>
+          <a title="Click here to visit Buddy Bar" target="_blank" href="http://shop.buddybardoorjammer.com/?AffId=4"><img alt="" src="http://www.thelibertyman.com/images/buddy_bar.png" height="45" border="0" width="160"></a>
           <li id="active"><span style="color: rgb(0, 0, 0);"><a href="gear.shtml">Survival &amp; Tactical Gear</a></span><br>
           </li>
           <li id="active"><b><span style="color: rgb(0, 0, 0);"><a href="videos.shtml">John's Videos</a></span></b></li>
+          <li id="active"><a title="Click for Details from
+              RuralSurvioval.info - opens in new tab" target="_blank" href="http://ruralsurvival.info/usb_drive.shtml"><font color="#33cc00"><b>Survival Library on a Stick! </b></font><i><span style="color: rgb(0, 0, 0);">5.2GB+ - Over 1,070
+                  Titles </span></i><i><span style="color: rgb(0, 0,
+                  0);">USB 2.0 Flash Drive (8GB) </span></i></a></li>
         </div>
       </ul>
       <br>
@@ -1012,55 +762,26 @@ random_imglink()
         <div style="text-align: left;">
           <li id="active"><span style="color: rgb(0, 0, 0);"><a href="http://www.concrete-domes.com/transportables.htm" target="_blank"><img style="border: 0px solid; width:
                   17px; height: 24px;" src="images/con-domes.jpg" alt="" align="left"></a></span><span style="color: rgb(0, 0,
-              0);"><a target="_blank" href="http://www.concrete-domes.com/transportables.htm">Concrete
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+              0);">&nbsp; <a target="_blank" href="http://www.concrete-domes.com/transportables.htm">Concrete
 
 
 
                 Dome Homes</a></span></li>
-          <li id="active"><span style="color: rgb(0, 0, 0);"><a href="http://www.freezedryguy.com/" target="_blank"><img style="border: 0px solid; width: 17px; height: 24px;" src="images/freezedry.jpg" alt="" align="left"></a></span><span style="color: rgb(0, 0, 0);"><a target="_blank" href="http://www.freezedryguy.com/">Freeze Dry Guy</a></span></li>
+          <li id="active"><span style="color: rgb(0, 0, 0);"><a href="http://www.freezedryguy.com/" target="_blank"><img style="border: 0px solid; width: 17px; height: 24px;" src="images/freezedry.jpg" alt="" align="left"></a></span><span style="color: rgb(0, 0, 0);">&nbsp; <a target="_blank" href="http://www.freezedryguy.com/">Freeze Dry Guy</a></span></li>
           <li id="active"><span style="color: rgb(0, 0, 0);"><a target="_blank" href="http://www.agri-host.us">Agri-Host.US
 
 
 
-
-
-
-                Web Hosting &amp; Web Design</a><br>
+                Web Hosting </a><br>
             </span></li>
           <li id="active"><span style="color: rgb(0, 0, 0);"><a target="_blank" href="http://www.zappworks.com/special.htm"><img alt="" src="images/zappwork_tile_ad.jpg" style="border: 0px
-                  solid; width: 25px; height: 36px;" align="left"></a></span><span style="color: rgb(0, 0, 0);"><a target="_blank" href="http://www.zappworks.com/special.htm">Zapp
+                  solid; width: 25px; height: 36px;" align="left"></a></span><span style="color: rgb(0, 0, 0);">&nbsp; <a target="_blank" href="http://www.zappworks.com/special.htm">Zapp
                 Batteries<br>
               </a></span></li>
         </div>
         <br>
         <script language="JavaScript">
 <!--
-
 function random_imglink(){
 var myimages=new Array()
 //specify random images below. You can have as many as you wish
@@ -1071,7 +792,6 @@ myimages[4]="http://thelibertyman.com/images/freezedry.jpg"
 myimages[5]="http://thelibertyman.com/images/RSi_tile.png"
 myimages[6]="http://thelibertyman.com/images/vivos_tile.png"
 myimages[7]="http://www.ruralsurvival.info/images/agri_host_us_button.jpg"
-
 //specify corresponding links below
 var imagelinks=new Array()
 imagelinks[1]="http://www.concrete-domes.com/transportables.htm"
@@ -1081,50 +801,19 @@ imagelinks[4]="http://www.freezedryguy.com/"
 imagelinks[5]="http://www.ruralsurvival.info/"
 imagelinks[6]="http://www.terravivos.com/secure/affiliate.php?aid=1"
 imagelinks[7]="http://www.agri-host.us/"
-
 var ry=Math.floor(Math.random()*myimages.length)
 if (ry==0)
 ry=1
 document.write('<a target="_blank" href='+'"'+imagelinks[ry]+'"'+'><img src="'+myimages[ry]+'" border=0></a>')
 }
 random_imglink()
-//--> </script><a target="_blank" href="http://www.concrete-domes.com/transportables.htm"><img src="http://www.thelibertyman.com/images/con-domes.jpg" border="0"></a><br>
+/</script><br>
       </ul>
       <p><span style="color: rgb(255, 0, 0); font-weight: bold;">SPECIAL</span>:&nbsp;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         <a target="_blank" href="https://www.youtube.com/watch?feature=player_embedded&amp;v=Yr2SHssCaWM">Sandy
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1134,40 +823,10 @@ random_imglink()
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         <a target="_blank" href="https://www.youtube.com/watch?v=IDlbg1VoMZ0">Demand A
           Real Plan - Disarmament leads to Democide</a><a target="_blank" href="https://www.youtube.com/watch?feature=player_embedded&amp;v=Yr2SHssCaWM"><br>
         </a></p>
       <p><span style="color: rgb(255, 0, 0); font-weight: bold;">SPECIAL</span>:&nbsp;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1371,6 +1030,7 @@ random_imglink()
   
     <meta http-equiv="Content-Type" content="text/html;
       charset=windows-1252">
+      <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <!--[endif]---->
     <link rel="stylesheet" media="all" href="tlm-css.css">
@@ -1425,10 +1085,10 @@ random_imglink()
               tlm-PrivacyPolicy.shtml<br>
             </td>
             <td style="color: rgb(0, 51, 0); text-align: left;">
-              Wednesday, 16 October, 2013<br>
+              Wednesday, 19 March, 2014<br>
             </td>
             <td style="color: rgb(0, 51, 0); text-align: left;">
-              31.12.13 at 14:13:46 EST<br>
+              02.05.14 at 17:48:20 EDT<br>
             </td>
             <td style="color: rgb(0, 51, 0); text-align: left;">
               204.236.235.245<br>
@@ -1438,7 +1098,7 @@ random_imglink()
       </table>
       <br>
     </div>
-    <div style="text-align: center;"> All Content © copyright 2000-2013,
+    <div style="text-align: center;"> All Content © copyright 2000-2014,
       <a title="Click here to conact Mr. Moore" href="tlm-Contact.shtml">John
 
 
@@ -1446,7 +1106,7 @@ random_imglink()
       Reserved.&nbsp;
       <div style="text-align: center;">Portions of scripting, CSS,
         original graphics and other original elements are <br>
-        Hosted by and © copyright 1996-2013,
+        Hosted by and © copyright 1996-2014,
         <a style=" color: rgb(0, 0, 0);" title="Click here to visit
           Agri-Host.US" target="_blank" href="http://www.agri-host.us/">Agri-Host.US</a><a title="Click here to visit Panthera Limited." target="_blank" href="http://www.pantheraltd.com/"></a>.&nbsp; All Rights
         Reserved.<br>
@@ -1473,7 +1133,7 @@ random_imglink()
             solid; width: 48px; height: 50px;"></a>
         <div style="text-align: left;">
           <div style="text-align: center;"><br>
-            <div align="center"><a href="http://www.dvdrentaldeals.com/"><img src="http://cb.amazingcounters.com/counter.php?i=2720609&amp;c=8162140" alt="Online DVD Rentals" border="0"></a><br>
+            <div align="center"><br><a href="https://plus.google.com/106794352705072789155" rel="publisher">Google+</a>
             </div>
           </div>
         </div>
