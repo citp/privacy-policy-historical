@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promgirl.net privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231163605id_/http%3A//www.promgirl.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promgirl.net privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502033601id_/http%3A//www.promgirl.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Promgirl.net
 
@@ -15,6 +15,10 @@ Collection and Use of Personal Information
 Orders
 
 If you purchase a product from us we will request certain personally identifiable information from you on our order form. Required information includes both personal contact information such as name, email address and shipping address as well as financial information such as credit card number and expiration date. This information is used for billing purposes and to ensure that your order is filled correctly. In the event that we have trouble processing an order we will also use this information to contact you regarding whatever issue is prohibiting the completion of the order. All credit card information is stored in the secured Yahoo! servers for a period of three (3) weeks. After the three (3) week period has expired all pertinent information related to credit card transactions is automatically erased from the servers for security purposes.
+
+Third-Party Web Beacons
+
+We use third-party web beacons from Yahoo to help analyze where visitors go and what they do while visiting our website. Yahoo may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo, [click here](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html). 
 
 Customer Service
 
