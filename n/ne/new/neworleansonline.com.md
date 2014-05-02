@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neworleansonline.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231081622id_/http%3A//www.neworleansonline.com/notmc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neworleansonline.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502053852id_/http%3A//www.neworleansonline.com/notmc/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -37,10 +37,10 @@ We may use Personal Information about you for purposes described in this Privacy
   * respond to and/or fulfill your inquiries or requests, and to post your comments, ratings or statements on message boards or in our online discussion areas or forums
   * create and deliver personalized promotions, including by combining your Personal Information with Other Information, such as the amounts and types of bookings or itineraries you make and discounts or benefits you use
   * communicate with you by mail, telephone, facsimile, e-mail, mobile alerts and SMS text messaging about NOTMC or our affiliates, including communications about your itineraries or purchases, your services, accounts, sweepstakes or contests you enter, your requests for information or other items, and to update you about changes to our Online Services
-  * communicate with you, including by mail, telephone, facsimile, e-mail, mobile alerts and SMS text messaging, in connection with our marketing efforts, including sending you offers and promotions that you can take advantage of through our Online Services or at relevant physical venues around or near New Orleans; 
+  * communicate with you, including by mail, telephone, facsimile, e-mail, mobile alerts and SMS text messaging, in connection with our marketing efforts, including sending you offers and promotions that you can take advantage of through our Online Services or at relevant physical venues around or near New Orleans and offer personalized collection, filtering, and delivery of information, including serving advertisements while you are visiting New Orleans.
   * allow you to send communications or gifts (including through our mobile application) to friends or family through our Online Services (conditioned on your representation to us that you are permitted to use and provide us with the recipient's name and e-mail address;
   * further our business or operational purposes, for example, data analysis, audits, fraud monitoring and prevention; and
-  * enhance, improve or modify our Online Services, to identify usage trends, determine the effectiveness of our promotional campaigns and to operate and expand our business activities.
+  * enhance, improve or modify our Online Services, to identify usage trends, determine the effectiveness of our promotional campaigns and advertisements and to operate and expand our business activities.
 
 
 
