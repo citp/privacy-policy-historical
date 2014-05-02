@@ -1,17 +1,87 @@
-> *The following text is extracted and transformed from the gamsanywhere.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520133422id_/http%3A//www.gamsanywhere.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamsanywhere.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502040639id_/http%3A//www.gamsanywhere.com/index.php%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
 
-# Privacy | GamsAnyWhere.com
+# Privacy Policy - GamAnyWhere
 
-[GamsAnyWhere.com](http://www.gamsanywhere.com/) respects the privacy of our users. This privacy document highlights what information is collected about users and how it is used.
+### Disclaimer
 
-This site collects website usage data via log files along with website statistics programs that help us to understand how visitors are using the site so that we’re able to make it better. Here are some examples of the type of information which may be found in Log Files and Analytics Programs : IP addresses, Demographic Details, Internet browser Type, Referring Sources, Exit Pages, ISPs and a lot more like Pages Visited, Click Trends, Pages per Visit and also Time Spent on the website.
+  
 
-There are Advertising as well as Usage Monitoring Cookies used in the website which capture and keep details about visitors to provide an enhanced experience and more custom content for them. Cookies may be rejected by modifying the settings on users’ internet browsers.
 
-To offer advertising, this website uses Google’s Adsense, a 3rd party vendor that uses ad cookies in order to serve and track advertisements. The use of the DART cookie makes it possible for more focused ads to be served to users on this website. You can opt out of this cookie and find out more information about it at http://www.google.com/privacy/ads/
+**Liability**
 
-We’re not able to control the privacy policies connected with third party vendors and external websites linked to from our website, so please read their privacy documents separately.
+All materials, information, software, products and services (also referred to as "Content"), included in or available through www.onlinefungames.net (also referred to as "Site") are provided on an "as is" basis. The Content is provided without warranties of any kind. 
 
-All information collected is stored safely however we cannot guarantee that all of the data is 100% protected from unintentional use since no data security system can be totally secure.
+By using the Content of the Site, you explicitly agree to these terms and conditions.  
+We do not warrant that the Content on this Site is accurate, reliable or correct; that this Site will be available at any particular time or location; that any defects or errors will be corrected; or that the Content is free of viruses or other harmful components. Your use of this Site is solely at your own risk. Any Content viewed, downloaded or otherwise obtained through the use of this Site is done solely at your own discretion and risk, and you will be solely responsible for any damage, including without limitation personal injury or distress, damage to your computer system, or loss of data, that results from the viewing or download of any Content. The operator of onlinefungames.net can not be held responsible for any problems occuring by using or not using the Site and its Content in any way.  
 
-By accessing this site, you are accepting the terms explained in this [privacy](http://www.gamsanywhere.com/privacy/) document. You should leave the site if you don’t agree with anything mentioned in here. We reserve the right to improve any part of this notice at any time, so be sure you come and read this again every so often. Feel free to [contact us](http://www.gamsanywhere.com/contact/) if you have any questions.
+
+Links, advertisements and third party sites
+
+This Site provides advertisements and links to other third party websites over which we have no control. We can not be held responsible for those advertisements and websites or any of its Content. You acknowledge that you view and access these advertisements and websites entirely at your own risk. 
+
+  
+
+
+### Terms Of Use / Copyright / Licensing
+
+**Content made by the operator of onlinefungames.net**
+
+The Site (www.onlinefungames.net) and its subpages is copyright by its operator. Copyrighted content of this site may not be copied, reproduced, republished, uploaded, posted, transmitted, or distributed, in whole or partly, for any purpose other than individual viewing of this content, without the express prior written consent of onlinefungames.net's operator. Any modification, decompilation or reverse-engeneering of onlinefungames.net's operator copyrighted content for any purpose is prohibited.
+
+ **Content of Third Parties**
+
+Games and other content on the site which is not made and copyrighted by the operator of this site, is either licensed or used with permission and protected by international copyright. These games are intellectual property and/or copyright and/or trademark by their respective owners and/or authors.If you are the developer/owner/copyright holder of a game and you wish to have it removed us, please send an email through the email link at the bottom of the site. 
+
+  
+
+
+### Privacy Policy
+
+**Automatically logged information (server logs), cookies, Flash shared objects**
+
+Server logs:
+
+Like most servers, our servers automatically record the page requests made when users visit our Site. These "server logs" typically include your web request (the requested content), IP address, browser type, browser language and the date and time of your request. We use this information to help diagnose problems, to analyze statistics of our Site, and to allow us to improve the overall user-experience. No personal information (like your name, email or phone number) is being gathered with server logs. We do not transfer these data to third parties as long as it is not required by law.
+
+Cookies:
+
+The Site also uses the third party web analytics service "Google Analytics" (GA), by Google, Inc. GA use "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. No personal information (like your name, email or phone number) is being gathered with cookies. 
+
+By using this Site, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+
+Flash shared objects:
+
+Most games on this Site are based on Flash technology (Flash Games). Flash Games may collect data in "shared objects" which are textfiles stored on your computer. We have no control over what data Flash Games of third parties may collect. We are not responsible for the privacy practices of third parties Flash Games.
+
+ **Third Party Advertising**
+
+We use several third party advertising companies to serve ads when you visit the Site. These companies may use cookies to store information about your visits to this and other websites (your browsing activity) in order to provide advertisements on this Site and other sites about goods and services that may be of interest to you.
+
+You may refuse the use of cookies by selecting the appropriate settings on your browser.
+
+Google Adsense:
+
+Delivered by Google, Inc., may make use of one or more "DoubleClick DART Cookies".
+
+DART cookies store and collect data on your computer about your browsing activity. Google may use this data to show advertisements on this Site based on your browsing activity.
+
+You can choose to opt out of Google's use of cookies by visitingn the:  
+[Google Ad and Content Privacy Policy](http://www.google.com/privacy_ads.html).
+
+Value Click Media:
+
+<http://www.valueclickmedia.com/privacy.shtml>
+
+**Contact via E-Mail**
+
+When you contact us via email, by using a contact link on the bottom of the site, you are providing us with personal information such as your name and email address. Such information is used only for the purpose of assisting you with, and validating your inquiry, request or submission. We respect the privacy concerns of visitors to www.onlinefungames.net
+
+We do not sell or disclose your email address or any other personal information about you.
+
+**Links**
+
+We may present internal links (i.e. links to our own pages) or external links (i.e. links to other websites) in a format that allows us to track statistics like the number of clicks a link gets. These statistics will only be used to help us improve the site. We are not responsible for the privacy practices or the content of websites that are being linked to from our Site or newsletters.
+
+ **Security**
+
+We protect personal information against such risks as loss or theft, unauthorized access, disclosure, copying, use, modification or destruction, through appropriate security measures.
