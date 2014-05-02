@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ipaidabribenaija.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101173754id_/http%3A//www.ipaidabribenaija.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaidabribenaija.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502114906id_/http%3A//ipaidabribenaija.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-##  [ Privacy Policy](http://ipaidabribenaija.com/privacy)
+##  [ Privacy Policy](http://www.ipaidabribenaija.com/privacy)
 
 JACOM_CONTENT_ARTICLE_INFO
-     Last Updated on 20 October 2013 
-     Hits: 6115
+     Last Updated on 10 December 2013 
+     Hits: 10543
 
 I Paid A Bribe Naija may collect information from our users at several different points on the site. I Paid A Bribe Naija is the sole owner of the information collected on ipaidabribenaija.com
 
@@ -24,7 +24,7 @@ Like most standard Web site servers we use log files. These include internet pro
 
 **Legal Disclaimer**
 
-Though we make every effort to [Cialis](http://21cparks.org/the-parklands/) preserve user privacy,  _I Paid A Bribe Naija_  may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process.
+Though we make every effort to preserve user privacy,  _I Paid A Bribe Naija_  may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process.
 
 **Business Transitions**
 
