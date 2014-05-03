@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the ipixler.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231065902id_/http%3A//www.ipixler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipixler.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503142303id_/http%3A//www.ipixler.com%3Ffile%3Dprivacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Photo, Picture, Image and Wallpaper Download
-
-## Privacy Policy:
+# Photo, Picture, Image and Wallpaper Download
 
 Pursuant to our Terms of Use, this document describes how we treat personal information related to your use of [www.IPixler.com](http://www.ipixler.com/), including information you provide when using it.
 
-We expressly and strictly limit use of the Website to adults over 18 years of age or the age of majority in the individual’s jurisdiction, whichever is greater. Anyone under this age is strictly forbidden from using the Website. We do not knowingly seek or collect any personal information or data from persons who have not attained this age.
+We expressly and strictly limit use of the Website to adults over 18 years of age or the age of majority in the individual�s jurisdiction, whichever is greater. Anyone under this age is strictly forbidden from using the Website. We do not knowingly seek or collect any personal information or data from persons who have not attained this age.
 
 **Data Collected**
 
