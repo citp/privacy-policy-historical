@@ -1,68 +1,79 @@
-> *The following text is extracted and transformed from the rydges.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104214651id_/http%3A//www.rydges.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rydges.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503072942id_/http%3A//www.rydges.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rydges Hotels & Resorts - AHL
 
   
 
 
-## AHL and Rydges Privacy Policy
+### Rydges Privacy Policy
 
-  
+Rydges Hotels Ltd (the Company) and its related bodies corporate own, operate and/or manage the hotels and resorts listed on our website www.rydges.com. The Company is committed to ensuring your personal information is protected. The Company understands and appreciates you are concerned about your privacy and about the confidentiality and security of information we may collect about you. It will explain how we manage your personal information.
 
-
-Amalgamated Holdings Limited (AHL) is committed to ensuring your personal information is protected. AHL understands and appreciates you are concerned about your privacy and about the confidentiality and security of information we may collect about you. This Privacy Policy Statement will explain how we go about treating your personal information.
-
-In addition to this Privacy Policy Statement, there may also be specific and additional privacy provisions, which apply to our collection and use of your personal information e.g. information provided when entering a competition, subscribing to a newsletter, or participating in a survey. If there is any inconsistency between this Privacy Policy Statement and those specific and additional provisions, the specific and additional provisions will prevail.
+In addition to this Privacy Policy, there may also be specific and additional privacy provisions, which apply to our collection and use of your personal information e.g. information provided when participating in a promotion, entering a competition, subscribing to a newsletter, or participating in a survey. If there is any inconsistency between this Privacy Policy and those specific and additional provisions, the specific and additional provisions will prevail.
 
 **The information we collect about you**
 
-The types of personal information we collect about you will depend on what services you use or products you acquire. This may include collecting your name and address, your email address, your contact address, credit card details and, where you have the option to comment on our services or products, whatever other information you choose to supply to us.
+The types of personal information we collect about you will depend on what services you use or products you acquire. This may include collecting your name and address, your email address, your contact address, credit card details, payment and transaction details/history and, where you have the option to comment on our services or products, whatever other information you choose to supply to allow us to provide products and services to you.
 
-**How we use your information and whom we may disclose it to**
+**How personal information is collected and held**
 
-The information that we collect about you is used to help you access the services or acquire the goods that AHL provides more easily. The information we collect from you is strictly confidential. We do not sell, rent, loan, trade or lease the addresses stored in our database to any third parties. We may disclose the personal information, other information or data we collect from you if:
+We may collect your personal information in relation to your interactions and transactions with us. This includes; making a purchase at a hotel or making a hotel reservation online; participating in a promotion, competition, or survey; using your number or associated identifiers such as payment cards; registering for services; using related digital services. We hold personal information electronically and in hard copy form, both at our own premises and with the assistance of our third party service providers. We implement a range of measures to protect the security of that personal information.
 
-  * You give us your consent.
-  * You would reasonably expect us to disclose it for another purpose, and that other purpose is related to the purpose specified to you at the time of collection.
+**Cookies**
 
+We collect cookie information when you visit our website.  Cookies are pieces of information that a website can transfer to an individual’s computer hard drive for record keeping. The use of cookies is an industry standard and many websites use them. Cookies are useful for facilitating a user’s access to and use of a site. They allow us to track usage patterns and compile data that can help us improve our services to you. Cookie information is used in aggregated form – we do not use it to identify you as an individual. However, if you do not wish any information to be collected through the use of cookies you can change the functions in most web browsers to deny the cookie feature. You can also delete cookies from your hard drive at any time.
 
+**How we use your information and who we may disclose it to**
 
-  
-In this way we may use your information to send you out promotional material, which you may find of interest. If you do not wish to receive any of this material you may simply choose to "unsubscribe" from our mailing lists and no further material will be sent to you.
+The information that we collect from you is strictly confidential. We do not sell, rent, loan, trade or lease the addresses stored in our database to any unrelated third parties. The Company uses the information you provide to us to help you access the services or acquire the goods that the Company provides more easily. We also use personal information to administer, improve our products and services and tailor them to your interests. We may also send you marketing material about products and services we believe are suited to you and your interests. If you do not wish to receive any of this material you may simply choose “unsubscribe” from our mailing list and no further material will be sent to you.
 
-**Access and Contact**
+The Company engages certain trusted third parties to help us provide, improve and promote our services. We will only disclose your personal information to these third parties to perform tasks on our behalf and in compliance with this Privacy Policy. These third parties may be located in Australia, Singapore, Germany and the United States of America. We take steps to ensure that our service providers are obliged to protect the privacy and security of your personal information and use it only for the purpose for which it is disclosed. In providing us with your personal information, you consent to this disclosure.
 
-Any personal information that we collect about customers including email addresses will be kept in a database of the relevant AHL Company.
+Our hotels and resorts use a reservation system that allows those hotels and resorts to view and access customer personal information on our system (for example to view past booking and transaction details).  In providing us with your personal information, you also consent to the disclosure of your personal information to all hotels listed on our website [www.rydges.com](http://www.rydges.com/), including the hotels in foreign countries listed on our website.
 
-**Our security procedures**
+The Company will not disclose your personal information for purposes or to parties other than those outlined above without your consent.
 
-Once we receive personal information from you, we take all reasonable steps to ensure that all information we collect, use or disclose is accurate, up to date and stored in a secure environment and accessed only by authorised persons.
+**User generated content**
 
-**Contact information**
+If you post reviews or comments on the site, you grant the Company and its affiliates a non-exclusive, royalty free, perpetual, irrevocable, and fully sub-licensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such reviews and comments throughout the world in any media. You also grant the Company and its affiliates and sub licensees the right to use the name that you submit with any review or comment, if any, in connection with such review or comment.
 
-We take the privacy of your information seriously and it is important that you understand how we manage your personal information. If you have any questions or comments in relation to this Privacy Policy Statement or if you wish to access your personal information or update it please contact us at [privacy@ahl.com.au](mailto:privacy@ahl.com.au) or by mail addressed to: Privacy, AHL, 49 Market Street, Sydney NSW 2000.
+**Competitions**
 
-You should provide us with as much detail as possible about the particular information sought, in order to help us retrieve it. An access fee may be charged. If AHL does not allow you to access your personal information we will provide you with the reasons for our decision.
+From time to time, the Company may conduct competitions on its website. When these competitions are run, you may also be given the choice of being on a mailing list to receive further contact from us. Unless you choose to receive further communications from the Company, the information we collect from your entry in the competition is not used for any purposes other than the competition.
 
-**Use of Cookies:**
+**Links to other websites**
 
-****We collect cookie information when you visit our websites. Cookies are pieces of information that a website can transfer to an individual’s computer hard drive for record keeping. The use of cookies is an industry standard and many websites use them. Cookies are useful for facilitating a user’s access to and use of a site. They allow us to track usage patterns and compile data that can help us improve our services to you. Cookie information is used in aggregated form – we do not use it to identify you as an individual. However, if you do not wish any information to be collected through the use of cookies you can change the functions in most web browsers to deny the cookie feature. You can also delete cookies from your hard drive at any time.
+The Company’s website provides links to websites outside of the Company’s services. These linked sites are not under our control, and we are not responsible for the conduct of companies linked to our website. Before disclosing your personal information on any other website, we advise you to examine the privacy policy and terms and conditions of that website.
 
-**AHL operated brands include:**
+**Storage and security of your personal information**
 
-Event Cinemas, Greater Union Cinemas, Birch Carroll & Coyle Cinemas, Beverly Hills and Cronulla Cinemas, Cinestar Germany & Middle East, Rydges Hotels & Resorts, Thredbo Alpine Resort, Gold Coast International Hotel, Capital Square Sydney, Capricorn Resort Yeppoon, Art Series Hotel Group, Film Lab Engineering, Featherdale Wildlife Park Sydney and The State Theatre.
+Any personal information that we collect about customers, including email addresses, will be kept in the Company’s database. The database will be accessible only by those authorised to perform normal daily tasks such as updating addresses and renewing membership. The Company will take all reasonable precautions to protect the personal information it holds from any misuse, loss, unauthorised access, modification or disclosure.
 
-**AHL Companies adhere to the following Privacy Principles:**
+The internet is not a secure environment. If you use the internet to send us any personal information, the Company will not be liable for events arising from unauthorised access to your information.
 
-  * AHL Companies only collect personal information by fair, lawful and non-intrusive means.
-  * AHL Companies only use or disclose information for the purpose for which it was collected unless the person has provided permission to send direct marketing material.
-  * AHL Companies take reasonable steps within the boundaries of accepted everyday work practises to ensure that the personal information it collects, uses or discloses is accurate, complete and up-to date.
-  * AHL Companies implement systems that protect the personal information it holds from misuse and loss and from unauthorised access, modification or disclosure.
-  * AHL Companies have a policy document outlining its information handling practices and make this available to anyone who asks.
-  * AHL Companies provide printed and digital means for individual access to personal information it holds about that individual on request.
-  * AHL Companies do not adopt, use or disclose, an identifier that has been assigned by a Commonwealth government 'agency'.
-  * AHL Companies do provide methods for customers to interact anonymously whenever it is lawful and practicable to do.
-  * AHL Companies only transfer personal information to a recipient in a foreign country in circumstances where the information will have an appropriate level of protection.
-  * AHL Companies do not collect sensitive information unless the individual has consented, it is required by law - or in other special specified circumstances, for example relating to health services provision and individual or public health or safety.
+**Access to your information**
 
+You have a right to access and correct most of the personal information we hold about you. If you wish to have access to or correct your information, please send us an email or letter at the addresses provided below. If the Company does not allow you to access or correct your personal information we will provide you with the reasons for our decision.
 
+**Accuracy of your information**
+
+Once we receive personal information from you, we take all reasonable steps to ensure that all the information we collect, use or disclose us accurate and up to date. If you think that any of your personal information held by us in inaccurate, please send us an email or letter at the addresses provided below and we will take reasonable steps to ensure that it is corrected.
+
+**Contact us**
+
+We take the privacy of your information seriously and it is important that you understand how we manage your personal information. If you have any questions or comments in relation to this Privacy Policy, if you wish to access or correct your personal information, or if you wish to make a complaint about a privacy matter, please contact us by email at [privacy@ahl.com.au](mailto:privacy@ahl.com.au), or by mail addressed to:
+
+Privacy Officer  
+Amalgamated Holdings Ltd  
+Level 22, 227 Elizabeth Street  
+Sydney NSW 2000
+
+You should provide us with as much detail as possible about the particular information sought, in order to help us retrieve it. An access fee may be charged.
+
+If you wish to make a complaint about a privacy matter, we will examine the complaint and endeavour to respond within 14 days. If you are dissatisfied with our response, you may refer the matter to the Australian Information (Privacy) Commissioner (see [www.oaic.gov.au](http://www.oaic.gov.au/)).
+
+The Company reserves the right to change this privacy policy at any time. The Company will notify any changes by posting an updated version of the policy on its website.
+
+Rydges Hotels Ltd is a subsidiary company of Amalgamated Holdings Ltd which has its own privacy policy which is available at [www.ahl.com.au](http://www.ahl.com.au/).
+
+11 March 2014
