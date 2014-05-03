@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indieonthemove.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101190445id_/http%3A//www.indieonthemove.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indieonthemove.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503055037id_/http%3A//www.indieonthemove.com/privacy) for the most accurate reproduction.*
 
 # Your Rights Concerning The Collection and Use of Personal Information
 
