@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the findnsave.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101193042id_/http%3A//www.findnsave.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findnsave.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503073419id_/http%3A//findnsave.com/privacy) for the most accurate reproduction.*
 
 # Find&Save | Privacy Policy
+
+[]( "Find&Save home")
 
 ##  Last Updated: February 26, 2013 
 
@@ -68,10 +70,19 @@ Any information that we collect is subject to the privacy policy in effect at th
 
 Please contact us at FindnSave Inc., 100 Los Gatos-Saratoga Rd., Suite A, Los Gatos, CA 95032 or via email at [support@findnsave.com](mailto:support@findnsave.com) if you have any questions about our Privacy Policy. 
 
+Discover and collect stuff you love.
+
   * ✓Find local sales at your favorite stores
   * ✓Follow stores and get notified of new sales
   * ✓Create and save shopping lists online
 
 
+
+Thank you! 
+
+We'll Review this offer and take the appropriate actions.  
+We appreciate you helping us make Find&Save the best shopping experience around. 
+
+\- The Find&Save Team 
 
 * * *
