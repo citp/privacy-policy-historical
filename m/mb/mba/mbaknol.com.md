@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mbaknol.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031165709id_/http%3A//www.mbaknol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbaknol.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503075102id_/http%3A//www.mbaknol.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MBA Knowledge Base
-
-[](http://www.mbaknol.com/wp-content/uploads/2010/04/privacy-policy-mbaknol.png)
+# Privacy Policy - MBA Knowledge Base
 
 **The privacy of our visitors to Mbaknol.com is important to us.**
 
@@ -14,7 +12,7 @@ As with most other websites, we collect and use the data contained in log files.
 
 ## Cookies and Web Beacons
 
-**Mbaknol.com** does not use cookies.
+ **Mbaknol.com** does not use cookies.
 
 We also use third party advertisements like Google AdSense program(www.google.com/adsense) on **Mbaknol.com** to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed (Such as Google through the Google AdSense program. Google’s use of the DART cookie enables it to serve ads to users based on their visit to **www.mbaknol.com** and other sites on the Internet. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited or to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. **Mbaknol.com** has no access to or control over these cookies that are used by third-party advertisers like Google AdSense program.You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. **Mbaknol.com** ’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
