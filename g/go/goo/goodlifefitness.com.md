@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodlifefitness.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031234717id_/http%3A//goodlifefitness.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodlifefitness.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503045838id_/http%3A//www.goodlifefitness.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - GoodLife Fitness
 
@@ -6,7 +6,7 @@ At GoodLife Fitness we are privileged each and every day to help members to achi
 
 We want you to understand why we collect your personal information, how the confidentiality of this information is protected and how you can find out what information concerning you is recorded. This policy applies to all GoodLife Fitness clubs across Canada.
 
-#### Accountability
+## Accountability
 
 GoodLife Fitness is responsible for your personal information under its control. We have appointed a Chief Privacy Officer who is accountable for our compliance with this Privacy Policy. Please refer to the last page of this policy for information on how to contact our Chief Privacy Officer.
 
@@ -54,6 +54,50 @@ Except as set out in this policy or as required or permitted by law, GoodLife Fi
 • in emergency situations in which we believe that the life, health or safety of a member or other person may be in danger   
 • to an agent retained by GoodLife in connection with the collection of your account 
 
+#### Internet Activities
+
+#### Digital Markers (including cookies)
+
+A digital marker is a resource created by the visitors’ browser in order to remember certain pieces of information for the Web server to reference during the same or subsequent visit to the Web site. Examples of digital markers are “cookies” or HTML5 Web storage. Some examples of what digital markers do are as follows:
+
+  * they allow a Web site to recognize a previous visit each time the visitor accesses the site;
+  * they track what information is viewed on a site which helps Web site administrators ensure visitors find what they are looking for.
+
+
+
+GoodLife Fitness uses sessional and persistent digital markers on some portions of its Web site. During your on-line visit, your browser exchanges data with GoodLife Fitness’ Web server. The digital markers used do not allow GoodLife Fitness to identify individuals. You may adjust your browser settings to reject digital markers, including cookies, if you so choose. However, it may affect your ability to interact with GoodLife Fitness’ Web site.
+
+#### Web Analytics
+
+Web analytics is the collection, analysis, measurement, and reporting of data about Web traffic and visits for purposes of understanding and optimizing Web usage. Information in digital markers may be used for the purpose of web analytics to remember your online interactions with GoodLife Fitness’ Web site. 
+
+GoodLife Fitness uses Google Analytics to improve its Web site. When your computer requests a GoodLife Fitness Web page, GoodLife Fitness collects the following types of information for Web analytics:
+
+  * the originating IP address;
+  * the date and time of the request;
+  * the type of browser used; and
+  * the page(s) visited.
+
+
+
+GoodLife Fitness uses Google Analytics and the information collected is disclosed to Google Inc., an external third party service provider. Your IP address is anonymized prior to being stored on the service provider's servers in order to help safeguard your privacy. The information collected is de-personalized by truncating your IP address. No personally identifying information is recorded or provided to Google.
+
+Google Analytics uses “session” and “persistent” cookies; persistent cookies are stored on your computer and expire two years after your last visit to the Web site.
+
+For further information, consult Google Analytics and its privacy policy.
+
+You may opt out of being tracked by Google Analytics by disabling or refusing the cookies, by disabling JavaScript within your browser or by using the Google Analytics Opt-Out Browser Add-On. Disabling Google Analytics or JavaScript will still permit you to access comparable information or services from our Web site. To disable cookies or JavaScript, please refer to your vendor's browser instruction guide.
+
+#### Display and Remarketing
+
+GoodLife Fitness’ Web site also uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our Web site. It could mean that we advertise to previous visitors who haven’t completed a task on our Web site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network.
+
+Third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone’s past visits to GoodLife Fitness’ Web site.
+
+You may opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Preferences Manager. https://www.google.com/settings/ads/onweb/
+
+Google Analytics opt-out browser add-on – https://tools.google.com/dlpage/gaoptout/
+
 #### Retention 
 
 We will only retain your personal information as long as is necessary for the fulfillment of the purposes for which it was collected or as required by law. Personal information is securely stored until such time as it is no longer required, after which it is destroyed.
@@ -72,13 +116,20 @@ In order to fulfill requests for access to information in your file or to answer
 
 All inquiries or complaints regarding privacy should be directed in writing to the Chief Privacy Officer by mail, FAX or e-mail at the addresses below. All inquiries will be responded to within thirty (30) days from the date on which our Chief Privacy Officer has received the inquiry. GoodLife Fitness can refuse access to a file in certain circumstances. For your convenience, you may print our personal information request form by clicking on the link below.
 
-MAIL, FAX or EMAIL  
+MAIL  
 GoodLife Fitness c/o Chief Privacy Officer  
-201 King Street London, ON N6A 1C9   
-FAX: (519) 434-6701  
-[privacyofficer@goodlifefitness.com](mailto:privacyofficer@goodlifefitness.com)
+201 King Street London, ON N6A 1C9 
 
-[Print Personal Information Request Form ](http://www.goodlifefitness.com/pdf/InformationRequestForm.pdf)
+FAX  
+Attention: Chief Privacy Officer  
+(519) 434-6701
+
+EMAIL  
+[privacyofficer@goodlifefitness.com](mailto:privacyofficer@goodlifefitness.com "Email the privacy officer")
+
+#### Personal Information Request
+
+[Print Personal Information Request Form ](https://web.archive.org/web/20140503045838id_/http%3A//www.goodlifefitness.com/pdf/InformationRequestForm.pdf?20140225 "Download the information request form")
 
 #### Amendments to Our Privacy Policy
 
