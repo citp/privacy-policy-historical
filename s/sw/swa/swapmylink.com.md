@@ -1,100 +1,54 @@
-> *The following text is extracted and transformed from the swapmylink.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swapmylink.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503195016id_/http%3A//www.swapmylink.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | Swap My Link
 
-**Go Daddy Respects Your Privacy**
+## Swap My Link Privacy Policy Overview
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This Privacy Policy covers Swap My Link's treatment of personal information that is recorded when you register for membership and submit comments and/or news content for inclusion in our database. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Our privacy policy does not apply to the practices of other companies advertised, or otherwise listed, on the Swap My Link web site, nor does it extend to people that Swap My Link does not employ or manage. 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+## Information Collection and Use
 
-**Information Collection and Use**
+Anyone can visit Swap My Link and browse the news content and comments without having to provide personal information. We do, however, gather information from individuals who wish to submit news, ratings and comments. This information is collected both directly and through the use of "cookies". 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Direct collection of information is limited to the details requested of you at the time of registration such as your email address, gender, date of birth, location and a password. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+You may remove yourself from any or all of our notice and announcement mailings at anytime using the unsubscribe methods provided in those mailings. Any mailing received from our company is clearly identified and includes a valid email address and unsubscribe link which you can use to remove yourself from future mailings. Should you encounter problems in this regard, contact removemylinkfast[at]gmail.com. Our turnaround time for responding to unsubscribe requests is generally 24 hours. 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+The other way we collect information is through the use of cookies. When you register with Swap My Link, a "cookie" may be placed on your computer. Cookies are bits of information that a web site places on your computer's hard drive for record-keeping and activity-tracking purposes. Cookies cannot be used to learn your identity unless you have previously provided that information to that web site or your web browser automatically provides that information. 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+In conjunction with the registration information you provide, cookies help us recognize you when you return to the site, and they let you avoid having to log-in each time you visit. Moreover, cookies may be helpful in helping us determine the direction of future upgrades and enable us to better personalize our service to match your interests. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+The only other information collected is the data recorded on our server log files. Typically this information includes IP address, browser type, domain name, referral URL, country of origin, pages visited, entry points, and exit points, but this data is NOT correlated in any fashion to personally identifying information. 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+## Advertising Cookies
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Ad networks and third party vendors, including Google, may place cookies on your browser while visiting Swap My Link. Google's DART cookie enables it and its partners to serve ads based on your visit to Swap My Link and/or other websites. Users may opt out of the use of the DART cookie here and cookies from many other ad networks here. 
 
-**Security**
+## Protecting Your Privacy on Swap My Link
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+As a registered user you are able to not just submit and rate news, you are also able to post comments. Please be aware that your posted comments are publicly accessible. Caution should be exercised in disclosing any personal details. Although it is not uncommon for email addresses to be included in comment posts, it is not required. The same is true of any personal information. 
 
-**Updating Your Information**
+## Security
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Any information you provide, other than information you chose to provide and make publicly available in your posts, is maintained and accessible only by Swap My Link staff, and only by those of our staff with a need to have access to such information in the performance of their duties. Swap My Link has implemented commercially reasonable security measures to protect the loss, misuse and alteration of the information under our control or in our possession. 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Notwithstanding the above, we do not and cannot warrant the security of the information that you provide. Accordingly, you agree that you are providing such information at your own risk. 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+## Special Cases
 
-      iii.      You may call us at: (480) 505-8800
+Swap My Link's policy is not to use or share personal information about visitors or members in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. Notwithstanding anything in this policy to the contrary, Swap My Link may, however, disclose personal information about visitors or members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: to satisfy laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms and Conditions or other user policies; to operate the Services properly; or to protect newsvoting.com and our Members. 
 
-       iv.      You may fax us at: (480) 505-8844
+## Changes to this Privacy Policy
 
-**Sending Emails**
+Swap My Link may amend this policy from time to time. If significant changes are made in the way your personal information is used, you will be notified by email or a prominent announcement will be posted on our site notifying you of the change. 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+## Questions or Comments
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Questions or comments may be sent to: bookmarkingwebmaster[at]gmail.com
 
-**Compliance with Laws and Law Enforcement**
+## Acceptance of Terms
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+By using this site you acknowledge and agree to the terms of this Privacy Policy as outlined above. If you disagree with any term or condition in this Privacy Policy, you must not use our site.   
 
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
