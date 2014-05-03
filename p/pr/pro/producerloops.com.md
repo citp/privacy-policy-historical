@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the producerloops.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231001931id_/http%3A//www.producerloops.com/privacy-policy-and-legal-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the producerloops.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503080639id_/http%3A//www.producerloops.com/privacy-policy-and-legal-statement.html) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Statement - Producer Loops
 
@@ -32,6 +32,13 @@ ProducerLoops is committed to protecting your privacy online. Our policy explain
 Cookies are small files which many web sites transfer to your hard disk. They can inform the web site what pages you visit, and your preferences, which enable web sites to provide you with a more personalized service. You can set your browser to refuse cookies, or to warn you before accepting them.
 
 We use cookies, but most parts of our site can be accessed even if your cookies are turned off. But you may find there are parts of the site which you cannot access if your cookies are turned off.
+
+**Adwords Remarketing**
+
+A small Google Adwords Remarketing cookie is installed when you browse our site. AdWords Remarketing is a Remarketing and Behavioral Targeting service provided by Google. It connects the activity of [www.example.com](http://www.example.com/) with the Adwords advertising network and the Doubleclick Cookie. You can opt out of the cookie tracking here: <http://google.com/settings/ads/onweb/optout?hl=en>
+
+Personal Data collected: Cookie and Usage Data. Place of processing: USA. - Read the Google [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) to find out more.  
+
 
 **How do we use your information?**
 
