@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oliverbonas.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031185517id_/http%3A//www.oliverbonas.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oliverbonas.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503063406id_/http%3A//www.oliverbonas.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Oliver Bonas
 
@@ -54,3 +54,5 @@ Oliver Bonas Website
 Unit F Davis Road Industrial Estate  
 Davis Road Chessington  
 KT9 1TQ
+
+"Life is short. Buy the shoes"  ~ Imelda 
