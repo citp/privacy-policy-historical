@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soccerladuma.co.za privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215144414id_/http%3A//www.soccerladuma.co.za/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soccerladuma.co.za privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503203607id_/http%3A//www.soccerladuma.co.za/home/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Soccer Laduma
+# www.soccerladuma.co.za
 
 Soccer Laduma respects your privacy. This document explains our policy relating to your personal data that is provided to us.
 
