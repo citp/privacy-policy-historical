@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the imathlete.com privacy policy that was archived on 2013-08-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130807030537id_/http%3A//www.imathlete.com/account/info/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the imathlete.com privacy policy that was archived on 2014-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140503152530id_/http%3A//www.imathlete.com/account/info/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 
 	<title>
-	Welcome to imATHLETE.com!
-</title><meta name="keywords" content="<%= string.IsNullOrEmpty(PageMetaKeywords) ? Resources.Strings_EN_US.IMAMetaKeywords : PageMetaKeywords %>"><meta name="description" content="<%= Resources.Strings_EN_US.IMAMetaDescription %>"><meta http-equiv="cache-control" content="no-cache"><meta name="robots" content="noindex">
-    <link rel="stylesheet" type="text/css" href="/includes/jquery-1.4.3/jquery-ui-1.8.6.custom.css"><link rel="stylesheet" type="text/css" href="/includes/styles/general.css">
+	Privacy Policy | imATHLETE
+</title><meta name="keywords" content="Athlete, sports, sport, running, run, jog, jogger, jogging, cycle, bicycle, bicycling, biking, ironman, Olympic distance, sprint distance, sprint, triathlon, tri, duathlon, du, aquathlon, aquabike, registration, event registration, coaching, sports coach, athletic coach, triathlon club, running club, cycling club, swim, swimming, swimmer"><meta name="description" content="imATHLETE is your one-stop resource for event registration, club membership, sports merchandise, athletic coaching and social networking for athletes."><meta http-equiv="cache-control" content="no-cache"><meta name="robots" content="noindex">
+    <link rel="shortcut icon" href="/images/global/favicon.ico"><link rel="stylesheet" type="text/css" href="/includes/jquery-1.4.3/jquery-ui-1.8.6.custom.css"><link rel="stylesheet" type="text/css" href="/includes/styles/general.css">
 	
 <!--[if lt IE 7]>
 <link rel="stylesheet" type="text/css" href="/includes/styles/ie6.css" />
@@ -228,18 +228,265 @@
 <script type="text/javascript">
 
 $(document).ready(function() {
-
 	$("#PageHeaderBlock").remove();
 	
 });//end document.ready
 
 </script>
 
-</head>
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
 <body>
 
 
-<div class="TopNavBlockWrapper">
+<div id="wrapper">  
+
+
+
+
+
+<link type="text/css" rel="stylesheet" href="/includes/styles/global/mainSearch.css">
+
+<style type="text/css">
+    .SearchFieldTeaser { text-align:left;}
+</style>
+
+<script type="text/javascript">
+
+var searchTeaser = "";
+var isLandingPage = true;
+
+$(document).ready(function() 
+{
+
+    if  (typeof customVersion == 'undefined' || customVersion == false)
+        $("#search").show();
+
+
+    isLandingPage = login.defineIsLandingPage();
+    searchTeaser = search.getSearchTeaser(isLandingPage);
+    search.setValues();
+
+	search.attachEvents();
+
+    var loginStatus = login.getLoginStatus();
+
+    if (loginStatus == "noLogin")
+        login.setNoLogin();
+    else
+        login.setLoggedIn(loginStatus);
+
+	
+});// document.ready
+
+var login = function()
+{
+
+    var getLoginStatus = function()
+    {
+
+        if (typeof bCompanyPortalAccess != 'undefined'  && gUInfo.UserID != "")
+        {
+            if (typeof bCompanyPortalAccess != 'undefined'  && bCompanyPortalAccess)
+                return "admin";
+            else
+                return "loggedIn";
+        }
+        else
+            return "noLogin";
+    }
+    var setNoLogin = function()
+    {
+		$(".PreLoginInfoBox").show();
+		$(".PostLoginInfoBox").hide();        
+    }
+    var setLoggedIn = function(loginStatus)
+    {
+        if (loginStatus == 'admin')
+        {
+        }
+        else
+        {
+            $(".mnuMyEventsAdmin").hide(); //items in Account dd
+            $(".mnuProfileAdmin").hide();
+        }
+
+		$(".PreLoginInfoBox").hide();
+		$(".PostLoginInfoBox").show();        
+    }
+    var defineIsLandingPage = function ()
+    {
+        var loc = window.location.pathname.toLowerCase();
+        if (loc == '/default.aspx' || loc == '/')
+            return true;
+        else 
+            return false;
+    }
+
+    return{
+        getLoginStatus:getLoginStatus,
+        setNoLogin:setNoLogin,
+        setLoggedIn:setLoggedIn,
+        defineIsLandingPage:defineIsLandingPage
+    };
+
+}()//login
+
+var search = function()
+{
+
+    var attachEvents = function()
+    {
+	    $("#SearchButton").click(function() 
+        {
+            if ( $("#fMainSearchTerms").val() == searchTeaser)
+                $("#fMainSearchTerms").val("");
+
+            ////if ($("#fMainSearchTerms").val() == "")
+            ////{
+            ////	alert("Please enter a word or phrase to search on, then click the Search button again.");
+            ////}
+
+            $("#MainSearchForm").submit();
+            return false;
+		    
+	    });
+		
+	    $("#fMainSearchTerms").focus(function() 
+        {			
+		    if ($(this).attr("class").indexOf("SearchFieldTeaser") > -1)
+		    {
+			    $(this).val("");
+			    $(this).removeClass("SearchFieldTeaser");				
+		    }			
+	    });
+		
+	    $("#fMainSearchTerms").blur(function() 
+        {
+		    if ($(this).attr("class").indexOf("SearchFieldTeaser") == -1 && $(this).val() == "")
+		    {
+			    $(this).val(searchTeaser);
+			    $(this).addClass("SearchFieldTeaser");				
+		    }			
+	    });
+
+	    $("#LoginLink").unbind("click").bind("click", function() {
+            gLogin();
+	    });
+
+    }//attachEvents
+
+    var getSearchTeaser = function (isLandingPage)
+    {        
+        if (isLandingPage)
+             return "Be an athlete. Find your next event.";
+        else
+            return "Find your next event";
+    }
+
+    var setValues = function()
+    {
+        $("#fMainSearchTerms").val(searchTeaser);
+
+        if (isLandingPage)
+            $(".alreadyReg").show();
+    }
+    
+    return{
+        attachEvents:attachEvents,
+        getSearchTeaser:getSearchTeaser,
+        setValues:setValues
+        };
+
+}()//search
+
+</script>
+
+<div class="search" id="search" style="">
+
+	<div id="header">    	
+        <div class="container clearfix">
+        	<div class="logo"><a href="/default.aspx"><img class="img" alt="imATHLETE - Online Race Registration Software" style="height:50px;width:196px;" src="/images/home/new/imATHLETE-online-race-registration.gif"></a></div>
+            <div class="sign PreLoginInfoBox" style="">
+            	<a href="/account/signup/Signup.aspx" class="button_A r3">Sign Up</a>
+                <a id="LoginLink" href="#">Sign In</a>
+
+            </div>
+            <div class="cabinet PostLoginInfoBox" style="display: none;">
+                <div class="dd">
+                    <ul>
+                        <li class="mnuMyEventsAdmin"><a href="/account/myevents.aspx">My Events</a></li> 
+                        <li class="mnuProfileAdmin"><a href="/account/MyProfile.aspx">Profile</a></li>     
+                    	<li><a href="/account/settings/PersonalInfo.aspx">Settings</a></li>
+                        <li><a href="/events/editreg/editreg_questionsComments.aspx">Help</a></li>
+                        <li><a id="SignoutLink" href="#">Log Out</a></li>
+                    </ul>
+                	<span class="r5">My Account<b></b></span>
+                </div>
+            	<div id="divUserName"><span id="UserInfoName"></span></div>
+            </div>
+            <form id="MainSearchForm" class="find_event" method="post" action="/events/EventSearch.aspx">
+                <div class="clearfix">
+                    <input id="fMainSearchTerms" name="fMainSearchTerms" type="text" class="SearchFieldTeaser">
+                    <input id="SearchButton" class="button_B" type="submit" value="Search">
+                </div>
+                <div class="reg_already text-center links_orange clearfix alreadyReg">
+                    <span>Already registered for an event? &nbsp;&nbsp;</span> <a href="/events/editreg/editreg_editregistration.aspx">Click here to edit</a>
+                </div>
+            </form>
+        </div>        
+    </div>
+
+</div> 
+
+
+<link type="text/css" rel="stylesheet" href="/includes/styles/global/navMenu.css">
+
+<div id="ctl00_MenuControl1_mainFrame" class="mainFrame" style="margin-bottom:10px;">
+    <div class="block_A relative">
+    	<div id="menuTop">
+        	<div class="bg"></div>
+            <div id="ctl00_MenuControl1_mnuColContainer" class="colContainer" style="width:960px;">
+
+            
+                <div id="ctl00_MenuControl1_mnuLogo" class="logo" style="display:none;">
+                    <div>                    
+                        <a href="/default.aspx" target="_blank"><img src="/images/global/ima_logo_custom_reg_menu_bar.png" alt="imATHLETE"> </a>
+                    </div>                    
+                </div>
+            
+                <div class="container clearfix">            
+                    <ul>
+                                                                                       
+                                                                                       
+                                                                                   
+                                                                                                         
+                                         
+                                                                                     
+                        <li id="ctl00_MenuControl1_mnuMyEventsNoLogin"><a href="/events/editreg/editreg_editregistration.aspx">Manage Registrations</a></li>    
+                        <li id="ctl00_MenuControl1_mnuFundraising"><a href="/donate/donate.aspx">Fundraising</a></li>                                           
+                        <li id="ctl00_MenuControl1_mnuSupport"><a href="/events/editreg/editreg_questionsComments.aspx">Help</a></li>                           
+                        <li id="ShoppingCartLink" style="float:right;display:none;"> <a href="/cart">My Cart&nbsp;&nbsp;(<span id="ShoppingCartItemsLabel"></span>)</a></li> 
+                    </ul>     
+                </div>
+
+
+            </div>
+        </div>
+
+    </div>
+    
+</div>
+
+
+
+
+
+
+
+<div id="content_wrapper">   
+<div id="content_inner_wrapper">   
+
+<div class="TopNavBlockWrapper" style="display:none;">
 <div class="TopNavBlock">
 
 	<div id="homelink"><img src="/images/global/im_logo.png" alt="imATHLETE"></div>
@@ -262,7 +509,7 @@ $(document).ready(function() {
 			<a href="#" id="LoginLink">Login</a>
 		</div>
 		
-		<div id="ShoppingCartLink" class="TopNavShoppingCart" style="display: none;">
+		<div id="ShoppingCartLink" class="TopNavShoppingCart">
 			<a href="/cart"><img src="/images/global/icn_shoppingcart.gif" alt="Shopping Cart"></a> 
 			<a href="/cart"><span id="ShoppingCartItemsLabel"></span></a>
 		</div>
@@ -280,10 +527,10 @@ $(document).ready(function() {
 </div>
 </div>
 
-<div class="TopNavWrapper">
+<div class="TopNavWrapper" style="display:none;">
 <ul class="TopNavMenu">
 	<li class="TopNavSpecLinkOff"><a href="#">Sports <img src="/images/global/nav_dropdown_off.gif" alt="|v"></a> 
-		<ul class="SearchBySportList" style="display: none;"><li><a href="/events/EventSearch.aspx?fSp1=Adventure%20Racing&amp;z=1580432332217">Adventure Racing</a></li><li><a href="/events/EventSearch.aspx?fSp1=Aquabike&amp;z=1580432332217">Aquabike</a></li><li><a href="/events/EventSearch.aspx?fSp1=Aquathlon&amp;z=1580432332217">Aquathlon</a></li><li><a href="/events/EventSearch.aspx?fSp1=Bicycling&amp;z=1580432332217">Bicycling</a></li><li><a href="/events/EventSearch.aspx?fSp1=Camps%20%26amp%3B%20Clinics&amp;z=1580432332217">Camps &amp; Clinics</a></li><li><a href="/events/EventSearch.aspx?fSp1=Duathlon&amp;z=1580432332217">Duathlon</a></li><li><a href="/events/EventSearch.aspx?fSp1=Mountain%20Biking&amp;z=1580432332217">Mountain Biking</a></li><li><a href="/events/EventSearch.aspx?fSp1=Running&amp;z=1580432332217">Running</a></li><li><a href="/events/EventSearch.aspx?fSp1=Swimming&amp;z=1580432332217">Swimming</a></li><li><a href="/events/EventSearch.aspx?fSp1=Track%20%26amp%3B%20Field&amp;z=1580432332217">Track &amp; Field</a></li><li><a href="/events/EventSearch.aspx?fSp1=Triathlon&amp;z=1580432332217">Triathlon</a></li><li><a href="/events/EventSearch.aspx?fSp1=Water%20Sports&amp;z=1580432332217">Water Sports</a></li><li><a href="/events/EventSearch.aspx?fSp1=Club&amp;z=1580432332217">Club</a></li><li><a href="/events/EventSearch.aspx?fSp1=Other&amp;z=1580432332217">Other</a></li></ul>	
+		<ul class="SearchBySportList" style="display: none;"><li><a href="/events/EventSearch.aspx?fSp1=Adventure%20Racing&amp;z=1580432336051">Adventure Racing</a></li><li><a href="/events/EventSearch.aspx?fSp1=Aquabike&amp;z=1580432336051">Aquabike</a></li><li><a href="/events/EventSearch.aspx?fSp1=Aquathlon&amp;z=1580432336051">Aquathlon</a></li><li><a href="/events/EventSearch.aspx?fSp1=Bicycling&amp;z=1580432336051">Bicycling</a></li><li><a href="/events/EventSearch.aspx?fSp1=Camps%20%26amp%3B%20Clinics&amp;z=1580432336051">Camps &amp; Clinics</a></li><li><a href="/events/EventSearch.aspx?fSp1=Duathlon&amp;z=1580432336051">Duathlon</a></li><li><a href="/events/EventSearch.aspx?fSp1=Mountain%20Biking&amp;z=1580432336051">Mountain Biking</a></li><li><a href="/events/EventSearch.aspx?fSp1=Running&amp;z=1580432336051">Running</a></li><li><a href="/events/EventSearch.aspx?fSp1=Swimming&amp;z=1580432336051">Swimming</a></li><li><a href="/events/EventSearch.aspx?fSp1=Track%20%26amp%3B%20Field&amp;z=1580432336051">Track &amp; Field</a></li><li><a href="/events/EventSearch.aspx?fSp1=Triathlon&amp;z=1580432336051">Triathlon</a></li><li><a href="/events/EventSearch.aspx?fSp1=Water%20Sports&amp;z=1580432336051">Water Sports</a></li><li><a href="/events/EventSearch.aspx?fSp1=Club&amp;z=1580432336051">Club</a></li><li><a href="/events/EventSearch.aspx?fSp1=Other&amp;z=1580432336051">Other</a></li></ul>	
 	</li>
 	<!--
 	<li class="TopNavSpecLinkOff"><a href="#">Location <img src="/images/global/nav_dropdown_off.gif" alt="|v"/></a> 
@@ -426,27 +673,13 @@ $(document).ready(function() {
 
 </div>
 	
-	
-	<div id="FooterBlock">
-		<a href="/account/info/IMAMission.aspx" target="_blank">imATHLETE Mission</a>&nbsp;|&nbsp;
-		<a href="/account/info/TermsOfUse.aspx" target="_blank">Terms of Use</a>&nbsp;|&nbsp;
-		<a href="/account/info/PrivacyPolicy.aspx" target="_blank">Privacy Policy</a>&nbsp;|&nbsp;
-		<a href="/account/info/Disclaimer.aspx" target="_blank">Disclaimer</a>&nbsp;|&nbsp;
-		<a href="http://www.ziprecruiter.com/jobs/I-Am-Athlete/a6de691a" target="blank">Jobs</a>&nbsp;|&nbsp;
-		<a href="/account/info/FAQ.aspx" target="_blank">FAQ</a>&nbsp;|&nbsp;
-		<a href="/ContactUs.aspx" target="_blank">Contact Us</a>&nbsp;|&nbsp;
-		© 2008-2013 By I Am Athlete, LLC. All Rights Reserved Worldwide.
 		
-		
-			
-	</div>
 
 </div>
+
 </div>
 
 
-
-								
 
 <link rel="stylesheet" type="text/css" href="/includes/styles/Controls/Users/LoginControl.css">
 
@@ -454,403 +687,701 @@ $(document).ready(function() {
 <link rel="stylesheet" type="text/css" href="/includes/styles/Controls/Users/LoginControl_ie7.css" />
 <![endif]-->
 
+<script type="text/javascript" language="javascript">
+    //<![CDATA[
+    var sLogin = "";
+    var bCheckUserSession = true;
+    
 
-	<script type="text/javascript" language="javascript">
-//<![CDATA[
+    $(document).ready(function(){
 
-// START LoginControl common functions ===========================
+        if (bCheckUserSession)
+            gLoadUserSession(true);
 
-var sLogin = "";
-var bCheckUserSession = true;
+        
+        $('.LoginForm').keypress( function(e) {
+            if(e.keyCode == '13') {
+                $(this).find('.acceptEnter').click();
+            }
+        });
 
-$(document).ready(function(){
-	
-	if (bCheckUserSession)
-		gLoadUserSession(true);
-		
-	
-	$("#loginform").submit(function() {
-		
-		return validateloginform();
-		
-	});//end submit		
-	
-	$("#fLoginCancelButton").click(function() {
-		
-		$("#fLoginName").val("");
-		$("#fLoginPass").val("");
-		
-		$.unblockUI();
-		
-		
-		return false;
-		
-	});//end fLoginCancelButton
-	
-	
-	
-	// START - FORGOT PASS ========================================================
-	
-	$("#ForgotPassLink").click(function() {
-		
-		$.unblockUI();
-		
-		$("#ForgotPassMainForm").show();
-		$("#ForgotPassResult").hide();
-		
-		
-		$.blockUI( { message: $("#ForgotPassFormBox"), 
-			css: { width: '400px', height: '175px', textAlign: 'left', padding: '10px 10px' , fontSize: '12px'} });
-		
-		
-		return false;
-		
-	});//end forgot pass click
-	
-	$("#fForgotPassSubmitButton").click(function() {
-		
-		var sForgotPass = $("#fForgotPassEmail").val();
-		
-		if (sForgotPass == null || sForgotPass == "")
-		{
-			alert("Please enter your e-mail address.");
-			$("#fForgotPassEmail").focus();
-			return false;
-		
-		}//end if
-		
-		if (!gIsValidEmail(sForgotPass))
-		{			
-			alert("Please enter a valid e-mail address.");
-			$("#fForgotPassEmail").focus();
-			return false;
-		
-		}//end if
-		
-		$(".ForgotPassError").html("");
-		
-		gProcessAjaxForm("ForgotPassForm", "/data/ResetPassword.aspx", FinishForgotPass);
-		
-		
-		$("#fForgotPassEmail").attr("disabled", "disabled");
-		
-		return false;
-		
-	});//end click
-	
-	$("#fForgotPassCancelButton").click(function() {
-		
-		ResetForgotPass();
-		
-		$.unblockUI();
-		
-		gLogin();		
-		
-		return false;
-		
-	});//end click
-	
-	function ResetForgotPass()
-	{
-		$(".ForgotPassError").html("");
-		$("#fForgotPassEmail").val("").attr("disabled", "");
-		$("#ForgotPassResult").hide();
-		
-	}//end ResetForgotPass
-	
-	function FinishForgotPass(inData, inError) {
-		
-		var data = $(inData);
-		
-		var bSuccess = false;
-		
-		data.find("status").each(function() {
-			
-			bSuccess = gGetBoolFromDB($(this).text());
-			
-		});//end each
-		
-		if (bSuccess)
-		{
-			$("#ForgotPassMainForm").hide();
-			$("#ForgotPassResult").show();
-			
-			$("#fForgotPassEmail").val("").attr("disabled", "");
-			
-			
-		}//end if	
-		else
-		{
-			$(".ForgotPassError").html(inError);
-			$("#fForgotPassEmail").attr("disabled", "");
-			
-		}//end else
-		
-	}//end FinishForgotPass
-	
-	$("#ForgotPassLoginAgainLink").click(function() {
-		
-		$.unblockUI();
-		
-		ResetForgotPass();
-		
-		gLogin();
-		
-		return false;
-		
-	});//end ForgotPassLoginAgainLink click
-	
-	$("#ForgotPassCloseLink").click(function() {
-		
-		$.unblockUI();
-		
-		ResetForgotPass();
-		
-		return false;			
-		
-	});//end ForgotPassCloseLink click
-	
-	
-	
-	// END - FORGOT PASS ========================================================
+        $("#btnLoginIma").click(function(){
+            SubmitTheForm("Ima");
+        });
 
-	
-	if (sLogin.length > 0)
-		gProcessLogin(sLogin);
-		
-});
+        $("#btnLoginFB").click(function(){
+            SubmitTheForm("FB");
+        });
+
+        $("#btnLogInFBEmailYes").click(function(){
+            $("#fFacebookEmailAddress").val($("#fLoginNameFBEmailYes").val());
+            SubmitTheForm("FBEmailYes");
+        });
+
+        $("#fLoginSubmitButtonFBEmailNo").click(function(){
+            SubmitTheForm("FBEmailNo");
+        });
+
+        $("#fLoginCancelButton").click(function() {
+            $("#fLoginNameIma").val("");
+            $("#fLoginPassIma").val("");
+            $("#fLoginName").val("");
+            $("#fLoginPass").val("");
+
+            $.unblockUI();
+        });//end fLoginCancelButton
+
+        $("#fLoginCancelButtonFBEmailNo").click(function() {
+            $("#fLoginNameFBEmailNo").val("");
+            $("#fLoginPassFBEmailNo").val("");
+            $("#fLoginName").val("");
+            $("#fLoginPass").val("");
+            $("input.facebookID").val("");
+            $("input.facebookEmail").val("");
+
+            $.unblockUI();
+        });
+
+        $("#fLoginCancelButtonFBEmailYes").click(function() {
+            $("#fLoginNameFBEmailYes").val("");
+            $("#fLoginPassFBEmailYes").val("");
+            $("#fLoginName").val("");
+            $("#fLoginPass").val("");
+            $("input.facebookID").val("");
+            $("input.facebookEmail").val("");
+
+            $.unblockUI();
+        });
+
+        // START - FORGOT PASS ========================================================
+
+        $("#ForgotPassLink").click(forgotPassword);
+        $("#fForgotPasswordFBEmailNo").click(forgotPassword);
+        $("#fForgotPasswordFBEmailYes").click(function() {
+            $("#fForgotPassEmail").val($("#fLoginNameFBEmailYes").val());
+            $("#fForgotPassEmail").attr("readonly", "readonly");
+            forgotPassword();
+        });
+
+        $("#fForgotPassSubmitButton").click(function() {
+
+            var sForgotPass = $("#fForgotPassEmail").val();
+
+            if (sForgotPass == null || sForgotPass == "")
+            {
+                alert("Please enter your e-mail address.");
+                $("#fForgotPassEmail").focus();
+                return false;
+
+            }//end if
+
+            if (!gIsValidEmail(sForgotPass))
+            {
+                alert("Please enter a valid e-mail address.");
+                $("#fForgotPassEmail").focus();
+                return false;
+
+            }//end if
+
+            $(".ForgotPassError").html("");
+
+            gProcessAjaxForm("ForgotPassForm", "/data/ResetPassword.aspx", FinishForgotPass);
 
 
-// Login =============================================================================
+            $("#fForgotPassEmail").attr("disabled", "disabled");
 
-function gLogin()
-{
+            return false;
 
-	if ($("#fLoginRedirect").val() != "")
-	{
-		$(".LoginErrorMsg").html("You must login first to access that page.").show();
-		
-		if (!gIsValidLocalURL($("#fLoginRedirect").val()))
-			$("#fLoginRedirect").val("");
-		
-		
-	}//end if
-	
-	$.blockUI( { message: $("#LoginForm"), 
-					css: { width: '450px', height: 'auto', textAlign: 'left', padding: '10px 10px' , fontSize: '12px'} });
-	
-	$("#fLoginName").focus();
-	
-	
-}//end gLogin
+        });//end click
 
+        $("#fForgotPassCancelButton").click(function() {
 
-function VerifyLogin(inData, inError)
-{
+            ResetForgotPass();
 
-	if (gProcessReportError(inError, true, "errormsg"))
-		return false;
-	
-	
-	var sLoginRedirect = "";
-	
-	if ($("#fLoginRedirect").val() != null)
-	{
-		sLoginRedirect = $("#fLoginRedirect").val();
-		
-		if (!gIsValidLocalURL(sLoginRedirect))
-			sLoginRedirect = "";
-	
-	}//end if
-	
-	
-	var data = $(inData);
-	var sResetPassUID = "";
-	
-	data.find("status").each(function() {
-		
-		sResetPassUID = $(this).text();
-		
-		if (sResetPassUID.indexOf("Reset") > -1)
-		{
-			sResetPassUID = sResetPassUID.substring(sResetPassUID.indexOf("(") + 1);
-			sResetPassUID = sResetPassUID.substring(0, sResetPassUID.indexOf(")"));
-			
-		}//end if
-		else
-			sResetPassUID = "";
-		
-	});//end each
-	
-	if (sResetPassUID.length > 0)
-	{
-		gCookieMake("ResetPassState", "1", 0);
-		document.location.href = "/account/ResetPassword.aspx?fEUID=" + sResetPassUID;
-		return false;
-		
-	}//end if
-	
-	var sCurrLoc = document.location.href;
-	
-	if (sLoginRedirect.length > 0)
-		document.location.href = sLoginRedirect;
-	else if (sCurrLoc.toLowerCase().indexOf("signup.aspx") > -1)
-		document.location.href = gURLNoCache("/main.aspx");
-	else
-		document.location.reload();
-		
-	return true;	// Not really necessary but...
-	
-}//end VerifyLogin
+            $.unblockUI();
 
-function ValidateLoginForm () {
-	
-	if ($("#fLoginName").val().length == 0)
-	{
-		alert("Please enter your e-mail address.");
-		$("#fLoginName").focus();
-		return false;
-			
-	}//end if
-	if ($("#fLoginPass").val().length == 0)
-	{
-		alert("Please enter your password.");
-		$("#fLoginPass").focus();
-		return false;
-			
-	}//end if
-	
-	return true;
-	
-}//end ValidateLoginForm
+            gLogin();
 
-function gProcessLogin(inResponse)
-{
-	var bShowLogin = false;
-	
-	switch(inResponse)
-	{
-		case "FAIL":
-			// Invalid login
-			alert("Invalid login.");
-			bShowLogin = true;
-			break;
-		case "NEM":
-			alert("Please enter your e-mail address.");
-			bShowLogin = true;
-			break;
-		case "NPS":
-			alert("Please enter your password.");
-			bShowLogin = true;
-			break;
-		case "NDB":
-			alert("A system error occurred. Please try again in a minute.");
-			break;
-			
-	}//end switch
-	
-	if (bShowLogin)
-	{
-		gLogin();
-		
-	}//end if
-	
-}//end gProcessLogin
+            return false;
+
+        });//end click
+
+        function ResetForgotPass()
+        {
+            $(".ForgotPassError").html("");
+            $("#fForgotPassEmail").val("").attr("disabled", "");
+            $("#ForgotPassResult").hide();
+
+        }//end ResetForgotPass
+
+        function FinishForgotPass(inData, inError) {
+
+            var data = $(inData);
+
+            var bSuccess = false;
+
+            data.find("status").each(function() {
+
+                bSuccess = gGetBoolFromDB($(this).text());
+
+            });//end each
+
+            if (bSuccess)
+            {
+                $("#ForgotPassMainForm").hide();
+                $("#ForgotPassResult").show();
+
+                $("#fForgotPassEmail").val("").attr("disabled", "");
 
 
-//END LoginControl common functions ===========================
+            }//end if
+            else
+            {
+                $(".ForgotPassError").html(inError);
+                $("#fForgotPassEmail").attr("disabled", "");
 
-//]]
-	</script>
+            }//end else
+
+        }//end FinishForgotPass
+
+        $("#ForgotPassLoginAgainLink").click(function() {
+
+            $.unblockUI();
+
+            ResetForgotPass();
+
+            gLogin();
+
+            return false;
+
+        });//end ForgotPassLoginAgainLink click
+
+        $("#ForgotPassCloseLink").click(function() {
+
+            $.unblockUI();
+
+            ResetForgotPass();
+
+            return false;
+
+        });//end ForgotPassCloseLink click
+
+        $("#btnConnectFacebook").click(FBlogin);
+
+        $("#lnkFBCreatAccount").click(function () {
+            $("#frmFBSignUp").submit();
+        });
+
+        $("#lnkLogInToConnect").click(function() {
+            $("input.facebookEmail").val("");
+            $.blockUI( { message: $("#dvLoginFBEmailNo"),
+                css: { border: '10px solid #f48509', borderRadius: '25px', width: '450px', height: 'auto', textAlign: 'left', padding: '10px 10px' , fontSize: '12px'}, onBlock: function () {$("#fLoginNameFBEmailNo").focus();} });
+        });
+
+        $("a[rel='lnkFBNotYou']").click(facebookNotYou);
+
+        if (sLogin.length > 0)
+            gProcessLogin(sLogin);
+    });
+
+    function forgotPassword(){
+        $.unblockUI();
+
+        $("#ForgotPassMainForm").show();
+        $("#ForgotPassResult").hide();
 
 
+        $.blockUI( { message: $("#ForgotPassFormBox"),
+            css: {border: '10px solid #f48509', borderRadius: '25px',  width: '400px', height: '175px', textAlign: 'left', padding: '10px 10px' , fontSize: '12px'} });
 
-	<div id="LoginFormBox" class="FormContainer">
 
-		<form id="LoginForm" class="LoginForm" method="post" action="https://www.imathlete.com/account/login/default.aspx">
-		
-		<input type="hidden" name="fLoginRedirect" id="fLoginRedirect" value="">
-		
-		<div class="LoginErrorMsg"></div>
-		
-		<p>
-		<label class="StandardHeaderReq" for="fLoginName">E-mail Address: *</label>
-		<input type="text" name="fLoginName" id="fLoginName" size="20" maxlength="150" value="" class="StandardField LoginField" tabindex="1001">
-		</p>
-		
-		<p>
-		<label class="StandardHeaderReq" for="fLoginPass">Password: *</label>
-		<input type="password" name="fLoginPass" id="fLoginPass" size="20" maxlength="150" value="" class="StandardField LoginField" tabindex="1002" autocomplete="off">
-		&nbsp;&nbsp;<a href="#" id="ForgotPassLink" tabindex="1004">Forgot your password?</a>
-		</p>
-		
-		<p>
-		<label>&nbsp;</label>
-		<input type="checkbox" name="fRememberLogin" id="fRememberLogin" value="1" tabindex="1003"> 
-		<label for="fRememberLogin" class="Inline">Remember Me</label>
-		</p>
-		
-		
-		<p class="Buttons">
-		
-		<label>&nbsp;</label>
-			<input type="image" name="fLoginSubmitButton" id="fLoginSubmitButton" class="ImageRollover" tabindex="1005" src="/images/global/btn_login_off.gif" alt="Login">
-			<input type="image" name="fLoginCancelButton" id="fLoginCancelButton" class="ImageRollover" tabindex="1006" src="/images/global/btn_cancel_off.gif" alt="Cancel">
-		
-		
-		</p>
-		
-		<hr>
-		
-		<p class="LoginSignup">
-		
-			<strong>Not a member? <a href="/account/signup/Signup.aspx">Sign up now</a></strong> (it's free!)
-		
-		</p>
-		
-		</form>
-	</div>
-	
-	<div id="ForgotPassFormBox" class="FormContainer">
-		
-		<div id="ForgotPassMainForm">
-		
-		<form id="ForgotPassForm" method="post" action="">
-			
-			<div class="ForgotPassInstructions">For your security, we cannot retrieve passwords.They must be reset.<br>Enter your e-mail address below and we will help you create a new one.</div>
-			
-			<div class="ForgotPassError"></div>
-			
-			<div class="FormFieldCombo">
-				<div class="StandardHeaderReq">E-mail Address: *</div>
-				<input type="text" name="fForgotPassEmail" id="fForgotPassEmail" size="20" maxlength="150" style="width: 200px;" value="" class="StandardField" tabindex="2000">
-			</div>
-			
-			<div class="ForgotPassButtons">
-				<input type="image" name="fForgotPassSubmitButton" id="fForgotPassSubmitButton" class="ImageRollover Padding5" tabindex="2005" src="/images/global/btn_submit_off.gif" alt="Reset My Password">
-				<input type="image" name="fForgotPassCancelButton" id="fForgotPassCancelButton" class="ImageRollover Padding5" tabindex="2006" src="/images/global/btn_cancel_off.gif" alt="Cancel">
-			</div>
-			
-		</form>
-		
-		</div>
-		
-		<div id="ForgotPassResult">
-			
-			<div class="ForgotPassInstructions">We have just sent you an e-mail with instructions on how to change your password. <br><small>(this is the part where you check your email inbox)</small></div>
-			
-			<div class="ForgotPassResultsContent">
-				
-				<div><a href="#" id="ForgotPassLoginAgainLink">Login Again</a></div>
-				
-				<div>Didn't get the e-mail? <a href="mailto:support@imathlete.com">Contact Customer Support</a></div>
-				
-				<div><a href="#" id="ForgotPassCloseLink">Close This Window</a></div>
-				
-			</div>
-		</div>
-		
-	</div>
+        return false;
+    }
+
+
+    // Login =============================================================================
+
+    function gLogin()
+    {
+
+        if ($("#fLoginRedirect").val() != "")
+        {
+            $(".LoginErrorMsg").html("You must login first to access that page.").show();
+
+            if (!gIsValidLocalURL($("#fLoginRedirect").val()))
+                $("#fLoginRedirect").val("");
+
+
+        }//end if
+
+        if($("#fFBUID").val().length > 0) {
+            if($("#fFacebookEmailAddress").val().length > 0) {
+                $.blockUI( { message: $("#FBEmailYes"),
+                    css: { border: '10px solid #f48509', borderRadius: '25px', width: '450px', height: 'auto', textAlign: 'left', padding: '10px 10px' , fontSize: '12px'} });
+                $("#txtPasswordFBEmailNo").focus();
+            }
+            else {
+                $.blockUI( { message: $("#dvLoginFBEmailNo"),
+                    css: { border: '10px solid #f48509', borderRadius: '25px', width: '450px', height: 'auto', textAlign: 'left', padding: '10px 10px' , fontSize: '12px'} });
+            }
+        }
+        else {
+            $.blockUI( { message: $("#LoginForm"),
+                css: { border: '10px solid #f48509', borderRadius: '25px', width: '450px', height: 'auto', textAlign: 'left', padding: '10px 10px' , fontSize: '12px'} });
+
+            $("#fLoginName").focus();
+        }
+
+    }//end gLogin
+
+
+    function VerifyLogin(inData, inError)
+    {
+
+        if (gProcessReportError(inError, true, "errormsg"))
+            return false;
+
+
+        var sLoginRedirect = "";
+
+        if ($("#fLoginRedirect").val() != null)
+        {
+            sLoginRedirect = $("#fLoginRedirect").val();
+
+            if (!gIsValidLocalURL(sLoginRedirect))
+                sLoginRedirect = "";
+
+        }//end if
+
+
+        var data = $(inData);
+        var sResetPassUID = "";
+
+        data.find("status").each(function() {
+
+            sResetPassUID = $(this).text();
+
+            if (sResetPassUID.indexOf("Reset") > -1)
+            {
+                sResetPassUID = sResetPassUID.substring(sResetPassUID.indexOf("(") + 1);
+                sResetPassUID = sResetPassUID.substring(0, sResetPassUID.indexOf(")"));
+
+            }//end if
+            else
+                sResetPassUID = "";
+
+        });//end each
+
+        if (sResetPassUID.length > 0)
+        {
+            gCookieMake("ResetPassState", "1", 0);
+            document.location.href = "/account/ResetPassword.aspx?fEUID=" + sResetPassUID;
+            return false;
+
+        }//end if
+
+        var sCurrLoc = document.location.href;
+
+        if (sLoginRedirect.length > 0)
+            document.location.href = sLoginRedirect;
+        else if (sCurrLoc.toLowerCase().indexOf("signup.aspx") > -1)
+            document.location.href = gURLNoCache("/main.aspx");
+        else
+            document.location.reload();
+
+        return true;	// Not really necessary but...
+
+    }//end VerifyLogin
+
+    function ValidateLoginForm (idSuffix) {
+        if ($("#fLoginName" + idSuffix).val().length == 0)
+        {
+            alert("Please enter your e-mail address.");
+            $("#fLoginName" + idSuffix).focus();
+            return false;
+
+        }//end if
+        if ($("#fLoginPass" + idSuffix).val().length == 0)
+        {
+            alert("Please enter your password.");
+            $("#fLoginPass" + idSuffix).focus();
+            return false;
+
+        }//end if
+
+        return true;
+
+    }//end ValidateLoginForm
+
+    function SubmitTheForm(theForm){
+        if(ValidateLoginForm(theForm)){
+            $("#fLoginName").val($("#fLoginName" + theForm).val());
+            $("#fLoginPass").val($("#fLoginPass" + theForm).val());
+            $("#fRememberLogin").val($("#fRememberLogin" + theForm).attr("checked"));
+            $("#frmLogin").submit();
+        }
+    }
+
+    function gProcessLogin(inResponse)
+    {
+        var bShowLogin = false;
+
+        switch(inResponse)
+        {
+            case "FAIL":
+                // Invalid login
+                alert("Invalid login.");
+                bShowLogin = true;
+                break;
+            case "NEM":
+                alert("Please enter your e-mail address.");
+                bShowLogin = true;
+                break;
+            case "NPS":
+                alert("Please enter your password.");
+                bShowLogin = true;
+                break;
+            case "NDB":
+                alert("A system error occurred. Please try again in a minute.");
+                break;
+
+        }//end switch
+
+        if (bShowLogin)
+        {
+            gLogin();
+
+        }//end if
+
+    }//end gProcessLogin
+
+    //END LoginControl common functions ===========================
+
+    window.fbAsyncInit = function () {
+        // init the FB JS SDK
+        FB.init({
+            appId: '214032318540',
+	            channelUrl: 'http://www.imathlete.com/channel.htm',
+	            status: true,
+	            cookie: true,
+	            xfbml: true
+	        });
+	    };
+
+        //Load the facebook SDK asynchronously
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) { return; }
+            js = d.createElement(s); js.id = id; js.async = true;
+            js.src = "//connect.facebook.net/en_US/all.js";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+
+        function FBlogin(){
+            FB.login(fbLoginResponse, {scope: 'email,user_birthday,user_location,user_friends'});
+        }
+
+        function fbLoginResponse(response) {
+            if (response.status === 'connected') {
+                
+                var url = "/" + response.authResponse.userID + "?fields=name,email,picture";
+                FB.api(url, FBapiHandler);
+            }
+        }
+
+    function FBapiHandler(response){
+        if(response) {
+            facebookPopulate(response.id, response.name, response.email, response.picture.data.url);
+
+            // make the ajax call to login
+            var data = {FBUserID:response.id};
+            gDoAjaxJSON(gURLNoCache("/services/authentication/AuthenticationService.asmx/LoginWithFacebook"), $.toJSON(data), FBLoginSuccess, FBLoginFailure);
+        }
+
+        function FBLoginSuccess(data){
+            var results = data.d;
+            if(!results.IsSuccessful){
+                var checkData = {email:$("#fFacebookEmailAddress").val()};
+                gDoAjaxJSON(gURLNoCache("/services/User/UserService.asmx/EmailExists"), $.toJSON(checkData), emailExistsSuccess, FBLoginFailure);
+            }
+            else{
+                $.blockUI({ css: { backgroundColor: '#fff'} });
+                if($("#fLoginRedirect").val() == ""){
+                    window.location.reload();
+                }
+                else {
+                    window.location = $("#fLoginRedirect").val();
+                }
+            }
+        }
+    }
+
+        function emailExistsSuccess(data){
+            var result = data.d;
+            if(result) {
+                $.blockUI( { message: $("#FBEmailYes"),
+                    css: { border: '10px solid #f48509', borderRadius: '25px', width: '450px', height: 'auto', textAlign: 'left', padding: '10px 10px' , fontSize: '12px'}, onBlock: function () {$("#fLoginPassFBEmailYes").focus();} });
+            }
+            else{
+                $.blockUI( { message: $("#dvSignInOrSignUp"),
+                    css: { border: '10px solid #f48509', borderRadius: '25px', width: '420px', height: 'auto', textAlign: 'left', padding: '10px 10px' , fontSize: '12px'} });
+            }
+        }
+
+        function FBLoginFailure(errorText){
+            alert(errorText);
+        }
+
+        function facebookPopulate(id, name, email, imageUrl)
+        {
+            imageUrl = (imageUrl.length == 0 ? '/images/spacer.gif' : imageUrl);
+            $("input.facebookID").val(id);
+
+            if(name.length > 0){
+                $("span.facebookName").text(", " + name).show();
+            }
+            else{
+                $("span.facebookName").text(", ").hide();
+            }
+
+            $("input.facebookEmail").val(email);
+
+            $("img.facebookImage").attr("src", imageUrl);
+            $("#fFacebookImageUrl").val(imageUrl);
+        }
+
+        function facebookNotYou(){
+            
+            facebookPopulate("", "", "", "");
+            gLogin();
+            FB.logout( function() {
+                FBlogin();
+            });
+        }
+
+        //]]
+</script>
+<div id="LoginFormBox" class="FormContainer">
+    <div id="LoginForm" class="LoginForm">
+
+        <div class="LoginErrorMsg"></div>
+        
+        <div id="ctl00_ctl01_spanLoginWithFacebook" class="LoginForm" style="padding-bottom:15px">
+            <div style="padding-bottom:5px"></div>
+            <strong style="font-size:14px">Sign in with your Facebook account</strong>
+            <br>
+            
+            Connect your facebook account to open your athletic world.&nbsp;&nbsp;&nbsp;&nbsp;
+            <input type="image" id="btnConnectFacebook" src="../../../images/SocialNetworking/facebook_login_button.png" alt="Facebook Log-in">
+            <br><br>
+            <hr>
+        </div>
+        <strong style="font-size:14px">Sign in with your imATHLETE account</strong>
+        <p>
+            <label class="StandardHeaderReq" for="fLoginNameIma">E-mail Address: *</label>
+            <input type="text" name="fLoginNameIma" id="fLoginNameIma" size="20" maxlength="150" value="" class="StandardField LoginField" tabindex="1001">
+        </p>
+
+        <p>
+            <label class="StandardHeaderReq" for="fLoginPassIma">Password: *</label>
+            <input type="password" name="fLoginPassIma" id="fLoginPassIma" size="20" maxlength="150" value="" class="StandardField LoginField" tabindex="1002" autocomplete="off">
+            &nbsp;&nbsp;<a href="#" id="ForgotPassLink" tabindex="1004">Forgot your password?</a>            
+        </p>
+
+        <p>
+            <label>&nbsp;</label>
+            <input type="checkbox" name="fRememberLoginIma" id="fRememberLoginIma" value="1" tabindex="1003">
+            <label for="fRememberLoginIma" class="Inline">Remember Me</label>
+        </p>
+
+        <p class="Buttons">
+
+            <label>&nbsp;</label>
+            <input type="image" name="btnLoginIma" id="btnLoginIma" class="ImageRollover acceptEnter" tabindex="1005" src="/images/global/btn_login_off.gif" alt="Login">
+            <input type="image" name="fLoginCancelButton" id="fLoginCancelButton" class="ImageRollover" tabindex="1006" src="/images/global/btn_cancel_off.gif" alt="Cancel">
+
+
+        </p>
+
+        <hr>
+
+        <p class="LoginSignup">
+
+            <strong>Not a member? <a href="/account/signup/Signup.aspx" id="ctl00_ctl01_signupLink">Sign up now</a></strong> (it's free!)
+
+        </p>
+    </div>
+</div>
+
+<div id="ForgotPassFormBox" class="FormContainer">
+
+    <div id="ForgotPassMainForm">
+
+        <form id="ForgotPassForm" method="post" action="">
+
+            <div class="ForgotPassInstructions">For your security, we cannot retrieve passwords.They must be reset.<br>Enter your e-mail address below and we will help you create a new one.</div>
+
+            <div class="ForgotPassError"></div>
+
+            <div class="FormFieldCombo">
+                <div class="StandardHeaderReq">E-mail Address: *</div>
+                <input type="text" name="fForgotPassEmail" id="fForgotPassEmail" size="20" maxlength="150" style="width: 200px;" value="" class="StandardField" tabindex="2000">
+            </div>
+
+            <div class="ForgotPassButtons">
+                <input type="image" name="fForgotPassSubmitButton" id="fForgotPassSubmitButton" class="ImageRollover Padding5" tabindex="2005" src="/images/global/btn_submit_off.gif" alt="Reset My Password">
+                <input type="image" name="fForgotPassCancelButton" id="fForgotPassCancelButton" class="ImageRollover Padding5" tabindex="2006" src="/images/global/btn_cancel_off.gif" alt="Cancel">
+            </div>
+
+        </form>
+
+    </div>
+
+    <div id="ForgotPassResult">
+
+        <div class="ForgotPassInstructions">We have just sent you an e-mail with instructions on how to change your password. <br><small>(this is the part where you check your email inbox)</small></div>
+
+        <div class="ForgotPassResultsContent">
+
+            <div><a href="#" id="ForgotPassLoginAgainLink">Login Again</a></div>
+
+            <div>Didn't get the e-mail? <a href="mailto:support@imathlete.com">Contact Customer Support</a></div>
+
+            <div><a href="#" id="ForgotPassCloseLink">Close This Window</a></div>
+
+        </div>
+    </div>
+
+</div>
+
+<div id="FBEmailYes" class="FormContainer">
+    <div class="LoginForm">
+        <strong style="font-size:14px">Welcome back<span class="facebookName">, </span>!</strong>
+        <br><br>
+        Happy day, it looks like you already have an imATHLETE account. Enter your imATHLETE password to connect to your sports world with Facebook.
+    <br>
+        <br>
+        <div style="padding-left:100px">
+            <div style="float:left">
+                <img class="facebookImage" alt="Facebook image" src="/images/spacer.gif"><br>
+                <a href="javascript:void(0)" rel="lnkFBNotYou">Not you?</a>
+            </div>
+            <div style="padding: 0px 25px 0px 25px;position:relative;float:left">
+                <img src="../../../images/SocialNetworking/ConnectingArrow.png" alt="connect"></div>
+            <div style="float:left">
+                <img src="../../../images/global/ima_generic_avatar.gif" alt="imATHLETE">
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <p>
+            <label class="StandardHeaderReq" for="fLoginNameFBEmailYes">E-mail Address: *</label>
+            <input type="text" name="fLoginNameFBEmailYes" id="fLoginNameFBEmailYes" size="20" maxlength="150" value="" class="StandardField LoginField facebookEmail" readonly="readonly">
+        </p>
+
+        <p>
+            <label class="StandardHeaderReq" for="fLoginPassFBEmailYes">Password: *</label>
+            <input type="password" name="fLoginPassFBEmailYes" id="fLoginPassFBEmailYes" size="20" maxlength="150" value="" class="StandardField LoginField" tabindex="1012" autocomplete="off">
+            &nbsp;&nbsp;<a href="#" id="fForgotPasswordFBEmailYes" tabindex="1004">Forgot your password?</a>
+        </p>
+
+        
+
+        <p class="Buttons">
+
+            <label>&nbsp;</label>
+            <input type="image" name="btnLogInFBEmailYes" id="btnLogInFBEmailYes" class="ImageRollover acceptEnter" tabindex="1005" src="/images/global/btn_login_off.gif" alt="Login">
+            <input type="image" name="fLoginCancelButtonFBEmailYes" id="fLoginCancelButtonFBEmailYes" class="ImageRollover" tabindex="1006" src="/images/global/btn_cancel_off.gif" alt="Cancel">
+
+
+        </p>
+
+
+    </div>
+</div>
+
+<div id="dvSignInOrSignUp" class="FormContainer">
+    <strong style="font-size:14px">Woohoo<span class="facebookName">, </span>! You've connected with Facebook!</strong><br><br>
+    <div style="padding-left: 85px">
+        <div style="float: left">
+            <img class="facebookImage" alt="Facebook image" src="/images/spacer.gif"><br>
+            <a href="javascript:void(0)" rel="lnkFBNotYou">Not you?</a>
+        </div>
+        <div style="padding: 0px 25px 0px 25px; position: relative; float: left">
+            <img src="../../../images/SocialNetworking/ConnectingArrow.png" alt="connect">
+        </div>
+        <div style="float: left">
+            <img src="../../../images/global/ima_generic_avatar.gif" alt="imATHLETE">
+        </div>
+    </div>
+    <div style="clear:both;height:10px"></div>
+    <h3>Do you already have an imATHLETE account?</h3><br>
+    <a href="javascript:void(0);" id="lnkFBCreatAccount">Nope - Sign me up!</a><br>
+    Create an account and open up your world endurance sports.
+    <br>
+    <br>
+    <a href="#" id="lnkLogInToConnect">I already have one!</a><br>
+    Connect your imATHLETE account to Facebook in seconds.
+</div>
+
+<div class="FormContainer">
+    <div id="dvLoginFBEmailNo" class="LoginForm">
+        <strong style="font-size:14px">Welcome back<span class="facebookName">, </span>!</strong><br>
+        Enter your imATHLETE info and connect with Facebook in one click.<br><br>
+    <div style="padding-left: 100px">
+        <div style="float: left">
+            <img class="facebookImage" alt="Facebook image" src="/images/spacer.gif"><br>
+            <a href="javascript:void(0)" rel="lnkFBNotYou">Not you?</a>
+        </div>
+        <div style="padding: 0px 25px 0px 25px; position: relative; float: left">
+            <img src="../../../images/SocialNetworking/ConnectingArrow.png" alt="connect">
+        </div>
+        <div style="float: left">
+            <img src="../../../images/global/ima_generic_avatar.gif" alt="imATHLETE">
+        </div>
+    </div>
+        <div style="clear: both; height: 10px"></div>
+
+        <p>
+            <label class="StandardHeaderReq" for="fLoginNameFBEmailNo">E-mail Address: *</label>
+            <input type="text" name="fLoginNameFBEmailNo" id="fLoginNameFBEmailNo" size="20" maxlength="150" value="" class="StandardField LoginField" tabindex="1021">
+        </p>
+
+        <p>
+            <label class="StandardHeaderReq" for="fLoginPassFBEmailNo">Password: *</label>
+            <input type="password" name="fLoginPassFBEmailNo" id="fLoginPassFBEmailNo" size="20" maxlength="150" value="" class="StandardField LoginField" autocomplete="off" tabindex="1022">
+            &nbsp;&nbsp;<a href="#" id="fForgotPasswordFBEmailNo" tabindex="1004">Forgot your password?</a>
+        </p>
+
+        
+
+        <p class="Buttons">
+
+            <label>&nbsp;</label>
+            <input type="image" name="fLoginSubmitButtonFBEmailNo" id="fLoginSubmitButtonFBEmailNo" class="ImageRollover acceptEnter" tabindex="1005" src="/images/global/btn_login_off.gif" alt="Login">
+            <input type="image" name="fLoginCancelButtonFBEmailNo" id="fLoginCancelButtonFBEmailNo" class="ImageRollover" tabindex="1006" src="/images/global/btn_cancel_off.gif" alt="Cancel">
+        </p>
+
+    </div>
+</div>
+
+<div style="display: none">
+    
+    <form id="frmLogin" method="post" action="https://www.imathlete.com/account/login/default.aspx">
+        <input type="hidden" id="fLoginPass" name="fLoginPass">
+        <input type="hidden" name="fLoginRedirect" id="fLoginRedirect" value="">
+        <input type="hidden" name="fLoginName" id="fLoginName">
+        <input type="hidden" name="fFacebookEmailAddress" id="fFacebookEmailAddress" class="facebookEmail" value="">
+        <input type="hidden" name="fFBUID" id="fFBUID" value="" class="facebookID">
+        <input type="hidden" name="fFacebookImageUrl" id="fFacebookImageUrl" value="/images/spacer.gif">
+        <input type="hidden" name="fRememberLogin" id="fRememberLogin">
+    </form>
+
+    
+    <form id="frmFBSignUp" method="post" action="../../../account/Signup/Signup.aspx?login_redirect=">
+        <input type="hidden" id="fFBUIDSignUp" name="fFBUIDSignUp" value="" class="facebookID">
+        <input type="hidden" id="assumedEmailAddress" name="assumedEmailAddress" class="facebookEmail" value="">
+    </form>
+</div>
 	
 
 <div id="FeedbackFormBlock" name="testNewDiv" class="feedbackcontainer">
@@ -932,5 +1463,86 @@ var _sf_async_config={uid:38469,domain:"imathlete.com"};
 
 
 
+</div>
+</div>
+</div>
 
-<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+<div id="footer_wrapper"> 
+<div id="footer_inner_wrapper">  
+
+
+<link type="text/css" rel="stylesheet" href="/includes/styles/global/footer.css">
+
+<script type="text/javascript">
+$(document).ready( function () 
+{
+    var currentYear = new Date().getFullYear();
+    $("#FooterCopyYear").text(" - " + currentYear + " "   );  
+
+}); 
+</script>
+<div style="clear:both;"></div>
+<div id="footer">
+    <table class="container">
+    <tbody><tr>
+        <td colspan="2">
+            <div id="ctl00_FooterControl1_marginTop" class="marginTop"></div>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+             
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <div id="ctl00_FooterControl1_social" class="social"> 
+                <img usemap="#socialMap" alt="Find, like and share imATHLETE on Facebook, Twitter, Pinterest and Instagram." src="/images/home/new/social-media.gif">
+                <map name="socialMap">
+                <area shape="rect" coords="0,0,38,38" href="https://twitter.com/Iamathlete/" alt="Twitter" target="_blank">
+                <area shape="rect" coords="53,0,91,38" href="https://www.facebook.com/IAmAthlete/" alt="Facebook" target="_blank">
+                <area shape="rect" coords="106,0,144,38" href="https://www.pinterest.com/iamathlete/" alt="Pinterest" target="_blank">
+                <area shape="rect" coords="159,0,207,38" href="http://instagram.com/imathlete/" alt="Instagram" target="_blank">
+                </map> 
+            </div>
+        </td>
+        <td style="vertical-align:top;">
+                    <div id="ctl00_FooterControl1_noU" class="noU" style="width:635px;">
+                        <table>
+                            <tbody><tr>
+                                <td><a href="/sales/company.html" target="_blank">About Us</a></td>
+                                <td><a href="/account/info/TermsOfUse.aspx" target="_blank">Terms of Use</a></td>
+                                <td><a href="/account/info/PrivacyPolicy.aspx" target="_blank">Privacy Policy</a></td>
+                                <td><a href="/account/info/Disclaimer.aspx" target="_blank">Disclaimer</a></td>
+                                <td><div id="ctl00_FooterControl1_liCareers" class="liCareers"><a href=" http://www.ziprecruiter.com/jobs/I-Am-Athlete/a6de691a" target="_blank">Careers</a></div></td>
+                                <td><a href="/account/info/FAQ.aspx" target="_blank">FAQ</a></td>
+                                <td><a href="/ContactUs.aspx" target="_blank">Contact Us</a></td>
+                            </tr>
+                        </tbody></table>
+                    </div>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <div id="ctl00_FooterControl1_marginBottom" class="marginBottom"></div>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <div id="copy">
+                <span>© 2008</span><span id="FooterCopyYear"> - 2020 </span><span>&nbsp;By I Am Athlete, LLC. All Rights Reserved Worldwide.</span>
+            </div> 
+        </td>
+    </tr>
+    </tbody></table>
+</div>
+<div style="clear:both;"></div>  
+
+
+
+</div>
+</div>
+
+<script type="text/javascript"> if (!NREUMQ.f) {NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script"); e.type="text/javascript"; e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js"; document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-4.newrelic.com","07d46b15cd","2676432","ZgAHYkNVCBFZWxVZXV9KJGVhGwcBW1cUXkYeDAtQXhsWEFFOAFNLQQoJX1JNSANLSBk=",15,31,new Date().getTime(),"1DC939B4A7A4B542","","","",""]);</script>
+
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
