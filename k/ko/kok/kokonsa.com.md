@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the kokonsa.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212150148id_/http%3A//www.kokonsa.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kokonsa.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503063535id_/http%3A//www.kokonsa.com/index.php/privacy-policy.html) for the most accurate reproduction.*
 
-# Kokonsa.com | | For Your ears Only - Privacy policy
+# Kokonsa.com | For Your Ears Only - Privacy Policy
+
+     Created: 14 December 2013 
 
 Privacy policy
 
@@ -16,17 +18,17 @@ We use third-party advertising companies to serve ads when you visit our website
 
 Third Party Cookies
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. Also, www.kokonsa.com may use Google as a third party vendor. Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.kokonsa.com and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. Also, www.kokonsa.com may use Google as a third party vendor. Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.kokonsa.com and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-www.kokonsa.com has no access to or control over these cookies that are used by third-party advertisers. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices.
+www.kokonsa.com has no access to or control over these cookies that are used by third-party advertisers. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices.
 
 Personal Information
 
-Like most other websites, www.kokonsa.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Like most other websites, www.kokonsa.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 External Links
 
-This site contains links to other sites. www.kokonsa.com is not responsible for the privacy practices or the content of such websites.
+This site contains links to other sites. www.kokonsa.com is not responsible for the privacy practices or the content of such websites.
 
 Contacting our Website
 
