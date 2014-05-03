@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lootcrate.com privacy policy that was archived on 2013-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130919204025id_/http%3A//www.lootcrate.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lootcrate.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503185242id_/http%3A//www.lootcrate.com/privacy_policy) for the most accurate reproduction.*
 
 # Loot Crate - Monthly Geek and Gamer Subscription Box
 
