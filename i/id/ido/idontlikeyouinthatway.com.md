@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idontlikeyouinthatway.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208153226id_/http%3A//www.craveonline.com/privacy.php%3Fsite%3Didly.craveonline.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idontlikeyouinthatway.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503201648id_/http%3A//www.craveonline.com/privacy/%3Fsite%3Didly.craveonline.com) for the most accurate reproduction.*
 
 # Privacy Policy - CraveOnline
 
