@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the videomela.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102092731id_/http%3A//www.videomela.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videomela.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503083245id_/http%3A//www.videomela.com/privacy) for the most accurate reproduction.*
 
 # Music Video - Watch Online Free!
-
-[](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1356659&afsid=1)
 
 This document details important information regarding the use and disclosure of User Data collected on VideoMela   
 The security of your Data is very important to VideoMela and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.  
