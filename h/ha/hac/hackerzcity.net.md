@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hackerzcity.net privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231093130id_/http%3A//www.hackerzcity.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackerzcity.net privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503075246id_/http%3A//www.hackerzcity.net/privacy) for the most accurate reproduction.*
 
-# Privacy - News:-WWE Raw, Smackdown, Subtv, Colors, Star, Sony, Life ok
+# Privacy
 
 Our Commitment  
 hackerzcity.net is strongly committed to your right to privacy and to keeping your personal information secure. To earn your trust and confidence in our commitment, we are fully disclosing our privacy practices. We encourage you to read our privacy statement to understand what types of personally identifiable information we collect and how we use this information.
