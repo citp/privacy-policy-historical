@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imathlete.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807030537id_/http%3A//www.imathlete.com/account/info/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imathlete.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503152530id_/http%3A//www.imathlete.com/account/info/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Welcome to imATHLETE.com!
+# Privacy Policy | imATHLETE
 
 #### The Basics
 
@@ -89,3 +89,13 @@ Removing information from an imATHLETE post does not permanently delete the info
 That is our Privacy Policy. We hope you enjoyed reading it and we hope that it answered all of your questions. If you still have questions about your privacy, please feel free to drop us a line. 
 
 If you don't have any questions, why not go outside and play. 
+
+**Woohoo , ! You've connected with Facebook!**
+
+### Do you already have an imATHLETE account?
+
+Nope - Sign me up!  
+Create an account and open up your world endurance sports. 
+
+I already have one!  
+Connect your imATHLETE account to Facebook in seconds. 
