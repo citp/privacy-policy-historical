@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tvlankaonline.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630113359id_/http%3A//www.tvlankaonline.com/articles/read-privacy-policy_44.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvlankaonline.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503084111id_/http%3A//www.tvlankaonline.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - TV Lanka Online
+# Privacy Policy
 
-This Privacy Policy governs the manner in which TV Lanka Online collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.tvlankaonline.com](http://www.generateprivacypolicy.com/account/policies/edit/www.tvlankaonline.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by TV Lanka Online.
+This Privacy Policy governs the manner in which TV Lanka Online collects, uses, maintains and discloses information collected from users (each, a "User") of the www.tvlankaonline.com website ("Site"). This privacy policy applies to the Site and all products and services offered by TV Lanka Online.
 
 **Personal identification information**
 
@@ -20,18 +20,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 TV Lanka Online may collect and use Users personal information for the following purposes:
 
-  *  _\- To improve customer service_  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  *  _\- To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  *  _\- To improve our Site_  
-We may use feedback you provide to improve our products and services.
-  *  _\- To send periodic emails_  
-We may use the email address to send them information and updates pertaining to their order. 
-
-
-
-**How we protect your information**
+ **How we protect your information**
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
@@ -64,8 +53,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[TV Lanka Online](http://www.generateprivacypolicy.com/account/policies/edit/www.tvlankaonline.com)  
-[www.tvlankaonline.com](http://www.generateprivacypolicy.com/account/policies/edit/www.tvlankaonline.com)  
+TV Lanka Online  
+www.tvlankaonline.com  
 admin@tvlankaonline.com
 
-This document was last updated on June 27, 2012
+This document was last updated on January 01, 2014
