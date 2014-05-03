@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prontohome.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924103759id_/http%3A//www.prontohome.com/help/legal/policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prontohome.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503035810id_/http%3A//www.pronto.com/help/legal/policy.do) for the most accurate reproduction.*
 
 # About Pronto - Privacy Policy
 
