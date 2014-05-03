@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the pathoma.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231150540id_/http%3A//www.pathoma.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pathoma.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503070744id_/http%3A//www.pathoma.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Pathoma
 
 **Pathoma™ Privacy Policy** – Last updated: June 7, 2011.
 
-Pathoma LLC (“Pathoma”, “we”, “us” or “our”) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This policy guides how we collect, store and use information about our customers and Site visitors. By visiting the Pathoma.com domain, or any related sub-domains (collectively “Site”), or otherwise accessing our services (“Services”), you are accepting the practices described in this Privacy Policy.
-
-As we continue to improve the Service, materials and the features we provide, this Privacy Policy is subject to change. If there are changes or additions to this Privacy Policy, we will post those changes here or in other formats for you to review. If we change our Privacy Policy in such a way that your personal information may be used or shared in a manner not described in the Privacy Policy at the time you provided it, we will give you the opportunity to opt-out of having your information used or shared in that new manner. By visiting our Site, you are accepting the practices described in this Privacy Policy and otherwise are required to accept our Terms of Use which can be found at <http://www.pathoma.com/terms>. You may not use our Site if you have not read, understood and agreed to our Terms of Use and this Privacy Policy.
+Pathoma LLC (“Pathoma”, “we”, “us” or “our”) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This policy guides how we collect, store and use information about our customers and Site visitors. By visiting the Pathoma.com domain, or any related sub-domains (collectively “Site”), or otherwise accessing our services (“Services”), you are accepting the practices described in this Privacy Policy. As we continue to improve the Service, materials and the features we provide, this Privacy Policy is subject to change. If there are changes or additions to this Privacy Policy, we will post those changes here or in other formats for you to review. If we change our Privacy Policy in such a way that your personal information may be used or shared in a manner not described in the Privacy Policy at the time you provided it, we will give you the opportunity to opt-out of having your information used or shared in that new manner. By visiting our Site, you are accepting the practices described in this Privacy Policy and otherwise are required to accept our Terms of Use which can be found at <http://www.pathoma.com/terms>. You may not use our Site if you have not read, understood and agreed to our Terms of Use and this Privacy Policy.
 
 **WHAT PERSONAL INFORMATION ABOUT CUSTOMERS DOES PATHOMA GATHER**
 
@@ -56,9 +54,7 @@ Should any material changes be made to the ways in which we use personally ident
 
 **WHAT ABOUT COOKIES**
 
-Like the operators of most web sites, we may use tracking software and similar technology, which automatically collects information about your computer hardware, software and use of the Services. This information may be used by us for the operation of the Services and to provide general statistics regarding use of the Services. Many commercial web site operators collect this information in similar ways. However, this information is not linked to any of your personal information.
-
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your web browser to enable our systems to recognize your browser and to provide additional features. As is standard practice on many web sites, the Site utilizes cookies to gather technical information. Generally speaking, it records data about your computer’s navigation within our Site (pages viewed, date and time of your visit, etc.), which are read during subsequent visits. Cookies provide web sites with information regarding the state your browser is in.
+Like the operators of most web sites, we may use tracking software and similar technology, which automatically collects information about your computer hardware, software and use of the Services. This information may be used by us for the operation of the Services and to provide general statistics regarding use of the Services. Many commercial web site operators collect this information in similar ways. However, this information is not linked to any of your personal information. Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your web browser to enable our systems to recognize your browser and to provide additional features. As is standard practice on many web sites, the Site utilizes cookies to gather technical information. Generally speaking, it records data about your computer’s navigation within our Site (pages viewed, date and time of your visit, etc.), which are read during subsequent visits. Cookies provide web sites with information regarding the state your browser is in.
 
 The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on’s settings or visiting the Web site of its manufacturer. However, because cookies allow you to take advantage of some of the Site’s essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you may not be able to add items to your Shopping Cart, proceed to Checkout, or use any the Site’s products and services that require you to Sign In.
 
@@ -80,13 +76,7 @@ Information about our customers is an important part of our business, and we are
 
 **HOW SECURE IS INFORMATION ABOUT ME**
 
-We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
-
-We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
-
-It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
-
-You should feel confident using our Site. However, no system can be completely secure. Although we take very significant steps to secure your information that is under our control and appropriately limit access to it, we cannot ensure or warrant the security of any information you transmit to us by email, and you do so at your own risk.
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. You should feel confident using our Site. However, no system can be completely secure. Although we take very significant steps to secure your information that is under our control and appropriately limit access to it, we cannot ensure or warrant the security of any information you transmit to us by email, and you do so at your own risk.
 
 **INFORMATION ABOUT OTHER PRODUCTS AND SERVICES**
 
@@ -94,21 +84,11 @@ From time to time we may send you information about our Services and/or services
 
 **CHANGES TO YOUR DETAILS**
 
-We aim to keep our information about you as accurate as possible. If you would like to review or update your personal information you have supplied us with, you may do so by logging in to your account and visiting the My Account page.
-
-You can send mail to the following address:
-
-Pathoma LLC  
-6041 N. Kostner Avenue  
-Chicago, IL 60646-5062
+We aim to keep our information about you as accurate as possible. If you would like to review or update your personal information you have supplied us with, you may do so by logging in to your account and visiting the My Account page. You can send mail to the following address: Pathoma LLC 5900 N. Kilpatrick Avenue Chicago, IL 60646.
 
 **WHAT ABOUT THIRD-PARTY ADVERTISERS AND LINKS TO OTHER WEB SITES**
 
-Our site includes third-party advertising and links to other Web sites. We do not provide any personally identifiable customer information to these advertisers or third-party Web sites.
-
-Third parties have their own privacy policies that govern their use of your information. There may be places on our Site where you may click on a link to access other websites (including social networking services) that don’t operate under this Privacy Policy. These third-party websites may independently solicit and collect information, including personal information, from you. We are not responsible for the content or the privacy practices employed by third parties.
-
-Importantly, these third parties will have their own privacy policies describing how they use and disclose your personal information. Those policies will govern the use, handling and disclosure of your personal information once you or we have shared it with those third parties. If you want to learn more about other entities’ privacy practices, please review the websites of those third parties. Privacy policies are typically located at the bottom of the webpage you are visiting.
+Our site includes third-party advertising and links to other Web sites. We do not provide any personally identifiable customer information to these advertisers or third-party Web sites. Third parties have their own privacy policies that govern their use of your information. There may be places on our Site where you may click on a link to access other websites (including social networking services) that don’t operate under this Privacy Policy. These third-party websites may independently solicit and collect information, including personal information, from you. We are not responsible for the content or the privacy practices employed by third parties. Importantly, these third parties will have their own privacy policies describing how they use and disclose your personal information. Those policies will govern the use, handling and disclosure of your personal information once you or we have shared it with those third parties. If you want to learn more about other entities’ privacy practices, please review the websites of those third parties. Privacy policies are typically located at the bottom of the webpage you are visiting.
 
 **ARE CHILDREN ALLOWED TO USE THE SITE**
 
@@ -116,26 +96,14 @@ Pathoma does not sell products for purchase by children. If you are under 18, yo
 
 **TRANSFERRING YOUR INFORMATION OUTSIDE OF THE U.S.**
 
-As part of our Services, the information you provide to us may be transferred to countries outside of the United States. For example, this may happen if any of our servers are located in a country outside of the United States or one of our service providers is located in a country outside of the United States. We also share information between our group companies, which are located in countries worldwide. These countries may not have similar data protection laws to the United States. If we transfer your information outside of the United States in this way, we will take steps with the aim of ensuring that your privacy rights continue to be protected as outlined in this Privacy Policy.
-
-Similarly, if you use our Services while you are outside the United States, your information may be transferred outside the United States in order to provide you with those Services.
+As part of our Services, the information you provide to us may be transferred to countries outside of the United States. For example, this may happen if any of our servers are located in a country outside of the United States or one of our service providers is located in a country outside of the United States. We also share information between our group companies, which are located in countries worldwide. These countries may not have similar data protection laws to the United States. If we transfer your information outside of the United States in this way, we will take steps with the aim of ensuring that your privacy rights continue to be protected as outlined in this Privacy Policy. Similarly, if you use our Services while you are outside the United States, your information may be transferred outside the United States in order to provide you with those Services.
 
 **CONTACT US**
 
-**California Privacy Rights**
+**California Privacy Rights** Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To request a copy of the information disclosure provided by Pathoma pursuant to Section 1798.83 of the California Civil Code, please contact us using the Contact Form at <http://www.pathoma.com/contact-us>.
 
-Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year.
+If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to send an inquiry about our disclosure of personal information to third parties, please contact us using the Contact Form at <http://www.pathoma.com/contact-us> or via mail at: Pathoma LLC 5900 N. Kilpatrick Avenue Chicago, IL 60646 We will do our best to answer your questions.
 
-To request a copy of the information disclosure provided by Pathoma pursuant to Section 1798.83 of the California Civil Code, please contact us using the Contact Form at <http://www.pathoma.com/contact-us>.
-
-If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to send an inquiry about our disclosure of personal information to third parties, please contact us using the Contact Form at <http://www.pathoma.com/contact-us> or via mail at:
-
-Pathoma LLC  
-6041 N. Kostner Avenue  
-Chicago, IL 60646-5062
-
-We will do our best to answer your questions.
-
-**CONDITIONS OF USE, POLICYS AND REVISIONS**
+**CONDITIONS OF USE, POLICIES AND REVISIONS**
 
 If you choose to visit the Site, your visit and any dispute over privacy is subject to this Policy and our Terms of Use, including limitations on damages, resolution of disputes, and application of the law of the state of Illinois, in accordance with our Terms of Use. If you have any concern about privacy on the Site, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Policy and Terms of Use will change also. You should check our Site frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
