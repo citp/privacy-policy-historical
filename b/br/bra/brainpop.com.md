@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainpop.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119102025id_/http%3A//www.brainpop.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainpop.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503044413id_/http%3A//www.brainpop.com/about/privacy_policy) for the most accurate reproduction.*
 
 # BrainPOP - Animated Educational Site for Kids - Science, Social Studies, English, Math, Arts
 
@@ -17,9 +17,9 @@
 >> 
 >> BrainPOP does not knowingly collect or maintain Personally Identifying Information from any person under the age of 18 ("Minors"). Minors may not use this website without parental consent. If we learn that any personal information about any Minor has been collected without parental consent, then we will take reasonable steps to delete any such information. 
 >>
->>> **A note to kids under 18: Please get permission from your parents/legal guardians before using the BrainPOP Websites or sending any e-mail to us or to anyone on the Internet. If you wish to subscribe to any of the BrainPOP Websites, your parents/legal guardians need to complete the subscription form for you.**
+>>> A note to kids under 18: Please get permission from your parents/legal guardians before using the BrainPOP Websites or sending any e-mail to us or to anyone on the Internet. If you wish to subscribe to any of the BrainPOP Websites, your parents/legal guardians need to complete the subscription form for you.
 >>
->>> **A note to educators: Please get permission from the minors’parents/legal guardians before allowing minors to use the BrainPOP Websites or to send any e-mail to us or to anyone on the Internet. If you wish to subscribe to any of the BrainPOP Websiteson behalf of minors, you are required to receive their parents/legal guardians’ authorization to complete the subscription form for them.**
+>>> A note to educators: Please get permission from the minors’parents/legal guardians before allowing minors to use the BrainPOP Websites or to send any e-mail to us or to anyone on the Internet. If you wish to subscribe to any of the BrainPOP Websiteson behalf of minors, you are required to receive their parents/legal guardians’ authorization to complete the subscription form for them.
 >> 
 >> From those Users who order services or products from us, we collect limited usage information, including Personally Identifying Information, in connection with User logins and passwords in order to monitor subscription compliance. This information is kept confidential and is not shared or sold to third-parties. As part of our subscription and registration process, subscribers may be asked to voluntarily submit limited personal information in order to create an account (typically name, age, email address, affiliation, phone number, payment information and unique password). 
 >> 
