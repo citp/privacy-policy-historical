@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brevardtimes.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231140108id_/http%3A//news.brevardtimes.com/2012/01/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brevardtimes.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503081315id_/http%3A//news.brevardtimes.com/2012/01/privacy-policy.html) for the most accurate reproduction.*
 
 # Brevard Times: Privacy Policy
 
