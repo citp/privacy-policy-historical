@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designingbuildings.co.uk privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031212029id_/http%3A//www.designingbuildings.co.uk/wiki/Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designingbuildings.co.uk privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503081434id_/http%3A//www.designingbuildings.co.uk/wiki/Privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Designing Buildings Wiki
 
@@ -38,7 +38,11 @@ This Privacy Policy applies as between you, the User of the Web Site and Designi
 
 **3\. Our Use of Data**
 
-3.1 Any personal Data you submit will be retained by Designing Buildings Limited for as long as you use the Services and Systems provided on the Web Site. Data that you may submit through any communications System that we may provide may be retained for a longer period of up to 6 months. 3.2 All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998. 3.3 Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using the Web Site. Specifically, Data may be used by us for the following reasons: 
+3.1 Any personal Data you submit will be retained by Designing Buildings Limited for as long as you use the Services and Systems provided on the Web Site. Data that you may submit through any communications System that we may provide may be retained for a longer period of up to 6 months. 
+
+3.2 All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998. 
+
+3.3 Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using the Web Site. Specifically, Data may be used by us for the following reasons: 
 
   * 3.3.1 internal record keeping; 
   * 3.3.2 improvement of our products / services; 
