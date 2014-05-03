@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jetpack.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212001139id_/http%3A//www.jetpack.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetpack.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503061434id_/http%3A//www.jetpack.com/about/privacy) for the most accurate reproduction.*
 
 # Jetpack Digital - Custom Ad Management System
 
