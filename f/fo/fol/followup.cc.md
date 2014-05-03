@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the followup.cc privacy policy that was archived on 2013-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131004063813id_/http%3A//www.followup.cc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followup.cc privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503202307id_/http%3A//followup.cc/pages/privacy) for the most accurate reproduction.*
 
-# FollowUp > Privacy Policy
+# Privacy Policy | FollowUp.cc
 
-FollowUp is a lightweight email reminder service. This policy describes the types of personal information we may collect and how we use it to provide the FollowUp service.
+#### FollowUp is a lightweight email reminder service. This policy describes the types of personal information we may collect and how we use it to provide the FollowUp service.
 
 By using FollowUp, you agree to the collection and use of your personal information as described in this policy. You should know:
 
@@ -51,3 +51,31 @@ You can change your FollowUp account settings at any time in the "Settings" sect
 You can terminate your account at any time, by going to the Delete Account page. We typically deactivate accounts within two business days of such requests. You should be aware, however, that residual copies of information may remain stored on our systems even after the deletion of information or the termination of your account.
 
 We hope you will enjoy using FollowUp. 
+
+### Program Policies
+
+To uphold the quality and reputation of FollowUp, your use of FollowUp is subject to these program policies. If you are found to be in violation of our policies at any time, as determined by FollowUp in its sole discretion, we may warn you or suspend or terminate your account. 
+
+Please note that we may change our policies at any time, and pursuant to our Terms of Use, it is your responsibility to keep up-to-date with and adhere to the policies posted here. 
+
+### Prohibited Actions
+
+In addition to (and/or as some examples of) the violations described in the Terms of Use, users may not: 
+
+  * Send, upload, distribute or disseminate or offer to do the same with respect to any unlawful, defamatory, harassing, abusive, fraudulent, infringing, obscene, or otherwise objectionable content 
+  * Intentionally distribute viruses, worms, defects, Trojan horses, corrupted files, hoaxes, or any other items of a destructive or deceptive nature 
+  * Transmit content that may be harmful to minors 
+  * Illegally transmit another's intellectual property or other proprietary information without such owner's or licensor's permission 
+  * Use FollowUp to violate the legal rights (such as rights of privacy and publicity) of others 
+  * Promote or encourage illegal activity 
+  * Interfere with other FollowUp users' enjoyment of the Service 
+  * Create multiple user accounts in connection with any violation of the Agreement or create user accounts by automated means or under false or fraudulent pretenses 
+  * Sell, trade, resell or otherwise exploit for any unauthorized commercial purpose or transfer any FollowUp account 
+  * Modify, adapt, translate, or reverse engineer any portion of the FollowUp Service 
+  * Remove any copyright, trademark or other proprietary rights notices contained in or on the FollowUp Service 
+  * Reformat or frame any portion of the web pages that are part of the FollowUp Service 
+
+### Security
+
+You must promptly notify FollowUp of any breach of security related to the Services, including but not limited to unauthorized use of your password or account. 
+
