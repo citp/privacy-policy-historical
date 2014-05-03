@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milfz.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101081829id_/http%3A//www.milfz.com/legal.php%3Fpg%3Dprivacy%26l%3D19396%26t%3D33968%26v%3Ddesktop%26lg%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milfz.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503104052id_/http%3A//www.milfz.com/legal.php%3Fpg%3Dprivacy%26l%3D19396%26t%3D33968%26v%3Ddesktop%26lg%3Dus) for the most accurate reproduction.*
 
 # LEGAL
 
