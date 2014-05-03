@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the funkygadgets9.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029014556id_/http%3A//www.funkygadgets9.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funkygadgets9.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503125327id_/http%3A//www.funkygadgets9.com/privacy-policy) for the most accurate reproduction.*
 
 # FunkyGadgets9 - Google Privacy Policy | FunkyGadgets9
-
-  
-  
-style=”display:inline-block;width:468px;height:60px”  
-data-ad-client=”ca-pub-4085641191739816″  
-data-ad-slot=”6440600848″>  
-
 
 Privacy Policy for **http://www.funkygadgets9.com**
 
