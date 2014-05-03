@@ -1,0 +1,1026 @@
+<!--The following is the downloaded HTML source of the offerpop.com privacy policy that was archived on 2014-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140503201644id_/http%3A//www.offerpop.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-CA" prefix="og: http://ogp.me/ns#" class="no-js"><!--<![endif]--><!-- ************************************************** --><!-- BEGIN: HEAD                                        --><!-- ************************************************** --><head>
+		
+		<!-- ************************************************** -->
+		<!-- BEGIN: META TAGS                                   -->
+		<!-- ************************************************** -->
+		
+		<!-- BEGIN: STANDARD META TAGS -->
+		
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript" async="" src="http://apis.google.com/js/platform.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KHG9DG"></script><script type="text/javascript" src="//www.bugherd.com/sidebarv2.js?apikey=l1kby35f4sksxflm118anw"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA4BVFFVGwEJVlFbAQI="};window.NREUM||(NREUM={}),__nr_require=function t(e,n,r){function o(i){if(!n[i]){var a=n[i]={exports:{}};e[i][0].call(a.exports,function(t){var n=e[i][1][t];return o(n?n:t)},a,a.exports,t,e,n,r)}return n[i].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<r.length;i++)o(r[i]);return o}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,o,a,u){return s?s-=1:n("err",[u||new UncaughtException(t,e,o)]),"function"==typeof i?i.apply(this,r(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}var n=t("handle"),r=t(6),o=t(5),i=window.onerror,a=!1,s=0;t("loader").features.push("err"),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),a=!0)}o.on("fn-start",function(){a&&(s+=1)}),o.on("fn-err",function(t,e,r){a&&(this.thrown=!0,n("err",[r,(new Date).getTime()]))}),o.on("fn-end",function(){a&&!this.thrown&&s>0&&(s-=1)}),o.on("internal-error",function(t){n("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);return i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1),n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,p=e(d);if(p&&(r.rxSize=p),this.sameOrigin){var f=t.getResponseHeader("X-NewRelic-App-Data");f&&(n.cat=f.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){a.emit("internal-error",e)}};for(var p=0;u>p;p++)n.addEventListener(s[p],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=c.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID){c.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=c.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",p="attachEvent",f=(""+location).split("?")[0],c=e.exports={offset:i(),origin:f,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[p]("onreadystatechange",r),s[p]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,n,r){function nrWrapper(){try{var a,u=s(arguments),d=this,p=n&&n(u,d)||{}}catch(f){i([f,"",[u,d,r],p])}o(e+"start",[u,d,r],p);try{return a=t.apply(d,u)}catch(c){throw o(e+"err",[u,d,c],p),c}finally{o(e+"end",[u,d,a],p)}}return t&&"function"==typeof t&&t.apply&&!t._wrapped?(e||(e=""),nrWrapper._wrapped=!0,nrWrapper):t}function r(t,e,r,o){r||(r="");var i,a,s,u="-"===r.charAt(0);for(s=0;s<e.length;s++)a=e[s],i=t[a],i&&"function"==typeof i&&i.apply&&!i._wrapped&&(t[a]=n(i,u?a+r:r,o,a,t))}function o(t,e,n){try{a.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{a.emit("internal-error",t)}catch(e){}}var a=t(1),s=t(2);e.exports=n,n.inPlace=r},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+		
+		<title>
+			
+			Privacy Policy			
+		</title>
+		
+		<!-- END: STANDARD META TAGS -->
+		
+		<!--[if lt IE 9]>
+			
+			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+			
+		<![endif]-->
+		
+		<!-- ************************************************** -->
+		<!-- END: META TAGS                                     -->
+		<!-- ************************************************** -->
+		
+		<!-- ************************************************** -->
+		<!-- BEGIN: MOBILE TAGS                                 -->
+		<!-- ************************************************** -->
+		
+		<meta name="HandheldFriendly" content="True">
+		<meta name="MobileOptimized" content="320">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+		<!-- ************************************************** -->
+		<!-- END: MOBILE TAGS                                   -->
+		<!-- ************************************************** -->
+	    
+		<!-- ************************************************** -->
+		<!-- BEGIN: ICONS                                       -->
+		<!-- ************************************************** -->
+		
+		<!-- BEGIN: FAV ICON -->
+		
+		<link rel="icon" href="http://www.offerpop.com/wp-content/themes/offerpop/library/images/components/icons/favicon.ico?cb8d6d">
+		
+		<!--[if IE]>
+			
+			<link rel="shortcut icon" href="http://www.offerpop.com/wp-content/themes/offerpop/library/images/components/icons/favicon.ico?cb8d6d">
+			
+		<![endif]-->
+		
+		<!-- END: FAV ICON -->
+		
+		<!-- BEGIN: APPLE iOS TOUCH ICONS -->
+	    
+	    <link rel="apple-touch-icon" href="http://www.offerpop.com/wp-content/themes/offerpop/library/images/components/icons/favicon-apple-57x57.png?cb8d6d">
+	    <link rel="apple-touch-icon" sizes="72x72" href="http://www.offerpop.com/wp-content/themes/offerpop/library/images/components/icons/favicon-apple-72x72.png?cb8d6d">
+	    <link rel="apple-touch-icon" sizes="114x114" href="http://www.offerpop.com/wp-content/themes/offerpop/library/images/components/icons/favicon-apple-114x114.png?cb8d6d">
+	    <link rel="apple-touch-icon" sizes="144x144" href="http://www.offerpop.com/wp-content/themes/offerpop/library/images/components/icons/favicon-apple-144x144.png?cb8d6d">
+	    <link rel="apple-touch-icon-precomposed" href="http://www.offerpop.com/wp-content/themes/offerpop/library/images/components/icons/favicon-apple-57x57.png?cb8d6d">
+	    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.offerpop.com/wp-content/themes/offerpop/library/images/components/icons/favicon-apple-72x72.png?cb8d6d">
+	    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.offerpop.com/wp-content/themes/offerpop/library/images/components/icons/favicon-apple-114x114.png?cb8d6d">
+	    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.offerpop.com/wp-content/themes/offerpop/library/images/components/icons/favicon-apple-144x144.png?cb8d6d">
+	    
+		<!-- END: APPLE iOS TOUCH ICONS -->
+	    
+		<!-- BEGIN: APPLE iOS7 TOUCH ICONS -->
+	    
+	    <link rel="apple-touch-icon" sizes="60x60" href="http://www.offerpop.com/wp-content/themes/offerpop/library/images/components/icons/favicon-apple-60x60.png?cb8d6d">
+	    <link rel="apple-touch-icon" sizes="76x76" href="http://www.offerpop.com/wp-content/themes/offerpop/library/images/components/icons/favicon-apple-76x76.png?cb8d6d">
+	    <link rel="apple-touch-icon" sizes="120x120" href="http://www.offerpop.com/wp-content/themes/offerpop/library/images/components/icons/favicon-apple-120x120.png?cb8d6d">
+	    <link rel="apple-touch-icon" sizes="152x152" href="http://www.offerpop.com/wp-content/themes/offerpop/library/images/components/icons/favicon-apple-152x152.png?cb8d6d">
+	    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="http://www.offerpop.com/wp-content/themes/offerpop/library/images/components/icons/favicon-apple-60x60.png?cb8d6d">
+	    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://www.offerpop.com/wp-content/themes/offerpop/library/images/components/icons/favicon-apple-76x76.png?cb8d6d">
+	    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://www.offerpop.com/wp-content/themes/offerpop/library/images/components/icons/favicon-apple-120x120.png?cb8d6d">
+	    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://www.offerpop.com/wp-content/themes/offerpop/library/images/components/icons/favicon-apple-152x152.png?cb8d6d">
+		
+		<!-- END: APPLE iOS7 TOUCH ICONS -->
+		
+		<!-- BEGIN: IE10 TILES -->
+		
+		<meta name="msapplication-TileColor" content="#f01d4f">
+		<meta name="msapplication-TileImage" content="http://www.offerpop.com/wp-content/themes/offerpop/library/images/components/icons/win8-tile-icon.png">
+		
+		<!-- END: IE10 TILES -->
+	    
+		<!-- ************************************************** -->
+		<!-- END: ICONS                                         -->
+		<!-- ************************************************** -->
+	    
+		<!-- ************************************************** -->
+		<!-- BEGIN: WORDPRESS HEAD                              -->
+		<!-- ************************************************** -->
+		
+		<link rel="pingback" href="http://www.offerpop.com/admin/xmlrpc.php">
+		
+		
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.2.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Privacy Policy</title>
+<meta name="description" content="Read about Offerpop's Privacy Policy">
+<link rel="canonical" href="http://www.offerpop.com/privacy-policy/">
+<link rel="publisher" href="https://plus.google.com/102277695067166093805/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:description" content="Read about Offerpop's Privacy Policy">
+<meta property="og:url" content="http://www.offerpop.com/privacy-policy/">
+<meta property="og:site_name" content="Offerpop">
+<meta property="article:published_time" content="2014-01-28T14:55:00+00:00">
+<meta property="article:modified_time" content="2014-02-21T15:56:58+00:00">
+<meta property="og:updated_time" content="2014-02-21T15:56:58+00:00">
+<meta property="og:image" content="http://www.offerpop.com/wp-content/themes/offerpop/library/images/share/facebook-share-1.png">
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Offerpop » Feed" href="http://www.offerpop.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Offerpop » Comments Feed" href="http://www.offerpop.com/comments/feed/">
+<link rel="stylesheet" id="bones-stylesheet-css" href="http://www.offerpop.com/wp-content/themes/offerpop/library/css/styles.css?cb8d6d" type="text/css" media="all">
+<script type="text/javascript" src="http://www.offerpop.com/wp-content/themes/offerpop/library/js/libs/modernizr/modernizr.custom.min.js?cb8d6d"></script>
+<script type="text/javascript" src="http://d3nxc88n0lpo37.cloudfront.net/admin/wp-includes/js/jquery/jquery.js?cb8d6d"></script>
+<script type="text/javascript" src="http://d3nxc88n0lpo37.cloudfront.net/admin/wp-includes/js/jquery/jquery-migrate.min.js?cb8d6d"></script>
+<link rel="shortlink" href="http://www.offerpop.com/?p=4130">
+		
+		<script type="text/javascript">
+			
+			var wp_template_dir = "http://www.offerpop.com/wp-content/themes/offerpop";
+			
+		</script>
+		
+		<!-- ************************************************** -->
+		<!-- END: WORDPRESS HEAD                                -->
+		<!-- ************************************************** -->
+		
+		<!-- ************************************************** -->
+		<!-- BEGIN: WEB FONTS                                   -->
+		<!-- ************************************************** -->
+		
+		<script type="text/javascript" src="//use.typekit.net/nol4hxe.js?cb8d6d"></script>
+		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+		
+		<!-- ************************************************** -->
+		<!-- END: WEB FONTS                                     -->
+		<!-- ************************************************** -->
+		
+		<!-- ************************************************** -->
+		<!-- BEGIN: BUGHERD                                     -->
+		<!-- ************************************************** -->
+		
+		<script type="text/javascript">
+			
+			(function (d, t) {
+			var bh = d.createElement(t), s = d.getElementsByTagName(t)[0];
+			bh.type = 'text/javascript';
+			bh.src = '//www.bugherd.com/sidebarv2.js?apikey=l1kby35f4sksxflm118anw';
+			s.parentNode.insertBefore(bh, s);
+			})(document, 'script');
+			
+		</script>
+		
+		<!-- ************************************************** -->
+		<!-- END: BUGHERD                                       -->
+		<!-- ************************************************** -->
+
+	<script type="text/javascript">
+		
+		var _vwo_code=(function(){
+		var account_id=67892,
+		settings_tolerance=2000,
+		library_tolerance=2500,
+		use_existing_jquery=false,
+		// DO NOT EDIT BELOW THIS LINE
+		f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+		
+	</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=67892&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140503201644id_%2Fhttp%3A%2F%2Fwww.offerpop.com%2Fprivacy-policy%2F&amp;r=0.7734054224701656" type="text/javascript"></script></head>
+	
+	<!-- ************************************************** -->
+	<!-- END: HEAD                                          -->
+	<!-- ************************************************** -->
+
+	<!-- ************************************************** -->
+	<!-- BEGIN: VWO                                         -->
+	<!-- ************************************************** -->
+
+	
+
+	<!-- ************************************************** -->
+	<!-- END: VWO                                           -->
+	<!-- ************************************************** -->
+
+	<!-- ************************************************** -->
+	<!-- BEGIN: BODY                                        -->
+	<!-- ************************************************** -->
+
+	<body class="page page-id-4130 page-template-default">
+
+		<!-- Google Tag Manager -->
+		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KHG9DG"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-KHG9DG');</script>
+		<!-- End Google Tag Manager -->
+
+		<div id="fb-root"></div>
+		<script src="http://connect.facebook.net/en_US/all.js"></script>
+		<script type="text/javascript">//<![CDATA[
+			FB.init({
+				appId:'153161934711360',
+				status:true,
+				cookie:true,
+				xfbml:true,
+				oauth:true
+			});
+			function fblogin(){
+				FB.login(function(response){
+					if(response.authResponse){
+						// var gMessage='Redirecting to your Dashboard, please wait...';
+						// showOnLoadMessage(gMessage);
+						document.location.href='http://offerpop.com/FacebookLogin.psp';
+					}},{scope:'email,manage_pages,read_insights'});
+			};
+			FB.Event.subscribe('edge.create',function(){
+				// _gaq.push(['_trackEvent','Social Action','Facebook like','Facebook Like Button - Homepage Bottom','false']);
+				// jQuery.ajax('http://analytics.performable.com/v1/event?_n=37win94TWbSC&_a=0Efxu4');
+			});
+		
+		//]]>
+		</script>
+
+		<!-- ************************************************** -->
+<!-- BEGIN: BODY HEAD                                   -->
+<!-- ************************************************** -->
+
+<!-- BEGIN: TWITTER API -->
+
+<script>
+	
+	!function(d,s,id) {
+		
+		var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+		if(!d.getElementById(id)) {
+			
+			js=d.createElement(s);
+			js.id=id;
+			js.src=p+'://platform.twitter.com/widgets.js';
+			fjs.parentNode.insertBefore(js,fjs);
+			
+		}
+		
+	}(document, 'script', 'twitter-wjs');
+	
+</script>
+
+<!-- END: TWITTER API -->
+
+<!-- BEGIN: GOOGLE API -->
+
+<script type="text/javascript">
+	
+	(function() {
+		
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		po.src = 'http://apis.google.com/js/platform.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		
+	})();
+	
+</script>
+
+<!-- END: GOOGLE API -->
+
+<!-- BEGIN: LINKEDIN API -->
+
+<script src="//platform.linkedin.com/in.js?cb8d6d" type="text/javascript">
+	
+	lang: en_US
+	
+</script>
+
+<!-- BEGIN: PINTEREST API -->
+
+<script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js?cb8d6d"></script>
+
+<!-- BEGIN: GOOGLE MAPS -->
+
+<script type="text/javascript" src="//maps.googleapis.com/maps/api/js?key=AIzaSyD8UYShXn8CYwYz36lJWO1yk7RD5e0XWnA&amp;sensor=false"></script>
+
+<!-- END: GOOGLE MAPS -->
+
+<!-- ************************************************** -->
+<!-- END: BODY HEAD                                     -->
+<!-- ************************************************** -->
+<!-- ************************************************** -->
+<!-- BEGIN: STAGE                                       -->
+<!-- ************************************************** -->
+
+<div id="stage" class="root-privacy-policy type-page privacy-policy">
+	
+	<!-- ************************************************** -->
+<!-- BEGIN: HEADER                                      -->
+<!-- ************************************************** -->
+
+<header id="header" data-template="stage-header">
+	
+	<!-- ************************************************** -->
+	<!-- BEGIN: HEADER (SECONDARY)                          -->
+	<!-- ************************************************** -->
+	
+	<div id="header-secondary" class="stage-pod stage-pod-black">
+		
+		<div class="container container-pod container-pod-short">
+			
+			<nav class="navigation" role="navigation">
+				
+				<ul id="menu-header-navigation-secondary" class="nav top-nav clearfix"><li id="menu-item-3708" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3708"><a href="https://www.offerpop.com/contact/">Contact Us</a></li>
+<li id="menu-item-3709" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3709"><a href="http://kb.offerpop.com">Support</a></li>
+<li id="menu-item-3842" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3842"><a href="/resources/blog/">Resources</a></li>
+<li id="menu-item-4592" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4592"><a href="#modal-campaigns" data-toggle="modal">See Live Campaigns</a></li>
+<li id="menu-item-4521" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4521"><a href="#modal-login" data-toggle="modal">Login</a></li>
+</ul>				
+				<div class="button-toolbar flush-bottom">
+					
+					<a href="#modal-try-it-free" class="button button-small button-primary" data-toggle="modal">
+						
+						Try It Free
+						
+					</a>
+					
+				</div>
+				
+			</nav>
+			
+		</div>
+		
+	</div>
+	
+	<!-- ************************************************** -->
+	<!-- END: HEADER (SECONDARY)                            -->
+	<!-- ************************************************** -->
+	
+	<!-- ************************************************** -->
+	<!-- BEGIN: HEADER (PRIMARY)                            -->
+	<!-- ************************************************** -->
+	
+	<div id="header-primary">
+		
+		<div class="container container-pod container-pod-short">
+			
+			<div class="header-logo">
+				
+				<a href="http://www.offerpop.com" rel="nofollow">
+					
+					<span>
+						
+						Offerpop						
+					</span>
+					
+				</a>
+				
+			</div>
+			
+			<a id="navigation-toggle">
+				
+				<i class="icon icon-medium icon-menu icon-blue"></i>
+				
+			</a>
+			
+			<nav class="navigation" role="navigation" id="header-primary-navigation">
+				
+				<ul id="menu-header-navigation-primary" class="nav top-nav clearfix"><li id="menu-item-3696" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3696"><a href="http://www.offerpop.com/how-it-works/">How It Works</a></li>
+<li id="menu-item-3750" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3750"><a href="http://www.offerpop.com/solutions/">Solutions</a></li>
+<li id="menu-item-3698" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3698"><a href="http://www.offerpop.com/products/">Products</a></li>
+<li id="menu-item-3699" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3699"><a href="http://www.offerpop.com/campaigns/">Customers</a></li>
+<li id="menu-item-3697" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3697"><a href="http://www.offerpop.com/pricing/">Pricing</a></li>
+</ul>				
+				<div id="header-primary-button">
+					
+					<a href="#modal-try-it-free" class="button button-primary" data-toggle="modal">
+						
+						Try It Free
+						
+					</a>
+					
+				</div>
+				
+			</nav>
+			
+		</div>
+		
+	</div>
+	
+	<!-- ************************************************** -->
+	<!-- END: HEADER (PRIMARY)                              -->
+	<!-- ************************************************** -->
+	
+</header>
+
+<!-- ************************************************** -->
+<!-- END: HEADER                                        -->
+<!-- ************************************************** -->	
+	<!-- ************************************************** -->
+	<!-- BEGIN: PAGE                                        -->
+	<!-- ************************************************** -->
+	
+	<div id="page">
+		
+		<!-- ************************************************** -->
+<!-- BEGIN: PAGE HEADER                                 -->
+<!-- ************************************************** -->
+
+
+<div id="page-header" class="stage-pod stage-pod-black " role="banner" data-template="page-header">
+	
+		
+	<div id="page-header-inner" class="" data-size-to-fit-respect-padding="true" data-center-vertical-respect-padding="true">
+		
+		<div class="container container-pod">
+			
+			<div class="row">
+					
+				<div class="col-small-10 col-small-offset-1 col-large-8 col-large-offset-2">
+					
+												
+							<!-- BEGIN: PAGE HEADER PRODUCT IMAGE -->
+
+														
+							<!-- END: PAGE HEADER PRODUCT IMAGE -->
+							
+							<!-- BEGIN: PAGE HEADER CAMPAIGN IMAGE -->
+							
+							
+							<!-- END: PAGE HEADER CAMPAIGN IMAGE -->
+
+							<!-- BEGIN: HEADLINE -->
+							
+							<h1 class="page-header-headline inverse centered flush-top short centered flush-bottom">
+								
+								Privacy Policy								
+							</h1>
+							
+							<!-- END: HEADLINE -->
+							
+												
+				</div>
+				
+			</div>
+			
+								
+		</div>
+		
+	</div>
+	
+</div>
+
+<!-- ************************************************** -->
+<!-- END: PAGE HEADER                                   -->
+<!-- ************************************************** -->		
+		<!-- ************************************************** -->
+		<!-- BEGIN: PAGE CONTENT                                -->
+		<!-- ************************************************** -->
+		
+		<div id="page-content">	
+	<section>
+		
+		<div class="stage-pod">
+			
+			<div class="container container-pod">
+				
+					
+	<section class="stage-pod entry-content clearfix" data-template="content">
+		
+		<p>Effective February&nbsp;, 2014</p>
+<p><span style="color: #000000;">This privacy policy applies to www.offerpop.com owned and operated by Offerpop Corporation.&nbsp;Offerpop Corporation ("Offerpop") provides this Information and Privacy Policy to inform you of Offerpop's policies and procedures regarding the collection, use and disclosure of information that Offerpop receives from the following:</span></p>
+<ul>
+<li>Users in the general public ("Website Users") who visit and use the publicly-accessible website located at www.offerpop.com ("Offerpop Site"). Website Users include, by way of example, but not limitation, users who:
+<ul>
+<li>Submit feedback, questions, comments or other user-generated content on the publicly-accessible Offerpop support portal located at <a href="http://getsatisfaction.com/offerpop">http://getsatisfaction.com/offerpop</a></li>
+<li>Sign up to receive marketing and other communications regarding Offerpop including offers we send on behalf of&nbsp; business partners through the "Contact Us" or "Join our email list" or similar features available on the Offerpop Site</li>
+<li><span style="line-height: 1.5em;">Publicly state their preferences, experiences or interests regarding Offerpop or Offerpop's product or service offerings, in each case as expressed in the course of such user's use of the Offerpop Site by selecting a "Like," "Follow," "+1," or similar public designation of interest</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Users who are customers or prospective customers of Offerpop ("Campaign Operators") who access and use the Offerpop-branded social marketing applications (the "Offerpop Applications"), whether on a trial, freemium, or paid subscription basis, to operate online social media marketing campaigns or promotions (“Campaign”) Facebook, Twitter, or any other website operated by a third party on which the Campaign is run (“Third Party Sites”).</li>
+<li>Users in the general public who temporarily interact with the Offerpop Applications, including in the course of participating in one or more Campaigns operated by a Campaign Operator ("Social Users"). Offerpop’s use of information collected through our Offerpop Applications shall be limited to the purpose of providing the service to the Campaign Operator and for anonimized and aggregated internal product research and development.&nbsp; The Campaign Operator may further use Social User information in accordance with the Campaign Operator’s own privacy policy.</li>
+</ul>
+<p>This Information and Privacy Policy further explains how Offerpop can and will use information received by it in the normal course of Offerpop's business.</p>
+<p>Offerpop has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's <a href="http://www.truste.com/privacy-program-requirements/" target="_blank">Program Requirements&nbsp;</a>and the <a href="http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/ " target="_blank">TRUSTed Cloud Program Requirements</a>&nbsp;including transparency, accountability and choice regarding the collection and use of your personal information.&nbsp;The TRUSTe certification covers <b>only</b> our collection, use and disclosure of information we collect through our website, www.offerpop.com and our service platform. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Offerpop.&nbsp;TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:privacy@offerpop.com?Subject=privacy%20policy" target="_top">privacy@offerpop.com</a>. If you are not satisfied with our response you can contact <a href="https://feedback-form.truste.com/watchdog/request" target="_blank">TRUSTe here</a>.</p>
+<p>Offerpop complies with the U.S. - E.U. and U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. Offerpop has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Offerpop's certification, please visit <a href="http://www.export.gov/safeharbor">http://www.export.gov/safeharbor</a>.</p>
+<p>INFORMATION OFFERPOP MAY RECEIVE FROM USERS</p>
+<ol>
+<li>Website Users. If you are a Website User, in the course of using the Offerpop Site, you may provide Offerpop with (i) personally identifiable information ("Personal Information") such as your name, phone number, or email address; and (ii) feedback, suggestions, complaints, or other descriptions of your experiences, preferences, or interests in Offerpop or the Offerpop Applications ("Feedback").</li>
+<li>Campaign Operators. If you are a Campaign Operator, in the course of using the Offerpop Site or the Offerpop Applications, you may provide Offerpop with (i) Personal Information in your user or account profile with Offerpop, such as your name, phone number, credit card or other billing information, email address, and home and/or business postal addresses; and (ii) Personal Information in your user or account profile with the Third Party Site that interact with the Offerpop Applications, that may include, but are not limited to, your log in credentials and profile information you have elected to make public; (iii) Personal Information of your Social Users that you elect to collect, process, and/or store in connection with such Social Users' participation in a Campaign using the Offerpop Applications; and (iv) Feedback.</li>
+<li>Social Users. If you are a Social User (e.g. Facebook)<ins cite="mailto:Alex%20Duke" datetime="2013-09-10T13:34">&nbsp;</ins>&nbsp;in the course of using the Offerpop Applications, Offerpop may receive, directly or through Campaign Operators, Personal Information of yours that may include, but is not limited to, (i) your social media profile (e.g. your Facebook profile name or handle, and its associated email address, but never your password); (ii) information posted on your social media profile such as wall posts, likes, dislikes, or items you follow, but only to the extent that you make this information publicly available, that you authorize the use of private information through a permission grant or other means provided by that Social Service,&nbsp;or that you provide this information to the Campaign Operators in response to a promotion or other marketing campaign operated by the Campaign Operators by use of the Offerpop Applications.</li>
+<li>If you are a Social User we may provide you the opportunity to refer friends to a Campaign Operator promotion. If you choose to do so we may ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to view the Campaign Operator’s promotion. Offerpop stores this information for the sole purpose of sending this one-time email and tracking the success of the referral. Your friend may contact us at privacy@offerpop.com to request that we remove this information from our database.</li>
+<li>Offerpop collects information under the direction of its Campaign Operators, and has no direct relationship with the Social Users whose personal data it processes.</li>
+</ol>
+<p>INFORMATION OFFERPOP COLLECTS</p>
+<p>In addition to the information identified above, and regardless of the type of user you are, when you visit the Offerpop Site or interact with the Offerpop Applications, Offerpop's servers and our third party tracking-utility partners gather certain information automatically that your browser sends whenever you visit a website through log files. This information may include, but is not limited to, your computer's Internet Protocol address, browser type, the web page you were visiting before you came to the Offerpop Site or interacted with the Offerpop Applications, and information you search for on the Offerpop Site or the Campaign Operator’s website or&nbsp;the Third Party Site.</p>
+<p>Cookies. &nbsp;Our cookie policy is located at <a href="http://www.offerpop.com/cookie-policy/" target="_blank">http://www.offerpop.com/cookie-policy/</a>.</p>
+<p>HOW OFFERPOP USES INFORMATION</p>
+<p>We will share your Personal Information with third parties only in the ways that are described in this privacy statement. &nbsp;Offerpop uses Personal Information obtained by technical means or directly or indirectly for the following purposes: (i) to provide and improve the Offerpop Site, the Offerpop Applications, and related Offerpop services, features and content, (ii) to administer Campaign Operators' membership and users' use of the Offerpop Site, (iii) to enable users to enjoy and easily navigate the Offerpop Site and Offerpop Applications, (iv) to better understand users' needs and interests, (v) to fulfill requests users may submit to Offerpop, (vi) to personalize users' experience on the Offerpop Site or Offerpop Applications, (vii) to provide or offer software updates and product announcements, and (viii) to provide users with further information and offers from Offerpop or third parties that Offerpop believes users may find useful or interesting, including newsletters, marketing or promotional materials and other information on services and products offered by Offerpop or third parties.<ins cite="mailto:Wendell%20Lansford" datetime="2013-05-20T11:50"> </ins></p>
+<p>If you are a Social User, by participating in any Campaign operated by the Campaign Operator by use of the Offerpop Applications, you hereby acknowledge and agree that Offerpop will receive, use, store, process, and share your Personal Information with the relevant Campaign Operator who collects it, as necessary for Offerpop to (a) facilitate Campaign Operators' use of the Offerpop Applications; and (b) create aggregate reports or other marketing analyses that do not identify Social Users personally for the relevant Campaign Operators operating Campaigns, or for Offerpop's internal business and marketing analysis. You are hereby informed that it is your responsibility to review and consent to each Campaign Operators' privacy policies and those of the applicable Third Party Site prior to participating in any Campaign. Any Personal Information you submit to a Campaign Operator or the Third Party Site from which you initiate your participation in a Campaign operated by use of the Offerpop Applications will be governed by the Campaign Operator's privacy policy or that of the Third Party Site (and not this Information and Privacy Policy). You understand and agree that Offerpop does not direct any Campaign Operator to collect any Personal Information from Social Users, and therefore Offerpop assumes no liability in connection with any misuse by a Campaign Operator or social media site of your Personal Information, or the failure of the Campaign Operator or social media site to obtain your consent to use your Personal Information if such is legally required.</p>
+<p>SERVICE PROVIDERS AND BUSINESS PARTNERS</p>
+<p>Offerpop may employ third party companies and individuals to operate the Offerpop Site or the Offerpop Applications to perform site-related services (such as to maintenance services, database management, customer support, sending emails on our behalf and web analytics and site improvement) or to assist us in analyzing how the Offerpop Site and the Offerpop Applications are used. These third parties have access to your Personal Information only for purposes of performing these tasks on Offerpop's behalf.</p>
+<p>Offerpop may also provide Personal Information to its business partners or other entities with whom Offerpop has cooperative relationships so that they can send you promotional and other information you have requested from Offerpop or such business partners. If you provide us with your Personal Information for these purposes and would no longer prefer it be used you may contact us at privacy@offerpop.com.</p>
+<p>CREDIT CARD PROCESSING</p>
+<p>Offerpop uses an outside, PCI-compliant card processing company to bill Campaign Operators who are purchasing subscriptions to the Offerpop Applications from Offerpop. This information is collected and transmitted in a secure manner, using SSL encryption. The credit card processing company does not retain, share, store or use Personal Information for any secondary purposes beyond filling your order. In addition, Offerpop will not collect credit card data from Social Users who participate in Campaigns.</p>
+<p>USER PROFILE INFORMATION</p>
+<p>If you are a Campaign Operator, Offerpop will display your Personal Information in your profile page and elsewhere on the Offerpop Site accessed by you according to the preferences you set in your account. You can review and revise your profile information at any time by logging on to your account and making the applicable changes.</p>
+<p>If you are either a Website User or a Campaign Operator and decide at any time that you no longer wish to receive email or marketing communications from Offerpop, please follow the unsubscribe instructions provided in any of our communications.</p>
+<p>We collect information for our Campaign Operators, if you are a Social User and would no longer like to be contacted by a Campaign Operators that use the Offerpop Applications, please contact the Campaign Operator directly.</p>
+<p>PUBLICLY-AVAILABLE PERSONALLY-IDENTIFIABLE INFORMATION</p>
+<p>Regardless of the type of user you are, you should be aware that Personal Information covered under this Information and Privacy Policy does not and shall not include any information, whether it personally identifies you or not, that you have already made publicly accessible, including through the Third Party Site, or have consented to make public through your participation in a Campaign on a Third Party Site or through our blog page.<ins cite="mailto:TRUSTe%20%20" datetime="2014-01-21T22:16"><br>
+</ins></p>
+<p>Offerpop hereby notifies you that, while Offerpop discourages the collection and use of any sensitive personally-identifiable information on the part of its Campaign Operators, Offerpop does not and cannot review or monitor the type of information which Campaign Operators choose to collect from Social Users as a condition to, or in the course of, operating a Campaign by use of the Offerpop Applications.<ins cite="mailto:TRUSTe%20%20" datetime="2014-01-21T22:17"></ins></p>
+<p>To request removal of your personal information from our blog or community forum, contact us at<i> </i>privacy@offerpop.com.&nbsp; In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
+<p><span style="line-height: 1.5em;">SOCIAL MEDIA FEATURES</span></p>
+<p>The Offerpop Site includes social media features, such as the Facebook “Like” button. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features are either hosted by a third party or hosted directly on the Offerpop Site. Your interactions with these features are governed by the privacy policy of the company providing it.</p>
+<p>SINGLE SIGN-ON</p>
+<p>You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.&nbsp; Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.</p>
+<p>OUR POLICY TOWARD CHILDREN</p>
+<p>Neither the Offerpop Site nor the Offerpop Applications are directed to children under 13. Offerpop does not knowingly collect Personal Information from children under 13. If a parent or guardian becomes aware that his or her child has provided Offerpop with Personal Information without their consent, he or she should contact us at privacy@offerpop.com. If Offerpop becomes aware that a child under 13 has provided Offerpop with Personal Information, Offerpop will delete such information from its files, and perform any other acts necessary to comply with applicable law or regulations.</p>
+<p>AGGREGATE INFORMATION</p>
+<p>Offerpop reserves the right to use and disclose any information that is aggregate in format or does not contain Personal Information (such as statistics and survey results that do not identify you individually by name).</p>
+<p>ACCESS TO, CHANGING OR DELETING YOUR INFORMATION</p>
+<p>All Campaign Operators may review, update, correct or delete the Personal Information provided in their registration or account profile by making changes on the settings page of the Offerpop Site or by contacting us at privacy@offerpop.com. If you completely delete all such information, then your account may become deactivated and you will not be able to use the Offerpop Applications.</p>
+<p>Any user may communicate with Offerpop to inquire about Offerpop's practices set forth in this Information and Privacy Policy. Users who opt-in to receive mailing or other communications may opt-out from receiving such marketing communications from Offerpop at any time by calling Offerpop, following the specific instructions in the email you receive, or by notifying Offerpop via the following contact email address: privacy@offerpop.com.</p>
+<p>Please note that the above will not apply to communications about the Offerpop Applications that are considered part of Offerpop's service, in which case you will continue to receive such communications and may not opt out of receiving them unless you cancel your subscription to the Offerpop Applications.</p>
+<p>If you are a Social User, your Personal Information may not be stored in a way that enables Offerpop to individually excise your data. However, your Personal Information will be expunged, overwritten and/or permanently deleted from Offerpop's servers in accordance with Offerpop's industry-standard data retention policies and procedures.</p>
+<p>Offerpop has no direct relationship with the individuals whose personal data it processes. A Social User who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct their query to the Campaign Operator (the data controller). If the Campaign Operator requests Offerpop to remove the data, we will respond to their request within 30 business days.</p>
+<p>We will retain your information as well as information we process on behalf of our Campaign Operator for as long as the Campaign Operator’s account is active or as needed to provide the Campaign Operator with services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+<p>Offerpop will respond to requests for access within 30 days.</p>
+<p>TESTIMONIALS</p>
+<p>We post customer testimonials on the Offerpop Site which may contain Personal Information. We do obtain your consent via email prior to posting the testimonial to post your name along with the testimonial. If you want your testimonial removed please contact us at marketing@offerpop.com.</p>
+<p>FEEDBACK</p>
+<p>By providing Offerpop with Feedback, you hereby grant to Offerpop a royalty-free, worldwide, transferable, sublicenseable, irrevocable, perpetual license to use any Feedback and/or to incorporate such Feedback into the Offerpop Site, or Offerpop Applications or any service or product developed by Offerpop. You acknowledge and agree that any Offerpop Application, the Offerpop Site, or other product or service incorporating such suggestions, enhancement requests, recommendations or other feedback shall be the sole and exclusive property of Offerpop and all such recommendations shall be free from any confidentiality restrictions that might otherwise be imposed upon Offerpop pursuant to your written or electronic agreement with Offerpop.</p>
+<p>LINKS; MARKETING CAMPAIGNS</p>
+<p>The Offerpop Site and the Offerpop Applications may contain links to other sites. Please be aware that Offerpop is not responsible for the content or privacy practices of such other sites. Offerpop encourages all users to read the privacy statements of any other site that collects personally-identifiable information.</p>
+<p>INFORMATION SECURITY</p>
+<p>Offerpop takes industry-standard precautions to protect Personal Information. For example, whenever Offerpop collects credit card data or other payment information, that information is protected using industry standard encryption and transmitted to Offerpop in a secure way. You can verify this by looking for "https" at the beginning of the address of the particular web page.</p>
+<p>While the safeguards implemented by Offerpop may help prevent or slow unauthorized access, maintain data accuracy, and facilitate the appropriate use of data, NO GUARANTY IS OR CAN BE MADE THAT YOUR INFORMATION IS SECURE FROM INTRUSIONS AND OR UNAUTHORIZED ACCESS BY THIRD PARTIES. If you have any questions about security of the Offerpop Site or the Offerpop Applications, you can contact us at support@offerpop.com.</p>
+<p>COMPLIANCE WITH LAWS AND LAW ENFORCEMENT</p>
+<p>Offerpop cooperates with government and law enforcement officials and private parties to enforce and comply with law. Offerpop will disclose any information about you to government or law enforcement officials or private parties as Offerpop, in its sole discretion, believes necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Offerpop or a third party, to protect the safety of the public or any person, or to prevent or stop any activity Offerpop may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable.</p>
+<p>BUSINESS TRANSFERS</p>
+<p>Offerpop may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. You will be notified via email and/or a prominent notice on the Offerpop Site of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information.</p>
+<p>LOCATION OF OFFERPOP SERVERS</p>
+<p>Offerpop's computer systems are currently based in the United States, so your Personal Information will be processed by us in the United States. In accordance with applicable law, Personal Information collected on the Offerpop Site or by Campaign Operators through the Offerpop Applications may be transferred, stored and processed in the United States. By submitting your Personal Information to Offerpop or the Offerpop Applications, directly or indirectly through a Campaign Operator, you consent to such processing of your Personal Information.</p>
+<p>CHANGES TO THIS POLICY</p>
+<p>Offerpop may revise this Information and Privacy Policy from time to time. The most current version of the policy will govern Offerpop's use of Personal Information and will always be at <a href="http://offerpop.com/privacy-facebook-twitter-marketing">http://offerpop.com/privacy-facebook-twitter-marketing</a>. If Offerpop makes a change to this policy, Offerpop may notify you via an e-mail to the email associated with your account or the change will be effective by posting the change to the Offerpop Site. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on the Offerpop Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. By continuing to access or use the Offerpop Site or the Offerpop Applications after those changes become effective, you agree to be bound by the revised Information and Privacy Policy.</p>
+<p>CONTACTING US</p>
+<p>If you have any questions about this Information and Privacy Policy, please contact us at <a href="mailto:privacy@offerpop.com">privacy@offerpop.com</a>, or by mail to:</p>
+<p>Offerpop Corporation 36 East 31st Street, 8th floor New York, NY 10016</p>
+<div></div>
+			
+	</section> 
+	
+			
+			</div>
+			
+		</div>
+
+	</section>
+
+		</div>
+		
+		<!-- ************************************************** -->
+		<!-- END: PAGE CONTENT                                  -->
+		<!-- ************************************************** -->
+		
+	</div>
+	
+	<!-- ************************************************** -->
+	<!-- END: PAGE                                          -->
+	<!-- ************************************************** -->
+	
+	<!-- ************************************************** -->
+<!-- BEGIN: FOOTER                                      -->
+<!-- ************************************************** -->
+
+<footer id="footer" class="stage-pod stage-pod-black" role="contentinfo" data-template="stage-footer">
+	
+	<div class="container container-pod">
+		
+		<div class="row row-pod row-pod-tall">
+			
+			<div class="col-small-10 col-small-offset-1 col-large-8 col-large-offset-2">
+				
+				<p class="lead centered">
+					
+					Sign up and check out the Offerpop platform today. No credit card required. And, when you're ready, run a free 14-day campaign.					
+				</p>
+				
+				<div class="button-toolbar button-toolbar-centered flush-bottom">
+					
+					<a href="#modal-try-it-free" class="button button-primary button-large" data-toggle="modal">
+						
+						Try It Free						
+					</a>
+					
+				</div>
+				
+			</div>
+			
+		</div>
+
+		<div class="row row-pod">
+			
+			<div class="col-small-3">
+
+			    <h6 class="footer-links-header flush-top inverse tall">Offerpop.com</h6>
+				<ul id="menu-offerpop-com" class="footer-links unstyled flush-bottom"><li id="menu-item-3787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3787"><a href="http://www.offerpop.com/how-it-works/">How It Works</a></li>
+<li id="menu-item-3790" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3790"><a href="http://www.offerpop.com/solutions/">Solutions</a></li>
+<li id="menu-item-3791" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3791"><a href="http://www.offerpop.com/products/">Products</a></li>
+<li id="menu-item-3792" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3792"><a href="http://www.offerpop.com/campaigns/">Customers</a></li>
+<li id="menu-item-3789" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3789"><a href="http://www.offerpop.com/pricing/">Pricing</a></li>
+<li id="menu-item-3788" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3788"><a href="http://www.offerpop.com/partners/">Partners</a></li>
+</ul>				
+			</div>
+
+			<div class="col-small-3 col-spill">
+
+				<h6 class="footer-links-header flush-top inverse tall">Resources</h6>
+				<ul id="menu-resources" class="footer-links unstyled flush-bottom"><li id="menu-item-3793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3793"><a href="http://www.offerpop.com/resources/blog/">Blog</a></li>
+<li id="menu-item-3873" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3873"><a href="http://www.offerpop.com/resources/case-studies/">Case Studies</a></li>
+<li id="menu-item-3872" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3872"><a href="http://www.offerpop.com/resources/ebooks/">eBooks</a></li>
+<li id="menu-item-3874" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3874"><a href="http://www.offerpop.com/resources/webinars/">Webinars</a></li>
+<li id="menu-item-3796" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3796"><a href="http://www.offerpop.com/resources/press-news/">Press &amp; News</a></li>
+<li id="menu-item-3795" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3795"><a href="http://www.offerpop.com/resources/events/">Events</a></li>
+</ul>				
+			</div>	
+
+			<div class="col-small-3 col-spill">
+
+				<h6 class="footer-links-header flush-top inverse tall">Our Company</h6>
+				<ul id="menu-our-company" class="footer-links unstyled flush-bottom"><li id="menu-item-3797" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3797"><a href="http://www.offerpop.com/about/">About</a></li>
+<li id="menu-item-3798" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3798"><a href="http://www.offerpop.com/careers/">Careers</a></li>
+<li id="menu-item-3799" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3799"><a href="https://www.offerpop.com/contact/">Contact Us</a></li>
+</ul>				
+			</div>
+
+			<div class="col-small-3 col-spill">
+
+				<h6 class="footer-links-header flush-top inverse tall">Connect with Us</h6>				
+								
+				<ul id="menu-connect-with-us" class="footer-links unstyled flush-bottom">
+					
+					<li class="menu-item">
+						
+						<div class="fb-like" data-href="https://www.facebook.com/offerpop" data-width="10" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+						
+					</li>
+					
+					<li class="menu-item">
+						
+						<a href="https://twitter.com/offerpop" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @offerpop</a>
+						
+					</li>
+					
+					<li class="menu-item">
+						
+						<div class="g-plusone" data-size="medium" data-href="http://www.offerpop.com/"></div>
+						
+					</li>
+					
+					<li class="menu-item">
+						
+						<script type="IN/FollowCompany" data-id="1049933" data-counter="right"></script>
+						
+					</li>
+					
+				</ul>
+				
+			</div>
+
+		</div>
+		
+		<a href="/" class="footer-logo">
+			
+			<span>
+				
+				Offerpop
+				
+			</span>
+			
+		</a>
+
+		<p class="footer-copyright centered tall">
+			
+			Copyright © 2014 Offerpop™. Made in NY. <a href="/privacy-policy/">Privacy Policy</a> &amp; <a href="/terms-of-service/">Terms of Service</a>
+			
+		</p>
+		
+		<ul class="footer-security-labels inline">
+			
+			<li class="footer-security-label safe-harbor">
+				
+				<a href="//www.export.gov/safeharbor" target="_blank">
+					
+					<span>
+						
+						Safe Harbor US Department Of Commerce
+						
+					</span>
+					
+				</a>
+				
+			</li>
+			
+			<li>
+
+				<div id="d281e897-e734-4a10-980f-ca8bfd96fc06"> 
+
+					<script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Offerpop-Corporation/asc?rid=d281e897-e734-4a10-980f-ca8bfd96fc06"></script>
+
+					<a href="//privacy.truste.com/privacy-seal/Offerpop-Corporation/validation?rid=d76047ad-982f-4905-a9b8-e45b5a580370" title="Validate TRUSTe privacy certification" target="_blank">
+
+						<img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Offerpop-Corporation/seal?rid=d76047ad-982f-4905-a9b8-e45b5a580370" alt="Validate TRUSTe privacy certification">
+
+					</a>
+
+				</div>
+
+			</li>
+			
+		</ul>
+		
+	</div>
+	
+</footer>
+
+<!-- ************************************************** -->
+<!-- END: FOOTER                                        -->
+<!-- ************************************************** -->
+
+	
+	<!-- ************************************************** -->
+	<!-- BEGIN: MODALS                                      -->
+	<!-- ************************************************** -->
+	
+	<div class="modal fade" id="modal-try-it-free" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	
+	<div class="modal-dialog">
+		
+		<div class="modal-content">
+			
+			<div class="modal-header stage-pod stage-pod-light">
+				
+				<div class="container container-fluid container-pod container-pod-short">
+					
+					<h2 class="modal-title flush-top short centered">
+						
+						Try Offerpop Free!
+						
+					</h2>
+					
+					<p class="centered flush-bottom">
+						
+						Run a free campaign today!  Select your platform below to get started.
+						
+					</p>
+					
+				</div>
+				
+			</div>
+			
+			<div class="modal-body">
+				
+				<div class="modal-body-scrollable container-scrollable">
+					
+					<div class="modal-body-content container container-fluid container-pod container-pod-short">
+						
+						<div class="button-toolbar button-toolbar-centered flush-bottom">
+
+							<!-- _gaq.push(['_trackEvent', 'Sign Up CTA Facebook', 'Submit Facebook', 'Free Trail Sign Up Modal', 'false']); return false; -->
+							<a href="#" onclick="fblogin();" class="button button-facebook">
+								
+								<i class="icon icon-small icon-facebook"></i>
+								
+								Login to Facebook Apps
+								
+							</a>
+							
+							<!-- _gaq.push(['_trackEvent', 'Sign Up CTA Twitter', 'Submit Twitter', 'Free Trail Sign Up Modal', 'false']); -->
+							<a href="https://offerpop.com/TwitterSignIn.psp" class="button button-twitter">
+								
+								<i class="icon icon-small icon-twitter"></i>
+
+								Login to Twitter Apps
+
+							</a>
+
+						</div>
+						
+					</div>
+					
+				</div>
+				
+			</div>
+			
+		</div>
+		
+	</div>
+	
+</div> 
+	<div class="modal fade" id="modal-login" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	
+	<div class="modal-dialog">
+		
+		<div class="modal-content">
+			
+			<div class="modal-header stage-pod stage-pod-light">
+				
+				<div class="container container-fluid container-pod container-pod-short">
+					
+					<h2 class="modal-title flush-top short centered">
+						
+						Select Your Platform to Begin
+						
+					</h2>
+					
+				</div>
+				
+			</div>
+			
+			<div class="modal-body">
+				
+				<div class="modal-body-scrollable container-scrollable">
+					
+					<div class="modal-body-content container container-fluid container-pod container-pod-short">
+						
+						<div class="button-toolbar button-toolbar-centered flush-bottom">
+
+							<!-- _gaq.push(['_trackEvent', 'Sign Up CTA Facebook', 'Submit Facebook', 'Free Trail Sign Up Modal', 'false']); return false; -->
+							<a href="#" onclick="fblogin();" class="button button-facebook">
+								
+								<i class="icon icon-small icon-facebook"></i>
+								
+								Login to Facebook Apps
+								
+							</a>
+							
+							<!-- _gaq.push(['_trackEvent', 'Sign Up CTA Twitter', 'Submit Twitter', 'Free Trail Sign Up Modal', 'false']); -->
+							<a href="https://offerpop.com/TwitterSignIn.psp" class="button button-twitter">
+								
+								<i class="icon icon-small icon-twitter"></i>
+
+								Login to Twitter Apps
+
+							</a>
+
+						</div>
+						
+					</div>
+					
+				</div>
+				
+			</div>
+			
+		</div>
+		
+	</div>
+	
+</div> 
+	<div class="modal fade" id="modal-campaigns" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	
+	<div class="modal-dialog">
+		
+		<div class="modal-content">
+			
+			<div class="modal-header stage-pod stage-pod-light">
+				
+				<div class="container container-fluid container-pod container-pod-short">
+					
+					<h2 class="modal-title flush-top short centered">
+						
+						See Live Campaigns
+						
+					</h2>
+
+					<p class="centered flush-bottom">
+
+						Sign Up for our Weekly Campaign Shortlist
+
+					</p>
+					
+				</div>
+				
+			</div>
+			 
+			<div class="modal-body">
+				
+				<div class="modal-body-scrollable container-scrollable">
+					
+					<div class="modal-body-content container container-fluid container-pod container-pod-short">
+
+						<form id="live_campaigns_sign_up" class="flush-bottom" method="post" action="https://offerpop.com/UnauthInclude.psp" target="submit_frame">
+							
+							<div class="row">
+								
+								<div class="form-group-campaign-email form-group form-field col-small-12 email pd-text required">
+							
+									<label class="field-label" for="campaign_email">
+										
+										Email
+										
+									</label>
+									
+									<input type="text" name="campaign_email" id="campaign_email" value="" class="text inverse flush-bottom" size="30" maxlength="255" onchange="">
+									
+									<span class="hide help-block description no-label">
+											
+										A valid email is required for this field.
+											
+									</span>
+	
+								</div>
+								
+							</div>
+
+						</form>
+
+						<p class="lead centered flush-bottom hide success description no-label">
+								
+							Thanks! You'll receive our next shortlist email.
+								
+						</p>
+						
+						<iframe class="hide" id="submit_frame" name="submit_frame"></iframe>
+						
+					</div>
+					
+				</div>
+				
+			</div>
+			
+			<div class="modal-footer">
+				
+				<div class="container container-fluid container-pod container-pod-short">
+					
+					<div class="button-toolbar button-toolbar-centered flush-bottom">
+						
+						<button id="campaign-email-button" class="button button-default">
+							
+							Sign Up
+							
+						</button>
+						
+					</div>
+					
+				</div>
+				
+			</div>
+			
+		</div>
+		
+	</div>
+	
+</div> 
+	
+	<!-- ************************************************** -->
+	<!-- END: MODALS                                        -->
+	<!-- ************************************************** -->
+	
+</div>
+
+<!-- ************************************************** -->
+<!-- END: STAGE                                         -->
+<!-- ************************************************** -->
+
+		<!-- ************************************************** -->
+		<!-- BEGIN: WORDPRESS FOOT                              -->
+		<!-- ************************************************** -->
+		
+		<script type="text/javascript" src="http://www.offerpop.com/wp-content/themes/offerpop/library/js/libs/bootstrap/bootstrap.min.js?cb8d6d"></script>
+<script type="text/javascript" src="http://www.offerpop.com/wp-content/themes/offerpop/library/js/libs/retina/jquery.retina.js?cb8d6d"></script>
+<script type="text/javascript" src="http://www.offerpop.com/wp-content/themes/offerpop/library/js/libs/backstretch/jquery.backstretch.min.js?cb8d6d"></script>
+<script type="text/javascript" src="http://www.offerpop.com/wp-content/themes/offerpop/library/js/libs/google-code-prettify/prettify.js?cb8d6d"></script>
+<script type="text/javascript" src="http://www.offerpop.com/wp-content/themes/offerpop/library/js/libs/imsky-holder-a1201ab/holder.js?cb8d6d"></script>
+<script type="text/javascript" src="http://www.offerpop.com/wp-content/themes/offerpop/library/js/libs/rotational/jquery.rotational.js?cb8d6d"></script>
+<script type="text/javascript" src="http://www.offerpop.com/wp-content/themes/offerpop/library/js/libs/scroller/jquery.fs.scroller.min.js?cb8d6d"></script>
+<script type="text/javascript" src="http://www.offerpop.com/wp-content/themes/offerpop/library/js/scripts.js?cb8d6d"></script>
+		
+		<!-- ************************************************** -->
+		<!-- END: WORDPRESS FOOT                                -->
+		<!-- ************************************************** -->
+		
+		<!-- BEGIN: CSS3PIE -->
+		
+		<!--[if lt IE 7 ]>
+			<script type="text/javascript" src="http://www.offerpop.com/wp-content/themes/offerpop/library/js/libs/CSS3Pie/PIE_IE678.js?cb8d6d"></script>
+		<![endif]-->
+		<!--[if IE 7 ]>
+			<script type="text/javascript" src="http://www.offerpop.com/wp-content/themes/offerpop/library/js/libs/CSS3Pie/PIE_IE678.js?cb8d6d"></script>
+		<![endif]-->
+		<!--[if IE 8 ]>
+			<script type="text/javascript" src="http://www.offerpop.com/wp-content/themes/offerpop/library/js/libs/CSS3Pie/PIE_IE678.js?cb8d6d"></script>
+		<![endif]-->
+		<!--[if IE 9 ]>
+			<script type="text/javascript" src="http://www.offerpop.com/wp-content/themes/offerpop/library/js/libs/CSS3Pie/PIE_IE9.js?cb8d6d"></script>
+		<![endif]-->
+		
+		<!-- END: CSS3PIE -->
+
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"63763599e1","applicationID":"2920963","transactionName":"ZlJWZUIAV0RWVxcMXF8YYUNZTlBZU1EbS0NZRw==","queueTime":0,"applicationTime":100,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-397.min.js"}</script>
+	
+	<!-- ************************************************** -->
+	<!-- END: BODY                                          -->
+	<!-- ************************************************** -->
+
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using memcached
+Database Caching 18/67 queries in 0.075 seconds using memcached
+Object Caching 5020/5043 objects using memcached
+Content Delivery Network via Amazon Web Services: CloudFront: d3nxc88n0lpo37.cloudfront.net
+
+ Served from: www.offerpop.com @ 2014-05-03 15:42:01 by W3 Total Cache --><script src="https://js-agent.newrelic.com/nr-397.min.js"></script></body></html>
