@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foxybingo.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220220826id_/http%3A//www.foxybingo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxybingo.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504134722id_/http%3A//www.foxybingo.com/privacy.php) for the most accurate reproduction.*
 
-# Our Foxy Privacy Policy | FoxyBingo.com
+# View Our Foxy Privacy Policy | FoxyBingo.com
 
 The brands on this website (the "Website") are owned by Cashcade Ltd (the "Brand Owner"). The Website and the services offered on it are powered by a software belonging to Brigend Limited ("Brigend") and operated by Cassava Enterprises (Gibraltar) Limited ("Cassava"), which are both within the same corporate group and registered under the laws of Gibraltar to provide such services.
 
