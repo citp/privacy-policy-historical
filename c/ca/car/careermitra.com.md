@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careermitra.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101221754id_/http%3A//careermitra.com//privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careermitra.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504192550id_/http%3A//careermitra.com//privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Career Mitra
 
@@ -34,4 +34,4 @@ We are committed to ensure that your information is secure. We never sell or sha
 
 **Cookies**
 
-We use third-party services like wordpress which may use cookies to collect information about your visits to www.careermitra.com. By default your browser accepts cookies to be placed on your machine however it is possible for you to disable the cookies by changing your browser settings.
+We use several third party services which may inturn use cookies to collect information about your visits to www.careermitra.com. By default your browser accepts cookies to be placed on your machine however it is possible for you to disable the cookies by changing your browser settings.
