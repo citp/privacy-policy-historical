@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smashinglists.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103160020id_/http%3A//www.smashinglists.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashinglists.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505013817id_/http%3A//www.smashinglists.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Top Ten Lists
 
