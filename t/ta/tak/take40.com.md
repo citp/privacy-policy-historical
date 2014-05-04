@@ -1,70 +1,62 @@
-> *The following text is extracted and transformed from the take40.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230145504id_/http%3A//www.take40.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the take40.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504133106id_/http%3A//www.take40.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Take 40
 
-### Privacy Policy
+## Version 2.0 - Last updated [11 March 2014]
 
-### Version 1.0 – Last updated [30 May 2006]
-
-mcm syndication pty ltd trading as mcm entertainment of Level 4, 21-31 Goodwood Street, Richmond, Victoria 3121, Australia (mcm) is bound by the National Privacy Principles set out in the Privacy Act 1988 (Cth) and is committed to protecting the personal information you provide when using the ['Take 40 Australia' ®] website (the Website).
+MCM Media Pty Ltd of Level 4, 21-31 Goodwood Street, Richmond, Victoria 3121, Australia (MCM Media) is bound by the Australian Privacy Principles set out in the Privacy Act 1988 (Cth) and the Privacy Amendment (Enhancing Privacy Protection) Act 2012 (Cth) and is committed to protecting the personal information you provide when using the ['Take 40 Australia' ®] website (the Website).
 
 ### 1\. Collection of Personal Information
 
-The collection of personal information depends on how you use the Website. 
+The collection of personal information depends on how you use the Website. When you use the Website, MCM Media may collect your IP address and certain 'click through' information about your use of the Website.
 
-When you use the Website, mcm may collect your IP address and certain ‘click through’ information about your use of the Website.
+To access certain features of the Website, you will need to register as a Website member. MCM Media requires that you provide certain personal information (such as your name, email address, postcode, password, age and gender and mobile phone number (optional)) in order to register as a user of those features. 
 
-To access certain features of the Website, you will need to register as a Website member.  mcm requires that you provide certain personal information (such as your name, email address, postcode, password, age and gender and mobile phone number (optional)) in order to register as a user of those features. 
-
-If you contact mcm with a question or comment, mcm may collect certain personal information for the purposes of responding to your question or comment.  mcm will only use that personal information for this purpose.
+If you contact MCM Media with a question or comment, MCM Media may collect certain personal information for the purposes of responding to your question or comment. MCM Media will only use that personal information for this purpose.
 
 ### 2\. Use of Personal Information
 
-mcm may use the information it collects when you use the Website or when you register as a user of the Website:
+MCM Media may use the information it collects when you use the Website or when you register as a user of the Website:
 
-\- to monitor who is accessing the Website or using services offered on the Website;
+  * to monitor who is accessing the Website or using services offered on the Website;
+  * to profile the type of people accessing the Website;
+  * to tailor the information on the Website to your personal preferences; and 
+  * if you consent to receive communications from MCM Media, to send you news and information about MCM Mediaâs services and products and services and products of MCM Media's third party suppliers and "partners" (such as record companies) by email or SMS.
 
-\- to profile the type of people accessing the Website;
 
-\- to tailor the information on the Website to your personal preferences; and 
-
-\- if you consent to receive communications from mcm, to send you news and information about mcm’s services and products and services and products of mcm’s third party suppliers and “partners” (such as record companies) by email or SMS.
 
 ### 3\. Disclosure
 
-mcm will generally not provide your personal information to any third party.  mcm will only disclose your personal information to a third party if:
+MCM Media will generally not provide your personal information to any third party. MCM Media will only disclose your personal information to a third party if:
 
-\- that disclosure is required for the purposes for which we collected the information;
+  * that disclosure is required for the purposes for which we collected the information;
+  * you have consented to that disclosure;
+  * MCM Media is required by law to disclose the information; or
+  * MCM Media is otherwise permitted to disclose the information under the Australian Privacy Principles. MCM Media may compile and disclose aggregated information about users of the Website but this aggregated information will not include any information identifying individuals.  
+MCM Media does not intend to disclose personal information to overseas bodies. 
 
-\- you have consented to that disclosure;
 
-\- mcm is required by law to disclose the information; or
-
-\- mcm is otherwise permitted to disclose the information under the National Privacy Principles.
-
-mcm may compile and disclose aggregated information about users of the Website but this aggregated information will not include any information identifying individuals. 
 
 ### 4\. Security of Personal Information
 
-The security of your personal information is important to us.  We will use reasonable endeavours to ensure that personal information that mcm collects from the Website is kept secure through the facilities provided by our secure corporate database.
+The security of your personal information is important to us. We will use reasonable endeavours to ensure that personal information that MCM Media collects from the Website is kept secure through the facilities provided by our secure corporate database.
 
-While mcm exercises great care in relation to the security of your personal information, no data transmission over the internet can be guaranteed to be 100% secure.  mcm does not ensure or warrant the security of any personal information transmitted to or from the Website and you use the Website at your own risk.
+While MCM Media exercises great care in relation to the security of your personal information, no data transmission over the internet can be guaranteed to be 100% secure. MCM Media does not ensure or warrant the security of any personal information transmitted to or from the Website and you use the Website at your own risk.
 
 ### 5\. How to seek access to your Personal Information
 
-You are entitled to seek access to any personal information which mcm holds about you.  
-mcm may withhold access to your personal information in a number of circumstances which are set out in the National Privacy Principles. 
+You are entitled to seek access to any personal information which MCM Media holds about you.
 
-If you wish to seek access to personal information mcm holds about you, please email us at help@take40.com.
+MCM Media may withhold access to your personal information in a number of circumstances which are set out in the Australian Privacy Principles. If you wish to seek access to personal information MCM Media holds about you, please email us at team@take40.com or phone (03) 9635 6600.
 
 ### 6\. Links to third party websites
 
-mcm provides links to and from third party websites that are not operated or controlled by mcm and may not be subject to a privacy policy.  mcm is not responsible for the conduct of these third parties.  Before disclosing personal information to any third party we suggest you examine the privacy policies on the third party’s website or enquire about their privacy policy. 
+MCM Media provides links to and from third party websites that are not operated or controlled by MCM Media and may not be subject to a privacy policy. MCM Media is not responsible for the conduct of these third parties. Before disclosing personal information to any third party we suggest you examine the privacy policies on the third partyâs website or enquire about their privacy policy. 
 
-### 7\. How to contact mcm
+### 7\. How to contact MCM Media
 
-Please contact mcm at help@take40.com if you would like further information on our personal information handling practices.
+Please contact MCM Media at help@take40.com if you would like further information on our personal information handling practices or phone (03) 9635 6600. Alternatively you can direct your query in writing to The Privacy Officer, Level 4, 21-31 Goodwood Street, Richmond, Victoria, 3121.
 
 ### 8\. Additional privacy information
 
-If you are interested in obtaining additional information on privacy you can visit the Australian Federal Privacy Commissioner's website at _www.privacy.gov.au_.
+If you are interested in obtaining additional information on privacy you can visit the Australian Federal Privacy Commissioner's website at www.privacy.gov.au.
