@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rwcshop.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114013955id_/http%3A//www.rwcshop.com/Site_Information/Cookie_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rwcshop.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504132938id_/http%3A//www.rwcshop.com/Site_Information/Cookie_Policy.htm) for the most accurate reproduction.*
 
 # Cookie Policy
 
