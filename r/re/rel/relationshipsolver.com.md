@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the relationshipsolver.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610081534id_/http%3A//www.relationshipsolver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relationshipsolver.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504034746id_/http%3A//www.relationshipsolver.com/privacy-policy) for the most accurate reproduction.*
 
 # RelationshipSolver Privacy Policy
-
-[](http://www.meetyoursweet.com/?aff=relatsolve&pg=relrecovn&id=cbcash)
 
 Welcome to Your relationshipsolver.com (the “Site”).
 
@@ -68,10 +66,17 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
 
-[](http://www.meetyoursweet.com/?aff=relatsolve&pg=relrecovn&id=cbcash)
+**Signup To Receive the FREE Relationship Help Newsletter Series**
 
-#### Incoming search terms:
+ **
 
-  * [intercource with women](http://www.relationshipsolver.com/privacy-policy/ "intercource with women")
+ **Want to Get Your Ex Back?**  
+Want The Secrets to A Lasting Relationship?  
+ **What Does Your Man Really Want?**  
+What Does Your Woman Really Want?
 
+**Just Enter Your Name and Email Below To Find Out...**
 
+**
+
+We hate spam! We won't sell, rent, or share your information with anyone!
