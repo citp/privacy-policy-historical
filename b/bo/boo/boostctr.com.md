@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boostctr.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817085829id_/http%3A//www.boostctr.com/Company/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boostctr.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504235223id_/https%3A//www.boostctr.com/Company/Privacy) for the most accurate reproduction.*
 
-# BoostCTR - Privacy
+# BoostCTR: Privacy
 
 **Privacy Policy for Boost Media Inc.**
 
