@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sexchatster.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114233809id_/http%3A//www.sexchatster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexchatster.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504201816id_/http%3A//www.sexchatster.com/privacy) for the most accurate reproduction.*
 
-# Our Privacy Policy - We Care About Your Privacy! | Sexchatster.com
+# Our Privacy Policy - We Care About Your Privacy! | Sexchatster
 
 READ THIS PRIVACY POLICY CAREFULLY. BY USING OUR WEBSITE, YOU AGREE, UNDERSTAND AND ACKNOWLEDGE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY AS WELL AS THE TERMS OF SERVICE ON THIS WEBSITE. COME BACK TO THIS PAGE REGULARLY AS CHANGES TO THIS PRIVACY POLICY MAY BE MADE. THE NEWEST VERSION OF THIS PRIVACY POLICY WILL ALWAYS BE THE ONE THAT IS POSTED ON THIS WEBSITE.
 
