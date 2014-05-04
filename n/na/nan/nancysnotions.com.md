@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nancysnotions.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101165326id_/http%3A//www.nancysnotions.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do%3Fintcmp%3DFFPRIV) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nancysnotions.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505013652id_/http%3A//nancysnotions.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do%3Fintcmp%3DFFPRIV) for the most accurate reproduction.*
 
 # Privacy and Security - Customer Service - Nancy's Notions
 
@@ -12,8 +12,6 @@ Send us a copy of your printed mailing address as it appears on a catalog
 
 **Site Security**  
 Nancy's Notions employs the highest levels of security to ensure that your order is confidential and secure. We encrypt your transactions by using a Secure Sockets Layer (SSL) that assures your credit card number is submitted in encrypted form. All sensitive information you provide is encrypted before being sent over the Internet. Note: Any pages where you are conveying personal information (name, address, and credit card number) should show an image of a lock at the bottom of your screen. If the lock is closed, it is a secure page.
-
-Go Daddy: This site is tested and certified **daily** to pass the Go Daddy security scan. To help address concerns about hacker access to confidential data, the "live" Go Daddy mark appears only when a web site meets the Go Daddy secure standard.
 
 **Privacy Policy Statement**  
 This is the web site of Nancy's Notions®.
