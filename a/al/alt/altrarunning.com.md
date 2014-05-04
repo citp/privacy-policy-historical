@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altrarunning.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204115720id_/http%3A//www.altrazerodrop.com/webapp/wcs/stores/servlet/PrivacyView%3FlangId%3D-1%26storeId%3D15151%26catalogId%3D18952) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altrarunning.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504201357id_/http%3A//www.altrarunning.com/webapp/wcs/stores/servlet/PrivacyView%3FlangId%3D-1%26storeId%3D15151%26catalogId%3D18952) for the most accurate reproduction.*
 
 # Privacy Policy | Altra Zero Drop Footwear | Altra Zero Drop Footwear
 
@@ -126,11 +126,11 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
 
-[www.altrazerodrop.com](http://www.altrazerodrop.com/)
+[www.altrazerodrop.com](http://www.altrarunning.com/)
 
 c/o Privacy Manager  
 1500 South 1000 West  
 Logan, Utah 84321  
-[privacy@altrazerodrop.com](mailto:privacy@altrazerodrop.com)
+[privacy@altrarunning.com](mailto:privacy@altrazerodrop.com)
 
 This document was last updated on November 1, 2012 
