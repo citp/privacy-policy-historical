@@ -1,132 +1,64 @@
-> *The following text is extracted and transformed from the daopay.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616144938id_/http%3A//www.daopay.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daopay.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505001804id_/http%3A//www.daopay.com/privacy-policy) for the most accurate reproduction.*
 
-# About Daopay « daopay.com
+# daopay.com - Privacy Policy
 
-## About Us
+We, DaoPay GmbH, appreciate the confidence you place in us by sharing your information with us. We apply greatest care for the protection of your information. In the following we are providing an overview of how we gather, process, and protect your information.
 
-This is a privacy policy for Daotec Payment GmbH. Our homepage on the Web is located at [ http://daopay.com](http://daopay.com/). The full text of our privacy policy is available on the Web at [ http://daopay.com/about/privacy.php](http://daopay.com/about/privacy.php) This policy does not tell users where they can go to exercise their opt-in or opt-out options. 
+This Privacy Policy covers all personal information which we may collect when you visit our website ([www.daopay.com](http://www.daopay.com/)), use the payment service “DaoPay” or contact our customer support.
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
-    
-    
-      
-    
-    **Daotec Payment GmbH**
-    _Registered office / Postal address:_
-    Hackhofergasse 5/14
-    1190 Vienna
-    Austria
-    
-    
+1\. Personal information
 
-You may contact us by e-mail at [ privacy@daopay.com](mailto:privacy@daopay.com) or call us at +43 (0)1 22844-0 
+Personal information means all information which may be linked to a specific and real person and which may be utilized to identify this person.
 
-## Dispute Resolution and Privacy Seals
+2\. Which information is being collected
 
-We have no privacy seals or other assurance mechanisms. 
+It is principally possible to visit and use our website without disclosing any personal information.
 
-## Additional Information
+However, in order to ensure proper functionality and the best service possible of DaoPay, your name, e-mail address, telephone number, country of origin, financial information, merchant information and other information may be required to the extent that your consent is given or it is permitted or required by law.
 
-This policy is valid for 14 weeks from the time that it is loaded by a client. 
+3\. Utilization of personal information
 
-## Data Collection
+At any rate, we utilize personal information only to the extent it is permitted or required by law.
 
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 1 data group. 
+We utilize personal information for the following purposes: processing, billing and controlling payment transactions, providing customer support, assuring the best service possible as well as prevention of fraud and abuse.
 
-* * *
+We do not share personal information with any third party without your consent. However, we may disclose some or all of the personal information to our contractual merchants and service providers (like telecom carriers) for the purposes of processing requested transactions or handling complaints, or to state authorities as permitted or required by law.
 
-### Group "Phone Payment"
+4\. Protection and security of personal information
 
-We collect the following information: 
+We protect personal information received and collected by establishing appropriate physical, electronic and managerial procedures. This helps prevent unauthorized access, maintains data accuracy and ensures that the information is used correctly.
 
-  * Click-stream data
-  * HTTP protocol elements
-  * User's interaction with a page or resource
-  * Transaction history
-  * Unique identifiers
-  * Purchase information
-  * Current location data
-  * State management mechanisms
-  * Preference data
-  * HTTP cookies
+However, no method of transmission over the internet or method of electronic storage is 100% secure. Therefore, while we strive to use all reasonable means to protect your personal information, we cannot guarantee its absolute security.
 
+5\. Cookies
 
+Like many websites, we use “cookies”. Cookies are small text files which are stored on your computer's hard drive and which store your personal settings of a particular website. When you go to the website, the web server identifies your cookie and shows the website according to your personal settings.
 
-This data will be used for the following purposes:
+The cookies we use neither store nor share personal information.
 
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
-  * One-time tailoring.
-  * Anonymous user analysis.
-  * Anonymous user profiling and decision-making.
+Cookies can be deactivated if your browser permits so. If cookies are deactivated, you might not be able to use all services of our website.
 
+6\. IP addresses
 
+Each visit of our website generates a log file which stores the IP address (a unique number which a device uses when it is connected to the internet), the contents accessed and the browser used. We use this log file to analyze how visitors use the website and to optimize the website and our services accordingly.
 
-This data will be used by ourselves and our agents. 
+7\. Access to personal information 
 
-The following explanation is provided for why this data is collected:
+You may access, correct, update, amend, delete or deactivate your personal information stored with us. If you wish to do so, please contact us (see contact details below).
 
-> a) in order to securely and anonymously process payments by phone and SMS
+8\. Changes to this Privacy Policy
 
-* * *
+We reserve the right to modify this Privacy Policy any time. Changes to this Privacy Policy will be published on our website and in other appropriate places so that you can always know which information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-## Cookies
+9\. How to contact us
 
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
+If you have any questions or concerns about this Privacy Policy, you may contact us
 
-Our site makes use of cookies. Cookies are used for the following purposes: 
+Via telephone: +43122844-0  
+Via e-mail: [office@daopay.com](mailto:office@daopay.com)
 
-  * Site administration 
-  * Completing the user's current activity 
-  * User targeting 
-  * Pseudononymous analysis 
-  * Pseudonym-based decision-making 
-  * Research and development 
-
-
-
-* * *
-
-## Compact Policy Summary
-
-The compact policy which corresponds to this policy is: 
-    
-    
-        CP="NON CURa ADMa DEVa TAIa PSAa PSDa OUR BUS UNI PUR COM NAV INT STA PRE LOC"
-    
-
-The following table explains the meaning of each field in the compact policy. 
-
-**Field**|  **Meaning**  
----|---  
-`CP=` | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
-`NON` |  No access is available to collected information.   
-`CURa` |  The data is used for completion of the current activity.   
-`ADMa` |  The data is used for site administration.   
-`DEVa` |  The data is used for research and development.   
-`TAIa` |  The data is used for tailoring the site.   
-`PSAa` |  The data is used for pseudononymous analysis.   
-`PSDa` |  The data is used for pseudononymous decision-making.   
-`OUR` |  The data is given to ourselves and our agents.   
-`BUS` |  Our business practices specify how long the data will be kept.   
-`UNI` |  Unique identifiers are collected.   
-`PUR` |  Purchase information is collected.   
-`COM` |  Computer information is collected.   
-`NAV` |  Navigation and clickstream data is collected.   
-`INT` |  Interactive data is collected.   
-`STA` |  State-management data is collected   
-`PRE` |  Preference information is collected.   
-`LOC` |  Current location information is collected.   
-  
-The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>. 
-
-* * *
-
-## Policy Evaluation
-
-Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
-
-**Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser. 
-
-**Satisfactory policy** : this compact policy is considered _satisfactory_ according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings.
+Via mail:                
+DaoPay GmbH  
+Hackhofergasse 5/14  
+1190 Vienna  
+Austria
