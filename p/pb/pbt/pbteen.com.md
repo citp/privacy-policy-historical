@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbteen.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103160431id_/http%3A//www.pbteen.com/about-us/privacy-policy.html%3Fcm_type%3Dfnav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbteen.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505013553id_/http%3A//www.pbteen.com/about-us/privacy-policy.html%3Fcm_type%3Dfnav) for the most accurate reproduction.*
 
 # Privacy Policy | PBteen
 
@@ -35,7 +35,7 @@ To serve you better, we may combine information you give us online, in our store
 
 We may contract with companies or persons to provide certain services including credit card processing, shipping, data management, promotional services, etc. We call them our Service Providers. We provide our Service Providers with the information needed for them to perform these services. We also ask our Service Providers to confirm that their privacy practices are consistent with ours.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web sites. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/>.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web sites. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. Our systems do not recognize "Do Not Track" signals, but several of these third party companies who utilize these cookies or beacons on our web sites enable you to opt out of this behavioral advertising. To learn more or opt out from these companies you can visit <http://www.networkadvertising.org/>. We also provide you with additional tools to opt out of marketing from us or certain transfers of your information. You can learn about this in the "Opting Out of Marketing and Transfers" section of this Privacy Policy.
 
 We may share contact information and other data with businesses controlling, controlled by, or under common control with any Williams-Sonoma, Inc. Brands.
 
@@ -53,6 +53,8 @@ We want to communicate with you only if you want to hear from us. If you prefer 
 You may also click the designated link at the bottom of all email advertisements to be removed from future email updates.
 
 Please note that any requests to remove or update your contact information may take up to five days for your email request and 6-8 weeks to process your postal mail request.
+
+Back to Top
 
 ## International Customer Privacy
 
@@ -74,6 +76,8 @@ When you visit our web sites, we send one or more "cookies" to your computer or 
 
 Certain of our Service Providers may use cookies and collect information on our behalf. They are prohibited by our contract with them from sharing that information with anyone other than us or our other Service Providers. However, we respect your right to choose whether to be included in such services. You may opt out of certain of these services by [clicking here](http://www.pbteen.com/popup/customer-service/cm-opt-out.html "Link opens in a new window"). In addition, in connection with the services that they provide to us, certain of our Service Providers may work with third parties who may use cookies to collect anonymous information to tailor advertising for you and others elsewhere on the Internet. These third parties do not have access to any contact information about you. If you would like to opt out of accepting cookies altogether, you can generally set your browser to not accept cookies or to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. However, certain features of our web sites or other services may not work if you delete or disable cookies.
 
+Back to Top
+
 ## Security
 
 We maintain physical, electronic, and procedural safeguards to protect the confidentiality and security of information transmitted to us. To guard your information delivered to us electronically, our web sites use Secure Sockets Layer (SSL). SSL encrypts your credit card number, name and address so only we are able to decode your information. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your contact information, to the extent permitted by law, we do not guarantee or warrant the security of any information you transmit to or from our web sites, and you do so at your own risk.
@@ -86,6 +90,8 @@ Williams-Sonoma, Inc. Brands take special care to protect the safety and privacy
 
 Children under the age of 13 should always ask their parents or guardians for permission before providing any contact information to anyone online. We urge parents and guardians to participate in their children's online activities and use parental control or other web filtering technology to supervise children's access to the Internet.
 
+Back to Top
+
 ## Links to Third Party Sites
 
 Our web sites may contain links to web sites operated and maintained by third parties, over which we have no control. Privacy policies on such linked web sites may be different from our privacy policy. You access such linked web sites at your own risk. You should always read the privacy policy of a linked web site before disclosing any of your information on such web site.
@@ -96,6 +102,6 @@ If we decide to change our privacy policy in whole or in part, we will inform yo
 
 ## Your Feedback
 
-To help us improve our privacy policy and practice, please give us your feedback. In the U.S., you can call us at 800.541.1262 or send us an email [email](http://www.pbteen.com/customer-service/email-us/). Outside of the U.S., you can call us at 405.717.6139 or send us an [email](http://www.pbteen.com/customer-service/email-us/).
+To help us improve our privacy policy and practice, please give us your feedback. In the U.S., you can call us at 800.541.1262 or send us an [email](http://www.pbteen.com/customer-service/email-us/). Outside of the U.S., you can call us at 405.717.6139 or send us an [email](http://www.pbteen.com/customer-service/email-us/).
 
-Effective Date: August 15, 2013
+Effective Date: January 1, 2014
