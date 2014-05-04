@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-the-jobs.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121005542id_/http%3A//za.all-the-jobs.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-the-jobs.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504034155id_/http%3A//za.all-the-jobs.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy / Home - All the Jobs
 
