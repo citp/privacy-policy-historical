@@ -1,6 +1,7 @@
-> *The following text is extracted and transformed from the dragonblogger.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818085127id_/http%3A//www.dragonblogger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragonblogger.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504222051id_/http%3A//www.dragonblogger.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Dragon Blogger Technology, Gaming and Entertainment Blog
+# Privacy Policy | DragonBlogger
+
 
 Privacy Policy for dragonblogger.com
 
@@ -24,7 +25,7 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 If you have any questions please contact me and I will be happy to answer.
 
-AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20130818085127id_/http://www.dragonblogger.com/privacy-policy/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
+AdSense Privacy Policy Provided by JenSense
 
   * Bio
   * Twitter
