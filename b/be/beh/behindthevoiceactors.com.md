@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the behindthevoiceactors.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201142841id_/http%3A//www.behindthevoiceactors.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the behindthevoiceactors.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504085040id_/http%3A//www.behindthevoiceactors.com/privacy-policy) for the most accurate reproduction.*
 
 # Behind The Voice Actors - Privacy Policy
 
