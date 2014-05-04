@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the basenotes.net privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127171641id_/http%3A//www.basenotes.net/content/39-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basenotes.net privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505005551id_/http%3A//www.basenotes.net/content/1747-Privacy-Cookies-Policy) for the most accurate reproduction.*
 
-# Basenotes - Privacy Policy
+# Basenotes - Privacy & Cookies Policy
 
 **Basenotes** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ Basenotes ](http://www.basenotes.com/)
 
 ##  Information Automatically Logged 
 
 We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information. __ This helps us create a website that is suitable for eveyyones use. 
-
-## *
 
 ## Cookies
 
@@ -18,7 +16,7 @@ We also use third party advertisements on basenotes.net to support our site. Som
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. You can find out more about cookies [here](http://www.allaboutcookies.org./).
+While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
 
 *
 
@@ -54,14 +52,6 @@ This site contains links to other sites. **Basenotes** is not responsible for th
 
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
-*
-
 ##  Contacting the Web Site 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us here](http://www.basenotes.net/sendmessage.php). 
-
-**Log in or register**
-
-You need to log in to be able to leave a comment, post or review. If you have a basenotes account, you can log in at the top of this page.
-
-If you do not have an account, you can [register here](http://www.basenotes.net/register.php). It only takes a few minutes and is free.
