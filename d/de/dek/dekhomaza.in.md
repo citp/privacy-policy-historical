@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dekhomaza.in privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209080307id_/http%3A//dekhomaza.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dekhomaza.in privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504091055id_/http%3A//dekhomaza.info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | dekhomaza.net
+# Privacy Policy | dekhomaza.biz
 
 Dekhomaza.in respects the privacy of its users. Dekhomaza.in privacy determines how we treat user information while user visits to our website and uses our services. It is important to us that our user retain their Privacy while pleasing the benefit of the services we offered.
 
