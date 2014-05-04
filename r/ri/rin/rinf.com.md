@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rinf.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211010617id_/http%3A//rinf.com/alt-news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rinf.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504105953id_/http%3A//rinf.com/alt-news/privacy-policy) for the most accurate reproduction.*
 
-# RINF Alternative News Privacy Policy
-
-### Privacy Policy
+# Privacy Policy
 
 This Privacy Policy governs the manner in which RINF Alternative News collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.rinf.com website (“Site”). This privacy policy applies to the Site and all products and services offered by RINF Alternative News.
 
