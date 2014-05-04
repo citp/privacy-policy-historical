@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dove.us privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105115440id_/http%3A//www.unileverprivacypolicy.com/en_us/policy.aspx%3Fsite%3Dwww.dove.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dove.us privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504192149id_/http%3A//www.unileverprivacypolicy.com/en_us/policy.aspx%3Fsite%3Dwww.dove.com) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@ Unilever takes privacy seriously. The following five principles underpin our app
 
 ## _UNILEVER PRIVACY POLICY_
 
-_Last Updated: March 2013_
+_Last Updated: October 2013_
 
 Unilever is committed to protecting your privacy and ensuring that your personal information is protected. This Privacy Policy explains the types of personal information we collect and how we use, disclose and protect that information.
 
@@ -86,9 +86,11 @@ We use cookies and other tools (such as web analytic tools and pixel tags) to au
 
 Most internet browsers are initially set up to accept cookies. You can change the settings to block cookies or to alert you when cookies are being sent to your device. If you use different browsers, or use multiple devices, any changes will need to be made for each browser. If you disable the cookies this may impact your experience on Unilever Sites[](http://www.unilevercookiepolicy.com/)
 
-[ ](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)
+[ ](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)
 [ ](http://www.unilevercookiepolicy.com/)
-  * [](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)Information we collect from other sources
+  * [](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)
+[ ](http://www.unilevercookiepolicy.com/)
+  * [](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)Information we collect from other sources
 
 We may receive personal information about you from other sources if you have given permission for that information to be shared. This may include information from commercially available sources, such as public databases and data aggregators, and information from third parties. The types of personal information that we may collect from such sources include your:
 
@@ -103,7 +105,7 @@ We may receive personal information about you from other sources if you have giv
 
 We may share Site Usage Information (as discussed above) with trusted third parties (e.g., advertisers, advertising agencies, advertising networks, data exchanges, etc.) in order to offer you tailored content, including more relevant advertising for products and services which may be of interest to you. These third parties may set and access their own cookies, clear gifs and similar tracking technologies on your device in order to help us deliver customized content and advertising to you when you visit Unilever Sites or third party sites.
 
-In the United States, we have adopted the use of the Advertising Options Icon which may appear on certain targeted advertisements that we (or a service provider acting on our behalf) send to you based on your Site Usage Information. You may click on this icon to receive more information about the collection and use of your information or to opt-out of such collection in the future. Please note that even if you opt out, you may still receive advertisements from Unilever that are not customized based on your Site Usage Information.
+In the United States, we have adopted the use of the Advertising Options Icon which may appear on the Unilever Sites and certain targeted advertisements that we (or a service provider acting on our behalf) send to you based on your Site Usage Information. You may click on this icon to receive more information about the collection and use of your information or to opt-out of such collection in the future. Please note that even if you opt out, you may still receive advertisements from Unilever that are not customized based on your Site Usage Information.
 
 You may also use the [Network Advertising Initiative’s Opt-Out Tool](http://www.networkadvertising.org/choices/) and the [Digital Advertising Alliance’s Opt-Out Tool](http://www.aboutads.info/choices/) each of which provides a list of those third parties that may send you targeted advertising based on your internet browsing activities and for which you can opt-out of their use of your information for that purpose.
 
