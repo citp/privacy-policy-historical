@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icx.ca privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127081157id_/http%3A//www.icx.ca/StaticPage.aspx%3Ff%3DPrivacy_ICX) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icx.ca privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504225206id_/http%3A//www.icx.ca/StaticPage.aspx%3Ff%3DPrivacy_ICX) for the most accurate reproduction.*
 
 # ICX.ca -
 
