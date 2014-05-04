@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mirzaslist.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226222435id_/http%3A//mirzaslist.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirzaslist.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504083717id_/http%3A//mirzaslist.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy,Buy and Sell Classified Ads,Online Classified Advertising
 
-YourURL.com is committed to safeguarding your privacy online. The following policy acts as a guide enabling you to understand how your personal information will be treated when you make use of the site. This policy may change from time to time.
+MirzasList.com is committed to safeguarding your privacy online. The following policy acts as a guide enabling you to understand how your personal information will be treated when you make use of the site. This policy may change from time to time.
 
 We values the privacy of information pertaining to its associates. We do not use or disclose information about your individual visits to our website or information that you may give us, such as your name, address, email address or telephone number, to any outside sources.
 
