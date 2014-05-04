@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mspidy.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630231224id_/http%3A//www.mspidy.com/privacy-and-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mspidy.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504215415id_/http%3A//www.mspidy.com/privacy-and-policy) for the most accurate reproduction.*
 
-# Privacy & Policy - Mspidy Social Networking Site gives Social Media News and Web Tips
+# Privacy & Policy - Mspidy Share Your Stories gives Social Media News and Web Tips
 
 Sign-In Information:
 
