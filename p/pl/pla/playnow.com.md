@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playnow.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819214105id_/https%3A//www.playnow.com/about-playnow/privacy.html%3FWT.ac%3DFT%7Caboutplaynow%7Cprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playnow.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504195131id_/https%3A//www.playnow.com/about-playnow/privacy.html%3FWT.ac%3DFT%7Caboutplaynow%7Cprivacy) for the most accurate reproduction.*
 
 # Privacy | PlayNow.com
 
@@ -64,7 +64,22 @@ We use a third party service provider to conduct these surveys or contests and t
 
 Communications from the Site
 
-**Special Offers, Updates**
+**Communications**
+
+Upon registration, you are given a choice to subscribe to receive communications about products, tips and promotions. You are able to change this subscription at any time under Edit Profile.
+
+**Choice/Opt-out**
+
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by:
+
+  * following the "unsubscribe" link included in each email communication
+  * selecting "No" to contact under Edit Profile on your My Account page
+  * calling PlayNow.com Customer Support at 1-877-706-6789
+  * completing the [General Feedback Form](https://web.archive.org/about-playnow/contact/feedback.html) on PlayNow.com
+
+
+
+**Special Offers and Updates**
 
 We will occasionally send you information about our Site and services, however, at any time, you may elect not to receive these types of communications. Please see the "Choice and Opt-out" section for details.
 
@@ -96,18 +111,6 @@ We may also disclose your personal information:
 
 We use other third parties such as an email or text messaging service provider to send emails and SMS (text messages) on our behalf, and a credit card processing company to bill you for services. We will share your name, email address, and financial information as necessary for the third party to provide that service.
 
-Choice/Opt-out
-
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by:
-
-  * following the "unsubscribe" link included in newsletter or communication
-  * calling Customer Support at 1-877-706-6789; or
-  * completing the [General Feedback Form](https://web.archive.org/about-playnow/contact/feedback.html) on PlayNow.com
-
-
-
-You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
-
 Information Used for Monitoring
 
 We gather certain information automatically, such as, internet protocol (IP) addresses, browser type, operating system, date/time stamp, mobile device, make and model, mobile device network operator, and clickstream data (which is data that tracks playerâs movements on the site). This information is used to monitor activity on our systems for security purposes (e.g. fraud detection) and is also used for web analytics.
@@ -118,13 +121,13 @@ Cookies
 
 A cookie is a small text file that is stored on a user's computer or mobile device for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personal information you submit while on our site.
 
-We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser whereas a persistent cookie remains on your hard drive for an extended period of time. We utilize cookies to help manage player logins, to protect against security issues and to remember player preferences. We do not set a persistent cookie to store your passwords, as we do not want anyone to be able to access your account other than you.
+We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser whereas a persistent cookie remains on your hard drive for an extended period of time. We utilize cookies to help manage player logins, to protect against security issues and to remember player preferences. We do not set a persistent cookie to store your passwords, as we do not want anyone to be able to access your account other than you. 
 
-If you reject cookies, you will not be allowed access to our site.
+If you reject cookies, you will not be allowed access to our site. 
 
 **Third Party Cookies**
 
-The use of cookies by our tracking utility company and service providers is not covered by our Privacy Policy. We do not have access or control over these cookies.
+The use of cookies by our tracking utility company and service providers is not covered by our Privacy Policy. We do not have access or control over these cookies. 
 
 Our site regularly uses Google Website Optimizer (GWO) to perform variation testing. GWO cookies are placed within site pages to determine page effectiveness in conversion. The results from this testing are used to create an improved product experience for our players. GWO does not collect personal information, only information related to the session. In the event that personal information is collected, Google requests your consent before sharing it. Further details can be found in the [Google Privacy Policy](http://www.google.com/intl/en/privacy/privacy-policy.html).
 
@@ -132,11 +135,11 @@ Clear Gifs (Web Beacons/Web Bugs)
 
 We use a third party tracking utility company to employ a software technology called clear gifs (a.k.a. Web Beacons, Web Bugs, Tracking Tags), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personal information.
 
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see "Choice and Opt-out".
+We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see "Choice and Opt-out". 
 
 Flash LSO's
 
-We use local shared objects, also known as Flash Cookies, to store your preferences (such as volume control) or to display content based upon what you view on our site to personalize your visit.
+We use local shared objects, also known as Flash Cookies, to store your preferences (such as volume control) or to display content based upon what you view on our site to personalize your visit. 
 
 Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>.
 
@@ -172,7 +175,7 @@ If your personal information changes, or if you no longer desire our service, yo
 
 
 
-We will respond to all requests within 30 days.
+We will respond to all requests within 30 days. 
 
 Security
 
@@ -182,7 +185,7 @@ When you enter sensitive information (such as a credit card number) on our order
 
 Data Retention
 
-We will retain your information for as long as your account is active or as needed to provide services to you. If you wish to cancel your account or request that we no longer use your information to provide you services, please contact Customer Support at 1-877-706-6789 or [email us](https://web.archive.org/about-playnow/contact/emailus.html). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide services to you. If you wish to cancel your account or request that we no longer use your information to provide you services, please contact Customer Support at 1-877-706-6789 or [email us](https://web.archive.org/about-playnow/contact/emailus.html). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 Changes in this Privacy Policy
 
