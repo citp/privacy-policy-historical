@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kapre.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102205014id_/http%3A//www.kapre.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kapre.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504091302id_/http%3A//www.kapre.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kaplan Real Estate Education
 
 ## Kaplan Higher Education Colleges Website and Social Media Privacy Policy / Your Privacy Rights
 
-Last Revised: December 28, 2012
+Last Revised: December 31, 2013
 
 Welcome to the Website and Social Media Privacy Policy for the Kaplan Higher Education Colleges website (the "Site"), a service operated by Kaplan, Inc. ("Kaplan," “we,” or “us”). This Privacy Policy applies only to the Site and not to other websites or services operated by Kaplan or its subsidiaries or affiliates.
 
@@ -28,11 +28,17 @@ We collect information that identifies you, such as names, postal addresses, and
 
  **Collections**
 
-A cookie is a string of information that is sent by a website and stored on your hard drive or temporarily in your computer's memory. We may employ cookie technology to identify you, track your use of the site, to help you move faster through our Site, to estimate our total audience size and traffic, and to help us improve our Site's experience by measuring which site areas are of greatest interest to users. You can turn off the ability to receive any of these cookies by adjusting the browser in your computer, but you should note that disabling cookies in your browser may also prevent other websites from placing cookies on your computer. If you do this, it may materially affect the functionality of the Site and the information you can access through it. If you wish to find out more about cookies, or how to refuse cookies, please visit the Interactive Advertising Bureau's website at [www.allaboutcookies.org](http://www.allaboutcookies.org/).  
-We collect data when you visit most pages on the Site. Your visit may automatically provide us with data about your computer, such as your IP (Internet Protocol) address, browser type, operating system, domain name, access times, and referring website addresses. Some parts of the Site may use embedded pixel or other technologies to track and facilitate your use of the Site, including the activities in which you participate or the pages you view.  
+A cookie is a string of information that is sent by a website and stored on your hard drive or temporarily in your computer's memory. We may employ cookie technology to identify you, track your use of the site, to help you move faster through our Site, to estimate our total audience size and traffic, and to help us improve our Site's experience by measuring which site areas are of greatest interest to users. You can turn off the ability to receive any of these cookies by adjusting the browser in your computer, but you should note that disabling cookies in your browser may also prevent other websites from placing cookies on your computer. If you do this, it may materially affect the functionality of the Site and the information you can access through it. If you wish to find out more about cookies, or how to refuse cookies, please visit the Interactive Advertising Bureau's website at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+We collect data when you visit most pages on the Site. Your visit may automatically provide us with data about your computer, such as your IP (Internet Protocol) address, browser type, operating system, domain name, access times, and referring website addresses. Some parts of the Site may use embedded pixel or other technologies to track and facilitate your use of the Site, including the activities in which you participate or the pages you view.
+
 We use this automated data to obtain general statistics regarding the use of the Site and its specific web pages and to evaluate how our visitors use and navigate the Site on an aggregate basis.
 
- **How We Use Your Information**
+Please note that our site uses Google Analytics and may collect information while you are using our site, which may be used to direct specific advertising upon your return to any of our websites.
+
+Should you wish to learn more about Google remarketing processes you may click on this link: <http://www.google.com/ads/innovations/remarketing.html>
+
+**How We Use Your Information**
 
 We may use the information we collect about you in connection with providing services offered on the Site, including in the following ways:
 
