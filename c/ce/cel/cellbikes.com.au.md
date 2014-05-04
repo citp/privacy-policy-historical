@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cellbikes.com.au privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219003034id_/http%3A//www.cellbikes.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellbikes.com.au privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505011553id_/http%3A//www.cellbikes.com.au/Privacy) for the most accurate reproduction.*
 
-# CELL Bikes Privacy Policy
+# Privacy
 
 Keeping your information private is something that CELL Bikes is absolutely committed to. We want you to visit our site regularly, with complete confidence and without any unanswered questions. We want to share our privacy policy with you so that you know exactly how we gather information and what we do (and don't do) with that information. This just seems like common courtesy to us.
 
