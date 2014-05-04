@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hammacher.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111052125id_/http%3A//www.hammacher.com/Editorial/Privacy-Policy%3Fpromo%3Dft_cs_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hammacher.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504083642id_/http%3A//www.hammacher.com/Editorial/Privacy-Policy%3Fpromo%3Dft_cs_privacy) for the most accurate reproduction.*
 
 # CS-Privacy-Policy - Hammacher Schlemmer
 
@@ -26,8 +26,8 @@ We will periodically send to your street or e-mail address product news and upda
 If you do not wish to receive promotional postal and/or e-mail updates from Hammacher Schlemmer, or if you prefer that we not share your postal address with other merchants please do one of the following:  
 
 
-  *  **Phone:** Contact a Customer Service associate 24 hours a day, 7 days a week. Please call Toll-Free 1-800-321-1484
-  *  **Email:** Send us an email and we'll reply within 1 Business Hour! [customerservice@hammacher.com](mailto:customerservice@hammacher.com)
+  * **Phone:** Please call Toll-Free 1-800-321-1484 to speak to a Customer Service associate between 8AM to Midnight, Eastern time.
+  * **Email:** Send us an email and we'll reply within 1 Business Hour! [customerservice@hammacher.com](mailto:customerservice@hammacher.com)
   *  **Write:** Send us a letter to 9180 Le Saint Drive; Fairfield, Ohio 45014-5475
 
 
@@ -40,7 +40,7 @@ When you request a gift message with your order, we do not use the information c
 
 ## Sharing with A Friend
 
-When you e-mail a message to a friend from Hammacher.com using the AddThis functionality, your e-mail address and your friend?s are both required. This ensures that your friend will know that we have sent the e-mail message at your request. E-mails obtained for the "Tell a Friend" service are only used for this purpose, and then discarded.
+When you e-mail a message to a friend from Hammacher.com using the Add This functionality, your e-mail address and your friends are both required. This ensures that your friend will know that we have sent the e-mail message at your request. E-mails obtained for the "Tell a Friend" service are only used for this purpose, and then discarded.
 
 ## Catalog Requests & E-mail Updates
 
