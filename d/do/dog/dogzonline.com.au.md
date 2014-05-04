@@ -1,8 +1,15 @@
-> *The following text is extracted and transformed from the dogzonline.com.au privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122012344id_/http%3A//www.dogzonline.com.au/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogzonline.com.au privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505003808id_/http%3A//www.dogzonline.com.au/privacy-policy.asp) for the most accurate reproduction.*
 
 # Dogz Online - The Pure Breed Dog Community of Australia
 
 **Navigation** >> [Home](https://web.archive.org/) >> Privacy Policy 
+
+These terms and conditions apply to the use of the following web sites 
+
+  * **[www.dogzonline.com.au](http://www.dogzonline.com.au/)**
+  * **[www.dolforums.com.au](http://www.dolforums.com.au/)**
+
+
 
 **Introduction**  
 At Dogz Online, we respect your privacy. We want to maintain your confidence in our handling of any data and information that is collected during your visit to our web site. We have developed and provided this Privacy Policy to inform you of our practices and policies regarding the collection, use, maintenance, and disclosure of your personal data and information. 
@@ -53,6 +60,6 @@ For all e-commerce transactions, we use industry-standard commercial encryption 
 **Changes to this Privacy Policy**  
 Due to changing technological and marketing demands, we reserve the right to change our policies regarding the privacy of your personally identifiable information in the future. If that happens, we will endeavor to promptly update this Privacy Policy. We may also attempt to provide a message to our members whose e-mail addresses we have, in conformity with this Privacy Policy, advising of any such change(s). Your continued use of the web site following changes to this policy will indicate that you accept the changes. 
 
-All content copyright Dogz Online Pty Ltd © 2013  
+All content copyright Dogz Online Pty Ltd © 2014  
 [Privacy Policy](https://web.archive.org/privacy-policy.asp) | [Web Site Terms and Conditions](https://web.archive.org/disclaimer.asp)  
  
