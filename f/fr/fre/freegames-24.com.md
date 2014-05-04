@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegames-24.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103200737id_/http%3A//www.freegames-24.com/index.php%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegames-24.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505010655id_/http%3A//www.freegames-24.com/index.php%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
 
 # Privacy Policy - Free Games
 
