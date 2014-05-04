@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the digitalsherpa.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123193928id_/http%3A//digitalsherpa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalsherpa.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504134239id_/http%3A//www.digitalsherpa.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | DigitalSherpa
 
-Network Communications, Inc. is committed to safeguarding your privacy online whenever you use any of our websites, including (but not limited to) LivingChoices.com. We encourage you to review the following privacy policy so that you may understand how your personal information will be treated as you make full use of our many offerings.
+Network Communications, Inc. is committed to safeguarding your privacy online whenever you use any of our websites. We encourage you to review the following privacy policy so that you may understand how your personal information will be treated as you make full use of our many offerings.
 
-**What personally identifiable information about me do you collect?**  
+What personally identifiable information about me do you collect?  
 We may collect different types of information in several different ways from our websites.
 
 As an initial matter, you may browse our websites without submitting any personal information. If you choose to take advantage of some of our specific products and services that are available only to registered users, however, you will be asked to register with us. As part of your registration, we may ask for personally identifiable information, such as your name, address, email address, birth date, gender, occupation, industry, family information, and personal interests. The more information you volunteer (and the more accurate it is), the better we are able to customize your experience on our sites. We keep all of your personally identifiable information in secure online and offline facilities. Once you register, your use of our websites will no longer be anonymous and you will be able to take full advantage of the many specialized offerings on our websites.
@@ -13,7 +13,7 @@ In addition to registration, we may ask you for personal information at other ti
 
 Finally, our sites also may contain links and advertisements to other Websites that are operated by other companies or persons. Therefore, we do not control the privacy policies of those sites. This Policy statement only applies to information collected and maintained by us.
 
-**What are cookies and how do you use them?**  
+What are cookies and how do you use them?  
 As part of offering and providing customizable and personalized services, we use cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer’s hard drive. Some of these cookie files will be stored on your hard drive even after you close your browser and other files may be temporary files that will be deleted when you close your Internet browser. We will not, however, attempt to read any cookies or files that may be on your computer, including cookies that may have been placed on your computer by other websites that you may have visited.
 
 Generally, we use cookies to:  
@@ -22,27 +22,27 @@ Generally, we use cookies to:
 (3) Track your progress and number of entries in some of our promotions, sweepstakes, and contests. When one of the promotions that we host uses cookies, the information written to the cookie may be used to indicate the player’s progress through the promotion, and may be used to track entries, submissions, and status in prize drawings.  
 (4) Measure certain traffic patterns, such as which areas of our websites you have visited and your visiting patterns. This information, however, is only gathered in aggregate form – that is, this aggregated information is not linked to any personal information that can identify any individual person. We use this research to understand how our users’ habits are similar or different from one another so that we can make each new experience on our sites a better one. We may use this information to better personalize the content, banners, and promotions that you and other users will see on our sites.
 
-**Third Party Advertisers and Cookies**  
-We use third-party companies to serve ads when you visit our websites. These companies may use information (not including your name, address, email address or telephone number) about your visits to our websites in order to provide advertisements on our websites, other sites and other forms of media about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
+Third Party Advertisers and Cookies  
+We use third-party companies to serve ads when you visit our websites. These companies may use information (not including your name, address, email address or telephone number) about your visits to our websites in order to provide advertisements on our websites, other sites and other forms of media about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here.
 
-**How do you use my information?**  
+How do you use my information?  
 Our primary goal in collecting personally identifiable and other information is to provide you, the user, with a customized experience on our websites. This includes personalization services and many other types of services. By knowing a little about you, we are able to deliver more relevant advertisements and content, and hence a better and more valuable service, to you. For example, the more we know about the type of home or community in which you are interested, the more appropriate information we can deliver to you.
 
 In our role of delivering targeted advertisements, we play the middleman. Advertisers give us an advertisement and tell us the type of audience they want to reach (for example, males over 35 years old). We and/or our advertising server agency take the advertisement and display or transmit it to users meeting those criteria. In this process, the advertiser never has access to individual account information. Only we have access to individuals’ accounts. This kind of advertisement targeting is done with banner ads, as well as by promotional emails. You will only receive special offers via email from us if you have indicated in your account preferences that you would like to receive them. Of course, you may review or change your account preferences at any time.
 
 In addition, we do research on our users’ demographics, interests, and behavior based on the information provided to us upon registration, during a promotion, from our server log files, or from surveys. We do this to better understand and serve our users. This research is compiled and analyzed on an aggregated basis and may be shared with advertisers or business partners. We also collect IP addresses for system administration and to report aggregate, nonpersonally identifiable information to our advertisers and partners. For this purpose, no personally identifiable information will be linked to any information that can identify any individual person.
 
-**Who besides you is collecting my information?**  
+Who besides you is collecting my information?  
 When you are on any of our websites and are asked for personal information, you are sharing that information with us alone, unless it is specifically stated otherwise. Some of our services, however, may be offered in conjunction with a partner company. In order to provide this co-branded service to you, it may be necessary for us to share your personal information with our partner company. For example, if you want to receive information about a community from a builder, we may send your personally identifiable information to that builder so that it can fulfill your request.
 
 In addition, promotions that run on our websites also may be sponsored by companies other than us or may be cosponsored by us and another company. Some or all data collected during a promotion may be shared with the sponsor. If data from your entry will be shared, you will be notified prior to the time of data collection. You can decide not to participate in the promotion if you do not want to share your information.
 
-**What happens when I click on a link from your one of your sites?**  
+What happens when I click on a link from your one of your sites?  
 As a convenience, our websites contain links and advertisements to other sites that may not be controlled by, or affiliated or associated with, us. Accordingly, we do not make any representations concerning the privacy practices or terms of use of such sites, nor do we control or guarantee the accuracy, integrity, or quality of the information, data, text, software, music, sound, photographs, graphics, video, messages, or other materials available on such sites. We encourage you to view the privacy policy and terms of use of any sites that you may visit. Additionally, the inclusion or exclusion of links or advertisements on our sites does not imply any endorsement by us of the sites, the site’s provider, or the information on the sites.
 
 Specifically, please be aware that our partners, advertisers, and other websites that have links on our sites may collect personally identifiable information about you. The information practices of those partners, advertisers, and other Websites linked to our sites are not covered by this Policy.
 
-**With whom do you share my information?**  
+With whom do you share my information?  
 As a general rule, we will not disclose any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or as specifically set forth in this Policy. Please see the Terms of Use for each of our products and services for more detailed information about how your personal information may be shared. The following describes some of the ways that your information may be disclosed.
 
 Many promotions also may offer opportunities for you to request additional information from sponsors. By requesting more information, you give us permission to transfer your personal information to the sponsor so they can fulfill your request.
@@ -53,7 +53,7 @@ Third Party Data and Aggregated Data: Under confidentiality agreements, we may m
 
 Other: We may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be violating our Terms of Use or may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, the rights of our users or other parties, or anyone else that could be harmed by such activities. We may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services. We also may disclose your personally identifiable information in connection with the sale of our company’s business or assets.
 
-**What are my choices regarding your collection, use, and distribution of my information?**  
+What are my choices regarding your collection, use, and distribution of my information?  
 We may, from time to time, send you email regarding our products and services. In addition, if you indicated upon registration that you are interested in receiving offers or information from our partners and us, we may occasionally send you direct mail about products and services that we feel may be of interest to you. Only we (or companies with whom we contract and who agree to keep your information confidential) will prepare these direct mailings and only if you indicated that you do not object to receiving these offers. If you do not want to receive or continue receiving such mailings, simply tell us when you give us your personal information or change your account preferences.
 
 On some of our promotions, we will ask for your email address in order to update you on your score, entries, and status in prize drawings. When you participate in these types of promotions, you automatically receive promotion-related email, unless you choose the no-email option that some promotions offer. Occasionally these promotion-related email messages may include targeted advertisements. You may also be required to provide personally identifiable information to collect your prize when you win one of our promotions or contests.
@@ -62,23 +62,23 @@ You also have choices with respect to cookies. By modifying your Internet browse
 
 You also may edit your personally identifiable information by following the instructions found in your account preferences.
 
-You may also request that we delete or deactivate your account at any time, but doing so will result in not being able to access certain areas of our Websites. Please contact us at [webmaster@livingchoices.com](mailto:webmaster@livingchoices.com) for further instructions about deleting or deactivating your account with us. It may take us a few days to delete or deactivate your account following your request and we may maintain certain residual information about your account in our archives.
+You may also request that we delete or deactivate your account at any time, but doing so will result in not being able to access certain areas of our Websites. Please contact us at webmaster@livingchoices.com for further instructions about deleting or deactivating your account with us. It may take us a few days to delete or deactivate your account following your request and we may maintain certain residual information about your account in our archives.
 
-If you are participating in one of our promotions and you wish to update your email address for the promotions mailing list or to stop participating in one of the promotions, please contact us at [webmaster@livingchoices.com](mailto:webmaster@livingchoices.com).
+If you are participating in one of our promotions and you wish to update your email address for the promotions mailing list or to stop participating in one of the promotions, please contact us at webmaster@livingchoices.com.
 
 Again, remember, you can review or modify your account preferences at any time.
 
-**How do you protect my personal financial information?**  
+How do you protect my personal financial information?  
 Keeping your personal financial information private is vitally important to us.
 
 Knowing that you use certain services or features may help us to offer you better and more relevant content and advertisements. But as with all personally identifiable information, we do not make this available to any third parties except as set forth in this Policy. Any user statistics that we may provide to prospective advertisers or partners regarding financial information are provided in the aggregate only and do not include any personally identifiable information linked to any individual user.
 
-**What security precautions are in place to protect the loss, misuse, or alteration of my information?**  
+What security precautions are in place to protect the loss, misuse, or alteration of my information?  
 Your account information on our Websites is password-protected so that you and only you have access to this personal information. Therefore, we recommend that you do not divulge your password to anyone and that you chose a password that only you know. We will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also remember to sign out of your account and close your browser window when you have finished your visit to our Websites. These practices will help ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place such as a library or Internet cafe. If you use a public computer, you may also wish to delete any temporary or other files that may have been created during your visit on our sites.
 
 Unfortunately, it is not possible for data transmissions over the Internet or wireless networks, or for any security precautions, to be guaranteed 100 percent secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
 
-**What about my child’s privacy?**  
+What about my child’s privacy?  
 The safety of children is very important to us. We maintain general audience websites that are designed for use by adults and that comply with the Children’s Online Privacy Protection Act. Specifically, we do not knowingly collect information from users under age 13.
 
 We encourage parents to create a safe place for children on the Internet. Parental control protections (such as computer hardware, software or filtering services) are commercially available that may assist parents in limiting access to content that may be harmful to minors. We also encourage parents to monitor their child’s use of the Internet and teach them not to disclose any personally identifiable information (including their age, appearance, school, grade, etc.) about themselves in emails, chat rooms, or on other sites, except with your knowledge and approval.
@@ -86,7 +86,7 @@ We encourage parents to create a safe place for children on the Internet. Parent
 Where can you get additional information about us or our websites?  
 Our websites are owned and operated by Network Communications, Inc., 2 Sun Court NW, Suite 300, Norcross, GA 30092. For further information about our company, please visit our company’s website.
 
-**Orders for Products and Services.**  
+Orders for Products and Services.  
 We may make certain products available to visitors and registrants of the website. If you order any products, you hereby represent and warrant that you are 18 years old or older. You agree to pay in full the prices for any purchases you make either by credit/debit card concurrent with your online order or by other payment means acceptable to Network Communications, Inc.. You agree to pay all applicable taxes. If payment is not received by us from your credit or debit card issuer or its agents, you agree to pay all amounts due upon demand by us. Certain products that you purchase and/or download on or through the website may be subject to additional terms and conditions presented to you at the time of such purchase or download.
 
-Additionally, if you have any questions about this Privacy Policy, please contact [webmaster@livingchoices.com](mailto:webmaster@livingchoices.com)
+Additionally, if you have any questions about this Privacy Policy, please contact webmaster@livingchoices.com
