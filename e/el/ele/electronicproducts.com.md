@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electronicproducts.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211073645id_/http%3A//www.electronicproducts.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronicproducts.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505005658id_/http%3A//www.electronicproducts.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Electronic Producs
 
@@ -64,7 +64,7 @@ The sites covered by this policy are not intended for use by children, especiall
 
 If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should instruct minors on safe Internet usage. 
 
-If you’re worried about your children’s activities or their privacy on our site, we encourage you to e-mail HEG at [ EPprivacy@hearst.com](mailto:EPprivacy@hearst.com). 
+If you’re worried about your children’s activities or their privacy on our site, we encourage you to e-mail HEG at [EPprivacy@hearst.com](mailto:EPprivacy@hearst.com). 
 
 Non-U.S. Users  
 If you are located outside of the United States, please note that the information you provide to us will be transferred to the United States. By using this web site, you consent to this transfer. 
