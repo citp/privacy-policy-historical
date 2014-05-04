@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fookgle.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109183827id_/http%3A//www.fookgle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fookgle.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504205222id_/http%3A//www.fookgle.com/privacy) for the most accurate reproduction.*
 
-# privacy policy Porn - Free Movies
+# Fookgle Porn - privacy policy
 
 PRIVACY POLICY
 
