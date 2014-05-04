@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imscalable.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930030521id_/http%3A//imscalable.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imscalable.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504213633id_/http%3A//imscalable.com/blog/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy |
 
 IMScalable is committed to protecting individual privacy and securing the personal information made available to us when you visit IMScalable.com and our partner sites, as well IMScalable pages on other sites (such as our profiles on social networks).
 
