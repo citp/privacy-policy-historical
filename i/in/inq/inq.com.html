@@ -1,92 +1,29 @@
-<!--The following is the downloaded HTML source of the inq.com privacy policy that was archived on 2013-10-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131031014607id_/http%3A//www.touchcommerce.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the inq.com privacy policy that was archived on 2014-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140505093305id_/http%3A//www.touchcommerce.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=9">
-    <title>Privacy</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" id="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=10.0,initial-scale=1.0">
+    <title>TouchCommerce Privacy Policy</title>
+
+    <link rel="SHORTCUT ICON" href="/Content/images/favicon-trans.ico">
+
+    <link href="/styles/css?v=1WEX0Y5jG_FqsdNzZxBlPXzReW-C8k5IF6zKk2TUbDc1" rel="stylesheet">
+
+    <script src="//www.youtube.com/iframe_api"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/bundles/jquery?v=9yrONOnGegmvraC7zZtkxEwyEt2JcHcBICRo1lW1X7g1"></script>
+
+    <script src="/bundles/common?v=krn69-nfU50AYCYpzr8vFKIO9srcpttiFJ2MYVEEOYk1"></script>
+
+    <script src="/bundles/jqueryval?v=v2z4Z8qXYF6JsuzzQtx0LtcGD7Um7k1RcQLNLYyA-NE1"></script>
+
+    <script src="/scripts/common?v=dTM_ulTGsF9pWoqRx2e-XvCqVgxLpswCcb9i5Hx-vN01"></script>
+
+    
 
 <meta http-equiv="content-language" content="en-us">
 <meta name="generator" content="Agility CMS">
-<meta name="agility_timestamp" content="2013/10/30 09:46:08 PM"><meta name="agility_attributes" content="Mode=Live, IsPreview=False, Language=en-us, Machine=RD00155D323896">
-    <link href="/Content/all.css" rel="stylesheet" type="text/css">
-    <!--[if lt IE 8]><link rel="stylesheet" href="/Content/ie.css" type="text/css" media="all"><![endif]-->
-    <!--[if lt IE 7]><link  rel="stylesheet" href="/Content/dropdown_ie6.css" type="text/css" media="screen,  projection" /><![endif]-->
-    <link rel="shortcut icon" type="image/x-icon" href="/Content/images/favicon.ico">
-    <script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/Scripts/jquery-1.5.1.min.js" type="text/javascript"></script>
-    <script src="/Scripts/JSON.js" type="text/javascript"></script>
-    <script src="/Scripts/jquery.carouFredSel-6.2.0.js" type="text/javascript"></script>
-    <script src="/Scripts/Agility.js" type="text/javascript"></script>
-    <script src="/Scripts/Agility.UGC.API.js" type="text/javascript"></script>
-    <script src="/Scripts/FeaturedClientRotator.js" type="text/javascript"></script>
-    <script src="/demo/js/autodemo.js" type="text/javascript"></script>
-    <script type="text/javascript">
-        $(document).ready(function () {
+<meta name="agility_timestamp" content="2014/05/05 05:33:07 AM"><meta name="agility_attributes" content="Mode=Live, IsPreview=False, Language=en-us, Machine=RD00155D323896">
 
-            $('#navigation ul li.with-drop').hover(function () {
-                var dropdown = $(this).find('.drop-down');
-                dropdown.show();
-
-                var currentLeft;
-                var newLeft;
-
-                var offsetLeft = Math.ceil(dropdown.offset().left);
-                if (offsetLeft < 0) {
-                    currentLeft = (Number(dropdown.css("left").replace("px", "")));
-                    newLeft = (currentLeft + Math.abs(offsetLeft)) + "px";
-                    dropdown.css("left", newLeft);
-                } else {
-                    var offsetRight = offsetLeft + dropdown.width();
-                    var viewportWidth = $(window).width();
-
-                    if (offsetRight > viewportWidth) {
-                        currentLeft = (Number(dropdown.css("left").replace("px", "")));
-                        newLeft = (currentLeft - (offsetRight - viewportWidth)) + "px";
-                        dropdown.css("left", newLeft);
-                    }
-                }
-
-            }, function () {
-                $(this).find('.drop-down').hide();
-            });
-
-            GetLatestTweet();
-        });
-
-        function GetLatestTweet() {
-
-            var container = $(".latest-tweet");
-            if (container.length > 0) {
-
-                var twitterHandle = "touchcommerce";
-                var numberOfTweets = 1;
-
-                if ((twitterHandle.length > 0) && !isNaN(numberOfTweets)) {
-
-                    var twitterApiUrl = "https://api.twitter.com/1/statuses/user_timeline.json?callback=?&include_entities=true&include_rts=true&screen_name=" + twitterHandle + "&count=" + numberOfTweets;
-
-                    $.getJSON(twitterApiUrl, function(data) {
-
-                        var html = "";
-                        $.each(data, function(index, item) {
-
-                            var text = item.text;
-                            $.each(item.entities.urls, function(urlIndex, urlEntity) {
-                                text = text.replace(urlEntity.url, "<a href=\"" + urlEntity.url + "\" target=\"_blank\" class=\"n-title\">" + urlEntity.display_url + "</a>");
-                            });
-                            $.each(item.entities.user_mentions, function(userIndex, user) {
-                                text = text.replace(new RegExp("@" + user.name, "i"), "<a href=\"http://www.twitter.com/" + user.name + "\" target=\"_blank\" class=\"n-title\">@" + user.name + "</a>");
-                            });
-                            html += text;
-                        });
-
-                        container.html(html);
-                    });
-                }
-            }
-        }
-        
-    </script>
 
 <script type="text/javascript">
      var _gaq = _gaq || [];
@@ -99,734 +36,1669 @@
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
 </script>
-        
-        
-        <script>
-            var _prum = [['id', '51a63f53abe53ddb52000000'],
-                ['mark', 'firstbyte', (new Date()).getTime()]];
-            (function () {
-                var s = document.getElementsByTagName('script')[0]
-                    , p = document.createElement('script');
-                p.async = 'async';
-                p.src = '//rum-static.pingdom.net/prum.min.js';
-                s.parentNode.insertBefore(p, s);
-            })();
-        </script>
-    </head>
 
-    <body>
-        <div id="header">
-            
-<div class="shell">
-    <h1 id="logo" class="left"><a href="/" title="TouchCommerce - Partnering For Results">TouchCommerce</a></h1>
-    <div class="right-part right">
-        <div id="inqC2CImgContainer"></div>
-        <div id="inqC2C3ImgContainer" style="z-index: 100; position: fixed; top: 280px; right: 0;"></div>
-        <ul class="social-list">
-            <li><a href="http://twitter.com/TouchCommerce" target="_blank" title="http://twitter.com/TouchCommerce" class="twitter">&nbsp;</a></li>
-            <li><a href="http://www.linkedin.com/company/touchcommerce" target="_self" title="http://www.linkedin.com/company/touchcommerce" class="linkedin">&nbsp;</a></li>
-            <li><a href="/ecmsrss.aspx/Blogs" target="_blank" title="~/ecmsrss.aspx/Blogs" class="rss">&nbsp;</a></li>
-        </ul>
-        <p class="right"><style type="text/css">
-    h6 { float:left; padding-top: 4px; margin-left: 23px; }
-    h6 a { margin-left: 5px; }
-</style>
-</p><h6>
-<a href="/francais" title="Francais">
-<img alt="" src="http://touch-commerce-880c4ca5.s3.amazonaws.com/images/flags/france-icon.jpg">
-</a>
-<a href="/deutsch" title="Deutsch">
-<img alt="" src="http://touch-commerce-880c4ca5.s3.amazonaws.com/images/flags/german-icon.jpg">
-</a>
-<a href="/espanol" title="Espanol">
-<img alt="" src="http://touch-commerce-880c4ca5.s3.amazonaws.com/images/flags/spain-icon.jpg">
-</a></h6><p></p>		
-    </div>
-	<div class="cl">&nbsp;</div>
-</div>
-<!-- Navigation -->
-<div id="navigation">
-	<div class="shell">
-		<ul>
-			<li><a href="/" class="home"><span>&nbsp;</span></a></li>
-                    <li class="with-drop">
-					    <a href="/solutions-increase-conversion-rates">Solutions</a>
-                            <div class="drop-down">
- 					            <div class="white-box left">
- 						            <div class="l-part">
-						                 <div class="top-line">
-						                     <span>
-						                         <a href="http://www.touchcommerce.com/solutions-increase-conversion-rates" target="_self">Lifecycle Solutions</a>
-						                     </span>
-						                 </div>
-                                             <div class="text-holder">
-                                                 <ul class="outer-list">
-    <li class="main-elem"><a href="/solutions-increase-conversion-rates/touchsell-ecommerce-acquisition-solutions">TouchSell™</a></li>
-    <li><a href="/solutions-increase-conversion-rates/touchsell-ecommerce-acquisition-solutions/product-discovery-tools-help">Product Discovery</a></li>
-    <li><a href="/solutions-increase-conversion-rates/touchsell-ecommerce-acquisition-solutions/lead-management-tools-crm">Lead Capture</a></li>
-    <li><a href="/solutions-increase-conversion-rates/touchsell-ecommerce-acquisition-solutions/purchase-optimization-acquisition">Purchase Optimization</a></li>
-    <p>&nbsp;</p>
-    <li class="main-elem"><a href="/solutions-increase-conversion-rates/touchcare-care-solution-tools">TouchCare™</a></li>
-    <li><a href="/solutions-increase-conversion-rates/touchcare-care-solution-tools/account-maintenance-tools-maintenance">Account Management</a></li>
-    <li><a href="/solutions-increase-conversion-rates/touchcare-care-solution-tools/customer-support-inquiries-training">Customer Support</a></li>
-    <li><a href="/solutions-increase-conversion-rates/touchcare-care-solution-tools/customer-growth-onboarding-renewals">Customer Growth</a></li>
-</ul>
-<p>&nbsp;</p>
-                                             </div>
-						            </div>
-						            <div class="r-part">
-							            <div class="top-line">
-							                <span>
-							                    Vertical Solutions
-							                </span>
-	 						            </div>
-							            <div class="text-holder">
-								            <span class="orange-title">Vertical Expertise</span>
-<ul><span class="orange-title">
-    <li><a href="/solutions-increase-conversion-rates/industry-pay-for-performance/direct-response">Direct Response</a></li>
-    <li><a href="/solutions-increase-conversion-rates/industry-pay-for-performance/financial-services">Financial Services</a></li>
-    <li><a href="/solutions-increase-conversion-rates/industry-pay-for-performance/retail">Retail</a></li>
-    <li><a href="/solutions-increase-conversion-rates/industry-pay-for-performance/travel-hospitality">Travel &amp; Hospitality</a></li>
-    <li><a href="/solutions-increase-conversion-rates/industry-pay-for-performance/telecommunications-cable">Telecom &amp; Media</a></li>
-    <li><a href="/solutions-increase-conversion-rates/industry-pay-for-performance/other-industries">Other Industries</a></li>
-    </span></ul>
-    <span class="orange-title">Customer Acquisition</span>
-    <img align="right" alt="target customers" src="http://touch-commerce-880c4ca5.s3.amazonaws.com/images/blue-target-customers.jpg" style="float: right;">
-    <p>With our solutions, clients can target the right visitor with the right message at the right time.<a href="/solutions-increase-conversion-rates/touchsell-ecommerce-acquisition-solutions">Learn about TouchSell™ &gt;&gt;</a></p>
-    <span class="orange-title">Customer Care</span>
-    <p>Promote customer self-service and call center deflection while improving CSAT with&nbsp;<a href="/solutions-increase-conversion-rates/touchcare-care-solution-tools">Learn about TouchCare™ &gt;&gt;</a></p>
-    <ul>
-    </ul>
-							            </div>
-						            </div>
- 					            </div>
-                                <div class="video-holder">
-                                    <div class="top-line">
-                                        <span class="title">
-                                            Demo Videos
-                                        </span>
-                                    </div>
-							        <div class="text-holder">
-                                        <div class="video">
-<a href="/about-touchcommerce/touchsell-demo.aspx"><img alt="" width="100" height="70" src="http://touch-commerce-880c4ca5.s3.amazonaws.com/images/Touchsell-demo-video.jpg" frameborder="0"></a><span class="video-title">TouchSell Solution</span></div>
-<div class="video">
-<a href="/about-touchcommerce/touchcare-demo.aspx"><img alt="" width="100" height="70" src="http://touch-commerce-880c4ca5.s3.amazonaws.com/images/Touchcare-demo-video.jpg" frameborder="0"></a><span class="video-title">TouchCare Solution</span></div>
-                                    </div>
-                                </div>
-				            </div>  
-                    </li>
-                    <li class="with-drop">
-					    <a href="/customer-engagement-tools">Platform</a>
-                            <div class="drop-down">
- 					            <div class="white-box left">
- 						            <div class="l-part">
-						                 <div class="top-line">
-						                     <span>
-						                         RightTouch Features
-						                     </span>
-						                 </div>
-                                             <div class="text-holder">
-                                                 <ul class="outer-list">
-    <li class="main-elem"><a href="/customer-engagement-tools/engagement-products-tools">Live-Agent Engagement </a></li>
-    <li><a href="/customer-engagement-tools/engagement-products-tools/touchchat-proactive-reactive-chat">TouchChat</a></li>
-    <li><a href="/customer-engagement-tools/engagement-products-tools/touchvoice-click-to-call">TouchVoice</a></li>
-    <li><a href="/customer-engagement-tools/engagement-products-tools/touchbrowse-cobrowse">TouchBrowse</a></li>
-    <p>&nbsp;</p>
-    <li class="main-elem"><a href="/customer-engagement-tools/self-service-engagement-products-tools">Self-Service Engagement </a></li>
-    <li><a href="/customer-engagement-tools/self-service-engagement-products-tools/touchguides-automated-solutions">TouchGuides</a></li>
-    <li><a href="/customer-engagement-tools/self-service-engagement-products-tools/touchcontent-web-content-display">TouchContent</a></li>
-    <li><a href="/customer-engagement-tools/self-service-engagement-products-tools/touchsurvey-customer-feedback">TouchSurvey</a></li>
-    <p>&nbsp;</p>
-</ul>
-                                             </div>
-						            </div>
-						            <div class="r-part">
-							            <div class="top-line">
-							                <span>
-							                    RightTouch Technology
-							                </span>
-	 						            </div>
-							            <div class="text-holder">
-								            <p>Our RightTouch™ platform enables chat, call, content, guides, co-browse and surveys, but it excels at so many other things. <a href="/customer-engagement-tools/technology-admin-tools/right-touch-technology">More about RightTouch &gt;&gt;</a></p>
-<span class="orange-title">Mobile: Enabling Multi-Device Delivery<img alt="" align="right" src="http://touch-commerce-880c4ca5.s3.amazonaws.com/images/mobile-shopping-cart.jpg" style="width: 80px; height: 83px; float: right;"></span>
-<p>Consumers are always connected. Engage them wherever they are.&nbsp;<a href="/client-success/technology-data-sheets/mobile-conversion-data-sheet">More about mobile &gt;&gt;</a></p>
-<span class="orange-title">Big Data Analytics</span>
-<p>Touch Commerce has tamed Big Data Analytics. We turn analytics into action!&nbsp;<a href="/customer-engagement-tools/technology-admin-tools/data-warehouse-big-data">More about Big Data&gt;&gt;</a></p>
-							            </div>
-						            </div>
- 					            </div>
-                                <div class="video-holder">
-                                    <div class="top-line">
-                                        <span class="title">
-                                            See our Solutions
-                                        </span>
-                                    </div>
-							        <div class="text-holder">
-                                        <div class="video">
-<a href="/client-success/videos/efficiency-of-chat.aspx"><img alt="" width="100" height="70" frameborder="0" src="http://touch-commerce-880c4ca5.s3.amazonaws.com/images/1video-small-efficiency-dan.jpg">
-</a><span class="video-title">Chat Efficiency</span>
-</div>
-<div class="video">
-<a href="/client-success/videos/pay-for-performance.aspx"><img alt="" src="http://touch-commerce-880c4ca5.s3.amazonaws.com/images/1video-small-p4p-jessica.jpg">
-</a><span class="video-title">Results. Guaranteed.</span>
-</div>
-<div class="video"><br>
-</div>
-                                    </div>
-                                </div>
-				            </div>  
-                    </li>
-                    <li class="with-drop">
-					    <a href="/services-to-increase-incremental-revenue">Managed Services</a>
-                            <div class="drop-down">
- 					            <div class="white-box left">
- 						            <div class="l-part">
-						                 <div class="top-line">
-						                     <span>
-						                         Services Offered
-						                     </span>
-						                 </div>
-                                             <div class="text-holder">
-                                                 <ul class="outer-list">
-    <li class="main-elem"><a href="/services-to-increase-incremental-revenue/implementation-services-custom">Implementation Services</a></li>
-    <li class="main-elem"><a href="/services-to-increase-incremental-revenue/program-optimization-design">Program Optimization</a></li>
-    <li class="main-elem"><a href="/services-to-increase-incremental-revenue/agent-workforce-optimization">Client Agent Workforce Optimization</a></li>
-    <li class="main-elem"><a href="/services-to-increase-incremental-revenue/agent-operations-management">Agent Operations Management</a></li>
-    <li class="main-elem"><a href="/services-to-increase-incremental-revenue/voice-of-the-customer">Voice of the Customer</a></li>
-    <li class="main-elem"><a href="/services-to-increase-incremental-revenue/custom-integration-services">Custom Integration</a></li>
-    <img alt="" src="http://touch-commerce-880c4ca5.s3.amazonaws.com/images/long-blue-line-good.jpg">
-    <li class="main-elem"><a href="/solutions-increase-conversion-rates/touchsell-touchcare-pricing-plans">Pricing Model</a></li>
-</ul>
-                                             </div>
-						            </div>
-						            <div class="r-part">
-							            <div class="top-line">
-							                <span>
-							                    Increase Revenue &amp; Insight
-							                </span>
-	 						            </div>
-							            <div class="text-holder">
-								            <span class="orange-title">Voice of the Customer Drives Revenue</span>
-<p>TouchCommerce analyzes your customer feedback to present actionable recommendations for site optimization. <a href="/services-to-increase-incremental-revenue/voice-of-the-customer">Read more about VOC &gt;&gt;</a></p>
-<span class="orange-title">Conversion Marketing Solutions</span>
-<p>RightTouch deploys and manages multiple conversion solutions which allows marketers to design personalized customer experiences to deliver exponential increases in conversion and revenue. <a href="/solutions-increase-conversion-rates">Read about our Solutions &gt;&gt;</a></p>
-							            </div>
-						            </div>
- 					            </div>
-                                <div class="video-holder">
-                                    <div class="top-line">
-                                        <span class="title">
-                                            How We Partner
-                                        </span>
-                                    </div>
-							        <div class="text-holder">
-                                        <div class="video">
-<a href="/client-success/videos/voice-of-the-customer.aspx"><img alt="" width="100" height="70" frameborder="0" src="http://touch-commerce-880c4ca5.s3.amazonaws.com/images/1video-small-VOC-zareh.jpg">
-</a><span class="video-title">VOC</span>
-</div>
-<div class="video">
-<a href="/client-success/videos/services"><img alt="" width="100" height="70" frameborder="0" src="http://touch-commerce-880c4ca5.s3.amazonaws.com/images/1video-small-managed-services-ardie.jpg">
-</a><span class="video-title">Services Explained</span>
-</div>
-                                    </div>
-                                </div>
-				            </div>  
-                    </li>
-                    <li class="with-drop">
-					    <a href="/client-success">Client Success</a>
-                            <div class="drop-down">
- 					            <div class="white-box left">
- 						            <div class="l-part">
-						                 <div class="top-line">
-						                     <span>
-						                         Client Resources
-						                     </span>
-						                 </div>
-                                             <div class="text-holder">
-                                                 <ul class="outer-list">
-    <li class="main-elem"><a href="/client-success/case-studies">Case Studies</a></li>
-    <li class="main-elem"><a href="/client-success/testimonials">Client Testimonials</a></li>
-    <li class="main-elem"><a href="/client-success/client-samples">Client Samples</a></li>
-    <li class="main-elem"><a href="/client-success/technology-data-sheets">Datasheets</a></li>
-    <li class="main-elem"><a href="/client-success/videos">Video Library</a></li>
-    <li class="main-elem"><a href="/client-success/white-papers">White Papers</a></li>
-    <li class="main-elem"><a href="/solutions-increase-conversion-rates/touchsell-touchcare-solution-use-cases">Use Cases</a></li>
-    <li class="main-elem"><a href="/about-touchcommerce/touchsell-demo">TouchSell Demo</a></li>
-    <li class="main-elem"><a href="/about-touchcommerce/touchcare-demo">TouchCare Demo</a></li>
-    <li class="main-elem"><a href="http://www.touchcommerce.com/solutions-increase-conversion-rates">Schedule a Live Demo</a></li>
-</ul>
-<ul class="outer-list"><img alt="" src="http://touch-commerce-880c4ca5.s3.amazonaws.com/images/long-blue-line-good.jpg"></ul>
-    <ul>
-        <li class="main-elem"><a href="/client-success/total-resources">Resources</a></li>
-    </ul>
-                                             </div>
-						            </div>
-						            <div class="r-part">
-							            <div class="top-line">
-							                <span>
-							                    Client Highlights
-							                </span>
-	 						            </div>
-							            <div class="text-holder">
-								            <span class="orange-title">Case Studies</span>
-<ul>
-    <li><a href="/client-success/case-studies/bancorp-south">BancorpSouth</a></li>
-    <li><a href="/client-success/case-studies/american-telecast">Total Gym</a></li>
-    <li><a href="/client-success/case-studies/virgin-media">Virgin Media</a></li>
-    <li><a href="/client-success/case-studies">All Case Studies</a></li>
-</ul>
-<span class="orange-title">Datasheets</span>
-Read detailed accounts of the TouchCommerce technology platform.
-<ul>
-    <li class="larger"><a href="/client-success/technology-data-sheets/touchchat-data-sheet-solutions">TouchChat Solutions</a></li>
-    <li class="larger"><a href="/client-success/technology-data-sheets/managed-conversion-services">Managed Conversion Services</a></li>
-    <li class="larger"><a href="/client-success/technology-data-sheets/righttouch-conversion-marketing">Conversion Marketing</a></li>
-    <li class="larger"><a href="/client-success/technology-data-sheets">All Datasheets</a></li>
-</ul>
-							            </div>
-						            </div>
- 					            </div>
-                                <div class="video-holder">
-                                    <div class="top-line">
-                                        <span class="title">
-                                            Success Videos
-                                        </span>
-                                    </div>
-							        <div class="text-holder">
-                                        <div class="video">
-<a href="/client-success/videos/services"><img alt="" width="100" height="70" frameborder="0" src="http://touch-commerce-880c4ca5.s3.amazonaws.com/images/1video-small-managed-services-ardie.jpg">
-</a><span class="video-title">Personal Service</span></div>
-<div class="video">
-<a href="/client-success/videos/customer-satisfaction"><img alt="" width="100" height="70" src="http://touch-commerce-880c4ca5.s3.amazonaws.com/images/1video-small-customer-satisfaction-zareh.jpg" frameborder="0">
-</a><span class="video-title">Customer Satisfaction</span>
-</div>
-                                    </div>
-                                </div>
-				            </div>  
-                    </li>
-                    <li class="with-drop">
-					    <a href="/about-touchcommerce">About Us</a>
-                            <div class="drop-down">
- 					            <div class="white-box left">
- 						            <div class="l-part">
-						                 <div class="top-line">
-						                     <span>
-						                         About TouchCommerce
-						                     </span>
-						                 </div>
-                                             <div class="text-holder">
-                                                 <ul class="outer-list">
-    <li class="main-elem"><a href="/about-touchcommerce/history-touchcommerce">Company History</a></li>
-    <li class="main-elem"><a href="/about-touchcommerce/management-team">Management Team</a></li>
-    <li class="main-elem"><a href="/about-touchcommerce/board-of-directors">Board of Directors</a></li>
-    <li class="main-elem"><a href="/about-touchcommerce/investors">Investors</a></li>
-    <img alt="" src="http://touch-commerce-880c4ca5.s3.amazonaws.com/images/long-blue-line-good.jpg">
-    <li class="main-elem"><a href="/about-touchcommerce/touchcommerce-news">In the News</a></li>
-    <li class="main-elem"><a href="/about-touchcommerce/touchcommerce-events">Events</a></li>
-    <li class="main-elem"><a href="/about-touchcommerce/blog">Company Blog</a></li>
-    <li class="main-elem"><a href="/about-touchcommerce/partners">Partners</a></li>
-    <li class="main-elem"><a href="http://tbe.taleo.net/CH07/ats/careers/jobSearch.jsp?org=TOUCHCOMMERCE&amp;cws=1" target="_blank">Careers</a></li>
-    <li class="main-elem"><a href="/about-touchcommerce/touchsell-demo.aspx">TouchSell Demo</a></li>
-    <li class="main-elem"><a href="/about-touchcommerce/touchcare-demo.aspx">TouchCare Demo</a></li>
-</ul>
-                                             </div>
-						            </div>
-						            <div class="r-part">
-							            <div class="top-line">
-							                <span>
-							                    The TouchCommerce Story
-							                </span>
-	 						            </div>
-							            <div class="text-holder">
-								            <span class="orange-title">History of TouchCommerce</span>
-<p>TouchCommerce was launched in 1999 in a small shop with incredibly talented web programmers. &nbsp;And they have come so far from that time! <a href="/about-touchcommerce/history-touchcommerce.aspx">Read More &gt;&gt;</a></p>
-<span class="orange-title">Success Driven by Great Leaders</span>
-<p>Learn about how the great leadership team at TouchCommerce has driven the innovation and development of the RightTouch platform. <img alt="" align="right" src="http://touch-commerce-880c4ca5.s3.amazonaws.com/images/small-bernard.jpg" style="float: right;"><a href="/about-touchcommerce/management-team.aspx">More on the Team &gt;&gt;</a></p>
-							            </div>
-						            </div>
- 					            </div>
-                                <div class="video-holder">
-                                    <div class="top-line">
-                                        <span class="title">
-                                            Our Focus
-                                        </span>
-                                    </div>
-							        <div class="text-holder">
-                                        <div class="video">
-<a href="/client-success/videos/bernard-louvat-ceo.aspx"><img alt="" width="100" height="70" frameborder="0" src="http://touch-commerce-880c4ca5.s3.amazonaws.com/images/1video-small-tc-overview-bernard.jpg">
-</a><span class="video-title">CEO Bernard Louvat</span>
-</div>
-<div class="video">
-<a href="/client-success/videos/customer-satisfaction.asp"><img alt="" width="100" height="70" frameborder="0" src="http://touch-commerce-880c4ca5.s3.amazonaws.com/images/1video-small-customer-satisfaction-zareh.jpg">
-</a><span class="video-title">Customer Satisfaction</span>
-</div>
-                                    </div>
-                                </div>
-				            </div>  
-                    </li>
-                    <li class="with-drop">
-					    <a href="/contact-us">Contact Us</a>
-                            <div class="drop-down">
- 					            <div class="white-box left">
- 						            <div class="l-part">
-						                 <div class="top-line">
-						                     <span>
-						                         Email Us
-						                     </span>
-						                 </div>
-                                             <ul class="outer-list">
-                                                         <li class="main-elem"><a href="/contact-us/sales-inquiries">Sales Inquiries</a></li>
-                                                         <li class="main-elem"><a href="/contact-us/general-inquiries">General  Inquiries</a></li>
-                                                         <li class="main-elem"><a href="/contact-us/press-inquiries">Press Inquiries</a></li>
-                                                         <li class="main-elem"><a href="/contact-us/career-inquiries">Career Inquiries</a></li>
-                                             </ul>
-						            </div>
-						            <div class="r-part">
-							            <div class="top-line">
-							                <span>
-							                    Corporate Offices
-							                </span>
-	 						            </div>
-							            <div class="text-holder">
-								            <span class="orange-title">US Corporate Contacts</span>
-<div>30501 Agoura Rd., Suite 203<br>
-Agoura Hills, CA  91301<br>
-T: 1-800-868-0898<br>
-T: 1-818-575-2100</div>
-<p>
-</p>
-<div><br>
-<span class="orange-title">European Corporate Contacts</span>
-<div>17 Square Edouard VII<br>
-75009 PARIS<br>
-FRANCE<br>
-T: +33 (0) 1 53 43 92 55</div>
-</div>
-							            </div>
-						            </div>
- 					            </div>
-                                <div class="video-holder">
-                                    <div class="top-line">
-                                        <span class="title">
-                                            TC in Action
-                                        </span>
-                                    </div>
-							        <div class="text-holder">
-                                        <div class="video">
-<a href="/client-success/videos/services.aspx"><img alt="" width="100" height="70" frameborder="0" src="http://touch-commerce-880c4ca5.s3.amazonaws.com/images/1video-small-managed-services-ardie.jpg">
-</a><span class="video-title">Great Service.</span></div>
-<div class="video">
-<a href="/client-success/videos/pay-for-performance.aspx"><img alt="" width="100" height="70" frameborder="0" src="http://touch-commerce-880c4ca5.s3.amazonaws.com/images/1video-small-p4p-jessica.jpg">
-</a><span class="video-title">Results. Guaranteed.</span>
-</div>
-                                    </div>
-                                </div>
-				            </div>  
-                    </li>
-		</ul>
-	    <form action="/search" method="get">
-	        <input type="text" class="field" value="Search" name="q">
-	        <input type="submit" class="submit" id="submitSearch" value="">
-	    </form>
-	</div>
-</div>
-<!-- END Navigation -->
-<div class="cl">&nbsp;</div>
+<script>
 
+var _prum = [['id', '51a63f53abe53ddb52000000'],
 
-<script type="text/javascript">
-    $(document).ready(function () {
+             ['mark', 'firstbyte', (new Date()).getTime()]];
 
-        var searchWatermark = "Search";
+(function() {
 
-        $("input[name='q']").focus(function () {
-            if ($(this).val() == searchWatermark) {
-                $(this).val("");
-            }
-        });
+    var s = document.getElementsByTagName('script')[0]
 
-        $("input[name='q']").blur(function () {
-            if ($(this).val().length == 0) {
-                $(this).val(searchWatermark);
-            }
-        });
+      , p = document.createElement('script');
 
-        $("input#submitSearch").click(function () {
-            if (($("input[name='q']").val().length == 0) || ($("input[name='q']").val() == searchWatermark)) {
-                return false;
-            }
-            return true;
-        });
-    });
+    p.async = 'async';
+
+    p.src = '//rum-static.pingdom.net/prum.min.js';
+
+    s.parentNode.insertBefore(p, s);
+
+})();
+
 </script>
-        </div>     
-        <div id="content">
+
+    <script type="text/javascript" charset="utf-8" src="http://tcnew.inq.com/chatskins/launch/inqChatLaunch356.js"></script>
+    <script type="text/javascript">            var switchTo5x = true;</script>
+    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+    <script type="text/javascript">stLight.options({ publisher: '1c1c7a5f-2a19-4f7c-9bb9-abd57b5389f7', minorServices:false, onhover:false });</script>
+
+    <script src="http://www.youtube.com/iframe_api" type="text/javascript"></script>
+    <script>
+
+        var mobile_timer = false;
+        if (navigator.userAgent.match(/iPhone/i)) {
+            $('#viewport').attr('content', 'width=device-width,minimum-scale=1.0,maximum-scale=1.0,initial-scale=1.0');
+            $(window).bind('gesturestart', function () {
+                clearTimeout(mobile_timer);
+                $('#viewport').attr('content', 'width=device-width,minimum-scale=1.0,maximum-scale=10.0');
+            }).bind('touchend', function () {
+                clearTimeout(mobile_timer);
+                mobile_timer = setTimeout(function () {
+                    $('#viewport').attr('content', 'width=device-width,minimum-scale=1.0,maximum-scale=1.0,initial-scale=1.0');
+                }, 1000);
+            });
+        }
+     </script>
+</head>
+
+<body style="">
+    <div id="Container">
+        <div id="HeaderContainer">
             
-<div class="page-title">
-	<div class="shell">
-		<span>Privacy Statement</span>
-	    <div class="cl">&nbsp;</div>
-	</div>
+
+<div id="Header">
+    <div id="inqC2CImgContainer"></div>
+    <div id="inqC2C3ImgContainer" style="z-index: 100; position: fixed; top: 280px; right: 0;"></div>
+    <div class="row logos" style="position:static;">
+    <div class="logosInner" style="width:100%;">
+        <!--<div class="col10 hideme" style="display:none;"></div>-->
+        <div class="col50 hideme">
+                <a href="/home">
+                    <img src="http://cd2.touchcommerce.com/touch-commerce-v3/Logos/TC_Logo_RGB.png" alt="" class="mainLogo">
+                </a>
+        </div>        
+        <div class="col50" id="DesktopIcons">
+            <div class="iconHolderContainer" id="DesktopIconsContainer">
+                    <div class="iconHolder" id="emailIcon">
+                        <a href="/about-us/contact-us">
+                            <img src="http://cd2.touchcommerce.com/touch-commerce-v3/Logos/TC_header_icons-email.png" alt="" id="imgEmailIcon" class="iconImage">
+                            <img src="http://cd2.touchcommerce.com/touch-commerce-v3/Logos/TC_icons_hover_email.png" alt="" style="display: none;" id="imgEmailIconHover" class="iconImage">
+                        </a>
+                    </div>
+                    <div class="iconHolder" onclick="toggleLang();" id="langIcon">
+                        <img src="http://cd2.touchcommerce.com/touch-commerce-v3/Logos/TC_header_icons-language.png" alt="" id="imgLangIcon" class="iconImage">
+                        <img src="http://cd2.touchcommerce.com/touch-commerce-v3/Logos/TC_icons_hover_language.png" alt="" style="display: none;" id="imgLangIconHover" class="iconImage">
+                    </div>
+                    <div class="iconHolderDropdownContainer" id="langIconMobile" style="display: none;">
+                        <div class="iconHolderActive">
+                            <img src="http://cd2.touchcommerce.com/touch-commerce-v3/Logos/TC_header_icons-language.png" alt="" id="imgLangIconMobile" class="iconImage">
+                        </div>
+                    </div>                         
+                    <div class="iconHolderDropdownContainer" style="display: none;" id="langIconActive" onclick="toggleLang();">
+                        <div class="iconHolderActive">
+                            <img src="http://cd2.touchcommerce.com/touch-commerce-v3/Logos/TC_header_icons-language.png" alt="" id="imgLangIconActive" class="iconImage">
+                            <img src="http://cd2.touchcommerce.com/touch-commerce-v3/Logos/TC_icons_hover_language.png" alt="" style="display: none;" id="imgLangIconActiveHover" class="iconImage">
+                        </div>
+                        <div class="iconHolderDropdown" id="languageDropdown">
+                            <div class="iconHolderDropdownTopBorder"></div>
+                                <div class="languageValue subNavDropdown"><a href="/francais" target="_self">French</a></div>
+                                <div class="languageValue subNavDropdown"><a href="/deutsch" target="_self">German</a></div>
+                                <div class="languageValue subNavDropdown"><a href="/espanol" target="_self">Spanish</a></div>
+                        </div>
+                    </div>
+                    <div class="iconHolder" onclick="toggleSearch();" id="searchIcon">
+                        <img src="http://cd2.touchcommerce.com/touch-commerce-v3/Logos/TC_header_icons-search.png" alt="" id="imgSearchIcon" class="iconImage">
+                        <img src="http://cd2.touchcommerce.com/touch-commerce-v3/Logos/TC_icons_hover_search.png" alt="" style="display: none;" id="imgSearchIconHover" class="iconImage">
+                    </div>
+                    <div class="iconHolderDropdownContainer" id="searchIconMobile" style="display: none;">
+                        <div class="iconHolderActive">
+                            <img src="http://cd2.touchcommerce.com/touch-commerce-v3/Logos/TC_header_icons-search.png" alt="" id="imgSearchIconMobile" class="iconImage">
+                        </div>
+                    </div>                    
+                    <div class="iconHolderSearch" style="display: none;" id="searchIconActive">
+                        <input type="text" class="searchText" placeholder="">
+                        <img src="http://cd2.touchcommerce.com/touch-commerce-v3/Logos/TC_header_icons-search.png" alt="" id="imgSearchIconActive" class="iconImage" style="float: left; margin-left: -35px; margin-top: 12px;">
+                    </div>
+                    <div class="iconHolder" id="shareIcon">
+
+                        <img src="http://cd2.touchcommerce.com/touch-commerce-v3/Logos/TC_header_icons-share.png" alt="" id="imgShareIcon" class="iconImage">
+                        <img src="http://cd2.touchcommerce.com/touch-commerce-v3/Logos/TC_icons_hover_share.png" alt="" id="imgShareIconHover" class="iconImage">
+
+                        
+                        <div class="share" style="position:absolute;top:10px;right:0;width:25px;height:30px;">
+                            <span class="st_sharethis_custom"></span>
+                        </div>                        
+                    </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+        <div class="row" id="MobileMenu" onclick="toggleMobileMenu();">
+            <div class="mobileMenuContainer">
+                <img src="/content/images/mobile/mobilemenu.png">
+            </div>        
+        </div>
+        <div class="row" id="MobileMenuActive" onclick="toggleMobileMenu();">
+            <div class="mobileMenuContainerActive">
+                <img src="/content/images/mobile/mobilemenu.png">
+            </div>        
+        </div>
+        </div>
+    </div>
+    <div class="clear"></div>
+    <div class="row mobileSearchContainer" style="position: absolute; margin-top: -5px;">
+        <input type="text" class="mobileSearchText" placeholder="">
+        <div class="clear"></div>
+        <div class="button more mobileSearchButton">
+            <div class="buttonText"><a href="~/search">Search</a></div>
+        </div>
+    </div>
+    <div class="row mobileLanguageContainer" style="position: absolute; margin-top: -5px;">
+            <div class="languageValueMobile subNavDropdown"><a href="/francais" target="_self">French</a></div>
+            <div class="clear"></div>
+            <div class="languageValueMobile subNavDropdown"><a href="/deutsch" target="_self">German</a></div>
+            <div class="clear"></div>
+            <div class="languageValueMobile subNavDropdown"><a href="/espanol" target="_self">Spanish</a></div>
+            <div class="clear"></div>
+    </div>
+    <div class="row mobileDropdownContainer" style="margin-top: -5px;">
+                    <div class="navLinkMobile">
+                        <a href="/our-approach" onclick="showMobileMenu(this); return false;" data-pageid="3" data-childnodes="True">Our approach</a><img src="/content/images/downarrowblue.png" class="mobileArrow" onclick="showMobileMenu(this); return false;" data-pageid="3" data-childnodes="True" id="mobileArrow3">
+                    </div>
+                    <div class="clear"></div>
+                        <div class="floatLeft mainSubNavGroupMobile" id="mobileChild3" style="display: none;">
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="/our-approach/optimized-results">Optimized Results</a>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="/our-approach/big-data-analytics--data-warehouse-">Big Data Analytics (Data Warehouse)</a>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="/our-approach/aligned-pricing">Aligned Pricing</a>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="clear"></div>
+                    <div class="mobileSeperator"></div>
+                    <div class="clear"></div>
+                    <div class="navLinkMobile">
+                        <a href="/our-solutions" onclick="showMobileMenu(this); return false;" data-pageid="13" data-childnodes="True">Our solutions</a><img src="/content/images/downarrowblue.png" class="mobileArrow" onclick="showMobileMenu(this); return false;" data-pageid="13" data-childnodes="True" id="mobileArrow13">
+                    </div>
+                    <div class="clear"></div>
+                        <div class="floatLeft mainSubNavGroupMobile" id="mobileChild13" style="display: none;">
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="/our-solutions/sell-overview">TouchSell </a>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="/our-solutions/care-overview">TouchCare</a>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="/our-solutions/by-industry">by Industry</a>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="clear"></div>
+                    <div class="mobileSeperator"></div>
+                    <div class="clear"></div>
+                    <div class="navLinkMobile">
+                        <a href="/our-technology" onclick="showMobileMenu(this); return false;" data-pageid="20" data-childnodes="True">Our technology</a><img src="/content/images/downarrowblue.png" class="mobileArrow" onclick="showMobileMenu(this); return false;" data-pageid="20" data-childnodes="True" id="mobileArrow20">
+                    </div>
+                    <div class="clear"></div>
+                        <div class="floatLeft mainSubNavGroupMobile" id="mobileChild20" style="display: none;">
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="/our-technology/platform--righttouch-">Platform: RightTouch®</a>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="/our-technology/products">Products</a>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="/our-technology/mobile-delivery">Mobile Delivery</a>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="clear"></div>
+                    <div class="mobileSeperator"></div>
+                    <div class="clear"></div>
+                    <div class="navLinkMobile">
+                        <a href="/our-services" onclick="showMobileMenu(this); return false;" data-pageid="21" data-childnodes="True">Our services</a><img src="/content/images/downarrowblue.png" class="mobileArrow" onclick="showMobileMenu(this); return false;" data-pageid="21" data-childnodes="True" id="mobileArrow21">
+                    </div>
+                    <div class="clear"></div>
+                        <div class="floatLeft mainSubNavGroupMobile" id="mobileChild21" style="display: none;">
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="/our-services/implementation-services">Implementation Services</a>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="/our-services/program-design-and-optimization">Program Design and Optimization</a>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="/our-services/voice-of-the-customer">Voice of the Customer</a>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="/our-services/agent-services">Agent Services</a>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="/our-services/integration--with-3rd-party-apps-">Integration (with 3rd party apps)</a>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="clear"></div>
+                    <div class="mobileSeperator"></div>
+                    <div class="clear"></div>
+                    <div class="navLinkMobile">
+                        <a href="/our-resources" onclick="showMobileMenu(this); return false;" data-pageid="22" data-childnodes="True">Our resources</a><img src="/content/images/downarrowblue.png" class="mobileArrow" onclick="showMobileMenu(this); return false;" data-pageid="22" data-childnodes="True" id="mobileArrow22">
+                    </div>
+                    <div class="clear"></div>
+                        <div class="floatLeft mainSubNavGroupMobile" id="mobileChild22" style="display: none;">
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="/our-resources/news">News</a>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="/our-resources/blog">Blog</a>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="/our-resources/select-client-list">Client List</a>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="/our-resources/case-studies">Case Studies</a>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="/our-resources/datasheets">Datasheets</a>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="/our-resources/TouchNews">Newsletter</a>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="/our-resources/videos-and-downloads">Videos and Demos</a>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="/our-resources/whitepapers">White Papers</a>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="clear"></div>
+                    <div class="mobileSeperator"></div>
+                    <div class="clear"></div>
+                    <div class="navLinkMobile">
+                        <a href="/about-us" onclick="showMobileMenu(this); return false;" data-pageid="105" data-childnodes="True">Our company</a><img src="/content/images/downarrowblue.png" class="mobileArrow" onclick="showMobileMenu(this); return false;" data-pageid="105" data-childnodes="True" id="mobileArrow105">
+                    </div>
+                    <div class="clear"></div>
+                        <div class="floatLeft mainSubNavGroupMobile" id="mobileChild105" style="display: none;">
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="/about-us/history">History</a>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="/about-us/management-team">Management Team</a>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="/about-us/board-of-directors">Board of Directors</a>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="/about-us/investors">Investors</a>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="/about-us/events">Events</a>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="/about-us/partners">Partners</a>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="http://tbe.taleo.net/CH07/ats/careers/jobSearch.jsp?org=TOUCHCOMMERCE&amp;cws=1">Careers</a>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="subNavDropdown subNavDropdownMobile">
+                                <a href="/about-us/contact-us">Contact Us</a>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="clear"></div>
+                    <div class="mobileSeperator"></div>
+                    <div class="clear"></div>
+    </div>
+    <div class="row" id="DesktopMenu">
+                    <div class="floatLeft navLink  first" id="navLink3">
+                        <a href="/our-approach" onmouseover="showMenu(this); return false;" data-pageid="3" data-childnodes="True">Our approach</a>                 
+                    </div>
+                    <div class="floatLeft navLink  " id="navLink13">
+                        <a href="/our-solutions" onmouseover="showMenu(this); return false;" data-pageid="13" data-childnodes="True">Our solutions</a>                 
+                    </div>
+                    <div class="floatLeft navLink  " id="navLink20">
+                        <a href="/our-technology" onmouseover="showMenu(this); return false;" data-pageid="20" data-childnodes="True">Our technology</a>                 
+                    </div>
+                    <div class="floatLeft navLink  " id="navLink21">
+                        <a href="/our-services" onmouseover="showMenu(this); return false;" data-pageid="21" data-childnodes="True">Our services</a>                 
+                    </div>
+                    <div class="floatLeft navLink  " id="navLink22">
+                        <a href="/our-resources" onmouseover="showMenu(this); return false;" data-pageid="22" data-childnodes="True">Our resources</a>                 
+                    </div>
+                    <div class="floatLeft navLink  " id="navLink105">
+                        <a href="/about-us" onmouseover="showMenu(this); return false;" data-pageid="105" data-childnodes="True">Our company</a>                 
+                    </div>
+    </div>
 </div>
-<div class="shell">
-    <div class="MainAreaTopContentZone">
+
+<div id="HeaderMenu" style="position: absolute; left: 0px; z-index: 999999;">
+    <div class="mainSubNav" id="mainSubNav">
+                        <div class="mainSubNavGroup" id="child3">
+                            <div class="subNavDropdown ">
+                                <a href="/our-approach/optimized-results">Optimized Results</a>
+                            </div>
+                            <div class="subNavDropdown ">
+                                <a href="/our-approach/big-data-analytics--data-warehouse-">Big Data Analytics (Data Warehouse)</a>
+                            </div>
+                            <div class="subNavDropdown ">
+                                <a href="/our-approach/aligned-pricing">Aligned Pricing</a>
+                            </div>
+                        </div>
+                        <div class="mainSubNavGroup" id="child13">
+                            <div class="subNavDropdown ">
+                                <a href="/our-solutions/sell-overview">TouchSell </a>
+                            </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/our-solutions/sell-overview/product-discovery">Product Discovery</a>
+                                    </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/our-solutions/sell-overview/lead-management">Lead Management</a>
+                                    </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/our-solutions/sell-overview/purchase-optimization">Purchase Optimization</a>
+                                    </div>
+                            <div class="subNavDropdown ">
+                                <a href="/our-solutions/care-overview">TouchCare</a>
+                            </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/our-solutions/care-overview/touchconnect">Self Service - TouchConnect</a>
+                                    </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/our-solutions/care-overview/account-management">Account Management</a>
+                                    </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/our-solutions/care-overview/customer-support">Customer Support</a>
+                                    </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/our-solutions/care-overview/customer-growth">Customer Growth</a>
+                                    </div>
+                            <div class="subNavDropdown ">
+                                <a href="/our-solutions/by-industry">by Industry</a>
+                            </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/our-solutions/by-industry/telecom-and-media">Telecom and Media</a>
+                                    </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/our-solutions/by-industry/financial-services">Financial Services</a>
+                                    </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/our-solutions/by-industry/travel-and-hospitality">Travel and Hospitality</a>
+                                    </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/our-solutions/by-industry/direct-response">Direct Response</a>
+                                    </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/our-solutions/by-industry/retail">Retail</a>
+                                    </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/our-solutions/by-industry/more-industries--other-industries-">More Industries </a>
+                                    </div>
+                        </div>
+                        <div class="mainSubNavGroup" id="child20">
+                            <div class="subNavDropdown ">
+                                <a href="/our-technology/platform--righttouch-">Platform: RightTouch®</a>
+                            </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/our-technology/platform--righttouch-/dynamic-targeting-engine">Dynamic Targeting Engine</a>
+                                    </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/our-technology/platform--righttouch-/engagement-window">Engagement Window</a>
+                                    </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/our-technology/platform--righttouch-/automation-engine">Automation Engine</a>
+                                    </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/our-technology/platform--righttouch-/admin-portal--agent-reporting-interface-">Administrative Portal </a>
+                                    </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/our-technology/platform--righttouch-/workforce-management">Workforce Management</a>
+                                    </div>
+                            <div class="subNavDropdown ">
+                                <a href="/our-technology/products">Products</a>
+                            </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/our-technology/products/touchchat">TouchChat</a>
+                                    </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/our-technology/products/touchvoice">TouchVoice</a>
+                                    </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/our-technology/products/touchbrowse">TouchBrowse</a>
+                                    </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/our-technology/products/touchguides">TouchGuides</a>
+                                    </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/our-technology/products/touchcontent">TouchContent</a>
+                                    </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/our-technology/products/touchsurvey">TouchSurvey</a>
+                                    </div>
+                            <div class="subNavDropdown ">
+                                <a href="/our-technology/mobile-delivery">Mobile Delivery</a>
+                            </div>
+                        </div>
+                        <div class="mainSubNavGroup" id="child21">
+                            <div class="subNavDropdown ">
+                                <a href="/our-services/implementation-services">Implementation Services</a>
+                            </div>
+                            <div class="subNavDropdown ">
+                                <a href="/our-services/program-design-and-optimization">Program Design and Optimization</a>
+                            </div>
+                            <div class="subNavDropdown ">
+                                <a href="/our-services/voice-of-the-customer">Voice of the Customer</a>
+                            </div>
+                            <div class="subNavDropdown ">
+                                <a href="/our-services/agent-services">Agent Services</a>
+                            </div>
+                            <div class="subNavDropdown ">
+                                <a href="/our-services/integration--with-3rd-party-apps-">Integration (with 3rd party apps)</a>
+                            </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/our-services/integration--with-3rd-party-apps-/salesforce-integration">Salesforce Integration</a>
+                                    </div>
+                        </div>
+                        <div class="mainSubNavGroup" id="child22">
+                            <div class="subNavDropdown ">
+                                <a href="/our-resources/news">News</a>
+                            </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/our-resources/news/media-coverage">Media Coverage</a>
+                                    </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/our-resources/news/press-releases">Press Releases</a>
+                                    </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/our-resources/news/awards">Awards</a>
+                                    </div>
+                            <div class="subNavDropdown ">
+                                <a href="/our-resources/blog">Blog</a>
+                            </div>
+                            <div class="subNavDropdown ">
+                                <a href="/our-resources/select-client-list">Client List</a>
+                            </div>
+                            <div class="subNavDropdown ">
+                                <a href="/our-resources/case-studies">Case Studies</a>
+                            </div>
+                            <div class="subNavDropdown ">
+                                <a href="/our-resources/datasheets">Datasheets</a>
+                            </div>
+                            <div class="subNavDropdown ">
+                                <a href="/our-resources/TouchNews">Newsletter</a>
+                            </div>
+                            <div class="subNavDropdown ">
+                                <a href="/our-resources/videos-and-downloads">Videos and Demos</a>
+                            </div>
+                            <div class="subNavDropdown ">
+                                <a href="/our-resources/whitepapers">White Papers</a>
+                            </div>
+                        </div>
+                        <div class="mainSubNavGroup" id="child105">
+                            <div class="subNavDropdown ">
+                                <a href="/about-us/history">History</a>
+                            </div>
+                            <div class="subNavDropdown ">
+                                <a href="/about-us/management-team">Management Team</a>
+                            </div>
+                            <div class="subNavDropdown ">
+                                <a href="/about-us/board-of-directors">Board of Directors</a>
+                            </div>
+                            <div class="subNavDropdown ">
+                                <a href="/about-us/investors">Investors</a>
+                            </div>
+                            <div class="subNavDropdown ">
+                                <a href="/about-us/events">Events</a>
+                            </div>
+                            <div class="subNavDropdown ">
+                                <a href="/about-us/partners">Partners</a>
+                            </div>
+                            <div class="subNavDropdown ">
+                                <a href="http://tbe.taleo.net/CH07/ats/careers/jobSearch.jsp?org=TOUCHCOMMERCE&amp;cws=1">Careers</a>
+                            </div>
+                            <div class="subNavDropdown ">
+                                <a href="/about-us/contact-us">Contact Us</a>
+                            </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/about-us/contact-us/sales-inquiries">Sales inquiries</a>
+                                    </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/about-us/contact-us/press-inquiries">Press inquiries</a>
+                                    </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/about-us/contact-us/career-inquiries">Career inquiries</a>
+                                    </div>
+                                    <div class="subNavDropdownSub">
+                                        <a href="/about-us/contact-us/schedule-demo">Schedule demo</a>
+                                    </div>
+                        </div>
     </div>
-    <div class="MainAreaTopRightContentZone">
+</div>
+        </div>
+        <div id="BodyContainer">
+            <style type="text/css">
+#TopContentZone, #TwoColumnsZone,  #ResourceContentZone, #BottomContentZone{text-align:left;    }
+#TwoColumnsZone{margin:10px auto;width:95%;max-width:990px;position:relative;overflow:hidden;text-align:left;}
+#TwoColumnsZone:before, .TwoColumnsZone:after {  display: table;  content: " ";}
+#TwoColumnsZone:after { clear: both;}
+
+#TwoColumnsZone > div{float:left;}
+
+#LeftColumnZone{width:66%;}
+#TwoColumnsSeparator{width:6%;}
+#RightColumnZone{width:25%;}
+
+#ResourceContentZone{max-width: 990px; display: inline-block; width: 100%;}
+
+
+@media (min-width: 320px) and (max-width: 800px){
+#RightColumnZone
+{
+    width: 91%;
+}
+#LeftColumnZone
+{
+    width: 91%;
+    clear: both;
+}
+}
+
+</style>
+
+<div id="TopContentZone">
+
+<link href="/Content/css/modules/pagelabel.css" rel="stylesheet" type="text/css">
+
+    
+        <style>
+            #PageLabel
+            {
+                background-color: #F6F6F5;   
+            }
+        </style>
+    
+
+
+<div id="PageLabel">
+    <div class="pageLabelContainer">
+            <h1 class="grayBackground">Privacy Policy</h1>
+            <div class="clear"></div>
     </div>
-    <div class="cl">&nbsp;</div>
-    <div class="MainAreaLeftContentZone">
-<h3>TouchCommerce Website Privacy Statement</h3>
-<strong>Last updated: 2013-04-17</strong>
-<p>
-TouchCommerce has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="support@touchcommerce.com">here</a>. If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint">TRUSTe here</a>.</p>
-<p>
-TouchCommerce complies with the U.S. – E.U.  Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union member countries.  TouchCommerce has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view TouchCommerce’s certification, please visit <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a>.</p>
+</div></div>
+<div id="TwoColumnsZone">
+    <div id="LeftColumnZone" style="text-align: left;">
+
+<div style="position: relative; width: 95%; margin: 10px auto;" class="innerContainer">
+    <span class="topicHeaderStyle">TouchCommerce Website Privacy Statement<br>
+</span>
+<strong class="paragraphBodyStyle">
+<h6>Last updated: 2014-03-28</h6>
+</strong>
+<p><span class="paragraphBodyStyle"><br>
+TouchCommerce has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html">TRUSTe's program requirements</a> and <a href="http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/ ">TRUSTed Cloud Program Requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="/about-us/contact-us">here</a>. If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint">TRUSTe here</a>.<br>
+<br>
+</span></p>
+<p><span class="paragraphBodyStyle">
+TouchCommerce complies with the <a href="https://safeharbor.export.gov/list.aspx">U.S. – E.U.  Safe Harbor</a> and <a href="https://safeharbor.export.gov/swisslist.aspx">U.S. - Swiss Safe Harbor</a> Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union member countries and Switzerland.  TouchCommerce has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view TouchCommerce’s certification, please visit <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a>.</span></p>
 <p>
 </p>
+<h3></h3>
 <h3>Scope</h3>
+<span class="paragraphBodyStyle">
 This Privacy Policy only addresses our use and disclosure of information we collect from you on our website www.touchcommerce.com and our service platform. The data collected by the "end user" through our platform is owned by our "Client". We own All data collected on our corporate website, <a href="http://www.touchcommerce.com">www.touchcommerce.com</a>. The TRUSTe program covers information collected through this Web site and information collected on the behalf of our Clients.
+<br>
+<br>
+</span>
 <p>
 </p>
-<h3>1. Acknowledgement And Acceptance Of Terms</h3>
-TouchCommerce™ is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing this website, you acknowledge and fully understand this Privacy Statement and freely consent to the information collection and use practices described in this Web site Privacy Statement.
-<p>&nbsp;</p>
+<p class="paragraphHeaderStyle">1. Acknowledgement And Acceptance Of Terms</p>
+<span class="paragraphBodyStyle">
+TouchCommerce™ is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing this website, you acknowledge and fully understand this Privacy Statement and freely consent to the information collection and use practices described in this Web site Privacy Statement.<br>
+<br>
+</span>
 <p>
 </p>
-<h3>2. Participating Merchant Policies</h3>
+<p class="paragraphHeaderStyle">2. Participating Merchant Policies</p>
+<span class="paragraphBodyStyle">
 Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
-<p>&nbsp;</p>
+</span>
+<p><span class="paragraphBodyStyle"><br>
+</span></p>
 <p>
 </p>
-<h3>3. Information We Collect And How We Use It</h3>
+<p><span class="paragraphHeaderStyle">3. Information We Collect And How We Use It</span></p>
+<span class="paragraphBodyStyle">
 TouchCommerce collects certain information from and about its users three ways: directly from our web server logs, the user, and with cookies.
-<p><strong>
+</span>
+<p><span class="paragraphBodyStyle"><strong>
 a. Web Server Logs</strong><br>
-When you visit our website, we may track information to administer the site and analyze its usage. Examples of information we may track include:</p>
+When you visit our website, we may track information to administer the site and analyze its usage. Examples of information we may track include:</span></p>
 <ul>
-    <li>Your Internet protocol address.
-    </li>
-    <li>The kind of browser or computer you use.
-    </li>
-    <li>Number of links you click within the site.
-    </li>
-    <li>State or country from which you accessed the site.
-    </li>
-    <li>Date and time of your visit.
-    </li>
-    <li>Name of your Internet service provider.
-    </li>
-    <li>Web page you linked to our site from.
-    </li>
-    <li>Pages you viewed on the site.
-    </li>
-    <li>We also use third-party services, such as Google Analytics, to collect and analyze such information.
-    </li>
+    <li><span class="paragraphBodyStyle">Your Internet protocol address.
+    </span></li>
+    <li><span class="paragraphBodyStyle">The kind of browser or computer you use.
+    </span></li>
+    <li><span class="paragraphBodyStyle">Number of links you click within the site.
+    </span></li>
+    <li><span class="paragraphBodyStyle">State or country from which you accessed the site.
+    </span></li>
+    <li><span class="paragraphBodyStyle">Date and time of your visit.
+    </span></li>
+    <li><span class="paragraphBodyStyle">Name of your Internet service provider.
+    </span></li>
+    <li><span class="paragraphBodyStyle">Web page you linked to our site from.
+    </span></li>
+    <li><span class="paragraphBodyStyle">Pages you viewed on the site.
+    </span></li>
+    <li><span class="paragraphBodyStyle">We also use third-party services, such as Google Analytics, to collect and analyze such information.
+    </span></li>
 </ul>
-<strong>
-b. Personal Information Provided By Users</strong><br>
+<span class="paragraphBodyStyle"><strong>
+b. Personal Information Provided By Users</strong>
+<br>
 Visitors to our website can register to purchase services. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
-<p>
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties. We may provide your personal information to companies that provide services to help us with our business activities such as processing your credit card or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.</p>
-<p>
+</span>
+<p><span class="paragraphBodyStyle">
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties. We may provide your personal information to companies that provide services to help us with our business activities such as processing your credit card or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.</span></p>
+<p><span class="paragraphBodyStyle">
 We may also disclose your personal information
-</p>
+</span></p>
 <ul>
-    <li>as required by law, such as to comply with a subpoena, or similar legal process
-    </li>
-    <li>when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-    </li>
-    <li>if TouchCommerce is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
-    </li>
-    <li>to any other third party with your prior consent to do so.
-    </li>
+    <li><span class="paragraphBodyStyle">as required by law, such as to comply with a subpoena, or similar legal process
+    </span></li>
+    <li><span class="paragraphBodyStyle">when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+    </span></li>
+    <li><span class="paragraphBodyStyle">if TouchCommerce is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
+    </span></li>
+    <li><span class="paragraphBodyStyle">to any other third party with your prior consent to do so.
+    </span></li>
 </ul>
-<strong>
+<span class="paragraphBodyStyle"><strong>
 c. Use of Cookies</strong><br>
 We may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
-<p>
+</span>
+<p><span class="paragraphBodyStyle">
 One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.
-We reserve the right to share aggregated site statistics with partner companies, but we do not share any personally identifiable information. We may allow third-party cookies from analytics services, such as Google Analytics.</p>
-<p>
-You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our website.</p>
-<p><strong>
+We reserve the right to share aggregated site statistics with partner companies, but we do not share any personal information. We may allow third-party cookies from analytics services, such as Google Analytics.</span></p>
+<p><span class="paragraphBodyStyle">
+You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our website.<br>
+<br>
+You can disable any cookies that have been installed in the cookie folder of your browser. The various browsers provide different procedures to manage your settings. For the commonly used browsers click on the links below for instructions.<br>
+·<span style="white-space: pre;" class="Apple-tab-span">	</span><a target="_blank" href="http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies">Microsoft Windows Explorer</a><br>
+·<span style="white-space: pre;" class="Apple-tab-span">	</span><a target="_blank" href="https://support.google.com/chrome/answer/95647?hl=en&amp;p=cpn_cookies">Google Chrome</a><br>
+·<span style="white-space: pre;" class="Apple-tab-span">	</span><a target="_blank" href="http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&amp;redirectslug=Enabling+and+disabling+cookies">Mozilla Firefox</a><br>
+·<span style="white-space: pre;" class="Apple-tab-span">	</span><a target="_blank" href="http://support.apple.com/kb/PH5042">Apple Safari</a><br>
+</span></p>
+<p><span class="paragraphBodyStyle"><strong>
 d. Use Of Web Beacons</strong><br>
-Our email communications may contain electronic images known as web beacons, in order to determine whether messages have been opened and acted upon.</p>
-<p>
-Some of these web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. We prohibit web beacons from being used to collect or access your personal information.</p>
-<p><strong>
+Our email communications may contain electronic images known as web beacons, in order to determine whether messages have been opened and acted upon.</span></p>
+<p><span class="paragraphBodyStyle">
+Some of these web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. We prohibit web beacons from being used to collect or access your personal information.</span></p>
+<p><span class="paragraphBodyStyle"><strong>
 e. Other Third Party Tracking Technologies</strong><br>
-We use a third-party tracking service that uses images, scripts and other tracking technologies to track non-personal information about visitors to our site in the aggregate. The information collected enables us to provide services to the customers/visitors of our client’s websites.</p>
+We use a third-party tracking service that uses images, scripts and other tracking technologies to track non-personal information about visitors to our site in the aggregate. The information collected enables us to provide services to the customers/visitors of our client’s websites. We do not have access or control over these third paty tracking technologies.<br>
+</span></p>
 <p>
 </p>
-<h3>5. Security</h3>
-The security of your personal information is important to us.  When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at <a href="support@touchcommerce.com">here.</a>
+<p><span class="paragraphHeaderStyle"><br>
+4. Security</span></p>
+<span class="paragraphBodyStyle">
+The security of your personal information is important to us.  When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at <a href="/about-us/contact-us">here.</a>
+</span>
 <p>
 </p>
-<h3>6. Testimonials</h3>
-We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to update or delete your testimonial, you can contact us at <a href="support@touchcommerce.com">here.</a>
+<p><span class="paragraphHeaderStyle"><br>
+5. Testimonials</span></p>
+<span class="paragraphBodyStyle">
+We post customer testimonials/comments/reviews on our web site which may contain personal information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to update or delete your testimonial, you can contact us at <a href="/about-us/contact-us">here.</a>
+</span>
 <p>
 </p>
-<h3>7.Blogs</h3>
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at <a href="support@touchcommerce.com">here</a>.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+<p><span class="paragraphHeaderStyle"><br>
+6. Blogs</span></p>
+<span class="paragraphBodyStyle">
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at <a href="/about-us/contact-us">here</a>.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+</span>
 <p>
 </p>
-<h3>8. Social Media Widgets</h3>
+<p><span class="paragraphHeaderStyle"><br>
+7. Social Media Widgets</span></p>
+<span class="paragraphBodyStyle">
 Our Web site includes Social Media Features, such as the Facebook button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+</span>
 <p>
 </p>
-<h3>9. Accessing Web Account Information</h3>
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by making the change on our member information page or by emailing our Customer Support at <a href="support@touchcommerce.com">here</a> or by contacting us by telephone or postal mail at the contact information listed below.
-<p>
-We will respond to your request to access within 2 weeks</p>
-<p>
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you.  Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at <a href="support@touchcommerce.com">here</a>.</p>
+<p><span class="paragraphHeaderStyle"><br>
+8. Accessing Web Account Information</span></p>
+<span class="paragraphBodyStyle">
+If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by making the change on our member information page or by emailing our Customer Support at <a href="/about-us/contact-us">here</a> or by contacting us by telephone or postal mail at the contact information listed below.
+</span>
+<p><span class="paragraphBodyStyle">
+We will respond to your request to access within 2 weeks.</span></p>
+<p><span class="paragraphBodyStyle">
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you.  Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at <a href="/about-us/contact-us">here</a>.</span></p>
 <p>
 </p>
-<h3>10. Data Retention</h3>
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us <a href="support@touchcommerce.com">here</a>. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements
+<p><span class="paragraphHeaderStyle"><br>
+9. Data Retention</span></p>
+<span class="paragraphBodyStyle">
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us <a href="/about-us/contact-us">here</a>. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements
+</span>
 <p>
 </p>
-<h3>11. Information collected for our Clients through our Service</h3>
-The collection and use of information shall be limited to the purpose of providing the service for which the Client has engaged the TouchCommerce.
+<p><span class="paragraphHeaderStyle"><br>
+10. Information collected for our Clients through our Service</span></p>
+<span class="paragraphHeaderStyle">​</span><span class="paragraphBodyStyle">The collection and use of information shall be limited to the purpose of providing the service for which the Client has engaged the TouchCommerce.
 Data Retention: TouchCommerce will retain data we process on behalf of our Client for as long as needed provide services to our Client. TouchCommerce will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-<p><strong>
-Access</strong>: As a data processor, TouchCommerce has no direct relationship with the individuals whose data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the TouchCommerce's Client (the data controller) which has transferred such data to TouchCommerce for processing. If the client requests TouchCommerce to remove the data, TouchCommerce will respond to their Client's request within 30 business days. The Client will then provide access to the individual as determined under the applicable local data protection law.</p>
-<p><strong>Notice</strong>: As an agent processing information under the direction of its Clients, TouchCommerce has no direct relationship with the individuals whose data it processes. TouchCommerce works with its Clients to help them provide notice of data processing to individuals, including information concerning (1) the purposes for which personal information is collected and used; (2) a contact person to whom enquiries or complaints may be directed; (3) the types of third parties to whom personal information is disclosed; and (4) the choices and means that individuals are offered for limiting use and disclosure of personal information."</p>
-<p><strong>
-Choice</strong>: As an agent processing personal information under the direction of its Clients, TouchCommerce has no direct relationship with the individuals whose personal data it processes. TouchCommerce may disclose personal data to third parties in the course of processing personal data. TouchCommerce only processes information in accordance with instructions of its Clients, and only for purposes that are compatible with those for which it was originally collected or subsequently authorized by the individual. TouchCommerce does not process any sensitive data, and only processes personal information that has been collected and provided by its Clients through web or paper-based methods.</p>
-<p>
-</p>
-<h3>12. Changes To This Statement</h3>
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-<p>
-</p>
-<h3>13. Contacting Us</h3>
-<p>
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement, and/or our general practices, please contact us at:</p>
-<strong>
+</span>
+<p><span class="paragraphBodyStyle"><strong>
+Access</strong>: As a data processor, TouchCommerce has no direct relationship with the individuals whose data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the TouchCommerce's Client (the data controller) which has transferred such data to TouchCommerce for processing. If the client requests TouchCommerce to remove the data, TouchCommerce will respond to their Client's request within 30 business days. The Client will then provide access to the individual as determined under the applicable local data protection law.</span></p>
+<p><span class="paragraphBodyStyle"><strong>Notice</strong>: As an agent processing information under the direction of its Clients, TouchCommerce has no direct relationship with the individuals whose data it processes. TouchCommerce works with its Clients to help them provide notice of data processing to individuals, including information concerning (1) the purposes for which personal information is collected and used; (2) a contact person to whom enquiries or complaints may be directed; (3) the types of third parties to whom personal information is disclosed; and (4) the choices and means that individuals are offered for limiting use and disclosure of personal information."</span></p>
+<p><span class="paragraphBodyStyle"><strong>
+Choice</strong>: As an agent processing personal information under the direction of its Clients, TouchCommerce has no direct relationship with the individuals whose personal data it processes. TouchCommerce may disclose personal data to third parties in the course of processing personal data. TouchCommerce only processes information in accordance with instructions of its Clients, and only for purposes that are compatible with those for which it was originally collected or subsequently authorized by the individual. TouchCommerce does not process any sensitive data, and only processes personal information that has been collected and provided by its Clients through web or paper-based methods.<br>
+</span><span style="font-family: gotham-bold, Arial; font-size: 18px; color: #093b68;"><br>
+11. Changes To This Statement</span></p>
+<h3>
+<p class="paragraphHeaderStyle"><span style="font-weight: normal; font-family: gotham-book, Arial; color: #474a4d;">
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.<br>
+</span><br>
+<span style="font-weight: normal;">
+12. Contacting Us</span></p>
+</h3>
+<p><span class="paragraphBodyStyle">
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement, and/or our general practices, please contact us at:</span></p>
+<span class="paragraphBodyStyle"><strong>
 Attention of Privacy/Security Officer</strong> <br>
 30501 Agoura Rd, Ste 203 <br>
 Agoura Hills, California 91301<br>
-<p>&nbsp;</p>
-<p>&nbsp;</p>    </div>
-    <div class="MainAreaRightContentZone">
-<br>
-<p id="41a987c7-b678-42ef-82ea-d100b4f8859a">
-<script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/TouchCommerce/asc?rid=41a987c7-b678-42ef-82ea-d100b4f8859a"></script>
-<a href="//privacy.truste.com/privacy-seal/TouchCommerce/validation?rid=960d4826-b24c-401c-bf45-e7fd1fc8fb6e" title="Validate TRUSTe privacy certification" target="_blank"><img style="border: none;" src="//privacy-policy.truste.com/privacy-seal/TouchCommerce/seal?rid=960d4826-b24c-401c-bf45-e7fd1fc8fb6e" alt="Validate TRUSTe privacy certification"></a></p>    </div>
-    <div class="cl">&nbsp;</div>		
-    <div class="bottom-cols">
-        <div class="col-left">
-        </div>
-        <div class="col-middle">
-        </div>
-        <div class="col-right">
-        </div>
-        <div class="cl">&nbsp;</div>
-    </div>
-    <div class="cl">&nbsp;</div>
+</span>
+<p><span class="paragraphBodyStyle"><br>
+</span></p>
+<p><span class="paragraphBodyStyle"><br>
+</span></p>
 </div>
-<!-- END Content -->  
+
+<div class="clear"></div>    </div>
+    <div id="TwoColumnsSeparator"></div>
+    <div id="RightColumnZone">
+    </div>
+
+</div>
+<div id="ResourceContentZone">
+</div>
+<div id="BottomContentZone">
+
+<link href="/Content/css/modules/relatedlinks.css" rel="stylesheet" type="text/css">
+<div id="RelatedLinks" class="innerContainer">
+    <div class="relatedLinks">
+        <div class="relatedSeperator">
+        <h4 class="relatedTitle">Related links</h4>
+        <div class="clear"></div>
+            <div class="relatedContainer">
+                        <a href="/our-resources/videos-and-downloads/videos/2133/Fully-Managed-Services" target="_self">
+                            <img src="http://cd2.touchcommerce.com/touch-commerce-v3/v2/Videos/videos-still-Service-smallmain_4115.jpg" class="relatedImage">
+                        </a>
+                <div class="clear"></div>
+                <div class="relatedDescription relatedLink">
+                    <a href="/our-resources/videos-and-downloads/videos/2133/Fully-Managed-Services" target="_self">Fully Managed Services</a>
+                </div>
+            </div>
+            <div class="relatedContainer">
+                        <a href="/our-resources/videos-and-downloads/videos/227/A-Trusted-Pay-for-Performance-Model-TouchCommerce" target="_self">
+                            <img src="http://cd2.touchcommerce.com/touch-commerce-v3/v2/Videos/videos-still-pay-per-performance-smallmain_4116.jpg" class="relatedImage">
+                        </a>
+                <div class="clear"></div>
+                <div class="relatedDescription relatedLink">
+                    <a href="/our-resources/videos-and-downloads/videos/227/A-Trusted-Pay-for-Performance-Model-TouchCommerce" target="_self">Trusted Pay for Performance</a>
+                </div>
+            </div>
+            <div class="relatedContainer">
+                        <a href="/our-resources/case-studies" target="_self">
+                            <img src="http://cd2.touchcommerce.com/touch-commerce-v3/icons/TC_IconThumbs-casestudiesmain_4619.png" class="relatedImage">
+                        </a>
+                <div class="clear"></div>
+                <div class="relatedDescription relatedLink">
+                    <a href="/our-resources/case-studies" target="_self">Case Studies</a>
+                </div>
+            </div>
+            <div class="relatedContainer">
+                        <a href="/our-resources/videos-and-downloads/videos/227/A-Trusted-Pay-for-Performance-Model-TouchCommerce" target="_self">
+                            <img src="http://cd2.touchcommerce.com/touch-commerce-v3/v2/Videos/videos-still-what-is-conversion-smallmain_4118.jpg" class="relatedImage">
+                        </a>
+                <div class="clear"></div>
+                <div class="relatedDescription relatedLink">
+                    <a href="/our-resources/videos-and-downloads/videos/227/A-Trusted-Pay-for-Performance-Model-TouchCommerce" target="_self">What Is Conversion?</a>
+                </div>
+            </div>
+        <div class="clear"></div>   
+    </div>
+</div>
+
+<style type="text/css">
+.AgilityFormBuilder .AgilityFormField {
+	margin-top:5px;
+}
+
+.AgilityFormBuilder .AgilityFormField label {	
+	display:block;
+}
+
+.AgilityFormBuilder .AgilityFormField label:after 
+{
+	content:" ";
+	font-weight: bold;
+}
+
+.AgilityFormBuilder .AgilityFormField label.RequiredField:after {
+	content:" *";
+	color: #900B09;		
+}
+
+.AgilityFormBuilder .AgilityFormField .ValidationError {
+	border: 1px solid #A28C8C;
+}
+
+.AgilityFormBuilder .AgilityFile,
+.AgilityFormBuilder .AgilityCaptcha {
+	display:block;
+}
+
+.AgilityFormBuilder .AgilityUploadProgressContainer {
+	display: none;
+	background-image: url(ecms.ashx/Agility.Web.Res.Images.ajax-loader.gif);
+	background-position: left top;
+	background-repeat: no-repeat;
+	height: 1em;
+	width: 200px;
+}
+
+.AgilityFormBuilder .AgilityUploadProgress {
+	display: none;
+}
+
+.AgilityFormBuilder .AgilityUploadedFile {
+	display: inline;
+}
+
+.AgilityFormBuilder .AgilityUploadedFileRemove {
+	background-image: url(ecms.ashx/Agility.Web.Res.Images.remove-x.png);
+	background-position: right top;
+	background-repeat: no-repeat;
+	height: 16px;
+	width: 16px;
+	display: none;
+	cursor: pointer;	
+	margin-left: 5px;
+}
+
+.AgilityFormBuilder input.PendingSubmit {
+	background-image: url(ecms.ashx/Agility.Web.Res.Images.ajax-loader.gif);
+	background-position: center 50%;
+	background-repeat: no-repeat;
+	background-color: lightgray;
+}
+
+.AgilityFormBuilder .AgilityUploadPanel form {
+	margin: 0px !important;
+	padding: 0px !important;
+}
+
+
+</style><div class="AgilityFormBuilderContainer" referencename="privacy_Form" contentid="1738" responsetype="Thanks" captcha="false" submitintougc="true"><style type="text/css">
+    .customForm h4{margin:1em 0;}
+    .customForm p{margin:1em 0;line-height:1.5;}
+    .customFormContainer{background-color:#f6f6f6;border-top:1px solid #e8e9e9;margin:0px auto;padding:0 0 40px 0;position: relative; overflow: hidden;}
+    .customForm{width:95%; text-align:left;}
+    .customFormLeft {width:318px;float:left;}
+    .customFormMiddle {width:104px;float:left;text-align:right;}
+    .customFormRight{margin-left:422px;margin-top:20px;}
+    .customForm input[type=text]{width:100%;border:1px solid #e8e9e9; height:32px;line-height:32px;}
+    .customForm textarea{width:100%;height:150px;}
+    .customForm label{font-family: 'gotham-book', Arial; font-size: 16px; color:#808285; text-decoration: none;}
+    .AgilityFormValidationArea{color:Red;}
+    .customFormFieldsLeft {width: 280px; float: left;}
+    .customFormFieldsMiddle {width:16px;float:left;height:240px;}
+    .customFormFieldsRight {width: 270px; float: left;}
+    @media (max-width: 640px)
+    {
+    .customForm{margin:10px auto 20px auto;}
+    .customFormLeft{width: 100%;}
+    .customFormMiddle{display:none;}
+    .customFormRight{width: 100%;margin-left:0px;}
+    .customFormFieldsLeft {width: 95%;}
+    .customFormFieldsMiddle {display:none;}
+    .customFormFieldsRight {width: 95%;}
+    .customForm label{font-size: 15px;}
+    }
+</style>
+<div class="customFormContainer">
+<div class="customForm innerContainer">
+<div class="customFormLeft">
+<h4>Contact Us</h4>
+<p class="bodyTextNavy">We want to hear from you! &nbsp;If you have any questions about our technology or services, please fill out the form to the right and we will get back to you shortly. Thank you for your interest.</p>
+</div>
+<div class="customFormMiddle"></div>
+<div class="customFormRight">
+<div class="AgilityFormBuilder" recordtypename="CustomForm">
+<div class="customFormFieldsLeft">
+<div class="AgilityFormField">
+<label class="RequiredField" style="display: block;" for="CustomForm_Field_11">Full name</label>
+<input name="FullName" id="CustomForm_Field_11" type="text" allownull="false">
+</div>
+<div class="AgilityFormField">
+<label style="display: block;" for="CustomForm_Field_12">Company name</label>
+<input name="CompanyName" id="CustomForm_Field_12" type="text">
+</div>
+<div class="AgilityFormField">
+<label class="RequiredField" style="display: block;" for="CustomForm_Field_13">Email address</label>
+<input name="EmailAddress" id="CustomForm_Field_13" type="text" allownull="false">
+</div>
+<div class="AgilityFormField">
+<label style="display: block;" for="CustomForm_Field_14">Telephone number</label>
+<input name="Telephonenumber" id="CustomForm_Field_14" type="text">
+</div>
+</div>
+<div class="customFormFieldsMiddle"></div>
+<div class="customFormFieldsRight">
+<div class="AgilityFormField">
+<label style="display: block;" for="CustomForm_Field_15">Questions / comments:</label>
+<textarea name="QuestionsComments" id="CustomForm_Field_15"></textarea>
+</div>
+
+<div class="AgilityFormField">
+<label style="display: block;">&nbsp;</label>
+<input class="button" id="CustomForm_submitButton" type="submit" value="Submit">
+</div>
+<div class="AgilityFormValidationArea"></div>
+</div>
+</div>
+</div>
+</div>
+</div></div></div>
+
+    
         </div>
-        <div id="footer">
+        <div id="FooterContainer">
             
-<div id="footer">
-	<div class="blue-footer">
-		<div class="shell">
-		    <div class="footer-col">
-<h5>Solutions</h5>
-<ul class="outer-list">
-    <li class="main-elem"><a href="/solutions-increase-conversion-rates/touchsell-ecommerce-acquisition-solutions">TouchSell</a></li>
-    <li><a href="/solutions-increase-conversion-rates/touchsell-ecommerce-acquisition-solutions/product-discovery-tools-help">Product Discovery</a></li>
-    <li><a href="/solutions-increase-conversion-rates/touchsell-ecommerce-acquisition-solutions/lead-management-tools-crm">Lead Capture</a></li>
-    <li><a href="/solutions-increase-conversion-rates/touchsell-ecommerce-acquisition-solutions/purchase-optimization-acquisition">Purchase Optimization</a></li>
-    <p>&nbsp;</p>
-    <li class="main-elem"><a href="/solutions-increase-conversion-rates/touchcare-care-solution-tools">TouchCare</a></li>
-    <li><a href="/solutions-increase-conversion-rates/touchcare-care-solution-tools/account-maintenance-tools-maintenance">Account Management</a></li>
-    <li><a href="/solutions-increase-conversion-rates/touchcare-care-solution-tools/customer-support-inquiries-training">Customer Support</a></li>
-    <li><a href="/solutions-increase-conversion-rates/touchcare-care-solution-tools/customer-growth-onboarding-renewals">Customer Growth</a></li>
-</ul>
-<p id="41a987c7-b678-42ef-82ea-d100b4f8859a"><a href="/about-touchcommerce/red-herring-award"><img alt="" src="http://touch-commerce-880c4ca5.s3.amazonaws.com/images/RedHerringTop100NA-Winner.jpg" style="width: 65px; height: 65px; margin-top: 2px; margin-bottom: 7px;"></a></p>
-<p id="41a987c7-b678-42ef-82ea-d100b4f8859a">
-<script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/TouchCommerce/asc?rid=41a987c7-b678-42ef-82ea-d100b4f8859a"></script>
-<a href="//privacy.truste.com/privacy-seal/TouchCommerce/validation?rid=960d4826-b24c-401c-bf45-e7fd1fc8fb6e" title="Validate TRUSTe privacy certification" target="_blank"><img style="border: none;" src="//privacy-policy.truste.com/privacy-seal/TouchCommerce/seal?rid=960d4826-b24c-401c-bf45-e7fd1fc8fb6e" alt="Validate TRUSTe privacy certification"></a></p>		    </div>
-		    <div class="footer-col">
-<h5>Platform</h5>
-<ul class="outer-list">
-    <li class="main-elem"><a href="/customer-engagement-tools/engagement-products-tools">Live-Agent Engagement </a></li>
-    <li><a href="/customer-engagement-tools/engagement-products-tools/touchchat-proactive-reactive-chat">TouchChat</a></li>
-    <li><a href="/customer-engagement-tools/engagement-products-tools/touchvoice-click-to-call">TouchVoice</a></li>
-    <li><a href="/customer-engagement-tools/engagement-products-tools/touchbrowse-cobrowse">TouchBrowse</a></li>
-    <p>&nbsp;</p>
-    <li class="main-elem"><a href="/customer-engagement-tools/self-service-engagement-products-tools">Self-Service Engagement </a></li>
-    <li><a href="/customer-engagement-tools/self-service-engagement-products-tools/touchguides-automated-solutions">TouchGuides</a></li>
-    <li><a href="/customer-engagement-tools/self-service-engagement-products-tools/touchcontent-web-content-display">TouchContent</a></li>
-    <li><a href="/customer-engagement-tools/self-service-engagement-products-tools/touchsurvey-customer-feedback">TouchSurvey</a></li>
-    <p>&nbsp;</p>
-    <li class="main-elem"><a href="/customer-engagement-tools/technology-admin-tools">RightTouch Technologies</a></li>
-    <li><a href="/client-success/technology-data-sheets/mobile-conversion-data-sheet">Mobile Platform Support</a></li>
-    <li><a href="/customer-engagement-tools/technology-admin-tools/data-warehouse-big-data">Big Data Analytics</a></li>
-    <li><a href="/customer-engagement-tools/technology-admin-tools/automation-engine-auto-response">Automation Engine</a></li>
-    <li><a href="/customer-engagement-tools/technology-admin-tools/dynamic-targeting-engine">Dynamic Targeting Engine</a></li>
-    <li><a href="/client-success/technology-data-sheets/interactive-div-layer">Engagement Layer</a></li>
-    <li><a href="/customer-engagement-tools/technology-admin-tools/reporting-interface">Reporting Interface</a></li>
-    <li><a href="/customer-engagement-tools/technology-admin-tools/workforce-management-supervisor-tool">Workforce Management</a></li>
-</ul>			</div>
-			<div class="footer-col">
-<h5>Managed Services</h5>
-<ul class="outer-list">
-    <li><a href="/services-to-increase-incremental-revenue/implementation-services-custom">Implementation Services</a></li>
-    <li><a href="/services-to-increase-incremental-revenue/program-optimization-design">Program Optimization</a></li>
-    <li><a href="/services-to-increase-incremental-revenue/agent-workforce-optimization">Client Agent Workforce Optimization</a></li>
-    <li><a href="/services-to-increase-incremental-revenue/agent-operations-management">Agent Operations Management</a></li>
-    <li><a href="/services-to-increase-incremental-revenue/voice-of-the-customer">Voice of the Customer</a></li>
-    <li><a href="/services-to-increase-incremental-revenue/custom-integration-services">Custom Integration</a></li>
-    <li><a href="/solutions-increase-conversion-rates/touchsell-touchcare-pricing-plans">Pricing Model</a></li>
-</ul>
-<h5>Client Success</h5>
-<ul class="outer-list">
-    <li><a href="/client-success/case-studies">Case Studies</a></li>
-    <li><a href="/client-success/testimonials">Client Testimonials</a></li>
-    <li><a href="/client-success/technology-data-sheets">Datasheets</a></li>
-    <li><a href="/client-success/videos">Video Library</a></li>
-    <li><a href="/client-success/white-papers">White Papers</a></li>
-    <li><a href="http://www.touchcommerce.com/solutions-increase-conversion-rates/touchsell-touchcare-solution-use-cases">Use Cases</a></li>
-    <li><a href="/about-touchcommerce/touchsell-demo">TouchSell Demo</a></li>
-    <li><a href="/about-touchcommerce/touchcare-demo">TouchCare Demo</a></li>
-</ul>			</div>				
-			<div class="footer-col last-col">
-<h5>About Us</h5>
-<ul class="outer-list">
-    <li><a href="/about-touchcommerce/history-touchcommerce">Company History</a></li>
-    <li><a href="/about-touchcommerce/management-team">Management Team</a></li>
-    <li><a href="/about-touchcommerce/board-of-directors">Board of Directors</a></li>
-    <li><a href="/about-touchcommerce/investors">Investors</a></li>
-    <li><a href="/about-touchcommerce/touchcommerce-news">In the News</a></li>
-    <li><a href="/about-touchcommerce/touchcommerce-events">Events</a></li>
-    <li><a href="/about-touchcommerce/blog">Company Blog</a></li>
-    <li><a href="/about-touchcommerce/partners">Partners</a></li>
-    <li><a href="http://tbe.taleo.net/CH07/ats/careers/jobSearch.jsp?org=TOUCHCOMMERCE&amp;cws=1">Careers</a></li>
-</ul>
-<h5>Contact Us</h5>
-<ul class="outer-list">
-    <li><a href="http://www.touchcommerce.com/contact-us/sales-inquiries">Sales Inquiries</a></li>
-    <li><a href="http://www.touchcommerce.com/contact-us/general-inquiries">General Inquiries</a></li>
-    <li><a href="http://www.touchcommerce.com/contact-us/press-inquiries">Press Inquiries</a></li>
-    <li><a href="http://www.touchcommerce.com/contact-us/career-inquiries">Careers</a></li>
-</ul>			</div>
-			<div class="cl">&nbsp;</div>
-		</div>
-	</div>
-</div>	
-<div class="copyright">© 2013 TouchCommerce, Inc. All rights reserved. 1-800-868-0898<br><a href="/privacy-policy">Privacy Policy</a></div>
-<!-- END Footer -->
+
+<div id="Footer">
+    <div class="FooterContent row">
+        <div class="footerLinksContainer">
+                        <div class="footerNav floatLeft">
+                            <a href="/our-approach">Our approach</a>
+                        </div>
+                        <div class="footerSeperator"></div>
+                        <div class="footerNav floatLeft">
+                            <a href="/our-solutions">Our solutions</a>
+                        </div>
+                        <div class="footerSeperator"></div>
+                        <div class="footerNav floatLeft">
+                            <a href="/our-technology">Our technology</a>
+                        </div>
+                        <div class="footerSeperator"></div>
+                        <div class="footerNav floatLeft">
+                            <a href="/our-services">Our services</a>
+                        </div>
+                        <div class="footerSeperator"></div>
+                        <div class="footerNav floatLeft">
+                            <a href="/our-resources">Our resources</a>
+                        </div>
+                        <div class="footerSeperator"></div>
+                        <div class="footerNav floatLeft">
+                            <a href="/about-us">Our company</a>
+                        </div>
+                        <div class="footerSeperator" style="display: none;"></div>
+        </div>
+        <div class="footerLinksContainerMobile">
+                        <div class="footerNav">
+                            <a href="/our-approach">Our approach</a>
+                        </div>
+                        <div class="clear"></div>
+                        <div class="footerNav">
+                            <a href="/our-solutions">Our solutions</a>
+                        </div>
+                        <div class="clear"></div>
+                        <div class="footerNav">
+                            <a href="/our-technology">Our technology</a>
+                        </div>
+                        <div class="clear"></div>
+                        <div class="footerNav">
+                            <a href="/our-services">Our services</a>
+                        </div>
+                        <div class="clear"></div>
+                        <div class="footerNav">
+                            <a href="/our-resources">Our resources</a>
+                        </div>
+                        <div class="clear"></div>
+                        <div class="footerNav">
+                            <a href="/about-us">Our company</a>
+                        </div>
+                        <div class="clear"></div>
+            <div class="clear"></div>
+        </div>
+        <div class="footerSocialContainer">
+                    <div class="socialIcon">
+                        <a href="/ecmsrss.aspx/Blogs" target="_self">
+                            <img src="http://cd2.touchcommerce.com/touch-commerce-v3/Social/rss.png" alt="">
+                        </a>                    
+                    </div>
+                    <div class="socialIcon">
+                        <a href="https://twitter.com/TouchCommerce" target="_self">
+                            <img src="http://cd2.touchcommerce.com/touch-commerce-v3/Social/twittier.png" alt="">
+                        </a>                    
+                    </div>
+                    <div class="socialIcon">
+                        <a href="http://www.linkedin.com/company/touchcommerce" target="_self">
+                            <img src="http://cd2.touchcommerce.com/touch-commerce-v3/Social/linkedin.png" alt="">
+                        </a>                    
+                    </div>
+        </div>
+        <div class="clear"></div>
+        <div class="footerBottomContainer">
+            <div class="footerNav floatLeft" style="margin-right: 10px;">
+                <a href="/">© 2014 TouchCommerce, Inc.  All Rights Reserved.</a>
+            </div>
+                <div class="footerNav floatLeft">
+                    <a href="/privacy" target="_self">Privacy Notice</a>
+                </div>
+                <div class="footerBottomSeperator" style="display: none;"></div>
+            <div class="footerMeta floatLeft">
+                <a href="#"></a>
+            </div>
+            <div style="float: left; margin-top: -10px;">
+                <div id="41a987c7-b678-42ef-82ea-d100b4f8859a"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/TouchCommerce/asc?rid=41a987c7-b678-42ef-82ea-d100b4f8859a"></script><a href="//privacy.truste.com/privacy-seal/TouchCommerce/validation?rid=960d4826-b24c-401c-bf45-e7fd1fc8fb6e" title="Validate TRUSTe privacy certification" target="_blank"><img style="border: none; width: 75%; height: auto;" src="//privacy-policy.truste.com/privacy-seal/TouchCommerce/seal?rid=960d4826-b24c-401c-bf45-e7fd1fc8fb6e" alt="Validate TRUSTe privacy certification"></a></div>
+            </div>
+        </div>
+        <div class="footerBottomContainerMobile">
+            <div class="footerNav">
+                <a href="/">© 2014 TouchCommerce, Inc.  All Rights Reserved.</a>
+            </div>
+            <div class="clear"></div>
+            <div style="position: relative; display: inline-block;">
+                <div class="footerNav floatLeft">
+                    <a href="/privacy" target="_self">Privacy Notice</a>
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="footerMeta">
+                <a href="#"></a>
+            </div>
+            <div>
+                <div id="9bb13fc5-e7e4-44a5-804f-b09528fe95f3"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/TouchCommerce/asc?rid=9bb13fc5-e7e4-44a5-804f-b09528fe95f3"></script><a href="//privacy.truste.com/privacy-seal/TouchCommerce/validation?rid=8a41e075-f68b-4106-9993-e01c60d0115b" title="TRUSTe European Safe Harbor certification" target="_blank"><img style="border: none;" src="//privacy-policy.truste.com/privacy-seal/TouchCommerce/seal?rid=8a41e075-f68b-4106-9993-e01c60d0115b" alt="TRUSTe European Safe Harbor certification"></a></div>
+            </div>
+        </div>
+    </div>        
+</div>
+
+
 
         </div>
-    
-        <script type="text/javascript">
-            Agility.UGC.API.OnInit("http://ugc.agilitycms.com/Agility-UGC-API-JSONP.svc", "16B16962-DD88-4B9C-8B3A-A97421417395", "404862368", "873", "-1", "9c1904fe4c9f351c6fc755c8e97c1832fc244b79");
-        </script>
-        <script type="text/javascript" charset="utf-8" src="https://tcnew.inq.com/chatskins/launch/inqChatLaunch356.js"></script>
-    
+    </div>
 
-</body></html>
+    <script type="text/javascript">
+        Agility.UGC.API.OnInit("http://ugc.agilitycms.com/Agility-UGC-API-JSONP.svc", "85549BEF-5427-4D17-9F6B-71049D969853", "420960787", "420", "-1", "bc76e575079f38f595d1c8aee79f26c27b4e79f1");
+    </script>
+
+<script>
+
+/* ---------- options ---------- */
+
+    // ## exclude from tracking section ##
+      //control
+      var excludeClass = "exclude"; //set class to be excluded from all event tracking
+
+    // ## file downloads section ##
+      //control
+      var fileTypes = [".pdf",".jpg",".avi",".zip",".xlsx"]; //set filetypes to track
+      //naming
+      var fileTypesCat = 'Download'; //category label
+
+    // ## links section ##
+
+      //internal links
+        //control
+        var trIntLin                    = false; //track internal links as events -> available options true / false
+        var trIntLinSepar               = false; //separatly track internal links that open in the same/new window/tab -> available options true / false
+
+        //naming
+        var intLinParCat                = 'Internal Links'; //category label for internal links
+        var intLinParAct                = 'Internal Link'; //action label for internal links
+        var intLinNewCat                = 'Internal Links (new window/tab)'; //category label for internal links with (new windows/tab).
+        var intLinNewAct                = 'Internal Link (new window/tab)'; //action label for internal links with (new windows/tab)
+
+        //exclusion rules
+        var intLinFnOnlyOnUrl  = [];
+            /* Have the feature active only on specified pages. Add everything after domain name to specify the page.
+               If the page URL you wish to specify is like: http://domain.net/sublink/index.html, you would add "sublink/index.html".
+               If the page uses permalink structure like http://domain.net/sublink/sublinkLevel2/, you would add "sublink/sublinkLevel2"
+            */
+
+      //external links
+        //control
+        var trackExternalLinks                  = true; //track external links as events -> available options true / false
+        var trackExternalLinksSeparate          = false; //track external links that open in the same/new window/tab -> available options true / false
+
+        //naming
+        var externalLinksParentCat              = 'Outbound Links'; //category label for internal links
+        var externalLinksParentAct              = 'Outbound Link'; //action label for internal links
+        var externalLinksNewCat                 = 'Outbound Links (new window/tab)'; //category label for internal links with (new windows/tab)
+        var externalLinksNewAct                 = 'Outbound Link (new window/tab)'; //action label for internal links with (new windows/tab)
+
+        //exclusion rules
+        var externalLinksFeatureActiveOnlyOnUrl  = [];
+            /* Have the feature active only on specified pages. Add everything after domain name to specify the page.
+               If the page URL you wish to specify is like: http://domain.net/sublink/index.html, you would add "sublink/index.html".
+               If the page uses permalink structure like http://domain.net/sublink/sublinkLevel2/, you would add "sublink/sublinkLevel2"
+            */
+
+      //telephone numbers
+        //control
+        var telNumbers                          = true; //track telephone and Skype links -> available options true / false
+        //naming
+        var telNumbersCat                       = 'Phone'; //category label
+
+      //emails
+        //control
+        var mailToLinks                         = true; //track email links -> available options true / false
+        //naming
+        var mailToLinksCat                      = 'Email'; //category label
+        var mailToLinksAct                      = 'Email Click'; //action label
+
+    // ## videos section ##
+
+      //YouTube
+        //control
+        var trackYouTubeVideos                  = true; //track YouTube videos -> available options true / false
+        //naming
+        var trackYouTubeVideosCat               = 'YouTube Videos'; //category label
+
+
+    // ## cross-domain tracking ##
+        var trackCrossDomain                    = ["touchcommerce.com", "cdn.agilitycms.com", "cd2.touchcommerce.com"]; //set your domain(s) here
+
+
+
+// ------------------------ do not edit below this line ----------------------- \\
+
+
+
+
+//dependency test
+if (typeof(_gaq) !== 'undefined' && typeof jQuery != 'undefined') {
+debugger;
+    //check jQuery version function
+    function minjQueryVersion(version) {
+      return true;
+    };
+
+
+    if (minjQueryVersion('1.6')) {
+//start code
+debugger;
+    //youtube tracking variables
+    var tag = document.createElement('script');
+    tag.src = "//www.youtube.com/iframe_api";
+    var firstScriptTag = document.getElementsByTagName('script')[0];
+    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+    var videoArray = new Array();
+    var playerArray = new Array();
+
+            function GAlistenToEvent() {
+
+                var rootDomain = location.host
+                var cur_pathname = window.location.pathname;
+                if (cur_pathname.charAt(cur_pathname.length - 1) == '/') {targetLastPartUrl = cur_pathname.slice(0,-1);} else {targetLastPartUrl = cur_pathname;}; //determen if url string ends in "/" and remove it for filter use
+                var eventDelay = 100; //controll the delay from ga code send to link/action activation for an event
+
+                //preparation code for links
+                $('a[href]').each(function(index) {
+
+                    var link = $(this);
+                    var href = link.attr('href');
+                    var target = link.attr('target');
+                    var linkTypeFile = false;
+                    var crossDomainLink = false;
+                    var trackedExternalLink = false;
+                    var trackedInternalLink = false;
+
+                    //exclusion variables
+                    var internaLinksFeatureIsActiveOnlyOnUrl = false;
+                    var internaLinksFeatureIsActiveOnThisUrlCheck = true;
+
+                    var externalLinksFeatureIsActiveOnlyOnUrl = false;
+                    var externalLinksFeatureIsActiveOnThisUrlCheck = true;
+
+
+
+
+                    //check if a link has an onclick event already
+                    if (link.attr('onclick') != undefined) {
+                        var linkHasOnClick = true;
+                        if(link.attr('onclick').indexOf('_gaq') != -1) {
+                            var linkHasOnClickGaq = true;
+                            var linkHasOnClickGaqCode = link.attr('onclick');
+                        } else {
+                            var linkHasOnClickGaq = false;
+                        };
+                    } else {
+                        var linkHasOnClick = false;
+                    };
+
+                    //set target status of a link
+                    if (target !== 'undefined' && target !== false) {
+                        if(target == '_blank' || target == '_new' || target == 'new') {var link_status = 'new';} else {var link_status = 'same';}
+                    } else {
+                        var link_status = 'same';
+                    };
+
+                    //set status for tel number/skype call link
+                    if(href.indexOf('skype:') !=-1 || href.indexOf('tel:')!=-1){
+                        var linkTypeTel = true;
+                    } else {
+                        var linkTypeTel = false;
+                    };
+
+                    //set status for email link
+                    if(href.indexOf('mailto:') !=-1){
+                        var linkTypeEmail = true;
+                    } else {
+                        var linkTypeEmail = false;
+                    };
+
+                /* internal links active only on specified pages check block */
+                    //determen if the feature is active
+                    if (0 < intLinFnOnlyOnUrl.length) {
+                      var internaLinksFeatureIsActiveOnlyOnUrlFeatureActive = true;
+                    } else {
+                        var internaLinksFeatureIsActiveOnlyOnUrlFeatureActive = false;
+                    }
+
+                    $.each(intLinFnOnlyOnUrl, function(k) {
+
+                        //add a starting "/" to the beggining of the "intLinFnOnlyOnUrl" var, if not present
+                        if(this[0] != '/') {
+                            var internaLinksFeatureActiveOnlyOnUrlSingle = '/'+this;
+                        }
+                        else {
+                            var internaLinksFeatureActiveOnlyOnUrlSingle = this;
+                        }
+
+                        //some comment here
+                        if(internaLinksFeatureActiveOnlyOnUrlSingle == targetLastPartUrl) {
+                            internaLinksFeatureIsActiveOnlyOnUrl = true;
+                        };
+
+                    });
+
+                    //set the state for feature and page
+                    if(internaLinksFeatureIsActiveOnlyOnUrlFeatureActive) {
+                        if(internaLinksFeatureIsActiveOnlyOnUrl) {internaLinksFeatureIsActiveOnThisUrlCheck = true;}
+                        else {internaLinksFeatureIsActiveOnThisUrlCheck = false;}
+                    }
+                    else {
+                        internaLinksFeatureIsActiveOnThisUrlCheck = true;
+                    };
+
+
+                /* external links active only on specified pages check block */
+                    //determen if the feature is active
+                    if (0 < externalLinksFeatureActiveOnlyOnUrl.length) {
+                      var externalLinksFeatureIsActiveOnlyOnUrlFeatureActive = true;
+                    } else {
+                        var externalLinksFeatureIsActiveOnlyOnUrlFeatureActive = false;
+                    }
+
+                    $.each(externalLinksFeatureActiveOnlyOnUrl, function(k) {
+
+                        //add a starting "/" to the beggining of the "externalinksFeatureActiveOnlyOnUrl" var, if not present
+                        if(this[0] != '/') {
+                            var externalLinksFeatureActiveOnlyOnUrlSingle = '/'+this;
+                        }
+                        else {
+                            var externalLinksFeatureActiveOnlyOnUrlSingle = this;
+                        }
+
+                        //some comment here
+                        if(externalLinksFeatureActiveOnlyOnUrlSingle == targetLastPartUrl) {
+                            externalLinksFeatureIsActiveOnlyOnUrl = true;
+                        };
+
+                    });
+
+                    //set the state for feature and page
+                    if(externalLinksFeatureIsActiveOnlyOnUrlFeatureActive) {
+                        if(externalLinksFeatureIsActiveOnlyOnUrl) {externalLinksFeatureIsActiveOnThisUrlCheck = true;}
+                        else {externalLinksFeatureIsActiveOnThisUrlCheck = false;}
+                    }
+                    else {
+                        externalLinksFeatureIsActiveOnThisUrlCheck = true;
+                    };
+
+
+                    //start link handling code
+
+                        //handle filetypes
+                        $.each(fileTypes, function(i) {
+                            if($(link).attr('href').toLowerCase().indexOf(this)!=-1 && !(link.hasClass(excludeClass))){
+
+                                console.log($(link).attr('href'));
+
+
+                                linkTypeFile = true;
+                                $(link).bind('click', function(c) {
+                                    c.preventDefault();
+                                    var fileNameCur = href.substring(href.lastIndexOf('/') + 1);
+                                    var extCur = href.split('.').pop();
+                                    if(linkHasOnClick) {
+                                        if(linkHasOnClickGaq) {
+                                        }
+                                        else {
+                                            _gat._getTrackerByName()._trackEvent(fileTypesCat,extCur,fileNameCur);
+                                        }
+                                    }
+                                    else {
+                                        _gat._getTrackerByName()._trackEvent(fileTypesCat,extCur,fileNameCur);
+                                    };
+                                });
+                            }
+                        });
+
+
+                        //handle cross-domain links
+                        $.each(trackCrossDomain, function(j) {
+                            if(($(link).attr('href').indexOf(this)!=-1)&&(window.location.href.indexOf(this)==-1) && !(link.hasClass(excludeClass) && !linkTypeFile) ){
+                                crossDomainLink = true;
+                                $(link).bind('click', function(l) {
+                                    if(typeof(_gat)=="object"){
+                                        l.preventDefault();
+                                        if ($(link).attr('target') != "_blank")
+                                        {
+                                            _gaq.push(['_link',$(link).attr('href')]);
+                                        }
+                                        else
+                                        {
+                                            var tracker = _gat._getTrackerByName();
+                                            var fullUrl = tracker._getLinkerUrl($(link).attr('href'));
+                                            window.open(fullUrl);
+                                        }
+                                    }
+                                });
+                            }
+                        });
+
+
+                        //internal links tracking
+                        if ((href.match(/^http/)) && (href.indexOf(rootDomain) != -1) && !linkTypeFile && !linkTypeTel && !linkTypeEmail && trIntLin && !(link.hasClass(excludeClass)) && !crossDomainLink && internaLinksFeatureIsActiveOnThisUrlCheck) {
+                            $(link).bind('click', function(d) {
+                                debugger;
+                                d.preventDefault();
+                                //tag link as internal for relative internal link handling
+                                trackedInternalLink = true;
+                                //handle diferent target links
+                                if(trIntLinSepar) {
+                                    if(link_status == 'same') {
+                                        if(linkHasOnClick) {
+                                            if(linkHasOnClickGaq) {
+
+                                            }
+                                            else {
+                                                _gat._getTrackerByName()._trackEvent(intLinParCat,intLinParAct,href);
+
+                                            }
+                                        }
+                                        else {
+                                            _gat._getTrackerByName()._trackEvent(intLinParCat,intLinParAct,href);
+                                        }
+                                    }
+                                    else if (link_status == 'new') {
+                                       if(linkHasOnClick) {
+                                            if(linkHasOnClickGaq) {
+
+                                            }
+                                            else {
+                                                _gat._getTrackerByName()._trackEvent(intLinNewCat,intLinNewAct,href);
+                                            }
+                                        }
+                                        else {
+                                            _gat._getTrackerByName()._trackEvent(intLinNewCat,intLinNewAct,href);
+                                        };
+                                    };
+                                }
+                                else {
+                                    if(link_status == 'same') {
+
+                                        if(linkHasOnClick) {
+                                            if(linkHasOnClickGaq) {
+                                            }
+                                            else {
+                                                _gat._getTrackerByName()._trackEvent(intLinParCat,intLinParAct,href);
+                                            }
+                                        }
+                                        else {
+                                            _gat._getTrackerByName()._trackEvent(intLinParCat,intLinParAct,href);
+                                        };
+                                    }
+                                    else if(link_status == 'new') {
+
+
+                                        if(linkHasOnClick) {
+                                            if(linkHasOnClickGaq) {
+                                            }
+                                            else {
+                                                _gat._getTrackerByName()._trackEvent(intLinParCat,intLinParAct,href);
+                                            }
+                                        }
+                                        else {
+                                            _gat._getTrackerByName()._trackEvent(intLinParCat,intLinParAct,href);
+                                        };
+                                    };
+                                };
+                            });
+                        }
+
+
+                        //external links tracking
+                        else if ( (href.match(/^http/)) && (href.indexOf(rootDomain) == -1) && !linkTypeFile && !linkTypeTel && !linkTypeEmail && trackExternalLinks && !(link.hasClass(excludeClass)) && !crossDomainLink && externalLinksFeatureIsActiveOnThisUrlCheck) {
+                            $(link).bind('click', function(d) {
+                                debugger;
+                                d.preventDefault();
+                                //tag link as external for relative internal link handling
+                                trackedExternalLink = true;
+                                //handle diferent target links
+                                if(trackExternalLinksSeparate) {
+                                    if(link_status == 'same') {
+                                        if(linkHasOnClick) {
+                                            if(linkHasOnClickGaq) {
+                                            }
+                                            else {
+                                                _gat._getTrackerByName()._trackEvent(externalLinksParentCat,externalLinksParentAct,href);
+                                            }
+                                        }
+                                        else {
+                                            _gat._getTrackerByName()._trackEvent(externalLinksParentCat,externalLinksParentAct,href);
+                                        }
+                                    }
+                                    else if (link_status == 'new') {
+                                       if(linkHasOnClick) {
+                                            if(linkHasOnClickGaq) {
+                                            }
+                                            else {
+                                                _gat._getTrackerByName()._trackEvent(externalLinksNewCat,externalLinksNewAct,href);
+                                            }
+                                        }
+                                        else {
+                                            _gat._getTrackerByName()._trackEvent(externalLinksNewCat,externalLinksNewAct,href);
+                                        };
+                                    };
+                                }
+                                else {
+                                    if(link_status == 'same') {
+                                        if(linkHasOnClick) {
+                                            if(linkHasOnClickGaq) {
+                                                setTimeout('document.location = "' + href + '"', eventDelay);
+                                            }
+                                            else {
+                                                _gat._getTrackerByName()._trackEvent(externalLinksParentCat,externalLinksParentAct,href);
+                                                setTimeout('document.location = "' + href + '"', eventDelay);
+                                            }
+                                        }
+                                        else {
+                                            _gat._getTrackerByName()._trackEvent(externalLinksParentCat,externalLinksParentAct,href);
+                                                setTimeout('document.location = "' + href + '"', eventDelay);
+                                        };
+                                    }
+                                    else if(link_status == 'new') {
+                                        if(linkHasOnClick) {
+                                            if(linkHasOnClickGaq) {
+                                                setTimeout(window.open(href,target), eventDelay);
+                                            }
+                                            else {
+                                                _gat._getTrackerByName()._trackEvent(externalLinksParentCat,externalLinksParentAct,href);
+                                                setTimeout(window.open(href,target), eventDelay);
+                                            }
+                                        }
+                                        else {
+                                            _gat._getTrackerByName()._trackEvent(externalLinksParentCat,externalLinksParentAct,href);
+                                                setTimeout(window.open(href,target), eventDelay);
+                                        };
+                                    };
+                                };
+                            });
+                        }
+
+
+                        //telephone or skype links tracking
+                        else if (!linkTypeFile && linkTypeTel && !linkTypeEmail && telNumbers && !(link.hasClass(excludeClass)) && !crossDomainLink) {
+                            $(link).bind('click', function(d) {
+                                d.preventDefault();
+                                if(href.match(/^skype:/)) {
+                                  phone = href.replace('skype:','');
+                                  var telNumbersAct = 'Click to Call (Skype)';
+                                } else {
+                                  phone = href.replace('tel:','');
+                                  var telNumbersAct = 'Click to Call';
+                                }
+                                if(linkHasOnClick) {
+                                    if(linkHasOnClickGaq) {
+                                    }
+                                    else {
+                                        _gat._getTrackerByName()._trackEvent(telNumbersCat,telNumbersAct,phone);
+                                    }
+                                }
+                                else {
+                                    _gat._getTrackerByName()._trackEvent(telNumbersCat,telNumbersAct,phone);
+                                };
+
+
+                            });
+                        }
+
+                        //email links tracking
+                        else if (!linkTypeFile && !linkTypeTel && linkTypeEmail && mailToLinks && !(link.hasClass(excludeClass)) && !crossDomainLink) {
+                            $(link).bind('click', function(d) {
+                                d.preventDefault();
+                                mail = href.replace('mailto:','');
+                                if(linkHasOnClick) {
+                                    if(linkHasOnClickGaq) {
+                                    }
+                                    else {
+                                        _gat._getTrackerByName()._trackEvent(mailToLinksCat,mailToLinksAct,mail);
+                                    }
+                                }
+                                else {
+                                    _gat._getTrackerByName()._trackEvent(mailToLinksCat,mailToLinksAct,mail);
+                                };
+                            });
+                        }
+
+                        //internal links tracking // relative links
+                        else if (!linkTypeFile && !linkTypeTel && !linkTypeEmail && trIntLin && !(link.hasClass(excludeClass)) && !crossDomainLink && !trackedExternalLink && !trackedInternalLink && internaLinksFeatureIsActiveOnThisUrlCheck) {
+                            $(link).bind('click', function(d) {
+                                debugger;
+                                d.preventDefault();
+                                //handle diferent target links
+                                if(trIntLinSepar) {
+                                    if(link_status == 'same') {
+                                        if(linkHasOnClick) {
+                                            if(linkHasOnClickGaq) {
+                                            }
+                                            else {
+                                                _gat._getTrackerByName()._trackEvent(intLinParCat,intLinParAct,href);
+                                            }
+                                        }
+                                        else {
+                                            _gat._getTrackerByName()._trackEvent(intLinParCat,intLinParAct,href);
+                                        }
+                                    }
+                                    else if (link_status == 'new') {
+                                       if(linkHasOnClick) {
+                                            if(linkHasOnClickGaq) {
+                                            }
+                                            else {
+                                                _gat._getTrackerByName()._trackEvent(intLinNewCat,intLinNewAct,href);
+                                            }
+                                        }
+                                        else {
+                                            _gat._getTrackerByName()._trackEvent(intLinNewCat,intLinNewAct,href);
+                                        };
+                                    };
+                                }
+                                else {
+                                    if(link_status == 'same') {
+
+                                        if(linkHasOnClick) {
+                                            if(linkHasOnClickGaq) {
+                                            }
+                                            else {
+                                                _gat._getTrackerByName()._trackEvent(intLinParCat,intLinParAct,href);
+                                            }
+                                        }
+                                        else {
+                                            _gat._getTrackerByName()._trackEvent(intLinParCat,intLinParAct,href);
+                                        };
+                                    }
+                                    else if(link_status == 'new') {
+
+
+                                        if(linkHasOnClick) {
+                                            if(linkHasOnClickGaq) {
+                                            }
+                                            else {
+                                                _gat._getTrackerByName()._trackEvent(intLinParCat,intLinParAct,href);
+                                            }
+                                        }
+                                        else {
+                                            _gat._getTrackerByName()._trackEvent(intLinParCat,intLinParAct,href);
+                                        };
+                                    };
+                                };
+                            });
+                        }
+
+
+                    //end link handling code
+
+                 });
+            }
+
+            $(window).load( function() {
+                GAlistenToEvent();
+            });
+
+    }
+// end code
+}
+
+</script><script src="ecms.ashx/Agility.Web.Scripts.AgilityFormBuilder.js" type="text/javascript"></script>
+
+
+
+</div></body></html>
