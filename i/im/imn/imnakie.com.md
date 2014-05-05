@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imnakie.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909150632id_/http%3A//www.imnakie.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imnakie.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505081107id_/http%3A//www.imnakie.com/privacy.html%3F) for the most accurate reproduction.*
 
-# imnakie - Privacy
+# imnakie - Privacy Policy
 
 [Home](http://www.imnakie.com/) / Privacy Policy
 
