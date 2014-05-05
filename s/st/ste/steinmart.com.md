@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steinmart.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228100430id_/http%3A//www.steinmart.com/helpdeskarticle/-/-helpdesk_category_cmp_20121219_173952-smt_helpdesk_landing_article_privacy_policy_cmp_20120808_142218-SMTUS-WFS-en_US---USD) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steinmart.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505093136id_/http%3A//www.steinmart.com/privacypolicy) for the most accurate reproduction.*
 
 # Stein Mart: US Channel
 
