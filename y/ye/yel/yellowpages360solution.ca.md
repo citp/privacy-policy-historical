@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowpages360solution.ca privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204012501id_/http%3A//www.yellowpages360solution.ca/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowpages360solution.ca privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505195637id_/http%3A//www.yellowpages360solution.ca/legal/privacy-policy) for the most accurate reproduction.*
 
 # Yellow Pages 360 Solution Privacy Policy
 
