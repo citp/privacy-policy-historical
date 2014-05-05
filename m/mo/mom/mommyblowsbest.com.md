@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mommyblowsbest.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908020213id_/http%3A//www.mommyblowsbest.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommyblowsbest.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505191203id_/http%3A//tour1.mommyblowsbest.com/en/privacy) for the most accurate reproduction.*
 
-# Warning | MommyBlowsBest.com
+# Privacy Policy
 
 **This website is owned by **MOMMY BLOWS BEST****
 
