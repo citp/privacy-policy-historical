@@ -1,51 +1,86 @@
-> *The following text is extracted and transformed from the persistent.co.in privacy policy that was archived on 2005-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050309010335id_/http%3A//www.persistent.co.in/PrivacyDeclaration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the persistent.co.in privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505113937id_/http%3A//www.persistent.com/privacy-policy) for the most accurate reproduction.*
 
-# Persistent Systems Private Limited - Offshore Software Development Services
+# Privacy Policy | Persistent Systems | Software Product Lifecycle and Technology Services
 
-Persistent Systems has created this Privacy Policy in order to demonstrate our firm commitment to your privacy on the Persistent Systems web-sites. The following are our information gathering, dissemination and protection practices. 
+**Our Commitment to Privacy, Data integrity & Security of information  
+**  
+Data privacy is important to us. Our privacy policy describes how we collect, use and disclose information that we may obtain through this Site or as a part of our internal processes.   
+The Information We Collect
 
-  
-Compliance
+We collect information in the following ways:
 
-By accessing this site you agree to the terms of the Persistent Systems Privacy Policy outlined below. If you do not agree to the terms of this policy, please do not access or use this site. 
+**1\. Information collected via company site**
 
-Collection of information
-
-Persistent Systems does not collect any personally identifiable information about you other than the information that you affirmatively choose to submit to us (such as your name, e-mail address, street address and company name) when you choose to download reports, request information online, subscribe to Persistent Systems newsletters, etc. 
-
-We do recognize and collect general information such as IP address, browser type, ISP, referring/exit pages, platform type, date/time stamp, number of clicks, domain name and country/state. 
-
-Use of information
-
-Persistent Systems collects this information to make better business decisions, support the activities you choose to engage in, and provide higher quality solutions and services to our customers. We also use your non-personal information to enhance our web-site. We may use your IP address to help diagnose problems with the server and to administer the web-site. We may also need to disclose your Personal Data to others upon request of law enforcement authorities or when required to do so by law or legal process. We will not sell, share, or rent this information, for commercial purposes, to any person or organization. 
-
-Information security
-
-Persistent Systems classifies your personal information as Confidential Information. Please remember that Internet communications are not secure. We do not use encryption tools in connection with this Site and cannot accept responsibility for the unauthorised access by a third party and/or the corruption of data sent by you to us during transmission. If you are providing us with confidential data, you should consider sending such data by post. However, we do employ adequate measures to ensure that your data is kept secure once it reaches us.   
+  * We collect information when users browse this Site or any other Persistent website in which user can provide information directly, including personally identifiable information as part of the online job application process or in the process of registering for a Persistent sponsored training, event, user group, or conference.
 
 
-  
-Links
+  * Also, when you visit our site, we collect the IP address of the device you use to connect to the Internet the type of operating system you have, and which site you came from. This information helps us provide an online experience that matches your device and may include:
 
-This web-site contains links to web-sites of third parties. Persistent Systems has no control over, and is not responsible for, the content, privacy policies or reliability of such sites. 
 
-Changes to the policy
 
-Persistent Systems reserves the right to modify or amend this Privacy Policy at its own discretion. The changes can be viewed here or elsewhere at this site. Your continued usage of this site will mean you accept those changes. 
+a) Your response to one of our emails  
+b) Time and duration of your visit to our site  
+c) Pages you viewed while on our site
 
-  
-Contact information
+**2\. Personal Information**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your interaction with Persistent Systems by means of this site, please contact: 
+  * Financial information such as the employee bank account details, investment details, salary related data including but not limited to Form No. 16, dependent or nominee list, reimbursements or voucher details, employee exemption forms (Medical / LTA/ rent), details related to tax benefits, employee’s income through previous employer or other payment instrument details are held for the purpose of processing salary and to satisfy legal, regulatory or accounting requirements under the applicable laws.
 
-Corporate Headquarters
 
-Persistent Systems Private Limited   
-"Bhageerath"   
-402, Senapati Bapat Road   
-Pune 411016  
-India   
-Tel: +91 (20) 2567 8900   
-Fax: +91 (20) 2567 8901E-  
-Mail address: [webmaster@persistent.co.in](mailto:webmaster@persistent.co.in)  
+  * Employees are responsible for the authenticity of the Personal Information supplied to Persistent Systems.
 
+
+  * Employment-related Personal Information held by Persistent with regards to serving or former employees include name, address, social security identification number, records of personal and family particulars, education and qualifications, employment history, salary and allowances, terms and conditions of service, housing, medical records, leave and passages, training, investments, outside employment, appraisal reports, assessment panels' comments, promotion board assessments and reports, conduct and discipline, career development, retirement and pension, re-employment or extension of service and renewal of agreement or revision of agreement terms.
+
+
+  * Employment-related Personal Information data of serving and former employees are held for the administration and processing of employment-related matters including appointments, integrity checking, postings and transfers, offer/renewal/extension of agreement, incremental credit, training and career development, revision of terms or conditions of service, promotion, discipline, continuation in or removal from office, provident fund and provision of testimonials. Some personal particulars may be published in Persistent Systems website.
+
+
+
+**3\. How Do We Use the Information We Collect / Information we share**
+
+Persistent does not sell, rent or lease personal data, or disclose it to third parties unless there is a legally valid reason, or a contractual obligation for doing so. In order to perform its valid obligation towards Personal Information provider, Persistent may share the Personal Information with third-party business partners including contractors, pay-roll processors, auditors, and legal advisors ("Third-Party Partners"); provided that a receipt has been received stating that recipient shall also maintain confidentiality and protect the Personal Information. Persistent will adhere to all applicable laws and expects our Third-Party Partners to do the same.
+
+Persistent may disclose the Personal Information without employee’s express written permission, if allowed under applicable laws, in circumstances that include, but are not limited to:
+
+  * Requests from governmental agencies, subpoenas, court orders or other legal requirements. In these circumstances, Persistent will make reasonable effort to limit the nature of the disclosure.
+  * Limited employment status data (including dates of employment and positions held) in the course of an employment-related inquiry.
+  * Emergency situations as necessary to ensure health and safety.
+
+
+
+**4\. Security Measures:**
+
+  * Persistent respects employee preferences concerning the treatment of Personal Information that Persistent may collect from them. Persistent Systems takes reasonable measures to protect the Personal Information from loss, misuse, or unauthorized access, disclosure, alteration or destruction. Persistent stores personal data, regardless of its form, with security procedures appropriate to the sensitivity of the data.
+  * Persistent Systems destroys all Personal Information that is no longer needed for the purposes for which it was collected, unless its retention is required to satisfy legal, regulatory or accounting requirements or to protect our interests. Records which may contain Personal Information are retained and destroyed by Persistent Systems in accordance with the company’s Record Retention Policy.
+  * Persistent Systems takes reasonable steps to ensure that all dealings in Personal Data are:
+
+A. Processed fairly & lawfully;  
+B. Obtained only with the consent of the Personal Information provider;  
+C. Collected, only when: the information is collected for a lawful purpose connected with a function or activity of Persistent Systems; and the collection of the information is considered necessary for that purpose.  
+D. Not retained for a period longer than is required for the purposes for which the information may be lawfully be used or is otherwise required under any law for the time being in force.  
+E. Available for review by the Personal Information provider, as and when requested.
+
+
+
+
+**5\. Information Security:**
+
+We work hard to protect Persistent and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular: 
+
+  * This site has security measures in place to protect the loss, misuse, and/or alteration of information under our control. The data resides behind a firewall, with access restricted to authorized Persistent personnel.
+  * We restrict access to personal information to Persistent employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+
+
+
+**6\. Enforcement**
+
+We regularly review our compliance with our Privacy Policy. We also adhere to several self-regulatory frameworks.
+
+**7\. Changes to this Policy**
+
+Please note that this Privacy Policy may change from time to time and the same will be communicated in writing (including email notification of Privacy Policy changes). Persistent Systems will not reduce employee rights that are permitted under the applicable laws. InfoSec will continue to review the effectiveness of this policy to ensure it is achieving its stated objectives. The most recent policy will be published and will reflect the effective date.
+
+**8\. Grievances**
+
+Any grievance or complaint, in relation to processing of information, should be addressed in writing to Persistent System's designated Privacy Officer, who shall redress the grievances as expeditiously as possible at [Privacyofficer@persistent.co.in](mailto:Privacyofficer@persistent.co.in)
