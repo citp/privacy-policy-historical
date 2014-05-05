@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentalhomesplus.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103074436id_/http%3A//www.rentalhomesplus.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentalhomesplus.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505104649id_/http%3A//rentalhomesplus.com/privacy.htm) for the most accurate reproduction.*
 
 # Apartments.com Private Policy
 
