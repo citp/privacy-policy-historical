@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bconnectedonline.com privacy policy that was archived on 2013-11-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131111174908id_/http%3A//www.boydgaming.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bconnectedonline.com privacy policy that was archived on 2014-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140505090441id_/http%3A//www.boydgaming.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
         <meta charset="utf-8">
@@ -69,11 +69,11 @@ This Privacy Policy was posted on January 7, 2002 and updated on January 3, 2007
 							<script>
 				document.domain = 'boydgaming.com';
 			</script>
-			<link href="http://static.boydgaming.net/boydgaming/../global/normalize.css?1351006602" rel="stylesheet" type="text/css">
-			<link href="http://static.boydgaming.net/boydgaming/../global/prop_styles_v3.css?1383360743" rel="stylesheet" type="text/css">
+						<link href="http://static.boydgaming.net/boydgaming/../global/normalize.css?1351006602" rel="stylesheet" type="text/css">
+			<link href="http://static.boydgaming.net/boydgaming/../global/prop_styles_v3.css?1395863508" rel="stylesheet" type="text/css">
 			
 			<link href="http://static.boydgaming.net/boydgaming/boydgaming_v3.css?1380134307" rel="stylesheet" type="text/css">
-			<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+						<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 			<script>
 			  dataLayer = [];
 			</script>
@@ -160,7 +160,7 @@ This Privacy Policy was posted on January 7, 2002 and updated on January 3, 2007
 <![endif]-->
 			
 			</head>
-			<body class="boyd global">
+			<body class="boyd global ">
 				<div id="page_outer_wrap">
 				<div id="body_wrap">
 					<div id="page_wrap">
@@ -195,9 +195,10 @@ Select a Link from the Concierge Menu to get Quick Access to Important Informati
 							<div class="hero_image">
 					<img src="http://static.boydgaming.net/boydgaming/assets_v3/hero/hero-boyd-gaming-executive-bios.jpg" border="0">
 				</div>
-				<div class="page_content clearfix">
-					<div class="page_content_main">					<div class="page_content_main1">
-					<h1>Privacy Policy</h1><div class="page_content_main_right"></div>	   			<font size="2"><strong>I. APPLICATION OF THIS PRIVACY POLICY<br>
+						<div class="page_content clearfix">
+					<div class="page_content_main">					<div class="page_content_main1 clearfix">
+					<h1>Privacy Policy</h1>						<div class="page_content_main2 clearfix">
+								<div class="page_content_main_right"></div>	   			<font size="2"><strong>I. APPLICATION OF THIS PRIVACY POLICY<br>
 <br>
 </strong>This Privacy Policy applies to all web sites owned or operated by Boyd Gaming Corporation and its subsidiaries, including, but not limited to, the web sites for: (1) The Orleans Hotel &amp; Casino at orleanscasino.com; (2) Gold Coast Hotel &amp; Casino at goldcoastcasino.com; (3) Barbary Coast Hotel &amp; Casino at barbarycoastcasino.com; (4) Suncoast Hotel &amp; Casino at suncoastcasino.com; (5) Coast Hotels and Casinos, Inc. at coastcasinos.com; (6) Pick the Pros Football Contest at pickthepros.com; (7) Orleans Arena at orleansarena.com; (8) Club Coast at clubcoast.com; (9) Coast Movies at coastmovies.com; (10) Coast Casinos Bingo at coastcasinosbingo.com; (11) Coast Casinos Race Book at coastrace.com; (12) Coast Casinos Employees at coastteam.com; (13) Boyd Gaming at boydgaming.com; (14) Blue Chip Casino Hotel at bluechip-casino.com; (15) California Hotel at bluechip-casino.com; (16) California Hotel at thecal.com; (17) Delta Downs Racetrack and Casino at deltadowns.com; (18) Eldorado Casino at eldoradocasino.com; (19) Fremont Hotel and Casino at fremontcasino.com; (20) Jokers Wild Casino at jokerswildcasino.com; (21) Main Street Station Casino, Hotel and Brewery at mainstreetcasino.com; (22) Par-a-dice Hotel and Casino at par-a-dice.com; (23) Sam's Town Hotel and Gambling Hall at samstownlv.com; (24) Sam's Town Hotel and Gambling Hall at samstowntunica.com; (25) Sam's Town Hotel and Gambling Hall at samstownshreveport.com; (26) Sam's Town at samstown.com; (27) Treasure Chest Casino at treasurechest.com; (28) Vacations Hawaii at boydvacationshawaii.com; (collectively, "Boyd Gaming Corporation Web Sites")<br>
 <br>
@@ -245,13 +246,27 @@ Pursuant to law, persons under the age of twenty-one (21) are not permitted to g
 <br>
 <strong>IX. CHANGES</strong><br>
 <br>
-This Privacy Policy was posted on January 7, 2002 and updated on January 3, 2007. Boyd Gaming Corporation reserves the right to change, modify or amend this Privacy Policy at any time. When the Privacy Policy is changed, modified and/or amended, the revised Privacy Policy will be posted on Boyd Gaming Corporation web sites. Any revised Privacy Policy will only apply prospectively to Personal Information collected or modified after the effective date of the revised policy. Customers are responsible for periodically checking the Privacy Policy posted on Boyd Gaming Corporation Web Sites for changes.</font><br>		<div class="clear"></div>				<div class="social_links_bottom">
+This Privacy Policy was posted on January 7, 2002 and updated on January 3, 2007. Boyd Gaming Corporation reserves the right to change, modify or amend this Privacy Policy at any time. When the Privacy Policy is changed, modified and/or amended, the revised Privacy Policy will be posted on Boyd Gaming Corporation web sites. Any revised Privacy Policy will only apply prospectively to Personal Information collected or modified after the effective date of the revised policy. Customers are responsible for periodically checking the Privacy Policy posted on Boyd Gaming Corporation Web Sites for changes.</font><br>			</div><div class="clear"></div>				<div class="social_links_bottom">
 					<div id="wnShareBar1136"></div>
 					<div class="socialMessageTarget"></div>
 				</div>
 				<script type="text/javascript">
 				$(document).ready(function(){
 					if (typeof(gigya) !== 'undefined'){
+
+						function onSendDone(event) {
+							//alert("THANKS FOR SENDING");
+							console.log(event);
+							
+							$.ajax({url: BCO_HTTP_HOST + 'ajax/social_points.php', 
+								type: "POST",
+								dataType: "json",
+								data: event	
+							}).success(function(data, textStatus, jqXHR) {
+
+							});
+						}
+						
 						var act = new gigya.services.socialize.UserAction();
 						act.setUserMessage("");
 						act.setTitle("Privacy Policy");
@@ -265,9 +280,10 @@ This Privacy Policy was posted on January 7, 2002 and updated on January 3, 2007
 								shareButtons: [{provider: "share"},{provider: "email"}],
 								userAction: act,
 								layout: 'horizontal'
-							}
+								//,onSendDone: onSendDone
+							};
 						gigya.services.socialize.showShareBarUI(showShareBarUI_params);
-						}
+					}
 				});
 				
 				</script>
@@ -302,19 +318,7 @@ This Privacy Policy was posted on January 7, 2002 and updated on January 3, 2007
 							<ul><li><a href="/contact-us">Contact Us</a></li><li class="active"><a href="/privacy-policy" class="active">Privacy Policy</a></li><li><a href="/email-signup">E-mail / Text Signup</a></li><li><a href="/webcam">View Live Webcams</a></li><li><a href="/about-boyd/responsible-gaming">Responsible Gaming</a></li><li><a href="/site-map">Site Map</a></li></ul>						</div>
 						
 						<div class="global_menu">
-			<div class="property_links full"><div class="region_bar">
-<a class="boyd" href="http://www.boydgaming.com"><b>Boyd Gaming</b></a>
-<a href="http://www.boydgaming.com/las-vegas">Las Vegas</a>
-<a href="http://www.boydgaming.com/illinois">Illinois</a>
-<a href="http://www.boydgaming.com/indiana">Indiana</a>
-<a href="http://www.boydgaming.com/iowa">Iowa</a>
-<a href="http://www.boydgaming.com/kansas">Kansas</a>
-<a href="http://www.boydgaming.com/louisiana">Louisiana</a>
-<a href="http://www.boydgaming.com/mississippi">Mississippi</a>
-<a href="http://www.boydgaming.com/new-jersey">New Jersey</a>
-</div>
-
-<div class="players_club_wide">
+			<div class="property_links full"><div class="players_club_wide">
 <a href="https://www.bconnectedonline.com/" class="bco"><b>B Connected Online</b></a>
 </div>
 <div class="players_club_wide">
@@ -339,11 +343,11 @@ This Privacy Policy was posted on January 7, 2002 and updated on January 3, 2007
 
 </div></div></div>						
 						<div class="address_bar">
-																</div>
+										Don't let the game get out of hand. For Assistance call 1-800-522-4700.<br>(IL 1-800-426-2537, IN 1-800-994-8448, LA 1-877-770-7867, MS 1-888-777-9696, KS 1-800-522-4700, IA 1-800-238-7633)						</div>
 												<div class="bottom_image_nav">
 													</div>
 						<div class="bottom_text">
-							<div class="copyright">Copyright © 2013 Boyd Gaming Corporation® | <a href="/disclaimer-and-terms"><font class="bottom_text_link">Terms Of Use</font></a></div>							
+							<div class="copyright">Copyright © 2014 Boyd Gaming Corporation® | <a href="/disclaimer-and-terms"><font class="bottom_text_link">Terms Of Use</font></a></div>							
 							<ul></ul>							
 						</div>
 					</div>
@@ -355,8 +359,9 @@ This Privacy Policy was posted on January 7, 2002 and updated on January 3, 2007
 					<script type="text/javascript" src="http://static.boydgaming.net/jquery/jquery.cookie.js"></script>
 				<script type="text/javascript" src="http://static.boydgaming.net/jquery/contentSlider/contentSlider.jquery.js?1=1"></script>
 <script type="text/javascript" src="http://static.boydgaming.net/jquery/sideScroller/sideScroller.js"></script>
-<script type="application/javascript" src="http://static.boydgaming.net/boydgaming/../global/scripts/iscroll.js?1323895986"></script>
-				<script type="text/javascript" src="http://static.boydgaming.net/boydgaming/../global/scripts/property_page_v3.js?1383527688"></script>
+<script type="application/javascript" src="http://static.boydgaming.net/boydgaming/../global/scripts/iscroll.js?1392913264"></script>
+				<script type="application/javascript" src="http://static.boydgaming.net/boydgaming/../global/scripts/swipeview.js?1387316849"></script>
+				<script type="text/javascript" src="http://static.boydgaming.net/boydgaming/../global/scripts/property_page_v3.js?1396900225"></script>
 			<script type="text/javascript">
 			var s = {};
 			
@@ -451,7 +456,7 @@ if (p2) s.pageName += ' - '+p2;
 s.channel= ch;
 s.prop1= s1;
 s.prop2 = s2;
-s.server="23";
+s.server="13";
 s.prop21= propCode;
 s.prop4 = propCode+':'+ch;
 s.prop22= "";
@@ -513,5 +518,7 @@ s.prop24="www.boydgaming.com";
 			})(window,document,'script','dataLayer','GTM-MVDQ');
 			});</script>
 			<!-- End Google Tag Manager -->
-						
+			<script type="text/javascript">
+		$(document).ready(function(){ if (typeof(_satellite) != 'undefined'){ _satellite.pageBottom(); }});
+		</script>			
 		<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
