@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the las-vegas-theater.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105022456id_/http%3A//www.las-vegas-theater.com/common/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the las-vegas-theater.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506011831id_/http%3A//www.las-vegas-theater.com/common/privacy.php) for the most accurate reproduction.*
 
-# Las Vegas Theater - Privacy
+# Las Vegas Theater - Privacy Policy
 
 ### INFORMATION THIS SITE GATHERS/TRACKS
 
@@ -13,6 +13,21 @@ You can browse our site without entering any personal information and, therefore
 ### COOKIES
 
 Our site uses cookies to keep track of your shopping cart. Upon your request we can use cookies to deliver content specific to your interests and to save your password so that you do not have to re-enter it each time you visit our site. [Details on Cookies and how they benefit you](http://www.las-vegas-theater.com/common/privacy_cookies.php).
+
+### GOOGLE ANALYTICS
+
+We use Google Analytics to monitor and improve the performance of our site. Google Analytics is a web analysis service provided by Google. Google utilises the data collected to track and examine the use of our site, to prepare reports on its activities and share them with other Google services.  
+Google may use the data collected to contextualise and personalise the ads of its own advertising network.
+
+Personal data collected: Cookie, Demographic and Usage Data. Place of processing: USA. Find Google's [privacy policy here](http://www.google.com/intl/en/policies/privacy/).
+
+Users may opt out of the use of the cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). 
+
+### GOOGLE ADVERTISING
+
+Our site also uses Google to display certain adverts on the site. Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). 
 
 ### LINKS
 
@@ -33,7 +48,3 @@ You may choose to opt-out of receiving future communications from Las Vegas Thea
 ### CONTACT US
 
 If you have any questions about this privacy statement or the security practices of this site, please [contact us](http://www.las-vegas-theater.com/customer-support/leaving_feedback.php).
-
-[
-
-](http://www.las-vegas-theater.com/theaters/monte-carlo-theater/blue-man-group.php)
