@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the migni.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128044910id_/http%3A//www.migni.com/privacy-and-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the migni.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505081651id_/http%3A//www.migni.com/privacy-and-policy) for the most accurate reproduction.*
 
-# Privacy and Policy | JVZOO software review update
+# Privacy and Policy | JVZOO software tools review update
 
 PLEASE READ THIS CAREFULLY
 
@@ -82,4 +82,4 @@ The Site contains links to other websites. If you choose to visit an advertiser 
 
 VIOLATIONS AND COMMENTS
 
-Please report any violations of the TOS through our [contact page](http://www.migni.com/contact/ "Contact"), or you can make any comments to it as well.
+Please report any violations of the TOS through our [contact page](https://web.archive.org/contact/ "Contact"), or you can make any comments to it as well.
