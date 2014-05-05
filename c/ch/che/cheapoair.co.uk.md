@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapoair.co.uk privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230103945id_/http%3A//www.cheapoair.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapoair.co.uk privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505104631id_/http%3A//www.cheapoair.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policies - CheapOair.co.uk
 
@@ -143,11 +143,10 @@ If you have any questions about this Privacy Policy please contact our customer 
   
 **Customer Service,  
 CheapOair.co.uk,  
-204 King Street  
-Hammersmith  
+Mill House, 216 Chiswick High Rd  
 London  
-W6 0RA  
-**Ph:** +44 (0) 203 104 0055  
+W4 1PD  
+**Ph:** 0203 514 8095  
 [cservice@CheapOair.co.uk](mailto:cservice@CheapOair.co.uk)**  
    
   
