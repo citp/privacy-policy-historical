@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookmarc.com.au privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220053404id_/https%3A//www.bookmarc.com.au/legals/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarc.com.au privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505075954id_/http%3A//www.bookmarc.com.au/legals/privacy-policy) for the most accurate reproduction.*
 
-# Terms of Service » Bookmarc
+# Privacy Policy » Bookmarc
 
 ### **BOOKMARC's Privacy Statement**
 
@@ -66,7 +66,7 @@ BOOKMARC takes all reasonable steps to ensure the security of our system. BOOKMA
 
 In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by BOOKMARC. However, BOOKMARC will not be held responsible for events arising from unauthorised access of your personal information.
 
-You can also play an important role in keeping your personal information secure, by maintaining the confidentiality of any password and accounts used on the BOOKMARC site. Please [notify us immediately](https://www.bookmarc.com.au/contact-us/contact-us/) if there is any unauthorised use of your account by any other Internet user or any other breach of security.
+You can also play an important role in keeping your personal information secure, by maintaining the confidentiality of any password and accounts used on the BOOKMARC site. Please [notify us immediately](http://www.bookmarc.com.au/contact-us/contact-us/) if there is any unauthorised use of your account by any other Internet user or any other breach of security.
 
 **Access to Your Information**
 
