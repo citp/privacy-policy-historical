@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myearthhour.org privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821185446id_/http%3A//www.earthhour.org/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myearthhour.org privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505024151id_/http%3A//www.earthhour.org/privacy-policy) for the most accurate reproduction.*
 
-# privacy | Earth Hour
+# Privacy Policy | EARTH HOUR
 
-TERMS AND CONDITIONS FOR [www.earthhour.org/privacy](http://www.earthhour.org/page/privacy).
+**WWF ONLINE PRIVACY POLICY** | TERMS AND CONDITIONS
 
 **1) This website is owned by Earth Hour Global Limited based in Singapore**
 
@@ -30,7 +30,7 @@ Please check this page periodically for changes. Your continued use of this site
 
 3b) Non-personal information WWF collects data such as IP address (the location of the computer on the internet), pages accessed and files downloaded. This helps us to determine how many individuals use our site, how many people visit on a regular basis, which pages are most popular, and which pages are least popular. This information doesn't tell us anything about who you are, it simply allows us to monitor and improve our service.
 
-3c) Videos, images and text uploaded to www.earthhour.org, [www.youtube.com/earthhour](http://www.youtube.com/earthhour) are collected through various websites, widgets, SMS, APIs, services and third parties. When uploading content to this platform you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information in any country. Your email address and mobile number will not be made public and will only be used by WWF if you opt in to receive communications.
+3c) Videos, images and text uploaded to [www.earthhour.org](http://www.earthhour.org/) and[ www.youtube.com/earthhour](http://www.youtube.com/earthhour) are collected through various websites, widgets, SMS, APIs, services and third parties. When uploading content to this platform you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information in any country. Your email address and mobile number will not be made public and will only be used by WWF if you opt in to receive communications.
 
 **4\. Where will the information be held?**
 
@@ -48,4 +48,4 @@ At any time, you can ask us for a copy of the personal information that we hold 
 
 There are links on this web site that take you to other web sites outside of our service. Any links provided to third party web sites outside of this site are provided solely for your convenience. The operation and content of such third party web sites is beyond our control, and we do not endorse in any manner whatsoever or accept any responsibility for the content or other material that may be contained on such web sites, the use of such web sites, or any products or services advertised on or sold through any such web sites. We will not be liable under any circumstances for any damages whatsoever, direct or indirect, resulting from any use of this web site or any other third party web site linked to this web site, whether or not we are advised of the possibility of such damages.
 
-**8\. If you have any questions about our privacy policy, please[CONTACT US](http://earthhour.org/page/contact-us).**
+**8\. If you have any questions about our privacy policy, please  [contact us](mailto:contact@earthhour.org?subject=Enquiry%3A%20Privacy%20Policy).**
