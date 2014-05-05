@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the usm.my privacy policy that was archived on 2013-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130324111621id_/http%3A//www.usm.my/index.php/en/about-usm/website-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usm.my privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505030935id_/http%3A//www.usm.my/index.php/en/info-gateway/website-policy/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Security & Privacy Policy
+
+Details
+     Hits: 19680 
 
 Thank you for visiting the Universiti Sains Malaysia Website.  
 This webpage will delineate the policies that encompass the use and the protection of information furnished by visitors.
