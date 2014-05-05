@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the motorsportretro.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113123806id_/http%3A//www.motorsportretro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorsportretro.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505064747id_/http%3A//www.motorsportretro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Motorsport Retro
 
 [Home](http://www.motorsportretro.com/) » Privacy Policy
+
+## Privacy Policy
 
   1. **How is personal information collected?**  
 In order to provide a quality service, motorsportretro.com (us/we) offers customers the ability to subscribe to our newsletters, enter competitions and promotions through [http://www.motorsportretro.com](http://www.motorsportretro.com/). In order to provide these services, motorsportretro.com collects personal information about customers. Collection of this information will occur at the time you enter a competition or subscribe to the newsletter.
