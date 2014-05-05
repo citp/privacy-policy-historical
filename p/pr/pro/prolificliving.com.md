@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prolificliving.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210065006id_/http%3A//www.prolificliving.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prolificliving.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506004325id_/http%3A//www.prolificliving.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,5 @@ Prolific Living Inc. is not responsible for the content of external internet sit
 
 
 This privacy policy was last updated on: February 3rd, 2013  
-If you have any additional questions about this policy, please [contact Prolific Living](http://www.prolificliving.com/blog/contact-prolific-living/)  
+If you have any additional questions about this policy, please [contact Prolific Living](http://www.prolificliving.com/contact-prolific-living/)  
 
-
-[ ](http://pinterest.com/pin/create/button/?url=http://www.prolificliving.com/blog/privacy-policy/&media=http://www.prolificliving.com/blog/wp-content/uploads/2012/04/PL_header_final.jpg)
