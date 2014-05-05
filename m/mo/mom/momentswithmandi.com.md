@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momentswithmandi.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229041141id_/http%3A//momentswithmandi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momentswithmandi.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505190624id_/http%3A//momentswithmandi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Moments With Mandi
 
@@ -27,6 +27,8 @@ advertisements about goods and services likely to be of greater interest to you.
 companies typically use a cookie or third party web beacon to collect this information.  To learn  
 more about this behavioral advertising practice visit the NAI at[http://www.networkadvertising.org](http://www.networkadvertising.org/).  To  
 opt-out of this type of advertising, you can visit<http://www.aboutads.info/choices>.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
