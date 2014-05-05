@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webretailer.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208202808id_/http%3A//www.webretailer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webretailer.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505021340id_/http%3A//www.webretailer.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Web Retailer
 
@@ -6,11 +6,11 @@ This Privacy Policy covers Web Retailer's treatment of personally identifiable i
 
 ## Information Collection and Use
 
-  * Web Retailer collects personally identifiable information when you register for a member account, complete feedback forms, and make submissions to the site
-  * When you register with Web Retailer, we ask for a member name and email address.
+  * Web Retailer collects personally identifiable information when you join, complete feedback forms, and make submissions to the site.
+  * When you join Web Retailer, we ask for an email address.
   * Payment details for any pay services are supplied via PayPal and are not stored on this web site in any form.
-  * Web Retailer automatically receives and records information on our server logs from your browser including your IP address and the page you requested
-  * Web Retailer uses this information to customise the content you see, to fulfil your requests for services, and to contact you with information you have requested
+  * Web Retailer automatically receives and records information on our server logs from your browser including your IP address and the page you requested.
+  * Web Retailer uses this information to customise the content you see, to fulfil your requests for services, and to contact you with information you have requested.
 
 
 
@@ -20,17 +20,17 @@ Web Retailer will not sell, rent or otherwise disclose your personally identifia
 
 ## Cookies
 
-  * Web Retailer may set and access cookies on your computer
-  * Other web sites do not have access to Web Retailer's cookies
+  * Web Retailer may set and access cookies on your computer.
+  * Other web sites do not have access to Web Retailer's cookies.
 
 ASPSESSIONID* | Used so users can login to the site.   
 ---|---  
-CountryCode | Used to personalise content to the user's country (looked up anonymously using IP address)   
+CountryCode | Used to personalise content to the user's country (looked up anonymously using IP address).  
 LoginToken  
 memberName  
 |  Used to remember users so they do not need to enter their login details the next time they come to the site.  
 last-profile  
-last-profile-tab | Used to remember last selected directory profile tab  
+last-profile-tab | Used to remember last selected directory profile tab.  
 Google Analytics  
 _utma  
 _utmb  
@@ -40,16 +40,16 @@ _utmz |  Used to collect information about how visitors use our site. We use the
   
 ## Managing Your Member Information
 
-  * You may edit your member information at any time by going to the Profile page
-  * You may request deletion of your member details by [sending an email](https://web.archive.org/contact-us.asp?subject=memberdelete&action=readfaqs) quoting the email address you registered with
+  * You may edit your member information at any time by going to the [settings](https://web.archive.org/member-account.asp) page.
+  * You may request deletion of your member details by [sending an email](https://web.archive.org/contact-us.asp?subject=memberdelete&action=readfaqs) quoting the email address you joined with.
 
 
 
 ## Security
 
-  * Your member information is password-protected for your privacy and security
-  * Your password is stored in encrypted form
-  * Payment details provided for any pay services are not stored on this web site in any form
+  * Your member information is password-protected for your privacy and security.
+  * Your password is stored in encrypted form.
+  * Payment details provided for any pay services are not stored on this web site in any form.
 
 
 
@@ -57,7 +57,7 @@ _utmz |  Used to collect information about how visitors use our site. We use the
 
 We use third-party advertising companies to serve ads when you visit Web Retailer. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For more information about this practice and to opt out of having this information used by these companies see the following:
 
-  * [Google Privacy Center ](http://www.google.co.uk/privacy_ads.html)
+  * [Google Privacy Center](http://www.google.co.uk/privacy_ads.html).
 
 
 
