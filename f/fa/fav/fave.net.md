@@ -1,51 +1,49 @@
-> *The following text is extracted and transformed from the fave.net privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505063852id_/http%3A//fave.net/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fave.net privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505033324id_/http%3A//www.hostednumbers.com/privacy-policy) for the most accurate reproduction.*
 
-# Faves: Privacy Policy
+# Privacy Policy | HostedNumbers.com
 
-### Faves Privacy Policy
+## Our Commitment to You
 
-Faves provides an online application that helps people find and discover things by leveraging the power of their social networks. To accomplish this, registered users of the Faves software and/or website (“Users”) may create shared information. Users may also send email invitation requests to other Users.   For the purposes of this Privacy Policy, each such other User is a “Friend” and is defined as someone you have sent a request to or explicitly invited to share information with you. To fulfill the purpose of our website, we need to display a limited amount of personal information so that Users are able to evaluate the trustworthiness of particular pieces of information, each a Fave, and the possible reviews, ratings, or opinions expressed therein. Each Fave created by a User via Faves’ technology has the ability to be made private and to therefore be made available solely to the authoring User.
+PATLive is not a financial institution but we do need to collect some private information in order to extend credit to our clients and to service their accounts. We value the privacy of this information, we take all reasonable measures to keep it secure and we do not sell it to anyone. We are committed to protecting this information and to keeping it private.
 
-#### Information We Collect
+## Our Privacy Principles
 
-By using the Faves software and/or website you explicitly agree to permit the collection and use of your personal information by Faves as outlined below in this Privacy Policy.
+1) We minimize the amount of personal information we ask for.   
+2) We secure personal information and restrict access to it.   
+3) We do not and will not sell your personal information.   
+4) Our privacy policy applies to clients, former clients, prospects and Web site visitors.   
+5) We comply with all laws and proceedings regarding the privacy of information. 
 
-Faves collects User submitted account information such as name and email address to identify you and send you notifications related to your use of the Faves software. Faves also collects User submitted location information such as city, state or zip code, and User submitted comments and ratings about the various Fave which you create. All such User submitted data is collected and stored at Faves’ or its agent’s facilities for possible aggregation, sale and/or provision to third parties. If such aggregated data is sold, no personally identifying information about any User, such as name or email, will be supplied to the third party.
+## The Information We Collect
 
-Additionally, some information we collect is not explicitly submitted by the User. For instance, we log your browser-type related information, IP address, requested and referring URLs and timestamp. This information helps us diagnose problems with our servers, administer support, and otherwise provide the highest possible level of service to you.
+We collect the information needed to transact business with clients who select our services. The focus is on minimizing the information we need while making it easy to do business with us. All personal information is explicitly provided by clients when they set up their PATLive account. This includes the information we need to stay in contact with them (such as their email address), to collect payment from them (such as a credit card number) and to extend credit to them (such as a Social Security or federal tax number).
 
-#### How We Use Your Information
+## The information We Report
 
-Information such as your full name or email address may be shown to your Buddies or other Users primarily in conjunction with Faves you have contributed and designated as being available for viewing by the general public. If you have designated another User as a Friend they can also see your name or email address in their list of Buddies.
+PATLive has business relationships with organizations that promote PATLive services to its members. PATLive also has business relationships with other businesses who refer or sign up new PATLive clients for a fee. For business auditing purposes, PATLive provides a monthly audit report to these affiliates so that they can track the members and referrals who are active with PATLive. This audit report provides the client name and monthly invoice amount and may include other information about account activity as it relates to the member's organization. PATLive does not sell client information to third parties.
 
-Your full name and email address may also be used when you send an email notification to another User, such as in a request for faving activity, in an invitation, when sharing a Fave, or when forwarding a request. Faves may also use your email address to send you updates or news regarding our site. You can opt out of receiving such communications by emailing [removeme@faves.com](mailto:removeme@faves.com). Additionally, we may use your email address to contact you on behalf of your Buddies (such as when a Friend asks for a Fave).
+  
+We reserve the right to disclose information in special cases. An example of a special case is when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our web site, rights or property. Another example of a special case is when we have a reasonable request from government authorities at the federal, state or local level.
 
-#### Transfer of Information
+## The PATLive Website
 
-Other than as specified in this Privacy Policy, we do not sell, rent, share, trade or give away any of your personal information unless we believe we are required to do so by law or have a good faith belief that such access, preservation or disclosure is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or governmental request, (b) enforce the [Terms of Use](https://web.archive.org/web/20130505063852id_/http%3A//fave.net/TermsOfUse.aspx), including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, (d) respond to user support requests, or (e) protect the rights or property of Faves, its Users or the public.
+We host and manage our own Web site. It is kept in a secure physical location and we utilize state-of-theart Internet security for a commercial environment, including 128-bit SSL protocol during the capture and display of sensitive information.
 
-User's personal information collected by Faves may be stored and processed in the United States or in any other country in which Faves or its agents maintain facilities. By using Faves’ software and/or website, you consent to any such transfer of information outside of your country. Faves reserves the right to transfer your personal information in the event of a transfer of ownership of Faves, such as an acquisition by or merger with another company. In such an event, Faves will notify you before information is transferred and becomes subject to a different privacy policy.
+  
+When you visit one of our Web pages, some information about your visit is automatically stored in a log file. This information includes the Internet address of your computer, the time and date of your request, the type of browser you use and sometimes the address of the page from which you came (it does not include your name, e-mail address or other personal identifying information). We use this stored information to improve the Web site content and navigation, to help prevent and diagnose problems and to help us understand how to make it easier to do business with us.
 
-Like most websites, Faves requires cookies to function properly. Cookies are small data files that are sent to and reside on a User's computer and identify you as a unique User. This identification helps us better understand our user base, refine our software and website and simplify our User’s experiences. We believe our cookies improve the quality of our services, however, you can reset your browser so that it refuses all cookies, or notifies you when a cookie is being sent.
+  
+For the convenience of visitors, our Web site uses "cookies." Clients use cookies to memorize usernames, passwords and preferences on a computer so they don't have to be re-set every time. Cookies are also used to track Web page navigation. This information helps us understand how visitors use the site and how we can improve it. We do not use cookies to capture personal identifying information, such as names or email addresses.
 
-#### Controlling Your Personal Information
+## Lines with Other Websites
 
-As a Faves User, you can modify your personal information at any time by accessing the "My Account " section of the website. You can terminate your account at any time by emailing [admin@faves.com](mailto:admin@faves.com). We typically deactivate accounts within two business days of such requests. You should be aware, however, that residual copies of your personal information may remain stored on our systems even after the deletion of the information or the termination of your account.
+Where we think it might be convenient for the visitor, our Web site might provide a link to another Web site. Additionally, other businesses, including affiliates and partners, might provide links from their Web site to PATLive's Web site. PATLive is not responsible for the content or privacy practices of those Web sites. Visitors should refer to the privacy policies and practices of those Web sites prior to using them.
 
-#### Security
+## How to Contact Us
 
-Your Faves account is password-protected. We take reasonable precautions to protect our Users' information, use industry standard measures to protect information that is stored within our database and limit the access to your information to those employees who need access to perform their job function.
+This is the Web site of PATLive, a Florida corporation also known as ATG Technologies, Inc. For questions or concerns regarding our policy or this Web site, please contact our headquarters:
 
-#### Emails and Opt-out
-
-Registered Users may opt-out of Faves initiated email by clicking "Email Settings" under the "My Account" link and following the instructions therein. Registered users cannot currently opt-out of peer-initiated email. 
-
-The only Faves email sent to Unregistered Users is peer-initiated. Unregistered Users may opt-out of peer-initiated email by clicking the "unsubscribe" link at the bottom of a received email. 
-
-#### Contacting Our Web Site
-
-If you have any questions about this Privacy Policy, the practices of this website, or your dealings with this website, please contact us at:
-
-Blue Dot, Inc.  
-811 First Avenue, Suite 480  
-Seattle, WA 98104
+PATLive | Main Office: (800) 775 - 7790  
+---|---  
+Cedars Bldg B, Suite 200 2639 N. Monroe St.  
+Tallahassee, FL 32303 | [pat@patlive.com](mailto:pat@patlive.com)
