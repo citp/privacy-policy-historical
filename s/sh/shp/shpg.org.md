@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shpg.org privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920211454id_/http%3A//www.shareprogress.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shpg.org privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506010720id_/http%3A//www.shareprogress.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
