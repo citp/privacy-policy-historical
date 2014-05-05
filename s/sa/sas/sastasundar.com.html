@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the sastasundar.com privacy policy that was archived on 2013-11-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131103003624id_/http%3A//www.sastasundar.com/index.php/pages/view/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sastasundar.com privacy policy that was archived on 2014-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140505081126id_/http%3A//www.sastasundar.com/index.php/pages/view/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="x-ua-compatible" content="IE-8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Sasta Sundar</title>
 <link href="http://www.sastasundar.com/public/css/style.css" rel="stylesheet" type="text/css">
@@ -14,12 +15,16 @@
 <link rel="stylesheet" type="text/css" href="http://www.sastasundar.com/public/Carousel/scroll.css">
 <link rel="stylesheet" type="text/css" media="screen" href="http://www.sastasundar.com/public/css/reset.css">
 
-<link href="http://www.sastasundar.com/public/slide/slide.css" rel="stylesheet" type="text/css" media="screen">
+
 
 <!--<script language=JavaScript> var message="Function Disabled!"; function clickIE4(){ if (event.button==2){ alert(message); return false; } } function clickNS4(e){ if (document.layers||document.getElementById&&!document.all){ if (e.which==2||e.which==3){ alert(message); return false; } } } if (document.layers){ document.captureEvents(Event.MOUSEDOWN); document.onmousedown=clickNS4; } else if (document.all&&!document.getElementById){ document.onmousedown=clickIE4; } document.oncontextmenu=new Function("alert(message);return false") </script>-->
 
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://www.sastasundar.com/public/js/jquery-1.8.3.min.js"></script>
 <script src="http://www.sastasundar.com/public/js/jquery-ui.js"></script>
+
+<script language="JavaScript"> var message="Function Disabled!"; function clickIE4(){ if (event.button==2){ alert(message); return false; } } function clickNS4(e){ if (document.layers||document.getElementById&&!document.all){ if (e.which==2||e.which==3){ alert(message); return false; } } } if (document.layers){ document.captureEvents(Event.MOUSEDOWN); document.onmousedown=clickNS4; } else if (document.all&&!document.getElementById){ document.onmousedown=clickIE4; } document.oncontextmenu=new Function("alert(message);return false") </script>
+
+
 <link rel="shortcut icon" href="http://www.sastasundar.com/favicon.ico" type="image/x-icon">
 <link rel="icon" href="http://www.sastasundar.com/favicon.ico" type="image/x-icon">
 <script>
@@ -32,7 +37,8 @@
   ga('send', 'pageview');
 
 </script></head>
-    <body ondragstart="return false" onselectstart="return false">
+    <!--<body ondragstart="return false" onselectstart="return false">-->
+    <body>
 
 
 <div class="outerdiv">
@@ -63,11 +69,14 @@
             </div>
             <!--top login panel ends-->
       		<!--top login panel start-->
-      	                <!--top login panel ends-->
+      	    
+            <!--top login panel ends-->
             
             <!--top logo and search panel start-->
-    		<div class="logopanel">
-            	  <div class="logo"><a href="http://www.sastasundar.com/"><img src="http://www.sastasundar.com/public/images/logo.gif" alt=""></a></div>
+    		
+            <div class="logopanel">
+            	  
+                  <div class="logo"><a href="http://www.sastasundar.com/"><img src="http://www.sastasundar.com/public/images/logo.gif" alt=""></a></div>
                   
                   <!--<div class="searchpanel">
                   		<ul>
@@ -80,6 +89,72 @@
                         </ul>
                   </div>-->
                   <script type="text/javascript" language="javascript">
+$(document).ready(function(){
+	/*$('#dropdown_ul').hide();
+	$('#dropdown_holder').hide();
+	if($('#searchField').val() != ""){
+		var hidden_value = $('#searchField').val();
+		var org_label = '';
+		//alert(hidden_value);
+		$('#dropdown_ul li').each(function(){	
+			//alert($(this).attr('org_value'))	
+				
+			if($(this).attr('org_value') == hidden_value){
+				//alert('hi')
+				org_label = $(this).text();
+				$('#dropdown_display').text(org_label);	
+			}
+		})
+		
+		
+		
+	}*/
+	
+	
+	$('#dropdown_holder').hover(function(){		
+		$("#dropdown_ul").show();		
+	},function(){		
+		$('#dropdown_ul').hide();
+		
+	});	
+	
+	$('#dropdown_ul li').click(function(){		
+		var li_value = $(this).attr('org_value');
+		var li_label = $(this).text();
+		
+		$('#dropdown_display').text(li_label);
+		$('#searchField').val(li_value);
+		
+		$(this).parent().hide();
+		
+	});
+	
+	function hide_search_dp(){
+		var li_value = $(this).attr('org_value');
+		var li_label = $(this).text();
+		
+		$('#dropdown_display').text(li_label);
+		$('#searchField').val(li_value);
+		
+		$(this).parent().hide();	
+	}
+	
+	/*$('body').click(function(){
+		if($('#suggestionsListTop').is(':visible')){
+			//alert('hi');	
+			
+			
+		}
+	});*/
+	
+	
+	
+	$('#dropdown_holder').show();
+	
+	
+});
+</script>
+<script type="text/javascript" language="javascript">
 function searchformVal()
 {
 if($("#searchTextTop").val() == "")
@@ -114,6 +189,8 @@ if($("#searchTextTop").val() == "")
 	function fillTop(thisValue) {
 		$('#searchTextTop').val(thisValue);
 		setTimeout("$('#suggestionsTop').fadeOut();", 600);
+		//document.SearchMedicine.submit();
+		//$('#SearchMedicine').submit();
 	}		
 	
 	function remove_listTop(){		
@@ -127,6 +204,7 @@ $(document).ready(function(){
 	$('#suggestionsListTop li').live("click",function(){
 		$('#searchTextTop').val($(this).text());
 		setTimeout("$('#suggestionsTop').fadeOut();", 600);
+		//$('#SearchMedicine').submit();
 	});		
 	$('.add_medicine').live("click",function(){
 		//if(confirm("Are you sure you want to delete")){
@@ -203,6 +281,10 @@ $(document).ready(function(){
 		
 		//alert(e.keyCode)
 		
+		if(inputString.length == 0 || inputString.length < 3){
+			$('#suggestionsTop').hide();	
+		}
+		
 		if(e.keyCode === 38) {
 			// up
 			var current = elem.find('li.selected'); // select current on li			                  
@@ -256,23 +338,30 @@ $(document).ready(function(){
 							$('#suggestionsTop').fadeIn();
 							$('#suggestionsListTop').html(data);
 							$('#searchTextTop').removeClass('load');
-							$('#top_medicine_search').height($('#suggestionsListTop').height())	
+							//$('#top_medicine_search').height($('#suggestionsListTop').height())	
 							
 						}
 					
 				});	
+			}			
+			else
+			{
+				$('#suggestionsTop').hide();
 			}
 		}
 		
-		if(inputString.length == 0){
-			$('#suggestionsTop').hide();	
-		}
+		
 		
 	 });
 	 
 	 /*$("#suggestionsListTop").live("blur", function(e){
 		 $('#suggestionsTop').hide();
 	 });*/
+	 
+	 //alert($("#searchField").val());
+	$("#searchField").val('DisplayName');
+	//alert($("#searchField").val());
+	 
 });		
 
 </script>
@@ -335,90 +424,37 @@ background-repeat:no-repeat;
 
 
 </style>
-<script type="text/javascript" language="javascript">
-$(document).ready(function(){
-	$('#dropdown_ul').hide();
-	$('#dropdown_holder').hover(function(){
-		
-		$("#dropdown_ul").show();
-		//alert('hi')
-	},function(){		
-		$('#dropdown_ul').hide();
-		
-	});	
-	
-	$('#dropdown_ul li').click(function(){		
-		var li_value = $(this).attr('org_value');
-		var li_label = $(this).text();
-		
-		$('#dropdown_display').text(li_label);
-		$('#searchField').val(li_value);
-		
-		$(this).parent().hide();
-		
-	});
-	
-	function hide_search_dp(){
-		var li_value = $(this).attr('org_value');
-		var li_label = $(this).text();
-		
-		$('#dropdown_display').text(li_label);
-		$('#searchField').val(li_value);
-		
-		$(this).parent().hide();	
-	}
-	
-	/*$('body').click(function(){
-		if($('#suggestionsListTop').is(':visible')){
-			//alert('hi');	
-			
-			
-		}
-	});*/
-	
-	
-	if($('#searchField').val() != ""){
-		var hidden_value = $('#searchField').val();
-		var org_label = '';
-		//alert(hidden_value);
-		$('#dropdown_ul li').each(function(){	
-			//alert($(this).attr('org_value'))	
-				
-			if($(this).attr('org_value') == hidden_value){
-				//alert('hi')
-				org_label = $(this).text();
-				$('#dropdown_display').text(org_label);	
-			}
-		})
-		
-		
-		
-	}
-	
-});
-</script>
+
+<div class="freehomedelivery"><span class="greentext bold">Free Home Delivery</span> <span class="bluetext bold">on Minimum Order of Rs.250/-</span></div>
 <div class="searchpanel">
-  <form method="get" id="example1" action="http://www.sastasundar.com/index.php/product/search" onsubmit="javascript:return searchformVal()" autocomplete="off">
+  <form method="get" id="SearchMedicine" name="SearchMedicine" action="http://www.sastasundar.com/index.php/product/search" onsubmit="javascript:return searchformVal()" autocomplete="off">
     <ul>
       <li>
         <p>Search by</p>
       </li>
       <li>
-                
+        <!--<select name="searchField" id="searchField" class="searchlist">
+          <option value="DisplayName" >Product Name</option>
+         <!-- <option value="CategoryName" >Product Category</option>
+          <option value="MfgGroup" >Manufacturer Name</option>
+          <option value="DiseaseSymptoms" >Disease</option>
+          <option value="SaltName" >Generic Name</option>
+        </select>-->
+        
         <div id="dropdown_holder">
         <span id="dropdown_display">Product Name</span>
         	<ul id="dropdown_ul">
          		<li org_value="DisplayName">Product Name</li>
-                <li org_value="MfgGroup">Manufacturer Name</li>
+                <li org_value="MfgGroup">Brand Name</li>
                 <li org_value="DiseaseSymptoms">Disease</li>
                 <li org_value="SaltName">Generic Name</li>
             </ul>    
         </div>
-        <input type="hidden" name="searchField" id="searchField" class="searchlist" value="DisplayName">
-        <input type="hidden" name="SearchThroughTop" value="1">
+        <input type="hidden" name="searchField" id="searchField" class="searchlist" value="">
+		        <input type="hidden" name="SearchThroughTop" value="1">
         
       </li>
-      <li style="position:relative; z-index: 999;" class="li_search_auto" id="top_medicine_search">
+      <li style="position:relative; z-index: 100; height:30px;" class="li_search_auto" id="top_medicine_search">
         
         <input name="searchText" id="searchTextTop" value="" type="text" class="searchbox">
         
@@ -426,8 +462,7 @@ $(document).ready(function(){
         <div class="suggestionList" id="suggestionsListTop"> &nbsp; </div>
         <div class="clear"></div>
       	</div>
-   
-      </li>
+ 		  <div class="clear"></div></li>
       <li>
         <input name="search" type="submit" value="." class="searchbutton">
       </li>
@@ -453,57 +488,82 @@ $(document).ready(function(){
             <!--top logo and search panel ends-->
             
             <!--menu panel start-->
-            <script language="javascript" type="text/javascript" src="http://www.sastasundar.com/liveadmin/client.php?key=L1564EA38V31146FCMD430E8"></script>
-<div class="menudiv">
-            		
-                  <!--table menu start-->
-                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-                    <td valign="middle" class="ordermenu"><a href="http://www.sastasundar.com/index.php/pages/view/order_by_prescription">Order by<br>Prescription</a></td>
-                    <td class="menubackdiv">
-                                           <ul id="menu">
-                                                  <li><a href="http://www.sastasundar.com/index.php/category/category_landing/1"> Medicines &amp;<br>
-Treatments</a>
-          <div class="dropdown_3columns"><div class="col_1"><a href="http://www.sastasundar.com/index.php/category/category_landing/888" class="menu_inner">Household Remedies</a><a href="http://www.sastasundar.com/index.php/category/category_landing/3" class="menu_inner">Pain &amp; Fever</a><a href="http://www.sastasundar.com/index.php/category/category_landing/5" class="menu_inner">Cardiovascular Problems</a><a href="http://www.sastasundar.com/index.php/category/category_landing/4" class="menu_inner">Digestive Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/10" class="menu_inner">Children's Health Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/2" class="menu_inner">Respiratory Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/11" class="menu_inner">Skin Diseases</a><a href="http://www.sastasundar.com/index.php/category/category_landing/12" class="menu_inner">Eye Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/13" class="menu_inner">ENT Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/14" class="menu_inner">Dental Care</a></div><div class="col_2"><a href="http://www.sastasundar.com/index.php/category/category_landing/9" class="menu_inner">Reproductive Health Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/18" class="menu_inner">Blood Disorders</a><a href="http://www.sastasundar.com/index.php/category/category_landing/8" class="menu_inner">Infections &amp; Antibiotics</a><a href="http://www.sastasundar.com/index.php/category/category_landing/16" class="menu_inner">Urology Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/7" class="menu_inner">Hormones &amp; Disorders</a><a href="http://www.sastasundar.com/index.php/category/category_landing/6" class="menu_inner">Neurology Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/19" class="menu_inner">AIDS and HIV</a><a href="http://www.sastasundar.com/index.php/category/category_landing/20" class="menu_inner">Psychiatry Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/23" class="menu_inner">Anaesthetics</a><a href="http://www.sastasundar.com/index.php/category/category_landing/21" class="menu_inner">Sleep Disorders</a></div><div class="col_3"><a href="http://www.sastasundar.com/index.php/category/category_landing/17" class="menu_inner">Orthopaedic Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/22" class="menu_inner">Poisoning &amp; Antidotes</a><a href="http://www.sastasundar.com/index.php/category/category_landing/15" class="menu_inner">Cancer Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/24" class="menu_inner">Others</a></div></div></li>                          <li><a href="http://www.sastasundar.com/index.php/category/category_landing/263"> Vitamins &amp;<br>
-Nutritional<br>
-Supplements</a>
-          <div class="dropdown_1columns"><div class="col_1"><a href="http://www.sastasundar.com/index.php/category/category_landing/264" class="menu_inner">General Wellbeing</a><a href="http://www.sastasundar.com/index.php/category/category_landing/265" class="menu_inner">Pregnancy &amp; Maternal Nutrition</a><a href="http://www.sastasundar.com/index.php/category/category_landing/266" class="menu_inner">Child Care Nutrition</a><a href="http://www.sastasundar.com/index.php/category/category_landing/267" class="menu_inner">Diabetic Nutrition</a><a href="http://www.sastasundar.com/index.php/category/category_landing/268" class="menu_inner">Old Age Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/269" class="menu_inner">Sports Nutrition</a><a href="http://www.sastasundar.com/index.php/category/category_landing/270" class="menu_inner">Others</a></div></div></li>                          <li><a href="http://www.sastasundar.com/index.php/category/category_landing/690"> Ayurvedic &amp; Herbal<br>
-Preparations</a>
-          <div class="dropdown_3columns"><div class="col_1"><a href="http://www.sastasundar.com/index.php/category/category_landing/691" class="menu_inner">Antioxidants</a><a href="http://www.sastasundar.com/index.php/category/category_landing/692" class="menu_inner">Eye Preparations</a><a href="http://www.sastasundar.com/index.php/category/category_landing/693" class="menu_inner">Dental Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/694" class="menu_inner">Skin Preparations</a><a href="http://www.sastasundar.com/index.php/category/category_landing/695" class="menu_inner">Hair Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/696" class="menu_inner">Pain Relief</a><a href="http://www.sastasundar.com/index.php/category/category_landing/697" class="menu_inner">Personal Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/698" class="menu_inner">Respiratory Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/699" class="menu_inner">Digestive Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/700" class="menu_inner">Cardiac Health</a></div><div class="col_2"><a href="http://www.sastasundar.com/index.php/category/category_landing/701" class="menu_inner">Baby Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/702" class="menu_inner">Diabetes</a><a href="http://www.sastasundar.com/index.php/category/category_landing/703" class="menu_inner">Liver &amp; Kidney</a><a href="http://www.sastasundar.com/index.php/category/category_landing/704" class="menu_inner">Sexual Health</a><a href="http://www.sastasundar.com/index.php/category/category_landing/705" class="menu_inner">ENT Preparations</a><a href="http://www.sastasundar.com/index.php/category/category_landing/706" class="menu_inner">Mental Health</a><a href="http://www.sastasundar.com/index.php/category/category_landing/942" class="menu_inner">Immunity Boosters</a><a href="http://www.sastasundar.com/index.php/category/category_landing/943" class="menu_inner">General Health</a><a href="http://www.sastasundar.com/index.php/category/category_landing/944" class="menu_inner">Women Health Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/945" class="menu_inner">Bones Health Care</a></div><div class="col_3"><a href="http://www.sastasundar.com/index.php/category/category_landing/946" class="menu_inner">Blood Deficiency and Disorders</a><a href="http://www.sastasundar.com/index.php/category/category_landing/947" class="menu_inner">Pure Plant Extract</a></div></div></li>                          <li><a href="http://www.sastasundar.com/index.php/category/category_landing/316"> Beauty &amp; Personal<br>
-Care</a>
-          <div class="dropdown_1columns"><div class="col_1"><a href="http://www.sastasundar.com/index.php/category/category_landing/317" class="menu_inner">Hair Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/318" class="menu_inner">Hand, Nail &amp; Foot Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/319" class="menu_inner">Oral Hygiene</a><a href="http://www.sastasundar.com/index.php/category/category_landing/320" class="menu_inner">Feminine Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/321" class="menu_inner">Men's Grooming</a><a href="http://www.sastasundar.com/index.php/category/category_landing/322" class="menu_inner">Children's Care</a></div></div></li>                          <li><a href="http://www.sastasundar.com/index.php/category/category_landing/411"> Home Healthcare<br>
-Products</a>
-          <div class="dropdown_1columns"><div class="col_1"><a href="http://www.sastasundar.com/index.php/category/category_landing/412" class="menu_inner">Fitness &amp; General Health Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/414" class="menu_inner">Sanitation &amp; Hygiene</a><a href="http://www.sastasundar.com/index.php/category/category_landing/415" class="menu_inner">Braces &amp; Supports</a><a href="http://www.sastasundar.com/index.php/category/category_landing/416" class="menu_inner">Home Tests</a><a href="http://www.sastasundar.com/index.php/category/category_landing/417" class="menu_inner">First Aids</a><a href="http://www.sastasundar.com/index.php/category/category_landing/413" class="menu_inner">Daily Living Aids</a></div></div></li>                          <li><a href="http://www.sastasundar.com/index.php/category/category_landing/503"> Sexual Wellness</a>
-          <div class="dropdown_1columns"><div class="col_1"><a href="http://www.sastasundar.com/index.php/category/category_landing/504" class="menu_inner">For Men</a><a href="http://www.sastasundar.com/index.php/category/category_landing/505" class="menu_inner">For Women</a></div></div></li>                          
-                       </ul>
-                    </td>
-                    <td class="moremenu" onmouseover="javascript:showHide('show','khobor_menu','khobor_link','')" onmouseout="javascript:showHide('hide','khobor_menu','khobor_link','')"><a href="#" id="khobor_link">more</a></td>
-                  </tr>
-                </tbody></table>
+            <div class="relative" style="z-index:6">
+<ul id="top_menu_nav"><li class="ordermenu"><a href="http://www.sastasundar.com/index.php/pages/view/order_by_prescription">Order by<br>Prescription</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/1">Medicines &amp; Treatments</a><ul class="firstlabelBigMenu">
+						<li class="dir">
+							<ul><li><a href="http://www.sastasundar.com/index.php/category/category_landing/888">Household Remedies</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/3">Pain &amp; Fever</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/5">Cardiovascular Problems</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/4">Digestive Care</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/10">Children's Health Care</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/2">Respiratory Care</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/11">Skin Diseases</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/12">Eye Care</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/13">ENT Care</a></li>		<li><a href="http://www.sastasundar.com/index.php/category/category_landing/14">Dental Care</a></li>
+							</ul>
+						</li>
+						
+						<li class="dir">	
+							<ul><li><a href="http://www.sastasundar.com/index.php/category/category_landing/9">Reproductive Health Care</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/18">Blood Disorders</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/8">Infections &amp; Antibiotics</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/16">Urology Care</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/7">Hormones &amp; Disorders</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/6">Neurology Care</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/19">AIDS and HIV</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/20">Psychiatry Care</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/23">Anaesthetics</a></li>		<li><a href="http://www.sastasundar.com/index.php/category/category_landing/21">Sleep Disorders</a></li>
+							</ul>
+						</li>
+						
+						<li class="dir">	
+							<ul><li><a href="http://www.sastasundar.com/index.php/category/category_landing/17">Orthopaedic Care</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/22">Poisoning &amp; Antidotes</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/15">Cancer Care</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/24">Others</a></li></ul></li>
+						<li class="clear"></li>
+						</ul></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/411">Home Healthcare Products</a><ul class="firstlabelBigMenu">
+						<li class="dir">
+							<ul><li><a href="http://www.sastasundar.com/index.php/category/category_landing/961">Breakfast and Cereals</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/962">Beverages and Juices</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/414">Sanitation &amp; Hygiene</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/415">Braces &amp; Supports</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/416">Home Tests</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/417">First Aids</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/413">Others</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/412">Fitness &amp; General Health Care</a></li></ul></li>
+						<li class="clear"></li>
+						</ul></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/263">Vitamins &amp; Nutritional Supplements</a><ul class="firstlabelBigMenu">
+						<li class="dir">
+							<ul><li><a href="http://www.sastasundar.com/index.php/category/category_landing/264">General Wellbeing</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/265">Pregnancy &amp; Maternal Nutrition</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/266">Child Care Nutrition</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/267">Diabetic Nutrition</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/268">Old Age Care</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/269">Sports Nutrition</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/270">Others</a></li></ul></li>
+						<li class="clear"></li>
+						</ul></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/690">Ayurvedic &amp; Herbal Preparations</a><ul class="firstlabelBigMenu">
+						<li class="dir">
+							<ul><li><a href="http://www.sastasundar.com/index.php/category/category_landing/691">Antioxidants</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/692">Eye Preparations</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/693">Dental Care</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/694">Skin Preparations</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/695">Hair Care</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/696">Pain Relief</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/697">Personal Care</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/698">Respiratory Care</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/699">Digestive Care</a></li>		<li><a href="http://www.sastasundar.com/index.php/category/category_landing/700">Cardiac Health</a></li>
+							</ul>
+						</li>
+						
+						<li class="dir">	
+							<ul><li><a href="http://www.sastasundar.com/index.php/category/category_landing/701">Baby Care</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/702">Diabetes</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/703">Liver &amp; Kidney</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/704">Sexual Health</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/706">Mental Health</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/942">Immunity Boosters</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/946">Blood Deficiency and Disorders</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/943">General Health</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/944">Women Health Care</a></li>		<li><a href="http://www.sastasundar.com/index.php/category/category_landing/945">Bones Health Care</a></li>
+							</ul>
+						</li>
+						
+						<li class="dir">	
+							<ul><li><a href="http://www.sastasundar.com/index.php/category/category_landing/947">Pure Plant Extract</a></li></ul></li>
+						<li class="clear"></li>
+						</ul></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/316">Beauty &amp; Personal Care</a><ul class="firstlabelBigMenu">
+						<li class="dir">
+							<ul><li><a href="http://www.sastasundar.com/index.php/category/category_landing/317">Hair Care</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/318">Hand, Nail &amp; Foot Care</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/319">Oral Hygiene</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/320">Feminine Care</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/321">Men's Grooming</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/322">Children's Care</a></li></ul></li>
+						<li class="clear"></li>
+						</ul></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/503">Sexual Wellness</a><ul class="firstlabelBigMenu">
+						<li class="dir">
+							<ul><li><a href="http://www.sastasundar.com/index.php/category/category_landing/504">For Men</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/505">For Women</a></li><li><a href="http://www.sastasundar.com/index.php/category/category_landing/506">Reproductive Health</a></li>
+						</ul></li>
+							<li class="clear"></li>
+							</ul></li><li class="moremenu"><a href="#">More</a><ul class="moreMenuDp"><li class="dir"><ul><li><a href="http://www.sastasundar.com/index.php/category/category_landing/545">Surgical Care &amp; Orthopaedic Aids</a></li></ul></li></ul></li></ul>
 
-                 <!--table menu end--> 
-                 
-                 <!--dropdown start-->
-      <div onmouseover="javascript:showHide('show','khobor_menu','khobor_link')" onmouseout="javascript:showHide('hide','khobor_menu','khobor_link','')" id="khobor_menu" class="submenu" style="display:none;">
-                  	    
-                        <div class="submenu_category1">
-					                       <p><a href="http://www.sastasundar.com/index.php/category/category_landing/674">Fluids &amp; Parenteral Care</a></p>
-                                          <p><a href="http://www.sastasundar.com/index.php/category/category_landing/545">Surgical Care &amp; Orthopaedic Aids</a></p>
-                                   
-          
-                        
-                        </div>
-                        
-                        
-                        <div class="clear"></div>
-                  </div>
-                   
-                  
-                        	 
-                        
+
+            		
+              <div class="clear"></div>   
                   
                  <!--dropdown end-->
-            </div>            <!--menu panel end-->
+            </div>
+            
+<script type="text/javascript">
+$(document).ready(function(e) {
+   $('#top_menu_nav > li').each(function(index){
+   		var count = $(this).children().find('.dir').length;
+		
+		if(count == 2){
+			$(this).children('ul').addClass('firstlabelBigMenu2Col');
+		}
+		else if(count == 3){
+			$(this).children('ul').addClass('firstlabelBigMenu3Col');
+		}
+		
+		if(index >=4){
+			$(this).children('ul').addClass('firstlabelBigMenuRight');
+		}else{
+			$(this).children('ul').addClass('left0');
+		}
+		
+   });
+});
+</script>                        <!--menu panel end-->
             
             <!--body section start-->
            <script type="text/javascript" src="http://www.sastasundar.com/public/js/jquery.scrollTo-1.4.3.1-min.js"></script>
@@ -558,21 +618,31 @@ Products</a>
             	  <!--left panel start-->
                   <div class="leftpanel">
   <div class="pdB">
-      <div class="register_online">
-    	<h2>Register Now!</h2>
+      
+    <div class="register_online">
+    	<a href="http://www.sastasundar.com/index.php/user/registration"><h2>REGISTER NOW!</h2></a>
         <p>Buy medicines, healthcare products and other useful products from our innovative digital pharmacy and healthcare store! We will deliver the products at your doorstep.</p>
   <a href="http://www.sastasundar.com/index.php/user/registration" class="register_button"></a>
   </div>
     
   </div>
   
+  
+  
+  <div class="pdB">
+  	<a href="http://www.sastasundar.com/healthbuddy.pdf" target="_blank"><img src="http://www.sastasundar.com/public/images/healthbuddy_left.jpg"></a>
+  </div>
+  
+  
   <!--<div class="pdB">
   	<img src="http://www.sastasundar.com/public/images/special_offer.jpg">
   </div>-->
   
+  
+  
   <div class="pdB"><a href="http://www.sastasundar.com/index.php/pages/view/how_it_works"><img src="http://www.sastasundar.com/public/images/howbanner.jpg" width="220" height="170" alt=""></a></div>
     <div class="reachus">
-    <h2><a href="http://www.sastasundar.com/index.php/pages/view/contactus">Get in touch</a></h2>
+    <h2><a href="http://www.sastasundar.com/index.php/pages/view/contactus">Get in touch with us!</a></h2>
     <p class="phone">
 	    <img src="http://www.sastasundar.com/public/images/contactno.png">
     </p>
@@ -581,47 +651,56 @@ Products</a>
   
   
   <div class="pdB">
-  <span id="liveadmin"></span></div>
-  
-  <!--<div class="pdB"> <a href="http://www.sastasundar.com//index.php/chat/" class="chat"><img src="http://www.sastasundar.com/public/images/chatwithus.gif" width="220" height="80" alt="" /></a> </div>-->
-  
-  <div class="pdB"> 
-    <a href="http://www.sastasundar.com/index.php/pages/view/health_buddy"><img src="http://www.sastasundar.com/public/images/joinnow.jpg" width="220" height="147" alt=""></a>
+  <span id="liveadmin"></span>
   </div>
   
- <!-- <div>
-    <iframe width="220" height="124" src="http://www.youtube.com/embed/8KNoFhBb-Vc" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <div class="videotext">
-    <h2><span style="color:#ed1b24">Sasta</span><span style="color:#017dc7">Sundar</span> official video</h2>
-    <p>Watch it to know more about SastaSundar! Know what it offers and how it works for the benefit of the customers.</p>
-  </div>-->
+  
+  
+
+  
   <div class="pdB"> 
-    <!--<a href="#"><img src="http://www.sastasundar.com/public/images/joinnow.gif" width="220" height="158" alt="" /></a>--> 
-    <a href="http://www.sastasundar.com/index.php/customer/manage_prescription" class="joinlinks"><img width="40" height="39" class="left" alt="" src="http://www.sastasundar.com/public/images/account_upload.png">Prescription digitization</a>
+    <a href="http://www.sastasundar.com/index.php/user/apply_as_hb"><img src="http://www.sastasundar.com/public/images/joinnow.jpg" width="220" height="147" alt=""></a>
+  </div>
+  
+ 
+  <div class="pdB">     
+    <a href="http://www.sastasundar.com/index.php/customer/manage_prescription" class="joinlinks"><img width="40" height="39" class="left" alt="" src="http://www.sastasundar.com/public/images/account_upload.png">Prescription Digitization</a>
      
-    <a href="http://www.sastasundar.com/index.php/customer/my_orders" class="joinlinks"><img width="40" height="39" class="left" alt="" src="http://www.sastasundar.com/public/images/account_manage_order.png">Re-order your medicine</a> 
+    <a href="http://www.sastasundar.com/index.php/customer/my_orders" class="joinlinks"><img width="40" height="39" class="left" alt="" src="http://www.sastasundar.com/public/images/account_manage_order.png">Re-order Medicine</a> 
     
-    <a href="http://www.sastasundar.com/index.php/customer/reward_point" class="joinlinks"><img width="40" height="39" class="left" alt="" src="http://www.sastasundar.com/public/images/account_reward.png">Redeem reward points</a> 
-    <!--<a href="#" class="joinlinks">top-up e-wallet</a>--> 
-    <a href="http://www.sastasundar.com/index.php/customer/wallet_history" class="joinlinks"><img width="40" height="39" class="left" alt="" src="http://www.sastasundar.com/public/images/account_ewallet.png">View my e-wallet</a> 
+    <a href="http://www.sastasundar.com/index.php/customer/reward_point" class="joinlinks"><img width="40" height="39" class="left" alt="" src="http://www.sastasundar.com/public/images/account_reward.png">Redeem Reward Points</a> 
     
-    <a href="http://www.sastasundar.com/index.php/customer/my_orders" class="joinlinks"><img width="40" height="39" class="left" alt="" src="http://www.sastasundar.com/public/images/account_manage_order.png">View order status</a> </div>
+    <a href="http://www.sastasundar.com/index.php/customer/wallet_history" class="joinlinks"><img width="40" height="39" class="left" alt="" src="http://www.sastasundar.com/public/images/account_ewallet.png">View e-Wallet</a> 
+    
+    <a href="http://www.sastasundar.com/index.php/customer/my_orders" class="joinlinks"><img width="40" height="39" class="left" alt="" src="http://www.sastasundar.com/public/images/account_manage_order.png">View Order Status</a> 
+    </div>
     
     
-    <div class="tipofday">
+  <div class="pdB">
+  	<a href="http://www.sastasundar.com/public/Downloads/sastasundarhealthtips_he.pdf" target="_blank"><img src="http://www.sastasundar.com/public/images/ss-web-pdf-hlt-eat.jpg"></a>
+  </div>
+  
+  <div class="pdB">
+  	<a href="http://www.sastasundar.com/index.php/pages/view/do_you_know"><img src="http://www.sastasundar.com/public/images/DYK.jpg"></a>
+  </div>
+  <div class="pdB">
+  	<a href="http://www.sastasundar.com/index.php/pages/view/tips"><img src="http://www.sastasundar.com/public/images/TOD.jpg"></a>
+  </div>
+  
+  <div class="tipofday">
           <h2>Tip of the Day</h2>
       <p>
       
       
-	  <img src="http://www.sastasundar.com/index.php/show_image/crop/dGlwcy9naW5naXZpdGlzLmpwZw==/194/163/e5e5e5" alt="">  
+	  <img src="http://www.sastasundar.com/index.php/show_image/crop/dGlwcy9TUC5qcGc=/194/163/e5e5e5" alt="">  
 	  <br>
-        <span>Gingivitis ( inflammation of the gums)</span> </p>
+        <span>Relieving Stomach Pain</span> </p>
       <div class="tiplist ">
-        <p>In a litre of boiling water add 5gm dried marigold flower heads. &nbsp;Soak the flower heads for 5 minutes and strain the decoction in a jug. Use it for gargling regularly.</p>      </div>
+        <p>Consume two tablespoons of honey and follow it with a glassful of water. Honey helps in curbing stomach cramps, stomach pain, acidity and heartburn.&nbsp;</p>      </div>
       <br>
     </div>
-	</div>
+	
+</div>
                   <!--left panel end-->
                   
                   <!--Right panel start-->
@@ -883,19 +962,20 @@ Please proceed only if you accept all the conditions enumerated herein above, ou
 
 
 
-<script type="text/javascript" src="http://www.sastasundar.com/public/slide/jquery.cycle.all.min.js" defer="defer" async="async"></script>
-<script type="text/javascript" src="http://www.sastasundar.com/public/slide/scripts.js" defer="defer" async="async"></script>
+
 
             
             <!--footer section start-->
-            <!-- scroll script start -->
+            
+
+<!-- scroll script start -->
 	<script type="text/javascript" src="http://www.sastasundar.com/public/js/crawler.js"></script>
     <script type="text/javascript">
 							marqueeInit({
 								uniqueid: 'mycrawler',
 								style: {
 									'padding': '0px',
-									'width': '480px',
+									'width': '650px',
 									'background': 'none',
 									'vaign': 'top'
 								},
@@ -930,7 +1010,8 @@ function showHide(action, menu_id, link_id,pre){
 <div>
             <!--Top Brands div start-->
                     	 
-                                            
+                        
+                   
                    <!--Social network icon panel start-->
                    <div class="social_nw">
                    		<div class="social_icon">
@@ -944,16 +1025,26 @@ function showHide(action, menu_id, link_id,pre){
                             </ul>
                         </div>
                         
-                        <div class="current_service">
-                        	<div class="service_area">
-                            	We are currently servicing at :
-                            </div>
+                        
+                        <!--<div class="current_service servicefeed"></div>-->
+                        
+                       <!--
+						<div class="current_service">
+                        	
                             <div class="servicefeed">
                             	<div class="marquee" id="mycrawler">
-                            	 <span>700001</span> (B B D Bag,Brabourne Road,Canning Street,China Bazar,Clive Row,Fairlie Place,Hemanta Basu Sarani,India Exchange Place,Lyons Range,M G Road,N S Road,Posta,Strand Road)  <span>700002</span> (All)  <span>700003</span> (All)  <span>700004</span> (All)  <span>700005</span> (All)  <span>700006</span> (All)  <span>700007</span> (Ahiritola,Burrabazar-Bastolla,Burrabazar-Burtolla,Central Avenue,Cotton Street,Dacca Patty,Girish Park,Jora Bagan,K K Tagore Street,Kalakar Street,Kankurgachi,M D Road,M G Road,Malapara,Maniktala,Mechua,Muktaram Babu Street,N S Road,Posta,Rabindra Sarani,Rajakatra,Ram Mandir,Sova Bazar)  <span>700008</span> (All)  <span>700009</span> (All)  <span>700010</span> (All)  <span>700011</span> (All)  <span>700012</span> (All)  <span>700013</span> (All)  <span>700014</span> (All)  <span>700015</span> (All)  <span>700016</span> (All)  <span>700017</span> (Azimgunge House)  <span>700018</span> (All)  <span>700019</span> (Ballygunj)  <span>700020</span> (All)  <span>700021</span> (All)  <span>700022</span> (All)  <span>700023</span> (All)  <span>700024</span> (All)  <span>700025</span> (All)  <span>700026</span> (All)  <span>700027</span> (All)  <span>700028</span> (All)  <span>700029</span> (All)  <span>700030</span> (All)  <span>700031</span> (All)  <span>700032</span> (All)  <span>700033</span> (All)  <span>700034</span> (All)  <span>700035</span> (All)  <span>700036</span> (All)  <span>700037</span> (All)  <span>700038</span> (All)  <span>700039</span> (All)  <span>700040</span> (All)  <span>700041</span> (Banerjee Para,Kudghat,Paschim Putiary,Purba Putiary)  <span>700042</span> (All)  <span>700043</span> (All)  <span>700044</span> (All)  <span>700045</span> (All)  <span>700046</span> (All)  <span>700047</span> (All)  <span>700048</span> (All)  <span>700049</span> (All)  <span>700050</span> (All)  <span>700051</span> (All)  <span>700052</span> (Anupama Housing Complex,AWHO Apartment,Club Town,Indraprasth Apartment,Kaikhali,Kendriya Vihar,Koyla Vihar,Panchavati,Poddar Valley,Space Town,Sriram Nagar,Tegharia,VIP Road)  <span>700053</span> (All)  <span>700054</span> (All)  <span>700055</span> (All)  <span>700056</span> (All)  <span>700057</span> (All)  <span>700058</span> (All)  <span>700059</span> (All)  <span>700060</span> (All)  <span>700061</span> (All)  <span>700062</span> (All)  <span>700063</span> (All)  <span>700064</span> (All)  <span>700065</span> (All)  <span>700066</span> (All)  <span>700067</span> (All)  <span>700068</span> (All)  <span>700069</span> (All)  <span>700070</span> (All)  <span>700071</span> (All)  <span>700072</span> (All)  <span>700073</span> (All)  <span>700074</span> (All)  <span>700075</span> (All)  <span>700076</span> (All)  <span>700077</span> (All)  <span>700078</span> (All)  <span>700079</span> (All)  <span>700080</span> (All)  <span>700081</span> (All)  <span>700082</span> (All)  <span>700083</span> (All)  <span>700084</span> (All)  <span>700085</span> (All)  <span>700086</span> (All)  <span>700087</span> (All)  <span>700088</span> (All)  <span>700089</span> (All)  <span>700090</span> (All)  <span>700091</span> (Baisakhi,Charnok City,City Centre,EZCC,Infinity Building,Karunamoyee,Kwality,Labony,Mishra's,PNB Crossing,Swimming Pool,Technopolics,Wipro)  <span>700092</span> (All)  <span>700093</span> (All)  <span>700094</span> (All)  <span>700095</span> (All)  <span>700096</span> (All)  <span>700097</span> (All)  <span>700098</span> (All)  <span>700099</span> (All)  <span>700100</span> (All)  <span>700101</span> (Kestopur)  <span>700102</span> (All)  <span>700103</span> (All)  <span>700104</span> (Ananda Pally,Kabardanga,Kalitala,Keorapukur Bazar,Mission,Sukanta Pally)  <span>700105</span> (All)  <span>700106</span> (All)  <span>700107</span> (All)  <span>700108</span> (All)  <span>700109</span> (All)  <span>700110</span> (All)  <span>700111</span> (All)  <span>700112</span> (All)  <span>700113</span> (All)  <span>700114</span> (All)  <span>700115</span> (All)  <span>700116</span> (All)  <span>700117</span> (All)  <span>700118</span> (All)  <span>700119</span> (All)  <span>700120</span> (All)  <span>700121</span> (All)  <span>700122</span> (All)  <span>700123</span> (All)  <span>700124</span> (All)  <span>700125</span> (All)  <span>700126</span> (All)  <span>700127</span> (All)  <span>700128</span> (All)  <span>700129</span> (All)  <span>700130</span> (All)  <span>700131</span> (All)  <span>700132</span> (All)  <span>700133</span> (All)  <span>700134</span> (All)  <span>700135</span> (All)  <span>700136</span> (All)  <span>700137</span> (All)  <span>700138</span> (All)  <span>700139</span> (All)  <span>700140</span> (All)  <span>700141</span> (All)  <span>700142</span> (All)  <span>700143</span> (All)  <span>700144</span> (Baruipur)  <span>700145</span> (All)  <span>700146</span> (All)  <span>700147</span> (All)  <span>700148</span> (All)  <span>700149</span> (All)  <span>700150</span> (All)  <span>700151</span> (All)  <span>700152</span> (All)  <span>700153</span> (All)  <span>700154</span> (All)  <span>700155</span> (All)  <span>700156</span> (All)  <span>700157</span> (All)  <span>711101</span> (Chintamani Dey Road,Dobson Road,Fazir Bazar,Howrah AC Market,Howrah Maidan,King's Road,Mullick Fatak,Rameshwar Malia Lane,Rosemary Lane,Sandhya Bazar)  <span>711102</span> (Ganges Garden,Howrah Jute Mill,Jain Hospital,Kazipara,Shibpur Tram Depot)  <span>711202</span> (Belur Bazar,Rabindra Sarani,Supai Para)  <span>711204</span> (Abhoy Guha Road,Bada Gate &amp; Chhota Gate,Girish Ghosh Road,Liluah,Liluah Don Bosco,N S Road,Rabindra Sarani,Railway Colony,RBS Colony,Shantinagar Colony)                                 </div>
+                                
+                            	<span>We are currently providing our services in Kolkata , Howrah , Burdwan and Kharagpur. / Call us @ 033 3080 3080 (Monday to Saturday between 10 a.m. to 6.00 p.m.) for any assistance.</span>
+                                </div>
                             </div>
                             <div class="clear"></div>
                         </div>
+                        -->
+                        
+                        
+                        
+                        
+                        
                         <div class="clear"></div>
                    </div>
                    <!--Social network icon panel end-->     
@@ -963,19 +1054,18 @@ function showHide(action, menu_id, link_id,pre){
                  		<div class="footer_category">
                         	  <h2>Categories</h2>
                                                             <p><a href="http://www.sastasundar.com/index.php/category/category_landing/1">Medicines &amp; Treatments</a></p>
+                                                            <p><a href="http://www.sastasundar.com/index.php/category/category_landing/411">Home Healthcare Products</a></p>
                                                             <p><a href="http://www.sastasundar.com/index.php/category/category_landing/263">Vitamins &amp; Nutritional Supplements</a></p>
                                                             <p><a href="http://www.sastasundar.com/index.php/category/category_landing/690">Ayurvedic &amp; Herbal Preparations</a></p>
                                                             <p><a href="http://www.sastasundar.com/index.php/category/category_landing/316">Beauty &amp; Personal Care</a></p>
-                                                            <p><a href="http://www.sastasundar.com/index.php/category/category_landing/411">Home Healthcare Products</a></p>
                                                             <p><a href="http://www.sastasundar.com/index.php/category/category_landing/503">Sexual Wellness</a></p>
-                                                            <p><a href="http://www.sastasundar.com/index.php/category/category_landing/674">Fluids &amp; Parenteral Care</a></p>
                                                             <p><a href="http://www.sastasundar.com/index.php/category/category_landing/545">Surgical Care &amp; Orthopaedic Aids</a></p>
                                                       </div>
                         
                         <div class="footer_company">
                         	  <h2>Company Overview</h2>
                               <p><a href="http://www.sastasundar.com/index.php/pages/view/about_us">About Us</a></p>
-                              <p><a href="http://www.sastasundar.com/index.php/user/apply_as_hb">Career Opportunities</a></p>
+                              <p><a href="http://www.sastasundar.com/index.php/pages/view/career_opportunities">Career Opportunities</a></p>
                               <!--<p><a href="http://www.sastasundar.com/index.php/pages/view/social_responsibility">Social Responsibility</a></p>-->
                               <!--<p><a href="#">Investor Relations</a></p>-->
                               <!--<p><a href="#">Newsletters</a></p>-->
@@ -987,7 +1077,10 @@ function showHide(action, menu_id, link_id,pre){
                               <!--<p><a href="#">How to Order</a></p>-->
                               <p><a href="http://www.sastasundar.com/index.php/pages/view/health_buddy">Health Buddy</a></p>
                               <p><a href="http://www.sastasundar.com/index.php/pages/view/contactus">Contact Us</a></p>
-                              <p><a href="http://www.sastasundar.com/index.php/user/serviceable_area">Services Available - Location</a></p>
+                              <p><a href="http://www.sastasundar.com/index.php/pages/view/tips">Tips</a></p>
+                              <p><a href="http://www.sastasundar.com/index.php/pages/view/do_you_know">Do You Know?</a></p>
+							  <p><a href="http://www.sastasundar.com/index.php/pages/view/downloads">Downloads</a></p>
+                              <!--<p><a href="http://www.sastasundar.com/index.php/user/serviceable_area">Services Available - Location</a></p>-->
                               <!--<p><a href="#">Site Map</a></p>-->
                               <!--<p><a href="#">Help</a></p>-->
                               <!--<p><a href="#">Testimonials</a></p>-->
@@ -1019,55 +1112,55 @@ function showHide(action, menu_id, link_id,pre){
                                                ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DiseaseSymptoms&amp;searchText=fever&amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">fever</a>
                                              
                        
-                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=CALPOL &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">CALPOL </a>
-                                             
-                       
                                                ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=HORLICKS &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">HORLICKS </a>
                                              
                        
                                                ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=MfgGroup&amp;searchText=RANBAXY LABS&amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">RANBAXY LABS</a>
                                              
                        
-                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=VOLINI &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">VOLINI </a>
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=CROCIN &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">CROCIN </a>
                                              
                        
-                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=STAMLO &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">STAMLO </a>
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=HIMALAYA &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">HIMALAYA </a>
+                                             
+                       
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=CALPOL &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">CALPOL </a>
+                                             
+                       
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=MfgGroup&amp;searchText=HINDUSTAN UNILEVER LTD&amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">HINDUSTAN UNILEVER LTD</a>
+                                             
+                       
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=PAN &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">PAN </a>
+                                             
+                       
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=DETTOL &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">DETTOL </a>
+                                             
+                       
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=VASELINE &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">VASELINE </a>
+                                             
+                       
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=JOHNSON'S &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">JOHNSON'S </a>
                                              
                        
                                                ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=ECOSPRIN &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">ECOSPRIN </a>
                                              
                        
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=STAMLO &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">STAMLO </a>
+                                             
+                       
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=VOLINI &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">VOLINI </a>
+                                             
+                       
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=MfgGroup&amp;searchText=CIPLA LTD&amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">CIPLA LTD</a>
+                                             
+                       
                                                ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DiseaseSymptoms&amp;searchText=cancer&amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">cancer</a>
                                              
                        
-                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=LEVROXA &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">LEVROXA </a>
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=MfgGroup&amp;searchText=HIMALAYA HERBAL HEALTHCARE&amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">HIMALAYA HERBAL HEALTHCARE</a>
                                              
                        
-                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=ROSUVAS &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">ROSUVAS </a>
-                                             
-                       
-                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=CRANPAC &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">CRANPAC </a>
-                                             
-                       
-                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=PEDIC &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">PEDIC </a>
-                                             
-                       
-                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=DERIPHYLLIN &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">DERIPHYLLIN </a>
-                                             
-                       
-                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=CLOHEX &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">CLOHEX </a>
-                                             
-                       
-                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=ROCKBON &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">ROCKBON </a>
-                                             
-                       
-                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=OVACARE &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">OVACARE </a>
-                                             
-                       
-                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=PIOMED &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">PIOMED </a>
-                                             
-                       
-                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=RAZO &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">RAZO </a>
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=GILLETTE &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">GILLETTE </a>
                                              
                        
                        <br><br>
@@ -1079,11 +1172,14 @@ function showHide(action, menu_id, link_id,pre){
                  </div>
                  
                  <div class="copyright">
-                 	  <p class="copytext">© Copyright 2013 <span>SastaSundar.com</span> All rights reserved.</p>
+                 	  <p class="copytext">© Copyright 2014 <span>SastaSundar.com</span> All rights reserved.</p>
 
 
-                      <p class="callus">Call us @ <span>033 3080 3080</span></p>
-                      <!-- <p class="powered">Powered by <a href="http://www.wdc.in" target="_blank">WDC</a></p> -->
+					<!--Remove as per vaswati's comment on 11-13-2013 -->
+                      <!--
+                      
+                      <p class="callus">Call us @ <span>033 3080 3080</span> (Monday to Saturday between 10 a.m. to 6.00 p.m.) for any assistance.</p>
+                      <p class="powered">Powered by <a href="http://www.wdc.in" target="_blank">WDC</a></p> -->
                       <div class="clear"></div>
                  </div>
             </div>
@@ -1097,11 +1193,13 @@ function showHide(action, menu_id, link_id,pre){
 	 
      <div class="wowbar" id="bb">
      	  <p style="padding:4px 42px 0px 10px; float:left"><img src="http://www.sastasundar.com/public/images/wowshop.gif" alt=""></p>
+
+
           <span>Free Home Delivery *</span>
           <span>Incredible offers</span>
           <span>Customer support</span>          
-          <!--<a href="javascript:void(0)" onclick="Live_8aed108f66b7876e92ddf8a64e061b00_Admin.StartChatPanel();" class="chat">Online Chat</a>-->
-          <a href="javascript:void(0)" onclick="Live_8aed108f66b7876e92ddf8a64e061b00_Admin.StartChatPanel();">Online Chat</a>
+          <a href="javascript:void(0)" onclick="Live_8aed108f66b7876e92ddf8a64e061b00_Admin.StartChatPanel();" class="chat">Online Chat</a>
+          <!--<a href="javascript:void(0)" onclick="Live_8aed108f66b7876e92ddf8a64e061b00_Admin.StartChatPanel();">Online Chat</a>-->
      </div>
      <div class="wowbar_button"><div style="margin:6px 0px 0px 0px; float:right; padding-right:15px;"><div class="wowbutton" id="aa"></div></div></div>
      <div class="clear"></div>
@@ -1121,6 +1219,9 @@ jQuery(document).ready(function() {
 });
 
 </script>-->
+
+<script language="JavaScript"> var message="Function Disabled!"; function clickIE4(){ if (event.button==2){ alert(message); return false; } } function clickNS4(e){ if (document.layers||document.getElementById&&!document.all){ if (e.which==2||e.which==3){ alert(message); return false; } } } if (document.layers){ document.captureEvents(Event.MOUSEDOWN); document.onmousedown=clickNS4; } else if (document.all&&!document.getElementById){ document.onmousedown=clickIE4; } document.oncontextmenu=new Function("alert(message);return false") </script>
+
 <script type="text/javascript">
  $(document).ready(function() {
 	 
@@ -1213,30 +1314,36 @@ function FillCity(thisValue) {
 function remove_listTop(){		
 	setTimeout("$('.CitySuggestion').fadeOut();", 5);
 }
-</script>
-<script type="text/javascript">
+
 	$(document).ready(function(){	
-
-		if (!$.browser.opera) {
-    
-			// select element styling
-			$('select.select').each(function(){
-				var title = $(this).attr('title');
-				if( $('option:selected', this).val() != ''  ) title = $('option:selected',this).text();
-				$(this)
-					.css({'z-index':10,'opacity':0,'-khtml-appearance':'none'})
-					.after('<span class="select">' + title + '</span>')
-					.change(function(){
-						val = $('option:selected',this).text();
-						$(this).next().text(val);
-						})
-			});
-
-		};
+		
+		
 		
 		$('.WebRupee').html('`');
 		
+		$(".numeric").live( "keydown" , function(event) {
+			// Allow: backspace, delete, tab, escape, enter and .
+			if ( $.inArray(event.keyCode,[46,8,9,27,13,190]) !== -1 ||
+				 // Allow: Ctrl+A
+				(event.keyCode == 65 && event.ctrlKey === true) || 
+				 // Allow: home, end, left, right
+				(event.keyCode >= 35 && event.keyCode <= 39)) {
+					 // let it happen, don't do anything
+					 return;
+			}
+			else {
+				// Ensure that it is a number and stop the keypress
+				if (event.shiftKey || (event.keyCode < 48 || event.keyCode > 57) && (event.keyCode < 96 || event.keyCode > 105 )) {
+					event.preventDefault(); 
+				}   
+			}
+		});
+		
+		
 	});
+	
+
+	
 </script>
 <style type="text/css">
 .suggestionsBox .suggestionsBox {
@@ -1296,70 +1403,161 @@ background-repeat:no-repeat;
 </style>
 <script type="text/javascript">
 	
+	function reload_captcha(){
+		$.ajax({
+			type: 'POST',
+			dataType: 'json' ,
+			async: false ,
+			url : 'http://www.sastasundar.com/index.php/user/reload_captcha',
+			success: function(arr){
+				var JSONObject = arr;
+				
+				var capImage = JSONObject.image;
+				var capWord  = JSONObject.word;				
+				$('#CaptchaWord').val(capWord);
+				$('.captchaHolder').html(capImage);
+			}
+		});	
+	}
+	
 	$(document).ready(function(){
 		$('.fs_tab').live("click",function(){
 			var div_id = $(this).attr('div_id');
 			var div_width = $("#floating_holder").outerWidth();
 			var div_right = $("#floating_holder").css('right');
 			
+			if($('#validate_form').css('padding') == "0px"){
+				$('#validate_form').css('padding','10px');	
+			}
 			
+			if($('#validate_form2').css('padding') == "0px"){
+				$('#validate_form2').css('padding','10px');	
+			}
 			if(div_right != "0px"){
 				$('.fs_tab_div').css('visibility','hidden').hide();
 				jQuery("#floating_holder").animate({right:"0px"});
 				$('#'+div_id).css('visibility','visible').show();
+				//alert(0);
+				
+				/* start resetting */
+				if(div_id == "suggest_product")
+				{
+					var IsLoggedIn = '0';
+					if(!IsLoggedIn){
+						$('#S_Name, #S_Email, #S_Mobile').val('');
+					}
+					$('#S_Product , #S_Comment').val('');
+					$('#SPCaptcha').val('');
+					$('.inner_sp > table').show();
+					$('.sp_success').remove();
+					
+					$('.request_submit').remove();
+					$('#validate_form2').css('padding','10px');
+				}
+				else
+				{
+					var IsLoggedIn = '0';
+					if(!IsLoggedIn){
+						$('#feedback_name').val('');
+						$('#feedback_email').val('');
+					}
+					$('#feedback_subject').val('');
+					$('#feedback_message').val('');
+					
+					$('.fd_success , .feedback_submit').remove();
+					$('.fd > table').show();
+					$('#FDCaptcha').val('');
+					
+					$('#validate_form').css('padding','10px');
+				}
+				/* end resetting*/
 				
 				
 			}else{	
 				$('.fs_tab_div').hide();
 				jQuery("#floating_holder").animate({right:"0px"});
-				$('#'+div_id).show().css('visibility','visible')		
+				$('#'+div_id).show().css('visibility','visible');
+				
+				
+				
+				//alert(1);		
 				//jQuery("#floating_holder").animate({right:"-402px"});	
 			}
 			return false;
 		})
 		jQuery(".feedback_CloseImg").click(function(){				
+				
 				jQuery("#floating_holder").animate({right:"-402px"});	
+				
+				reload_captcha();
+				
 				return false;
 			}
 		);
 	});
 	
 	$(document).ready(function(){
+	
+	$('.new_feedback').live("click",function(){
+		$('#feedback_subject').val('');
+		$('#feedback_message').val('');
+		var IsLoggedIn = '0';
+		if(!IsLoggedIn){
+		$('#feedback_name').val('');
+		$('#feedback_email').val('');
+		}
+		$('#FDCaptcha').val('');
+		$('.fd_success').hide();
+		$('.fd > table').show();
+		$('.feedback_submit').remove();
+		$('#validate_form').css('padding','10px');
+		reload_captcha();
+		return false;
+	});
 		
 	$('#validate_form').live("submit",function(){
 		var error = 0;
-		$('.js_error').remove();
+		$('.js_msg').remove();
 		$('.helptext').remove();
 		
 		var name = $('#feedback_name').val();
 		var email = $('#feedback_email').val();
 		var subject = $('#feedback_subject').val();
 		var message = $('#feedback_message').val();
-			
-		if(message == "" || name =="" || email =="" || subject ==""){
+		var FDCaptcha =  $('#FDCaptcha').val();
+		 	
+		if($.trim(message) == "" || $.trim(name) =="" || $.trim(email) =="" || $.trim(subject) =="" || $.trim(FDCaptcha) ==""){
 			$('.fd').prepend('<div class="js_msg form_err_msg">Please fill all the fields.</div>');	
 		}else{
-			
-			
-			
-			$.ajax({
-					type : 'POST',
-					url  : 'http://www.sastasundar.com/index.php/user/feedback',
-					async : false,
-					data  : 'name='+name+"&email="+email+"&subject="+subject+"&message="+message,
-					success : function(msg){
-						if($.trim(msg) != "success" ){
-							$('.fd').html('<p class="fd_sp_success">Thank you for your valued feedback. Your ideas and suggestions encourage us to make further improvements. So, keep writing to us.</p>');
-							$('#feedback_name').val('');
-							$('#feedback_email').val('');
-							$('#feedback_subject').val('');
-							$('#feedback_message').val('');
-							
-						}else{
-							$('.fd').prepend('<div class="js_msg">Please try again.</div>');	
+			var regMail = /^([_a-zA-Z0-9-]+)(\.[_a-zA-Z0-9-]+)*@([a-zA-Z0-9-]+\.)+([a-zA-Z]{2,3})$/;
+			if(regMail.test(email) == false){ 
+					$('.fd').prepend('<div class="js_msg form_err_msg">Please enter a proper email id.</div>');	
+				}else{
+				var SubjectDesc = $("#feedback_subject option:selected").text();
+				$.ajax({
+						
+						type : 'POST',
+						url  : 'http://www.sastasundar.com/index.php/user/feedback',
+						async : false,
+						data  : 'name='+name+"&email="+email+"&subject="+subject+"&SubjectDesc="+SubjectDesc+"&message="+message+'&Captcha='+FDCaptcha,
+						success : function(msg){
+							//alert(msg)
+							if($.trim(msg) == "success" ){
+								$('#validate_form').css('padding',0);
+								$('.fd table').hide();
+								$('.fd').prepend('<div class="feedback_submit"><h3>Thank you for your valued feedback.</h3><p class="fd_sp_success fd_success"> Your ideas and suggestions encourage us to make further improvements. So, keep writing to us.</p><br><br><a href="" class="button_grey_small new_feedback"><span>Request a new feedback</span></a><!--<p><span class="new_feedback" style="cursor:pointer; color:#007CBD; text-align:center;">New Feedback</span></p>--></div>');
+								
+								$('#feedback_subject').val('');
+								$('#feedback_message').val('');
+								
+							}else if($.trim(msg) == "captcha_error" ){
+								$('.fd').prepend('<div class="js_msg form_err_msg">Invalid security code</div>');	
+							}else{
+								$('.fd').prepend('<div class="js_msg form_err_msg">Please try again.</div>');	
+							}
 						}
-					}
-				})
+					})
+				}
 			
 		}
 		return false;	
@@ -1380,9 +1578,10 @@ background-repeat:no-repeat;
 		
         <span class="feedback_CloseImg" title="Close"></span>
 		
-        <h2>We expect<br> <span>your opinion</span></h2>
-                
-        <form id="validate_form" method="post">
+        <h2>We value<br> <span>your opinion</span></h2>
+        
+        
+        <form id="validate_form" method="post" style="display:inline">
         <div class="fd" style="min-height:265px;">
         <table border="0" cellspacing="0" cellpadding="2" width="349" class="no_color">
           <tbody><tr>
@@ -1395,16 +1594,36 @@ background-repeat:no-repeat;
           </tr>
           <tr>
             <td valign="top"><label>Subject</label></td>
-            <td align="left"><input type="text" field_required="yes" class="entercode_textbox" id="feedback_subject" title="Subject"></td>
+            <td align="left">
+             <select name="feedback_subject" id="feedback_subject" class="select">
+			             	<option value="2">Registration related queries</option>
+                          	<option value="3">Prescription related queries</option>
+                          	<option value="4">Order related queries</option>
+                          	<option value="5">Delivery related queries</option>
+                          	<option value="6">Payment related queries</option>
+                          	<option value="7">Payment gateway related queries</option>
+                          	<option value="8">Offer related queries</option>
+                          	<option value="9">Health buddy related queries</option>
+                          	<option value="10" selected="selected">Suggestions/Feedback</option>
+                          	<option value="11">Complaints/Grievances</option>
+                          	<option value="12">Others</option>
+                          	<option value="13">Product Request</option>
+                           </select>
+            <!--<input type="text" field_required="yes" class="entercode_textbox" id="feedback_subject" title="Subject" />--></td>
           </tr>
           <tr>
             <td valign="top"><label>Message</label></td>
             <td align="left"><textarea rows="4" class="textarea" field_required="yes" id="feedback_message" title="Message"></textarea></td>
           </tr>
-          <!--<tr>
-            <td valign="top"><label>Suggest a product (optional)</label></td>
-            <td align="left"><input type="text" class="textbox" name="suggest_a_product" id="suggest_a_product" /></td>
-          </tr>-->
+          <tr>
+            <td valign="top"><label>Security Code</label></td>
+            <td align="left">
+            <div style="float:left; padding-bottom:5px; width:180px" class="captchaHolder">
+				<img src="http://www.sastasundar.com/captcha/1399277486.1422.jpg" width="180" height="55" style="border:0;" alt=" ">            </div>
+            <div style="float:left; width:43px; padding:6px 0 0 10px;"><img src="http://www.sastasundar.com/public/images/refresh_captcha.png" alt="" style="cursor:pointer" class="reload_captcha"></div><br>
+			<input type="text" name="FDCaptcha" id="FDCaptcha" class="textbox" maxlength="8" style="text-transform:uppercase" value="Enter Captcha" onfocus="javascript:if(this.value=='Enter Captcha'){this.value=''}" onblur="javascript:if(this.value==''){this.value='Enter Captcha'}">
+            </td>
+          </tr>
           <tr>
             <td>&nbsp;</td>
             <td align="left" style="padding-top:5px"><input type="submit" value="Send" id="send_feedback" class="login_button" style="margin-left:-1px"></td>
@@ -1421,8 +1640,8 @@ background-repeat:no-repeat;
         <span class="feedback_CloseImg" title="Close"></span>
         <h2>Request a Product<span></span></h2>
                 <div class="sp">
-        <form id="validate_form" method="post">
-        <div class="inner_sp" style="min-height:220px;">
+        <form id="validate_form2" method="post" style="display:inline">
+        <div class="inner_sp" style="min-height:220px; ">
         <table border="0" cellspacing="0" cellpadding="2" width="349" class="no_color">
           <tbody><tr>
             <td width="139" valign="top"><label>Product</label></td>
@@ -1438,16 +1657,21 @@ background-repeat:no-repeat;
           </tr>
           <tr>
             <td valign="top"><label>Phone</label></td>
-            <td align="left"><input type="text" class="textbox" id="S_Mobile" maxlength="10" value=""></td>
+            <td align="left"><input type="text" class="textbox numeric" id="S_Mobile" maxlength="11" value=""></td>
           </tr>
           <tr>
             <td width="139" valign="top"><label>Comment</label></td>
             <td width="202" align="left"><textarea name="S_Comment" id="S_Comment" class="textarea"></textarea></td>
           </tr>
-          <!--<tr>
-            <td valign="top"><label>Suggest a product (optional)</label></td>
-            <td align="left"><input type="text" class="textbox" name="suggest_a_product" id="suggest_a_product" /></td>
-          </tr>-->
+          <tr>
+            <td valign="top"><label>Security Code</label></td>
+            <td align="left">
+            <div style="float:left; padding-bottom:5px; width:180px" class="captchaHolder">
+				<img src="http://www.sastasundar.com/captcha/1399277486.1422.jpg" width="180" height="55" style="border:0;" alt=" ">            </div>
+            <div style="float:left; width:43px; padding:6px 0 0 10px;"><img src="http://www.sastasundar.com/public/images/refresh_captcha.png" alt="" style="cursor:pointer" class="reload_captcha"></div><br>
+			<input type="text" name="SPCaptcha" id="SPCaptcha" class="textbox" maxlength="8" style="text-transform:uppercase" value="Enter Captcha" onfocus="javascript:if(this.value=='Enter Captcha'){this.value=''}" onblur="javascript:if(this.value==''){this.value='Enter Captcha'}">
+            </td>
+          </tr>
           <tr>
             <td>&nbsp;</td>
             <td align="left" style="padding-top:5px"><input type="submit" value="Send" id="suggest_product_btn" class="login_button" style="margin-left:-1px"></td>
@@ -1463,11 +1687,6 @@ background-repeat:no-repeat;
 </div>
 
 
-
-
-
-
-
 <!-------------------------------------------------------------------------------------------------------------------->
 
 <script type="text/javascript">
@@ -1475,18 +1694,32 @@ background-repeat:no-repeat;
 	
 	$(document).ready(function(){
 		
+		$('.new_product_request').live("click",function(){
+			var IsLoggedIn = '0';
+			if(!IsLoggedIn){
+				$('#S_Name, #S_Email, #S_Mobile').val('');
+			}
+			$('#S_Product , #S_Comment , #SPCaptcha').val('');
+			$('.inner_sp > table').show();
+			$('.sp_success , .request_submit').remove();
+			$('#validate_form2').css('padding','10px');
+			reload_captcha();
+			
+		});
+		
 		$('#suggest_product_btn').live("click",function(){
 			
 			$('.js_msg').remove();
 			
-			var product = $('#S_Product').val();
-			var comment = $('#S_Comment').val();
-			var name 	= $('#S_Name').val();
-			var email 	= $('#S_Email').val();
-			var contact = $('#S_Mobile').val();
+			var product = $.trim($('#S_Product').val());
+			var comment = $.trim($('#S_Comment').val());
+			var name 	= $.trim($('#S_Name').val());
+			var email 	= $.trim($('#S_Email').val());
+			var contact = $.trim($('#S_Mobile').val());
+			var SPCaptcha =  $('#SPCaptcha').val();
 			
 			var regMail = /^([_a-zA-Z0-9-]+)(\.[_a-zA-Z0-9-]+)*@([a-zA-Z0-9-]+\.)+([a-zA-Z]{2,3})$/;			
-			if(product == "" || name =="" || email =="" || contact ==""){
+			if(product == "" || name =="" || email =="" || contact =="" || SPCaptcha==""){
 				$('.sp').prepend('<div class="js_msg form_err_msg">Please fill all the fields.</div>');	
 			}else{
 			
@@ -1496,15 +1729,19 @@ background-repeat:no-repeat;
 					$.ajax({
 						type : 'POST',
 						url  : 'http://www.sastasundar.com/index.php/user/add_medicine',
-						data : 'product='+product+'&name='+name+'&email='+email+'&contact='+contact+"&comment="+comment,
+						data : 'product='+product+'&name='+name+'&email='+email+'&contact='+contact+"&comment="+comment+"&Captcha="+SPCaptcha,
 						success: function(msg){
 							//alert(msg);
 							if(msg == "success"){
+								$('#validate_form2').css('padding',0);
 								$('.js_msg').remove();
-								//$('.sp').prepend('<div class="js_msg" style="background:#D7ECDA;border:1px solid #68B771;color:#38A244; padding:5px;">Your request message has been succesfully sent to the admin.</div>');
-								$('.inner_sp').html('<div class="fd_sp_success">Thanks for your suggestion. We will get back to you within 24 hours.</div>');								
-							}else{
-								$('.sp').prepend('<div class="js_msg">Please try again.</div>');	
+								$('.inner_sp').prepend('<div class="request_submit"><h3>Thanks for your suggestion.</h3><p class="fd_sp_success fd_success">We will get back to you within 24 hours.</p><br><br><div class="relative"><p class="button_grey_small new_product_request"><span>Request a new feedback</span></p></div></div>');
+								$('.inner_sp table').hide();
+							}else if(msg == "captcha_error"){
+								$('.sp').prepend('<div class="js_msg form_err_msg">Invalid security code</div>');	
+							}
+							else{
+								$('.sp').prepend('<div class="js_msg form_err_msg">Please try again.</div>');	
 							}
 						}
 						})
