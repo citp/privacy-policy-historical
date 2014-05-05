@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bconnectedonline.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111174908id_/http%3A//www.boydgaming.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bconnectedonline.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505090441id_/http%3A//www.boydgaming.com/privacy) for the most accurate reproduction.*
 
 # Boyd Gaming Corporation Privacy Policy | BoydGaming.com
 
@@ -49,3 +49,6 @@ Pursuant to law, persons under the age of twenty-one (21) are not permitted to g
 **IX. CHANGES**
 
 This Privacy Policy was posted on January 7, 2002 and updated on January 3, 2007. Boyd Gaming Corporation reserves the right to change, modify or amend this Privacy Policy at any time. When the Privacy Policy is changed, modified and/or amended, the revised Privacy Policy will be posted on Boyd Gaming Corporation web sites. Any revised Privacy Policy will only apply prospectively to Personal Information collected or modified after the effective date of the revised policy. Customers are responsible for periodically checking the Privacy Policy posted on Boyd Gaming Corporation Web Sites for changes.
+
+  
+
