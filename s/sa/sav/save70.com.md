@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the save70.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127010100id_/http%3A//www.save70.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the save70.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506010720id_/http%3A//www.save70.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Save 70
 
@@ -22,10 +22,8 @@ When you use our Website, we automatically collect certain computer information 
 
   * **Cookies**  
 Our Website uses “Cookies” to identify the areas of our Website that you have visited. A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to personalize the Content that you see on our Website. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our Website correctly or at all. We never place Personally Identifiable Information in Cookies.
-
   * **Automatic Information**  
 We automatically receive information from your web browser or mobile device. This information includes the name of the website from which you entered our Website, if any, as well as the name of the website to which you’re headed when you leave our website. This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet Website provider name, web browser type, type of mobile device, and computer operating system. We use all of this information to analyze trends among our Users to help improve our Website.
-
 
 
 
@@ -34,16 +32,13 @@ We use the information we receive from you as follows:
 
   * **Customizing Our Website**  
 We may use the Personally Identifiable information you provide to us along with any computer information we receive to customize our Website.
-
   * **Sharing Information with Affiliates and Other Third Parties**  
 We do not sell, rent, or otherwise provide your Personally Identifiable Information to third parties for marketing purposes. We may provide your Personally Identifiable Information to affiliates that provide services to us with regards to our Website (i.e. payment processors, Website hosting companies, etc.); such affiliates will only receive information necessary to provide the respective services and will be bound by confidentiality agreements limiting the use of such information.
-
   * **Data Aggregation**  
 We retain the right to collect and use any Non Personal Information collected from your use of our Website and aggregate such data for internal analytics that improve our Website and Service as well as for use or resale to others. At no time is your Personally Identifiable Information included in such data aggregations.
-
+  * This site uses the ClickTale customer experience analytics service.  The ClickTale service helps us analyze how visitors use our Website.  We do not collect through the ClickTale service or transfer to ClickTale any personal identifiable information.  We only use the ClickTale service to record, on a completely anonymous basis, information such as mouse clicks, mouse movements, scrolling activity as well as non-Personally Identifiable Information text you type in this website.  ClickTale does not create a user profile for the purpose of tracking a user across unrelated web sites and will only use such information pursuant to its Privacy Policy (located at [http://www.clicktale.com/privacy_service.aspx](http://www.clicktale.com/privacy_service.aspx)).  You can choose to disable the ClickTale service at [http://www.clicktale.net/disable.html](http://www.clicktale.net/disable.html).
   * **Legally Required Releases of Information**  
 We may be legally required to disclose your Personally Identifiable Information, if such disclosure is (a) required by subpoena, law, or other legal process; (b) necessary to assist law enforcement officials or government enforcement agencies; (c) necessary to investigate violations of or otherwise enforce our Legal Terms; (d) necessary to protect us from legal action or claims from third parties including you and/or other Members; and/or (e) necessary to protect the legal rights, personal/real property, or personal safety of Save 70, our Users, employees, and affiliates.
-
 
 
 
