@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drjizz.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102203252id_/http%3A//www.drjizz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drjizz.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505193001id_/http%3A//www.drjizz.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy at Dr Jizz
 
@@ -41,3 +41,6 @@ Unfortunately, the transmission of information via the Internet is not completel
 YOUR RIGHTS
 
 You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at admin at DrJizz.com 
+
+  
+
