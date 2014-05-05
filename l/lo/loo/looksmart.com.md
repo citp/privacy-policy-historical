@@ -1,25 +1,27 @@
-> *The following text is extracted and transformed from the looksmart.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529121743id_/http%3A//www.looksmart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looksmart.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505072154id_/http%3A//www.looksmart.com/privacy-policy) for the most accurate reproduction.*
 
-# LookSmart > Bottom Nav > Privacy Policy
+# LookSmart - Search Advertising
+
+**Last revised December 27th 2013**
 
 LookSmart.com, a service of LookSmart, Ltd., has created this privacy statement to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for the [www.LookSmart.com](http://www.looksmart.com/) site.
 
 The following questions are answered below:
 
-   [1\. What information does LookSmart.com collect?](http://www.looksmart.com/privacy-policy/#PP1)  
-   [2\. What organization is collecting the information?](http://www.looksmart.com/privacy-policy/#PP2)  
-   [3\. What does LookSmart.com do with the data it collects?](http://www.looksmart.com/privacy-policy/#PP3)  
-   [4\. With whom does LookSmart.com share data?](http://www.looksmart.com/privacy-policy/#PP4)  
-   [5\. What choices are available regarding collection, use and distribution of the information (Opt Out Policy)?](http://www.looksmart.com/privacy-policy/#PP5)  
-   [6\. How can I update or correct my information?](http://www.looksmart.com/privacy-policy/#PP6)  
-   [7\. How can I delete my information?](http://www.looksmart.com/privacy-policy/#PP7)  
-   [8\. What procedures have been designed to protect the loss, misuse or alteration of information under LookSmart.com's control?](http://www.looksmart.com/privacy-policy/#PP8)  
-   [9\. What about privacy policies for sites to which LookSmart.com links?](http://www.looksmart.com/privacy-policy/#PP9)  
-  [10\. What happens to my information if LookSmart.com merges with or is sold to another company?](http://www.looksmart.com/privacy-policy/#PP10)  
-  [11\. Notification of Changes.](http://www.looksmart.com/privacy-policy/#PP11)  
-  [12\. Contact Information.](http://www.looksmart.com/privacy-policy/#PP12)
+1\. What information does LookSmart.com collect?   
+2\. What organization is collecting the information?   
+3\. What does LookSmart.com do with the data it collects?   
+4\. With whom does LookSmart.com share data?   
+5\. What choices are available regarding collection, use and distribution of the information? (Opt-Out Policy)   
+6\. How can I update or correct my information?   
+7\. How can I delete my information?   
+8\. What procedures have been designed to protect the loss, misuse or alteration of information under LookSmart.com's control?   
+9\. What about privacy policies for sites to which LookSmart.com links?   
+10\. What happens to my information if LookSmart.com merges with or is sold to another company?   
+11\. Notification of Changes   
+12\. Contact Information
 
-If you have any questions about this privacy statement, the practices of this site or your dealings with this site, please submit them via the form found here: <https://adcenter.looksmart.com/help/contact>.
+If you have any questions about this privacy statement, the practices of this site or your dealings with this site, please submit them by clicking on the "Questions" tab at the left edge of the window.
 
 **1\. What information does LookSmart.com collect?**
 
@@ -33,13 +35,11 @@ Third, we log browser types, access times, URLs from which visitors came to our 
 
 Fourth, at specific times we may ask you to provide us with personal information to enable you to register for a service or to enter a sweepstakes. You may also provide personal information if you write us feedback email. This information may include but is not limited to your name and email address. You may always choose not to provide us with this information; however, this may limit our ability to provide you with a specific service, offer you personalized content, or respond to your feedback.
 
-Fifth, we contract with service partner Omniture, to provide us with data collection and reporting services to better understand overall use of our site. This service partner may store certain legacy data that we received from visitors to our site prior to our relationship with them, so that we may access this information via their reporting service. These service partners may collect information on our behalf about our users. visiting behaviors in several ways, including through the use of cookies or pixel tags. We use these service partners to understand what.s popular and useful for visitors. Our service partners are contractually prohibited from disclosing this information to any third party.
+Fifth, our service partners may collect information on our behalf about our users' visiting behaviors in several ways, including through the use of cookies or pixel tags. We use these service partners to understand what is popular and useful for visitors. Our service partners are contractually prohibited from disclosing this information to any third party.
 
 **2\. What organization is collecting the information?**
 
 LookSmart.com usually collects the requested information. However, LookSmart.com has chosen select partners to provide certain services. To use certain services on the site, it may be necessary to enter information that then goes to our partner and is not kept by LookSmart.com. The areas of our site in which partners are collecting information may be cobranded with our partners' logos. If you have questions regarding the privacy policy or data collection practices of one of our content partners, please contact that partner directly.
-
-To opt out of collection by Omniture, please visit: <http://www.omniture.com/en/privacy/policy#optout>
 
 **3\. What does LookSmart.com do with the data it collects?**
 
@@ -57,16 +57,13 @@ We also may disclose your personal information (including without limitation IP 
 
 We may disclose certain non-personally identifiable information about you to advertisers or other third parties to present you with targeted advertisements. We may share aggregate demographic information with our advertisers or information collection companies, but will not reveal any personally identifiable information in these instances.
 
-**5\. What choices are available regarding collection, use and distribution of the information (Opt Out Policy)?**
+**5\. What choices are available regarding collection, use and distribution of the information? (Opt-Out Policy)**
 
 As previously noted, you may always choose to not provide us with any of the information we request; however, this may limit our ability to provide you with a specific service or limit our ability to offer personalized content.
 
 To learn more about the collection of information by third party advertising networks, including how to opt out of such collection, see the links below.
 
-To opt out of collection by Omniture, please visit: <http://www.omniture.com/en/privacy/policy#optout>
-
-We use the DataXu platform for our display and video advertising.  For more information regarding opt-out for data collection and ad targeting for display and video, please visit: 
-
+We use the DataXu platform for our display and video advertising.  For more information regarding opt-out for data collection and ad targeting for display and video, please visit:  
 <http://www.networkadvertising.org/managing/opt_out.asp>
 
 **6\. How can I update or correct my information?**
@@ -95,4 +92,4 @@ This policy may be revised over time as new features are added to the site. We w
 
 **12\. Contact Information**
 
-If you have any questions about this privacy policy or about LookSmart.com's information collection practices, please submit them via the form found here: <https://adcenter.looksmart.com/help/contact>.
+If you have any questions about this privacy policy or about LookSmart.com's information collection practices, please submit them by clicking on the "Questions" tab at the left edge of the window.
