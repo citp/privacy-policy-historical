@@ -1,35 +1,46 @@
-> *The following text is extracted and transformed from the mitre10.co.nz privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228232230id_/http%3A//mitre10.co.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitre10.co.nz privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505081058id_/http%3A//www.mitre10.co.nz/privacy) for the most accurate reproduction.*
 
 # Privacy - Mitre 10
 
-## We're Good At Keeping Secrets ...
+## Mitre 10 Privacy Statement Summary
 
-We’ve been online since 2001 and we haven’t given away one secret yet.
+#### Scope
 
-We are committed to keeping all of your personal information confidential. We will not rent, sell or give away to any third party your name, address, email address, credit card information or any other personal information unless you ask us to.
+Mitre 10 (New Zealand) Limited values and respects your privacy. In fact we’re a leader in this field being one of the very first retail organisations in New Zealand to hold Data Warranty Register (DWR) Certification issued by the NZ Marketing Association.
 
-Your credit card information is so safe we can’t even see it! It’s processed very securely through to your bank using 128 bit SSL encryption. 
+This Privacy Statement is in relation to information collected by Mitre 10 (New Zealand) Limited.
 
-We are bound by New Zealand laws. So mitre10.co.nz may be required by legal process to identify any individual who might attempt to use this site for fraudulent or criminal activities.
+Your local Mitre 10 store is operated by the local Mitre 10 Member who may also collect information. In such situations this information will be subject to that store’s own Privacy Statement.
 
-## Personal Information - Registered Users
+### What information might Mitre 10 collect?
 
-Any personal information, for example likes and dislikes, that you share with mitre10.co.nz is used to provide you with content or offers tailored around your interests; to enable you to make purchases and have them delivered, and also to help us make improvements on our site.
+  * Information provided during website registration
+  * Purchase and returns history
+  * Information provided in setting up a Mitre 10 account
+  * Information provided on Mitre 10’s Facebook page or community chats
+  * Website browsing information (browser cookies)
+  * Location data from phone GPS
+  * Information entered for competitions
 
-If you have registered on our website, you can update your personal information at any time by logging into your account [here](https://web.archive.org/account/login/).
 
-## Personal Information - Filling In Forms
 
-Any personal information you give us on a form for an event booking, quote or store enquiry will be sent to the store you have selected. Your email address or cellphone number will only be used to contact you about your specific enquiry - unless you have also opted in to one of our newsletter groups. Your personal details will be deleted once your enquiry has been completed and you no longer require a customer service follow up.
+### How we may use information
 
-## Statistics
+  * How your personal information will be used by us will depend on the circumstances in which that information is collected.
+  * We may combine information we get from you with information about you we have received from third parties to help us to customise our offer to you.
+  * We will not rent, sell or give away to any third party your personal information unless you specifically consent to us being able to make this information available.
+  * We may share information with our service providers, such as our delivery service providers who ship and deliver your online orders.
+  * We may share information with Mitre 10 Member stores and gather information from Mitre 10 Member stores.
+  * We may also use the information in other ways but will provide notice of this at the time it is collected.
 
-We may share non-personal, non-individual statistical or demographic information in aggregate form with our marketing partners.
 
-Mitre 10 uses Google Analytics to better understand the behaviour of visitors to our website. For example, it helps us to identify how many users visit a particular page, and how many take a further step, such as purchasing a product. We also collect anonymous demographic data such as gender and age to help us understand our online visitors , improve our site, and deliver more relevant information as a result. For more information visit the [Google Analytics Terms Of Service](http://www.google.co.nz/analytics/terms/us.html).  
 
-## We'll Contact You... But Only When You Want Us To
+### How to contact us
 
-When you purchase from mitre10.co.nz we will contact you via email to confirm delivery. We may also contact you via email or phone if we experience any problems with processing your order, or if you win a prize in one of our competitions.
+If you have any questions or comments about this Privacy Statement, or if you would like us to update information we have about you or your preferences, please [contact us](mailto:web.contact@mitre10.co.nz). When you contact us about personal information we hold about you, please let us know where you provided us with the information.
 
-Aside from that, we’ll contact you with just the newsletters and updates you’ve subscribed to. You can change your subscriptions by logging in to your [account here](https://web.archive.org/account/login/).
+Your information will be held by us at 46 View Road, Wairau Valley, Auckland 0627.
+
+For more information on our privacy practices, see our full [Privacy Statement](http://www.mitre10.co.nz/Image/pdfs/2013%2012%20M10%20Privacy%20Statement%20v9%20Full.pdf).
+
+Last updated: This privacy statement was last updated on 13th December 2013.
