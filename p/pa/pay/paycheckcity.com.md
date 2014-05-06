@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paycheckcity.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127161604id_/http%3A//www.paycheckcity.com/pages/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paycheckcity.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506191903id_/http%3A//www.paycheckcity.com/pages/privacy-policy.php) for the most accurate reproduction.*
 
 # PayCheckCity Privacy Policy
 
@@ -37,6 +37,6 @@ If you are using a PAYCHECKCITY® web site for which you registered and chose an
   
 Last Updated: May 17, 2011
 
-[Contact PaycheckCity®](https://web.archive.org/pages/contact-us.php) for more information about our [payroll withholding calculators](https://web.archive.org/pages/products-solutions/private-label-calculators.php), and other payroll tools including the [Symmetry Tax Engine®](https://web.archive.org/pages/products-solutions/ste.php) and [private-label paycheck calculators](https://web.archive.org/pages/products-solutions/private-label-calculators.php).
+[Contact PaycheckCity®](https://web.archive.org/pages/contact-us.php) for more information about our [payroll withholding calculators](https://web.archive.org/pages/private-label-calculators.php), and other payroll tools including the [Symmetry Tax Engine®](https://web.archive.org/pages/ste.php) and [private-label paycheck calculators](https://web.archive.org/pages/private-label-calculators.php).
 
-Last Updated on Tuesday, 23 October 2012 13:26 
+Last Updated on Tuesday, 23 October 2012 13:26
