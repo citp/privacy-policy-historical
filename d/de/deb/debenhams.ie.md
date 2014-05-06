@@ -1,70 +1,111 @@
-> *The following text is extracted and transformed from the debenhams.ie privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525105104id_/http%3A//www.names.co.uk/privacy.html%3FPR%3DF00) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debenhams.ie privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506182523id_/http%3A//www.debenhams.ie/wcsstore/DebenhamsIESite/faq/our_terms_and_conditions/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Statement - Web domain, Register domain names, Hosting, Dedicated server solutions – Namesco
+# Debenhams - Help
 
-## PRIVACY STATEMENT
+By continuing to browse our site, you consent to our placing cookies on your computer (unless you have chosen to disable them via your browser).
 
-This privacy statement discloses the privacy practices for Namesco Limited.  
-“Namesco” means Namesco Limited (company registration number 3913408) whose registered office is at Acton House, Perdiswell Park, Worcester, WR3 7GD and any company within its group of companies (as the same may vary from time to time). “Group” has the meaning given in section 126(1) of the Companies Act 2006. This web site agrees to notify you of:
+This Privacy Policy explains how Debenhams ('We/Us/Our') collect, store and use your personal data when you browse and use Debenhams.com (the 'Website'), and when you provide us with your personal data. Please read this Privacy Policy carefully.
 
-  * What personally identifiable information of yours or third party personally identification is collected from you through the website
-  * The organization collecting the information
-  * How the information is used
-  * With whom the information may be shared
-  * What choices are available to you regarding collection, use and distribution of the information
-  * The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Namesco Limited control
-  * How you can correct any inaccuracies in the information.
+By accessing, browsing or otherwise using the Website you confirm that you have read, understood and agree to this Privacy Policy. If you do not agree with any part of this Privacy Policy, you must not use the Website. Debenhams Retail plc is a company registered in England and Wales (registration number 83395) with registered office at 10 Brock Street, Regent's Place, London, NW1 3FG and is a registered data controller with the Information Commissioner's Office.
+
+We respect your right to privacy and are committed to maintaining it. We only collect, store and process your personal data in accordance with the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2011.
+
+Information that you have provided to us including but not limited to when you:
+
+  * purchase products through the Website, over the phone and/or through store kiosks
+  * submit rate and reviews
+  * use Debenhams applications on Facebook
+  * use the Debenhams mobile shopping application
+  * enter competitions, prize draws or promotions which we are promoting
+  * join the Beauty Club reward scheme
+  * sign up to marketing/newsletters including by email and SMS
+  * use our customer services web-chat facility
+  * Information you provide our partners and when you report a problem with the website.
+  * Information you provide to us when applying through the Website for registration, subscribing to any of our services or requesting further services.
+  * If you contact us for any reason, we may keep a record of that correspondence.
+  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+  * Information we collect using cookies stored on your device. Please see the section on cookies for more information and how to manage them.
+  * Your IP address
+  * Details of your visits to the website including, but not limited to, traffic data, location data and other communication data and the resources, advertisements and linked sites that you access.
+  * Information provided to us by other companies who have obtained your permission to share information about you
 
 
 
-If you feel that this company is not abiding by its posted privacy policy, you should [contact us](https://web.archive.org/contact.html)
+Information we request and hold includes but is not limited to the following:
 
-### Information Collection and Use
+  * Your name, age, date of birth, sex
+  * Billing and delivery postal addresses
+  * Phone and fax numbers
+  * Email addresses
+  * Usernames and passwords
+  * Payment card details
+  * Browsing and shopping activities
+  * Your customer queries
 
-Namesco Limited is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Namesco Limited collects information from our users at several different points on our website.
 
-### Order
 
-We request information from the user on our registration, order and payment forms. Here a user must provide contact information (like name and address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fulfill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
+We, or third party data processors who act on our behalf, may use the personal data you provide us in the following manner:
 
-### Cookies
+To provide you with the requested goods and/or services including but not limited to processing and fulfilling your order and administering promotions such as competitions and prize draws.
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site and is encrypted so cannot be read by any other website. Once the user closes their browser, the cookie simply terminates. It will also terminate once a period of time has elapsed since first using the site.
+  * To monitor and improve the services and the Website
+  * To manage your marketing preferences.
+  * To contact you if there is a query regarding your order.
+  * In the event that you purchase goods on the Debenhams' website, you may be sent an email requesting whether you would like to review your product.
+  * To verify your identity.
+  * In certain circumstances in order to process your order and to verify your identity, we may call your provided telephone number you have provided to perform security checks and to request that you verify certain information.
+  * Market research purposes
+  * To enable us to comply with any legal or regulatory requirements;
+  * In the detection and prevention of fraud or other crimes.
+  * To assist with any of your customer queries
+  * For research, analysis, risk management, legal, accounting, administrative, testing, monitoring and for our business operations.
 
-### Log Files
 
-We use IP addresses to analyse trends, administer the site, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
-### Sharing
+Unless you have not consented to, we may use your personal data in the following manner:
 
-We may share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
+From time to time, to inform you by post, email, SMS or other available means, of products, services, promotions and special offers from our retail channel and Debenhams plc Group of Companies.
 
-We use a credit card processing company to bill users for services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
+To provide you with tailored/behavioural advertising through the use of cookies on the Website. This means that we have your agreement to store information about the products you have viewed or purchased so that we are able to make the adverts you see more relevant to you. In the event that you do not want to receive tailored advertising, or do not wish for any of your information to be processed through the use of cookies, please refer to the section on Cookies.
 
-### Links
+We may disclose personal data we collect to third parties in the following manner:
 
-This web site may contain links to other sites. Please be aware that we [Namesco Limited] are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
+  * All credit/debit card holders are subject to validation checks and authorisation by the card issuer and we may share your personal information with such third parties as are necessary to enable us to do such checks. The third parties, which may include credit reference agencies, may keep a record of the information provided.
+  * To administer your account and to disclose your details to our third party service providers for the purpose of processing and fulfilment of your order.
+  * We may pass your personal data to other companies to support our business operations, and or audit purposes.
+  * We may disclose your personal data where it is necessary to comply with any applicable law or an order of a governmental or law enforcement body.
+  * We may pass on non-personal aggregated information about sales and website usage to reputable organisations for research or analysis purposes only.
+  * We may disclose your personal information to any member of the Debenhams plc Group of Companies, which means our subsidiaries, our ultimate holding company and its subsidiaries.
+  * We do pass your details to Debenhams' approved Customer Service centres, who adhere to the UK Data Protection Acts 1998, and who will use this data solely for the purpose of answering your customer service queries.
+  * We may pass your information to third parties in order to fulfil and/or despatch your orders. The third party provider may send marketing material within the parcel or by post after fulfilment of your order.
+  * We may disclose your information to any successors of our business for them to use for the purposes set out in this Privacy Policy, and/or as part of any business or asset sale carried out. 
 
-### Security
 
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line.
 
-When our order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'.
+**Transferring data internationally**
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our accounting staff or a customer care representative) are granted access to personally identifiable information.
+We may transfer personal data we have collected from you to a third party data processors located in countries outside of the European Economic Area ('EEA'). We will comply with the Data Protection Act 1998 in respect of any such transfers. Please be aware that such countries which are outside of EEA may not have the same level of data protection as the United Kingdom, however our collection, storage and use of your personal data will continue to be governed by this Privacy Policy.
 
-### Correction/Updating Personal Information
+By using and/or shopping on the Website you consent to the transfer of your personal data to third party data processors located in countries outside of the European Economic Area ('EEA').
 
-If a user's personally identifiable information changes (such as your post code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us.
+**Payment Card details**
 
-### Choice/Opt-out
+We process your payment card details in order to complete your purchase that you made through the Website, mobile applications and the kiosk, and may in certain instances disclose your personal data to third party credit reference agencies to perform credit checks against you.
 
-If you use this site to purchase services you may occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications on our order form.
+**Microsites**
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email, or by contacting us directly.
+We have partnered with various trusted third party companies to provide goods and services to you. Such goods and services can be accessed through links on the Website to the third party company's microsite. A microsite is a website which is owned and operated by a third party company but is Debenhams branded. Please note that these microsites may be governed by their own terms and conditions and privacy policies.
 
-Users of our site are notified when their information is being collected or used by any third parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an third party, or not.
+**E-mail Marketing**
 
-### Notification of Changes 
+You may opt out from any email marketing by using the unsubscribe links at the bottom of the marketing emails.
 
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+You may opt out from any SMS marketing by using the suppression codes located on the marketing text messages.
+
+**Phishing**
+
+Phishing is a method used by fraudsters to deceive someone into giving sensitive information. Most of the time phishing will take the form of emails, which purport to be from well-known companies and ask recipients to send their private information. This information is then used for identity theft and fraud.
+
+Debenhams will only ask you to send personal details by email if it is responding to a query you have sent it online and these details are needed to answer your query properly. In this case, there will be a unique reference number in Debenhams' email to you, which refers to your original query. Debenhams will never ask you to send any personal details by email unless you have contacted Debenhams first. If you have not contacted Debenhams, please ignore any email claiming to be from Debenhams which asks for personal details, and let us know about it.
+
+If Debenhams ever requires your personal information other than when you have already contacted Debenhams with a query, for security reasons we will ask you to give us a call. 
