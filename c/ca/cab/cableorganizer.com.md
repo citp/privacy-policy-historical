@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cableorganizer.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103021336id_/http%3A//www.cableorganizer.com/answers/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cableorganizer.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506172153id_/http%3A//www.cableorganizer.com/answers/privacy-policy.html) for the most accurate reproduction.*
 
 # Cable Organizer .com - Privacy Policy
 
@@ -39,7 +39,7 @@ We love to know what our customers think of our products and service, so at some
 
 Thank you for your interest in our Privacy Policy! If you have additional questions that we haven't answered here, or feel that this website isn't following its stated information policy, please feel free to contact us via toll-free phone call, e-mail, or post.
 
-CableOrganizer.com, Inc.  
+CableOrganizer.com, LLC.  
 6250 NW 27th Way  
 Fort Lauderdale, FL   33309
 
@@ -47,4 +47,8 @@ Toll Free Phone: (866) 222-0030
 
 [suggest@cableorganizer.com](mailto:suggest@cableorganizer.com)
 
-If you cannot find the proper response to your question, please feel free to email us at [sales@cableorganizer.com](mailto:sales@cableorganizer.com) or call us toll free 24/7 at 1-866-222-0030 and we will answer your question as thoroughly and promptly as possible.
+If you cannot find the proper response to your question, please feel free to email us at [sales@cableorganizer.com](mailto:sales@cableorganizer.com) or call us toll free 24/7 at 1-866-222-0030 and we will answer your question as thoroughly and promptly as possible.  
+  
+What can make this page better?
+
+We do everything we can think of to provide you with the product specs, images and ordering info you need, but if we’re missing something or still have room to improve, please let us know. Your comments, suggestions and questions are the best tools we have for serving you better!
