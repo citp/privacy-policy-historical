@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the analyticcalltracking.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212034018id_/http%3A//www.analyticcalltracking.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analyticcalltracking.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506122441id_/http%3A//www.analyticcalltracking.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Analytic Call Tracking
+# Privacy Policy | Analytic Call Tracking
 
 This Privacy Policy governs your use of this Website and any content, products or services made available from or through this website including any sub domains thereof (“Website”). The Website is made available by Web1 Syndicaiton (Hereinafter referred to as “Company”).
 
