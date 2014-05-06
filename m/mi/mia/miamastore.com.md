@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miamastore.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221185756id_/http%3A//www.miamastore.com/cms.php%3Fid_cms%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miamastore.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506163303id_/http%3A//www.miamastore.com/cms.php%3Fid_cms%3D2) for the most accurate reproduction.*
 
 # Privacy policy - MiamaStore.com
 
@@ -42,24 +42,24 @@ to other companies in the course of our business.
 **  
 Non-personally identifiable information:** We may share information that does not identify you or any user, such as the number of daily visitors to a particular page, or the size of an order placed on a certain date, with third parties such as advertising partners.
 
-**How does MiamaStore.com secure information collected about me?** ****
+ **How does MiamaStore.com secure information collected about me?** ****
 
-This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, such as:   
+This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, such as:  
      * Safeguarding all financial transactions done through this Site with Secure Sockets Layer ("SSL") encryption   
      * Granting only employees who are providing a specific service access to your personal information   
      * Working only with third-party service providers who we believe adequately secure all computer hardware.
 
-**Are children allowed to use MiamaStore.com?**
+ **Are children allowed to use MiamaStore.com?**
 
 We respect children's privacy. We do not knowingly or intentionally collect personal information from children under age 18. Elsewhere on this Site, you have represented and warranted that you are either 18 years of age or are using the Site with the supervision of a parent or guardian.  
 If you are under the age of 18, please do not submit any personal information to us, and rely on a parent or guardian to assist you when using the Site.
 
-**How does MiamaStore.com use and disclose information collected from me offline?** ****
+ **How does MiamaStore.com use and disclose information collected from me offline?** ****
 
 As MiamaStore.com collects most information through our Site, this Privacy Policy applies only to online collection of personal information.  
 We also protect all personal information that is collected from you offline, such as through phone calls. If we contact you by telephone regarding an order or payment, we will ask only for the personal information needed to place your order or resolve your issue. When we need to store information related to an order, we enter it into our database through SSL encryption.
 
-**MIAMASTORE DO NOT COLLECT ANY INFORMATION ABOUT YOUR CREDIT CARD!**
+ **MIAMASTORE DO NOT COLLECT ANY INFORMATION ABOUT YOUR CREDIT CARD!**
 
 This Policy does not attempt to cover all possible offline methods of collecting or using personal information, however, we will treat any offline collection, use, or disclosure of personal information in a manner consistent with our online practices.
 
