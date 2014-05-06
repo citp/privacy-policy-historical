@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acquisio.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103145815id_/http%3A//www.acquisio.com/acquisio-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acquisio.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506062452id_/http%3A//www.acquisio.com/acquisio-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
