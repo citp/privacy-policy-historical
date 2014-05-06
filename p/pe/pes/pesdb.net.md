@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pesdb.net privacy policy that was archived on 2013-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130719224815id_/http%3A//pesdb.net/pes2013/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pesdb.net privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506055015id_/http%3A//pesdb.net/pes2014/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - pesdb.net
+# PES Database 2014
 
 **Privacy Policy for pesdb.net**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by [clicking here](https://web.archive.org/web/20130719224815id_/http%3A//pesdb.net/pes2013/contact.php).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by [clicking here](https://web.archive.org/web/20140506055015id_/http%3A//pesdb.net/pes2014/contact.php).
 
 At pesdb.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by pesdb.net and how it is used.
 
@@ -15,12 +15,12 @@ Like many other Web sites, pesdb.net makes use of log files. The information ins
 pesdb.net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
 **DoubleClick DART Cookie**  
-.:: Google, as a third party vendor, uses cookies to serve ads on pesdb.net.  
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to pesdb.net and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
+\- Google, as a third party vendor, uses cookies to serve ads on pesdb.net.  
+\- Google's use of the DART cookie enables it to serve ads to your users based on their visit to pesdb.net and other sites on the Internet.  
+\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: <http://www.google.com/privacy_ads.html>
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......  
-Google Adsense 
+Some of our advertising partners may use cookies and web beacons on our site.  
+Our advertising partners include Google Adsense.
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on pesdb.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
@@ -29,3 +29,5 @@ pesdb.net has no access to or control over these cookies that are used by third-
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. pesdb.net's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+
+[Return to Home Page](https://web.archive.org/web/20140506055015id_/http%3A//pesdb.net/pes2014/index.php)
