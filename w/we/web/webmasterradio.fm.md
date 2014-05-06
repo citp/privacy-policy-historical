@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmasterradio.fm privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102162715id_/http%3A//www2.webmasterradio.fm/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmasterradio.fm privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506164943id_/http%3A//www2.webmasterradio.fm/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - WebmasterRadio.FM | WebmasterRadio.FM
 
@@ -85,7 +85,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 http://www.webmasterradio.fm
 
-3000 NE 30th Place, Suite 110  
-Fort Lauderdale, Florida  
+3701 FAU Blvd, Suite 210  
+Boca Raton, Florida 33431  
 USA  
-info@webmasterradio.fm
+info@webmasterradio.fm 
