@@ -1,224 +1,113 @@
-> *The following text is extracted and transformed from the electronicsweekly.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129114113id_/http%3A//www.electronicsweekly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronicsweekly.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506202932id_/http%3A//www.electronicsweekly.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Home
+# Privacy PolicyHome
 
-**Metropolis Privacy Statement**
+**METROPOLIS INTERNATIONAL GROUP LIMITED**
 
-**Data Collection**
+**CUSTOMER PRIVACY POLICY**
 
-Metropolis undertakes to collect Your Data by means that are:
+This Customer Privacy Policy governs the collection and use of personal information relating to potential and existing customers of Metropolis International Group Limited (“Metropolis”) by the company and any company within Metropolis group of companies. For more information about Metropolis please see: [www.metropolis.co.uk](http://www.metropolis.co.uk/ "www.metropolis.co.uk").
 
-  * fair;
-  * legal; and
-  * transparent.
+Metropolis is committed to abiding by this Customer Privacy Policy, as well as the requirements of applicable laws, in the operation of its business. Please read this policy carefully as it explains the kinds of personal information we collect about you and how it is handled.
 
+For the purpose of the Data Protection Act 1998, the data controller is Metropolis International Group Limited of 140 Wales Farm Road, London W5 6UG.
 
+By your continued use of our services (including our web sites), you consent to the collection and use of your personal information for the purposes set out in this Customer Privacy Policy.
 
-**If you visit Metropolis’s web-site** , your web-browser automatically discloses, and Metropolis’s web-server automatically logs, the following information: the date and time, the IP address from which you issued the request, the type of browser and operating system you are using, the URL of any page that referred you to the page, the URL you requested, and whether your request was successful. This data may or may not be sufficient to identify you.
+**COLLECTION AND USE OF PERSONAL INFORMATION**
 
-**Any additional data that you provide, e.g. in a web-form** , may also be logged. This data may or may not be sufficient to identify you.
+Usually, we collect personal information about you which we require to respond to your enquiries for payment processing and for the provision of goods and services to you. We also process your personal information where we are required to do so by law, and for the exercise or defence of legal claims. From time to time, we may contact you for research purposes, or to tell you about our special offers and other services in accordance with your contact preferences. Where appropriate, we will obtain your consent to do so. Personal information collected from you may include your name, payment processing information, postal address, email address, landline or mobile telephone number, delivery details as well as other non-sensitive personal information. If you use our web sites, we may also collect information about you or your computer when you browse to allow you to use the services available. Any information you provide will only be used in accordance with this privacy policy. If you do not wish to receive direct marketing materials you may opt out by contacting us (see below).
 
-**Any additional data that your web-browser automatically provides**  may also be logged. This will be the case, for example, if your browser has previously been requested to store data on your computer in  **‘cookies’**  and submits them each time you request a web-page within a particular domain (such as Metropolis.com). This data may or may not be sufficient to identify you.
+**WEBSITE USAGE & COOKIES**
 
-**If you disclose personal data to Metropolis in conjunction with an identifier such as your name or your credit-card details** , Metropolis will collect Your Data. Moreover, any data that becomes available to Metropolis through any of the means described in the preceding paragraphs may be able to be associated with that identifier, and hence become Your Data.
+If you are using our web sites, we will use your personal information to help you to log on to your account and into restricted areas of our web sites and to permit future use of the web sites. We may use your IP address to help diagnose problems with our server, or to administer our web sites. We may conduct analyses of user traffic to measure the use of our sites and to improve the content of our web sites and our services. These analyses will be performed through the use of IP addresses and cookies. We may also use cookies to enable the signing in process after you have registered with us and to provide you with more tailored information when you return to our web sites. A cookie is a piece of information that is stored on your computer’s hard drive by your web browser. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. If you reject the use of cookies please note that the efficient operation of the web site that you are using may be affected. Most of the advertisements that you see on the web sites are generated by third parties who may use cookies to track viewing of their advertisements and for other purposes specified in their own privacy policies. We have no access to or control over these cookies (although we may use statistical information provided to us – not containing personal information – arising from these third party cookies to improve the targeting of advertisements to you and other users of the web sites). You can obtain further information about third party privacy policies or disable their cookies by visiting their web sites.
 
-Subject to the qualifications immediately below, Metropolis undertakes to collect Your Data  **from you** and not from other parties. This undertaking is qualified as follows:
+**COOKIES POLICY**
 
-  * where Metropolis reasonably considers that the protection of its financial interests requires that it gather YourData from other sources, or from additional sources. This applies in particular where Metropolis has a lending exposure to you, and seeks information about your creditworthiness;
-  * where Metropolis reasonably considers that its capability to deliver quality services to you will be materially enhanced by gathering YourData from other sources. This applies in particular to consumer profile data.
+Your use of our web site indicates your consent to the cookies described in this policy.
 
+**WHAT ARE COOKIES?**
 
+A web cookie, a commonly used data collection technology, is simply a piece of text which can be placed on the browser of your personal computer or mobile device and subsequently read as you visit a web site.  A cookie may be a session cookie, that is, a cookie that remains on your browser while you are logged on to a particular web site and then disappears when you close your browser, or it may be a persistent cookie, a cookie that remains on your browser over a period of time.  Information from a cookie may be collected and used in aggregate form.  Or data may be collected into an individual profile or record.  That individual record may either be unique but anonymous, or the profile can be linked with information that identifies you as an individual.  
+You can learn more about cookies, generally, at [www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
-**Where Metropolis collects Your Data from sources other than you** , it undertakes:
+**HOW DO WE USE COOKIES?**
 
-  * to do so only by legal means;
-  * to do so only with your Consent; and
-  * to declare to you what sources it uses, and under what circumstances.
+We may use cookies for a number of purposes:
 
+  1. We may use a limited number of cookies essential to particular services you have requested or for security purposes. A few of our sites use a cookie for a shopping cart function when you purchase services or offerings. In particular, if you have registered for a site or use a customer portal we may use a cookie to authenticate the pc or mobile device that you are using.
+  2. We allow third parties to set analytics, or performance, cookies to collect and report aggregate information. These cookies provide reporting to us on an aggregate basis and so, do not identify you at all. We use the aggregate reports to understand how our web sites are used and improve their usefulness to our audiences.
+  3. A number of cookies also support how our web sites function, identifying your pc or end device on a unique but anonymous basis. These cookies may, for example, remember your language preferences or recognize an individual’s activity within a single session.
+  4. If you register for a site, we use a cookie to associate your presence with a specific user name and password or account. We may use a persistent cookie to recognize you automatically each time you return, but only if you ask us to do so. We may also use cookies to prepopulate your login or forms you fill out on the site with information you have already provided. Finally, we may use certain demographic information to enable third party ad servers (see below) to show you ads based on information about you in your business capacity, for example, your title within a company or the size of that company.
+  5. Some of sites may also allow third party ad servers to serve their own cookies to display advertising on our web sites. We do not determine, control or have access to their cookies.  In addition, some of the ads they serve may generate their own cookies.  We will list all cookies shortly so that you can review their privacy policies for more detail about their practices.
 
 
-Metropolis undertakes to declare the  **purpose of collection**  in a manner which is clear and meaningful, and to avoid vague, highly inclusive statements such as ‘to support our operations’.
 
-**Data Security**
+**HOW YOU CAN CONTROL COOKIES**
 
-Metropolis undertakes to  **store**  Your Data in a manner that ensures security against unauthorised access, alteration or deletion, at a level commensurate with its sensitivity.
+The cookies we use are an accepted part of ecommerce and important to your use of our websites. Performance cookies allow us to understand our audiences as a whole and improve how our sites meet your needs and expectations. Many of the functional cookies are basic to how our sites and services work. The cookies we use for registration allow us to conduct our business online. Our sites and services, or parts of them, may not work properly without these cookies.
 
-Metropolis undertakes to store Your Data only in  **jurisdictions**  where data protections are at least equivalent to those required under the OECD Guidelines.
+Your use of our websites indicates your consent to the cookies we have described in this Policy.  
+But if you should wish to revoke that consent, or any part of it, at any time you may control cookies and third party ad targeting in the following ways.
 
-Metropolis undertakes to  **transmit**  Your Data in a manner that ensures security against unauthorised access, alteration or deletion, at a level commensurate with its sensitivity.
+**BROWSER CONTROLS**
 
-Metropolis undertakes to implement appropriate  **measures to ensure security of Your Data against inappropriate behaviour by Metropolis’s staff-members and contractors**. These include:
+Most modern browsers offer you ways to control or block cookies.  These browser controls will usually be found in the “options’ or “preferences” menu.  For more help, you may take a look at the “Help” settings or review these website for more details -<http://www.aboutcookies.org/Default.aspx?page=1>
 
-  * training for staff in relation to privacy;
-  * access control, to limit access to Your Data to those staff and contractors who have legitimate reasons to access it;
-  * particularly in the case of sensitive data, audit trails of accesses, including the identities of staff and contractors accessing the data;
-  * reminders to staff and contractors from time to time about the importance of data privacy, and the consequences of inappropriate behaviour;
-  * declaration of appropriately strong sanctions that are to be applied in the event of inappropriate behaviour
-  * clear communication of policies and sanctions; and
-  * processes to audit, to investigate and to impose sanctions.
+**THIRD PARTY ADVERTISING AND TARGETING**
 
+Some of our sites use third party advertising and ad targeting. For ways to turn off third party ad targeting you may want to visit The Internet Advertising Bureau UK - <http://www.iabuk.net/>.
 
+You can find more information or turn off targeting by member companies at YourOnlineChoices UK, <http://www.youronlinechoices.com/uk>.
 
-**Data Use**
+**THIS PRIVACY POLICY**
 
-Use refers to the application of Your Data by any part of Metropolis, or any staff-member or contractor of Metropolis in the course of their work.
+If our use of cookies changes, we will post the changes to this policy.  Please check frequently as online data collection practices and our use of them continue to evolve.  To contact us about this policy, you may email [webmaster@electronicsweekly.com](mailto:webmaster@electronicsweekly.com "webmaster@electronicsweekly.com"). When emailing please indicate which of our sites your question relates to.
 
-Metropolis undertakes to use Your Data only for:
+**THIRD PARTY**
 
-  * **the purposes for which it was collected** ;
-  * such other purposes as are  **subsequently agreed**  between Metropolis and You;
-  * such additional purposes as may be  **required by law**. In these circumstances, Metropolis will take any reasonable steps available to it to communicate to You that the use has occurred, unless it is precluded from doing so by law; and
-  * such additional purposes as are  **authorised by law**  (in particular to protect Metropolis’s interests, e.g. if it believes on reasonable grounds that You have failed to fulfil your undertakings to Metropolis or have committed a breach of the criminal law).
+We will only disclose personal information about you internally, which includes any member of the Metropolis Group and to third parties for processing purposes associated with payment processing, the supply of goods and services, for web site administration, or elsewhere when you have consented to such disclosures, or where such disclosures are required or permitted by law. These third parties we contractually bound only to use personal information to perform the services that we hire them to provide. Where you have specifically agreed that we may do so, we may lease or rent your personal information to selected third parties for their postal marketing use.
 
+**TRANSFER OF DATA**
 
+Third party data processors, advertisers, exhibitors and other such business relationships outside of the EEA, are required to take adequate technical and organisational safeguards to protect personal information.
 
-Metropolis undertakes to use YourData only if it has  **demonstrable relevance**  to the particular use to which it is being put.
+**LEAD GENERATION PRODUCTS** In the case of your use of one of our LEAD GENERATION products, e.g.  Directory Sites, Webinars, videos requiring registration etc, we may pass the information you provide to third parties. Generally this will be via a process whereby you, as the user, interact with a third party eg:  click on an asset branded and provided by a third party. In some instances, for example, a products listing site, you may reach out directly to a supplier or exhibitor who may contact you in return. In other instances our lead generation products are sponsored and, in such cases the data you provided to us will be given to the sponsor. Generally, we will let you know at the time of collection if a product is sponsored.
 
-Metropolis undertakes to use YourData in such a manner as to take into account the possibility that it is not of  **sufficient quality for the purpose** , e.g. because it is inaccurate, out-of-date, incomplete, or out-of-context.
+If you wish to change your contact preferences with an individual exhibitor/sponsor, please follow their own unsubscribe request details.  Unsubscribing to the Metropolis will stop Metropolis from contacting you in the future, but not the individual 3rd parties whom you have interacted with.
 
-**Data Disclosure**
+We take your contact preferences very seriously. If you would prefer for your details not to be passed to any 3rd parties as laid out in this section, you are advised not to register for the virtual product.
 
-Disclosure refers to making YourData available to any party other than Metropolis and You. The term disclosure may include many different conditions of data transfer, including selling, renting, trading, sharing and giving.
+**EMAIL CAPTURE**
 
-Metropolis undertakes to disclose Your Data only under the following circumstances:
+Metropolis may from time to time send updates about this product and other relevant Metropolis products and services.  Your email will not be given to 3rd parties unless you have given your explicit consent for us to do so. By providing your email address you consent to being contacted by email for direct marketing purposes by Metropolis. Some of which will contain third party advertising.
 
-  * **in the course of business being conducted between You and Metropolis** , where disclosure is necessary to a contractor, such as a transport company. Where Your Data is disclosed in this way, Metropolis undertakes to exercise control over Metropolis’s contractors to ensure that their actions are compliant with these Terms;
-  * **in other circumstances that are directly implied by the purpose agreed between You and Metropolis**  at the time of data collection or subsequently. Where Your Data is disclosed in this way, Metropolis undertakes to exercise control over Metropolis’s contractors to ensure that their actions are compliant with these Terms;
-  * **with your consent** , or at your request;
-  * **where required by law** , such as a provision of a statute, or a court order such as a search warrant or sub poena. In these circumstances, Metropolis will take any reasonable steps available to it to communicate to You that the disclosure has occurred, unless it is precluded from doing so by law;
-  * **where permitted by law**  (e.g. the reporting of suspected breach of the criminal law to a law enforcement agency; and in an emergency, where Metropolis believes on reasonable grounds that the disclosure of YourData will materially assist in the protection of the life of health of some person), provided that Metropolis will apply due diligence to ensure that the exercise of the permission is justifiable.
+**MOBILE PHONE CAPTURE**
 
+Metropolis may from time to time contact you about this product and other relevant Metropolis products and services.  By providing your mobile number you consent to being contacted for direct marketing purposes via voice calls or SMS by Metropolis.
 
+**SECURITY OF PERSONAL INFORMATION**
 
-In all cases, Metropolis undertakes to disclose only such of Your Data as is necessary in the particular circumstances.
+We use administrative, technical, and physical measures to safeguard personal information against loss, theft and unauthorised  uses, access or modifications. Certain areas of our web sites may be password protected. If you are a user of our web sites and have a password, you can help to preserve your privacy by ensuring that you do not share your password with anyone else. Payments made via our web sites or other third party providers are processed in a secure environment.
 
-**Data Retention and Destruction**
+We take steps to regularly validate the personal information we hold to ensure that the information is accurate and, where necessary, up to date. Information that is no longer required for any valid business purpose, and that we are not required to keep pursuant to any applicable law, will be routinely destroyed by secure means.
 
-Subject to the qualifications immediately below, Metropolis undertakes:
+**MAKING AUTOMATED DECISIONS**
 
-  * to  **retain**  Your Data only as long as is consistent with its purpose; and
-  * to  **destroy**  Your Data when its purpose has expired, and to do so in such a manner that Your Data is not subsequently capable of being recovered.
+We do not ordinarily use personal information for the purposes of automated decision making. However, we may do so in order to fulfil compelling obligations imposed by law, in which case we will inform of any such processing and provide you with an opportunity to object.
 
+**ACCESS TO PERSONAL INFORMATION**
 
+We want to ensure that any personal information you provide through our websites remains accurate. At your request, we will inform you of the information that we hold about you that was collected from our website. You may update personal information that we hold about you by contacting us as detailed below.
 
-This undertaking is qualified as follows:
+**CONTACTING US**
 
-  * Your Data may be retained in Metropolis’s  **logs, backups and audit trails**  within short-term retention cycles that are devised to protect the company’s operations. In such cases, Your Data will be destroyed in accordance with those cycles;
-  * Your Data may be retained beyond the expiry of its purpose if that is  **required by law** , such as a provision of a statute, or a court order such as a search warrant or sub poena, or a warning by a law enforcement agency that delivery of a court order is imminent. In these circumstances, Metropolis:
-    * will take any reasonable steps available to it to communicate to You that Your Data is being retained, unless it is precluded from doing so by law; and
-    * will only retain Your Data while that provision is current, and will then destroy Your Data;
-  * Your Data may be retained beyond the expiry of its purpose if it is  **authorised by law**  (in particular to protect Metropolis’s interests, e.g. if it believes on reasonable grounds that You have failed to fulfil your undertakings to Metropolis or have committed a breach of the criminal law). In these circumstances, Metropolis will only retain Your Data while that situation is current, and will then destroy Your Data.
+If you have any questions about this privacy policy, you can email [webmaster@electronicsweekly.com](mailto:webmaster@electronicsweekly.com "webmaster@electronicsweeekly.com")
 
+or write to the Data Manager, Metropolis International, 6th Floor, Davis House, Robert Street, Croydon CR0 1QQ.
 
+**CHANGES TO PRIVACY POLICY**
 
-**Access by You to Your Personal Data**
+We reserve the right to add to or amend this privacy policy at our sole discretion, without prior notice to you. Please review our privacy policy on a regular basis to make sure you have read the latest version and you understand what we do with your personal information. Your continued use of our services or our web sites following the posting of changes to these terms means that you consent to those changes.
 
-Metropolis undertakes to provide you with  **access**  to Your Data, subject to only such conditions and processes as are reasonable in the circumstances. In particular, Metropolis undertakes to enable access:
-
-  * conveniently;
-  * without unreasonable delay; and
-  * without cost.
-
-
-
-Metropolis undertakes to establish and operate  **identity authentication protections for access to Your Data**  that are appropriate to its sensitivity, but practical. This may involve some inconvenience; for example, relatively straightforward procedures may be involved in order to provide you with access through a channel that you have previously registered with Metropolis (such as a particular email-address), but may impose more onerous procedures if you wish to use some other channel.
-
-In the event that you dispute some aspect of Your Data, Metropolis undertakes to take reasonable steps in relation to the  **amendment, supplementation or deletion**  of Your Data.
-
-You undertake:
-
-  * not to seek access for frivolous purposes, or unreasonably frequently;
-  * to accept that deletion of some data may not be consistent with the provision of particular services by Metropolis to you.
-
-
-
-**Information about Data-Handling Practices**
-
-Metropolis undertakes to make information available to you about the manner in which Metropolis handles your data:
-
-  * in general terms, in a readily accessible manner; and
-  * in more specific terms, on request.
-
-
-
-Where Your Data is disclosed to a contractor, Metropolis undertakes to make information available to you on request about the manner in which Metropolis’s contractors handle your data.
-
-Metropolis undertakes to ensure that the information provided is meaningful, and addresses your concerns.
-
-You undertake:
-
-  * not to seek such information for frivolous purposes, or unreasonably frequently; and
-  * to accept that the disclosure of excessive detail may harm the security of Your Data and Metropolis’s business processes, and may harm Metropolis’s commercial interests.
-
-
-
-**Handling of Enquiries, General Concerns and Complaints**
-
-If you have enquiries, general concerns, or complaints about these Terms, or about Metropolis’s behaviour in relation to these Terms, you undertake:
-
-  * to  **communicate them in the first instance:**
-    * to Metropolis only;
-    * in sufficient detail;
-    * through a channel made available by Metropolis for that purpose;
-
-
-
-Metropolis undertakes:
-
-  * to provide one or more  **channels for communications**  to Metropolis, which are convenient to users;
-  * to promptly provide  **acknowledgement**  of the receipt of communications, including the provision of a copy of the communication, the date and time it was registered, and Metropolis’s reference-code for the communication;
-  * to promptly provide  **a response**  to the communication, in an appropriate and meaningful manner.
-
-
-
-You further undertake to not pursue Metropolis through any  **Regulator or the media** :
-
-  * until and unless Metropolis has had a reasonable opportunity to respond to the initial communication; and
-  * while Metropolis and you remain are conducting a meaningful dialogue about the matter.
-
-
-
-**Enforcement**
-
-Metropolis declares that its undertakings in these Terms are intended to create  **legal obligations,**  and that those obligations are intended to be  **enforceable**  under appropriate laws in appropriate jurisdictions. These include laws relating to data protection, privacy, fair trading, corporations and criminal laws.
-
-You undertake to seek enforcement only in a  **jurisdiction**  that is relevant to the transactions that have taken place between You and Metropolis, in particular the jurisdiction in which you live or in which you performed the relevant acts, and the jurisdiction in which Metropolis is domiciled or performed the relevant acts.
-
-If you wish to discover the  **relevant laws  **in any particular jurisdiction, Metropolis draws your attention to the following resources:
-
-  * [WorldLII Privacy Links](http://www.worldlii.org/catalog/273.html)
-  * [Privacy Law Sourcebook 2004, EPIC](http://www.epic.org/bookstore/pls2004/), Washington DC
-  * the Australian Privacy Foundation’s pages:
-    * [International Instruments Relating to Privacy Law](http://www.privacy.org.au/Resources/PLawsIntl.html)
-    * [Privacy Laws of Countries of the World](http://www.privacy.org.au/Resources/PLawsWorld.html)
-  * [Privacy International](https://www.privacyinternational.org/index.shtml?cmd%255b342%255d%255b%255d=c-1-Data+Protection+and+Privacy+Laws&als%255btheme%255d=Data%2520Protection%2520and%2520Privacy%2520Laws&conds%255b1%255d%255bcategory........%255d=Data%2520Protection%2520and%2520Privacy%2520Laws)
-
-
-
-**Changes to These Privacy Undertakings**
-
-Metropolis undertakes:
-
-  * not to materially change these Terms in a manner that reduces the protections for Your Data;
-  * to take all possible steps to prevent any company that acquires this company or any of its relevant assets from materially changing the Terms applicable to Your Data in a manner that reduces the protections for Your Data;
-  * where it is considering making changes to these Terms, or creating more specific Terms relating to specific services, to consult with appropriate representative and advocacy organisations;
-  * where it makes changes to these Terms, to ensure that the differences between successive versions are readily accessible;
-  * to maintain all prior versions of these Terms in such a manner that they are dated, and readily accessible.
-
-
-
-**Definitions**
-
-**Metropolis**  means Metropolis International Group Ltd.
-
-Head Office: 104 Wales Farm Road, London, W3 6UG, United Kingdom.
-
-**Your Data**  means data that is capable of being associated with you, whether or not it includes an explicit identifier such as your name or customer number. In particular, it encompasses all data that Metropolis is capable of correlating with you, using such means as server-logs and cookie-contents.
-
-Your Data does not refer to data that can no longer be associated with you. This includes aggregated data that does not and cannot identify the individuals whose data are included in the aggregation.
-
-**Consent**  means your concurrence with an action to be taken by Metropolis. Consent may be express or implicit, but in either case must be informed and freely-given.
-
-**‘Cookies’**
-
-_See below!_
+**This version of the privacy policy is effective as of 22 November 2013**
