@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namepros.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807111442id_/http%3A//www.namepros.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namepros.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506030159id_/https%3A//www.namepros.com/privacypolicy.php) for the most accurate reproduction.*
 
 # NamePros.com - Privacy Policy
 
@@ -32,4 +32,4 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 #### Contact Information
 
-Concerns or questions about this privacy policy can be directed to [here](https://web.archive.org/web/20130807111442id_/http%3A//www.namepros.com/sendmessage.php) for further clarification.
+Concerns or questions about this privacy policy can be directed to [here](https://web.archive.org/sendmessage.php) for further clarification.
