@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pc-direct.co.za privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128090703id_/http%3A//www.pc-direct.co.za/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pc-direct.co.za privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506101408id_/http%3A//www.pc-direct.co.za/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # PC Direct || Privacy Policy
 
