@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazy4jigsaws.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101154545id_/http%3A//www.crazy4jigsaws.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazy4jigsaws.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506202608id_/http%3A//www.crazy4jigsaws.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Crazy4Jigsaws.com
 
@@ -62,5 +62,5 @@ Any future changes in our privacy policy will be posted on this page. If you are
 If you have any questions regarding our privacy policy or need assistance opting-out from our email newsletters please contact us via email at support@crazy4jigsaws.com or by postal mail at: 
 
 Crazy4Jigsaws  
-PO Box 127  
-Loughman, FL 33858 
+PO Box 560439  
+Montverde, FL 34756 
