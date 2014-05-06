@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the gbyguess.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010104905id_/http%3A//gbyguess.com/CustomerCare/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gbyguess.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506200136id_/http%3A//gbyguess.com/en/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **At G by GUESS, we are committed to protecting your privacy.** We firmly believe that electronic security and privacy are necessary for the continued success of the Internet. In support of this, we only use the personal information that you provide to create a more personalized and entertaining experience for you, in accordance with the terms outlined below.
 
 **Kid's policy (individuals under 13 years of age).** G by GUESS is committed to protecting the safety of children online. In compliance with the Children's Privacy Protection Act of 1998, G by GUESS will never knowingly request or use personal information from children under 13 years of age without prior parental consent. If G by GUESS receives actual knowledge that a subscriber is under 13 years of age, G by GUESS will eliminate all personal information relating to this subscriber from our files.
-
-**Information We Gather**
 
 We use all information provided during registration and personalization to provide personalized content and services. Any account information you supply will be used only to process requested commerce transactions or to contact you regarding a specific transaction. G by GUESS may also use this information in order to generate aggregate reports that help us determine how to improve our users' experience. This data is anonymous and does not contain any personally identifiable information. G by GUESS will not disclose your user information to any outside organization without your consent. However, G by GUESS may disclose user information to the government and/or third parties when we have reason to believe that disclosure of such information is necessary to identify or bring legal action against someone who may be violating our Terms and Conditions or otherwise causing harm to G by GUESS or anyone who could be victimized by such activities, and where otherwise required by law or by legal process.
 
@@ -18,11 +16,7 @@ We may use your IP (Internet protocol) address to help diagnose problems with ou
 
 Our sites use cookies to keep track of your shopping cart. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site.
 
-**Security**
-
 Providing a safe and secure environment for your order information is our top priority. G by GUESS protects the security of your online transaction by taking advantage of Secure Sockets Layer (SSL) technology. The G by GUESS Online Store uses digital certificates provided by Equifax which are required for SSL, the industry standard for encryption. SSL technology encrypts data allowing only G by GUESS to decode your information and helps to create a secure environment for transactions on the internet. To further protect your security, we suggest you sign off your account and close your browser window after you have finished your visit, especially if you are using a computer shared by others.
-
-**Contact Us**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with G by GUESS, you can contact us:
 
