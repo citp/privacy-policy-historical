@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetruthaboutcars.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105181526id_/http%3A//www.thetruthaboutcars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetruthaboutcars.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506165503id_/http%3A//www.thetruthaboutcars.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Truth About Cars
 
@@ -99,9 +99,6 @@ Sales Analyst
   * Tycho de Feyter, China 
   * W. Christian 'Mental' Ward, Abu Dhabi 
   * Mark Stevenson, Canada 
-  * Clemens Gleich, Germany 
-  * Doug DeMuro, Atlanta 
-  * Phil Coconis, Los Angeles 
   * Faisal Ali Khan, India
 
 
