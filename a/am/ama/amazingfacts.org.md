@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazingfacts.org privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112003252id_/http%3A//www.amazingfacts.org/about-us/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazingfacts.org privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506202902id_/http%3A//www.amazingfacts.org/about-us/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | Amazing Facts
 
@@ -6,7 +6,7 @@ Amazing Facts is committed to protecting your privacy and developing technology 
 
 Collection of your Personal Information
 
-Amazing Facts collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Amazing Facts also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+Amazing Facts collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Amazing Facts also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites. Amazing Facts utilizes Analytics Demographics and Interest Reporting to collect some of this data. [Click here](https://www.google.com/settings/ads) to opt out of this anonymous data collection.
 
 There is also information about your computer hardware and software that is automatically collected by Amazing Facts. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Amazing Facts for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Amazing Facts Web site.
 
@@ -18,11 +18,11 @@ Use of your Personal Information
 
 Amazing Facts collects and uses your personal information to operate the Amazing Facts Web site and deliver the services you have requested. Amazing Facts also uses your personally identifiable information to inform you of other products or services available from Amazing Facts and its affiliates. Amazing Facts may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-Amazing Facts does not sell, rent or lease its customer lists to third parties. Amazing Facts may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Amazing Facts may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Amazing Facts, and they are required to maintain the confidentiality of your information.
+Amazing Facts does not sell, rent or lease its customer lists to third parties. Amazing Facts may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Amazing Facts, and they are required to maintain the confidentiality of your information.
 
 Amazing Facts does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
-Amazing Facts keeps track of the Web sites and pages our customers visit within Amazing Facts, in order to determine what Amazing Facts services are the most popular. This data is used to deliver customized content and advertising within Amazing Facts to customers whose behavior indicates that they are interested in a particular subject area.
+Amazing Facts keeps track of the Web sites and pages our customers visit within Amazing Facts, in order to determine what Amazing Facts services are the most popular. 
 
 Amazing Facts Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Amazing Facts or the site; (b) protect and defend the rights or property of Amazing Facts; and, (c) act under exigent circumstances to protect the personal safety of users of Amazing Facts, or the public.
 
@@ -44,4 +44,4 @@ Amazing Facts will occasionally update this Statement of Privacy to reflect comp
 
 Contact Information
 
-Amazing Facts welcomes your comments regarding this Statement of Privacy. If you believe that Amazing Facts has not adhered to this Statement, please contact Amazing Facts at [administration@amazingfacts.org](mailto:administration@amazingfacts.org). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Amazing Facts welcomes your comments regarding this Statement of Privacy. If you believe that Amazing Facts has not adhered to this Statement, please contact Amazing Facts at [administration@amazingfacts.org](mailto:administration@amazingfacts.org). We will use commercially reasonable efforts to promptly determine and remedy the problem.
