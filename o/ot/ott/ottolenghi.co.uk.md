@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ottolenghi.co.uk privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101072213id_/http%3A//www.ottolenghi.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ottolenghi.co.uk privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506202800id_/http%3A//www.ottolenghi.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,9 +27,9 @@ Please note, we do **NOT** store your credit card information
 
 We require this information to be able to process your order and payment and to understand your needs and provide you with a better service. We may use the information to improve our products and services. Personal information that you provide may be disclosed to a credit reference or fraud prevention agency, which may keep a record of that information. Where there is a legal obligation to do so, we may disclose your information to any relevant regulatory body.
 
-We never sell your details to third party marketing companies. We do collate statistical information about site traffic, sales and other commercial information but these statistics do not include any information which can identify you personally.
+We may communicate with you about our latest news, events, products and special offers. At all times, we will offer you the opportunity to unsubscribe. Any email we send you will contain an easy automated unsubscribe link, simply follow the indications in the email.
 
-At all times, we will offer you the opportunity to unsubscribe out of any service or update to which you have subscribed, if you change your mind. Any e-mail we send you will contain an easy automated unsubscribe link, simply follow the indications in the e-mail.
+We never sell your details to third party marketing companies. We do collate statistical information about site traffic, sales and other commercial information but these statistics do not include any information which can identify you personally.
 
 ## 3\. Security
 
