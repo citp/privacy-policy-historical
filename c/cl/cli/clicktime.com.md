@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the clicktime.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218224658id_/http%3A//www.clicktime.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicktime.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506130609id_/http%3A//www.clicktime.com/policy/privacy) for the most accurate reproduction.*
 
 # Time & Expense Tracking Software | Privacy | ClickTime Web Timesheet
 
-## ClickTime Web Timesheet is committed to ensuring your privacy
+## ClickTime Web Timesheet is committed to your privacy
 
 The developers of ClickTime have created this privacy statement in order to demonstrate our firm commitment to the protection of your privacy. The following discloses our information gathering and dissemination practices. Clicktime.com adheres to the Safe Harbor principles developed by the United States and the European Union (EU), described in our [Safe Harbor Notice.](https://web.archive.org/policy/safe-harbor)
 
@@ -92,5 +92,3 @@ San Francisco, CA 94105
 Any changes to this policy will be posted at this URL and will be effective when posted. Please check back periodically if you have any concerns about changes made to our Privacy Policy.
 
 _Revised: February 14, 2011_
-
-[](https://www.export.gov/safeharbor/ "U.S.-European Union Safe Harbor")
