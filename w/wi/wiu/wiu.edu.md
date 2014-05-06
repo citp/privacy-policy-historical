@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiu.edu privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210012446id_/http%3A//www.wiu.edu/vpas/policies/webprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiu.edu privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506232532id_/http%3A//www.wiu.edu/vpas/policies/webprivacy.php) for the most accurate reproduction.*
 
 # Policies - Administrative Services - Western Illinois University
 
