@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the walkfree.org privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207234847id_/http%3A//www.walkfree.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walkfree.org privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506210201id_/http%3A//www.walkfree.org/walk-free-privacy-policy-and-legal-terms) for the most accurate reproduction.*
 
-# Walk Free Privacy Policy and Legal Terms | walkfree
+# Walk Free Privacy Policy and Legal Terms - Walk Free
 
 ### Introduction
 
@@ -32,7 +32,7 @@ In some campaigns, we offer a function in which members can write a message to t
 
 ### How can you stop receiving email from Walk Free?
 
-If at any time you would like to unsubscribe from our email list, you may do so by emailing [info@walkfree.org](mailto:info@walkfree.org) with "unsubscribe" in the subject heading and we will remove your name from our lists. We will act quickly to implement such requests but please note there may be time lags of up to a month to remove names from our database.
+If at any time you would like to unsubscribe from our email list, you may do so by emailing [info@walkfree.org](mailto:info@walkfree.org) with “unsubscribe” in the subject heading and we will remove your name from our lists. We will act quickly to implement such requests but please note there may be time lags of up to a month to remove names from our database.
 
 ### Financial transactions
 
