@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysqueezebox.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102194240id_/http%3A//www.logitech.com/index.cfm/footer/privacy/%26cl%3Dus%2Cen) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysqueezebox.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506122515id_/http%3A//www.logitech.com/index.cfm/footer/privacy/%26cl%3Dus%2Cen) for the most accurate reproduction.*
 
 # YOUR PRIVACY & SECURITY
 
