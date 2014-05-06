@@ -1,13 +1,21 @@
-> *The following text is extracted and transformed from the ironplanet.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102224759id_/http%3A//www.ironplanet.com/pop/terms_page.jsp%3Fid%3D4%26noh1%3Dyes) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironplanet.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506163918id_/http%3A//www.ironplanet.com/pop/terms_page.jsp%3Fid%3D4%26noh1%3Dyes) for the most accurate reproduction.*
 
 # IronPlanet - Terms and Conditions
 
 **Site Usage  
-Terms and Conditions** | **Buyer Terms  
-and Conditions** | **Seller Terms  
-and Conditions** | **Privacy  
-Statement** |    
----|---|---|---|---  
+Terms and  
+Conditions** | **Buyer  
+Terms and  
+Conditions** | **Seller  
+Terms and  
+Conditions** | **Privacy  
+Statement  
+ ** | **Abandonment  
+Policy  
+ ** | **IronClad  
+Assurance  
+Policy** |    
+---|---|---|---|---|---|---  
   
 Revised April 12, 2013
 
