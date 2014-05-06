@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the vpost.com.sg privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103112525id_/http%3A//www.vpost.com.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpost.com.sg privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506122824id_/https%3A//www.vpost.com.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | vPost
 
-Welcome to vPost Privacy Policy. Your privacy is very important to us. Please read the terms of this Privacy Policy before becoming a vPost member. As part of the normal operation of our services we collect, use and, in some cases, disclose information about you to third parties.
+Welcome to vPost privacy policy. Your privacy is very important to us. Please read the terms of this privacy policy before becoming a vPost member. As part of the normal operation of our services we collect, use and, in some cases, disclose information about you to third parties.
 
-This Privacy Policy governs the information we collect about you. By accepting this Privacy Policy and the User Agreement, you expressly consent to our use and disclosure of your personal information in the manner prescribed in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the vPost User Agreement.
+This privacy policy governs the information we collect about you. By accepting this privacy policy and the user agreement, you expressly consent to our use and disclosure of your personal information in the manner prescribed in this privacy policy. This privacy policy is incorporated into and subject to the terms of the vPost user agreement.
 
-Although this policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about our practices so that you can make an informed decision. The privacy practices of this notice apply to the website located at [http://www.vPost.com.sg](http://vpost.com.sg/) (the "Site") and apply to the following Services:
+Although this policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about our practices so that you can make an informed decision. The privacy practices of this notice apply to the website located at [http://www.vpost.com](http://vpost.com/) (the "Site") and apply to the following Services:
 
   * vPostUSA
   * vPostJAPAN
@@ -20,7 +20,7 @@ We strive to provide a consistent set of privacy practices throughout our global
 
 Questions regarding this statement should be directed to vPost by sending email to vPost at the email account as supported by the various services.
 
-This Privacy Policy contains a number of references to other information pages on our Site and other websites. vPost strongly recommends that as you read this Privacy Policy, you click on such links to obtain further important details about the Privacy Policy, as they may contain further terms and conditions which apply to you as an vPost member.
+This privacy policy contains a number of references to other information pages on our site and other websites. vPost strongly recommends that as you read this privacy policy, you click on such links to obtain further important details about the privacy policy, as they may contain further terms and conditions which apply to you as an vPost member.
 
 Table of Contents
 
@@ -32,15 +32,15 @@ Table of Contents
 
   4. Our disclosure of your information
 
-    * [Advertisers](http://www.vpost.com.sg/vPost/welcome?page=inc_privacy.html&option=3#advertisers)
+    * Advertisers
 
-    * [vPost community](http://www.vpost.com.sg/vPost/welcome?page=inc_privacy.html&option=3#community)
+    * vPost community
 
     * [External service providers](http://www.vpost.com.sg/vPost/welcome?page=inc_privacy.html&option=3#external_sps)
 
-    * [Other corporate entities](http://www.vpost.com.sg/vPost/welcome?page=inc_privacy.html&option=3#other_corps)
+    * Other corporate entities
 
-    * [Legal requests](http://www.vpost.com.sg/vPost/welcome?page=inc_privacy.html&option=3#legal_requests)
+    * Legal requests
 
   5. Your use of other users' information
 
@@ -83,25 +83,25 @@ We use personal information about you (including but not limited to the informat
 
 You agree that we may use personal information about you to improve our marketing and promotional efforts, to analyse Site usage, to improve our content and product offerings and customise our Site's content, layout, and services. These uses improve our Site and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safer and customised experience while using our services.
 
-You agree that we may use your information to contact you and deliver information to you that, in some cases, is targeted to your interests, such as targeted banners, administrative notices, product offerings, and communications relevant to your use of the Site. By accepting the User Agreement and Privacy Policy you expressly agree to receive this information.
+You agree that we may use your information to contact you and deliver information to you that, in some cases, is targeted to your interests, such as targeted banners, administrative notices, product offerings, and communications relevant to your use of the Site. By accepting the User Agreement and privacy policy you expressly agree to receive this information.
 
 4\. Our disclosure of your information
 
-Although vPost uses industry standard practices to protect your personal information, due to technical limitations, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances (further details of which are set out below in the "Legal Requests" section), or third parties may unlawfully intercept or access transmissions or private communications. Therefore, although we use industry standard practices to protect your privacy, we cannot and do not guarantee, and you should not expect, that your personal information or private communications will always remain private.
+Although vPost uses industry standard practices to protect your personal information, due to technical limitations, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this privacy policy. By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances (further details of which are set out below in the "legal requests" section), or third parties may unlawfully intercept or access transmissions or private communications. Therefore, although we use industry standard practices to protect your privacy, we cannot and do not guarantee, and you should not expect, that your personal information or private communications will always remain private.
 
-As a matter of policy, we do not sell or rent any personal information about you to any third party. However, the following describes some of the ways that your personal information may be disclosed, and by agreeing to the User Agreement and Privacy Policy you expressly agree that your personal information may be disclosed by vPost in the following ways:
+As a matter of policy, we do not sell or rent any personal information about you to any third party. However, the following describes some of the ways that your personal information may be disclosed, and by agreeing to the user agreement and privacy policy you expressly agree that your personal information may be disclosed by vPost in the following ways:
 
 Advertisers. We aggregate (gather up data across all user accounts) personal information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to identify you personally. Certain information, such as your name, email address and password are never disclosed to advertisers.
 
 vPost community. Throughout the Site, you are identified by your User ID. If you select your email address as your User ID you will disclose your email address to other users and third parties. As a result, other users and third parties might send you unsolicited email and be able to personally identify all of your activities on the Site. We describe how to change your User ID. Even if your User ID is not your email address, your User ID can be used to identify you and your activities throughout the Site. 
 
-Other corporate entities. We share much of our data, including personal information about you, with our subsidiaries and joint ventures that are committed to serving your online trading needs and related services, throughout the world, as allowed by applicable law. To the extent that these entities have access to your information, they will treat it at least as protectively as they treat information they obtain from their members and users. Our subsidiaries and joint ventures follow privacy practices no less protective of all users than our practices described in this Privacy Policy, to the extent allowed by applicable law. It is possible that vPost, its subsidiaries, its joint ventures, or any combination of such, could merge with or be acquired by another business entity. Should such a combination occur, you should expect that vPost would share some or all of your information in order to continue to provide the service. You will receive notice of such event (to the extent it occurs) and we will require that the new combined entity follow the practices disclosed in this Privacy Policy. 
+Other corporate entities. We share much of our data, including personal information about you, with our subsidiaries and joint ventures that are committed to serving your online trading needs and related services, throughout the world, as allowed by applicable law. To the extent that these entities have access to your information, they will treat it at least as protectively as they treat information they obtain from their members and users. Our subsidiaries and joint ventures follow privacy practices no less protective of all users than our practices described in this privacy policy, to the extent allowed by applicable law. It is possible that vPost, its subsidiaries, its joint ventures, or any combination of such, could merge with or be acquired by another business entity. Should such a combination occur, you should expect that vPost would share some or all of your information in order to continue to provide the service. You will receive notice of such event (to the extent it occurs) and we will require that the new combined entity follow the practices disclosed in this privacy policy. 
 
 Legal requests. vPost may lawfully disclose your personal information for law enforcement or regulatory purposes. vPost cooperates with law enforcement inquires and other third parties to enforce laws, intellectual property and other rights. We can (and you authorise us to) disclose any information about you to law enforcement or other governmental officials as we, in our sole discretion, believe necessary, appropriate or as otherwise permitted under applicable laws, in connection with an investigation of fraud, intellectual property infringements, piracy or other activity that is illegal or may expose us to legal liability. Further, we can (and by becoming an vPost member you authorise us to) disclose your UserID, name, street address, city, state, post code, country, phone number, email and company as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringement, piracy or other activity that may expose us to legal liability or as otherwise permitted under applicable laws.
 
  5\. Your use of other users' information
 
-By entering into our User Agreement, you agree to respect to other users' personal information that you obtain through the Site or through a vPost-related communication or vPost-facilitated transaction.
+By entering into our user agreement, you agree to respect to other users' personal information that you obtain through the Site or through a vPost-related communication or vPost-facilitated transaction.
 
 In addition, under no circumstances will you disclose personal information about another user to any third party without our consent and the consent of such other user after adequate disclosure. Note that law enforcement personnel and other rights holders are given different rights with respect to information they access.
 
@@ -115,21 +115,21 @@ You are responsible for all actions taken with your User ID and password, includ
 
 Following registration, you can review and change the information you submitted during registration including:
 
-Your User ID and email address If you change your User ID we may keep track of your old User ID(s) and your new User ID.
+Your User ID and email address if you change your User ID we may keep track of your old User ID(s) and your new User ID.
 
 Your registration information such as: name, company, address, city, state, post code, country, primary phone number, secondary phone number, fax number and gender.
 
-Your password(if you have supplied such information).
+Your password (if you have supplied such information).
 
 Your credit card number and expiration date, and other financial information.
 
 Upon your request, we will deactivate your account, contact information, and financial information from our active databases. To make this request, please email to vPost. Such information will be deactivated as soon as reasonably possible in accordance with our deactivation policy and applicable law.
 
-We will retain in our files information you have requested to remove in some circumstances, such as to prevent fraud, resolve disputes, troubleshoot problems, assist with any investigations, and enforce our User Agreement, and to comply with legal requirements. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests. However, such information will be deactivated from public viewing and usage by other members of vPost and will only be available to select vPost personnel.
+We will retain in our files information you have requested to remove in some circumstances, such as to prevent fraud, resolve disputes, troubleshoot problems, assist with any investigations, and enforce our user agreement, and to comply with legal requirements. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests. However, such information will be deactivated from public viewing and usage by other members of vPost and will only be available to select vPost personnel.
 
 8\. Other information collectors
 
-Except as otherwise expressly discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are buyers on our Site or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them. To the extent that we use third party advertisers, they adhere to their own privacy customs and policies. Since vPost does not control the privacy policies of third parties, you are subject to the privacy policies of that third party. We encourage you to ask questions before you disclose your personal information to others.
+Except as otherwise expressly discussed in this privacy policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are buyers on our site or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them. To the extent that we use third party advertisers, they adhere to their own privacy customs and policies. Since vPost does not control the privacy policies of third parties, you are subject to the privacy policies of that third party. We encourage you to ask questions before you disclose your personal information to others.
 
 9\. Security - Secure Socket Layer (SSL) Encryption
 
@@ -143,6 +143,6 @@ As users enter the payment information, it is captured on a page that uses the S
 
 10\. Notice
 
-We may change this Privacy Policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. The revised policy will be posted on this Site and shall take effect from the date of such posting.
+We may change this privacy policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. The revised policy will be posted on this Site and shall take effect from the date of such posting.
 
 __Loading...
