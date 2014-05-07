@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itscolumn.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901135222id_/http%3A//mymediainc.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itscolumn.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507222324id_/http%3A//mymediainc.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
