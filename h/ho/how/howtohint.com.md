@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtohint.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820170345id_/http%3A//www.howtohint.com/page/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtohint.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507051521id_/http%3A//www.howtohint.com/page/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Howtohint.com
 
