@@ -1,0 +1,677 @@
+<!--The following is the downloaded HTML source of the myclassplanner.com privacy policy that was archived on 2014-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140507091950id_/http%3A//myclassplanner.com/privacy.asp) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_Head1">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>Privacy Policy - myclassplanner.com ©2014</title><link href="images/main.css" rel="Stylesheet" type="text/css"><meta name="keywords" content="Careerplane, career, plane, school, major, education, American education system, USA education, US education, American education, US education system, USA education system, study in the us, study in the Canada, study in america, study usa, study canada, study us, study ca"><meta name="description" content="MyClassPlanner provides the information necessary to make the best decision concerning your degree program, career, and school preference. ">
+    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="images/quant.js"></script><script type="text/javascript" src="images/jquery-1.js"></script>
+    <!-- Quantcast Tag -->
+    <script type="text/javascript">
+        var _qevents = _qevents || [];
+
+        (function () {
+            var elem = document.createElement('script');
+            elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+            elem.async = true;
+            elem.type = "text/javascript";
+            var scpt = document.getElementsByTagName('script')[0];
+            scpt.parentNode.insertBefore(elem, scpt);
+        })();
+
+        _qevents.push({
+            qacct: "p-YwWAM17ZyAthw"
+        });
+    </script>
+
+    <noscript>
+    <div style="display:none;">
+    <img src="//pixel.quantserve.com/pixel/p-YwWAM17ZyAthw.gif" border="0" height="1" width="1" alt="Quantcast"/>
+    </div>
+    </noscript>
+    <!-- End Quantcast tag -->
+
+    <script type="text/javascript" language="javascript">        
+    
+    function window_onload() {
+        var pageName = "home";
+        var lnk = null;
+        switch(pageName) {        
+            case "home" : lnk = document.getElementById("lnkHome");break;
+            case "majors" : lnk = document.getElementById("lnkMajor");break;
+            case "careers" : lnk = document.getElementById("lnkCareers");break;
+            case "about_us" : lnk = document.getElementById("lnkAboutUs");break;
+            case "contact_us" : lnk = document.getElementById("lnkContactUs");break;
+        }
+        if(lnk != null) {
+            lnk.className = "mnuSelected";
+        }
+        buildButtons();
+    }
+    
+    function changeClass(pCtrlID, pClass){ 
+        var ctrl = document.getElementById(pCtrlID);
+        if(ctrl != null) {
+            ctrl.className = pClass;
+        }
+    }
+    
+    function onFocusZip(elementId, defaultText) { 
+       if (document.getElementById(elementId).value == defaultText) {
+          document.getElementById(elementId).maxLength = 5;
+          document.getElementById(elementId).className = "inputSearchNormal";
+          document.getElementById(elementId).value = "";
+       }
+    }
+    
+    function onBlurZip(elementId, defaultText) {
+       var textValue = document.getElementById(elementId).value;
+       if (textValue == defaultText || textValue.length == 0) {
+          document.getElementById(elementId).maxLength = 18;
+          document.getElementById(elementId).className = "inputSearch";
+          document.getElementById(elementId).value = defaultText;
+       }
+       else
+          document.getElementById(elementId).className = "inputSearchNormal";
+    }
+    
+    function navigateToZip() {
+        var zip = document.getElementById("txtSearch");
+        if(zip != null) {
+            if(zip.value == "" || zip.value.length != 5 || !isNumber(zip.value)) {
+                alert("You must enter a valid 5 digit zip code.");
+                zip.focus();
+            }
+            else {
+                window.open("home_z.aspx?zip=" + zip.value, "_self");
+            }
+        }
+        return false;
+    }
+    
+    function isNumber(value) {
+          var check = true;          
+          //check that all characters are digits, ., -, or ""
+          for(var i=0;i < value.length;i++) {
+               var new_key = value.charAt(i); //cycle through characters               
+               if(((new_key < "0") || (new_key > "9")) && !(new_key == "")) {
+                    check = false;
+                    break;
+               }
+          }          
+          return check;
+     }
+     
+    function onkeypressZip(e) {   
+        var keynum;
+        if(window.event) {
+            keynum = window.event.keyCode;           
+        } 
+        else if(e.which) {
+            keynum = e.which;                        
+        }
+        if(keynum == 13) {       
+            navigateToZip();
+            return false;
+        }
+        return true;
+    }
+    
+    function onsubmitMain() {       
+        return ("home" == "contact_us");
+    }
+    
+    function buildButtons() {
+        $(".linkBoxContainer, .linkFeaturedBoxContainer, .btnStyle, .btnStyle2, .linkDiplomaBoxContainer").css("cursor", "pointer");        
+        $(".linkBoxContainer a, .linkFeaturedBoxContainer a, .btnStyle a, .btnStyle2 a, .linkDiplomaBoxContainer a, .letterOff a, .letterOn a").click(function(e) {
+                e.stopPropagation(); 
+                e.cancelBubble = true;              
+                return true;
+            });   
+        $(".linkBoxContainer, .linkFeaturedBoxContainer, .btnStyle, .btnStyle2, .linkDiplomaBoxContainer, .letterOff, .letterOn").click(function(e) {                                
+                var lnk = $(this).find("a");  
+                if(lnk.attr("onclick") == null) {              
+                    window.open(lnk.attr("href"), (lnk.attr("target") != null && lnk.attr("target") != "") ? lnk.attr("target") : "_self");
+                }
+                else {
+                    lnk[0].onclick();
+                }
+            });
+    }
+    
+    </script>       
+
+</head>
+<body onload="window_onload()">
+    <form name="aspnetForm" method="post" action="home.aspx" id="aspnetForm" onsubmit="return onsubmitMain();">
+<div>
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE5ODc0MDQ1NjBkZIunWdvRw55sWnmgAHfkjH7HVJC2" type="hidden">
+</div>
+
+        <table class="tblFull" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+                <td>
+                    <link rel="icon" type="image/png" href="images/fav.ico"><table id="tblMain" style="width: 900px;" class="mainTable" align="center" cellpadding="0" cellspacing="0">
+                        <tbody>  
+<script>
+
+ function validate_zip()
+{
+
+if(document.aspnetForm_zip.txtSearch.value=='Enter your Zipcode')
+		{
+		alert("Please Enter Your Zip Code.");
+		document.aspnetForm_zip.txtSearch.value="";
+		document.aspnetForm_zip.txtSearch.focus();
+		return false;
+		}
+if(isNaN(document.aspnetForm_zip.txtSearch.value))
+		{
+		alert("Zip Code must be numeric.");
+		document.aspnetForm_zip.txtSearch.focus();
+		return false;
+		}
+if(document.aspnetForm_zip.txtSearch.value.length<5)
+		{
+		alert("Please Enter 5 digits Zip Code.");
+		document.aspnetForm_zip.txtSearch.focus();
+		return false;
+		}	
+
+}
+</script>  
+<script type="text/javascript" language="javascript">        
+    
+  
+    function onFocusZip(elementId, defaultText) { 
+       if (document.getElementById(elementId).value == defaultText) {
+          document.getElementById(elementId).maxLength = 5;
+          document.getElementById(elementId).className = "inputSearchNormal";
+          document.getElementById(elementId).value = "";
+       }
+    }
+   
+    </script>
+<tr valign="top">
+                            <td style="border-bottom:solid 1px #c3ded4; width:650px;" align="center">
+                                <div class="headerTable">
+                                    <table align="left" cellpadding="0" cellspacing="0" width="100%">
+                                        <tbody><tr valign="top">
+                                            <td>
+                                                <div id="mnuCP" class="mnuHeader">
+                                                    <table>
+                                                        <tbody><tr valign="top">
+                                                            <td style="width: 65px; padding-left: 35px;">
+                                                                <a id="lnkHome" href="default.asp" class="mnuSelected">Home</a></td>
+                                                            <td style="width: 70px;">
+                                                                <a id="lnkMajor" href="majors.asp" class="mnuHeaderLink">Majors</a></td>
+                                                            <td style="width: 70px;">
+                                                                <a id="lnkCareers" href="careers.asp" class="mnuHeaderLink">Careers</a></td>
+                                                            <td style="width: 80px;">
+                                                                <a id="lnkAboutUs" href="about_us.asp" class="mnuHeaderLink">About Us</a></td>
+                                                            <td style="width: 70px;">
+                                                                <a id="lnkContactUs" href="contact_us.asp" class="mnuHeaderLink">Contact Us</a></td>
+                                                        </tr>
+                                                    </tbody></table>
+                                                </div>
+                                            </td>
+                                            <td rowspan="2" class="headerRight">
+                                                <table cellpadding="0" cellspacing="0" width="100%">
+                                                    <tbody><tr valign="top">
+                                                        <td style=" padding:0px 0px 0px 0px;">
+                                                               <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                            <tbody><tr valign="top">
+                                                                <td colspan="2" style="height:60px; margin-bottom:0px; padding-bottom:0px; border-bottom:solid 1px #c3ded4;">
+                                                                    <a href="canada.asp" style=" padding:0px 0px 0px 0px;"><div class="image"></div></a>
+                                                                </td>
+                                                            </tr>
+                                                                <tr valign="top">
+                                                                    <td style="padding:0 10px 0 5px;" align="left">
+                                                                        <img src="images/img_search.png">
+                                                                    </td>
+                                                                    <td align="left">
+                                                                    <span class="mainSubTitle2">Looking for a school near you?</span>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr valign="top">
+                                                                    <td colspan="2" style="padding:5px 10px 0 5px; text-align:center;" align="left">
+                                                                        
+                                                                      <table width="220" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td width="58" align="left" valign="middle"><input name="txtSearch" style="width:150px;" id="txtSearch" value="Enter your Zipcode" maxlength="18" class="inputSearch" onfocus="javascript:onFocusZip(this.id,'Enter your Zipcode');" onblur="javascript:onBlurZip(this.id,'Enter your Zipcode');" onkeypress="return onkeypressZip(event);" type="text"></td>
+    <td width="58" align="left" valign="top"><input src="images/button111.jpg" style="margin:0px 0 0 0;" title="submit" type="image"></td>
+  </tr>
+</tbody></table>
+
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody></table>
+                                                        </td>
+                                                    </tr>
+                                                </tbody></table>
+                                            </td>
+                                        </tr>
+                                        <tr valign="bottom">
+                                            <td style="vertical-align: bottom; height: 115px; width:650px;">
+                                                <a href="default.asp" style="cursor: pointer;">
+                                                    <img src="images/header_1.jpg" border="0"></a>
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr valign="top">
+                            <td style="width:100%;" align="center">
+                                <div style="overflow:hidden;">
+                                    
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tbody><tr align="center" valign="top">           
+            <td class="contentColumn bgContent2">
+                 <div style="overflow:hidden; max-width:650px;">
+                     
+    <table style="height:380px; background-color:#FFF;">
+        <tbody><tr>
+            <td style="width:100%; padding-left:20px; text-align:left; padding-top:15px;" class="pText">
+                <span class="mainTitle2">Privacy Policy</span><br><br>
+                <div style="padding-left:0px; padding-right:15px;">
+                <span class="mainSubTitle">MyClassPlanner, LLC</span><br><br>
+
+MyClassPlanner, LLC (hereinafter "MyClassPlanner") shares your concern about 
+personal privacy. MyClassPlanner recognizes that its customers, visitors, 
+users, and others (collectively or individually, the "Users") who use 
+the http://MyClassPlanner.com website (the "Website") value their privacy. 
+This Privacy Policy outlines important information regarding the use and
+ disclosure of User information collected via the Website. MyClassPlanner 
+provides this Privacy Policy to help Users make an informed decision as 
+to whether to use or continue using the Website.
+<br><br>
+<span class="mainSubTitle">General</span><br>
+By reference, this Privacy Policy is incorporated into and is subject to
+ the MyClassPlanner Terms of Use. Your use of the Website and any personal 
+information you provide via the Website or through other official 
+MyClassPlanner contact remains subject to this Privacy Policy, as well as 
+the MyClassPlanner Terms of Use, and/or other governing MyClassPlanner 
+policies.
+<br><br>
+You are informed that any content posted by Users onto the Website 
+becomes published or informational content, or the like, and is not 
+considered personally identifiable information subject to this Privacy 
+Policy.
+<br><br>
+<span class="mainSubTitle">Collected Information</span><br>
+MyClassPlanner may collect personal information and data including, but not
+ limited to, application and Website usage data, file transfer and 
+viewing data, email and personal contact information, and other 
+identifiable information. MyClassPlanner may use technological means for 
+tagging and tracking data including, but not limited to, harmless 
+cookies, clear .GIFs, and other technologies to track and correlate 
+data.
+<br><br>
+Specifically, but not limited to, the following information is collected:<br>
+a. User Provided Data: Users may provide personally identifiable 
+information (such as a name, address, telephone, and an email address) 
+to MyClassPlanner when choosing to participate in the services and 
+activities available on the Website (collectively, the "Services").<br>
+b. Cookies: Cookies, a harmless small text file containing a string of 
+alphanumeric characters, are deployed to your computer so as to uniquely
+ identify your presence and use. MyClassPlanner may use session cookies and
+ persistent cookies for the purpose of tracking various important data. 
+Use of these cookies can also help to speed your access to the Website 
+as they serve as 'reminders' as to who you are to our programming. While
+ we recommend that you allow these cookies to perform their tasks, you 
+may adjust your computer's settings to restrict or refuse them. However,
+ some features or sections of the Website may not function properly, or 
+not all, if the ability to accept cookies is disabled.<br>
+c. Clear .GIFs: MyClassPlanner may choose to utilize "clear .GIFs" to track
+ the online usage patterns of our Users in a non-personally identifiable
+ manner. Additionally, MyClassPlanner may also use clear .GIFs in 
+HTML-based emails dispatched to Users so as to track which emails are 
+being opened by the recipients. This act helps MyClassPlanner to determine 
+active and inactive email addresses.<br>
+d. Log File Data: When Users log-in to their MyClassPlanner account, our 
+servers will automatically record and archive certain information that 
+web-browsers send whenever visiting a website. These server logs may 
+include information vital to validating the User's authorization to 
+access the account. Information, such as a Web request, Internet 
+Protocol (the "IP") address, browser type, browser language, referring 
+pages, exit pages and visited URLs, platform type, click counts, pages 
+viewed and in what order, time spent, the date and time of the request, 
+and other important data is necessary to validate and authorize a User's
+ entry and activity on the Website.
+<br><br>
+<span class="mainSubTitle">Information Uses</span><br>
+a. Personally identifiable information submitted by a User is used to 
+operate, maintain, and provide features, general and unique, of the 
+Website for the User's use and pleasure.<br>
+b. All personal information, data, or content that you, the User, 
+voluntarily disclose to the Website public areas become available to 
+other Users and can be collected and used by others. Your account 
+Username is displayed to other Users when you post or send messages 
+through the Website.<br>
+c. MyClassPlanner does use your personally identifiable and certain 
+non-personally identifiable information, such as but not limited to, 
+anonymous User usage data, browser type, cookies, IP addresses, 
+clickstream data, and the like, to improve the quality and use designs 
+of the Website through analysis of this data and trends.<br>
+d. MyClassPlanner uses clear .GIFs and log file data to: (i) provide custom
+ content and preferences; (ii) remember information necessary for 
+logging in to your Website account so as to save you time in re-entering
+ such information; (iii) monitor the impact and effectiveness of 
+MyClassPlanner marketing efforts; (iv) monitor aggregate metrics providing 
+detailed data on User activities while on the Website; (v) track your 
+submissions, entries, and status.
+<br><br>
+<span class="mainSubTitle">Disclosure of Information</span><br>
+a. MyClassPlanner provides personally identifiable and non-personally 
+identifiable information on Users to subsidiaries, affiliated companies,
+ and other businesses or persons for the purpose of processing such 
+information on behalf of MyClassPlanner. At all times, these parties are 
+required to agree to process such information in compliance with this 
+Privacy Policy, and we deploy reasonable efforts to limit their use of 
+such information.<br>
+b. MyClassPlanner reserves the right to disclose personally identifiable 
+and/or non-personally identifiable information that is believed, in good
+ faith, to be appropriate or necessary for the purpose of enforcing the 
+MyClassPlanner Terms of Service, or other governing MyClassPlanner policies. 
+Other causes of release of data may be due to, but not limited to: (i) 
+taking precautions against liability issues; (ii) to assist government 
+enforcement agencies; (iii) to investigate and defend MyClassPlanner 
+against third party claims or allegations; (iv) to protect the security 
+or integrity of the Website and/or Services; and/or (v) to protect the 
+rights, property, or personal safety of MyClassPlanner, Users of the 
+Website, or others.<br>
+c. MyClassPlanner does not share your personally identifiable information 
+with other non-affiliated third party companies for their commercial use
+ or marketing use without your consent, except as part of a specific 
+program, feature, or campaign for which you will have the ability to 
+opt-out.<br>
+d. MyClassPlanner does share non-personally identifiable information, such 
+as anonymous User data and traffic data, with interested third parties 
+to assist them in understanding the usage patterns and trends analysis 
+for certain content, advertisements, promotions, services, and/or 
+functionality of the Website.<br>
+e. MyClassPlanner may release any information available if required to do 
+so by law, or in the good faith belief that such action is necessary to 
+comply with law or the powers of government enforcement agencies. Other 
+causes for release of information could be for needs to comply with 
+copyright laws or to respond to a court order, subpoena, and/or search 
+warrant.
+<br><br>
+<span class="mainSubTitle">Decline to Accept</span><br>
+ You may, of course, decline to submit or allow the submission of 
+personally identifiable information through the Website, in which case 
+MyClassPlanner may not be able to provide certain Services to you, if any 
+at all. You may, at any time, update or edit your profile information 
+and email preferences by visiting your MyClassPlanner account profile page.
+<br><br>
+<span class="mainSubTitle">Links and Third Party Advertisers</span><br>
+ MyClassPlanner allows other companies, also referred to as Third Party 
+Advertisers, Ad Servers, or Ad Networks (collectively, the 
+"Advertisers") to serve advertisements via the Website. These 
+Advertisers may use technology to send directly to your Web browser 
+advertisements and links that appear on the Website. This technology may
+ capture certain non-personally identifiable data, such as your IP 
+address, etc. This technology may also measure the effectiveness of 
+their advertisements and to personalize the advertising content you may 
+view on the Website.
+<br><br>
+MyClassPlanner does not provide any personally identifiable information to 
+these Advertisers without your consent, except as part of a specific 
+program, feature, or campaign for which you will have the ability to 
+opt-out. However, should you click on an Advertiser offering or choose 
+to visit an Advertiser's website, MyClassPlanner highly recommends that you
+ consult the respective privacy policy of the Advertiser for more 
+information on their practices and for instructions on how to opt-out of
+ certain programs and practices of the Advertiser. MyClassPlanner's Privacy
+ Policy does not apply to, nor can MyClassPlanner control, the activities 
+of other websites or Advertisers.
+<br><br>
+<span class="mainSubTitle">Data Security</span><br>
+ In an effort to provide maximum protection of User's privacy, 
+MyClassPlanner routinely utilizes commercially reasonable physical, 
+technical, and managerial safeguards to preserve the integrity and 
+security of your personal information. However, MyClassPlanner cannot 
+ensure or warrant the security of any information you transmit to 
+MyClassPlanner or place upon the Website and you do so at your own risk. 
+Once we receive said transmission of personal information, MyClassPlanner 
+engages commercially reasonable efforts to ensure the security of our 
+systems and the personal information you provided to our custody. This 
+is not a guarantee that such information may not be accessed, altered, 
+disclosed, or destroyed by breach of any of our physical, technical, or 
+managerial safeguards.
+<br><br>
+<span class="mainSubTitle">Data Processing</span><br>
+The European Union ("EU") maintains strict privacy laws. These rules 
+differ significantly from the laws of the United States of America 
+("US"). To reconcile these differences, the US and the EU have created a
+ safe harbor ("Safe Harbor") that defines mutually acceptable privacy 
+operations. For more information see www.export.gov/safeharbor/.
+<br><br>
+By providing information to us, you acknowledge that we operate in the 
+US and you agree to (i) permit us to transmit and use your user 
+Information anywhere necessary, including across international 
+boundaries, to better improve the services and transactions provided by 
+MyClassPlanner; and (ii) that such use by us shall be subject to the terms 
+and conditions stated in this Privacy Policy and the Terms of Use.
+<br><br>
+<span class="mainSubTitle">Children's Privacy</span><br>
+ MyClassPlanner complies with the Children's Online Privacy Protection Act 
+of 1998 (COPPA) and does recognize the responsibility to protect the 
+privacy of young children at all times and to the best of everyone's 
+ability. For that reason, MyClassPlanner does not knowingly collect or 
+maintain any information via the Website from persons under the age of 
+thirteen (13), and no part of our Website is directed to persons under 
+the age of thirteen (13). If an underage person provides such 
+information and MyClassPlanner has unknowingly collected said information, 
+then MyClassPlanner will take the appropriate steps to delete this 
+information.
+<br><br>
+<span class="mainSubTitle">Transfer of Rights</span><br>
+Should MyClassPlanner be acquired, merged, or endeavor to become closed for
+ business, MyClassPlanner reserves the right, in any of these 
+circumstances, to transfer or assign the information collected, during 
+the due course of business, from Users of the Website. This information 
+may be held as part of any such acquisition, merger, sale, or other 
+change of control or business entity status.
+<br><br>
+In the unlikely event of a bankruptcy, assignment for the benefit of 
+creditors, insolvency, receivership, reorganization, or the application 
+of laws or legally recognized enforcements and/or actions, MyClassPlanner 
+may not be able to control how Users' personal information is accessed, 
+treated, transferred, and/or used. In any of these circumstances, you 
+hold harmless and indemnify MyClassPlanner owner(s), officers, directors, 
+employees, agents, and assignees from and against any claims of 
+responsibility, damages, costs, debts, losses, liabilities, obligations,
+ fees and/or expenses.
+<br><br>
+<span class="mainSubTitle">Contact Information</span><br>
+ You may contact MyClassPlanner Customer Service at:<br>
+<br>
+MyClassPlanner, LLC<br>
+Attention: Customer Service<br>
+3370 N. Hayden Rd.<br>
+Suite 123-251<br>
+Scottsdale, AZ 85251<br>
+Email: <a href="mailto:support@MyClassPlanner.com">support@MyClassPlanner.com</a><br>
+<!--Toll Free (USA): 1-XXX-XXX-XXXX<br />
+Direct Dial (International): (1)XXX-XXX-XXXX-->
+<br><br>
+<span class="mainSubTitle">Changes and Updates</span><br>
+ This Privacy Policy may be revised at will. Such changes, edits, 
+revisions, and/or updates will be made available by posting updated 
+Privacy Policies to the Website. All such changed and updated Privacy 
+Policies can be identified by way of the Date of Modification. You are 
+advised to frequently visit the MyClassPlanner Privacy Policy to determine 
+the last Date of Modification so as to afford you the opportunity to 
+access the most current Privacy Policy. Regardless of your visitation 
+habits to this Privacy Policy, your continued access and use of the 
+MyClassPlanner Website constitutes your agreement to this Privacy Policy, 
+the MyClassPlanner Terms of Use, and any other governing policies of 
+MyClassPlanner, as well as any future revisions of said legal documents and
+ policies.
+<br><br>
+<span class="mainSubTitle">Communications</span><br>
+ On occasion as deemed necessary by MyClassPlanner (daily, weekly, monthly,
+ etc.), MyClassPlanner will send the User various communications, such as 
+email newsletters or alerts, account updates, and special offers 
+targeted to the interests of the User. as determined by MyClassPlanner. 
+Said communications shall originate from MyClassPlanner only and shall be 
+conducted in compliance to Section 4, entitled "Disclosure of 
+Information", of this Privacy Policy. At any time, the User may modify 
+or entirely opt-out of such communications by accessing the "Email 
+Options" link as provided in the post-login Administration section of 
+the User's personal MyClassPlanner website.
+<br><br>
+<span class="mainSubTitle">Presiding Language</span><br>
+ This Agreement and all MyClassPlanner policies are written and executed in
+ English, which is considered the prevailing language for purposes of 
+interpretation or laws of contract. If this Agreement is translated into
+ any other language, the English version shall be considered the primary
+ binding legal document.
+<br><br>
+DATE OF MODIFICATION: January 18, 2009
+<br><br><br>
+                </div>
+            </td>         
+        </tr>
+    </tbody></table>
+
+                </div>
+            </td>
+            <td class="rightColumn">
+            <div style="overflow:hidden; max-width:225px;">
+            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tbody><tr id="ctl00_ctl00_cphMain_trRightText">
+	<td style="padding-left:15px; text-align:left;">
+                    <div style="overflow:hidden; max-width:225px; padding-top:10px;">
+                        <span class="pText"><b>MyClassPlanner</b> provides the information necessary to make the best decision concerning your degree program, career, and school preference.<br><br>
+  Whether you want to search by major, degree level, or career, we 
+feature hundreds of programs offered by accredited online colleges and 
+universities.  Start exploring and get on the path to your future today!
+</span><br><br>
+                    </div>
+                </td>
+</tr>
+
+            <tr><td><div style="padding:0px 5px 0px 5px; vertical-align:middle;"><img src="images/selected.png"><span class="mainSubTitle"> Movers &amp; Shakers</span></div></td></tr>
+            <tr valign="top">
+                <td style="padding-left:20px; text-align:left;"><div style="overflow:hidden; max-width:210px;"><span class="mainSubTitle2">Top Majors:</span><br>
+                        <table class="toplist toplist" align="left" cellpadding="0" cellspacing="0"><tbody><tr><td style="text-align:left;"></td></tr><tr><td style="text-align:left; padding-left:0;"><span class="item">1)&nbsp;<a href="major_e_business.asp" target="_self" class="linkitem">e-Business</a></span><br><span class="item">2)&nbsp;<a href="major_elementary_education.asp" target="_self" class="linkitem">Elementary Education</a></span><br><span class="item">3)&nbsp;<a href="major_accounting.asp" target="_self" class="linkitem">Accounting</a></span><br><span class="item">4)&nbsp;<a href="major_web_development.asp" target="_self" class="linkitem">Web Development</a></span><br><span class="item">5)&nbsp;<a href="major_rn_to_bsn.asp" target="_self" class="linkitem">RN to BSN</a></span><br><span class="item">6)&nbsp;<a href="major_psychology_psychology.asp" target="_self" class="linkitem">Psychology</a></span><br><span class="item">7)&nbsp;<a href="major_healthcare_administration.asp" target="_self" class="linkitem">Administration</a></span><br><span class="item">8)&nbsp;<a href="major_information_technology_information_technology.asp" target="_self" class="linkitem">Information Technology</a></span><br><span class="item">9)&nbsp;<a href="major_business_marketing.asp" target="_self" class="linkitem">Marketing</a></span><br><span class="item">10)&nbsp;<a href="major_business_finance.asp" target="_self" class="linkitem">Finance</a></span><br><br></td></tr></tbody></table>                        
+                        </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div id="ctl00_ctl00_cphMain_bpAllMajors" class="cpdRoundedContainer linkBoxContainer" style="cursor: pointer;"><b class="xtop"><b class="xt1"></b><b class="xt2"></b><b class="xt3"></b><b class="xt4"></b></b><div class="xboxcontent" style="height:-14px;"><a href="majors.asp">View All Majors</a></div><b class="xbottom"><b class="xb4"></b><b class="xb3"></b><b class="xb2"></b><b class="xb1">
+                                                                    </b></b></div>
+                    <br><br>
+                </td>
+            </tr>  
+            <tr valign="top">
+                <td style="padding-left:20px; text-align:left;"><div style="overflow:hidden; max-width:210px;"><span class="mainSubTitle2">Top Career Salaries:</span>
+                <table class="toplist " align="left" cellpadding="0" cellspacing="0"><tbody><tr><td style="text-align:left;"></td></tr><tr><td style="text-align:left; padding-left:0;"><span class="item">1)&nbsp;<a href="career_ebusiness.asp" target="_self" class="linkitem">eBusiness Management</a></span><br><span class="item">2)&nbsp;<a href="career_financial.asp" target="_self" class="linkitem">Financial Systems Management</a></span><br><span class="item">3)&nbsp;<a href="career_pharmacy.asp" target="_self" class="linkitem">Pharmacy Director</a></span><br><span class="item">4)&nbsp;<a href="career_psychiatrist.asp" target="_self" class="linkitem">Psychiatrist</a></span><br><span class="item">5)&nbsp;<a href="career_registered.asp" target="_self" class="linkitem">Registered Nurse – ER</a></span><br><span class="item">6)&nbsp;<a href="career_sales.asp" target="_self" class="linkitem">Sales and Marketing Director</a></span><br><span class="item">7)&nbsp;<a href="career_venture.asp" target="_self" class="linkitem">Venture Capitalist</a></span><br><span class="item">8)&nbsp;<a href="career_software.asp" target="_self" class="linkitem">Software Engineer</a></span><br><span class="item">9)&nbsp;<a href="career_auditor.asp" target="_self" class="linkitem">Auditor</a></span><br><span class="item">10)&nbsp;<a href="career_tax.asp" target="_self" class="linkitem">Tax Accountant</a></span><br><br></td></tr></tbody></table>                
+                </div></td>
+            </tr>
+            
+            <tr>
+                <td><br>
+                    <div id="ctl00_ctl00_cphMain_bpCertificate" class="cpdRoundedContainer linkDiplomaBoxContainer" style="cursor: pointer;"><b class="xtop"><b class="xt1"></b><b class="xt2"></b><b class="xt3"></b><b class="xt4"></b></b><div class="xboxcontent" style="height:-14px;">
+                        <a href="certificate.asp">View Top Career Diploma <br>&amp; Certificate Programs</a></div><b class="xbottom"><b class="xb4"></b><b class="xb3"></b><b class="xb2"></b><b class="xb1">
+                                                                    </b></b></div>
+                </td>
+            </tr>
+                </tbody></table>
+                </div>
+            </td>
+            </tr>
+    </tbody></table>
+
+                                </div>
+                            </td>
+                        </tr>
+                        <tr valign="top">
+                            <td align="center">
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+            <tr>
+                <td class="footerTable" align="center">
+                    <div class="footerContent">
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            <tbody><tr>
+                                <td class="footerLeft">
+                                <img src="images/img_text_footer.png"><br><br><br>
+                                <span class="pText">Copyright ©2014 myclassplanner.com   All rights reserved.</span>
+                                </td>
+                                
+                                
+                                
+                                <td class="footerRight">
+                                    <table>
+                                        <tbody><tr>
+                                            <td><a href="default.asp">Home</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="majors.asp">Majors</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="careers.asp">Careers</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="about_us.asp">About Us</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="contact_us.asp">Contact Us</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="terms.asp">Terms &amp; Conditions</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="privacy.asp">Privacy Policy</a></td>
+                                        </tr>
+                                         <tr>
+                                            <td><a href="mediakit.pdf" target="_blank">Media Kit</a></td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </div>
+                </td>
+            </tr>
+        </tbody></table>
+    
+<div>
+
+	<input name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWzAQClJbeqQYC/bP49A0C9tyqmQEC9ty2mQEC9tyemQEC9tySmQEC9tyamQEC9tymmQEC9tyimQEC9tyumQEC8tzSmgEC89zSmgEC8NzSmgEC8dzSmgEC9tzSmgEC99zSmgEC9NzSmgEC5dzSmgEC6tzSmgEC8tySmQEC8tyemQEC8tyamQEC8tymmQEC8tyimQEC8tyumQEC8tyqmQEC8ty2mQEC8tzymgEC9tzymgEC8NyumQEC8NyqmQEC8NzymgEC8Ny2mQEC8dyamQEC8tz+mgEC8Nz+mgEC8dySmQEC8dyemQEC8dymmQEC8dyimQEC8dyumQEC8dyqmQEC89ySmQEC89yemQEC89yamQEC89ymmQEC89yimQEC89yumQEC89yqmQEC89y2mQEC89zymgEC89z+mgEC8dz+mgEC8dzymgEC9tz+mgEC8NySmQEC8NyemQEC4pa++wUCi9uC3gECi9uC3gECi9uC3gECi9uC3gEC7fmUlQkC7PmUlQkC7/mUlQkC6PmUlQkC6PmUlQkC6fmUlQkC6fmUlQkC6/mUlQkC+vmUlQkC9fmUlQkC7fnUlgkC7fnYlgkC7fnclgkC7fnglgkCrPKk6w8C7fnolgkC7fnklgkC7fnslgkC7fnwlgkC7fm0lQkC7fm4lQkC7PnUlgkCvpb7nwoC7PnYlgkC7PnclgkC7PnglgkC7PnklgkC7PnolgkC7PnslgkC7PnwlgkC7Pm0lQkC7Pm4lQkC7/nUlgkC7/nYlgkC7/nclgkC7/nglgkC7/nklgkC7/nolgkC7/nslgkC7/nwlgkC7/m0lQkC7/m4lQkC7vnUlgkC7vnYlgkC7vnclgkC7vnglgkC7vnklgkC7vnolgkC7vnslgkC7vnwlgkC7vm0lQkC7vm4lQkC7vm4lQkC7vm4lQkC6fnUlgkC6fnYlgkC6fnclgkC6fnglgkC6fnklgkC6fnolgkC6fnolgkC6fnolgkC6fnslgkC6fnslgkC6fnslgkC6fnwlgkC6fm0lQkCz6qg3wsCz6qg3wsC6fm4lQkC6fm4lQkC6fm4lQkC6PnUlgkC6PnYlgkC6PnclgkC6PnglgkC6PnolgkC6PnklgkC6PnslgkC6PnwlgkC6Pm0lQkC6/nUlgkC6Pm4lQkC6/nYlgkC6/nclgkC6/nglgkC6/nklgkC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" type="hidden">
+</div>
+
+
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+ 
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+ 
+_qevents.push({
+qacct:"p-8Jy3KE9b1NDH0"
+});
+</script>
+ 
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-8Jy3KE9b1NDH0.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+</form></body></html>
