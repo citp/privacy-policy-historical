@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mightycall.com privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018212728id_/http%3A//www.mightycall.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightycall.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507144738id_/http%3A//www.mightycall.com/privacy.html) for the most accurate reproduction.*
 
-# MightyCall Privacy Policy
+# Handle Customer Phone Calls, Email Requests & Social Media Inquires with Zero Dedicated Agents Required
 
 Welcome to the MightyCall.com Web site of Infratel US, Inc., a Washington corporation (together with its affiliates, “Infratel,” “we,” or “us”). This privacy policy covers the website and services made available from infratel.com, mightycall.com or otherwise by Infratel (referred to in this policy collectively as the “Service”).
 
 **Our Commitment To Privacy**
 
-Your privacy is important to us. To better protect your privacy, we provide this notice describing our collection, use and disclosure of information, including personal information, that may be collected in connection with our Service. This policy is incorporated and subject to our Terms of Use located at [link to Terms of Use] and, if you subscribe to paid portions of our Service, this policy is also incorporated and subject to our Terms of Service <http://www.mightycall.com/terms.html> or other service agreement.
+Your privacy is important to us. To better protect your privacy, we provide this notice describing our collection, use and disclosure of information, including personal information, that may be collected in connection with our Service. If you subscribe to our Service, this policy is incorporated and subject to our Terms of Service [http://www.mightycall.com/terms.html](https://www.mightycall.com/terms.html).
 
 **Personal Information**
 
@@ -78,7 +78,7 @@ We may change this policy from time to time. If we make any changes to this poli
 
 If you have questions about this privacy policy, please send written correspondence to:
 
-C/O Privacy Concerns for infratel.com  
+C/O Privacy Concerns for MightyCall.com  
 Infratel Inc.  
 1424 4th Ave  
 Suite 900  
