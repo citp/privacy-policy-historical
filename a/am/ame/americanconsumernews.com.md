@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the americanconsumernews.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129071807id_/http%3A//www.americanconsumernews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanconsumernews.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507100903id_/http%3A//www.americanconsumernews.com/privacy) for the most accurate reproduction.*
 
-# Privacy and Advertising Disclosures | American Consumer News
+# Privacy and Advertising Disclosures | Personal Finance News
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us using any of the methods listed on our contact page
 
