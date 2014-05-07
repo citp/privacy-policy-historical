@@ -1,30 +1,110 @@
-> *The following text is extracted and transformed from the storyboardthat.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216064351id_/http%3A//www.storyboardthat.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storyboardthat.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508002859id_/http%3A//www.storyboardthat.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Storyboard That
 
-## Privacy Policy
+## Introduction
 
-This website and any other URLs and websites administered by Clever Prototypes, LLC (the sole owner of Storyboard That) and its affiliates (collectively, the “Website”) are offered by Clever Prototypes, LLC and its affiliates (collectively, “Clever Prototypes, LLC” or “we” “our” or “us”) to you, the user, subject to your acceptance of all the terms and conditions in the Terms of Service and as set forth below ("Privacy Policy"). The terms "you" “your” and "user" refers to all individuals and entities that access the Website(s). 
+This privacy policy (“Policy”) is designed to inform users of the Storyboard That service, including all associated websites (collectively, the “Service”) about how Clever Prototypes, LLC (“Clever Prototypes,” “we” or “us”) gathers and uses personal information collected by us in connection with the Service. We will take reasonable steps to protect user privacy consistent with the guidelines set forth in this policy and with applicable U.S. laws. In this policy, “user” or “you” means any person using or otherwise benefiting from the Service or otherwise submitting personal information to Clever Prototypes via the Service. BY ACCESSING OR USING THE SERVICE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THE SERVICE.
 
-This Privacy Policy may be updated from time to time for any reason. It is the responsibility of all users of the Website to revisit this page to check for changes. Please read this Privacy Policy carefully before accessing or using the Website. By accessing or using any part of the Website, you agree to become bound by the terms and conditions of this Agreement. If you do not agree to this Privacy Policy, then you may not access the Website or use any services. 
+## What Information Do We Collect?
 
-By using Clever Prototypes, LLC you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing" means using cookies on a computer or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the U.S. your personally identifiable information will be transferred to the U.S., and processed and stored there under U.S. privacy standards. By visiting our Site and providing information to us, you consent to such transfer to, and processing in, the US. 
+### Limited Personal Information: 
 
-If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please contact us at [support@storyboardthat.com](mailto:support@storyboardthat.com). 
+We collect the following personal information in connection with the Service: (a) if you register as a Clever Prototypes user directly, we will collect the personal information you submit to us to build your user profile, including your name, email address, and zip code; (b) if you pay fees by credit card, we may collect the name, expiration date and credit card number for the relevant card; and (c) if you communicate with us by email, we will collect your email address. All of this information is referred to in this Policy as “Personal Information”.
 
-  1. Registration is required in order to use the Website or gain access to the entire Website, if you decide to register, you must complete the Clever Prototypes, LLC registration process. If you choose to register, you must submit a valid e-mail address and select a password during the registration process. You will need to give us certain Personally Identifiable Information, such as your name, a valid e-mail address and zip code, and for paid accounts a mailing or billing address, and phone number. This Personally Identifiable Information will be used by Clever Prototypes, LLC to manage your billing account and personalize and improve your experience with our Service. This information will not be disclosed to any third-party except as provided in our Privacy Policy. You agree that all information provided by you to Clever Prototypes, LLC is true, accurate, valid, current and complete.
-  2. You can review and change your Personally Identifiable Information or password at any time by going to our "My Account" page after logging in.
-  3. Website information of users of our Service (site name, site, statistics data etc.) may be utilized by Clever Prototypes, LLC for general promotional uses (e.g. a directory of sites using our Service within Clever Prototypes, LLC)
-  4. This website uses Google Analytics, a web analytics service provided by Google, Inc. (”Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google. Google will use this information for the purpose of evaluating your use of the website, compiling reports on web site activity for web site operators and providing other services relating to web site activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this Website. By using this Website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
-  5. In addition, we may use your contact information to market to you, and provide you with information about, our products and services, including but not limited to services on the Website. If you decide at any time that you no longer wish to receive such information or communications from us, please follow the unsubscribe instructions provided in any of the communications.
-  6. We engage certain trusted third parties to perform functions and provide services to us, including, without limitation, hosting and maintenance, customer relationship, database storage and management, and direct marketing campaigns. We will share your personally identifiable information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your data.
-  7. Clever Prototypes, LLC may sell, transfer or otherwise share some or all of its assets, including your personally identifiable information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. You will have the opportunity to opt out of any such transfer if the new entity's planned processing of your information differs materially from that set forth in this Privacy Policy.
-  8. Security. Clever Prototypes, LLC believes in the privacy of our Website users. We safeguard the confidentiality of your personally identifiable information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access. We will make any legally-required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored personal data to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
-  9. All payments are handled by Pay Pal. Please refer to their site for how they handle payment information.
-  10. The Site is not directed to persons under 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at [support@storyboardthat.com](mailto:support@storyboardthat.com). We will take actions to promptly remove such data. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete such information from our files.
-  11. Clever Prototypes, LLC and messages posted/advertising forwards through Clever Prototypes, LLC may contain links or references to other websites. Clever Prototypes, LLC is not responsible for the privacy policies of any third party site or for how they treat information about their users. These third party sites may place their own cookies on your computer, collect data, or solicit personal information. You may be consenting to those websites through use of ours. We encourage you to read the privacy policies or statements and terms of service for each of the other websites you visit.
-  12. Certain information is used in the aggregate to provide analytics to Clever Prototypes, LLC. This information is not tied to you personally but may contain demographic information about our users in part or as a whole. This aggregate and non-personally identifiable information may be used by Clever Prototypes, LLC and shared with or sold to third-parties.
-  13. From time to time Clever Prototypes will delete data associated with inactive accounts. We retain the rights to leave any public storyboard on our website and still attribute it to the original author’s username.
-  14. Clever Prototypes complies with applicable laws and regulations for the United States of America, where we and our servers are located
+### Other Personal Identifiers:
+
+Apart from the limited personal information described above, Clever Prototypes does not collect and does not wish to receive any personally identifying information. Without limitation, you shall not submit to Clever Prototypes any social security number, financial account number, credit or debit card number (other than the number of the card paying for the Service), driver’s license number or government ID number. To the extent schools, parents, guardians, or teachers create accounts for students under 13 years of age, we may collect first and last names and e-mail addresses from those schools, parents, guardians, or teacher for the sole purpose of rendering the Service, and will otherwise take steps to maintain the confidentiality, security, and integrity thereof. Children under 13 years of age that use the Service under the supervision of a school, parent, guardian, or teacher are not permitted to provide or upload any personal information.
+
+### User Data:
+
+The Service allows all users to create storyboards using data provided by Clever Prototypes and, optionally, data provided by users. All data uploaded by users is referred to in this Policy as “User Data.” 
+
+### Web Tracking Information:
+
+We, and our third party service providers, may use web tracking technologies such as cookies, web beacons, pixel tags and clear GIFs in order to operate the Service efficiently and to collect data related to usage of the Service. Such collected data (“Web Tracking Information”) may include the address of the websites you visited before and after you visited the Service, the type of browser you are using, your Internet Protocol (IP) address, what pages in the Service you visit and what links you clicked on, and whether you opened email communications we send to you. In order to collect Web Tracking Information and to make your use of the Service more efficient, we may store cookies on your computer. We may also use web tracking technologies that are placed in web pages on the Service or in email communications to collect information about actions that users take when they interact with the Service or such email communications, and Clever Prototypes’ Contractors (as defined herein) may also do so. We do not correlate Web Tracking Information to individual user Personal Information, except for internal operational, product development, and administrative purposes of the Service. Some Web Tracking Information may include data, such as IP address data, that is unique to you. You may be able to modify your browser settings to alter which web tracking technologies are permitted when you use the Service, but this may affect the performance of the Service.
+
+## How Do We Use the Information We Collect?
+
+### Personal Information: 
+
+Your Personal Information may be supplemented with additional information regarding your activities on the Service; to the extent that such information is linked specifically to you, we will treat that additional information as your Personal Information. We may use your email address to send you marketing materials about Clever Prototypes and its products and services. We may also use Personal Information for the internal operational, product development, and administrative purposes of the Service.
+
+### User Data:
+
+We collect and stores User Data in order to provide the Service to you, and it may be used for the internal operational, product development, and administrative purposes of the Service If you create storyboards that incorporate User Data with a Free Account, or if otherwise marked for publication, User Data will be accessible to the public via the Service and via third-party search engines.
+
+### Web Tracking Information: 
+
+We use Web Tracking Information to administer the Service and to understand how well our Service is working, to store your user preferences, and to develop statistical information on usage of the Service. This allows us to determine which features and content users like best to help us improve our Service, to personalize your user experience, and to measure overall effectiveness.
+
+### Aggregate Information: 
+
+We will also create statistical, aggregated data relating to our users and the Service for analytical purposes. Aggregated data is derived from Personal Information and User Data but in its aggregated form it does not duplicate or reveal any User Data or relate to or identify any individual. This data is used to understand our customer base and to develop, improve and market our services
+
+## What Information Do We Disclose to Third Parties?
+
+### Personal Information and User Data:
+
+We will not disclose your Personal Information or User Data to any third parties except as follows: 
+
+  * (i) to third party contractors engaged to provide services on our behalf (“Contractors”), such as performing marketing, analyzing data and usage of the Service, hosting and operating the Service or providing support and maintenance services for the Service, or providing customer service. We enter into agreements with all Contractors that require Contractors to use the Personal Information they receive only to perform services for us. 
+  * (ii) when we have your consent to share the information.
 
 
+
+User Data is not disclosed to third parties, except to the extent it is included in storyboards created under Free Accounts, or otherwise shared by or made public by the user.
+
+###  Email Communications:
+
+If you register and provide your email address, we will send you administrative and promotional emails. If you wish to opt out of promotional emails, you may do so by following the “unsubscribe” instructions in the email, or by editing your account settings. All users receive administrative emails, and so you cannot opt out of them while you remain registered. 
+
+### Web Tracking Information: 
+
+We disclose Web Tracking Information to Contractors, in order to analyze the performance of the Service and the behavior of users, and to operate and improve the Service. 
+
+### Aggregate Information: 
+
+We may disclose aggregated data that does not contain Personal Information or User Data to any third parties, such as potential customers, business partners, and funding sources, in order to describe our business and operations.
+
+### Network Operators:
+
+Use of the Service may involve use of the services of third party telecommunications carriers. Such carriers are not our contractors, and any information that a carrier collects in connection with your use of the Service is not “Personal Information” and is not subject to this Privacy Policy. We are not responsible for the acts or omissions of telecommunications carriers.
+
+### Legal Exception:
+
+Notwithstanding the above, we may in any event use Personal Information and other information collected through the Service to the extent required by law or legal process, to resolve disputes, to enforce our agreements (including this Privacy Policy and the Terms of Service <https://www.storyboardthat.com/about/terms-of-use>) with you, or if in our reasonable discretion use is necessary to protect our legal rights or to protect third parties.
+
+### Additional Disclosures: 
+
+We reserve the right to disclose any information we collect in connection with the Service, including Personal Information, (a) to any successor to our business as a result of any merger, acquisition, asset sale or similar transaction; and (b) to any law enforcement, judicial authority, or governmental or regulatory authority, to the extent required by law or if in our reasonable discretion disclosure is necessary to enforce or protect our legal rights or to protect third parties.
+
+## Privacy Settings/Opt Out
+
+If you would like your name and email address permanently removed from our database, please contact us at [Help@StoryboardThat.com](mailto:Help@StoryboardThat.com). We will promptly delete your name and email address and you will no longer receive email from Clever Prototypes. Your removal from the mailing list or database will not remove User Data you have submitted to us or records of past use of the Service, nor delete information stored in our data backups and archives. User Data, including User Data submitted, data on past queries and data stored in backups and archives will be maintained and/or deleted in the ordinary course of Clever Prototypes’ business. Clever Prototypes does not provide copies of User Data to its customers.
+
+## General
+
+### Security:
+
+We use reasonable security precautions to protect the security and integrity of your Personal Information in accordance with this policy and applicable law. However, no Internet transmission is completely secure, and we cannot guarantee that security breaches will not occur. Without limitation of the foregoing, we are not responsible for the actions of hackers and other unauthorized third parties that breach our reasonable security procedures.
+
+### Links:
+
+The Clever Prototypes Service may contain links to other websites as services, including payment services. Clever Prototypes is not responsible for the privacy practices or the content of those websites. Users should be aware of this when they leave our Service and review the privacy statements of each third party website. This Privacy Policy applies solely to information collected by the Service.
+
+### Amendments:
+
+Clever Prototypes may modify or amend this policy from time to time. If we make any material changes, as determined by Clever Prototypes, in the way in which Personal Information is collected, used or transferred, we will notify you of these changes by modification of this Privacy Policy, which will be available for review by you at the Service. Notwithstanding any modifications we may make, any Personal Information collected by Clever Prototypes from you will be treated in accordance with the privacy policy in effect at the time information was collected, unless we obtain your consent otherwise.
+
+### Children:
+
+Clever Prototypes does not knowingly collect or maintain personally identifiable information from persons under 13 years of age, and the Service may only be used by persons under 13 years of age under the supervision of a school, parent, guardian, or teacher. If you are under 13 years of age, you may not register for the Service on your own, and you may not provide any Personal Information. If Clever Prototypes learns that personally identifiable information of persons less than 13 years of age has been provided, then Clever Prototypes will take the appropriate steps to delete this information. To make such a request, please contact us at [Help@StoryboardThat.com](mailto:Help@StoryboardThat.com). 
+
+### Service Visitors from outside the United States: 
+
+Clever Prototypes and its servers are located in the United States and are subject to the applicable state and federal laws of the United States. If you choose to access or use the Service, you consent to the use and disclosure of information in accordance with this privacy policy and subject to such laws.
+
+* * *
+
+Effective Date of this policy: January 25, 2014 
