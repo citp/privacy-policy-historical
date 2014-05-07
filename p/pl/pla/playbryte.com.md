@@ -1,95 +1,86 @@
-> *The following text is extracted and transformed from the playbryte.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127084458id_/http%3A//www.playbryte.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playbryte.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507224503id_/http%3A//playbryte.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**PLAYBRYTE PRIVACY POLICY**
+Fusion Install is a download manager that will manage the download and installation of your chosen software. All selected software will be downloaded to a temporary directory and installed automatically. 
 
-**MAY CHANGE FROM TIME TO TIME**
+Fusion Install has established this Privacy Policy to inform you how we collect and use information and to allow you to make an informed decision about how you will use our Services. Our "Services" include the Fusion Install software, and all related services, applications, components, programs, software, listings, directories, tools, databases and information made available and utilized through each of the foregoing. References to “you” in this Agreement means you, your duly authorized representatives and any entity you may represent in connection with your use of the Services. 
 
-**PLEASE CHECK BACK FREQUENTLY FOR UPDATES**
+By using our Services, you are consenting to the terms of this Privacy Policy and acknowledge that information you provide to us through the Services will be subject to our information practices disclosed herein. If you do not agree to be bound by this Privacy Policy, you should not use our Services. 
 
-**Effective as of March 14, 2013**
+This Privacy Policy addresses only our practices with respect to information we collect about you in the course of using our Services and does not apply to information about you that might be collected by a third party website or an offering linked to or otherwise accessible from our Services. Any information collected, obtained and/or used by any such third parties is subject to the privacy policies of those third parties. We encourage you to review the policies of such third parties. Finally, to the extent any of our Services are undertaken in conjunction with or as a co-branded service with a third party, then both our Privacy Policy and such third party’s privacy policy may apply. 
 
-PlayBryte has established this Privacy Policy to disclose our information gathering and dissemination practices for the [www.playbryte.com](http://www.playbryte.com/) website and our Services, and to allow you to make an informed decision about how you will use our Services.  Our "Services" include [www.playbryte.com](http://www.playbryte.com/), the services provided thereon, and all related services, applications, components, programs, software, listings, directories, tools, databases and information made available and utilized.  References to "you" in this Agreement means you, your duly authorized representatives and any entity you may represent in connection with your use of the Services. 
+Based on the Services you use, the information we may have access to, obtain, retain and use may include: 
 
-By using our Services, you are consenting to the terms of this Privacy Policy.  If you do not agree to be bound by this Privacy Policy, you should not use our Services. We reserve the right to enter into new or different lines of business with consumers and if and to the extent we do, we may display a different privacy policy to the consumer for such lines of business. 
-
-This Privacy Policy addresses only our practices with respect to information we collect in the course of using our Services and does not apply to information about you that might be collected by a third party website or an offering linked to or otherwise accessible from our Services.  Any information collected, obtained and/or used by any such third parties is subject to the privacy policies of those third parties.  We encourage you to review the policies of such third parties. Finally, to the extent any of our Services are undertaken in conjunction with or as a co-branded service with a third party, then both our Privacy Policy and such third party's privacy policy may apply. 
-
-**1.              ****Collection of Information**
-
-PlayBryte does not, generally, track or maintain personally identifiable information about consumers that use our Services. The only personally-identifiable information collected through the use of our Services is gathered upon your contacting us so that we may respond to your questions or comments.  When you use or interact with our Services, we may collect certain anonymous information that is not sufficient to permit someone to identify you by name, email address, mailing address, telephone number, social security number, driver's license or other government-issued identification.  The anonymous information we may have access to, obtain, retain and use may include: 
-
-  * Information about your use of our Services, such as the frequency with which you use them, how you use and interact with them, when you visit them, and your responses to the offerings and advertisements made available to you through them, among other things; and 
+  * Information made available by you in the course of normal use of our Services such as, but not limited to, the features of the system that you use and how you use them 
+  * Information about your interaction with our websites you visit 
+  * Information about any interactions you might have with our customer service tools and personnel about your use of our Services 
+  * Other information that may be obtained based on your use of a particular Service or offering; and/or 
   * Information of a technical nature that may be gathered or received when you use the Services, including, without limitation, the following: 
-    * The type of browser you are using when using our Services, including your browser's "user agent" (e.g., Internet Explorer, Safari, and other browsers); 
-    * Your operating system type, whether Mac OS, or Windows, and which version of Windows;
-    * Your Internet protocol (IP) address and information about the version of any software comprising a portion of the Services that you use;
-    * Any information that may be gathered regarding your geographic location and the domain name of your Internet service provider (ISP); and/or
-    * Diagnostic information which describes how our Services are operating on your system.
+    * The type of browser you are using when using our Services (e.g., Internet Explorer, Safari, and other browsers); 
+    * Your means of connecting to the Internet (e.g., connection speed through broadband or narrowband access); 
+    * Your operating system type, whether Windows XP, Mac OS, and CPU type (for example, Pentium); 
+    * Your Internet protocol (IP) address and information about the version of any software comprising a portion of the Services that you use; and/or 
+    * Any information that may be gathered regarding your geographic location and the domain name of your Internet service provider (ISP); 
+    * Diagnostic information which describes how our Services are operating on your system 
 
 
 
-All of the foregoing information is collectively referred to hereinafter as "Anonymous Information".  We may also supplement Anonymous Information with additional information from other third parties in some cases.  Additionally, those portions of the Services comprised of software have been configured to communicate to us any information relating to computer errors arising from use of such software, without providing any notice to you of the delivery of such communications. Such communications may include the configuration settings applicable at the time of the error. We use this data to help us clarify and fix performance issues with and to improve the software and the Services. 
+All of the foregoing information is collectively referred to hereinafter as Your Fusion Install Information. We may also supplement Your Fusion Install Information with additional information from other third parties in some cases. Additionally, those portions of the Services comprised of software have been configured to communicate to us any information relating to computer errors arising from use of such software, without providing any notice to you of the deliver of such communications. Such communications may include the configuration settings applicable at the time of the error. We use this data to help us clarify and fix performance issues with and to improve the software and the Services. 
 
-**2. Use of Information**
+Your Fusion Install Information is used to 
 
-(a) Anonymous Information is used to (i) operate and improve upon the Services, including all constituent parts of the Services such as the software, the websites and the various offerings, among other things, (ii) research and analyze your use of the Services, and (iii) present you with offers for other products, offerings, programs, features and/or services that may be of interest to you. 
+  * Operate and improve upon the Services, including all constituent parts of the Services such as the software, the websites and the various offerings, among other things; 
+  * Satisfy your requests for products, offerings, programs, and services; 
+  * Respond to any inquiries, questions and/or comments you might have and to otherwise communicate with you; 
+  * Research and analyze your use of the Services; and 
+  * Present you with offers for other products, offerings, programs, features and/or services that may be of interest to you. 
 
-We will not share your Anonymous Information with third parties unless: 
+
+
+We will not share your Fusion Install Information with third parties unless: 
 
   * You have given us your prior consent to disclose such information; 
-  * The third party is our parent, subsidiary, or an affiliated company owned by our parent company; 
-  * We must disclose some or all of your Anonymous Information to authorized officers of the court in order to comply with valid legal process or to act in other urgent situations (as further discussed below); or
-  * Such information is needed by third-party advertising networks and advertisers who help deliver relevant In-text link ads and other ads when you are on a webpage. We only share anonymized or aggregated information with them to improve the relevancy of the ads you see. As mentioned below in section 3, these third-party advertising networks and advertisers may also use cookies and similar technologies to collect and track non-personally identifiable information such as demographic information, aggregated information, and Internet activity to assist them in delivering advertising that is more relevant to your interests. 
+  * To any of our parent or subsidiary companies. 
+  * Such information is needed to complete a transaction you have requested; 
+  * We must disclose some or all of Your Fusion Install Information to authorized officers of the court in order to comply with valid legal process or to act in other urgent situations (as further discussed below); 
+  * Such information is needed by a company that works for us in providing you with our Services, in which case they will only get that portion of Your Fusion Install Information they need to help us deliver our Services and they will only be allowed to use that portion of Your Fusion Install Information when we request it and pursuant to our instructions; and 
+  * Another party receives the information you provide through portions of our Services which may be “Co-Sponsored” with a third party. A “Co-Sponsored” page or service is one which has both our name, Fusion Install, on it and another party’s or parties’ name, branding, logos, graphics on it in such a way that is clear that it is a Co-Sponsored Service. Any information you voluntarily provide on a Co-Sponsored page or through a Co-Sponsored service will be accessible, retained and used by either party and in accordance with this Privacy Policy and the third party privacy policy. Accordingly, please be sure you have read both the partner's and Fusion Install's privacy policies before providing information to or on such Co-Sponsored service or webpage. 
 
 
 
-(b) We note above, but it is worth reiterating here, that your Anonymous Information, as well as other information about you as a user of our Services, may be disclosed by us to those authorized officers of the court in response to valid legal process, including without limitation, a valid court order, search warrant or subpoena), as well as in other circumstances if we believe in good faith that there is an emergency that poses a threat to the safety of you or another person or that the Services are being used in the commission of a crime by your or another third party. Furthermore, we may disclose your Anonymous Information to protect our own rights, Services and property or those of our affiliated providers, in addition to providing you with the Services. 
+We may use contractors and agents in order to help us operate and provide the Services. If any such contractors and agents have access to personally identifiable information, we require them to protect this information in a manner that is consistent with this Privacy Policy. Additionally, you should be aware that our own personnel may occasionally have access and be exposed to random information, some of which may be Your Fusion Install Information, as it goes through the Fusion Install servers. Our personnel are also obligated to comply with and to protect this information in conformity with our Privacy Policy. 
 
-(c) In the event that ownership of all or a portion of the Services currently provided by PlayBryte were to change as a result of a merger, acquisition or transfer to another company, your Anonymous Information may be transferred as well. 
+We note above, but it is worth reiterating here, that Your Fusion Install Information, as well as other information about you as a user of our Services, may be disclosed by us to those authorized officers of the court in response to valid legal process, including without limitation, a valid court order, search warrant or subpoena), as well as in other circumstances if we believe in good faith that there is an emergency that poses a threat to the safety of you or another person or that the Services are being used in the commission of a crime by your or another third party. Furthermore, we may disclose Your Fusion Install Information to protect our own rights, Services and property or those of our affiliated providers, in addition to providing you with the Services you have requested. 
 
-**3. Web Beacons and Cookies **
+In the event that ownership of all or a portion of the Services currently provided by Fusion Install were to change as a result of a merger, acquisition or transfer to another company, Your Fusion Install Information may be transferred as well. 
 
-(a) In providing the Services to you, we may use web beacons and cookies or similar technologies in conjunction with your Anonymous Information to personalize and improve your use of and experience with the Services, including, without limitation, to operate and improve the Service's offerings; to present, measure and research the effectiveness of our Service's offerings, advertisements, and communications to you, such as by determining which pages you visit, which ads you click on, communications you respond to, and functionality you use; to store and allow retrieval of information that you have provided to third party services that are integrated with the Services, and configuration preferences; and to customize the content and advertisements provided to you through the Services.  In addition, third party advertisers might also use cookies or web beacons downloaded through our Services to accomplish many similar goals in connection with the effectiveness of their advertising through our Services and in general.  We do not have access to the cookies or web beacons employed by advertisers through our Services and such cookies or web beacons are not governed by this Privacy Policy, but rather by the privacy policy of such advertiser.  The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted.  To opt out of these cookies, [click here.](http://playbryte.com/home/deactivate)
+In providing the Services to you, we may use web beacons and cookies or similar technologies in conjunction with Your Fusion Install Information to personalize and improve your use of and experience with the Services, including, without limitation, to operate and improve the Service’s offerings; to present, measure and research the effectiveness of our Service’s offerings, advertisements, and communications to you, such as by determining which pages you visit, which ads you click on, communications you respond to, and functionality you use; to store and allow retrieval of information that you have provided to third party services that are integrated with the Services, and configuration preferences; and to customize the content and advertisements provided to you through the Services. In addition, third party advertisers on our site might also use cookies or web beacons downloaded through our Services to accomplish many similar goals in connection with the effectiveness of their advertising through our Services and in general. We do not have access to the cookies or web beacons employed by advertisers through our Services and such cookies or web beacons are not governed by this Privacy Policy, but rather by the privacy policy of such advertiser. 
 
-(b) Web beacons or clear GIFs are relatively small pieces of code placed on webpages that can be used for a number of purposes, including counting the users who visit that webpage, or to deliver a cookie to the browser of a user viewing that page.  A cookie is a small text file transferred from Playbryte to your computer that records information about your preferences and use of the Services. We may also use such cookies to help us identify your location by determining your IP address, or to allow us to recall certain Service settings that you have chosen previously.  You can control cookies through your browser's settings. However, if you reject all cookies, you may not be able to take advantage of most our Service offerings. 
+Web beacons or clear GIFs are relatively small pieces of code placed on webpages that can be used for a number of purposes, including counting the users who visit that webpage, or to deliver a cookie to the browser of a user viewing that page. A cookie is a small text file transferred from Fusion Install to your computer that records information about your preferences and use of the Services. We may also use such cookies to help us identify your location by determining your IP address, or to allow us to recall certain Service settings that you have chosen previously. You can control cookies through your browser's settings. However, if you reject all cookies, you may not be able to take advantage of most our Service offerings. You can learn more about cookies and opting-out of the receipt of cookies at <http://www.aboutads.info/choices>; you can learn more about cookies in general from [http://www.cookiecentral.com](http://www.cookiecentral.com/). 
 
-**4. Username and Password **
+You are responsible for keeping the password you use for third party services that are integrated with the Services confidential and secret. As such and for other important security reasons, we urge you to keep any such password secure and safe at all times. By using our Services, you acknowledge that you and you alone are responsible for the security of any username and password. 
 
-You are responsible for keeping any password you use for third party services that are integrated with and/or accessed from the Services confidential and secret. As such and for other important security reasons, we urge you to keep any such password secure and safe at all times. By using our Services, you acknowledge that you and you alone are responsible for the security of any username and password. 
+Fusion Install has established safeguards and maintains strict protocols to help prevent unauthorized access to or misuse of Your Fusion Install Information. However, notwithstanding these safeguards and protocols, we cannot guarantee that your personally identifiable information will never be disclosed in a manner inconsistent with this Privacy Policy. As an example, a third party may act in an unauthorized manner, including by violating applicable law and/or our Terms of Use, End User License Agreement, and this Privacy Policy (collectively, our “Terms of Service”) in order to access the Services in a manner which would allow access to your personally identifiable information. 
 
-**5. We Are Committed to Security **
+Any time you receive files over the Internet from third parties, regardless of the application used, whether Fusion Install, email or other application, you may be subjecting yourself to receiving harmful files or files that are not compatible with your operating system. Prior to accepting any files from any Internet user, including those from an account that appears familiar to you, we highly recommend verifying that the person sending you such files is the person you believe he or she is. You should be extremely careful about accepting files from users you do not trust, from users you do not know, or from users whose identity you have not been able to confirm. You should also be aware that communications sent over the Internet are not secure unless they are encrypted. Fusion Install does not encrypt your communications through the Services. Further, your communications made through Fusion Install may be routed through different countries which may have different laws, rules, regulations and standards regarding activities on the Internet. As such, Fusion Install cannot accept any responsibility for any unauthorized access to your communications made through the Services or any loss of data. 
 
-PlayBryte stores Anonymous Information in a database on PlayBryte computers. These computers have security measures, such as a firewall, to protect against the loss, misuse, and alteration of the information under PlayBryte's control.  Notwithstanding such measures, PlayBryte cannot guarantee that its security or privacy protection measures will prevent its computers from being illegally accessed and the data on them stolen or altered. 
+Our Services are international in scope. By using the Services you consent to Your Fusion Install Information being sent and processed in other jurisdictions, including the United States and other jurisdictions outside the European Union and European Economic Area where there may be less stringent data protection laws. 
 
-**6. General Internet Hazards **
+Our Services are intended for a general audience, and children and minors under the age of eighteen are not permitted to use the Services, absent express consent from their parent or guardian. We do not intentionally solicit or collect personal information from anyone under the age of 18. If you believe that we might have any information from or about a child under age 18, please contact us at [legal@fusioninstall.com](mailto:legal@fusioninstall.com) and we will remove it. 
 
-Any time you receive files over the Internet from third parties, regardless of the application used, whether PlayBryte, email or other application, you may be subjecting yourself to receiving harmful files or files that are not compatible with your operating system. Prior to accepting any files from any Internet user, including those from an account that appears familiar to you, we highly recommend verifying that the person sending you such files is the person you believe he or she is.  You should be extremely careful about accepting files from users you do not trust, from users you do not know, or from users whose identity you have not been able to confirm. You should also be aware that communications sent over the Internet are not secure unless they are encrypted.  PlayBryte does not encrypt your communications through the Services.  Further, your communications made through PlayBryte may be routed through different countries which may have different laws, rules, regulations and standards regarding activities on the Internet.  As such, PlayBryte cannot accept any responsibility for any unauthorized access to your communications made through the Services or any loss of data. 
+If you are a parent or guardian who approves of your minor’s use of the Services, please contact us at the same email address, and provide the age and email address of the your minor on whose behalf you are contacting us. 
 
-**7. European Union Members - International Transfer of Data **
+Fusion Install may update this Privacy Policy from time to time in its sole discretion, as reflected in the Effective Date above. As such, if you wish to be notified of any changes to this Privacy Policy, you should review this Privacy Policy frequently. This Privacy Policy is subject to our Terms of Use and End User License Agreement with respect to governing law, venue, dispute resolution, limitation of damages and intellectual property ownership. 
 
-Our Services are international in scope.  By using the Services you consent to your Anonymous Information and any personal information that you provide to us being sent and processed in other jurisdictions, including the United States and other jurisdictions outside the European Union and European Economic Area where there may be less stringent data protection laws. 
+Any references made in this Privacy Policy to “us”, “we”, “our”, and/or "Fusion Install" shall be deemed to have been made to Fusion Install, its subsidiaries, affiliates, successors, assignees, as well as any company that controls Fusion Install, directly or indirectly, and any other subsidiary of that controlling company. 
 
-**8. Children **
+For more information about protecting your privacy, you may wish to visit http://www.netcoalition.com and http://www.privacyalliance.org. In addition, the Federal Trade Commission Consumer Response Center offers a helpline at 1-877-FTC-HELP (1-877-382-4357) to allow consumers to make comments or inquiries regarding companies and business practices. 
 
-Our Services are intended for a general audience, and children under the age of thirteen are not permitted to use the Services.  We do not intentionally solicit or collect personal information from anyone under the age of 13.  If you believe that we might have any information from or about a child under age 13, please contact us through our contact form at: <http://www.playbryte.com/contact>. We strongly recommend that minors between the ages of 13 and 18 ask their parents' permission before sending information about themselves to anyone over the Internet or receiving any information from persons unknown to them. 
+We do not currently have a mechanism to respond to any “do not track” signals from which a web browser may send or receive. However, if you have questions about this Privacy Policy, if you would like access to your personal information to correct, update or delete it, or if you would like to notify us of your choice to opt out of any sharing of your personal information, please contact us at legal@fusioninstall.com or write to us at: 
 
-**9. Changes to this Privacy Policy **
-
-PlayBryte may update this Privacy Policy from time to time in its sole discretion, as reflected in the "Effective as of" date above. As such, you should review this Privacy Policy frequently. 
-
-**10. Who We Are **
-
-Any references made in this Privacy Policy to "us", "we", "our" and/or "PlayBryte" shall be deemed to have been made to MIVA AK, Inc., as well as any company that controls MIVA AK, Inc., directly or indirectly, and any other subsidiary of that controlling company.
-
-**11. More Information**
-
-For more information about protecting your privacy, you may wish to visit http://www.netcoalition.com and http://www.privacyalliance.org.  In addition, the Federal Trade Commission Consumer Response Center offers a helpline at 1-877-FTC-HELP (1-877-382-4357) to allow consumers to make comments or inquiries regarding companies and business practices. 
-
-If you have questions about this Privacy Policy, please contact us through our contact form at <http://www.playbryte.com/contact> or write to us at:
-
-PlayBryte  
-Attn: Legal Department   
-5220 Summerlin Commons Blvd., Suite 501   
-Fort Myers, FL 33907
+Fusion Install   
+Attn: Privacy and Compliance Group   
+21301 S Tamiami Trail   
+Suite 320 #108   
+Estero, FL 33928 
