@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the susu.org privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103184239id_/http%3A//www.susu.org/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the susu.org privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507140450id_/https%3A//www.susu.org/about/privacy-policy.html) for the most accurate reproduction.*
 
 # SUSU - About - Privacy Policy
 
-## Privacy Policy
+The University of Southampton Students’ Union ("SUSU") is committed to safeguarding your privacy online. This Privacy Statement applies to the SUSU.ORG network of websites. Please read the following policy to understand how your personal information will be treated as you make full use of our software and website. We regularly make improvements to our software and website and in order to keep up with these changes, SUSU reserves the right to change this privacy policy from time to time, so please check back periodically. Users may review updates to this Privacy Statement at any time via links on our site. 
 
-Southampton University Students’ Union ("SUSU") is committed to safeguarding your privacy online. This Privacy Statement applies to the SUSU.ORG network of websites. Please read the following policy to understand how your personal information will be treated as you make full use of our software and website. We regularly make improvements to our software and website and in order to keep up with these changes, SUSU reserves the right to change this privacy policy from time to time, so please check back periodically. Users may review updates to this Privacy Statement at any time via links on our site. 
+This policy sets out the terms relevant to SUSU's processing of data obtained as a result of your use of our websites and our obligations under the Data Protection Act 1998 ("the Act"). Any personal information provided by users will be processed in accordance with the Act. The data controller is the University of Southampton Student's Union, unless otherwise stated.
 
 ### Gathering and Use of Personally Identifiable Information. 
 
