@@ -1,121 +1,59 @@
-> *The following text is extracted and transformed from the kidzbop.com privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922060614id_/http%3A//www.kidzbop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzbop.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507132458id_/http%3A//kidzbop.com/privacy-policy) for the most accurate reproduction.*
 
-# Kidz Bop - Kids Videos, Games, Music, Contests, Polls, Fun, Creativity, and Cool Stuff
+# KIDZ BOP | Privacy Policy - KIDZ BOP
 
-### WHAT IS KIDZBOP.com?
+This policy was last updated on February 5, 2014
 
-KIDZBOP.com is a FREE and SAFE social network and video sharing site just for kids. At KIDZBOP.com we offer our Members the ability to express themselves safely by uploading user generated content (videos and photos). This content is pre-screened via our trained moderation staff, to ensure your child NEVER shares or displays any personally identifiable information other than their or their friends' image or voice. At KIDZBOP.com Members can safely express themselves (via our "Safe Text Messaging System") by creating "Status" updates on their Profile pages. They can also send and receive Friend Requests with other Members on our site. If your child and another Member become friends, we allow them to post text comments, via our "Safe Text Messaging System," on each others' videos, photos and Profile pages. To ensure the safety of this communication we have implemented state-of-the-art Crisp ([www.crisp.com](http://www.crisp.com/)) moderation software, which contains automatic filters that prevent members from easily sharing any personal information, and a back end moderation system which alerts our moderators to possible infractions that we can then investigate. In addition, we give your child the ability to easily delete any text comments they receive and to report any abuse by another member.
+**What is KIDZ BOP/KIDZBOP.com?  
+**KIDZ BOP records kid-friendly versions of today’s biggest pop music hits sung by kids, for kids. KIDZ BOP is a safe, fun way for families to enjoy music in their daily lives at home and in the car. On KIDZBOP.com, families can sample music from KIDZ BOP albums, watch the KIDZ BOP videos, learn how to tune into KIDZ BOP Radio and find out more about the KIDZ BOP Kids and live concert dates. There is a KIDZ BOP Shop which sells family-friendly compilation CDs. The products we sell are intended to be purchased by adults for children. The KIDZ BOP Shop does not solicit Personal Identification from children.
 
-Our website, KIDZBOP.com, is hosted by KIDZBOP, LLC a USA company with offices at 214 Sullivan Street 4th Floor NY, NY 10012.
+Our website, KIDZBOP.com, is hosted by KIDZ BOP, LLC a USA company with offices at 214 Sullivan Street 4th Floor NY, NY 10012.  
+If you have any questions about this privacy policy please contact us by email at: **privacy@kidzbop.com**
 
-### THE INFORMATION WE COLLECT IN REGISTRATION
+**Information we collect  
+**At KIDZBOP.com it’s our policy to collect a minimum amount of information from our visitors. There is no registration process but users can sign up for our email newsletters. Anyone wishing to sign up for email newsletters will be asked for the following information: first name, date of birth, email address, zip code. Your email address will never be revealed by us on the site and will never be shared with a 3rd Party for any reason outside of delivering and maintaining your email choice to receive our newsletter. KIDZ BOP, LLC is the sole owner of all information collected on KIDZBOP.com.
 
-At KIDZBOP.com it's our policy to collect a minimum amount of information from our visitors. When users, including children under 13, register on KIDZBOP.com we ask them for the following information: Membername, Password, Birth Date, Gender and Zip Code. We also ask all users to provide their parent or guardian's email address so the parent/guardian can approve their child's participation on our site. Children may provide their own email address if they wish to receive KIDZ BOP Email Alerts. Email Alerts are notifications that we send to your child's Profile page and, if your child requests, to their provided email address. Email Alerts are only active once a parent has approved their child's participation on our site. Your child's email address will never be revealed by us on the site and will never be shared with a 3rd Party for any reason. If a child gives us their email address to receive Email Alerts, we will only collect the child's first name and email address, and will then send the parent an email alerting them of this and provide the parent the ability to deactivate email alerts for their child's account. If the parent decides to deactivate Email Alerts we will delete the child's email address from our database. KIDZBOP, LLC is the sole owner of all information collected on KIDZBOP.com.
+**Information we collect from children  
+**If you are 12 or under you will need your parent’s permission to register for the newsletter. We will collect your parent’s email address, notify them and seek consent. KIDZBOP.com has engaged PRIVO and uses the secure PRIVO-Lock™ system to register your child and to obtain your consent. PRIVO-Lock™ provides parents with the tools necessary to administer their online activities on ours and on a growing number of web and mobile services. If we do not receive parent permission we will delete you and your child’s email address within reasonable time.
 
-### ABOUT COOKIES
+**About cookies  
+**A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. Cookies cannot damage user files, nor can they read information from a user’s hard drive. Cookies allow websites to “remember” user activities on a website as well as users visits to a site. We use cookies on this site. Our cookies do not contain any Personally Identifiable Information (PII). We may decide to use both session ID cookies and persistent cookies in the future. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.  
+[http://en.wikipedia.org/wiki/HTTP_cookie.](http://en.wikipedia.org/wiki/HTTP_cookie)
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. Cookies cannot damage user files, nor can they read information from a user's hard drive. Cookies allow websites to "remember" user activities on a website as well as users visits to a site. We use cookies on this site. We link the information we store in cookies to Personally Identifiable Information (PII) you submit while on our site. Our cookies themselves do not contain any Personally Identifiable Information (PII). Our cookies reference the PII you provided during registration. We reference the information you provided via an encrypted identifier. Where we link these unique identifiers with your PII, we will treat the unique identifiers as PII as long as they are linked. We use the registration information you provided to contact you if you lose your password or contact you about site updates and changes.
+When a KIDZBOP.com visitor is using our site, KIDZ BOP, LLC collects certain non-personal information by placing and accessing cookies on the user’s computer. Cookies do not contain any personal information, so we do not use cookies (or other covert or non-consensual methods) to acquire contact information about the user or other users of the computer.
 
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file.<http://en.wikipedia.org/wiki/HTTP_cookie>.
+**Third party cookies**  
+The use of cookies by our affiliates and/or service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our affiliates or service providers use session ID cookies to provide demographic and metrics information to KIDZ BOP, LLC and to make it easier for you to navigate our site.
 
-When a KIDZBOP.com member is using our site, KIDZBOP, LLC collects certain non-personal information by placing and accessing cookies on the user's computer. Cookies do not contain any personal information, so we do not use cookies (or other covert or non-consensual methods) to acquire contact information about the user or other users of the computer.
+**Information sharing and disclosure  
+**KIDZ BOP, LLC does not share, rent or trade personally identifying information about our users, including kids under 13, with 3rd Parties (i.e., companies who are not providing support to the internal operations of our company).  
+KIDZ BOP, LLC may share other information submitted on its site – non-personal information – to provide requested products or services, if permission is granted, or under the following circumstances:  
+• We share personal information in certain cases in order to prevent, take action against or investigate situations regarding illegal activities, fraud or suspected fraud, events in which threats or potential threats to the physical safety of any person or persons is evident, when violations of KIDZBOP.com’s terms of use occur, or in other situations required by law.  
+• We respond to subpoenas, court orders and other legal processes, or make use of information in exercising our legal rights or establishing defense against legal claims.  
+• We transfer information about users if KIDZ BOP, LLC is acquired by or merged with another company. In this event, KIDZ BOP, LLC notifies the user in advance of any information transfer and before it may become subject to any other privacy policy.  
+• We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
-### THIRD PARTY COOKIES
+**Parental Rights  
+**• Parents and legal guardians of kids who have registered for KIDZBOP.com email newsletters have certain rights under COPPA, and KIDZ BOP, LLC recognizes those rights. Parents/guardians can consent to collection and use of a child’s email address without consenting to the disclosure of information to third parties. If a parent revokes consent, we will delete the email address within a reasonable time period.  
+• Parents/guardians contact our Customer Services department by email at [parenthelp@kidzbop.com](mailto:parenthelp@kidzbop.com). Parents should include their (parent/guardian) email address in the email so we can better assist them with their inquiry or request. KIDZ BOP may ask additional questions or take other steps to verify the identity of parents/guardians before responding to a request to review or delete their child’s information.
 
-The use of cookies by our affiliates and/or service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our affiliates or service providers use session ID cookies to provide demographic and metrics information to KIDZBOP, LLC and to make it easier for you to navigate our site.
+**Links to other sites  
+**We provide links to social media website pages. We do not collect or share any information with these sites. We have no control over these sites which may have different information collection and use practices. Users and Parents/guardians should always read a company’s privacy policy carefully, including those companies to whom we provide links, before submitting information to them.
 
-### USE OF THE INFORMATION WE COLLECT
+**Opting out of newsletters, amending or deleting your email address  
+**If you no longer wish to receive any communications from KIDZBOP.com, you may opt-out of receiving them by following the instructions included in each email. You may also communicate with us via email at [parenthelp@kidzbop.com](mailto:parenthelp@kidzbop.com) – if you wish to amend or delete your email address. If you would like to contact us in writing, please post your mail to: KIDZ BOP, LLC, 214 Sullivan Street 4th Floor NY, NY 10012.
 
-KIDZBOP.com uses the parent or guardian's email address provided at registration to notify parents that their child wishes to become a Member of KIDZBOP.com. In that initial notice, parents are provided a link to this privacy policy, and details about how their kids can use KIDZBOP.com. Parents are required to provide their consent before their child's accounts can be activated. Parent email addresses are used to communicate with parents about their kids in relation to their activity at KIDZBOP.com - such as a forgotten password or content their child has uploaded to our site. Upon activation of an account, the information submitted will be used by KIDZBOP, LLC to create a personalized "Profile" page for the user and will allow the registered user to participate on the KIDZBOP.com website, which contains a variety of interactive features. Within those features, users are identified in the community by their Membername, age, and gender. This limited (and non-personal) identifying information will be displayed to the child's friends and others who have obtained the child's Membername.
-
-At KIDZBOP.com we allow Members to submit user generated content (videos and photos). We pre-screen all content via our trained staff to ensure it contains no other personally identifiable information other than the members' image or voice, and that it follows our[The Kidz Bop Rules of Play](http://www.kidzbop.com/parents/#safety). If any user generated content we receive does not comply with our Kidz Bop Rules of Play, it will be flagged, will NOT appear on our site, and will automatically be deleted after 30 days. Additionally, the photos and videos that a child uploads may contain their or their friends' image or voice. Accordingly, before we allow any user generated content to be published to any public online service we offer, we ask parents to provide us with verifiable parental consent via one of a number of methods approved under COPPA.
-
-To make sure you are kept up to date on your child's activity on our site we send the parent an email when:
-
-  * **A Member has uploaded content, if the parent has yet to provide full parental verification for their child's account:** Every time a non-verified Member uploads any content to our site we email the parent/guardian to let them know, and ask them to fully authorize their child's account. If they decline, the content is deleted from our database.
-  * **A Member's content has been moderated:** Once a Member's parent has provided full parental verification for their child's account, our trained moderation staff will review any content that Member has uploaded. After reviewing the content we will email the parent to let them know whether or not their child's content followed [The Kidz Bop Rules of Play](http://www.kidzbop.com/parents/#safety). If the content was approved, we will email a link to view the content on our site. If the parent does not approve of the content their child has uploaded, their child has the ability to delete any user-generated content at anytime from their Profile page. The parent will be provided with login information during the parent notice and consent process. If the content is NOT approved, we will email the parent and let them know the reason the content was flagged. Flagged content will NOT appear on our site and will be automatically deleted from our database.
-
-
-
-Occasionally KIDZBOP.com will send emails to parents regarding updates to our site or new features that we think you should be aware of. We also need to contact you regarding any Customer Service requests that you submit and if your child forgets their password. We will ask for your explicit consent before opting the parent email into our parent communication outside of servicing the safety and integrity of the site.
-
-Children may provide their own email address if they wish to receive KIDZ BOP Email Alerts. Email Alerts are notifications that we send to your child's profile page and, if your child requests, to their provided email address. Email Alerts are only active once a parent has approved their child's participation on our site. Your child's email address will never be revealed by us on the site and will never be shared with a 3rd Party for any reason. If a child gives us their email address to receive Email Alerts, we will only collect the child's first name and email address, and will then send the parent an email alerting them of this and provide the parent the ability to deactivate email alerts for their child's account. If the parent decides to deactivate Email Alerts we will delete the child's email address from our database.
-
-We will only send your child an Email Alert for the following reasons:
-
-  * When a KIDZBOP.com Member sends your child a Friend Request
-  * When a KIDZBOP.com Member sends your child a pre-screened Video Shout Out
-  * When a KIDZBOP.com Member sends your child a pre-screened Webshow Video Shout Out
-  * When a KIDZBOP.com Member sends your child a pre-screened Video Shoutback to one of their videos
-  * When a KIDZBOP.com Member sends your child a Music Dedication
-  * When your child's Video, Video Shout Out, Video Shoutback, Webshow, Super Contest, Fan Page or Photo has been Approved or Flagged
-  * When we send your child a private KIDZ BOP Message alerting them that they've won a contest, that they're featured somewhere on the site, or answering a question they've posted in our Feedback section
-  * When we announce new product features, special offers or new content from KIDZ BOP or our partners via "KIDZ BOP Broadcast Alerts."
-
-
-
-Optionally, after the parent completes and activates their child's account, their child may provide their own phone number if they wish to receive KIDZ BOP Text Alerts. Text Alerts are SMS notifications that we send to your child's phone number. Message and data rates may apply. Your child will not receive Text Alerts until 48 hours after they sign up. They can change or cancel their Alerts at any time from their Profile Settings page. Your child's phone number will never be revealed by us on the site and will never be shared with a 3rd Party for any reason. If your child gives us their phone number to receive Text Alerts we send the parent an email notifying them of this and provide the parent the ability to deactivate Text Alerts for the child's account. If the parent decides to deactivate Text Alerts we will delete the child's phone number from our database.
-
-We will only send your child a Text Alert for the following reasons:
-
-  * Profile Update: to update your child on their Profile activity on the site (new friend requests, new Wall comments, new Video comments, new Photo comments, new Fan Page comments, new Shout Out videos). We will send up to 1 Profile Update SMS message per day.
-  * Upload Update: when your s Video, Video Shout Out, Video Shoutback, Webshow, Super Contest, Fan Page, or Photo has been approved and posted to the site.child
-  * KIDZ BOP Update: when we announce new product features, special offers or new content from KIDZ BOP or our partners via "KIDZ BOP Broadcast Announcements." We will send 1-2 KIDZ BOP Update SMS messages per week.
-
-
-
-At KIDZBOP.com Members can safely express themselves (via our "Safe Text Messaging System.") by creating "Status" updates on their Profile pages. To ensure the safety of this communication we have implemented state-of-the-art Crisp moderation software, which contains automatic filters that prevent members from easily sharing any personal information, and a back end moderation system which alerts our moderators to possible infractions that we can then investigate. In addition, we give your child the ability to easily delete any text comments they receive and to report any abuse by another Member.
-
-### INFORMATION SHARING AND DISCLOSURE
-
-KIDZBOP, LLC does not share, rent or trade personally identifying information about our registered users, including kids under 13, with non-affiliated third parties (i.e., companies who are not one of our corporate affiliates or who are not providing support to the internal operations of our company) for their promotional purposes. KIDZBOP, LLC makes every reasonable effort to disallow and discourage users and kids from sharing personally identifying information with each other via the interactive features via a filter system and our trained moderators. The only information that can be openly shared in the KIDZBOP.com features are Membernames (and we caution users not to select their real names), age, gender and moderated messages. Members who use our Safe Text Messaging System do have the opportunity to draft their own messages to their friends, but we employ various filters to prevent our Members from disclosing any critical personally identifiable information.
-
-KIDZBOP, LLC may share other information submitted on its site - non-personal information - to provide requested products or services, if permission is granted, or under the following circumstances:
-
-  * We share personal information in certain cases in order to prevent, take action against or investigate situations regarding illegal activities, fraud or suspected fraud, events in which threats or potential threats to the physical safety of any person or persons is evident, when violations of KIDZBOP.com's terms of use occur, or in other situations required by law.
-  * We respond to subpoenas, court orders and other legal processes, or make use of information in exercising our legal rights or establishing defense against legal claims.
-  * We transfer information about users if KIDZBOP, LLC is acquired by or merged with another company. In this event, KIDZBOP, LLC notifies the user in advance of any information transfer and before it may become subject to any other privacy policy.
-  * We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
-
-
-
-### PARENTAL RIGHTS
-
-Parents and legal guardians of kids who are members of KIDZBOP.com have certain rights under COPPA, and KIDZBOP, LLC recognizes those rights. Parents/guardians can consent to collection and use of a child's personally identifiable information (PII) without consenting to the disclosure of information to third parties. Without a proper level of parent consent, a child cannot fully use our community features. If a parent does not provide consent, we will delete the information provided during the registration process within a reasonable time period. A child's participation or access to an activity on our site is not conditioned on their providing more Personal Information than is reasonably necessary for the activity.
-
-Parents/guardians can review information their children have contributed to KIDZBOP.com, request that KIDZBOP, LLC delete that information, and refuse to allow KIDZBOP, LLC to collect further information from their kids by contacting our Customer Services department by email at [parenthelp@kidzbop.com](mailto:parenthelp@kidzbop.com). Parents should include their child's KIDZBOP.com Membername and the registered (parent/guardian) email address in the email so we can better assist them with their inquiry or request. KIDZBOP may ask additional questions or take other steps to verify the identity of parents/guardians before responding to a request to review or delete their child's information, or a request to refuse further collection from their child.
-
-### LINKS TO THIRD PARTY WEBSITES
-
-We provide links to third party websites, including links from advertisers, sponsors and commerce sites. Once they leave our site, he or she may submit information to a third party, over whom we have no authority or control, and who may have different information collection and use practices. Users and Parents/guardians should always read a company's privacy policy carefully, including those companies to whom we provide links, before submitting information to them.
-
-### DISCLOSURES
-
-If you use this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of this site, and could be used to send you unsolicited messages. Though we pre-moderate all user generated content (video and photo) and our SafeText Messaging System filters out a wide variety of personally identifiable information, we are not responsible for the personally identifiable information you choose to submit.
-
-### OPTING OUT
-
-If you no longer wish to receive any communications from KIDZBOP.com, you may opt-out of receiving them by following the instructions included in each email. You may also communicate with us via email at [parenthelp@kidzbop.com](mailto:parenthelp@kidzbop.com) \- please type UNSUBSCRIBE in the subject line. If you would like to contact us in writing, please post your mail to: KIDZBOP, LLC, 214 Sullivan Street 4th Floor NY, NY 10012.
-
-### UPDATING/ACCESSING/AMENDING/CORRECTING PERSONALLY IDENTIFIABLE INFORMATION
-
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by emailing our Customer Support at [parenthelp@kidzbop.com](mailto:parenthelp@kidzbop.com) or by contacting us by postal mail at the contact information listed above. We will respond to your request to change the information within 3 business days.
-
-### CONFIDENTIALITY AND SECURITY
-
-Information a user or child submits to KIDZBOP.com that relates to his or her account is password-protected. No employee of KIDZBOP, LLC nor any automated system will contact a user or parent by email or using the KIDZBOP.com mail address or messaging systems asking for a user or child login details, password or any other personal information related or unrelated to a KIDZ BOP service or product. If any message claiming or appearing to come from KIDZ BOP or any of its related websites is sent to you asking for such information, please report it immediately to [parenthelp@kidzbop.com](mailto:parenthelp@kidzbop.com).
-
+**Confidentiality and Security  
+**Information a user or child submits to KIDZBOP.com is password-protected. No employee of KIDZ BOP, LLC nor any automated system will contact a user or parent by email or using the KIDZBOP.com mail address. If any message claiming or appearing to come from KIDZ BOP or any of its related websites is sent to you asking for such information, please report it immediately to [parenthelp@kidzbop.com](mailto:parenthelp@kidzbop.com).  
 We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
 If you have any questions about security on our Web site, you can send us an email at [parenthelp@kidzbop.com](mailto:parenthelp@kidzbop.com)
 
-### CHANGES TO THIS PRIVACY POLICY
-
-The practices of KIDZBOP.com may alter from time to time. If we decide to change our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we make material changes to how we collect and use Personal Information from children under age 13, we will notify parents by email in order to obtain verifiable parental consent for the new uses of the child's Personal Information.
-
+**Changes to this privacy policy  
+**The practices of KIDZBOP.com may alter from time to time. If we decide to change our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we make material changes to how we collect and use Personal Information from children under age 13, we will notify parents by email in order to obtain verifiable parental consent for the new uses of the child’s Personal Information.  
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-### QUESTIONS AND SUGGESTIONS
+**Questions and suggestions  
+**If you have questions or suggestions, please email us at [parenthelp@kidzbop.com](mailto:parenthelp@kidzbop.com) or mail us at: Attn: Customer Service, KIDZ BOP, 214 Sullivan Street 4th Floor NY, NY 10012
 
-If you have questions or suggestions, please email us at [parenthelp@kidzbop.com](mailto:parenthelp@kidzbop.com) or mail us at: Attn: Customer Service, KIDZ BOP, 214 Sullivan Street 4th Floor NY, NY 10012.  
-Effective Date: 8/26/2013
+[](http://privo.com/privo-site-validation/?company=123)KIDZ BOP is a Member of the PRIVO’s PRIVO Cert™ Safe Harbor Certification Program (“the Program”). As a participating member in the Program, KIDZ BOP adheres to the strict information collection, use and disclosure requirements set forth by the Program. PRIVO is an independent, third party organization committed to safeguarding children’s personal information collected online. PRIVO aims to help parents and their children exercise control over personal information while exploring the Internet. The PRIVO certification seal posted on this page indicates that KIDZ BOP has established COPPA compliant privacy practices and has agreed to submit to PRIVO’s oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at 212-473-9173 or [privacy@kidzbop.com](mailto:privacy@kidzbop.com). If you have further concerns after you have contacted us, you can contact PRIVO directly at [privacy@privo.com](mailto:privacy@privo.com).
