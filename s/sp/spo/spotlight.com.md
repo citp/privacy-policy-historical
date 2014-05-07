@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spotlight.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106123039id_/http%3A//www.spotlight.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotlight.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507225425id_/http%3A//www.spotlight.com/aboutus/privacy) for the most accurate reproduction.*
 
 # Spotlight - professional acting jobs and auditions since 1927
 
@@ -10,7 +10,7 @@ Spotlight may change this policy occasionally by updating this page. You should 
 
 ### Definitions
 
-"You" means the user of the Site, "We/us" means Spotlight, "website" or "Site" means the sites located at [www.spotlight.com](http://www.spotlight.com/ "www.spotlight.com") and [www.spotlightagent.info](http://www.spotlightagent.info/ "www.spotlightagent.info") on the World Wide Web, "Content" means the information and other material available within the Site.
+"You" means the user of the Site, "We/us" means Spotlight, "website" or "Site" means the site located at [www.spotlight.com](http://www.spotlight.com/ "www.spotlight.com") on the World Wide Web, "Content" means the information and other material available within the Site.
 
 ### Collection and Use of Personal Information
 
@@ -106,11 +106,11 @@ An IP address is a number which is automatically assigned to your computer whene
 
  **1\. Research into improved technology and developing new functionality.**
 
-We are constantly looking for new ways to change and upgrade our services and the functionality that we can provide to you, including through the use of the latest technology. This may involve partnering with selected and trusted research organisations and technology providers to contribute to their research and innovation projects. Often the most innovative developments come from other industries or fields of research outside of our own, and the outputs of the research may have a broader application beyond the improvements from which we directly benefit. 
+We are constantly looking for new ways to change and upgrade our services and the functionality that we can provide to you, including through the use of the latest technology. This may involve partnering with selected and trusted research organisations and technology providers to contribute to their research and innovation projects. Often the most innovative developments come from other industries or fields of research outside of our own, and the outputs of the research may have a broader application beyond the improvements from which we directly benefit.
 
 As part of this research and to develop these improvements, our trusted partners may be given access to our systems and data and/or be provided with copies of our data, including member photos, video and audio clips, and other professional information. You acknowledge this disclosure of your professional information for the above purposes.
 
-In all such circumstances our partners' access to and use of this information will be strictly limited to specific research projects that may benefit Spotlight and our services to you, and will be under secure, confidential, temporary conditions and closed testing environments. Under no circumstances will this information be used for any commercial or live operational activity, other than to develop and test the specific technology and functionality. 
+In all such circumstances our partners' access to and use of this information will be strictly limited to specific research projects that may benefit Spotlight and our services to you, and will be under secure, confidential, temporary conditions and closed testing environments. Under no circumstances will this information be used for any commercial or live operational activity, other than to develop and test the specific technology and functionality.
 
 Your personal information and contact details will never be disclosed or used in this way.
 
