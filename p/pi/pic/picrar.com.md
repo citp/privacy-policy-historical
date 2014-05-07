@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picrar.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127161128id_/http%3A//www.picrar.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picrar.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507040617id_/http%3A//www.picrar.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Welcome to Picrar.com: The simple Free Image Hosting, Upload and sharer. Just browse, select and upload!
 
