@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolmomguide.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103010525id_/http%3A//www.momspective.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolmomguide.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507064250id_/http%3A//www.momspective.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Momspective
 
