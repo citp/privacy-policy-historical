@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nehruplacemarket.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211232535id_/http%3A//nehruplacemarket.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nehruplacemarket.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507032040id_/http%3A//www.nehruplacemarket.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - NehruPlace Market - Latest Computer Hardware Price List - Nehru Place IT Hub
 
