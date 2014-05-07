@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thoughtequity.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012211943id_/http%3A//www.t3licensing.com/video/home/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thoughtequity.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507083507id_/http%3A//www.t3licensing.com/license/home/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy - T3Media (Thought Equity)
 
@@ -8,7 +8,7 @@ Last Updated: April 11, 2012
 
 ## Our Commitment to Privacy
 
-T3Media, Inc. formerly known as T3Media, Inc. ( **“T3Media”** ) respects your right to privacy and utilizes the following practices ( **“Privacy Policy”** ) in regards to any information we are provided about users of the T3Media Websites located at [www.t3media.com](http://www.t3media.com/) and/or [www.t3licensing.com](http://www.t3licensing.com/) (individually and collectively, the **“Website”** ). Please review this Privacy Policy prior to using the T3Media Website since it may be changed periodically without notice to you. In addition, our [online terms of use](http://www.t3licensing.com/video/home/terms_of_use.do) ( **“Terms of Use”** ) describe the obligations and restrictions you agree to in exchange for being allowed to use our Website. Together, our Privacy Policy and Terms of Use form a legally binding contract between you and us. 
+T3Media, Inc. formerly known as T3Media, Inc. ( **“T3Media”** ) respects your right to privacy and utilizes the following practices ( **“Privacy Policy”** ) in regards to any information we are provided about users of the T3Media Websites located at [www.t3media.com](http://www.t3media.com/) and/or [www.t3licensing.com](http://www.t3licensing.com/) (individually and collectively, the **“Website”** ). Please review this Privacy Policy prior to using the T3Media Website since it may be changed periodically without notice to you. In addition, our [online terms of use](http://www.t3licensing.com/license/home/terms_of_use.do) ( **“Terms of Use”** ) describe the obligations and restrictions you agree to in exchange for being allowed to use our Website. Together, our Privacy Policy and Terms of Use form a legally binding contract between you and us. 
 
 In order to fulfill licensing transactions or provide service to you as a customer of T3Media, we may require you to provide certain information to us. Common items may include, but are not limited to, your name, address, email address, phone number and credit card information. 
 
