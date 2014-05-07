@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datacenterdynamics.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215105934id_/http%3A//www.datacenterdynamics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datacenterdynamics.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507041048id_/http%3A//www.datacenterdynamics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Datacenter Dynamics
 
