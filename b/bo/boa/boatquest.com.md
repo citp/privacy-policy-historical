@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boatquest.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101180409id_/http%3A//www.boatquest.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boatquest.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508004313id_/http%3A//www.boatquest.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BoatQuest
 
