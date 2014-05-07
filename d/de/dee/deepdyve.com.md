@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the deepdyve.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231140442id_/http%3A//www.deepdyve.com/corp/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepdyve.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507090035id_/http%3A//www.deepdyve.com/corp/privacy-policy) for the most accurate reproduction.*
 
 # About DeepDyve | DeepDyve
 
-Last Updated 11/12/2013
+Last Updated 3/3/2014
 
 DeepDyve, Inc. (“DeepDyve”) knows that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting DeepDyve’s website at [http://www.deepdyve.com](http://www.deepdyve.com/) (“deepdyve.com”), or using any of our services or products, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
-Deepdyve Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@deepdyve.com](mailto:support@deepdyve.com). If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+Deepdyve Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, http://www.deepdyve.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@deepdyve.com](mailto:support@deepdyve.com). If you are not satisfied with our response you can [contact TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 ## WHAT DOES THIS PRIVACY POLICY COVER?
 
@@ -19,6 +19,10 @@ The information we gather from users enables us to personalize and improve our s
 ## PERSONAL INFORMATION YOU PROVIDE TO US: 
 
 We receive and store any information you enter on deepdyve.com or provide to us in any other way. The types of Personal Information collected may include your name, e-mail address, billing address, credit card information, information about your use of the services on deepdyve.com. You may choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The Personal Information you provide is used for such purposes as responding to your requests for certain information, products and services, newsletters, billing you for goods and services, provide you an API key, sign up for email alerts regarding articles, view your transaction history, customizing the advertising and content you see, and communicating with you about specials and new features. 
+
+If you choose to use our Invite a Colleague feature on our site, we will ask you for your Colleague’s name and email address. We will automatically send your colleague a one-time email inviting him or her to visit the site. DeepDyve stores this information for the sole purpose of sending this one-time email. 
+
+Your colleague may contact us at [support@deepdyve.com](mailto:support@deepdyve.com) to request that we remove this information from our database.
 
 ## PERSONAL INFORMATION COLLECTED AUTOMATICALLY:
 
@@ -50,7 +54,7 @@ We may use a third party service provider to conduct these surveys; that company
 ## WHAT ABOUT COOKIES?
 
   * Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of deepdyve.com's most attractive features. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
-  * Our service providers use both session ID and persistent cookies to make it easier for you to use our site. The use of cookies by our service providers is not covered by our privacy policy. We do not have access or control over these cookies. 
+  * Our service providers use both session ID and persistent cookies to make it easier for you to use our site. The use of cookies by our service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We tie the information gathered to our Customers’ or Users’ personally identifiable information. 
   * Ads appearing on deepdyve.com may be delivered to users by our advertising partners, who may set cookies. These cookies will allow the ad server to recognize your computer each time they send you an online advertisement to compile demographic information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy covers the use of cookies by DeepDyve and does not cover the use of cookies by any advertisers. [To opt-out from receiving third party targeted ads please click here](http://preferences-mgr.truste.com/).
 
 
