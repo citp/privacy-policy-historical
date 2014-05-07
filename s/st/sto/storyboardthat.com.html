@@ -1,36 +1,92 @@
-<!--The following is the downloaded HTML source of the storyboardthat.com privacy policy that was archived on 2013-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131216064351id_/http%3A//www.storyboardthat.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the storyboardthat.com privacy policy that was archived on 2014-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140508002859id_/http%3A//www.storyboardthat.com/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html style=""><head>
-    
-
-        <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js" async=""></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=218706961566573"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="/sbtJs/site.js.min.js" type="text/javascript"></script>
-
-
+<!DOCTYPE html><html><head>
     
     
-    <link href="/content/cupertino/jquery-ui-1.10.0.custom.css" rel="stylesheet" type="text/css">
 
-    <!-- The 1140px Grid - http://cssgrid.net/ -->
-    <!--[if lte IE 9]><link rel="stylesheet" href="/content/css/ie.css" type="text/css" media="screen" /><![endif]-->
-    
-    <link href="/content/css/1140.css.min.css" rel="stylesheet" type="text/css" media="screen">
-    
-<link href="/content/css/style.css.min.css" rel="stylesheet" type="text/css" media="screen">
+<!-- Bootstrap core CSS -->
+ 
+ 
+   
+<link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600,700" rel="stylesheet" type="text/css">
 
+<link href="/content/css/sbt-bootstrap.min.css?time=635351041974273078" rel="stylesheet">
 
-    <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,300,500,700,700italic,400italic" rel="stylesheet" type="text/css">
-    <link rel="apple-touch-icon" href="/content/site_images/appleIcons/apple-touch-icon.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="/content/site_images/appleIcons/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="/content/site_images/appleIcons/apple-touch-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="/content/site_images/appleIcons/apple-touch-icon.png">
     
 
 
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js" async=""></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=218706961566573"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+    function WritePrettyDate(utcDate, placementId)
+    {
+        var d = new Date(utcDate);
+        var offset = (new Date().getTimezoneOffset() / 60) * -1
+        d.setHours(d.getHours() + offset);
+
+        var prettyDate = d.toLocaleDateString() + ", " + d.toLocaleTimeString();
+
+        document.getElementById(placementId).textContent = prettyDate;
+    }
+
+    function popup(mylink, windowname)
+    {
+        if (!window.focus) return true;
+        var href;
+        if (typeof (mylink) == 'string')
+            href = mylink;
+        else
+            href = mylink.href;
+        window.open(href, windowname, 'width=800,height=800,scrollbars=yes');
+        return false;
+    }
+
+    function trackEvent(category, action, label, value)
+    {
+        try
+        {
+            _gaq.push(['_trackEvent', category, action, label, value]);
+        }
+        catch (err)
+        { }
+    }
+
+    function trackVirtualPageView(url)
+    {
+        try
+        {
+            _gaq.push(['_trackPageview', url]);
+        }
+        catch (err)
+        { }
+    }
+
+    function trackExternalLink(title)
+    {
+        trackEvent('Outbound Links', 'Click', title, 0);
+    }
+
+</script>
 
 
     
+
+
+
+
+
+    
+
+
 <title>Privacy Policy for Storyboard That</title>
+
+
     <meta name="description" content="Read our simple and easy to understand privacy policy for Storyboard That">
     <meta name="keywords" content="Privacy Policy, Storyboard That Privacy Policy">
     <meta property="og:title" content="Privacy Policy for Storyboard That">
@@ -43,27 +99,53 @@
     <!-- Use the .htaccess and remove these lines to avoid edge case issues.
        More info: h5bp.com/b/378 -->
     <meta name="author" content="Clever Prototypes, LLC">
-    <meta http-equiv="copyright" content="Copyright 2013 Clever Prototypes, LLC">
+    <meta http-equiv="copyright" content="Copyright 2014 Clever Prototypes, LLC">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <meta charset="utf-8">                                  <!--test the site! abs 12/5/13-->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">   <!--test the site! abs 12/5/13-->
+    <meta charset="utf-8">                                 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">  
     
+	<meta name="HandheldFriendly" content="true"><!-- old BB -->
+	<meta name="MobileOptimized" content="width"> <!-- old IE -->
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<meta name="apple-mobile-web-app-title" content="Storyboard That">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
-   
-    <!--Google Plus one-->
-    <script type="text/javascript">
-        window.___gcfg = { lang: 'en' };
-        (function ()
-        {
-            var po = document.createElement("script");
-            po.type = "text/javascript"; po.async = true; po.src = "https://apis.google.com/js/plusone.js";
-            var s = document.getElementsByTagName("script")[0];
-            s.parentNode.insertBefore(po, s);
-        })();</script>
+<link rel="Publisher" href="https://plus.google.com/102659178269071238974">
 
-      <!--Google Analytics (centralized)-->
+<link rel="canonical" href="http://www.storyboardthat.com/about/privacy">
+    
+<link rel="shortcut icon" href="/content/site_images/logos/favicons/favicon.ico">
+
+<link rel="apple-touch-icon" sizes="57x57" href="/content/site_images/logos/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/content/site_images/logos/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/content/site_images/logos/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/content/site_images/logos/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/content/site_images/logos/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/content/site_images/logos/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/content/site_images/logos/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/content/site_images/logos/favicons/apple-touch-icon-152x152.png">
+
+<link rel="icon" type="image/png" href="/content/site_images/logos/favicons/favicon-196x196.png" sizes="196x196">
+<link rel="icon" type="image/png" href="/content/site_images/logos/favicons/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="/content/site_images/logos/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/content/site_images/logos/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/content/site_images/logos/favicons/favicon-16x16.png" sizes="16x16">
+
+<meta name="application-name" content="Storyboard That">
+<meta name="msapplication-TileColor" content="#E8F5FF">
+<meta name="msapplication-TileImage" content="/content/site_images/logos/favicons/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="/content/site_images/logos/favicons/mstile-70x70.png">
+<meta name="msapplication-square144x144logo" content="/content/site_images/logos/favicons/mstile-144x144.png">
+<meta name="msapplication-square150x150logo" content="/content/site_images/logos/favicons/mstile-150x150.png">
+<meta name="msapplication-square310x310logo" content="/content/site_images/logos/favicons/mstile-310x310.png">
+<meta name="msapplication-wide310x150logo" content="/content/site_images/logos/favicons/mstile-310x150.png">
+
+    
+  
+<!--Google Analytics (centralized)-->
     <script type="text/javascript">
 
         var _gaq = _gaq || [];
@@ -86,8 +168,323 @@
 <meta name="google-translate-customization" content="b48ad1e3754d78ce-163611a472da88ae-g9428d2ea18090eae-16">
 
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body style="min-width: 1000px">
+<body>
+    <!-- Fixed navbar -->
+    <header class="navbar navbar-default sbt-nav" role="navigation">
+        <div>
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" style="/*border-color:white;*/">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="brand" href="/">
+                    <img src="/content/site_images/logos/storyboard-that-logo.png"></a>
+            </div>
+
+            <div class="navbar-collapse collapse navbar-right" style="/*margin:0 auto; text-align:center*/">
+                <ul class="nav navbar-nav" style="/*margin:0 auto; text-align:center*/">
+
+                    <li><a href="https://www.storyboardthat.com/storyboard-creator">Create a Storyboard</a></li>
+                    <li><a href="/storyboards/recentstoryboards">Just Created</a></li>
+                    <li><a href="https://www.storyboardthat.com/purchase">Pricing</a></li>
+                    <li><a href="https://www.storyboardthat.com/myaccount">My Account</a></li>
+                    <li>
+
+<script>
+    var IsUserLoggedOn = false;
+    var HandleLoginCloseFunction = null;
+    var SpecialSignOut = null;
+</script>
+
+
+    <a id="nav-logoff-button" title="Log off of Storyboard That" onclick="signOutBS(); return false;" class="btn btn-primary btn-login" style="display: none">Log Off</a> 
+    <a id="nav-logon-button" title="Log on to Storyboard That" onclick="showLogonDialogBS(); return false;" class="btn btn-primary btn-login">Log On</a>
+
+
+</li>
+                </ul>
+
+            </div>
+        </div>
+        <div class="clearfix"></div>
+            <div class="top-callout-bar">
+                <div class="col-md-12 top-callout-bar">
+                 <b style="font-size:.95em">FREE TRIAL</b>
+                        <a class="btn btn-xs btn-default" href="/education/learn-more-about-classroom-portals">For Education</a> 
+                        
+                        <a href="/business/learn-more-about-corporate-portals" class="btn btn-xs btn-default">For Business </a>
+                        
+                
+                </div>
+            </div>
+    </header>
+
     
+
+
+
+<div class="section-content">
+    <div class="container theme-showcase">
+
+        <h1>PRIVACY POLICY</h1>
+
+        <h2>Introduction</h2>
+        <p>This privacy policy (“Policy”) is designed to inform users of the Storyboard That service, including all associated websites (collectively, the “Service”) about how Clever Prototypes, LLC (“Clever Prototypes,” “we” or “us”) gathers and uses personal information collected by us in connection with the Service.  We will take reasonable steps to protect user privacy consistent with the guidelines set forth in this policy and with applicable U.S. laws.  In this policy, “user” or “you” means any person using or otherwise benefiting from the Service or otherwise submitting personal information to Clever Prototypes via the Service.  BY ACCESSING OR USING THE SERVICE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY THIS PRIVACY POLICY.  IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THE SERVICE.</p>
+
+        <h2>What Information Do We Collect?</h2>
+    
+            <h3>Limited Personal Information: </h3>
+        <p>We collect the following personal information in connection with the Service: (a) if you register as a Clever Prototypes user directly, we will collect the personal information you submit to us to build your user profile, including your name, email address, and zip code; (b) if you pay fees by credit card, we may collect the name, expiration date and credit card number for the relevant card; and (c) if you communicate with us by email, we will collect your email address.  All of this information is referred to in this Policy as “Personal Information”.</p>
+        
+        <h3>Other Personal Identifiers:</h3>
+        <p>Apart from the limited personal information described above, Clever Prototypes does not collect and does not wish to receive any personally identifying information.  Without limitation, you shall not submit to Clever Prototypes any social security number, financial account number, credit or debit card number (other than the number of the card paying for the Service), driver’s license number or government ID number.  To the extent schools, parents, guardians, or teachers create accounts for students under 13 years of age, we may collect first and last names and e-mail addresses from those schools, parents, guardians, or teacher for the sole purpose of rendering the Service, and will otherwise take steps to maintain the confidentiality, security, and integrity thereof.  Children under 13 years of age that use the Service under the supervision of a school, parent, guardian, or teacher are not permitted to provide or upload any personal information.</p>
+        
+        <h3>User Data:</h3>
+        <p>The Service allows all users to create storyboards using data provided by Clever Prototypes and, optionally, data provided by users.  All data uploaded by users is referred to in this Policy as “User Data.”  </p>
+        
+        <h3>Web Tracking Information:</h3>
+        <p>We, and our third party service providers, may use web tracking technologies such as cookies, web beacons, pixel tags and clear GIFs in order to operate the Service efficiently and to collect data related to usage of the Service.  Such collected data (“Web Tracking Information”) may include the address of the websites you visited before and after you visited the Service, the type of browser you are using, your Internet Protocol (IP) address, what pages in the Service you visit and what links you clicked on, and whether you opened email communications we send to you.  In order to collect Web Tracking Information and to make your use of the Service more efficient, we may store cookies on your computer.  We may also use web tracking technologies that are placed in web pages on the Service or in email communications to collect information about actions that users take when they interact with the Service or such email communications, and Clever Prototypes’ Contractors (as defined herein) may also do so.  We do not correlate Web Tracking Information to individual user Personal Information, except for internal operational, product development, and administrative purposes of the Service.  Some Web Tracking Information may include data, such as IP address data, that is unique to you.  You may be able to modify your browser settings to alter which web tracking technologies are permitted when you use the Service, but this may affect the performance of the Service.</p>
+
+
+
+
+        <h2>How Do We Use the Information We Collect?</h2>
+        
+        <h3>Personal Information: </h3>
+        <p>Your Personal Information may be supplemented with additional information regarding your activities on the Service; to the extent that such information is linked specifically to you, we will treat that additional information as your Personal Information. We may use your email address to send you marketing materials about Clever Prototypes and its products and services.  We may also use Personal Information for the internal operational, product development, and administrative purposes of the Service.</p>
+        
+        <h3>User Data:</h3>
+        <p>We collect and stores User Data in order to provide the Service to you, and it may be used for the internal operational, product development, and administrative purposes of the Service  If you create storyboards that incorporate User Data with a Free Account, or if otherwise marked for publication, User Data will be accessible to the public via the Service and via third-party search engines.</p>
+        
+        <h3>Web Tracking Information: </h3>
+        <p>We use Web Tracking Information to administer the Service and to understand how well our Service is working, to store your user preferences, and to develop statistical information on usage of the Service.  This allows us to determine which features and content users like best to help us improve our Service, to personalize your user experience, and to measure overall effectiveness.</p>
+        
+        <h3>Aggregate Information:  </h3>
+        <p>We will also create statistical, aggregated data relating to our users and the Service for analytical purposes.  Aggregated data is derived from Personal Information and User Data but in its aggregated form it does not duplicate or reveal any User Data or relate to or identify any individual.  This data is used to understand our customer base and to develop, improve and market our services</p>
+
+
+        <h2>What Information Do We Disclose to Third Parties?</h2>
+<h3>Personal Information and User Data:</h3>
+        <p>  We will not disclose your Personal Information or User Data to any third parties except as follows: </p>
+        <ul>
+            <li>(i) to third party contractors engaged to provide services on our behalf (“Contractors”), such as performing marketing, analyzing data and usage of the Service, hosting and operating the Service or providing support and maintenance services for the Service, or providing customer service.  We enter into agreements with all Contractors that require Contractors to use the Personal Information they receive only to perform services for us. </li>
+            <li>(ii) when we have your consent to share the information.</li>
+        </ul>
+<p>User Data is not disclosed to third parties, except to the extent it is included in storyboards created under Free Accounts, or otherwise shared by or made public by the user.</p>
+
+        <h3> Email Communications:</h3>
+        <p> If you register and provide your email address, we will send you administrative and promotional emails.  If you wish to opt out of promotional emails, you may do so by following the “unsubscribe” instructions in the email, or by editing your account settings.  All users receive administrative emails, and so you cannot opt out of them while you remain registered. </p>
+
+        <h3>Web Tracking Information:  </h3>
+        <p>We disclose Web Tracking Information to Contractors, in order to analyze the performance of the Service and the behavior of users, and to operate and improve the Service.  </p>
+
+        <h3>Aggregate Information:  </h3>
+        <p>We may disclose aggregated data that does not contain Personal Information or User Data to any third parties, such as potential customers, business partners, and funding sources, in order to describe our business and operations.</p>
+
+        <h3>Network Operators:</h3>
+        <p>Use of the Service may involve use of the services of third party telecommunications carriers.  Such carriers are not our contractors, and any information that a carrier collects in connection with your use of the Service is not “Personal Information” and is not subject to this Privacy Policy.  We are not responsible for the acts or omissions of telecommunications carriers.</p>
+
+        
+        <h3>Legal Exception:</h3>
+        <p>  Notwithstanding the above, we may in any event use Personal Information and other information collected through the Service to the extent required by law or legal process, to resolve disputes, to enforce our agreements (including this Privacy Policy and the Terms of Service <a href="https://www.storyboardthat.com/about/terms-of-use">https://www.storyboardthat.com/about/terms-of-use</a>) with you, or if in our reasonable discretion use is necessary to protect our legal rights or to protect third parties.</p>
+
+<h3>Additional Disclosures:  </h3>
+        <p>We reserve the right to disclose any information we collect in connection with the Service, including Personal Information, (a) to any successor to our business as a result of any merger, acquisition, asset sale or similar transaction; and (b) to any law enforcement, judicial authority, or governmental or regulatory authority, to the extent required by law or if in our reasonable discretion disclosure is necessary to enforce or protect our legal rights or to protect third parties.</p>
+
+        <h2>Privacy Settings/Opt Out</h2>
+<p>If you would like your name and email address permanently removed from our database, please contact us at <a href="mailto:Help@StoryboardThat.com">Help@StoryboardThat.com</a>.  We will promptly delete your name and email address and you will no longer receive email from Clever Prototypes.  Your removal from the mailing list or database will not remove User Data you have submitted to us or records of past use of the Service, nor delete information stored in our data backups and archives.  User Data, including User Data submitted, data on past queries and data stored in backups and archives will be maintained and/or deleted in the ordinary course of Clever Prototypes’ business.  Clever Prototypes does not provide copies of User Data to its customers.</p>
+
+        <h2>General</h2>
+
+<h3>Security:</h3><p>  We use reasonable security precautions to protect the security and integrity of your Personal Information in accordance with this policy and applicable law.  However, no Internet transmission is completely secure, and we cannot guarantee that security breaches will not occur.  Without limitation of the foregoing, we are not responsible for the actions of hackers and other unauthorized third parties that breach our reasonable security procedures.</p>
+<h3>Links:</h3><p> The Clever Prototypes Service may contain links to other websites as services, including payment services. Clever Prototypes is not responsible for the privacy practices or the content of those websites. Users should be aware of this when they leave our Service and review the privacy statements of each third party website. This Privacy Policy applies solely to information collected by the Service.</p>
+<h3>Amendments:</h3><p> Clever Prototypes may modify or amend this policy from time to time. If we make any material changes, as determined by Clever Prototypes, in the way in which Personal Information is collected, used or transferred, we will notify you of these changes by modification of this Privacy Policy, which will be available for review by you at the Service.  Notwithstanding any modifications we may make, any Personal Information collected by Clever Prototypes from you will be treated in accordance with the privacy policy in effect at the time information was collected, unless we obtain your consent otherwise.</p>
+<h3>Children:</h3><p>  Clever Prototypes does not knowingly collect or maintain personally identifiable information from persons under 13 years of age, and the Service may only be used by persons under 13 years of age under the supervision of a school, parent, guardian, or teacher.  If you are under 13 years of age, you may not register for the Service on your own, and you may not provide any Personal Information.   If Clever Prototypes learns that personally identifiable information of persons less than 13 years of age has been provided, then Clever Prototypes will take the appropriate steps to delete this information.  To make such a request, please contact us at <a href="mailto:Help@StoryboardThat.com">Help@StoryboardThat.com</a>. </p>
+<h3>Service Visitors from outside the United States:  </h3><p>Clever Prototypes and its servers are located in the United States and are subject to the applicable state and federal laws of the United States.  If you choose to access or use the Service, you consent to the use and disclosure of information in accordance with this privacy policy and subject to such laws.</p>
+
+        <hr>
+ 
+        Effective Date of this policy: January 25, 2014
+
+    </div>
+</div>
+<p><u></u></p>
+<p><u></u></p>
+<p><u></u></p>
+<p><u></u></p>
+<p><u></u></p>
+<p><u></u></p>
+<p><u></u></p>
+<p><u></u></p>
+<p><u></u></p>
+<p><u></u></p>
+<p><u></u></p>
+<p><u></u></p>
+<p><u></u></p>
+<p><u></u></p>
+<p><u></u></p>
+<p><u></u></p>
+<p><u></u></p>
+<p><u></u></p>
+<p><u></u></p>
+<p><u></u></p>
+<p><u></u></p>
+<p><u></u></p>
+<p><u></u></p>
+<p><u></u></p>
+
+
+
+
+        <div class="footer-callout-bar">
+            What will you create today?
+					<a class="btn btn-default btn-sm" href="/storyboard-creator">Create a Storyboard</a>
+            
+        </div>
+        <footer>
+
+            <div class="footer-section-block">
+                <h6>International</h6>
+                
+
+<div id="google_translate_element"></div>
+<script type="text/javascript">
+    function googleTranslateElementInit()
+    {
+        new google.translate.TranslateElement({ pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-30881432-1' }, 'google_translate_element');
+    }
+</script>
+    <script type="text/javascript" src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+            </div>
+
+            <div class="footer-section-block">
+                <h6>For Educators</h6>
+                <ul>
+                    
+                    <li><a href="/education/learn-more-about-classroom-portals">Private Classroom</a>  | </li>
+                    <li><a href="/lesson-plans">Lesson Plans</a>  </li>
+
+                    <br>
+                    <li><a href="/classroom/join">My Classroom</a>  | </li>
+                    <li><a href="/articles/education/webinars">Educational Webinars</a> </li>
+                </ul>
+            </div>
+
+            <div class="footer-section-block">
+                <h6>For Businesses</h6>
+                <ul>
+                    <li><a href="/business/learn-more-about-corporate-portals">Corporate Portals</a>  |</li>
+                    <li><a href="https://marketplace.atlassian.com/plugins/com.storyboardthat.atlassian.jira.Storyboard-That-For-JIRA" target="_blank">JIRA Plugin</a></li>
+                    <br>
+                    <li><a href="/corporateportals/join">My Business</a>  </li>
+                </ul>
+            </div>
+
+            <div class="footer-section-block">
+                <h6>Help</h6>
+                <ul>
+                    <li><a href="/help/storyboard-creator">Storyboard Creator</a> </li>
+                    <br>
+                    <li><a href="/help/language-support">Supported Languages</a> </li>
+                </ul>
+            </div>
+
+            <div class="footer-section-block">
+                <h6>About</h6>
+                <ul>
+                    <li><a href="/about/about-us">About Us</a> | </li>
+                    <li><a href="/about/contact">Contact</a>  | </li>
+                    <li><a href="/about/jobs">Jobs</a> | </li>
+                    <li><a href="/about/write-for-us">Guest Writing</a> </li>
+                    <br>    
+                    <li><a href="/about/in-the-press">In the Press</a> |</li>
+                    <li><a href="/about/privacy">Privacy Policy</a> | </li>
+                    <li><a href="/about/terms-of-use">Terms of Use</a> </li>
+
+                </ul>
+
+            </div>
+
+
+
+            <br>
+            
+
+<div class="FooterBlock">
+
+    <h6 style="display: inline-block; vertical-align:top">English Literature Arts (ELA):</h6>
+    <ul class="ArticlesList">
+        <li><a href="/articles/education/english/narrative-structures">Narrative Structures</a> | </li>
+        <li><a href="/articles/education/types-of-literary-conflict">Literary Conflict</a> |  </li>
+        <li><a href="/articles/education/literature/types-of-irony">Irony</a> |  </li>
+        <li><a href="/articles/education/literature/hero-vs-antihero">Hero vs. Antihero</a> | </li>
+        <li><a href="/articles/education/literature/dilemma">Dilemmas</a>  | </li>
+        <li><a href="/articles/education/writing/email-etiquette">Email Etiquette</a>   |</li>
+        <li><a href="/storyboards/curated-storyboards">Literature Examples</a>  </li>        
+
+        <br>
+
+        <li><a href="/articles/education/writing/creating-parodies">Creating Parodies</a>  | </li>
+        <li><a href="/articles/education/grammar/advanced-grammar">Advanced Grammar</a>   | </li>
+        <li><a href="/articles/education/writing/ethos-pathos-lagos">Ethos, Pathos, and Logos</a> |   </li>
+        <li><a href="/articles/education/grammar/teaching-homophones">Homophones</a> |  </li>
+        <li><a href="/articles/education/grammar/punctuation">Punctuation</a>  | </li>
+        <li><a href="/articles/education/grammar/denotation-vs-connotation">Denotation vs. Connotation</a>  </li>
+
+    </ul>
+
+    <br>
+            
+    <ul class="ArticlesList">
+    <h6 style="display: inline-block; ">Education:</h6>
+    <li><a href="/articles/education/special-education/pecs-boards">Transition Boards</a> | </li>
+    <li><a href="/articles/education/introduction-to-social-stories">Social Stories</a>  | </li>
+    <li><a href="/articles/education/school-bullying">School Bullying</a> | </li>
+    <li><a href="/articles/education/black-history-month">Black History Month</a> | </li>
+    <li><a href="/articles/education/what-is-ubd-understanding-by-design">What is UBD (Understanding By Design)?</a> |</li>
+    <li><a href="/articles/story-telling/intro-to-story-telling-with-storyboards">Intro To Story Telling</a></li>
+    </ul>
+    
+
+
+        <br>
+
+        <h6 style="display: inline-block;">Business Articles:</h6>
+        <ul class="ArticlesList">
+            <li><a href="/articles/business/mentorship/difficult-conversations">Difficult Conversations</a> | </li>
+            <li><a href="/articles/business/documentation/explaining-a-process">Explaining A Process</a> | </li>
+            <li><a href="/articles/business/documentation/explaining-test-results">Explaining Test Results</a> | </li>
+            <li><a href="/articles/business/brain-storming/six-thinking-hats">Six Thinking Hats</a> | </li>
+            <li><a href="/articles/business/negotiation/win-win">Win Win</a> | </li>
+            <li><a href="/articles/business/negotiation/getting-to-yes">Getting To Yes</a> | </li>
+            <li><a href="/articles/business/mentorship/smart-goals">SMART Goals</a> | </li>
+            <li><a href="/articles/business/elearning/storyboard-basic">eLearning Basics</a> </li>
+        </ul>
+
+        <br>
+
+        <h6 style="display: inline-block;">Product Development Articles:</h6>
+        <ul class="ArticlesList">
+            <li><a href="/articles/software-development/agile-user-stories">Agile User Stories</a> | </li>
+            <li><a href="/articles/software-development/product-development">Product Development</a> | </li>
+            <li><a href="/articles/software-development/using-personas-to-identify-your-target-customers">Creating Personas</a> | </li>
+            <li><a href="/articles/software-development/using-storyboards-to-animate-customer-discovery">Animating Customer Discovery</a> | </li>
+            <li><a href="/articles/software-development/animating-user-acquistion-with-storyboards">Animating User Acquisition</a> | </li>
+            <li><a href="/articles/software-development/exit-flatsville-using-storyboards-energize-agile-user-stories">Energize Agile User Stories</a>  </li>
+            
+        </ul>
+</div>
+
+
+
+            
+
+<br>
+
+<div class="social">
     <div id="fb-root">
     </div>
     <script type="text/javascript">        (function (d, s, id)
@@ -100,314 +497,92 @@
             fjs.parentNode.insertBefore(js, fjs);
         }(document, 'script', 'facebook-jssdk'));
     </script>
-
-    <div id="header">
-       
-        <div class="wrap">
-           
-            <a href="/" class="logo">
-                <img alt="Home" src="/Content/site_images/logoSmall.png" border="0"></a>
-
-            
-            <div id="logindisplay">
-                
-
-<div id="divLoginButton">
-    
-<script>
-    var IsUserLoggedOn = false;
-    var HandleLoginCloseFunction = null;
-    var SpecialSignOut = null;
-</script>
-
-    <script>        IsUserLoggedOn = false;</script>
-    <a href="javascript:showLogonDialog();" class="login">Log On</a>
-</div>
-
-            </div>
-
-            <ul>
-                <li><a href="/storyboard-creator">Create a Storyboard</a></li>
-                <li><a href="/storyboards/recentstoryboards">Just Created</a></li>
-                
-                <li><a href="/business/learn-more-about-corporate-portals">For Business</a> </li>
-                <li><a href="/education/learn-more-about-classroom-portals">For Educators</a></li>
-                <li><a href="/purchase">Pricing</a></li>
-                <li><a href="/myaccount">My Account</a></li>
-            </ul>
-
-        </div>
-        <!-- wrap -->
-         
-        
+    <div class="social fb-like" data-href="http://www.facebook.com/pages/Storyboard-That-Community/214350482011805" data-send="false" data-width="250" data-colorscheme="dark" data-show-faces="false">
     </div>
-    <!-- header -->
+</div>
 
-
-    
-
-<div id="container">
-    <div class="wrapLarge ExplinationText">
-
-<h2>Privacy Policy</h2>
-This website and any other URLs and websites administered by Clever Prototypes, LLC (the sole owner of Storyboard That) and its affiliates (collectively, the “Website”) are offered by Clever Prototypes, LLC and its affiliates (collectively, “Clever Prototypes, LLC” or “we” “our” or “us”) to you, the user, subject to your acceptance of all the terms and conditions in the Terms of Service and as set forth below ("Privacy Policy"). The terms "you" “your” and "user" refers to all individuals and entities that access the Website(s).
-<br><br>
-This Privacy Policy may be updated from time to time for any reason. It is the responsibility of all users of the Website to revisit this page to check for changes. Please read this Privacy Policy carefully before accessing or using the Website. By accessing or using any part of the Website, you agree to become bound by the terms and conditions of this Agreement. If you do not agree to this Privacy Policy, then you may not access the Website or use any services.
-<br><br>
-By using Clever Prototypes, LLC you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing" means using cookies on a computer or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the U.S. your personally identifiable information will be transferred to the U.S., and processed and stored there under U.S. privacy standards. By visiting our Site and providing information to us, you consent to such transfer to, and processing in, the US.
-<br><br>
-If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please contact us at <a href="mailto:support@storyboardthat.com">support@storyboardthat.com</a>.
-<br><br>
-<ol>
-<li>Registration is required in order to use the Website or gain access to the entire Website, if you decide to register, you must complete the Clever Prototypes, LLC registration process. If you choose to register, you must submit a valid e-mail address and select a password during the registration process. You will need to give us certain Personally Identifiable Information, such as your name, a valid e-mail address and zip code, and for paid accounts a mailing or billing address, and phone number. This Personally Identifiable Information will be used by Clever Prototypes, LLC to manage your billing account and personalize and improve your experience with our Service. This information will not be disclosed to any third-party except as provided in our Privacy Policy. You agree that all information provided by you to Clever Prototypes, LLC is true, accurate, valid, current and complete.</li>
-<li>You can review and change your Personally Identifiable Information or password at any time by going to our "My Account" page after logging in.</li>
-<li>Website information of users of our Service (site name, site, statistics data etc.) may be utilized by Clever Prototypes, LLC for general promotional uses (e.g. a directory of sites using our Service within Clever Prototypes, LLC)</li>
-<li>This website uses Google Analytics, a web analytics service provided by Google, Inc. (”Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google. Google will use this information for the purpose of evaluating your use of the website, compiling reports on web site activity for web site operators and providing other services relating to web site activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this Website. By using this Website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.</li>
-<li>In addition, we may use your contact information to market to you, and provide you with information about, our products and services, including but not limited to services on the Website. If you decide at any time that you no longer wish to receive such information or communications from us, please follow the unsubscribe instructions provided in any of the communications.</li>
-<li>We engage certain trusted third parties to perform functions and provide services to us, including, without limitation, hosting and maintenance, customer relationship, database storage and management, and direct marketing campaigns. We will share your personally identifiable information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your data.</li>
-<li>Clever Prototypes, LLC may sell, transfer or otherwise share some or all of its assets, including your personally identifiable information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. You will have the opportunity to opt out of any such transfer if the new entity's planned processing of your information differs materially from that set forth in this Privacy Policy.</li>
-<li>Security. Clever Prototypes, LLC believes in the privacy of our Website users. We safeguard the confidentiality of your personally identifiable information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access. We will make any legally-required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored personal data to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.</li>
-<li>All payments are handled by Pay Pal.  Please refer to their site for how they handle payment information.</li>
-<li>The Site is not directed to persons under 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at <a href="mailto:support@storyboardthat.com">support@storyboardthat.com</a>. We will take actions to promptly remove such data. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete such information from our files.</li>
-<li>Clever Prototypes, LLC and messages posted/advertising forwards through Clever Prototypes, LLC may contain links or references to other websites. Clever Prototypes, LLC is not responsible for the privacy policies of any third party site or for how they treat information about their users. These third party sites may place their own cookies on your computer, collect data, or solicit personal information. You may be consenting to those websites through use of ours. We encourage you to read the privacy policies or statements and terms of service for each of the other websites you visit.</li>
-<li>Certain information is used in the aggregate to provide analytics to Clever Prototypes, LLC. This information is not tied to you personally but may contain demographic information about our users in part or as a whole. This aggregate and non-personally identifiable information may be used by Clever Prototypes, LLC and shared with or sold to third-parties.</li>
-<li>From time to time Clever Prototypes will delete data associated with inactive accounts.  We retain the rights to leave any public storyboard on our website and still attribute it to the original author’s username.</li>
-<li>Clever Prototypes complies with applicable laws and regulations for the United States of America, where we and our servers are located</li>
-</ol>
-
-</div></div>
-
-
-
-
-    <div id="footer">
-        
-        <div class="wrapLarge">
-              
-            
-            <div class="FooterBlock">
-                <h6>International</h6>
-                
-<div id="google_translate_element"></div>
-<script type="text/javascript">
-    function googleTranslateElementInit()
-    {
-        new google.translate.TranslateElement({ pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-30881432-1' }, 'google_translate_element');
-    }
-</script>
-    <script type="text/javascript" src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
-                </div>
-
-            <div class="FooterBlock">
-                <h6>For Educators</h6>
-                <ul>
-                    
-                    <li><a href="/education/learn-more-about-classroom-portals">Classroom Portals</a>  </li>
-                    |
-                    <li><a href="/lesson-plans">Lesson Plans</a>  </li>
-                    <br>
-                    <li><a href="/classroom/join">My Classroom</a>  </li>
-                </ul>
-            </div>
-
-            <div class="FooterBlock">
-                <h6>For Businesses</h6>
-                <ul>
-                    <li><a href="/business/learn-more-about-corporate-portals">Corporate Portals</a>  |</li>
-                    <li><a href="https://marketplace.atlassian.com/plugins/com.storyboardthat.atlassian.jira.Storyboard-That-For-JIRA" target="_blank">JIRA Plugin</a></li>
-                    <br>
-                    <li><a href="/corporateportals/join">My Business</a>  </li>
-                </ul>
-            </div>
-
-            <div class="FooterBlock">
-                <h6>Help</h6>
-                <ul>
-                    
-                    <li><a href="/help/storyboard-creator">Storyboard Creator</a> </li>
-                    <br>
-                    <li><a href="/help/language-support">Supported Languages</a> </li>
-                </ul>
-            </div>
-
-            <div class="FooterBlock">
-                <h6>About</h6>
-                <ul>
-                    <li><a href="/about/about-us">About Us</a> | </li>
-                    <li><a href="/about/contact">Contact</a>  | </li>
-                    <li><a href="/about/jobs">Jobs</a> </li> |
-                    <li><a href="/about/write-for-us">Guest Writing</a> </li> 
-                    <br>
-                    <li><a href="/about/in-the-press">In the Press</a> |</li>
-                    <li><a href="/about/privacy">Privacy Policy</a> | </li>
-                    <li><a href="/about/terms-of-use">Terms of Use</a> </li>
-
-                </ul>
-
-            </div>
-       
-         
-
-               
-            </div>
-            <br>
-        <div class="FooterBlock">
-
-
-    <h6 style="display: inline-block;">Literature Articles :</h6>
-    <ul class="ArticlesList">
-        <li><a href="/articles/education/types-of-literary-conflict">Literary Conflict</a> |  </li>
-        <li><a href="/articles/education/literature/types-of-irony">Irony</a> |  </li>
-        <li><a href="/articles/education/plot-diagram">Plot Diagrams</a> | </li>
-        <li><a href="/articles/education/writing/creating-parodies">Creating Parodies</a>  | </li>
-        <li><a href="/articles/education/literature/types-of-shakespearian-plays">Shakespearian Plays</a>  | </li>
-        <li><a href="/articles/education/literature/heroic-journey">Heroic Journey</a>  | </li>
-        <li><a href="/articles/education/literature/hero-vs-antihero">Hero vs. Antihero</a> | </li>
-        <li><a href="/articles/education/literature/dilemma">Dilemmas</a>  </li>
-    </ul>
-
-      <br>
-
-    <h6 style="display: inline-block;">Writing Articles:</h6>
-    <ul class="ArticlesList">
-        <li><a href="/articles/education/grammar/advanced-grammar">Advanced Grammar</a>   | </li>
-        <li><a href="/articles/education/writing/email-etiquette">Email Etiquette</a>   |</li>
-        <li><a href="/articles/education/writing/ethos-pathos-lagos">Ethos, Pathos, and Logos</a> |   </li>
-        <li><a href="/articles/education/grammar/teaching-homophones">Homophones</a> |  </li>
-        <li><a href="/articles/story-telling/intro-to-story-telling-with-storyboards">Intro To Story Telling</a> | </li>
-        <li><a href="/articles/education/grammar/punctuation">Punctuation</a>  | </li>
-        <li><a href="/articles/education/introduction-to-social-stories">Social Stories</a>  | </li>
-        <li><a href="/articles/education/grammar/denotation-vs-connotation">Denotation vs. Connotation</a> </li>
-        
-        
-    </ul>
-
-
+<div class="social" id="twitterTag">
+    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.storyboardthat.com" data-via="StoryboardThat">Tweet</a>
     <br>
-
-    <h6 style="display: inline-block;">Business Articles:</h6>
-    <ul class="ArticlesList">
-        <li><a href="/articles/business/mentorship/difficult-conversations">Difficult Conversations</a> | </li>
-        <li><a href="/articles/business/documentation/explaining-a-process">Explaining A Process</a> | </li>
-        <li><a href="/articles/business/documentation/explaining-test-results">Explaining Test Results</a> | </li>
-        <li><a href="/articles/business/brain-storming/six-thinking-hats">Six Thinking Hats</a> | </li>
-        <li><a href="/articles/business/negotiation/win-win">Win Win</a> | </li>
-        <li><a href="/articles/business/negotiation/getting-to-yes">Getting To Yes</a> | </li>
-        <li><a href="/articles/business/mentorship/smart-goals">SMART Goals</a> | </li>
-        <li><a href="/articles/business/elearning/storyboard-basic">eLearning Basics</a> </li>
-    </ul>
-
-        <br>
-
-    <h6 style="display: inline-block;">Product Development Articles:</h6>
-    <ul class="ArticlesList">
-        <li><a href="/articles/software-development/agile-user-stories">Agile User Stories</a> | </li>
-        <li><a href="/articles/software-development/product-development">Product Development</a> | </li>
-        <li><a href="/articles/software-development/using-personas-to-identify-your-target-customers">Creating Personas</a> | </li>
-        <li><a href="/articles/software-development/using-storyboards-to-animate-customer-discovery">Animating Customer Discovery</a> | </li>
-        <li><a href="/articles/software-development/animating-user-acquistion-with-storyboards">Animating User Acquisition</a> | </li>
-        <li><a href="/articles/software-development/exit-flatsville-using-storyboards-energize-agile-user-stories">Energize Agile User Stories</a> | </li>
-        <li><a href="/articles/business/case-studies">Case Studies</a>  </li>
-    </ul>
-
+    <a href="https://twitter.com/StoryboardThat" class="twitter-follow-button" data-show-count="true">Follow @StoryboardThat</a>
+    <script>
+        !function (d, s, id)
+        {
+            var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
+            if (!d.getElementById(id))
+            {
+                js = d.createElement(s);
+                js.id = id;
+                js.src = p + '://platform.twitter.com/widgets.js';
+                js.async = true;
+                fjs.parentNode.insertBefore(js, fjs);
+            }
+        }(document, 'script', 'twitter-wjs');
+    </script>
 
 </div>
 
-              <br>
+<div class="social">
 
-            <div class="social">
+    <g:plusone href="http://www.storyboardthat.com"></g:plusone>
+    <script type="text/javascript">
+        (function ()
+        {
+            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+            po.src = 'https://apis.google.com/js/plusone.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+        })();
+    </script>
+</div>
 
-                <div class="social fb-like" data-href="http://www.facebook.com/pages/Storyboard-That-Community/214350482011805" data-send="false" data-width="250" data-colorscheme="dark" data-show-faces="false"></div>
-            </div>
 
-            <div class="social" id="twitterTag">
-                <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.storyboardthat.com" data-via="StoryboardThat">Tweet</a>
-                <br>
-                <a href="https://twitter.com/StoryboardThat" class="twitter-follow-button" data-show-count="true">Follow @StoryboardThat</a>
-            <script>
-                !function (d, s, id)
-                {
-                    var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
-                    if (!d.getElementById(id))
-                    {
-                        js = d.createElement(s);
-                        js.id = id;
-                        js.src = p + '://platform.twitter.com/widgets.js';
-                        js.async = true;
-                        fjs.parentNode.insertBefore(js, fjs);
-                    }
-                }(document, 'script', 'twitter-wjs');
-            </script>
-                
+<br>
 
-            </div>
 
-            <div class="social">
-                <g:plusone href="http://www.storyboardthat.com"></g:plusone>
+            <p>Copyright 2014, Clever Prototypes, LLC </p>
+            <div id="webutation-badge">
                 <script type="text/javascript">
                     (function ()
                     {
-                        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-                        po.src = 'https://apis.google.com/js/plusone.js';
-                        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                        window.domain = 'storyboardthat.com';
+                        function async_load()
+                        {
+                            var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+                            var p = ('https:' == document.location.protocol ? 'https://' : 'http://');
+                            s.src = p + 'www.webutation.net/js/load_badge.js';
+                            var x = document.getElementById('webutation-link'); x.parentNode.insertBefore(s, x);
+                        }
+                        if (window.attachEvent) window.attachEvent('onload', async_load); else window.addEventListener('load', async_load, false);
                     })();
                 </script>
+                <script type="text/javascript" async="" src="https://www.webutation.net/js/load_badge.js"></script><a id="webutation-link" href="http://www.webutation.net/go/review/storyboardthat.com">storyboardthat.com Webutation</a>
             </div>
+        </footer>
+    
+    
 
 
-            <br>
-        
-            <p>Copyright 2013, Clever Prototypes, LLC </p>
-        <div id="webutation-badge">
-<script type="text/javascript">
-    (function ()
-    {
-        window.domain = 'storyboardthat.com';
-        function async_load()
-        {
-            var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
-            var p = ('https:' == document.location.protocol ? 'https://' : 'http://');
-            s.src = p + 'www.webutation.net/js/load_badge.js';
-            var x = document.getElementById('webutation-link'); x.parentNode.insertBefore(s, x);
-        }
-        if (window.attachEvent) window.attachEvent('onload', async_load); else window.addEventListener('load', async_load, false);
-    })();
-</script>
-<script type="text/javascript" async="" src="https://www.webutation.net/js/load_badge.js"></script><a id="webutation-link" href="http://www.webutation.net/go/review/storyboardthat.com">storyboardthat.com Webutation</a>
-</div>
-        </div>
-        <!-- wrap -->
-    
-    <!-- footer -->
-    <!--Load JS-->
-    
 <div id="divLogon"></div> 
 
 
+   <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+
+
+<script type="text/javascript" src="/sbtjs/CoreFiles.min.js?time=635351041974273078"></script>
 
 
 
 
 
-
-
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js"></script>
-<script type="text/javascript" src="/sbtjs/CoreFiles.min.js"></script>
-
-
-
-
-
-
-
-
-
-    <script src="/scripts/css3-mediaqueries.min.js" type="text/javascript"></script>
 
     
+
+    
+
     <script type="text/javascript">
         adroll_adv_id = "EEXPNULERBFFXHRBZPWA6E";
         adroll_pix_id = "PFKV43TXPVB7FIYPBPWEJT";
@@ -429,6 +604,8 @@ If you have any questions or comments about this Privacy Policy or our use of yo
         }());
 </script>
 
+
+
 <script type="text/javascript">
     /* <![CDATA[ */
     var google_conversion_id = 1011147501;
@@ -443,7 +620,7 @@ If you have any questions or comments about this Privacy Policy or our use of yo
         <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1011147501/?value=0&amp;label=KZeyCIPYiQ0Q7cWT4gM&amp;guid=ON&amp;script=0" />
     </div>
 </noscript>
-
+        
 
 
 </body></html>
