@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getfreeebooks.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111223214id_/http%3A//www.getfreeebooks.com/%3Fpage_id%3D1824) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getfreeebooks.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507023828id_/http%3A//www.getfreeebooks.com/%3Fpage_id%3D1824) for the most accurate reproduction.*
 
 # Download Free Ebooks, Legally » Privacy Policy
 
