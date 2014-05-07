@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footasylum.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101162522id_/http%3A//www.footasylum.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footasylum.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508004401id_/http%3A//www.footasylum.com/privacy) for the most accurate reproduction.*
 
 # Footasylum Customer Services - Privacy policy
 
@@ -54,7 +54,7 @@ We may update this privacy policy from time to time by posting a new version on 
 
 You are entitled to request a copy of all personal data held about you. To obtain a copy please write to us:
 
-Customer Services, Unit 1 Broadfield Distribution Centre, Pilsworth Road, Heywood,Lancashire OL10 2TA.
+Footasylum Customer Services, Sandbrook House, Sandbrook Park, Sandbrook Way, Rochdale, OL11 1RY
 
 We do however request an administration fee; therefore please enclose a cheque for £10.00, made payable to Footasylum Limited.  
 
