@@ -1,18 +1,10 @@
-<!--The following is the downloaded HTML source of the findacode.com privacy policy that was archived on 2013-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131101202834id_/http%3A//www.findacode.com/aboutus/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the findacode.com privacy policy that was archived on 2014-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140507102050id_/http%3A//www.findacode.com/aboutus/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<script src="https://c.compete.com/bootstrap/4636535d1f8315afea3131fb5009868c/bootstrap.js" type="text/javascript" async=""></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-var iframed = parent.frames.length >= 1;
-if (iframed != false) {
-  document.cookie='iframed='+iframed+';';
-  window.location.reload();
-}
-</script>
-  
 <title>Privacy Policy</title>
 
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+<!--<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA4BVVZSGwACU1BbAwc="};window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a,b){function c(a,b,c){c||(c={});for(var d=f[a],e=d&&d.length||0,h=c[g]||(c[g]={}),i=0;e>i;i++)d[i].apply(h,b);return h}function d(a,b){var c=f[a]||(f[a]=[]);c.push(b)}function e(a){return delete a[g]}var f={},g="nr@context";b.exports={on:d,emit:c,clear:e}},{}],2:[function(a){function b(a,b,e,g,i){return h?h-=1:c("err",[i||new UncaughtException(a,b,e)]),"function"==typeof f?f.apply(this,d(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var c=a("handle"),d=a("lodash._slice"),e=a("../../../contextual-ee"),f=window.onerror,g=!1,h=0;a("loader").features.push("err"),window.onerror=b;try{throw new Error}catch(i){"stack"in i&&(a("../../wrap-timer"),a("../../wrap-raf"),"addEventListener"in window&&a("../../wrap-events"),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&a("../../wrap-xhr"),g=!0)}e.on("fn-start",function(){g&&(h+=1)}),e.on("fn-err",function(a,b,d){g&&(this.thrown=!0,c("err",[d,(new Date).getTime()]))}),e.on("fn-end",function(){g&&!this.thrown&&h>0&&(h-=1)})},{"../../../contextual-ee":1,"../../wrap-events":3,"../../wrap-raf":4,"../../wrap-timer":5,"../../wrap-xhr":6,handle:"4O2Y62",loader:"YLUGVp","lodash._slice":14}],3:[function(a){function b(a){d.inPlace(a,["addEventListener","removeEventListener"],"-",c)}function c(a){return a[1]}var d=a("../wrap-function"),e=(a("lodash._slice"),a("../contextual-ee"));if(b(window),"getPrototypeOf"in Object){for(var f=document;f&&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&&b(f);for(var g=XMLHttpRequest.prototype;g&&!g.hasOwnProperty("addEventListener");)g=Object.getPrototypeOf(g);g&&b(g)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&b(XMLHttpRequest.prototype);e.on("addEventListener-start",function(a){if(a[1]){var b=a[1];"function"==typeof b?this.wrapped=b["nr@wrapped"]?a[1]=b["nr@wrapped"]:b["nr@wrapped"]=a[1]=d(b,"fn-"):"function"==typeof b.handleEvent&&d.inPlace(b,["handleEvent"],"fn-")}}),e.on("removeEventListener-start",function(a){var b=this.wrapped;b&&(a[1]=b)})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],4:[function(a){var b=(a("lodash._slice"),a("../wrap-function")),c=a("../contextual-ee");b.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),c.on("raf-start",function(a){a[0]=b(a[0],"fn-")})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],5:[function(a){function b(a){var b=a[0];"string"==typeof b&&(b=new Function(b)),a[0]=c(b,"fn-")}var c=(a("lodash._slice"),a("../wrap-function")),d=a("../contextual-ee");c.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),d.on("setTimer-start",b)},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],6:[function(a){function b(){c.inPlace(this,f,"fn-")}var c=a("../wrap-function"),d=a("../contextual-ee"),e=window.XMLHttpRequest,f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(a){var f=new e(a);return d.emit("new-xhr",[],f),c.inPlace(f,["addEventListener","removeEventListener"],"-",function(a,b){return b}),f.addEventListener("readystatechange",b,!1),f},window.XMLHttpRequest.prototype=e.prototype},{"../contextual-ee":1,"../wrap-function":15}],7:[function(a){function b(a){if("string"==typeof a&&a.length)return a.length;if("object"!=typeof a)return void 0;if("undefined"!=typeof ArrayBuffer&&a instanceof ArrayBuffer&&a.byteLength)return a.byteLength;if("undefined"!=typeof Blob&&a instanceof Blob&&a.size)return a.size;if("undefined"!=typeof FormData&&a instanceof FormData)return void 0;try{return JSON.stringify(a).length}catch(b){return void 0}}function c(a){var c=this.params,d=this.metrics;if(!this.ended){this.ended=!0;for(var e=0;k>e;e++)a.removeEventListener(j[e],this.listener,!1);if(!c.aborted){if(d.duration=(new Date).getTime()-this.startTime,4===a.readyState){c.status=a.status;var g=a.responseType,h="arraybuffer"===g||"blob"===g||"json"===g?a.response:a.responseText,i=b(h);if(i&&(d.rxSize=i),this.sameOrigin){var l=a.getResponseHeader("X-NewRelic-App-Data");l&&(c.cat=l.split(", ").pop())}}else c.status=0;d.cbTime=this.cbTime,f("xhr",[c,d])}}}function d(a,b){var c=g(b),d=a.params;d.host=c.hostname+":"+c.port,d.pathname=c.pathname,a.sameOrigin=c.sameOrigin}function e(a,b){return b}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){a("loader").features.push("xhr");var f=a("handle"),g=a("./parse-url.js"),h=a("../../../wrap-function"),i=a("../../../contextual-ee"),j=["load","error","abort","timeout"],k=j.length,l=a("../../../loader/id");a("../../wrap-events"),a("../../wrap-xhr"),i.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=c,this.ended=!1,this.xhrGuids={}}),h.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",e),i.on("open-xhr-start",function(a){this.params={method:a[0]},d(this,a[1]),this.metrics={}}),i.on("open-xhr-end",function(a,b){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&b.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),i.on("send-xhr-start",function(a,c){var d=this.metrics,e=a[0],f=this;if(d&&e){var g=b(e);g&&(d.txSize=g)}this.startTime=(new Date).getTime(),this.listener=function(a){try{"abort"===a.type&&(f.params.aborted=!0),("load"!==a.type||f.called===f.totalCbs&&(f.onloadCalled||"function"!=typeof c.onload))&&f.end(c)}catch(b){}};for(var h=0;k>h;h++)c.addEventListener(j[h],this.listener,!1)}),i.on("xhr-cb-time",function(a,b,c){this.cbTime+=a,b?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof c.onload||this.end(c)}),i.on("xhr-load-added",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&!this.xhrGuids[c]&&(this.xhrGuids[c]=!0,this.totalCbs+=1)}),i.on("xhr-load-removed",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&this.xhrGuids[c]&&(delete this.xhrGuids[c],this.totalCbs-=1)}),i.on("addEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-added",[a[1],a[2]],b)}),i.on("removeEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-removed",[a[1],a[2]],b)}),i.on("fn-start",function(a,b,c){b instanceof XMLHttpRequest&&("onload"===c&&(this.onload=!0),("load"===(a[0]&&a[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),i.on("fn-end",function(a,b){this.xhrCbStart&&i.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,b],b)})}},{"../../../contextual-ee":1,"../../../loader/id":11,"../../../wrap-function":15,"../../wrap-events":3,"../../wrap-xhr":6,"./parse-url.js":8,handle:"4O2Y62",loader:"YLUGVp"}],8:[function(a,b){b.exports=function(a){var b=document.createElement("a"),c=window.location,d={};b.href=a,d.port=b.port;var e=b.href.split("://");return!d.port&&e[1]&&(d.port=e[1].split("/")[0].split(":")[1]),d.port&&"0"!==d.port||(d.port="https"===e[0]?"443":"80"),d.hostname=b.hostname||c.hostname,d.pathname=b.pathname,"/"!==d.pathname.charAt(0)&&(d.pathname="/"+d.pathname),d.sameOrigin=!b.hostname||b.hostname===document.domain&&b.port===c.port&&b.protocol===c.protocol,d}},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],11:[function(a,b){function c(a){if(!a||"object"!=typeof a&&"function"!=typeof a)return-1;if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!0,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&&a.agent&&a.licenseKey&&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],14:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}],15:[function(a,b){function c(a,b,c,d){function nrWrapper(){var g,h=f(arguments),i=this,j=c&&c(h,i)||{};try{e.emit(b+"start",[h,i,d],j)}catch(k){}try{return g=a.apply(i,h)}catch(l){throw e.emit(b+"err",[h,i,l],j),l}finally{try{e.emit(b+"end",[h,i,g],j)}catch(k){}}}return a&&"function"==typeof a&&a.apply&&!a._wrapped?(b||(b=""),nrWrapper._wrapped=!0,nrWrapper):a}function d(a,b,d,e){d||(d="");var f,g,h,i="-"===d.charAt(0);for(h=0;h<b.length;h++)g=b[h],f=a[g],f&&"function"==typeof f&&f.apply&&!f._wrapped&&(a[g]=c(f,i?g+d:d,e,g,a))}var e=a("../contextual-ee"),f=a("lodash._slice");b.exports=c,c.inPlace=d},{"../contextual-ee":1,"lodash._slice":14}]},{},["YLUGVp",7,2]);</script>-->
 <meta name="description" content="Privacy Policy for FindACode.com - Internet Database Development."><meta name="keywords" content="website privacy policy, bizinfosys.com"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Language" content="en-us">
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
@@ -20,183 +12,59 @@ if (iframed != false) {
 <meta http-equiv="robots" content="Index, All, Follow">
 <meta name="Distribution" content="Global">
 <meta property="og:image" content="http://www.findacode.com/fac-profile-logo.jpg">
-<meta property="og:title" content="Privacy Policy"><link rel="shortcut icon" href="/static/images/favicon.ico" type="image/x-icon">
-
+<meta property="og:title" content="Privacy Policy"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://c.compete.com/bootstrap/4636535d1f8315afea3131fb5009868c/bootstrap.js" type="text/javascript" async=""></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript">
+var iframed = parent.frames.length >= 1;
+if (iframed != false) {
+  document.cookie='iframed='+iframed+';';
+  window.location.reload();
+}
+</script>
+  
+<link rel="shortcut icon" href="/static/images/favicon.ico" type="image/x-icon">
 
 <!-- Our styles and javascript -->
 <link type="text/css" href="/static/v1a/css/global.css" rel="stylesheet">
-<link type="text/css" href="/static/v1a/css/buttonlist.css" rel="stylesheet">
+<link type="text/css" href="/static/v1a/css/global-new2.css" rel="stylesheet">
 <script type="text/javascript" src="/static/js/get_page.js"></script>
 <script type="text/javascript" src="/static/js/cookie_func.js"></script>
+<link type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:600,400,300" rel="stylesheet">
 
 <!-- jQuery -->
-<link type="text/css" href="/static/v1a/jquery/jquery-ui-1.8.5.custom.css" rel="stylesheet">	
-<script type="text/javascript" src="/static/v1a/jquery/jquery-1.4.2.min.js"></script>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.js"></script>
+<link type="text/css" href="/static/v1a/jquery/jquery-ui-1.10.4.custom.min.css" rel="stylesheet">	
+<script type="text/javascript" src="/static/v1a/jquery/jquery-1.6.4.min.js"></script>
+<script type="text/javascript" src="/static/v1a/jquery/jquery-ui-1.9.2.custom.min.js"></script>
+<!-- updated 1/1/2014 script type="text/javascript" src="/static/v1a/jquery/jquery-1.4.2.min.js"></script -->
+<!-- <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.js"></script> -->
 <!-- Test if jqueryui issue for ie6? <script type="text/javascript" src="/static/v1a/jquery/jquery-ui-1.8.5.custom.min.js"></script> -->
 <script type="text/javascript" src="/static/v1a/jquery/jquery.hoverIntent.minified.js"></script>
 <script type="text/javascript" src="/static/v1a/jquery/jquery.pngFix.js"></script> 
 <script type="text/javascript" src="/static/jquery/jquery-ui-findacode-autocomplete.js"></script>
-<script type="text/javascript">
-function show_menu(menu_id,li_obj) {
-  li_obj.style.zIndex = 999;
-  document.getElementById(menu_id).style.display='block';
-  document.getElementById(menu_id).style.zIndex='1000';
-}
-$(document).ready(function() {
-  function addMega(){
-    $(this).addClass("hovering");
-  }
-  function removeMega(){
-    $(this).removeClass("hovering");
-    }
-  var megaConfig = {
-     interval: 250,
-     sensitivity: 4,
-     over: addMega,
-     timeout: 250,
-     out: removeMega
-  };
-  $("li.mega").hoverIntent(megaConfig);
-  
-  $('input.autocomplete').findacode_autocomplete();
-  
-  if($.browser.msie && parseFloat($.browser.version)<7) {
-//  Abandon hope all ye who are stuck with a crappy browser.
-    $(document).pngFix();
-    $(".page_box_link").hover(function(){
-      $(this).css("background-image","none");
-    });
-    $(".header .page_category span").css("width","22px").css("height","22px");
-    $(".body_section").css("padding-top","0px");
-    $(".header_shadow").css("background-color","white");
-    $("#lady-coder").css("margin-top","6px");
-    $("#subscribe_button").css("margin-right","0px");
-  }
 
-  //Date setter (quarter picker)
-  $('#viewing_date').attr('size',10).datepicker({dateFormat:'yy-mm-dd',buttonImage:'/static/images/calendar2.gif',buttonImageOnly:true,showOn:'both',minDate:'2010-01-1',maxDate:'2013-12-31'});
-  $('#quarter_date_picker').dialog({
-    autoOpen:false,
-    modal:true,
-    width:350,
-    position:['center', 75],
-    buttons : {
-      'Save' : function(){ 
-        $.post('/account/ajax_quarter_switcher.php', $('#quarter_date_picker_form').serialize(), function(data){
-          if (data && data.success) {
-            alert(data.info);
-            window.location.reload();
-          } else {
-            alert(data.info);
-          }
-        }, 'json');
-        
-      },
-      'Cancel' : function(){ $(this).dialog('close'); }
-    }
-  })
-  $('#viewing_date').bind('change click', function() {
-    $('#d_specify').attr('checked','checked');
-  });
-  $('a.pick_date').live('click',function(){
-    $('#quarter_date_picker').dialog('open');
-    return false;
-  });
-  
-  
-  $('a:contains(Sign In)').click(function(){return signin_popopen();});
-  
-  $('#password_dialog').dialog({'modal':true,'autoOpen':false});
-});
-
-function signin_popopen(no_animate) {
-    header_height = '225px'; body_top_padding = '225px';
-  $('#header_signin').show();
-  $('#main_signin').focus();
-  if (no_animate) {
-    $('div.header').css({'height':header_height});
-    $('div.header_shadow').css({'top':header_height});
-    $('div.body_section').css({'padding-top':body_top_padding}); 
-  } else {
-    $('div.header').animate({'height':header_height});
-    $('div.header_shadow').animate({'top':header_height});
-    $('div.body_section').animate({'padding-top':body_top_padding});
-  }
-    return false;
-}
-function signin_popclose(){
-  $('div.header').animate({'height':'87px'});
-  $('div.header_shadow').animate({'top':'87px'});
-  $('div.body_section').animate({'padding-top':'87px'});
-  $('#header_signin').hide();
-}
-</script>
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-20540029-1']);
-  _gaq.push(['_setDomainName', 'findacode.com']);
-  _gaq.push(['_trackPageview']);
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-<style type="text/css">
-ul#menu li.mega div.menu_pop {
-  background-image: url('/static/v1a/images/green-gradient.jpg') !important;
-}
-.page_box_title {
-  background-color: #c1d5b0;
-  color: #444;
-}
-.page_box_content {
-  background-image: url('/static/v1a/images/green-gradient.jpg');
-}
-.fac-icon { display:inline-block; width:22px; background: url(/static/v1a/images/icons/sprites.gif) no-repeat top left; }
-.fac-icon-bookcase{ background-position: 0 0; width: 22px; height: 22px; } 
-.fac-icon-find-a-code-llc{ background-position: 0 -32px; width: 22px; height: 22px; } 
-.fac-icon-findacode-com{ background-position: 0 -64px; width: 22px; height: 22px; } 
-.fac-icon-information{ background-position: 0 -96px; width: 22px; height: 22px; } 
-.fac-icon-kaboodle{ background-position: 0 -128px; width: 22px; height: 22px; } 
-.fac-icon-kcontrol{ background-position: 0 -160px; width: 22px; height: 22px; } 
-.fac-icon-kfig{ background-position: 0 -192px; width: 22px; height: 22px; } 
-.fac-icon-khelpcenter{ background-position: 0 -224px; width: 22px; height: 22px; } 
-.fac-icon-knode{ background-position: 0 -256px; width: 22px; height: 22px; } 
-.fac-icon-korgac{ background-position: 0 -288px; width: 22px; height: 22px; } 
-.fac-icon-ktip{ background-position: 0 -320px; width: 22px; height: 22px; } 
-.fac-icon-mytools{ background-position: 0 -352px; width: 22px; height: 22px; } 
-.fac-icon-other-code-sets{ background-position: 0 -384px; width: 22px; height: 22px; } 
-.fac-icon-stethescope22{ background-position: 0 -416px; width: 22px; height: 22px; } 
-.fac-icon-syringe2-22{ background-position: 0 -448px; width: 22px; height: 22px; } 
-.fac-icon-tool_clipboard{ background-position: 0 -480px; width: 22px; height: 22px; } 
-.fac-icon-viewmag{ background-position: 0 -512px; width: 22px; height: 22px; } 
-.new_item { font-weight:bold;color:red;font-size:8pt;vertical-align:super;line-height:0px; }
-.ui-widget-button {
-  cursor:pointer;
-  display:inline-block;
-  -moz-border-radius: 4px;
-  -webkit-border-radius: 4px;
-  border-radius: 4px;
-} 
-</style>
-</head>
+<script type="text/javascript" async="" src="//static.getclicky.com/js"></script></head>
 
 <body><a name="top"></a>
 
 <div class="header">
-
-<div class="menu_bar no_print">
-  <div class="menu_bar_center">
-    <ul id="menu">
-      <li class="mega" style="width:58px;">
-        <a href="/">Home</a>
-      </li>
-      <li class="mega" style="width:83px;">
-        <a href="/medical-coding-code-sets.html" title="Medical Billing Code Sets">Code Sets</a>
-        <div class="menu_pop" style="width:275px;background: white url('/static/v1a/images/green-gradient.jpg') repeat-x !important;">
-<div class="page_category page_category_first">
+  <div class="header_body">
+  
+    <div class="header_body_left">
+      <a href="/" title="Medical Billing Codes"><img src="/static/v1a/images/Find-A-Code-Logo-2014-white-40.png" style="margin:10px 5px 0px 10px;height:40px;width:291px;border:0px;border:none;" alt="Medical Billing and Coding"></a>
+          <div style="margin-left:10px;">
+        <ul class="menu">
+          <li class="mega" style="width:70px;text-align:center;">
+            <a href="#" onclick="$(this).parent().addClass('hovering');return false;" title="ICD 10 Codes, CPT Codes, HCPCS Codes, ICD-9 Codes">Home</a>
+            <div class="menu_pop" style="width:200px;background: white url('/static/v1a/images/white-gradient.jpg') repeat-x !important;text-align:left;">
+              <a href="/" title="ICD 10 Codes, CPT Codes, HCPCS Codes, ICD-9 Codes">Home</a>
+              <a href="/aboutus/faq.html" title="Find-A-Code FAQs">Frequently Asked Questions</a>
+              <a href="/news/index.html">News</a>
+              <a href="/events.html">Events</a>
+              <a href="/marketplace/">Marketplace</a>
+                </div>
+          </li>
+          <li class="mega" style="width:70px;text-align:center;">
+            <a href="#" onclick="$(this).parent().addClass('hovering');return false;" title="Medical Billing Code Sets">Codes</a>
+            <div class="menu_pop" style="text-align:left;width:275px;background: #eeeeee url('/static/v1a/images/white-gradient.jpg') repeat-x !important;">
+    <div class="page_category page_category_first">
   <span class="fac-icon fac-icon-stethescope22"></span>&nbsp;Diagnosis (Dx)&nbsp;
 </div>
 <a href="/icd-9/icd-9-cm-diagnosis-codes.html" class="page_box_link" title="ICD-9-CM Diagnosis Codes">
@@ -251,22 +119,22 @@ ul#menu li.mega div.menu_pop {
 <a href="/ub04-claim-form/ub04-cms1450-claim-form.html" class="page_box_link" title="UB04/CMS1450 Claim Form">
   UB04/CMS1450 - <small>Form, Codes, &amp; Info</small>
 </a>
-<a href="http://www.instacode.com/hipaa-compliance3?category_id=56" class="page_box_link" target="_blank" title="HIPAA Forms">HIPAA Forms - <small>45 New Forms!</small> <span class="new_item">NEW!</span>
+<a href="http://www.instacode.com/hipaa-compliance3?category_id=56" class="page_box_link" target="_blank" title="HIPAA Forms">HIPAA Forms - <small>45 New Forms!</small>
 </a>
 <a href="/medicare/forms/abn.html" class="page_box_link" title="Medicare Advance Beneficiary Notification of Noncoverage Form">
-  ABN - <small>Advance Beneficiary Notification</small> <span class="new_item">NEW!</span>
+  ABN - <small>Advance Beneficiary Notification</small>
 </a>
 <a href="/medicare/forms/appeals.html" class="page_box_link" title="Medicare Appeals Forms">
-  Medicare Appeals Forms <span class="new_item">NEW!</span>
+  Medicare Appeals Forms
 </a>
 <a href="/medicare/forms/index.html" class="page_box_link" title="Other Medicare Forms">
-  Other Medicare Forms <span class="new_item">NEW!</span>
-</a>      </div>
-      </li>
-      <li class="mega" style="width:90px;">
-        <a href="/medical-coding-info.html" title="Medical Billing Coding Information">Coding Info</a>
-        <div class="menu_pop" style="width:275px;background: white url('/static/v1a/images/green-gradient.jpg') repeat-x !important;">
-<div class="page_category page_category_first">
+  Other Medicare Forms
+</a>          </div>
+          </li>
+          <li class="mega" style="width:70px;text-align:center;">
+            <a href="#" onclick="$(this).parent().addClass('hovering');return false;" title="Medical Billing Coding Information">Info</a>
+            <div class="menu_pop" style="text-align:left;width:275px;background: #eeeeee url('/static/v1a/images/white-gradient.jpg') repeat-x !important;">
+    <div class="page_category page_category_first">
   <span class="fac-icon fac-icon-khelpcenter"></span>&nbsp; Helps &amp; Guides&nbsp;
 </div>
 <a href="/aboutus/tutorials.html" class="page_box_link" title="Find-A-Code Tutorials">
@@ -333,7 +201,7 @@ ul#menu li.mega div.menu_pop {
 <a href="/medical-coding/healthcare-legislation.html" class="page_box_link" title="Medical Coding - Healthcare Legislation">
   Healthcare Legislation
 </a>
-<a href="/dictionaries/dorlands-appendix.php" class="page_box_link" title="Dorlands Dictionary Appendicies">
+<a href="/dictionaries/dorlands-appendix.php" class="page_box_link" title="Dorlands Dictionary Appendices">
   Dorland's Dictionary Appendices
 </a>
 <a href="/dictionaries/stedmans-appendices.html" class="page_box_link" title="Stedmans Dictionary Appendices">
@@ -341,12 +209,12 @@ ul#menu li.mega div.menu_pop {
 </a>
 <a href="/medical-coding-resources.html" class="page_box_link" title="Medical Coding and Billing Links and Resources">
   More Links and Resources
-</a>        </div>
-      </li>
-      <li class="mega" style="width:99px;">
-        <a href="/medical-coding-tools.html" title="Medical Billing Coding Tools">Coding Tools</a>
-        <div class="menu_pop" style="width:275px;background: white url('/static/v1a/images/green-gradient.jpg') repeat-x !important;">
-
+</a>            </div>
+          </li>
+          <li class="mega" style="width:70px;text-align:center;">
+            <a href="#" onclick="$(this).parent().addClass('hovering');return false;" title="Medical Billing Coding Tools">Tools</a>
+            <div class="menu_pop" style="text-align:left;width:285px;background: #eeeeee url('/static/v1a/images/white-gradient.jpg') repeat-x !important;">
+    
 <div class="page_category page_category_first">
   <span class="fac-icon fac-icon-viewmag"></span>&nbsp;Search&nbsp;
 </div>
@@ -363,7 +231,7 @@ ul#menu li.mega div.menu_pop {
   Build-A-Code™  <small>- Code list builder.</small>
 </a>
 <a href="/tools/icd-gem-translator.php" class="page_box_link" title="ICD-10 GEMs crosswalks, bridge to ICD-9 Codes">
-  Cross-A-Code™ ICD-9/10 GEMs
+  Map-A-Code™ <small>- ICD-9/10 GEMs</small>
 </a>
 <a href="/tools/npi-lookup.html" class="page_box_link" title="NPI Lookup - National Provider Identification Number Lookup">
   Find-A-NPI™ <small>- Quick NPI Look-Up</small> 
@@ -424,49 +292,55 @@ ul#menu li.mega div.menu_pop {
   ICD-10 Videos <small>- Funny!</small>
 </a>
       
-        </div>
-      </li>
-      <li class="mega" style="width:80px;">
-        <a href="/aboutus/aboutus.html">About Us</a>
-        <div class="menu_pop" style="width:225px;background: white url('/static/v1a/images/green-gradient.jpg') repeat-x !important;">
-          <div class="page_category page_category_first">
-            <img src="/static/v1a/images/icons/findacode-com.png" style="border:0px;" alt="FindACode.com"> FindACode.com&nbsp;
-          </div>
-          <a href="/news/index.html" title="FindACode.com News &amp; Updates">News &amp; Updates</a>
-          <a href="/medical-code-sets/annual-code-changes.html" title="Annual Medical Code Changes &amp; Updates">Annual Code Changes &amp; Updates</a>
-          <a href="/aboutus/what-is-find-a-code.html" title="What is Find-A-Code?">What is Find-A-Code?</a>
-          <a href="/medical-code-sets/medical-code-sets.html" title="Medical Code Sets in Find-A-Code">Medical Code Sets</a>
-          <a href="/aboutus/faq.html" title="Frequently Asked Questions">FAQ - Frequently Asked Questions</a>
-          <a href="/aboutus/tutorials.html" title="Tutorials">Tutorials</a>
-          <a href="/aboutus/testimonials.html" title="Find-A-Code Testimonials">Testimonials</a>
-          <div class="page_category">
-            <img src="/static/v1a/images/icons/find-a-code-llc.png" style="border:0px;" alt="Find A Code, LLC"> Find A Code, LLC&nbsp;
-          </div>
-          <a href="/aboutus/company-information.html" title="Find A Code, LLC - Company Information">Company Information</a>
-          <a href="/aboutus/mission-statement.html" title="The Find-A-Code Mission Statement">Our Mission Statement</a>
-          <a href="/aboutus/contactus.html" title="Contact Find-A-Code">Contact&nbsp;Us</a>
-        </div>
-      </li>
-      <li class="mega" style="width:88px;"><a href="/account/subscribe.php"><b>Subscribe</b></a></li>
-      <li class="mega" style="width:69px;"><a href="/signin.html"><b>Sign In</b></a></li>
-    </ul>
-    <div id="mycodes_dialog" style="-webkit-overflow-scrolling: touch;display:none;" title="Code Lists"><div id="mycodes_dialog_contents" style="-webkit-transform: translate3d(0,0,0);"></div></div>
-    <div style="position:absolute;top:2px;right:0px;text-align:right;color:white;width:328px;border:none;">
-      <form action="/search/search.php" method="post" name="search2" id="search2" style="">
-      	<table style="border:none;">
-	        <tbody><tr>
-            	<td style="padding-top:8px;">
-                	<a href="#" onclick="document.getElementById('header_body_code_sets').style.display='block';return false;" style="text-decoration:none;color:white;font-size:8pt;">Find-A-Code:</a>
-                </td>
-                <td>
-        			<input name="str" type="text" id="str" class="autocomplete" value="" maxlength="255" style="width:178px;height:16px;font-size:10pt;background-color:white;border:1px solid #777;padding:1px;margin-left:3px;" title="Enter a word or phrase.">
-                </td>
-        		<td>
-        			<input type="image" id="pagesearch" src="/static/v1a/images/smlSearchBtn.jpg" value="submit" style="margin-left:3px;margin-bottom:2px;border:0px;padding:0px;">
-                </td>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+      
+    <div class="header_body_right">
+      <div style="float:right;margin:7px 0px 0px 30px;width:97px;height:50px;">
+                <!-- BEGIN PHP Live! code, (c) OSI Codes Inc. --><span id="phplive_btn_1393003614" onclick="phplive_launch_chat_1(0)" style="color: #0000FF; text-decoration: underline; cursor: pointer;"><script type="text/javascript" async="" src="//t1.phplivesupport.com/facchat/js/phplive_v2.js.php?v=1|1393003614|0|"></script></span><script type="text/javascript">(function() {var phplive_e_1393003614 = document.createElement("script") ;phplive_e_1393003614.type = "text/javascript" ;phplive_e_1393003614.async = true ;phplive_e_1393003614.src = "//t1.phplivesupport.com/facchat/js/phplive_v2.js.php?v=1|1393003614|0|" ;document.getElementById("phplive_btn_1393003614").appendChild( phplive_e_1393003614 ) ;})() ;
+</script><!-- END PHP Live! code, (c) OSI Codes Inc. -->
+            </div>
+      <div style="text-align:right;width:530px;">
+        <form action="/search/search.php" method="post" name="search2" id="search2">
+          <table align="right" style="border:none;">
+            <tbody><tr>
+              <td style="padding-top:5px;">
+<!--
+                <a href="#" onclick="document.getElementById('header_body_code_sets').style.display='block';return false;" style="text-decoration:none;color:#ccc;font-size:8pt;">Find-A-Code:</a>
+-->
+              </td>
+              <td>
+                <input name="str" type="text" id="str" class="autocomplete" value="" maxlength="255" style="width:220px;height:18px;font-size:10pt;background-color:white;border:0px solid #777;padding:1px 5px;margin-left:3px;border-radius:3px;" title="Enter a word or phrase.">
+              </td>
+              <td>
+                <input type="submit" id="pagesearch" value="Search" class="purple_button" style="height:20px;font-size:10px;margin-right:15px;">
+              </td>
             </tr>
-        </tbody></table>
-      </form>
+          </tbody></table>
+        </form>
+      </div>
+      <div style="margin-top:10px;float:right;height:25px;">
+        <ul class="menu" style="text-align:right;">
+          <li class="mega" style="width:180px;text-align:center;">
+            <a href="/demo/" class="menu_video"><span style="font-size:16px;font-weight:bold;">See Product Video</span></a>
+          </li>
+          <li class="mega" style="width:120px;text-align:center;">
+            <a href="/account/trial-setup.php"><span style="font-size:16px;font-weight:bold;">Free Trial</span></a>
+          </li>
+          <li class="mega" style="width:100px;text-align:center;">
+            <a href="/account/subscribe.php"><span style="font-size:16px;font-weight:bold;">Pricing</span></a>
+          </li>
+          <li class="mega" style="width:100px;text-align:center;">
+            <a href="/signin.html"><span style="font-size:16px;font-weight:bold;">Sign In</span></a>
+          </li>
+        </ul>
+      </div>      
+      <div id="mycodes_dialog" style="-webkit-overflow-scrolling: touch;display:none;" title="Code Lists">
+        <div id="mycodes_dialog_contents" style="-webkit-transform: translate3d(0,0,0);"></div>
+      </div>
     </div>
 
     <div id="header_body_code_sets" class="header_body_code_sets">
@@ -475,66 +349,39 @@ ul#menu li.mega div.menu_pop {
       </div>
       <div style="margin:5px 0px 0px 5px;float:left;"><b>Find-A-Code includes:</b></div>
       <div style="clear:both;"></div>
-      <table width="90%" style="margin:10px 10px 3px 10px;">
+      <table style="width:90%;margin:10px 10px 3px 10px;">
         <tbody><tr>
-
-          <td width="50%" class="tdlt">
+          <td width="50%">
+            <a href="/icd-10-cm/icd-10-cm-code-set.html" class="top-tags" title="ICD-10-CM Diagnosis Codes">ICD-10-CM&nbsp;Diagnosis&nbsp;Codes</a>&nbsp;<br>
+            <a href="/icd-10-pcs/icd-10-pcs-code-set.html" class="top-tags" title="ICD-10-PCS - Procedure Codes">ICD-10-PCS&nbsp;Procedure&nbsp;Codes</a>&nbsp;<br>
             <a href="/cpt/cpt-codes-set.html" class="top-tags" title="CPT Codes and Descriptions">CPT<small><sup>®</sup></small>&nbsp;Procedure&nbsp;Codes</a>&nbsp;<br>
             <a href="/hcpcs/hcpcs-code-set.html" class="top-tags" title="HCPCS Codes &amp; Descriptions">HCPCS&nbsp;Supply/DME&nbsp;Codes</a>&nbsp;<br>
             <a href="/icd-9/icd-9-cm-code-set.html" class="top-tags" title="ICD-9, ICD9 Procedure Codes and Descriptions">ICD-9-CM&nbsp;Diagnosis&nbsp;Codes</a>&nbsp;<br>
-            <a href="/medical-code-sets/drgs-apcs.html" class="top-tags" title="Medical Codes DRGs &amp; APCs, Diagnosis-Related Group, Ambulatory Payment Classification">DRGs &amp; APCs</a>&nbsp;<br>
-            <a href="/abc/abc-codes-set.html" class="top-tags" title="ABC Codes and Descriptions">ABC&nbsp;Codes</a>&nbsp;<br>
+            <a href="/medical-code-sets/drgs-apcs.html" class="top-tags" title="Medical Codes DRGs - Diagnosis-Related Groups">DRG Codes</a>&nbsp;<br>
+            <a href="/medical-code-sets/drgs-apcs.html" class="top-tags" title="Medical Codes APCs - Ambulatory Payment Classifications">APC Codes</a>&nbsp;<br>
             <a href="/medical-code-sets/ncci-edits.html" class="top-tags" title="NCCI Code Edits">NCCI&nbsp;Edits</a>&nbsp;<br>
             <a href="/medical-code-sets/medicare-policies.html" class="top-tags" title="Medicare Payment Policies">Medicare&nbsp;Policies</a>&nbsp;<br>
-            <a href="/medical-code-sets/pqri.html" class="top-tags" title="Medicare PQRI Information - Physicians Quality Reporting Initiative">Medicare&nbsp;PQRI</a>&nbsp;<br>
-            <a href="/medical-code-sets/lmrp.html" class="top-tags" title="Medicare LMRPs - Local Medical Review Policy">Medicare&nbsp;LMRPs</a>&nbsp;<br>
           </td>
-          
-          <td width="50%" class="tdlt">
+          <td width="50%">
             <a href="/medical-code-sets/ncd.html" class="top-tags" title="Medicare NCDs - National Coverage Determinations">Medicare&nbsp;NCDs</a>&nbsp;<br>
             <a href="/medical-code-sets/lcd.html" class="top-tags" title="Medicare LCDs - Local Coverage Determinations">Medicare&nbsp;LCDs</a>&nbsp;<br>
             <a href="/medical-code-sets/medicare-fees.html" class="top-tags" title="Medicare Fees">Medicare&nbsp;Fees</a>&nbsp;<br>
             <a href="/medical-code-sets/rvus.html" class="top-tags" title="Medicare RVUs - Relative Value Units">Medicare&nbsp;RVUs</a>&nbsp;<br>
-            <a href="/icd-10-cm/icd-10-cm-code-set.html" class="top-tags" title="ICD-10-CM Diagnosis Codes">ICD-10-CM&nbsp;Diagnosis&nbsp;Codes</a>&nbsp;<br>
-            <a href="/icd-10-pcs/icd-10-pcs-code-set.html" class="top-tags" title="ICD-10-PCS - Procedure Codes">ICD-10-PCS&nbsp;Procedure&nbsp;Codes</a>&nbsp;<br>
+            <a href="/medical-code-sets/pqri.html" class="top-tags" title="Medicare PQRS Information - Physicians Quality Reporting System">Medicare&nbsp;PQRS</a>&nbsp;<br>
+            <a href="/medicare/forms/index.html" class="top-tags" title="Medicare Forms">Medicare&nbsp;Forms</a>&nbsp;<br>
             <a href="/cms1500-claim-form/cms1500-place-of-service-codes.html" class="top-tags" title="Medical Place of Service Codes">Place&nbsp;of&nbsp;Service&nbsp;Codes</a>&nbsp;<br>
             <a href="/ub04-claim-form/ub04-cms1450-claim-form.html" class="top-tags" title="UB 04 Condition Codes - UB04 Claim Form">UB04&nbsp;Condition&nbsp;Codes</a>&nbsp;<br>
             <a href="/ub04-claim-form/ub04-cms1450-claim-form.html" class="top-tags" title="UB 04 Revenue Codes - UB04 Claim Form">UB04&nbsp;Revenue&nbsp;Codes</a>&nbsp;<br>
           </td>
-
         </tr>
       </tbody></table>
-      <div align="right">
+      <div style="text-align:right;">
         <button onclick="document.getElementById('header_body_code_sets').style.display='none';return false;" style="font-size:8pt;">Close</button>
       </div>
-    </div>    
-  </div>
-  
-  </div> <!-- menu_bar div -->
-
-  <div class="header_body">
-      <div class="header_body_left">
-       <table width="565" border="0" style="padding:0;margin:0;">
-       	<tbody>
-         <tr>
-          <td style="padding: 0;"><a href="/" title="Medical Billing Codes"><img src="/static/v1a/images/findacodeLogo.jpg" style="margin-right:5px;height:51px;width:250px;border:0px;" border="0" align="left" alt="Medical Billing and Coding"></a></td>
-                  <td style="padding: 8px 0px 0px 45px;"><a href="/free-trial-demos.html" title="Find-A-Code Free Trial and Demos"><img src="/static/v1a/images/trialBtn.jpg" alt="Demos and Free Trials" border="0"></a></td>
-          <td style="padding: 8px 0px 0px 10px;"><a href="/aboutus/tutorials.html" title="Learn How to Use Find-A-Code"><img src="/static/v1a/images/trainingBtn.jpg" alt="Find-A-Code Tutorials" border="0"></a></td>
-                
-                          <td style="padding: 8px 0px 0px 10px;"><!-- BEGIN PHP Live! code, (c) OSI Codes Inc. --><span id="phplive_btn_1330464762" onclick="phplive_launch_chat_1(0)" style="color: #0000FF; text-decoration: underline; cursor: pointer;"><script type="text/javascript" async="" src="//t1.phplivesupport.com/facchat/js/phplive_v2.js.php?q=1|1330464762|0|"></script></span><script type="text/javascript">(function() { var phplive_e_1330464762 = document.createElement("script") ; phplive_e_1330464762.type = "text/javascript" ; phplive_e_1330464762.async = true ; phplive_e_1330464762.src = "//t1.phplivesupport.com/facchat/js/phplive_v2.js.php?q=1|1330464762|0|" ; document.getElementById("phplive_btn_1330464762").appendChild( phplive_e_1330464762 ) ; })() ;</script><!-- END PHP Live! code, (c) OSI Codes Inc. --></td>
-                  </tr>
-        </tbody>
-       </table>
-        
-
-       
-      </div>
-
-      <div class="header_body_right" style="padding:0;margin-top:8px;">
-&nbsp;Guest<br>Viewing: &nbsp;Nov 1, 2013
     </div>
+
  
-    <div id="header_signin" style="display:none;clear:both;text-align:center;height:155px;width:900px;border:1px solid #aaa;margin:10px auto;background-image: url('/static/v1a/images/green-gradient.jpg') !important; background-repeat: repeat-x;">
+    <div id="header_signin" style="display:none;clear:both;text-align:center;height:155px;width:900px;border:1px solid #aaa;margin:10px auto;background-image: url('/static/v1a/images/white-gradient.jpg') !important; background-repeat: repeat-x;">
       <div style="float:left;width:450px;border: 0px solid yellow;">
       <h2>Sign in to Find-A-Code</h2>
       <form action="https://www.findacode.com/aboutus/privacy-policy.html" method="post" style="margin:0px 0px 5px 0px;">
@@ -547,10 +394,7 @@ ul#menu li.mega div.menu_pop {
 </td></tr>
           <tr><td></td><td><input type="submit" value="Sign In" style="width:108px;font-size:15px;font-weight:bold;">&nbsp;&nbsp;<a style="display:inline;" href="/lost-password.html">Lost Password?</a></td></tr>
         </tbody></table>
-	<div id="password_dialog" title="Password Help" style="display:none;">
-          <p>Enter the email address and password you used when creating your account to sign in.</p>
-          <p>Don't remember your password? <a href="/lost-password.html" style="white-space:nowrap;font-weight:bold;">Click here to reset it.</a></p>
-        </div>
+	
       </form>
       </div>
       <div style="float:right;margin:1px 3px 0px 0px;">
@@ -559,15 +403,15 @@ ul#menu li.mega div.menu_pop {
       <div style="float:right;width:350px;border:0px solid blue;margin-right:50px;">
         <h2>Or</h2>
         <button type="button" onclick="window.location='/account/subscribe.php';" style="margin-bottom:5px;font-size:15px;font-weight:bold;padding:3px 10px;"> Subscribe </button><br>
-        Subscribe to Find-A-Code starting from $4.99 per month.&nbsp; Purchase a year at a time or select an affordable monthly payment.
+        Subscribe to Find-A-Code starting from $4.95 per month.&nbsp; Purchase a year at a time or select an affordable monthly payment.
       </div>
       <div style="clear:both;"></div>
     </div>
-  
-  </div> <!-- header_body -->
-  
-</div> <!-- header -->
+ 
 
+  </div> <!-- header_body -->
+</div> <!-- header -->
+     
 
 <div class="body_section">
   <div id="body" class="body_content">
@@ -575,12 +419,17 @@ ul#menu li.mega div.menu_pop {
     <div id="body_top" class="body_top">
       <div id="body_breadcrumbs" class="body_breadcrumbs">
 &gt; <a href="/">Home</a> &gt; <a href="/aboutus/aboutus.html">About Us</a>       </div>
+      
+      <div id="body_date_picker">
+Viewing:&nbsp; May 7, 2014      
+      </div>
+      
       <div id="body_code_lists" class="body_code_lists">
       </div>
       <div style="clear:both;"></div>
     </div>
 
-   <noscript>
+<noscript>
   <p class='ui-state-highlight' style='padding:5px;'>
   <b>Important:</b> FindACode.com uses Javascript to provide a rich, interactive user experience. We have detected that your browser either does not support Javascript or has been configured to not allow it.
   To use FindACode.com, you will need to either change your Javascript settings or use a different web browser.
@@ -591,7 +440,7 @@ ul#menu li.mega div.menu_pop {
 <h1>FindACode.com Privacy Policy</h1>
 
 <a href="http://www.privacypolice.org/findacode.htm" target="_blank" title="PrivacyPolice.org Privacy Registration">
-<img src="/static/images/privacy-police.png" width="61" height="61" alt="PrivacyPolice.org Privacy Registration" border="0" align="left" style="margin: 0px 20px 10px 0px;">
+<img src="/static/images/privacy-police.png" width="91" height="65" alt="PrivacyPolice.org Privacy Registration" border="0" align="left" style="margin: 0px 20px 10px 0px;">
 </a><br>
 
 <b>Your Privacy</b><br><br>
@@ -666,151 +515,130 @@ document.write('<a href="mail'+'to:'+userxname+'@'+hostxname+params+'"'+classcod
 
 <br><br>
 
-  
+
+<div style="border:1px solid #653F90;border-radius:6px;background-color:#eee;padding:25px;text-align:center;margin-top:50px;margin-bottom:40px;vertical-align:middle;">
+  <a href="/account/trial-setup.php" class="footer_button" style="margin-right:30px;">FREE TRIAL</a>
+  <a href="/account/subscribe.php" class="footer_button" style="margin-right:30px;">SUBSCRIBE</a>
+  <a href="/signin.html" class="footer_button">SIGN IN</a>
+</div>
+
+
   </div> <!-- body_content -->
 </div> <!-- body_section -->
-  
-<div id="footer" class="footer">
 
-  <div align="center" style="letter-spacing:0px;margin-top:5px;margin-bottom:10px;">
-    <a href="/" class="footer_menu" title="Medical Billing and Hostpital Codes Online">Home</a>&nbsp;&nbsp;&nbsp;
-    <a href="/search/search.php" class="footer_menu" title="Medical Code Search &amp; Lookup">Search</a>&nbsp;&nbsp;&nbsp;
-    <a href="/news/index.html" class="footer_menu" title="Find-A-Code News">News</a>&nbsp;&nbsp;&nbsp;
-    <a href="/aboutus/faq.html" class="footer_menu" title="Frequently Asked Questions">FAQ</a>&nbsp;&nbsp;&nbsp;
-    <a href="/aboutus/tutorials.html" class="footer_menu" title="Medical Coding Tutorials">Tutorials</a>&nbsp;&nbsp;&nbsp;
-    <a href="/aboutus/testimonials.html" class="footer_menu" title="Medical Coding Testimonials">Testimonials</a>&nbsp;&nbsp;&nbsp;
-    <a href="/aboutus/aboutus.html" class="footer_menu" title="About Find-A-Code, the premier online Medical Billing and Coding Database">About&nbsp;Us</a>&nbsp;&nbsp;&nbsp;
-    <a href="/aboutus/contactus.html" class="footer_menu" title="Contact Find-A-Code">Contact&nbsp;Us</a>&nbsp;&nbsp;&nbsp;
-    <!--a href="/ads/design/build-search-tool.php" class="footer_menu" title="Free Medical Billing Codes Search Tool for Your Website">FREE Search Tool</a>&nbsp;&nbsp;&nbsp;-->
-    <a href="/account/subscribe.php" class="footer_menu" title="Subscribe to Find-A-Code's premier online Medical Billing and Coding Database">Subscribe</a>&nbsp;&nbsp;&nbsp;
-    <a href="/signin.html" class="footer_menu" title="Sign In to Your Account">Sign&nbsp;In</a>
-    <!--<a href="/forum-temp.html" >Community&nbsp;Q&amp;A</a>&nbsp;&nbsp;|&nbsp;-->
-    <!--<a href="/advertise.html" >Advertise</a>&nbsp;&nbsp;|&nbsp;-->
+
+<footer>
+  <div class="container">
+  
+  <table id="footer_table">
+  <tbody><tr><td>
+  
+    <div id="footer_sitelinks">
+      <a href="/" title="Medical Billing and Hospital Codes Online">Home</a><br>
+      <a href="/search/search.php" title="Medical Code Search and Look Up Tool">Search</a> <br>
+      <a href="/news/index.html" title="Find-A-Code News">News</a> <br>
+      <a href="/affiliate/" title="Find-A-Code Affiliate Program">Affiliate Program</a> <br>
+      <a href="https://developer.findacode.com" title="Find-A-Code APIs">APIs</a> <br>
+      <a href="/aboutus/contactus.html" title="Contact Find-A-Code">Contact&nbsp;Us</a><br>
+      <a href="/aboutus/tutorials.html" title="Medical Coding Tutorials">Tutorials</a> <br>
+      <a href="/aboutus/privacy-policy.html">Privacy Policy</a><br>
+      <a href="/aboutus/terms-of-use.html">Terms of Use</a><br>
+      <a href="/aboutus/license-agreement.html" title="FindACode.com License Agreement">Subscription Agreement</a><br>  
+      <a href="/aboutus/resources.html">Links</a><br>
+<!--      <a href="/site-map.html">Site Map</a>  <br />  -->
+      <a href="/articles/index.html" title="Medical Coding and Billing Articles">Articles</a>  <br>  
+      <a href="/aboutus/aboutus.html" title="About Find-A-Code THE online medical coding library">About Us</a>
+<!--      
+      <a href="/aboutus/faq.html" title="Frequently Asked Questions">FAQ</a> <br />
+      <a href="/ads/design/build-search-tool.php" title="Free Medical Billing Codes Search Tool for Your Website">FREE Search Tool</a> <br />
+-->      
+    </div>
+
+    </td><td>
+    
+    <div id="footer_sitelinks">
+      <a href="/icd-10-cm/icd-10-cm-diagnosis-codes.html" title="ICD-10-CM Diagnosis Codes">ICD 10 Codes</a><br>
+      <a href="/medical-code-sets/icd-9-to-icd-10-crosswalk.html" title="ICD-9 to ICD-10 Crosswalks">ICD-9 to ICD-10 Crosswalk</a><br>
+      <a href="/cpt/cpt-code-set.html" title="CPT Codes Set">CPT Codes</a><br>
+      <a href="/cpt/cpt-code-modifiers.html" title="CPT Code Modifiers">CPT Code Modifiers</a><br>
+      <a href="/hcpcs/hcpcs-supply-codes.html" title="HCPCS Medical Supply Codes">HCPCS Codes</a><br>
+      <a href="/hcpcs/hcpcs-code-modifiers.html" title="HCPCS Medical Supply Code Modifiers">HCPCS Level II Code Modifiers</a><br>
+      <a href="/icd-10-pcs/icd-10-pcs-procedure-codes.html" title="ICD-10-PCS Procedure Codes">ICD-10-PCS Procedure Codes</a><br>
+      <a href="/ndc/ndc-national-drug-codes.html" title="NDC National Drug Codes">NDC National Drug Codes</a><br>
+      <a href="/icd-9/icd9-diagnosis-codes.html" title="ICD 9 Medical Diagnosis Codes">ICD 9 Codes - Vol. I</a><br>
+      <a href="/icd-9/icd-9-procedure-codes.html" title="ICD 9 Medical Procedure Codes">ICD-9-CM Procedure Codes Vol. III</a><br>
+      <a href="/abc/abc-code-set.html" title="ABC Code Set">ABC Codes Code Set</a><br>
+      <a href="/pqri" title="Physicians Quality Reporting System PQRS">PQRS Physicians Quality Reporting System</a><br>
+      <a href="/medicare/medicare-info.html">Medicare Guidelines</a><br>
+    </div>
+
+    </td><td>
+    
+    <div id="footer_sitelinks">
+<!--      <a href="/medical-code-sets/annual-code-changes.html" title="Annual Code Changes">Annual Code Changes</a><br />  -->
+      <a href="/medicare/forms/abn.html" title="ABN Forms">ABN Forms</a><br>
+      <a href="/cms1500-claim-form/cms1500-claim-form.html" title="CMS 1500 Claim Form">CMS 1500 Claim Form</a><br>
+      <a href="/cms1500-claim-form/cms1500-place-of-service-codes.html" title="Place of Service Codes">Place of Service Codes</a><br>
+      <a href="/ub04-claim-form/ub04-cms1450-claim-form.html" title="UB04/CMS1450 Claim Form, Codes &amp; Information">UB04 Claim Form</a><br>
+      <a href="/medical-code-sets/drgs-apcs.html" title="DRGs &amp; APCs (Diagnosis-Related Group &amp; Ambulatory Payment Classification)">DRGs &amp; APCs</a><br>
+      <a href="/tools/drg-grouper/" title="DRG Grouper Tool">DRG Grouper</a><br>
+      <a href="/tools/taxonomy-codes.html" title="Provider Taxonomy Codes">Provider Taxonomy Codes</a><br>
+      <a href="/anatomy-physiology-online/" title="Anatomy &amp; Physiology Online for Coders">Anatomy &amp; Physiology Online for Coders</a><br>
+      <a href="/tools/npi-lookup.html" title="NPI Look-Up Tool (National Provider Identifier number)">NPI Look-Up Tool (National Provider Identifier)</a><br>
+      <a href="/tools/ncci-check.php" title="NCCI Edits Validator">NCCI Edits Validator</a><br>
+      <a href="/scrubber/scrubber.php" title="Scrub-A-Claim - Medical Claim Scrubber">Scrub-A-Claim - Medical Claim Scrubber</a> <br>
+      <a href="/tools/code-a-note/" title="Code-A-Note - Instantly encode provider notes">Code-A-Note - Code Provider Notes</a><br>
+      <a href="/medicare/e-m-guidelines-manuals.html" title="Evaluation and Management Guidelines, E&amp;M Guidelines">E/M Guidelines</a><br>
+    </div>
+
+    </td><td rowspan="2">
+
+    <div style="float:right;margin-left:30px;">
+      <table cellpadding="0" cellspacing="0" border="0"><tbody>
+        <tr><td align="center" valign="middle" style="text-align:center;vertical-align:middle;padding:5px; background: url('/images/seals.png');background-position: 184px 0px;display: block-inline;height: 55px;width: 75px;">
+          <a target="_blank" href="https://www.bbb.org/online/consumer/cks.aspx?id=1100506111244587" style="height: 55px; display: block;">
+          </a>
+        </td></tr>
+        <tr><td align="center" valign="middle" style="text-align:center;vertical-align:middle;padding:5px; background: url('/images/seals.png');background-position: 0px 0px;display: block-inline;height: 55px;width: 75px;">
+          <a href="/aboutus/secure-certificate.html" title="FindACode.com Secure Certificate" style="height: 55px; display: block;">
+          </a>
+        </td></tr>
+        <tr><td align="center" valign="middle" style="text-align:center;vertical-align:middle;padding:5px; background: url('/images/seals.png');background-position: 87px 0px;display: block-inline;height: 55px;width: 75px;">
+          <a href="http://www.privacypolice.org/findacode.htm" target="_blank" title="PrivacyPolice.org Privacy Registration" style="height: 55px; display: block;">
+          </a>
+        </td></tr>
+        <tr><td align="center" valign="middle" style="text-align:center;vertical-align:middle;padding:5px; background: url('/images/seals.png');background-position: 181px 65px;display: block-inline;height: 55px;width: 75px;">
+          <a href="/made-in-usa.html" title="FindACode.com - Made in the USA" style="height: 55px; display: block;">
+          </a>
+        </td></tr>
+        <tr><td align="center" valign="middle" style="text-align:center;vertical-align:middle;padding:5px; background: url('/images/seals.png');background-position: 89px 65px;display: block-inline;height: 55px;width: 75px;">
+          <a href="/powered-by-findacode.html" title="Powered by FindACode.com" style="height: 55px; display: block;">
+          </a>
+        </td></tr>
+      </tbody></table>
+    </div>
+    <div style="clear:both;"></div>
+    
+    </td></tr>
+
+    <tr><td colspan="3">
+      <div style="margin:0px 0px 0px 10px;">
+        <p><b onclick="document.getElementById('footer_text').style.display='block';" style="cursor:pointer;">Privacy Policy</b></p>
+        <div id="footer_text">
+  <p><i><small>Summary:</small></i>&nbsp;&nbsp;Privacy Policy for FindACode.com - Internet Database Development.</p><p><i><small>Keywords:</small></i>&nbsp;&nbsp;website privacy policy, bizinfosys.com</p>        </div>
+      </div>
+
+      <div style="margin:-4px 0px 10px 10px;">
+        <div style="margin-bottom:3px;">Find A Code, LLC - 62 East 300 North, Spanish Fork, UT 84660 - Phone 801-770-4203 (9-5 Mountain) - Fax (801) 770-4428</div>
+        <a href="/aboutus/copyright.html">Copyright</a> © 2000-2014 Find A Code, LLC - All Rights Reserved - CPT<sup><small>®</small></sup> copyright 2013 American Medical Association - All Rights Reserved
+      </div>
+    </td></tr>
+    
+    </tbody></table>
+  
   </div>
+</footer>
 
-  <table width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
-    <tbody><tr>
-      <td class="tdlb" width="100%" style="padding:5px;padding-left:10px;">
-        <img src="/static/images/clear.gif" width="1" height="1px" border="0" alt=""><br>
-<b onclick="expandcontent(this, 'footertext')" style="cursor:pointer;">Privacy Policy</b><br>
-<img src="/static/images/clear.gif" width="1" height="7px" border="0" alt=""><br>
-<div id="footertext" class="switchcontent">
-<img src="/static/images/clear.gif" width="1" height="5px" border="0" alt=""><br>
-<i><small>Summary:</small></i>&nbsp;&nbsp;Privacy Policy for FindACode.com - Internet Database Development.<br>
-<img src="/static/images/clear.gif" width="1" height="5px" border="0" alt=""><br>
-<i><small>Keywords:</small></i>&nbsp;&nbsp;website privacy policy, bizinfosys.com<br>
-<img src="/static/images/clear.gif" width="1" height="7px" border="0" alt="Medical codes"><br>
-<i>Site Links:</i>&nbsp; 
-          <a href="/icd-9/icd9-diagnosis-codes.html" title="ICD 9 Medical Diagnosis Codes">ICD-9-CM Diagnosis Codes Vol. I</a> - 
-          <a href="/icd-9/icd-9-procedure-codes.html" title="ICD 9 Medical Procedure Codes">ICD-9-CM Procedure Codes Vol. III</a> - 
-          <a href="/hcpcs/hcpcs-supply-codes.html" title="HCPCS Medical Supply Codes">HCPCS Level II Procedure &amp; Supply Codes</a> - 
-          <a href="/hcpcs/hcpcs-code-modifiers.html" title="HCPCS Medical Supply Code Modifiers">HCPCS Level II Code Modifier</a> - 
-          <a href="/abc/abc-code-set.html" title="ABC Code Set">ABC Codes - Code Set</a> - 
-          <a href="/cpt/cpt-code-set.html" title="CPT Codes Set">CPT Codes</a> - 
-          <a href="/cpt/cpt-code-modifiers.html" title="CPT Code Modifiers">CPT Code Modifiers</a> - 
-          <a href="/icd-10-cm/icd-10-cm-diagnosis-codes.html" title="ICD-10-CM Diagnosis Codes">ICD-10-CM Diagnosis Codes</a> - 
-          <a href="/icd-10-pcs/icd-10-pcs-procedure-codes.html" title="ICD-10-PCS Procedure Codes">ICD-10-PCS Procedure Codes</a> - 
-          <a href="/medical-code-sets/icd-9-to-icd-10-crosswalk.html" title="ICD-9 to ICD-10 Crosswalks">ICD-9 to ICD-10 Crosswalk</a> - 
-          <a href="/medicare/pqri/index.html" title="Physicians Quality Reporting Initiative PQRI">PQRI Physicians Quality Reporting Initiative</a> - 
-          <a href="http://www.findacode.com/pqri" title="Physicians Quality Reporting System PQRS">PQRI Physicians Quality Reporting System</a> - 
-          <a href="/medical-code-sets/annual-code-changes.html" title="Annual Code Changes">Annual Code Changes</a> - 
-<!--
-          <a href="/medical-code-sets/2011-new-deleted-medical-codes.html" title="2011 New &amp; Deleted Medical Codes">2011 New &amp; Deleted Medical Codes</a> - 
-          <a href="/cpt/2011-cpt-codes-new-deleted.html" title="2011 CPT Codes New, Deleted &amp; Changed">2011 CPT New, Changed and Deleted Codes</a> - 
-          <a href="/hcpcs/2011-hcpcs-codes-new-deleted.html" title="2011 HCPCS Codes New, Deleted &amp; Changed">2011 HCPCS New, Changed and Deleted Codes</a> - 
-          <a href="/icd-9/2011-icd9-codes-new-deleted.html" title="2011 ICD-9-CM Codes New, Deleted &amp; Changed">2011 ICD-9-CM New, Changed and Deleted Codes</a> - 
-          <a href="/medical-code-sets/2010-new-deleted-medical-codes.html" title="2010 New &amp; Deleted Medical Codes">2010 New &amp; Deleted Medical Codes</a> - 
-          <a href="/medical-code-sets/2009-new-deleted-medical-codes.html" title="2009 New &amp; Deleted Medical Codes">2009 New &amp; Deleted Medical Codes</a> - 
--->          
-          <a href="/cms1500-claim-form/cms1500-claim-form.html" title="CMS 1500 Claim Form">CMS 1500 Claim Form</a> -
-          <a href="/cms1500-claim-form/cms1500-place-of-service-codes.html" title="Place of Service Codes">Place of Service Codes</a> - 
-          <a href="/ub04-claim-form/ub04-cms1450-claim-form.html" title="UB04/CMS1450 Claim Form, Codes &amp; Information">UB04 Claim Form</a> -
-          <a href="/medical-code-sets/drgs-apcs.html" title="DRGs &amp; APCs (Diagnosis-Related Group &amp; Ambulatory Payment Classification)">DRGs &amp; APCs</a>
-          <a href="/tools/taxonomy-codes.html" title="Provider Taxonomy Codes">Provider Taxonomy Codes</a> - 
-          <a href="/ndc/ndc-national-drug-codes.html" title="NDC National Drug Codes">NDC National Drug Codes</a> -
-          <a href="/anatomy-physiology-online/" title="Anatomy &amp; Physiology Online for Coders">Anatomy &amp; Physiology Online for Coders</a> -
-          <a href="http://www.findacode.com/tools/npi-lookup.html" title="NPI Look-Up Tool (National Provider Identifier number)">NPI Look-Up Tool (National Provider Identifier number)</a> - 
-          <a href="/tools/ncci-check.php" title="NCCI Edits Validator">NCCI Edits Validator</a> - 
-          <a href="/scrubber/scrubber.php" title="Scrub-A-Claim - Medical Claim Scrubber">Scrub-A-Claim - Medical Claim Scrubber</a> - 
-          <a href="/articles/index.html" title="Medical Coding and Billing Articles">Medical Coding and Billing Articles</a>
-          <br>
-        </div>
-
-        <div style="line-height:150%;margin-top:7px;">
-          <div style="margin-bottom:7px;">
-          Site Information: &nbsp; <a href="/aboutus/privacy-policy.html">Privacy Policy</a>&nbsp;&nbsp;
-          <a href="/aboutus/terms-of-use.html">Terms of Use</a>&nbsp;&nbsp;
-          <a href="/aboutus/license-agreement.html" title="FindACode.com License Agreement">Subscription Agreement</a>&nbsp;&nbsp;     
-          <a href="/aboutus/resources.html">Resources</a>&nbsp;&nbsp;
-          <a href="/site-map.html">Site Map</a>
-          </div>
-          <div style="margin-bottom:7px;">
-            Find A Code, LLC - 62 E. 300 N.&nbsp;&nbsp; Spanish Fork, UT 84660<br>
-            Phone 801-770-4203 (8am - 5pm Mountain) - Fax (801) 770-4428
-          </div>
-          <div style="margin-bottom:7px;">
-          CPT<sup><small>®</small></sup> copyright 2012 American Medical Association - All Rights Reserved<br>
-          <a href="/aboutus/copyright.html">Copyright</a> © 2000-2013 Find A Code, LLC - All Rights Reserved
-          </div>
-        </div>
-
-      </td>
-      <td width="20px">&nbsp;</td>
-      <td>
-        <style type="text/css">
-.shadow {
-	-moz-box-shadow: 3px 3px 3px #555;
-	-webkit-box-shadow: 3px 3px 3px #555;
-	box-shadow: 3px 3px 3px #555;
-	/* For IE 8 */
-	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#555555')";
-	/* For IE 5.5 - 7 */
-	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#555555');
-}
-        </style>
-        <div style="float: right; margin: 0px auto;width: 255px;vertical-align: top;">
-		<table cellpadding="0" cellspacing="0" border="0">
-			<tbody><tr>
-			<td align="center" valign="middle" style="text-align:center;vertical-align:middle;padding:5px; background: url(/images/seals.png);background-position: 0px 0px;display: block-inline;height: 55px;width: 75px;">
-			  <a href="/aboutus/secure-certificate.html" title="FindACode.com Secure Certificate" style="height: 55px; display: block;">
-			  <!--<img src="/static/images/showsiteseal_new.png" style="border:0px;" alt="FindACode.com Secure Certificate" /> -->
-			  </a>
-			</td>
-			<td align="center" valign="middle" style="text-align:center;vertical-align:middle;padding:5px; background: url(/images/seals.png);background-position: 87px 0px;display: block-inline;height: 55px;width: 75px;">
-			  <a href="http://www.privacypolice.org/findacode.htm" target="_blank" title="PrivacyPolice.org Privacy Registration" style="height: 55px; display: block;">
-			  <!--<img src="/static/images/privacy-police.png" width="61" height="61" alt="PrivacyPolice.org Privacy Registration" style="border:0px;" /> -->
-			  </a>
-			</td>
-			<td align="center" valign="middle" style="text-align:center;vertical-align:middle;padding:5px; background: url(/images/seals.png);background-position: 184px 0px;display: block-inline;height: 55px;width: 75px;">
-			  <a target="_blank" href="https://www.bbb.org/online/consumer/cks.aspx?id=1100506111244587" style="height: 55px; display: block;">
-			  <!--<img title="Click to verify BBB accreditation and to see a BBB report." src="/static/images/bbbsealh2.gif" alt="Click to verify BBB accreditation and to see a BBB report." class="shadow" style="border:0px;" /> -->
-			  </a>
-			</td>
-			</tr>
-			<tr>
-			<td align="center" valign="middle" style="text-align:center;vertical-align:middle;padding:5px; background: url(/images/seals.png);background-position: 0px 64px;display: block-inline;height: 55px;width: 75px;">
-			  <a href="http://order.1and1.com/xml/order/popupGreenPower" title="FindACode.com's Green Web Servers by 1and1.com" style="height: 55px; display: block;">
-			  <!--<img src="/static/images/0901_GreenHosting_RGB_Shadow1.png" style="border:0px;" alt="FindACode.com's Green Web Servers by 1and1.com" /> -->
-			  </a>
-			</td>
-			<td align="center" valign="middle" style="text-align:center;vertical-align:middle;padding:5px; background: url(/images/seals.png);background-position: 181px 65px;display: block-inline;height: 55px;width: 75px;">
-			  <a href="/made-in-usa.html" title="FindACode.com - Made in the USA" style="height: 55px; display: block;">
-			  <!--<img src="/static/images/made-in-usa-logo-web.jpg" class="shadow" style="border:1px solid #aaa;" alt="Made in the USA - FindACode.com" /> -->
-			  </a>
-			</td>
-			<td align="center" valign="middle" style="text-align:center;vertical-align:middle;padding:5px; background: url(/images/seals.png);background-position: 89px 65px;display: block-inline;height: 55px;width: 75px;">
-			  <a href="/powered-by-findacode.html" title="Powered by FindACode.com" style="height: 55px; display: block;">
-			  <!--<img src="/static/images/fac-pb-logo-120x35.gif" class="shadow" style="border:1px solid #aaa;;" alt="Powered by FindACode.com" /> -->
-			  </a>
-			</td>
-			</tr>
-        </tbody>
-    </table>    
-        </div>
-  
-      </td>
-    </tr>
-  </tbody></table>
 
   <script type="text/javascript">
     $(function() { 
@@ -829,10 +657,10 @@ document.write('<a href="mail'+'to:'+userxname+'@'+hostxname+params+'"'+classcod
             var comments = $('#suggestions_dialog :input[name=Comments]').val();
             if (comments != "") {
               $('#suggestion_results').html("<span style='color:green;'><b>Please wait while we process your request.</b></span>");
-              $(event.target).attr('disabled','true');
+              $(event.target).prop('disabled',true);
               $.post('/suggestion.php', $('#suggestions_form').serialize(), function(data) {
                 $('#suggestion_results').html(data);
-                $(event.target).removeAttr('disabled').hide();
+                $(event.target).prop('disabled', false).hide();
               });
             } else {
               $("#suggestion_results").html("<span style='color:red;'><b>Please enter a comment or question.</b></span>");
@@ -843,27 +671,9 @@ document.write('<a href="mail'+'to:'+userxname+'@'+hostxname+params+'"'+classcod
     });
   </script>
 
-  <div id="suggestions_dialog" title="Contact Us" style="display:none;">
-    <div style="margin-top:7px;margin-bottom:5px;">
-      <h4 style="margin:0;padding:0;padding-bottom:5px;">
-        Questions?&nbsp; Suggestions?&nbsp; Problems?&nbsp; Tell us!
-      </h4>
-    </div>
-    <form id="suggestions_form" method="post" action="" onsubmit="return false;">
-      <input type="hidden" name="FirstName" value="">
-      <input type="hidden" name="LastName" value="Guest">
-      <input type="hidden" name="Email" value="guest@findacode.com">
-      <input type="hidden" name="Date" value="Friday 1st of November 2013 02:28:58 PM">
-      <input type="hidden" name="Browser" value="ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)">
-      <input type="hidden" name="Cur_Page" value="/aboutus/privacy-policy.html">
-      <input type="hidden" name="Cur_Uid" value="0">
-      <input type="hidden" name="Cur_Aid" value="0">
-      <textarea rows="8" cols="50" style="width:370px;" name="Comments"></textarea>
-    </form>
-    <div id="suggestion_results"></div>
-  </div>
-
-  </div> <!-- footer -->
+  
+  
+  <script type="text/javascript" src="/static/v1a/jquery/jquery.pngFix.js"></script>
 
   <script type="text/javascript">
   /* <![CDATA[ */
@@ -873,13 +683,13 @@ document.write('<a href="mail'+'to:'+userxname+'@'+hostxname+params+'"'+classcod
   var google_remarketing_only = true;
   /* ]]> */
   </script>
-  <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-  </script>
+  <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
   <noscript>
   <div style="display:inline;">
   <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1040915089/?value=0&amp;label=qFA4CPXPzwMQkbWs8AM&amp;guid=ON&amp;script=0"/>
   </div>
   </noscript>
+  
   <!-- Quantcast Tag -->
   <script type="text/javascript">
   var _qevents = _qevents || [];
@@ -901,7 +711,7 @@ document.write('<a href="mail'+'to:'+userxname+'@'+hostxname+params+'"'+classcod
   </div>
   </noscript>
   <!-- End Quantcast tag -->
-  <script type="text/javascript" src="/static/v1a/jquery/jquery.pngFix.js"></script>
+  
   <script type="text/javascript">
   __compete_code = '4636535d1f8315afea3131fb5009868c';
   (function () {
@@ -915,5 +725,169 @@ document.write('<a href="mail'+'to:'+userxname+'@'+hostxname+params+'"'+classcod
   }());
   </script>
 
+<script>
+document.onclick = function (e) {
+  e = e ||  window.event;
+  var element = e.target || e.srcElement;
+  var ie = (function(){
+    var undef, v = 3, div = document.createElement('div'), all = div.getElementsByTagName('i');
+    while (div.innerHTML = '<!--[if gt IE ' + (++v) + ']><i></i><![endif]-->', all[0]);
+    return v > 4 ? v : undef;
+  }());
+  if (element.id == 'DemoLink') {
+    if (ie <= 8){
+      location.href = "http://www.findacode.com/demo";
+    } else {
+      location.href = "https://www.demochimp.com/app/view/p/8ef358e0f96e0df593f3d139724d41cc6bfcd05a";
+    }
+    return false;
+  }
+};
+</script>  
 
-</body></html>
+<script type="text/javascript">
+var clicky_site_ids = clicky_site_ids || [];
+clicky_site_ids.push(100675597);
+(function() {
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//static.getclicky.com/js';
+  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+})();
+</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100675597ns.gif" /></p></noscript>
+
+<script type="text/javascript">
+function show_menu(menu_id,li_obj) {
+  li_obj.style.zIndex = 999;
+  document.getElementById(menu_id).style.display='block';
+  document.getElementById(menu_id).style.zIndex='1000';
+}
+$(document).ready(function() {
+  function addMega(){
+    $(this).addClass("hovering");
+  }
+  function removeMega(){
+    $(this).removeClass("hovering");
+    }
+  var megaConfig = {
+     interval: 250,
+     sensitivity: 4,
+     over: addMega, 
+     timeout: 250,
+     out: removeMega
+  };
+  $("li.mega").hoverIntent(megaConfig);
+  
+//  $('input.autocomplete').findacode_autocomplete();
+  
+  if($.browser && $.browser.msie && parseFloat($.browser.version)<7) {
+//  Abandon hope all ye who are stuck with a crappy browser.
+    $(document).pngFix();
+    $(".page_box_link").hover(function(){
+      $(this).css("background-image","none");
+    });
+    $(".header .page_category span").css("width","22px").css("height","22px");
+    $(".body_section").css("padding-top","0px");
+    $(".header_shadow").css("background-color","white");
+    $("#lady-coder").css("margin-top","6px");
+    $("#subscribe_button").css("margin-right","0px");
+  }
+
+  //Date setter (quarter picker)
+  $('#viewing_date').attr('size',10).datepicker({dateFormat:'yy-mm-dd',buttonImage:'/static/images/calendar2.gif',buttonImageOnly:true,showOn:'both',minDate:'2010-01-1',maxDate:'2014-06-30'});
+  $('#quarter_date_picker').dialog({
+    autoOpen:false,
+    modal:true,
+    width:350,
+    position:['center', 75],
+    buttons : {
+      'Save' : function(){ 
+        $.post('/account/ajax_quarter_switcher.php', $('#quarter_date_picker_form').serialize(), function(data){
+          if (data && data.success) {
+            alert(data.info);
+            window.location.reload();
+          } else {
+            alert(data.info);
+          }
+        }, 'json');
+        
+      },
+      'Cancel' : function(){ $(this).dialog('close'); }
+    }
+  })
+  $('#viewing_date').bind('change click', function() {
+    $('#d_specify').prop('checked',true);
+  });
+  $(document).delegate('a.pick_date','click',function(){
+    $('#quarter_date_picker').dialog('open');
+    return false;
+  });
+  
+  
+  $('a:contains(Sign In)').click(function(){return signin_popopen();});
+  $('a:contains(SIGN IN)').click(function(){return signin_popopen();});
+  
+  $('#password_dialog').dialog({'modal':true,'autoOpen':false});
+});
+
+function signin_popopen(no_animate) {
+    header_height = '225px'; body_top_padding = '225px';
+  $('#header_signin').show();
+  $('#main_signin').focus();
+  if (no_animate) {
+    $('div.header').css({'height':header_height});
+    $('div.header_shadow').css({'top':header_height});
+    $('div.body_section').css({'padding-top':body_top_padding}); 
+  } else {
+    $('div.header').animate({'height':header_height});
+    $('div.header_shadow').animate({'top':header_height});
+    $('div.body_section').animate({'padding-top':body_top_padding});
+  }
+    return false;
+}
+function signin_popclose(){
+  $('div.header').animate({'height':'87px'});
+  $('div.header_shadow').animate({'top':'87px'});
+  $('div.body_section').animate({'padding-top':'87px'});
+  $('#header_signin').hide();
+}
+</script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20540029-1']);
+  _gaq.push(['_setDomainName', 'findacode.com']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"177dd90b32","applicationID":"3271946","transactionName":"NFMDZEBSChZRB01fWg0ZNEJbHAUHXxFNQ0ZMRhNZRFIHHB0UVlpcAE9PWEZeCA==","queueTime":0,"applicationTime":43,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-361.min.js"}</script>
+
+<div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-draggable ui-dialog-buttons" tabindex="-1" role="dialog" aria-labelledby="ui-id-1" style="display: none; outline: 0px; z-index: 1000;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-id-1" class="ui-dialog-title">Contact Us</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="suggestions_dialog" style="" class="ui-dialog-content ui-widget-content">
+    <div style="margin-top:7px;margin-bottom:5px;">
+      <h4 style="margin:0;padding:0;padding-bottom:5px;">
+        Questions?&nbsp; Suggestions?&nbsp; Problems?&nbsp; Tell us!
+      </h4>
+    </div>
+    <form id="suggestions_form" method="post" action="" onsubmit="return false;">
+      <input type="hidden" name="FirstName" value="">
+      <input type="hidden" name="LastName" value="Guest">
+      <input type="hidden" name="Email" value="guest@findacode.com">
+      <input type="hidden" name="Date" value="Wednesday 7th of May 2014 04:22:03 AM">
+      <input type="hidden" name="Browser" value="ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)">
+      <input type="hidden" name="Cur_Page" value="/aboutus/privacy-policy.html">
+      <input type="hidden" name="Cur_Uid" value="0">
+      <input type="hidden" name="Cur_Aid" value="0">
+      <textarea rows="8" cols="50" style="width:370px;" name="Comments"></textarea>
+    </form>
+    <div id="suggestion_results"></div>
+  </div><div class="ui-dialog-buttonpane ui-widget-content ui-helper-clearfix"><div class="ui-dialog-buttonset"><button type="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Close</span></button><button type="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Submit</span></button></div></div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-labelledby="ui-id-2" style="display: none; outline: 0px; z-index: 1000; position: absolute;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-id-2" class="ui-dialog-title">Password Help</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="password_dialog" style="" class="ui-dialog-content ui-widget-content">
+          <p>Enter the email address and password you used when creating your account to sign in.</p>
+          <p>Don't remember your password? <a href="/lost-password.html" style="white-space:nowrap;font-weight:bold;">Click here to reset it.</a></p>
+        </div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 1000;"></div></div></body></html>
