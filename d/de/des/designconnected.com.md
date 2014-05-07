@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designconnected.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106055345id_/http%3A//www.designconnected.com/page/view/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designconnected.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508004837id_/http%3A//www.designconnected.com/page/view/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy
 
