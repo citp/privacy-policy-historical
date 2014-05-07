@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wdbj7.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104055218id_/http%3A//www.wdbj7.com/Privacy-Policy/-/20128238/20127922/-/w86fx8/-/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdbj7.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507090210id_/http%3A//www.wdbj7.com/Privacy-Policy/20127922) for the most accurate reproduction.*
 
 # Privacy Policy | Home - Home
 
