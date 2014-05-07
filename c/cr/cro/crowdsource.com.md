@@ -1,100 +1,67 @@
-> *The following text is extracted and transformed from the crowdsource.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdsource.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507091041id_/http%3A//www.crowdsource.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy | CrowdSource
 
-**Go Daddy Respects Your Privacy**
+Last updated: December 2, 2013
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+CrowdSource knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy and by visiting the CrowdSource Site, you are accepting the practices described in this Privacy Policy. Capitalized terms not defined in this Privacy Policy shall have the meanings ascribed to them in the [Terms of Service](http://www.crowdsource.com/terms-of-service).
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+### What Personal Information About Users Does CrowdSource Gather?
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+The information we learn from users helps us personalize and continually improve your experience with CrowdSource, the Sites and the Services. Here are the types of information we gather:
 
-**Information Collection and Use**
+  * **Information You Give Us** : We receive and store any information you enter on the Sites or through the Services. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing the Services, improving the Sites, and communicating with you.
+  * **Automatic Information** : We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use “cookies,” and we obtain certain types of information when your Web browser accesses the Sites. Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; e-mail address; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locators (URL) clickstream to, through, and from our Web site, including date and time; cookie number; and pages you viewed or searched for.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+### What About Cookies?
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+  * Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as personalization.
+  * The “Help” portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.  However, cookies allow you to take full advantage of the CrowdSource Site’s features.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+### Does CrowdSource Share the Information It Receives?
 
-**Security**
+Information about our users is an important part of our business, and we are not in the business of selling, sharing, or leasing it to others. We share user information only as described below and with subsidiaries that CrowdSource controls.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+  * **With Your Consent** : By accepting the [CrowdSource Terms of Service](http://www.crowdsource.com/terms-of-service), you expressly consent to our use of your information as outlined in this Privacy Policy.
+  * **Agents** : We employ other companies and individuals to perform functions on our behalf. Examples include analyzing data, processing payments, and providing customer service. They have access to information needed to perform their functions, but may not use it for other purposes.
+  * **Business Transfers** : As we continue to develop our business, we might sell or buy additional services or business units. In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy (unless, of course, the user consents otherwise). Also, in the event that CrowdSource or substantially all of its assets are acquired, user information will of course be one of the transferred assets.
+  * **Protection of CrowdSource and Others** : We may release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our [Terms of Services](http://www.crowdsource.com/terms-of-service), or other agreements; or protect the rights, property, or safety of CrowdSource, our Users, or others.  This includes (1) exchanging information with other companies and organizations for fraud protection and credit risk reduction; and (2) if you are a provider of a Service on the CrowdSource Site, we may release your name and address to requesters for whom you provide Services so that those requestors can comply with tax and other legal obligations they might have.  Obviously, however, **this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from users for commercial purposes in violation of the commitments set forth in this Privacy Policy**.
 
-**Updating Your Information**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+### How Does CrowdSource Protect Information About Me?
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+  * We work to protect the security of your information during transmission by using Secure Socket Layer (SSL) software, which encrypts information you input.
+  * We take reasonable measures to protect your personal information in an effort to prevent loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware, however, that despite our efforts, no security or procedural measures are perfect or impenetrable and no method of data transmission can be guaranteed against any interception or other type of misuse.
 
-      iii.      You may call us at: (480) 505-8800
 
-       iv.      You may fax us at: (480) 505-8844
 
-**Sending Emails**
+### What Choices and Access Do I Have?
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+    * As discussed above, you can always choose not to provide information, even though it might be needed to take advantage of the CrowdSource Sites and/or Services.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**Compliance with Laws and Law Enforcement**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+### Links to Third-Party Sites
 
-**Third Party Service Providers**
+Our Sites and Services may contain links to Third-Party Sites. This Policy does not apply to Third-Party Sites and any information you provide on the linked pages is provided directly to that third party and is subject to that third party’s privacy policy. We are not responsible for the privacy and security practices and policies of any sites that are linked to from the Sites or through the Services. We encourage you to learn about the privacy and security practices and policies of Third-Party Sites before providing them with personal information.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+### Participation Agreement, Notices, and Revisions
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+If you choose to visit the CrowdSource Site or participate in the Services, your visit and any dispute over privacy is subject to this Privacy Policy and our [CrowdSource Terms of Service](http://www.crowdsource.com/terms-of-service), including limitations on liability, indemnification, and the arbitration of disputes.
 
-**Supplementation of Information**
+### Handling of Inquiries, General Concerns and Complaints
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+If you have any concern about privacy at CrowdSource, please [contact us](http://www.crowdsource.com/contact-us/) with a thorough description, and we will try to resolve it. Pursuant to this Privacy Policy and the [Terms of Service](http://www.crowdsource.com/terms-of-service), you agree not to pursue CrowdSource through any means, including regulatory agencies, courts, or the media, until and unless CrowdSource has had a minimum of 30 days to respond to the initial communication and while CrowdSource and you are conducting a dialogue about the matter.
 
-**Contests/Surveys**
+Our business changes constantly, and our Privacy Policy and the [Terms of Service](http://www.crowdsource.com/terms-of-service), will also change. We may e-mail periodic reminders of our notices and conditions, but you should check the CrowdSource Sites frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+  
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-**Tell-A-Friend**
+  
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
