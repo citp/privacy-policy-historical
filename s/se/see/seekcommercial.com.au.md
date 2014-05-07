@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekcommercial.com.au privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106122739id_/http%3A//www.seekcommercial.com.au/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekcommercial.com.au privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507225748id_/http%3A//www.seekcommercial.com.au/Privacy) for the most accurate reproduction.*
 
 # SEEK Commercial - Privacy
 
@@ -14,7 +14,7 @@
 | 
 
   
-SEEK Commercial Pty Ltd ("SEEK Commercial", "we", "us", "our") ACN 122 162 029, recognises the importance of your privacy and is committed to protecting any personal information we collect about you in accordance with the National Privacy Principles.
+SEEK Commercial Pty Ltd ("SEEK Commercial", "we", "us", "our") ACN 122 162 029, recognises the importance of your privacy and is committed to protecting any personal information we collect about you in accordance with the Australian Privacy Principles.
 
 For the purposes of this Privacy Statement, the word "you" includes website visitors, SEEK Commercial registered users and purchasers of SEEK Commercial products and services.
 
@@ -138,9 +138,9 @@ In some instances, including for example, where you require financial assistance
 
 Credit Suppliers may require a range of additional personal information for loan application purposes which is not specified in this Privacy Statement. You will be sent the Credit Supplier's privacy terms should you require SEEK Commercial to supply any services or products that may require the provision of services by Credit Suppliers.
 
-SEEK Commercial may also disclose your personal information to third party contractors who perform services for us including the management and maintenance of our information systems.
+SEEK Commercial may also disclose your personal information to third party contractors who perform services for us including the management and maintenance of our information systems. .  In some circumstances we may transfer or disclose information to persons and/or businesses outside Australia, including in New Zealand, United States of America and India.
 
-Where your personal information is passed on to third party contractors, SEEK Commercial takes reasonable steps to ensure that these individuals and/or organisations are bound by confidentiality and privacy obligations in relation to the protection of your personal information.
+Where your personal information is passed on to third party contractors, SEEK Commercial takes reasonable steps to ensure that these individuals and/or organisations are bound by confidentiality and privacy obligations in relation to the protection of your personal information. Where information is transferred outside of Australia we believe that the recipients of such information are subject to a law binding scheme or contract which effectively upholds principles for fair handling of the information that are similar in all material respects to the Australian Privacy Principles.
 
 Other than as outlined above, SEEK Commercial will not disclose your personal information without your consent unless disclosure is necessary to prevent a threat to life or health, authorised or required by law, reasonably necessary to enforce the law or necessary to investigate a suspected unlawful activity.  
   
@@ -153,7 +153,7 @@ Other than as outlined above, SEEK Commercial will not disclose your personal in
 | 
 
   
-Upon your request, SEEK Commercial will provide you with access to your personal information unless there is an exception which applies under the National Privacy Principles. If we deny such access, we will tell you why.
+Upon your request, SEEK Commercial will provide you with access to your personal information unless there is an exception which applies under the Australian Privacy Principles. If we deny such access, we will tell you why.
 
 SEEK Commercial may recover any reasonable costs incurred in providing you access to the requested information. To request access to your personal information, please contact SEEK Commercial using one of the contact options provided in paragraph 12 of this Privacy Statement.
 
@@ -234,13 +234,25 @@ For further information about the protection of your privacy, please visit the 
 
 | 
 
-**Feedback and Questions about privacy and the SEEK Commercial website**  
+**Feedback, Complaints and Questions about privacy and the SEEK Commercial website**  
   
   | 
 
   
 SEEK Commercial welcomes ideas and feedback about all aspects of the SEEK Commercial website. This feedback may be used to administer and refine the services we provide and may be shared with SEEK Commercial partners either in aggregate form or with specific identifying characteristics removed.
 
-If you have any questions regarding this Privacy Statement, practices of the SEEK Commercial website or your dealings with SEEK Commercial, you can contact us in the following ways:  
+If you have any complaints about a breach by SEEK Commercial of any of the Australian Privacy Principles or any questions regarding this Privacy Statement, practices of the SEEK Commercial website or your dealings with SEEK Commercial, you can contact us in the following ways:  
   
 | 
+
+Any complaints received by us will be referred for prompt investigation by our compliance team and a written response will be provided to you as soon as possible.  
+  
+**13.**
+
+| 
+
+**Provision of Copy of Privacy Statements**  
+  
+  | 
+
+If you require a hard copy of this Privacy Statement or a copy in some other format to suit your particular needs please contact us using any of the methods detailed in paragraph 12 above, and we will arrange for a suitable copy to be provided to you. 
