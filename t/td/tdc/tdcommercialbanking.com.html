@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tdcommercialbanking.com privacy policy that was archived on 2013-11-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131105215239id_/http%3A//www.td.com/privacy/index_inc.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tdcommercialbanking.com privacy policy that was archived on 2014-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140507224853id_/http%3A//www.td.com/privacy/index_inc.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -54,41 +54,82 @@ if(navigator.appVersion.indexOf("Mac")!=-1)
 
 
 <span class="td-skiplink"><a href="#webcontent">Skip to content</a></span>
+
+<style>
+
+#custom-logo {
+margin: 0 0 0; 
+font-size: 53px; 
+line-height: 1; 
+float: left; 
+padding-top: 5px;
+}
+
+a:focus, a:active {
+border : 1px dotted !important;
+text-decoration:underline !important;
+}
+
+#globalMainNav #globalMainNavCurrent a{
+background: #1A5336 !important;
+}
+
+#globalSecNav UL LI a{
+background: url("/images/evergreen/navtop/level2-bg.gif") repeat-x scroll left top #1A5336 !important;
+}
+
+
+
+</style>
+
+
 <div id="header" class="clearfix headerTD">
 
 
 
-
-<div id="logo" itemscope="" itemtype="http://schema.org/Organization">
-  
-  <a itemprop="url" target="_top" href="/about-tdbfg/our-business/index.jsp">
-   <img itemprop="logo" alt="TD Bank Financial Group" src="/includes/styles/fg-td-logo.gif">
-  </a>
-  <!--
-  <span>
-  <a itemprop='url' target="_top" href="/about-tdbfg/our-business/index.jsp">
-   <img itemprop='logo' alt="TD Bank Financial Group" src="/includes/styles/fg-tdcom-logo.gif" class="logo"/>
-  </a> 
-  </span>
-  -->
+<div id="custom-logo" itemscope="" itemtype="http://schema.org/Organization">
+<a itemprop="url" target="_top" href="/about-tdbfg/our-business/index.jsp" title="TD Bank Financial Group"><img itemprop="logo" alt="TD Bank Financial Group" src="/includes/styles/fg-td-logo.gif"></a>
 </div>
 
 <div id="headerContent">
 
 <div id="languageToggle" style="float: right; height: 18px; position: static; _top: 0px; padding: 0 24px 22px 0;">
+
+
 <ul class="GlobalLink">
-
-
+<li class="MultilangToggle" style="display: none;"><a id="langToggle_sc" href=""><span lang="zh-cn">简体中文</span></a></li>
+<li class="MultilangToggle" style="display: none;"><a id="langToggle_tc" href=""><span lang="zh-hk">繁體中文</span></a></li>
 </ul>
+
+
 </div>
 
 <div class="topNavLinks" style="margin-right: 0; margin-top: 0 !important; _margin-top: 0; padding-right: 24px;">
  <ul>
-    <li class="first"><a href="/about-tdbfg/our-business/search/index.jsp" target="_top">Search</a></li><li style="padding: 0 0 0 5px;"><a target="_top" href="/community/contactus.jsp">Contact Us</a></li>
+    <li class="first"><a href="/about-tdbfg/our-business/search/index.jsp" title="Search" target="_top">Search</a></li><li style="padding: 0 0 0 5px;"><a target="_top" href="/community/contactus.jsp" title="Contact Us">Contact Us</a></li>
  </ul>
 </div>
 </div>
 </div>
+<script type="text/javascript"> 
+	$(document).ready(function() {
+		var mLink = $(location)[0].href.split("?")[0];
+		
+		var requestURL = "/servlet/com.td.mlps.servlet.MLPSCheckLinkServlet?transURL=" + mLink.split("://")[1];
+		
+		var mLink_tc = mLink.replace("//www.","//zt.");
+		var mLink_sc = mLink.replace("//www.","//zh.");
+		
+		$.get(requestURL, function (response) {		
+ 		if (response == "true"){
+    $("li.MultilangToggle").css ("display","inline");
+				$("a#langToggle_tc").attr("href", mLink_tc);
+				$("a#langToggle_sc").attr("href", mLink_sc);
+						 }
+
+  });
+	});
+</script>
 
                                
                                
@@ -130,7 +171,15 @@ if(navigator.appVersion.indexOf("Mac")!=-1)
 			}
 			window.open(href,'popupwindow',settings);
 		}
-    </script>                             
+    </script><style>
+a:focus, a:active {
+   border : 1px dotted;
+}
+
+#leftNav UL.sideSecNav a:focus {
+   border : 1px dotted;
+}
+</style>                             
 
                                
                                
@@ -329,12 +378,25 @@ if(navigator.appVersion.indexOf("Mac")!=-1)
 
                                
                                       
+<style>
+.footerSocialMediaLinks{float:right; margin:0; padding:0;}
+.footerSocialMediaLinks li{border-left:0px solid #006666; float:left; list-style-type: none; padding: 0 5px;};
+</style>
 
 <div class="clearfix" id="footer">
 <ul id="footerLinks">
 <li style="border:none !important;"><a href="/privacy-and-security/privacy-and-security/index.jsp" class="footerLink td-link-newwindow" title="(opens new window)" target="_blank">Privacy and Security<span class="td-accesstext">(opens new window)</span></a></li>
 <li><a href="/to-our-customers/index.jsp" class="footerLink td-link-newwindow" title="(opens new window)" target="_blank">Legal<span class="td-accesstext">(opens new window)</span></a></li>
 <li><a href="http://www.tdcanadatrust.com/customer-service/accessibility/accessibility-at-td/index.jsp" class="footerLink" title="Accessibility">Accessibility</a></li>
+</ul>
+
+<ul id="footerSocialMediaLinks" class="footerSocialMediaLinks">
+<li style="border:none !important;"><h3>Connect with TD: </h3></li>
+<li><a title="(opens new window)" class="td-link-newwindow" onclick="trackCustomLink('tdct:social:twitter','Link','onClick');" target="_blank" href="http://twitter.com/td_canada"><img alt="Twitter Icon" src="/includes/styles/twitter.gif"></a></li>
+<li><a title="(opens new window)" class="td-link-newwindow" onclick="trackCustomLink('tdct:social:facebook','Link','onClick');" target="_blank" href="http://facebook.com/tdbankgroup/"><img alt="Facebook Icon" src="/includes/styles/facebook.gif"></a></li>
+<li><a title="(opens new window)" class="td-link-newwindow" onclick="trackCustomLink('tdct:social:youtube','Link','onClick');" target="_blank" href="http://www.youtube.com/tdcanada"><img alt="YouTube Icon" src="/includes/styles/youtube.gif"></a></li>
+<li><a title="(opens new window)" class="td-link-newwindow" onclick="trackCustomLink('tdct:social:linkedin','Link','onClick');" target="_blank" href="http://www.linkedin.com/company/td"><img alt="LinkedIn Icon" src="/includes/styles/linkedin.gif"></a></li>
+<li><a title="(opens new window)" class="td-link-newwindow" onclick="trackCustomLink('tdct:social:rss','Link','onClick');" href="http://www.tdcanadatrust.com/customer-service/overview/rss-feeds/rss.jsp"><img alt="RSS Icon" src="/includes/styles/rss.gif"></a></li>
 </ul>
 
 <!--<div id="legal">TD Group Financial Services Site - Copyright © TD</div>-->
