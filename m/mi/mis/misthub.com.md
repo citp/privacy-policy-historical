@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misthub.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105045442id_/http%3A//www.misthub.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misthub.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507102544id_/http%3A//www.misthub.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mist Hub
 
@@ -38,4 +38,4 @@ Our website may contain links to other websites of interest. However, once you h
  **Controlling your personal information:**  
 We will not sell, distribute or lease your personal information to anyone.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please login to [your account](https://web.archive.org/my-account/ "My Account") and update your information or email us as soon as possible. We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, please login to [your account](https://web.archive.org/my-account/ "My Account") and update your information or email us as soon as possible.  We will promptly correct any information found to be incorrect.
