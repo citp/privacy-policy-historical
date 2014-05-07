@@ -1,60 +1,79 @@
-> *The following text is extracted and transformed from the japansquare.com privacy policy that was archived on 2008-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080519161614id_/http%3A//www.modyjfk.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japansquare.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507141548id_/http%3A//www.japansquare.com/terms.asp%3Fid%3Dprivacy) for the most accurate reproduction.*
 
-# ModyJFK.com
+# Privacy Policy | JAPANSQUARE.com
 
-**PRIVACY POLICY**
+### Privacy Policy
 
-For Mody Consultancy Services, Inc., official website [www.modyjfk.com](http://www.modyjfk.com/), privacy issues are a high priority for us, thus we follow standard industry wide, internet privacy policies governed by [Federal Trade Commission, US](http://www.ftc.gov/) (FTC) to maintain your personal information. We respect and are committed to protecting your privacy. 
+#### 1\. Use of collected Personal Information
 
-By accessing the services provided by Mody Consultancy Services, Inc., in this & affiliated website, you agree to the collection and use of your data in the manner provided in this Privacy Policy.
-
-**INFORMATION COLLECTED**
-
-Mody Consultancy Services, Inc. may collect personal identifiable information such as full names, addresses and e-mail addresses that are voluntarily submitted by a User when he / she wishes to become a user of the Services provided. Our advertisers may collect anonymous traffic information from their own assigned cookies to your browser. This and affiliated websites also contains links to other Web sites for which we do not own, manage or control. You acknowledge that Mody Consultancy Services, Inc does not control the performance of merchants or advertisers that appear on this and affiliated websites. Therefore, if you choose to purchase a product or service, you release us from any and all claims you may have regarding the third party's failure to deliver or perform. We use other third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
-
-This and affiliated websites contains and provides, bulletin, blogs and forums and other services available to you. Please understand that any information that is disclosed in these areas becomes public information, therefore Mody Consultancy Services, Inc. has no control over its use and you should exercise caution when disclosing your personal information to anyone.
-
-**USE OF INFORMATION**
-
-Mody Consultancy Services, Inc. uses the information provided by User, only to serve the purposes for which the information is intended, i.e. administering the services provided in this and affiliated website, and replying to support requests or contacting User. Mody Consultancy Services, Inc. does not share, sell or rent personal identifiable information with outside parties unless:
-
-  1. To investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of Mody Consultancy Services, Inc.'s terms of use or to defend against legal claims.
-  2. Special circumstances such as compliance with subpoenas, court orders, requests / order from legal authorities or law enforcement agencies requiring such disclosure.
-  3. It is necessary, to administer the services we provide. 
+  * We may use Personal Information, including your name, address, telephone number, date of birth, email address, and other information including details of your transactions with us, for the following purposes. 
+    * (1) For shipment of orders from us; to send catalogs and direct mail; for related after service; to send information about new products and services.
+    * (2) For activities relating to the sale of our products; surveys; and other promotional information we deem relevant.
+    * (3) To send gifts etc. as part of promotions etc. we are operating.
+    * (4) For the purpose of sending catalogues, direct mail, samples etc. from other businesses we deem suitable.
+    * (5) For preparing statistical data to support marketing, sales promotions and special features. In this case your information will be used anonymously.
+    * (6) For credit authorization, credit monitoring, and management of accounts payable.
+    * (7) For the fulfillment of relevant delegated duties assigned to us by another company that require processing all or some Personal Information.
+    * (8) For sending catalogs and direct mail etc., related after service, and information on new products and services based on Personal Information we have received from other companies.
+    * (9) To respond to and answer your inquires.
+    * In addition to the above, we may record telephone calls you make to us for those purposes of customer service training and to ensure our complete understanding of your inquiry.
 
 
 
-From time to time, this information is also used to inform you of improvements in the services provided. Mody Consultancy Services, Inc. may also use personally identifiable End-User information to provide targeted content and commerce opportunities to End-Users based on their demographic and behavioral information. Mody Consultancy Services, Inc. will not use or share personally identifiable information provided by Users online in ways or for reasons unrelated to the ones described above without providing an opportunity to the user to opt-out or otherwise prohibit such unrelated uses.
+#### 2\. Choice in collection of Personal Information
 
-**CHOICES AVAILABLE TO YOU REGARDING COLLECTION, USE AND DISTRIBUTION OF YOUR INFORMATION**
+  * Whether to fill in or enter Personal Information is your choice, but certain places on our forms and website pages are marked with “You must enter this information” or similar text. If you do not fill in these sections, we will not be able to confirm your identity and will not be able to process your request. 
 
-Submitting personal identifiable information to Mody Consultancy Services, Inc. is entirely voluntary. You are not required to register with Mody Consultancy Services, Inc. to use our site. However, we offer some services only to visitors who do register. 
 
-You may opt-in or opt-out of any marketing / promotional / newsletters mailings. You may update your information and change your account settings at any time. 
 
-With your request, we will remove / block your personal identifiable information from our database, thereby canceling your registration. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account. 
+#### 3\. Sharing your Personal Information
 
-If Mody Consultancy Services, Inc. plans to use your personal identifiable information for any commercial purposes, we will notify you and provide you with option to opt-out of having your information used for those purposes. 
+  * We will not share or disclose Personal Information we have received from you to any third party, excluding in the following cases. 
+    * (1) When we have obtained your consent.
+    * (2) When required to by law etc.
 
-**SECURITY**
 
-Information collected by Mody Consultancy Services, Inc. is stored in secure operating environments. To prevent loss, misuse and alteration of the information under Mody Consultancy Services, Inc.’s control, we have appropriate procedures. Our servers are accessible only to authorized personnel only. All personal identifiable information is shared among respective personnel from different department on need to know basis to complete the transaction and to provide the services requested by you. 
 
-Although we will safeguard the confidentiality of your personal identifiable information, however, Internet itself cannot be made completely secure. By using this and affiliated websites, you agree to not hold Mody Consultancy Services, Inc., its partners and affiliates accountable for disclosure of your information due to errors or loss in transmission and / or unauthorized acts beyond our control. 
+#### 4\. Entrusting Personal Information to other parties
 
-**UPDATE / CORRECT INACCURACIES IN THE USER INFORMATION**
+  * We will not entrust Personal Information we have received from you to another party, excluding in the following cases. 
+    * (1) When we outsource to an outsourcing company with which we have signed a nondisclosure agreement pertaining to Personal Information some necessary task requiring the handling of Personal Information and with a purpose that is made clear to you.
+    * (“Outsourcing company” may include a courier company that delivers orders; a printing company that produces labels for addressing catalogs; a credit card company specified when paying by credit card; a collections agency used when items have not been paid for; a telephone follow-up service that presents information about new products and services etc.) 
 
-To correct or update any information you have provided, send an e-mail to [editor@modyjfk.com](mailto:editor@modyjfk.com)
 
-**POLICY UPDATES**
 
-We reserve the right to change or update this policy at any time by placing a notice on this and / or affiliated website. Such changes shall be effective immediately upon posting.  
-You can, also offer your views, suggestions, at [editor@modyjfk.com](mailto:editor@modyjfk.com)
+#### 5\. Disclosing and correcting Personal Information
 
-This and affiliated websites, are, owned & operated by Mody Consultancy Services, Inc. The Agreement shall be governed by US Laws. The Courts of law at New York, NY shall have exclusive jurisdiction over any disputes and / or legal issues, arising under this agreement. 
+  * (1) We will quickly (within a reasonable period) respond to requests to disclose or correct your Personal Information. For inquiries and to correct your personal information, please contact the Personal Information Service Center. We may require payment of a fee for disclosure of your Personal Information.
+  * (2) In principle we do not respond to requests from family members for disclosure or correction of personal information. However, when we deem it necessary for the fulfillment of the sales agreement this does not apply to family members living in the same residence as you.
 
-**You can contact us at:**
 
-Mody Consultancy Services, Inc  
-E-mail: [info@modyjfk.com](mailto:info@modyjfk.com)  
- 
+
+#### 6\. Applying for suspension of use/sharing of Personal Information
+
+  * (1) Even when we use and share applicable Personal Information with your consent, if we receive a request from you to cease this use and sharing we will take action to cease this use by us and sharing with affiliated companies. However, we cannot delete information necessary for the operations of our business.
+  * (2) You can stop email, posted direct mail and telephone calls from us by contacting the Personal Information Service Center at the address listed below. Requests to cancel online registration and stop email newsletter subscriptions must be made separately.
+
+
+
+#### 7\. Items relevant to disclosure of Personal Information
+
+  * (1) Company name  
+Navibird, Inc.
+  * (2) Personal Information Protection Supervisor  
+・Contact Person: Director, Customer Service Department  
+・Send Inquiries To: Personal Information Service Center (below)
+  * (3) Purposes for using Personal Information that may be disclosed  
+As described in items (1)-(9) of section 1.
+  * (4) Where to direct complaints about handling of Personal Information that may be disclosed  
+Personal Information Service Center (below)
+  * (5) Disclosure process  
+As described in section 5.
+  * (6) Inquiries:  
+Personal Information Service Center  
+Email:[info_en@japansquare.com](mailto:info_en@japansquare.com) Emails may be sent to this address at any time  
+Address: 5-12, Kutaromachi 2-chome, Chuo-ku, Osaka 541-0056
+
+
+
+Date of Enactment: January 28, 2014
