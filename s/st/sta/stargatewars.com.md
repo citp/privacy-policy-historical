@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stargatewars.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206101458id_/http%3A//www.stargatewars.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stargatewars.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507022438id_/http%3A//www.stargatewars.com/privacy.php) for the most accurate reproduction.*
 
 # GateWars_Main :: Privacy
 
@@ -54,7 +54,7 @@ This Web site contains links to other sites. Please be aware that we, GateWars_M
 
 If users have any questions or suggestions regarding our privacy policy, please [contact us](mailto:admin@gatewars.com). 
 
-| [Privacy Policy](https://web.archive.org/web/20131206101458id_/http%3A//www.stargatewars.com/privacy.php) | [Contact Us](https://web.archive.org/web/20131206101458id_/http%3A//www.stargatewars.com/contact.php) | [Terms of Service](https://web.archive.org/web/20131206101458id_/http%3A//www.stargatewars.com/tos.php) |   
+| [Privacy Policy](https://web.archive.org/web/20140507022438id_/http%3A//www.stargatewars.com/privacy.php) | [Contact Us](https://web.archive.org/web/20140507022438id_/http%3A//www.stargatewars.com/contact.php) | [Terms of Service](https://web.archive.org/web/20140507022438id_/http%3A//www.stargatewars.com/tos.php) |   
 _Brought to you by Kingdom Games Ltd._  
 note: no images are from copyrighted sources; we are not affiliated with any TV or movie company; if it doesn't say 'Kingdom Games' on the site, it is not ours.   
 ServerIP: 66.147.239.243  
