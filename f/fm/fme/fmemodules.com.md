@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fmemodules.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106130301id_/http%3A//www.fmemodules.com/en/content/3-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fmemodules.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507225616id_/http%3A//www.fmemodules.com/en/content/3-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Prestashop Modules and Addons
 
@@ -47,7 +47,7 @@ Our use of your personal identifiable information serves the following purposes,
 
 
 
-_**We reserve the right to modify this privacy policy at any time. We will promptly reflect any such modifications on these Web pages.**_
+ _ **We reserve the right to modify this privacy policy at any time. We will promptly reflect any such modifications on these Web pages.**_
 
   
 
