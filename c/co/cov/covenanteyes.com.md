@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the covenanteyes.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230001452id_/http%3A//www.covenanteyes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covenanteyes.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508002925id_/http%3A//www.covenanteyes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Covenant Eyes
+
+
+
 
 Covenant Eyes is committed to protecting the privacy of both the information you share with us and the information that we gather through the course of us providing our services to you. If you have any questions about this privacy policy, please feel free to contact us at [support@covenanteyes.com](mailto:support@covenanteyes.com).
 
