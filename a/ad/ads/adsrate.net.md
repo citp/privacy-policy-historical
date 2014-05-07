@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsrate.net privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902081150id_/http%3A//adsrate.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsrate.net privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507065941id_/http%3A//adsrate.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
