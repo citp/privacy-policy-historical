@@ -1,72 +1,483 @@
-<!--The following is the downloaded HTML source of the webmaker.org privacy policy that was archived on 2013-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130620075340id_/https%3A//webmaker.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webmaker.org privacy policy that was archived on 2014-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140508062113id_/https%3A//webmaker.org/en-US/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
+<!DOCTYPE html><html lang="en-US" dir="ltr"><head>
   <meta charset="utf-8">
+  <script type="text/javascript" async="" src="https://web.archive.org/web/20140401184433/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"agent":"js-agent.newrelic.com/nr-411.min.js","beacon":"beacon-5.newrelic.com","errorBeacon":"jserror.newrelic.com","licenseKey":"8159d9620e","applicationID":"2843226","applicationTime":3.018843,"transactionName":"IU9EEQEXRVkXGiR3NUsYRBENEldQHQ==","queueTime":0,"agentToken":null,"ttGuid":""}; (window.NREUM||(NREUM={})).loader_config={xpid:"VgMCV15aGwEIUFJQBQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="X-CSRF-Token" content="sq835pHne90X6niq_bGzfO7D">
-  <meta name="login-url" content="https://login.webmaker.org">
-  <title>Privacy Policy - Mozilla Webmaker</title>
-  <link rel="stylesheet" href="/ext/css/font-awesome.css">
-  <link href="//www.mozilla.org/tabzilla/media/css/tabzilla.css" rel="stylesheet">
-  <link rel="stylesheet" href="https://login.webmaker.org/css/nav.css">
-  <link rel="stylesheet" href="/css/style.css">
-  <link rel="icon" type="image/png" href="/img/favicon.ico">
-  
+  <meta name="csrf-token" content="6p25xM8ZQXluu6H+NzWQ2zJhHUPdpv9dyG854=">
   <meta name="persona-email" content="">
+  <meta name="maker-id" content="">
+  <meta name="make-endpoint" content="https://makeapi.webmaker.org">
+  <link rel="login" content="https://login.webmaker.org">
+
+  <title>Privacy Policy - Mozilla Webmaker</title>
   
-  
-<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="main" src="/js/main.js"></script></head>
-<body id="privacy" data-endpoint="https://makeapi.webmaker.org">
+  <link href="//mozorg.cdn.mozilla.net/media/css/tabzilla-min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.ltr.css">
+
+  <!--[if lte IE 9]><link rel="stylesheet" href="/css/warning.css"><![endif]-->
+
+  <link rel="icon" type="image/png" href="/img/favicon.ico">
+  <!-- For JS error tracking purposes -->
+  <script src="/js/lib/error-track.js" async=""></script>
+<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="main" src="/js/main.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="/bower/jquery/jquery.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="base/cta" src="/js/base/cta.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="base/marquee" src="/js/base/marquee.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="base/email-signup" src="/js/base/email-signup.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="base/anchor-slide" src="/js/base/anchor-slide.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery.powertip" src="/js/lib/jquery.powertip.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="tabzilla" src="https://web.archive.org/web/20130911010605/https://www.mozilla.org/tabzilla/media/js/tabzilla.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="sso-ux" src="/js/undefined/js/sso-ux.js"></script></head>
+
+<body id="privacy" data-endpoint="https://makeapi.webmaker.org" style="">
+
+<div id="browser-warning">
+  <p>Your browser may lack functionality needed by Webmaker to function properly. Please <a href="http://browsehappy.com/" target="_blank">upgrade your browser</a> for an improved experience.</p>
+</div>
+
+<div class="modal fade" id="webmaker-login-new-user" tabindex="-1" role="dialog" aria-labelledby="createNewWebmakerUser" aria-hidden="true">
+
+  <div class="modal-backdrop"></div>
+
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        <h3 class="modal-title">Welcome to Webmaker!</h3>
+      </div>
+      <div class="modal-body">
+        <form class="form">
+          <div class="form-group username-group">
+            <div class="row">
+              <div class="col-sm-6">
+                <label for="username">Choose a username</label>
+              </div>
+              <div class="col-sm-6">
+                <input name="username" class="form-control" required="">
+                <span class="help-block username-taken-error hidden">That username is taken</span>
+                <span class="help-block username-required-error hidden">You must choose a username</span>
+                <span class="help-block username-invalid-error hidden">Invalid username. All usernames must be between 1-20 characters, and only include "-", "_" and alphanumeric characters</span>
+              </div>
+            </div>
+          </div>
+          <div class="checkbox">
+            <label>
+              <input name="mailingList" type="checkbox"> Send me email updates about Mozilla Webmaker and other projects
+            </label>
+          </div>
+          <div class="checkbox form-group agree-group">
+            <label>
+              <input name="agreeToTerms" type="checkbox"> I agree to your <a href="https://webmaker.org/en-US/terms">terms</a> and <a href="https://webmaker.org/en-US/privacy">conditions</a>
+            </label>
+            <span class="help-block agree-error hidden">
+              You must agree to our terms and conditions.
+            </span>
+          </div>
+          <label>Language Preference</label>
+          
+          <select name="supportedLocales" id="supportedLocales">
+  <option value="bn-BD">Bengali (Bangladesh) - বাংলা(বাংলাদেশ)</option><option value="bn-IN">Bengali (India) - বাংলা (ভারত)</option><option value="de">German - Deutsch</option><option value="en-CA">English (Canada) - English (Canada)</option><option value="en-US" selected="selected">English (US) - English (US)</option><option value="es">Spanish - Español</option><option value="es-CL">Spanish (Chile) - Español (Chile)</option><option value="es-MX">Spanish (Mexico) - Español (México)</option><option value="fr">French - Français</option><option value="hi-IN">Hindi - हिन्दी</option><option value="id">Indonesian - Bahasa Indonesia</option><option value="km">Khmer - ភាសាខ្មែរ</option><option value="nl">Dutch - Nederlands</option><option value="pt">Portuguese - Português</option><option value="pt-BR">Portuguese (Brazil) - Português (Brasil)</option><option value="ru">Russian - Русский</option><option value="sl">Slovenian - Slovenščina</option><option value="th-TH">Thai (Thailand) - ภาษาไทย (ประเทศไทย)</option><option value="zh-CN">Simplified Chinese (China) - 中文(简体)</option><option value="zh-TW">Traditional Chinese (Taiwan) - 中文(台灣)</option>
+ </select>
+
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+        <button class="create-user btn btn-primary" type="button">Create Account</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
 <div class="webmaker-outer-wrapper">
+
+  
+
   
   <header id="webmaker-nav">
     <nav class="webmaker-nav-container">
-      <div class="user-nav-container">
-        <a id="logo" href="/"><img src="/img/logo.png" alt="Mozilla Webmaker"></a>
-        <ul class="webmaker-nav user-info">
-          <li class="user">
-            Hi <span id="identity" class="user-name-container"></span>
-          </li>
-          <li class="makes"><a href="/me">My makes</a></li>
-          <li>
-            <iframe src="/sso/include.html" class="include-frame"></iframe>
-          </li>
-        </ul>
-        <ul class="nav-list">
-          <li>
-            <a id="nav-index" href="/">Make!</a>
-            <div class="makenav-hover">
-              <a href="/t/webmaker%3Atemplate" class="makenav-hover-item">
-                <img src="/img/icon-make-template.png" alt="From Template">
-                <span>From template</span>
-              </a>
-              <a href="https://popcorn.webmaker.org/editor/" class="makenav-hover-item">
-                <img src="/img/icon-make-popcorn.png" alt="Popcorn Maker">
-                <span>Popcorn Maker</span>
-              </a>
-              <a href="https://thimble.webmaker.org/" class="makenav-hover-item">
-                <img src="/img/icon-make-thimble.png" alt="Thimble">
-                <span>Thimble</span>
-              </a>
-              <div class="help">
-                <img src="/img/icon-info.png"><span>Not sure what to make? <a href="/tools">Let us help.</a></span>
+      <div class="ui-grid-wrapper">
+        <div class="user-nav-container">
+          <a id="logo" href="/en-US/"><img src="/img/logo.png" alt="Mozilla Webmaker"></a>
+          <ul class="webmaker-nav user-info">
+
+            <li class="new-user">
+              <div class="ui-append ui-select ui-select-hover user">
+                <span class="ui-selected">
+                  Hi <span id="identity" class="user-name-container"></span>
+                  <a class="icon icon-caret-down"></a>
+                </span>
+                <div class="ui-select-menu">
+                  <ul>
+                    <li class="makes"><a href="/en-US/me"><span class="icon icon-th-large"></span> My makes</a></li>
+                    <li><a href="https://login.webmaker.org/en-US/account" id="loginURL"><span class="icon icon-gear"></span> My Settings</a></li>
+                    
+                  </ul>
+                </div>
               </div>
-            </div>
-          </li>
-          <!-- <li><a  id="nav-learn" href="/learn">Learn</a></li> -->
-          <li><a id="nav-teach" href="/teach">Teach</a></li>
-          <li><a id="nav-events" href="/events">Events</a></li>
-          <li><a class="search-trigger" id="nav-search" href="/search"><span class="icon-search"></span></a></li>
-        </ul>
+            </li>
+            <li>
+              <div class="webmaker-login persona-button" style="display: none;">
+                <span dir="ltr" class="text">Sign in</span><span dir="ltr" class="tip"></span>
+              </div>
+              <span class="webmaker-logout" style="display: none;">Sign out</span>
+            </li>
+            <li class="more-btn"><a href="#" class="navigation-more"><span class="icon-reorder"></span></a></li>
+          </ul>
+        </div>
+        <a href="http://www.mozilla.org/" id="tabzilla" aria-label="Mozilla links">mozilla</a>
       </div>
-      <a href="http://www.mozilla.org/" id="tabzilla">mozilla</a>
     </nav>
+
+    
+
+<section id="main-navigation-container" data-current-section="" data-current-page="privacy">
+
+  <nav id="navigation-primary" class="navigation-container">
+      <ul class="navigation-list navigation-wrapper">
+        
+          <li><a href="/en-US/" data-section="explore">
+            <span class="icon icon-random"></span> Explore</a>
+          </li>
+        
+          <li><a href="/en-US/resources" data-section="make">
+            <span class="icon icon-hand-up"></span> Make</a>
+          </li>
+        
+          <li><a href="/en-US/teach" data-section="teach">
+            <span class="icon icon-book"></span> Teach</a>
+          </li>
+        
+          <li><a href="https://events.webmaker.org" data-section="events">
+            <span class="icon icon-map-marker"></span> Events</a>
+          </li>
+        
+          <li><a href="/en-US/about" data-section="info">
+            <span class="icon icon-info"></span> Info</a>
+          </li>
+        
+        <li><a href="#" class="navigation-more"><span class="icon-reorder"></span></a></li>
+        <li>
+          <span id="nav-search">
+            <input id="nav-search-input" type="search" placeholder="Search">
+            <button id="nav-search-trigger"><span class="icon-search"></span></button>
+          </span>
+        </li>
+      </ul>
+  </nav>
+
+  <nav id="navigation-secondary" class="navigation-container">
+    
+      <ul data-section="explore" class="navigation-list navigation-wrapper">
+        
+        
+        <li>
+
+            <a data-page="teachtheweb" href="/en-US/">
+              
+              Home
+            </a>
+        </li>
+        
+        
+        
+        <li>
+
+            <a data-page="index" href="/en-US/gallery">
+              
+              Gallery
+            </a>
+        </li>
+        
+        
+        
+        <li>
+
+            <a data-page="tools" href="/en-US/tools">
+              
+              Tools
+            </a>
+        </li>
+        
+        
+        
+        
+        
+        <li>
+
+            <a data-page="search" href="/en-US/search">
+              
+              Search
+            </a>
+        </li>
+        
+        
+      </ul>
+    
+      <ul data-section="make" class="navigation-list navigation-wrapper">
+        
+        
+        <li>
+
+            <a data-page="starterMakes" href="/en-US/resources">
+              
+              Resources
+            </a>
+        </li>
+        
+        
+        
+        <li class="nav-item-with-icon">
+
+            <a data-page="popcorn" href="https://popcorn.webmaker.org/en-US" target="_blank">
+              
+              <img src="/img/empty.png" class="popcorn-icon">
+              
+              Multimedia with Popcorn
+            </a>
+        </li>
+        
+        
+        
+        <li class="nav-item-with-icon">
+
+            <a data-page="thimble" href="https://thimble.webmaker.org/en-US" target="_blank">
+              
+              <img src="/img/empty.png" class="thimble-icon">
+              
+              Webpages with Thimble
+            </a>
+        </li>
+        
+        
+        
+        <li class="nav-item-with-icon">
+
+            <a data-page="xray" href="https://goggles.webmaker.org/en-US" target="_blank">
+              
+              <img src="/img/empty.png" class="xray-icon">
+              
+              Remixes with X-Ray Goggles
+            </a>
+        </li>
+        
+        
+      </ul>
+    
+      <ul data-section="teach" class="navigation-list navigation-wrapper">
+        
+        
+        <li>
+
+            <a data-page="teach" href="/en-US/teach">
+              
+              Resources
+            </a>
+        </li>
+        
+        
+        
+        <li>
+
+            <a data-page="teach-templates" href="/en-US/teach-templates">
+              
+              Resource Templates
+            </a>
+        </li>
+        
+        
+        
+        <li>
+
+            <a data-page="literacy" href="/en-US/literacy">
+              
+              Web Literacy Map
+            </a>
+        </li>
+        
+        
+      </ul>
+    
+      <ul data-section="events" class="navigation-list navigation-wrapper">
+        
+      </ul>
+    
+      <ul data-section="info" class="navigation-list navigation-wrapper">
+        
+        
+        <li>
+
+            <a data-page="blog" href="https://blog.webmaker.org" target="_blank">
+              
+              Blog
+            </a>
+        </li>
+        
+        
+        
+        <li>
+
+            <a data-page="about" href="/en-US/about">
+              
+              About Us
+            </a>
+        </li>
+        
+        
+        
+        <li>
+
+            <a data-page="getinvolved" href="/en-US/getinvolved">
+              
+              Get Involved
+            </a>
+        </li>
+        
+        
+        
+        <li>
+
+            <a data-page="help" href="https://support.mozilla.org/en-US/products/webmaker" target="_blank">
+              
+              Help
+            </a>
+        </li>
+        
+        
+      </ul>
+    
+  </nav>
+
+  <nav id="expanded-navigation">
+    <div class="navigation-wrapper">
+    
+      <ul class="navigation-list">
+        <li><a><span class="icon icon-random"></span> Explore</a></li>
+        
+          <li>
+            <a href="/en-US/">
+              Home
+            </a>
+          </li>
+        
+          <li>
+            <a href="/en-US/gallery">
+              Gallery
+            </a>
+          </li>
+        
+          <li>
+            <a href="/en-US/tools">
+              Tools
+            </a>
+          </li>
+        
+          <li>
+            <a href="/en-US/badges/webmaker-super-mentor">
+              Badges
+            </a>
+          </li>
+        
+          <li>
+            <a href="/en-US/search">
+              Search
+            </a>
+          </li>
+        
+      </ul>
+    
+      <ul class="navigation-list">
+        <li><a><span class="icon icon-hand-up"></span> Make</a></li>
+        
+          <li>
+            <a href="/en-US/resources">
+              Resources
+            </a>
+          </li>
+        
+          <li>
+            <a href="https://popcorn.webmaker.org/en-US" target="_blank">
+              Multimedia with Popcorn
+            </a>
+          </li>
+        
+          <li>
+            <a href="https://thimble.webmaker.org/en-US" target="_blank">
+              Webpages with Thimble
+            </a>
+          </li>
+        
+          <li>
+            <a href="https://goggles.webmaker.org/en-US" target="_blank">
+              Remixes with X-Ray Goggles
+            </a>
+          </li>
+        
+      </ul>
+    
+      <ul class="navigation-list">
+        <li><a><span class="icon icon-book"></span> Teach</a></li>
+        
+          <li>
+            <a href="/en-US/teach">
+              Resources
+            </a>
+          </li>
+        
+          <li>
+            <a href="/en-US/teach-templates">
+              Resource Templates
+            </a>
+          </li>
+        
+          <li>
+            <a href="/en-US/literacy">
+              Web Literacy Map
+            </a>
+          </li>
+        
+      </ul>
+    
+      <ul class="navigation-list">
+        <li><a><span class="icon icon-map-marker"></span> Events</a></li>
+        
+      </ul>
+    
+      <ul class="navigation-list">
+        <li><a><span class="icon icon-info"></span> Info</a></li>
+        
+          <li>
+            <a href="https://blog.webmaker.org" target="_blank">
+              Blog
+            </a>
+          </li>
+        
+          <li>
+            <a href="/en-US/about">
+              About Us
+            </a>
+          </li>
+        
+          <li>
+            <a href="/en-US/getinvolved">
+              Get Involved
+            </a>
+          </li>
+        
+          <li>
+            <a href="https://support.mozilla.org/en-US/products/webmaker" target="_blank">
+              Help
+            </a>
+          </li>
+        
+      </ul>
+    
+    </div>
+  </nav>
+
+</section>
+
+
   </header>
   
   <div id="midbar"></div>
 
-  <main id="content" class="content clearfix">
+  <main id="content" class="content  clearfix ">
 <div class="ui-wrapper ui-body">
 
   <div class="ui-section">
@@ -75,8 +486,7 @@
       <h1>Webmaker Privacy</h1>
       <h3>June 15, 2013</h3>
       <p>We care about your privacy. When Mozilla (that’s us) collects information 
-        about you from Webmaker, our <a href="https://webmaker.org/privacy">privacy policy</a> 
-        describes how we handle that information.</p>
+        about you from Webmaker, our privacy policy describes how we handle that information.</p>
 
       <h2>Things you should know</h2>
 
@@ -207,147 +617,249 @@
 </main>
 
   <footer class="footer">
+
+    
     <div id="footer-actions">
       
-      <button class="backToTop">Back to top <span class="icon-angle-up"></span></button>
+      <a class="back-to-top anchor-slide" href="#">Back to top <span class="icon-angle-up"></span></a>
     </div>
-    
     <section class="make-footer">
-      <div class="c-leftarrow cta-arrow hide">
-        <i class="icon-angle-left"></i>
-      </div>
-      <div class="carousel-wrapper">
         <div class="make-wrapper"></div>
-      </div>
-      <div class="c-rightarrow cta-arrow hide">
-        <i class="icon-angle-right"></i>
-      </div>
     </section>
     
+
     <div class="partnerWrapper">
-    <section class="partners">
-      <span class="partners-header">
-        With support from our wonderful partners and Mozillians like you!
-        <img class="refresh-sponsors" src="/img/icon-refresh.png" alt="Refresh Sponsors">
-      </span>
-      <ul class="sponsors">
-        <li>Chicago Community Trust</li>
-        <li>Chicago Instructional Technology Foundation</li>
-        <li>City of Chicago</li>
-        <li>Corporation for Public Broadcasting</li>
-        <li>U.S. Department of Energy</li>
-        <li>Ford Foundation</li>
-        <li>Google</li>
-        <li>Intel</li>
-        <li>Knight Foundation</li>
-        <li>MacArthur Foundation</li>
-        <li>National Endowment for the Arts</li>
-        <li>NESTA</li>
-        <li>The Nominet Trust</li>
-        <li>National Science Foundation</li>
-        <li>Ontario Trillium Foundation</li>
-        <li>Social Science Research Council</li>
-        <li>Alfred P. Sloan Foundation</li>
-        <li>Telefonica</li>
-        <li>ZeroDivide</li>
-      </ul>
-      <div class="footerHr"></div>
-      <ul class="social">
-        <li><a href="//twitter.com/mozilla"><i class="footer-social icon-twitter"></i> @mozilla</a></li>
-        <li><a href="//twitter.com/webmaker"><i class="footer-social icon-twitter"></i> @webmaker</a></li><a href="//twitter.com/webmaker">
-        </a><li><a href="//twitter.com/webmaker"></a><a href="//plus.google.com/u/2/communities/106022863174952221205"><i class="footer-social icon-google-plus"></i> google+</a></li><a href="//plus.google.com/u/2/communities/106022863174952221205">
-        </a><li><a href="//plus.google.com/u/2/communities/106022863174952221205"></a><a href="http://mozillawebmaker.tumblr.com/"><i class="footer-social icon-tumblr"></i> tumblr</a></li>
-        <li id="email-li">
-        <div class="newsletter">
-          <form id="privacy-form" action="https://sendto.mozilla.org/page/s/webmaker" method="post">
-            <input type="email" id="email-updates" name="email" placeholder="Sign up for email updates" required="">
-            <button id="email-submit" type="submit">
-              <i class="icon-chevron-right"></i>
-            </button>
-              <div class="privacy-box">
-                <div class="checkbox">
-                  <input id="theCheckbox" name="custom-1216" type="checkbox" required="">
-                </div>
-                <div class="privacy-desc">
-                  I'm okay with you handling this info as you explain in your
-                  <a href="/privacy">privacy policy</a>.
-                </div>
-              </div>
-            </form>
-          </div>
-        </li>
-      </ul>
-      <ul class="links">
-        <li><a href="http://blog.webmaker.org">Blog</a></li>
-        <li><a href="/about">About us</a></li>
-        <li><a href="/getinvolved">Get involved</a></li>
-        <li><a href="https://sendto.mozilla.org/page/contribute/join-mozilla?source=join_link">Donate</a></li>
-        <li><a href="mailto:makerparty@mozilla.org">Contact</a></li>
-        <li><a href="/privacy">Privacy</a></li>
-        <li><a href="/terms">Legal</a></li>
-      </ul>
-    </section>
+      <section class="partners">
+        <header class="partners-header">
+          With support from our wonderful partners and Mozillians like you!
+        </header>
+
+        <ul class="sponsors">
+          <li>Chicago Community Trust</li>
+          <li>Chicago Instructional Technology Foundation</li>
+          <li>City of Chicago</li>
+          <li>Corporation for Public Broadcasting</li>
+          <li>U.S. Department of Energy</li>
+          <li>Ford Foundation</li>
+          <li>Google</li>
+          <li>Intel</li>
+          <li>Knight Foundation</li>
+          <li>MacArthur Foundation</li>
+          <li>National Endowment for the Arts</li>
+          <li>NESTA</li>
+          <li>The Nominet Trust</li>
+          <li>National Science Foundation</li>
+          <li>Ontario Trillium Foundation</li>
+          <li>Social Science Research Council</li>
+          <li>Alfred P. Sloan Foundation</li>
+          <li>Telefonica</li>
+          <li>ZeroDivide</li>
+        </ul>
+
+        <div class="footerHr"></div>
+
+        <ul class="social">
+          <li><a href="//twitter.com/mozilla"><i class="footer-social icon-twitter"></i> @mozilla</a></li>
+          <li><a href="//twitter.com/webmaker"><i class="footer-social icon-twitter"></i> @webmaker</a></li>
+          <li><a href="//plus.google.com/u/2/communities/106022863174952221205"><i class="footer-social icon-google-plus"></i> google+</a></li>
+          <li><a href="http://mozillawebmaker.tumblr.com/"><i class="footer-social icon-tumblr"></i> tumblr</a></li>
+
+          <li id="email-li">
+            <div class="newsletter">
+              <form id="privacy-form" action="https://sendto.mozilla.org/page/s/webmaker" method="post" novalidate="">
+                <input type="email" id="email-updates" name="email" autocomplete="off" placeholder="Sign up for email updates" required="" data-powertip="
+                  <div class=&quot;privacy-desc&quot;>
+                    <div><input type=&quot;checkbox&quot; id=&quot;newsletter-signup-checkbox-proxy&quot; /></div>
+                    <label for=&quot;newsletter-signup-checkbox-proxy&quot;>I'm okay with you handling this info as you explain in your <a href=&quot;/en-US/privacy&quot; target=&quot;_blank&quot;>privacy policy</a>.</label>
+                  </div>">
+
+                <button id="email-submit" type="submit">
+                  <i class="icon-chevron-right"></i>
+                </button>
+
+                <input id="newsletter-signup-checkbox" name="custom-1216" type="checkbox" required="">
+              </form>
+            </div>
+          </li>
+        </ul>
+        <ul class="links">
+          <li>
+            <span class="language-picker">
+  <a href="/en-US/languages?page=/privacy" id="current-language" class="selected">
+    <i class="icon-globe"></i>
+    English (US)
+  </a>
+  <div id="list-of-languages" class="language-picker-box" dir="ltr">
+
+    <div>Webmaker.org is offered in <strong>20</strong> languages.</div>
+
+    <div class="input-wrapper">
+      <label for="language-search"><i class="icon-search"></i></label>
+      <input id="language-search" class="language-search">
+    </div>
+    <ul class="list col col-spacing" data-supported="bn-BD,bn-IN,de,en-CA,en-US,es,es-CL,es-MX,fr,hi-IN,id,km,nl,pt,pt-BR,ru,sl,th-TH,zh-CN,zh-TW">
+    
+    <li data-value="bn-BD" class="langList clearfix"><a target="_self">
+      <span class="localized-name hint--bottom hint--inline" data-hint="Bengali (Bangladesh)">বাংলা(বাংলাদেশ)</span>
+      <span class="english-name">Bengali (Bangladesh)</span>
+    </a></li>
+    
+    <li data-value="bn-IN" class="langList clearfix"><a target="_self">
+      <span class="localized-name hint--bottom hint--inline" data-hint="Bengali (India)">বাংলা (ভারত)</span>
+      <span class="english-name">Bengali (India)</span>
+    </a></li>
+    
+    <li data-value="de" class="langList clearfix"><a target="_self">
+      <span class="localized-name hint--bottom hint--inline" data-hint="German">Deutsch</span>
+      <span class="english-name">German</span>
+    </a></li>
+    
+    <li data-value="en-CA" class="langList clearfix"><a target="_self">
+      <span class="localized-name hint--bottom hint--inline" data-hint="English (Canada)">English (Canada)</span>
+      <span class="english-name">English (Canada)</span>
+    </a></li>
+    
+    <li data-value="en-US" class="langList clearfix"><a class="selected" target="_self">
+      <span class="localized-name hint--bottom hint--inline" data-hint="English (US)">English (US)</span>
+      <span class="english-name">English (US)</span>
+    </a></li>
+    
+    <li data-value="es" class="langList clearfix"><a target="_self">
+      <span class="localized-name hint--bottom hint--inline" data-hint="Spanish">Español</span>
+      <span class="english-name">Spanish</span>
+    </a></li>
+    
+    <li data-value="es-CL" class="langList clearfix"><a target="_self">
+      <span class="localized-name hint--bottom hint--inline" data-hint="Spanish (Chile)">Español (Chile)</span>
+      <span class="english-name">Spanish (Chile)</span>
+    </a></li>
+    
+    <li data-value="es-MX" class="langList clearfix"><a target="_self">
+      <span class="localized-name hint--bottom hint--inline" data-hint="Spanish (Mexico)">Español (México)</span>
+      <span class="english-name">Spanish (Mexico)</span>
+    </a></li>
+    
+    <li data-value="fr" class="langList clearfix"><a target="_self">
+      <span class="localized-name hint--bottom hint--inline" data-hint="French">Français</span>
+      <span class="english-name">French</span>
+    </a></li>
+    
+    <li data-value="hi-IN" class="langList clearfix"><a target="_self">
+      <span class="localized-name hint--bottom hint--inline" data-hint="Hindi">हिन्दी</span>
+      <span class="english-name">Hindi</span>
+    </a></li>
+    
+    <li data-value="id" class="langList clearfix"><a target="_self">
+      <span class="localized-name hint--bottom hint--inline" data-hint="Indonesian">Bahasa Indonesia</span>
+      <span class="english-name">Indonesian</span>
+    </a></li>
+    
+    <li data-value="km" class="langList clearfix"><a target="_self">
+      <span class="localized-name hint--bottom hint--inline" data-hint="Khmer">ភាសាខ្មែរ</span>
+      <span class="english-name">Khmer</span>
+    </a></li>
+    
+    <li data-value="nl" class="langList clearfix"><a target="_self">
+      <span class="localized-name hint--bottom hint--inline" data-hint="Dutch">Nederlands</span>
+      <span class="english-name">Dutch</span>
+    </a></li>
+    
+    <li data-value="pt" class="langList clearfix"><a target="_self">
+      <span class="localized-name hint--bottom hint--inline" data-hint="Portuguese">Português</span>
+      <span class="english-name">Portuguese</span>
+    </a></li>
+    
+    <li data-value="pt-BR" class="langList clearfix"><a target="_self">
+      <span class="localized-name hint--bottom hint--inline" data-hint="Portuguese (Brazil)">Português (Brasil)</span>
+      <span class="english-name">Portuguese (Brazil)</span>
+    </a></li>
+    
+    <li data-value="ru" class="langList clearfix"><a target="_self">
+      <span class="localized-name hint--bottom hint--inline" data-hint="Russian">Русский</span>
+      <span class="english-name">Russian</span>
+    </a></li>
+    
+    <li data-value="sl" class="langList clearfix"><a target="_self">
+      <span class="localized-name hint--bottom hint--inline" data-hint="Slovenian">Slovenščina</span>
+      <span class="english-name">Slovenian</span>
+    </a></li>
+    
+    <li data-value="th-TH" class="langList clearfix"><a target="_self">
+      <span class="localized-name hint--bottom hint--inline" data-hint="Thai (Thailand)">ภาษาไทย (ประเทศไทย)</span>
+      <span class="english-name">Thai (Thailand)</span>
+    </a></li>
+    
+    <li data-value="zh-CN" class="langList clearfix"><a target="_self">
+      <span class="localized-name hint--bottom hint--inline" data-hint="Simplified Chinese (China)">中文(简体)</span>
+      <span class="english-name">Simplified Chinese (China)</span>
+    </a></li>
+    
+    <li data-value="zh-TW" class="langList clearfix"><a target="_self">
+      <span class="localized-name hint--bottom hint--inline" data-hint="Traditional Chinese (Taiwan)">中文(台灣)</span>
+      <span class="english-name">Traditional Chinese (Taiwan)</span>
+    </a></li>
+    
+    </ul>
+    <p>Don't see your language? <a href="https://support.mozilla.org/en-US/kb/translate-webmaker" target="_blank">Click here to contribute.</a></p>
   </div>
+</span>
+
+          </li>
+          <li><a href="http://blog.webmaker.org">Blog</a></li>
+          <li><a href="/en-US/about">About Us</a></li>
+          <li><a href="/en-US/getinvolved">Get Involved</a></li>
+          <li><a href="https://sendto.mozilla.org/page/contribute/join-mozilla?source=join_link">Donate</a></li>
+          <li><a href="mailto:help@webmaker.org">Contact</a></li>
+          <li><a href="/en-US/privacy">Privacy</a></li>
+          <li><a href="/en-US/terms">Legal</a></li>
+          <li><a href="/en-US/feedback">Feedback</a></li>
+          <li><a href="https://support.mozilla.org/products/webmaker">Help</a></li>
+        </ul>
+      </section>
+    </div>
   </footer>
+
   <div class="mobile"></div>
-</div><!-- webmaker-outer-wrapper -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
-window.cta = 
-  [{
-    "title": "Tools",
-    "desc": "Create an original or a remix using Popcorn Maker and Thimble.",
-    "image": "/img/cta-Tools.jpg",
-    "url": "/tools"
-  },
-  {
-    "title": "Teach",
-    "desc": "Teach the world digital literacy and webmaking.",
-    "image": "/img/cta-Teach.jpg",
-    "url": "/teach"
-  },
-  {
-    "title": "Maker Party",
-    "desc": "From now to Sept 15, join other webmakers in a global Maker Party.",
-    "image": "/img/cta-Party.jpg",
-    "url": "/party"
-  },
-  {
-    "title": "About Us",
-    "desc": "Learn more about who we are and what makes us tick.",
-    "image": "/img/cta-About-us.jpg",
-    "url": "/about"
-  }];
- ;
-</script>
-<script src="https://webmaker.org/sso/include.js"></script>
-<script>
-// XXX: we need to load this after require loads jquery, but can't hard-code a path
-// in the require config.
-window.__loginAPI = "https://login.webmaker.org";
-</script>
-<script src="https://makeapi.webmaker.org/js/make-api.js"></script>
-<script src="/ext/js/packery.js"></script>
-<script src="/ext/js/require.js" data-main="/js/main"></script>
+</div>
 
-
-
-
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-35433268-12']);
+<script type="application/json" id="block-cta">
   
-  _gaq.push(['_setDomainName', 'webmaker.org']);
+    [{
+      "title": "Tools",
+      "desc": "Create an original or a remix using Popcorn Maker and Thimble.",
+      "image": "/img/cta-Tools.jpg",
+      "url": "/en-US/tools"
+    },
+    {
+      "title": "Teach",
+      "desc": "Teach the world web literacy and webmaking.",
+      "image": "/img/cta-Teach.jpg",
+      "url": "/en-US/teach"
+    },
+    {
+      "title": "Maker Party",
+      "desc": "Save the date! Maker Party 2014 is July 15 to September 15",
+      "image": "/img/cta-Party.jpg",
+      "url": "/en-US/party"
+    },
+    {
+      "title": "About Us",
+      "desc": "Learn more about who we are and what makes us tick.",
+      "image": "/img/cta-About-us.jpg",
+      "url": "/en-US/about"
+    }]
   
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+</script>
+<script id="require-js" src="/bower_components/requirejs/require.js" data-main="/js/main.js" data-page="pages/verify">
 </script>
 
 
 
+<script id="google-analytics-js" src="/js/lib/google-analytics.js" data-ga-account="UA-35433268-12" data-ga-domain="webmaker.org" async="">
+</script>
 
-</body></html>
+<script src="https://login.persona.org/include.js"></script>
+<script src="https://cdn.optimizely.com/js/206878104.js"></script>
+
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script><div id="powerTip"></div></body></html>
