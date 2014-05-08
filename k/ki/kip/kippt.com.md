@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kippt.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424162920id_/https%3A//kippt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kippt.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508233901id_/https%3A//kippt.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Kippt
 
@@ -25,6 +25,8 @@ Kippt also collects potentially personally-identifying information like Internet
 ### Gathering of Personally-Identifying Information
 
 Certain visitors to Kippt’s websites choose to interact with Kippt in ways that require Kippt to gather personally-identifying information. The amount and type of information that Kippt gathers depends on the nature of the interaction. For example, we ask visitors who sign up to provide a username and email address. Those who engage in transactions with Kippt are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Kippt collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Kippt. Kippt does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+
+This Application does not support “do not track” requests.
 
 ### Aggregated Statistics
 
