@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moddedeuros.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103184250id_/http%3A//www.moddedeuros.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moddedeuros.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508032653id_/http%3A//www.moddedeuros.com/privacy-policy) for the most accurate reproduction.*
 
 # Audi and Volkswagen Performance Parts - Modded Euros
 
