@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkedninja.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930013743id_/http%3A//linkedninja.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkedninja.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508041834id_/http%3A//linkedninja.com/privacy.php) for the most accurate reproduction.*
 
 # LinkedNinja.com Privacy Policy
 
