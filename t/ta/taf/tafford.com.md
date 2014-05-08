@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tafford.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105223613id_/http%3A//www.tafford.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tafford.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508142355id_/http%3A//www.tafford.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,11 +12,7 @@ We request information from you as part of the order process, which requires you
 
 ### Personal Information
 
-The information you provide is used to process and bill your orders and contact you when any problems are encountered. We may also send you information about our company's new services and special offers unless you elect not to receive such offers. From time to time, we make our mailing list (names and mailing addresses only) and general shopping activity available to carefully screened companies whose products we believe will be of interest to you and whose privacy practices meet the Direct Marketing Association's privacy standards. We do not share email addresses for this purpose.
-
-In some cases, we permit third parties to offer their goods and services to our customers, and will share your information, including credit/debit card numbers and other billing information with such third parties in order to facilitate your transactions with them.
-
-If you prefer that we do not share any of your information with these companies, please contact us to "opt-out" and we will not share your information for this purpose. Please understand that if you opt-out, and later accept an offer from an advertiser or one of our third party marketing partners, we will share your information with that specific third party.
+The information you provide is used to process and bill your orders and contact you when any problems are encountered. We may also send you information about our company's new services and special offers unless you elect not to receive such offers. We do not share email addresses for this purpose.
 
 ### How We Use Email
 
