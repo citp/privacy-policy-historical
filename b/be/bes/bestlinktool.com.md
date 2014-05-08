@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestlinktool.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102204919id_/http%3A//www.bestlinktool.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestlinktool.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508162701id_/http%3A//www.bestlinktool.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bestlinktool
 
@@ -22,14 +22,22 @@
   
 
 
-Get Paid to do Free Offers
+Get Social Media Traffic for Google Rankings
 
-[](http://www.cashcrate.com/4991539)
+[ ](http://tinyurl.com/lnzp7bp)
+
+Powerful Link Building Methods
+
+[ ](http://tinyurl.com/mt8qcv2)
+
+The Power To Dominate Social Media and Search Engines
+
+[ ](http://tinyurl.com/lmyvnvy)
 
   
 
 
-Social Bookmarking Site List 2013
+Social Bookmarking Site List 2014
 
   
 
