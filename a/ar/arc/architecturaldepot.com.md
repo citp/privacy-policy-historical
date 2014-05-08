@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the architecturaldepot.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808024749id_/http%3A//www.architecturaldepot.com/help-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecturaldepot.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508170816id_/http%3A//www.architecturaldepot.com/help-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy: ArchitecturalDepot.com -- Your Privacy & Rights -- by Architectural Depot - Call us today at: 888-573-3768
+
+[](http://secure.trust-guard.com/privacy/5514)
 
 ## Your Privacy and Rights
 
