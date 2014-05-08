@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crackerpie.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123212551id_/http%3A//crackerpie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crackerpie.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508212736id_/http%3A//crackerpie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Android News | Apple News | How To
 
