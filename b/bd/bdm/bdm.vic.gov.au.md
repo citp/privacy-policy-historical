@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bdm.vic.gov.au privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104053948id_/http%3A//www.bdm.vic.gov.au/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdm.vic.gov.au privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508212641id_/http%3A//www.bdm.vic.gov.au/footer/privacy) for the most accurate reproduction.*
 
 # Privacy - Births, Deaths & Marriages Victoria
 
 ## You are here:
 
-This page contains BDM's Website privacy statement. You can also read BDM's [Privacy policy](https://web.archive.org/utility/about+us/legislation+and+policies/privacy+policy/).  
+This page contains BDM's Website privacy statement. You can also read BDM's [Privacy policy](https://web.archive.org/wps/wcm/connect).  
  
 
 * * *
@@ -50,7 +50,7 @@ All pages where personal information is requested or uploaded (including payment
 
 Once any personal information is received by the Registry, all reasonable steps are taken to protect that information from misuse, loss, unauthorised access, modification or disclosure. While the Registry strives to protect personal information, the Registry cannot ensure or warrant the security of any information transmitted online and individuals do so at their own risk.
 
-If you have any concerns about conveying sensitive material over the Internet, you can [contact the Registry](https://web.archive.org/utility/contact+us/index.html).
+If you have any concerns about conveying sensitive material over the Internet, you can [contact the Registry](https://web.archive.org/utility/contact+us/).
 
 In addition to data collected by WebTrends, the Registry's website also uses cookies for some parts of this website.
 
