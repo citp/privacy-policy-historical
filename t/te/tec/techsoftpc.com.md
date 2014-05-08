@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the techsoftpc.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903063308id_/http%3A//www.techsoftpc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsoftpc.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508020045id_/http%3A//www.techbem.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TechSoftpc
 
-This Privacy Policy governs the manner in which TechSoftpc Network collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.techsoftpc.com](http://www.techsoftpc.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by TechSoftpc Network.
+This Privacy Policy governs the manner in which TechSoftpc Network collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.techbem.com](http://www.techbem.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by TechSoftpc Network.
 
 **Personal identification information**
 
@@ -59,8 +59,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[TechSoftpc Network](http://www.techsoftpc.com/)  
-[http://www.techsoftpc.com](http://www.techsoftpc.com/)  
-akashrajgure@techsoftpc.com
+[TechSoftpc Network](http://www.techbem.com/)  
+[http://www.techbem.com](http://www.techbem.com/)  
+akashrajgure@techsoftpc.net
 
 This document was last updated on April 5, 2013
