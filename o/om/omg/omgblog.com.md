@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omgblog.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815132346id_/http%3A//www.omgblog.com/2003/07/_omg_blog_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgblog.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508063819id_/http%3A//www.omgblog.com/2003/07/_omg_blog_privacy_policy.php) for the most accurate reproduction.*
 
 # !! omg blog !! Privacy Policy [!! omg blog !!]
 
@@ -15,8 +15,6 @@ If you do not wish to receive such mailings, please let us know by clicking the 
 
 If you have questions or comments regarding !! omg blog !! privacy practices, you can contact us at "tips [at] omgblog [dot] com".
 
-[ ](http://www.addthis.com/bookmark.php?v=250&pubid=omgblog)
-
 **» READ THESE RELATED ENTRIES:**  
 [OMG you've got mail!](http://www.omgblog.com/2005/07/omg_youve_got_mail.php)  
 [OMG, it's our submission policy](http://www.omgblog.com/2003/07/omg_its_our_submission_policy.php)  
@@ -25,13 +23,10 @@ If you have questions or comments regarding !! omg blog !! privacy practices, yo
 [PerfectGuyz contest winner](http://www.omgblog.com/2008/03/perfectguyz_contest_winner.php)  
 
 
-_ _ _ _ _
-
-posted by Frank on **Sunday, July 20, 2003**   
+  
+» posted by Frank on **Sunday, July 20, 2003**   
 **category:** [Webbish](http://www.omgblog.com/geeky/webbish/#002979) | [permalink](http://www.omgblog.com/2003/07/_omg_blog_privacy_policy.php)   
 
-
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
   
 
