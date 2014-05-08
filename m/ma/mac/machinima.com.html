@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the machinima.com privacy policy that was archived on 2013-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131016004141id_/http%3A//www.machinima.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the machinima.com privacy policy that was archived on 2014-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140508132732id_/https%3A//www.machinima.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
   <meta charset="utf-8">
@@ -7,7 +7,7 @@
   <!-- Use the .htaccess and remove these lines to avoid edge case issues.
        More info: h5bp.com/i/378 -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-
+  <meta name="xboxOneApplication-ID" content="046C83B6">
   <title>Privacy Policy - Machinima</title>
   <meta name="description" content="">
 
@@ -16,9 +16,9 @@
 
   <!-- Place favicon.ico and apple-touch-icon.png in the root directory: mathiasbynens.be/notes/touch-icons -->
 
-  <link href="//machinima-static.s3.amazonaws.com/assets/application-eddf08dfd77f846a56318609c4fb3aef.css" media="screen" rel="stylesheet" type="text/css">
+  <link href="//machinima-static.s3.amazonaws.com/assets/application-d3254ab094d55e440c4ec9a26fb1e3c0.css" media="screen" rel="stylesheet" type="text/css">
   <meta content="authenticity_token" name="csrf-param">
-<meta content="ILDUVULAlS+KfbFTgNOxypg4wsPZdg89FWz1ndDN7BA=" name="csrf-token">
+<meta content="rbvMcOcKwX5ui7Wfo5xKjJGfC3wQaQyTmR3JFU+iER4=" name="csrf-token">
   
 
   <!-- More ideas for your <head> here: h5bp.com/d/head-Tips -->
@@ -36,6 +36,8 @@
 Modernizr.load();
 //]]>
 </script>
+
+  
 </head>
 <body>
   <!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6.
@@ -43,26 +45,28 @@ Modernizr.load();
   <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
 
   <div id="fb-root"></div>
-<script>
-  (function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=365444486870953";
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));
-</script>
-<!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6.
-     chromium.org/developers/how-tos/chrome-frame-getting-started -->
-<!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+  <script>
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=365444486870953";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+  </script>
 
-<header>
+  <header>
   <div class="container">
     <div class="logo">
-      <a href="/" title="Home"><img alt="Machinima" src="//machinima-static.s3.amazonaws.com/assets/logo-66fe22ed30f6dc0255de83b1a93a8d4f.png"></a>
+      <a href="/" title="Home">
+        <img alt="Machinima" class="full" src="//machinima-static.s3.amazonaws.com/assets/logo-e6c95e6b7db5ec70fd4df8473a4f7c51.png">
+        <img alt="Machinima" class="logo-only" src="//machinima-static.s3.amazonaws.com/assets/logo-only-cf9e571fbece1a55834c563478aaf85d.png">
+      </a>
     </div>
     <nav>
-      <a href="https://affiliates.machinima.com" class="affiliate-log-in">Affiliate Log In <b>›</b></a>
+      <!--
+      <a href="https://affiliates.machinima.com" class="affiliate-log-in"
+         style='margin-top: -3px;'>Affiliate Log In <b>›</b></a> -->
 
       <ul>
         <li><a href="/" title="Home">Home</a></li>
@@ -71,14 +75,16 @@ Modernizr.load();
           <ul>
             <li><a href="/shows">Shows</a></li>
             <li><a href="/directors">Directors</a></li>
-            <li><a href="/games">Gameplay Videos</a></li>
-            <li><a href="/promotions">Promotions</a></li>
+            <!-- <li></li> -->
+            <!-- <li></li> -->
           </ul>
         </li>
         <li><a href="/advertisers" title="Advertisers">Advertisers</a></li>
-        <li><a href="/affiliates" title="Affiliates">Affiliates</a></li>
+        <li><a href="/affiliates" title="Partners">Partners</a></li>
         <li><a href="/#findus" class="findus-button">Find Us</a>
         </li><li><a href="/#contactus" class="contactus-button">Contact</a></li>
+
+        <li id="login_state"></li>
       </ul>
     </nav>
   </div>
@@ -170,21 +176,22 @@ Modernizr.load();
             <li><a href="/overview">About Us</a></li>
             <li><a href="/shows">Shows</a></li>
             <li><a href="/directors">Directors</a></li>
-            <li><a href="/games">Gameplay Videos</a></li>
-            <li><a href="/promotions">Promotions</a></li>
+            <!-- <li></li> -->
+            <!-- <li></li> -->
           </ul>
         </li>
         <li>Home
           <ul>
             <li><a href="/advertisers">Advertisers</a></li>
-            <li><a href="/affiliates">Affiliates</a></li>
+            <li><a href="/affiliates">Partners</a></li>
             <li><a href="/#findus" class="findus-button">Find Us</a></li>
             <li><a href="/#contactus" class="contactus-button">Contact Us</a></li>
           </ul>
         </li>
         <li>More
           <ul>
-            <li><a href="/careers">Careers</a></li>
+            <!-- <li><a href="http://www.machinima.com/careers" target="_blank">Careers</a></li> -->
+            <li><a href="http://hire.jobvite.com/CompanyJobs/Careers.aspx?c=qhl9Vfwq" target="_blank">Careers</a></li>
             <li><a href="/blog">News</a></li>
             <li><a href="/faqs">FAQs</a></li>
           </ul>
@@ -197,7 +204,7 @@ Modernizr.load();
           <div class="fb-like" data-href="http://www.machinima.com/" data-send="false" data-layout="button_count" data-width="150" data-show-faces="false" data-colorscheme="dark" data-font="arial"></div>
         </div>
         <div class="twitter">
-          <a href="https://twitter.com/Machinima_com" class="twitter-follow-button" data-show-count="false">Follow @Machinima_com</a>
+          <a href="https://twitter.com/machinima" class="twitter-follow-button" data-show-count="false">Follow @Machinima</a>
           <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
         </div>
         <div class="youtube">
@@ -224,13 +231,15 @@ Modernizr.load();
         <h1>The Dominant Video Entertainment Network for Gamers</h1>
       </div>
       <div class="legal">
-        <p>© 2013 Machinima, Inc. All rights reserved. <a href="/terms-of-use" title="Terms of Use">Terms of Use</a> | <a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a>
+        <p>© 2014 Machinima, Inc. All rights reserved. <a href="/terms-of-use" title="Terms of Use">Terms of Use</a> | <a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a>
       </p></div>
     </div>
   </div>
 </footer>
 
-  <script src="//machinima-static.s3.amazonaws.com/assets/application-cec130d271bdd0b3f4a5041258b6857c.js" type="text/javascript"></script>
+
+  <script src="//machinima-static.s3.amazonaws.com/assets/application-a5e0fa7f72fb277bd0bf395ab964f16e.js" type="text/javascript"></script>
+  <script src="https://accounts.machinima.com/1.0/id/state?callback=update_login_state" type="text/javascript"></script>
   
 
     <script>
@@ -239,6 +248,5 @@ Modernizr.load();
       g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
       s.parentNode.insertBefore(g,s)}(document,'script'));
     </script>
-
 
 </body></html>
