@@ -1,38 +1,76 @@
-> *The following text is extracted and transformed from the pakpassion.net privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608182927id_/http%3A//www.pakpassion.net/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakpassion.net privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508045116id_/http%3A//www.pakpassion.net/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D4638%26Itemid%3D135) for the most accurate reproduction.*
 
-# PakPassion - Pakistan Cricket Site- Privacy Policy
+# Privacy Statment - PakPassion.net
 
-**Information Collection and Use**  
-PakPassion.net is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways that differ from what is disclosed in this statement.
+##  **PRIVACY POLICY for _www.PakPassion.net_**
 
-  
-**Links**  
-This web site contains links to other sites. Please be aware that we [PakPassion.net] are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site, and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
+At PakPassion.net we are committed to safeguarding and preserving the privacy of our visitors. This [Website Privacy Policy](http://www.diylegals.co.uk/ecommerce/website-privacy-policy/)has been provided by the legal resource [www.diylegals.co.uk](http://www.diylegals.co.uk/)and reviewed and approved by their solicitors.
 
-  
-**Log Files**  
-We use IP addresses to analyse trends, track user's movement, and to gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our site.
 
-  
-**Security**  
-PakPassion.net takes every precaution to protect users' information. When users submit information via the web site this information is protected both online and off-line.
+We do update this Policy from time to time so please do review this Policy regularly.
 
-  
-**Confidentiality of Personal Information**  
-We will not sell, trade, or rent your personally identifiable information to others outside of PakPassion.net. Any information that you provide will not be attributable to you, as collected information is generally viewed at the aggregate level.
+**Information We Collect**
 
-  
-**Legal Disclaimer**  
-We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law, or to comply with a legal process served on our web site.
+In running and maintaining our website we may collect and process the following data about you:
 
-  
-**Cookies**  
-Our site may use cookies to help track usage patterns on our site. A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this, is that the user will be limited in some areas of our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Some of our business partners use cookies on their sites. However, we have no access to, or control over these cookies.
+i.      Information about your use of our site including details of your visits such as pages viewed and the resources that you access. Such information includes traffic data, location data and other communication data.
 
-  
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+ii.     Information provided voluntarily by you. For example, when you register for information or make a purchase.
 
-  
-**Contact Us**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact using the contact us form. 
+iii.    Information that you provide when you communicate with us by any means.
+
+iv.   Posts made and views expressed by you on our message boards.
+
+**Use of Cookies**
+
+Cookies provide information regarding the computer used by a visitor. We may use cookies where appropriate to gather information about your computer fin order to assist us in improving our website.
+
+We may gather information about your general internet use by using the cookie.  Where used, these cookies are downloaded to your computer and stored on the computer’s hard drive. Such information will not identify you personally. It is statistical data. This statistical data does not identify any personal details whatsoever
+
+You can adjust the settings on your computer to decline any cookies if you wish.  This can easily be done by activating the reject cookies setting on your computer.
+
+Our advertisers may also use cookies, over which we have no control.  Such cookies (if used) would be downloaded once you click on advertisements on our website.
+
+**Use of Your Information**
+
+We use the information that we collect from you to provide our services to you.  In addition to this we may use the information for one or more of the following purposes:
+
+i.      To provide information to you that you request from us relating to our products or services. 
+
+ii.     To provide information to you relating to other products that may be of interest to you. Such additional information will only be provided where you have consented to receive such information.
+
+iii.    To inform you of any changes to our website, services or goods and products.
+
+If you have previously purchased goods or services from us we may provide to you details of similar goods or services, or other goods and services, that you may be interested in.
+
+Where your consent has been provided in advance we may allow selected third parties to use your data to enable them to provide you with information regarding unrelated goods and services which we believe may interest you.  Where such consent has been provided it can be withdrawn by you at any time.
+
+**Storing Your Personal Data**
+
+In operating our website it may become necessary to transfer data that we collect from you to locations outside of the European Union for processing and storing. By providing your personal data to us, you agree to this transfer, storing or processing. We do our upmost to ensure that all reasonable steps are taken to make sure that your data is treated stored securely.
+
+Unfortunately the sending of information via the internet is not totally secure and on occasion such information can be intercepted. We cannot guarantee the security of data that you choose to send us electronically, Sending such information is entirely at your own risk.
+
+**Disclosing Your Information**
+
+We will not disclose your personal information to any other party other than in accordance with this Privacy Policy and in the circumstances detailed below:
+
+i.      In the event that we sell any or all of our business to the buyer.
+
+ii.     Where we are legally required by law to disclose your personal information.
+
+iii.    To further fraud protection and reduce the risk of fraud.
+
+**Third Party Links  
+**On occasion we include links to third parties on this website. Where we provide a link it does not mean that we endorse or approve that site’s policy towards visitor privacy. You should review their privacy policy before sending them any personal data.
+
+**Access to Information**
+
+In accordance with the Data Protection Act 1998 you have the right to access any information that we hold relating to you. Please note that we reserve the right to charge a fee of £10 to cover costs incurred by us in providing you with the information. 
+
+**Contacting Us**
+
+Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at PakPassion@hotmail.com.
+
+* * *
