@@ -1,70 +1,94 @@
-> *The following text is extracted and transformed from the wholesaleclothing-china.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012102317id_/http%3A//www.clothingloves.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesaleclothing-china.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508113858id_/http%3A//www.clothingloves.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy Policy - ClothingLoves.com
+# Privacy Policy
 
-The security of your personal information is very important to us. We never sell or rent your personal information to any third parties under any circumstances. We value your trust very highly, and will work to protect the security and privacy of any personal information you provide to us and will only use it as we have described in our Privacy Policy.
+Please replace this text with you Privacy Policy. Please add any additional cookies your website uses below (e.g., Google Analytics) 
 
- **Safe purchase at Clothingloves.com**
+This privacy policy sets out how uses and protects any information that you give when you use this website. is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
-We want you to feel completely secure when ordering from Clothingloves.com. We use a technology called Secure Sockets Layer (SSL), which encrypts (or encodes) sensitive information before it is sent over the Internet.
+## What we collect
 
- **What personal information do we collect?**
+We may collect the following information:
 
-As set forth in more detail below, Clothingloves.com ("Clothingloves.com" or "We") collects personal information that you provide when using the Clothingloves.com web site ("Site"). This information includes your first and last name, email address and a password when you create your Clothingloves.com account. You can browse this site without creating an account, but you will need to create an account when you purchase something and in order to take advantage of certain features, such as "Save for Later," "Address Book" and the other Clothingloves.com services. We may ask you to confirm your personal information when you contact our Customer Service department. This will allow us to protect your confidentiality by verifying your identity.  
-Clothingloves.com does not intentionally collect personal information about children under the age of 13. If you are under the age of 18 but at least 13 years of age you may use this Site only under the supervision of a parent or legal guardian who agrees to be bound by the Clothingloves.com Terms of Use. Children under the age of 13 may not use this Site and parents or legal guardians may not agree to the Clothingloves.com Terms of Use on their behalf. If you do not agree to (or cannot comply with) any of the Clothingloves.com Terms of Use, do not use this Site.
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
- **Purchase Information**
 
-When you make a purchase from Clothingloves.com, we collect your name and payment method information. We collect this information in order to bill you for your purchase. We also collect information that allows us to ship your order. This includes the name, address, and phone number of the intended recipient(s).  
-When you create an account at Clothingloves.com, you can choose to save your billing information in "My BeeBuyer." You can also save one or more shipping addresses in your Account Address Book. You may change or delete this saved information anytime. Simply go to My BeeBuyer. Log in with your ID and password, then edit or delete whatever personal information you wish.
 
- **Services Account Information**
+For the exhaustive list of cookies we collect see the List of cookies we collect section. 
 
-We collect personal information from users who wish to use any of the Clothingloves.com services, including but not limited to, Clothingloves.com's Transaction Platform. In order to use these services you must provide your email address and password or create an account at Clothingloves.com.
+## What we do with the information we gather
 
- **Cookies and Other Computer Information**
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
-When you visit Clothingloves.com, you will be assigned a permanent "cookie" (a small text file) to be stored on your computer's hard drive. The purpose of the cookie is to identify you when you visit this Site so we can enhance and customize your online purchase experience.  
-You can choose to browse on Clothingloves.com without cookies, but without these identifier files you will not be able to complete a purchase or take advantage of certain features of this Site. These features include storing your shopping cart for later use and, in the future, providing a more personalized shopping experience. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.  
-We also collect certain technical information from your computer each time you request a page during a visit to Clothingloves.com. This information may include your Internet Protocol (IP) address, your computer's operating system, browser type and the address of a referring web site, if any. We collect this information to enhance the quality of your experience during your visit to this Site and will not sell or rent this information to any third parties.  
-We also contract with third parties to provide us with data collection and reporting services regarding our customers' activities on this Site and to track and measure performance of our marketing efforts. These third parties may use cookies and may receive anonymous information about your browsing and buying activity on this Site. None of your personally identifiable information (such as your name, address, email address, etc.) will be received by or shared with these third parties.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. 
 
- **Contacting Clothingloves.com**
 
-We will use your email address to respond to your questions, suggestions, and/or requests for assistance in using this Site.
 
- **Other times we may collect personal information**
+## Security
 
-From time to time, Clothingloves.com may conduct surveys and contests via this Site, email, other media. If you choose to participate, we may request your name, email address, mailing address and other personal information. We will never sell or rent such information to any third parties.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
- **How we use your personal information?**  
-Information we collect on Clothingloves.com may be used to enhance your shopping experience in the following ways:  
-Deliver merchandise and services that you purchase online  
-Register you as a member of Clothingloves.com  
-Prevent fraud and bill you for your purchases  
-Confirm your orders  
-Respond to your customer-service inquiries or requests  
-Communicate great values and featured items to youFind and stock the products you want 
+## How we use cookies
 
-**Customize your purchase experience**
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 
-When and with whom can we share your personal information?  
-We never sell or rent your personal information to any third parties under any circumstances. We will share personal customer information only with our agents, representatives, service providers, and contractors for limited purposes, including fulfilling customer orders; offering certain products and services in connection with this Site; communicating to customers; providing customer service; storing, sharing and retrieving customers' photo images in our Photo Center; enhancing and improving clients' purchase experience; enabling access to our partners' web sites; providing a personalized purchase experience; preventing fraud and completing payment method processing.  
-Aside from the purposes described above, we will never share your personal information with any other third parties unless we have your express permission or under special circumstances, such as when we believe in good faith that the disclosure is required to prevent harm or injury (such as product recalls, fraud, claims or other liability) or to comply with valid legal processes (subpoenas, warrants) or as required by law. We may share aggregated demographic and statistical information with our partners. This is not linked to any personal information that can identify any individual person.
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
 
- **How can you control the use of your personal information?**
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
 
-You can modify or delete your personal information anytime. Simply go to My BeeBuyer. Log in with your ID and password, then edit or delete whatever personal information you wish. Do not share your BeeBuyer password with anyone. Other than on this Site, Clothingloves.com will never ask you for your password.
+## Links to other websites
 
- **How can we protect the security of your personal information?**
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
 
-Your personal information is protected by the password you created when you created an account at Clothingloves.com (or another password you chose after changing a previous password). Please keep this password confidential. No Customer Service Associate or any other representative of Clothingloves.com will ever ask you for your password. The confidentiality of your password is yours to protect. You may change it anytime by going to My BeeBuyer. Log in with your email address and password, then click "Change Name, Email & Password" and enter a new password.
+## Controlling your personal information
 
- **More about your privacy**
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-We realize that making purchases at Clothingloves.com, or any other web site, requires trust on your part. We value your trust very highly, and pledge to you, our clients, that we will work to protect the security and privacy of any personal information you provide to us and that your personal information will only be used as set forth in this Policy. This includes your name, address, phone number, email address or checking account information, in addition to any other personal information that can be linked to you, personally.  
-We believe that you have a right to know, before purchase at Clothingloves.com or at any other time, exactly what information we might collect from you, why we collect it and how we use it.  
-We do not and will not sell or rent your personal information to anyone. You have the right to control your personal information as you see fit.  
-If you have an account at Clothingloves.com and you want to change, modify or delete any of your personal information, you can do so anytime by going to My BeeBuyer. Log in with your ID and password, then edit or delete whatever personal information you wish.  
-Clothingloves.com may provide links to certain third party web sites. This Privacy Policy applies only to activities conducted and personal information collected on Clothingloves.com. Other web sites may have their own policies regarding privacy and security.  
-Clothingloves.com will obtain your consent before allowing the download of any software from the Clothingloves.com, and Clothingloves.com will not automatically download any software to your computer system. Once you consent to the initial download of any software, you may receive automatic updates or patches pertaining to such software. You understand and agree that any material, including but not limited to downloaded software, required or automated updates, modifications, reinstallations, or software otherwise obtained through the use of the Clothingloves.com is done at your own discretion and risk and that you will be solely responsible for any damages to your computer system or loss of data that may result from any such material.
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at clothingloves@gmail.com 
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to . 
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
+
+## List of cookies we collect
+
+The table below lists the cookies we collect and what information they store.
+
+COOKIE name | COOKIE Description  
+---|---  
+CART | The association with your shopping cart.  
+CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE | The items that you have in the Compare Products list.  
+CURRENCY | Your preferred currency  
+CUSTOMER | An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
+CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
+FRONTEND | You sesssion ID on the server.  
+GUEST-VIEW | Allows guests to edit their orders.  
+LAST_CATEGORY | The last category you visited.  
+LAST_PRODUCT | The most recent product you have viewed.  
+NEWMESSAGE | Indicates whether a new message has been received.  
+NO_CACHE | Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
+POLL | The ID of any polls you have recently voted in.  
+POLLN | Information on what polls you have voted on.  
+RECENTLYCOMPARED | The items that you have recently compared.   
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+WISHLIST | An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT | The number of items in your Wishlist.
