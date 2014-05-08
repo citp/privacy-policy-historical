@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gripsell.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813052115id_/http%3A//www.gripsell.com/v3bk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gripsell.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508163432id_/http%3A//www9.gripsell.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Groupon Clone, Groupon Script, Yipit Clone, Open Source Groupon Script
 
 **What information do we collect?**
 
@@ -8,21 +8,19 @@ We collect information from you when you register on our site or place an order.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
 
-Intellewise’s licensed software/scripts report back to licensing servers, the IP address/host name, and folder of digital location where the software/script is used. Intellewise stores information about license and is deemed ‘publicly share-able’ on demand.
+Gripsell’s licensed software/scripts report back to licensing servers, the IP address/host name, and folder of digital location where the software/script is used. Gripsell stores information about license and is deemed ‘publicly share-able’ on demand.
 
 **What do we use your information for?**
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-; To process transactions
-
+; To process transactions  
 Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-; To send periodic emails
+; To send periodic emails  
+The email address you provide for order processing, will only be used to send you information and updates pertaining to your order, Gripsell products, Services, Upgrades, Patches, Announcements, and related information.
 
-The email address you provide for order processing, will only be used to send you information and updates pertaining to your order, Intellewise products, Services, Upgrades, Patches, Announcements, and related information.
-
-Note: If at any time you would like to unsubscribe from receiving future emails, If at any time you would like to unsubscribe from receiving future emails, you may write us at info@intellewise.com. We will unsubscribe you from future communication.
+Note: If at any time you would like to unsubscribe from receiving future emails, If at any time you would like to unsubscribe from receiving future emails, you may write us at info@gripsell.com. We will unsubscribe you from future communication.
 
 **How do we protect your information?**
 
@@ -54,7 +52,7 @@ As part of the Online Privacy Protection Act, all users of our site may make any
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://intellewise.com/terms-of-service/
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://gripsell.com/legal/terms-of-service/
 
 **Your Consent**
 
@@ -66,14 +64,9 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-http://intellewise.com
-
-1-58/5/A, II Floor, Bank of India Building,
-
-Hyderabad, AP 500032
-
-INDIA
-
-info@intellewise.com
+If there are any questions regarding this privacy policy you may contact us using the information below.  
+Gripsell Technologies & Consultancy Services  
+1-58/5/A, II Floor, Bank of India Building,  
+Hyderabad, AP 500032  
+INDIA  
+info@gripsell.com
