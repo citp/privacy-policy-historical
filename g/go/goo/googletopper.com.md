@@ -1,100 +1,73 @@
-> *The following text is extracted and transformed from the googletopper.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the googletopper.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508155057id_/http%3A//www.googletopper.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy — Google Detonator V2.0
 
-**Go Daddy Respects Your Privacy**
+**_Welcome to  [www.GoogleTopper.com](http://www.listdetonator.com/) _**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+For the purpose of clarification wherever you see the words ‘you’, ‘your, ‘visitor’ or ‘user’ it refers to ‘you’.  Whereas where ever you see the terms ‘we’ or ‘our’ it refers to Bright Spark Marketing, LLC. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+We acknowledge that online privacy is a key concern for our users, and we are committed to ensuring the protection of your privacy at all times. This statement governs our privacy policies regarding all visitors to our site whether they are paying customers or otherwise. 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**  
+Personally Identifiable Information  
+**Bright Spark Marketing, LLC collects certain ‘Personally Identifiable Information’.  Personally Identifiable Information refers to any information that can be used to identify, contact or locate the person to whom such information pertains. 
 
-**Information Collection and Use**
+This information includes but is not limited to their; names, address, phone number, email, fax, social security number, payment details and credit card information. 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Personally Identifiable Information excludes demographic information Specific information collected from paying customers includes: billing name, billing address, phone, email and the credit card information / payment details required to authorize purchases and transact payments for products and services. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+  
+**Third Party Data Collection**  
+Third party service providers such as banks and credit card companies may collect information from our site visitors and paying customers.  This information is necessary in order to facilitate the provision of credit, insurance or escrow services.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We do not control how these third party vendors use the date collected, but we do ask them provide full disclosure on how they use such information. Furthermore certain third parties are merely link in the distribution chain and do not store, retain or use any information collected through our site.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+**  
+How We Use Personally Identifiable Information  **  
+Personally Identifiable Information is used to transact authorized payment, to facilitate the provision of our services and to enhance our service offering.  Site visitor and customers may be contacted on occasion with information pertaining to the subject matter.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+This can take the form of research, customer service or any information pertaining to our service offering.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**  
+With whom may the information be shared?**  
+Information may only be shared with authorized third party vendors that are essential to the provision of services for which the authorized customer is transacting.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We may also share such information with one of our other companies, in order to offer you related products or services that may be of interest to you. We may share aggregated information pertaining to our visitors / customers demographics with affiliated agencies and third party vendors.
 
-**Security**
+‘Opt Out’ opportunities are provided to enable you to halt communications form us or some other agency acting on our behalf.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**  
+How is Personally Identifiable Information stored?**  
+Personally Identifiable Information collected by [www.GoogleTopper.com](http://www.listdetonator.com/) is stored on our high security servers and is not accessible by third parties or employees of Bright Spark Marketing, LLC, for any purpose other than that aforementioned.
 
-**Updating Your Information**
+**  
+Visitor Consent Re: Data Collections and Dissemination  
+**Visitors and authorized customer may elect to contact our helpdesk at any time if they will to opt out from receiving unsolicited information or from being contacted by us, our vendors or any third party agencies.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+**  
+The Use of Cookies**  
+GoogleTopper.com uses cookies to determine the preferences of our site visitors.  Cookies are also used for security purposes to protect authorized customers. Cookies are used for a variety of reasons.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+We use Cookies to obtain information about the preferences of our Visitors and the services they select. This includes automated logging out of users inactive for a certain period of time.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**  
+The Use of Login Information  
+**GoogleTopper.com uses login information including but not limited to ISPs, IP addresses and browser types in order to analyzes trends, record demographic information, determine user preferences, track a user’s site usage, administer the site as well as several other important uses.
 
-      iii.      You may call us at: (480) 505-8800
+**  
+Disclosure to Law Enforcement Agencies**  
+If required we will disclose personally identifiable information to law enforcement agencies in order to comply with a course order or subpoena.
 
-       iv.      You may fax us at: (480) 505-8844
+**  
+The Security of Personally Identifiable Information**  
+Our employees are governed by strict security protocols.  Only a small number of qualified employees have access to the information via a secure password. Sensitive financial information such as credit card numbers is protected via the latest encryption protocols.
 
-**Sending Emails**
+While every possible measure is taken to secure our site, electronic data by its nature is subject to errors / tampering thus we cannot guarantee that such event will not occur and we will not be liable to visitor or customers for any such occurrences.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+**  
+The Correction of Inaccurate Information**  
+Visitors and Authorized Customers can request the correction of inaccurate information or the deletion of certain personally identifiable information by raising a ticket at our help desk.  It is possible however given the nature of backups and records of deletions that some residual data will be retained.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+**  
+Changes to** **  the Privacy Policy**  
+Visitors and authorized customer will be informed of any changed made to this Privacy Policy, via our web site.
