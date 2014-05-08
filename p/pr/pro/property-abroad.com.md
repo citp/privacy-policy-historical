@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the property-abroad.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103034558id_/http%3A//www.property-abroad.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the property-abroad.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508163021id_/http%3A//www.property-abroad.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Property-Abroad.com Ltd
 
@@ -26,8 +26,6 @@ You have the right to ask in writing by email or post to our registered address 
 
 If the following facilities are available, you can amend your previous preference on our website(s), using our "unsubscribe e-mail" or in literature which you subsequently return to us. Once properly notified by you, we will take steps to stop using your information in this way. 
 
-###  Cookies 
-
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
 
   * Google, as a third-party vendor, uses cookies to serve ads on your site. 
@@ -39,6 +37,6 @@ other sites on the Internet.
 
 ###  Data Protection Act 1998 
 
-We are registered with the Information Commissioner's Office for Data Control and our registration number is: 450794ce for Data Control and our registration number is: **Z1450794**
+We are registered with the Information Commissioner's Office for Data Control and our registration number is: **450794ce** for Data Control and our registration number is: **Z1450794**
 
 [ ](https://web.archive.org/overseas-mortgages/) [ ](https://web.archive.org/foreign-currency/)
