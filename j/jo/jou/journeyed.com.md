@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journeyed.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124054254id_/http%3A//www.journeyed.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journeyed.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508161355id_/http%3A//www.journeyed.com/page/privacy) for the most accurate reproduction.*
 
 # JourneyEd.com - Academic Software Discounts!
 
@@ -13,32 +13,34 @@ No worries, your information is never shared for any reason.
   
 ---  
   
-#### [Software](https://web.archive.org/dept/Software/284008)
+#### [Software](http://www.journeyed.com/dept/Software/284008)
 
 |   
   
-#### [Adobe Cloud](https://web.archive.org/adobe_creative_cloud/pid)  
-  
-#### [Hardware](https://web.archive.org/dept/Hardware/284009)
+#### [Accessories](http://www.journeyed.com/dept/Accessories/284031)
 
 |   
   
-#### [Games](https://web.archive.org/dept/Games/299773)
+#### [Hardware](http://www.journeyed.com/dept/Hardware/284009)
 
 |   
   
-#### [Books](https://web.archive.org/dept/Books/284010)
+#### [Games](http://www.journeyed.com/dept/Games/299773)
 
 |   
   
-#### [Bags](https://web.archive.org/dept/Bags/284012)
+#### [Books](http://www.journeyed.com/dept/Books/284010)
 
 |   
   
-#### [Brands](https://web.archive.org/dept/Brands/284011)
+#### [Bags](http://www.journeyed.com/dept/Bags/284012)
 
 |   
-[](https://web.archive.org/catalog_request/) [](https://web.archive.org/select) [](http://www.facebook.com/journeyed) [](http://twitter.com/journeyed) [](http://www.youtube.com/journeyed1) Last updated: May 30, 2012
+  
+#### [Brands](http://www.journeyed.com/dept/Brands/284011)
+
+|   
+[](http://www.journeyed.com/item/Microsoft/Office/1571754) [](http://www.journeyed.com/item/Microsoft/Office/1571754) [](http://www.facebook.com/journeyed) [](http://twitter.com/journeyed) [](http://www.youtube.com/journeyed1) Last updated: May 30, 2012
 
 BY USING THIS WEBSITE OR SUBMITTING PERSONAL INFORMATION TO JOURENYED.COM THROUGH THIS WEBSITE, YOU ARE CONSENTING TO THE COLLECTION, USE, TRANSFER, AND DISCLOSURE OF INFORMATION AS DESCRIBED IN THIS PRIVACY STATEMENT. 
 
