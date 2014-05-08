@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the webmaker.org privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620075340id_/https%3A//webmaker.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmaker.org privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508062113id_/https%3A//webmaker.org/en-US/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mozilla Webmaker
 
 ### June 15, 2013
 
-We care about your privacy. When Mozilla (that’s us) collects information about you from Webmaker, our [privacy policy](https://webmaker.org/privacy) describes how we handle that information.
+We care about your privacy. When Mozilla (that’s us) collects information about you from Webmaker, our privacy policy describes how we handle that information.
 
 ## Things you should know
 
