@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathtag.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218030208id_/http%3A//www.mediamath.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathtag.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508030922id_/http%3A//www.mediamath.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -89,12 +89,12 @@ To address any issues regarding our compliance with the NAI Self-Regulatory Prin
 _Privacy Complaints by European Union Citizens:_  
 In compliance with the U.S.–EU and U.S-Swiss Safe Harbor Principles, MediaMath commits to resolve complaints about your privacy and our collection or use of your Personal Information. European Union and Swiss citizens with inquiries or complaints regarding this privacy policy should first contact MediaMath at [privacy@mediamath.com](mailto:%20privacy@nullmediamath.com) or you can send correspondence to the following address: MediaMath Inc., Attn: Tom Craig, 1440 Broadway, 21st Floor, New York, NY 10018.
 
-MediaMath has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by the Privacy Officer at MediaMath, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20131217193948id_/http://www.mediamath.com/privacy/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint:
+MediaMath has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by the Privacy Officer at MediaMath, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20140508030922id_/http://www.mediamath.com/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint:
 
 Council of Better Business Bureaus, Inc.  
 BBB EU Safe Harbor  
 4200 Wilson Boulevard, Suite 800  
 Arlington, VA 22203  
 Phone: 703-276-0100  
-Web: [www.us.bbb.org](https://web.archive.org/web/20131217193948id_/http://www.mediamath.com/privacy/www.us.bbb.org)  
+Web: [www.us.bbb.org](https://web.archive.org/web/20140508030922id_/http://www.mediamath.com/www.us.bbb.org)  
 Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
