@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dubaidutyfreetennischampionships.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102191031id_/http%3A//www.dubaidutyfreetennischampionships.com/Terms/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubaidutyfreetennischampionships.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508171327id_/http%3A//www.dubaidutyfreetennischampionships.com/Terms/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Tennis - The Dubai Duty Free Tennis Championships - Privacy Policy
+# Dubai Duty Free Tennis Championships - Privacy Policy
 
 ATP Tour, Inc. ("ATP") is committed to protecting your privacy. Please read this Privacy Policy, as well as our [Terms of Use Agreement] for more details about how we use information you submit to the Website. This Privacy Policy, together with the Terms of Use Agreement, constitute the entire agreement between you and ATP. By your use of the Website you consent to be governed by this Privacy Policy. 
 
