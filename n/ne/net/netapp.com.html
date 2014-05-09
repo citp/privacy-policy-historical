@@ -1,14 +1,15 @@
-<!--The following is the downloaded HTML source of the netapp.com privacy policy that was archived on 2013-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629210647id_/http%3A//www.netapp.com/us/legal/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the netapp.com privacy policy that was archived on 2014-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140509110628id_/http%3A//www.netapp.com/us/legal/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="W01 ltr js flexbox no-touch rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent svg fileinput boxsizing no-speechinput formattribute display-table placeholder formvalidation datauri wf-loading wf-netappscript-n4-loading" dir="ltr" lang="en-US" style=""><head>
     <meta charset="utf-8">
     <meta name="language" content="en">
     
-<title>NetApp Privacy Policy</title>
+    <title>NetApp Privacy Policy</title>
 
     <meta content="width=device-width" name="viewport">
     
+    <link rel="canonical" href="http://www.netapp.com/us/legal/privacypolicy.aspx">
     <meta content="This privacy policy tells you about NetApp’s policies and practices for the collection, use, processing, storage, and disclosure of information that we collect about you through our sites and services, including the Web site www.netapp.com." name="description">
     <meta content="NetApp - Privacy Policy" name="keywords">
     <meta content="NetApp Privacy Policy" property="og:title">
@@ -25,7 +26,18 @@
         filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
         opacity: 0; 
       }
+      #mobileSearch {display:none;}
     </style>
+    <noscript>
+        <style>
+          .no-js #mobileMenu, #mobileSearch {display:block !important;}
+          .no-js #mobileMenu .tab {display:inline-block;padding:0;margin:0;width:32%;text-align:left;}
+          .no-js #mobileMenu .tabText {display:block;padding:0 .5em .5em .5em; margin:0;}
+          .no-js #mobileMenu ul ul {display:none;}
+          .no-js #mobileMenu :link, .no-js #mobileMenu :visited, .no-js #mobileMenu :link:hover {color:#fff;}
+          .no-js #mobileMenuTrigger, .no-js #mobileSearchTrigger {visibility:hidden;}
+        </style>
+    </noscript>
     <link href="/us/static/css/basic.desktop.ltr.css" media="all" rel="stylesheet">
     <!--[if lt IE 8]>
       <link href="/us/static/css/advanced.desktop.ltr.ie6-7.css" media="all" rel="stylesheet" />
@@ -41,9 +53,7 @@
     <!--<![endif]-->
     
     <script src="//web.archive.org/web/20130928100433/http://use.typekit.net/nzo5qdr.js" type="text/javascript" async=""></script><script>
-        ntapDevice = 'desktop'; // Populated via WURFL
-        // Required for iOS5 and lower so rotation doesn't cause scaling to freak out
-        // Could use WURFL for this, but not sure it's worth it -barkan  
+        ntapDevice = 'desktop';
         /*
         if (navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i)) {
             var viewportmeta = document.querySelector('meta[name="viewport"]');
@@ -70,6 +80,19 @@
     <script src="/us/static/js/eucookielaw.js"></script>
     <script>
      if(cookieLaw.shouldInject()) {
+         //monster cookie round 1
+         var _ip = '';
+         if(typeof __ntap_dmdbase !== 'undefined') {
+             _ip = __ntap_dmdbase.ip;
+         }
+         var _monster_cookie = '';
+         if(!getCookie('__ntap_global_id')) {
+             var _d = new Date();
+             _monster_cookie = 'ntap' + _ip + '.' + _d.getTime();
+             setCookie("__ntap_global_id",_monster_cookie,36500);
+         } else {
+             _monster_cookie = getCookie('__ntap_global_id');
+         }
         //eloqua
         var _elqQ = _elqQ || [];
         _elqQ.push(['elqSetSiteId', '1184']);
@@ -85,13 +108,18 @@
         })();
         //google analytics
         var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-3177638-2']);
-        //_gaq.push(['_setAccount', 'UA-xxxxxxx-x']);
+        if(location.host=="www.netapp.com") {
+            _gaq.push(['_setAccount', 'UA-3177638-5']);
+        }
+        else {
+            _gaq.push(['_setAccount', 'UA-49436032-1']);
+        }
+        _gaq.push(['_setCustomVar',3,'ntapgid',_monster_cookie,1]);
         //_gaq.push(['_setDomainName', 'netapp.com']);
         _gaq.push(['_trackPageview']);
-        (function () {
+        (function() {
             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
      } //cookielaw
@@ -101,13 +129,14 @@
 
     <body class="noTabs" role="document">
 
+
     <div class="mboxDefault" style="visibility: visible; display: block;">
       <!-- empty mbox -->
     </div>
     <script type="text/javascript">
         var __mbox_name = "NetApp_Global_Header";
-        mboxCreate(__mbox_name);
-    </script><div id="mboxMarker-default-NetApp_Global_Header-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://netappinc.tt.omtrdc.net/m2/netappinc/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580495978605-523508&amp;mboxPage=1580495983832-34145&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxCount=1&amp;mbox=NetApp_Global_Header&amp;mboxId=0&amp;mboxTime=1580495983975&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20130629210647id_%2Fhttp%253A%2F%2Fwww.netapp.com%2Fus%2Flegal%2Fprivacypolicy.aspx&amp;mboxReferrer=&amp;mboxVersion=41" language="JavaScript"></script>
+        mboxCreate(__mbox_name, 'path='+location.pathname); 
+    </script><div id="mboxMarker-default-NetApp_Global_Header-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://netappinc.tt.omtrdc.net/m2/netappinc/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580495974938-433556&amp;mboxPage=1580495980617-32062&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxCount=1&amp;path=%2Fweb%2F20140509110628id_%2Fhttp%253A%2F%2Fwww.netapp.com%2Fus%2Flegal%2Fprivacypolicy.aspx&amp;mbox=NetApp_Global_Header&amp;mboxId=0&amp;mboxTime=1580495980705&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140509110628id_%2Fhttp%253A%2F%2Fwww.netapp.com%2Fus%2Flegal%2Fprivacypolicy.aspx&amp;mboxReferrer=&amp;mboxVersion=41" language="JavaScript"></script>
     <div class="visuallyHidden" id="skipNav">
         <a href="#main">Skip navigation</a>
     </div>
@@ -141,11 +170,9 @@
                     <img alt="NetApp®" src="/us/static/images/header.logo.desktop.png">
                     </a>
                 </h1>
-                <aside class="shelves" role="complementary">
-                </aside>
                         
 <div class="yui-skin-sam">
-  <form id="submitSearchHeader" name="submitSearchHeader" action="http://search.netapp.com">
+  <form id="submitSearchHeader" name="submitSearchHeader" action="/us/search">
     <div id="siteSearch">
       <input id="textBox" class="search" type="search" name="q">
       <input alt="Search" class="searchBtn" src="/us/static/images/header.search.btn.png" type="image">
@@ -286,218 +313,1874 @@
                               <!-- end _eu-cookie-notice.haml --> 
             </div>
         </div>
-        <div class="globalNavBar">
-            <div class="liner3">
-                
-    <!-- [rootURL: /us/ | simpleURL: /us/legal | CurrentPageURL: /us/legal/privacypolicy.aspx] -->
-    <nav aria-label="site navigation" role="navigation">
-      <ul class="tabs" id="tabs">
-        <li tabindex="0" class="tab tab1 "><section role="group"><a class="tabText" href="/us/products"><h1>Products</h1></a><ul class="columns count5">
-          <li class="column"><a href="/us/products/storage-systems"><h2>Data Storage Systems</h2></a><ul>
-              <li><a href="/us/products/storage-systems/flash-ef540">EF540</a></li>
-              <li><a href="/us/products/storage-systems/fas6200">FAS6200 Series</a></li>
-              <li><a href="/us/products/storage-systems/fas3200">FAS3200 Series</a></li>
-              <li><a href="/us/products/storage-systems/fas2200">FAS2200 Series</a></li>
-              <li><a href="/us/products/storage-systems/e5500">E5500 Series</a></li>
-              <li><a href="/us/products/storage-systems/e5400">E5400 Series</a></li>
-              <li><a href="/us/products/storage-systems/e2600">E2600 Series</a></li>
-              <li><a href="/us/products/storage-systems/v-series">V-Series</a></li>
-              <li><a href="/us/products/storage-systems/disk-shelves-and-storage-media">Disk Shelves and Storage Media</a></li>
-              <li><a href="/us/products/storage-systems">See More</a></li>
-            </ul>
-          </li>
-          <li class="column"><a href="/us/products/platform-os"><h2>Platform OS</h2></a><ul>
-              <li><a href="/us/products/platform-os/data-ontap-8">Data ONTAP 8</a></li>
-              <li><a href="/us/products/platform-os/data-ontap-edge">Data ONTAP Edge</a></li>
-            </ul><a href="/us/products/protocols"><h2>Protocols</h2></a><ul>
-              <li><a href="/us/products/protocols/san">SAN</a></li>
-              <li><a href="/us/products/protocols/nas">NAS</a></li>
-            </ul><a href="/us/products/storage-security-systems"><h2>Storage Security Systems</h2></a></li>
-          <li class="column"><a href="/us/products/software/index.aspx"><h2>Software</h2></a><ul>
-              <li><a href="/us/products/software/connect.aspx">NetApp Connect</a></li>
-              <li><a href="/us/products/management-software/index.aspx">OnCommand Management Software</a></li>
-              <li><a href="/us/products/protection-software/index.aspx">Protection Software</a></li>
-              <li><a href="/us/products/storage-software/storagegrid/index.aspx">Object Storage Software</a></li>
-            </ul>
-          </li>
-          <li class="column"><a href="/us/technology/index.aspx"><h2>Technology</h2></a><ul>
-              <li><a href="/us/technology/flash-storage/index.aspx">Flash Storage</a></li>
-              <li><a href="/us/solutions/cloud/flexpod/index.aspx">FlexPod</a></li>
-              <li><a href="/us/technology/secure-multi-tenancy.aspx">Secure Multi-Tenancy</a></li>
-              <li><a href="/us/technology/storage-efficiency/index.aspx">Storage Efficiency</a></li>
-              <li><a href="/us/technology/unified-storage/index.aspx">Unified Storage</a></li>
-              <li><a href="/us/technology/index.aspx">See More</a></li>
-            </ul>
-          </li>
-          <li class="column"><a href="/us/library/index.aspx"><h2>Library</h2></a><a href="/us/services-support/university/index.aspx"><h2>Training</h2></a><a href="/us/products/a-z/index.aspx"><h2>Products A-Z</h2></a><a href="/us/solutions/midsize/index.aspx"><h2>Midsize Business</h2></a></li>
-        </ul></section></li>
-    <li tabindex="0" class="tab tab2 "><section role="group"><a class="tabText" href="/us/solutions"><h1>Solutions</h1></a><ul class="columns count5">
-          <li class="column"><a href="/us/solutions/cloud/index.aspx"><h2>Cloud</h2></a><ul>
-              <li><a href="/us/solutions/cloud/flexpod/index.aspx">FlexPod</a></li>
-              <li><a href="/us/solutions/cloud/microsoft-cloud/index.aspx">Microsoft Private Cloud</a></li>
-              <li><a href="/us/solutions/cloud/vmware-cloud-infrastructure.aspx">VMware Cloud Infrastructure</a></li>
-            </ul><a href="/us/solutions/virtualization/index.aspx"><h2>Virtualization</h2></a><ul>
-              <li><a href="/us/solutions/virtualization/desktop/desktop-citrix.aspx">Citrix Virtual Desktop</a></li>
-              <li><a href="/us/solutions/virtualization/server/ms-server-virtualization.aspx">Microsoft Server Virtualization</a></li>
-              <li><a href="/us/solutions/virtualization/server/server-vmware.aspx">VMware Server Virtualization</a></li>
-              <li><a href="/us/solutions/virtualization/desktop/desktop-vmware.aspx">VMware Virtual Desktop</a></li>
-            </ul>
-          </li>
-          <li class="column"><a href="/us/solutions/applications"><h2>Enterprise Applications</h2></a><ul>
-              <li><a href="/us/solutions/applications/ibm-db2">IBM DB2</a></li>
-              <li><a href="/us/solutions/applications/microsoft-exchange">Microsoft Exchange Server</a></li>
-              <li><a href="/us/solutions/applications/microsoft-sharepoint-server">Microsoft SharePoint Server</a></li>
-              <li><a href="/us/solutions/applications/microsoft-sql">Microsoft SQL Server</a></li>
-              <li><a href="/us/solutions/applications/oracle">Oracle</a></li>
-              <li><a href="/us/solutions/applications/sap">SAP</a></li>
-            </ul><a href="/us/solutions/mobile-information-management/index.aspx"><h2>Mobile Information Management</h2></a><ul>
-              <li><a href="/us/solutions/mobile-information-management/citrix-sharefile.aspx">Citrix ShareFile</a></li>
-              <li><a href="/us/products/software/connect.aspx">NetApp Connect</a></li>
-              <li><a href="/us/solutions/mobile-information-management/vmware-horizonworkspace.aspx">VMware Horizon Workspace</a></li>
-            </ul>
-          </li>
-          <li class="column"><a href="/us/solutions/big-data/index.aspx"><h2>Big Data</h2></a><ul>
-              <li><a href="/us/solutions/big-data/distributed-content-repositories.aspx">Distributed Content Repository</a></li>
-              <li><a href="/us/solutions/big-data/enterprise-content-repository.aspx">Enterprise Content Repository Solution</a></li>
-              <li><a href="/us/solutions/industry/government/full-motion-video.aspx">Full-Motion Video</a></li>
-              <li><a href="/us/solutions/big-data/lustre.aspx">High Performance Lustre</a></li>
-              <li><a href="/us/solutions/big-data/hadoop.aspx">Open Solutions for Hadoop</a></li>
-            </ul><a href="/us/solutions/data-protection/index.aspx"><h2>Data Protection</h2></a><ul>
-              <li><a href="/us/solutions/data-protection/backup-recovery.aspx">Backup and Recovery</a></li>
-              <li><a href="/us/solutions/data-protection/business-continuity.aspx">Business Continuity</a></li>
-            </ul>
-          </li>
-          <li class="column"><a href="/us/solutions/midsize"><h2>Midsize Business</h2></a><a href="http://www.netapp.com/us/solutions/service-providers/"><h2>Service Providers</h2></a><a href="/us/solutions/industry/index.aspx"><h2>By Industry</h2></a><ul>
-              <li><a href="/us/solutions/industry/education.aspx">Education</a></li>
-              <li><a href="/us/solutions/industry/energy/index.aspx">Energy</a></li>
-              <li><a href="/us/solutions/industry/healthcare/index.aspx">Healthcare</a></li>
-              <li><a href="/us/solutions/industry/government/index.aspx">Government</a></li>
-              <li><a href="/us/solutions/industry/high-performance-computing.aspx">High Performance Computing</a></li>
-              <li><a href="/us/solutions/industry/media-entertainment/index.aspx">Media &amp; Entertainment</a></li>
-            </ul>
-          </li>
-          <li class="column"><a href="/us/solutions/a-z/index.aspx"><h2>Solutions A-Z</h2></a><a href="http://solutionconnection.netapp.com/homepage.aspx"><h2>Alliance Solutions</h2></a><a href="/us/services-support/university/index.aspx"><h2>Training</h2></a><a href="/us/library/"><h2>Library</h2></a><a href="/us/company/our-story/customer-showcase/index.aspx"><h2>Customer Showcase</h2></a><a href="/us/services-support/professional/index.aspx"><h2>Professional Services</h2></a></li>
-        </ul></section></li>
-    <li tabindex="0" class="tab tab3 "><section role="group"><a class="tabText" href="/us/services-support"><h1>Services &amp; Support</h1></a><ul class="columns count3">
-          <li class="column"><a href="/us/services-support/index.aspx"><h2>Services</h2></a><ul>
-              <li><a href="/us/services-support/professional/index.aspx">Professional Services</a></li>
-              <li><a href="/us/services-support/overview.aspx">Support and Onsite Services</a></li>
-            </ul>
-          </li>
-          <li class="column"><a href="/us/services-support/university/index.aspx"><h2>Training</h2></a><ul>
-              <li><a href="/us/services-support/university/certification.aspx">Certification</a></li>
-              <li><a href="/us/services-support/university/learning.aspx">LearningCenter</a></li>
-              <li><a href="/us/services-support/university/learning-partners.aspx">Learning Partners</a></li>
-            </ul>
-          </li>
-          <li class="column"><a target="_blank" href="http://support.netapp.com/"><h2>Get Support</h2></a><ul>
-              <li><a target="_blank" href="http://support.netapp.com/info/web/ECMP1150550.html">Get Started</a></li>
-              <li><a href="/us/services-support/ngs-contacts.aspx">Contact Support</a></li>
-            </ul>
-          </li>
-        </ul></section></li>
-    <li tabindex="0" class="tab tab4 "><section role="group"><a class="tabText" href="/us/partners"><h1>Partners</h1></a><ul class="columns count4">
-          <li class="column">
-            <h2>Find a Partner</h2>
-            <ul>
-              <li><a href="http://solutionconnection.netapp.com/partner-directory.aspx">Alliance Technology Partners</a></li>
-              <li><a href="/us/how-to-buy/index.aspx">Channel Partners</a></li>
-              <li><a href="/us/partners/e-based-oems.aspx">E-Based OEM Partners</a></li>
-              <li><a href="/us/partners/become-a-partner/service-providers/">Service Providers</a></li>
-            </ul>
-          </li>
-          <li class="column"><a href="/us/partners/become-a-partner/index.aspx"><h2>Become a Partner</h2></a><ul>
-              <li><a href="/us/partners/become-a-partner/global-system-partners.aspx">Global System Partners</a></li>
-              <li><a href="/us/partners/become-a-partner/resellers.aspx">Resellers</a></li>
-              <li><a href="/us/partners/become-a-partner/service-providers-new.aspx">Service Providers</a></li>
-              <li><a href="/us/partners/become-a-partner/system-integrators/index.aspx">System Integrators</a></li>
-              <li><a href="/us/partners/become-a-partner/vertical-solution-integrators.aspx">Vertical Solution Integrators</a></li>
-            </ul>
-          </li>
-          <li class="column">
-            <h2>Alliance Technology Partners</h2>
-            <ul>
-              <li><a href="http://solutionconnection.netapp.com/homepage.aspx">Alliance Solution Connection</a></li>
-              <li><a href="/us/partners/alliance-technology/global-alliance/index.aspx">Global Alliances</a></li>
-              <li><a href="/us/partners/alliance-technology/index.aspx">Program Overview</a></li>
-            </ul>
-          </li>
-          <li class="column">
-            <h2>For Partners</h2>
-            <ul>
-              <li><a href="http://solutionconnection.netapp.com/homepage.aspx">Alliance Solution Connection</a></li>
-              <li><a target="_blank" href="https://fieldportal.netapp.com">Field Portal Login</a></li>
-              <li><a target="_blank" href="https://communities.netapp.com/welcome">Communities</a></li>
-              <li><a href="https://tech.netapp.com/">TechNet</a></li>
-            </ul>
-          </li>
-        </ul></section></li>
-    <li tabindex="0" class="tab tab5 "><section role="group"><a class="tabText" href="/us/company"><h1>Company</h1></a><ul class="columns count5">
-          <li class="column"><a href="/us/company/our-story/index.aspx"><h2>Our Story</h2></a><ul>
-              <li><a href="http://investors.netapp.com/">Financial Information</a></li>
-              <li><a href="http://investors.netapp.com/management.cfm">Management</a></li>
-              <li><a href="/us/company/our-story/customer-showcase/index.aspx">Customer Showcase</a></li>
-              <li><a href="/us/company/our-story/corp-citizen/index.aspx">Global Corporate Citizenship</a></li>
-              <li><a href="/us/company/our-story/innovation-awards/index.aspx">Innovation Awards</a></li>
-              <li><a href="/us/company/our-story/sustainability/index.aspx">Sustainability at NetApp</a></li>
-              <li><a href="/us/company/our-story/ebc/index.aspx">Executive Briefing Center</a></li>
-            </ul>
-          </li>
-          <li class="column"><a href="/us/company/leadership/index.aspx"><h2>Thought Leadership</h2></a><ul>
-              <li><a href="/us/solutions/big-data/index.aspx">Big Data</a></li>
-              <li><a href="/us/company/leadership/efficient-it/index.aspx">Efficient IT</a></li>
-              <li><a href="/us/company/leadership/flexible-it/index.aspx">Flexible IT</a></li>
-              <li><a href="/us/company/leadership/advanced-technology/index.aspx">Advanced Technology Group</a></li>
-              <li><a href="/us/company/leadership/industry-standards/index.aspx">Industry Standards &amp; Associations</a></li>
-              <li><a href="/us/company/leadership/academic-alliances/index.aspx">Academic Alliances</a></li>
-            </ul>
-          </li>
-          <li class="column"><a href="/us/company/news/index.aspx"><h2>News@NetApp</h2></a><ul>
-              <li><a href="/us/company/news/press-releases.aspx">Press Releases</a></li>
-              <li><a href="/us/company/news/press-coverage.aspx">Press Coverage</a></li>
-              <li><a href="/us/company/news/awards.aspx">Awards</a></li>
-              <li><a href="/us/company/news/executive-bios.aspx">Executive Bios</a></li>
-              <li><a href="/us/company/news/product-photos.aspx">Image Library</a></li>
-              <li><a href="/us/library/?docType=ar">Analyst Reports</a></li>
-            </ul>
-          </li>
-          <li class="column"><a href="http://investors.netapp.com/"><h2>Investors</h2></a><ul>
-              <li><a href="http://investors.netapp.com/essentials.cfm">Essentials</a></li>
-              <li><a href="http://investors.netapp.com/financial_center.cfm">Financial Center</a></li>
-              <li><a href="http://investors.netapp.com/stockquote.cfm">Stock Information</a></li>
-              <li><a href="http://investors.netapp.com/contactus.cfm">Contact Investor Relations</a></li>
-            </ul>
-          </li>
-          <li class="column"><a href="/us/company/events/"><h2>Events</h2></a><a href="/us/careers/index.aspx"><h2>Careers</h2></a><ul>
-              <li><a href="/us/careers/life/index.aspx">Life at NetApp</a></li>
-              <li><a href="/us/careers/your-career/index.aspx">Your Career at NetApp</a></li>
-              <li><a href="/us/careers/university/index.aspx">University Recruiting</a></li>
-              <li><a href="/us/careers/find-job/index.aspx">Find a Job</a></li>
-            </ul>
-          </li>
-        </ul></section></li>
-    <li tabindex="0" class="tab tab6 "><section role="group"><a class="tabText" href="/us/how-to-buy"><h1>How to Buy</h1></a><ul class="columns count3">
-          <li class="column"><a href="/us/how-to-buy/index.aspx"><h2>Channel Partners</h2></a><ul>
-              <li><a href="/us/how-to-buy/resellers-new/">Resellers</a></li>
-              <li><a href="/us/partners/become-a-partner/service-providers/service-providers-americas.aspx">Service Providers</a></li>
-              <li><a href="/us/partners/become-a-partner/system-integrators/index.aspx">System Integrators</a></li>
-              <li><a href="/us/partners/become-a-partner/vertical-solution-integrators/index.aspx">Vertical Solution Integrators</a></li>
-            </ul>
-          </li>
-          <li class="column"><a href="/us/how-to-buy/contracts/"><h2>US Public Sector Contracts</h2></a><a href="/us/partners/e-based-oems.aspx"><h2>E-Based OEM Partners</h2></a><a href="/us/how-to-buy/netapp-capital-solutions/index.aspx"><h2>NetApp Capital Solutions</h2></a></li>
-          <li class="column"><a href="/us/how-to-buy/index.aspx"><h2>Let's Get Started</h2></a><h2>+1 877 263 8277</h2>
-          </li>
-        </ul></section></li>
-      </ul>
-    </nav>
+            <div class="globalNavBar">
+                <div class="liner3">
+                    <nav aria-label="site navigation" role="navigation">
+                        <ul class="tabs" id="tabs">
+                                     
+            <li id="ctl05_TabsRepeater_theTabs_0" class="tab tab1" tabindex="0">
+  <section role="group">
+    
+      <a href="/us/products/index.aspx" target="_self" class="tabText"><h1>
+          Products
+        </h1></a>      
+      
+      
   
-            </div>
-        </div>
+    
+
+  
+    
+    <ul class="columns count4" id="pMenu">
+        
+
+        <li>
+  <div class="pMenuImg">
+    <img alt="prod-menu-fas8000" src="/us/media/prod-menu-fas8000.jpg">
+  </div>
+  <div class="pMenuContent">
+    <h2>
+      Unified Storage
+      <em>Data ONTAP</em>
+    </h2>
+    <ul>
+      
+        <li class="column">
+  
+    <h3>
+    
+    <a href="/us/products/storage-systems/index.aspx" target="_self">Hardware</a>    
+    
+    
+    </h3>
+
+    <ul>
+    
+
+    <li>
+      
+      <a href="/us/products/storage-systems/fas8000/index.aspx" target="_self">FAS8000</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/products/storage-systems/fas6200/index.aspx" target="_self">FAS6200</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/products/storage-systems/fas3200/index.aspx" target="_self">FAS3200</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/products/storage-systems/fas2200/index.aspx" target="_self">FAS2200</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/products/storage-systems/v-series/index.aspx" target="_self">V-Series</a>      
+      
+      
+    </li>
+    
+  
+  
+    </ul>
+  
+
+
+  
+</li>      
+        <li class="column">
+  
+    <h3>
+    
+    <a href="/us/products/software/index.aspx" target="_self">Software</a>    
+    
+    
+    </h3>
+
+    <ul>
+    
+
+    <li>
+      
+      <a href="/us/products/platform-os/data-ontap-8/index.aspx" target="_self">Clustered Data ONTAP OS</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/products/management-software/index.aspx" target="_self">OnCommand Management Software</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/products/protection-software/index.aspx" target="_self">Data Protection Software</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/products/storage-systems/flexarray/index.aspx" target="_self">FlexArray Virtualization Software</a>      
+      
+      
+    </li>
+    
+  
+  
+    </ul>
+  
+
+
+  
+</li>      
+        <li class="column">
+  
+    <h3>
+    
+    
+    
+    <span>
+      Best For
+    </span>
+    
+    </h3>
+
+    <ul>
+    
+
+    <li>
+      
+      <a href="/us/solutions/virtualization/index.aspx" target="_self">Virtualization</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/solutions/service-providers/index.aspx" target="_self">Cloud Services</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/solutions/applications/microsoft/index.aspx" target="_self">Microsoft</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/solutions/applications/oracle/index.aspx" target="_self">Oracle</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/solutions/applications/sap/index.aspx" target="_self">SAP</a>      
+      
+      
+    </li>
+    
+  
+  
+    </ul>
+  
+
+
+  
+</li>      
+    </ul>
+  </div>
+</li>
+        
+
+        <li>
+  <div class="pMenuImg">
+    <img alt="" src="/us/media/prod-menu-e-series.jpg">
+  </div>
+  <div class="pMenuContent">
+    <h2>
+      High Performance SAN Storage
+      <em>E Series</em>
+    </h2>
+    <ul>
+      
+        <li class="column">
+  
+    <h3>
+    
+    <a href="/us/products/storage-systems/index.aspx" target="_self">Hardware</a>    
+    
+    
+    </h3>
+
+    <ul>
+    
+
+    <li>
+      
+      <a href="/us/products/storage-systems/e5500/index.aspx" target="_self">E5500</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/products/storage-systems/e5400/index.aspx" target="_self">E5400</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/products/storage-systems/e2700/index.aspx" target="_self">E2700</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/products/storage-systems/e2600/index.aspx" target="_self">E2600</a>      
+      
+      
+    </li>
+    
+  
+  
+    </ul>
+  
+
+
+  
+</li>      
+        <li class="column">
+  
+    <h3>
+    
+    <a href="/us/products/software/index.aspx" target="_self">Software</a>    
+    
+    
+    </h3>
+
+    <ul>
+    
+
+    <li>
+      
+      <a href="/us/products/platform-os/santricity/index.aspx" target="_self">SANtricity Storage Manager OS</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/products/protection-software/index.aspx" target="_self">Data Protection Software</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/products/storage-software/index.aspx" target="_self">Object Storage with StorageGRID</a>      
+      
+      
+    </li>
+    
+  
+  
+    </ul>
+  
+
+
+  
+</li>      
+        <li class="column">
+  
+    <h3>
+    
+    
+    
+    <span>
+      Best For
+    </span>
+    
+    </h3>
+
+    <ul>
+    
+
+    <li>
+      
+      <a href="/us/solutions/industry/high-performance-computing.aspx" target="_self">High Performance Computing</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/solutions/big-data/enterprise-content-repository.aspx" target="_self">Enterprise Content Repository</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/solutions/industry/government/full-motion-video.aspx" target="_self">Full Motion Video</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/solutions/big-data/lustre.aspx" target="_self">Lustre Solutions</a>      
+      
+      
+    </li>
+    
+  
+  
+    </ul>
+  
+
+
+  
+</li>      
+    </ul>
+  </div>
+</li>
+        
+
+        <li>
+  <div class="pMenuImg">
+    <img alt="" src="/us/media/prod-menu-ef-series.jpg">
+  </div>
+  <div class="pMenuContent">
+    <h2>
+      Ultimate Performance All Flash Storage
+      <em>EF Series</em>
+    </h2>
+    <ul>
+      
+        <li class="column">
+  
+    <h3>
+    
+    <a href="/us/products/storage-systems/index.aspx" target="_self">Hardware</a>    
+    
+    
+    </h3>
+
+    <ul>
+    
+
+    <li>
+      
+      <a href="/us/products/storage-systems/flash-ef550/index.aspx" target="_self">EF550</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/products/storage-systems/flash-ef540/index.aspx" target="_self">EF540</a>      
+      
+      
+    </li>
+    
+  
+  
+    </ul>
+  
+
+
+  
+</li>      
+        <li class="column">
+  
+    <h3>
+    
+    <a href="/us/products/software/index.aspx" target="_self">Software</a>    
+    
+    
+    </h3>
+
+    <ul>
+    
+
+    <li>
+      
+      <a href="/us/products/platform-os/santricity/index.aspx" target="_self">SANtricity Storage Manager OS</a>      
+      
+      
+    </li>
+    
+  
+  
+    </ul>
+  
+
+
+  
+</li>      
+        <li class="column">
+  
+    <h3>
+    
+    
+    
+    <span>
+      Best For
+    </span>
+    
+    </h3>
+
+    <ul>
+    
+
+    <li>
+      
+      <a href="/us/technology/flash-storage/index.aspx" target="_self">Flash-Based Storage</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      
+      <a href="/us/system/pdf-reader.aspx?pdfuri=tcm:10-108236-16&amp;m=tr-4145.pdf" target="_blank">
+        
+        
+        Oracle Analytics and Databases
+        
+      </a>
+      
+      
+    </li>
+    
+  
+  
+    </ul>
+  
+
+
+  
+</li>      
+    </ul>
+  </div>
+</li>
+        
+      
+        
+        <li>
+          <footer>
+            
+
+            
+            <a href="/us/products/a-z/index.aspx" target="_self">Products A-Z</a>            
+            
+            
+
+            
+          </footer>
+        </li>
+        
+    
+      </ul>
+    
+
+  
+  </section>  </li>
+                
+            <li id="ctl05_TabsRepeater_theTabs_1" class="tab tab2" tabindex="0">
+  <section role="group">
+    
+      <a href="/us/solutions/index.aspx" target="_self" class="tabText"><h1>
+          Solutions
+        </h1></a>      
+      
+      
+  
+    
+      <ul class="columns count4" id="sMenu">
+        <li>
+          <ul class="columnsContainer">
+            
+            <li class="column">
+  
+    <h3>
+    
+    
+    
+    <span>
+      You Need To ...
+    </span>
+    
+    </h3>
+
+    <ul>
+    
+
+    <li>
+      
+      <a href="/us/solutions/cloud/index.aspx" target="_self"><img src="/us/media/cloud-36x28.png" alt="Move data to and across clouds">
+        Move data to and across clouds</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/technology/flash-storage/index.aspx" target="_self"><img src="/us/media/flash-36x28.png" alt="Deploy flash storage">
+        Deploy flash storage</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/solutions/midsize/index.aspx" target="_self"><img src="/us/media/msb-36x28.png" alt="Grow your midsize business">
+        Grow your midsize business</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/solutions/data-protection/index.aspx" target="_self"><img src="/us/media/protect-36x28.png" alt="Protect and recover your data">
+        Protect and recover your data</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/technology/software-defined-storage/index.aspx" target="_self"><img src="/us/media/software-defined-storage-36x28.png" alt="Research software-defined storage">
+        Research software-defined storage</a>      
+      
+      
+    </li>
+    
+  
+  
+    </ul>
+  
+
+
+  
+</li>            
+            <li class="column">
+  
+    <h3>
+    
+    
+    
+    <span>
+      Learn About
+    </span>
+    
+    </h3>
+
+    <ul>
+    
+
+    <li>
+      
+      <a href="/us/solutions/cloud/index.aspx" target="_self">Cloud</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/solutions/virtualization/index.aspx" target="_self">Virtualization</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/solutions/applications/index.aspx" target="_self">Enterprise Applications</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/solutions/mobile-information-management/index.aspx" target="_self">Mobile Information Management</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/solutions/big-data/index.aspx" target="_self">Big Data</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/solutions/industry/index.aspx" target="_self">Industry Solutions</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/solutions/cloud/openstack.aspx" target="_self">OpenStack</a>      
+      
+      
+    </li>
+    
+  
+  
+    </ul>
+  
+
+
+  
+</li>            
+            <li class="column">
+  
+    <h3>
+    
+    
+    
+    <span>
+      Converged Infrastructure
+    </span>
+    
+    </h3>
+
+    <ul>
+    
+
+    <li>
+      
+      <a href="/us/solutions/flexpod/datacenter/index.aspx" target="_self">FlexPod for Datacenters</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/solutions/flexpod/express.aspx" target="_self">FlexPod for Midsize Businesses</a>      
+      
+      
+    </li>
+    
+  
+  
+
+    <li>
+      
+      <a href="/us/solutions/flexpod/select.aspx" target="_self">FlexPod for Hadoop Workloads</a>      
+      
+      
+    </li>
+    
+  
+  
+    </ul>
+  
+    <h3>
+    
+    
+    
+    <span>
+      Customer Reference
+    </span>
+    
+    </h3>
+
+    <ul>
+    
+
+    <li>
+      
+      <a href="/us/company/our-story/customer-showcase/index.aspx" target="_self">Customer Showcase</a>      
+      
+      
+    </li>
+    
+  
+  
+    </ul>
+  
+
+
+  
+</li>            
+          </ul>
+        </li>
+        
+        
+        <li>
+          <footer>
+            
+
+            
+            <a href="/us/solutions/a-z/index.aspx" target="_self">Solutions A-Z</a>            
+            
+            
+
+            
+          </footer>
+        </li>
+        
+      </ul>
+    
+
+  
+    
+
+  
+  </section>  </li>
+                
+            <li id="ctl05_TabsRepeater_theTabs_2" class="tab tab3" tabindex="0">
+  <section role="group">
+    
+      <a href="/us/services-support/index.aspx" target="_self" class="tabText"><h1>
+          Services &amp; Support
+        </h1></a>      
+      
+      
+  
+    
+      <ul class="columns count3" id="">
+        <li>
+          <ul class="columnsContainer">
+            
+            <li class="column">
+  
+
+
+  
+
+  <ul>
+    
+
+    <li>
+      
+      
+      <a href="/us/services-support/index.aspx" target="_self" class="parentYes">
+        Services
+      </a>
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/services-support/professional/index.aspx" target="_self" class="parentNo">Professional Services</a>      
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/services-support/overview.aspx" target="_self" class="parentNo">Support and Onsite Services</a>      
+      
+      
+    </li>
+
+
+    
+  </ul>
+  
+</li>            
+            <li class="column">
+  
+
+
+  
+
+  <ul>
+    
+
+    <li>
+      
+      <a href="/us/services-support/university/index.aspx" target="_self" class="parentYes">Training</a>      
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/services-support/university/certification.aspx" target="_self" class="parentNo">Certification</a>      
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/services-support/university/learning.aspx" target="_self" class="parentNo">LearningCenter</a>      
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/services-support/university/learning-partners.aspx" target="_self" class="parentNo">Learning Partners</a>      
+      
+      
+    </li>
+
+
+    
+  </ul>
+  
+</li>            
+            <li class="column">
+  
+
+
+  
+
+  <ul>
+    
+
+    <li>
+      
+      
+      <a href="http://support.netapp.com/" target="_blank" class="parentYes">
+        Get Support
+      </a>
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      
+      <a href="http://support.netapp.com/info/web/ECMP1150550.html" target="_blank" class="parentNo">
+        Get Started
+      </a>
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/services-support/ngs-contacts.aspx" target="_self" class="parentNo">Contact Support</a>      
+      
+      
+    </li>
+
+
+    
+  </ul>
+  
+</li>            
+          </ul>
+        </li>
+        
+        
+      </ul>
+    
+
+  
+    
+
+  
+  </section>  </li>
+                
+            <li id="ctl05_TabsRepeater_theTabs_3" class="tab tab4" tabindex="0">
+  <section role="group">
+    
+      <a href="/us/partners/index.aspx" target="_self" class="tabText"><h1>
+          Partners
+        </h1></a>      
+      
+      
+  
+    
+      <ul class="columns count4" id="">
+        <li>
+          <ul class="columnsContainer">
+            
+            <li class="column">
+  
+
+
+  
+
+  <ul>
+    
+
+    <li>
+      
+      
+      
+      <span class="parentYes">
+        Find a Partner
+      </span>
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      
+      <a href="http://solutionconnection.netapp.com/partner-directory.aspx" target="_self" class="parentNo">
+        Technology Partners
+      </a>
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/how-to-buy/index.aspx" target="_self" class="parentNo">Channel Partners</a>      
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/partners/e-based-oems.aspx" target="_self" class="parentNo">E-Based OEM Partners</a>      
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      
+      <a href="/us/partners/become-a-partner/service-providers/" target="_self" class="parentNo">
+        Service Providers
+      </a>
+      
+      
+    </li>
+
+
+    
+  </ul>
+  
+</li>            
+            <li class="column">
+  
+
+
+  
+
+  <ul>
+    
+
+    <li>
+      
+      <a href="/us/partners/become-a-partner/index.aspx" target="_self" class="parentYes">Become a Partner</a>      
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/partners/become-a-partner/global-system-partners.aspx" target="_self" class="parentNo">Global System Partners</a>      
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/partners/become-a-partner/resellers.aspx" target="_self" class="parentNo">Resellers</a>      
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/partners/become-a-partner/service-providers-new.aspx" target="_self" class="parentNo">Service Providers</a>      
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      
+      <a href="/us/partners/become-a-partner/system-integrators.aspx" target="_self" class="parentNo">
+        System Integrators
+      </a>
+      
+      
+    </li>
+
+
+    
+  </ul>
+  
+</li>            
+            <li class="column">
+  
+
+
+  
+
+  <ul>
+    
+
+    <li>
+      
+      
+      
+      <span class="parentYes">
+        Alliance Technology Partners
+      </span>
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      
+      <a href="http://solutionconnection.netapp.com/homepage.aspx" target="_self" class="parentNo">
+        Solution Connection
+      </a>
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/partners/alliance-technology/global-alliance/index.aspx" target="_self" class="parentNo">Global Alliances</a>      
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/partners/alliance-technology/index.aspx" target="_self" class="parentNo">Program Overview</a>      
+      
+      
+    </li>
+
+
+    
+  </ul>
+  
+</li>            
+            <li class="column">
+  
+
+
+  
+
+  <ul>
+    
+
+    <li>
+      
+      
+      
+      <span class="parentYes">
+        For Partners
+      </span>
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      
+      <a href="http://solutionconnection.netapp.com/homepage.aspx" target="_self" class="parentNo">
+        Solution Connection
+      </a>
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      
+      <a href="https://fieldportal.netapp.com" target="_blank" class="parentNo">
+        Field Portal Login
+      </a>
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      
+      <a href="https://communities.netapp.com/welcome" target="_blank" class="parentNo">
+        Communities
+      </a>
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      
+      <a href="https://tech.netapp.com/" target="_self" class="parentNo">
+        TechNet
+      </a>
+      
+      
+    </li>
+
+
+    
+  </ul>
+  
+</li>            
+          </ul>
+        </li>
+        
+        
+      </ul>
+    
+
+  
+    
+
+  
+  </section>  </li>
+                
+            <li id="ctl05_TabsRepeater_theTabs_4" class="tab tab5" tabindex="0">
+  <section role="group">
+    
+      <a href="/us/company/index.aspx" target="_self" class="tabText"><h1>
+          Company
+        </h1></a>      
+      
+      
+  
+    
+      <ul class="columns count5" id="">
+        <li>
+          <ul class="columnsContainer">
+            
+            <li class="column">
+  
+
+
+  
+
+  <ul>
+    
+
+    <li>
+      
+      <a href="/us/company/our-story/index.aspx" target="_self" class="parentYes">Our Story</a>      
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      
+      <a href="http://investors.netapp.com/" target="_self" class="parentNo">
+        Financial Information
+      </a>
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      
+      <a href="http://investors.netapp.com/management.cfm" target="_self" class="parentNo">
+        Management
+      </a>
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/company/our-story/customer-showcase/index.aspx" target="_self" class="parentNo">Customer Showcase</a>      
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/company/our-story/corp-citizen/index.aspx" target="_self" class="parentNo">Global Corporate Citizenship</a>      
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/company/our-story/innovation-awards/index.aspx" target="_self" class="parentNo">Innovation Awards</a>      
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/company/our-story/sustainability/index.aspx" target="_self" class="parentNo">Sustainability at NetApp</a>      
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/company/our-story/ebc/index.aspx" target="_self" class="parentNo">Executive Briefing Center</a>      
+      
+      
+    </li>
+
+
+    
+  </ul>
+  
+</li>            
+            <li class="column">
+  
+
+
+  
+
+  <ul>
+    
+
+    <li>
+      
+      <a href="/us/company/leadership/index.aspx" target="_self" class="parentYes">Thought Leadership</a>      
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/solutions/big-data/index.aspx" target="_self" class="parentNo">Big Data</a>      
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/company/leadership/efficient-it/index.aspx" target="_self" class="parentNo">Efficient IT</a>      
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/company/leadership/flexible-it/index.aspx" target="_self" class="parentNo">Flexible IT</a>      
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/company/leadership/advanced-technology/index.aspx" target="_self" class="parentNo">Advanced Technology Group</a>      
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/company/leadership/industry-standards/index.aspx" target="_self" class="parentNo">Industry Standards &amp; Associations</a>      
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/company/leadership/academic-alliances/index.aspx" target="_self" class="parentNo">Academic Alliances</a>      
+      
+      
+    </li>
+
+
+    
+  </ul>
+  
+</li>            
+            <li class="column">
+  
+
+
+  
+
+  <ul>
+    
+
+    <li>
+      
+      <a href="/us/company/news/index.aspx" target="_self" class="parentYes">News@NetApp</a>      
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      
+      <a href="/us/company/news/press-releases.aspx" target="_self" class="parentNo">
+        Press Releases
+      </a>
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      
+      <a href="/us/company/news/press-coverage.aspx" target="_self" class="parentNo">
+        Press Coverage
+      </a>
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      
+      <a href="/us/company/news/awards.aspx" target="_self" class="parentNo">
+        Awards
+      </a>
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      
+      <a href="/us/company/news/executive-bios.aspx" target="_self" class="parentNo">
+        Executive Bios
+      </a>
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/company/news/product-photos.aspx" target="_self" class="parentNo">Image Library</a>      
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      
+      <a href="/us/library/?docType=ar" target="_self" class="parentNo">
+        Analyst Reports
+      </a>
+      
+      
+    </li>
+
+
+    
+  </ul>
+  
+</li>            
+            <li class="column">
+  
+
+
+  
+
+  <ul>
+    
+
+    <li>
+      
+      
+      <a href="http://investors.netapp.com/" target="_self" class="parentYes">
+        Investors
+      </a>
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      
+      <a href="http://investors.netapp.com/essentials.cfm" target="_self" class="parentNo">
+        Essentials
+      </a>
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      
+      <a href="http://investors.netapp.com/financial_center.cfm" target="_self" class="parentNo">
+        Financial Center
+      </a>
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      
+      <a href="http://investors.netapp.com/stockquote.cfm" target="_self" class="parentNo">
+        Stock Information
+      </a>
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      
+      <a href="http://investors.netapp.com/contactus.cfm" target="_self" class="parentNo">
+        Contact Investor Relations
+      </a>
+      
+      
+    </li>
+
+
+    
+  </ul>
+  
+</li>            
+            <li class="column">
+  
+
+
+  
+
+  <ul>
+    
+
+    <li>
+      
+      
+      <a href="/us/company/events/" target="_self" class="parentYes">
+        Events
+      </a>
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/careers/index.aspx" target="_self" class="parentYes">Careers</a>      
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/careers/life/index.aspx" target="_self" class="parentNo">Life at NetApp</a>      
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/careers/your-career/index.aspx" target="_self" class="parentNo">Your Career at NetApp</a>      
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/careers/university/index.aspx" target="_self" class="parentNo">University Recruiting</a>      
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/careers/find-job/index.aspx" target="_self" class="parentNo">Find a Job</a>      
+      
+      
+    </li>
+
+
+    
+  </ul>
+  
+</li>            
+          </ul>
+        </li>
+        
+        
+      </ul>
+    
+
+  
+    
+
+  
+  </section>  </li>
+                
+            <li id="ctl05_TabsRepeater_theTabs_5" class="tab tab6" tabindex="0">
+  <section role="group">
+    
+      <a href="/us/how-to-buy/index.aspx" target="_self" class="tabText"><h1>
+          How to Buy
+        </h1></a>      
+      
+      
+  
+    
+      <ul class="columns count2" id="">
+        <li>
+          <ul class="columnsContainer">
+            
+            <li class="column">
+  
+
+
+  
+
+  <ul>
+    
+
+    <li>
+      
+      
+      <a href="/us/how-to-buy/contracts/" target="_self" class="parentYes">
+        US Public Sector Contracts
+      </a>
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/partners/e-based-oems.aspx" target="_self" class="parentYes">E-Based OEM Partners</a>      
+      
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      <a href="/us/how-to-buy/netapp-capital-solutions/index.aspx" target="_self" class="parentYes">NetApp Capital Solutions</a>      
+      
+      
+    </li>
+
+
+    
+  </ul>
+  
+</li>            
+            <li class="column">
+  
+
+
+  
+
+  <ul>
+    
+
+    <li>
+      
+      
+      
+      <span class="parentYes">
+        +1 877 263 8277
+      </span>
+      
+    </li>
+
+
+    
+
+    <li>
+      
+      
+      <a href="http://solutionconnection.netapp.com/US/NorthAmerica/PartnerDirectory.aspx" target="_self" class="parentYes">
+        Find a Partner
+      </a>
+      
+      
+    </li>
+
+
+    
+  </ul>
+  
+</li>            
+          </ul>
+        </li>
+        
+        
+      </ul>
+    
+
+  
+    
+
+  
+  </section>  </li>
+        
+                        </ul>
+                    </nav>
+                </div>
+            </div><!--.globalNavBar-->         
         
     </header>
 </noindex>
   <form method="post" action="privacypolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE3MDA0Mzg5MThkZMp5TM/YyJ+oHw1TnBTGOER5+gAV">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE5NTk4Mjc4MDYPZBYCZg9kFgYCCg9kFgJmDxYCHgdWaXNpYmxlZxYCZg8WAh4LXyFJdGVtQ291bnQCBhYMZg9kFgICAQ8WAh4FY2xhc3MFCHRhYiB0YWIxFgJmDxUBi0ENCiAgPHNlY3Rpb24gcm9sZT0iZ3JvdXAiPg0KICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3Byb2R1Y3RzL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiIgY2xhc3M9InRhYlRleHQiPjxoMT4NCiAgICAgICAgICBQcm9kdWN0cw0KICAgICAgICA8L2gxPjwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogIA0KICAgIA0KDQogIA0KICAgIA0KICAgIDx1bCBjbGFzcz0iY29sdW1ucyBjb3VudDQiIGlkPSJwTWVudSI+DQogICAgICAgIA0KDQogICAgICAgIDxsaT4NCiAgPGRpdiBjbGFzcz0icE1lbnVJbWciPg0KICAgIDxpbWcgYWx0PSJwcm9kLW1lbnUtZmFzODAwMCIgc3JjPSIvdXMvbWVkaWEvcHJvZC1tZW51LWZhczgwMDAuanBnIiAvPg0KICA8L2Rpdj4NCiAgPGRpdiBjbGFzcz0icE1lbnVDb250ZW50Ij4NCiAgICA8aDI+DQogICAgICBVbmlmaWVkIFN0b3JhZ2UNCiAgICAgIDxlbT5EYXRhIE9OVEFQPC9lbT4NCiAgICA8L2gyPg0KICAgIDx1bD4NCiAgICAgIA0KICAgICAgICA8bGkgY2xhc3M9ImNvbHVtbiI+DQogIA0KICAgIDxoMz4NCiAgICANCiAgICA8YSBocmVmPSIvdXMvcHJvZHVjdHMvc3RvcmFnZS1zeXN0ZW1zL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiI+SGFyZHdhcmU8L2E+ICAgIA0KICAgIA0KICAgIA0KICAgIDwvaDM+DQoNCiAgICA8dWw+DQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9wcm9kdWN0cy9zdG9yYWdlLXN5c3RlbXMvZmFzODAwMC9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkZBUzgwMDA8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQogICAgDQogIA0KICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3Byb2R1Y3RzL3N0b3JhZ2Utc3lzdGVtcy9mYXM2MjAwL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiI+RkFTNjIwMDwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvcHJvZHVjdHMvc3RvcmFnZS1zeXN0ZW1zL2ZhczMyMDAvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIj5GQVMzMjAwPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KICAgIA0KICANCiAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9wcm9kdWN0cy9zdG9yYWdlLXN5c3RlbXMvZmFzMjIwMC9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkZBUzIyMDA8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQogICAgDQogIA0KICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3Byb2R1Y3RzL3N0b3JhZ2Utc3lzdGVtcy92LXNlcmllcy9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPlYtU2VyaWVzPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KICAgIA0KICANCiAgDQogICAgPC91bD4NCiAgDQoNCg0KICANCjwvbGk+ICAgICAgDQogICAgICAgIDxsaSBjbGFzcz0iY29sdW1uIj4NCiAgDQogICAgPGgzPg0KICAgIA0KICAgIDxhIGhyZWY9Ii91cy9wcm9kdWN0cy9zb2Z0d2FyZS9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPlNvZnR3YXJlPC9hPiAgICANCiAgICANCiAgICANCiAgICA8L2gzPg0KDQogICAgPHVsPg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvcHJvZHVjdHMvcGxhdGZvcm0tb3MvZGF0YS1vbnRhcC04L2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiI+Q2x1c3RlcmVkIERhdGEgT05UQVAgT1M8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQogICAgDQogIA0KICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3Byb2R1Y3RzL21hbmFnZW1lbnQtc29mdHdhcmUvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIj5PbkNvbW1hbmQgTWFuYWdlbWVudCBTb2Z0d2FyZTwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvcHJvZHVjdHMvcHJvdGVjdGlvbi1zb2Z0d2FyZS9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkRhdGEgUHJvdGVjdGlvbiBTb2Z0d2FyZTwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvcHJvZHVjdHMvc3RvcmFnZS1zeXN0ZW1zL2ZsZXhhcnJheS9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkZsZXhBcnJheSBWaXJ0dWFsaXphdGlvbiBTb2Z0d2FyZTwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KICAgIDwvdWw+DQogIA0KDQoNCiAgDQo8L2xpPiAgICAgIA0KICAgICAgICA8bGkgY2xhc3M9ImNvbHVtbiI+DQogIA0KICAgIDxoMz4NCiAgICANCiAgICANCiAgICANCiAgICA8c3Bhbj4NCiAgICAgIEJlc3QgRm9yDQogICAgPC9zcGFuPg0KICAgIA0KICAgIDwvaDM+DQoNCiAgICA8dWw+DQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9zb2x1dGlvbnMvdmlydHVhbGl6YXRpb24vaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIj5WaXJ0dWFsaXphdGlvbjwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvc29sdXRpb25zL3NlcnZpY2UtcHJvdmlkZXJzL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiI+Q2xvdWQgU2VydmljZXM8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQogICAgDQogIA0KICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3NvbHV0aW9ucy9hcHBsaWNhdGlvbnMvbWljcm9zb2Z0L2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiI+TWljcm9zb2Z0PC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KICAgIA0KICANCiAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9zb2x1dGlvbnMvYXBwbGljYXRpb25zL29yYWNsZS9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPk9yYWNsZTwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvc29sdXRpb25zL2FwcGxpY2F0aW9ucy9zYXAvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIj5TQVA8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQogICAgDQogIA0KICANCiAgICA8L3VsPg0KICANCg0KDQogIA0KPC9saT4gICAgICANCiAgICA8L3VsPg0KICA8L2Rpdj4NCjwvbGk+DQogICAgICAgIA0KDQogICAgICAgIDxsaT4NCiAgPGRpdiBjbGFzcz0icE1lbnVJbWciPg0KICAgIDxpbWcgYWx0PSIiIHNyYz0iL3VzL21lZGlhL3Byb2QtbWVudS1lLXNlcmllcy5qcGciIC8+DQogIDwvZGl2Pg0KICA8ZGl2IGNsYXNzPSJwTWVudUNvbnRlbnQiPg0KICAgIDxoMj4NCiAgICAgIEhpZ2ggUGVyZm9ybWFuY2UgU0FOIFN0b3JhZ2UNCiAgICAgIDxlbT5FIFNlcmllczwvZW0+DQogICAgPC9oMj4NCiAgICA8dWw+DQogICAgICANCiAgICAgICAgPGxpIGNsYXNzPSJjb2x1bW4iPg0KICANCiAgICA8aDM+DQogICAgDQogICAgPGEgaHJlZj0iL3VzL3Byb2R1Y3RzL3N0b3JhZ2Utc3lzdGVtcy9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkhhcmR3YXJlPC9hPiAgICANCiAgICANCiAgICANCiAgICA8L2gzPg0KDQogICAgPHVsPg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvcHJvZHVjdHMvc3RvcmFnZS1zeXN0ZW1zL2U1NTAwL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiI+RTU1MDA8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQogICAgDQogIA0KICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3Byb2R1Y3RzL3N0b3JhZ2Utc3lzdGVtcy9lNTQwMC9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkU1NDAwPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KICAgIA0KICANCiAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9wcm9kdWN0cy9zdG9yYWdlLXN5c3RlbXMvZTI3MDAvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIj5FMjcwMDwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvcHJvZHVjdHMvc3RvcmFnZS1zeXN0ZW1zL2UyNjAwL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiI+RTI2MDA8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQogICAgDQogIA0KICANCiAgICA8L3VsPg0KICANCg0KDQogIA0KPC9saT4gICAgICANCiAgICAgICAgPGxpIGNsYXNzPSJjb2x1bW4iPg0KICANCiAgICA8aDM+DQogICAgDQogICAgPGEgaHJlZj0iL3VzL3Byb2R1Y3RzL3NvZnR3YXJlL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiI+U29mdHdhcmU8L2E+ICAgIA0KICAgIA0KICAgIA0KICAgIDwvaDM+DQoNCiAgICA8dWw+DQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9wcm9kdWN0cy9wbGF0Zm9ybS1vcy9zYW50cmljaXR5L2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiI+U0FOdHJpY2l0eSBTdG9yYWdlIE1hbmFnZXIgT1M8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQogICAgDQogIA0KICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3Byb2R1Y3RzL3Byb3RlY3Rpb24tc29mdHdhcmUvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIj5EYXRhIFByb3RlY3Rpb24gU29mdHdhcmU8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQogICAgDQogIA0KICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3Byb2R1Y3RzL3N0b3JhZ2Utc29mdHdhcmUvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIj5PYmplY3QgU3RvcmFnZSB3aXRoIFN0b3JhZ2VHUklEPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KICAgIA0KICANCiAgDQogICAgPC91bD4NCiAgDQoNCg0KICANCjwvbGk+ICAgICAgDQogICAgICAgIDxsaSBjbGFzcz0iY29sdW1uIj4NCiAgDQogICAgPGgzPg0KICAgIA0KICAgIA0KICAgIA0KICAgIDxzcGFuPg0KICAgICAgQmVzdCBGb3INCiAgICA8L3NwYW4+DQogICAgDQogICAgPC9oMz4NCg0KICAgIDx1bD4NCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3NvbHV0aW9ucy9pbmR1c3RyeS9oaWdoLXBlcmZvcm1hbmNlLWNvbXB1dGluZy5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkhpZ2ggUGVyZm9ybWFuY2UgQ29tcHV0aW5nPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KICAgIA0KICANCiAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9zb2x1dGlvbnMvYmlnLWRhdGEvZW50ZXJwcmlzZS1jb250ZW50LXJlcG9zaXRvcnkuYXNweCIgIHRhcmdldD0gIl9zZWxmIj5FbnRlcnByaXNlIENvbnRlbnQgUmVwb3NpdG9yeTwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvc29sdXRpb25zL2luZHVzdHJ5L2dvdmVybm1lbnQvZnVsbC1tb3Rpb24tdmlkZW8uYXNweCIgIHRhcmdldD0gIl9zZWxmIj5GdWxsIE1vdGlvbiBWaWRlbzwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvc29sdXRpb25zL2JpZy1kYXRhL2x1c3RyZS5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkx1c3RyZSBTb2x1dGlvbnM8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQogICAgDQogIA0KICANCiAgICA8L3VsPg0KICANCg0KDQogIA0KPC9saT4gICAgICANCiAgICA8L3VsPg0KICA8L2Rpdj4NCjwvbGk+DQogICAgICAgIA0KDQogICAgICAgIDxsaT4NCiAgPGRpdiBjbGFzcz0icE1lbnVJbWciPg0KICAgIDxpbWcgYWx0PSIiIHNyYz0iL3VzL21lZGlhL3Byb2QtbWVudS1lZi1zZXJpZXMuanBnIiAvPg0KICA8L2Rpdj4NCiAgPGRpdiBjbGFzcz0icE1lbnVDb250ZW50Ij4NCiAgICA8aDI+DQogICAgICBVbHRpbWF0ZSBQZXJmb3JtYW5jZSBBbGwgRmxhc2ggU3RvcmFnZQ0KICAgICAgPGVtPkVGIFNlcmllczwvZW0+DQogICAgPC9oMj4NCiAgICA8dWw+DQogICAgICANCiAgICAgICAgPGxpIGNsYXNzPSJjb2x1bW4iPg0KICANCiAgICA8aDM+DQogICAgDQogICAgPGEgaHJlZj0iL3VzL3Byb2R1Y3RzL3N0b3JhZ2Utc3lzdGVtcy9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkhhcmR3YXJlPC9hPiAgICANCiAgICANCiAgICANCiAgICA8L2gzPg0KDQogICAgPHVsPg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvcHJvZHVjdHMvc3RvcmFnZS1zeXN0ZW1zL2ZsYXNoLWVmNTUwL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiI+RUY1NTA8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQogICAgDQogIA0KICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3Byb2R1Y3RzL3N0b3JhZ2Utc3lzdGVtcy9mbGFzaC1lZjU0MC9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkVGNTQwPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KICAgIA0KICANCiAgDQogICAgPC91bD4NCiAgDQoNCg0KICANCjwvbGk+ICAgICAgDQogICAgICAgIDxsaSBjbGFzcz0iY29sdW1uIj4NCiAgDQogICAgPGgzPg0KICAgIA0KICAgIDxhIGhyZWY9Ii91cy9wcm9kdWN0cy9zb2Z0d2FyZS9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPlNvZnR3YXJlPC9hPiAgICANCiAgICANCiAgICANCiAgICA8L2gzPg0KDQogICAgPHVsPg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvcHJvZHVjdHMvcGxhdGZvcm0tb3Mvc2FudHJpY2l0eS9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPlNBTnRyaWNpdHkgU3RvcmFnZSBNYW5hZ2VyIE9TPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KICAgIA0KICANCiAgDQogICAgPC91bD4NCiAgDQoNCg0KICANCjwvbGk+ICAgICAgDQogICAgICAgIDxsaSBjbGFzcz0iY29sdW1uIj4NCiAgDQogICAgPGgzPg0KICAgIA0KICAgIA0KICAgIA0KICAgIDxzcGFuPg0KICAgICAgQmVzdCBGb3INCiAgICA8L3NwYW4+DQogICAgDQogICAgPC9oMz4NCg0KICAgIDx1bD4NCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3RlY2hub2xvZ3kvZmxhc2gtc3RvcmFnZS9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkZsYXNoLUJhc2VkIFN0b3JhZ2U8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQogICAgDQogIA0KICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvc3lzdGVtL3BkZi1yZWFkZXIuYXNweD9wZGZ1cmk9dGNtOjEwLTEwODIzNi0xNiZhbXA7bT10ci00MTQ1LnBkZiIgdGFyZ2V0PSJfYmxhbmsiPg0KICAgICAgICANCiAgICAgICAgDQogICAgICAgIE9yYWNsZSBBbmFseXRpY3MgYW5kIERhdGFiYXNlcw0KICAgICAgICANCiAgICAgIDwvYT4NCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KICAgIDwvdWw+DQogIA0KDQoNCiAgDQo8L2xpPiAgICAgIA0KICAgIDwvdWw+DQogIDwvZGl2Pg0KPC9saT4NCiAgICAgICAgDQogICAgICANCiAgICAgICAgDQogICAgICAgIDxsaT4NCiAgICAgICAgICA8Zm9vdGVyPg0KICAgICAgICAgICAgDQoNCiAgICAgICAgICAgIA0KICAgICAgICAgICAgPGEgaHJlZj0iL3VzL3Byb2R1Y3RzL2Etei9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPlByb2R1Y3RzIEEtWjwvYT4gICAgICAgICAgICANCiAgICAgICAgICAgIA0KICAgICAgICAgICAgDQoNCiAgICAgICAgICAgIA0KICAgICAgICAgIDwvZm9vdGVyPg0KICAgICAgICA8L2xpPg0KICAgICAgICANCiAgICANCiAgICAgIDwvdWw+DQogICAgDQoNCiAgDQogIDwvc2VjdGlvbj5kAgEPZBYCAgEPFgIfAgUIdGFiIHRhYjIWAmYPFQHyIg0KICA8c2VjdGlvbiByb2xlPSJncm91cCI+DQogICAgDQogICAgICA8YSBocmVmPSIvdXMvc29sdXRpb25zL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiIgY2xhc3M9InRhYlRleHQiPjxoMT4NCiAgICAgICAgICBTb2x1dGlvbnMNCiAgICAgICAgPC9oMT48L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICANCiAgICANCiAgICAgIDx1bCBjbGFzcz0iY29sdW1ucyBjb3VudDQiIGlkPSJzTWVudSI+DQogICAgICAgIDxsaT4NCiAgICAgICAgICA8dWwgY2xhc3M9ImNvbHVtbnNDb250YWluZXIiPg0KICAgICAgICAgICAgDQogICAgICAgICAgICA8bGkgY2xhc3M9ImNvbHVtbiI+DQogIA0KICAgIDxoMz4NCiAgICANCiAgICANCiAgICANCiAgICA8c3Bhbj4NCiAgICAgIFlvdSBOZWVkIFRvIC4uLg0KICAgIDwvc3Bhbj4NCiAgICANCiAgICA8L2gzPg0KDQogICAgPHVsPg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvc29sdXRpb25zL2Nsb3VkL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiI+PGltZyBzcmM9Ii91cy9tZWRpYS9jbG91ZC0zNngyOC5wbmciICBhbHQ9Ik1vdmUgZGF0YSB0byBhbmQgYWNyb3NzIGNsb3VkcyIgLz4NCiAgICAgICAgTW92ZSBkYXRhIHRvIGFuZCBhY3Jvc3MgY2xvdWRzPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KICAgIA0KICANCiAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy90ZWNobm9sb2d5L2ZsYXNoLXN0b3JhZ2UvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIj48aW1nIHNyYz0iL3VzL21lZGlhL2ZsYXNoLTM2eDI4LnBuZyIgIGFsdD0iRGVwbG95IGZsYXNoIHN0b3JhZ2UiIC8+DQogICAgICAgIERlcGxveSBmbGFzaCBzdG9yYWdlPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KICAgIA0KICANCiAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9zb2x1dGlvbnMvbWlkc2l6ZS9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPjxpbWcgc3JjPSIvdXMvbWVkaWEvbXNiLTM2eDI4LnBuZyIgIGFsdD0iR3JvdyB5b3VyIG1pZHNpemUgYnVzaW5lc3MiIC8+DQogICAgICAgIEdyb3cgeW91ciBtaWRzaXplIGJ1c2luZXNzPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KICAgIA0KICANCiAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9zb2x1dGlvbnMvZGF0YS1wcm90ZWN0aW9uL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiI+PGltZyBzcmM9Ii91cy9tZWRpYS9wcm90ZWN0LTM2eDI4LnBuZyIgIGFsdD0iUHJvdGVjdCBhbmQgcmVjb3ZlciB5b3VyIGRhdGEiIC8+DQogICAgICAgIFByb3RlY3QgYW5kIHJlY292ZXIgeW91ciBkYXRhPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KICAgIA0KICANCiAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy90ZWNobm9sb2d5L3NvZnR3YXJlLWRlZmluZWQtc3RvcmFnZS9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPjxpbWcgc3JjPSIvdXMvbWVkaWEvc29mdHdhcmUtZGVmaW5lZC1zdG9yYWdlLTM2eDI4LnBuZyIgIGFsdD0iUmVzZWFyY2ggc29mdHdhcmUtZGVmaW5lZCBzdG9yYWdlIiAvPg0KICAgICAgICBSZXNlYXJjaCBzb2Z0d2FyZS1kZWZpbmVkIHN0b3JhZ2U8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQogICAgDQogIA0KICANCiAgICA8L3VsPg0KICANCg0KDQogIA0KPC9saT4gICAgICAgICAgICANCiAgICAgICAgICAgIDxsaSBjbGFzcz0iY29sdW1uIj4NCiAgDQogICAgPGgzPg0KICAgIA0KICAgIA0KICAgIA0KICAgIDxzcGFuPg0KICAgICAgTGVhcm4gQWJvdXQNCiAgICA8L3NwYW4+DQogICAgDQogICAgPC9oMz4NCg0KICAgIDx1bD4NCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3NvbHV0aW9ucy9jbG91ZC9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkNsb3VkPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KICAgIA0KICANCiAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9zb2x1dGlvbnMvdmlydHVhbGl6YXRpb24vaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIj5WaXJ0dWFsaXphdGlvbjwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvc29sdXRpb25zL2FwcGxpY2F0aW9ucy9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkVudGVycHJpc2UgQXBwbGljYXRpb25zPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KICAgIA0KICANCiAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9zb2x1dGlvbnMvbW9iaWxlLWluZm9ybWF0aW9uLW1hbmFnZW1lbnQvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIj5Nb2JpbGUgSW5mb3JtYXRpb24gTWFuYWdlbWVudDwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvc29sdXRpb25zL2JpZy1kYXRhL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiI+QmlnIERhdGE8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQogICAgDQogIA0KICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3NvbHV0aW9ucy9pbmR1c3RyeS9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkluZHVzdHJ5IFNvbHV0aW9uczwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvc29sdXRpb25zL2Nsb3VkL29wZW5zdGFjay5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPk9wZW5TdGFjazwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KICAgIDwvdWw+DQogIA0KDQoNCiAgDQo8L2xpPiAgICAgICAgICAgIA0KICAgICAgICAgICAgPGxpIGNsYXNzPSJjb2x1bW4iPg0KICANCiAgICA8aDM+DQogICAgDQogICAgDQogICAgDQogICAgPHNwYW4+DQogICAgICBDb252ZXJnZWQgSW5mcmFzdHJ1Y3R1cmUNCiAgICA8L3NwYW4+DQogICAgDQogICAgPC9oMz4NCg0KICAgIDx1bD4NCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3NvbHV0aW9ucy9mbGV4cG9kL2RhdGFjZW50ZXIvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIj5GbGV4UG9kIGZvciBEYXRhY2VudGVyczwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvc29sdXRpb25zL2ZsZXhwb2QvZXhwcmVzcy5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkZsZXhQb2QgZm9yIE1pZHNpemUgQnVzaW5lc3NlczwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvc29sdXRpb25zL2ZsZXhwb2Qvc2VsZWN0LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiI+RmxleFBvZCBmb3IgSGFkb29wIFdvcmtsb2FkczwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KICAgIDwvdWw+DQogIA0KICAgIDxoMz4NCiAgICANCiAgICANCiAgICANCiAgICA8c3Bhbj4NCiAgICAgIEN1c3RvbWVyIFJlZmVyZW5jZQ0KICAgIDwvc3Bhbj4NCiAgICANCiAgICA8L2gzPg0KDQogICAgPHVsPg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvY29tcGFueS9vdXItc3RvcnkvY3VzdG9tZXItc2hvd2Nhc2UvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIj5DdXN0b21lciBTaG93Y2FzZTwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KICAgIDwvdWw+DQogIA0KDQoNCiAgDQo8L2xpPiAgICAgICAgICAgIA0KICAgICAgICAgIDwvdWw+DQogICAgICAgIDwvbGk+DQogICAgICAgIA0KICAgICAgICANCiAgICAgICAgPGxpPg0KICAgICAgICAgIDxmb290ZXI+DQogICAgICAgICAgICANCg0KICAgICAgICAgICAgDQogICAgICAgICAgICA8YSBocmVmPSIvdXMvc29sdXRpb25zL2Etei9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPlNvbHV0aW9ucyBBLVo8L2E+ICAgICAgICAgICAgDQogICAgICAgICAgICANCiAgICAgICAgICAgIA0KDQogICAgICAgICAgICANCiAgICAgICAgICA8L2Zvb3Rlcj4NCiAgICAgICAgPC9saT4NCiAgICAgICAgDQogICAgICA8L3VsPg0KICAgIA0KDQogIA0KICAgIA0KDQogIA0KICA8L3NlY3Rpb24+ZAICD2QWAgIBDxYCHwIFCHRhYiB0YWIzFgJmDxUB0xMNCiAgPHNlY3Rpb24gcm9sZT0iZ3JvdXAiPg0KICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3NlcnZpY2VzLXN1cHBvcnQvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0idGFiVGV4dCI+PGgxPg0KICAgICAgICAgIFNlcnZpY2VzICZhbXA7IFN1cHBvcnQNCiAgICAgICAgPC9oMT48L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICANCiAgICANCiAgICAgIDx1bCBjbGFzcz0iY29sdW1ucyBjb3VudDMiIGlkPSIiPg0KICAgICAgICA8bGk+DQogICAgICAgICAgPHVsIGNsYXNzPSJjb2x1bW5zQ29udGFpbmVyIj4NCiAgICAgICAgICAgIA0KICAgICAgICAgICAgPGxpIGNsYXNzPSJjb2x1bW4iPg0KICANCg0KDQogIA0KDQogIDx1bD4NCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvc2VydmljZXMtc3VwcG9ydC9pbmRleC5hc3B4IiB0YXJnZXQ9Il9zZWxmIiBjbGFzcz0icGFyZW50WWVzIj4NCiAgICAgICAgU2VydmljZXMNCiAgICAgIDwvYT4NCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9zZXJ2aWNlcy1zdXBwb3J0L3Byb2Zlc3Npb25hbC9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiIGNsYXNzPSJwYXJlbnRObyI+UHJvZmVzc2lvbmFsIFNlcnZpY2VzPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3NlcnZpY2VzLXN1cHBvcnQvb3ZlcnZpZXcuYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPlN1cHBvcnQgYW5kIE9uc2l0ZSBTZXJ2aWNlczwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQogIDwvdWw+DQogIA0KPC9saT4gICAgICAgICAgICANCiAgICAgICAgICAgIDxsaSBjbGFzcz0iY29sdW1uIj4NCiAgDQoNCg0KICANCg0KICA8dWw+DQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9zZXJ2aWNlcy1zdXBwb3J0L3VuaXZlcnNpdHkvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50WWVzIj5UcmFpbmluZzwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9zZXJ2aWNlcy1zdXBwb3J0L3VuaXZlcnNpdHkvY2VydGlmaWNhdGlvbi5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiIGNsYXNzPSJwYXJlbnRObyI+Q2VydGlmaWNhdGlvbjwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9zZXJ2aWNlcy1zdXBwb3J0L3VuaXZlcnNpdHkvbGVhcm5pbmcuYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPkxlYXJuaW5nQ2VudGVyPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3NlcnZpY2VzLXN1cHBvcnQvdW5pdmVyc2l0eS9sZWFybmluZy1wYXJ0bmVycy5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiIGNsYXNzPSJwYXJlbnRObyI+TGVhcm5pbmcgUGFydG5lcnM8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KICA8L3VsPg0KICANCjwvbGk+ICAgICAgICAgICAgDQogICAgICAgICAgICA8bGkgY2xhc3M9ImNvbHVtbiI+DQogIA0KDQoNCiAgDQoNCiAgPHVsPg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICANCiAgICAgIDxhIGhyZWY9Imh0dHA6Ly9zdXBwb3J0Lm5ldGFwcC5jb20vIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9InBhcmVudFllcyI+DQogICAgICAgIEdldCBTdXBwb3J0DQogICAgICA8L2E+DQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICANCiAgICAgIDxhIGhyZWY9Imh0dHA6Ly9zdXBwb3J0Lm5ldGFwcC5jb20vaW5mby93ZWIvRUNNUDExNTA1NTAuaHRtbCIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJwYXJlbnRObyI+DQogICAgICAgIEdldCBTdGFydGVkDQogICAgICA8L2E+DQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvc2VydmljZXMtc3VwcG9ydC9uZ3MtY29udGFjdHMuYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPkNvbnRhY3QgU3VwcG9ydDwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQogIDwvdWw+DQogIA0KPC9saT4gICAgICAgICAgICANCiAgICAgICAgICA8L3VsPg0KICAgICAgICA8L2xpPg0KICAgICAgICANCiAgICAgICAgDQogICAgICA8L3VsPg0KICAgIA0KDQogIA0KICAgIA0KDQogIA0KICA8L3NlY3Rpb24+ZAIDD2QWAgIBDxYCHwIFCHRhYiB0YWI0FgJmDxUB/CANCiAgPHNlY3Rpb24gcm9sZT0iZ3JvdXAiPg0KICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3BhcnRuZXJzL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiIgY2xhc3M9InRhYlRleHQiPjxoMT4NCiAgICAgICAgICBQYXJ0bmVycw0KICAgICAgICA8L2gxPjwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogIA0KICAgIA0KICAgICAgPHVsIGNsYXNzPSJjb2x1bW5zIGNvdW50NCIgaWQ9IiI+DQogICAgICAgIDxsaT4NCiAgICAgICAgICA8dWwgY2xhc3M9ImNvbHVtbnNDb250YWluZXIiPg0KICAgICAgICAgICAgDQogICAgICAgICAgICA8bGkgY2xhc3M9ImNvbHVtbiI+DQogIA0KDQoNCiAgDQoNCiAgPHVsPg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICANCiAgICAgIA0KICAgICAgPHNwYW4gY2xhc3M9InBhcmVudFllcyI+DQogICAgICAgIEZpbmQgYSBQYXJ0bmVyDQogICAgICA8L3NwYW4+DQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgDQogICAgICA8YSBocmVmPSJodHRwOi8vc29sdXRpb25jb25uZWN0aW9uLm5ldGFwcC5jb20vcGFydG5lci1kaXJlY3RvcnkuYXNweCIgdGFyZ2V0PSJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj4NCiAgICAgICAgVGVjaG5vbG9neSBQYXJ0bmVycw0KICAgICAgPC9hPg0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL2hvdy10by1idXkvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPkNoYW5uZWwgUGFydG5lcnM8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvcGFydG5lcnMvZS1iYXNlZC1vZW1zLmFzcHgiICB0YXJnZXQ9ICJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj5FLUJhc2VkIE9FTSBQYXJ0bmVyczwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3BhcnRuZXJzL2JlY29tZS1hLXBhcnRuZXIvc2VydmljZS1wcm92aWRlcnMvIiB0YXJnZXQ9Il9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPg0KICAgICAgICBTZXJ2aWNlIFByb3ZpZGVycw0KICAgICAgPC9hPg0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCiAgPC91bD4NCiAgDQo8L2xpPiAgICAgICAgICAgIA0KICAgICAgICAgICAgPGxpIGNsYXNzPSJjb2x1bW4iPg0KICANCg0KDQogIA0KDQogIDx1bD4NCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3BhcnRuZXJzL2JlY29tZS1hLXBhcnRuZXIvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50WWVzIj5CZWNvbWUgYSBQYXJ0bmVyPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3BhcnRuZXJzL2JlY29tZS1hLXBhcnRuZXIvZ2xvYmFsLXN5c3RlbS1wYXJ0bmVycy5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiIGNsYXNzPSJwYXJlbnRObyI+R2xvYmFsIFN5c3RlbSBQYXJ0bmVyczwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9wYXJ0bmVycy9iZWNvbWUtYS1wYXJ0bmVyL3Jlc2VsbGVycy5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiIGNsYXNzPSJwYXJlbnRObyI+UmVzZWxsZXJzPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3BhcnRuZXJzL2JlY29tZS1hLXBhcnRuZXIvc2VydmljZS1wcm92aWRlcnMtbmV3LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj5TZXJ2aWNlIFByb3ZpZGVyczwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3BhcnRuZXJzL2JlY29tZS1hLXBhcnRuZXIvc3lzdGVtLWludGVncmF0b3JzLmFzcHgiIHRhcmdldD0iX3NlbGYiIGNsYXNzPSJwYXJlbnRObyI+DQogICAgICAgIFN5c3RlbSBJbnRlZ3JhdG9ycw0KICAgICAgPC9hPg0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCiAgPC91bD4NCiAgDQo8L2xpPiAgICAgICAgICAgIA0KICAgICAgICAgICAgPGxpIGNsYXNzPSJjb2x1bW4iPg0KICANCg0KDQogIA0KDQogIDx1bD4NCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgDQogICAgICANCiAgICAgIDxzcGFuIGNsYXNzPSJwYXJlbnRZZXMiPg0KICAgICAgICBBbGxpYW5jZSBUZWNobm9sb2d5IFBhcnRuZXJzDQogICAgICA8L3NwYW4+DQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgDQogICAgICA8YSBocmVmPSJodHRwOi8vc29sdXRpb25jb25uZWN0aW9uLm5ldGFwcC5jb20vaG9tZXBhZ2UuYXNweCIgdGFyZ2V0PSJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj4NCiAgICAgICAgU29sdXRpb24gQ29ubmVjdGlvbg0KICAgICAgPC9hPg0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3BhcnRuZXJzL2FsbGlhbmNlLXRlY2hub2xvZ3kvZ2xvYmFsLWFsbGlhbmNlL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj5HbG9iYWwgQWxsaWFuY2VzPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3BhcnRuZXJzL2FsbGlhbmNlLXRlY2hub2xvZ3kvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPlByb2dyYW0gT3ZlcnZpZXc8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KICA8L3VsPg0KICANCjwvbGk+ICAgICAgICAgICAgDQogICAgICAgICAgICA8bGkgY2xhc3M9ImNvbHVtbiI+DQogIA0KDQoNCiAgDQoNCiAgPHVsPg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICANCiAgICAgIA0KICAgICAgPHNwYW4gY2xhc3M9InBhcmVudFllcyI+DQogICAgICAgIEZvciBQYXJ0bmVycw0KICAgICAgPC9zcGFuPg0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIA0KICAgICAgPGEgaHJlZj0iaHR0cDovL3NvbHV0aW9uY29ubmVjdGlvbi5uZXRhcHAuY29tL2hvbWVwYWdlLmFzcHgiIHRhcmdldD0iX3NlbGYiIGNsYXNzPSJwYXJlbnRObyI+DQogICAgICAgIFNvbHV0aW9uIENvbm5lY3Rpb24NCiAgICAgIDwvYT4NCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIA0KICAgICAgPGEgaHJlZj0iaHR0cHM6Ly9maWVsZHBvcnRhbC5uZXRhcHAuY29tIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9InBhcmVudE5vIj4NCiAgICAgICAgRmllbGQgUG9ydGFsIExvZ2luDQogICAgICA8L2E+DQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICANCiAgICAgIDxhIGhyZWY9Imh0dHBzOi8vY29tbXVuaXRpZXMubmV0YXBwLmNvbS93ZWxjb21lIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9InBhcmVudE5vIj4NCiAgICAgICAgQ29tbXVuaXRpZXMNCiAgICAgIDwvYT4NCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIA0KICAgICAgPGEgaHJlZj0iaHR0cHM6Ly90ZWNoLm5ldGFwcC5jb20vIiB0YXJnZXQ9Il9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPg0KICAgICAgICBUZWNoTmV0DQogICAgICA8L2E+DQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KICA8L3VsPg0KICANCjwvbGk+ICAgICAgICAgICAgDQogICAgICAgICAgPC91bD4NCiAgICAgICAgPC9saT4NCiAgICAgICAgDQogICAgICAgIA0KICAgICAgPC91bD4NCiAgICANCg0KICANCiAgICANCg0KICANCiAgPC9zZWN0aW9uPmQCBA9kFgICAQ8WAh8CBQh0YWIgdGFiNRYCZg8VAZ81DQogIDxzZWN0aW9uIHJvbGU9Imdyb3VwIj4NCiAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9jb21wYW55L2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiIgY2xhc3M9InRhYlRleHQiPjxoMT4NCiAgICAgICAgICBDb21wYW55DQogICAgICAgIDwvaDE+PC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgDQogICAgDQogICAgICA8dWwgY2xhc3M9ImNvbHVtbnMgY291bnQ1IiBpZD0iIj4NCiAgICAgICAgPGxpPg0KICAgICAgICAgIDx1bCBjbGFzcz0iY29sdW1uc0NvbnRhaW5lciI+DQogICAgICAgICAgICANCiAgICAgICAgICAgIDxsaSBjbGFzcz0iY29sdW1uIj4NCiAgDQoNCg0KICANCg0KICA8dWw+DQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9jb21wYW55L291ci1zdG9yeS9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiIGNsYXNzPSJwYXJlbnRZZXMiPk91ciBTdG9yeTwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIA0KICAgICAgPGEgaHJlZj0iaHR0cDovL2ludmVzdG9ycy5uZXRhcHAuY29tLyIgdGFyZ2V0PSJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj4NCiAgICAgICAgRmluYW5jaWFsIEluZm9ybWF0aW9uDQogICAgICA8L2E+DQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICANCiAgICAgIDxhIGhyZWY9Imh0dHA6Ly9pbnZlc3RvcnMubmV0YXBwLmNvbS9tYW5hZ2VtZW50LmNmbSIgdGFyZ2V0PSJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj4NCiAgICAgICAgTWFuYWdlbWVudA0KICAgICAgPC9hPg0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL2NvbXBhbnkvb3VyLXN0b3J5L2N1c3RvbWVyLXNob3djYXNlL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj5DdXN0b21lciBTaG93Y2FzZTwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9jb21wYW55L291ci1zdG9yeS9jb3JwLWNpdGl6ZW4vaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPkdsb2JhbCBDb3Jwb3JhdGUgQ2l0aXplbnNoaXA8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvY29tcGFueS9vdXItc3RvcnkvaW5ub3ZhdGlvbi1hd2FyZHMvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPklubm92YXRpb24gQXdhcmRzPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL2NvbXBhbnkvb3VyLXN0b3J5L3N1c3RhaW5hYmlsaXR5L2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj5TdXN0YWluYWJpbGl0eSBhdCBOZXRBcHA8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvY29tcGFueS9vdXItc3RvcnkvZWJjL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj5FeGVjdXRpdmUgQnJpZWZpbmcgQ2VudGVyPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCiAgPC91bD4NCiAgDQo8L2xpPiAgICAgICAgICAgIA0KICAgICAgICAgICAgPGxpIGNsYXNzPSJjb2x1bW4iPg0KICANCg0KDQogIA0KDQogIDx1bD4NCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL2NvbXBhbnkvbGVhZGVyc2hpcC9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiIGNsYXNzPSJwYXJlbnRZZXMiPlRob3VnaHQgTGVhZGVyc2hpcDwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9zb2x1dGlvbnMvYmlnLWRhdGEvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPkJpZyBEYXRhPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL2NvbXBhbnkvbGVhZGVyc2hpcC9lZmZpY2llbnQtaXQvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPkVmZmljaWVudCBJVDwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9jb21wYW55L2xlYWRlcnNoaXAvZmxleGlibGUtaXQvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPkZsZXhpYmxlIElUPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL2NvbXBhbnkvbGVhZGVyc2hpcC9hZHZhbmNlZC10ZWNobm9sb2d5L2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj5BZHZhbmNlZCBUZWNobm9sb2d5IEdyb3VwPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL2NvbXBhbnkvbGVhZGVyc2hpcC9pbmR1c3RyeS1zdGFuZGFyZHMvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPkluZHVzdHJ5IFN0YW5kYXJkcyAmYW1wOyBBc3NvY2lhdGlvbnM8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvY29tcGFueS9sZWFkZXJzaGlwL2FjYWRlbWljLWFsbGlhbmNlcy9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiIGNsYXNzPSJwYXJlbnRObyI+QWNhZGVtaWMgQWxsaWFuY2VzPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCiAgPC91bD4NCiAgDQo8L2xpPiAgICAgICAgICAgIA0KICAgICAgICAgICAgPGxpIGNsYXNzPSJjb2x1bW4iPg0KICANCg0KDQogIA0KDQogIDx1bD4NCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL2NvbXBhbnkvbmV3cy9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiIGNsYXNzPSJwYXJlbnRZZXMiPk5ld3NATmV0QXBwPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvY29tcGFueS9uZXdzL3ByZXNzLXJlbGVhc2VzLmFzcHgiIHRhcmdldD0iX3NlbGYiIGNsYXNzPSJwYXJlbnRObyI+DQogICAgICAgIFByZXNzIFJlbGVhc2VzDQogICAgICA8L2E+DQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9jb21wYW55L25ld3MvcHJlc3MtY292ZXJhZ2UuYXNweCIgdGFyZ2V0PSJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj4NCiAgICAgICAgUHJlc3MgQ292ZXJhZ2UNCiAgICAgIDwvYT4NCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL2NvbXBhbnkvbmV3cy9hd2FyZHMuYXNweCIgdGFyZ2V0PSJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj4NCiAgICAgICAgQXdhcmRzDQogICAgICA8L2E+DQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9jb21wYW55L25ld3MvZXhlY3V0aXZlLWJpb3MuYXNweCIgdGFyZ2V0PSJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj4NCiAgICAgICAgRXhlY3V0aXZlIEJpb3MNCiAgICAgIDwvYT4NCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9jb21wYW55L25ld3MvcHJvZHVjdC1waG90b3MuYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPkltYWdlIExpYnJhcnk8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9saWJyYXJ5Lz9kb2NUeXBlPWFyIiB0YXJnZXQ9Il9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPg0KICAgICAgICBBbmFseXN0IFJlcG9ydHMNCiAgICAgIDwvYT4NCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQogIDwvdWw+DQogIA0KPC9saT4gICAgICAgICAgICANCiAgICAgICAgICAgIDxsaSBjbGFzcz0iY29sdW1uIj4NCiAgDQoNCg0KICANCg0KICA8dWw+DQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIA0KICAgICAgPGEgaHJlZj0iaHR0cDovL2ludmVzdG9ycy5uZXRhcHAuY29tLyIgdGFyZ2V0PSJfc2VsZiIgY2xhc3M9InBhcmVudFllcyI+DQogICAgICAgIEludmVzdG9ycw0KICAgICAgPC9hPg0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgDQogICAgICA8YSBocmVmPSJodHRwOi8vaW52ZXN0b3JzLm5ldGFwcC5jb20vZXNzZW50aWFscy5jZm0iIHRhcmdldD0iX3NlbGYiIGNsYXNzPSJwYXJlbnRObyI+DQogICAgICAgIEVzc2VudGlhbHMNCiAgICAgIDwvYT4NCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIA0KICAgICAgPGEgaHJlZj0iaHR0cDovL2ludmVzdG9ycy5uZXRhcHAuY29tL2ZpbmFuY2lhbF9jZW50ZXIuY2ZtIiB0YXJnZXQ9Il9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPg0KICAgICAgICBGaW5hbmNpYWwgQ2VudGVyDQogICAgICA8L2E+DQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICANCiAgICAgIDxhIGhyZWY9Imh0dHA6Ly9pbnZlc3RvcnMubmV0YXBwLmNvbS9zdG9ja3F1b3RlLmNmbSIgdGFyZ2V0PSJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj4NCiAgICAgICAgU3RvY2sgSW5mb3JtYXRpb24NCiAgICAgIDwvYT4NCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIA0KICAgICAgPGEgaHJlZj0iaHR0cDovL2ludmVzdG9ycy5uZXRhcHAuY29tL2NvbnRhY3R1cy5jZm0iIHRhcmdldD0iX3NlbGYiIGNsYXNzPSJwYXJlbnRObyI+DQogICAgICAgIENvbnRhY3QgSW52ZXN0b3IgUmVsYXRpb25zDQogICAgICA8L2E+DQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KICA8L3VsPg0KICANCjwvbGk+ICAgICAgICAgICAgDQogICAgICAgICAgICA8bGkgY2xhc3M9ImNvbHVtbiI+DQogIA0KDQoNCiAgDQoNCiAgPHVsPg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9jb21wYW55L2V2ZW50cy8iIHRhcmdldD0iX3NlbGYiIGNsYXNzPSJwYXJlbnRZZXMiPg0KICAgICAgICBFdmVudHMNCiAgICAgIDwvYT4NCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9jYXJlZXJzL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiIgY2xhc3M9InBhcmVudFllcyI+Q2FyZWVyczwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9jYXJlZXJzL2xpZmUvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPkxpZmUgYXQgTmV0QXBwPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL2NhcmVlcnMveW91ci1jYXJlZXIvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPllvdXIgQ2FyZWVyIGF0IE5ldEFwcDwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9jYXJlZXJzL3VuaXZlcnNpdHkvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPlVuaXZlcnNpdHkgUmVjcnVpdGluZzwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9jYXJlZXJzL2ZpbmQtam9iL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj5GaW5kIGEgSm9iPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCiAgPC91bD4NCiAgDQo8L2xpPiAgICAgICAgICAgIA0KICAgICAgICAgIDwvdWw+DQogICAgICAgIDwvbGk+DQogICAgICAgIA0KICAgICAgICANCiAgICAgIDwvdWw+DQogICAgDQoNCiAgDQogICAgDQoNCiAgDQogIDwvc2VjdGlvbj5kAgUPZBYCAgEPFgIfAgUIdGFiIHRhYjYWAmYPFQHhCw0KICA8c2VjdGlvbiByb2xlPSJncm91cCI+DQogICAgDQogICAgICA8YSBocmVmPSIvdXMvaG93LXRvLWJ1eS9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiIGNsYXNzPSJ0YWJUZXh0Ij48aDE+DQogICAgICAgICAgSG93IHRvIEJ1eQ0KICAgICAgICA8L2gxPjwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogIA0KICAgIA0KICAgICAgPHVsIGNsYXNzPSJjb2x1bW5zIGNvdW50MiIgaWQ9IiI+DQogICAgICAgIDxsaT4NCiAgICAgICAgICA8dWwgY2xhc3M9ImNvbHVtbnNDb250YWluZXIiPg0KICAgICAgICAgICAgDQogICAgICAgICAgICA8bGkgY2xhc3M9ImNvbHVtbiI+DQogIA0KDQoNCiAgDQoNCiAgPHVsPg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9ob3ctdG8tYnV5L2NvbnRyYWN0cy8iIHRhcmdldD0iX3NlbGYiIGNsYXNzPSJwYXJlbnRZZXMiPg0KICAgICAgICBVUyBQdWJsaWMgU2VjdG9yIENvbnRyYWN0cw0KICAgICAgPC9hPg0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3BhcnRuZXJzL2UtYmFzZWQtb2Vtcy5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiIGNsYXNzPSJwYXJlbnRZZXMiPkUtQmFzZWQgT0VNIFBhcnRuZXJzPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL2hvdy10by1idXkvbmV0YXBwLWNhcGl0YWwtc29sdXRpb25zL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiIgY2xhc3M9InBhcmVudFllcyI+TmV0QXBwIENhcGl0YWwgU29sdXRpb25zPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCiAgPC91bD4NCiAgDQo8L2xpPiAgICAgICAgICAgIA0KICAgICAgICAgICAgPGxpIGNsYXNzPSJjb2x1bW4iPg0KICANCg0KDQogIA0KDQogIDx1bD4NCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgDQogICAgICANCiAgICAgIDxzcGFuIGNsYXNzPSJwYXJlbnRZZXMiPg0KICAgICAgICArMSA4NzcgMjYzIDgyNzcNCiAgICAgIDwvc3Bhbj4NCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICANCiAgICAgIDxhIGhyZWY9Imh0dHA6Ly9zb2x1dGlvbmNvbm5lY3Rpb24ubmV0YXBwLmNvbS9VUy9Ob3J0aEFtZXJpY2EvUGFydG5lckRpcmVjdG9yeS5hc3B4IiB0YXJnZXQ9Il9zZWxmIiBjbGFzcz0icGFyZW50WWVzIj4NCiAgICAgICAgRmluZCBhIFBhcnRuZXINCiAgICAgIDwvYT4NCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQogIDwvdWw+DQogIA0KPC9saT4gICAgICAgICAgICANCiAgICAgICAgICA8L3VsPg0KICAgICAgICA8L2xpPg0KICAgICAgICANCiAgICAgICAgDQogICAgICA8L3VsPg0KICAgIA0KDQogIA0KICAgIA0KDQogIA0KICA8L3NlY3Rpb24+ZAILD2QWAmYPFgIfAGcWAmYPFgIfAQIGFgxmD2QWAgIBDxYCHwIFCHRhYiB0YWIxFgJmDxUBi0ENCiAgPHNlY3Rpb24gcm9sZT0iZ3JvdXAiPg0KICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3Byb2R1Y3RzL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiIgY2xhc3M9InRhYlRleHQiPjxoMT4NCiAgICAgICAgICBQcm9kdWN0cw0KICAgICAgICA8L2gxPjwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogIA0KICAgIA0KDQogIA0KICAgIA0KICAgIDx1bCBjbGFzcz0iY29sdW1ucyBjb3VudDQiIGlkPSJwTWVudSI+DQogICAgICAgIA0KDQogICAgICAgIDxsaT4NCiAgPGRpdiBjbGFzcz0icE1lbnVJbWciPg0KICAgIDxpbWcgYWx0PSJwcm9kLW1lbnUtZmFzODAwMCIgc3JjPSIvdXMvbWVkaWEvcHJvZC1tZW51LWZhczgwMDAuanBnIiAvPg0KICA8L2Rpdj4NCiAgPGRpdiBjbGFzcz0icE1lbnVDb250ZW50Ij4NCiAgICA8aDI+DQogICAgICBVbmlmaWVkIFN0b3JhZ2UNCiAgICAgIDxlbT5EYXRhIE9OVEFQPC9lbT4NCiAgICA8L2gyPg0KICAgIDx1bD4NCiAgICAgIA0KICAgICAgICA8bGkgY2xhc3M9ImNvbHVtbiI+DQogIA0KICAgIDxoMz4NCiAgICANCiAgICA8YSBocmVmPSIvdXMvcHJvZHVjdHMvc3RvcmFnZS1zeXN0ZW1zL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiI+SGFyZHdhcmU8L2E+ICAgIA0KICAgIA0KICAgIA0KICAgIDwvaDM+DQoNCiAgICA8dWw+DQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9wcm9kdWN0cy9zdG9yYWdlLXN5c3RlbXMvZmFzODAwMC9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkZBUzgwMDA8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQogICAgDQogIA0KICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3Byb2R1Y3RzL3N0b3JhZ2Utc3lzdGVtcy9mYXM2MjAwL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiI+RkFTNjIwMDwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvcHJvZHVjdHMvc3RvcmFnZS1zeXN0ZW1zL2ZhczMyMDAvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIj5GQVMzMjAwPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KICAgIA0KICANCiAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9wcm9kdWN0cy9zdG9yYWdlLXN5c3RlbXMvZmFzMjIwMC9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkZBUzIyMDA8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQogICAgDQogIA0KICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3Byb2R1Y3RzL3N0b3JhZ2Utc3lzdGVtcy92LXNlcmllcy9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPlYtU2VyaWVzPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KICAgIA0KICANCiAgDQogICAgPC91bD4NCiAgDQoNCg0KICANCjwvbGk+ICAgICAgDQogICAgICAgIDxsaSBjbGFzcz0iY29sdW1uIj4NCiAgDQogICAgPGgzPg0KICAgIA0KICAgIDxhIGhyZWY9Ii91cy9wcm9kdWN0cy9zb2Z0d2FyZS9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPlNvZnR3YXJlPC9hPiAgICANCiAgICANCiAgICANCiAgICA8L2gzPg0KDQogICAgPHVsPg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvcHJvZHVjdHMvcGxhdGZvcm0tb3MvZGF0YS1vbnRhcC04L2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiI+Q2x1c3RlcmVkIERhdGEgT05UQVAgT1M8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQogICAgDQogIA0KICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3Byb2R1Y3RzL21hbmFnZW1lbnQtc29mdHdhcmUvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIj5PbkNvbW1hbmQgTWFuYWdlbWVudCBTb2Z0d2FyZTwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvcHJvZHVjdHMvcHJvdGVjdGlvbi1zb2Z0d2FyZS9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkRhdGEgUHJvdGVjdGlvbiBTb2Z0d2FyZTwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvcHJvZHVjdHMvc3RvcmFnZS1zeXN0ZW1zL2ZsZXhhcnJheS9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkZsZXhBcnJheSBWaXJ0dWFsaXphdGlvbiBTb2Z0d2FyZTwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KICAgIDwvdWw+DQogIA0KDQoNCiAgDQo8L2xpPiAgICAgIA0KICAgICAgICA8bGkgY2xhc3M9ImNvbHVtbiI+DQogIA0KICAgIDxoMz4NCiAgICANCiAgICANCiAgICANCiAgICA8c3Bhbj4NCiAgICAgIEJlc3QgRm9yDQogICAgPC9zcGFuPg0KICAgIA0KICAgIDwvaDM+DQoNCiAgICA8dWw+DQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9zb2x1dGlvbnMvdmlydHVhbGl6YXRpb24vaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIj5WaXJ0dWFsaXphdGlvbjwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvc29sdXRpb25zL3NlcnZpY2UtcHJvdmlkZXJzL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiI+Q2xvdWQgU2VydmljZXM8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQogICAgDQogIA0KICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3NvbHV0aW9ucy9hcHBsaWNhdGlvbnMvbWljcm9zb2Z0L2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiI+TWljcm9zb2Z0PC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KICAgIA0KICANCiAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9zb2x1dGlvbnMvYXBwbGljYXRpb25zL29yYWNsZS9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPk9yYWNsZTwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvc29sdXRpb25zL2FwcGxpY2F0aW9ucy9zYXAvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIj5TQVA8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQogICAgDQogIA0KICANCiAgICA8L3VsPg0KICANCg0KDQogIA0KPC9saT4gICAgICANCiAgICA8L3VsPg0KICA8L2Rpdj4NCjwvbGk+DQogICAgICAgIA0KDQogICAgICAgIDxsaT4NCiAgPGRpdiBjbGFzcz0icE1lbnVJbWciPg0KICAgIDxpbWcgYWx0PSIiIHNyYz0iL3VzL21lZGlhL3Byb2QtbWVudS1lLXNlcmllcy5qcGciIC8+DQogIDwvZGl2Pg0KICA8ZGl2IGNsYXNzPSJwTWVudUNvbnRlbnQiPg0KICAgIDxoMj4NCiAgICAgIEhpZ2ggUGVyZm9ybWFuY2UgU0FOIFN0b3JhZ2UNCiAgICAgIDxlbT5FIFNlcmllczwvZW0+DQogICAgPC9oMj4NCiAgICA8dWw+DQogICAgICANCiAgICAgICAgPGxpIGNsYXNzPSJjb2x1bW4iPg0KICANCiAgICA8aDM+DQogICAgDQogICAgPGEgaHJlZj0iL3VzL3Byb2R1Y3RzL3N0b3JhZ2Utc3lzdGVtcy9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkhhcmR3YXJlPC9hPiAgICANCiAgICANCiAgICANCiAgICA8L2gzPg0KDQogICAgPHVsPg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvcHJvZHVjdHMvc3RvcmFnZS1zeXN0ZW1zL2U1NTAwL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiI+RTU1MDA8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQogICAgDQogIA0KICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3Byb2R1Y3RzL3N0b3JhZ2Utc3lzdGVtcy9lNTQwMC9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkU1NDAwPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KICAgIA0KICANCiAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9wcm9kdWN0cy9zdG9yYWdlLXN5c3RlbXMvZTI3MDAvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIj5FMjcwMDwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvcHJvZHVjdHMvc3RvcmFnZS1zeXN0ZW1zL2UyNjAwL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiI+RTI2MDA8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQogICAgDQogIA0KICANCiAgICA8L3VsPg0KICANCg0KDQogIA0KPC9saT4gICAgICANCiAgICAgICAgPGxpIGNsYXNzPSJjb2x1bW4iPg0KICANCiAgICA8aDM+DQogICAgDQogICAgPGEgaHJlZj0iL3VzL3Byb2R1Y3RzL3NvZnR3YXJlL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiI+U29mdHdhcmU8L2E+ICAgIA0KICAgIA0KICAgIA0KICAgIDwvaDM+DQoNCiAgICA8dWw+DQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9wcm9kdWN0cy9wbGF0Zm9ybS1vcy9zYW50cmljaXR5L2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiI+U0FOdHJpY2l0eSBTdG9yYWdlIE1hbmFnZXIgT1M8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQogICAgDQogIA0KICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3Byb2R1Y3RzL3Byb3RlY3Rpb24tc29mdHdhcmUvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIj5EYXRhIFByb3RlY3Rpb24gU29mdHdhcmU8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQogICAgDQogIA0KICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3Byb2R1Y3RzL3N0b3JhZ2Utc29mdHdhcmUvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIj5PYmplY3QgU3RvcmFnZSB3aXRoIFN0b3JhZ2VHUklEPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KICAgIA0KICANCiAgDQogICAgPC91bD4NCiAgDQoNCg0KICANCjwvbGk+ICAgICAgDQogICAgICAgIDxsaSBjbGFzcz0iY29sdW1uIj4NCiAgDQogICAgPGgzPg0KICAgIA0KICAgIA0KICAgIA0KICAgIDxzcGFuPg0KICAgICAgQmVzdCBGb3INCiAgICA8L3NwYW4+DQogICAgDQogICAgPC9oMz4NCg0KICAgIDx1bD4NCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3NvbHV0aW9ucy9pbmR1c3RyeS9oaWdoLXBlcmZvcm1hbmNlLWNvbXB1dGluZy5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkhpZ2ggUGVyZm9ybWFuY2UgQ29tcHV0aW5nPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KICAgIA0KICANCiAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9zb2x1dGlvbnMvYmlnLWRhdGEvZW50ZXJwcmlzZS1jb250ZW50LXJlcG9zaXRvcnkuYXNweCIgIHRhcmdldD0gIl9zZWxmIj5FbnRlcnByaXNlIENvbnRlbnQgUmVwb3NpdG9yeTwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvc29sdXRpb25zL2luZHVzdHJ5L2dvdmVybm1lbnQvZnVsbC1tb3Rpb24tdmlkZW8uYXNweCIgIHRhcmdldD0gIl9zZWxmIj5GdWxsIE1vdGlvbiBWaWRlbzwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvc29sdXRpb25zL2JpZy1kYXRhL2x1c3RyZS5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkx1c3RyZSBTb2x1dGlvbnM8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQogICAgDQogIA0KICANCiAgICA8L3VsPg0KICANCg0KDQogIA0KPC9saT4gICAgICANCiAgICA8L3VsPg0KICA8L2Rpdj4NCjwvbGk+DQogICAgICAgIA0KDQogICAgICAgIDxsaT4NCiAgPGRpdiBjbGFzcz0icE1lbnVJbWciPg0KICAgIDxpbWcgYWx0PSIiIHNyYz0iL3VzL21lZGlhL3Byb2QtbWVudS1lZi1zZXJpZXMuanBnIiAvPg0KICA8L2Rpdj4NCiAgPGRpdiBjbGFzcz0icE1lbnVDb250ZW50Ij4NCiAgICA8aDI+DQogICAgICBVbHRpbWF0ZSBQZXJmb3JtYW5jZSBBbGwgRmxhc2ggU3RvcmFnZQ0KICAgICAgPGVtPkVGIFNlcmllczwvZW0+DQogICAgPC9oMj4NCiAgICA8dWw+DQogICAgICANCiAgICAgICAgPGxpIGNsYXNzPSJjb2x1bW4iPg0KICANCiAgICA8aDM+DQogICAgDQogICAgPGEgaHJlZj0iL3VzL3Byb2R1Y3RzL3N0b3JhZ2Utc3lzdGVtcy9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkhhcmR3YXJlPC9hPiAgICANCiAgICANCiAgICANCiAgICA8L2gzPg0KDQogICAgPHVsPg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvcHJvZHVjdHMvc3RvcmFnZS1zeXN0ZW1zL2ZsYXNoLWVmNTUwL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiI+RUY1NTA8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQogICAgDQogIA0KICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3Byb2R1Y3RzL3N0b3JhZ2Utc3lzdGVtcy9mbGFzaC1lZjU0MC9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkVGNTQwPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KICAgIA0KICANCiAgDQogICAgPC91bD4NCiAgDQoNCg0KICANCjwvbGk+ICAgICAgDQogICAgICAgIDxsaSBjbGFzcz0iY29sdW1uIj4NCiAgDQogICAgPGgzPg0KICAgIA0KICAgIDxhIGhyZWY9Ii91cy9wcm9kdWN0cy9zb2Z0d2FyZS9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPlNvZnR3YXJlPC9hPiAgICANCiAgICANCiAgICANCiAgICA8L2gzPg0KDQogICAgPHVsPg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvcHJvZHVjdHMvcGxhdGZvcm0tb3Mvc2FudHJpY2l0eS9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPlNBTnRyaWNpdHkgU3RvcmFnZSBNYW5hZ2VyIE9TPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KICAgIA0KICANCiAgDQogICAgPC91bD4NCiAgDQoNCg0KICANCjwvbGk+ICAgICAgDQogICAgICAgIDxsaSBjbGFzcz0iY29sdW1uIj4NCiAgDQogICAgPGgzPg0KICAgIA0KICAgIA0KICAgIA0KICAgIDxzcGFuPg0KICAgICAgQmVzdCBGb3INCiAgICA8L3NwYW4+DQogICAgDQogICAgPC9oMz4NCg0KICAgIDx1bD4NCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3RlY2hub2xvZ3kvZmxhc2gtc3RvcmFnZS9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkZsYXNoLUJhc2VkIFN0b3JhZ2U8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQogICAgDQogIA0KICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvc3lzdGVtL3BkZi1yZWFkZXIuYXNweD9wZGZ1cmk9dGNtOjEwLTEwODIzNi0xNiZhbXA7bT10ci00MTQ1LnBkZiIgdGFyZ2V0PSJfYmxhbmsiPg0KICAgICAgICANCiAgICAgICAgDQogICAgICAgIE9yYWNsZSBBbmFseXRpY3MgYW5kIERhdGFiYXNlcw0KICAgICAgICANCiAgICAgIDwvYT4NCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KICAgIDwvdWw+DQogIA0KDQoNCiAgDQo8L2xpPiAgICAgIA0KICAgIDwvdWw+DQogIDwvZGl2Pg0KPC9saT4NCiAgICAgICAgDQogICAgICANCiAgICAgICAgDQogICAgICAgIDxsaT4NCiAgICAgICAgICA8Zm9vdGVyPg0KICAgICAgICAgICAgDQoNCiAgICAgICAgICAgIA0KICAgICAgICAgICAgPGEgaHJlZj0iL3VzL3Byb2R1Y3RzL2Etei9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPlByb2R1Y3RzIEEtWjwvYT4gICAgICAgICAgICANCiAgICAgICAgICAgIA0KICAgICAgICAgICAgDQoNCiAgICAgICAgICAgIA0KICAgICAgICAgIDwvZm9vdGVyPg0KICAgICAgICA8L2xpPg0KICAgICAgICANCiAgICANCiAgICAgIDwvdWw+DQogICAgDQoNCiAgDQogIDwvc2VjdGlvbj5kAgEPZBYCAgEPFgIfAgUIdGFiIHRhYjIWAmYPFQHyIg0KICA8c2VjdGlvbiByb2xlPSJncm91cCI+DQogICAgDQogICAgICA8YSBocmVmPSIvdXMvc29sdXRpb25zL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiIgY2xhc3M9InRhYlRleHQiPjxoMT4NCiAgICAgICAgICBTb2x1dGlvbnMNCiAgICAgICAgPC9oMT48L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICANCiAgICANCiAgICAgIDx1bCBjbGFzcz0iY29sdW1ucyBjb3VudDQiIGlkPSJzTWVudSI+DQogICAgICAgIDxsaT4NCiAgICAgICAgICA8dWwgY2xhc3M9ImNvbHVtbnNDb250YWluZXIiPg0KICAgICAgICAgICAgDQogICAgICAgICAgICA8bGkgY2xhc3M9ImNvbHVtbiI+DQogIA0KICAgIDxoMz4NCiAgICANCiAgICANCiAgICANCiAgICA8c3Bhbj4NCiAgICAgIFlvdSBOZWVkIFRvIC4uLg0KICAgIDwvc3Bhbj4NCiAgICANCiAgICA8L2gzPg0KDQogICAgPHVsPg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvc29sdXRpb25zL2Nsb3VkL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiI+PGltZyBzcmM9Ii91cy9tZWRpYS9jbG91ZC0zNngyOC5wbmciICBhbHQ9Ik1vdmUgZGF0YSB0byBhbmQgYWNyb3NzIGNsb3VkcyIgLz4NCiAgICAgICAgTW92ZSBkYXRhIHRvIGFuZCBhY3Jvc3MgY2xvdWRzPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KICAgIA0KICANCiAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy90ZWNobm9sb2d5L2ZsYXNoLXN0b3JhZ2UvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIj48aW1nIHNyYz0iL3VzL21lZGlhL2ZsYXNoLTM2eDI4LnBuZyIgIGFsdD0iRGVwbG95IGZsYXNoIHN0b3JhZ2UiIC8+DQogICAgICAgIERlcGxveSBmbGFzaCBzdG9yYWdlPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KICAgIA0KICANCiAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9zb2x1dGlvbnMvbWlkc2l6ZS9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPjxpbWcgc3JjPSIvdXMvbWVkaWEvbXNiLTM2eDI4LnBuZyIgIGFsdD0iR3JvdyB5b3VyIG1pZHNpemUgYnVzaW5lc3MiIC8+DQogICAgICAgIEdyb3cgeW91ciBtaWRzaXplIGJ1c2luZXNzPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KICAgIA0KICANCiAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9zb2x1dGlvbnMvZGF0YS1wcm90ZWN0aW9uL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiI+PGltZyBzcmM9Ii91cy9tZWRpYS9wcm90ZWN0LTM2eDI4LnBuZyIgIGFsdD0iUHJvdGVjdCBhbmQgcmVjb3ZlciB5b3VyIGRhdGEiIC8+DQogICAgICAgIFByb3RlY3QgYW5kIHJlY292ZXIgeW91ciBkYXRhPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KICAgIA0KICANCiAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy90ZWNobm9sb2d5L3NvZnR3YXJlLWRlZmluZWQtc3RvcmFnZS9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPjxpbWcgc3JjPSIvdXMvbWVkaWEvc29mdHdhcmUtZGVmaW5lZC1zdG9yYWdlLTM2eDI4LnBuZyIgIGFsdD0iUmVzZWFyY2ggc29mdHdhcmUtZGVmaW5lZCBzdG9yYWdlIiAvPg0KICAgICAgICBSZXNlYXJjaCBzb2Z0d2FyZS1kZWZpbmVkIHN0b3JhZ2U8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQogICAgDQogIA0KICANCiAgICA8L3VsPg0KICANCg0KDQogIA0KPC9saT4gICAgICAgICAgICANCiAgICAgICAgICAgIDxsaSBjbGFzcz0iY29sdW1uIj4NCiAgDQogICAgPGgzPg0KICAgIA0KICAgIA0KICAgIA0KICAgIDxzcGFuPg0KICAgICAgTGVhcm4gQWJvdXQNCiAgICA8L3NwYW4+DQogICAgDQogICAgPC9oMz4NCg0KICAgIDx1bD4NCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3NvbHV0aW9ucy9jbG91ZC9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkNsb3VkPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KICAgIA0KICANCiAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9zb2x1dGlvbnMvdmlydHVhbGl6YXRpb24vaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIj5WaXJ0dWFsaXphdGlvbjwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvc29sdXRpb25zL2FwcGxpY2F0aW9ucy9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkVudGVycHJpc2UgQXBwbGljYXRpb25zPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KICAgIA0KICANCiAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9zb2x1dGlvbnMvbW9iaWxlLWluZm9ybWF0aW9uLW1hbmFnZW1lbnQvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIj5Nb2JpbGUgSW5mb3JtYXRpb24gTWFuYWdlbWVudDwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvc29sdXRpb25zL2JpZy1kYXRhL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiI+QmlnIERhdGE8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQogICAgDQogIA0KICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3NvbHV0aW9ucy9pbmR1c3RyeS9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkluZHVzdHJ5IFNvbHV0aW9uczwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvc29sdXRpb25zL2Nsb3VkL29wZW5zdGFjay5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPk9wZW5TdGFjazwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KICAgIDwvdWw+DQogIA0KDQoNCiAgDQo8L2xpPiAgICAgICAgICAgIA0KICAgICAgICAgICAgPGxpIGNsYXNzPSJjb2x1bW4iPg0KICANCiAgICA8aDM+DQogICAgDQogICAgDQogICAgDQogICAgPHNwYW4+DQogICAgICBDb252ZXJnZWQgSW5mcmFzdHJ1Y3R1cmUNCiAgICA8L3NwYW4+DQogICAgDQogICAgPC9oMz4NCg0KICAgIDx1bD4NCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3NvbHV0aW9ucy9mbGV4cG9kL2RhdGFjZW50ZXIvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIj5GbGV4UG9kIGZvciBEYXRhY2VudGVyczwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvc29sdXRpb25zL2ZsZXhwb2QvZXhwcmVzcy5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPkZsZXhQb2QgZm9yIE1pZHNpemUgQnVzaW5lc3NlczwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvc29sdXRpb25zL2ZsZXhwb2Qvc2VsZWN0LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiI+RmxleFBvZCBmb3IgSGFkb29wIFdvcmtsb2FkczwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KICAgIDwvdWw+DQogIA0KICAgIDxoMz4NCiAgICANCiAgICANCiAgICANCiAgICA8c3Bhbj4NCiAgICAgIEN1c3RvbWVyIFJlZmVyZW5jZQ0KICAgIDwvc3Bhbj4NCiAgICANCiAgICA8L2gzPg0KDQogICAgPHVsPg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvY29tcGFueS9vdXItc3RvcnkvY3VzdG9tZXItc2hvd2Nhc2UvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIj5DdXN0b21lciBTaG93Y2FzZTwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCiAgICANCiAgDQogIA0KICAgIDwvdWw+DQogIA0KDQoNCiAgDQo8L2xpPiAgICAgICAgICAgIA0KICAgICAgICAgIDwvdWw+DQogICAgICAgIDwvbGk+DQogICAgICAgIA0KICAgICAgICANCiAgICAgICAgPGxpPg0KICAgICAgICAgIDxmb290ZXI+DQogICAgICAgICAgICANCg0KICAgICAgICAgICAgDQogICAgICAgICAgICA8YSBocmVmPSIvdXMvc29sdXRpb25zL2Etei9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiPlNvbHV0aW9ucyBBLVo8L2E+ICAgICAgICAgICAgDQogICAgICAgICAgICANCiAgICAgICAgICAgIA0KDQogICAgICAgICAgICANCiAgICAgICAgICA8L2Zvb3Rlcj4NCiAgICAgICAgPC9saT4NCiAgICAgICAgDQogICAgICA8L3VsPg0KICAgIA0KDQogIA0KICAgIA0KDQogIA0KICA8L3NlY3Rpb24+ZAICD2QWAgIBDxYCHwIFCHRhYiB0YWIzFgJmDxUB0xMNCiAgPHNlY3Rpb24gcm9sZT0iZ3JvdXAiPg0KICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3NlcnZpY2VzLXN1cHBvcnQvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0idGFiVGV4dCI+PGgxPg0KICAgICAgICAgIFNlcnZpY2VzICZhbXA7IFN1cHBvcnQNCiAgICAgICAgPC9oMT48L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICANCiAgICANCiAgICAgIDx1bCBjbGFzcz0iY29sdW1ucyBjb3VudDMiIGlkPSIiPg0KICAgICAgICA8bGk+DQogICAgICAgICAgPHVsIGNsYXNzPSJjb2x1bW5zQ29udGFpbmVyIj4NCiAgICAgICAgICAgIA0KICAgICAgICAgICAgPGxpIGNsYXNzPSJjb2x1bW4iPg0KICANCg0KDQogIA0KDQogIDx1bD4NCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvc2VydmljZXMtc3VwcG9ydC9pbmRleC5hc3B4IiB0YXJnZXQ9Il9zZWxmIiBjbGFzcz0icGFyZW50WWVzIj4NCiAgICAgICAgU2VydmljZXMNCiAgICAgIDwvYT4NCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9zZXJ2aWNlcy1zdXBwb3J0L3Byb2Zlc3Npb25hbC9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiIGNsYXNzPSJwYXJlbnRObyI+UHJvZmVzc2lvbmFsIFNlcnZpY2VzPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3NlcnZpY2VzLXN1cHBvcnQvb3ZlcnZpZXcuYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPlN1cHBvcnQgYW5kIE9uc2l0ZSBTZXJ2aWNlczwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQogIDwvdWw+DQogIA0KPC9saT4gICAgICAgICAgICANCiAgICAgICAgICAgIDxsaSBjbGFzcz0iY29sdW1uIj4NCiAgDQoNCg0KICANCg0KICA8dWw+DQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9zZXJ2aWNlcy1zdXBwb3J0L3VuaXZlcnNpdHkvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50WWVzIj5UcmFpbmluZzwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9zZXJ2aWNlcy1zdXBwb3J0L3VuaXZlcnNpdHkvY2VydGlmaWNhdGlvbi5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiIGNsYXNzPSJwYXJlbnRObyI+Q2VydGlmaWNhdGlvbjwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9zZXJ2aWNlcy1zdXBwb3J0L3VuaXZlcnNpdHkvbGVhcm5pbmcuYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPkxlYXJuaW5nQ2VudGVyPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3NlcnZpY2VzLXN1cHBvcnQvdW5pdmVyc2l0eS9sZWFybmluZy1wYXJ0bmVycy5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiIGNsYXNzPSJwYXJlbnRObyI+TGVhcm5pbmcgUGFydG5lcnM8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KICA8L3VsPg0KICANCjwvbGk+ICAgICAgICAgICAgDQogICAgICAgICAgICA8bGkgY2xhc3M9ImNvbHVtbiI+DQogIA0KDQoNCiAgDQoNCiAgPHVsPg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICANCiAgICAgIDxhIGhyZWY9Imh0dHA6Ly9zdXBwb3J0Lm5ldGFwcC5jb20vIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9InBhcmVudFllcyI+DQogICAgICAgIEdldCBTdXBwb3J0DQogICAgICA8L2E+DQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICANCiAgICAgIDxhIGhyZWY9Imh0dHA6Ly9zdXBwb3J0Lm5ldGFwcC5jb20vaW5mby93ZWIvRUNNUDExNTA1NTAuaHRtbCIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJwYXJlbnRObyI+DQogICAgICAgIEdldCBTdGFydGVkDQogICAgICA8L2E+DQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvc2VydmljZXMtc3VwcG9ydC9uZ3MtY29udGFjdHMuYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPkNvbnRhY3QgU3VwcG9ydDwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQogIDwvdWw+DQogIA0KPC9saT4gICAgICAgICAgICANCiAgICAgICAgICA8L3VsPg0KICAgICAgICA8L2xpPg0KICAgICAgICANCiAgICAgICAgDQogICAgICA8L3VsPg0KICAgIA0KDQogIA0KICAgIA0KDQogIA0KICA8L3NlY3Rpb24+ZAIDD2QWAgIBDxYCHwIFCHRhYiB0YWI0FgJmDxUB/CANCiAgPHNlY3Rpb24gcm9sZT0iZ3JvdXAiPg0KICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3BhcnRuZXJzL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiIgY2xhc3M9InRhYlRleHQiPjxoMT4NCiAgICAgICAgICBQYXJ0bmVycw0KICAgICAgICA8L2gxPjwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogIA0KICAgIA0KICAgICAgPHVsIGNsYXNzPSJjb2x1bW5zIGNvdW50NCIgaWQ9IiI+DQogICAgICAgIDxsaT4NCiAgICAgICAgICA8dWwgY2xhc3M9ImNvbHVtbnNDb250YWluZXIiPg0KICAgICAgICAgICAgDQogICAgICAgICAgICA8bGkgY2xhc3M9ImNvbHVtbiI+DQogIA0KDQoNCiAgDQoNCiAgPHVsPg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICANCiAgICAgIA0KICAgICAgPHNwYW4gY2xhc3M9InBhcmVudFllcyI+DQogICAgICAgIEZpbmQgYSBQYXJ0bmVyDQogICAgICA8L3NwYW4+DQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgDQogICAgICA8YSBocmVmPSJodHRwOi8vc29sdXRpb25jb25uZWN0aW9uLm5ldGFwcC5jb20vcGFydG5lci1kaXJlY3RvcnkuYXNweCIgdGFyZ2V0PSJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj4NCiAgICAgICAgVGVjaG5vbG9neSBQYXJ0bmVycw0KICAgICAgPC9hPg0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL2hvdy10by1idXkvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPkNoYW5uZWwgUGFydG5lcnM8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvcGFydG5lcnMvZS1iYXNlZC1vZW1zLmFzcHgiICB0YXJnZXQ9ICJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj5FLUJhc2VkIE9FTSBQYXJ0bmVyczwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3BhcnRuZXJzL2JlY29tZS1hLXBhcnRuZXIvc2VydmljZS1wcm92aWRlcnMvIiB0YXJnZXQ9Il9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPg0KICAgICAgICBTZXJ2aWNlIFByb3ZpZGVycw0KICAgICAgPC9hPg0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCiAgPC91bD4NCiAgDQo8L2xpPiAgICAgICAgICAgIA0KICAgICAgICAgICAgPGxpIGNsYXNzPSJjb2x1bW4iPg0KICANCg0KDQogIA0KDQogIDx1bD4NCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3BhcnRuZXJzL2JlY29tZS1hLXBhcnRuZXIvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50WWVzIj5CZWNvbWUgYSBQYXJ0bmVyPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3BhcnRuZXJzL2JlY29tZS1hLXBhcnRuZXIvZ2xvYmFsLXN5c3RlbS1wYXJ0bmVycy5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiIGNsYXNzPSJwYXJlbnRObyI+R2xvYmFsIFN5c3RlbSBQYXJ0bmVyczwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9wYXJ0bmVycy9iZWNvbWUtYS1wYXJ0bmVyL3Jlc2VsbGVycy5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiIGNsYXNzPSJwYXJlbnRObyI+UmVzZWxsZXJzPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3BhcnRuZXJzL2JlY29tZS1hLXBhcnRuZXIvc2VydmljZS1wcm92aWRlcnMtbmV3LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj5TZXJ2aWNlIFByb3ZpZGVyczwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3BhcnRuZXJzL2JlY29tZS1hLXBhcnRuZXIvc3lzdGVtLWludGVncmF0b3JzLmFzcHgiIHRhcmdldD0iX3NlbGYiIGNsYXNzPSJwYXJlbnRObyI+DQogICAgICAgIFN5c3RlbSBJbnRlZ3JhdG9ycw0KICAgICAgPC9hPg0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCiAgPC91bD4NCiAgDQo8L2xpPiAgICAgICAgICAgIA0KICAgICAgICAgICAgPGxpIGNsYXNzPSJjb2x1bW4iPg0KICANCg0KDQogIA0KDQogIDx1bD4NCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgDQogICAgICANCiAgICAgIDxzcGFuIGNsYXNzPSJwYXJlbnRZZXMiPg0KICAgICAgICBBbGxpYW5jZSBUZWNobm9sb2d5IFBhcnRuZXJzDQogICAgICA8L3NwYW4+DQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgDQogICAgICA8YSBocmVmPSJodHRwOi8vc29sdXRpb25jb25uZWN0aW9uLm5ldGFwcC5jb20vaG9tZXBhZ2UuYXNweCIgdGFyZ2V0PSJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj4NCiAgICAgICAgU29sdXRpb24gQ29ubmVjdGlvbg0KICAgICAgPC9hPg0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3BhcnRuZXJzL2FsbGlhbmNlLXRlY2hub2xvZ3kvZ2xvYmFsLWFsbGlhbmNlL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj5HbG9iYWwgQWxsaWFuY2VzPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3BhcnRuZXJzL2FsbGlhbmNlLXRlY2hub2xvZ3kvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPlByb2dyYW0gT3ZlcnZpZXc8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KICA8L3VsPg0KICANCjwvbGk+ICAgICAgICAgICAgDQogICAgICAgICAgICA8bGkgY2xhc3M9ImNvbHVtbiI+DQogIA0KDQoNCiAgDQoNCiAgPHVsPg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICANCiAgICAgIA0KICAgICAgPHNwYW4gY2xhc3M9InBhcmVudFllcyI+DQogICAgICAgIEZvciBQYXJ0bmVycw0KICAgICAgPC9zcGFuPg0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIA0KICAgICAgPGEgaHJlZj0iaHR0cDovL3NvbHV0aW9uY29ubmVjdGlvbi5uZXRhcHAuY29tL2hvbWVwYWdlLmFzcHgiIHRhcmdldD0iX3NlbGYiIGNsYXNzPSJwYXJlbnRObyI+DQogICAgICAgIFNvbHV0aW9uIENvbm5lY3Rpb24NCiAgICAgIDwvYT4NCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIA0KICAgICAgPGEgaHJlZj0iaHR0cHM6Ly9maWVsZHBvcnRhbC5uZXRhcHAuY29tIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9InBhcmVudE5vIj4NCiAgICAgICAgRmllbGQgUG9ydGFsIExvZ2luDQogICAgICA8L2E+DQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICANCiAgICAgIDxhIGhyZWY9Imh0dHBzOi8vY29tbXVuaXRpZXMubmV0YXBwLmNvbS93ZWxjb21lIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9InBhcmVudE5vIj4NCiAgICAgICAgQ29tbXVuaXRpZXMNCiAgICAgIDwvYT4NCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIA0KICAgICAgPGEgaHJlZj0iaHR0cHM6Ly90ZWNoLm5ldGFwcC5jb20vIiB0YXJnZXQ9Il9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPg0KICAgICAgICBUZWNoTmV0DQogICAgICA8L2E+DQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KICA8L3VsPg0KICANCjwvbGk+ICAgICAgICAgICAgDQogICAgICAgICAgPC91bD4NCiAgICAgICAgPC9saT4NCiAgICAgICAgDQogICAgICAgIA0KICAgICAgPC91bD4NCiAgICANCg0KICANCiAgICANCg0KICANCiAgPC9zZWN0aW9uPmQCBA9kFgICAQ8WAh8CBQh0YWIgdGFiNRYCZg8VAZ81DQogIDxzZWN0aW9uIHJvbGU9Imdyb3VwIj4NCiAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9jb21wYW55L2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiIgY2xhc3M9InRhYlRleHQiPjxoMT4NCiAgICAgICAgICBDb21wYW55DQogICAgICAgIDwvaDE+PC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgDQogICAgDQogICAgICA8dWwgY2xhc3M9ImNvbHVtbnMgY291bnQ1IiBpZD0iIj4NCiAgICAgICAgPGxpPg0KICAgICAgICAgIDx1bCBjbGFzcz0iY29sdW1uc0NvbnRhaW5lciI+DQogICAgICAgICAgICANCiAgICAgICAgICAgIDxsaSBjbGFzcz0iY29sdW1uIj4NCiAgDQoNCg0KICANCg0KICA8dWw+DQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9jb21wYW55L291ci1zdG9yeS9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiIGNsYXNzPSJwYXJlbnRZZXMiPk91ciBTdG9yeTwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIA0KICAgICAgPGEgaHJlZj0iaHR0cDovL2ludmVzdG9ycy5uZXRhcHAuY29tLyIgdGFyZ2V0PSJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj4NCiAgICAgICAgRmluYW5jaWFsIEluZm9ybWF0aW9uDQogICAgICA8L2E+DQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICANCiAgICAgIDxhIGhyZWY9Imh0dHA6Ly9pbnZlc3RvcnMubmV0YXBwLmNvbS9tYW5hZ2VtZW50LmNmbSIgdGFyZ2V0PSJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj4NCiAgICAgICAgTWFuYWdlbWVudA0KICAgICAgPC9hPg0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL2NvbXBhbnkvb3VyLXN0b3J5L2N1c3RvbWVyLXNob3djYXNlL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj5DdXN0b21lciBTaG93Y2FzZTwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9jb21wYW55L291ci1zdG9yeS9jb3JwLWNpdGl6ZW4vaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPkdsb2JhbCBDb3Jwb3JhdGUgQ2l0aXplbnNoaXA8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvY29tcGFueS9vdXItc3RvcnkvaW5ub3ZhdGlvbi1hd2FyZHMvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPklubm92YXRpb24gQXdhcmRzPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL2NvbXBhbnkvb3VyLXN0b3J5L3N1c3RhaW5hYmlsaXR5L2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj5TdXN0YWluYWJpbGl0eSBhdCBOZXRBcHA8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvY29tcGFueS9vdXItc3RvcnkvZWJjL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj5FeGVjdXRpdmUgQnJpZWZpbmcgQ2VudGVyPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCiAgPC91bD4NCiAgDQo8L2xpPiAgICAgICAgICAgIA0KICAgICAgICAgICAgPGxpIGNsYXNzPSJjb2x1bW4iPg0KICANCg0KDQogIA0KDQogIDx1bD4NCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL2NvbXBhbnkvbGVhZGVyc2hpcC9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiIGNsYXNzPSJwYXJlbnRZZXMiPlRob3VnaHQgTGVhZGVyc2hpcDwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9zb2x1dGlvbnMvYmlnLWRhdGEvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPkJpZyBEYXRhPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL2NvbXBhbnkvbGVhZGVyc2hpcC9lZmZpY2llbnQtaXQvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPkVmZmljaWVudCBJVDwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9jb21wYW55L2xlYWRlcnNoaXAvZmxleGlibGUtaXQvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPkZsZXhpYmxlIElUPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL2NvbXBhbnkvbGVhZGVyc2hpcC9hZHZhbmNlZC10ZWNobm9sb2d5L2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj5BZHZhbmNlZCBUZWNobm9sb2d5IEdyb3VwPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL2NvbXBhbnkvbGVhZGVyc2hpcC9pbmR1c3RyeS1zdGFuZGFyZHMvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPkluZHVzdHJ5IFN0YW5kYXJkcyAmYW1wOyBBc3NvY2lhdGlvbnM8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvY29tcGFueS9sZWFkZXJzaGlwL2FjYWRlbWljLWFsbGlhbmNlcy9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiIGNsYXNzPSJwYXJlbnRObyI+QWNhZGVtaWMgQWxsaWFuY2VzPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCiAgPC91bD4NCiAgDQo8L2xpPiAgICAgICAgICAgIA0KICAgICAgICAgICAgPGxpIGNsYXNzPSJjb2x1bW4iPg0KICANCg0KDQogIA0KDQogIDx1bD4NCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL2NvbXBhbnkvbmV3cy9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiIGNsYXNzPSJwYXJlbnRZZXMiPk5ld3NATmV0QXBwPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgDQogICAgICA8YSBocmVmPSIvdXMvY29tcGFueS9uZXdzL3ByZXNzLXJlbGVhc2VzLmFzcHgiIHRhcmdldD0iX3NlbGYiIGNsYXNzPSJwYXJlbnRObyI+DQogICAgICAgIFByZXNzIFJlbGVhc2VzDQogICAgICA8L2E+DQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9jb21wYW55L25ld3MvcHJlc3MtY292ZXJhZ2UuYXNweCIgdGFyZ2V0PSJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj4NCiAgICAgICAgUHJlc3MgQ292ZXJhZ2UNCiAgICAgIDwvYT4NCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL2NvbXBhbnkvbmV3cy9hd2FyZHMuYXNweCIgdGFyZ2V0PSJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj4NCiAgICAgICAgQXdhcmRzDQogICAgICA8L2E+DQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9jb21wYW55L25ld3MvZXhlY3V0aXZlLWJpb3MuYXNweCIgdGFyZ2V0PSJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj4NCiAgICAgICAgRXhlY3V0aXZlIEJpb3MNCiAgICAgIDwvYT4NCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9jb21wYW55L25ld3MvcHJvZHVjdC1waG90b3MuYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPkltYWdlIExpYnJhcnk8L2E+ICAgICAgDQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9saWJyYXJ5Lz9kb2NUeXBlPWFyIiB0YXJnZXQ9Il9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPg0KICAgICAgICBBbmFseXN0IFJlcG9ydHMNCiAgICAgIDwvYT4NCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQogIDwvdWw+DQogIA0KPC9saT4gICAgICAgICAgICANCiAgICAgICAgICAgIDxsaSBjbGFzcz0iY29sdW1uIj4NCiAgDQoNCg0KICANCg0KICA8dWw+DQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIA0KICAgICAgPGEgaHJlZj0iaHR0cDovL2ludmVzdG9ycy5uZXRhcHAuY29tLyIgdGFyZ2V0PSJfc2VsZiIgY2xhc3M9InBhcmVudFllcyI+DQogICAgICAgIEludmVzdG9ycw0KICAgICAgPC9hPg0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgDQogICAgICA8YSBocmVmPSJodHRwOi8vaW52ZXN0b3JzLm5ldGFwcC5jb20vZXNzZW50aWFscy5jZm0iIHRhcmdldD0iX3NlbGYiIGNsYXNzPSJwYXJlbnRObyI+DQogICAgICAgIEVzc2VudGlhbHMNCiAgICAgIDwvYT4NCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIA0KICAgICAgPGEgaHJlZj0iaHR0cDovL2ludmVzdG9ycy5uZXRhcHAuY29tL2ZpbmFuY2lhbF9jZW50ZXIuY2ZtIiB0YXJnZXQ9Il9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPg0KICAgICAgICBGaW5hbmNpYWwgQ2VudGVyDQogICAgICA8L2E+DQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICANCiAgICAgIDxhIGhyZWY9Imh0dHA6Ly9pbnZlc3RvcnMubmV0YXBwLmNvbS9zdG9ja3F1b3RlLmNmbSIgdGFyZ2V0PSJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj4NCiAgICAgICAgU3RvY2sgSW5mb3JtYXRpb24NCiAgICAgIDwvYT4NCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIA0KICAgICAgPGEgaHJlZj0iaHR0cDovL2ludmVzdG9ycy5uZXRhcHAuY29tL2NvbnRhY3R1cy5jZm0iIHRhcmdldD0iX3NlbGYiIGNsYXNzPSJwYXJlbnRObyI+DQogICAgICAgIENvbnRhY3QgSW52ZXN0b3IgUmVsYXRpb25zDQogICAgICA8L2E+DQogICAgICANCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KICA8L3VsPg0KICANCjwvbGk+ICAgICAgICAgICAgDQogICAgICAgICAgICA8bGkgY2xhc3M9ImNvbHVtbiI+DQogIA0KDQoNCiAgDQoNCiAgPHVsPg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9jb21wYW55L2V2ZW50cy8iIHRhcmdldD0iX3NlbGYiIGNsYXNzPSJwYXJlbnRZZXMiPg0KICAgICAgICBFdmVudHMNCiAgICAgIDwvYT4NCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9jYXJlZXJzL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiIgY2xhc3M9InBhcmVudFllcyI+Q2FyZWVyczwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9jYXJlZXJzL2xpZmUvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPkxpZmUgYXQgTmV0QXBwPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL2NhcmVlcnMveW91ci1jYXJlZXIvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPllvdXIgQ2FyZWVyIGF0IE5ldEFwcDwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9jYXJlZXJzL3VuaXZlcnNpdHkvaW5kZXguYXNweCIgIHRhcmdldD0gIl9zZWxmIiBjbGFzcz0icGFyZW50Tm8iPlVuaXZlcnNpdHkgUmVjcnVpdGluZzwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQoNCiAgICA8bGk+DQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9jYXJlZXJzL2ZpbmQtam9iL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiIgY2xhc3M9InBhcmVudE5vIj5GaW5kIGEgSm9iPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCiAgPC91bD4NCiAgDQo8L2xpPiAgICAgICAgICAgIA0KICAgICAgICAgIDwvdWw+DQogICAgICAgIDwvbGk+DQogICAgICAgIA0KICAgICAgICANCiAgICAgIDwvdWw+DQogICAgDQoNCiAgDQogICAgDQoNCiAgDQogIDwvc2VjdGlvbj5kAgUPZBYCAgEPFgIfAgUIdGFiIHRhYjYWAmYPFQHhCw0KICA8c2VjdGlvbiByb2xlPSJncm91cCI+DQogICAgDQogICAgICA8YSBocmVmPSIvdXMvaG93LXRvLWJ1eS9pbmRleC5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiIGNsYXNzPSJ0YWJUZXh0Ij48aDE+DQogICAgICAgICAgSG93IHRvIEJ1eQ0KICAgICAgICA8L2gxPjwvYT4gICAgICANCiAgICAgIA0KICAgICAgDQogIA0KICAgIA0KICAgICAgPHVsIGNsYXNzPSJjb2x1bW5zIGNvdW50MiIgaWQ9IiI+DQogICAgICAgIDxsaT4NCiAgICAgICAgICA8dWwgY2xhc3M9ImNvbHVtbnNDb250YWluZXIiPg0KICAgICAgICAgICAgDQogICAgICAgICAgICA8bGkgY2xhc3M9ImNvbHVtbiI+DQogIA0KDQoNCiAgDQoNCiAgPHVsPg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICANCiAgICAgIDxhIGhyZWY9Ii91cy9ob3ctdG8tYnV5L2NvbnRyYWN0cy8iIHRhcmdldD0iX3NlbGYiIGNsYXNzPSJwYXJlbnRZZXMiPg0KICAgICAgICBVUyBQdWJsaWMgU2VjdG9yIENvbnRyYWN0cw0KICAgICAgPC9hPg0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL3BhcnRuZXJzL2UtYmFzZWQtb2Vtcy5hc3B4IiAgdGFyZ2V0PSAiX3NlbGYiIGNsYXNzPSJwYXJlbnRZZXMiPkUtQmFzZWQgT0VNIFBhcnRuZXJzPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgPGEgaHJlZj0iL3VzL2hvdy10by1idXkvbmV0YXBwLWNhcGl0YWwtc29sdXRpb25zL2luZGV4LmFzcHgiICB0YXJnZXQ9ICJfc2VsZiIgY2xhc3M9InBhcmVudFllcyI+TmV0QXBwIENhcGl0YWwgU29sdXRpb25zPC9hPiAgICAgIA0KICAgICAgDQogICAgICANCiAgICA8L2xpPg0KDQoNCiAgICANCiAgPC91bD4NCiAgDQo8L2xpPiAgICAgICAgICAgIA0KICAgICAgICAgICAgPGxpIGNsYXNzPSJjb2x1bW4iPg0KICANCg0KDQogIA0KDQogIDx1bD4NCiAgICANCg0KICAgIDxsaT4NCiAgICAgIA0KICAgICAgDQogICAgICANCiAgICAgIDxzcGFuIGNsYXNzPSJwYXJlbnRZZXMiPg0KICAgICAgICArMSA4NzcgMjYzIDgyNzcNCiAgICAgIDwvc3Bhbj4NCiAgICAgIA0KICAgIDwvbGk+DQoNCg0KICAgIA0KDQogICAgPGxpPg0KICAgICAgDQogICAgICANCiAgICAgIDxhIGhyZWY9Imh0dHA6Ly9zb2x1dGlvbmNvbm5lY3Rpb24ubmV0YXBwLmNvbS9VUy9Ob3J0aEFtZXJpY2EvUGFydG5lckRpcmVjdG9yeS5hc3B4IiB0YXJnZXQ9Il9zZWxmIiBjbGFzcz0icGFyZW50WWVzIj4NCiAgICAgICAgRmluZCBhIFBhcnRuZXINCiAgICAgIDwvYT4NCiAgICAgIA0KICAgICAgDQogICAgPC9saT4NCg0KDQogICAgDQogIDwvdWw+DQogIA0KPC9saT4gICAgICAgICAgICANCiAgICAgICAgICA8L3VsPg0KICAgICAgICA8L2xpPg0KICAgICAgICANCiAgICAgICAgDQogICAgICA8L3VsPg0KICAgIA0KDQogIA0KICAgIA0KDQogIA0KICA8L3NlY3Rpb24+ZAIND2QWAgIBD2QWAgIDD2QWAmYPZBYCAgEPFgIfAQIBFgJmD2QWAmYPFQHYBQ0KDQogIA0KICA8bGkgY2xhc3M9InJlcGxhY2UiPg0KICAgIDxhIGNsYXNzPSJzbWFsbC10d2l0dGVyIg0KICAgICAgIGRhdGEtbnRhcC1zb2NpYWw9InNoYXJlLXR3aXR0ZXIiDQogICAgICAgaHJlZj0iIyINCiAgICAgICB0YXJnZXQ9Il9ibGFuayI+DQogICAgICB0d2l0dGVyDQogICAgPC9hPg0KICA8L2xpPg0KICANCiAgPGxpIGNsYXNzPSJyZXBsYWNlIj4NCiAgICA8YSBjbGFzcz0ic21hbGwtZmFjZWJvb2siDQogICAgICAgZGF0YS1udGFwLXNvY2lhbD0ic2hhcmUtZmFjZWJvb2siDQogICAgICAgaHJlZj0iIyINCiAgICAgICB0YXJnZXQ9Il9ibGFuayI+DQogICAgICBmYWNlYm9vaw0KICAgIDwvYT4NCiAgPC9saT4NCiAgDQogIDxsaSBjbGFzcz0icmVwbGFjZSI+DQogICAgPGEgY2xhc3M9InNtYWxsLWxpbmtlZGluIg0KICAgICAgIGRhdGEtbnRhcC1zb2NpYWw9InNoYXJlLWxpbmtlZGluIg0KICAgICAgIGhyZWY9IiMiDQogICAgICAgdGFyZ2V0PSJfYmxhbmsiPg0KICAgICAgbGlua2VkaW4NCiAgICA8L2E+DQogIDwvbGk+DQogIA0KICA8bGkgY2xhc3M9InJlcGxhY2UiPg0KICAgIDxhIGNsYXNzPSJzbWFsbC1nb29nbGUtcGx1cyINCiAgICAgICBkYXRhLW50YXAtc29jaWFsPSJzaGFyZS1nb29nbGUtcGx1cyINCiAgICAgICBocmVmPSIjIg0KICAgICAgIHRhcmdldD0iX2JsYW5rIj4NCiAgICAgIGdvb2dsZS1wbHVzDQogICAgPC9hPg0KICA8L2xpPg0KICANCg0KZGQCnPTIJ2t2PTQ/ezmeGS3oKi7hbA==">
 
   
     <!-- SITE_EDIT_INIT-->
@@ -535,103 +2218,184 @@
     </header>
     <div class="container1 wireBlock">
         <section role="group">
-                            <div style="width:68px;margin:18px 119px 0 0;float:right;">
-          <a target="_blank" href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;url=www.netapp.com&amp;sealid=102">
-            <img width="68" height="95" border="0" src="http://clix.netapp.com/media.netapp.com/images/truste_seal_ctv.gif" alt="TRUSTe CLICK TO VERIFY" style="border: 0px;">
+            <ul class="social small" data-ntap-ui="{'type' : 'socialIcons', {'options' : ''}}">
+    <li class="replace">
+        <a href="#" class="small-email addthis_button_email" target="_blank" title="E-mail" data-ntap-social="share-email">E-mail</a>
+    </li>
+    
+            
+
+  
+  <li class="replace">
+    <a class="small-twitter" data-ntap-social="share-twitter" href="#" target="_blank">
+      twitter
+    </a>
+  </li>
+  
+  <li class="replace">
+    <a class="small-facebook" data-ntap-social="share-facebook" href="#" target="_blank">
+      facebook
+    </a>
+  </li>
+  
+  <li class="replace">
+    <a class="small-linkedin" data-ntap-social="share-linkedin" href="#" target="_blank">
+      linkedin
+    </a>
+  </li>
+  
+  <li class="replace">
+    <a class="small-google-plus" data-ntap-social="share-google-plus" href="#" target="_blank">
+      google-plus
+    </a>
+  </li>
+  
+
+
+        
+</ul>
+                            <div style="width:206px;float:right;">
+          <a href="//privacy.truste.com/privacy-seal/NetApp/validation?rid=0b0bf955-888f-44df-a51a-34f153a641dc" title="TRUSTe European Safe Harbor certification" target="_blank">
+            <img src="//privacy-policy.truste.com/privacy-seal/NetApp/seal?rid=0b0bf955-888f-44df-a51a-34f153a641dc" alt="TRUSTe European Safe Harbor certification">
           </a>
         </div>
-					<h2 class="fontLarge">Last Updated December 7, 2009</h2>
-					<div style="padding-top: 10px;float:none;" class="regularList">
-						<ul>
+					<h2>Last Updated January 1, 2014</h2>
+					<div style="padding-top: 10px;float:none;">
+						<ul class="linkList">
+							<li><a href="#commitment">NetApp Commitment to Data Privacy Protection</a></li>
+							<li><a href="#personaldata">Personal data</a></li>
+							<li><a href="#purposeofuse">Purpose of Use</a></li>
 							<li><a href="#information">Information That We Collect and Use</a></li>
-							<li><a href="#internal">Internal Company Directory</a></li>
-							<li><a href="#thirdyparty">Third-Party Technical Support</a></li>
-							<li><a href="#tellafriend">Tell a Friend, Import Contacts</a></li>
-							<li><a href="#logfiles">Log Files</a></li>
-							<li><a href="#propensity">Cookies</a></li>
-							<li><a href="#cleargifs">Clear Gifs (Web Beacons, Web Bugs)</a></li>
-							<li><a href="#legal">Legal Disclaimer</a></li>
-							<li><a href="#links">Links to Other Sites</a></li>
+							<li><a href="#limitation">Purpose Limitation</a></li>
+							<li><a href="#communications">Communications or Utilization Data</a></li>
+							<li><a href="#nonpersonaldata">Non-Personal Data Collected Automatically</a></li>
+							<li><a href="#cookies">"Cookies" - Information Stored Automatically on Your Computer</a></li>
+							<li><a href="#gifs">Clear Gifs (Web Beacons, Web Bugs)</a></li>
+							<li><a href="#children">Children</a></li>
 							<li><a href="#security">Security</a></li>
-							<li><a href="#changes">Changes to This Privacy Policy</a></li>
-							<li><a href="#contact">Contact Us</a></li>
+							<li><a href="#links">Links to Other Web Sites</a></li>
+							<li><a href="#datasecurity">Data Security Breaches</a></li>
+							<li><a href="#right">Right to Be Forgotten</a></li>
+							<li><a href="#track">Do Not Track</a></li>
+							<li><a href="#questions">Questions and Comments</a></li>
 						</ul>
 					</div>
-					<p>This privacy policy tells you about NetApp’s policies and practices for the collection, use, processing, storage, and disclosure of information that we collect about you through our sites and services, including the Web site <a href="http://www.netapp.com">www.netapp.com</a>. Before using our sites and services, you will be asked to provide your authorization and consent, agreeing to the terms of this privacy policy and consenting to the processing of information about you as described here. The collection, use, storage, and disclosure of your personal data will be strictly limited to the terms for which you provide your authorization. For the purpose of this policy, the reference to personal data includes the term “personally identifiable information.”</p>
-					<p>NetApp complies with the EU Safe Harbor framework as set forth by the Department of Commerce and is a licensee of the TRUSTe Privacy Program. The TRUSTe program covers only information that is collected through the NetApp Web site , and does not cover information that may be collected through any software downloaded from this Web site.</p>
-					<p>Additionally, NetApp is committed to full compliance with all relevant country-specific data privacy laws, which include unambiguous authorizations and consents, model contracts, privacy principles, privacy statements, privacy policies, and country-specific registrations and filings. This privacy policy covers the Web site <a href="http://www.netapp.com">www.netapp.com</a>.</p>
-					<p>If you have questions or concerns regarding this policy, please contact NetApp at <a href="mailto:privacy@netapp.com">privacy@netapp.com</a>. If you do not receive acknowledgement of your inquiry within 7 business days, contact TRUSTe at <a href="http://watchdog.truste.com/pvr.php?page=complaint&amp;url" target="_blank">watchdog.truste.com/pvr.php?page=complaint&amp;url</a>. TRUSTe will then serve as a liaison with us to resolve your concerns and is under obligation to respect and protect your privacy. This obligation is consistent and compliant with all applicable privacy laws that protect your privacy.</p>
-					<p><strong>Information That We Collect and Use</strong>
-						<a id="information" name="information">&nbsp;</a>
+					<p><a name="commitment" id="commitment"><strong>NetApp Commitment to Data Privacy Protection</strong></a>
 						<br>
-We collect personal information from you when you register with the NOW™ (NetApp on the Web) site and when you request information from us about product and services. Registration with NOW gives you access to our support site, online communities, NetApp® Field Portal, and NetApp University, depending on your interests and level of authorization. Examples of personal information are name, address, telephone number, e-mail address, company name, and so on. For a complete list of all data elements that we collect and the use of those data elements, contact us at <a href="mailto:privacy@netapp.com">privacy@netapp.com</a>.</p>
-					<p>We collect personal data about those who communicate with us such as e-mail address, user-specific information on what pages visitors access or visit, and information volunteered by the visitor, such as survey information and site registrations. This information is used to personalize our communications with you about products that are specific to your needs and interests. Rather than burden you with information that is not relevant or of interest to you, we try to target information that is specifically important to you. No personal data is collected, used, accessed, stored, or distributed without your explicit authorization. At any time, even after you have given authorization, you can opt out of receiving these communications by contacting us at <a href="mailto:privacy@netapp.com">privacy@netapp.com</a>.</p>
-					<p>We use the information that we collect to improve the content of our Web pages by incorporating information that is relevant to our clients, to notify customers about updates to our Web site, to contact customers for marketing purposes that are related specifically to their needs and interests, and to track applicants for career opportunities. This information is not shared with other organizations for any reason, commercial or business, without your prior explicit consent.</p>
-					<p>If you browse and/or apply for jobs in the Careers portion of our Web site, your application and any additional information that you provide may be used to assess your skills and interests against career opportunities at NetApp, and for reporting purposes as may be required by U.S. law. This usage is covered in the initial authorization that you provide to NetApp. When you access our Applicant Tracking System, you are asked to provide your authorization for us to collect, use, process, store, and distribute your personal data before you enter any personal data. We use your information to communicate with you and to inform you of career opportunities.</p>
-					<p>NetApp does use third-party entities to provide valuable services on our behalf. To provide these services to you, we need your explicit consent to share your personal data with them. Third parties with which we share your information are bound by all relevant data privacy laws, terms of confidentiality, and this privacy policy. For a complete list of these third parties and the services they provide, contact us at <a href="mailto:privacy@netapp.com">privacy@netapp.com</a>.</p>
-					<p>NetApp supplements the data it collects with additional data received from third-party sources, by using data append services. The additional supplemental data consists of contact, company, and industry data, as well as title, department, address, phone number, and updated e-mail addresses. For additional information about supplemental data and the third-party sources, contact us at <a href="mailto:privacy@netapp.com">privacy@netapp.com</a>.</p>
-					<p>The company does not share, sell, rent, or trade personal data with third parties for their promotional purposes or for any purposes without your explicit consent.</p>
-					<p>If you do not want to receive e-mail from us in the future, go to the NetApp subscription center to unsubscribe or to update your subscription preferences: <a href="/us/forms/sp-update.aspx">www.netapp.com/us/forms/sp-update.html</a>. NetApp follows the country-specific requirements to implement the opt-out within the legally allowed time period.</p>
+NetApp is committed to compliance with all applicable country-specific data privacy laws. Protecting the privacy and security of your Personal Data is of the highest importance to NetApp; therefore, we conduct our business by abiding by applicable laws on data privacy and data security.</p>
+					<p>This Privacy Policy tells you about NetApp’s policies and practices for the collection, use, processing, storage, transfer, and disclosure of information that we may collect about you through our sites and services, including, but not limited to the Web site or subdomains of <a href="http://www.netapp.com">www.netapp.com</a>, (e.g. our Communities site, Training site, and Support site). Before using our sites and services, you will be asked to provide your authorization and consent, agreeing to the terms of this Privacy Policy and consenting to the processing of information about you as described here and in compliance with relevant data protection laws. The collection, use, storage, transfer and disclosure of your Personal Data will be strictly limited to the terms for which you provide your authorization. For the purpose of this policy, the reference to Personal Data includes the term “personally identifiable information.”</p>
+					<p>NetApp complies with the EU-US Safe Harbor framework as set forth by the Department of Commerce and is a licensee of the TRUSTe Privacy Program. The TRUSTe program covers only information that is collected through the NetApp Web site, and does not cover information that may be collected through any software downloaded from this Web site. NetApp reaffirms our commitment to Safe Harbor on an annual basis.</p>
+					<p>Additionally, NetApp does not rely strictly on the EU-US Safe Harbor certification. We are committed to compliance with all relevant country-specific data privacy laws, which includes the implementation of unambiguous authorizations and consents, EU Standard Contractual Clauses, model contracts/transfer agreements, privacy principles, privacy statements, privacy policies, country-specific registrations and filings, and Binding Corporate Rules (BCRs). This privacy policy covers the Web site <a href="http://www.netapp.com">www.netapp.com</a>, and all other applicable NetApp Sites</p>
+					<p><a class="invisible" name="personaldata" id="personaldata">
+		</a><strong>Personal data</strong>
+						<br>
+Through our Web sites, NetApp will not collect any Personal Data about you (e.g. your name, address, telephone number or e-mail address), unless you voluntarily choose to provide us with it (e.g. by registration, survey, contest participation), provide your explicit consent, or unless otherwise permitted by applicable laws and regulations for the protection of your Personal Data.</p>
+					<p><a class="invisible" name="purposeofuse" id="purposeofuse">
+		</a><strong>Purpose of Use</strong>
+						<br>
+When you do voluntarily provide us with Personal Data, we will use it to respond to your inquiry, process your orders, register you for an event, provide information related to NetApp products, services and events, management of your Community, Support and/or NOW accounts, offer you the opportunity to participate in surveys and contests, register for NetApp training courses, or provide you access to additional information or offers. Also, to support our customer relationship with you:</p>
+					<ul>
+						<li>we may store and process Personal Data and share it with our worldwide affiliates to better understand your business needs and how we can improve our products and services; or</li>
+						<li>we (or a third party on our behalf) may use Personal Data to contact you about a NetApp offer in support of your business needs or to conduct online surveys to understand better our customers' needs.</li>
+					</ul>
+					<p>If you choose not to have your Personal Data used to support our customer relationship (especially direct marketing or market research), we will respect your choice. We do not sell or otherwise market your Personal Data to third parties, except to NetApp affiliates.</p>
+					<p><a class="invisible" name="information" id="information">
+		</a>
+						<strong>Information That We Collect and Use</strong>
+						<br>
+We collect personal information from you when you register with NetApp. Examples of personal information are name, address, telephone number, e-mail address, company name, position and any other contact details you willingly provide to us. For a complete list of all data elements that we collect and the use of those data elements, contact us at <a href="mailto:privacy@netapp.com">privacy@netapp.com</a>.</p>
+					<p>We collect Personal Data about those who communicate with us such as e-mail address, user-specific information on what pages visitors access or visit, and information volunteered by the visitor, such as survey information and site registrations. This information is used to personalize our communications with you about products that are specific to your needs and interests. Rather than burden you with information that is not relevant or of interest to you, we try to target information that is specifically important to you. No Personal Data is collected, used, accessed, stored, transferred or distributed without your explicit authorization. At any time, even after you have given authorization, you can opt out of receiving these communications by contacting us at <a href="mailto:privacy@netapp.com">privacy@netapp.com</a> or by clicking on our “Unsubscribe” link.</p>
+					<p>We use the information that we collect to improve the content of our Web pages by incorporating information that is relevant to our clients, to notify customers about updates to our Web site, to contact customers for marketing and sales purposes (including notifications related to product enhancements, warranties, and renewals) that are related specifically to their needs and interests, to track applicants for career opportunities, and to communicate with our partners. This information is not shared with other organizations for any reason, commercial or business, without your prior explicit consent.</p>
+					<p>If you browse and/or apply for jobs in the Careers portion of our Web site, your application and any additional information that you provide may be used to assess your skills and interests against career opportunities at NetApp, and for reporting purposes as may be required by U.S. law or country-specific laws. This usage is covered in the initial authorization that you provide to NetApp. When you access our Applicant Tracking System, you are asked to provide your authorization for us to collect, use, process, store, transfer and distribute your Personal Data before you enter any Personal Data. We use your information to communicate with you and to inform you of career opportunities.
+<br>
+NetApp does use third-party entities to provide valuable services on our behalf. To provide these services to you, we need your explicit consent to share your Personal Data with them. Third parties with which we share your information are bound by all relevant data privacy laws, terms of confidentiality, and this Privacy Policy. All of our approved third party providers go through an extensive data protection compliance vetting process before being selected as a third party provider. For a complete list of these third parties and the services they provide, contact us at <a href="mailto:privacy@netapp.com">privacy@netapp.com</a>.</p>
+					<p>NetApp supplements the data it collects with additional data received from third-party sources, by using data append services or data brokers. The additional supplemental data consists of contact, company, and industry data, as well as title, department, address, phone number, and updated e-mail addresses. When using the information provider through these services, we will contact you via email to obtain either your explicit opt-in to continue marketing to you, or your explicit opt-out to remove you from our contact database, depending on the applicable data privacy regulation. For additional information about supplemental data and the third-party sources, contact us at <a href="mailto:privacy@netapp.com">privacy@netapp.com</a>.</p>
+					<p>The company does not share, sell, rent, or trade Personal Data with third parties for their promotional purposes or for any purposes without your explicit consent.
+<br>
+If you do not want to receive e-mails from us in the future, go to the NetApp subscription center to unsubscribe or to update your subscription preferences: <a href="http://www.netapp.com/us/forms/sp-update.aspx">www.netapp.com/us/forms/sp-update.html</a>, or you may contact privacy@netapp.com. NetApp follows the country-specific requirements to implement the opt-out within the legally allowed time period.</p>
 					<p>NetApp also offers a partial opt-out option. This option allows you to choose the data elements you want to provide and those you do not. For more information about opting out of providing certain data elements, contact us at <a href="mailto:privacy@netapp.com">privacy@netapp.com</a>.</p>
-					<p>If you supply us with your postal address online, as well as your consent, you may receive periodic mailings from us with information about new products and services or upcoming events. If you do not want to receive such mailings at any point after your consent has been given, let us know by writing to us at the postal address at the end of this document or by going to <a href="/us/forms/sp-update.aspx">www.netapp.com/us/forms/sp-update.html</a>. Send us your name and address and we will remove your name from all lists that we use internally and/or share with other noncommercial organizations. NetApp follows the country-specific requirements to implement the opt-out within the legally allowed time periods.</p>
-					<p>If you give us your telephone number online, and provide consent, you may receive telephone calls from us with information about new products and services or upcoming events. If you do not want to receive such telephone calls at any point after giving your consent, contact us at <a href="mailto:privacy@netapp.com">privacy@netapp.com</a>, write to us at the postal address at the end of this document, or go to <a href="/us/forms/sp-update.aspx">www.netapp.com/us/forms/sp-update.html</a>. Send us your name and phone number and we will remove your name from all lists that we use internally and/or share with other noncommercial organizations. NetApp follows the country-specific requirements to implement the opt-out within the legally allowed time periods.</p>
-					<p>We do not partner with or have special relationships with any ad server companies.</p>
-					<p>Customers and applicants can prevent their information from being used for purposes other than those for which it was originally collected and for which consent was given by contacting us at <a href="mailto:privacy@netapp.com">privacy@netapp.com</a> or by going to <a href="/us/forms/site-feedback.html">www.netapp.com/us/forms/site-feedback.html</a>.</p>
-					<p>Upon request, NetApp offers visitors the ability to have their information deleted or corrected for inaccuracies. To have your information corrected, contact us at <a href="mailto:privacy@netapp.com">privacy@netapp.com</a>, write to us at the address at the end of this document, or go to <a href="/us/forms/site-feedback.html">www.netapp.com/us/forms/site-feedback.html</a>. We will respond to your request within the country-specific time frames, which can range from 5 to 30 business days.</p>
-					<p>If you use communities, blogs, or chat rooms on NetApp Web sites, you should be aware that any personally identifiable information you submit there can be read, collected, and used by other users of these forums, and could be used to send you unsolicited messages. NetApp is not responsible for the personally identifiable information that you choose to submit in these forums, unless it was released by NetApp without your consent.</p>
+					<p>If you supply us with your postal address online, as well as your consent, you may receive periodic mailings from us with information about new products and services or upcoming events. If you do not want to receive such mailings at any point after your consent has been given, contact us at <a href="mailto:privacy@netapp.com">privacy@netapp.com</a>, write to us at the postal address at the end of this document, or go to <a href="http://www.netapp.com/us/forms/sp-update.aspx">www.netapp.com/us/forms/sp-update.html</a>. Send us your name and address and we will remove your name from all lists that we use internally and/or share with other noncommercial organizations. NetApp follows the country-specific requirements to implement the opt-out within the legally allowed time periods.
+<br>
+If you give us your telephone number online, and provide consent, you may receive telephone calls from us with information about new products and services or upcoming events. If you do not want to receive such telephone calls at any point after giving your consent, contact us at <a href="mailto:privacy@netapp.com">privacy@netapp.com</a>, write to us at the postal address at the end of this document, or go to <a href="http://www.netapp.com/us/forms/sp-update.aspx">www.netapp.com/us/forms/sp-update.html</a>. Send us your name and phone number and we will remove your name from all lists that we use internally and/or share with other noncommercial organizations. NetApp follows the country-specific requirements to implement the opt-out within the legally allowed time periods.
+<br>
+We do not partner with or have special relationships with any ad server companies.</p>
+					<p>Customers and applicants can prevent their information from being used for purposes other than those for which it was originally collected and for which consent was given by contacting us at <a href="mailto:privacy@netapp.com">privacy@netapp.com</a> or by going to <a href="http://www.netapp.com/us/forms/site-feedback.html">www.netapp.com/us/forms/site-feedback.html</a>.</p>
+					<p>Upon request, NetApp offers visitors the ability to have their information deleted or corrected for inaccuracies. To have your information corrected, contact us at <a href="mailto:privacy@netapp.com">privacy@netapp.com</a>, write to us at the address at the end of this document, or go to <a href="http://www.netapp.com/us/forms/site-feedback.html">www.netapp.com/us/forms/site-feedback.html</a>. We will respond to your request within the country-specific time frames, which can range from 5 to 30 business days.</p>
+					<p>If you use communities, blogs, or chat rooms on NetApp Web sites, you should be aware that any Personal Data you submit there can be read, collected, and used by other users of these forums, and could be used to send you unsolicited messages. NetApp is not responsible for the Personal Data that you choose to submit in these forums, unless it was released by NetApp without your consent.</p>
 					<p>For each visitor to our Web page, our Web server automatically recognizes only the visitor's domain name, but not the e-mail address.</p>
-					<p><strong>Internal Company Directory</strong>
-						<a id="internal" name="internal">&nbsp;</a>
+					<p><a class="invisible" name="limitation" id="limitation">
+		</a>
+						<strong>Purpose Limitation</strong>
 						<br>
-On our support site, users can access an internal company directory of all individuals in their organization. Users can opt out of being part of this directory by contacting us at <a href="mailto:privacy@netapp.com">privacy@netapp.com</a>. If you would like a testimonial posted in the directory, please indicate whether or not you want your personal data to appear with the testimonial.</p>
-					<p><strong>Third-Party Technical Support</strong>
-						<a id="thirdyparty" name="thirdyparty">&nbsp;</a>
+NetApp will collect, use or disclose Personal Data supplied by you online only for the purposes disclosed to you, unless the disclosure:</p>
+					<ul>
+						<li>is a use of the Personal Data for any additional purpose that is directly related to the original purpose for which the Personal Data was collected</li>
+						<li>is necessary to prepare, negotiate and perform a contract with you</li>
+						<li>is required by law or the competent governmental or judicial authorities</li>
+						<li>is necessary to establish or preserve a legal claim or defense</li>
+						<li>is necessary to prevent fraud or other illegal activities, such as willful attacks on NetApp information technology systems.</li>
+					</ul>
+					<p><a class="invisible" name="communications" id="communications">
+		</a>
+						<strong>Communications or Utilization Data</strong>
 						<br>
-NetApp uses the services of third parties to provide technical support services, including customer and field support. IBM Global Services and other third parties provide these services, based on the customer’s specific requirements. For a complete list of our third-party providers, contact <a href="mailto:privacy@netapp.com">privacy@netapp.com</a>. Per our terms and agreements, all third-party providers are required to comply with all relevant country-specific data privacy laws.</p>
-					<p><strong>Tell a Friend, Import Contacts</strong>
-						<a id="tellafriend" name="tellafriend">&nbsp;</a>
+Through your use of telecommunications services to access our Web site, your communications data (e.g. Internet protocol address) or utilization data (e.g. information on the beginning, end and extent of each access, and information on the telecommunications services you accessed) are technically generated and could conceivably relate to Personal Data. To the extent that there is a compelling necessity, the collection, processing and use of your communications or utilization data will occur and will be performed in accordance with the applicable data privacy protection legal framework.</p>
+					<p><strong>Non-Personal Data Collected Automatically</strong>
 						<br>
-If you choose to use our referral service to tell a friend about our site, we ask you for your friend’s name and e-mail address. You may supply that information only if you have the consent of the individual whose name and e-mail address you are providing. (NetApp highly recommends that you provide your friend with our contact information and ask that they contact us directly.) NetApp automatically sends your friend a one-time e-mail message inviting him or her to visit the site. We do not store this information. We also use a service provider, Clickability, through which you can sign up, add contacts, import addresses, and send e-mails. This information is not collected by NetApp or by the service provider.</p>
-					<p><strong>Log Files</strong>
-						<a id="logfiles" name="logfiles">&nbsp;</a>
+When you access our Web sites, we may automatically (i.e., not by registration) collect non-Personal Data (e.g. type of Internet browser and operating system used, domain name of the Web site from which you came, number of visits, average time spent on the site, pages viewed). We may use this data and share it with our worldwide affiliates to monitor the relevancy of our Web sites and improve their performance or content.</p>
+					<p><a class="invisible" name="cookies" id="cookies">
+		</a>
+						<strong>"Cookies" - Information Stored Automatically on Your Computer</strong>
 						<br>
-As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring and exit pages, operating system, date and time stamp, and clickstream data. This data is not considered personal data because it does not identify individual users. We use this information to analyze trends, to administer the site, to track users’ movements around the site, and to gather demographic information about our user base as a whole.</p>
-					<p><strong>Cookies</strong>
-						<a id="propensity" name="propensity">&nbsp;</a>
+Propensity management is the management of an individual’s inclination or natural tendency toward certain interests, products, needs, and so on. In order to tailor our communications with you to make sure that we are addressing your specific needs and not overwhelming you with unwanted information, we use cookies to handle propensity management. A cookie is a piece of information that is stored on your computer's hard drive by your Web browser. When you revisit <a href="http://www.netapp.com">www.netapp.com</a>, our server recognizes the cookie, giving us information about your last visit. Most browsers accept cookies automatically, but you can alter the settings of your browser to prevent automatic acceptance. If you choose not to receive cookies, you can still use most of the features of our Web site, including ordering items.</p>
+					<p>This privacy statement covers the use of propensity management by this site only and does not cover the use of propensity management by any advertisers. We work with companies, such as Adobe, that use third-party cookies and Web beacons to collect anonymous information that helps us measure and improve our content and advertising effectiveness. Adobe collects and analyzes anonymous usage and volume statistical information from our users. This data is collected only in aggregate form.</p>
+					<p>NetApp complies with all global regulations regarding the use of cookies, including the EU Cookie Directive. Visitors to our site are asked to provide their consent before we place any cookies on your device. For detailed information regarding NetApp’s use of cookies, please refer to the NetApp Cookie Policy {insert a link to the policy}</p>
+					<p><a class="invisible" name="gifs" id="gifs">
+		</a>
+						<strong>Clear Gifs (Web Beacons, Web Bugs)</strong>
+						<a class="invisible" name="cleargifs" id="cleargifs">
+		</a>
 						<br>
-Propensity management is the management of an individual’s inclination or natural tendency toward certain interests, products, needs, and so on. In order to tailor our communications with you to make sure that we are addressing your specific needs and not overwhelming you with unwanted information, we use cookies to handle propensity management. A cookie is a piece of information that is stored on your computer's hard drive by your Web browser. When you revisit <a href="http://www.netapp.com">www.netapp.com</a>, our server recognizes the cookie, giving us information about your last visit. Most browsers accept cookies automatically, but you can alter the settings of your browser to prevent automatic acceptance. If you choose not to receive cookies, you can still use most of the features of our Web site, including purchasing items.</p>
-					<p>This privacy statement covers the use of propensity management by this site only and does not cover the use of propensity management by any advertisers. We work with companies, such as Omniture, that use third-party cookies and Web beacons to collect anonymous information that helps us measure and improve our content and advertising effectiveness. Omniture collects and analyzes anonymous usage and volume statistical information from our users. This data is collected only in aggregate form.</p>
-					<p id="cookieInfo" style="display:none;"><span>To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit <a href="http://www.allaboutcookies.org" target="_blank">www.allaboutcookies.org</a>. You agreed to accepting cookies from NetApp on</span>
-						<span id="cookieInfoDay">day</span>
-						<span id="cookieInfoMonth">Month</span>, <span id="cookieInfoYear">year</span>.</p>
-					<p><strong>Clear Gifs (Web Beacons, Web Bugs)</strong>
-						<a id="cleargifs" name="cleargifs">&nbsp;</a>
+We employ a software technology called <em>clear gifs</em> (also known as Web beacons or Web bugs) that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies that are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs, which are about the size of a period, are embedded invisibly on Web pages. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. For detailed information regarding NetApp’s use of Clear Gifs, please refer to the NetApp Cookie Policy {insert a link to the policy}</p>
+					<p><a class="invisible" name="children" id="children">
+		</a>
+						<strong>Children</strong>
 						<br>
-We employ a software technology called <em>clear gifs</em> (also known as Web beacons or Web bugs) that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, that are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs, which are about the size of a period, are embedded invisibly on Web pages. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.</p>
-					<p><strong>Legal Disclaimer</strong>
-						<a id="legal" name="legal">&nbsp;</a>
+NetApp will not knowingly collect Personal Data from children without insisting that they seek prior parental consent if required by applicable law. We will only use or disclose Personal Data about a child to the extent permitted by law, to seek parental consent pursuant to local law and regulations or to protect a child. The definition of "child" or "children" should take into account applicable laws as well as national and regional cultural customs.</p>
+					<p><a class="invisible" name="security" id="security">
+		</a>
+						<strong>Security</strong>
 						<br>
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our legal rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.</p>
-					<p>We use third parties to provide services on our site such as an e-mail service providers, Web content delivery providers, chat providers, community platform providers, Web employment opportunity providers, product training providers, and sales lead tracking providers. When you sign up for these services, we share your personal information with the third party as necessary to provide that service. For a complete list of these service providers and the services they perform on behalf of NetApp, contact us at <a href="mailto:privacy@netapp.com">privacy@netapp.com</a>.</p>
-					<p>These third parties are prohibited from using your personally identifiable information for any other purpose.</p>
-					<p><strong>Links to Other Sites</strong>
-						<a id="links" name="links">&nbsp;</a>
+To protect your Personal Data against accidental or unlawful destruction, loss or alteration and against unauthorized disclosure or access, NetApp uses technical and organizational security measures.</p>
+					<p><a class="invisible" name="links" id="links">
+		</a>
+						<strong>Links to Other Web Sites</strong>
 						<br>
-NetApp Web sites contain links to other sites that are not owned or controlled by NetApp. Although we do not share your personal data with these other sites, we are not responsible for the privacy practices of such other sites.</p>
-					<p>This privacy statement applies only to information collected by NetApp Web sites.</p>
-					<p><strong>Security</strong>
-						<a id="security" name="security">&nbsp;</a>
+NetApp Web sites contain links to other Web sites. NetApp is not responsible for the privacy practices or the content of other Web sites.</p>
+					<p><a class="invisible" name="datasecurity" id="datasecurity">
+		</a>
+						<strong>Data Security Breaches</strong>
 						<br>
-The security of your personal data is important to us. When you enter personal data on the NOW registration site, we encrypt that information by using secure socket layer (SSL) technology.</p>
-					<p>We follow generally accepted industry standards such as firewalls and encryption and data privacy legal requirements to protect the personal information submitted to us, both during transmission and after we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, although we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.</p>
-					<p><strong>Changes to This Privacy Policy</strong>
-						<a id="changes" name="changes">&nbsp;</a>
+To protect your Personal Data from unauthorized access and use, or accidental loss and destruction, NetApp has implemented strict security controls and intrusion detection software to notify us in the case of any potential or actual invasion of our systems. We have implemented a Data Breach Notification Policy and Remediation Plan and have established an Incident Response Team that has been trained to react immediately to any unauthorized access of our databases and systems. Should any data security breach occur that negatively impacts your Personal Data, you will be notified as soon as possible once the breach has been determined.</p>
+					<p><a class="invisible" name="right" id="right">
+		</a>
+						<strong>Right to Be Forgotten</strong>
 						<br>
-We reserve the right to modify this privacy policy at any time, so please review it frequently. If we decide to change our privacy policy, we will post those changes to this privacy policy page, to the NetApp homepage, and to other places that we deem appropriate so that you are aware of what information we collect, how we use it, who has access to it, and under what circumstances, if any, we disclose it.</p>
-					<p><strong>Contact Us</strong>
-						<a id="contact" name="contact">&nbsp;</a>
+NetApp is committed to taking all reasonable steps necessary to ensure that any data you request to be forgotten and can be erased with existing technology will be done so. However, any data you post to our sites that you agree to make available to third parties or for which you make public, is outside the boundaries of which NetApp can erase. NetApp will do everything technically possible to erase your data if you feel it is being held for longer than needed or if you withdraw your consent to receive information from us and request the right to be forgotten. However, NetApp will not be able to erase your data if:</p>
+					<ul>
+						<li>it is technically impossible;</li>
+						<li>for legal reasons (if mandated by local law);</li>
+					</ul>
+					<p><a class="invisible" name="track" id="track">
+		</a>
+						<strong>Do Not Track</strong>
 						<br>
-If you feel that this site is not following its stated information policy, you can contact us at the following address or phone number.</p>
+NetApp may receive data lists containing your contact details from third parties. In countries, states or regions where Do Not Track laws are in place, NetApp will take every reasonable action to validate the lists we have received with the Do Not Track lists available through government agencies before communicating with you. NetApp abides by all Do Not Track regulations.</p>
+					<p><a class="invisible" name="questions" id="questions">
+		</a>
+						<strong>Questions and Comments</strong>
+						<br>
+NetApp will respond to reasonable requests to review your Personal Data and to correct, amend or delete any inaccuracies. If you have any questions or comments about the NetApp Global Data Privacy Policy (e.g. to review and update your Personal Data), please send us your questions and feedback. You can contact us at the following address or phone number.</p>
 					<p><strong>NetApp, Inc.
 <br>
 495 East Java Drive
@@ -643,10 +2407,10 @@ Sunnyvale, CA 94089</strong></p>
 
 
 
+     
     </article>
 
   
-
             <footer aria-label="Site footer" id="contentInfo" role="contentinfo">
   <div class="top">
     <div class="liner">
@@ -654,11 +2418,54 @@ Sunnyvale, CA 94089</strong></p>
         Go further, faster®
       </div>
 			<div class="truste">
-					<a href="/us/legal/privacypolicy.aspx" title=""><img src="/us/media/seal-eusafe-en-105x30.png" title="" alt=""></a>			</div>
+					<div id="46de6230-f348-4528-91db-52852fde9b35">
+						<script async="" defer="defer" src="//privacy-policy.truste.com/privacy-seal/NetApp/asc?rid=46de6230-f348-4528-91db-52852fde9b35" type="text/javascript">
+						</script>
+						<a href="//privacy.truste.com/privacy-seal/NetApp/validation?rid=0b0bf955-888f-44df-a51a-34f153a641dc" title="TRUSTe European Safe Harbor certification" target="_blank">
+							<img height="32" src="//privacy-policy.truste.com/privacy-seal/NetApp/seal?rid=0b0bf955-888f-44df-a51a-34f153a641dc" alt="TRUSTe European Safe Harbor certification">
+						</a>
+					</div>
+			</div>
     </div>
   </div>
   <div class="bottom">
-    <nav role="navigation">
+    
+      <nav role="navigation">
+        
+        <ul class="social small">
+          <li class="replace">Follow Us</li>
+          <li class="replace">
+            <a class="small-communities" data-ntap-social="follow-communities" href="https://communities.netapp.com/welcome" target="_blank">
+              communities
+            </a>
+          </li>
+          <li class="replace">
+            <a class="small-twitter" data-ntap-social="follow-twitter" href="https://twitter.com/netapp" target="_blank">
+              twitter
+            </a>
+          </li>
+          <li class="replace">
+            <a class="small-facebook" data-ntap-social="follow-facebook" href="http://www.facebook.com/NetApp" target="_blank">
+              facebook
+            </a>
+          </li>
+          <li class="replace">
+            <a class="small-linkedin" data-ntap-social="follow-linkedin" href="http://www.linkedin.com/company/netapp " target="_blank">
+              linkedin
+            </a>
+          </li>
+          <li class="replace">
+            <a class="small-youtube" data-ntap-social="follow-youtube" href="http://www.youtube.com/user/NetAppTV" target="_blank">
+              youtube
+            </a>
+          </li>
+          <li class="replace">
+            <a class="small-slideshare" data-ntap-social="follow-slideshare" href="http://www.slideshare.net/NetApp" target="_blank">
+              slideshare
+            </a>
+          </li>
+        </ul>
+        
       <ul>
         <li>
                   <a href="/us/contact-us/index.aspx">Contact Us</a>
@@ -678,13 +2485,14 @@ Sunnyvale, CA 94089</strong></p>
         <li>
                 <a href="/us/legal/index.aspx">Legal</a>        </li>
         <li>
-                <a href="/us/legal/privacypolicy.aspx">Privacy Policy</a>        </li>
+                  <a href="/us/legal/privacypolicy/index.aspx">Privacy &amp; Cookie Policy</a>
+        </li>
         <li>
-                <a href="/us/legal/copyright.aspx">© 2013 NetApp</a>        </li>
+                <a href="/us/legal/copyright.aspx">© 2014 NetApp</a>        </li>
       </ul>
-    </nav>
+      </nav>
   </div>
-</footer>
+</footer>   
  <script>
      Modernizr.load([
          { test: $('.carousel').size() > 0,
@@ -703,7 +2511,7 @@ Sunnyvale, CA 94089</strong></p>
          '//ajax.googleapis.com/ajax/libs/yui/2.6.0/build/utilities/utilities.js',
          '//ajax.googleapis.com/ajax/libs/yui/2.6.0/build/datasource/datasource-min.js',
          '//ajax.googleapis.com/ajax/libs/yui/2.6.0/build/autocomplete/autocomplete-min.js',
-         '//content.atomz.com/sp10047aca/publish/autocomplete_data.js?sp_js_cache_ver=2'
+         '/us/static/js/autocomplete_data.js'
      ]);
     </script>
 
@@ -720,16 +2528,10 @@ Sunnyvale, CA 94089</strong></p>
 	scripty.add(baseURL + "/us/static/js/s_code.js");
 </script>
     <!-- end 02 footer/_post-block.haml -->
-    
-<!--[if (gt IE 8)|!(IE)]><!-->
-    <script>
-        scripty.add("http://cdn.wibiya.com/Toolbars/dir_0946/Toolbar_946844/Loader_946844.js");
-    </script>
-  <!--<![endif]-->
-
 <script>
     scripty.injectAll();
 </script>	
   </form><span style="position:absolute;top:-999px;left:-999px;font-size:300px;width:auto;height:auto;line-height:normal;margin:0;padding:0;font-variant:normal;font-family:netapp-script,arial,'URW Gothic L',sans-serif;font-style:normal;font-weight:400;">BESbswy</span><span style="position:absolute;top:-999px;left:-999px;font-size:300px;width:auto;height:auto;line-height:normal;margin:0;padding:0;font-variant:normal;font-family:netapp-script,Georgia,'Century Schoolbook L',serif;font-style:normal;font-weight:400;">BESbswy</span>
+
 
 </body></html>
