@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atkearney.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211031200id_/http%3A//www.atkearney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atkearney.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509221356id_/http%3A//www.atkearney.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - A.T. Kearney
 
