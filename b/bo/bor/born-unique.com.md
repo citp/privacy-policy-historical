@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the born-unique.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501043455id_/http%3A//baby-guide.born-unique.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the born-unique.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509185055id_/http%3A//baby-guide.born-unique.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Born Unique Baby Guide
+
+[](http://www.hupso.com/share/)
 
 ### Privacy Policy & FTC Disclaimer
 
