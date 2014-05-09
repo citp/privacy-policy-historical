@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the soapboxmedia.com privacy policy that was archived on 2013-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131208014343id_/http%3A//www.soapboxmedia.com/about/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the soapboxmedia.com privacy policy that was archived on 2014-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140509143511id_/http%3A//www.soapboxmedia.com/about/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head><title>
 	Privacy Policy
@@ -15,10 +15,6 @@
 <meta property="og:site_name" content="Soapbox"> 
 <meta property="og:title" content="Privacy Policy">
 
-
-<meta property="og:image" content="http://www.soapboxmedia.com/images/V5_mastheads/Issue_279/mason-980.jpg">
-<meta property="og:image:width" content="980">
-<meta property="og:image:height" content="350">
 
 <meta property="og:description" content="">
 
@@ -89,6 +85,30 @@ var google_cof = 'FORID:11';
 
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
+
+    $(function () {
+    // ref:http://www.axllent.org/docs/programming-tips/google-analytics/
+        $(document).find('body').click(
+            function _gaLt(event) {
+                var el = event.srcElement || event.target;
+                while (el && (typeof el.tagName == 'undefined' || el.tagName.toLowerCase() != 'a' || !el.href))
+                    el = el.parentNode;
+                if (el && el.href && el.href.indexOf(location.host) == -1) {
+                    // for universal analytics, swap line below for _gaq.push line
+                    //ga("send", "event", "Outgoing Links", el.href, document.location.pathname + document.location.search);
+                    _gaq.push(["_trackEvent", "Outbound Link", el.href, document.location.pathname + document.location.search]);
+                    /* if target not set then delay opening of window by 0.5s to allow tracking */
+                    if (!el.target || el.target.match(/^_(self|parent|top)$/i)) {
+                        setTimeout(function () {
+                            document.location.href = el.href;
+                        }.bind(el), 500);
+                        event.preventDefault ? event.preventDefault() : event.returnValue = !1;
+                    }
+                }
+            }
+        );
+    })
+
 </script>
 
 </head>
@@ -145,10 +165,42 @@ var google_cof = 'FORID:11';
     });
 </script>
 
-    <form name="aspnetForm" method="post" action="privacypolicy.aspx" id="aspnetForm">
+    <form method="post" action="privacypolicy.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1NTQ5MTQ2ODgPZBYCZg9kFgRmD2QWAgIBD2QWAmYPZBYEZg8WAh4LXyFJdGVtQ291bnQCARYCZg9kFgJmDxUDR2h0dHA6Ly93d3cuc29hcGJveG1lZGlhLmNvbS9pbWFnZXMvVjVfbWFzdGhlYWRzL0lzc3VlXzI3OS9tYXNvbi05ODAuanBnAzk4MAMzNTBkAgEPFgIfAAIDFgZmD2QWAmYPFQEKMTA1NDMxNjY3NWQCAQ9kFgJmDxUBCTY3NDY4MjcyNWQCAg9kFgJmDxUBCjE0MjE5NjE0MDNkAgIPZBYIAgEPZBYCZg8WAh4HVmlzaWJsZWgWCGYPFgIfAWhkAgEPFgIfAWhkAgIPFgIfAWdkAgMPFgIfAWhkAgMPZBYGZg9kFgQCAQ8WAh8AAhIWJAIBD2QWAmYPFQIZL2ZvY3VzYXJlYXMvYXJjaHRjdHIuYXNweAxBcmNoaXRlY3R1cmVkAgIPZBYCZg8VAh8vZm9jdXNhcmVhcy9hcnRzYW5kY3VsdHVyZS5hc3B4DkFydHMgKyBDdWx0dXJlZAIDD2QWAmYPFQIiL2ZvY3VzYXJlYXMvY29uc3VtZXJtYXJrZXRpbmcuYXNweAhCcmFuZEhVQmQCBA9kFgJmDxUCGS9mb2N1c2FyZWFzL2FkdmJyYW5kLmFzcHgRQnJhbmRpbmcgKyBEZXNpZ25kAgUPZBYCZg8VAh0vZm9jdXNhcmVhcy9jaXR5YnVpbGRpbmcuYXNweA1DaXR5IEJ1aWxkaW5nZAIGD2QWAmYPFQIaL2ZvY3VzYXJlYXMvZGl2ZXJzaXR5LmFzcHgJRGl2ZXJzaXR5ZAIHD2QWAmYPFQIbL2ZvY3VzYXJlYXMvZWRsZWFybmluZy5hc3B4FEVkdWNhdGlvbiArIExlYXJuaW5nZAIID2QWAmYPFQIbL2ZvY3VzYXJlYXMvZW50cmVwZW51ci5hc3B4EEVudHJlcHJlbmV1cnNoaXBkAgkPZBYCZg8VAh8vZm9jdXNhcmVhcy9oZWFsdGh3ZWxsbmVzcy5hc3B4EUhlYWx0aCArIFdlbGxuZXNzZAIKD2QWAmYPFQIaL2ZvY3VzYXJlYXMvbHNtZWRpbm5vLmFzcHgNTGlmZSBTY2llbmNlc2QCCw9kFgJmDxUCHC9mb2N1c2FyZWFzL21vdmV0b2NpbmNpLmFzcHgSTW92ZSB0byBDaW5jaW5uYXRpZAIMD2QWAmYPFQIbL2ZvY3VzYXJlYXMvcGFya3NncmVlbi5hc3B4ElBhcmtzICsgR3JlZW5zcGFjZWQCDQ9kFgJmDxUCGS9mb2N1c2FyZWFzL3JlZ2lvbmFsLmFzcHgTUmVnaW9uYWwgSW5kaWNhdG9yc2QCDg9kFgJmDxUCIy9mb2N1c2FyZWFzL3Jlc2VhcmNoaW5ub3ZhdGlvbi5hc3B4FVJlc2VhcmNoICsgSW5ub3ZhdGlvbmQCDw9kFgJmDxUCHS9mb2N1c2FyZWFzL3JldXNlcmVidWlsZC5hc3B4D1JldXNlIC8gUmVidWlsZGQCEA9kFgJmDxUCHC9mb2N1c2FyZWFzL3N1c3RhaW5idGx5LmFzcHgOU3VzdGFpbmFiaWxpdHlkAhEPZBYCZg8VAhcvZm9jdXNhcmVhcy90YWxlbnQuYXNweAZUYWxlbnRkAhIPZBYCZg8VAh8vZm9jdXNhcmVhcy90cmFuc3BvcnRhdGlvbi5hc3B4DlRyYW5zcG9ydGF0aW9uZAIDDxYCHwACIhZEAgEPZBYCZg8VAh0vY2l0aWVzL2F2b25kYWxlL2RlZmF1bHQuYXNweAhBdm9uZGFsZWQCAg9kFgJmDxUCHS9jaXRpZXMvYmVsbGV2dWUvZGVmYXVsdC5hc3B4CEJlbGxldnVlZAIDD2QWAmYPFQIfL2NpdGllcy9icmlkZ2V0b3duL2RlZmF1bHQuYXNweApCcmlkZ2V0b3duZAIED2QWAmYPFQIcL2NpdGllcy9jbGlmdG9uL2RlZmF1bHQuYXNweAdDbGlmdG9uZAIFD2QWAmYPFQIgL2NpdGllcy9jb2xsZWdlaGlsbC9kZWZhdWx0LmFzcHgMQ29sbGVnZSBIaWxsZAIGD2QWAmYPFQIgL2NpdGllcy9Db2x1bWJpYVR1cy9kZWZhdWx0LmFzcHgRQ29sdW1iaWEgVHVzY3VsdW1kAgcPZBYCZg8VAh8vY2l0aWVzL2NvcnJ5dmlsbGUvZGVmYXVsdC5hc3B4CkNvcnJ5dmlsbGVkAggPZBYCZg8VAh4vY2l0aWVzL2NvdmluZ3Rvbi9kZWZhdWx0LmFzcHgJQ292aW5ndG9uZAIJD2QWAmYPFQIbL2NpdGllcy9kYXl0b24vZGVmYXVsdC5hc3B4BkRheXRvbmQCCg9kFgJmDxUCGC9jaXRpZXMvQ0JEL2RlZmF1bHQuYXNweAhEb3dudG93bmQCCw9kFgJmDxUCHS9jaXRpZXMvZnR0aG9tYXMvZGVmYXVsdC5hc3B4CkZ0LiBUaG9tYXNkAgwPZBYCZg8VAhwvY2l0aWVzL2h5ZGVwcmsvZGVmYXVsdC5hc3B4CUh5ZGUgUGFya2QCDQ9kFgJmDxUCGy9jaXRpZXMvbHVkbG93L2RlZmF1bHQuYXNweAZMdWRsb3dkAg4PZBYCZg8VAiEvY2l0aWVzL21hZGlzb252aWxsZS9kZWZhdWx0LmFzcHgMTWFkaXNvbnZpbGxlZAIPD2QWAmYPFQIeL2NpdGllcy9NYXJpZW1vbnQvZGVmYXVsdC5hc3B4CU1hcmllbW9udGQCEA9kFgJmDxUCHC9jaXRpZXMvbXRhZGFtcy9kZWZhdWx0LmFzcHgJTXQuIEFkYW1zZAIRD2QWAmYPFQIrL2NpdGllcy9tdF9hdWJ1cm5fcHJvc3BlY3RoaWxsL2RlZmF1bHQuYXNweBpNdC4gQXVidXJuIC8gUHJvc3BlY3QgSGlsbGQCEg9kFgJmDxUCHi9jaXRpZXMvbXRsb29rb3V0L2RlZmF1bHQuYXNweAtNdC4gTG9va291dGQCEw9kFgJmDxUCIS9jaXRpZXMvbXR3YXNoaW5ndG9uL2RlZmF1bHQuYXNweA5NdC4gV2FzaGluZ3RvbmQCFA9kFgJmDxUCHC9jaXRpZXMvbmV3cG9ydC9kZWZhdWx0LmFzcHgHTmV3cG9ydGQCFQ9kFgJmDxUCIi9jaXRpZXMvbm9ydGhhdm9uZGFsZS9kZWZhdWx0LmFzcHgOTm9ydGggQXZvbmRhbGVkAhYPZBYCZg8VAiUvY2l0aWVzL25vcnRoY29sbGVnZWhpbGwvZGVmYXVsdC5hc3B4Ek5vcnRoIENvbGxlZ2UgSGlsbGQCFw9kFgJmDxUCJS9jaXRpZXMvbm9ydGhlcm5rZW50dWNreS9kZWZhdWx0LmFzcHgRTm9ydGhlcm4gS2VudHVja3lkAhgPZBYCZg8VAh4vY2l0aWVzL05vcnRoc2lkZS9kZWZhdWx0LmFzcHgJTm9ydGhzaWRlZAIZD2QWAmYPFQIcL2NpdGllcy9ub3J3b29kL2RlZmF1bHQuYXNweAdOb3J3b29kZAIaD2QWAmYPFQIbL2NpdGllcy9PYWtsZXkvZGVmYXVsdC5hc3B4Bk9ha2xleWQCGw9kFgJmDxUCGC9jaXRpZXMvT1RSL2RlZmF1bHQuYXNweA5PdmVyLXRoZS1SaGluZWQCHA9kFgJmDxUCIC9jaXRpZXMvcGxlYXNhbnRyZGcvZGVmYXVsdC5hc3B4IFBsZWFzYW50IFJpZGdlIC8gS2VubmVkeSBIZWlnaHRzZAIdD2QWAmYPFQInL2NpdGllcy9wcmljZWhpbGxfY292ZWRhbGUvZGVmYXVsdC5hc3B4FVByaWNlIEhpbGwgLyBDb3ZlZGFsZWQCHg9kFgJmDxUCGy9jaXRpZXMvVXB0b3duL2RlZmF1bHQuYXNweAZVcHRvd25kAh8PZBYCZg8VAiAvY2l0aWVzL09CcnlvbnZpbGxlL2RlZmF1bHQuYXNweC9XYWxudXQgSGlsbHMgLyBFYXN0IFdhbG51dCBIaWxscyAvIE8nQnJ5b252aWxsZWQCIA9kFgJmDxUCJS9jaXRpZXMvd2VzdGVuZF9icmlnaHRvbi9kZWZhdWx0LmFzcHgTV2VzdCBFbmQgLyBCcmlnaHRvbmQCIQ9kFgJmDxUCHS9jaXRpZXMvd2VzdHdvb2QvZGVmYXVsdC5hc3B4CFdlc3R3b29kZAIiD2QWAmYPFQIcL2NpdGllcy93eW9taW5nL2RlZmF1bHQuYXNweAdXeW9taW5nZAIBD2QWBGYPFgIfAAIBFgICAQ9kFgJmDxUHEGltYWdlSXRlbSBhY3RpdmUAKWNpbmNpbm5hdGkgbWFzb25pYyBjZW50ZXIgLyBzY290dCBiZXNlbGVyACwvaW1hZ2VzL1Y1X21hc3RoZWFkcy9Jc3N1ZV8yNzkvbWFzb24tOTgwLmpwZwAAZAIBDxYCHwACAWQCAg8PFgIfAWdkZAIFD2QWDmYPZBYEZg8PFgIfAWhkZAIBD2QWBgIBDw8WAh4PVmFsaWRhdGlvbkdyb3VwBSRjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJFN1YnNjcmliZTFkZAICDw8WAh8CBSRjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJFN1YnNjcmliZTFkZAIDDw8WAh8CBSRjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJFN1YnNjcmliZTFkZAIBD2QWAgIBD2QWBgIBDw8WAh8CBR9jdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJGN0bDAwZGQCAg8PFgIfAgUfY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRjdGwwMGRkAgMPDxYCHwIFH2N0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkY3RsMDBkZAICDw8WAh8BZ2RkAgMPDxYCHwFnZGQCBA8PFgIfAWdkZAIFDw8WAh8BZ2RkAgYPDxYCHwFnZGQCCQ9kFhpmDw8WAh8BZ2RkAgEPDxYCHwFnZGQCAg8PFgIfAWdkZAIDDw8WAh8BZ2RkAgQPDxYCHwFnZGQCBQ8PFgIfAWdkZAIGDw8WAh8BZ2RkAgcPDxYCHwFnZGQCCA8PFgIfAWdkZAIJDw8WAh8BZ2RkAgoPDxYCHwFnZGQCCw8PFgIfAWdkZAIMDxYCHwACBxYOZg9kFgJmDxUCFS9hYm91dC9jb250YWN0dXMuYXNweApDb250YWN0IFVzZAICD2QWAmYPFQIZL2Fib3V0L3ByaXZhY3lwb2xpY3kuYXNweA5Qcml2YWN5IFBvbGljeWQCBA9kFgJmDxUCFi9hYm91dC90ZXJtc29mdXNlLmFzcHgMVGVybXMgb2YgVXNlZAIGD2QWAmYPFQIRL2Fib3V0L2xpbmtzLmFzcHgNU29hcGJveCBMaW5rc2QCCA9kFgJmDxUCEC9hYm91dC90aXBzLmFzcHgLSGF2ZSBhIHRpcD9kAgoPZBYCZg8VAhEvYWJvdXQvYWJvdXQuYXNweA1BYm91dCBTb2FwYm94ZAIMD2QWAmYPFQIPL2Fib3V0L3Jzcy5hc3B4CVJTUyBMaW5rc2QYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFMWN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkU3Vic2NyaWJlMSRCdXR0b25TdWJtaXQFLGN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkY3RsMDAkQnV0dG9uU3VibWl0eq1AQNM1FfOco++zifuh4S7TbRM=">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1NTQ5MTQ2ODgPZBYCZg9kFgRmD2QWAgIBD2QWAmYPZBYEZg8WAh4LXyFJdGVtQ291bnRmZAIBDxYCHwACAxYGZg9kFgJmDxUBCjEwNTQzMTY2NzVkAgEPZBYCZg8VAQk2NzQ2ODI3MjVkAgIPZBYCZg8VAQoxNDIxOTYxNDAzZAICD2QWCAIBD2QWAmYPFgIeB1Zpc2libGVoFghmDxYCHwFoZAIBDxYCHwFoZAICDxYCHwFnZAIDDxYCHwFoZAIDD2QWBAIBD2QWBAIBDxYCHwACDhYcAgEPZBYCZg8VAhkvZm9jdXNhcmVhcy9hcmNodGN0ci5hc3B4DEFyY2hpdGVjdHVyZWQCAg9kFgJmDxUCHy9mb2N1c2FyZWFzL2FydHNhbmRjdWx0dXJlLmFzcHgOQXJ0cyArIEN1bHR1cmVkAgMPZBYCZg8VAiIvZm9jdXNhcmVhcy9jb25zdW1lcm1hcmtldGluZy5hc3B4CEJyYW5kSFVCZAIED2QWAmYPFQIZL2ZvY3VzYXJlYXMvYWR2YnJhbmQuYXNweBFCcmFuZGluZyArIERlc2lnbmQCBQ9kFgJmDxUCGi9mb2N1c2FyZWFzL2RpdmVyc2l0eS5hc3B4CURpdmVyc2l0eWQCBg9kFgJmDxUCGy9mb2N1c2FyZWFzL2VkbGVhcm5pbmcuYXNweBRFZHVjYXRpb24gKyBMZWFybmluZ2QCBw9kFgJmDxUCGy9mb2N1c2FyZWFzL2VudHJlcGVudXIuYXNweBBFbnRyZXByZW5ldXJzaGlwZAIID2QWAmYPFQIfL2ZvY3VzYXJlYXMvaGVhbHRod2VsbG5lc3MuYXNweBFIZWFsdGggKyBXZWxsbmVzc2QCCQ9kFgJmDxUCGi9mb2N1c2FyZWFzL2xzbWVkaW5uby5hc3B4DUxpZmUgU2NpZW5jZXNkAgoPZBYCZg8VAhwvZm9jdXNhcmVhcy9tb3ZldG9jaW5jaS5hc3B4Ek1vdmUgdG8gQ2luY2lubmF0aWQCCw9kFgJmDxUCGy9mb2N1c2FyZWFzL3BhcmtzZ3JlZW4uYXNweBJQYXJrcyArIEdyZWVuc3BhY2VkAgwPZBYCZg8VAiMvZm9jdXNhcmVhcy9yZXNlYXJjaGlubm92YXRpb24uYXNweBVSZXNlYXJjaCArIElubm92YXRpb25kAg0PZBYCZg8VAhcvZm9jdXNhcmVhcy90YWxlbnQuYXNweAZUYWxlbnRkAg4PZBYCZg8VAh8vZm9jdXNhcmVhcy90cmFuc3BvcnRhdGlvbi5hc3B4DlRyYW5zcG9ydGF0aW9uZAIDDxYCHwACIxZGAgEPZBYCZg8VAh0vY2l0aWVzL2F2b25kYWxlL2RlZmF1bHQuYXNweAhBdm9uZGFsZWQCAg9kFgJmDxUCHS9jaXRpZXMvYmVsbGV2dWUvZGVmYXVsdC5hc3B4CEJlbGxldnVlZAIDD2QWAmYPFQIfL2NpdGllcy9icmlkZ2V0b3duL2RlZmF1bHQuYXNweApCcmlkZ2V0b3duZAIED2QWAmYPFQIcL2NpdGllcy9jbGlmdG9uL2RlZmF1bHQuYXNweAdDbGlmdG9uZAIFD2QWAmYPFQIgL2NpdGllcy9jb2xsZWdlaGlsbC9kZWZhdWx0LmFzcHgMQ29sbGVnZSBIaWxsZAIGD2QWAmYPFQIgL2NpdGllcy9Db2x1bWJpYVR1cy9kZWZhdWx0LmFzcHgRQ29sdW1iaWEgVHVzY3VsdW1kAgcPZBYCZg8VAh8vY2l0aWVzL2NvcnJ5dmlsbGUvZGVmYXVsdC5hc3B4CkNvcnJ5dmlsbGVkAggPZBYCZg8VAh4vY2l0aWVzL2NvdmluZ3Rvbi9kZWZhdWx0LmFzcHgJQ292aW5ndG9uZAIJD2QWAmYPFQIbL2NpdGllcy9kYXl0b24vZGVmYXVsdC5hc3B4BkRheXRvbmQCCg9kFgJmDxUCGC9jaXRpZXMvQ0JEL2RlZmF1bHQuYXNweAhEb3dudG93bmQCCw9kFgJmDxUCFS9jaXRpZXMvRXZhbnN0b24uYXNweAhFdmFuc3RvbmQCDA9kFgJmDxUCHS9jaXRpZXMvZnR0aG9tYXMvZGVmYXVsdC5hc3B4CkZ0LiBUaG9tYXNkAg0PZBYCZg8VAhwvY2l0aWVzL2h5ZGVwcmsvZGVmYXVsdC5hc3B4CUh5ZGUgUGFya2QCDg9kFgJmDxUCGy9jaXRpZXMvbHVkbG93L2RlZmF1bHQuYXNweAZMdWRsb3dkAg8PZBYCZg8VAiEvY2l0aWVzL21hZGlzb252aWxsZS9kZWZhdWx0LmFzcHgMTWFkaXNvbnZpbGxlZAIQD2QWAmYPFQIeL2NpdGllcy9NYXJpZW1vbnQvZGVmYXVsdC5hc3B4CU1hcmllbW9udGQCEQ9kFgJmDxUCHC9jaXRpZXMvbXRhZGFtcy9kZWZhdWx0LmFzcHgJTXQuIEFkYW1zZAISD2QWAmYPFQIrL2NpdGllcy9tdF9hdWJ1cm5fcHJvc3BlY3RoaWxsL2RlZmF1bHQuYXNweBpNdC4gQXVidXJuIC8gUHJvc3BlY3QgSGlsbGQCEw9kFgJmDxUCHi9jaXRpZXMvbXRsb29rb3V0L2RlZmF1bHQuYXNweAtNdC4gTG9va291dGQCFA9kFgJmDxUCIS9jaXRpZXMvbXR3YXNoaW5ndG9uL2RlZmF1bHQuYXNweA5NdC4gV2FzaGluZ3RvbmQCFQ9kFgJmDxUCHC9jaXRpZXMvbmV3cG9ydC9kZWZhdWx0LmFzcHgHTmV3cG9ydGQCFg9kFgJmDxUCIi9jaXRpZXMvbm9ydGhhdm9uZGFsZS9kZWZhdWx0LmFzcHgOTm9ydGggQXZvbmRhbGVkAhcPZBYCZg8VAiUvY2l0aWVzL25vcnRoY29sbGVnZWhpbGwvZGVmYXVsdC5hc3B4Ek5vcnRoIENvbGxlZ2UgSGlsbGQCGA9kFgJmDxUCJS9jaXRpZXMvbm9ydGhlcm5rZW50dWNreS9kZWZhdWx0LmFzcHgRTm9ydGhlcm4gS2VudHVja3lkAhkPZBYCZg8VAh4vY2l0aWVzL05vcnRoc2lkZS9kZWZhdWx0LmFzcHgJTm9ydGhzaWRlZAIaD2QWAmYPFQIcL2NpdGllcy9ub3J3b29kL2RlZmF1bHQuYXNweAdOb3J3b29kZAIbD2QWAmYPFQIbL2NpdGllcy9PYWtsZXkvZGVmYXVsdC5hc3B4Bk9ha2xleWQCHA9kFgJmDxUCGC9jaXRpZXMvT1RSL2RlZmF1bHQuYXNweA5PdmVyLXRoZS1SaGluZWQCHQ9kFgJmDxUCIC9jaXRpZXMvcGxlYXNhbnRyZGcvZGVmYXVsdC5hc3B4IFBsZWFzYW50IFJpZGdlIC8gS2VubmVkeSBIZWlnaHRzZAIeD2QWAmYPFQInL2NpdGllcy9wcmljZWhpbGxfY292ZWRhbGUvZGVmYXVsdC5hc3B4FVByaWNlIEhpbGwgLyBDb3ZlZGFsZWQCHw9kFgJmDxUCGy9jaXRpZXMvVXB0b3duL2RlZmF1bHQuYXNweAZVcHRvd25kAiAPZBYCZg8VAiAvY2l0aWVzL09CcnlvbnZpbGxlL2RlZmF1bHQuYXNweCBXYWxudXQgSGlsbHMgLyBFYXN0IFdhbG51dCBIaWxsc2QCIQ9kFgJmDxUCJS9jaXRpZXMvd2VzdGVuZF9icmlnaHRvbi9kZWZhdWx0LmFzcHgTV2VzdCBFbmQgLyBCcmlnaHRvbmQCIg9kFgJmDxUCHS9jaXRpZXMvd2VzdHdvb2QvZGVmYXVsdC5hc3B4CFdlc3R3b29kZAIjD2QWAmYPFQIcL2NpdGllcy93eW9taW5nL2RlZmF1bHQuYXNweAdXeW9taW5nZAIDDw8WAh8BZ2RkAgUPZBYOZg9kFgRmDw8WAh8BaGRkAgEPZBYGAgEPDxYCHg9WYWxpZGF0aW9uR3JvdXAFJGN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkU3Vic2NyaWJlMWRkAgIPDxYCHwIFJGN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkU3Vic2NyaWJlMWRkAgMPDxYCHwIFJGN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkU3Vic2NyaWJlMWRkAgEPZBYCAgEPZBYGAgEPDxYCHwIFH2N0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkY3RsMDBkZAICDw8WAh8CBR9jdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJGN0bDAwZGQCAw8PFgIfAgUfY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRjdGwwMGRkAgIPDxYCHwFnZGQCAw8PFgIfAWdkZAIEDw8WAh8BZ2RkAgUPDxYCHwFnZGQCBg8PFgIfAWdkZAIJD2QWGmYPDxYCHwFnZGQCAQ8PFgIfAWdkZAICDw8WAh8BZ2RkAgMPDxYCHwFnZGQCBA8PFgIfAWdkZAIFDw8WAh8BZ2RkAgYPDxYCHwFnZGQCBw8PFgIfAWdkZAIIDw8WAh8BZ2RkAgkPDxYCHwFnZGQCCg8PFgIfAWdkZAILDw8WAh8BZ2RkAgwPFgIfAAIHFg5mD2QWAmYPFQIVL2Fib3V0L2NvbnRhY3R1cy5hc3B4CkNvbnRhY3QgVXNkAgIPZBYCZg8VAhkvYWJvdXQvcHJpdmFjeXBvbGljeS5hc3B4DlByaXZhY3kgUG9saWN5ZAIED2QWAmYPFQIWL2Fib3V0L3Rlcm1zb2Z1c2UuYXNweAxUZXJtcyBvZiBVc2VkAgYPZBYCZg8VAhEvYWJvdXQvbGlua3MuYXNweA1Tb2FwYm94IExpbmtzZAIID2QWAmYPFQIQL2Fib3V0L3RpcHMuYXNweAtIYXZlIGEgdGlwP2QCCg9kFgJmDxUCES9hYm91dC9hYm91dC5hc3B4DUFib3V0IFNvYXBib3hkAgwPZBYCZg8VAg8vYWJvdXQvcnNzLmFzcHgJUlNTIExpbmtzZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgUxY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRTdWJzY3JpYmUxJEJ1dHRvblN1Ym1pdAUsY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRjdGwwMCRCdXR0b25TdWJtaXRmdObz4HUC8MIumYSHR8/huErGeg==">
 </div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=AeVn0YS8r7jZxKG29KhP-rsWd07TO_Dh_kg51KQzGzs1AAlLI8f_8BTBhoNWw8wivCX5tiBhVYytyDOnWADYqifS-fA1&amp;t=634605052860686371" type="text/javascript"></script>
+
+
+<script src="/WebResource.axd?d=6QHcEQ3hs-rvHNsoI-oXPI_PMPAQ3nS3H9NIvouaZ_aH6zQOBXUxugY1k0qDYyRPCOPB2S0_8d8PiFFaGSv3fxB2ILo1&amp;t=634605052860686371" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
 
     
     <div class="page-container">
@@ -189,8 +241,10 @@ var google_cof = 'FORID:11';
                 
             </div>
             <div class="headerSearch">
-                <input class="searchBox" id="q" name="q" type="text" onkeydown="return SubmitOnEnter(this,event);">
-                <input type="image" onclick="SearchSite();return false;" src="/images/searchButton.png" class="searchButton">
+                
+<input class="searchBox" id="q" name="q" type="text" onkeydown="return SubmitOnEnter(this,event);">
+<input type="image" onclick="SearchSite(); return false;" src="/images/searchButton.png" class="searchButton">
+
             </div>
         </div>
     </div>
@@ -234,8 +288,6 @@ var google_cof = 'FORID:11';
 	            
 	                <li><a href="/focusareas/advbrand.aspx">Branding + Design</a></li>
 	            
-	                <li><a href="/focusareas/citybuilding.aspx">City Building</a></li>
-	            
 	                <li><a href="/focusareas/diversity.aspx">Diversity</a></li>
 	            
 	                <li><a href="/focusareas/edlearning.aspx">Education + Learning</a></li>
@@ -250,13 +302,7 @@ var google_cof = 'FORID:11';
 	            
 	                <li><a href="/focusareas/parksgreen.aspx">Parks + Greenspace</a></li>
 	            
-	                <li><a href="/focusareas/regional.aspx">Regional Indicators</a></li>
-	            
 	                <li><a href="/focusareas/researchinnovation.aspx">Research + Innovation</a></li>
-	            
-	                <li><a href="/focusareas/reuserebuild.aspx">Reuse / Rebuild</a></li>
-	            
-	                <li><a href="/focusareas/sustainbtly.aspx">Sustainability</a></li>
 	            
 	                <li><a href="/focusareas/talent.aspx">Talent</a></li>
 	            
@@ -300,6 +346,8 @@ var google_cof = 'FORID:11';
 	            
 	                <li><a href="/cities/CBD/default.aspx">Downtown</a></li>
 	            
+	                <li><a href="/cities/Evanston.aspx">Evanston</a></li>
+	            
 	                <li><a href="/cities/ftthomas/default.aspx">Ft. Thomas</a></li>
 	            
 	                <li><a href="/cities/hydeprk/default.aspx">Hyde Park</a></li>
@@ -340,7 +388,7 @@ var google_cof = 'FORID:11';
 	            
 	                <li><a href="/cities/Uptown/default.aspx">Uptown</a></li>
 	            
-	                <li><a href="/cities/OBryonville/default.aspx">Walnut Hills / East Walnut Hills / O'Bryonville</a></li>
+	                <li><a href="/cities/OBryonville/default.aspx">Walnut Hills / East Walnut Hills</a></li>
 	            
 	                <li><a href="/cities/westend_brighton/default.aspx">West End / Brighton</a></li>
 	            
@@ -359,21 +407,7 @@ var google_cof = 'FORID:11';
 </div>
     
 <div class="section-container mastheadSection">
-    
 
-    <div class="masthead" id="mastheadImage">
-    <img src="/images/V5_mastheads/Issue_279/mason-980.jpg" alt="cincinnati masonic center / scott beseler" width="980">
-    </div>
-    <div class="photoCredit">
-        cincinnati masonic center / scott beseler <span>|</span> <a href="javascript:void(0);" onclick="ToggleMasthead();" id="toggleText">Show Photo</a>
-    </div>
-
-    
-
-
-    <div class="clear"></div>
-
-    
     <div class="bannerad-container" id="mastheadAd">
         <div>
 <!--
@@ -387,7 +421,7 @@ Zone Attribute: About - Masthead Leaderboard
 
 <script type="text/javascript"><!--    // <![CDATA[
     OA_show('Masthead Leaderboard');
-// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=f412a6d9808f4385adcd8e16861debe7&amp;cb=96966619740' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=4158&amp;cb=96966619740&amp;n=f412a6d9808f4385adcd8e16861debe7&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
+// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=5868d60131654b87b3514a4c8d91cd62&amp;cb=93160869130' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=4158&amp;cb=93160869130&amp;n=5868d60131654b87b3514a4c8d91cd62&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
 
 </div>
 </div>
@@ -414,15 +448,15 @@ All rights reserved.</p>
 
 <div>
 
-<div id="ctl00_ContentPlaceHolder1_Subscribe1_SubscribePanel" class="subscribe">
+<div id="ctl00_ContentPlaceHolder1_Subscribe1_SubscribePanel" class="subscribe" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_ContentPlaceHolder1_Subscribe1_ButtonSubmit')">
 	
 
     <div class="subscribeText">Give us your email and we will give you our weekly online magazine. Fair?</div>
     <div class="subscribeInputContainer">
     <input name="ctl00$ContentPlaceHolder1$Subscribe1$TextBoxEmail" type="text" id="ctl00_ContentPlaceHolder1_Subscribe1_TextBoxEmail"> <input type="image" name="ctl00$ContentPlaceHolder1$Subscribe1$ButtonSubmit" id="ctl00_ContentPlaceHolder1_Subscribe1_ButtonSubmit" class="button" src="../images/subscribeButton.png" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$Subscribe1$ButtonSubmit&quot;, &quot;&quot;, true, &quot;ctl00$ContentPlaceHolder1$Subscribe1&quot;, &quot;&quot;, false, false))" style="border-width:0px;">
     </div>
-    
-    
+    <span id="ctl00_ContentPlaceHolder1_Subscribe1_RequiredFieldValidator1" class="errorMsg" style="color:Red;display:none;">A valid email address is required.</span>
+    <span id="ctl00_ContentPlaceHolder1_Subscribe1_RegularExpressionValidator1" class="errorMsg" style="color:Red;display:none;">Invalid email format, please check email format.</span>
 
 </div>
 
@@ -518,7 +552,7 @@ All rights reserved.</p>
                     <span id="facebookCount"></span>
                 </div>
             </div>
-            <a rel="nofollow" href="http://www.facebook.com/sharer/sharer.php?s=100&amp;p%5Burl%5d=http%3a%2f%2fwww.soapboxmedia.com%2fabout%2fprivacypolicy.aspx&amp;p%5Btitle%5D=Privacy+Policy&amp;p%5Bimages%5D%5B0%5D=http%3a%2f%2fwww.soapboxmedia.com%2fimages%2fV5_mastheads%2fIssue_279%2fmason-980.jpg" target="Share" onclick="_gaq.push(['_trackSocial', 'facebook', 'send', 'http://www.soapboxmedia.com/about/privacypolicy.aspx']);" class="toolbar-button facebook"><i></i><span>Share</span></a>
+            <a rel="nofollow" href="http://www.facebook.com/sharer/sharer.php?s=100&amp;p%5Burl%5d=http%3a%2f%2fwww.soapboxmedia.com%2fabout%2fprivacypolicy.aspx&amp;p%5Btitle%5D=Privacy+Policy&amp;p%5Bimages%5D%5B0%5D=http%3a%2f%2fwww.soapboxmedia.com%2fimages%2fV5_mastheads%2fIssue_300%2fandrewyorio.jpg" target="Share" onclick="_gaq.push(['_trackSocial', 'facebook', 'send', 'http://www.soapboxmedia.com/about/privacypolicy.aspx']);" class="toolbar-button facebook"><i></i><span>Share</span></a>
         </div>
         
         <script type="text/javascript">
@@ -619,15 +653,15 @@ All rights reserved.</p>
     </div>
 </div>
 
-<div id="ctl00_ContentPlaceHolder1_ctl00_SubscribePanel" class="subscribe">
+<div id="ctl00_ContentPlaceHolder1_ctl00_SubscribePanel" class="subscribe" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_ContentPlaceHolder1_ctl00_ButtonSubmit')">
 	
 
     <div class="subscribeText">Give us your email and we will give you our weekly online magazine. Fair?</div>
     <div class="subscribeInputContainer">
     <input name="ctl00$ContentPlaceHolder1$ctl00$TextBoxEmail" type="text" id="ctl00_ContentPlaceHolder1_ctl00_TextBoxEmail"> <input type="image" name="ctl00$ContentPlaceHolder1$ctl00$ButtonSubmit" id="ctl00_ContentPlaceHolder1_ctl00_ButtonSubmit" class="button" src="../images/subscribeButton.png" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$ctl00$ButtonSubmit&quot;, &quot;&quot;, true, &quot;ctl00$ContentPlaceHolder1$ctl00&quot;, &quot;&quot;, false, false))" style="border-width:0px;">
     </div>
-    
-    
+    <span id="ctl00_ContentPlaceHolder1_ctl00_RequiredFieldValidator1" class="errorMsg" style="color:Red;display:none;">A valid email address is required.</span>
+    <span id="ctl00_ContentPlaceHolder1_ctl00_RegularExpressionValidator1" class="errorMsg" style="color:Red;display:none;">Invalid email format, please check email format.</span>
 
 </div>
 
@@ -648,7 +682,7 @@ Zone Attribute: About - Rectangle 1
 
 <script type="text/javascript"><!--    // <![CDATA[
     OA_show('Rectangle 1');
-// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=b2b7f0c00dde43fe9af03505600d6bf7&amp;cb=32847122443' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=4159&amp;cb=32847122443&amp;n=b2b7f0c00dde43fe9af03505600d6bf7&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
+// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=fb851134f619480fbac7eab717be0899&amp;cb=29041371833' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=4159&amp;cb=29041371833&amp;n=fb851134f619480fbac7eab717be0899&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
 
 </div>
 
@@ -664,7 +698,7 @@ Zone Attribute: About - Rectangle 2
 
 <script type="text/javascript"><!--    // <![CDATA[
     OA_show('Rectangle 2');
-// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=480597232c77408c875e2a1686672929&amp;cb=32847122443' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=4160&amp;cb=32847122443&amp;n=480597232c77408c875e2a1686672929&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
+// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=13e4915b06c1444093eb654573475216&amp;cb=29041371833' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=4160&amp;cb=29041371833&amp;n=13e4915b06c1444093eb654573475216&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
 
 </div>
 
@@ -680,7 +714,7 @@ Zone Attribute: About - Rectangle 3
 
 <script type="text/javascript"><!--    // <![CDATA[
     OA_show('Rectangle 3');
-// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=6df3faa9b9b94432a10754d4af613f13&amp;cb=32847122443' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=4161&amp;cb=32847122443&amp;n=6df3faa9b9b94432a10754d4af613f13&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
+// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=7a9b7a3da45e4ea094af6f11e2aeb6c1&amp;cb=29041371833' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=4161&amp;cb=29041371833&amp;n=7a9b7a3da45e4ea094af6f11e2aeb6c1&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
 
 </div>
 
@@ -696,7 +730,7 @@ Zone Attribute: About - Rectangle 4
 
 <script type="text/javascript"><!--    // <![CDATA[
     OA_show('Rectangle 4');
-// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=762aca19e0c74bbf9c59304f2503f090&amp;cb=32847122443' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=4162&amp;cb=32847122443&amp;n=762aca19e0c74bbf9c59304f2503f090&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
+// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=b9cbd9a26f1f40caadabae4d46ebb8ed&amp;cb=29041371833' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=4162&amp;cb=29041371833&amp;n=b9cbd9a26f1f40caadabae4d46ebb8ed&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
 
 </div>
 
@@ -712,7 +746,7 @@ Zone Attribute: About - Rectangle 5
 
 <script type="text/javascript"><!--    // <![CDATA[
     OA_show('Rectangle 5');
-// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=50e5d1e5cc3e462d9d43d80bbb31e7e0&amp;cb=32847122443' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=4163&amp;cb=32847122443&amp;n=50e5d1e5cc3e462d9d43d80bbb31e7e0&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
+// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=a6538ea26ed44f2099658bc80f5f5409&amp;cb=29041371833' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=4163&amp;cb=29041371833&amp;n=a6538ea26ed44f2099658bc80f5f5409&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
 
 </div>
 
@@ -745,7 +779,7 @@ Zone Attribute: Footer - Footer 01
 
 <script type="text/javascript"><!--    // <![CDATA[
     OA_show('Footer 01');
-// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=1ab5300b3efc4874815686214358d722&amp;cb=32847122443' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=3778&amp;cb=32847122443&amp;n=1ab5300b3efc4874815686214358d722&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
+// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=ce60f570c0b3474d8bfe5b7d52b1b8ac&amp;cb=29041371833' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=3778&amp;cb=29041371833&amp;n=ce60f570c0b3474d8bfe5b7d52b1b8ac&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
 
 </div>
 </div>
@@ -761,7 +795,7 @@ Zone Attribute: Footer - Footer 02
 
 <script type="text/javascript"><!--    // <![CDATA[
     OA_show('Footer 02');
-// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=c523c3ef0e0c4b4fbbd108e0d562fef6&amp;cb=32847122443' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=3779&amp;cb=32847122443&amp;n=c523c3ef0e0c4b4fbbd108e0d562fef6&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
+// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=2fb90c989f8c467298e4a6bea3ceddf0&amp;cb=29041371833' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=3779&amp;cb=29041371833&amp;n=2fb90c989f8c467298e4a6bea3ceddf0&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
 
 </div>
 </div>
@@ -777,7 +811,7 @@ Zone Attribute: Footer - Footer 03
 
 <script type="text/javascript"><!--    // <![CDATA[
     OA_show('Footer 03');
-// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=756538891f074cf6b295023ba3ee8fe1&amp;cb=32847122443' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=3780&amp;cb=32847122443&amp;n=756538891f074cf6b295023ba3ee8fe1&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
+// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=1a6fb2be5a774c819f22c4d702f1d1b2&amp;cb=29041371833' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=3780&amp;cb=29041371833&amp;n=1a6fb2be5a774c819f22c4d702f1d1b2&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
 
 </div>
 </div>
@@ -793,7 +827,7 @@ Zone Attribute: Footer - Footer 04
 
 <script type="text/javascript"><!--    // <![CDATA[
     OA_show('Footer 04');
-// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=a2d8864a69904f0697b9c20f27afc3a0&amp;cb=32847122443' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=3781&amp;cb=32847122443&amp;n=a2d8864a69904f0697b9c20f27afc3a0&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
+// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=08daebba98e747708e5bc17222850e08&amp;cb=29041371833' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=3781&amp;cb=29041371833&amp;n=08daebba98e747708e5bc17222850e08&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
 
 </div>
 </div>
@@ -809,7 +843,7 @@ Zone Attribute: Footer - Footer 05
 
 <script type="text/javascript"><!--    // <![CDATA[
     OA_show('Footer 05');
-// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=f6040c777fe04dc299248a7f96aea13e&amp;cb=32847122443' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=3782&amp;cb=32847122443&amp;n=f6040c777fe04dc299248a7f96aea13e&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
+// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=88ada13173a34420910129761e23c621&amp;cb=29041371833' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=3782&amp;cb=29041371833&amp;n=88ada13173a34420910129761e23c621&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
 
 </div>
 </div>
@@ -825,7 +859,7 @@ Zone Attribute: Footer - Footer 06
 
 <script type="text/javascript"><!--    // <![CDATA[
     OA_show('Footer 06');
-// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=4c70d1c0af554f6993e4f1cc5b5606f1&amp;cb=32847122443' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=3783&amp;cb=32847122443&amp;n=4c70d1c0af554f6993e4f1cc5b5606f1&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
+// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=a32a1b94a2694566a265ebb513e21479&amp;cb=29041371833' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=3783&amp;cb=29041371833&amp;n=a32a1b94a2694566a265ebb513e21479&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
 
 </div>
 </div>
@@ -842,7 +876,7 @@ Zone Attribute: Footer - Footer 07
 
 <script type="text/javascript"><!--    // <![CDATA[
     OA_show('Footer 07');
-// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=fe4838620fa04874a0fb7956c0c901a1&amp;cb=32847122443' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=3784&amp;cb=32847122443&amp;n=fe4838620fa04874a0fb7956c0c901a1&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
+// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=7c49eddfad624e9ca51b62339454f2da&amp;cb=29041371833' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=3784&amp;cb=29041371833&amp;n=7c49eddfad624e9ca51b62339454f2da&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
 
 </div>
 </div>
@@ -858,7 +892,7 @@ Zone Attribute: Footer - Footer 08
 
 <script type="text/javascript"><!--    // <![CDATA[
     OA_show('Footer 08');
-// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=0df12ef83e8945b8a76223980faa3f3b&amp;cb=32847122443' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=3785&amp;cb=32847122443&amp;n=0df12ef83e8945b8a76223980faa3f3b&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
+// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=d4572f830b874cce8c1d9a7a54679b2d&amp;cb=29041371833' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=3785&amp;cb=29041371833&amp;n=d4572f830b874cce8c1d9a7a54679b2d&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
 
 </div>
 </div>
@@ -874,7 +908,7 @@ Zone Attribute: Footer - Footer 09
 
 <script type="text/javascript"><!--    // <![CDATA[
     OA_show('Footer 09');
-// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=8c56abf0de234b1897723683d1ca2c81&amp;cb=32847122443' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=3786&amp;cb=32847122443&amp;n=8c56abf0de234b1897723683d1ca2c81&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
+// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=0d36a995750349fb85c10445ac6b8d2e&amp;cb=29041371833' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=3786&amp;cb=29041371833&amp;n=0d36a995750349fb85c10445ac6b8d2e&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
 
 </div>
 </div>
@@ -890,7 +924,7 @@ Zone Attribute: Footer - Footer 10
 
 <script type="text/javascript"><!--    // <![CDATA[
     OA_show('Footer 10');
-// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=75d31b0abb8c4e4c8960cd1ce8a94b91&amp;cb=32847122443' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=3787&amp;cb=32847122443&amp;n=75d31b0abb8c4e4c8960cd1ce8a94b91&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
+// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=6ea83373d8574305b86cb105f8efcf01&amp;cb=29041371833' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=3787&amp;cb=29041371833&amp;n=6ea83373d8574305b86cb105f8efcf01&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
 
 </div>
 </div>
@@ -906,7 +940,7 @@ Zone Attribute: Footer - Footer 11
 
 <script type="text/javascript"><!--    // <![CDATA[
     OA_show('Footer 11');
-// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=8f6939485e4c41959ba1fe3849706f5a&amp;cb=32847122443' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=3788&amp;cb=32847122443&amp;n=8f6939485e4c41959ba1fe3849706f5a&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
+// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=2f317fceb510479888913556837d1616&amp;cb=29041371833' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=3788&amp;cb=29041371833&amp;n=2f317fceb510479888913556837d1616&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
 
 </div>
 </div>
@@ -922,7 +956,7 @@ Zone Attribute: Footer - Footer 12
 
 <script type="text/javascript"><!--    // <![CDATA[
     OA_show('Footer 12');
-// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=4e9627aac7fe4b1383589f4e99f02658&amp;cb=32847122443' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=3789&amp;cb=32847122443&amp;n=4e9627aac7fe4b1383589f4e99f02658&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
+// ]]> --></script><noscript><a href='http://dsx.issuemediagroup.com/www/delivery/ck.php?n=1adc4522f4ee47198cd6c2280c27efc6&amp;cb=29041371833' target='_blank'><img src='http://dsx.issuemediagroup.com/www/delivery/avw.php?pubid=29&amp;zoneid=3789&amp;cb=29041371833&amp;n=1adc4522f4ee47198cd6c2280c27efc6&amp;Page=29~%2fabout%2fprivacypolicy.aspx&amp;Tag=' border='0' alt='' /></a></noscript>
 
 </div>
 </div>
@@ -959,7 +993,64 @@ Zone Attribute: Footer - Footer 12
 
 
     </div>
-    </form>
+    
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("ctl00_ContentPlaceHolder1_Subscribe1_RequiredFieldValidator1"), document.getElementById("ctl00_ContentPlaceHolder1_Subscribe1_RegularExpressionValidator1"), document.getElementById("ctl00_ContentPlaceHolder1_ctl00_RequiredFieldValidator1"), document.getElementById("ctl00_ContentPlaceHolder1_ctl00_RegularExpressionValidator1"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var ctl00_ContentPlaceHolder1_Subscribe1_RequiredFieldValidator1 = document.all ? document.all["ctl00_ContentPlaceHolder1_Subscribe1_RequiredFieldValidator1"] : document.getElementById("ctl00_ContentPlaceHolder1_Subscribe1_RequiredFieldValidator1");
+ctl00_ContentPlaceHolder1_Subscribe1_RequiredFieldValidator1.controltovalidate = "ctl00_ContentPlaceHolder1_Subscribe1_TextBoxEmail";
+ctl00_ContentPlaceHolder1_Subscribe1_RequiredFieldValidator1.display = "Dynamic";
+ctl00_ContentPlaceHolder1_Subscribe1_RequiredFieldValidator1.validationGroup = "ctl00$ContentPlaceHolder1$Subscribe1";
+ctl00_ContentPlaceHolder1_Subscribe1_RequiredFieldValidator1.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_ContentPlaceHolder1_Subscribe1_RequiredFieldValidator1.initialvalue = "";
+var ctl00_ContentPlaceHolder1_Subscribe1_RegularExpressionValidator1 = document.all ? document.all["ctl00_ContentPlaceHolder1_Subscribe1_RegularExpressionValidator1"] : document.getElementById("ctl00_ContentPlaceHolder1_Subscribe1_RegularExpressionValidator1");
+ctl00_ContentPlaceHolder1_Subscribe1_RegularExpressionValidator1.controltovalidate = "ctl00_ContentPlaceHolder1_Subscribe1_TextBoxEmail";
+ctl00_ContentPlaceHolder1_Subscribe1_RegularExpressionValidator1.errormessage = "Invalid email format, please check email format.";
+ctl00_ContentPlaceHolder1_Subscribe1_RegularExpressionValidator1.display = "Dynamic";
+ctl00_ContentPlaceHolder1_Subscribe1_RegularExpressionValidator1.validationGroup = "ctl00$ContentPlaceHolder1$Subscribe1";
+ctl00_ContentPlaceHolder1_Subscribe1_RegularExpressionValidator1.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+ctl00_ContentPlaceHolder1_Subscribe1_RegularExpressionValidator1.validationexpression = "\\w+([-+.]\\w+)*@\\w+([-.]\\w+)*\\.\\w+([-.]\\w+)*";
+var ctl00_ContentPlaceHolder1_ctl00_RequiredFieldValidator1 = document.all ? document.all["ctl00_ContentPlaceHolder1_ctl00_RequiredFieldValidator1"] : document.getElementById("ctl00_ContentPlaceHolder1_ctl00_RequiredFieldValidator1");
+ctl00_ContentPlaceHolder1_ctl00_RequiredFieldValidator1.controltovalidate = "ctl00_ContentPlaceHolder1_ctl00_TextBoxEmail";
+ctl00_ContentPlaceHolder1_ctl00_RequiredFieldValidator1.display = "Dynamic";
+ctl00_ContentPlaceHolder1_ctl00_RequiredFieldValidator1.validationGroup = "ctl00$ContentPlaceHolder1$ctl00";
+ctl00_ContentPlaceHolder1_ctl00_RequiredFieldValidator1.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_ContentPlaceHolder1_ctl00_RequiredFieldValidator1.initialvalue = "";
+var ctl00_ContentPlaceHolder1_ctl00_RegularExpressionValidator1 = document.all ? document.all["ctl00_ContentPlaceHolder1_ctl00_RegularExpressionValidator1"] : document.getElementById("ctl00_ContentPlaceHolder1_ctl00_RegularExpressionValidator1");
+ctl00_ContentPlaceHolder1_ctl00_RegularExpressionValidator1.controltovalidate = "ctl00_ContentPlaceHolder1_ctl00_TextBoxEmail";
+ctl00_ContentPlaceHolder1_ctl00_RegularExpressionValidator1.errormessage = "Invalid email format, please check email format.";
+ctl00_ContentPlaceHolder1_ctl00_RegularExpressionValidator1.display = "Dynamic";
+ctl00_ContentPlaceHolder1_ctl00_RegularExpressionValidator1.validationGroup = "ctl00$ContentPlaceHolder1$ctl00";
+ctl00_ContentPlaceHolder1_ctl00_RegularExpressionValidator1.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+ctl00_ContentPlaceHolder1_ctl00_RegularExpressionValidator1.validationexpression = "\\w+([-+.]\\w+)*@\\w+([-.]\\w+)*\\.\\w+([-.]\\w+)*";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        //]]>
+</script>
+</form>
 
 
 </body></html>
