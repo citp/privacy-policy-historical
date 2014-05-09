@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 89classifieds.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609033157id_/http%3A//www.89classifieds.com/content.php%3Fid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 89classifieds.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509063917id_/http%3A//www.89classifieds.com/content.php%3Fid%3D3) for the most accurate reproduction.*
 
-# Privacy Policy
+# Free Classified Website | Post free ads in India , USA, UK and around the world - 89Classifieds
 
 This privacy policy sets out how 89Classifieds.com uses and protects any information that you give 89Classifieds.com when you use this website.
 
