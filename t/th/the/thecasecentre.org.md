@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the thecasecentre.org privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102133626id_/http%3A//www.thecasecentre.org/educators/myaccount/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecasecentre.org privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509025225id_/http%3A//www.thecasecentre.org/educators/myaccount/privacy) for the most accurate reproduction.*
 
 # Privacy policy | The Case Centre, for educators
 
 We are committed to protecting and respecting your privacy.
 
 This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+
+This policy is limited to the information The Case Centre collects via our websites.
+
+Our website has links to external sites. We are not responsible for the content or privacy policies of other sites. 
 
 For the purpose of the [Data Protection Act 1998](http://www.legislation.gov.uk/ukpga/1998/29/contents) (the Act), the data controller is The Case Centre.
 
@@ -58,29 +62,40 @@ To opt out of being tracked by Google Analytics across all websites visit <http:
 4.1.7 |  to collect all and administer subscriptions.  
 4.2 |  If you are an existing customer, we will only contact you by electronic means (e-mail) or post with information about goods and services similar to those that were the subject of a previous sale to you.  
   
-##  5\. Disclosure of your information
+##  5\. Communications
 
 5.1 | 
+
+You can subscribe (opt in) to a number of email updates from The Case Centre. You can unsubscribe (opt out) at any time. All the emails you receive will include instructions for unsubscribing.  
+  
+---|---  
+5.2 | 
+
+Our website enables you to email product details to a colleague. You must provide your email address and the email address of the recipient. We use this information to let the recipient know who the email is from, and to trace any email errors in our system. We do not use the information for any other purpose.  
+  
+##  6\. Disclosure of your information
+
+6.1 | 
 
 We may disclose your personal information to third parties in circumstances where we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our website terms of use or terms and conditions of supply and other agreements; or to protect the rights, property, or safety of The Case Centre, our members, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.  
   
 ---|---  
   
-##  6\. Your rights
+##  7\. Your rights
 
-6.1 |  You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [info@thecasecentre.org](mailto:info@thecasecentre.org).  
+7.1 |  You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [info@thecasecentre.org](mailto:info@thecasecentre.org).  
 ---|---  
-6.2 |  Our site may, from time to time, contain links to and from the websites of our suppliers and/or customers. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.  
+7.2 |  Our site may, from time to time, contain links to and from the websites of our suppliers and/or customers. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.  
   
-##  7\. Access to information
+##  8\. Access to information
 
 The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act.
 
-##  8\. Changes to our privacy policy
+##  9\. Changes to our privacy policy
 
 Any changes we may make to our privacy policy in the future will be posted on this page.
 
-##  9\. Contact
+##  10\. Contact
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@thecasecentre.org](mailto:info@thecasecentre.org).  
  
