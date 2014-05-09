@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanatix.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005082034id_/http%3A//www.fanatix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanatix.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509062147id_/http%3A//www.fanatix.com/privacy-policy) for the most accurate reproduction.*
 
 # fanatix
 
