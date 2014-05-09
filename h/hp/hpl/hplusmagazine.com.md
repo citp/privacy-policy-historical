@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hplusmagazine.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128061011id_/http%3A//hplusmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hplusmagazine.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509043544id_/http%3A//hplusmagazine.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | h+ Magazine
 
-Published:  February 25, 2009
 
-  
+
+
 **_h+ Magazine_**
 
 http://www.hplusmagazine.com
@@ -44,7 +44,7 @@ Disputes will be handled by our customer service representative. Our customer se
 **Information Collection**  
 When visiting Web Sites certain information about you and your computer can sometimes be collected. This section explains what information _h+ Magazine_ collects, and how it is used.
 
-**Information Collected** – What information do we collect and why?
+**Information Collected** \- What information do we collect and why?
 
 We collect the following identifiable information about our visitors:
 
@@ -78,7 +78,7 @@ Our Web Site generates server log files automatically. These log files are used 
 
 * * *
 
-**Information Recipients** – Who has access to the information collected?
+**Information Recipients** \- Who has access to the information collected?
 
  
   * Ourselves and/or our entities acting as our agents or entities for which we are acting as an agent.
@@ -87,10 +87,9 @@ Our Web Site generates server log files automatically. These log files are used 
 
 * * *
 
-**Information Retention** – How long is this information retained?
+**Information Retention** \- How long is this information retained?
 
  
   * We do not have a retention policy for this area of the Web Site.
 
 
-  *[February 25, 2009]: 2009-02-25T10:31:19+0000
