@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ultimatesoftware.com privacy policy that was archived on 2013-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130803094156id_/http%3A//www.ultimatesoftware.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatesoftware.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509064536id_/http%3A//www.ultimatesoftware.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Ultimate Software Privacy Policy
+# Privacy Policy - Ultimate Software
 
 The following statement describes the privacy practices for Ultimate Software.
 
