@@ -1,100 +1,93 @@
-> *The following text is extracted and transformed from the melanieduncan.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melanieduncan.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509074158id_/http%3A//www.melanieduncan.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy - Melanie Duncan
 
-**Go Daddy Respects Your Privacy**
+Get FREE Tips to Make More Money  
+& Spend Less Time Working
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+MelanieDuncan.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+You or Your means you as a participant in or as a user of the MelanieDuncan.com website. We or Our or Us means MelanieDuncan.com. Our site means MelanieDuncan.com.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+All information transmitted, printed or otherwise submitted to MelanieDuncan.com via this website shall be deemed to be the property of MelanieDuncan.com and MelanieDuncan.com shall be free to use such information for any lawful purpose as detailed herein.
 
-**Information Collection and Use**
+This site contains links to other sites and we are not responsible for the privacy practices or the content of such sites.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We reserve the right to release such information to law enforcement or other governmental officials as we, in our sole and absolute discretion, deem necessary to comply with the law.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+**Section 1: Collected Information**
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We automatically collect and/or track the following:
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+  * Web page http headers (home server domain names, IP address, type of client computer, and type of Web browser); information knowingly provided by you through on-line forms, registration forms, surveys, and/or other entries, such as email addresses, personal, financial or demographic information; information, user specific or aggregate, on what pages our visitors access; and
+  * E-mail addresses of visitors that communicate with DigitalMarketer.com via e-mail.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**Section 2: Use of Data Collected**
 
-**Security**
+We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+We use your contact information to send you information about our company and promotional material from our partners.
 
-**Updating Your Information**
+We may also use your personal, demographic and profile data to improve our site, for statistical analysis, for marketing and promotional purposes, and for editorial or feedback purposes for our advertisers Information collected by us may be added to our databases and used for future telemarketing, SMS text-messaging, e-mails or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online.   By using this site, you agree that you may be contacted in any manner contemplated in this section even if your number is found on a do not call registry, in-house list or similar registry.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+_**Section 3: Disclosure of Data to Third Parties  
+**  
+_If you choose to provide personal information, it will be used for the following purposes:  
+considering you for a MelanieDuncan.com product; as required by law; and marketing products and services which we determine, in our sole judgment, that you might find of interest. We reserve the right to share, rent, sell, or otherwise disclose data we collect to third parties. _ _  
+__
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Any third party we share, rent, sell, or otherwise disclose data to will be prescreened by us, determined by us to be reputable, and will use the personal data for marketing products and services which we determine, in our sole judgment, that you might find of interest.  
+**Section 4: Your Opt-Out Rights**  
+You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+You can remove your information from our marketing lists by clicking on the Unsubscribe link at the bottom of every email we send you, or by sending your request, in writing, via email to: supportATpowerofpinningDOTcom (Please replace AT with @ and DOT with .)
 
-      iii.      You may call us at: (480) 505-8800
+**Section 5: We Do Not Intend to Collect Data from Children**
 
-       iv.      You may fax us at: (480) 505-8844
+The information and services provided to us or our affiliates, sponsors, and advertisers are not intended to be viewed by children (under 18 years old). No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside MelanieDuncan.com. No part of MelanieDuncan.coms web site is structured to attract anyone under the age of 18.
 
-**Sending Emails**
+**Section 6: Our Right to Contact You**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+****  
+We reserve the right to contact you regarding your account status and changes to subscriber agreements, privacy policy, or any other policies or agreements relevant to you.  
+**Section 7: Our Right to Change**
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+We reserve the right to change this policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our site.
 
-**Compliance with Laws and Law Enforcement**
+**Section 8: Our Contact Information  
+**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to: supportATpowerofpinningDOTcom (Please replace AT with @ and DOT with .)
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+**Section 9: Anti Spam Policy.**  
+Can-Spam Act Compliance. MelanieDuncan.com is dedicated to ensuring compliance with the Can-Spam Act, which took effect January 1, 2004. You may receive email from MelanieDuncan.com in the following circumstances:
 
-**Third Party Service Providers**
+Acknowledging your application has been received and requesting additional action Requests for additional information to support your current application  
+Response to your inquiries regarding the status of your transactional requests, Thanking you for your valued business, Advertisements for our products, services, changes in services, new product availability, Advertisements for third party products and services where we have determined that such product or service may be of interest to our customers.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+To ensure compliance with the Can-Spam Act, MelanieDuncan.com has implemented the following guidelines for email delivery:  
+All emails sent to you by MelanieDuncan.com will clearly identify MelanieDuncan.com as the sender. FROM / SENDER: someone@melanieduncanc.com or someone@melanieduncan.com (NOTE: The actual sender will alter from department to department, but all from addresses will end with @MelanieDuncanc.com or @PowerofPinning.com).
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+The Subject Line of any email you receive will always be related to the subject matter of the email. Any email from MelanieDuncan.com will include the ability to unsubscribe from future email messages.
 
-**Supplementation of Information**
+Unsubscribing will ensure the customer is removed from ALL lists at MelanieDuncan.com; this excludes customer service emails regarding the processing and status of a current product. All emails sent to you directly by MelanieDuncan.com include valid postal address information in the footer.  
+All third party marketing partners are required to comply with the Can-Spam Act.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+Emails sent to you directly by MelanieDuncan.com will include an email address and physical address where you can send suggestions, complaints or other correspondence.
 
-**Contests/Surveys**
+**Section 10: Information for ISPs**
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+Web site: MelanieDuncan.com or PowerofPinning.com, Email Address: supportATpowerofpinningDOTcom  
+(Please replace AT with @ and DOT with .)
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+MelanieDuncan.com understands consumers concerns over the use of their personal information. We hope this information will relieve any concerns your company may have regarding our email policies. MelanieDuncan.com and its affiliated sites use only an opt-in or opt out method of obtaining customer information, and it is not our policy or desire to send unsolicited email.
 
-**Tell-A-Friend**
+We obtain email addresses and personal information from third parties that follow the same set of policies.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+MelanieDuncan.com email messages sent always include information about the origin of the emails and instructions on how recipients can unsubscribe from receiving future email messages.
 
-**What Happens to my Personal Information if I Opt Out?**
+From time to time, MelanieDuncan.com will enter into an arrangement with a third party website to allow individuals to opt into our marketing program on those third party websites. In each case the third party websites have represented and warranted to us, among other things,  
+that the data was collected voluntarily from individuals on website registrations and co-registrations, that the sellers have a right, under any applicable privacy statements, to transfer the data to us, and that MelanieDuncan.com has the right to send marketing offers to the individuals.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+We hope this information satisfies any questions or concerns you may have regarding the email practices of MelanieDuncan.com. If you have additional questions or wish to discuss this matter further, please contact us at: supportATpowerofpinningDOTcom (Please replace AT with @ and DOT with .)
