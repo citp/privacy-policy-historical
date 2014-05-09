@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greystar.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103112414id_/http%3A//www.greystar.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greystar.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509055336id_/http%3A//www.greystar.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Greystar
 
@@ -53,7 +53,7 @@ In the event that Greystar goes through a business transition, such as a merger,
 
 ### Third-Party Site Links
 
-You should be aware that when you are on Greystar’s website you could be directed to other sites that are beyond our control. There are links to other sites from Greystar, which take you outside our service. For example, if you "click" on a banner advertisement or a search result, the "click" may take you off the Greystar site. These other sites may include sites of other advertisers, sponsors and partners that may use their logo as part of a co-branding agreement. These other sites may send their own cookies to Residents collect data or solicit information. Greystar does not control such sites, and, therefore, is not responsible for their content. Greystar’s inclusion of hyperlinks to any other sites does not imply any endorsement of the material on such sites, nor any association with their operators. Greystar’s policies do not extend to anything that is inherent in the operation of the Internet, which is beyond our control. Remember that whenever you give out Information online, that information may be collected and used by people you don't know. While Greystar strives to protect your Resident Information and therein your privacy, we cannot guarantee the security of any Information you disclose online and you therefore disclose such Information at your own risk. 
+You should be aware that when you are on Greystar’s website you could be directed to other sites that are beyond our control. There are links to other sites from Greystar, which take you outside our service. For example, if you "click" on a banner advertisement or a search result, the "click" may take you off the Greystar site. These other sites may include sites of other advertisers, sponsors and partners that may use their logo as part of a co-branding agreement. These other sites may send their own cookies to Residents to collect data or solicit information. Greystar does not control such sites, and, therefore, is not responsible for their content. Greystar’s inclusion of hyperlinks to any other sites does not imply any endorsement of the material on such sites, nor any association with their operators. Greystar’s policies do not extend to anything that is inherent in the operation of the Internet, which is beyond our control. Remember that whenever you give out Information online, that information may be collected and used by people you don't know. While Greystar strives to protect your Resident Information and therein your privacy, we cannot guarantee the security of any Information you disclose online and you therefore disclose such Information at your own risk. 
 
 ### Securing Information
 
@@ -65,7 +65,7 @@ While on a secured page, the lock icon on the bottom of Web browsers such as Fir
 
 In addition, we limit access to personally identifying information to employees who we believe reasonably need to receive such information to provide our Services or in order to do their jobs and take other precautions we deem reasonable to protect the security of users' personally identifying information. 
 
-However, users should be aware that we cannot fully guarantee the security of their personally identifying information. As in many computer systems, internet applications and software programs, unauthorized use, failure of hardware or software, etc. may be injuriousness to the confidentiality of users' personally identifying information. 
+However, users should be aware that we cannot fully guarantee the security of their personally identifying information. As in many computer systems, internet applications and software programs, unauthorized use, failure of hardware or software, etc. may be injurious to the confidentiality of users' personally identifying information. 
 
 If users have any questions about security, please contact us. 
 
