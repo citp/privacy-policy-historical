@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestfreewebsites.net privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106122714id_/http%3A//www.bestfreewebsites.net/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestfreewebsites.net privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509231602id_/http%3A//www.bestfreewebsites.net/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Bestfreewebsites.net
 
