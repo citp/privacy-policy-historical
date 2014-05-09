@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the infospace.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001070418id_/http%3A//infospace.com/support/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infospace.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509235607id_/http%3A//infospace.com/terms/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Privacy Policy
-
-InfoSpace, Inc. ("InfoSpace") owns and operates a number of different sites on the Web (each, an "InfoSpace Site"). InfoSpace is strongly committed to protecting the privacy of its user community. The intent of this privacy policy is to detail the information InfoSpace may gather about individuals who visit the InfoSpace Sites, how that information is used, and InfoSpace's disclosure practices. Please note that this policy applies only to the InfoSpace Sites, and not to the Web sites of other companies or organizations to which we provide links or to any software that may be downloaded from the InfoSpace Sites.
+InfoSpace, LLC ("InfoSpace") owns and operates a number of different sites on the Web (each, an "InfoSpace Site"). InfoSpace is strongly committed to protecting the privacy of its user community. The intent of this privacy policy is to detail the information InfoSpace may gather about individuals who visit the InfoSpace Sites, how that information is used, and InfoSpace's disclosure practices. Please note that this policy applies only to the InfoSpace Sites, and not to the Web sites of other companies or organizations to which we provide links or to any software that may be downloaded from the InfoSpace Sites.
 
 ### Anonymous User Information
 
@@ -68,7 +66,7 @@ In the event InfoSpace goes through a business transition, such as a merger, bei
 
 ### Choice/Opt-out
 
-We desire to keep you in control of the personal information you provide to us. Accordingly, you can review, correct, change or remove the personal registration information you provide to InfoSpace and that InfoSpace controls. In order to elect not to receive future communications from us, please [Contact us](https://web.archive.org/support/contactus)
+We desire to keep you in control of the personal information you provide to us. Accordingly, you can review, correct, change or remove the personal registration information you provide to InfoSpace and that InfoSpace controls. In order to elect not to receive future communications from us, please [Contact us](https://web.archive.org/contact/index.html)
 
 ### Notification of Changes
 
@@ -88,12 +86,12 @@ In response to concerns about protecting children's privacy online, Congress ena
 It is possible that by fraud or deception we may receive information given to us or pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately delete the information from our servers 
 
 Questions regarding children's privacy should be directed to:   
-InfoSpace, Inc.   
-601 108th Avenue NE, Suite 1200   
+InfoSpace, LLC   
+10900 NE 8th Street, Suite 800   
 Bellevue, Washington 98004 USA   
 \+ (1) 425.201.6100 phone   
 \+ (1) 425.201.6150 fax 
 
-E-mail: [Contact us](https://web.archive.org/support/contactus)
+E-mail: [Contact us](https://web.archive.org/contact/index.html)
 
-Policy effective Oct 11, 2007
+Policy effective October 8, 2013
