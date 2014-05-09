@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facemoods.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905132235id_/http%3A//funmoods.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facemoods.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510013357id_/http%3A//funmoods.com/privacy) for the most accurate reproduction.*
 
 # Funmoods - Privacy Policy
 
@@ -22,5 +22,7 @@ In order to protect your privacy and make sure you understand exactly what infor
   8. What to do if you feel unsecure about your privacy? If you feel that your privacy was treated not in accordance with Funmoods's privacy Policy, please contact Funmoods directly at support@funmoods.com and Funmoods's privacy officer shall investigate promptly.
   9. Changes to this Privacy Policy: This Policy may be revised from time to time at our sole discretion. The last revision will be reflected in the "Last modified by" heading.
   10. Change of Ownership: In the event of a change of ownership or control of all or part of Funmoods, including without limitation through acquisition, merger or sale, we reserve the right to sell all or part of the personal information we store in our systems.
-You acknowledge that in the event of bankruptcy, insolvency or receivership, we may have no control over the use and transfer of your personal information. 
 
+
+
+You acknowledge that in the event of bankruptcy, insolvency or receivership, we may have no control over the use and transfer of your personal information. 
