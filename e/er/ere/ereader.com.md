@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ereader.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205213214id_/http%3A//www.ereader.com/ereader/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ereader.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509193347id_/http%3A//www.ereader.com/ereader/privacy.htm) for the most accurate reproduction.*
 
 # eReader.com Privacy Policy
 
-[](http://www.barnesandnoble.com/p/nook-simple-touch-with-glowlight-barnes-noble/1108046469?sourceid=H000000044)
+[](http://www.barnesandnoble.com/u/nook-glowlight-ereader/379004122?sourceid=H000000044&cm_mmc=FW-_-Avocet-_-NA-_-NA)
 
 | 
 
