@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morovia.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010001852id_/http%3A//www.morovia.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morovia.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509181416id_/http%3A//www.morovia.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,4 +24,4 @@ By visiting and purchasing products through Morovia's Web site, you consent to t
 
 ## Give us your feedback
 
-Morovia welcomes your questions and comments about our Privacy Policy. Email us at [info@morovia.com](mailto:info@morovia.com "info@morovia.com").
+Morovia welcomes your questions and comments about our Privacy Policy. Email us at [info@morovia.com](mailto:info@morovia.com).
