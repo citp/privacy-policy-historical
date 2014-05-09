@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldradiomap.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214165802id_/http%3A//worldradiomap.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldradiomap.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509063621id_/http%3A//worldradiomap.com/about/privacy.htm) for the most accurate reproduction.*
 
-# World Radio Map • Privacy Policy
+# Privacy Policy — World Radio Map
 
     World Radio Map respects your privacy. Our Policy applies to our web sites, including http://worldradiomap.com/. This Privacy Policy explains what information we collect through the Sites, how we use that information, and how your rights are respected by us. The World Radio Map Site contains links to other web sites. This Privacy Policy does not apply to the practices of any other companies or individuals that World Radio Map does not control, or any web sites that you link to from the World Radio Map Site. You should use caution and review the privacy policies of any sites that you visit from ours to learn more about their information practices. Please take a few moments to read this agreement. By accessing the World Radio Map Site, you agree to accept the terms and conditions of this Privacy Policy and are aware that our policies may change in the future as indicated below.
 
