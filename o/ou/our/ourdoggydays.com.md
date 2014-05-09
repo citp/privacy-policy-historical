@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourdoggydays.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215073605id_/http%3A//www.ourdoggydays.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourdoggydays.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510001610id_/http%3A//www.ourdoggydays.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Ourdoggydays.com
 
