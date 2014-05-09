@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jzip.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222224007id_/http%3A//www.jzip.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jzip.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509223209id_/http%3A//jzip.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | jZip
 
-Bandoo Media Inc. ("jZip") takes your privacy very seriously. Please read the following to learn more about jZip's Privacy Policy ("Policy"). This Policy details how jZip receives, collects and uses information in connection with their website located at jZip.com ("Site").
+Bandoo Media Inc. ("jZip") takes your privacy very seriously. Please read the following to learn more about jZip's Privacy Policy ("Policy"). This Policy details how jZip receives, collects and uses information in connection with their website located at jZip.com ("Site") and its downloadable PC application ("Application").
 
 ## Collection and Use of Information
 
@@ -17,6 +17,8 @@ jZip may also make certain message boards and forums available to you (collectiv
 jZip does not automatically collect any Personal Information on or through the Site, except as provided by you in connection with the registration process. Nevertheless, jZip may use cookies on the Site. Cookies are pieces of information that a website transfers to an individual's hard drive for record-keeping purposes. Cookies make web-surfing easier by saving preferences and browsing patterns while you are at jZip's Site. Cookies may be used to analyze Site usage, improve content, customize the Site's content and layout and for other customer service purposes. jZip's use of cookies is in no way linked to any Personal Information.
 
 jZip may automatically receive and record certain non-personally identifiable information on its server logs from your browser, including your IP address, browser type, internet service provider (ISP), cookie information, and the webpage that a user visits. jZip collects non-personally identifiable information for general purposes, including but not limited to analyzing trends, administering the site, tracking user movements, conducting research, and providing anonymous reporting to internal and external clients. jZip will not link any Personal Information, including e-mail addresses, with aggregate data of its users.
+
+You do not need to provide any Personal Information in order to download or use the Application. We do not track the files that you compress or decompress using the Application. Your use of the Application does not create a record of which files you handle using the Application and no such information is kept neither by jZip nor on behalf of any third party.
 
 ## Sharing and Disclosure of Information
 
