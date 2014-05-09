@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the valuecommerce.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207222456id_/http%3A//www.valuecommerce.com/vc/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuecommerce.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510005812id_/http%3A//valuecommerce.com/vc/privacy_policy.html) for the most accurate reproduction.*
 
 # ValueCommerce: learn about the ValueCommerce.com Privacy Policy
 
-[](https://web.archive.org/web/20130310103858/http://www.valuecommerce.com/)
+[](https://web.archive.org/web/20120502152620/http://www.valuecommerce.com/)
 
 Value Commerce Co., Ltd. (hereinafter, the "Company") is a company that provides comprehensive consulting services with a focus on affiliate marketing services, including search engine marketing services. As a result, there are many instances where we deal with a range of information about our advertisers and partners, and we consider it to be our very important social responsibility to acknowledge the importance of this information and to handle the information itself in an appropriate manner.
 
@@ -20,16 +20,16 @@ Regarding the protection of personal information that may allow the identificati
 
 
 Established: November 1, 2011  
-Latest revision: March 28, 2012  
+Latest revision: January 6, 2014  
 Value Commerce Co., Ltd.  
-Yoichi Iiizuka, Representative Director  
+Jin Kagawa, Representative Director,  
 President & CEO 
 
 Inquiry section for matters concerning the protection of personal information:  
 Please contact the following for any complaints, consultations, inquiries about disclosure and other matters in person, regarding the handling of personal information and the personal information protection management system. A prompt response will be provided appropriately. 
 
 Personal Information Protection Administrator,  
-General Manager of Legal and Credit Control Department,  
+General Manager of Legal Department,  
 Value Commerce Co., Ltd.  
 6th Floor, Nihon Seimei Akasaka Building,  
 1-19, Akasaka 8-chome, Minato-ku, Tokyo
@@ -40,7 +40,7 @@ Address:
 
   1. **Name of operator handling personal information**  
 Personal Information Protection Administrator,  
-General Manager of Legal and Credit Control Department, Value Commerce Co., Ltd. 
+General Manager of Legal Department, Value Commerce Co., Ltd. 
   2. **Matters concerning the purpose of use of "personal Information held by the Company"**  
 The purpose of use of "personal information held by the Company" will be as follows:  No. | Type of Personal   
 Information Held | Disclosed /  
@@ -129,7 +129,7 @@ Please contact the inquiry section for matters concerning the protection of pers
 Please note in advance that we will confirm the identification of the individual.
   4. **Inquiry section**  
 Personal Information Protection Administrator,  
-General Manager of Legal and Credit Control Department, Value Commerce Co., Ltd.  
+General Manager of Legal Department, Value Commerce Co., Ltd.  
 Address: 6th Floor, Nihon Seimei Akasaka Building,   
 1-19, Akasaka 8-chome, Minato-ku, Tokyo 
 
