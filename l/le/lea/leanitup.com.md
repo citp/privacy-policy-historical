@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leanitup.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031152156id_/http%3A//www.leanitup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leanitup.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510015605id_/http%3A//www.leanitup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lean It UP!
 
@@ -55,4 +55,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 E-mail: bryand@leanitup.com
 
-This policy is powered by Free Privacy Policy and Rhino Support [helpdesk software](http://www.rhinosupport.com/).
+This policy is powered by Free Privacy Policy and Rhino Support [helpdesk software](http://www.rhinosupport.com/). 
