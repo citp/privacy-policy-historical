@@ -1,101 +1,140 @@
-<!--The following is the downloaded HTML source of the zenodo.org privacy policy that was archived on 2013-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131122110848id_/http%3A//zenodo.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zenodo.org privacy policy that was archived on 2014-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140509234250id_/http%3A//zenodo.org/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
   <title>ZENODO</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Language" content="en"><meta name="google-site-verification" content="5fPGCLllnWrvFxH9QWI0l1TadV7byeEvfPcyK2VkS_s"><meta name="google-site-verification" content="Rp5zp04IKW-s1IbpTOGB7Z6XY60oloZD5C3kTM-AiY4"><link rev="made" href="mailto:info@zenodo.org">
+  <meta name="google-site-verification" content="5fPGCLllnWrvFxH9QWI0l1TadV7byeEvfPcyK2VkS_s">
+  <meta name="google-site-verification" content="Rp5zp04IKW-s1IbpTOGB7Z6XY60oloZD5C3kTM-AiY4">
+
+  <link rel="author" href="mailto:info@zenodo.org">
+  <link rel="canonical" href="http://zenodo.org/privacy-policy">
   <link rel="alternate" type="application/rss+xml" title="ZENODO RSS" href="/rss">
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearchdescription" title="ZENODO">
   <link rel="unapi-server" type="application/xml" title="unAPI" href="/unapi">
-  
-  
-    <link rel="stylesheet" type="text/css" href="/css/jquery-ui.custom.css">
-    <link rel="stylesheet" type="text/css" href="/css/bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="/css/bootstrap-responsive.min.css">
-    <link rel="stylesheet" type="text/css" href="/css/token-input.css">
-    <link rel="stylesheet" type="text/css" href="/css/token-input-facebook.css">
-    <link rel="stylesheet" type="text/css" href="/css/datepicker.css">
-    <link rel="stylesheet" type="text/css" href="/css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="/css/typeahead.js-bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="/css/custom.css">
-  <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,100" rel="stylesheet" type="text/css">
   <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
   <!--[if lt IE 9]>
-    <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
   <link rel="shortcut icon" href="/favicon.ico">
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
-  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114-precomposed.png">
-  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72-precomposed.png">
-  <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57-precomposed.png">
-  <style id="holderjs-style" type="text/css">.holderjs-fluid {font-size:16px;font-weight:bold;text-align:center;font-family:sans-serif;margin:0}</style></head>
-<body lang="en" itemscope="" itemtype="http://schema.org/WebPage"><div id="wrap">
-    <form action="https://zenodo.org/youraccount/login" method="POST" class="form-inline">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,100" rel="stylesheet" type="text/css"><link rel="stylesheet" type="text/css" href="/css/jquery-ui.custom.css"><link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css"><link rel="stylesheet" type="text/css" href="/css/bootstrap-theme.min.css"><link rel="stylesheet" type="text/css" href="/css/token-input.css"><link rel="stylesheet" type="text/css" href="/css/token-input-facebook.css"><link rel="stylesheet" type="text/css" href="/css/datepicker.css"><link rel="stylesheet" type="text/css" href="/css/font-awesome.min.css"><link rel="stylesheet" type="text/css" href="/css/typeahead.js-bootstrap.css"><link rel="stylesheet" type="text/css" href="/css/custom.css"><link rel="stylesheet" type="text/css" href="/css/bootstrap-switch.css">
+</head>
+<body lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+  <div id="wrap">
+<div class="modal fade" id="sign-in-modal" tabindex="-1" role="dialog" aria-labelledby="sign-in-label" aria-hidden="true">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <div class="modal-header" align="center" style="background-color: #eeeeee;">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        <h3 class="modal-title" id="sign-in-label">Sign In</h3>
+      </div>
+      <div class="modal-body">
+        <div class="row">
+          <div class="col-md-12">
+          <br><a href="/oauth/login/github/?next=%2Fprivacy-policy" class="btn btn-default btn-lg btn-block"><i class="fa fa-github"></i> Sign in with GitHub</a>
+          </div>
+        </div>
+      </div>
+      <div class="modal-body" align="center">
+          <h3>— OR —</h3>
+      </div>
+      <div class="modal-body">
+        <div class="row">
+          <div class="col-md-12">
+            <form class="form-signin" action="/youraccount/login" method="POST">
+            <input id="referer" name="referer" type="hidden" value="/account/settings/profile">
+            <input id="login_method" name="login_method" type="hidden" value="Local">
+            <div class="form-group">
+              <input class="form-control" id="nickname" name="nickname" placeholder="Username or email" type="text" value="">
+            </div>
+            <div class="form-group">
+              <input class="form-control" id="password" name="password" placeholder="Password" type="password" value="">
+
+              <label class="checkbox">
+                <input class="checkbox" id="remember" name="remember" type="checkbox" value="y"> Remember Me
+              </label>
+              <button class="btn btn-info btn-lg btn-block" id="submit" name="submit" type="submit"><i class="fa fa-sign-in"></i> Sign in</button>
+            
+            <p class="text-center"><br><small>
+              <a href="/youraccount/lost">
+                Lost your password?
+              </a>
+            </small></p>
+          </div></form>
+        </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="sign-up-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        <h3 class="modal-title" id="sign-in-label">Sign In</h3>
+      </div>
+      <div class="modal-body">
+        <p>One fine body…</p>
+      </div>
+    </div>
+  </div>
+</div><!-- <form action="https://zenodo.org/youraccount/login" method="POST" class="form-inline" role="form">
+              <input id="referer" name="referer" type="hidden" value="/privacy-policy">
+              <input id="remember" name="remember" type="hidden" value="n">
+              <div class="form-group"><input name="nickname" type="text" class="form-control input-sm hidden-sm hidden-xs" placeholder=" email"></div>
+              <div class="form-group"><input name="password" type="password" class="form-control input-sm hidden-sm hidden-xs" placeholder=" password"></div>
+              <div class="form-group"><button name="submit" type="submit" class="btn btn-default"><i class="fa fa-sign-in"></i> Sign in</button></div>
+              </form>-->
+
   <header class="gradient">
     <div class="container headerbg">
       <div class="container">
         <div class="row">
-          <div class="span3">
+          <div class="col-md-3">
             <a href="/"><img id="logoimg" src="/img/zenodo.png" alt="ZENODO"></a><br>
           </div>
-          <div class="span9 pull-right hidden-phone">
+          <div class="col-md-9 pull-right hidden-sm hidden-xs">
             <h1 style="padding-top: 50px; color: #00488c; font-size: 60px; line-height: 60px; text-align:right;">Research. Shared.</h1>
           </div>
         </div>
       </div>
       <div class="container" style="height:37px;">
         <ul class="nav nav-tabs"><li><a href="/">Search</a></li><li><a href="/communities/">Communities</a></li><li class="dropdown">
-            <a class="dropdown-toggle" data-toggle="dropdown" href="/">Browse <b class="caret"></b></a>
-            <ul class="dropdown-menu"><li><a href="/collection/datasets">Datasets</a></li><li><a href="/collection/images">Images</a></li><li><a href="/collection/posters">Posters</a></li><li><a href="/collection/presentations">Presentations</a></li><li><a href="/collection/publications">Publications</a></li><li><a href="/collection/videos">Video/Audio</a></li><li><a href="/collection/software">Software</a></li></ul>
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Browse <b class="caret"></b></a>
+            <ul class="dropdown-menu"><li><a href="/collection/datasets">Datasets</a></li><li><a href="/collection/images">Images</a></li><li><a href="/collection/posters">Posters</a></li><li><a href="/collection/presentations">Presentations</a></li><li><a href="/collection/publications">Publications</a></li><li><a href="/collection/software">Software</a></li><li><a href="/collection/videos">Video/Audio</a></li></ul>
           </li><li><a href="/deposit/">Upload</a></li><li class="dropdown">
-            <a class="dropdown-toggle" data-toggle="dropdown" href="/">Get started <b class="caret"></b></a>
-            <ul class="dropdown-menu"><li><a href="/features">Features</a></li><li><a href="/faq">FAQ</a></li></ul>
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Get started <b class="caret"></b></a>
+            <ul class="dropdown-menu"><li><a href="/faq">FAQ</a></li><li><a href="/features">Features</a></li></ul>
           </li>
-          <li class="dropdown pull-right">
-                <input id="referer" name="referer" type="hidden" value="/privacy-policy">
-                <input id="remember" name="remember" type="hidden" value="n">
-                <input name="nickname" type="text" class="input-small hidden-phone" placeholder="Email">
-                <input name="password" type="password" class="input-small hidden-phone" placeholder="Password">
-                <button name="submit" type="submit" class="btn"><i class="icon-signin"></i> Sign in</button>
-
-              
+          <li class="pull-right">
+              <button class="btn btn-default" data-toggle="modal" data-target="#sign-in-modal"><i class="fa fa-sign-in"></i> Sign In</button>
+              <button class="btn btn-warning" onclick="window.location='http://zenodo.org/youraccount/register'"><i class="fa fa-edit"></i> Sign Up</button>
           </li>
         </ul>
       </div>
     </div>
   </header>
-</form>
     <div class="container phone-margin">
-      
       <div class="row">
         <div class="span12">
           <ul class="breadcrumb" itemprop="breadcrumb">
-            
-            <li><a href="/" class="navtrail">Home</a> <span class="divider">/</span></li>
-            
-            
+            <li><a href="/" class="navtrail">Home</a></li>
             <li class="active">Privacy policy</li>
-            
-            
           </ul>
         </div>
       </div>
-      
-      
-      
-      
-      
-      
-      <div class="row">
-        <div class="span12">
-          
-        </div>
-      </div>
-      
-      
+
+  <div class="row">
+    <div class="col-sm-12 col-md-12 col-pad-0">
+  
+    
+  
+
+    </div>
+  </div>
 <div class="row">
     <div class="span12">
 <h1>Privacy policy</h1>
@@ -111,19 +150,16 @@
       <div id="push"></div>
     </div>
   </div>
-
-  <div class="container phone-margin">
-    
-  </div><footer id="footer">
+  <div class="container phone-margin"></div><footer id="footer">
   <div class="container phone-margin">
     <div class="row">
-      <div class="span2"><ul><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li><li><a href="/policies">Policies</a></li></ul></div>
-      <div class="span2"><ul><li><a href="/features">Features</a></li><li><a href="/faq">FAQ</a></li><li><a href="/dev">API</a></li></ul></div>
-      <div class="span2 offset1 hidden-phone">
+      <div class="col-sm-2 col-md-2"><ul><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li><li><a href="/policies">Policies</a></li></ul></div>
+      <div class="col-sm-2 col-md-2"><ul><li><a href="/features">Features</a></li><li><a href="/faq">FAQ</a></li><li><a href="/dev">API</a></li></ul></div>
+      <div class="col-lg-offset-1 col-sm-2 col-md-2 hidden-sm">
         <p><small>Powered by:</small></p>
         <a href="http://invenio-software.org"><img src="/img/logo_white.png" width="100px"></a>
       </div>
-      <div class="span5"><span class="pull-right partners hidden-phone">
+      <div class="col-sm-5 col-md-5"><span class="pull-right partners hidden-sm">
         <a href="http://www.openaire.eu"><img src="/img/openaire.png" height="60px"></a>
         <a href="http://cern.ch"><img src="/img/cern.png" height="60px"></a>
         <a href="http://cordis.europa.eu/projects/rcn/100079_en.html"><img src="/img/fp7.png" height="60px"></a>
@@ -131,27 +167,14 @@
       </div>
     </div>
     <div class="row">
-      <div class="span12" style="text-align: center;">
-        <p><small><a href="/terms">Terms of use</a> | <a href="/privacy-policy">Privacy policy</a> | <a href="/contact">Support/Feedback</a></small></p></div><small>
-    </small></div><small>
-  </small></div><small>
-</small></footer><small>
-
-  
-  <script type="text/javascript" defer="" async="" src="https://piwik.web.cern.ch/piwik.js"></script><script type="text/javascript" src="/js/hogan.js"></script>
-  <script type="text/javascript" src="/js/jquery.min.js"></script>
-  <script type="text/javascript" src="/js/jquery-migrate.min.js"></script>
-  <script type="text/javascript" src="/js/jquery-ui.custom.min.js"></script>
-  <script type="text/javascript" src="/js/bootstrap.min.js"></script>
-  <script type="text/javascript" src="/js/bootstrap-select.js"></script>
-  <script type="text/javascript" src="/js/bootstrap-datepicker.js"></script>
-  <script type="text/javascript" src="/js/jquery.tokeninput.js"></script>
-  <script type="text/javascript" src="/js/websearch_typeahead.js"></script>
-  <script type="text/javascript" src="/js/holder.js"></script>
-  <script type="text/javascript" src="/js/custom.js"></script>
+      <div class="col-sm-12 col-md-12" style="text-align: center;">
+        <p><small><a href="/terms">Terms of use</a> | <a href="/privacy-policy">Privacy policy</a> | <a href="/support">Support/Feedback</a></small></p>
+      </div>
+    </div>
+  </div>
+</footer>
+<script type="text/javascript" defer="" async="" src="https://piwik.web.cern.ch/piwik.js"></script><script type="text/javascript" src="/js/hogan.js"></script><script type="text/javascript" src="/js/jquery.min.js"></script><script type="text/javascript" src="/js/jquery-migrate.min.js"></script><script type="text/javascript" src="/js/jquery-ui.custom.min.js"></script><script type="text/javascript" src="/js/bootstrap.js"></script><script type="text/javascript" src="/js/bootstrap-select.js"></script><script type="text/javascript" src="/js/bootstrap-datepicker.js"></script><script type="text/javascript" src="/js/jquery.tokeninput.js"></script><script type="text/javascript" src="/js/custom.js"></script><script type="text/javascript" src="/js/bootstrap-switch.js"></script><script type="text/javascript" src="/js/vendor/ZeroClipboard.min.js"></script>
   <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-  
-  
   <script type="text/javascript">
   var _paq = _paq || [];
   _paq.push(["setDomains", ["*.zenodo.org","*.zenodo.cern.ch","*.zenodo.eu","*.zenodo.net"]]);
@@ -166,6 +189,5 @@
     g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
   })();
   </script>
-  
 
-</small></body></html>
+</body></html>
