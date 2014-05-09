@@ -1,21 +1,311 @@
-<!--The following is the downloaded HTML source of the fashionindie.com privacy policy that was archived on 2013-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131221211451id_/http%3A//fashionindie.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fashionindie.com privacy policy that was archived on 2014-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140509232034id_/http%3A//www.fashionindie.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<title>Fashion Indie</title>
+<title>FashionIndie - The Independent Fashion Magazine</title>
 <meta charset="UTF-8">
-<meta property="og:title" content="Fashion Indie">
-<meta property="twitter:title" content="Fashion Indie">
-<meta property="og:description" content="Fashion Indie - Top Fashion Bloggers">
-<meta property="twitter:description" content="Fashion Indie - Top Fashion Bloggers">
-<meta name="description" content="Fashion Indie - Top Fashion Bloggers">
-<meta property="og:site_name" content="Fashion Indie">
+<meta property="og:title" content="FashionIndie - The Independent Fashion Magazine">
+<meta property="twitter:title" content="FashionIndie - The Independent Fashion Magazine">
+<meta property="og:description" content="Fashion Indie - Home of the World's Top Fashion Bloggers">
+<meta property="twitter:description" content="Fashion Indie - Home of the World's Top Fashion Bloggers">
+<meta name="description" content="Fashion Indie - Home of the World's Top Fashion Bloggers">
+<meta property="og:site_name" content="FashionIndie - The Independent Fashion Magazine">
 <link rel="canonical" href="http://www.fashionindie.com/privacy">
 <link rel="stylesheet" type="text/css" href="http://46cd30968e1573f1be6a-8c2846daf2177f4f4bf5c632288c9df2.r86.cf2.rackcdn.com/bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="http://0b66c1e280a3b82ac823-3d6ebc62a5bfdc092616ab5c55d873fc.r8.cf2.rackcdn.com/style-09232013-2.css">
-<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<link rel="stylesheet" type="text/css" href="http://0b66c1e280a3b82ac823-3d6ebc62a5bfdc092616ab5c55d873fc.r8.cf2.rackcdn.com/style-02182014.css">
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script id="pubexchange-jssdk" async="" src="http://cdn.pubexchange.com/modules/partner/fashion_indie"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <script type="text/javascript" src="http://46cd30968e1573f1be6a-8c2846daf2177f4f4bf5c632288c9df2.r86.cf2.rackcdn.com/bootstrap.min.js"></script>
+<!-- 
 <script type="text/javascript" src="http://0b66c1e280a3b82ac823-3d6ebc62a5bfdc092616ab5c55d873fc.r8.cf2.rackcdn.com/script-09232013.js"></script>
+-->
+<script type="text/javascript">
+var documentHeight;
+var windowHeight;
+var windowWidth;
+var masonryize = function(keep_hidden) {
+if (typeof keep_hidden === 'undefined')
+keep_hidden = false;
+if ($(".foundation").length > 0)
+{
+var foundation = $('.foundation');
+foundation.each(function() {
+$foundation = $(this);
+var posts = [];
+$foundation.find(".masonryize").each(function() {
+posts.push($(this).detach());
+});
+var get_height = function($col) {
+var myHeight = 0;
+$col.find("img").each(function() {
+if ($(this).attr('height')) {
+myHeight += parseInt( $(this).attr('height') );
+} else {
+myHeight += 300;
+}
+});
+return myHeight;
+};
+posts.forEach(function ($post) {
+var heights = [];
+$foundation.find(".masonry").not('.hidden').each(function() {
+var myHeight = get_height($(this));
+heights.push(parseInt(myHeight));
+});
+heights.sort(function (a, b) { return a - b; });
+var column = $foundation.find(".masonry").not('.hidden').filter(function() {
+var myHeight = get_height($(this));
+return heights[0] == myHeight;
+});
+if ( ! keep_hidden)
+$post.css("visibility", "visible");
+column.eq(0).append($post.removeClass("masonryize"));
+});
+});
+documentHeight = $(document).height();
+windowHeight = $(window).height();
+}
+}
+var cover_images = function() {
+        $(".cover").each(function() {
+                var $this = $(this);
+                var $parent = $this.parent();
+                cover_image($this, $parent);
+        });
+        if (typeof cover_images_callback === 'function')
+        {
+                cover_images_callback();
+        }
+}
+var cover_image = function($this, $parent) {
+        $this.css({
+                "width":"auto",
+                "max-width":"none",
+                "height":"auto",
+                "max-height":"none",
+                "position": "relative",
+        });
+        var parent_ar = $parent.width() / $parent.height();
+var ar = $this.width() / $this.height();
+if (parent_ar > ar)
+{
+$this.css({
+"width":"100%",
+});
+var offset_top = Math.round( ($this.height() - $parent.height()) / 2 );
+$this.css("top", -1 * offset_top);
+}
+else
+{
+$this.css({
+"height":"100%"
+});
+var offset_left = Math.round( ($this.width() - $parent.width()) / 2 );
+$this.css("left", -1 * offset_left);
+}
+$this.css('visibility', 'visible');
+};
+$(window).load(function() {
+        cover_images();
+   if ($('.image-overflow').length > 0) {
+                var image_height = $('.image-overflow').find('.image').height();
+                $('.image-overflow').css({
+                        "height":image_height + 20,
+                });
+        }
+var scrollCount = 0;
+        var shareFixed = false;
+        var shareAbsolute = false;
+        if ($('.leftvert.sticky').length > 0) {
+                var shareTop = $('.leftvert.sticky').offset().top - 20;
+                var relatedTop = $('.related-stories').offset().top;
+                var shareHeight = $('.leftvert.sticky').height();
+ var singleBodyHeight = $('.single-body').height();
+                relatedTop = $('.single-body').offset().top + singleBodyHeight;
+        }
+if ($(".sidebar").length > 0) {
+   var sidebarHeight = $('.sidebar').height() + 20;
+var sidebarTop = $('.sidebar').offset().top;
+var sidebarFixed = false;
+}
+        
+        $(document).scroll(function() {
+                scrollCount++;
+                if (scrollCount == 10)
+                {
+                        documentHeight = $(document).height();
+                        windowHeight = $(window).height();
+                        windowWidth = $(window).width();
+                        scrollCount = 0;
+                }
+                var scrollTop = $(document).scrollTop();
+                if (! shareFixed && scrollTop > shareTop && singleBodyHeight > shareHeight ) {
+                        $('.leftvert.sticky').addClass('fixed-top');
+                        shareFixed = true;
+                }
+                if (shareFixed && scrollTop < shareTop && singleBodyHeight > shareHeight) {
+                        $('.leftvert.sticky').removeClass('fixed-top');
+                        shareFixed = false;
+                }
+                if (! shareAbsolute && scrollTop > (relatedTop - shareHeight) - 20 && singleBodyHeight > shareHeight) {
+                        $('.leftvert.sticky').removeClass('fixed-top').addClass('absolute').css({"top":relatedTop - shareHeight});
+                        shareAbsolute = true;
+                }
+                if (shareAbsolute && scrollTop < (relatedTop - shareHeight) - 20 && singleBodyHeight > shareHeight) {
+                        $('.leftvert.sticky').removeClass('absolute').addClass('fixed-top').css({"top":"20px"});
+                        shareAbsolute = false;
+                }
+if ($(".sidebar").length > 0) {
+if (! sidebarFixed && scrollTop > sidebarTop + sidebarHeight) {
+$('.sidebar .fixed > div').not('.sticky').addClass('hidden');
+$('.sidebar .fixed').addClass('fixed-top');
+sidebarFixed = true;
+}
+if (sidebarFixed && scrollTop < sidebarTop + sidebarHeight) {
+$('.sidebar .fixed').removeClass('fixed-top');
+$('.sidebar .fixed > div').not('.sticky').removeClass('hidden');
+sidebarFixed = false;
+}
+}
+        });
+});
+$(document).ready(function() {
+masonryize();
+documentHeight = $(document).height();
+windowHeight = $(window).height();
+windowWidth = $(window).width();
+var infinitePage = 1;
+var scrollCount = 0;
+        $('.navigation .dropdown').hover(
+                function() {
+                        $(this).find('a:first').addClass('hover');
+                },
+                function() {
+                        $(this).find('a:first').removeClass('hover');
+                }
+        );
+        $('.sidebar .latest-posts .post').hover(
+                function() {
+                        $(this).find('.info').slideDown('fast');
+                },
+                function() {
+                        $(this).find('.info').slideUp('fast');
+                }
+        );
+        $(document).on('click', '.share-link', function() {
+                $(this).closest('.share-group').toggleClass('active');
+                $(this).next('.social-links').slideToggle('fast', function() {
+                        $(this).toggleClass('box-shadow');
+                });
+                return false;
+        });
+   $('.leftvert .box').hover(
+                function() {
+                        $(this).addClass('active');
+                },
+                function() {
+                        $(this).removeClass('active');
+                }
+        );
+   $('.related-stories .post').hover(
+                function() {
+                        $(this).find('.info').slideDown('fast');
+                },
+                function() {
+                        $(this).find('.info').slideUp('fast');
+                }
+        );
+   $('.search-btn').click(function() {
+                $('.searchbar').slideToggle('fast');
+        });
+   $('.friends .nav-tabs li a').hover(
+                function() {
+                        $('.friends .tab-pane.active').removeClass('active');
+                        var target = $(this).attr('href');
+                        $(target).addClass('active');
+                },
+                function() {
+                        
+                }
+        );
+        $('.friends').hover(
+                function() {
+                },
+                function() {
+                        $('.friends .tab-pane.active').removeClass('active');
+                }
+        );
+$(document).scroll(function() {
+/* For the Flyout */
+if ($(".single-post").length > 0 && $("#flyout-trigger").length > 0)
+{
+var distanceTop = $('#flyout-trigger').offset().top - 200 - $(window).height();
+if  ($(window).scrollTop() > distanceTop)
+{
+$('#recommendation-slideout').addClass('visible');
+clicky.goal('Flyout Appeared');
+}
+else
+{
+$('#recommendation-slideout.visible').removeClass('visible');
+}
+}
+});
+$(document).on('click', ".bump", function() {
+var slug = $(this).find('.vote-count').attr("data-slug");
+var $span = $(".vote-count[data-slug=" + slug + "]");
+// Override for the contest pages with ranking.
+if ($span.find(".vote-count-value").length > 0)
+$span = $span.find(".vote-count-value");
+$.getJSON("/meta/vote/" + slug, function(resp) {
+$span.each(function() {
+var $this = $(this);
+$this.animate({opacity:0.1}, function() {
+if (resp.ok)
+{
+var votes = parseInt($this.text());
+votes = votes + 1;
+votes = votes + '';
+$this.text( votes );
+}
+$this.animate({opacity:1});
+});
+});
+});
+return false;
+});
+$('.image-thumbnails a').click(function() {
+var src = $(this).find('img').attr('src');
+var target = $(this).closest('.single-body').find('.image > img');
+target.attr('src', src);
+return false;
+});
+$('#search-form').submit(function() {
+var search = $(this).find('input').val();
+window.location.href = "/search/" + encodeURIComponent(search);
+return false;
+});
+$('.search-submit').click(function() {
+$('#search-form').submit();
+return false;
+});
+if ($('.single-body').length > 0) {
+$('.single-body img').each(function() {
+var image = $(this);
+var url = image.attr('src');
+var button = $('<span class="custom_sharethis_button" id="' + url + '">');
+image.wrap('<div class="share_image"></div>');
+image.after(button);
+stWidget.addEntry({
+"service":"pinterest",
+"element":document.getElementById(url),
+"url":url,
+"image":url,
+"type":"large",
+"displayText":"Pinterest",
+});
+});
+}
+});</script>
 <script type="text/javascript" src="http://tid.al/js/tidal.js"></script>
 <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
 <script type="text/javascript">stLight.options({publisher: "ur-e7219174-56f2-a1a-817e-858fa0eb18d5", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
@@ -72,14 +362,13 @@ lastDocumentHeight = documentHeight;
 <body>
 <div class="topad">
 <div class="ad">
-<a href="http://www.socialyte.co"><img src="http://i.imgflip.com/5jixh.gif" title="made at imgflip.com"></a>
-</div>
+<a href="http://www.socialyte.co"><img class="alignnone size-full wp-image-1152" alt="mmeet" src="http://becaalexander.com/wp-content/uploads/2014/02/mmeet1.jpg" width="728" height="90"></a></div>
 </div>
 <div class="searchbar">
 <div class="container">
 <form id="search-form">
-<input type="text" placeholder="Search by brand, style or trends ...">
-<a href="#" class="btn btn-inverse btn-large block search-btn search-submit">Search <i class="icon icon-arrow-right" style="margin-left:10px"></i></a>
+<input type="text" placeholder="Search by brand ...">
+<a href="#" class="btn btn-inverse btn-large block search-btn search-submit">FIND<i class="icon icon-arrow-right" style="margin-left:10px"></i></a>
 </form>
 </div>
 </div>
@@ -93,8 +382,8 @@ lastDocumentHeight = documentHeight;
 <li><a class="social-link pinterest" href="//pinterest.com/fashionindie" target="blank">Pinterest</a></li>
 </ul>
 <ul class="pull-right">
-<li class="login-btn"><a href="/contribute">Log on</a></li>
-<li class="register-btn"><a href="/contribute/user/signup">Register</a></li>
+<li class="login-btn"><a href="/contribute">Contribute</a></li>
+<li class="register-btn"><a href="/contribute/user/signup">You can sit with us.</a></li>
 <li class="search-btn">
 <a class="search-toggle" href="#">Search</a>
 <form>
@@ -108,8 +397,8 @@ lastDocumentHeight = documentHeight;
 <div class="header">
 <h1 class="brand"><a href="/">Fashion Indie</a></h1>
 <div class="contributor-box pull-right caret-left">
-<p class="small">Join our masthead to access perks and sponsorships from our advertisers.</p>
-<a href="/contribute" class="btn btn-large btn-inverse block">Become an Editor<i class="icon icon-arrow-right pull-right"></i></a>
+<p class="small">The Independent Fashion Magazine.</p>
+<a href="/contribute" class="btn btn-large btn-inverse block">Become an Indie<i class="icon icon-arrow-right pull-right"></i></a>
 </div>
 <div class="clearfix"></div>
 </div>
@@ -186,16 +475,204 @@ New York, NY 10001</p>
 <div class="span4 sidebar">
 <div class="">
 <div class="sticky">
-<p>
-<a href="http://www.socialyte.co"><img src="http://i.imgflip.com/5jhw2.gif" title="made at imgflip.com"></a>
+<script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/N3643.1115836.FASHIONINDIE.COM/B8025860.106815686;sz=300x600;ord=[1112]?">
+</script>
+<noscript>
+<A HREF="http://ad.doubleclick.net/jump/N3643.1115836.FASHIONINDIE.COM/B8025860.106815686;sz=300x600;ord=[1112]?">
+<IMG SRC="http://ad.doubleclick.net/ad/N3643.1115836.FASHIONINDIE.COM/B8025860.106815686;sz=300x600;ord=[1112]?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A>
+</noscript>
+<!--<a href="http://www.socialyte.co"><img src="http://becaalexander.com/wp-content/uploads/2014/02/socailyte.jpg" alt="socailyte" width="300" height="500" class="alignnone size-full wp-image-1153" /></a>
+<br><br>-->
+<!--
+<img class="alignnone size-medium wp-image-1142" alt="featuredindie" src="http://becaalexander.com/wp-content/uploads/2014/02/featuredindie.jpg" width="300" height="47" />
+<iframe style="border:none" src="http://files.photosnack.com/iframejs/embed.html?hash=pdh90c11&t=1393020725" width="300" height="470" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" ></iframe>
+<p style="text-align: center;">
+<img class="alignnone size-medium wp-image-1146" alt="giveaways" src="http://becaalexander.com/wp-content/uploads/2014/02/giveaways1.jpg" width="300" height="47" />
+<a href="http://www.fashionindie.com/post/a-years-supply-of-meundies-can-be-yours"><img src="http://becaalexander.com/wp-content/uploads/2014/02/me_undies.jpg" alt="me_undies" width="300" height="250" class="alignnone size-full wp-image-1155" /></a>
+</p>-->
+<p style="text-align: center;">
+<img class="alignnone size-medium wp-image-1145" alt="indiegrams" src="http://becaalexander.com/wp-content/uploads/2014/02/indiegrams2.jpg" width="300" height="47">
+<!-- SnapWidget -->
+<iframe src="http://snapwidget.com/p/widget/?id=kZVGIXR38X&amp;t=406" title="Instagram Widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:280px; height:595px"></iframe>
 </p>
-<div id="sidebar-bloggers">
-<div class="inner">
-</div> <!--inner -->
-</div> <!-- sidebar-bloggers --></div>
-<div class="google-plus">
-<div class="g-plus" data-href="https://plus.google.com/+FashionIndie"></div>
-</div>
+<p style="text-align: center;">
+<img class="alignnone size-full wp-image-1147" alt="twiter" src="http://becaalexander.com/wp-content/uploads/2014/02/twiter.jpg" width="300" height="47">
+<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/fashionindie" data-widget-id="433062062512553984">Tweets by @fashionindie</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</p>
+<p style="text-align: center;">
+<img class="alignnone size-medium wp-image-1141" alt="google" src="http://becaalexander.com/wp-content/uploads/2014/02/google2.jpg" width="300" height="47">
+</p><div class="g-page" data-href="https://plus.google.com/106049767556609429346" data-layout="landscape" data-rel="publisher"></div>
+<p></p>
+<p style="text-align: center;">
+<img class="alignnone size-medium wp-image-1144" alt="indie_pinterst" src="http://becaalexander.com/wp-content/uploads/2014/02/indie_pinterst.jpg" width="300" height="47">
+<a data-pin-do="embedUser" href="http://www.pinterest.com/fashionindie/" data-pin-scale-width="135" data-pin-scale-height="1000" data-pin-board-width="300">Visit Fashion Indie's profile on Pinterest.</a>
+<!-- Please call pinit.js only once per page -->
+<script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script>
+</p>
+<p style="text-align: center;">
+<img class="alignnone size-full wp-image-1140" alt="likeus" src="http://becaalexander.com/wp-content/uploads/2014/02/likeus2.jpg" width="300" height="47">
+<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Ffashionindie&amp;width=287&amp;height=258&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=231278996882334" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:287px; height:258px;" allowtransparency="true"></iframe>
+</p>
+<p><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/N3643.1115836.FASHIONINDIE.COM/B8025860.106815684;sz=300x250;ord=[1111]?">
+</script>
+<noscript>
+<A HREF="http://ad.doubleclick.net/jump/N3643.1115836.FASHIONINDIE.COM/B8025860.106815684;sz=300x250;ord=[1111]?">
+<IMG SRC="http://ad.doubleclick.net/ad/N3643.1115836.FASHIONINDIE.COM/B8025860.106815684;sz=300x250;ord=[1111]?" BORDER=0 WIDTH=300 HEIGHT=250 ALT="Advertisement"></A>
+</noscript>
+</p>
+<p>
+<img class="alignnone size-full wp-image-1148" alt="masthead" src="http://becaalexander.com/wp-content/uploads/2014/02/masthead1.jpg" width="300" height="47">
+</p><center>
+<em>editor-in-chief</em><br>
+<a title="Beca Alexander" href="http://fashionindie.com/user/beca-alexander-1361388352" target="_blank">Beca Alexander</a>
+<br><br>
+<em>creative director</em><br>
+<a href="http://fashionindie.com/user/daniel-saynt-creative-director" target="_blank">Daniel Saynt</a>
+<br><br>
+<em>contributors</em><br>
+<a title="Le City Kitty" href="http://fashionindie.com/user/lecitykitty" target="_blank">Le City Kitty</a><br>
+<a href="http://fashionindie.com/user/openingceremony" target="_blank">Opening Ceremony</a><br>
+<a href="http://fashionindie.com/user/barneysny" target="_blank">Barney's New York</a><br>
+<a href="http://fashionindie.com/user/miguel-lazaro" target="_blank">Styled + Framed</a><br>
+<a href="http://fashionindie.com/user/melodie-jeng" target="_blank">The NYC Streets</a><br>
+<a title="Collage Vintage" href="http://fashionindie.com/user/sara-escudero-14187349" target="_blank">Collage Vintage</a><br>
+<a href="http://fashionindie.com/user/doina-ciobanu-1375953002" target="_blank">The Golden Diamonds</a><br>
+<a title="Kayture" href="http://fashionindie.com/user/kristin-bazan" target="_blank">Kayture</a><br>
+<a title="Damsel in Dior" href="http://fashionindie.com/user/jacey-duprie" target="_blank">Damsel in Dior</a><br>
+<a href="http://fashionindie.com/user/jenny-ong" target="_blank">Neon Blush</a><br>
+<a title="Penny Pincher Fashion" href="http://fashionindie.com/user/kimberly-smith" target="_blank">Kimberly Smith</a><br>
+<a href="http://fashionindie.com/user/wendy-h-gilmour" target="_blank">Thank Fifi</a><br>
+<a href="http://fashionindie.com/user/cara-loren-van-brocklin" target="_blank">Cara Loren</a><br>
+<a href="http://fashionindie.com/user/camilla" target="_blank">Glamgerous</a><br>
+<a title="This Time Tomorrow" href="http://fashionindie.com/user/krystal-bick" target="_blank">This Time Tomorrow</a><br>
+<a href="http://fashionindie.com/user/fake_leather" target="_blank">Fake Leather</a><br>
+<a title="Seams for a Desire" href="http://fashionindie.com/user/jessie-chanes" target="_blank">Seams for a Desire</a><br>
+<a title="Winston &amp; Willow" href="http://fashionindie.com/user/charlotte-bridgeman" target="_blank">Winston &amp; Willow</a><br>
+<a href="http://fashionindie.com/user/annabelle-fleur-1363914976" target="_blank">Viva Luxury</a><br>
+<a href="http://fashionindie.com/user/amber-fillerup-1346221026" target="_blank">Barefoot Blonde</a><br>
+<a title="Britt + Whitt" href="http://fashionindie.com/user/whitney-powell-10807838" target="_blank">Britt + Whit</a><br>
+<a title="Her Waise Choice" href="http://fashionindie.com/user/jen-tam" target="_blank">Her Waise Choice</a><br>
+<a title="Hallie Daily" href="http://fashionindie.com/user/hallie-swanson" target="_blank">Hallie Daily</a><br>
+<a href="http://fashionindie.com/user/tamara-kalinic" target="_blank">Glam &amp; Glitter</a><br>
+<a href="http://fashionindie.com/user/sheryl-raj" target="_blank">Walk in Wonderland</a><br>
+<a href="http://fashionindie.com/user/diana-marks" target="_blank">LA by Diana</a><br>
+<a href="http://fashionindie.com/user/lisa-dengler" target="_blank">Just Another Fashion Blog</a><br>
+<a href="http://fashionindie.com/user/daniela-ramirez-93022852" target="_blank">Nany's Klozet</a><br>
+<a href="http://fashionindie.com/user/fash-boulevard" target="_blank">FashBoulevard</a><br>
+<a href="http://fashionindie.com/user/willabelle-ong-1363999514" target="_blank">Pale Division</a><br>
+<a href="http://fashionindie.com/user/viviana-norden" target="_blank">Fashion Truffles</a><br>
+<a href="http://fashionindie.com/user/caitlin-lindquist" target="_blank">A Little Dash of Darling</a><br>
+<a href="http://fashionindie.com/user/grasie-mercedes" target="_blank">Style Me Grasie</a><br>
+<a href="http://fashionindie.com/user/vicki-frid" target="_blank">Vic Frid</a><br>
+<a href="http://fashionindie.com/user/honeynsilk" target="_blank">Honey &amp; Silk</a><br>
+<a href="http://fashionindie.com/user/davie-and-erica" target="_blank">LP Fashion Philosophy</a><br>
+<a href="http://fashionindie.com/user/laura-ellner" target="_blank">On the Racks</a><br>
+<a href="http://fashionindie.com/user/delmy-rivera" target="_blank">Fashion Bananas</a><br>
+<a href="http://fashionindie.com/user/veronika-molnar" target="_blank">Venekavision</a><br>
+<a href="http://fashionindie.com/user/rachel-iwanyszyn" target="_blank">Jag Lever</a><br>
+<a href="http://fashionindie.com/user/tesa-jurjasevic" target="_blank">Magnifique</a><br>
+<a href="http://fashionindie.com/user/jenny-wu" target="_blank">Good, Bad &amp; Fab</a><br>
+<a href="http://fashionindie.com/user/tania-hong-1350541628" target="_blank">Fresh Fizzle</a><br>
+<a href="http://fashionindie.com/user/ria-michelle" target="_blank">Ria Michelle</a><br>
+<a href="http://fashionindie.com/user/lavagabonddame" target="_blank">La Vagabond Dame</a><br>
+<a href="http://fashionindie.com/user/christine-andrew" target="_blank">Hello Fashion</a><br>
+<a href="http://fashionindie.com/user/nadiaaboulhosn" target="_blank">Nadia Aboulhosn</a><br>
+<a href="http://fashionindie.com/user/jennifer-16765397" target="_blank">Art is in Our Blood</a><br>
+<a href="http://fashionindie.com/user/danielle-audain-1348517662" target="_blank">Indie Electronic Alternative</a><br>
+<a href="http://fashionindie.com/user/tienlyn-jacobson-1377909128" target="_blank">Say Hello Max</a><br>
+<a href="http://fashionindie.com/user/the-fashion-cuisine" target="_blank">The Fashion Cuisine</a><br>
+<a href="http://fashionindie.com/user/kristen-lam-1365001655" target="_blank">KristenGlam</a><br>
+<a href="http://fashionindie.com/user/nicole-alyse" target="_blank">Running in Wedges</a><br>
+<a href="http://fashionindie.com/user/kristin-clark" target="_blank">Living in Color Print</a><br>
+<a href="http://fashionindie.com/user/tessa-mu" target="_blank">Anecdoche/</a><br>
+<a href="http://fashionindie.com/user/tovogueorbust" target="_blank">To Vogue or Bust</a><br>
+<a href="http://fashionindie.com/user/jessica-ricks" target="_blank">Hapa Time</a><br>
+<a href="http://fashionindie.com/user/always_judging" target="_blank">Always Judging</a><br>
+<a href="http://fashionindie.com/user/laura-okita" target="_blank">Paper Mothball Vintage</a><br>
+<a href="http://fashionindie.com/user/sonya-esman" target="_blank">Class is Internal</a><br>
+<a href="http://fashionindie.com/user/the-steele-maiden" target="_blank">The Steele Maiden</a><br>
+<a href="http://fashionindie.com/user/analisa-nguyen" target="_blank">Rouge Fox</a><br>
+<a href="http://fashionindie.com/user/tfdiaries-by-megan-zietz" target="_blank">TF Diaries</a><br>
+<a href="http://fashionindie.com/user/kiara-schwartz" target="_blank">Tobruck Ave</a><br>
+<a href="http://fashionindie.com/user/krystin-lee" target="_blank">Suburban Faux-Pas</a><br>
+<a href="http://fashionindie.com/user/nicholl-vincent-1384873230" target="_blank">The Chiffon Diaries</a><br>
+<a href="http://fashionindie.com/user/hanh-nguyen" target="_blank">The Hahn Solo</a><br>
+<a href="http://fashionindie.com/user/ava-anhdao-do" target="_blank">Inspirations Along the Way</a><br>
+<a href="http://fashionindie.com/user/bonnie-barton-1385616391" target="_blank">Flashes of Style</a><br>
+<a href="http://fashionindie.com/user/charlotte-groeneveld-1385679280" target="_blank">The Fashion Guitar</a><br>
+<a href="http://fashionindie.com/user/kristin-brophy" target="_blank">Fancy Things</a><br>
+<a href="http://fashionindie.com/user/victorianstern" target="_blank">Folio V</a><br>
+<a href="http://fashionindie.com/user/amy-scheepers-1382467429" target="_blank">Fancy Pants</a><br>
+<a href="http://fashionindie.com/user/js-everyday-fashion" target="_blank">J's Everyday</a><br>
+<a href="http://fashionindie.com/user/merrick-white" target="_blank">Merrick's Art</a><br>
+<a href="http://fashionindie.com/user/arabelle-sicardi" target="_blank">Fashion Pirate</a><br>
+<a href="http://fashionindie.com/user/vanessa-rodriguez" target="_blank">Stylishlyme</a><br>
+<a href="http://fashionindie.com/user/leanne-barlow" target="_blank">Elle Apparel</a><br>
+<a href="http://fashionindie.com/user/nicole-tta" target="_blank">Scent of Obsession</a><br>
+<a href="http://fashionindie.com/user/ellie-eckert" target="_blank">City Brewed</a>
+<a href="http://fashionindie.com/user/jill-lansky" target="_blank">The August Diaries</a><br>
+<a href="http://fashionindie.com/user/steffys-pros-and-cons" target="_blank">Steffy's Pros and Cons</a><br>
+<a href="http://fashionindie.com/user/chelseyhale" target="_blank">West Coast Capri</a><br>
+<a href="http://fashionindie.com/user/kelly-saks" target="_blank">Kelly's Kloset</a><br>
+<a href="http://fashionindie.com/user/cocochic" target="_blank">Coco Chic</a><br>
+<a href="http://fashionindie.com/user/stephanie-brown-14750161" target="_blank">Faiint</a><br>
+<a href="http://fashionindie.com/user/luanna-perez-garreaud" target="_blank">Le Happy</a><br>
+<a title="M Loves M" href="http://fashionindie.com/user/mara-ferreira" target="_blank">M Love M</a><br>
+<a href="http://fashionindie.com/user/tamara-kalinic" target="_blank">Glam &amp; Glitter</a><br>
+<a href="http://fashionindie.com/user/luanna-perez-garreaud" target="_blank">StyleNoted</a><br>
+<a href="http://fashionindie.com/user/luanna-perez-garreaud" target="_blank">Twist Me Pretty</a><br>
+<a title="Vanity Fair Agenda" href="http://fashionindie.com/user/vanity-fair-agenda" target="_blank">Vanity Fair Agenda</a><br>
+<a title="Sketch42" href="http://fashionindie.com/user/nicole-cohen" target="_blank">Sketch42</a><br>
+<a href="http://fashionindie.com/user/serena-goh-26754937" target="_blank">The Spicy Stiletto</a><br>
+<a href="http://fashionindie.com/user/mnica---mes-voyages--paris" target="_blank">Mes Voyages a Paris</a><br>
+<a href="http://fashionindie.com/user/devon-dyer-1376063783" target="_blank">Devon Rachel</a><br>
+<a href="http://fashionindie.com/user/aimee-santos" target="_blank">SwellMayde</a><br>
+<a href="http://fashionindie.com/user/elizabeth-minett" target="_blank">Haut Appetit</a><br>
+<a href="http://fashionindie.com/user/anna-jane-wisniewski" target="_blank">See Jane</a><br>
+<a href="http://fashionindie.com/user/kelli-larson" target="_blank">Kelli Murray</a><br>
+<a href="http://fashionindie.com/user/tania-dioespirro" target="_blank">La Coquette Miserable</a><br>
+<a href="http://fashionindie.com/user/ashlyn-williams" target="_blank">Let it Be Beautiful</a><br>
+<a href="http://fashionindie.com/user/girlsoflp" target="_blank">The Girls of Lincoln Park</a><br>
+<a href="http://fashionindie.com/user/delightfully-tacky" target="_blank">Delightfully Tacky</a><br>
+<a href="http://fashionindie.com/user/sydney-poulton" target="_blank">The Daybook</a><br>
+<a href="http://fashionindie.com/user/sarah-yates" target="_blank">A House in the Hills</a><br>
+<a href="http://fashionindie.com/user/megan-gilger" target="_blank">The Fresh Exchange</a><br>
+<a title="One Dapper Street" href="http://fashionindie.com/user/onedapperstreet" target="_blank">One Dapper Street</a><br>
+<a title="Closet Freaks" href="http://fashionindie.com/user/anthony-urbano" target="_blank">Closet Freaks</a><br>
+<a title="I Am Galla" href="http://fashionindie.com/user/adam-gallagher" target="_blank">I Am Galla</a><br>
+<a title="Whisky Grade" href="http://fashionindie.com/user/jamison-aweau" target="_blank">Whisky Grade</a><br>
+<a title="Sean Santiago" href="http://fashionindie.com/user/sean-santiago" target="_blank">*FruitPunch</a><br>
+<a title="Scout16" href="http://fashionindie.com/user/justin-livingston" target="_blank">Scout16</a><br>
+<a href="http://fashionindie.com/user/ryan-charchian" target="_blank">Fashionisto Diaries</a><br>
+<a href="http://fashionindie.com/user/mybelonging" target="_blank">My Belonging</a><br>
+<a href="http://fashionindie.com/user/freddy-rodriguez" target="_blank">Blue Perk</a><br>
+<a href="http://fashionindie.com/user/brian-sacawa" target="_blank">He Spoke Style</a><br>
+<a href="http://fashionindie.com/user/peter-sudarso-adrian" target="_blank">The Hobbyists</a><br>
+<a href="http://fashionindie.com/user/thibaud-guyonnet-1383844474" target="_blank">Starecasers</a><br>
+<a href="http://fashionindie.com/user/danny-chung" target="_blank">The Modman</a><br>
+<a href="http://fashionindie.com/user/dan-chizzoniti" target="_blank">Real Guys Wear Ties</a><br>
+<a href="http://fashionindie.com/user/david-fung" target="_blank">Menswear Dog</a><br>
+<a href="http://fashionindie.com/user/reinaldo-irizarry" target="_blank">Reyal Fashion</a>
+<br><br>
+<a href="http://fashionindie.com/contribute/user/signup" target="_blank">Become an Indie</a>
+</center>
+<div id="pubexchange_rail_by_partner"></div>
+<script>(function(d, s, id) {
+var js, pjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id; js.async = true;
+js.src = "http://cdn.pubexchange.com/modules/partner/fashion_indie";
+pjs.parentNode.insertBefore(js, pjs);
+}(document, 'script', 'pubexchange-jssdk'));</script>
+<!-- Place this tag after the last widget tag. -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script></div>
 <div class="featured-writers">
 <div class="row">
 <div class="span2">
@@ -276,7 +753,7 @@ New York, NY 10001</p>
 </div>
 </div>
 </div>
-<p class="border-top" style="padding:8px 0;"><i><a href="/users/top">View all contributors</a></i></p>
+<p class="border-top" style="padding:8px 0;"><i><a href="/users/top">View Contributors</a></i></p>
 </div>
 <div class="sticky">
 <div class="friends row">
@@ -369,6 +846,7 @@ clicky_site_ids.push(100560196);
      ref.parentNode.insertBefore(js, ref);
    }(document, /*debug*/ false));
 </script>
+<script type="text/javascript" src="//s.skimresources.com/js/482X774.skimlinks.js"></script>
 <script type="text/javascript">
 jQuery(document).ready(function() {
 	jQuery.post('/meta/t', {"c":"50a123b896126a7930f751e1","hs":[],"gs":[]});
