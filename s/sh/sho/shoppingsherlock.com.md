@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoppingsherlock.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205200951id_/http%3A//www.shoppingsherlock.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppingsherlock.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510073153id_/http%3A//www.shoppingsherlock.com/index.php%3Fa%3Dpolicies%26b%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy | Shopping Sherlock | Finds you the Best Deals and Lowest Prices!
+# Privacy Policy - Shopping Sherlock - Finds you the best deals and lowest prices!
 
 Except as described in this section, we will not sell, rent or disclose your personally identifying information to third parties without notifying you of our intent to share the information and giving you an opportunity to prevent your information from being shared. 
 
