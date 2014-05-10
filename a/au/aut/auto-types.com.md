@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auto-types.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107234314id_/http%3A//www.auto-types.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auto-types.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510231137id_/http%3A//www.auto-types.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Test drives, automotive news & cars technical details
 
