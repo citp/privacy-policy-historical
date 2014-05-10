@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weareteachers.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109092232id_/http%3A//www.weareteachers.com/homepage/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weareteachers.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510232258id_/http%3A//www.weareteachers.com/homepage/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WeAreTeachers
 
