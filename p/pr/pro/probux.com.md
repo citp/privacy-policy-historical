@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the probux.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022155817id_/http%3A//www.probux.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the probux.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510041757id_/http%3A//www.probux.com/privacy.php) for the most accurate reproduction.*
 
 # ProBux - Privacy Policy
 
 POLICY SCOPE
 
-└ Your privacy is important to ProBux. This privacy police regards how ProBux use the information collected through its websites and online services. 
+└ Your privacy is important to ProBux. This privacy policy regards how ProBux use the information collected through its websites and online services.
 
 What information do we collect?
 
@@ -41,4 +41,4 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Changes to our Privacy Policy
 
-We may update this Policy from time to time. When we update this Policy, we will change the "Last Updated" date at the top of this Policy. 
+We may update this Policy from time to time. When we update this Policy, we will change the (Last Updated) date at the top of this Policy. 
