@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frenchtoday.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107160648id_/http%3A//www.frenchtoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frenchtoday.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511014203id_/http%3A//www.frenchtoday.com/privacy-policy) for the most accurate reproduction.*
 
 # French Today Privacy Policy » Learn French
 
@@ -42,7 +42,7 @@ French Today is committed to protecting the safety of children online. In compli
 
 #### Correction/Updating Personal Information
 
-Our system is set up to allow each user to make corrections to his or her contact information. If your contact information has changed, please make corrections by going to the link marked your account at the top of each page in the web store (www.frenchtoday.com/store). If you have any problems with this, or would like to be removed from our list, please contact us at [camille@frenchtoday.com](http://www.frenchtoday.com/about-us) or by calling (+33) 09 72 14 76 68, or by sending a letter to our mailing address:
+Our system is set up to allow each user to make corrections to his or her contact information. If your contact information has changed, please make corrections by going to the link marked your account at the top of each page in the web store (https://www.frenchtoday.com/my-account). If you have any problems with this, or would like to be removed from our list, please contact us at [camille@frenchtoday.com](http://www.frenchtoday.com/about-us) or by calling (+33) 09 72 14 76 68, or by sending a letter to our mailing address:
 
 French Today  
 63 Rue de Goas Plat  
