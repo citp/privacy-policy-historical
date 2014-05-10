@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intergi.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020090429id_/http%3A//www.intergi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intergi.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510124824id_/http%3A//www.intergi.com/privacy) for the most accurate reproduction.*
 
 # Intergi | Privacy Policies
 
@@ -48,7 +48,7 @@ C. HOW INTERGI USES YOUR INFORMATION
 
 D. HOW TO ACCESS AND CHANGE YOUR PERSONAL INFORMATION
 
-Upon request, Intergi shall allow Users to update or correct Personal Information previously submitted, but only to the extent such activities will not compromise privacy or security interests. Additionally, upon request, Intergi shall delete Personal Information from the database where such information is stored; however, it may be impossible to entirely delete a User's entry without some residual information being retained due to the manner in which data backups are maintained. Requests to delete Personal Information shall be submitted to [_support@intergi.com_](mailto:help@ooyala.com).
+Upon request, Intergi shall allow Users to update or correct Personal Information previously submitted, but only to the extent such activities will not compromise privacy or security interests. Additionally, upon request, Intergi shall delete Personal Information from the database where such information is stored; however, it may be impossible to entirely delete a User's entry without some residual information being retained due to the manner in which data backups are maintained. Requests to delete Personal Information shall be submitted to [_support@intergi.com_](mailto:support@intergi.com).
 
 E. DISCLOSURE OF INFORMATION TO THIRD PARTIES
 
