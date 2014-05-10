@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naturalpartners.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227075326id_/http%3A//www.naturalpartners.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalpartners.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510204525id_/http%3A//www.naturalpartners.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy Policy - Natural Partners Inc.
+# Privacy Policy - Natural Partners
 
 Privacy Policy
 
@@ -59,3 +59,5 @@ Natural Partners, Inc.
 Scottsdale, AZ 85255  
 888-633-7620  
 info@naturalpartners.com
+
+ Natural Partners is proud to be recognized as a Privacy by Design (PbD) Ambassador 
