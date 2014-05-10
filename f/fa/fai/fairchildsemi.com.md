@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairchildsemi.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208182619id_/http%3A//www.fairchildsemi.com/about-fairchild/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairchildsemi.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511003721id_/http%3A//www.fairchildsemi.com/about-fairchild/privacy-policy) for the most accurate reproduction.*
 
 # About Fairchild | Privacy Policy
 
