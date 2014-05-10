@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otrs.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205002033id_/http%3A//www.otrs.com/company/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otrs.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510225606id_/http%3A//www.otrs.com/company/privacy-statement) for the most accurate reproduction.*
 
 # otrs.com | Privacy Statement - otrs.com
 
