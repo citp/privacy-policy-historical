@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the positiveparentingsolutions.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123171742id_/http%3A//www.positiveparentingsolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the positiveparentingsolutions.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510211002id_/http%3A//www.positiveparentingsolutions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Positive Parenting Solutions
 
