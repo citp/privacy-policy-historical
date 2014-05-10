@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tellyupdates.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110132023id_/http%3A//www.tellyupdates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellyupdates.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510220009id_/http%3A//www.tellyupdates.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Telly Updates
+# Privacy Policy - Telly Updates
 
 The site editor takes your right to privacy seriously, and wants you to feel comfortable using this web site. This privacy policy deals with personally-identifiable information (referred to as “data” below) that may be collected by this site. This policy does not apply to other entities that are not owned or controlled by the site editor, nor does it apply to persons that are not employees or agents of the site editor, or that are not under the site editor’s control. Please take time to read this site’s [Terms and Condition](http://www.tellyupdates.com/terms-and-conditions/).
 
@@ -22,7 +22,7 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 ### 5\. Links
 
-We may display links to other sites within MetroMasti.com. We are not responsible for those other sites, their privacy policies or how they treat information about their members. We advise you to check their privacy policies to find out how they are treating your personal information.
+We may display links to other sites within TellyUpdates.com. We are not responsible for those other sites, their privacy policies or how they treat information about their members. We advise you to check their privacy policies to find out how they are treating your personal information.
 
 We use Google and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
