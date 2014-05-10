@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the today24news.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209004952id_/http%3A//today24news.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the today24news.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510052645id_/http%3A//today24news.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Today24News
 
