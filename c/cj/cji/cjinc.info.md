@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cjinc.info privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219172242id_/http%3A//www.cjinc.info/2011/10/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cjinc.info privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510115040id_/http%3A//www.cjinc.info/2011/10/privacy-policy.html) for the most accurate reproduction.*
 
 # Creative Jobs: Privacy Policy
+
+###  [ Privacy Policy ](http://www.cjinc.info/2011/10/privacy-policy.html)
 
 **This website is administered by Creative Jobs Inc's.**
 
@@ -44,4 +46,5 @@
 
 That's it in a nutshell. The short of it is—we are interested in maintaining your privacy and creating a valuable resource for you to use. If you have any questions now or during your visit, please **[contact us](http://www.cjinc.info/p/contact-us.html)**.
 
-Sponsored Links 
+  
+
