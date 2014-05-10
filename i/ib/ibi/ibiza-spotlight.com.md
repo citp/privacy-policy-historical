@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibiza-spotlight.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109021209id_/http%3A//www.ibiza-spotlight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibiza-spotlight.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510075822id_/http%3A//www.ibiza-spotlight.com/privacy) for the most accurate reproduction.*
 
 # Ibiza Spotlight Privacy Policy | Ibiza spotlight
 
@@ -7,7 +7,7 @@ C/ Pontevedra 6
 Cala de Bou  
 San Antonio, Baleares 07820  
 Spain  
-You may contact us using the [contact form on this page](http://www.ibiza-spotlight.com/contact/contact.htm). Or you may call us at +34 971 346671.
+You may contact us using the [contact form on this page](http://www.ibiza-spotlight.com/contact-us). Or you may call us at +34 971 346671.
 
 This policy is valid until stated otherwise.
 
@@ -70,4 +70,4 @@ We also send the emails of customers who purchase a ticket for Together (Tuesday
 
 We have the following dispute resolution mechanisms.
 
-Ibiza Spotlight complies with the Organic Law 15/1999 from 13th of December regarding Personal Data Protection, as confirmed by the Spanish Data Protection Agency. All disputes regarding the access to and storing of personal user information will be handled by our office. You may contact us using the [contact form on this page](http://www.ibiza-spotlight.com/contact/contact.htm).
+Ibiza Spotlight complies with the Organic Law 15/1999 from 13th of December regarding Personal Data Protection, as confirmed by the Spanish Data Protection Agency. All disputes regarding the access to and storing of personal user information will be handled by our office. You may contact us using the [contact form on this page](http://www.ibiza-spotlight.com/contact-us).
