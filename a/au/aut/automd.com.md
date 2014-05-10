@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automd.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201015459id_/http%3A//www.automd.com/default/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automd.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510230412id_/http%3A//www.automd.com/default/privacy-policy) for the most accurate reproduction.*
 
 # AutoMD - Privacy Policy
 
@@ -10,7 +10,7 @@ This privacy policy (“Privacy Policy”) applies to the web sites owned and op
 
 IN ORDER TO USE AUTOMD'S WEB SITES, SOFTWARE (INCLUDING APPS AND APPLICATIONS), PRODUCTS, SERVICES (INCLUDING AUTOMD INSTA-QUOTES!) OR INFORMATION OR CONTENT CONTAINED THEREIN (REFERRED TO COLLECTIVELY AS THE “SERVICES”), YOU MUST FIRST AGREE TO THE AUTOMD TERMS OF USE, WHICH INCLUDE THIS PRIVACY POLICY. YOU MAY NOT USE THE SERVICES IF YOU DO NOT ACCEPT THE AUTOMD TERMS OF USE, INCLUDING THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THE AUTOMD TERMS OF USE, INCLUDING THIS PRIVACY POLICY, DO NOT USE THIS AUTOMD WEB SITE OR THE SERVICES.
 
-PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY USING THIS AUTOMD WEB SITE OR THE SERVICES, YOU AGREE TO BE BOUND BY THE AUTOMD TERMS OF USE, INCLUDING THIS PRIVACY POLICY DESCRIBED HEREIN, AND ALL UPDATES THERETO AND ALL ADDITIONAL TERMS, GUIDELINES AND DISCLOSURES INCORPORATED BY REFERENCE. 
+PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY USING THIS AUTOMD WEB SITE OR THE SERVICES, YOU AGREE TO BE BOUND BY THE AUTOMD TERMS OF USE, INCLUDING THIS PRIVACY POLICY DESCRIBED HEREIN, AND ALL UPDATES THERETO AND ALL ADDITIONAL TERMS, GUIDELINES AND DISCLOSURES INCORPORATED BY REFERENCE.
 
 YOU ACCEPT THE AUTOMD TERMS OF USE, INCLUDING THIS PRIVACY POLICY, BY EITHER CLICKING TO AGREE TO THE TERMS OF USE OR BY ACTUALLY USING THIS AUTOMD WEB SITE OR ITS SERVICES. IN THIS CASE, YOU UNDERSTAND AND AGREE THAT AUTOMD WILL TREAT YOUR USE OF THE AUTOMD WEB SITE OR THE SERVICES AS ACCEPTANCE OF THE AUTOMD TERMS OF USE, INCLUDING THIS PRIVACY POLICY, FROM THAT POINT ONWARDS.
 
@@ -32,8 +32,7 @@ c/o AutoMD.com
 
 Or you may contact AutoMD regarding this Privacy Policy by email at:
 
-[Privacy@AutoMD.com](mailto:Privacy@AutoMD.com)   
-
+[Privacy@AutoMD.com](mailto:Privacy@AutoMD.com)
 
 ### Information we collect and how we use it
 
@@ -95,7 +94,7 @@ We do not sell, share, or rent any Personal Information we collect from you thro
 
 
 
-In the event that we engage or partner with a trusted business or person, including without limitation, third party vendors, consultants or other service providers in connection with the operation of the Site and our business (“Service Providers”), we may share Personal Information with such Service Providers who need access to such information to carry out their work for us. For example, we may use mapping or location based services companies to provide information on services available near your location. In addition, we may offer various features through a third party service provider. 
+In the event that we engage or partner with a trusted business or person, including without limitation, third party vendors, consultants or other service providers in connection with the operation of the Site and our business (“Service Providers”), we may share Personal Information with such Service Providers who need access to such information to carry out their work for us. For example, we may use mapping or location based services companies to provide information on services available near your location. In addition, we may offer various features through a third party service provider.
 
 When you use these services, you are providing information directly to the provider of these services, and the provision of such information is subject to such party's own privacy policy. We are not responsible for the actions of Service Providers or other third parties or for any information you provide to these parties directly, and we encourage you to become familiar with their practices before disclosing information directly to such third parties with which you come into contact.
 
