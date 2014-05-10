@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the motleyhealth.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109012538id_/http%3A//www.motleyhealth.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motleyhealth.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510193656id_/http%3A//www.motleyhealth.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy and Cookies Notice - MotleyHealth®
-
-Save and Share: 00000
 
 Motley Health respects the privacy and confidentiality of personal data submitted to the site by our visitors. We will not share any personal information submitted to our website.
 
 The web site owners undertake to honor or exceed the legal requirements of medical/health information privacy that apply in the country and state where the web site is located.
 
 Everyone can read all articles and comments on this site and make personal use of this information. No information may be republished without our written authorisation.
+
+### Community Comments
 
 What information do we collect? If you leave a comment your name (comment name), email address and IP address will be kept on the database. This is standard operating procedure for any blog or forum. If you wish your comment/s to be deleted for any reason your private information will also be removed from out database. You may of course use a pseudonym (false name) and email address for comments if you are concerned about privacy, although obviously you will not receive comment updates if you use a false email address.
 
@@ -67,4 +67,4 @@ We are committed to ensuring that your information is secure. In order to preven
 
 ### Links to other websites
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
