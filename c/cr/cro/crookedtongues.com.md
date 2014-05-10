@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crookedtongues.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917104857id_/http%3A//www.crookedtongues.com/help/privacy/%3F___SID%3DU) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crookedtongues.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510204527id_/http%3A//www.crookedtongues.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,6 +43,8 @@ In operating our website we may collect and process the following data about you
 Details of your visits to our website and the resources that you access, including, but not limited to, traffic data, location data, weblogs and other communication data.
 
 Information that you provide by filling in forms on our website, such as when you registered for information or make a purchase.
+
+Please note that we are able to collect and retain any data that you provide to us on this website, even if you do not complete your registration or transaction by clicking Login, Submit or Continue. Such contact details and data may be used to contact you about your reasons for not completing your registration or transaction. Full details of our privacy policy can be found on this page.
 
 ## Images
 
