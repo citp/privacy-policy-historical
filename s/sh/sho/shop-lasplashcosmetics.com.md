@@ -1,100 +1,74 @@
-> *The following text is extracted and transformed from the shop-lasplashcosmetics.com privacy policy that was archived on 2013-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130919161228id_/http%3A//shop-lasplashcosmetics.com/usa/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop-lasplashcosmetics.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511012734id_/http%3A//shop-lasplashcosmetics.com/usa/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We at LASplash Cosmetics respect your privacy and value the relationship we have with you. Your visit to this website is subject to this Privacy Policy and our [Terms and Conditions](https://web.archive.org/web/20130919161228id_/http%3A//shop-lasplashcosmetics.com/usa/customer-service#).
+### Privacy
 
-This Privacy Policy describes the types of personal information we collect at the LASplash Cosmetics website, currently located at [www.lasplashcosmetics.com ](http://www.lasplashcosmetics.com/ "www.lasplashcosmetics.com")(the "Site}. Our Privacy Policy also describes the measures we take to protect the security of this information as well as how you may reach us to update your contact information, remove your name from our mailing list or ask us any questions you may have about our use of your personal information. It also explains how you may elect to stop receiving communications about our products and services.
+We at LASplash Cosmetics respect your privacy and value the relationship we have with you. Your visit to this website is subject to this Privacy Policy and our Terms and Conditions. 
 
- Please note that this Privacy Policy governs only information provided to LASplash Cosmetics. It does not govern any other information or communications that may reference LASplash Cosmetics, e.g., communications from LASplash Cosmetics retailer stores. If you visit one of our other regional websites, or link to another website from this Site, you are subject to the privacy policy applicable for that website and we suggest that you consult such privacy policy.
+This Privacy Policy describes the types of personal information we collect at the LASplash Cosmetics website, currently located at www.lasplashcosmetics.com (the "Site}. Our Privacy Policy also describes the measures we take to protect the security of this information as well as how you may reach us to update your contact information, remove your name from our mailing list or ask us any questions you may have about our use of your personal information. It also explains how you may elect to stop receiving communications about our products and services. 
 
-This privacy policy sets out how LA Splash Cosmetics uses and protects any information that you give LA Splash Cosmetics when you use this website. LA Splash Cosmetics is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. LA Splash Cosmetics may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
+Please note that this Privacy Policy governs only information provided to LASplash Cosmetics. It does not govern any other information or communications that may reference LASplash Cosmetics, e.g., communications from LASplash Cosmetics retailer stores. If you visit one of our other regional websites, or link to another website from this Site, you are subject to the privacy policy applicable for that website and we suggest that you consult such privacy policy. 
 
-## What we collect
+This privacy policy sets out how LA Splash Cosmetics uses and protects any information that you give LA Splash Cosmetics when you use this website. LA Splash Cosmetics is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. LA Splash Cosmetics may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
-We may collect the following information:
+### UPDATES TO OUR PRIVACY POLICY
 
-  * name
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+We may update our Privacy Policy at anytime. All updates will be posted here, we suggest that you check periodically for updates and note the effective date at the top of this page.
 
+### COLLECTIONS AND USE OF INFORMATION
 
+You may opt to provide us with personal information when you visit our site. Specifically, if you decide to complete a user registration form, you may be asked to supply certain information such as your contact information (name, email address, mailing address and/or telephone number) and possible optional information. We utilize this information to provide the service you requested. In order to help protect your personal information, users registering at the website must also enter a username/email address and password.
 
-For the exhaustive list of cookies we collect see the List of cookies we collect section.
+### MANAGEMENT OF INFORMATION
 
-## What we do with the information we gather
+You may choose whether or not receive marketing correspondence from us. You may change your preference at any time by contacting us at info@jondavler.com and specifying that you no longer wish to receive email or phone correspondence from us. You may access, edit or update your information at anytime regarding your personal information.
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+### COMMUNICATIONS TO SERVE YOU
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+If you have chosen to provide us with your contact information, we may offer you service related announcements by any means, including email concerning the site or regarding your customer service requests or questions. For instance, when you register with our site, all users will receive a welcome email to confirm registration. This information collected (name, email address, contact information related to the inquiry) is to specifically service your inquiry and will be routed to the necessary department to respond to your concerns in order to provide the highest level of customer service.
 
+### HOW WE PROTECT YOUR INFORMATION
 
+We strive to maintain the highest security standards to protect your personal information against theft, loss and unauthorized disclosure. However, there is no 100% guarantee to keep all of the information that is transmitted safely on the internet. Therefore, we cannot ensure or warrant the security of any such information. Your online access to certain of your personal information may be protected with a password you select, thus we recommend that you do not share this information with anyone.
 
-## Security
+### SPECIAL EVENTS
+
+From time to time, LASplash Cosmetics may sponsor special events, for example: contests, promotions or other offerings. When you opt to enter a contest or participate in a promotion, we may collect your name, mailing address, email address and telephone number. We use this information to manage your participation in the contest or promotion. These specific events may be governed by its own rules and regulations and strongly suggest that you review before participating. If the specific event is not governed by its own regulations, they are subject to this specific Privacy Policy and the purposes it sets forth.
+
+### EMPLOYMENT
+
+If you provide personal information in regards to employment, such as your resume, we will treat such information as confidential and utilize it only to consider you for current and future employment opportunities and thereto contact you only in regards to employment with LASplash Cosmetics or Jon Davler, Inc. We will retain this information for further recruitment opportunities unless you inform us that you do not want us to retain such information.
+
+### INFORMATION WE SHARE AND WITH WHOM
+
+We do not sell or otherwise disclose personal information about our site nor will we provide your personal information to third parties for use in their marketing strategies without your consent except as provided in the Business Transfers Section.
+
+### Security
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-## How we use cookies
+### How we use cookies
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
 
-## Links to other websites
+### Links to other websites
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-## Controlling your personal information
+### BUSINESS TRANSFERS
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+Your information will only be transferred as an asset in the event of a merger or sale (this includes bankruptcy or insolvency proceedings) or as part of corporate reorganization.
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@jondavler.com
+### GROUP COMPANIES AND THIRD PARTIES
 
+The personal information you submitted on this site may be shared with our affiliates and other divisions of Jon Davler, Inc (hereto Group Companies) that distribute and market our products. The Group Companies may use this information only in accordance with this Privacy Policy; Group Companies may be located in and out of the United States (US), Canada, Asia, and the European Union (EU).Jon Davler, Inc., may retain at any time other companies or individuals to act on our behalf, consistent with this Privacy Policy. Such parties may be provided access to personal information needed to perform their duties on our behalf and may not disclose or use such information other than required in this Privacy Policy or otherwise permitted by applicable law. Examples of these companies include web-hosting companies, email vendors, customer support specialists and data analysts.
 
+### COMPLLANCE WITH LAW AND FRAUD PROTECTION
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 13324 Valley Blvd, City of Industry, CA 91746, United States.
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
-
-## List of cookies we collect
-
-The table below lists the cookies we collect and what information they store.
-
-COOKIE name| COOKIE Description  
----|---  
-CART | The association with your shopping cart.  
-CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
-COMPARE | The items that you have in the Compare Products list.  
-CURRENCY | Your preferred currency  
-CUSTOMER | An encrypted version of your customer id with the store.  
-CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
-CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
-CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
-EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
-FRONTEND | You sesssion ID on the server.  
-GOOGLE_ANALYTICS | Site visits and content.  
-GUEST-VIEW | Allows guests to edit their orders.  
-GUEST-VIEW | Allows guests to edit their orders.  
-LAST_CATEGORY | The last category you visited.  
-LAST_PRODUCT | The most recent product you have viewed.  
-NEWMESSAGE | Indicates whether a new message has been received.  
-NO_CACHE | Indicates whether it is allowed to use cache.  
-PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
-POLL | The ID of any polls you have recently voted in.  
-POLLN | Information on what polls you have voted on.  
-RECENTLYCOMPARED | The items that you have recently compared.  
-STF | Information on products you have emailed to friends.  
-STORE | The store view or language you have selected.  
-USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
-VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
-WISHLIST | An encrypted list of products added to your Wishlist.  
-WISHLIST_CNT | The number of items in your Wishlist.
+Jon Davler, Inc., LASplash Cosmetics, Group Companies and our service providers may provide your personal information in response to a search warrant or other legally valid inquiry, order or otherwise required by applicable law. In addition, we may also disclose personal information where needed for the establishment, exercise or defense of legal claims, as part of the administration of our loss prevention program, or otherwise permitted by law.   
+If you have any questions regarding our Privacy Policy, please contact us at info@jondavler.com
