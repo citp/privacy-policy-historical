@@ -1,40 +1,44 @@
-> *The following text is extracted and transformed from the hipomarket.eu privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025010141id_/http%3A//www.hipomarket.eu/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipomarket.eu privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510080503id_/http%3A//www.hipomarket.eu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Notice
+# Privacy Policy
 
-#### Hipomarket.eu Privacy Policy - Safe, Secure Online Shopping
+We are committed to making your experience at HipoMarket.eu enjoyful and rewarding.  
+The following Privacy Policy applies only to HipoMarket.eu and information of our customers collected online through HipoMarket.eu. Your privacy is very important to us and definitely confidential.
 
-Hipomarket.eu values the privacy of our visitors/customers greatly and takes every known precaution to guard the information we collected from unauthorized use. The following is a detailed explanation for the privacy policy of HIpomarket.eu.
+HipoMarket.eu respects and protects the privacy of its visitors. In this document, we explain how we use the information you supply us. If we update our Privacy Policy, all revisions will be posted on this page. We reserve the right to change the privacy policy any time.
 
-#### WHAT INFORMATION DO WE COLLECT?
+**Sharing and Disclosure Your Information**
 
-Hipomarket believes it is important for you to know what types of information we collect when you visit our site. We have various methods to collect information. The following is a list of the information we collect: Email, Name, Street Address, Post Code, City, Country, Telephone Number, and password.
+Agents, employees and contractors of HipoMarket.eu who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy and the high standards of the corporation.
 
-#### WHY DO WE COLLECT THIS INFORMATION?
+Information about you specifically will not be used for any other purpose and we will carry out the services you requested from HipoMarket.eu.
 
-We use this information in order to serve the needs of our customers. We need to know who you are in order to verify the credit card information you have sent us. We collect several pieces of personal information from you in order to complete this verification process. The non-personal information that we collect from you is used in order to offer you better service and to make your experience with our site more enjoyable. Any information that we may inadvertently collect from you, that does not serve one of these reasons stated above, is immediately purged from our system.
+We will not sell or rent your personally identifiable information to anyone at any time.
 
-#### HOW IS YOUR INFORMATION PROTECTED?
+We will not use any personal information beyond what is necessary to assist us in delivering to you the services you have requested.
 
-We use the latest in encryption technology, including 128 bit SSL encryption to ensure that any sensitive information that is sent by you to us via the Internet is protected from unauthorized interception. We employ the latest in firewall protection to prevent unauthorized access into our information storage areas. We maintain a rigorous hiring process to screen out potential employees with criminal backgrounds. All employees that we do hire have to sign a confidentiality agreement that forbids them from disclosing any information to which the employee has access, to other individuals or entities. We also have back up servers and power supplies to guard against power outages and other natural occurrences that could pose a threat to the integrity of your personal information. Passwords are required in order for you to gain access to your account. Once an account has been terminated, measures are taken to remove those users from the system who no longer need access to our system. When an employee is terminated or is no longer with the company, we change the access codes that the employee used to access any customer accounts. Account login sessions are terminated after three failed login attempts; all terminated login sessions are logged for follow-up.
+We may send personally identifiable information about you to other organizations when:
 
-#### WHO HAS ACCESS TO MY INFORMATION?
+We have your consent to share the information.
 
-Only those employees that are responsible for handling your account have access to your information. Additionally, employees in our technical department may have access to your information in order to conduct routine checks on the integrity of our system and in order to perform necessary maintenance work. In order to process your credit card we have to consult with an out side credit card processing company. These processing companies are regulated by the banking industry and must meet certain security requirements in order to be in business. The processing companies will have access to your credit card information, billing address, name, and possibly your telephone number. The processing company will communicate with the issuing bank of your credit card in order to get final approval to charge your credit card for the product or services we are providing for you. Should you choose to receive additional information regarding one of our services or products, we may pass your email address to one of our partners who offers similar products or services that you might be interested in. Additionally, judicial requests by a duly authorized court will require us to divulge certain information regarding your account should that situation arise. Finally, should our company ever be bought or sold, your account information would then become the property of the new owner/entity.
+We need to share your information in order to provide the product or service you have requested.
 
-#### CAN I CORRECT OR REMOVE INFORMATION FROM YOUR SITE?
+We are required to do so by law.
 
-You always have the option to view your account to make sure the information we have collected from you is indeed correct. You also have the option of removing any information from your account that you wish to keep private. However, please note that removing certain information such as your email address, contact information, and the like may greatly hinder our ability to effectively provide the service or products you have requested. We recommend, that you contact us first to discuss which information you may remove without interrupting the quality of service we intend to provide for you.
+You may delete these files from your computer at any time. You can set your web browser to notify you if such information is about to be placed on your computer, and you can choose the option in your web browser to refuse it. If you refuse the information, you may not be able to make full use of the features on our web site.
 
-#### CAN I OPT OUT OF HAVING CERTAIN INFORMATION COLLECTED?
+If you elect to use our "Email Your Wish List" service for informing a friend about our site or products you are interested in, we may ask for your email address, your name, the email address or the name of your friend and the email address of your friend. HipoMarket.eu will automatically send the friend a one-time email on your behalf. HipoMarket.eu does not store this information. It is only used for sending this one time email.
 
-have the option of disabling your computer’s ability to accept or transmit cookies. This will prevent us from gathering certain non-personally identifiable information from you. You also have the option of removing yourself from any email distribution list that you may have signed up for.
+Personally identifiable information may include information that you provide us by requesting information when registering for special offers or programs or when you purchase products online. This may include your name, address (including billing and shipping addresses), telephone number, e-mail address, organization, city, state and zip code. We may use this information to process and ship orders to contact you about the status of your order, and to contact you with answers to your questions, or to provide information about new and exciting products, services, promotions and corporate-related information. We may use mailings, telephone calls and e-mails to contact you.
 
-#### NOTICE OF CHANGES TO THIS PRIVACY POLICY
+You also may create an account through HipoMarket.eu at any time by providing your email address and creating a unique password. An account is not required to visit our site or to place an order at HipoMarket.eu. Creating an account allows you to save order information, order history, track status of your orders and set your ordering preferences. For your privacy and security, we do not store credit card or Gift Card numbers in your account. You may change saved account information anytime. Simply visit the Your Account page, log in with your email address and password.
 
-We reserve the right to change this privacy policy at any time. However, if any changes do occur, we will publish the changes to our web site and post a notice on the home page that a new privacy policy has been implemented. We will also take reasonable steps to contact you personally to let you know of the new changes. Should the company be bought or sold to someone else, we will take reasonable steps to notify you personally. You will then be given the option to keep your account open or to terminate.
+**Removal or Edit of Your Information**
 
-**ABOUT HIPOMARKETEU NEWSLETTER**
+If you have registered for Special E-mail Offerings, you may unsubscribe from the program, by visiting the e-mail unsubscribe page or click on the links available at the bottom of any of these special offer e-mails. You may also request the removal of your information by contacting us via e-mail.
 
-Hipomarket.eu Newsletter will be send out regularly, with the latest updates on new arrivals, recent hottest deals, special offers and bargains, as well as the exclusive coupons and discounts to our email subscribers. [We respect your privacy](http://www.dealsdirect.com.au/privacy/) and will not disclose your details to any third party. You can [click here](https://web.archive.org/newsletter/manage/) to [unsubscribe](https://web.archive.org/newsletter/manage/) Hipomarket  
-newsletter at any time.
+If you wish to receive more personalized information from HipoMarket.eu or change anything about your profile such as your e-mail format, please click on the links available at the bottom of any of these special offer e-mails or visit the Your Profile page.
+
+Non-personally identifiable information is collected without any direct association with you specifically. In the normal course of using HipoMarket.eu, we may collect information about your habits and usage of our sites.
+
+An IP address is a number that is assigned to your computer when you are using Internet. Web servers automatically identify your computer by its IP address. HipoMarket.eu collects IP addresses for the system administrational purposes, to report aggregated information and audit the use of our site. If we are required to do so by law, for example, in response to a court order or subpoena, we will provide these IP addresses to the proper authorities.
