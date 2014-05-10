@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timeswalkin.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510212711id_/http%3A//www.timeswalkin.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeswalkin.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510093725id_/http%3A//www.timeswalkin.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Updates Jobs Exam Results
+# PRIVACY POLICY| Educational News 2014
 
 **Privacy Policy for www.timeswalkin.com**
 
