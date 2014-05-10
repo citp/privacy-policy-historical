@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebuzzing.co.uk privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907194702id_/http%3A//www.ebuzzing.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebuzzing.co.uk privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511002848id_/http%3A//www.ebuzzing.com/privacy-policy) for the most accurate reproduction.*
 
-# Ebuzzing-Video advertising
+# Ebuzzing - Privacy Policy
 
 ### Ebuzzing’s Privacy Policy
 
@@ -30,16 +30,16 @@ We may also use personal information to personalise notifications to our partner
   4. Personal information may be transferred to countries outside the European Economic Area which may not have laws, which offer similar protection to that, offered to individuals under the European rules and laws. Under this agreement you consent to such transfer and to the processing of your personal information in these countries.
   5. We will retain personal information for as long as is necessary to comply with the permitted purposes and to comply with our legal and regulatory requirements. If any client and publisher registration is terminated, personal information may be archived but may also still be accessible.
   6. We will take steps to ensure that personal information is not disclosed accidentally or processed for any other purpose than those described in this clause.
-  7. You may access all of your personal information that has been provided to us and request details of any third parties with whom the company has shared your personal information by emailing us at [info@ebuzzing.com](mailto:info@ebuzzing.com). You may correct factual errors in your personal information by sending us a request detailing the error. To protect your privacy and security, we may take reasonable steps to verify your identity before granting access to your information or making the requested alterations.
+  7. You may access all of your personal information that has been provided to us and request details of any third parties with whom the company has shared your personal information by emailing us at [info@ebuzzing.com](mailto:info@ebuzzing.com). You may correct factual errors in your personal information by sending us a request detailing the error. To protect your privacy and security, we may take reasonable steps to verify your identity before granting access to your information or making the requested alterations.
 
 
 
 ### User information collected on our website and network
 
-When you visit our website, publishers’ sites, or view a video distributed within the Ebuzzing player, we don’t use cookies, web beacons or similar technologies to anonymously track how you use our website and player. We do however; collect information about your activities. This is the list of anonymous information we collect and use to improve the relevance and the quality of our campaigns:   
-– Technical elements: IP addresses, browser (Internet Explorer, Firefox, Chrome etc..), operating system running on the user’s machine (Windows, Mac OS, Mobiles OSes…), type of internet connection. All technical information (including any such IP addresses) are archived in raw log format.   
+When you visit our website, publishers’ sites, or view a video distributed within the Ebuzzing player, we don’t use cookies, web beacons or similar technologies to anonymously track how you use our website and player. We do however; collect information about your activities. This is the list of anonymous information we collect and use to improve the relevance and the quality of our campaigns:  
+– Technical elements: IP addresses, browser (Internet Explorer, Firefox, Chrome etc..), operating system running on the user’s machine (Windows, Mac OS, Mobiles OSes…), type of internet connection. All technical information (including any such IP addresses) are archived in raw log format.  
 – Public comments: comments left on a post, a video, tweets about campaigns that run on our network, statuses or bookmarks that are public.
 
 Ebuzzing reserves the right to start making use of cookies. When that is the case, the hereby privacy policy will be amended accordingly. We reserve the right to change this privacy policy at any time.
 
-If you have any question, query or feedback, please contact us at [info@ebuzzing.com](mailto:info@ebuzzing.com)
+If you have any question, query or feedback, please contact us at [info@ebuzzing.com](mailto:info@ebuzzing.com)
