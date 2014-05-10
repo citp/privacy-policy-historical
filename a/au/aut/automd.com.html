@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the automd.com privacy policy that was archived on 2013-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131201015459id_/http%3A//www.automd.com/default/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the automd.com privacy policy that was archived on 2014-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140510230412id_/http%3A//www.automd.com/default/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -9,15 +9,16 @@
 <meta name="keywords" content="">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<!--[if lt IE 9]><script src="https://cdn.automd.com/function/combo?t=js&f=html5shiv-printshiv.1340045650.min.js&vm=desktop&v=4.7.0.1"></script><![endif]-->
-<link rel="stylesheet" href="https://cdn.automd.com/function/combo?t=css&amp;f=screen.css:m,style.css:m,containers.css:m,buttons.css:m,inputs.css:m,tabs_amd.css:m,login.css:m,autocomplete.css:m,selectjob.css:m,header.css:m,grids.css:m,automated_quotes.css:m&amp;vm=desktop&amp;v=4.7.0.1">
-<link rel="stylesheet" href="/css/mode_default/fontello.css?vm=desktop&amp;v=4.7.0.1">
-<link rel="stylesheet" href="https://cdn.automd.com/function/combo?t=css&amp;f=search.css:m,about.css:m&amp;vm=desktop&amp;v=4.7.0.1">
-<link rk0="" rel="stylesheet" href="https://cdn.automd.com/function/combo?t=css&amp;f=modals.css:m&amp;vm=desktop&amp;v=4.7.0.1">
+<!--[if lt IE 9]><script src="https://cdn.automd.com/function/combo?t=js&f=html5shiv-printshiv.1340045650.min.js&vm=desktop&v=4.9.5"></script><![endif]-->
+<link rel="stylesheet" href="https://cdn.automd.com/function/combo?t=css&amp;f=jquery-ui-1.8.20.custom.css&amp;vm=desktop&amp;v=4.9.5">
+<link rel="stylesheet" href="https://cdn.automd.com/function/combo?t=css&amp;f=screen.css:m,style.css:m,containers.css:m,buttons.css:m,inputs.css:m,tabs_amd.css:m,login.css:m,autocomplete.css:m,selectjob.css:m,header.css:m,grids.css:m,automated_quotes.css:m,jquery.ui.selectmenu-1.2.css:m,amd.jquery.ui.selectmenu.css:m&amp;vm=desktop&amp;v=4.9.5">
+<link rel="stylesheet" href="/css/mode_default/fontello.css?vm=desktop&amp;v=4.9.5">
+<link rel="stylesheet" href="https://cdn.automd.com/function/combo?t=css&amp;f=search.css:m,about.css:m&amp;vm=desktop&amp;v=4.9.5">
+<link rk0="" rel="stylesheet" href="https://cdn.automd.com/function/combo?t=css&amp;f=modals.css:m&amp;vm=desktop&amp;v=4.9.5">
 </head>
 <body class="home">
+<div class="page-container-section">
 <div class="nav-wings"></div>
-<div id="all">
 <div id="top-header-area">
 <header role="banner">
 <div class="iq-hdr">
@@ -58,38 +59,48 @@
 </nav>
 </div>
 </header>
-<div id="vehicle-select" class="hidden">
-<div id="vehicle-select-head"></div>
-<div id="vehicle-select-body">
-<div id="garage-header"></div>
-<form method="post" action="/default/save_garage" id="garage-carpicker" class="change-vehicle">
-<div class="vs-list-item vs-list-item-first"><select name="year" id="garage-year" class="vs-select"><option value="">Select Year</option></select></div>
-<div class="vs-list-item"><select name="make" id="garage-make" class="vs-select"><option value="">Select Make</option></select></div>
-<div class="vs-list-item"><select name="model" id="garage-model" class="vs-select"><option value="">Select Model</option></select></div>
-<div class="vs-list-item"><select name="submodel" id="garage-submodel" class="vs-select"><option value="">Select Sub Model</option></select></div>
-<div class="vs-list-item"><select name="engine" id="garage-engine" class="vs-select"><option value="">Select Engine</option></select></div>
-<div class="vs-list-item cfix">
-<a href="javascript:;" id="btn-add" class="blue-btn">
-<span class="blue-btn-r"></span>
-<span class="blue-btn-l"></span>
-<span class="blue-btn-bd">add</span>
-</a>
+<div id="vehicle-select" class="popup-overlay popup-overlay-iq box-shadow iq-lb vehicle-select-lb hide">
+<div class="head" style="border-bottom: 0;margin:0;padding:0;">
+<a href="#" class="close">close</a>
+<h2 class="title off-screen">Your Vehicles</h2>
 </div>
-<input type="hidden" name="redirect_to" value="http://www.automd.com/default/privacy-policy">
+<div class="body">
+<h3 class="header mb10">Add a vehicle:</h3>
+<form method="post" action="/default/save_garage" id="garage-carpicker" class="change-vehicle flat-form flat-select">
+<div class="mb10">
+<select name="year" id="garage-year" class="flat-select"><option value="">Select Year</option></select>
+</div>
+<div class="mb10">
+<select name="make" id="garage-make" class="flat-select"><option value="">Select Make</option></select>
+</div>
+<div class="mb10">
+<select name="model" id="garage-model" class="flat-select"><option value="">Select Model</option></select>
+</div>
+<div class="mb10">
+<select name="submodel" id="garage-submodel" class="flat-select"><option value="">Select Sub Model</option></select>
+</div>
+<div class="mb20">
+<select name="engine" id="garage-engine" class="flat-select"><option value="">Select Engine</option></select>
+</div>
+<div class="align-center">
+<a href=":;" rel="nofollow" id="btn-add" class="button-blue button-blue-32 button-form-submit disabled" disabled="">Submit</a>
+</div>
+<input type="hidden" name="redirect_to" value="http://www.automd.com/default/privacy-policy/">
 <input type="hidden" value="default_privacy_policy" name="from_method">
 </form>
 </div>
-<div id="vehicle-select-foot"></div>
 </div>        </div>
+</div>
+<div id="all">
 <div id="area">
 <div id="area-c">
 <div id="content" class="static-content press">   
 <h3 class="tos">AUTOMD.COM</h3>         				
 <h1 class="tos">Privacy Policy</h1>
-<h3 class="bluetxt">Effective Date: October 25, 2012</h3>                                        
+<h3 class="bluetxt">Effective Date: October 25, 2012</h3>
 <p>This privacy policy (“Privacy Policy”) applies to the web sites owned and operated by AutoMD, Inc.  (“AutoMD” “we” or “us”) located at www.AutoMD.com (the “Site” or “Web Site”). The Policy is designed to tell you how we collect and use personal information (as defined below) so you can make an informed decision about using our Site. Please read this statement before using our Site or submitting any personal information to us. <strong>We reserve the right to change the provisions of this Privacy Policy at any time. &nbsp;We will notify you of these changes by posting a revised Privacy Policy on the Site and indicating on the Privacy Policy the date it was last updated. Your use of the Site following the posting of such changes or revised statement shall constitute your consent to any such changes.</strong> We encourage you to review our Privacy Policy whenever you visit our Site to determine if any changes have been made and to make sure that you understand how any personal information you provide will be used.</p>
 <p>IN ORDER TO USE AUTOMD'S WEB SITES, SOFTWARE (INCLUDING APPS AND APPLICATIONS), PRODUCTS, SERVICES (INCLUDING AUTOMD INSTA-QUOTES!) OR INFORMATION OR CONTENT CONTAINED THEREIN (REFERRED TO COLLECTIVELY AS THE “SERVICES”), YOU MUST FIRST AGREE TO THE AUTOMD TERMS OF USE, WHICH INCLUDE THIS PRIVACY POLICY. YOU MAY NOT USE THE SERVICES IF YOU DO NOT ACCEPT THE AUTOMD TERMS OF USE, INCLUDING THIS PRIVACY POLICY.  IF YOU DO NOT AGREE TO THE AUTOMD TERMS OF USE, INCLUDING THIS PRIVACY POLICY, DO NOT USE THIS AUTOMD WEB SITE OR THE SERVICES.</p>
-<p>PLEASE READ THIS PRIVACY POLICY CAREFULLY.  BY USING THIS AUTOMD WEB SITE OR THE SERVICES, YOU AGREE TO BE BOUND BY THE AUTOMD TERMS OF USE, INCLUDING THIS PRIVACY POLICY DESCRIBED HEREIN, AND ALL UPDATES THERETO AND ALL ADDITIONAL TERMS, GUIDELINES AND DISCLOSURES INCORPORATED BY REFERENCE. </p>
+<p>PLEASE READ THIS PRIVACY POLICY CAREFULLY.  BY USING THIS AUTOMD WEB SITE OR THE SERVICES, YOU AGREE TO BE BOUND BY THE AUTOMD TERMS OF USE, INCLUDING THIS PRIVACY POLICY DESCRIBED HEREIN, AND ALL UPDATES THERETO AND ALL ADDITIONAL TERMS, GUIDELINES AND DISCLOSURES INCORPORATED BY REFERENCE.</p>
 <p>YOU ACCEPT THE AUTOMD TERMS OF USE, INCLUDING THIS PRIVACY POLICY, BY EITHER CLICKING TO AGREE TO THE TERMS OF USE OR BY ACTUALLY USING THIS AUTOMD WEB SITE OR ITS SERVICES. IN THIS CASE, YOU UNDERSTAND AND AGREE THAT AUTOMD WILL TREAT YOUR USE OF THE AUTOMD WEB SITE OR THE SERVICES AS ACCEPTANCE OF THE AUTOMD TERMS OF USE, INCLUDING THIS PRIVACY POLICY, FROM THAT POINT ONWARDS.</p>
 <p>YOU MAY NOT USE THE SERVICES AND MAY NOT ACCEPT THE AUTOMD TERMS OF USE, INCLUDING THIS PRIVACY POLICY, IF (A) YOU ARE NOT OF LEGAL AGE TO FORM A BINDING CONTRACT WITH AUTOMD, OR (B) YOU ARE A PERSON BARRED FROM RECEIVING THE SERVICES UNDER THE LAWS OF THE UNITED STATES OR OTHER COUNTRIES INCLUDING THE COUNTRY IN WHICH YOU ARE RESIDENT OR FROM WHICH YOU USE THE SERVICES.</p>
 <p>THIS AUTOMD SITE DOES NOT PUBLISH CONTENT THAT IS TARGETED TO CHILDREN</p>
@@ -97,12 +108,10 @@
 <p>We strongly recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet and we encourage parents to teach their children about safe internet use practices.</p>
 <p>This Privacy Policy applies to all of the software, apps, applications, products, services and Web sites offered by AutoMD or any of its subsidiaries or affiliated companies (“Services”).&nbsp;</p>
 <p>If you have any questions about this Privacy Policy, please feel free to contact us through our Web site or write to us at:</p>
-<address>Privacy Policy
-<br> c/o AutoMD.com<br> 16941 Keegan Avenue</address>
-<address>Carson, CA 90746</address>
-<address>USA</address>
-<address>&nbsp;</address>
-Or you may contact AutoMD regarding this Privacy Policy by email at:<br><address><a href="mailto:Privacy@AutoMD.com">Privacy@AutoMD.com</a></address> <br>   
+<address>Privacy Policy 					<br> c/o AutoMD.com<br> 16941 Keegan Avenue</address> <address>Carson, CA 90746</address> <address>USA</address> <address>&nbsp;</address>
+<p>Or you may contact AutoMD regarding this Privacy Policy by email at:</p>
+<address><a href="mailto:Privacy@AutoMD.com">Privacy@AutoMD.com</a></address>
+<p>&nbsp;</p>
 <h3>Information we collect and how we use it</h3>
 <p>We may collect the following types of information:</p>
 <p><strong>Information you provide</strong> – When you use AutoMD Services or sign up for an AutoMD Account either directly on the Site or through the use of FaceBook Connect, we may ask you for information which personally identifies you, such as your first and last name, address, telephone number,  email address, credit card number, credit card expiration date, or other data which can be reasonably linked to such information by AutoMD (“Personal Information”). However, Personal Information does not include, and this policy does not cover, any publicly available information and public records about auto repair professionals, auto repair shops and auto repair service providers, including without limitation information obtained from licensing authorities, associations, accrediting bodies, courts, law enforcement agencies, and Web sites that are available to the public. Personal Information also does not include “aggregate” information, which is data we collect about the use of the Site or categories of Site users, from which any Personal Information has been removed. We collect aggregate data for a number of purposes, including helping us understand trends and user needs so that we can better consider new publications, products and services, and tailor existing publications, products and other Services to user desires. This policy in no way limits or restricts our collection of aggregate information. We may combine the information you submit under your account with information from third parties in order to provide you with a better experience and to improve the quality of our Services. You can access your AutoMD user profile to learn more about the information associated with your Account.</p>
@@ -140,7 +149,7 @@ Or you may contact AutoMD regarding this Privacy Policy by email at:<br><address
 <li>We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Use, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of AutoMD, its users or the public as required or permitted by law; and</li>
 <li>for the AutoMD Sync-n-Save program and the AutoMD Insta-Quotes! Cash Back Rebate program AutoMD collects and shares your credit card number and expiration date for the matchback process with third party credit card services that tell AutoMD when your credit card was used to make a purchase at a participating Shop. Once your credit card is Synced within the matchback process, it is referenced by a unique identifier code rather than by the actual credit card number. The matchback process provides AutoMD with the date of the transaction, the amount, the unique merchant identifier code from the participating Shop, and the unique credit card identifier code which allows AutoMD to credit your Synced credit card with the AutoMD Insta-Quotes! Cash Back Rebate amount.</li>
 </ul>
-<p>In the event that we engage or partner with a trusted business or person, including without limitation, third party vendors, consultants or other service providers in connection with the operation of the Site and our business (“Service Providers”), we may share Personal Information with such Service Providers who need access to such information to carry out their work for us. For example, we may use mapping or location based services companies to provide information on services available near your location.  In addition, we may offer various features through a third party service provider. </p>
+<p>In the event that we engage or partner with a trusted business or person, including without limitation, third party vendors, consultants or other service providers in connection with the operation of the Site and our business (“Service Providers”), we may share Personal Information with such Service Providers who need access to such information to carry out their work for us. For example, we may use mapping or location based services companies to provide information on services available near your location.  In addition, we may offer various features through a third party service provider.</p>
 <p>When you use these services, you are providing information directly to the provider of these services, and the provision of such information is subject to such party's own privacy policy. We are not responsible for the actions of Service Providers or other third parties or for any information you provide to these parties directly, and we encourage you to become familiar with their practices before disclosing information directly to such third parties with which you come into contact.</p>
 <p>You should also note that Personal Information that you post to public areas of the Site, may become publicly available. For example, information you post in your user profile or in ratings of auto repair professionals, auto repair shops and auto repair service providers, User Content (incorporated by reference from AutoMD's Terms of Use), including without limitation postings or updates to or relating to AutoMD Auto Answers, AutoMD Insta-Quotes!, AutoMD How-to-Guides, AutoMD How-to-Videos, AutoMD Reviews or AutoMD Ratings or any other Interactive Areas (incorporated by reference from AutoMD's Terms of Use), or other information that is provided for the purpose of being shared may be made publicly available and can potentially be viewed by anyone. In particular, certain information that you may provide about yourself, including without limitation, your “Image”, “Display Name”, “Location” and “About Me” information will be accessible by other users of the site and may become publicly viewable by anyone.  Your posting to such public areas of the Site constitutes your consent to share such information publicly.</p>
 <p>The Site may contain links to other sites or other interactive forums hosted by a third party. Please be aware that although we may participate in or utilize such other sites, we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Site and to read the privacy policies of any web site that collects personally identifiable information. Similarly, if you entered this Site through another web site, we are also not responsible for the privacy practices of that site, and you should review the privacy policy of the originating site before providing any Personal Information to that site. This privacy policy applies solely to information collected by us.</p>
@@ -183,14 +192,14 @@ Or you may contact AutoMD regarding this Privacy Policy by email at:<br><address
 <ul class="sec-level-list">
 <li class="sec-level"><a href="http://www.automd.com/repair/"><span>Car Repair</span></a></li>
 <li class="sec-level"><a href="http://www.automd.com/About-AutoMD/"><span>About AutoMD</span></a></li>
-<li class="sec-level"><a href="http://www.automd.com/about-automd/press/11-20-2013/" id="latest-press"><span>Press</span></a></li>
+<li class="sec-level"><a href="http://www.automd.com/about-automd/press/03-20-2014/" id="latest-press"><span>Press</span></a></li>
 <li class="sec-level"><a href="http://www.automd.com/About-AutoMD/News/"><span>In the News</span></a></li>
 <li class="sec-level"><a href="javascript:void(0);" class="user-feedback"><span>Feedback</span></a></li>
 <li class="sec-level"><a href="http://www.automd.com/about-automd/employment/dm/"><span>Employment</span></a></li>
 <li class="sec-level"><a href="http://www.automd.com/unsubscribe/"><span>Unsubscribe</span></a></li>
 <li class="sec-level"><a href="http://www.automd.com/default/tos/"><span>Terms of Use</span></a></li>
 <li class="sec-level"><a href="http://www.automd.com/default/privacy_policy/"><span>Privacy Policy</span></a></li>
-<li class="sec-level"><a href="http://www.automd.com/function/view-mode/?m=mobile" rel="nofollow"><span>Mobile Site</span></a></li>                    <li class="sec-level">© AutoMD.com, 2013</li>
+<li class="sec-level"><a href="http://www.automd.com/function/view-mode/?m=mobile" rel="nofollow"><span>Mobile Site</span></a></li>                    <li class="sec-level">© AutoMD.com, 2014</li>
 </ul>
 </div>
 </div>
@@ -217,8 +226,8 @@ Or you may contact AutoMD regarding this Privacy Policy by email at:<br><address
 <input class="text required" type="text" name="captcha" id="feedback-captcha" tabindex="4">
 <span class="captia"></span>
 </p>
-<input type="text" name="180c54075053e993b438aff709c95d88" class="hp">
-<input type="hidden" name="ts" value="1385862899">
+<input type="text" name="71f3348928d4a72c350d5fd06e9a7522" class="hp">
+<input type="hidden" name="ts" value="1399763052">
 </fieldset>
 <p class="submit">
 <input class="btn-send" type="submit" value="">
@@ -250,7 +259,9 @@ Or you may contact AutoMD regarding this Privacy Policy by email at:<br><address
 <input class="input required email" type="email" name="username" id="reg-email" placeholder="Email">
 <input class="input required" type="password" name="password" minlength="6" id="reg-password" placeholder="Password">
 <input class="input required" type="password" name="password2" minlength="6" id="reg-password2" placeholder="Confirm Password">
-<p class="checkbox-row"><input class="required checkbox" name="agree_tos" id="amd-register-agree" type="checkbox"> <label for="amd-register-agree" id="amd-register-agree-label">I agree to <a href="/default/tos/" target="_blank">Terms of Use</a> and <a href="/default/privacy-policy/" target="_blank">Privacy Policy</a>.</label></p>
+<p class="checkbox-row"><input class="required checkbox" name="agree_tos" id="amd-register-agree" type="checkbox"> <label for="amd-register-agree" id="amd-register-agree-label">
+I have read and agree to the AutoMD.com <a href="http://www.automd.com/default/tos/" target="_BLANK">Terms of Use</a> and <a href="http://www.automd.com/default/privacy-policy/" target="_BLANK">Privacy Policy</a>.
+</label></p>
 <p class="checkbox-row"><input id="amd-offers" name="email_optin" type="checkbox" class="checkbox" checked=""> <label for="amd-offers" id="amd-offers-label">I would like to receive offers &amp; announcements by email</label></p>
 <a href="javascript:;" id="register-submit-link" class="button-blue button-form-submit submit" data-disable-on-click="1" data-loading="1">Join AutoMD</a>
 <input type="submit" class="off-screen" value="Join AutoMD">                </fieldset>
@@ -284,11 +295,11 @@ Or you may contact AutoMD regarding this Privacy Policy by email at:<br><address
 <p id="p-nf-register"><a id="email-nf-register" class="button-blue button-form-submit submit">Register</a></p>
 </div>
 </div>    
-<div id="bubble-verified-customer" class="bubble-popup hidden" style="width:210px">
-<span class="navigation-left-arrow"></span>
+<div id="bubble-verified-customer" class="tooltip bubble-popup" style="width:210px">
+<span class="arrow navigation-left-arrow"></span>
 <div class="header">AutoMD Verified Customer</div>
 <div class="body">AutoMD obtained proof this customer interacted with the shop.</div>
-</div>
+</div>    
 <div id="forgot-password-modal" class="amd-iq-login-register-modal popup-overlay popup-overlay-iq box-shadow-444 hide">
 <div class="head">
 <a href="javascript:;" class="close">close</a>
@@ -310,7 +321,7 @@ Or you may contact AutoMD regarding this Privacy Policy by email at:<br><address
 <p>An email has been sent to you with directions on how to reset your password</p>
 <a href="#close" class="ok-button button-blue close" onclick="return false;">OK</a>
 </div>
-</div>				    
+</div>    
 <script>
 var AMD = {iq:{},user:{}};
 AMD.use_cdn = true;
@@ -319,27 +330,32 @@ AMD.redirect = false;
 AMD.email = true;
 AMD.logged_in = false;
 AMD.gc_id  = 1042522996;
-AMD.years  = {"years":[{"year_id":114,"year":2013},{"year_id":113,"year":2012},{"year_id":112,"year":2011},{"year_id":111,"year":2010},{"year_id":110,"year":2009},{"year_id":109,"year":2008},{"year_id":108,"year":2007},{"year_id":107,"year":2006},{"year_id":106,"year":2005},{"year_id":105,"year":2004},{"year_id":104,"year":2003},{"year_id":103,"year":2002},{"year_id":102,"year":2001},{"year_id":101,"year":2000},{"year_id":100,"year":1999},{"year_id":99,"year":1998},{"year_id":98,"year":1997},{"year_id":97,"year":1996},{"year_id":96,"year":1995},{"year_id":95,"year":1994},{"year_id":94,"year":1993},{"year_id":93,"year":1992},{"year_id":92,"year":1991},{"year_id":91,"year":1990},{"year_id":90,"year":1989},{"year_id":89,"year":1988},{"year_id":88,"year":1987},{"year_id":87,"year":1986},{"year_id":86,"year":1985},{"year_id":85,"year":1984},{"year_id":84,"year":1983},{"year_id":83,"year":1982},{"year_id":82,"year":1981},{"year_id":81,"year":1980}],"_errors":[],"_metadata":{"cached":1}};
+AMD.constants = {
+    quote_type          : {"_FULL":1,"_LABOR_ONLY":2},
+    job_details         : {"_CHECK_ENGINE_LIGHT_DIAGNOSIS":529,"_GENERAL_DIAGNOSIS___NO_CHECK_ENGINE_LIGHT":538},
+    verification_status : {"_PENDING":1,"_UNVERIFIED":2,"_VERIFIED":3,"_N_A":4}
+};
+AMD.years  = {"years":[{"year_id":115,"year":2014},{"year_id":114,"year":2013},{"year_id":113,"year":2012},{"year_id":112,"year":2011},{"year_id":111,"year":2010},{"year_id":110,"year":2009},{"year_id":109,"year":2008},{"year_id":108,"year":2007},{"year_id":107,"year":2006},{"year_id":106,"year":2005},{"year_id":105,"year":2004},{"year_id":104,"year":2003},{"year_id":103,"year":2002},{"year_id":102,"year":2001},{"year_id":101,"year":2000},{"year_id":100,"year":1999},{"year_id":99,"year":1998},{"year_id":98,"year":1997},{"year_id":97,"year":1996},{"year_id":96,"year":1995},{"year_id":95,"year":1994},{"year_id":94,"year":1993},{"year_id":93,"year":1992},{"year_id":92,"year":1991},{"year_id":91,"year":1990},{"year_id":90,"year":1989},{"year_id":89,"year":1988},{"year_id":88,"year":1987},{"year_id":87,"year":1986},{"year_id":86,"year":1985},{"year_id":85,"year":1984},{"year_id":84,"year":1983},{"year_id":83,"year":1982},{"year_id":82,"year":1981},{"year_id":81,"year":1980}],"_errors":[],"_metadata":{"cached":1}};
 AMD.mode = "desktop";
 AMD.method = "default_privacy_policy";
-AMD.version="4.7.0.1";
+AMD.version="4.9.5";
 AMD.track={data:{}};
 AMD.sm_fb = '/start/Ly93d3cuZmFjZWJvb2suY29tL2hvbWUucGhwPyMhL09mZmljaWFsQXV0b01E';
 AMD.sm_twitter = '/start/Ly90d2l0dGVyLmNvbS9BdXRvTUQ=';
 
-	AMD.survey = {"cookie_name":"amdsrv-15241g53bde2","url":"https:\/\/vovici.com\/wsb.dll\/s\/15241g53bde","reappear":"30","body":"<h1 style=\"background-image:url(\/images\/iq\/sprite-iq-hdr.png);text-indent:-999px;width:174px;height:57px;overflow:hidden;margin: 20px auto;\">AutoMD<\/h1>\n<p style=\"margin-bottom:20px;\">\nAccording to auto industry experts, new auto sales are expected to reach 15.4 million in 2013 as consumers replace aging vehicles with new ones.\n<\/p>\n<p style=\"margin-bottom:20px;\">\nWe would like to find out if you are one of the car owners coming back into the market - if not, why - and what impact the improving economy is having on your approach to vehicle repair and maintenance.\n<\/p> \n<button onclick=\"amd_survey_yes()\" style=\"margin-right: 20px;\">I'll Help<\/button>\n<button onclick=\"amd_survey_close()\">No Thanks<\/button>"};
 </script>
 <script>
 AMD.iq.no_shop_photo_html = "<div class=\"no-shop-photo\">\n    <div class=\"icon-camera\"><\/div>\n    <p class=\"no-shop-photo-text\">No Shop Photo<\/p>\n<\/div>";
 </script>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script>!window.jQuery && document.write('<script src="https://cdn.automd.com/function/combo?t=js&f=jquery-1.7.2.min.js&vm=desktop&v=4.7.0.1"><\/script>');</script><script src="https://cdn.automd.com/function/combo?t=js&amp;f=jquery-1.7.2.min.js&amp;vm=desktop&amp;v=4.7.0.1"></script>		
-<script src="https://cdn.automd.com/function/combo?t=js&amp;f=settings.js:m,tracking.js:m,jquery.lightbox_me-2.3.min.js,carpicker_plugin.js:m,jquery.backlabel.js:m,buttons.js:m,jquery.amdformtoggle.js:m,jquery.validate-1.11.1.min.js,jquery.validate.additional-methods-1.11.1.js:m,jquery.amdvalidate.js:m,modals.js:m,function.js:m,common.js:m,clearfocus.js:m,ubox.js:m,bubbletip.js:m,amduser.js:m,dropdown_account_switch.js:m&amp;vm=desktop&amp;v=4.7.0.1"></script>
-<script src="https://cdn.automd.com/function/combo?t=js&amp;f=survey.js:m&amp;vm=desktop&amp;v=4.7.0.1"></script>
+<script>!window.jQuery && document.write('<script src="https://cdn.automd.com/function/combo?t=js&f=jquery-1.7.2.min.js&vm=desktop&v=4.9.5"><\/script>');</script><script src="https://cdn.automd.com/function/combo?t=js&amp;f=jquery-1.7.2.min.js&amp;vm=desktop&amp;v=4.9.5"></script>    
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.20/jquery-ui.min.js"></script>
+<script>!window.jQuery.ui && document.write('<script src="https://cdn.automd.com/function/combo?t=js&f=jquery-ui-1.8.20.custom.js&vm=desktop&v=4.9.5"><\/script>');</script>
+<script src="https://cdn.automd.com/function/combo?t=js&amp;f=settings.js:m,jquery-cookie-1.0.js:m,jquery.form.2.73.js:m,jquery.lightbox_me-2.3.min.js,jquery.ui.selectmenu-1.2.js:m,jquery.validate-1.11.1.min.js,jquery.validate.additional-methods-1.11.1.js:m,function.js:m,common.js:m,amduser.js:m,bubbletip.js:m,buttons.js:m,carpicker_plugin.js:m,clearfocus.js:m,dropdown_account_switch.js:m,jquery.amdformtoggle.js:m,jquery.amdtooltip.js:m,jquery.amdvalidate.js:m,jquery.backlabel.js:m,modals.js:m,submenu-popup.js:m,tracking.js:m,ubox.js:m&amp;vm=desktop&amp;v=4.9.5"></script>
 <script>
 var s_account="usautomd";
 </script>
-<script src="https://cdn.automd.com/function/combo?t=js&amp;f=automd_s_code_h26.1.js&amp;vm=desktop&amp;v=4.7.0.1"></script>
+<script src="https://cdn.automd.com/function/combo?t=js&amp;f=automd_s_code_h26.1.js&amp;vm=desktop&amp;v=4.9.5"></script>
 <script>
             s.pageName = "About AutoMD: Privacy Policy";
                 s.channel = "About AutoMD: Privacy Policy";
@@ -358,6 +374,10 @@ var s_account="usautomd";
     //--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
 src="//usautoparts.122.2o7.net/b/ss/usautomd/1/H.26.1--NS/0?[AQB]&cdp=4&[AQE]"
 height="1" width="1" border="0" alt="" /></a></noscript>
+<script>
+    //save that we actually ran the load event in case we use the track.pageLoad.load() method
+    AMD.track.pageLoad.page_loaded = true;
+    </script>
 <script type="text/javascript">
 var useSSL = "https:" == document.location.protocol,
     dart_ads = [
@@ -431,6 +451,6 @@ $(window).load(function(){
     }
 });
 </script>
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-6.newrelic.com","55916a94dc","2251212","Zl0HNRNXCkEDAUBaDV8XMBMIGQ1cBgdMHRJZSA==",0,84,new Date().getTime(),"","","","",""]);</script>
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-6.newrelic.com","55916a94dc","2251212","Zl0HNRNXCkEDAUBaDV8XMBMIGQ1cBgdMHRJZSA==",0,90,new Date().getTime(),"","","","",""]);</script>
 
 <script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
