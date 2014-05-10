@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetraveltart.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109093735id_/http%3A//www.thetraveltart.com/travel-review/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetraveltart.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511005717id_/http%3A//www.thetraveltart.com/travel-review/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Travel Tart Blog, Funny Photos, Videos, AdviceThe Travel Tart | Funny Travel Blog Photos, Videos, Tips, News, Advice
+# Privacy Policy - The Travel Tart Blog, Funny Photos, Videos, Advice
 
 ## Privacy Policy Updated and Effective: January 2, 2013
 
@@ -34,7 +34,7 @@ Third Party ad servers or ad networks may also use cookies to track users activi
 
 ## External Web Sites
 
-Please note that TheTravelTart.com contains links to other web sites. We have included links on this site for your use and reference. Please be aware that we are not responsible for the privacy practices or policies of these other sites. We encourage our users to be aware that when they leave our site that you read the privacy statements of each web site that might collect personally identifying information. This privacy statement applies solely to information collected by TheTravelTart.com (if any).
+Please note that TheTravelTart.com contains [links](http://www.thetraveltart.com/travel-links-and-websites/ "links") to other web sites. We have included links on this site for your use and reference. Please be aware that we are not responsible for the privacy practices or policies of these other sites. We encourage our users to be aware that when they leave our site that you read the privacy statements of each web site that might collect personally identifying information. This privacy statement applies solely to information collected by TheTravelTart.com (if any).
 
 On TheTravelTart.com, we hate spam, and we will never spam you or anyone else.
 
