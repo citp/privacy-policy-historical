@@ -1,92 +1,114 @@
-> *The following text is extracted and transformed from the flukenetworks.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927005258id_/http%3A//www.flukenetworks.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flukenetworks.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510225652id_/http%3A//www.flukenetworks.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Fluke Networks’ Privacy Statement  
-Last Updated: January 12, 2010
+## FLUKE NETWORKS’ PRIVACY POLICY
 
-NOTICE OF CHANGES to FlukeNetworks.com/en-us visitors: FlukeNetworks has made changes to its privacy policy in an effort to better describe how it collects, uses, and shares its information. Please contact us by emailing [info@flukenetworks.com](mailto:info@flukenetworks.com) with any questions or concerns about these changes.
+**Last Updated:** March 10, 2014
 
-This Policy explains how your personal information is collected, used, and disclosed by Fluke Networks and its affiliated Danaher companies. This statement applies to Fluke Networks and the English versions of the <http://www.flukenetworks.com/> website. When you use our website or subscribe to our services, you specifically consent to our use of the information that you provide to us in accordance with this policy.  Please visit foreign language sites for specifics on privacy practices for those sites.  See our [Terms of Use](https://web.archive.org/about/privacy) for standards of conduct for using FlukeNetworks.com and community features.
+This Privacy Policy explains how information about you is collected, used and disclosed by Fluke Corporation and certain subsidiaries and affiliates, including, without limitation, Fluke Networks (collectively, "we" or "us"). This Privacy Policy applies to information we collect when you use our websites, mobile applications and other online products and services (collectively, the "Services"), or when you otherwise interact with us.
 
-INFORMATION COLLECTED  
-We collect information from you in various ways when you use our Sites. We collect information you directly provide to us. For example, we collect your name, email address, postal address, phone number, fax number, demographics, preference information and other information you provide us on our Sites. We may also obtain information from other sources and combine that with information we collect on our Sites.
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the "Last Updated" date at the top of this Privacy Policy and, in some cases, we may provide you with additional notice (such as by adding a statement to our homepage or by sending you a notification). We encourage you to review the Privacy Policy whenever you access the Services to stay informed about our information practices and the ways you can help protect your privacy.
 
-When you visit our Sites, some information is automatically collected. For example, when you visit our Sites your computer's operating system, Internet Protocol (IP) address, access times, browser type and language, and referring Web site addresses are logged automatically. We also collect information about your usage and activity on our Sites.
+## Collection of Information 
 
-Cookies. We use cookies to see which areas and features are popular and to count visits to our Sites. If you set your browser not to accept cookies or if you reject a cookie, it may affect certain features or services of our Sites.
+**Information You Provide to Us**
 
-Web Beacons. We may collect information using Web beacons. Web beacons are electronic images that may be used on our Sites or in our emails. We use Web beacons to deliver cookies, count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon. 
+We collect information you provide directly to us. For example, we collect information when you create an online account and/or profile, participate in the interactive areas of our Services, fill out a form, provide us with your business card or other contact information, participate in a contest or promotion, complete a survey, sign up to receive one of our newsletters, make a purchase, communicate with us via third party social media sites, request customer support or otherwise communicate with us. The types of information we may collect include your name, email address, postal address, phone number, company name and contact details, job title, industry sector, photographs, videos and any other information you choose to provide.
 
-USE OF PERSONAL INFORMATION WE COLLECT  
-We use personal information collected through our Sites for purposes described in this Policy or disclosed to you on our Sites or in connection with our services. For example, we may use your information to:
+**Information We Collect Automatically When You Use the Services**
 
-• operate and improve our Sites and services;  
-• process and deliver contest entries and rewards;  
-• respond to your comments and questions and provide customer service;  
-• provide and deliver products and to send you related information, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages;  
-• register you for events and training;  
-• communicate with you about new contests, promotions and rewards, upcoming events, and other news about products and services offered by Fluke Networks;  
-• link or combine with other personal information we get from third parties, to help understand your needs and provide you with better service.  
-• Send you important safety notices related to your product(s).  
-• Fluke Networks may store and process personal information in the United States and other countries.
+When you access or use our Services, we automatically collect information about you, including:
 
-Registration Forms
+  * **Log Information:** We log information about your use of the Services, including your Internet Protocol ("IP") address, the type of browser you use, access times, pages viewed, number of clicks, and the page you visited before navigating to our Services.
+  * **Device Information:** We collect information about the computer or mobile device you use to access our Services, including the hardware model, MAC address, operating system and version, unique device identifiers and mobile network information.
+  * **Network Information:** We may collect information about your network, such as information about devices, nodes, configurations, connection speeds and network and application performance.
+  * **Location Information:** We may collect information about the location of your mobile device each time you access or use one of our mobile applications. For more details, please see "Your Choices" below.
+  * **Usage Information:** We may collect information about the use of our Services and certain tools, such as how often the tools are used, the duration and quality of use, calibration data, project configuration data and operator data.
+  * **Information Collected by Cookies and Other Tracking Technologies:** Cookies and other tracking technologies (such as web beacons) are used to enhance your experience by allowing us to tailor our content based on your interests and distinguish you from other users of our Services. A cookie is a small file of letters and numbers that does not contain any personal data, and that we store on your browser or the hard drive of your device. A cookie can contain information, such as a user ID or preferences, which the Services use to personalize content, track the pages you've visited or to save your password so you do not have to re-enter it each time you visit our Services. We do not track your personal data through cookies, unless you choose to provide this information to us by, for example, registering or logging on to our Services. We use the following types of cookies:
+    * **Strictly necessary cookies.** These are cookies or other tracking mechanisms necessary to make our Services function as intended. They include, for example, cookies that enable you to use a shopping cart.
+    * **Analytical/performance cookies.** They allow us to recognize and count the number of visitors and to see how visitors move around our Services. This helps us to improve the way our Services work, for example, by ensuring that users are finding what they are looking for easily.
+    * **Functionality cookies.** These cookies enable us to personalize our content for you, greet you by name and remember your preferences (for example, your choice of language or region). They may also be used to recognize you when you return to our Services.
+    * **Third-party cookies.** We may allow third parties to place cookies on your device for advertising and analytics purposes. For more information about these cookies, please see “Advertising and Analytics Services Provided by Others” below.
 
-Registering on this site includes registration for:  
-• Product registration,  
-• My Account/MyVision registration, and  
-• Support ticket registration  
-• White Papers, Events, Webcasts, Contest and Software Downloads  
-• Network SuperVision Gold registration or sign in  
-• Fluke Networks Community  
-Information like name, e-mail address, and some demographic data may be collected.  
-We use this information to learn more about you and to keep you up to date on new products, services and developments in accordance with the permissions that you have given.  
-Opting Out  
-You can ask us to stop contacting you at any time. Please email [unsubscribe@flukenetworks.com](mailto:unsubscribe@flukenetworks.com) and indicate which communication method i.e. phone, fax, postal or email that you would like to opt-out of.
 
-SHARING OF PERSONAL INFORMATION  
-We do not share your personal information with third parties other than as follows:
 
-• in an aggregated form that does not directly identify you;  
-• with your consent, for example, when you agree to our sharing your information with other third parties for their own marketing uses subject to their privacy policies;  
-• with third party vendors, consultants and other service providers who are working on our behalf and need access to your information to carry out their work for us;  
-• to (i) comply with laws or to respond to lawful requests and legal process, (ii) to protect the rights and property of Fluke Networks our agents, members, and others including to enforce our agreements, policies and terms of use or (iii) in an emergency to protect the personal safety of Fluke Networks, its customers, or any person;  
-• in connection with any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company including other companies within the Danaher Inc. family of companies.
+If required by law, we will ask you for your consent to our use of cookies when you first visit our Services. We may assume that you consented from ticking a box and clicking on an “I agree” (or similar button) or by continuing to navigate on our Services despite a clear and visible notice on our Services that we use cookies. If you agree, we will place an opt-in cookie on your device. If you disagree, we will place an opt-out cookie. These will help us remember your choice and avoid asking you in the future. If you change your mind, simply delete the cookies on your device (please refer to the software provider’s documentation) and you will be asked again if you agree or disagree with our use of cookies when you visit our Services next. You can also adjust your browser settings to receive a message every time a cookie is installed on your computer or to prevent their installation altogether. Although rejection of cookies will not interfere with your ability to interact with most of our Services, you will need to accept cookies if you choose to enter areas of our Services that require registration or login. Certain other functions and/or services might be unavailable to you if you reject cookies altogether (such as remembering your choice of language).
 
-YOUR INFORMATION CHOICES AND CHANGES  
-You may opt out of receiving promotional emails from Fluke Networks by following the instructions in those emails or email [unsubscribe@flukenetworks.com](mailto:unsubscribe@flukenetworks.com).  If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.
+**Information We Collect From Other Sources**
 
-SECURITY OF YOUR PERSONAL INFORMATION  
-Fluke Networks takes reasonable measures to protect your personal information in an effort to prevent loss, misuse and unauthorized access, disclosure, alteration and destruction.
+We may also obtain information from other sources and combine that with information we collect about you.
 
-Email Delivery Engine  
-Fluke Networks uses a third party to execute email communications, and this third party abides by strict privacy and anti-SPAM guidelines. Their privacy policy conforms to Fluke Networks privacy guidelines.
+## Use of Information
 
-Email Fraud Security Notice  
-Fluke Networks does not permit:  
-• Spamming: sending unsolicited advertising to those with whom Fluke does not have an existing business relationship; posting off-topic advertising in newsgroups.  
-• Spoofing: using a return email address that is not the sender’s valid reply address; sending an email message that does not contain enough information to enable the recipient to identify the sender.  
-• Passive Spamming: promoting a website hosted by Fluke by spamming from another source.  
-• Trolling: posting controversial messages in newsgroups to generate responses  
-• Mail Bombing: Inundating a user with email without any serious intent to correspond; sending large or multiple files to a user.  
-If you suspect that you have been the victim of any of these types of conduct, please email [info@flukenetworks.com](mailto:info@flukenetworks.com).  
-Fluke Networks reserves the right to seek the imposition of criminal and civil penalties for any unacceptable online activities, including punitive damages, under any applicable law, including the Computer Fraud and Abuse Act (18 U.S.C. § 1030), the Electronic Communications Privacy Act (18 U.S.C. § 2511), the Lanham Act (15 U.S.C. § 1125(a), 15 U.S.C. § 1114), the Uniform Trade Secrets Act (RCW 19.108.010), the Unsolicited Electronic E-mail Act, and the Washington Unfair Business-Consumer Protection Act.  
-EU Residents:  
-We may process your information at locations inside and outside the European Economic area. We have taken steps at all processing locations to ensure that your information is dealt with securely and in accordance with our Privacy Statement.
+We may use information about you for various purposes, including to:
 
-Certain countries may not allow information (such as e-mail) to be transmitted outside of that country or region.  
-By clicking on buttons during a transaction like “submit,” “continue,” “register,” etcetera, you consent to the transfers and processing referred to above taking place. If you have any concerns, we suggest you do not use the forms or contact mechanisms included in this web site, and use an alternative form of contacting us such as telephoning one of our operators or writing to us by post.
+  * Provide, maintain and improve our Services;
+  * Provide and deliver the products and services you request, process transactions and send you related information, including confirmations and invoices;
+  * Resolve technical issues related to the Services, and send you technical notices, updates, security alerts and support and administrative messages;
+  * Respond to your comments, questions and requests, and provide customer service;
+  * Communicate with you about products, services, offers, surveys, contests, promotions, rewards and events offered by us and others, and provide news and information we think will be of interest to you;
+  * Monitor and analyze trends, usage and activities in connection with our Services and tools and those of third parties;
+  * Personalize and improve the Services, and provide advertisements, content or features that match user profiles or interests;
+  * Process and deliver contest entries and rewards;
+  * Link or combine with information we get from others to help understand your needs and provide you with better service; and
+  * Carry out any other purpose for which the information was collected.
 
-CHANGES TO THIS POLICY  
-Fluke Networks may change this Policy from time to time. If we make any changes to this Policy, we will change the "Last Updated" date above.
 
-ENFORCEMENT  
-If you have any questions about this Policy, please contact us at:
 
-Fluke Networks  
-P.O. Box 777  
-Everett, WA 98206-0777
+By accessing or using the Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries.
 
-Attention: webmaster  
-Email: [info@flukenetworks.com](mailto:info@flukenetworks.com)
+## Sharing of Information
+
+We may share information about you as follows or as otherwise described in this Privacy Policy:
+
+  * With our parent company, Danaher Corporation, and other entities in our corporate family;
+  * With distributors, resellers, channel partners and others in connection with the sale of our products and for their own marketing purposes (please see “Your Privacy Rights” below for more information about your choices with respect to this type of sharing);
+  * With other users if you choose to participate in the interactive areas of our Services, such as community forums;
+  * With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
+  * In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;
+  * If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect our rights, property and safety and those of others;
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company; and
+  * With your consent or at your direction.
+
+
+
+We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
+
+## Social Sharing Features 
+
+The Services may offer social sharing features and other integrated tools (such as the Facebook "Like" button), which let you share actions you take on our Services with other media, and vice versa. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
+
+## Advertising and Analytics Services Provided by Others
+
+We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by us and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit Google's Ads Settings and the Digital Advertising Alliance’s opt-out mechanism.
+
+## Security
+
+We take reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
+
+## Your Choices
+
+**Your Privacy Rights**
+
+As described above, we may share information about you with third parties for their own marketing purposes. To opt out of having your information shared in this way, please contact us at [info@flukenetworks.com](mailto:info@flukenetworks.com).
+
+**Account Information**
+
+You may update, correct or delete information about you at any time by logging into your online account or emailing us at [info@flukenetworks.com](mailto:info@flukenetworks.com). If you wish to deactivate or delete your account, please email us at [info@flukenetworks.com](mailto:info@flukenetworks.com), but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.
+
+**Location Information**
+
+When you first launch any of our mobile applications that collect location information, you will be asked to consent to the application's collection of this information. If you initially consent to our collection of location information, you can subsequently stop the collection of this information at any time by changing the preferences on your mobile device. If you do so, our mobile applications, or certain features thereof, will no longer function. You may also stop our collection of location information by following the standard uninstall process to remove all of our mobile applications from your device.
+
+**Promotional Communications**
+
+You may opt out of receiving promotional emails from us by following the instructions in those emails or by emailing us at [info@flukenetworks.com](mailto:info@flukenetworks.com). If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
+
+**Push Notifications/Alerts**
+
+With your consent, we may send push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at [info@flukenetworks.com](mailto:info@flukenetworks.com).
