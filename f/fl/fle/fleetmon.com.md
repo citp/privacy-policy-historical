@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fleetmon.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109115817id_/http%3A//www.fleetmon.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fleetmon.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510214004id_/http%3A//www.fleetmon.com/policy) for the most accurate reproduction.*
 
 # FleetMon - ship and port database with AIS live position maps for vessel tracking - FleetMon.com
 
