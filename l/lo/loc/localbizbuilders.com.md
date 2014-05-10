@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localbizbuilders.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622131648id_/http%3A//www.localmarketingsource.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localbizbuilders.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510114855id_/http%3A//www.localmarketingsource.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Local Marketing Source
 
