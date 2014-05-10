@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the crimelibrary.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029215501id_/http%3A//www.trutv.com/copyright/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crimelibrary.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510230524id_/http%3A//www.crimelibrary.com/about/privacy.html) for the most accurate reproduction.*
 
-# truTV Privacy Policy
+# Privacy Policy: Crime Library
 
-_Thank you for visiting truTV.com, a site presented to you by Turner Broadcasting System, Inc. ("Turner"). Your privacy is important to us. As such, we provide this privacy statement explaining our online information practices and the choices you can make about the way your information is collected and used at this general audience Turner site, and among Turner's network of affiliated websites ("Turner Network"), which includes any sites or services owned, operated or offered by or on behalf of Turner or its affiliates._
+_Thank you for visiting Crime Library, a site presented to you by Turner Broadcasting System, Inc. ("Turner"). Your privacy is important to us. As such, we provide this privacy statement explaining our online information practices and the choices you can make about the way your information is collected and used at this general audience Turner site, and among Turner's network of affiliated websites ("Turner Network"), which includes any sites or services owned, operated or offered by or on behalf of Turner or its affiliates._
 
 ### The Information We Collect
 
@@ -64,7 +64,7 @@ The Adobe Flash Player is a powerful application and web tool that allows rapid 
 
 We, our third party service providers, advertiser or our partners may also use "web beacons" or clear .gifs, or similar technologies, which are small pieces of code placed on a web page, to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons may be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page.
 
-You can change your privacy preferences regarding the use of cookies and similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or block all cookies. Blocking all cookies will affect your online experience and may prevent you from enjoying the full features offered at Turner Network sites. Please consult the "Help" section of your browser for more information.
+At this time sites on the Turner Network do not recognize automated browser signals regarding tracking mechanisms, which may include "do not track" instructions. You can change your privacy preferences regarding the use of cookies and similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or block all cookies. Blocking all cookies will affect your online experience and may prevent you from enjoying the full features offered at Turner Network sites. Please consult the "Help" section of your browser for more information.
 
 ### Collection of Information by Third-Party Sites, Ad Servers, and Sponsors
 
@@ -78,7 +78,7 @@ We also use the services of reputable third parties to provide us with data coll
 
 Our goal at the Turner Network is to provide you with ads that are relevant to you. Advertising enables us to provide the rich content for which sites on the Turner Network are known. Often our ads are based on the content of pages you are viewing, but we also provide ads tailored to your interests. Our hope is that by presenting ads tailored to your interests, we will enhance your experience across the Turner Network's diverse websites.
 
-For example, if you often visit content on the Turner Network about travel, we may use "web beacons" to infer your possible interest in travel and may deliver an ad to you related to that interest. It's important to understand that these technologies do not use personally identifiable information to make this happen but instead use anonymous identifiers within the "cookies" stored in your browser. We offer you choices with regard to interest-based ads. To learn more about interest-based ads and the choices available to you, please visit our [Ad Choices](https://web.archive.org/services/ad.choices/index.html) page.
+For example, if you often visit content on the Turner Network about travel, we may use "web beacons" to infer your possible interest in travel and may deliver an ad to you related to that interest. It's important to understand that these technologies do not use personally identifiable information to make this happen but instead use anonymous identifiers within the "cookies" stored in your browser. We offer you choices with regard to interest-based ads. To learn more about interest-based ads and the choices available to you, please visit our Ad Choices page.
 
 ### Turner's Participation in the Industry Self Regulatory Program for Interest Based Ads; Additional choice options
 
@@ -115,4 +115,4 @@ If you have any questions or concerns about the online privacy statement for thi
 
 From time to time, we may update this privacy statement. We will notify you about material changes in the way we treat personally identifiable information by sending an email message to the email address you most recently provided to us or by prominently posting a notice on our site. We encourage you to periodically check back and review this statement so that you always will know what information we collect, how we use it, and with whom we share it.
 
-The Privacy Statement posted on this site was updated in February, 2011.
+The Privacy Statement posted on this site was updated on December 20, 2013.
