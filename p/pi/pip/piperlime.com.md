@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piperlime.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528084343id_/http%3A//piperlime.gap.com/customerService/info.do%3Fcid%3D4227) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piperlime.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510230925id_/http%3A//piperlime.gap.com/customerService/info.do%3Fcid%3D4227) for the most accurate reproduction.*
 
 # | Piperlime
 
@@ -85,6 +85,8 @@ Back to top
 Our websites use "cookies," which are small data files that are stored on your computer when you visit a website. Cookies enable you to shop on our websites and may be used in a variety of ways to enhance or personalize your online browsing and shopping experience.
 
 For example, we may use cookies to enable you to use certain website features, remember the items in your shopping cart, store your preferences, recognize you when you return to our website, track your orders, and monitor and maintain information about your use of our websites. Cookies may also be used to collect transaction information needed by a scrip or loyalty program to which you have authorized us to provide your personal information. (See the section entitled, "Does Gap Inc. share my information?", above.)
+
+We may also use our own cookies to help determine which of our ads are shown to you on other websites.  To opt out of this targeted online advertising that utilizes our cookies, please [click here](http://dtmc.gap.com/adinfo/adchoices_fpc.html?cid=2366&cname=Gap%20Inc.&cmagic=d3b1fb&clogo=Gap_INC_LOGOS.png). Please see the section below to learn more about behavioral or interest based online advertising that uses third party tracking technologies.
 
 You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. If you do not accept cookies, however, you will not be able to access your account information or make purchases on our websites.
 
