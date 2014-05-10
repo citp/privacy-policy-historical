@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pomona.edu privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205204433id_/http%3A//www.pomona.edu/administration/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pomona.edu privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510232504id_/http%3A//www.pomona.edu/administration/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Pomona College
 
