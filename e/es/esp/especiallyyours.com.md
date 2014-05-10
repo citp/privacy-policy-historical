@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the especiallyyours.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109031626id_/http%3A//www.especiallyyours.com/display.do%3FruleID%3D100188%26itemID%3D5%26itemType%3DLANDING%26Privacy%3DPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the especiallyyours.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510073102id_/http%3A//www.especiallyyours.com/display.do%3FruleID%3D100188%26itemID%3D5%26itemType%3DLANDING%26Privacy%3DPolicy) for the most accurate reproduction.*
 
 # Wigs and Hairpieces - www.EspeciallyYours.com
 
