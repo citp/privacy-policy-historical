@@ -1,130 +1,55 @@
-> *The following text is extracted and transformed from the redbooth.com privacy policy that was archived on 2003-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030815191906id_/http%3A//rentanything.com/help/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbooth.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510162717id_/http%3A//redbooth.com/more-info/security-privacy) for the most accurate reproduction.*
 
-# Rentanything.com || Help
+# Security and Privacy | Our Policies to Protect You | Redbooth
 
-**Privacy Policy**
+## Our data privacy policy
 
-Welcome to rent **anything**.com. We are committed to protecting the privacy of our renters and rental suppliers and developed this policy to demonstrate our commitment to this issue. This policy discloses our practices regarding the collection, use and disclosure of the information we receive through the rent **anything**.com Web site (the "Site"). By using the Site, you consent to the data collection and use practices described below. If we decide to change our policy, we will publish a notice on the Site that the policy has been changed and post those changes on this page. Continued use by you of the Site constitutes your agreement to be bound by and subjected to this Privacy Policy. 
+#### Your data is private and only visible to your team
 
-**General Practice**
+#### Information we collect and store:
 
-In conjunction with consummating rental transactions, rent **anything**.com will share your personal identification information only with rent **anything**.com registered users as described below. Personal identification information will also be used for internal purposes and access to this information will be limited to authorized employees of rent **anything**.com. We do not share any billing account information collected on the Site with any third party other than our credit card processor, which may be provided the information necessary to complete a credit card transaction or an authorization for a damage deposit. 
+We collect and store the text, information, tasks and files you upload or access with the Redbooth Service. When you access Redbooth, we may automatically record information from your device, its software, and your activity using the service. This may include your device’s IP address, browser type, the web page visited before you came to our website, location, locale preferences, date and time stamps and other metadata concerning your interactions with the service.
 
-**Information We Collect**
+#### Cookies:
 
-Rent **anything**.com requires that renters and rental suppliers register before they may use the Site. During the course of this registration process, rent **anything**.com collects personal identification information and other user data. 
+We use “cookies” to collect information and improve our services. A cookie is a small data file that we transfer to your device. We may use “persistent cookies” to save your registration ID and login password for future logins to the service. You can configure your browser by changing its options to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to easily access all aspects of the Redbooth service and may need to manually enter user and password information.
 
-Renters provide personal identification information such as legal name, address, telephone number, fax number, e-mail address, and a user created ID and password. In addition, rent **anything**.com may collect billing account information, which includes billing related contact information as well as payment, credit card and/or tax identification number information. 
+#### Our Use of Your Personal Information:
 
-Rental suppliers provide personal identification information such as legal name, company name, address, telephone number, fax number, e-mail address and a user created ID and password. In addition, rent **anything**.com may collect billing account information, which includes billing related contact information as well as payment, credit card and/or tax identification number information. 
+In the course of using the Service, we may collect personal information that can be used to contact or identify you (“Personal Information”). Personal Information is or may be used: (i) to provide and improve our Service, (ii) to administer your use of the Service, (iii) to better understand your needs and interests, (iv) to personalize and improve your experience, and (v) to provide or offer software updates and product announcements. If you no longer wish to receive communications from us, please follow the “unsubscribe” instructions provided in any of those communications.
 
-Renters and rental suppliers both post information on the Site relating to rental transactions. rent **anything**.com may collect this information and associate it with personal identification information to construct personalized user pages detailing a user's transaction activity. 
+#### Geo-Location Information:
 
-rent **anything**.com may also run promotions on the Site during which additional user information is collected. Any information collected during such promotions will be subject to terms of the promotion and will not be subject to this privacy policy. 
+Some browsers allow applications to access real-time location-based information (for example, GPS). Our mobile apps do not collect such information as of the date this policy went into effect, but may do so in the future with your consent to improve our Services.
 
-Finally, rent **anything**.com may collect aggregate level user information to share with third parties. The aggregate level user information shared will not contain any personal identification information and cannot be tied to any individual user. 
+#### Third-Party Applications:
 
-**How We Use the Information We Collect**
+We may share your information with a third party application with your consent (Google Docs, Dropbox or similar service), for example, when you choose to access our Services through such an application. We are not responsible for what those parties do with your information, so you should make sure you trust the application and that it has a privacy policy acceptable to you.
 
-Except as outlined below, rent **anything**.com only uses your personal identification information to consummate rental transactions and for other internal purposes. More specifically, after a renter and a rental supplier mutually agree upon a rental transaction, rent **anything**.com will disclose the parties personal identification information (i.e., name, address, e-mail address, and phone number) for the purpose of allowing the parties to contact each other directly to finalize any arrangements regarding the rental transaction. Obviously, when consummating the rental transaction the renter and rental supplier may share additional personal identification and other information. The sharing of this information, however, is between the parties to the rental transaction, is not subject to this privacy policy, and rent **anything**.com has no involvement or bears no responsibility for any information provided in that process. 
+#### Encryption:
 
-Except as outlined below, all personal identification information beyond name, address, email address, and phone number will be used solely for rent **anything**.com internal purposes. These internal purposes include contacting renters regarding rental responses received, contacting rental suppliers regarding their listings and notifying both renters and rental suppliers of other relevant operational activity related to the Site. This information may also be used to notify renters and rental suppliers of rent **anything**.com promotions. 
+Redbooth will not be able to decrypt any files that you encrypted prior to storing them on Redbooth.
 
-Except as outlined below, rent **anything**.com will never share billing account information with any third party other than our credit card transaction processor, which may be provided with the information necessary to complete a credit card transaction or an authorization for a damage deposit. This information will also be used internally for billing purposes. 
+#### Analytics:
 
-Except as outlined below, rent **anything**.com will use rental transaction information associated with personal identification information to construct personalized user pages detailing a user's transaction activity. 
+We also collect some information (using third party services) using logging and cookies. We use this information for the above purposes and to monitor and analyze use of the Service, to increase our functionality and user-friendliness. As of the date this policy went into effect, we use Google Analytics and KISSMetrics.
 
-Except as outlined below, rent **anything**.com may share aggregate level user information with third parties. For example rent **anything**.com may want to collect information relating to the percentage of renters looking to rent automobiles to share with prospective or actual rental suppliers. This aggregate information will not contain any personal identification information and cannot be tied to any individual user. 
+#### Business Transfers:
 
-Rent **anything**.com considers all information collected on the Site to be a business asset. In the event that rent **anything**.com or substantially all of its assets are acquired, such information will be one of the transferred business assets. rent **anything**.com may also release personal identification information, billing account information, or any other user information when appropriate to comply with the law; or to protect the rights, property, or safety of rent **anything**.com, its registered users, or other third parties. 
+If we are involved in a merger, acquisition, or sale of all or a portion of our assets, your information may be transferred as part of that transaction. We will notify you (for example, via email and/or a prominent notice on our website) of any change in control or use of your Personal Information or Files, or if either become subject to a different Privacy Policy. We will also notify you of choices you may have regarding the information.
 
-**Cookies**
+#### Changing or Deleting Your Information:
 
-Rent **anything**.com uses "cookies" on its Site. Among the reasons we use cookies, cookies enable you move around the Site without having enter your password as frequently. Cookies are files that are stored by your browser on your computer's hard drive that contain information about your visits to our Site. Our cookies do not contain any personal identification information and we do not associate with your personal identification information any information collected through the cookies. 
+If you are a registered user, you may review, update, correct or delete the Personal Information provided in your registration or account profile by changing your “account settings.” If your personally identifiable information changes, or if you no longer desire our service, you may update or delete it by making the change on your account settings.
 
-You can set your browser to limit or let you know about cookies that a Web site places on your computer. If you set your browser to reject a cookie, some features of our Site may not work for you. 
+#### Data Retention:
 
-**This Site Targets Adults**
+Redbooth will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, you may delete your account. We will try to delete your information quickly upon request. Please note, however, that there might be latency in deleting information from our servers and backed-up.
 
-Rent **anything**.com provides a service for adults to enter into rental transactions. Minors (under the age of 18) are not eligible to use our services, and by completing the registration process, during which personal identification information is collected, each registered user verifies he or she is at least 18 years of age. 
+Our Service offers publicly accessible community services such as blogs, forums, and wikis. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. Your posts may remain even after you cancel your account.
 
-**Other Sites**
+#### Changes to our Privacy Policy:
 
-Our Site may contain links to other Web sites. Rent **anything**.com makes no representations about and is not responsible for the user data collection practices and uses of such other Web sites. 
+This Privacy Policy may change from time to time. If we make a change to this privacy policy that we believe materially reduces your rights, we will provide you with notice (for example, by email). And we may provide notice of changes in other circumstances as well. By continuing to use the Service after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
-**Choice**
-
-Rent **anything**.com provides its users with the ability to opt out of receiving operational communications from rent **anything**.com. If you do not wish to receive future notifications or communications from us, please e-mail your request to privacy@rent **anything**.com. 
-
-**Access to Your Personal Identification Information**
-
-Rent **anything**.com provides its users with the ability view, update, edit and/or delete any personal identification information collected by rent **anything**.com. If you would like the opportunity to view, update, edit and/or delete your personal identification information from our Site or would like further information on the process to access your information, please e-mail your request to access@rent **anything**.com. We will respond to you with the steps to be taken to satisfy your request for access. 
-
-**Security**
-
-Rent **anything**.com takes steps to protect the information we collect on our Site. We use firewall and password protection to protect data stored on our servers. We also encrypt all transaction billing and credit card information for your protection. 
-
-back to top
-**Privacy Policy**
-
-Welcome to rent **anything**.com. We are committed to protecting the privacy of our renters and rental suppliers and developed this policy to demonstrate our commitment to this issue. This policy discloses our practices regarding the collection, use and disclosure of the information we receive through the rent **anything**.com Web site (the "Site"). By using the Site, you consent to the data collection and use practices described below. If we decide to change our policy, we will publish a notice on the Site that the policy has been changed and post those changes on this page. Continued use by you of the Site constitutes your agreement to be bound by and subjected to this Privacy Policy. 
-
-**General Practice**
-
-In conjunction with consummating rental transactions, rent **anything**.com will share your personal identification information only with rent **anything**.com registered users as described below. Personal identification information will also be used for internal purposes and access to this information will be limited to authorized employees of rent **anything**.com. We do not share any billing account information collected on the Site with any third party other than our credit card processor, which may be provided the information necessary to complete a credit card transaction or an authorization for a damage deposit. 
-
-**Information We Collect**
-
-Rent **anything**.com requires that renters and rental suppliers register before they may use the Site. During the course of this registration process, rent **anything**.com collects personal identification information and other user data. 
-
-Renters provide personal identification information such as legal name, address, telephone number, fax number, e-mail address, and a user created ID and password. In addition, rent **anything**.com may collect billing account information, which includes billing related contact information as well as payment, credit card and/or tax identification number information. 
-
-Rental suppliers provide personal identification information such as legal name, company name, address, telephone number, fax number, e-mail address and a user created ID and password. In addition, rent **anything**.com may collect billing account information, which includes billing related contact information as well as payment, credit card and/or tax identification number information. 
-
-Renters and rental suppliers both post information on the Site relating to rental transactions. rent **anything**.com may collect this information and associate it with personal identification information to construct personalized user pages detailing a user's transaction activity. 
-
-rent **anything**.com may also run promotions on the Site during which additional user information is collected. Any information collected during such promotions will be subject to terms of the promotion and will not be subject to this privacy policy. 
-
-Finally, rent **anything**.com may collect aggregate level user information to share with third parties. The aggregate level user information shared will not contain any personal identification information and cannot be tied to any individual user. 
-
-**How We Use the Information We Collect**
-
-Except as outlined below, rent **anything**.com only uses your personal identification information to consummate rental transactions and for other internal purposes. More specifically, after a renter and a rental supplier mutually agree upon a rental transaction, rent **anything**.com will disclose the parties personal identification information (i.e., name, address, e-mail address, and phone number) for the purpose of allowing the parties to contact each other directly to finalize any arrangements regarding the rental transaction. Obviously, when consummating the rental transaction the renter and rental supplier may share additional personal identification and other information. The sharing of this information, however, is between the parties to the rental transaction, is not subject to this privacy policy, and rent **anything**.com has no involvement or bears no responsibility for any information provided in that process. 
-
-Except as outlined below, all personal identification information beyond name, address, email address, and phone number will be used solely for rent **anything**.com internal purposes. These internal purposes include contacting renters regarding rental responses received, contacting rental suppliers regarding their listings and notifying both renters and rental suppliers of other relevant operational activity related to the Site. This information may also be used to notify renters and rental suppliers of rent **anything**.com promotions. 
-
-Except as outlined below, rent **anything**.com will never share billing account information with any third party other than our credit card transaction processor, which may be provided with the information necessary to complete a credit card transaction or an authorization for a damage deposit. This information will also be used internally for billing purposes. 
-
-Except as outlined below, rent **anything**.com will use rental transaction information associated with personal identification information to construct personalized user pages detailing a user's transaction activity. 
-
-Except as outlined below, rent **anything**.com may share aggregate level user information with third parties. For example rent **anything**.com may want to collect information relating to the percentage of renters looking to rent automobiles to share with prospective or actual rental suppliers. This aggregate information will not contain any personal identification information and cannot be tied to any individual user. 
-
-Rent **anything**.com considers all information collected on the Site to be a business asset. In the event that rent **anything**.com or substantially all of its assets are acquired, such information will be one of the transferred business assets. rent **anything**.com may also release personal identification information, billing account information, or any other user information when appropriate to comply with the law; or to protect the rights, property, or safety of rent **anything**.com, its registered users, or other third parties. 
-
-**Cookies**
-
-Rent **anything**.com uses "cookies" on its Site. Among the reasons we use cookies, cookies enable you move around the Site without having enter your password as frequently. Cookies are files that are stored by your browser on your computer's hard drive that contain information about your visits to our Site. Our cookies do not contain any personal identification information and we do not associate with your personal identification information any information collected through the cookies. 
-
-You can set your browser to limit or let you know about cookies that a Web site places on your computer. If you set your browser to reject a cookie, some features of our Site may not work for you. 
-
-**This Site Targets Adults**
-
-Rent **anything**.com provides a service for adults to enter into rental transactions. Minors (under the age of 18) are not eligible to use our services, and by completing the registration process, during which personal identification information is collected, each registered user verifies he or she is at least 18 years of age. 
-
-**Other Sites**
-
-Our Site may contain links to other Web sites. Rent **anything**.com makes no representations about and is not responsible for the user data collection practices and uses of such other Web sites. 
-
-**Choice**
-
-Rent **anything**.com provides its users with the ability to opt out of receiving operational communications from rent **anything**.com. If you do not wish to receive future notifications or communications from us, please e-mail your request to privacy@rent **anything**.com. 
-
-**Access to Your Personal Identification Information**
-
-Rent **anything**.com provides its users with the ability view, update, edit and/or delete any personal identification information collected by rent **anything**.com. If you would like the opportunity to view, update, edit and/or delete your personal identification information from our Site or would like further information on the process to access your information, please e-mail your request to access@rent **anything**.com. We will respond to you with the steps to be taken to satisfy your request for access. 
-
-**Security**
-
-Rent **anything**.com takes steps to protect the information we collect on our Site. We use firewall and password protection to protect data stored on our servers. We also encrypt all transaction billing and credit card information for your protection. 
-
-back to top
+If you have any questions or concerns about security or data privacy on our website or through our service, you should review this entire Security and Data Privacy Policy Page or contact us at [info@redbooth.com](mailto:info@redbooth.com).
