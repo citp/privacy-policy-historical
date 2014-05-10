@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axainsurance.com privacy policy that was archived on 2013-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130728161244id_/http%3A//www.axainsurance.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axainsurance.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510132635id_/http%3A//www.axainsurance.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AXA Insurance
 
@@ -85,7 +85,7 @@ To keep premiums low we participate in a number of industry initiatives to preve
 
 
 
-For more information about the agencies with which we share your data, including further details explaining how the information held by fraud prevention agencies may be used, please email us at [informationsharing@swiftcover.com](mailto:informationsharing@swiftcover.com). 
+For more information about the agencies with which we share your data, including further details explaining how the information held by fraud prevention agencies may be used, please email us at [informationsharing@axa.com](mailto:informationsharing@axa.com). 
 
 If you would like a copy of the information we hold about you, please refer to the Further information section below. 
 
@@ -188,7 +188,7 @@ When you take out additional products with us or make a claim, your details will
 
 ### Home insurance
 
-  * Family legal protection cover: Arc Legal
+  * Legal expenses cover: Arc Legal
   * Home assistance cover: Homeserve 
   * Home claims: AXA Insurance Home Claims, Morecambe 
   * Identity theft cover: Capita 
@@ -219,6 +219,8 @@ Back to top
 ## Use of personal information for marketing purposes
 
 The information you supply may be used by us, other members of the AXA Group and carefully selected third parties for research purposes or to inform you of other products or services that may be of interest to you, unless you have advised us otherwise. On each occasion that we contact you for these purposes, you will always be given the option to opt out of any further communication. 
+
+Please note that we have the ability to retain any data that you provide on this website, even if you do not complete your quote by clicking submit/next. Such contact details and data may be used to contact you to enquire why you did not complete your quote. If you have any questions about this, please [contact us](https://web.archive.org/contact/). 
 
 If you have provided your contact information to us and would prefer not to receive marketing information, or to participate in research, simply [contact us](https://web.archive.org/contact/) to let us know. 
 
