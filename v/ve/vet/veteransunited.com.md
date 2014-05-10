@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veteransunited.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109133506id_/http%3A//www.veteransunited.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veteransunited.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510084642id_/http%3A//www.veteransunited.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Veterans United Home Loans
 
@@ -8,9 +8,9 @@
 
 ## We Respect Your Privacy
 
-Below, you will find details about our privacy policies. You have the opportunity to choose how your information may be shared. Your privacy matters to us, and we recognize the importance of keeping your information secure.
+Your privacy matters to us and we recognize the importance of keeping your information secure. Below, you will find details about our privacy policies and how you can choose how your information is shared.
 
-We believe that customer privacy is an integral part of the customer service. Our privacy policy applies to current and former customers. We encourage you to review our privacy policy to better understand how your information will be used to provide you with the best possible service.
+Our privacy policy applies to all consumers, and we encourage you to review this policy to better understand how information we collect will be used to provide you with exceptional service.
 
   1. ### Our Secure System Protects You
 
@@ -18,81 +18,93 @@ We believe that customer privacy is an integral part of the customer service. Ou
 
 [](https://www.mcafeesecure.com/RatingVerify?ref=72.32.169.189)
 
-  2. ### We Use Information Provided to Help You
+  2. ### We Use Information You Provide to Help You with the Loan Process
 
-    1. The customer information we collect is used to meet your financial needs. This information may be used to process your loan request and inform you of financial services that may be of interest to you. We may use this information to contact you through e-mail, direct mail, or telephone. This information may also be used to provide you with a high level of customer support and to better improve our website.
+    1. We collect two types of information through this site: Non-Personal and Personal.
 
-    2. We may share your information with our affiliated third parties in order to provide you with the assistance you requested with your mortgage. Veterans United Home Loans does everything in its power to ensure that your personal data is protected, even if it is shared with our third party affiliates.
+      * We collect Non-Personal information which includes, but is not limited to: your IP address, referral data, and the web pages you view while visiting our network of sites.
 
-    3. Veterans United Home Loans reserves the right to share contact and/or personal information with trusted third-party affiliates at any time. These affiliates can include, but are not limited to: Veterans United Realty, Military United Realty, LLC, and Liberty Creek Title, LLC. This information is disclosed via electronic post or email and is shared only with qualified employees.
+        * We use this information to better accommodate and serve all visitors to our site.
 
-    4. Veterans United Home Loans collects anonymous information which includes, but is not limited to: your IP address, referral data, and which web pages you visit while at our site. This information is used to better accommodate and serve our visitors. This information is kept confidential and not disclosed to third-party affiliates. We constantly review and improve our site based on the information that our visitors provide. Veterans United Home Loans uses "cookies" throughout our site to improve your experience and to help us understand our visitors' needs. A cookie is a small text file that contains your anonymous information. This information is transferred from a web site to your computer's hard drive so that the web site administrator can identify your computer and passively track your web browser's activities while on our web site.
+        * We keep this information confidential and will not disclose it to any third-party affiliates. We constantly review and improve our site based on the information provided by our visitors.
 
-A cookie will not allow a web site to learn any personally identifiable information, such as your real name and address, which you would not have otherwise disclosed. We use this information to help us identify and correct errors on our site and to determine a page's popularity so we can add more information to it, and also to assist us in providing you the best resource for VA loans on the web.
+        * We utilize "cookies" throughout our site to improve your experience and to help us understand our visitors' needs. A "cookie" is a small text file that contains your anonymous information and is transferred onto your computer where it is stored, and then allows the website administrator to identify your computer and learn about how you use our web site. A "cookie" will not allow a web site to learn any personally identifiable information, like your name or address, that you otherwise would have disclosed. We use cookie information to identify and correct errors on our site and to determine the popularity of pages and to provide you with an excellent resource for VA loans on the internet.
 
-    5. We collect site usage information via Google Analytics and Google's DoubleClick cookie to serve ads based on a user's prior visits to our website. You may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](http://www.google.com/privacy/ads/) or you may opt out of Google Analytics by visiting the [Google Analytics Opt-out page](http://tools.google.com/dlpage/gaoptout).
+        * We collect other site usage information via Google Analytics and Google's DoubleClick cookie to serve ads over time based on a user's prior visits to our website. You may opt out of the DoubleClick cookie by visiting the Google advertising opt out page or you may opt out of Google Analytics by visiting the Google Analytics Opt-out page.
 
-  3. ### How We Use Your Submitted Information
+        * Our tracking system will not track your activities on the site if your browser is set to "incognito", "private" "do not track" or similar setting. Learn more about private browsing or how to update your browser settings to a "private" mode [here](http://browsers.about.com/od/faq/tp/Private-Browsing.htm).
 
-    1. As a result of submitting your telephone number and your lead request, you may receive a telephone call from a VA approved lender. This lender may contact you directly by phone and/or e-mail as a result of your request, even if you are on a Do Not Call List. In most cases, you will be contacted by Mortgage Research Center, LLC (MRC). In the event the MRC staff is unable to contact you, your information may be forwarded to another VA approved lender. Under our Do Not Call Policy you may instruct us not to call you by calling us at 800-814-1103.
+      * We also collect some Personal Information including your name, address, phone number, and email address that you submit to us when you inquire about the loans we provide 
 
-    2. You may choose what information you provide to us. There is certain information that you may choose not to disclose to us, but this may affect your ability to use certain features of our website completely. We encourage our customers to disclose all pertinent information so we can provide a high level of customer service and offer the right products to our customers.
+        * The personal information we collect is used to meet your financial needs, and may be used to process your loan request and inform you of other financial services that may interest you.
 
-    3. Federal and state laws require us to hold completed loan qualification forms for various amounts of time. In order to abide by these laws, we may be unable to delete certain information from our database once the information has been entered. 
+        * When you submit personal information to us, we may use it to contact you through e-mail, direct mail, or by telephone. We also use the information to provide you exception customer support and to improve your website experience.
 
-    4. Veterans United Home Loans may periodically send you complimentary materials including newsletters, commercial offers, or other information if you choose to provide us with your email address. By providing us with your email address or filling out a submission form that includes your email address, you have opted to receive these complimentary materials from Veterans United Home Loans and our trusted partners. If you no longer wish to receive these materials, please send an email to [customer_service@veteransunited.com](mailto:customer_service@veteransunited.com).
+        * We may share your personal information with our affiliated third parties in order to provide you with the assistance you requested for the mortgage loan process. We aim to ensure that your personal data is protected, even if we share it with our third-party affiliates. We reserve the right to share your personal information with our trusted third-party affiliates at any time, including, but not limited to: Veterans United Realty and Military United Insurance, LLC. This information is shared via electronic post through a secure system and only shared with qualified employees.
 
-    5. Children under the age of 13 are not allowed to access this site or use our services.
+        * If you submit personal information, we may combine it with information available from other publicly available sources collected online. We may use this information to personalize our services and the marketing communications we send to you both online and offline.
 
-  4. ### How We Share Your Information
+  3. How We Use Your Submitted Information 
 
-    1. We share information with lenders and real estate professionals. After they receive your information, they may contact you directly via phone or email. You may be contacted by one of our affiliates, including but not limited to our partner company Military United Reality. All of our affiliates follow under federal and/or state laws and regulations. Our lenders and real estate professionals may keep and use your information whether or not you qualify for a transaction with them.
+    1. As a result of submitting your telephone number and your request to receive more information on a loan, you will receive a call from a VA loan specialist. We may contact you directly by phone and/or email as a result of your request, even if the number you supplied is on the National Do Not Call registry. If, however, after you have submitted your information to us and you no longer wish that we contact you at the phone numbers provided, you may instruct us to place you on our internal "do not call" list by calling us a 800-814-1103. 
 
-    2. We may have to disclose personal information to law enforcement or government agencies as a result of: a subpoena, a court order, a need to exercise our legal rights, a need to protect our company or employees from threats or fraud, a need to protect us from legal claims, or as otherwise required by law. We may raise or waive any legal rights available to us. This information may also be disclosed in the event of a merger, the sale of the company, an asset sale, or the unlikely event of bankruptcy.
+    2. You may choose what information to provide us. You may choose to withhold certain information, but this may affect your ability to use certain features of our website. We encourage consumers to disclose all pertinent information so we can provide a high level of customer service and offer the best products for you. 
 
-  5. ### Opt-Out Provision
+    3. Federal and state laws require us to maintain certain loan qualification forms for set periods of time. In order to comply, we may be unable to delete certain information from our systems once you supply it to us. We make significant efforts to protect this information. 
 
-    1. Once you have submitted your information to Veterans United Home Loans through our website, it may not be retracted. You will be contacted as a result of submitting a request on our site.
+    4. Veterans United Home Loans may periodically send you complimentary materials including newsletters, commercial offers, instruction videos or other information if you choose to provide us and email address. By providing your email address or submitting a request for more information that includes your email address, you have opted to receive these materials from us. If you desire to stop receiving these materials, please email [customer_service@veteransunited.com](mailto:customer_service@veteransunited.com) with the specific request. 
 
-    2. In accordance with Title V of the Gramm-Leach-Bliley Act, you may "opt out" from the dissemination of any of your non-public personal information collected by Veterans United Home Loans. You will receive notice of this Policy upon initiation of a customer relationship with us. Additionally, if the Policy is amended, current customers will receive timely notice of the changes to the Policy.
+    5. This site is intended for individuals age 18 and older. Children under the age of 13 should not use this site, and are expressly prohibited from using our services. 
 
-    3. If you maintain a customer relationship with Veterans United Home Loans for a period longer than one year, you will also receive annual notices of your opportunity to "opt-out" in addition to your initial notice (included herein and at the beginning of our customer relationship with you).
+  4. How We Share your Information 
 
-    4. Unless a customer opts out, we may disclose any of the personal information that we collect from our customers or former customers to non-affiliated third party entities as permitted by federal and state law. If the Policy is amended, customers will have an additional opportunity to opt-out upon receipt of the amended Policy.
+    1. We share information with lenders and real estate professionals. After they receive your information, they may contact you directly via phone or email. You may be contacted by one of our affiliates, including but not limited to our affiliated business, Veterans United Reality. All of our affiliates follow federal and/or state laws and regulations. Our lenders and real estate professionals may keep and use your information whether or not you qualify for a transaction with them. 
 
-    5. We comply with all relevant state and federal laws regarding the safeguarding of your personal information. Maintaining the security of your information is a top priority at Veterans United Home Loans, so please contact us with any questions or concerns that you have regarding this Policy.
+    2. We may be required to disclose certain personal information resulting from a properly served request from a federal or state law enforcement or other governmental agency as a result of a subpoena, court order, in order to exercise our legal rights, to protect our company or employees from threats or fraud, to protect us from legal claims, or as otherwise required by law. We may raise or waive any legal rights available to us. This information may also be disclosed in the event of a merger or sale of the company, an asset sale, or the unlikely event of bankruptcy. 
 
-**We do not disclose any non-public personal information about you to anyone for any purpose that is not specifically permitted by law.**
+  5. Opt-Out Provisions 
 
-    6. We restrict all access to your stored non-public personal information to employees who need to know this information in order to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal regulations in order to guard your nonpublic personal information against unauthorized access.
+    1. Once you submit your information to Veterans United Home Loans it may not be retracted. You will be contacted by a representative after you submit a request through our site or an affiliate site. 
 
-    7. To opt out, you should contact a Veterans United Home Loans customer service representative by calling 800-814-1103 or by mailing a written request to our mailing address listed below. Please include in your request an indication of which information (either specific or all-inclusive) that you do not wish to be shared with any non-affiliated third party entities.
+    2. Pursuant to Title V of the Gramm-Leach-Bliley Act, you may "opt out" from dissemination of nay of your non-public personal information collected by Veterans United Home Loans. You will receive notice of this policy upon initiation of a customer relationship with us. Additionally, if the policy is amended, we will notify all current customers of the changes. 
+
+    3. If you maintain a customer relationship with Veterans United Home Loans or its affiliates for a period longer than a year, you will also receive annual notice of your right to "opt out" in additional to the initial notice. 
+
+    4. Unless a consumer opts out, we may disclose any of the personal information that we collect from our customer or former customer to non-affiliated third party entities as permitted by federal and state law. If this policy is amended, customers will have an additional opportunity to opt out at the time the new policy is received. 
+
+    5. We comply with all relevant state and federal laws regarding the safeguarding of your personal information. Maintain the security of your information is a top priority at Veterans United Home Loans, so please contact us with any questions or concerns that you have regarding this policy. 
+
+**WE DO NOT DISCLOSE ANY NON-PUBLIC PERSONALLY IDENTIFIABLE INFORMATION ABOUT YOU TO ANYONE FOR ANY PURPOSE THAT IS NOT SPECIFICALLY PERMITTED BY LAW**
+
+    6. We restrict access to your stored non-public personal identifiable information to those employees that need to know this information in order to provide our services to you. We maintain physical, electronic, and procedural safeguards that comply with federal regulations in order to guard your information against unauthorized access. 
+
+    7. To opt out, you should contact a Veterans United Home Loans customer service representative by calling 800-814-1103 or by mailing a written request to our mailing address listed below. Please include in your request an indication of which information (either specific or all-inclusive) that you do not wish to be shared with any non-affiliated third party entities. 
 
 **Please write to us at:**  
 Customer Service  
 Veterans United Home Loans  
 1400 Veterans United Drive  
-Columbia, MO 65203
+Columbia, MO 65203 
 
-  6. ### General Policy Provisions
+  6. General Policy Provisions 
 
-    1. The policies and practices described in this disclosure are subject to change, but we will communicate any significant changes to you as required by applicable law. We encourage you to periodically review our posted Privacy Policy to check for any changes.
+    1. The policies and practices described in this disclosure are subject to change, but we will communicate any such changes to you as required by law. We encourage you to periodically review our privacy policy for any changes. 
 
-    2. You may receive copies of this privacy policy as well as the terms and conditions by sending an email detailing your request to [customer_service@veteransunited.com](mailto:customer_service@veteransunited.com) or by sending a written request to:
+    2. You may receive copies of this privacy policy as well as the terms and conditions by sending an email detailing your request to [customer_service@veteransunited.com](mailto:customer_service@veteransunited.com) or by sending a written request to: 
 
 Customer Service  
 Veterans United Home Loans  
 1400 Veterans United Drive  
-Columbia, MO 65203
+Columbia, MO 65203 
 
-    3. We reserve the right to change this Policy at any time without further notification. Please check our website periodically for the most recent version of our Privacy Policy.
+    3. We reserve the right to change this Policy at any time without further notification. Please check our website periodically for the most recent version of our Privacy Policy. 
+
+
+
 
 Call 800-814-1103 to speak with a VA specialist.
 
-**Veterans United Home Loans (Last Updated: July 6, 2012)**
-
-
-
+**Veterans United Home Loans (Last Updated: December 30, 2013)**
 
 Questions?
 
