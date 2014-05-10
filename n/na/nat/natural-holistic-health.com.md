@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natural-holistic-health.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227222243id_/http%3A//www.natural-holistic-health.com/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natural-holistic-health.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511014221id_/http%3A//www.natural-holistic-health.com/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
