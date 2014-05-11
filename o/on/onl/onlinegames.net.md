@@ -1,17 +1,41 @@
-> *The following text is extracted and transformed from the onlinegames.net privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630143222id_/http%3A//www.onlinegames.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinegames.net privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511202531id_/http%3A//www.onlinegames.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | OnlineGames.net
+# Privacy Policy - OnlineGames.Net
 
-[OnlineGames.Net](http://www.onlinegames.net/) respects the privacy of our users. This privacy document highlights what information is collected about users and how it is used.
+This privacy notice discloses the privacy practices for **[OnlineGames.Net](http://www.onlinegames.net/)**. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
-This site collects website usage data via log files along with website statistics programs that help us to understand how visitors are using the site so that we’re able to make it better. Here are some examples of the type of information which may be found in Log Files and Analytics Programs : IP addresses, Demographic Details, Internet browser Type, Referring Sources, Exit Pages, ISPs and a lot more like Pages Visited, Click Trends, Pages per Visit and also Time Spent on the website.
+  * What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
+  * What choices are available to you regarding the use of your data.
+  * The security procedures in place to protect the misuse of your information.
+  * How you can correct any inaccuracies in the information.
 
-There are Advertising as well as Usage Monitoring Cookies used in the website which capture and keep details about visitors to provide an enhanced experience and more custom content for them. Cookies may be rejected by modifying the settings on users’ internet browsers.
 
-To offer advertising, this website uses Google’s Adsense, a 3rd party vendor that uses ad cookies in order to serve and track advertisements. The use of the DART cookie makes it possible for more focused ads to be served to users on this website. You can opt out of this cookie and find out more information about it at http://www.google.com/privacy/ads/
 
-We’re not able to control the privacy policies connected with third party vendors and external websites linked to from our website, so please read their privacy documents separately.
+**_Information Collection, Use, and Sharing_**
 
-All information collected is stored safely however we cannot guarantee that all of the data is 100% protected from unintentional use since no data security system can be totally secure.
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
-By accessing this site, you are accepting the terms explained in this [privacy](http://www.onlinegames.net/privacy/) document. You should leave the site if you don’t agree with anything mentioned in here. We reserve the right to improve any part of this notice at any time, so be sure you come and read this again every so often. Feel free to [contact us](http://www.onlinegames.net/contact/) if you have any questions.
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
+
+Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
+
+**_Your Access to and Control Over Information_**
+
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
+
+  * See what data we have about you, if any.
+  * Change/correct any data we have about you.
+  * Have us delete any data we have about you.
+  * Express any concern you have about our use of your data.
+
+
+
+**_Security_**
+
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
+
+Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for “https” at the beginning of the address of the web page.
+
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
+
+Please **[contact us](http://www.onlinegames.net/contact/)** for any further information about this privacy policy.
