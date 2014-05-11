@@ -1,52 +1,38 @@
-> *The following text is extracted and transformed from the kidscamps.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029171007id_/http%3A//www.kidscamps.com/privacy.camp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidscamps.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511073950id_/http%3A//www.internetbrands.com/privacy/privacy-highlights.html%3Fsite%3Dwww.kidscamps.com) for the most accurate reproduction.*
 
-# Privacy Statement @ KidsCamps.com
+# Privacy Policy
 
-## Privacy Statement for KidsCamps.com®
+## Privacy Policy Highlights
 
-KidsCamps.com® is firmly committed to privacy. The following discloses our information gathering and dissemination practices for this Website: [KidsCamps.com](http://www.kidscamps.com/)®.
+Internet Brands, Inc. and its subsidiaries and corporate affiliates operate websites, provide products and services through mobile and other applications, and develop software. We govern these with a single privacy policy. This notice provides highlights of our full [Privacy Policy](https://web.archive.org/web/20140511073950id_/http%3A//www.internetbrands.com/privacy/privacy-main.html). It briefly describes the collection and use of information when you use or interact with our branded websites, services, and software, operating under different branded names.
 
-This site contains third party links. [KidsCamps.com](http://www.kidscamps.com/)® is not responsible for the privacy practices or the content of such Websites.
+  * ### Personal Information
 
-Our online survey asks visitors for contact information (such as their email address) and demographic location (such as zip code, age, or income level). Demographic and profile data is also collected at our site. We use this data to tailor our visitors' experience at our site, tailoring our content to match their interests. Email addresses obtained through the online survey are used for prize notification. We do share your name and email address with programs when you voluntarily request further information from the program. By submitting this information you are opting in to receive communication back from the program you have contacted and from [KidsCamps.com®](http://www.kidscamps.com/) about camp related products and services.
+We collect personal information for various business purposes when you interact with us, such as providing you with a subscription, processing your order, responding to requests for service or assistance, creating and improving our products and services, suggesting additional or different products or services, and protecting our rights and property. We collect information about you in two basic ways: First, we receive information directly from you. Second, through use of cookies and other technologies, we keep track of your interactions.
 
-## Public Forums
+  * ### Your Choices
 
-This site has message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+    * You can stop receiving promotional emails from us by following the instructions in the email you receive.
+    * You may cancel your registration or deactivate your account, or update your preferences at any time.
+    * You can manage cookies using your browser controls.
+    * You can opt out of the use of certain cookies.
+    * Individual products or services may offer additional controls or preferences.
+  * ### Uses of Information
 
-## Security
+Your information is used to fulfill your requests and communicate with you, operate, support and improve our sites, products and services, conduct internal research, and personalize the content, products, services and advertisements offered to you.
 
-KidsCamps.com® has security measures in place to protect the loss, misuse and alteration of the information under our control using Secure Socket Layer (SSL) technology. This technology allows us to use the industry standard encryption tools necessary to protect information transmitted between your computer and our server.
+  * ### Information Sharing
 
-## Choice/Opt-Out
+We do not sell, rent or provide your personal information to third parties that are unaffiliated with Internet Brands. Your personal information is shared with third parties with your consent, except in circumstances where the law requires it to be shared.
 
-Our Website provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
+  * ### How to Contact Us
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
+    * Use our Privacy [Contact form](https://web.archive.org/web/20140511073950id_/http%3A//www.internetbrands.com/privacy/privacy-contact-form.php), or write to us at the address below.
+  
 
-  1. You can send e-mail to [info@kidscamps.com](mailto:info@kidscamps.com)
-  2. You can visit [www.kidscamps.com](http://kidscamps.com/)® and use the Contact Us form.
-  3. You can send mail to the following postal address:  
-909 N. Sepulveda Blvd, 11th Floor, El Segundo, CA 90245
-  4. You can call the following telephone number: 877-242-9330
-
-
-
-## Correct/Update
-
-This site gives users the following options for changing and modifying information previously provided.
-
-  1. E-mail [info@kidscamps.com](mailto:info@kidscamps.com)
-  2. Visit [www.kidscamps.com](http://kidscamps.com/)® and fill out the online update form.
-  3. Send mail to the following postal address:  
-909 N. Sepulveda Blvd, 11th Floor, El Segundo, CA 90245
-  4. Call the following telephone number: 877-242-9330
+    * Privacy Office
+    * Internet Brands, Inc.
+    * 909 N. Sepulveda Blvd., 11th Floor
+    * El Segundo, CA 90245 U.S.A.
 
 
-
-## Contacting the Website
-
-If you have any questions about this privacy statement, the practices of the Website, or your dealings with this Website, you can contact:  
-Webmaster  
-[KidsCamps.com](http://www.kidscamps.com/)®  
-[info@kidscamps.com](mailto:info@kidscamps.com)
