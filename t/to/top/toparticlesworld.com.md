@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toparticlesworld.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207095917id_/http%3A//www.articlehawk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toparticlesworld.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511124747id_/http%3A//www.articlehawk.com/privacy-policy) for the most accurate reproduction.*
 
 # ArticleHawk: Searching The Internet For Content » Privacy Policy
 
@@ -33,3 +33,5 @@ TopArticlesWorld.com does not knowingly collect or solicit Personally Identifiab
 **Changes to this Policy**
 
 TopArticlesWorld.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+
+Rating: 0.0/ **10** (0 votes cast)
