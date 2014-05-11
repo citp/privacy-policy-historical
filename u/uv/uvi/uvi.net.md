@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uvi.net privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128020541id_/http%3A//www.uvi.net/en/content/6-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uvi.net privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511103939id_/http%3A//www.uvi.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - UVI
 
@@ -84,7 +84,7 @@ Google will use this information for the purpose of evaluating your use of the w
 
 If you do not want your activity on this website to be tracked, opt out using this link: <https://support.google.com/ads/answer/2662922?hl=en>
 
-7.b Google's program for "interest-based advertising"
+7.b Google's Program for "Interest-Based Advertising"
 
 Within the scope of its marketing operations UVI uses Google’s program for “interest-based advertising”, so-called remarketing. In the process of this program a special browser cookie is stored on the user’s computer. It is used for serving the user special ads by UVI, Google or third-party services when visiting other websites. 
 
