@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumpbox.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030234043id_/http%3A//jumpbox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumpbox.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511030727id_/http%3A//jumpbox.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy : VM : Cloud Computing : JumpBox.com | JumpBox Virtual Appliances and Applications for Cloud Computing
 
@@ -79,7 +79,7 @@ We may occasionally update this Privacy Policy. When we do, we will also revise 
 Contacting JumpBox**
 
 If you have any questions, comments, or concerns about this Privacy Policy, please email us at support -at- jumpbox -dot- com.  
-Postal Mail Address: PO Box 15265 Phoenix, AZ 85060
+Postal Mail Address: 275 N. Gateway Dr., Ste 131, Phoenix, AZ 85034
 
 If you have a privacy concern regarding the JumpBox Service or this Policy and if you cannot satisfactorily resolve it through the use of the JumpBox Service you should write to support -at- jumpbox -dot- com. You may also leave a comment on the relevant [FAQ](https://web.archive.org/faq). In the event that we are still unable to resolve your concerns JumpBox is committed to cooperating to achieve a proper resolution of your privacy concerns.  
 Effective Date: 4/19/07
