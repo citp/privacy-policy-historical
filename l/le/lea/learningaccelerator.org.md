@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learningaccelerator.org privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224014353id_/http%3A//learningaccelerator.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningaccelerator.org privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511080302id_/http%3A//learningaccelerator.org/privacy-policy) for the most accurate reproduction.*
 
 # The Learning Accelerator Privacy Policy
 
@@ -22,18 +22,20 @@
     * [Our Team Values](https://web.archive.org/our-approach/our-team-values)
   * [Our Work](https://web.archive.org/our-work)
     * [Cultivating Solutions](https://web.archive.org/our-work/cultivating-solutions)
-      * [Broadband](https://web.archive.org/our-work/cultivating-solutions/broadband)
-      * [Pooled Purchasing](https://web.archive.org/our-work/cultivating-solutions/pooled-purchasing)
+      * [Infrastructure](https://web.archive.org/our-work/cultivating-solutions/infrastructure)
+      * [EdTech Devices](https://web.archive.org/our-work/cultivating-solutions/edtech-devices)
       * [Human Capital](https://web.archive.org/our-work/cultivating-solutions/human-capital)
       * [School District Financing](https://web.archive.org/our-work/school-district-financing)
     * [Working With States](https://web.archive.org/our-work/working-with-states)
     * [Working with Districts](https://web.archive.org/our-work/working-with-districts)
+    * [Our Investments](https://web.archive.org/our-work/our-investments)
   * [Resources](https://web.archive.org/resources)
   * [About Us](https://web.archive.org/about-us)
     * [Board of Directors](https://web.archive.org/about-us/board-of-directors)
     * [Staff](https://web.archive.org/about-us/staff)
     * [Join Us](https://web.archive.org/about-us/join-us)
     * [News](https://web.archive.org/about-us/news)
+    * [Quarterly Updates](https://web.archive.org/about-us/quarterly-updates)
 
 
 
