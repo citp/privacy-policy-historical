@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innohosting.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929011826id_/http%3A//www.innohosting.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innohosting.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511032936id_/http%3A//www.innohosting.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ It is important you are aware of the InnoHosting policies _before_ you purchase 
 
 What Our Customers Say:
 
-I know you say you look forward to us small fry one day being competitors but with the support and goodness-to-honest service that you guys provide (and are given so much respect for) I wish you all the best and the growth that you truly deserve.
+From all of the research I did before moving, through the whole signing up process to my first experiences, it is very gratifying that I find Inno's excellent reputation in the industry and my confidence in that to have been well founded in practice.
 
 All Hosting Plans Include:
 
