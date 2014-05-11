@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screencraft.org privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205180625id_/http%3A//www.screencraft.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screencraft.org privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511230645id_/http%3A//www.screencraft.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ScreenCraft
 
@@ -48,3 +48,5 @@ http://www.ScreenCraft.org
 
 855-503-5500  
 Los Angeles, CA 90066
+
+### Share and Enjoy
