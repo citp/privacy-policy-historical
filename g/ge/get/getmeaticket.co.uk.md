@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getmeaticket.co.uk privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117002702id_/http%3A//www.getmeaticket.co.uk/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmeaticket.co.uk privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511160350id_/http%3A//www.getmeaticket.co.uk/page/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Get Me A Ticket
+# Privacy Policy | Free Competitions Online | Get Me A Ticket
 
 **Privacy Policy**
 
@@ -115,7 +115,7 @@ We may change the terms of this Privacy Policy from time to time. Any changes wi
 If you have any questions relating to the use of your personal data please do not hesitate to contact us using one of the methods below:
 
 By post: 7-9 North Parade Building, Bath, BA1 1NS  
-By email:support@getmeaticket.co.uk  
+By email:[support@getmeaticket.co.uk](mailto:support@getmeaticket.co.uk)  
 Via this website:<http://www.getmeaticket.co.uk/contact>
 
 Information you enter into our registration forms may be collected and stored briefly by us so that we may contact you if you don't confirm the registration. This may be used to send operational emails to enquire as to why the registration was not completed. We will not use this data for any other purpose, we won't store it for longer than necessary and we certainly won't share it with any other company. Our aim is simply to provide you with the highest level of service that we can.
