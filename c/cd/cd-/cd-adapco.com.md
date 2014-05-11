@@ -1,64 +1,109 @@
-> *The following text is extracted and transformed from the cd-adapco.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213131734id_/http%3A//www.cd-adapco.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cd-adapco.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511072517id_/http%3A//www.cd-adapco.com/cd-adapco-privacy-policy-highlights) for the most accurate reproduction.*
 
-# CD-adapco - Privacy
+# CD-adapco Privacy Policy Highlights | CD-adapco
 
-This privacy policy sets out how Computational Dynamics Limited uses and protects any information that you give Computational Dynamics Limited when you use this website.
+**CD-adapco Privacy Policy Highlights**
 
-Computational Dynamics Limited is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+CD-adapco values its relationship with you and respects your right to privacy and security of your personal information. These Privacy Policy Highlights summarize our principles and standards on handling information collected from you, in particular any information that can be linked to you and identify you as an individual. This policy does not apply to company proprietary or confidential data, which should be subject to separate Non-Disclosure Agreements. 
 
-Computational Dynamics Limited may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st February 2011.
+**These Highlights are intended for your convenience**. To find out more about our privacy practices please see our full [Privacy Policy.](http://www.cd-adapco.com/privacy-policy) In the event of any conflict between the full Privacy Policy and these Highlights, the full CD-adapco Privacy Policy will govern. 
 
-**What we collect**
+**What Information We Collect about You**
 
-We may collect the following information:
+  * Personal information such as your name, address, phone number, e-mail, billing address and credit card number, your company affiliation etc. when you interact with us for sales, services, support, and payment; 
 
-  * name and job title
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+  * Your username and password to allow access to our products and services; 
 
+  * Various administrative and business information about your company; 
 
+  * Information about the pages you view and other actions you take on our sites;
 
-**What we do with the information we gather**
-
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
-
-  * Internal record keeping
-  * We may use the information to improve our products and services
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests
+  * User feedback, community discussions, chats and other interactions on our sites.
 
 
 
-**Security**
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+**How We Collect Information**
 
-**How we use cookies**
+  * All information including your personal information may be obtained from you via oral, written or electronic communication, for example when you request our products, services or technical support or contact us with any questions or comments; 
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+  * Via our website forms when you register for certain CD-adapco services;
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
-
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
-
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-
-**Links to other websites**
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-**Controlling your personal information**
-
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [info@cd-adapco.com](mailto:info@cd-adapco.com)
+  * We keep track of your interactions with our sites and services through the use of cookies and other web technologies.
 
 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to us.
+**Storage, Use and Sharing of Information**
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+  * We process your personal information on our servers, and/or through the servers of our subsidiaries and partners around the world;
+
+  * We collect and use your personal information for a variety of reasons, such as providing you the requested products, services and customer support, responding to your inquiries, providing you with a newsletter subscription, personalizing your experience with our website or for general communication purposes;
+
+  * To the extent necessary, we may share your information with our agents who assist us with providing certain services to you, such as but not limited to, payment processing and fraud prevention, or in connection with this website usage;
+
+  * We protect your personal information from unauthorized use or disclosure through reasonable physical, technical and administrative measures.
+
+
+
+
+**Cookies and Other Automated Data Collection Tools**
+
+  * We use automated data collection tools such as persistent cookies and session cookies and other web technologies to collect information about your use of this website. Such collected information is typically not personally identifiable. We may combine this information with data obtained from other sources to improve its completeness and to help us better tailor our interactions with you. 
+
+
+
+
+**Your Choice of Data Use**
+
+You have a right to make choices about the ways we collect, use and disclose information about you:
+
+  * We will use your personal information only for the purpose for which it was collected and will not use it for a different purpose without your prior consent;
+
+  * We will ask your permission before sharing your personal information with third parties for any purpose other than originally intended or as required by applicable laws;
+
+  * You may indicate your choice as to whether you would like to receive further communications from us and/or our affiliates, at the time and on the page where you provide your personal information;
+
+  * You have the right to withdraw your consent at any time. If you decide you no longer want to receive promotional messages from us you may contact us at [info@cd-adapco.com](mailto:info@cd-adapco.com)
+
+  * You can delete or reject cookies and other automated data collection tools that we use at any time by changing the privacy settings in your web browser. 
+
+
+
+
+**Accessing or Correcting Your Personal Information**
+
+  * To review and update your personal information please contact your Account Manager or email your request to [info@cd-adapco.com](mailto:info@cd-adapco.com)
+
+
+
+
+**Important Information**
+
+  * CD-adapco adheres to the U.S. - EU and U.S.-Swiss Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of the participation in the Safe Harbor, we have agreed to European Data Protection Authorities (DPAs) and the Federal Data Protection and Information Commissioner (FDPIC) arbitration for disputes relating to our compliance with the Safe Harbor Privacy Framework. 
+    * **Local Data Processing Registration Numbers:**
+      * Austria - DRV 4011830
+
+
+
+**  
+How to Contact Us**
+
+  * If you have any questions, comments, or concerns regarding our Customer Privacy Policy or our privacy practices please contact Leslie Browne, Manager Worldwide Human Resources as follows:
+
+
+
+
+_By mail:_ CD-adapco
+
+Analysis & Design Application Co., Ltd.
+
+60 Broadhollow Rd
+
+Melville, NY 11747
+
+USA
+
+Attention: Leslie Browne, Manager Worldwide Human Resources
+
+_Or by email_ : [legal@cd-adapco.com](mailto:arlene.soucy@cd-adapco.com)
