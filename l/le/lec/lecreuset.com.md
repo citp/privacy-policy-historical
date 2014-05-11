@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lecreuset.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214092507id_/http%3A//cookware.lecreuset.com/cookware/privacy_10151_-1_20002) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lecreuset.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511192920id_/http%3A//lecreuset.com/privacy) for the most accurate reproduction.*
 
-# Le Creuset - Privacy Policy
+# Privacy Policy | Le Creuset
 
 ### SECURITY AND PRIVACY
 
