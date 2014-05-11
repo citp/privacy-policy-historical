@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sakura-house.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027211354id_/http%3A//www.sakura-house.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sakura-house.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511031411id_/http%3A//sakura-house.com/en/privacy) for the most accurate reproduction.*
 
 # SAKURA HOUSE - Privacy policy
 
