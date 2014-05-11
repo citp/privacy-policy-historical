@@ -1,14 +1,20 @@
-> *The following text is extracted and transformed from the snupit.co.za privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109055421id_/http%3A//www.snupit.co.za/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snupit.co.za privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511101036id_/http%3A//www.snupit.co.za/privacy-policy.aspx) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 ## 1\. Status and Amendments
 
-  1. 1.1This Privacy Policy forms part of the Terms and Conditions of Use of this website. If you do not agree with this Policy then you may not use this website. 
+  1. 1.1
 
-  2. 1.2Snupit.co.za is committed to protecting the privacy of personal information you might provide. This policy explains how we manage your information. 
+This Privacy Policy forms part of the Terms and Conditions of Use of this website. If you do not agree with this Policy then you may not use this website. 
 
-  3. 1.3Snupit.co.za may at its sole discretion, amend this policy from time to time at which time the amended policy will immediately come into effect in respect of continued usage of this website 
+  2. 1.2
+
+Snupit.co.za is committed to protecting the privacy of personal information you might provide. This policy explains how we manage your information. 
+
+  3. 1.3
+
+Snupit.co.za may at its sole discretion, amend this policy from time to time at which time the amended policy will immediately come into effect in respect of continued usage of this website 
 
 
 
@@ -17,13 +23,21 @@
 
 You acknowledge and agree that we may collect information about you. This may be: 
 
-  1. 1.provided voluntarily by you; 
+  1. 1.
 
-  2. 2.obtained or derived from website usage information (whether through tracking your click behaviour or otherwise); 
+provided voluntarily by you; 
 
-  3. 3.obtained or derived from aggregated data not relating to you personally, such as the measuring of traffic to Snupit.co.za website; and/or 
+  2. 2.
 
-  4. 4.provided by third parties. 
+obtained or derived from website usage information (whether through tracking your click behaviour or otherwise); 
+
+  3. 3.
+
+obtained or derived from aggregated data not relating to you personally, such as the measuring of traffic to Snupit.co.za website; and/or 
+
+  4. 4.
+
+provided by third parties. 
 
 
 
@@ -34,23 +48,41 @@ You may decide whether to provide any information we seek from you. However, if 
 
 We collect and use your information to 
 
-  1. 1.generally manage our business; 
+  1. 1.
 
-  2. 2.provide you with, and improve, our products and services; 
+generally manage our business; 
 
-  3. 3.inform you of our products and services, including any changes or improvements thereof; 
+  2. 2.
 
-  4. 4.administer our contests, promotions, surveys and other services; 
+provide you with, and improve, our products and services; 
 
-  5. 5.obtain your feedback or views about our products and services; 
+  3. 3.
 
-  6. 6.respond to any queries, feedback or other correspondence from you; 
+inform you of our products and services, including any changes or improvements thereof; 
 
-  7. 7.gain an understanding of your needs; 
+  4. 4.
 
-  8. 8.prevent and detect any misuse of, or fraudulent activities involving, any Snupit.co.za website, product or service; and/or 
+administer our contests, promotions, surveys and other services; 
 
-  9. 9.maintain and develop our business systems and infrastructure, including testing and upgrading of these systems. 
+  5. 5.
+
+obtain your feedback or views about our products and services; 
+
+  6. 6.
+
+respond to any queries, feedback or other correspondence from you; 
+
+  7. 7.
+
+gain an understanding of your needs; 
+
+  8. 8.
+
+prevent and detect any misuse of, or fraudulent activities involving, any Snupit.co.za website, product or service; and/or 
+
+  9. 9.
+
+maintain and develop our business systems and infrastructure, including testing and upgrading of these systems. 
 
 
 
@@ -63,20 +95,30 @@ To assist us in providing the best possible results on our websites, we may gath
 
 The information collected by cookies is on an entirely confidential basis, and includes details such as: 
 
-  1. a)how many computers connect to the website; 
+  1. a)
 
-  2. b)which pages are viewed; and/or 
+how many computers connect to the website; 
 
-  3. c)which internet browsers people use when visiting. 
+  2. b)
+
+which pages are viewed; and/or 
+
+  3. c)
+
+which internet browsers people use when visiting. 
 
 
 
 
 The information collected by cookies will: 
 
-  1. a)display content more relevant to you; and/or 
+  1. a)
 
-  2. b)enable you to use more advanced features on our websites. 
+display content more relevant to you; and/or 
+
+  2. b)
+
+enable you to use more advanced features on our websites. 
 
 
 
