@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the winterparkresort.com privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916004944id_/http%3A//www.intrawest.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winterparkresort.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511125709id_/http%3A//www.intrawest.com/privacy) for the most accurate reproduction.*
 
 # Intrawest - Privacy Policy
 
-## INTRAWEST PRIVACY POLICY
+###  PRIVACY POLICY
 
-[Version française](https://web.archive.org/politique/index.htm)
+  
 
-**INTRAWEST'S TEN PRIVACY PRINCIPLES**
+
+## INTRAWEST'S TEN PRIVACY PRINCIPLES
 
   1. Principle 1 - Accountability
   2. Principle 2 - Identifying Purposes for Collection of Personal Information
@@ -23,7 +24,7 @@
 
 * * *
 
-**SCOPE AND APPLICATION**
+## SCOPE AND APPLICATION
 
 This Privacy Policy contains ten principles that are observed by Intrawest regarding the collection, use and disclosure of personal information. Each principle must be read in conjunction with the accompanying commentary. The commentary in the Intrawest Privacy Policy has been tailored to reflect personal information issues specific to Intrawest. The scope and application of the Intrawest Privacy Policy are as follows:
 
@@ -34,7 +35,7 @@ This Privacy Policy contains ten principles that are observed by Intrawest regar
 
 
 
-**DEFINITIONS**
+## DEFINITIONS
 
 **Collection** \- the act of gathering, acquiring, recording, or obtaining personal information.
 
@@ -76,7 +77,7 @@ The Stratton Corporation
 
 * * *
 
-**Principle 1 - Accountability**
+## Principle 1 - Accountability
 
 Intrawest is responsible for personal information under its control and shall designate one or more persons who are accountable for Intrawest's compliance with the following principles.
 
@@ -98,7 +99,7 @@ d) developing public information to explain Intrawest's policies and practices.
 
 * * *
 
-**Principle 2 - Identifying Purposes for Collection of Personal Information**
+## Principle 2 - Identifying Purposes for Collection of Personal Information
 
 Intrawest shall identify and document the purposes for which personal information is collected at or before the time the personal information is collected or, when appropriate, at or before the time the personal information is used for a new purpose.
 
@@ -122,7 +123,7 @@ Further references to "identified purposes" mean the purposes identified in this
 
 * * *
 
-**Principle 3 - Consent**
+## Principle 3 - Consent
 
 The knowledge and consent of an individual are generally required for the collection, use or disclosure of personal information. In certain circumstances personal information can be collected, used or disclosed without the knowledge and consent of the individual, such as in the case of an emergency where the life, health or security of an individual is threatened.
 
@@ -140,7 +141,7 @@ Intrawest may disclose personal information without knowledge or consent to a la
 
 * * *
 
-**Principle 4 - Limiting Collection of Personal Information**
+## Principle 4 - Limiting Collection of Personal Information
 
 Intrawest shall limit the collection of personal information to that which is necessary for the purposes identified by Intrawest and as permitted by law.
 
@@ -150,7 +151,7 @@ Intrawest shall limit the collection of personal information to that which is ne
 
 * * *
 
-**Principle 5 - Limiting Use, Disclosure and Retention of Personal Information**
+## Principle 5 - Limiting Use, Disclosure and Retention of Personal Information
 
 Intrawest shall not use or disclose personal information for purposes other than those for which it was collected, except with the consent of the individual or as required by law. Intrawest shall retain personal information only as long as necessary for the fulfillment of those purposes or as required or permitted by law.
 
@@ -184,7 +185,7 @@ h) a third party or parties, where the individual consents to such disclosure or
 
 * * *
 
-**Principle 6 - Accuracy**
+## Principle 6 - Accuracy
 
 Intrawest shall take steps to ensure that personal information is as accurate, complete and up-to-date as is appropriate for its purposes.
 
@@ -194,7 +195,7 @@ Intrawest shall take steps to ensure that personal information is as accurate, c
 
 * * *
 
-**Principle 7 - Security Safeguards**
+## Principle 7 - Security Safeguards
 
 Intrawest shall protect personal information by security safeguards appropriate to the sensitivity of the information.
 
@@ -204,7 +205,7 @@ Intrawest shall protect personal information by security safeguards appropriate 
 
 * * *
 
-**Principle 8 - Openness**
+## Principle 8 - Openness
 
 Intrawest shall make readily available to individuals specific information about its policies and practices relating to the management of personal information.
 
@@ -220,7 +221,7 @@ c) a description of the type of personal information held by Intrawest, includin
 
 * * *
 
-**Principle 9 - Individual Access**
+## Principle 9 - Individual Access
 
 Upon request, Intrawest shall inform an individual of the existence, use and disclosure of his or her personal information, at a minimal or no cost to the individual. An individual shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate.
 
@@ -234,7 +235,7 @@ Upon request, Intrawest shall inform an individual of the existence, use and dis
 
 * * *
 
-**Principle 10 - Handling Inquiries and Challenges**
+## Principle 10 - Handling Inquiries and Challenges
 
 An individual shall be able to address a challenge concerning compliance with the above principles to the designated person or persons accountable for Intrawest's compliance with the Policy.
 
@@ -258,5 +259,3 @@ Intrawest
 Denver, CO 80202  
   
 Policy Update: December 30, 2011
-
-[Version française](https://web.archive.org/politique/index.htm)
