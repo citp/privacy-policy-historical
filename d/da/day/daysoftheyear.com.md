@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daysoftheyear.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230054102id_/http%3A//www.daysoftheyear.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daysoftheyear.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512011507id_/http%3A//www.daysoftheyear.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Days Of The Year
 
@@ -22,7 +22,7 @@ The following outlines the types of information which we collect about you and t
 
 ### What information do we collect?
 
-Our website, like many others, stores and retrieves information on your browser using cookies. This information is used to make the site work as you expect it to.  It is not personally identifiable to you, but it can be used to give you a more personalised web experience.
+Our website, like many others, stores and retrieves information on your browser using cookies. This information is used to make the site work as you expect it to. It is not personally identifiable to you, but it can be used to give you a more personalised web experience.
 
 We also may collect personally identifiable information that you provide to us, such as your name, gender, or email address. If authorized by you, we may also access profile and other information from services like Facebook.
 
