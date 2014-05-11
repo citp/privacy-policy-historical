@@ -1,72 +1,75 @@
-> *The following text is extracted and transformed from the chatterclub.biz privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225132051id_/http%3A//www.chatterclub.biz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatterclub.biz privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511052918id_/http%3A//www.thepreppersvault.com/privacy-policy) for the most accurate reproduction.*
 
-# Data use policy
+# Privacy Policy
 
-This Privacy Policy governs the manner in which Chatterclub collects, uses, maintains and discloses information collected from users (each, a "User") of the www.chatterclub.biz website ("Site"). This privacy policy applies to the Site and all products and services offered by Chatterclub.
+**Privacy Policy**
 
-**Personal identification information**
+Protecting your private information is our priority. This Statement of Privacy applies to the www.Thepreppersvault.com and The Preppers Vault Inc. and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to The Preppers Vault Inc. include www.Thepreppersvault.com and The Preppers Vault. The The Preppers Vault website is a ecommerce site. By using the The Preppers Vault website, you consent to the data practices described in this statement.
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+**Collection of your Personal Information**
 
-**Non-personal identification information**
+The Preppers Vault may collect personally identifiable information, such as your name. We may gather additional personal or non-personal information in the future.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+Information about your computer hardware and software may be automatically collected by The Preppers Vault. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the The Preppers Vault website.
 
-**Web browser cookies**
+The Preppers Vault encourages you to review the privacy statements of websites you choose to link to from The Preppers Vault so that you can understand how those websites collect, use and share your information. The Preppers Vault is not responsible for the privacy statements or other content on websites outside of the The Preppers Vault website.
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+**Use of your Personal Information**
 
-**How we use collected information**
+The Preppers Vault collects and uses your personal information to operate its website(s) and deliver the services you have requested.
 
-Chatterclub collects and uses Users personal information for the following purposes:
+The Preppers Vault may also use your personally identifiable information to inform you of other products or services available from The Preppers Vault and its affiliates. The Preppers Vault may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-  * _\- To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
-We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * _\- To improve customer service_  
-Your information helps us to more effectively respond to your customer service requests and support needs.
-  * _\- To process transactions_  
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * _\- To send periodic emails_  
-The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+The Preppers Vault does not sell, rent or lease its customer lists to third parties.
 
+The Preppers Vault may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to The Preppers Vault, and they are required to maintain the confidentiality of your information.
 
+The Preppers Vault may keep track of the websites and pages our users visit within The Preppers Vault, in order to determine what The Preppers Vault services are the most popular. This data is used to deliver customized content and advertising within The Preppers Vault to customers whose behavior indicates that they are interested in a particular subject area.
 
-**How we protect your information**
+The Preppers Vault will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on The Preppers Vault or the site; (b) protect and defend the rights or property of The Preppers Vault; and, (c) act under exigent circumstances to protect the personal safety of users of The Preppers Vault, or the public.
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+**Security of your Personal Information**
 
-**Sharing your personal information**
+To secure your personal information from unauthorized access, use or disclosure, The Preppers Vault uses the following:
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+Thawte
 
-**Third party websites**
+When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol.
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+**Children Under Thirteen**
 
-**Google Adsense**
+The Preppers Vault does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+**Opt-Out & Unsubscribe**
 
-**Compliance with children's online privacy protection act**
+We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from The Preppers Vault by contacting us here:
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+\- Email: cs@thepreppersvault.com
 
-**Changes to this privacy policy**
+\- Phone:  1-678-212-3015
 
-Chatterclub has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+**Changes to this Statement**
 
-**Your acceptance of these terms**
+The Preppers Vault will occasionally update this Statement of Privacy to reflect company and customer feedback. The Preppers Vault encourages you to periodically review this Statement to be informed of how The Preppers Vault is protecting your information.
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+**Contact Information**
 
-**Contacting us**
+The Preppers Vault welcomes your questions or comments regarding this Statement of Privacy. If you believe that The Preppers Vault has not adhered to this Statement, please contact The Preppers Vault at:
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Chatterclub www.chatterclub.biz  
-P O Box v 2005 Ramotswa Botswana  
-+2675380392  
-info@chatterclub.biz
+The Preppers Vault Inc.
 
-This document was last updated on March 13, 2012
+840 Ernest W. Barrett Parkway, Suite 100
+
+Kennesaw, Georgia 30144
+
+Email Address:
+
+cs@thepreppersvault.com
+
+Telephone number:
+
+1-678-212-3015
+
+Effective as of November 02, 2013
+
+[ ABOUT SSL CERTIFICATES ](http://www.thawte.com/digital-certificates/)
