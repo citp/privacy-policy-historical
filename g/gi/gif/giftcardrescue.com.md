@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the giftcardrescue.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231204656id_/http%3A//www.giftcardrescue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftcardrescue.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511085243id_/http%3A//www.giftcardrescue.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | GiftCardRescue
+# Our Privacy Policy : Buy Gift Cards Online : Gift Cards | GiftCardRescue
 
 Thank you for choosing Giftcardrescue.com. We would like you to know that your privacy is extremely important to us. Therefore we ensure that information, gathered and stored in our database will be kept confidential and will not be shared with any outside sources, without your knowledge and given permission.
 
@@ -72,6 +72,6 @@ This Site operates AS-IS and AS-AVAILABLE, without liability of any kind. We are
 
 If you have a privacy question about the Giftcardrescue.com web site, please click here to contact us. Or write to:
 
-GC Rescue Attention: Customer Service PO Box 701 Ellicott City, MD 21041
+GC Rescue Attention: Customer Service 6230 Old Dobbin Lane, Suite 190 Columbia, MD 21045
 
 __Updated on February 5, 2009
