@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisislondon.co.uk privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531012721id_/http%3A//www.thisislondon.co.uk/standard-home/privacy-policy-6925316.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisislondon.co.uk privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511095112id_/http%3A//www.thisislondon.co.uk/standard-home/privacy-policy-6925316.html) for the most accurate reproduction.*
 
 # Privacy Policy - Home - London Evening Standard
 
