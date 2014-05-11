@@ -1,51 +1,130 @@
-> *The following text is extracted and transformed from the kenwoodworld.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207145502id_/http%3A//www.kenwoodworld.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenwoodworld.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511152725id_/http%3A//www.kenwoodworld.com/en-int/terms-conditions/privacy-policy) for the most accurate reproduction.*
 
-# Kenwood -
+# Privacy Policy | Kenwood International | Terms and Conditions
 
-## PRIVACY POLICY
+We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. **  
+**
 
-1\. INTRODUCTION
+The Kenwoodworld.com website uses cookies. By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.
 
-The protection of your privacy is important to Kenwood. This statement discloses information practices of Kenwood, including what type of data we may collect and hold, how it is used and with whom the data is shared. It also explains how you can contact us if you have any queries or concerns about your personal information.
+**(1) What information do we collect?**
 
-This Privacy Statement is applicable to data collected by Kenwood Limited and other Kenwood Group and associated companies in Europe that distribute Kenwood's products and other Kenwood companies world-wide (together 'Kenwood'). In order to help you understand how we will use the data you provide, the following guidelines have been created.
+We may collect, store and use the following kinds of personal information:
 
-In general, it is possible to access our sites without supplying any personal data. But in the cases where personal information is collected it is used primarily to best provide the services you might request and secondly to improve how Kenwood might serve you, by making appropriate use of the information. Further, we may also use this information to send you from time to time information about Kenwood products and services that we think may be of interest to you. Unless required to do so by law and as set out in this policy, we will not share, sell or distribute any of the information you provide to us without your consent.
+(a) information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation.
 
-2\. DATA STORAGE AND SECURITY
+(b) information that you provide to us for the purpose of registering with us.
 
-The data may be transferred, stored and processed inside or outside the European Union and anywhere in the world but will not be disclosed to anyone outside the Kenwood Group, its associated companies or other companies who provide services of assistance to Kenwood's customers. We employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage. We will retain your information for a reasonable period or as long as the law requires.
+(c) information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters.
 
-This information will be treated in accordance with the Directive 95/46/EC of the European Parliament in accordance with national laws passed pursuant to the Directive. 
+(d) any other information that you choose to send to us; and
 
-3\. YOUR CONSENT
+(e) other information.
 
-By submitting your information you consent to the use of that information as set out in this policy. If we change our privacy policy we will post the changes on this page, and may place notices on other pages of the website, so that you may be aware of the information we collect and how we use it at all times. Note that continued use of the service will signify that you agree to any such changes.
+**(2) Cookies**
 
-4\. COOKIES 
+A cookie consists of a piece of text sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
-Kenwood may use 'cookies' which are small amounts of information that we store on your computer. Most internet browsers can be set to notify you when you receive a cookie (allowing you to decide whether or not to accept it) or to reject all cookies. If you elect to reject cookies from this site certain features may not be able to be used by you.
+We use “session” cookies on this website. We will use the session cookies to: keep track of you whilst you navigate the website; and other uses.
 
-If you have not set your browser to reject them, our system will issue cookies to your computer when you visit this site. Cookies make it easier for you to use the site during future visits by, for example, reducing the amount of data to be entered if you have previously given it to us. They also allow us to monitor website use and to tailor the content of the site for you. 
+Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
 
-5\. MINORS
+We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: http://www.google.com/privacypolicy.html.
 
-Minors should not provide personal data without parental consent.
+* * *
 
-6\. LINKS TO OTHER SITES
+**(3) Using your personal information**
 
-Links provided on our site can lead you to access sites outside Kenwood's control. Personal data provided to Kenwood will not be transported to other sites by clicking on the links. Such links are provided because they may be of interest to you or allow you to access complementary products or services provided by third parties. Kenwood is not responsible for the way these sites use personal data. 
+Personal information submitted to us via this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
 
-7\. CONTACT
+We may use your personal information to:
 
-You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us. We are entitled by law to charge a fee to meet our costs in providing you with details of the information we hold about you. You are welcomed to contact us at:
+(a) administer the website;
 
-Kenwood Limited  
-Attention: Web Site Manager / Data Privacy Officer  
-New Lane  
-Havant  
-PO9 2NH  
-United Kingdom
+(b) improve your browsing experience by personalising the website;
 
-  
+(c) send you general (non-marketing) commercial communications;
 
+(d) send you email notifications which you have specifically requested;
+
+(e) send to you our newsletter and other marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications)
+
+(f) provide third parties with statistical information about our users – but this information will not be used to identify any individual user;
+
+(g) deal with enquiries and complaints made by or about you relating to the website;
+
+and (h) other uses.
+
+Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the licence you grant to us.
+
+We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
+
+* * *
+
+**(4) Disclosures**
+
+We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.
+
+In addition, we may disclose your personal information:
+
+(a) to the extent that we are required to do so by law;
+
+(b) in connection with any legal proceedings or prospective legal proceedings;
+
+(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);
+
+(d) to the purchaser (or prospective purchaser) of any business or asset that we are (or are contemplating) selling; and
+
+(e) to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
+
+Except as provided in this privacy policy, we will not provide your information to third parties.
+
+* * *
+
+**(5) International data transfers**
+
+Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
+
+Information which you provide may be transferred to countries (including the United States, Japan, ( _other countries_ ) which do not have data protection laws equivalent to those in force in the European Economic Area.
+
+In addition, personal information that you submit for publication on the website will be published on the internet and may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.
+
+You expressly agree to such transfers of personal information.
+
+* * *
+
+**(6) Security of your personal information**
+
+We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
+
+We will store all the personal information you provide on our secure (password- and firewall- protected) servers. All electronic transactions you make to or receive from us will be encrypted using SSL technology.
+
+Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
+
+* * *
+
+**(7) Policy amendments**
+
+We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
+
+We may also notify you of changes to our privacy policy by email.
+
+* * *
+
+**(8) Your rights**
+
+You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to:
+
+(a) the supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address).
+
+We may withhold such personal information to the extent permitted by law.
+
+You may instruct us not to process your personal information for marketing purposes, by sending an email to us. In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal information for marketing purposes.
+
+The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
+
+**(9) Updating information**
+
+Please let us know if the personal information which we hold about you needs to be corrected or updated.
+
+* * *
