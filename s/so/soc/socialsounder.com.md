@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the socialsounder.com privacy policy that was archived on 2012-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120420142014id_/http%3A//www.socialsounder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialsounder.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512015023id_/http%3A//socialsounder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Social Sounder
 
-This Privacy Policy governs the manner in which SocialSounder collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.socialsounder.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by SocialSounder.
+This Privacy Policy governs the manner in which Social Sounder collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://socialsounder.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by Social Sounder.
 
 Personal identification information
 
@@ -18,14 +18,19 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 How we use collected information
 
-SocialSounder collects and uses Users personal information for the following purposes:
+Social Sounder collects and uses Users personal information for the following purposes:
 
-\- To personalize user experience  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-\- To improve our Site  
-We continually strive to improve our website offerings based on the information and feedback we receive from you.  
-\- To send periodic emails  
-The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions. 
+\- To personalize user experience
+
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+
+\- To improve our Site
+
+We continually strive to improve our website offerings based on the information and feedback we receive from you.
+
+\- To send periodic emails
+
+The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions.
 
 How we protect your information
 
@@ -49,7 +54,7 @@ Some of the ads may be served by Google. Google’s use of the DART cookie enabl
 
 Changes to this privacy policy
 
-SocialSounder has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Social Sounder has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 Your acceptance of these terms
 
@@ -57,11 +62,10 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-SocialSounder
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-http://www.socialsounder.com/
+http://socialsounder.com/
 
 contact@socialsounder.com
 
-This document was last updated on November 15, 2011
+This document was last updated on January 6, 2014
