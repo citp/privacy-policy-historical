@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the matrag.com privacy policy that was archived on 2013-11-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131105183556id_/http%3A//matrag.com/page.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the matrag.com privacy policy that was archived on 2014-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140511103922id_/http%3A//matrag.com/page.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" webkit chrome linux js"><head>
 	<meta charset="utf-8">
@@ -33,9 +33,96 @@
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="/templates/BoxyBuzz/js/jQuery.1.7.2.js">\x3C/script>')</script><script src="/templates/BoxyBuzz/js/jQuery.1.7.2.js"></script>
 	
-		<link rel="shortcut icon" href="http://www.matrag.com/favicon.ico">
+	
+	<link rel="shortcut icon" href="http://www.matrag.com/favicon.ico">
 </head>
 <body>
+
+
+<style>
+/*
+Back to top button 
+*/
+#back-top {
+	  bottom: 5px;
+    position: fixed;
+    right: 50px;
+	 z-index: 9999999;
+}
+#back-top a {
+	
+	display: block;
+	text-align: center;
+	font: 11px/100% Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #bbb;
+	/* background color transition */
+	-webkit-transition: 1s;
+	-moz-transition: 1s;
+	transition: 1s;
+}
+#back-top a:hover {
+	color: #000;
+}
+/* arrow icon (span tag) */
+#back-top span {
+	
+	height: 75px;
+	display: block;
+	margin-bottom: 7px;
+	background: #ddd  ;
+	/* rounded corners */
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	/* background color transition */
+	-webkit-transition: 1s;
+	-moz-transition: 1s;
+	transition: 1s;
+}
+#back-top a:hover span {
+	background-color: #777;
+}
+</style>
+
+
+<!-- go_top.tpl -->
+
+	
+	<p id="back-top">
+		<a href="#top"><span><img src="http://matrag.com/modules/go_top/img/gotop.png"></span>BACK TO TOP</a>
+	</p>
+<!--/go_top.tpl -->
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+
+	// hide #back-top first
+	$("#back-top").hide();
+	
+	// fade in #back-top
+	$(function () {
+		$(window).scroll(function () {
+			if ($(this).scrollTop() > 100) {
+				$('#back-top').fadeIn();
+			} else {
+				$('#back-top').fadeOut();
+			}
+		});
+
+		// scroll body to 0px on click
+		$('#back-top a').click(function () {
+			$('body,html').animate({
+				scrollTop: 0
+			}, 800);
+			return false;
+		});
+	});
+
+});
+</script>
 
 <header id="header" class="page">
 	<div id="navLogo" class="rPosition">
@@ -203,25 +290,25 @@ Privacy Policy Coordinator matrag Inc Pelikaanhof 142D, Leiden. Netherland		</di
 		<div id="footerStats" class="column">
 			<h3>Quick Statistics</h3>
 			<dl class="dl-firstChild">			
-				<dt>Total News Submissions:</dt><dd>77251</dd>
+				<dt>Total News Submissions:</dt><dd>35817</dd>
 			</dl>
 			<dl>
-				<dt>Published News:</dt><dd>2800</dd>
+				<dt>Published News:</dt><dd>35242</dd>
 			</dl>
 			<dl>
-				<dt>Upcoming News:</dt><dd>74451</dd>
+				<dt>Upcoming News:</dt><dd>575</dd>
 			</dl>
 			<dl>			
-				<dt>Active Members:</dt><dd>3154</dd>
+				<dt>Active Members:</dt><dd>1653</dd>
 			</dl>
 			<dl>		
-				<dt>Total Members:</dt><dd>15071</dd>
+				<dt>Total Members:</dt><dd>34884</dd>
 			</dl>
 			<dl>			
-				<dt>Votes</dt><dd>147078</dd>
+				<dt>Votes</dt><dd>128530</dd>
 			</dl>
 						<dl>
-				<dt>Comments:</dt><dd>133</dd>
+				<dt>Comments:</dt><dd>74</dd>
 			</dl>
 					</div>
 		<div id="footerInfo" class="column">
@@ -233,13 +320,14 @@ Privacy Policy Coordinator matrag Inc Pelikaanhof 142D, Leiden. Netherland		</di
 			</p>
 			<p id="footerLogo"><a href="http://matrag.com" title="Share anything online - Home" rel="home"><img src="/templates/BoxyBuzz/images/misc/logoFooter.png" alt="Share anything online"></a></p>
 			<p id="footerCopyright">
-				Copyright © 2013 Share anything online.
+				Copyright © 2014 Share anything online.
 				User-generated content is license under a <span class="showMe"><a href="http://creativecommons.org/publicdomain/zero/1.0/" rel="license" target="_blank">Creative Commons Public Domain Dedication</a></span>
 			</p>
 			<p id="footerLegal">
 				<a href="http://matrag.com/page.php?page=termsofuse">Terms Of Use</a> <span class="bullet">•</span>
 				<a href="http://matrag.com/page.php?page=privacypolicy">Privacy Policy</a> <span class="bullet">•</span>
-				<a href="http://matrag.com/page.php?page=contact">Contact Us</a>
+				<a href="http://matrag.com/page.php?page=contact">Contact Us</a> <span class="bullet">•</span>
+                <a href="http://imsevimse.ca/">Share anything online</a>
 			</p>
 
 		</div>
@@ -248,7 +336,9 @@ Privacy Policy Coordinator matrag Inc Pelikaanhof 142D, Leiden. Netherland		</di
 
 	<div id="credits" class="page">
 
-		<a href="http://api.embed.ly" rel="external" target="_blank"><img src="http://embed.ly/static/images/logos/embedly-powered-small-dark.png" id="embedlyAttr" alt="Embedly API"></a>
+						<!-- Begin BlogToplist tracker code -->
+
+<!-- End BlogToplist tracker code -->
 	</div>
 
 	<span id="toTop" title="Back To Top"></span>
