@@ -1,47 +1,35 @@
-> *The following text is extracted and transformed from the teachlr.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124021508id_/http%3A//teachlr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachlr.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511172319id_/http%3A//teachlr.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy | Teachlr
+# Privacy policy - Teachlr
 
 ## Teachlr cares a lot about your privacy
 
-### Personal identification information
+### Personal information
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. 
+We may collect personal information from users in a variety of ways, including, but not limited to, when users visit our site, register on the site, place orders, subscribe to newsletters, respond surveys, fill out forms, and in connection with other activities, services, features or resources we make available on our site. Users may be asked for, as necessary, name, email address, mailing address, phone number, credit card information. Users may, however, visit our site anonymously. We will collect personal information from users only if they voluntarily provide such information to us. Users can always refuse to provide personal information, although it may prevent them from engaging in certain site related activities.
 
-###  How we use collected information
+###  How we use your information
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any piece of information we collect from you may be used in any of the following ways: 
 
-  * ### To personalize your experience
+  * To personalize your experience: Your information helps us to better respond to your individual needs
 
-your information helps us to better respond to your individual needs
+  * To improve our website: We continually work hard to improve our website based on the information and feedback we receive from you.
 
-  * ### To improve our website 
+  * To improve customer service (your information helps us respond to your customer service requests and support needs in a more efficient way)
 
-we continually work hard to improve our website based on the information and feedback we receive from you
+  * To process transactions: Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason, without your consent, other than for the sole purpose of delivering the purchased service requested..
 
-  * ### To improve customer service 
-
-your information helps us to respond to your customer service requests and support needs in a more efficient way
-
-  * ### To process transactions 
-
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason, without your consent, other than for the express purpose of delivering the purchased service requested.
-
-  * ### To send periodic emails 
-
-The email address provided for order processing, will only be used to send you notifications, newsletters and updates.
+  * To send periodic emails: The email address provided for order processing, will only be used to send you notifications, newsletters and updates.
 
 
 
 
 ### How Teachlr protects your information
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+We make use of a variety of security measures to guarantee the safety of your personal information when you place an order or access your personal information. 
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
-
-After a transaction, your private information (credit cards, financials, etc.) will not be kept on file for more than 30 days.
+We use a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway provider's database, which will only be accessible to those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
 ### Cookies
 
@@ -65,7 +53,7 @@ This online privacy policy applies only to information collected through our web
 
 By using Teachlr.com, you consent to our website privacy policy.
 
-###  Contact Us 
+###  Contact us 
 
 If you have questions or concerns regarding this Policy, please contact us by emailing info@teachlr.com
 
