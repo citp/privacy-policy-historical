@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratemyplacement.co.uk privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514014825id_/http%3A//articles.ratemyplacement.co.uk/ratemyplacementcouk-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemyplacement.co.uk privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511062727id_/http%3A//articles.ratemyplacement.co.uk/ratemyplacementcouk-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RateMyPlacement | RateMyPlacement Blog
 
