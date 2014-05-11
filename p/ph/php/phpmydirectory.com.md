@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phpmydirectory.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110002031id_/http%3A//www.phpmydirectory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpmydirectory.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512013906id_/http%3A//www.phpmydirectory.com/privacy.html) for the most accurate reproduction.*
 
-# phpMyDirectory - Web Portal, Business Directory, Classifieds, Link Indexing
+# Privacy Policy - phpMyDirectory
 
 **Accomplish Technology, LLC** has created this privacy statement in order to demonstrate our commitment to privacy.
 
@@ -18,4 +18,4 @@ With the exception of credit card information, we store the information submitte
 
 ## Information Correction or Removal
 
-If you wish to correct, update or remove any information about you that may be in our records, please [contact us](https://web.archive.org/web/20131110002031id_/http%3A//www.phpmydirectory.com/contact.html) with the details of your request.
+If you wish to correct, update or remove any information about you that may be in our records, please [contact us](https://web.archive.org/web/20140512013906id_/http%3A//www.phpmydirectory.com/contact.html) with the details of your request.
