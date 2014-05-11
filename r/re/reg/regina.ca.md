@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regina.ca privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110185632id_/http%3A//www.regina.ca/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regina.ca privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511125052id_/http%3A//www.regina.ca/site/privacy-policy) for the most accurate reproduction.*
 
 # Regina.ca Privacy Policy - City of Regina
 
@@ -48,6 +48,8 @@ The Regina Fire & Protective Services Department may collect, use and disclose y
 
 The City does not sell or rent personal information to other organizations.
 
+Your information may be disclosed to organizations contracted by the City to provide services on behalf of the City.  Contractors must maintain and protect your information in accordance with Canadian privacy legislation.
+
 In some cases, information may be stored outside of Canada and will be subject to the laws of that jurisdiction. Regardless of where information is stored, it must be maintained and protected in accordance with The Local Authority Freedom of Information and Protection of Privacy Act.
 
 ## How does the City protect my information?
@@ -89,6 +91,6 @@ Follow these program links for additional information on how the City protects y
 
   * [Licence your Dog ](https://web.archive.org/residents/licences/licence-your-dog/)
   * [Licence your Cat ](https://web.archive.org/residents/licences/license-your-cat/)
-  * [Cameras on Regina Transit ](http://www.regina.ca/residents/transit-services/)
+  * [Cameras on Regina Transit](https://web.archive.org/residents/transit-services/)
 
 
