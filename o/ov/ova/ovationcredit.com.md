@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ovationcredit.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230011133id_/http%3A//www.ovationcredit.com/policies/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ovationcredit.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511175054id_/http%3A//www.ovationcredit.com/policies/privacy.php) for the most accurate reproduction.*
 
 # Ovation Credit Services – Privacy Policy
 
