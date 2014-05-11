@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryman.co.uk privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109055758id_/http%3A//www.ryman.co.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryman.co.uk privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511123716id_/http%3A//www.ryman.co.uk/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
