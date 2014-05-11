@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the thearticlebeach.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104063420id_/http%3A//thearticlebeach.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thearticlebeach.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511105216id_/http%3A//thearticlebeach.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
 # privacy TheArticleBeach.com you're number one place for free articles.
-
-  
-[](http://affiliate.godaddy.com/redirect/E50C1AEDB36C4F56217A0EE007EBAF2529E1277314BA3F024DB879FBBDE3818909BF3024E61658D64665C99CE85C03E3BFB3FC15390C3251037482AE9EB6BF4F)
 
 **This can be edited in admin panel.**
 
@@ -51,6 +48,3 @@ If it proves impossible to arrive at a mutually satisfactory solution through me
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.  
 
-
-[](http://www.losethebackpain.com/aff/index.php?w=LTBP-AFF&p=comfortf)|   
----|---
