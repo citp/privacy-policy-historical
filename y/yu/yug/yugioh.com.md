@@ -1,145 +1,118 @@
-> *The following text is extracted and transformed from the yugioh.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622072641id_/http%3A//www.4kids.tv/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yugioh.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512205533id_/http%3A//www.yugioh.com/news/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - 4Kids TV
+# Yu-Gi-Oh! News : Privacy Policy
 
-### 4Kids.TV Online Privacy Policy
+Mar 03 | 00:00 AM
 
-Thank you for visiting 4Kids.com, 4Kidstv.com, 4Kids.tv and CW4Kids.com (collectively referred to as the "Sites"). 4Kids Entertainment, Inc. ("4Kids" or "we"), the owner of the Sites, encourages parents and guardians to spend time online with their children and to participate in the interactive activities offered on our Sites. 4Kids has developed its Sites to be an enjoyable experience for children of all ages. Your privacy is important to us. To better protect your privacy, and to help ensure a rewarding online experience for all visitors, we provide this Privacy Policy summarizing our online information practices and explaining the choices you can make about the way your information is collected and used. 4Kids recognizes that some younger children may not understand some of the information contained on the Sites or how the Sites operate. Please discuss the Privacy Policy with your children so that they will better understand how to use the Sites and how to understand the information that they may be asked to provide. We may modify this Privacy Policy periodically, so please check back from time to time to review any updates to our Privacy Policy.
+ **Yugioh.com Privacy Policy**
 
-4Kids recognizes our obligation to our customers, community, online visitors and subscribers (collectively "Users" or "You") to adhere to the highest standards of decency, fairness, and integrity in all of our operations. We are dedicated to protecting consumer privacy on the Internet, especially the privacy of children. We have developed our privacy practices in compliance with the requirements established by the Children's Online Privacy Protection Act ("COPPA") and make every effort to comply with the guidelines established by the Children's Advertising Review Unit ("CARU").
+Please read this carefully before using the yugioh.com website. By using any part of the yugioh.com website, you are agreeing to this Privacy Policy and the Terms of Use, and you are consenting to the collection, use and disclosure of your information in accordance with this Privacy Policy.
 
-* * *
+Thank you for visiting yugioh.com ("Website"). 4K Media Inc. ("4K", "we", “us” or “our”), the owner of the Website, developed this Website to be an enjoyable experience for visitors and users (“Users”, “you” or “your”) to view Yu-Gi-Oh! content. Your privacy is important to us. 
 
-### Information Collection
+To better protect your privacy, and to help ensure a rewarding online experience for all visitors, we provide this Privacy Policy summarizing our online information collection practices and explaining the choices you can make about the way your information is collected and used. We may modify this Privacy Policy periodically, so please check back from time to time to review any updates to our Privacy Policy. This Privacy Policy applies to information collected when you visit the yugioh.com site only. When using other 4K websites, or any other websites, please review the privacy policy controlling that specific website.
 
-  1. 4Kids does not collect personally identifiable information on our Sites unless our Users voluntarily provide it to us during activities such as: 
-    1. Online registrations
-    2. Contest or sweepstakes registrations
-    3. Subscription registrations
-    4. Online shopping
-    5. Online User Profile; and
-    6. Refer a friend.
-  2. In addition, 4Kids Sites may collect non-personally identifiable information from Users (e.g. screen name, birthday, gender, state, zip code and country of residence). This information may be collected in certain sections of the Sites in which a User specifically and knowingly provides such information to 4Kids such as: 
-    1. Chats;
-    2. Online games;
-    3. Message boards; and
-    4. Surveys.
+**1\. Our Information Collection and Uses**
 
+You do not need to register with us in order to view most of the pages on yugioh.com. However, certain portions of our Website and services may not be accessible without your registration or your provision of certain information. From time to time, including for sweepstakes, subscriptions, voluntary online research surveys, content submissions, voting and polling activities, online shopping, Report a Problem, and “refer a friend”, we may ask you for personal identifiers such as your name, email address, mailing address, and telephone number, among other things. Providing such information may be necessary for you to fully enjoy or participate in a particular activity or service offered on our Website. At times, sweepstakes or contests may be open to children under 13. Please see section 6 below regarding the privacy of children.
 
+When you visit our Website, our servers automatically collect information that describes how you use our Website (such as which pages you visit and how long you visited the pages). Also, your web browser will automatically send us information such as your browser type, Internet service provider, data that identifies the page you visited prior to and after your visit to our Website, and your IP address). We also may determine what technology is available through your browser so we can serve you the most appropriate version of a page. We use this information to better understand your interests, as well as to understand the preferences of other Users. This helps us improve our website, tailor our offerings, and make Users’ visits to our Website efficient and effective.
 
-* * *
+IP Address and Location-Based Information
 
-### Use and Disclosure of Information
+4K collects IP addresses for a variety of purposes, including for system administration and for tracking the number of visits to different pages on the Website and to report information to our advertisers. An IP address is a number that is automatically assigned to the portal through which the User connects with the Internet. When a User requests pages from the Website, our servers log the Users' IP address. 
 
-  1. 4Kids uses or may use personally identifiable information that Users provide for internal purposes only such as the 4Kids registration, User profile, sending requested electronic postcards, emailing messages on their behalf, conducting contests or sweepstakes, developing of editorial content, marketing and promotional campaigns for the Website and responding to their questions. We use information we collect about others only to enable the User of our Sites to communicate with those other Users that they have listed as "friends" (e.g. sending them e-mails or game challenges).
-  2. 4Kids currently does not disclose personally identifiable information to third parties that Users provide, except from time to time we may transfer, disclose or share such information with third parties who may be engaged by us specifically to handle and deliver certain online activities (e.g. conducting contests and sweepstakes). Such third parties have access to personal information needed to perform their functions, but may not use it for other purposes. Additionally, in the event that all, or substantially all, of the assets relating to the Sites are transferred or sold to another entity, personally identifiable information submitted to us may be transferred to the acquiring entity. Finally, we may also disclose personally identifiable information to third parties in order to comply with laws or requests by law enforcement agencies, or to protect the rights, property or safety of our Sites, Users of our Sites and others.
-  3. In the event that 4Kids plans to post any information collected from a User for any purpose other than the activity for which it was collected, then the User shall be provided with prior notification of such posting and given the option of preventing such posting. If a User objects to such use for any reason, he/she may stop that use--either by e-mail request or by modifying his/her Registration information online.
-  4. 4Kids uses parents' e-mail addresses to notify them when we have received personal information from a User under the age of 13, such as in the case of a registration on any of the Sites or the collection of e-mail addresses from their children.
+Cookies
 
+Like many websites, we use “cookies” to make your visit to our Website as seamless and efficient as possible. Cookies are pieces of information that our Website transfers to a User’s hard drive to recognize your computer and your preferences when you visit our Website again. A cookie also lets the computer remember if a User has registered with us, which allows us to speed up such User's future activities at our Website. Letting the cookie do the record keeping of a User’s preferences saves the User the trouble of entering information over and over again during a single visit, and helps us identify the Website features in which you have the greatest interests. Cookies, or beacons for that matter, do not provide personally identifiable information to us unless the User voluntarily provides the information during Website activities. If you do provide personally identifiable information, then this information may be linked to the data stored in a cookie.
 
+Most browsers are initially set up to accept cookies. You can set your browser to refuse cookies or to alert you when cookies are being sent. However, it is possible that some areas of our Website, such as any shopping, contest, and game area, may not function properly if you set your computer to refuse cookies.
 
-* * *
+Web Beacons and Local Shared Objects
 
-### Review and Notification of Information
+Web beacons are small pieces of code placed on a web page to track or monitor the frequency with which Users visit certain areas of our Website, the length of time they spent visiting those areas and other behavioral data. Web beacons also deliver a cookie to a User’s browser. This helps us analyze the popularity of our pages and offerings.
 
-Any User who wishes to modify, correct, update or delete their registration information or stop receiving e-mail updates from the Sites, should log onto their account at [http://www.4kids.tv/user/account](https://web.archive.org/user/account). His/her account can be modified from the User's 4Kids account page. An account can also be deleted at any time under the control panel option labeled "delete account;" which can also be accessed on the User's My4Kids Profile Page. Users can also unsubscribe to any e-mails sent to them by simply clicking on the hyperlink "unsubscribe" in the email sent. Additionally, Users can e-mail 4Kids at [webmaster@4kids.tv](mailto:webmaster@4kids.tv) or contact 4Kids at 1-212-590-2100 with any problems or questions.
+Local Shared Object (LSO) is similar to a cookie and is used in flash applications. The use of LSOs on our Website is limited to storing information in regards to the specific flash rich media application which sets it, such as a media player or a game.
 
-* * *
+**2\. Information Collection and Uses by Social Platform and Social Media Plugins**
 
-### Special Privacy Policy for Users Under 13
+Yugioh.com contains links to and integrations with social networking platforms (such as Facebook, Google Plus, Pinterest and Twitter) that will permit or require Users to register or log into their account via that social networking platform. Yugioh.com also will permit you to use social media plugins such as the Facebook ‘Like” or Google ‘1’ buttons. When you use these social networking platforms and plugins, your username, password and other personal information about you on these services may be shared with us.   
+When linking with those social networking platforms or plugins through yugioh.com, those services may be able to collect information about your activity on yugioh.com, and may notify your connections (for example, your facebook friends) about your use of yugioh.com. These social networking platforms and plugins may also employ unique identifiers which allow your activity to be monitored across multiple websites for purposes of delivering more targeted advertising to you. Please note that their privacy policies may be different from our own. We urge you to review the privacy policy controlling that specific social networking platform. 
 
-4Kids has a special Privacy Policy for Users under the age of 13. We urge children to check with their parents or guardians before entering information on any website, and we urge parents and guardians to discuss this Special Privacy Policy with their children, including restrictions regarding the online release of personal information to anyone they don't know.
+**3\. Hulu, Crunchyroll, Video Players and Other Services**
 
-  1. 4Kids does not collect personally identifiable information about any User under 13, including, without limitation, names and e-mail addresses without (x) notifying the parent via e-mail and giving the parent or guardian the option to remove their child's e-mail address and any other information pertaining to the child from the applicable database for that activity or (y) obtaining verifiable consent from that child's parent or guardian. A parent or guardian may permit a User under 13 to participate in activities on our Website without consenting to the disclosure of the User under 13's personally identifiable information to third parties. Generally, personally identifiable information is collected only during activities such as: 
-    1. Online registrations
-    2. Contest or sweepstakes registrations
-    3. Subscription registrations
-    4. Online shopping
-    5. Online User profile; and
-    6. Refer a friend.
-  2. 4Kids will obtain such verifiable consent from a parent or guardian of a User under 13 before the User will be permitted to register for an account on any of the Sites.. When registering the User is asked to provide his/her age, email address and the email address for his/her parent or guardian. 4Kids sends an email to the parent or guardian notifying the parent or guardian that the User under 13 has begun the registration process. The email from 4Kids will contain a link back to the website where the parent or guardian can grant the User under 13 permission to complete his/her registration. The parent or guardian will also receive a separate password to access, review and modify their child's account and Profile provided via email. Once approved, an email is sent to both parent and the User confirming the completion of registration. The User will then have the ability to: (1) create a 4Kids profile, (2) add friends to his/her 4Kids profile, (3) chat using pre-set, canned messages throughout the 4Kids site, (4) email within the Sites to other Users using pre-set, canned messages, (5) chat on moderated message boards and (6) challenge other Users to online games. The parent or guardian who wishes to modify, correct, update or delete their User under 13's registration information or 4Kids profile can log onto their child's account at http://www.4kids.tv/user/account. Their child's account can be modified from the User's 4Kids account page or deleted by clicking "delete account" under the control panel option. Upon deletion of a User's account, access to all membership, communities, avatar privileges and 4Kids.tv rewards points will be lost. Parents or guardians always have the option of calling us at 1-212-590-2100 or e-mailing us at webmaster@4kids.tv with any questions or problems with regards to consent.
-  3. 4Kids will not request from any User under 13, nor does 4Kids condition the participation of any User under 13 in any activity on the Sites, the collection of, or disclosure by the User under 13 of more personal information than is reasonably required for such User under 13 to participate in such contest or activity. For example, for sweepstakes and contests, only e-mail addresses are collected for the purpose of entering the online sweepstakes or contest on a one-time basis and are used to notify winners and winners' parents directly of the sweepstakes or contest once by e-mail. Notification and prizes will be sent to the User under 13's parent or guardian. All emails collected are deleted upon completion and fulfillment of the sweepstakes or contest.
-  4. For some activities, such as online polls, surveys, game challenges and message boards, we may ask a User under 13 to provide information that is not personally identifiable. This might include the User's first name only, user name, state of residence, age, gender, or favorite 4Kids TV character.
-  5. For any periodic newsletters offered by our Sites, we collect a User's e-mail address, and his/her parent or guardian's e-mail address. We then send an e-mail notification to the parent asking permission. If the parent wishes to deny permission for the child's receipt of any newsletter from the Sites, the parent or guardian simply needs to click on the hyperlink to unsubscribe. A parent or User can, at any time, be removed from the newsletter mailing list by following the instructions at the bottom of the newsletter. If such a removal request is made (or if the parent denies permission from the outset), any personal information collected for the newsletter subscription is deleted from our database.
-  6. For other activities, such as sending an electronic postcard or e-mail to a friend, we may also ask for personal information about other people. This is usually limited to a first name and e-mail address. E-mail addresses collected to send an electronic postcard or e-mail to a friend are deleted when the requested postcard or e-mail is transmitted.
-  7. 4Kids keeps any personally identifiable information we obtain through a contest or sweepstakes only until we have successfully selected the winner(s), awarded the prize(s), and completed the administration of the contest or sweepstakes as legally required; and such information will not be used for any other purpose. We will not publish the names, ages, images or other personally identifiable information of any contest winner under 13 without first obtaining the consent of such contest winner's parent or guardian.
-  8. The e-mail address of a User under 13 is never posted on any of the Sites. No personally identifying information should be submitted to, or posted at, the Sites by any User under 13 years of age without the consent of such User's parent or guardian.
-  9. We will disclose information that we maintain as required by law, such as, for example, in response to a court order or a subpoena. We may also disclose such information in response to a specific law enforcement agency's request.
+We use video players, and other tools and services, provided by Hulu, Crunchyroll and others to provide content on our Website. Please note that use of these tools and services from Hulu, Crunchyroll and/or other parties are subject to the “terms of use” and privacy policy of those service providers. Our Website may embed content, such as video players and games, from third parties, which are governed by the content provider's privacy policy. It is recommended that you review each content provider's privacy policy.
 
+Our Website uses Crunchyroll to service our Users outside of the United States. Crunchyroll requires registration. International Users will be subject to Crunchyroll’s Privacy Policy as determined by specified Country. We strongly recommend that you familiarize yourself with their policies which can be viewed at http://www.crunchyroll.com/privacy. 
 
+Hulu services our Users in the United States. We strongly recommend that you familiarize yourself with their policies which can be viewed at http://www.hulu.com/privacy.
 
-* * *
+**4\. Collection of Information by Third-Parties; Links to Other Websites**
 
-### Chats, Message Boards/Forums, and Blogs
+When using our Website, you may encounter links to other websites---whether it is an advertisement link, a promotion, a social networking platform, a contest, a blog or anything else. A User may arrive at one of these sites by clicking on a banner advertisement, or simply by selecting a link on our Website. 
 
-Please keep in mind that whenever you give out personal information online (e.g. via message boards/forums, chats and blogs) that information can be collected and used by people you don't know. While 4Kids strives to protect its Users' personal information and privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk. Users under 13 may not participate in chatrooms, message boards/forums and blogs without prior verifiable parental consent. To prevent messages containing inappropriate or personally identifiable information, our message boards are moderated. Messages that do no follow the guidelines of the message board/forum will either be edited for content or simply not posted. Continued failure to comply with such guidelines could result in the suspension or termination of a User's 4Kids.tv account.
+However, we do not endorse or sponsor other websites. We are not responsible for the privacy practices or the content of such sites. We are not responsible for the collection or use of information on these other websites. 4K expressly disclaims any and all liability associated with a User's use of, and the content on, such other websites. 
 
-* * *
+These websites might issue their own cookies, and have their own data collection practices and policies. Your use of such sites may be subject to the terms of service and privacy policies posted on such sites. This Privacy Policy only covers information collected by 4K on yugioh.com. We recommend that you review the privacy policy of any website that you visit. 
 
-### About IP Addresses
+You may occasionally get cookies from our Ad Server and/or third party advertisers. Certain ads appearing on our Website may be delivered to you by a third party ad service provider. The ad service provider may place or recognize their own unique cookie on our Website and may use non-personally identifiable information about your visit to our Website, such as the number of times that you have viewed an ad. 4K does not control the cookies of our Ad Server and/or third party advertisers, and these cookies are governed by the privacy policy of the third party advertiser. Our Privacy Policy does not cover these third parties’ use of information collected and these third parties are not subject to our Privacy Policy. 
 
-4Kids collects IP addresses for the purpose of system administration and to report information to our advertisers. An IP address is a number that is automatically assigned to the User's computer whenever the User is surfing the Web. When a User requests pages from these Sites, our servers log the Users' IP address. We do not link IP addresses to any personally identifiable information. This means that a User's session will be logged, but the User remains anonymous to us.
+**5\. Further Uses and Disclosures of Information**
 
-* * *
+We use the personal information provided by Users at times for various reasons, including:
 
-### Use Of Cookies, Web Beacons, Local Shared Objects: The 4kids Cookies Policy
+• to deliver information, products, or content requested by Users,   
+• to contact Users about our programs, products, features, surveys, promotions, offerings, or other services,   
+• to verify access rights to access-restricted services, including for purpose of supporting digital rights management software,   
+• to improve our services by providing personalized content, language and location customization, and/or personalized help and instructions,   
+• to provide information concerning compatibility,   
+• to ask Users to participate in surveys about products, services, news and events   
+• to provide Users with news, newsletters, updates, targeted advertising, promotions, and special offers,   
+• to better understand how the Website is used, and understand Users’ preferences, including web traffic patterns and what types of content are most popular with users,   
+• for research and analytical purposes, which may help us tailor our Website and our products and services,   
+• to find appropriate advertisers,   
+• for other purposes specifically explained at the time we collect the information
 
-Cookies are pieces of information that a website transfers to an individual's hard drive for record keeping purposes. Cookies make web-surfing easier for a User by saving the User's passwords, purchases, and preferences. A cookie lets the computer remember that a User has registered, which allows us to speed up such User's future activities at our Sites. Similarly, any website store may use a temporary cookie to track which products a User has chosen to purchase while shopping. Letting the cookie do the record keeping saves the User the trouble of entering information over and over again during a single visit. You may occasionally get cookies from our Ad Server and/or third party advertisers. The Ad Server cookie is only used to track frequency limits on the ads. No personally identifiable information is stored on the Ad Server cookie. 4Kids does not control the cookies of our Ad Server and/or third party advertisers, and these cookies are not subject to the 4Kids cookie policy. The use of advertising cookies sent by Ad Servers or third party advertisers is standard in the Internet Industry. The use of cookies is an Industry standard, and you'll find cookies at most major websites. By showing how and when a User uses the Sites, cookies help us see which areas are popular and which are not. Many improvements and updates to the Sites are based on such data.
+4K may disclose personally identifiable information and aggregate anonymous data about Users to the parents and affiliates of 4K. We may share such information at any time to a third party in order to fulfill a service or offering on our Website, to fulfill a User’s request, to analyze preferences and behavioral patters, and to find appropriate advertisers. 
 
-You may occasionally get cookies from our Ad Server and/or third party advertisers. The Ad Server cookie is only used to track frequency limits on the ads. No personally identifiable information is stored on the Ad Server cookie. Certain ads appearing on the Website may be delivered to you by a third party ad service provider. In the course of serving ads, the ad service provider may place or recognize their own unique cookie on our browser and may use non-personally identifiable information about your visit to the Website, such as the number of times that you have viewed an ad. 4Kids does not control the cookies of our Ad Server and/or third party advertisers, and these cookies are governed by the privacy policy of the third party advertiser and not subject to the 4Kids Privacy Policy. The use of advertising cookies sent by Ad Servers or third party advertisers is standard in the Internet Industry.
+Additionally, in the event that all, or substantially all, of the assets relating to the Website or of 4K are transferred or sold to another entity, personally identifiable information submitted to us, and all information collected by us, may be transferred to the acquiring entity. Also, we may disclose any and all information to third parties in order to comply with laws or at the request of law enforcement agencies or other legal entities, or to protect the rights, property or safety of our Website, Users, ourselves and others, or to respond to claims or complaints, or to enforce our Terms Of Use or Privacy Policy. Please note that the disclosure of information might include the disclosure of your IP address.
 
-Web beacons are small pieces of code placed on a web page to track or monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page. We may use web beacons on this Website from time to time for this and other purposes.
+In the event that 4K plans to post any information collected from a User for any purpose other than the activity for which it was collected, then the User shall be provided with prior notification of such posting and given the option to prevent such posting. If a User objects to such use for any reason, he/she may stop that use by e-mail request.
 
-Local Shared Object (LSO) is similar to a cookie and is used in flash applications. The use of LSOs on the Website is limited to storing information in regards to the specific flash rich media application which sets it such as a media player or game.
+**6\. Users Under the Age of 13**
 
-* * *
+4K generally does not knowingly collect or use any personally identifiable information submitted to the Website from children under the age of 13, unless 4K is offering a sweepstakes or contest open to young participants. In the event of such a sweepstakes or contest, we collect personal information from children to the extent reasonably necessary for children to participate in the sweepstakes or contest. We will not knowingly contact the child for any reason other than in connection with the sweepstakes or contest that he/she has registered for. If the child wins the contest or sweepstakes, we will contact his/her parent or legal guardian at the email address provided to us during the registration process by the child. We would then request that the parent provide additional personal information, including postal address, in order for the child to be eligible to collect the prize, if any. We may also notify the child directly one time in the event that he/she wins the sweepstakes or contest. After the sweepstakes or contest is over, and after all of the prizes have been distributed accordingly, we will then delete personal information that we collected from the child, including his/her email address, unless his/her parent or legal guardian instructs us otherwise. 
 
-### How the Website Does Not Use Cookies
+If you become aware that a child has provided us with personal information outside of a sweepstakes or contest that is open to children under 13, or if you as a parent/legal guardian of a child do not want your child to participate in a sweepstakes or contest, please contact us at privacy@yugioh.com. You may also mail the request to Privacy Policy Coordinator, 4K Media Inc., 53 West 23rd Street, 11th Floor New York, New York 10010. 
 
-The Sites never use cookies to retrieve information from your computer that was not originally sent in a cookie. Except as described in this Privacy Policy, the Sites do not use information transferred through cookies for any promotional or marketing purposes; nor is that information shared with any unaffiliated third parties. The Sites do not use cookies to identify specific individuals, except in such cases as online shopping (see above), sweepstakes and contest registration (where a cookie may allow you to enter a contest without registering again each time).
+**7\. 4K Security Policy**
 
-Most browsers are initially set up to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some areas of the Sites, such as any shopping, contest, and game area, may not function properly if you set your computer to refuse cookies.
+We strive to keep all personally identifiable information of our Users secure, and we will make reasonable efforts to ensure that any personal information provided by a User is maintained in a secure environment. However, no data transmission over the internet is 100% safe and secure, and no information storage is impenetrable. While we strive to protect your personally identifiable information, we cannot guarantee that your information will not be unlawfully accessed or intercepted. Information that you provide to us are provided at your own risk.
 
-* * *
+**8\. Unsubscribe**
 
-### Links to Other Sites
+If you have provided us with your email address for any reasons, you can unsubscribe to e-mails sent to by 4K simply by clicking on the hyperlink "unsubscribe" in the email you received from us. Additionally, you can e-mail 4K at webmaster@yugioh.com or contact 4K at 1-212-590-2100 with any problems or questions.
 
-The Sites may contain banner advertisements or other links to other sites not controlled by 4Kids. These other sites may send their own cookies, collect data or solicit personal information to Users. 4Kids and its affiliates are not responsible for any failure on the part of any linked websites to comply with any Privacy Policy posted on our Sites or for any violation by such other websites of any contractual or other legal obligation to which the operator(s) of such linked website may be subject. In addition, other websites that may contain material not suitable for children may also link to the Sites without our knowledge or consent. The Sites will clearly display a "bumper" page to identify to children and parents or guardians when they are leaving the Sites and entering an advertiser's site. The bumper is a reminder to children to never give out information online without getting permission from a parent or guardian.
+**9\. California Privacy Rights**
 
-* * *
+California law gives Users who are California residents the right to request certain information from us in the event we disclosed personal information to third parties for direct marketing purposes. To make such a request, please send an e-mail to: privacy@yugioh.com or send a written request to CA Privacy Policy Coordinator, 4K Media Inc., 53 West 23rd Street, 11th Floor New York, New York 10010.
 
-### 4Kids Security Policy
+**10\. Notification of Changes**
 
-The importance of security for all personally identifiable information associated with Users is of utmost concern to us. Only those employees who need access to your information in order to do their jobs and third parties assisting us in the programming and maintenance of the Sites are allowed access. Any employee who violates our privacy and/or security policies is subject to disciplinary action, including possible termination and civil and/or criminal prosecution. Further, 4Kids does not sell, rent or otherwise give personal information collected on its Sites to third parties.
+At any time, we may change, modify, discontinue, enhance, add or remove any portion of the Website, or any provision of the Privacy Policy or the Terms of Use, in whole or in part. Changes to the Privacy Policy or the Terms of Use will be effective when posted. Your continued use of the Website in any way after any changes to the Privacy Policy or the Terms of Use or the Website are made or posted will be considered acceptance of those changes and will constitute your agreement with the changes.
 
-* * *
+Please check the Privacy Policy and Terms of Use pages periodically for changes.
 
-### Co-Branded Micro Sites
+**11\. Your Acceptance of These Terms**
 
-Web pages and/or micro websites included within the Sites may be co-branded with third party names, logos, and/or properties. These micro websites are operated or maintained by 4Kids. While such third parties are sponsors of these Web pages or micro websites, the third parties do not share in any personally identifiable information collected within those Web pages or micro websites.
+By using this Website, you signify your consent to, and your agreement with, the Privacy Policy. If you do not agree to this policy, please do not use our Website. 
 
-* * *
+The Website's content and features may be updated, reviewed, modified and supplemented. 4K reserves the right to change the information, features, products, policies, promotions, disclosures and disclaimers at any time. Please check the policy periodically for changes. 
 
-### Your Acceptance of These Terms
+**12\. Questions**
 
-By using these Sites, you signify your consent to and agreement with the Online Privacy Policy. If you do not agree to this policy, please do not use our Sites.
+Any questions, concerns or comments regarding the Privacy Policy should be directed to: Privacy Policy Coordinator, Legal Department, 4K Media Inc., 53 West 23rd Street 11th Floor, New York, New York 10010, or via email to privacy@yugioh.com.
 
-The Sites' content and features may be updated, reviewed, modified and supplemented. 4Kids reserves the right to change the information, features, products, policies, promotions, disclosures and disclaimers at any time. Changes to this Privacy Policy will be posted on the Sites. Please check the policy periodically for changes. At the end of the Privacy Policy we indicate the date of an update to the Privacy Policy. A User's continued use of the Sites after the posting of such changes will mean that the User has accepted such changes. Any parental or guardian consent provided to 4Kids will be deemed to apply to the revised Privacy Policy and new or modified features of the Sites. However, if there is a material change in our data collection, use or disclosure practices, we will obtain a new consent. Please note that parents or guardians should update their personal information to provide us current e-mail addresses.
+© 2013 4K Media Inc. All Rights Reserved. 
 
-* * *
-
-### California Privacy Rights
-
-Pursuant to California Civil Code Section 1798.83, California residents have the right to request from a business, with whom the California Resident has an established business relationship with a customer, and has within the immediately preceding calendar year, whether the business has disclosed personal information to third parties for direct marketing purposes. To make such a request, please send an e-mail to [webmaster@4kids.tv](mailto:webmaster@4kids.tv) or send a written request to CA Privacy Policy Coordinator, Legal Department, 4Kids Entertainment, Inc., 53 West 23rd Street, 11th Floor New York, New York 10010
-
-* * *
-
-### Questions
-
-Questions regarding the Privacy Policy should be directed to the Privacy Policy Coordinator, Legal Department, 4Kids Entertainment, Inc., 53 West 23rd Street, 11th Floor, New York, New York 10010
-
-© 2010 4Kids Entertainment, Inc. All Rights Reserved.
-
-Toonzai is a trademark of 4Kids Entertainment, Inc. All Rights Reserved
-
-This Privacy Policy has been updated as of December 8, 2010
+This Privacy Policy was posted on March 3, 2014.
