@@ -1,31 +1,105 @@
-> *The following text is extracted and transformed from the xcheaters.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401210626id_/http%3A//about.netster.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcheaters.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512212330id_/http%3A//www.xcheaters.com/site/privacy) for the most accurate reproduction.*
 
-# Netster®
+# xCheaters - Spice up your life with a discreet encounter!
 
-   |  **Netster® Privacy Policy and Terms of Use**
+### Table of Contents:
 
-By using our Products and Services, you agree, without limitation or qualification, to be bound by this Privacy Policy or any other privacy or data collection Privacy Policy related to services offered directly by Netster.com. Please note that Netster.com contains links to other sites and may allow those sites to be co-branded with the Netster® name. Web sites that are linked to Netster.com may have privacy policies that differ from that of the Netster.com This privacy policy only covers services offered by Netster.com. 
+  1. A Special Note About Children
+  2. Information We Collect
+  3. Our Use of Your Information
+  4. Our Disclosure of Your Information
+  5. Your use of Other Users' Information
+  6. Control of Your Password
+  7. Reviewing and Changing Your Personally Identifiable Information
+  8. Third Party Collections of Information
+  9. Security
+  10. Update/Delete
+  11. Opt-out provisions
 
-This privacy statement does not cover the privacy policies of Third party advertisers and or affiliates that advertise or list their products and services on Netster.com. Netster.com allows other companies that are presenting advertisements on some of our web pages to transmit, set and access their cookies on your computer. **Therefore, the following policies are those of Netster.com only**. 
 
-When you visit Netster® and/or use any of the Netster® offered search services, The Netster® (Netster.com) collects certain statistical data. At this point The Netster® cannot identify you personally, but rather only collect statistical information on the usage, and pattern of usage of its services. This information is automatically received by Netster.com from your browser and is kept on our server logs. This information includes your I.P. address, our cookies, time and date of your visit, web pages as well as search queries requested by you. The Netster® uses this information to improve its services to its users, which includes you. The Netster®, further uses this information to custom tailor its content and advertising and to analyze our traffic in aggregate. Recent browser releases allow you to reconfigure and set your browser in such a manner that will greatly limit the amount data Netster.com as well as other websites are able to collect. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other Web sites may be extremely limited and some features may not work properly. Please refer to the help section of your browser to learn how you can configure your browser so not to allow cookies to be placed on your computer. 
 
-**Cookies and single-pixel gifs**  
-Only the information that you provide, or the choices you make while visiting a Web site, can be stored in a cookie, (in addition to time, day of your visit and your I.P. address). Our site cannot determine your e-mail address unless you choose to type it in. The Netster® does not have access to the rest of your computer. The Netster®, its advertisers and or affiliates, may use single-pixel gif images, also called web beacons, to count Web page accesses and gather some general statistical information. Again, The Netster® does **not** gather personal information through the use of these images. The Netster® or our advertisers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user's computer if the user has chosen to previously provide Netster® and/or its advertiser with such personal information. 
+#### 1\. A Special Note About Children
 
-In addition to collecting anonymous statistical data, Netster.com also collects Personally Identifiable Information if you have chosen to provide The Netster® with such information. This information data tells us specifically who you are, i.e.; Your Name, E-Mail Address, Postal Address, etc. This Personally Identifiable Information is only collected, if YOU have chosen to provide it to The Netster®. This information is collected at the time **you** have **chosen** to sign-up for certain Netster.com products or services, such as e-mail, weather and financial personalized settings, browser updates, participation in a sweepstake or special offer. Netster.com uses this information to better understand your personal needs and in addition may use this information to send you product and service offers in the future. We may also use this information to provide to companies who work for or on behalf of Netster.com to provide special offers on product and services. 
+Children under eighteen years of age are not eligible to use our services. We ask that children not submit information to us.
 
-The sites displayed as search results or linked to by Netster.com and/or its affiliates are developed by third parties over whom The Netster® has no control. Third party affiliates or service providers, whom in some instances use complete automation, index most of the search results that appear on The Netster® results pages. The Netster® does not screen or censor any of this information, nor does The Netster® screen or censor any of the listings. The Internet is a worldwide system of computer networks in which any person can post information on their individual computer, which if connected to the Internet can be accessed by others, or, if they have permission, on the computers or computer networks of others. Today, the most popular portion of the Internet is the World Wide Web. This portion of the Internet is readily accessed with the use of a web browser. It is the goal of Netster.com to return to you the most relevant information and links to the web sites your search query has called for. However, we cannot guarantee that your search will not locate unintended or objectionable content. Further, certain materials accessible on the Internet is **NOT** appropriate for minors. The Netster® is concerned about your child's safety and does not accept banner advertisements containing adult content, however, has no control over your children's search queries, and the subsequent results of those queries. To limit and / or prevent your children's access to such materials, The Netster® suggest that you install commercially available hardware and/or software that has the ability to filter out such content. Such hardware / software products may be set to filter out content on weapons, sexual adult content, hate and racist content as well as violent content. They may also be set to disable chat sites, e-mail and message board forums. Netster.com and / or its affiliated companies assume no responsibility for your decision to utilize any "hyperlinks" to sites found on Netster.com results pages, or for the accuracy or usefulness of any materials contained in such sites. 
+#### 2\. Information We Collect
 
-**THE SERVICES ARE PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND. NETSTER.COM DISCLAIMS ANY WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.**
+In our online ANONYMOUS registration form, we ask you to provide us with certain information such as your age and the type of relationship you are looking for. In addition, we collect address, credit card, and bank information only from those who wish to acquire premium member privileges. However, NONE of the personally identifiable information can be accessed or used by the public to identify a specific individual.
 
-Netster.com may amend this Agreement at any time, and at it sole discretion, by posting the amended terms on its Web site. All amended terms are automatically effective 7 days after they are initially posted. This Agreement may not be otherwise amended except in a written document signed by you and Netster.com 
+In the course of using our site, we automatically track certain information such as your IP addresses and email addresses. Many sites automatically collect this information. If you choose to post messages in our website, we will only display such information about you as you choose to reveal.
 
-**CHILDREN'S PRIVACY**  
-Protecting the privacy of children is an extremely important issue. For that reason we do not structure any part of our subscriber or affiliate services to attract anyone under the age of 13. If parents believe their child (any age under 18) has accessed our system without their permission, they can contact our customer service department by e-mail at [emailsupport@netster.net](mailto:emailsupport@netster.net) **Visit** <http://www.ftc.gov/kidzprivacy> **for information from the Federal Trade Commission about protecting children's privacy online**. 
+If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the site, we may collect such information into a file which is only accessed by authorized personnel. We may also collect other users' comments about you in our complaints department.
 
-* * *
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. We store this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+
+#### 3\. Our Use of Your Information
+
+We internally use personally identifiable information of our users to improve our marketing efforts, to statistically analyze site usage, to improve our content and product offerings as well as to customize our site's content and layout. We believe these uses allow us to improve our site and better tailor your online experience to meet your needs.
+
+We may also use personally identifiable information about you to deliver information to you that, in some cases, are targeted to your interests, such as targeted banners and promotions.
+
+We also send periodic informational updates to our members via email.
+
+#### 4\. Our Disclosure of Your Information
+
+We DO NOT sell or rent any personally identifiable information about you to any third party without your permission. We do disclose information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we DO NOT disclose to these entities any information that could be used to personally identify you. Certain information, such as your password, credit card number, and bank account number, are not disclosed in aggregate at all.
+
+In order to maintain a healthy community, we cooperate with all law enforcement inquiries and with all third parties to enforce their intellectual property or other rights.
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site. We use a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes.
+
+#### 5\. Your use of Other Users' Information
+
+You may not use other user's information for commercial purposes, to spam, to harass, or to make unlawful threats. We reserve the right to terminate those who misuse other user's information or who otherwise violate the [Terms of Service](https://web.archive.org/site/terms).
+
+#### 6\. Control of Your Password
+
+You may not disclose your password to any third parties or share it with any third parties. If, despite the foregoing, you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password.
+
+#### 7\. Reviewing and Changing Your Personally Identifiable Information
+
+Once you register, you will be able to review and change much of your personally identifiable information including:
+
+  * Your email address
+  * Your city, state, zip code, country
+  * Your password
+  * Your profile
+
+
+
+Please promptly update your information if it changes by logging in to your account and following the screen prompts. We strongly urge you to periodically change your password to help reduce the risk of unauthorized access to your account information.
+
+Upon your request, we will remove your credit card number and credit card expiration date from our main databases. To make this request, email us at [support@xcheaters.com](mailto:support@xcheaters.com). We will retain in our files information, including credit card information, you have requested to remove in some circumstances, such as to resolve disputes, troubleshoot problems, comply with Credit Card Merchant Banking and Association Agreements, enhance security, reduce fraud, comply with Federal and State Law, and to enforce our [Terms of Service Agreement](https://web.archive.org/site/terms).
+
+#### 8\. Third Party Collections of Information
+
+Our policy only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties on our system or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them. While we are working closely with our partners to ensure the highest privacy to you, we encourage you to ask questions before you disclose your personal information to others. We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness.
+
+#### 9\. Security
+
+We have security measures in place to protect and prevent the loss, misuse, and alteration of the information under our control. We use industry standard efforts to safeguard the confidentiality of your personal identifiable information such as firewalls. While 'perfect security' does not exist on the Internet, our technical experts work hard to ensure your secure use of our services.
+
+#### 10\. Update/Delete
+
+You have the following choices to modify or delete your profile information from our database:
+
+  * Send an email to [Customer Service](mailto:support@xcheaters.com);
+  * Log in with your password and modify your profile;
+
+
+
+#### 11\. Opt-out provisions
+
+You can unsubscribe at any time by clicking the 'unsubscribe' link at the bottom of our mails. When clicking the unsubscribe link, you will be instantly removed from all the mailing lists of HK International. You can also choose to opt-out through the email preference center of your profile by clicking on 'Account Settings' when logged in. 
 
   
-  
 
+
+#### Our address:
+
+FH International Limited  
+Island House  
+Grande Rue  
+St Martins  
+Guernsey, Channel Islands  
+GY4 6RU 
