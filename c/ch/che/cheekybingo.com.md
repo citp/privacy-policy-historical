@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cheekybingo.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105001933id_/http%3A//www.cheekybingo.com/skin/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheekybingo.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512223148id_/http%3A//www.cheekybingo.com/skin/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - CheekyBingo.com
+# View Our Privacy Policy | CheekyBingo.com
 
 The brands on this website (the "Website") are owned by Cashcade Ltd (the "Brand Owner"). The Website and the services offered on it are powered by a software belonging to Brigend Limited ("Brigend") and operated by Cassava Enterprises (Gibraltar) Limited ("Cassava"), which are both within the same corporate group and registered under the laws of Gibraltar to provide such services.
 
