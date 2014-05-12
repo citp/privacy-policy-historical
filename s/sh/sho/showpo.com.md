@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showpo.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107220753id_/http%3A//www.showpo.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showpo.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512075353id_/http%3A//www.showpo.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy | SHOWPO Fashion Online Shopping
 
