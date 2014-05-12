@@ -1,11 +1,13 @@
-<!--The following is the downloaded HTML source of the civicsolar.com privacy policy that was archived on 2013-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131109175625id_/http%3A//www.civicsolar.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the civicsolar.com privacy policy that was archived on 2014-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140512213504id_/http%3A//www.civicsolar.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Privacy Policy | CivicSolar</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="shortcut icon" href="/sites/default/files/cs_favicon.ico" type="image/x-icon">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQYHUFBRGwEHU1FQBQI="};window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a,b){function c(a,b,c){c||(c={});for(var d=f[a],e=d&&d.length||0,h=c[g]||(c[g]={}),i=0;e>i;i++)d[i].apply(h,b);return h}function d(a,b){var c=f[a]||(f[a]=[]);c.push(b)}function e(a){return delete a[g]}var f={},g="nr@context";b.exports={on:d,emit:c,clear:e}},{}],2:[function(a){function b(a,b,e,g,i){return h?h-=1:c("err",[i||new UncaughtException(a,b,e)]),"function"==typeof f?f.apply(this,d(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var c=a("handle"),d=a("lodash._slice"),e=a("../../../contextual-ee"),f=window.onerror,g=!1,h=0;a("loader").features.push("err"),window.onerror=b;try{throw new Error}catch(i){"stack"in i&&(a("../../wrap-timer"),a("../../wrap-raf"),"addEventListener"in window&&a("../../wrap-events"),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&a("../../wrap-xhr"),g=!0)}e.on("fn-start",function(){g&&(h+=1)}),e.on("fn-err",function(a,b,d){g&&(this.thrown=!0,c("err",[d,(new Date).getTime()]))}),e.on("fn-end",function(){g&&!this.thrown&&h>0&&(h-=1)})},{"../../../contextual-ee":1,"../../wrap-events":3,"../../wrap-raf":4,"../../wrap-timer":5,"../../wrap-xhr":6,handle:"4O2Y62",loader:"YLUGVp","lodash._slice":14}],3:[function(a){function b(a){d.inPlace(a,["addEventListener","removeEventListener"],"-",c)}function c(a){return a[1]}var d=a("../wrap-function"),e=(a("lodash._slice"),a("../contextual-ee"));if(b(window),"getPrototypeOf"in Object){for(var f=document;f&&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&&b(f);for(var g=XMLHttpRequest.prototype;g&&!g.hasOwnProperty("addEventListener");)g=Object.getPrototypeOf(g);g&&b(g)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&b(XMLHttpRequest.prototype);e.on("addEventListener-start",function(a){if(a[1]){var b=a[1];"function"==typeof b?this.wrapped=b["nr@wrapped"]?a[1]=b["nr@wrapped"]:b["nr@wrapped"]=a[1]=d(b,"fn-"):"function"==typeof b.handleEvent&&d.inPlace(b,["handleEvent"],"fn-")}}),e.on("removeEventListener-start",function(a){var b=this.wrapped;b&&(a[1]=b)})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],4:[function(a){var b=(a("lodash._slice"),a("../wrap-function")),c=a("../contextual-ee");b.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),c.on("raf-start",function(a){a[0]=b(a[0],"fn-")})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],5:[function(a){function b(a){var b=a[0];"string"==typeof b&&(b=new Function(b)),a[0]=c(b,"fn-")}var c=(a("lodash._slice"),a("../wrap-function")),d=a("../contextual-ee");c.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),d.on("setTimer-start",b)},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],6:[function(a){function b(){c.inPlace(this,f,"fn-")}var c=a("../wrap-function"),d=a("../contextual-ee"),e=window.XMLHttpRequest,f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(a){var f=new e(a);return d.emit("new-xhr",[],f),c.inPlace(f,["addEventListener","removeEventListener"],"-",function(a,b){return b}),f.addEventListener("readystatechange",b,!1),f},window.XMLHttpRequest.prototype=e.prototype},{"../contextual-ee":1,"../wrap-function":15}],7:[function(a){function b(a){if("string"==typeof a&&a.length)return a.length;if("object"!=typeof a)return void 0;if("undefined"!=typeof ArrayBuffer&&a instanceof ArrayBuffer&&a.byteLength)return a.byteLength;if("undefined"!=typeof Blob&&a instanceof Blob&&a.size)return a.size;if("undefined"!=typeof FormData&&a instanceof FormData)return void 0;try{return JSON.stringify(a).length}catch(b){return void 0}}function c(a){var c=this.params,d=this.metrics;if(!this.ended){this.ended=!0;for(var e=0;k>e;e++)a.removeEventListener(j[e],this.listener,!1);if(!c.aborted){if(d.duration=(new Date).getTime()-this.startTime,4===a.readyState){c.status=a.status;var g=a.responseType,h="arraybuffer"===g||"blob"===g||"json"===g?a.response:a.responseText,i=b(h);if(i&&(d.rxSize=i),this.sameOrigin){var l=a.getResponseHeader("X-NewRelic-App-Data");l&&(c.cat=l.split(", ").pop())}}else c.status=0;d.cbTime=this.cbTime,f("xhr",[c,d])}}}function d(a,b){var c=g(b),d=a.params;d.host=c.hostname+":"+c.port,d.pathname=c.pathname,a.sameOrigin=c.sameOrigin}function e(a,b){return b}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){a("loader").features.push("xhr");var f=a("handle"),g=a("./parse-url.js"),h=a("../../../wrap-function"),i=a("../../../contextual-ee"),j=["load","error","abort","timeout"],k=j.length,l=a("../../../loader/id");a("../../wrap-events"),a("../../wrap-xhr"),i.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=c,this.ended=!1,this.xhrGuids={}}),h.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",e),i.on("open-xhr-start",function(a){this.params={method:a[0]},d(this,a[1]),this.metrics={}}),i.on("open-xhr-end",function(a,b){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&b.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),i.on("send-xhr-start",function(a,c){var d=this.metrics,e=a[0],f=this;if(d&&e){var g=b(e);g&&(d.txSize=g)}this.startTime=(new Date).getTime(),this.listener=function(a){try{"abort"===a.type&&(f.params.aborted=!0),("load"!==a.type||f.called===f.totalCbs&&(f.onloadCalled||"function"!=typeof c.onload))&&f.end(c)}catch(b){}};for(var h=0;k>h;h++)c.addEventListener(j[h],this.listener,!1)}),i.on("xhr-cb-time",function(a,b,c){this.cbTime+=a,b?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof c.onload||this.end(c)}),i.on("xhr-load-added",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&!this.xhrGuids[c]&&(this.xhrGuids[c]=!0,this.totalCbs+=1)}),i.on("xhr-load-removed",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&this.xhrGuids[c]&&(delete this.xhrGuids[c],this.totalCbs-=1)}),i.on("addEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-added",[a[1],a[2]],b)}),i.on("removeEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-removed",[a[1],a[2]],b)}),i.on("fn-start",function(a,b,c){b instanceof XMLHttpRequest&&("onload"===c&&(this.onload=!0),("load"===(a[0]&&a[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),i.on("fn-end",function(a,b){this.xhrCbStart&&i.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,b],b)})}},{"../../../contextual-ee":1,"../../../loader/id":11,"../../../wrap-function":15,"../../wrap-events":3,"../../wrap-xhr":6,"./parse-url.js":8,handle:"4O2Y62",loader:"YLUGVp"}],8:[function(a,b){b.exports=function(a){var b=document.createElement("a"),c=window.location,d={};b.href=a,d.port=b.port;var e=b.href.split("://");return!d.port&&e[1]&&(d.port=e[1].split("/")[0].split(":")[1]),d.port&&"0"!==d.port||(d.port="https"===e[0]?"443":"80"),d.hostname=b.hostname||c.hostname,d.pathname=b.pathname,"/"!==d.pathname.charAt(0)&&(d.pathname="/"+d.pathname),d.sameOrigin=!b.hostname||b.hostname===document.domain&&b.port===c.port&&b.protocol===c.protocol,d}},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],11:[function(a,b){function c(a){if(!a||"object"!=typeof a&&"function"!=typeof a)return-1;if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!0,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&&a.agent&&a.licenseKey&&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],14:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}],15:[function(a,b){function c(a,b,c,d){function nrWrapper(){var g,h=f(arguments),i=this,j=c&&c(h,i)||{};try{e.emit(b+"start",[h,i,d],j)}catch(k){}try{return g=a.apply(i,h)}catch(l){throw e.emit(b+"err",[h,i,l],j),l}finally{try{e.emit(b+"end",[h,i,g],j)}catch(k){}}}return a&&"function"==typeof a&&a.apply&&!a._wrapped?(b||(b=""),nrWrapper._wrapped=!0,nrWrapper):a}function d(a,b,d,e){d||(d="");var f,g,h,i="-"===d.charAt(0);for(h=0;h<b.length;h++)g=b[h],f=a[g],f&&"function"==typeof f&&f.apply&&!f._wrapped&&(a[g]=c(f,i?g+d:d,e,g,a))}var e=a("../contextual-ee"),f=a("lodash._slice");b.exports=c,c.inPlace=d},{"../contextual-ee":1,"lodash._slice":14}]},{},["YLUGVp",7,2]);</script>
+  <title>Privacy Policy | CivicSolar</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="x-dns-prefetch-control" content="on">
+<link rel="dns-prefetch" href="//d31erm66v9u4gr.cloudfront.net">
+<link rel="shortcut icon" href="//d31erm66v9u4gr.cloudfront.net/sites/default/files/cs_favicon.ico" type="image/x-icon">
 <link href="http://fonts.googleapis.com/css?family=Antic Slab:regular&amp;subset=latin" rel="stylesheet" type="text/css">
 <meta name="description" content="CivicSolar is an innovative solar distributor partnering with installers and developers throughout North America.  We put the power in your hands.">
 <meta name="dcterms.description" content="&nbsp;PRIVACY POLICY">
@@ -15,222 +17,405 @@
 <meta name="copyright" content="Copyright 2009-2010 CivicSolar, Inc.">
 <link rel="canonical" href="http://www.civicsolar.com/privacy-policy">
 <meta name="revisit-after" content="7 days">
-<link type="text/css" rel="stylesheet" media="all" href="http://www.civicsolar.com/sites/default/files/css/A.css_36e26c20db6e56a64235176604f56e4e.css.pagespeed.cf.iOGYVBZKgs.css">
-<link type="text/css" rel="stylesheet" media="print" href="http://www.civicsolar.com/sites/default/files/css/A.css_9f99135628892d054c57eed96b5d05dc.css.pagespeed.cf.otJrYLmodR.css">
-<!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/cs/css/ie.css?a" />
-<![endif]-->
-<!--[if lte IE 6]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/cs/css/ie6.css?a" />
-<![endif]-->
-<!--[if IE 7]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/cs/css/ie7.css?a" />
-<![endif]-->
-<!--[if IE 8]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/cs/css/ie8.css?a" />
-<![endif]-->
-<!--[if gte IE 9]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/cs/css/ie9.css?a" />
-<![endif]-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.civicsolar.com/sites/default/files/js/js_bb6f5fc5da3692dc29b3da749cd75543.js.pagespeed.jm.RRbaIxxeMa.js"></script>
-<script type="text/javascript">//<![CDATA[
-jQuery.extend(Drupal.settings,{"basePath":"/","formtips":{"selectors":[".date-clear\x3ediv",".page-content-tax-exemption-certificate\x3ediv"],"interval":"500","sensitivity":"3","timeout":"1000","max_width":"500px","trigger_action":"click"},"googleanalytics":{"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"lightbox2":{"rtl":0,"file_path":"/(\\w\\w/)sites/default/files","default_image":"/sites/all/modules/contrib/lightbox2/images/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":0,"disable_resize":0,"disable_zoom":0,"force_show_nav":0,"show_caption":true,"loop_items":0,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":1,"slideshow_automatic_exit":1,"show_play_pause":1,"pause_on_next_click":0,"pause_on_previous_click":1,"loop_slides":0,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":0},"CToolsModal":{"loadingText":"Loading...","closeText":"Close Window","closeImage":"\x3cimg src=\"/sites/all/modules/contrib/ctools/images/icon-close-window.png\" alt=\"Close window\" title=\"Close window\" width=\"16\" height=\"16\" /\x3e","throbber":"\x3cimg src=\"/sites/all/modules/contrib/ctools/images/throbber.gif\" alt=\"Loading...\" title=\"Loading\" width=\"32\" height=\"32\" /\x3e"},"cs_vendors_admin":{"min_bill_variance":-200,"max_bill_variance":25},"extlink":{"extTarget":"_blank","extClass":"ext","extSubdomains":1,"extExclude":"","extInclude":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto"},"getQ":"node/1510","superfish":{"1":{"id":1,"sf":{"animation":{"opacity":"show"},"speed":1,"dropShadows":false,"autoArrows":true,"disableHI":false},"plugins":{"supposition":false,"bgiframe":true,"supersubs":{"minWidth":"12.7","maxWidth":"27","extraWidth":1}}}},"uc_ajax_cart":{"CALLBACK":"/uc_ajax_cart/add/item","SHOW_CALLBACK":"/uc_ajax_cart/show","CART_LINK_CALLBACK":"/uc_ajax_cart/addlink","BLOCK_UI":1,"TIMEOUT":2000,"UPDATE_CALLBACK":"/uc_ajax_cart/update","UPDATE":0,"CART_VIEW_ON":0,"SHOW_VIEW_CALLBACK":"/uc_ajax_cart/show-cart-view","TRACK_CLOSED_STATE":1,"INITIAL_CLOSED_STATE":1,"CART_PANE_EFFECT":1,"CART_PANE_EFFECT_DURATION":200,"HIDE_CART_OPERATIONS":false,"COLLAPSIBLE_CART":1,"CART_OPERATION":"","ADD_TITLE":"","ADD_MESSAGES":["Adding product to cart..."],"REMOVE_TITLE":"","REMOVE_MESSAGES":["Removing product from cart..."],"UPDATE_TITLE":"","UPDATE_MESSAGES":["Updating cart..."]},"cs_search":{"path":"/cs_search/autocomplete"}});
-//]]></script>
-<script type="text/javascript">//<![CDATA[
-window.google_analytics_uacct="UA-600042-7";
-//]]></script>
+  <!-- CSS aggregated by CDN module. -->
+<link type="text/css" rel="stylesheet" media="all" href="//d31erm66v9u4gr.cloudfront.net/sites/default/files/css/cdn_css_http_27b15bfe6f27c0812adce431990ec1e4.css">
+<link type="text/css" rel="stylesheet" media="print" href="//d31erm66v9u4gr.cloudfront.net/sites/default/files/css/cdn_css_http_e8d77a4bec724b769278f4f25a008d42.css">
+<!-- CSS aggregated by CDN module. -->
+  <script type="text/javascript" src="//d31erm66v9u4gr.cloudfront.net/sites/default/files/js/js_c39fab001fca743741b85db22ae09872.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "formtips": { "selectors": [ ".date-clear\x3ediv", ".page-content-tax-exemption-certificate\x3ediv" ], "interval": "500", "sensitivity": "3", "timeout": "1000", "max_width": "500px", "trigger_action": "click" }, "googleanalytics": { "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "lightbox2": { "rtl": 0, "file_path": "/(\\w\\w/)sites/default/files", "default_image": "/sites/all/modules/contrib/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": 1, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": 0, "disable_resize": 0, "disable_zoom": 0, "force_show_nav": 0, "show_caption": true, "loop_items": 0, "node_link_text": "View Image Details", "node_link_target": 0, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "original", "image_node_sizes": "()", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": true, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": 1, "slideshow_automatic_exit": 1, "show_play_pause": 1, "pause_on_next_click": 0, "pause_on_previous_click": 1, "loop_slides": 0, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": 0 }, "CToolsModal": { "loadingText": "Loading...", "closeText": "Close Window", "closeImage": "\x3cimg src=\"//d31erm66v9u4gr.cloudfront.net/sites/all/modules/contrib/ctools/images/icon-close-window.png\" alt=\"Close window\" title=\"Close window\" width=\"16\" height=\"16\" /\x3e", "throbber": "\x3cimg src=\"//d31erm66v9u4gr.cloudfront.net/sites/all/modules/contrib/ctools/images/throbber.gif\" alt=\"Loading...\" title=\"Loading\" width=\"32\" height=\"32\" /\x3e" }, "cs_vendors_admin": { "min_bill_variance": -200, "max_bill_variance": 25 }, "extlink": { "extTarget": "_blank", "extClass": "ext", "extSubdomains": 1, "extExclude": "", "extInclude": "", "extAlert": 0, "extAlertText": "This link will take you to an external web site. We are not responsible for their content.", "mailtoClass": "mailto" }, "getQ": "node/1510", "uc_ajax_cart": { "CALLBACK": "/uc_ajax_cart/add/item", "SHOW_CALLBACK": "/uc_ajax_cart/show", "CART_LINK_CALLBACK": "/uc_ajax_cart/addlink", "BLOCK_UI": 1, "TIMEOUT": 2000, "UPDATE_CALLBACK": "/uc_ajax_cart/update", "UPDATE": 0, "CART_VIEW_ON": 0, "SHOW_VIEW_CALLBACK": "/uc_ajax_cart/show-cart-view", "TRACK_CLOSED_STATE": 1, "INITIAL_CLOSED_STATE": 1, "CART_PANE_EFFECT": 1, "CART_PANE_EFFECT_DURATION": 200, "HIDE_CART_OPERATIONS": false, "COLLAPSIBLE_CART": 1, "CART_OPERATION": "", "ADD_TITLE": "", "ADD_MESSAGES": [ "Adding product to cart..." ], "REMOVE_TITLE": "", "REMOVE_MESSAGES": [ "Removing product from cart..." ], "UPDATE_TITLE": "", "UPDATE_MESSAGES": [ "Updating cart..." ] }, "cs_search": { "path": "/cs_search/autocomplete" } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.google_analytics_uacct = "UA-600042-7";
+//--><!]]>
+</script>
 </head>
 <body class="page not-front not-logged-in node-type-page no-sidebars page-privacy-policy section-privacy-policy page-panels">
-<div id="page"><div id="page-inner">
-<div id="skip-to-nav"><a href="#navigation">Skip to Navigation</a></div>
-<div id="header"><div id="header-inner" class="clearfix">
-<div id="name-and-slogan">
-<div id="site-name"><strong>
-<a href="/" title="Home" rel="home">
-CivicSolar </a>
-</strong></div>
-<div id="site-slogan">Direct Solar Distribution</div>
-</div>
-<div id="navbar"><div id="navbar-inner" class="clearfix region region-navbar">
-<a name="navigation" id="navigation"></a>
-<div class="region region-navbar">
-<div id="block-superfish-1" class="block block-superfish first region-odd odd region-count-1 count-1"><div class="block-inner">
-<h2 class="title">Primary links</h2>
-<div class="content">
-<ul id="superfish-1" class="sf-menu sf-primary-links sf-horizontal sf-style-none"><li id="menu-24242-1" class="first sf-depth-1 menuparent"><a href="/products" class="sf-depth-1 menuparent">Products</a><ul><li id="menu-24243-1" class="first sf-depth-2 menuparent"><a href="/manufacturers-products" title="" class="sf-depth-2 menuparent">Manufacturers</a><ul><li id="menu-24337-1" class="first sf-depth-3 sf-no-children"><a href="/advanced-energy" class="sf-depth-3">Advanced Energy</a></li><li id="menu-60824-1" class="middle sf-depth-3 sf-no-children"><a href="http://www.civicsolar.com/aet-solar" title="AET" class="sf-depth-3">AET</a></li><li id="menu-24294-1" class="middle sf-depth-3 sf-no-children"><a href="/amphenol-products" class="sf-depth-3">Amphenol</a></li><li id="menu-24265-1" class="middle sf-depth-3 sf-no-children"><a href="/Apollo-Solar" class="sf-depth-3">Apollo Solar</a></li><li id="menu-24324-1" class="middle sf-depth-3 sf-no-children"><a href="http://www.civicsolar.com/astronergy-solar-panels" title="" class="sf-depth-3">Astronergy</a></li><li id="menu-24336-1" class="middle sf-depth-3 sf-no-children"><a href="http://www.civicsolar.com/benq-solar-panels" title="" class="sf-depth-3">BenQ Solar</a></li><li id="menu-24295-1" class="middle sf-depth-3 sf-no-children"><a href="/blue-sea-systems-products" class="sf-depth-3">Blue Sea Systems</a></li><li id="menu-24277-1" class="middle sf-depth-3 sf-no-children"><a href="/blue-sky-energy" class="sf-depth-3">Blue Sky Energy</a></li><li id="menu-24290-1" class="middle sf-depth-3 sf-no-children"><a href="/bogart-engineering-products" class="sf-depth-3">Bogart Engineering</a></li><li id="menu-24257-1" class="middle sf-depth-3 sf-no-children"><a href="http://www.civicsolar.com/canadian-solar" title="" class="sf-depth-3">Canadian Solar</a></li><li id="menu-76312-1" class="middle sf-depth-3 sf-no-children"><a href="http://www.civicsolar.com/chint-power" title="Chint Power" class="sf-depth-3">Chint Power</a></li><li id="menu-24267-1" class="middle sf-depth-3 sf-no-children"><a href="/Concorde-Solar-Batteries" title="" class="sf-depth-3">Concorde Battery Corp</a></li><li id="menu-24285-1" class="middle sf-depth-3 sf-no-children"><a href="/Conergy" class="sf-depth-3">Conergy</a></li><li id="menu-24299-1" class="middle sf-depth-3 sf-no-children"><a href="/cooper-bussmann-fuse" class="sf-depth-3">Cooper Bussmann</a></li><li id="menu-28664-1" class="middle sf-depth-3 sf-no-children"><a href="http://www.civicsolar.com/cooper-b-line" title="" class="sf-depth-3">Cooper B-Line</a></li><li id="menu-24334-1" class="middle sf-depth-3 sf-no-children"><a href="/DIEHL" class="sf-depth-3">DIEHL</a></li><li id="menu-24307-1" class="middle sf-depth-3 sf-no-children"><a href="/DPW-Solar" class="sf-depth-3">DPW Solar</a></li><li id="menu-24280-1" class="middle sf-depth-3 sf-no-children"><a href="/deck-monitoring-products" title="" class="sf-depth-3">DECK</a></li><li id="menu-24275-1" class="middle sf-depth-3 sf-no-children"><a href="/delta-lightning-surge-arrestor" class="sf-depth-3">Delta Lightning Arrestors</a></li><li id="menu-24333-1" class="middle sf-depth-3 sf-no-children"><a href="/deltec-company" class="sf-depth-3">Deltec Company</a></li><li id="menu-24248-1" class="middle sf-depth-3 sf-no-children"><a href="/et-solar" class="sf-depth-3">ET Solar</a></li><li id="menu-88167-1" class="middle sf-depth-3 sf-no-children"><a href="http://www.civicsolar.com/apachesolr_catalog/manufacturer/32961" title="" class="sf-depth-3">Ecolibrium Solar</a></li><li id="menu-43885-1" class="middle sf-depth-3 sf-no-children"><a href="http://www.civicsolar.com/ecofasten-solar" title="" class="sf-depth-3">Ecofasten Solar</a></li><li id="menu-57875-1" class="middle sf-depth-3 sf-no-children"><a href="http://www.civicsolar.com/Ejot" title="Ejot Fasteners" class="sf-depth-3">Ejot Fasteners</a></li><li id="menu-24252-1" class="middle sf-depth-3 sf-no-children"><a href="/enphase-energy" class="sf-depth-3">Enphase Energy</a></li><li id="menu-24254-1" class="middle sf-depth-3 sf-no-children"><a href="/fronius-inverters" class="sf-depth-3">Fronius</a></li><li id="menu-24313-1" class="middle sf-depth-3 sf-no-children"><a href="/Fullriver-DC-Battery" class="sf-depth-3">Fullriver DC Battery</a></li><li id="menu-27270-1" class="middle sf-depth-3 sf-no-children"><a href="/hanwha-solarone" title="" class="sf-depth-3">Hanwha SolarOne</a></li><li id="menu-24309-1" class="middle sf-depth-3 sf-no-children"><a href="/Radox-Huber-Suhner" class="sf-depth-3">Huber Suhner</a></li><li id="menu-24328-1" class="middle sf-depth-3 sf-no-children"><a href="/IOTA-Engineering" class="sf-depth-3">IOTA Engineering</a></li><li id="menu-24318-1" class="middle sf-depth-3 sf-no-children"><a href="/interstate-batteries" class="sf-depth-3">Interstate Batteries </a></li><li id="menu-24282-1" class="middle sf-depth-3 sf-no-children"><a href="/ironridge-solar-racks-mounts" class="sf-depth-3">Ironridge</a></li><li id="menu-83807-1" class="middle sf-depth-3 sf-no-children"><a href="http://www.civicsolar.com/ISOFOTON" title="ISOFOTON" class="sf-depth-3">ISOFOTON</a></li><li id="menu-99449-1" class="middle sf-depth-3 sf-no-children"><a href="http://www.civicsolar.com/ja-solar" title="" class="sf-depth-3">JA Solar</a></li><li id="menu-24306-1" class="middle sf-depth-3 sf-no-children"><a href="/kaco" class="sf-depth-3">Kaco</a></li><li id="menu-24322-1" class="middle sf-depth-3 sf-no-children"><a href="/kipp-and-zonen" class="sf-depth-3">Kipp and Zonen</a></li><li id="menu-24249-1" class="middle sf-depth-3 sf-no-children"><a href="http://www.civicsolar.com/kyocera-solar-panel" title="" class="sf-depth-3">Kyocera</a></li><li id="menu-39738-1" class="middle sf-depth-3 sf-no-children"><a href="http://www.civicsolar.com/LG" title="" class="sf-depth-3">LG</a></li><li id="menu-24319-1" class="middle sf-depth-3 sf-no-children"><a href="/littelfuse-fuse" class="sf-depth-3">Littelfuse</a></li><li id="menu-24326-1" class="middle sf-depth-3 sf-no-children"><a href="/locus-energy" class="sf-depth-3">Locus Energy</a></li><li id="menu-24279-1" class="middle sf-depth-3 sf-no-children"><a href="/deka-batteries" class="sf-depth-3">MK/ Deka Batteries</a></li><li id="menu-24278-1" class="middle sf-depth-3 sf-no-children"><a href="/magnum-energy" title="" class="sf-depth-3">Magnum Energy</a></li><li id="menu-24311-1" class="middle sf-depth-3 sf-no-children"><a href="/meca-solar" class="sf-depth-3">Meca Solar</a></li><li id="menu-24283-1" class="middle sf-depth-3 sf-no-children"><a href="/Mersen-Ferraz-Shawmut-fuses" class="sf-depth-3">Mersen (Ferraz Shawmut)</a></li><li id="menu-24270-1" class="middle sf-depth-3 sf-no-children"><a href="/MidNite-Solar" class="sf-depth-3">MidNite Solar</a></li><li id="menu-24264-1" class="middle sf-depth-3 sf-no-children"><a href="/morningstar-solar-charge-controller" class="sf-depth-3">Morningstar</a></li><li id="menu-24262-1" class="middle sf-depth-3 sf-no-children"><a href="/multi-contact-solar" class="sf-depth-3">Multi-Contact (MC)</a></li><li id="menu-24314-1" class="middle sf-depth-3 sf-no-children"><a href="/NOV-Monoflo" class="sf-depth-3">NOV Monoflo </a></li><li id="menu-24256-1" class="middle sf-depth-3 sf-no-children"><a href="/outback-power" class="sf-depth-3">OutBack </a></li><li id="menu-24291-1" class="middle sf-depth-3 sf-no-children"><a href="/p3-kill-a-watt" class="sf-depth-3">P3 International</a></li><li id="menu-24253-1" class="middle sf-depth-3 sf-no-children"><a href="/pvpowered-inverters" class="sf-depth-3">PV Powered</a></li><li id="menu-103681-1" class="middle sf-depth-3 sf-no-children"><a href="http://www.civicsolar.com/panasonic" title="" class="sf-depth-3">Panasonic</a></li><li id="menu-52201-1" class="middle sf-depth-3 sf-no-children"><a href="http://www.civicsolar.com/panelclaw" title="PanelClaw Ballasted Racking" class="sf-depth-3">PanelClaw</a></li><li id="menu-24289-1" class="middle sf-depth-3 sf-no-children"><a href="/phocos-charge-controllers" class="sf-depth-3">Phocos</a></li><li id="menu-24321-1" class="middle sf-depth-3 sf-no-children"><a href="/power-one" class="sf-depth-3">Power-One</a></li><li id="menu-24303-1" class="middle sf-depth-3 sf-no-children"><a href="/prosolar" class="sf-depth-3">ProSolar</a></li><li id="menu-24263-1" class="middle sf-depth-3 sf-no-children"><a href="/quick-mount-pv-flashing" class="sf-depth-3">Quick Mount PV</a></li><li id="menu-24305-1" class="middle sf-depth-3 sf-no-children"><a href="/rec" class="sf-depth-3">REC</a></li><li id="menu-76311-1" class="middle sf-depth-3 sf-no-children"><a href="http://www.civicsolar.com/renesola" title="ReneSola" class="sf-depth-3">ReneSola</a></li><li id="menu-24302-1" class="middle sf-depth-3 sf-no-children"><a href="/rennsteig-tools-inc" class="sf-depth-3">Rennsteig Tools Inc.</a></li><li id="menu-95195-1" class="middle sf-depth-3 sf-no-children"><a href="http://www.civicsolar.com/renusol-racking" title="Renusol" class="sf-depth-3">Renusol</a></li><li id="menu-24331-1" class="middle sf-depth-3 sf-no-children"><a href="/rogue-engineering-charge-controllers" class="sf-depth-3">Rogue Engineering</a></li><li id="menu-24281-1" class="middle sf-depth-3 sf-no-children"><a href="/S-5%21" class="sf-depth-3">S-5!</a></li><li id="menu-24251-1" class="middle sf-depth-3 sf-no-children"><a href="/sma-inverters" class="sf-depth-3">SMA</a></li><li id="menu-24293-1" class="middle sf-depth-3 sf-no-children"><a href="/samlex-america-inverters" class="sf-depth-3">Samlex America</a></li><li id="menu-24245-1" class="middle sf-depth-3 sf-no-children"><a href="http://www.civicsolar.com/sanyo-solar" title="" class="sf-depth-3">Sanyo</a></li><li id="menu-98011-1" class="middle sf-depth-3 sf-no-children"><a href="http://www.civicsolar.com/Schneider-Electric" title="" class="sf-depth-3">Schneider Electric</a></li><li id="menu-24244-1" class="middle sf-depth-3 sf-no-children"><a href="http://www.civicsolar.com/sharp-solar" title="" class="sf-depth-3">Sharp</a></li><li id="menu-24315-1" class="middle sf-depth-3 sf-no-children"><a href="/shurflo" class="sf-depth-3">Shurflo </a></li><li id="menu-24335-1" class="middle sf-depth-3 sf-no-children"><a href="/siemens" class="sf-depth-3">Siemens</a></li><li id="menu-24325-1" class="middle sf-depth-3 sf-no-children"><a href="/soladeck" class="sf-depth-3">Soladeck</a></li><li id="menu-24332-1" class="middle sf-depth-3 sf-no-children"><a href="/solar-converters-inc" class="sf-depth-3">Solar Converters Inc.</a></li><li id="menu-24266-1" class="middle sf-depth-3 sf-no-children"><a href="/solar-pathfinder" class="sf-depth-3">Solar Pathfinder</a></li><li id="menu-24310-1" class="middle sf-depth-3 sf-no-children"><a href="/SolarBOS" class="sf-depth-3">SolarBOS</a></li><li id="menu-24312-1" class="middle sf-depth-3 sf-no-children"><a href="/Solar-Edge" class="sf-depth-3">SolarEdge</a></li><li id="menu-76334-1" class="middle sf-depth-3 sf-no-children"><a href="http://www.civicsolar.com/apachesolr_catalog/manufacturer/26927/" title="SolarMax" class="sf-depth-3">SolarMax</a></li><li id="menu-24308-1" class="middle sf-depth-3 sf-no-children"><a href="http://www.civicsolar.com/solarworld-solar" title="" class="sf-depth-3">SolarWorld</a></li><li id="menu-24255-1" class="middle sf-depth-3 sf-no-children"><a href="/solectria-inverters" class="sf-depth-3">Solectria</a></li><li id="menu-24274-1" class="middle sf-depth-3 sf-no-children"><a href="/Solmetric" class="sf-depth-3">Solmetric</a></li><li id="menu-24301-1" class="middle sf-depth-3 sf-no-children"><a href="/sonnen-systems" class="sf-depth-3">Sonnen Systems</a></li><li id="menu-24330-1" class="middle sf-depth-3 sf-no-children"><a href="/specialty-concepts" class="sf-depth-3">Specialty Concepts</a></li><li id="menu-24272-1" class="middle sf-depth-3 sf-no-children"><a href="/squared-products" class="sf-depth-3">Square D</a></li><li id="menu-24288-1" class="middle sf-depth-3 sf-no-children"><a href="/steca-charge-controller" class="sf-depth-3">Steca</a></li><li id="menu-103688-1" class="middle sf-depth-3 sf-no-children"><a href="http://www.civicsolar.com/stion" title="" class="sf-depth-3">Stion</a></li><li id="menu-24316-1" class="middle sf-depth-3 sf-no-children"><a href="/sunpumps" class="sf-depth-3">SunPumps</a></li><li id="menu-24339-1" class="middle sf-depth-3 sf-no-children"><a href="http://www.civicsolar.com/suniva-solar" title="" class="sf-depth-3">Suniva</a></li><li id="menu-24456-1" class="middle sf-depth-3 sf-no-children"><a href="http://www.civicsolar.com/sunlink" title="" class="sf-depth-3">Sunlink</a></li><li id="menu-24269-1" class="middle sf-depth-3 sf-no-children"><a href="/surrette-batteries" class="sf-depth-3">Surrette Battery Company</a></li><li id="menu-24296-1" class="middle sf-depth-3 sf-no-children"><a href="/tti-racking-mounts" title="" class="sf-depth-3">Thompson Technology</a></li><li id="menu-24327-1" class="middle sf-depth-3 sf-no-children"><a href="/tigo-energy" class="sf-depth-3">Tigo Energy</a></li><li id="menu-24250-1" class="middle sf-depth-3 sf-no-children"><a href="http://www.civicsolar.com/trina-solar" title="" class="sf-depth-3">Trina Solar</a></li><li id="menu-24292-1" class="middle sf-depth-3 sf-no-children"><a href="/trojan-batteries-products" class="sf-depth-3">Trojan Battery Company</a></li><li id="menu-24271-1" class="middle sf-depth-3 sf-no-children"><a href="/tyco-electronics-solar" class="sf-depth-3">Tyco Electronics</a></li><li id="menu-24261-1" class="middle sf-depth-3 sf-no-children"><a href="/unirac" class="sf-depth-3">Unirac</a></li><li id="menu-24300-1" class="middle sf-depth-3 sf-no-children"><a href="/wattsun" class="sf-depth-3">Wattsun</a></li><li id="menu-24297-1" class="middle sf-depth-3 sf-no-children"><a href="/wiley-electronics-weeb" class="sf-depth-3">Wiley Electronics</a></li><li id="menu-24260-1" class="middle sf-depth-3 sf-no-children"><a href="/xantrex-inverters" class="sf-depth-3">Xantrex</a></li><li id="menu-67874-1" class="middle sf-depth-3 sf-no-children"><a href="http://www.civicsolar.com/xunlight" title="Xunlight" class="sf-depth-3">Xunlight</a></li><li id="menu-24298-1" class="middle sf-depth-3 sf-no-children"><a href="http://www.civicsolar.com/yingli-solar-panels" title="" class="sf-depth-3">Yingli Solar</a></li><li id="menu-24323-1" class="last sf-depth-3 sf-no-children"><a href="/zomeworks" class="sf-depth-3">Zomeworks </a></li></ul></li><li id="menu-24348-1" class="middle sf-depth-2 sf-no-children"><a href="/solar-panels" class="sf-depth-2">Solar Panels</a></li><li id="menu-24345-1" class="middle sf-depth-2 sf-no-children"><a href="/inverters" class="sf-depth-2">Inverters</a></li><li id="menu-24347-1" class="middle sf-depth-2 sf-no-children"><a href="/products/racking-mounting" class="sf-depth-2">Racking &amp; Mounting</a></li><li id="menu-24342-1" class="middle sf-depth-2 sf-no-children"><a href="/products/batteries" class="sf-depth-2">Batteries</a></li><li id="menu-24343-1" class="middle sf-depth-2 sf-no-children"><a href="/products/charge-controllers" class="sf-depth-2">Charge Controllers</a></li><li id="menu-24346-1" class="middle sf-depth-2 sf-no-children"><a href="/monitoring" class="sf-depth-2">Monitoring</a></li><li id="menu-24344-1" class="last sf-depth-2 sf-no-children"><a href="/install-supplies" class="sf-depth-2">Installation Supplies</a></li></ul></li><li id="menu-21357-1" class="middle sf-depth-1 menuparent"><a href="/installers" title="" class="sf-depth-1 menuparent">Installers</a><ul><li id="menu-103689-1" class="first sf-depth-2 sf-no-children"><a href="/solutions/finance" title="CivicSolar Finance Solutions" class="sf-depth-2">Finance Solutions</a></li><li id="menu-22524-1" class="middle sf-depth-2 sf-no-children"><a href="/solutions/on-grid" title="On Grid Solutions" class="sf-depth-2">On Grid</a></li><li id="menu-22525-1" class="middle sf-depth-2 sf-no-children"><a href="/solutions/off-grid" title="Off Grid Solutions" class="sf-depth-2">Off Grid</a></li><li id="menu-22526-1" class="middle sf-depth-2 sf-no-children"><a href="/solutions/commercial" title="Commercial Solutions" class="sf-depth-2">Commercial</a></li><li id="menu-88169-1" class="last sf-depth-2 sf-no-children"><a href="/solutions/latina-america" title="CivicSolar América Latina " class="sf-depth-2">América Latina</a></li></ul></li><li id="menu-22527-1" class="middle sf-depth-1 sf-no-children"><a href="/installations" title="Featured customer installations" class="sf-depth-1">Projects</a></li><li id="menu-14635-1" class="middle sf-depth-1 menuparent"><a href="/techhelp" title="Questions, answers and articles on all aspects of solar photovoltaic installation" class="sf-depth-1 menuparent">Tech Help</a><ul><li id="menu-14638-1" class="first sf-depth-2 sf-no-children"><a href="/techhelp/?filters=type%3Aquestion&amp;solrsort=created%20desc" title="Questions and answers on solar PV installation" class="sf-depth-2">Questions</a></li><li id="menu-16896-1" class="middle sf-depth-2 sf-no-children"><a href="/techhelp/?filters=type%3Aresource_article&amp;solrsort=created%20desc" title="Articles about products and development in solar technology" class="sf-depth-2">Articles</a></li><li id="menu-103687-1" class="last sf-depth-2 sf-no-children"><a href="/cleanedison" title="Become a CleanEdison Certified Solar Installer" class="sf-depth-2">Training</a></li></ul></li><li id="menu-9159-1" class="last sf-depth-1 menuparent"><a href="/about" title="About" class="sf-depth-1 menuparent">About Us</a><ul><li id="menu-9795-1" class="first sf-depth-2 sf-no-children"><a href="/about" title="" class="sf-depth-2">Overview</a></li><li id="menu-9478-1" class="middle sf-depth-2 sf-no-children"><a href="/manufacturers-products" title="A listing of CivicSolar's trusted manufacturers" class="sf-depth-2">Manufacturers</a></li><li id="menu-9475-1" class="middle sf-depth-2 sf-no-children"><a href="/jobs" title="Job Opportunities" class="sf-depth-2">Job Opportunities</a></li><li id="menu-12459-1" class="middle sf-depth-2 sf-no-children"><a href="/trust-security" title="Trust &amp; Security" class="sf-depth-2">Trust &amp; Security</a></li><li id="menu-9474-1" class="last sf-depth-2 sf-no-children"><a href="/contact" title="Contact CivicSolar" class="sf-depth-2">Contact Us</a></li></ul></li></ul> </div>
-</div></div>
-</div>
-</div></div>
-<div id="header-blocks" class="region region-header">
-<div class="region region-header">
-<div id="block-boxes-global_contact_us_box" class="block block-boxes first region-odd even region-count-1 count-2"><div class="block-inner">
-<div class="content">
-<div id="boxes-box-global_contact_us_box" class="boxes-box"><div class="boxes-box-content"><p>Monday to Friday<span style="float:right; padding-right:10px;">FOLLOW US</span><br>
+  <div id="page"><div id="page-inner">
+
+          <div id="skip-to-nav"><a href="#navigation">Skip to Navigation</a></div>
+    
+    <div id="header"><div id="header-inner" class="clearfix">
+      
+              <div id="name-and-slogan">
+                                    <div id="site-name"><strong>
+                <a href="/" title="Home" rel="home">
+                CivicSolar                </a>
+              </strong></div>
+                      
+                      <div id="site-slogan">Direct Solar Distribution</div>
+                  </div> <!-- /#name-and-slogan -->
+      
+              <div id="navbar"><div id="navbar-inner" class="clearfix region region-navbar">
+          <a name="navigation" id="navigation"></a>
+          <div class="region region-navbar">
+    <div id="block-cs_home-primary-links" class="block block-cs_home first region-odd odd region-count-1 count-1"><div class="block-inner">
+
+  
+  <div class="content">
+    <ul class="menu"><li id="products" class="expanded first"><a href="/products">Products</a><ul class="menu"><li id="manufacturers" class="expanded first"><a href="/manufacturers-products" title="">Manufacturers</a><ul class="menu"><li id="advancedenergy" class="leaf first"><a href="/advanced-energy">Advanced Energy</a></li>
+<li id="aet" class="leaf"><a href="http://www.civicsolar.com/aet-solar" title="AET">AET</a></li>
+<li id="amphenol" class="leaf"><a href="/amphenol-products">Amphenol</a></li>
+<li id="apollosolar" class="leaf"><a href="/Apollo-Solar">Apollo Solar</a></li>
+<li id="astronergy" class="leaf"><a href="http://www.civicsolar.com/astronergy-solar-panels" title="">Astronergy</a></li>
+<li id="benqsolar" class="leaf"><a href="http://www.civicsolar.com/benq-solar-panels" title="">BenQ Solar</a></li>
+<li id="blueseasystems" class="leaf"><a href="/blue-sea-systems-products">Blue Sea Systems</a></li>
+<li id="blueskyenergy" class="leaf"><a href="/blue-sky-energy">Blue Sky Energy</a></li>
+<li id="bogartengineering" class="leaf"><a href="/bogart-engineering-products">Bogart Engineering</a></li>
+<li id="canadiansolar" class="leaf"><a href="http://www.civicsolar.com/canadian-solar" title="">Canadian Solar</a></li>
+<li id="chintpower" class="leaf"><a href="http://www.civicsolar.com/chint-power" title="Chint Power">Chint Power</a></li>
+<li id="concordebatterycorp" class="leaf"><a href="/Concorde-Solar-Batteries" title="">Concorde Battery Corp</a></li>
+<li id="conergy" class="leaf"><a href="/Conergy">Conergy</a></li>
+<li id="cooperbussmann" class="leaf"><a href="/cooper-bussmann-fuse">Cooper Bussmann</a></li>
+<li id="cooperbline" class="leaf"><a href="http://www.civicsolar.com/cooper-b-line" title="">Cooper B-Line</a></li>
+<li id="diehl" class="leaf"><a href="/DIEHL">DIEHL</a></li>
+<li id="dpwsolar" class="leaf"><a href="/DPW-Solar">DPW Solar</a></li>
+<li id="deck" class="leaf"><a href="/deck-monitoring-products" title="">DECK</a></li>
+<li id="degerenergie" class="leaf"><a href="/apachesolr_catalog/manufacturer/27832" title="">DEGERenergie</a></li>
+<li id="deltalightningarrestors" class="leaf"><a href="/delta-lightning-surge-arrestor">Delta Lightning Arrestors</a></li>
+<li id="delteccompany" class="leaf"><a href="/deltec-company">Deltec Company</a></li>
+<li id="etsolar" class="leaf"><a href="/et-solar">ET Solar</a></li>
+<li id="ecolibriumsolar" class="leaf"><a href="http://www.civicsolar.com/apachesolr_catalog/manufacturer/32961" title="">Ecolibrium Solar</a></li>
+<li id="ecofastensolar" class="leaf"><a href="http://www.civicsolar.com/ecofasten-solar" title="">Ecofasten Solar</a></li>
+<li id="ejotfasteners" class="leaf"><a href="http://www.civicsolar.com/Ejot" title="Ejot Fasteners">Ejot Fasteners</a></li>
+<li id="enphaseenergy" class="leaf"><a href="/enphase-energy">Enphase Energy</a></li>
+<li id="fronius" class="leaf"><a href="/fronius-inverters">Fronius</a></li>
+<li id="fullriverdcbattery" class="leaf"><a href="/Fullriver-DC-Battery">Fullriver DC Battery</a></li>
+<li id="hanwhaqcells" class="leaf"><a href="http://www.civicsolar.com/apachesolr_catalog/manufacturer/30685" title="">Hanwha Q CELLS</a></li>
+<li id="hanwhasolarone" class="leaf"><a href="/hanwha-solarone" title="">Hanwha SolarOne</a></li>
+<li id="haticonsolar" class="leaf"><a href="/haticon-solar" title="HatiCon Solar">HatiCon Solar</a></li>
+<li id="hubersuhner" class="leaf"><a href="/Radox-Huber-Suhner">Huber Suhner</a></li>
+<li id="hyundai" class="leaf"><a href="/apachesolr_catalog/manufacturer/31097" title="Hyundai">Hyundai</a></li>
+<li id="iotaengineering" class="leaf"><a href="/IOTA-Engineering">IOTA Engineering</a></li>
+<li id="interstatebatteries" class="leaf"><a href="/interstate-batteries">Interstate Batteries </a></li>
+<li id="ironridge" class="leaf"><a href="/ironridge-solar-racks-mounts">Ironridge</a></li>
+<li id="jasolar" class="leaf"><a href="http://www.civicsolar.com/ja-solar" title="">JA Solar</a></li>
+<li id="kaco" class="leaf"><a href="/kaco">Kaco</a></li>
+<li id="kbracking" class="leaf"><a href="/apachesolr_catalog/manufacturer/33073" title="">KB Racking</a></li>
+<li id="kippandzonen" class="leaf"><a href="/kipp-and-zonen">Kipp and Zonen</a></li>
+<li id="kyocera" class="leaf"><a href="http://www.civicsolar.com/kyocera-solar-panel" title="">Kyocera</a></li>
+<li id="lg" class="leaf"><a href="http://www.civicsolar.com/LG" title="">LG</a></li>
+<li id="littelfuse" class="leaf"><a href="/littelfuse-fuse">Littelfuse</a></li>
+<li id="locusenergy" class="leaf"><a href="/locus-energy">Locus Energy</a></li>
+<li id="mkdekabatteries" class="leaf"><a href="/deka-batteries">MK/ Deka Batteries</a></li>
+<li id="magnumenergy" class="leaf"><a href="/magnum-energy" title="">Magnum Energy</a></li>
+<li id="mecasolar" class="leaf"><a href="/meca-solar">Meca Solar</a></li>
+<li id="mersenferrazshawmut" class="leaf"><a href="/Mersen-Ferraz-Shawmut-fuses">Mersen (Ferraz Shawmut)</a></li>
+<li id="midnitesolar" class="leaf"><a href="/MidNite-Solar">MidNite Solar</a></li>
+<li id="morningstar" class="leaf"><a href="/morningstar-solar-charge-controller">Morningstar</a></li>
+<li id="multicontactmc" class="leaf"><a href="/multi-contact-solar">Multi-Contact (MC)</a></li>
+<li id="novmonoflo" class="leaf"><a href="/NOV-Monoflo">NOV Monoflo </a></li>
+<li id="outback" class="leaf"><a href="/outback-power">OutBack </a></li>
+<li id="p3international" class="leaf"><a href="/p3-kill-a-watt">P3 International</a></li>
+<li id="pvpowered" class="leaf"><a href="/pvpowered-inverters">PV Powered</a></li>
+<li id="panasonic" class="leaf"><a href="http://www.civicsolar.com/panasonic" title="">Panasonic</a></li>
+<li id="panelclaw" class="leaf"><a href="http://www.civicsolar.com/panelclaw" title="PanelClaw Ballasted Racking">PanelClaw</a></li>
+<li id="phocos" class="leaf"><a href="/phocos-charge-controllers">Phocos</a></li>
+<li id="powerone" class="leaf"><a href="/power-one">Power-One</a></li>
+<li id="prosolar" class="leaf"><a href="/prosolar">ProSolar</a></li>
+<li id="quickmountpv" class="leaf"><a href="/quick-mount-pv-flashing">Quick Mount PV</a></li>
+<li id="rec" class="leaf"><a href="/rec">REC</a></li>
+<li id="renesola" class="leaf"><a href="http://www.civicsolar.com/renesola" title="ReneSola">ReneSola</a></li>
+<li id="rennsteigtoolsinc" class="leaf"><a href="/rennsteig-tools-inc">Rennsteig Tools Inc.</a></li>
+<li id="renusol" class="leaf"><a href="http://www.civicsolar.com/renusol-racking" title="Renusol">Renusol</a></li>
+<li id="rogueengineering" class="leaf"><a href="/rogue-engineering-charge-controllers">Rogue Engineering</a></li>
+<li id="s5" class="leaf"><a href="/S-5%21">S-5!</a></li>
+<li id="sma" class="leaf"><a href="/sma-inverters">SMA</a></li>
+<li id="samlexamerica" class="leaf"><a href="/samlex-america-inverters">Samlex America</a></li>
+<li id="sanyo" class="leaf"><a href="http://www.civicsolar.com/sanyo-solar" title="">Sanyo</a></li>
+<li id="schneiderelectric" class="leaf"><a href="http://www.civicsolar.com/Schneider-Electric" title="">Schneider Electric</a></li>
+<li id="sharp" class="leaf"><a href="http://www.civicsolar.com/sharp-solar" title="">Sharp</a></li>
+<li id="siemens" class="leaf"><a href="/siemens">Siemens</a></li>
+<li id="soladeck" class="leaf"><a href="/soladeck">Soladeck</a></li>
+<li id="solarconvertersinc" class="leaf"><a href="/solar-converters-inc">Solar Converters Inc.</a></li>
+<li id="solarpathfinder" class="leaf"><a href="/solar-pathfinder">Solar Pathfinder</a></li>
+<li id="solarbos" class="leaf"><a href="/SolarBOS">SolarBOS</a></li>
+<li id="solaredge" class="leaf"><a href="/Solar-Edge">SolarEdge</a></li>
+<li id="solarmax" class="leaf"><a href="http://www.civicsolar.com/apachesolr_catalog/manufacturer/26927/" title="SolarMax">SolarMax</a></li>
+<li id="solarworld" class="leaf"><a href="http://www.civicsolar.com/solarworld-solar" title="">SolarWorld</a></li>
+<li id="solectria" class="leaf"><a href="/solectria-inverters">Solectria</a></li>
+<li id="solmetric" class="leaf"><a href="/Solmetric">Solmetric</a></li>
+<li id="sonnensystems" class="leaf"><a href="/sonnen-systems">Sonnen Systems</a></li>
+<li id="specialtyconcepts" class="leaf"><a href="/specialty-concepts">Specialty Concepts</a></li>
+<li id="squared" class="leaf"><a href="/squared-products">Square D</a></li>
+<li id="steca" class="leaf"><a href="/steca-charge-controller">Steca</a></li>
+<li id="stion" class="leaf"><a href="http://www.civicsolar.com/stion" title="">Stion</a></li>
+<li id="sunpumps" class="leaf"><a href="/sunpumps">SunPumps</a></li>
+<li id="suniva" class="leaf"><a href="http://www.civicsolar.com/suniva-solar" title="">Suniva</a></li>
+<li id="sunlink" class="leaf"><a href="http://www.civicsolar.com/sunlink" title="">Sunlink</a></li>
+<li id="sunpreme" class="leaf"><a href="http://www.civicsolar.com/apachesolr_catalog/manufacturer/36237" title="">Sunpreme</a></li>
+<li id="surrettebatterycompany" class="leaf"><a href="/surrette-batteries">Surrette Battery Company</a></li>
+<li id="thompsontechnology" class="leaf"><a href="/tti-racking-mounts" title="">Thompson Technology</a></li>
+<li id="tigoenergy" class="leaf"><a href="/tigo-energy">Tigo Energy</a></li>
+<li id="trinasolar" class="leaf"><a href="http://www.civicsolar.com/trina-solar" title="">Trina Solar</a></li>
+<li id="trojanbatterycompany" class="leaf"><a href="/trojan-batteries-products">Trojan Battery Company</a></li>
+<li id="tycoelectronics" class="leaf"><a href="/tyco-electronics-solar">Tyco Electronics</a></li>
+<li id="unirac" class="leaf"><a href="/unirac">Unirac</a></li>
+<li id="wattsun" class="leaf"><a href="/wattsun">Wattsun</a></li>
+<li id="wileyelectronics" class="leaf"><a href="/wiley-electronics-weeb">Wiley Electronics</a></li>
+<li id="xantrex" class="leaf"><a href="/xantrex-inverters">Xantrex</a></li>
+<li id="xunlight" class="leaf"><a href="http://www.civicsolar.com/xunlight" title="Xunlight">Xunlight</a></li>
+<li id="yinglisolar" class="leaf"><a href="http://www.civicsolar.com/yingli-solar-panels" title="">Yingli Solar</a></li>
+<li id="zomeworks" class="leaf last"><a href="/zomeworks">Zomeworks </a></li>
+</ul></li>
+<li id="solarpanels" class="leaf"><a href="/solar-panels">Solar Panels</a></li>
+<li id="inverters" class="leaf"><a href="/inverters">Inverters</a></li>
+<li id="rackingampmounting" class="leaf"><a href="/products/racking-mounting">Racking &amp; Mounting</a></li>
+<li id="batteries" class="leaf"><a href="/products/batteries">Batteries</a></li>
+<li id="chargecontrollers" class="leaf"><a href="/products/charge-controllers">Charge Controllers</a></li>
+<li id="monitoring" class="leaf"><a href="/monitoring">Monitoring</a></li>
+<li id="installationsupplies" class="leaf last"><a href="/install-supplies">Installation Supplies</a></li>
+</ul></li>
+<li id="installers" class="expanded"><a href="/installers" title="">Installers</a><ul class="menu"><li id="financesolutions" class="leaf first"><a href="/solutions/finance" title="CivicSolar Finance Solutions">Finance Solutions</a></li>
+<li id="ongrid" class="leaf"><a href="/solutions/on-grid" title="On Grid Solutions">On Grid</a></li>
+<li id="offgrid" class="leaf"><a href="/solutions/off-grid" title="Off Grid Solutions">Off Grid</a></li>
+<li id="commercial" class="leaf"><a href="/solutions/commercial" title="Commercial Solutions">Commercial</a></li>
+<li id="amricalatina" class="leaf last"><a href="/solutions/latina-america" title="CivicSolar América Latina ">América Latina</a></li>
+</ul></li>
+<li id="projects" class="leaf"><a href="/installations" title="Featured customer installations">Projects</a></li>
+<li id="techhelp" class="expanded"><a href="/techhelp" title="Questions, answers and articles on all aspects of solar photovoltaic installation">Tech Help</a><ul class="menu"><li id="questions" class="leaf first"><a href="/techhelp/?filters=type%3Aquestion&amp;solrsort=created%20desc" title="Questions and answers on solar PV installation">Questions</a></li>
+<li id="articles" class="leaf"><a href="/techhelp/?filters=type%3Aresource_article&amp;solrsort=created%20desc" title="Articles about products and development in solar technology">Articles</a></li>
+<li id="training" class="leaf last"><a href="/cleanedison" title="Become a CleanEdison Certified Solar Installer">Training</a></li>
+</ul></li>
+<li id="aboutus" class="expanded last"><a href="/about" title="About">About Us</a><ul class="menu"><li id="overview" class="leaf first"><a href="/about" title="">Overview</a></li>
+<li id="manufacturers" class="leaf"><a href="/manufacturers-products" title="A listing of CivicSolar's trusted manufacturers">Manufacturers</a></li>
+<li id="jobopportunities" class="leaf"><a href="/jobs" title="Job Opportunities">Job Opportunities</a></li>
+<li id="trustampsecurity" class="leaf"><a href="/trust-security" title="Trust &amp; Security">Trust &amp; Security</a></li>
+<li id="contactus" class="leaf last"><a href="/contact" title="Contact CivicSolar">Contact Us</a></li>
+</ul></li>
+</ul>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+</div><!-- /.region -->
+        </div></div> <!-- /#navbar-inner, /#navbar -->
+      
+      
+              <div id="header-blocks" class="region region-header">
+          <div class="region region-header">
+    <div id="block-boxes-global_contact_us_box" class="block block-boxes first region-odd even region-count-1 count-2"><div class="block-inner">
+
+  
+  <div class="content">
+    <div id="boxes-box-global_contact_us_box" class="boxes-box"><div class="boxes-box-content"><p>Monday to Friday<span style="float:right; padding-right:10px;">FOLLOW US</span><br>
 6:30AM-6:00PM PST<br><br>
-<span class="ph-nu"><a href="tel:18004092257" class="tel">1.800.409.2257</a></span><span style="float:right; padding-right:10px;"><a href="https://www.facebook.com/CivicSolar" target="_blank" title="Facebook"><img src="http://www.civicsolar.com/sites/all/themes/cs/images/icons/xicon-facebook.png.pagespeed.ic.LKdAit2iBf.jpg" border="0" width="27" height="27"></a>
-<a href="https://twitter.com/CivicSolar" target="_blank" title="Twitter"><img src="http://www.civicsolar.com/sites/all/themes/cs/images/icons/xicon-twitter.png.pagespeed.ic.rm5j-wdJF8.jpg" border="0" width="27" height="27"></a></span></p></div></div> </div>
-</div></div>
-<div id="block-boxes-header_promo" class="block block-boxes region-even odd region-count-2 count-3"><div class="block-inner">
-<div class="content">
-<div id="boxes-box-header_promo" class="boxes-box"><div class="boxes-box-content"></div></div> </div>
-</div></div>
-<div id="block-uc_ajax_cart-0" class="block block-uc_ajax_cart region-odd even region-count-3 count-4"><div class="block-inner">
-<div class="content">
-<div id="ajaxCartUpdate" class="load-on-view"><div id="ajax-cart-view-handler"><a href="/cart">View</a> your shopping cart.</div></div> </div>
-</div></div>
-<div id="block-cs_search-search_box" class="block block-cs_search region-even odd region-count-4 count-5"><div class="block-inner">
-<div class="content">
-<form action="/privacy-policy" accept-charset="UTF-8" method="post" id="cs-search-block-form">
+<span class="ph-nu"><a href="tel:18004092257" class="tel">1.800.409.2257</a></span><span style="float:right; padding-right:10px;"><a href="https://www.facebook.com/CivicSolar" target="_blank" title="Facebook"><img src="/sites/all/themes/cs/images/icons/icon-facebook.png" border="0"></a>
+<a href="https://twitter.com/CivicSolar" target="_blank" title="Twitter"><img src="/sites/all/themes/cs/images/icons/icon-twitter.png" border="0"></a></span></p></div></div>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+  <div id="block-boxes-header_promo" class="block block-boxes region-even odd region-count-2 count-3"><div class="block-inner">
+
+  
+  <div class="content">
+    <div id="boxes-box-header_promo" class="boxes-box"><div class="boxes-box-content"></div></div>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+  <div id="block-uc_ajax_cart-0" class="block block-uc_ajax_cart region-odd even region-count-3 count-4"><div class="block-inner">
+
+  
+  <div class="content">
+    <div id="ajaxCartUpdate" class="load-on-view"><div id="ajax-cart-view-handler"><a href="/cart">View</a> your shopping cart.</div></div>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+  <div id="block-cs_search-search_box" class="block block-cs_search region-even odd region-count-4 count-5"><div class="block-inner">
+
+  
+  <div class="content">
+    <form action="/privacy-policy" accept-charset="UTF-8" method="post" id="cs-search-block-form">
 <div><div class="container-inline"><div class="form-item" id="edit-query-wrapper">
-<input type="text" maxlength="128" name="query" id="edit-query" size="10" value="" class="form-text cs-search-instant unprocessed" placeholder="Search CivicSolar">
+ <input type="text" maxlength="128" name="query" id="edit-query" size="10" value="" class="form-text cs-search-instant unprocessed" placeholder="Search CivicSolar">
 </div>
 <div class="form-item" id="edit-meta-type-wrapper">
-<select name="meta_type" class="form-select" id="edit-meta-type"><option value="" selected="selected">All Categories</option><option value="products">Products</option><option value="techhelp">Tech Help</option><option value="manufacturers">Manufacturers</option></select>
+ <select name="meta_type" class="form-select" id="edit-meta-type"><option value="" selected="selected">All Categories</option><option value="products">Products</option><option value="techhelp">Tech Help</option><option value="manufacturers">Manufacturers</option></select>
 </div>
-<span class="form-button-wrapper"><input type="submit" name="op" id="edit-submit" value="Search" class="form-submit"></span></div><input type="hidden" name="form_build_id" id="form-030121ba5dd75eb9a4bcec0a70501c01" value="form-030121ba5dd75eb9a4bcec0a70501c01">
+<span class="form-button-wrapper"><input type="submit" name="op" id="edit-submit" value="Search" class="form-submit"></span></div><input type="hidden" name="form_build_id" id="form-YRN_QkY0W8OkeTrwSRt0Yvy22jKVR0eBWDj79W6bu1w" value="form-YRN_QkY0W8OkeTrwSRt0Yvy22jKVR0eBWDj79W6bu1w">
 <input type="hidden" name="form_id" id="edit-cs-search-block-form" value="cs_search_block_form">
+
 </div></form>
-</div>
-</div></div>
-<div id="block-cs_misc-2" class="block block-cs_misc region-odd even region-count-5 count-6"><div class="block-inner">
-<div class="content">
-<ul id="utility" class="sf-menu menu-utility sf-horizontal sf-style-none sf-js-enabled">
-<li id="menu-1059-2" class="middle sf-depth-1 sf-no-children"><a href="/user" title="Login to CivicSolar" class="sf-depth-1">Login</a></li>
-<li class="menu-1064 menu-path-user-register menu-item-even " id="menu-1064"><a href="/user/register"><span class="tab">Register</span></a></li>
-<li id="menu-18970" class="menu-18970 menu-path-node-495 menu-item-odd "><a href="/contact"><span class="tab">Contact</span></a></li>
-<li id="menu-1200-2" class="last sf-depth-1 sf-no-children"><a href="/help" title="" class="sf-depth-1">Help</a></li>
-</ul> </div>
-</div></div>
-</div>
-</div>
-</div></div>
-<div id="main" class="clear-block"><div id="main-inner" class="clearfix clear-block">
-<div id="content">
-<div id="content-inner">
-<div id="content-header">
-<div id="breadcrumb">
-<div class="breadcrumb"><a href="/">Home</a> › Privacy Policy</div> </div>
-<h1 class="title">
-Privacy Policy </h1>
-</div>
-<div id="content-area">
-<div id="node-1510" class="node node-type-page build-mode-full"><div class="node-inner">
-<div class="content">
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+  <div id="block-cs_misc-2" class="block block-cs_misc region-odd even region-count-5 count-6"><div class="block-inner">
+
+  
+  <div class="content">
+    <ul id="utility" class="sf-menu menu-utility sf-horizontal sf-style-none sf-js-enabled">
+               	<li id="menu-1059-2" class="middle sf-depth-1 sf-no-children"><a href="/user" title="Login to CivicSolar" class="sf-depth-1">Login</a></li>
+               	<li class="menu-1064 menu-path-user-register menu-item-even " id="menu-1064"><a href="/user/register"><span class="tab">Register</span></a></li>
+                <li id="menu-18970" class="menu-18970 menu-path-node-495 menu-item-odd "><a href="/contact"><span class="tab">Contact</span></a></li>
+               	<li id="menu-1200-2" class="last sf-depth-1 sf-no-children"><a href="/help" title="" class="sf-depth-1">Help</a></li>
+               </ul>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+</div><!-- /.region -->
+        </div> <!-- /#header-blocks -->
+      
+    </div></div> <!-- /#header-inner, /#header -->
+
+    <div id="main" class="clear-block"><div id="main-inner" class="clearfix clear-block">
+      
+            
+      
+      <div id="content">
+        <div id="content-inner">
+          
+        
+        
+                
+                  <div id="content-header">
+                                    <div id="breadcrumb">
+              <div class="breadcrumb"><a href="/">Home</a> › Privacy Policy</div>            </div>
+            
+                        
+                                          <h1 class="title">
+                  Privacy Policy                                  </h1>
+                                      
+                          
+                                  </div> <!-- /#content-header -->
+        
+        <div id="content-area">
+          <div id="node-1510" class="node node-type-page build-mode-full"><div class="node-inner">
+
+  
+  
+
+  
+  
+  <div class="content">
+    <p>
+	&nbsp;<strong>PRIVACY POLICY</strong></p>
 <p>
-&nbsp;<strong>PRIVACY POLICY</strong></p>
+	Last updated June 10, 2010&nbsp;<br>
+	<br>
+	Thank you for visiting CivicSolar. We want you to know that your privacy is important to us. Our customers are at the heart of everything we do, and we strive to ensure your experience with CivicSolar is one that you will want to repeat and share with your others. Part of our commitment to you is to respect and protect the privacy of the personal information you provide to us. The information below is designed to inform you of what information we collect, why we collect such information, and how we use the information we collect. This Privacy Policy is incorporated into our&nbsp;<a href="http://www.civicsolar.com/terms-service">Terms of Service</a>.&nbsp;<br>
+	<br>
+	When you submit your personal information to us, you are giving us your consent to the collection, use, and disclosure of your information as set forth in this Privacy Policy. We are always available to discuss your questions or concerns regarding this Privacy Policy and our privacy practices. If you would like to speak to a customer service representative, please contact us via telephone at 1-800-409-2257 or email at <a href="mailto:info@civicsolar.com">info@civicsolar.com</a>.&nbsp;<br>
+	<br>
+	CivicSolar will occasionally update this Privacy Policy. When a revision is made we will revise the "last updated" date on this page. We encourage you to check the date of our Privacy Policy each time you visit our Website for any updates or changes. Your use of our Website constitutes your consent to this Privacy Policy, including any changes or updates. We may make additional features, functionality, offers, activities, or events ("opportunities") available to you subject to additional or different privacy rules that we disclose in connection with those opportunities.&nbsp;<br>
+	<br>
+	<em>International Transfers</em>. Information collected on this Website may be stored and processed in the United States or any other country in which CivicSolar or its affiliates, subsidiaries or agents maintain facilities and by using this Website, you consent to any such transfer of information outside of your country. CivicSolar abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of data from the European Union. By using the Website and providing personal information to us, you consent to any such transfer of information outside of your country. Be advised that personal information may be made available, without your knowledge, to the United States government or its agencies, or those of governments in any other country where we or our service providers store or process personal information, under a lawful order made in that country.&nbsp;</p>
 <p>
-Last updated June 10, 2010&nbsp;<br>
-<br>
-Thank you for visiting CivicSolar. We want you to know that your privacy is important to us. Our customers are at the heart of everything we do, and we strive to ensure your experience with CivicSolar is one that you will want to repeat and share with your others. Part of our commitment to you is to respect and protect the privacy of the personal information you provide to us. The information below is designed to inform you of what information we collect, why we collect such information, and how we use the information we collect. This Privacy Policy is incorporated into our&nbsp;<a href="http://www.civicsolar.com/terms-service">Terms of Service</a>.&nbsp;<br>
-<br>
-When you submit your personal information to us, you are giving us your consent to the collection, use, and disclosure of your information as set forth in this Privacy Policy. We are always available to discuss your questions or concerns regarding this Privacy Policy and our privacy practices. If you would like to speak to a customer service representative, please contact us via telephone at 1-800-409-2257 or email at <a href="mailto:info@civicsolar.com">info@civicsolar.com</a>.&nbsp;<br>
-<br>
-CivicSolar will occasionally update this Privacy Policy. When a revision is made we will revise the "last updated" date on this page. We encourage you to check the date of our Privacy Policy each time you visit our Website for any updates or changes. Your use of our Website constitutes your consent to this Privacy Policy, including any changes or updates. We may make additional features, functionality, offers, activities, or events ("opportunities") available to you subject to additional or different privacy rules that we disclose in connection with those opportunities.&nbsp;<br>
-<br>
-<em>International Transfers</em>. Information collected on this Website may be stored and processed in the United States or any other country in which CivicSolar or its affiliates, subsidiaries or agents maintain facilities and by using this Website, you consent to any such transfer of information outside of your country. CivicSolar abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of data from the European Union. By using the Website and providing personal information to us, you consent to any such transfer of information outside of your country. Be advised that personal information may be made available, without your knowledge, to the United States government or its agencies, or those of governments in any other country where we or our service providers store or process personal information, under a lawful order made in that country.&nbsp;</p>
+	<strong>Collection and Use of Information</strong></p>
 <p>
-<strong>Collection and Use of Information</strong></p>
+	<em>General</em>. In general, you can browse our Website without telling us who you are or revealing any personal information about yourself. At various times, you may decide to provide us with your personal information. You should know that we receive and may store all personal information (whether written or oral) that you provide to us through whatever means you provide such information (through our Website, via e-mail, over the telephone, etc.). Personal information means any information that may be used to identify an individual, including, but not limited to, a first and last name, home, billing or other physical address or email address as well as any information associated with the foregoing. In addition to your contact information, we may collect information about your purchases, billing address, shipping address, gender, occupation, birthday, marital status, anniversary, interests, phone number or other contact information, and credit card information. We may combine the information you provide to us over time and we may combine such information with information that is publicly available, collected through data collection devices, and information that we receive from our partners, affiliates and other third parties.</p>
 <p>
-<em>General</em>. In general, you can browse our Website without telling us who you are or revealing any personal information about yourself. At various times, you may decide to provide us with your personal information. You should know that we receive and may store all personal information (whether written or oral) that you provide to us through whatever means you provide such information (through our Website, via e-mail, over the telephone, etc.). Personal information means any information that may be used to identify an individual, including, but not limited to, a first and last name, home, billing or other physical address or email address as well as any information associated with the foregoing. In addition to your contact information, we may collect information about your purchases, billing address, shipping address, gender, occupation, birthday, marital status, anniversary, interests, phone number or other contact information, and credit card information. We may combine the information you provide to us over time and we may combine such information with information that is publicly available, collected through data collection devices, and information that we receive from our partners, affiliates and other third parties.</p>
+	<strong>Use of Your Personal Information</strong></p>
 <p>
-<strong>Use of Your Personal Information</strong></p>
-<p>
-We may use the information we collect about you to:</p>
+	We may use the information we collect about you to:</p>
 <ul>
-<li>
-Facilitate your purchases and provide the services you request,</li>
-<li>
-Confirm and track your order,</li>
-<li>
-Respond to your inquiries and requests,</li>
-<li>
-Compare and review your personal information for errors, omissions and accuracy,</li>
-<li>
-Prevent and detect fraud or abuse,</li>
-<li>
-Improve our Website, service, product offerings, marketing and promotional efforts, and overall customer experience,</li>
-<li>
-Identify your product and service preferences,</li>
-<li>
-Understand our customer demographics, preferences, interests, and behavior, and</li>
-<li>
-Contact you (via email, postal mail, or telephone) regarding products and services (of CivicSolar or our partners) that we believe may be of interest to you.</li>
+	<li>
+		Facilitate your purchases and provide the services you request,</li>
+	<li>
+		Confirm and track your order,</li>
+	<li>
+		Respond to your inquiries and requests,</li>
+	<li>
+		Compare and review your personal information for errors, omissions and accuracy,</li>
+	<li>
+		Prevent and detect fraud or abuse,</li>
+	<li>
+		Improve our Website, service, product offerings, marketing and promotional efforts, and overall customer experience,</li>
+	<li>
+		Identify your product and service preferences,</li>
+	<li>
+		Understand our customer demographics, preferences, interests, and behavior, and</li>
+	<li>
+		Contact you (via email, postal mail, or telephone) regarding products and services (of CivicSolar or our partners) that we believe may be of interest to you.</li>
 </ul>
 <p>
-<em>Send this Product to a Friend and Refer a Friend</em>. Using a CivicSolar form, you can refer a friend to the CivicSolar Website or send them product information. You and your friend's names and e-mail addresses are requested to ensure that your friend will know that you have requested that CivicSolar send them an e-mail. The information we collect about you and your friend will be used in ways described in this privacy policy.&nbsp;</p>
+	<em>Send this Product to a Friend and Refer a Friend</em>. Using a CivicSolar form, you can refer a friend to the CivicSolar Website or send them product information. You and your friend's names and e-mail addresses are requested to ensure that your friend will know that you have requested that CivicSolar send them an e-mail. The information we collect about you and your friend will be used in ways described in this privacy policy.&nbsp;</p>
 <p>
-<strong>Personal Information that we May Share with Others</strong></p>
+	<strong>Personal Information that we May Share with Others</strong></p>
 <p>
-In certain circumstances, we may share your personal information with trusted partners.&nbsp;</p>
+	In certain circumstances, we may share your personal information with trusted partners.&nbsp;</p>
 <ul>
-<li>
-<strong>Service Providers</strong>: We use trusted third-party service providers to perform certain services on our behalf, including: shipping, payment processing, data storage/management, webhosting, web analytics, fulfillment, assembly, marketing, mailing, emailing, etc. These service providers only receive personal information if such information is needed to perform their function(s), and they are not authorized to use any personal information for any other purpose(s) other than the purpose(s) set forth by CivicSolar.<br>
-&nbsp;</li>
-<li>
-<strong>Special Events:</strong>&nbsp;If you choose to participate in a special event (for example, a promotion, contest, or sweepstakes), CivicSolar may share your personal information with those organizations participating in the applicable event. Unless we tell you otherwise in connection with a special event, these third parties do not use your information for any other purpose other than to manage the event. We may authorize trusted partners to send you information about products and services that may be of interest to you.<br>
-&nbsp;</li>
-<li>
-<strong>Partners</strong>: CivicSolar may provide information to carefully selected partners. In such cases, we might share and/or cross-reference information, including personal information about you that will enable such persons or entities to contact you regarding products and services that may be of interest to you, such as financing services for purchasing CivicSolar products.<br>
-&nbsp;</li>
-<li>
-<strong>Compliance with Law and Fraud Protection</strong>: We may, and you authorize us to use and disclose any information, including personal information: (1) we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process, or governmental request; (2) in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any personal or as otherwise required by law; (3) to other companies and organizations for credit fraud protection and risk reduction; and (4) to enforce any agreement we have with you.</li>
-<li>
-<strong>Business Transfer</strong>: Your personal information may be disclosed as part of any merger, sale of company assets or acquisition, as well as in the event of an insolvency, bankruptcy or receivership, in which personal information would be transferred as one of the business assets of the Company.</li>
+	<li>
+		<strong>Service Providers</strong>: We use trusted third-party service providers to perform certain services on our behalf, including: shipping, payment processing, data storage/management, webhosting, web analytics, fulfillment, assembly, marketing, mailing, emailing, etc. These service providers only receive personal information if such information is needed to perform their function(s), and they are not authorized to use any personal information for any other purpose(s) other than the purpose(s) set forth by CivicSolar.<br>
+		&nbsp;</li>
+	<li>
+		<strong>Special Events:</strong>&nbsp;If you choose to participate in a special event (for example, a promotion, contest, or sweepstakes), CivicSolar may share your personal information with those organizations participating in the applicable event. Unless we tell you otherwise in connection with a special event, these third parties do not use your information for any other purpose other than to manage the event. We may authorize trusted partners to send you information about products and services that may be of interest to you.<br>
+		&nbsp;</li>
+	<li>
+		<strong>Partners</strong>: CivicSolar may provide information to carefully selected partners. In such cases, we might share and/or cross-reference information, including personal information about you that will enable such persons or entities to contact you regarding products and services that may be of interest to you, such as financing services for purchasing CivicSolar products.<br>
+		&nbsp;</li>
+	<li>
+		<strong>Compliance with Law and Fraud Protection</strong>: We may, and you authorize us to use and disclose any information, including personal information: (1) we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process, or governmental request; (2) in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any personal or as otherwise required by law; (3) to other companies and organizations for credit fraud protection and risk reduction; and (4) to enforce any agreement we have with you.</li>
+	<li>
+		<strong>Business Transfer</strong>: Your personal information may be disclosed as part of any merger, sale of company assets or acquisition, as well as in the event of an insolvency, bankruptcy or receivership, in which personal information would be transferred as one of the business assets of the Company.</li>
 </ul>
 <p>
-<em>Anonymous Information</em>. We may create anonymous records from personal information by excluding information (such as your name) that makes the information personally identifiable to you. We may use these records for internal purposes, such as analyzing usage patterns so that we may enhance our services, and we also reserve the right to use and disclose any information in such records at our discretion.&nbsp;<br>
-<br>
-<em>Comments</em>. We value your comments, feedback, testimonials, etc., which help us improve our website, products, and services. By making such submissions to us, you assign your rights in the submissions to us, as described in the "Submissions" section of our&nbsp;<a href="http://www.bluenile.com/product_policies.jsp">Terms and Conditions</a>&nbsp;page.&nbsp;</p>
+	<em>Anonymous Information</em>. We may create anonymous records from personal information by excluding information (such as your name) that makes the information personally identifiable to you. We may use these records for internal purposes, such as analyzing usage patterns so that we may enhance our services, and we also reserve the right to use and disclose any information in such records at our discretion.&nbsp;<br>
+	<br>
+	<em>Comments</em>. We value your comments, feedback, testimonials, etc., which help us improve our website, products, and services. By making such submissions to us, you assign your rights in the submissions to us, as described in the "Submissions" section of our&nbsp;<a href="http://www.bluenile.com/product_policies.jsp">Terms and Conditions</a>&nbsp;page.&nbsp;</p>
 <p>
-<strong>Other Uses of Your Information</strong></p>
+	<strong>Other Uses of Your Information</strong></p>
 <p>
-<em>IP Address</em>. When you visit our Website, CivicSolar collects your IP address to, among other things, help diagnose problems with its server, administer and tune the operation of its Website, analyze trends, track traffic patterns, gather demographic information for aggregate use, and track the date and duration of each session within our Website. Your IP address may also be used in combination with your personal information to prevent fraud or abuse, customize your shopping experience, improve our website, customer service, products, and promotional efforts, and to understand your preferences, patterns and interests.&nbsp;<br>
-<br>
-<em>Data Collection Devices, such as Cookies and Web Beacons</em>. In some instances, CivicSolar may collect data through cookies, web logs, web beacons (also known as pixel gifs or action tags) and other monitoring technologies to enhance your browsing and shopping experience on our website. "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive to collect information about your activities on our website. Web beacons are small strings of code placed on a web page or within an email for the purpose of transferring information.&nbsp;<br>
-<br>
-We use cookies and web beacons to deliver our ads, improve and measure the usability, track visits from our affiliates and partners, performance and effectiveness of our Website, improve and measure the effectiveness of our marketing programs, learn how customers use our website, estimate our audience size, deliver co-branded services, and to customize your shopping experience. Examples of the type of information that we collect through these collection devices, includes: total visitors to the website, pages viewed, unique visitors, time spent on our Website and on certain web pages, etc.&nbsp;<br>
-<br>
-We may authorize third parties to use cookies, web beacons and other monitoring technologies to compile information about the use of the Website or interaction with advertisements that appear on the Website.&nbsp;<br>
-<br>
-You are always free to decline cookies if your browser permits; although, by declining the use of cookies you may not be able to use certain features on the Website.&nbsp;</p>
+	<em>IP Address</em>. When you visit our Website, CivicSolar collects your IP address to, among other things, help diagnose problems with its server, administer and tune the operation of its Website, analyze trends, track traffic patterns, gather demographic information for aggregate use, and track the date and duration of each session within our Website. Your IP address may also be used in combination with your personal information to prevent fraud or abuse, customize your shopping experience, improve our website, customer service, products, and promotional efforts, and to understand your preferences, patterns and interests.&nbsp;<br>
+	<br>
+	<em>Data Collection Devices, such as Cookies and Web Beacons</em>. In some instances, CivicSolar may collect data through cookies, web logs, web beacons (also known as pixel gifs or action tags) and other monitoring technologies to enhance your browsing and shopping experience on our website. "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive to collect information about your activities on our website. Web beacons are small strings of code placed on a web page or within an email for the purpose of transferring information.&nbsp;<br>
+	<br>
+	We use cookies and web beacons to deliver our ads, improve and measure the usability, track visits from our affiliates and partners, performance and effectiveness of our Website, improve and measure the effectiveness of our marketing programs, learn how customers use our website, estimate our audience size, deliver co-branded services, and to customize your shopping experience. Examples of the type of information that we collect through these collection devices, includes: total visitors to the website, pages viewed, unique visitors, time spent on our Website and on certain web pages, etc.&nbsp;<br>
+	<br>
+	We may authorize third parties to use cookies, web beacons and other monitoring technologies to compile information about the use of the Website or interaction with advertisements that appear on the Website.&nbsp;<br>
+	<br>
+	You are always free to decline cookies if your browser permits; although, by declining the use of cookies you may not be able to use certain features on the Website.&nbsp;</p>
 <p>
-<strong>Children under 13</strong></p>
+	<strong>Children under 13</strong></p>
 <p>
-CivicSolar does not knowingly collect personal information from children under the age of 13. If we learn that we have collected personally identifiable information from a child under the age of 13, we will delete that data from our systems. Please visit the FTC's website at <a href="http://www.ftc.gov" title="www.ftc.gov">www.ftc.gov</a> for tips on protecting children's privacy online.&nbsp;</p>
+	CivicSolar does not knowingly collect personal information from children under the age of 13. If we learn that we have collected personally identifiable information from a child under the age of 13, we will delete that data from our systems. Please visit the FTC's website at <a href="http://www.ftc.gov" title="www.ftc.gov">www.ftc.gov</a> for tips on protecting children's privacy online.&nbsp;</p>
 <p>
-<strong>Links</strong></p>
+	<strong>Links</strong></p>
 <p>
-Our Website may provide links to other third-party Websites which are outside our control and not covered by this privacy policy. We encourage you to review the privacy policies posted on these (and all) Websites.&nbsp;</p>
+	Our Website may provide links to other third-party Websites which are outside our control and not covered by this privacy policy. We encourage you to review the privacy policies posted on these (and all) Websites.&nbsp;</p>
 <p>
-<strong>Security</strong></p>
+	<strong>Security</strong></p>
 <p>
-CivicSolar is committed to the protection of the personally identifiable information that you share with us. We utilize a combination of physical and electronic security technologies, procedures, and organizational measures to help protect your personally identifiable information from unauthorized access, use or disclosure. When we transfer sensitive personal information (for example, credit card information) over the Internet, we protect it using Secure Sockets Layer (SSL) encryption technology. While we strive to safeguard your personal information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure and, accordingly, we cannot guarantee or warrant the security of any information you disclose or transmit to us.&nbsp;</p>
+	CivicSolar is committed to the protection of the personally identifiable information that you share with us. We utilize a combination of physical and electronic security technologies, procedures, and organizational measures to help protect your personally identifiable information from unauthorized access, use or disclosure. When we transfer sensitive personal information (for example, credit card information) over the Internet, we protect it using Secure Sockets Layer (SSL) encryption technology. While we strive to safeguard your personal information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure and, accordingly, we cannot guarantee or warrant the security of any information you disclose or transmit to us.&nbsp;</p>
 <p>
-<strong>Accessing and Updating Your Information</strong></p>
+	<strong>Accessing and Updating Your Information</strong></p>
 <p>
-If the personally identifiable information CivicSolar has gathered from you changes or you would like to access, correct, or delete such information, we will gladly provide you access to, correct, or delete (to the extent allowed by law) any personal information we have collected about you. To request access to, a correction to, or deletion of your personal information, please send an e-mail to&nbsp;<a href="mailto:info@civicsolar.com">info@civicsolar.com</a> or contact one of our solar consultants at 800-409-2257.&nbsp;</p>
+	If the personally identifiable information CivicSolar has gathered from you changes or you would like to access, correct, or delete such information, we will gladly provide you access to, correct, or delete (to the extent allowed by law) any personal information we have collected about you. To request access to, a correction to, or deletion of your personal information, please send an e-mail to&nbsp;<a href="mailto:info@civicsolar.com">info@civicsolar.com</a> or contact one of our solar consultants at 800-409-2257.&nbsp;</p>
 <p>
-<strong>Choice/Opt-Out</strong></p>
+	<strong>Choice/Opt-Out</strong></p>
 <p>
-We want to communicate with you only if you want to continue to hear from us.&nbsp;<br>
-<br>
-To opt out of receiving email promotions that we send you: (1) select "unsubscribe" on our subscription status page and enter the requested information or follow the unsubscribe instructions in any of our promotional emails; or (2) write to Customer Service at 582 Market Street Suite 1603 San Francisco, CA 94104 (a "postal request").<br>
-<br>
-Opting out of communication with us does not affect our communications with you via telephone or email related to your orders with us. It also does not affect our use of your non-personally identifiable information.&nbsp;</p>
+	We want to communicate with you only if you want to continue to hear from us.&nbsp;<br>
+	<br>
+	To opt out of receiving email promotions that we send you: (1) select "unsubscribe" on our subscription status page and enter the requested information or follow the unsubscribe instructions in any of our promotional emails; or (2) write to Customer Service at 582 Market Street Suite 1603 San Francisco, CA 94104 (a "postal request").<br>
+	<br>
+	Opting out of communication with us does not affect our communications with you via telephone or email related to your orders with us. It also does not affect our use of your non-personally identifiable information.&nbsp;</p>
 <p>
-<strong>Your California Privacy Rights</strong></p>
+	<strong>Your California Privacy Rights</strong></p>
 <p>
-If you are a California resident and would like a copy of our notice describing what categories of personal information we share with third parties or corporate affiliates for their direct marketing purposes and the names and addresses of the third parties and affiliates that received your information in the past year, please submit a written request to the following address: CivicSolar Customer Service at 582 Market Street Suite 1603 San Francisco, CA 94104; attn: California Privacy. Please allow up to 30 days for us to process your request. You may submit such a request once per year.&nbsp;</p> </div>
-</div></div>
-</div>
-</div></div>
-</div></div>
-<div id="footer">
-<div id="footer-inner" class="region region-footer clear-block">
-<div class="region region-footer">
-<div id="block-menu-menu-footer" class="block block-menu first region-odd odd region-count-1 count-7 clear-block"><div class="block-inner">
-<div class="content">
-<ul class="menu"><li id="home" class="leaf first"><a href="/" title="Return to CivicSolar homepage">Home</a></li>
+	If you are a California resident and would like a copy of our notice describing what categories of personal information we share with third parties or corporate affiliates for their direct marketing purposes and the names and addresses of the third parties and affiliates that received your information in the past year, please submit a written request to the following address: CivicSolar Customer Service at 582 Market Street Suite 1603 San Francisco, CA 94104; attn: California Privacy. Please allow up to 30 days for us to process your request. You may submit such a request once per year.&nbsp;</p>  </div>
+
+  
+</div></div> <!-- /node-inner, /node -->
+        </div>
+
+                
+        
+               
+      </div></div> <!-- /#content-inner, /#content -->
+
+      
+      
+    </div></div> <!-- /#main-inner, /#main -->
+              <div id="footer">
+        <div id="footer-inner" class="region region-footer clear-block">
+                    <div class="region region-footer">
+    <div id="block-menu-menu-footer" class="block block-menu first region-odd odd region-count-1 count-7 clear-block"><div class="block-inner">
+
+  
+  <div class="content">
+    <ul class="menu"><li id="home" class="leaf first"><a href="/" title="Return to CivicSolar homepage">Home</a></li>
 <li id="companyinformation" class="expanded active-trail"><span class="linkless">Company Information</span><ul class="menu"><li id="about" class="leaf first"><a href="/about" title="">About</a></li>
 <li id="manufacturers" class="leaf"><a href="/manufacturers-products" title="">Manufacturers</a></li>
 <li id="trustampsecurity" class="leaf"><a href="/trust-security" title="Learn about CivicSolar's commitment to customer service and transaction security.">Trust &amp; Security</a></li>
@@ -247,49 +432,75 @@ If you are a California resident and would like a copy of our notice describing 
 <li id="followus" class="expanded last"><span class="linkless">Follow Us</span><ul class="menu"><li id="facebook" class="leaf first"><a href="http://www.facebook.com/pages/CivicSolar/113055716398" title="Follow CivicSolar on Facebook">Facebook</a></li>
 <li id="twitter" class="leaf last"><a href="http://www.twitter.com/civicsolar" title="Follow CivicSolar on Twitter">Twitter</a></li>
 </ul></li>
-</ul> </div>
-</div></div>
-<div id="block-boxes-vr_optin" class="block block-boxes region-even even region-count-2 count-8"><div class="block-inner">
-<div class="content">
-<div id="boxes-box-vr_optin" class="boxes-box"><div class="boxes-box-content"><form method="post" action="http://oi.vresp.com?fid=b969d49ef8">
+</ul>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+  <div id="block-boxes-vr_optin" class="block block-boxes region-even even region-count-2 count-8"><div class="block-inner">
+
+  
+  <div class="content">
+    <div id="boxes-box-vr_optin" class="boxes-box"><div class="boxes-box-content"><form method="post" action="http://oi.vresp.com?fid=b969d49ef8">
 <p>Sign up to receive weekly news, articles and offers from your solar experts</p>
 <input name="email_address" id="email" size="15" value="Enter your e-mail..." onfocus="if(this.value == 'Enter your e-mail...') {this.value=''}" onblur="if(this.value == ''){this.value ='Enter your e-mail...'}">
 <span class="form-button-wrapper"><input type="submit" name="op" id="edit-submit" value="Sign up" class="form-submit"></span>
-</form></div></div> </div>
-</div></div>
-</div>
-</div>
-<div id="footer-message">Copyright © 2009-2013 CivicSolar, Inc.</div>
-</div>
-</div></div>
-<div id="closure-blocks" class="region region-closure"><div class="region region-closure-region">
-<div id="block-boxes-google_remarketing_box" class="block block-boxes first region-odd odd region-count-1 count-9"><div class="block-inner">
-<div class="content">
-<div id="boxes-box-google_remarketing_box" class="boxes-box"><div class="boxes-box-content">
-<script type="text/javascript">//<![CDATA[
-var google_conversion_id=1037939528;var google_conversion_language="en";var google_conversion_format="3";var google_conversion_color="666666";var google_conversion_label="AxueCJK0zwEQyOb27gM";var google_conversion_value=0;
-//]]></script>
-<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js"></script>
+</form></div></div>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+</div><!-- /.region -->
+        </div>
+                  <div id="footer-message">Copyright © 2009-2013 CivicSolar, Inc.</div>
+              </div> <!-- /#footer-inner, /#footer -->
+      </div></div> <!-- /#page-inner, /#page -->
+
+      <div id="closure-blocks" class="region region-closure"><div class="region region-closure-region">
+    <div id="block-boxes-google_remarketing_box" class="block block-boxes first region-odd odd region-count-1 count-9"><div class="block-inner">
+
+  
+  <div class="content">
+    <div id="boxes-box-google_remarketing_box" class="boxes-box"><div class="boxes-box-content"><!-- Google Code for Visitors Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1037939528;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "AxueCJK0zwEQyOb27gM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+</script>
 <noscript>
 <div style="display:inline;">
 <img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1037939528/?label=AxueCJK0zwEQyOb27gM&amp;guid=ON&amp;script=0"/>
 </div>
-</noscript></div></div> </div>
-</div></div>
+</noscript></div></div>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+</div><!-- /.region -->
 </div>
-</div>
-<script type="text/javascript">//<![CDATA[
+  
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
 document.write(unescape("%3Cscript src=\"//checkout.google.com/files/digital/ga_post.js\" type=\"text/javascript\"%3E%3C/script%3E"));
-//]]></script><script src="//checkout.google.com/files/digital/ga_post.js" type="text/javascript"></script>
-<script type="text/javascript">//<![CDATA[
-var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-600042-7"]);_gaq.push(["_setVar","anonymous user"]);_gaq.push(['_setCustomVar',1,"User roles","anonymous user",1]);_gaq.push(["_setDomainName",".civicsolar.com"]);_gaq.push(["_trackPageview"]);(function(){var ga=document.createElement("script");ga.type="text/javascript";ga.async=true;ga.src=("https:"==document.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga,s);})();
-//]]></script>
-<script type="text/javascript">//<![CDATA[
-jQuery.extend(Drupal.settings,{"CToolsAJAX":{"scripts":{"/sites/all/modules/contrib/jquery_update/replace/jquery.min.js":true,"/misc/drupal.js":true,"/sites/all/modules/custom/cs_checkout/js/cs_checkout.js":true,"/sites/all/modules/contrib/formtips/hoverintent.minified.js":true,"/sites/all/modules/contrib/formtips/formtips.js":true,"/sites/all/modules/contrib/google_analytics/googleanalytics.js":true,"/sites/all/modules/contrib/lightbox2/js/lightbox.js":true,"/sites/all/modules/contrib/panels/js/panels.js":true,"/sites/all/libraries/superfish/jquery.hoverIntent.minified.js":true,"/sites/all/libraries/superfish/jquery.bgiframe.min.js":true,"/sites/all/libraries/superfish/superfish.js":true,"/sites/all/libraries/superfish/supersubs.js":true,"/sites/all/modules/contrib/superfish/superfish.js":true,"/sites/all/modules/contrib/jquery_update/replace/jquery.form.js":true,"/sites/all/modules/contrib/ctools/js/ajax-responder.js":true,"/sites/all/modules/contrib/ctools/js/modal.js":true,"/sites/all/modules/custom/cs_misc/js/cs_misc_ctools.js":true,"/sites/all/modules/contrib/extlink/extlink.js":true,"/sites/all/modules/contrib/boxes/boxes.js":true,"/sites/all/modules/contrib/ubercart/contrib/uc_ajax_cart/js/jquery.blockUI.js":true,"/sites/all/modules/contrib/ubercart/contrib/uc_ajax_cart/js/uc_ajax_cart.js":true,"/sites/all/modules/contrib/ubercart/contrib/uc_ajax_cart/js/jquery.cookie.js":true,"/sites/all/modules/custom/cs_search/cs_search_instant.js":true,"/sites/all/modules/custom/instant_questions/jQueryAutocompletePlugin/jquery.autocomplete.js":true},"css":{"/modules/node/node.css":true,"/modules/system/defaults.css":true,"/modules/system/system.css":true,"/modules/system/system-menus.css":true,"/sites/all/modules/contrib/cck/theme/content-module.css":true,"/sites/all/modules/contrib/ctools/css/ctools.css":true,"/sites/all/modules/contrib/date/date.css":true,"/sites/all/modules/contrib/jquery_ui/jquery.ui/themes/base/ui.datepicker.css":true,"/sites/all/modules/contrib/date/date_popup/themes/jquery.timeentry.css":true,"/sites/all/modules/contrib/filefield/filefield.css":true,"/sites/all/modules/contrib/formtips/formtips.css":true,"/sites/all/modules/contrib/lightbox2/css/lightbox.css":true,"/sites/all/modules/contrib/logintoboggan/logintoboggan.css":true,"/sites/all/modules/contrib/panels/css/panels.css":true,"/sites/all/libraries/superfish/css/superfish.css":true,"/sites/all/libraries/superfish/css/superfish-vertical.css":true,"/sites/all/libraries/superfish/css/superfish-navbar.css":true,"/sites/all/modules/contrib/switchtheme/switchtheme.css":true,"/sites/all/modules/contrib/ubercart/shipping/uc_quote/uc_quote.css":true,"/sites/all/modules/contrib/ubercart/shipping/uc_ups/uc_ups.css":true,"/sites/all/modules/contrib/ubercart/uc_order/uc_order.css":true,"/sites/all/modules/contrib/ubercart/uc_product/uc_product.css":true,"/sites/all/modules/contrib/ubercart/uc_store/uc_store.css":true,"/sites/all/modules/contrib/views_table_highlighter/views_table_highlighter.css":true,"/sites/all/modules/custom/instant_questions/css/instant_questions.css":true,"/sites/all/modules/contrib/ctools/css/modal.css":true,"/sites/all/modules/user/user.css":true,"/sites/all/modules/contrib/extlink/extlink.css":true,"/sites/all/modules/contrib/cck/modules/fieldgroup/fieldgroup.css":true,"/sites/all/modules/contrib/views/css/views.css":true,"/sites/all/modules/contrib/boxes/boxes.css":true,"/sites/all/modules/contrib/ubercart/contrib/uc_ajax_cart/css/uc_ajax_cart.css":true,"/sites/all/themes/cs/css/html-reset.css":true,"/sites/all/themes/cs/css/wireframes.css":true,"/sites/all/themes/cs/css/layout-fixed.css":true,"/sites/all/themes/cs/css/page-backgrounds.css":true,"/sites/all/themes/cs/css/navigation.css":true,"/sites/all/themes/cs/css/pages.css":true,"/sites/all/themes/cs/css/tabs.css":true,"/sites/all/themes/cs/css/solargoodness.css":true,"/sites/all/themes/cs/css/messages.css":true,"/sites/all/themes/cs/css/block-editing.css":true,"/sites/all/themes/cs/css/blocks.css":true,"/sites/all/themes/cs/css/views-styles.css":true,"/sites/all/themes/cs/css/nodes.css":true,"/sites/all/themes/cs/css/comments.css":true,"/sites/all/themes/cs/css/forms.css":true,"/sites/all/themes/cs/css/fields.css":true,"/sites/all/themes/cs/galleryformatter/galleryformatter.css":true,"/sites/all/themes/cs/css/__brian-cs.css":true,"/sites/all/themes/cs/css/__cs-techhelp.css":true,"/sites/all/themes/cs/css/__cs_apachesolr.css":true,"/sites/all/themes/cs/css/print.css":true}}});
-//]]></script>
-<div style="display: none;">
-<img src="http://www.civicsolar.com/sites/all/themes/cs/images/search-loading.gif.pagespeed.ce.8gkyK5vDuI.gif" alt="" width="16" height="16">
-</div>
+//--><!]]>
+</script><script src="//checkout.google.com/files/digital/ga_post.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-600042-7"]);_gaq.push(["_setDomainName", ".civicsolar.com"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "CToolsAJAX": { "scripts": { "/sites/all/modules/contrib/jquery_update/replace/jquery.min.js": true, "/misc/drupal.js": true, "/sites/all/modules/custom/cs_checkout/js/cs_checkout.js": true, "/sites/all/modules/contrib/formtips/hoverintent.minified.js": true, "/sites/all/modules/contrib/formtips/formtips.js": true, "/sites/all/modules/contrib/google_analytics/googleanalytics.js": true, "/sites/all/modules/contrib/lightbox2/js/lightbox.js": true, "/sites/all/modules/contrib/panels/js/panels.js": true, "/sites/all/modules/contrib/jquery_plugin/jquery.cookie.min.js": true, "/misc/tableselect.js": true, "/sites/all/modules/features/cs_opps/js/cs_opps.js": true, "/sites/all/modules/contrib/jquery_update/replace/jquery.form.js": true, "/sites/all/modules/contrib/ctools/js/ajax-responder.js": true, "/sites/all/modules/contrib/ctools/js/modal.js": true, "/sites/all/modules/custom/cs_misc/js/cs_misc_ctools.js": true, "/sites/all/modules/contrib/extlink/extlink.js": true, "/sites/all/modules/contrib/boxes/boxes.js": true, "/sites/all/modules/contrib/ubercart/contrib/uc_ajax_cart/js/jquery.blockUI.js": true, "/sites/all/modules/contrib/ubercart/contrib/uc_ajax_cart/js/uc_ajax_cart.js": true, "/sites/all/modules/contrib/ubercart/contrib/uc_ajax_cart/js/jquery.cookie.js": true, "/sites/all/modules/custom/cs_search/cs_search_instant.js": true, "/sites/all/modules/custom/instant_questions/jQueryAutocompletePlugin/jquery.autocomplete.js": true }, "css": { "/modules/node/node.css": true, "/modules/system/defaults.css": true, "/modules/system/system.css": true, "/modules/system/system-menus.css": true, "/modules/user/user.css": true, "/sites/all/modules/contrib/cck/theme/content-module.css": true, "/sites/all/modules/contrib/ckeditor/ckeditor.css": true, "/sites/all/modules/contrib/ctools/css/ctools.css": true, "/sites/all/modules/contrib/date/date.css": true, "/sites/all/modules/contrib/jquery_ui/jquery.ui/themes/base/ui.datepicker.css": true, "/sites/all/modules/contrib/date/date_popup/themes/jquery.timeentry.css": true, "/sites/all/modules/contrib/filefield/filefield.css": true, "/sites/all/modules/contrib/formtips/formtips.css": true, "/sites/all/modules/contrib/lightbox2/css/lightbox.css": true, "/sites/all/modules/contrib/logintoboggan/logintoboggan.css": true, "/sites/all/modules/contrib/panels/css/panels.css": true, "/sites/all/modules/contrib/switchtheme/switchtheme.css": true, "/sites/all/modules/contrib/ubercart/shipping/uc_quote/uc_quote.css": true, "/sites/all/modules/contrib/ubercart/shipping/uc_ups/uc_ups.css": true, "/sites/all/modules/contrib/ubercart/uc_order/uc_order.css": true, "/sites/all/modules/contrib/ubercart/uc_product/uc_product.css": true, "/sites/all/modules/contrib/ubercart/uc_store/uc_store.css": true, "/sites/all/modules/contrib/views_table_highlighter/views_table_highlighter.css": true, "/sites/all/modules/custom/instant_questions/css/instant_questions.css": true, "/sites/all/modules/contrib/ctools/css/modal.css": true, "/sites/all/modules/contrib/extlink/extlink.css": true, "/sites/all/modules/contrib/cck/modules/fieldgroup/fieldgroup.css": true, "/sites/all/modules/contrib/views/css/views.css": true, "/sites/all/modules/contrib/boxes/boxes.css": true, "/sites/all/modules/contrib/ubercart/contrib/uc_ajax_cart/css/uc_ajax_cart.css": true, "/sites/all/themes/cs/css/html-reset.css": true, "/sites/all/themes/cs/css/wireframes.css": true, "/sites/all/themes/cs/css/layout-fixed.css": true, "/sites/all/themes/cs/css/page-backgrounds.css": true, "/sites/all/themes/cs/css/navigation.css": true, "/sites/all/themes/cs/css/pages.css": true, "/sites/all/themes/cs/css/tabs.css": true, "/sites/all/themes/cs/css/solargoodness.css": true, "/sites/all/themes/cs/css/messages.css": true, "/sites/all/themes/cs/css/block-editing.css": true, "/sites/all/themes/cs/css/blocks.css": true, "/sites/all/themes/cs/css/views-styles.css": true, "/sites/all/themes/cs/css/nodes.css": true, "/sites/all/themes/cs/css/comments.css": true, "/sites/all/themes/cs/css/forms.css": true, "/sites/all/themes/cs/css/fields.css": true, "/sites/all/themes/cs/galleryformatter/galleryformatter.css": true, "/sites/all/themes/cs/css/__brian-cs.css": true, "/sites/all/themes/cs/css/__cs-techhelp.css": true, "/sites/all/themes/cs/css/__cs_apachesolr.css": true, "/sites/all/themes/cs/css/print.css": true } } });
+//--><!]]>
+</script>
+  <div style="display: none;">
+  <img src="/sites/all/themes/cs/images/search-loading.gif" alt="">
+  </div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"7b1be4556a","applicationID":"2770223","transactionName":"NAEGbBEHV0cHBkFYCw1LMUoKSVBaAgBNHxQLFA==","queueTime":0,"applicationTime":66,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-361.min.js"}</script>
 
-
-</body></html>
+<script src="https://js-agent.newrelic.com/nr-361.min.js"></script></body></html>
