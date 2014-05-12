@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livinglanguage.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130202405id_/http%3A//www.livinglanguage.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livinglanguage.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512031725id_/http%3A//livinglanguage.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Living Language
+# Privacy Policy | Living Language
 
 Last Changes to Privacy Policy: July 1, 2013
 
