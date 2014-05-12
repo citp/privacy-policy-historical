@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ref.so privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829020412id_/http%3A//www.ref.so/user/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ref.so privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512025443id_/http%3A//www.ref.so/user/privacy.html) for the most accurate reproduction.*
 
 # Ref.so - Easy share, Quick earn
 
@@ -26,7 +26,7 @@ Privacy Policy for changes over time, we recommend that you check the relevant n
 
 ####  3\. access to your data 
 
-You have the right to log in at any time, upload, download their own files, and modify personal information. If you for some reason can not log in to your ref.so space, or you want to modify the personal information provided to us, you through the support@ref.so Contact Us 
+You have the right to log in at any time, upload, download their own files, and modify personal information. If you for some reason can not log in to your ref.so space, or you want to modify the personal information provided to us, you through the refso@outlook.com Contact Us 
 
 ####  4\. How do we protect your information 
 
@@ -46,4 +46,4 @@ ref.so Web site may contain links to other Internet sites maintained by third pa
 
 ####  6\. Contact Us 
 
-For our privacy policy if you have any questions or comments, please contact us at support@ref.so 
+For our privacy policy if you have any questions or comments, please contact us at refso@outlook.com 
