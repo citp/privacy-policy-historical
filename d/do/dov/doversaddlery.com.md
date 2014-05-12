@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doversaddlery.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110184718id_/http%3A//www.doversaddlery.com/Privacy/a/75) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doversaddlery.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512115702id_/http%3A//www.doversaddlery.com/Privacy/a/75) for the most accurate reproduction.*
 
 # Dover Saddlery Privacy Policy
 
