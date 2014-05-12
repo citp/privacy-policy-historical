@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the customercarephonenumber.in privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111064733id_/http%3A//www.customercarephonenumber.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customercarephonenumber.in privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512225056id_/http%3A//www.customercarephonenumber.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Customer Care Phone Number
 
-This Privacy Policy governs the manner in which Customers Forum collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.customercarephonenumber.in](http://www.generateprivacypolicy.com/account/policies/edit/www.customercarephonenumber.in) website (“Site”). This privacy policy applies to the Site and all products and services offered by [Technosack Systech Pvt. Ltd.](http://www.tsplsolutions.com/).
+This Privacy Policy governs the manner in which Customers Forum collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.customercarephonenumber.in](http://www.customercarephonenumber.in/) website (“Site”). This privacy policy applies to the Site and all products and services offered by [Technosack Systech Pvt. Ltd.](http://www.tsplsolutions.com/).
 
 **Personal identification information**
 
@@ -61,7 +61,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [Technosack Systech Pvt. Ltd.](http://www.tsplsolutions.com/)  
-[www.customercarephonenumber.in](http://www.generateprivacypolicy.com/account/policies/edit/www.customercarephonenumber.in)  
+[www.customercarephonenumber.in](http://www.customercarephonenumber.in/)  
 customercarephonenumber.in@gmail.com
 
 This document was last updated on December 29, 2012
