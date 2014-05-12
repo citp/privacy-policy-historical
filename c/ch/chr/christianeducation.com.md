@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the christianeducation.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616181309id_/http%3A//www.christianeducation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianeducation.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512051225id_/http%3A//www.christianeducation.com/privacy) for the most accurate reproduction.*
 
-# Christian Education Privacy Policy | ChristianEducation.com
+# Frequently Asked Questions About ChristianEducation.com | ChristianEducation.com
 
 ## Privacy Policy
 
-[](https://privacy.truste.com/privacy-seal/eLearners-com,-Inc-/validation?rid=d76b4de5-dd03-4789-955a-c87cd33e0dc2 "TRUSTe online privacy certification")
+[ ](https://privacy.truste.com/privacy-seal/eLearners-com,-Inc-/validation?rid=d76b4de5-dd03-4789-955a-c87cd33e0dc2 "TRUSTe online privacy certification")
 
 This is the privacy policy ("Privacy Policy") for the Web site ("Site") for Christian Education ("CE") www.christianeducation.com. This Privacy Policy describes how we treat personal information received about you when you visit our Site.
 
-Please read this Privacy Policy carefully, because by visiting or using this Site, you agree to its terms. 
+Please read this Privacy Policy carefully, because by visiting or using this Site, you agree to its terms.
 
-We may revise this Privacy Policy from time to time. When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page www.christianeducation.com or by e-mail of this Site that the policy has been updated and by changing the date on this page noting when the policy was last updated. If you see a notice of change, please check the Privacy Policy, because your continued use of the Site after we post the change means you have agreed to the new terms. 
+We may revise this Privacy Policy from time to time. When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page www.christianeducation.com or by e-mail of this Site that the policy has been updated and by changing the date on this page noting when the policy was last updated. If you see a notice of change, please check the Privacy Policy, because your continued use of the Site after we post the change means you have agreed to the new terms.
 
-###  Collection of Your Data
+### Collection of Your Data
 
 Personal Data. When you fill out a "Student Matching Profile", our Self-Assessment, our Financial Aid Estimator, and at other times, we ask for some information about you, such as your name, age, email address, postal address, and phone number, level of education, desired level of educational program, areas of interest, current occupation, military status (if any), governmental loan status. We do not knowingly collect information from children under the age of 13. 
 
 Anonymous Data. We automatically collect IP addresses and Web site usage information from you when you visit the Site. This information helps us evaluate how our visitors use and navigate the Site on an aggregate basis, including the number and frequency of visitors to each Web page, and the length of their visits. 
 
-###  How We Use Your Information And How We Share Your Data
+### How We Use Your Information And How We Share Your Data
 
 EducationDynamics will not disclose your personally identifiable information except as described below: 
 
@@ -36,15 +36,15 @@ Additionally, EducationDynamics uses your information to provide you with a cust
 
 We cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Policy. For example, we may be forced to disclose information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they unlawfully collect from the Site. We will try to protect your privacy, however, we do not promise, and you should not expect, that your personal information or private communications will always remain private. 
 
-##  Newsletter Subscription
+## Newsletter Subscription
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the “Choice and Opt-out” section.
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the “Choice and Opt-out” section. 
 
-##  Choice and Opt-out 
+## Choice and Opt-out 
 
-You can let us know that you do not wish us to share your information with third parties for marketing purposes or to notify you about our own products and services and special offers by opting out at the time that you submit your Student Matching Profile or by sending us a written request either by email to [ unsubscribe@christianeducation.com](mailto:unsubscribe@christianeducation.com?Subject=Unsubscribe) or via postal mail.
+You can let us know that you do not wish us to share your information with third parties for marketing purposes or to notify you about our own products and services and special offers by opting out at the time that you submit your Student Matching Profile or by sending us a written request either by email to [unsubscribe@christianeducation.com](mailto:unsubscribe@christianeducation.com?Subject=Unsubscribe) or via postal mail. 
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by clicking on the following [ link](http://www.christianeducation.com/emailunsubscribe.aspx) to add your email address and/or telephone number directly to our Unsubscribe/Do Not Call lists. Please address postal mail requests to: 
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by clicking on the following [link](http://www.edcooutintem.com/o-dntcf-d21-cf1d5d5b5d0aabebe49f4974db2f688a) to add your email address and/or telephone number directly to our Unsubscribe/Do Not Call lists. Please address postal mail requests to: 
 
 > Attn: Unsubscribe   
 >  Christian Education   
@@ -55,7 +55,7 @@ If you no longer wish to receive our newsletter and promotional communications, 
 Please be aware that we do not control the activities of the educational institutions with which we match your profile or any third parties to whom we have provided your information for marketing purposes. If you wish them to stop contacting you, you will need to notify them of this fact separately.   
 
 
-###  Cookies and Other Technology
+### Cookies and Other Technology
 
 We use cookies to allow you to move quickly through our site, to recognize repeat visitors and to allow you to take advantage of some of our site’s special features. A cookie is a string of information that is sent by a Web site and stored on your hard drive or temporarily in your computer’s memory. Cookies are small files and won’t pose any significant disk-space concerns. No cookies are linked to personally identifiable information. Cookies are stored to remember your education selection and to prevent duplicate leads from the same IP address from being created and to make it easier for you to navigate our site, in order for you to use our matching services.
 
@@ -68,44 +68,44 @@ We use web beacons (invisible images often referred to as pixel tags or clear GI
 We use TargusInfo validation to verify that the phone number and address entered match, in order to accurately match you to your chosen course of study and school program. TargusInfo validation is not linked to any personal identifiable information.   
 
 
-##  Third Party Cookies
+## Third Party Cookies
 
 The use of cookies by our partners, affiliates, or service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, or service providers use session ID cookies to make it easier for you to navigate our site, in order for you to use our matching services.  
 
 
-##  Supplementation of Information __
+## Supplementation of Information __
 
 In order to provide accurate school matching services to you, we may on occasion supplement the personally identifiable information you submitted to us with information from third party sources. 
 
-##  Address and Phone Number Verification
+## Address and Phone Number Verification
 
 We use TargusInfo validation to verify your address and phone number, in order to accurately match you to your chosen course of study and school program. 
 
-##  Tell-A-Friend Feature  
+## Tell-A-Friend Feature  
 __
 
 If you choose to use our referral service to email a friend or bookmark a page, about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Addthis.com functionality does not store this information for the sole purpose of sending this one-time email. 
 
-##  Customer Testimonials
+## Customer Testimonials
 
 We post customer testimonials on our web site which may contain personally identifiable information like a video along with their first and last name. We do obtain the customer's consent via email prior to posting the testimonial to post their name and video along with their testimonial. 
 
-###  Ads for CE
+### Ads for CE
 
 When you view an ad for CE on other sites, our third-party advertising company may place or recognize a unique cookie on your browser. CE and our advertising company may also use Web beacons (invisible images often referred to as pixel tags or clear GIFs) to note which pages of the Site you visit after viewing our ads. The information that is collected through the use of these images is not personally identifiable and is used only to track response to our advertising efforts.   
 
 
-###  Links to Other Web Sites
+### Links to Other Web Sites
 
 If you click on a link to a third party site, including on an advertisement, you will leave the www.christianeducation.com site you are visiting and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as www.christianeducation.com. We encourage you to review the privacy statements of any other service provider from whom you request services. If you visit a third party website that is linked to an www.christianeducation.com site, you should read that site’s privacy statement before providing any personally identifiable information.  
 
 
-###  Transfer to the United States
+### Transfer to the United States
 
 If you are located outside of the United States, please note that the personal data you provide to us will be transferred to the United States. Whenever you submit any personal data to us, you consent to this transfer.   
 
 
-###  Review and Correction
+### Review and Correction
 
 You may review and update the personal data you have provided to us contacting us via e-mail at [info@christianeducation.com](mailto:info@christianeducation.com) or by sending us written notice via postal mail to: 
 
@@ -115,27 +115,29 @@ You may review and update the personal data you have provided to us contacting u
 >  3rd Floor  
 >  Boca Raton, Florida 33487 
 
-Any revisions you provide to your personal data will be applied in our own records but will not be updated in the records of the educational institutions to which we have already provided your data. If you would like to review and correct the personal data that has been provided to educational institutions, you will need to contact them separately.
+Any revisions you provide to your personal data will be applied in our own records but will not be updated in the records of the educational institutions to which we have already provided your data. If you would like to review and correct the personal data that has been provided to educational institutions, you will need to contact them separately. 
 
-##  Security Practices 
+## Security Practices 
 
-We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
 If you have any questions about security on our Web site, you can send email us at [info@christianeducation.com](mailto:info@christianeducation.com).  
 
 
-##  Business Transfers
+## Business Transfers
 
-In the event that someone buys or acquires us or substantially all of our assets, our information about you and your use of our services will likely be one of the acquired assets.
+In the event that someone buys or acquires us or substantially all of our assets, our information about you and your use of our services will likely be one of the acquired assets. 
 
-##  Legal Disclaimer
+## Legal Disclaimer
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. 
 
-##  Truste Privacy
+## Truste Privacy
 
-Christian Education is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [http://www.christianeducation.com/privacy.aspx](https://web.archive.org/privacy.aspx). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Christian Education is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [http://www.christianeducation.com/privacy.aspx](https://web.archive.org/privacy.aspx). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact Christian Education at info@christianeducation.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact Christian Education at info@christianeducation.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 This updated policy is effective as of October 24, 2012 
+
+[](https://web.archive.org/financial-aid)
