@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theatlanticcities.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202184527id_/http%3A//www.theatlanticcities.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theatlanticcities.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513004710id_/http%3A//www.theatlanticcities.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Atlantic Cities
 
