@@ -1,167 +1,153 @@
-> *The following text is extracted and transformed from the performance-zone.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515125556id_/http%3A//www.bvhealthsystem.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the performance-zone.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512080956id_/http%3A//www.bvhealthsystem.org/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Blanchard Valley Health System
 
-  
+**NOTICE OF PRIVACY PRACTICES**
+
+**THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.**
+
+**Terms of the Notice of Privacy Practice**
+
+This Notice of Privacy Practice (Notice) is provided to you as a requirement of the Health Information Portability and Accountability Act (HIPAA). The terms of this Notice of Privacy Practices apply to Blanchard Valley Health System operating as a clinically integrated health care arrangement composed of Blanchard Valley Regional Health Center, Continuing Care Services and Blanchard Valley Medical Practices. The members of this clinically integrated health care arrangement work and practice at Blanchard Valley Hospital, Bluffton Hospital, Birchaven Village, Independence House, Bridge Home Health & Hospice, Northwest Ohio Medical Equipment, Physicians Plus Urgent Care, Primary Care Medical Offices, BVHS Specialty Physician Offices, Caughman Health Center, Blanchard Valley (BV) Regional Cancer Center, BV Rehabilitation & Sports Medicine, Women & Children’s Center, Well at Work Occupational Health, Creighton Dialysis, EasternWoods Outpatient Center, BV Sleep Disorders Center, Wound Care Solutions, Pain Management Center for Medication Management, Hanco EMS, BVHS Health Plan and any other entity of BVHS. All of the entities listed will share personal health information of our patients as necessary to carry out treatment, payment, and health care operations as permitted by law.
+
+“Personal health information” is individually identifiable health information. This information includes demographics, for example, age, address, e-mail address, and relates to your past, present, or future physical or mental health or condition and related health care services. We are required by law to maintain the privacy of our patients' personal health information, to provide patients with notice of our legal duties and privacy practices with respect to your personal health information and to notify you in the unlikely event of a breach or unauthorized disclosure of your personal health information. We are required to abide by the terms of this Notice so long as it remains in effect. We reserve the right to change the terms of this Notice of Privacy Practices as necessary and to make the new Notice effective for all personal health information maintained by us. You may receive a copy of any revised Notices at any of the above listed BVHS locations, electronically at **www.bvhealthsystem.org** or a copy may be obtained by mailing a request to Blanchard Valley Health System, Administrative Offices, Attention: Privacy Officer, 1900 S. Main Street, Findlay OH 45840, or by phone (419) 423-4500. 
+
+**USES AND DISCLOSURES OF YOUR PERSONAL HEALTH INFORMATION**
+
+**Your Authorization**. Except as outlined below, we will not use or disclose your personal health information for any purpose unless you have signed a form authorizing the use or disclosure. You have the right to revoke that authorization in writing unless we have taken any action in reliance on the authorization. There are certain uses and disclosures of your personal health information for which we will always obtain a prior authorization and these include:
+
+  * **Marketing communications** unless the communication is made directly to you in person,  is simply a promotional gift of nominal value, is a prescription refill reminder, general health or wellness information,  or a communication about  health related  products  or services that we offer or that are directly related to your treatment.
+  * **Most sales** of your health information unless for treatment or payment purposes or as required by law.
+  *   **Psychotherapy notes** unless otherwise permitted or required by law **.**
 
 
-Blanchard Valley Health System  
-NOTICE OF PRIVACY PRACTICES
 
-Effective April 14, 2003
+** ** **Treatment**
 
-  
-THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION.  PLEASE REVIEW IT CAREFULLY.
+We will make uses and disclosures of your personal health information as necessary to provide, coordinate or manage your health care and related services. For instance, doctors, nurses and other professionals involved in your care will use information in your medical record and information that you provide about your symptoms and reactions to plan a course of treatment for you that may include procedures, medications, tests, etc. We may also release your personal health information to another health care facility or professional who is not affiliated with our organization but who is or will be providing treatment to you. For example, if you are going to receive home health care after you leave the hospital, we may release your personal health information to that home health care agency so that a plan of care can be prepared for you. In emergencies, we will use and disclose your personal health information to provide the treatment you require.
 
-If you have any questions about this notice, please contact the Blanchard Valley Health System (BVHS) Privacy Officer at 419-423-5204.
+**Payment**
 
-This Notice of Privacy Practices is provided to you as a requirement of the Health Insurance Portability and Accountability Act (HIPAA).  It describes how we may use or disclose your protected health information, with whom that information may be shared, and the safeguards we have in place to protect it.  This notice also describes your rights to access and amend your protected health information.  You have the right to approve or refuse the release of specific information outside of our system except when the release is required or authorized by law or regulation.  
+We will make uses and disclosures of your personal health information as necessary for the payment purposes of those health professionals and facilities that have treated you or provided services to you. For example, we may forward information regarding your medical procedures and treatment to your insurance company to arrange payment for the services provided to you or we may use your information to prepare a bill to send to you or to the person responsible for your payment.  We may also inform your health plan about a treatment you are going to receive to obtain prior approval or determine if your health plan will cover the treatment.
 
-ACKNOWLEDGMENT OF RECEIPT OF THIS NOTICE
+**Health Care Operations**
 
-You will be asked to acknowledge receipt of this notice.  Our intent is to make you aware of the possible uses and disclosures of your protected health information and your privacy rights.  The delivery of your health care services will in no way be conditioned upon your signed acknowledgment.  If you decline to provide a signed acknowledgment, we will continue to provide your treatment, and will use and disclose your protected health information for treatment, payment, and health care operations when necessary. 
+We will use and disclose your personal health information as necessary, and as permitted by law, to support the daily activities related to health care operations. **** These activities may include, but are not limited to, clinical quality improvement, professional peer review, business management, training medical students, accreditation and licensing, etc. For example, we may use and disclose your personal health information to medical staff, clinicians or other hospital associates for review and learning to support improving the clinical treatment and care of our patients. We may also disclose your personal health information to another health care facility, health care professional, or health plan for such things as quality assurance and case management, but only if that facility, professional, or plan also has or had a patient relationship with you. 
 
-WHO WILL FOLLOW THIS NOTICE
+We may also contact you to provide appointment reminders, follow up on services provided or to provide test results. We may call you by name in the waiting room when your physician is ready to see you. 
 
-This notice describes the BVHS practices regarding your protected health information.  All healthcare components of BVHS will follow this notice. This includes, but is not limited to Blanchard Valley Hospital, Bluffton Hospital, Bridge Home Health and Hospice, Birchaven, Physicians Plus, BVHS Medical Offices, Blanchard Valley Durable Medical Equipment, BVHS Health Plans, and any other entity of BVHS.
+We may use or disclose your protected health information, as necessary, to provide you with information about treatment alternatives or other health-related benefits or services that might interest you. For example, your name and address may be used to send you information about services offered by BVHS. 
 
-All healthcare components of BVHS may share personal health information of our patients as necessary to carry out treatment, payment and health care operations as permitted by law.
+**Business Associates**
 
-OUR DUTIES TO YOU REGARDING PROTECTED HEALTH INFORMATION
+Certain aspects and components of our services are performed through contracts with outside persons or organizations, such as auditing, legal services, technical support, etc. It may be necessary for us to provide personal health information to one or more of these outside persons or organizations who assist us with our health care operations. In all cases, we require these business associates to appropriately safeguard the privacy and security of your information. 
 
-“Protected health information” is individually identifiable health information.  This information includes demographics, for example, age, address, e-mail address, and relates to your past, present, or future physical or mental health or condition and related health care services.  BVHS is required by law to do the following:  
-•    Make sure your protected health information is kept private.  
-•    Give you this notice of our legal duties and privacy practices related to the use and disclosure of your protected health information.  
-•    Follow the terms of the notice currently in effect.  
-•    Make available any changes in the notice to you.
+**Research**
 
-We reserve the right to change this notice.  Its effective date is at the top of the first page and at the bottom of the last page.  We reserve the right to make the revised or changed notice effective for health information we already have about you as well as any information we receive in the future.  You may obtain a Notice of Privacy Practices by accessing the BVHS website http://www.bvhealthsystem.org , calling the BVHS Privacy Officer and requesting a copy be mailed to you, or asking for a copy at your next appointment. 
+In limited circumstances, we may use and disclose your personal health information for research purposes. For example, a research organization may wish to compare outcomes of all patients that received a particular drug and will need to review a series of medical records. In all cases where your specific authorization has not been obtained, your privacy will be protected by strict confidentiality requirements applied by an Institutional Review Board or privacy board which oversees the research or by representations of the researchers that limit their use and disclosure of patient information. 
 
-HOW WE MAY USE OR DISCLOSE YOUR PROTECTED HEALTH INFORMATION 
+  **Other Uses and Disclosures**
 
-Following are examples of permitted uses and disclosures of your protected health information.  These examples are not exhaustive.
+We are permitted or required by law to make certain other uses and disclosures of your personal health information without your consent or authorization. For example, we will release your personal health information:
 
-Required Uses and Disclosures  
-By law, we must disclose your health information to you unless it has been determined by a competent medical authority that it would be harmful to you.  We must also disclose health information to the Secretary of the Department of Health and Human Services (DHHS) for investigations or determinations of our compliance with laws on the protection of your health information.
+·       for any purpose required by law; 
 
-Treatment  
-We will use and disclose your protected health information as necessary to provide, coordinate, or manage your health care and any related services.  For instance, doctors, nurses and other professionals involved in your care will use information in your medical record and information that you provide about your symptoms and reactions to plan a course of treatment for you that may include procedures, medications, tests, etc.  We may also release your protected health information to another health care facility or professional who is not affiliated with our organization but who is or will be providing treatment to you.  For instance, if, after you leave the hospital, you are going to receive home health care, we may release your protected health information to that home care agency so that a plan of care can be prepared for you.    
-In emergencies, we will use and disclose your protected health information to provide the treatment you require. 
+·       for public health activities, such as required reporting of disease, injury, birth, death, public health investigations, report reactions to medications or problems with products, notify a person whom may have been exposed to a disease or may be at risk for contracting or spreading a disease; 
 
-Payment  
-Your protected health information will be used, as necessary, to obtain payment for your health care services.  For instance, we may forward information regarding your medical procedures and treatment to your insurance company for the services provided to you or we may use your information to prepare a bill to send to you or to the person responsible for your payment.  We may also inform your health plan about a treatment you are going to receive to obtain prior approval or to determine whether your plan will cover the treatment.  For example, protected health information may be disclosed to obtain approval for a hospital admission.
+·       suspected child abuse or neglect, as required by law;
 
-Health Care Operations  
-We may use or disclose, as necessary, your protected health information to support the daily activities related to health care operations.  These activities may include, but are not limited to, quality assessment activities, investigations, oversight or staff performance reviews, training of medical students, licensing, communications about a product or service, and conducting or arranging for other health care related activities.
+·       if we believe you to be a victim of abuse, neglect, or domestic violence, as required by law; 
 
-For example, we may disclose your information to doctors, nurses, technicians, students and other hospital associates for review and learning purposes.  We may call you by name in the waiting room when your physician is ready to see you.  We may use or disclose your protected health information, as necessary, to contact you to remind you of your appointment.
+·       disclosing immunization records to a student’s school but only if parents or guardians (or the student if not a minor) agree either orally or in writing;
 
-We will share your protected health information with third-party “business associates” who perform various activities for BVHS.  The business associates will also be required to protect your health information.
+·       to the Food and Drug Administration if necessary to report adverse events, track products, product defects, to participate in product recalls, conduct post-marking surveillance as required; 
 
-We may also contact you for appointment reminders.  We may use or disclose your protected health information, as necessary, to provide you with information about treatment alternatives or other health-related benefits and services that might interest you.  For example, your name and address may be used to send you a newsletter about BVHS and the services we offer.  We may also send you information about products or services that we believe might benefit you.
+·       to your employer when we have provided health care to you at the request of your employer to determine workplace-related illness or injury; in most cases you will receive notice that information is disclosed to your employer; 
 
-Required by Law  
-We may use or disclose your protected health information for any purpose if law or regulation requires the use or disclosure.  
+·       to a government oversight agency conducting audits, investigations, or civil or criminal proceedings as required by law; 
 
-Public Health  
-We may disclose your protected health information for public health activities.  The disclosure may be necessary to do the following:  
-•    Prevent or control disease, injury, or disability.  
-•    Report births and deaths; cancer surveillance, trauma information to the trauma registry   
-•    Report child/elder abuse or neglect.  
-•    Report reactions to medications or problems with products.  
-•    Notify a person who may have been exposed to a disease or may be at risk for contracting or spreading a disease or condition.  
-•    Notify the appropriate government authority if we believe a patient has been the victim of abuse, neglect, or domestic violence.
+·       as required by a subpoena or discovery request; in some cases you will have notice of such release; 
 
-Health Oversight  
-We may disclose protected health information to a health oversight agency for activities authorized by law, such as audits, investigations, and inspections.  These health oversight agencies might include government agencies that oversee the health care system, government benefit programs, other government regulatory programs, and compliance with civil rights laws.
+·       to law enforcement officials as required by law to report wounds,injuries and crimes; 
 
-Food and Drug Administration  
-We may disclose your protected health information to a person or company required by the Food and Drug Administration to do the following:  
-•    Report adverse events, product defects, or problems and biologic product deviations.  
-•    Track products.  
-•    Enable product recalls.  
-•    Make repairs or replacements.  
-•    Conduct post-marketing surveillance as required.
+·       to coroners and/or funeral directors consistent with law; 
 
-Legal Proceedings  
-We may disclose protected health information during any judicial or administrative proceeding, in response to a court order or administrative order (if such a disclosure is expressly authorized), and in certain conditions in response to a subpoena, discovery request, or other lawful process.
+·       to arrange an organ or tissue donation from you or a transplant for you; 
 
-Law Enforcement  
-We may disclose protected health information for law enforcement purposes, including the following:  
-•    Responses to legal proceedings  
-•    Information requests for identification and location  
-•    Circumstances pertaining to victims of a crime  
-•    Deaths suspected from criminal conduct  
-•    Crimes occurring at a BVHS site  
-•    Medical emergencies (not on BVHS premises) believed to result from criminal conduct
+·       for certain research purposes when such research is approved by an institutional review board with established rules to ensure privacy; 
 
-Coroners, Funeral Directors, and Organ Donations  
-We may disclose protected health information to coroners or medical examiners for identification to determine the cause of death or for the performance of other duties authorized by law.  We may also disclose protected health information to funeral directors as authorized by law.  Protected health information may be used and disclosed for cadaveric organ, eye, or tissue donations.
+·       in limited instances if we suspect a serious threat to health or safety; 
 
-Research  
-We may disclose your protected health information to researchers when authorized by law, for example, if their research has been approved by an institutional review board that has reviewed the research proposal and established protocols to ensure the privacy of your protected health information.
+·       if you are a member of the military as required by armed forces services; we may also release your personal health information if necessary for national security or intelligence activities; 
 
-Criminal Activity  
-Under applicable Federal and state laws, we may disclose your protected health information if we believe that its use or disclosure is necessary to prevent or lessen a serious and imminent threat to the health or safety of a person or the public.  We may also disclose protected health information if it is necessary for law enforcement authorities to identify or apprehend an individual.
+·       to workers' compensation agencies if necessary for your workers' compensation benefit determination and other similar legally established programs; and
 
-Military Activity and National Security  
-When the appropriate conditions apply, we may use or disclose protected health information of individuals who are Armed Forces personnel (1) for activities believed necessary by appropriate military command authorities to ensure the proper execution of the military mission including determination of fitness for duty; (2) for determination by the Department of Veterans Affairs (VA) of your eligibility for benefits; or (3) to a foreign military authority if you are a member of that foreign military service.  We may also disclose your personal health information to authorized Federal officials for conducting national security and intelligence activities including protective services to the President or others.
+·       if you are an inmate of a correctional facility, BVHS may disclose for the purposes of the institution being able to provide you with health care; for your health and safety or the health and safety of others, or for the safety and security of the correctional institution.
 
-Workers’ Compensation  
-We may disclose your protected health information to comply with workers’ compensation laws and other similar legally established programs.
+Ohio law requires that we obtain consent from you in many instances before disclosing the performance or results of an HIV test or diagnoses of AIDS or an AIDS-related condition; before disclosing information about mental health services you may have received; and before disclosing certain information to the State Long-Term Care Ombudsman. For full information on when such consents may be necessary, you may contact the BVHS Privacy Officer. 
 
-Inmates  
-We may use or disclose your protected health information if you are an inmate of a correctional facility, and BVHS created or received your personal health information while providing care to you.  This disclosure would be necessary (1) for the institution to provide you with health care, (2) for your health and safety or the health and safety of others, or (3) for the safety and security of the correctional institution.
+**BVHS Directories:**
 
-Disclosures by the Health Plan  
-BVHS health plans may also disclose your protected health information.  Examples of these disclosures include verifying your eligibility for health care and for enrollment in various health plans and coordinating benefits for those who have other health insurance or are eligible for other benefit programs. 
+Unless you object, we may disclose in our BVHS directory your name, the location at which you are receiving care, your general condition (e.g. good, fair, etc.), and your religious affiliation. All of this information, except religious affiliation, will be disclosed to people who ask for you by name. Only members of the clergy will be told your religious affiliation. This information is provided so your family, friends and clergy can visit you and generally know how you are doing.
 
-USES AND DISCLOSURES OF PROTECTED HEALTH INFORMATION REQUIRING YOUR PERMISSION
+**Family and Friends Involved In Your Care**. 
 
-In some circumstances, you have the opportunity to agree or object to the use or disclosure of all or part of your protected health information.  Following are examples in which your agreement or objection is required.
+Unless you object, we may disclose your personal health information to designated family, friends, and others who are involved in your care or in payment of your care in order to facilitate that person’s involvement in caring for you or paying for your care. If you are unavailable, incapacitated, or facing an emergency medical situation and we determine limited disclosure may be in your best interest, we may share limited personal health information with such individuals without your approval. We may also disclose limited personal health information to a public or private entity that is authorized to assist in disaster relief efforts in order for that entity to locate a family member or other persons that may be involved in some aspect of caring for you. 
 
-BVHS Directories  
-Unless you object, we may disclose in our BVHS directory your name, the location at which you are receiving care, your general condition (e.g. good, fair, etc.), and your religious affiliation.  All of this information, except religious affiliation, will be disclosed to people who ask for you by name.  Only members of the clergy will be told your religious affiliation.  This information is provided so your family, friends and clergy can visit you and generally know how you are doing.
+**Fundraising**
 
-Fundraising  
-Unless you object, we may contact you to donate to a fundraising effort for or on our behalf.  You have the right to "opt-out" of receiving fundraising materials/communications and may do so by sending your name and address to Blanchard Valley Health Foundation, 1900 S. Main Street, Findlay, OH 45840 together with a statement that you do not wish to receive fundraising materials or communications from us.
+We may contact you to donate to a fundraising effort for or on our behalf. You have the right to "opt-out" of receiving fundraising materials/communications and may do so by sending your name and address to Blanchard Valley Health Foundation, 1900 S. Main Street, Findlay, OH 45840 together with a statement that you do not wish to receive fundraising materials or communications from us.
 
-Individuals Involved in Your Health Care  
-Unless you object, we may disclose your protected health information to a member of your family, a relative, a close friend, or any other person you identify who is involved in your health care.  We may also give information to someone who helps pay for your care.  Additionally we may use or disclose protected health information to notify or assist in notifying a family member, personal representative, or any other person who is responsible for your care, of your location, general condition, or death.  We may also use or disclose your protected health information to an authorized public or private entity to assist in disaster relief efforts and coordinate uses and disclosures to family or other individuals involved in your health care.
+**RIGHTS THAT YOU HAVE**
 
-YOUR RIGHTS REGARDING YOUR HEALTH INFORMATION
+**Inspect and Copy Protected Health Information**
 
-You have the following rights regarding your health information maintained by BVHS.  Please be aware that BVHS has the right to deny your request; however, you may seek a review of the denial.
+You may inspect and obtain a copy of your protected health information that is contained in a “designated record set” for as long as we maintain the personal health information. A designated record set contains medical and billing records and any other records that BVHS uses for making decisions about you. You have the right to obtain an electronic copy of your health information that exists in an electronic format and you may direct that the copy be transmitted directly to an entity or person designated by you, provided that any such designation is clear, conspicuous, and specific with complete name and mailing address or other identifying information. All requests must be made in writing and signed by you or your representative. BVHS may charge you a fee for our labor and supplies in preparing your copy of medical records. This fee is established by Ohio law.
 
-Right to Inspect and Copy  
-You may inspect and obtain a copy of your protected health information that is contained in a “designated record set” for as long as we maintain the personal health information.  A designated record set contains medical and billing records and any other records that BVHS uses for making decisions about you.  BVHS may charge you a fee for the copying for medical records.  This fee is established by Ohio law.
+This right does not include inspection and copying of the following records: psychotherapy notes; information compiled in reasonable anticipation of, or use in, a civil, criminal, or administrative action or proceeding; and protected health information that is subject to law that prohibits access to protected health information. 
 
-This right does not include inspection and copying of the following records:  psychotherapy notes; information compiled in reasonable anticipation of, or use in, a civil, criminal, or administrative action or proceeding; and protected health information that is subject to law that prohibits access to protected health information.  
+**Amendments to Your Personal Health Information**
 
-Right to Request Restrictions  
-You may ask us not to use or disclose any part of your protected health information for treatment, payment, or health care operations.  Your request must be made in writing to the BVHS Privacy Officer.  In your request, you must tell us (1) what information you want restricted; (2) whether you want to restrict our use, disclosure, or both; (3) to whom you want the restriction to apply, for example, disclosures to your spouse; and (4) an expiration date.
+You have the right to request in writing that personal health information that we maintain about you be amended or corrected. We are not obligated to make all requested amendments but will give each request careful consideration. All amendment requests, in order to be considered by us, must be in writing, signed by you or your representative, and must state the reasons for the amendment/correction request. If an amendment or correction you request is made by us, we may also notify others who work with us and have copies of the uncorrected record if we believe that such notification is necessary. 
 
-If BVHS believes that the restriction is not in the best interest of either party, or BVHS cannot reasonably accommodate the request, BVHS is not required to agree.  If the restriction is mutually agreed upon, we will not use or disclose your protected health information in violation of that restriction, unless it is needed to provide emergency treatment.  You may revoke a previously agreed upon restriction, at any time, in writing..
+**Accounting of Disclosures of Your Personal Health Information**
 
-Right to Request Confidential Communications  
-You may request that we communicate with you using alternative means or at an alternative location.  We will not ask you the reason for your request.  We will accommodate reasonable requests, when possible.
+You have the right to receive an accounting of certain disclosures made by us of your personal health information for six years prior to the date of your request. Requests must be made in writing and signed by you or your representative. The first accounting in any 12-month period is free; you may be charged a fee for each subsequent accounting you request within the same 12-month period. 
 
-Right to Request Amendment  
-If you believe that the information we have about you is incorrect or incomplete, you may request an amendment to your protected health information as long as we maintain this information.  While we will accept requests for amendment, we are not required to agree to the amendment.
+**Restrictions on Use and Disclosure of Your Personal Health Information**
 
-Right to an Accounting of Disclosures  
-You may request that we provide you with an accounting of the disclosures we have made of your protected health information.  This right applies to disclosures made for purposes other than treatment, payment, or health care operations as described in this Notice of Privacy Practices.  The disclosure must have been made after April 14, 2003, and no more than 6 years from the date of request.  This right excludes disclosures made to you, for a BVHS directory, to family members or friends involved in your care, or for notification.  The right to receive this information is subject to additional exceptions, restrictions, and limitations as described earlier in this notice.  BVHS may charge you a fee if you request more than one accounting in any 12-month period.
+You have the right to request restrictions on certain of our uses and disclosures of your personal health information for treatment, payment, or health care operations. If BVHS believes that the restriction is not in the best interest of either party, or BVHS cannot reasonably accommodate the request, BVHS is not required to agree to requested restriction; however, will attempt to accommodate reasonable requests when appropriate. We retain the right to terminate an agreed-to restriction if we believe such termination is appropriate. In the event of a termination by us, we will notify you of such termination. You also have the right to terminate, in writing or orally, any agreed-to restriction. We will honor any request to restrict disclosures to your health plan if the information to be disclosed pertains solely to a health care item or service for which BVHS has been paid in full.
 
-Right to Obtain a Copy of this Notice  
-You may obtain a paper copy of this notice from BVHS or view it electronically at http://www.bvhealthsystem.org.
+**Right to Request Confidential Communications**
 
-COMPLAINTS
+You may request in writing that we communicate with you using alternative means or at an alternative location. We will not ask you the reason for your request. We will accommodate reasonable requests, when possible.
 
-If you believe these privacy rights have been violated, you may file a written complaint with the BVHS Privacy Officer or the Department of Health and Human Services.  No retaliation will occur against you for filing a complaint.
+**Breach Notification**  
 
-CONTACT INFORMATION
+In the unlikely event that there is a breach, or unauthorized release of your personal health information, you will receive notice and information on steps you may take to protect yourself from harm.
 
-You may contact the BVHS Privacy Officer or the BVHS Patient Advocate for further information about the complaint process, or for further explanation of this document.  The BVHS Privacy Officer may be contacted at Blanchard Valley Health System, Administrative Offices, Attention:  Privacy Officer, 1900 S. Main Street, Findlay, OH 45840, by phone at (419) 423-5204. 
+**Complaints**
 
-This notice is effective in its entirety as of April 14, 2003  
-Revision Date: 01/10/07
+If you believe your privacy rights have been violated, you may file a complaint with the BVHS Privacy Officer. You may also file a complaint with the Secretary of the U.S. Department of Health and Human Services in Washington D.C. in writing within 180 days of a violation of your rights. There will be no retaliation against you for filing a complaint. 
+
+**Obtain a Copy of this Notice**
+
+As a patient you retain the right to obtain a paper copy of this Notice of Privacy Practices, even if you have requested such copy by e-mail or other electronic means. 
+
+**Acknowledgment of Receipt of Notice**
+
+You will be asked to acknowledge receipt of this Notice. Our intent is to make you aware of the possible uses and disclosures of your protected health information and your privacy rights. The delivery of your health care services will in no way be conditioned upon your signed acknowledgment. If you decline to provide a signed acknowledgment, we will continue to provide your treatment, and will use and disclose your protected health information for treatment, payment, and health care operations when necessary. 
+
+**CONTACT INFORMATION**
+
+**Privacy Officer**
+
+You may contact the BVHS Privacy Officer for further information about the complaint process or for further explanation of this document. The BVHS Privacy Officer may be contacted at Blanchard Valley Health System, Administrative Offices, Attention: Privacy Officer, 1900 S. Main Street, Findlay, OH 45840, or by phone at (419) 423-4500.  
+
+**Documents**
+
+Documents referred to within this Notice, for example, Requests for Amendment, Restriction, Confidential Communications, Authorization for Uses and Disclosures of Patient Information, Notice of Privacy Practices, etc. can be located at **www.bvhealthsystem.org** or you may contact the Privacy Officer to obtain a copy of needed form.
+
+**EFFECTIVE DATE**
+
+This Notice of Privacy Practices is effective April 14, 2003\. Revision dates: 01/10/07; 08/22/13.
