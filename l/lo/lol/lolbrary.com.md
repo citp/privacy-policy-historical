@@ -1,50 +1,67 @@
-> *The following text is extracted and transformed from the lolbrary.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208100955id_/http%3A//www.lolbrary.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolbrary.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512081430id_/http%3A//www.lolbrary.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | The Lolbrary
+# Privacy Policy - The funniest pics on the internet
 
-## Privacy Policy
+Your privacy is important to Spartz Inc. This privacy statement provides information about the personal information Spartz Inc collects, and the ways in which Spartz Inc uses that personal information. 
 
-  
+### Personal information collection
+
+The types of personal information Spartz Inc collects are: 
+
+  * Information about your use of this website
+  * Information that you provide for the purposes of registering for this website
+  * Information about transactions carried out over this website
+  * Information you provide for the purpose of subscribing to the website services
+  * Demographic and interests reporting
+  * Any other information that you send Spartz Inc
 
 
-**What information do we collect?**
 
-We collect information from you when you rate an image or Upload a picture. 
+### Using Personal Information
 
-We collect your IP address so you can't rate images multiple times. We collect your ip address when you upload to prevent abuse. You may, however, visit our site anonymously.
+Spartz Inc may use your personal information to: 
 
-**Do we use cookies?**
+  * Administer this website
+  * Personalize this website for you
+  * Enable your access to and use of the website services
+  * Publish information about you on the website
+  * Send you products that you purchase
+  * Send you statements and invoices
+  * Collect payments from you and
+  * Send you marketing communications
 
-We use cookies so that you can stay logged into your account after signing in.
 
-**Do we disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. Where Spartz Inc discloses your personal information to its agents or sub-contractors, for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement. In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, Spartz Inc may disclose your personal information to the extent that is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights. 
 
-**California Online Privacy Protection Act Compliance**
+### Securing your Data
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+Spartz Inc will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information. Spartz Inc will store all the information you provide (on its secure servers). [Information relating to electronic transfers entered into via this website will be protected via encrypted technology.] 
 
-**Childrens Online Privacy Protection Act Compliance**
+### Cross-border Data Transfers
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+Information that Spartz Inc collects may be stored and processed in and transferred between any of the countries in which Spartz Inc operates to enable the use of information in accordance with this privacy policy. [In addition, personal information that you submit for publication on this website will be published on the internet and may be available around the world.] You agree to such cross-border transfers of personal information. 
 
-**Terms and Conditions**
+### Using Cookies
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.lolbrary.com/rules.php>
+We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn or more about this behavioral advertising practice or to opt-out of this type of advertising for some companies, you can visit http://http://www.networkadvertising.org and http://www.networkadvertising.org/managing/opt_out.asp 
 
-**Your Consent**
+### Consent
 
-By using our site, you consent to our online privacy policy.
+By using our site, you consent to our website's privacy policy. 
 
-**Changes to our Privacy Policy**
+### Updating this Statement
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+Spartz Inc may update this privacy policy by posting a new version on this website. You should check the page periodically to ensure you are familiar with any changes. 
 
-This policy was last modified on 10/24/2011.
+### Other Websites
 
-**Contacting Us**
+This website contains links to other websites. Spartz Inc is not responsible for the privacy policies or practices of any third party. 
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+### Children's Online Privacy Protection Act Compliance
 
-support@lolbrary.com
+We do not provide services directed to children or otherwise target our site to children, and we do not collect personal information from children under the age of 13. No content that depicts, describes, identifies or otherwise relates to an individual under the age of 13 may be submitted to us, and no such content or other information relating to an individual under the age of 13 will be knowingly solicited or received by us. 
+
+### Contact
+
+If there are any questions regarding this Privacy Policy, or if you wish to change or delete any information previously provided by you or collected from you, you may contact us at: [info@spartzinc.com](mailto:info@spartzinc.com) or by calling 312.880.7207. 
