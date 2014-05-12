@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the g3fashions.in privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830183332id_/http%3A//www.g3fashions.in/contents.php%3Fid%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the g3fashions.in privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512211046id_/http%3A//www.g3fashions.in/privacy-policy.html) for the most accurate reproduction.*
 
-# g3fashions
+# g3fashions-Privacy Policy
 
 ## You are here : Home > Privacy Policy
 
