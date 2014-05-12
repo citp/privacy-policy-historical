@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindstick.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106060344id_/http%3A//mindstick.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindstick.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512085822id_/http%3A//www.mindstick.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # MindStick-Unleash Your Imagination
 
