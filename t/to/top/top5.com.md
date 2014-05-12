@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the top5.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111163340id_/http%3A//www.top5.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top5.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512031242id_/http%3A//www.top5.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Top5.com
 
 ## PRIVACY POLICY of Top5.com and all related websites
 
 Top5.com
-
-311 West Third St.  
-Suite 2292  
-Carson City, NV 89703
 
 At Top5.com we take our ethical responsibilities and your privacy seriously by recognizing that your privacy is important. We have a strong commitment to providing excellent service to all our customers and visitors of this Web Site, including respecting your concerns about privacy. This Privacy Policy discloses how we collect personal information, the types of personal information we receive and collect, our use of current and former consumer information, as well as the steps that we take to safeguard your information. If you use this site you explicitly agree to the terms and conditions of the Top5.com Privacy Policy in effect at the time of your use. If you do not agree to this policy, please do not use the Top5.com site. We hope that this disclosure will help increase your confidence in our website and enhance your experience on the Internet. Therefore, in compliance with industry standards and regulations enforced typically by federal and state governments, we abide by the following Privacy Policy.
 
@@ -98,10 +94,6 @@ If you want to access or update the personal information you submitted to Top5.c
 
 Top5.com Attn: Customer Care
 
-311 West Third St.  
-Suite 2292  
-Carson City, NV 89703
-
 **Questions and Suggestions**
 
 If you have any questions, concerns or suggestions about our Privacy Policy, you may contact us:
@@ -112,9 +104,7 @@ If you have any questions, concerns or suggestions about our Privacy Policy, you
 
 
 Top5.com  
-311 West Third St.  
-Suite 2292  
-Carson City, NV 89703
+
 
 **Changes to this Privacy Policy**
 
@@ -124,7 +114,7 @@ We encourage you to check our site frequently to see the current privacy stateme
 
 **Your California Privacy Rights**
 
-CALIFORNIA RESIDENTS PRIVACY RIGHTS Companies that collect personally identifiable information ("PII") from California residents and disclose such information to Third Parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided, or (2) provide a mechanism by which a consumer may opt-out of having their information shared with Third Parties. We have elected the second option and you may request that your PII not be shared with Third Parties by sending your request, including your full name, email address and postal address to: [privacy@Top5.com](mailto:privacy@Top5.com), or by mail to California Privacy Information c/o Top5.com, 311 West Third St., Suite 2292, Carson City, NV 89703. In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210 or by email to [dca@dca.ca.gov](mailto:dca@dca.ca.gov).
+CALIFORNIA RESIDENTS PRIVACY RIGHTS Companies that collect personally identifiable information ("PII") from California residents and disclose such information to Third Parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided, or (2) provide a mechanism by which a consumer may opt-out of having their information shared with Third Parties. We have elected the second option and you may request that your PII not be shared with Third Parties by sending your request, including your full name, email address and postal address to: [privacy@Top5.com](mailto:privacy@Top5.com), or by mail to California Privacy Information c/o Top5.com,  In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210 or by email to [dca@dca.ca.gov](mailto:dca@dca.ca.gov).
 
 For more information on how your personally identifiable information is collected and used, please read our complete Privacy Policy.
 
