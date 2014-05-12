@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the technologyevaluation.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111045358id_/http%3A//www.technologyevaluation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technologyevaluation.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512095900id_/http%3A//www.technologyevaluation.com/privacy-policy) for the most accurate reproduction.*
 
 # TEC: Privacy Policy
-
-  
-
 
 **Acceptance of Terms**  
 The use of our web site constitutes acceptance of the present Privacy Statement. We may modify the Privacy Statement at any time without prior notice. Your continued use of our web site constitutes acceptance of the new conditions. 
@@ -25,5 +22,3 @@ We use cookies to enable registered clients to move quickly and securely through
 
 **Hypertext Links**  
 Our web site contains hypertext links to other sites for your convenience. However, TEC is not in any way responsible for the privacy practices or the content of other web sites.
-
-For more information, please contact [general_inquiry@technologyevaluation.com](mailto:general_inquiry@technologyevaluation.com).
