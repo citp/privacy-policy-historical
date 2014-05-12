@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ironmountain.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214073734id_/http%3A//www.ironmountain.com/Utility/Legal/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironmountain.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512070817id_/http%3A//www.ironmountain.com/Utility/Legal/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Iron Mountain
 
 YOUR PRIVACY IS IMPORTANT TO IRON MOUNTAIN.
 
@@ -30,7 +30,7 @@ Iron Mountain may, from time to time, share your Personal Information with marke
 
 Examples of the ways in which Iron Mountain and our third-party service providers use GIF files include:
 
-  * Tracking customer response to our advertisements, e-mails and site content.
+  * Tracking customer response to our advertisements, e-mails and site content. 
   * Determining your ability to receive HTML-based e-mail messages. This capability helps us or our service providers send you e-mail in a format you can read. 
   * Knowing how many users open an e-mail, thereby enabling our service providers to compile aggregate statistics about an e-mail campaign for us. 
   * Allowing us to better target interactive advertising; enhancing customer support and site usability; and providing offers and promotions that we believe would be of interest to you, if you have given us permission to do so by opting-in to receive them. 
@@ -47,7 +47,7 @@ You will be given the opportunity to accept or reject the use of cookies on the 
 
 Subject to applicable law, we and our service providers (as defined below) disclose and share your personal information:
 
-  * Among Iron Mountain and its Affiliates;
+  * Among Iron Mountain and its Affiliates; 
   * To unaffiliated third parties that are under contract to perform services for or on behalf of Iron Mountain ( _Service Providers_ ), and are required to uphold and maintain policies with respect to privacy and the treatment of your Personal Information (e.g., vendors hosting the investor relations, COMAC, Iron Mountain Digital Services, or Iron Mountain Intellectual Property Management aspects of this web site or other vendors providing services of the nature referred to in this policy); 
   * To a third party in connection with a proposed or actual sale, merger, or transfer of all or a portion of a business or division; and 
   * To other persons as permitted or required by applicable law or regulation. 
@@ -65,10 +65,10 @@ This policy applies only to this Web site. This site includes links to both our 
 
 You are entitled to request that Iron Mountain:
 
-  * provide you with a copy of your Personal Information that it holds;
-  * cease processing your Personal Information, in whole or in part, as you direct us, for the purposes of direct marketing;
-  * correct any errors in that Personal Information; and
-  * update that Personal Information as required.
+  * provide you with a copy of your Personal Information that it holds; 
+  * cease processing your Personal Information, in whole or in part, as you direct us, for the purposes of direct marketing; 
+  * correct any errors in that Personal Information; and 
+  * update that Personal Information as required. 
 
 
 
@@ -98,7 +98,7 @@ Disclosures made pursuant to Iron Mountain's Business Ethics Program are covered
 
 **Questions regarding this policy.**
 
-If you have questions concerning this policy, please contact our Vice President of Privacy at 1-800-935-6966, ext. 8477 (if calling from within the USA) or 1-617-535-8477 (if calling from outside the USA) or via e-mail at [global.privacy@ironmountain.com](mailto:global.privacy@ironmountain.com) or by writing to Vice President of Privacy, Iron Mountain, 745 Atlantic Avenue, Boston, MA 02111, U.S.A.
+If you have questions concerning this policy, please contact our Vice President of Privacy at 1-800-935-6966, ext. 8477 (if calling from within the USA) or 1-617-535-8477 (if calling from outside the USA) or via e-mail at [global.privacy@ironmountain.com](mailto:global.privacy@ironmountain.com) or by writing to Vice President of Privacy, Iron Mountain, 1 Federal Street, Boston, MA 02110, U.S.A.
 
 **Iron Mountain's Privacy Principles**  
 
@@ -106,7 +106,7 @@ Iron Mountain commits to the following:
 
   * Iron Mountain only collects information that is needed.   
 _From its valued customers_ , Iron Mountain collects information that will enable it to administer customer accounts, to provide marketing information about Iron Mountain's services and products, to provide "white papers" containing articles that may be useful to customers, to obtain information that may be helpful to Iron Mountain in administering and enhancing its Web site, and to fulfill any regulatory or legal requirement. We keep our customers informed as to what information we are collecting and how that information will be used.   
-_From its valued employees (including prospective and former employees)_ , Iron Mountain collects information that will enable it to manage employee benefits and related benefit plan administration, for human resources management purposes and staff training and for immigration purposes, as well as to fulfill any regulatory or legal requirement
+_From its valued employees (including prospective and former employees)_ , Iron Mountain collects information that will enable it to manage employee benefits and related benefit plan administration, for human resources management purposes and staff training and for immigration purposes, as well as to fulfill any regulatory or legal requirement 
   * Customers must "opt in" prior to Iron Mountain using Customer information online. You have the option of determining whether to supply Iron Mountain with information that it may use for purposes of sending you information, whether it is sent through online marketing efforts, by telephone, by fax or by mail. At any time, you may "opt out", and Iron Mountain will use its best efforts to promptly cease processing the Personal Information you previously supplied. In connection with the offline activities of Iron Mountain, the Customer may simply notify Iron Mountain in writing that it wishes to cease receiving additional information from Iron Mountain ("opt out"), and Iron Mountain will use its best efforts to promptly honor any such request. 
   * Iron Mountain uses security procedures and safeguards that it considers appropriate for the level of Personal Information our customers or employees are providing to Iron Mountain. Iron Mountain's goal is to prevent unauthorized access, maintain data accuracy, ensure the appropriate use of information and use professional industry standards to protect against the loss, misuse or alteration of information under Iron Mountain's control in connection with its information management services. 
   * Release of Information. In addition to using customer or employee information to fulfill requests received from its respective customers or employees, Iron Mountain discloses information provided to it when required to do so by law or by a regulatory agency. In addition, Iron Mountain may share, as appropriate, with its Affiliates, with unaffiliated third parties that are under contract to perform services for or on behalf of Iron Mountain (Service Providers) (who are required to uphold and maintain policies with respect to privacy and the treatment of your Person Information) and/or to a third party in connection with a proposed or actual sale, merger or transfer of all or a portion of a business or division. 
@@ -114,6 +114,6 @@ _From its valued employees (including prospective and former employees)_ , Iron 
 
 
 
-If you have any questions about our privacy policy, please contact our Vice President of Privacy at 1-800-935-6966, ext. 8477 (if calling from within the USA) or 617 535 8477 (if calling from outside the USA) or via e-mail at [global.privacy@ironmountain.com](mailto:global.privacy@ironmountain.com) or by writing to Vice President of Privacy, Iron Mountain, 745 Atlantic Avenue, Boston, MA 02111, USA.
+If you have any questions about our privacy policy, please contact our Vice President of Privacy at 1-800-935-6966, ext. 8477 (if calling from within the USA) or 617 535 8477 (if calling from outside the USA) or via e-mail at [global.privacy@ironmountain.com](mailto:global.privacy@ironmountain.com) or by writing to Vice President of Privacy, Iron Mountain, 1 Federal Street, Boston, MA 02110, USA.
 
 This policy was last updated August 9, 2013.
