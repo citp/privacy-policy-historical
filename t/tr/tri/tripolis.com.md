@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tripolis.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210095844id_/http%3A//www.tripolis.com/company/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripolis.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512133124id_/http%3A//www.tripolis.com/company/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - Tripolis Solutions
+# Privacy Statement - Email, Mobile, Social Marketing » Tripolis Solutions
 
 Tripolis Solutions respects the privacy of visitors to its website and always ensures for the protection of their privacy. Tripolis Solutions therefore treat the personal data it acquires via this website with all due care and caution and of course complies with all the stipulations of the law which apply in this connection. Tripolis Solutions uses all personal data it is provided with solely for the purposes as described in this Privacy Statement. In this Privacy Statement we explain how we deal with personal data we acquire via this website.
 
