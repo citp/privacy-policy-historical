@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treepodia.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228062526id_/http%3A//treepodia.com/En/docroot/Documents/Treepodia_Website_and_Platform_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treepodia.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512123104id_/http%3A//www.treepodia.com/En/docroot/Documents/Treepodia_Website_and_Platform_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # 
 
