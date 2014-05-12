@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azestybite.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607062718id_/http%3A//www.azestybite.com/work-with-me/privacy-polic) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azestybite.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512211641id_/http%3A//www.azestybite.com/work-with-me/privacy-polic) for the most accurate reproduction.*
 
 # A Zesty Bite Privacy Policy » A Zesty Bite
 
