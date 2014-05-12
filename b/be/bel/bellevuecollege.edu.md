@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellevuecollege.edu privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227170030id_/http%3A//www.bellevuecollege.edu/website/privacy/%3Fref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellevuecollege.edu privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512225351id_/http%3A//www.bellevuecollege.edu/website/privacy/%3Fref%3Dfooter) for the most accurate reproduction.*
 
 # Bellevue College Website Privacy Notice
 
