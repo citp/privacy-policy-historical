@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adswale.in privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216042647id_/http%3A//www.adswale.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adswale.in privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512194225id_/http%3A//www.adswale.in/privacy) for the most accurate reproduction.*
 
-# Post Classified in Hyderabad - Search and Post Free Classified Ads in Hyderabad. Property, Cars in Hyderabad, Rentals, For Sale in Hyderabad - AdsWale.in
+# Post Classified in Delhi - Search and Post Free Classified Ads in Delhi. Property, Cars in Delhi, Rentals, For Sale in Delhi - AdsWale.in
 
 **Adswale.in** values the privacy of information pertaining to its associates. We do not use or disclose information about your individual visits to our website or information that you may give us, such as your name, address, email address or telephone number, to any outside sources.
 
