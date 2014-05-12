@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourcityradio.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229122745id_/http%3A//ourcityradio.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourcityradio.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512081000id_/http%3A//ourcityradio.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Our City Radio » Privacy Policy
 
