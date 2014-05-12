@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saymedia.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229023136id_/http%3A//www.saymedia.com/fine-print) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saymedia.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513001622id_/http%3A//www.saymedia.com/fine-print) for the most accurate reproduction.*
 
 # The Fine Print | Say Media
 
