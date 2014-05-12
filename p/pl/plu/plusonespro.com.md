@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plusonespro.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115191905id_/http%3A//plusonespro.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plusonespro.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512224143id_/http%3A//plusonespro.com/info/privacy) for the most accurate reproduction.*
 
 # PlusOnesPro
 
@@ -8,25 +8,25 @@ First and foremost, LikesPro, PlusOnesPro, FollowsPro, RetweetsPro are here to o
 
 The Liking terms shall have the Liking meanings:
 
-â€œ **Account** â€ means collectively the personal information, payment information and credentials used by Users to access material and/or any communications System on LikesPro, PlusOnesPro, FollowsPro, RetweetsPro
+“ **Account** ” means collectively the personal information, payment information and credentials used by Users to access material and/or any communications System on LikesPro, PlusOnesPro, FollowsPro, RetweetsPro
 
-â€œ **Content** â€ means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of LikesPro, PlusOnesPro, FollowsPro, RetweetsPro
+“ **Content** ” means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of LikesPro, PlusOnesPro, FollowsPro, RetweetsPro
 
-â€œ **Cookie** â€ means a small text file placed on your computer by LikesPro, PlusOnesPro, FollowsPro, RetweetsPro when you visit certain parts of the Website. This allows us to identify recurring visitors and to analyze their browsing habits within LikesPro, PlusOnesPro, FollowsPro, RetweetsPro
+“ **Cookie** ” means a small text file placed on your computer by LikesPro, PlusOnesPro, FollowsPro, RetweetsPro when you visit certain parts of the Website. This allows us to identify recurring visitors and to analyze their browsing habits within LikesPro, PlusOnesPro, FollowsPro, RetweetsPro
 
-â€œ **Data** â€ means collectively all information that you submit to the Website. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems
+“ **Data** ” means collectively all information that you submit to the Website. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems
 
-â€œ **LikesPro, PlusOnesPro, FollowsPro, RetweetsPro** â€/â€œ **LikesPro, PlusOnesPro, FollowsPro, RetweetsPro** â€ (â€˜Weâ€™/â€˜Usâ€™/â€˜Truejayâ€™) means the Website and Truejay, Inc. located at 5795 S. Sandhill Road Suite F Las Vegas, Nevada 89120
+“ **LikesPro, PlusOnesPro, FollowsPro, RetweetsPro** ”/“ **LikesPro, PlusOnesPro, FollowsPro, RetweetsPro** ” (‘We’/‘Us’/‘Truejay’) means the Website and Truejay, Inc. located at 5795 S. Sandhill Road Suite F Las Vegas, Nevada 89120
 
-â€œ **Service** â€/â€œ **Services** â€ means collectively any online facilities, tools, services or information that Truejay makes available through LikesPro, PlusOnesPro, FollowsPro, RetweetsPro either now or in the future
+“ **Service** ”/“ **Services** ” means collectively any online facilities, tools, services or information that Truejay makes available through LikesPro, PlusOnesPro, FollowsPro, RetweetsPro either now or in the future
 
-â€œ **System** â€ means any online communications infrastructure that LikesPro, PlusOnesPro, FollowsPro, RetweetsPro makes available through LikesPro, PlusOnesPro, FollowsPro, RetweetsPro either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links
+“ **System** ” means any online communications infrastructure that LikesPro, PlusOnesPro, FollowsPro, RetweetsPro makes available through LikesPro, PlusOnesPro, FollowsPro, RetweetsPro either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links
 
-â€œ **User** â€/â€œ **Users** â€ means any third party that accesses LikesPro, PlusOnesPro, FollowsPro, RetweetsPro and is not employed by LikesPro, PlusOnesPro, FollowsPro, RetweetsPro and acting in the course of their employment
+“ **User** ”/“ **Users** ” means any third party that accesses LikesPro, PlusOnesPro, FollowsPro, RetweetsPro and is not employed by LikesPro, PlusOnesPro, FollowsPro, RetweetsPro and acting in the course of their employment
 
-â€œ **Website** â€ means the website that you are currently using (LikesPro.com, PlusOnesPro.com, FollowsPro.com, RetweetsPro.com) and any sub-domains of this site (e.g. support.likespro.com unless expressly excluded)
+“ **Website** ” means the website that you are currently using (LikesPro.com, PlusOnesPro.com, FollowsPro.com, RetweetsPro.com) and any sub-domains of this site (e.g. support.likespro.com unless expressly excluded)
 
-â€œ **Truejay** â€ means Truejay, Inc. the owner of LikesPro, PlusOnesPro, FollowsPro, RetweetsPro, the Website, and the provider of the Services.
+“ **Truejay** ” means Truejay, Inc. the owner of LikesPro, PlusOnesPro, FollowsPro, RetweetsPro, the Website, and the provider of the Services.
 
 ##### 2\. Protecting your privacy
 
@@ -127,27 +127,3 @@ Any changes we may make to our privacy policy in the future will be posted on th
 ##### 12\. Contact us
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to info@plusonespro.com
-
-### Our Pro Sites
-
-[](http://plusonespro.com/?t=481771dd868b29fa991a792769d668b0&k=945fa7f3729ff2e7978c92e40c363699)
-
-Get thousands of Google +1s.
-
-[](http://followspro.com/?t=481771dd868b29fa991a792769d668b0&k=945fa7f3729ff2e7978c92e40c363699)
-
-Get thousands of Twitter followers.
-
-[](http://retweetspro.com/?t=481771dd868b29fa991a792769d668b0&k=945fa7f3729ff2e7978c92e40c363699)
-
-Get thousands of Twitter retweets.
-
-[](http://likespro.com/?t=481771dd868b29fa991a792769d668b0&k=945fa7f3729ff2e7978c92e40c363699)
-
-Get thousands of Facebook / Youtube views and likes.
-
-### Our Sister Site
-
-[](http://karmafeedback.com/)
-
-Get feedback on just about anything.
