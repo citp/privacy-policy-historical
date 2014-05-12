@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westrac.com.au privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220031833id_/http%3A//www.westrac.com.au/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westrac.com.au privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512061307id_/http%3A//www.westrac.com.au/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -71,7 +71,7 @@ Where personal information is used or disclosed, WesTrac takes steps reasonable 
 To whom does WesTrac disclose your personal information?
     
 
-WesTrac discloses your personal information for the purpose for which WesTrac collects it. That is, generally, WesTrac will only disclose your personal information for a purpose set out at paragraph 4. This may include disclosing your personal information to Caterpillar, WesTrac’s subcontractors and third parties engaged to perform administrative or other services for the purposes of:
+WesTrac discloses your personal information for the purpose for which WesTrac collects it. That is, generally, WesTrac will only disclose your personal information for a purpose set out at paragraph 4. This may include disclosing your personal information to Caterpillar Inc. and its subsidiaries, affiliates and related parties, WesTrac’s subcontractors and third parties engaged to perform administrative or other services for the purposes of:
 
   * processing customer orders and delivering and supplying products and services;
   * data processing and market research services;
