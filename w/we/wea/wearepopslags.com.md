@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wearepopslags.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005004742id_/http%3A//www.wearepopslags.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wearepopslags.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513100814id_/http%3A//www.popsirens.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | We Are Pop Slags
+# Privacy | Pop Sirens
 
-We are committed to protecting your personal privacy. This Privacy Policy explains our policies on privacy. If you have any requests or queries at any time concerning your personal information or our practices, please contact us at info[at]wearepopslags.com.
+We are committed to protecting your personal privacy. This Privacy Policy explains our policies on privacy. If you have any requests or queries at any time concerning your personal information or our practices, please contact us via the [contact form](http://www.popsirens.com/contact/ "Get in touch with Pop Sirens").
 
 **1.     What information do we collect?**  
 When you visit our website, we collect information automatically about your visits, such as browsing patterns, but information collected this way is only used to aggregate form rather than being linked to identifiable individuals.
@@ -30,6 +30,6 @@ For further information on cookies and how to switch them off see [www.allaboutc
 This site contains links and references to other websites outside of our control. Please be aware that we have no control over these sites and our privacy policy does not apply to these sites. We encourage you to read the privacy policies and terms and conditions of linked or referenced sites you enter.
 
 **4\. International data transfer**  
-The use of a website to collect and process personal information inevitably involves the transmission of data internationally. Please note that if you are based within the European Economic Area (“EEA”) the information you provide may be transferred outside of the EEA for the purposes of processing by us. By visiting our website you acknowledge this and agree to the transmission of data in this way. 
+The use of a website to collect and process personal information inevitably involves the transmission of data internationally. Please note that if you are based within the European Economic Area (“EEA”) the information you provide may be transferred outside of the EEA for the purposes of processing by us. By visiting our website you acknowledge this and agree to the transmission of data in this way.
 
 If you do not agree with this Privacy Policy you should not submit your personal information on this website.
