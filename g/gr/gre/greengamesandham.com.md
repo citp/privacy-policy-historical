@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greengamesandham.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110195633id_/http%3A//greengamesandham.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greengamesandham.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513225157id_/http%3A//greengamesandham.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Green Games And Ham
+# 
 
 _Last Updated: October 10, 2012_
 
