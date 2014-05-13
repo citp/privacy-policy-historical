@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inboundwriter.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110024302id_/http%3A//www.inboundwriter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboundwriter.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513132844id_/http%3A//www.inboundwriter.com/privacy) for the most accurate reproduction.*
 
-# InboundWriter - Privacy Policy
+# Privacy Policy • InboundWriter
 
 This Privacy Policy describes the privacy practices of Eightfold Logic, a Delaware corporation (“Eightfold Logic”). It is intended to inform our customers and visitors to our and our customers’ websites, about Eightfold Logic’s data collection and usage relating to information we may collect on our website as well as information we process through Eightfold Logic’s products and services (collectively “Eightfold Logic Products”).
 
