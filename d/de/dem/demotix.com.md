@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demotix.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015045905id_/http%3A//www.demotix.com/m/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demotix.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513190446id_/http%3A//www.demotix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Demotix.com
 
@@ -177,3 +177,5 @@ Demotix
 111 Salusbury Road  
 London, NW6 6RG  
 England
+
+0207 6447501
