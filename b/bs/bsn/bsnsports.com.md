@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bsnsports.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208051241id_/http%3A//www.bsnsports.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsnsports.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513042911id_/http%3A//www.bsnsports.com/privacy) for the most accurate reproduction.*
 
-# BSN sports Privacy Policy | BSN Sports
+# BSN sports Privacy Policy | BSN SPORTS
 
 #### BSN SPORTS - Privacy Policy
 
