@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wellcome.ac.uk privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014201805id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellcome.ac.uk privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513020756id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm) for the most accurate reproduction.*
 
 # Privacy statement | Wellcome Trust
 
-The Wellcome Trust regards the lawful and correct treatment of personal information as very important and is fully committed to the principles of data protection, as set out in the Data Protection Act.
+The Wellcome Trust regards the lawful and correct treatment of personal information as very important and is fully committed to the principles of data protection, as set out in the Data Protection Act 1998.
 
 ## **Why we collect information about you**
 
@@ -10,7 +10,7 @@ We process personal data in connection with our charitable mission to support th
 
 ## **What information we collect about you and how we use this**
 
-You may be asked for personal information if you want to take advantage of specific services we offer, such as when completing a publication subscription form or a Library joining form, when arranging Library appointments, or in connection with Wellcome Collection activities. We will use the personal information you provide to administer our relationship with you and deliver the services you have told us you wish to use or to send you information that you have requested, and we may offer you the opportunity to receive additional information about our activities or those of our partners and service providers. You may opt out of this at any time by contacting us.
+You may be asked for personal information if you want to take advantage of specific services we offer, such as when completing a publication subscription form or a Library joining form, when arranging Library appointments, or in connection with Wellcome Collection activities. We will use the personal information you provide to administer our relationship with you and deliver the services you have told us you wish to use or to send you information that you have requested. We may offer you the opportunity to opt in to receiving additional information about our activities or those of our partners and service providers. You may opt out of this at any time by contacting us.
 
 Information that you supply in connection with the provision of a service or a grant application and any funding arising from it will be treated in confidence and in accordance with the principles of the Data Protection Act. Details are given on the grant application forms regarding how personal information provided as part of a grant application, and any subsequent award, is used.
 
@@ -28,7 +28,7 @@ Like most other organisations, the Wellcome Trust uses cookies on its websites.
 
 Cookies are text files that are placed on your computer when you visit a website, which identify your computer to the server. Cookies do not identify the individual user, just the computer used.
 
-Cookies provide information to the website owner and some are essential to allow parts of the website to operate.  [Find out more about cookies and the Trust’s use of them.](http://policy.cookiereports.com/eea6c8d6.html "Find out more about cookies and the Trust’s use of them.")
+Cookies provide information to the website owner and some are essential to allow parts of the website to operate.  [Find out more about cookies and the Trust’s use of them.](http://www.wellcome.ac.uk/About-this-site/cookies/index.htm "Find out more about cookies and the Trust’s use of them.")
 
 ## **Do we use CCTV?**
 
@@ -44,9 +44,9 @@ We use appropriate organisational and technical measures to ensure that your dat
 
 ## **Do we share your information with anyone else?**
 
-The Trust does not pass on your information to others unless we have stated that we will do so as part of our terms and conditions. Some of our publications are distributed by third parties, but we agree with those third parties that they will keep your information secure and not use it for other purposes.
+The Trust does not pass on your information to others unless we have stated that we will do so as part of our terms and conditions. Some of our publications are distributed by or with the assistance of third parties, but we agree with those third parties that they will keep your information secure and not use it for other purposes.
 
-We may ask you for your agreement to send your contact details to organisations that help us to provide certain services so that they can tell you about their products and services. This will be clearly explained at the point where we collect your information. You will be given the opportunity to decline or to choose how you are contacted.
+We may ask you for your agreement to send your contact details to third parties that help us to provide certain services so that they can tell you about their products and services. This will be clearly explained at the point where we collect your information. You will be given the opportunity to decline or to choose how you are contacted.
 
 ## **Your rights**
 
@@ -54,8 +54,12 @@ You have the right to ask us at any time not to contact you or to change your pr
 
 You have the right to ask for a copy of the information we hold about you (for which we may charge a small fee) and to have any inaccuracies in your information corrected.
 
+## **Changes to our privacy statement**
+
+Any changes we may make to our privacy statement in the future will be posted on this page. Please check frequently to read any updates or changes we have made.
+
 ## **How to tell us about changes**
 
 If you have any questions about data protection or require further information, please email  [dataprotection@wellcome.ac.uk](mailto:dataprotection@wellcome.ac.uk "dataprotection@wellcome.ac.uk") or write to the Data Protection Compliance Officer, Wellcome Trust, Gibbs Building, 215 Euston Road, London NW1 2BE, UK.
 
-This privacy policy covers the  [Wellcome Trust website](http://www.wellcome.ac.uk/ "Error - target node or document does not exist"), the  [Wellcome Collection website](http://www.wellcomecollection.org/ "Wellcome Collection website"), the  [Wellcome Library website](http://library.wellcome.ac.uk/ "Wellcome Library website"), the  [Wellcome Images](http://images.wellcome.ac.uk/ "Wellcome Images") website and the  [Wellcome Collection Conference Centre website](http://www.wellcomecollectionconference.org/ "Wellcome Collection Conference Centre website"). Other websites linked to from these sites are not covered by this policy.
+This privacy policy covers the  [Wellcome Trust website](http://www.wellcome.ac.uk/ "Error - target node or document does not exist"), the  [Wellcome Collection website](http://www.wellcomecollection.org/ "Wellcome Collection website"), the  [Wellcome Library website](http://library.wellcome.ac.uk/ "Wellcome Library website"), the  [Wellcome Images](http://images.wellcome.ac.uk/ "Wellcome Images") website, the  [Wellcome Collection Conference Centre website](http://www.wellcomecollectionconference.org/ "Wellcome Collection Conference Centre website") and the  [Mosaic website](http://mosaicscience.com/ "Mosaic website"). Other websites linked to from these sites are not covered by this policy.
