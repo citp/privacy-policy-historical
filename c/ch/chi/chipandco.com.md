@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chipandco.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110193631id_/http%3A//www.chipandco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chipandco.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513155349id_/http%3A//www.chipandco.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Chip and Co
+# Privacy Policy
 
 [Chip and Co](http://www.chipandco.com/) takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
@@ -38,5 +38,3 @@ policies.
 Contact Information
 
 Concerns or questions can be directed to chip@chipandco.com for further clarification.
-
-[](http://inttrax.com/track?cid=36205&pubid=55834&crid=353804&subid=&subid2=)
