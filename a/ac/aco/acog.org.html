@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the acog.org privacy policy that was archived on 2013-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131109175851id_/http%3A//www.acog.org/About_ACOG/Privacy_Statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the acog.org privacy policy that was archived on 2014-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140513124529id_/http%3A//www.acog.org/About_ACOG/Privacy_Statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	ACOG - Privacy Statement
@@ -35,10 +35,11 @@
     <script type="text/javascript">
 
         var _gaq = _gaq || [];
+
         var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
         _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
         _gaq.push(['_setAccount', 'UA-2202366-1']);
-//      _gaq.push(['_setDomainName', 'www.acog.org']);
+        //      _gaq.push(['_setDomainName', 'www.acog.org']);
         _gaq.push(['_setDomainName', 'acog.org']);
         _gaq.push(['_setAllowAnchor', true]);
         _gaq.push(['_trackPageview']);
@@ -53,17 +54,46 @@
     <script type="text/javascript">
         if (typeof jQuery != 'undefined') {
 
-            jQuery(document).ready(function ($) {
+            jQuery(document).ready(function () {
+
+                jQuery('[placeholder]').focus(function () {
+                    var input = jQuery(this);
+                    if (input.val() == input.attr('placeholder')) {
+                        input.val('');
+                        input.removeClass('placeholder');
+                    }
+                }).blur(function () {
+                    var input = jQuery(this);
+                    if (input.val() == '' || input.val() == input.attr('placeholder')) {
+                        input.addClass('placeholder');
+                        input.val(input.attr('placeholder'));
+                    }
+                }).blur().parents('form').submit(function () {
+                    jQuery(this).find('[placeholder]').each(function () {
+                        var input = jQuery(this);
+                        if (input.val() == input.attr('placeholder')) {
+                            input.val('');
+                        }
+                    });
+                });
+
+                var $currentUri = 'http://www.acog.org/About_ACOG/Privacy_Statement';
+                var $isUserLoggedin = 'False';
+                _gaq.push(["_setCustomVar", 1, "User Is Logged In", $isUserLoggedin.toString(), 2]);
+
                 var filetypes = /\.(zip|pdf|doc*|xls*|ppt*|jpg|ashx)$/i;
                 var baseHref = '';
-                if (jQuery('base').attr('href') != undefined) baseHref = jQuery('base').attr('href');
+
+                if (jQuery('base').attr('href') != undefined)
+                    baseHref = jQuery('base').attr('href');
+
                 jQuery('a').each(function () {
                     var href = jQuery(this).attr('href');
+
                     if (href) {
 
-                        if (href.indexOf('?') != '-1') {
+                        if (href.indexOf('?') != '-1')
                             href = href.substring(0, href.indexOf('?'));
-                        }
 
                         if (href.match(filetypes)) {
                             jQuery(this).click(function () {
@@ -71,13 +101,26 @@
                                 var filePath = String(href);
 
                                 _gaq.push(['_trackEvent', 'Download', extension, filePath]);
+
                                 if (jQuery(this).attr('target') != undefined && jQuery(this).attr('target').toLowerCase() != '_blank') {
-                                    setTimeout(function () {
-                                        location.href = baseHref + href;
-                                    }, 200);
+                                    setTimeout(function () { location.href = baseHref + href; }, 200);
                                     return false;
                                 }
+                               
                             });
+                        } else {
+
+                            jQuery(this).click(function () {
+                                var filePath = String(href);
+                                _gaq.push(['_trackEvent', 'Click', $currentUri, filePath]);
+
+                                if (jQuery(this).attr('target') != undefined && jQuery(this).attr('target').toLowerCase() != '_blank') {
+                                    setTimeout(function () { location.href = baseHref + href; }, 200);
+                                    return false;
+                                }
+                              
+                            });
+
                         }
                     }
                 });
@@ -97,21 +140,24 @@
         var acogSpotlightAutoStart = true;
         var acogSpotlightScrollTime = 7;
         var acogSpotlightScrollItems = 1;
+
+
     </script>
 </head>
 <body>
     <form method="post" action="Privacy_Statement" id="mainform">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDAxMDg4Mjc3ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQURSW1hZ2VCdXR0b25TZWFyY2iRmB5Uq919rmHMu8Djm5kHU9rErQ==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTkxOTIwMjgyNGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFEUltYWdlQnV0dG9uU2VhcmNotTsNWxmCDM7dFMBmzNsrHc/OiKw=">
 
 
-<script src="/ScriptResource.axd?d=hS9e2_OZIGsRlCm0oV_TG4U61vRxuOzb6ooHxIlu5o8Fg3jyYCyHm_Mry7q7aFGUlS-ySi9lzvGFwUoqhSfPPUUTTzXyN91W5jWo4s531KvaCLCXjWQRI4Ph-aXTlduoApyfBiQ8kzthU-5K_-siPEtwXbw1&amp;t=4fd3f051" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwK/zohPAvyOkZMGArj4xfsNe+T/+9D9au9Wn/NWyZvN8ETaA7E=">
+<script src="/ScriptResource.axd?d=0PbQb-tbFuAqKd_-AFVXapqPGCvGroluzvMsPCQP97H61qPKZpBYclbsbDr_qmUiAAirYc9hT1HYGN5v4xfr0fVdBIyhye5M5owkMTem50Ity19m942xgigJvDwHyDds7Sb3covh0GuSltSA3z3e5FzU9l81&amp;t=ca758f3" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAPBJjL6UJGHycaD5pMiSgSGV4kST/Sgqz91qh5DZ/kFDVs1Ugk5PJpPlksKqOQHIoPTjhGMdlk6j1P49eFEUMJF+nPFsg==">
     
     
     <div id="pageLeader" class="advertise_leader">
         <div id="oaswrap">
             <!-- BEGIN RICH-MEDIA Wolters Kluwer CODE -->
-            <div id="oas_Top"></div>
+            <div id="oas_Top">
+            </div>
             <a href="/About_ACOG/Advertising.aspx"><font size="-2">Advertisement</font></a>
         </div>
         <!-- END Wolters Kluwer CODE -->
@@ -119,7 +165,7 @@
     <div class="page_container">
         <div class="header">
             <div class="logo">
-                <a href="/">
+                <a href="/goto/acoglogo">
                     <img src="/~/media/acog_logo.gif" id="headerLogo" alt="ACOG Logo"></a>
             </div>
             <div id="FindUs" class="find_us">
@@ -136,7 +182,7 @@
                         
                             <li><a href="http://acogpresident.org" id="SocailMediaRepeater_SocialMediaHyperLink_3" title="$name" target="_blank" class=""><img title="Blogger" src="/~/media/Icons/Social%20Media/icon_blogger.jpg" alt="Blogger"></a></li>
                         
-                            <li><a href="/RSS" id="SocailMediaRepeater_SocialMediaHyperLink_4" title="$name" class=""><img title="RSS Feed" src="/~/media/Icons/Social%20Media/rss20x20.gif" alt="RSS Feed"></a></li>
+                            <li><a href="http://www.acog.org/RSS" id="SocailMediaRepeater_SocialMediaHyperLink_4" title="$name" class=""><img title="RSS Feed" src="/~/media/Icons/Social%20Media/rss20x20.gif" alt="RSS Feed"></a></li>
                         
                     
                 </ul>
@@ -149,13 +195,13 @@
                         
                     </li>
                     
-                            <li><a href="/MyACOG">
+                            <li><a href="http://www.acog.org/MyACOG">
                                 My ACOG</a></li>
                         
-                            <li><a href="/About_ACOG">
+                            <li><a href="http://www.acog.org/About_ACOG">
                                 About ACOG</a></li>
                         
-                            <li><a href="/About_ACOG/Contact_Us">
+                            <li><a href="http://www.acog.org/About_ACOG/Contact_Us">
                                 Contact Us</a></li>
                         
                 </ul>
@@ -163,50 +209,50 @@
             <div class="search_box">
                 <input name="SearchBoxMain" type="text" value="Enter Search Keyword" id="SearchBoxMain" class="search_textbox" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ImageButtonSearch')">
                 <div class="btnwrap">
-                    <input type="image" name="ImageButtonSearch" id="ImageButtonSearch" class="search_btn" src="/ACOGProject/ACOG/frontend/images/headerSearchBtn.png" alt="search">
+                    <input type="image" name="ImageButtonSearch" id="ImageButtonSearch" class="search_btn" src="/ACOGProject/ACOG/frontend/images/headerSearchBtn.png" alt="search" onclick="window._gaq.push(['_setCustomVar', '2', 'Keyword', 'Enter Search Keyword', '3']);">
                 </div>
             </div>
             <div class="navigation">
                 <ul>
                     
                             <li>
-                                <a id="navigation_HyperLinkNavigation_0" href="/">Home</a>
+                                <a id="navigation_HyperLinkNavigation_0" href="http://www.acog.org/">Home</a>
                             </li>
                         
                             <li>
-                                <a id="navigation_HyperLinkNavigation_1" href="/Resources_And_Publications">Resources &amp; Publications</a>
+                                <a id="navigation_HyperLinkNavigation_1" href="http://www.acog.org/Resources_And_Publications">Resources &amp; Publications</a>
                             </li>
                         
                             <li>
-                                <a id="navigation_HyperLinkNavigation_2" href="/Practice_Management">Practice Management</a>
+                                <a id="navigation_HyperLinkNavigation_2" href="http://www.acog.org/Practice_Management">Practice Management</a>
                             </li>
                         
                             <li>
-                                <a id="navigation_HyperLinkNavigation_3" href="/Education_and_Events">Education &amp; Events</a>
+                                <a id="navigation_HyperLinkNavigation_3" href="http://www.acog.org/Education_and_Events">Education &amp; Events</a>
                             </li>
                         
                             <li>
-                                <a id="navigation_HyperLinkNavigation_4" href="/Advocacy">Advocacy</a>
+                                <a id="navigation_HyperLinkNavigation_4" href="http://www.acog.org/Advocacy">Advocacy</a>
                             </li>
                         
                             <li>
-                                <a id="navigation_HyperLinkNavigation_5" href="/For_Patients">For Patients</a>
+                                <a id="navigation_HyperLinkNavigation_5" href="http://www.acog.org/For_Patients">For Patients</a>
                             </li>
                         
                             <li>
-                                <a id="navigation_HyperLinkNavigation_6" class="current" href="/About_ACOG">About ACOG</a>
+                                <a id="navigation_HyperLinkNavigation_6" class="current" href="http://www.acog.org/About_ACOG">About ACOG</a>
                             </li>
                         
                 </ul>
             </div>
         </div>
         <div id="secondaryPageHeader" class="page_header">
-            <a href="/About_ACOG/Find_an_Ob-Gyn" id="FindObgyn">
+            <a href="http://www.acog.org/About_ACOG/Find_an_Ob-Gyn" id="FindObgyn">
                 <img src="/~/media/Images/find_obgyn.png" id="ObgynImage" alt="Find an OBGYN"></a>
             <h2 id="title">Privacy Statement</h2>
             <div id="breadcrumbDiv" class="breadcrumbs">
                 <ul id="breadcrumbs">
-                <li><a href="/">Home</a></li><li><a href="/About_ACOG">About ACOG</a></li><li class="last_breadcrumb">Privacy Statement</li></ul>
+                <li><a href="http://www.acog.org/">Home</a></li><li><a href="http://www.acog.org/About_ACOG">About ACOG</a></li><li class="last_breadcrumb">Privacy Statement</li></ul>
             </div>
         </div>
         <div id="page_content" class="page_content ">
@@ -219,77 +265,72 @@
 <ul id="all_content_0_left_nav_0_LeftNav">
     
             <li>
-                <a href="/About_ACOG/ACOG_Departments">ACOG Departments &amp; Activities</a>
+                <a href="http://www.acog.org/About_ACOG/ACOG_Departments">ACOG Departments &amp; Activities</a>
                 
             </li>
         
             <li>
-                <a href="/About_ACOG/ACOG_Districts">ACOG Districts</a>
+                <a href="http://www.acog.org/About_ACOG/ACOG_Districts">ACOG Districts</a>
                 
             </li>
         
             <li>
-                <a href="/About_ACOG/ACOG_Sections">ACOG Sections</a>
+                <a href="http://www.acog.org/About_ACOG/ACOG_Sections">ACOG Sections</a>
                 
             </li>
         
             <li>
-                <a href="/About_ACOG/Announcements">Announcements</a>
+                <a href="http://www.acog.org/About_ACOG/Announcements">Announcements</a>
                 
             </li>
         
             <li>
-                <a href="/About_ACOG/Contact_Us">Contact Us</a>
+                <a href="http://www.acog.org/About_ACOG/Contact_Us">Contact Us</a>
                 
             </li>
         
             <li>
-                <a href="/About_ACOG/Find_an_Ob-Gyn">Find an Ob-Gyn</a>
+                <a href="http://www.acog.org/About_ACOG/Find_an_Ob-Gyn">Find an Ob-Gyn</a>
                 
             </li>
         
             <li>
-                <a href="/About_ACOG/ACOG_Departments/Junior_Fellows">Junior Fellows</a>
+                <a href="http://www.acog.org/About_ACOG/ACOG_Departments/Junior_Fellows">Junior Fellows</a>
                 
             </li>
         
             <li>
-                <a href="/About_ACOG/Leadership_and_Governance">Leadership &amp; Governance</a>
+                <a href="http://www.acog.org/About_ACOG/Leadership_and_Governance">Leadership &amp; Governance</a>
                 
             </li>
         
             <li>
-                <a href="/About_ACOG/ACOG_Departments/Medical_Students">Medical Students</a>
+                <a href="http://www.acog.org/About_ACOG/ACOG_Departments/Medical_Students">Medical Students</a>
                 
             </li>
         
             <li>
-                <a href="/About_ACOG/ACOG_Departments/Membership_Services">Membership Services</a>
+                <a href="http://www.acog.org/About_ACOG/ACOG_Departments/Membership_Services">Membership Services</a>
                 
             </li>
         
             <li>
-                <a href="/About_ACOG/News_Room">News Room</a>
+                <a href="http://www.acog.org/About_ACOG/News_Room">News Room</a>
                 
             </li>
         
             <li>
-                <a href="/About_ACOG/Online_Discussion">Online Discussion</a>
+                <a href="http://www.acog.org/About_ACOG/Other_ACOG_Resources">Other ACOG Resources</a>
                 
             </li>
         
             <li>
-                <a href="/About_ACOG/Other_ACOG_Resources">Other ACOG Resources</a>
+                <a href="http://www.acog.org/About_ACOG/Strategic_Plan">Strategic Plan</a>
                 
             </li>
         
             <li>
-                <a href="/About_ACOG/Strategic_Plan">Strategic Plan</a>
-                
-            </li>
-        
-            <li>
-                <a href="/About_ACOG/ACOG_Departments/Young_Physicians">Young Physicians</a>
+                <a href="http://www.acog.org/About_ACOG/ACOG_Departments/Young_Physicians">Young Physicians</a>
                 
             </li>
         
@@ -336,39 +377,38 @@
             <div class="footerLinks">
                 <ul>
                     
-                            <li><a href="/About_ACOG/Contact_Us">
+                            <li><a href="http://www.acog.org/About_ACOG/Contact_Us">
                                 Contact Us</a></li>
                         
-                            <li><a href="/About_ACOG/Copyright_Information">
+                            <li><a href="http://www.acog.org/About_ACOG/Copyright_Information">
                                 Copyright Information</a></li>
                         
-                            <li><a href="/About_ACOG/Green_Journal_Direct_Link_No_Authentication">
+                            <li><a href="http://www.acog.org/About_ACOG/Green_Journal_Direct_Link_No_Authentication">
                                 Green Journal</a></li>
                         
-                            <li><a href="/About_ACOG/News_Room">
+                            <li><a href="http://www.acog.org/About_ACOG/News_Room">
                                 News Room</a></li>
                         
-                            <li><a href="/About_ACOG/Privacy_Statement">
+                            <li><a href="http://www.acog.org/About_ACOG/Privacy_Statement">
                                 Privacy Statement</a></li>
                         
-                            <li><a href="/Resources_And_Publications">
+                            <li><a href="http://www.acog.org/Resources_And_Publications">
                                 Resources &amp; Publications</a></li>
                         
-                            <li><a href="/RSS">
+                            <li><a href="http://www.acog.org/RSS">
                                 RSS</a></li>
                         
-                            <li><a href="/Sitemap">
+                            <li><a href="http://www.acog.org/Sitemap">
                                 Sitemap</a></li>
                         
                 </ul>
                 <div id="footerText"><p>American Congress of Obstetricians and Gynecologists<br>
 409 12th Street SW, Washington, DC&nbsp; 20024-2188 | Mailing Address: PO Box 70620, Washington, DC 20024-9998</p></div>
             </div>
-            <div id="copyright" class="copyright"><p>Copyright <script type="text/javascript">now=new Date();var year = new Date();document.write(year.getFullYear());</script>2020. All rights reserved. Use of this Web site constitutes acceptance of our <a href="/About_ACOG/Terms_of_Use">Terms of Use</a></p></div>
+            <div id="copyright" class="copyright"><p>Copyright <script type="text/javascript">now=new Date();var year = new Date();document.write(year.getFullYear());</script>2020. All rights reserved. Use of this Web site constitutes acceptance of our <a href="http://www.acog.org/About_ACOG/Terms_of_Use">Terms of Use</a></p></div>
         </div>
     </div>
     </form>
-
     <!-- Begin Wolters Kluwer Advertising Code -->
     <script type="text/javascript">
         var oas_tag = {};
@@ -405,9 +445,8 @@
                 oas_tag.reloadAds();
             }, bannerUpdateInterval);
         }
-    </script>    
+    </script>
     <!-- End Wolters Kluwer Advertising Code -->
-
 
 
 </body></html>
