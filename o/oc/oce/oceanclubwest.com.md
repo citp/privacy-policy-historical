@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oceanclubwest.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629023321id_/http%3A//oceanclubresorts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oceanclubwest.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514003030id_/http%3A//oceanclubresorts.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Ocean Club Resorts
+# Privacy Policy Ocean Club Resorts
 
 Privacy Policy
 
