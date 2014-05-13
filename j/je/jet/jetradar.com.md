@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the jetradar.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110170929id_/http%3A//www.jetradar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetradar.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513230016id_/http%3A//www.jetradar.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Jetradar
-
-"Quality app prices always match to individual companies, even shows Ryanair flights, even though Ryanair charge £2.49 for their apps. It's grrrrrreat"
-
-Sharrbaz (AppStore, UK)
 
 **(Version 3 after 15/01/2013. If you disagree with any of the items below, please don’t use our web sites.)**
 
