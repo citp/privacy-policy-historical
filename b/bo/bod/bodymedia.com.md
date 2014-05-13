@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bodymedia.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812092949id_/http%3A//www.bodymedia.com/Support-Help/Policies/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodymedia.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513220130id_/http%3A//www.bodymedia.com/support/policies/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# BodyMedia // Privacy Policy
 
 BodyMedia® is committed to the privacy and security of your personal information. The following privacy policy describes the information we collect and how we use it. By using this site you consent to our privacy policy.
 
@@ -9,8 +9,6 @@ Like many web sites, we gather information about how visitors use our web site. 
 ## TRUSTe
 
 [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.bodymedia.com&sealid=101) BodyMedia has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@bodymedia.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site.
-
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.bodymedia.com&sealid=102)BodyMedia complies with the U.S. - E.U. & U.S. - Swiss Safe Harbor Frameworks as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland. BodyMedia agrees under the Safe Harbor Frameworks to respond to a user's request to delete or change their personal information within 30 days of this request. Information regarding the Safe Harbor Frameworks can be found at: <http://export.gov/safeharbor>
 
 ## Information you give us
 
@@ -30,7 +28,7 @@ Cookies are alphanumeric identifiers that we transfer to your computer through y
 
   * Remember the items in your Shopping Cart
   * Recognize you when you return to our web site
-  * Analyze visitor behavior 
+  * Analyze visitor behavior
 
 
 
@@ -148,7 +146,7 @@ If you choose to self report your data (log your food, enter your weight, etc.),
 
 BodyMedia reserves the right to modify this privacy policy at any time, and at its sole discretion, and will provide prominent notice to users through posting an updated privacy policy on our homepage and on the site. Please review this site to be informed of any material changes to the privacy policy. The 'Last Updated' date at the bottom of this page will be updated after changes occur to the privacy policy.
 
-Last updated: November 16, 2012
+Last updated: September 17, 2013
 
 BodyMedia, Inc.  
 One Gateway Center  
@@ -158,5 +156,3 @@ Pittsburgh, PA, 15222
 United States of America  
 Phone: 412-288-9901  
 Fax: 412-288-9902
-
-* * *
