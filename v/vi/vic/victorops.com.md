@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the victorops.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213055748id_/http%3A//victorops.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victorops.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513045507id_/http%3A//victorops.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - VictorOps
+# Privacy Policy | VictorOps
 
 The VictorOps application and the associated VictorOps website available at www.victorops.com (“VictorOps”) are owned and operated by VictorOps (“us” “we” or “our”). This VictorOps privacy policy (the “Privacy Policy”) is intended to inform you of our policies and practices regarding the collection, use and disclosure of any information you submit to us through VictorOps. This includes “Personal Information,” which is information about you that is personally identifiable such as your name, e-mail address, user ID number, and other non-public information that is associated with the foregoing, as well as “Anonymous Information,” which is information that is not associated with or linked to your Personal Information and does not permit the identification of individual persons.
 
 ## User Consent
 
-By accessing or otherwise using VictorOps, you agree to the terms and conditions of this Privacy Policy and the associated Terms of Service (set forth on [www.victorops.com/termsofservice](http://victorops.com/termsofservice)) you expressly consent to the processing of your Personal Information and Anonymous Information according to this Privacy Policy.
+By accessing or otherwise using VictorOps, you agree to the terms and conditions of this Privacy Policy and the associated Terms of Service (set forth on [www.victorops.com/termsofservice](http://victorops.com/termsofservice)) you expressly consent to the processing of your Personal Information and Anonymous Information according to this Privacy Policy.
 
 Your Personal Information may be processed by us in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent than the laws in your country.
 
@@ -63,7 +63,7 @@ We offer you choices regarding the collection, use, and sharing of your Personal
 
 Despite your indicated email preferences, we may send you administrative emails regarding VictorOps, including, for example, administrative confirmations, and notices of updates to our Privacy Policy if we choose to provide such notices to you in this manner.
 
-You may change any of your profile information by editing it in the profile settings page. You may request deletion of your Personal Information by contacting us at [support@victorops.com](mailto:support@victorops.com), but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request, only after we have fulfilled such requirements). When we delete Personal Information, it will be deleted from the active database, but may remain  
+You may change any of your profile information by editing it in the profile settings page. You may request deletion of your Personal Information by contacting us at [support@victorops.com](mailto:support@victorops.com), but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request, only after we have fulfilled such requirements). When we delete Personal Information, it will be deleted from the active database, but may remain  
 in our archives.
 
 ### Feedback
@@ -74,6 +74,6 @@ If you provide feedback to us, we may use and disclose such feedback for any pur
 
 We are committed to protecting the security of your Personal Information. We use a variety of industry-standard security technologies and procedures to help protect your Personal Information from unauthorized access, use, or disclosure. Even though we have taken significant steps to protect your Personal Information, no company, including us, can fully eliminate security risks associated with Personal Information.
 
-### Contact and Revisions
+## Contact and Revisions
 
-If you have questions or concerns about our Privacy Policy, please contact us at: [support@victorops.com](https://web.archive.org/web/20131213055748id_/http%3A//victorops.com/support@victorops.com). This Privacy Policy is subject to occasional revision at our discretion, and if we make any substantial changes in the way we use your Personal Information, we will post an alert on this page. If you object to any such changes, you must cease using VictorOps. Continued use of VictorOps following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
+If you have questions or concerns about our Privacy Policy, please contact us at: [support@victorops.com](http://victorops.com/privacypolicy/support@victorops.com). This Privacy Policy is subject to occasional revision at our discretion, and if we make any substantial changes in the way we use your Personal Information, we will post an alert on this page. If you object to any such changes, you must cease using VictorOps. Continued use of VictorOps following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
