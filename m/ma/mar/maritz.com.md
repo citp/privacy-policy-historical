@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maritz.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219042810id_/http%3A//www.maritz.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maritz.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513021038id_/http%3A//www.maritz.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -17,8 +17,7 @@ We use this information to learn about the number of people who visit our site a
 
 If you choose to provide information to us through our site by use of registration forms or otherwise (company name, email address, telephone number, etc.), it will be assumed that you are requesting information about our company and products. Your email address and all other personally identifiable information you provide may be used to fulfill your request and also may be used by us for other purposes related to your visit to our site or to further our business purposes.
 
-In general, we will not share personally identifiable information about you with third parties. We may send personally identifiable information about you, including your email address, to other companies or people when:  
-
+In general, we will not share personally identifiable information about you with third parties. We may send personally identifiable information about you, including your email address, to other companies or people when:
 
   * We have your consent to share the information
   * We need to share this information to provide to you the information, product or service you have requested
@@ -56,20 +55,17 @@ How to Contact Us
 If you have questions or comments about this Privacy Statement, or if you would like for us to update information we have about you or your preferences, please contact us by sending an e-mail to our Chief Privacy Officer, Derek Mays, at derek.mays@maritz.com, or by calling 636.827.2170. You may also write to:  
 Maritz  
 1375 N. Highway Dr.  
-Fenton, MO 63099  
-
+Fenton, MO 63099
 
 European Union, Swiss & Canadian Data Privacy
 
-This Privacy Statement (the "Statement") applies only to personal data (as defined below) that Maritz receives from the European Union ("EU"), Switzerland or Canada on or after November 1, 2003.
-
-Maritz adheres to the Safe Harbor Agreement concerning the transfer of personal data from the EU to the United States. Maritz also adheres to the Safe Harbor Agreement concerning the transfer of personal data from Switzerland to the United States. Accordingly, Maritz follows the Safe Harbor Principles published by the U.S. Department of Commerce ("Principles") with respect to all such data, and this Statement complies with such Principles. Compliance with the Principles may be limited, however, in certain cases to the extent necessary to meet national security, public interest or law enforcement requirements. All Maritz personnel with access to personal data are obligated to familiarize themselves and comply with provisions of this Statement.
+Maritz adheres to the Safe Harbor Agreement concerning the transfer of personal data from the EU to the United States. Maritz also adheres to the Safe Harbor Agreement concerning the transfer of personal data from Switzerland to the United States. Accordingly, Maritz follows the Safe Harbor Principles published by the U.S. Department of Commerce ("Principles") with respect to all such data, and this Privacy Statement complies with such Principles. Compliance with the Principles may be limited, however, in certain cases to the extent necessary to meet national security, public interest or law enforcement requirements. All Maritz personnel with access to personal data are obligated to familiarize themselves and comply with provisions of this Privacy Statement. To learn more about the Safe Harbor program, and to view Maritz' certification, please visit <http://www.export.gov/safeharbor/>
 
 Definitions
 
 "Sensitive personal data" is a subset of personal data that indicates an individual's medical or health condition, racial or ethnic origin, political opinions, religion, union membership, sexual orientation, or actual or alleged criminal activity.
 
-"Company" or "Maritz" refers to Maritz Holdings Inc., its U.S. subsidiaries and divisions, including but not limited to the following: Maritz Motivation Solutions Inc.; Maritz Research Inc., and Maritz Travel Company.
+"Maritz" refers to Maritz Holdings Inc., its U.S. subsidiaries and divisions, including but not limited to the following: Maritz Motivation Solutions Inc.; Maritz Research Inc., and Maritz Travel Company.
 
 Notice
 
@@ -99,7 +95,7 @@ Maritz takes reasonable precautions to protect personal data from loss, misuse, 
 
 Data Integrity
 
-Maritz takes reasonable steps to ensure that personal data is accurate, complete, current and relevant for the purposes for which it was collected. Among other steps, Maritz employees are asked to inform the Human Resources Division of any changes in their personal data.
+Maritz takes reasonable steps to ensure that personal data is accurate, complete, current and relevant for the purposes for which it was collected. Among other steps, Maritz employees are asked to inform a Human Resources representative of any changes in their personal data.
 
 Access
 
@@ -107,14 +103,14 @@ Upon request and consistent with any applicable client commitments, Maritz will 
 
 Enforcement
 
-Maritz will conduct an annual self-assessment to ensure that this Statement is published and disseminated within Maritz and that it conforms to the Principles. In addition, Maritz has deployed internal processes to monitor Maritz' compliance with the Principles and to address all questions or complaints. Maritz will also self-certify annually with the U.S. Department of Commerce as being in compliance with the Principles.
+Maritz will conduct an annual self-assessment to ensure that this Privacy Statement is published and disseminated within Maritz and that it conforms to the Principles. In addition, Maritz has deployed internal processes to monitor Maritz' compliance with the Principles and to address all questions or complaints. Maritz will also self-certify annually with the U.S. Department of Commerce as being in compliance with the Principles.
 
 Individuals may raise any concerns or complaints regarding their personal data directly with Maritz by contacting Maritz' Chief Privacy Officer, Derek C. Mays, at its Fenton, Missouri headquarters. If an individual raises such a concern or complaint, Maritz will investigate the matter and attempt to resolve all issues to the satisfaction of the individual raising the concern or complaint. If the matter cannot be settled at that stage, Maritz agrees to cooperate with competent Swiss, EU or Canadian data protection authorities.
 
 Modification and Amendment
 
-Maritz may modify or amend this Statement from time to time by posting a revised Statement on the web at www.maritz.com. If Maritz amends this Statement, the new statement will apply to personal data previously collected only insofar as the rights of the individuals affected are not reduced. So long as Maritz adheres to the Safe Harbor Agreement, Maritz will not amend this Statement in a manner inconsistent with the Principles.
+Maritz may modify or amend this Privacy Statement from time to time by posting a revised Privacy Statement on the web at www.maritz.com. If Maritz amends this Privacy Statement, the new statement will apply to personal data previously collected only insofar as the rights of the individuals affected are not reduced. So long as Maritz adheres to the Safe Harbor Agreement, Maritz will not amend this Privacy Statement in a manner inconsistent with the Principles.
 
 Other Maritz Policies
 
-This Statement is subject to other policies and procedures implemented by Maritz. For instance, if another Maritz policy or procedure grants broader rights to the Company relating to the collection, handling or disclosure of personal data, the Company may exercise those broader rights.
+This Privacy Statement is subject to other policies and procedures implemented by Maritz. For instance, if another Maritz policy or procedure grants broader rights to Maritz relating to the collection, handling or disclosure of personal data, Maritz may exercise those broader rights.
