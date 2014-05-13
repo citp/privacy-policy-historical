@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oh-berlin.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111192053id_/http%3A//www.oh-berlin.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oh-berlin.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513034554id_/http%3A//www.oh-berlin.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Statement of Oh-Berlin.com (Open House Spain S.L.)
 
