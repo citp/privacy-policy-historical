@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pureprofile.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128072738id_/http%3A//www.pureprofile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pureprofile.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513213154id_/http%3A//www.pureprofile.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - pureprofile
 
@@ -96,9 +96,9 @@ We are absolutely committed to these policies. This document forms part of our 
     3. required to do so by law.
   2. As mentioned above, Profile Information is only disclosed to Businesses in an aggregate and de-identified format and Campaigns responses are provided Businesses in a de-identified format.  We never provide any personally identifiable Information about you to a Business unless you expressly grant us permission to do so.  This permission will (unless otherwise indicated) generally be required on a case-by-case basis.
   3. We only disclose your banking details to our bank to action your redemption requests.  This disclosure occurs in an extremely secure and protected online facility.
-  4. The response data for some Campaigns may be analysed and aggregated by employees in Our overseas offices.  You agree to allow your Campaign response data to be processed in countries outside of Australia.  Our foreign employees are required to maintain the same privacy standards as required of our employees based in Australia.
-  5. Additionally, some Campaigns may originate from Businesses which are based outside of Australia and accordingly you agree to allow your Campaign response data to be provided to Business which operate or are based outside of Australia.
-  6. As part of our commitment to adopting best practices and procedures we have recognised the need to use third party hosting facilities which are located outside of Australia.  This arrangement aims to ensure that your Information is constantly accessible and backed up in secure data storage facilities.  We will ensure that any third part hosting providers used are not permitted access to your Information.
+  4. The response data for some Campaigns may be analysed and aggregated by employees in Our overseas offices located in Australia, the United Kingdom and India.  You agree to allow your Campaign response data to be processed in countries outside of the United States.  Our foreign employees are required to maintain the same privacy standards as required of our employees based in the United States.
+  5. Additionally, some Campaigns may originate from Businesses which are based outside of the United States and accordingly you agree to allow your Campaign response data to be provided to Business which operate or are based outside of the United States.
+  6. As part of our commitment to adopting best practices and procedures we have recognised the need to use third party hosting facilities which are located outside of the United States.  This arrangement aims to ensure that your Information is constantly accessible and backed up in secure data storage facilities.  We will ensure that any third part hosting providers used are not permitted access to your Information.
   7. If you associate your Personal Account with another website or online account through the Platform, an Application or any other means, we may save any data retrieved via this association into our system.  Before any such data transfer can occur, the nature of the data being transferred will be outlined to you and your express consent will be required to action the transfer.  You should read the terms of any Application carefully before accepting and using an Application.
 
 
@@ -121,7 +121,7 @@ You are always able to disassociate your Personal Account from any Application o
   1. Defined terms used in this Privacy Policy have the same meaning as those used in the [Terms of Service](http://www.pureprofile.com/terms). Please refer to the [Terms of Service](http://www.pureprofile.com/terms) as appropriate.
   2. Using pureprofile and maintaining a Personal Account is completely opt-in and you may close your pureprofile account at any time.
   3. By registering a Personal Account you agree that you understand and accept this Privacy Policy.
-  4. In the event that you should have any complaints to make about either our privacy policies or procedures, please send them via the 'Contact Us' section of the Site.
+  4. In the event that you should have any complaints to make about either our privacy policies or procedures, please send them via the 'Contact Us' section of the Site with the subject heading "Attention: Privacy Officer".
   5. We may change the Privacy Policy from time to time and will notify you in the event of any changes.
 
 
