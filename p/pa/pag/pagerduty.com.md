@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagerduty.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806080409id_/http%3A//www.pagerduty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagerduty.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513163734id_/http%3A//www.pagerduty.com/privacy-policy) for the most accurate reproduction.*
 
 # PagerDuty | Privacy Policy
 
