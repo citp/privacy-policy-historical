@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikiloc.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215160352id_/http%3A//www.wikiloc.com/wikiloc/privacy.html%3Fv1.0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikiloc.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513130025id_/http%3A//www.wikiloc.com/wikiloc/privacy.html%3Fv1.2) for the most accurate reproduction.*
 
 # Privacy policy - Wikiloc
 
@@ -38,7 +38,38 @@ Wikiloc does not collect the age or the date of birth of its users. Accordingly,
 
 Additionally, users may upload their trails through the Services, including geographical information, date, means of transport, trail duration, difficulty level, pictures taken, videos recorded and any comments they deem appropriate. Users may also identify their favorite trails, and keep track of other users’ activities. 
 
-##  2\. COMMUNICATION OF PERSONAL DATA 
+## 2\. USE OF COOKIES
+
+The Website uses cookies to facilitate and customize user navigation through the Website.
+
+A cookie is a small piece of text that web sites you visit send to the browser to allow the web site to remember information about your visit.   
+Wikiloc uses cookies to remember preferences such as your language, increasing the relevancy of the ads you see, count the number of visitors on pages or allow you to log in to download content and access your personal space.
+
+Wikiloc cookies help provide additional functionality to the Website and help Wikiloc analyze the Website usage more accurately. For instance, the Website may set a cookie on the user’s browser that prevents the user from having to remember and then enter a password more than once during a visit to the Website. On most web browsers, users will find a "help" section on the toolbar. Wikiloc refers to this section for information on how to receive notification when receiving a new cookie and how to turn cookies off. Wikiloc informs users that allowing the use of cookies by their browser will permit users to take advantage of some of the Website's features.
+
+### What kind of cookies uses Wikiloc?
+
+We use our own cookies with the sole purpose of providing you an enjoyable navigation such as remembering the language in which you prefer to browse the site or session information to allow you access your personal space on Wikiloc.
+
+Wikiloc does not use own cookies with advertising purposes, nor to associate browsing data with individuals that have not been previously identified.
+
+### We also use third party cookies, Google Analytics, Google AdSense, Google DFP
+
+Third parties advertising on the Website could use cookies or ‘web beacons’ for which Wikiloc would not be responsible and which would not be governed by this Privacy Policy, so it is the responsibility of the user to set the options in his/her browser in order that cookies are only used according to his/her own preferences.
+
+Google Analytics cookies are statistical means to measure web traffic to help us learn what pages are most visited and allow us to identify which parts of the site we need to improve. Google has detailed and updated information on these cookies : <http://www.google.es/intl/es/analytics/privacyoverview.html>
+
+We also use Google AdSense to display ads on some pages at Wikiloc. Google AdSense and Google DFP cookies have the primary objective of showing ads relevant and of interest to the user. For further information on AdSense cookies visit: <http://www.google.com/intl/es/policies/technologies/ads/>
+
+This Website also has access to the IP address with which each user accesses the Website (including any access from the Applications). The IP address with which each user accesses the Website may be different each time. Additionally, different users can share a single IP address.
+
+Even though Wikiloc does not and will not attempt to associate the IP address with specific individuals, accessing IP addresses could be regarded as a processing of personal data given the possibility to identify the individual to which an IP address is associated (more a theoretical than an actual possibility). Consequently, according to the applicable data protection law, this Privacy Policy will apply.
+
+### How to disable cookies in your browser
+
+Browsers allow you to configure the acceptance or rejection of cookies. These settings depend on each browser but you can usually find them in the "Options" or " Preferences" on the browser’s main menu.
+
+##  3\. COMMUNICATION OF PERSONAL DATA 
 
 The way the Services work implies that part of the information provided by the users will be available to other Website users through the Website or the Applications. Such other users with access to that information could be located anywhere in the world. Users should refrain from providing information during the registration process which they do not want to make available to other users. Providing such additional information is not a requirement for using the Services. Users may, at any time, modify or delete this information (except for the nickname and email address) by accessing to "Your settings page". However, Wikiloc will not publish users email unless they mark it as "public" during the registration process or afterwards. 
 
@@ -52,7 +83,7 @@ Wikiloc also offers users the possibility to show their trails on Facebook. In o
 
 Wikiloc runs a forum in which users request help or make suggestions. Personal data provided by the users in this forum is subject to the provisions of this Privacy Policy, and is available to other users of the forum. 
 
-##  3\. EXERCISE OF THE RIGHTS OF ACCESS, RECTIFICATION, CANCELATION AND OBJECTION. 
+##  4\. EXERCISE OF THE RIGHTS OF ACCESS, RECTIFICATION, CANCELATION AND OBJECTION. 
 
 Wikiloc guarantees the exercise of the rights of access, rectification, cancelation and right to objection that Constitutional Law 15/1999 grants data subjects before the data controllers. As provided above, users may access and modify their information directly in "Your settings page". 
 
@@ -72,20 +103,6 @@ The communication shall be addressed to the data controller and shall include:
 Wikiloc shall answer the request in all cases, regardless of whether or not there is personal data of the particular data subject within its personal data filing systems. If the request does not comply with the requirements above, Wikiloc shall request the data subject to provide the necessary additional information. 
 
 The following provisions will apply depending on Wikiloc’s collection of certain types of personal data: 
-
-##  4\. USE OF COOKIES AND USER’S IP ADDRESSES 
-
-The Website uses cookies to facilitate and customize user navigation through the Website. 
-
-In operating this Website, Wikiloc may use cookies. A cookie is a piece of information that the computer or computers that host the Webite give to the user’s browser when accessing the Website. Wikiloc cookies help provide additional functionality to the Website and help Wikiloc analyze the Website usage more accurately. For instance, the Website may set a cookie on the user’s browser that prevents the user from having to remember and then enter a password more than once during a visit to the Website. On most web browsers, users will find a "help" section on the toolbar. Wikiloc refers to this section for information on how to receive notification when receiving a new cookie and how to turn cookies off. Wikiloc informs users that allowing the use of cookies by their browser will permit users to take advantage of some of the Website’s features. 
-
-Wikiloc does not use cookies with advertising purposes, nor to associate browsing data with individuals that have not been previously identified. 
-
-This Website also has access to the IP address with which each user accesses the Website (including any access from the Applications). The IP address with which each user accesses the Website may be different each time. Additionally, different users can share a single IP address. 
-
-Even though Wikiloc does not and will not attempt to associate the IP address with specific individuals, accessing IP addresses could be regarded as a processing of personal data given the possibility to identify the individual to which an IP address is associated (more a theoretical than an actual possibility). Consequently, according to the applicable data protection law, this Privacy Policy will apply. 
-
-Third parties advertising on the Website could use cookies or ‘web beacons’ for which Wikiloc would not be responsible and which would not be governed by this Privacy Policy, so it is the responsibility of the user to set the options in his/her browser in order that cookies are only used according to his/her own preferences. 
 
 ##  5\. COMMUNICATIONS RECEIVED ON THE WEBSITE’S CONTACT SECTION AND COMMENTS INCLUDED IN THE BLOG 
 
