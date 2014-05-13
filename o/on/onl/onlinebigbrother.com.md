@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinebigbrother.com privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011204701id_/http%3A//www.onlinebigbrother.com/onlinebigbrother-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinebigbrother.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513190334id_/http%3A//www.onlinebigbrother.com/onlinebigbrother-privacy-policy) for the most accurate reproduction.*
 
-# Onlinebigbrother Privacy PolicyBig Brother 15 Spoilers | OnlineBigBrother Live Feed Updates
+# Onlinebigbrother Privacy PolicyBig Brother 16 Spoilers | OnlineBigBrother Live Feed Updates
 
 [](http://click.linksynergy.com/fs-bin/click?id=ZBPvjRdH9tw&offerid=287473.170&subid=0&type=4)  
 Privacy Policy for onlinebigbrother.com
