@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citygear.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102143555id_/http%3A//www.citygear.com/Privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citygear.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513234530id_/http%3A//www.citygear.com/Privacy-statement.html) for the most accurate reproduction.*
 
 # City Gear: Men's & Women's Footwear, Streetwear, and Headwear
 
