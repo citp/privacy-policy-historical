@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webdesignarticles.net privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106020355id_/http%3A//www.webdesignarticles.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdesignarticles.net privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514001133id_/http%3A//www.webdesignarticles.net/privacy) for the most accurate reproduction.*
 
-# | WebDesignArticles.net
+# Privacy | WebDesignArticles.net
 
 WebDesignArticles.net has created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
