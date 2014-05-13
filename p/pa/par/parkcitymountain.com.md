@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkcitymountain.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112184435id_/http%3A//www.parkcitymountain.com/%40%40tclickto/2145764770%3F_t%3Df) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkcitymountain.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514000842id_/http%3A//www.parkcitymountain.com/%40%40tclickto/2145764770%3F_t%3Df) for the most accurate reproduction.*
 
 # Privacy
 
