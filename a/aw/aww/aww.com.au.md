@@ -1,82 +1,178 @@
-> *The following text is extracted and transformed from the aww.com.au privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225124345id_/http%3A//www.aww.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aww.com.au privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513223152id_/http%3A//aww.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Australian Women's Weekly
 
-**The Australian Women’s Weekly Website Privacy Policy**
+**Bauer Media Pty Limited: Privacy Policy**
 
-Bauer Media Limited ABN 18 053 273 546, whose principal place of business is 54 Park Street, Sydney NSW 2000 (“Bauer”) owns and operates the theaustralianwomensweekly.com.au website (“Website”). This Privacy Policy applies to online privacy issues and therefore it is to be read as forming part of the terms of use for the Website, which are available at [www.theaustralianwomensweekly.com.au/terms-conditions](http://www.aww.com.au/terms-conditions/)
+In this policy "we", "us" and "our" means Bauer Media Pty Limited, its subsidiaries and affiliated companies.
 
- **1     Privacy**  
-At Bauer, we are committed to protecting and maintaining your privacy. We are bound by the principles in the Privacy Act 1988 (Cth) (“Privacy Act”). As part of our normal operations we may collect your personal information.   
-This Privacy Policy is designed to tell you as much as possible about how Bauer uses, discloses and manages personal information provided to, or collected through the Website. We believe you should be made aware of our practices so you can make informed decisions about how you allow us to use your personal information.  
-In this ever-changing world, Bauer may from time to time review and update this Privacy Policy to take account of new laws and technology, or changes to Bauer’s operations. All personal information held by Bauer will be governed by the most recent policy. The most recent Privacy Policy will always be available on our Website at www.theaustralianwomensweekly.com.au/privacy.aspx or by contacting the Bauer Privacy Officer at the address below.  
-Any questions regarding this Privacy Policy or complaints regarding how we handle your personal information should be sent to Bauer’s Privacy Officer at 54 Park Street, Sydney NSW 2000.
+Please read this policy carefully as it describes the way in which we collect and handle your personal information.
 
- **2     What kind of personal information does Bauer collect and how does Bauer collect it?**  
-The types of personal information we collect will vary depending on the nature of your dealings with Bauer (and our agents, contractors and third parties).   
-Bauer collects most information directly from you.  In most cases we collect this information so you can use our Website and post opinions, comments and reviews.  We may also collect information so you can request a product or service from Bauer and third parties, redeem special offers from Bauer and third parties making such offers, complete a survey or questionnaire, enter a competition, seek employment, or communicate with Bauer by e-mail, telephone or in writing.  
-Sometimes we may collect personal information to assist in identifying ways in which Bauer can service you better, such as providing our products and services to you more effectively, and to assist our internal administration and operations, including accounting, risk management, record keeping, archiving and staff training.   
-In general, the type of personal information Bauer collects and holds could include (but is not limited to) your name, address (postal and/or email), phone number and other contact details, gender, details relating to your use of the Website (e.g. reviews and comments you post or contributions to discussions) and any preferences you tell us about.
+We may update or revise this policy from time to time. If we elect to update or revise this policy, we will post the date on which that revision takes effect at the end of this policy.
 
- **3     How Bauer uses Personal Information**  
-Bauer uses personal information for the primary purpose for which it is collected and for other secondary purposes that are related to the primary purpose.    
-In general, Bauer uses personal information for the following secondary purposes:  
-•    to provide offers and information to persons who sign up to receive them from Bauer;  
-•    to provide other products or services which are requested from Bauer, including advertising services;  
-•    to process and administer our dealings with you;  
-•    to develop processes, products and services to better meet your needs;   
-•    to help Bauer manage and enhance its products and services and the offers made to persons who use the Website;  
-•    to communicate with online users of its offers;  
-•    to provide people with ongoing information and advertising about Bauer's products and services in which they may have an interest; and  
-•    unless requested not to, Bauer may provide your personal information to third parties which may in turn provide your personal information to other third parties for marketing purposes.  
-In many cases where Bauer asks you to provide us with personal information, if you do not provide Bauer with that personal information Bauer will not be able to provide you with the relevant product or service.  
-If you have opted in to receive newsletters, communications or special offers from Bauer you may, in some circumstances, also receive newsletters, communications or special offers from the third party providing the special offer. You can change your communications preferences with Bauer at any time. If you are contacted by a third party their opt-out of receiving further communications will be governed by their privacy policy.
+Please be aware that you have no obligation to provide any personal information requested by us.  However, if you choose to withhold your personal information, we may not be able to provide you with the services or products that depend on the collection and use of that information.
 
- **4     Links to Third Party Websites**  
-To the extent that the Website contains links to sites operated by third parties and not related to Bauer products, services or events (“Linked Websites”), the Linked Websites are not controlled by Bauer and we are not responsible for the privacy practices of those companies. Before disclosing your personal information to Linked Websites, we advise you to examine their privacy policies.
+**1           Our privacy commitment**
 
-5  **    Third Party Advertisements Online**  
-To try and bring you offers that are of interest to you, Bauer has relationships with other companies that we allow to place advertisements on our web pages. If you visit our Website, advertisement server companies may collect information such as your domain type, your IP address and clickstream information.
+We recognise the importance of, and are committed to, managing any personal information that we collect in compliance with the Privacy Act 1988 (Cth), which includes the Australian Privacy Principles, and other Australian privacy laws (together, “Privacy Laws”).
 
- **6     Cookies and IP Addresses**  
-The Website uses cookies.  Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. Most web browsers are set to accept cookies. However, if you do not wish to receive any cookies, you may set your browser to refuse them. In some instances this may mean you will not be able to take full advantage of parts of the Website.   
-The use of cookies can enhance your enjoyment of what we offer, because they help us personalise your experience of the Website by providing information which is most relevant to your interests. Cookies provide us with aggregated information on how users interact on the Website, track which advertisements are effective and help us improve your experience on our Website. Cookies do not personally identify you, but your browser. One of the primary purposes of cookies is to store your preferences and other information on your computer in order to save you time by eliminating the need to repeatedly enter the same information and to display your personalised content. For example, your email address may be stored in a cookie that will remain on your computer after you sign out. This cookie allows your email address to be pre-populated, so that you will only need to type your password the next time you sign in.   
-Cookies may also be passed in affiliate links from the Website to third party websites. None of your personal information is tracked, stored or shared within that cookie or shared between the third party website owner and us. Affiliate cookies only track whether a successful event or sale occurred from our referral link.   
-We also log your IP address in order to help diagnose problems with our server, administer our Website and track usage statistics.  Your IP address may vary each time you visit, or it may be the same, depending on the type of internet connection you use to access the Website.  Either way, it would be extremely difficult for us to identify you through your IP address, and we make no attempt to do so.  If you reached our Website by clicking on a link or advertisement on another website, then we also log that information.  This helps us to maximize our internet exposure, and to understand the interests of our users.  All of this information is collected and used only in the aggregate; that is, it is entered into our database, where we can use it to generate overall reports on our visitors, but not reports about individual visitors.
+As a member of the Australian Press Council (“APC”), we also ensure any personal information we collect in the course of our journalistic activities is managed in accordance with the APC Statement of Privacy Principles. 
 
-7    To whom might Bauer disclose Personal Information?  
-Bauer may disclose personal information it collects about you for a variety of purposes in connection with providing its products and services and special offers to you (including to our agents, contractors or to a related company). Bauer may provide your personal information to:  
-•    organisations who are sponsoring, organising or otherwise involved with or participating in an offer, promotion, competition or survey;  
-•    other companies or individuals Bauer engages to perform functions on behalf of Bauer such as for production functions, printing functions, data analysis, telemarketing, research and advertising; and  
-•    anyone you authorise Bauer to disclose personal information to.  
-Bauer may decide to buy or sell assets which form part of or relate to its business. In any such transaction, personal information will usually be one of the transferred assets and will be disclosed to the purchaser.  
-Where we disclose personal information to third party contractors, agents or related companies, we take steps to ensure that those agents, contractors or related third parties:  
-•    comply with the applicable principles in the Privacy Act when they handle personal information about you (regardless of whether they are a small business and may otherwise be exempt from those principles); and  
-•    are authorised only to use personal information in order to provide the services or to perform the functions we require.   
-Otherwise, we only disclose personal information if required or permitted to do so by law or if the disclosure is permitted under the Privacy Act.
+**2           How do we collect personal information?**
 
- **8     How does Bauer treat Sensitive Information?**  
-In referring to 'sensitive information' Bauer means information relating to a person's racial or ethnic origin, membership of political bodies, religions, trade unions or other professional or trade association, sexual preferences, criminal record and health information.  
-If you decide to provide Bauer with sensitive information, it is Bauer’s policy that this information will be used and disclosed only for the purpose for which it was provided or a directly related secondary purpose, unless you agree otherwise or use or disclosure of this information is allowed by law.
+Where possible, we collect your personal information directly from you.  This collection includes through your:
 
- **9     Management and security of personal information**  
-We take physical, electronic and managerial steps to ensure that the personal information we hold is secure from unauthorised access, destruction, use, modification or disclosure.  We only permit your details to be accessed by authorised personnel and we educate our staff about their responsibilities under the Privacy Act.  Bauer has also appointed a Privacy Officer to oversee Bauer’s management of personal information in accordance with this policy and the Privacy Act.   
-Additionally, we take reasonable steps to destroy or permanently de-identify personal information when we no longer need it.  We also impose strict requirements of security and confidentially on all third parties as to how they store, handle and deal with personal information.   
-In striving to ensure that the security, integrity and privacy of personal information submitted to our site is maintained to the highest level, Bauer regularly reviews and updates its security measures in light of current technologies.  Unfortunately, no data transmission over the internet can be guaranteed to be totally secure and you need to be aware of this when using our Website. 
+  * registration when you purchase a magazine or digital subscription;
+  * entry into promotions or competitions;
+  * answers to surveys;
+  * signing up to newsletters and other notifications from our magazines and other brands;
+  * registration to attend events;
+  * provision of express permission when accessing applications sitting on Bauer brand social media accounts;
+  * application for an internship or employment with us;
+  * communications with us such as telephone calls and emails regarding services and products;
+  * registration for our loyalty clubs; and
+  * download and use of our digital publications and mobile applications (“apps”).
 
-**10     Non-customer information **  
-Sometimes, Bauer needs to collect personal information about individuals who are not customers. This will usually arise where we collect the name and business contact details of a person who is the contact in a government agency or company with whom we deal. Bauer's policy is to only use personal information collected from non-customers for the main business purpose for which it was collected.
 
- **11     Transborder data flows**  
-Some of Bauer’s third party contractors and service providers may perform some of their services overseas.  For instance, a third party contractor may utilise a server hosted overseas as a method to send emails to Bauer customers.  In all instances where this occurs, Bauer takes reasonable steps to ensure that all personal information is handled in a manner that is consistent with this Privacy Policy.
 
-**12     Updating Personal Information**  
-Bauer endeavours to ensure that the personal information it holds is accurate, complete and up-to-date. Bauer encourages you to contact it as soon as possible in order to update any personal information it holds about you. Bauer's contact details are set out below.
+In some circumstances, however, we may also collect your personal information from third parties or public agencies where it is unreasonable or impracticable for us to collect the personal information directly from you.  For example, if you subscribe to one of our magazines through a third party that is authorised to take subscriptions for us, we will collect your personal information from that third party.  If we have difficulty in delivering a magazine to you, we may make enquiries in an effort to locate your address or correct any error in our recorded address details for you.  Where we collect personal information from third parties, we will ensure that the collection is conducted in a fair and lawful manner and the information is reasonably necessary for our functions or activities.
 
-Under the Privacy Act, you have the right to obtain access to any personal information which Bauer holds about you and to advise Bauer of any perceived inaccuracy.  There are some limitations to this right set out in the Act, which mean that we can refuse to provide you access to that information in limited circumstances, including where granting you access might have an unreasonable impact on the privacy of other individuals, if the request is frivolous or vexatious; and if the information relates to anticipated legal proceedings.  
-To make a request to access any personal information Bauer holds about you, please contact Bauer in writing as set out below. Bauer will require you to verify your identity and specify what personal information you require.  Bauer may charge a fee to cover the cost of verifying your application and locating, retrieving, reviewing and copying any material requested. If the personal information sought is extensive, Bauer will advise of the likely cost in advance and can help to refine your request if required.
+**3           What personal information do we collect?**
 
- **13     How to contact Bauer **  
-If you would like to make an access request or wish to provide feedback about this policy, please contact Bauer by writing to Bauer’s Privacy Officer at the address specified above, or via e-mail to privacyofficer@bauer-media.com.au. 
+The personal information we collect varies depending upon the purpose of the collection and the product or service we are providing you.  Generally, we collect the following types of personal information:
 
-This policy was last updated on 28 October 2013
+  * name and address;
+  * telephone/e-mail contact details; and
+  * bank account/credit card numbers and associated details as reasonably required in relation to processing payments at your request.
+
+
+
+However, for certain purposes, such as where you apply for employment with us, we will collect additional personal information such as your employment history, educational history and employment references.
+
+We generally do not collect sensitive information that is associated with an identifiable individual. 
+
+We may collect information that would be sensitive personal information about an identifiable individual with the individual’s consent where the collection is related to provision of a service or other benefit to the individual.  For example, we collect information from expectant mothers in relation to them and their families with their consent, in order to provide them with baby products and associated maternity benefits.
+
+We may collect information from you about particular health concerns, gender orientation or other sensitive information with your consent, in order to provide you with offers or promotions related to your concerns or status.
+
+If you provide us with sensitive information on an unsolicited basis, we assess whether such information is reasonably necessary for one or more of our functions or activities.  The unsolicited sensitive information you disclose to us may be used and disclosed for the purpose for which you provided such information or, where you would reasonably expect us to, we may use the information for a directly related secondary purpose.  We may also disclose or use the information for other purposes with your consent or if required to by law.
+
+**4           Why do we collect and use your personal information?**
+
+We will collect your personal information if it is reasonably necessary for the performance of our business activities and functions, which includes providing a range of products and services to you, some of which are listed below.
+
+**4.1         Registration for magazine subscriptions**
+
+We collect personal information from individuals who subscribe to our magazines in order to process their payments and to confirm whether they would like to receive promotional materials in the future.
+
+We will also seek your consent to send to you Magshop promotional material and special offers and to allow specifically selected partners to send to you offers of discounts or other benefits.  Where you consent, we will periodically send you offers we consider may be of interest to you.   
+
+**4.2         Sales Promotions, Competitions, Surveys and registration to attend our events**
+
+We collect personal information when you respond to one of our promotions, competitions or surveys or when you register to attend an event in order to inform you if you have won a prize, to place you on a guest-list to the event and to help us better understand what products and services you would like to receive information about in the future.
+
+**4.3         Our mobile apps**
+
+We, or a service provider, may collect information through our apps to assist us in understanding how you use our apps, how the apps are performing across different handsets and to assist us in the selection of advertisements for groups of individuals.
+
+**4.4         Registration for our loyalty clubs**
+
+We collect personal information when you sign up to join one of our loyalty clubs. By providing this personal information we are able to keep you updated on special offers and events that you may be interested in and to reward your commitment to the brands.
+
+**4.5         Employment or internship**
+
+We collect personal information from applicants who are seeking employment or an internship with us as part of the recruitment process.  In circumstances where you do not provide the mandatory personal information, we will be unable to consider you for a position with us.
+
+**4.6         Bounty Rewards**
+
+We collect your personal information when you register with Bounty Rewards in order to keep you informed of upcoming offers, new products and services and periodically you may be sent newsletters, communications or special offers directly from third party clients.
+
+**5           Who do we disclose your personal information to?**
+
+We provide your personal information to third parties in order to carry out our business activities and functions. This may include:
+
+  * newsagents for the purpose of fulfilling subscriptions to our publications;
+  * organisations who are sponsoring or otherwise involved with or participating in a promotion, offer, competition or survey;
+  * other companies or individuals we engage to perform functions on our behalf, such as mailing a subscription, processing credit card information, mailing information or prizes, data analysis, telemarketing, research and advertising; and
+  * with your specific and prior consent, to other companies or individuals for the purposes you have consented to.
+
+
+
+We disclose your personal information offshore to our owners, joint venture partners, service providers and agents.  It is not practicable to specify all countries to which we may disclose your personal information as, among other things, we are part of a global organisation. The countries and regions your personal information will be disclosed to include New Zealand, the USA, Philippines and Europe.
+
+We ensure that any organisation which we disclose your personal information to is subject to appropriate contractual obligations to safeguard and protect your personal information and comply with all Privacy Laws.
+
+In certain circumstances, we may disclose your personal information where required or authorised to do so by law, including in emergency situations and to assist law enforcement agencies.  We will always ensure that those to whom we disclose your personal information have the legal right to receive it.
+
+**6           How is your personal information secured?**
+
+We understand that the security of your personal information is important.  As such, we take reasonable steps to protect your personal information from misuse, interference, loss, unauthorised access, modification or disclosure.  We store information both at an onsite secure server and at trusted third party storage providers. 
+
+We undertake regular training of our staff to ensure that they are aware of our privacy commitments and our obligations in the collection, use and disclosure of personal information.
+
+**7           Access to and correction of personal information**
+
+In certain circumstances where you have a sign in to your customer details and/or you can access your own personal information via your membership you will be required to follow prompts to access, correct or update your personal information. If this option is available to you directly, we will clearly mark it for ease of access.
+
+You can access or correct your personal information by contacting us using the ‘Contact Details’ set out.  Please provide us with as much detail as you can about the particular information you wish to access or correct, in order to help us retrieve it.  We may charge you an access fee to cover our costs of providing that information to you.  We will inform you of applicable fees before they are incurred.
+
+In certain circumstances, we may refuse your request to access, or correct, your personal information.  If that is the case, we will provide you with reasons for that decision unless it is unreasonable for us to do so.
+
+We take reasonable steps to make sure that the personal information we collect is accurate, complete and up-to-date including updating personal information when we are advised by you that your personal information has changed.
+
+If you wish to delete the personal information we hold about you, please let us know by contacting us using the ‘Contact Details’ set out below and we will take reasonable steps to delete the information, unless we are required to retain it for legal reasons.
+
+**8           The use of cookies and web beacons through our websites and apps**
+
+Information may be collected when you access our websites or apps, such as the time and specific page or app you visited.  This information is collected through “cookies”.  A “cookie” is a small piece of information, or file, that a website or app sends to your computer's hard drive while you are viewing that website or app for record keeping purposes.  Most web browsers are automatically set to accept cookies.  If you do not wish to receive any cookies you may set your browser to refuse cookies.  However, this will mean you will not be able to take full advantage of our websites or apps. 
+
+We, and our service providers, use the information collected from cookies for a number of reasons:
+
+  * for statistical purposes in order to track how many users we have and how often they visit our website or apps;
+  * to provide you with a more personalised, convenient and interactive experience on our websites or apps;
+  * to track who has viewed an advertisement or clicked-through an advertisement; and
+  * to provide you with a more targeted advertising experience both on and off our websites or apps, allowing us to impose restrictions where appropriate and monitor how effective an advertising campaign has been.
+
+
+
+We engage various analytic programs, including Flurry Analytics, Google Analytics and Adobe Analytics to analyse the performance of our websites and apps and to provide us with reports that contain aggregated, de-identified benchmark information that assists us to understand when, and how many times, you have used our websites or apps.  The anonymous information assists us in the selection of advertisements for groups of individuals.
+
+We may also use Google Analytics features (including Google Remarketing, Google Display Network Impressions Reporting, the Double Click Campaign Manager and Google Analytics Demographics and Interest Reporting) on our websites and apps.  Google Analytics uses both first party and third party cookies to record standard internet traffic information such as when, and how many times, you have visited our websites or apps.  We, and some third parties (including Google), also use the information to optimise advertising selection for groups of individuals based on demographic information.  The cookies allow us and other third parties (including Google) to evaluate your interactions with advertising services on our websites and apps and serve targeted advertising on those websites and apps and across the Internet.  We have enabled Google Analytics for Display Advertising, which allows Google and other third parties to advertise to you on our websites and apps and across the Internet. 
+
+By using Google Ads Settings (located at https://www.google.com/settings/ads), you can opt out of these features at any time and customise your Google Display Network Ads.  Alternatively, you can opt out of a third party’s vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page (located at https://www.networkadvertising.org/choices/).
+
+You can opt-out of Flurry Analytics tracking and personalized advertisement recommendations from Flurry by clicking on http://www.flurry.com/user-opt-out.html.
+
+You can opt-out of Adobe Analytics tracking and on-site personalization services by following the instructions on http://www.adobe.com/au/privacy/opt-out.html#4.
+
+**9           Third party websites**
+
+When you click on advertisements or links on any of our websites or through our apps, you may be redirected to a third party website.  The linked websites are not under our control and we are not responsible for the conduct of companies linked to our websites or apps.  By placing a link to a particular product, we are in no way endorsing that product.  We recommend that, before disclosing your personal information to a website to which you were redirected from an advertisement, you read that website’s privacy policy and terms of use/service.
+
+**10          Anonymity and use of a pseudonym**
+
+You may request at any time that you remain anonymous, or choose a pseudonym, when dealing with us.  To the extent that it is lawful and practicable for us to enable you to do so, we will grant such a request.
+
+**11          How to make a complaint**
+
+If you wish to make a complaint about the way in which we handle your personal information, please contact our Privacy Officer using the contact details set out below.
+
+We undertake to acknowledge and investigate any complaint promptly and will respond to written complaints within a reasonable time from the date of receipt. 
+
+If you are dissatisfied with our response, you may refer the matter to the Australian Information (Privacy) Commissioner (see www.oaic.gov.au). If you are dissatisfied with our response in relation to the way in which we handle your personal information in the course of our journalistic activities, you may refer the matter to the Australian Press Council (see www.presscouncil.org.au).
+
+**12          Contact Details**
+
+If you have any questions or comments on our privacy policy, if you wish to update the personal information we hold on you or make a complaint, please write to:
+
+The Privacy Officer
+
+Bauer Media Group
+
+54-58 Park St
+
+Sydney NSW 2000
+
+Alternatively, you can send an email to our Privacy Officer at privacyofficer@bauer-media.com.au.
+
+Privacy policy last updated on 12 March 2014
