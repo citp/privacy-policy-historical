@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brockport.edu privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110024318id_/http%3A//www.brockport.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brockport.edu privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514070454id_/http%3A//www.brockport.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: The College at Brockport
 
