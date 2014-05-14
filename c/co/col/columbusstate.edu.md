@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the columbusstate.edu privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111225008id_/http%3A//webs.columbusstate.edu/web_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbusstate.edu privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514113355id_/http%3A//webs.columbusstate.edu/web_privacy_policy.php) for the most accurate reproduction.*
 
 # Columbus State University: CSU Webs - Columbus State University: CSU Webs - Web Privacy Policy
 
