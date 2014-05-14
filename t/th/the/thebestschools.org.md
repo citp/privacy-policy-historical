@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebestschools.org privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016075943id_/http%3A//www.thebestschools.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebestschools.org privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514141053id_/http%3A//www.thebestschools.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Best Schools
 
