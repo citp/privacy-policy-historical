@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wallsauce.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113021055id_/http%3A//www.wallsauce.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallsauce.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514232818id_/http%3A//www.wallsauce.com/information/privacy-policy) for the most accurate reproduction.*
 
-# Wallsauce.com - Privacy Policy
+# Privacy Policy
 
 Omega Sky Limited ("We") are committed to protecting and respecting your privacy.
 
