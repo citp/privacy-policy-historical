@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perrymarshall.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112043354id_/http%3A//www.perrymarshall.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perrymarshall.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515012758id_/http%3A//www.perrymarshall.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -31,11 +31,11 @@ PSMA collects and uses personal information for the following Identified Purpose
 
 
   1. to understand customer needs regarding PSMA’s services;
-  2. to fulfill your requests for products, services or information;
+  2. to fulfill your requests for products, services or information; 
   3. to communicate with customers and site visitors, when necessary, and to inform customers of upgrades, as well as of other products and services available from PSMA, its affiliates and third parties;
   4. to allow customers to access limited-entry areas of PSMA’s site;
   5. to personalize some of our services and products for you and to deliver targeted advertisements and offers from PSMA and third parties;
-  6. to bill accounts and maintain payment records;
+  6. to bill accounts and maintain payment records; 
   7. to comply with any applicable law, regulation, legal process or government request;
   8. to respond to a legitimate claim, or to address our reasonable belief, that you are violating the rights of any third party or any of the agreements or policies that govern your use of the PSMA site or any PSMA product or service;
   9. to protect the services, products or rights of PSMA, including but not limited to the security or integrity of the PSMA site; and
@@ -85,8 +85,8 @@ PSMA will use reasonable efforts to protect customers’ personal information.
 PSMA will afford you a reasonable opportunity to review the personal information in your file, if you so request by writing to:
 
 159 N. Marion St #295  
-Oak Park, Illinois 60301-1032 USA
+Oak Park, Illinois 60301-1032 USA 
 
 If PSMA is not able to provide access to some aspect of a customer’s personal information, it will provide reasons for denying access such as; that by doing so would likely reveal personal information about a third party, or that it is confidential commercial information or attorney’client privileged communications, or that the information relates to a breach of an agreement or a contravention of law, or that its disclosure could reasonably be expected to threaten the life or security of another individual.
 
-Customers have the right to request that inaccurate or incomplete information be amended as appropriate, by contacting PSMA as described above.’ PSMA will promptly correct such personal information.’
+Customers have the right to request that inaccurate or incomplete information be amended as appropriate, by contacting PSMA as described above.’ PSMA will promptly correct such personal information.’ 
