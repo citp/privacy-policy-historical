@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the ncld.org privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228143050id_/http%3A//www.ncld.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncld.org privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514230104id_/http%3A//www.ncld.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - NCLD
+# Privacy Policy
 
 * * *
-
-This Privacy Policy describes how NCLD collects and uses information from all end users of our organization’s Web sites, including [LD.org](http://www.ld.org/ "National Center for Learning Disabilities"); [GetReadytoRead.org](http://www.getreadytoread.org/ "Get Ready to Read"); [RTINetwork.org](http://www.rtinetwork.org/ "RTI Action Network"); and [RecognitionandResponse.org](http://www.recognitionandresponse.org/ "Recognition and Response"). NCLD requests that you read this Privacy Policy carefully.
 
 ## How NCLD Collects and Uses Visitor Information
 
@@ -40,7 +38,8 @@ At some Web sites linked to by our sites, visitors can purchase products and ser
 
 ## Responses to Email Inquiries
 
-NCLD does not share the return email address of inquiries made to our sites with any third party and will only use the email address provided to answer inquiries.
+NCLD does not share the return email address of inquiries made to our sites with any third party and will only use the email address provided to answer inquiries.  
+
 
 ## Disclaimer
 
