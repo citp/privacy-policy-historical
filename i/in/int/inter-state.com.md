@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inter-state.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111131702id_/http%3A//www.inter-state.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inter-state.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514235826id_/http%3A//www.inter-state.com/privacy.cfm) for the most accurate reproduction.*
 
 # Inter-State Studio & Publishing Company
 
@@ -9,10 +9,12 @@ Login or [Create Account](https://web.archive.org/account/register/)
   
 
 
+[]()
+
 [](http://www.facebook.com/InterStateStudio) [](http://www.linkedin.com/companies/inter-state-studio-%26-publishing-co.)
 
 Customer Service Available  
-7:00 AM -10:00 PM CST  
+8:00 AM - 5:00 PM CST  
 Mon. - Fri. 
 
 **Inter-State Studio & Publishing Company® Privacy Policy**  
