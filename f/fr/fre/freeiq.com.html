@@ -1,451 +1,307 @@
-<!--The following is the downloaded HTML source of the freeiq.com privacy policy that was archived on 2010-09-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100923225340id_/http%3A//freeiq.com/privacy_policy.dhtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freeiq.com privacy policy that was archived on 2014-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140514220837id_/http%3A//www.freeassessment.com/privacyPolicy.php) for the most accurate reproduction.-->
 
-<html><head>
-<title>Free IQ - The Marketplace for Ideas.</title>
-<script type="text/javascript" src="/ufo.js"></script>
-<script type="text/javascript" src="/js/AC_RunActiveContent.js"></script>
-<script type="text/javascript" src="/js/utilmain6.js"></script>
-<link href="/images/mainstyle.css" rel="stylesheet" type="text/css">
-<link href="/images/serpstyle.css" rel="stylesheet" type="text/css">
-<meta name="description" content="">
-<meta name="keywords" content="free, marketplace, information, video">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width">
+		<title>Free Assessment</title>
+		<link href="common/css/style.css" type="text/css" rel="stylesheet">
+		<link href="common/fonts/stylesheet.css" type="text/css" rel="stylesheet">
+		<link href="common/css/responsive.css" type="text/css" rel="stylesheet">
+		<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="common/js/jquery-1.9.1.min.js"></script>
+		<!-- Start Chart Code -->
+		<link href="common/css/kendo.common.min.css" rel="stylesheet" type="text/css">
+		<link href="common/css/kendo.default.min.css" rel="stylesheet" type="text/css">
+		<script type="text/javascript" src="http://cdn.kendostatic.com/2013.2.918/js/kendo.all.min.js"></script>
+		<!-- End Chart Code -->
+		<script type="text/javascript">
+			function submitPhone() {
+				var phone1 = $("#phone1").val();
+				var phone2 = $("#phone2").val();
+				var phone3 = $("#phone3").val();
+				var userZip = $("#userZip").val();
+				var reDigit = /^\d{3}$/;
+				var reDigittwo = /^\d{4}$/;
+				var reDigitthree = /^\d{5}$/;
+				if (phone1.search(reDigit) == -1 || phone2.search(reDigit) == -1 || phone3.search(reDigittwo) == -1) {
+					//alert('Please Enter 10 Digits Phone Number.');
+					$("#error1").fadeIn();
+					$("#error1").fadeOut(3000);
+					return false;
+				} else if(userZip.search(reDigitthree) == -1) {
+					//alert('Please Enter 5 Digits Zip Code.');
+					$("#error2").fadeIn();
+					$("#error2").fadeOut(3000);
+					return false;
+				} else {
+					$.ajax({
+						type : "POST",
+						url : "process/mainProcess.php",
+						data : "action=5&phone1=" + phone1 + "&phone2=" + phone2 + "&phone3=" + phone3 + "&userZip=" + userZip,
+						success : function(msg) {
+							alert('Your information has been saved successfully.');
+							return false;
+						}
+					});
+				}
+			}
+			
+			function showDesc(val) {
+				if(val == 1) {
+					$("#shortDesc").hide();
+					$("#longDesc").show();
+				} else if(val == 2) {
+					$("#longDesc").hide();
+					$("#shortDesc").show();
+				}
+			}
+			function printdiv() {
+				var printpage = $('.report_box').attr('id');
+				var headstr = "<html><head><title></title></head><body>";
+				var footstr = "</body>";
+				var newstr = document.all.item(printpage).innerHTML;
+				var oldstr = document.body.innerHTML;
+				document.body.innerHTML = headstr + newstr + footstr;
+				window.print();
+				document.body.innerHTML = oldstr;
+				return false;
+			}
+		</script>
+		<script type="text/javascript">
+            var downStrokeField;
+            function autojump(fieldName,nextFieldName,fakeMaxLength)
+            {
+                var myForm=document.forms[document.forms.length - 1];
+                var myField=myForm.elements[fieldName];
+                myField.nextField=myForm.elements[nextFieldName];
 
-</head>
-<body onunload="savedatanow()">
-<script type="text/javascript">
-<!-- //
+                if (myField.maxLength == null)
+                    myField.maxLength=fakeMaxLength;
 
-function suppressError() {
-	return true;
-}
+                myField.onkeydown=autojump_keyDown;
+                myField.onkeyup=autojump_keyUp;
+            }
 
-if(document.location.search.indexOf("debug") == -1) window.onerror = suppressError;
+            function autojump_keyDown()
+            {
+                this.beforeLength=this.value.length;
+                downStrokeField=this;
+            }
 
-//-->
+            function autojump_keyUp()
+            {
+                if (
+                	(this == downStrokeField) && 
+                    (this.value.length > this.beforeLength) && 
+                    (this.value.length >= this.maxLength)
+            	)
+               	this.nextField.focus();
+                downStrokeField=null;
+            }
+        </script>
+		<script type="text/javascript"> 
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ 
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), 
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) 
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); 
+		 
+		  ga('create', 'UA-45765847-1', 'freeassessment.com'); 
+		  ga('send', 'pageview'); 
+		 
+		</script>
+	</head>
+	<body>
+		<div class="top_container">
+			<script type="text/javascript">
+	function funcLogin() {
+		var loginUser = $("#loginUser").val();
+		var loginPass = $("#loginPass").val();
+		if (loginUser == '' || loginPass == '') {
+			$("#error1").fadeIn();
+			$("#error1").fadeOut(3000);
+		} else {
+			$.ajax({
+				type : "POST",
+				url : "process/mainProcess.php",
+				data : "action=4&loginUser=" + loginUser + "&loginPass=" + loginPass,
+				success : function(msg) {
+					if (msg == 1) {
+						$("#error2").fadeIn();
+						$("#error2").fadeOut(3000);
+					} else if (msg == 2) {
+						window.location = "likeUs.php";
+					} else if (msg == 3) {
+						window.location = "result.php";
+					} else {
+						var n = msg.split("|");
+						var number = parseInt(n[1]) + 1;
+						window.location = "assessment.php?qid=" + number;
+					}
+				}
+			});
+		}
+	}
+	function loginForm() {
+		$('#login_section').slideToggle();
+	}
 </script>
-<script>
-var useridtext = "";
-var onpage = "~onpage~";
-
-function showcates() {
-	var cateadvarea = document.getElementById("cateadvarea");
-	cateadvarea.innerHTML = "<a href=\"/v/accountingfinance\">Accounting & Finance</a>&nbsp;&nbsp;&nbsp;<a href=\"/v/businessculturepeople\">Business Culture & People</a>&nbsp;&nbsp;&nbsp;<a href=\"/v/careers\">Careers</a>&nbsp;&nbsp;&nbsp;<a href=\"/v/computerinternet\">Computer / Internet</a>&nbsp;&nbsp;&nbsp;<a href=\"/v/economics\">Economics</a>&nbsp;&nbsp;&nbsp;<a href=\"/v/entrepreneurship\">Entrepreneurship</a>&nbsp;&nbsp;&nbsp;<a href=\"/v/industriesprofessions\">Industries & Professions</a>&nbsp;&nbsp;&nbsp;<a href=\"/v/investing\">Investing</a>&nbsp;&nbsp;&nbsp;<a href=\"/v/law\">Law</a>&nbsp;&nbsp;&nbsp;<a href=\"/v/managementleadership\">Management & Leadership</a>&nbsp;&nbsp;&nbsp;<a href=\"/v/marketingsales\">Marketing & Sales</a>&nbsp;&nbsp;&nbsp;<a href=\"/v/professionalcareers\">Professional / Careers</a>&nbsp;&nbsp;&nbsp;<a href=\"/v/realestate\">Real Estate</a>&nbsp;&nbsp;&nbsp;<a href=\"/v/smallbusiness\">Small Business</a>&nbsp;&nbsp;&nbsp;<a href=\"/v/softwareapplicationstools\">Software Applications & Tools</a>&nbsp;&nbsp;&nbsp;<br>Other Categories:<br><a href=\"/v/artsphotography\">Arts & Photography</a>&nbsp;&nbsp;&nbsp;<a href=\"/v/cookingfoodwine\">Cooking, Food & Wine</a>&nbsp;&nbsp;&nbsp;<a href=\"/v/craftshobbies\">Crafts & Hobbies</a>&nbsp;&nbsp;&nbsp;<a href=\"/v/games\">Games</a>&nbsp;&nbsp;&nbsp;<a href=\"/v/healthbody\">Health & Body</a>&nbsp;&nbsp;&nbsp;<a href=\"/v/homegarden\">Home & Garden</a>&nbsp;&nbsp;&nbsp;<a href=\"/v/language\">Language</a>&nbsp;&nbsp;&nbsp;<a href=\"/v/mathscience\">Math & Science</a>&nbsp;&nbsp;&nbsp;<a href=\"/v/music\">Music</a>&nbsp;&nbsp;&nbsp;<a href=\"/v/outdoorsnature\">Outdoors & Nature</a>&nbsp;&nbsp;&nbsp;<a href=\"/v/parentingfamilies\">Parenting & Families</a>&nbsp;&nbsp;&nbsp;<a href=\"/v/pets\">Pets</a>&nbsp;&nbsp;&nbsp;<a href=\"/v/religionspirituality\">Religion & Spirituality</a>&nbsp;&nbsp;&nbsp;<a href=\"/v/selfhelprelationships\">Self Help & Relationships</a>&nbsp;&nbsp;&nbsp;<a href=\"/v/sports\">Sports</a>&nbsp;&nbsp;&nbsp;<a href=\"/v/travel\">Travel</a>";
-}
-
-function advancedsearch() {
-	var cateadvarea = document.getElementById("cateadvarea");
-	cateadvarea.innerHTML = "<font face=\"Arial\" size=\"2\">Search By Type:</font> <select name=\"typeonly\" id=\"typeonly\" size=\"1\"><option value=\"\"></option><option value=\"video\">Video</option><option value=\"audio\">Audio</option><option value=\"pdf\">PDF Document</option><option value=\"other\">Other Products</option></select>";
-}
-
-function shShop() {
-        if (shrequester.readyState == 4) {
-                try {
-                        if (shrequester.status == 200) {
-                                var resptext = shrequester.responseText;
-                        }
-                } catch (error) {
-                };
-        };
-
-        return true;
-};
-</script>
-<script src="/js/MochiKit.js" type="text/javascript"></script>
-<script src="/js/logger.js" type="text/javascript"></script>
-<script>
-initLogger();
-</script>
-<table width="960" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td>   
-	<table width="100%" border="0" cellpadding="3" cellspacing="0">
-      <tbody><tr>
-        <td colspan="2" align="right"><a href="/index.dhtml">Home</a><img src="/images/shim.gif" width="6" height="6" hspace="6" class="bggray"><a href="/learn_more.dhtml">Learn More</a><img src="/images/shim.gif" width="6" height="6" hspace="6" class="bggray"><a href="/affiliate_info.dhtml">Affiliates</a><img src="/images/shim.gif" width="6" height="6" hspace="6" class="bggray"><a href="/add_your_content.dhtml">Add Your Content</a><img src="/images/shim.gif" width="6" height="6" hspace="6" class="bggray"><a href="/feedback.dhtml"><img src="/images/icon_feedback.gif" width="15" height="15" hspace="0" border="0" align="absmiddle"></a> <a href="/feedback.dhtml">Feedback</a><img src="/images/shim.gif" width="6" height="6" hspace="6" class="bggray"><a href="/login.dhtml">Login</a><img src="/images/shim.gif" width="6" height="6" hspace="6" class="bggray"><a href="/joinnow.dhtml">Join </a><img src="/images/shim.gif" width="6" height="6" hspace="6" class="bggray"><a href="/help.dhtml">Help</a>&nbsp; &nbsp;
-</td>
-      </tr>
-      <tr>
-        <td width="175" valign="top"><a href="/index.dhtml"><img border="0" src="/images/freiq-logo_beta.jpg" width="182" height="82"></a></td>
-        <td valign="bottom">
-		<table width="100%" height="62" border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr>
-              <td height="45" valign="bottom"><table border="0" cellspacing="0" cellpadding="0">
-                  <form method="get" action="/search.dhtml"></form>
-                  <tbody><tr>
-                    <td><input type="text" name="q" id="q" class="search" size="40" value=""></td>
-                    <td>&nbsp;</td>
-                    <td><input name="Submit" type="submit" class="search" value="Search"></td>
-                    <td>&nbsp;</td>
-                    <td></td>
-                  </tr>
-                  <tr>
-                    <td colspan="5"><div id="cateadvarea"><img src="/images/shim.gif" width="5" height="0"></div></td>
-                  </tr>
-              </tbody></table></td>
-            </tr>
-			            <tr>
-              <td valign="top"><table height="40" border="0" cellpadding="0" cellspacing="0">
-                <tbody><tr>
-                  <td width="750"><span class="tagheader">Popular Tags:</span> <span class="searchtag"><a href="/tag/how to">how to</a><img src="/images/shim.gif" width="6" height="6" hspace="6" class="bggray"></span>
-<span class="searchtag"><a href="/tag/blogging">blogging</a><img src="/images/shim.gif" width="6" height="6" hspace="6" class="bggray"></span>
-<span class="searchtag"><a href="/tag/love">love</a><img src="/images/shim.gif" width="6" height="6" hspace="6" class="bggray"></span>
-<span class="searchtag"><a href="/tag/family">family</a><img src="/images/shim.gif" width="6" height="6" hspace="6" class="bggray"></span>
-<span class="searchtag"><a href="/tag/diet">diet</a><img src="/images/shim.gif" width="6" height="6" hspace="6" class="bggray"></span>
-<span class="searchtag"><a href="/tag/golf">golf</a><img src="/images/shim.gif" width="6" height="6" hspace="6" class="bggray"></span>
-<span class="searchtag"><a href="/tag/investing">investing</a><img src="/images/shim.gif" width="6" height="6" hspace="6" class="bggray"></span>
-<span class="searchtag"><a href="/tag/ecommerce">ecommerce</a><img src="/images/shim.gif" width="6" height="6" hspace="6" class="bggray"></span>
-<span class="searchtag"><a href="/tag/health">health</a><img src="/images/shim.gif" width="6" height="6" hspace="6" class="bggray"></span>
-<span class="searchtag"><a href="/tag/adsense">adsense</a><img src="/images/shim.gif" width="6" height="6" hspace="6" class="bggray"></span>
-<span class="searchtag"><a href="/tag/music">music</a><img src="/images/shim.gif" width="6" height="6" hspace="6" class="bggray"></span>
-<span class="searchtag"><a href="/tag/webmaster">webmaster</a><img src="/images/shim.gif" width="6" height="6" hspace="6" class="bggray"></span>
-<span class="searchtag"><a href="/tag/real estate">real estate</a><img src="/images/shim.gif" width="6" height="6" hspace="6" class="bggray"></span>
-<span class="searchtag"><a href="/tag/management">management</a><img src="/images/shim.gif" width="6" height="6" hspace="6" class="bggray"></span>
-<a href="/tagexplanation.dhtml" class="smlink">What&nbsp;are&nbsp;Tags?</a></td>
-                </tr>
-              </tbody></table></td>
-            </tr>
-
-        </tbody></table><div align="right"></div></td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-  <tr>
-    <td><img src="/images/shim.gif" width="10" height="2"></td>
-  </tr>
-  <tr>
-    <td><table width="960" height="1" border="0" cellpadding="0" cellspacing="0">
-      <tbody><tr>
-      </tr>
-    </tbody></table></td>
-  </tr>
-</tbody></table>
-<table width="960" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td><img src="/images/shim.gif" width="10" height="10"></td>
-  </tr>
-</tbody></table>
-<table width="960" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr class="topline">
-    <td class="toplinegold"><img src="/images/shim.gif" width="100" height="1"></td>
-  </tr>
-</tbody></table>
- 
-
-<table width="960" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td class="serpheaderbox"><span class="serpheadertext">Terms Of Service 
-		and Use</span></td>
-        </tr>
-    </tbody></table></td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td align="center"><table width="700" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td class="bodycopy">
-          <h1 class="serpheadertextgreen">Our Privacy Policy:</h1>
-		   
-          
-          
-
-
-<p>Simply stated, here at FreeIQ.com we
-hate spam as much as you do. Therefore, we will not sell, lease or
-rent your e-mail address to anyone. Period.</p>
-<p><br>
-</p>
-
-<p>Now for the fine print, to keep the
-lawyers happy...</p>
-
-<h2>Collection of Your Personal Information</h2>
-<p>In order to access some Free IQ
-services, you will be asked to sign in with an e-mail address and
-password, which form the basis of your account. As part of creating
-your account, you may also be requested to provide questions and
-secret answers, which we use to help verify your identity and assist
-in resetting your password, as well as an alternate email address.
-Finally, a unique affiliate ID number may be assigned to your account
-which will be used to identify your account and associated
-information.</p>
-<p>To access some Free IQ products and
-services we ask you to provide personal information, such as your
-e-mail address, name, home or work address or telephone number. We
-may also collect demographic information, such as your ZIP code, age,
-gender, preferences, interests and favorites. If you choose to make a
-purchase or sign up for a paid subscription service, we will ask for
-additional information, such as your credit card number and billing
-address, which is used to create a Free IQ billing account.</p>
-<p>We may collect information about your
-visit, including the pages you view, the links you click and other
-actions taken in connection with Free IQ sites and services. We also
-collect certain standard information that your browser sends to every
-website you visit, such as your IP address, browser type and
-language, access times and referring website addresses.</p>
-<p>When you receive newsletters, RSS
-feeds, or promotional e-mail from Free IQ, we may use web beacons
-(described below), customized links or similar technologies to
-determine whether the e-mail has been opened and which links you
-click in order to provide you more focused e-mail communications or
-other information.</p>
-<p>In order to offer you a more consistent
-and personalized experience in your interactions with Free IQ,
-information collected through one Free IQ service may be combined
-with information obtained through other Free IQ services. We may also
-supplement the information we collect with information obtained from
-other companies. For example, we may use services from other
-companies that enable us to derive a general geographic area based on
-your IP address in order to customize certain services to your
-geographic area.</p>
-<p>&nbsp;</p>
-<h2>Use of Your Personal Information</h2>
-<p>Free IQ collects and uses your personal
-information to operate and improve its sites and deliver the services
-or carry out the transactions you have requested. These uses may
-include providing you with more effective customer service; making
-the products or services easier to use by eliminating the need for
-you to repeatedly enter the same information; performing research and
-analysis aimed at improving our products, services and technologies;
-and displaying content and advertising that are customized to your
-interests and preferences.</p>
-<p>We also use your personal information
-to communicate with you. We may send certain mandatory service
-communications such as welcome letters, billing reminders, affiliate
-payments, affiliate promotional opportunities, information on
-technical service issues, and security announcements. We may also
-occasionally send you product surveys or promotional mailings to
-inform you of other products or services available from Free IQ and
-its affiliates.</p>
-<p>Personal information collected on Free
-IQ sites and services may be stored and processed in the United
-States or any other country in which Free IQ or its affiliates,
-subsidiaries or agents maintain facilities, and by using a Free IQ
-site or service, you consent to any such transfer of information
-outside of your country. We may also aggregate personal information
-(such as age) with other similar information from other users, and
-share your data with other parties, as long as the information shared
-with third parties is not personally identifiable to you (in other
-words, kept anonymous). </p>
-<p>&nbsp;</p>
-<h2>Sharing of Your Personal Information</h2>
-<p>Except as described in this statement,
-we will not disclose your personal information outside of Free IQ and
-its controlled subsidiaries and affiliates without your consent. Some
-Free IQ pages allow you to choose to share your personal information
-with select Free IQ partners so that they can contact you about their
-products, services or offers. See the Communication Preferences
-section below for more information.</p>
-<p>Some Free IQ services may be co-branded
-and offered in conjunction with another company. If you register for
-or use such services, both Free IQ and the other company may receive
-information collected in conjunction with the co-branded services.</p>
-<p>We occasionally hire other companies to
-provide limited services on our behalf, such as handling the
-processing and delivery of mailings, providing customer support, data
-mining, ad delivery, hosting websites, processing transactions, or
-performing statistical analysis of our services. Those companies will
-be permitted to obtain only the personal information they need to
-deliver the service. They are required to maintain the
-confidentiality of the information and are prohibited from using it
-for any other purpose.</p>
-<p>When you purchase products on Free IQ
-that are sold by other providers, that provider will be supplied with
-your contact information for shipping and contact purposes, and the
-usage of that information will be subject to that provider's privacy
-policies.</p>
-<p>When you sign up to join a content
-provider's mailing list, that provider will receive  your name and
-email address, the usage of which will be subject to that provider's
-privacy policies.</p>
-<p>We may access and/or disclose your
-personal information if we believe such action is necessary to: (a)
-comply with the law or legal process served on Free IQ; (b) protect
-and defend the rights or property of Free IQ (including the
-enforcement of our agreements); or (c) act in urgent circumstances to
-protect the personal safety of users of Free IQ services or members
-of the public.</p>
-<p>&nbsp;</p>
-<h2>Accessing Your Personal Information</h2>
-<p>You may have the ability to view or
-edit the personal information retained by Free IQ online. In order to
-help prevent your personal information from being viewed by others,
-you will be required to sign in with your account information
-(username and password). You can access and update your profile on
-FreeIQ.com by logging into your account and clicking the Personal
-Info link. </p>
-<p>&nbsp;</p>
-<h2>Communication Preferences</h2>
-<p>You can stop the delivery of future
-promotional e-mail from Free IQ sites and services by following the
-specific instructions in the e-mail you receive.</p>
-<p>These communication choices do not
-apply to mandatory service communications that are considered part of
-certain Free IQ services, which you may receive periodically unless
-you cancel the service.</p>
-<p>&nbsp;</p>
-<h2>Security of Your Personal Information</h2>
-<p>Free IQ is committed to protecting the
-security of your personal information. We use a variety of security
-technologies and procedures to help protect your personal information
-from unauthorized access, use, or disclosure. For example, we store
-the personal information you provide on computer systems with limited
-access, which are located in controlled facilities. When we transmit
-highly confidential information (such as a credit card number or
-password) over the Internet, we protect it through the use of
-encryption, such as the Secure Socket Layer (SSL) protocol.</p>
-<p>If a password is used to help protect
-your accounts and personal information, it is your responsibility to
-keep your password confidential. Do not share this information with
-anyone. If you are sharing a computer with anyone you should always
-choose to log out before leaving a site or service to protect access
-to your information from subsequent users.</p>
-<p>&nbsp;</p>
-<h2>Collection and Use of Children's Personal Information</h2>
-<p>Many Free IQ sites are intended for
-general audiences and do not knowingly collect any personal
-information from children. When a Free IQ site does collect age
-information, and users identify themselves as under 13, the site will
-block such users from providing personal information. We will not
-knowingly ask children under the age of 13 to provide more
-information than is reasonably necessary to provide our services.</p>
-<p>We encourage you to talk with your
-children about communicating with strangers and disclosing personal
-information online. </p>
-<p>&nbsp;</p>
-<h2>Use of Cookies</h2>
-<p>Free IQ websites use "cookies"
-to enable you to sign in to our services and to help personalize your
-online experience. A cookie is a small text file that is placed on
-your hard disk by a Web page server. Cookies contain information that
-can later be read by a web server in the domain that issued the
-cookie to you. Cookies cannot be used to run programs or deliver
-viruses to your computer.</p>
-<p>Free IQ websites use cookies to store
-your preferences and other information on your computer in order to
-save you time by eliminating the need to repeatedly enter the same
-information and to display your personalized content and appropriate
-advertising on your later visits to these sites.</p>
-<p>When you sign in to a site using your
-account, Free IQ stores your unique account information in an
-encrypted cookie on your hard disk. This cookie allows you to move
-from page to page at the site without having to sign in again on each
-page. </p>
-<p>You have the ability to accept or
-decline cookies. Most Web browsers automatically accept cookies, but
-you can usually modify your browser setting to decline cookies if you
-prefer. If you choose to decline cookies, you may not be able to sign
-in or use other interactive features of Free IQ sites and services
-that depend on cookies.</p>
-<p>&nbsp;</p>
-<h2>Use of Web Beacons</h2>
-<p>Free IQ Web pages may contain
-electronic images known as Web beacons - sometimes called
-single-pixel gifs - that may be used to assist in delivering cookies
-on our sites and allow us to count users who have visited those pages
-and to deliver co-branded services. We may include Web beacons in
-promotional e-mail messages or our newsletters in order to determine
-whether messages have been opened and acted upon.</p>
-<p>Free IQ may also employ Web beacons
-from third parties in order to help us compile aggregated statistics
-and determine the effectiveness of our promotional campaigns. We
-prohibit Web beacons on our sites from being used by third parties to
-collect or access your personal information.</p>
-<p>Finally, we may work with other
-companies that advertise on Free IQ sites to place Web beacons on
-their sites in order to allow us to develop statistics on how often
-clicking on an advertisement on a Free IQ site results in a purchase
-or other action on the advertiser's site.</p>
-<p>&nbsp;</p>
-<h2>Use of Third Party Ad Networks</h2>
-<p>The majority of the online banner
-advertisements you see on Free IQ Web pages are displayed by Free IQ.
-However, we may allow other companies, called third-party ad servers
-or ad networks, to display advertisements on Free IQ Web pages. Some
-of these ad networks may place a persistent cookie on your computer
-in order to recognize your computer each time they send you an online
-advertisement. In this way, ad networks may compile information about
-where you, or others who are using your computer, saw their
-advertisements and determine which ads are clicked on. This
-information allows an ad network to deliver targeted advertisements
-that they believe will be of most interest to you. Free IQ does not
-have access to the cookies that may be placed by the third-party ad
-servers or ad networks.</p>
-<p>Free IQ may maintain relationships with
-a number of the third-party ad networks currently operating such as:
-Avenue A; BlueStreak; DoubleClick; Mediaplex; Pointroll; RealMedia;
-TangoZebra; and Unicast. Those ad networks that use persistent
-cookies may offer you a way to opt out of ad targeting. You may find
-more information at the website of either the individual ad network
-or the Network Advertising Initiative.</p>
-<p>&nbsp;</p>
-<h2>Controlling "Spam" or Unsolicited E-mail</h2>
-<p>Free IQ is concerned about controlling
-unsolicited commercial e-mail, or "spam." Free IQ has a
-strict Anti-Spam Policy prohibiting the use of email addresses in our
-database to send spam. Free IQ will not sell, lease or rent its
-e-mail subscriber lists to third parties. </p>
-<p>&nbsp;</p>
-<h2>Enforcement of This Privacy Statement</h2>
-<p>If you have questions regarding this
-statement, you should contact us by <a href="feedback.dhtml">using our Web form</a>. </p>
-<p>&nbsp;</p>
-<h2>Changes to This Privacy Statement</h2>
-<p>We will occasionally update this
-privacy statement to reflect changes in our services and customer
-feedback. When we post changes to this Statement, we will revise the
-"last updated" date at the top of this statement. If there
-are material changes to this statement or in how Free IQ will use
-your personal information, we will notify you either by prominently
-posting a notice of such changes to your login screen prior to
-implementing the change or by directly sending you a notification. In
-case of change, you will have the ability to opt-out if you object to
-the change. If you do not opt-out within 30 days of notification, the
-new privacy policy changes will apply to your account as if you had
-expressly opted in under the new privacy policy. We encourage you to
-periodically review this statement to be informed of how Free IQ is
-protecting your information.</p>
-<p>&nbsp;</p>
-<h2>Contacting Us</h2>
-<p>Free IQ welcomes your comments
-regarding this privacy statement. If you have questions about this
-statement or believe that we have not adhered to it, please contact
-us by <a href="feedback.dhtml">using our Web form</a>.</p>
-<p><br>
-</p>
-<p>Free IQ Corporation, 6420 Atlantic
-Blvd, Suite 145, Norcross, GA 30071, U.S.A.</p>
-
-</td>
-      </tr>
-    </tbody></table></td>  </tr>
-  <tr>
-    <td><img src="images/shim.gif" width="30" height="25"></td>
-  </tr>
-  <tr>
-    <td class="bgmedgray"><img src="images/shim.gif" width="50" height="1"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/shim.gif" width="30" height="40"></td>
-  </tr>
-  <tr>
-    <td align="center" class="footertext">© 2007 Free IQ. All Rights Reserved&nbsp;&nbsp; |&nbsp; <a href="/terms_of_use.dhtml">Terms of Use</a>&nbsp;&nbsp; |&nbsp; <a href="/fiq_corp.dhtml">About Free IQ</a>&nbsp;&nbsp; |&nbsp; <a href="/privacy_policy.dhtml">Privacy Policy</a>
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-168754-9";
-urchinTracker();
-</script>
-</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/shim.gif" width="30" height="40"></td>
-  </tr>
-</tbody></table>
-
-
+<div class="wrapper">
+	<div class="header">
+		<h1 class="logo"><a href="index.php"><img src="common/images/logo.png" alt=""></a></h1>
+		<div class="login_box">
+			<a class="login_btn" onclick="loginForm();">login</a>			<div class="login_section" id="login_section" style="display:none;">
+				<div id="error1" style="font-size: 14px; font-weight: bold; color: red; margin-bottom: 10px; display: none;">Please enter username or password.</div>
+                <div id="error2" style="font-size: 14px; font-weight: bold; color: red; margin-bottom: 10px; display: none;">Invalid username or password.</div>
+				<input type="text" id="loginUser" name="loginUser" placeholder="User Name">
+				<input type="password" id="loginPass" name="loginPass" placeholder="Password">
+				<input type="submit" class="submit_btn" value="Submit" onclick="funcLogin();">
+			</div>
+		</div>
+	</div>
+</div>			<div class="body_container">
+				<div class="report_box" id="div_print">
+					<div class="wrapper">
+						<div class="report_left_box">
+							<span>Privacy Policy</span>
+							<small class="owl_img"><img src="common/images/owl_img1.png" alt=""></small>
+							<div class="box">
+								<p>
+									At FreeAssessment.com. , we are committed to protecting online user privacy. This “Privacy Policy” discloses the privacy practices governing our knowing collection, use, and disclosure of information. In order to ensure your privacy, information we collect is used only in the manner and for the purposes described below.</p>
+							</div>
+						</div>
+					
+					</div>
+					<div class="result_details">
+						<div class="top_content">
+							<div class="wrapper">
+								<div class="content">
+									<div class="detail">
+										
+									</div>
+									<div class="pic_box">
+																			</div>
+								</div>
+							</div>
+						</div>
+						<div class="bott_content">
+							<div class="wrapper">
+								<div class="left_content">
+									<p>
+Anonymous User Information: FreeAssessment.com. collects some anonymous information each time you visit FreeAssessment.com. so we can improve the overall quality of your online experience. We collect your IP address, referral data, and browser and platform type. You do not have to register with FreeAssessment.com. before we can collect this anonymous information. We do not collect any unique information about you (such as your name, e-mail address, etc.) except when you specifically and knowingly provide such information. FreeAssessment.com. does not require you to share information that identifies you personally, such as your name or email address, in order for you to use the FreeAssessment.com. FreeAssessment.com. assigns an anonymous ID number to your requests and links the following additional data to that number: the date and time you visited FreeAssessment.com. , and the links upon which you choose to click. If you wish to view your assessment report or register for an account we will collect your personal information only so that we can get you the information you have requested. Like most standard Web site servers, we use log files to collect and store this anonymous user information. We analyze this information to examine trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. FreeAssessment.com. may present links in a format that enables us to understand whether they have been followed. We use this information to understand and improve the quality of the FreeAssessment.com.</p>
+<p>
+Cookies: We use a feature of Internet web browsers called a “cookie,” which is a small file that is sent to your computer when you visit a website. This enables us to store user preferences and track user trends and search patterns. We use cookies to improve the quality of the FreeAssessment.com. services and to better understand how users interact with us. We do not and cannot use Cookies to retrieve individual personally identifiable information about you from your computer unless you knowingly and willingly provided such information. The cookie technology we use cannot obtain information from your hard drive or pass on a computer virus. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some FreeAssessment.com. features or services may not function properly without cookies.</p>
+<p>
+OPT-IN NOTICE: By registering or requesting your assessment report on FreeAssessment.com, You Expressly "Opt In" To Receive Information. </p>
+<p>
+By submitting your information you expressly opt in to receive future information about products and services from us. You may receive communication through your phone or email from third parties relating career opportunities, money making opportunities, and education opportunities. </p>
+<p>
+Information security: We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. We restrict access to your personally identifying information to employees who need to know that information in order to operate, develop or improve our services.</p>
+<p>
+Aggregated General Information: We may share aggregated general information about our site with our corporate partners or others. Examples of this include the number of users who show analytical skill sets, the daily number of unique visitors, or how many users clicked on a particular advertisement. Aggregated data does not contain any personally identifiable information that could be used to contact or identify you. Information sharing We may share personally identifying information to other companies or individuals in any of the following limited circumstances:</p>
+<p>
+* We have your consent.<br>
+* We provide such information to trusted businesses or persons for the sole purpose of processing personally identifying information on our behalf. When this is done, it is subject to agreements that oblige those parties to process such information only on our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures.<br>
+* When required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a criminal investigation, a court order, or legal process served on our Web site. We may also share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of FreeAssessment.com. ’s terms of use, or as otherwise required by law.<br>
+* If you have an account, we may share the information submitted under your account among all of our services in order to provide you with a seamless experience and to improve the quality of our services. We will not disclose your account information to other people or non-affiliated companies, except in the limited circumstances described in this Policy or with your consent.<br>
+* We may store and process personal information collected on our site in Canada or any other country in which FreeAssessment.com. or its agents maintain facilities. By using our services, you consent to the transfer of your information among these facilities, including those located outside your country.<br>
+* FreeAssessment.com. may use third party service providers to serve ads and emails on our behalf. These companies may use technologies to measure the effectiveness of ads and emails and use information about your visits to FreeAssessment.com so that we can provide a better experience to you. For this purpose, we may also provide these third parties service providers anonymous information about your site navigation. You can remove your email at any time by sending an email to info@FreeAssessment.com.<br>
+* We may share certain information about you with carefully selected business partners, including those who may offer services that complement those provided by us or which we believe may be of interest to you. We may also disclose information to third parties who assist us in providing our services to you. For example, we may engage third parties to make improvements on our site, to offer new products and to allow us to customize your experience on the Site.</p>
+<p>
+Correspondence: If you contact FreeAssessment.com. , we may keep a record of that correspondence and we may collect your email address.</p>
+<p>
+Third Party Information Gathering: FreeAssessment.com. includes content and ads from third parties that may perform user activity tracking other than that described herein. These other sites may place their own cookies on your computer, collect data or solicit personal information. For more information about each third party content provider, cookies, and how to “opt-out”, please refer to such third party advertiser’s privacy policy FreeAssessment.com. contains links to other sites on the Web. Please be aware that FreeAssessment.com. is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.</p>
+<p>
+Children’s Privacy: FreeAssessment.com. does not knowingly request or collect personally identifiable information online or offline contact information from users under 13 years of age nor do we knowingly use or share personal information from users under 13 years of age with third parties.</p>
+<p>
+Sale of Assets: In the event that another company acquires all or substantially all of the assets related to the business of FreeAssessment.com. , we reserve the right to include any or all stored personal information among the assets transferred to the acquiring company.</p>
+<p>
+Changes to Privacy Policy: We reserve the right to amend or revise this privacy policy from time to time. We will post these changes to this page. Use of information that we gather now is subject to the privacy policy in effect at the time the information is used.</p>								</div>
+								
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			
+		
+		<div class="footer">
+    <div class="wrapper">
+        <div class="logos">
+            <a href="https://www.facebook.com/FreeAssessment" target="_blank" class=""><img src="common/images/facebook_btn.png" alt=""></a>
+            <a href="https://twitter.com/owlbertknows" target="_blank" class=""><img src="common/images/twitter_btn.png" alt=""></a>
+        </div>
+        <div class="iframelogo" id="iframelogo" style="float:left;"><iframe src="http://freeassessment.com/shareLibrary/" frameborder="0" scrolling="no"></iframe> </div>
+        <div class="foot_content">
+            <a href="index.php" class="foot_logo"><img src="common/images/foot_logo.png" alt=""></a>
+            <ul class="foot_links">
+                <li>
+                    <a href="terms.php">Terms &amp; Conditions</a>
+                </li>
+                <li>
+                    <a href="privacyPolicy.php">Privacy Policy</a>
+                </li>
+                <li>
+                    <a href="contactUs.php">Contact Us</a>
+                </li>
+                <li class="last">
+                    <a href="http://freeassessment.wordpress.com/">Blog</a>
+                </li>
+            </ul>
+            <p>
+                © 2013 <a href="index.php">freeassessment.com</a>. All rights reserved.
+            </p>
+        </div>
+    </div>
+</div>		<script type="text/javascript">
+		function createChart() {
+			$("#chart").kendoChart({
+				title : {
+					position : "bottom",
+					text : ""
+				},
+				legend : {
+					visible : false
+				},
+				chartArea : {
+					background : ""
+				},
+				seriesDefaults : {
+					labels : {
+						visible : true,
+						background : "transparent",
+						template : "#= category #: #= value#%"
+					}
+				},
+				series : [{
+					type : "pie",
+					startAngle : 150,
+					data : [{
+						category : "Maintainer",
+						value : 0,
+						color : "#ea6045"
+					}, {
+						category : "Creator",
+						value : 0,
+						color : "#c0ccab"
+					}, {
+						category : "Facilitator",
+						value : 0,
+						color : "#f8ca4d"
+					}, {
+						category : "Analyst",
+						value : 0,
+						color : "#ffefc3"
+					}]
+				}],
+				tooltip : {
+					visible : true,
+					format : "{0}%"
+				}
+			});
+		}
+		$(document).ready(createChart);
+		$(document).bind("kendo:skinChange", createChart);
+		</script>
+	
 </body></html>
