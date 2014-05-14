@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cesim.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103035332id_/http%3A//cesim.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cesim.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515005732id_/http%3A//cesim.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cesim Business Simulations
 
-## Last Updated: August 3, 2011
+## Last Updated: April 8, 2014
 
 ### Cesim is committed to protecting your privacy. This Statement of Privacy applies to the Cesim website and governs data collection and usage. By using the Cesim website, you consent to the data practices described in this statement.
 
