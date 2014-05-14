@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the searchplusnetwork.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230033548id_/http%3A//www.searchplusnetwork.com/PP) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchplusnetwork.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514102016id_/http%3A//www.plusnetwork.com/PP) for the most accurate reproduction.*
 
-# Search Plusnetwork - Privacy Policy
+# Plus! Network - Privacy Policy
 
 ## Privacy
 
@@ -18,7 +18,7 @@ Our database of personal details (however we collect these details) is used by u
 
 If you would like to see the information we hold about you or would like to be removed from our database and/or any mailing lists, please contact our database manager at: [Contact Us](https://web.archive.org/CU)
 
-To help us keep our database up-to-date, we would be grateful if you would let us know as soon as any of your contact details change or if you notice any inaccuracies in them. Please also let us know if you no longer wish to receive information or services from us. In accordance with the Data Protection Act 1998, Search Plusnetwork is registered as a 'Data Controller' on the public Register of Data Controllers as maintained by the Information Commissioner.
+To help us keep our database up-to-date, we would be grateful if you would let us know as soon as any of your contact details change or if you notice any inaccuracies in them. Please also let us know if you no longer wish to receive information or services from us. In accordance with the Data Protection Act 1998, Search Plus! is registered as a 'Data Controller' on the public Register of Data Controllers as maintained by the Information Commissioner.
 
 ## Cookies
 
