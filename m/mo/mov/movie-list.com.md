@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the movie-list.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113001215id_/http%3A//www.movie-list.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movie-list.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514204643id_/http%3A//www.movie-list.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement | Movie-List.com
 
 ## Privacy Statement
 
-This Privacy Policy governs the manner in which Movie-List collects, uses, maintains and discloses information collected from users (each, a "User") of the [movie-list.com](https://web.archive.org/web/20131113001215id_/http%3A//www.movie-list.com/movie-list.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Movie-List.
+This Privacy Policy governs the manner in which Movie-List collects, uses, maintains and discloses information collected from users (each, a "User") of the [movie-list.com](https://web.archive.org/web/20140514204643id_/http%3A//www.movie-list.com/movie-list.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Movie-List.
 
 **Personal identification information**
 
@@ -50,6 +50,8 @@ Users may find advertising or other content on our Site that link to the sites a
 **Advertising**
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
 **Google Adsense**
 
