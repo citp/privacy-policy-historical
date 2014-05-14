@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bragmybag.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112183355id_/http%3A//www.bragmybag.com/301-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bragmybag.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515013223id_/http%3A//www.bragmybag.com/301-2) for the most accurate reproduction.*
 
-# BRAGMYBAG
+# Bragmybag
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence. We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. 
 
