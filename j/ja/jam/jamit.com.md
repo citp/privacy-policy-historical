@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamit.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820012310id_/http%3A//www.jamit.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamit.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515014242id_/http%3A//www.jamit.com/privacy.htm) for the most accurate reproduction.*
 
 # Jamit Job Board Software | Privacy Policy
 
@@ -46,7 +46,7 @@ Your email address, name or any other personal information is strictly for our i
   * We will not list your web site on our pages as one of our clients, unless you give us your permission
   * All information submitted in the support tickets is intended for Jamit Software employees only, and guarded as a company secret.
   * Posts made to the forum may be publicly displayed for all guests and registered users
-  * We use 3rd pary payment processors (eg. PayPal) and we may share some information with them to process your order. The following information may be disclosed to the payment processor: The amount on the order, the order ID, the item number, any other information need by the payment processor in so that the order can be sucessfully completed. s
+  * We use 3rd party payment processors (eg. PayPal) and we may share some information with them to process your order. The following information may be disclosed to the payment processor: The amount on the order, the order ID, the item number, any other information need by the payment processor in so that the order can be successfully completed. s
   * Aggregated information, information that is not personally identifiable may be used for other purposes, including marketing or disclosed to 3rd parties. For example, on the forum we may show the total number of users logged in at one time, etc.
 
 
