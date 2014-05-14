@@ -1,105 +1,164 @@
-> *The following text is extracted and transformed from the firechief.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106070908id_/http%3A//www.penton.com/Pages/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firechief.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514233225id_/http%3A//www.firechief.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement - Penton
+# Privacy Policy | Fire Chief
 
-### 
+**Privacy Policy**
 
-Penton (also referred to in this Privacy Policy with the terms “we,” “us,” or “our”) is committed to protecting the privacy of all those who provide us with their contact information while using our websites, products, events, or services (“you” or “Users”). This policy describes the ways that personally identifiable and anonymous information about our publication subscribers, online and digital media product users, and event registrants is collected, how that information might be shared, and how someone can request changes to the way their personal information is used or shared.   
+This Web site is owned and operated by:
+
+The Praetorian Group  
+200 Green St., Suite 200  
+San Francisco, CA 94111
+
+We are committed to maintaining your confidence and trust with respect to the information we collect from you. This privacy policy sets forth what information we collect about you, how we use your information, and the choices you have about how we use your information.
+
+FIRE CHIEF is dedicated to safeguarding your privacy online. As a policy, we will not sell, share or otherwise misuse your customer information. Your customer information helps us customize FIRE CHIEF to your interests and allows us to negotiate valuable member discounts and related services. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings.
+
+This privacy policy was last updated on 03/15/2011.
+
+[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.ems1.com&sealid=101)
+
+ **Collection of Information Provided By Your Browser And Through Use Of Cookies**
+
+This Site automatically collects information on our server logs from your web browser regarding your use of the Site. Examples of information we collect automatically from all users include the Internet Protocol (“IP”) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; and full Uniform Resource Locator (“URL”) click stream data, including date and time, and content you viewed or searched for on the Site.
+
+This Site also collects information through the use of “cookies.” Cookies are anonymous, unique alphanumeric identifiers sent to your browser from a web site’s computers and stored on your computer’s hard drive. The type of information we collect as a result of a cookie being stored on your computer is specific to your computer. We use “session” cookies to collect information about your use of the Site (e.g., whether you are logged in) and so that you may view articles, abstracts or other records and browse from page to page. These cookies are temporary and are deleted when you close your browser. We use “persistent” cookies to give you a more personalized browsing experience and help you navigate the Site more efficiently.
+
+The most common reason for passing a cookie during your session on FIRE CHIEF is to remind us of whom you are and to access your account information (stored on our computers) in order to deliver to you a better and more personalized service. This cookie provides your username and password when you register or “Sign In” and is modified when you “Sign Out” of our services. Other submitted personal information such as occupation and city are not linked to cookies.
+
+We collect and use, and may from time to time supply third parties with, this information only as anonymous, aggregated user data for the purposes of usage analysis, quality control and administering and improving the Site. Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by FIRECHIEF.com only and does not cover the use of cookies by any of our advertisers.
+
+You can prevent your browser from accepting new cookies, have the browser notify you when you receive a new cookie, or disable cookies altogether by accessing your browser’s preferences menu. If you choose to disable cookies altogether, you can use the Site but will not be able to register or make use of the advanced personalization features of the Site, although the basic features and functionality offered to unregistered users of the Site will be possible to use.
+
+This privacy statement covers the use of cookies by FIRE CHIEF only and does not cover the use of cookies by any advertisers.
+
+ **Collection and Registration of Personal Information**
+
+We sometimes request users of the Site to provide personal information. The information collected from a user is strictly voluntary and may include contact information such as the user’s name, e-mail address, and postal address.
+
+In order to access certain content and to make use of the full functionality and advanced personalization features of the Site, we may ask you to register. You may be prompted to register when you:
+
+  * Subscribe to an email alert or newsletter
+  * Order a journal or submit a classified listing
+  * Register for a conference
+  * Provide feedback or complete a survey
+  * Enter a contest
 
 
-A current list of the Penton websites covered by this Privacy Policy (the “Sites”) can be found [here](http://www.penton.com/AboutUs/PentonWebsites/tabid/181/Default.aspx). 
 
-**Information We Collect**
+The information collected from the registration form that is presented to users when they choose to register may include contact information such as the user’s name, e-mail address, work setting, job title, profession, principal professional field, subject area of interest, and country (“Registration Information”).
 
-We may collect personally identifiable and/or anonymous information from you in the course of your use of our websites, products, events, or services (“Services”) as further described in this Privacy Policy. Personally identifiable information is information that can identify you, such as your full name, email address, postal address, telephone number, and fax number. In some cases, you may provide information to us, and in others information about you or your activities on our Services may be automatically collected, as further described below.
+ **How Personal Information Is Used**
 
-**Information You Provide**
+We use the personal information that you provide for such purposes as:
 
-We collect personally identifiable information that you provide to us when you subscribe to our magazines (either directly or through another company such as a subscription agency); sign up for email newsletters or promotions; enter a contest; participate in surveys; register for a website, webcast, mobile application, tradeshow or other online or in-person event; or otherwise communicate with us or interact with the Sites. We also may receive information about you from other sources and add it to the information you have provided to us. 
+  * completion and support of the activity for which the information was provided, such as allowing access to or delivery of our products or services, processing or fulfilling an order, or responding to your requests or inquiries.
+  * website and system administration, such as for the technical support of the Site and its computer system, including processing computer account information, information used in the course of securing and maintaining the Site, and verification of Site activity by the Site or its agents
+  * research and development to enhance, evaluate and improve the Site and our services
+  * tailoring or customizing content or design of the Site during a single visit to the Site and individualized personalization of the Site on repeat visits
+  * pseudonymous analysis to create a profile used to determine the habits, interests or other characteristics of users for purposes of research, analysis and anonymous reporting
+  * communicating with you about changes or updates to the Site and our services and, with your consent, special offers, promotions or market research surveys
 
-If you use a credit card to pay for a Penton product or service, we may retain your credit card information in order to renew your account in the event you elect to renew your subscription. When we do retain credit card information, we keep it secure and separate from other demographic information you may have given us.
 
-Penton is not responsible for the information you volunteer about yourself in discussions in our forums or other publicly accessible interactions, or the information that you choose to make public in your member profile. To view or change your member profile, please return to the Penton business site where you registered.
 
-**Information Collected Automatically and Our Uses of Such Information**
+ **Disclosure of Personal Information to Third Parties**
 
-Like most website operators, we use cookies (small data files stored on your computer by your web browser upon visiting a website), web beacons, and similar technologies to operate our Services efficiently and as intended. Through such technologies we gather information about you, such as your browser type, operating system, IP address, mobile device identification number, the sites visited before and after our Site, and about your interactions with our Services, such as the time and date when you viewed a page, which advertisements you have clicked on, and whether you filled out an online form. You may set your browser to block all cookies, including Penton’s, while using our Services (in which case some aspects of the Services may not function properly), or you may set your browser to block third-party cookies and allow first-party cookies, which would allow us (but not third parties) to collect such information while you are on our Sites. In addition, some browsers may allow you to block certain web beacons and similar tracking codes. Please refer to your browser’s documentation if you wish to block some or all cookies, web beacons, and/or similar tools. 
+Access to your personal information is restricted to our employees, agents, representatives and service providers and entities for whom we are acting as an agent, licensee or publisher, such as societies and our affiliated group companies, for the purposes set forth above.
 
-We use information gathered through these tools to improve the way our Sites work, for example by employing third-party analytics tools which aggregate anonymized user information to help us better design our Sites, and to enhance the functionality of our Services, for example by remembering preferences or other choices that you make, such as user names, language preferences, and the like. By allowing us to understand how you use our site over time, these tools can help us provide you with a better, more relevant online experience. In addition, we may work with third-party advertising companies to target and serve advertising you see on the Services or on third-party sites based on preferences gleaned from such information. For example, we work with a company called Bizo that may, based on your activities on our Sites and/or third party sites in Bizo’s network, serve ads for our or third-party products to you when you visit another site in Bizo’s network. You can review Bizo’s privacy policy at <http://www.bizo.com/privacy_policy>, and can opt-out of Bizo-targeted advertising at <http://www.bizo.com/businessProfessionals/opt_out>. 
+With your consent, we also may share your personal information with our affiliated group companies and/or with non-affiliated third parties that wish to send you information about their products and services that may be of interest to you, and users who have consented to receive such information may receive communications from these third parties
 
-**Third-Party Cookies and Tracking Technologies**
+We will not otherwise disclose any personal information without your consent except under the following circumstances:
 
-Certain third parties may also employ cookies, web beacons, and/or similar technologies on our Services. Information collected through such third-party tools is gathered directly by such third party, not by Penton, and is subject to such third party's applicable privacy policy. Penton has no control over such third-party tools. These third parties include but are not limited to analytics partners who help us better understand how our users are interacting with our Services and advertising, providers of widgets and other third-party applications that may appear in our Services, ad servers, ad networks, ad agencies, and advertisers. You may visit these third parties' sites to learn more about their privacy practices. In addition, as noted above, you may set your browser to block third-party cookies. Finally, you may visit the industry websites described in the next section to learn more about the privacy practices of a wide range of ad networks and data companies and to exercise certain opt-out options made available there.
+  * in response to subpoenas, court orders, or legal process, or to establish or exercise our rights to defend against legal claims;
+  * if we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, safety of person or property, violation of our policies, or as otherwise required by law; and
+  * if Praetorian, this Site or a related asset or line of business is acquired by, transferred to or merged with another company.
 
-**Industry Websites Regarding Online Behavioral Advertising**
 
-Most of the third-party advertising and data companies with whom we work (including Bizo) are members of the Network Advertising Initiative (“NAI”) and/or the Digital Advertising Alliance (“DAA”). NAI offers a tool which will allow you to opt-out of behavioral advertising by NAI members at <http://www.networkadvertising.org/choices/>, and the DAA offers a similar opt-out tool regarding behavioral advertising by its members at <http://www.aboutads.info/choices/>. Finally, the DAA manages its Self-Regulatory Program for Online Behavioral Advertising (“Self-Regulatory Program”); if you are served an ad by a third party that follows the Self-Regulatory Program, you may click on the Advertising Option Icon (the letter “i” in a blue triangle) or related phrases (e.g., “Why did I get this ad?,” “Interest Based Ads,” or “Ad Choices”) to learn more about applicable behavioral advertising practices and opt-out options. 
 
-**How We Use Your Contact Information**
+ **Service Providers**
 
-We may use your contact information to send you account notices, including subscription renewals or registration confirmation, and to provide you with information about products or services you’ve ordered or which we think may be of interest to you. We may also use your contact information to ask for your input to help in our research about our services, events, or products or to provide you with additional information about the Sites.
+We use other third parties to provide forums on FIRE CHIEF. When you sign up for an FIRE CHIEF member account, we will share your username and security level as necessary for the forums application to provide that service.
 
-We may also send you e-newsletters with targeted, relevant content. Each e-newsletter will provide you with an opportunity to unsubscribe from that particular e-newsletter. Unsubscribing from one newsletter will not affect delivery of other newsletters.
+If you use a bulletin board, blog, or chat room on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-In some cases, we may send you relevant, carefully-screened offers from reputable third party businesses or organizations. Many of our customers appreciate receiving these offers because they relate to their business or occupation. However, you will always be able to opt-out of receiving future third party offers.
+These third parties are prohibited from using your personally identifiable information for any other purpose than listed above.
 
-All promotional and research email messages you receive from us will include an option to opt-out of future email communications from that particular Penton brand. 
+ **Access and Changes to Your Information**
 
-**Information We Share with Third Parties**
+Users may access their identified contact information and other Registration Information and correct any discrepancies or update information by contacting the Praetorian Group below and/or by clicking on the “Update” button located at the bottom of each e-mail communication we send. The accuracy of such information is solely the responsibility of the user. No access is given to other data that may have been collected about users.
 
-We may provide personally identifiable information to those acting as our agents in providing our products and services, including third-party companies we have employed to provide us with specialized services, including customer service, subscription fulfillment, research, statistical analysis, list cleansing, postal mailings, email and fax deployment, telemarketing, and other information services. In compliance with privacy laws, we also provide our opt-out lists to those third-party companies so that they can be suppressed from the communications those companies send on Penton's behalf. 
+If you subscribe to an email newsletter, you may occasionally receive new product announcements, market surveys, special offers or promotions. If you wish to cease receiving any of this information, notify the FIRE CHIEF Marketing/Web Department below or use the “opt-out” or unsubscribe option or other means provided within the communications you receive. We reserve the right to notify you of changes or updates to the Site whenever necessary.
 
-From time to time our sponsors wish to contact our subscribers and customers who have indicated an interest in the products, services or events provided by such sponsors. If you register for products or services offered by such sponsors or third parties, or for events sponsored in whole or in part by a third party, or otherwise opt-in to permit us to share your personally identifiable information, then you may receive communications directly from such third parties. If you provide information on a co-branded site or while using a co-branded service, you grant us permission to share the information you have provided with that service or site partner. Their use of your information is subject to their privacy policies and we urge you to read those policies and be aware of their privacy practices before registering.
+To update your profile, subscription options or any other FIRE CHIEF member information please visit your profile page. For all other concerns please contact us.
 
-In addition, we may share your contact information with sponsors who appear in a particular e-newsletter of ours if you click on their link in the e-newsletter. If you do NOT wish to have your email address shared with that e-newsletter's sponsors, you will be given an opportunity within the e-newsletter to opt-out.
+ **Tell a Friend**
 
-Penton also shares the information it gathers in a compiled format with advertisers and other partners. The compiled format does not include personally identifiable information.
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. This feature is available with FIRE CHIEF articles, tips and videos throughout FIRECHIEF.com. We will automatically send your friend a one-time email inviting him or her to visit the site. FIRE CHIEF does not store this information and will not send any additional messages to the referred user.
 
-**Content Quality Control**
+ **Unsubscribing and opting out of personally identifiable information**
 
-Penton uses a third party to monitor user-generated content posted on our websites. When you submit a comment on a Penton website, our third-party service provider, Mollom BVBA (“Mollom”), may collect, analyze, and store information about you and the content you submit for anti-spam and quality monitoring purposes as set forth in Mollom’s privacy policy available at <http://mollom.com/web-service-privacy-policy>.
+Your username may be displayed while participating in the Forums, video sites and when submitting member comments to any article, tip or video on FIRE CHIEF. Your email address will only be used for us to send you materials that you have subscribed to in the past.
 
-**Information Transfer**
+We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. If you wish to update or remove any of your personal information please visit your profile page at anytime.
 
-Penton is based in the United States of America. Any information you provide may be stored and maintained in a secure database in the United States or transferred to a secure database outside the United States. By providing us with your information, you consent to this transfer.
+If you no longer wish to receive our newsletter or other promotional communications, you may opt-out of receiving them by following the unsubscribe instructions included in each communication, by updating your profile or emailing [customersupport@firerescue1.com](mailto:customersupport@ems1.com?subject=Profile%20Update).
 
-In the case of a change of ownership or a merger involving Penton or any business that is part of Penton, your contact information associated with that business would be one of those transferred assets. Users should also be aware that courts of equity, such as U.S. Bankruptcy Courts, might have the authority under certain circumstances to permit personal information to be shared or transferred to third parties without permission.
+You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
 
-**How We Keep Your Information Secure**
+ **Service Providers**
 
-We use reasonable precautions, including appropriate technical, administrative, and physical procedures, to protect personal information from loss, misuse, or alteration. 
+We use other third parties to provide forums on FIRECHIEF.com. When you sign up for a FIRE CHIEF member account, we will share your username as necessary for the forums application to provide that service.
 
-When we contract with other companies to provide us with services, we only share personal information with those that we believe share our commitment to privacy and information security. However, we are not responsible for any breach of security or for the actions of these parties. 
+If you use a bulletin board, blog, or forum on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-Due to the design of the Internet and other factors outside our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.
+These third parties are prohibited from using your personally identifiable information for any other purpose than listed above.
 
-**Children's Privacy**
+ **Third-Party Advertisers**
 
-Penton's Sites are not intended for use by children, especially those under the age of 13. No one under the age of 13 should provide any personal information or participate in any forums, chats, or online discussions. Minors under the age of 18 are prohibited from making purchases, including subscriptions, on our sites. Please discourage your children from providing any personal information about themselves to anyone in any public discussion areas.
+We contract with third-party advertisers that post on the Site banner ads, which may link to other websites not under our control. These third-party advertisers may use cookie technology to measure the effectiveness of their ads or may otherwise collect personally identifiable information from you when you leave this site. We are not responsible or liable for any content, advertising, products or other materials offered from such advertisers. Transactions that occur between you and the third party are strictly between you and the third party and are not our responsibility. You should review the privacy policy of any third-party advertiser, as their policies may differ from ours.
 
-**California Privacy Rights**
+ **Retention of Personal Information**
 
-Under California Law, California residents have the right to request certain information from businesses with whom they have an established business relationship. In particular, the law provides that companies must inform consumers about the categories of personal information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. To request the above information in relation to any of the Sites, please contact us via email addressed to privacy@penton.com or write to us at: Penton, Attn: Customer Service – Privacy, 9800 Metcalf Avenue, Overland Park, KS 66212, with a reference to California Disclosure Information. We will respond to such requests to information access within 30 days following receipt at the e-mail or mailing address stated above. If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that we are only required to respond to each customer once per calendar year.
+We retain the personal information we collect from you for as long as the information is relevant to our business purposes or until you request that we remove the data by contacting the Praetorian Group below.
 
-**Changes to this Privacy Policy**
+ **Our Commitment to Data Security**
 
-We may occasionally update this Privacy Policy. When we do, we will also revise the “last updated” date below. For changes to this Privacy Policy that may be materially less restrictive on our use or disclosure of your personal information, we will attempt to notify you by email of the change. We encourage you to review this Privacy Policy from time to time to stay informed about how we are protecting the personal information we collect. If you continue to use our site or services after we have attempted to contact you about material changes to the Privacy Policy, we will assume that you agree to the changes.
+We recognize that your privacy is important to you, and therefore we endeavor to keep your personal information confidential. The personal and demographic information about each user is stored on our servers that are behind a firewall and physically housed within a secured data center. Furthermore, our internal practices help protect your privacy by limiting employee access to and use of such information. However, we do not represent, warrant, or guarantee that your personal information will be protected against unauthorized access, loss, misuse, or alterations, and do not accept any liability for the security of such information submitted to us nor for your or third parties’ use or misuse of such information.
 
-**Terms of Use**
+ **Testimonials**
 
-By using any of our Sites, you consent to our use of your contact information as it is outlined in this Privacy Policy.
+We periodically post member testimonials on FIRE CHIEF which may contain personally identifiable information such as the member’s username. We do obtain the member’s consent prior to posting each testimonial. If you have any questions regarding testimonials on FIRE CHIEF or would like a testimonial that includes your personal information removed please contact us.
 
-Penton reserves the right to access and disclose personally identifiable information to comply with applicable laws, lawful government requests and court orders, or to investigate alleged fraud or violations of the Terms of Use of Penton’s Sites.
+ **About This Privacy Policy**
 
-All users, including those users who access the Sites from a country other than the U.S., agree that the laws of the State of New York shall govern any dispute, including those arising from Penton’s use of personal information or otherwise relating to privacy.
+Any changes to this policy will be posted on this webpage. Our policy does not create a contract or any legal rights.
 
-**How to Reach Us**
+This privacy policy applies solely to the information you provide while visiting this Site. The terms of this privacy policy do not govern personal information furnished through any means other than this Site (such as via telephone or postal mail).
 
-If you wish to update your print magazine subscription contact information, please go to the magazine's home page. If you wish to opt-out of receiving email, faxes, or phone calls from any Penton business, please send an email to privacy@penton.com or write/call us at:
+This Site may contain links to other websites that are beyond our control. Other websites to which you link may contain privacy policies that are different from this privacy policy. We encourage you to check the privacy policy of each website you visit before submitting any information to them.
 
-Penton Customer Service   
-9800 Metcalf Avenue  
-Overland Park, KS 66212  
-Phone: 913-967-1710
+ **Changes in this Privacy Statement**
 
-Last Updated: May 6, 2013
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+
+If you ever have questions regarding the FIRE CHIEF privacy policy please email [customersupport@firerescue1.com](mailto:customersupport@ems1.com).
+
+ **  
+Questions, Complaints and Dispute Resolution**
+
+If you have any questions or comments regarding this privacy policy, please contact the Praetorian Group at:
+
+The Praetorian Group  
+200 Green St., Suite 200  
+San Francisco, CA 94111  
+Toll Free: 866/402-4371  
+Fax: 415/962-8340  
+[customerservice@firerescue1.com](mailto:customerservice@ems1.com?subject=Profile%20Update)
+
+If at any time you believe that we have not adhered to this privacy policy or you have a complaint regarding the way your personal information is being handled, please contact the Praetorian Group. Disputes under this privacy policy will be resolved by the Praetorian Group, which will use commercially reasonable efforts to promptly investigate, and if necessary, to correct any problem.
+
+Praetorian Group is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.
+
+If you have questions or concerns regarding this statement, you should first contact customersupport@firerescue1.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php) TRUSTe will then serve as a liaison with us to resolve your concerns.
