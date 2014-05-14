@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the columbus.gov privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207040922id_/http%3A//www.columbus.gov/content.aspx%3Fid%3D7082) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbus.gov privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514044619id_/http%3A//columbus.gov/Privacy) for the most accurate reproduction.*
 
-# Welcome to City of Columbus
+# 
+
+#### Site Privacy Policy
 
   * Purpose 
   * Automatic Collection of Certain Information 
