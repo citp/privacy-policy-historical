@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hbosouthasia.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110160446id_/http%3A//www.hbosouthasia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hbosouthasia.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514044129id_/http%3A//www.hbosouthasia.com/privacy-policy.php) for the most accurate reproduction.*
 
 # HBO South Asia, Its Not TV, Its HBO - English Movie Channel India, Pakistan, Bangladesh, Maldives
 
@@ -44,8 +44,11 @@ We have put in place appropriate procedures to safeguard and help prevent unauth
 
 How to Contact Us
 
-If you have any questions or concerns about our Privacy Policy Statement you may [Contact Us](https://web.archive.org/web/20131110160446id_/http%3A//www.hbosouthasia.com/contact-us.php).
+If you have any questions or concerns about our Privacy Policy Statement you may [Contact Us](https://web.archive.org/web/20140514044129id_/http%3A//www.hbosouthasia.com/contact-us.php).
 
 HBO Asia reserves the right, at its discretion, to change, modify, add, or remove portions of this Privacy Policy Statement at any time. You should check this page periodically for changes. Your continued use of our site following the posting of changes to this Privacy Policy Statement will mean that you accept those changes.
 
-This website is intended for viewing solely in the following territories. © 2011 HBO Asia. All Rights Reserved. Home Box Office®, HBO® and Cinemax® are registered trademarks of Home Box Office, Inc. HBO Signature, HBO Family and HBO Hits are service marks of Home Box Office, Inc.
+Home Box Office, HBO Defined & HBO HITS are service marks of Home Box Office, Inc. Used with permission.  
+Copyright and all intellectual property rights in and to the images used and referred to herein vest in each of their respective owners.  
+Used with permission.©2014 HBO India. All rights reserved.  
+
