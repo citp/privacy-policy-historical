@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallis.co.uk privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111144400id_/http%3A//www.wallis.co.uk/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd%3FcatalogId%3D33058%26storeId%3D12557%26langId%3D-1%26viewAllFlag%3Dfalse%26categoryId%3D281007%26interstitial%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallis.co.uk privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514053541id_/http%3A//www.wallis.co.uk/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd%3FcatalogId%3D33058%26storeId%3D12557%26langId%3D-1%26viewAllFlag%3Dfalse%26categoryId%3D281007%26interstitial%3Dtrue) for the most accurate reproduction.*
 
 # Privacy Policy - Wallis
 
@@ -173,6 +173,22 @@ make recommendations of products that we think might be of
 
 interest to you, based on what you and other visitors have viewed.  
   
+_wallis-dressipi_session, remember_user_token,
+
+last_login, dressipi_status
+
+| 
+
+These cookies enable our Style Adviser service. They allow us to 
+
+recommend your size in the product you are viewing as well as
+
+telling you whether the style is right for you.The
+
+recommendations are based on your answers to the Style
+
+Adviser questionnaire.  
+  
 s_cc, s_sq, s_vi
 
 | 
@@ -276,6 +292,24 @@ after checkout. It is used to track whether we then owe any
 money as a commission to a site (affiliate) which has referred
 
 business to us.  
+  
+Dressipi
+
+| 
+
+Dressipi use cookies to collect data to improve the
+
+efficiency and quality of their service. For customers
+
+who have used the Style Adviser service they use cookies
+
+to identify valid users and to help personalise the
+
+Dressipi experience in conjunction with the user's
+
+profile. Please visit <http://dressipi.com/wallis/privacy_policy>
+
+for more information.  
   
 ### Social buttons
 
