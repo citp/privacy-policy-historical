@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the t3trafficblueprint.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530190748id_/http%3A//t3trafficblueprint.com/%3Fpage_id%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t3trafficblueprint.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514144815id_/http%3A//t3trafficblueprint.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | t3trafficblueprint.com
+# 
 
 This privacy policy sets out how ** **Kirkland Media Group LLC** **uses and protects any information that you give **Kirkland Media Group LLC** when you use this website.
 
