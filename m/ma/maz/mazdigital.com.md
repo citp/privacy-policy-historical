@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mazdigital.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509093847id_/http%3A//www.mazdigital.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazdigital.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515000559id_/http%3A//mazdigital.com/privacy) for the most accurate reproduction.*
 
-# 
+# MAZ - Privacy Policy
+
+### Last Updated: 12/14/12
 
 Welcome to _MAZ_ , also referred to as MagAppZine, which is operated by MAZ Digital Inc. (" _Company_ ", " _we_ ", " _us_ " or " _our_ "). This is the privacy policy (" _Privacy Policy_ ") for (a) the website located at www.mazdigital.com and magappzine.com and all corresponding web pages associated with the foregoing URL ("Site"), and (b) any content, information, features, functionality and services offered by us through the Site (collectively, and together with the Site, the " _Services_ "). Please review our [Terms of Service Agreement](https://web.archive.org/terms) which governs your use of the Services. Any capitalized terms that are not defined in this Privacy Policy shall have the meaning ascribed in the [Terms of Service Agreement](https://web.archive.org/terms).
 
