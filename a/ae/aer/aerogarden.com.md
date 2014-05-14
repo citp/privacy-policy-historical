@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aerogarden.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205074135id_/http%3A//www.aerogarden.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aerogarden.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514211924id_/http%3A//www.aerogarden.com/privacy-policy) for the most accurate reproduction.*
 
-# AeroGarden | Privacy Policy Indoor Garden, Seed Kit, Grow Light
+# Privacy Policy
 
 **AeroGrow Global Information Privacy & Security Policy**
 
@@ -45,5 +45,7 @@ AeroGrow uses commercially reasonable methods consistent with industry practice 
 
 Corrections and to Opt Out   
 AeroGrow responds in a timely manner to your questions, concerns, and complaints about the privacy of your personal information and our privacy and security policy and procedures. If you do not want us to use your personal information as described in this statement or if you wish to request access to your personal information we have on record in order to review and correct the information, please contact us by phone at 800-476-9669, by email at customerservice@aerogrow.com or by mail at PO Box 18450, Boulder, CO, USA 80308-1450. 
+
+Our company and our trusted third parties may collect and share anonymous versions of user information. We may use that information to link to and issue an anonymous cookie containing demographic or intent-based data for online behavioral advertising. Such cookies do not contain personally identifiable information. If you would like to opt out of online behavioral advertising, click on one of the links below. (<http://www.aboutads.info/choices> or <http://networkadvertising.org/choices>) 
 
 *PIPEDA: the following principles to govern the collection, use and disclosure of personal information: accountability, identifying the purposes for the collection of personal information, obtaining consent, limiting collection, limiting use, disclosure and retention, ensuring accuracy, providing adequate security, making information management policies readily available, providing individuals with access to information about themselves, and giving individuals a right to challenge an organization's compliance with these principles. 
