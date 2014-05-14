@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kbzbank.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112151644id_/http%3A//www.kbzbank.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kbzbank.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514131105id_/http%3A//www.kbzbank.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Kanbawza Bank (KBZ Bank)
 
@@ -47,12 +47,12 @@ You may choose to restrict the collection or use of your personal information in
 
 
 
-#### Exchange Rate (November 12, 2013 11:30)
+#### Exchange Rate (May 14, 2014 10:40)
 
 Unit| Buy| Sell  
 ---|---|---  
-USD | 968 | 975  
-EUR | 1294 | 1312  
-SGD | 773 | 783  
+USD | 958 | 965  
+EUR | 1310 | 1325  
+SGD | 763 | 771  
   
-﻿ 
+﻿  ﻿ 
