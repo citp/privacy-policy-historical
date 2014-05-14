@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the signalhq.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111192333id_/http%3A//www.signalhq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signalhq.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515004648id_/http%3A//www.signalhq.com/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy - Signal
 
-The following Privacy Statement (“Statement”) sets forth the policies for, the collection and use of personally identifiable information (“Information”) by Message Mediums, LLC, DBA Signal (“Signal”). This Statement covers the operation of its Web Site[ http://www.signalhq.com](http://www.signalhq.com/) (the “Site”) and its private label services, operated on behalf of third parties (its “Customers”) and supersedes any previous statement of such policies. (The Site and private label service, are referred to collectively as the “Business” in this Statement.) Signal takes its obligations regarding privacy very seriously, and it wants to ensure Customers are fully informed about the Information they are providing. “Personally identifiable Information” refers to information that can identify an individual such as a name, or email address. 
+The following Privacy Statement (“Statement”) sets forth the policies for, the collection and use of personally identifiable information (“Information”) by Signal BT, LLC (“Signal”). This Statement covers the operation of its Web Site[ http://www.signalhq.com](http://www.signalhq.com/) (the “Site”) and its private label services, operated on behalf of third parties (its “Customers”) and supersedes any previous statement of such policies. (The Site and private label service, are referred to collectively as the “Business” in this Statement.) Signal takes its obligations regarding privacy very seriously, and it wants to ensure Customers are fully informed about the Information they are providing. “Personally identifiable Information” refers to information that can identify an individual such as a name, or email address. 
 
 Signal has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.signalhq.com and does not cover information that may be collected behind the log in on our website. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@signalhq.com. If you are not satisfied with our response you can [contact TRUSTe here.](http://watchdog.truste.com/pvr.php?page=complaint)
-
-[](https://privacy.truste.com/privacy-seal/Signal/validation?rid=cfef8185-c38b-46c1-8a08-8d4a5592c1f6 "TRUSTe online privacy certification")
 
 ## Collection of Information
 
@@ -69,6 +67,6 @@ Signal reserves the right to revise and update this Privacy Policy at any time, 
 
 ## Contacting Us
 
-You can contact Signal with your questions and concerns via email (support@signalhq.com) or mail (Signal, 656 W Randolph St, Suite 4W, Chicago, IL 60661)
+You can contact Signal with your questions and concerns via support@signalhq.com.
 
-Effective: October 22, 2012
+Effective: April 4, 2014
