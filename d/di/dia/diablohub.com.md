@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the diablohub.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111152845id_/http%3A//www.diablohub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diablohub.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514070113id_/http%3A//www.diablohub.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — DiabloHub
+# DiabloHub - Your source for everything Diablo 3
 
 _Last updated March 1st, 2013_
 
