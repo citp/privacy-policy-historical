@@ -1,21 +1,22 @@
-<!--The following is the downloaded HTML source of the wallsauce.com privacy policy that was archived on 2013-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131113021055id_/http%3A//www.wallsauce.com/information/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wallsauce.com privacy policy that was archived on 2014-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140514232818id_/http%3A//www.wallsauce.com/information/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
+
+
+
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Wallsauce.com - Privacy Policy</title>
+        <title>Privacy Policy</title>
         <meta name="description" content="
 	Privacy Policy
 ">
-        <meta name="keywords" content=" - 
-	Privacy Policy
-">
+        <meta name="keywords" content="wall, mural, custom wall">
         <meta name="viewport" content="width=device-width">
 
         <!-- start of default styles for wallsauce -->
         <link rel="stylesheet" href="http://www.wallsauce.com/css/normalize.min.css">
-        <link rel="stylesheet" href="http://www.wallsauce.com/css/wallsauce/style.css">
+        <link rel="stylesheet" href="http://www.wallsauce.com/css/wallsauce/style.140403.1.css">
         <link rel="stylesheet" href="http://www.wallsauce.com/css/wallsauce/helper.css">
         <!-- end of default styles for wallsauce -->
 
@@ -54,10 +55,10 @@
 
         <script src="http://www.wallsauce.com/js/plugins.js"></script>
 
-        <script src="http://www.wallsauce.com/js/main.js"></script>
-		<script src="http://www.wallsauce.com/js/jquery.bxslider.min.js"></script>
         
-        <script>
+        <script src="http://www.wallsauce.com/js/main.140403.js"></script>
+		<script src="http://www.wallsauce.com/js/jquery.bxslider.min.js"></script>
+                <script>
 		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),		
 		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -68,7 +69,7 @@
 		  
 		  ga( 'require', 'ecommerce', 'ecommerce.js' );
 		</script>
-        
+		        
         <!-- I AGREE TO COOKIES ON THIS WEBSITE CODE -->
         <style type="text/css">
 		<!--
@@ -89,7 +90,7 @@
        	$(window).bind("load", function() {
        		
        		var proto = "http";
-       		if(window.location.protocol == "https")
+       		if(window.location.protocol.indexOf("https") >= 0)
        			proto = "https";
        		       		
        		var cot_loc0=(window.location.protocol == "https:")?"https://secure.comodo.com/trustlogo/javascript/cot.js": "http://www.trustlogo.com/trustlogo/javascript/cot.js";
@@ -110,7 +111,8 @@
        		} );
        				});
 		</script>
-    </head>
+		
+		    </head>
     <body id="top" data-website="www-wallsauce">
     	    				<div id="eucookielaw">
 			<p>We use cookies. By browsing our site you agree to our use of cookies.</p>
@@ -131,241 +133,265 @@
             <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
         <![endif]-->
 
-        <!-- start main header container -->
-        <div class="main-header wrapper">
-            <!-- Start top navigation -->
-            <div class="top-menu">
-                <nav>
-                    <ul>
-                                                <li id="loginButton"><a href="#actionLogin" class="fancybox">Log In</a></li>
-                        <li id="registerButton"><a href="#actionRegister" class="fancybox">Create Account</a></li>
-                        <li id="wishlistButton"><a href="#actionLogin" class="fancybox">Wishlist</a></li>
-                        	                        
-                                            </ul>
-                </nav>
-                <!--<li><a id="facebook_button_link" href="http://www.wallsauce.com/index.php/facebookLogin" class="fancybox" onclick="window.open('http://www.wallsauce.com/index.php/facebookLogin', 'authorize', 'width=600,height=350');"><img src="http://www.wallsauce.com/img/facebook-connect.jpg" alt="Connet to us on Facebook" /></a></li>-->
-													<!--<li><a href="http://www.wallsauce.com/index.php/facebookLogin"><img src="http://www.wallsauce.com/img/facebook-connect.jpg" alt="Connet to us on Facebook" /></a></li>-->
-							<!--<li><a href="https://www.facebook.com/dialog/oauth?client_id=280124772089837&redirect_uri=http://www.wallsauce.com/index.php/facebookLoginRedirectJS/&scope=email&response_type=token" class="fancybox"><img src="http://www.wallsauce.com/img/facebook-connect.jpg" alt="Connet to us on Facebook" /></a></li>-->
-							<li id="facebookConnectButton"><a href="#" onclick="facebookGetLoginStatus();">Fb</a></li>
-						            </div>
-            <div style="display: none;">
-                <div id="actionLogin">
-                    <h2>Log In</h2>
-                    <form class="login-popup" id="userLogin" name="userLogin" method="post" action="http://www.wallsauce.com/login">
-                        <div class="row">
-                            <div class="errorMessage"></div>
-                        </div>
-                        <div class="row">
-                            <label for="username">Email</label>
-                            <input type="text" name="username" id="username">
-                        </div>
-                        <div class="row">
-                            <label for="password">Password</label>
-                            <input type="password" name="password" id="password" autocomplete="off">
-                        </div>
-                        <div class="row">
-                            <label for="submit">&nbsp;</label>
-                            <input type="submit" name="submit" id="submit" value="Log In" class="login-button">
-                        </div>
-                        <div class="row">
-                            <a href="#actionRegister" class="fancybox">Create Account</a><br>
-                            <a href="#actionForgotPassword" class="fancybox">Forgot Your Password</a>
-                        </div>
-                    </form>
-                </div>
-                <div id="actionRegister">
-                    <h2>Create Account</h2>
-                    <form class="login-popup" id="userLogin-create-account" name="userLogin-create-account" method="post" action="http://www.wallsauce.com/createAccount">
-                        <div class="row">
-                            <div class="errorMessage"></div>
-                        </div>
-                        <div class="row">
-                            <label for="first_name">First Name</label>
-                            <input type="text" name="first_name" id="name">
-                        </div>
-                        <div class="row">
-                            <label for="last_name">Surname</label>
-                            <input type="text" name="last_name" id="name">
-                        </div>
-                        <div class="row">
-                            <label for="email">Email</label>
-                            <input type="text" name="email" id="email">
-                        </div>
-                        <div class="row">
-                            <label for="password">Password <br>(Minimum 8 chars.)</label>
-                            <input type="password" name="password" id="password" autocomplete="off">
-                        </div>
-                        <div class="row">
-                            <label for="username">Re-enter Password</label>
-                            <input type="password" name="repeat-password" id="repeat-password" autocomplete="off">
-                        </div>
-                        <div class="row">
-                        	<label for="opt-in" style="width:auto; float:left; margin-right: 10px; margin-top: 5px;">We may from time to time let you know about special offers, new designers and other ideas. If you wish to receive these emails, please check the box</label>
-                            <input type="checkbox" name="opt-in" id="opt-in" style="width:auto; float:left;">
-                        </div>
-                        <br style="clear:both;">
-                        <div class="row">
-                            <label for="submit">&nbsp;</label>
-                            <input type="submit" name="submit" id="submit" value="Create Account" class="login-button">
-                        </div>
-                        <div class="row">
-                            <a href="#actionLogin" class="fancybox">Log In</a><br>
-                            <a href="#actionForgotPassword" class="fancybox">Forgot Your Password</a>
-                        </div>
-                    </form>
-                </div>
-                <div id="actionForgotPassword">
-                    <h2>Fogotten Password</h2>
-                    <form class="login-popup" id="userLogin-forgot-password" name="userLogin-forgot-password" method="post" action="http://www.wallsauce.com/forgotPassword">
-                        <div class="row">
-                            <div class="errorMessage"></div>
-                        </div>
-                        <div class="row">
-                            <label for="email">Email</label>
-                            <input type="text" name="email" id="email" autocomplete="off">
-                        </div>
-                        <div class="row">
-                            <label for="submit">&nbsp;</label>
-                            <input type="submit" name="submit" id="submit" value="Reset Password" class="login-button">
-                        </div>
-                        <div class="row">
-                                                        <a href="#actionLogin" class="fancybox">Log In</a>
-                            <a href="#actionRegister" class="fancybox">Create Account</a>
-                        </div>
-                    </form>
 
-                </div>
-            </div>
-            <!-- End top navigation -->
-			<!-- top cta -->
-            <div class="toptel">
-            	<p>0800 009 8051</p>
-            </div>
-            <!-- Start header assets search and basket -->
-            <div class="basket-container">
-                <div class="search-form">
-                    <form action="http://www.wallsauce.com/search" method="post">
-                        <input type="text" name="search-criteria" id="search-criteria" placeholder="Search site here...">
-                        <input type="submit" name="search-button" id="search-button" value="Go">
-                    </form>
-                </div>
-                <div class="shopping-basket">
-                    <div class="totals"> 0 Items - £0.00</div>
-                    <div class="show-basket"></div>
-                    <div class="basket-dropdown" style="display: none;">
-                        <div class="prod-items">
-                            <p><strong>Basket Items</strong></p>
-                            <p>You have <span id="basket_dropdown_num">0</span> items in your basket</p>
-                            <ul>
-                                <li><a href="#"><span class="basket-thumb"></span> <span style="display: inline-block; margin-left: 2px;">&nbsp;</span></a><br><a href="#" class="basket-remove"><strong>x</strong> remove</a></li>
-                                                                                            </ul>
-                            <!--<span style="clear:both; display:block;"><strong>Total:</strong> £0.00</span>-->
-                        </div>
-                        
-                        <div class="basket-wishlist">
-                        	<p class="wishlist"><strong>Wishlist</strong></p>
-                            <p>You have <span id="wishlist_dropdown_num">0</span> items in your wishlist</p>
-                                                    </div>
-                        
+		<div class="main-header wrapper">
+			
+			<div class="tb">
+				<ul class="keyFeatures">
+					<li><img src="/img/star.png">Made to Measure Wall Murals</li>
+					<li><img src="/img/tick.png">Simple &amp; Easy to Install</li>
+					<li><img src="/img/delivery.png">FREE US Mainland Shipping</li>
+				</ul>
+				
+				<div class="rb">
+					<div class="t">
+						<span style="display:inline-block;width:9px;"></span>
+						
+						<div class="l">
+						$							<img src="/img/US.png">
+						▾
+							
+							<div class="ts">
+								<fieldset>
+									<legend>Territory Select</legend>
+									
+									<ol>
+										<li data-t="GB">£ <img src="/img/GB.png"> United Kingdom &amp; Worldwide</li>
+										<li data-t="US">$ <img src="/img/US.png"> United States</li>
+									</ol>
+								</fieldset>
+							</div>
+						</div>
+					
+										<a href="https://www.wallsauce.com/login" class="l">Log In / Register</a>
+					
+					<a id="facebook_button_link" href="http://www.wallsauce.com/index.php/facebookLogin" class="fancybox" onclick="window.open('http://www.wallsauce.com/index.php/facebookLogin', 'authorize', 'width=600,height=350');">
+						<img src="/img/fconnect.png" alt="Connet to us on Facebook">
+					</a>
+										</div>
+					
+					<dl>
+						<dt>Call us on</dt>
+						<dd>1-888-581-7892</dd>
+					</dl>
+					
+					<div class="search">
+						<img src="/img/search.png">
+						<form action="http://www.wallsauce.com/search" method="get">
+							<input type="text" name="search-criteria" id="search-criteria" class="txtSearch" placeholder="Search site here…">
+							<input type="submit" class="b" value="GO">
+						</form>
+					</div>
+					
+					<div class="basket">
+						<img src="/img/basket.png">
+						<span class="totals"> 
+							<span class="i">0 Items</span> - $0.00						</span>
+						<a class="b show-basket">
+							▼
+						</a>
+					</div>
+					
+					<div class="basket-container">
+						<div class="shopping-basket">
+							<div class="basket-dropdown" style="display: none;">
+		                        <div class="prod-items">
+		                            <p><strong>Basket Items</strong></p>
+		                            <p>You have <span id="basket_dropdown_num">0</span> items in your basket</p>
+		                            <ul>
+		                                <li><a href="#"><span class="basket-thumb"></span> <span style="display: inline-block; margin-left: 2px;">&nbsp;</span></a><br><a href="#" class="basket-remove"><strong>x</strong> remove</a></li>
+		                                		                            </ul>
+		                            <!--<span style="clear:both; display:block;"><strong>Total:</strong> £0.00</span>-->
+		                        </div>
+		                        
+		                        <div class="basket-wishlist">
+		                        	<p class="wishlist"><strong>Wishlist</strong></p>
+		                            <p>You have <span id="wishlist_dropdown_num">0</span> items in your wishlist</p>
+		                            		                        </div>
+		                    </div>
+		            	</div>
                     </div>
-                </div>
-            </div>
-            <!-- End header assets search and basket -->
-
-            <!-- Start logo -->
-            <div class="logo">
-                <a href="http://www.wallsauce.com/"><img src="http://www.wallsauce.com/img/logo.jpg" alt="Wallsauce.com" title="Wallsauce"></a>
-            </div>
-            <!-- End logo -->
-
+				</div>
+				
+				<!-- Start logo -->
+	            <div class="logo">
+	                <a href="http://www.wallsauce.com/"><img src="http://www.wallsauce.com/img/logo290114.png" alt="Wallsauce.com" title="Wallsauce"></a>
+	            </div>
+	            <!-- End logo -->
+			</div>
+        <!-- start main header container -->
+                
             <!-- Start main menu -->
             <div class="main-menu">
                 <nav>
                     <ul id="nav">
                         <li><a href="http://www.wallsauce.com/">Home</a></li>
-                                                    							<li><a href="http://www.wallsauce.com/wall-murals/">Wall Murals</a>
+                        
+                            							<li><a href="http://www.wallsauce.com/wall-murals/">Wall Murals</a>
                                                                     <ul>
                                                                                     <li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/">Photo Wallpaper<br>
                                                 <span>Mural Image Categories</span></a>
                                                                                                     <ul id="slist">
-                                                        															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/abstract-and-street-art/">Abstract &amp; Street Art<!--br />
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/abstract-and-street-art/">Abstract &amp; Street Art<!--br />
                                                                     <span></span--></a></li>
-                                                        															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/animals/">Animals<!--br />
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/animals/">Animals<!--br />
                                                                     <span></span--></a></li>
-                                                        															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/beaches-and-sunsets/">Beaches and Sunsets<!--br />
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/beaches-and-sunsets/">Beaches and Sunsets<!--br />
                                                                     <span></span--></a></li>
-                                                        															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/calm-and-tranquil/">Calm and Tranquil<!--br />
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/calm-and-tranquil/">Calm and Tranquil<!--br />
                                                                     <span></span--></a></li>
-                                                        															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/car-wall-murals/">Cars<!--br />
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/car-wall-murals/">Cars<!--br />
                                                                     <span></span--></a></li>
-                                                        															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/cities/">Cities<!--br />
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/kids/">Childrens<!--br />
                                                                     <span></span--></a></li>
-                                                        															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/uk-coast-and-countryside/">Coast &amp; Countryside (UK)<!--br />
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/cities/">Cities<!--br />
                                                                     <span></span--></a></li>
-                                                        															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/fantasy-and-science-fiction/">Fantasy &amp; Science Fiction<!--br />
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/uk-coast-and-countryside/">Coast &amp; Countryside (UK)<!--br />
                                                                     <span></span--></a></li>
-                                                        															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/flowers/">Flowers<!--br />
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/fantasy-and-science-fiction/">Fantasy &amp; Science Fiction<!--br />
                                                                     <span></span--></a></li>
-                                                        															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/food-and-drink/">Food &amp; Drink<!--br />
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/flowers/">Flowers<!--br />
                                                                     <span></span--></a></li>
-                                                        															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/forest-and-woodland/">Forest and Woodland<!--br />
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/food-and-drink/">Food &amp; Drink<!--br />
                                                                     <span></span--></a></li>
-                                                        															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/kids/">Kids<!--br />
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/forest-and-woodland/">Forest and Woodland<!--br />
                                                                     <span></span--></a></li>
-                                                        															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/landscapes/">Landscapes<!--br />
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/landscapes/">Landscapes<!--br />
                                                                     <span></span--></a></li>
-                                                        															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/maps/">Maps<!--br />
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/maps/">Maps<!--br />
                                                                     <span></span--></a></li>
-                                                        															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/pattern-designs/">Pattern Designs<!--br />
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/music/">Music<!--br />
                                                                     <span></span--></a></li>
-                                                        															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/religions-and-symbols/">Religions &amp; Symbols<!--br />
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/pattern-designs/">Pattern Designs<!--br />
                                                                     <span></span--></a></li>
-                                                        															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/retro-vintage/">Retro/Vintage<!--br />
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/religions-and-symbols/">Icons &amp; Symbols<!--br />
                                                                     <span></span--></a></li>
-                                                        															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/sea-life/">Sea Life<!--br />
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/retro-vintage/">Retro/Vintage<!--br />
                                                                     <span></span--></a></li>
-                                                        															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/skies/">Skies<!--br />
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/sea-life/">Sea Life<!--br />
                                                                     <span></span--></a></li>
-                                                        															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/space---planets/">Space / Planets<!--br />
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/skies/">Skies<!--br />
                                                                     <span></span--></a></li>
-                                                        															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/sport/">Sport<!--br />
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/space---planets/">Space / Planets<!--br />
                                                                     <span></span--></a></li>
-                                                        															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/travel/">Travel<!--br />
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/travel/">Travel<!--br />
                                                                     <span></span--></a></li>
-                                                        															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/vehicles-and-transport/">Vehicles &amp; Transport<!--br />
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/vehicles-and-transport/">Vehicles &amp; Transport<!--br />
                                                                     <span></span--></a></li>
-                                                        															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/walls/">Feature Wall Surfaces<!--br />
-                                                                    <span></span--></a></li>
-                                                                                                            </ul>
-                                                                                            </li>
-                                                                                    <li><a href="http://www.wallsauce.com/wall-murals/fine-art-wall-murals/">Fine Art Wall Murals<br>
-                                                <span>Bridgeman Art Library</span></a>
-                                                                                            </li>
-                                                                                    <li><a href="http://www.wallsauce.com/wall-murals/designer-wall-murals/">Designer Collections<br>
-                                                <span>Unique images and art</span></a>
-                                                                                                    <ul>
-                                                        															<li><a href="http://www.wallsauce.com/wall-murals/designer-wall-murals/melissa-launay/">Melissa Launay<!--br />
-                                                                    <span></span--></a></li>
-                                                        															<li><a href="http://www.wallsauce.com/wall-murals/designer-wall-murals/javier-velasco/">Javier Velasco<!--br />
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper/walls/">Feature Wall Surfaces<!--br />
                                                                     <span></span--></a></li>
                                                                                                             </ul>
                                                                                             </li>
                                                                                     <li><a href="http://www.wallsauce.com/wall-murals/entertainment-gaming/">Entertainment &amp; Gaming<br>
                                                 <span>New - more coming soon!</span></a>
                                                                                                     <ul>
-                                                        															<li><a href="http://www.wallsauce.com/wall-murals/entertainment-gaming/bin-weevils-wallpaper-murals/">Bin Weevils<!--br />
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/entertainment-gaming/justice-league/">Justice League<!--br />
                                                                     <span></span--></a></li>
-                                                        															<li><a href="http://www.wallsauce.com/wall-murals/entertainment-gaming/movie-star-planet-wallpaper-murals/">Movie Star Planet<!--br />
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/entertainment-gaming/batman-wallpaper-murals/">Batman<!--br />
+                                                                    <span></span--></a></li>
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/entertainment-gaming/superman-wall-murals/">Superman<!--br />
+                                                                    <span></span--></a></li>
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/entertainment-gaming/star-trek-wallpaper-murals/">Star Trek<!--br />
+                                                                    <span></span--></a></li>
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/entertainment-gaming/the-hobbit/">The Hobbit<!--br />
+                                                                    <span></span--></a></li>
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/entertainment-gaming/scooby-doo/">Scooby Doo<!--br />
+                                                                    <span></span--></a></li>
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/entertainment-gaming/bin-weevils-wallpaper-murals/">Bin Weevils<!--br />
+                                                                    <span></span--></a></li>
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/entertainment-gaming/movie-star-planet-wallpaper-murals/">Movie Star Planet<!--br />
+                                                                    <span></span--></a></li>
+                                                                                                            </ul>
+                                                                                            </li>
+                                                                                    <li><a href="http://www.wallsauce.com/wall-murals/fine-art-wall-murals/">Fine Art Wall Murals<br>
+                                                <span>Fine Art Wall Mural Galleries</span></a>
+                                                                                                    <ul>
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/fine-art-wall-murals/bridgeman-gallery/">Bridgeman Art Library<!--br />
+                                                                    <span></span--></a></li>
+                                                                                                            </ul>
+                                                                                            </li>
+                                                                                    <li><a href="http://www.wallsauce.com/wall-murals/designer-wall-murals/">Designer Collections<br>
+                                                <span>Unique images and art</span></a>
+                                                                                                    <ul>
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/designer-wall-murals/marco-cavazzana/">Marco Cavazzana<!--br />
+                                                                    <span></span--></a></li>
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/designer-wall-murals/severine-pineaux/">Severine Pineaux<!--br />
+                                                                    <span></span--></a></li>
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/designer-wall-murals/melissa-launay/">Melissa Launay<!--br />
+                                                                    <span></span--></a></li>
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/designer-wall-murals/javier-velasco/">Javier Velasco<!--br />
+                                                                    <span></span--></a></li>
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/designer-wall-murals/ivan-da-silva/">Ivan da Silva<!--br />
+                                                                    <span></span--></a></li>
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/designer-wall-murals/kieran-doherty/">Kieran Doherty<!--br />
+                                                                    <span></span--></a></li>
+                                                                                                            </ul>
+                                                                                            </li>
+                                                                                    <li><a href="http://www.wallsauce.com/wall-murals/sport/">Sport<br>
+                                                <span>More coming soon!</span></a>
+                                                                                                    <ul>
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/sport/golf-copy1902592088/">Golf<!--br />
+                                                                    <span></span--></a></li>
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/sport/football-soccer/">Football<!--br />
+                                                                    <span></span--></a></li>
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/sport/formula-1-wall-murals/">Motorsport<!--br />
+                                                                    <span></span--></a></li>
+                                                        
+															<li><a href="http://www.wallsauce.com/wall-murals/sport/other-sport/">Other Sport<!--br />
                                                                     <span></span--></a></li>
                                                                                                             </ul>
                                                                                             </li>
                                                                             </ul>
                                 </li>
-                                                    							<li><a href="http://www.wallsauce.com/upload-your-own/" style="padding: 8px;">Use Your Own Image</a>
+                        
+                            							<li><a href="http://www.wallsauce.com/upload-your-own/" style="padding: 8px;">Use Your Own Image</a>
                                 </li>
-                                                        <li><a href="http://www.wallsauce.com/how-it-works">How it works</a>
+                                                        <li><a href="http://www.wallsauce.com/how-it-works">How it Works</a>
                                                                                 <ul>
-                                                                                                <li><a href="http://www.wallsauce.com/how-it-works/our-materials">Our Materials</a>
+                                                                                                <li><a href="http://www.wallsauce.com/how-it-works/how-to-order">How to Order Your Custom Sized Mural</a>
+                                                                                        </li><li><a href="http://www.wallsauce.com/how-it-works/our-materials">Our Materials</a>
                                                                                         </li><li><a href="http://www.wallsauce.com/how-it-works/measuring-your-wall">Measuring Your Wall</a>
                                                                                         </li><li><a href="http://www.wallsauce.com/how-it-works/preparing-your-wall">Preparing Your Wall</a>
                                                                                         </li><li><a href="http://www.wallsauce.com/how-it-works/install-your-wall-mural">Install Your Wall Mural</a>
@@ -384,6 +410,7 @@
                                                                                         </li><li><a href="http://www.wallsauce.com/customer-service/refunds-returns">Refunds and Returns</a>
                                                                                         </li><li><a href="http://www.wallsauce.com/customer-service/terms-conditions">Terms and Conditions</a>
                                                                                         </li><li><a href="http://www.wallsauce.com/customer-service/press">Press</a>
+                                                                                        </li><li><a href="http://www.wallsauce.com/customer-service/blog">Blog</a>
                                                                                 </li></ul>
                                                                 </li>
                                     <li><a href="http://www.wallsauce.com/contact-us">Contact Us</a>
@@ -406,10 +433,7 @@
         <!-- end main header container -->
 
         <!-- Start spacer used to displaying index page special links -->
-        <div class="header-page-spacer">
-                                <div class="special-links wrapper" style="background: rgba(234, 233, 233, 255); display:block;">&nbsp;</div>
-        </div>
-        <!-- End spacer used to displaying index page special links -->
+	         <!-- End spacer used to displaying index page special links -->
 
         <!-- Start main page content -->
         <div class="wrapper" id="page">
@@ -417,10 +441,14 @@
         	<div class="socialtag"></div>
             <ul>
             	<li class="icon-pin"><a href="http://pinterest.com/wallsauce" target="_blank">Pintrest</a></li>
+				<li style="height: 20px; text-align: center; margin-bottom: 0; position: fixed; top: 209px; margin-left:-8px; z-index: 20;">
+					<div id="facebook-page-like-count" style="background: transparent!important; border: 0!important; color: #fff!important; font-size: 8pt!important;"></div>
+				</li>
             	<li class="icon-fb"><a href="https://www.facebook.com/pages/Wallsaucecom/440148866050775?fref=ts" target="_blank">Facebook</a></li>
 	            <li class="icon-tw"><a href="https://twitter.com/wallsaucecom" target="_blank">Twitter</a></li>
             	<li class="icon-yt"><a href="http://www.youtube.com/channel/UCBS-uy9UmCFAAf3lK7Dv7gw" target="_blank">YouTube</a></li>
             	<li class="icon-gl"><a href="https://plus.google.com/102441258518941874425" target="_blank">Google +</a></li>
+				<li class="icon-blog" style="background-image: url(/img/icons/sidebar-blog-icon.jpg);"><a href="/customer-service/blog">Blog</a></li>
             </ul>
         </div>
 <!-- Begin Page Text -->
@@ -429,6 +457,9 @@
     <div id="menu-column" style="width: 185px;">
         <h3>Information</h3>
                         <p class="nomargin">
+                    	<a href="http://www.wallsauce.com/information/coming-soon" class="menu-item">Coming Soon</a>
+                   
+                </p><p class="nomargin">
                     	<a href="http://www.wallsauce.com/information/privacy-policy" class="menu-item">Privacy Policy</a>
                    
                 </p><p class="nomargin">
@@ -444,7 +475,8 @@
     </div>
     </div>
     <div id="four-fifth alignright" class="acc-content">
-        <h1>Privacy Policy</h1>
+	       
+
         <p>
 	Omega Sky Limited ("We") are committed to protecting and respecting your privacy.</p>
 <p>
@@ -552,9 +584,9 @@
                         <div class="header">Wall Murals</div>
                         <ul>
                         													<li><a href="http://www.wallsauce.com/wall-murals/photo-wallpaper">Photo Wallpaper</a></li>
-																								<li><a href="http://www.wallsauce.com/wall-murals/fine-art-wall-murals">Fine Art Wall Murals</a></li>
-																								<li><a href="http://www.wallsauce.com/wall-murals/designer-wall-murals">Designer Collections</a></li>
 																								<li><a href="http://www.wallsauce.com/wall-murals/entertainment-gaming">Entertainment &amp; Gaming</a></li>
+																								<li><a href="http://www.wallsauce.com/wall-murals/designer-wall-murals">Designer Collections</a></li>
+																								<li><a href="http://www.wallsauce.com/wall-murals/sport">Football, Motor Sport, Golf, More</a></li>
 											                        </ul>
                     </div>
                     <div class="links panel">
@@ -562,13 +594,15 @@
                         <ul>
                             <!--<li><a href="http://www.wallsauce.com/wall-murals/entertainment-gaming/bin-weevils-wallpaper-murals">Bin Weevils</a></li>-->
                             <!--<li><a href="http://www.wallsauce.com/wall-murals/entertainment-gaming/movie-star-planet-wallpaper-murals">Movie Star Planet</a></li>-->
-                            <li><a href="http://www.wallsauce.com/wall-murals/fine-art-wall-murals">Bridgeman Art Library</a></li>
-                            <li><a href="http://www.wallsauce.com/wall-murals/designer-wall-murals/melissa-launay">Melissa Launay</a></li>
-                            <li><a href="http://www.wallsauce.com/wall-murals/designer-wall-murals/javier-velasco">Javier Velasco</a></li>
+                            <li><a href="http://www.wallsauce.com/wall-murals/fine-art-wall-murals/bridgeman-gallery/">Bridgeman Art Library</a></li>
+                            <li><a href="http://www.wallsauce.com/wall-murals/designer-wall-murals/melissa-launay/">Melissa Launay</a></li>
+                            <li><a href="http://www.wallsauce.com/wall-murals/designer-wall-murals/javier-velasco/">Javier Velasco</a></li>
+							<li><a href="http://www.wallsauce.com/wall-murals/designer-wall-murals/marco-cavazzana/">Marco Cavazzana</a></li>
+							<li><a href="http://www.wallsauce.com/wall-murals/designer-wall-murals/ivan-da-silva/">Ivan da Silva</a></li>
                         </ul>
                     </div>
                         <div class="links panel">
-                            <div class="header">How it works</div>
+                            <div class="header">How it Works</div>
                             <ul>
                                                                 <li><a href="http://www.wallsauce.com/how-it-works/our-materials">Our Materials</a></li>
                                                                 <li><a href="http://www.wallsauce.com/how-it-works/measuring-your-wall">Measuring Your Wall</a></li>
@@ -595,6 +629,7 @@
                         <div class="links panel">
                             <div class="header">Information</div>
                             <ul>
+                                                                <li><a href="http://www.wallsauce.com/information/coming-soon">Coming Soon...</a></li>
                                                                 <li><a href="http://www.wallsauce.com/information/privacy-policy">Privacy Policy</a></li>
                                                                 <li><a href="http://www.wallsauce.com/information/terms-of-website-use">Terms of Website Use</a></li>
                                                                 <li><a href="http://www.wallsauce.com/information/acceptable-use-policy">Acceptable Use Policy</a></li>
@@ -605,7 +640,7 @@
                     <br style="clear:both;">
                     <div class="note panel">
                         <p style="text-align:center;">Wallsauce is an online, wall mural and wall graphics service for providing bespoke print on demand wallpaper and wall murals to UK and international customers.<br>
-                            Wallsauce is a trading name of Omega Sky Ltd. Company number 08243582 <strong style="margin:0 5px;">|</strong> © 2013 Omega Sky Limited. All rights reserved.</p>
+                            Wallsauce is a trading name of Omega Sky Ltd. Company number 08243582 <strong style="margin:0 5px;">|</strong> © 2014 Omega Sky Limited. All rights reserved.</p>
                         <div class="bottom-bar">
                                 <div class="security-badge"></div>
                                 <span class="weaccept">We Accept</span>
@@ -623,6 +658,33 @@
                 </div>
         </div>
         <!-- End footer container -->
+
+
+        <div style="display: none;">
+		            <div id="actionForgotPassword">
+                <h2>Forgotten Password</h2>
+                <form class="login-popup" id="userLogin-forgot-password" name="userLogin-forgot-password" method="post" action="https://www.wallsauce.com/forgotPassword">
+                    <div class="row">
+                        <div class="errorMessage"></div>
+                    </div>
+                    <div class="row">
+                    	<p style="font-size:80%;">Enter your email address in the box below then click the Reset Password button. We will send you an email with a new password which you can then use to log in to your account.</p>
+                    </div>
+                    <div class="row">
+                        <label for="email">Email</label>
+                        <input type="text" name="email" id="email" autocomplete="off">
+                    </div>
+                    <div class="row">
+                        <label for="submit">&nbsp;</label>
+                        <input type="submit" name="submit" id="submit" value="Reset Password" class="login-button">
+                    </div>
+                    <div class="row">
+                                            </div>
+                </form>
+
+            </div>
+        </div>
+
 
 		        				<script type="text/javascript">
 		//<![CDATA[
@@ -668,6 +730,10 @@
 				
 				$('.flexslider').flexslider({
 					slideshow: true,
+					start: function(){
+						$('.flexslider .slides li').css('display', 'none');
+						$('.flexslider .slides li:first-child').css('display', 'list-item');
+					}
 				});
 	
             });
@@ -692,26 +758,33 @@
           })();
         </script>
         <!-- end SnapEngage code -->
-    
+
     
     <div id="fullscreen-loader" class="fs-canvas-load" style="display: none; text-align: center; background-color: #fff; position:absolute; top:0; left:0; z-index: 20; opacity: 0.75; width: 100%; height: 100%;">
         <img class="postLoad" data-src="/img/ajax-loader.gif" style="vertical-align: middle; padding-top: 25%;">
     </div>
     <div id="fullscreen" style="display: none;"></div>
+
     
     <script>
 		$(window).bind("load", function() {
 		$("img.postLoad").each( function(i, e) {
 			var url = $(e).data("src");
 			if( url != null )
+
 			{
 			var img = new Image();
 			img.onload = function() {				
 				e.src = img.src;
+
 			}
 			img.src = url;
+
 			}
 		} ); } );
 	</script>
+
 	
-	</body></html>
+		<script src="//config1.veinteractive.com/tags/508378EA/ADEC/4600/A2F7/88B879060A81/tag.js" type="text/javascript" async=""></script>
+    
+</body></html>
