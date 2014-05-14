@@ -1,23 +1,40 @@
-> *The following text is extracted and transformed from the butterbin.com privacy policy that was archived on 2012-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120214235650id_/http%3A//www.butterbin.com/privac-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the butterbin.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514021449id_/http%3A//www.butterbin.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Games for girls online - Free online games for kids
+# Privacy Policy | Butterbin
 
-## Privacy Policy
+This privacy policy sets out how ButterBin uses and protects any information that you give us when you use this website.  
+ViralNova  is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
+ButterBin may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from May 18, 2013.
 
-_Posted on:_ September 24th, 2011 _by_ admin 
+**What we collect**  
+We may ask to collect the following information:
 
-**Guests** We do not collect any personal information on this website. However, our web server logs all visitor information and we use this for statistical purposes.
+  * e-mail address (for use to send you the daily ButterBin newsletter, which you can unsubscribe from at any time)  
+****  
+****
 
-**Members** Your profile information will be available to anyone who chooses to view it. Do not put sensitive personal information in your profile. We will not share your e-mail address with anyone. It will be used to send you site news and newsletters. You may opt-out of these at any time once you’ve logged into the site.
 
-**Log Files** Like most standard Web site servers, I use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
-**Cookies** A cookie is a piece of data stored on the user’s computer tied to information about the user. My site use cookies for tracking visitors activity. Some of my business partners use cookies on our site (for example, advertisers). However, I have no access to or control over these cookies, once I have given permission for them to set cookies for advertising.
+**Security**
 
-Google, one of our third-party advertisers, may add a cookie to determine targeted advertisements based on your preferences and your visit to our site and other sites on the internet. You can choose to opt out of Google’s use of cookies by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-**Links** This Web site contains links to other sites. Please be aware that I am not responsible for the privacy practices of such other sites. I encourage my users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+**How we use cookies**  
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-**Advertisers** I use outside ad companies to display ads on my site. These ads may contain cookies and are collected by the ad companies, and I do not have access to these information. I work with the ad company: Google Adsense. Please check their website for respective privacy policies.
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-### Share and Enjoy
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+**Third Party Vendors**
+
+  * Third party vendors, including Google, use cookies to serve ads based on a your prior web site visits.
+  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visits to ViralNova and/or other sites on the Internet.
+  * You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (or by visiting [aboutads.info](http://www.aboutads.info/).)
+
+
+
+**Links to other websites**  
+Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
