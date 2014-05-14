@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustnet.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112183444id_/http%3A//www.trustnet.com/Education/PrivacyPolicy.aspx%3Fctr%3Dftr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustnet.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514123556id_/http%3A//www.trustnet.com/Education/PrivacyPolicy.aspx%3Fctr%3Dftr) for the most accurate reproduction.*
 
 # Privacy Policy | FE Trustnet
 
@@ -49,7 +49,7 @@ If you do not want us to use your data in these ways, or to pass your details on
 **ACCESS TO YOUR INFORMATION AND CORRECTION**  
 We want to ensure that the personal information we hold about you is accurate and up to date. You may ask us to correct or remove information that is inaccurate.
 
-You have the right under data protection legislation to access information held about you. If you wish to receive a copy of any personal information we hold, please write to us at 7 Chertsey Road, Woking, Surrey, GU21 5AB. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. 
+You have the right under data protection legislation to access information held about you. If you wish to receive a copy of any personal information we hold, please write to us at 3rd Floor, Hollywood House, Church Street East, Woking, GU21 6HJ. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. 
 
 **WHERE WE STORE YOUR PERSONAL DATA**  
 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, amongst other things, the provision of support services. By submitting your personal data, you agree to this transfer, storing and processing. We will take all steps reasonably necessary, including the use of encryption, to ensure that your data is treated securely and in accordance with this privacy policy. 
