@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheatcodesgalore.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112103745id_/http%3A//www.cheatcodesgalore.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatcodesgalore.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514121612id_/http%3A//www.cheatcodesgalore.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cheat Codes Galore
 
@@ -14,6 +14,8 @@ This privacy notice discloses the privacy practices for the following sites and 
   * Lego Indiana Jones Walkthroughs Android app and Mobile Site.
   * Lego Star Wars Walkthroughs Android app and Mobile Site.
   * GTA V Walkthroughs Android app and Mobile Site.
+  * Lego Movie Walkthroughs Android app and Mobile Site.
+  * Lego Marvel Super Heroes Walkthroughs Android app and Mobile Site.
 
 
 
