@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the typewolf.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113095131id_/http%3A//www.typewolf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typewolf.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514103724id_/http%3A//typewolf.com/privacy) for the most accurate reproduction.*
 
-# Typewolf — Privacy Policy
+# Typewolf → Privacy
+
+### Privacy Policy
+
+Typewolf is owned and operated by [Jeremiah Shoaf Design LLC](http://www.jeremiahshoaf.com/).
 
 ##### Our Commitment to Privacy
 
@@ -33,3 +37,13 @@ Although most changes are likely to be minor, Typewolf may change its privacy po
 ##### How to Contact Us
 
 Should you have other questions or concerns about this privacy policy, please email us at hello@typewolf.com.
+
+Our mailing address is:  
+Jeremiah Shoaf Design LLC  
+PO Box 746524  
+Arvada, CO 80006-6524  
+
+
+### Disclosure
+
+Some of the external links on Typewolf are affiliate links. If a visitor clicks a link and makes a purchase, Typewolf may receive a commission.
