@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldofsucculents.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228071400id_/http%3A//www.worldofsucculents.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldofsucculents.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514103334id_/http%3A//www.worldofsucculents.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | World of Succulents
+# Privacy Policy at WorldOfSucculents.com
 
 Privacy Policy for [World of Succulents](http://www.worldofsucculents.com/ "World of Succulents").
 
