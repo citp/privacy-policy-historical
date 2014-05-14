@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paradisefibers.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114144610id_/http%3A//www.paradisefibers.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paradisefibers.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514211026id_/http%3A//www.paradisefibers.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy Paradise Fibers
 
