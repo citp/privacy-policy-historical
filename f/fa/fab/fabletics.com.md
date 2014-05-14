@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fabletics.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217025454id_/http%3A//www.fabletics.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabletics.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514070109id_/http%3A//www.fabletics.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Fabletics
 
