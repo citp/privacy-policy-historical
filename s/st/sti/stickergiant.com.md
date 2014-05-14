@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stickergiant.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201062546id_/http%3A//www.stickergiant.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stickergiant.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514215054id_/http%3A//www.stickergiant.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice StickerGiant
 
@@ -22,13 +22,13 @@ The charges made to your credit card will show up as "StickerGiant.com Inc."
 
 ## WHAT INFORMATION DO WE COLLECT FROM YOU? WHY?
 
-We May Collect Information Needed to Contact You Later: If we collect personal contact information (as described below), you may not later be able to access, modify or remove it from our system.
+We May Collect Information Needed to Contact You Later. If we collect personal contact information (as described below), you may not later be able to access, modify or remove it from our system.
 
 We May Collect Your Name, Address and Phone Number. When you use our site, we may request your name, street address, telephone number or other "real world" contact information. This information does not inherently reveal and will not be linked to you personally. We use this information to complete and support the immediate activity requested, market things to you in the future (other than by telemarketing), and to comply with any requirements of law. This information may be disclosed to our staff and our immediate agents, and to other organizations adhering to our privacy practices.
 
 We May Collect Your Email Address. We may request your email address, or other information needed to contact you online. This information does not necessarily reveal who you are and we will not link it to your personal identity. We use it to complete and support the immediate activity requested, and to comply with any requirements of law. This information may be disclosed only to our staff.
 
-We May Collect Other Kinds of Information from You: When you use our site, we may collect personal information about you described below. You may not later be able to access, modify or remove the information.
+We May Collect Other Kinds of Information from You. When you use our site, we may collect personal information about you described below. You may not later be able to access, modify or remove the information.
 
 You May be Prompted for a UserID and Password. We may ask you to enter a web site ID, password or other identifier. This information will not reveal your identity or be linked to you personally. We use this information to complete and support the immediate activity requested, and to comply with any requirements of law. This information may be disclosed only to our staff.
 
