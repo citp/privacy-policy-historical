@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the missworld.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112190743id_/http%3A//www.missworld.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missworld.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514181313id_/http%3A//www.missworld.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
