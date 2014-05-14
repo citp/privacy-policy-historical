@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediacurrent.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110170041id_/http%3A//www.mediacurrent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediacurrent.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514103637id_/http%3A//www.mediacurrent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mediacurrent
 
