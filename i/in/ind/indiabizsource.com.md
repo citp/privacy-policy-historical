@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiabizsource.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108161605id_/http%3A//www.indiabizsource.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiabizsource.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515021709id_/http%3A//www.indiabizsource.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Indiabizsource.com – Indian B2B Marketplace, Manufacturers, Suppliers, wholesalers
+# Company Privacy Policy - indiabizsource.com
 
 This is the Privacy Policy governing your use of the **[indiabizsource.com](http://www.indiabizsource.com/)** Site. By using this Site, you consent to our Privacy Policy set out below. All terms not defined in this document have the meanings ascribed to them in the Terms of Use Agreement between you and Indiabizsource which by use of this Site you agree to accept. 
 
