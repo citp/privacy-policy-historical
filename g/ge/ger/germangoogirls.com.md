@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the germangoogirls.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506191735id_/http%3A//docs.eurorevenue.com/privacy.fiscal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the germangoogirls.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515042343id_/http%3A//docs.eurorevenue.com/privacy.fiscal.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -87,8 +87,5 @@ The individual subscriber shall have the following rights with respect to any pe
 Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this Site to use information that it has gathered from subscribers. 
 
 In the event of any conflicts between the Membership Terms the Conditions and this Privacy Policy Statement, the provisions of this Privacy Policy shall control. 
-
-Sumom Group Limited, 9/1 Cooperage Lane, Gibraltar,  
-CENTROBILL LIMITED, 21 WILTSHIRE CLOSE, WARRINGTON, CHESHIRE, UK 
 
 Close Window
