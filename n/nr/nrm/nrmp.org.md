@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrmp.org privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128061845id_/http%3A//www.nrmp.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrmp.org privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515114600id_/http%3A//www.nrmp.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Match
 
@@ -18,17 +18,17 @@ As part of its Matching Program, the _**NRMP**_ collects certain personal inform
 
 In addition to using it for our Matching Program, your information also may be used by the _**NRMP**_ for educational research or verification purposes or under restricted conditions by third parties as explained below in Data Sharing with Third Parties.
 
- _ **NRMP**_ surveys are designed to collect data for educational and research purposes, including reporting to _**NRMP** _constituents and providing summary information to the U.S. Congress and other policymakers. From time to time, the _**NRMP**_ may contact you to participate in such a survey. Whenever the _**NRMP**_ conducts research using personally identifiable data (human subjects research), that research is reviewed by an external (to the _**NRMP**_ ) institutional review board whose responsibility it is to protect your interests.
+_**NRMP**_ surveys are designed to collect data for educational and research purposes, including reporting to _**NRMP** _constituents and providing summary information to the U.S. Congress and other policymakers. From time to time, the _**NRMP**_ may contact you to participate in such a survey. Whenever the _**NRMP**_ conducts research using personally identifiable data (human subjects research), that research is reviewed by an external (to the _**NRMP**_ ) institutional review board whose responsibility it is to protect your interests.
 
 The _**NRMP**_ reserves the right to use personal information in its databases to confirm the identity of parties who may have made or attempted to make unauthorized or inappropriate use of _**NRMP**_ services or assets or who may be a threat to public safety, including, but not limited to, denial of service attacks, unauthorized use of _**NRMP**_ services, systems and/or networks, inappropriate email list activity, unauthorized use or distribution of _**NRMP**_ intellectual property, or threats to the safety or privacy of the public. Contact information will be used to provide notice to the offending individuals and in such cases, personal information may be given to law enforcement if warranted or required by law.
 
- **Credit Card Information**
+**Credit Card Information**
 
 Once your credit card information has been passed to the credit card processing company for verification, we retain only a limited amount of the credit card information (e.g., several digits but not all of your credit card number and your address when available). Any credit card information we retain is kept within a secure, limited-access database. It is not shared with anyone internal or external to the _**NRMP**_ , nor is it integrated with data from other _**NRMP**_ databases.
 
 ### Web Site Usage Information
 
-Email addresses, aggregate information about which pages visitors access, and information volunteered by website visitors—such as user survey responses and website registrations—are used to improve the content of the _**NRMP**_ website. Some portions of our website uses cookies or other information tracking technology (“cookies”), to improve your experience and to help us administer, operate, and manage our website more efficiently. You can set your browser to notify you when you receive a cookie, giving you a chance to decide whether or not to accept it, but if you choose not to accept them, your use of the website may be limited and you may be required to re-enter certain information each time you wish to use our website.
+Email addresses, aggregate information about which pages visitors access, and information volunteered by website visitors—such as user survey responses and website registrations—are used to improve the content of the _**NRMP**_ website. Some portions of our website use information tracking technology (“cookies”) to improve your experience and to help us administer, operate, and manage our website more efficiently. You can set your browser to notify you when you receive a cookie, giving you a chance to decide whether or not to accept it, but if you choose not to accept them, your use of the website may be limited and you may be required to re-enter certain information each time you wish to use our website.
 
 ### Data Sharing with Third Parties
 
@@ -48,7 +48,7 @@ To protect your privacy and security, we also will take reasonable steps to veri
 
 ### Protecting Your Personal Information Online
 
-Although the _**NRMP**_ and the Association of American Medical Colleges (which hosts the **_NRMP_** servers) take measures designed to protect your personal information in their systems, you also must be vigilant in protecting access to your information online and assume responsibility for protecting personal information. Treat your user names and passwords with care. Do not share them or enter them into fraudulent sites. Be aware that legitimate **_NRMP_ **and AAMC sites include “nrmp.org” and “aamc.org”, respectively. Do not conduct ** _NRMP_** or AAMC business with any sites that do not contain one of those addresses.
+Although the _**NRMP**_ **__**takes measures designed to protect your personal information in their systems, you also must be vigilant in protecting access to your information online and assume responsibility for protecting personal information. Treat your user names and passwords with care. Do not share them or enter them into fraudulent sites. Be aware that the legitimate ** _NRMP_  **is “nrmp.org”. Do not conduct ** _NRMP_** business with any site that does not contain that address.
 
 To learn more about protecting your personal information online, read 7 Practices for Computer Security and How Not to Get Hooked by a ‘Phishing’ Scam from the Federal Trade Commission.
 
