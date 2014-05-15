@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamesonwhiskey.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228085435id_/http%3A//www.jamesonwhiskey.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesonwhiskey.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515084608id_/http%3A//www.jamesonwhiskey.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Jameson Irish Whiskey
 
@@ -32,6 +32,8 @@ We may disclose your information to any member of our group, which means our sub
 ## INTEREST-BASED ADVERTISING
 
 The cookies placed by the Site on your device, as described above, may be used to serve you with targeted advertisements when you visit other websites not controlled by IDL based upon interests exhibited from your online behavior. For example, if your online behavior (such as websites you have visited) indicates that you have an interest in music, we may serve advertisements to you specifically when you visit music websites. Another example could be your location – if we determine through the collection of non-personal information that you are located in a particular State, then we may serve advertisements to you that specifically promote offers or events in that State. The goal is to provide you with more relevant advertisements as you surf the Internet based upon your anonymous profile, but not based upon your personal information. However, if you would prefer that we not collect such data or use such data to serve you with targeted advertisements, then you should adjust the browser settings on your device to reject (or delete) our cookie. If you do take this step, we may still serve you with advertisements on other websites, but they will not be based upon behavioral data collected as a result of your use of this Site. This process relies upon cookies and not your personal identity, so if you use a different computer or change your settings, you will need to repeat this process.
+
+We do not respond to or honor "do not track" (or DNT) signals or similar mechanisms transmitted by web browsers. To learn more about how you can exercise choices about the collection and use of certain data online for purposes of targeted advertising, please visit <http://www.aboutads.info/consumers>.
 
 ## YOUR RIGHTS
 
