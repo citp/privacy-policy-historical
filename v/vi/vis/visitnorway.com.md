@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitnorway.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929192821id_/http%3A//www.visitnorway.com/en/About-visitnorwaycom-/Visitnorway-privacy-and-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitnorway.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515032412id_/http%3A//www.visitnorway.com/en/about-visitnorwaycom-/visitnorway-privacy-and-security-policy) for the most accurate reproduction.*
 
 # Privacy and security policy - Official Travel Guide to Norway - visitnorway.com
 
@@ -8,7 +8,6 @@ We have based our privacy policy upon applicable Norwegian consumer and data pro
 
 Collection, storage and processing of your personal information include the following data and collection methods:
 
-  
 (PII) Personally Identifiable Information (PII) is information that identifies you as an individual.
 
  **Customer reviews**  
