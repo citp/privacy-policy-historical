@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the payworks.ca privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102045743id_/http%3A//www.payworks.ca/payworks-canada-privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payworks.ca privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515123457id_/http%3A//www.payworks.ca/payworks-canada-privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy policy for Payworks Payroll Services Canada
 
-The key to Payworks is the single unified database design. Information is shared between Payroll, HRMS, ETM & Employee Self Service.
+## We make your online security our priority.
 
-Access your payroll database from any computer with an Internet connection, 24/7.
-
-Payworks is committed to providing the highest level of security and privacy regarding the collection and use of our online payroll customers' personal information, as well as that of all visitors to our website. Personal information may be collected through the submission of account applications, online banking transactions, or through the use of online financial tools such as interactive calculators. A detailed description of Payworks Privacy Policy is provided below. If you have additional questions regarding the privacy of your personal information, [contact us](https://web.archive.org/web/20131102045743id_/http%3A//www.payworks.ca/contact-payworks-payroll-canada.asp).
+Payworks is committed to providing the highest level of security and privacy regarding the collection and use of our online payroll customers' personal information, as well as that of all visitors to our website. Personal information may be collected through the submission of account applications, online banking transactions, or through the use of online financial tools such as interactive calculators. A detailed description of Payworks Privacy Policy is provided below. If you have additional questions regarding the privacy of your personal information, [contact us](mailto:privacy@payworks.ca?subject=Privacy "Contact us via email") .
 
 ### Applicability
 
@@ -32,7 +30,7 @@ From time to time, we may request information that personally identifies you suc
 
 Payworks respects your right to privacy and takes every precaution to provide you with the same level of privacy within our website that you receive through more traditional payroll delivery channels.
 
-In some circumstances, Payworks may use cookies to enhance your experience on our site. A "cookie" is a small data file stored on your computer’s hard drive. Cookies allow us to recognize who you are when you arrive at our site by associating the identification numbers in the cookie with other information you, as a site visitor, have provided us. Cookies also tell us how you click to our site and what pages you click on during your visit. You may manage the use of cookies set by our site by changing your browser’s settings, though this may affect your ability to view or interact with certain pages on our site.
+In some circumstances, Payworks may use cookies to enhance your experience on our site. A "cookie" is a small data file stored on your computer´s hard drive. Cookies allow us to recognize who you are when you arrive at our site by associating the identification numbers in the cookie with other information you, as a site visitor, have provided us. Cookies also tell us how you click to our site and what pages you click on during your visit. You may manage the use of cookies set by our site by changing your browser´s settings, though this may affect your ability to view or interact with certain pages on our site.
 
 ### Statistical Information
 
@@ -50,12 +48,10 @@ Information we receive from you remains your property and is used only for the p
 
 Payworks takes the security of your personally identifiable information seriously. We use physical, electronic and operational safeguards designed to reduce the risk of unauthorized access to your personally identifiable information. If you use Payworks web applications, you will select a user ID and password. We strongly recommend that you never divulge these to anyone. All communication through our web applications is encrypted.
 
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. While we strive to protect personally identifiable information, we cannot warrant the security of the personally identifiable information transmitted to or received by us. We provide links to external websites for your convenience. Payworks has no control over the security or privacy practices of these sites. If you have questions regarding a website’s practices, please review that site’s privacy policy.
+Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. While we strive to protect personally identifiable information, we cannot warrant the security of the personally identifiable information transmitted to or received by us. We provide links to external websites for your convenience. Payworks has no control over the security or privacy practices of these sites. If you have questions regarding a website´s practices, please review that site´s privacy policy.
 
 ### Changes to this Policy
 
 Any changes to this policy will be posted at this location and will take effect immediately after their posting. You may wish to check back from time to time to be aware of any changes to the policy.
 
 This Privacy Policy was last updated on 15/10/2008.
-
-Copyright ©2013 Payworks Inc. | 850 Pembina Hwy. Winnipeg, Manitoba, R3M 2M7 
