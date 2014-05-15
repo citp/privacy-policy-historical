@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kegerator.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111163856id_/http%3A//www.kegerator.com/cs%253A-other-information%253A-privacy-policy/PRIVACY_POLICY.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kegerator.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515183519id_/http%3A//www.kegerator.com/cs%253A-other-information%253A-privacy-policy/PRIVACY_POLICY.html) for the most accurate reproduction.*
 
 # CS: Other Information: Privacy Policy
 
