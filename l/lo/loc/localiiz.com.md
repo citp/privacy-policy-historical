@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localiiz.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203010239id_/http%3A//www.localiiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localiiz.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515232452id_/http%3A//www.localiiz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 We at Localiiz take the private nature of your personal information very seriously. It's our goal to bring you information that's relevant and targeted to your individual needs but we also protect your privacy at the same time. The following policy describes how we treat the information we collect from you whenever you visit our website, enter or register for any competition or giveaway and/or subscribe for or receive our emails, pulsits, newsletters or other communications. 
 
-Welcome to our website, [www.localiiz.com](http://m.localiiz.com/outboundlink?url=http%3A%2F%2Fwww.localiiz.com%2F) ("Localiiz.com" or the "site"). This Privacy Policy governs the manner in which Localiiz.com (HK) Limited collects, uses, maintains and discloses information collected from you and from other users of Localiiz.com. If you continue to browse and use Localiiz.com, you are agreeing to comply with and be bound by this Privacy Policy which, together with our Terms of Use, govern Localiiz.com (HK) Limited's relationship with you in relation to Localiiz.com. If you disagree with any part of this Privacy Policy, please do not use Localiiz.com. 
+Welcome to our website, [www.localiiz.com](http://www.localiiz.com/) ("Localiiz.com" or the "site"). This Privacy Policy governs the manner in which Localiiz.com (HK) Limited collects, uses, maintains and discloses information collected from you and from other users of Localiiz.com. If you continue to browse and use Localiiz.com, you are agreeing to comply with and be bound by this Privacy Policy which, together with our Terms of Use, govern Localiiz.com (HK) Limited's relationship with you in relation to Localiiz.com. If you disagree with any part of this Privacy Policy, please do not use Localiiz.com. 
 
 **2\. Definitions**
 
