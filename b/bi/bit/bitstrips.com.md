@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bitstrips.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104135932id_/http%3A//bitstrips.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitstrips.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515174354id_/http%3A//www.bitstrips.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Bitstrips
+# Bitstrips - Privacy Policy
 
-This Privacy Policy is effective as of January 1, 2008 and was last updated Septmber 14, 2011. 
+This Privacy Policy is effective as of January 1, 2008 and was last updated September 14, 2011. 
 
-### Privacy Policy 
+## Privacy Policy 
 
 Please read the Bitstrips.com (the “Service”) Privacy Policy carefully. It is important that you know how Bitstrips Inc. (“Bitstrips”) collects and uses your personal information. By visiting and/or using the Service, you are accepting the practices detailed in this Privacy Policy. 
 
@@ -47,7 +47,7 @@ We may share your Personal Information with third party individuals or third par
 
 **Deleting Information**
 
-You may delete your Bitstrips account by emailing privacy@bitstrips.com. 
+You may delete your Bitstrips account by emailing [privacy@bitstrips.com](mailto:privacy@bitstrips.com). 
 
 **Policy Regarding Children**
 
@@ -66,4 +66,4 @@ This Privacy Policy will be updated from time to time. Please check back regular
 **Contact Us**   
 
 
-If you have any questions or comments regarding this Privacy Policy, please contact our Privacy Officer at privacy@bitstrips.com.
+If you have any questions or comments regarding this Privacy Policy, please contact our Privacy Officer at [privacy@bitstrips.com](mailto:privacy@bitstrips.com).
