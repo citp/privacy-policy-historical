@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lashback.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215231316id_/http%3A//www.lashback.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lashback.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515143822id_/http%3A//www.lashback.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LashBack
 
@@ -31,6 +31,10 @@ For your convenience, we may provide links to certain third party websites or re
 **Security**
 
 We employ procedural and technological measures, consistent with the demands of customer service, reasonably designed to protect your personally identifiable information from loss or unauthorized access, disclosure, alteration or destruction. Where reasonably practical, we use encryption, password protection and other security technology (e.g. Secure Socket Layer) to help prevent unauthorized access to your personally identifiable information.
+
+**Do Not Track**
+
+LASHBACK respects enhanced user privacy controls. We support the development and implementation of a standard “do not track” browser feature, which provides customers with control over the collection and use of information by third parties regarding their web-browsing activities. At this time LASHBACK does not respond to DNT mechanisms. Once a standardized “do not track” feature is released, LASHBACK intends to adhere to the browser settings accordingly.
 
 **Policy Changes**
 
