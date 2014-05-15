@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotafire.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106160020id_/http%3A//www.dotafire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotafire.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515231652id_/http%3A//www.dotafire.com/privacy-policy) for the most accurate reproduction.*
 
 # DOTAFire :: DotA 2 Builds & Guides for Hero Strategy
 
