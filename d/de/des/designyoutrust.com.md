@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designyoutrust.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229080317id_/http%3A//designyoutrust.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designyoutrust.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516011448id_/http%3A//designyoutrust.com/privacy) for the most accurate reproduction.*
 
 # Privacy » Design You Trust
 
@@ -37,3 +37,5 @@ Our websites are not meant for children, especially those under 13. We do not kn
 ## Third Party Websites
 
 DYT may permit you to link to other websites on the Internet, and other websites may contain links to the 101 Media Lab websites. These other websites are not under DYT control. The privacy and security practices of websites linked to or from the DYT are not covered by this Privacy Policy, and DYT is not responsible for the privacy or security practices or the content of such websites.
+
+[](http://www.webhostingbuzz.com/)
