@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momfinds.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105012222id_/http%3A//www.shefinds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momfinds.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515055545id_/http%3A//www.shefinds.com/privacy) for the most accurate reproduction.*
 
 # Privacy « SHEfinds
 
