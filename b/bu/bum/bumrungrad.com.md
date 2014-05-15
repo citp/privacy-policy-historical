@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bumrungrad.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006224928id_/http%3A//www.bumrungrad.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bumrungrad.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515044738id_/http%3A//www.bumrungrad.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Bumrungrad International Hospital | Bangkok Thailand - Medical Procedures/Health Check-ups
+# Privacy Policy Bumrungrad International Hospital
 
 **The term "Bumrungrad Web" covers www.bumrungrad.com and www.e-vitallife.com (each a "website" and, collectively, the "Bumrungrad Web").**
 
