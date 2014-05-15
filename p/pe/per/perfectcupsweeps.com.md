@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectcupsweeps.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101212349id_/http%3A//www.greenmountaincoffee.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectcupsweeps.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515045108id_/http%3A//www.greenmountaincoffee.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -19,42 +19,62 @@
 
 
 
-Green Mountain Coffee Roasters, Inc. (hereinafter “GMCR,” "Company," "we" or “us”) appreciates your patronage and takes your privacy very seriously. As a result, we’ve developed the following policy terms, which apply to all websites and mobile applications owned and operated by GMCR, which currently include without limitation such sites as gmcr.com and greenmountaincoffee.com, and related e-commerce mobile applications (individually and collectively “Site”).
+Keurig Green Mountain, Inc. on behalf of itself, its affiliates and subsidiaries (hereinafter "Company," "we" or “us”) appreciates your patronage. We’ve developed the following privacy policy, which applies to all websites and mobile applications owned and operated by us, which currently include without limitation such sites as kgm.com, keurig.com and greenmountaincoffee.com, and related e-commerce mobile applications (individually and collectively “Site” or “Sites”).
 
-We encourage you to read this Privacy Policy carefully to understand what personal information we may collect from you through our Site, how we may use or share this information, and what steps you may take to control such use or sharing.
+We encourage you to read this Privacy Policy carefully to understand what information we may collect, how we may use or share this information, and what steps you may take to control such use or sharing. By visiting any of our Sites, you are accepting the practices described in this Privacy Notice.
 
-## What We Collect
+### What Information Do We Collect?
 
-Personal Identifiable Information  
-We collect and store the personal identifiable information you affirmatively choose to provide to us, such as your name, mailing address, email address, and other information when you purchase products, create an account with us, fill out a survey, enter contests, participate in promotions, post comments on bulletin boards, or otherwise interact with our Site. For example, when you purchase a product from our Site, we ask you to provide certain personal identifiable information to fulfill your order, including your name, email address, phone, shipping address, billing address and payment information to facilitate your purchase.
+Information You Provide Us   
+We collect and store the personally identifiable information you provide to us, such as your name, mailing address, email address, telephone number, credit card information, purchase history, people to whom purchases have been shipped, including their address and phone number and other information when you purchase products, create an account with us, communicate with customer service, fill out a survey, provide and rate product reviews, enter contests, register your brewer, participate in promotions, participate in an online forum or community, send us an email, submit a photo or video or otherwise interact with our Site. You can choose not to provide certain information, but then you may not be able to take advantage of many of our features. 
 
-Non-Personally Identifiable Information  
-We also collect non-personally identifiable information through the use of cookies. Cookies are pieces of data your web browser stores on your hard drive to allow our Site to provide you with enhanced services. Cookies allow us to store products in your online shopping cart, process orders, and recognize whether or not you have visited our Site before. This provides us – as well as the affiliates we allow to place cookies on our Site – with important marketing information and lets us know how we are doing at both attracting new visitors and maintaining relationships with our existing customers.
+Automatic Information  
+We also collect information through automated means about your utilization and navigation of our Site. The information helps us design our Site to better suit your needs. Examples of this type of information include your Internet Protocol (IP) address used to access the Site, login, e-mail address, password, computer and connection information such as browser type, version and time zone setting, browser plug-in types and versions, operating system and platform, purchase history, the Uniform Resource Locator (URL) clickstream to, through and from our Site, products you viewed or searched for and the amount of time you spent on our Site or various pages on our Site.
 
-If you wish, you can set your browser to refuse cookies. However, keep in mind that cookies may be required to place an online order and for other user-friendly Site functions, so blocking cookies will negatively impact your Site experience. Should you wish to block cookies through your web browser, you may still purchase products through our Customer Care Center, at [888-879-4627](tel:+8888794627).
+Information from Mobile Devices  
+If you download or use a Company app, or visit our mobile site, in addition to the information described above, we may also receive information about your location and your mobile device, including a unique identifier for your device. You may turn off location-based services through your device.
 
-In some cases, we may also collect information from third-party sources, including social media sites and other sites with which we may partner on GMCR branding promotions. For example, if you post a comment on our Facebook page or send us a message on Twitter, we may collect and use that information as described in this Privacy Policy. Please note that we may combine this information with other information that we collect about you and use it as described herein.
+Information From Other Sources  
+When your information is collected on the Sites, it may be collected directly by or shared with selected third parties in connection with the operation of the Sites. These third parties may process credit card information or handle shipping for us, or they may administer, process or provide advertising services, and/or analyze data as well as correcting and/or updating your information. We may also collect information from third-party sources, including publicly available information and add this to our account information. Such information may include demographic information or information from social media sites and other sites with which we may partner. For example, if you post a comment on our Facebook page or send us a message on Twitter, we may collect and use that information as described in this Privacy Policy.
 
-## What We Do With What We Collect
+### What About Cookies and Other Similar Technologies?
 
-We use the personal identifiable information we collect for various purposes, including to complete a purchase that you initiate, to respond to your requests for information, to manage our Site, marketing analysis, marketing email communications, catalog mailings, and for other lawful purposes. From time to time, we may also contact customers by email, phone, mobile SMS or mail for such purposes as to inform them of new products, services and special offers, administer a survey, or to follow up on previous interactions, unless you have opted out of receiving advertising communications from us by email and/or direct mail. If you do not wish to receive such communications from us, please follow the opt-out instructions generally provided in such communications, or via your account settings. Alternatively, you can contact us at [888-879-4627](tel:+8888794627) and speak directly with a Customer Care representative who can answer any questions you may have and update your account accordingly.
+We and third party processors acting on our behalf use various internet technologies, such as cookies, web beacons, pixels, etc., to help us manage the Site and track your behavior across the Site so we can tailor information and advertisements to make your experience more enjoyable. We use these tracking tools to serve you with interest-based advertising and to better understand your behaviors and browsing activities. You can opt-out of online behavioral advertising by going to www.aboutads.info/choices. Some browsers have a “do not track” feature that lets you tell websites that you do not want to have your online activities tracked. These features are not yet uniform, so we are not currently set up to respond to those signals.
 
-The names and addresses of our customers are occasionally provided to third parties for direct mail adverting purposes by other like-minded, carefully-screened companies who provide products and services we believe might be of interest to you. We never share email addresses or phone numbers of our customers with any third party. If you wish to opt out of these communications, you may do so by following the opt-out instructions in your account settings, or you can alternatively contact us at [888-879-4627](tel:+8888794627) and speak directly with a Customer Care representative who can answer any questions you may have and update your account accordingly.
+If you wish, you can set your browser to refuse cookies. However, keep in mind that cookies may be required to place an online order and for other Site functions, so blocking cookies may negatively impact your Site experience. **Should you wish to block cookies through your web browser, you may still purchase products through our Customer Care Center, at 888-879-4627**.
 
-We may also disclose your personal information to third parties if we believe disclosure is appropriate to comply with law, regulation, legal process or government request; enforce the terms of any of our policies; or protect the rights, property or safety of GMCR, our associates, or our customers. This may include assistance in fraud protection and investigation. In addition, we may share or transfer your information in connection with a substantial corporate transaction, such as a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.
+### What Do We Do With the Information We Collect?
 
-## Links and Third-Party Content
+  * We use the information we collect for various purposes, including to fulfill your orders, to respond to your requests and communicate with you, to customize future shopping for you, to manage our Site, to perform marketing analysis, to send you email communications, catalog mailings, and for other lawful purposes.
+  * From time to time, we may also contact you by email, phone, mobile SMS or mail for such purposes as to inform you of new products, services and special offers, administer a survey, or to follow up on previous interactions, unless you have opted out of receiving advertising communications from us.
+  * If you download or use a Company app, or visit our mobile site, we may use your information to provide you location based services, such as advertising, search results and other personalized content.
+  * We also share your information with third parties for adverting purposes by other like-minded companies who provide products and services we believe might be of interest to you.
+  * In addition, we may share any demographic, location data, IP address or aggregated data or other information with advertisers and other third parties for marketing or promotional purposes.
+  * The information we collect from cookies and other similar technologies may be linked to other information about you. We use this information, alone or in combination, to provide and administer our Site, understand user behavior, recognize repeat visitors, target, control and measure the effectiveness of advertisements, track and analyze user behavior, facilitate your access to and use of our Site, help diagnose problems with the Site, and help determine the effectiveness of advertising campaigns on our Site.
+  * We may also disclose your information to third parties if we believe disclosure is appropriate to comply with law, regulation, legal process or government request; enforce the terms of any of our notices; or protect the rights, property or safety of Company, our associates, or our customers. This may include assistance in fraud protection and investigation. In addition, we may share or transfer your information in connection with a substantial corporate transaction, such as a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.
+
+  
+
+
+**If you do not wish to receive communications from us or third parties, please follow the opt-out instructions provided in such communications, or via your account settings if available. Alternatively, you can contact us at** **888-879-4627** **and speak directly with a Customer Care representative who can answer any questions you may have and update your account accordingly.**
+
+  
+
+
+### Links and Third-Party Content
 
 Our Site may contain links to other websites, which are not under our control. We provide these links as a customer convenience and to allow advertisers to promote their own sites or products, and do not endorse those sites, companies or their products or services. Also, when you link to our Site from another site, the originating site may collect information about you. We do not review, control or monitor the practices, information or materials on any other websites, and are not responsible or liable for the communications, practices, information, content or materials from any of those sites. You are responsible for understanding and adhering to any other website's terms and conditions.
 
-## Secure Online Ordering
+###  Security
 
-For your security, your credit card information is stored on a secure computer in an encrypted format. 
+Our Sites employ reasonable security measures which are designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of personal information.
 
-## Children's Privacy
+### Children
 
-We are also concerned about protecting the safety and privacy of children. We do not specifically collect information about children and do not sell products for purchase by children. If you are under 18, get your parent's consent before giving out any personal information online.
+We do not knowingly collect information about children under 13 and do not sell products for purchase by children under 13, though we do sell products for adults to purchase for children. If you are under 18, get your parent's consent before using a Site.
 
-## Privacy Policy Changes
+### Privacy Policy Changes
 
-We reserve the right to amend this Privacy Policy at any time for any reason and without notice. We will post changes to this Policy on each Site, and we encourage all visitors and users of a Site to check this policy from time to time.
+We reserve the right to amend this Privacy Policy at any time for any reason and without notice. We will post changes to this Policy on our Sites, and we encourage all visitors and users of a Site to check this Policy from time to time.
+
+Last Updated March 2014
