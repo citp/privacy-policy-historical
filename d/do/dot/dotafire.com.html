@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the dotafire.com privacy policy that was archived on 2013-11-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131106160020id_/http%3A//www.dotafire.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dotafire.com privacy policy that was archived on 2014-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140515231652id_/http%3A//www.dotafire.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" style="background-color:#000000;"><head>
 <title>DOTAFire :: DotA 2 Builds &amp; Guides for Hero Strategy</title>
 <meta name="msvalidate.01" content="ACDC96EA63C27350066E10591B267C47">
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-<meta name="keyword" content="DotA2, DOTAFire, Defense of the Ancients, MOBA, MOBAFire, Omeka Prime, Strategy Guides, DotA2 Builds, DotA2 Guides, DotA2 Database, Defense of the Ancients Hero">
+<meta name="keyword" content="DotA2, DOTAFire, Defense of the Ancients, MOBA, DOTAFire, Omeka Prime, Strategy Guides, DotA2 Builds, DotA2 Guides, DotA2 Database, Defense of the Ancients Hero">
 <meta name="description" content="DOTA 2 Build Guides. Indepth builds, guides and strategy for every DotA2 hero!">
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="/js/merged.519.js" type="text/javascript"></script>
-<link href="/css/merged.519.css" rel="stylesheet" type="text/css" media="all">
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="/js/merged.597.js" type="text/javascript"></script>
+<link href="/css/merged.597.css" rel="stylesheet" type="text/css" media="all">
 <script type="text/javascript">
 	var googletag = googletag || {};
 	googletag.cmd = googletag.cmd || [];
@@ -65,6 +65,7 @@
 <li class="mm-item mm-home" style="margin: 0px 0px 0px 1px; float: left;"><a href="http://www.mobafire.com/" target="_blank" class="net-btn mm-item-link"><img src="/images/ico-lol.png" class="net-icon">LoL</a></li>
 <li class="mm-item mm-home" style="margin: 0px 0px 0px 1px; float: left;"><a href="http://www.dotafire.com/" target="_blank" class="net-btn mm-item-link"><img src="/images/ico-dota2.png" class="net-icon">Dota 2</a></li>
 <li class="mm-item mm-home" style="margin: 0px 0px 0px 1px; float: left;"><a href="http://www.smitefire.com/" target="_blank" class="net-btn mm-item-link"><img src="/images/ico-smite.png" class="net-icon">Smite</a></li>
+<li class="mm-item mm-home" style="margin: 0px 0px 0px 1px; float: left;"><a href="http://www.heroesfire.com/" target="_blank" class="net-btn mm-item-link"><img src="/images/heroes-mini.png" class="net-icon">Heroes</a></li>
 <li class="clear-fix"></li>
 </ul>
 </div>
@@ -123,9 +124,21 @@ GA_googleFillSlot("DF-Top-728-ROS");
 				'show_method': 'simple',
 				'hide_method': 'simple'
 			});
+
+			for( var x = 0; x < data.broadcast_messages.length; x++ )
+			{
+				var haveSeenMessage = store.get('has_seen_broadcast_message-' + data.broadcast_messages[x].broadcast_message_id );
+				if( !haveSeenMessage ){
+					var messageElement = $(data.broadcast_messages[x].html);
+					messageElement.hide();
+					$('._broadcast-message-container').prepend( messageElement );
+					messageElement.slideDown('fast');
+				}
+			}
 		});
 		</script>
 <div id="site-content" class="self-clear">
+<div class="_broadcast-message-container"></div>
 <div id="legal" class="col-r-side">
 <div class="col-l">
 <h1>Privacy Policy</h1>
@@ -171,6 +184,11 @@ better understanding our site visitors. These service providers are not permitte
 <div class="spacer"></div>
 <div class="box-hdr">Newly Released DOTA 2 Heroes</div>
 <div class="box-pb c side-box self-clear">
+<a href="/dota-2/hero/phoenix-83" class="hero ajax-tooltip {t:'Hero',i:'83'}"><img src="/images/hero/icon/phoenix.png"></a>
+<a href="/dota-2/hero/soul-keeper-94" class="hero ajax-tooltip {t:'Hero',i:'94'}"><img src="/images/hero/icon/soul-keeper.png"></a>
+<a href="/dota-2/hero/legion-commander-107" class="hero ajax-tooltip {t:'Hero',i:'107'}"><img src="/images/hero/icon/legion-commander.png"></a>
+<a href="/dota-2/hero/ember-spirit-108" class="hero ajax-tooltip {t:'Hero',i:'108'}"><img src="/images/hero/icon/ember-spirit.png"></a>
+<a href="/dota-2/hero/earth-spirit-111" class="hero ajax-tooltip {t:'Hero',i:'111'}"><img src="/images/hero/icon/earth-spirit.png"></a>
 <a href="/dota-2/hero/abaddon-86" class="hero ajax-tooltip {t:'Hero',i:'86'}"><img src="/images/hero/icon/abaddon.png"></a>
 <a href="/dota-2/hero/elder-titan-79" class="hero ajax-tooltip {t:'Hero',i:'79'}"><img src="/images/hero/icon/elder-titan.png"></a>
 <a href="/dota-2/hero/skywrath-mage-109" class="hero ajax-tooltip {t:'Hero',i:'109'}"><img src="/images/hero/icon/skywrath-mage.png"></a>
@@ -181,11 +199,6 @@ better understanding our site visitors. These service providers are not permitte
 <a href="/dota-2/hero/timbersaw-106" class="hero ajax-tooltip {t:'Hero',i:'106'}"><img src="/images/hero/icon/timbersaw.png"></a>
 <a href="/dota-2/hero/slark-96" class="hero ajax-tooltip {t:'Hero',i:'96'}"><img src="/images/hero/icon/slark.png"></a>
 <a href="/dota-2/hero/centaur-warchief-77" class="hero ajax-tooltip {t:'Hero',i:'77'}"><img src="/images/hero/icon/centaur-warchief.png"></a>
-<a href="/dota-2/hero/magnus-89" class="hero ajax-tooltip {t:'Hero',i:'89'}"><img src="/images/hero/icon/magnus.png"></a>
-<a href="/dota-2/hero/meepo-95" class="hero ajax-tooltip {t:'Hero',i:'95'}"><img src="/images/hero/icon/meepo.png"></a>
-<a href="/dota-2/hero/nyx-assassin-93" class="hero ajax-tooltip {t:'Hero',i:'93'}"><img src="/images/hero/icon/nyx-assassin.png"></a>
-<a href="/dota-2/hero/keeper-of-the-light-98" class="hero ajax-tooltip {t:'Hero',i:'98'}"><img src="/images/hero/icon/keeper-of-the-light.png"></a>
-<a href="/dota-2/hero/visage-105" class="hero ajax-tooltip {t:'Hero',i:'105'}"><img src="/images/hero/icon/visage.png"></a>
 <a href="/dota-2/heroes" class="f-btn f-btn-r">More Heroes</a>
 </div>
 <div class="spacer"></div>
@@ -276,6 +289,8 @@ GA_googleFillSlot("DF-Foot-728-ROS");
 <br>
 <a href="/dota-2/hero/-22" class="ajax-tooltip {t:'Hero',i:'22'}">Drow Ranger</a>
 <br>
+<a href="/dota-2/hero/-111" class="ajax-tooltip {t:'Hero',i:'111'}">Earth Spirit</a>
+<br>
 <a href="/dota-2/hero/-20" class="ajax-tooltip {t:'Hero',i:'20'}">Earthshaker</a>
 <br>
 <a href="/dota-2/hero/-79" class="ajax-tooltip {t:'Hero',i:'79'}">Elder Titan</a>
@@ -295,10 +310,10 @@ GA_googleFillSlot("DF-Foot-728-ROS");
 <a href="/dota-2/hero/-55" class="ajax-tooltip {t:'Hero',i:'55'}">Huskar</a>
 <br>
 <a href="/dota-2/hero/-76" class="ajax-tooltip {t:'Hero',i:'76'}">Invoker</a>
-<br>
-<a href="/dota-2/hero/-81" class="ajax-tooltip {t:'Hero',i:'81'}">Io</a>
 </div>
 <div class="link-block float-left">
+<a href="/dota-2/hero/-81" class="ajax-tooltip {t:'Hero',i:'81'}">Io</a>
+<br>
 <a href="/dota-2/hero/-66" class="ajax-tooltip {t:'Hero',i:'66'}">Jakiro</a>
 <br>
 <a href="/dota-2/hero/-65" class="ajax-tooltip {t:'Hero',i:'65'}">Juggernaut</a>
@@ -334,13 +349,13 @@ GA_googleFillSlot("DF-Foot-728-ROS");
 <a href="/dota-2/hero/-16" class="ajax-tooltip {t:'Hero',i:'16'}">Mirana</a>
 <br>
 <a href="/dota-2/hero/-44" class="ajax-tooltip {t:'Hero',i:'44'}">Morphling</a>
-<br>
-<a href="/dota-2/hero/-91" class="ajax-tooltip {t:'Hero',i:'91'}">Naga Siren</a>
 </div>
 <div class="link-block float-left">
+<a href="/dota-2/hero/-91" class="ajax-tooltip {t:'Hero',i:'91'}">Naga Siren</a>
+<br>
 <a href="/dota-2/hero/-28" class="ajax-tooltip {t:'Hero',i:'28'}">Nature's Prophet</a>
 <br>
-<a href="/dota-2/hero/-31" class="ajax-tooltip {t:'Hero',i:'31'}">Necrolyte</a>
+<a href="/dota-2/hero/-31" class="ajax-tooltip {t:'Hero',i:'31'}">Necrophos</a>
 <br>
 <a href="/dota-2/hero/-24" class="ajax-tooltip {t:'Hero',i:'24'}">Night Stalker</a>
 <br>
@@ -349,6 +364,8 @@ GA_googleFillSlot("DF-Foot-728-ROS");
 <a href="/dota-2/hero/-100" class="ajax-tooltip {t:'Hero',i:'100'}">Ogre Magi</a>
 <br>
 <a href="/dota-2/hero/-61" class="ajax-tooltip {t:'Hero',i:'61'}">Omniknight</a>
+<br>
+<a href="/dota-2/hero/-113" class="ajax-tooltip {t:'Hero',i:'113'}">Oracle</a>
 <br>
 <a href="/dota-2/hero/-103" class="ajax-tooltip {t:'Hero',i:'103'}">Outworld Devourer</a>
 <br>
@@ -371,12 +388,12 @@ GA_googleFillSlot("DF-Foot-728-ROS");
 <a href="/dota-2/hero/-35" class="ajax-tooltip {t:'Hero',i:'35'}">Razor</a>
 <br>
 <a href="/dota-2/hero/-62" class="ajax-tooltip {t:'Hero',i:'62'}">Riki</a>
-<br>
+</div>
+<div class="link-block float-left">
 <a href="/dota-2/hero/-102" class="ajax-tooltip {t:'Hero',i:'102'}">Rubick</a>
 <br>
 <a href="/dota-2/hero/-38" class="ajax-tooltip {t:'Hero',i:'38'}">Sand King</a>
-</div>
-<div class="link-block float-left">
+<br>
 <a href="/dota-2/hero/-104" class="ajax-tooltip {t:'Hero',i:'104'}">Shadow Demon</a>
 <br>
 <a href="/dota-2/hero/-39" class="ajax-tooltip {t:'Hero',i:'39'}">Shadow Fiend</a>
@@ -384,8 +401,6 @@ GA_googleFillSlot("DF-Foot-728-ROS");
 <a href="/dota-2/hero/-13" class="ajax-tooltip {t:'Hero',i:'13'}">Shadow Shaman</a>
 <br>
 <a href="/dota-2/hero/-74" class="ajax-tooltip {t:'Hero',i:'74'}">Silencer</a>
-<br>
-<a href="/dota-2/hero/-60" class="ajax-tooltip {t:'Hero',i:'60'}">Skeleton King</a>
 <br>
 <a href="/dota-2/hero/-109" class="ajax-tooltip {t:'Hero',i:'109'}">Skywrath Mage</a>
 <br>
@@ -412,10 +427,10 @@ GA_googleFillSlot("DF-Foot-728-ROS");
 <a href="/dota-2/hero/-106" class="ajax-tooltip {t:'Hero',i:'106'}">Timbersaw</a>
 <br>
 <a href="/dota-2/hero/-43" class="ajax-tooltip {t:'Hero',i:'43'}">Tinker</a>
-<br>
-<a href="/dota-2/hero/-8" class="ajax-tooltip {t:'Hero',i:'8'}">Tiny</a>
 </div>
 <div class="link-block float-left">
+<a href="/dota-2/hero/-8" class="ajax-tooltip {t:'Hero',i:'8'}">Tiny</a>
+<br>
 <a href="/dota-2/hero/-80" class="ajax-tooltip {t:'Hero',i:'80'}">Treant Protector</a>
 <br>
 <a href="/dota-2/hero/-92" class="ajax-tooltip {t:'Hero',i:'92'}">Troll Warlord</a>
@@ -438,9 +453,13 @@ GA_googleFillSlot("DF-Foot-728-ROS");
 <br>
 <a href="/dota-2/hero/-3" class="ajax-tooltip {t:'Hero',i:'3'}">Weaver</a>
 <br>
-<a href="/dota-2/hero/-14" class="ajax-tooltip {t:'Hero',i:'14'}">Windrunner</a>
+<a href="/dota-2/hero/-14" class="ajax-tooltip {t:'Hero',i:'14'}">Windranger</a>
+<br>
+<a href="/dota-2/hero/-112" class="ajax-tooltip {t:'Hero',i:'112'}">Winter Wyvern</a>
 <br>
 <a href="/dota-2/hero/-17" class="ajax-tooltip {t:'Hero',i:'17'}">Witch Doctor</a>
+<br>
+<a href="/dota-2/hero/-60" class="ajax-tooltip {t:'Hero',i:'60'}">Wraith King</a>
 <br>
 <a href="/dota-2/hero/-34" class="ajax-tooltip {t:'Hero',i:'34'}">Zeus</a>
 <br>
@@ -455,7 +474,8 @@ GA_googleFillSlot("DF-Foot-728-ROS");
 <br>
 <h4 class="hiliteW">THE MOBAFIRE NETWORK</h4>
 DOTAFire and www.dotafire.com are part of the MOBAFire Network. Strategy tools for MOBA and MMORPG Fans!<br><br>
-<a href="http://www.dotafire.com">www.dotafire.com</a> &nbsp;|&nbsp; <a href="http://www.mobafire.com">www.mobafire.com</a> &nbsp;|&nbsp; <a href="http://www.smitefire.com">www.smitefire.com</a>
+<a href="http://www.mobafire.com">www.mobafire.com</a> &nbsp;|&nbsp; <a href="http://www.smitefire.com">www.smitefire.com</a>
+&nbsp;|&nbsp; <a href="http://www.heroesfire.com">www.heroesfire.com</a>
 </div>
 <div class="fn2 float-left">
 <a href="http://www.dota2.com/" target="_blank">Official DotA2 Site</a><br>
@@ -479,7 +499,7 @@ GA_googleFillSlot("DF-Site-Skin");
  
 <script type="text/javascript">
 var _qevents = _qevents || [];
- 
+
 (function() {
 var elem = document.createElement('script');
 elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
@@ -488,16 +508,44 @@ elem.type = "text/javascript";
 var scpt = document.getElementsByTagName('script')[0];
 scpt.parentNode.insertBefore(elem, scpt);
 })();
- 
+
 _qevents.push({
-qacct:"p-2c9Xi7EeE3Hx2"
+qacct:"p-bksEyPk2TA-w5"
 });
 </script>
 <noscript>
 <div style="display:none;">
-<img src="//pixel.quantserve.com/pixel/p-2c9Xi7EeE3Hx2.gif" border="0" height="1" width="1" alt="Quantcast"/>
+<img src="//pixel.quantserve.com/pixel/p-bksEyPk2TA-w5.gif" border="0" height="1" width="1" alt="Quantcast"/>
 </div>
 </noscript>
  
+<script type="text/javascript" name="ignore">
+	$(document).ready(function(){
+		var scriptCount = $('script:contains("GA_googleFillSlot"):not([name=ignore])').length;
+		var outputCount = $('div[id*="google_ads_div_"][id*="_ad_wrapper"]').length;
+		var blocked = 'Unknown';
+		if( scriptCount == 0 ) blocked = 'No tags found';
+		else if( outputCount < scriptCount ) blocked = 'Blocked';
+		else blocked = 'Unblocked';
+		_gaq.push(['_setCustomVar',5,'Adblock',blocked]);
+
+		if( scriptCount == 0 ) _gaq.push(['_trackEvent','Adblock','No tags found','',0]);
+		else
+		{
+			$('script:contains("GA_googleFillSlot"):not([name=ignore])').each(function(){
+				slotName = $(this).text();
+				slotName = slotName.split('GA_googleFillSlot(',2);
+				slotName = slotName[1];
+				slotName = slotName.split(');',2);
+				slotName = slotName[0];
+				slotName = slotName.replace(new RegExp('"','g'),'');
+				slotName = slotName.replace(new RegExp("'",'g'),'');
+				exists = $('div[id*="google_ads_div_' + slotName + '_ad_wrapper"]').length;
+				if( !exists ) _gaq.push(['_trackEvent','Adblock','Blocked',slotName,0]);
+				else _gaq.push(['_trackEvent','Adblock','Unblocked',slotName,0]);
+			});
+		}
+	});
+</script>
 
 </body></html>
