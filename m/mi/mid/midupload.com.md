@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midupload.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809080324id_/http%3A//www.midupload.com/adsensetos.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midupload.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515144731id_/http%3A//www.midupload.com/adsensetos.html) for the most accurate reproduction.*
 
 # MidUpload.com - Cloud Storage
 
