@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brunchnews.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209094546id_/http%3A//www.brunchnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brunchnews.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515181612id_/http%3A//www.brunchnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BrunchNews.com
 
@@ -45,7 +45,7 @@ Information such as your name and picture, social network links, comments/Views 
 
 ### Sharing with partners and authorities
 
-_BrunchNews.com_ will not share your identifiable information with anyone. 
+We may release personal information when we believe in good faith that it is necessary in order to comply with the law of the land, to enforce our terms of use or to protect the rights, property, or safety of _BrunchNews.com_ , our employees, our users, or others. 
 
   
 
