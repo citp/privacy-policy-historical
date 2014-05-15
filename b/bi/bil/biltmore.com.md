@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biltmore.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229160821id_/http%3A//www.biltmore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biltmore.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515151145id_/http%3A//www.biltmore.com/privacy) for the most accurate reproduction.*
 
 # Our Website Privacy Terms | Biltmore
 
