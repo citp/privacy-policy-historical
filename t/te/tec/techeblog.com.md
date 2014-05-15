@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techeblog.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115003402id_/http%3A//www.techeblog.com/index.php/static/privacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techeblog.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515132100id_/http%3A//www.techeblog.com/index.php/static/privacy%2Bpolicy) for the most accurate reproduction.*
 
 # Privacy Policy - TechEBlog
 
