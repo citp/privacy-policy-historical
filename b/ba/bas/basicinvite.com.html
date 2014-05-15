@@ -1,1030 +1,423 @@
-<!--The following is the downloaded HTML source of the basicinvite.com privacy policy that was archived on 2012-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120519143346id_/http%3A//www.basicinvite.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the basicinvite.com privacy policy that was archived on 2014-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140515144926id_/http%3A//www.basicinvite.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-    <title>Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head>
+		
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgEFVF9RGwAAVlRVBwA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<title>Privacy Policy</title>
 <meta name="description" content="">
 <meta name="keywords" content="">
 <meta name="robots" content="INDEX,FOLLOW">
-<link rel="icon" href="http://www.basicinvite.com/skin/frontend/default/basic_invite/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://www.basicinvite.com/skin/frontend/default/basic_invite/favicon.ico" type="image/x-icon">
-<!--<script type="text/javascript">
+<link rel="icon" href="http://www.basicinvite.com/media/favicon/default/favicon_drk.png" type="image/x-icon">
+<link rel="shortcut icon" href="http://www.basicinvite.com/media/favicon/default/favicon_drk.png" type="image/x-icon">
+<!--[if lt IE 7]>
+<script type="text/javascript">
 //<![CDATA[
     var BLANK_URL = 'http://www.basicinvite.com/js/blank.html';
     var BLANK_IMG = 'http://www.basicinvite.com/js/spacer.gif';
 //]]>
-</script>-->
-<!-- IE 6 Warning -->
-<!--[if lte IE 6]><script src="js/ie6/warning.js"></script><script>window.onload=function(){e("images/ie6_warning/")}</script><![endif]-->
-<!-- IE 6 Warning End -->
-<link rel="stylesheet" type="text/css" href="http://www.basicinvite.com/skin/frontend/default/basic_invite/css/reset.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.basicinvite.com/skin/frontend/default/basic_invite/css/boxes.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.basicinvite.com/skin/frontend/default/basic_invite/css/menu.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.basicinvite.com/skin/frontend/default/basic_invite/css/clears.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.basicinvite.com/skin/frontend/default/basic_invite/css/searchautocomplete.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.basicinvite.com/skin/frontend/default/basic_invite/css/print.css" media="print">
-<script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.basicinvite.com/js/prototype/prototype.js"></script>
+</script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://www.basicinvite.com/js/calendar/calendar-win2k-1.css">
+<link rel="stylesheet" type="text/css" href="http://www.basicinvite.com/skin/frontend/default/ultimento-custom/css/styles.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.basicinvite.com/skin/frontend/base/default/css/widgets.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.basicinvite.com/skin/frontend/default/default/popup/css/style.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.basicinvite.com/skin/frontend/default/default/css/aw_zblocks.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.basicinvite.com/skin/frontend/default/default/css/mageworx/storeswitcher.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.basicinvite.com/skin/frontend/default/ultimento-custom/css/mageworx/modalbox.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.basicinvite.com/skin/frontend/default/ultimento-custom/css/icart.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.basicinvite.com/skin/frontend/default/ultimento-custom/css/multifees.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.basicinvite.com/skin/frontend/default/ultimento/css/print.css" media="print">
+<script type="text/javascript" src="http://www.basicinvite.com/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="http://www.basicinvite.com/js/lib/ccard.js"></script>
 <script type="text/javascript" src="http://www.basicinvite.com/js/prototype/validation.js"></script>
 <script type="text/javascript" src="http://www.basicinvite.com/js/scriptaculous/builder.js"></script>
 <script type="text/javascript" src="http://www.basicinvite.com/js/scriptaculous/effects.js"></script>
 <script type="text/javascript" src="http://www.basicinvite.com/js/scriptaculous/dragdrop.js"></script>
 <script type="text/javascript" src="http://www.basicinvite.com/js/scriptaculous/controls.js"></script>
 <script type="text/javascript" src="http://www.basicinvite.com/js/scriptaculous/slider.js"></script>
-<script type="text/javascript" src="http://www.basicinvite.com/js/livepipe/livepipe.js"></script>
-<script type="text/javascript" src="http://www.basicinvite.com/js/livepipe/tabs.js"></script>
-<script type="text/javascript" src="http://www.basicinvite.com/js/swfupload.js"></script>
 <script type="text/javascript" src="http://www.basicinvite.com/js/varien/js.js"></script>
 <script type="text/javascript" src="http://www.basicinvite.com/js/varien/form.js"></script>
-<script type="text/javascript" src="http://www.basicinvite.com/js/varien/menu.js"></script>
-<script type="text/javascript" src="http://www.basicinvite.com/js/number-functions.js"></script>
-<script type="text/javascript" src="http://www.basicinvite.com/js/AC_OETags.js"></script>
-<script type="text/javascript" src="http://www.basicinvite.com/js/df/DFTools.js"></script>
-<script type="text/javascript" src="http://www.basicinvite.com/js/COLOURloversColorPicker.js"></script>
-<script type="text/javascript" src="http://www.basicinvite.com/js/df/BasicInvite.js"></script>
-<script type="text/javascript" src="http://www.basicinvite.com/js/lib/ccard.js"></script>
 <script type="text/javascript" src="http://www.basicinvite.com/js/mage/translate.js"></script>
 <script type="text/javascript" src="http://www.basicinvite.com/js/mage/cookies.js"></script>
-<script type="text/javascript" src="http://www.basicinvite.com/js/shadowbox/shadowbox.js"></script>
-<script type="text/javascript" src="http://www.basicinvite.com/js/shadowbox/languages/shadowbox-en.js"></script>
-<script type="text/javascript" src="http://www.basicinvite.com/js/shadowbox/players/shadowbox-html.js"></script>
-<script type="text/javascript" src="http://www.basicinvite.com/js/shadowbox/players/shadowbox-iframe.js"></script>
-<script type="text/javascript" src="http://www.basicinvite.com/js/shadowbox/players/shadowbox-img.js"></script>
-<script type="text/javascript" src="http://www.basicinvite.com/js/shadowbox/adapters/shadowbox-prototype.js"></script>
-<script type="text/javascript" src="http://www.basicinvite.com/js/aw_searchautocomplete/main.js"></script>
-<script type="text/javascript" src="http://www.basicinvite.com/skin/frontend/default/basic_invite/js/stuHover.js"></script>
-<script type="text/javascript" src="http://www.basicinvite.com/skin/frontend/default/basic_invite/js/scriptaculous.js"></script>
-<script type="text/javascript" src="http://www.basicinvite.com/skin/frontend/default/basic_invite/js/carousel-min.js"></script>
+<script type="text/javascript" src="http://www.basicinvite.com/js/prototype/effects.js"></script>
+<script type="text/javascript" src="http://www.basicinvite.com/js/prototype/window.js"></script>
+<script type="text/javascript" src="http://www.basicinvite.com/js/popup/popup.js"></script>
+<script type="text/javascript" src="http://www.basicinvite.com/js/mageworx/modalbox.js"></script>
+<script type="text/javascript" src="http://www.basicinvite.com/js/mageworx/icart.js"></script>
+<script type="text/javascript" src="http://www.basicinvite.com/js/varien/product.js"></script>
+<script type="text/javascript" src="http://www.basicinvite.com/js/calendar/calendar.js"></script>
+<script type="text/javascript" src="http://www.basicinvite.com/js/calendar/calendar-setup.js"></script>
+<script type="text/javascript" src="http://www.basicinvite.com/js/ult/gallery.js"></script>
+<script type="text/javascript" src="http://www.basicinvite.com/js/ult/ult-common.js"></script>
+<script type="text/javascript" src="http://www.basicinvite.com/js/ult/tabber.js"></script>
+<script type="text/javascript" src="http://www.basicinvite.com/js/ult/ult-menu.js"></script>
+<script type="text/javascript" src="http://www.basicinvite.com/js/ult/lazyload.js"></script>
+<script type="text/javascript" src="http://www.basicinvite.com/skin/frontend/default/default/js/mageworx/selectreplace.js"></script>
+<script type="text/javascript" src="http://www.basicinvite.com/skin/frontend/base/default/js/bundle.js"></script>
+<link href="http://www.basicinvite.com/rss/catalog/new/store_id/1/" title="New Products" rel="alternate" type="application/rss+xml">
+<link href="http://www.basicinvite.com/rss/catalog/special/store_id/1/cid/0/" title="Special Products" rel="alternate" type="application/rss+xml">
+<link href="http://www.basicinvite.com/rss/catalog/salesrule/store_id/1/cid/0/" title="Coupons/Discounts" rel="alternate" type="application/rss+xml">
 <!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="http://www.basicinvite.com/skin/frontend/default/basic_invite/css/iestyles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.basicinvite.com/skin/frontend/default/ultimento/css/styles-ie.css" media="all" />
 <![endif]-->
 <!--[if lt IE 7]>
-<link rel="stylesheet" type="text/css" href="http://www.basicinvite.com/skin/frontend/default/basic_invite/css/ie7minus.css" media="all" />
 <script type="text/javascript" src="http://www.basicinvite.com/js/lib/ds-sleight.js"></script>
-<script type="text/javascript" src="http://www.basicinvite.com/js/varien/iehover-fix.js"></script>
+<script type="text/javascript" src="http://www.basicinvite.com/skin/frontend/base/default/js/ie6.js"></script>
 <![endif]-->
-<script type="text/javascript">var Translator = new Translate({"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script>
-<!-- BEGIN GOOGLE ANALYTICS CODE -->
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="http://www.basicinvite.com/skin/frontend/default/ultimento-custom/css/mageworx/modalbox-ie.css" media="all" />
+<![endif]-->
+
 <script type="text/javascript">
 //<![CDATA[
-            (function() {
-                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = 'http://www.google-analytics.com/ga.js';
-                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-            })();
-            var _gaq = _gaq || [];
-
-            _gaq.push(["_setAccount", "UA-2097261-2"], ["_trackPageview","/privacy-policy"]);
-
-
-            if(Ajax.Responders){
-                Ajax.Responders.register({
-                  onComplete: function(response){
-                    if(!response.url.include("progress")){
-                        if(response.url.include("saveOrder")){
-                            _gaq.push(["_trackPageview", "/privacy-policy"+ "opc-review-placeOrderClicked"]);
-                        }else if(accordion.currentSection){
-                            _gaq.push(["_trackPageview", "/privacy-policy"+ accordion.currentSection]);
-                        }
-                    }
-                  }
-                });
-            }
-
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.www.basicinvite.com';
 //]]>
 </script>
 
-<!-- END GOOGLE ANALYTICS CODE -->
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["HK","IE","MO","PA"];
+//]]>
+</script>
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script><!-- begin SnapEngage code
+<script type="text/javascript">
+  (function() {
+    var se = document.createElement('script'); se.type = 'text/javascript'; se.async = true;
+    se.src = '//commondatastorage.googleapis.com/code.snapengage.com/js/a4e14963-732b-4427-afdf-26fd343981f7.js';
+    var done = false;
+    se.onload = se.onreadystatechange = function() {
+      if (!done&&(!this.readyState||this.readyState==='loaded'||this.readyState==='complete')) {
+        done = true;
+        // Place your SnapEngage JS API code below
+        //SnapEngage.openProactiveChat(true, true); // Example: open the proactive chat on load
+      }
+    };
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(se, s);
+  })();
+</script>end SnapEngage code -->
+
+<!-- begin olark code
+<script data-cfasync="false" type='text/javascript'>/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
+f[z]=function(){
+(a.s=a.s||[]).push(arguments)};var a=f[z]._={
+},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
+f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
+0:+new Date};a.P=function(u){
+a.p[u]=new Date-a.p[0]};function s(){
+a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
+hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
+return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
+b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
+b.contentWindow[g].open()}catch(w){
+c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
+var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
+b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
+loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+/* custom configuration goes here (www.olark.com/documentation) */
+olark.identify('1444-766-10-3098');/*]]>*/</script><noscript><a href="https://www.olark.com/site/1444-766-10-3098/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript> -->
+<!-- end olark code -->
 
 
+<!--Start of Pinterest Code-->
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+<!--End of Pinterest Script-->
 
 
-</head>
-<body class=" cms-page-view cms-privacy-policy">
-<div class="flashNotInstalledWarning" style="display:none;">
-<h1>This site requires Adobe Flash Player.</h1>
-<a href="http://get.adobe.com/flashplayer/" target="_blank">This free plugin can be downloaded from Adobe</a>
+<!-- Apple Icons -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/apple-touch/apple-touch-icon-144x144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/apple-touch/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/apple-touch/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="/images/apple-touch/apple-touch-icon-57x57-precomposed.png"><!-- facebook-opengraph -->
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head><body class=" cms-page-view cms-privacy-policy"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div><div id="facebook-opengraph">
+	<meta property="og:site_name" content="Basic Invite">
+	<meta property="og:description" content="Wedding invitations by Basic Invite.">
+	 
+	<meta property="og:url" content="http://www.basicinvite.com/privacy-policy/">
+	 
 </div>
-<div class="wrapper">
-<div class="layout">
-        <!-- start header -->
-        <div class="header">
-            <script type="text/javascript"> 
-    var BLANK_URL = 'http://www.basicinvite.com/js/blank.html'; 
-    var BLANK_IMG = 'http://www.basicinvite.com/js/spacer.gif'; 
-</script>
-
-<script type="text/javascript" defer="defer">
-	Shadowbox.init({
-    	language: 'en',
-    	players:  ['html', 'iframe', 'img']
-	}); 
-</script>
 
 
-<div class="header-top-container">
-    <div class="header-top">
+
+<!-- BEGIN GOOGLE ANALYTICS CODEs -->
+<script type="text/javascript">
+//<![CDATA[
+    var _gaq = _gaq || [];
     
+_gaq.push(['_setAccount', 'UA-2097261-2']);
+_gaq.push(['_trackPageview']);
+    
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
 
-        <!--header starts-->
-            <div class="left_section">
-            
-                <p>wedding invitations and stationery<br>1.800.705.1243</p>
-	
+//]]>
+</script>
+<!-- END GOOGLE ANALYTICS CODE -->
+<!-- BEGIN: Google Trusted Store -->
+<script type="text/javascript">
+//<![CDATA[
+  var gts = gts || [];
+
+  gts.push(["id", "400231"]);
+  gts.push(["google_base_subaccount_id", "8657854"]);
+
+  (function() {
+    var scheme = (("https:" == document.location.protocol) ? "https://" : "http://");
+    var gts = document.createElement("script");
+    gts.type = "text/javascript";
+    gts.async = true;
+    gts.src = scheme + "www.googlecommerce.com/trustedstores/gtmp_compiled.js";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(gts, s);
+  })();
+//]]>
+</script>
+<!-- END: Google Trusted Store --><div class="wrapper">
+        <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
             </div>
-         	<a href="http://www.basicinvite.com/"><img src="http://www.basicinvite.com/skin/frontend/default/basic_invite/images/logo.gif" alt="Basic Invite - Wedding Invitations" width="340" height="115" class="logo"></a>
-            <div class="right_section">
-                <div>
-        <ul>
-                            		            <li class="first"><a href="https://www.basicinvite.com/customer/account/" title="My Account">My Account</a></li>
-		                                    		            <li><a href="https://www.basicinvite.com/wishlist/" title="Saved Products">Saved Products</a></li>
-		                                    		            <li><a href="/blog/" title="Blog">Blog</a></li>
-		                                    		            <li><a href="http://www.basicinvite.com/checkout/cart/" title="My Cart" class="top-link-cart">My Cart</a></li>
-		                                    		            <li><a href="http://www.basicinvite.com/checkout/" title="Checkout" class="top-link-checkout">Checkout</a></li>
-		                                    		            <li class=" last"><a href="https://www.basicinvite.com/customer/account/login/" title="Log In">Log In</a></li>
-		                            </ul>
-   </div>
-               <!-- <p class="right">my account <br />shopping cart <strong>($206.67)</strong></p>-->
-            </div>
-            
-<div id="menu">
-  <h4 class="no-display">Category Navigation:</h4>
-  <ul id="nav">
-        <li class="level0 nav-1 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
-<a href="http://www.basicinvite.com/wedding-invitations.html">
-<span>Wedding Invitations</span>
+        </div>
+    </noscript>
+    <div class="page">
+        <div class="header-container">
+    <div class="header">
+        <a id="logo" href="http://www.basicinvite.com/" title="Basic Invite" class="logo"><strong>Basic Invite</strong></a>
+        <div class="zblock zblock-header-callout-zblock"><div id="ribbon-container">
+      <a href="/wedding.html" id="ribbon">Free Expedited Shipping + 10% Off on all Wedding! Ends Sunday. Code: WED518</a>
+</div></div>
+
+<!-- image promo
+<div class="header-promo">
+  <a href="/wedding/wedding-invitations.html">   
+       <img src="http://www.basicinvite.com/media/wysiwyg/Promos/January14.gif"  height="25px" width="515px"  border="0" />
+  </a>
+</div>
+<div class="header-promo">
+  <a href="http://www.basicinvite.com/discount/">
+  <img style="float: left;" src="http://www.basicinvite.com/skin/frontend/default/ultimento/images/callouts/ult-header-callout.png" alt="discount"/>
+  </a>
+</div>-->
+        <!-- Account links -->
+        <div class="nav-container">
+        	<div id="nav-container-customer"></div>
+        </div>
+
+        <!-- Search box -->
+        <div class="search">
+            <form id="search_mini_form" action="http://www.basicinvite.com/catalogsearch/result/" method="get">
+    <div class="form-search">
+        <input id="search-input" type="text" name="q" value="">
+        <button type="submit" class="search-button"><span><span>Search</span></span></button>
+        <div id="search_autocomplete" class="search-autocomplete"></div>
+        <script type="text/javascript">
+        //<![CDATA[
+            var searchForm = new Varien.searchForm('search_mini_form', 'search-input', 'Search ...');
+            searchForm.initAutocomplete('http://www.basicinvite.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+        //]]>
+        </script>
+    </div>
+</form>
+        </div>
+        
+<div class="menu-bar">
+
+  <div class="nav-container">
+    <ul id="exploded-menu">
+              <li class="nav-main" onmouseover="">
+<a class="top-nav-item" href="http://www.basicinvite.com/wedding.html">
+<span>Wedding</span>
 </a>
-<ul class="level0">
-<li class="level1 nav-1-1 first">
-<a href="http://www.basicinvite.com/wedding-invitations/pocket-wedding-invitations.html">
-<span>Pocket Invitations</span>
+<div class="dropdownCont">
+<table>
+<tbody><tr>
+<td class="first">
+<ul>
+<li><a href="http://www.basicinvite.com/wedding/wedding-invitations.html"><span class="first">Wedding Invitations</span></a></li>
+<li><a href="http://www.basicinvite.com/wedding/wedding-invitations/new-wedding-invitations.html"><span>New Wedding Invitations</span></a></li>
+<li><a href="http://www.basicinvite.com/wedding/wedding-invitations/photo-wedding-invitations.html"><span>Photo Wedding Invitations</span></a></li>
+<li><a href="http://www.basicinvite.com/wedding/wedding-invitations/pocket-wedding-invitations.html"><span>Pocket Wedding Invitations</span></a></li>
+<li><a href="http://www.basicinvite.com/wedding/wedding-menus.html"><span class="first">Wedding Menu Cards</span></a></li>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href="http://www.basicinvite.com/wedding/wedding-enclosure-cards.html"><span class="first">Wedding Enclosure Cards</span></a></li>
+<li><a href="http://www.basicinvite.com/wedding/wedding-enclosure-cards/direction-cards.html"><span>Wedding Direction Cards</span></a></li>
+<li><a href="http://www.basicinvite.com/wedding/wedding-enclosure-cards/response-cards.html"><span>Wedding RSVP Cards</span></a></li>
+<li><a href="http://www.basicinvite.com/wedding/wedding-enclosure-cards/accommodations-cards.html"><span>Wedding Accommodation Cards</span></a></li>
+<li><a href="http://www.basicinvite.com/wedding/wedding-enclosure-cards/ceremony-reception-cards.html"><span>Wedding Ceremony Cards/ Reception Cards</span></a></li>
+<li><a href="http://www.basicinvite.com/wedding/wedding-enclosure-cards/wedding-registry-cards.html"><span>Wedding Registry Cards</span></a></li>
+<li><a href="http://www.basicinvite.com/wedding/wedding-programs.html"><span class="first">Wedding Programs</span></a></li>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href="http://www.basicinvite.com/wedding/wedding-invitation-samples.html"><span class="first">Wedding Invitation Samples</span></a></li>
+</ul>
+</td>
+</tr>
+</tbody></table>
+</div>
+</li>
+<div class="navDivide"></div>              <li class="nav-main" onmouseover="">
+<a class="top-nav-item" href="http://www.basicinvite.com/save-the-date.html">
+<span>Save the dates</span>
 </a>
-</li><li class="level1 nav-1-2 last">
-<a href="http://www.basicinvite.com/wedding-invitations/photo-wedding-invitations.html">
-<span>Photo Wedding Invitations</span>
+<div class="dropdownCont">
+<table>
+<tbody><tr>
+<td class="first">
+<ul>
+<li><a href="http://www.basicinvite.com/save-the-date/new-save-the-date.html"><span class="first">New Save-the-date</span></a></li>
+<li><a href="http://www.basicinvite.com/save-the-date/save-the-date-magnets.html"><span class="first">Save The Date Magnets</span></a></li>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href="http://www.basicinvite.com/save-the-date/photo-save-the-dates.html"><span class="first">Photo Save The Date Cards</span></a></li>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href="http://www.basicinvite.com/save-the-date/postcard-save-the-date.html"><span class="first">Postcard Save The Date</span></a></li>
+</ul>
+</td>
+</tr>
+</tbody></table>
+</div>
+</li>
+<div class="navDivide"></div>              <li class="nav-main" onmouseover="">
+<a class="top-nav-item" href="http://www.basicinvite.com/thank-you-cards.html">
+<span>Thank you</span>
 </a>
 </li>
+<div class="navDivide"></div>              <li class="nav-main" onmouseover="">
+<a class="top-nav-item" href="http://www.basicinvite.com/bridal-shower-invitations.html">
+<span>Bridal Shower</span>
+</a>
+</li>
+<div class="navDivide"></div>              <li class="nav-main" onmouseover="">
+<a class="top-nav-item" href="http://www.basicinvite.com/baby.html">
+<span>Baby</span>
+</a>
+<div class="dropdownCont">
+<table>
+<tbody><tr>
+<td class="first">
+<ul>
+<li><a href="http://www.basicinvite.com/baby/birth-announcements.html"><span class="first">Birth Announcements</span></a></li>
+<li><a href="http://www.basicinvite.com/baby/birth-announcements/boys.html"><span>Boys</span></a></li>
+<li><a href="http://www.basicinvite.com/baby/birth-announcements/girls.html"><span>Girls</span></a></li>
 </ul>
-</li>        <li class="level0 nav-2 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
-<a href="http://www.basicinvite.com/wedding-accessories.html">
+</td>
+<td>
+<ul>
+<li><a href="http://www.basicinvite.com/baby/baby-shower-invitations.html"><span class="first">Baby Shower</span></a></li>
+<li><a href="http://www.basicinvite.com/baby/baby-shower-invitations/baby-boy.html"><span>Baby Boy</span></a></li>
+<li><a href="http://www.basicinvite.com/baby/baby-shower-invitations/baby-girl.html"><span>Baby Girl</span></a></li>
+</ul>
+</td>
+</tr>
+</tbody></table>
+</div>
+</li>
+<div class="navDivide"></div>              <li class="nav-main" onmouseover="">
+<a class="top-nav-item" href="http://www.basicinvite.com/graduation-announcements.html">
+<span>Graduation</span>
+</a>
+</li>
+<div class="navDivide"></div>              <li class="nav-main" onmouseover="">
+<a class="top-nav-item" href="http://www.basicinvite.com/holiday-cards.html">
+<span>Holiday</span>
+</a>
+</li>
+<div class="navDivide"></div>              <li class="nav-main" onmouseover="">
+<a class="top-nav-item" href="http://www.basicinvite.com/accessories.html">
 <span>Accessories</span>
 </a>
-<ul class="level0">
-<li class="level1 nav-2-1 first">
-<a href="http://www.basicinvite.com/wedding-accessories/wedding-invitation-pockets.html">
-<span>Pockets</span>
-</a>
-</li><li class="level1 nav-2-2">
-<a href="http://www.basicinvite.com/wedding-accessories/envelopes.html">
-<span>Envelopes</span>
-</a>
-</li><li class="level1 nav-2-3">
-<a href="http://www.basicinvite.com/wedding-accessories/wedding-invitation-enclosure-cards.html">
-<span>Enclosure Cards</span>
-</a>
-</li><li class="level1 nav-2-4 last parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
-<a href="http://www.basicinvite.com/wedding-accessories/product-samples.html">
-<span>Product Samples</span>
-</a>
-<ul class="level1">
-<li class="level2 nav-2-4-1 first">
-<a href="http://www.basicinvite.com/wedding-accessories/product-samples/wedding-invitation-samples.html">
-<span>Wedding Invitation Samples</span>
-</a>
-</li><li class="level2 nav-2-4-2">
-<a href="http://www.basicinvite.com/wedding-accessories/product-samples/pocket-samples.html">
-<span>Pocket Samples</span>
-</a>
-</li><li class="level2 nav-2-4-3 last">
-<a href="http://www.basicinvite.com/wedding-accessories/product-samples/color-cards.html">
-<span>Color Cards</span>
-</a>
 </li>
-</ul>
-</li>
-</ul>
-</li>        <li class="level0 nav-3 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
-<a href="http://www.basicinvite.com/custom-wedding-stationary-products.html">
-<span>Custom Products</span>
-</a>
-<ul class="level0">
-<li class="level1 nav-3-1 first">
-<a href="http://www.basicinvite.com/custom-wedding-stationary-products/custom-wedding-invitations.html">
-<span>Custom Wedding Invitations</span>
-</a>
-</li><li class="level1 nav-3-2">
-<a href="http://www.basicinvite.com/custom-wedding-stationary-products/custom-wedding-enclosure-cards.html">
-<span>Custom Enclosure Cards</span>
-</a>
-</li><li class="level1 nav-3-3">
-<a href="http://www.basicinvite.com/custom-wedding-stationary-products/custom-wedding-programs.html">
-<span>Custom Programs/Menu's</span>
-</a>
-</li><li class="level1 nav-3-4">
-<a href="http://www.basicinvite.com/custom-wedding-stationary-products/custom-thank-you-cards.html">
-<span>Custom Thank you Cards</span>
-</a>
-</li><li class="level1 nav-3-5">
-<a href="http://www.basicinvite.com/custom-wedding-stationary-products/custom-save-the-date-cards.html">
-<span>Custom Save-the-date Cards</span>
-</a>
-</li><li class="level1 nav-3-6 last">
-<a href="http://www.basicinvite.com/custom-wedding-stationary-products/custom-wedding-invitation-accessories.html">
-<span>Custom Accessories</span>
-</a>
-</li>
-</ul>
-</li>        <li><a href="/wedding-etiquette" class="drop">Etiquette</a>
-      <ul class="sub">
-        <li>
-          <h3><span>Before the Wedding</span></h3>
-        </li>
-        <li>
-          <h3><a href="/wedding-etiquette/wedding-invitation-basics">Invitation Basics</a></h3>
-        </li>
-        <li>
-          <h3><a href="/wedding-etiquette/save-the-date-card-etiquette">Save The Date Etiquette</a></h3>
-        </li>
-        <li>
-          <h3><span>Wedding Invitation Help</span></h3>
-        </li>
-         <li><h3><a href="/wedding-etiquette/wedding-invitation-etiquette">Wedding Invitation Etiquette</a></h3></li>
-         <li><h3><a href="/wedding-etiquette/religion-specific-etiquette">Religion Tips</a></h3></li>
-         <li><h3><a href="/wedding-etiquette/wedding-invitation-wording-samples">Invitation Wording Samples</a></h3></li>
-         <li><h3><a href="/wedding-etiquette/wedding-invitation-grammar-tips">Grammar Tips</a></h3></li>
-         <li>
-          <h3><span>Enclosure Card Help</span></h3>
-        </li>
-        <li>
-          <h3><a href="/wedding-etiquette/rsvp-response-card-wording">RSVP Wording</a></h3>
-        </li>
-        <li>
-          <h3><a href="/wedding-etiquette/reception-card-wording">Reception Card Wording</a></h3>
-        </li>
-        <li>
-          <h3><a href="/wedding-etiquette/ceremony-card-wording">Ceremony Card Wording</a></h3>
-        </li>
-        <li>
-          <h3><a href="/wedding-etiquette/direction-card-and-map-card-wording">Direction Card Wording</a></h3>
-        </li>
-        <li>
-          <h3><a href="/wedding-etiquette/accommodation-card-wording">Accom. Card Wording</a></h3>
-        </li>
-         <li>
-          <h3><span>Assembly and Addressing</span></h3>
-        </li>
-          
-          <li>       <h3><a href="/wedding-etiquette/wedding-invitation-assembly">Wedding Invitation Assembly</a></h3></li>
-        <li>
-          <h3><a href="/wedding-etiquette/wedding-invitation-addressing" class="sub_nav_last">Wedding Invitation Addressing</a></h3>
-          </li>
-                        
-      </ul>
-    </li>
-  	<li><a href="/about-us" class="drop">about us</a>
-      <ul class="sub">
-        <li>
-          <h3><span>Learn About Basic Invite</span></h3>
-        </li>
-        <li>
-          <h3><a href="/about-us">About Us</a></h3>
-        </li>
-        <li>
-          <h3><a href="/contacts">Contact Us</a></h3>
-        </li>
-        <li>
-          <h3><a href="/testimonials">Testimonials</a></h3>
-        </li>
-        <li>
-          <h3><a href="/satisfaction-guarantee">Satisfaction Guarantee</a></h3>
-        </li>
-        <li>
-          <h3><a class="sub_nav_last" href="/blog">Basic Invite Blog</a></h3>
-        </li>
-      </ul>
-    </li>	
-    <li><a href="/customer-service" class="drop">customer service</a>
-      <ul class="sub">
-        <li>
-          <h3><span>We're Here To Help</span></h3>
-        </li>
-        <li>
-          <h3><a href="/customer-service">Customer Service</a></h3>
-        </li>        
-        <li>
-          <h3><a href="/faq">Frequently Asked Questions</a></h3>
-        </li>
-        <li>
-          <h3><a href="/terms">Terms and Conditions</a></h3>
-        </li>
-        <li>
-          <h3><a href="/privacy-policy" class="sub_nav_last">Privacy Policy</a></h3>
-        </li>
-      </ul>
-    </li>
-                  
-  </ul>
-</div>
-             
-<script type="text/javascript">
-/* <![CDATA[ */
-function selectedSelectBox(selectBoxID, listBoxID, text)
-{
-	if(document.getElementById(selectBoxID))
-	{
-		if(text != 'reset')
-		{
-			document.getElementById(selectBoxID).innerHTML = text;
-			document.getElementById(listBoxID).style.display = 'none';
-		}
-		else
-		{
-			alert('reset');
-		}
-	}
-}
+<div class="navDivide"></div>          </ul>
 
-function showList(listid)
-{
-	if(document.getElementById(listid).style.display == 'block')
-	{
-		document.getElementById(listid).style.display = 'none';
-	}
-	else
-	{
-		document.getElementById(listid).style.display = 'block';
-	}
-}
-
-//Main function to generate the drop down menu
-function dropDown(targetEl, resultsEl, actionButton, callbackFunction)
-{
-	//assign the object
-	objTarget = document.getElementById(targetEl);
-
-	//hide the drop down by default
-	hideDropDown(targetEl);
-
-	//assign the button click to open/hide the dropdown
-	assignButtonClick(objTarget, actionButton)
-
-	//assign click functionality to each of individual child nodes
-	assignChildNodeClick(objTarget, targetEl, resultsEl, callbackFunction)
-
-	//create a hidden element on the document
-	if(!document.getElementById('openDropDown'))
-	{
-		var hiddenElement = document.createElement('input');
-		hiddenElement.setAttribute('type', 'hidden');
-		hiddenElement.setAttribute('id', 'openDropDown');
-		document.body.appendChild(hiddenElement);
-	}
-}
-
-//function to hide the drop down menu.
-function hideDropDown(target)
-{
-	objEL = document.getElementById(target);
-
-	if(objEL)
-	{
-		if(objEL.style.display == 'block' || !objEL.style.display)    
-		{
-			objEL.style.display = 'none';
-		}
-	}
-	else
-	{
-		alert('There is some problem with drop down with id : ' + target);
-	}
-}
-
-//this function will bind the click event to show/hide the drop down
-function assignButtonClick(target, actionButtonID)
-{
-	actionButton = document.getElementById(actionButtonID);
-	actionButton.onclick = function() {
-		currentOpenDD = document.getElementById('openDropDown').value
-		if(currentOpenDD != '' && currentOpenDD == (target.id + ';;' + actionButtonID))
-		{
-			document.getElementById('openDropDown').value = '';
-		}
-		else if(currentOpenDD != '')
-		{
-			values = currentOpenDD.split(';;')
-			hideDropDown(values[0])
-			document.getElementById('openDropDown').value = target.id + ';;' + actionButtonID;
-		}
-		else
-		{
-			document.getElementById('openDropDown').value = target.id + ';;' + actionButtonID;
-		}
-
-		if(target.style.display == 'block' || !target.style.display)  
-		{
-			target.style.display = 'none';
-		}
-		else
-		{
-			target.style.display = 'block';
-		}
-	}
-}
-
-//function will bind each of the child nodes with the function to process clicks
-function assignChildNodeClick(target, targetEl, resultsEl, callback)
-{
-	arrListElements = target.getElementsByTagName('LI');
-	for(i=0;i<arrListElements.length;i++)
-	{
-		arrAnchorChild = arrListElements[i].getElementsByTagName('A');
-		for(j=0; j<arrAnchorChild.length;j++)
-		{
-			currentNode = arrAnchorChild[j];
-			currentNode.onclick = function() {
-				if(callback)
-				{
-					callback.call(this, this, targetEl, resultsEl);
-				}
-				else
-				{
-					processClick(this, targetEl, resultsEl);
-				}
-			}
-		}
-	}
-}
-
-//function to select the current value and mark it as selected
-function processClick(objAnchor, targetEl, resultsEl)
-{
-	document.getElementById(targetEl).style.display = 'none';
-	document.getElementById(resultsEl).innerHTML = trim(objAnchor.innerHTML);
-
-	var selected_value = trim(objAnchor.id);
-	arr = selected_value.split('_'); 
-	if(trim(arr[0]) == 'price')
-	{
-		var value = arr[1].split('-');
-		if(value.length > 1)
-		{
-			document.getElementById('price_from').value = value[0];
-			document.getElementById('price_to').value = value[1];
-			document.getElementById(arr[0]+'_text').value = trim(objAnchor.innerHTML);
-		}
-	}
-	else
-	{
-		if(trim(arr[1]) == 'Site Search')
-		{
-			arr[1] = '';
-		}
-		document.getElementById(arr[0]).value = trim(arr[1]);
-		document.getElementById(arr[0]+'_text').value = trim(objAnchor.innerHTML);
-		
-	}
-}
-
-//bind the click function on the window and call callback function on each click
-if (window.document.addEventListener){
-  window.document.addEventListener('click', captureClick, false);
-} else if (window.document.attachEvent){
-  window.document.attachEvent('onclick', captureClick);
-}
-
-//callback function. called on each click on window
-function captureClick(e)
-{
-	//capture the target element on which click action is performed
-	if (window.event)
-	{
-		target = window.event.srcElement;
-	}
-	else
-	{
-		target = e.target ? e.target : e.srcElement;
-	}
-
-	if(document.getElementById('openDropDown').value != '')
-	{
-		arrValues = document.getElementById('openDropDown').value.split(';;')
-
-		if(!checkParent(target, arrValues[0]))
-		{
-			if(target.id != arrValues[1])
-			{
-				hideDropDown(arrValues[0])
-				document.getElementById('openDropDown').value = '';
-			}
-		}
-	}
-}
-
-function loadEvents()
-{
-	//Load the drop down function as the script loads
-	dropDown('deviceList1', 'flexbox_results1', 'flex_button1');
-	dropDown('deviceList2', 'flexbox_results2', 'flex_button2');
-	dropDown('deviceList3', 'flexbox_results3', 'flex_button3');
-	dropDown('deviceList4', 'flexbox_results4', 'flex_button4');
-	dropDown('deviceList5', 'flexbox_results5', 'flex_button5');
-	//dropDown('deviceList1', 'flexbox_results1', 'flex_button1');
-	//dropDown('flex_box2', 'flexbox_results2', 'flex_button2'), extraCallback);;
-}
-
-function extraCallback()
-{
-	var objAnchor = arguments[0];
-	var targetElement = arguments[1];
-	var resultElement = arguments[2];
-		
-	myParent = objAnchor.parentNode;
-	
-	arrListItems = myParent.parentNode.getElementsByTagName('LI');
-	
-	for(i=0; i<arrListItems.length;i++)
-	{
-		children = arrListItems[i].childNodes;
-		if(children[0].nodeName == 'SPAN')
-		{
-			arrListItems[i].innerHTML = children[0].innerHTML
-		}
-	}
-
-	var originalHTML = objAnchor.parentNode.innerHTML;
-	objAnchor.parentNode.innerHTML = '<span>' + originalHTML + '</span>';
-	
-	arrImgItems = document.getElementById(resultElement).getElementsByTagName('IMG');
-	arrImgItems[0].src = arrImgItems[0].src.replace(/flag(.*).gif/ig, 'flag_' + objAnchor.className + '.gif');
-}
-
-
-function addMultipleLoadEvents(func)
-{
-	var oldonload = window.onload;
-	if (typeof window.onload != 'function')
-	{
-		window.onload = func;
-	}
-	else
-	{
-		window.onload = function() {
-			if (oldonload)
-			{
-				oldonload();
-			}
-			func();
-		}
-	}
-}
-
-function checkParent(objEl, parentID)
-{
-	if(objEl.parentNode.id == parentID)
-	{
-		return true;
-	}
-	else if(objEl.parentNode.nodeName == 'BODY')
-	{
-		return false;
-	}
-	else
-	{
-		return checkParent(objEl.parentNode, parentID);
-	}
-}
-
-addMultipleLoadEvents(loadEvents);
-
-function trim (str, charlist) {
-    // Strips whitespace from the beginning and end of a string  
-    // *     example 1: trim('    Kevin van Zonneveld    ');
-    // *     returns 1: 'Kevin van Zonneveld'
-    // *     example 2: trim('Hello World', 'Hdle');
-    // *     returns 2: 'o Wor'
-    // *     example 3: trim(16, 1);
-    // *     returns 3: 6
-    var whitespace, l = 0, i = 0;
-    str += '';
-    if (!charlist) {
-        // default list
-        whitespace = " \n\r\t\f\x0b\xa0\u2000\u2001\u2002\u2003\u2004\u2005\u2006\u2007\u2008\u2009\u200a\u200b\u2028\u2029\u3000";
-    } else {
-        // preg_quote custom list
-        charlist += '';
-        whitespace = charlist.replace(/([\[\]\(\)\.\?\/\*\{\}\+\$\^\:])/g, '$1');
-    }
-    l = str.length;
-    for (i = 0; i < l; i++) {
-        if (whitespace.indexOf(str.charAt(i)) === -1) {
-            str = str.substring(i);
-            break;
-        }
-    }
-    l = str.length;
-    for (i = l - 1; i >= 0; i--) {
-        if (whitespace.indexOf(str.charAt(i)) === -1) {
-            str = str.substring(0, i + 1);
-            break;
-        }
-    }
-    return whitespace.indexOf(str.charAt(0)) === -1 ? str : '';
-}
-
-FastInit.addOnLoad(function()
-{
-	$$('div.select_on_click a').invoke('observe','click',function(e)
-	{
-		e.stop();
-		
-		try
-		{
-			el = e.element();
-			
-			var query = el.href.match(/#(.*)/);
-			if(!query)
-				query = ['',''];
-			
-			query = query[1];
-			
-			if($$('body.cms-home').length)
-			{
-				window.location="/wedding-invitations.html?"+query;
-			}
-			else if($$('div.category-head').length || $$('div.advanced-search-found-amount').length)
-			{
-				// We're on a category display page or a catalog search page.
-				
-				if(window.location.search.length)
-					window.location.search += '&'+query;
-				else
-					window.location.search = query;
-			}
-			else
-			{
-				window.location="/catalogsearch/advanced/result/?"+query;
-			}
-		}
-		catch(ex)
-		{
-			
-		}
-	});
-	
-	$('header-search-form').select('input[type=hidden]').each(function(input)
-	{
-		if(input.value)
-		{
-			var select = $('dropdowns').down('div.select.'+input.name);
-			if(select)
-			{
-				var value = $(input.name+'_'+input.value);
-				
-				if(value) 
-					select.down('span').update(value.innerHTML);
-			}
-		}
-	})
-});
-
-/* ]]> */
-</script>
-
-            <form action="http://www.basicinvite.com/catalogsearch/advanced/result/" method="get" id="header-search-form">
-            <fieldset style="float:left">
-			<input type="hidden" id="style" name="style" value="">
-            <input type="hidden" id="type" name="type" value="">
-            <input type="hidden" id="photos" name="photos" value="">
-            <input type="hidden" id="size" name="size" value="">
-            <input type="hidden" id="price_custom" name="price_custom" value="">
-            
-            
-            <input type="hidden" id="style_text" name="style_text" value="">
-            <input type="hidden" id="type_text" name="type_text" value="">
-            <input type="hidden" id="photos_text" name="photos_text" value="">
-            <input type="hidden" id="size_text" name="size_text" value="">
-             <input type="hidden" id="price_text" name="price_text" value="">
-            
-            <div id="dropdowns">
-                <ul>
-                    <li>
-                    <div class="outer">
-                        <div class="select style"><span id="flexbox_results1">Style</span><div class="arrow"><a href="#" onclick="return false;"><img src="http://www.basicinvite.com/skin/frontend/default/basic_invite/images/down_arrow.gif" width="19" height="21" id="flex_button1" alt=""></a></div></div>
-                        <!--<div class="select_on_click"  style="display:block">
-                            <h3>Style</h3>
-                            <ul>
-                                <li><a href="#">5"*7"</a></li>
-                                <li><a href="#">5"*7"</a></li>
-                                <li><a href="#">5"*7"</a></li>
-                                <li><a href="#">5"*7"</a></li>
-                                <li><a href="#">5"*7"</a></li>
-                                <li><a href="#">5"*7"</a></li>
-                            </ul>
-                        </div>-->
-                        
-                        <div class="select_on_click" id="deviceList1" style="display:none">
-                       <!-- <h3>Style</h3>-->
-                        <ul>
-                        <!--<li><a href="#" id="style_ ">Style</a></li>-->
-							                                    <li>
-                                    <a href="#style=232" id="style_232">
-                                    Pocket Ready                                    </a>
-                                    </li>
-                                                                        <li>
-                                    <a href="#style=183" id="style_183">
-                                    Vintage                                    </a>
-                                    </li>
-                                                                        <li>
-                                    <a href="#style=182" id="style_182">
-                                    Formal                                    </a>
-                                    </li>
-                                                                        <li>
-                                    <a href="#style=185" id="style_185">
-                                    Modern                                    </a>
-                                    </li>
-                                                                        <li>
-                                    <a href="#style=186" id="style_186">
-                                    Floral                                    </a>
-                                    </li>
-                                                                        <li>
-                                    <a href="#style=187" id="style_187">
-                                    Minimalist                                    </a>
-                                    </li>
-                                                                        <li>
-                                    <a href="#style=184" id="style_184">
-                                    Scroll                                    </a>
-                                    </li>
-                                                        	</ul>
-                    </div>
-                        </div>
-                    </li>
-                 
-                    
-                    
-                    
-                    <li><div class="outer"><div class="select type"><span id="flexbox_results2">Type</span><div class="arrow">
-                    <a href="#" onclick="return false;"><img src="http://www.basicinvite.com/skin/frontend/default/basic_invite/images/down_arrow.gif" id="flex_button2" width="19" height="21" alt=""></a></div></div>
-                    <div>
-                    <div class="select_on_click" id="deviceList2" style="display:none">
-                        <!--<h3>Type</h3>-->
-                        <ul>
-                        <!--<li><a href="#" id="type_ ">Type</a></li>-->
-							                                    <li>
-                                    <a href="#type=71" id="type_71">
-                                    Flat Card                                    </a>
-                                    </li>
-                                                                        <li>
-                                    <a href="#type=70" id="type_70">
-                                    Folded Card                                    </a>
-                                    </li>
-                                                        	</ul>
-                    </div>
-                    </div>
-                    </div></li>
-                    <li><div class="select photos"><span id="flexbox_results3">Photos</span><div class="arrow">
-                    <a href="#" onclick="return false;"><img src="http://www.basicinvite.com/skin/frontend/default/basic_invite/images/down_arrow.gif" id="flex_button3" width="19" height="21" alt=""></a></div>
-                    <div>
-                    <div class="select_on_click" id="deviceList3" style="display:none">
-                       <!-- <h3>Photos</h3>-->
-                        <ul>
-                        <!--<li><a href="#" id="photos_ ">Photos</a></li>-->
-							                                    <li>
-                                    <a href="#photos=17" id="photos_17">
-                                    No Photos                                    </a>
-                                    </li>
-                                                                        <li>
-                                    <a href="#photos=18" id="photos_18">
-                                    Photos                                    </a>
-                                    </li>
-                                                        	</ul>
-                    </div>
-                    </div>
-                    </div></li>
-                    <li><div class="select size"><span id="flexbox_results4">Size</span><div class="arrow">
-                    <a href="#" onclick="return false;"><img src="http://www.basicinvite.com/skin/frontend/default/basic_invite/images/down_arrow.gif" id="flex_button4" width="19" height="21" alt=""></a></div>
-                    <div>
-                    <div class="select_on_click" id="deviceList4" style="display:none">
-                       <!-- <h3>Size</h3>-->
-                        <ul>
-                        <!--<li><a href="#" id="size_ ">Size</a></li>-->
-							                                    <li>
-                                    <a href="#size=169" id="size_169">
-                                    Traditional                                    </a>
-
-
-                                    </li>
-                                                                        <li>
-                                    <a href="#size=15" id="size_15">
-                                    Tea                                    </a>
-
-
-                                    </li>
-                                                                        <li>
-                                    <a href="#size=16" id="size_16">
-                                    Square                                    </a>
-
-
-                                    </li>
-                                                                        <li>
-                                    <a href="#size=194" id="size_194">
-                                    Directions                                    </a>
-
-
-                                    </li>
-                                                                        <li>
-                                    <a href="#size=195" id="size_195">
-                                    RSVP                                    </a>
-
-
-                                    </li>
-                                                                        <li>
-                                    <a href="#size=196" id="size_196">
-                                    Accommodations                                    </a>
-
-
-                                    </li>
-                                                                        <li>
-                                    <a href="#size=197" id="size_197">
-                                    Ceremony                                    </a>
-
-
-                                    </li>
-                                                                        <li>
-                                    <a href="#size=198" id="size_198">
-                                    Registry                                    </a>
-
-
-                                    </li>
-                                                                        <li>
-                                    <a href="#size=218" id="size_218">
-                                    Thank you                                    </a>
-
-
-                                    </li>
-                                                                        <li>
-                                    <a href="#size=217" id="size_217">
-                                    Save the date                                    </a>
-
-
-                                    </li>
-                                                                        <li>
-                                    <a href="#size=219" id="size_219">
-                                    Belly Band                                    </a>
-
-
-                                    </li>
-                                                                        <li>
-                                    <a href="#size=220" id="size_220">
-                                    Logo Square                                    </a>
-
-
-                                    </li>
-                                                                        <li>
-                                    <a href="#size=221" id="size_221">
-                                    Table Card                                    </a>
-
-
-                                    </li>
-                                                        	</ul>
-                    </div>
-                    </div>
-                    </div></li>
-                    <li><div class="select price_custom"><span id="flexbox_results5">Price</span><div class="arrow">
-                    <a href="#" onclick="return false;"><img src="http://www.basicinvite.com/skin/frontend/default/basic_invite/images/down_arrow.gif" id="flex_button5" width="19" height="21" alt=""></a></div>
-                    <div> 
-                    <div class="select_on_click" id="deviceList5" style="display:none">
-                        <!--<h3>Price</h3>-->
-                        <ul>
-                        <!--<li><a href="#" id="price_ ">Price</a></li>-->
-						                                    <li>
-                                    <a href="#price_custom=235" id="price_custom_235">
-                                    $                                    </a>
-
-
-                                    </li>
-                                                                        <li>
-                                    <a href="#price_custom=234" id="price_custom_234">
-                                    $$                                    </a>
-
-
-                                    </li>
-                                                                        <li>
-                                    <a href="#price_custom=233" id="price_custom_233">
-                                    $$$                                    </a>
-
-
-                                    </li>
-                                                        	</ul>
-                    </div>
-                    </div>
-                    </div></li>
-                  <li class="last">
-                        
-                            <fieldset>
-<!-- AW SAaS starts -->
-
-
-        	<div style="clear: both">
-<div class="search_bg">
-        	<input id="search" type="text" class="input-text text" name="name" value="Site Search" onfocus="if (this.value=='Site Search') this.value='';" onkeyup="document.getElementById('hidden_search_value').value = this.value;" onblur="if (this.value.empty()){this.value='Site Search'}">
-<div id="search_autocomplete" class="search-autocomplete"></div>
-</div>
-
-<input type="submit" class="btn" value="" name="">
-
-        	
-
-        	</div>
-
-
-
-<script type="text/javascript">
-//<![CDATA[
-	var installPath = "http://www.basicinvite.com/";
-	var skinPath = "http://www.basicinvite.com/skin/frontend/default/aw/";
-	var storeId = "1";
-//]]>
-</script>
-
-<!-- AW SAaS ends-->
-                            </fieldset>
-                        <input type="hidden" id="hidden_search_value" name="name" value="Site Search">
-                    </li>
-                    
-              </ul>
-            </div>
-            </fieldset>
-            </form>
- 
- <script type="text/javascript">
- /* <![CDATA[ */
-function selectedSeachCriteria()
-{
-	var style_value = document.getElementById('style_text').value ;
-	var type_value = document.getElementById('type_text').value ;
-	var photos_value = document.getElementById('photos_text').value ;
-	var size_value = document.getElementById('size_text').value ;
-	var price_value = document.getElementById('price_text').value ;
-	if(trim(style_value))
-	{
-		document.getElementById('flexbox_results1').innerHTML = style_value;
-	}
-	if(trim(type_value))
-	{
-		document.getElementById('flexbox_results2').innerHTML = type_value;
-	}
-	if(trim(photos_value))
-	{
-		document.getElementById('flexbox_results3').innerHTML = photos_value;
-	}
-	if(trim(size_value))
-	{
-		document.getElementById('flexbox_results4').innerHTML = size_value;
-	}
-	if(trim(price_value))
-	{
-		document.getElementById('flexbox_results5').innerHTML = price_value;
-	}
-	
-}
-
-selectedSeachCriteria();
-
-/* ]]> */
-</script>
-            <!--header ends-->
-
-       <!-- <h1 id="logo"><a href=""><img src="" alt="" /></a></h1>
-        <p class="no-display"><a href="#main"><strong> &raquo;</strong></a></p>
-                <div class="quick-access">
-           <br />
-            <div class="shop-access">
-                            </div>
-                    </div>-->
+    <div id="nav-container-customer">
     </div>
-</div>        </div>
-                
-        <!-- end header -->
+    <div class="clear"></div>
+  </div>
+</div>
 
-        <!-- start middle -->
-        <div class="middle-container">
-            <div class="middle col-1-layout">
-                            <h4 class="no-display">You're currently on:</h4>
-<ul class="breadcrumbs">
-            <li class="home">
-                    <a href="http://www.basicinvite.com/" title="Go to Home Page">Home</a> &gt;
-                </li>
-                <!--<li>  </li>-->
-                    <li class="cms_page">
-                    <strong>Privacy Policy</strong>                 </li>
-                <!--<li>  </li>-->
-            </ul>
-            
- 
-            <!-- start center -->
-                <div id="main" class="col-main">
+<script type="text/javascript">
+  document.observe("dom:loaded", function() {
+    ultMenu("exploded-menu", {"show_delay":"100", "hide_delay":"100"});
+  });
+</script>
 
-                <!-- start content -->
-                    <div id="cs_top_container">
+        <!-- Top Links -->
+        <div class="toplinks">
+        		        		        		        		<div class="form-language flags">
+            <a href="http://www.basicinvite.com/privacy-policy/?___store=default&amp;___from_store=default" class="selected">
+          <img class="flag-img" src="http://www.basicinvite.com/skin/frontend/base/default/images/flags/Default Store View.gif" alt="Default Store View">
+        </a>
+            <a href="http://www.basicinvite.com/privacy-policy/?___store=new&amp;___from_store=default">
+          <img class="flag-img" src="http://www.basicinvite.com/skin/frontend/base/default/images/flags/new.gif" alt="new">
+        </a>
+    </div>
+        </div>
+
+        <div class="top-container"><!-- begin olark code -->
+        <script type="text/javascript">
+          window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){f[z]=function(){(a.s=a.s||[]).push(arguments)};var a=f[z]._={},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={0:+new Date};a.P=function(u){a.p[u]=new Date-a.p[0]};function s(){a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{b.contentWindow[g].open()}catch(w){c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{var t=b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
+          loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+        </script>
+        <noscript><a href="https://www.olark.com/site/1444-766-10-3098/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
+        <!-- olark magento cart saver -->
+        <script type="text/javascript">
+          olark.extend("CartSaver");
+          olark.configure("CartSaver.version", "Magento@1.0.9");
+          olark.configure("CartSaver.customer", {"name":" ","email":null,"billing_address":false,"shipping_address":false});
+          olark.configure("CartSaver.items", []);
+          olark.configure("CartSaver.magento", {"total":null,"formatted_total":"$0.00","extra_items":[{"name":"subtotal","price":null,"formatted_price":"$0.00"},{"name":"grand_total","price":null,"formatted_price":"$0.00"}],"recent_events":null});
+        </script>
+        <!-- custom olark config -->
+        
+        <script>
+          olark.identify("1444-766-10-3098");
+        </script></div>    </div>
+</div>
+        <div class="main-container col1-layout">
+            <div class="main">
+                                <div class="col-main">
+                                        <div id="aw_popup_wraper" style="display: none;"></div>
+<div id="aw_popup_window" style="display: none;">
+    <div id="aw_popup_header">
+        <span id="aw_popup_title"></span>
+        <img id="aw_popup_close_btn" onclick="Popup.hideWindow();return false;" src="http://www.basicinvite.com/skin/frontend/default/default/popup/images/close_label.gif">
+    </div>
+    <div id="aw_popup_content">
+    </div>
+</div>
+
+<script type="text/javascript">
+    document.observe('dom:loaded', function () {
+        var ajaxUrl = 'http://www.basicinvite.com/popup/index/ajax/page/cms/';
+        if (window.location.href.match('https://') && !ajaxUrl.match('https://')) {
+            ajaxUrl = ajaxUrl.replace('http://', 'https://');
+        }
+        Popup.init(ajaxUrl + 'rand/' + Math.round(Math.random() * 1000000));
+    });
+</script>
+<div class="std"><div id="cs_top_container">
   <div id="cs_title">
     <h1 class="c1">Privacy Policy</h1>
   </div>
@@ -1171,222 +564,354 @@ selectedSeachCriteria();
       <div class="back_to_top"><a href="#">&lt; back to top</a></div>
     </dd>
   </dl>
-</div>
-                <!-- end content -->
-                
+</div></div>                </div>
+            </div>
+        </div>
+        <div id="ult-footer-wrapper">
+	<!-- Footer Tabs Section -->	
+  	<div class="ult-footer">
 
+  <!-- TABS -->
+  <ul id="ult-footer-tab-nav" class="ult-footer-tabs">
+    <li id="li_MainMenu" class="li_click on" onclick="footerTabClick(this);"><a href="javascript:void(0);">Free</a></li>
+    <li id="li_About" class="li_click off" onclick="footerTabClick(this);"><a href="javascript:void(0);">About</a></li>
+    <li id="li_Help" class="li_click off last" onclick="footerTabClick(this);"><a href="javascript:void(0);">Help</a></li>
+    <!--<li id="li_SmallPrint" class="li_click off last"  onclick="footerTabClick(this);"><a href="javascript:void(0);">Sale</a></li>-->
+  </ul>
+
+  <div class="ult-footer-tab-content-wrapper">
+    <div id="footer-tab-pointer"></div>
+
+    <!-- CONTENT Main -->
+    <div id="MainMenu" class="ult-footer-tab-content show">
+      <!-- List One -->
+      <ul class="ult-footer-tab-content-ul">
+              <a href="http://www.basicinvite.com/#/">
+              <div class="free-box box-1">
+            	<div class="free-image">
+            		<div class="free-content">
+            			<h4>Free Envelopes</h4>
+            			<p>Free white envelopes included with every invite, save-the-date, and rsvp order.</p>
+            		</div>
+            	</div>
+            </div>
+            </a>
+      </ul>
+      <!-- List Two -->
+      <ul class="ult-footer-tab-content-ul">
+             <a href="http://www.basicinvite.com/#/">
+             <div class="free-box box-2">
+                <div class="free-image">
+                	<div class="free-content">
+                		<h4>Instant Previews</h4>
+                		<p>Change colors, text, patterns, upload photos and more! Preview your invitations instantly.</p>
+                	</div>
                 </div>
-            <!-- end center -->
-
             </div>
-            
-        </div>
-        <!-- end middle -->
-
-        <!-- start footer -->
-        <div class="footer-container">
-           <div id="footer">
-  <div class="common">
-  <div class="row">
-                    <div class="free_box">
-                        <h3>
-                        <img src="/images/footer_promo/free_envelope.gif" width="155" height="26" alt="Free envelopes with every wedding invitation order"></h3>
-                       
-                        <img src="/images/footer_promo/envelope.gif" width="94" height="79" alt="Free envelopes with every wedding invitation order" class="envelop">
-                        <p>with every Invitation, RSVP,<br>
-                      Save-the-date, and<br> Thank-you card order.</p>
-                    </div>
-                    
-                    <div class="free_box">
-                        <h3>
-                        <img src="/images/footer_promo/free_proofs_title.gif" width="116" height="25" alt="Free eproofs with every wedding invitation order."></h3>
-<img class="eproof right" src="/images/footer_promo/free_proofs_icon.jpg" width="83" height="83" alt="Free eproofs on all wedding invitation orders">   
-<p>Before your order is printed,<br>we will email you an UNLIMITED<br> amount of proofs.</p>
-                                            
-                    </div>
-                    
-                    <div class="free_box last ">
-                         <h3 class="head">
-                        <img src="/images/footer_promo/free_customization.gif" width="189" height="18" alt="Free wedding invitation customization."></h3>
-                        <p>Customize <span class="underline">EVERY</span> invitation to <br>match your colors &amp; personality.</p>
-                        <h4>
-                        <img src="/images/footer_promo/color_selection.jpg" width="156" height="24" alt="Choose from thousands of colors to customize your wedding invitation." class="right"></h4>
-                    </div>
-</div>
-          
-     <div class="add">
-      <div class="left">
-        <!-- AddThis Button BEGIN
-        <div class="addthis_btn"><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=basicinvite"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a>
-          <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=basicinvite"></script>
-       <script type="text/javascript">
-var addthis_config = {
-  data_use_flash: false
-}
-</script> 
-</div> -->
-        <!-- AddThis Button END -->
-        <a href="http://www.facebook.com/pages/Lehi-UT/Basic-Invite/205628757951?v=wall"><img src="http://www.basicinvite.com/skin/frontend/default/basic_invite/images/facebook.gif" width="121" height="31" alt="Join Us On Facebook" class="addimg"></a> <a href="http://www.twitter.com/basicinvite"><img src="http://www.basicinvite.com/skin/frontend/default/basic_invite/images/twitter.gif" width="80" height="30" alt="Join Us On Twitter" class="addimg"></a> <a href="/blog"><img src="http://www.basicinvite.com/skin/frontend/default/basic_invite/images/our_blog.gif" width="79" height="31" alt="Basic Invite Offical Blog" class="addimg"></a> </div>
-      <div class="right"> <img src="http://www.basicinvite.com/skin/frontend/default/basic_invite/images/cc_logos.jpg" width="165" height="30" alt="Visa, Mastercard, Discover, American Express"></div>
+            </a>
+      </ul>
+      <!-- List Three -->
+      <ul class="ult-footer-tab-content-ul">
+           <a href="http://www.basicinvite.com/#/">
+           <div class="free-box box-3">
+            	<div class="free-image">
+            		<div class="free-content">
+            			<h4>Make It Yours</h4>
+            			<p>Customize EVERY invitation to match your colors, style &amp; personality.</p>
+            		</div>
+            	</div>
+            </div>
+            </a>
+      </ul>
     </div>
-    <div class="row">
-      <div class="col1"> 
-      <div id="bbb_seal"><a id="bbblink" class="ruvtbum" style="display: block; position: relative; overflow: hidden; width: 60px; height: 108px; margin: 0px; padding: 0px;" title="Basic Invite is a BBB Accredited Invitations and Announcement Supplier in Lehi, UT" href="http://www.bbb.org/utah/business-reviews/invitations-and-announcement-suppliers/basic-invite-in-lehi-ut-22172150#bbblogo"><img id="bbblinkimg" style="padding: 0px; border: none;" src="https://seal-utah.bbb.org/logo/ruvtbum/basic-invite-22172150.png" alt="Basic Invite is a BBB Accredited Invitations and Announcement Supplier in Lehi, UT" width="120" height="108"></a>
-<script type="text/javascript">// <![CDATA[
-var bbbprotocol = ( ("https:" == document.location.protocol) ? "https://" : "http://" ); document.write(unescape("%3Cscript src='" + bbbprotocol + 'seal-utah.bbb.org' + unescape('%2Flogo%2Fbasic-invite-22172150.js') + "' type='text/javascript'%3E%3C/script%3E"));
-// ]]></script><script src="https://seal-utah.bbb.org/logo/basic-invite-22172150.js" type="text/javascript"></script>
-</div>
-<div id="authorizenet"><!-- (c) 2005, 2009. Authorize.Net is a registered trademark of CyberSource Corporation -->
-<div class="AuthorizeNetSeal">
-<script type="text/javascript">// <![CDATA[
-                            var ANS_customer_id="932fbd8b-973e-4935-957b-ac1e352200e6";
-// ]]></script>
-<script src="//verify.authorize.net/anetseal/seal.js" type="text/javascript">
-</script>
-</div>
-</div>
-<div id="SSL_seal">
-<p><span id="siteseal">
-<script src="https://seal.godaddy.com/getSeal?sealID=SHAUXCgACqB7zhDQXzTiJHpWhoTCjQzUpu7DTVaaQj9t1FjaJzAWjh2EJfbM" type="text/javascript"></script>
-</span></p>
-<p><a title="Safe Online Shopping" rel="shadowbox;width=700;height=400" href="/safe-online-shopping.html">learn more about how to<br> make safe purchases online</a></p>
-</div>
-      </div>
-      <div class="col2">
-        <h3>wedding tips newsletter</h3>
-        <p>Sign up for our free  wedding tips
-          newsletter and stay up-to-date in the
-          latest trends. </p>
-<form action="http://www.basicinvite.com/newsletter/subscriber/new" method="post" id="newsletter-validate-detail">        
-<!--<form action="{{site url='newsletter/subscriber/new'}}" method="post" id="newsletter-validate-detail">-->
-          <fieldset>
-            <label for="newsletter">Sign up for our newsletter:</label>
-            <input name="email" type="text" id="newsletter" class="required-entry validate-email input-text">
-            <input name="verify" type="text" id="newsletter_verify" class="hidden">
-            <input type="submit" class="btn" value="" name="">
-          </fieldset>
-        </form>
-        <script type="text/javascript">
-                        //<![CDATA[
-                            var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
-                        //]]>
-                        </script>
 
-<!-- Get Satisfaction Script Begin
-<script type="text/javascript" charset="utf-8">
-  var is_ssl = ("https:" == document.location.protocol);
-  var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
-  document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
+    <!-- CONTENT About -->
+    <div id="About" class="ult-footer-tab-content hide">
+      <ul class="ult-footer-tab-content-ul">
+             <li><strong>Quality Invitations</strong></li>
+             <li>We use heavyweight premium card stock and the latest in printing technologies. Unparalleled customization options, and instant previews, make your purchase fun!</li>
+             <li class="ult-li-arrow"><a href="http://www.basicinvite.com/about-us/">Learn more</a></li>
+      </ul>
+      <ul class="ult-footer-tab-content-ul">
+        <li><strong>Connect With Us</strong></li>
+        <li class="ult-li-arrow"><a href="/blog">Follow our blog</a></li>
+        <li class="ult-li-arrow"><a href="https://www.facebook.com/basicinvite" onclick="window.open(this.href, '_blank');return false;">Follow us on Facebook</a></li>
+        <li class="ult-li-arrow"><a href="https://twitter.com/basicinvite" onclick="window.open(this.href, '_blank');return false;">Follow us on Twitter</a></li>
+        <li class="ult-li-arrow"><a href="https://www.pinterest.com/basicinvite" onclick="window.open(this.href, '_blank');return false;">Follow us on Pinterest</a></li>
+        <li class="ult-li-arrow"><a href="https://plus.google.com/u/0/b/111047390409244815321/111047390409244815321" onclick="window.open(this.href, '_blank');return false;">Follow us on Google+</a></li>
+      </ul>
+	  <ul class="ult-footer-tab-content-ul">
+        <li><strong>Testimonials and Reviews</strong></li>
+        <li>We're always happy to hear from our customers!  On every product page you can read honest feedback from real customers. 
+        </li><li class="ult-li-arrow"><a href="http://www.basicinvite.com/testimonials/">Read Testimonials</a></li>
+      </ul>
+      <ul class="ult-footer-tab-content-ul">
+         <li><strong>Contact Us</strong></li>
+         <li>Toll Free: 1.800.705.1243</li>
+         <li>Basic Invite</li>
+         <li>1224 S River Road<br>
+Suite B208<br>
+St. George UT, 84790</li>
+       </ul>
+    </div>
+  
+    <!-- CONTENT Help -->
+    <div id="Help" class="ult-footer-tab-content hide">
+      <ul class="ult-footer-tab-content-ul">
+        <li><strong>Etiquette</strong></li>
+        <li>To assist you with creating the perfect invite, we've created an <a href="http://www.basicinvite.com/wedding-etiquette/">etiquette resource center</a>.  Complete with <a href="http://www.basicinvite.com/wedding-etiquette/wedding-invitation-wording-samples/">wording examples</a>, <a href="http://www.basicinvite.com/wedding-etiquette/wedding-invitation-etiquette/">wedding invitation etiquette</a>, <a href="http://www.basicinvite.com/wedding-etiquette/wedding-invitation-assembly/">assembly instructions</a>,  <a href="http://www.basicinvite.com/wedding-etiquette/">and more</a>.</li>
+      </ul>
+      <ul class="ult-footer-tab-content-ul">
+        <li><strong>Frequently Asked Questions</strong></li>
+        <li>Many questions you may have about ordering with us, can be answered on our <a href="http://www.basicinvite.com/faq/">frequently asked questions page</a>.</li>
+      </ul>
+      <ul class="ult-footer-tab-content-ul">
+        <li><strong>Customer Service</strong></li>
+        <li><a href="/sales/order/history">Check on the status of an order</a>
+        </li><li><a href="http://www.basicinvite.com/ordertrouble/">Report a problem with your order</a></li>
+         <li><a href="http://www.basicinvite.com/customer-service/">Read customer service policies</a></li>
+      </ul>
+      <ul class="ult-footer-tab-content-ul">
+        <li><strong>Policies and Terms</strong></li>
+        <li class="ult-li-arrow"><a href="http://www.basicinvite.com/customer-service/">Customer Service Page</a></li>
+        <li class="ult-li-arrow"><a href="http://www.basicinvite.com/terms/">Terms and Conditions</a></li>
+        <li class="ult-li-arrow"><a href="http://www.basicinvite.com/privacy-policy/">Privacy Policy</a></li>
+        <li class="ult-li-arrow"><a href="http://www.basicinvite.com/satisfaction-guarantee/">Satisfaction Guarantee</a></li>
+      </ul>
+    </div>
 
-<script type="text/javascript" charset="utf-8">
-  var feedback_widget_options = {};
-
-  feedback_widget_options.display = "overlay";  
-  feedback_widget_options.company = "basic_invite";
-  feedback_widget_options.placement = "left";
-  feedback_widget_options.color = "#222";
-  feedback_widget_options.style = "question";
-  var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
-</script> -->
-
-     <!-- Get Satisfaction Script End -->
-      </div>
-      <div class="col3"><h3>helpful links</h3>
-<ul class="footer_helpful">
-<li><a href="/wedding-invitations.html">wedding invitations</a></li>
-<li><a href="/wedding-accessories.html">wedding accessories</a></li>
-<li><a href="/wedding-etiquette">wedding etiquette</a></li>
-<li><a href="/about-us">about us</a></li>
-<li><a href="/testimonials">testimonials</a></li>
-<li><a href="/contacts">contact us</a></li>
-<li><a href="/terms">terms and conditions</a></li>
-<!--<li><a href="#" onclick="com.basicinvite.config.debugAddToCart=1;alert('Debug On');return false;">Turn On Debug</a></li>-->
-</ul></div>
-      <div class="col4">
-        <h3><span class="cc_title">customer care</span><span class="phone"></span></h3>
-        <h4>1.800.705.1243</h4>
-        <p></p><p>M-S, 9am to 6pm MST<br> Closed all major holidays.</p><p></p>
-        <p> Visit us at<br>
-98 West Main<br>Suite B<br>Lehi, Utah 84043</p>
-      </div>
+    <!-- CONTENT Small Print -->
+    <div id="SmallPrint" class="ult-footer-tab-content hide">
+       <!-- List One-->
+      <ul class="ult-footer-tab-content-ul">
+              <a href="/wedding/wedding-invitations/folded-wedding-invitations.html">
+              <div class="free-box box-1">
+            	<div class="free-image">
+            		<div class="free-content">
+            			<h4>Discount on Thank you Cards</h4>
+            			<p>Save 20% on your thank you cards when you order your wedding invitations with us. Contact us for the discount code.</p>
+            		</div>
+            	</div>
+            </div>
+            </a>
+      </ul>
+      <!-- List Two -->
+      <ul class="ult-footer-tab-content-ul">
+             <a href="http://www.basicinvite.com/save-the-date-cards.html/">
+             <div class="free-box box-2">
+                <div class="free-image">
+                	<div class="free-content">
+                		<h4>Save-the-date Sale!</h4>
+                		<p>Save an additional 20% off save-the-date cards when you order them with your wedding invitations.  No coupon code necessary.</p>
+                	</div>
+                </div>
+            </div>
+            </a>
+      </ul>
+      <!-- List Three-->
+      <ul class="ult-footer-tab-content-ul">
+           <a href="http://www.basicinvite.com/wedding/wedding-enclosure-cards.html/">
+           <div class="free-box box-3">
+            	<div class="free-image">
+            		<div class="free-content">
+            			<h4>Enclosure Card Sale!</h4>
+            			<p>Order a RSVP card and save 10% on your second enclosure card. No coupon code necessary.</p>
+            		</div>
+            	</div>
+            </div>
+            </a>
+      </ul>
     </div>
   </div>
-  <div class="copyright">
-    <p>Copyright © 2005
-<script type="text/javascript">// <![CDATA[
- var d=new Date(); yr=d.getFullYear(); if (yr!=2005) document.write("- "+yr);
-// ]]></script>- 2020
-Basic Invite.  All rights reserved.</p>
-
-<p><a href="http://www.copyscape.com/"><img title="Do not copy content from the page. Plagiarism will be detected by Copyscape." src="http://www.basicinvite.com/skin/frontend/default/basic_invite/images/cs-wh-234x16.gif" alt="Page copy protected against web site content infringement by Copyscape" width="234" height="16"></a></p>
-<p><a href="http://validator.w3.org/check?uri=referer"><img src="http://www.basicinvite.com/skin/frontend/default/basic_invite/images/valid-xhtml10-blue.png" alt="Valid XHTML 1.0 Strict" width="88" height="31"></a></p>
-
-
-<!-- ClickDesk begin
-<script type='text/javascript'>
-var _glc =_glc || [];
-_glc.push('ag9jb250YWN0dXN3aWRnZXRyEAsSB3dpZGdldHMYwsWRAgw');
-var glcpath = (('https:' == document.location.protocol) ? 'https://contactuswidget.appspot.com/livily/browser/' : 'http://gae.clickdesk.com/livily/browser/');
-var glcp = (('https:' == document.location.protocol) ? 'https://' : 'http://');
-var glcspt = document.createElement('script'); glcspt.type = 'text/javascript'; glcspt.async = true;glcspt.src = glcpath + 'livechat.js';
-var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(glcspt, s);
-</script><noscript><p><a href='http://gae.clickdesk.com/clickdeskchat.jsp?widget_id=ag9jb250YWN0dXN3aWRnZXRyEAsSB3dpZGdldHMYwsWRAgw' ></a></p></noscript>
---> 
-
-<!-- Begin Snap Engage-->
-<script type="text/javascript">
-document.write(unescape("%3Cscript src='" + ((document.location.protocol=="https:")?"https://snapabug.appspot.com":"http://www.snapengage.com") + "/snapabug.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://snapabug.appspot.com/snapabug.js" type="text/javascript"></script><script type="text/javascript">
-SnapABug.addButton("a4e14963-732b-4427-afdf-26fd343981f7","3","75%", true);
-SnapABug.setStartChat('How can I help you today?');
-</script>
-  </div>
-</div>
-           
-        </div>
-        <!-- end footer -->
-        
-<div class="yui-ac">
-    <div id="myContainer" class="search-autocomplete yui-ac-container" style="display: none;">
-        <div class="yui-ac-content" style="">
-            <div class="yui-ac-hd">
-                Most relevant matches shown. Click Search for more items            </div>
-            <div class="yui-ac-bd" id="sac-results">
-
-            </div>
-            <div class="yui-ac-ft">
-                            </div>
-        </div>
-    </div>
 </div>
 
 <script type="text/javascript">
-//<![CDATA[
-
-	if ($('search') != null) {
-		$('search').writeAttribute('name', 'q');
-	    $('search').writeAttribute('id', 'myInput');
-	
-	    $('search_autocomplete').remove();
-	
-	    var installPath = 'http://www.basicinvite.com/searchautocomplete/ajax/suggest/';
-	    var storeId = '1';
-	    var queryDelay = 0.2;
-	    var defaultHeader = 'Most relevant matches shown. Click Search for more items';
-	    var defaultFooter = '';
-	    var maxResultsDisplayed = 10;
-	    var emptyText = 'Search entire store here...';
-	    var preloaderImage = 'http://www.basicinvite.com/skin/frontend/default/basic_invite/images/aw_searchautocomplete/preloader.gif';
-	
-	    var sacLayout = new Searchcomplete();
-	    sacLayout.initAutocomplete('http://www.basicinvite.com/searchautocomplete/ajax/suggest/', 'sac-results');
-	}
+var pos = $('li_MainMenu').cumulativeOffset();
+$('footer-tab-pointer').setStyle({ left: pos[0] + 'px' });
+</script>
     
-//]]>
+	  <div id="ult-footer-bottom-wrapper">
+	  	
+	  	<!-- Footer Bottom Section -->
+	    <div id="ult-footer-bottom">
+	      <ul class="ult-footer-tab-content-ul">
+	<div id="footer-col1" class="footer-col">
+		<ul>
+	<div id="bbb_seal">
+		<a id="bbblink" class="ruvtbum" style="display: block; position: relative; overflow: hidden; width: 60px; height: 108px; margin: 0px; padding: 0px;" title="Basic Invite is a BBB Accredited Invitations and Announcement Supplier in Saint George, Utah" href="http://www.bbb.org/utah/business-reviews/invitations-and-announcements/basic-invite-in-st-george-ut-22172150#bbblogo"></a>
+	</div>
+</ul>
+
+<ul>
+	<div id="authorizenet">
+		<div class="AuthorizeNetSeal">
+		<a href="http://verify.authorize.net/anetseal/?pid=932fbd8b-973e-4935-957b-ac1e352200e6&amp;rurl=http%3A//www.basicinvite.com/" target="_blank" title="AuthorizeNetSeal"></a>
+		</div>
+	</div>
+</ul>
+
+<ul class="last">
+	<div id="ssl-seal">
+	<a href="https://seal.godaddy.com/verifySeal?sealID=2zCXc8Y5Vi4v8nC8HBHVfjiCpizZQ3y6oFEHbgbNNfIXwD1C6qNCS0fTFu" class="ext-seal" target="_blank" title="Secure Certificate"></a>
+		<span id="learn-more">
+			<a title="Safe Online Shopping" rel="shadowbox;width=700;height=400" href="/safe-online-shopping.html">learn more about how to make safe purchases online</a>
+		</span>	
+	</div>
+	</ul>
+	</div>
+</ul>
+
+
+<!--####### Column 2 Begins ###### -->
+<ul class="ult-footer-tab-content-ul">
+	<div id="footer-col2" class="footer-col">
+		<!--<div id="chat-bubble" onclick="SnapABug.startLink();"><a href="#" onclick="return SnapABug.startLink();"><img src="https://www.snapengage.com/statusImage?w=a4e14963-732b-4427-afdf-26fd343981f7" alt="Contact us" border="0" style="padding-right:10px">Click to Chat</a></div>-->
+		<div id="store-phone">Toll Free: 1.800.705.1243</div>
+		<div id="store-hours"><p>M-F, 9am to 6pm MST<br> Closed all major holidays.</p></div>
+	</div>
+</ul>
+
+<!--######## Column 3 Begins ######-->
+<ul class="ult-footer-tab-content-ul last">
+        <div id="footer-col3" class="footer-col">
+        <!-- Social Links Begin
+        <div id="footer-social">
+   			<!-- facebook 
+   			<div class="facebook social">
+   				 <fb:like href="http://www.facebook.com/basicinvite" send="false" layout="box_count" width="58" show_faces="false"></fb:like>
+   			</div>
+   			<!-- twitter 
+   			<div class="twitter social">
+				<a href="https://twitter.com/share" class="twitter-share-button" data-count="vertical" data-url="http://www.basicinvite.com" data-via="basicinvite">Tweet</a>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+   			<!-- pinterest 
+   			<div class="pinterest social">
+				<a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.basicinvite.com&media=http%3A%2F%2Fwww.basicinvite.com%2Fimages%2Flogo.png&description=Customize%20your%20stationery%20infinite%20ways%20and%20preview%20immediately%20online." class="pin-it-button" count-layout="vertical"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
+				<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+			</div>
+   			<!-- g plus one
+   			<div class="gplusone social">
+   				 <g:plusone href="http://www.basicinvite.com" size="tall"></g:plusone>
+   			</div>
+   		</div>-->
+               <!-- Newsletter -->
+      	   <div class="block-subscribe">
+    <form action="https://www.basicinvite.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+        <div class="block-content">
+            <label for="newsletter">Sign Up for Our Newsletter:</label>
+            <div class="input-box">
+               <input placeholder="Enter Your Email" type="text" name="email" id="newsletter" title="Sign up for our newsletter" class="input-text required-entry validate-email">
+            </div>
+            <div class="actions">
+                <button type="submit" title="Subscribe" class="button"><span><span>Subscribe</span></span></button>
+            </div>
+        </div>
+    </form>
+    <script type="text/javascript">
+    //<![CDATA[
+        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    //]]>
+    </script>
+</div>
+
+           <div id="credit-cards"></div>
+</div>
+</ul>     	  <address>
+     	    Copyright © 2014 BasicInvite.com, LLC.      	  </address>
+     	   	<a href="javascript:void(0);" class="ult-back-to-top" onclick="scrollToElement('logo');">
+     	  	Back to top</a>
+     
+        <div class="clear"></div>
+	    </div>
+  </div>
+</div>        <div id="fb-root"></div>
+
+<script type="text/javascript">
+
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId  : "279012905447433",
+      status : true,
+      cookie : true,
+      xfbml  : true,
+      channelUrl : 'http://www.basicinvite.com/facebookconnect/channel/index/locale/en_US/'
+    });
+    Event.fire(window, "facebook:fbAsyncInit");
+  };
+
+  (function(d){
+    var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+    js = d.createElement('script'); js.id = id; js.async = true;
+    js.src = "//connect.facebook.net/en_US/all.js";
+    d.getElementsByTagName('head')[0].appendChild(js);
+  }(document));
+
+
+  $$('a[rel^=facebook-connect]','button[rel^=facebook-connect]').each(function(n) {
+    n.observe('click', function(event) {
+      event.stop();
+      setLocation('https://www.facebook.com/dialog/oauth?client_id=279012905447433&scope=email&redirect_uri=https://www.basicinvite.com/facebookconnect/customer_account/connect/');
+    })});
+
 </script>
 
-</div>
-</div>
 
 
-<input type="hidden" id="openDropDown"></body></html>
+
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script><ul id="customer-nav" class="nav">
+  <li id="customer-nav-account" class="level0">
+          <a id="customer-nav-account-lnk" href="https://www.basicinvite.com/customer/account/login/referer/aHR0cDovL3d3dy5iYXNpY2ludml0ZS5jb20vcHJpdmFjeS1wb2xpY3k,/">
+        <!--<span class="small">
+                  </span>-->
+        <span>My Account</span>
+      </a>
+    
+    <ul class="level0">
+      <li class="level1"><a href="https://www.basicinvite.com/sales/order/history/">
+          <span>My Orders</span></a>
+      </li>
+              <li>
+          <a href="https://www.basicinvite.com/wishlist/"><span>Saved Products</span></a>
+        </li>
+            <li>
+        <a href="https://www.basicinvite.com/review/customer/"><span>My Reviews</span></a>
+      </li>
+              <li>
+          <a href="https://www.basicinvite.com/newsletter/manage/"><span>My Subscriptions</span></a>
+        </li>
+                  </ul>
+  </li>
+  <li id="customer-nav-cart" class="level0">
+        <a class="ultmyaccount" href="http://www.basicinvite.com/checkout/cart/">
+      <!--<span class="cart-img">0</span>-->
+      <span>Shopping Cart</span>
+      <span class="cart-img">(0 items)</span>
+    </a>
+    <ul class="level0">
+      <li class="level1">
+                  <a href="http://www.basicinvite.com/checkout/cart/"><span><span>You have no items in your shopping cart.</span></span></a>
+              </li>
+    </ul>
+  </li>
+</ul>
+
+<script type="text/javascript">
+  document.observe("dom:loaded", function() {
+    ultMenu("customer-nav", {"show_delay":"100", "hide_delay":"100"});
+  });
+
+  var custNav = $('customer-nav');
+  $('nav-container-customer').appendChild(custNav);
+  custNav.show();
+</script>    </div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"b3658d1a52","applicationID":"3025701","transactionName":"NQZWYxdWCEYEV0ZdWwxMdVQRXglbSldfRxsSAlNSSkEPUBI=","queueTime":0,"applicationTime":1973,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
