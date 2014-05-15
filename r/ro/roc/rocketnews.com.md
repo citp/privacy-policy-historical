@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketnews.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113102708id_/http%3A//www.rocketnews.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketnews.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515141212id_/http%3A//www.rocketnews.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RocketNews
 
