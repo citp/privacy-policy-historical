@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the draftseason.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211042641id_/http%3A//draftseason.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the draftseason.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515020320id_/http%3A//draftseason.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - DraftSeason
+# Privacy Policy -
 
 DraftSeason knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
