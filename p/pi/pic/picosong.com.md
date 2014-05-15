@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picosong.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126055158id_/http%3A//picosong.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picosong.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516005549id_/http%3A//picosong.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - picosong
 
