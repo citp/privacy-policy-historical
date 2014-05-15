@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mikeholt.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110221520id_/http%3A//www.mikeholt.com/about.php%3Fid%3Daboutprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mikeholt.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515143106id_/http%3A//www.mikeholt.com/about.php%3Fid%3Daboutprivacy) for the most accurate reproduction.*
 
 # Mike Holt Privacy Policy
 
@@ -44,7 +44,7 @@ How can you access, update or correct your information?
 At any time, you can view and/or update your MikeHolt.com's newsletter subscriptions or your Code Forum profile as follows:
 
   * To edit your code forum profile: [click here](http://forums.mikeholt.com/usercp.php).
-  * To edit your newsletter subscription options, [click here](https://web.archive.org/web/20131110221520id_/http://www.mikeholt.com/newslettersRegister.php?action=modify) and follow the instructions displayed
+  * To edit your newsletter subscription options, [click here](https://web.archive.org/web/20140515143106id_/http://www.mikeholt.com/newslettersRegister.php?action=modify) and follow the instructions displayed
 
 
 
