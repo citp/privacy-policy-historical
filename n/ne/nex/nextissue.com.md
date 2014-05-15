@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextissue.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113010744id_/http%3A//www.nextissue.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextissue.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515120658id_/http%3A//www.nextissue.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Next Issue
 
@@ -96,6 +96,8 @@ If you have any questions or concerns regarding privacy in connection with the S
 
 Effective date: December 17, 2012
 
-Supports Android 3.1 and up. Not currently available for Kindle devices. Check Google Play for app availability for your specific device. 
+We notice you are using Internet Explorer version 8 or earlier. Please upgrade to a newer version for the best experience browsing this Website. 
+
+Supports tablets running Android 3.1 and up. Check Google Play for app availability for your specific device. 
 
 Supports Windows 8 and Windows RT devices. 
