@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cambridgesoft.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101071938id_/http%3A//www.cambridgesoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cambridgesoft.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515163532id_/https%3A//www.cambridgesoft.com/privacy) for the most accurate reproduction.*
 
 # PerkinElmer Informatics Privacy Policy
 
-PerkinElmer Informatics respects your privacy. Any personal information collected at this site will be treated with the utmost care. This Privacy Policy describes how we collect, store and use the information that you provide to us online through the CambridgeSoft.com, ChemBioNews.com, SciStore.com and ChemBioFinder.com (the "Websites"). This Privacy Policy does not apply to other Internet sites even if accessed via our Websites. If you have any questions or concerns regarding our Privacy Policy, please contact us in one of the ways provided below. 
+PerkinElmer respects your privacy. Any personal information collected at this site will be treated with the utmost care. This Privacy Policy describes how we collect, store and use the information that you provide to us online through the CambridgeSoft.com, ChemBioNews.com, SciStore.com and ChemBioFinder.com (the "Websites"). This Privacy Policy does not apply to other Internet sites even if accessed via our Websites. If you have any questions or concerns regarding our Privacy Policy, please contact us in one of the ways provided below. 
 
 ### What is Personal Information?
 
@@ -10,19 +10,19 @@ Personal information means any information from which a living individual can be
 
 ### What Personal Information We Collect
 
-PerkinElmer Informatics collects personal information about you such as your name, email address, postal address or telephone number. We automatically collect other information relating to your visit to our Websites, such as your IP address, the server into which your computer is logged on, your browser type, operating system, browser language and service provider. 
+PerkinElmer collects personal information about you such as your name, email address, postal address or telephone number. We automatically collect other information relating to your visit to our Websites, such as your IP address, the server into which your computer is logged on, your browser type, operating system, browser language and service provider. 
 
 ### How We Collect Your Personal Information
 
-PerkinElmer Informatics obtains information from you either by you typing in your personal details or by the automatic collection of information about you as you use the Websites. 
+PerkinElmer obtains information from you either by you typing in your personal details or by the automatic collection of information about you as you use the Websites. 
 
 A. Keying in Your Details:
 
-If you wish to view certain sections of our Websites, or search ChemBioFinder.com, PerkinElmer Informatics will ask you to key in standard personal information as you proceed through the stages of our online registration process. 
+If you wish to view certain sections of our Websites, or search ChemBioFinder.com, PerkinElmer will ask you to key in standard personal information as you proceed through the stages of our online registration process. 
 
 B. Automatic Collection:
 
-We use software known as cookies to facilitate navigation through our Websites. Upon your registration with PerkinElmer Informatics, you are assigned a unique number, which is stored in the cookie on your computer's hard drive. The cookies help us distinguish new visitors from returning visitors and enable us to measure the electiveness of content on the Websites and refine that content to suit our visitor's interests. PerkinElmer Informatics cookies do not contain any personally identifiable information. 
+We use software known as cookies to facilitate navigation through our Websites. Upon your registration with PerkinElmer, you are assigned a unique number, which is stored in the cookie on your computer's hard drive. The cookies help us distinguish new visitors from returning visitors and enable us to measure the electiveness of content on the Websites and refine that content to suit our visitor's interests. PerkinElmer cookies do not contain any personally identifiable information. 
 
 You may desire cookies or set your browser to alert you when cookies are being sent. Some areas of our site may not function properly if you do decline to accept cookies. 
 
@@ -30,7 +30,7 @@ You may desire cookies or set your browser to alert you when cookies are being s
 
 The principle purposes for which we collect and store your personal information are to process your registration, allow you to personalize various account settings such as communication preferences, and generally maintain the user account you hold with us. 
 
-From time to time we may contact members by email with information regarding our products and services. These communications may contain information about our partners, but all emails are originated by PerkinElmer Informatics. If you do not wish to receive marketing information, you can unsubscribe once you join. PerkinElmer Informatics members may control their email and address information, via the [My Account](http://www.perkinelmer%20informatics.com/membership/) page on our Websites. 
+From time to time we may contact members by email with information regarding our products and services. These communications may contain information about our partners, but all emails are originated by PerkinElmer. If you do not wish to receive marketing information, you can unsubscribe once you join. PerkinElmer members may control their email and address information, via the [My Account](https://web.archive.org/membership/) page on our Websites. 
 
 ### Children's Privacy
 
@@ -38,7 +38,7 @@ We do not knowingly solicit or obtain individually identifying information from 
 
 ### Where We Hold Personal Information
 
-The servers used by PerkinElmer Informatics are located within the United States of America. Please note that the laws on holding personal information in the United States of America may not be as rigorous as they are in the United Kingdom. You consent to the transfer of your personal information for these purposes. 
+The servers used by PerkinElmer are located within the United States of America. Please note that the laws on holding personal information in the United States of America may not be as rigorous as they are in the United Kingdom. You consent to the transfer of your personal information for these purposes. 
 
 ### To what third parties might we transfer personal information?
 
@@ -52,9 +52,9 @@ We may disclose personal information as required by law or when we believe that 
 
 ### How May I Review and Correct my Personal Information?
 
-You have the right to access any identifiable personal information about you that we maintain at the time of your request. PerkinElmer Informatics is committed to providing you with reasonable and practical access to your information to allow you the opportunity to identify and correct inaccuracies. 
+You have the right to access any identifiable personal information about you that we maintain at the time of your request. PerkinElmer is committed to providing you with reasonable and practical access to your information to allow you the opportunity to identify and correct inaccuracies. 
 
-Members can access and edit their personal information at any time through our Websites on the [My Account](http://www.perkinelmer%20informatics.com/membership/) page. 
+Members can access and edit their personal information at any time through our Websites on the [My Account](https://web.archive.org/membership/) page. 
 
 ### How might this Privacy Policy be changed?
 
@@ -66,6 +66,6 @@ If you have questions about our handling of personal information, you may write 
 
 ### Corporate Identity
 
-PerkinElmer Informatics is located at 940 Winter St., Waltham MA 02451 USA. 
+PerkinElmer is located at 940 Winter St., Waltham MA 02451 USA. 
 
 This Privacy Policy is effective as of 15 October 2007.
