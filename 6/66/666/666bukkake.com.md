@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 666bukkake.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103091923id_/http%3A//docs.eurorevenue.com/privacy.fiscal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 666bukkake.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515042343id_/http%3A//docs.eurorevenue.com/privacy.fiscal.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -6,7 +6,7 @@ Privacy Policy Statement
 
 This website (the "Site") is licensed to EuroRevenue.Com. 
 
-We can be reached via e-mail at [support@e-support24.bzdescsupport.com](mailto:support@e-support24.bzdescsupport.com)
+We can be reached via e-mail at [support@e-support24.com](mailto:support@e-support24.com)
 
 This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscriber and members of this Site. This is an adult Site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this Site. 
 
@@ -60,11 +60,11 @@ There may be occasions when a subscriber will be presented with special offers e
 
 **_"OPT-OUT" Revocation Procedure._**
 
-The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by sending an e-mail to [support@e-support24.bzdescsupport.com](mailto:support@e-support24.bzdescsupport.com) , clearly stating that the subscriber has revoked consent to receive any future Offers. 
+The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by sending an e-mail to [support@e-support24.com](mailto:support@e-support24.com) , clearly stating that the subscriber has revoked consent to receive any future Offers. 
 
 **_Review of Personal Information by Subscriber/Means of Challenging Data._**
 
-A subscriber to this Site can review any personal information collected by the Site relating to that subscriber by sending an e-mail to the Site's DATA CONTROLLER at <http://e-support24.bzdescsupport.com/> , clearly stating that the subscriber wishes to review the subscriber's personal information which has been collected by the Site. 
+A subscriber to this Site can review any personal information collected by the Site relating to that subscriber by sending an e-mail to the Site's DATA CONTROLLER at <http://e-support24.com/> , clearly stating that the subscriber wishes to review the subscriber's personal information which has been collected by the Site. 
 
 The individual subscriber shall have the following rights with respect to any personal information gathered by the Site: 
 
@@ -87,7 +87,5 @@ The individual subscriber shall have the following rights with respect to any pe
 Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this Site to use information that it has gathered from subscribers. 
 
 In the event of any conflicts between the Membership Terms the Conditions and this Privacy Policy Statement, the provisions of this Privacy Policy shall control. 
-
-Fiscal Group Limited, 9/1 Cooperage Lane, Gibraltar 
 
 Close Window
