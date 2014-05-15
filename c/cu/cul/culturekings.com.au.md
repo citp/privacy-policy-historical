@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the culturekings.com.au privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114014131id_/http%3A//www.culturekings.com.au/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culturekings.com.au privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515140250id_/http%3A//www.culturekings.com.au/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy | Culture Kings Online Store
 
@@ -42,6 +42,36 @@ We use cookies to help us remember and process the items in your shopping cart.
 
 If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by [contacting customer service](http://www.culturekings.com.au/contacts/).
 
+## Collection of computer data
+
+When you visit Culture Kings, our company servers will automatically record information that your browser sends whenever you visit our website. This data may include:
+
+\- Your computer's IP address  
+\- The type of browser that you are using  
+\- The webpage you were visiting before you came to our site  
+\- The pages within Culture Kings that you visit  
+\- The time spent on those pages, items and information searched for on our site, access times and dates, and other statistics.
+
+This information is collected for analysis and evaluation in order to help us improve our site and the services and products we provide. This data will not be used in association with any other personal information.
+
+  
+
+
+## Google Analytics & Google AdWords Remarketing
+
+Culture Kings use Analytics Remarketing with Google Analytics, and AdWords Remarketing with Google AdWords to advertise online. Third-party vendors, including Google, may show Culture Kings ads on sites across the Internet. This could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the Culture Kings website.
+
+Culture Kings and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimise, and serve ads based on someone's past visits to our website, and to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our site.
+
+Any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
+
+You can opt-out of Google Analytics for Display Advertising and customise Google Display Network ads [HERE](https://www.google.com/settings/ads).
+
+You can also use this Analytics opt out tool [HERE](https://tools.google.com/dlpage/gaoptout/).
+
+  
+
+
 ## Do we disclose any information to outside parties?
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
@@ -64,7 +94,7 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below. 
 
-This policy was last modified on 02/11/12.
+This policy was last modified on 07/04/14.
 
 ## Contacting Us 
 
@@ -74,4 +104,4 @@ Culture Kings Brisbane
 [orders@culturekings.com.au  
 ](mailto:orders@culturekings.com.au)115 Queen Street  
 Brisbane, QLD 4000 Australia  
-(07) 3275 3011
+(07) 3345 0522
