@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jarkey.net privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928173158id_/http%3A//www.jarkey.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jarkey.net privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515155008id_/http%3A//www.jarkey.net/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
