@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tapeheads.net privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208082047id_/http%3A//www.tapeheads.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapeheads.net privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515114639id_/http%3A//www.tapeheads.net/privacy.htm) for the most accurate reproduction.*
 
 # Tapeheads.Net Privacy Statement
 
