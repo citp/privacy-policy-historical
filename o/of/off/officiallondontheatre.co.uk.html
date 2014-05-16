@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the officiallondontheatre.co.uk privacy policy that was archived on 2013-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131101155430id_/http%3A//www.officiallondontheatre.co.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the officiallondontheatre.co.uk privacy policy that was archived on 2014-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140516035541id_/http%3A//www.officiallondontheatre.co.uk/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <style type="text/css">
@@ -14,7 +14,7 @@
 }
 </style>
     <title>Privacy | Official London Theatre</title>
-<meta name="generator" content="VYRE Unify 4.6.2.1 (www.vyre.com)">
+<meta name="generator" content="North Plains Unify 4.6.3.4 (www.vyre.com)">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="description" content="The Official London Theatre Guide website Privacy Policy">
 <meta name="keywords" content="London Theatre Guide, London Theatre, Theatre news, theatre, West End Theatre, shows, theatre tickets, Tkts, discount theatre tickets, London Theatre Tickets, first night features, Society of London Theatre, listings, plays, comedies, Shakespeare, musicals, Privacy">
@@ -52,12 +52,54 @@
 
 
    
-<div id="portlet_7746" class="portlet-wrapper vyre_portlets_StaticResourcePortlet">
+<div id="portlet_8596" class="portlet-wrapper vyre_portlets_StaticResourcePortlet">
 
 
 
 
-<div class="topStars"></div></div>
+<!--<div class="takeover" style="background:#1a0e0e;">
+	<div>
+		<a id="takeover-left" href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&c=20&mc=click&pli=8372951&PluID=0&ord=%5btimestamp" target="_blank"><img src="http://www.officiallondontheatre.co.uk/other_files/OLT/takeover/olivier/left.jpg" alt="Olivier" /></a><img src="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&c=19&mc=imp&pli=8372951&PluID=0&ord=%5btimestamp%5d&rtu=-1" alt="gif" />
+		<a id="takeover-right" href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&c=20&mc=click&pli=8372951&PluID=0&ord=%5btimestamp" target="_blank"><img src="http://www.officiallondontheatre.co.uk/other_files/OLT/takeover/olivier/right.jpg" alt="Olivier" /></a>
+	</div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){
+	setBackground();
+	$(window).resize(function(e) {
+        setBackground();
+    });
+});
+function setBackground() {
+	var wrapperWidth = 1024,
+	fullWidth = $('body').outerWidth(true);
+	var backgroundWidth = (fullWidth-wrapperWidth)/2;
+	if (fullWidth > wrapperWidth) {
+		$('#takeover-left').show();
+		$('#takeover-left').width(backgroundWidth);
+		$('#takeover-right').show();
+		$('#takeover-right').width(backgroundWidth);
+	} else {
+		$('#takeover-left').hide();
+		$('#takeover-right').hide();
+	}
+}
+</script>--></div><div id="portlet_8525" class="portlet-wrapper vyre_portlets_StaticResourcePortlet">
+
+
+
+
+<div id="bannerad-top" class="bannerad advert">
+<script type="text/javascript">
+  var ord = window.ord || Math.floor(Math.random() * 1e16);
+  document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N8644/adj/HP_OfficialLondonTheatre;sz=728x90;pos=1;ord=' + ord + '?"><\/script>');
+</script><script type="text/javascript" src="http://ad.doubleclick.net/N8644/adj/HP_OfficialLondonTheatre;sz=728x90;pos=1;ord=1045893664580057?"></script>
+<noscript>
+<a href="http://ad.doubleclick.net/N8644/jump/HP_OfficialLondonTheatre;sz=728x90;pos=1;ord=[timestamp]?">
+<img src="http://ad.doubleclick.net/N8644/ad/HP_OfficialLondonTheatre;sz=728x90;pos=1;ord=[timestamp]?" width="728" height="90" />
+</a>
+</noscript>
+</div></div>
     <div class="container">
         <div class="header">
             <!--//searchbar-->
@@ -81,7 +123,7 @@
 	<div id="search-box">
 		<div>Run by London's Theatres to make your experience showstopping</div>
 		<form onsubmit="return false;">
-			<div class="btn-group"><input placeholder="Enter show, artist or venue" type="text" class="globalSearchQuery" value=""><input type="button" value="Search" class="globalSearchButton btn" onclick="_gaq.push('MastheadSearchJump','MastheadSearchResultsjump home','mastheadSearch');"></div>
+			<div class="btn-group"><input placeholder="Enter show, artist or venue" type="text" class="globalSearchQuery" value=""><input type="button" value="Search" class="globalSearchButton btn"></div>
 		</form>
 	</div>
 	<div id="social-links">
@@ -101,9 +143,10 @@ jQuery(document).ready(function(){
 		urlQuery = "query="+queryVal,
 		urlParams = "";
 		if(queryVal != ""){
+			_gaq.push(['_trackEvent', 'MastheadSearchJump','MastheadSearchResultsjump '+queryVal,'mastheadSearch']);
 			urlParams = "?"+urlQuery;
+			window.location.href = url+urlParams;e.preventDefault();
 		}
-		window.location.href = url+urlParams;e.preventDefault();
 	});
 	jQuery(".globalSearchQuery").keyup(function(e) {
 		var code = (e.keyCode ? e.keyCode : e.which); if(code == 13) {
@@ -312,7 +355,7 @@ jQuery(document).ready(function(){
 <h3>10. Updating Information</h3>
 <p>Please let us know if the personal information which we hold about you needs to be corrected or updated at any time.</p>
 <h3>11. Changes To Our Privacy Policy</h3>
-<p>We reserve the right to make changes to the Privacy Policy from time to time. Any such changes to our Privacy Policy will be posted to the Site and, where we deem it appropriate, through e-mail notification.</p></div><ul class="page_content_images"></ul>
+<p>We reserve the right to make changes to the Privacy Policy from time to time. Any such changes to our Privacy Policy will be posted to the Site and, where we deem it appropriate, through e-mail notification.</p></div>
 
     
   
@@ -322,7 +365,23 @@ jQuery(document).ready(function(){
             </div>
             <div class="rightCol">
                 
-<div id="portlet_6433" class="portlet-wrapper vyre_portlets_StaticResourcePortlet">
+<div id="portlet_8528" class="portlet-wrapper vyre_portlets_StaticResourcePortlet">
+
+
+
+
+<div class="mpu advert sparkles offset">
+<script type="text/javascript">
+  var ord = window.ord || Math.floor(Math.random() * 1e16);
+  document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N8644/adj/HP_OfficialLondonTheatre;sz=300x250;pos=1;ord=' + ord + '?"><\/script>');
+</script><script type="text/javascript" src="http://ad.doubleclick.net/N8644/adj/HP_OfficialLondonTheatre;sz=300x250;pos=1;ord=1045893664580057?"></script>
+<noscript>
+<a href="http://ad.doubleclick.net/N8644/jump/HP_OfficialLondonTheatre;sz=300x250;pos=1;ord=[timestamp]?">
+<img src="http://ad.doubleclick.net/N8644/ad/HP_OfficialLondonTheatre;sz=300x250;pos=1;ord=[timestamp]?" width="300" height="250" />
+</a>
+</noscript>
+</div>
+</div><div id="portlet_6433" class="portlet-wrapper vyre_portlets_StaticResourcePortlet">
 
 
 
@@ -331,7 +390,7 @@ jQuery(document).ready(function(){
 	<h4>Share with your friends</h4>
     <div class="socialMedia">
     	<div class="top"></div>
-        <div class="middle" id="social-media"><ul class="socialIcon"><li style="width:45px;"><iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fweb.archive.org%2Fweb%2F20131101155430id_%2Fhttp%3A%2F%2Fwww.officiallondontheatre.co.uk%2Fprivacy%2F&amp;send=false&amp;layout=box_count&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font&amp;height=90" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:58px; height:62px;" allowtransparency="true"></iframe></li><li><iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20131101155430id_%2Fhttp%3A%2F%2Fwww.officiallondontheatre.co.uk%2Fprivacy%2F&amp;via=O_L_T&amp;text=Privacy%20%7C%20Official%20London%20Theatre&amp;count=vertical" style="width:58px; height:62px;"></iframe></li><li id="Goo"><div class="g-plusone" data-size="tall"></div></li><li><iframe width="50" scrolling="no" height="60" frameborder="0" allowtransparency="true" style="overflow: hidden; margin: 0pt; padding: 0pt; border: 0pt none;" src="http://badge.stumbleupon.com/badge/embed/5/?url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20131101155430id_%2Fhttp%3A%2F%2Fwww.officiallondontheatre.co.uk%2Fprivacy%2F" id="iframe-stmblpn-widget-1"></iframe></li></ul><div class="addthis_toolbox addthis_default_style"><a class="addthis_button_email"></a><a class="addthis_button_print"></a><a class="addthis_button_delicious"></a><a class="addthis_button_reddit"></a><a class="addthis_button_digg"></a><a class="addthis_button_compact">Share</a></div><script type="text/javascript" src="https://apis.google.com/js/plusone.js" async="true"></script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f915ad04aea5646"></script></div>
+        <div class="middle" id="social-media"><ul class="socialIcon"><li style="width:45px;"><iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140516035541id_%2Fhttp%3A%2F%2Fwww.officiallondontheatre.co.uk%2Fprivacy%2F&amp;send=false&amp;layout=box_count&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font&amp;height=90" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:58px; height:62px;" allowtransparency="true"></iframe></li><li><iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140516035541id_%2Fhttp%3A%2F%2Fwww.officiallondontheatre.co.uk%2Fprivacy%2F&amp;via=O_L_T&amp;text=Privacy%20%7C%20Official%20London%20Theatre&amp;count=vertical" style="width:58px; height:62px;"></iframe></li><li id="Goo"><div class="g-plusone" data-size="tall"></div></li><li><iframe width="50" scrolling="no" height="60" frameborder="0" allowtransparency="true" style="overflow: hidden; margin: 0pt; padding: 0pt; border: 0pt none;" src="http://badge.stumbleupon.com/badge/embed/5/?url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140516035541id_%2Fhttp%3A%2F%2Fwww.officiallondontheatre.co.uk%2Fprivacy%2F" id="iframe-stmblpn-widget-1"></iframe></li></ul><div class="addthis_toolbox addthis_default_style"><a class="addthis_button_email"></a><a class="addthis_button_print"></a><a class="addthis_button_delicious"></a><a class="addthis_button_reddit"></a><a class="addthis_button_digg"></a><a class="addthis_button_compact">Share</a></div><script type="text/javascript" src="https://apis.google.com/js/plusone.js" async="true"></script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f915ad04aea5646"></script></div>
         <div class="bottom"></div>
     </div>
 </div>
@@ -372,6 +431,21 @@ jQuery(document).ready(function(){
 
 
 
+<div id="bannerad-bottom" class="bannerad advert">
+<script type="text/javascript">
+  var ord = window.ord || Math.floor(Math.random() * 1e16);
+  document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N8644/adj/HP_OfficialLondonTheatre;sz=728x90;pos=2;ord=' + ord + '?"><\/script>');
+</script><script type="text/javascript" src="http://ad.doubleclick.net/N8644/adj/HP_OfficialLondonTheatre;sz=728x90;pos=2;ord=1045893664580057?"></script>
+<noscript>
+<a href="http://ad.doubleclick.net/N8644/jump/HP_OfficialLondonTheatre;sz=728x90;pos=2;ord=[timestamp]?">
+<img src="http://ad.doubleclick.net/N8644/ad/HP_OfficialLondonTheatre;sz=728x90;pos=2;ord=[timestamp]?" width="728" height="90" />
+</a>
+</noscript>
+</div></div><div id="portlet_8526" class="portlet-wrapper vyre_portlets_StaticResourcePortlet">
+
+
+
+
 <footer id="footer">
 	<div class="row-fluid no-offset">
 		<div class="span4">
@@ -407,7 +481,7 @@ jQuery(document).ready(function(){
 					</ul>
                     <h3>New York </h3>
 					<ul class="list">
-						<li><a href="http://www.broadway.org/" target="_blank" rel="nofollow" title="Site Map">Broadway.org</a></li>
+						<li><a href="/broadway/">Broadway.org</a></li>
 					</ul>
 					<ul class="list">
 						<li><a href="/sitemap/" title="Site Map">Site Map</a></li>
@@ -423,7 +497,7 @@ jQuery(document).ready(function(){
 <script type="text/javascript">
   var ord = window.ord || Math.floor(Math.random() * 1e16);
   document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N8644/adj/HP_OfficialLondonTheatre;sz=300x250;pos=2;ord=' + ord + '?"><\/script>');
-</script><script type="text/javascript" src="http://ad.doubleclick.net/N8644/adj/HP_OfficialLondonTheatre;sz=300x250;pos=2;ord=492356960392159?"></script>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/N8644/adj/HP_OfficialLondonTheatre;sz=300x250;pos=2;ord=1045893664580057?"></script>
 <noscript>
 <a href="http://ad.doubleclick.net/N8644/jump/HP_OfficialLondonTheatre;sz=300x250;pos=2;ord=[timestamp]?">
 <img src="http://ad.doubleclick.net/N8644/ad/HP_OfficialLondonTheatre;sz=300x250;pos=2;ord=[timestamp]?" width="300" height="250" />
@@ -475,6 +549,21 @@ var ID_uid_15243615 = "27844";
 </script>
 <script src="http://www.websiteperform.com/maxlive/collect/clscf.js" type="text/javascript"></script>
 <!-- END OF eVisitAnalyst CODE -->
+	
+<div id="portlet_8595" class="portlet-wrapper vyre_portlets_StaticResourcePortlet">
 
+
+
+
+<!-- Begin CMC v2.0 -->
+<script type="text/javascript">
+// <![CDATA[
+function sitestat(u) { var d = document, l = d.location; ns_pixelUrl = u + "&ns__t=" + (new Date().getTime()); u = ns_pixelUrl + "&ns_c=" + ((d.characterSet) ? d.characterSet : d.defaultCharset) + "&ns_ti=" + escape(d.title) + "&ns_jspageurl=" + escape(l && l.href ? l.href : d.URL) + "&ns_referrer=" + escape(d.referrer); var m = u.lastIndexOf("&"); if (u.length > 2000 && m >= 0) { u = u.substring(0, m + 1) + "ns_cut=" + u.substring(m + 1, u.lastIndexOf("=")).substring(0, 40) } (d.images) ? new Image().src = u : d.write('<' + 'p><' + 'img src="' + u + '" height="1" width="1" alt="*"' + '><' + '/p>'); };
+sitestat("https://uk.sitestat.com/future/blogs/s?name=official-london-theatre");
+// ]]>
+</script>
+<noscript><p><img src="https://uk.sitestat.com/future/blogs/s?name=official-london-theatre" height="1" width="1" alt="*"></p></noscript>
+<!-- End CMC -->
+</div>
 
 </body></html>
