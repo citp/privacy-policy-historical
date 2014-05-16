@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the style.com.pk privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113002352id_/http%3A//www.style.com.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the style.com.pk privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517011209id_/http%3A//www.style.com.pk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pakistan Fashion
+# Privacy Policy
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
