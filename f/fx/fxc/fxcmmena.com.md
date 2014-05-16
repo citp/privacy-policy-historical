@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxcmmena.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113210106id_/http%3A//www.fxcmmena.com/resources/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcmmena.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516091456id_/http%3A//www.fxcmmena.com/resources/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FXCM MENA
 
