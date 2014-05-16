@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greencoffeeassociation.org privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101152528id_/http%3A//www.greencoffeeassociation.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greencoffeeassociation.org privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516070259id_/http%3A//www.greencoffeeassociation.org/privacypolicy) for the most accurate reproduction.*
 
 # Green Coffee Association - Privacy Policy
 
@@ -30,19 +30,23 @@ We are committed to conducting our business in accordance with these principles 
 
 #### Upcoming Event
 
-#### GCA Annual   
-Holiday Party
+#### GCA 2014 Convention
 
-Save the Date!  
-December 13, 2013
+Register Now!  
+June 4-6, 2014
 
-[DETAILS](http://www.greencoffeeassociation.org/announcements/details/green_coffee_association_annual_holiday_party)
+[DETAILS](http://www.greencoffeeassociation.org/announcements/details/2014_gca_convention)
 
-#### Recent Event
+#### Recent Events
 
 #### GCA Annual Golf Outing & Dinner
 
 [DETAILS](http://www.greencoffeeassociation.org/announcements/details/green_coffee_association_annual_golf_outing_dinner)
+
+#### GCA Annual   
+Holiday Party
+
+[DETAILS](http://www.greencoffeeassociation.org/announcements/details/green_coffee_association_annual_holiday_party)
 
 #### Become a Member
 
