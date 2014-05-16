@@ -1,137 +1,59 @@
-> *The following text is extracted and transformed from the emarketingassociation.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116005228id_/http%3A//emarketingassociation.com/contact/privacy-policy) for the most accurate reproduction.*
-
-# eMarketing Association | Privacy
-
-This privacy statement describes the practices is applicable to [www.eMarketingAssociation.com](http://www.emarketingassociation.com/) a website managed jointly by the eMarketing Association and its licensee the Electronic Marketing Association, LLC,  (collectively referred to at the eMA).  This statement does not apply to information we collect offline.
-
-The terms outlined in this privacy policy may be updated over time. If we make a material change to the way we handle your personal information, we will notify you of that change via the email address we have on file for you.
-
-**Your Information: What, How, and Why?**
-
-**Members and Visitors**
-
-When you sign up on our site, which means you register to receive a newsletter, become a member, choose to have access to content, make a purchase, request additional information from the eMA or an advertiser, sponsor or client, you are signing up to receive communications from EMA and/or its advertisers, sponsors or clients. Specifically, you agree to:
-
-Receive communication by e-mail (on behalf of the eMA or our advertisers);
-
-Receive communication by postal mail (either from the eMA or our advertisers);
-
-Receive communication by telephone (either from the eMA or our advertisers);
-
-Receive communication by Fax (facsimile) (from the eMA);
-
-Receive communications with special messages, administrative messages, or announcements;
-
-Your information is maintained in a secure environment and is not shared with other partners except in those cases that are outlined in this statement and/or disclosed during a registration process.  The eMA employs a professional and secure e-mail hosting service to deliver e-mail newsletters and advertisements.
-
-You may choose to discontinue receiving communications from the eMA. For specific instructions on how to opt out of future communications, instructions are included in every e-mail or group communication.  For additional details, continue reading below.
-
-**eMA Member Profiles**
-
-When you sign up to participate in the eMA Community by providing additional information which upon approval by the eMA will be added to your business profile, we will collect personal and business information to establish your profile. This profile will be used by the eMA in accordance with this privacy statement.
-
-You may choose to make certain profile elements public, in which case that information would be available to anyone who visits the eMA website and (potentially) to other users of the Internet.
-
-If you post or otherwise add information to the eMA, it can be viewed by anyone online. Your postings and information will be linked to your username and to your public profile, if you establish one.
-
-**What Information Is Collected?**
-
-Any information that you provide during registration, including your full name, mailing address, e-mail address, company name, phone number, industry, and job title.
-
-IP Addresses, which are automatically provided by your web browser to our servers.
-
-Information made available through the use of cookies or pixel tags (see below for more information about cookies and/or pixel tags).
-
-Information you submit via community forums, forms, requests  and /or profile enhancements, such as the eMA business profile descriptions.
-
-**How May the Information Be Used and/or Shared?**
-
-Demographic information is used in aggregate (i.e., non-individual-specific) form to attract more relevant advertisers to improve the customer experience.
-
-Specific data points (e.g., job title, business profile data, survey results) may be used to enable us to better serve our customers’ needs through product enhancements and improved communication.
-
-Information you provide may be shared with vendors specifically to provide a service (e.g.,newsletter delivery). The information is shared only to the extent necessary to complete the transaction you requested.
-
-Information posted to community forums (along with any personal or company information that you include in a public business profile) will be generally available to anyone on the Internet.
-
-**Personally Identifiable Consumer or Business Information**
-
-In addition, we may collect information that you choose to provide to us with when requesting additional information from us or from one or more of our clients. Examples of personally identifiable data that you may provide to us include name, address, phone and email address.
-
-If you elect to provide the eMA with personally identifiable information, we may utilize such information for marketing purposes, and this use may result in follow-up communications from the eMA from our clients, or from third party services collecting information on behalf of our joint clients. In addition, that information may be combined with information collected from other sources to assist with targeting ads to your preferences and behaviors, and for other the eMA sales and marketing efforts.
-
-**Sharing Information with Third Parties**
-
-All personally identifiable information you provide is maintained in confidence by the eMA. There are instances, however, in which your personally identifiable and non-personally identifiable information is shared with third parties, as described below.
-
-Your non-personally identifiable data may be shared with third-party partners of the eMA.com on an anonymous basis.
-
-When you request information from the eMA or one or more of our sponsors, advertisers or clients, we may transfer that information within the eMA or route your information to our sponsors, advertisers or clients directly or via third parties, so that they may provide the information on their product or service.
-
-We may also disclose information to an affiliate or third party who provides services we deem relevant. In such situations, you will always be provided with an opportunity to opt-out of receiving this information. Please be aware that the eMA is careful in selecting companies with whom it does business.
-
-In addition to the above situations where your information may be shared with others, there is also the possibility that the eMA, or part(s) of our parent company, may one day be purchased by, or merged with, another company. In the event of such transaction, the acquiring (or merging) company will have access to all collected personally identifiable information.
-
-Finally, the eMA may share your information as necessary to comply with a court order or to cooperate with government and law enforcement officials.
-
-**Newsletters**
-
-As a subscriber or visitor to the eMA site, you may sign up for one of our free or paid newsletters. When you sign up for one of the newsletters, we ask for contact information, such as your name and e-mail address, and job and job title information, which are used to help us understand our audience. Additionally, if you decide that you do not wish to receive a newsletter or update any longer, you may cancel it by opting out via the links at the bottom of e-mails you receive.
-
-**Surveys**
-
-Surveys are another method by which we gather information about eMA visitors. From time to time, we request subscribers’ or newsletter subscribers’ input in order to evaluate potential features and services. The decision to answer a survey is completely yours. We use information gathered from surveys to improve our service.
-
-**Tell-A-Friend**
-
-If you elect to use our referral service for informing a friend about our site, we ask you for the friend’s name and email address. The eMA will automatically send the friend a one-time email inviting them to visit the site. eMA stores this information for the sole purpose of sending this one-time email.
-
-**Social Media**
-
-The eMA utilizes several types of social media platforms.  Each has its own privacy policy and terms of service.  Posts and interactions made on the eMA site may also be displayed within social media platforms.
-
-**How Do We Protect Subscriber Information Once We Have It?**
-
-All information is stored on a secure server. The eMA uses a Secure Socket Layer (SSL) enabled server for our Web site. Browsers will encrypt the contents of the subscription form before sending it to our server.
-
-**Cookies You Can’t Eat**
-
-**What Is a Cookie and Why Do We Use Them?**
-
-A “cookie” is a small piece of information sent by a Web server to store in a Web browser so that it can later be read back from that browser. The eMA uses cookies to store some personal preferences for your future visits. Cookies allow the eMA to recognize you more quickly; therefore, your time spent on our site is more personalized and productive. You’ll find that cookies are an industry standard and are used at most major Web sites in much the same way we use them here at the eMA. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the eMA site functionality.
-
-We use in-house and one or more third-party advertising companies to serve ads when you visit our Web site, as well as when we serve the eMA buttons, banners, badges, videos or other content on member sites or other third-party websites. In the course of serving advertisements, we or our third-party advertisers may place or recognize a unique “cookie” on your browser. While the cookie we set may be tied to your specific personal information we also may set anonymous cookies and all third party cookie data is anonymous. The eMA uses the anonymous information it collects to customize the advertisements that consumers see on participating web sites and to analyze if the advertising resulted in sales, clicks or other activity. In accordance with applicable laws and regulations, the eMA will also disclose this information in response to subpoenas, court orders and other required legal processes.
-
-The eMA and/or these companies may use information (not including your name, address, e-mail address or telephone number) about your visits to the eMA and other Web sites in order to provide advertisements on this site and other sites about goods and services that might be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
-
-In order to make the eMA a more valuable product for our subscribers and visitors, we also collect and analyze statistical information. From time to time, we share this information in aggregate with third parties. However, this data is reported only in aggregate and reveals no personal details about individual visitors to our site. This information is distributed only to help attract appropriate advertisers for the the eMA site.
-
-**Your Consent**
-
-By using our Web site and signing up for the eMA services, you consent to the collection and use of the previously mentioned information by the eMA.
-
-Updating Your Information or Opting Out
-
-You can edit or discontinue your newsletter/e-mail status at any time.
-
-To discontinue receiving all e-mail communications from the eMA:
-
-Click the link at the bottom of any e-mail that indicates “unsubscribe” or update e-mail preferences” and follow the instructions.
-
-The eMA periodically communicates information about a customer’s account and or subscription service — e-mails containing account set-up instructions, renewal notices, and information about product changes. For these types of communications, we must maintain an open channel to our customers to ensure the integrity of our service, and therefore cannot unsubscribe those individuals.
-
-**Links to Other Companies**
-
-Our websites contain many links to other company websites and to products and services offered by our business partners. Our privacy and security policies do not apply to these companies, so please check the privacy statements posted before you provide these companies with your personal information.
-
-Contact Information:
-
-The eMA
-
-Attn: Customer Support
-
-330 Old Country Road, Suite 206
-
-Mineola, NY 11501
-
-E-mail: [admin@emarketingassociation.com](mailto:admin@emarketingassociation.com)
+> *The following text is extracted and transformed from the emarketingassociation.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517001227id_/http%3A//www.emarketingassociation.com/privacy.htm) for the most accurate reproduction.*
+
+# eMA privacy policy
+
+> **Registration**  
+>  In order to use some areas of this website, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. 
+> 
+> **Order**  
+>  We request information from the user on our secure order form. Here a user must provide contact information (like name and address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
+> 
+>   
+>  **Cookies**  
+>  A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates.; For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. Some of our business partners use cookies on our site However, we have no access to or control over these cookies. Log Files We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+> 
+> **Sharing**  
+>  We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
+> 
+> **eMail**  
+>  All email from the eMA contains opt-out instructions, except personal business correspondence, and instructor emails to students which is part of their course. Newsletter subscribers, members, ecourse students, board members, sponsors, event attendees, certified marketers, inquiries and suppliers may from time to time receive email announcements from the eMA. The eMA does not send spam. All email lists maintained by the eMA are opt-in lists or lists of members and students which the eMA has a business relationship with, or those who have made inquiries to the association. The eMA does not rent, sell, or transfer it's lists to any third parties for the purposes of sending unsolicited commercial email. Anyone wishing to be permanently removed from our email lists can make that request to: [admin@emarketingassociation.com](mailto:admin@emarketingassociation.com) and your name and email address will be removed within 7 business days. 
+> 
+> Additionally, the eMA requires its members to abide by all state and federal laws regarding email, and will revoke the membership of members found in violation of those laws or unethical business practices.
+> 
+> We use an outside credit card processing company to bill users for goods and services, as well as an outside service bureau to maintain our lists. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. We partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
+> 
+> **Links**  
+>  This web site contains links to other sites. Please be aware that we the eMA are not responsible for the privacy practices or other policies or business practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. Please report links that are broken or point to sites engaged in spam or other unethical practices to our administrative department at: [admin@emarketingassociation.com](mailto:admin@emarketingassociation.com)  
+> 
+> 
+> **Newsletter**  
+>  If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address.
+> 
+> **Tell-A-Friend**  
+>  If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. The eMA will automatically send the friend a one-time email inviting them to visit the site. eMA stores this information for the sole purpose of sending this one-time email. The friend may contact the eMA at [optout@emarketingassociation.com](mailto:optout@emarketingassociation.com) to request the removal of this information from our database.
+> 
+> **Security**  
+>  This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line. When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL.While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’. While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected. If you have any questions about the security at our website, you can send an email to [security@emarketingassociation.com](mailto:security@emarketingassociation.com)
+> 
+> **Special Offers**  
+>  We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below.
+> 
+>   
+>  **Site and Service Updates**  
+>  We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone.
+> 
+> **Correction/Updating Personal Information:**  
+>  If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us Choice/Opt-out.
+> 
+> Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an ‘opt-out’ mechanism so users who buy a product from us, but don’t want any marketing material, can keep their email address off of our lists.
+> 
+> Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [optout@emarketingassociation.com](mailto:optout@emarketingassociation.com) Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
+> 
+> **Notification of Changes**  
+>  If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+> 
+> **Use of Third Party Ads:**  
+>  Our websites allow other companies, called third-party ad servers or ad networks to display advertisements on our web pages. Some of these ad networks may place a persistent cookie on your computer. Doing this allows the network to know what ads you have seen during your visit and which ads you have clicked on. This is how the program determines what their payments will be for our hosting them on our servers. 
+> 
+> We do not have access and cannot control the information shown by these companies. Any clicking and visiting of these programs is up to the viewer and is not the responsibility of the eMarketing Association.   
+> 
