@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clevelandclinicmeded.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114135637id_/http%3A//www.clevelandclinicmeded.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevelandclinicmeded.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516171549id_/http%3A//www.clevelandclinicmeded.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Cleveland Clinic Center for Continuing Education Privacy Poicy
 
