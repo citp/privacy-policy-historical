@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superyachts.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203132423id_/http%3A//www.superyachts.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superyachts.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516211125id_/http%3A//www.superyachts.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Superyachts.com
 
