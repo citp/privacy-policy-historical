@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedailymash.co.uk privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220020007id_/http%3A//www.thedailymash.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailymash.co.uk privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516033348id_/http%3A//www.thedailymash.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # The Daily Mash | Privacy Policy
 
