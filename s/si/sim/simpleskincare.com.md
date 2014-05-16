@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpleskincare.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115045747id_/http%3A//www.unileverprivacypolicy.com/en_us/policy.aspx%3Fsite%3Dwww.simpleskincare.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleskincare.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516181129id_/http%3A//www.unileverprivacypolicy.com/en_us/policy.aspx%3Fsite%3Dwww.simpleskincare.com) for the most accurate reproduction.*
 
 # Privacy Policy
 
