@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-female-orgasm.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207181434id_/http%3A//the-female-orgasm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-female-orgasm.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516035153id_/http%3A//www.the-female-orgasm.com/privacy.html) for the most accurate reproduction.*
 
 # The Female Orgasm :: Your Privacy Is Paramount
 
