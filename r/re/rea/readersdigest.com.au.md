@@ -1,45 +1,95 @@
-> *The following text is extracted and transformed from the readersdigest.com.au privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231003545id_/http%3A//www.readersdigest.com.au/readers-digest-privacy-policy-anz%3Futm_source%3Drdau%26utm_medium%3Dfooter%26utm_campaign%3DPrivacy%252BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.com.au privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516041625id_/http%3A//www.readersdigest.com.au/privacy-policy%3Ficm%3Dfooter%26icn%3DPrivacy%252BPolicy) for the most accurate reproduction.*
 
-# Reader's Digest Privacy Policy | Reader’s Digest Australia
+# Privacy Policy | Reader’s Digest Australia
 
-**General statement**  
-Many Internet users are unaware of how easy it is to give away information about themselves when they navigate the web. We respect and protect the privacy of our users. Reader’s Digest (RD) wishes the users of its online presence to know that it seeks to comply with all elements of the relevant privacy legislation. 
+**TO SERVE YOU BETTER…**
 
-**Record of visits**  
-When you visit the RD website pages, our server makes a record of the visits and logs the user's server address, the user's top-level domain name, the date and time of visit to the site, the pages accessed and documents downloaded, the previous site visited and the type of browser used for statistical purposes. No attempt is made to identify users, or their browsing activities, unless a law enforcement agency or a court exercises a valid warrant to inspect the service provider's logs.
+**General statement**
 
-**Collection of information**  
-We collect personal information from visitors to our sites during online purchasing, sweepstakes registration, online customer service activity, and other similar activities. The personal information we collect will typically be used by RD to offer you special promotional offers and exciting product opportunities from time to time. We may occasionally make your email address available to other carefully screened marketers who we believe have products of interest to you. Should you not wish to receive these offers, please email us to that effect.
+Reader's Digest (Australia) Pty Limited (RD) recognises the importance of protecting your privacy and the security of your information and we want you to be as comfortable as possible when dealing with us.
+
+This Privacy Policy explains how we protect the privacy of your information that we collect from you across our business and the choices you have concerning the use of such information, among other important issues. This Privacy Policy is compliant with the Australian privacy legislation. Please read this Privacy Policy carefully as it will apply to any information we collect about you, in whatever fashion.
+
+By providing us with information you agree to the terms of this Privacy Policy as updated.
+
+We may amend this Privacy Policy from time to time. We will post any changes to this Privacy Policy on our website so that you can always know what the latest version of our Privacy Policy is. Please refer back to our Privacy Policy on a regular basis to ensure you are up to date.
+
+**What information do we collect, and for what purposes?**
+
+RD keeps a record of your custom with RD including products you have purchased, your contact details, your prize draw history and other information which you have provided to us either on our websites, in mailings, over the phone, by emailing us, or in any other form. Some of this information is non-identifiable information and some is personally identifiable information.
+
+We generally collect your information so that:
+
+  1. we can provide you with timely customer service;
+  2. we can send you products you have purchased in our online stores or prizes or gifts that may be due to you;
+  3. we can enter you into our sweepstakes and competitions;
+  4. we can send you renewal subscription offers, new product offers, discounts and other benefit opportunities;
+  5. we can inform regulatory authorities of prize winner details as required by law; and so
+  6. we can send you other prize draw opportunities and marketing material.
+
+
+
+Without this information, RD would not be able to do any of this, so if you do not provide your personal information as requested, you may not be able to enjoy our products or services or enter our draws, for instance.
+
+In addition, RD occasionally, through proper contractual arrangements with reputable companies, acquires information regarding Australian consumers (who have so consented). The only purpose for such arrangements is to afford us the opportunity to provide these consumers promotional offers and prize draw opportunities that we believe will be of interest.
+
+Furthermore, RD will occasionally, through proper contractual agreements, share personal information from its customer lists, (who have so consented) with reliable third party companies to allow these latter to provide products/service offers that we believe may be of interest.
+
+RD also has contracts with independent suppliers who provide services related to our prize draws, payment processing and fraud screening, prize delivery etc., and these suppliers may occasionally have limited access to your personal information, in the course of providing their services. These suppliers are required to protect the personal information of all RD customers.
+
+**Social media and third party databases**
+
+We may also use your information to cross-reference it with data collected by our commercial partners to see if we can better tailor and improve our products and services.
+
+We may also seek to contact you on social media using the information we have on record, for instance to invite you to follow us on social media platforms like Facebook and Twitter.
+
+**Record of visits to our websites**
+
+When you visit the RD websites, our server makes a record with only non-identifiable information No attempt is made by RD to identify users through this information, or their browsing activities for promotional purposes.
+
+**Cookies on our websites**
+
+RD makes use of "cookies" to make our websites perform better. A "cookie" is a feature built into your browser that assigns you a "user ID". Cookies are used to follow the pattern of movements of web users. Cookies let us know which pages on our website are visited, in what order and how often. By themselves, cookies can't be used to discover your identity and produce only non-identifiable information. They merely identify your computer to our servers when you visit us. If you are unhappy about having a cookie assigned to you, you can set your browser to refuse cookies. Cookies are not used to record any personally identifiable information such as your name, address or email address. However, if you refuse to accept cookies, you may be unable to use sections of our websites and Online Store.
+
+**Security**
+
+We secure the personal information you provide to us on servers located in controlled, secure environments, protected from unauthorized access, use, or alteration. Only employees and suppliers who need access to your information to perform a specific task or function are granted access to such information. In addition, all RD employees must abide by this Privacy Policy and are kept up-to-date on security practices.
+
+**Protection of Credit Card Information**
+
+On our website, when you begin to place credit card details on the RD Online Store, a secure system software called "socket security layer" (SSL) encrypts all information you input before it is sent to us.
+
+**Third party websites**
+
+Our websites contain links to other websites not owned or operated by us (for example, if you "click" on a banner advertisement, you will likely be taken off our websites). Please be aware that we are not responsible for the privacy practices of such websites. We encourage you to be aware when our websites link to other websites and to read the privacy policies or statements of each and every website.
+
+**Overseas disclosure**
+
+We may disclose personal information about you to our Affiliate companies in the United States or other overseas entities.
+
+At any time that your personal information is transferred to overseas recipients, we use our best endeavours to ensure that each recipient is subject to a law or arrangement that will protect your personal information in a way that, overall, is equal to or greater than the protections you enjoy by virtue of Australia's Privacy Act and this policy.
+
+**Information by mail**
+
+Reader's Digest appreciates that some people may not wish to submit information via email or the Internet. If you do not wish to submit personal information to RD through our websites or via email, you can write to Customer Service Office, Reader's Digest (Australia) Pty Limited, GPO Box 4353, Sydney NSW 2001
+
+**How can you access, update or correct information that is held in your Reader's Digest customer file?**
+
+We are happy to provide you with details of information held about you on our customer file and you also have the right to correct it and update as required. To access this information, you need to email or write to us using the contact details below. Please also include your account number.
+
+**You and your privacy**
+
+If you have any questions regarding any matters related to your privacy, if you wish to cease receiving materials from RD, or if you believe there has been a breach of your privacy and wish to make a complaint or enquiry, please contact us on:
+
+**The Privacy Office**  
+Reader's Digest (Australia) Pty Limited  
+GPO Box 4353  
+Sydney NSW 2001
 
 **Email**  
-We will record your email address and other personal information if you send us a message, place an order with the RD Online Store, or respond to a prize or product opportunity. These will be used for the purpose for which you have provided them to RD and from time to time we may email, and mail you with promotional offers and opportunities to purchase products from us. Should you receive an offer, you will always be provided with the option to opt out from further offers.
+[privacy.au@readersdigest.com](mailto:privacy.au@readersdigest.com)
 
-**Cookies**  
-RD makes use of "cookies" to make our website perform better. A "cookie" is a feature built into your browser that assigns you a "user ID". Cookies are used to follow the pattern of movements of web users. Cookies let us know which pages on our website are visited, in what order and how often. By themselves, cookies can't be used to discover your identity ­ they merely identify your computer to our servers when you visit us. If you are unhappy about having a cookie assigned to you, you can set your browser to refuse cookies. Cookies are not used to record any personal information such as your name, address or email address.
+**Our Privacy Hotline**  
+1300 133 176
 
- **Security**  
-When you begin to place credit card details on the RD Online Store, a secure system software called "socket security layer" (SSL) encrypts all information you input before it is sent to us.
-
-**Information by mail**  
-Reader’s Digest appreciates that some people may not wish to submit information via email or the Internet. If you do not wish to submit personal information to RD through our websites or via email, you can write to Customer Service Office, Reader’s Digest (Australia) Pty Limited, GPO Box 4353, Sydney NSW 2001
-
-**How can I access information that is held in my Reader's Digest customer file?**  
-We are happy to provide you with details of information held about you on our customer file. To access this information, you need to email or write to us using the contact details below. Please also include your account number.
-
-**You and your privacy**  
-If you have any questions regarding any matters related to your privacy, or if you believe there has been a breach of your privacy, please contact us on:
-
-**FOR AUSTRALIAN RESIDENTS**
-
-Mailing Address:  
-The Privacy Office, Reader's Digest (Australia) Pty Limited  
-GPO Box 4353  
-Sydney NSW 2001  
-Email: [privacy.au@readersdigest.com](mailto:privacy@au.readersdigest.com)  
-Our privacy Hotline: 1300 133 176
-
-**FOR NEW ZEALAND RESIDENTS**
-
-Customer Service Office  
-Reader's Digest (New Zealand) Limited  
-P.O. Box 3372
+_Our Privacy Office will deal with any queries or complaints as soon as is practicable during business hours. Each communication with the Privacy Office will be dealt with as efficiently as possible to ensure that RD continues to be a privacy compliant company._
