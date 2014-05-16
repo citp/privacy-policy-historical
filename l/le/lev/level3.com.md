@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the level3.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113194202id_/http%3A//www.level3.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the level3.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517011150id_/http%3A//www.level3.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy | Level 3
 
-Privacy Policy of Level 3 Communications, Inc. and its group companies, including Level 3 Communications, LLC, Global Crossing Telecommunications, Inc., Global Crossing North America, Level 3 Communications Limited, Global Crossing (UK) Telecommunications Limited and other affiliated Level 3 and Global Crossing entities (referred to throughout as ‘Level 3’, ‘we’ or ‘us’). 
+Privacy Policy of Level 3 Communications, Inc. and its group companies, including Level 3 Communications, LLC, Global Crossing Telecommunications, Inc., Global Crossing North America Inc., Level 3 Communications Limited, Level 3 Communications UK Limited and other affiliated Level 3 and Global Crossing entities (referred to throughout as ‘Level 3’, ‘we’ or ‘us’). 
 
 We are committed to protecting the privacy of individuals. This Privacy Policy sets out our practices regarding personally identifiable information we collect from you, or that you provide to us, via our websites or our audio, conferencing and on-line services, as described herein.
 
@@ -48,7 +48,7 @@ The submission of your personally identifiable information constitutes your ackn
 
 ### How do we use your personally identifiable information?
 
-We take the privacy of our customers and suppliers seriously and respect your right to privacy.  Because of our commitment to protecting your privacy, personally identifiable information will be collected, processed, stored, and disposed of in accordance with applicable data protection and privacy laws.
+We take the privacy of our customers and suppliers seriously and respect your right to privacy.  Because of our commitment to protecting your privacy, personally identifiable information will be collected, processed, stored, and disposed of in accordance with this Privacy Policy.
 
 We process your personally identifiable information for a number of purposes in order to:
 
@@ -94,23 +94,21 @@ The length of time we keep your information for can vary according to how we use
 
 ### Direct Marketing
 
-We would like to keep you up to date with details of our products and services using the information that you have supplied. We will do this in accordance with applicable privacy laws and in accordance with any direct marketing permissions which were given when we collected information from you. If you would like to change these preferences, please contact the [Webmaster](mailto:webmaster@level3.com) or speak to your Account Manager.
+We would like to keep you up to date with details of our products and services using the information that you have supplied. We will do this in accordance with applicable privacy laws and in accordance with any direct marketing permissions which were given when we collected information from you. If you would like to change these preferences, please contact the [privacy@level3.com](mailto:privacy@level3.com) or speak to your Account Manager.
 
 * * *
 
 ### Transfers of your Information Outside of the European Economic Area (EEA)
 
-We are a multinational group of companies and the information that we collect from you may be transferred to, and stored at, destinations around the world. All Level 3 entities comply with this Privacy Policy when they use personally identifiable information. 
+We are a multinational group of companies and the information that we collect from you may be shared with Level 3 affiliate companies in locations around the world. All Level 3 entities comply with this Privacy Policy when they use personally identifiable information.
 
-Transfers of personally identifiable information made by Level 3 are made in compliance with the Safe Harbor principles to which Level 3 has self-certified its adherence to as can be viewed  on the [Safe Harbor](http://export.gov/safeharbor/) web site at http://export.gov/safeharbor/. 
-
-Users from the EEA should note that we will transfer personally identifiable information to countries outside the EEA, some of which may not have data protection legislation equivalent to EEA legislation. However, we ensure that all transfers of personally identifiable information to such countries to our affiliates and subcontractors or agents are done in compliance with the applicable data protection laws of the EEA. If and when you provide personally identifiable information to us, we will ask for your consent to transfer such data outside of the EEA before such transfers take place.
+Users from the EEA should note that we may transfer personally identifiable information to countries outside of the EEA where we, or our subcontractors, may store and process it.  Some countries to which personally identifiable information may be transferred may not have data protection legislation equivalent to EEA legislation, however, we will take all steps reasonably necessary to ensure that all personally identifiable information is treated securely and in accordance with this Privacy Policy.
 
 * * *
 
 ### How to Review and Update your Information
 
-You may request a copy of the personally identifiable information we hold about you, such as contact information, banking details and marketing preferences, and you may review, correct, update, change or delete this information at any time by submitting a request to the [Webmaster](mailto:webmaster@level3.com) at webmaster@level3.com _._ Please note that in certain circumstances we may withhold access to your information where we have the right to do so under current data protection legislation. 
+You may request a copy of the personally identifiable information we hold about you, such as contact information, banking details and marketing preferences, and you may review, correct, update, change or delete this information at any time by submitting a request to the [privacy@level3.com](mailto:privacy@level3.com) _._ Please note that in certain circumstances we may withhold access to your information where we have the right to do so under current data protection legislation. 
 
 * * *
 
@@ -177,19 +175,19 @@ Our websites may provide hyper-text links to other websites over which we have n
 
 ### Security
 
-We have implemented reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure our websites have security measures in place to protect against the loss, misuse and alteration of information under our control. However, the internet is an open system and we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes. Certain information may be transmitted to you by electronic mail. Although it may be illegal to intercept or disclose these messages, these transmissions are not secured.
+We have implemented reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure. Our websites have security measures in place to protect against the loss, misuse and alteration of information under our control. However, the internet is an open system and we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes. Certain information may be transmitted to you by electronic mail. Although it may be illegal to intercept or disclose these messages, these transmissions are not secured.
 
 * * *
 
 ### Customer Proprietary Network Information (CPNI)
 
-CPNI is information that we obtain when we provide telecommunications services to you, including services provided through your Level 3 local telephone company. It includes the types of telecommunications services you purchase from us, how you use them, and the related billing information for those services. CPNI does not include your telephone number, name and address. CPNI also typically includes the type of information found on your bill, such as call details and the types of local, long distance and other services telecommunications services that you have purchased. We have internal policies and safeguards designed to safeguard the privacy of CPNI and protect it from unauthorized access or improper use. In the normal course of providing telecommunications services, we collect and maintain CPNI to enable us to make more meaningful suggestions to you when discussing products and services, packages and promotions that best suit your communications needs. In the US, we are obliged to protect the confidentiality of your CPNI in accordance with federal and certain state laws. We do not sell, trade or share your CPNI, including your calling records with anyone outside of our group of companies or to third parties who perform functions on our behalf (such as billing functions) except as may be required by law or authorized by you. Generally, we are also permitted to use or disclose CPNI to offer telecommunications services of the same type that you already purchase from us. We may also use or disclose your CPNI for legal or regulatory reasons such as a court order, to investigate fraud or to protect against the unlawful use of our telecommunications network and services and to protect other users of our services and to collect bills.
+CPNI is information that we obtain when we provide telecommunications services to you, including services provided through your local telephone company. It includes the types of telecommunications services you purchase from us, how you use them, and the related billing information for those services. CPNI does not include your telephone number, name and address. CPNI also typically includes the type of information found on your bill, such as call details and the types of local, long distance and other telecommunications services that you have purchased. We have internal policies and safeguards designed to safeguard the privacy of CPNI and protect it from unauthorized access or improper use. In the normal course of providing telecommunications services, we collect and maintain CPNI to enable us to make more meaningful suggestions to you when discussing products and services, packages and promotions that best suit your communications needs. In the US, we are obliged to protect the confidentiality of your CPNI in accordance with federal and certain state laws. We do not sell, trade or share your CPNI, including your calling records with anyone outside of our group of companies or to third parties who perform functions on our behalf (such as billing functions) except as may be required by law or authorized by you. Generally, we are also permitted to use or disclose CPNI to offer telecommunications services of the same type that you already purchase from us. We may also use or disclose your CPNI for legal or regulatory reasons such as a court order, to investigate fraud or to protect against the unlawful use of our telecommunications network and services and to protect other users of our services and to collect bills.
 
 * * *
 
 ### Changes to this Privacy Policy
 
-As we grow and new features are added to our website or to our products and services, or legal requirements change, this Privacy Policy may be modified. Any changes to the Privacy Policy will be notified to you and posted on all our applicable websites. All information submitted through our websites is subject to the terms and conditions of this Privacy Policy, as amended.
+As we grow and new features are added to our website or to our products and services, or legal requirements change, this Privacy Policy may be modified. Any changes to the Privacy Policy will be posted on all our applicable websites. All information submitted through our websites is subject to the terms and conditions of this Privacy Policy, as amended.
 
 * * *
 
@@ -207,4 +205,4 @@ If you have any questions or complaints about this Privacy Policy, the informati
 > 
 > For all other worldwide locations, please contact: Privacy Officer, Legal Department, Level 3 Communications, 1025 Eldorado Blvd, Broomfield, Colorado 80021, USA.
 
-Policy Updated July 2012 
+Policy Updated January 2014 
