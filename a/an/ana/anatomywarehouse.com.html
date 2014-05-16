@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the anatomywarehouse.com privacy policy that was archived on 2013-11-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131106000312id_/http%3A//www.anatomywarehouse.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the anatomywarehouse.com privacy policy that was archived on 2014-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140516061457id_/http%3A//www.anatomywarehouse.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <script async="" charset="utf-8" src="//cdn.zopim.com/?17xB288dLpaeakbp0iWAO4xCjYha2L4c" type="text/javascript"></script><script type="text/javascript" async="" src="http://google-analytics.com/ga.js"></script><script type="text/javascript">var slide_on=false;</script>
@@ -20,9 +20,9 @@
 <![endif]-->
 <script type="text/javascript" src="http://www.anatomywarehouse.com/js/jquery/jquery-1.7.2.min.js"></script>
 <link rel="stylesheet" type="text/css" href="http://www.anatomywarehouse.com/media/css/ae2f76404cde29fee058f89f1b7a5dda.css">
-<link rel="stylesheet" type="text/css" href="http://www.anatomywarehouse.com/media/css/63c82ecbd9fc2ae1aebd92dcf8954f57.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.anatomywarehouse.com/media/css/c27cb96bebdfd3d2c8f827a0df9f87b5.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.anatomywarehouse.com/media/css/3a5c09ad4f6aa8eeef5ae1a7cce6f6e8.css" media="print">
-<script type="text/javascript" src="http://www.anatomywarehouse.com/media/js/482626649245c43169e0613b92ee306f.js"></script>
+<script type="text/javascript" src="http://www.anatomywarehouse.com/media/js/e412ee5101b2be45dc31311f24247b77.js"></script>
 <!--[if lt IE 8]>
 <link rel="stylesheet" type="text/css" href="http://www.anatomywarehouse.com/media/css/4f1cd384ae5430f5c59212efe3c1de00.css" media="all" />
 <![endif]-->
@@ -111,34 +111,55 @@ jQuery(document).ready(function($) {
         </div>
     </noscript>
     <div class="page">
-        <div id="top"></div>
+        
+     <!--[if !IE]><!--><script>  
+    if (/*@cc_on!@*/false) {  
+        document.documentElement.className+=' ie10';  
+    }  
+    </script><!--<![endif]-->  
+
+<div id="top"></div>
 
 <div class="header-container">
     <div class="header">
 
         <div class="header-right">
             <div class="minicart">
-                <!--{CART_SIDEBAR_d95fd749df6b636b480e45f1004e8e0f}--><div class="block block-cart-header">
+                <!--{CART_SIDEBAR_46cd2c7ff9d214b2a2717e3395692886}--><div class="block block-cart-header">
         <div class="block-content">
-        <span class="button-show"><a href="http://www.anatomywarehouse.com/checkout/cart/">Shopping Cart</a>        -             <span class="price">$0.00</span>                     
-        </span>
-                    <div id="header-items" class="empty">
-            <p class="empty">You have no items in your shopping cart.</p>
-        </div>
-        </div>
+        <div class="button-show"><a href="http://www.anatomywarehouse.com/checkout/cart/">MY CART</a>
+        <span class="cart_item_counts">0 Item</span>
+                         <span class="price">$0.00</span>                     
+      
+      </div>
+    
+    </div>
 </div>
-<!--/{CART_SIDEBAR_d95fd749df6b636b480e45f1004e8e0f}-->            </div>
-			
-<div id="fb-root"></div>
-	<a href="#" onclick="return fblogin();" class="fb_button_ps"><img src="http://www.anatomywarehouse.com/skin/frontend/default/default/images/belvg/fb.gif" alt="Connect with Facebook"></a>
+<!--/{CART_SIDEBAR_46cd2c7ff9d214b2a2717e3395692886}-->            </div>
+			<script>
+ /*   jQuery(document).ready(function(){
+        jquery('#my_account').hover(function(){jQuery('#my_account_content').show();},function(){jQuery('#my_account_content').hide();});
+    });*/
 
+ function showDiv(elem) {
+     document.getElementById("my_account_content").style.visibility="visible";
+ }
+
+ function hideDiv(elem) {
+     document.getElementById("my_account_content").style.visibility = "hidden"
+ }
+</script>
+<span class="hdr_shippin_msg"><div class="top-hdr-txt"><a href="http://www.anatomywarehouse.com/international-shipping/">WE ship Internationally</a><span style="padding-left: 26px;"><a href="http://www.anatomywarehouse.com/shipping-delivery/ ">Free US Shipping on orders over $100</a> </span></div></span>
+<span class="top-hdr-phone-icon"> <a id="phone_contact" href="/contact-anatomy-warehouse">800.422.1134</a></span>
 <ul class="links">
-	<a id="phone_contact" href="/contact-anatomy-warehouse"><li><span>800.422.1134</span></li></a>
-            <li><a href="/customer/account/" title="My Account">My Account</a></li>
-
-                                <li><a href="http://www.anatomywarehouse.com/checkout/" title="Checkout" class="top-link-checkout">Checkout</a></li>
-                                <!--{WISHLISTLINKS_d420c580f95bd32e08e75688c223e07a}--><li class=" last"><a href="https://www.anatomywarehouse.com/wishlist/" title="My Wishlist">My Wishlist</a></li>
-<!--/{WISHLISTLINKS_d420c580f95bd32e08e75688c223e07a}-->            </ul>
+                                                 
+     <li><a href="/customer/account/create" title="Create Account">CREATE ACCOUNT</a></li>
+     <li>
+       <div id="fb-root"></div>
+       <a href="#" onclick="return fblogin();" class="fb_button_ps"><img src="http://www.anatomywarehouse.com/skin/frontend/default/default/images/belvg/fb.gif" alt="Connect with Facebook"></a>
+     </li>
+     <li><a href="/customer/account/login" title="Login">LOGIN</a></li>
+</ul>
 
 
                         <div class="clear"></div>
@@ -156,27 +177,27 @@ jQuery(document).ready(function($) {
     <label for="search">Search</label>
     <div class="nav">
 
-                <div class="nav-search-in">
-            <span class="category-fake UI-CATEGORY-TEXT">All</span>
-            <span class="nav-down-arrow"></span>
-            <select name="cat" class="category UI-CATEGORY">
-                <option value="0">All</option>
-                                <option value="2777">
-                    Body Parts                </option>
-                                <option value="2788">
-                    Study Materials                </option>
-                                <option value="2791">
-                    Anatomy Gifts                </option>
-                                <option value="2821">
-                    Health Science                </option>
-                                <option value="2838">
-                    Manikins &amp; Simulators                </option>
-                                <option value="2930">
-                    Anatomical Models                </option>
-                                <option value="2945">
-                    Anatomy Charts                </option>
-                            </select>
-        </div>
+                    <div class="nav-search-in">
+                <span class="category-fake UI-CATEGORY-TEXT">All</span>
+                <span class="nav-down-arrow"></span>
+                <select name="cat" class="category UI-CATEGORY">
+                    <option value="0">All</option>
+                                            <option value="2930">
+                            Anatomical Models                        </option>
+                                            <option value="2945">
+                            Anatomy Charts                        </option>
+                                            <option value="2777">
+                            Body Parts                        </option>
+                                            <option value="2838">
+                            Manikins &amp; Simulators                        </option>
+                                            <option value="2821">
+                            Health Science Education                        </option>
+                                            <option value="2788">
+                            Study Materials                        </option>
+                                            <option value="2791">
+                            Anatomy Gifts                        </option>
+                                    </select>
+            </div>
         
         <div class="nav-input UI-NAV-INPUT">
             <input class="input-text UI-SEARCH" type="text" autocomplete="off" name="q" value="" maxlength="128">
@@ -186,19 +207,18 @@ jQuery(document).ready(function($) {
 
     </div>
     <div class="nav-submit-button">
-        <button type="submit" title="Go" class="button">Go</button>
+        <button type="submit" title="Search" class="button">Search</button>
     </div>
     <div style="display:none" class="searchautocomplete-placeholder UI-PLACEHOLDER"></div>
 </form></div>		<!--{WIDGET_ENTERPRISE_BANNER_8302d7f84997e5c6f0686498fd244f0b}--><div class="widget widget-banner">
         <ul>
-            <li><a href="/shipping-delivery/"><img src="http://www.anatomywarehouse.com/media/wysiwyg/AWH_header_banner.png" alt=""></a></li>
         </ul>
 </div>
 <!--/{WIDGET_ENTERPRISE_BANNER_8302d7f84997e5c6f0686498fd244f0b}-->    	</div>
         <div class="clear"></div>
     </div>
     <!--{CATALOG_NAVIGATION_b5c34f8a2091b09043321b9deb0f1476}--><div class="nav-container">
-    <div id="custommenu" style="font:1.15em Tahoma, helvetica, sans-serif;"> <!-- the font:1.15 declaration is for IE9 browsers -->
+    <div id="custommenu"> <!-- the font:1.15 declaration is for IE9 browsers -->
                 <div id="menu1" class="menu" onmouseover="wpShowMenuPopup(this, 'popup1');" onmouseout="wpHideMenuPopup(this, event, 'popup1', 'menu1')">
 <div class="parentMenu">
 <a href="http://www.anatomywarehouse.com/anatomical-models">
@@ -208,7 +228,7 @@ jQuery(document).ready(function($) {
 </div>
 <div id="popup1" class="wp-custom-menu-popup" onmouseout="wpHideMenuPopup(this, event, 'popup1', 'menu1')">
 <div class="block1">
-<div class="column first odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/all-anatomical-models"><span>All Anatomical Models</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/alternative-health-models"><span>Alternative Health Models</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/anatomy-model-sets"><span>Anatomy Model Sets</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/brain-eye-and-head-models"><span>Brain, Eye and Head Models</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/complete-human-anatomical-models"><span>Complete Human Anatomical Models</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/dental-jaw-and-teeth-models"><span>Dental, Jaw and Teeth Models</span></a></div></div><div class="column even"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/digestive-system-models"><span>Digestive System Models</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/ear-nose-and-throat-models"><span>Ear, Nose and Throat Models</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/extremities-and-joints-models"><span>Extremities and Joints Models</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/heart-and-vascular-models"><span>Heart and Vascular Models</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/human-skeleton-models"><span>Human Skeleton Models</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/medical-conditions-models"><span>Medical Conditions Models</span></a></div></div><div class="column odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/model-stands-and-displays"><span>Model Stands and Displays</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/muscular-models"><span>Muscular Models</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/nervous-and-vascular-system-models"><span>Nervous and Vascular System Models</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/reproductive-system-models"><span>Reproductive System Models</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/respiratory-system-models"><span>Respiratory System Models</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/skin-models"><span>Skin Models</span></a></div></div><div class="column last even"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/skull-models"><span>Skull Models</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/spine-and-vertebral-models"><span>Spine and Vertebral Models</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/torso-models"><span>Torso Models</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/urinary-system-models"><span>Urinary System Models</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/veterinary-models"><span>Veterinary Models</span></a></div></div>
+<div class="column first last odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/skeletons-skulls"><span>Skeletons &amp; Skulls</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/muscular-models"><span>Muscular System</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/organs-systems-and-kits"><span>Organs, Systems &amp; Kits</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/torsos-and-complete-human-models"><span>Torsos &amp; Complete Human Models</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/medical-conditions-models"><span>Medical Conditions</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/veterinary-models"><span>Veterinary Models</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomical-models/model-stands-and-displays"><span>Stands and Displays</span></a></div></div>
 <div class="clearBoth"></div>
 </div>
 </div>
@@ -221,7 +241,7 @@ jQuery(document).ready(function($) {
 </div>
 <div id="popup2" class="wp-custom-menu-popup" onmouseout="wpHideMenuPopup(this, event, 'popup2', 'menu2')">
 <div class="block1">
-<div class="column first odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-charts/all-anatomy-charts"><span>All Anatomy Charts</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-charts/alternative-health-charts"><span>Alternative Health Charts</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-charts/anatomy-chart-sets"><span>Anatomy Chart Sets</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-charts/brain-eye-and-head-charts"><span>Brain, Eye and Head Charts</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-charts/cardiovascular-system-charts"><span>Cardiovascular System Charts</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-charts/dental-and-teeth-charts"><span>Dental and Teeth Charts</span></a></div></div><div class="column even"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-charts/digestive-system-charts"><span>Digestive System Charts</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-charts/ear-nose-and-throat-charts"><span>Ear, Nose and Throat Charts</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-charts/emergency-medicine-charts"><span>Emergency Medicine Charts</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-charts/endocrine-system-charts"><span>Endocrine System Charts</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-charts/extremities-and-joints-charts"><span>Extremities and Joints Charts</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-charts/health-and-fitness-charts"><span>Health and Fitness Charts</span></a></div></div><div class="column odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-charts/medical-conditions-charts"><span>Medical Conditions Charts</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-charts/muscular-system-charts"><span>Muscular System Charts</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-charts/nervous-system-charts"><span>Nervous System Charts</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-charts/reproductive-system-charts"><span>Reproductive System Charts</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-charts/skeletal-system-charts"><span>Skeletal System Charts</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-charts/skin-charts"><span>Skin Charts</span></a></div></div><div class="column last even"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-charts/sticky-charts"><span>Sticky Charts</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-charts/urinary-system-charts"><span>Urinary System Charts</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-charts/veterinary-charts"><span>Veterinary Charts</span></a></div></div>
+<div class="column first last odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-charts/skeletal-and-muscular-anatomy-charts"><span>Skeletal &amp; Muscular</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-charts/organs-and-body-systems"><span>Organs &amp; Systems of the Body</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-charts/health-and-fitness-charts"><span>Fitness &amp; Alternative Health</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-charts/emergency-medicine-charts"><span>Emergency Medicine</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-charts/medical-conditions-charts"><span>Medical Conditions</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-charts/anatomy-chart-sets"><span>Chart Sets</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-charts/sticky-charts"><span>Sticky Charts</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-charts/spanish-anatomy-charts"><span>Spanish Charts</span></a></div></div>
 <div class="clearBoth"></div>
 </div>
 </div>
@@ -234,7 +254,7 @@ jQuery(document).ready(function($) {
 </div>
 <div id="popup3" class="wp-custom-menu-popup" onmouseout="wpHideMenuPopup(this, event, 'popup3', 'menu3')">
 <div class="block1">
-<div class="column first odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/arm"><span>Arm</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/brain"><span>Brain</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/ear"><span>Ear</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/elbow"><span>Elbow</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/eye"><span>Eye</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/foot"><span>Foot</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/gi-tract"><span>GI Tract</span></a></div></div><div class="column even"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/hand"><span>Hand</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/head"><span>Head</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/heart"><span>Heart</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/individual-organs"><span>Individual Organs</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/knee"><span>Knee</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/leg"><span>Leg</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/lung"><span>Lung</span></a></div></div><div class="column odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/mouth"><span>Mouth</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/muscles"><span>Muscles</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/nervous-system"><span>Nervous System</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/pelvis-and-hip"><span>Pelvis and Hip</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/reproductive-systems"><span>Reproductive Systems</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/shoulder"><span>Shoulder</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/skeletal-parts"><span>Skeletal Parts</span></a></div></div><div class="column last even"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/skin"><span>Skin</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/skull"><span>Skull</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/spine"><span>Spine</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/urinary-system"><span>Urinary System</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/throat"><span>Throat</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/torso"><span>Torso</span></a></div></div>
+<div class="column first last odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/head-and-neck"><span>Head &amp; Neck</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/chest-abdomen"><span>Chest &amp; Abdomen</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/back-spine"><span>Back &amp; Spine</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/pelvic-reproductive"><span>Pelvic &amp; Reproductive</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/body-parts/upper-lower-limbs"><span>Upper &amp; Lower Limbs</span></a></div></div>
 <div class="clearBoth"></div>
 </div>
 </div>
@@ -247,20 +267,20 @@ jQuery(document).ready(function($) {
 </div>
 <div id="popup4" class="wp-custom-menu-popup" onmouseout="wpHideMenuPopup(this, event, 'popup4', 'menu4')">
 <div class="block1">
-<div class="column first odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/manikins-and-simulators/advanced-life-support"><span>Advanced Life Support</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/manikins-and-simulators/basic-life-support"><span>Basic Life Support</span></a></div></div><div class="column even"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/manikins-and-simulators/casualty-simulation"><span>Casualty Simulation</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/manikins-and-simulators/nurse-training-aids"><span>Nurse Training Aids</span></a></div></div><div class="column odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/manikins-and-simulators/replacement-parts"><span>Replacement Parts</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/manikins-and-simulators/rescue-training-aids"><span>Rescue Training Aids</span></a></div></div>
+<div class="column first last odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/manikins-and-simulators/basic-life-support"><span>Basic Life Support</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/manikins-and-simulators/advanced-life-support"><span>Advanced Life Support</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/manikins-and-simulators/casualty-simulation"><span>Casualty Simulation</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/manikins-and-simulators/patient-care-trainers"><span>Patient Care Trainers</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/manikins-and-simulators/rescue-training-aids"><span>Rescue Training Aids</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/manikins-and-simulators/replacement-parts"><span>Replacement Parts</span></a></div></div>
 <div class="clearBoth"></div>
 </div>
 </div>
 <div id="menu5" class="menu" onmouseover="wpShowMenuPopup(this, 'popup5');" onmouseout="wpHideMenuPopup(this, event, 'popup5', 'menu5')">
 <div class="parentMenu">
 <a href="http://www.anatomywarehouse.com/health-science-education">
-<span>Health Science</span>
+<span>Health Science Education</span>
 </a>
 </div>
 </div>
 <div id="popup5" class="wp-custom-menu-popup" onmouseout="wpHideMenuPopup(this, event, 'popup5', 'menu5')">
 <div class="block1">
-<div class="column first odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/health-science-education/disease-prevention-education"><span>Disease Prevention Education</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/health-science-education/drug-alcohol-and-tobacco-education"><span>Drug, Alcohol and Tobacco Education</span></a></div></div><div class="column even"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/health-science-education/health-and-nutrition-education"><span>Health and Nutrition Education</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/health-science-education/pregnancy-and-parenting-education"><span>Pregnancy and Parenting Education</span></a></div></div><div class="column odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/health-science-education/sexual-education"><span>Sexual Education</span></a></div></div>
+<div class="column first last odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/health-science-education/nutrition-and-diet"><span>Nutrition &amp; Diet</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/health-science-education/drug-alcohol-and-tobacco-education"><span>Drug, Alcohol and Tobacco</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/health-science-education/sexual-education"><span>Sexual Education</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/health-science-education/pregnancy-and-parenting-education"><span>Pregnancy &amp; Parenting</span></a></div></div>
 <div class="clearBoth"></div>
 </div>
 </div>
@@ -273,7 +293,7 @@ jQuery(document).ready(function($) {
 </div>
 <div id="popup6" class="wp-custom-menu-popup" onmouseout="wpHideMenuPopup(this, event, 'popup6', 'menu6')">
 <div class="block1">
-<div class="column first odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/study-materials/books"><span>Books</span></a></div></div><div class="column even"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/study-materials/flash-cards"><span>Flash Cards</span></a></div></div><div class="column odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/study-materials/software-and-dvds"><span>Software and DVDs</span></a></div></div><div class="column last even"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/study-materials/study-guides"><span>Study Guides</span></a></div></div>
+<div class="column first last odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/study-materials/books"><span>Books</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/study-materials/flash-cards"><span>Flash Cards</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/study-materials/software-and-dvds"><span>Software and DVDs</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/study-materials/study-guides"><span>Study Guides</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/study-materials/instructor-aids"><span>Instructor Aids</span></a></div></div>
 <div class="clearBoth"></div>
 </div>
 </div>
@@ -286,7 +306,7 @@ jQuery(document).ready(function($) {
 </div>
 <div id="popup7" class="wp-custom-menu-popup" onmouseout="wpHideMenuPopup(this, event, 'popup7', 'menu7')">
 <div class="block1">
-<div class="column first odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-gifts/gifts-for-educators-and-colleagues"><span>Gifts for Educators and Colleagues</span></a></div></div><div class="column even"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-gifts/gifts-for-kids"><span>Gifts for Kids</span></a></div></div><div class="column odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-gifts/gifts-for-students"><span>Gifts for Students</span></a></div></div>
+<div class="column first last odd"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-gifts/gifts-for-educators-and-colleagues"><span>Gifts for Educators &amp; Colleagues</span></a><a class="itemMenuName level1" href="http://www.anatomywarehouse.com/anatomy-gifts/toys"><span>Toys</span></a></div></div>
 <div class="clearBoth"></div>
 </div>
 </div>
@@ -308,9 +328,9 @@ var CUSTOMMENU_POPUP_RIGHT_OFFSET_MIN = 0;
                 </a>
                                         <span> &gt; </span>
                         </li>
-                    <li class="cms_page" typeof="v:Breadcrumb">
+                    <li class="product" typeof="v:Breadcrumb">
                             <span rel="v:child" property="v:title">
-                        <strong>Privacy Policy</strong>
+                        <strong>How Does Your Salt Stack Up</strong>
                 </span>
                                     </li>
             </ul>
@@ -318,7 +338,12 @@ var CUSTOMMENU_POPUP_RIGHT_OFFSET_MIN = 0;
 
 <!--/{PAGE_BREADCRUMBS_7bb6d6138256f1489dace3558e733fdf}--></div>
 </div>
-        <div class="main-container col1-layout">
+   
+    <script type="text/javascript">
+	
+        jQuery('.nav-container').scrollToFixed();
+
+    </script>        <div class="main-container col1-layout">
             <div class="main">
                                 <div class="col-main">
                     <!--{GLOBAL_MESSAGES_3e966cafdcb3f0c9cd9f8bc6a0021644}--><!--/{GLOBAL_MESSAGES_3e966cafdcb3f0c9cd9f8bc6a0021644}-->                        <div class="page-title">
@@ -404,21 +429,30 @@ Calendar._TT["TIME"] = "Time:";
         </div>
     </div><!-- END page -->
         <div class="footer-social-container">
-    <div class="footer-social">
-        <div class="twitter"><a href="http://twitter.com/#!/anatomydeals" target="_blank"><img style="float: left; margin-bottom: 5px; margin-top: 5px;" src="/media/wysiwyg/mercado/twitter.png" alt="twitter"></a></div>
-<div class="rss"><a href="https://www.facebook.com/AnatomyWarehouse" target="_blank"><img style="float: left; margin-left: 15px; margin-bottom: 5px; margin-top: 5px;" src="/media/wysiwyg/mercado/facebook.png" alt="facebook"></a></div>        <div class="clear"></div>
-    </div>
+  <div class="footer-social">     <div class="clear"></div>
+  </div>
 </div>
-<div class="footer-container">
-    <div class="aditional-footer">
-                <div class="f-right">
-            <div class="footer-right">
-                <div class="right-conteiner">
-                    <form action="https://www.anatomywarehouse.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+<div class="footer-container footer-ana">
+  <div class="aditional-footer"> <div class="ana-trusted">
+<h2>Anatomy Warehouse is trusted by</h2>
+<ul>
+<li style="vertical-align:middle"><img src="http://www.anatomywarehouse.com/media/wysiwyg/US_Army_Logo.png" alt=""></li>
+<li style="vertical-align:middle"><img src="http://www.anatomywarehouse.com/media/wysiwyg/Cleveland_Clinic_Badge.png" alt=""></li>
+<li style="vertical-align:middle"><img src="http://www.anatomywarehouse.com/media/wysiwyg/Johns_Hopkins_Hospital.gif" alt=""></li>
+<li style="vertical-align:middle"><img src="http://www.anatomywarehouse.com/media/wysiwyg/Harvard_Medical_School.png" alt=""></li>
+<li style="vertical-align:middle" class="ana-last"><img src="http://www.anatomywarehouse.com/media/wysiwyg/SAM_Certification.png" alt=""></li>
+</ul>
+</div>     <div class="f-right">
+      <div class="footer-right">
+        <div class="right-conteiner footer-ana1"> <h4 style="padding-top: 17px;"><span>Support Team Hours:</span></h4>
+<address><span style="color: #888888;">Mon-Fri: .......... 8:00 a.m. to 5:00 p.m. CST<br>Chicago, IL Office Phone: 800.422.1134</span></address><address><span style="color: #888888;">Email: support@anatomywarehouse.com</span></address>          <div id="message"><a href="#top" id="top-link">Back to top</a></div>
+          <div style="clear: both;"></div>
+        </div>
+        <div class="right-conteiner"> <form action="https://www.anatomywarehouse.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
     <div class="form-subscribe">
-    <div class="form-subscribe-header"><h4>Sign up for our newsletter</h4></div>
+    <div class="form-subscribe-header"><h4>Join our mailing list</h4></div>
         <div class="input-box">
-           <input type="text" name="email" id="newsletter" title="Sign up for our newsletter" class="input-text required-entry validate-email">
+           <input type="text" name="email" id="newsletter" title="Join our mailing list" class="input-text required-entry validate-email">
         </div>        
         <button type="submit" title="Submit" class="button"><span><span>Submit</span></span></button>  
 
@@ -427,23 +461,18 @@ Calendar._TT["TIME"] = "Time:";
 <script type="text/javascript">
 //<![CDATA[
     var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
-    new Varien.searchForm('newsletter-validate-detail', 'newsletter', 'Enter your email address');
+    new Varien.searchForm('newsletter-validate-detail', 'newsletter', '');
 //]]>
 </script>
-                    <div class="clear"></div>
-                </div>
-                <div class="right-conteiner">
-                    <h4 style="padding-top: 17px;"><span>Support Team Hours:</span></h4>
-<address><span style="color: #888888;">Mon-Fri: .......... 8:00 a.m. to 5:00 p.m. CST<br>Chicago, IL Office Phone: 800.422.1134</span></address><address><span style="color: #888888;">Email: support@anatomywarehouse.com<br></span></address>                    <div id="message"><a href="#top" id="top-link">Back to top</a></div>
-                    <div style="clear: both;"></div>
-                </div>
-            </div>
+          <div class="clear"></div>
         </div>
-
-  <div class="shippingreturns">
-<div class="shippingpolicy" style="width: 140px; float: left;">
+      </div>
+    </div>
+    <div class="shippingreturns">
+<div class="shippingpolicy" style="width: 195px; float: left;">
 <h4 style="font-weight: none !important;">Special Offers</h4>
 <ul class="policy">
+<li><a title="Custom Products" href="http://www.anatomywarehouse.com/custom-products" target="_self">Custom Products</a></li>
 <li><a title="Reward Points" href="http://www.anatomywarehouse.com/reward-points" target="_self">Reward Points</a></li>
 <li><a title="Featured Brands" href="http://www.anatomywarehouse.com/anatomical-brands" target="_self">Featured Brands</a></li>
 <li><a title="Gift Cards" href="http://www.anatomywarehouse.com/anatomywarehouse-gift-card" target="_self">Gift Cards</a></li>
@@ -452,7 +481,7 @@ Calendar._TT["TIME"] = "Time:";
 <li><a title="Request a Quote" href="https://www.anatomywarehouse.com/index.php/webforms/index/index/id/17/" target="_self">Request a Quote</a></li>
 </ul>
 </div>
-<div class="shippingpolicy" style="width: 150px; float: left;">
+<div class="shippingpolicy" style="width: 195px; float: left;">
 <h4 style="font-weight: none !important;">Shipping Info</h4>
 <ul class="policy">
 <li><a title="Shipping &amp; Delivery" href="http://www.anatomywarehouse.com/shipping-delivery/" target="_self">Shipping &amp; Delivery</a></li>
@@ -461,7 +490,7 @@ Calendar._TT["TIME"] = "Time:";
 <li><a title="International Shipping" href="http://www.anatomywarehouse.com/international-shipping/" target="_self">International Shipping</a></li>
 </ul>
 </div>
-<div class="shippingpolicy" style="width: 150px; float: left;">
+<div class="shippingpolicy" style="width: 195px; float: left;">
 <h4 style="font-weight: none !important;">Your Account</h4>
 <ul class="policy">
 <li><a title="Login" href="http://www.anatomywarehouse.com/customer/account/login/" target="_self">Login</a></li>
@@ -469,48 +498,53 @@ Calendar._TT["TIME"] = "Time:";
 <li><a title="Order History" href="http://www.anatomywarehouse.com/sales/order/history/" target="_self">Order History</a></li>
 <li><a title="Customer Service" href="http://www.anatomywarehouse.com/customer-service/" target="_self">Customer Service</a></li>
 <li><a title="Privacy Policy" href="http://www.anatomywarehouse.com/privacy-policy/" target="_self">Privacy Policy</a></li>
+<li><a title="Money Back Guarantee" href="http://www.anatomywarehouse.com/money-back-guarantee" target="_self">Money Back Guarantee</a></li>
+<li><a title="Low Price Guarantee" href="http://www.anatomywarehouse.com/low-price-guarantee" target="_self">Low Price Guarantee</a></li>
 </ul>
 </div>
-<div class="shippingpolicy" style="width: 150px; float: left;">
+<div class="shippingpolicy" style="width: 175px; float: left;">
 <h4 style="font-weight: none !important;">Support Team</h4>
 <ul class="policy">
 <li><a title="F.A.Q." href="http://www.anatomywarehouse.com/faq" target="_self">F.A.Q.</a></li>
 <li><a title="Contact Us" href="http://www.anatomywarehouse.com/contact-anatomy-warehouse" target="_self">Contact Us</a></li>
 <li><a title="About Us" href="http://www.anatomywarehouse.com/about-anatomy-warehouse/" target="_self">About Us</a></li>
-<li><a title="Terms &amp; Policies" href="http://www.anatomywarehouse.com/terms-policies/" target="_self">Terms &amp; Policies</a></li>
+<li><a title="Terms &amp; Policies" href="http://www.anatomywarehouse.com/terms-and-policies" target="_self">Terms &amp; Policies</a></li>
 <li><a title="Affiliate Program" href="https://www.anatomywarehouse.com/index.php/webforms/index/index/id/4/" target="_self">Affiliate Program</a></li>
 </ul>
 </div>
-</div>        <div class="f-left footer-left">
-                    </div>
-        <div style="clear: both;"></div>
-    </div>
+</div>    <div class="f-left footer-left">  </div>
+    <div style="clear: both;"></div>
+  </div>
 </div>
 <div class="footer_back">
-    <div class="footer">
-                <div class="f-left">
-            <ul class="links">
-	<a id="phone_contact" href="/contact-anatomy-warehouse"><li><span>800.422.1134</span></li></a>
-                        <li class="first"><a href="http://www.anatomywarehouse.com/catalogsearch/term/popular/" title="Search Terms">Search Terms</a></li>
-                                <li><a href="https://www.anatomywarehouse.com/sales/guest/form/" title="Orders and Returns">Orders and Returns</a></li>
-                                <li><a href="http://www.anatomywarehouse.com/contact-anatomy-warehouse/" title="Contact Us">Contact Us</a></li>
-                                <li class=" last"><a href="http://www.anatomywarehouse.com/sitemap/" title="Site Map">Site Map</a></li>
-            </ul>
-<br>
-            © 2013 AnatomyWarehouse.com. All Rights Reserved.&nbsp;&nbsp;
-        </div>
-        <div class="f-right">
-            <!-- PayPal Logo --> 
+  <div class="footer">
+    <div class="social-m"> <div class="footer-social-n">
+<div class="footer-social-icon">
+<p>Follow us on the move</p>
+<ul>
+<li><a href="http://twitter.com/#!/anatomydeals" target="_blank"><img src="http://www.anatomywarehouse.com/media/wysiwyg/ana-tw.png" alt=""></a></li>
+<li><a href="https://www.facebook.com/AnatomyWarehouse" target="_blank"><img src="http://www.anatomywarehouse.com/media/wysiwyg/ana-fb.png" alt=""></a></li>
+<li><a href="https://plus.google.com/118126067025817720827/" target="_blank"><img src="http://www.anatomywarehouse.com/media/wysiwyg/ana-gp.png" alt=""></a></li>
+<li><a href="http://www.pinterest.com/anatomywarehous/" target="_blank"><img src="http://www.anatomywarehouse.com/media/wysiwyg/ana-pnt.png" alt=""></a></li>
+</ul>
+</div>
+</div> 
+	<!-- PayPal Logo --> 
 <table border="0" cellspacing="0" cellpadding="10" align="center">
 <tbody>
 <tr>
-<td align="center"><a title="How PayPal Works" onclick="javascript:window.open('https://www.paypal.com/webapps/mpp/paypal-popup','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;" href="https://www.paypal.com/webapps/mpp/paypal-popup"><img src="http://www.anatomywarehouse.com/media/wysiwyg/footer-payment_awwscrubsgiant.jpg" alt="PayPal Acceptance Mark"></a></td>
+<td align="center"><a title="How PayPal Works" onclick="javascript:window.open('https://www.paypal.com/webapps/mpp/paypal-popup','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;" href="https://www.paypal.com/webapps/mpp/paypal-popup"><img src="http://www.anatomywarehouse.com/media/wysiwyg/footer-payment_aww-anatomy-new.jpg" alt="PayPal Acceptance Mark"></a></td>
 </tr>
 </tbody>
 </table>
-<!-- PayPal Logo -->
-        </div>
-    </div>
+<!-- PayPal Logo --> </div>
+        <div class="clr clear"></div>
+    <div class="copy">
+            <br>
+      © 2014 AnatomyWarehouse.com. All Rights Reserved.&nbsp;&nbsp; </div>
+    <div class="f-right">
+          </div>
+  </div>
 </div>
         <script language="JavaScript" type="text/javascript">
 /*<![CDATA[*/
