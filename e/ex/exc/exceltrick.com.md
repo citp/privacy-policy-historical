@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exceltrick.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115025455id_/http%3A//www.exceltrick.com/privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exceltrick.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516172047id_/http%3A//www.exceltrick.com/privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
