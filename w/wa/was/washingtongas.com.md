@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the washingtongas.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210135218id_/http%3A//www.washingtongas.com/pages/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtongas.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516045422id_/http%3A//www.washingtongas.com/pages/PrivacyPolicy) for the most accurate reproduction.*
 
 # Washington Gas - Privacy Policy
 
@@ -39,3 +39,7 @@ Please note that Washington Gas will NOT retain your banking account information
 ## Your Personal Information
 
 We do not share personal information provided to us through our web site (credit card number, name, address, phone, etc) with other parties. We only use such information to deliver products and/or services, to provide important information to you about the products, and/or to bill you for products and/or services. 
+
+If you would like to opt out of receiving any marketing/product promotional emails from Washington Gas, [please complete this form](https://eservice.washgas.com/forms/contacting_washington_gas.cfm) and include the phrase "unsubscribe to promotional emails" in the comments section. 
+
+Unsubscribing from Washington Gas promotional emails will not prevent you from receiving solicitations from energy marketers. If you wish to opt-out of our energy marketer program, the next period for doing so is Spet. 1 through Oct. 17, 2014. Please call 703-750-4504. 
