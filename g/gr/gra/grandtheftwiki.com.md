@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandtheftwiki.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103183054id_/http%3A//www.grandtheftwiki.com/Grand_Theft_Wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandtheftwiki.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516234458id_/http%3A//www.grandtheftwiki.com/Grand_Theft_Wiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # Grand Theft Wiki:Privacy Policy - Grand Theft Wiki, the GTA wiki
 
@@ -20,5 +20,3 @@ Grand Theft Wiki will not sell or share private information (such as email addre
 Users may choose to display personal details or personally identifiable information on their user page. This is entirely at the user's own disgression and risk. Grand Theft Wiki accepts no responsibility for any misfortune that may come from the access of publically-posted information. 
 
 However, we do recommend that you keep personal information to a minimum. Displaying your name, age and location is good; website and email address is up to you; but telephone number and postal address is discouraged. 
-
-[Last modified on 7 February 2011, at 05:09](http://www.grandtheftwiki.com/index.php?title=Grand_Theft_Wiki:Privacy_Policy&action=history)
