@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the freshbitesdaily.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115014956id_/http%3A//www.freshbitesdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshbitesdaily.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517001452id_/http%3A//www.freshbitesdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fresh Bites Daily
-
-**Gluten-free?** Want to learn more? We've partnered with the world's first gluten summit on gluten-related disorders, nutrition, and healthy living -- FREE online interviews Nov 11-17. Register **[here](http://glutenfreesummit.net/)<\--**.
 
 Thank you for visiting our web site. Please read this privacy policy before using the site. By using the site, you are accepting the practices described in this privacy policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. Note: the privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites.
 
