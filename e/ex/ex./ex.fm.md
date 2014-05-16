@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ex.fm privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906214431id_/http%3A//ex.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ex.fm privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517010440id_/http%3A//ex.fm/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - exfm
 
@@ -13,6 +13,8 @@ Exfm also has publicly available profiles where you may share music you love wit
 Although we do not sell, trade or rent your information, we may release personal and/or non-personal information about you when you request us to do so. In addition, your information may also be accessed by exfm employees as necessary to provide customer support and troubleshoot problems.
 
 We may also release personal and non-personal information when we believe release is appropriate to comply with the law, to enforce or apply our [Terms of Service](https://web.archive.org/terms) and other agreements, or to protect the rights of exfm or others. Information collected about you is protected in several ways. Access by you to your personal information if you sign up for an account is available through a password and unique user ID selected by you. Your password is encrypted. We recommend that you do not divulge your password to anyone and change it often.
+
+In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the transferred business assets. Moreover, if we, or substantially all of our assets, were acquired, or if we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of us or our assets may continue to use your personal information as set forth in this policy. 
 
 Your personal information resides on proprietary and secure servers on Amazon Web Services. Only selected exfm personnel and contracts have access to it via password. The Amazon Web Services facilities are subject to the terms and conditions of Amazon's Web Services [Licensing Agreement](http://aws.amazon.com/agreement/).
 
