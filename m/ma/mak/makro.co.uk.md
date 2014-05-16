@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makro.co.uk privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114083132id_/http%3A//store.makro.co.uk/t-Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makro.co.uk privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517010307id_/http%3A//store.makro.co.uk/t-Privacy.aspx) for the most accurate reproduction.*
 
 # Makro Privacy Policy
 
@@ -28,4 +28,8 @@ We take the privacy of all our customers and website users seriously. This Priva
 
 **Sale of Business:** In the event that the business is sold or integrated with another business, your details may be disclosed to our advisors and any prospective purchaser's advisers and will be passed on to any new owners of the business to use in the same way as set out in this Policy.
 
-[](http://store.makro.co.uk/g-146-best-of-makro-mail.aspx? "Click here to view the best of the Makro Mail")
+[](http://store.makro.co.uk/t-delivery1.aspx "Click here to find out more information about Makro's delivery promotion")  
+
+
+  
+
