@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unigamesity.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203031120id_/http%3A//www.unigamesity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unigamesity.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516063300id_/http%3A//www.unigamesity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Unigamesity
 
