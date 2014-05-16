@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiggio.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207092001id_/http%3A//wiggio.com/policy.html%3Fcid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiggio.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516034040id_/http%3A//wiggio.com/policy.html%3Fcid%3D) for the most accurate reproduction.*
 
 # Wiggio Privacy Policy
 
@@ -39,7 +39,7 @@ By using Wiggio, you are consenting to have your personal data transferred to an
 
 ## Children Under the Age of 13 
 
-By accessing, registering or using the Web Site, you represent to us that you (i) are at least the age of majority in your jurisdiction; OR (ii) you are at least 13 years old but under the age of majority in your jurisdiction AND you have consent from a parent or legal guardian to do so, and your parent or legal guardian has read and agreed to these Terms of Use. If you are under the age of 13, you may not use the Site unless we obtain consent from your parent or guardian in accordance with the procedure and form located [here](https://web.archive.org/web/20131207092001id_/http%3A//wiggio.com/terms.html#parental_consent).
+By accessing, registering or using the Web Site, you represent to us that you (i) are at least the age of majority in your jurisdiction; OR (ii) you are at least 13 years old but under the age of majority in your jurisdiction AND you have consent from a parent or legal guardian to do so, and your parent or legal guardian has read and agreed to these Terms of Use. If you are under the age of 13, you may not use the Site unless we obtain consent from your parent or guardian in accordance with the procedure and form located [here](https://web.archive.org/web/20140516034040id_/http%3A//wiggio.com/terms.html#parental_consent).
 
 ## Use of Information Obtained by Wiggio
 
