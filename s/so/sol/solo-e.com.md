@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solo-e.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115025009id_/http%3A//www.solo-e.com/mainfiles/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solo-e.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516061015id_/http%3A//www.solo-e.com/mainfiles/privacy.shtml) for the most accurate reproduction.*
 
 # Solo-E.com Privacy Policy
 
@@ -35,7 +35,7 @@ Service signup and user interaction areas may require users to supply contact in
 
 The contact information you provide is used solely to validate your interest and to provide you with the information you require. None of the information you submit will ever be sold to or shared with a third party. 
 
-We reserve the right to share with or sell to third parties, aggregated information that does not include any personally identifiable data. We don't do this now.
+Third parties may use cookies, web beacons, and similar technologies to collect or receive non-personally identifiable information from this website and use that information to provide measurement services and target ads.
 
   
 If we decide to makes changes to our privacy policy, we will post the changes to this privacy policy on this page and in other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
@@ -78,9 +78,9 @@ This Web site contains links to other sites. Please be aware that we, Solo-Entre
 If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and e-mail address. Solo-E.com will automatically send the friend a one-time e-mail inviting them to visit the site. Solo-E.com temporarily stores this information for the sole purpose of sending this one-time e-mail and tracking the success of our referral program. This information is not retained and will not be used for any subsequent programs offered by Solo-Entrepreneur.com, Inc. 
 
   
-Please keep in mind that whenever you voluntarily disclose personal information online - for example on our comments area, through e-mail, in the directory or on the blog - that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return.
+Please keep in mind that whenever you voluntarily disclose personal information online - for example on our comments area or through e-mail - that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return.
 
-All users shall be responsible for any messages posted in the Solo-E.com comments areas or the Solo-E blog as well as be responsible for any consequences of messages transmitted. Solo-E.com reserves the right to remove any message that violate guidelines set forth on the site. If necessary, Solo-E.com has the right to remove and/or deny access to areas of the site to anyone who violates those guidelines. 
+All users shall be responsible for any messages posted in the Solo-E.com comments areas as well as be responsible for any consequences of messages transmitted. Solo-E.com reserves the right to remove any message that violate guidelines set forth on the site. If necessary, Solo-E.com has the right to remove and/or deny access to areas of the site to anyone who violates those guidelines. 
 
 In submitting messages, users grant Solo-E.com a royalty-free, non-exclusive right and license to use, reproduce, edit, publish, distribute, and display the content of messages (in their entirety or partial) on the site or within other methods of communication. Therefore, we also allow others to access, view, and respond to messages.   
 
