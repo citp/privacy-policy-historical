@@ -1,67 +1,87 @@
-> *The following text is extracted and transformed from the theblogismine.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215155158id_/http%3A//www.theblogismine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theblogismine.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516062436id_/http%3A//www.stbmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TheBlogIsMine
+# STB Media Privacy Policy
 
-At TheBlogIsMine, Ltd. (“TheBlogIsMine”) we appreciate your readership and support and place a high value on your personal privacy. We respect the personal nature of the information you provide us on our web site and staunchly recognize the importance of protecting this information. In adopting this privacy policy (this “Privacy Policy”),   our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy. This Privacy Policy may be revised or updated at any time and we encourage you to check back often to ensure that you are familiar with the most recent version and the terms of our Privacy Policy.
+Your privacy is important to us and we have prepared this Privacy Policy to explain to you how we collect, use, and share information we obtain through your use of the Internet sites, applications and services (“Services”) that are operated by, controlled by or are affiliate with STB Media, Ltd., including without limitation TheBlogIsMine, Lolset, Softabler, CoinSpeaker (collectively, “we,” “us” or “our”). This Privacy Policy does not govern our use of any information you provide to us when you call us, write to us, or communicate with us in any manner other than through the Services. Because the Internet is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries (including the United States) other than the one in which you reside. By using the Services, you explicitly consent to such use of your information and agree to the terms of this Privacy Policy.
 
-## When does TheBlogIsMine collect my personal information?
+* ## Information We Automatically Collect
 
-You may provide personal information to TheBlogIsMine in one of three ways: (1) by sharing your e-mail address when subscribing to our newsletter, (2) by sharing personal information when you submit news tips to our editorial team or by submitting a report via our Contact Form, (3) by sharing personal information when you post comments on our posts or stories.
+We automatically collect certain information to help us understand how our users use the Services (which we will refer to in this Privacy Policy collectively as  **“Usage Data”** ). For example, each time you visit the Services we may automatically collect your IP address, browser and computer type, access time, the Web page you came from, the URL you go to next, and the Web page(s) that you access during your visit.
 
-We may also ask for other information at other times but at no time will you be required to share any personal information to gain complete access to our site. TheBlogIsMine is an open community but email addresses are requested to participate in some of our member-only features.
+We will use such Usage Data to diagnose problems with our servers and software, to administer the Services, and to gather demographic information. Our third-party advertising networks and servers will also provide us reports that will tell us how many ads were presented and clicked on the Services in a manner that does not identify personally any individual.
 
-In addition to basic contact information, our analytics trackers may also collect information that is in no way personally identifiable. This may include the operating system you are working on, the Internet browser you  
-are using, and the screen resolution of your computer.
+* ## Information You Choose To Submit
 
-## How does TheBlogIsMine use my personal information?
+You can visit the Services without telling us who you are or revealing any information by which someone could personally identify you (which we will refer to in this Privacy Policy collectively as  **“Personal Information”** ). If, however, you wish to register to become a member of the Services, you are required to provide certain Personal Information (e.g., your name and e-mail address), and we ask that you also provide a user name and password. We use your Personal Information to fulfill your requests for products and services, to improve our Services, and to contact you from time to time about us, and our products and services. You may also choose to submit additional information about yourself (for example your gender, birth date, or zip code) by which someone could not personally identify you (which we will refer to in this Privacy Policy collectively as  **“Non-Personal Information”** ). We may also collect additional information about you when you visit certain features of the Services or the pages of certain of our partners when you interact with offers and advertisements, when you contact us for support, when you log into the Services with your account, when you complete a survey, or when you enter promotions. Finally, you may choose to submit your alias, bio, email, photos or any other information that you would like to share with other users of the Services (which we will refer to in this Privacy Policy collectively as  **“Shared Information”** ).
 
-Depending on the portion of our site that you have subscribed to, we may use your  
-information in a number of ways.
+* ## Our Information Sharing Practices
 
-  * The email address you provided through our newsletter subscription form enables us to send you a daily digest of TheBlogIsMine news stories. This subscription is  entirely opt-in by the user. (We cannot subscribe you to the newsletter as you personally  must have access to the email account in order to verify the subscription.) Subscribers  can opt-out of our newsletter at any time by clicking the “Unsubscribe” link that is present on every email at the very bottom of the newsletter.
-  * The email address that you use when contacting us with an editorial tip or via  our Contact Form will not be used for any reason but for the purposes of responding to your inquiry.
-  * The email address associated with your account when you comment on our stories  may be used in conjunction with contests and promotions hosted on TheBlogIsMine’s  website to notify you if you have won. Email addresses provided in comments are not used for any other reason.
-  * If you choose to comment on TheBlogIsMine stories through Twitter and/or Facebook  Connect, we do not get access to your email address nor do we have any access to  your personal data or private information.
+**(a) Generally.**  Except as otherwise described in this section of our Privacy Policy, we will never share your Usage Data, Personal Information, Non-Personal Information, or Shared Information (which we will refer to in this Privacy Policy collectively as “User Information”) with any third party without your permission.
 
+**(b) Advertisers.**  From time to time, we may share your Usage Data and Non-Personal Information to enable third parties who serve advertisements on the Services to deliver advertisements that will be relevant to you. We will not share any such information, however, in a manner that would enable the advertiser to personally identify you.
 
+**(c) Aggregated Data.**  From time to time, we may share aggregated User Information with third parties. We will not share any aggregated data, however, in manner that would enable the recipient to personally identify you.
 
-To maintain a site that is free of charge, we display advertisements on our website. We also use information you give us through surveys to help our advertisers target the audience they want to reach and to provide you with potentially interesting advertisements.
+**(d) Service Providers.**  From time to time, we may enter into relationships with third parties who provide services to us (e.g., data management and storage services or credit card processing services). In those circumstances, we disclose User Information that is necessary for such service providers to perform those services and require that they maintain the confidentiality of such User Information.
 
-At no time does any party other than TheBlogIsMine have access to your personally identifiable information (with the exception of Google who maintains our RSS subscription-by-email service and our survey providers), and you will never be contacted by any party other than TheBlogIsMine.
+**(e) Other Disclosure Scenarios.**  Notwithstanding anything in this Privacy Policy to the contrary, we reserve the right, and you hereby expressly authorize us, to share any User Information: (1) in response to subpoenas, court orders, or legal process, or to establish, protect, or exercise our legal rights or defend against legal claims; (2) if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, fraud, or situations involving potential threats to the safety of any person or property; (3) if we believe it is necessary to investigate, prevent, or take action regarding significant abuse of the Services’ infrastructure or the Internet in general (such as voluminous spamming, denial of service attacks, or attempts to compromise the security of information); (4) to our parent company, subsidiaries, joint ventures, or other companies under common control with us (in which case we will require such entities to honor this Privacy Policy); and (5) if we are acquired by or merged with another entity.
 
-The only exceptions to the foregoing are that we may disclose personally identifiable information (i) in response to legal process, for example, in response to a court order or subpoena, (ii) in response to a law enforcement agency’s request, or where we believe it is necessary to investigate, prevent, or take actions regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of another person, violations  of our terms of use, or as otherwise required by law, or (iii) in the event we are acquired by or merged with another company.
+* ## Public Information
 
-When you sign up for our updates or receive e-mail messages from TheBlogIsMine, you will always be given the chance  
-to opt-out of our communications. You may change your preferences at any time and will only be contacted in manners consistent with your stated preferences. Non-personally identifiable information (such as stated above) may be shared in aggregate form with our advertisers or marketing partners but your personally identifiable information  
-will never be disclosed to them.
+If you identify any User Information as public, you are authorizing us to share such information publicly. For example, you may elect to make certain Shared Information (such as your alias, bio, email or photos) publicly available. Also, there may be areas of the Services (e.g., message boards, discussion rooms, and other online forums) in which you are able to post information that will be available to all other users of the Services. By choosing to use these areas, you understand and agree that anyone may access, use, and disclose any information that you post to those areas.
 
-## Who else has access to my personal information?
+* ## Cookies
 
-The ads appearing on TheBlogIsMine’s website are delivered to you by Google DoubleClick,  Technorati Media, CPX Interactive, Microsoft [Advertising](http://www.theblogismine.com/tag/advertising/ "Advertising") or Mad Ads Media, our Web [advertising](http://www.theblogismine.com/tag/advertising/ "advertising") serving partners. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site.
+We may set and access cookies on your computer. Upon your first visit to the Services, a cookie is sent to your computer that uniquely identifies your browser. A “cookie” is a small file containing a string of characters that is sent to your computer and stored on your hard drive when you visit a website. Many major Web services use cookies to provide useful features for their users. Each web site can send its own cookie to your browser. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent; however if you reject cookies, you will not be able to sign in to the Services or take full advantage of our Services.
 
-Google, as a third party vendor, uses cookies to serve ads on TheBlogIsMine’s website. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our website and other websites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google Ad and Content Network privacy policy](http://www.google.com/privacy_ads.html).
+We uses cookies for the following general purposes: (a) to track your preferences, such as the address or local zip code you enter; (b) to access your information when you sign in so we can provide you with your personalized content; (c) to display the most appropriate advertisements, based on your interests and activity on our Services; and (d) to help us improve the Services by analyzing and estimating our traffic and use of features on the Services.
 
-We have also contracted with a number of [advertising](http://www.theblogismine.com/tag/advertising/ "advertising") network partners to monitor certain pages of our website and RSS feeds for the purpose of reporting website and RSS traffic, statistics, advertisement “click-throughs,” and/or other activities on our website.
+We may also use “pixel tags,” which are small graphic files that allow us to monitor the use of the Services. A pixel tag can collect information such as the IP address of the computer that downloaded the page on which the tag appears; the URL of the page on which the pixel tag appears; the time (and length of time) the page containing the pixel tag was viewed; the type of browser that retrieved the pixel tag; and the identification number of any cookie previously placed by that server on your computer.
 
-Where authorized by us, these [advertising](http://www.theblogismine.com/tag/advertising/ "advertising") network partners may use cookies, web beacons, and/or other monitoring technologies to compile [anonymous](http://www.theblogismine.com/tag/anonymous/ "anonymous") statistics about our website visitors. No personally identifiable information is  collected by or transferred to these network partners. For more information about how the information is collected and used, please see the following:
+We may use pixel tags, either provided by us or by our third party advertisers and ad networks, to collect information about your visit, including the pages you view, the links you click and other actions taken in connection with our sites and Services and use them in combination with our cookies to provide offers and information of interest to you.
 
-  * Technorati Media’s privacy policy at <http://www.technoratimedia.com/technorati_media/privacy-policy.html>
-  * Feedburner’s privacy policy at <http://www.feedburner.com/fb/a/privacy>
-  * Google’s privacy policy at <http://www.google.com/privacy.html>
+We also may allow certain analytic services and providers of applications used on the Services (e.g., sharing buttons) to collect Non-Personally Identifiable information by placing cookies on the Services that will track certain performance of our Services, such as, web traffic, click-throughs, etc., in order to assist us and our service providers in better understanding the interests of our users and to better serve those interests.
 
+* ## Advertising
 
+We may use other companies under agreements with us to serve advertisements when you visit and use the Services. These companies may collect and use click stream information, browser type, time and date, subject of advertisements clicked or scrolled over during your visits to the Services and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie, a third party web beacon and/or pixel tags to collect this information. None of them collect any personal information from your computer, such as your e-mail address. Other companies’ use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to our cookies.
 
-To learn more about this behavioral [advertising](http://www.theblogismine.com/tag/advertising/ "advertising") practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
+* ## Targeted Advertising
 
-Third parties and web sites that have links on our site may also collect or use information about you. The information practices of other companies or people that TheBlogIsMine does not employ or manage are not covered by this Privacy Policy.
+In order to serve offers and advertisements that may be interest to our users, we may display targeted advertisements on the Services based on Personal Information provided by our users, including zip code and profile. We do not provide this Personal Information to our advertisers when you interact with such an advertisement. However, please note that the advertisers (including ad serving companies) may determine based on their own analysis that a user who interacts with an advertisement targeted by us may fit into a certain demographic category; for example, an advertiser may determine that men ages 25-34 are interacting with a certain advertisement on the Services from a particular geographic area.
 
-## Is there anything else I should know about my privacy and TheBlogIsMine?
+* ## Your Options and Information about Advertisers and Targeted Ads
 
-Any information you disclose voluntarily on our comments page or in any properties hosted by TheBlogIsMine becomes public information. TheBlogIsMine.com is a public forum. We cannot control the action of our site users and advise you to use your discretion in sharing information about yourself on the Internet. All information  
-sharing is optional and done so at your own risk. Privacy is a very personal matter and we encourage you to be careful and responsible when disclosing personal information online.
+You can learn more about the advertising companies we work with and what options they may offer you regarding cookies and targeted advertising by clicking [here](http://www.voxmedia.com/privacy-advertising). Many of these companies are also members of the Network Advertising Initiative or the Digital Advertising Alliance, which each provide a simple way to opt-out of ad targeting from participating companies.
 
-## TheBlogIsMine Comment Policy
+* ## Mobile
 
-We never censor comments based on political or ideological point of view or of a critical nature. We reserve the right to delete those comments that are off-topic, “spammy” in nature, abusive, use excessive foul language, or include ad hominem attacks. Once a comment is made public on the TheBlogIsMine website, we will not remove it by request. As a user, you are responsible for your own communications and are responsible for the consequences of their posting.
+We may from time to time offer certain location or pinpoint based services with our applications (such as, GPS assisted navigation instruction, wireless tower location, triangulation or other available location technologies). If you elect to use such location based services, we must periodically receive your location in order to provide such location-based services to you. By using the applications’ location based services, you authorize us to: (a) locate your hardware; (b) record, compile and display your location; and (c) publish your location to third parties designated by you by means of location publication controls available within the applications (e.g., settings, user preferences). As part of the applications, we may also collect and store certain information about our users, such as, users’ wireless mobile subscriber ISDN and/or IMEI numbers (as applicable) and users’ network access identifier information. This information will be used to provide you the services accessed through our applications. We may use third party providers to help provide services through mobile systems and such providers may use the information in accordance with our Privacy Policy.
 
-Comments will only be considered for removal (i) in response to legal process, for example, in response to a court order, or (ii) in response to a law enforcement agency’s request, or where we believe it is necessary to investigate, prevent, or take actions regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of another person, violations of our terms of use, or as otherwise  required by law.
+* ## Choice/Opt-Out
+
+We offer you the opportunity to choose not to receive communications from us. If you would like to take advantage of this opportunity, please let us know by accessing and updating your profile. Please note that sometimes these requests may take up to ten business days to process and that we are not responsible for removing information about you from the database of any third party to whom we were authorized to disclose your User Information prior to processing your request. Even if you do take advantage of this opportunity, we reserve the right to send you administrative messages relating to the Services (e.g., about changes to this Privacy Policy) and to contact you regarding any goods or services you have ordered.
+
+* ## Modifying and Deleting Your Personal Information
+
+If you would like to modify or delete from our database any User Information you previously submitted to us, please let us know by accessing and updating your profile. Please note that any User Information that we have copied may remain in back-up storage for some period of time after your request, and that if you delete certain information you may not be able to order services in the future without re-submitting such information. Also, please note that we will maintain User Information in our database whenever we are required to do so by law.
+
+* ## Security
+
+We have implemented reasonable measures to help protect your User Information from loss, misuse, or unauthorized access or disclosure. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your User Information, we cannot guarantee its security.
+
+* ## Links
+
+The Services may contain links to other websites. We are not responsible for the privacy practices of any such other website and urge you to review such practices prior to submitting any information to such websites.
+
+* ## Children’s Privacy
+
+We are committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children’s online activities and interests. The Services are not intended for and may not be used by children under the age of 13. We do not knowingly collect information from children under the age of 13 and we do not target the Services to children under the age of 13.
+
+* ## Changes
+
+We may update this Privacy Policy from time to time. If under any such update we make any material change to the way in which we treat your User Information, we will inform you of such change via email or by posting a notice on relevant areas of the Services. Any updated version of this Privacy Policy will be effective as of the date set forth therein.
+
+* ## Questions
+
+If you have any questions about this Privacy Policy, please feel free to contact us by email at [contact@stbmedia.com](mailto:contact@stbmedia.com).
