@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitedway.org privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109095506id_/http%3A//www.unitedway.org/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedway.org privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516090832id_/http%3A//www.unitedway.org/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | United Way
 
