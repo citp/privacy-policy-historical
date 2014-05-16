@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ishopchangi.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228215449id_/http%3A//www.ishopchangi.com/CAGShopping/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ishopchangi.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516225138id_/http%3A//www.ishopchangi.com/CAGShopping/Privacy.aspx) for the most accurate reproduction.*
 
-# iShopChangi - Online Duty-Free Shopping
+# Tax & Duty Free Shopping at Your Convenience | Home | iShopChangi
 
 The iShopChangi Online Shopping Portal (the “Portal”) has been brought to you by the Changi Airport Group (Singapore) Pte. Ltd.
 
