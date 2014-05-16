@@ -1,118 +1,79 @@
-> *The following text is extracted and transformed from the housingwire.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224121318id_/http%3A//www.housingwire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housingwire.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517011639id_/http%3A//www.housingwire.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-HousingWire respects the privacy of its customers and visitors. If you wish to be removed from our database, or have any questions about the operation of our website, please write to [feedback@housingwire.com](mailto:feedback@housingwire.com).
+Protecting your private information is our priority. This Statement of Privacy applies to the HousingWire.com and HW Publishing, LLC and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to HW Publishing, LLC include HousingWire.com and HousingWire. The HousingWire website is a news and information site. By using the HousingWire website, you consent to the data practices described in this statement.
 
- _This policy effective February 1, 2008._
+**Collection of your Personal Information**
 
-### What information do we gather about you?
+HousingWire may collect personally identifiable information, such as your name. If you purchase HousingWire's products and services, we collect billing and credit card information. This information is used to complete the purchase transaction. We may gather additional personal or non-personal information in the future.
 
-The information we gather falls into two categories: 1) personal information you voluntarily supply when you subscribe, order, complete a survey, register for an online discussion, enter a contest or provide your e-mail address and 2) tracking information collected as you navigate through our sites.
+Information about your computer hardware and software may be automatically collected by HousingWire. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the HousingWire website.
 
- **Personally Identifiable Information**
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through HousingWire's public message boards, this information may be collected and used by others.
 
- _Registration for our Web site_  
-Anyone can view our site, but a free registration process may required to access the full range of information and services offered by HousingWire.com.
+HousingWire encourages you to review the privacy statements of websites you choose to link to from HousingWire so that you can understand how those websites collect, use and share your information. HousingWire is not responsible for the privacy statements or other content on websites outside of the HousingWire website.
 
-HousingWire.com requires that you supply a unique e-mail address to register. By using HousingWire.com, you are agreeing to the terms of our Usage Agreement.
+**Use of your Personal Information**
 
- _Paid Products and Services  
-_ While the majority of our products and services are free, we may in the future charge fees for select premium content, products and services, such as special reports, proprietary research, and more. Should we engage in charging for content, we will collect and store billing and credit card information. This information will only be shared with third parties who perform tasks required to complete the purchase transaction. Examples of this include fulfilling orders and processing credit card payments.
+HousingWire collects and uses your personal information to operate its website(s) and deliver the services you have requested.
 
- _Contests, Sweepstakes and Special Offers  
-_ On occasion, HousingWire.com collects personal information from readers in connection with optional sweepstakes, contests or special offers. If this information is to be shared with a third party other than HousingWire.com, we will notify you at the time of collection. If you do not want any personal information shared, you may always decline to participate in the sweepstakes, contest or special offer.
+HousingWire may also use your personally identifiable information to inform you of other products or services available from HousingWire and its affiliates. HousingWire may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
- _Reader Surveys, Reader Panels and Market Research  
-_ HousingWire.com may collect personal information from readers in connection with voluntary surveys. Data may be collected on our Web sites, on the phone, via email or through traditional mail. The information you provide in answer to optional survey questions may be shared, but only in the aggregate, with advertisers and partners unless we notify you otherwise at the time of collection.
+HousingWire does not sell, rent or lease its customer lists to third parties.
 
- **Aggregate Information Collected Through Technology**
+HousingWire may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. HousingWire may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to HousingWire, and they are required to maintain the confidentiality of your information.
 
- _Cookies and Other Technologies_
+HousingWire may keep track of the websites and pages our users visit within HousingWire, in order to determine what HousingWire services are the most popular. This data is used to deliver customized content and advertising within HousingWire to customers whose behavior indicates that they are interested in a particular subject area.
 
- __As is standard practice on many Web sites, HousingWire.com uses “cookies” and other technologies to recognize you and provide personalization, as well as to help us understand which parts of our Web sites are the most popular, where our visitors are going and how much time they spend there. Users who do not accept cookies from the domain “HousingWire.com” may not be able to areas of the Web site.
+HousingWire will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on HousingWire or the site; (b) protect and defend the rights or property of HousingWire; and, (c) act under exigent circumstances to protect the personal safety of users of HousingWire, or the public.
 
-We reserve the right to place a cookie on your computer with a unique anonymous number to ensure that your browser does not see the same ad over and over again, to sequence ads in a series and to measure the number of unique visitors that have viewed a particular ad or visited a particular Web page.
+**Use of Cookies**
 
-We use a proprietary advertising server to display ads on HousingWire.com. In addition, advertisers may elect to use third-party advertising companies to serve ads onto our Web site. In the course of serving these advertisements, the third-party advertisers may place or recognize a unique “cookie” on your browser. We do not have access to these cookies or any information that they may contain. If you would like more information about this practice and about your option not to accept cookies placed by these companies, please click here (<http://www.networkadvertising.org/managing/opt_out.asp>).
+The HousingWire website may use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-Housingwire.com is currently using and has contracted with Google, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our visitors and customers to administer our Web site and constantly improve its quality. All data collected by Google on behalf of HousingWire.com is owned and used by HousingWire.com. We reserve the right to publish non-personally identifiable, summary information regarding our Web site visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers. For more information about Google’s privacy policy, go to<http://www.google.com/intl/en/privacy.html>.
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize HousingWire pages, or register with HousingWire site or services, a cookie helps HousingWire to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same HousingWire website, the information you previously provided can be retrieved, so you can easily use the HousingWire features that you customized.
 
-HousingWire.com is currently using and has contracted with Quantcast, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our visitors and customers to administer our Web site and constantly improve its quality. All data collected by Quantcast on behalf of HousingWire.com is owned and used by HousingWire.com. We reserve the right to publish non-personally identifiable, summary information regarding our Web site visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers. For more information about how Quantcast collects data, please read their privacy policy at <http://www.quantcast.com/privacy.jsp>.
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the HousingWire services or websites you visit.
 
-We reserve the right to change the vendors who provide us with usage data.
+**Security of your Personal Information**
 
- _IP Addresses  
-_ We log IP (Internet Protocol) addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We use the IP address log in an aggregate fashion to track access to our site.
+HousingWire secures your personal information from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol.
 
- _Log Files_  
-Log data is only used in aggregate to analyze usage of our Web site(s).
+**Children Under Thirteen**
 
-### What do we do with the information we gather about you?
+HousingWire does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
 
- _Statistical Analysis  
-_ Housing Wire may perform statistical, demographic and marketing analyses of subscribers, and their subscribing and purchasing patterns, for product development purposes and to generally inform advertisers about the nature of our subscriber base. We also use such information to allow advertising to be targeted, in aggregate, to the users for whom such advertising is most pertinent. HousingWire.com may use personal information for analysis purposes, including analysis to improve customer relationships.
+**Disconnecting your HousingWire Account from Third Party Websites**
 
- _Products and Services from HousingWire  
-_ From time to time, we may provide subscribers with information and offers about other products and services offered by Housing Wire, including subscriptions and other premium products and services. This information will only be shared internally. If you do not wish to receive such information and offers, you may opt-out.
+You will be able to connect your HousingWire account to third party accounts. BY CONNECTING YOUR HOUSINGWIRE ACCOUNT TO YOUR THIRD PARTY ACCOUNT, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE CONTINUOUS RELEASE OF INFORMATION ABOUT YOU TO OTHERS (IN ACCORDANCE WITH YOUR PRIVACY SETTINGS ON THOSE THIRD PARTY SITES). IF YOU DO NOT WANT INFORMATION ABOUT YOU, INCLUDING PERSONALLY IDENTIFYING INFORMATION, TO BE SHARED INTHIS MANNER, DO NOT USE THE THIS FEATURE. You may disconnect your account from a third party account at any time. Users may disconnect their accounts from third-party websites by simply logging out..
 
- _Banner Advertising  
-_ We may use demographic and preference information to allow advertising on our Web sites to be targeted, in aggregate, to the users for whom they are most pertinent. This means users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer’s experience and the effectiveness of the ads. We will disclose information to third parties only in aggregate form.
+**Opt-Out & Unsubscribe**
 
- _User Generated Content (Message Boards, Forums, Reader Reviews and Chats)_  
-We may, in the future, offer message boards for readers in a number of areas throughout our Web sites. Should we do so, any information you disclose when posting to a message board, along with your message board screen name or ID, becomes public and may be used by HousingWire.com for online and offline promotional or commercial uses in any and all media.
+We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from HousingWire by contacting us here:
 
-We offer the ability for readers to comment and review our stories; any information you disclose when making a comment or writing a review, along with your screen name or ID, becomes public and may be used by HousingWire.com for online and offline promotional or commercial uses in any and all media.
+\- Web page: _________________
 
-For more information, read the user generated content sections of the Usage Agreement.
+\- Email: _________________
 
- _E-Mail Newsletters_  
-If you choose to receive them, HousingWire.com will periodically send you e-mail newsletters or promotional e-mail about services offered by HousingWire and its advertisers. For details about HousingWire e-mail, please see the next section, “What Is Our E-mail Policy?”.
+\- Phone: _________________
 
-### What is our E-mail Policy?
+**Changes to this Statement**
 
-HousingWire complies fully with the federal CAN-SPAM Act of 2003. We will not share, sell, rent, swap or authorize any third party to use your e-mail address without your permission. If you feel you have received an e-mail from us in error, please contact [feedback@housingwire.com](mailto:feedback@housingwire.com).
+HousingWire will occasionally update this Statement of Privacy to reflect company and customer feedback. HousingWire encourages you to periodically review this Statement to be informed of how HousingWire is protecting your information.
 
- **Account and Service-Related E-mail:**  HousingWire.com reserves the right to send you e-mail relating to your account status. This includes order confirmations, renewal/expiration notices, notices of credit-card problems, other transactional e-mails and notifications about major changes to our Web sites and/or to our Privacy Policy. If you have registered for online discussions or other services, you may receive e-mail specific to your participation in those activities.
+**Contact Information**
 
- **E-mail Newsletters:**  HousingWire offers several e-mail newsletters. If you no longer wish to receive a specific newsletter, follow the “unsubscribe” instructions located near the bottom of each newsletter.
+HousingWire welcomes your questions or comments regarding this Statement of Privacy. If you believe that HousingWire has not adhered to this Statement, please contact HousingWire at:
 
- **Promotional E-mail:**  If you choose to receive them, HousingWire may periodically e-mail you messages about products and services that we think may be of interest to you. You can choose not to receive messages in the future by either (1) following the “unsubscribe” instructions located near the bottom of each e-mail, or (2) you can opt-out.
+HW Publishing, LLC  
+1320 Greenway Drive, Suite 870  
+Irving, Texas 75038
 
-From time to time, HousingWire may obtain e-mail addresses from third party sources to be used for promotional e-mails. You can choose not to receive messages in the future by either (1) following the “unsubscribe” instructions located near the bottom of each e-mail, or (2) you can opt-out.
+Email Address:  
+custserv@housingwire.com
 
- **Survey E-mail:**  We may send you an e-mail inviting you to participate in user surveys, asking for feedback on HousingWire.com and existing or prospective products and services, as well as information to better understand our users. User surveys greatly help us to improve our Web site, and any information we obtain in such surveys will not be shared with third parties, except in aggregate form.
+Telephone number:  
+(469) 893-1480
 
- **E-mails From You:**  If you send us e-mails, you should be aware that information disclosed in e-mails may not be secure or encrypted and thus may be available to others. We suggest that you exercise caution when deciding to disclose any personal or confidential information in e-mails. We will use your e-mail address to respond directly to your questions or comments.
-
- **E-mail This Article Feature:**  HousingWire.com readers may use this feature to send links to articles to others through e-mail. The e-mail address(es) that you supply to this service will only be used to send the requested article, and will not be used for any other purpose.
-
-### With whom do we share the information that we gather?
-
- _HousingWire  
-_ If you have registered or provided us with any personally-identifiable information, we will not sell, rent, swap or authorize any third party to use your e-mail address or any information that personally identifies you without your permission. We do, however, share information about our audience in aggregate form.
-
- _Service Providers  
-_ We contract with other companies to provide services on our behalf, including credit-card and billing processing, shipping, e-mail distribution, list processing and analytics or promotions management. We provide these companies only with the information they need to perform their services. These service providers are restricted from using this data in any way other than to provide services for Housing Wire, and they may not share or resell this data.
-
-We reserve the right to disclose your opt-out information to third parties so they can suppress your name from future solicitations, in accordance with applicable laws. We may occasionally release personal information as required by law, for example, to comply with a court order or subpoena. (For more information, see the “Compliance with legal process” section of this policy.)
-
-### How do I change or update my personal information?
-
-If you need to change or update your personal information, please contact us using the below methods.
-
-Email: [feedback@housingwire.com](mailto:feedback@housingwire.com)  
-Mail: HousingWire, c/o Privacy Management, 2701 Dallas Parkway, Suite 200, Plano, TX 75093  
-Phone: 1-469-893-1480
-
-### Is my information protected?
-
- _Data Security:_  To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have put in place physical, electronic and managerial procedures to protect the information we collect online.
-
-### Other Information: Compliance with Legal Process
-
-We may disclose personal information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of our Web sites; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions).
-
-### Other Information: Changes to the Policy
-
-This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
+Effective as of February 01, 2008
