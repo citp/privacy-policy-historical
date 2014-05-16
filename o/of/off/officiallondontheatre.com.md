@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officiallondontheatre.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601053446id_/http%3A//www.officiallondontheatre.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officiallondontheatre.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516035541id_/http%3A//www.officiallondontheatre.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Official London Theatre
 
