@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meteogroup.com privacy policy that was archived on 2013-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130913011124id_/http%3A//www.meteogroup.com/privacy-policy-and-cookies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meteogroup.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516065728id_/http%3A//www.meteogroup.com/en/gb/about-meteogroup/privacy-policy-and-cookies.html) for the most accurate reproduction.*
 
 # MeteoGroup: Privacy Policy and Cookies
 
@@ -10,9 +10,9 @@ This Privacy Policy covers :
 
 ###### Who are we?
 
-MeteoGroup Limited is the owner of this Site, and is a wholly owned subsidiary of PA Group Limited (Company Number 4197).  
+MeteoGroup Limited is the owner of this Site.
 
-References to MeteoGroup mean MeteoGroup Limited (company number 2665051), any of its wholly owned subsidiaries, such as MeteoGroup UK Limited, Meteo Consult BV and Nowcasting International Limited trading as MeteoGroup Offshore, or any other company which is more than 50% owned or controlled by MeteoGroup Limited.
+References to "MeteoGroup" mean MeteoGroup Limited (a UK registered company, company number 2665051), any of its wholly owned subsidiaries or any other company which is more than 50% owned or controlled by MeteoGroup Limited.
 
 ###### Changes to the Privacy Policy and Queries
 
@@ -39,7 +39,7 @@ We may, with your agreement, give your personal information to other companies w
 If you do not wish to receive this promotional material, you may opt out at any time by:
 
   * notifying your usual MeteoGroup contact; or 
-  * sending an e-mail or [writing to us](http://www.meteogroup.com/privacy-policy-and-cookies.html#Howtocontactus "Contact us") telling us you do not wish to receive further promotional material; or 
+  * sending an e-mail or [writing to us](http://www.meteogroup.com/privacy-policy-and-cookies.html#Howtocontactus "Contact us") telling us you do not wish to receive further promotional material; or 
   * using the "unsubscribe" process described in the promotional material. 
 
 
@@ -78,7 +78,7 @@ We do not use cookies to store your credit or debit card details.
 
 _You can remove cookies from your Browser:_
 
-Most web browsers are set up to automatically accept cookies but, if you prefer, you may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting, you may be unable to use the full functionality of the Site and your user experience may be adversely affected. You can learn more about cookies by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org") which includes additional information on cookies and how to block cookies using different types of browser. 
+Most web browsers are set up to automatically accept cookies but, if you prefer, you may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting, you may be unable to use the full functionality of the Site and your user experience may be adversely affected. You can learn more about cookies by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org") which includes additional information on cookies and how to block cookies using different types of browser. 
 
 A simple way of removing cookies is to go to the “Tools” option in your web browser and select “Settings”. To delete all cookies on your computer to date select “Clear Browsing History” and to set options for future cookies select “Cookies” and the options you wish to apply to your web browser.  
  
@@ -87,179 +87,21 @@ a)    _Our cookies_
 
 The majority of the cookies used on our Sites are used to record user preferences for repeat visitors and registered users.  We use the following types of cookies on our Sites (please note that the exact cookies used on each Sites is dependent on the services provided):
 
-Cookie name
-
-| 
-
-Type of User
-
-| 
-
-Purpose
-
-| 
-
-Length of storage  
-  
+Cookie name | Type of User | Purpose | Length of storage  
 ---|---|---|---  
-  
 **Session cookies**  
-  
-SID
-
-| 
-
-All
-
-| 
-
-Provides pathway for authentication/login and temporary user toggles/preferences
-
-| 
-
-Removed at end of Session  
-  
+SID | All | Provides pathway for authentication/login and temporary user toggles/preferences | Removed at end of Session  
 **Remember Me cookies**  
-  
-Users Resolution
-
-| 
-
-All
-
-| 
-
-Decides within JavaScript whether something should be drawn/truncated according to screen size.
-
-| 
-
-1 year  
-  
-AcceptedCookie
-
-| 
-
-Only when cookie banner is closed
-
-| 
-
-Remembers that cookie banner has been acknowledged and closed. 
-
-| 
-
-1 year  
-  
-Locid
-
-| 
-
-Only when a search is executed on Site
-
-| 
-
-Remembers the last Location Id – will only write when user selects Save Location
-
-| 
-
-120 Days  
-  
-Override_header_logo
-
-| 
-
-Only when a search is executed on Site
-
-| 
-
-Overrides the default header logo
-
-| 
-
-120 Days  
-  
-Override_icon
-
-| 
-
-Only when a search is executed on Site
-
-| 
-
-Overrides the default icon to show alternative icon
-
-| 
-
-120 Days  
-  
-Override_latitude
-
-| 
-
-Only when a search is executed on Site
-
-| 
-
-Overrides Latitude for Location Pin
-
-| 
-
-120 Days  
-  
-Override_longitude
-
-| 
-
-Only when a search is executed on Site
-
-| 
-
-Overrides Longitude for Location Pin
-
-| 
-
-120 Days  
-  
-Override_location_name
-
-| 
-
-Only when a search is executed on Site
-
-| 
-
-Overrides Location Name for Location Pin
-
-| 
-
-120 Days  
-  
-Ppp_statid
-
-| 
-
-Only when a search is executed on Site
-
-| 
-
-Records Precipitation Station ID for the Saved Location
-
-| 
-
-120 Days  
-  
-Statid
-
-| 
-
-Only when a search is executed on Site
-
-| 
-
-Records MOS Station ID for the Saved Location
-
-| 
-
-120 Days  
+Users Resolution | All | Decides within JavaScript whether something should be drawn/truncated according to screen size. | 1 year  
+AcceptedCookie | Only when cookie banner is closed | Remembers that cookie banner has been acknowledged and closed. | 1 year  
+Locid | Only when a search is executed on Site | Remembers the last Location Id – will only write when user selects Save Location | 120 Days  
+Override_header_logo | Only when a search is executed on Site | Overrides the default header logo | 120 Days  
+Override_icon | Only when a search is executed on Site | Overrides the default icon to show alternative icon | 120 Days  
+Override_latitude | Only when a search is executed on Site | Overrides Latitude for Location Pin | 120 Days  
+Override_longitude | Only when a search is executed on Site | Overrides Longitude for Location Pin | 120 Days  
+Override_location_name | Only when a search is executed on Site | Overrides Location Name for Location Pin | 120 Days  
+Ppp_statid | Only when a search is executed on Site | Records Precipitation Station ID for the Saved Location | 120 Days  
+Statid | Only when a search is executed on Site | Records MOS Station ID for the Saved Location | 120 Days  
   
 Information correct as at 27/09/2012.
 
@@ -271,13 +113,13 @@ Cookies are also set by third parties on the Site (such as Google Analytics, Goo
 
 We don't have access to these cookies, we only allow them to be served. However, we may use the anonymised statistical information provided to us by Google Analytics arising from these third party cookies, for example, to monitor usage of the Site or improve the targeting of advertisements to users of the Site. 
 
-The third parties that generate these cookies and action tags have their own privacy policies describing how they use the information that they collect.  More information about cookies placed by specific third parties and how to restrict or block their cookies can be accessed by following the link to their website and to generate an "opt-out" cookie that will stop any further cookies being written to your device. You can also visit the Network Advertising Initiative (NAI) website at [www.networkadvertising.org](http://www.networkadvertising.org/ "www.networkadvertising.org") for information on how to obtain an "opt-out cookie" from other third parties. 
+The third parties that generate these cookies and action tags have their own privacy policies describing how they use the information that they collect.  More information about cookies placed by specific third parties and how to restrict or block their cookies can be accessed by following the link to their website and to generate an "opt-out" cookie that will stop any further cookies being written to your device. You can also visit the Network Advertising Initiative (NAI) website at [www.networkadvertising.org](http://www.networkadvertising.org/ "www.networkadvertising.org") for information on how to obtain an "opt-out cookie" from other third parties. 
 
 Useful links to the various Google services for instructions on how to opt out are:
 
-<http://www.google.com/policies/privacy/>  
-<http://tools.google.com/dlpage/gaoptout>  
-<http://www.google.com/ads/preferences/plugin/>  
+[](http://www.google.com/policies/privacy/)[www.google.com/policies/privacy/](http://www.google.com/policies/privacy/)  
+[](http://tools.google.com/dlpage/gaoptout)[tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout)  
+[](http://www.google.com/ads/preferences/plugin/)[www.google.com/ads/preferences/plugin/](http://www.google.com/ads/preferences/plugin/)  
  
 
 ###### Applications (“Apps”)
@@ -308,6 +150,6 @@ Unfortunately, the transmission of information via the internet is not completel
 
 ###### How to contact us
 
-If you have any queries with regard to our data processing practices or you wish to correct or update or request a copy of any of the personal details we hold about you, please contact your usual MeteoGroup contact or send us an email or write to us at: The Data Protection Officer, Legal Department, MeteoGroup Limited, 292 Vauxhall Bridge Road, London SW1V 1AE. 
+If you have any queries with regard to our data processing practices or you wish to correct or update or request a copy of any of the personal details we hold about you, please contact your usual MeteoGroup contact or send us an email or write to us at: The Data Protection Officer, Legal Department, MeteoGroup Limited, 292 Vauxhall Bridge Road, London SW1V 1AE. 
 
 Any request for a copy of information may be subject to a fee (currently £10) to meet our costs in providing you with details of the information we may hold about you.
