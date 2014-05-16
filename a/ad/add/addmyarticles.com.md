@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addmyarticles.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106055300id_/http%3A//www.addmyarticles.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addmyarticles.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516165148id_/http%3A//www.addmyarticles.com/Privacy.html) for the most accurate reproduction.*
 
 # article directory submission,articles directory submission,article directories submission,articles directories submission
 
