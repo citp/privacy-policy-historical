@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the searchqm.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905102738id_/http%3A//fbdownloader.com/lp/is/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchqm.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516173228id_/http%3A//fbdownloader.com/lp/is/Privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
 **_PRIVACY POLICY_**
 
-Our business name is **HTTO Group, Inc (“Company”)**. We are the owner of our web site, [www.FBDownloader.com](http://www.fbdownloader.com/). All information provided in this Privacy Policy pertains to **HTTO Group, Inc** and [www.FBDownloader.com](http://www.fbdownloader.com/).
+Our business name is **HTTO Group, Ltd (“Company”)**. We are the owner of our web site, [www.FBDownloader.com](http://www.fbdownloader.com/). All information provided in this Privacy Policy pertains to **HTTO Group, Ltd** and [www.FBDownloader.com](http://www.fbdownloader.com/).
 
 **_I.        General_**
 
