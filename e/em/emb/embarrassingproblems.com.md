@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the embarrassingproblems.com privacy policy that was archived on 2013-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131002105403id_/http%3A//www.embarrassingproblems.com/privacy-on-our-site) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embarrassingproblems.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516052858id_/http%3A//www.embarrassingproblems.com/privacy-on-our-site) for the most accurate reproduction.*
 
 # Privacy on our site
 
