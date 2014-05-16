@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iscripts.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925174113id_/http%3A//www.iscripts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iscripts.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516112142id_/http%3A//www.iscripts.com/privacy.php) for the most accurate reproduction.*
 
-# iScripts Privacy Policy
+# 
 
 We recognize the importance of protecting the privacy of personal information about our customers. Personal information includes all of the personally identifying information that is provided to us. We are sensitive to these privacy interests and believes that protecting valuable personal/financial information is one of our most significant responsibilities. 
 
