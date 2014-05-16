@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mitsubishielectric.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115003654id_/http%3A//www.mitsubishielectric.com/copyright/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitsubishielectric.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516171836id_/http%3A//www.mitsubishielectric.com/copyright/privacy.html) for the most accurate reproduction.*
 
 # MITSUBISHI ELECTRIC - Privacy Statement
 
