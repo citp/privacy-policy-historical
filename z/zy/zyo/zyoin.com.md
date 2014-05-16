@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zyoin.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116020248id_/http%3A//www.zyoin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zyoin.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517003806id_/http%3A//www.zyoin.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Zyoin.com
+# Privacy Policy - Zyoin
 
   * This privacy policy pertains to the use of the Zyoin website at [http://www.zyoin.com](http://www.zyoin.com/)
   * This privacy policy covers how Zyoin treats personal information that Zyoin collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number.
