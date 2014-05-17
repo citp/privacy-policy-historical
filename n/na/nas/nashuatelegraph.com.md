@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nashuatelegraph.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110063113id_/http%3A//www.nashuatelegraph.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nashuatelegraph.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517114143id_/http%3A//www.nashuatelegraph.com/privacypolicy) for the most accurate reproduction.*
 
 # Nashuatelegraph.com: Privacy Policy
 
@@ -51,6 +51,10 @@ The site may offer forums, message boards, or chat rooms as one of the services 
 
 Our sites may operate as part of a larger group of sites, and may carry co-branded pages. In addition, other sites may use the site's or The Telegraph's name. Since the Telegraph Online does not control the privacy policies of third parties, you are subject to the privacy customs and policies, if any, of such third parties, and the Telegraph Online shall not be responsible for the use or dissemination of your private information by such parties. Therefore, we encourage you to ask questions and review those parties' privacy policies before you disclose your personal information to others. 
 
+**Javascript / JScript / ActiveScript**
+
+Scripting is required on our site. Scripting is used to provide many dynamic features and base functionality. Scripting must be enabled in your browser.
+
 **Links to Other Materials**
 
 Third party sites linked to and from the site are not necessarily under the control of the Telegraph Online. Therefore, the Telegraph Online shall have no responsibilities or liabilities whatsoever for the content or privacy practices of any such linked site or any link or linking program at any time. The Telegraph Online does not necessarily endorse companies (or related products or services) to or from which the site is linked. If you decide to access any of the third party sites linked to the site, you do so entirely at your own risk. 
@@ -73,8 +77,8 @@ The Telegraph Online maintains industry standard safeguards to ensure the securi
 
 **Feedback**
 
-We have several feedback forms on the Telegraph Online. Any feedback that is submitted through these forms or through email is the property of the Telegraph Online. We may use this feedback for marketing purposes, or to contact you for additional feedback. 
+We have several feedback forms on The Telegraph Online. Any feedback that is submitted through these forms or through email is the property of the Telegraph Online. We may use this feedback for marketing purposes, or to contact you for additional feedback. 
 
 **Privacy Policy Changes and Contact**
 
-Changes to this privacy policy will be posted here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. If, at any time, you have questions or concerns about the Telegraph Online's privacy policy, please feel free to email us at [privacy@nh.com](mailto:privacy@nh.com) or call (603) 594-6458 and speak to our new media manager. 
+Changes to this privacy policy will be posted here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. If, at any time, you have questions or concerns about The Telegraph Online's privacy policy, please feel free to email us at [privacy@nh.com](mailto:privacy@nh.com) or call (603) 594-6458 and speak to our new media manager. 
