@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolpassage.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209083711id_/http%3A//www.schoolpassage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolpassage.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517113204id_/http%3A//www.schoolpassage.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy « The Online Degree Guide is here to help you on your quest of finding the right degree program and college for you.
 
