@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rchobbyexplosion.com privacy policy that was archived on 2013-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130508111410id_/http%3A//www.rchobbyexplosion.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rchobbyexplosion.com privacy policy that was archived on 2014-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140517170650id_/http%3A//www.rchobbyexplosion.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -12,9 +12,11 @@
 <link rel="canonical" href="http://www.rchobbyexplosion.com/terms_privacy.asp">
 		
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//paypal.adtag.where.com/merchant.js"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
+
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -30,7 +32,30 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?6.60.0.809"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 
 
 <script type="text/javascript" src="/a/j/soft_add.js"></script>
@@ -43,7 +68,7 @@
 </script>
 
 <script type="text/javascript" src="/a/j/soft_add_mult.js"></script>
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_currentBuild"></script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.60.0.809"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
@@ -78,9 +103,9 @@ var _prum = [['id', '5186870cabe53d5705000000'],
 <table id="main" cellspacing="0" cellpadding="0">
 <tbody><tr><td>
 <!--FIXED WIDTH-->
-<table align="center" width="1000" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td>
+<table align="center" width="980" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td>
 
-<table width="1000" border="0" cellspacing="0" cellpadding="0" class="bgcolor1 colors_background1 colors_background1_text">
+<table width="980" border="0" cellspacing="0" cellpadding="0" class="bgcolor1 colors_background1 colors_background1_text">
   <tbody><tr> 
     <td valign="top" height="112" background="/v/vspfiles/templates/5/images/Template/header_bg.jpg" class="bgcolor1 colors_background1 colors_background1_text"> 
 
@@ -96,8 +121,11 @@ var _prum = [['id', '5186870cabe53d5705000000'],
 <table width="463" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr> 
     <td width="18" rowspan="4" align="right" valign="top"><img src="/v/vspfiles/templates/5/images/Template/angle_bs_header.gif" width="18" height="79" alt=""></td>
-    <td width="445" bgcolor="#FFFFFF" align="right" background="/v/vspfiles/templates/5/images/template/pixel_white.gif"><nobr><img src="/v/vspfiles/templates/5/images/clear1x1.gif" width="1" height="15" align="middle" border="0" alt="">
-       <a href="http://www.rchobbyexplosion.com/ShoppingCart.asp" class="navtop"><u>View Cart</u></a><img src="/v/vspfiles/templates/5/images/Template/angle_break.gif" width="18" height="20" align="middle" border="0" alt=""><a href="http://www.rchobbyexplosion.com/myaccount.asp" class="navtop"><u>My Account / Order Status</u></a><img src="/v/vspfiles/templates/5/images/Template/angle_break.gif" width="18" height="20" align="middle" border="0" alt=""><a href="http://www.rchobbyexplosion.com/help.asp" class="navtop"><u>Help / FAQ</u></a> <img src="/v/vspfiles/templates/5/images/Template/angle_break.gif" width="18" height="20" align="middle" border="0" alt=""><a href="http://rchobbyexplosion.blogspot.com/" class="navtop"><u>Blog</u></a> <img src="/v/vspfiles/templates/5/images/Template/angle_break.gif" width="18" height="20" align="middle" border="0" alt=""><a href="/articles.asp?id=124" class="navtop"><u>Resellers</u></a> <img src="/v/vspfiles/templates/5/images/clear1x1.gif" width="8" height="15" align="middle" border="0" alt=""></nobr>
+    <td width="445" bgcolor="#FFFFFF" align="center" background="/v/vspfiles/templates/5/images/template/pixel_white.gif"><nobr><img src="/v/vspfiles/templates/5/images/clear1x1.gif" width="1" height="15" align="middle" border="0" alt="">
+
+       <a href="/ShoppingCart.asp" class="navtop"><u>View Cart</u></a><img src="/v/vspfiles/templates/5/images/Template/angle_break.gif" width="18" height="20" align="middle" border="0" alt=""><a href="/myaccount.asp" class="navtop"><u>My Account</u></a><img src="/v/vspfiles/templates/5/images/Template/angle_break.gif" width="18" height="20" align="middle" border="0" alt=""><a href="/help.asp" class="navtop"><u>Help / FAQ</u></a> <img src="/v/vspfiles/templates/5/images/Template/angle_break.gif" width="18" height="20" align="middle" border="0" alt=""><a href="https://rchobbyexplosion.blogspot.com/" class="navtop"><u>Blog</u></a><img src="/v/vspfiles/templates/5/images/Template/angle_break.gif" width="18" height="20" align="middle" border="0" alt=""><a href="/articles.asp?ID=124" class="navtop"><u>Drop-Ship</u></a>&nbsp;&nbsp; 
+
+ <img src="/v/vspfiles/templates/5/images/clear1x1.gif" width="8" height="15" align="middle" border="0" alt=""></nobr>
     </td>    
   </tr>  
   <tr>
@@ -105,7 +133,7 @@ var _prum = [['id', '5186870cabe53d5705000000'],
     <table align="center" width="445" cellpadding="0"><tbody><tr><td width="85%" bgcolor="#FFFFFF" align="center" background="/v/vspfiles/templates/5/images/template/pixel_white.gif">
       <a href="/Weekly_Sale_Ad_s/138.htm" class="nav1">
 
-<span style="font-style: normal; font-family: Arial; COLOR: #ff0000; font-size: 11pt; font-weight: bold">CLICK <span style="font-family: Arial; font-size: 11pt; text-decoration: underline">HERE</span> FOR OUR GIANT NEW SALE AD!</span>
+<span style="font-style: normal; font-family: Arial; COLOR: #ff0000; font-size: 11pt; font-weight: bold">GIANT <span style="font-family: Arial; font-size: 11pt; text-decoration: underline">MEMORIAL DAY SALE</span> IS GOING ON NOW!</span>
 
 </a>
     </td> 
@@ -138,7 +166,7 @@ var _prum = [['id', '5186870cabe53d5705000000'],
  </tbody></table>
 
 <!--table 2 begin-->
-
+<div>
 <table width="100%" border="0" cellspacing="0" cellpadding="0" height="70" bgcolor="#333333">  
   <tbody><tr>
     <td width="155" height="70" style="border-left-style: solid; border-left-width: 1px"><!--first main cell stands alone-->  
@@ -161,8 +189,7 @@ var _prum = [['id', '5186870cabe53d5705000000'],
 			<img src="/v/vspfiles/templates/5/images/clear1x1.gif" width="1" height="20" class="textmiddle" alt=""></td>
 			<td width="155" valign="middle">
 
-			<script type="text/javascript" src="/v/vspfiles/jmenu/searchbrow.js"></script>
-                                                 <script type="text/javascript" src="/v/vspfiles/jmenu/searchbrow2.js"></script><input type="text" name="Search" value="" id="search_v5_2" size="12" maxlength="50">
+                                                 <script type="text/javascript" src="/v/vspfiles/jmenu/searchbrow2.js"></script>
 
                                                  </td>
 			<td width="1" valign="middle">
@@ -178,49 +205,39 @@ var _prum = [['id', '5186870cabe53d5705000000'],
 </td>
        
 <td align="center"> 
-<a href="/RC_Hobby_Explosion_Clearance_Specials_s/424.htm" class="nav1"><font face="verdana" color="#FF0000" style="font-size: 11pt">Overstock/<br>Clearance Specials!</font></a>
+<a href="/RC_Hobby_Explosion_Clearance_Specials_s/424.htm" class="nav1"><font face="verdana" color="#000000" style="font-size: 11pt">OVERSTOCK/<br>CLEARANCE SPECIALS!</font></a>
 </td>
 
 <td align="center"> 
-<font style="font-size: 11pt"><a href="/RC_Parts_s/53.htm" class="nav1"><b><font face="verdana" color="#000000" style="font-size: 11pt">PARTS/<br> UPGRADES</font></b></a></font>
+<a href="/RC_Parts_s/53.htm" class="nav1"><font face="verdana" color="#000000" style="font-size: 11pt">PARTS/<br> UPGRADES</font></a>
 </td>
-
 
 <td align="center"><a href="/Fun_Toy_Grade_RC_s/439.htm"><img src="/v/vspfiles/images/Home/Fun-RC-Toys1.jpg" width="131" height="27" class="textmiddle" border="0" alt="Fun RC Toys"></a></td>
 
 <td align="center">  
- <a href="/Articles.asp?ID=148" title="Shipping Information" class="nav1"><font face="verdana" style="font-size: 11pt" color="#ff0000">Shipping<br>Info</font></a>
+ <a href="/Articles.asp?ID=148" title="Shipping Information" class="nav1"><font face="verdana" style="font-size: 11pt" color="#000000">SHIPPING<br>INFO</font></a>
 </td>
 </tr>
-
 <tr>
   <td colspan="5" bgcolor="#006600">
+
   <table border="0" width="100%" cellspacing="0" cellpadding="3" id="table1" background="/v/vspfiles/images/images2/GrnBarBckg.jpg">
    <tbody><tr>
-    <td align="center"><font style="font-size: 10pt">
-    <a href="/Discount_Remote_Control_Airplanes_s/91.htm"><b><font color="#FFFF00">R/C Airplanes</font></b></a></font></td>
-    <td align="center"><font style="font-size: 10pt">
-    <a href="/Discount_Remote_Control_Helicopters_s/112.htm"><b><font color="#FFFF00">R/C Helicopters</font></b></a></font></td>
-    <td align="center"><font style="font-size: 10pt">
-    <a href="/Discount_Remote_Control_Cars_s/102.htm"><b><font color="#FFFF00">R/C Cars</font></b></a></font></td>
-    <td align="center"><font style="font-size: 10pt">
-    <a href="/Electric_Remote_Control_Boats_s/100.htm"><b><font color="#FFFF00">R/C Boats</font></b></a></font></td>
-    <td align="center"><font style="font-size: 10pt">
-    <a href="/Discount_Remote_Control_Trucks_s/105.htm"><b><font color="#FFFF00">R/C Trucks</font></b></a></font></td>
-    <td align="center"><font style="font-size: 10pt"><a href="/Discount_Remote_Control_Motorcycles_s/150.htm"><b><font color="#FFFF00">R/C Motorcycles</font></b></a></font></td>
-    <td align="center">
+    <td align="center"><font style="font-size: 10pt"><b>
+    <a href="/Discount_Remote_Control_Airplanes_s/91.htm"><b><font color="#FFFFCC">R/C Airplanes</font></b></a>&nbsp;|&nbsp;    
 
-<table width="100%" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td><img src="/v/vspfiles/templates/5/images/clear1x1.gif" width="4" height="2" border="0" alt="">
-</td>
-<td><!-- AddThis Button BEGIN -->
-<a class="addthis_button" href="https://www.addthis.com/bookmark.php?v=250&amp;pubid=rcroberts1"><img src="https://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a>
-<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
-<script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#pubid=rcroberts1"></script>
-<!-- AddThis Button END -->
-</td> 
-</tr></tbody></table>
+    <a href="/Discount_Remote_Control_Helicopters_s/112.htm"><b><font color="#FFFFCC">R/C Helicopters</font></b></a>&nbsp;|&nbsp;
+
+    <a href="/Discount_Remote_Control_Cars_s/102.htm"><b><font color="#FFFFCC">R/C Cars</font></b></a>&nbsp;|&nbsp;
+
+    <a href="/Electric_Remote_Control_Boats_s/100.htm"><b><font color="#FFFFCC">R/C Boats</font></b></a>&nbsp;|&nbsp;
+
+    <a href="/Discount_Remote_Control_Trucks_s/105.htm"><b><font color="#FFFFCC">R/C Trucks</font></b></a>&nbsp;|&nbsp;
+    
+    <a href="/High_Performance_RC_Batteries_s/792.htm"><b><font color="#FFFFCC">BATTERY FINDER</font></b></a>&nbsp;|&nbsp;
+
+    <a href="/Radio_Control_Battery_Chargers_s/783.htm"><b><font color="#FFFFCC">CHARGERS</font></b></a>    
+    </b></font>
 </td>
    </tr>
   </tbody></table>
@@ -233,11 +250,9 @@ var _prum = [['id', '5186870cabe53d5705000000'],
    </tr>
 </tbody></table>
 
-
-
-<!--table 2 end-->
+<!--table 2 end--></div>
 <div>
-<table width="1000" border="0" cellspacing="0" cellpadding="0">
+<table width="980" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr> 
    <td width="160" valign="top" rowspan="2" colspan="1" class="bgcolor1 colors_background1 colors_background1_text" background="/v/vspfiles/templates/5/images/Template/nav_left_bg.gif">
 
@@ -264,11 +279,15 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="ASSOCIATED">ASSOCIATED</option>
 <option value="ATOMIK">ATOMIK</option>
 <option value="CASTLE+CREATIONS">CASTLE CREATIONS</option>
+<option value="CEN">CEN</option>
 <option value="CIRRUS">CIRRUS</option>
+<option value="DHK">DHK</option>
 <option value="EXTREME%2DFLYERS">EXTREME-FLYERS</option>
-<option value="FUTABA">FUTABA</option>
+<option value="EZ+FLY+RC">EZ FLY RC</option>
 <option value="GMADE">GMADE</option>
 <option value="GREAT+PLANES">GREAT PLANES</option>
+<option value="HITEC">HITEC</option>
+<option value="HOBBY+PEOPLE">HOBBY PEOPLE</option>
 <option value="HOBBYZONE">HOBBYZONE</option>
 <option value="HPI">HPI</option>
 <option value="HUBSAN">HUBSAN</option>
@@ -282,6 +301,7 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="MAISTO">MAISTO</option>
 <option value="MAYA">MAYA</option>
 <option value="MEGATECH">MEGATECH</option>
+<option value="MIP">MIP</option>
 <option value="MRP">MRP</option>
 <option value="MULTIPLEX">MULTIPLEX</option>
 <option value="NEW+BRIGHT">NEW BRIGHT</option>
@@ -289,12 +309,13 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="NKOK">NKOK</option>
 <option value="NOVAK">NOVAK</option>
 <option value="PARKFLYERS+RC">PARKFLYERS RC</option>
-<option value="PARKZONE">PARKZONE</option>
 <option value="PHASE+3">PHASE 3</option>
 <option value="PROPEAK">PROPEAK</option>
 <option value="RACERS+EDGE">RACERS EDGE</option>
 <option value="RC+HOBBY+EXPLOSION">RC HOBBY EXPLOSION</option>
 <option value="REALFLIGHT">REALFLIGHT</option>
+<option value="REDCAT+RACING">REDCAT RACING</option>
+<option value="ROBINSON+RACING">ROBINSON RACING</option>
 <option value="RPM">RPM</option>
 <option value="SAVOX">SAVOX</option>
 <option value="SKYARTEC">SKYARTEC</option>
@@ -303,96 +324,85 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="TENERGY">TENERGY</option>
 <option value="THE+SHARPER+IMAGE">THE SHARPER IMAGE</option>
 <option value="TRAXXAS">TRAXXAS</option>
+<option value="TYCO">TYCO</option>
+<option value="UDI%2DRC">UDI-RC</option>
 <option value="VENOM">VENOM</option>
 <option value="VENOM+ATOMIK">VENOM ATOMIK</option>
 <option value="WS+DEANS">WS DEANS</option>
 <option value="XTM+RACING">XTM RACING</option>
 </select></form></div>
- </td>
-</tr>
-<tr><td><img src="/v/vspfiles/templates/5/images/clear1x1.gif" width="1" height="3" alt=""></td></tr>
+ </td></tr>
+
+<tr><td><img src="/v/vspfiles/templates/5/images/clear1x1.gif" width="1" height="4" alt=""></td></tr>
+
+<tr><td><a class="nav1" href="/Why_Choose_RC_Hobby_Explosion_s/782.htm" title="Why Choose Us">
+<font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;WHY CHOOSE US?</font></a></td></tr>
+
+<tr><td><img src="/v/vspfiles/templates/5/images/clear1x1.gif" width="1" height="2" alt=""></td></tr>
 <tr><td><a class="nav1" href="/default.asp" title="RC Hobby Explosion Home">
 <font style="font-size: 11pt" color="#000000">&nbsp;Home</font></a></td></tr>
 <tr><td><a class="nav1" href="/Airtronics_Radios_and_Accessories_s/430.htm" title="Airtronics Radios">
 <font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;Airtronics Radios</font></a></td></tr>
 <tr><td><a class="nav1" href="/Align_Electric_Helicopters_s/426.htm" title="Align Electric Helicopters">
 <font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;Align Helis</font></a></td></tr>
+<tr><td><a class="nav1" href="/Associated_Radio_Control_s/740.htm" title="Team Associated Trucks and Cars">
+<font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;Associated</font></a></td></tr>
 <tr><td><a class="nav1" href="/Atomik_Remote_Control_s/652.htm" title="Atomik RC">
 <font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;Atomik R/C</font></a></td></tr>
 <tr><td>
 <img src="/v/vspfiles/templates/5/images/template/Menu1_Bullet_End.gif" border="0" class="textmiddle" alt="">
 <a class="nav1" href="/Atomik_Remote_Control_Boats_s/666.htm" title="Atomik RC Boats">
 <font color="#000000" style="font-size: 9pt">Boats</font></a></td></tr>
-<tr><td>
-<img src="/v/vspfiles/templates/5/images/template/Menu1_Bullet_End.gif" border="0" class="textmiddle" alt="">
-<a class="nav1" href="/Atomik_Off_Road_RC_s/667.htm" title="Atomik Off-Road RC">
-<font color="#000000" style="font-size: 9pt">Off-Road</font></a></td></tr>
+
 <tr><td>
 <img src="/v/vspfiles/templates/5/images/template/Menu1_Bullet_End.gif" border="0" class="textmiddle" alt="">
 <a class="nav1" href="/Atomik_RC_Parts_s/668.htm" title="Atomik RC Parts">
 <font color="#000000" style="font-size: 9pt">Parts</font></a></td></tr>
-<tr><td><a class="nav1" href="/Extreme_Flyers_RC_s/644.htm" title="Extreme Flyers RC Helicopters">
-<font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;Extreme-Flyers</font></a></td></tr>
+<tr><td>
+<a class="nav1" href="/DHK_Hobby_Trucks_and_Buggies_s/769.htm" title="DHK Hobby Racing">
+<font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;DHK Hobby</font></a></td></tr>
 <tr><td>
 <img src="/v/vspfiles/templates/5/images/template/Menu1_Bullet_End.gif" border="0" class="textmiddle" alt="">
-<a class="nav1" href="/Extreme_Flyers_RC_s/644.htm" title="Extreme Flyers Helicopters">
-<font color="#000000" style="font-size: 9pt">Helicopters</font></a></td></tr>
+<a class="nav1" href="/DHK_Hobby_Parts_and_Upgrades_s/770.htm" title="DHK Vehicle Parts">
+<font color="#000000" style="font-size: 9pt">Parts</font></a></td></tr>
+<tr><td>
+<a class="nav1" href="/Extreme_Flyers_RC_Parts_s/645.htm" title="Extreme Flyers RC Helicopters">
+<font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;Extreme-Flyers</font></a></td></tr>
 <tr><td>
 <img src="/v/vspfiles/templates/5/images/template/Menu1_Bullet_End.gif" border="0" class="textmiddle" alt="">
 <a class="nav1" href="/Extreme_Flyers_RC_Parts_s/645.htm" title="Extreme Flyers Parts">
 <font color="#000000" style="font-size: 9pt">Parts</font></a></td></tr>
 
-<tr><td><a class="nav1" href="/SearchResults.asp?mfg=GMADE" title="Gmade Crawlers">
+<tr><td><a class="nav1" href="/GMade_Rock_Crawlers_s/739.htm" title="Gmade Crawlers">
 <font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;G-Made</font></a></td></tr>
 
+<tr><td><a class="nav1" href="/Hobby_People_RC_s/759.htm" title="Hobby People Remote Control">
+<font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;Hobby People</font></a></td></tr>
 <tr><td><a class="nav1" href="/HPI_Radio_Control_s/207.htm" title="HPI Remote Control">
 <font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;HPI Racing</font></a></td></tr>
-<tr><td>
-<img src="/v/vspfiles/templates/5/images/template/Menu1_Bullet_End.gif" border="0" class="textmiddle" alt="">
-<a class="nav1" href="/HPI_Electric_RC_s/208.htm" title="HPI Electric Radio Control">
-<font color="#000000" style="font-size: 9pt">Electric</font></a></td></tr>
-<tr><td>
-<img src="/v/vspfiles/templates/5/images/template/Menu1_Bullet_End.gif" border="0" class="textmiddle" alt="">
-<a class="nav1" href="/HPI_Nitro_and_Gas_RC_s/422.htm" title="HPI Gas/Nitro Radio Control">
-<font color="#000000" style="font-size: 9pt">Gas/Nitro</font></a></td></tr>
-
-
 <tr><td><a class="nav1" href="/Hubsan_RC_Airplanes_and_Helicopters_s/690.htm" title="Hubsan RC Aircraft">
 <font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;Hubsan</font></a></td></tr>
-<tr><td>
-<img src="/v/vspfiles/templates/5/images/template/Menu1_Bullet_End.gif" border="0" class="textmiddle" alt="">
-<a class="nav1" href="/Hubsan_RC_Airplanes_and_Helicopters_s/665.htm" title="Hubsan FPV Aircraft">
-<font color="#000000" style="font-size: 9pt">FPV Aircraft</font></a></td></tr>
 
 <tr><td>
 <img src="/v/vspfiles/templates/5/images/template/Menu1_Bullet_End.gif" border="0" class="textmiddle" alt="">
 <a class="nav1" href="/Hubsan_Non_FPV_RC_Airplanes_and_Helicopters_s/691.htm" title="Hubsan Non-FPV Aircraft">
 <font color="#000000" style="font-size: 9pt">Non-FPV Aircraft</font></a></td></tr>
-
 <tr><td>
 <img src="/v/vspfiles/templates/5/images/template/Menu1_Bullet_End.gif" border="0" class="textmiddle" alt="">
 <a class="nav1" href="/Hubsan_RC_Parts_s/675.htm" title="Hubsan RC Parts">
 <font color="#000000" style="font-size: 9pt">Parts</font></a></td></tr>
-
 <tr><td><a class="nav1" href="/Kyosho_Radio_Control_s/440.htm" title="Kyosho Airplanes and Boats">
 <font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;Kyosho</font></a></td></tr>
 <tr><td>
  <a class="nav1" href="/LiteHawk_RC_s/673.htm" title="LiteHawk Radio Control">
 <font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;LiteHawk RC</font></a></td></tr>
 <tr><td>
-<a class="nav1" href="/SearchResults.asp?mfg=MAISTO" title="Maisto Toy RC Cars and Trucks">
+<a class="nav1" href="/Maisto_Remote_Control_s/743.htm" title="Maisto Toy RC Cars and Trucks">
 <font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;Maisto</font></a></td></tr>
 <tr><td>
 <a class="nav1" href="/Megatech_Remote_Control_s/22.htm" title="Megatech Remote Control">
 <font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;Megatech</font></a></td></tr>
-<tr><td>   
-<img src="/v/vspfiles/templates/5/images/template/Menu1_Bullet_End.gif" border="0" class="textmiddle" alt="">
-<a class="nav1" href="/Megatech_Remote_Control_Airplanes_s/23.htm" title="Megatech Remote Control Airplanes">
-<font color="#000000" style="font-size: 9pt">Airplanes</font></a></td></tr>
-<tr><td> 
-<img src="/v/vspfiles/templates/5/images/template/Menu1_Bullet_End.gif" border="0" class="textmiddle" alt=""> 
-<a class="nav1" href="/Megatech_Remote_Control_Surface_Vehicles_s/26.htm" title="Megatech Remote Control Cars and Vehicles"><font color="#000000" style="font-size: 9pt">Cars &amp; Vehicles</font></a></td></tr>
-<tr><td>                  
+<tr><td>                
 <img src="/v/vspfiles/templates/5/images/template/Menu1_Bullet_End.gif" border="0" class="textmiddle" alt=""> 
 <a class="nav1" href="/Megatech_Battery_Packs_and_Chargers_s/27.htm" title="Megatech Battery Packs and Chargers"><font color="#000000" style="font-size: 9pt">Batteries/Chargers</font></a></td></tr>
 <tr><td>
@@ -400,9 +410,8 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <a class="nav1" href="/Megatech_RC_Parts_s/54.htm" title="Megatech Parts">
 <font color="#000000" style="font-size: 9pt">Parts</font></a></td> </tr>
 
-<tr><td><a class="nav1" href="/SearchResults.asp?mfg=MRP" title="MRP RC">
+<tr><td><a class="nav1" href="/MRP_Radio_Control_s/742.htm" title="MRP RC">
 <font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;MRP R/C</font></a></td></tr>
-
 <tr><td>
 <a class="nav1" href="/Multiplex_Aircraft_s/442.htm" title="Multiplex Remote Control">
 <font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;Multiplex</font></a></td></tr>
@@ -417,7 +426,10 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <img src="/v/vspfiles/templates/5/images/template/Menu1_Bullet_End.gif" border="0" class="textmiddle" alt=""> 
 <a class="nav1" href="/Nikko_Transmitters_s/515.htm" title="Nikko Transmitters">
 <font color="#000000" style="font-size: 9pt">Transmitters</font></a></td></tr>
-<tr><td><a class="nav1" href="/SearchResults.asp?mfg=NOVAK" title="Novak">
+<tr><td>
+<a class="nav1" href="/NKOK_Remote_Control_s/808.htm" title="NKOK Remote Control">
+<font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;NKOK</font></a></td></tr>
+<tr><td><a class="nav1" href="/Novak_Racing_RC_Electronics_s/744.htm" title="Novak">
 <font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;Novak</font></a></td></tr>
 <tr><td><a class="nav1" href="/ParkFlyers_RC_Aircraft_s/526.htm" title="Parkflyers R/C Aircraft">
 <font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;Parkflyers R/C</font></a></td></tr>
@@ -435,14 +447,14 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;Racers Edge</font></a></td></tr>
 <tr><td><a class="nav1" href="/RealFlight_R_C_Flight_Simulators_s/199.htm" title="RealFlight R/C Flight Simulator"> 
 <font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;RealFlight Simulator</font></a></td></tr>
+<tr><td><a class="nav1" href="/Robinson_Racing_RC_Products_s/812.htm" title="Robinson Racing Upgrade Parts"> 
+<font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;Robinson Racing</font></a></td></tr>
 <tr><td><a class="nav1" href="/RPM_RC_Products_s/582.htm" title="RPM Upgrade Parts">
 <font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;RPM Parts</font></a></td></tr>
 <tr><td><a class="nav1" href="/Savox_Servos_s/569.htm" title="Savox Servos">
 <font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;Savox Servos</font></a></td></tr>
-
 <tr><td><a class="nav1" href="/Skyartec_RC_Aircraft_s/701.htm" title="Skyartec RC Aircraft">
 <font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;Skyartec Aircraft</font></a></td></tr>
-
 <tr><td><a class="nav1" href="/ST_Racing_Concepts_s/462.htm" title="ST Racing Concepts">
 <font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;ST Racing Concepts</font></a></td></tr>
 <tr><td><a class="nav1" href="/Tenergy_Batteries_s/487.htm" title="Tenergy Battery">
@@ -462,13 +474,10 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <a class="nav1" href="/Traxxas_R_C_Boats_s/203.htm" title="Traxxas Boats">
 <font color="#000000" style="font-size: 9pt">Boats</font></a></td></tr>
 <tr><td>
-
-
 <img src="/v/vspfiles/templates/5/images/template/Menu1_Bullet_End.gif" border="0" class="textmiddle" alt="">
 <a class="nav1" href="/Traxxas_Helicopters_s/707.htm" title="Traxxas Helicopters">
 <font color="#000000" style="font-size: 9pt">Helicopters</font></a></td></tr>
 <tr><td>
-
 <img src="/v/vspfiles/templates/5/images/template/Menu1_Bullet_End.gif" border="0" class="textmiddle" alt="">
 <a class="nav1" href="/Traxxas_Parts_and_Upgrades_s/187.htm" title="Traxxas R/C Parts">
 <font color="#000000" style="font-size: 9pt">Parts</font></a></td></tr>
@@ -478,23 +487,8 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <font color="#000000" style="font-size: 9pt">Accessories</font></a></td></tr>
 <tr><td><a class="nav1" href="/Venom_Remote_Control_s/109.htm" title="Venom Remote Control">
 <font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;Venom</font></a></td></tr>
+
 <tr><td>
-<img src="/v/vspfiles/templates/5/images/template/Menu1_Bullet_End.gif" border="0" class="textmiddle" alt=""> 
-<a class="nav1" href="/Venom_Remote_Control_Airplanes_s/113.htm" title="Venom Remote Control Airplanes">
-<font color="#000000" style="font-size: 9pt">Airplanes</font></a></td></tr>
-<tr><td>                                           
-<img src="/v/vspfiles/templates/5/images/template/Menu1_Bullet_End.gif" border="0" class="textmiddle" alt=""> 
-<a class="nav1" href="/Venom_Remote_Control_Helicopters_s/110.htm" title="Venom Remote Control Helicopters">
-<font color="#000000" style="font-size: 9pt">Helicopters</font></a></td></tr>
-<tr><td>
-<img src="/v/vspfiles/templates/5/images/template/Menu1_Bullet_End.gif" border="0" class="textmiddle" alt=""> 
-<a class="nav1" href="/Venom_Remote_Control_Boats_s/163.htm" title="Venom Remote Control Boats">
-<font color="#000000" style="font-size: 9pt">Boats</font></a></td></tr>
-<tr><td>
-<img src="/v/vspfiles/templates/5/images/template/Menu1_Bullet_End.gif" border="0" class="textmiddle" alt=""> 
-<a class="nav1" href="/Venom_RC_Land_Vehicles_s/165.htm" title="Venom Remote Control Trucks, Crawlers, and Motorcycles">
-<font color="#000000" style="font-size: 9pt">Trucks/Motorcycles</font></a></td></tr>
-<tr><td>   
 <img src="/v/vspfiles/templates/5/images/template/Menu1_Bullet_End.gif" border="0" class="textmiddle" alt=""> 
 <a class="nav1" href="/Venom_Batteries_and_Chargers_s/111.htm" title="Venom Batteries and Chargers">
 <font color="#000000" style="font-size: 9pt">Batteries/Chargers</font></a></td></tr>
@@ -508,21 +502,13 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <font color="#000000" style="font-size: 9pt">Electronics</font></a></td></tr>
 <tr><td>
 <img src="/v/vspfiles/templates/5/images/template/Menu1_Bullet_End.gif" border="0" class="textmiddle" alt=""> 
-<a class="nav1" href="/Venom_Atomik_Bodies_and_Graphics_s/139.htm" title="Venom Bodies and Graphics">
-<font color="#000000" style="font-size: 9pt">Bodies/Graphics</font></a></td></tr>
-<tr><td>
-<img src="/v/vspfiles/templates/5/images/template/Menu1_Bullet_End.gif" border="0" class="textmiddle" alt=""> 
 <a class="nav1" href="/Venom_Hobby_Accessories_s/178.htm" title="Venom Hobby Accessories">
 <font color="#000000" style="font-size: 9pt">Hobby Accessories</font></a></td></tr>
 <tr><td>
 <img src="/v/vspfiles/templates/5/images/template/Menu1_Bullet_End.gif" border="0" class="textmiddle" alt=""> 
 <a class="nav1" href="/Venom_RC_Parts_s/115.htm" title="Venom RC Parts">
 <font color="#000000" style="font-size: 9pt">Parts/Upgrades</font></a></td></tr>
-<tr><td>
-<img src="/v/vspfiles/templates/5/images/template/Menu1_Bullet_End.gif" border="0" class="textmiddle" alt=""> 
-<a class="nav1" href="/Venom_Shirts_and_Hats_s/144.htm" title="Venom T-Shirts and Hats">
-<font color="#000000" style="font-size: 9pt">T-Shirts/Hats</font></a></td></tr>
-<tr><td><a class="nav1" href="/SearchResults.asp?mfg=XTM+RACING" title="XTM Racing">
+<tr><td><a class="nav1" href="/XTM_Racing_Radio_Control_s/741.htm" title="XTM Racing">
 <font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;XTM Racing</font></a></td></tr>
 <tr><td><a class="nav1" href="/R_C_Books_and_DVDs_s/438.htm" title="R/C Books and DVDs">
 <font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;R/C Books &amp; DVDs</font></a></td></tr>
@@ -532,17 +518,27 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;Fun R/C Toys</font></a></td></tr>
 <tr><td><a class="nav1" href="/RC_Parts_s/53.htm" title="Parts Department">
 <font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;R/C Parts</font></a></td></tr>
-<tr><td><a class="nav1" href="/Venom_and_Energizer_Alkaline_Batteries_s/38.htm" title="Venom and Energizer Alkaline Batteries">
-<font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;Alkaline Batteries</font></a></td></tr>
+<tr><td><a class="nav1" href="/High_Performance_RC_Batteries_s/792.htm" title="Battery Locator">
+<font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;<i>BATTERY FINDER</i></font></a></td></tr>
+<tr><td><a class="nav1" href="/Radio_Control_Battery_Chargers_s/783.htm" title="Battery Locator">
+<font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;<i>CHARGERS</i></font></a></td></tr>
 <tr><td><a class="nav1" href="/Articles.asp?ID=148" title="Shipping Information">
 <font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;Shipping Info</font></a>
-<br><br>
+</td></tr>
+
+<tr><td><a class="nav1" href="/articles.asp?ID=124" title="DropShip Information">
+<font style="font-size: 11pt" color="#CC3300">&nbsp;&nbsp;Drop-Shipping</font></a>
+<br>
 
 </td></tr>
+
+
+
+
 <tr><td align="center" width="50"><table align="center" width="20"><tbody><tr><td align="center">
 <form name="MailingList" method="post" action="MailingList_subscribe.asp">
 
-<b><font color="#000000">Join our mailing list!</font></b><br>
+<b><font color="#000000">Join our mailing list<br>for special member offers and deals!</font></b><br>
 
 <script language="Javascript">
 if (is_nav4) {
@@ -552,7 +548,7 @@ if (is_nav4) {
 } else { 
 	document.write('<input type="text" style="font-size:11px;" name="emailaddress" size="16" maxlength="50" />');
 } 
-</script><input type="text" style="font-size:11px;" name="emailaddress" size="16" maxlength="50">
+</script>
 
 <input type="submit" name="Submit" value="Enter Email Address">
 
@@ -568,7 +564,14 @@ if (is_nav4) {
     </tr>
  </tbody></table>
  </div>
-<div id="display_promotions_99999"><style type="text/css">#volusion_ssl_seal { behavior: url(/a/iepngfix.htc); }</style><br><a href="javascript:void(0);" onclick="window.open('https://www.volusion.com/ssl.asp?url=www.rchobbyexplosion.com', 'VolusionSSL', 'top=10,left=10,menubar=0,resizable=0,scrollbars=0,width=467,height=467')"><img id="volusion_ssl_seal" src="/a/i/seal_volusion1.png" border="0" height="113" width="100"></a><br><br><!-- Begin Official PayPal Seal --><a href="https://www.paypal.com/us/verified/pal=info%40rchobbyexplosion%2ecom" target="_blank"><img src="/v/vspfiles/images/images2/verification_seal.gif" border="0" alt="Official PayPal Seal"></a><!-- End Official PayPal Seal --><br><br><img src="/v/vspfiles/templates/5/images/logos/cc_logo1.gif" border="0" alt="Accepting All Major Credit Cards"><br><br></div>
+<div id="display_promotions_99999"><style type="text/css">#volusion_ssl_seal { behavior: url(/a/iepngfix.htc); }</style><br><a href="javascript:void(0);" onclick="window.open('https://www.volusion.com/ssl.asp?url=www.rchobbyexplosion.com', 'VolusionSSL', 'top=10,left=10,menubar=0,resizable=0,scrollbars=0,width=467,height=467')"><img id="volusion_ssl_seal" src="/a/i/seal_volusion1.png" border="0" height="113" width="100"></a><br><br><!-- Begin Official PayPal Seal --><a href="https://www.paypal.com/us/verified/pal=info%40rchobbyexplosion%2ecom" target="_blank"><img src="/v/vspfiles/images/images2/verification_seal.gif" border="0" alt="Official PayPal Seal"></a><!-- End Official PayPal Seal --><br><br><img src="/v/vspfiles/templates/5/images/logos/cc_logo1.gif" border="0" alt="Accepting All Major Credit Cards"><br><br><script type="text/javascript" data-pp-pubid="0762c38977" data-pp-placementtype="150x100"> (function (d, t) {
+"use strict";
+var s = d.getElementsByTagName(t)[0], n = d.createElement(t);
+n.src = "//paypal.adtag.where.com/merchant.js";
+s.parentNode.insertBefore(n, s);
+}(document, "script"));
+</script>
+<br><br></div>
  
  </td> 
 
@@ -578,7 +581,7 @@ if (is_nav4) {
  </tbody></table>
 </td>
 
-<td rowspan="2" bgcolor="#FFFFFF" valign="top" width="840">
+<td rowspan="2" bgcolor="#FFFFFF" valign="top" width="820">
       
 <script type="text/javascript">
 document.getElementById('search_v5_1') ? document.getElementById('search_v5_1').value=QueryString('Search') : null;
@@ -595,11 +598,12 @@ document.getElementById('search_v5_3') ? document.getElementById('search_v5_3').
 
 <b>Privacy Policy</b><br>
 <br>
-<strong>What information do we collect?</strong><br><br><ul><li>We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.</li><li>When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.</li><li>We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.</li><li>Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.</li></ul><br><strong>How do we use your information?</strong><br><br>We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:<ul><li>To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.</li><li>To allow us to better service you in responding to your customer service requests.</li><li>To quickly process your transactions.</li><li>To administer a contest, promotion, survey or other site feature.</li><li>If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.</li></ul><br><strong>How do we protect visitor information?</strong><br><br>We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.<br><br><br><strong>Do we use "cookies"?</strong><br><br>Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.<br><br>We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.<br><br>You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.<br><br><br><strong>Do we disclose the information we collect to outside parties?</strong><br><br>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include RC Hobby Explosion®. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.<br><br>However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.<br><br><br><strong>How can you opt-out, remove or modify information you have provided to us?</strong><br><br>To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.<br><br>To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses &amp; payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.<br><br><br><strong>Third party links</strong><br><br>In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).<br><br><br><strong>Changes to our policy</strong><br><br>If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. <strong>This policy was last modified on August 6, 2003.</strong><br><br><br><strong>Questions and feedback</strong><br><br>We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.<br><br><br><strong>Online Policy Only</strong><br><br>This online privacy policy applies only to information collected through our website and not to information collected offline.<br><br><br><strong>Terms and Conditions</strong><br><br>Please also visit our <a href="terms.asp">Terms and Conditions</a> section establishing the use, disclaimers, and limitations of liability governing the use of our website.<br><br><br><strong>Your consent</strong><br><br>By using our site, you consent to our privacy policy.<br><br><br>
+<div id="div_articleid_5">
+<strong>What information do we collect?</strong><br><br><ul><li>We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.</li><li>When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.</li><li>We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.</li><li>Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.</li></ul><br><strong>How do we use your information?</strong><br><br>We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:<ul><li>To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.</li><li>To allow us to better service you in responding to your customer service requests.</li><li>To quickly process your transactions.</li><li>To administer a contest, promotion, survey or other site feature.</li><li>If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.</li></ul><br><strong>How do we protect visitor information?</strong><br><br>We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.<br><br><br><strong>Do we use "cookies"?</strong><br><br>Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.<br><br>We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.<br><br>You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.<br><br><br><strong>Do we disclose the information we collect to outside parties?</strong><br><br>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include RC Hobby Explosion®. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.<br><br>However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.<br><br><br><strong>How can you opt-out, remove or modify information you have provided to us?</strong><br><br>To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.<br><br>To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses &amp; payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.<br><br><br><strong>Third party links</strong><br><br>In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).<br><br><br><strong>Changes to our policy</strong><br><br>If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. <strong>This policy was last modified on August 8, 2011.</strong><br><br><br><strong>Questions and feedback</strong><br><br>We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.<br><br><br><strong>Online Policy Only</strong><br><br>This online privacy policy applies only to information collected through our website and not to information collected offline.<br><br><br><strong>Terms and Conditions</strong><br><br>Please also visit our <a href="terms.asp">Terms and Conditions</a> section establishing the use, disclaimers, and limitations of liability governing the use of our website.<br><br><br><strong>Your consent</strong><br><br>By using our site, you consent to our privacy policy.<br><br><br>
 
 
 	  
-          </td>
+          </div></td>
         </tr>
 </tbody></table>
 
@@ -642,7 +646,7 @@ function addbookmark()
   <tr> 
     <td valign="top" width="7"><img src="/v/vspfiles/templates/5/images/clear1x1.gif" width="7" height="7" alt=""></td>
     <td valign="top" nowrap="" width="150"><font class="footer colors_background2_text"><br><b>RC Hobby Explosion®</b><br>
-    P.O. Box 1281<br>Little Elm, TX 75068<br>
+    P.O. Box 6285<br>McKinney, TX 75071<br>
       </font></td>
     <td valign="top" width="20" align="right"><img src="/v/vspfiles/templates/5/images/Template/angle_bs_footer.gif" width="20" height="20" alt=""></td>
     <td valign="top"> 
@@ -678,8 +682,9 @@ function addbookmark()
                 <td class="colors_background1"><img src="/v/vspfiles/templates/5/images/clear1x1.gif" width="8" height="8" alt=""></td>
               </tr>
             </tbody></table>
+
             </td>
-          <td nowrap="" height="20">&nbsp;<a class="navbottom colors_background3_text" href="mailto:info@rchobbyexplosion.com?subject=Customer Feedback for RC Hobby Explosion®">Send 
+          <td nowrap="" height="20">&nbsp;<a class="navbottom colors_background3_text" href="/Articles.asp?ID=83">Send 
             Us Feedback</a></td>
 <td height="20" align="right" valign="middle" nowrap="">
 <table width="8" height="8" border="0" cellspacing="4" cellpadding="0">
@@ -687,6 +692,7 @@ function addbookmark()
                 <td class="colors_background1"><img src="/v/vspfiles/templates/5/images/clear1x1.gif" width="8" height="8" alt=""></td>
               </tr>
             </tbody></table>
+
             </td>
           <td nowrap="" height="20">&nbsp;<a class="navbottom colors_background3_text" href="javascript:addbookmark()"><script language="javascript">document.write(bookmarktext)</script>Bookmark Us (CTRL+D)</a></td>
         </tr>
@@ -694,20 +700,20 @@ function addbookmark()
           <td class="bglinecolor colors_lines" colspan="10" height="1"><img src="/v/vspfiles/templates/5/images/clear1x1.gif" width="1" height="1" alt=""></td>
         </tr>
       </tbody></table>
-      <div align="center"><font class="footer colors_background2_text"><a href="/Discount_Remote_Control_Airplanes_s/91.htm" class="footer colors_background2_text">Remote Control Airplanes</a> | <a href="/Discount_Remote_Control_Helicopters_s/112.htm" class="footer colors_background2_text">Remote Control Helicopters</a> | <a href="/Discount_Remote_Control_Cars_s/102.htm" class="footer colors_background2_text">Remote Control Cars</a><br><a href="/Discount_Remote_Control_Boats_s/99.htm" class="footer colors_background2_text">Remote Control Boats</a> | <a href="/Discount_Remote_Control_Trucks_s/105.htm" class="footer colors_background2_text">Remote Control Trucks</a> | <a href="/Discount_Remote_Control_Motorcycles_s/150.htm" class="footer colors_background2_text">Remote Control Motorcycles</a><br><br>
+      <div align="center"><font class="footer colors_background2_text"><a href="/Discount_Remote_Control_Airplanes_s/91.htm" class="footer colors_background2_text">Remote Control Airplanes</a> | <a href="/Discount_Remote_Control_Helicopters_s/112.htm" class="footer colors_background2_text">Remote Control Helicopters</a> | <a href="/Discount_Remote_Control_Cars_s/102.htm" class="footer colors_background2_text">Remote Control Cars</a><br><a href="/Discount_Remote_Control_Boats_s/99.htm" class="footer colors_background2_text">Remote Control Boats</a> | <a href="/Discount_Remote_Control_Trucks_s/105.htm" class="footer colors_background2_text">Remote Control Trucks</a><br><br>
         <a href="http://www.rchobbyexplosion.com/aboutus.asp" class="footer colors_background2_text">Company 
-        Info</a> | <a href="http://www.rchobbyexplosion.com/articles.asp?ID=7" class="footer colors_background2_text">Advertising</a> 
+        Info</a> 
+
+        | <a href="http://www.rchobbyexplosion.com/help.asp" class="footer colors_background2_text">Help / FAQ</a> 
         | <a href="http://www.rchobbyexplosion.com/pindex.asp" class="footer colors_background2_text">Product Index</a> 
         | <a href="http://www.rchobbyexplosion.com/cindex.asp" class="footer colors_background2_text">Category Index</a> 
-        | <a href="http://www.rchobbyexplosion.com/help.asp" class="footer colors_background2_text">Help / FAQ</a> 
         | <a href="http://www.rchobbyexplosion.com/terms.asp" class="footer colors_background2_text">Terms 
-        of Use</a> | <a href="/articles.asp?id=124" class="footer colors_background2_text">Resellers</a> | <a href="/v/vspfiles/V4_Backup/good-links.htm" class="footer colors_background2_text">Hobby Articles/Links</a> | <a href="/articles.asp?id=148" class="footer colors_background2_text">Shipping Info</a><br>
+        of Use</a> | <a href="/v/vspfiles/V4_Backup/good-links.htm" class="footer colors_background2_text">Hobby Articles/Links</a> | <a href="/articles.asp?id=148" class="footer colors_background2_text">Shipping Info</a><br>
  
                                            <a href="http://www.rchobbyexplosion.com/terms.asp" class="footer colors_background2_text">Copyright
-        © 2004 RC Hobby Explosion®;All Rights Reserved.</a><br>
+        © 2014 RC Hobby Explosion®; All Rights Reserved.</a><br>
 
-         <a href="http://www.volusion.com" title="Ecommerce Software" class="footer colors_background2_text" target="_blank">Ecommerce Solutions</a> and <a href="http://www.volusion.com/ecommerce-web-design/" title="Shopping Cart Software" class="footer colors_background2_text" target="_blank">eCommerce Web Design</a> powered by Volusion.    
- </font></div>
+         </font></div><font class="footer colors_background2_text">
 
 <!--footer seals-->
 <br>
@@ -726,7 +732,7 @@ function addbookmark()
 <br>
 
 
-    </td>
+    </font></td>
   </tr>
   <tr> 
     <td class="bglinecolor colors_lines" colspan="4"><img src="/v/vspfiles/templates/5/images/clear1x1.gif" width="1" height="1" alt=""></td>
@@ -749,7 +755,6 @@ s.parentNode.insertBefore(ga, s);  })();
 </td>
   </tr>
 </tbody></table>
-
 
 
 
