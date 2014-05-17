@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swivl.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113020338id_/http%3A//www.swivl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swivl.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517064245id_/http%3A//www.swivl.com/privacy-policy) for the most accurate reproduction.*
 
-# Satarii, Inc. Privacy Policy « Swivl
+# Satarii, Inc. Privacy Policy | Swivl
 
 **Satarii, Inc. Privacy Policy effective February 6, 2012**
 
