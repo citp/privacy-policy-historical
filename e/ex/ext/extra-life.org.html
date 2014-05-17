@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the extra-life.org privacy policy that was archived on 2012-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231005010id_/http%3A//www.extra-life.org/index.cfm%3Ffuseaction%3DdonorDrive.privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the extra-life.org privacy policy that was archived on 2014-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140517191643id_/http%3A//www.extra-life.org/index.cfm%3Ffuseaction%3DdonorDrive.privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" class="cufon-active cufon-ready"><head><script async="" src="https://www.extra-life.org/index.cfm?fuseaction=widgets.ajaxJqueryWidgets&amp;callback=jQuery171032936314688501245_1582148176767&amp;language=en&amp;_=1582148176897"></script>
-			<title>Play Games. Heal Kids. | Extra Life - DonorDrive®</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://ogp.me/ns/fb#"><head><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="http://platform.linkedin.com/in.js?_=1582148180552"></script><script async="" src="https://platform.twitter.com/widgets.js?_=1582148180543"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script async="" src="https://connect.facebook.net/en_US/all.js?_=1582148180466"></script>
+			<title>Play Games. Heal Kids. | Extra Life</title>
 
 			
 			
@@ -10,17 +10,20 @@
 			
 				<meta name="google-site-verification" content="bg6ZBph6bgc7KqhajO-Yu7tCdv1-ZNZqgIf3jtsD1qs">
 			
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 			
 			
-			<link rel="stylesheet" href="resources/css/ddpublic_master.css?v=41271.4759028" type="text/css" media="screen">
+			<link rel="stylesheet" href="resources/css/ddpublic_master.min.css?v=41775.5573843" type="text/css" media="screen">
 			
 			
-			<link rel="stylesheet" href="themes/extralife/css/master.min.css?v=41271.4759028" type="text/css" media="screen">
+			<link rel="stylesheet" href="themes/boilerplate/css/master.min.css?v=41775.5573843" type="text/css" media="screen">
 			
-			<link rel="stylesheet" href="themes/extralife/css/print.min.css" type="text/css" media="print">
+			<link rel="stylesheet" href="themes/extralife2014/css/master.min.css?v=41775.5573843" type="text/css" media="screen">
 			
-			<link rel="stylesheet" href="clients/extralife/css/client.css?v=41271.4759028" type="text/css" media="screen">
+			<link rel="stylesheet" href="themes/extralife2014/css/print.min.css" type="text/css" media="print">
+			
+			<link rel="stylesheet" href="clients/extralife/css/client.css?v=41775.5573843" type="text/css" media="screen">
 			<!--[if IE 6]>
 				<style>
 					body {
@@ -29,8 +32,10 @@
 				</style>
 			<![endif]-->
 
+			<!--[if IE 7]>
+				<link rel="stylesheet" href="resources/css/fontawesome-ie7.min.css" type="text/css" media="screen" />
+			<![endif]-->
 
-			
 			
 			
 			<script type="text/javascript">
@@ -48,19 +53,11 @@
 			</script><script src="resources/js/jquery-1.7.1.min.js"></script>
 
 			
-			
-			<script type="text/javascript" src="resources/js/dd.min.js?v=41271.4759028"></script>
+			<script type="text/javascript" src="resources/js/dd.min.js?v=41775.5573843"></script>
 
-			<script type="text/javascript" src="resources/js/jquery.donorDrive.js"></script>
-			<script type="text/javascript">
-			//<![CDATA[
-				try {
-					$(document).ready(function() {
-						$("html").donorDrive({widget: "loginbar"});
-					});
-				} catch(e) {console.log(e);}
-			//]]>
-			</script>
+			<!--[if lt IE 9]>
+			<script type="text/javascript" src="resources/js/respond.min.js"></script>
+			<![endif]-->
 
 			<script type="text/javascript">
 			//<![CDATA[
@@ -68,20 +65,12 @@
 				FormValidator.DEFAULTOPTIONS.errorMessage = "Please correct your form errors.";
 				NotificationOptions.okText = "OK";
 				NotificationOptions.cancelText = "Cancel";
-				CountrySelector.DEFAULTOPTIONS.naSelectText = "N/A";
-				CountrySelector.DEFAULTOPTIONS.formatText = "Format";
-				CountrySelector.DEFAULTOPTIONS.stateSelectPrompt = "[Select...]";
 
 				//calendar popup
 				dp_dateFormat = "mm/dd/yyyy";
 
-				// on load stuffs
-				$(document).ready(function() {
-					// bind ajax forms to FormValidator
-					$(".ajaxform").bind("submit", function() {
-						return FormValidator.ajaxPost(this);
-					});
-					
+				
+				
 					window.fbAsyncInit = function() {
 						FB.init({
 							appId  : '134519636627378',
@@ -90,8 +79,22 @@
 							xfbml  : true  // parse XFBML
 						});
 					};
-					$("body").append('<div id="fb-root"></div>');
-					$.getScript(document.location.protocol + "//connect.facebook.net/en_US/all.js");
+
+					$.getScript(document.location.protocol + "//connect.facebook.net/en_US/all.js", function(){
+						$.event.trigger("facebook.ready");
+					});
+				
+
+				// on load stuffs
+				$(document).ready(function() {
+					//fix for safari autocomplete
+					
+
+					// bind ajax forms to FormValidator
+					$(".ajaxform").bind("submit", function() {
+						return FormValidator.ajaxPost(this);
+					});
+
 					
 					$.getScript(document.location.protocol + "//platform.twitter.com/widgets.js");
 					
@@ -100,53 +103,121 @@
 				});
 			//]]>
 			</script>
+			<script type="text/javascript" src="resources/js/donordrive.widget.js.cfm"></script>
+			<script>
+var _prum = [['id', '52702980abe53d891f000000'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+    var s = document.getElementsByTagName('script')[0]
+      , p = document.createElement('script');
+    p.async = 'async';
+    p.src = '//rum-static.pingdom.net/prum.min.js';
+    s.parentNode.insertBefore(p, s);
+})();
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var intervalID = setInterval(
+	function() {
+		if (document.readyState !== "complete") return;
 
-			<!-- include GA stuffs -->
-			
-	<link href="themes/extralife/img/favicon.ico" rel="shortcut icon" type="image/x-icon">
-	<script type="text/javascript" src="themes/extralife/js/cufon.js"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>
-	<script type="text/javascript" src="themes/extralife/js/Helvetica_Neue_Bold_Condensed.font.js"></script>
-	
+		clearInterval(intervalID);
+
+		try {
+			if($("#metrics-cycle").length) {
+				$("#metrics-cycle").cycle("destroy");
+				$("#team-contribution-banner").remove();
+				if($("#metrics-cycle").children().length == 0) {
+					$("#metrics-cycle-wrap").remove();
+				} else {
+					$('#metrics-cycle').cycle({
+						timeout: 10000,
+						speed: 300,
+						pause: true,
+						fx: 'scrollLeft',
+						pager: '#metrics-pager',
+						pagerAnchorBuilder: function(index, el) { return '<a href="#">•</a>' }
+					});
+				}
+			}
+		} catch(e) {
+			// do nothing
+		}
+	},
+	100
+);
+//]]>
+</script> <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)    })(window,document,"script","//www.google-analytics.com/analytics.js","ga");      ga("create", "UA-24288460-1", "extra-life.org");
+ga('require', 'displayfeatures');
+ga("send", "pageview");</script> 
+	<link href="themes/extralife2014/img/favicon.ico" rel="shortcut icon" type="image/x-icon">
+	<script src="themes/extralife2014/js/jquery.bxslider.min.js" type="text/javascript"></script>
+	<script src="themes/extralife2014/js/responsiveslides.min.js"></script>
+	<link href="//fonts.googleapis.com/css?family=Cantarell:700" rel="stylesheet" type="text/css">
 	<script type="text/javascript">
 	//<![CDATA[
 		$(document).ready(function(){
-			/* Login Toggle */
-			$("#logintop").click(function() {
-				$("#loginbox").slideToggle('fast');
-				$("#logintop").toggleClass("on");
+			$("#leftCol.no-content").prev("#centerColinterior").addClass("full-width");  // Appends class for full width in portal
+
+			DonorDrive.Widget.map("#totalraised", {
+                type : "totalRaised",
+                eventID : "520",
+                afterRender: function(el, data){
+                    var raisedChars = (parseInt(data[2].totalRaised).toFixed(0) + "").split(".")[0].split(""),
+                        arr = [],
+                        reversed = raisedChars.reverse();
+
+                    $(el).empty();
+                    for(var i = 0, n; n = reversed[i]; ++i ){
+                        arr.push("<span>" + n + "</span>" + (i % 3 === 0 && i !== 0 ? '<span class="comma">,</span>' : ''))
+                    }
+                    $(el).prepend("<span>$</span>").append(arr.reverse().join(''))
+                }
+            })
+
+			DonorDrive.Widget.parse();
+
+	      	
+	      	$("#login-btn").click(function() {
+				$(this).toggleClass("on");
+				$("#login-pod").toggle();
 				return false;
 			});
 
-			/* Home Banner */
-			$('#slides').cycle({
-			    timeout: 6000,
-			    pager: '#counter',
-			    pause: 1
-			});
 			
-			$("#video").click(function() {
-				$.fancybox({
-					'padding'		: 0,
-					'autoScale'		: false,
-					'transitionIn'	: 'none',
-					'transitionOut'	: 'none',
-					'title'			: this.title,
-					'width'			: 680,
-					'height'		: 495,
-					'href'			: this.href.replace(new RegExp("watch\\?v=", "i"), 'v/'),
-					'type'			: 'swf',
-					'swf'			: {
-					'wmode'		: 'transparent',
-					'allowfullscreen'	: 'true'
-					}
-				});
-				return false;
+		 	$('#slider1').bxSlider({
+			  minSlides: 4,
+			  maxSlides: 5,
+			  auto: true,
+			  controls: true,
+			  pager: false,
+			  autoStart: true,
+			  slideWidth: 122,
+			  pause: 6000,
+			  autoHover: true,
+			  slideMargin: 15
 			});
+
+		 	$("#slider2").responsiveSlides({
+				 speed: 1000,
+				 timeout: 9000,
+			  	 pager: true
+			});
+
+	      	
+			$(document).ready(function(){
+				var el = $("#teamTotal h5").first();
+				var innerText = el.find("small").remove();
+				var formattedText = el.text().trim().substring(0, el.text().trim().length - 3);
+				el.text(formattedText).append(innerText);
+			})
+
+			
 		});
 	//]]>
 	</script>
-	
-	
+
+    
 			
 <script type="text/javascript">
 //<![CDATA[
@@ -164,7 +235,23 @@
 		});
 
 		$("#forgotpassword").bind("submit", function() {
-			return FormValidator.ajaxPost(this, {suppressFieldErrors: true});
+			var form = this;
+			return FormValidator.ajaxPost(form, {
+				suppressFieldErrors: true,
+				success: function(){
+					
+					$(form)
+						.parent()
+							.remove("#forgotpassword")
+								.html(
+									"<div class='submitted-message alert alert-error'>" +
+										"<h4>Your password has been reset.</h4>" +
+										"<p>You will receive an email to set your new password. It should arrive shortly but may take a moment.</p>" +
+									"</div>"
+								);
+					return false;
+				}
+			});
 		});
 	});
 //]]>
@@ -174,24 +261,35 @@
 						<meta property="og:site_name" content="Children's Miracle Network Hospitals">
 					    <meta property="og:type" content="non_profit">
 					    <meta property="og:url" content="http://www.extra-life.org/?fuseaction=donorDrive.privacy">
-						<meta property="og:title" content="Extra Life">
-						<meta property="og:image" content="http://www.extra-life.org/clients/extralife/img/fbLogo.jpg?v=41271.4759028">
-					    <meta property="og:description" content="Extra Life is an annual 24-hour video game marathon that raises money to help kids at your local Children’s Miracle Network Hospital. It’s never been this much fun to do this much good.">
-						
-						
-							<meta property="og:street-address" content="205 W. 700 S.">
-						
-							<meta property="og:locality" content="Salt Lake City">
-						
-							<meta property="og:region" content="Utah">
-						
-							<meta property="og:postal-code" content="84101">
-						
-							<meta property="og:country" content="US">
-						
-							<meta property="og:email" content="support@extra-life.org">
-						
-							<meta property="og:phone_number" content="1-801-214-7400">
+						<meta property="og:title" content="Extra Life | Play Games, Heal Kids">
+					    <meta property="og:description" content="We are Extra Life, an online grassroots movement working to save local kids through the power of play.  From video games to board games, Extra Lifers do what they love to raise money for CMN Hospitals.">
+						<meta property="og:image" content="http://www.extra-life.org/clients/extralife/img/fbLogo.jpg?v=41775.5573843">
+					
+							<script type="text/javascript">
+								//<![CDATA[
+								var test = 'placeholder' in document.createElement("input");
+								if( !test ){
+									var searchPrompt = "Search\x20for\x20a\x20Player";
+
+									$(document).ready(function() {
+										$("#searchTerm").val(searchPrompt);
+
+										$("#searchTerm").bind("blur focus", function(e) {
+											if(e.type == "focus" && $(this).val() == searchPrompt) {
+												$(this).val("");
+											} else if(e.type == "blur" && $(this).val() == "") {
+												$(this).val(searchPrompt);
+											}
+										});
+										$("#participantTeamSearch").bind("submit", function() {
+											if($("#searchTerm").val() == searchPrompt) {
+												$("#searchTerm").val("");
+											}
+										});
+									});
+								}
+								//]]>
+							</script>
 						
 					<script type="text/javascript">
 					//<![CDATA[
@@ -209,35 +307,30 @@
 							});
 
 							$("#forgotpassword").bind("submit", function() {
-								return FormValidator.ajaxPost(this, {suppressFieldErrors: true});
+								var form = this;
+								return FormValidator.ajaxPost(form, {
+									suppressFieldErrors: true,
+									success: function(){
+										
+										$(form)
+											.parent()
+												.remove("#forgotpassword")
+													.html(
+														"<div class='submitted-message alert alert-error'>" +
+															"<h4>Your password has been reset.</h4>" +
+															"<p>You will receive an email to set your new password. It should arrive shortly but may take a moment.</p>" +
+														"</div>"
+													);
+										return false;
+									}
+								});
 							});
+
+
 						});
 					//]]>
 					</script>
 					
-							<script type="text/javascript">
-							//<![CDATA[
-								var searchPrompt = "Find A Player";
-
-								$(document).ready(function() {
-									$("#participantName").val(searchPrompt);
-
-									$("#participantName").bind("blur focus", function(e) {
-										if(e.type == "focus" && $(this).val() == searchPrompt) {
-											$(this).val("");
-										} else if(e.type == "blur" && $(this).val() == "") {
-											$(this).val(searchPrompt);
-										}
-									});
-									$("#participantTeamSearch").bind("submit", function() {
-										if($("#participantName").val() == searchPrompt) {
-											$("#participantName").val("");
-										}
-									});
-								});
-							//]]>
-							</script>
-						
 			<script type="text/javascript">
 			//<![CDATA[
 				$(document).ready(function() {
@@ -280,25 +373,153 @@
 			//]]>
 			</script>
 			</head>
-		<body class="theme-extralife circuit-donordrive action-privacy language-en"> 
+		<body class="theme-extralife2014 circuit-donordrive action-privacy language-en" data-pagecontext="{&quot;language&quot;:&quot;en&quot;,&quot;circuit&quot;:&quot;donordrive&quot;,&quot;action&quot;:&quot;privacy&quot;,&quot;theme&quot;:&quot;extralife2014&quot;}"><div id="fb-root"></div> 
 
-<div id="bgmark"></div>
 
-<div id="wrap">
-	
-	<div id="header">
-
-		<div id="logoel"><a class="logo" href="http://extra-life.org"></a><a href="http://www.extra-life.org/register2012"><div class="topsignup"></div></a></div>
-
-		<div id="headeractions">
-			
-			<div id="btnlogin">
-				<a id="logintop" href="#">Account Login</a>
-				<div id="loginbox" style="display: none">
+<div id="header">
+	<div id="header-container">
+		<a id="logo" href="http://www.extra-life.org/index.cfm?"></a>
+		<a class="cmn-logo" href="http://childrensmiraclenetworkhospitals.org/"></a>
+		<div id="right-box">
+			<div class="dropdown">
+			  <button class="btn dropdown-toggle sr-only" type="button" id="dropdownMenu1" data-toggle="dropdown">
+			    Language
+			    <span class="caret"></span>
+			  </button>
+			  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+			    
+				<div id="languageselect">
 					
+						<span><a href="http://www.extra-life.org/?fuseaction=donorDrive.privacy&amp;language=en" class="on">English (US)</a>&nbsp;</span>
+					
+						<span><a href="http://www.extra-life.org/?fuseaction=donorDrive.privacy&amp;language=es">Spanish</a>&nbsp;</span>
+					
+						<span><a href="http://www.extra-life.org/?fuseaction=donorDrive.privacy&amp;language=fr">French (Canadian)</a>&nbsp;</span>
+					
+				</div>
+			
+			  </ul>
+			</div>
+			
+
+					<form id="participantTeamSearch" name="participantTeamSearch_horizontal" action="index.cfm?" method="post">
+						<input type="hidden" id="fuseaction" name="fuseaction" value="donorDrive.search">
+						
+						<label for="searchTerm">
+							
+							<input type="text" id="searchTerm" name="searchTerm" size="15" maxlength="50" placeholder="Search for a Player">
+						</label>
+						<label>
+							<button type="submit" title="Search"><span>Search</span></button>
+						</label>
+					</form>
+				
+		</div>
+		<div class="clr"></div>
+		
+						<ul class="topnavcms">
+							
+								<li class="page-1095 top-nav-1 on first"><a href="index.cfm?fuseaction=cms.home">What Is Extra Life?</a>
+								
+									
+									<ul>
+								
+								<li class="page-1100 top-nav-2"><a href="index.cfm?fuseaction=register.start&amp;eventID=520">Register Now!</a>
+								
+									
+									</li>
+								
+								<li class="page-1101 top-nav-3"><a href="index.cfm?fuseaction=cms.page&amp;id=1101">About Extra Life</a>
+								
+									
+									</li>
+								
+								<li class="page-1102 top-nav-4"><a href="http://childrensmiraclenetworkhospitals.org/About" target="_blank">About CMN Hospitals</a>
+								
+									
+									</li>
+								
+								<li class="page-1103 top-nav-5"><a href="index.cfm?fuseaction=cms.page&amp;id=1103">FAQs</a>
+								
+									
+									</li>
+								
+								<li class="page-1104 top-nav-6"><a href="index.cfm?fuseaction=cms.page&amp;id=1104">Safety Notice</a>
+								
+									
+									</li>
+								
+								<li class="page-1105 top-nav-7"><a href="index.cfm?fuseaction=cms.page&amp;id=1105">Partnership Inquiry</a>
+								
+									
+									</li></ul></li>
+								
+								<li class="page-1079 top-nav-8"><a href="index.cfm?fuseaction=cms.page&amp;id=1079">Experience</a>
+								
+									
+									<ul>
+								
+								<li class="page-1088 top-nav-9"><a href="index.cfm?fuseaction=cms.page&amp;id=1088">Incentives &amp; Swag</a>
+								
+									
+									</li>
+								
+								<li class="page-1091 top-nav-10"><a href="index.cfm?fuseaction=cms.page&amp;id=1091">Multimedia Kit</a>
+								
+									
+									</li>
+								
+								<li class="page-1090 top-nav-11"><a href="index.cfm?fuseaction=cms.page&amp;id=1090">Best Practices &amp; Tips</a>
+								
+									
+									</li>
+								
+								<li class="page-1110 top-nav-12"><a href="https://extralife.turnkeywow.com/" target="_blank">Extra Life Store</a>
+								
+									
+									</li>
+								
+								<li class="page-1098 top-nav-13"><a href="http://www.extra-life.org/event/platinumupgrade/">Upgrade to Platinum</a>
+								
+									
+									</li></ul></li>
+								
+								<li class="page-1080 top-nav-14 last"><a href="index.cfm?fuseaction=cms.page&amp;id=1080">Community</a>
+								
+									
+									<ul>
+								
+								<li class="page-1099 top-nav-15"><a href="http://blog.extra-life.org">Extra Life Blog</a>
+								
+									
+									</li>
+								
+								<li class="page-1093 top-nav-16"><a href="index.cfm?fuseaction=cms.page&amp;id=1093">Why Do You Extra Life?</a>
+								
+									
+									</li>
+								
+								<li class="page-1111 top-nav-17"><a href="index.cfm?fuseaction=cms.page&amp;id=1111">Guild Directory</a>
+								
+									
+									</li>
+								
+								<li class="page-1094 top-nav-18"><a href="index.cfm?fuseaction=cms.page&amp;id=1094">Forum (Coming Soon!)</a>
+								</li></ul></li>
+								
+						</ul>
+					
+		<div id="action-btns">
+			<a href="https://www.extra-life.org/register" class="btn btn-reg">Join</a>
+			<a href="https://www.extra-life.org/donate" class="btn btn-donate-now">Donate</a>
+			
+				<div id="login-wrap">
+					<a id="login-btn" class="btn" href="##">Login</a>
+					<div id="login-pod" class="dropdown" style="display: none;">
+						 
 
 					<div id="centralLoginDiv" class="box">
-						<h1><cufon class="cufon cufon-canvas" alt="Account " style="width: 112px; height: 32px;"><canvas width="131" height="36" style="width: 131px; height: 36px; top: -3px; left: -1px;"></canvas><cufontext>Account </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Login" style="width: 70px; height: 32px;"><canvas width="81" height="36" style="width: 81px; height: 36px; top: -3px; left: -1px;"></canvas><cufontext>Login</cufontext></cufon></h1>
+						<h1>Account Login</h1>
 						<div class="padding">
 							<form id="centrallogin" name="centralLogin" action="https://www.extra-life.org/index.cfm?" method="post">
 								<input type="hidden" id="validatelogin" name="validation" value="donorDrive.loginValidate">
@@ -319,7 +540,7 @@
 						</div>
 					</div>
 					<div id="forgotPasswordDiv" class="box" style="display: none;">
-						<h1><cufon class="cufon cufon-canvas" alt="Retrieve " style="width: 112px; height: 32px;"><canvas width="131" height="36" style="width: 131px; height: 36px; top: -3px; left: -1px;"></canvas><cufontext>Retrieve </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Password" style="width: 125px; height: 32px;"><canvas width="136" height="36" style="width: 136px; height: 36px; top: -3px; left: -1px;"></canvas><cufontext>Password</cufontext></cufon></h1>
+						<h1>Retrieve Password</h1>
 						<div class="padding">
 							<form id="forgotpassword" name="forgotPassword" action="index.cfm?" method="post">
 								<input type="hidden" id="validateforgotpassword" name="validation" value="donorDrive.ajaxForgotPasswordValidate">
@@ -337,44 +558,39 @@
 						</div>
 					</div>
 				
+					</div>
 				</div>
-			</div>
 			
-			<a href="index.cfm?fuseaction=donorDrive.donate&amp;eventID=508" id="btndonate">Donate Now</a>
-			
-
-					<form id="participantTeamSearch" name="participantTeamSearch_horizontal" action="index.cfm?" method="post">
-						<input type="hidden" id="fuseaction" name="fuseaction" value="donorDrive.search">
-						
-						<label for="participantName">
-							
-							<input type="text" id="participantName" name="participantName" size="15" maxlength="50">
-						</label>
-						<label>
-							<button type="submit" title="Search"><span>Search</span></button>
-						</label>
-					</form>
-				
 		</div>
-		<a id="logocmn" href="http://childrensmiraclenetworkhospitals.org/" target="_blank"></a>
-		<div id="toggle"><div id="languageselect"><cufon class="cufon cufon-canvas" alt="Select " style="width: 43px; height: 16px;"><canvas width="53" height="18" style="width: 53px; height: 18px; top: -2px; left: 0px;"></canvas><cufontext>Select </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Language:&nbsp; " style="width: 74px; height: 16px;"><canvas width="84" height="18" style="width: 84px; height: 18px; top: -2px; left: 0px;"></canvas><cufontext>Language:&nbsp; </cufontext></cufon><span><a href="http://www.extra-life.org/?fuseaction=donorDrive.privacy&amp;language=en" class="on"><cufon class="cufon cufon-canvas" alt="EN" style="width: 17px; height: 16px;"><canvas width="22" height="18" style="width: 22px; height: 18px; top: -2px; left: 0px;"></canvas><cufontext>EN</cufontext></cufon></a><cufon class="cufon cufon-canvas" alt="&nbsp;" style="width: 4px; height: 16px;"><canvas width="14" height="18" style="width: 14px; height: 18px; top: -2px; left: 0px;"></canvas><cufontext>&nbsp;</cufontext></cufon></span><cufon class="cufon cufon-canvas" alt=" " style="width: 4px; height: 16px;"><canvas width="14" height="18" style="width: 14px; height: 18px; top: -2px; left: 0px;"></canvas><cufontext> </cufontext></cufon><span><a href="http://www.extra-life.org/?fuseaction=donorDrive.privacy&amp;language=es"><cufon class="cufon cufon-canvas" alt="ES" style="width: 16px; height: 16px;"><canvas width="22" height="18" style="width: 22px; height: 18px; top: -2px; left: 0px;"></canvas><cufontext>ES</cufontext></cufon></a><cufon class="cufon cufon-canvas" alt="&nbsp;" style="width: 4px; height: 16px;"><canvas width="14" height="18" style="width: 14px; height: 18px; top: -2px; left: 0px;"></canvas><cufontext>&nbsp;</cufontext></cufon></span></div></div>
 	</div>
-	
+	<div class="clr"></div>
+</div>
 
+
+
+
+
+<div id="wrap">
 	
-	<div id="bodywrap">
-		<div id="wrap_banner"> 
-					
-					<a href="index.cfm?fuseaction=cms.home">
-						<img src="themes/extralife/img/logo_default.jpg" border="0">
-					</a>
-				</div>
-		<div id="contentwrap">
-			
-			<div id="leftCol">
+	<div id="m-nav"></div>
+	<div id="wrap-container">
+		
+		
+
+
+
+		
+		
+		
+		<div id="centerColinterior">
+			 <h1>Privacy Policy</h1><p><strong>Use of Links</strong><br>Throughout our Web pages, we provide links to other servers which may contain information of interest to our readers. We take no responsibility for, and exercise no control over, the organizations, views, or accuracy of the information contained on other servers.<br><br>Creating a text link from your Web site to our site does not require permission. If you have a link you'd like us to consider adding to our Web site, please send an email to&nbsp;<a href="mailto:application.support@cmnhospitals.org">Support</a>&nbsp;with the subject "Link request."</p><p><strong>Use of Text and Images</strong><br>If you would like to publish information that you find on our Web site, please send your request to <a href="mailto:application.support@cmnhospitals.org">Support</a>. Where text or images are posted on our site with the permission of the original copyright holder, a copyright statement appears at the bottom of the page.<br><br>Information about using our logo and images is available in Media Resources.</p><p><strong>Accessibility</strong><br>This Web site is designed to be accessible to visitors with disabilities, and to comply with federal guidelines concerning accessibility. We welcome your comments. If you have suggestions on how to make the site more accessible, please contact us at <a href="mailto:application.support@cmnhospitals.org">Support</a>.</p><p><strong>Web Site Privacy Policy</strong><br>We have created this statement to demonstrate our firm commitment to your privacy. We do not collect personally identifying information about you when you visit our site, unless you choose to provide such information to us. Providing such information is strictly voluntary. This policy is your guide to how we will handle information we learn about you from your visit to our Web site.</p><ul><li><p>Reading or Downloading<br>We collect and store only the following information about you: the name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account, or princeton.edu if you are connecting from Princeton University's domain), the date and time you access our site, and the Internet address of the Web site from which you linked to our site.</p><p>We use the information we collect to measure the number of visitors to the different sections of our site, and to help us make our site more useful to visitors.</p></li><li><p>Online Profile Updates and Donations<br>If you complete the Profile update form and share your personally identifying information, this information will be used only to provide you with more targeted content. We may use your contact information to send further information about our organization or to contact you when necessary. You may always opt-out of receiving future mailings; see the "Opt Out" section below.</p></li><li><p>Sending us an Email<br>You also may decide to send us personally identifying information, for example, in an electronic mail message containing a question or comment, or by filling out a Web form that provides us this information. We use personally identifying information from email primarily to respond to your requests. We may forward your email to other employees who are better able to answer you questions. We may also use your email to contact you in the future about our programs that may be of interest.</p><p>We want to be very clear: We will not obtain personally identifying information about you when you visit our site, unless you choose to provide such information to us. Providing such information is strictly voluntary. Except as might be required by law, we do not share any information we receive with any outside parties.</p><p>If you sign up for one of our email lists, we will only send you the kinds of information you have requested. We won't share your name or email address with any outside parties.</p></li><li><p>Kids and Privacy<br>For children who visit our site, special rules apply. We do not request personal information about children, such as first and last name or street address and city. When kids send email to us, their online contact information (email address) is not used to re-contact them and is not maintained in retrievable form.</p></li></ul><p><strong>Questions about our policies</strong></p><p>If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at: <a href="mailto:application.support@cmnhospitals.org">application.support@cmnhospitals.org</a></p> 
+			<div class="clr"></div>
+		
+		</div>
+		<div id="leftCol">
 					<div id="socialBtns" class="box">
 						
-							<h1><cufon class="cufon cufon-canvas" alt="Get " style="width: 50px; height: 32px;"><canvas width="69" height="36" style="width: 69px; height: 36px; top: -3px; left: -1px;"></canvas><cufontext>Get </cufontext></cufon><cufon class="cufon cufon-canvas" alt="the " style="width: 48px; height: 32px;"><canvas width="67" height="36" style="width: 67px; height: 36px; top: -3px; left: -1px;"></canvas><cufontext>the </cufontext></cufon><cufon class="cufon cufon-canvas" alt="word " style="width: 73px; height: 32px;"><canvas width="92" height="36" style="width: 92px; height: 36px; top: -3px; left: -1px;"></canvas><cufontext>word </cufontext></cufon><cufon class="cufon cufon-canvas" alt="out" style="width: 41px; height: 32px;"><canvas width="59" height="36" style="width: 59px; height: 36px; top: -3px; left: -1px;"></canvas><cufontext>out</cufontext></cufon></h1>
+							<h1>Get the word out</h1>
 						
 						<div class="padding">
 							
@@ -394,79 +610,44 @@
 						</div>
 					</div>
 				</div> 
-			
-			
-			<div id="centerColinterior">
-				<h1><cufon class="cufon cufon-canvas" alt="Privacy " style="width: 102px; height: 32px;"><canvas width="121" height="36" style="width: 121px; height: 36px; top: -3px; left: -1px;"></canvas><cufontext>Privacy </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Policy" style="width: 77px; height: 32px;"><canvas width="89" height="36" style="width: 89px; height: 36px; top: -3px; left: -1px;"></canvas><cufontext>Policy</cufontext></cufon></h1><p><strong>Use of Links</strong><br>Throughout our Web pages, we provide links to other servers which may contain information of interest to our readers. We take no responsibility for, and exercise no control over, the organizations, views, or accuracy of the information contained on other servers.<br><br>Creating a text link from your Web site to our site does not require permission. If you have a link you'd like us to consider adding to our Web site, please send an email to&nbsp;<a href="mailto:application.support@cmnhospitals.org">Support</a>&nbsp;with the subject "Link request."</p><p><strong>Use of Text and Images</strong><br>If you would like to publish information that you find on our Web site, please send your request to <a href="mailto:application.support@cmnhospitals.org">Support</a>. Where text or images are posted on our site with the permission of the original copyright holder, a copyright statement appears at the bottom of the page.<br><br>Information about using our logo and images is available in Media Resources.</p><p><strong>Accessibility</strong><br>This Web site is designed to be accessible to visitors with disabilities, and to comply with federal guidelines concerning accessibility. We welcome your comments. If you have suggestions on how to make the site more accessible, please contact us at <a href="mailto:application.support@cmnhospitals.org">Support</a>.</p><p><strong>Web Site Privacy Policy</strong><br>We have created this statement to demonstrate our firm commitment to your privacy. We do not collect personally identifying information about you when you visit our site, unless you choose to provide such information to us. Providing such information is strictly voluntary. This policy is your guide to how we will handle information we learn about you from your visit to our Web site.</p><ul><li><p>Reading or Downloading<br>We collect and store only the following information about you: the name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account, or princeton.edu if you are connecting from Princeton University's domain), the date and time you access our site, and the Internet address of the Web site from which you linked to our site.</p><p>We use the information we collect to measure the number of visitors to the different sections of our site, and to help us make our site more useful to visitors.</p></li><li><p>Online Profile Updates and Donations<br>If you complete the Profile update form and share your personally identifying information, this information will be used only to provide you with more targeted content. We may use your contact information to send further information about our organization or to contact you when necessary. You may always opt-out of receiving future mailings; see the "Opt Out" section below.</p></li><li><p>Sending us an Email<br>You also may decide to send us personally identifying information, for example, in an electronic mail message containing a question or comment, or by filling out a Web form that provides us this information. We use personally identifying information from email primarily to respond to your requests. We may forward your email to other employees who are better able to answer you questions. We may also use your email to contact you in the future about our programs that may be of interest.</p><p>We want to be very clear: We will not obtain personally identifying information about you when you visit our site, unless you choose to provide such information to us. Providing such information is strictly voluntary. Except as might be required by law, we do not share any information we receive with any outside parties.</p><p>If you sign up for one of our email lists, we will only send you the kinds of information you have requested. We won't share your name or email address with any outside parties.</p></li><li><p>Kids and Privacy<br>For children who visit our site, special rules apply. We do not request personal information about children, such as first and last name or street address and city. When kids send email to us, their online contact information (email address) is not used to re-contact them and is not maintained in retrievable form.</p></li></ul><p><strong>Questions about our policies</strong></p><p>If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at: <a href="mailto:application.support@cmnhospitals.org">application.support@cmnhospitals.org</a></p> 
-			</div>
-			
-			<div class="clr">&nbsp;</div>
-		</div>
-	</div>
-	
-	<div class="clr">&nbsp;</div>
-
-<div id="footer">
-	
-	<div id="footertxt">
-		© 2012 Children's Miracle Network Hospitals 
-		<br>
-		All Rights Reserved.&nbsp;
-		<a href="index.cfm?fuseaction=donorDrive.privacy">Privacy</a> 
-		&nbsp;|&nbsp;
-		<a href="index.cfm?fuseaction=donorDrive.contactUs">Contact</a> 
+		
+		<div class="clr"></div>
 	</div>
 
-	<a href="http://www.donordrive.com" title="Powered by DonorDrive®" id="poweredby" target="_blank"></a>
-	<div class="clr">&nbsp;</div>
 </div>
 
-<script type="text/javascript">
-//<![CDATA[
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-//]]>
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-try {
-	var pageTracker = _gat._getTracker("UA-24288460-1");
-	pageTracker._setLocalRemoteServerMode();
-	pageTracker._trackPageview();
-}
-catch(err) {}
-//]]>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-var intervalID = setInterval(
-	function() {
-		if (document.readyState !== "complete") return;
 
-		clearInterval(intervalID);
 
-		try {
-			if($("#metrics-cycle").length) {
-				$("#metrics-cycle").cycle("destroy");
-				$("#team-contribution-banner").remove();
-				if($("#metrics-cycle").children().length == 0) {
-					$("#metrics-cycle-wrap").remove();
-				} else {
-					$('#metrics-cycle').cycle({
-						timeout: 10000,
-						speed: 300,
-						pause: true,
-						fx: 'scrollLeft',
-						pager: '#metrics-pager',
-						pagerAnchorBuilder: function(index, el) { return '<a href="#">•</a>' }
-					});
-				}
-			}
-		} catch(e) {
-			// do nothing
-		}
-	},
-	100
-);
-//]]>
-</script>  </div></body></html>
+<div id="footer">
+	<div id="footer-container">
+		<div id="left-footer-box">
+			<a href="http://www.extra-life.org/index.cfm?" id="footer-logo"></a>
+			<a class="cmn-logo" href="http://childrensmiraclenetworkhospitals.org/"></a>
+			<a id="powered-by" href="http://www.donordrive.com" title="Powered by DonorDrive® Social Fundraising" target="_blank"></a>
+			<div class="clr">&nbsp;</div>
+			
+			<div id="footer-text">
+				© 2014 Children's Miracle Network Hospitals <a href="index.cfm?fuseaction=donorDrive.privacy">Privacy</a> 
+				&nbsp;&nbsp;
+				<a href="index.cfm?fuseaction=donorDrive.contactUs">Contact</a> 
+			</div>
+		</div>
+		<div id="right-footer-box">
+			<div id="social-icons">
+				<h1> Connect With Us: </h1>
+				<a href="https://twitter.com/ExtraLife4Kids" id="twitter-icon" target="_blank"></a>
+				<a href="https://www.facebook.com/ExtraLife4Kids" id="facebook-icon" target="_blank"></a>
+				<a href="http://blog.extra-life.org/" id="blog-icon" target="_blank"></a>
+			</div>
+			<div class="clr">&nbsp;</div>
+			<a href="https://www.extra-life.org/register" class="btn btn-reg">Join</a>
+			<a href="https://www.extra-life.org/donate" class="btn btn-donate-now">Donate</a>
+		</div>
+		<div class="clr">&nbsp;</div>
+	</div>
+</div>
+
+
+
+
+ </body></html>
