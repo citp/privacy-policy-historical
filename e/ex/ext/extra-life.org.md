@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the extra-life.org privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231005010id_/http%3A//www.extra-life.org/index.cfm%3Ffuseaction%3DdonorDrive.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extra-life.org privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517191643id_/http%3A//www.extra-life.org/index.cfm%3Ffuseaction%3DdonorDrive.privacy) for the most accurate reproduction.*
 
-# Play Games. Heal Kids. | Extra Life - DonorDrive®
+# Play Games. Heal Kids. | Extra Life
 
 **Use of Links**  
 Throughout our Web pages, we provide links to other servers which may contain information of interest to our readers. We take no responsibility for, and exercise no control over, the organizations, views, or accuracy of the information contained on other servers.
