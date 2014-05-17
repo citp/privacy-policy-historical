@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightthenight.org privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821020815id_/http%3A//www.lightthenight.org/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightthenight.org privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517170042id_/http%3A//www.lightthenight.org/footer/privacy) for the most accurate reproduction.*
 
 # Privacy
 
