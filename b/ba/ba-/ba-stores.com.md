@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ba-stores.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108224016id_/http%3A//www.ba-stores.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ba-stores.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517164851id_/http%3A//www.ba-stores.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - B/A Stores
 
