@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telegram.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116021006id_/http%3A//www.telegram.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telegram.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517061146id_/http%3A//www.telegram.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy - Worcester Telegram & Gazette - telegram.com
 
