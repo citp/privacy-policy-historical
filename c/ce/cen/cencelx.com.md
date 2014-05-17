@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cencelx.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220104218id_/http%3A//www.cencelx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cencelx.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517175644id_/http%3A//www.cencelx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cencelx
 
