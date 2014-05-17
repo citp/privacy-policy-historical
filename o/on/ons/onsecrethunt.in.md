@@ -1,43 +1,63 @@
-> *The following text is extracted and transformed from the onsecrethunt.in privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204195321id_/http%3A//www.onsecrethunt.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onsecrethunt.in privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517054717id_/http%3A//www.onsecrethunt.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Festivals and Events
 
-### [](http://www.onsecrethunt.in/wp-content/uploads/2013/09/privacy-policy.jpg)
+This Privacy Policy governs the manner in which On Secret Hunt – Festivals and Events collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.onsecrethunt.in website (“Site”). This privacy policy applies to the Site and all products and services offered by On Secret Hunt – Festivals and Events.
 
-### News – On Secret Hunt, Privacy Policy
+## Personal Identification Information
 
-At  **News – On Secret Hunt** , we appreciate your readership and support and place a high value on your personal privacy. We respect the personal nature of the information you provide us on our web site and staunchly recognize the importance of protecting this information. In adopting this privacy policy (this “Privacy Policy”), our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy. This Privacy Policy may be revised or updated at any time and we encourage you to check back often to ensure that you are familiar with the most recent version and the terms of our Privacy Policy.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-### When does News – On Secret Hunt collect my personal information?
+## Non-personal Identification Information
 
-You may provide personal information to OSH everal ways including:
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-(1)By sharing your e-mail address when subscribing to our newsletter.
+## Web Browser Cookies
 
-(2)By sharing personal information when submit your Article,Tutorial,Tips & Tricks and more… to us or by submitting a report via our Contact Form or Feedback Form.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-(3)By sharing personal information when you post comments on our posts.
+_**How we use collected information**_
 
-(4)By sharing contact information (Twitter username and Facebook account name) through our contests.
+**On Secret Hunt – Festivals and Events may collect and use Users personal information for the following purposes:**
 
-In addition to basic contact information, our analytics trackers may also collect other information. This may include the operating system you are working on, the Internet browser you are using, and the screen resolution of your computer.
+\- To improve customer service  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.  
+\- To personalize user experience  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
+\- To improve our Site  
+We may use feedback you provide to improve our products and services.  
+\- To send periodic emails  
+We may use the email address to send them information and updates pertaining to their order. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may [contact](http://www.onsecrethunt.in/contact/ "contact") us via our Site.
 
-### How does News – On Secret Hunt use my personal information?
+##  How we Protect Your Information
 
-Depending on the portion of our site that you have subscribed to or interacted with, we may use your information in a number of ways.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-  * The email address you provided through our newsletter subscription form enables us to send you a daily digest of OSH news stories and posts. This subscription is entirely opt-in by the user. (We cannot subscribe you to the newsletter as you personally must have access to the email account in order to verify the subscription.) Subscribers can opt-out of our newsletter at any time by clicking the “Unsubscribe” link that is present on every email at the very bottom of the newsletter.
-  * The email address that you use when contacting via our Contact Form will not be used for any reason but for the purposes of responding to your inquiry.
-  * We may at times request your participation in a survey. We will not provide your email addresses to any third party but may contact you via them to distribute prizes in associated giveaways.
-  * We may also share your email address such information will be used for data analytics and advertising targeting. However, we do not sell individual personal data or email addresses or allow them to be used for mailings you have not asked to receive.
+## Sharing your Personal Information
 
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
+## Advertising
 
-We have also contracted with a number of advertising network partners to monitor certain pages of our website and RSS feeds for the purpose of reporting website and RSS traffic, statistics, advertisement “click-throughs,” and/or other activities on our website. Where authorized by us, these advertising network partners may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to these network partners. For more information about how the information is collected and used, please see the following:
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-  * Feedburner’s privacy policy at <http://www.feedburner.com/fb/a/privacy>
-  * Google’s privacy policy at <http://www.google.com/privacy.html>
+## Google AdSense
 
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
+## Changes to this Privacy Policy
 
-Accounts associated with OSH are all ‘public.’ By ‘public,’ we mean that certain information will be viewable by all users. What you see on other user profiles is the same information that other users can see about you.
+On Secret Hunt – Festivals and Events has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+## Your Acceptance of These Terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+## Contacting US
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+On Secret Hunt – Festivals and Events  
+www.onsecrethunt.in
+
+Email: admin(@)onsecrethunt.in  
+This document was last updated on May, 15, 2014
