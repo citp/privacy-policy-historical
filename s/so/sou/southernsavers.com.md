@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the southernsavers.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116155610id_/http%3A//www.southernsavers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southernsavers.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517191758id_/http%3A//www.southernsavers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy :: Southern Savers
+# Privacy Policy - Southern Savers :: Southern Savers
 
 This document was last updated on November 27, 2009.
 
@@ -12,9 +12,9 @@ Southern Savers LLC is committed to protecting your privacy. This Privacy Statem
 
 Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in Southern Savers LLC services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
 
-**3. Information We Collect and How We Use It** Southern Savers LLC collects certain information from and about its users two ways: directly from our Web Server logs, and the user.
+**3. Information We Collect and How We Use It** Southern Savers LLC collects certain information from and about its users two ways: directly from our Web Server logs, and the user. 
 
- **a. ****Web Server Logs**.
+**a. ****Web Server Logs**.
 
 When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
 
