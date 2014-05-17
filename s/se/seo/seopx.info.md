@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the seopx.info privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102202546id_/http%3A//www.seopx.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seopx.info privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517053446id_/http%3A//www.seopx.info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Best Link Building service
-
-## Privacy Policy
+# Privacy Policy
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
