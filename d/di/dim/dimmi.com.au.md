@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dimmi.com.au privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205094617id_/http%3A//www.dimmi.com.au/links/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dimmi.com.au privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517130651id_/http%3A//www.dimmi.com.au/links/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dimmi
 
@@ -112,4 +112,4 @@ We may occasionally make changes to our privacy policy or practices. You should 
 
 **HOW TO CONTACT US**
 
-For more information, you may obtain a printed copy of our Privacy Policy by writing to us at Suite 401, 66 Berry Street, North Sydney, NSW, 2060 or send us an email [privacy@dimmi.com.au](mailto:privacy@dimmi.com.au).
+For more information, you may obtain a printed copy of our Privacy Policy by writing to us at Suite 5, Level 2, 12-16 Chippen St, Chippendale NSW 2008 or send us an email [privacy@dimmi.com.au](mailto:privacy@dimmi.com.au).
