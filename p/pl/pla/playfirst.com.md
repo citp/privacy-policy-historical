@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the playfirst.com privacy policy that was archived on 2013-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130910053957id_/http%3A//www.playfirst.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playfirst.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517162033id_/http%3A//www.playfirst.com/privacy-policy) for the most accurate reproduction.*
 
 # Play fun games for your iPhone, iPad, Kindle Tablet, PC, Mac and More - PlayFirst Games
 
-Last updated May 15, 2013
+Last updated April, 23, 2014
 
 Welcome to PlayFirst.com!
 
@@ -153,8 +153,8 @@ If you have questions or wish to send us comments about this Privacy Policy, ple
 
 PlayFirst, Inc.  
 Attn.: Legal Counsel  
-160 Spear Street, Suite 1300  
-San Francisco, CA 94105  
+303 2nd Street, Suite 520  
+San Francisco, CA 94107  
 Email Address: Privacy@playfirst.com  
 Phone Number: (415) 848-5800.
 
@@ -172,8 +172,8 @@ If you have questions or wish to send us comments about this Privacy Policy, ple
 
 PlayFirst, Inc.  
 Attn.: Legal Counsel  
-160 Spear Street, Suite 1300  
-San Francisco, CA 94105  
+303, 2nd Street, Suite 520  
+San Francisco, CA 94107  
 Email Address: Privacy@playfirst.com  
 Phone Number: (415) 848-5800
 
