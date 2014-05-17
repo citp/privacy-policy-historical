@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tollytrendz.net privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230192145id_/http%3A//www.tollytrendz.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tollytrendz.net privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517053425id_/http%3A//www.tollytrendz.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Tollywood Updates Telugu Movie Reviews | Telugu Movie News
+# Privacy policy - Tollywood Updates Telugu Movie Reviews | Telugu Movie News
 
 This Privacy Policy governs the manner in which tollytrendz collects, uses, maintains and discloses information collected from users (each, a “User”) of the tollytrendz.net website (“Site”). This privacy policy applies to the Site and all products and services offered by tollytrendz.
 
@@ -65,4 +65,4 @@ contact@tollytrendz.net
 
 This document was last updated on August 04, 2013
 
-comments
+your comments about the post
