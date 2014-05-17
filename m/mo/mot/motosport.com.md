@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the motosport.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116135236id_/http%3A//www.motosport.com/dirtbike/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motosport.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517153132id_/http%3A//www.motosport.com/dirtbike/about/privacypolicy) for the most accurate reproduction.*
 
-# The #1 Online Dirt Bike & Motocross Store - Shop With The Guys That Ride | MotoSport
+# The #1 Online Dirt Bike & Motocross Store - Shop With The Guys That Ride | MotoSport Russian Federation
 
 Last Updated: September 2010
 
-We are strongly committed to protecting the privacy of your personal information.  The policies below are applicable to the MotoSport.com website and to other Internet domains owned by us that direct traffic to MotoSport.com (collectively, "Website"), produced and maintained by MotoSport, Inc. ("MotoSport," "we", "us", or "our"). We have established this security and privacy policy ("Privacy Policy") to let you know the kinds of personal information we may gather during your visit to the Website, why we gather your information, what we use your personal information for, when we might disclose your personal information, how you can manage your personal information, and the security procedures that are in place to protect the information.
+We are strongly committed to protecting the privacy of your personal information.  The policies below are applicable to the MotoSport.com website and to other Internet domains owned by us that direct traffic to MotoSport.com (collectively, "Website"), produced and maintained by MotoSport. ("MotoSport," "we", "us", or "our"). We have established this security and privacy policy ("Privacy Policy") to let you know the kinds of personal information we may gather during your visit to the Website, why we gather your information, what we use your personal information for, when we might disclose your personal information, how you can manage your personal information, and the security procedures that are in place to protect the information.
 
 Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Website and, where applicable, through this Website's Customer Service Department in connection with this Website, and do not necessarily reflect our practices with respect to information gathered through other Websites that we operate or through other off-line means.
 
@@ -77,7 +77,7 @@ We may use your information to notify you of important changes to the Website or
 
 Sales  
 Attn: Remove  
-MotoSport, Inc.  
+MotoSport  
 7655 SW Mohawk St.Tualatin, OR 97062
 
 Opting out may prevent you from receiving email messages regarding updates, improvements, newsletters, or special offers. 
