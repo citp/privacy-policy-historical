@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenwichtime.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114135455id_/http%3A//www.greenwichtime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenwichtime.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517055419id_/http%3A//www.greenwichtime.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GreenwichTime
 
@@ -40,6 +40,9 @@ PRIVACY POLICY
 
   
 **(f) Third Parties.** We may receive information from third parties, including demographic information from your mobile carrier, and information from third parties that solicit subscriptions to ourNewspaper. Those third parties have privacy policies that differ from this Privacy Policy.
+
+  
+**(g) Tracking Requests.** Hearst does not act on Do Not Track requests from your browser. For more information click here.
 
   
 **3\. Use of Information.**
