@@ -1,122 +1,152 @@
-> *The following text is extracted and transformed from the sportshub.com.sg privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127053815id_/http%3A//www.sportshub.com.sg/indoor-stadium/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportshub.com.sg privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517142640id_/http%3A//www.sportshub.com.sg/indoor-stadium/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement | Sports Hub
+# Privacy Policy | Singapore Sports Hub
 
-**SINGAPORE SPORTS HUB PRIVACY POLICY**
+**_SPORTSHUB’S WEBSITE PRIVACY POLICY_**
 
-Updated on 23 September 2013.
+ ** _Last updated on 16 March 2014_**
 
-SportsHub Pte Ltd and its contracted partners (“ **SportsHub** ”) recognize the importance of individual’s personal privacy and the sensitivity of individual’s personal information. SportsHub is committed to protecting any individual’s personal information received from customers, visitors or users (“ **Users** ”).
+This is a SportsHub Pte Ltd (“ **SportsHub** ” or “ **we** ”) website. Thank you for viewing our Privacy Policy. By entering and using this website, you expressly consent to the use of your personal data in accordance with the terms of this Privacy Policy.
 
-This privacy policy (the “ **Policy** ”) complies with the Personal Data Protection Act 2012 (No. 26 of 2012) (“ **PDPA** ”). It outlines how SportsHub will collect, use and disclose personal data through SportsHub’s websites, online services, including www.sportshub.com.sg, mobile applications and any other websites or online services owned or operated by SportsHub (the “ **Sites** ”) or SportsHub’s physical points of sales (the “ **Services** ”). This Policy does not apply to websites over which SportsHub has no control or to SportsHub’s other websites, online services or points of sales that display or link to other privacy policies.
+We recognise the importance and sensitivity of any personal data we may collect from you from time to time and are committed to protect your privacy and to process your data in accordance with the Personal Data Protection Act (the “ **PDPA** ”) and any other relevant legislation.
 
- _ **How Personal Information is collected**_
+Please read this Privacy Policy carefully to ensure that you are aware of and understand what data we may collect from you, how we may use that data, how you can get in touch with us if you wish to limit our use of that data and more generally of the steps we take to protect your privacy.
 
-SportsHub collects information:
+References in this Policy to our partners include our strategic partners, hirers, promoters, affiliates, agents, third party service providers and other related third parties from time to time.
 
-• directly from the User if a User buys tickets, creates an account, registers for a promotion, enter a competition or free prize draw, download a Site, post comments on the Sites, ask SportsHub a question, email SportsHub or interact with SportsHub’s call centres or customer care;
+ **What is personal data?**
 
-• indirectly through cookies and web beacons presents on the Sites;
+Personal data is data, whether true or not, about you, from which you can be identified either on its own or together with and other information to which we have or are likely to have access.
 
-• from third parties, for example, if a User chooses to use a third party integrated social media feature on the Sites, such third party will give SportsHub certain information about the User.
+However, please note that the PDPA imposes no specific requirements in relation to our handling of data which relates to your business contact information, such as your business position and business contact details, where you have provided such information to us not only for personal purposes.
 
-_**Personal Information collected**_
+ **Examples of personal data we may collect**
 
-Personal information that may be collected by SportsHub:
+ _User’s Account and Survey Information:_ **** The type of personal data we may collect from you for the purposes of administering any registration you have opted to take and for market surveys or research purposes may include the following: first name, last name, username, password, gender, date of birth or age, postal address, contact number, e-mail address, NRIC/passport or other identification information, city of birth and nationality, where applicable.
 
-• name, postal address, phone number and email address;
+ _Financial Information:_ we may also collect certain financial information such as bank account, credit card details and other payment information for payment processing purposes when you purchase products and/or services from us.
 
-• financial information, such as bank account and credit card details and other payment information;
+ _Purchase Information:_ we will collect data pertaining to product/services purchased such as location of purchase; time of purchase; frequency of purchase; rewards earned and redeemed and so forth.
 
-• Users’ account information such as user name, password, birthday, city of birth, gender, nationality, mobile number, etc;
+ _Membership Card Information:_ **** we will collect data such as card number; card transaction; loading value; redeeming value; balance value and so forth.
 
-• Users’ purchase information, such as what Users buy, where, how frequently, rewards earned and redeemed, etc;
+ _Mobile Applications Information:_ **** we will collect data such as your device ID; device location and so forth.
 
-• membership card information, such as card number, card transaction, loading value, redeeming value, balance value, etc;
+ _Internet Information:_ **** we may automatically collect information relating to your use of our website(s) and services, including but not limited to your internet service provider; operating systems; computer browser information; domain names; IP addresses; access times; pages visited and so forth. We may further collect aggregated data or anonymised data that does not directly identify individuals.
 
-• mobile applications use information, such as device ID, location, etc;
+ **How we collect and use your personal data**
 
-• Users’ survey information, such as demographic information, Users’ comments, feedback, questions or suggestions, Users’ matters of interest, etc;
+ _Products and services purchases_
 
-SportsHub may automatically collect use information of the Sites or Services, such as:
+We may collect information from you in order to provide you with better personalised services in relation to ticket bookings and other associated products and services you have selected to receive or enquired about. In doing so, we will only collect personal data that we consider reasonably necessary to achieve these purposes, such as:
 
-• Users’ Internet service provider, operating systems, computer browser information, domain name, IP address, access time, and pages visited on the Sites, etc.  
-The collection of this information may involve the use of cookies and web beacons (Refer to the section on “Cookies” below).
+  * processing and managing your purchases;
 
-SportsHub may also collect aggregated data or anonymized data that does not directly identify Users.
 
-_**Purpose for collection, use or disclosure of personal information collected**_
 
-SportsHub collects information for the purposes disclosed to Users on the Sites or with the Services when the collection of the information is made or as described in this Policy.
+· responding to or taking other actions in response to your enquiries;
 
-SportsHub essentially collects and use information to provide and improve its services to meet Users’ needs, and to customize services to make a better user experience that is more secure and convenient. SportsHub only collects personal information of Users that it considers reasonably necessary for achieving these purposes.
+· communicating event information and updates in relation to any tickets you have purchased;
 
-For instance, SportsHub may collect information about Users to:
+· delivering any products, information or other services that you may have ordered from us;
 
-• process and manage Users’ purchase;
+· combining your data with information received from other sources and analysing it to further tailor our products, services and site contents to suit our patrons’ interests, and for market survey and research purposes; and
 
-• respond to, or take other actions in response to Users’ enquiries;
+· monitoring and recording communications with you to make sure that we follow your instructions correctly and improve our services to you through training our staff.
 
-• where User has purchased a ticket to an event, to communicate event information;
+ _Optional services_
 
-• analyse User information to tailor SportsHub’s products, services and Sites content to suite Users interests.
+We may also collect your data if you have indicated that you would like to sign up for any of our optional services, such as:
 
-If Users consent, SportsHub will use the User’s personal information to communicate promotional offerings such as SportsHub’s event programming, products or service offers.
+· registering for our newsletters, alerts, loyalty or membership programmes;
 
-_**Sharing of information with and disclosure to third parties**_
+· applying to participate in our promotions, contests, competitions, sweepstakes and lucky draws;
 
-Users’ personal information will not be shared with or disclosed to third parties (whether for their marketing purposes or otherwise) without Users’ consent.
+· signing up to receive information on shows, events, activities, and promotions taking place at the SportsHub and/or other venues in Singapore; and
 
-However, SportsHub reserve the right to disclose personal information without Users’ consent to:
+· registering with us, participating to our surveys, and/or sending us any enquiries or messages (including, complaints, comments and other feedback), via our website(s) or otherwise.
 
-• SportsHub’s parent or affiliated companies;
+ _Automatic collection_
 
-• SportsHub’s third party service providers for supports services, hosting of the Sites, management of data, credit card or other payment processing;
+We also collect statistical or behavioural data from time to time which is stored for analytical purposes. This is not personal data as it is anonymous in nature and does not reveal your personal identity. Information of this nature includes but is not limited to:
 
-• SportsHub’s contractors acting on behalf of SportsHub, such as Global Spectrum Pico Pte Ltd, World Sport Group Pte Ltd, SMRT Alpha Pte Ltd, Sports Catering Services Pte Ltd, New Era Tickets Asia Pte Ltd;
+· site visit information: server address, date and time of visit, pages accessed, information downloaded, type of browser used;
 
-• SportsHub’s event promoters (to help the promoter run the event which a User has bought a ticket to) or ticketing agent;
+· cookies: Cookies are small data files that a website can place on your computer hard drives and which record certain technical information about your internet usage. SportsHub uses cookies on certain pages of its websites to help improve and enhance customer experience, including but not limited to detect your web browser’s multimedia capabilities, to track promotional advertisements, to maintain current login and purchase information on secure portions of the sites and to provide a unique identifier to your computer so that SportsHub can generate statistics regarding the site usage. The unique information is not matched with any personal data. Most cookies are “session cookies” meaning that they are automatically deleted from your hard drive at the end of a session. You always have the option to decline cookies (if your browser permits you to do so), although in that case, you may not be able to use certain features on our websites and may be required to enter your password more frequently during a session on the sites.
 
-• any government or regulatory authorities, where required or permitted by applicable law, statute, stock exchange regulation or by-law, regulatory or governmental order or court order for the purpose of any investigations or proceedings; and
+· Web beacons: these are electronic images that may be used on our website(s) or in SportsHub’s e-mails to deliver cookies, count visits, understand usage and campaign effectiveness and to let us know which emails and links have been opened and what action has been taken in relation to those.
 
-• SportsHub’s professional advisors such as lawyers, auditors, etc, to enforce SportsHub’s agreements, policies and terms of use, or in the event of operations involving the transfer of all or any part of SportsHub’s business; or to protect the rights, property or safety of SportsHub, its employees, customers, agents and third parties of any tier to the extent required in the normal course and scope of SportsHub’s business in the provision of its services.
+ **Disclosing and transferring your personal data, in Singapore and overseas**
 
-_**Accuracy**_
+We engage external partners to perform various functions for and on our behalf, such as marketing services, events promotion and sponsoring, ticketing and sales services, as well as information and communication technology services. Accordingly, we will share your data with our partners to the extent necessary to administer any products or services you have chosen to receive from us, as well as for market research and survey purposes.
 
-SportsHub makes reasonable efforts to ensure that personal data which are going to be used or disclosed to a third party is accurate.
+Our partners **** will not be entitled to use your personal data for their own purposes unless you have consented to them doing so (e.g. if you wish to receive information about events, promotions and activities taking place at Singapore venues outside SportsHub from them).
 
-_**Transfer of Personal Information to other countries**_
+We will not share or disclose your personal data to any other third parties (whether for marketing purposes or otherwise) without your consent, save as otherwise required or permitted by law.
 
-In the normal course and scope of SportsHub’s business in the provision of its services, User information may be transferred to other countries. If SportsHub does transfer such information, it will ensure that such other countries have in place appropriate protection in accordance with the PDPA.
+Please note that the partners (and, with your consent, any other third parties) to whom we disclose your information may transfer it to countries outside Singapore. Where this is the case, we will put in place measures in our contractual arrangements with them to ensure that they will provide a standard of protection to your personal data comparable to the protection provided by the PDPA and other applicable legislation.
 
-_**Security**_
+ **Protecting your data**
 
-SportsHub takes reasonable steps to ensure appropriate physical, technical and administrative security to prevent loss, misuse, unauthorised access, collection, use, disclosure, copying or modification of personal data.
+SportsHub uses industry standards efforts to protect the confidentiality of your personal data, storing data on secure servers and taking other security measures to prevent unauthorised access, collection, use, disclosure, copying modification, disposal or similar risks in relation to your data. We regularly review developments in relation to security and encryption technologies.
 
-_**Cookies**_
+However, you will realise that no data transmission over the internet can be guaranteed as totally secure and therefore, unfortunately, we cannot ensure or warrant the total security of any information transmitted from our online products or services.
 
-Cookies are small data files that a website can place on Users’ computer's hard drive and which records certain technical information about Users’ Internet usage, such as IP address, browser type or domain name. SportsHub is using cookies on certain pages of the Sites to help improving the Sites and customers’ experience, including among others purposes: to detect Users’ web browser's multimedia capabilities; to track promotional advertisements that SportsHub has displayed to Users; to maintain current login and purchase information on secure portions of the Site; and to provide a unique identifier to Users’ computer so that SportsHub can generate statistics regarding the Sites’ usage. The unique identifiers are not matched with any personal information. Most cookies are "session cookies", meaning that they are automatically deleted from Users’ hard drive at the end of a session. Users are always free to decline cookies (if the User’s browser permits to do so), although in that case Users may not be able to use certain features on the Sites and may be required to enter their password more frequently during a session on the Sites.
+ **Accuracy of personal data**
 
-Web beacons are electronic images that may be used on the Sites or in SportsHub’s emails to deliver cookies, count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon.
+We will take reasonable efforts to ensure that your personal data is accurate and complete when we disclose it to our partners and if we disclose it to other third parties in accordance with this Policy or if it is likely to be used by us to make a decision affecting you. Please note that, in most circumstances, we will presume that personal data directly provided from you will be accurate and complete. However, depending on the circumstances, we may decide to contact you to ensure that this is the case or to ask that you verify that the data we hold in relation to you is up to date.
 
-_**Third Party Advertising**_
+ **Retention of personal data**
 
-SportsHub may use a third party to serve advertisements on the Sites and the third party may collect information about Users when they view or click on their advertising through the use of cookies or clear GIF's. SportsHub do not have access to or control this collection of information placed by third parties. Users should contact these entities directly if they have any questions about their use of the information that they collect.
+We will only hold your personal data for as long as required for the purposes for which it was collected or as otherwise required or permitted by law. We will regularly review and assess whether personal data can legitimately be retained, having regard to the purpose for which it was collected and any other legal or business purposes for which retention may be necessary. Where we are satisfied that we no longer need to retain your personal data, we will take prompt action to ensure that we will no longer hold on to it, either by destroying or removing your data from our systems, files and other records completely and permanently or by removing any identifying information so that it has become anonymised.
 
-_**Changes to the Policy**_
+ **Request to access and correct your personal data**
 
-SportsHub reserve the right to update, modify or change this Policy from time to time. Any change, update or modification will be posted on this page and take effect on this date.
+ _Access to personal data_
 
-_**Access to Information**_
+You may request access to what personal data we hold in relation to you, as well as information about how we may have used or disclosed your personal data to third parties in the past twelve months, save where we are not required to do so by law (for example, where doing so would necessarily reveal personal data about other individuals, where investigations or proceedings are ongoing or where this would threaten other individuals’ health or safety).
 
-Users may, upon request, ask for access to, correction of errors or omission, or deletion of any personal information that is in possession or under the control of SportsHub. SportsHub reserves the right to charge an administrative fee for any Users’ request.
+We will carefully review any data access request we receive from you. Please note that we may decide to reject your request if we have determined that the burden or expense of providing it would be unreasonable to us or disproportionate to your interests, if your request concerns information that is trivial, does not exist or cannot be found or it otherwise frivolous or vexatious. Accordingly, when making any data access request from us, we recommend that you set out the circumstances and reasons for your request in as much detail as possible to enable us to properly assess the matter.
 
-Pursuant to the PDPA, SportsHub may deny Users access to, correction or deletion of their personal information when permitted by law.
+Please note that we expressly reserves the right to charge an administrative fee in relation to any request you make to access personal data we hold and/or have disclosed to third parties in relation to you in the past twelve (12) months. If we decide to do so, we will inform you of the fee we will charge in relation to your request beforehand and we will only proceed once we have received confirmation from you to that effect.
 
-_**Contact Us**_
+ _Correction of personal data_
 
-If Users wish to access, update or otherwise change or remove any information that is in possession or under the control of SportsHub, make any comments or questions about this Policy, register a complaint, or contact SportsHub regarding its privacy practices and policies, please write to Customer Care, Singapore Sports Hub 2 Stadium Walk Singapore 397691 or contactus@sportshub.com.sg.
+You may also request that we correct any errors or omissions with regards to your personal data and if so, we will normally ensure that this is made as soon as practicable, save where we are satisfied on reasonable grounds that such correction should not be made or where we are not required to do so by law.
 
-_**Governing Law**_
+ **Withdrawing consent**
 
-This Policy is governed by and shall be construed in accordance with Singapore law. By accessing this Site and providing requested information, Users agree to submit to the exclusive jurisdiction of the Singapore courts.
+ _Withdrawing consent for the collection, use and disclosure of personal data_
+
+You may withdraw your consent to us and/or our partners collecting, using and/or disclosing your personal data at any time by contacting our Data Protection Officer (see below).
+
+We will inform you of the likely consequences of us doing so. We will also inform our partners of your request and will ensure that we and our partners comply with your request, save where otherwise permitted or required by law. Please note that we will then delete and personal data we hold about you in accordance with the retention principles set out in this Privacy Policy.
+
+ _Withdrawing consent to receive marketing updates_
+
+If you had previously subscribed to receive information on shows, events, activities and promotions taking place at the **SportsHub** from us or our partners and no longer wish to be on our or our partners’ mailing lists, you may unsubscribe at any time by clicking on the “unsubscribe link” or by contacting our Data Protection Officer (see below).
+
+If you had previously indicated that you wished to receive information on shows, events, activities, and promotions taking place at **other Singapore venues** from our partners and you no longer wish to receive such information from them, you will need to get in touch with our partners directly to let them know, either by visiting the privacy policy of their website(s) or by responding to any unsubscribe links to marketing materials which they will be sending you.
+
+ **Contact our Data Protection Officer**
+
+If you have any queries or comments about this Privacy Policy or your dealings with any of the SportsHub website(s), wish to stop receiving our marketing updates, or wish to access or update the information we hold about you, please contact our Data Protection Officer:
+
+by post at:
+
+Data Protection Officer  
+Singapore SportsHub Pte. Ltd.  
+Singapore Indoor Stadium  
+2 Stadium Walk  
+397691 Singapore
+
+or by email at:  
+[contactus@sportshub.com.sg](mailto:contactus@sportshub.com.sg)
+
+ **Access to other websites**
+
+The SportsHub website(s) may contain links to other external websites, for example links from our partners and advertisers. We are not responsible for the privacy practices, contents or security arrangements of those websites and recommend that you check the privacy and security policies of these organisations.
+
+ **Changes to this Policy**
+
+SportsHub hereby expressly reserves all rights to update, modify, or change this Privacy Policy from time to time. Any update, modification or change will be posted on this page and take effect on the date stipulated above. We recommend that you check this Privacy Policy periodically to review the latest version.
