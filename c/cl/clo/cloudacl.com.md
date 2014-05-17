@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudacl.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205164836id_/http%3A//www.cloudacl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudacl.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517053416id_/http%3A//www.cloudacl.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cloudacl
 
@@ -26,7 +26,7 @@ We welcome your comments or questions about our websites and have provided e-mai
 
 Please note that your e-mail, like most, if not all, non-encrypted Internet e-mail communications, may be accessed and viewed by other Internet users, without your knowledge and permission, while in transit to us. For that reason, to protect your privacy, please do not use e-mail to communicate information to us that you consider confidential. If you wish, you may contact us instead via non-cellular telephone at the numbers provided at various locations on our sites or, in the case of our health plan members, at the Member Services toll-free number that appears on your ID card.
 
-There are some locations on Cloudacl’s websites where we have made special provisions for a more secure environment in which we can exchange information with you. At each of these locations, we will provide you with appropriate instructions.
+There are some locations on Cloudacl's websites where we have made special provisions for a more secure environment in which we can exchange information with you. At each of these locations, we will provide you with appropriate instructions.
 
 **Other information; "cookies" and "tags"**
 
