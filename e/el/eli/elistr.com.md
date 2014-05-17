@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the elistr.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113200014id_/http%3A//www.elistr.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elistr.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517022205id_/http%3A//www.elistr.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
-# eListr Free local classifieds
+# United States : eListr | Free Local Classified Ads
 
-| 
+Privacy Policy
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate, disclose and make use of personal information. The following outlines our privacy policy. 
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
-  * **Any personal information collected by elistr.com will never be shared,sold or revealed to any third party** _unless required by law_.
   * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. 
-  * We will collect and use personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. 
+  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. 
   * We will only retain personal information as long as necessary for the fulfillment of those purposes. 
   * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. 
   * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
@@ -17,20 +16,4 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 
-**We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of users personal information is protected and maintained at all times**. 
-
-|  [**Get paid for every person who visits your URLs**](http://adf.ly/?id=2303464)
-
-  
-
-
-**View more ads in:**
-
-  
-  
-  
-
-
-[](http://www.datflirt.com/index.php?do=/invite/user_205/)
-
-[](http://www.kwickads.com/user/register?&ref=1)
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
