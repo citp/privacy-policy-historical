@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the protectyourbubble.com privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826144229id_/http%3A//us.protectyourbubble.com/legal-information/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protectyourbubble.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517184949id_/http%3A//us.protectyourbubble.com/legal-information/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Protect Your Bubble
 
-If You are an individual consumer located in California or other applicable state (if any), this notice is given to You pursuant to state law. It addresses personally identifiable information collected by Us about You when You visit or use this Site.
+****This notice is given to You pursuant to state law. It addresses personally identifiable information collected by Us about You when You visit or use this Site.
 
-The Signal, LP and its affiliated companies are committed to protecting the personal information entrusted to us by consumers who visit our website. The trust you place in us when you share personal information and/or the personal information of another person or entity is a responsibility we take very seriously and is the cornerstone of how we conduct our business.
+Assurant Solutions and its affiliated companies are committed to protecting the personal information entrusted to us by consumers who visit our website. The trust you place in us when you share personal information and/or the personal information of another person or entity is a responsibility we take very seriously and is the cornerstone of how we conduct our business.
 
-We use the brand name Protect Your Bubble to associate our products and services and to connect us with the brand of our parent company, Assurant, Inc. This Policy is intended to inform our consumers of our practices with regard to consumers' personal information collected through this website. As used in this online Privacy Policy, the term "you and your" are defined to include all website visitors including, but not limited to, customers, brokers, third party administrators, and/or representatives of any of the above.
+We use the brand name "Assurant Solutions" to associate our products and services and to connect us with the brand of our parent company, Assurant, Inc. This Policy is intended to inform our consumers of our practices with regard to consumers' personal information collected through this website. As used in this online Privacy Policy, the term "you and your" are defined to include all website visitors including, but not limited to, customers, brokers, third party administrators, and/or representatives of any of the above.
 
 **I. Categories of personal information we collect**
 
@@ -38,17 +38,19 @@ To protect your privacy, please do not use email to communicate information to u
 
 Persistent cookies may be used on this website. These are pieces of information or data sent to your browser from a web server and stored on your computer's hard drive for record-keeping purposes. We use this information to analyze traffic patterns and improve our website. If you prefer not to accept cookies, the help portion of the toolbar on most web browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, disabling cookies may result in certain parts of the website not operating correctly or prevent you from taking full advantage of some of the features of our website.
 
-**VII. Process for reviewing or requesting changes to personal information**
+**VII. “DO not track” signals**
+
+We do not respond to a web browser’s “do not track” signal or other mechanisms that signal a request that our site do not track the consumer’s online activities over time and across websites.
+
+Other parties may collect personally identifiable information about consumer’s online activities over time and across different websites when a consumer uses the operator’s website or service.
+
+**VIII. Process for reviewing or requesting changes to personal information**
 
 If you think that any personal information we have collected about you is inaccurate, you may send a written request for review to us at the address provided in Section XII. We will investigate your request and make appropriate changes if warranted.
 
-**VIII. Changes to this policy**
+**IX. Changes to this policy**
 
 We may change this Policy from time to time without notice. The most current Policy will be posted on this website. You should therefore review this online Privacy Policy regularly.
-
-**IX. Effective date**
-
-Effective Date: February 14, 2006/as amended March 6, 2009
 
 **X. Links to other Websites**
 
@@ -60,12 +62,8 @@ We do not knowingly collect personal information from anyone under the age of 13
 
 **XII. Privacy contact information**
 
-We welcome your questions or comments regarding this online Privacy Policy. Please write to The Assurant Privacy Office, Post Office Box 979047, Miami, FL 33197-9047 or e-mail us your question at [theprivacyoffice@assurant.com](mailto:theprivacyoffice@assurant.com).
+We welcome your questions or comments regarding this online Privacy Policy. Please write to The Assurant Solutions/Assurant Specialty Property Privacy Office, Post Office Box 979047, Miami, FL 33197-9047 or e-mail us your question at [theprivacyoffice@assurant.com](mailto:theprivacyoffice@assurant.com).
 
-Protect Your Bubble is part of Assurant Solutions, a division of Assurant, Inc., serving clients and their customers in 12 countries throughout North America, the Caribbean, Latin America, Europe and Asia.
+**XIII. Effective date**
 
-The Assurant Solutions family of companies* has more than 200 combined years of experience in global specialty insurance and risk management administering specialty insurance, extended service contracts and other products through relationships with leading financial institutions, retailers, automobile dealers, manufacturers and mobile carriers. The company's customized policies for consumer electronics, appliances, jewelry and other products extend beyond the manufacturer's warranty and provide millions of customers with the comfort of knowing their products can be repaired or replaced.
-
-Assurant Solutions provides service contracts to more than 56 million consumers worldwide with a national network of 2,500 service providers employing more than 10,000 service technicians and generating $1.5 billion in annual service contract revenue.
-
-_* The companies, including The Signal, L.P., American Bankers Insurance Company of Florida, American Security Insurance Company, Federal Warranty Service Corporation, United Service Protection, Inc. and Assurant Services Protection, Inc., comprising Assurant Solutions are part of Assurant, Inc., a Delaware Incorporated company listed with the New York Stock Exchange under the symbol AIZ. Assurant is a Fortune 500 company and a member of the S &P 500, and has approximately $27 billion in assets and $8 billion in annual revenue._
+Effective Date: February 14, 2006/as amended January 1, 2014
