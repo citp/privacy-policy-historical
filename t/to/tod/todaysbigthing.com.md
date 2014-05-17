@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todaysbigthing.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116045549id_/http%3A//www.todaysbigthing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todaysbigthing.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517134836id_/http%3A//www.todaysbigthing.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Today's BIG Thing
 
@@ -127,7 +127,7 @@ New York, New York 10011
 United States of America  
 [contact@todaysbigthing.com](mailto:contact@todaysbigthing.com)
 
-© 2013 IAC/InterActiveCorp. All rights reserved.
+© 2014 IAC/InterActiveCorp. All rights reserved.
 
 ### Linked Information
 
