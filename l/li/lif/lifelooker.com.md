@@ -1,37 +1,33 @@
-> *The following text is extracted and transformed from the lifelooker.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119175053id_/http%3A//lifelooker.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifelooker.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518002745id_/http%3A//www.lifelooker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-* **Overview**
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [contact@lifelooker.com](mailto:contact@lifelooker.com "contact@lifelooker.com").
 
-Thank you for visiting lifelooker.com (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
+At [lifelooker.com](http://www.lifelooker.com/ "lifelooker.com"), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by lifelooker.com and how it is used.
 
-* **What Type of Information We Collect**
+### Log Files
 
-The server on which the Web Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. 
+Like many other Web sites, lifelooker.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-The Web Site and third party advertisers may use cookies and other technologies such as web beacons to keep track of the web searches you make while visiting this website, as well as your web surfing behavior on this website and other websites you may visit to enhance your online experience and to learn about how you use The Web Site in order to improve the quality of our services or serve appropriate advertising. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. If you would like to know more about these practices and your choices about not having this information used to target ads to you, please [click here](http://www.networkadvertising.org/managing/opt_out.asp). Cookies used by the Web Site may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. 
+### Cookies and Web Beacons
 
-In some cases, we use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+lifelooker.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-* **Uses**
+### DoubleClick DART Cookie
 
-  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
-  
+.:: Google, as a third party vendor, uses cookies to serve ads on lifelooker.com.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to lifelooker.com and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-  * We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. 
-  
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
 
-  * We may share aggregated non-personal information with third parties outside of The Web Site. 
-  
+### Google Adsense
 
-  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
-  
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on lifelooker.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
-  
+lifelooker.com has no access to or control over these cookies that are used by third-party advertisers.
 
-  * The Web Site processes personal information on servers in the United States of America. In some cases, we process personal information on a server outside your own country. 
-  
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. lifelooker.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
