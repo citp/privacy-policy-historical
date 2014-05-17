@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the travelex.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208022828id_/http%3A//www.travelex.com/US/Terms-of-Use/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelex.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517144103id_/http%3A//www.travelex.com/US/Terms-of-Use/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Travelex Foreign Exchange
 
-_EFFECTIVE DATE: November 9, 2012_
+_EFFECTIVE DATE: February 25, 2013_
 
 Travelex Currency Services Inc (“Travelex” or "us" or "our"), on behalf of itself and its holding companies and subsidiaries (together, the "Travelex Group"), provides the following details about our privacy practices regarding information collected, used and shared by us at www.travelex.com ("Website"), our Mobile App, and other Travelex interactive and mobile applications (collectively, "Travelex Applications"). 
 
@@ -141,6 +141,8 @@ Our Site includes links to other websites whose privacy practices may differ fro
 
 **No Rights of Third Parties:** This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the Travelex Applications.
 
+**California Do Not Track Discolosure:** Travelex's websites do not respond to Do Not Track signals.
+
 ## 10\. Change of Privacy Policy and Feedback
 
 We may change this Privacy Policy from time to time. The most recent version of the Privacy Policy will always be posted on our Website, with the "Effective Date" posted at the top of the Policy. By using our Travelex Applications or any service offered through the Travelex Applications after the Effective Date you are deemed to consent to our then-current privacy policy. 
@@ -155,11 +157,6 @@ Travelex Currency Service Inc.
 
 New York, NY 10006
 
-© 2013 Travelex Currency Service Inc. All Rights Reserved.
-
-  
-
-
 ## Third Parties Providers of Analytics Tools as of October 23, 2013
 
 This is a list of third parties who provide us with information, reports and analysis about the usage and browsing patters of our users through tracking technology: 
@@ -171,3 +168,5 @@ Flurry - <http://www.flurry.com/about-us/legal/privacy.html>
 Optimizely - <https://www.optimizely.com/privacy>
 
 Formisimo - <http://www.formisimo.com/privacy-policy>
+
+© 2014 Travelex Currency Service Inc. All Rights Reserved.
