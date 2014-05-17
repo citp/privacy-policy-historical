@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itp.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107031803id_/http%3A//www.itp.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itp.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517045019id_/http%3A//www.itp.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | ITP Publishing Group | ITP.com
 
@@ -79,5 +79,5 @@ Tel.: +971 4 444 3000
 Fax.: +971 4 444 3080  
 
 
-|  OTHER TERMS & CONDITIONS [Event Sponsorship](https://web.archive.org/web/20131107031803id_/http%3A//www.itp.com/terms/event) [Stand Sponsorship](https://web.archive.org/web/20131107031803id_/http%3A//www.itp.com/terms/stand) [Advertisement Order](https://web.archive.org/web/20131107031803id_/http%3A//www.itp.com/terms/adorder) [Delegate Registration](https://web.archive.org/web/20131107031803id_/http%3A//www.itp.com/terms/delegate) [Ticket Line](https://www.itp.net/tickets/terms/)    
+|  OTHER TERMS & CONDITIONS [Event Management](http://www.itp.com/terms/Event/) [Exhibition Space](http://www.itp.com/terms/Stand/) [Advertisement Order](http://www.itp.com/terms/AdOrder/) [Delegate Registration](http://www.itp.com/terms/Delegate/) [Ticket Line](https://www.itp.net/tickets/terms/)    
 ---|---
