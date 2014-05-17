@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grungetextures.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113210309id_/http%3A//www.grungetextures.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grungetextures.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517110911id_/http%3A//www.grungetextures.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Grunge Textures
 
@@ -44,4 +44,4 @@ Nope. Never.
 
 ### Questions?
 
-If you have questions or concerns about our usage of your personal information, please [contact us](https://web.archive.org/web/20131113210309id_/http%3A//www.grungetextures.com/support.php). 
+If you have questions or concerns about our usage of your personal information, please [contact us](https://web.archive.org/web/20140517110911id_/http%3A//www.grungetextures.com/support.php). 
