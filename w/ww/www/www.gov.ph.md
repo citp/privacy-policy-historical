@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www.gov.ph privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128113213id_/http%3A//www.gov.ph/about-this-website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.gov.ph privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517112457id_/http%3A//www.gov.ph/about-this-website/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Official Gazette of the Republic of the Philippines
 
@@ -49,9 +49,5 @@ Email: feedback@pcdspo.gov.ph
 Subscribe to Daylight, a weekly newsletter that features good news about the Philippines and Filipinos.
 
 After signing up, you will receive a confirmation email that you will need to click through to confirm your subscription.
-
-×
-
-On November 11, 2013, President Aquino addressed the nation once again to give updates on the government's relief and rehabilitation efforts in the wake of typhoon Yolanda. The President also declared a State of National Calamity. For a transcript of his address, [click here.](http://www.gov.ph/2013/11/11/statement-of-president-aquino-on-typhoon-yolanda-november-11-2013/)
 
 ×
