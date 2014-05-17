@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkpendium.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231210614id_/http%3A//www.linkpendium.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkpendium.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517020448id_/http%3A//www.linkpendium.com/privacy.html) for the most accurate reproduction.*
 
 # Linkpendium
 
