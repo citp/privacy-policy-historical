@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the transladyboy.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109193413id_/http%3A//www.transladyboy.com/general/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transladyboy.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517060913id_/http%3A//www.transladyboy.com/general/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Trans Ladyboy
+# Trans Ladyboy
 
 Privacy Policy Statement
 
