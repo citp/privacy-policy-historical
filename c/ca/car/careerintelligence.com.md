@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the careerintelligence.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905132243id_/http%3A//www.careerintelligence.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerintelligence.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517232410id_/http%3A//www.careerintelligence.com/simp/privacy.aspx) for the most accurate reproduction.*
 
 # Career Intelligence - Terms and Conditions
+
+PRIVACY POLICY
 
 At certain points whilst utilising CareerIntelligence.com, information is collected that helps us with the services we provide to our users. 
 
@@ -116,5 +118,5 @@ We reserve the right to change our Privacy Statement at any time however a notic
   
 
 
-  
+Questions or Concerns?   
 For any questions or suggestions with regards to our Privacy Statement, please e-mail us and we will be happy to respond. 
