@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the darwishholding.com privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914090148id_/http%3A//www.darwishholding.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darwishholding.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518021307id_/http%3A//www.darwishholding.com/privacy.php) for the most accurate reproduction.*
 
 # DARWISH: Privacy Policy
 
