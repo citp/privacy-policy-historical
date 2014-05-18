@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joesgoals.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116165501id_/http%3A//www.joesgoals.com/index.cfm%3Fopenaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joesgoals.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518212852id_/http%3A//www.joesgoals.com/index.cfm%3Fopenaction%3Dprivacy) for the most accurate reproduction.*
 
 # Joe's Privacy Policy
 
@@ -28,4 +28,4 @@ Oh, you mean browser cookies. Yes, I use those too. I use cookies to maintain yo
 
 **How can I contact Joe?**
 
-Use our easy [contact form](https://web.archive.org/web/20131116165501id_/http%3A//www.joesgoals.com/index.cfm?openaction=about). 
+Use our easy [contact form](https://web.archive.org/web/20140518212852id_/http%3A//www.joesgoals.com/index.cfm?openaction=about). 
