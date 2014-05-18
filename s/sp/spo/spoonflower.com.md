@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spoonflower.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509194407id_/http%3A//www.spoonflower.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spoonflower.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519005153id_/http%3A//www.spoonflower.com/privacy) for the most accurate reproduction.*
 
-# Spoonflower: Privacy Policy
+# Privacy Policy – Spoonflower
 
 ## Spoonflower Privacy Policy
 
@@ -121,7 +121,7 @@ Spoonflower may amend this Privacy Policy from time to time, at its sole discret
 
 If you decide to visit Spoonflower, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of North Carolina state law.
 
-Please contact us at help@spoonflower.com or at 919-321-2949 if you have any questions regarding this Privacy Policy
+Please contact us at help@spoonflower.com or at 919-886-7885 if you have any questions regarding this Privacy Policy
 
   
 
