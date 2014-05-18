@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the favehealthyrecipes.com privacy policy that was archived on 2013-11-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131117034758id_/http%3A//www.favehealthyrecipes.com/index.php/hct/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the favehealthyrecipes.com privacy policy that was archived on 2014-05-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140518213054id_/http%3A//www.favehealthyrecipes.com/index.php/hct/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://ogp.me/ns/fb#"><head>
 
@@ -43,12 +43,9 @@
 		<!-- END Pinterest verification -->
 
 
-	<!--<script type="text/javascript" src="/javascript/jquery-1.3.2.min.js"></script>-->
-	<!-- load jQuery from Google's CDN service.  --> 
-	<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>-->
-	<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>-->
-	<!--<script type="text/javascript" src="/javascript/jquery-1.5.min.js"></script>-->
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/client:plusone.js?onload=onLoadCallbackGoogleAPI"></script><script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-1.5.2.min.js?v=17"></script>
+	
+	<script type="text/javascript" data-pin-hover="true" async="" src="http://assets.pinterest.com/js/pinit.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/client:plusone.js?onload=onLoadCallbackGoogleAPI"></script><script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-1.5.2.min.js?v=17"></script>
+	
 	
 	<!-- start jquery ui -->
 	<!-- this was installed to get the autocomplete feature, contains: Core, Widget, Position, Autocomplete -->
@@ -84,7 +81,7 @@
 			function onLoadCallbackGoogleAPI(){
 				//console.log('onLoadCallbackGoogleAPI');
 				google_api_obj.loaded = true;
-				//console.log('google_api_obj.loaded: ' + google_api_obj.loaded + ' (20381)');
+				//console.log('google_api_obj.loaded: ' + google_api_obj.loaded + ' (21543)');
 			}
 			
 			
@@ -106,20 +103,55 @@
 		    		    <meta property="og:site_name" content="favehealthyrecipes.com">
 		    		    <meta property="og:title" content="Privacy Policy">
 		    		    <meta property="og:url" content="http://www.favehealthyrecipes.com/index.php/hct/privacy_policy/1">
-		    		    <meta property="og:image" content="http://www.favehealthyrecipes.com/site_templates/0003/images/site_logo_fb_sID20.png">
+		    		    <meta property="og:image" content="http://cf2.primecp.com/images/pinterest_site_icons/pinterest_site_icon_sID20.png">
 		    		<!-- END Facebook OpenGraph Tags -->
 		
 				<!-- END getPageMetaTag -->
 			
-	
 			<!-- START getPageJavascript -->
-					<!-- array count: 5 -->
+					<!-- array count: 6 -->
+						<!-- START pinterest button js -->
+			<script type="text/javascript">
+			
+				//$(document).ready(
+					//function() {
+						//alert('getJavascript_pinterestButton ready line: 13504');
+						//console.log('getJavascript_pinterestButton ready - CG line: 13505');
+												
+						(function() {
+							//alert('call pinit');
+							window.PinIt = window.PinIt || { loaded:false };
+							if (window.PinIt.loaded) return;
+							window.PinIt.loaded = true;
+							function async_load(){
+								//console.log('async_load 123');
+								var s = document.createElement("script");
+								s.type = "text/javascript";
+								s.setAttribute('data-pin-hover', true); // 2013-08-24 - pinit image hover feature
+								s.async = true;
+								s.src = "http://assets.pinterest.com/js/pinit.js";
+								var x = document.getElementsByTagName("script")[0];
+								x.parentNode.insertBefore(s, x);
+							}
+							if (window.attachEvent){
+								window.attachEvent("onload", async_load);
+							}else{
+								window.addEventListener("load", async_load, false);
+							}
+						})();
+						
+						
+					//} // end main func
+				//); // end ready;
+			
+			</script>
+			<!-- END pinterest button js -->
 					<!-- START titter js -->
 		<script type="text/javascript">
 		
 			$(document).ready(
 				function() {
-					//alert('getJavascript_topSocialLinks ready line: 11559');
+					//alert('getJavascript_topSocialLinks ready line: 12409');
 					
 					$('#topSocialLinkMenu .socialButtonTable').show();
 					
@@ -190,7 +222,9 @@
 						'FUNCTION: getJavascript_footerSearch',
 						'CLASS: Search',
 						'footer_search_obj.form_id: ' + footer_search_obj.form_id,
-						'footer_search_obj.search_field_name: ' + footer_search_obj.search_field_name
+						'footer_search_obj.search_field_name: ' + footer_search_obj.search_field_name,
+						'footer_search_obj.search_field_default_val: ' + footer_search_obj.search_field_default_val,
+						
 					];
 					var ready_str = ready_arr.join("\n\n");
 					//alert(ready_str);
@@ -206,11 +240,32 @@
 				$(footer_search_obj.form_obj).submit(
 					function(){
 						//console.log('submit form');
-						$(this).find('input[type=submit]').fadeTo('normal', 0.2);
+						//alert('submit form');
 						
-						$(footer_search_obj.search_field_obj).addClass('waiting');
+						var result = true;
 						
-						return true;
+						var search_str = $(footer_search_obj.search_field_obj).val();
+						var search_str2 = search_str.replace(footer_search_obj.search_field_default_val, '');
+						//console.log('search_str2: ' + search_str2);
+						
+						$(footer_search_obj.search_field_obj).val(search_str2);
+						if(search_str2 == ''){
+							alert('Please enter a search term.');
+							$(footer_search_obj.search_field_obj).select();
+							result = false;
+						}
+						
+						//console.log('result: ' + result);
+						//return false;
+						
+						if(result == true){
+							$(this).find('input[type=submit]').fadeTo('normal', 0.2);
+						
+							$(footer_search_obj.search_field_obj).addClass('waiting');
+						}
+						
+						
+						return result;
 					}
 				);
 				
@@ -218,7 +273,7 @@
 				
 				$(footer_search_obj.search_field_obj).click(
 					function(){
-						//console.log( $(this).val() );
+						//console.log('click - ' + $(this).val() );
 						var current_val = $(this).val();
 						// is this the default value passed to the form
 						if(current_val == footer_search_obj.search_field_default_val){
@@ -244,10 +299,11 @@
 		
 			var login_dhtml_obj = {};
 			
+			
 			$(document).ready(
 				function() {
-					//alert('getJavascript_loginDhtmlContent ready - line: 17522');
-					//console.log('getJavascript_loginDhtmlContent ready - line: 17523');
+					//alert('getJavascript_loginDhtmlContent ready - line: 18377');
+					//console.log('getJavascript_loginDhtmlContent ready - line: 18378');
 					/**
 					 *set click handler for all the close boxes in the dhtml
 					 */
@@ -362,11 +418,14 @@
 								beforeSubmit: login_dhtml_obj.preSubmitForm_dhtmlLogin,
 								dataType: 'json',
 								success: function(json){
+								
 									var feedback_div = '';
 									if(json.success == 1){
 										//alert('success');
 										feedback_div = 'You are logged in.';
+										
 										setTimeout('location.reload(true)', 700);
+										//setTimeout('console.log("reload")', 700);
 									}else{
 										feedback_div = 'We could not log you in.';
 									}
@@ -571,6 +630,10 @@
 			//---------------
 			
 			login_dhtml_obj.displayLoginDhtmlBox = function(node_id, msg){
+				//console.log('login_dhtml_obj.displayLoginDhtmlBox');
+				//console.log('node_id: ' + node_id);
+				//console.log('msg: ' + msg);
+				
 				/**
 				 *close any box already open
 				 */
@@ -633,6 +696,10 @@
 			.ui-autocomplete-loading {
 				background: white url('/images/ajax-indicator.gif') right center no-repeat;
 			}
+			
+			.ui-widget {
+				font-size: 0.8em;
+			}
 		</style>
 		
 		
@@ -671,6 +738,7 @@
 							alert_str += 'request: ' + request + "\n\n";
 							alert_str += 'response: ' + response + "\n\n";
 							//alert(alert_str);
+							//console.log(alert_str);
 							
 							if( 1 ){
 								$.ajax(
@@ -697,13 +765,15 @@
 						},
 						minLength: 3,
 						select: function( event, ui ){
-							//alert('select');
+							//alert('select a suggestion');
 							//$('#headerSearchForm').submit(); // this would submit the form immediately when a <li> is clicked
 							/**
 							 *we want the selection of a suggested value to trigger the form to submit
 							 *we needed to add a small delay otherwise the selected term is not passed
 							 *only the orig text the user typed in is passed
 							 */
+							 
+							// would like to see this selector / id passed to this func as a param one day 
 							setTimeout("$('#headerSearchForm').submit();", 500);
 						},
 						close: function(event, ui){
@@ -734,8 +804,10 @@ signup_redirect_qry_params['email'] = false;
 
 
 var signup_redirect_url = 'http://www.pdapi.com/cs/JSI/v1/prime/?pub=5&email=[email]&ExitURL=http://www.favehealthyrecipes.com/index.php/hct/Free-Healthy-Recipe-eCookbooks';
+// 2014-04-08 we need the flows id
+var signup_redirect_id = '100';
 
-	var nscID = 61;
+	var nscID = false;
 	
 	var is_mustang = 0;
 	
@@ -761,12 +833,6 @@ $(document).ready(
 		//triggerWiderFunnel();
 		
 		
-		
-		
-		
-				
-		
-		
 		$('#search_term').click(
 			function () {
 				if ($(this).hasClass('defaultSearchText')) {
@@ -780,7 +846,9 @@ $(document).ready(
 		);
 		
 		
-		checkNlSignUpCookie();
+		// i am moving this further down
+		//checkNlSignUpCookie();
+		//animateDhtmlSignup();
 		
 		
 		// set the onclick for the right rail newsletter sign up email text field
@@ -877,25 +945,6 @@ $(document).ready(
 		);
 	
 		
-		/*
-		email this page code
-		commented out 2009-07-15
-		
-		
-		$("#emailPageLink").click(function(){
-			//alert('click emailPageLink');
-			$("#emailPageDiv").css("top", '-600px');
-			$("#emailPageDiv").show();
-			$("#emailPageDiv").animate({"top": "20px"}, "slow");
-		});
-				
-				
-		//$("#emailPageClose").click(function(){
-		$(".emailPageClose").click(function(){
-			$("#emailPageDiv").animate({"top": "-600px"}, "slow");
-			//$("#emailPageDiv").hide();
-		});
-		*/
 		
 		
 		
@@ -1129,7 +1178,7 @@ $(document).ready(
 		
 		
 		
-		
+		animateDhtmlSignup();
 		
 
 	} // end main func
@@ -1290,27 +1339,35 @@ function setNlSignUpCookie(days) {
 */
 //------------------------------------------------------------------------------------------------------------
 
-
+/*
+2014-03-28
+dont think is is called anymore, but not much evidence to support that
+*/
 function checkNlSignUpCookie() {
 	
 	//alert('checkNlSignUpCookie');
 	
 	var the_cookie = readCookie('nlsignup');
 	
+	//alert('the_cookie: ' + the_cookie);
+	
 	if (the_cookie) {
 		// the user has the cookie
 		// do not do anything
-	} else {
-		
+	} else {	
 		//alert('call displayDhtmlSignup from checkNlSignUpCookie');
 		displayDhtmlSignup();
-
 	}
 	
 }
 
 
 //------------------------------------------------------------------------------------------------------------
+
+/*
+2014-03-28
+dont think is is called anymore, but not much evidence to support that
+*/
 
 function clickToSubscribe() {
 	
@@ -1336,16 +1393,25 @@ function displayDhtmlSignup() {
 	
 	//alert('displayDhtmlSignup');
 	
+	animateDhtmlSignup();
 	
-				//alert('show the display immediately');
-			animateDhtmlSignup();
-				
+		
 }
 
 //------------------------------------------------------------------------------------------------------------
 
 function animateDhtmlSignup(){
 	//alert('animateDhtmlSignup');
+	
+	/*
+	2014-03-28
+	there seem to be a lot of ways this gets called, and i dont pretend to know them all
+	so we are adding the nscID test here
+	*/
+	if(nscID == false){
+		//alert('no dhtml create to show');
+		return false;
+	}
 	
 	// move user to top of the page
 	//window.location = '#';
@@ -1513,10 +1579,13 @@ function signupRedirect() {
 		var replace_site_url = '[site_url]';
 		var replace_email = '[email]';
 		
+		var url_str = '';
 		// go through each string, if it is not empty
 		if (replace_site_url != '') {
 			// add the home page url for this site, urlencoded
-			signup_redirect_url = signup_redirect_url.replace(replace_site_url, escape('http://www.favehealthyrecipes.com'));
+			//signup_redirect_url = signup_redirect_url.replace(replace_site_url, escape('http://www.favehealthyrecipes.com'));
+						url_str = 'http://www.favehealthyrecipes.com/index.php/hct/privacy_policy';
+			signup_redirect_url = signup_redirect_url.replace(replace_site_url, escape(url_str));
 		}
 		
 		if (replace_email != '') {
@@ -1545,8 +1614,10 @@ function signupRedirect() {
 			confirm_str += 'signup_redirect_qry_params[email] = ' + signup_redirect_qry_params['email'] + "\n\n\n\n";
 			
 			confirm_str += 'signup_redirect_url = ' + signup_redirect_url + "\n\n";
-			confirm_str += 'http_host = http://www.favehealthyrecipes.com' + "\n\n";
+			//confirm_str += 'http_host = http://www.favehealthyrecipes.com' + "\n\n";
+			confirm_str += 'url_str = ' + url_str + "\n\n";
 			
+			confirm_str += 'signup_redirect_id = ' + signup_redirect_id + "\n\n";
 			
 			confirm_str += 'Click OK to stay on this page.' + "\n";
 			confirm_str += 'Click Cancel to go to Flow URL.' + "\n";
@@ -1556,15 +1627,17 @@ function signupRedirect() {
 			}
 		}
 		
+		
+		
 		// redirect the user
 		window.location = signup_redirect_url;
 		
 		
 		
-	}
+	} // if (signup_redirect_url != '')
 	
 	
-}
+} // end signupRedirect
 						
 //------------------------------------------------------------------------------------------------------------
 
@@ -1587,6 +1660,24 @@ function callSignupRedirect() {
 //------------------------------------------------------------------------------------------------------------
 
 function postNewsletterSignup() {
+	/*
+	2014-04-08
+	we do more post signup stuff, so we want to delay always (at least I think always)
+	*/
+	
+	/*
+	2014-04-08
+	record which flow we sent the user to
+	we test if it is greater than 0
+	when we have no set flow, the code will set the flow url to /, and the id gets set to 0
+	we are not logging that
+	*/
+	if(signup_redirect_id > 0){
+		// we do not need a response for the ajax call logFlowID, but we are still giving a small delay
+		post_newsletter_signup.rediect_delay = 1000;
+		post_newsletter_signup.logFlowID(signup_redirect_id);
+	}
+	
 	
 	if (post_newsletter_signup.link_has_confirmation_pixel == 1) {
 		post_newsletter_signup.rediect_delay = 2000;	// if there is pixel code to display we need a delay for that code to work
@@ -1602,6 +1693,8 @@ function postNewsletterSignup() {
 		//setTimeout('signupRedirect()', post_newsletter_signup.rediect_delay);
 		callSignupRedirect();
 	}
+	
+	
 }
 
 //------------------------------------------------------------------------------------------------------------
@@ -1728,6 +1821,30 @@ post_newsletter_signup.logRightRailSubmit = function(isNewSignup, rriID){
 	);
 }
 
+//------------------------------------------------------------------------------------------------------------
+
+post_newsletter_signup.logFlowID = function(){
+	
+	$.ajax(
+		{
+			type: "POST",
+			dataType: "json",
+			timeout: '3000', // not waiting for a response
+			url: "/ajax_process.php",
+			data: {
+				task: 'log_flow_id',
+				fuID: signup_redirect_id
+			},
+			success: function(json) {
+			
+			}
+		}
+	);
+}
+
+
+//------------------------------------------------------------------------------------------------------------
+
 
 
 </script>
@@ -1761,8 +1878,8 @@ post_newsletter_signup.logRightRailSubmit = function(isNewSignup, rriID){
 			<script type="text/javascript">
 				googletag.cmd.push(function() {
 												googletag.defineSlot('/1049349/FaveHealthyRecipes-com_header-int-A_728-90', [[728,90]], 'div-gpt-ad-1363378111835-0').addService(googletag.pubads());
-														googletag.defineSlot('/1049349/FaveHealthyRecipes-com_right-rail-B_300-250', [[300,250],[300,600],[300,1050]], 'div-gpt-ad-1363378111835-4').addService(googletag.pubads());
-														googletag.defineSlot('/1049349/FaveHealthyRecipes-com_right-rail-C_300-600', [[300,250],[300,600],[300,1050]], 'div-gpt-ad-1363378111835-5').addService(googletag.pubads());
+														googletag.defineSlot('/1049349/FaveHealthyRecipes-com_right-rail-B_300-250', [[300,250],[336,280],[160,600],[320,50],[320,100],[234,60],[120,600],[120,240],[300,600],[250,250],[200,200],[180,150],[125,125],[300,1050]], 'div-gpt-ad-1363378111835-4').addService(googletag.pubads());
+														googletag.defineSlot('/1049349/FaveHealthyRecipes-com_right-rail-C_300-600', [[300,250],[336,280],[160,600],[320,50],[320,100],[234,60],[120,600],[120,240],[300,600],[250,250],[200,200],[180,150],[125,125],[300,1050]], 'div-gpt-ad-1363378111835-5').addService(googletag.pubads());
 												googletag.pubads().enableSingleRequest();
 					googletag.enableServices();
 				});
@@ -1785,77 +1902,9 @@ post_newsletter_signup.logRightRailSubmit = function(isNewSignup, rriID){
 	
 	
 	
-	<script type="text/javascript">
 	
-		/*
-		$(document).ready(
-			function(){
-				
-				
-				$('#multiLoginDiv').html(
-					'< i frame
-					onload="
-					multiSiteLoginCheck(\'not_logged_in\');" src ="http://c.primecp.com/multi_site_login.php?task=not_logged_in&x=
-					< ? php
-					echo time();
-					? >&sid=
-					< ? php echo SiteData::getSiteId(); ? >&sessid=< ? php echo session_id(); ? >" width="80%" height="600"></ i frame >'
-				);
-				
-			}
-		);
-		*/
+	
 		
-		function multiSiteLoginCheck(str){
-			//alert('multiSiteLoginCheck str: ' + str);
-			
-			if(str == 'not_logged_in'){
-				
-				alert('make ajax call to check for logins on other sites');
-				
-				$.ajax({
-					url: "/ajax_process.php",
-					type: 'GET',
-					cache: false,
-					data: (
-						{
-							task: 'check_multi_site_login'
-						}
-					),
-					dataType: "json",
-					timeout: 10000,
-					success: function(json){
-						var alert_str = 'multiSiteLoginCheck success' + "\n";
-						alert_str += 'json.allow_login: ' + json.allow_login + "\n";
-						alert_str += 'json.time: ' + json.time + "\n";
-						alert_str += 'json.logged_in: ' + json.logged_in + "\n";
-						//alert(alert_str);
-						
-						if(json.logged_in){
-							alert('logged_in');
-						}else{
-							alert('NOT logged_in');
-						}
-					},
-					error: function(){
-						//alert('multiSiteLoginCheck error');
-					},
-					complete: function(){
-						//alert('multiSiteLoginCheck complete');
-					}
-				});
-				
-			}else{
-				//alert('we just logged in and loaded an iframe to set cookies on c.prime');
-			}
-		}
-	</script>
-	
-	
-	
-			<!-- get css for the email signup creative -->
-		<link rel="stylesheet" href="/site_templates/signup_creative/css/nscID_61.css?v=17" type="text/css" media="screen">	
-			
 	
 	
 	<link type="text/css" rel="stylesheet" href="/css/jquery.rating.css?v=17" media="screen">
@@ -1888,7 +1937,7 @@ post_newsletter_signup.logRightRailSubmit = function(isNewSignup, rriID){
 
 			window.fbAsyncInit = function() {
 			
-				//console.log('call to window.fbAsyncInit line 17349');
+				//console.log('call to window.fbAsyncInit line 18203');
 			
 				FB.init({
 					appId      : '227497614024506', // App ID Favecrafts
@@ -2550,22 +2599,22 @@ post_newsletter_signup.logRightRailSubmit = function(isNewSignup, rriID){
 									<a href="http://www.recipelionblog.com/">Blog</a>
 								</td>
 																<td class="">
-									<a href="/index.php/hct/Printable-Grocery-and-Drug-Store-Coupons">Coupons</a>
+									<a href="/index.php/hct/Free-Healthy-Recipe-eCookbooks">Free eCookbooks</a>
+								</td>
+																<td class="">
+									<a href="/index.php/hct/Foodie-Reviews-and-Giveaways">Giveaways</a>
+								</td>
+																<td class="">
+									<a href="/tag/Test-Kitchen-Recipes">Test Kitchen Recipes</a>
 								</td>
 																<td class="">
 									<a href="/Dessert">Desserts</a>
 								</td>
 																<td class="">
-									<a href="/index.php/hct/Free-Healthy-Recipe-eCookbooks">Free eCookbooks</a>
+									<a href="http://www.favehealthyrecipes.com/?task=search&amp;search_type=standard&amp;search_term=feel+good">Feel Good Recipes</a>
 								</td>
 																<td class="">
 									<a href="/task/search/search_term/heart+healthy">Heart Healthy Recipes</a>
-								</td>
-																<td class="">
-									<a href="/index.php/hct/Foodie-Reviews-and-Giveaways">Reviews &amp; Giveaways</a>
-								</td>
-																<td class="">
-									<a href="http://www.favehealthyrecipes.com/?task=search&amp;search_type=standard&amp;search_term=thanksgiving">Thanksgiving Recipes</a>
 								</td>
 																<td class="lastTD">
 											<div id="headerSearchFormDiv">
@@ -2603,7 +2652,7 @@ post_newsletter_signup.logRightRailSubmit = function(isNewSignup, rriID){
 					<h3 style="text-align: center;">
 	Healthy Lifestyle Recipes</h3>
 					<ul>
-						<li><a href="/Budget-Friendly-Recipes">Budget Friendly Recipes</a></li><li><a href="/tag/GlutenFree">Gluten Free</a></li><li><a href="/tag/Low-Cal">Low Calorie</a></li><li><a href="/tag/Low-Carb">Low Carb</a></li><li><a href="/tag/Low-Fat">Low Fat</a></li><li><a href="/tag/Vegetarian">Vegetarian</a></li>					</ul>
+						<li><a href="/tag/Low-Cal">Low Calorie</a></li><li><a href="/tag/Low-Carb">Low Carb</a></li><li><a href="/tag/Low-Fat">Low Fat</a></li>					</ul>
 				</div>
 				<!-- end featuredLinks -->
 						
@@ -2612,139 +2661,136 @@ post_newsletter_signup.logRightRailSubmit = function(isNewSignup, rriID){
 			<h3>Categories</h3>
 					
 					<ul>
-									<li class=""><a class="" href="/Appetizers">Appetizers</a>
+									<li class="catID262"><a class="" href="/Appetizers">Appetizers</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Beans">Beans</a>
+										<li class="catID248"><a class="" href="/Beef-Recipes">Beef</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Beef-Recipes">Beef Recipes</a>
+										<li class="catID273"><a class="" href="/Breakfast-Recipes">Breakfast</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Breakfast-Recipes">Breakfast Recipes</a>
+										<li class="catID334"><a class="" href="/Budget-Friendly-Recipes">Budget-Friendly</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Budget-Friendly-Recipes">Budget Friendly Recipes</a>
+										<li class="catID250"><a class="" href="/Cake-Recipes">Cake</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Cake-Recipes">Cake</a>
+										<li class="catID251"><a class="" href="/Casserole-Recipes">Casseroles</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Casserole-Recipes">Casserole Recipes</a>
+										<li class="catID492"><a class="" href="/Chicken-Recipes">Chicken</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Chicken-Recipes">Chicken Recipes</a>
+										<li class="catID279"><a class="" href="/Cookies-and-Bars">Cookies &amp; Bars</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Cookies-and-Bars">Cookies &amp; Bars</a>
+										<li class="catID527"><a class="" href="/Cooking-Tips">Cooking Tips</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Cooking-Tips">Cooking Tips</a>
+										<li class="catID284"><a class="" href="/Dessert">Dessert</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Dessert">Dessert</a>
+										<li class="catID208"><a class="" href="/Detox-Diets">Detox Diets</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Detox-Diets">Detox Diets</a>
+										<li class="catID287"><a class="" href="/Drink-Recipes">Drinks</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Drink-Recipes">Drink Recipes</a>
+										<li class="catID504"><a class="" href="/Editors-Picks">Editor's Picks</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Editors-Picks">Editor's Picks</a>
+										<li class="catID292"><a class="" href="/Ethnic-Food">Ethnic Food</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Ethnic-Food">Ethnic Food</a>
+										<li class="catID1162"><a class="" href="/Featured-Foodies">Featured Foodies</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Featured-Foodies">Featured Foodies</a>
+										<li class="catID1362"><a class="" href="/Food-Companies">Food Companies</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Food-Companies">Food Companies</a>
+										<li class="catID1165"><a class="" href="/Foodie-Reviews">Foodie Reviews</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Foodie-Reviews">Foodie Reviews</a>
+										<li class="catID293"><a class="" href="/Fruit-Recipes">Fruit</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Fruit-Recipes">Fruit</a>
+										<li class="catID305"><a class="" href="/Grilling">Grilling</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Grilling">Grilling</a>
+										<li class="catID205"><a class="" href="/Health-Related-Diets">Health Related Diets</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Health-Related-Diets">Health Related Diets</a>
+										<li class="catID212"><a class="" href="/Healthy-Eating">Healthy Eating Tips</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Healthy-Eating">Healthy Eating Tips</a>
+										<li class="catID255"><a class="" href="/Holidays">Holidays</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Holidays">Holidays</a>
+										<li class="catID200"><a class="" href="/Lifestyle-Based-Diets">Lifestyle Based Diets</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Lifestyle-Based-Diets">Lifestyle Based Diets</a>
+										<li class="catID203"><a class="" href="/Meal-Based-Diets">Meal Based-Diets</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Meal-Based-Diets">Meal Based-Diets</a>
+										<li class="catID346"><a class="" href="/Meat">Meat</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Meat">Meat Recipes</a>
+										<li class="catID304"><a class="" href="/Modified-Diet">Modified Diet</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Modified-Diet">Modified Diet</a>
+										<li class="catID306"><a class="" href="/Pasta">Pasta</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Pasta">Pasta</a>
+										<li class="catID310"><a class="" href="/Pies">Pies</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Pies">Pie Recipes</a>
+										<li class="catID312"><a class="" href="/Pizza">Pizza</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Pizza">Pizza</a>
+										<li class="catID256"><a class="" href="/Pork-Recipes">Pork</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Pork-Recipes">Pork Recipes</a>
+										<li class="catID315"><a class="" href="/Preserving">Preserving</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Preserving">Preserving</a>
+										<li class="catID317"><a class="" href="/Pressure-Cooker-Recipes">Pressure Cooker</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Pressure-Cooker-Recipes">Pressure Cooker</a>
+										<li class="catID258"><a class="" href="/Salad">Salad</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Salad">Salad</a>
+										<li class="catID322"><a class="" href="/Sandwiches">Sandwiches</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Sandwiches">Sandwiches</a>
+										<li class="catID323"><a class="" href="/Sauces">Sauces</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Sauces">Sauces</a>
+										<li class="catID254"><a class="" href="/FishandSeafood">Seafood</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/FishandSeafood">Seafood</a>
+										<li class="catID253"><a class="" href="/Crock-Pot-Recipes">Slow Cooker</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Crock-Pot-Recipes">Slow Cooker</a>
+										<li class="catID260"><a class="" href="/Snacks">Snacks</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Snacks">Snacks</a>
+										<li class="catID325"><a class="" href="/Soups">Soups, Stews, Chili</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Soups">Soups, Stews, Chili</a>
+										<li class="catID493"><a class="" href="/Turkey-Recipes">Turkey</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Turkey-Recipes">Turkey</a>
+										<li class="catID328"><a class="" href="/Vegetables">Vegetables</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Vegetables">Vegetables</a>
+										<li class="catID329"><a class="" href="/Vegetarian">Vegetarian</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Vegetarian">Vegetarian</a>
+										<li class="catID242"><a class="" href="/Weight-Loss-Tips">Weight Loss Tips</a>
 											<!-- </a> -->
 										</li>
-										<li class=""><a class="" href="/Weight-Loss-Tips">Weight Loss Tips</a>
-											<!-- </a> -->
-										</li>
-										<li class=""><a class="" href="/What-to-Eat-What-Not-to-Eat">What to Eat</a>
+										<li class="catID241"><a class="" href="/What-to-Eat-What-Not-to-Eat">What to Eat</a>
 											<!-- </a> -->
 										</li>
 									
@@ -2925,8 +2971,11 @@ post_newsletter_signup.logRightRailSubmit = function(isNewSignup, rriID){
 		
 				<form id="newsletterSignUpForm" class="contentBoxPadding" action="/newsletter_signup.php" method="post">
 					<input type="hidden" name="task" value="signup">
-					<input type="hidden" name="PHPSESSID" value="96joudnal4u2gscu64jad7ksn5">
+					<input type="hidden" name="creative_id" value="118">
+					<input type="hidden" name="creative_type" value="right_rail">
+					<input type="hidden" name="PHPSESSID" value="36q8slf5podrcbcole5ph49so4">
 					<input type="hidden" name="rriID" value="0">
+					
 					
 					
 					<img style="float: right; margin: 0 0 5px 5px;" src="http://cf2.primecp.com/site_templates/0003/images/newsletter_signup_bg_sID20.png" alt="">
@@ -2962,16 +3011,36 @@ post_newsletter_signup.logRightRailSubmit = function(isNewSignup, rriID){
 				<div class="contentBoxPadding">
 										<h4>Top Healthy Eating Ideas</h4>
 								<ol>
-									 <li><a href="/Cake-Recipes/2-Ingredient-Apple-Angel-Food-Cake/ct/1">2 Ingredient Apple Angel Food Cake</a></li>
-					 					 <li><a href="/Cookies/No-Bake-Christmas-Cookies-14-Recipes-to-Make-in-Under-10-Minutes/ct/1">No Bake Christmas Cookies: 14 Recipes to Make in Under 10 Minutes</a></li>
-					 					 <li><a href="/Mexican-Recipes/Easy-Taco-Salad-with-Spicy-Avocado-Dressing/ct/1">Easy Taco Salad with Spicy Avocado Dressing</a></li>
-					 					 <li><a href="/Lamb/Chipotle-Marinated-Lamb-Chops-with-Mint-Cream/ct/1">Chipotle Marinated Lamb Chops with Mint Cream</a></li>
-					 					 <li><a href="/Breakfast-Bread-Recipes/40-Cent-No-Knead-Bread/ct/1">40-Cent No-Knead Bread</a></li>
-					 					 <li><a href="/Editors-Picks/18-Old-Fashioned-Recipes-Made-Healthy/ct/1">18 Old Fashioned Recipes Made Healthy</a></li>
-					 					 <li><a href="/Dips/Homemade-Cookie-Butter/ct/1">Homemade Cookie Butter</a></li>
-					 					 <li><a href="/Budget-Friendly-Recipes/One-Pot-Poor-Mans-Potato-Hash/ct/1">One Pot Poor Man's Potato Hash</a></li>
-					 					 <li><a href="/Lifestyle-Based-Diets/7-Day-Meal-Plan-for-a-Low-Carb-Diet/ct/1">7 Day Meal Plan for a Low Carb Diet</a></li>
-					 					 <li><a href="/Budget-Friendly-Recipes/31-Easy-Cooking-Recipes-for-Beginners/ct/1">31 Easy Cooking Recipes for Beginners</a></li>
+									 <li>
+					 						 	<a href="/Vegetables/One-Pot-Wonder-Sausage-Veggies">One-Pot Wonder with Sausage and Veggies</a>
+					 						 </li>
+					 					 <li>
+					 						 	<a href="/Editors-Picks/Going-Crustless-Easy-Pie-Recipes">Going Crustless: 10 Easy Pie Recipes</a>
+					 						 </li>
+					 					 <li>
+					 						 	<a href="/Sandwiches/Its-a-Wrap-18-Healthy-Recipes-for-Wraps-and-Sandwiches">It's a Wrap!: 24 Healthy Recipes for Wraps and Sandwiches</a>
+					 						 </li>
+					 					 <li>
+					 						 	<a href="/Casserole-Recipes/Hungry-Lady-Casserole">Hungry Lady Casserole</a>
+					 						 </li>
+					 					 <li>
+					 						 	<a href="/Soups/Cabbage-Soup-Recipe">Cabbage Soup Recipe</a>
+					 						 </li>
+					 					 <li>
+					 						 	<a href="/Lifestyle-Based-Diets/7-Day-Meal-Plan-for-a-Low-Carb-Diet">7 Day Meal Plan for a Low Carb Diet</a>
+					 						 </li>
+					 					 <li>
+					 						 	<a href="/Casserole-Recipes/Crustless-Quiche-Casserole">Crustless Quiche Casserole</a>
+					 						 </li>
+					 					 <li>
+					 						 	<a href="/Chicken-Casserole-Recipes/Cheese-Please-Chicken-Broccoli-Casserole">Cheese Please Chicken Broccoli Casserole</a>
+					 						 </li>
+					 					 <li>
+					 						 	<a href="/Budget-Friendly-Recipes/31-Easy-Cooking-Recipes-for-Beginners">31 Easy Cooking Recipes for Beginners</a>
+					 						 </li>
+					 					 <li>
+					 						 	<a href="/Healthy-Egg-Recipes/Jessica-Simpsons-Get-Skinny-Breakfast">Jessica Simpson's Get Skinny Breakfast</a>
+					 						 </li>
 					 			</ol>
 							</div>
 				
@@ -2982,7 +3051,7 @@ post_newsletter_signup.logRightRailSubmit = function(isNewSignup, rriID){
 														<div style="margin: 0 0 10px 0;">
 													
 					<!-- FaveHealthyRecipes-com_right-rail-B_300-250 -->
-					<div id="div-gpt-ad-1363378111835-4" style="width: 300px;" class="mustangGoogleAdTest_async">
+					<div id="div-gpt-ad-1363378111835-4" style="width: 336px; text-align: center;" class="mustangGoogleAdTest_async">
 						<script type="text/javascript">
 							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363378111835-4'); });						</script>
 					</div>
@@ -2992,6 +3061,8 @@ post_newsletter_signup.logRightRailSubmit = function(isNewSignup, rriID){
 			<div class="myBoxLinkRightColHeader">
 				<img src="http://cf2.primecp.com/images/my-box-icon.gif" alt="" width="13" height="12"> <a href="/section/mybox/action/view">My Recipe Box</a> (0) <a style="float: right;" href="/section/mybox/action/view">View »</a>
 			</div>
+			
+			
 			<div class="myBoxLinkRightColContent">
 				<img src="/images/article_images/toast_pointsS.jpg" alt="" width="75" height="75">
 				
@@ -3019,7 +3090,7 @@ post_newsletter_signup.logRightRailSubmit = function(isNewSignup, rriID){
 														<div style="margin: 0 0 10px 0;">
 													
 					<!-- FaveHealthyRecipes-com_right-rail-C_300-600 -->
-					<div id="div-gpt-ad-1363378111835-5" style="width: 300px;" class="mustangGoogleAdTest_async">
+					<div id="div-gpt-ad-1363378111835-5" style="width: 336px; text-align: center;" class="mustangGoogleAdTest_async">
 						<script type="text/javascript">
 							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363378111835-5'); });						</script>
 					</div>
@@ -3029,15 +3100,17 @@ post_newsletter_signup.logRightRailSubmit = function(isNewSignup, rriID){
 							<h3>Free eBooks</h3>
 							<div class="list">
 				<ul>
-											<li><a href="http://www.favehealthyrecipes.com/Crock-Pot-Recipes/Healthy-Slow-Cooker-Recipes-Free-eCookbook">10 Healthy Slow Cooker Recipes</a></li>
-												<li><a href="http://www.favehealthyrecipes.com/Drink-Recipes/Best-Healthy-Drink-Recipes-Free-eCookbook">14 Best Healthy Drink Recipes</a></li>
-												<li><a href="http://www.favehealthyrecipes.com/Chicken-Recipes/22-Quick-and-Easy-Healthy-Chicken-Recipes-Free-eCookbook">22 Quick and Easy Healthy Chicken Recipes Free eCookbook</a></li>
+											<li><a href="http://www.favehealthyrecipes.com/Soups/11-Easy-Soup-and-Stew-Recipes-free-eCookbook">11 Easy Soup &amp; Stew Recipes</a></li>
+												<li><a href="http://www.favehealthyrecipes.com/Salad/12-Must-See-Simple-Salad-Recipes-Free-eCookbook">12 Must-See Simple Salad Recipes</a></li>
+												<li><a href="http://www.favehealthyrecipes.com/Editors-Picks/Healthy-Comfort-Food-Recipes-Free-eCookbook">13 Healthy Comfort Food Recipes</a></li>
 												<li><a href="http://www.favehealthyrecipes.com/Budget-Friendly-Recipes/Cheap-Recipes-Made-Easy-25-Healthy-Low-Cost-Recipes-Free-eCookbook">25 Healthy Low Cost Recipes Free eCookbook</a></li>
-												<li><a href="http://www.favehealthyrecipes.com/Editors-Picks/Enjoy-Restaurant-Food-at-Home-28-No-Guilt-Copycat-Restaurant-Recipes-Free-eCookbook">28 No-Guilt Copycat Restaurant Recipes</a></li>
+												<li><a href="http://www.favehealthyrecipes.com/Casserole-Recipes/27-Easy-and-Healthy-Casserole-Recipes-For-You-Free-eCookbook">27 Easy and Healthy Casserole Recipes For You Free eCookbook</a></li>
 												<li><a href="http://www.favehealthyrecipes.com/Crock-Pot-Recipes/31-Healthy-Easy-Recipes-for-a-Slow-Cooker-Free-eCookbook">31 Healthy Easy Recipes for a Slow Cooker Free eCookbook</a></li>
-												<li><a href="http://www.favehealthyrecipes.com/Frozen-Desserts/Easy-Dessert-Recipes-Free-eCookbook">8 Easy Frozen Dessert Recipes for Summer</a></li>
+												<li><a href="http://www.favehealthyrecipes.com/Healthy-Egg-Recipes/8-Egg-Recipes-for-Healthy-Eating-Free-eCookbook">8 Egg Recipes for Healthy Eating Free eCookbook</a></li>
+												<li><a href="http://www.favehealthyrecipes.com/Holidays/Recipes-Eating-Healthy-New-Year-free-eCookbook">8 Recipes for Eating Healthy in the New Year</a></li>
 												<li><a href="http://www.favehealthyrecipes.com/Healthy-Eating/Healthy-Recipes-Year-Round-eCookBook">Healthy Recipes Year-Round eCookbook</a></li>
 												<li><a href="http://www.favehealthyrecipes.com/Modified-Diet/How-to-Cook-Low-Calorie-Meals-32-Healthy-Low-Calorie-Recipes-To-Try-eCookbook">How to Cook Low Calorie Meals: 32 Healthy Low Calorie Recipes</a></li>
+												<li><a href="http://www.favehealthyrecipes.com/Vegetarian/Potluck-Ideas-Vegetarian-Recipes-Free-ecookbook">Potluck Ideas: 8 Vegetarian Recipes</a></li>
 												<li><a href="http://www.favehealthyrecipes.com/Modified-Diet/The-27-Essential-Heart-Healthy-Diet-Recipes-Free-eCookbook">The 27 Essential Heart Healthy Diet Recipes Free eCookbook</a></li>
 												<li><a href="http://www.favehealthyrecipes.com/Snacks/The-Ultimate-List-of-Healthy-Snacks-40-Healthy-Snack-Recipes-Free-eCookbook">The Ultimate List of Healthy Snacks: 40 Healthy Snack Recipes Free eCookbook</a></li>
 										</ul>
@@ -3050,36 +3123,34 @@ post_newsletter_signup.logRightRailSubmit = function(isNewSignup, rriID){
 				<h3>Connect with Us</h3>
 				<h4>Find us online</h4>
 				
-				<table>
-						<tbody><tr>
-																<td>
-										<a title="Follow Us on Facebook" target="_blank" href="http://www.facebook.com/FaveHealthyRecipes"><img src="/images/social_link_facebook.jpg" alt="Facebook" width="36" height="35"></a>
-									</td>
-																		<td>
-										<a title="Visit Our Google Plus Page" target="_blank" href="https://plus.google.com/114951766464331035491/posts"><img src="/images/social_link_google-plus.png" alt="Google Plus" width="32" height="32"></a>
-									</td>
-																		<td>
-										<a title="Visit Our Twitter Page" target="_blank" href="http://twitter.com/FaveHealthy"><img src="/images/social_link_twitter.jpg" alt="Twitter" width="35" height="35"></a>
-									</td>
-																		<td>
-										<a title="Visit Our Pinterest Page" target="_blank" href="http://pinterest.com/FaveHealthy"><img src="/images/social_link_pinterest.jpg" alt="Pinterest" width="35" height="35"></a>
-									</td>
-																		<td>
-										<a title="Visit Our YouTube Channel" target="_blank" href="http://www.youtube.com/favehealthyrecipes"><img src="/images/social_link_youtube.jpg" alt="Twitter" width="35" height="35"></a>
-									</td>
-																		<td>
-										<a title="Read Our Blog" target="_blank" href="http://blog.recipelion.com/"><img src="/images/social_link_blog.jpg" alt="Blog" width="35" height="35"></a>
-									</td>
-																		<td>
-										<a title="Newsletters" href="/section/subctr"><img src="/images/social_link_email.jpg" alt="Email" width="35" height="35"></a>
-									</td>
-																		<td>
-										<a title="Visit Our RSS Page" href="/rss-feed"><img src="/images/social_link_rss.jpg" alt="RSS" width="35" height="35"></a>
-									</td>
-															</tr>
-					</tbody></table>
-					
-			</div>
+				<ul>
+												<li>
+								<a title="Follow Us on Facebook" target="_blank" href="http://www.facebook.com/FaveHealthyRecipes"><img src="/images/social_link_facebook.jpg" alt="Facebook" width="36" height="35"></a>
+							</li>
+														<li>
+								<a title="Visit Our Google Plus Page" target="_blank" href="https://plus.google.com/114951766464331035491/posts"><img src="/images/social_link_google-plus.png" alt="Google Plus" width="32" height="32"></a>
+							</li>
+														<li>
+								<a title="Visit Our Twitter Page" target="_blank" href="http://twitter.com/FaveHealthy"><img src="/images/social_link_twitter.jpg" alt="Twitter" width="35" height="35"></a>
+							</li>
+														<li>
+								<a title="Visit Our Pinterest Page" target="_blank" href="http://pinterest.com/FaveHealthy"><img src="/images/social_link_pinterest.jpg" alt="Pinterest" width="35" height="35"></a>
+							</li>
+														<li>
+								<a title="Visit Our YouTube Channel" target="_blank" href="http://www.youtube.com/favehealthyrecipes"><img src="/images/social_link_youtube.jpg" alt="Twitter" width="35" height="35"></a>
+							</li>
+														<li>
+								<a title="Read Our Blog" target="_blank" href="http://www.recipechatter.com/"><img src="/images/social_link_blog.jpg" alt="Blog" width="35" height="35"></a>
+							</li>
+														<li>
+								<a title="Newsletters" href="/section/subctr"><img src="/images/social_link_email.jpg" alt="Email" width="35" height="35"></a>
+							</li>
+														<li>
+								<a title="Visit Our RSS Page" href="/rss-feed"><img src="/images/social_link_rss.jpg" alt="RSS" width="35" height="35"></a>
+							</li>
+											</ul>
+				
+							</div>
 										</div>
 												
 									</td><!-- end col3 -->
@@ -3098,7 +3169,7 @@ post_newsletter_signup.logRightRailSubmit = function(isNewSignup, rriID){
 			<input type="hidden" name="search_type" value="standard">
 			
 			<div class="searchFormDivInner">
-				<input class="searchField defaultSearchText" type="text" id="search_term" name="search_term" value="Search FaveHealthyRecipes.com">
+				<input class="searchField defaultSearchText" type="text" name="search_term" value="Search FaveHealthyRecipes.com">
 			
 									<input type="submit" value="Search" class="button">
 								</div>
@@ -3111,7 +3182,7 @@ post_newsletter_signup.logRightRailSubmit = function(isNewSignup, rriID){
 									<a style="border: 0;" href="/index.php/hct/about_us">About Us</a>
 										<a href="/index.php/hct/advertise">Advertise</a>
 										<a href="/index.php/hct/contact_us_page">Contact Us</a>
-										<a href="http://www.favediets.com/index.php/hct/FaveDiets-FAQ">FAQ</a>
+										<a href="http://www.favehealthyrecipes.com/index.php/hct/FaveDiets-FAQ">FAQ</a>
 										<a href="http://www.favehealthyrecipes.com/keywords">Keyword Index</a>
 										<a href="/index.php/hct/In-The-News">News</a>
 										<a href="/index.php/hct/privacy_policy">Privacy Policy</a>
@@ -3127,25 +3198,15 @@ post_newsletter_signup.logRightRailSubmit = function(isNewSignup, rriID){
 		<table style="margin: 0 auto;">
 			<tbody><tr>
 				<td>
-					<p style="margin: 0 10px;">© Copyright 2013 Prime Publishing, LLC. All rights reserved.</p>
+					<p style="margin: 0 10px;">© Copyright 2014 Prime Publishing, LLC. All rights reserved.</p>
 				</td>
 							</tr>
 		</tbody></table>
 		
 							</div>
-							
-		</div><!-- end footer -->
+						</div><!-- end footer -->
 		
-		
-		
-				
-		
-		
-		
-			
-		
-		
-								
+						
 
 	</div><!-- end mainLayoutDiv2 -->
 </div><!-- end mainLayoutDiv -->
@@ -3153,7 +3214,7 @@ post_newsletter_signup.logRightRailSubmit = function(isNewSignup, rriID){
 	
 	
 <div id="printFooter">
-	<p>© Copyright 2013 Prime Publishing, LLC. All rights reserved.</p>
+	<p>© Copyright 2014 Prime Publishing, LLC. All rights reserved.</p>
 	
 	<p>www.favehealthyrecipes.com</p>
 </div><!-- end printFooter -->
@@ -3214,6 +3275,13 @@ post_newsletter_signup.logRightRailSubmit = function(isNewSignup, rriID){
 										<div class="formFieldDiv">
 											<label>Password:</label>
 											<input type="password" value="" name="password">
+										</div>
+									</div>
+									
+									<div>
+										<div class="formFieldDiv">
+										    <input type="checkbox" name="remember_me" value="1" checked="checked">
+											<label style="display: inline-block; float: none;">Remember Me</label>
 										</div>
 									</div>
 									
@@ -3280,6 +3348,12 @@ post_newsletter_signup.logRightRailSubmit = function(isNewSignup, rriID){
 								<input type="password" value="" name="password2">
 							</div>
 							
+							<div class="formFieldDiv">
+							    <input type="checkbox" name="remember_me" value="1" checked="checked">
+							    <label style="display: inline-block;">Remember Me</label>
+								
+							</div>
+							
 							<div class="formFieldDiv" style="text-align: right;">
 								<input type="submit" value="Sign Up">
 							</div>
@@ -3331,6 +3405,9 @@ post_newsletter_signup.logRightRailSubmit = function(isNewSignup, rriID){
 
 
 
+
+
+
 <!-- START GOOGLE ANALYTICS -->
 <script type="text/javascript">
 
@@ -3340,7 +3417,7 @@ post_newsletter_signup.logRightRailSubmit = function(isNewSignup, rriID){
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
@@ -3358,226 +3435,10 @@ post_newsletter_signup.logRightRailSubmit = function(isNewSignup, rriID){
 
 	
 	<!-- START NL signup div -->
-					
-			<div id="newsletterSignUpDivAnime" style="display: none;">
-				
-				<div id="newsletterSignUpDivAnimeCloseLink">
-					[ <a href="">Close</a> ]
-				</div>
-				
-				<div id="newsletterSignUpAnimeContent">
-						<div id="nscID_61">
-		<img style="display: block; margin: 0 0 25px 0;" src="/site_templates/signup_creative/images/nscID_61/favehealthyrecipes_dhtml_01.jpg" alt="" width="798" height="110">
-		
-		
-		<div>
-		
-			<img style="display: block; margin: 0 auto;" src="/site_templates/signup_creative/images/nscID_61/FaveHealthyRecipes_2.jpg" alt="" width="798" height="300">
-			
-			
-			<table class="newsletterSignUpDivAnimeFormTable">
-				<tbody><tr>
-					<td id="newsletterSignUpDivAnimeFormTD">
-						<form id="newsletterSignUpFormAnime" class="contentBoxPadding newsletterSignUpDivAnimeFormUI" action="/newsletter_signup.php" method="post" style="margin: 0; padding: 0;">
-							<input type="hidden" name="task" value="signup">
-							<input type="hidden" name="PHPSESSID" value="<?php echo session_id();?>">
-										
-	
-							<div style="margin: 0; padding: 0px 0 0 0px;">
-								<img style="margin: 0 auto; vertical-align: middle;" src="/site_templates/signup_creative/images/nscID_61/favecrafts_nl06.gif" alt="Enter Your Email" width="256" height="32"><input style="width: 200px;" type="text" id="emailAnime" name="email" value="">
-							</div>
-							
-							<div style="margin: 0; padding: 0px 0 0 0px;">
-								<input type="submit" value="Submit for FREE Access">
-							</div>
+		<!-- END NL signup div -->
 	
 	
-						</form><!-- end newsletterSignUpFormAnime -->
-						
-						<h4 id="newsletterSignUpThanksAnime">Thanks for signing up</h4>
-						<h4 id="newsletterSignUpErrorAnime">Sorry, we could not sign you up.</h4>
-					</td>
-				</tr>
-			</tbody></table><!-- end newsletterSignUpDivAnimeFormTable -->
-		
-		</div>
-		
-
-		
-	</div><!-- end nscID_61 -->			
-			
-			
-				</div><!-- end newsletterSignUpAnimeContent -->
-				
-				
-				<div id="newsletterSignUpPrivacyLink">
-					[ <a href="">Privacy Policy</a> ]
-				</div><!-- end newsletterSignUpPrivacyLink -->
-				
-				
-				<div id="newsletterSignUpPrivacyContent" style="display: none;">
-					<p style="margin-bottom: 1.5em">[ <a class="closePrivacyContentLink" href="">Close Privacy Policy</a> ]</p>
-					
-					<p>
-	Privacy Policy / Your California Privacy Rights<br>
-	Revised and posted as of March 4, 2013</p>
-<p>
-	&nbsp;</p>
-<p>
-	Prime Publishing, LLC ("Company," "we" or "us") reserves the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the top of this document.</p>
-<p>
-	This Privacy Policy will tell you, among other things:</p>
-<p>
-	Your California privacy rights.<br>
-	How we collect information and what information we collect.<br>
-	How we may use information.<br>
-	How we may share information.<br>
-	Your choices regarding the sharing of information.</p>
-<p>
-	ACKNOWLEDGEMENT/YOUR AGREEMENT<br>
-	Company websites are not intended for use by individuals under the age of 18 or those who are not legal residents of the United States. By using our website or submitting information to us, you consent to the Company's use and sharing of the information collected or submitted as described in this Privacy Policy. If you are not 18 years of age or older and a valid resident of the United States or you do not agree with the terms of this Privacy Policy, do not provide us with any information or use any of the products or services offered or provided on Company websites or through Company technology.</p>
-<p>
-	YOUR CALIFORNIA PRIVACY RIGHTS<br>
-	Beginning January 1, 2005 under California's "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to either: (1) a list detailing the categories of information shared and the entities to which such information was provided; or (2) to be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option. To opt-out of having your information shared with third parties please write to us.</p>
-<p>
-	HOW DO WE COLLECT INFORMATION AND WHAT INFORMATION DO WE COLLECT?<br>
-	We collect and combine personally identifiable information ("PII") and non-personally identifiable information ("Non-PII") through various sources, including those discussed below. For your reference, PII is data collected with an intention to specifically identify, contact or locate a person, including but not limited to name, address, telephone number, or e-mail address. Conversely, Non-PII is data that is not used to specifically identify, contact or locate an individual, including but not limited to zip code, gender, age, or IP address.</p>
-<p>
-	Distribution Partners<br>
-	Website operators that license our ad serving technology pass information to us so that we may serve advertisements to you. The information passed may include, but is not limited to, your IP address, e-mail address, name, mailing address, telephone number, date of birth, and gender.</p>
-<p>
-	Offer Forms<br>
-	We also collect information about you when you complete a survey or offer form on one of our websites or web pages. This information may include, but is not limited to: your e-mail address, name, mailing address, telephone number, date of birth, gender, and payment information; information about your background, interests, health, education, career goals, and shopping preferences; and any other personal information or unique preference information you provide to us or our advertisers.</p>
-<p>
-	Website Registration Forms<br>
-	We collect information about you when you register on one of our websites. This registration information may include, but is not limited to your:<br>
-	e-mail address<br>
-	full name<br>
-	mailing address<br>
-	telephone number<br>
-	date of birth<br>
-	gender</p>
-<p>
-	Publisher Partners<br>
-	When you complete a registration or offer form that is hosted by one of our website publisher partners on our behalf, the website publisher partner may submit all or a portion of the information that you submitted on the form to the Company. This information may include, but is not limited to: your IP address, e-mail address, name, mailing address, telephone number, date of birth, gender, and payment information; information about your background, interests, health, education, career goals, and shopping preferences; and any other information you provide to our website publisher partner.</p>
-<p>
-	Marketing Partners<br>
-	We may receive information about you, including but not limited to your IP address, e-mail address, first name, last name, mailing address, and telephone number, from third party marketing partners that provide us with consumer data to manage on their behalf.</p>
-<p>
-	Automatic Information/Digital Identifiers<br>
-	We may automatically receive and store certain types of information about you through the data sources listed above.</p>
-<p>
-	You may be familiar with the term "cookies," which are unique alphanumeric identifiers that store information on your computer. A cookie is placed on your computer when your web browser accesses our website. We use cookies for tracking transactions and the user characteristics explained in detail throughout this Privacy Policy. If you choose, there are utilities available for purchase from independent software providers to install on your computer as well as tools/preferences you can choose through most web browsers to make website visits anonymous. Of course, cookies let you have a more satisfying website experience, so we recommend that you leave them turned on.</p>
-<p>
-	We also collect information through our web server applications. This information includes your Internet Protocol or "IP" address, date/time stamp, browser type, and referring URL.</p>
-<p>
-	Additionally, we may use pixel tracking technology to track the completion of transactions with us or our advertisers, the source information for those transactions, and your IP address, date/time stamp, browser type, and referring URL.</p>
-<p>
-	Government Forms<br>
-	The Company may be required to create, collect, maintain, and submit certain information required by the government, such as IRS Forms W-9 and 1099. This information, which may include your taxpayer identification number, will not be used, shared, transferred, or sold for marketing purposes.</p>
-<p>
-	HOW DO WE USE THIS INFORMATION?<br>
-	We may use the collected PII and Non-PII for any legally permissible purpose in our sole discretion, including but not limited to those explained below.</p>
-<p>
-	Ad Serving<br>
-	We may serve advertisements to you based, in part, on your IP address, the demographic and geographic information you submitted to the Company during the website registration process, and other socio-economic information, psychographic information, Internet behavior (i.e., browsing, search, shopping, purchase, and ad response behavior), and lifestyle information about you that we obtain from affiliated entities and from third parties.</p>
-<p>
-	We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <a href="http://www.networkadvertising.org" target="_blank">www.networkadvertising.org</a>.</p>
-<p>
-	Pre-select/Pre-fill Offers<br>
-	Our website technology may pre-select certain offers for you to view based on the demographic and geographic information you submitted to the Company during the website registration process. Additionally, this technology may pre-fill some or all of the offers' data fields with the information you submitted during the website registration process in order to prevent you from having to re-enter this information. We may not show all of the pre-filled data fields to you.</p>
-<p>
-	Upsell<br>
-	We utilize customized post transactional or "upsell" technology to help advertisers generate sales, while providing you with a series of great offers we think may be of interest to you. The way it works is simple: once you purchase a product or service from one of our reward advertisers, you will be offered additional products or services that we think may be of interest to you. If you elect to purchase products or services from an advertiser in the post transactional channel, we will pass the information that you provided during the initial transaction to the subsequent advertiser, including but not limited to your credit card information. This information pass is done to enhance and simplify your purchasing experience. Your information will only be passed to an advertiser in the post transactional channel after you have elected to purchase their product or service. By electing to purchase their product or service you consent to the passing of your data to the third party advertiser in question.<br>
-	<br>
-	Customer Service and Fulfillment<br>
-	We may use your information to operate the website promotion, service your account and to fulfill rewards earned through Company websites. We may also use your information to verify your identity or claimed account status and, where we consider appropriate, investigate your compliance with the terms and conditions of the website promotion or any advertiser offer. We do retain customer service correspondence.</p>
-<p>
-	Credit Card Preauthorization<br>
-	By submitting your credit card information to us or to one of our advertisers, you are authorizing the Company or its agent to periodically verify that your credit card account is valid and has credit available by charging, and thereafter crediting, a small sum to the card.</p>
-<p>
-	Marketing<br>
-	We may use your information in our online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs. If you would like to be removed from these programs please write to us.</p>
-<p>
-	HOW DO WE SHARE INFORMATION?<br>
-	We may share the collected PII and Non-PII for any legally permissible purpose in our sole discretion, including but not limited to those explained below.</p>
-<p>
-	Within the Company<br>
-	We may share information we collect with affiliated companies, including our parent company and other subsidiaries of our parent company, for use in their ad serving and marketing programs. This Privacy Policy does not apply to affiliated companies and their collection, use and sharing of information.</p>
-<p>
-	Vendors<br>
-	We may share your information with various third party vendors that are not part of the Company, including but not limited to vendors that provide us with technology to deploy commercial e-mail, vendors that sell the products or services for which you have qualified through one of our websites, and shipping companies that we utilize to ship products to you.</p>
-<p>
-	Advertisers<br>
-	When you participate in an offer by completing a form, we will transfer the information you submitted on the form to the applicable advertiser.</p>
-<p>
-	When you answer "yes" or "no" to a marketing or survey question, some or all of the information that you submitted during the website registration process will be transferred to advertisers that we believe may be of interest to you without providing you with another opportunity to review the information.</p>
-<p>
-	When you select "yes" next to an offer, we will transfer some or all of the information that you submitted during the website registration process to the applicable advertiser without providing you with another opportunity to review the information.</p>
-<p>
-	Ad Serving Companies<br>
-	We may use third party ad networks or ad serving companies to serve advertisements on our websites. We pass information about you to these companies so that they can deliver targeted advertisements that they believe will be of interest to you. The information passed to these companies may include, but is not limited to, your IP address, e-mail address, name, mailing address, telephone number, date of birth, gender, and any other information you provide to us. Web pages that are served by these companies will state that they are "powered by" or "ads by" the applicable company and will contain a link to that company's privacy policy.</p>
-<ul>
-	<li>
-		Google, as a third party vendor, uses cookies to serve ads on our site.</li>
-	<li>
-		Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.</li>
-	<li>
-		Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html">Google ad and content network privacy policy</a>.</li>
-</ul>
-<p>
-	Marketing Partners<br>
-	We may share, license or sell your information to third parties for various marketing purposes, including their online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs. If you would like to be removed from these programs write to us.</p>
-<p>
-	Data Enhancement/Appending/Validation<br>
-	We may use third party service providers to enhance our database with additional elements, including but not limited to age ranges present in your household, whether you own or rent a home, the length of time you have lived at your residence, whether you are a mail order buyer or responder, household income, and gender. Further, we may use third party service providers to append telephone numbers to other data points we have in our database. We also may use third party service providers to validate the data we have in our database.</p>
-<p>
-	Additionally, we may share, license or sell your information to third parties for use in their data validation, enhancement, information verification services, and, to the extent permitted by law, individual reference or look-up services.</p>
-<p>
-	Third Party Cookies<br>
-	<br>
-	Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content.&nbsp;&nbsp; These cookies contain no personally identifiable information.&nbsp; The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to http://www.aboutads.info/choices.</p>
-<p>
-	Governmental Agencies or Other Companies<br>
-	We may share your information with law enforcement officials or governmental agencies: (1) in response to their request; (2) when permitted or required by law; or (3) to establish our compliance with applicable laws, rules, regulations, or guidelines.</p>
-<p>
-	We may store and share your information with third parties for suppression or opt-out purposes.</p>
-<p>
-	We also may share your information with third parties when: (1) trying to protect against or prevent actual or potential fraud or unauthorized transactions; (2) investigating fraud that has already taken place; (3) enforcing or applying existing terms and conditions and/or other agreements; (4) protecting the rights, property or safety of our websites, our users or others; or (5) responding to subpoenas, court orders or legal process, or to establish or exercise our legal rights or defend against legal claims.</p>
-<p>
-	In all cases, this information is not provided to these entities or persons for marketing purposes.</p>
-<p>
-	Right to Transfer<br>
-	Should the Company choose to sell or transfer business assets, it is possible that the information we possess may be transferred as part of that transaction. The Company may decide to retain a copy of the information post sale or transfer.</p>
-<p>
-	COMPANY CUSTOMER CHOICES</p>
-<p>
-	Marketing Communications and Unsubscribe Information<br>
-	By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications or newsletters from the Company and its third party marketing partners, you can discontinue the communications by <a href="http://www.favehealthyrecipes.com/section/subctr/" target="_blank">clicking here</a> and filling out our form. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account.</p>
-<p>
-	Request for More Information<br>
-	As it relates to marketing communications or any other questions you might have about our Privacy Policy, please write to us at Prime Publishing, LLC, 3400 Dundee Road, Suite 220, Northbrook, IL&nbsp; 60062.</p>
-<p>
-	WHAT HAPPENS IF I HIT A LINK TO ANOTHER SITE FROM A COMPANY WEBSITE?<br>
-	Our websites may offer links to other websites. Other websites have their own terms of use and privacy and security policies. If you choose to visit one of these sites, you should review the policies that govern that particular site.</p>
-<p>
-	APPLICATION OF THIS PRIVACY POLICY<br>
-	This Privacy Policy applies to all information collected by or submitted to the Company. Other affiliated entities of the Company may obtain information independently from transactions and experiences with you or from other sources. This Privacy Policy does not pertain to that information.</p>
-<p>
-	WHAT IS THE POLICY WITH RESPECT TO COMMUNICATING WITH CHILDREN?<br>
-	We recognize the unique privacy concerns regarding children. We are committed to carefully protecting privacy where children are involved no matter the point of contact. In particular, our intention is to fully comply with the Children's Online Privacy Protection Act ("COPPA"). Per COPPA guidelines, we do not knowingly collect PII from children under the age of 13. If a parent or guardian is made aware that a child under the age of 13 has provided us with PII through any point of contact, click here to contact us and we will delete the information about the child referenced from our files.</p>
-<p>
-	SECURITY<br>
-	There is no such thing as complete security on the Internet or otherwise. The Company uses various security techniques on our websites to help protect against the loss, misuse or modification of information we've collected from you. When you access your personal information or transmit information to us, that information is stored on servers that we have taken steps to protect from unauthorized access or intrusion. While we strive to protect your information, the Company cannot ensure or warrant the security of any information you transmit to us. You acknowledge and assume this risk when communicating with the Company, its partners and affiliates.</p>
-<p>
-	LIMITATION OF LIABILITY<br>
-	YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, AS WELL AS THE TERMS AND CONDITIONS OF THIS WEBSITE (INCLUDING LIMITATIONS ON DAMAGES). YOU AGREE THAT THE COMPANY'S LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY THE COMPANY TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS.</p>					
-					<p style="margin-top: 1.5em">[ <a class="closePrivacyContentLink" href="">Close Privacy Policy</a> ]</p>
-				</div><!-- end newsletterSignUpPrivacyContent -->
-				
-			</div><!-- end newsletterSignUpDivAnime -->
-
-				<!-- END NL signup div -->
+	
 	
 
 		<!-- START Vibrant code -->
@@ -3610,20 +3471,24 @@ post_newsletter_signup.logRightRailSubmit = function(isNewSignup, rriID){
 							<script type="text/javascript" src="http://ads.pro-market.net/ads/scripts/site-132970.js"></script>
 							<!-- END datonics.com -->
 			
-			<!-- START swoop code -->
-			<script type="text/javascript" src="http://ardrone.swoop.com/js/spxw.js" data-domain="SW-57430661-10" data-serverbase="http://ardrone.swoop.com/"></script> 
-			<!-- END swoop code -->
 			
 			<!-- START ziplist library -->
 						<!-- END ziplist library -->
 					
 		
+		<!-- START LiveRamp code -->
+		 
+		<!-- END LiveRamp code -->
+		
+		<!-- START Swoop code -->
+		 
+		<!-- END Swoop code -->
+			
+			
+			
 		
 
 				
-		
-		
-		...		
 		
 
 
