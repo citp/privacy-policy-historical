@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackbookonline.info privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116020931id_/http%3A//www.blackbookonline.info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackbookonline.info privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518215445id_/http%3A//www.blackbookonline.info/privacy.aspx) for the most accurate reproduction.*
 
 # Black Book Online Privacy Policy
 
@@ -9,7 +9,7 @@
   * **The site has a Search Spy feature that allows general information on searches run by website users to be seen by other site visitors. This information is filtered to prevent the display of personal information.**
   * **We do not collect personal information of users of this website. The only exception to this are customer service inquiries where the customer service email request is stored indefinitely. This information is not reviewable or editable once submitted and cannot be deleted by the sender. In this case, the consumers name and email address are stored as part of a received email.** **We do not spam, trade or sell email addresses used in correspondence to us.**
   * **Any changes to our privacy policy will be seen on this page -- please check back often. The effective date of the notice can be seen below.**
-  * **Any questions or notices related to privacy must be directed via email using the[contact page](https://web.archive.org/web/20131116020931id_/http%3A//www.blackbookonline.info/contact.aspx) on this website. **
+  * **Any questions or notices related to privacy must be directed via email using the[contact page](https://web.archive.org/web/20140518215445id_/http%3A//www.blackbookonline.info/contact.aspx) on this website. **
 
 
 
