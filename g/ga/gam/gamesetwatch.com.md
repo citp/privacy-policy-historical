@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesetwatch.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208213408id_/http%3A//legal.us.ubm.com/privacy-notice-highlights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesetwatch.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518170440id_/http%3A//legal.us.ubm.com/privacy-notice-highlights) for the most accurate reproduction.*
 
 # UBM - UBM LLC Privacy Policy Highlights
 
