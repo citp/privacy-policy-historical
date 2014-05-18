@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the cruise.co.uk privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224010629id_/http%3A//www.cruise.co.uk/cruise-deals/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruise.co.uk privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519004443id_/http%3A//www.cruise.co.uk/cruise-guides/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Cruise.co.uk | Cruise.co.uk
+# Privacy Policy | www.CRUISE.co.uk | www.CRUISE.co.uk
 
   **Privacy & Cookie Policy:**
 
- [www.Cruise.co.uk](http://www.cruise.co.uk/) ltd ("We") are committed to protecting and respecting your privacy.
+ [www.CRUISE.co.uk](http://www.cruise.co.uk/) ltd ("We") are committed to protecting and respecting your privacy.
 
-This policy (together with our terms & conditions [http://www.cruise.co.uk/cruise-guides/Terms-and-Conditions/ ] sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
+This policy (together with our terms & conditions [www.CRUISE.co.uk/cruise-guides/Terms-and-Conditions/](http://www.cruise.co.uk/cruise-guides/Terms-and-Conditions/) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
 
 Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. We keep certain basic information when you visit our website and recognise the importance of keeping that information secure and letting you know what we will do with it.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is [www.Cruise.co.uk](http://www.cruise.co.uk/) ltd. Our registered office is at Birmingham Road, Henley in Arden, West Midlands, B95 5QA and our company number is 01827977.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is [www.CRUISE.co.uk](http://www.cruise.co.uk/) ltd. Our registered office is at Birmingham Road, Henley in Arden, West Midlands, B95 5QA and our company number is 01827977.
 
 This policy only applies to our site. If you leave our site via a link or otherwise you will be subject to the policy of that website provider. We have no control over that policy or the terms of the website and you should check their policy before continuing to access the site.
 
@@ -40,7 +40,7 @@ We may collect information about your computer without you actively providing it
 
 We may collect and process the following data about you:
 
-  * Information that you provide by filling in forms on our site [www.cruise.co.uk](http://www.cruise.co.uk/) (our site). This includes information provided at the time of subscribing to our service or requesting further services. We may also ask you for information when you report a problem with our site.
+  * Information that you provide by filling in forms on our site [www.CRUISE.co.uk](http://www.cruise.co.uk/) (our site). This includes information provided at the time of subscribing to our service or requesting further services. We may also ask you for information when you report a problem with our site.
   * If you contact us, we may keep a record of that correspondence.
   * Details of your visits to our site and the resources that you access.
 
