@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carrental.com privacy policy that was archived on 2013-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130904034020id_/http%3A//www.carrental.com/%23privacyModal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrental.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518201613id_/http%3A//carrental.com/%23privacyModal) for the most accurate reproduction.*
 
 # Carrental.com - Home
 
@@ -180,7 +180,7 @@ You can opt-out of our use and disclosure of your PII for marketing purposes and
 
 To opt-out of Email Campaigns: You may reply to a promotional or marketing e-mail that you have received from us with the word "Unsubscribe" in the subject line or you can email us directly at [avisemail@avisbudget.com](mailto:avisemail@avisbudget.com) or [budgetcustomerservice@budgetgroup.com](mailto:budgetcustomerservice@budgetgroup.com). (If you use more than one e-mail address, then send your opt-out e-mail from each of your e-mail addresses.)
 
-To opt-out of any other promotional mailings from ABG and our partners you can email us at [www.avis.com/car-rental/content/privacy-preference.ac](https://web.archive.org/web/20130904034020id_/http://www.carrental.com/http//www.avis.com/car-rental/content/privacy-preference.ac) or [budgetcustomerservice@budgetgroup.com](mailto:budgetcustomerservice@budgetgroup.com) or write to us at:  
+To opt-out of any other promotional mailings from ABG and our partners you can email us at [www.avis.com/car-rental/content/privacy-preference.ac](https://web.archive.org/web/20140518201613id_/http://www.carrental.com/http//www.avis.com/car-rental/content/privacy-preference.ac) or [budgetcustomerservice@budgetgroup.com](mailto:budgetcustomerservice@budgetgroup.com) or write to us at:  
 
 
 Avis Budget Group, Inc.  
