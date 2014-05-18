@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rubylearning.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229075503id_/http%3A//rubylearning.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubylearning.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518144654id_/http%3A//rubylearning.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy: Ruby Study Notes - Best Ruby Guide, Ruby Tutorial
 
