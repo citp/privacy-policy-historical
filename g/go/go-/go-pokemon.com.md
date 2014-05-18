@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the go-pokemon.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116230042id_/http%3A//www.pokemon.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go-pokemon.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518231650id_/http%3A//www.pokemon.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pokemon.com
 
-[](http://www.esrb.org/confirm/pokemon-confirmation.jsp)
-
-Last updated February 12, 2013
+[](http://www.esrb.org/confirm/pokemon-confirmation.jsp)Last updated May 14, 2014.
 
 Welcome to Pokémon!
 
@@ -14,21 +12,30 @@ Pokémon respects the privacy rights of our online visitors and recognizes the i
 
 We also recognize the need to provide additional protections for children who visit our Sites. To learn about our supplemental privacy protections for kids under the age of 13, [click here](http://www.pokemon.com/us/privacy-policy/#kids) to read Pokémon's Kids Privacy Policy.
 
-This Privacy Policy and the certification seal shown on this page confirms that Pokémon is a member in good standing of ESRB's Privacy Online Program. The ESRB's Privacy Online Program is designed to ensure that our pokemon.com website information disclosure practices are responsible and appropriate. To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our pokemon.com website have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our pokemon.com website and other enforcement and accountability mechanisms administered independently by the ESRB.
+This Privacy Policy and the certification seal shown on this page confirms that Pokémon is a member in good standing of ESRB's Privacy Certified Program. The ESRB's Privacy Certified Program is designed to ensure that our pokemon.com website information disclosure practices are responsible and appropriate. To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our pokemon.com website have been reviewed and certified by ESRB Privacy Certified to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our pokemon.com website and other enforcement and accountability mechanisms administered independently by the ESRB.
 
-Pokémon is a self-certified member of the U.S. Department of Commerce's EU Safe Harbor privacy program jointly established to comply with the European Commission's 1998 Directive on Data Protection and The U.S. Department of Commerce’s Swiss Safe Harbor privacy program jointly established to comply with the Swiss Federal Act on Data Protection. For more information about this privacy initiative, visit the Department of Commerce's website at <http://www.export.gov/safeHarbor/>.
+Pokémon is a self-certified member of the U.S. Department of Commerce's EU Safe Harbor privacy program jointly established to comply with the European Commission's 1998 Directive on Data Protection and The U.S. Department of Commerce’s Swiss Safe Harbor privacy program jointly established to comply with the Swiss Federal Act on Data Protection. For more information about this privacy initiative, visit the Department of Commerce's website at http://www.export.gov/safeHarbor/.
 
 Table of Contents
 
-  1. What information does this Privacy Policy cover?
-  2. What types of personally identifiable information do we collect about our guests?
-  3. How is your personally identifiable information used and shared?
-  4. How long does Pokémon keep your personally identifiable information?
-  5. What choices do you have about the collection, use, and sharing of your personally identifiable information?
-  6. What kinds of security measures do we take to safeguard your personally identifiable information?
-  7. How can you update your personal information and profile?
-  8. How can you ask questions, or send us comments, about this Privacy Policy?
-  9. How will you know if we amend this Privacy Policy?
+  * [What information does this Privacy Policy cover?](http://www.pokemon.com/us/privacy-policy/#11)
+
+  * [What types of personally identifiable information do we collect about our guests?](http://www.pokemon.com/us/privacy-policy/#12)
+
+  * [How is your personally identifiable information used and shared?](http://www.pokemon.com/us/privacy-policy/#13)
+
+  * [How long does Pokémon keep your personally identifiable information?](http://www.pokemon.com/us/privacy-policy/#13)
+
+  * [What choices do you have about the collection, use, and sharing of your personally identifiable information?](http://www.pokemon.com/us/privacy-policy/#14)
+
+  * [What kinds of security measures do we take to safeguard your personally identifiable information?](http://www.pokemon.com/us/privacy-policy/#15)
+
+  * [How can you update your personal information and profile?](http://www.pokemon.com/us/privacy-policy/#16)
+
+  * [How can you ask questions, or send us comments, about this Privacy Policy?](http://www.pokemon.com/us/privacy-policy/#17)
+
+  * [How will you know if we amend this Privacy Policy?](http://www.pokemon.com/us/privacy-policy/#18)
+
 
 
 
@@ -40,7 +47,7 @@ Please note that this Privacy Policy applies only to information submitted and c
 
 This Privacy Policy applies to use and sharing of personal information collected as of the date this Privacy Policy is posted. Finally, the terms of this Privacy Policy are subject to all applicable laws.
 
-back to top
+[back to top](http://www.pokemon.com/us/privacy-policy/#top)
 
 2\. **What types of personally identifiable information do we collect about our guests?**
 
@@ -106,7 +113,7 @@ Our Sites use a variety of technical methods for tracking purposes, including We
 
 Finally, once you've clicked on an advertisement or other link and have left our Sites, our Privacy Policy no longer applies and you must read the privacy policy of the host of that site to see how your personal information will be handled on their site.
 
-back to top
+[back to top](http://www.pokemon.com/us/privacy-policy/#top)
 
 3\. **How is your personally identifiable information used and shared?**
 
@@ -141,6 +148,7 @@ Pokémon may share your personal information with outside entities hired to assi
 To the extent that you have installed a Pokémon application on your device, except as disclosed below, the personal information collected by the application remains on the application and is not provided to Pokémon. Pokémon will have access to your personal information or your personal information will be transferred to Pokémon’s servers in any of the following circumstances:
 
   * Pokémon may also access certain data from the application, including without limitation the user supplied information and device information, for statistical analysis. All such data has been anonymized prior to Pokémon’s collection and storage.
+
 
 
 
@@ -183,7 +191,7 @@ We will disclose personal information when we believe in good faith that such di
 
 Pokémon will keep your personal information so long as you have an account with Pokémon, provided, however, that Pokémon will use commercially reasonable efforts to delete any personal information collected by Pokémon that is no longer relevant to your use of the Sites or the Services offered by Pokémon. To the extent that you have installed a Pokémon application on your device, Pokémon will keep your personal information within such application for so long as you keep the application on your device.
 
-back to top
+[back to top](http://www.pokemon.com/us/privacy-policy/#top)
 
 5\. **What choices do you have about the collection, use, and sharing of your personally identifiable information?**
 
@@ -196,13 +204,13 @@ As mentioned above, you have control over the personal information you submit to
 
 If you contact us, please include the name of the Sites you used to register and the email address you used to register with us so we can verify your request.
 
-back to top
+[back to top](http://www.pokemon.com/us/privacy-policy/#top)
 
 6\. **What kinds of security measures do we take to safeguard your personally identifiable information?**
 
 The security and confidentiality of your personal information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect your personal information from unauthorized access and improper use. To prevent unauthorized electronic access to personal information, we limit access to only those employees performing a legitimate business function; maintain information collected online behind a firewall-protected server; verify your identity by asking you for an email address or by other means; store your personal information on servers separate from other corporate information and systems; and notify you by email if we learn that a breach has occurred. We also collect personal information from you only on SSL-protected (encrypted) web pages and it is transmitted over the Internet only through an SSL-protected (encrypted) channel. From time to time, we review our security procedures to consider appropriate new technology and methods. However, please understand that, despite our best efforts, no security measure is perfect or impenetrable.
 
-back to top
+[back to top](http://www.pokemon.com/us/privacy-policy/#top)
 
 7\. **How can you update your personal information and profile?**
 
@@ -212,9 +220,10 @@ You can access and update the contact information you gave us during registratio
 
 
 
+
 If you contact us, please include the name of the Sites you used to register and the email address you used to register with us so we can verify your request.
 
-back to top
+[back to top](http://www.pokemon.com/us/privacy-policy/#top)
 
 8\. **How can you ask questions, or send us comments, about this Privacy Policy?**
 
@@ -222,17 +231,17 @@ If you have questions or wish to send us comments about a Privacy Policy posted 
 
 Sites | Contact Information  
 ---|---  
-[www.pokemon.com](http://www.pokemon.com/)[](http://.pokemon.com/) | The Pokémon Company International  
+[www.pokemon.com](http://www.pokemon.com/) | The Pokémon Company International  
 Attn.: Privacy Policy Administrator   
 333 108th Avenue, NE   
 Suite 1900   
 Bellevue, WA 98004   
 fax your inquiry to +1(425)274-1041.  
   
-Pokémon is a licensee of the ESRB's Privacy Online Program. If you believe that we have not responded to your privacy-related inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at [http://www.esrb.org/privacy_wc_hotline.asp](http://www.esrb.org/privacy/contact.jsp). Please note that the ESRB is not affiliated with Pokémon and cannot help you with non-privacy-related issues.
+Pokémon is a licensee of the ESRB's Privacy Certified Program. If you believe that we have not responded to your privacy-related inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at http://www.esrb.org/privacy_wc_hotline.asp. Please note that the ESRB is not affiliated with Pokémon and cannot help you with non-privacy-related issues.
 
 ESRB   
-Attn.: Privacy Online Program   
+Attn.: Privacy Certified Program   
 317 Madison Avenue, 22nd Floor   
 New York, NY 10017   
 [privacy@esrb.org](mailto:privacy@esrb.org)
@@ -240,7 +249,7 @@ New York, NY 10017
 **Your California Privacy Rights**   
 Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. We do not share our customer’s personal information with unaffiliated third parties for their own direct marketing purposes. For inquiries regarding our disclosure policy, please send us an e-mail or write us at the address above.
 
-back to top
+[back to top](http://www.pokemon.com/us/privacy-policy/#top)
 
 9\. **How will you know if we amend this Privacy Policy?**
 
@@ -248,7 +257,7 @@ We may amend this Privacy Policy at any time. If we make any material changes in
 
 Please note that, at all times, you are responsible for updating your personal information to provide us your current email address. If the last email address that you have provided us is not valid, or for any other reason is not capable of delivering to you the notice described above, our dispatch of the email containing such notice will nonetheless constitute effective notice of the changes described in the notice.
 
-back to top
+[back to top](http://www.pokemon.com/us/privacy-policy/#top)
 
 * * *
 
@@ -258,6 +267,8 @@ Last updated February 12, 2013
 
 **OUR ADDITIONAL PRIVACY COMMITMENT TO KIDS AND THEIR PARENTS**
 
+DISCLAIMER: Although ESRB Privacy Certified does not monitor non-English Websites and Services, Pokemon makes all best efforts to ensure that non-English Websites and Services adhere to applicable data collection guidance and principles set forth by ESRB Privacy Certified, including adherence to the EU Directive (and US-EU Safe Harbor principles).
+
 Pokémon has developed its Sites with the goal of creating an enjoyable experience for all users. This Kids Privacy Policy is designed to answer your questions regarding our privacy policies and principles with respect to children under the age of 13.
 
 Building on our general Privacy Policy, we recognize the need to provide additional privacy protections when children visit the Sites on which this Kids' Privacy Policy is posted. We explain those additional protections in this Kids' Privacy Policy.
@@ -266,11 +277,16 @@ The Children's Online Privacy Protection Act ("COPPA") requires that we inform p
 
 TABLE OF CONTENTS
 
-  1. What types of information do we collect about kids?
-  2. How do we use and share the personally identifiable information that we collect from kids?
-  3. How do we notify and obtain consent from parents for the collection of personal information from their kids?
-  4. How can parents access, change or delete personally identifiable information about their kids?
-  5. How will we notify parents if our Kids' Privacy Policy changes?
+  1. [What types of information do we collect about kids?](http://www.pokemon.com/us/privacy-policy/#21)
+
+  2. [How do we use and share the personally identifiable information that we collect from kids?](http://www.pokemon.com/us/privacy-policy/#22)
+
+  3. [How do we notify and obtain consent from parents for the collection of personal information from their kids?](http://www.pokemon.com/us/privacy-policy/#23)
+
+  4. [How can parents access, change or delete personally identifiable information about their kids?](http://www.pokemon.com/us/privacy-policy/#24)
+
+  5. [How will we notify parents if our Kids' Privacy Policy changes?](http://www.pokemon.com/us/privacy-policy/#25)
+
 
 
 
@@ -314,7 +330,7 @@ Note that all commercial sites directed to children under 13 are prohibited by U
 
 Finally, we may collect demographic information about a kid. For example, if a kid participates in a survey, we may collect those responses. Among them, we may collect age, gender, hobbies, interests or other demographic information about gaming and preferences, and the country where a kid lives. We also use some passive technologies, including cookies and web beacons, to monitor traffic on our Sites. This demographic information may be associated with a kid’s personal information that Pokemon has collected in accordance with law.
 
-back to top
+[back to top](http://www.pokemon.com/us/privacy-policy/#kids)
 
 2\. **How do we use and share the personally identifiable information that we collect from kids?**
 
@@ -347,13 +363,13 @@ With parental consent, Pokémon may share kids' personal information as necessar
 
 
 
-back to top
+[back to top](http://www.pokemon.com/us/privacy-policy/#kids)
 
 3\. **How do we notify and obtain consent from parents for the collection of personal information from their kids?**
 
 When a child under the age of 13 attempts to register with our Sites, we send their parent an e-mail notifying them that their child would like to register, and asking them to visit our Sites to grant consent for their child to register. If the parent ignores or refuses to register their child, we will delete all contact information from our database within 14 days of such notice. If the parent permits the registration, their child will be granted access to the features described in the notification e-mail.
 
-back to top
+[back to top](http://www.pokemon.com/us/privacy-policy/#kids)
 
 4\. **How can parents access, change or delete personally identifiable information about their kids?**
 
@@ -363,12 +379,13 @@ At any time, a parent can contact our customer service department to access, cha
 
 
 
+
 Please include the kid-member's name and the parent's e-mail address in the e-mail so that we can better assist you with your inquiry or request.
 
-back to top
+[back to top](http://www.pokemon.com/us/privacy-policy/#kids)
 
 5\. **How will we notify parents if our Kids' Privacy Policy changes?**
 
 We may amend our Kids' Privacy Policy at any time. We will provide parents notice by e-mail of any material changes in the way we intend to collect, use, or share kids' personal information. Please note that, at all times, parents should update their personal information to provide us current e-mail addresses. We will apply material changes in our Kids' Privacy Policy only in conformance with applicable law, including any parental consent requirements.
 
-back to top
+[back to top](http://www.pokemon.com/us/privacy-policy/#kids)
