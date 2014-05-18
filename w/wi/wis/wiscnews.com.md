@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiscnews.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116191037id_/http%3A//www.wiscnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiscnews.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518093051id_/http%3A//www.wiscnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy : Portage Daily Register
 
@@ -78,3 +78,5 @@ We may disclose personal information if we or one of our affiliated companies is
 We are affiliated with other online companies, some of which feature our branding; in addition there are numerous links to third parties contained on our site. Our Privacy Policy does not apply to those companies' web sites, so you should refer to each of those sites to obtain information on their privacy policies. If you cannot find the privacy policy on any of these sites once you have arrived at their site via a link from our site, you should contact that site directly for more information.
 
 The web is an evolving medium. If we need to change our Privacy Policy at some point in the future, we will post the changes before they take effect if we believe that the change in the way we use your personal information is significant or material. Of course, our use of information gathered while the current policy is in effect will always be consistent with the current policy, even if we change that policy later.
+
+Copyright 2014 Wiscnews.com. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
