@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxalmanac.org privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519061248id_/http%3A//www.taxalmanac.org/index.php/TaxAlmanac%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxalmanac.org privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518230031id_/http%3A//www.taxalmanac.org/index.php/TaxAlmanac%3APrivacy_policy) for the most accurate reproduction.*
 
 # TaxAlmanac - A free online tax research resource and community - TaxAlmanac:Privacy
 
