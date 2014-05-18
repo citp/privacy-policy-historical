@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zbmath.org privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011034739id_/http%3A//www.fiz-karlsruhe.de/fiz_privacy_policy.html%3F%26L%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zbmath.org privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518122119id_/http%3A//www.fiz-karlsruhe.de/fiz_privacy_policy.html%3F%26L%3D1) for the most accurate reproduction.*
 
 # FIZ Karlsruhe: Privacy Policy
 
@@ -35,8 +35,9 @@ analyze general use of our Web sites trace our customers’ movements through ou
 carry out IP authentications on special request from our customers. For this purpose, the IP addresses are stored according to the domain, i.e. their localization on a network segment, but not allocated to individual computers, unless the customer expressly requests a more specific user identification and discloses the allocation of IP addresses and users beforehand.   
 We do not identify our customers or monitor their individual actions. Data analysis as described in clauses c) and d) is subject to the customer’s consent. We do not evaluate our customers’ IP addresses for further purposes. 
 
-When using cookies, only those data of the communicating computer (user PC) are stored which are indispensable for the convenient use of our services. If the communicating computer does not accept cookies, some of the selected system functions will not be available.  
- 
+When using cookies, only those data of the communicating computer (user PC) are stored which are indispensable for the convenient use of our services. If the communicating computer does not accept cookies, some of the selected system functions will not be available. 
+
+Alternatively, you can let us know [here](https://web.archive.org/web/20140518122119id_/http%3A//www.fiz-karlsruhe.de/fiz_piwik_opt_out.html?&L=1) that you do not want your sessions to be logged.
 
 **4\. Third-Party Sites**
 
@@ -67,4 +68,4 @@ Furthermore, you can opt in on this site to receive occasional e-mail with infor
 
 If you have questions relating for example to this Privacy Statement, your automated personal data file stored at FIZ Karlsruhe, or other Web sites of FIZ Karlsruhe and relevant modalities of access and use, please apply to Webmaster of FIZ Karlsruhe. 
 
-(Revised: August 2006)
+(Revised: November 2013)
