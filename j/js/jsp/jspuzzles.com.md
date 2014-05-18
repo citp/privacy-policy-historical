@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the jspuzzles.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116185920id_/http%3A//www.jspuzzles.com/en/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jspuzzles.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518023001id_/http%3A//www.jspuzzles.com/en/privacy-policy.php) for the most accurate reproduction.*
 
 # JSPuzzles - Privacy Policy
 
   
-Last updated: Apr 30, 2012
+Last updated: Apr 20th 2014
 
 ## Data that is automatically collected
 
   * JSPuzzles.com is using third-party companies such as Google, in order to display advertisements. These third-party companies will place and read cookies and/or web beacons in order to collect statistics about these advertisements.
-  * We log statistics of anonymous usage data, such as which puzzles are the most popular, which type of browsers and operation systems were used and other anonymous technical data in order to improve the site.
+  * In order to improve the site, we are using Google Analytics Demographics and Interest Reporting to collect anonymous statistics about visits to the site.
+  * You can opt-out of Google Analytics for Display Advertising by using [Google Ads Settings](http://www.google.com/settings/ads) (External website)
+  * We also log other statistics of anonymous usage data, such as which puzzles are the most popular, which type of browsers and operation systems were used and other anonymous technical data in order to improve the site.
   * For photos and albums uploaded by users - JSPuzzles.com logs the date and time of upload and the IP address of the computer which was used to upload the image. In case something illegal was uploaded (see [Terms of use](http://www.jspuzzles.com/en/terms.php)), we may share the information we hold on the user with any interested third parties.
 
 
