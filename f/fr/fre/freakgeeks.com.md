@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freakgeeks.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005012827id_/http%3A//www.freakgeeks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freakgeeks.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518053228id_/http%3A//www.freakgeeks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,4 +45,4 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
 For any further queries or questions you can contact me directly at:  
-_Hamza [at] freakgeeks [dot] com_.
+_Admin[at] freakgeeks [dot] com_.
