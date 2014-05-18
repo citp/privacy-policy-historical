@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the findprices.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116075435id_/http%3A//www.findprices.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findprices.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519005411id_/http%3A//www.findprices.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Privacy Policy
 
-This Privacy Policy governs the manner in which eCentric Ltd collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.findprices.com](https://web.archive.org/web/20131116075435id_/http://www.findprices.com/privacy/www.findprices.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by eCentric Ltd.
+This Privacy Policy governs the manner in which eCentric Ltd collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.findprices.com](https://web.archive.org/web/20140519005411id_/http://www.findprices.com/privacy/www.findprices.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by eCentric Ltd.
 
 ## Personal identification information
 
@@ -59,10 +59,10 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 [eCentric Ltd](http://www.findprices.com/)  
 [www.findprices.com](http://www.findprices.com/)  
-5 Castle Gate  
-Castle Street  
-Hertford  
-Herts SG141HD  
+The Town House   
+114-116 Fore Street  
+Hertford, Hertfordshire  
+SG14 1AJ  
 United Kingdom  
 01992504083  
 info@findprices.com
