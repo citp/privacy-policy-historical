@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the printweek.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013054430id_/http%3A//www.printweek.com/go/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printweek.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518231539id_/http%3A//www.printweek.com/static/privacy-policy) for the most accurate reproduction.*
 
-# Latest news on the printing industry from printweek.com, online home of PrintWeek
+# PrintWeek | Latest Print Industry News, Analysis, Jobs, Features, Product Reviews
 
 MA Business & Leisure is committed to protecting and respecting your privacy. 
 
@@ -49,7 +49,3 @@ We do not disclose individual information to our advertisers, but we may provide
 You have the right to request us not to disclose any of your personal data or information or to pass information to third parties. We will usually inform you before collecting your data, if we intend to disclose your information to any third party and you can exercise that right by checking certain boxes on the forms we use to collect your data. You can also notify us by contacting us at unsubscribe@markallengroup.com 
 
 The site may from time to time contain links to and from partner and/or affiliate websites. If you follow a link to their sites, please note that these sites have their own privacy policy and that MA Business & Leisure does not accept any responsibility or liability for protection of personal data which you may submit to a third party's site. You are recommended to check the wording of the relevant privacy policies before you submit any personal data to those sites.
-
-  
-**Access to Information**   
-The Act gives you various rights including the right to access information held about you. Questions about this privacy policy can be addressed to sally.boettcher@markallengroup.co.uk
