@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the molinahealthcare.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501003945id_/http%3A//www.molinahealthcare.com/common/Pages/terms_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the molinahealthcare.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518211732id_/http%3A//www.molinahealthcare.com/members/common/en-US/Pages/terms_privacy.aspx) for the most accurate reproduction.*
 
-# Molina - Terms of Use & Website Privacy
+# terms_privacy
 
 **PLEASE READ THESE TERMS OF USE AND PRIVACY POLICY CAREFULLY.**
 
@@ -18,15 +18,17 @@ When you visit our public websites, no personal information-such as your name, d
 
 If you chose to submit personal information through the Website about yourself or a family member by using the online contact form or our email address, that information may be utilized to assist you with your inquiry. There are some locations on our site where we have made special provisions for a more secure environment in which we can exchange information with you. When you submit your personal information through our secure Web forms, it is protected by encryption.
 
-You should also be aware that when you visit our websites, we collect certain information that does not identify you personally, but provides us with "usage data," such as the number of visitors we receive or what pages are visited most often. This data helps us to analyze and improve the usefulness of the information we provide at these websites.
+You should also be aware that when you visit our websites, we collect certain information that does not identify you personally, but may identify your internet protocol (IP) address, or may provide us with "usage data" such as the number of visitors we receive or the pages that are visited most often. This data helps us deliver targeted information to you, and better analyze and improve the usefulness of the information we provide on our websites.
 
-**Cookies**
+**Cookies and Web Beacons**
 
 Like most commercial website owners, we may also use what is known as "cookie" technology. A "cookie" is an element of data that a website can send to your browser when you link to that website. It is not a computer program and has no ability to read data residing on your computer or instruct it to perform any step or function. By assigning a unique data element to each visitor, the website is able to recognize repeat users, track usage patterns and better serve you when you return to that site. The cookie does not extract other personal information about you, such as your name or address. Most browsers provide a simple procedure that will enable you to control whether you want to receive cookies by notifying you when a website is about to deposit a cookie file.
 
+On some pages of the Molina Healthcare website we may also use action tags, sometimes referred to as web beacons or 1x1 pixel graphics interchange format (“GIF”) images. We use these tags to monitor and assess the effectiveness of promotions and marketing. These tags work in combination with cookies, but do not collect or contain any personal information.
+
 **Secure Website Services**
 
-Certain online services are available to Molina Healthcare members via our Secure Website Services. The Secure Website Services require a password to log in before accessing information. Molina Healthcare complies with the requirements under the Health Insurance Portability and Accountability Act (HIPAA). Molina Healthcare may use and share the information that you provide to us via our Secure Website Services to provide you with your healthcare benefits. Users of Molina Healthcare's Secure Website Services should read Molina Healthcare's applicable Notice of Privacy Practices, which explains in more detail how we use and disclose your protected health information. Click on your state to view the HIPAA Notice of Privacy Practices: [California](https://web.archive.org/medicaid/members/ca/hipaa) | [Michigan](https://web.archive.org/medicaid/members/mi/hipaa) | [New Mexico](https://web.archive.org/medicaid/members/nm/hipaa) | [Ohio](https://web.archive.org/medicaid/members/oh/hipaa) | [Texas](https://web.archive.org/medicaid/members/tx/hipaa) | [Utah](https://web.archive.org/medicaid/members/ut/hipaa) | [Washington](https://web.archive.org/medicaid/members/wa/hipaa) | [Florida](https://web.archive.org/medicaid/members/fl/hipaa) | [Missouri](https://web.archive.org/medicaid/members/mo/hipaa).
+Certain online services are available to Molina Healthcare members via our Secure Website Services. The Secure Website Services require a password to log in before accessing information. Molina Healthcare complies with the requirements under the Health Insurance Portability and Accountability Act (HIPAA). Molina Healthcare may use and share the information that you provide to us via our Secure Website Services to provide you with your healthcare benefits. Users of Molina Healthcare's Secure Website Services should read Molina Healthcare's applicable Notice of Privacy Practices, which explains in more detail how we use and disclose your protected health information. Click on your state to view the HIPAA Notice of Privacy Practices: [California](https://web.archive.org/members/ca/en-US/mem/hipaa) | [Florida](https://web.archive.org/members/fl/en-US/mem/hipaa) | [Illinois](https://web.archive.org/members/il/en-us/mem/hipaa) | [Michigan](https://web.archive.org/members/mi/en-US/mem/hipaa) | [New Mexico](https://web.archive.org/members/nm/en-US/mem/hipaa) | [Ohio](https://web.archive.org/members/oh/en-US/mem/hipaa) | [South Carolina](https://web.archive.org/members/sc/en-US/mem/hipaa) | [Texas](https://web.archive.org/members/tx/en-US/mem/hipaa) | [Utah](https://web.archive.org/members/ut/en-US/mem/hipaa) | [Washington](https://web.archive.org/members/wa/en-US/mem/hipaa) | [Wisconsin](https://web.archive.org/members/wi/en-US/mem/hipaa).
 
 Users of Molina Healthcare's Secure Website Services understand that the confidentiality of individually identifiable health information is protected by federal and state law. By using Molina Healthcare's Secure Website Services you represent to Molina Healthcare that you are either (i) the individual to whom this account pertains, or (ii) legally authorized under applicable law to receive health care information regarding, and to make healthcare decisions for, the individual to whom this account pertains (for example, as the parent, legal guardian or legal custodian of such individual).
 
@@ -61,5 +63,7 @@ The information contained in this site is general in nature and is intended for 
 **JURISDICTION**
 
 Except as described otherwise, all materials in the Molina Healthcare sites are made available only to provide information about Molina Healthcare. Molina Healthcare controls and operates this site from its headquarters in Long Beach, California, USA, and makes no representation that these materials are appropriate or available for use in other locations. If you use this site from other locations you are responsible for compliance with applicable local laws.
+
+Updated: February 28, 2014
 
 return to the top
