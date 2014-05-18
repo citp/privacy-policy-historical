@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the directenergy.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106205608id_/http%3A//www.directenergy.com/en/privacy-policy-united-states.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directenergy.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518024546id_/http%3A//www.directenergy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - United States | Direct Energy
 
-​At Direct Energy, your privacy is important to us. We are committed to maintaining the confidentiality, security and accuracy of your personal information. This Privacy Code (the "Privacy Code") describes the personal information that Direct Energy collects, how we use it and to whom that information may be disclosed. 
+At Direct Energy, your privacy is important to us. We are committed to maintaining the confidentiality, security and accuracy of your personal information. This Privacy Code (the "Privacy Code") describes the personal information that Direct Energy collects, how we use it and to whom that information may be disclosed.
 
 This code applies to your use of all of the websites and on-line services owned or operated by Direct Energy and any other website that we may own or operate currently or in the future (collectively, the "Sites"). Unless we say otherwise, all references to the Sites in this code include all such sites.
 
@@ -12,7 +12,7 @@ This code covers personal information collected on the Sites and any personal in
 
 This Privacy Code covers the activities of: 
 
-  * Direct Energy, LP 
+  * Direct Energy, LP 
   * CPL Retail Energy, LP 
   * WTU Retail Energy, LP
   * Direct Energy Service LLC 
@@ -44,7 +44,7 @@ We may also collect market-related information, which may include personal infor
 
 Where permitted or required by applicable law or regulatory requirements, we may collect information about you without your knowledge or consent.
 
-## The Purposes for Collecting Personal Information 
+## The Purposes for Collecting Personal Information
 
 Direct Energy collects personal information to allow us to manage and develop our business and operations, including:
 
@@ -98,18 +98,23 @@ The Sites are not directed to children. We do not sell products or services for 
 
 To get more information about Direct Energy's Privacy Code or to make a complaint under this Privacy Code, you can contact us:
 
-Privacy Officer   
-c/o Compliance Department   
-Direct Energy   
-12 Greenway Plaza Suite 250   
-Houston, TX 77046 
+* * *
+
+* * *
+
+**By Mail:**  
+Privacy Officer  
+c/o Compliance Department  
+Direct Energy  
+12 Greenway Plaza Suite 250  
+Houston, TX 77046
+
+* * *
 
 ## Revisions to this Privacy Code
 
-Direct Energy may from time to time make changes to this Privacy Code to reflect changes in legal or regulatory obligations or changes in the manner in which we deal with personal information. We will post any revised version of this Privacy Code on our website. This Privacy Code was last updated on ** ** June 7, 2013.
+Direct Energy may from time to time make changes to this Privacy Code to reflect changes in legal or regulatory obligations or changes in the manner in which we deal with personal information. We will post any revised version of this Privacy Code on our website. This Privacy Code was last updated on June 7, 2013.
 
-This Privacy Code does not create or confer on any individual or on Direct Energy any rights, or impose on Direct Energy any obligations beyond any rights conferred or obligations imposed by Legislation.​​​​​
+This Privacy Code does not create or confer on any individual or on Direct Energy any rights, or impose on Direct Energy any obligations beyond any rights conferred or obligations imposed by Legislation.
 
-Last Amended: June 7, 2013​​
-
-​
+Last Amended: June 7, 2013
