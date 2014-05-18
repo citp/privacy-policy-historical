@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amuse-your-bouche.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227013040id_/http%3A//www.amuse-your-bouche.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amuse-your-bouche.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518093625id_/http%3A//www.amuse-your-bouche.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Amuse Your Bouche
 
@@ -23,6 +23,8 @@ Google’s use of the DART cookie enables it to serve ads to users based on thei
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html ](http://www.google.com/privacy_ads.html)
 
 Some of my advertising partners may use cookies and web beacons on my site. My advertising partners include Google Adsense.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:[http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.amuse-your-bouche.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
