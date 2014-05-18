@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wvgazettemail.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230043022id_/http%3A//www.cnpapers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wvgazettemail.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518172919id_/http%3A//www.cnpapers.com/privacy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy
 
   * I. Information That We Collect
   * II. AP News Registry
@@ -36,6 +36,8 @@ Like many other commercial sites, our sites may utilize a standard technology ca
 We also use cookies in connection with our chat rooms/forums in order to record your preferences. These cookies store automatically information pertaining to the last chat room/forum you visited, as well as certain comments that can be issues in the chat room/forum, in order to facilitate your experience with the chat rooms/forums. No additional identifying information is stored on these cookies. You also have the option of choosing to allow us to use a cookie to store your username, or "handle" and password on your computer for use in that chat room, forum and other sites as indicated on the particular site.
 
 We may require you to supply us with personal information (demographic information such as average age, income, education, population data, zip codes) during a "registration" process online prior to using certain features of our site. For example, you may be required to register to use chat rooms, forums, to access archival stories, to subscribe to newspapers, and to access other features. We use this general information to aggregate information according to demographics, such as gender, geographic location, age, income or a combination of these or other demographics.
+
+Additionally, through the use of our websites your age, gender, and/or interests may be collected for the purpose of better serving our customers as well as providing basic demographic information to potential retail advertisers. At no time will this data ever be merged with personally-identifiable information or be used in anyway outside the realm of better understanding the demographics of the visitors to our websites. If you wish to opt-out of this collection, visit [Ad Choices](http://www.aboutads.info/choices/) to opt-out of most interest-based targeted advertising methods (note: not all of the scanned results will be related to our websites). Alternatively, to only disable the demographic information collection Charleston Newspapers utilizes, visit this link to get the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/). 
 
 **II. AP News Registry**
 
