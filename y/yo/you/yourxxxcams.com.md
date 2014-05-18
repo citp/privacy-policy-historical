@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourxxxcams.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210092622id_/http%3A//www.yourxxxcams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourxxxcams.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518102151id_/http%3A//www.yourxxxcams.com/privacy.html%3F) for the most accurate reproduction.*
 
 # YourXXXCams - Privacy Policy
 
