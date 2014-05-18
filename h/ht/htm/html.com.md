@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the html.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116210447id_/http%3A//www.html.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the html.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518224933id_/http%3A//www.html.com/privacy.html) for the most accurate reproduction.*
 
 # HTML.com
 
