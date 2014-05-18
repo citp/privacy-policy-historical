@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ytul.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511194624id_/http%3A//ytul.com/page/2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ytul.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518042738id_/http%3A//www.ytul.com/page/2.html) for the most accurate reproduction.*
 
 # Free Games - Addicting Games - Play Free Online Flash Games - Privacy Policy
 
-Privacy Policy for http://www.alwayfreegames.com/
+Privacy Policy for http://www.ytul.com/
 
-The privacy of our visitors http://www.alwayfreegames.com is important to us. 
+The privacy of our visitors http://www.ytul.com is important to us. 
 
 **Privacy Policy:** We want our users to always be aware of any information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
