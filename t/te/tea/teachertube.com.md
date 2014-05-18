@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the teachertube.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114072811id_/http%3A//www.teachertube.com/view_page.php%3Fpid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachertube.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518064056id_/http%3A//www.teachertube.com/view_page.php%3Fpid%3D2) for the most accurate reproduction.*
 
 # TeacherTube - Privacy Policy
 
 ### TeacherTube Privacy Policy
 
-**TeacherTube** recognizes that its customers, visitors, users, and others who use [ www.TeacherTube.com](https://web.archive.org/web/20131114072811id_/http%3A//) or other web sites owned or operated by **TeacherTube** (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the **TeacherTube** Sites. **TeacherTube** provides this Privacy Notice to help you make an informed decision about whether to use or continue using the **TeacherTube** Sites.
+**TeacherTube** recognizes that its customers, visitors, users, and others who use [ www.TeacherTube.com](https://web.archive.org/web/20140518064056id_/http%3A//) or other web sites owned or operated by **TeacherTube** (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the **TeacherTube** Sites. **TeacherTube** provides this Privacy Notice to help you make an informed decision about whether to use or continue using the **TeacherTube** Sites.
 
 Your use of the **TeacherTube** Sites and any personal information you provide on the **TeacherTube** Sites remains subject to the terms of this Privacy Notice and our [Terms of Use](http://teachertube.com/view_page.php?pid=3).
 
@@ -26,9 +26,11 @@ TeacherTube and Google:
     * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
     * Analytics are implemented based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting).
     * Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads).
+    * TeacherTube abides by Google's Interactive Media Ads (IMA) products. [See Google's IMA policies here](https://support.google.com/adsense/answer/1706015?hl=en# "Google's IMA").   
 
 
-  *  **Log File Information:** When you use the **TeacherTube** Sites, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser. 
+
+  * **Log File Information:** When you use the **TeacherTube** Sites, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser. 
   
 
   * **Clear GIFs Information:** When you use the **TeacherTube** Sites, we may employ "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users anonymously (i.e., in a non-personally-identifiable manner). In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients. 
