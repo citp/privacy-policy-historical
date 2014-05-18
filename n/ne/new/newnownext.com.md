@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the newnownext.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116015537id_/http%3A//www.newnownext.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newnownext.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519012527id_/http%3A//www.newnownext.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NewNowNextNewNowNext
 
 ## Privacy Policy & Your California Privacy Rights
 
-_Last modified: March 22, 2013_
+_Last modified: December 23, 2013_
 
 Go to **[Terms of Use Agreement](http://www.newnownext.com/terms-of-use/ "NNN Terms of Use Agreement")**.
 
@@ -59,7 +59,7 @@ By visiting the Site, whether as a registered user or otherwise, you acknowledge
 
 This Site may additionally use a variety of third party advertising networks, data exchanges, traffic measurement service providers, marketing analytics service providers and other third parties (collectively, “Third Party Advertising Service Providers”) to, for example, serve advertisements on the Site, facilitate targeting of advertisements and/or measure and analyze advertising effectiveness and/or traffic on the Site (“Targeting Services”). These Third Party Advertising Service Providers may enable us to display advertisements based on your visits to the Site and other websites you have visited. Targeting Services enable us to, among other things, help deliver advertisements or other content to you for products and services that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you.
 
-These Third Party Advertising Service Providers do not have access to Tracking Technologies set by the Site, except to the extent necessary to provide services to the Site. The Third Party Advertising Service Providers, as well as Advertisers, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser (or, for Flash cookies, if you have not removed them) and/or they may otherwise have access to Other Information about you.
+These Third Party Advertising Service Providers do not have access to Tracking Technologies set by the Site, except to the extent necessary to provide services to the Site. The Third Party Advertising Service Providers, as well as Advertisers and other third parties, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser (or, for Flash cookies, if you have not removed them) and/or they may otherwise collect or have access to Information about you and your online activities over time and across different websites when you use the Site.
 
 **c. Use of Information.**
 
@@ -150,6 +150,10 @@ This Site is committed to complying with the Self-Regulatory Principles for Onli
 Some Device manufacturers may preset their browsers to block Tracking Technologies from websites other than those you visit directly and, if so, certain services or advertisements may not work for such Devices. Further, if you delete, reject, disable or turn off Tracking Technologies, you may not have access to certain features of the Site and some of our other services may not function properly.
 
 **iii. Flash Cookies.  **Please note that deleting, rejecting, disabling or turning off Tracking Technologies set by Third Party Advertising Service Providers and Advertisers and set by this Site through the above options will not remove Flash cookies. For more information about Flash cookies and how to remove them from your computer, please visit <http://kb2.adobe.com/cps/526/52697ee8.html>.
+
+**iv. Do-Not-Track Signals and Similar Mechanisms.** Some web browsers may transmit “do-not-track” signals to the websites with which the browser communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. There currently is disagreement, including among participants in the leading Internet standards-setting organization, concerning what, if anything, websites should do when they receive such signals.
+
+We currently do not take action in response to these signals, but, if and when a final standard is established and accepted, we may reassess how to respond to these signals. Instead, as described above, please see the link to the Self-Regulatory Principles for Online Behavioral Advertising program that we follow that offers you choice regarding Information collected for online behavioral advertising purposes and the browser cookie controls and other mechanisms described in Sections 4(b)(i), (ii) and (iii).
 
 ### 5\. Wireless Marketing Services and Associated Promotional Opportunities.
 
