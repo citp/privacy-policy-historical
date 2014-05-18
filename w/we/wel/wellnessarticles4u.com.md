@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wellnessarticles4u.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527152630id_/http%3A//www.wellnessarticles4u.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellnessarticles4u.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518211911id_/http%3A//www.wellnessarticles4u.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Wellness Articles
 
 At [WellnessArticles4u.com](http://wellnessarticles4u.com/ "http://WellnessArticles4u.com"), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by WellnessArticles4u.com and how it is used.
 
