@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealgobbler.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228124355id_/http%3A//www.dealgobbler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealgobbler.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519012539id_/http%3A//www.dealgobbler.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - dealgobbler.com - Best Daily Deals in Dubai
 
