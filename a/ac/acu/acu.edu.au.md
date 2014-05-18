@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acu.edu.au privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206231924id_/http%3A//www.acu.edu.au/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acu.edu.au privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518084736id_/http%3A//www.acu.edu.au/home/privacy) for the most accurate reproduction.*
 
 # Privacy policy - ACU (Australian Catholic University)
 
@@ -66,4 +66,4 @@ Some of the information collected by the University is classed as sensitive info
 
 ### Contact
 
-For further information about this privacy statement or the practices of the University, please contact: the Privacy Officer, Mr Stephen Weller, telephone (02) 9739 2912, email [stephen.weller@acu.edu.au](mailto:stephen.weller@acu.edu.au).
+For further information about this privacy statement or the practices of the University, please contact: the Privacy Officer, Dr Stephen Weller, telephone (02) 9739 2912, email [stephen.weller@acu.edu.au](mailto:stephen.weller@acu.edu.au).
