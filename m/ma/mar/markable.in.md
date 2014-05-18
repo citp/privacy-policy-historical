@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markable.in privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118061942id_/http%3A//markable.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markable.in privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518211702id_/http%3A//markable.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Markable.in
 
