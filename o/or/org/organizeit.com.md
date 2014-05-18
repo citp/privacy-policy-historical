@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the organizeit.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102202102id_/http%3A//www.organizeit.com/privacy-and-security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organizeit.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518023243id_/http%3A//www.organizeit.com/privacy-and-security.asp) for the most accurate reproduction.*
 
 # Privacy and Security
 
 |    
+
+
+* * *
+
+  
 
 
 ### What information do we collect?
@@ -97,4 +102,6 @@ info@organizeit.com
 
 [](http://secure.trust-guard.com/certificates/6888) [](https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&dn=www.organizeit.com&lang=en)
 
-Our site maintains full SSL encryption security and is tested daily for vulnerabilities by TrustGuard. This service preforms an in depth analysis of our site and our server to make sure it is secure from hackers.
+Our site maintains full SSL encryption security and is tested daily for vulnerabilities by TrustGuard. This service preforms an in depth analysis of our site and our server to make sure it is secure from hackers.  
+  
+---|---
