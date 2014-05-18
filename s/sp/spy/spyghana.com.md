@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the spyghana.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116233135id_/http%3A//www.spyghana.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyghana.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518232005id_/http%3A//www.spyghana.com/privacy-cookies) for the most accurate reproduction.*
 
-# Privacy & Cookies
-
-[](https://web.archive.org/web/20131116233135id_/http://www.spyghana.com/privacy-cookies/ "Print page")[](https://web.archive.org/web/20131116233135id_/http://www.spyghana.com/privacy-cookies/ "PDF page")[](https://web.archive.org/web/20131116233135id_/http://www.spyghana.com/privacy-cookies/ "Email page")
+# Privacy & Cookies |SpyGhana.com
 
 **Privacy Policy:**
 
@@ -18,7 +16,7 @@ Be aware that when you click on ad banners, you may be redirected to other sites
 
 **General Information Collected:**
 
-When visiting our site, some general information is collected including: IP address (your computer’s unique signature) Operating system (e.g., Windows 95) Browser software (e.g., Microsoft Internet Explorer, Netscape) Internet Service Provider etc. The information we collect is aggregated to reflect the population as a whole rather than focused on individuals. We use it to help us better understand the people who visit our Web site and to continually improve our services. In addition, like many other sites with paid advertising, we disclose some of this non- personally identifiable, aggregate information to advertisers to inform them of the number of people who have seen and clicked on their advertisements.
+When visiting our site, some general information is collected including: IP address (your computerâ€™s unique signature) Operating system (e.g., Windows 95) Browser software (e.g., Microsoft Internet Explorer, Netscape) Internet Service Provider etc. The information we collect is aggregated to reflect the population as a whole rather than focused on individuals. We use it to help us better understand the people who visit our Web site and to continually improve our services. In addition, like many other sites with paid advertising, we disclose some of this non- personally identifiable, aggregate information to advertisers to inform them of the number of people who have seen and clicked on their advertisements.
 
 **Third Party Service Providers:**
 
