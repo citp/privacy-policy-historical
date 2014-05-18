@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelguard.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107045457id_/http%3A//www.travelguard.com/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelguard.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519003836id_/http%3A//www.travelguard.com/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Travel Guard Privacy Policy
 
@@ -172,7 +172,7 @@ Please take a look at the "LAST UPDATED" date at the top of this Privacy Policy 
 
 All material contained on this website (including all code) is protected by U.S. copyright laws. Except as otherwise expressly provided herein, you may not copy, reproduce, publish, license, modify, create derivative works from, transfer or sell any material contained on the website without the prior written consent of Travel Guard. All rights are reserved.
 
-©Travel Guard Group, Inc., 2001-2013  
+©Travel Guard Group, Inc., 2001-2014  
 Edition: 7/29/2013
 
   * [](http://www.adobe.com/products/acrobat/readstep2.html)*Required to view*
