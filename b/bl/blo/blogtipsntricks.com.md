@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogtipsntricks.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210032152id_/http%3A//www.blogtipsntricks.com/p/blog-page.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogtipsntricks.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518073502id_/http%3A//www.blogtipsntricks.com/p/blog-page.html) for the most accurate reproduction.*
 
 # Privacy Policy | BlogTipsNTricks: Blogger Widgets | Templates | Tips | Tricks
 
