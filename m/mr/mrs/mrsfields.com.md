@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrsfields.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116230608id_/https%3A//www.mrsfields.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrsfields.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518231123id_/http%3A//www.mrsfields.com/privacy) for the most accurate reproduction.*
 
 # Mrs. Fields Privacy Policy
 
@@ -27,6 +27,14 @@ Our site provides users the opportunity to opt-out of receiving communications f
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
   1. You can visit the following URL: <http://www.mrsfields.com/cookieclub/remove/>.
+
+
+
+Analytics:
+
+  * The Google Analytics features that we have implemented are based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting). 
+  * Using the Ads Settings, individuals can [opt-out of Google Analytics](https://tools.google.com/dlpage/gaoptout/) for Display Advertising and customize Google Display Network ads. 
+  * Mrs. Fields uses Google's interest-based advertising and 3rd party audience data (such as age, gender and interests) for marketing purposes. 
 
 
 
