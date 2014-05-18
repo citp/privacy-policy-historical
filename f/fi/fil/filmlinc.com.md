@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmlinc.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105183814id_/http%3A//www.filmlinc.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmlinc.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518120428id_/http%3A//www.filmlinc.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Filmlinc.com | Film Society of Lincoln Center
 
@@ -41,7 +41,3 @@ We do not knowingly collect personally identifiable information from children un
 ##  Changes to Privacy Policy
 
 Film Society may revise its privacy policy from time to time. We encourage you to visit this page periodically to review our current policy so that you will always know what information we gather and how we may use that information.
-
-##  Whom To Contact If You Have Questions
-
-If you have any questions, please email us at: webmaster@filmlinc.com
