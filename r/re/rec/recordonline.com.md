@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recordonline.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117164032id_/http%3A//www.recordonline.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recordonline.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518235813id_/http%3A//www.recordonline.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
 
 # recordonline.com - Times Herald-Record – Privacy Policy
 
@@ -7,11 +7,11 @@ Effective as of July 6, 2011
 
 ### INTRODUCTION
 
-This Privacy Policy describes how Local Media Group, Inc. ("DJLMG," "us" or "we"), publisher of Times Herald-Record and recordonline.com, will collect and use your personally identifiable information ("PII") (that is -- your full name, email address, mailing address, telephone number, or credit card number) as well as data that can, under certain circumstances, indirectly lead to PII ("Related Data"). 
+This Privacy Policy describes how Local Media Group, Inc. ("LMG," "us" or "we"), publisher of Times Herald-Record and recordonline.com, will collect and use your personally identifiable information ("PII") (that is -- your full name, email address, mailing address, telephone number, or credit card number) as well as data that can, under certain circumstances, indirectly lead to PII ("Related Data"). 
 
 This Policy applies to PII and Related Data received by us from consumers when they visit, register or subscribe to the online editions of recordonline.com, and related services or sites that link to this Privacy Policy.
 
-From time to time DJLMG may revise this Privacy Policy. If we make revisions that change the way we collect or use your PII or Related Data, those changes will be posted in this Privacy Policy and the effective date will be noted at the beginning of the Policy. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. If we make material changes to our practices regarding use of your PII or Related Data, your PII and Related Data will continue to be governed by the Privacy Policy under which it was subject prior to those changes, unless you have been provided notice of, and have not objected to, the changes. 
+From time to time LMG may revise this Privacy Policy. If we make revisions that change the way we collect or use your PII or Related Data, those changes will be posted in this Privacy Policy and the effective date will be noted at the beginning of the Policy. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. If we make material changes to our practices regarding use of your PII or Related Data, your PII and Related Data will continue to be governed by the Privacy Policy under which it was subject prior to those changes, unless you have been provided notice of, and have not objected to, the changes. 
 
 ### INFORMATION THAT WE COLLECT
 
@@ -37,7 +37,7 @@ We may use cookies and similar tools to relate your use of our web sites to PII 
 
 ### NOTICE
 
-Third Party Web Sites. Our web sites link to web sites operated by other companies. Some of these third party sites may be co-branded with a Times Herald-Record, recordonline.com or other DJLMG logo, even though they are not operated or maintained by us. For example, the HudsonValley.com section of recordonline.com offers a collection of third party services, such as career counseling, reference checks, recruiter databases and other services, through such links. 
+Third Party Web Sites. Our web sites link to web sites operated by other companies. Some of these third party sites may be co-branded with a Times Herald-Record, recordonline.com or other LMG logo, even though they are not operated or maintained by us. For example, the HudsonValley.com section of recordonline.com offers a collection of third party services, such as career counseling, reference checks, recruiter databases and other services, through such links. 
 
 We're not responsible for the privacy practices of web sites operated by third parties that are linked to or integrated with our sites or for the privacy practices of third party Internet advertising companies. Once you've left our site via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any PII they collect from you. 
 
