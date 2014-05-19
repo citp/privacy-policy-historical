@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iqair.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118133446id_/http%3A//www.iqair.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iqair.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519161247id_/http%3A//www.iqair.com/privacypolicy) for the most accurate reproduction.*
 
 # IQAir | First in Air Quality
 
@@ -34,6 +34,6 @@ This site contains links to other sites. IQAir is not responsible for the conten
 
 ####  Contact Us
 
-If you have any additional questions or concerns about our privacy policy, please [contact us](https://web.archive.org/web/20131118133446id_/http%3A//www.iqair.com/contact).
+If you have any additional questions or concerns about our privacy policy, please [contact us](https://web.archive.org/web/20140519161247id_/http%3A//www.iqair.com/contact).
 
 Back to top ↑
