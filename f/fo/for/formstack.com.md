@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formstack.com privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922194328id_/https%3A//www.formstack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formstack.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520002807id_/https%3A//www.formstack.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy · Formstack
 
