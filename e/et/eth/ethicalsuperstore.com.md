@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethicalsuperstore.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115140929id_/http%3A//www.ethicalsuperstore.com/help-privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethicalsuperstore.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519032620id_/http%3A//www.ethicalsuperstore.com/help-privacy-and-security) for the most accurate reproduction.*
 
 # Help - Privacy & Security
 
@@ -47,5 +47,5 @@ We take the security of your personal information very seriously. We want you to
 
 [back to questions](http://www.ethicalsuperstore.com/help/)
 
-© Copyright 2004-2013 Spark Etail Ltd, registered in England & Wales No. 7551349. All rights reserved.  
+© Copyright 2004-2014 Spark Etail Ltd, registered in England & Wales No. 7551349. All rights reserved.  
 Registered office: Follingsby Avenue, Follingsby Park, Gateshead, NE10 8HQ. For more information see [about us](http://www.ethicalsuperstore.com/about-us/ "Read about Ethical Superstore and find out who we are and what we do!") or browse our [sitemap](http://www.ethicalsuperstore.com/sitemap/ "Browse our sitemap").
