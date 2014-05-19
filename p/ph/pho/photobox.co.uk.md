@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photobox.co.uk privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602190806id_/http%3A//www.photobox.co.uk/content/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photobox.co.uk privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519022646id_/http%3A//www.photobox.co.uk/content/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PhotoBox - PhotoBox
 
@@ -65,11 +65,57 @@ From time to time, we may hold competitions via the website. When you enter a co
 
 ## Cookies
 
-When you visit PhotoBox we send cookies to your computer, or similar device, which are essential for shopping with us and useful for storing your user preferences. They also help prevent fraud by providing a way of recognising you so that only you can access your photos and personal data.
+### Information about our use of cookies
 
-We use cookies for marketing purposes too, such as tracking user trends, click through and sales figures (which we may share with branded partners), media performance and search optimisation.
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. By visiting or using this site with your browser set to allow cookies, you are consenting to our use of cookies for the purposes set out below.   
+A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive.
 
-As cookies are so useful we don't recommend you disable them but if you really want to you can set your browser to notify you when you receive a cookie, which allows you to choose whether or not to accept it. If you do decide to disable your cookies you can [click here](http://www.allaboutcookies.org/manage-cookies/) to find out how. 
+To make full use of our website and to benefit from certain personalised features, your computer, tablet or mobile phone will need to be set up to accept cookies. Our website (like many other shopping websites) will not work when cookies are blocked.
+
+The list below details the cookies used on our website. We have outlined who sets these cookies and their purpose.
+
+Category | Party | Purpose  
+---|---|---  
+**Functionality** | Our Website | Our website uses these cookies to enable some basic functionalities to provide a basic personalised experience whilst browsing, making creations and shopping on our website. Examples include remembering your login details, which products you have added to your basket, your language preferences. The information collected through these cookies is only used for this purpose and is never shared or sold on to third parties.  
+**Strictly necessary** | Our Website | These cookies are essential as they enable you to move around a website and use its features, such as accessing the checkout. The information collected through these cookies is only used for this purpose and is never shared or sold on to third parties.  
+**Analytical/Performance** | Google Analytics,  
+Euerlian | Google Analytics and Eurelian use cookies to collect data that helps us understand how people are using the site and monitor any errors that users may be experiencing. We use this information to identify how and where we can improve the user experience. The data collected through these cookies is anonymous, these 3rd parties do not collect specific customer data and it is never shared with other third parties.  
+**Analytical/Performance** | ABTasty | Our website work with 3rd party ABtasty to test and find the optimal content and experience for our users. The cookies used by ABtasty enable us to identify which experiences visitors to our site have seen and how the content has performed for the visitor, this will allow us to ensure that future experiences can be further improved. The data collected through these cookies is anonymous, ABTasty does not collect specific customer data and is never shared with other third parties.  
+**Targeting** | Jumptap,  
+Quantcast, | Our website work with 3rd party agencies, Quantcast and Jumptap to display banner advertising on other selected websites. These cookies also help us to monitor and improve the effectiveness of our banner advertising and to refine the targeting of these campaigns so that we are displaying the most relevant content for each individual. The data collected through these cookies is anonymous, these 3rd parties do not collect specific customer data and it is never shared with other third parties.  
+**Targeting** | Facebook, Google  
+Adwords, Bing,  
+Madmetrics, | Google Adwords, Bing, Madmetrics and Facebook use cookies to track our own paid advertising activity. We use the information collected by these cookies to help us determine where our ads will be most effective online. Each individual advertiser uses its own tracking cookies and the data taken is not confidential data or interchangeable.  
+**Targeting** | Awin, Trialpay,  
+Linking Mobile | Cookies are used by 3rd parties Awin, Trialpay and Linking Mobile enabling our website to meet contractual obligations to make payments to them when they introduce a new customer to our website. The data collected through these cookies is anonymous, these 3rd parties do not collect specific customer data and it is never shared with other third parties.  
+**Targeting** | Adroll | Our website works with 3rd party agency Adroll to display banner advertising on other selected websites based on pages already viewed on our website. These cookies help us to monitor and improve the effectiveness of our banner advertising and to refine the targeting of these campaigns so that we are displaying the most relevant content for each individual. The data collected through these cookies is anonymous, these 3rd parties do not collect specific customer data and it is never shared with other third parties.  
+  
+### Managing Cookies
+
+You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site.
+
+Here’s how to do it:
+
+  * **Google Chrome**
+    * In the settings menu, select 'show advanced settings' at the bottom of the page.
+    * Select the 'content settings' button in the privacy section.
+    * The top section of the page that then appears tells you about cookies and allows you to set the cookies you want. It also allows you to clear any cookies currently stored.
+  * **Mozilla Firefox**
+    * In the tools menu, select 'options' (MAC users, go to the Firefox menu & select ‘preferences’)
+    * Select the privacy tab in the options box.
+    * o From the dropdown choose, 'use custom settings for history'. This will bring up the options for cookies and you can choose to enable or disable them by clicking the tickbox.
+  * **Internet Explorer 6+**
+    * In the tools menu, select 'Internet options'.
+    * Click the privacy tab.
+    * o You will see a privacy settings slider which has six settings that allow you to control the number of cookies that will be placed: Block All Cookies, High, Medium High, Medium (default level), Low, and Accept All Cookies.
+  * **Safari browser**
+    * In the settings menu / Safari menu, select the 'preferences' option.
+    * Open the privacy tab.
+    * Select the option you want from the 'block cookies' section.
+  * **All other browsers**
+    * For information on how to manage cookies via other browsers, please consult your documentation or online help files.
+
+
 
 ## Accuracy
 
