@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookmorebrides.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606190339id_/http%3A//www.bookmorebrides.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmorebrides.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519032723id_/http%3A//www.bookmorebrides.com/faqs/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for Book More Brides
+# Privacy Policy | Wedding Business Marketing | Bridal Advertising Solutions for Wedding Professionals
 
 ## BookMoreBrides.com (Book More Brides or “BMB”) Privacy Policy
 
@@ -23,7 +23,7 @@ We offer a forum and blogs on our website. Any information you voluntarily discl
 ### How do we store your information?
 
 Your information is stored at the list server that delivers BMB newsletters. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive BMB’s newsletters.  
-All of the newsletters that are sent to you by BMB include an unsubscribe link in them. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link. You can also[ contact us](https://web.archive.org/web/20120606190339id_/http%3A//www.bookmorebrides.com/contact/Stephanie-and-Jeff-Padovani) to change your information at any time.
+All of the newsletters that are sent to you by BMB include an unsubscribe link in them. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link. You can also[ contact us](https://web.archive.org/web/20140519032723id_/http://www.bookmorebrides.com/faqs/privacy-policy/contact/Stephanie-and-Jeff-Padovani) to change your information at any time.
 
 ### Other Sites:
 
@@ -33,11 +33,11 @@ BMB contains links to other websites. We cannot be responsible for their content
 
 This policy may be changed at any time at BMB’s discretion. If we should update this policy, we will post the updates to this page on our Website. This policy was revised June 22, 2010.
 
-If you have any questions or concerns regarding our privacy policy please direct them to us through the [Contact Form](https://web.archive.org/web/20120606190339id_/http%3A//www.bookmorebrides.com/contact/Stephanie-and-Jeff-Padovani) on this site. You may also send a letter to:
+If you have any questions or concerns regarding our privacy policy please direct them to us through the [Contact Form](https://web.archive.org/web/20140519032723id_/http://www.bookmorebrides.com/faqs/privacy-policy/contact/Stephanie-and-Jeff-Padovani) on this site. You may also send a letter to:
 
 Stephanie & Jeff Padovani  
 Book More Brides  
 106 Fairview Ave  
 Poughkeepsie, NY 12601
 
-**_If you'd like to get more free information and strategies like this,[join our Wedding Business Tips email list here](http://bookmorebrides.viprespond.com/email-subscribe)._**
+Posted in: [About Us](http://www.bookmorebrides.com/faqs/category/about-us/)
