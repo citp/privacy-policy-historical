@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gunmagwarehouse.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110222852id_/http%3A//gunmagwarehouse.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunmagwarehouse.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519151412id_/http%3A//gunmagwarehouse.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Gun Mag Warehouse
 
