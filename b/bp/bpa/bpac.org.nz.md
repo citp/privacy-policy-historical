@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bpac.org.nz privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026003419id_/http%3A//www.bpac.org.nz/Membership/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bpac.org.nz privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519092416id_/http%3A//bpac.org.nz/Membership/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Bpacnz Privacy Statement
 
