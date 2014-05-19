@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206113029id_/http%3A//www.faa.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519104832id_/http%3A//www.faa.gov/privacy) for the most accurate reproduction.*
 
 # FAA Privacy and Website Policy
-
-  * Print
-
-
 
 We respect your right to privacy and will protect it when you visit our website.
 
@@ -148,6 +144,8 @@ When FAA collects information from you online that is subject to the Privacy Act
 View our [Privacy Act Notices](http://www.dot.gov/citizens/privacy/privacy-act-system-records-notices).
 
 Back to top
+
+## Social Media and Your Comments
 
 FAA uses third-party services such as Facebook, Twitter, and YouTube to communicate and interact with the public. These services are controlled and operated by third parties, and are not government websites or applications. By interacting with FAA through these third-party services, you may be providing non-government third parties access to your personal information which can be used to distinguish or trace your identity. Any information collected by a third-party service is subject to the privacy policies of the third-party service provider.
 
