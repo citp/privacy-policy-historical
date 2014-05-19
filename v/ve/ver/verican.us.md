@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verican.us privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119080948id_/http%3A//www.verican.us/fms/resource/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verican.us privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519233145id_/http%3A//www.verican.us/fms/resource/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
