@@ -1,29 +1,52 @@
-> *The following text is extracted and transformed from the proxybrowsing.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231023934id_/http%3A//proxybrowsing.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxybrowsing.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519111407id_/http%3A//www.proxybrowsing.com/privacy.php) for the most accurate reproduction.*
 
-# Terms Of Service
+# Proxy Browsing - Anonymous Web Browser
 
-**Privacy Policy**
+## Privacy Policy:
 
-Our service may collect information about you during your visit. This document describes the information we collect and how it is used.
+Your privacy is important to us. We wish for you to be fully informed of how your information is gathered and used. 
 
-**Server Access Logs**
+**What information do we gather?**  
+We do not require any personal information from you to use our proxy service   
+However, we do maintain logs for up to 7 days on all user activity via our proxy website.   
+This includes, but is not limited to, information such as   
+(a) your IP address  
+(b) the date and time (Unix Timestamp)  
+(c) and your browser (HTTP_USER_AGENT)  
+(d) the referring page (HTTP_REFERER)
 
-Our server logs all requests. The data recorded includes information provided by your browser (user agent and referring page) as well as the requested URI, the time and date and your IP address. The data recorded in these logs may be used for detecting and preventing abuse. We may also collate this data for statistical purposes.
+Other information may also be logged at our discretion.
 
-**Service Logs**
+We do 
 
-The service provided on this website allows access to external, third-party websites. We may record your IP address and the websites you visit. The logs are used primarily for monitoring requests and ensuring no illegal activity is undertaken. Any violations of our terms of use may result in disclosure of the data recorded in our logs to an appropriate third party, which may include your Internet Service Provider (ISP) or local authorities. We may also be required, by law, to provide logs of our service and if requested, such data will be disclosed. We may also use service logs for stastical purposes.
+_**NOT**_ log sensitive data such as **usernames and passwords** sent through forms using POST.
 
-**Cookies**
+**How we use gathered information:**  
+We will not share any information that we log about you with anybody at any time unless for reasons, including but not limited to, **law enforcement**.   
+We do not, and **will not sell any of the information logged.** We value your privacy and will make every effort to prevent a third party from having us disclose our logs, but we reserve the right to cooperate with law enforcement enquires. This includes but is not limited to, law enforcement officials who are investigating criminal activities committed by users of our service. 
 
-Our website stores a cookie on your computer, if allowed by your browser's privacy settings *. The cookie used by our service uniquely identifies you to the server and allows our website to remember your preferences.
+**How we protect your information:**  
+We make every effort to secure our servers by applying the latest updates if applicable, and securing log locations. 
 
-We may also use third-party advertising partners on our website. Advertisers may send you cookies or use web beacons. We have no control over cookies, web beacons or the information collected by our advertisers. Consult the third-party advertiser's privacy policy for more information on their practices.
+**Cookies:**  
+Cookies are used to better your experience. You can disable cookies if you wish using browser settings or any other program. However, this could affect your ability to use features such as logging in or using other aspects of our service. Our advertisement providers can also use cookies for tracking purposes and display ads.
 
-The service we provide allows indirect browsing of third-party websites. A third-party website may attempt to send cookies to the user. We store these cookies on our server and automatically forward them onto the target server. Your cookie data is treated strictly confidentially, stored privately and deleted soon after you leave our website. If you would prefer us not to store your cookies, please disable the "Allow Cookies" option.
+**Third Party Advertisements**  
+We use third party advertising companies to serve ads when you visit our web site and hosted boards. These companies may collect and use information about your visits to our website as well as other web sites.
 
-The service we provide may attempt to forward third-party cookies from the websites you choose to browse. We have no control over indirect cookies and you are advised to consult the privacy policy of the applicable third-party website. If you do not wish to receive any such indirect cookies, please disable the "Allow Cookies" option.
+Google, as a third party vendor, uses cookies to serve ads on your site.  
+Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.   
+If you would like more information please visit the following links: 
 
-We are not responsible for the content of any third-party websites.
+  * [Google's Privacy Policy](http://www.google.com/privacy.html)
+  * [Google Advertising Cookie and Privacy Policies](https://www.google.com/adsense/support/bin/answer.py?answer=100557)
 
-[Return to Main](https://web.archive.org/)
+By using any part of our service, you agree to the terms of the following advertisers listed above in addition to the terms of this privacy policy. 
+
+**Modifications to our Policy:**  
+We may update and revise this privacy policy with, or without notice to you.
+
+**Proxy Site Lists :[Fresh Proxy List](http://www.freshproxylist.com/) \- [Top Proxies](http://www.topproxies.org/) \- [IP Hide](http://www.ip-hide.com/) \- [Proxy Servers](http://www.proxyservers.info/)**
+
+[ ](http://www.proxysubmit.com/) [ ](http://www.webproxies.org/)
