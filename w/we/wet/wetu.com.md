@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wetu.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208041910id_/http%3A//wetu.com/Home/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetu.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519160849id_/http%3A//wetu.com/Home/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
