@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mindtouch.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106080859id_/http%3A//www.mindtouch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindtouch.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519212641id_/http%3A//www.mindtouch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MindTouch
+# Privacy Policy | MindTouch - Customer Success Software
 
 Thank you for visiting one of MindTouch®, Inc.’s (“MindTouch”) Internet websites. This Privacy Policy details certain policies implemented throughout MindTouch, governing MindTouch’s use of information, including without limitation personally identifiable information, about users on www.mindtouch.com web site (the “Website”) and users of our cloud based services (“Services”).
 
