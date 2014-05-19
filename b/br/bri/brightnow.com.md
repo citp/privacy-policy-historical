@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the brightnow.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601025837id_/http%3A//www.brightnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightnow.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519130854id_/http%3A//www.brightnow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bright Now! Dental
+
+## Smile Brands Privacy Policy
+
+We at Smile Brands Inc. ("Smile Brands") are dedicated to protecting your privacy online when visiting our websites and, subject to this Online Privacy Policy (the "Policy"), we pledge to keep the information you share with us online confidential and secure.
 
 Currently this Policy applies to all users of SmileBrands.com, brightnow.com, monarchdental.com, castledental.com and newportdental.com with respect to their use of these websites (the “Websites”). This Policy outlines the information Smile Brands will collect on the Websites and how we will use that information. By visiting one of the Websites, you are accepting the practices described in this Policy.
 
@@ -18,7 +22,7 @@ Smile Brands learns certain information about you from your visits to the Websit
 
 Unless you register and create a profile, send us an e-mail, or use chat rooms and forums or other products and services that are or will be available on the Websites, we collect and store only the following information about you: the domain from which you accessed the Internet, the date and time you access the Websites, and the pages you visit most frequently. This information is not linked to a user name unless you give us one. We use the information to measure the number of visitors to various portions of our service and to help us improve our service. Our site will use cookies if you have chosen the option on your browser. Cookies help us customize and improve the Websites for you. You do not have to accept cookies to use the Websites; however, if you disable cookies, the Websites will not remember your customizations and cannot help you find what you want on the Websites most easily. If you accept cookies, you can delete them later by going to the preferences, tools or options menus of your browser.
 
-If you do register and create a profile, create a user name and password, send us an e-mail, or use the chat rooms and forums or other products and services that will be available on the Websites, we will collect and store the information you enter. Obviously, what we collect depends upon what you enter. You can edit your profile by clicking Account. You can delete your profile by simply deleting all the data fields, which will cause our server to delete the information from its online form. We reserve the right to keep all information in an off-line form, for archival purposes or as otherwise required by law.
+If you do register and create a profile, create a user name and password, send us an e-mail, or use the chat rooms and forums or other products and services that will be available on the Websites, we will collect and store the information you enter. Obviously, what we collect depends upon what you enter. You can edit your profile by clicking Account. You can delete your profile by simply deleting all the data fields, which will cause our server to delete the information from its online form. We reserve the right to keep all information in an off-line form, for archival purposes or as otherwise required by law. 
 
 ## How is this information used?
 
