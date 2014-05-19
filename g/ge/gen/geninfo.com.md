@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the geninfo.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209021446id_/http%3A//www.geninfo.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geninfo.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519173927id_/http%3A//www.geninfo.com/privacy.asp) for the most accurate reproduction.*
 
 # General Information Services, Inc. Privacy Policy
 
-[Home](https://web.archive.org/web/20131209021446id_/http%3A//www.geninfo.com/default.asp) » 
+[Home](https://web.archive.org/web/20140519173927id_/http%3A//www.geninfo.com/default.asp) » 
 
 Privacy
 
