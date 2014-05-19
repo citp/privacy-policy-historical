@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the healthheadlines.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105015834id_/http%3A//www.healthheadlines.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthheadlines.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520002613id_/http%3A//www.healthheadlines.com/legal/privacy.php) for the most accurate reproduction.*
 
 # HealthHeadlines.com - Privacy Policy
 
 **PRIVACY POLICY**
 
-Welcome to the Health Headlines website (www.HealthHeadlines.com or the "Website"). This written policy (the "Privacy Policy") is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this Website and certain related services. Please be sure to read this entire Privacy Policy before using, or submitting information, to this Website.
+Welcome to the Health Headlines website (www.healthheadlines.com or the "Website"). This written policy (the "Privacy Policy") is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this Website and certain related services. Please be sure to read this entire Privacy Policy before using, or submitting information, to this Website.
 
 **Policy**  
 The policy of the Website is to respect and protect the privacy of our users. To fulfill this policy, the Website agrees to exercise the precautions set forth in this Privacy Policy to maintain the confidentiality of information provided by you in connection with accessing and using the Website.
@@ -33,7 +33,7 @@ where required by applicable laws, court orders, or government regulations. In a
 Remember that the information provided by this site is for general background purposes and is not intended to be used in connection with, or as a substitute for, medical diagnosis or treatment by a trained professional. You should always consult your own physician about any healthcare questions you may have, especially before trying a new medication, diet, fitness program, or approach to health care issues.
 
 **Opt-Out Procedures**  
-You may always opt-out of receiving communications from us. To not receive future e-mail communications from Health Headlines, please go to [www.HealthHeadlines.com](http://www.healthheadlines.com/)
+You may always opt-out of receiving communications from us. To not receive future e-mail communications from Health Headlines, please go to [www.healthheadlines.com](http://www.healthheadlines.com/)
 
 **Security of Information**  
 You can be assured that personal information collected through the Website is secure and is maintained in a manner consistent with current industry standards. The importance of security for all personal information associated with our subscribers is of utmost concern to us. Your personal information is protected in several ways. Your personal information resides on a secure server that only selected Health Headlines employees and contractors have access to via password. In order to most efficiently serve you, credit card transactions and order fulfillment are handled by established third-party banking, processing agents and distribution institutions. They receive the information needed to verify and authorize your credit card or other payment information and to process and ship your order.
