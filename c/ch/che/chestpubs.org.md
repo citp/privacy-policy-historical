@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chestpubs.org privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614010231id_/http%3A//publications.chestnet.org/ss/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chestpubs.org privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519122953id_/http%3A//publications.chestnet.org/ss/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # CHEST Publications | Privacy Policy
 
@@ -29,11 +29,11 @@ Information provided online is used to process, fulfill, and deliver requests fo
 Deidentified aggregate usage information, which may include demographic data, may be reported to third parties, including our third-party vendors and advertisers.
 
 **Sharing**  
-Personally identifying information, such as names and contact information, of subscribers and site registrants is not shared or made available for purchase to outside organizations or companies. ACCP member information may be available through the ACCP membership list.
+Personally identifying information, such as names and contact information, of subscribers and site registrants is not shared or made available for purchase to outside organizations or companies. American College of Chest Physician member information may be available through the organization's membership list.
 
-It may be necessary to share personal information with third-party companies with whom the ACCP contracts to perform work related to the maintenance of the website, consulting, marketing, and other services, but such partners are prohibited from using the information provided for any other purpose.
+It may be necessary to share personal information with third-party companies with whom CHEST contracts to perform work related to the maintenance of the website, consulting, marketing, and other services, but such partners are prohibited from using the information provided for any other purpose.
 
-The ACCP may disclose personally identifying information if required to do so by law or in good faith believe that such action is necessary to (1) comply with the law or legal process; (2) protect our rights and property; (3) protect against misuse or the unauthorized use of our website; or (4) protect the personal safety or property of our users or the public. 
+The organization may disclose personally identifying information if required to do so by law or in good faith believe that such action is necessary to (1) comply with the law or legal process; (2) protect our rights and property; (3) protect against misuse or the unauthorized use of our website; or (4) protect the personal safety or property of our users or the public. 
 
 **Retention**  
 Personal information on customers is retained as dictated by business and legal requirements.
