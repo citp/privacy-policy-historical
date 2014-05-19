@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubestack.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816010859id_/http%3A//www.tubestack.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubestack.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519110827id_/http%3A//www.tubestack.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
