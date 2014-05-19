@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowing-jesus.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105062004id_/http%3A//www.knowing-jesus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowing-jesus.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519172326id_/http%3A//www.knowing-jesus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for www.Knowing-Jesus.com
 
@@ -9,7 +9,7 @@ of the steps we take to safeguard information. We hope this
 will help you make an informed decision about sharing  
 personal information with us.
 
- **www.knowing-jesus.com** strives to maintain the highest  
+**www.knowing-jesus.com** strives to maintain the highest  
 standards of decency, fairness and integrity in all our  
 operations. Likewise, we are dedicated to protecting our  
 customers’, consumers’ and online visitors’ privacy on our  
@@ -17,7 +17,7 @@ website.
 
 ### Personal Information
 
- **www.knowing-jesus.com** collects personally identifiable  
+**www.knowing-jesus.com** collects personally identifiable  
 information from the visitors to our website only on a  
 voluntary basis. Personal information collected on a  
 voluntary basis may include name, postal address, email  
@@ -129,7 +129,7 @@ The search box on this web site (“Search Box”) is powered by Google Inc (“
 
 ### Updates and Effective Date
 
- **www.knowing-jesus.com** reserves the right to make changes in  
+**www.knowing-jesus.com** reserves the right to make changes in  
 this policy. If there is a material change in our privacy  
 practices, we will indicate on our site that our privacy  
 practices have changed and provide a link to the new privacy  
