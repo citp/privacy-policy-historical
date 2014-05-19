@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worlddatingpartners.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127072845id_/http%3A//worlddatingpartners.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worlddatingpartners.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519122621id_/http%3A//www.worlddatingpartners.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Partners and Members - Worlddatingpartners.com
 
@@ -94,7 +94,7 @@ Bristol Road
 Somerset  
 United Kingdom  
 TA6 4RR  
-Tel: +44(0)12 7858 8060  
+Tel: +41 445 802 054  
 Fax: +44(0)12 7842 8049  
 [contacts@worlddatingpartners.com](mailto:contacts@worlddatingpartners.com)
 
