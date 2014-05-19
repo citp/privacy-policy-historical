@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promptfile.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819213842id_/http%3A//www.promptfile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promptfile.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520002748id_/http%3A//www.promptfile.com/privacy) for the most accurate reproduction.*
 
 # PromptFile.com | Share files fast
 
