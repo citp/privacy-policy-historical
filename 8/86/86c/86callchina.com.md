@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 86callchina.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112074505id_/http%3A//www.86callchina.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 86callchina.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519040652id_/http%3A//www.86callchina.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,4 +28,4 @@ Security
 
 The security of your personal information is very important to us. All your data are stored in areas not accessible to Web browsers, behind password protection, or offline. Access to that information is strictly controlled and limited to certain individuals within us. 
 
-If you have any questions about our privacy policy please [contact us](https://web.archive.org/web/20131112074505id_/http%3A//www.86callchina.com/contact.htm).
+If you have any questions about our privacy policy please [contact us](https://web.archive.org/web/20140519040652id_/http%3A//www.86callchina.com/contact.htm).
