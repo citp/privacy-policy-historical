@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitnessandhealthexpress.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226154252id_/http%3A//fitnessandhealthexpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnessandhealthexpress.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519051400id_/http%3A//fitnessandhealthexpress.com/privacy) for the most accurate reproduction.*
 
 # Fitness and Health ExpressPrivacy - Fitness and Health Express
 
