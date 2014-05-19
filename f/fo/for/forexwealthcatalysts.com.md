@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexwealthcatalysts.com privacy policy that was archived on 2013-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130312205746id_/http%3A//www.forexwealthcatalysts.com/legal_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexwealthcatalysts.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519035053id_/http%3A//forexprofitaccelerator.com/legal_privacy.htm) for the most accurate reproduction.*
 
 # Instant Profits Privacy Policy
 
