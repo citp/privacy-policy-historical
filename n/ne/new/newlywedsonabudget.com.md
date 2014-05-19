@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newlywedsonabudget.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118090510id_/http%3A//www.newlywedsonabudget.com/about-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newlywedsonabudget.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519112622id_/http%3A//www.newlywedsonabudget.com/about-2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Newlyweds on a Budget
 
@@ -18,7 +18,4 @@ We also use third party advertisements on newlywedsonabudget.com to support our 
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-While we do host third-party advertisements, opinions are 100% ours.  
-  
----  
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.newlywedsonabudget.com%2Fabout-2%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
+While we do host third-party advertisements, opinions are 100% ours.
