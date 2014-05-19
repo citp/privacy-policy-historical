@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the vumber.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114070809id_/http%3A//www.vumber.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vumber.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519172253id_/https%3A//vumber.com/privacy) for the most accurate reproduction.*
 
 # Vumber - Virtual Number Privacy Statement
 
 This privacy policy covers how we treat the personal information that we collect and receive when you subscribe for and use our services. This Policy explains the practices that apply to your personal Information.
 
+### Collection of Your Personal Information
+
 In order to provide services, Vumber must collect your personal phone number so we can identify you when you interact with our system, and to route telephone calls from other users to your phone. We never, under any circumstances, reveal your phone number to other Vumber users.
+
+### How Your Personal Information Is Used
 
 Your Personal Information is used to operate the service features and offerings, to personalize the services provided to you, and to communicate with you and respond to your inquiries.
 
@@ -16,8 +20,14 @@ We may use cookies, web beacons or similar technologies to enhance and personali
 
 In the event Vumber is acquired, consolidates or merges with another company, that company will be bound by the terms and conditions of this privacy policy.
 
+### Our Commitment to Security
+
 We are committed to keeping your Vumber information private, and will use that information only for purposes of operating Vumber services and improving them. We have implemented security guidelines to help safeguard the privacy of your Vumber information from unauthorized access or improper use.
 
-If you have any questions or concerns about the Vumber Privacy Policy or its implementation, you can send email to [**info@vumber.com**](mailto:info@vumber.com)
+### How to Contact Us
 
-Please review this Policy periodically at [**www.Vumber.com**](http://www.vumber.com/) We may update this Privacy Policy from time to time.
+If you have any questions or concerns about the Vumber Privacy Policy or its implementation, you can send email to [info@vumber.com](mailto:info@vumber.com)
+
+### Changes to this Privacy Policy
+
+Please review this Policy periodically at [www.vumber.com](http://www.vumber.com/) We may update this Privacy Policy from time to time.
