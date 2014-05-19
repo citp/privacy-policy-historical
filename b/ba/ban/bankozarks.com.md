@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankozarks.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016065035id_/http%3A//www.bankozarks.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankozarks.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519203354id_/http%3A//www.bankozarks.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Bank of the Ozarks
 
