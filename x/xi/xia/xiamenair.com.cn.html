@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the xiamenair.com.cn privacy policy that was archived on 2013-10-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131028180455id_/http%3A//www.xiamenair.com/cn/en/info/privacypolicy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the xiamenair.com.cn privacy policy that was archived on 2014-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140519164413id_/http%3A//www.xiamenair.com/cn/en/info/privacypolicy.shtml) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="Refresh" content="3600"><meta content="." name="Keywords"><meta content="." name="Description"><meta name="generator" content="MiniSite"><meta name="author" content="35Design Center UI Team - RedCode (http://www.lizhoumin.com)"><meta name="copyright" content="35Design Center Copyright (c) 2012 .">
+<!DOCTYPE html><html><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="Refresh" content="3600"><meta content="." name="Keywords"><meta content="." name="Description"><meta name="generator" content="MiniSite"><meta name="author" content="35Design Center UI Team - RedCode (http://www.lizhoumin.com)"><meta name="copyright" content="35Design Center Copyright (c) 2012 .">
 <link href="../App_Themes/skinfile/css/AspNetPager.css" type="text/css" rel="stylesheet"><link href="../App_Themes/skinfile/css/base.css" type="text/css" rel="stylesheet"><link href="../App_Themes/skinfile/css/etstyle.css" type="text/css" rel="stylesheet"><link href="../App_Themes/skinfile/css/page.css" type="text/css" rel="stylesheet"><link href="../App_Themes/skinfile/css/shopcard.css" type="text/css" rel="stylesheet"><title>
 	厦门航空有限公司-Privacy Policy
 </title></head>
@@ -22,17 +22,42 @@
           <!-- 首页头部 -->
           
 
+<script type="text/javascript" src="js/jquery/jquery.js"></script>
+<script type="text/javascript">
+
+    $.ajax({
+        type: "get",
+        dataType: "script",
+        async: false,
+        url: "http://login.xiamenair.com/cas/login?loginCheck=true",
+        success: function () {
+            if (loginCheck.u != undefined && loginCheck.u != "") {
+                $("#usernamespan").html("Hi，" + loginCheck.d + " ");
+                $("#btlogout").css("display", "inline-block");
+                $("#btlogin").css("display", "none");
+            } else {
+                $("#usernamespan").html("Hi，Visitor ");
+                $("#btlogin").css("display", "inline-block");
+                $("#btlogout").css("display", "none");
+            }
+                
+        }
+    }); 
+   
+</script>
 <script src="http://www.xiamenair.com/cn/en/plug-in/artDialog4.1.5/artDialog.source.js?skin=simple" type="text/javascript"></script>
 <script src="http://www.xiamenair.com/cn/en/plug-in/artDialog4.1.5/iframeTools.source.js" type="text/javascript"></script>
 
 <input type="hidden" value="" class="xh_main_select">
 <input type="hidden" value="http://www.xiamenair.com/cn/cn/" class="xh_main_select_url">
 
-<div class="header"> <a class="logo" href="http://www.xiamenair.com/cn/en/"><img alt="" title="厦门航空" src="http://img.xiamenair.com/cn/en/images/img/logo.png"></a>
+<div class="header"> <a href="http://www.xiamenair.com/cn/en/" title="XIAMENAIR" class="logo_a">
+            <!--<img src="http://img.xiamenair.com/cn/en/images/logo.png" alt=""  ></a>-->
+        </a><a href="http://www.skyteam.com" target="_blank" title="SKYTEAM" class="logo_b"></a>
     <div class="top-link">
       <ul>
-        <li><a href="http://et.xiamenair.cn/xiamenair/jsp/user/NewMFMember.jsp?lan=en" target="_blank">Register</a></li>
-        <li><a href="javascript:void(0)" onclick="showLoginPanel('#toploginpanel','Please log in')">Login</a><em>|</em></li>
+        <li><a href="http://ffp.xiamenair.com/About/Regist_en.aspx" target="_blank">Register</a></li>
+ 
         <li class="language"><a class="lnk-language" href="http://www.xiamenair.com/cn/en/">China</a><em>|</em>
          <div class="xh_top_language_warp">
             <div class="xh_top_language">
@@ -42,7 +67,7 @@
                         <div class="xh_language_site_title">
                             Please choose the site：</div>
                         <div class="xh_language_site_select">
-                            <span>Taiwan</span><ul class="xh_language_site_select_con"><li class="press"><a href="#" xh_url="http://www.xiamenair.com/tw/tw/">Taiwan</a></li><li><a href="#" xh_url="http://www.xiamenair.com/">China</a></li></ul>
+                            <span>China</span><ul class="xh_language_site_select_con"><li class="press"><a href="#" xh_url="http://www.xiamenair.com/cn/cn/">China</a></li><li><a href="#" xh_url="http://www.xiamenair.com/tw/tw/">Taiwan</a></li><li><a href="#" xh_url="http://www.xiamenair.com/sg/cn/">Singapore</a></li><li><a href="#" xh_url="http://www.xiamenair.com/my/cn">Malaysia</a></li><li><a href="#" xh_url="http://www.xiamenair.com/hk/tw/ ">Hong Kong</a></li><li><a href="#" xh_url="http://www.xiamenair.com/mo/tw/ ">Macau</a></li></ul>
                            
                         </div>
                     </div>
@@ -50,7 +75,7 @@
                         <div class="xh_language_site_title">
                             Please select a language：</div>
                         <div class="xh_language_site_select1">
-                            <span>繁體中文</span> <ul class="xh_language_site_select_con1"><li><a href="#" xh_url="http://www.xiamenair.com/tw/tw/">繁體中文</a></li><li><a href="#" xh_url="http://www.xiamenair.com/tw/en/">English</a></li></ul> <ul class="xh_language_site_select_con1"><li><a href="#" xh_url="http://www.xiamenair.com/">简体中文</a></li><li><a href="#" xh_url="http://www.xiamenair.com/cn/en/">English</a></li></ul>
+                            <span>简体中文</span> <ul class="xh_language_site_select_con1"><li><a href="#" xh_url="http://www.xiamenair.com/cn/cn/">简体中文</a></li><li><a href="#" xh_url="http://www.xiamenair.com/cn/en/">English</a></li></ul> <ul class="xh_language_site_select_con1"><li><a href="#" xh_url="http://www.xiamenair.com/tw/tw/">繁體中文</a></li><li><a href="#" xh_url="http://www.xiamenair.com/tw/en/">English</a></li></ul> <ul class="xh_language_site_select_con1"><li><a href="#" xh_url="http://www.xiamenair.com/sg/cn/">简体中文</a></li><li><a href="#" xh_url="http://www.xiamenair.com/sg/en/">English</a></li></ul> <ul class="xh_language_site_select_con1"><li><a href="#" xh_url="http://www.xiamenair.com/my/cn">简体中文</a></li><li><a href="#" xh_url="http://www.xiamenair.com/my/en/">English</a></li></ul> <ul class="xh_language_site_select_con1"><li><a href="#" xh_url="http://www.xiamenair.com/hk/tw/ ">繁體中文</a></li><li><a href="#" xh_url="http://www.xiamenair.com/hk/en/ ">English</a></li></ul> <ul class="xh_language_site_select_con1"><li><a href="#" xh_url="http://www.xiamenair.com/mo/tw/ ">繁體中文</a></li><li><a href="#" xh_url="http://www.xiamenair.com/mo/en/ ">English</a></li></ul>
                            
                           
                         </div>
@@ -62,6 +87,13 @@
             </div>
           </div>
         </li>
+          <li>
+                 <div id="loginMSG" style="width: 30px; height: 20px;text-align: right;float: left;">
+                     <span id="btlogin"><a href="http://login.xiamenair.com/cas/login?locale=en&amp;service=http://www.xiamenair.com/cn/en/setUserSession.aspx" style="text-decoration:none;color:red;">Login</a></span>
+                     <span id="btlogout" style="display:none"><a href="http://login.xiamenair.com/cas/logout?locale=en&amp;service=http://www.xiamenair.com/cn/en/setUserSession.aspx" style="text-decoration:none;color:red;">Logout</a></span>
+                 </div>
+            </li>
+            <li style="width:200px;"><div id="usernamespan" style="float:right;"></div></li>
       </ul>
     </div>
   </div>
@@ -80,7 +112,7 @@
  <!-- 会员登录窗体模板 -->
  <div id="toploginpanel">
         <div id="toplogincontent">
-            <form id="fromtoplogin" name="fromtoplogin" method="post" action="http://et.xiamenair.cn/xiamenair/login.do">
+            <form id="fromtoplogin" name="fromtoplogin" method="post" action="http://et.xiamenair.com.cn/xiamenair/login.do">
                         <table class="toplogintable">
                             <tbody><tr>
                             <td>
@@ -102,12 +134,12 @@
                             <tr>
                             <td>Verification:</td>
                             <td class="label"><input type="text" name="verifyCode" id="verifyCode" class="lzm-text" style="width:56px">
-                                <a href="#"><img width="50" height="19" style="cursor:hand;" onclick="refreshLoadRandom(this,'http://et.xiamenair.cn/xiamenair/servlet/com.travelsky.xiamenair.web.framework.LoginVerifyCodeServlet');" src="http://et.xiamenair.cn/xiamenair/servlet/com.travelsky.xiamenair.web.framework.LoginVerifyCodeServlet"></a></td>
+                                <a href="#"><img width="50" height="19" style="cursor:hand;" onclick="refreshLoadRandom(this,'http://et.xiamenair.com.cn/xiamenair/servlet/com.travelsky.xiamenair.web.framework.LoginVerifyCodeServlet');" src="http://et.xiamenair.com.cn/xiamenair/servlet/com.travelsky.xiamenair.web.framework.LoginVerifyCodeServlet"></a></td>
                             </tr>
                             <tr>
                                 <td align="center" style="padding-bottom:5px" colspan="2">
                                     <input type="submit" value=" Login "> &nbsp;
-                                    <a class="a6" href="http://et.xiamenair.cn/xiamenair/jsp/user/NewMFMember.jsp" target="_blank">Register now</a> &nbsp;
+                                    <a class="a6" href="http://ffp.xiamenair.com/About/Regist_en.aspx" target="_blank">Register now</a> &nbsp;
                                     <a class="a6" href="javascript:void(0)" onclick="linkForgottenPasswordPanel();">Forgotten password?</a>
                                 </td>
                             </tr>
@@ -144,7 +176,7 @@
                             <tr>
                             <td>Verification:</td>
                             <td class="label"><input type="text" name="verifyCode" class="lzm-text" style="width:56px">
-                                <a href="#"><img width="50" height="19" style="cursor:hand;" onclick="refreshLoadRandom(this,'http://et.xiamenair.cn/xiamenair/servlet/com.travelsky.xiamenair.web.framework.LoginVerifyCodeServlet');" src="http://et.xiamenair.cn/xiamenair/servlet/com.travelsky.xiamenair.web.framework.LoginVerifyCodeServlet"></a></td>
+                                <a href="#"><img width="50" height="19" style="cursor:hand;" onclick="refreshLoadRandom(this,'http://et.xiamenair.com.cn/xiamenair/servlet/com.travelsky.xiamenair.web.framework.LoginVerifyCodeServlet');" src="http://et.xiamenair.com.cn/xiamenair/servlet/com.travelsky.xiamenair.web.framework.LoginVerifyCodeServlet"></a></td>
                             </tr>
                             <tr>
                                 <td align="center" style="padding-bottom:5px" colspan="2">
@@ -201,7 +233,7 @@
          $.ajax({
              type: 'get',
              dataType: 'xml',
-             url: 'http://et.xiamenair.cn/xiamenair/fetchPassword.do',
+             url: 'http://et.xiamenair.com.cn/xiamenair/fetchPassword.do',
              data: { userid: userId.val(), email: email.val(), verifyCode: verifyCode.val() },
              success: function (req) {
                  $("#msgcon").html(req.responseText);
@@ -223,7 +255,7 @@
 <div class="menu">
                 <ul>
                     <li><a href="http://www.xiamenair.com/cn/en/">Home</a></li>
-                    <li><a href="http://et.xiamenair.cn/xiamenair/html/html_en/en_index.html" target="_blank">Bookings</a></li>
+                    <li><a href="http://et.xiamenair.com.cn/xiamenair/html/html_en/en_index.html" target="_blank">Bookings</a></li>
                     <li><a href="http://www.xiamenair.com/cn/en/specialoffers/">Special Offers</a></li>
                     <li><a href="http://www.xiamenair.com/cn/en/egretclub/" target="_blank">Egret Club</a></li>
                     <li><a href="http://www.xiamenair.com/cn/en/traveler/">Travel Information</a></li>
