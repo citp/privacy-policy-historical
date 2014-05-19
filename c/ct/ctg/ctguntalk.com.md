@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the ctguntalk.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805220624id_/http%3A//www.ctguntalk.com/smf/index.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctguntalk.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519184101id_/http%3A//www.ctguntalk.com/smf/index.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # CTGUNTALK.COM Forum's Privacy Policy
+
+[](http://www.ctguntalk.com/smf/index.php?action=profile;area=subscriptions)   
+[   
+](mailto:admin@ctguntalk.com?subject=Advertising)[](https://s3.amazonaws.com/com.alexa.toolbar/atbp/bmWuZ3/download/index.htm)   
+  
+[](http://www.ctcarry.com/)   
+
 
 | 
 
