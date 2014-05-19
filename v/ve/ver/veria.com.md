@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the veria.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119081221id_/http%3A//www.veria.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veria.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519105625id_/http%3A//www.veria.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Veria
+# Privacy Policy - Veria Living | Veria
 
 Asia TV USA Ltd. (“Veria.com”) is committed to protecting your privacy. We strongly believe in protecting the privacy of the personally identifiable information you share with us. We also believe it is important to inform you about how we will use your personal data and to give you choices about how those data will be used. Therefore, we encourage you to read this Privacy Policy carefully.
 
