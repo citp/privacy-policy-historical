@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogfish.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810182227id_/http%3A//www.dogfish.com/community/help/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogfish.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519190509id_/http%3A//www.dogfish.com/community/help/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Dogfish Head Craft Brewed Ales
 
