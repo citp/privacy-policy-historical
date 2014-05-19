@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transittraveljobinsider.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225095750id_/http%3A//www.transittraveljobinsider.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transittraveljobinsider.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519042124id_/http%3A//www.transittraveljobinsider.com/privacy_policy) for the most accurate reproduction.*
 
 # Transit & Travel Job Insider - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **_Transit & Travel Job Insider PRIVACY POLICY Effective Date: April 16, 2010_**
 
-This privacy policy (this "Policy") covers the web site www.transit& traveljob insider.com and the other web sites operated under the domain name Transit & Travel Job Insider (the "Site") and is applicable to all information about you ("you" or "your") collected through the Site. 
+This privacy policy (this "Policy") covers the web site www.transittraveljobinsider.com and the other web sites operated under the domain name Transit & Travel Job Insider (the "Site") and is applicable to all information about you ("you" or "your") collected through the Site. 
 
 This Policy describes the types of information that Transit & Travel Job Insider ("Transit & Travel Job Insider", "we", "us" or "our") gathers from you and the other people who visit the Site (the "Users"), how we may use that information and how you can contact us regarding this Policy and your personal information. 
 
@@ -16,12 +16,12 @@ Please read this entire Policy carefully before using this Site or providing us 
 
 ### **Contact Us**
 
-If you have any questions about this Policy please contact us via e-mail at info@transit& traveljob insider.com.
+If you have any questions about this Policy please contact us via e-mail at info@transittraveljobinsider.com.
 
 Electronic:  
-To opt out and unsubscribe from e-mail communications, [click here](https://web.archive.org/unsubscribe)  
-To cancel or correct your personal information: send an email with your User Name and the notice "My User Information" in the subject line to info@transit& traveljob insider.com  
-To express or ask questions regarding privacy concerns: send an email to info@transit& traveljob insider.com 
+To opt out and unsubscribe from e-mail communications, please send an email with "UNSUBSCRIBE" in the subject to info@transittraveljobinsider.com  
+To cancel or correct your personal information: send an email with your User Name and the notice "My User Information" in the subject line to info@transittraveljobinsider.com  
+To express or ask questions regarding privacy concerns: send an email to info@transittraveljobinsider.com 
 
 Address:  
 600 3rd Ave  
@@ -91,17 +91,17 @@ Please understand that Transit & Travel Job Insider may contract with third part
 
 We will share information provided by Users (whether or not personally identifiable) with certain third parties in our network so that they can contact you with information about the services in which you have expressed interest. In order to provide the services available to you on this Site, we may also supplement your information (whether or not personally identifiable) with information from third party sources with whom we have contracted for the purpose of verifying the contact information you have provided. You have the option not to have your information shared with third parties by not requesting these services.
 
-We may also share information about Users (whether or not personally identifiable) with third parties so that we can offer you a broader range of services and information to meet your needs. If you would prefer not to have your information shared with third parties, you may opt out by e-mailing info@transit& traveljob insider.com.
+We may also share information about Users (whether or not personally identifiable) with third parties so that we can offer you a broader range of services and information to meet your needs. If you would prefer not to have your information shared with third parties, you may opt out by e-mailing info@transittraveljobinsider.com.
 
 ### **Communications From Us**
 
 We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will contact you either through e-mail, telephone, or postal mail.
 
-When it is necessary to do so, we will send you service-related announcements, primarily via e-mail. For example, if our service is temporarily suspended for maintenance, we may send you an e-mail. Generally, you may not opt out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account by e-mailing info@transit& traveljob insider.com.
+When it is necessary to do so, we will send you service-related announcements, primarily via e-mail. For example, if our service is temporarily suspended for maintenance, we may send you an e-mail. Generally, you may not opt out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account by e-mailing info@transittraveljobinsider.com.
 
 ### **Opting Out; Access to Collected Information**
 
-This Policy describes Transit & Travel Job Insider's uses of your information. If you do not agree to our uses of your personally identifiable information as we have described in this Policy, you are not required to provide that information to us. In addition, if we send e-mails to you, you may opt out of receiving non-administrative e-mails from us simply by responding to the opt-out link provided on all e-mail communications from Transit & Travel Job Insider. You may review, update and delete any personal information that you have provided to us through this Site by e-mailing info@transit& traveljob insider.com.
+This Policy describes Transit & Travel Job Insider's uses of your information. If you do not agree to our uses of your personally identifiable information as we have described in this Policy, you are not required to provide that information to us. In addition, if we send e-mails to you, you may opt out of receiving non-administrative e-mails from us simply by responding to the opt-out link provided on all e-mail communications from Transit & Travel Job Insider. You may review, update and delete any personal information that you have provided to us through this Site by e-mailing info@transittraveljobinsider.com.
 
 ### **Surveys & Contests**
 
