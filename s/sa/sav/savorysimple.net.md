@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savorysimple.net privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118192140id_/http%3A//www.savorysimple.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savorysimple.net privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519110928id_/http%3A//www.savorysimple.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Savory Simple
 
@@ -60,4 +60,4 @@ If you have any questions about this policy, our practices related to this site,
 
 We reserve the right, at any time, to add to, change, update, or modify this privacy policy, simply by posting such change, update, or modification on Savory Simple and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the site. It is your responsibility to review this privacy policy from time to time to ensure that you continue to agree with all of its terms.
 
-_Don't miss future updates from Savory Simple! Subscribe to new recipes by[email](http://savorysimple.us5.list-manage.com/subscribe?u=1f6f8e5025e97d81ac3d37623&id=40cef4165a). You can also follow me via [RSS](https://web.archive.org/web/20131118192140id_/http://www.savorysimple.net/privacy-policy/feeds.feedburner.com/SavorySimple), [Facebook](https://www.facebook.com/savorysimple) and [Twitter](http://twitter.com/savorysimple)._
+_Don't miss future updates from Savory Simple! Subscribe to new recipes by[email](http://savorysimple.us5.list-manage.com/subscribe?u=1f6f8e5025e97d81ac3d37623&id=40cef4165a). You can also follow me via [RSS](http://feeds.feedburner.com/SavorySimple), [Facebook](https://www.facebook.com/savorysimple) and [Twitter](http://twitter.com/savorysimple)._
