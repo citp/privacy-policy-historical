@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the javed-chaudhry.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029140202id_/http%3A//www.javed-chaudhry.com/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javed-chaudhry.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519183729id_/http%3A//www.javed-chaudhry.com/contact/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Javed Chaudhry Column Zero Point
 
