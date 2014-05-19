@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpotato.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213111228id_/http%3A//en.gpotato.com/Info/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpotato.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519231604id_/http%3A//en.gpotato.com/Info/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # gPotato Game Portal - Enjoy Free-to-Play Online Games!
 
