@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihavegot.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118061536id_/http%3A//www.ihavegot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihavegot.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519232628id_/http%3A//www.ihavegot.com/privacy) for the most accurate reproduction.*
 
 # Privacy | ihavegot.com
 
@@ -30,7 +30,7 @@ Frinds list
 For each everything (Something, Someone and Other things) they want to add.
 
 
-[Go to "Who Can See?" Settings](https://web.archive.org/web/20131118061536id_/http://www.ihavegot.com/settings/)
+[Go to "Who Can See?" Settings](https://web.archive.org/web/20140519232628id_/http://www.ihavegot.com/settings/)
 
 Update
 
