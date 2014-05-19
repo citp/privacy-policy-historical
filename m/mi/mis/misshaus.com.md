@@ -1,0 +1,36 @@
+> *The following text is extracted and transformed from the misshaus.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519044913id_/http%3A//www.misshaus.com/ctrl.php%3Fpage%3Dpolicy) for the most accurate reproduction.*
+
+# Shop BB Cream, Makeup and Skincare | The Official Missha
+
+1.Personal Information  
+MisshaUS.com collects Personal Information in which customers voluntarily submit when registering, such as, but not limited to, a person’s name and email address that is necessary for MisshaUS.com to provide services offered on our site, including prompt delivery.  
+Additionally Personal Information will include mailing address, demographic information, and preferences. All information will be used by MisshaUS.com internally to study consumers’ patterns and trends and to create better site contents, promotions, or other miscellaneous conditions that could aid in serving our customers more efficiently. Election of being added on to our email list will be at the customers’ digression.   
+Once a customer elects to be included in our email list and promotional or other events sponsored by MisshaUS.com, we will collect personal information through our registration process and may also collect additional information via outside sources. All such collected information will be used to communicate and share with our customers about current promotion procedures or winning selections, our service updates, special opportunities, and future promotional events. If the customer does not wish to receive these communications, one can simply click on the “UNSUBSCRIBE” button in our email. 
+
+2.How We Protect Personal Information  
+Personal information is secured from unauthorized access from the Internet through the market leading Firewall Technology. Customer information is safeguarded within the network with the best security technology and only selected staff members with authorization will be allowed to view personal information. Any personal information provided by customers are also protected by the best security technology available and transmitted to MisshaUS.com database through a secure code. 
+
+3.Use of Cookies  
+Cookies are small computer files that our computer sends to a customer’s computer hardware and that your computer sends back to us each time you make a request from our site. It is not necessary to use cookies to view MisshaUS.com’s website. This site does use cookies. However, we do not keep any of your personal details on cookies. We simply store your Customer ID (just a number) in cookie format. This Customer ID does not correlate to any of your personal information. We also store your first name on cookie format to personalize this website. This cookie is only present if you have not registered as a member of our site. If you are a member, then the only cookie that we use is the Customer ID cookie. 
+
+4.User’s Private Information Disclosure  
+We will not disclose your Private Information to a third party that you voluntarily share with us during registration process or other registration process for other events. All Private Information given to us will be used by MisshaUS.com in order to study individual customer’s shopping patterns and to observe the Internet transactions occurred on the site. Said third party does not include website hosting partners and all other websites supporting us and our business. All these partners and websites in a business relationship with us are in an agreement that no Private Information of our customers shall be shared and disclosed. However, when such Private Information was shared with other companies as statistics data, it can be used by other companies for advertisement and commercial reasons.   
+Additionally, MisshaUS.com can use email addresses or other personal information to contact you. For example, MisshaUS.com will use email addresses disclosed to deliver newsletters and special event opportunities and to notify winners of promotional events.   
+In all electronically transmitted communications, you will see how you can discontinue subscription of our newsletters. If you do not desire to receive our newsletters, simply click on “un-subscription” and follow the directions. If you are registered with us, you can also find a “un-subscription?” button in your Registration Information Page.
+
+5.  Underage Users (Minors)   
+We acknowledge that minors (individuals under 18 years of age) are using the Internet. Thus, we encourage these children to have parental or guardian permissions prior to disclosing Personal Information or to participating in our events or promotions. However, we do believe parents or guardians should play a central role in their child’s online activities and should monitor those activities to ensure that sites visited by their child are respecting their child’s privacy. We suggest using those On-Line Services or software that controls children’s online activities by preventing children from giving out names, addresses, and other personal information without parental permissions. 
+
+All minor users are required to provide us with the same Personal Information as ones required for Adults in order to register with us and to participate in our events or promotions. However, we reserve the right to decline registration or to ask for parental permissions depending on the age of the users.   
+Using cookies as mentioned previously, MisshaUS.com might collect data regarding children’s Private Information. Such collected data is used to provide the service appropriate and popular for children.   
+In pursuant to the law, MisshaUS.com is required to protect Personal Information of all minors. All Private Information is kept in secured network and only authorized staffs have access to this information.   
+All parents or guardians wishing to view their children’s Private Information in our database shall submit legal proof of their parental or guardian status to us. 
+
+6.Changing and Removing Personal Information and Other Information  
+We are committed to giving you control over your Personal Information. You can change or remove any of the Personal Information in our database. You can correct, update, or remove information and preferences you have shared with us by utilizing Personal Information Menu. 
+
+7.User’s Consent  
+Once a user visits our site, you automatically give us your consent for collection and use of your Private Information. We may change this policy from time to time. If we decide to change this policy in a material way, we will post notice of the change on our site via pop-up screen. You may be able to see these changes fully and comprehensively.
+
+8.SPECIAL EVENTS, QUESTIONNAIRES AND SURVEYS  
+On occasion, MisshaUS.com may sponsor special events (such as contests, sweepstakes or other offerings), questionnaires and surveys. There may be specific rules applicable to these promotions that explain how any personal information you provide will be processed. We strongly suggest you review any applicable rules before participating. To the extent any special event, questionnaire or survey is not subject to specific rules, the processing of personal information is governed by this Privacy Policy for the purposes set forth herein.
