@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currentcatalog.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815082722id_/http%3A//www.currentcatalog.com/-Customer%2BService-Privacy%2B%26%2BSecurity.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currentcatalog.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519100957id_/http%3A//www.currentcatalog.com/-Customer%2BService-Privacy%2B%26%2BSecurity.html) for the most accurate reproduction.*
 
 # Privacy & Security - Current Catalog
 
