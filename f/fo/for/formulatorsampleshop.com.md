@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the formulatorsampleshop.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104133732id_/http%3A//www.formulatorsampleshop.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formulatorsampleshop.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520001601id_/http%3A//www.formulatorsampleshop.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
-
-**Privacy Policy**
 
 What information do we collect?
 
   * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.
   * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
   * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
+
+
 
   
 How do we use your information?
@@ -20,6 +20,8 @@ We may use the information we collect from you when you register, purchase produ
   * To quickly process your transactions.
   * To administer a contest, promotion, survey or other site feature.
   * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
+
+
 
   
 How do we protect visitor information?
@@ -64,7 +66,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20131104133732id_/http%3A//www.formulatorsampleshop.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20140520001601id_/http%3A//www.formulatorsampleshop.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
