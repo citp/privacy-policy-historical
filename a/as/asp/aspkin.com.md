@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspkin.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207060955id_/http%3A//www.aspkin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspkin.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519061754id_/http%3A//www.aspkin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Aspkin's World
 
@@ -21,15 +21,3 @@ Note that you can change your browser settings to disable cookies if you have pr
 ### Contact Information
 
 Concerns or questions about this privacy policy can be directed to **support [at] aspkin.com** for further clarification.
-
-My dog says to please share this …00000
-
-  * Bio
-  * Twitter
-  * Facebook
-  * Google+
-  * Latest Posts
-
-
-
-I’m Donald, I have a passion for making money online and teaching others how to make money online. If you haven’t read [Six Figure Boss](http://www.sixfigureboss.com/) already, check it out. It’s a complete step-by-step guide to to creating your own online business. I also wrote [eBay Stealth](http://www.auctionstealth.com/) and [Amazon Ghost](http://www.amazonghost.com/)!
