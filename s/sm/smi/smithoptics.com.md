@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the smithoptics.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106003953id_/http%3A//www.smithoptics.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smithoptics.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519110409id_/http%3A//www.smithoptics.com/privacypolicy) for the most accurate reproduction.*
 
-# Smith Optics | Customer Service
+# Smith Optics Privacy Policy | Smith Optics US Site
 
 ## Privacy Policy
 
 We respect the privacy of the visitors to the SmithOptics.com website and the websites connected with it. We take great care to protect your information. This privacy policy tells you what information we collect and how we may use it as well as the steps we take to ensure that it is protected.
 
-### What kind of information do we collect?
+**What kind of information do we collect?**
 
-There are cases where Smith Opitcs may ask you for personal information, such as your name, address, date of birth, gender, email address, etc. We do this for instance when you register for contests/promotions, respond to communication such as e-mail, and for services that require registration or subscription. If you would like to be on our mailing list, we will ask you to actively opt-in. We might also collect personal information from you about a third party, for instance if the website allows you to send an email referring someone to our site or an active promotion, in which case we need to know the name and e-mail address of the recipient. That information will only be used for the specific purpose (delivering the email) and Smith Optics will not further contact the third party unless the third party contacts us.
+There are cases where Smith Optics may ask you for personal information, such as your name, address, date of birth, gender, email address, etc. We do this for instance when you register for contests/promotions, respond to communication such as e-mail, and for services that require registration or subscription. If you would like to be on our mailing list, we will ask you to actively opt-in. We might also collect personal information from you about a third party, for instance if the website allows you to send an email referring someone to our site or an active promotion, in which case we need to know the name and e-mail address of the recipient. That information will only be used for the specific purpose (delivering the email) and Smith Optics will not further contact the third party unless the third party contacts us.
 
 \- We may use 'cookies' to gather information about your visits to our website and enhance your experience. You can find more information on how we use cookies in the section 'Use of Cookies'.
 
 \- When you visit our website we may collect so called 'click stream' data (server address, domain name etc). This information can be combined with information you have provided to us (for instance by registering), which will enable us to analyze and better customize your visits.
 
-### Use of visitors' information
+**Use of visitors' information**
 
 All personal information that we obtain about you will be recorded, used and protected by us in accordance with current data protection legislation and this privacy policy. We will primarily use your personal information to provide products and services to you and, for example:
 
@@ -24,48 +24,48 @@ All personal information that we obtain about you will be recorded, used and pro
 
 \- To analyze visits to the website and learn about the interests of our visitors in aggregate and also on personal level to better understand your interest and need, so we can improve our products and services and deliver to you the type of content, features and promotions that you are most interested in.
 
-### Who manages visitors' information
+**Who manages visitors' information**
 
 The global and local websites of Smith Optics and the information collected, are managed and controlled by Smith Optics. The servers that make the global and local websites of Smith Optics available are located in the USA. If you are located outside the USA, please note that the information you provide will be transferred to the USA and by submitting the information you authorize this transfer. Smith Optics has entered into an agreement with a hosting company in the USA to provide sufficient safeguards for the protection of your data. Personal information will be handled in accordance with current data protection legislation and this Privacy Policy.
 
-### Protection of visitors' information
+**Protection of visitors' information**
 
 In order to protect the information you provide to us by visiting our website we have implemented various security measures. Your personal information is contained behind secured networks and is only accessible by a limited number of people, who have special access rights and are required to keep the information confidential.
 
 Please keep in mind though that whenever you give out personal information online there is a risk that third parties may intercept and use that information. While Smith Optics strives to protect its user's personal information and privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk.
 
-### Childrens' privacy
+**Children's privacy**
 
 When a child tries to submit his/her registration he/she will be asked to submit the same kind of information as indicated in the above section 'Information we collect from visitors'. Furthermore the information provided by the child and gathered (for instance through the use of cookies) during his/her visit may be used as indicated in the said above section.
 
-### Disclosing personal information to third parties
+**Disclosing personal information to third parties**
 
 Except as described in this policy, we do not sell, trade or otherwise transfer your personal information to third parties without informing you in advance and in accordance with applicable data protection law. Your data may be transferred to web site hosting partners and other parties who assist us in designing and operating the website, executing services (for instance prize fulfillment) or help us analyze collected data. These parties will only use your data for the purpose of carrying out the work as indicated and will be required to keep the information confidential. We will also release personal data without consent if such is required by law, for security purposes, or to prevent imminent harm.
 
-### Links to third parties
+**Links to third parties**
 
 For your convenience and to improve the usage of the website we insert links to third parties, for which this privacy policy does not apply. These links take you outside our service and off the Smith Optics site and are beyond our control. This includes links from partners that may use Smith Optics logos as part of a co-branding agreement or sell Smith Optics products. The sites you can link to have their own separate privacy policy and although we seek to protect the integrity of our site, Smith Optics is not responsible and cannot be held liable for the content and activities of these sites. Your visit/access to these sites is therefore entirely at your own risk. Please note that these other sites may send their own cookies to users, collect data or solicit personal information.
 
-### Use of cookies
+**Use of cookies**
 
 A cookie is a small string of information that the website that you visit transfers to your computer for identification purposes. Cookies can be used to follow your activity on the website and that information helps us to understand your preferences and improve your website experience. Cookies are also used to remember for instance your user name and password. You can turn off all cookies, in case you prefer not to receive them. You can also have your computer warn you whenever cookies are being used. For both options you have to adjust your browser settings (like Internet Explorer). There are also software products available that can manage cookies for you. Please be aware though that when you have set your computer to reject cookies, it can limit the functionality of the website you visit and it's possible then that you do not have access to some of the features on the website.
 
-### Opt-out, delete or modify personal information
+**Opt-out, delete or modify personal information**
 
 You may cancel your registration at any time, and you can choose to opt-out of receiving any e-mails from Smith Optics. Additionally you can choose to have all your personal information deleted from our database. You may cancel your registration at any time, and you can choose to opt-out of receiving any e-mails messages from Smith Optics. Additionally you can choose to have all your personal information deleted from our database. If you want to opt-out, delete or modify your personal information, please visit the registration page. We encourage you promptly to update your personal information if it changes.
 
-### Changes to the policy
+**Changes to the policy**
 
 We may from time to time need to amend this policy, due to changes in regulations and to keep up with new developments and possibilities on the Internet. We therefore reserve the right at our discretion to make these changes and ask you to check this page periodically, as you are bound by these changes when visiting our website.
 
-### How you can contact us
+**How you can contact us**
 
 If you have any questions or comments relating to our website and/or the privacy policy, please contact us or write to us: Smith Optics, PO Box 2999 Ketchum, ID 83340.
 
-### Your consent
+**Your consent**
 
 By using the Smith Optics website you signify that you agree to the terms of this Privacy Policy. If you do not agree with the terms of our Privacy Policy, please do not provide us with personal information and leave this website.
 
-### Online policy
+**Online policy**
 
 The Privacy Policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond Smith Optics's control, and is not to be applied in any manner contrary to applicable law or governmental regulation. This online privacy policy only applies to information collected through our website and not to information collected offline.
