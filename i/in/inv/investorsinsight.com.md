@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investorsinsight.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207185721id_/http%3A//www.investorsinsight.com/content/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorsinsight.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519042150id_/http%3A//www.investorsinsight.com/content/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # InvestorsInsight's Privacy Policy - Investment Strategies, Analysis & Intelligence for Seasoned Investors.
 
