@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the hrp.org.uk privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015060413id_/http%3A//www.hrp.org.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrp.org.uk privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519162354id_/http%3A//www.hrp.org.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Historic Royal Palaces > Home > Privacy Policy
-
-[](http://www.hrp.org.uk/)
-
-You are here: 
-
-  1. [Home](https://web.archive.org/Default.aspx "Home")
-  2. Privacy Policy
-
-
 
   1. General
   2. Data collection and use
