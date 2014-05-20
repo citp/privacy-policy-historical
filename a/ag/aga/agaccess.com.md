@@ -1,80 +1,67 @@
-> *The following text is extracted and transformed from the agaccess.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603114548id_/http%3A//agaccess.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agaccess.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520093922id_/http%3A//www.agaccess.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement « AgAccess
+# Privacy Policy | US Player Online Casinos 2014 - Legal Casinos Accepting USA Citizens | AGACCESS.com
 
-This document was last updated on 12/03/2012.
+This privacy policy sets out how AG Access uses and protects any information that you give AG Access when you use this website.
 
-**1\. Acknowledgement and acceptance of terms**
+AG Access is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-**AgAccess.com / (This Business)** is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website.   By accessing (This Business), you acknowledge and fully understand (This Business)’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+AG Access may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 12/01/2013.
 
-**2\. Participating Merchant Policies**
+## **What we collect**
 
-Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in (This Business’s) services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy.  However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites.  We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
+We may collect the following information:
 
-**3\. Information We Collect and How We Use It**
-
-(This Business) collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
-
-  * **Web Server Logs**.
-
-
-
-When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
-
-  * Your Internet protocol address.
-  * The kind of browser or computer you use.
-  * Number of links you click within the site.
-  * State or country from which you accessed the site.
-  * Date and time of your visit.
-  * Name of your Internet service provider.
-  * Web page you linked to our site from.
-  * Pages you viewed on the site.
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
 
 
-**b. Use of Cookies**
+## **What we do with the information we gather**
 
-(This Business) may use cookies to personalize or enhance your user experience.  A cookie is a small text file that is placed on your hard disk by a Web page server.  Cookies cannot be used to run programs or deliver viruses to your computer.  Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-We do run a number of scripts from providers such as Google. Some of these set web browser cookies. Google in particular quietly collects data on your browsing habits, and we participate in that data collection.
-
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
-
-One of the primary purposes of cookies is to provide a convenience feature to save you time.  For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits.  Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.
-
-(This Business) reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value.
-
-You have the ability to accept or decline cookies.  Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
-
-**4\. Personal Information Users**
-
-Visitors to our website can register to purchase services.  When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information.  If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you purchased.
-
-If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
-
-We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
-
-  * To fulfill your service requests for services.
-  * To protect ourselves from liability,
-  * To respond to legal process or comply with law, or
-  * In connection with a merger, acquisition, or liquidation of the company.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails **** about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
 
 
-**5\. Use of Web Beacons or GIF files**  
-(This Business) Web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow (This Business) to count users who have visited those pages and to deliver co-branded services.  (This Business) may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
+## **Security**
 
-Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications.  These Web beacons may be used by these service providers to place a persistent cookie on your computer.  This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site.  (This Business) prohibits Web beacons from being used to collect or access your personal information.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, **** we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-**6\. Accessing Web Account Information**
+## **How we use cookies**
 
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current.  You may review this information by contacting us by sending an email to our support attendant [(Contact Us Here).](http://agaccess.com/contact/ "Contact Us")
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-**7\. Changes to this Statement**
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-(This Business) has the discretion to occasionally update this privacy statement.  When we do, we will also revise the “updated” date at the top of this Privacy page.  We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect.  Your continued use of the service constitutes your agreement to this privacy statement and any updates.
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-**8\. Contacting Us**
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please [contact us here.](http://agaccess.com/contact/ "Contact us")
+## **Links to other websites**
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+## **Controlling your personal information**
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at help@agaccess.com
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to help@agaccess.com.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+  
+
