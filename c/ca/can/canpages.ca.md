@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canpages.ca privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806165549id_/http%3A//www.canpages.ca/hm/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canpages.ca privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520104018id_/http%3A//www.canpages.ca/hm/privacy.jsp) for the most accurate reproduction.*
 
 # Yellow Media | Privacy Statement
 
