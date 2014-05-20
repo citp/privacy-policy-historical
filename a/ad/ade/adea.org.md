@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adea.org privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216053344id_/http%3A//www.adea.org/about_adea/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adea.org privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520084450id_/http%3A//www.adea.org/about_adea/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : American Dental Education Association
 
