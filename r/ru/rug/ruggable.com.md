@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruggable.com privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011123119id_/http%3A//www.ruggable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruggable.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520165254id_/http%3A//www.ruggable.com/privacy-policy) for the most accurate reproduction.*
 
 # Kitchen Rugs Washable - Large Area Rugs | Privacy Policy
 
