@@ -1,117 +1,122 @@
-> *The following text is extracted and transformed from the 247realmedia.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220034116id_/http%3A//www.247realmedia.com/EN-US/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247realmedia.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520215013id_/http%3A//www.xaxis.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Privacy protection - Internet Privacy - 24/7 Real Media
+# Xaxis
 
-## Privacy Policy
+Effective Date: 3/13/2014
 
-[](http://www.truste.com/ivalidate.php?url=www.247realmedia.com&sealid=101)
+Xaxis, Inc. (“Xaxis”) is firmly committed to protecting the privacy of Internet users and fostering user confidence in the Internet and Internet advertising.  Accordingly, we are committed to observing applicable industry guidelines, including those established by the Digital Advertising Alliance, the Network Advertising Initiative and the Interactive Advertising Bureau.  We continually evaluate innovative ways to protect online user privacy while also seeking to deliver relevant advertising and custom online experiences on behalf of our clients.
 
-24/7 Real Media, Inc. is firmly committed to protecting the privacy of Internet users and fostering user confidence in the Internet, Internet advertising and direct marketing.  We continually evaluate innovative ways to protect online user privacy while also offering our clients the ability to own and use information regarding their interactions with their customers.  Our services and products currently include Open AdStream® and the Global Web Alliance ("[Services](http://www.247realmedia.com/EN-US/us/products-and-services.html)")
+The purpose of this Privacy Policy is to provide clear notice about the user information we may collect in connection with our Services (as defined below), including activities we undertake across web sites and other digital properties (collectively, “websites”), to the extent applicable, and on our corporate website.  This Privacy Policy applies only to our Services and to our corporate website.
 
-The purpose of this Privacy Policy is to provide users with clear and complete notice about the user information we may collect in connection with our Services and on our corporate website.
+Please note that because of the changing nature of privacy laws, user needs, and our business, we may modify this Privacy Policy from time to time.  Accordingly, since we want to help you clearly understand our Privacy Policy and any pertinent revisions, we encourage you to review our Privacy Policy periodically to become aware of any changes that may have occurred.  You can determine when this Privacy Policy was last revised by referring to the date from which it was “Effective” above.
 
-### Information We Collect Through our Services
+The next few sections below describe how we collect and use user information in connection with the operation of our Services, such as through advertisements that may appear on various websites. 
 
-**We do not collect PII.**
+For information on how we collect and use information that is collected directly on this website (as opposed to through the Services), please see the section entitled “Your Use of and Correspondence on this Website” below.
 
-We do not collect the online user’s personally identifiable information ("PII") through our Services.  PII generally refers to information such as an individual’s name, mailing address, phone number or e-mail address.
+**Xaxis’s Services**
 
-**Non-Personal Information Collected by our Services**
+Xaxis provides a range of services to its clients, including advertisers and publishers.  Xaxis’s services (“Services”) include: media planning, buying and selling; marketing communications planning; campaign analytics and research; paid search placement; search engine optimization; ad serving; and data management.  Our clients use our Services in order to show online users the most useful and relevant ads.
 
-We offer a range of Services that allow advertisers and publishers to show online users the most useful and relevant ads online.
+**Types of Information We Collect through Our Services**
 
-We may collect non-personally identifiable information ("Non-PII") regarding the user’s behavior and usage patterns on advertisements and sites operated by our clients to better customize the type of advertisements users see on various sites.  Non-PII may include information such as the type of Internet browser used by an online user, the type of computer operating system used, the domain name of the website visited, as well as information related to websites and web pages a user is viewing when an advertisement is shown. 
+When you view and interact with websites and advertisements operated by our clients, we may collect through our Services information regarding your browsing, usage and interactions.  We may also collect information that allows us to identify browsers we have interacted with previously.  Such information collected by our Services may include the type of Internet browser and computer operating system you use, your computer’s Internet protocol (“IP” address), the URLs of the websites you visited before and after viewing an advertisement, and information related to websites and web pages you are viewing when an advertisement is shown. 
 
-We collect Non-PII through the use of cookies and pixels.  No personally identifiable information is collected or used in this process.  A cookie is a file on your browser that uniquely identifies your browser.  A pixel is a line of code which is used by a Web site or third party ad server to track a user’s activity.  The use of a pixel allows us to record that a user has visited a particular webpage along with additional Non-PII that the website publisher or advertiser may choose to include with the pixel.
+We do not collect users’ names, mailing addresses, phone numbers, email addresses or similar personally identifiable information.  Whenever we refer to “you” or “your”, we are referring to a browser or device and not an identifiable person.
 
-We require our clients to comply with applicable laws governing online privacy and encourage them to publish privacy policies that tell you about how the information they are gathering is being used.  We require our partner web sites that are part of the Global Web Alliance to inform users about their privacy and information collection practices via their privacy policies, including whether or not the web site is using our technology, and a way to opt out from our storing the users’ data related to their website visits.  We encourage you to always read the privacy policies of the websites you visit to understand issues relating to your online privacy.
+We collect information through the use of cookies, pixels and similar technologies.  A cookie is a file on your browser that uniquely identifies your browser and computer.  A pixel is a line of code that is used by a website or third party to assign online activities to a computer or browser.  The use of a pixel allows websites and us to record, for example, that a user has visited a particular web page.  Additional information from an earlier period or interaction may be included in the pixel. 
 
-The use of cookies by our affiliates, service providers or tracking utility company is not covered by our Privacy Policy.  We do not have access or control over these cookies.  These third parties use session ID cookies to make it easier for you to navigate our site. 
+**How We Use Information Collected through Our Services**
 
-### Disclosure of Information to Third Parties
+We use the information collected through our Services to provide you with the most useful and relevant online advertising and to better customize the sort of advertisements you see on those sites.  For example, if we think that a user is interested in apparel options, then our Services may help our clients deliver interest-based online advertisements to you about a particular type of apparel.  We also may use such information to limit the number of times you see a particular ad, and for other purposes such as research, reporting and analysis. 
 
-We do not collect PII via our Services, and therefore, we do not sell, rent, or share PII collected on our customer’s websites to non-affiliated third parties. 
+We may also receive from other companies information collected outside the Services for use in connection with the Services on behalf of our clients.  We also do this in order to get a clearer picture of the types of advertisements that might be most relevant and useful to you.  We do not associate such information with your name, mailing address, email address or similar personally identifiable information. 
 
-We may disclose Non-PII collected through our Services, and information derived from it, to our customers.  This Non-PII may be used by our customers to deliver tailored ads to users on participating websites.  This information cannot be used to contact or identify any person individually.  Further, all of our customers have warranted that they shall use any Non-PII they receive in compliance with applicable laws and regulations.
+We require our clients to comply with applicable laws governing online privacy.  We encourage you to read the privacy policies of the websites you visit to better understand issues relating to your online privacy.
 
-We may disclose a user’s information to third parties when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including, but not limited to, fraud and situations involving potential threats to the physical safety of any person.
+The use of information by our affiliates, clients and service providers is not covered by this Privacy Policy.
 
-### User Choice
+**Disclosure of Information to Third Parties**
 
-We use technology, which includes cookies, in the delivery of our Services.  We believe that the use of these tools enables us and our advertiser clients to provide users with a more meaningful web experience.
+We may disclose the information we collect about you (see “Types of Information We Collect through Our Services” above), and information derived from it, to our clients and service providers.  As we do not collect users’ names, mailing addresses, phone numbers, email addresses or similar personally identifiable information through our Services, we do not disclose any such information to third parties.  However, if you affirmatively provide personally identifiable information via one of our clients’ advertisements or websites, then that information will be received by such client and will be subject to that client’s privacy policy.
 
-You may at all times adjust your computer’s web browser settings to refuse all cookies, but by doing so you may not be able to use certain features on the websites you visit or take full advantage of all the website offerings and interest based advertising.  You can remove cookies by following directions provided in your Internet browser’s "help" file.  
-You may also simply opt out of receiving interest-based advertising by [clicking here](http://www.247realmedia.com/EN-US/opt-out.html). 
+We also may disclose the information we collect to third parties, including law enforcement, when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including, but not limited to, fraud and situations involving potential threats to the physical safety of any person.
 
-Our opt-out cookies are programmed to expire ten years after they are initially issued.  If you buy a new computer, upgrade or change Web browsers or delete this "opt-out" cookie, you will need to perform this opt-out process again.  In order for the opt-out to work, your browser must be set to accept 3rd party cookies. Opting out does not necessarily delete or replace all cookies from our domain.
+**User Choice**
 
-### Data Retention
+We collect information through our Services through the use of cookies, pixels and similar technologies.  We believe that the use of such technology enables us and our clients to provide users with a more meaningful web experience.  
+You may adjust your browser settings to refuse or remove cookies.  However, by doing so, you may not be able to use certain features on the websites you visit or take full advantage of all website offerings and interest-based advertising.  You may refuse or remove cookies by following the directions provided in your browser settings.
 
-For our Global Web Alliance services, we maintain Non-PII on users for a period of thirteen months.  For our Open AdStream® services, we generally maintain Non-PII on users for a period of thirteen months.  This data includes web sites visited, content viewed, ad interaction, IP addresses, browser type and language settings. 
+You also may simply opt out of receiving our customized third-party advertisements through the Services by clicking here, in which case your unique third-party Xaxis cookie will be replaced with a non-unique opt-out cookie:
 
-We may maintain Non-PII in an aggregated form for all of our Services for a period longer than thirteen months.
+[](http://optout.mookie1.com/optout/tfsm/tfsm-optout-generic.html?success=http://www.xaxis.com/optout/success&?fail=http://www.xaxis.com/optout/error)
 
-### Information Security
+Our opt-out cookies are programmed to expire ten years after they are initially issued.  If you buy a new computer, upgrade or change Web browsers or delete this “opt-out” cookie, you will need to perform this opt-out process again.  In order for the opt-out to work, your browser must be set to accept third-party cookies.
 
-We follow generally accepted industry standards to protect against the unauthorized access to, retention of, and disclosure of data.  This includes undertaking necessary physical, electronic, and management activities required to protect data integrity, access, and use.  Any data that is stored on our servers is treated as confidential information.  Please keep in mind, however, that despite these reasonable efforts to protect data on our servers, no method of transmission over the Internet is guaranteed to be secure.  Therefore, while we strive to protect your data at all times, we cannot guarantee its absolute security and shall not be liable for any breach of security by an outside party.
+**Network Advertising Initiative**
 
-### Network Advertising Initiative
+We are a member of the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/) and adhere to the NAI’s [Code of Conduct](http://www.networkadvertising.org/code-enforcement/code). In accordance with the Code of Conduct, we require our Xaxis Publisher Network (formerly 24/7 Access) clients to inform users about their privacy and information collection practices via their privacy policies and to include in their privacy policies information regarding the use of third-party advertising technology and services on their sites, the types of data collected through such services, the use and distribution of such data, and a link to an industry opt-out from interest-based advertising. We periodically monitor the Web sites of our clients to determine whether they are adequately disclosing and updating their privacy statements.
 
-We are committed to following the [Code of Conduct](http://www.networkadvertising.org/networks/2008%20NAI%20Principles_final%20for%20Website.pdf) of the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/), of which we are a member.  In accordance with the Code of Conduct, we require our Global Web Alliance clients to provide conspicuous access to their privacy policy statements.  Additionally, we require that our network affiliates disclose any and all information that is being collected from Internet users on their Web sites, including data gathered from banners and other forms of advertising, as well as content delivered or other transactions occurring on their Web sites.  We periodically monitor the Web sites of our clients to determine whether they are adequately disclosing and updating their privacy statements.
+We fully support the digital advertising industry’s efforts to increase transparency in the area of interest-based advertising and health segments.  For more information on consumer interest segments that we may use for general health-targeted advertising, please [click here](http://www.xaxis.com/page/general-health-interests).
 
-You can also click the link below to reach the Network Advertising Initiative site, a central location for information about Internet advertising and the choices available to you and opt out of receiving interest-based advertising from us and other NAI member companies.
+You can also click the link above to reach the Network Advertising Initiative site, a central location for information about interest-based advertising and the choices available to you, and to opt out of receiving third-party interest-based advertising from us and other NAI member companies.
 
-### [](http://www.networkadvertising.org/managing/opt_out.asp)
+****
 
-### Ad Choices 
+**Digital Advertising Alliance and Ad Choices**
 
-24/7 Real Media supports deployment of Advertising Option icon (Ad Choices), in partnership with Evidon, as part of its compliance with Digital Advertising Alliance self-regulation program.
+Xaxis supports deployment of the Advertising Option icon (Ad Choices), in partnership with Ghostery, Inc, as part of its compliance with Digital Advertising Alliance self-regulation program.
 
-### Change to this Privacy Policy
+**Children’s Privacy**
 
-Please note that because of the changing nature of privacy laws, user needs, and our business, we may modify this Privacy Policy from time to time without the consent of users by providing advance notice on our Web site before implementing such modifications.  Accordingly, since we want to help you clearly understand our Privacy Policy, and any pertinent revisions, we encourage you to review our Privacy Policy periodically to become aware of any changes that may have occurred.
+We are sensitive to the issue of children's privacy.  Therefore, our website and Services are neither developed for, nor directed at, children or at websites primarily directed to children.  If you believe a child has provided us with personal information and you would like to have the information removed, please contact us at [privacy@xaxis.com.](mailto:privacy@xaxis.com.)
 
-### TRUSTe
+**Linking to Other Websites**
 
-24/7 Real Media has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program does not cover information that may be collected through downloadable software.   TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [privacy@247realmedia.com](mailto:privacy@247realmedia.com).  If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). ****
+A link from our own website to another website does not imply our endorsement of that website.  We do not control the websites to which we link and assume no responsibility for their content or privacy policies.  Therefore, you should carefully review the privacy policies that apply to any websites you access from our website.
 
-### Your Use and Correspondence on this Site
+**Transfer of Data upon Change of Control**
 
-We use cookies to understand and analyze the usage trends of our users on our corporate website. We do not collect the online user’s PII through these cookies, only non-PII. If you provide us information through our “contact us” link on our corporate website, we will keep a record of the information you provide including your email address and any other personal information you provide solely for the purpose of responding to your inquiry or to provide you with requested marketing material. This information will never be shared with third parties without your consent. 
+In the event that another company acquires all or substantially all of the assets of our business through a consolidation, merger, asset purchase, or other transaction, we reserve the right to transfer all information (including any information a user may have provided through the “contact us” page) that is in our possession or under our control to such acquiring party.
 
-  
-PII collected on our website may be stored and processed in the United States or any other country in which we or our affiliates, subsidiaries, agents or customers maintain facilities.  You acknowledge and agree that personally identifiable information you provide to us may be transferred outside of the country in which you reside.  Providing such information will constitute your consent to any such transfer.
+**Information Security**
 
-If you would like for us to remove your information from our marketing e-mails or newsletters, please contact us at [marketing@247realmedia.com](mailto:marketing@247realmedia.com).  Be sure to include your name, username and clear instructions regarding any change to your PII including email address or if you would like us to unsubscribe you from our database. 
+We follow generally accepted industry standards to protect against the unauthorized access to, retention of, and disclosure of data.  This includes undertaking necessary physical, electronic, and management activities required to protect data integrity, access, and use. Any data that is stored on our servers is treated as confidential information.  Please keep in mind, however, that despite these reasonable efforts to protect data on our servers, no method of transmission over the Internet is guaranteed to be secure. Therefore, while we strive to protect your data at all times, we cannot guarantee its absolute security and shall not be liable for any breach of security by an outside party.
 
-If we make any material or substantive changes in the way that we use the PII collected through our corporate Website, we will post a clear and conspicuous notice of those changes on the Website and in this Privacy Policy.  We also invite you to contact us at [privacy@247realmedia.com](mailto:privacy@247realmedia.com) with any questions or concerns.
+**Data Retention**
 
-### Children’s Privacy
+We generally maintain the information we collect through our Services in non-aggregated form for a period of not more than thirteen months.  This data includes web sites visited, content viewed, ad interactions, IP addresses, browser type and language settings.
 
-We are sensitive to the issue of children’s privacy.  Therefore, our website, products, and Services are neither developed for, nor directed at, children.  If you believe your child has provided us with personally identifiable data, and you would like to have the data removed, please contact us at [privacy@247realmedia.com](mailto:privacy@247realmedia.com).
+We may maintain information we collect through our Services in an aggregated form for a period longer than thirteen months.
 
-### Linking to Other Sites
+**Your Use of and Correspondence on this Website**
 
-A link from our corporate web site to another web site does not imply our endorsement of that site. We do not control the sites to which we link and assume no responsibility for their content or privacy policies. Therefore, you should carefully review the privacy policies that apply to any sites you access from our site.
+We use cookies to understand and analyze the usage trends of our users on our corporate website.  If you provide us information through our "contact us" link on our corporate website, we will keep a record of the information you provide, including your email address and any other personally identifiable information you provide, solely for the purpose of responding to your inquiry or to provide you with relevant material.
 
-### Spam and E-mail lists
+Information collected on our website may be stored and processed in the United States or any other country in which we or our affiliates, subsidiaries, agents or customers maintain facilities. You acknowledge and agree that personally identifiable information you provide to us may be transferred outside of the country in which you reside.  Providing such information will constitute your consent to any such transfer.
 
-We do not intentionally send unsolicited e-mail messages that could be construed as spam.
+**Europe and Safe Harbor Principles**
 
-### Transfer of Data upon Change of Control
+Please note that in some countries an IP address is considered personal data by applicable law.  If we conduct business in such countries and we know that you are located in such a country, we will treat your IP address as personal data.
 
-In the event that another company acquires all or substantially all of the assets of our business through a consolidation, merger, asset purchase, or other transaction, we reserve the right to transfer all data (including any personally identifiable information a user may have provided through the “contact us” page) that is in our possession or under our control to such acquiring party.
+In such countries we interpose a “black box” that is operated by an independent third party and that separates the user’s IP address from other data we collect.
 
-### A Special Note about the European Union
+Xaxis for Publishers LT (formerly known as 24/7 Open AdStream LT), a service we primarily provide in Europe, places a cookie on your computer for the purpose of interest-based advertising as described above.  This service was certified with the TÜV Trusted IT Data Privacy Certification Seal on January 24, 2013.  You may opt out of interest-based advertising through the Xaxis for Publishers LT service by following the instructions in the section titled “User Choice”.
 
-In compliance with the Safe Harbor Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this Privacy Policy should first contact [privacy@247realmedia.com](mailto:privacy@247realmedia.com).
+We comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework, as set forth by the U.S. Department of Commerce, regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement.  To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor/>.
 
-The company complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company’s certification, please visit <http://www.export.gov/safeharbor/>
+In compliance with the Safe Harbor Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information on our website.  Citizens of the European Union or Switzerland with inquiries or complaints regarding this Privacy Policy should first contact [privacy@xaxis.com.](mailto:privacy@xaxis.com.)
 
-24/7 Real Media has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by 24/7 Real Media, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints ](http://www.bbb.org/us/safe-harbor-complaints)for more information and to file a complaint. 
+Xaxis has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus.  If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Xaxis, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information or to file a complaint.
 
-### Questions or Comments about this Privacy Policy
+**California**
 
-If you have questions or concerns regarding this statement, you should first contact us through email. You can address your general questions and comments by e-mail to [privacy@247realmedia.com](mailto:privacy@247realmedia.com) or by mail: 24/7 Real Media, Inc., 132 West 31st Street, 9th Floor, New York, New York 10001, Attn: Legal Department.  If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint&url=). TRUSTe will then serve as a liaison with the website to resolve your concerns.
+Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of personally identifiable information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the preceding calendar year.  In particular, the law provides that companies must inform consumers about the categories of personal information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties.  To request a copy of the information disclosure provided by Xaxis pursuant to Section 1798.83 of the California Civil Code, please contact us via the email or address stated below. Please allow 30 days for a response.
 
-_Updated on March 2, 2012_
+California law requires us to disclose how we respond to Web browser “Do Not Track” signals or other choice mechanisms relating to interest-based advertising.  Currently, there is no industry consensus with respect to the meaning of a “Do Not Track” signal and how operators of online services should respond to them.  As a result, we have not yet developed a response to browser “Do Not Track” signals, and do not change any of our data collection practices when we receive such signals.  We will continue to evaluate potential responses to “Do Not Track” signals in light of industry developments or legal changes. 
+
+We are committed to honoring your privacy choices, and, as noted in the “User Choice” section above, we provide a mechanism that allows you to opt out of interest-based advertising.
+
+**Questions or Comments about this Privacy Policy**
+
+If you have questions or concerns regarding this statement, you should contact us through email or by mail.  You can address your general questions and comments by e-mail to [privacy@xaxis.com](mailto:privacy@xaxis.com) or by mail to Xaxis, Inc., 132 West 31 Street, 11th Floor, New York, NY 10001, Attn: Legal Department.
