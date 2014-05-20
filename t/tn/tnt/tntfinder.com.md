@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tntfinder.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119115033id_/http%3A//www.tntfinder.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tntfinder.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520115403id_/http%3A//www.tntfinder.com/privacy-policy.html) for the most accurate reproduction.*
 
 # TNTFINDER Privacy Policy
 
