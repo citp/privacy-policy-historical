@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the minecraftprojects.net privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810052741id_/http%3A//www.minecraftprojects.net/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraftprojects.net privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520202955id_/http%3A//www.minecraftprojects.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
 
 
@@ -23,8 +23,8 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 Minecraftprojects may collect and use Users personal information for the following purposes:
 
-\- To run a promotion, contest, survey or other Site feature  
-    To send Users information they agreed to receive about topics we think will be of interest to them.
+To run a promotion, contest, survey or other Site feature  
+To send Users information they agreed to receive about topics we think will be of interest to them.
 
 **How we protect your information**
 
