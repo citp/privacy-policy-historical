@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hubbiz.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009214222id_/http%3A//hub.biz/c/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hubbiz.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520114411id_/http%3A//hub.biz/c/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - hub.biz
 
