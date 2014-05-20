@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relationshipsurgery.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108133529id_/http%3A//www.relationshipsurgery.com/index/default/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relationshipsurgery.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520201338id_/http%3A//www.relationshipsurgery.com/index/default/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -98,3 +98,5 @@ Any changes we may make to our privacy policy in the future will be posted on th
 ### CONTACT
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [admin@relationshipsurgery.com](mailto:admin@relationshipsurgery.com)
+
+Loading...
