@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markdownpad.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017030606id_/http%3A//markdownpad.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markdownpad.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520184331id_/http%3A//markdownpad.com/privacy.html) for the most accurate reproduction.*
 
 # MarkdownPad - Privacy Policy
 
