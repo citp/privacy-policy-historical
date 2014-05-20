@@ -1,103 +1,107 @@
-> *The following text is extracted and transformed from the cheapstuff.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210165521id_/http%3A//www.admedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapstuff.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520164047id_/http%3A//www.cheapstuff.com/privacy) for the most accurate reproduction.*
 
-# AdMedia Online Ad Network | Advertiser Solutions
+# Buy Cheap Stuff For Sale Online - Quality Goods.Low Prices
 
-THE FOLLOWING PRIVACY POLICY POLICYDETAILS THE ADMEDIA PLEDGE TO KEEPING YOUR INFORMATION PRIVATE.
+CheapStuff.com, a service of CheapStuff Inc. has created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for the www.CheapStuff.com.com site. 
 
-Effective Date: August 30, 2012
+## The following questions are answered below: 
 
-This privacy policy describes how AdMedia, Inc. ("AdMedia") collects and uses the personal information you provide on our Web sites: www.thankyouoffer.com, www.thankyouemail.com, www.remarketing.com, www.prerollstream.com, www.overlayad.com, www.midrollstream.com, www.intextual.com, www.footerroll.com, www.dittodomains.com, www.contextual.com, www.admobile.com, www.admediabrands.com, www.404bucks.com, www.admedia.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
-
-## What type of information does AdMedia collect?
-
-We collect the following personal information from you (Publishers ONLY):
-
-  * Contact Information such as name, email address, mailing address, phone number
-  * Billing Information
-  * Social Security Number
-
-
-
-## What does AdMedia do with my data?
-
-AdMedia only collects data to enhance and personally tailor our website to meet your needs. Personal information that is collected allows us to customize website content and generate targeted advertisements based on your particular preferences. Cookies help us distinguish between individual users, tailor fit homepages, control advertisement frequency, and so on.
-
-IP addresses help us diagnose server issues and help us administer AdMedia.com. Without your IP address it would be impossible to keep our services running 24/7, and we want to be here for you around the clock.
-
-Every email sent to AdMedia users is to meet your needs. We offer website updates, inform you of new features, allow you to register for special offers and sweepstakes, newsletters all for your enjoyment. If at any point these emails become annoying or bothersome, simply follow the unsubscribe mechanism in these emails or you can email [copyright@admedia.com](mailto:copyright@admedia.com).
-
-Also note that your email address helps AdMedia respond to any questions you have posed, issues you have encountered, or complaints made. We require your email address so we may address these issues.
-
-We may provide your personal information to companies that provide services to help us with our business activities such as payment processing, email communications and career fulfillment. These companies are authorized to use your personal information only as necessary to provide these services to us. We have a co-branding relationship with our service provider of our career page. The personal information that you enter is owned by AdMedia.
-
-We may also disclose your personal information
-
-  * as required by law, such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * to any other third party with your prior consent to do so.
-  * if AdMedia is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
-  * to any other third party with your prior consent to do so
+  1. What information does CheapStuff.com collect? 
+  2. What organization is collecting the information? 
+  3. What does CheapStuff.com do with the data it collects? 
+  4. With whom does CheapStuff.com share data? 
+  5. What choices are available regarding collection, use and distribution of the information (Opt Out Policy)? 
+  6. How can I update or correct my information? 
+  7. How can I delete my information? 
+  8. What procedures have been designed to protect the loss, misuse or alteration of information under CheapStuff.com's control? 
+  9. What about privacy policies for sites to which CheapStuff.com links? 
+  10. What happens to my information if CheapStuff.com merges with or is sold to another company? 
 
 
 
-## Cookies
+  
+If you have any questions about this privacy statement, the practices of this site or your dealings with this site, email copyright@CheapStuff.com. 
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+## What information does CheapStuff.com collect? 
 
-We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. 
+At different times, CheapStuff.com may collect several types of information about you. Except as otherwise stated in this privacy policy, we do not provide this information to third parties, except in aggregate form. 
 
-We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
+First, we or our partners or advertisers may use a feature of your browser called a cookie to assign identification to your computer. The unique user ID contained within your cookie automatically identifies your computer - but not you - to our servers every time you visit our site. Cookies by themselves cannot be used to find out the identity of any user. You can turn the cookies feature off by using your browser's preference options, but you may not be able to utilize some services properly. 
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as previously entered account information, will be limited. 
+Second, we keep track of your IP address to help diagnose problems with our servers and to administer our site. Your IP address is a number that identifies a computer which accesses the Internet. This address is used to gather broad demographic information about you, such as your Internet service provider and the geographic location of your IP address. CheapStuff.com may also collect aggregate information on how our users are utilizing the site. This might include information regarding traffic patterns through the site and search queries. 
 
-## Third Party Cookies
+Third, we log browser types, access times, URLs from which visitors came to our site and URLs viewed by visitors while on our site. Again, CheapStuff.com uses this information on an aggregate basis, in this case making sure we can support overall visitor traffic and service performance. 
 
-The use of cookies by third parties is not covered by our privacy policy. We do not have access or control over these cookies.
+Fourth, at specific times we may ask you to provide us with personal information in order for you to register for a service or to enter a sweepstakes. Also, you may also provide personal information if you write us feedback email. This information may include but is not limited to your name and email address. You may always choose not to provide us with this information; however, this may limit our ability to provide you with a specific service, offer you personalized content, or respond to your feedback. 
 
-## Clear Gifs (Web Beacons/Web Bugs)
+Fifth, we contract with 24/7 Real Media, a service partner, to provide us with a data collection and reporting service to better understand overall use of our site. 24/7 Real Media may store certain legacy data that we received from visitors to our site prior to our relationship with them, so that we may access this information via their reporting service. 24/7 Real Media may collect information on our behalf about our users' visiting behaviors in several ways, including through the use of cookies or pixel tags. We use 24/7 Real Media to understand what's popular and useful for visitors. 
 
-We employ and our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. This clear Gif placement allows AdMedia a seamless and unobtrusive way to retarget our users to ensure that all ads have been personally tailored to that individual. 
+## What organization is collecting the information? 
 
-Your IP address helps AdMedia diagnose server problems and helps us administer website functions. IP addresses provide us with geographical information and aggregated information on how visitors utilize AdMedia.com. By monitoring search queries, access times, and traffic patterns we can determine how to market users and make their experience more enjoyable.
+CheapStuff.com usually collects the requested information. However, CheapStuff.com has chosen select partners in order to provide certain services. In order to use certain services on the site, it may be necessary to enter information that then goes to our partner and is not kept by CheapStuff.com. The areas of our site in which partners are collecting information may be cobranded with our partners' logos. If you have questions regarding the privacy policy or data collection practices of one of our content partners, please contact that partner directly. 
 
-## Security
+We use third-party advertising companies and advertising networks to collect information and serve ads to you when you visit our site. These companies may use cookies, pixel tags, or otherwise independently collect information (not including your name, address email address or telephone number) from you and use this information about your visits to this and other sites in order to provide advertisements about goods and services of interest to you. We do not control their collection and use of information. Please note that if an advertiser or advertising network asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 13-24 who have viewed sports content) and you respond to that ad, the advertiser or advertising network may conclude that you fit the description of the audience they are trying to reach. 
 
-The security of your personal information is important to us. When you enter sensitive information (such as a social security number/Tax ID) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+To learn more about the collection of information by these third party advertising networks, including how to opt out of such collection, see the links below. 
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [copyright@admedia.com](mailto:copyright@admedia.com).
+To opt out of collection by AlmondNet, please visit: [http://www.almondnet.com/privacy.aspx?miid=7&artid=52](http://www.almondnet.com/privacy.aspx?miid=7&artid=52)
 
-## Public Forums
+To opt out of collection by Revenue Science, Inc., please visit: <http://www.networkadvertising.org/optout_nonppii.asp>
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [copyright@admedia.com](mailto:copyright@admedia.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+To opt out of collection by 24/7 Real Media, please visit: <http://www.247realmedia.com/opt-out.html>
 
-## Who else gets to see my personal information?
+## What does CheapStuff.com do with the data it collects? 
 
-When you request services from our business partners AdMedia will share your personal information with them, so that you can receive what you have requested. If you have any questions or concerns about an AdMedia business partner, you may contact them directly. AdMedia is not responsible for the data collection or privacy practices of business partners. Your personal information may also be shared with AdMedia owned businesses.
+Whenever CheapStuff.com collects data, the data is intended to tailor or improve the experience of visitors to our site. From the data collected we can customize content and advertising based on the user's preferences. We may use information from cookies to differentiate between unique users, personalize the site for each unique user, to control the frequency of individual advertisements directed to individual computers, and other purposes. In all cases, personally identifiable information is not shared with our advertisers, except as otherwise stated in this privacy policy. 
 
-Targeted advertisements enhance user experience, and so at times we may share specifically non personal information with advertisers, so that they may present you with relevant advertisements. Geographical information may be shared along with demographics, but we will never share personally identifiable information. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](http://preferences.truste.com/). Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+We use IP addresses to help diagnose problems with our server and to administer our site. It's the way we can make sure our service is available 24/7 to you. 
 
-## How do I delete my information from AdMedia?
+If you register for a service or to enter a sweepstakes, we may use the information we collect to provide the service to you or send communications regarding the sweepstakes. We may also send a newsletter by email to our users who opt to receive such emails. It is our policy to send these emails only to users who give us permission to do so. In every such email, we will also have instructions on how to unsubscribe and avoid receiving any future emails from us. CheapStuff.com also may contact you by email to respond to feedback you have submitted. 
 
-If your personal information changes, you may correct or update by logging into your account and going to Account Info or by emailing [copyright@admedia.com](mailto:copyright@admedia.com) or by contacting us by postal mail at the contact information listed below. If you no longer desire our service, please contact us at the contact information listed below in Contacting AdMedia.
+## With whom does CheapStuff.com share data? 
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [copyright@admedia.com](mailto:copyright@admedia.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+CheapStuff.com may disclose your personal information to our business partners in order to provide you with the services you have requested, or to companies that offer a cobranded version of our site. If you have questions regarding the privacy policy or data-collection practices of one of our business partners, please contact that partner directly. CheapStuff.com does not have control over and is not responsible for the data collection and use practices of our business partners. CheapStuff.com may also disclose your personal information to other members of the CheapStuff family of businesses. 
 
-At this current time it is not possible to completely delete your user information from the AdMedia database. If you are concerned with the security of your personal data you can remove the cookie stored on your browser, which will allow the server to perceive you as a new user. In the future you can change your browser setting to not accept cookies. Be aware that removing cookies does prevent you from participating in certain activities.
+We also may disclose your personal information (including without limitation IP addresses) to a third party if we believe in good faith that the law or legal process requires it, to protect the rights or property of CheapStuff.com or others, or as otherwise described in this privacy policy. 
 
-## Will I be notified of a security breach?
+We may disclose certain non-personally identifiable information about you to advertisers or other third parties in order to present you with targeted advertisements. We may share aggregate demographic information with our advertisers or information collection companies, but will not reveal any personally identifiable information in these instances. 
 
-AdMedia has taken many steps to ensure that your personal information is not made publicly available and that is only accessible to the user who originally entered it. However, in the event of an unlikely security breach, the user will be notified via email immediately.
+## What choices are available regarding collection, use and distribution of the information (Opt Out Policy)? 
 
-## Do linked sites honor your policy?
+As previously noted, you may always choose to not provide us with any of the information we request; however, this may limit our ability to provide you with a specific service or limit our ability to offer personalized content. 
 
-Linked sites are not run or controlled by AdMedia. The website does contain many linked sites so that we may offer you additional services and products that we feel you will enjoy. Each linked site is owned by an outside company; therefore, they have established their own polices in respect to privacy. AdMedia won't be held responsible for privacy practices or policies or content of linked sites. Also note that any personal information supplied to an outside advertiser is at your own risk.
+To learn more about the collection of information by these third party advertising networks, including how to opt out of such collection, see the links below. 
 
-## AdMedia will notify you of changes
+To opt out of collection by AlmondNet, please visit: [http://www.almondnet.com/privacy.aspx?miid=7&artid=52](http://www.almondnet.com/privacy.aspx?miid=7&artid=52)
 
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+To opt out of collection by Revenue Science, Inc., please visit: <http://www.networkadvertising.org/optout_nonppii.asp>
 
-## Contacting AdMedia
+To opt out of collection by 24/7 Real Media, please visit: <http://www.247realmedia.com/opt-out.html>
 
-In regards to privacy issues or the collection of personal data, any questions or concerns can be directed to our dedicated representatives. Please contact them by email at [copyright@admedia.com](mailto:copyright@admedia.com).
+## How can I update or correct my information? 
 
-AdMedia 901 W. Alameda Ave., Suite 102, Burbank, CA 91506
+CheapStuff.com does not currently have a method for users to change their user information. In the case of personalized services, you will be able to modify your user information through personalization links on those pages. 
+
+## How can I delete my information? 
+
+CheapStuff.com currently does not have a method for completely deleting user information from our database. However, deleting the cookie stored on your computer will cause you to be perceived as a new user with no known user data. You may also change a setting in your browser, instructing it not to accept cookies, but this could prevent you from receiving some CheapStuff.com services. 
+
+## What procedures have been designed to protect the loss, misuse or alteration of information under CheapStuff.com's control? 
+
+Except as otherwise stated in this privacy policy, CheapStuff.com has taken measures to ensure that information that is not publicly available through its site is accessible only to the user who initially entered the information or to authorized personnel at CheapStuff.com or its partners, and only after a password has been entered. In the unlikely event of a security breach for which we provide notice under Cal. Civ. Code Â§ 1798.82, CheapStuff will send a notification to the email address on file (if any) for each relevant user informing him or her of the security breach. 
+
+## What about privacy policies for sites to which CheapStuff.com links? 
+
+CheapStuff.com contains many links to Web sites not controlled by CheapStuff.com. These sites have their own policies and practices with respect to online privacy, and CheapStuff.com cannot be responsible for the privacy practices or the content of these Web sites. In addition, in certain instances a CheapStuff.com advertiser may ask you for personal information. CheapStuff.com cannot be responsible for the privacy practices of its advertisers. 
+
+## What happens to my information if CheapStuff.com merges with or its assets are sold to another company? 
+
+It is possible that CheapStuff.com and/or any of our assets may be acquired. In such a transaction, user information may be transferred to the acquiring entity. While we will endeavor to require the successor company to maintain this privacy policy, we cannot guarantee that our policy will remain in effect. 
+
+## Notification of Changes 
+
+This policy may be revised over time as new features are added to the site. We will post our new privacy policy, along with the date of its last revision, prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check this page for information about revisions to our privacy policy. 
+
+## Contact Information
+
+If you have any questions about this privacy policy or about CheapStuff.com information collection practices, please contact us at [copyright@CheapStuff.com ](mailto:copyright@CheapStuff.com)
