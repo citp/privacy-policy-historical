@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the macaronikid.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118131951id_/http%3A//national.macaronikid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macaronikid.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520034000id_/http%3A//national.macaronikid.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : Macaroni Kid
+# Privacy Policy | Macaroni Kid
 
 Your privacy is important to us.  So is getting you all the news and info you and your family need. Please review the following to see how we use your information to make that happen.  When you use Macaroni Kid, you are accepting these policies and procedures.  Should you have any questions about them, please contact us by email at [admin@macaronikid.com](mailto:admin@macaronikid.com) or by phone at 631.726.1412. Our Mailing Address is 860 Montauk Highway, Water Mill, NY 11976.
 
