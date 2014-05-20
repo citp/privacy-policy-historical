@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobigyaan.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118011041id_/http%3A//www.mobigyaan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobigyaan.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520110410id_/http%3A//www.mobigyaan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,12 +10,12 @@ MobiGyaan.com has created this privacy statement in order to demonstrate our fir
 The personal information you enter on MobiGyaan.com is not for sale. Using MobiGyaan.com will not cause you to receive unsolicited email.
 
 **Third Party Advertising**  
-Advertisements that appear on MobiGyaan.com are sometimes delivered (or “served”) directly to users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and web beacons to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the advertising network to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. MobiGyaan.com does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on MobiGyaan.com unless you choose to share it with them.
+Advertisements that appear on MobiGyaan.com are sometimes delivered (or "served") directly to users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and web beacons to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the advertising network to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. MobiGyaan.com does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on MobiGyaan.com unless you choose to share it with them.
 
 Our main third party advertiser is Google Adsense
 
   * Google, as a third party vendor, uses cookies to serve ads on your site.
-  * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 
