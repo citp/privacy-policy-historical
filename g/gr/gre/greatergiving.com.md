@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatergiving.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210022049id_/http%3A//www.greatergiving.com/Portals/0/docs/Security-Privacy-FinancialTransactions.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatergiving.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520061418id_/http%3A//greatergiving.com/Portals/0/docs/Security-Privacy-FinancialTransactions.pdf) for the most accurate reproduction.*
 
 # 
 
