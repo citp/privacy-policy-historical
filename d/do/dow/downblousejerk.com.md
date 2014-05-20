@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downblousejerk.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104124241id_/http%3A//www.downblousejerk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downblousejerk.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520084334id_/http%3A//www.downblousejerk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Downblouse Jerk
 
@@ -35,7 +35,7 @@ There may be occasions when you will be presented with special offers either fro
 
 The Site is not responsible or liable for the use of any information that a subscriber may provide, or that is gathered by third-party websites that have ads or links on the Site. This Site does not control, monitor or endorse the information gathering practices or Privacy Policies of any of those third-party websites. Whenever applicable, each subscriber should seek to read the Privacy Policy of any third-party website provider that has an advertising banner, advertises or has a link on the Site.
 
-If you have received unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to info[at]3dhotv.com
+If you have received unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to info[at]downblousejerk.com
 
 ### Security
 
