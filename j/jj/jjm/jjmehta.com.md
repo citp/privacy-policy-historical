@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jjmehta.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118090831id_/http%3A//jjmehta.com/shop/Privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jjmehta.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520123558id_/http%3A//jjmehta.com/shop/Privacy-statement.html) for the most accurate reproduction.*
 
-# jjmehta , J. J. Mehta & Sons - Digital Camera Store , in Mumbai
+# Privacy statement
 
 We respect your privacy!
 
