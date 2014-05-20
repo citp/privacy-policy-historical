@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silkn.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119122203id_/http%3A//www.silkn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silkn.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520150411id_/http%3A//www.silkn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Silkn.com
 
