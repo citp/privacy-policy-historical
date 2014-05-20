@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broderbund.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812130406id_/http%3A//www.broderbund.com/c-18-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broderbund.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520140355id_/http%3A//www.broderbund.com/c-18-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Broderbund | Official Software Site
 
@@ -110,7 +110,7 @@ When you provide personal information, we may offer you a choice as to whether y
 
 We strive to maintain the accuracy and integrity of the personal information in our databases and to keep that information up-to-date. We provide ways for you to access your personal information as required by applicable law, so that you can correct inaccuracies or update your personal information. 
 
-If you would like to review, correct or challenge your personal information, please log in to your account on [broderbund.com](https://web.archive.org/web/20130812130406id_/http%3A//www.broderbund.com/signin.aspx). 
+If you would like to review, correct or challenge your personal information, please log in to your account on [broderbund.com](https://web.archive.org/web/20140520140355id_/http%3A//www.broderbund.com/signin.aspx). 
 
 We will respond to reasonable requests within the time limits established by applicable law or within a reasonable time if no time limit is established by applicable law. For your protection, we may ask you for additional information to verify your identity. In most cases, we will provide the access you request and correct or delete any inaccurate personal information you discover. We reserve the right, however, to limit or deny your request to the extent permitted by applicable law if: 1) the disclosure may harm the life, the body, the property and the rights of third parties, 2) the disclosure may lead to a breach of applicable law and regulation, or 3) where you have failed to provide sufficient evidence to verify your identity. 
 
