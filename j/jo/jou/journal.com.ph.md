@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journal.com.ph privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105203628id_/http%3A//www.journal.com.ph/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journal.com.ph privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520122631id_/http%3A//journal.com.ph/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Journal Online
 
