@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazyengineers.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117071723id_/http%3A//www.crazyengineers.com/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyengineers.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520103721id_/http%3A//www.crazyengineers.com/pages/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | CrazyEngineers
 
