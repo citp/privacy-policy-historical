@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bridgestonetire.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219072749id_/http%3A//www.bridgestonetire.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridgestonetire.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520202203id_/http%3A//www.bridgestonetire.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bridgestone Tires
 
@@ -13,7 +13,7 @@ Bridgestone tires are engineered to perform. Explore the performance technologie
 
 [See What’s Inside](https://web.archive.org/performance)
 
-  * [Tires
+  * [Tire Catalog
 
 * * *
 
@@ -33,6 +33,11 @@ Explore our tire catalog to find the tire that’s right for you, or select a ti
 * * *
 
 ](https://web.archive.org/dealer)
+  * [Tread & Trend
+
+* * *
+
+](https://web.archive.org/tread-and-trend)
 
 
 
@@ -80,6 +85,8 @@ BATO uses a third-party service provider to improve our online performance and/o
   6. **Updates to this Privacy Policy.** If BATO decides to change or update this Privacy Policy, BATO will post changes and updates on this Site so that you will always be aware of what information BATO collects, uses and distributes. BATO encourages you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated.
 
   7. **Contacting BATO.** If you have any questions about BATO's Privacy Policy, please use the "Contact Us" section of this Site.
+
+  8. **Education Portal**. Material on the Bridgestone Education Portal is intended for educational purposes only.  It does not constitute, and should not be used as a replacement for, professional advice. Please consult with your local authorized Bridgestone Tire Retailer on your vehicle, tire needs and other factors to answer your questions and to determine the best Bridgestone tire for you.
 
 
 
