@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truthaboutfatburningfoods.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121023742id_/http%3A//truthaboutfatburningfoods.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthaboutfatburningfoods.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520025023id_/http%3A//www.truthaboutfatburningfoods.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
