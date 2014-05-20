@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the cookielaw.org privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117081102id_/http%3A//www.cookielaw.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookielaw.org privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520103937id_/http%3A//www.cookielaw.org/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | The Cookie Collective
 
-We are committed to protecting and respecting your privacy. The aim of this page is to explain how we may gather and use information about you through your use of this website and other software developed by us.  All use of such information is governed by the principles and practices set out in this statement.
+We are committed to protecting and respecting your privacy. The aim of this page is to explain how we may gather and use information about you through your use of this website and other software developed by us.  All use of such information is governed by the principles and practices set out in this statement.  
+
 
 **Key Points:**
 
@@ -10,9 +11,10 @@ We are committed to protecting and respecting your privacy. The aim of this page
   * By sending us information via a form on this site, you consent to our use of this information as explained on this page.
   * Your use of this site implies consent for the setting of cookies, unless you change your privacy preferences. For more information on the cookies we use see: [How We Use Cookies](https://web.archive.org/how-we-use-cookies/ "How We Use Cookies")
   * Any web usage statistics we collect, like which pages on the site are most visited, are anonymous.
-  * We have some common sharing tools on the site provided by Twitter, Google and Facebook. If you use their services elsewhere, they may be able to track your use of this site, unless you change your privacy preferences.
 
 
+
+**Last Update** : 20 Feb. 2014
 
 Who We Are
 
