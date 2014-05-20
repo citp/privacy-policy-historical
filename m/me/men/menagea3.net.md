@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the menagea3.net privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114034222id_/http%3A//www.ma3comic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menagea3.net privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520184153id_/http%3A//www.ma3comic.com/privacy) for the most accurate reproduction.*
 
 # Ménage à 3
 
-[](http://pixietrixcomixstore.bigcartel.com/)[](https://web.archive.org/web/20131114034222id_/http://www.ma3comic.com/privacy/index.html)
+[](http://pixietrixcomixstore.bigcartel.com/)[](https://web.archive.org/web/20140520184153id_/http%3A//www.ma3comic.com/index.html)
 
 **Cookies & 3rd Party Advertisements**
 
