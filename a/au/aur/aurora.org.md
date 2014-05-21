@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aurora.org privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818002507id_/http%3A//www.aurorahealthcare.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aurora.org privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521205053id_/http%3A//www.aurorahealthcare.org/privacy-policy) for the most accurate reproduction.*
 
 # Website privacy policy, Aurora Health Care
 
@@ -18,7 +18,7 @@ We reserve the right to modify or amend this Privacy Policy at any time. All cha
 
 ### Health Insurance Portability and Accountability Act of 1996 (HIPAA)
 
-Aurora Health Care's use and disclosure of certain of your information may be subject to the requirements of the Health Insurance Portability and Accountability Act of 1996, commonly referred to as HIPAA, as amended by the Health Information Technology for Economic and Clinical Health Act ("HITECH Act"). Any information that you submit to us that constitutes "Protected Health Information," as defined by HIPAA, is subject to HIPAA and HITECH. The term **"Protected Health Information"** or **"PHI"** refers to personally identifiable information about your past, present or future physical or mental health or condition, the provision of health care to you or the past, present or future payment for such care. If any information collected on this Website constitutes PHI, then our [Notice of Privacy Practices](https://web.archive.org/misc/privacy-statement/index.asp) will apply.
+Aurora Health Care's use and disclosure of certain of your information may be subject to the requirements of the Health Insurance Portability and Accountability Act of 1996, commonly referred to as HIPAA, as amended by the Health Information Technology for Economic and Clinical Health Act ("HITECH Act"). Any information that you submit to us that constitutes "Protected Health Information," as defined by HIPAA, is subject to HIPAA and HITECH. The term **"Protected Health Information"** or **"PHI"** refers to personally identifiable information about your past, present or future physical or mental health or condition, the provision of health care to you or the past, present or future payment for such care. If any information collected on this Website constitutes PHI, then our [Notice of Privacy Practices](https://web.archive.org/misc/privacy-statement/index.asp?ID=0008) will apply.
 
 ## Information We May Collect
 
@@ -94,7 +94,7 @@ No part of the Website, or any services made available through the Website, are 
 
 ### Contact Information
 
-If you have any questions or concerns about this Privacy Policy or Aurora Health Care's privacy practice, or access to you personal information, please contact us at the following:
+If you have any questions or concerns about this Privacy Policy or Aurora Health Care's privacy practice, or access to your personal information, please contact us at the following:
 
 Aurora Health Care Administrative Offices  
 750 West Virginia Street  
