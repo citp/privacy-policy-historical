@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the exclus1ves.co.za privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210011035id_/http%3A//www.exclus1ves.co.za/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclus1ves.co.za privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521114909id_/http%3A//www.exclus1ves.co.za/help/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Exclusives
 
   1. This privacy policy ("this Privacy Policy") must be read together with the Terms and Condition. Unless defined elsewhere, terms in this Privacy Policy shall bear the meaning ascribed to them in the Terms and Conditions.
   2. The Owner is committed to bringing You information tailored to Your individual needs and recognises the importance of protecting the privacy of personally identifiable information collected about our users. 
