@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the nfcworld.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522150416id_/http%3A//www.nfcworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfcworld.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521161836id_/http%3A//www.nfcworld.com/privacy) for the most accurate reproduction.*
 
-# Privacy • NFC World
+# Privacy • NFC World+
 
 This page explains how SJB Research uses the information you give to us, and the ways in which we protect your privacy.
 
 ### The Data Protection Act
 
-Under the UK's Data Protection Act we have a legal duty to protect any information we collect from you. We will only use your information for the purpose we have described and we do not pass on your details to any third party unless you give us permission to do so. We use appropriate security technologies to safeguard your data and take appropriate steps to prevent unauthorised access to it.
+Under the UK’s Data Protection Act we have a legal duty to protect any information we collect from you. We will only use your information for the purpose we have described and we do not pass on your details to any third party unless you give us permission to do so. We use appropriate security technologies to safeguard your data and take appropriate steps to prevent unauthorised access to it.
 
 ### Feedback and queries
 
@@ -26,9 +26,9 @@ Your use of this website constitutes your acceptance of this use of cookies and 
 
 #### Log files and analytics
 
-Log files allow us to record visitors' use of the site. They enable us to make changes to the layout of the site and to the information in it, based on the way that visitors move around it.
+Log files allow us to record visitors’ use of the site. They enable us to make changes to the layout of the site and to the information in it, based on the way that visitors move around it.
 
-We also use [Google Analytics](http://www.google.com/analytics/) and [Woopra](http://www.woopra.com/) to gather anonymised aggregate data for this purpose and we do not gather or make use of any personal information from which individuals can be identified.
+We also use [Google Analytics](http://www.google.com/analytics/), [Clicky](http://clicky.com/) and [Woopra](http://www.woopra.com/) to gather anonymised aggregate data for this purpose and we do not gather or make use of any personal information from which individuals can be identified.
 
 ### Mailing lists
 
