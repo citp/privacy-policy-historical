@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickedindia.net privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108001458id_/http%3A//www.clickedindia.net/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickedindia.net privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521213940id_/http%3A//www.clickedindia.net/policy) for the most accurate reproduction.*
 
 # Privacy Policy - Clickedindia
 
@@ -59,7 +59,7 @@ In addition, for the avoidance of doubt, clickedindia does not guarantee the Pro
   1. caused by outages to any public Internet backbones, networks or servers, 
   2. caused by any failures of Your equipment, systems or local access services, 
   3. for previously scheduled maintenance or 
-  4. relating to events beyond clickedindia’s (or its wholly owned subsidiaries’) control such as strikes, riots, insurrection, fires, floods, explosions, war, governmental action, labor conditions, earthquakes, natural disasters, or interruptions in Internet services to an area where clickedindia (or its wholly owned subsidiaries) or Your servers are located or co-located. 
+  4. relating to events beyond clickedindia�s (or its wholly owned subsidiaries�) control such as strikes, riots, insurrection, fires, floods, explosions, war, governmental action, labor conditions, earthquakes, natural disasters, or interruptions in Internet services to an area where clickedindia (or its wholly owned subsidiaries) or Your servers are located or co-located. 
 
 
 
