@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the longliveimagination.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231000036id_/http%3A//usa.canon.com/cusa/about_canon/standard_display/abtcan_lgl_privacy_misc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longliveimagination.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521234442id_/http%3A//usa.canon.com/cusa/about_canon/standard_display/abtcan_lgl_privacy_misc) for the most accurate reproduction.*
 
 # Canon U.S.A. : Privacy Statement - Your Privacy Rights
 
-Last updated: May 16, 2011
+Last updated: January 1, 2014
 
 Introduction
 
@@ -91,6 +91,10 @@ Some of our web sites may provide you with a choice as to whether you want to re
 
 **Interest-Based Marketing.** We contract with third-party advertising agencies, marketing partners and other service providers to serve advertisements when you visit our web site or other web sites across the Internet. The advertisements placed on these third-party web sites may use tracking technologies, such as cookies and web beacons, to collect anonymous information about your visits to this and other web sites. We may also share anonymous information with these companies in aggregate form and/or partner with these companies to provide interest-based advertising both on and off web sites operated by Canon USA. In either case, the purpose of the sharing is to provide advertisements about goods and services that may be of interest to you, analyzing and improving the effectiveness of ads and e-mails, and improving and enhancing our web site and its content.
 
+The Canon USA website is not currently configured to recognize “do not track” signals sent as a header by Internet browsers. However, other settings within your browser may permit you to block cookies or other technology that enable websites to collect information that can be used to tailor advertisements to your interest. Please check your browser’s settings or consult your browser’s help information for more details.
+
+As we describe above, to the extent that information is collected over time and across websites to help provide you with advertisements based on your interests, this information is anonymous and does not contain your Personal Information.
+
 **_User Generated Content_**
 
 We may provide areas on our web sites where you can, for example, post product reviews or reviews about our web site, ask or answer a question, communicate with others, and upload content (e.g. pictures, videos, audio files). Such postings, which may be administered by third-party service providers, are governed by our general Terms of Use and may also be subject to more specific terms that are integrated into that area of our web site. Service providers administering the postings may use tracking technology, such as cookies, to collect anonymous information about your posting. Additionally, such postings may appear on other web sites when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information can be collected and used by others. For example, if you post your e-mail address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information.
@@ -107,7 +111,7 @@ This Privacy Statement is intended to cover collection of information on our web
 
 **_Right to Change Internet Privacy Statement_**
 
-This Statement was last updated effective May 16, 2011. Canon USA reserves the right to change this Privacy Statement at any time. If we make any material changes to this Statement, we will notify you by posting the changes on our web site. Changes will be effective immediately upon posting on the web site. Your continued use of our web site following the postings of changes to these terms means you accept these changes.
+This Statement was last updated effective January 1, 2014. Canon USA reserves the right to change this Privacy Statement at any time. If we make any material changes to this Statement, we will notify you by posting the changes on our web site. Changes will be effective immediately upon posting on the web site. Your continued use of our web site following the postings of changes to these terms means you accept these changes.
 
 **_Your California Privacy Rights_**
 
