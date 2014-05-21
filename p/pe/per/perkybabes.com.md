@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perkybabes.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119113120id_/http%3A//www.perkybabes.com/page%3Fprivacy%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perkybabes.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521221648id_/http%3A//www.perkybabes.com/page%3Fprivacy%3D1) for the most accurate reproduction.*
 
 # Busty babes | Perky Babes
 
