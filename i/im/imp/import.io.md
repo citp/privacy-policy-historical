@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the import.io privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205081457id_/http%3A//import.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the import.io privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522004022id_/https%3A//import.io/privacy) for the most accurate reproduction.*
 
-# import•io - Privacy
+# Privacy | import.io
 
 This privacy policy sets out how import•io uses and protects any information that you give import•io when you use [import.io](http://import.io/), [blog.import.io](http://blog.import.io/) (including the [tech blog](http://blog.import.io/tech-blog/) and [status blog](http://blog.import.io/status-blog/)), [docs.import.io](http://docs.import.io/), [up.import.io](http://up.import.io/), and any current or future sub-domains (our sites).
 
