@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acousticguitar.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117052835id_/http%3A//www.acousticguitar.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acousticguitar.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521052428id_/http%3A//www.acousticguitar.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy / Acoustic Guitar
 
@@ -7,10 +7,10 @@ String Letter Publishing recognizes the importance of protecting the privacy of 
 **Our location and contact information:**    
 Privacy Matters   
 String Letter Publishing   
-PO Box 767   
-San Anselmo, CA 94979   
-Phone (415) 485-6946   
-Fax (415) 485-0831 
+501 Canal Blvd, Suite J   
+Richmond, CA 94804  
+Phone (510) 215-0010   
+Fax (510) 231-5824 
 
 **Collected Information  **  
 The information we collect is gathered from several sources, which include product subscriptions, purchases or registrations, either from print or online forms; reader service cards; website message postings; survey information and direct or indirect purchases via telephone, direct mail, email, and other electronic sources. From these sources we may collect postal addresses, e-mail addresses, telephone numbers, and/or demographic information for those individuals that volunteer such information. For each visitor to our websites, our web server automatically recognizes the visitor’s domain name and IP address only. No other identifiable information is collected unless volunteered. In addition, we collect aggregate information on what web pages visitors visit. 
