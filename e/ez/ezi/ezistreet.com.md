@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ezistreet.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118195741id_/http%3A//www.ezistreet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezistreet.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521170409id_/http%3A//www.ezistreet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At EziStreet. Com, we are focused on protecting our users privacy. This “Privacy Policy” details the privacy policies governing our website, use, and disclosure info. So as to ensure your privacy, info we collect can be used only in the ways and purposes described below.
+At EziStreet. Com, we are focused on protecting our users privacy. This “Privacy Policy” details the privacy policies governing our website, use, and disclosure info. So as to ensure your privacy, info we collect can be used only in the ways and purposes described below.
 
 ## Registration:
 
@@ -18,7 +18,7 @@ If you ever desire to be taken off our database, just contact us and we’ll be 
 
 ## Cookies:
 
-We use a feature of  internet browsers known as “cookie, ” a small file that may be saved to your laptop or computer as you browse our website. This permits us to maintain user choices and track user trends and search usage. We use cookies to boost the standard of the Ezistreet. Com services and better know how users connect to us. We do not and cannot use Cookies to retrieve individual private info through your laptop or computer. The cookie technology we use cannot obtain information through your hard drive or give your computer a virus. You could reset your browser to prevent cookies as well as to show when a cookie has been sent. Nevertheless , some Ezistreet. Com features or services might not  function correctly without cookies e.g the affiliate program.
+We use a feature of  internet browsers known as “cookie, ” a small file that may be saved to your laptop or computer as you browse our website. This permits us to maintain user choices and track user trends and search usage. We use cookies to boost the standard of the Ezistreet. Com services and better know how users connect to us. We do not and cannot use Cookies to retrieve individual private info through your laptop or computer. The cookie technology we use cannot obtain information through your hard drive or give your computer a virus. You could reset your browser to prevent cookies as well as to show when a cookie has been sent. Nevertheless , some Ezistreet. Com features or services might not function correctly without cookies e.g the affiliate program.
 
 ## Information security:
 
