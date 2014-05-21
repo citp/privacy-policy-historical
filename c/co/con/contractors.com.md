@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contractors.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027052911id_/http%3A//www.contractors.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contractors.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521161258id_/http%3A//www.contractors.com/privacy-policy) for the most accurate reproduction.*
 
 # Contractors.com | The Official Contractor Network™ | Find a Contractor
 
@@ -18,7 +18,7 @@ By submitting personal contact and/or financial information to Contractors.com t
 
 ### Opt-Out Opportunity
 
-Contractors.com registrants may opt-out of receiving further e-mail communications from Contractors.com at any time by following the "unsubscribe" instructions in any Contractors.com e-mail received by registrant. Please note that unsubscribing from the Contractors.com email list does not automatically unsubscribe you from an email list of our affiliates, business partners, or other third parties. Please read the email carefully to find out which list you are unsubscribing from. You may opt-out of other direct contact from us, including, without limitation, contact by phone or communications via postal mail, but sending written notice to 3000F Danville Blvd. #151, Alamo, CA 94507. Please note that it may take up to ten days to process your request. Your request to be removed from future communications applies only to communications directly from Contractors.com. You should contact our affiliates, business partners, or other third parties directly for opt-out instructions. 
+Contractors.com registrants may opt-out of receiving further e-mail communications from Contractors.com at any time by following the "unsubscribe" instructions in any Contractors.com e-mail received by registrant. Please note that unsubscribing from the Contractors.com email list does not automatically unsubscribe you from email list of our affiliates, business partners, or other third parties. Please read the email carefully to find out which list you are unsubscribing from. You may opt-out of other direct contact from us, including, without limitation, contact by phone or communications via postal mail. Please send written communication to; 3000F Danville Blvd. #151, Alamo, CA 94507. Please note that it may take up to ten days to process your request. Your request to be removed from future communications applies only to communications directly from Contractors.com. You should contact our affiliates, business partners, or other third parties directly for opt-out instructions. 
 
 ### Security
 
