@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the crainscleveland.com privacy policy that was archived on 2013-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131217084948id_/http%3A//www.crainscleveland.com/apps/pbcs.dll/qwikNavsearch%3FQwikNav%3Dprivacy_home) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crainscleveland.com privacy policy that was archived on 2014-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140521165013id_/http%3A//www.crainscleveland.com/apps/pbcs.dll/qwikNavsearch%3FQwikNav%3Dprivacy_home) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <title> - Cleveland Business News - Northeast Ohio and Cleveland - Crain's Cleveland Business </title>
@@ -73,7 +73,22 @@ var CCI = CCI || {};
 			// listpos
 	// articles
 	// static articles
-	OAS_listpos = 'Top2,Right1,Bottom2,Bottom3';
+	OAS_listpos = 'Top2,Right1,Bottom2';
+(function() {
+	var hash = location.hash.replace(/#/g,"").toLowerCase() || 0;
+    var	hashArr = hash ? hash.split("&") : [];
+	if (hash) {
+    	// if (OAS_sitePath.match("/article_")) { // KPH 20140325 want to expand this to sectionfronts, so removing this conditional
+    	    for (i=0;i<hashArr.length;i++) {
+        		var hashMatch = hashArr[i].match(/^email_[^&]+$/) || 0;
+        		if (hashMatch) {
+        			OAS_sitePath = hashMatch[0];
+        			break;
+        		}
+            }
+        // }
+    }
+})();
 			var OAS_sitepage = OAS_siteRoot + "/" + OAS_sitePath;
 			if(typeof CCI != 'undefined' && typeof CCI.CurrentUser != 'undefined' && CCI.CurrentUser !== null && typeof CCI.CurrentUser.OASQuery != 'undefined')
 			{
@@ -91,15 +106,50 @@ var CCI = CCI || {};
 				<script type="text/javascript">
 				if (OAS_sitepage != "" && OAS_listpos != "") {
 					document.write('<scr' + 'ipt type="text/javascript" src="'+ OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/scr' + 'ipt>');
+					var OAS_AD = function(pos) {
+						OAS_RICH(pos); // if site switched from OAS_AD to OAS_RICH but hasn't updated in-page tagging
+					};
 				} else {
 					var OAS_RICH = function(pos) {
 						// do nothing
 					};
 				}
-				</script><script type="text/javascript" src="http://oascentral.crainscleveland.com/RealMedia/ads/adstream_mjx.ads/www.crainscleveland.com/static-pages/article_2005042150420007/1409866304736374@Top2,Right1,Bottom2,Bottom3?q=ad"></script>
+				</script><script type="text/javascript" src="http://oascentral.crainscleveland.com/RealMedia/ads/adstream_mjx.ads/www.crainscleveland.com/static-pages/article_2005042150420007/19669199704321172@Top2,Right1,Bottom2?q=ad"></script>
 	<!-- End OAS -->
-<!-- pbs:macro name="cci/services-inner" cci_currcatname="STATIC PAGES" cci_currmaincatname="STATIC PAGES" cci_articleInfo="{'ArtNo':'50420007','AID':'20050421/STATIC/50420007','GUID':'BE62F17E-E719-46B2-AE02-D2AD858EF46C','Author': '','Title':'Privacy%20Policy','URL':'/article/20050421/STATIC/50420007','ISOPubDate':'20050421','ShortDate':'04/21/2005 04:30 a.m.','ExtendedDate':'Thu, 21 Apr 2005 04:30:00 -0500','Summary':'Your%20use%20of%20our%20web%20site%20indicates%20to%20us%20that%20you%20have%20read%20and%20accepted%20our%20Privacy%20Policy%20and%20our%20Terms%20and%20Conditions.','Theme':'','TaxonomyWords':[],'ExtLogin':0, 'Status':'9','AccessControl':false,'ExtLoginGlobalVar':'0','ConnectionItems':{}}" noparse -->
-<!-- services tags generated at 4:48 am 12/17/2013 -->
+	<script type="text/javascript">
+	CCI.Disqus = {
+		/*
+		// notprodreasons: 
+		// 
+		*/
+		// general
+		"disqus_shortname": "crainscleveland",
+		// stories
+		"disqus_identifier": "BE62F17E-E719-46B2-AE02-D2AD858EF46C", // use article GUID, fallback to currentrequest for other pages
+		"disqus_title": "Privacy%20Policy",
+		"disqus_url": "http://www.crainscleveland.com/article/20050421/STATIC/50420007/privacy-policy",
+		// sso
+		"disqus_message": (function() {
+			var msg = null;
+			try {
+				msg = CCI.util.readCookie({"name":"CSDisqus"});
+				if (msg) {
+					msg = msg.replace(/"/g,"");
+				}
+			} catch(e) {};
+			return msg;
+		})(),
+		"disqus_siteDisplayName": "Crain's Cleveland Business",
+		"disqus_siteButtonImage": "http://www.crainscleveland.com/assets/login-button.png",
+		"disqus_popupWidth": "800",
+		"disqus_popupHeight": "400",
+		"disqus_loginURL": "https://home.crainscleveland.com/clickshare/cspLogin.do?CSPopup=true&CSTargetURL=http://www.crainscleveland.com/global/html/disqus-login.html",
+		"disqus_logoutURL": "https://home.crainscleveland.com/clickshare/logout.do?CSTargetURL=" + location.href
+	};
+	// no disqus-custom.pbo for site CC
+	</script>
+<!-- pbs:macro name="cci/services-inner" cci_currcatname="STATIC PAGES" cci_currmaincatname="STATIC PAGES" cci_articleInfo="{'ArtNo':'50420007','AID':'20050421/STATIC/50420007','GUID':'BE62F17E-E719-46B2-AE02-D2AD858EF46C','Author': '','Title':'Privacy%20Policy','URL':'/article/20050421/STATIC/50420007','ISOPubDate':'20050421','ShortDate':'04/21/2005 04:30 a.m.','ExtendedDate':'Thu, 21 Apr 2005 04:30:00 -0400','Summary':'Your%20use%20of%20our%20web%20site%20indicates%20to%20us%20that%20you%20have%20read%20and%20accepted%20our%20Privacy%20Policy%20and%20our%20Terms%20and%20Conditions.','Theme':'','TaxonomyWords':[],'ExtLogin':0, 'Status':'9','AccessControl':false,'ExtLoginGlobalVar':'0','ConnectionItems':{}}" noparse -->
+<!-- services tags generated at 12:47 pm 5/21/2014 -->
 
 
 <script language="Javascript" type="text/javascript">
@@ -110,36 +160,18 @@ var CCI = CCI || {};
 
 <script language="JavaScript1.2" src="/inc/scripts.js" type="text/javascript"></script>
 <script type="text/javascript" src="/inc/fontsizer.js"></script>
-<link href="/inc/style.css?ver=20100630" rel="stylesheet" type="text/css" title="MainCSS">
-<link href="/inc/style_med.css?ver=20100630" rel="alternate stylesheet" type="text/css" title="Medstyle">
-<link href="/inc/style_lge.css?ver=20100630" rel="alternate stylesheet" type="text/css" title="Lgestyle">
-
-<!--[if IE]>
-<style type="text/css" media="screen">
- .nav_box ul li {float: left; width: 100%;}
- .nav_box ul li ul li {width:100%;}
-</style>
-<![endif]-->
-<!--[if lt IE 7]>
-<style type="text/css" media="screen">
-body {
-behavior: url(includes/csshover3.htc);
-font-size: 100%;
-}
-
-.nav_box ul li a {height: 1%;}
-
-.nav_box ul li ul li {
-display:inline;
-}
-</style>
-<![endif]-->
-
 <script type="text/javascript" src="/js/pollMiniAjax.js"></script>
-<link href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/themes/smoothness/jquery-ui.min.css">
+<link rel="stylesheet" href="/css/prettyPhoto.css?v=201404161541">
+<link rel="stylesheet" href="/css/jquery.mCustomScrollbar.css">
+<link rel="stylesheet" href="/css/style.css?v=201405201136">
+<link href="/css/dropdown.css?v=201404111117" rel="stylesheet">
+<!--[if IE 6]><link href="/css/style-ie6.css?v=201405122222" rel="stylesheet" /><![endif]-->
+<!--[if IE 7]><link href="/css/style-ie7.css?v=201405122222" rel="stylesheet" /><![endif]-->
+
 </head>
 <body text="#000000" link="#333333" vlink="#999966" alink="#999966" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('/graphics/global/navbar/headlines_r.gif','/graphics/global/navbar/events_r.gif','/graphics/global/navbar/blists_r.gif','/graphics/global/navbar/advertise_r.gif','/graphics/global/navbar/subscribe_r.gif','/graphics/global/navbar/archives_r.gif','/graphics/global/navbar/classifieds_r.gif','/graphics/global/navbar/text1_r.gif','/graphics/global/navbar/text2_r.gif','/graphics/global/navbar/text3_r.gif','/graphics/global/navbar/manufacturing_r.gif','/graphics/global/navbar/healthcare_r.gif','/graphics/global/navbar/realestate_r.gif','/graphics/global/navbar/finance_r.gif','/graphics/global/navbar/technology_r.gif','/graphics/global/navbar/indepth_r.gif','/graphics/global/navbar/gov_r.gif','/graphics/global/navbar/sub_signin_r.gif','/graphics/global/navbar/sub_register_r.gif');">
-<!-- macro cachequalifiers: currcategory,@storyid,@cci_extLogin,template,profile,type,navigatorlist,q,crit,industrysearch,types,module,start,class -->
+<!-- macro cachequalifiers: currcategory,@storyid,@cci_extLogin,template,profile,type,navigatorlist,q,crit,industrysearch,types,module,start,class,companyId,cci_FrameVideoTracking -->
 <!-- SiteCatalyst code version: H.25.4.
 Copyright 1996-2011 Adobe, Inc. All Rights Reserved
 More info available at http://www.omniture.com -->
@@ -151,7 +183,7 @@ var s_isShortArticle = false;
 var s_isMeteredArticle = false;
 var s_loggedInCookie = "CSDemos";
 </script>
-<script language="JavaScript" type="text/javascript" src="/global/js/omniture/s_crainsc.js?ver=V21"></script>
+<script language="JavaScript" type="text/javascript" src="/global/js/omniture/s_crainsc.js?ver=V24"></script>
 <script language="JavaScript" type="text/javascript">
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
@@ -184,17 +216,17 @@ if(s_code)document.write(s_code);
 </script>
 <div style="display:none;position:absolute;left:-9999px;">
 <noscript>
-	<img src="http://crain.d1.sc.omtrdc.net/b/ss/craincleveland/1/H.25.4--NS/0" height="1" width="1" border="0" />
+    <img src="http://crain.d1.sc.omtrdc.net/b/ss/craincleveland/1/H.25.4--NS/0" height="1" width="1" border="0" />
 </noscript>
 </div>
 <!-- End SiteCatalyst code version: H.25.4. -->
-<!-- omniture-inner.pbo cached at 4:48 am 12/17/2013 -->
-<!-- Omniture tag generated at 4:48 am 12/17/2013 -->
+<!-- omniture-inner.pbo cached at 12:47 pm 5/21/2014 -->
+<!-- Omniture tag generated at 12:47 pm 5/21/2014 -->
 
 		<div id="cci-interstitial">
 		<link href="/global/css/interstitial.css?ver=20130503" rel="stylesheet" type="text/css">
-		<script src="/global/js/cci-ads-inter.js?ver=20130422" type="text/javascript"></script>
-		<script src="/global/js/blockUI.js" type="text/javascript"></script>
+		<script src="/global/js/cci-ads-inter.js?ver=20140414" type="text/javascript"></script>
+		<script src="/global/js/jquery/jquery.blockUI-2.64.0-2013.07.18.js" type="text/javascript"></script>
 		<script type="text/javascript" src="/section/cci-static?template=interstitialJS&amp;mime=text%2Fjavascript"></script>
 		</div>
 <!-- cci_onErrorPage: /apps/pbcs.dll/article?AID=/20050421/STATIC/50420007 -->
@@ -212,88 +244,30 @@ pageTracker._initData();
 pageTracker._trackPageview();
 </script>
 
- &nbsp; 
-
-<table width="980" border="0" valign="top" align="center">
-				<tbody><tr>
-					<td width="100%">
-						<table>
-							<tbody><tr>
-
-<td width="6"> &nbsp; </td>
-
-<td><a href="http://www.crainscleveland.com"><img src="/graphics/global/flag_cclblogo.gif" width="222" border="0" alt="Crain's Cleveland Business"></a></td>
-
-<td width="10"> &nbsp; </td>
-
-								<td width="728">
-								<!-- date, style-size guide, ad -->
-									<table width="728">
-
-										<tbody><tr>
-											<td colspan="4">
-											<div align="center">
-											<script language="Javascript" type="text/javascript">
-											<!--
-											OAS_RICH('Top2');
-											//-->
-											</script>
-											</div>
-											</td>
-										</tr>
-
-									</tbody></table>
-								</td>
-
-							</tr>
-						</tbody></table>
-
-<table width="980" border="0" align="center" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td style="padding-top:6px;">
-
-<table border="0" width="255" align="left" cellpadding="0" cellspacing="0">
-<tbody><tr>
-	<td align="left" valign="top" style="padding-top:6px;">
-
-
-	<img src="/graphics/global/navbar/sitesearch2.gif" border="0" align="left">
-	</td>
-
-	<td style="padding-top:6px;">
-
-
-
-														<form name="search" method="post" action="/apps/pbcs.dll/search?Category=SEARCH">
-														
-														<input type="hidden" name="ExcludeCategories" value="STATIC">
-														<input type="hidden" name="SearchCategory" value="2020;MULTI;SUB1;SUB;FREE;REG;FORTY06;FORTY07;FORTY08;FORTY09;FORTY10;FORTY11;FORTY12;FORTY13;HOWTO;DAYINLIFE;CFO08;CFO09;CFO10;CFO11;CFO12;CFO13;BLOGS01;BLOGS02;BLOGS03;BLOGS04;BLOGS6;HEROES09;HEROES10;HEROES11;HEROES12;HEROES13;LUXVEHICLE;TWENTY08;TWENTY09;TWENTY10;TWENTY11;WOMEN06;WOMEN07;WOMEN08;WOMEN09;WOMEN10;WOMEN11;WOMEN12;WOMEN13;whobusiness10;whobusiness12;wholaw13;whoswho;SHALE_magazine">
-														<input type="hidden" name="enddate" value="">
-														<input name="crit" type="text" size="20" style="select">
-                            
-	</form></td>
-
-	<td style="padding-top:6px;">
-														<input type="image" src="/graphics/global/go.gif" align="right" alt="Go!">
-														
-	</td>
-</tr>
-</tbody></table>
-
-
-
-
-<table width="240" align="left" cellpadding="0" cellspacing="0">
-<tbody><tr>
-	<td align="center" valign="top" style="padding-top:13px;">
-	
+<div id="topRow1">
+	<a href="http://www.crainscleveland.com"><img id="topRow1Logo" src="/graphics/global/flag_cclblogo.gif" alt="Crain's Clevleand Business"></a>
+	<div id="topAd728x90"><script>OAS_RICH('Top2')</script></div>
+	<div class="clearL"></div>
+</div>
+<div id="topRow2">
+	<div id="topRow2SearchContainer">
+		<form name="search" method="post" action="/apps/pbcs.dll/search?Category=search">
+			<input type="hidden" name="ExcludeCategories" value="STATIC">
+			<input type="hidden" name="SearchCategory" value="2020;MULTI;SUB1;SUB;FREE;REG;FORTY06;FORTY07;FORTY08;FORTY09;FORTY10;FORTY11;FORTY12;FORTY13;HOWTO;DAYINLIFE;CFO08;CFO09;CFO10;CFO11;CFO12;CFO13;BLOGS01;BLOGS02;BLOGS03;BLOGS04;BLOGS6;HEROES09;HEROES10;HEROES11;HEROES12;HEROES13;LUXVEHICLE;TWENTY08;TWENTY09;TWENTY10;TWENTY11;WOMEN06;WOMEN07;WOMEN08;WOMEN09;WOMEN10;WOMEN11;WOMEN12;WOMEN13;whobusiness10;whobusiness12;wholaw13;whoswho;SHALE_magazine">
+			<input type="hidden" name="enddate" value="">
+			Site Search:
+			<input id="topRow2SearchText" name="crit" type="text" size="20" style="select">
+			<input type="submit" value="GO!">
+		</form>
+	</div>
+	<div id="topRow2SessionInfo">
 
 
 
 <script type="text/javascript">
 	var CCI = CCI || {};
 	CCI.AccessControl = CCI.AccessControl || {};
-	CCI.AccessControl.meterSubscribeURL = "https://home.crainscleveland.com/clickshare/advantageRedirect.do?URL=https://sec.crain.com/CL/launchpad.aspx?p=W3CLMET&d=order" // W3CLMET
+	CCI.AccessControl.meterSubscribeURL = "https://home.crainscleveland.com/clickshare/advantageRedirect.do?URL=https://sec.crain.com/CL/launchpad.aspx?p=W4CLMET&d=order" // W4CLMET
 </script>
 
 <a href="https://home.crainscleveland.com/clickshare/logout.do?CSResumeURL=/clickshare/authenticateUserSubscription.do?CSAuthReq=1&amp;CSTargetURL=http%253A%252F%252Fwww.crainscleveland.com%252Farticle%252F20050421%252FSTATIC%252F50420007" class="cci-clickshare-auth-url red">SIGN IN</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://home.crainscleveland.com/clickshare/addAccountFree.do?CSTargetURL=http://www.crainscleveland.com/article/20050421/STATIC/50420007" class="red">REGISTER</a>
@@ -341,248 +315,76 @@ pageTracker._trackPageview();
 
 	</td>
 	*/
-	-->
-	</td>
-</tr>
-</tbody></table>
-
-
-
-<table width="175" align="left" cellpadding="0" cellspacing="0">
-<tbody><tr>
-	<td align="center" valign="top">
-
-
-
-					<a href="https://sec.crain.com/CL/QuickOrder.aspx?PromotionCode=W3CLMET"><img src="/graphics/images/btn_social_crains.png" width="90"></a>
-					<a href="http://www.crainscleveland.com/section/email_products"><img src="/graphics/images/btn_social_email.png" width="65"></a>
-	</td>
-</tr>
-</tbody></table>
-
-
-<table width="175" align="left" cellpadding="0" cellspacing="0">
-<tbody><tr>
-	<td align="center" border="0" valign="top">
-
-
-					<a href="https://plus.google.com/110155369934252608481?prsrc=3" style="text-decoration:none;"><img src="https://ssl.gstatic.com/images/icons/gplus-32.png" alt="" style="border:0;width:20px;padding-right:10px"></a>
-					<a href="http://www.facebook.com/crainscleveland"><img src="/graphics/images/btn_social_fb.png" width="34"></a>
-					<a href="http://twitter.com/CrainsCleveland"><img src="/graphics/images/btn_social_twitter.png" width="32"></a>
-					<a href="/section/rss"><img src="/graphics/images/btn_social_rss.png" width="21" height="30"></a>
-					<a href="http://www.instagram.com/crainscleveland"><img src="/graphics/images/Instagram_logo.png" width="32"></a>
-
-
-
-	</td>
-</tr>
-</tbody></table>
-
-
-
-<table width="130" align="right" cellpadding="0" cellspacing="0">
-<tbody><tr>
-	<td align="right" valign="top" style="padding-top:8px;">
-
-
-
-	Text Size: 
-			<a href="javascript:setActiveStyleSheet('MainCSS')" onmouseover="MM_swapImage('text1','','/graphics/global/navbar/text1_r.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/graphics/global/navbar/text1.gif" name="text1" width="14" height="19" border="0" id="text1"></a>
-                	<a href="javascript:setActiveStyleSheet('Medstyle')" onmouseover="MM_swapImage('text2','','/graphics/global/navbar/text2_r.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/graphics/global/navbar/text2.gif" name="text2" width="15" height="19" border="0" id="text2"></a>
-                	<a href="javascript:setActiveStyleSheet('Lgestyle')" onmouseover="MM_swapImage('text3','','/graphics/global/navbar/text3_r.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/graphics/global/navbar/text3.gif" name="text3" width="19" height="19" border="0" id="text3"></a>										
-
-
-
-
-	</td>
-</tr>
-</tbody></table>
-
-
-</td>
-</tr>
-
-									<tr><td height="6"></td></tr>
-</tbody></table>
-
-	<!--BEGIN DROP DOWN MENU AREA-->
-	<link href="/css/dropdown.css" rel="stylesheet" type="text/css">
-<div id="centeredmenu">
-
-<ul>
-
-<li><a href="/apps/pbcs.dll/section?Category=TOC" class="trigger">THIS WEEK'S ISSUE</a>
-<ul>
-
-<li><a href="/apps/pbcs.dll/section?Category=TOC">This Week's issue</a></li>
-						
-					
-
-</ul>
-</li>
-
-<li><a href="/section/breaking" class="trigger">NEWS</a>
-<ul>
- 						<li><a href="/section/breaking">Breaking news</a></li>		
-						<li><a href="/section/round">Ohio News</a></li>
-						<li><a href="/section/MAN">Manufacturing</a></li>
- 						<li><a href="/section/HEALTH">Health Care</a></li>
- 						<li><a href="/section/FIN">Financial/Legal</a></li>
- 						<li><a href="/section/GOV">Government/Nonprofit</a></li>
- 						<li><a href="/section/staffing">HR/Staffing News</a></li>
- 						<li><a href="/section/Ohio_Energy">Ohio Energy</a></li>
- 						<li><a href="/section/REALESTATE">Real Estate</a></li>
- 						<li><a href="/section/smallbusiness">Small Business</a></li>
- 						<li><a href="/section/TECH">Technology</a></li>
-
-</ul>
-</li>
-
-<li><a href="/section/BLOGS" class="trigger">BLOGS</a>
-<ul>
-						
-							<li><a href="/section/blogs01">Brian Tucker Blogs&nbsp;&nbsp;<img src="http://www.crainscleveland.com/graphics/silo/unlock_Icon.png" border="0" alt="FREE ARTICLE" title="FREE ARTICLE"></a>
-</li>
-							<li><a href="/section/blogs03">Scott Suttell Blogs&nbsp;&nbsp;<img src="http://www.crainscleveland.com/graphics/silo/unlock_Icon.png" border="0" alt="FREE ARTICLE" title="FREE ARTICLE"></a>
-</li>
-							<li><a href="/section/blogs06">Kevin Kleps Blogs&nbsp;&nbsp;<img src="http://www.crainscleveland.com/graphics/silo/unlock_Icon.png" border="0" alt="FREE ARTICLE" title="FREE ARTICLE"></a>
-</li>							<li><a href="/section/blogs07">Tim Magaw Blogs&nbsp;&nbsp;<img src="http://www.crainscleveland.com/graphics/silo/unlock_Icon.png" border="0" alt="FREE ARTICLE" title="FREE ARTICLE"></a>
-
-
-
-</li>
-							<li><a href="/section/blogs02">Kathy Carr Blogs&nbsp;&nbsp;<img src="http://www.crainscleveland.com/graphics/silo/unlock_Icon.png" border="0" alt="FREE ARTICLE" title="FREE ARTICLE"></a>
-</li>
-							<li><a href="/section/blogs05">Guest Blogs&nbsp;&nbsp;<img src="http://www.crainscleveland.com/graphics/silo/unlock_Icon.png" border="0" alt="FREE ARTICLE" title="FREE ARTICLE"></a>
-</li>
-</ul>
-</li>
-
-
-<li><a href="/section/SHALEmagazine" class="trigger">SHALE</a>
-<ul>
-												
-							<li><a href="/section/SHALEmagazineStories">Latest Issue</a></li>
-							<li><a href="/section/SHALEnews">Shale News</a></li>
-							<li><a href="/section/SHALEblogs">Shale Blogs</a></li>
-							<li><a href="/section/SHALE_SUMMIT">Summit Coverage</a></li>
-							<li><a href="/section/SHALEMagazinesub">Subscribe</a></li>
-							
-</ul>
-
-</li>
-
-
-<li><a href="/section/archer" class="trigger">CRAIN'S AWARDS</a>
-<ul>
-						<!-- Temporarily removed 
-						<li><a href="/section/archer">Archer Awards</a></li>
-						-->
-						
-						<li><a href="http://www.crainscleveland.com/marketing/30th/30th.html" target="_blank">30th Anniversary</a></li>
-						<li><a href="/section/CIOevent">CIO of the Year</a></li>
-						<li><a href="/section/CFOevent">CFO of the Year</a></li>
-						<li><a href="/section/HRLeaders">HR Leaders</a></li>
-						<li><a href="/section/40UNDER40">Forty Under 40</a></li>
-						<li><a href="/section/GENERAL_COUNSEL">In-House and General Counsel</a></li>
-						<li><a href="/section/WHOtoWATCH">Who to Watch</a></li>
-						<li><a href="/section/HEALTHCARE_HEROES">Health Care Heroes</a></li>
-						<li><a href="/section/whobusiness12">Who's Who in Business</a></li>
-						<li><a href="/section/wholaw13">Who's Who in Law</a></li>
-						<li><a href="/section/WON">Women of Note</a></li>
-						<li><a href="/section/NORTECH">NorTech Innovation Awards</a></li>
-						
-</ul>
-</li>
-
-<li><a href="/section/crains-lists" class="trigger">LISTS &amp; DIRECTORIES</a>
-<ul>
-						<li><a href="/section/crains-lists?djoPage=products&amp;Category=crains-lists">Purchase <i>Crain's</i> Lists</a></li>
-						<li><a href="/article/20070703/PROMO/70703005">What is the Book of Lists?</a></li>							
-						<li><a href="/section/crains-lists?djoPage=product_details&amp;djoPid=28387&amp;djoTry=1357921383">Purchase Book of Lists</a></li>
-						<li><a href="/section/bioscience">Bioscience Directory</a></li>	
-						<li><a href="/section/econdev">Economic Development Organizations Directory</a></li>		
-						<li><a href="/section/EXECUTIVE_DIRECTORY">Executive Search Firms &amp; Staffing Firms Directory</a></li>			
-						<li><a href="/section/food">Food Economy Directory</a></li>
-						<li><a href="/section/hcd">Health Care Directory</a></li>
-						<li><a href="/section/minority">Minority-Owned Business Directory</a></li>
-						<li><a href="/section/MBA12">Ohio MBA Directory</a></li>
-						<li><a href="/section/wob">Women-Owned Business Directory</a></li>
-</ul>
-</li>
-
-<li><a href="/section/crainstv" class="trigger">MULTIMEDIA</a>
-<ul>
-						<li><a href="/section/House_calls">House Calls</a></li>
-						<li><a href="/section/crainstv">Video Gallery</a></li>
-						<li><a href="/section/PHOTOGALLERIES">Photo Gallery</a></li>
-						<li><a href="/section/AUDIO">Podcasts</a></li>						
-</ul>
-</li>
-
-<li><a href="/section/events" class="trigger">EVENTS</a>
-<ul>
-						
-				 		<li><a href="/section/events_calendar">Local Business Events</a></li>
-						<li><a href="/section/event_home">Coming Crain Events</a></li>
-						<li><a href="/section/webinars">Webinars</a></li>
-</ul>
-</li>
-
-<li><a href="/article/20050422/STATIC/50422001" class="trigger">SERVICES</a>
-<ul>
-						<li><a href="/article/20050422/STATIC/50422001">Contact Us</a></li>
-						<li><a href="/apps/pbcs.dll/qwikNavsearch?QwikNav=custserv_home">Customer Service</a></li>
-						<li><a href="/section/CLASSIFIEDS">Classifieds</a></li>
-						<li><a href="/section/email_products">E-mail signup</a></li>
-						<li><a href="/section/mobile">Mobile Alerts</a></li>
-						<li><a href="/section/custom">Custom publishing</a></li>
-						<li><a href="/apps/pbcs.dll/article?AID=/20061204/STATIC/61204014">Newsstand Locations</a></li>
-						<li><a href="/subrenew">Renew Now</a></li>
-						<li><a href="/section/rss">RSS/XML Feeds</a></li>
-						<li><a href="http://www.crainscleveland.com/article/20070228/STATIC/302289999">Send letter to the editor</a></li>
-						<li><a href="http://www.crainscleveland.com/apps/pbcs.dll/section?Category=contact">Crain's Cleveland Business Staff</a></li>
-						<li><a href="https://sec.crain.com/CL/QuickOrder.aspx?PromotionCode=W3CLMET">Subscribe Now</a></li>
-</ul>
-</li>
-
-
-
-<li><a href="/article/20111120/STATIC/311209998" class="trigger" style="background:none">ADVERTISE</a>
-<ul>
-						<li><a href="/article/20111120/STATIC/311209998">Advertising Information</a></li>
-						<li><a href="/section/cornerstone">Crain's Cornerstone Issues</a></li>
-						<li><a href="/section/media_kit">Crain's Media Kit</a></li>
-						<li><a href="/article/20120621/STATIC/306259999">Crain's SHALE magazine</a></li>
-						<li><a href="/assets/pdf/CC8959679.PDF">2013 Editorial Calendar</a></li>
-						<li><a href="/assets/pdf/CC913941022.PDF">2014 Editorial Calendar</a></li>
-
-
-
-
-
-
-</ul>
-</li>
-
-</ul>
-
-<br class="clearit">
+	--></div>
+	<div id="topRow2CrainsLinks">
+		<div id="topRow2CrainsLinksSubscribe">
+			<a href="https://home.crainscleveland.com/clickshare/advantageRedirect.do?URL=https://sec.crain.com/CL/launchpad.aspx?PromotionCode=W4CLWBN&amp;d=order"><img src="/Assets/ch/btn_social_crains.png" alt="Subscribe to Crain's"></a>
+			<a href="https://home.crainscleveland.com/clickshare/advantageRedirect.do?URL=https://sec.crain.com/CL/launchpad.aspx?PromotionCode=W4CLWBN&amp;d=order">Subscribe to Crain's</a>
+		</div>
+		<div id="topRow2CrainsLinksEmail">
+			<a href="/section/email_products"><img src="/Assets/ch/btn_social_email.png" alt="E-mail Alerts"></a>
+			<a href="/section/email_products">E-mail alerts</a>
+		</div>
+	</div>
+	<div id="topRow2SocialMedia">
+		<a href="https://plus.google.com/110155369934252608481?prsrc=3"><img src="/Assets/ch/gplus-32.png" alt="Google+"></a>
+		<a href="http://www.facebook.com/crainscleveland"><img src="/Assets/ch/btn_social_fb.png" alt="Facebook"></a>
+		<a href="http://twitter.com/CrainsCleveland"><img src="/Assets/ch/btn_social_twitter.png" alt="Twitter"></a>
+		<a href="/section/rss"><img src="/Assets/ch/btn_social_rss.png" alt="RSS"></a>
+		<a href="http://www.instagram.com/crainscleveland"><img src="/Assets/ch/Instagram_logo.png" alt="instagram"></a>
+	</div>		
+	<div class="clearL"></div>
 </div>
-
-	<!--END DROP DOWN MENU AREA-->
-
-					</td>
-				</tr>
-			</tbody></table>
-			
+<div id="centeredmenuContainer">
+	<div id="centeredmenu">
+		<ul><li><a href="/section/toc" class="trigger">This Week's Issue</a>
+	<ul style="width: 10em;">
+		<li><a href="/section/toc">This Week's Issue</a></li><li><a href="/section/WEEKLY_FEATURE">Weekly Editorial Feature</a></li><li><a href="/section/toca">Weekly Issue PDFs</a></li>
+	</ul>
+</li><li><a href="/section/breaking" class="trigger">News</a>
+	<ul style="width: 10em;">
+		<li><a href="/section/breaking">Breaking News</a></li><li><a href="/section/round">Ohio News</a></li><li><a href="/section/man">Manufacturing</a></li><li><a href="/section/health">Health Care</a></li><li><a href="/section/FIN">Financial/Legal</a></li><li><a href="/section/GOV">Government/Nonprofit</a></li><li><a href="/section/staffing">HR/Staffing News</a></li><li><a href="/section/Ohio_Energy">Ohio Energy</a></li><li><a href="/section/REALESTATE">Real Estate</a></li><li><a href="/section/smallbusiness">Small Business</a></li><li><a href="/section/TECH">Technology</a></li>
+	</ul>
+</li><li><a href="/section/blogs" class="trigger">Blogs</a>
+	<ul style="width: 10em;">
+		<li><a href="/section/blogs08">John Campanelli Blog</a></li><li><a href="/section/blogs03">Scott Suttell Blogs</a></li><li><a href="/section/blogs06">Kevin Kleps Blogs</a></li><li><a href="/section/blogs02">Kathy Carr Blogs</a></li><li><a href="/section/blogs07">Tim Magaw Blogs</a></li><li><a href="/section/blogs14">Stan Bullard Blog</a></li><li><a href="/section/blogs09">Rachel McCafferty Blog</a></li><li><a href="/section/blogs05">Guest Blogs</a></li>
+	</ul>
+</li><li><a href="/section/shalemagazine" class="trigger">Shale</a>
+	<ul style="width: 10em;">
+		<li><a href="/section/SHALEmagazineStories">Latest Issue</a></li><li><a href="/section/SHALEnews">Shale News</a></li><li><a href="/section/SHALEblogs">Shale Blogs</a></li><li><a href="/section/SHALE_SUMMIT_eventtickets">Summit Coverage</a></li><li><a href="/section/SHALEMagazinesub">Subscribe</a></li>
+	</ul>
+</li><li><a href="/section/event_home" class="trigger">Crain's Awards</a>
+	<ul style="width: 12em;">
+		<li><a href="/section/HRLeaders">Archer Awards</a></li><li><a href="/section/CIOevent">CIO of the Year</a></li><li><a href="/section/CFOevent">CFO of the Year</a></li><li><a href="/section/FAST_TRACK">Fast 50</a></li><li><a href="/section/40UNDER40">Forty Under 40</a></li><li><a href="/section/GENERAL_COUNSEL">In-House and General Counsel</a></li><li><a href="/section/HEALTHCARE_HEROES">Health Care Heroes</a></li><li><a href="/section/WHOtoWATCH">Who to Watch</a></li><li><a href="/section/whobusiness12">Who's Who in Business</a></li><li><a href="/section/wholaw13">Who's Who in Law</a></li><li><a href="/section/WON">Women of Note</a></li>
+	</ul>
+</li><li><a href="/section/crains-lists" class="trigger">Lists &amp; Directories</a>
+	<ul>
+		<li><a href="/section/crains-lists?djoPage=products&amp;Category=crains-lists">Purchase <em>Crain's</em> Lists</a></li><li><a href="/article/20070703/PROMO/70703005">What is the Book of Lists?</a></li><li><a href="/section/crains-lists?djoPage=product_details&amp;djoPid=28387&amp;djoTry=1357921383">Purchase Book of Lists</a></li><li><a href="/section/bioscience">Bioscience Directory</a></li><li><a href="/section/econdev">Economic Development Organizations Directory</a></li><li><a href="/section/EXECUTIVE_DIRECTORY">Executive Search Firms &amp; Staffing Firms Directory</a></li><li><a href="/section/food">Food Economy Directory</a></li><li><a href="/section/hcd">Health Care Directory</a></li><li><a href="/section/LOGISTICS_DIRECTORY">Logistics Directory</a></li><li><a href="/section/minority">Minority-Owned Business Directory</a></li><li><a href="/section/MBA12">Ohio MBA Directory</a></li><li><a href="/section/wob">Women-Owned Business Directory</a></li>
+	</ul>
+</li><li><a href="/section/crainstv" class="trigger">Multimedia</a>
+	<ul style="width: 10em;">
+		<li><a href="/section/House_calls">House Calls</a></li><li><a href="/section/crainstv">Video Gallery</a></li><li><a href="/section/PHOTOGALLERIES">Photo Gallery</a></li><li><a href="/section/AUDIO">Podcasts</a></li>
+	</ul>
+</li><li><a href="/section/events_calendar" class="trigger">Events</a>
+	<ul style="width: 10em;">
+		<li><a href="/section/events_calendar">Local Business Events</a></li><li><a href="/section/event_home">Coming Crain Events</a></li><li><a href="/section/webinars">Webinars</a></li>
+	</ul>
+</li><li><a href="/article/20050422/STATIC/50422001" class="trigger">Services</a>
+	<ul style="width: 12em; left: -1px;">
+		<li><a href="/article/20050422/STATIC/50422001">Contact Us</a></li><li><a href="/qwikNavsearch?QwikNav=custserv_home">Customer Service</a></li><li><a href="/section/CLASSIFIEDS">Classifieds</a></li><li><a href="/section/email_products">E-mail signup</a></li><li><a href="/section/mobile">Mobile Alerts</a></li><li><a href="/section/custom">Custom publishing</a></li><li><a href="/article/20061204/STATIC/61204014">Newsstand Locations</a></li><li><a href="/subrenew">Renew Now</a></li><li><a href="/section/rss">RSS/XML Feeds</a></li><li><a href="/article/20070228/STATIC/302289999">Send letter to the editor</a></li><li><a href="/section/contact">Crain's Cleveland Business Staff</a></li><li><a href="https://home.crainscleveland.com/clickshare/advantageRedirect.do?URL=https://sec.crain.com/CL/launchpad.aspx?PromotionCode=W4CLWBN&amp;d=order">Subscribe Now</a></li>
+	</ul>
+</li><li><a href="/article/20111120/STATIC/311209998" class="trigger last">Advertise</a>
+	<ul style="width: 10em; left: -44px;">
+		<li><a href="/article/20111120/STATIC/311209998">Advertising Information</a></li><li><a href="/section/media_kit">Crain's Media Kit</a></li><li><a href="/article/20120621/STATIC/306259999">Crain's SHALE magazine</a></li><li><a href="/assets/pdf/CC9455458.PDF" target="_blank">2014 Editorial Calendar</a></li>
+	</ul>
+</li></ul>
+		<div class="clearL"></div>
+	</div>
+</div>
+<div style="height: 10px; clear: both;"></div>
 <!--The following was added for the Today's Feature display-->			
 <script src="/js/slides.min.jquery.js"></script>
-<!--The following was added for the Date Range Search-->
-	
-
-
-	
+<!--The following was added for the Date Range Search-->	
 <!--The following script sets the delay time for the slides-->
 	<script>
 		$(function(){
@@ -613,7 +415,7 @@ pageTracker._trackPageview();
 								
     								<tbody><tr>
 									<td width="600">
-									<span class="small">Tuesday&nbsp;December&nbsp;17,&nbsp;2013</span>
+									<span class="small">Wednesday&nbsp;May&nbsp;21,&nbsp;2014</span>
 									</td>
 								<td align="right" valign="top" width="770"> 
 									<!-- AddThis Button BEGIN -->
@@ -759,7 +561,7 @@ CrainsCleveland.com is the Web site operated by <em>Crain’s Cleveland Business
                               <td align="left" valign="top" class="footerNavTd"><div class="footerNavTdHeader">Home</div>
                                     <ul>
 
-						<li><a href="https://sec.crain.com/CL/QuickOrder.aspx?PromotionCode=W3CLMET">Subscription Center</a></li>
+						<li><a href="https://home.crainscleveland.com/clickshare/advantageRedirect.do?URL=https://sec.crain.com/CL/launchpad.aspx?PromotionCode=W4CLWBN&amp;d=order">Subscription Center</a></li>
 						<li><a href="/section/email_products">E-Newsletters</a></li>
 						<li><a href="/section/RSS">RSS</a></li>
 						<li><a href="http://www.facebook.com/groups/47780492158/">Facebook</a></li>
@@ -768,8 +570,7 @@ CrainsCleveland.com is the Web site operated by <em>Crain’s Cleveland Business
 						<li><a href="http://www.crainscleveland.com/article/20111120/STATIC/311209998">Advertise</a></li>
 						<li><a href="/section/media_kit">Crain's Media Kit</a></li>
 						<li><a href="http://www.crainscleveland.com/apps/pbcs.dll/article?AID=/20061204/STATIC/61204014" target="_blank">Newstand Locations</a></li>
-						<li><a href="/assets/pdf/CC8905066.PDF" target="_blank">2013 Editorial Calendar</a></li>
-						<li><a href="/assets/pdf/CC913941022.PDF" target="_blank">2014 Editorial Calendar</a></li>
+						<li><a href="/assets/pdf/CC93750324.PDF" target="_blank">2014 Editorial Calendar</a></li>
                                    </ul>
                                     <br>
                                     <div class="footerNavTdHeader">This Week's Issue</div>
@@ -813,10 +614,10 @@ CrainsCleveland.com is the Web site operated by <em>Crain’s Cleveland Business
                                           <tbody><tr>
                                                 <td align="left" valign="top" class="footerNavTd" style="padding-right:20px;"><ul>
                                                  
-						<li><a href="/section/archer">Archer Awards</a></li>
+						<li><a href="/section/HRLeaders">Archer Awards</a></li>
 						<li><a href="http://www.crainscleveland.com/marketing/30th/30th.html" target="_blank">30th Anniversary</a></li>
-						<li><a href="/section/CFOevent">CFO of the Year</a></li>
-						<li><a href="/section/CIOevent">CIO of the Year</a></li>
+						<li><a href="/section/CFOevent_event">CFO of the Year</a></li>
+						<li><a href="/section/CIOevent_event">CIO of the Year</a></li>
  						<li><a href="/section/CLE2030">CLE2030</a></li>
 						<li><a href="/section/EUCLID">Euclid Avenue</a></li>
 						<li><a href="/section/40UNDER40">Forty Under 40</a></li>
@@ -871,6 +672,7 @@ CrainsCleveland.com is the Web site operated by <em>Crain’s Cleveland Business
 						<li><a href="/section/EXECUTIVE_DIRECTORY">Executive Search Firms &amp; Staffing Firms Directory</a></li>
 						<li><a href="/section/food">Food Economy Directory</a></li>
 						<li><a href="/section/hcd">Health Care Directory</a></li>
+						<li><a href="/section/LOGISTICS_DIRECTORY">Logistics Directory</a></li>
 						<li><a href="/section/minority">Minority-Owned Business Directory</a></li>
 						<li><a href="/section/MBA12">Ohio MBA Directory</a></li>
 						<li><a href="/section/wob">Women-Owned Business Directory</a></li>
