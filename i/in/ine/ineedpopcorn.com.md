@@ -1,53 +1,30 @@
-> *The following text is extracted and transformed from the ineedpopcorn.com privacy policy that was archived on 2013-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130107200735id_/http%3A//ineedpopcorn.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ineedpopcorn.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521065958id_/http%3A//www.cheezwheez.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy | cheezwheez.com
 
-* * *
+As always, the privacy, discretion and security of your personal information is cheezwheez.com’s (“cheezwheez.com”) top priority, and we want you to be aware of how we collect and handle information on our web site.
 
-This is a privacy statement disclosing our information gathering, use and dissemination practices for the ineedpopcorn.com site.
+Cheezwheez.com does not collect personal information on this site. cheezwheez.com does not collect your credit card number or billing address, when you set up an online account. Our servers automatically collect statistical information about IP addresses, e-mail addresses and which browsers are used to visit our site. None of this information is associated with you as an individual. We use these statistics to monitor our site's performance and to make it easier for you to use. Children under eighteen years of age are not eligible to use our services. We request that children do not submit information to us or navigate our website.
 
-Information collected
+We do not sell or rent any personally identifiable information about you to any third party without your permission. 
 
-Our Web servers do not automatically recognise specific information about individual users on our site.   
-In addition, our servers do not automatically record information regarding a user's e-mail address unless the user supplies it.  
+Cheezwheez.com cooperates with all law enforcement inquiries and with all third parties to enforce their intellectual property or other rights. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website. 
 
+We use customer contact information from the registration form to send the user information about our company. Users may opt-out of receiving future mailings by sending an e-mail to: info@cheezwheez.com and request that he or she be removed from our mailing list. Customers may also send a written opt-out request to the following address: 
 
-Data Collection
-
-We collect the following data:
-
-  * Click-stream data (the type of computer and browsing software you use, the address of the web site from which you linked, etc)
-  * HTTP protocol elements (your server address and top level domain name (eg .com, .gov etc), date and time of visit, etc).
+Cheezwheez.com  
+NETHERLANDS  
 
 
+This website contains links to other web sites. Cheezwheez.com is not responsible for the privacy practices or the content of such websites linked to from our site. 
 
-This data will be used for the following purposes:
+If you have any questions about this privacy statement, the website, or your interaction with this website, you can contact us. 
 
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
+Email: info@cheezwheez.com
 
+Send mail to the following postal address:
 
+Customer Service
 
-This data is collected from all web users. Web access logs are used for statistical purposes only (eg to measure the use/performance of the site) except in the event of a security breach when they could be used for the purpose of tracing the breach. No information gathered from web logs is given or sold to any third party.
-
-Any personal information that you provide to us will only be used for the purpose stated at the time we request it. This information will not be disclosed to a third party except where authorised by you or as otherwise permitted by the Data Protection Act.
-
-Cookies
-
-Cookies are a technology which can be used to provide you with tailored information from a web site; they can facilitate communication and interaction with the site. You may stop or restrict the placement of cookies on your computer by adjusting your web browser preferences, but this may interfere with some of the functionality of the site. Cookies are used to track visitors to our site.
-
-At the user's option, we will collect the following data:
-
-  * HTTP cookies
-
-
-
-Cookies will be used for the following purposes:
-
-  * Research and development.
-  * User targeting.
-
-
-
-* * *
+Cheezwheez.com  
+NETHERLANDS
