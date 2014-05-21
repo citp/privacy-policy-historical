@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the btgpennyauctions.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103202439id_/http%3A//www.btgpennyauctions.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btgpennyauctions.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521211913id_/http%3A//btgpennyauctions.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy | BTG180 | BTGPennyAuctions »
+# Privacy - BTGPennyAuctions
+
+## Privacy
 
 **PRIVACY POLICY**
 
 BTGPennyAuctions is a service provided by BTG180 Ltd. We acknowledge and respect your personal privacy. This Privacy Policy describes all aspects relating to gathering information while you're visiting BTG180.com.
 
-Please read this Privacy Policy before using the BTGPennyAuctions website or submitting any personal information. By using the BTGPennyAuctions website, you accept and consent to the practices described in this Privacy Policy. By your continued use you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. If you do not agree with these practices you are free to discontinue your use of the BidsThatGive website at any time.
+Please read this Privacy Policy before using the BTGPennyAuctions website or submitting any personal information. By using the BTGPennyAuctions website, you accept and consent to the practices described in this Privacy Policy. By your continued use you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. If you do not agree with these practices you are free to discontinue your use of the BTGPennyAuction website at any time.
 
-If you have questions about our privacy policy, please email us at [support@btg180.com](mailto:support@btg180.com)
+If you have questions about our privacy policy, please email us at [ **support@btg180.com**](mailto:support@btg180.com)
 
 You may visit BTGPennyAuctions at any time without intentionally revealing any personal information about yourself. However, when you visit our website, we may collect and store your computer and connection information, statistics on page views, traffic to and from BTGPennyAuctions, advertisement data, IP address and standard web log information and information from other companies, such as demographic and navigation data.
 
-**DATA COLLECTION**
+ **DATA COLLECTION**
 
 You may visit BTGPennyAuctions at any time without intentionally revealing any personal information about yourself. However, when you visit our website, we may collect and store your computer and connection information, statistics on page views, traffic to and from BTGPennyAuctions, advertisement data, IP address and standard web log information and information from other companies, such as demographic and navigation data.
 
@@ -20,55 +22,55 @@ For you to actively participate in BTGPennyAuctions we do need some of your pers
 
 When you register on BTGPennyAuctions, we will collect the following required information: email address, first and last name, date of birth, and password; all transactional information based on your activities on BTGPennyAuctions; shipping, billing and other information relating to any purchase or shipping; any correspondence sent to us; financial information, such as your credit card information; and other supplemental information from third parties.
 
-**USE OF DATA**
+ **USE OF DATA**
 
 Our purpose for collecting personal information is to provide you with a safe, efficient, and customized experience. By signing up, you agree that we may use your personal information to: provide the services and customer support you request; resolve disputes, collect fees, and troubleshoot problems; prevent potentially prohibited or illegal activities, and enforce our Terms & Conditions; customize, measure and improve our services, content and advertising; inform you about our services, targeted marketing, service updates, and promotions; and compare information and verify it with third parties for accuracy.
 
-**DISCLOSURE OF PERSONAL DATA**
+ **DISCLOSURE OF PERSONAL DATA**
 
-  * We may disclose personal information to respond to legal requirements, enforce our Terms & Conditions and Privacy Policy, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property, or safety. This information will be disclosed under applicable laws and regulations.  
+Â·         We may disclose personal information to respond to legal requirements, enforce our Terms & Conditions and Privacy Policy, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property, or safety. This information will be disclosed under applicable laws and regulations.  
  
-  * We may also share your personal information with third parties assisting our business operations under contract, including but not limited to fraud investigations and debt collection, with law enforcement or other governmental officials if required by law, and with other business entities, should we plan to merge with or be acquired by that business entity.  
+
+Â·         We may also share your personal information with third parties assisting our business operations under contract, including but not limited to fraud investigations and debt collection, with law enforcement or other governmental officials if required by law, and with other business entities, should we plan to merge with or be acquired by that business entity.  
  
-  * We do not share your personal information with third party advertisers.
 
+Â·         We do not share your personal information with third party advertisers.
 
-
-**YOUR INFORMATION ON BIDSTHATGIVE**
+ **YOUR INFORMATION ON BTGPennyAuctions**
 
 Once you have been approved as a registered user with BTGPennyAuctions, you will be required to choose a user name. This user name will be displayed throughout BTGPennyAuctions and therefore provided to the public. If you win an auction, BTGPennyAuctions will display the number of bids and dollar value of those bids when the auction ends. Unless you associate your user name with your personal information, other users will not be able to personally identify your activities on BTGPennyAuctions.
 
 When visiting BTGPennyAuctions from a public or shared computer, certain information about you, such as your user name, may also be visible to others who may use that computer after your use. It is your responsibility to ensure private information is removed from the public or shared computer should you choose to use one.
 
-**ACCESS, REVIEW, AND CHANGE OF PERSONAL DATA**
+ **ACCESS, REVIEW, AND CHANGE OF PERSONAL DATA**
 
 You can access, review and change most of your personal information by logging on to BTGPennyAuctions at any time. However, some of your personal information can only be changed by contacting our Customer Service. Accurate information is required for billing and delivery purposes. You are required to promptly update your personal information if changes occur or information is inaccurate.
 
-**CLOSING YOUR ACCOUNT**
+ **CLOSING YOUR ACCOUNT**
 
 Upon closing your account, BTGPennyAuctions will remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Terms & Conditions, and take other actions otherwise permitted by law.
 
-**USE OF COOKIES AT OUR WEBSITE**
+ **USE OF COOKIES AT OUR WEBSITE**
 
 BTGPennyAuctions uses so-called "cookies", which are files that are stored on your computer that can be retrieved to assist in customizing your experience with the online service. The information saved supports the functionality of the site, for example, by keeping track of your visual preferences or controlling the frequency of "pop-up" windows. You are free to prevent cookies from being saved on your hard drive by adjusting the corresponding settings in your browser. However, turning off these settings may result in limited functionality.
 
-**SECURITY MEASURES**
+ **SECURITY MEASURES**
 
 Your BTGPennyAuctions account and profile and the information contained therein are password protected. Please note that you are not permitted to provide your password to anyone else. BTGPennyAuctions will never ask for your password in e-mail or over the phone. Please remember to log out of your account and to close your Internet browser window when you leave the BTGPennyAuctions site; this is especially important if you use a PC in public locations. We assume no liability for the abuse of login data and passwords used.
 
 BTGPennyAuctions treats data as an asset that must be highly protected. We use security measures to protect your personal information against unauthorized access and disclosure. However, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
 
-**PROTECTION FROM WEB CRAWLERS OR SPAM**
+ **PROTECTION FROM WEB CRAWLERS OR SPAM**
 
 BTGPennyAuctions assures you that we will use your e-mail address with your express consent only for the purposes stated in the help Terms & Conditions. We will not rent or sell your e-mail address to third parties, and we will prevent your e-mail address from being recorded by "web crawlers" or "web spiders" to the best of our ability. If you believe that your e-mail address has been recorded in this way, please email us at support@btg180.com immediately.
 
-**CHILDREN**
+ **CHILDREN**
 
 BTGPennyAuctions is sensitive to the need to protect the privacy of children who use the Internet. BTGPennyAuctions does not knowingly collect or solicit personally identifiable information from or about children under the age of eighteen (18) consistent with and exceeding the requirements of the Children's Online Privacy Protection Act. If we discover or are otherwise notified that we have received any such information from a child in violation of this policy, we will delete that information. If you are under the age of eighteen (18), please do not attempt to provide any personally identifiable information on our Sites. If you believe that BTGPennyAuctions has any information from or about a child under the age of thirteen, please contact us immediately by clicking on "Contact Us" and sending us an e-mail and we will take appropriate steps to remove such information from our files.
 
 Please review the privacy policy of other sites you or your children elect to link to through BTGPennyAuctions for the children's privacy policy of those sites. BTGPennyAuctions is not responsible for the privacy policy or other content of any other website, including sites that are co-branded.
 
-**NOTICE OF PRIVACY RIGHTS TO CALIFORNIA RESIDENTS**
+ **NOTICE OF PRIVACY RIGHTS TO CALIFORNIA RESIDENTS**
 
 California law requires that we provide you with a summary of your privacy rights under the California Online Privacy Protection Act (the "Act") and the California Business and Professions Code. As required by the Act, we provide you with the categories of personally identifiable information that we collect through this website and the categories of third party persons or entities with whom such personally identifiable information may be shared for direct marketing purposes at your request.
 
@@ -76,6 +78,6 @@ California law requires us to inform you, at your request, (1) the categories of
 
 When contacting us, please indicate your name, address, email address, and what personally identifiable information you do not want us to share with third parties. The request should be sent to the attention of our legal department, and labeled "California Customer Choice Notice." Please allow thirty (30) days for a response. Also, please note that there is no charge for controlling the sharing of your personally identifiable information or requesting this notice.
 
-**GENERAL**
+ **GENERAL**
 
 We may amend this Privacy Policy at any time by posting the new Privacy Policy on BTGPennyAuctions. BTGPennyAuctions reserves the right to change this Privacy Policy at any time without notice to you. Consequently, you should review this Privacy Policy for changes each time You visit BTGPennyAuctions.
