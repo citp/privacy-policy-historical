@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the rustyzipper.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127084710id_/http%3A//www.rustyzipper.com/shop.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rustyzipper.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521025827id_/http%3A//www.rustyzipper.com/shop.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # 
+
+[](http://www.rustyzipper.com/shop.cfm?type=&ERA=ALL&GENDER=ALL&SEARCH=)   
+
 
 **What information do we collect?**
 
@@ -103,4 +106,4 @@ jen@rustyzipper.com
 
  **  
 Phone 866-387-5944 in US, or 503-980-1929 outside US (Mon-Fri 8am-3pm PST)**  
-UK (020) 3002-8263 (Mon-Fri 5pm-11pm London time) [Join our Facebook Group](http://www.facebook.com/groups/rustyzipper/)
+UK (020) 3002-8263 (Mon-Fri 5pm-11pm London time) [Like our Facebook Page](http://www.facebook.com/rustyzippercom/)
