@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slideworld.org privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216112224id_/http%3A//www.slideworld.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideworld.org privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521165626id_/http%3A//www.slideworld.org/privacy.aspx) for the most accurate reproduction.*
 
 # SlideWorld Private Policy : Slide Policy | PPT Policy | PowerPoint Presentation Policy
 
