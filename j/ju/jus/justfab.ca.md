@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the justfab.ca privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119210808id_/http%3A//www.justfab.ca/index.cfm%3Faction%3Dhome.privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justfab.ca privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521152704id_/http%3A//www.justfab.ca/index.cfm%3Faction%3Dhome.privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | JustFab
 
 This privacy policy addresses the use of information we collect from you. By visiting JustFab.com (this "Site"), or providing your information to us, you agree to accept the practices described in this privacy policy.
 
 How We Use Your Information  
-When you register to become a member of JustFabulous, we request certain personally identifiable information from you, including contact information (such as name, email and shipping address) and financial information (such as credit card number and expiration date). We use this information for billing purposes and to fill your orders. If we have any questions or concerns regarding your order, we will use this information to contact you.
+When you register to become a member of JustFab, we request certain personally identifiable information from you, including contact information (such as name, email and shipping address) and financial information (such as credit card number and expiration date). We use this information for billing purposes and to fill your orders. If we have any questions or concerns regarding your order, we will use this information to contact you.
 
 We collect personal information not only to fulfill your order, but also to make our services more rewarding for you to use. We usually use this information for internal purposes, such as studying our customers' preferences and improving the customers' experiences. We may also use your information to contact you for promotional purposes. We may combine information about you with information from other sources in order to improve the quality of our services.
 
   * We may share information about you with trusted third parties in order to improve your consumer experience. These third parties may contact you about products, services or promotions you may be interested in, or to otherwise improve your customer experience with this Site.
-  * Your information may be transferred in connection with the sale, merger or business acquisition of JustFabulous.
-  * When we believe that disclosure is necessary to protect the rights, property and safety of JustFabulous, its users or the public.
+  * Your information may be transferred in connection with the sale, merger or business acquisition of JustFab.
+  * When we believe that disclosure is necessary to protect the rights, property and safety of JustFab, its users or the public.
   * As required by law, to comply with a judicial proceeding or court order, to exercise our rights, or to defend against any claims.
 
 
@@ -45,6 +45,6 @@ We reserve the right to amend this policy at any time. Notice of any change will
 Contact Us  
 If you have any questions regarding the use of our site or privacy policy, please contact us at:
 
-JustFabulous  
+JustFab  
 2301 Rosecrans Ave., Suite 4100  
 El Segundo, CA 90245
