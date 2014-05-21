@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opensourcevarsity.com privacy policy that was archived on 2013-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130129093949id_/http%3A//www.opensourcevarsity.com/uncategorised/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensourcevarsity.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521034035id_/http%3A//www.opensourcevarsity.com/privacypolicy) for the most accurate reproduction.*
 
-# PRIVACY AND SECURITY
+# Privacy Policy - opensourcevarsity.com
 
 The OpenSourceVarsity [ OSV ] recognizes the importance of maintaining your privacy. We value your privacy and appreciate your trust in us.
 
