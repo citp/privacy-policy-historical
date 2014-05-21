@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the tonedeaf.com.au privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013184121id_/http%3A//www.tonedeaf.com.au/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tonedeaf.com.au privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521165504id_/http%3A//www.tonedeaf.com.au/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy Policy on Tone Deaf
-
-  
-
 
 **Website Visitors**  
 Like most website operators, ToneDeaf.com.au collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. ToneDeaf.com.au’s purpose in collecting non-personally identifying information is to better understand how ToneDeaf.com.au’s visitors use its website. From time to time, ToneDeaf.com.au may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
@@ -27,15 +24,6 @@ Although most changes are likely to be minor, ToneDeaf.com.au may change its Pri
 
 **Complaints/Concerns  
 **If you believe there has been a breach of your privacy, or that there is a privacy issue or question you’d like answered please direct your enquiry to our Privacy Officer, Nicholas Jones: [nicholas@outlawed.com.au](mailto:nicholas@outlawed.com.au) . We take all complaints seriously and will act in a prompt manner to rectify problems.
-
-  
-
-
-## Subscribe To Our Daily Tucker Bag
-
-Get the latest music news, opinion, interviews, freebies, tracks, videos and more in our daily bento box - delivered straight to your inbox at lunchtime every weekday.
-
-people are currently subscribers
 
   
 
