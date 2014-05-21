@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fragomen.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031170246id_/http%3A//www.fragomen.com/xprGeneralContentFrag.aspx%3FxpST%3DPrivacyPoilcy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fragomen.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521045302id_/http%3A//www.fragomen.com/xprGeneralContentFrag.aspx%3FxpST%3DPrivacyPoilcy) for the most accurate reproduction.*
 
-# Fragomen global corporate immigration law | Privacy Policy
+# Fragomen global corporate immigration law | Privacy Policies
 
 EFFECTIVE DATE: May 10, 2010  
 
