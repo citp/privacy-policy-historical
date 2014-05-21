@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phombo.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119083959id_/http%3A//www.phombo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phombo.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521153117id_/http%3A//www.phombo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | phombo.com
 
