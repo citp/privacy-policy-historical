@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asia.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901031158id_/http%3A//www.asia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asia.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521223603id_/http%3A//www.asia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Asia Journeys to the world of asia.com. Flights, Hotels, Travel Guide and Travel Tips.
 
