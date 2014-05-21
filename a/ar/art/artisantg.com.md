@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artisantg.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118090858id_/http%3A//www.artisantg.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artisantg.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521053453id_/http%3A//www.artisantg.com/Privacy) for the most accurate reproduction.*
 
 # Artisan Technology Group - Privacy Policy
 
