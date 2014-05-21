@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wave3.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220112037id_/http%3A//www.wave3.com/story/8774923/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wave3.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521053207id_/http%3A//www.wave3.com/story/8774923/p) for the most accurate reproduction.*
 
 # Privacy Policy - wave3.com-Louisville News, Weather & Sports
 
@@ -30,7 +30,8 @@ We do not knowingly collect personally identifiable information from children yo
 
 We do not control the acts of users of the Services. All users should be aware that, when they disclose personally identifiable information in a bulletin board, chat room, guestbook, or other forum, the information may be collected and used by others to send that person unsolicited e-mail from other parties outside of the Services or WorldNow. In the event that you encounter any user of the Services who is improperly collecting or using information about you or other users, please contact us at [www.raycommedia.com](http://www.raycommedia.com/). 
 
-At this time, this website and the Services do not recognize automated browser signals regarding tracking mechanisms and preferences, which may include "do not track" instructions for personally identifiable information.  However, you may adjust the privacy preferences of your browser, including the control of how and whether cookies will be accepted by your web browser or device.  For more information on how to do so, please refer to the documentation accompanying your browser or device.
+At this time, this website and the Services do not recognize automated browser signals regarding tracking mechanisms and preferences, which may include "do not track" instructions for personally identifiable information. Third parties may also collect personally identifiable information about users' online activities over time and across different websites as they use our Services and the website. However, you may adjust the privacy preferences of your browser, including the control of how and whether cookies will be accepted by your web browser or device.  For more information on how to do so, please refer to the documentation accompanying your browser or device.  
+
 
 **How we use (and do not use) the information we gather**
 
