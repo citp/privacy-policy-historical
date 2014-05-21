@@ -1,75 +1,124 @@
-> *The following text is extracted and transformed from the chickensoup.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116044003id_/http%3A//www.chickensoup.com/cs.asp%3Fcid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chickensoup.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521053312id_/http%3A//www.chickensoup.com/privacy-policy) for the most accurate reproduction.*
 
-# Chicken Soup for the Soul
+# Privacy Policy | Chicken Soup for the Soul
 
-**PRIVACY POLICY**
+This privacy policy describes the treatment of information provided or collected on the sites or other digital properties where this privacy policy is posted. It also explains the treatment of information provided or collected on applications we make available on third-party sites or platforms if disclosed to you in connection with use of the application. We follow this privacy policy in accordance with local law in the places where we operate. 
 
-Chicken Soup for the Soul Publishing, LLC is committed to protecting your privacy. All information gathered on our websites is confidential. The information we gather is used for the purposes of our websites, research, marketing and to better serve your interests relating to our products.
+For the purposes of this Privacy Policy, “us”, “we”, “Chicken Soup for the Soul” or any substantially similar language refers to Chicken Soup for the Soul Digital, LLC, its successors, assigns, parent companies, and subsidiaries. 
 
-**INFORMATION COLLECTED ABOUT YOU AND OUR USE OF SUCH INFORMATION**
+Please use this list to jump to the section most relevant to you: 
 
-The following describes the types of personal and other information we may collect about you, and how we use and maintain that information:
+**1.Types of Information We Collect  
+2\. How We Collect Your Information  
+3\. Use of Your Information  
+4\. Sharing Your Information with Other Companies  
+5\. Your Controls and Choices  
+6\. Children’s Privacy  
+7\. Data Security and Integrity  
+8\. Data Transfers, Storage and Processing Globally  
+9\. Changes to this Privacy Policy  
+10\. Comments and Questions **
 
-**CONTACT INFORMATION**
+**1\. Types of Information We Collect**
 
-Chicken Soup for the Soul Publishing, LLC may collect personal information about users. Any personal information (e.g., name, e-mail address, or otherwise) provided by such users may be used by Chicken Soup for the Soul Publishing, LLC or its respective affiliates, employees, agents, third-party content providers, third-party service providers, technical providers, or licensors, if any, as they may determine, without any compensation or consideration to the user. Further, by a user submitting content to Chicken Soup for the Soul Publishing, LLC, which may include the user name, photos, text, or otherwise, such user grants Chicken Soup for the Soul Publishing, LLC the right to review and categorize such content and to use such content in connection with its web activities. If Chicken Soup for the Soul Publishing, LLC desires to utilize the user's content other than in connection with its web activities, the user will be notified via email, telephone or regular mail of its desire and a formal agreement will be negotiated.
+We collect two basic types of information - personal information and anonymous information - and we may use personal and anonymous information to create a third type of information, aggregate information. We collect the following categories of information: 
 
-**WEBSITE INFORMATION**
+• Registration information you provide when you create an account, including your first name and surname, country of residence, gender, date of birth, email address, username, photo and password  
+• Transaction information you provide when you request information or purchase a product or service from us, whether on our sites or through our applications, including your postal address, telephone number and payment information  
+• Information you provide in public forums on our sites and applications  
+• Information you provide to us when you use our sites and applications, our applications on third-party sites or platforms such as social networking sites, or link your profile on a third-party site or platform with your registration account  
+• Location information when you visit our sites or use our applications, including location information either provided by a mobile device interacting with one of our sites or applications, or associated with your IP address, where we are permitted by law to process this information  
+• Usage, viewing and technical data, including your device identifier or IP address, when you visit our sites, use our applications on third-party sites or platforms or open emails we send 
 
-When you visit any of our websites, a cookie may be placed on your computer or the cookie may be read if you have visited one of our websites site previously. Chicken Soup for the Soul Publishing, LLC uses cookies for many different purposes, including to allow us to determine which products and services you have already purchased so Chicken Soup for the Soul Publishing, LLC does not provide redundant information to you, and to track the sales made to customers referred by you so that you can receive compensation under our affiliate program. If you choose to not have your browser accept cookies from Chicken Soup for the Soul Publishing, LLC websites, you may not be able to view all the text on the screens, or to experience a personalized visit, or to subscribe to certain service and product offerings on our websites.
+**2\. How We Collect Your Information**
 
-**OTHER INFORMATION**
+• We collect information you provide to us when you request products, services or information from us, register with us, participate in public forums or other activities on our sites and applications, respond to customer surveys, or otherwise interact with us. Please keep in mind that when you provide information to us on a third-party site or platform (for example, via our applications), the information you provide may be separately collected by the third-party site or platform. The information we collect is covered by this privacy policy and the information the third-party site or platform collects is subject to the third-party site or platform’s privacy practices. Privacy choices you have made on the third-party site or platform will not apply to our use of the information we have collected directly through our applications.  
+• We collect information through technology, such as cookies, Flash cookies and Web beacons, including when you visit our sites and applications or use our applications on third-party sites or platforms. Please keep reading for further information, including how to disable cookies.  
+• We may acquire information from other sources to update or supplement the information you provided or we collected automatically. Local law may require that you authorize the third party to share your information with us before we can acquire it. 
 
-We may retain any data you provide to us in an email or other inquiry, for any of the the purposes we use other information collected on our websites, including for tracking the types of questions that we receive.
+Examples of online tracking technologies include: 
 
-**SECURITY**
+• Cookies. Cookies are pieces of information that a website places on the hard drive of your computer when you visit the website. Cookies may involve the transmission of information from us to you and from you directly to us, to another party on our behalf, or to another party in accordance with its privacy policy. We may use cookies to bring together information we collect about you. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won’t have access to many features that make your user experience more efficient and some of our services will not function properly.  
+• Flash cookies. We may use local shared objects, sometimes known as Flash cookies, to store your preferences or display content based upon what you view on our site to personalize your visit. Our advertisers and third-party service providers also may use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies, please click [here](http://helpx.adobe.com/flash-player/kb/disable-third-party-local-shared.html). If you disable Flash cookies, you won’t have access to many features that make your user experience more efficient and some of our services will not function properly.  
+• Web beacons. Web beacons are small pieces of data that are embedded in images on the pages of sites. Web beacons may involve the transmission of information directly to us, to another party on our behalf, or to another party in accordance with its privacy policy. We may use web beacons to bring together information we collect about you. 
 
-Whenever Chicken Soup for the Soul Publishing, LLC handles information that you enter on our websites, regardless of where this occurs, we take steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Chicken Soup for the Soul Publishing, LLC cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
+**3\. Use of Your Information**
 
-**WHEN YOUR INFORMATION WILL BE SHARED OR DISCLOSED**
+Chicken Soup for the Soul Digital, LLC will be the data controller for your information. Affiliates, parents, subsidiaries, third-party services and partners may have access to your information where they perform services our behalf and, unless prohibited under applicable law, for use on their own behalf for the following purposes: 
 
-We routinely provide your name, mailing address, and email address to unaffiliated third parties that manage our mailing lists and prepare communications with users of our website. We may also provide your information from time to time to third-party service providers if you have checked the box on our web page indicating your desire to receive email and promotions from us and our affiliates and/or our partners.
+• Provide you with the products and services you request  
+• Communicate with you about your account or transactions with us and send you information about features on our sites and applications or changes to our policies  
+• Consistent with local law and choices and controls that may be available to you:  
+o Send you offers and promotions for our products and services or third-party products and services  
+o Personalize content and experiences on our sites and applications  
+o Provide you with advertising based on your activity on our sites and applications and on third-party sites and applications.  
+• Optimize or improve our products, services and operations  
+• Detect, investigate and prevent activities that may violate our policies or be illegal 
 
-We will comply with any subpoenas, court orders or other legal processes for any of the information about you in our possession, and we may use such information to establish or exercise our legal rights, or to defend against legal claims.
+**4\. Sharing Your Information with Other Companies**
 
-We may provide aggregate information, such as the number of users who visit a particular linked site, to other parties.
+We will not share your personal information outside Chicken Soup for the Soul Publishing, LLC and its subsidiaries and affiliates except in limited circumstances, including: 
 
-In addition, information about you in our possession may be disclosed as part of any merger, acquisition, sale of company assets, or transition of service to another provider, as well as in the unlikely event of insolvency, bankruptcy, or receivership in which your personal information would be transferred as one of the business assets of the company.
+• When you allow us to share your personal information with another company, such as:  
+o Electing to share your personal information with carefully selected companies so that they can send you offers and promotions about their products and services  
+o Directing us to share your personal information with third-party sites or platforms, such as social networking sites  
+o Purchasing products from us that are sold through third-party services, such as our subscription service  
+o In order to fulfill orders that you have placed with us; for example, we may expand the items included in our subscription services over time to include items that we would ship to you via a third party, and we may need to make your personal information available to that third party for fulfillment purposes. 
 
-**NEWSLETTERS**
+Please note that once we share your personal information with another company, the information received by the other company becomes subject to the other company’s privacy practices. 
 
-If you subscribe to our Newsletter(s), we will use your name and e-mail address to send the newsletter to you and to provide you with targeted advertising. To do this we may provide your email address to third-party ad servers who will not be allowed to access, collect or use your email address except in connection with ads served to you in our Newsletters. Out of respect for your privacy, we provide you a way to unsubscribe. To unsubscribe, please see the “Choice and Opt-out” section immediately below.
+• When companies perform services on our behalf, like package delivery and customer service; however, these companies are prohibited from using your personal information for purposes other than those requested by us or required by law  
+• When we share personal information with third parties in connection with the sale of a business, to enforce our Terms of Use or rules, to ensure the safety and security of our users and third parties, to protect our rights and property and the rights and property of our users and third parties, to comply with legal process or in other cases if we believe in good faith that disclosure is required by law 
 
-**NEWSLETTER - CHOICE/OPT-OUT**
+**5\. Your Controls and Choices**
 
-If you no longer wish to receive our Newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by e-mailing us at [webmaster@chickensoupforthesoul.com](mailto:webmaster@chickensoupforthesoul.com).
+We provide you the ability to exercise certain controls and choices regarding our collection, use and sharing of your information. In accordance with local law, your controls and choices may include: 
 
-**THIRD-PARTY AD SERVING**
+• You may correct, update and delete your registration account  
+• You may change your choices for subscriptions, newsletters and alerts  
+• You may choose whether to receive from us offers and promotions for our products and services, or products and services that we think may be of interest to you  
+• You may choose whether we share your personal information with other companies so they can send you offers and promotions about their products and services by opting out of emails from our partners  
+• You may choose whether to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers [here](http://www.aboutads.info/choices/)  
+• You may request access to the personal information we hold about you and that we amend or delete it and we request third parties with whom we have shared the information do the same 
 
-We send to your Web browser or Newsletter many of the advertisements you see when you use our network of websites or receive our Newsletters. However, we also allow other companies, called third-party ad servers or ad networks, to serve advertisements within our Web pages and our Newsletters. Because your Web browser or Newsletter must request these advertising banners from the ad network Web site, these companies can send their own cookies to your cookie file, just as if you had requested a Web page from the site. Please note that if an advertiser asks us to show an advertisement to a certain audience (for example, women ages 50 to 69) or audience segment (for example, women ages 50 to 69 with 2 or more grandchildren) and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience it is trying to reach. As always remember, we only authorize our third-party ad servers to employ anonymous cookies for ad delivery and anonymous targeting. Our website third-party ad servers do not collect, nor do we give them access, to any personally identifying information about you. We give our Newsletter third-party ad servers access to your email address but only for use in connection with ads served to you in our Newsletters.
+You may exercise your controls and choices, or request access to your personal information by following instructions provided in communications sent to you. Please be aware that, if you do not allow us to collect personal information from you, we may not be able to deliver certain products and services to you, and some of our services may not be able to take account of your interests and preferences. If you have questions regarding the specific personal information about you that we process or retain, please contact our webmaster. 
 
-We also use third-party ad servers to serve ads on our behalf across the Internet. They may collect anonymous information about your visits to our website, and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major websites.
+**6\. Children’s Privacy**
 
-**OPTING OUT OF THIRD-PARTY AD SERVERS**
+We recognize the need to provide further privacy protections with respect to personal information we may collect from children under the age of 13 on our sites and applications. We do not knowingly collect personal information from children in connection with those features. If we become aware that we have collected information from children, we will immediately delete that information. 
 
-If you want to prevent a third-party ad server from sending and reading cookies on your computer, you must visit each ad network's website individually and opt out. Currently, we have relationships with the following third-party ad networks (click to visit their website): [Google](http://www.google.com/privacy/ads/) and [LiveIntent](http://liveintent.com/policy.php).
+**7\. Data Security and Integrity**
 
-**CHILDREN’S PRIVACY**
+The security, integrity and confidentiality of your information are extremely important to us. We and our partners have implemented technical, administrative and physical security measures that are designed to protect your information from unauthorized access, disclosure, use and modification. From time to time, we review our security procedures to consider appropriate new technology and methods. Please be aware though that, despite our best efforts, no security measures are perfect or impenetrable. 
 
-Although our websites may be accessed by children under the age of 13, we will not knowingly collect or use any personal information from such children without the consent of a parent or guardian. If we become aware that we have collected any personal information from children under 13 and have not received consent from a parent of guardian, we will promptly delete such information from our databases.
+**8\. Data Transfers, Storage and Processing Globally**
 
-**OTHER WEBSITES**
+We operate globally and may transfer your personal information to third parties in locations around the world for the purposes described in this privacy policy. Wherever your personal information is transferred, stored or processed by us, we will take reasonable steps to safeguard the privacy of your personal information. Additionally, when using or disclosing personal information transferred from the European Union, we abide by the Safe Harbor Principles as set forth by the U.S. Department of Commerce, use standard contract clauses approved by the European Commission, adopt other means under European Union law for ensuring adequate safeguards, or obtain your consent. We also apply the substantive requirements of the Safe Harbor Principles when transferring personal information from Australia. 
 
-Our websites may contain links to other websites. Please be aware that Chicken Soup for the Soul Publishing, LLC is not responsible for the privacy practices of other websites. Each website should be checked for its own privacy policy. Any information you share with such a website is subject to its policies and practices and is independent of Chicken Soup for the Soul Publishing, LLC
+**9\. Changes to this Privacy Policy**
 
-**CHANGES TO THIS POLICY**
+From time to time, we may change this privacy policy to accommodate new technologies, industry practices, regulatory requirements or for other purposes. We will provide notice to you if these changes are material and, where required by applicable law, we will obtain your consent. 
 
-Chicken Soup for the Soul Publishing, LLC may from time to time update this privacy policy. Whenever a change to this policy is significant, we will place a prominent notice on our websites.
+**10\. Comments and Questions**
 
-**GOVERNING LAW**
+If you have a comment or question about this privacy policy, please contact our Webmaster. Our sites and applications may contain links to other sites not owned or controlled by us and we are not responsible for the privacy practices of those sites. We encourage you to be aware when you leave our sites or applications and to read the privacy policies of other sites that may collect your personal information. 
 
-By choosing to visit our websites or otherwise provide information to Chicken Soup for the Soul Publishing, LLC, you agree that any dispute over privacy or the terms contained in this privacy policy will be governed by the law of the State of New York. You also agree to arbitrate such disputes and to abide by any limitation on damages contained in our Terms of Use or other agreement we have with you.
+**Definitions**
 
-**UPDATE INFORMATION / SUGGESTIONS**
+Aggregate Information. Aggregate information means information about groups or categories of users, which does not identify and cannot reasonably be used to identify an individual user. 
 
-If you would like to update or correct any information that you have provided to Chicken Soup for the Soul Publishing, LLC through your use of our websites or otherwise, or you have suggestions for improving this privacy policy, please send an email to [webmaster@chickensoupforthesoul.com](mailto:webmaster@chickensoupforthesoul.com).
+Anonymous Information. Anonymous information means information that does not directly or indirectly identify, and cannot reasonably be used to identify, an individual user. 
+
+Application. Application means a program or service operated by us (or on our behalf) that may be displayed on various online, mobile or other platforms and environments, including those operated by third parties, which permits us to interact directly with our users. 
+
+Children. Children means individuals who we have identified are not of legal age to consent to the collection and processing of their personal information. In the United States and Latin America, the term “children” refers to individuals under 13 years of age. 
+
+IP Address. An IP address is associated with the access point through which you enter the Internet, and is typically controlled by your Internet Service Provider (ISP), your company, or your university. We may use IP addresses to collect information regarding the frequency with which our users visit various parts of our sites and applications, and we may combine IP addresses with personal information. 
+
+Notice. Notice may be by email to you at the last email address you provided us, by posting notice of such changes on our sites and applications, or by other means, consistent with applicable law. 
+
+Parents. Parents means a parent or legal guardian. 
+
+Personal information. Personal information means information that identifies (whether directly or indirectly) a particular individual, such as the individual’s name, postal address, email address and telephone number. When anonymous information is directly or indirectly associated with personal information, this anonymous information also is treated as personal information. 
+
+Public Forums. Our sites and applications may offer message boards, conversation pages, blogs, chat rooms, social community environments, profile pages, and other forums that do not have a restricted audience. If you provide personal information when you use any of these features, that personal information may be publicly posted and otherwise disclosed without limitation as to its use by us or by a third party. To request removal of your personal information from a public forum on one of our sites or applications, please contact our Webmaster.
