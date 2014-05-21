@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkatopia.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126123506id_/http%3A//linkatopia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkatopia.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521184736id_/http%3A//www.linkatopia.com/privacy) for the most accurate reproduction.*
 
 # Linkatopia - Privacy Policy, Sep 1, 2012
 
