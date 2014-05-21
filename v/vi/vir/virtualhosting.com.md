@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the virtualhosting.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620044931id_/http%3A//www.virtualhosting.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualhosting.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521173024id_/http%3A//www.virtualhosting.com/blog/privacy) for the most accurate reproduction.*
 
-# Compare Shared Web Hosting Plans » Virtual Hosting
+# Privacy - Virtual Hosting.com
 
-Thank you for visiting Virtual Hosting.com. This policy explains how we use personal information collected at this Web site. Please read this privacy policy before using the site. By using the site, you are accepting the practices described in this privacy policy.
+Thank you for visiting [Virtual Hosting](http://www.virtualhosting.com/ "Virtual Hosting").com. This policy explains how we use personal information collected at this Web site. Please read this privacy policy before using the site. By using the site, you are accepting the practices described in this privacy policy.
 
-This policy may be changed at any time. Any changes will be posted. You are encouraged to review the privacy policy each and every time you visit the site.
+This policy may be changed at any time. Any changes will be posted. You are encouraged to [review](http://www.virtualhosting.com/blog/reviews/ "review") the privacy policy each and every time you visit the site.
 
 ### Cookies
 
@@ -26,4 +26,4 @@ We are not responsible for the policies of Web sites that we hyperlink to. If yo
 
 ### Privacy Contact Information
 
-If you have any questions, comments, or concerns about this privacy policy, please e-mail us at [info@domaindev.com](mailto:info@domaindev.com).
+If you have any questions, comments, or concerns about this privacy policy, please e-mail us.
