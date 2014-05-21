@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyherald.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213123956id_/http%3A//www.dailyherald.com/article/99999999/SERVICES0101/859255635) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyherald.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521232123id_/http%3A//www.dailyherald.com/article/99999999/SERVICES0101/859255635) for the most accurate reproduction.*
 
 # Daily Herald Privacy Policy - DailyHerald.com
 
