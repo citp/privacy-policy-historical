@@ -1,0 +1,512 @@
+<!--The following is the downloaded HTML source of the cellmart.pk privacy policy that was archived on 2014-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140521060458id_/http%3A//cellmart.pk/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="shortcut icon" href="http://cellmart.pk/images/icon.jpg">
+<title>Privacy Policy | CellMart.pk </title>
+<meta name="description" content="Privacy Policy of CellMart.pk">
+<meta name="keywords" content="privacy policy, privacy policy of cellmart.pk">
+<link href="http://cellmart.pk/cssy/stylesheet.min.css?v=1.4" type="text/css" rel="stylesheet">
+<link href="http://cellmart.pk/cssy/accoudingmenu.min.css" type="text/css" rel="stylesheet">
+<link href="http://cellmart.pk/cssy/slider.min.css" rel="stylesheet" type="text/css">
+<link href="http://cellmart.pk/cssy/nivo-slider/themes/default/default.min.css" type="text/css" rel="stylesheet">
+<link href="http://cellmart.pk/cssy/nivo-slider/themes/orman/orman.min.css" type="text/css" rel="stylesheet">
+<link href="http://cellmart.pk/cssy/nivo-slider/themes/pascal/pascal.min.css" type="text/css" rel="stylesheet">
+<link href="http://cellmart.pk/cssy/nivo-slider/nivo-slider.min.css" type="text/css" rel="stylesheet">
+<link href="http://cellmart.pk/cssy/tango.min.css" type="text/css" rel="stylesheet">
+<link href="http://cellmart.pk/cssy/jquery.lightbox-0.5.min.css" media="screen" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="http://cellmart.pk/cssy/jquery.coolfieldset.min.css">
+<link rel="stylesheet" type="text/css" href="http://cellmart.pk/cssy/jquery.coolautosuggest.min.css">
+<link rel="alternate" href="http://cellmart.pk/feed/" title="CellMart Latest Mobile RSS Feed" type="application/rss+xml">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://cellmart.pk/jsy/skype-uri.min.js"></script>
+ <!-- <script type="text/javascript" src="http://cdn.dev.skype.com/uri/skype-uri.js"></script> -->
+<script type="text/javascript" src="http://cellmart.pk/jsy/lib/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="http://cellmart.pk/jsy/jquery-ui-1.7.custom.min.js"></script>
+<script type="text/javascript" src="http://cellmart.pk/jsy/jquery.lightbox-0.5.min.js"></script>
+<script type="text/javascript" src="http://cellmart.pk/jsy/lib/jquery.easing.min.js"></script>
+<script type="text/javascript" src="http://cellmart.pk/jsy/lib/jquery.dimensions.min.js"></script>
+<script type="text/javascript" src="http://cellmart.pk/jsy/lib/chili-1.7.pack.min.js"></script>
+<script type="text/javascript" src="http://cellmart.pk/jsy/nivo-slider/jquery.nivo.slider.min.js"></script>
+<script type="text/javascript" src="http://cellmart.pk/jsy/lib/jquery.jcarousel.min.js"></script>
+<script type="text/javascript" src="http://cellmart.pk/jsy/lib/jquery.jcarousel.min.js"></script>
+<script type="text/javascript" src="http://cellmart.pk/jsy/easyTooltip.min.js"></script>
+<script type="text/javascript" src="http://cellmart.pk/jsy/jquery.coolautosuggest.min.js"></script>
+<script type="text/javascript" src="http://cellmart.pk/jsy/jquery.coolfieldset.min.js"></script>
+<script type="text/javascript" src="http://cellmart.pk/jsy/jquery.nestedAccordian.min.js"></script>
+
+
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+	$.fn.accordion.defaults.container = false; 
+	/*$('.theMenu').accordion({ 
+	    active: true, 
+	    header: '.head', 
+	    navigation: true, 
+	    fillSpace: false, 
+	    animated: 'easeslide',
+	    autoheight: false,
+	    alwaysOpen: false,
+	    running: 0
+	});*/
+	//$('.theMenu')
+	$('#theMenu').accordion({
+		initShow : "#current"
+	});
+	$('#most-viewed-carousel').jcarousel({
+	     visible: 1		
+	});
+	$('#gallery a').lightBox({
+			imageLoading:			'http://cellmart.pk/images/lightbox-ico-loading.gif',		// (string) Path and the name of the loading icon
+			imageBtnPrev:			'http://cellmart.pk/images/lightbox-btn-prev.gif',			// (string) Path and the name of the prev button image
+			imageBtnNext:			'http://cellmart.pk/images/lightbox-btn-next.gif',			// (string) Path and the name of the next button image
+			imageBtnClose:			'http://cellmart.pk/images/lightbox-btn-close.gif',		// (string) Path and the name of the close btn
+			imageBlank:				'http://cellmart.pk/images/lightbox-blank.gif'
+	});  
+	var request = '';
+	$("#cool_search").coolautosuggest({
+		url:"http://cellmart.pk/coolsearch?q=",
+		showThumbnail:true,
+		showDescription:true,
+		minChars:2,
+		width:220,
+		onSelected:function(result){
+		  // Check if the result is not null
+		  if(result!=null){
+			window.location=result.url;
+		  }
+		}
+	});
+	
+});
+$(window).load(function() {
+    $('#main_banner').nivoSlider({
+    	animSpeed: 500,
+		pauseTime: 5000,
+		effect: 'random'
+     });
+});
+
+</script>
+
+
+<script type="text/javascript">
+function showResult(str)
+{
+	$(document).keyup(function(e) {
+
+	if (e.keyCode == 27) 
+	{ 
+		hideresult();
+	}
+	else
+	{
+	
+
+	if (str.length==0)
+	{
+		document.getElementById("livesearch").innerHTML="";
+		document.getElementById("livesearch").className="livesearchNone";
+		return false;
+	}
+	if (window.XMLHttpRequest)
+	  {// code for IE7+, Firefox, Chrome, Opera, Safari
+	  xmlhttp=new XMLHttpRequest();
+	  }
+	else
+	  {// code for IE6, IE5
+	  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+	  }
+	xmlhttp.onreadystatechange=function()
+	  {
+	  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+		{
+		document.getElementById("livesearch").innerHTML=xmlhttp.responseText;
+		 document.getElementById("livesearch").className="livesearch";
+		 $('#livesearch').fadeIn();
+		}
+	  }
+	xmlhttp.open("GET","http://cellmart.pk/livesearch?q="+str,true);
+	xmlhttp.send();
+	}
+	  
+	});
+	
+		
+}
+
+function hideresult()
+{
+	if (document.getElementById("livesearch").innerHTML!="")
+	{
+		document.getElementById("livesearch").innerHTML="";
+  		document.getElementById("livesearch").className="livesearchNone";
+		
+	}
+	
+	
+}
+
+
+</script>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+
+<body>
+<div class="waper">
+	<!-- Start Header-->
+	<div class="header">
+		
+<script type="text/javascript">
+<!--
+function myPopup2() {
+window.open( "http://cellmart.pk/live_support", "myWindow", "status = 1, height = 300, width = 300, resizable = 0" )
+}
+//-->
+</script>
+	<!--Start logo-->
+  		<div class="logo">
+			<a href="http://cellmart.pk/">
+				<img src="http://cellmart.pk/images/logo.jpg" alt="logo" width="253" height="84" border="0">
+			</a>    
+			
+    	</div>
+    <!--End logo-->
+ 
+	<!--Start headerright-->
+	<div class="headerright">
+	<!--<div class="live2">
+		<object id="pingboxatho5lyg81g0W" type="application/x-shockwave-flash" data="http://wgweb.msg.yahoo.com/badge/Pingbox.swf" width="440" height="420"><param name="movie" value="http://wgweb.msg.yahoo.com/badge/Pingbox.swf" /><param name="allowScriptAccess" value="always" /><param name="flashvars" value="wid=Xa_dD224Rm4ZNTB0SIPrMwmtDss-" /></object>
+</div>-->
+<div class="addcart">
+			<div class="image"><a href="http://cellmart.pk/cart/"><img src="http://cellmart.pk/images/cart.png" alt="" width="60" height="57" border="0"></a></div>
+			<p><b><a href="http://cellmart.pk/cart/">0 items</a></b><br> in your cart</p>
+		</div>
+	
+<div class="live">
+<div id="SkypeButton_Dropdown_cellmartpk_1">
+  <script type="text/javascript">
+    Skype.ui({
+      "name": "dropdown",
+      "element": "SkypeButton_Dropdown_cellmartpk_1",
+      "participants": ["cellmartpk"],
+      "imageSize": 32
+    });
+  </script>
+</div>
+			</div>		
+
+	
+		<div class="number">	
+			<p>+92-42-35754699</p>
+			<img src="http://cellmart.pk/images/phone.png" alt="Phone" width="18" height="14" border="0">
+			<p>+92-300-8463305</p>
+			<img src="http://cellmart.pk/images/mob.png" alt="Mobile" width="18" height="20" border="0">
+		</div>
+	</div>
+	<!--End headerright-->
+    
+    
+   
+	</div>
+	<!-- Close Header-->
+
+    <!--Start menu-->
+     <div class="navigation">  
+			<div class="menu">
+    <ul>
+        <li><a href="http://cellmart.pk/">HOME </a></li>
+                <li><a href="http://cellmart.pk/how-to-buy/">HOW TO BUY</a></li>
+        <li><a href="http://cellmart.pk/about/">ABOUT US</a></li>
+        <li><a href="http://cellmart.pk/feedback/">FEEDBACK</a></li>
+        <li><a href="http://cellmart.pk/contact/">CONTACT US</a></li>
+    </ul>
+</div>
+<!--Start sreachbox-->
+ 
+<form action="http://cellmart.pk/search?" method="get">
+    <div class="sreachraw">
+        <div class="input">
+		<div class="search-ajax-loader"></div>
+            <input id="cool_search" name="q" class="input" type="text">
+        </div>
+        <input type="image" src="http://cellmart.pk/images/searchbutton.png" class="sreachrawbutton">
+        <div id="livesearch">
+			
+        </div>
+          
+    </div>
+</form><!--End sreachbox-->	  <!--Start sreachbox-->
+			
+	  <!--End sreachbox-->
+</div>
+    <!--End menu-->
+<div class="clr"></div>
+
+	<!--Start banner-->
+		<!--<div class="banner">
+			 
+		</div>
+	--><!--End banner-->           
+ <div class="clr"></div>
+
+
+<div class="mainpage">
+	<div class="left_column">
+		<div class="heading"> <h3> BROWSE BY </h3> </div>
+
+<ul class="accordion theMenu" id="theMenu">
+  <li>
+    <a class="head" href="javascript:;">Brands </a>
+    <ul>
+              <li><a class="navigation-link" href="http://cellmart.pk/apple-in-pakistan/">Apple</a></li>
+                <li><a class="navigation-link" href="http://cellmart.pk/samsung-in-pakistan/">Samsung</a></li>
+                <li><a class="navigation-link" href="http://cellmart.pk/htc-in-pakistan/">HTC</a></li>
+                <li><a class="navigation-link" href="http://cellmart.pk/motorola-in-pakistan/">Motorola</a></li>
+                <li><a class="navigation-link" href="http://cellmart.pk/sony-ericsson-in-pakistan/">Sony Ericsson</a></li>
+                <li><a class="navigation-link" href="http://cellmart.pk/nokia-in-pakistan/">NOKIA</a></li>
+                <li><a class="navigation-link" href="http://cellmart.pk/lg-in-pakistan/">LG</a></li>
+                <li><a class="navigation-link" href="http://cellmart.pk/dell-in-pakistan/">DELL</a></li>
+                <li><a class="navigation-link" href="http://cellmart.pk/acer-in-pakistan/">ACER</a></li>
+                <li><a class="navigation-link" href="http://cellmart.pk/sony-phones-in-pakistan/">Sony</a></li>
+                <li><a class="navigation-link" href="http://cellmart.pk/asus-in-pakistan/">Asus</a></li>
+                <li><a class="navigation-link" href="http://cellmart.pk/huawei-in-pakistan/">Huawei</a></li>
+                <li><a class="navigation-link" href="http://cellmart.pk/xtouch-in-pakistan/">Xtouch</a></li>
+                <li><a class="navigation-link" href="http://cellmart.pk/ainol-in-pakistan/">Ainol</a></li>
+                <li><a class="navigation-link" href="http://cellmart.pk/amazon-in-pakistan/">Amazon</a></li>
+                <li><a class="navigation-link" href="http://cellmart.pk/microsoft-in-pakistan/">Microsoft</a></li>
+                <li><a class="navigation-link" href="http://cellmart.pk/blackberry-in-pakistan/">Blackberry</a></li>
+                <li><a class="navigation-link" href="http://cellmart.pk/qmobile-in-pakistan/">QMobile</a></li>
+                <li><a class="navigation-link" href="http://cellmart.pk/connect-in-pakistan/">Connect</a></li>
+        
+
+
+    </ul>
+  </li>
+  <li>
+    <a class="head" href="javascript:;">OS </a>
+    <ul>
+                <li><a class="navigation-link" href="http://cellmart.pk/android-phones-in-pakistan/">Android</a></li>
+                    <li><a class="navigation-link" href="http://cellmart.pk/apple-pakistan/">Apple iOS</a></li>
+                    <li><a class="navigation-link" href="http://cellmart.pk/bada-phones-in-pakistan/">Bada OS</a></li>
+                    <li><a class="navigation-link" href="http://cellmart.pk/blackberry-pakistan/">BlackBerry</a></li>
+                    <li><a class="navigation-link" href="http://cellmart.pk/brew-phones-in-pakistan/">Brew OS</a></li>
+                    <li><a class="navigation-link" href="http://cellmart.pk/meego-phones-in-pakistan/">MeeGo</a></li>
+                    <li><a class="navigation-link" href="http://cellmart.pk/symbian-in-pakistan/">Symbian</a></li>
+                    <li><a class="navigation-link" href="http://cellmart.pk/windows-phones-in-pakistan/">Windows</a></li>
+              </ul>
+  </li>
+  <li>
+    <a class="head" href="javascript:;">Price Range </a>
+    <ul>
+      <li><a href="http://cellmart.pk/search/?p=1000-15000">1,000 - 15,000</a></li>
+
+      <li><a class="navigation-link" href="http://cellmart.pk/search/?p=15001-30000">15,001 - 30,000</a></li>
+      <li><a class="navigation-link" href="http://cellmart.pk/search/?p=30001-50000">30,001 - 50,000</a></li>
+      <li><a class="navigation-link" href="http://cellmart.pk/search/?p=50000"> Price &gt; 50,000</a></li>
+    </ul>
+  </li>
+  <li>
+    <a class="accessories-menu head" href="javascript:;">Accessories</a>
+    <ul>
+      <li class="nested-list"><a class="accessories-menu head" href="javascript:;">Categories</a>
+        <ul>
+                      <li><a class="navigation-link" href="http://cellmart.pk/bluetooth-headsets-in-pakistan/">Bluetooth Headsets</a></li>
+                        <li><a class="navigation-link" href="http://cellmart.pk/ipod-touch-4g-in-pakistan/">iPod Touch 4G</a></li>
+                        <li><a class="navigation-link" href="http://cellmart.pk/mac-accessories-in-pakistan/">Mac Accessories</a></li>
+                        <li><a class="navigation-link" href="http://cellmart.pk/sony-accessories-in-pakistan/">Sony Accessories</a></li>
+                        <li><a class="navigation-link" href="http://cellmart.pk/beats-in-pakistan/">Beats</a></li>
+                        <li><a class="navigation-link" href="http://cellmart.pk/apple-accessories-in-pakistan/">Apple Accessories</a></li>
+                        <li><a class="navigation-link" href="http://cellmart.pk/pouches-cases-in-pakistan/">Pouches / Cases</a></li>
+                        <li><a class="navigation-link" href="http://cellmart.pk/headsets-in-pakistan/">Headsets</a></li>
+                        <li><a class="navigation-link" href="http://cellmart.pk/ipod-touch-in-pakistan/">iPod Touch</a></li>
+                        <li><a class="navigation-link" href="http://cellmart.pk/samsung-accessories-in-pakistan/">Samsung Accessories</a></li>
+                        <li><a class="navigation-link" href="http://cellmart.pk/memory-cards-in-pakistan/">Memory Cards</a></li>
+                    </ul>
+      </li>
+      <li class="nested-list">
+        <a class="accessories-menu head" href="javascript:;">Brands</a>
+        <ul>
+                      <li><a class="navigation-link" href="http://cellmart.pk/sandisk-in-pakistan-2/">SanDisk</a></li>
+                        <li><a class="navigation-link" href="http://cellmart.pk/jabra-in-pakistan-2/">Jabra</a></li>
+                        <li><a class="navigation-link" href="http://cellmart.pk/apple-in-pakistan-3/">Apple</a></li>
+                        <li><a class="navigation-link" href="http://cellmart.pk/sony-in-pakistan/">Sony</a></li>
+                        <li><a class="navigation-link" href="http://cellmart.pk/beats-by-dr.dre-in-pakistan-2/">Beats By Dr.Dre</a></li>
+                        <li><a class="navigation-link" href="http://cellmart.pk/iwatchz-in-pakistan-2/">iWatchz</a></li>
+                        <li><a class="navigation-link" href="http://cellmart.pk/samsung-in-pakistan-2/">Samsung</a></li>
+                        <li><a class="navigation-link" href="http://cellmart.pk/nokia-in-pakistan-2/">Nokia</a></li>
+                        <li><a class="navigation-link" href="http://cellmart.pk/xtouch-in-pakistan-2/">Xtouch</a></li>
+                        <li><a class="navigation-link" href="http://cellmart.pk/asus-in-pakistan-2/">Asus</a></li>
+                        <li><a class="navigation-link" href="http://cellmart.pk/spigen-in-pakistan-2/">Spigen</a></li>
+                        <li><a class="navigation-link" href="http://cellmart.pk/htc-in-pakistan-2/">HTC</a></li>
+                    </ul>
+      </li>
+    </ul>
+  </li>
+
+</ul>
+<div class="side-mobile-views">
+<div class="heading"> <h4 class="side-widgets-heading"> Latest Additions</h4> </div>
+<div class="just-added">
+    <ul>
+    <li><a class="mobile-teaser-title" href="http://cellmart.pk/mobile-phone/motorola-moto-e-in-pakistan/">Motorola Moto E</a></li><li><a class="mobile-teaser-title" href="http://cellmart.pk/mobile-phone/motorola-moto-g-4g-16gb-in-pakistan/">Motorola Moto G 4G 16GB</a></li><li><a class="mobile-teaser-title" href="http://cellmart.pk/mobile-phone/motorola-moto-g-4g-8gb-in-pakistan/">Motorola Moto G 4G 8GB</a></li><li><a class="mobile-teaser-title" href="http://cellmart.pk/mobile-phone/htc-one-mini-2-in-pakistan/">HTC One mini 2</a></li><li><a class="mobile-teaser-title" href="http://cellmart.pk/mobile-phone/samsung-galaxy-tab-4-7.0-sm-t231-in-pakistan/">Samsung Galaxy Tab 4 7.0 SM-T231</a></li><li><a class="mobile-teaser-title" href="http://cellmart.pk/mobile-phone/samsung-galaxy-s-iii-mini-i8200-in-pakistan/">Samsung Galaxy S III mini I8200</a></li><li><a class="mobile-teaser-title" href="http://cellmart.pk/mobile-phone/htc-desire-816-in-pakistan/">HTC Desire 816</a></li><li><a class="mobile-teaser-title" href="http://cellmart.pk/mobile-phone/samsung-galaxy-s3-neo-i9300i-in-pakistan/">Samsung Galaxy S3 Neo I9300I</a></li><li><a class="mobile-teaser-title" href="http://cellmart.pk/mobile-phone/samsung-galaxy-s5-sm-g900f-in-pakistan/">Samsung Galaxy S5 SM-G900F</a></li><li><a class="mobile-teaser-title" href="http://cellmart.pk/mobile-phone/samsung-galaxy-tab-4-7.0-sm-t230-in-pakistan/">Samsung Galaxy Tab 4 7.0 SM-T230</a></li></ul></div>
+</div>
+  <a href="http://cellmart.pk/mobile-phone/samsung-galaxy-note-3-n9000-in-pakistan/">
+    <img src="http://cellmart.pk/images/banners/1401010755011.jpg" width="182" border="0" alt="Samsung Galaxy Note 3 in Pakistan"></a>
+  <br><br>
+  <a href="http://cellmart.pk/mobile-phone/lg-g2-in-pakistan/">
+    <img src="http://cellmart.pk/images/banners/1308300912141.jpg" width="182" border="0" alt="LG G2 in Pakistan"></a>
+  <br><br>
+  <a href="http://cellmart.pk/mobile-phone/-in-pakistan-2/">
+    <img src="http://cellmart.pk/images/banners/1312060708331.jpg" width="182" border="0" alt="Samsung Galaxy Gear in Pakistan"></a>
+  <br><br>
+	</div>
+
+	<div class="center_column">
+			<div class="featuredproducts">
+				
+              <div class="featuredheading"> 
+				<h1>Privacy Policy</h1>
+			</div>
+<p class="about">This Privacy Policy governs the manner in which CellMart collects, uses, maintains and discloses information collected from users (each, a "User") of the <a href="http://cellmart.pk/">http://cellmart.pk</a> website ("Site"). This privacy policy applies to the Site and all products and services offered by CellMart.</p>
+<strong>Personal identification information</strong>
+
+<p class="about">We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users register on the site, place an order, respond to a survey, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.</p>
+
+<strong>How we use collected information</strong>
+
+<p class="about">CellMart may collect and use Users personal information for the following purposes:</p>
+<ul>
+	<li>- To improve customer service
+Information you provide helps us respond to your customer service requests and support needs more efficiently.</li>
+	<li>- To personalize user experience
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.</li>
+	<li>- To improve our Site
+We may use feedback you provide to improve our products and services.</li>
+	<li>- To send periodic emails
+If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.</li>
+</ul>
+<strong>How we protect your information</strong>
+
+<p class="about">We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.</p>
+
+<p class="about">Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.</p>
+
+<strong>Sharing your personal information</strong>
+
+<p class="about">We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.</p>
+
+<strong>Changes to this privacy policy</strong>
+
+<p class="about">CellMart has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.</p>
+
+<strong>Contacting us</strong>
+
+<p class="about">If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+<a href="http://cellmart.pk/">CellMart</a>
+<a href="http://cellmart.pk/">http://cellmart.pk</a>
+Shop No. 131, Ground Floor Hafeez Centre, Gulberg III Lahore.
++92-42-35754699
+info at cellmart.pk</p>
+
+<p class="about"><small>This document was last updated on February 24, 2014</small></p>
+			<div class="clr"></div>
+  		
+			
+
+<!--Start paymenys -->
+	<div class="payments">
+		<div class="paymenysdetail">
+    <div class="img"><a href="http://cellmart.pk/how-to-buy/"><img src="http://cellmart.pk/images/alflah_logo.jpg" alt="Pay Cellmart through Bank Al Falah" title="Pay Cellmart through Bank Al Falah" width="102" height="30" border="0"></a></div>
+    <div class="img"><a href="http://cellmart.pk/how-to-buy/"><img src="http://cellmart.pk/images/standard.png" alt="Pay Cellmart through Bank Al Falah" title="Pay Cellmart through Standard Chartered" width="77" height="28" border="0"></a></div>
+</div>
+
+<div class="paymenysdetail">
+    <div class="img"><a href="http://cellmart.pk/how-to-buy/"><img src="http://cellmart.pk/images/tcs.png" alt="Cellmart TCS" width="57" height="27" border="0"></a></div>
+    <div class="img"><a href="http://cellmart.pk/how-to-buy/"><img src="http://cellmart.pk/images/daewoo.jpg" alt="Cellmart Daewoo" width="52" height="27" border="0"></a></div>
+    <div class="img"><a href="http://cellmart.pk/how-to-buy/"><img src="http://cellmart.pk/images/speedex.png" alt="Cellmart speedex" width="75" height="23" border="0"></a></div>
+</div>
+
+<div class="paymenysdetail1">
+    <div class="img"><a href="http://cellmart.pk/how-to-buy/"><img src="http://cellmart.pk/images/visa.png" alt="Cellmart Visa" width="44" height="30" border="0"></a></div>
+    <div class="img"><a href="http://cellmart.pk/how-to-buy/"><img src="http://cellmart.pk/images/card.jpg" alt="Cellmart Card" width="44" height="30" border="0"></a></div>
+</div>	</div>
+<!--End paymenys -->
+</div>
+
+<!--Start Right -->
+	
+<!--End Right -->
+</div>
+<div class="clr"></div>
+</div>
+<!--End  wraper-->
+<div class="clr"></div>
+<!--Start footer-->
+<div class="footer">
+<div id="footer">
+	<ul id="ul">
+		 <li><a href="http://cellmart.pk/"> Home</a></li>
+		 <li><a href="http://cellmart.pk/how-to-buy/"> How to Buy</a></li>
+		 <li><a href="http://cellmart.pk/about/">About Us</a></li>
+		 <li><a href="http://cellmart.pk/feedback/"> Feedback</a></li>
+		 <li><a href="http://cellmart.pk/contact/"> Contact Us</a></li>
+		 <li><a href="http://cellmart.pk/privacy/" class="noborder"> Privacy Policy </a></li>
+	</ul>
+<span> Copyright © 2014: CellMart.pk</span>
+</div>
+<script type="text/javascript" async="" src="//ssl.widgets.webengage.com/js/widget/webengage-min-v-3.0.js"></script><script id="_webengage_script_tag" type="text/javascript">
+  window.webengageWidgetInit = window.webengageWidgetInit || function(){
+    webengage.init({
+      licenseCode:"11b564618"
+    }).onReady(function(){
+      webengage.render();
+    });
+  };
+
+  (function(d){
+    var _we = d.createElement('script');
+    _we.type = 'text/javascript';
+    _we.async = true;
+    _we.src = (d.location.protocol == 'https:' ? "//ssl.widgets.webengage.com" : "//cdn.widgets.webengage.com") +
+              "/js/widget/webengage-min-v-3.0.js";
+    var _sNode = d.getElementById('_webengage_script_tag');
+    _sNode.parentNode.insertBefore(_we, _sNode);
+  })(document);
+</script>
+<script type="text/javascript">
+adroll_adv_id = "QCWNPRC56BFOHLYXGCC3BT";
+adroll_pix_id = "UXSOGEUTRNFFVHDM6P4TZG";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+</div>
+<!--End footer-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-25228179-1']);
+  _gaq.push(['_setDomainName', '.cellmart.pk']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</div></body></html>
