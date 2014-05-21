@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the airtricity.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022071642id_/http%3A//www.airtricity.com/ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtricity.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521173152id_/http%3A//www.airtricity.com/ie/privacy-policy) for the most accurate reproduction.*
 
-# Online Privacy Policy | Greener and Cheaper Energy from Airtricity
+# Online Privacy Policy | Greener and Cheaper Energy from SSE Airtricity
 
-Airtricity Limited, a company registered in Ireland with company number 317386 and having its registered office at Airtricity House, Ravenscourt Office Park, Sandyford, Dublin 18 and a member of the Scottish and Southern Energy Group (hereinafter referred to as “ **Airtricity** ”, “ **Our** ”, “ **We** ” or “ **Us** ”) is committed to protecting and respecting your privacy.
+SSE Airtricity Limited, a company registered in Ireland with company number 317386 and having its registered office at Red Oak South, South County Business Park, Leopardstown, Dublin 18 and a member of the Scottish and Southern Energy Group (hereinafter referred to as “ **SSE Airtricity** ”, “ **Our** ”, “ **We** ” or “ **Us** ”) is committed to protecting and respecting your privacy.
 
-Airtricity complies with the Data Protection Act, 1988 and the Data Protection Amendment Act, 2003 (hereinafter referred to as the “ **DPA** ”) and any other locally applicable data protection legislation.
+SSE Airtricity complies with the Data Protection Act, 1988 and the Data Protection Amendment Act, 2003 (hereinafter referred to as the “ **DPA** ”) and any other locally applicable data protection legislation.
 
 This privacy policy explains how the information We collect from you, is used, processed and stored.
 
@@ -34,7 +34,7 @@ If Our business is sold or integrated with another business, your details may be
 
 ## 5\. Updating Your Information
 
-It is your responsibility to ensure that you provide Us with full and correct information. If any of the information you have given Us changes, please let us know either by writing to Us at Data Protection Officer Airtricity Limited, Airtricity House, Ravenscourt Office Park, Sandyford, Dublin 18 or by phoning us on **1850 81 22 20** or by [emailing Us](http://www.airtricity.com/ie/home/help-centre-ie/contact-us/email/) specifying you account / MPRN / GPRN on all correspondence.
+It is your responsibility to ensure that you provide Us with full and correct information. If any of the information you have given Us changes, please let us know either by writing to Us at Data Protection Officer SSE Airtricity Limited, Red Oak South, South County Business Park, Leopardstown, Dublin 18 or by phoning us on **1850 81 22 20** or by [emailing Us](http://www.airtricity.com/ie/home/help-centre-ie/contact-us/email/) specifying you account / MPRN / GPRN on all correspondence.
 
 ## 6\. Your Consent
 
@@ -42,11 +42,11 @@ It is your responsibility to ensure that you provide Us with full and correct in
 
 You can also ask Us not to process your personal data or information for marketing purposes. We will usually inform you (before collecting your data or information) if We intend to use your personal data or information for such purposes or if We intend to disclose your personal data or information to any third party for such purposes.
 
-You can exercise your right to prevent such processing by checking certain boxes on the forms We use to collect your data or you may exercise your right of opt-out either by writing to Us at Data Protection Opt-Out, Airtricity Limited, Airtricity House, Ravenscourt Office Park, Sandyford, Dublin 18 or by phoning us on **1850 81 22 20** or by by [emailing Us](http://www.airtricity.com/ie/home/help-centre-ie/contact-us/email/) specifying your account / MPRN / GPRN on all correspondence.
+You can exercise your right to prevent such processing by checking certain boxes on the forms We use to collect your data or you may exercise your right of opt-out either by writing to Us at Data Protection Opt-Out, SSE Airtricity Limited, Red Oak South, South County Business Park, Leopardstown, Dublin 18 or by phoning us on **1850 81 22 20** or by by [emailing Us](http://www.airtricity.com/ie/home/help-centre-ie/contact-us/email/) specifying your account / MPRN / GPRN on all correspondence.
 
 ## 7\. Access to Information
 
-You have the right under the DPA to access the information We hold about you. You may submit a request to us in writing accompanied with a **Postal Order** for the applicable €6.35 fee to Data Protection Officer at Airtricity Limited, Airtricity House, Ravenscourt Office Park, Sandyford, Dublin 18, Ireland.
+You have the right under the DPA to access the information We hold about you. You may submit a request to us in writing accompanied with a **Postal Order** for the applicable €6.35 fee to Data Protection Officer at SSE Airtricity Limited, Red Oak South, South County Business Park, Leopardstown, Dublin 18, Ireland.
 
 ## 8\. Changes to Our Privacy Policy
 
