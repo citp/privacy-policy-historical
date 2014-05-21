@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnstagelighting.com privacy policy that was archived on 2013-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130715011248id_/http%3A//www.learnstagelighting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnstagelighting.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521130151id_/http%3A//www.learnstagelighting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Learn Stage Lighting .comLearn Stage Lighting .com
 
@@ -16,7 +16,7 @@ www.learnstagelighting.com does use cookies to store information about visitors 
 
 **DoubleClick DART Cookie**  
 .:: Google, as a third party vendor, uses cookies to serve ads on www.learnstagelighting.com.  
-.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to www.learnstagelighting.com and other sites on the Internet.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.learnstagelighting.com and other sites on the Internet.  
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
@@ -26,6 +26,8 @@ These third-party ad servers or ad networks use technology to the advertisements
 
 www.learnstagelighting.com has no access to or control over these cookies that are used by third-party advertisers.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.learnstagelighting.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.learnstagelighting.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+_LearnStageLighting is a participant in the Amazon Services LLC Associates Program,  an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to (“learnstagelighting.com” ([amazon.com](http://amazon.com/), or [endless.com](http://endless.com/), MYHABIT.com, SmallParts.com, or AmazonWireless.com)._
