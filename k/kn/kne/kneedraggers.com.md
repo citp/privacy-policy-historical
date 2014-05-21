@@ -1,83 +1,96 @@
-> *The following text is extracted and transformed from the kneedraggers.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116190804id_/http%3A//www.motosport.com/motorcycle/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kneedraggers.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521180750id_/http%3A//www.motosport.com/motorcycle/about/privacypolicy) for the most accurate reproduction.*
 
 # The #1 Online Motorcycle & Sportbike Store - Shop With The Guys That Ride | MotoSport
 
-Last Updated: September 2010
+Effective May 19th, 2014.
 
-We are strongly committed to protecting the privacy of your personal information.  The policies below are applicable to the MotoSport.com website and to other Internet domains owned by us that direct traffic to MotoSport.com (collectively, "Website"), produced and maintained by MotoSport, Inc. ("MotoSport," "we", "us", or "our"). We have established this security and privacy policy ("Privacy Policy") to let you know the kinds of personal information we may gather during your visit to the Website, why we gather your information, what we use your personal information for, when we might disclose your personal information, how you can manage your personal information, and the security procedures that are in place to protect the information.
+## Our Commitment To Privacy
 
-Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Website and, where applicable, through this Website's Customer Service Department in connection with this Website, and do not necessarily reflect our practices with respect to information gathered through other Websites that we operate or through other off-line means.
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this policy easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. In this policy, "Personal Information" is defined as data and facts about you that is collected by MotoSport.com ("MotoSport") or its affiliate websites, but does not include your IP address.
 
- **By visiting our Website, you are accepting the practices described in our Privacy Policy.   If you do not agree to the terms of this Privacy Policy, please do not use the Website.  We reserve the right to modify or amend the terms of our Privacy Policy from time to time without notice. Your continued use of our Website and our affiliate sites following the posting of changes to these terms will mean you accept those changes.**
+## The Information We Collect
 
-If you have any questions about this Privacy Policy or don't see your concerns addressed here, you should [send us an email](https://web.archive.org/contact).
+This policy applies to all information collected or submitted on the MotoSport website, including all affiliated websites, including but not limited to: Backcountry.com, Backcountrytreeline.com, Chainlove.com, CompetitiveCyclist.com, DepartmentOfGoods.com, Dogfunk.com, RealCyclist.com, SteepandCheap.com, and WhiskeyMilitia.com. On some pages, you can order products, make requests, submit product reviews, and register to receive materials or communications from us. The types of Personal Information collected at these pages are:
 
-* * *
-
-MotoSport adheres to the highest standards of ethical practices in all of our operations and is dedicated to protecting the privacy of all visitors to our Website.  **Our privacy policy is simple: Except as disclosed below, we don't sell, barter, give away, or rent your personal information to any company outside of the MotoSport family.**  One of the basic principles we've tried to follow in designing this Website is that we ask for only the information we need to provide the service you've requested. As a result, what information we collect and store depends almost entirely on how you choose to make use of our Website and our services. 
-
-We collect and store information that you enter into this Website or that you provide through our Customer Service Department.  For example, when you open an account or place an order, we collect and store some or all of the following information that you provide: name, billing address, shipping address, email address, telephone number, credit card number and expiration date (together "Personal Information"). This information is used to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations and to provide customer service. Registration may also be required and Personal Information may also be collected in certain portions of the Website in which you specifically and knowingly provide such information, e.g. community postings (i.e., reviews, chat or bulletin boards), catalog requests, newsletter subscriptions, suggestions, survey responses, participation in contests and promotions, or customer service requests.  Some of this information also may be used to contact you about sales, new products, special offers, and new site features. You will always have an opportunity to opt out of receiving these promotional communications in connection with this Website.
-
-Through your use of the Website, we may also gather certain information that does not identify you individually ("Anonymous Information" or "traffic data").  We collect and store certain other information automatically whenever you interact with this Website. For example, we collect your IP address, browser information and reference site domain name every time you visit this Website. We also collect information regarding customer traffic patterns and site usage. This information is used to analyze and improve this Website and to provide our customers with a fulfilling shopping experience.  We may also combine this information with your Personal Information in order to provide you with a more targeted and personalized shopping experience. 
-
-We never use or install spyware on your computer, nor do we use spyware to retrieve information from your computer.
-
-Like many Websites, we use "cookies", which are files stored on your computer's hard drive by your browser. Cookies help us to identify account holders and to optimize their shopping experience. Cookies also allow us to hold selections in a shopping cart when a user leaves this Website without checking out and send you reminder e-mail about your shopping orders and other shopping opportunities. For the Website to run properly, you must leave cookies "turned on." You may also get cookies from companies advertising on our behalf.  This is very common and used by many large Internet companies.  We do not control these cookies, and these cookies are not subject to our Privacy Policy.  <
-
-We also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database and to provide product recommendations and special offers that we think will interest you and, if you have agreed to receive e-mail from us, send you reminders about shopping opportunities. 
-
-We collect e-mail addresses and, in some cases, zip codes of all users who subscribe to our weekly newsletter.  Except to our third party agents (as described below), this information is not shared with any third parties for any purposes.  Anyone who no longer wishes to receive this newsletter can, at any time, follow the "Unsubscribe" instructions located within each newsletter.
-
-We do not sell or ship any items ordered through this Website directly to anyone who we know to be under the age of 13, nor do we collect any personal information from anyone who we know to be under the age of 13. If you are under the age of 13, you should use this Website only with the involvement of a parent or guardian and should not submit any personal information to us.  Our Website is not intentionally targeted to children under the age of 13.  Children under the age of 13 should not use our Website.  In accordance with the Children's Online Privacy Protection Act, we do not knowingly collect personally identifiable information from anyone under 13 years of age, and any information we receive from individuals we believe to be minors will be purged from our database. 
-
-Except as disclosed in this Privacy Policy, we do not use or disclose your Personal Information collected online to any companies not affiliated with us. 
-
-We may use your Personal Information to fulfill orders, provide customer service, track your compliance with the Website's rules and regulations, or for editorial and feedback purposes (to the extent that is explained when you provide the information).  We reserve the right to publicly post feedback that you provide to us regarding the Website and our business.  To the extent that this feedback includes Personal Information, we will use reasonable efforts to limit the disclosure of such Personal Information (e.g. only including your first name, city and state).
-
-We use Anonymous Information to help us determine how people use parts of the Website and who our readers are so we can improve our Website and ensure that it is as appealing as we can make it for as many people as possible.  We also use Anonymous Information to provide statistical "ratings" information in aggregated form to our partners and other third parties about how our users collectively use the Website.  We may also use or share Anonymous Information (or other information, other than Personal Information) in any other manner that we deem appropriate or necessary.
-
-We occasionally have third party agents, subsidiaries, affiliates and partners that perform functions on our behalf, such as marketing, analytics, advertising agencies, credit card processing, shipping or stocking orders, providing customer service, fraud protection etc.  These entities have access to the Personal Information needed to perform their functions and are contractually obligated to maintain the confidentiality and security of that Personal Information.  They are prohibited from using, selling, distributing or altering this data in any way other than to provide the requested services to MotoSport.
-
-Third party services that are provided directly to you through our Website, such as the "Bill Me Later" service, may collect different information and have different terms and conditions, including different privacy policies, with regard to such information. Please read those third party terms and conditions carefully before providing sensitive information. 
-
-We may share Anonymous Information with our partners and others from time to time. Examples of such Anonymous Information include the number of users who visited this Website during a specific time period or purchased a specific product through this Website. This Anonymous Information generally is shared in an aggregated form.  We may also share Personal Information with trusted partners who we believe have products or services that would be of interest to you and would provide the same high level of service that you expect from MotoSport.
-
-We may also use or disclose Personal Information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on us or the Website; (b) protect and defend our rights or property, the Website or our users, and (c) act under emergency circumstances to protect the personal safety of us, our affiliates, agents, the users of the Website, or the public.
-
-The importance of security for all Personal Information associated with you is of utmost concern to us. We exercise great care in providing secure transmission of your information from your PC to our servers.  Personal Information collected by our websites is stored in secure operating environments that are not available to the public.  In many instances, such as in the case of credit card numbers and all on-line purchases, the Personal Information is encrypted before you conduct your transaction.  Only those employees who need access to your Personal Information in order to do their jobs are allowed access. Any employee who violates our privacy and/or security policies is subject to disciplinary action, including possible termination and civil and/or criminal prosecution. 
-
-To protect the security of your information during transmission, we use Secure Sockets Layer (SSL) software, which encrypts information you input. Most browsers will give a visual indication of when your connection is secure. For example, Internet Explorer will show a padlock icon in the lower right of the browser window.  If you place an order through this Website, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel your password, or if you become aware of any loss, theft or unauthorized use of your password, please contact this Website's Customer Service Department by email ([Contact us](https://web.archive.org/contact)) or by phone at 1-866-333-8033.
-
-While we try our best to safeguard your Personal Information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure. 
-
-This Website may contain links to other Websites operated by MotoSport, affiliates of MotoSport or third parties. Please be advised that the practices described in this Privacy Policy for MotoSport.com do not apply to information gathered through these other Websites. These other sites may also send their own cookies to you, collect your data or solicit your personal information.  Always be aware of where you end up.  We are not responsible for the actions and privacy policies of third parties and other websites.  We encourage you to be aware of when you leave this Website and to read the privacy policies of each and every Website that you visit.
-
-When we run a contest or sweepstakes relating to this Website, it will be accompanied by a set of rules. The rules for each contest/sweepstakes will specify how the information gathered from you for entry will be used and disclosed, if it is different than as described in this Privacy Policy.  Personal Information will be collected only if you voluntarily submit it to our sponsors or us.
-
-Please remember that any information you share in public areas, such as message boards or feedback sections, becomes public, and therefore this Privacy Policy does not apply to any information you choose to make public.  Please be careful about what you disclose and do not post any Personal Information that you expect to keep private.
-
-The Website is published in the United Statesand is intended for users from the United States. U. S.law shall govern in any and all disputes, including privacy or defamation issues or otherwise.
-
-We may change MotoSport's ownership or corporate organization, or be acquired by or merged with another company while providing the Website and Services.  As a result, please be aware that we may transfer or assign your information to an affiliate or another company as a part of any merger, acquisition, sale, or other change of control or organization.  Under such circumstances, MotoSport would to the extent reasonably possible require the acquiring party to follow the practices described in this Privacy Policy as it may be amended from time to time.
-
-We will post any changes to this Privacy Policy prominently so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.  We do, however, recommend that you read this Privacy Policy each time you use our website in case you missed our notice of changes to the Privacy Policy.  At the beginning of the Privacy Policy we provide the date on which the Privacy Policy was last updated. 
-
-There are several ways in which you can manage your Personal Information.  When you set up an account with us, or click on "View/Update My Profile" within the "Customer Service" section, you will have an opportunity to provide or update your billing and shipping information. 
-
-You may also manage your e-mail newsletter subscriptions and your e-mail preferences and information by following the "Unsubscribe" or "Update Your Preferences" instructions contained in the promotional emails we send you. 
-
-Questions regarding this statement should be directed to the MotoSport.com Customer Service; 7655 SW Mohawk St., Tualatin, OR 97062, or send an email to sales@MotoSport.com. 
-
-We may use your information to notify you of important changes to the Website or Services, or provide you with our email newsletter or special offers.  If you do not want to receive such information, you may use the following options to opt out of receiving future communications:
-
-  1. Send an email to sales@MotoSport.com with the word "Remove" in the subject field; or
-  2. Send mail to the following postal address:
+  * Name
+  * Address
+  * Email address
+  * Phone number
+  * Credit/Debit card information
+  * Transaction Information
 
 
 
-Sales  
-Attn: Remove  
-MotoSport, Inc.  
-7655 SW Mohawk St.Tualatin, OR 97062
+On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of Personal Information collected are:
 
-Opting out may prevent you from receiving email messages regarding updates, improvements, newsletters, or special offers. 
+  * Name
+  * Address
+  * Email address
+  * Phone number
+
+
+
+## The Way We Use Information
+
+MotoSport does not sell, rent or provide your "Personal Information" to third parties, except as described below. Personal Information is generally kept for MotoSport business which is primarily used to assist you in your current or future purchases or in analyzing sales trends.
+
+We use your Personal Information you provide about yourself when placing an order primarily to complete that order. Personal Information from the order form is used to send orders, information about our company, and promotional material from some of our partners to our customers. Personal Information is also used to get in touch with the customer when necessary. Users may opt-out of receiving future mailings by following the directions in those mailings.
+
+MotoSport sometimes uses online surveys which ask visitors for Personal Information which usually includes contact information (typically the customer's email address) and demographic information (like their zip code, age, or income level). We use Personal Information gathered from our surveys to send the user promotional material from MotoSport. MotoSport periodically runs contests on our site in which we ask visitors for selected Personal Information such as contact information (typically the customer's email address) and demographic information (like their zip code, age, or income level). We use Personal Information gathered from our contests to send users promotional material from MotoSport and at times, to some of our partners. The customer's Personal Information is also used to contact the visitor when necessary (i.e. when someone wins a contest.). Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.
+
+MotoSport shares Personal Information with third parties in certain limited circumstances:
+
+  * MotoSport may share Personal Information with a third party with your consent. For example, you have the option to enroll in Bill Me Later, which is an independent third-party payment service. If you choose to enroll in Bill Me Later, we will share your email address with Bill Me Later to facilitate the enrollment process and Bill Me Later's subsequent use of your Personal Information will be governed by Bill Me Later's Privacy Policy.
+  * MotoSport may provide Personal Information to affiliated companies or other trusted businesses or persons for the purpose of processing Personal Information on our behalf. MotoSport requires that these parties agree to process your Personal Information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures. These third parties may only use your Personal Information to the extent required to perform their services on our behalf.
+  * We may provide Personal Information to third parties or marketers for their marketing purposes. We do not provide your entire credit card or debit card numbers to any of these third parties or marketers, but may provide the last four digits of those numbers to a third party or marketer to aid those third parties or marketers in differentiating individuals from one another.
+  * We may buy or sell subsidiaries or business units. Generally, in these transactions, customer information (including Personal Information) is a transferred asset. That information will remain subject to the then-existing Privacy Policy until or unless you provide consent for any updated use of your Personal Information.
+  * We may share Personal Information to the extent required by legal process or enforceable governmental request.
+  * We may share Personal Information with third parties to detect, prevent, or otherwise address fraud, security, or technical issues. These third partiesmay place and read cookies on your browsers, or may use web beacons or similar technologies to collect information in connection with the Google Trusted Merchant Program.
+
+
+
+## Cookies And IP Addresses
+
+MotoSport also collects, uses, and monetizes IP Addresses. An IP Address is a convention of the Internet Protocol that identifies your "virtual" address on the internet. This IP Address is not personal to you and does not identify any of your Personal Information. All devices connected to a network have an IP Address permitting communication to and from the device. If you connect to the Internet from your computer, then you have an IP Address that looks something like this: 209.17.654.152. In the simplest possible terms, your IP Address contains no data that identifies you as a person. It is only a logical address allowing you to connect to others and others to locate your computer. We use an IP Address for a number of uses as set forth herein. We use an IP Address to help diagnose problems with our server, and to administer our Web site. The IP Address is used to help identify you and your shopping cart and to gather broad demographic information.
+
+Our site uses cookies (small pieces of data we store for an extended period of time on your computer, mobile phone, or other device) to keep track of your shopping cart. We use cookies for other purposes such as site personalization. You can reject cookies and still use the MotoSport site, however, it will disable the ability for the site to recognize your cart, your account and any personalization efforts.
+
+In addition to the disclosure of Personal Information to third parties as described above, MotoSport may monetize or otherwise provide anonymous IP Addresses to other third parties. MotoSport sometimes employs other companies and individuals to perform functions on our behalf. Examples of such may include hosting our website, providing marketing assistance, providing search results and links, retargeted advertising, analyzing data, etc. These third parties have access only to IP Addresses and do not have access to your Personal Information. However, as disclosed above, MotoSport may disclose Personal Information to third parties in certain limited circumstances.
+
+## External Links
+
+This site contains links to other sites. This Privacy Policy applies to the MotoSport website and its affiliated websites only. We do not exercise control over the privacy practices or content of any of the external links. These external links may place their own cookies or other files on your computer, collect data or solicit personal information from you.
+
+## Your Rights And Obligations With Respect To Content And Material Submitted By You
+
+Any comments, reviews, posts, feedback, questions, answers, notes, messages, images, video, audio, materials, ideas, suggestions or other communications you submit on MotoSport are not private or proprietary. By submitting User Content on or through MotoSport, you grant MotoSport and its affiliates an irrevocable, royalty-free, worldwide, perpetual right and license to use, copy, modify, display, archive, store, distribute, reproduce and create derivative works based upon such User Content, in any form, media, software or technology of any kind now existing or developed in the future. By submitting such User Content on or through MotoSport, you are confirming that (a) you are the sole author of the User Content and the User Content originated with you and was not copied in whole or in part from any other work; (b) you have obtained all necessary permissions associated with the User Content, including without limitation permissions relating to copyrights, trademarks, rights of publicity and/or rights of privacy; (c) the User Content does not contain hate speech or profanity and is not libelous, obscene or otherwise in violation of this Agreement, and (d) that you are not a minor and have the legal right and capacity to enter into and comply with these Terms. By submitting any such User Content on or through MotoSport, you grant MotoSport permission to use your name, alias and any other information (as provided by you) to attribute such User Content to you. Without limiting the generality of the previous sentence, and subject to our Privacy Policy, you authorize MotoSport and its affiliates to share the User Content across all affiliated Web sites, and to use your name and any other information in connection with its use of such User Content. You also grant MotoSport and its affiliates the right to use any material, information, ideas, concepts, know-how or techniques contained in such User Content. We are not responsible for the similarity of any of our Content or programming in any media to User Content submitted by you. Any and all rights granted in this section are granted without the need for any compensation to you in any form. User Content does not reflect the views of MotoSport, and MotoSport does not represent or guarantee the truthfulness, accuracy, completeness, timeliness or reliability of any User Content, nor endorses or supports any opinions expressed in any User Content. In no event shall MotoSport have or be construed to have any responsibility or liability for or in connection with any User Content. If we determine, in our sole discretion, you or any User Content you submit violates this Agreement, we reserve the right, at any time, without notice and without limiting any and all other rights we may have under this Agreement, to (a) refuse to allow you to submit further User Content, (b) remove and delete your User Content, (c) revoke your registration and right to use the User Content Submission Features and (d) use any technological, legal, operational or other means available to enforce the terms of this Agreement, including, without limitation, blocking specific IP addresses or deactivating your registration, access using your e-mail address, your user name and password.
+
+MOTOSPORT DOES NOT ENDORSE THE USER CONTENT, IS NOT RESPONSIBLE FOR THE USER CONTENT AND SPECIFICALLY DISCLAIMS ANY RESPONSIBILITY OR LIABILITY TO ANY PERSON OR ENTITY (INCLUDING, WITHOUT LIMITATION, PERSONS WHO MAY USE OR RELY ON SUCH USER CONTENT) FOR ANY LOSS, DAMAGE (WHETHER ACTUAL, CONSEQUENTIAL, PUNITIVE OR OTHERWISE), INJURY, CLAIM, LIABILITY OR OTHER CAUSE OF ANY KIND OR CHARACTER BASED UPON OR RESULTING FROM ANY USER CONTENT PROVIDED THROUGH THIS WEB SITE.
+
+## Our Commitment To Data Security
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. For example, we work to protect the security of your Personal Information during any transmission of same by using Secure Sockets Layer (SSL) software, which encrypts information you input.
+
+We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
+
+It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.You also have the option to access MotoSport.com and affiliates websites from your mobile or wireless device. When using your mobile device or a wireless network, the carrier or network administrator may have access to your Personal Information. For information regarding your carrier or network administrator's treatment of your information, please consult their respective privacy policies.
+
+## Our Commitment To Children's Privacy
+
+Protecting the privacy of the very young is especially important. For that reason, we do not collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+
+## Opting Out Of Communications From MotoSport
+
+There is an unsubscribe link in every email that we send. You can be removed instantly from our list by clicking it. In addition, you can unsubscribe and control your email preferences from the "My Account" page located at <http://www.motosport.com/account>.
+
+## Opting Out Of Having Our Marketing Partner Deliver Ads Tailored To Your Web Preferences And Usage Patterns
+
+If you choose NOT to have our marketing partners deliver ads tailored to your Web preferences and usage patterns, you can opt out of this usage of your Personal Information by visiting the Network Advertising Initiative Opt-out Tool located at: <http://www.networkadvertising.org/choices/>and opting out from targeted ads delivered by various marketers.
+
+## Opting Out Of Sharing Information With Third Party Partners For Marketing Purposes
+
+If you prefer that we do not share your Personal Information with other marketers, please send us an email containing the subject line “opt out" to optout@motosport.com.
+
+## Changes To This Privacy Policy
+
+We may change or replace this Privacy Policy at any time. If we make material changes, we will provide current customers with a revised notice that describes our new practices or a link to the new privacy policy.
