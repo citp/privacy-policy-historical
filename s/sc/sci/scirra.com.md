@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scirra.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819163513id_/https%3A//www.scirra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scirra.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522001907id_/https%3A//www.scirra.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Scirra.com
 
@@ -64,7 +64,7 @@ This online privacy policy applies only to information collected through our web
 
 ### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.scirra.com/terms-and-conditions](https://web.archive.org/web/20130819163513id_/https%3A//www.scirra.com/terms-and-conditions)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.scirra.com/terms-and-conditions](https://web.archive.org/web/20140522001907id_/https%3A//www.scirra.com/terms-and-conditions)
 
 ### Your Consent
 
