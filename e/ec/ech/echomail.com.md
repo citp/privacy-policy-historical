@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the echomail.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220015500id_/http%3A//www.echomail.com/em_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the echomail.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521214600id_/http%3A//www.echomail.com/EchoMail-Privacy-Policy.asp) for the most accurate reproduction.*
 
-# EchoMail - Email & Social Media Marketing, Monitoring and Management. Founded by VA Shiva Ayyadurai
+# EchoMail | EchoMail Privacy Policy
 
 EchoMail’s policy is to respect and protect the privacy of our users.
 
