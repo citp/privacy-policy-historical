@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opensourceshakespeare.org privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211230029id_/http%3A//opensourceshakespeare.org/info/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensourceshakespeare.org privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521025235id_/http%3A//opensourceshakespeare.org/info/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy :|: Open Source Shakespeare
 
