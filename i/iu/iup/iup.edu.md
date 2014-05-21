@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iup.edu privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119205854id_/http%3A//www.iup.edu/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D53143) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iup.edu privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521021458id_/http%3A//www.iup.edu/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D53143) for the most accurate reproduction.*
 
 # Privacy Statement - Indiana University of Pennsylvania
 
