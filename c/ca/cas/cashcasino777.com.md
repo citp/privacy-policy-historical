@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashcasino777.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216132752id_/http%3A//www.cashcasino777.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashcasino777.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521231027id_/http%3A//www.cashcasino777.com/privacy.html) for the most accurate reproduction.*
 
 # CashCasino777.com - Online Casino
 
@@ -40,4 +40,4 @@ We will, depending on the ongoing technical development of our online service, u
 
 * ### Contact for Privacy protection
 
-In case you have questions about privacy policy, don't hesitate to contact [info@cash-safe.com](mailto:info@novambiris.com)
+In case you have questions about privacy policy, don't hesitate to contact [info@cash-safe.com](mailto:info@cash-safe.com)
