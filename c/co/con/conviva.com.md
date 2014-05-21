@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conviva.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122214455id_/http%3A//www.conviva.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conviva.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521163600id_/http%3A//www.conviva.com/privacy-policy) for the most accurate reproduction.*
 
 # Conviva | Privacy Policy
 
@@ -6,7 +6,7 @@
 
 * * *
 
-_Conviva Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site  [www.conviva.com](http://www.conviva.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe._
+[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.conviva.com&sealid=102)_Conviva Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site  [www.conviva.com](http://www.conviva.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe._
 
 If you have questions or concerns regarding this statement, you should first contact [privacy@conviva.com](mailto:privacy@conviva.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint&url=TRUSTe) will then serve as a liaison with us to resolve your concerns.
 
