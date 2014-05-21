@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momcentralcanada.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118033425id_/http%3A//www.momcentralcanada.com/www.momcentralcanada.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momcentralcanada.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521185909id_/http%3A//www.momcentralcanada.com/www.momcentralcanada.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mom Central Canada
 
@@ -22,7 +22,7 @@ As is true of most websites, we gather certain information automatically and sto
 
 ### Cookies.
 
-When you visit our website, we may assign your computer one or more cookies, to facilitate access to our site, personalize your online experience, and help provide information that is relevant to you. A cookie is a small text file that is stored on a user’s computer for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time. You may delete or decline cookies by changing your browser settings. (Click “Help” in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to use some of the interactive features offered on our website. Some of our business partners (e.g., advertisers) use cookies on the website. We have no access to or control over these cookies. [See the “[Third Parties](http://www.momcentralcanada.com/privacy-policy/#1)” section.]
+When you visit our website, we may assign your computer one or more cookies, to facilitate access to our site, personalize your online experience, and help provide information that is relevant to you. A cookie is a small text file that is stored on a user’s computer for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time. You may delete or decline cookies by changing your browser settings. (Click “Help” in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to use some of the interactive features offered on our website. Some of our business partners (e.g., advertisers) use cookies on the website. We have no access to or control over these cookies. [See the “Third Parties” section.]
 
 ## Uses of Information
 
@@ -105,4 +105,6 @@ If we decide to change our privacy policy, we will post those changes to this pr
 If you have any questions or suggestions regarding our privacy policy, please contact us at: 141 Bathurst St. Suite 201,Toronto, ON 416.775.1099  
 [www.momcentralcanada.com](http://www.momcentralcanada.com/), email: [information@momcentral.com](mailto:information@momcentral.com)
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.momcentralcanada.com%2Fprivacy-policy%2F&media=&description=Privacy+Policy)
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.momcentralcanada.com%2Fprivacy-policy%2F&media=&description=Privacy+Policy)[  
+  
+](https://www.linksalpha.com/social/mobile)
