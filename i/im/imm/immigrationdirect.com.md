@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the immigrationdirect.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811115219id_/http%3A//www.immigrationdirect.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immigrationdirect.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521162402id_/http%3A//www.immigrationdirect.com/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Immigration Direct - Immigration Services Online
 
-_This privacy policy is effective as of and was last updated on October 10, 2012._
+_This privacy policy is effective as of and was last updated on September 27, 2013._
 
 ## _Types of Information We Collect and How We Use It_
 
@@ -116,4 +116,4 @@ Disclaimer: The information provided on this site is not legal advice but genera
 
 The "Immigration Direct" mark and the "Simplifying Immigration" mark are service marks registered with the United States Patent and Trademark Office under the laws of the United States of America.
 
-Copyright © 2007-2013 Immigration Direct. All Rights Reserved.
+Copyright © 2007- Immigration Direct. All Rights Reserved.
