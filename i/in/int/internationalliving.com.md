@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationalliving.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119212243id_/http%3A//internationalliving.com/about-il/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalliving.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521153123id_/http%3A//internationalliving.com/about-il/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy...
 
@@ -20,14 +20,16 @@ Like most other websites, InternationalLiving.com uses cookies to store login cr
 
 Although most web browsers are initially set up to accept cookies, if you prefer, you may decline the placement of a cookie on your hard drive by using the appropriate feature(s) of your web browser software (if available) to delete the cookie. Users should understand, however, that certain areas within InternationalLiving.com may not function properly if the web browser will not accept cookies.
 
+Please note that along with our cookie policy, we have analytical software which tracks visitors on our website. Please be aware that Google analytics tracks your demographic and site usage with Internationalliving.com. We use this data to gain an understanding of your content preferences and to ensure our website provides our best possible content for our visitors.
+
 By using InternationalLiving.com, you have agreed to accept our privacy policy. We reserve the right to change or modify InternationalLiving.com and its policies at any time. Any changes to our policy will be set out on this page. By continuing to use the website, you have agreed to any changes that have been made.
 
-If you have any questions or concerns about the InternationalLiving.com privacy policy, or if you believe that International Living has sent you unsolicited commercial e-mail (spam), please contact us: <http://internationalliving.com/customer-service/ilv-and-products/>.
+If you have any questions or concerns about the InternationalLiving.com privacy policy, or if you believe that International Living has sent you unsolicited commercial e-mail (spam), please contact us: <http://internationalliving.com/customer-service/ilv-and-products/>.
 
 **How to opt out of receiving email from us**
 
-If you no longer wish to receive emails from us simply click on the unsubscribe link included in every email. Alternatively you can send an [unsubscribe request here ](http://internationalliving.com/customer-service/ilv-and-products/)and select “unsubscribe from IL postcards”.
+If you no longer wish to receive emails from us simply click on the unsubscribe link included in every email. Alternatively you can send an [unsubscribe request here ](http://internationalliving.com/customer-service/ilv-and-products/)and select “unsubscribe from IL postcards”.
 
-**How to cancel your _International Living_ Magazine subscription**
+**How to cancel your** ** ** _ **International Living**_ ** ** **Magazine subscription**
 
-If you wish to cancel your International Living Magazine subscription, please contact us at [http://internationalliving.com/customer-service/ilv-and-products/ ](http://internationalliving.com/customer-service/ilv-and-products/)or call 1-800-681-2402 or (toll free from the US and Canada) or +443-353-4232 (international). We will promptly refund you for all unmailed issue. And no matter what, all of the free INTERNATIONAL LIVING reports are yours to keep.
+If you wish to cancel your International Living Magazine subscription, please contact us at <http://internationalliving.com/customer-service/ilv-and-products/>[ ](http://internationalliving.com/customer-service/ilv-and-products/)or call 1-800-681-2402 or (toll free from the US and Canada) or +443-353-4232 (international). We will promptly refund you for all unmailed issue. And no matter what, all of the free INTERNATIONAL LIVING reports are yours to keep.
