@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linuxgizmos.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219112443id_/http%3A//www.deviceguru.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxgizmos.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521165605id_/http%3A//www.deviceguru.com/privacy) for the most accurate reproduction.*
 
 # DeviceGuru - ...smart gadgets for a smarter world
 
