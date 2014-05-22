@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the encyclopedia-titanica.org privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129222627id_/http%3A//www.encyclopedia-titanica.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the encyclopedia-titanica.org privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522055345id_/http%3A//www.encyclopedia-titanica.org/privacy) for the most accurate reproduction.*
 
 # Encyclopedia Titanica : Privacy
 
@@ -22,7 +22,7 @@ If you block cookies, you may find some site features do not work or do not work
 
 Cookies do not contain any personal information.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services that may be of interest to you. The information collected does not include your name, address, email address, or telephone number. 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services that may be of interest to you. The information collected does not include your name, address, email address, or telephone number it may include age, gender, and interests data. We refer you to [Google Ads preferences](https://www.google.com/settings/ads) for further information.
 
 **External Links and Services:** This site contains links to other sites. ET is not responsible for the privacy practices or the content of other Web Sites. 
 
