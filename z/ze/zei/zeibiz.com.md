@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeibiz.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212134358id_/http%3A//www.zeibiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeibiz.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522132624id_/http%3A//www.zeibiz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zeibiz
 
