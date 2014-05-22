@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the takingtimeformommy.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121015741id_/http%3A//takingtimeformommy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takingtimeformommy.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522071334id_/http%3A//takingtimeformommy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - takingtimeformommy.com
+# Privacy Policy - Taking Time for Mommy
 
 At www.takingtimeformommy.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.takingtimeformommy.com and how it is used.
 
@@ -34,7 +34,3 @@ You should consult the respective privacy policies of these third-party ad serve
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/choices/)
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
-
-[ ](http://del.icio.us/post?url=http://takingtimeformommy.com/privacy-policy/&title=Privacy%20Policy) |  [ ](http://takingtimeformommy.com/feed/rss/) |  [ ](http://technorati.com/faves?add=http://takingtimeformommy.com/privacy-policy/) |  [ ](http://www.stumbleupon.com/submit?url=http://takingtimeformommy.com/privacy-policy/&title=Privacy%20Policy) |  [ ](http://digg.com/submit?phase=2&url=http://takingtimeformommy.com/privacy-policy/)  
----|---|---|---|---  
- |  |  |  | [](http://www.sajithmr.me/)
