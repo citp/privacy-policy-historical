@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitanetonline.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206212557id_/http%3A//vitanetonline.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitanetonline.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522233730id_/http%3A//vitanetonline.com/privacy.cfm) for the most accurate reproduction.*
 
 # VitaNet ®, LLC Privacy Policy
 
