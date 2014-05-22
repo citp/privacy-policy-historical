@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediabuyerplanner.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118232423id_/http%3A//www.mediabuyerplanner.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediabuyerplanner.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522050312id_/http%3A//www.mediabuyerplanner.com/privacy) for the most accurate reproduction.*
 
 # Fresh daily news for media buyers and planners. All media types: interactive, TV, radio, out of home, print - MediaBuyerPlanner
 
