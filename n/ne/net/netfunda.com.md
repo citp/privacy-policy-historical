@@ -1,54 +1,29 @@
-> *The following text is extracted and transformed from the netfunda.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120011106id_/http%3A//www.netfunda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netfunda.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522084750id_/http%3A//www.netfunda.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Netfunda Technologies - Cloud based products, Billing & Subscription System, Recruitment Solutions, HRMS, CRM, Cloud Application Builder
 
-This privacy policy sets out how our website ‘[http://www.netfunda.com](http://www.netfunda.com/)’ uses and protects any information that you give when you use this website.
+## Information Collected
 
-Netfunda Technologies is committed to ensuring that your privacy is protected. While using this website, then you can be assured that it will only be used in accordance with this privacy statement. We may change this policy from time to time by updating this page.
-
-**Gathering information**
-
-  * Name and job title
-  * Contact information including email address
-  * Demographic information such as postcode, preferences and interests
-  * Other information relevant to customer 
+  * When you request additional information or register on Netfunda.com Web site, the Company will ask you to provide basic contact information.
+  * When you purchase Netfunda Products, the Company will ask you to provide billing information. Netfunda uses common Internet technologies, such as cookies and Web beacons, to keep track of interactions with the Company’s Web sites and emails.
+  * When you register for or attend corporate events, the Company will ask you to provide basic contact information, billing information, and information on your participation in the events on Netfunda.com.
+  * Netfunda.com uses common Internet technologies, such as cookies and Web beacons, to keep track of interactions with the Company’s Web sites and emails.
 
 
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+## Use of information
 
-  * Internal record keeping. 
-  * We may use the information to improve our products and services. 
-  * We may periodically send promotional emails **** about new products, special offers or other information.
+  * Netfunda.com uses information collected to provide you with the services you request.
+  * Netfunda.com may use information collected to provide you with additional information about the Company’s Services, partners, promotions, and events.
+  * Netfunda.com may use information collected to improve the Company’s Web sites and Services.
+  * Netfunda.com does not share, sell, rent, or trade personally identifiable information with third parties for their promotional purposes. Netfunda.com may share information collected with other companies that work on Netfunda’s behalf.
 
 
 
-**Security**
+## Cookies
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, **** we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+We use temporary and permanent cookies to enhance your experience of our website. Temporary cookies will be removed from your computer each time you close your browser. By selecting ‘keep me signed-in’ option in login page, a permanent cookie will be stored in your computer and you will not be required to sign-in by providing complete login information each time you return to our website. If you have turned cookies off, you may not be able to use registered areas of the website. We tie cookie information to your email address when you elect to remain logged in so as to maintain and recall your preferences within the website. We may from time to time employ the use of pixel tags on the website and in emails. Pixel tags such as web beacons are 1×1 images that are embedded onto a web page to document traffic and for website analytics without collecting any Personal Information.
 
-**Links**
+## Communication preferences
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites and these sites are not governed by this privacy statement.
-
-**Changes to this Privacy Policy**
-
-Netfunda Technologies may at any time, without notice to you and in its sole discretion, amend this policy from time to time. Please review this policy periodically. Your continued use of [http://www.netfunda.com](http://www.netfunda.com/) website after any such amendments signifies your acceptance thereof.
-
-**Questions or Suggestions**
-
-If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at [info@netfunda.com](mailto:info@netfunda.com) 
-
-**Registration and Use of Personal Information**
-
-Registration is not required in order to use or access this website. However, this site may make forums, blogs, custom applications or similar available to its users. You may be required to register for these features, particularly if you wish to leave comments or provide articles.
-
-If you do register, and in the process provide us with personally identifiable information, rest assured that any such information you provide will not be shared with any third-party organization except with your express consent.
-
-Please note that if you post comments etc on this site, any personally identifiable information you provide in those comments, collated and used by anyone viewing them.
-
-**Legal Disclaimer**
-
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, legal process served on our website.
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+Every marketing email from netfunda.com contains instructions on how to opt out of receiving further marketing emails from the Company.
