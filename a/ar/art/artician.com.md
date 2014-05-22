@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artician.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121020545id_/http%3A//www.artician.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artician.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522172920id_/http%3A//www.artician.com/privacy) for the most accurate reproduction.*
 
 # Artician Privacy Policy
 
