@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bill4time.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121000226id_/http%3A//www.bill4time.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bill4time.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522165251id_/http%3A//www.bill4time.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bill4Time
 
@@ -50,4 +50,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 ### Contacting Us
 
-If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20131121000226id_/http://www.bill4time.com/time-management-software-support/).
+If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20140522165251id_/http://www.bill4time.com/time-management-software-support/).
