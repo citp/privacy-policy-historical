@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the defencetalk.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121001751id_/http%3A//www.defencetalk.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defencetalk.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522162624id_/http%3A//www.defencetalk.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DefenceTalk | Defense & Military News - Forums - Pictures - Weapons
 
 [pagelist 2]DefenceTalk.com (hereafter referred to as DefenceTalk), is committed to protecting the privacy of its visitors, members and all users of our internet services. The following Privacy Policy outlines how DefenceTalk treats personal information received about you when you visit our web sites.
 
-If you have any requests concerning your personal information or any queries with regard to these practices, please contact us by email at admin@defencetalk.com with the subject heading “Privacy Policy” or visit our [Feedback form](https://web.archive.org/web/20131121001751id_/http://www.defencetalk.com/forums/sendmessage.php).
+If you have any requests concerning your personal information or any queries with regard to these practices, please contact us by email at admin@defencetalk.com with the subject heading “Privacy Policy” or visit our [Feedback form](https://web.archive.org/web/20140522162624id_/http://www.defencetalk.com/forums/sendmessage.php).
 
 Partners of DefenceTalk and other websites you may access via DefenceTalk have different privacy policies and are not subject to this Privacy Policy. We recommend that you read the privacy statement of each such website to find out how they treat and protect your personal information.
 
-**Collection and Use of User Details**
+ **Collection and Use of User Details**
 
-**Voluntary Information**
+ **Voluntary Information**
 
 When you register, and at other times, DefenceTalk collects personally identifiable information that you provide voluntarily which includes such details as your name, address, job title and function, organization, e-mail address and other information that you may provide.
 
 DefenceTalk.com uses personal information in the following ways: · To enable us to process, validate and verify subscriptions or any other service · To notify you of new products, promotions and services from DefenceTalk · To allow us to deliver content and advertising based on your characteristics and/or personal preferences
 
-**Statistical Information**
+ **Statistical Information**
 
 DefenceTalk collects IP address and web site usage data information in aggregate form so that no individual user is identified.
 
 DefenceTalk uses information in aggregate form in the following ways: · To enhance and develop content and services · To aid future strategic development · To plan for the maintenance and development of system software, hardware and communications technology. · To provide advertisers with data on the number of users and usage patterns
 
-**Cookies**
+ **Cookies**
 
 1\. Session Cookie. When you log in or register on a DefenceTalk web site, DefenceTalk’s web servers send a string of text called a “cookie” to your browser, which stores it in its memory. The text identifies DefenceTalk and includes a string of numbers that represent your rights to access restricted material on DefenceTalk’s web sites. As your browser connects to DefenceTalk sites, it automatically sends the cookie information back to DefenceTalk’s servers so that your access rights can be determined very quickly. In addition to this, some of our services (Forums, Gallery, etc.) need to recall selections you have made during your session so that they display the correct information to you. In both cases, when you close your browser, this cookie information disappears. It is never written to a file on your machine.
 
