@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the albertmohler.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209163933id_/http%3A//www.albertmohler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the albertmohler.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522175822id_/http%3A//www.albertmohler.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – AlbertMohler.com
 
