@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scrapehere.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120061818id_/http%3A//www.scrapehere.com/footer.html%3Fcontent%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrapehere.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522132301id_/http%3A//www.scrapehere.com/footer.html%3Fcontent%3Dprivacypolicy) for the most accurate reproduction.*
 
-# 
+# Scrapehere privacy policy
 
 **Scrapehere (the "Site") is a web site owned by Scrapehere technologies Pvt Ltd, Bangalore, India, registered company. By using the Site, you expressly acknowledge and agree that any use of the Site will be in accordance with these Terms of Use. If you do not agree to be bound by these Terms of Use, you may not use the Site. Scrapehere may change, add or remove portions of this Agreement at any time. Each time you use the Site, the current version of this Agreement will apply**
 
