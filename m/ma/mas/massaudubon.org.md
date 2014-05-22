@@ -1,65 +1,51 @@
-> *The following text is extracted and transformed from the massaudubon.org privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111174923id_/http%3A//www.massaudubon.org/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massaudubon.org privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522124906id_/http%3A//www.massaudubon.org/privacy-policy) for the most accurate reproduction.*
 
-# Mass Audubon | About Mass Audubon
+# Privacy Policy
 
-Our Privacy Policy
+### Mass Audubon is committed to protecting the privacy of our members, donors, website visitors, and others who interact with us.
 
-The Massachusetts Audubon Society (Mass Audubon) is committed to protecting the private information of those who interact with us online. Our policy is that no personal information will be collected about you other than what you supply to us on a voluntary basis.
+In 2010, the Commonwealth of Massachusetts instituted “Standards for the Protection of Personal Information of Residents of the Commonwealth” ( **201 CMR 17.00)** , which sets standards that all who own, license, store, or maintain personal information about a Massachusetts resident must follow. Mass Audubon has a rigorous program in place to ensure compliance with this regulation. A copy of our Written Information Security Plan is available upon request - [contact us](https://web.archive.org/contact-us) to request a copy.
 
-Collection of Personal Information  
-If during your visit to our site you only browse, read pages, or download material, we cannot collect any information that will identify you personally or determine your e-mail address. Other areas of our site may request that you provide personal information such as your name, address, or e-mail address. Mass Audubon may use this information to provide information requested by users or to extend promotional offers or other invitations. 
+## Collection of Information Online
 
-Cookies and Aggregate Information  
-Mass Audubon's website uses a technology called a "cookie". The cookie is a small text file that is temporarily stored on your hard drive. When you return to our site, your web browser passes the cookie from your computer back to our website, so we can recognize you as you move through our site. At no time will the cookie reveal to others any personal information about you, including your name, address, or e-mail address&emdash;even if you have submitted this information to other areas of the site. 
+If during your visit to our site you only browse, read pages, or download material, we cannot collect any information that will identify you personally or determine your e-mail address. Other areas of our site may request that you provide personal information such as your name, address, or e-mail address. Mass Audubon may use this information to provide information you have requested, or to extend special offers or other invitations. E-mail sent out by Mass Audubon, other than donation and program registration confirmations, includes a link that enables the recipient to unsubscribe from future  Mass Audubon e-mailings  if they so choose.
 
-Our website automatically logs information such as IP address and browser type of all visitors in order to measure the usage of our website. We use this information to analyze how visitors use our site, which helps us improve our visitors' experience.
+## Cookies and Aggregate Information
 
-Data Security  
-We have appropriate, industry standard security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our site. The information collected is only distributed to relevant staff members (e.g. membership staff, tech support) depending on the nature of the inquiry. When using a credit card to order services through our website, the credit card information is transmitted over the internet using industry standard SSL and/or PGP encryption. We use outside credit card processing companies to process online credit card transactions for goods and services. These companies do not retain, share, store, or use personally identifiable information for any secondary purposes. 
+Mass Audubon's website uses a technology called "cookies." A cookie is a small text file that is temporarily stored on your hard drive. When you return to our site, your web browser passes the cookie from your computer back to our website, so we can recognize you as you move through our site. At no time will the cookie reveal to others any personal information about you, including your name, address, or e-mail address, even if you have submitted this information to other areas of the site.
 
-Member Information  
-Member information is never sold or rented. However, Mass Audubon occasionally exchanges with other nonprofit organizations the names and mailing addresses of a limited number of members. Additionally, Mass Audubon periodically partners with organizations to send product offers and promotional mailings that we believe may be of interest to our members. 
+Our website automatically logs information such as IP address and browser type of all visitors in order to measure the usage of our website. We use this information to analyze how visitors use our site, which helps us improve our visitors' experiences.
 
-Members who wish to opt-out of these exchanges and product offers may choose a [confidentiality option](https://web.archive.org/web/20131111174923id_/http%3A//www.massaudubon.org/about/confidential.php) or contact Member Services.
+## E-mail Addresses
 
-Mass Audubon regularly uses outside vendors for purposes of producing mailings, updating addresses, or sending email messages. In each case, we verify that member information is handed securely and treated confidentially.
+Mass Audubon does not sell, rent, exchange, or otherwise share e-mail addresses. However, within Mass Audubon, we do use e-mail addresses to send occasional updates about our work and special offers or other invitations which we believe may be of interest to you.
 
-You can help Mass Audubon maintain the accuracy of your information and facilitate the timely receipt of membership benefits by notifying Member Services of any changes to your name, address, phone number, or e-mail address. To help us update your record, please provide us with your street address and membership number, which appears on your membership card.
+## Member Information
 
-Contact Member Services:  
-_by e-mail:_  
-[membership@massaudubon.org](mailto:membership@massaudubon.org?subject=Mass%20Audubon%20Privacy%20Policy)
+Member information is not sold or rented. However, Mass Audubon does periodically exchange the names and mailing addresses of a limited number of members with other nonprofits (primarily conservation organizations) in order to obtain mailing lists for member acquisition. Additionally, Mass Audubon occasionally partners with other organizations on product offers or promotions that we believe may be of interest to our members (e.g. home energy audits, green electricity or automobile insurance) Members who wish to opt out of these exchanges and offers may [contact Member Services](https://web.archive.org/get-involved/membership/contact-member-services).
 
-_by phone:_  
-781-259-9500 or 800-283-8266
+You can help Mass Audubon maintain the accuracy of your information and facilitate the timely receipt of your membership benefits by contacting [Member Services](https://web.archive.org/get-involved/membership/contact-member-services) with any changes to your name, mailing address, phone number, or e-mail address. To help us update your record, please include your mailing address and membership number, which appears on your Mass Audubon membership card.
 
-_by mail:_  
-Member Services  
-Massachusetts Audubon Society  
-208 South Great Road  
-Lincoln, MA 01773
+## Mass Audubon eBird
 
-E-mail Addresses  
-We do not sell, rent, exchange, or otherwise share e-mail addresses with anyone _outside_ Mass Audubon. If this specific policy should ever change, we will first post the policy changes on this page and then notify you by e-mail about such changes, giving you the opportunity to opt-out of any e-mail address sharing programs.
+Mass Audubon eBird is administered by the Cornell Lab of Ornithology. It is designed to gather and disseminate information about bird distribution and abundance across Massachusetts, the United States, and Canada. Mass Audubon eBirders are able to view their own bird observations and the observations of other eBirders.
 
-Mass Audubon eBird  
-Mass Audubon eBird is designed to gather and disseminate information about bird distribution and abundance across Massachusetts, and across the United States and Canada.
+Information supplied by you when you register and submit data to Mass Audubon eBird enables you to track your observations (e.g., life lists and backyard lists) and share them with other registered eBirders. Although details of an observation, its associated location and the name of the reporter (species, numbers, etc.) are available to other eBirders, no other registration information is ever shared.
 
-Personal information is voluntarily supplied by you when you register and submit data to Mass Audubon eBird. By registering, you allow us to associate your bird observations with a unique identifier (login name), so that you can track your personal observations (e.g., life lists and backyard lists). If you submit an unusual observation, we may e-mail you to request more details. Profile information allows us to gain a better understanding of the Mass Audubon eBird participants and to determine how best to improve the web site for Mass Audubon eBird users. 
+## Security
 
-Bird observations are some of the most important pieces of information that we collect. All details of an observation and its associated location (species, numbers, etc.) are available to all users registered with Mass Audubon eBird. However, only information pertaining to bird observations is available to Mass Audubon eBird users; no personal information is ever made public.
+Mass Audubon has appropriate, industry-standard security measures in place in our physical facilities to protect against the loss or misuse of information that you have provided or that we have collected from you on our website. The information is only distributed to relevant staff members (e.g. membership staff, program registrars) based on the nature of the inquiry.
 
-Mass Audubon eBirders are able to view their personal observations, observations of others, and observations made at various locations. Please be aware that your observations of sensitive species and their locations will be available to other Mass Audubon eBird users. 
+When you use a credit card to order services through our website, the credit card information is transmitted over the internet using industry-standard SSL encryption. We use outside credit card processing companies to process online credit card transactions for dues payments, donations, goods, and services. These companies are compliant with the Payment Card Industry Data Security Standard ([PCI DSS](https://www.pcisecuritystandards.org/security_standards/pci_dss.shtml)) and the Payment Application Data Security Standard ([PA-DSS](https://www.pcisecuritystandards.org/security_standards/pa_dss.shtml)). , and do not use personally identifiable information for any secondary purposes.
 
-Other Information  
-We welcome your e-mail messages and suggestions of ways in which we can improve the site. We will use any personal information you send us only to respond to your message. Please note that any suggestions or ideas you submit to us will become the property of the Massachusetts Audubon Society and can be used by us for any purpose.
+Mass Audubon uses outside vendors for mailings, updating address information, and other purposes. In each case, we verify that member information is handled securely and treated confidentially.
 
-Our site contains links to other sites. Please remember that our Privacy Policy does not apply to other sites and that we cannot be responsible for their privacy policies. 
+## Other Information
 
-Changes in Information Practices  
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our Privacy Policy. If our information practices change in the future, we will post the policy changes to our website to notify users of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information may be used, you should check our website periodically. A revised Privacy Policy will apply only to data collected subsequent to its effective date.
+Our website contains links to other sites. Our Privacy Policy does not apply to other sites and we are not responsible for their privacy policies.
 
-Questions  
-Mass Audubon welcomes comments and questions on this policy. We are dedicated to protecting your personal information and will make every reasonable effort to keep that information secure. If you have any questions, please contact us at [webmaster@massaudubon.org](mailto:webmaster@massaudubon.org?subject=Mass%20Audubon%20Privacy%20Policy) or 781-259-9500.
+From time to time, we may use information from website visitors for new, unanticipated uses not previously disclosed in our Privacy Policy. If our information practices change in the future, we will post the policy changes to our website to notify users of these changes and provide you with the ability to opt out of these new uses. Please [contact us](https://web.archive.org/contact-us) if you have any comments and questions regarding our Privacy Policy.  
 
-Last Update: March 12, 2004
+Mass Audubon does not knowingly collect personal information from children under the age of 13.  On-line visitors under 13 years of age should not submit personal information to us without permission from a parent or legal guardian.  If you believe that we may have collected information from a child under 13 without the permission of a parent or legal guardian, please [contact us](https://web.archive.org/contact-us).
+
+ _Last Update: March 2014_
