@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodworldnews.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121010230id_/http%3A//www.foodworldnews.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodworldnews.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523011122id_/http%3A//www.foodworldnews.com/privacypolicy) for the most accurate reproduction.*
 
 # Food World News
 
@@ -175,24 +175,8 @@ Further, if you use any of the Communities features and functions made available
 
 Food Biz
 
-[](https://web.archive.org/articles/4658/20131119/walmart-workers-hold-organized-food-drive-for-worker-experiencing-unforeseen-hardships.htm)
+[](https://web.archive.org/articles/5684/20140421/kraft-foods-recalls-96000-pounds-oscar-mayer-hot-dogs.htm)
 
 Food Tech
 
-[](https://web.archive.org/articles/3569/20130313/cupcake-craze-expands-sprinkles-makes-cupcakes-gourmet.htm)
-
-#### [Cupcake Craze Expands, Sprinkles Makes Cupcakes Gourmet](https://web.archive.org/articles/3569/20130313/cupcake-craze-expands-sprinkles-makes-cupcakes-gourmet.htm)
-
-Cupcake Craze, a well-known shop in New York, stated that television shows such as Cupcake Wars have increased the company's sales. "The craze is definitely helping business. People love cupcakes. You give someone a cupcake and they smile", said owner Kevin Hughes.
-
-[](https://web.archive.org/articles/3552/20130311/serious-food-allergies-niaid-finding-cures.htm)
-
-#### [Serious Food Allergies: NIAID Finding Cures](https://web.archive.org/articles/3552/20130311/serious-food-allergies-niaid-finding-cures.htm)
-
-NIAID is the lead Institute at the National Institutes of Health for research of food allergies. According to the institute's official website, they are committed to supporting efforts to help better understand, prevent, and manage this disorder that affects approximately 5 percent of children and 4 percent of adults in the United States. 
-
-[](https://web.archive.org/articles/3546/20130309/wrigley-will-release-caffeinated-gum-april.htm)
-
-#### [Wrigley Will Release Caffeinated Gum April](https://web.archive.org/articles/3546/20130309/wrigley-will-release-caffeinated-gum-april.htm)
-
-Beginning next month, Wrigley gum is going to begin selling caffeinated gum. The company is well known for selling mints, gum, lollipops, hard and chewy candies. A couple of world known Wrigley brands include: Orbit, Doublemint, Skittles, Starburst and Altoids.
+[](https://web.archive.org/articles/5661/20140415/ice-cream-flavor-treat-made-viagra-tastes-champagne.htm)
