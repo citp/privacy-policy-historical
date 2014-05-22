@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the samplewords.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121151339id_/http%3A//www.samplewords.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samplewords.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522211333id_/http%3A//www.samplewords.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Free Printable Sample Document Templates, Forms and Calendars
+# Privacy Policy - Free Printable Sample Document Templates, Forms and Calendars :
+
+You are here: [Home](http://www.samplewords.com/) / Privacy Policy
 
 **Our Commitment To Privacy**
 
