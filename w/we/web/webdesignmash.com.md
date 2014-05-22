@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webdesignmash.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523045118id_/http%3A//www.webdesignmash.com/privacy-policy-and-user-agreement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdesignmash.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523000357id_/http%3A//www.webdesignmash.com/privacy-policy-and-user-agreement) for the most accurate reproduction.*
 
-# Privacy Policy and User Agreement | Web Design Mash
+# Privacy Policy | Web Design Mash
 
 This User Agreement and Privacy Policy governs each website, mobile site,  and/or other service associated with Web Design Mash (by any domain, including webdesignmash.com, designblend.co.uk, or any related domain, hereafter referred to as Web Design Mash) regardless of how distributed, transmitted, published, or broadcast (each, a “Service”) provided by (“we,” “us,” or “our”) that links to this agreement, which is binding on each person or entity which accesses or uses this website or collective or websites , whether acting as an individual or on behalf of an entity, including you and all persons, entities, or digital engines of any kind that harvest, crawl, index, scrape, spider, or mine digital content manually or by an automated process or otherwise (collectively, “you” or “your”).
 
