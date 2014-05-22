@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the blackmoreops.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121015628id_/http%3A//www.blackmoreops.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackmoreops.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522175823id_/http%3A//www.blackmoreops.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | blackMORE Ops
-
-* * *
-
-**0** Flares **0** Flares ×
 
 Thank you for visiting our web site. The following privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
 
@@ -15,6 +11,14 @@ We collect personally identifiable information, like names, postal addresses, em
 ### Cookie/Tracking Technology
 
 The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
+
+### Display Advertising
+
+We’ve implemented Google Analytics features to Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting).  
+Using the [Ads Settings](https://www.google.com/settings/ads), visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.  
+We use Remarketing with Google Analytics to advertise online.  
+Third-party vendors, including Google, may show our ads on sites across the Internet.  
+We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone’s past visits to our website.
 
 ### Distribution of Information
 
