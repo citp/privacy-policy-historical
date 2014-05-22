@@ -1,10 +1,133 @@
-<!--The following is the downloaded HTML source of the candywarehouse.com privacy policy that was archived on 2013-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131119010634id_/http%3A//www.candywarehouse.com/service/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the candywarehouse.com privacy policy that was archived on 2014-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140523003844id_/http%3A//www.candywarehouse.com/service/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head id="head"><meta property="og:image" content="http://www.candywarehouse.com/cms/images/layout/logo_header.png"><meta name="description" content="Privacy Policy from CandyWarehouse.com, America's favorite online Bulk Candy Super Store!"><title>
 	Privacy Policy | CandyWarehouse.com Online Candy Store
-</title><link rel="shortcut icon" href="/favicon.ico"><meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+</title><link rel="shortcut icon" href="/favicon.ico"><meta http-equiv="content-type" content="text/html; charset=utf-8"><link rel="StyleSheet" href="/FileMerge.axd?Type=css&amp;Guid=36231ffd-7b46-4ea6-8127-e730a60417dc">
+<script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/FileMerge.axd?Type=js&amp;Guid=f8dc5462-492b-4e6e-bede-88f22433a3cb"></script>
+
+
+<!-- Begin Facebook Login Check -->
+
+
+<script type="text/javascript">
+    window.SL = window.SL || [];
+
+    SL.push(['onFacebookLogin',
+        /**
+         * Handles the Facebook Login event. Should AJAX (or redirect)
+         * away to the server for signature verification.
+         */
+        function (response, sig_base64) {
+            if (typeof response == 'undefined' || typeof sig_base64 == 'undefined') {
+                // nothing to do - something happened to the payload
+                return;
+            }
+            var options = {
+                url: '/storeajax.aspx',
+                method: 'POST',
+                async: false,
+                dataType: 'json',
+                data: {
+                    f: 'FacebookLogin',
+                    payload: response,
+                    signature: sig_base64
+                },
+                success: function (o) {
+                    // check the validation response and update UI/redirect/etc
+                    if (o.Success && window.location.href.indexOf("/my-account/login/") != -1) {
+                        window.location = "/my-account/"
+                    }
+                    else if (o.Success && window.location.href.indexOf("/store/onepagecheckout/") != -1) {
+                        window.location = "/store/onepagecheckout/"
+                    }
+                    else {
+                        getOrderSummary();
+                    }
+                }
+            };
+            jQuery.ajax(options);
+        }
+    ]);
+
+    SL.push(['getFacebookLoginStatus',
+        /**
+         * Handles a logged in user page load. Should AJAX (or redirect) away to the server
+         * for payload verification
+         */
+        function (response, sig_base64) {
+            if (typeof response == 'undefined' || typeof sig_base64 == 'undefined') {
+                // user isn't connected
+                return;
+            }
+            var options = {
+                url: '/storeajax.aspx',
+                method: 'POST',
+                async: false,
+                dataType: 'json',
+                data: {
+                    f: 'FacebookLogin',
+                    payload: response,
+                    signature: sig_base64
+                },
+                success: function (o) {
+                    // check the validation response and update UI/redirect/etc
+                    if (o.Success) {
+                        getOrderSummary();
+                    }
+                }
+            };
+            jQuery.ajax(options);
+        }
+    ]);
+
+    $("#logout").live('click', function (e) {
+        e.preventDefault();
+        try {
+            SL.push(['getFacebookLoginStatus', function (response, signature) {
+                if (typeof response != 'undefined') {
+                    SL.push(['logUserOutOfFacebook', function () { window.location = '/my-account/logout/'; }]);
+                }
+                else {
+                    window.location = '/my-account/logout/';
+                }
+            }]);
+        }
+        catch (err) {
+            window.location = '/my-account/logout/';
+        }
+    });
+
+    function getOrderSummary() {
+        $.ajax({
+            url: '/storeajax.aspx',
+            type: 'POST',
+            async: false,
+            dataType: 'json',
+            data: { f: 'GetSummary' },
+            success: function (o) {
+                    if (!o.Success) {
+                        return;
+                    }
+                    else {
+                        if (o.Member) {
+                            $("#AnonymousView").hide(); $("#MemberView").show();
+                        } else {
+                            $("#MemberView").hide(); $("#AnonymousView").show();
+                        }
+                        var i = o.Items;
+                        $("#spanCartTotal").html(i + ' Item' + (i == 1 ? '' : 's') + (i > 0 ? ' - $' + o.Total.toFixed(2) : ''));
+                        if (o.ecoMsg) { $("#eco").show().html(o.ecoMsg); }
+                        if (o.TotalHtml) { $("#divAllItemAdded").html(o.TotalHtml); }
+                    }
+                }
+            });
+        }
+</script>
+
+<!-- End Facebook Login Check -->
+<script src="//cdn.optimizely.com/js/674710743.js"></script>
+    <script type="text/javascript">
        /* <![CDATA[ */
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-352277-1']);
@@ -17,7 +140,7 @@
 
         (function() {
             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
      /* ]]> */
@@ -41,10 +164,37 @@ gts.push(["google_base_language", "EN"]);
     var s = document.getElementsByTagName("script")[0];
     s.parentNode.insertBefore(gts, s);
 })(); </script><!-- END: Google Trusted Store -->
- 
 
-<link rel="StyleSheet" href="/FileMerge.axd?Type=css&amp;Guid=659ae78b-bb0e-407f-8327-aceb345308dd">
-<script type="text/javascript" src="/FileMerge.axd?Type=js&amp;Guid=8a3e3022-a956-4f10-8e64-c1e9f27bc71a"></script>
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information 
+or placed on pages related to sensitive categories. See more information and 
+instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+----------------------------------------------------------->
+<script type="text/javascript">
+var google_tag_params = {
+ecomm_prodid: '',
+ecomm_pagetype: 'other',
+ecomm_totalvalue: ''
+};
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1072719949;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt=" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072719949/?value=0&guid=ON&script=0"/>
+</div>
+</noscript>
+
+
 <script async="" src="https://s3.amazonaws.com/static.rondavu.com/C/CW_PROD/rondavu.js"></script><script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=80009852"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body>
@@ -77,7 +227,7 @@ if(typeof window.lpTag==='undefined'){window.lpTag={site:'80009852',_v:'1.3',pro
 function banner_track(el,id) {el.href = '/banners.aspx?BannerId=' + id;el.mousedown = '';return true;}//]]>
 </script>
 
-<script src="/ScriptResource.axd?d=GJDMG0UJ2gm-ja985VGULmtnLYRE4WaCUpQYz71YADR936BzMs9UUTmW_rqxc5Rr_r8O4kbW3KcwhoqbV_A0G7iDkDwPfLWCir-fHQYkZxB9fmRPlWsLb5w1IAzcuL5qQFKDXYvYKFCi3HhjDIu6227NRjkVmV2wOrDuRQ22eCFWCKKq0&amp;t=4fd3f051" type="text/javascript"></script>  
+<script src="/ScriptResource.axd?d=GJDMG0UJ2gm-ja985VGULmtnLYRE4WaCUpQYz71YADR936BzMs9UUTmW_rqxc5Rr_r8O4kbW3KcwhoqbV_A0G7iDkDwPfLWCir-fHQYkZxB9fmRPlWsLb5w1IAzcuL5qQFKDXYvYKFCi3HhjDIu6227NRjkVmV2wOrDuRQ22eCFWCKKq0&amp;t=ca758f3" type="text/javascript"></script>  
 		
 		<div class="container">     
 			
@@ -97,7 +247,7 @@ function banner_track(el,id) {el.href = '/banners.aspx?BannerId=' + id;el.moused
 					</span>
 					<span id="MemberView" class="hide">
 						<a href="https://www.candywarehouse.com/my-account/">My Account</a>
-						<a href="http://www.candywarehouse.com/my-account/logout/">Log Out</a>
+						<a href="http://www.candywarehouse.com/my-account/logout/" id="logout">Log Out</a>
 					</span>
 					<div class="cartLink">
 						<a href="http://www.candywarehouse.com/shopping-cart/">Shopping Cart&nbsp;<span id="spanCartTotal"></span></a>
@@ -128,7 +278,7 @@ function banner_track(el,id) {el.href = '/banners.aspx?BannerId=' + id;el.moused
 				<div class="siteConstrain">
 					<a class="sitelogo" href="http://www.candywarehouse.com/">CandyWarehouse.com Online Candy Store</a>
 					<div class="tagline">Fast Candy Shipped Fast</div>
-					<div class="candy"><a id="RandomBannerLink_535" href="http://www.candywarehouse.com/occasions/christmas-candy/" onmousedown="return banner_track(this,535);"><img border="0" src="/assets/1/12/christmas-cluster1.PNG" alt="Christmas Candy"></a>
+					<div class="candy"><a id="RandomBannerLink_470" href="/occasions/patriotic-and-political-candy/" onmousedown="return banner_track(this,470);"><img border="0" src="/assets/1/12/patriotic-candy-cluster.png" alt="Patriotic &amp; Political Candy"></a>
 
 </div>
 					<div class="clear">&nbsp;</div>
@@ -173,19 +323,19 @@ function banner_track(el,id) {el.href = '/banners.aspx?BannerId=' + id;el.moused
 <div class="menuBanners clearfix">
 
                   <div id="CT_MainNav_0_cache_ctl03_rptLinks_divBnrWrap_0" class="bnrWrap">
-                    <a onmousedown="return banner_track(this,415);" href="/occasions/wedding-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Wedding-Candy-Flyout.jpg" alt="Wedding Candy"></a>
+                    <a onmousedown="return banner_track(this,852);" href="/occasions/wedding-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Wedding-Candy-Flyout.jpg" alt="Wedding Candy"></a>
                  </div>
              
                   <div id="CT_MainNav_0_cache_ctl03_rptLinks_divBnrWrap_1" class="bnrWrap">
-                    <a onmousedown="return banner_track(this,694);" href="/occasions/christmas-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Xmas-Candy-Flyout2.jpg" alt="Christmas Candy"></a>
+                    <a onmousedown="return banner_track(this,858);" href="/occasions/baby-shower-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Baby-Shower-Candy-Flyout.jpg" alt="Shop by Baby Shower Candy"></a>
                  </div>
              
                   <div id="CT_MainNav_0_cache_ctl03_rptLinks_divBnrWrap_2" class="bnrWrap">
-                    <a onmousedown="return banner_track(this,237);" href="http://www.candywarehouse.com/photos/details/?CategoryId=2"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Photo_Flyout.jpg" alt="CandyWarehouse.com Photo Gallery"></a>
+                    <a onmousedown="return banner_track(this,854);" href="/videos/create-a-colorful-candy-buffet/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Video_Flyout.jpg" alt="CandyWarehouse.com Video Gallery"></a>
                  </div>
              
                   <div id="CT_MainNav_0_cache_ctl03_rptLinks_divBnrWrap_3" class="bnrWrap last">
-                    <a onmousedown="return banner_track(this,113);" href="/videos/create-a-colorful-candy-buffet/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Video_Flyout.jpg" alt="CandyWarehouse.com Video Gallery"></a>
+                    <a onmousedown="return banner_track(this,237);" href="http://www.candywarehouse.com/photos/details/?CategoryId=2"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Photo_Flyout.jpg" alt="CandyWarehouse.com Photo Gallery"></a>
                  </div>
              
 
@@ -206,7 +356,7 @@ function banner_track(el,id) {el.href = '/banners.aspx?BannerId=' + id;el.moused
 <ul class="linkList iconLinks">
 <li><a href="http://www.candywarehouse.com/buffet-builder/build/?Department-Occasions-Filter=Wedding%20Candy" style="background-image:url(/assets/department/icon/engagement-ring-16x16.png);">Wedding Candy</a></li><li><a href="http://www.candywarehouse.com/buffet-builder/build/?Department-Occasions-Filter=Baby%20Shower%20Candy" style="background-image:url(/assets/department/icon/baby-carriage-17x17.gif);">Baby Shower Candy</a></li><li><a href="http://www.candywarehouse.com/buffet-builder/build/?Department-Occasions-Filter=Bar%20Mitzvah%20-%20Bat%20Mitzvah%20Candy" style="background-image:url(/assets/department/icon/bar-mitzvah-scroll-20x20.png);">Bar Mitzvah - Bat Mitzvah Candy</a></li><li><a href="http://www.candywarehouse.com/buffet-builder/build/?Department-Occasions-Filter=Birthday%20Candy" style="background-image:url(/assets/department/icon/Balloons.gif);">Birthday Candy</a></li><li><a href="http://www.candywarehouse.com/buffet-builder/build/?Department-Occasions-Filter=Thank%20You%20Candy" style="background-image:url(/assets/department/icon/Trophy_bronze.png);">Thank You Candy</a></li></ul>
 <ul class="linkList iconLinks">
-<li><a href="http://www.candywarehouse.com/buffet-builder/build/?Department-Occasions-Filter=Autumn%2fFall%20Candy" style="background-image:url(/assets/department/icon/acorn-icon-16x16.png);">Autumn/Fall Candy</a></li><li><a href="http://www.candywarehouse.com/buffet-builder/build/?Department-Occasions-Filter=Hanukkah%20Candy" style="background-image:url(/assets/department/icon/Hanukkah_icon2.gif);">Hanukkah Candy</a></li><li><a href="http://www.candywarehouse.com/buffet-builder/build/?Department-Occasions-Filter=Christmas%20Candy" style="background-image:url(/assets/department/icon/Xmas_icon4.gif);">Christmas Candy</a></li><li><a href="http://www.candywarehouse.com/buffet-builder/build/?Department-Occasions-Filter=New%20Year%27s%20Eve%20Candy" style="background-image:url(/assets/department/icon/hat-16x16.png);">New Year's Eve Candy</a></li><li><a class="viewAll" href="http://www.candywarehouse.com/buffet-builder/">View All Occasions</a></li></ul>
+<li><a href="http://www.candywarehouse.com/buffet-builder/build/?Department-Occasions-Filter=Graduation%20Candy" style="background-image:url(/assets/department/icon/icon-graduation.png);">Graduation Candy</a></li><li><a href="http://www.candywarehouse.com/buffet-builder/build/?Department-Occasions-Filter=Father%27s%20Day%20Candy" style="background-image:url(/assets/department/icon/drill-icon.png);">Father's Day Candy</a></li><li><a href="http://www.candywarehouse.com/buffet-builder/build/?Department-Occasions-Filter=Luau%20%26%20Beach%20Candy" style="background-image:url(/assets/department/icon/beach-ball-icon-16x16.png);">Luau &amp; Beach Candy</a></li><li><a href="http://www.candywarehouse.com/buffet-builder/build/?Department-Occasions-Filter=Patriotic%20%26%20Political%20Candy" style="background-image:url(/assets/department/icon/american-flag-17x171.gif);">Patriotic &amp; Political Candy</a></li><li><a class="viewAll" href="http://www.candywarehouse.com/buffet-builder/">View All Occasions</a></li></ul>
 <div class="clear">&nbsp;</div>
 </div>
 <div class="clear">&nbsp;</div>
@@ -225,15 +375,15 @@ function banner_track(el,id) {el.href = '/banners.aspx?BannerId=' + id;el.moused
 <div class="menuBanners clearfix">
 
                   <div id="CT_MainNav_0_cache_ctl04_rptLinks_divBnrWrap_0" class="bnrWrap">
-                    <a onmousedown="return banner_track(this,415);" href="/occasions/wedding-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Wedding-Candy-Flyout.jpg" alt="Wedding Candy"></a>
+                    <a onmousedown="return banner_track(this,807);" href="/colors/pink-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/pink-candy-flyout.jpg" alt="Pink Candy"></a>
                  </div>
              
                   <div id="CT_MainNav_0_cache_ctl04_rptLinks_divBnrWrap_1" class="bnrWrap">
-                    <a onmousedown="return banner_track(this,694);" href="/occasions/christmas-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Xmas-Candy-Flyout2.jpg" alt="Christmas Candy"></a>
+                    <a onmousedown="return banner_track(this,809);" href="/colors/blue-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/blue-candy-flyout-2.jpg" alt="Blue Candy"></a>
                  </div>
              
                   <div id="CT_MainNav_0_cache_ctl04_rptLinks_divBnrWrap_2" class="bnrWrap">
-                    <a onmousedown="return banner_track(this,697);" href="/occasions/autumn/fall-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Autumn-Turkey-Candy-Flyout31.JPG" alt="Autumn/Fall Candy"></a>
+                    <a onmousedown="return banner_track(this,808);" href="/colors/white-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/white-candy-flyout.jpg" alt="White Candy"></a>
                  </div>
              
                   <div id="CT_MainNav_0_cache_ctl04_rptLinks_divBnrWrap_3" class="bnrWrap last">
@@ -269,15 +419,15 @@ function banner_track(el,id) {el.href = '/banners.aspx?BannerId=' + id;el.moused
 <div class="menuBanners clearfix">
 
                   <div id="CT_MainNav_0_cache_ctl05_rptLinks_divBnrWrap_0" class="bnrWrap">
-                    <a onmousedown="return banner_track(this,415);" href="/occasions/wedding-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Wedding-Candy-Flyout.jpg" alt="Wedding Candy"></a>
+                    <a onmousedown="return banner_track(this,829);" href="/flavors/caramel-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/caramel-candy-flyout.jpg" alt="Shop by Caramel Candy"></a>
                  </div>
              
                   <div id="CT_MainNav_0_cache_ctl05_rptLinks_divBnrWrap_1" class="bnrWrap">
-                    <a onmousedown="return banner_track(this,694);" href="/occasions/christmas-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Xmas-Candy-Flyout2.jpg" alt="Christmas Candy"></a>
+                    <a onmousedown="return banner_track(this,828);" href="/flavors/mints-and-minty-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/minty-candy-flyout.jpg" alt="Shop by Mints &amp; Minty Candy"></a>
                  </div>
              
                   <div id="CT_MainNav_0_cache_ctl05_rptLinks_divBnrWrap_2" class="bnrWrap">
-                    <a onmousedown="return banner_track(this,697);" href="/occasions/autumn/fall-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Autumn-Turkey-Candy-Flyout31.JPG" alt="Autumn/Fall Candy"></a>
+                    <a onmousedown="return banner_track(this,813);" href="/flavors/sour-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/sour-candy-flyout.jpg" alt="Shop by Sour Candy"></a>
                  </div>
              
                   <div id="CT_MainNav_0_cache_ctl05_rptLinks_divBnrWrap_3" class="bnrWrap last">
@@ -315,15 +465,15 @@ function banner_track(el,id) {el.href = '/banners.aspx?BannerId=' + id;el.moused
 <div class="menuBanners clearfix">
 
                   <div id="CT_MainNav_0_cache_ctl06_rptLinks_divBnrWrap_0" class="bnrWrap">
-                    <a onmousedown="return banner_track(this,415);" href="/occasions/wedding-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Wedding-Candy-Flyout.jpg" alt="Wedding Candy"></a>
+                    <a onmousedown="return banner_track(this,852);" href="/occasions/wedding-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Wedding-Candy-Flyout.jpg" alt="Wedding Candy"></a>
                  </div>
              
                   <div id="CT_MainNav_0_cache_ctl06_rptLinks_divBnrWrap_1" class="bnrWrap">
-                    <a onmousedown="return banner_track(this,694);" href="/occasions/christmas-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Xmas-Candy-Flyout2.jpg" alt="Christmas Candy"></a>
+                    <a onmousedown="return banner_track(this,863);" href="/occasions/patriotic-and-political-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Patriotic-Candy-Flyout-2.jpg" alt="Shop by Patriotic &amp; Political Candy"></a>
                  </div>
              
                   <div id="CT_MainNav_0_cache_ctl06_rptLinks_divBnrWrap_2" class="bnrWrap">
-                    <a onmousedown="return banner_track(this,697);" href="/occasions/autumn/fall-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Autumn-Turkey-Candy-Flyout31.JPG" alt="Autumn/Fall Candy"></a>
+                    <a onmousedown="return banner_track(this,862);" href="/occasions/luau-and-beach-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Luau-Beach-Candy-Flyout1.JPG" alt="Luau &amp; Beach Candy"></a>
                  </div>
              
                   <div id="CT_MainNav_0_cache_ctl06_rptLinks_divBnrWrap_3" class="bnrWrap last">
@@ -338,11 +488,11 @@ function banner_track(el,id) {el.href = '/banners.aspx?BannerId=' + id;el.moused
 <ul class="linkList iconLinks">
 <li><a href="http://www.candywarehouse.com/occasions/wedding-candy/" style="background-image:url(/assets/department/icon/engagement-ring-16x16.png);">Wedding Candy</a></li><li><a href="http://www.candywarehouse.com/occasions/baby-shower-candy/" style="background-image:url(/assets/department/icon/baby-carriage-17x17.gif);">Baby Shower Candy</a></li><li><a href="http://www.candywarehouse.com/occasions/bar-mitzvah-bat-mitzvah-candy/" style="background-image:url(/assets/department/icon/bar-mitzvah-scroll-20x20.png);">Bar Mitzvah - Bat Mitzvah Candy</a></li><li><a href="http://www.candywarehouse.com/occasions/birthday-candy/" style="background-image:url(/assets/department/icon/Balloons.gif);">Birthday Candy</a></li><li><a href="http://www.candywarehouse.com/occasions/thank-you-candy/" style="background-image:url(/assets/department/icon/Trophy_bronze.png);">Thank You Candy</a></li></ul>
 <ul class="linkList iconLinks">
-<li><a href="http://www.candywarehouse.com/occasions/autumn/fall-candy/" style="background-image:url(/assets/department/icon/acorn-icon-16x16.png);">Autumn/Fall Candy</a></li><li><a href="http://www.candywarehouse.com/occasions/hanukkah-candy/" style="background-image:url(/assets/department/icon/Hanukkah_icon2.gif);">Hanukkah Candy</a></li><li><a href="http://www.candywarehouse.com/occasions/christmas-candy/" style="background-image:url(/assets/department/icon/Xmas_icon4.gif);">Christmas Candy</a></li><li><a href="http://www.candywarehouse.com/occasions/new-year-s-eve-candy/" style="background-image:url(/assets/department/icon/hat-16x16.png);">New Year's Eve Candy</a></li><li><a href="http://www.candywarehouse.com/occasions/valentines-day-candy/" style="background-image:url(/assets/department/icon/heart-16x16.png);">Valentine's Day Candy</a></li></ul>
+<li><a href="http://www.candywarehouse.com/occasions/graduation-candy/" style="background-image:url(/assets/department/icon/icon-graduation.png);">Graduation Candy</a></li><li><a href="http://www.candywarehouse.com/occasions/father-s-day-candy/" style="background-image:url(/assets/department/icon/drill-icon.png);">Father's Day Candy</a></li><li><a href="http://www.candywarehouse.com/occasions/luau-and-beach-candy/" style="background-image:url(/assets/department/icon/beach-ball-icon-16x16.png);">Luau &amp; Beach Candy</a></li><li><a href="http://www.candywarehouse.com/occasions/patriotic-and-political-candy/" style="background-image:url(/assets/department/icon/american-flag-17x171.gif);">Patriotic &amp; Political Candy</a></li><li><a href="http://www.candywarehouse.com/occasions/summer-carnival-festival-candy/" style="background-image:url(/assets/department/icon/sun-icon-16x16.png);">Summer Carnival/Festival Candy</a></li></ul>
 <ul class="linkList iconLinks">
-<li><a href="http://www.candywarehouse.com/occasions/old-fashioned-and-nostalgic-candy/" style="background-image:url(/assets/department/icon/scale-black-16x16.png);">Old Fashioned &amp; Nostalgic Candy</a></li><li><a href="http://www.candywarehouse.com/occasions/girl-party-candy/" style="background-image:url(/assets/department/icon/pink-female-icon.png);">Girl Party Candy</a></li><li><a href="http://www.candywarehouse.com/occasions/boy-party-candy/" style="background-image:url(/assets/department/icon/blue-male-icon.png);">Boy Party Candy</a></li><li><a href="http://www.candywarehouse.com/occasions/game-night-and-card-game-candy/" style="background-image:url(/assets/department/icon/icon-game-night.png);">Game Night &amp; Card Game Candy</a></li><li><a href="http://www.candywarehouse.com/occasions/corporate/trade-show-candy/" style="background-image:url(/assets/department/icon/business-chart-17x17.gif);">Corporate/Trade Show Candy</a></li></ul>
+<li><a href="http://www.candywarehouse.com/occasions/old-fashioned-and-nostalgic-candy/" style="background-image:url(/assets/department/icon/scale-black-16x16.png);">Old Fashioned &amp; Nostalgic Candy</a></li><li><a href="http://www.candywarehouse.com/occasions/girl-party-candy/" style="background-image:url(/assets/department/icon/pink-female-icon.png);">Girl Party Candy</a></li><li><a href="http://www.candywarehouse.com/occasions/boy-party-candy/" style="background-image:url(/assets/department/icon/blue-male-icon.png);">Boy Party Candy</a></li><li><a href="http://www.candywarehouse.com/occasions/sports-candy/" style="background-image:url(/assets/department/icon/soccer-ball-17x17.jpg);">Sports Candy</a></li><li><a href="http://www.candywarehouse.com/occasions/corporate/trade-show-candy/" style="background-image:url(/assets/department/icon/business-chart-17x17.gif);">Corporate/Trade Show Candy</a></li></ul>
 <ul class="linkList iconLinks">
-<li><a href="http://www.candywarehouse.com/occasions/princess-party-candy/" style="background-image:url(/assets/department/icon/princess-tiara1.gif);">Princess Party Candy</a></li><li><a href="http://www.candywarehouse.com/occasions/animated-and-super-hero-characters/" style="background-image:url(/assets/department/icon/mickey-mouse-icon-17pxh.jpg);">Animated &amp; Super Hero Characters</a></li><li><a href="http://www.candywarehouse.com/occasions/sports-candy/" style="background-image:url(/assets/department/icon/soccer-ball-17x17.jpg);">Sports Candy</a></li><li><a href="http://www.candywarehouse.com/occasions/extreme-gross-and-funny-candy/" style="background-image:url(/assets/department/icon/icon-funny.png);">Extreme, Gross &amp; Funny Candy</a></li><li><a class="viewAll" href="http://www.candywarehouse.com/occasions/">View All Occasions</a></li></ul>
+<li><a href="http://www.candywarehouse.com/occasions/halloween-candy/" style="background-image:url(/assets/department/icon/icon-halloween.png);">Halloween Candy</a></li><li><a href="http://www.candywarehouse.com/occasions/christmas-candy/" style="background-image:url(/assets/department/icon/Xmas_icon4.gif);">Christmas Candy</a></li><li><a href="http://www.candywarehouse.com/occasions/valentines-day-candy/" style="background-image:url(/assets/department/icon/heart-16x16.png);">Valentine's Day Candy</a></li><li><a href="http://www.candywarehouse.com/occasions/easter-candy/" style="background-image:url(/assets/department/icon/easter-egg-icon-16x161.gif);">Easter Candy</a></li><li><a class="viewAll" href="http://www.candywarehouse.com/occasions/">View All Occasions</a></li></ul>
 <div class="clear">&nbsp;</div>
 </div>
 <div class="clear">&nbsp;</div>
@@ -361,15 +511,15 @@ function banner_track(el,id) {el.href = '/banners.aspx?BannerId=' + id;el.moused
 <div class="menuBanners clearfix">
 
                   <div id="CT_MainNav_0_cache_ctl07_rptLinks_divBnrWrap_0" class="bnrWrap">
-                    <a onmousedown="return banner_track(this,415);" href="/occasions/wedding-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Wedding-Candy-Flyout.jpg" alt="Wedding Candy"></a>
+                    <a onmousedown="return banner_track(this,846);" href="/brands/tootsie-roll-industries/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Tootsie-Candy-Flyout.jpg" alt="Tootsie Roll Candy"></a>
                  </div>
              
                   <div id="CT_MainNav_0_cache_ctl07_rptLinks_divBnrWrap_1" class="bnrWrap">
-                    <a onmousedown="return banner_track(this,694);" href="/occasions/christmas-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Xmas-Candy-Flyout2.jpg" alt="Christmas Candy"></a>
+                    <a onmousedown="return banner_track(this,845);" href="/brands/lemonhead-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Lemonhead-Candy-Flyout.jpg" alt="Lemonhead Candy"></a>
                  </div>
              
                   <div id="CT_MainNav_0_cache_ctl07_rptLinks_divBnrWrap_2" class="bnrWrap">
-                    <a onmousedown="return banner_track(this,697);" href="/occasions/autumn/fall-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Autumn-Turkey-Candy-Flyout31.JPG" alt="Autumn/Fall Candy"></a>
+                    <a onmousedown="return banner_track(this,847);" href="/brands/kisses/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Hershey-Kisses-Candy-Flyout.jpg" alt="Kisses"></a>
                  </div>
              
                   <div id="CT_MainNav_0_cache_ctl07_rptLinks_divBnrWrap_3" class="bnrWrap last">
@@ -382,11 +532,11 @@ function banner_track(el,id) {el.href = '/banners.aspx?BannerId=' + id;el.moused
 <a class="imghdng" style="width:116px; height:22px; background-image: url(/assets/department/flyout/navhdng_brands.gif);" href="http://www.candywarehouse.com/shop-by-brand/">Brands</a>
 </div>
 <ul class="linkList">
-<li><a href="http://www.candywarehouse.com/brands/airheads-candy/">AirHeads Candy</a></li><li><a href="http://www.candywarehouse.com/brands/albanese-confectionery/">Albanese Confectionery</a></li><li><a href="http://www.candywarehouse.com/brands/alberts-candy/">Albert's Candy</a></li><li><a href="http://www.candywarehouse.com/brands/altoids-candy/">Altoids Candy</a></li><li><a href="http://www.candywarehouse.com/brands/andes-candy/">Andes Candy</a></li></ul>
+<li><a href="http://www.candywarehouse.com/brands/3-musketeers-candy/">3 Musketeers Candy</a></li><li><a href="http://www.candywarehouse.com/brands/airheads-candy/">AirHeads Candy</a></li><li><a href="http://www.candywarehouse.com/brands/albanese-confectionery/">Albanese Confectionery</a></li><li><a href="http://www.candywarehouse.com/brands/alberts-candy/">Albert's Candy</a></li><li><a href="http://www.candywarehouse.com/brands/altoids-candy/">Altoids Candy</a></li></ul>
 <ul class="linkList">
-<li><a href="http://www.candywarehouse.com/brands/annabelle-candy/">Annabelle Candy</a></li><li><a href="http://www.candywarehouse.com/brands/ashers-chocolates/">Asher's Chocolates</a></li><li><a href="http://www.candywarehouse.com/brands/atkinsons-candy/">Atkinson's Candy</a></li><li><a href="http://www.candywarehouse.com/brands/atomic-fireballs-candy/">Atomic FireBalls Candy</a></li><li><a href="http://www.candywarehouse.com/brands/baby-ruth-candy/">Baby Ruth Candy</a></li></ul>
+<li><a href="http://www.candywarehouse.com/brands/andes-candy/">Andes Candy</a></li><li><a href="http://www.candywarehouse.com/brands/annabelle-candy/">Annabelle Candy</a></li><li><a href="http://www.candywarehouse.com/brands/ashers-chocolates/">Asher's Chocolates</a></li><li><a href="http://www.candywarehouse.com/brands/atkinsons-candy/">Atkinson's Candy</a></li><li><a href="http://www.candywarehouse.com/brands/atomic-fireballs-candy/">Atomic FireBalls Candy</a></li></ul>
 <ul class="linkList">
-<li><a href="http://www.candywarehouse.com/brands/bazooka-candy-brands/">Bazooka Candy Brands</a></li><li><a href="http://www.candywarehouse.com/brands/bee-international-candy/">Bee International Candy</a></li><li><a href="http://www.candywarehouse.com/brands/bobs-candy/">Bob's Candy</a></li><li><a href="http://www.candywarehouse.com/brands/bogdons-candy/">Bogdon's Candy</a></li><li><a href="http://www.candywarehouse.com/brands/brachs-confections/">Brach's Confections</a></li></ul>
+<li><a href="http://www.candywarehouse.com/brands/baby-ruth-candy/">Baby Ruth Candy</a></li><li><a href="http://www.candywarehouse.com/brands/bazooka-candy-brands/">Bazooka Candy Brands</a></li><li><a href="http://www.candywarehouse.com/brands/bee-international-candy/">Bee International Candy</a></li><li><a href="http://www.candywarehouse.com/brands/bobs-candy/">Bob's Candy</a></li><li><a href="http://www.candywarehouse.com/brands/brachs-confections/">Brach's Confections</a></li></ul>
 <ul class="linkList">
 <li><a href="http://www.candywarehouse.com/brands/brown-and-haley/">Brown &amp; Haley</a></li><li><a href="http://www.candywarehouse.com/brands/butterfinger-candy/">Butterfinger Candy</a></li><li><a href="http://www.candywarehouse.com/brands/c-howards-candy/">C Howard's Candy</a></li><li><a href="http://www.candywarehouse.com/brands/cadbury-candy/">Cadbury Candy</a></li><li><a class="viewAll" href="http://www.candywarehouse.com/shop-by-brand/">View All Brands</a></li></ul>
 <div class="clear">&nbsp;</div>
@@ -407,15 +557,15 @@ function banner_track(el,id) {el.href = '/banners.aspx?BannerId=' + id;el.moused
 <div class="menuBanners clearfix">
 
                   <div id="CT_MainNav_0_cache_ctl08_rptLinks_divBnrWrap_0" class="bnrWrap">
-                    <a onmousedown="return banner_track(this,415);" href="/occasions/wedding-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Wedding-Candy-Flyout.jpg" alt="Wedding Candy"></a>
+                    <a onmousedown="return banner_track(this,839);" href="/candy-type/candy-sticks/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Candy-Sticks-flyout.jpg" alt="Shop by Candy Sticks"></a>
                  </div>
              
                   <div id="CT_MainNav_0_cache_ctl08_rptLinks_divBnrWrap_1" class="bnrWrap">
-                    <a onmousedown="return banner_track(this,694);" href="/occasions/christmas-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Xmas-Candy-Flyout2.jpg" alt="Christmas Candy"></a>
+                    <a onmousedown="return banner_track(this,841);" href="/candy-type/gummy-and-jelly-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Gummy-Jelly-Candy-flyout.jpg" alt="Shop by Gummy &amp; Jelly Candy"></a>
                  </div>
              
                   <div id="CT_MainNav_0_cache_ctl08_rptLinks_divBnrWrap_2" class="bnrWrap">
-                    <a onmousedown="return banner_track(this,697);" href="/occasions/autumn/fall-candy/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Autumn-Turkey-Candy-Flyout31.JPG" alt="Autumn/Fall Candy"></a>
+                    <a onmousedown="return banner_track(this,842);" href="/candy-type/lollipops-and-suckers/"><img border="0" style="width:176px; height:130px;" src="/assets/1/12/Lollipops-Flyout1.JPG" alt="Lollipops &amp; Suckers"></a>
                  </div>
              
                   <div id="CT_MainNav_0_cache_ctl08_rptLinks_divBnrWrap_3" class="bnrWrap last">
@@ -532,11 +682,15 @@ if (window.addEventListener) {
             
             </li>    
         
-            <li id="CT_Left_0_cache_rptSecondLevel_liSecondLevel_8"><a id="CT_Left_0_cache_rptSecondLevel_hlkSecondLevel_8" href="/service/terms/">Terms of Use</a>
+            <li id="CT_Left_0_cache_rptSecondLevel_liSecondLevel_8"><a id="CT_Left_0_cache_rptSecondLevel_hlkSecondLevel_8" href="/service/shipping-alerts/">Shipping Alerts</a>
             
             </li>    
         
-            <li id="CT_Left_0_cache_rptSecondLevel_liSecondLevel_9"><a id="CT_Left_0_cache_rptSecondLevel_hlkSecondLevel_9" href="/subscribe/">Candy Newsletter</a>
+            <li id="CT_Left_0_cache_rptSecondLevel_liSecondLevel_9"><a id="CT_Left_0_cache_rptSecondLevel_hlkSecondLevel_9" href="/service/terms/">Terms of Use</a>
+            
+            </li>    
+        
+            <li id="CT_Left_0_cache_rptSecondLevel_liSecondLevel_10"><a id="CT_Left_0_cache_rptSecondLevel_hlkSecondLevel_10" href="/subscribe/">Candy Newsletter</a>
             
             </li>    
         
@@ -571,17 +725,9 @@ if (window.addEventListener) {
 
 	<div class="recentlyViewed">
 		
+	<p>You have not viewed any products recently.</p>
 
-		<div class="itemWrapper">
-			<a href="http://www.candywarehouse.com/products/dark-chocolate-covered-orange-jelly-candy-sticks-105-ounce-gift-box/" id="CT_Top_0_ctrlRecentlyViewed_rptRecentlyViewed_lnkItem_0" class="itemLink"><img class="itemImage" src="/assets/item/cart/Dark-Chocolate-COvered-Orange-Jelly-Sticks-im-131344.jpg" alt="Dark Chocolate Covered Orange Jelly Candy Sticks: 10.5-Ounce Gift Box"></a>
-			<div class="itemDetails">
-				<h3 class="itemTitle"><a href="http://www.candywarehouse.com/products/dark-chocolate-covered-orange-jelly-candy-sticks-105-ounce-gift-box/" id="CT_Top_0_ctrlRecentlyViewed_rptRecentlyViewed_lnkItem2_0">Dark Chocolate Covered Orange Jelly Candy Sticks: 10.5-Ounce Gift Box</a></h3>
-				<span class="itemSku">sku # 131344</span>
-				
-				<p id="CT_Top_0_ctrlRecentlyViewed_rptRecentlyViewed_ltlPrice_0" class="itemPrice">$9.90</p>
-			</div>
-		</div>
-    
+
 
 
 		<div class="clear">&nbsp;</div>
@@ -739,7 +885,7 @@ if (window.addEventListener) {
          
 											        
 											
-<div><b>Popular Search Terms:&nbsp;</b> <a href="/occasions/wedding-candy/">Wedding Candy</a>, <a href="/occasions/baby-shower-candy/">                                             Baby Shower Candy</a>, <a href="/occasions/autumn/fall-candy/">Autumn Candy</a>, <a href="/occasions/hanukkah-candy/">Hanukkah Candy</a>, <a href="/occasions/christmas-candy/">Christmas Candy</a>, <a href="/occasions/new-year-s-eve-candy/">New Year's Eve Candy</a>, <a href="http://www.candywarehouse.com/colors/pink-candy/">Pink Candy</a>, <a href="http://www.candywarehouse.com/colors/purple-candy/">Purple Candy</a>, <a href="/colors/blue-candy/">Blue Candy</a>, <a href="/candy-type/taffy/">Taffy</a>, <a href="/candy-type/lollipops-and-suckers/whirly-pops/">Whirly Pops</a></div>
+<div><b>Popular Search Terms:&nbsp;</b> <a href="/occasions/wedding-candy/">Wedding Candy</a>, <a href="/occasions/baby-shower-candy/">                                             Baby Shower Candy</a> ,<a href="http://www.candywarehouse.com/occasions/graduation-candy/">Graduation Candy</a>, <a href="http://www.candywarehouse.com/occasions/father-s-day-candy/">Father's Day Candy</a>, <a href="http://www.candywarehouse.com/occasions/patriotic-and-political-candy/">Patriotic &amp; Political Candy</a>, <a href="http://www.candywarehouse.com/occasions/luau-and-beach-candy/">Luau &amp; Beach Candy</a>, <a href="http://www.candywarehouse.com/colors/pink-candy/">Pink Candy</a>, <a href="http://www.candywarehouse.com/colors/purple-candy/">Purple Candy</a>, <a href="/colors/blue-candy/">Blue Candy</a>, <a href="/candy-type/taffy/">Taffy</a>, <a href="/candy-type/lollipops-and-suckers/whirly-pops/">Whirly Pops</a></div>
 <div>&nbsp;</div>
 
        
@@ -772,17 +918,17 @@ if (window.addEventListener) {
                                                         </div>
 							<div class="banners">
 								<div class="bnrBlockOne">
-									<a id="RandomBannerLink_702" href="http://www.candywarehouse.com/occasions/christmas-candy/" onmousedown="return banner_track(this,702);"><img border="0" src="/assets/1/12/Lower-Banner-Christmas-Santa.jpg" alt="Christmas Candy"></a>
+									<a id="RandomBannerLink_622" href="/occasions/patriotic-and-political-candy/" onmousedown="return banner_track(this,622);"><img border="0" src="/assets/1/12/Lower-Patriotic.jpg" alt="Patriotic &amp; Political Candy"></a>
 
 
 								</div>
 								<div class="bnrBlockTwo">
-									<a id="RandomBannerLink_296" href="/buffet-builder/build/?Department-Color-Filter=Orange%20Candy" onmousedown="return banner_track(this,296);"><img border="0" src="/assets/1/12/Lower-Blue-orange.jpg" alt="Orange Candy Buffet"></a>
+									<a id="RandomBannerLink_659" href="/candy-type/candy-fashion-accessories-and-art/" onmousedown="return banner_track(this,659);"><img border="0" src="/assets/1/12/Lower-Banner-Fashion.jpg" alt="Candy Fashion"></a>
 
 
 								</div>
 								<div class="bnrBlockThree">
-									<a id="RandomBannerLink_429" href="/rainbow-candy-buffet/" onmousedown="return banner_track(this,429);"><img border="0" src="/assets/1/12/Candy-Magic.jpg" alt="Rainbow Candy Buffet"></a>
+									<a id="RandomBannerLink_686" href="/resources/promotions/" onmousedown="return banner_track(this,686);"><img border="0" src="/assets/1/12/Lower-Banner-Coupons-OR1.JPG" alt="Current Promotions"></a>
 
 
 								</div>
@@ -899,7 +1045,7 @@ Also check out the Most Popular Candy Searches on our website! Pamper your palat
 		</div>
 
 
-		<div class="copyright">Copyright © 1998-2013. All Rights Reserved. CandyWarehouse.com, Inc. - Online Bulk Candy Store</div>
+		<div class="copyright">Copyright © 1998-2014. All Rights Reserved. CandyWarehouse.com, Inc. - Online Bulk Candy Store</div>
 		<div class="clear">&nbsp;</div>
 		<div class="right padT20">
 			<div style="float: right; margin: 0 0 0 10px;">
@@ -969,7 +1115,7 @@ Also check out the Most Popular Candy Searches on our website! Pamper your palat
     WriteBuySafeSeal("BuySafeSealSpan", "GuaranteedSeal");
 </script>
 <!-- END: buySAFE Seal -->
-<script type="text/javascript" src="https://px.steelhousemedia.com/st?aid=9734&amp;cb=19354920848046884&amp;shcv=&amp;shcq=&amp;shcp=&amp;shpn=&amp;shpc=&amp;shpp=&amp;shpb=&amp;shpi=&amp;tdr=&amp;plh=https%3A%2F%2Fweb.archive.org%2Fweb%2F20131119010634id_%2Fhttp%3A%2F%2Fwww.candywarehouse.com%2Fservice%2Fprivacy%2F"></script><script type="text/javascript">
+<script type="text/javascript" src="https://px.steelhousemedia.com/st?aid=9734&amp;cb=69023827633787624&amp;shcv=&amp;shcq=&amp;shcp=&amp;shpn=&amp;shpc=&amp;shpp=&amp;shpb=&amp;shpi=&amp;tdr=&amp;plh=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140523003844id_%2Fhttp%3A%2F%2Fwww.candywarehouse.com%2Fservice%2Fprivacy%2F"></script><script type="text/javascript">
     // tracking pixel version 2.8.6
     var shpn = "";
     var shpc = "";
@@ -1019,15 +1165,6 @@ Also check out the Most Popular Candy Searches on our website! Pamper your palat
         steelhouse.load();
     })(); </script>
 
-<!-- BEGIN Sidecar -->
-<script type="text/javascript">
-    var sidecar = sidecar || {};
-    sidecar.preboot = sidecar.preboot || {};
-    sidecar.preboot.site_key = '9815f719d0de686f5fc65aaed41dae1a';
-</script>
-<script src="https://d3v27wwd40f0xu.cloudfront.net/js/bootstrap.js" type="text/javascript"></script>
-<!-- END Sidecar -->
- 
 <!-- BEGIN AdRoll -->
 <script type="text/javascript">
     adroll_adv_id = "IEVJUB34QVE2DCMNXPDRLV";
@@ -1055,7 +1192,7 @@ Also check out the Most Popular Candy Searches on our website! Pamper your palat
 	
 <div class="aspNetHidden">
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQLL+enTDQKsocTMBQL22J2xBgLE2JWgAQLmr/TpB6bQGUPO/DhXaB/8QkLaBSYC5XYO">
-</div><input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExNzk4MzI1MzYPZBYCZg9kFgQCAg9kFgICBQ9kFgJmDxYCHgdWaXNpYmxlZ2QCBQ9kFgQCCg9kFgJmD2QWAmYPZBYCAgIPFgIeBFRleHQFDUN1c3RvbWVyIENhcmVkAgwPZBYEZg9kFgQCAQ9kFgRmDxYCHwBoZAICDxYCHgtfIUl0ZW1Db3VudAIBFgJmD2QWCAIBDxYCHgRocmVmBWtodHRwOi8vd3d3LmNhbmR5d2FyZWhvdXNlLmNvbS9wcm9kdWN0cy9kYXJrLWNob2NvbGF0ZS1jb3ZlcmVkLW9yYW5nZS1qZWxseS1jYW5keS1zdGlja3MtMTA1LW91bmNlLWdpZnQtYm94LxYCZg8VAjhEYXJrLUNob2NvbGF0ZS1DT3ZlcmVkLU9yYW5nZS1KZWxseS1TdGlja3MtaW0tMTMxMzQ0LmpwZ0VEYXJrIENob2NvbGF0ZSBDb3ZlcmVkIE9yYW5nZSBKZWxseSBDYW5keSBTdGlja3M6IDEwLjUtT3VuY2UgR2lmdCBCb3hkAgMPFgIfAwVraHR0cDovL3d3dy5jYW5keXdhcmVob3VzZS5jb20vcHJvZHVjdHMvZGFyay1jaG9jb2xhdGUtY292ZXJlZC1vcmFuZ2UtamVsbHktY2FuZHktc3RpY2tzLTEwNS1vdW5jZS1naWZ0LWJveC8WAmYPFQFFRGFyayBDaG9jb2xhdGUgQ292ZXJlZCBPcmFuZ2UgSmVsbHkgQ2FuZHkgU3RpY2tzOiAxMC41LU91bmNlIEdpZnQgQm94ZAIEDxUBKTxzcGFuIGNsYXNzPSJpdGVtU2t1Ij5za3UgIyAxMzEzNDQ8L3NwYW4+ZAIHDxYCHglpbm5lcmh0bWwFBSQ5LjkwZAICDxYCHwBoZAIBD2QWBGYPFgIfAQUOUHJpdmFjeSBQb2xpY3lkAgEPFgIfAGhkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYDBQxDVF9Ub3BfMiRmY2sFDENUX1RvcF8zJGZjawUMQ1RfVG9wXzQkZmNrdZJRFDpAgm5F6q1GkH1nNyLu/GY="></form>  
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAU27iTR3abkc5gRGRMmlzohXBJtyPCpJIBkqwfJr/BaGr5+I9WYj6+j7ygFm2oDJDk1YoZes5acA7PLzMP3IslAbmGt3M3zhOVWnlQ/zPvrjS8MXi6GBhnM6wi4xOuwF+BqprDn">
+</div><input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExNzk4MzI1MzYPZBYCZg9kFgQCAg9kFgYCCg8PFgIeB1Zpc2libGVoZGQCCw8PFgIfAGhkZAIMD2QWAmYPFgIfAGcWAmYPZBYEZg8WAh4EVGV4dAWkBDwhLS0gR29vZ2xlIENvZGUgZm9yIFJlbWFya2V0aW5nIFRhZyAtLT4NCjwhLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0NClJlbWFya2V0aW5nIHRhZ3MgbWF5IG5vdCBiZSBhc3NvY2lhdGVkIHdpdGggcGVyc29uYWxseSBpZGVudGlmaWFibGUgaW5mb3JtYXRpb24gDQpvciBwbGFjZWQgb24gcGFnZXMgcmVsYXRlZCB0byBzZW5zaXRpdmUgY2F0ZWdvcmllcy4gU2VlIG1vcmUgaW5mb3JtYXRpb24gYW5kIA0KaW5zdHJ1Y3Rpb25zIG9uIGhvdyB0byBzZXR1cCB0aGUgdGFnIG9uOiBodHRwOi8vZ29vZ2xlLmNvbS9hZHMvcmVtYXJrZXRpbmdzZXR1cA0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0+DQo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+DQp2YXIgZ29vZ2xlX3RhZ19wYXJhbXMgPSB7DQplY29tbV9wcm9kaWQ6ICcnLA0KZWNvbW1fcGFnZXR5cGU6ICdvdGhlcicsDQplY29tbV90b3RhbHZhbHVlOiAnJw0KfTsNCjwvc2NyaXB0Pg0KZAICDxYCHwEFkQQ8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+DQovKiA8IVtDREFUQVsgKi8NCnZhciBnb29nbGVfY29udmVyc2lvbl9pZCA9IDEwNzI3MTk5NDk7DQp2YXIgZ29vZ2xlX2N1c3RvbV9wYXJhbXMgPSB3aW5kb3cuZ29vZ2xlX3RhZ19wYXJhbXM7DQp2YXIgZ29vZ2xlX3JlbWFya2V0aW5nX29ubHkgPSB0cnVlOw0KLyogXV0+ICovDQo8L3NjcmlwdD4NCjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii8vd3d3Lmdvb2dsZWFkc2VydmljZXMuY29tL3BhZ2VhZC9jb252ZXJzaW9uLmpzIj4NCjwvc2NyaXB0Pg0KPG5vc2NyaXB0Pg0KPGRpdiBzdHlsZT0iZGlzcGxheTppbmxpbmU7Ij4NCjxpbWcgaGVpZ2h0PSIxIiB3aWR0aD0iMSIgc3R5bGU9ImJvcmRlci1zdHlsZTpub25lOyIgYWx0PSIgc3JjPSIvL2dvb2dsZWFkcy5nLmRvdWJsZWNsaWNrLm5ldC9wYWdlYWQvdmlld3Rocm91Z2hjb252ZXJzaW9uLzEwNzI3MTk5NDkvP3ZhbHVlPTAmZ3VpZD1PTiZzY3JpcHQ9MCIvPg0KPC9kaXY+DQo8L25vc2NyaXB0Pg0KZAIFD2QWBAIKD2QWAmYPZBYCZg9kFgICAg8WAh8BBQ1DdXN0b21lciBDYXJlZAIMD2QWBGYPZBYEAgEPZBYCAgIPFgQeC18hSXRlbUNvdW50Zh8AaGQCAg8WAh8AaGQCAQ9kFgRmDxYCHwEFDlByaXZhY3kgUG9saWN5ZAIBDxYCHwBoZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAwUMQ1RfVG9wXzIkZmNrBQxDVF9Ub3BfMyRmY2sFDENUX1RvcF80JGZjaxIu0t9/3A541+enh/MTvt6BtAfC"></form>  
 
 </body></html>
