@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nextround.net privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121033818id_/http%3A//www.nextround.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextround.net privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523000319id_/http%3A//www.nextround.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# NextRound.net | Level Off From Your Day Job
 
 Maske and Booth created Nextround.net groups and content (herein, “NR”) with the intention of making it easy to share information with your friends, family and extended networks. We give you control of your information because we understand that you may not want to give the world access to the information you share on NR. Our privacy settings allow you to limit the information displayed about you to your group members.
 
