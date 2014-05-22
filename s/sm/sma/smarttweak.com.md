@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarttweak.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513085518id_/http%3A//www.smarttweak.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarttweak.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522165317id_/http%3A//www.smarttweak.net/privacypolicy) for the most accurate reproduction.*
 
 # SmartTweak Software - Privacy Policy
 
