@@ -1,64 +1,160 @@
-> *The following text is extracted and transformed from the hbc.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122035421id_/http%3A//www3.hbc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hbc.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523003828id_/http%3A//www3.hbc.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Hudson's Bay Company
 
-### HBC is protecting your privacy
+**PRIVACY POLICY [NEW]**
 
-For over 335 years, Hudson’s Bay Company (HBC) has been a name that means trust in this country. We value you as our customer, and want to assure you that our 70,000 associates are committed to upholding the trust you’ve placed in us as Canada’s oldest corporation and largest department store retailer.
+**Hudson’s Bay Company and Your Privacy**
 
-HBC’s Principles for the Protection of Personal Information were created to ensure we preserve the confidentiality, accuracy and security of your personal information. These principles guide us in the collection, use, retention and disclosure of your personal information in all of our HBC family of stores and services: the Bay, Zellers, Home Outfitters, Fields, HBC Credit, HBC Rewards and HBC Insurance.
+For over 335 years, Hudson’s Bay Company has been a name that means trust. We value you as our customer and are committed to honouring the trust you’ve placed in us.
 
-**The information that we collect**
+This is Hudson’s Bay Company’s Privacy Policy.  It describes the steps we take to protect your personal information and how and why we collect, use, retain and disclose your personal information, whether obtained online, in our stores (including Hudson’s Bay, Zellers or Home Outfitters), or through the offering and delivery of one of our services such as Hudson’s Bay Credit, Hudson’s Bay Rewards and Hudson’s Bay Financial Services (collectively in this Privacy Policy “Hudson’s Bay” “we” “us” or “our”).
 
-Personal information means any information about an identifiable individual. This includes information such as your name, address, telephone number, birth date, purchase information or e-mail address. As a customer, you provide HBC with this information in a variety of ways, such as when making a purchase, applying for an HBC Credit Card, enrolling in our HBC Rewards program, entering in-store contests or signing up for our Gift Registry program. In every case, HBC adheres to strict guidelines when dealing with your personal information.
+**What is personal information?**
 
-**Collecting your personal information**
+Personal information means any information about an identifiable individual, other than certain business contact information. This includes information such as your name, address, telephone number, birth date, payment card numbers, purchase information and e-mail address.
 
-HBC collects and uses personal information in connection with providing you with goods and services.
+Collection, use and disclosure of your personal information – provision of goods and services
 
-When you provide HBC with personal information, we will inform you as to why we are collecting it.
+Hudson’s Bay collects, uses and discloses personal information in order to provide you with goods and services and/or information on products and services you might be interested in. We also collect, use and disclose your personal information to comply with legal and regulatory requirements and as otherwise may be permitted or required by applicable laws.
 
-HBC obtains your consent for the collection of your personal information. In some instances, where the purpose for collection is obvious, your consent is implied.
+**a) Collection**
 
-HBC will ask for your permission to collect additional information that may be useful in serving you in the future.
+We collect your personal information in connection with the provision of goods and services to you, including but not limited to situations when you:
 
-**Using and disclosing your personal information**
+    * make purchases or returns in one of our retail stores or online
+    * communicate with our customer service representatives
+    * purchase major home fashions, e.g. appliances
+    * create a Gift Registry with Hudson’s Bay
+    * apply for a Hudson’s Bay Credit Card or a Hudson’s Bay MasterCard
+    * join the Hudson’s Bay Rewards program
+    * sign up for our eNewsletter or other communication channels
+    * enter into a contest, promotion or survey
+    * join our clientelling list or enroll in personal shopping
+    * apply for insurance arranged for by Hudson’s Bay Financial Services
+    * engage with Hudson’s Bay on social media
 
-HBC only uses and discloses your personal information for the marketing purposes identified to you when your consent to the collection of your personal information was obtained.
 
-HBC does not provide your personal information for marketing purposes of other organizations without your consent.
 
-You can withdraw, at any time, your consent for the use of your personal information that is not required for a transaction subject to legal restrictions and upon reasonable notice to HBC. Your information may be retained by HBC for audit or archival purposes.
+We collect personal information about you for various purposes, including to:
+
+    * manage our business and to register and maintain accurate accounts for you
+    * verify your identity for our mutual protection
+    * verify your eligibility for, and/or to provide you with, products, services and promotions
+    * provide you with information about our products, services and promotions (see below under “Collection, use and disclosure of your personal information – for optional purposes”)
+    * generate statistics and aggregate reports for internal use
+    * meet legal and regulatory requirements
+
+
+
+In most cases we collect personal information directly from you. However, in some cases, we obtain certain personal information from other sources.  Unless there is a legal exception, we will obtain your consent to collect personal information about you from other sources.
+
+**b) Use**
+
+Personal information will not be used without your consent for purposes other than those for which it was collected. From time to time, we may wish to use your personal information for new or additional purposes. We will obtain your consent to use your personal information for such new or additional purposes before doing so.
+
+Additionally, some retailers in our stores are licensees and they may collect information from you. Unless you are advised otherwise at the time of collection, any personal information collected by these organizations is collected on behalf of Hudson’s Bay and will be used and maintained by Hudson’s Bay. These organizations will likely have their own privacy policies that will also apply to your personal information that they collect. They can furnish you with a copy of their privacy policies.
+
+We may use your personal information in connection with the purposes for which you have provided it. For example:
+
+_When you make purchases or returns in one of our retail stores or online:_
+
+We will use your personal information as is necessary to process your transaction, including payment and shipping, to verify your identity and address, and to administer our post-purchase survey. When making returns, you may be asked to provide personal information for fraud prevention purposes.
+
+_When you purchase major home fashions, e.g. appliances:_
+
+We will use your personal information as is necessary to ensure proper delivery of your purchase, follow up on any service matters, assist you with any manufacturer warranty claims, and to process extended warranty renewals.
+
+_When you create a Gift Registry with Hudson’s Bay:_
+
+We will use your personal information to publish your name and event date so that purchases can be made from your registry, follow up on any service matters, advise you of any fulfillment matters, allow you to track or delete items from your registry, and to manage the completion of your registry.
+
+_When you join the Hudson’s Bay Rewards program:_
+
+We will use your personal information to establish and administer your Hudson’s Bay Rewards account and/or to determine your eligibility for the program. We will also use your personal information to communicate with you about special offerings for certain accountholders, such as advance sales notices, invitations to events, and mailing of fashion guides.
+
+_When you sign up for our eNewsletter or other communication channels:_
+
+We will use your personal information to email you our eNewsletter. If you wish to unsubscribe from our eNewsletter, please click the “unsubscribe” option that appears at the bottom of every eNewsletter. If you opt in, we may use your personal information to mail you special offers and/or materials. If you sign up for Hudson’s Bay Mobile, we will use your mobile phone number to text you special offers.
+
+_When you join our clientelling list or enroll in personal shopping:_
+
+The information you provide when you join our clientelling list is collected by Hudson’s Bay to administer our clientelling program. Your information may be shared by our affiliates when you sign up for the clientelling program at certain counters. If you wish to have your name removed from our clientelling list, please contact a sales manager at the store where you provided the information. When you enroll in personal shopping, your personal information will be used to select and deliver merchandise and to process payments or returns.
+
+_When you engage with Hudson’s Bay on social media:_
+
+When you interact with us on social media, the personal information you provide may be used to determine your identity, respond to your customer service inquiries, questions or comments and take other appropriate actions in response to your inquiries or postings.
+
+**c) Disclosure**
+
+We may share information that we collect within the HBC group of affiliated companies, including future affiliates.  In addition, we may disclose your personal information to third parties as follows:
+
+    * with your express consent
+    * for debt collection purposes
+    * for loss and fraud prevention purposes
+    * if required or permitted by law
+    * in connection with a sale or potential sale of all or part of Hudson’s Bay Company’s business (in that event we will only disclose your personal information if we are satisfied that the other party will apply appropriate security safeguards to the personal information and return the personal information to us if the transaction does not proceed)
+    * for optional marketing purposes (see below under “Collection, use and disclosure of your personal information – for optional purposes”)
+
+
+
+From time to time, we may work with other organizations to offer and deliver goods and services to you on our behalf. For example:
+
+_When you apply for a Hudson’s Bay Credit Card or a Hudson’s Bay MasterCard:_
+
+We will disclose your personal information to our co-venturer, Capital One, in order to determine your eligibility for a Hudson’s Bay Credit Card or a Hudson’s Bay MasterCard, and to administer your account. You should refer to the Capital One Privacy Statement for information about Capital One’s practices regarding your personal information. We will use your personal information to establish and administer your Hudson’s Bay Rewards account in connection with your Hudson’s Bay Credit Card or Hudson’s Bay MasterCard.
+
+_When you apply for insurance arranged for by_ _Hudson’s Bay_ _Financial Services:_
+
+The insurance products arranged for by Hudson’s Bay Financial Services are underwritten by third party insurance companies and service providers. Your insurance application submission constitutes your consent to disclose your personal information to such third parties to determine your eligibility for, and/or to provide you with the insurance product you applied for.
+
+_Service Providers:_
+
+We may disclose your personal information to third party service providers that perform services for us, such as delivery of goods and information processing.  We require all such service providers to keep your information confidential and secure and to have privacy policies and security standards with respect to personal information that are comparable to ours.
+
+Your personal information may be processed and stored in the United States (whether by us or by our service providers) and may be accessible to the United States government, courts or law enforcement or regulatory agencies through the laws of the United States.
+
+**d) Consent**
+
+Subject to any legal exceptions, we will inform you as to why we are collecting your personal information and with whom it will be shared, if applicable, and we will obtain your consent at or before the time of collection. Depending on the circumstances, such as the way personal information is collected and the type of personal information, your consent may be implied.
+
+We will not unreasonably require your consent to the collection, use or disclosure of your personal information for purposes other than those for which the information is collected as a condition to providing you with a product or service.
+
+You may refuse to provide or withdraw your consent to the collection, use and disclosure of your personal information at any time, unless legal reasons prevent you from doing so. However, if you refuse to provide or you withdraw your consent, we may be unable to provide you with certain goods and services. If you would like to withdraw your consent, please contact the Hudson’s Bay Privacy Office.
+
+**Collection, use and disclosure of your personal information – for optional purposes**
+
+Hudson’s Bay may wish to use the personal information you provide to communicate with you for the purpose of offering you other products and services or allowing select organizations to offer you other products and services.  These offers may be sent to you by mail, fax or electronically, including by email, text or sound messages, or by telephone by way of an Automatic Dialing Announcing Device at the telephone number you have provided to Hudson’s Bay.
+
+The collection, use and disclosure of your personal information for such marketing purposes is entirely optional and not required as a condition of doing business with us. You may withdraw your consent at any time. Because of distribution schedules, you may continue to receive marketing communications for a short period of time while your request is processed. If you would like to withdraw your consent, please contact the Hudson’s Bay Privacy Office.
 
 **Maintaining and safeguarding your personal information**
 
-HBC strives to ensure that our security measures protect against loss, theft and unauthorized access, use, disclosure or modification of your personal information.
+Hudson’s Bay has adopted security measures appropriate to the sensitivity of the information to protect your personal information against unauthorized access, loss or theft.
 
-HBC limits access to your personal information to those HBC associates who may need it for use in accordance with HBC’s established privacy principles.
+Hudson’s Bay limits access to personal information in its possession to those Hudson’s Bay associates and sub-contractors who need to know such personal information to provide you with the goods and services for which the information was collected.
 
-HBC associates sign an annual Code of Conduct, which requires them to keep your personal information confidential and comply with our security standards.
+Hudson’s Bay keeps your personal information only for as long as necessary to accomplish the identified purpose(s), and then securely destroys such information.
 
-HBC keeps your information for as long as necessary to accomplish the identified purpose and in order to serve you better. Your information is then destroyed according to legislative requirements.
+**Accessing and accuracy of your personal information**
 
-**You are entitled to access your personal information**
+You may request access to your personal information and an account of organizations to which such information has been disclosed. Hudson’s Bay will respond within 30 days of receiving such request. If we are unable to provide you with the information requested within that time, we will advise you and will respond to your request within an additional 30 days. We will need to verify your identity before providing you with the personal information we hold about you.
 
-If you request access to your personal information, HBC will respond to your request within 30 days.
+There is no cost for such request unless you require copies of records. Hudson’s Bay will advise you of the cost, if any, prior to copying those records.
 
-There is no cost for reasonable requests unless you require copies of records. HBC will advise you of the cost, if any, prior to copying those records.
+Hudson’s Bay may not be able to provide you with access to your personal information if the information cannot be separated from the records of others, cannot be disclosed for reasons of security or commercial confidentiality, or is protected by legal privilege. If we cannot provide you with access to your personal information, we will advise you of the reasons access is being denied, unless we are prohibited by law from doing so.
 
-HBC may not be able to provide you with access to your personal information where the information cannot be separated from the records of others, cannot be disclosed for reasons of security or commercial confidentiality, or is protected by legal privilege.
+You may request a correction to your personal information by writing to the Hudson’s Bay Privacy Office.
 
-**HBC provides you with the answers**
+**Video surveillance**
 
-HBC has established a Privacy Office and has appointed a senior executive as its Privacy Officer to ensure that everyone at HBC complies with our Principles for the Protection of Personal Information. HBC will investigate and respond to any questions, complaints or requests for information you may have.
+We conduct video surveillance at our stores for security, fraud and loss prevention purposes and for incident reporting purposes. We use the images and information from such videos only as required for such purposes and for certain operational purposes, such as to measure traffic patterns in our stores **.** We may provide data from such video surveillance to law enforcement officials.
 
-[back to top](http://www3.hbc.com/privacy/#top)
+**Hudson’s Bay Privacy Office**
 
-### How to contact the HBC Privacy Office
+To obtain a copy of the Hudson’s Bay Privacy Policy, request a correction or to review your personal information, withdraw your consent to the use of your personal information or to ask questions about privacy at Hudson’s Bay, contact the Hudson’s Bay Privacy Office at:
 
-If you have any questions, concerns or complaints about privacy at HBC, or if you want to withdraw your consent for the use of your personal information, or to obtain a copy of our Principles for the Protection of Personal Information, contact the HBC Privacy Office at:
-
-HBC Privacy Office
+Hudson’s Bay Privacy Office
 
 P.O. Box 4135 Station A
 
@@ -70,151 +166,38 @@ M5W 3B7
 
 [privacy@hbc.com](mailto:privacy@hbc.com)
 
+**Changes to our Privacy Policy**
+
+Our website will contain the most up-to-date version of this Privacy Policy; please review it periodically for changes.
+
+Date of last update: November 20, 2013
+
 [back to top](http://www3.hbc.com/privacy/#top)
 
-### Frequently Asked Questions
+**Website Privacy Information**
 
-**1.** | **Q:** | **What is “personal information”?**  
----|---|---  
-| **A:** | “Personal information” is any information about an identifiable individual. This includes information such as a person’s name, address and phone number.  
-**2.** | **Q:** | **Do I have to give HBC my personal information in order to conduct business with HBC?**  
-| **A:** | There are several instances where you are required to give us your personal information for operational and/or administrative purposes. For example, we require your personal information in order to manage your HBC Rewards account, deliver an item to you that you may have purchased, or maintain your gift registry. Giving us your personal information for these kinds of _primary_ operational purposes is necessary to obtain certain products and services from HBC.However, agreeing to the use of your personal information for additional secondary marketing purposes is entirely up to you. You may contact our Privacy Office at any time to request that we not use your personal information for marketing purposes.  
-**3.** | **Q:** | **What are the differences between primary and secondary purposes of personal information collection?**  
-| **A:** | _Primary_ purposes are those purposes that are operational and are absolutely necessary for HBC to be able to provide the products and/or services that you request from us. For example, a primary purpose for our collecting your address may be to ensure we can successfully deliver to your home an item you may have purchased. _Secondary_ purposes are any purposes that are over and above the primary/operational purposes, like sending you communications that may include notifications of sales, special events, store promotions and exclusive offers.  
-**4.** | **Q:** | **Will I be advised of the collection purposes prior to giving my consent?**  
-| **A:** | Yes. When you fill out an HBC form that asks for your personal information (e.g. gift registry form, HBC Rewards enrollment form, etc.) there is a privacy notice that outlines both our primary and secondary purposes for collecting your information.  
-**5.** | **Q:** | **Why is it important to keep HBC up to date with regards to my personal information?**  
-| **A:** | Keeping your personal information as accurate and up-to-date as possible ensures that you will get the best possible information and service offerings from HBC.  
-**6.** | **Q:** | **What are my opt-out choices?**  
-| **A:** | You can opt-out of receiving communications via specific contact channels. For example, you can choose to no longer receive marketing-related phone calls, but you may choose to continue receiving notification of sales and exclusive offers in the mail. However, you may not be able to restrict your communications to specific programs. Contact our Privacy Office for more details on your opt-out choices.  
-**7.** | **Q:** | **If I opt-out, how long will it take to stop receiving marketing materials after I contact you?**  
-| **A:** | Many will stop immediately or within days, while others may take longer.  
-**8.** | **Q:** | **May I review the personal information HBC has about me? Can I obtain copies of that information?**  
-| **A:** | Yes. You can review the personal information we have about you on file by contacting our Privacy Office. There is no cost for reasonable requests for access to your personal information, but there may be a fee to supply you with copies of records. We will advise you of the fee, if any, at the time of your request.  
-**9.** | **Q:** | **Where can I get a copy of HBC’s Customer Privacy Brochure?**  
-| **A:** | There are three ways you can obtain our Hbc Privacy Brochure:Visit the customer service desks at any of the HBC family of stores. Contact our Privacy Office:  
-**HBC Privacy Office** P.O. Box 4135, Station AToronto, Ontario 
-
-M5W 3B7
-
-1-866-225-8251
-
-Email: privacy@hbc.com  
-  
-[back to top](http://www3.hbc.com/privacy/#top)
-
-### Website Privacy Information
-
-This website is owned and operated by Hudson’s Bay Company in conjunction with its subsidiaries (including Zellers Inc.) and their affiliates (collectively referred to herein as “HBC”).
-
-**Use of your Personal Information collected through eNewsletter Subscriptions**
-
-The information provided by you to subscribe to the HBC eNewsletter is collected by Hudson’s Bay Company and/or its affiliate Zellers Inc. (collectively, “HBC”) to deliver the HBC eNewsletter to your email address and maintain the accuracy of your information. If you wish to unsubscribe from our eNewsletter, please click the “unsubscribe” option that appears at the bottom of every eNewsletter. If you wish to obtain more information on HBC’s Privacy Policy, please contact the HBC Privacy Office.
-
-**Use of your Personal Information collected through Shopping Transactions on this Website**
-
-The information provided by you in order to make a purchase on theBay.com is collected to process your online transaction, ship your item(s), administer our post-purchase survey and maintain the accuracy of your information. In order to protect you and HBC from fraudulent transactions, HBC may provide your transaction-related information to a reputable third party organization to perform an address verification. This address verification is intended to ensure that the “bill to” address that you provide matches your credit card address.
+This website is owned and operated by Hudson’s Bay Company in conjunction with its affiliates.
 
 **Security**
 
-This website strives to protect your personal information. For security of transactions, we use the Secure Sockets Layer (SSL) protocol, which encrypts any information you send to us electronically. The encryption process protects your information, such as your credit card number, billing and shipping information by scrambling it before it is sent to us from your computer. Once the website receives your transmission, we make commercially reasonable efforts to ensure its security on our system. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while this website strives to protect your personal information, we cannot warrant the security of any information you transmit to us, and you do so at your own risk.
+For security of transactions, we use the Secure Sockets Layer (SSL) protocol, which encrypts any information you send to us electronically. The encryption process protects your information by scrambling it before it is sent to us from your computer. Once the website receives your transmission, we make commercially reasonable efforts to ensure its security on our system. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot warrant the security of any information you transmit to us, and you do so at your own risk.
 
 **Unlawful Activities**
 
-This website reserves the right to co-operate with local, provincial, national and international authorities in investigations of improper or unlawful activities and this may require the disclosure of personal information. We may also report to other organizations about improper or unlawful user activities on this website and this reporting may include disclosure of personal information relating to those individuals conducting such improper or unlawful activities.
+We may disclose personal information obtained through this website in order to co-operate with local, provincial, national and international authorities investigating improper or unlawful activities or to report improper or unlawful user activities on this website.
 
 **Cookies**
 
-Your web browser places cookie files on your computer’s hard drive. This website uses cookies to remember information you gave us so that you don’t have to re-enter the information each time you visit this website. Cookies also help us understand which areas of our site are popular by showing us how you and others use our site. For more information about cookies and why they are used, please refer to our [cookies page](http://www.hbc.com/GlobalNav/cookiesen.asp).
+Your web browser places cookie files on your computer’s hard drive. This website uses cookies to remember information you give us so that you don’t have to re-enter the information each time you visit this website. Cookies also help us understand which areas of our site are popular by showing us how you and others use our site, in aggregate. For more information about cookies, including how to refuse them, please refer to our [cookies page](http://www.hbc.com/GlobalNav/cookiesen.asp).
 
-**Web Beacons**
+**Web beacons**
 
-This website uses electronic images called Web beacons, which are single-pixel (1 x1) or clear GIF images placed in the web page code. Web beacons are used for many of the same purposes as cookies, allowing us to understand the effectiveness of our marketing efforts and our site usability. Web beacons collect non-personally identifiable information on user traffic patterns, which we then analyze to improve the overall user experience on our website.
+This website also uses web beacons for many of the same purposes as cookies. Web beacons collect non-personally identifiable information to let us know how our website is being used. We use this information to improve user experience on this website.
 
-**About Any Other Information you send to this Website**
+**Information you send to this Website**
 
-Apart from information relating to shopping orders or eNewsletters, we do not collect or wish to receive any information or other materials from you through this website that may be considered personal, confidential or proprietary. All information and materials received (other than information concerning shopping orders) will be considered to be non-confidential, and you will be deemed to have granted to this website an irrevocable license and consent to use, copy, display, and distribute such information and materials for any purpose whatsoever. This website will not use your name in connection with such information or materials without your prior consent.
+Apart from information relating to shopping orders, [HBC.com](http://www.hbc.com/) Membership or eNewsletters, we do not collect or wish to receive any information or other materials from you through this website that may be considered personal, confidential or proprietary. We will consider any such information and materials that you send to us to be non-confidential, and you will be deemed to have granted to Hudson’s Bay an irrevocable license and consent to use, copy, display, and distribute such information and materials for any purpose whatsoever.
 
-[back to top](http://www3.hbc.com/privacy/#top)
-
-### HBC Rewards Privacy Information
-
-**Use of your Personal Information**
-
-The information provided by you on your HBC Rewards application, and other information that may be provided by you from time to time, as well as information about your transactions and redemptions, and any information captured whenever you provide your HBC Rewards card number to HBC and/or HBC Rewards partners, is required by Hudson’s Bay Company, its subsidiaries and affiliates (“HBC”) to award and administer your HBC Rewards account and maintain the accuracy of your information.
-
-**Optional Use and Disclosure of Your Personal Information**
-
-Any of the affiliated companies comprising HBC or other organizations with which HBC has marketing arrangements may have access to such information and may use it for the additional purposes of offering or communicating with you about other products and services. These communications may include notifications of sales, special events, store promotions and exclusive offers. Your consent to the access to and use of your personal information for these additional purposes is optional and not required as a condition of obtaining or using the HBC Rewards card or collecting and redeeming HBC Rewards points. If you do not wish your information to be accessed or used for these additional purposes, please contact the **HBC Privacy Office** at **1-866-225-8251** , email us at [**privacy@hbc.com**](mailto:privacy@hbc.com) or write to **HBC Privacy Office, P.O. Box 4135, Station A, Toronto, Ontario, M5W 3B7**. You also have the right to request to review the personal information HBC has about you on file by contacting us, in writing, at the address above. For more information on HBC’s Privacy Policy, please contact the HBC Privacy Office.
+Date of last update: November 20, 2013
 
 [back to top](http://www3.hbc.com/privacy/#top)
-
-### HBC Credit Privacy Information
-
-The HBC Credit Card and the HBC MasterCard (as applicable, the “Card”) are provided and administered by Capital One Bank (Canada Branch) (“Capital One”) and endorsed by Hudson’s Bay Company, its subsidiaries and its affiliates (“HBC”). When you have an HBC Credit Card or HBC MasterCard, you have a relationship with both HBC and Capital One.
-
-When you apply for, obtain or use a Card, personal information about you (“Your Information”) is collected, used, disclosed and maintained by each of Capital One and HBC for certain purposes. You should refer to the Capital One Privacy Statement for information about Capital One’s practices regarding your personal information.
-
-HBC collects and uses Your Information to help ensure the accuracy of the information that HBC maintains in respect of its relationship with you. HBC may also share Your Information with Capital One in connection with the maintenance of your Card account. Where Your Information relates to your HBC Rewards account, HBC also collects and uses it to establish and administer your HBC Rewards account.
-
-### Optional Use and Disclosure of Your Personal Information
-
-HBC or other organizations with which HBC has marketing arrangements, including Capital One, may have access to Your Information and may use it for the additional purposes of offering or communicating with you about promotional offers or other products and services. These communications may include notifications of sales, special events, store promotions and exclusive offers. Such communications from HBC may be by telephone by way of an Automatic Dialing Announcing Device at the number indicated on your Card application. Your consent to the access to and use of Your Information for these additional marketing purposes is optional and not required as a condition of obtaining or using your Card. If you do not wish your information to be accessed or used for these additional purposes, please contact the **HBC Privacy Office** at **1-866-225-8251** , email us at [**privacy@hbc.com**](mailto:privacy@hbc.com) or write to **HBC Privacy Office, P.O. Box 4135, Station A, Toronto, Ontario, M5W 3B7**. You also have the right to request to review the personal information HBC has about you on file by contacting us, in writing, at the address above. For more information on HBC’s Privacy Policy, please contact the HBC Privacy Office.
-
-This Privacy Notice and HBC’s Privacy Policy may be amended or updated from time to time.
-
-[back to top](http://www3.hbc.com/privacy/#top)
-
-### Gift Registry Privacy Information
-
-**Use of your Personal Information**
-
-The information provided by you to create your gift registry is collected and used by Hudson’s Bay Company and/or its affiliate Zellers Inc. (collectively, “HBC”) to publish your name and event date so that purchases can be made from your registry, follow up on any service matters, advise you of any fulfillment and delivery matters, allow you to add or delete items from your registry, manage the completion of your registry and maintain the accuracy of your information.
-
-**Optional Use and Disclosure of Your Personal Information**
-
-HBC may wish to use the personal information you provided and the information collected to create your gift registry to offer or communicate with you about additional products and services provided by HBC and other organizations with which HBC has marketing arrangements. These communications may include notifications of sales, special events, store promotions and exclusive offers. Your consent to the use of your personal information for these additional purposes is optional and not required as a condition of creating a gift registry. If you do not wish HBC to use this information for these additional purposes, please contact the HBC Privacy Office. You also have the right to request to review the personal information HBC has about you on file by contacting us, in writing, at the address above. For more information on HBC’s Privacy Policy, please contact the HBC Privacy Office.
-
-[back to top](http://www3.hbc.com/privacy/#top)
-
-### Major Home Fashions Privacy Information
-
-**Use of your Personal Information**
-
-The information provided by you to complete your sales receipt when you purchase major home fashions, eg. appliances, is collected and used by Hudson’s Bay Company and its subsidiaries or affiliates (“HBC”) and/or its service providers to ensure proper delivery of your purchase, follow up on any service matters, assist you with any manufacturer warranty claims, process extended warranty renewals and maintain the accuracy of your information.
-
-**Optional Use and Disclosure of Your Personal Information**
-
-HBC may wish to use the personal information you provided and information resulting from your purchases to offer or communicate with you about additional products and services provided by HBC and other organizations with which HBC has marketing arrangements. These communications may include notifications of sales, special events, store promotions and exclusive offers. Your consent to the use of your personal information for these additional purposes is optional and not required as a condition of completing your purchase transaction. If you do not wish HBC to use this information for these additional purposes, please contact the HBC Privacy Office. You also have the right to request to review the personal information HBC has about you on file by contacting us, in writing, at the address above. For more information on HBC’s Privacy Policy, please contact the HBC Privacy Office.
-
-[back to top](http://www3.hbc.com/privacy/#top)
-
-### Clientelling Privacy Information
-
-**Use of your Personal Information**
-
-The information provided by you to join our clientelling list is collected by Hudson’s Bay Company, its subsidiaries and affiliates (“HBC”) to administer our clientelling program and to maintain the accuracy of your information. If you wish to have your name removed from our clientelling list, please contact a sales manager at the store where you provided the information. If you wish to obtain more information on HBC’s Privacy Policy, please contact the HBC Privacy Office. You also have the right to request to review the personal information HBC has about you on file by contacting us, in writing, at the address above.
-
-[back to top](http://www3.hbc.com/privacy/#top)
-
-### HBC Insurance Privacy Information
-
-HBC avantem insurance agency Inc. is a subsidiary of HBC. It operates as “HBC Insurance” and “HBC Insurance Agency” (“we”, “our”, “us”). We promote and distribute a unique variety of insurance (and related) products, underwritten by some of Canada’s leading insurance companies and other service providers. In doing this we need to collect, use, retain and sometimes disclose personal information. When we do collect, use, retain and disclose personal information, we are guided by the general privacy principles set out in HBC’s Protection of Personal Information Principles and the specific personal information practices set out below.
-
-**Use of your Personal Information**
-
-The information provided by you to process requests for an insurance premium quote and/or to complete any applications for insurance, and other information which may be provided by you from time to time, is required by Hudson’s Bay Company to provide and administer requested products and services or to provide requested information.
-
-When an individual requests an insurance quote, inquires about insurance products (or related services), applies for coverage or becomes a policyholder, such individual is consenting to the collection, use, retention, and, if necessary, the disclosure of personal information. An individual is always free to decline or opt-out of this type of collection, use, retention and disclosure or personal information, but in that event, we will be unable to provide the requested services.
-
-**Optional Use and Disclosure of your Personal Information**
-
-When you request a quote, inquire about insurance or related products, apply for coverage or become a policy holder through us, you become a customer of HBC Insurance Agency. We may wish to use the personal information you provided to offer or communicate with you about upgraded and additional insurance and related products offered by us, our affiliates or other organizations with which we have marketing arrangements. These communications may include notifications of insurance (and related) products like auto, property, life and health insurance or other products which may be of interest to you. The information we disclose for such marketing purposes is limited to contact information and details of plan participation. It would not include health or lifestyle information, which would only be given to an insurance company in connection with an application for insurance. Your consent to use of your personal information for these additional marketing purposes is optional and is not required as a condition of obtaining an insurance premium quote, receiving information about insurance (and related) products, applying for insurance coverage or becoming a policyholder.
-
-If you do not wish your information to be accessed or used for these additional purposes, please contact the **HBC Insurance Agency Privacy Office** at **1-866-225-8251** , email us at **privacy@hbc.com** or write to **HBC Insurance Agency Privacy Office, c/o HBC Privacy Office, P.O. Box 4135, Station A, Toronto, Ontario M5W 3B7**. You also have the right to request to review the personal information HBC has about you on file by contacting us, in writing, at the above address.
-
-For more information on HBC’s Privacy Policy, please contact the HBC Privacy Office.
-
-[back to top](http://www3.hbc.com/privacy/#top)
-
-2011 Capital One. Capital One is a registered trademark. All trademarks used herein are owned by the respective entities. All rights reserved.
