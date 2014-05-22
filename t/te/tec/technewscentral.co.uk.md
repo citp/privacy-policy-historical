@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the technewscentral.co.uk privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222040423id_/http%3A//www.technewscentral.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technewscentral.co.uk privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522210848id_/http%3A//www.technewscentral.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TNC
-
-[Home](http://www.technewscentral.co.uk/) Privacy Policy
 
 This Privacy Policy governs the manner in which Tech News Central collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.technewscentral.co/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Tech News Central.
 
