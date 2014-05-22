@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the webvanta.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120195439id_/http%3A//www.webvanta.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webvanta.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522123137id_/http%3A//www.webvanta.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-**Last updated: 2008-09-07**
+## Website Privacy Statement
+
+**Last updated: 2014-01-10**
 
 ## 1\. Acknowledgement And Acceptance Of Terms
 
