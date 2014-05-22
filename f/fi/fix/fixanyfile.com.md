@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fixanyfile.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107040357id_/http%3A//www.fixanyfile.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fixanyfile.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523010350id_/http%3A//www.fixanyfile.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,10 +43,10 @@ FixAnyFile.com may occasionally update this Privacy Policy. Any changes will be 
 
 **6\. CONTACT INFORMATION**
 
-For questions regarding this Privacy Policy please [contact us](https://web.archive.org/web/20131107040357id_/http%3A//www.fixanyfile.com/contact.php).
+For questions regarding this Privacy Policy please [contact us](https://web.archive.org/web/20140523010350id_/http%3A//www.fixanyfile.com/contact.php).
 
 **7\. OPT OUT INSTRUCTIONS**
 
-To opt out of any communications from this website, please send an email through our [contact form](https://web.archive.org/web/20131107040357id_/http%3A//www.fixanyfile.com/contact.php).
+To opt out of any communications from this website, please send an email through our [contact form](https://web.archive.org/web/20140523010350id_/http%3A//www.fixanyfile.com/contact.php).
 
 Copyright © FixAnyFile.com. All Rights Reserved.
