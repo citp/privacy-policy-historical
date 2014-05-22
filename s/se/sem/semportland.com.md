@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the semportland.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120224515id_/http%3A//www.sempdx.org/about_sempdx/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semportland.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522145228id_/http%3A//www.sempdx.org/about_sempdx/privacy_policy) for the most accurate reproduction.*
 
 # SEMpdx: Privacy Policy
 
