@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the localizermethod.com privacy policy that was archived on 2012-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120226154103id_/http%3A//localizermethod.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localizermethod.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522200312id_/http%3A//localincomesystem.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy « LocalizerMethod.com
+# Privacy Policy | Local Income System
 
-(Last Revised: 12/28/10)
+(Last Revised: 2/28/12)
 
 Thank you for visiting this web site. We understand the importance that Internet users place on privacy, and this Privacy Policy describes how we use personal information that is collected at this web site. Please read this Privacy Policy before using this site or submitting any personal information. By using this web site, you accept the privacy practices contained in this Privacy Policy. These privacy practices may change from time to time, but any changes will be posted. You are encouraged to review the Privacy Policy whenever you visit the web site to make sure you understand how any personal information you provide will be used.
 
@@ -36,6 +36,8 @@ All information collected from you is stored in a technically and physically sec
 
 ## Contacting Us
 
-If you need to contact us, you can use the form below:
+If you need to contact us, you can use our support ticket system below:
 
-We strive to provide excellent products, along with equally excellent customer service. If you have any questions about this Privacy Policy or our practices, please feel free to contact us using one of the methods listed above.
+https://vipersupport.zendesk.com/
+
+We strive to provide excellent products, along with equally excellent customer service. If you have any questions about this Privacy Policy or our practices, please feel free to contact us.
