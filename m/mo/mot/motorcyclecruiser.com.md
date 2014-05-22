@@ -1,180 +1,122 @@
-> *The following text is extracted and transformed from the motorcyclecruiser.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429175205id_/http%3A//media.primediamags.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorcyclecruiser.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522233705id_/http%3A//www.motorcyclecruiser.com/privacy-policy) for the most accurate reproduction.*
 
-# Primedia Consumer Privacy Policy
+# Privacy Policy | Motorcycle Cruiser
 
-Primedia and its family of consumer publications are strongly committed to protecting your privacy and providing a safe online experience for all of our users and subscribers while offering the highest quality publications and services to them. Because we gather certain types of information about and from users and subscribers so that we can fulfill your requests and better serve your needs, we feel you should fully understand the terms and conditions surrounding the collection and use of this information. This privacy statement discloses what information we gather, how we use it, how to correct or change it, and what steps we take to safeguard personal information provided to us both online and offline. Please note that some of our websites are subject to separate privacy policies. We encourage you to always check the privacy policy on each website you visit to be sure you understand the privacy policy governing that site, since use of this site constitutes agreement with these terms. We urge you to read the complete Online Privacy Policy below, as well as our Terms and Conditions of Use, and contact us if you have any questions, but offer this short summary to highlight key points. 
+**Bonnier Corporation Privacy Policy**
 
-**What Information Do We Collect About You?  
-__**
+_This policy was last updated on October 11, 2011._
 
-**_
-  * Personal Information
-  * Subscriptions and Orders
-  * Information Collected Automatically
-  * Other Information
-_**
-**__ **
+At Bonnier Corporation, your privacy is important to us.  This Privacy Policy applies to all of the products, services, and websites offered by Bonnier Corporation and its subsidiaries or affiliated companies (collectively, "Bonnier").
 
-**What Do We Do with Information We Collect?**
+To better protect your privacy, we provide this notice explaining our privacy practices and the choices you can make about the way your information is collected and used by Bonnier.
 
-**How Do We Share Personal Information?**
+Bonnier adheres to the U.S. Department of Commerce Safe Harbor framework and the privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement.  For more information on the framework, please visit the [Safe Harbor website](http://www.export.gov/safeharbor/eu/eg_main_018476.asp).
 
-  * _Primedia and Its Agents_
-  * _Participating Vendors_
-  * _Credit Card Companies_
-  * _Advertisers, Sponsors and Promotional and Business Partners_
-  * _Important Note_
+**Note: For questions related to your magazine subscription, please visit our** **Customer Service web site** **or email** ** @emailcustomerservice.com** **.**
 
-**How Do We Use Cookies?**  
-**How Do We Use Web Beacons?**  
-**What About Third Party Advertisers?**  
-**How Can You Control Your Personal Information?**  
-**Security of Your Personal Information**  
-**Children's Privacy**  
-**Links**  
-**Changes in Corporate Structure**  
-**Visitors Outside the United States**  
-**Changes to Our Privacy Policy**  
-**Contact Information**
+If you have any questions about this Privacy Policy, please write to us [via e-mail](mailto:privacy@bonniercorp.com) at privacy@bonniercorp.com, or via postal mail at: 
 
-**WHAT INFORMATION DO WE COLLECT ABOUT YOU?**
+Privacy Department  
+Bonnier Corporation  
+460 N. Orlando Avenue, Suite 200  
+Winter Park, FL 32789
 
-You can visit our websites, read articles and other materials, and check on offerings without giving us any personally identifiable information. So that we can provide our users and subscribers with the most efficient and enhanced, personalized service, we request information about you in certain circumstances, and collect certain information automatically. We also use contact lists and other information we may obtain from third parties. For the convenience of our customers and to better serve you, a customer account includes all the collected personal information we may have, but you can update or correct your contact information or change your preferences about receiving offers and information from us or third parties at any time. All information we have about you will be available to all of our brands and affiliates at Primedia. 
+**An overview of the information that Bonnier may collect**
 
-_**Personal Information**_
+You are able to take advantage of many Bonnier products, services, and websites without providing any information that personally identifies you.  We only collect personally-identifying information when you voluntarily submit it to us.
 
-We collect personally identifiable information, such as names, mailing addresses, and/or e-mail addresses, when you subscribe to one of our magazines, place an order (see the section below for more information on subscriptions and orders), or register at one of our web sites. Website visitors may register to receive one of our e-mail updates, respond to a survey, or enter online contests and sweepstakes; we may offer offline contests and sweepstakes as well. Registration may be required to participate in message boards, bulletin boards, or chat rooms at our websites or to take advantage of special offers.   
-Sometimes registration can be accomplished by submitting only a user name and password. Other types of offerings require submission of additional information. The information we collect may include your e-mail address, name, address, phone number, age, gender, hobbies, family information, and similar demographic information or information related to your interests. For example, our automotive publications and websites may ask about the type of car you drive. Some of our sites may offer you the opportunity to receive offers directly from third parties, or to match you directly with a trusted fulfillment partner, such as an automobile dealer or bank. In the latter case, in addition to contact information and other details, we will ask you to provide a social security number and certain financial and credit-related information to facilitate a response from our fulfillment partners. Registration forms will indicate what information is required and what information (if any) is optional.   
+Sometimes, we need personally-identifying information in order to provide you with the products and services that you request.  Depending upon the product or service, we may ask you for a variety of personally-identifying information.  This might include, for example, your name, address, e-mail address, telephone number, gender, and birth date.  We may also ask for other information about you, such as your credit card information (when you are making a purchase), interests, income, or education level.  We consider certain identifying information "sensitive."  This includes your credit card number, income level, or any other information that would normally be considered confidential.
 
+You may choose not to provide us with any personally-identifying information.  In that case, you can still access and use many portions of our websites; however, you will not be able to access and use those portions of any Bonnier website that require your personal information.   
 
-**_Subscriptions and Orders_**
+Many Bonnier websites include community features, such as online forums and message boards.  Information that is posted in these areas becomes public information and the use that any third party makes of this information is beyond our ability to control.  You should exercise caution before disclosing any personally-identifying information in these public venues.  If you elect to submit content that includes information that can be used to identify you, you must assume that the content can and will be displayed on any website on the Internet.
 
-If you wish to subscribe to one of our publications or place an order for products or services online, you must generally establish a credit card account with us or our vendors. In addition to the customary information needed to fill your order (full name, email address, physical address, ship-to name and address, gift information, etc.), subscriptions and orders necessitate collection of your credit card number and credit card expiration date. Electronic order acknowledgments are sent when an subscription or order is placed online. Most of our websites allow visitors to subscribe to our publications online, and some sites also offer areas where you may purchase items online. We may offer online and offline subscribers a "bill me" option if they do not wish to use a credit card, but visitors should check online stores to see if other payment options are permitted for online store purchases apart from credit cards.   
+At some Bonnier sites and through certain promotions, you can submit personally-identifying information about other people.  For example, you might submit a person's name and e-mail address to send an electronic greeting card; or, if you order a gift online or offline and want it sent directly to the recipient, you might submit the recipient's name and address.  Some Bonnier websites also provide referral services to help you inform a friend about our websites, products, or services.  The types of personally-identifying information that we collect about other people at pages like these may include the person's name, address, e-mail address, or telephone number.  We will only ask you for the information about your friend that we need in order to do what you request.
 
+In some circumstances, we also collect non-personally-identifying information.  When you visit a Bonnier website, we may collect information such as the type of browser you use, your operating system, your IP address, and the domain name of your Internet Service Provider.  This information, by itself, does not permit individual identification, meaning that you will remain anonymous.  However, if you elect to provide us with personally-identifying information during your visit, that information may be linked to your IP address.
 
-**_Information Collected Automatically_**
+When you visit our websites, we may send one or more cookies - small, removable data files - to your computer.  We use cookies to uniquely identify your browser, which allows us to enhance and personalize your online experience at Bonnier websites.  For example, cookies allow us to recognize you when you return to a website and present relevant content to you when you visit.  Most browsers are initially set up to accept cookies, but you can configure your browser to warn you when cookies are sent, or to refuse all cookies.  Some of the features and services of Bonnier websites may not operate properly if your cookies are disabled.  Cookies, by themselves, do not provide us with any personally-identifying information.
 
-Our websites automatically collect certain information, such as your IP address, browser type, domain name, access times and referring website address. This helps facilitate your online experience at our websites. In addition, we use cookies to track usage patterns at our site and to control the display of ads, as well as to offer other functionalities (such as screening for age, helping to track items in your shopping basket at sites which offer online shopping opportunities, and "recognizing" you to speed up your log-in when you visit our sites). See below for more detail on cookies.
+On our websites, we may also use tiny graphic images called pixel tags, web beacons, or clear gifs.  These tiny images help us to analyze our users' online behavior and collect other data, such as page views or advertising responses.  Pixel tags also allow us to send you e-mail in a format that you can read, and let us know when you have opened an e-mail message from us.  Pixel tags may also be used to deliver cookies.  Some of our websites also use third-party advertising companies to serve ads when you visit. These companies may use non-personally-identifying information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-_**Other Information**_
+We work with reputable third parties that provide data tracking and collection technologies in order to:
 
-We conduct market research in an effort to continually improve our publications and websites and may purchase lists of potential subscribers or customers from third parties. Those lists may include information on current subscribers or customers. This information is included in our database. That helps us, for example, minimize multiple mailings and e-mailings, and provide information tailored to your interests.  
+-         Present or serve the advertisements you may see at Bonnier websites;
 
+-         Deliver and track e-mail communications;
 
-**WHAT DO WE DO WITH COLLECTED INFORMATION?**
+-         Process purchase orders through e-commerce transactions;
 
-We use information you provide to fulfill your requests, improve our publications, products and services, and operate our business. For example, we use personal information so that we may display or send custom, personalized content to our website visitors and to send newsletters, mail, e-mails, features, promotional material, surveys and other updates, information or offers to our users and subscribers. A user may, at any time, opt out of receiving promotional offers by mail, telephone or e-mail. We also use collected information to evaluate and administer our products and services, fulfill customer requests, like subscription and other orders, respond to any problems that may arise, such as magazine delivery failures, difficulties in navigating our sites or accessing certain features, as well as to gauge user trends to determine what products and services are most popular with users, and to put you in touch with trusted fulfillment partners who can provide services that we cannot.   
-We allow users of our website to send articles or links by email to other parties who may be interested in them. We do not retain any email addresses (unless you are a member who already has voluntarily provided your email address) of either the sender or recipient of such articles or links after they are sent, and do not share "send a friend" e-mail addresses with third parties.   
-Of course, we use personal information to allow you to subscribe online or to make product purchases at certain of our websites. Rest assured that we and our technical and fulfillment agents and consultants follow careful procedures to safeguard credit card data in connection with your transactions.  
-We may produce reports for advertisers, sponsors and vendors containing anonymous, aggregate information about our users and subscribers, such as demographic, age and online usage information. This allows us to provide content and offers that are most relevant to our subscribers and users and to work more closely with advertisers.  
+-         Fulfill print and digital subscription orders; and
 
+-         Provide marketing leads to third-party organizations (where you have agreed to allow us to do so).
 
-**HOW DO WE SHARE PERSONAL INFORMATION?**
+These companies may collect information about you on our behalf.  We require that these parties agree to process any such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.  
 
-Personal information is available to Primedia, including its brands and affiliates, and its or their technical and fulfillment agents and consultants who make this site and our publications, products and services available to you. Anonymous information is available to our advertisers, sponsors and promotional and business partners. We share your personal information with third parties only as described below.  
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third-party web beacon to collect this informatione To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
 
+Bonnier websites sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties.  By virtue of their sponsorship, these third parties may obtain personally-identifying information that visitors voluntarily submit to them in order to participate in the contest, sweepstakes, or promotion.  Bonnier has no control over the third-party sponsors' use of this information.  If a third-party sponsor beyond our control will obtain information that you supply us, we will notify you at the time we collect the information from you.  For certain promotions, only those who provide us with the requested personally-identifying information will be able to order products, programs, and services, or otherwise participate in the promotion's activities and offerings.
 
-_**Primedia and Its Agents**_. Primedia may access both anonymous, aggregate demographic data and any personal information you provide for internal marketing or other business purposes, including sending you notices of subscription renewal deadlines, new publications, services or products we offer likely to be of interest, and filling subscription and other orders. To facilitate subscriptions and orders, Primedia will cache your order information, and create an authorization with a merchant account (i.e., your credit card company). There are many companies who may be required to assist Primedia in making its publications, products and web sites available to you. Web host firms, technical and database consultants, advertising agencies, and fulfillment firms, including firms assisting us in offering contests and promotions, may have access to personally identifiable information in the course of making our products and services available. All companies working for Primedia must comply with our information collection, use and disclosure policies, and are not permitted to sell your information to third parties or to use it except as authorized by us and you, or as permitted or required by law.   
+Some of our websites contain links to other sites.  By clicking on these links, you will leave the website operated by Bonnier and this Privacy Policy will no longer apply.  These other sites' information practices may be different than ours.  You should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.
 
+**How we use the information we collect**
 
-_**Participating Vendors**_. Some of our sites offer opportunities to make purchases online from special participating vendors. On sites with online purchase opportunities for products and merchandise, we will also give participating manufacturers, retailers, wholesalers or distributors the order information and authorization for the merchant bank. Any time you order from a participating vendor, that vendor will automatically have all the information related to the order. Participating vendors may use that information to advise you directly of other products and offerings that they provide. Primedia is not responsible for their privacy policies, and urges you to inquire about their information practices. In addition, all vendors will receive the same anonymous, aggregate data that our advertisers do.  
+We use the personally-identifying information that you provide us to fulfill your requests for our products, programs, and services, to respond to your inquiries about offerings, and to offer you other products, programs, or services that we believe may be of interest to you.  We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests, when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us. 
 
+We may syndicate the publicly available content of our community areas to unaffiliated third-party websites, using RSS or other technologies. The information you have shared in the community areas may be included in this syndication.
 
-_**Credit Card Companies**_. As in any transaction, your credit card company will have all relevant information about the name of the vendor, item(s) purchased, and date and total cost. Primedia will not otherwise provide any personal data to your credit card company.   
+We will use the personally-identifying information that you provide about others in order to provide the products or services that you have requested; for example, to enable us to send them your gifts or cards.  If you provide us someone else's personally-identifying information for referral purposes, we may use that information to invite them to visit our websites or to provide them information about our products or services.
 
+If you provide us with your e-mail and/or postal address, we may include that address in e-mail and/or postal address lists that we sell, trade, or rent to third parties.  These lists will never contain sensitive information. If you do not wish for your e-mail or postal address to be shared with companies not owned by Bonnier who want to market products or services to you, you have the opportunity to opt out, as described below.  You may also opt out of the receipt of any marketing materials from Bonnier as detailed below.
 
-_**Advertisers, Sponsors and Promotional and Business Partners**_. We share anonymous, aggregate demographic information (such as gender, age, income, hobbies, interests, etc.), and anonymous information obtained from cookies and similar technologies, with our advertisers, sponsors, promotional and business partners, and with participating vendors at sites offering online sales opportunities. No personally identifiable information is disclosed to any of these third parties in providing these reports. Credit card numbers, bank account numbers, and passwords are not shared with advertisers, sponsors or promotional partners, and are only shared with specific vendors with whom you place an online order.  
+We may transfer your sensitive personally-identifying information to other Bonnier offices for internal management and administrative purposes.  In addition, your personal data will be transferred to other Bonnier offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit.  Transfers of personally-identifying information may also be made where necessary for the establishment, exercise, or defense of legal claims.
 
+Bonnier will only share your sensitive personal information with outside companies or individuals in any of the following limited circumstances:
 
-Offline and online contact information is handled differently. As is customary in the publications business, offline contact information is shared with third parties who may send you offers or information about their products or services. **You must opt-out if you do not wish to receive information from us or third parties by mail.**  
+-         When we use trusted businesses or persons to process personal information on our behalf.  Before sharing any personal information with outside parties, we require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
 
+-         When we have a good faith belief that access, use, preservation, or disclosure is necessary to (a) comply with applicable law, regulation, or legal process; (b) enforce the applicable Terms of Service or other agreements and policies on the Company's Websites; (c) detect, prevent, or otherwise address fraud, security, or technical issues; or (d) protect against imminent harm to the rights, property, or safety or Bonnier, its users, or the public as required or permitted by law.
 
-We may extend e-mail offers to you on behalf of our business partners about their products or services, but only if you have indicated that you would like to receive such offers. Although Primedia may receive a fee from our business partners for this service, Primedia sends those offers on behalf of the business partner, and does not share your e-mail address with them. Of course, you may opt out of receiving those offers at any time.   
+-         When you consent.  Before we share your sensitive personal information outside of the previously listed circumstances, we will ask you for permission first.  Please note that this only applies to sensitive information, as defined above.
 
+We may also use, transfer, sell, and share aggregated, anonymous data about our users for any legal purpose, such as analyzing usage trends and seeking compatible advertisers and partners.  In no event will this aggregated data contain any information that could be used to identify individual users of our products or services.
 
-At our websites, visitors will also have opportunities to sign up directly with certain advertisers and sponsors to enter contests or sweepstakes, receive e-mail updates, or to receive information directly from them. Third party vendors and advertisers will also use technical and other consultants. We urge visitors to carefully review the privacy policies of these firms. Primedia is not responsible for the privacy policies and procedures of any third party.  
+**How we protect the safety and integrity of the information we collect**
 
+We take appropriate physical, electronic, and procedural measures to safeguard and protect your personal information.  We use a variety of security measures, including encryption and authentication, to maintain the confidentiality of your personal information.  We store your personal information on systems behind firewalls that are only accessible to a limited number of persons, each of whom is required to keep the information confidential.  We also take appropriate measures to secure the transmission of sensitive personal information from your computer to the Company's computers.  When you transmit sensitive personal information to us, like credit card information, we offer the use of a secure connection to our servers.  To the extent you select the secure connection method or your browser supports such functionality, all credit card account information that you supply is transmitted via Secure Socket Layer (SSL) technology.  Regardless of these measures, no system connected to the Internet or data transmission sent over the Internet can be guaranteed to be 100% secure.  We will provide notice if we become aware of any security breach that may affect any sensitive personal information pertaining to you that we have stored on our systems.
 
-**_Trusted Fulfillment Partners_**. Sometimes we will give you the opportunity to opt in to receive e-mail offers directly from third parties not affiliated with Primedia. If you decide to accept these offers, we will provide your contact information to the third party. In addition, some of our sites are intended to facilitate transactions between you and a third party, such as an automobile dealer or bank. To do so, we collect and share additional personal information, like credit information or Social Security numbers, so they can provide the product or service you request. For example, should you request a loan quote or place an order, your personal information will be distributed to trusted fulfillment partners so they can process your order, check and approve your credit application or loan request, respond to requests for information, or provide further information about products and services that they believe will meet your continuing needs. As our trusted fulfillment partners may keep and use your information whether or not you purchase their products or use their services, your personal information will be subject to their privacy policies, and you should contact them directly for more information about their specific privacy and opt-out policies.   
+Bonnier employees, agents, and contractors who have access to personally-identifying information are required to protect this information in a manner that is consistent with this Privacy Policy and may not use the information for any purpose other than to carry out the services they are performing for Bonnier.  These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
+Bonnier only collects personal information that is relevant to the purposes for which it will be used.  Though we do take appropriate steps to review and update the information that we store to ensure that it is accurate, complete, and current, we also depend on you to update or correct your personal information when necessary. 
 
-_**Public Postings**_. You should be aware that if you voluntarily disclose information, personal or otherwise, online in any community area (whether through Primedia's websites or any other service available online), that information can be collected and used by others. For example, if you use chat, forums, bulletin boards or message boards, or if you post personal information online (such as your e-mail address, photograph, etc.), you may receive unsolicited messages from others. Primedia has no control over this use of your personal information.   
+You may correct or delete any or all of the personal information you have provided to us at any time.  Many of our websites provide means to review and update the personal information that you have provided on that website.  To inquire about personally identifiable information that Bonnier has collected about you, or about other ways to correct factual errors in that information, please [e-mail us](mailto:privacy@bonniercorp.com) at privacy@bonniercorp.com. (Note: Do not use this email address to send questions about your subscription. Rather, send your subscription-related inquiries to **[@emailcustomerservice.com](mailto:%3C?php%20print%20$pp_email;%20?%3E@emailcustomerservice.com)**.) To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.  We will decline to process requests where we cannot verify the identity of the requester.  We may also decline to process requests that are automated, repetitive, systematic, or impractical, or that might jeopardize the privacy of others.
 
+In some limited circumstances, such as to resolve disputes, troubleshoot problems, and enforce our policies, we may retain some of information that you have requested us to remove.  Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests. 
 
-_**Important Note**_
+We only use the information we collect for purposes consistent with this policy.  If we propose to use your personal information for purposes beyond that explained in this policy, we will provide appropriate notice before doing so and we will provide you with the means to opt out of those uses.  We will not use your sensitive personal information for any purposes other than those described in this Policy unless we have obtained your consent.
 
-We reserve the right to use or disclose any information without notice or consent as needed to satisfy any law, regulation or legal request; to conduct investigations of consumer complaints or possible breaches of law; to protect the integrity of our site and our property and assure adherence to our terms of use; to protect the safety of our visitors or others; to fulfill your requests; or to cooperate in any legal investigation or process. 
+**Your privacy options**
 
-**HOW DO WE USE COOKIES?**
+**If you prefer not to receive email communications from other companies** , you may choose to remove yourself from any lists that we provide to third parties for marketing purposes by [emailing us](mailto:emailoptout@bonniercorp.com?subject=Third-Party%20Opt%20Out) at emailoptout@bonniercorp.com.  You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
 
-Your Web browser offers so-called "cookies" which, if you allow their use, store small amounts of data on your computer when you visit a website. Cookies do not contain any personally identifiable information about you and therefore cannot be used to identify you personally. Cookies assist us in tracking which of our features you like best. Cookies also enable us to customize our content according to your preferences. You have the ability to accept or decline cookies by modifying your browser and our websites are viewable even if you disable the cookie function on your browser. However, if you disable cookies, some advanced and customized features or offerings will not be available to you. Our third party advertisers may also use cookies.   
+If you prefer not to receive postal communication from other companies, you may choose to remove yourself from any postal mailing lists that we provide to third parties for marketing purposes by sending us an e-mail at [emailoptout@bonniercorp.com](mailto:emailoptout@bonniercorp.com), or writing us at P.O. Box 420235, Palm Coast, FL. You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
 
+We only want to communicate with you if you want to hear from us.  **If you prefer not to be contacted at all** , you may opt out of receiving any communications from us at any time by [notifying us](mailto:emailoptout@bonniercorp.com?subject=Opt%20Out%20of%20All%20Communications) at emailoptout@bonniercorp.com.  You may also notify us by sending mail to the following address:
 
-**HOW DO WE USE WEB BEACONS?**
+Online Marketing Department  
+Bonnier Corporation  
+460 North Orlando Avenue, Suite 200  
+Winter Park, FL  32789
 
-Some of our Web pages may contain electronic images known as Web beacons, which are also called single-pixel gifs. These images allow us to count users who have visited those pages and to deliver co-branded services. We also may include Web beacons in promotional e-mail messages or newsletters in order to count how many messages have been opened and acted upon. Web beacons are not used to access your personally identifiable information but they are a technique we use to compile aggregated statistics about our website usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. Some of our Web pages may also contain Web beacons placed there by our advertising partners to help us determine the effectiveness of our advertising campaigns. 
+In all requests, please tell us what communications you would like to opt out of, what means we have been using to contact you (such as your e-mail or postal address), the date of your request, and a way to contact you in case we need to personally contact you in an effort to comply with your request.  We reserve the right to send you certain communications, such as technical alerts, without offering you the opportunity to opt out of receiving them.
 
-**WHAT ABOUT THIRD PARTY ADVERTISERS?**
+**Enforcement and Compliance with this Privacy Policy**
 
-Some of the banner ads displayed in our websites are provided by outside companies. These ads contain cookies and may also contain Web beacons. Unlike cookies and Web beacons used by Primedia in content it controls at its Web sites, cookies or Web beacons received with banner ads are collected by our advertisers and we do not have access to this information. We use reputable third parties to serve some or all of the advertisements that are placed within our sites and they may use information (not including personally identifiable information) about your visits to our sites and other sites to assist in serving advertisements to you. They may share anonymous information with their clients such as date/time of the banner ad shown, the specific ad shown, the IP address, etc. DoubleClick is our third party ad server. If you would like to know more about their information gathering practices and "opt-out" procedures, please see <http://www.doubleclick.com/us/corporate/privacy>.
+We take our Privacy Policy seriously and we regularly review our own compliance with this Policy.  If you have any questions or concerns about this Policy, or if you think that we have used your personal information in a manner inconsistent with this Policy, please contact us at: 
 
-**HOW CAN YOU CONTROL YOUR PERSONAL INFORMATION?**
+Privacy Department  
+Bonnier Corporation  
+460 North Orlando Ave., Suite 200  
+Winter Park, FL 32789
 
-We believe that choice in how and when you are contacted is key to customer satisfaction, so we offer several ways for you to update your contact information or change your preferences.
-
-1\. If you have an online account at one of our websites, you may be able to log on and update or change your contact or account information. Check the site for further information.   
-2\. If you are a subscriber to one of our magazines, you may be able to log on and update or change your contact or account information by contacting us at <https://store.primediamags.com/service>.  
-3\. You may unsubscribe to any of our online e-mail updates by following the unsubscribe instructions in the body of any message.  
-4\. You may write to us and update your contact information or ask that we not share your personal contact information with third parties at: Primedia Magazines, Inc., c/o Privacy Coordinator, 200 Madison Avenue, New York, NY 10016. In those instances, we will retain your information in a "do not promote" file in our database.   
-5\. You may also contact us at [privacypolicy@primedia.com](mailto:privacypolicy@primedia.com).  
-
-
-We will take commercially reasonable steps to implement your opt-out requests promptly, but you may still receive promotional information from us by mail for up to 60 days due to printing and mailing schedules, and up to 10 days for e-mail. 
-
-**SECURITY OF YOUR PERSONAL INFORMATION**
-
-We use Secure Sockets Layer (SSL) technology to encrypt important information, such as your credit card data, in an effort to prevent unauthorized access during transmission of your orders over the Internet. We incorporate standard industry practices internally and with our service providers suitable to the degree of sensitivity of the information involved to maintain the security of your personal information and to avoid its disclosure except as described in this policy. We take special precautions to safeguard your credit card data in our system.  
-Your personal information may also be protected by the password you created when you registered at one of our websites where this feature is offered. The confidentiality of any password is yours to protect. You may change it anytime by following the instructions at the website where you registered.   
-Although we use our best efforts to assure that your data remains secure when maintained by us, security during Internet transmissions or within any system cannot be assured. Primedia employees are made aware of its privacy practices through periodic communications and training. We limit access to personal data only to those Primedia employees or agents with a specific need to access or retrieve this information. We store data on multiple service systems, in controlled, secure environments. To maintain the highest level of security, we conduct internal reviews of our security measures on a regular basis. Remember, however, that any personal information you post in chat rooms or message boards is available to anyone. We ask our agents, promotional and business partners, and trusted fulfillment partners to provide assurances of reasonable security, but are not responsible for the privacy or security practices of any third party.  
-
-
-**CHILDREN'S PRIVACY**
-
-Most of our publications and web sites are intended for adults. Some web sites and publications, however, are intended for teens 13 and older but may include features or material that may be appealing to children under the age of 13. Primedia is strongly committed to protecting the safety and privacy of children who visit our Web sites. We do not knowingly collect personal information online from children under 13 and have adopted techniques to age-screen users on our teen-oriented sites to ensure compliance with this Privacy Policy and the Children's Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying regulations establish United States federal law that protects the privacy of children using the Internet. Many of our sites include chat rooms, bulletin boards and other features that we believe are unsuitable for children under 13 and which are not necessarily monitored. We encourage all parents to talk to their kids about online safety and to monitor their children's use of the Internet.   
-
-
-**LINKS**
-
-Primedia may offer links to or from Web sites it controls to other sites within the Primedia family as well as to sites operated by third parties. We offer links to third party sites so that you can conveniently visit our vendors and advertisers or locate other content likely to be of interest. We are not responsible for the content, practices or policies of sites operated by third parties and urge you to inquire about them before providing any personally-identifiable information.
-
-**CHANGES IN CORPORATE STRUCTURE**
-
-In developing our business, we might sell certain assets, or the company, or parts of it, may be sold, merged or otherwise transferred. In such transactions, user information, whether personally identifiable or otherwise, may be one of the transferred assets. 
-
-**YOUR CALIFORNIA PRIVACY RIGHTS**
-
-Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to [yourcaliforniaprivacyrights@primedia.com](mailto:yourcaliforniaprivacyrights@primedia.com) and please include the phrase "California Privacy Request" in the subject line, and provide us with your name, address and email address. We will respond to you within thirty days of receiving such a request.   
-**VISITORS AND SUBSCRIBERS OUTSIDE THE UNITED STATES**
-
-Our websites and the servers that make these sites available worldwide are located in the United States. All matters relating to these sites are governed by the laws of the State of New York in the United States. Any information you provide in subscribing to one of our publications or registering or ordering at one of our web sites will be transferred to the United States. By visiting our sites and submitting information, you authorize this transfer, processing and use. 
-
-**CHANGES TO OUR PRIVACY POLICY**
-
-We will occasionally update this Privacy Policy as necessary to protect our users and to comply with a changing environment. We recommend that you check the policy when you visit our site to be sure you are aware of and understand our current policy. If we make material changes to this policy or in how we will use or collect your personally identifiable information, we will prominently post such changes prior to implementing the change. We will not make material changes in how we handle previously collected personal information that have retroactive effect unless legally required to do so, and we will e-mail registered website visitors information on material changes to this policy. Your continued use of the Site means you accept the updated privacy policy. 
-
-**CONTACT INFORMATION**
-
-If you have any questions about this Privacy Policy or our privacy practices, please e-mail us at [privacypolicy@primedia.com](mailto:privacypolicy@primedia.com). Please include the URL of the Web site and/or name of the publication involved in your request. Requests under California Law SB 27 should be directed to [yourcaliforniaprivacyrights@primedia.com](mailto:yourcaliforniaprivacyrights@primedia.com) and include the information noted in Your California Privacy Rights.
-
-Or you can contact us by mail at: 
-
-Privacy Coordinator   
-Primedia Magazines, Inc.  
-200 Madison Avenue.  
-New York, NY 10016  
-
-
-Or you can fax us at 212-448-4503 Attn: Privacy Coordinator   
-
-
-Updated March 31, 2006 
+If we receive a complaint from you, we will contact you in an attempt to address your concerns.  If we are not able to resolve a complaint, we will participate in the appropriate independent recourse mechanism as necessary.
