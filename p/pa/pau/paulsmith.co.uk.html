@@ -1,653 +1,638 @@
-<!--The following is the downloaded HTML source of the paulsmith.co.uk privacy policy that was archived on 2011-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111229070243id_/http%3A//www.paulsmith.co.uk/information/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the paulsmith.co.uk privacy policy that was archived on 2014-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140522211033id_/http%3A//www.paulsmith.co.uk/us-en/shop/information/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html id="html" lang="en" class=" js noflash"><!--<![endif]--><head>
-				<!--[if IE]>
-<meta http-equiv="imagetoolbar" content="no">
+<!DOCTYPE html><html class="no-js ps" lang="en"><!--<![endif]--><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/5370.js?439026" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQAGVVZRGwEFVVRTDwM="};window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a,b){function c(a,b,c){c||(c={});for(var d=f[a],e=d&&d.length||0,h=c[g]||(c[g]={}),i=0;e>i;i++)d[i].apply(h,b);return h}function d(a,b){var c=f[a]||(f[a]=[]);c.push(b)}function e(a){return delete a[g]}var f={},g="nr@context";b.exports={on:d,emit:c,clear:e}},{}],2:[function(a){function b(a,b,e,g,i){return h?h-=1:c("err",[i||new UncaughtException(a,b,e)]),"function"==typeof f?f.apply(this,d(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var c=a("handle"),d=a("lodash._slice"),e=a("../../../contextual-ee"),f=window.onerror,g=!1,h=0;a("loader").features.push("err"),window.onerror=b;try{throw new Error}catch(i){"stack"in i&&(a("../../wrap-timer"),a("../../wrap-raf"),"addEventListener"in window&&a("../../wrap-events"),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&a("../../wrap-xhr"),g=!0)}e.on("fn-start",function(){g&&(h+=1)}),e.on("fn-err",function(a,b,d){g&&(this.thrown=!0,c("err",[d,(new Date).getTime()]))}),e.on("fn-end",function(){g&&!this.thrown&&h>0&&(h-=1)})},{"../../../contextual-ee":1,"../../wrap-events":3,"../../wrap-raf":4,"../../wrap-timer":5,"../../wrap-xhr":6,handle:"4O2Y62",loader:"YLUGVp","lodash._slice":14}],3:[function(a){function b(a){d.inPlace(a,["addEventListener","removeEventListener"],"-",c)}function c(a){return a[1]}var d=a("../wrap-function"),e=(a("lodash._slice"),a("../contextual-ee"));if(b(window),"getPrototypeOf"in Object){for(var f=document;f&&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&&b(f);for(var g=XMLHttpRequest.prototype;g&&!g.hasOwnProperty("addEventListener");)g=Object.getPrototypeOf(g);g&&b(g)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&b(XMLHttpRequest.prototype);e.on("addEventListener-start",function(a){if(a[1]){var b=a[1];"function"==typeof b?this.wrapped=b["nr@wrapped"]?a[1]=b["nr@wrapped"]:b["nr@wrapped"]=a[1]=d(b,"fn-"):"function"==typeof b.handleEvent&&d.inPlace(b,["handleEvent"],"fn-")}}),e.on("removeEventListener-start",function(a){var b=this.wrapped;b&&(a[1]=b)})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],4:[function(a){var b=(a("lodash._slice"),a("../wrap-function")),c=a("../contextual-ee");b.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),c.on("raf-start",function(a){a[0]=b(a[0],"fn-")})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],5:[function(a){function b(a){var b=a[0];"string"==typeof b&&(b=new Function(b)),a[0]=c(b,"fn-")}var c=(a("lodash._slice"),a("../wrap-function")),d=a("../contextual-ee");c.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),d.on("setTimer-start",b)},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],6:[function(a){function b(){c.inPlace(this,f,"fn-")}var c=a("../wrap-function"),d=a("../contextual-ee"),e=window.XMLHttpRequest,f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(a){var f=new e(a);return d.emit("new-xhr",[],f),c.inPlace(f,["addEventListener","removeEventListener"],"-",function(a,b){return b}),f.addEventListener("readystatechange",b,!1),f},window.XMLHttpRequest.prototype=e.prototype},{"../contextual-ee":1,"../wrap-function":15}],7:[function(a){function b(a){var b=this.params,c=this.metrics;if(!this.ended){this.ended=!0;for(var d=0;j>d;d++)a.removeEventListener(i[d],this.listener,!1);if(!b.aborted){if(c.duration=(new Date).getTime()-this.startTime,4===a.readyState){if(b.status=a.status,a.responseText&&a.responseText.length&&(c.rxSize=a.responseText.length),this.sameOrigin){var f=a.getResponseHeader("X-NewRelic-App-Data");f&&(b.cat=f.split(", ").pop())}}else b.status=0;c.cbTime=this.cbTime,e("xhr",[b,c])}}}function c(a,b){var c=f(b),d=a.params;d.host=c.hostname+":"+c.port,d.pathname=c.pathname,a.sameOrigin=c.sameOrigin}function d(a,b){return b}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){a("loader").features.push("xhr");var e=a("handle"),f=a("./parse-url.js"),g=a("../../../wrap-function"),h=a("../../../contextual-ee"),i=["load","error","abort","timeout"],j=i.length,k=a("../../../loader/id");a("../../wrap-events"),a("../../wrap-xhr"),h.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=b,this.ended=!1,this.xhrGuids={}}),g.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",d),h.on("open-xhr-start",function(a){this.params={method:a[0]},c(this,a[1]),this.metrics={}}),h.on("open-xhr-end",function(a,b){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&b.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),h.on("send-xhr-start",function(a,b){var c=this.metrics,d=a[0],e=this;c&&d&&d.length&&(c.txSize=d.length),this.startTime=(new Date).getTime(),this.listener=function(a){"abort"===a.type&&(e.params.aborted=!0),("load"!==a.type||e.called===e.totalCbs&&(e.onloadCalled||"function"!=typeof b.onload))&&e.end(b)};for(var f=0;j>f;f++)b.addEventListener(i[f],this.listener,!1)}),h.on("xhr-cb-time",function(a,b,c){this.cbTime+=a,b?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof c.onload||this.end(c)}),h.on("xhr-load-added",function(a,b){var c=""+k(a)+!!b;this.xhrGuids&&!this.xhrGuids[c]&&(this.xhrGuids[c]=!0,this.totalCbs+=1)}),h.on("xhr-load-removed",function(a,b){var c=""+k(a)+!!b;this.xhrGuids&&this.xhrGuids[c]&&(delete this.xhrGuids[c],this.totalCbs-=1)}),h.on("addEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&h.emit("xhr-load-added",[a[1],a[2]],b)}),h.on("removeEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&h.emit("xhr-load-removed",[a[1],a[2]],b)}),h.on("fn-start",function(a,b,c){b instanceof XMLHttpRequest&&("onload"===c&&(this.onload=!0),("load"===(a[0]&&a[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),h.on("fn-end",function(a,b){this.xhrCbStart&&h.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,b],b)})}},{"../../../contextual-ee":1,"../../../loader/id":11,"../../../wrap-function":15,"../../wrap-events":3,"../../wrap-xhr":6,"./parse-url.js":8,handle:"4O2Y62",loader:"YLUGVp"}],8:[function(a,b){b.exports=function(a){var b=document.createElement("a"),c=window.location,d={};b.href=a,d.port=b.port;var e=b.href.split("://");return!d.port&&e[1]&&(d.port=e[1].split("/")[0].split(":")[1]),d.port&&"0"!==d.port||(d.port="https"===e[0]?"443":"80"),d.hostname=b.hostname||c.hostname,d.pathname=b.pathname,"/"!==d.pathname.charAt(0)&&(d.pathname="/"+d.pathname),d.sameOrigin=!b.hostname||b.hostname===document.domain&&b.port===c.port&&b.protocol===c.protocol,d}},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],11:[function(a,b){function c(a){if(!a||"object"!=typeof a&&"function"!=typeof a)return-1;if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!0,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&&a.agent&&a.licenseKey&&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],14:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}],15:[function(a,b){function c(a,b,c,d){function nrWrapper(){var g,h=f(arguments),i=this,j=c&&c(h,i)||{};try{e.emit(b+"start",[h,i,d],j)}catch(k){}try{return g=a.apply(i,h)}catch(l){throw e.emit(b+"err",[h,i,l],j),l}finally{try{e.emit(b+"end",[h,i,g],j)}catch(k){}}}return a&&"function"==typeof a&&a.apply&&!a._wrapped?(b||(b=""),nrWrapper._wrapped=!0,nrWrapper):a}function d(a,b,d,e){d||(d="");var f,g,h,i="-"===d.charAt(0);for(h=0;h<b.length;h++)g=b[h],f=a[g],f&&"function"==typeof f&&f.apply&&!f._wrapped&&(a[g]=c(f,i?g+d:d,e,g,a))}var e=a("../contextual-ee"),f=a("lodash._slice");b.exports=c,c.inPlace=d},{"../contextual-ee":1,"lodash._slice":14}]},{},["YLUGVp",2,7]);</script>
+<title>Privacy Policy</title>
+<meta name="description" content="Welcome to the Official Paul Smith Online Shop. The largest selection of Paul Smith clothing online including Designer Menswear, Womenswear and Accessories.">
+<meta name="keywords" content="">
+<meta name="robots" content="INDEX,FOLLOW">
+<meta name="viewport" content="width=980px">
+
+<!-- 320up css, selectivizr, modernizr -->
+
+<!-- For iPhone 4 -->
+<!-- <link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/h/apple-touch-icon.png"> -->
+<!-- For iPad 1-->
+<!-- <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/m/apple-touch-icon.png"> -->
+<!-- For iPhone 3G, iPod Touch and Android -->
+<!-- <link rel="apple-touch-icon-precomposed" href="img/l/apple-touch-icon-precomposed.png"> -->
+<!-- For Nokia -->
+<!-- <link rel="shortcut icon" href="img/l/apple-touch-icon.png"> -->
+<!-- For everything else -->
+<link rel="shortcut icon" href="http://cdn.paulsmith.co.uk/skin/frontend/paulsmith/unicorn/favicon-unicorn.ico">
+
+<!--iOS -->
+<!-- <meta name="apple-mobile-web-app-capable" content="yes"> -->
+<!-- <meta name="apple-mobile-web-app-status-bar-style" content="black"> -->
+<!-- <link rel="apple-touch-startup-image" href="img/splash.png"> -->
+
+<!-- <script>(function(){var p,l,r=window.devicePixelRatio;if(navigator.platform==="iPad"){p=r===2?"img/startup/startup-tablet-portrait-retina.png":"img/startup/startup-tablet-portrait.png";l=r===2?"img/startup/startup-tablet-landscape-retina.png":"img/startup/startup-tablet-landscape.png";document.write('<link rel="apple-touch-startup-image" href="'+l+'" media="screen and (orientation: landscape)"/><link rel="apple-touch-startup-image" href="'+p+'" media="screen and (orientation: portrait)"/>');}else{p=r===2?"img/startup/startup-retina.png":"img/startup/startup.png";document.write('<link rel="apple-touch-startup-image" href="'+p+'"/>');}})()</script> -->
+<!--Microsoft -->
+
+<!-- Prevents links from opening in mobile Safari -->
+<!-- <script>(function(a,b,c){if(c in b&&b[c]){var d,e=a.location,f=/^(a|html)$/i;a.addEventListener("click",function(a){d=a.target;while(!f.test(d.nodeName))d=d.parentNode;"href"in d&&(d.href.indexOf("http")||~d.href.indexOf(e.host))&&(a.preventDefault(),e.href=d.href)},!1)}})(document,window.navigator,"standalone")</script> -->
+<meta http-equiv="cleartype" content="on">
+
+
+
+<link rel="stylesheet" type="text/css" href="http://cdn.paulsmith.co.uk/skin/frontend/paulsmith/unicorn/css/scratch.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://cdn.paulsmith.co.uk/skin/frontend/paulsmith/default/css/checkbox.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://cdn.paulsmith.co.uk/skin/frontend/paulsmith/unicorn/css/banners.css" media="all">
+<script type="text/javascript" src="http://cdn.paulsmith.co.uk/media/js/eb72c491f76358378a1ae5ead45c98ff.js"></script>
+<link rel="canonical" href="http:/www.paulsmith.co.uk/uk-en/shop/information/privacy-policy.html">
+<!--[if lt IE 7]>
+<script type="text/javascript" src="http://cdn.paulsmith.co.uk/media/js/3043a2d99fd27635c882449f45a72c9a.js"></script>
 <![endif]-->
-<title>Privacy Policy - Information -  Paul Smith</title>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-<link rel="shortcut icon" href="http://static.paulsmith.co.uk/static/site/blocks/default/favicon.ico" type="image/x-icon">
-<meta name="description" content="Privacy Policy Information for the website and online shop of leading British Fashion Designer Paul Smith.">
-		<meta name="keywords" content="">
-<meta name="search_image" content="https://static.paulsmith.co.uk/static/site/graphics/prototype/stripes.png">
-<meta name="search_url" content="/information/privacy-policy/">
-<meta name="search_creation_timestamp" content="2011-11-30 10:28:13.278">
-<meta name="search_modification_timestamp" content="2011-11-30 10:28:13.278">
-<meta name="search_modification_timestampGSA" content="2011-11-30">
-					<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">
+<!--[if lt IE 9]>
+<script type="text/javascript" src="http://cdn.paulsmith.co.uk/media/js/d9f2c265ca010ae631b7a104ebf86023.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
 //<![CDATA[
-    document.getElementById('html').className += ' js';
-    
-    if (navigator.appName !== 'Microsoft Internet Explorer' && typeof navigator.mimeTypes["application/x-shockwave-flash"] !== 'object') {
-        document.getElementById('html').className += ' noflash';
-        NO_FLASH = true;
-    } else {
-        NO_FLASH = false;
-    }
+Mage.Cookies.path     = '/us-en/shop';
+Mage.Cookies.domain   = '.www.paulsmith.co.uk';
 //]]>
 </script>
-					
-
-<link rel="stylesheet" media="all" type="text/css" href="http://cdn.othermedia.com/yui/2.7.0/reset/reset-min.css"> 
-
-            <link rel="stylesheet" media="screen,projection" type="text/css" href="http://static.paulsmith.co.uk/static/site/css/hacks.css">
-            <link rel="stylesheet" media="screen,projection,print" type="text/css" href="http://static.paulsmith.co.uk/static/site/css/screen.css">
-            <link rel="stylesheet" media="screen,projection" type="text/css" href="http://static.paulsmith.co.uk/static/site/css/layout.css">
-            <link rel="stylesheet" media="screen,projection,print" type="text/css" href="http://static.paulsmith.co.uk/static/site/css/content.css">
-            <link rel="stylesheet" media="screen,projection" type="text/css" href="http://static.paulsmith.co.uk/static/site/css/navigation.css">
-            <link rel="stylesheet" media="screen,projection" type="text/css" href="http://static.paulsmith.co.uk/static/site/css/topandtail.css">
-            <link rel="stylesheet" media="screen,projection" type="text/css" href="http://static.paulsmith.co.uk/static/site/css/forms.css">
-            <link rel="stylesheet" media="screen,projection" type="text/css" href="http://static.paulsmith.co.uk/static/site/css/checkout.css">
-            <link rel="stylesheet" media="screen,projection" type="text/css" href="http://static.paulsmith.co.uk/static/site/css/tabs.css">
-            <link rel="stylesheet" media="screen,projection" type="text/css" href="http://static.paulsmith.co.uk/static/site/css/overlay.css">
-            <link rel="stylesheet" media="screen,projection,print" type="text/css" href="http://static.paulsmith.co.uk/static/site/css/articles.css">
-            <link rel="stylesheet" media="screen,projection" type="text/css" href="http://static.paulsmith.co.uk/static/site/css/product.css">
-            <link rel="stylesheet" media="screen,projection" type="text/css" href="http://static.paulsmith.co.uk/static/site/css/shop.css">
-            <link rel="stylesheet" media="screen,projection" type="text/css" href="http://static.paulsmith.co.uk/static/site/css/item-description.css">
-    <link rel="stylesheet" media="print" type="text/css" href="http://static.paulsmith.co.uk/static/site/css/print.css">
-	
-					
-
-
-
-
-
-
-
-
-
-
-
-<script src="http://js.othermedia.com/helium.js" type="text/javascript"></script>
-<script type="text/javascript">
-
-    Helium.SITE_JS_PATH         = 'http://static.paulsmith.co.uk/static/site/js/site/';
-    Helium.LIB_JS_PATH         = 'http://static.paulsmith.co.uk/static/site/js/lib/';
-    Helium.USE_MINIFIED_FILES   = false;
-    Helium.GOOGLE_API_KEY       = 'ABQIAAAAsvSSBEQYz0WPuI4_ujwbrRSqp4eXPUgifyUalqunR6f3QykxMBTySrpxSlw4Pr-Qxft2WWweDKA3ag';
-    Helium.RECAPTCHA_PUBLIC_KEY = '6LfKxAoAAAAAAH_LXbpvzRWoCKS_cWRxL4xImxbD';
-    Helium.GOOGLE_ANALYTICS_ID = 'UA-991276-1';
-
-            FLOWPLAYER_API_KEY = "#@69c7fd282f0b684ee67";
-    
-    Helium.use('yui', '2.8.0r4');
-    Helium.use('ojay', '0.5.0');
-    Helium.use('edgecase', '1.1.0');
-    Helium.use('arcadia', '0.1.1');
-    Helium.use('scaling-paginator', '1.0.0');
-    Helium.use('keyed_list', '1.0.0');
-
-    /**
- * Paul Smith JavaScript manifest.
- */
-JS.Packages(function() {
-    var jsPath   = function(path, root) { return root + (Helium.USE_MINIFIED_FILES ? path + '-min.js' : path + '.js'); },
-        sitePath = function(path) { return jsPath(path, Helium.SITE_JS_PATH); },
-        libPath  = function(path) { return jsPath(path, Helium.LIB_JS_PATH); };
-    
-    this.file('http://static.paulsmith.co.uk/static/site/js/lib/flowplayer.js')
-        .provides('flowplayer');
-    
-    this.file(sitePath('utilities'))
-        .provides('setControlWidth',
-                  'verticallyCentre',
-                  'labelInField',
-                  'fixWidows',
-                  'makeHoverable',
-                  'showLinksInOverlay',
-                  'trackEvent',
-                  'parseQueryString')
-        .requires('Ojay',
-                  'Ojay.Forms',
-                  'pageTracker');
-    
-    this.file(sitePath('currency_selector'))
-        .provides('CurrencySelector')
-        .requires('Ojay',
-                  'Ojay.Observable',
-                  'Ojay.HTML',
-                  'Ojay.HTTP',
-                  'Ojay.Overlay')
-            .uses('BasketCounter');
-    
-    this.file(sitePath('basket_counter'))
-        .provides('BasketCounter')
-        .requires('JS.Singleton',
-                  'Ojay',
-                  'Ojay.HTML',
-                  'YAHOO.util.Cookie');
-    
-    this.file(sitePath('tabbed_paginator'))
-        .provides('TabbedPaginator')
-        .requires('Ojay.Paginator',
-                  'Ojay.Tabs',
-                  'setControlWidth');
-    
-    this.file(sitePath('thumbnail_tabs'))
-        .provides('ThumbnailTabs')
-        .requires('Ojay.Tabs');
-    
-    this.file(sitePath('multi_link_promo'))
-        .provides('MultiLinkPromo')
-        .requires('Ojay',
-                  'YAHOO.util.Event._createMouseDelegate');
-    
-    this.file(sitePath('product_form'))
-        .provides('ProductForm')
-        .requires('Ojay',
-                  'BasketCounter')
-            .uses('Ojay.HTML',
-                  'Ojay.HTTP',
-                  'Ojay.Forms');
-    
-    this.file(sitePath('product_selector'))
-        .provides('ProductSelector')
-        .requires('JS.Class')
-            .uses('Ojay',
-                  'Ojay.HTML',
-                  'Ojay.HTTP');
-    
-    this.file(sitePath('product_galleries'))
-        .provides('ProductGallery',
-                  'ProductZoom',
-                  'ProductOverlayGallery')
-        .requires('JS.Class',
-                  'JS.MethodChain',
-                  'JS.State',
-                  'KeyedList',
-                  'YAHOO.util.Event',
-                  'Ojay',
-                  'Ojay.Observable',
-                  'Ojay.HTML',
-                  'Ojay.Keyboard',
-                  'Ojay.Mouse');
-    
-    this.file(sitePath('slideshow'))
-        .provides('Slideshow')
-        .requires('Ojay',
-                  'Ojay.HTML');
-    
-    this.file(sitePath('checkout'))
-        .provides('Checkout',
-                  'Checkout.Address',
-                  'Checkout.AddressHelper',
-                  'Checkout.AccountLookup')
-        .requires('Ojay',
-                  'Ojay.Observable',
-                  'Ojay.Keyboard',
-                  'Ojay.Forms',
-                  'Ojay.HTTP',
-                  'Ojay.URI');
-    
-    this.file(sitePath('paged_overlay'))
-        .provides('PagedOverlay')
-        .requires('JS.Singleton',
-                  'JS.State',
-                  'Ojay',
-                  'Ojay.HTML',
-                  'Ojay.Keyboard')
-            .uses('Ojay.PageMask',
-                  'Ojay.ContentOverlay',
-                  'Ojay.HTTP');
-    
-    this.file(sitePath('cardhelp'))
-        .provides('CardHelp')
-        .requires('Ojay');
-    
-    this.file(sitePath('toggled-searchbox'))
-        .provides('ToggledSearchbox')
-        .requires('JS.Class',
-                  'Ojay',
-                  'Ojay.HTML',
-                  'Ojay.Forms');
-    
-    this.file(sitePath('collection_video'))
-        .provides('CollectionVideoUI',
-                  'CollectionVideoPlayer')
-        .requires('JS.Class',
-                  'JS.State',
-                  'Ojay',
-                  'Ojay.Observable',
-                  'Ojay.HTML')
-            .uses('flowplayer');
-    
-    this.file(sitePath('lightbox'))
-        .provides('Lightbox')
-        .requires('Ojay.Observable',
-                  'Ojay.Paginator',
-                  'JS.State');
-    
-    this.file(sitePath('product_list'))
-        .provides('ProductList')
-        .requires('JS.Class',
-                  'YAHOO.util.Cookie',
-                  'Ojay.HTTP');
-    
-    this.file(sitePath('recently-viewed'))
-        .provides('RecentlyViewed')
-        .requires('YAHOO.util.Cookie',
-                  'Ojay',
-                  'Ojay.HTML',
-                  'ProductList');
-    
-    this.file(sitePath('wishlist'))
-        .provides('Wishlist')
-        .requires('YAHOO.util.Cookie',
-                  'Ojay',
-                  'ProductList');
-    
-    this.file(sitePath('wishlist-button'))
-        .provides('WishlistButton')
-        .requires('YAHOO.util.Cookie',
-                  'Ojay',
-                  'ProductList',
-                  'PagedOverlay');
-    
-    /*TODO: move to helium at next deploy*/
-    this.file("http://www.google.com/recaptcha/api/js/recaptcha_ajax.js")
-        .provides('Recaptcha');
-    
-    this.file(sitePath('tweetmeme-button'))
-        .provides('TweetmemeButton')
-        .requires('Ojay',
-                  'Ojay.URI');
-    
-    this.file(libPath('jquery-1.6'))
-        .provides('jQuery');
-    
-    this.file(libPath('jquery.translate-1.4.7'))
-        .provides('jQuery.translate')
-        .requires('jQuery');
-});
-
-    // Google Analytics
-    require('pageTracker', function() {
-		try{
-      		pageTracker._trackPageview();
-		} catch(err){};
-    });
-
-</script>
-					<script type="text/javascript">
-
-    /**
-     * Vertically centre the main navbars
-     */
-    require('verticallyCentre', function() {
-        Ojay.onDOMReady(function() {  
-            verticallyCentre('#nav-wrapper');
-        });
-    });
-    
-    /**
-     * Place their labels in these fields.
-     */
-    require('labelInField', function() {
-        Ojay.onDOMReady(function() {
-            ['\#searchField'].forEach(labelInField);
-        });
-    });
-    
-    /**
-     * Correctly centre paging controls.
-     */
-    require('setControlWidth', function() {
-        Ojay.onDOMReady(function() {
-            Ojay('.paging .controls').forEach(setControlWidth);
-        });
-    });
-    
-    /**
-     * Create hover states in IE for submit buttons.
-     */
-    require('makeHoverable', function() {
-        Ojay.onDOMReady(function() {
-            makeHoverable('input[type=submit]');
-        });
-    });
-    
-    /**
-     * Show Terms & Conditions links in an overlay.
-     */
-    require('showLinksInOverlay', function() {
-        Ojay.onDOMReady(function() {
-            showLinksInOverlay('body#bd a[href$="/terms.html"], body#bd a[href$="/terms-conditions-popup.html"]');
-        });
-    });
-
-    /**
-     * Init all pagedOverlay links
-     */
-    require('PagedOverlay', function() {
-        Ojay.onDOMReady(function() {
-            PagedOverlay.addLinks('a.overlay-link');
-        });
-    });
-    
-    
-	    /*
-    If enabled, set up the translation links. Since the translate plugin munges the DOM
-    pretty heavily, setup in the translation handlers events as bound-in delegates.
-    */
-    require('jQuery.translate', 'Ojay', function() {
-        Ojay.onDOMReady(function() {
-            var langs = {
-              en: {id: 'english', label:'English', handler:function(){window.location.reload()}},
-              de: {id: 'german', label:'German'},
-              fr: {id: 'french', label:'French'}
-            };
-            
-            var handlers = {};
-            
-            var stdHandler = function(_lang,ev){
-              jQuery('.translate').translate(
-                jQuery('html').attr('lang'),
-                _lang,
-                function(){
-                  jQuery('html').attr('lang',_lang );
-                  jQuery('.translate').attr('aria-live','polite');
-                }
-              );
-            }.curry();
-            
-            for(var langCode in langs){
-              var lang = langs[langCode];
-              Ojay('#translate-buttons ul').insert('<li id="'+lang.id+'" class="translate-button">'+lang.label+'</li>');
-              handlers['li#'+lang.id] = lang.handler || stdHandler(langCode);
-            }
-            
-            Ojay('#wrapper').on('click', Ojay.delegateEvent(handlers));
-        });
-    });
-    
-        
-</script>
-		</head><body>
-    <div id="wrapper" class="translate">
-    						
-    	<div id="hd">
-    					<div id="nav-search" class="clear">
-				<div id="searchform-wrapper">
-	<form class="searchform" id="searchForm" action="/search.html" method="get">
-		<p>
-			<label title="Search" class="search-label" for="searchField">Search</label>
-			<input id="searchField" name="q" class="text" placeholder="Search" type="text" value="">
-			<input id="searchButton" class="submit" type="submit" value="Go">
-		</p>
-	</form>
-</div>
-					<ul class="navigation">
-    <li><a class="nav-link track-event" trackaction="TOP-NAV" href="/email-updates.html">Email updates</a></li>
-    <li><a class="nav-link track-event" trackaction="TOP-NAV" href="/shop/customer-care,39,PAR.html">Contact us</a></li>
-    <li><a class="nav-link track-event" trackaction="TOP-NAV" href="/my-account/">My Account</a></li>
-    <li id="shopping-basket-link"><a class="nav-link" href="/basket.html"><strong>Shopping Basket</strong></a></li>
-</ul>
 
 <script type="text/javascript">
-    require('BasketCounter', function() {
-        BasketCounter.displayIn('#shopping-basket-link a');
-    });
-
-    require('Ojay.HTML', 'ProductList', 'WishlistButton', function() {
-        var repo = new ProductList('product-list/wishlist', 'www.paulsmith.co.uk', null, 'psuid');
-        //var repo = new ProductList('product-list/wishlist', 'paulsmith.otherworks.com', null, 'psuid');
-        Ojay.onDOMReady(function() {
-            repo.PING( function() {
-                var html = Ojay.HTML,
-                    link = html.a({className:'nav-link', href: '/my-account/wishlist.html'}, 'Wish List'),
-                    item = html.li({id: 'wishlist'}, link);
-
-                Ojay.byId('shopping-basket-link').insert(item, 'before');
-            });
-        });
-    });
+//<![CDATA[
+optionalZipCountries = ["HK","IE","MO","PA"];
+//]]>
 </script>
-	</div>
+<script type="text/javascript">
+//<![CDATA[
+    var _gaq = _gaq || [];
+    
+_gaq.push(['_setAccount', 'UA-991276-1']);
 
-<div id="nav-main" class="clear ">
-	<p id="logo"><a title="Paul Smith - Home" href="/">Paul Smith</a></p>
-				<div id="nav-wrapper" class="clear">
-	
-							
-		
-	<ul id="nav-primary" class="navigation clear">
-			<li><a class="track-event" trackaction="MAIN-NAV" href="/shop/">Shop Online</a></li>
-																							
-					
-						<li><a href="/collections/" class="track-event" trackaction="MAIN-NAV">Collections</a></li>
-					
-						<li><a href="/paul-smith-world/" class="track-event" trackaction="MAIN-NAV">Paul Smith World</a></li>
-					
-						<li><a href="/paul-smith-opinion/" class="track-event" trackaction="MAIN-NAV">Paul Smith Opinion</a></li>
-					
-						<li><a href="/paul-smith-blog/" class="track-event" trackaction="MAIN-NAV">Paul Smith Blog</a></li>
-					
-						<li><a href="/paul-smith-tv/" class="track-event" trackaction="MAIN-NAV">Paul Smith TV</a></li>
-					
-						<li><a href="/shop-locator/" class="track-event" trackaction="MAIN-NAV">Shop Locator</a></li>
-				
-			</ul>													
-		
-	<script type="text/javascript">
-	// <![CDATA[
-	require('Ojay', function() {
-		Ojay.onDOMReady(function(){
-    	    var menu = Ojay.byId('nav-secondary'),
-    	        path = document.location.pathname,
-    	        items;
+_gaq.push(['_trackPageview']);
     
-    	    if (YAHOO.env.ua.ie === 6) {
-    	        items = menu.descendants('li');
-    
-    	        items.on('mouseover', function(item) {
-    	            item.addClass('hover');
-    	        });
-    
-    	        items.on('mouseout', function(item) {
-    	            item.removeClass('hover');
-    	        });
-    	    }
-		});
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+//]]>
+</script>
+<!--{PS_GOOGLE_ANALYTICS_CUSTOM_VARIABLES_e6052e4c51b38c4e62815ce20eeaa40f}--><!-- BEGIN GOOGLE ANALYTICS CUSTOM VAR CODE -->
+<script type="text/javascript">
+    //<![CDATA[
+    try {
+        _gaq.push(['_setCustomVar',
+            1,
+            'Customer Type',
+            'Guest',
+            2
+        ]);
+
+            _gaq.push(['_setCustomVar',
+                2,
+                'Customer Has Purchased',
+                'No',
+                2
+        ]);
+    } catch(err) {}
+    //]]>
+</script>
+<!-- END GOOGLE ANALYTICS CUSTOM VAR CODE -->
+<!--/{PS_GOOGLE_ANALYTICS_CUSTOM_VARIABLES_e6052e4c51b38c4e62815ce20eeaa40f}--><script type="text/javascript">//<![CDATA[
+        var Translator = new Translate({"Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.":"Your order cannot be completed at this time as there are no delivery methods available for it. Please make necessary changes in your delivery address.","Create New Wishlist":"Create new wish list"});
+        //]]></script><meta name="google-site-verification" content="TVdvA002H_ChmhEnNJDCnV5-SrjeAE1daL0EWZ4Bucs">
+<meta name="p:domain_verify" content="4ff139aace4395cd32fd813789c37caa">
+<meta property="twitter:account_id" content="26033281">
+<script src="//cdn.optimizely.com/js/296175083.js"></script> <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="https://app.salecycle.com/capture/paulsmith.js?ver=1"></script></head>
+<body class=" cms-page-view cms-privacy-policy-html">
+<div id="container">
+<!-- BEGIN Inchoo Facebook Connect -->
+<div id="fb-root"></div>
+<script type="text/javascript">
+//<![CDATA[
+window.fbAsyncInit = function() {
+	FB.init({
+		appId		: "364821873586657",
+		channelUrl	: 'http://www.paulsmith.co.uk/us-en/shop/inchoo_facebook/channel/index/locale/en_US/',
+		status		: true,
+		cookie		: true,
+		oauth		: true,
+		xfbml		: true
 	});
-	// ]]>
-	</script>					
+	document.fire("facebook:fbAsyncInit");
+};
+
+(function(d){
+	var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+	js = d.createElement('script'); js.id = id; js.async = true;
+	js.src = "//connect.facebook.net/en_US/all.js";
+	d.getElementsByTagName('head')[0].appendChild(js);
+}(document));
+
+document.observe('click', function(e){
+	var target = e.findElement('a[rel^=facebook-connect]') || e.findElement('button[rel^=facebook-connect]');
+	if (target && target.readAttribute('rel')=='facebook-connect') {
+		e.stop();
+		try{
+			FB.login(function(response){
+				if(response.status=='connected') {
+					Mage.Cookies.set('fb-referer', 'aHR0cDovL3d3dy5wYXVsc21pdGguY28udWsvdXMtZW4vc2hvcC9jbXMvcGFnZS92aWV3L3BhZ2VfaWQvMTAxLw,,');
+					setLocation('https://www.paulsmith.co.uk/us-en/shop/inchoo_facebook/customer_account/connect/');
+				}
+			}, {scope: "email,user_birthday"});
+		}catch(error){}
+	}
+});
+//]]>
+</script>
+<!-- END Inchoo Facebook Connect -->
+<script type="text/javascript">
+    jQuery(document).ready(function($) {
+        var userAgent   = navigator.userAgent;
+        var userAgents  = {"iPhone":null,"Android":null,"BB10":null,"Windows Phone":null,"BlackBerry":null};
+
+        function addSwitchViewLink(id, url) {
+            var switchViewLink  = $('#' + id);
+            var match           = false;
+
+            if ($(switchViewLink).length) {
+                $.each(userAgents, function(item) {
+                    if (userAgent.match(item)) {
+                        match = true;
+                    }
+                });
+
+                if (!match) {
+                    return;
+                }
+
+                if ($(switchViewLink).css('display') == 'none') {
+                    $(switchViewLink).css('display', 'inline');
+                }
+
+                $(switchViewLink).attr('rel', 'nofollow');
+
+                $(switchViewLink).click(function(e) {
+                    e.preventDefault();
+
+                    document.location = url;
+                });
+            }
+        }
+
+        addSwitchViewLink('switch-to-mobile-site', 'http://www.paulsmith.co.uk/us-en/shop/mobile/switch/mobile/0/___store/url/aHR0cDovL3d3dy5wYXVsc21pdGguY28udWsvdXMtZW4vc2hvcC9pbmZvcm1hdGlvbi9wcml2YWN5LXBvbGljeS5odG1s/');
+        addSwitchViewLink('switch-to-desktop-site', 'http://www.paulsmith.co.uk/us-en/shop/mobile/switch/desktop/0/___store/url/aHR0cDovL3d3dy5wYXVsc21pdGguY28udWsvdXMtZW4vc2hvcC9pbmZvcm1hdGlvbi9wcml2YWN5LXBvbGljeS5odG1s/');
+    });
+</script>
+
+    <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+
+<header id="main-header">
+
+    <nav id="top-links">
+                <!--{CART_SIDEBAR_3488bab0d9bb3e17165fa54efd20c360}-->
+<div class="top-cart">
+        <div class="block-title no-items">
+        <strong id="cartHeader">Shopping Basket <span>0 items</span></strong>
+    </div>
+    <div id="topCartContent" class="block-content" style="display:none">
+        <div class="inner-wrapper">                            <p class="block-subtitle">
+                <span onclick="Enterprise.TopCart.hideCart()" class="close-btn">Close</span>
+                Recently added item(s)            </p>
+            <p class="cart-empty">
+                You have no items in your shopping basket.            </p>
+                                    </div>
+    </div>
+<script type="text/javascript">
+    Enterprise.TopCart.initialize('topCartContent');
+    Enterprise.TopCart.setReloadBlockController('https://www.paulsmith.co.uk/us-en/shop/checkout/onepage/minicartreload/');
+    // Below can be used to show minicart after item added
+       </script>
 </div>
-	</div>
-
-<div id="nav-location" class="clear">
-				<ul id="shop-locale">
-		<li id="jp-shop-link"><a title="Paul Smith Japan" href="http://www.paulsmith.co.jp/">Paul Smith Japan</a></li>
-</ul>
-					
-
-					    <div id="currency-selector"></div>
-
-    <script type="text/javascript">
-        require('CurrencySelector', function() {
-            var redirect = '/information/privacy-policy/?action=com.othercommerce.paulsmith.shop.actions.PaymentCurrencyAction.doSelectCurrency',
-                selector = new CurrencySelector('#currency-selector', ['GBP','EUR','USD'], redirect, {
-                    titles:   {GBP: 'UK pounds (GBP)', EUR: 'Euro currency (EUR)', USD: 'US Dollar currency (USD)'}
-                                            , endpoint: 'http://static.paulsmith.co.uk/geoip/geo.json'
-                                    });
-        });
-    </script>
-					 
-
-
-					
-
-
-<div id="breadcrumbs">
-	<h3>You are here:</h3>
-	<ol>
-				<li class="first"><a href="/">Home</a></li>
-									
-			    			    		        				    					    						<li><a href="/information/">Information</a></li>
-    					    				    		    								    		    		    				    					    						<li><a class="selected" href="/information/privacy-policy/">Privacy Policy</a></li>
-    					    				    									</ol>
+<!--/{CART_SIDEBAR_3488bab0d9bb3e17165fa54efd20c360}-->        <ul class="links">
+                                                        <!--{WISHLISTLINKS_80dccbd88ba691e386c79cd0efd1d6f4}--><!--/{WISHLISTLINKS_80dccbd88ba691e386c79cd0efd1d6f4}-->                                <li class=" last"><a href="https://www.paulsmith.co.uk/us-en/shop/customer/account/" title="Sign in">Sign in</a></li>
+            </ul>
+        <div id="searchform-wrapper">
+    <form id="search_mini_form" role="search" action="http://www.paulsmith.co.uk/us-en/shop/catalogsearch/result/" method="get">
+        <p class="clearfix">
+            <label for="search">Search site:</label>
+            <input id="search" class="input-text" type="text" name="q" value="">
+            <button class="button">Go</button>
+        </p>
+        <div id="search_autocomplete" class="search-autocomplete"></div>
+        <script type="text/javascript">
+            var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search');
+        </script>
+    </form>
 </div>
+    </nav>
+
+    <section id="masthead">
+        <a href="http://www.paulsmith.co.uk/us-en/shop/" title="Paul Smith" class="logo">
+            <img src="http://cdn.paulsmith.co.uk/skin/frontend/paulsmith/unicorn/images/logo.png" alt="Paul Smith">
+        </a>
+        <nav class="primary-nav">
+    <ul>
+        <li>
+            <a class="track-event active" trackaction="MAIN-NAV" href="http://www.paulsmith.co.uk/us-en/shop/">
+                Shop Online            </a>
+        </li>
+        <li>
+            <a href="http://www.paulsmith.co.uk/us-en/collections/" class="track-event" trackaction="MAIN-NAV">
+                Collections            </a>
+        </li>
+        <li>
+            <a href="http://www.paulsmith.co.uk/us-en/paul-smith-world/" class="track-event" trackaction="MAIN-NAV">
+                Paul Smith World            </a>
+        </li>
+        <li>
+            <a href="http://www.paulsmith.co.uk/us-en/shop-locator/" class="track-event" trackaction="MAIN-NAV">
+                Shop Locator            </a>
+        </li>
+    </ul>
+</nav>        <!--{TOPMENU_142a1512a71c90ee9814e9dc5cc803ec}--><nav id="top-menu">
+    <ul>
+        <li class="level0 nav-1 first level-top dropdown"><a href="http://www.paulsmith.co.uk/us-en/shop/new-online" class="level-top"><span>New Online</span></a><div class="links one-column-links">
+	<div class="linksList">
+		<h2 class="first"></h2>
+		<ul class="clear">
+<li><a href="http://www.paulsmith.co.uk/us-en/shop/new-online/new-for-him">New for Him</a></li>
+<li><a href="http://www.paulsmith.co.uk/us-en/shop/new-online/new-for-her">New for Her</a></li>
+<li><a href="http://www.paulsmith.co.uk/us-en/shop/new-online/new-shoes-for-him">New Shoes for Him</a></li>
+<li><a href="http://www.paulsmith.co.uk/us-en/shop/new-online/new-accessories-for-him">New Accessories for Him</a></li>
+		</ul>
 	</div>
-	    	</div>
-		
-    	<div id="bd" class="c920">	
-			<div class="clear">
-				
-
-
-<div class="clear">
-	<div class="grid c160">
-		<div class="sidebar subnav clear">
-							<h2><a href="/information/">Information</a></h2>
-		
-			
-														
-													<p class="back"><a href="/information/">Back</a></p>
-						</div>
-						<div class="sidebar clear">
-    	<h2>Follow Paul Smith</h2>
-    	<ul class="blog-social-links">
-    		<li><a class="facebook-left-col" href="http://www.facebook.com/paulsmithdesign">Become a fan on Facebook</a></li>
-    		<li class="twitter"><a class="twitter-left-col" href="http://www.twitter.com/paulsmithdesign">Follow us on Twitter</a></li>
-    	</ul>
+</div></li><li class="level0 nav-2 level-top dropdown"><a href="http://www.paulsmith.co.uk/us-en/shop/mens" class="level-top"><span>Men's</span></a><div class="links three-column-links">
+    <div class="linksList">
+        <h2 class="first">Shoes &amp; Accessories</h2>
+        <ul class="clear">
+           	<li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/shoes">Shoes</a></li>
+           	<li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories">Accessories</a></li>
+           	<li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/wallets">Wallets</a></li>
+			<li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/bags">Bags</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/belts">Belts</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/cufflinks">Cufflinks</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/gloves">Gloves</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/hats">Hats</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/ipad-and-phone-cases">iPad &amp; Phone Cases</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/jewellery">Jewellery</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/keyrings">Keyrings</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/luggage">Luggage</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/handkerchiefs-and-pocket-squares">Pocket Squares</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/scarves">Scarves</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/socks">Socks</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/spectacles">Spectacles</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/sunglasses">Sunglasses</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/ties">Ties &amp; Tie Clips</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/umbrellas">Umbrellas</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/watches">Watches</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/accessories-other">Other</a></li>
+        </ul>
+    </div>
+    <div class="linksList">
+        <h2 class="first">Shop Clothing</h2>
+        <ul class="clear">
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/coats-outerwear">Coats &amp; Outerwear</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/jackets">Jackets &amp; Blazers</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/jeans">Jeans</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/shirts">Shirts</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/knitwear">Knitwear</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/polo-shirts">Polo Shirts</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/shorts">Shorts</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/swimwear">Swimwear</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/suits">Suits</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/tops">Sweatshirts &amp; Hoodies</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/trousers">Trousers</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/t-shirts">T-Shirts</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/underwear-sleepwear">Underwear &amp; Sleepwear</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/waistcoats">Waistcoats</a></li>
+       </ul>
+    </div>
+    <div class="linksList">
+        <h2 class="first">Shop by Collection</h2>
+        <ul class="clear">
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/paul-smith-men-s-ss14">Men's SS14 Collection</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/paul-smith-london">Paul Smith London</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/ps-by-paul-smith">PS By Paul Smith</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/jeans-collection">Paul Smith Jeans Collection</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/paul-smith-red-ear">Red Ear</a></li>
+			<!--
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/">Paul Smith Single Fin</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/">Swami's Collaboration</a></li>
+            -->
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/the-british-collection">The British Collection</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/paul-smith-barbour-collaboration/for-men"></a></li>
+        </ul>
+    </div>
+</div></li><li class="level0 nav-3 level-top dropdown"><a href="http://www.paulsmith.co.uk/us-en/shop/womens" class="level-top"><span>Women's</span></a><div class="links three-column-links">
+	<div class="linksList">
+		<h2 class="first">Shoes &amp; Accessories</h2>
+		<ul class="clear">
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/shoes">Shoes</a></li>
+           	<li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories">Accessories</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories/handbags">Handbags</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories/purses">Purses</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories/belts">Belts</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories/gloves">Gloves</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories/hats">Hats</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories/ipad-and-phone-cases">iPad &amp; Phone Cases</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories/jewellery">Jewellery</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories/luggage">Luggage</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories/scarves">Scarves</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories/socks">Socks</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories/spectacles">Spectacles</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories/sunglasses">Sunglasses</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories/watches">Watches</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories/umbrellas">Umbrellas</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories/accessories-other">Other</a></li>
+		</ul>
 	</div>
-		</div>
+	<div class="linksList">
+		<h2 class="first">Shop Clothing</h2>
+		<ul class="clear">
+                 <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/coats-outerwear">Coats &amp; Outerwear</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/dresses">Dresses</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/jackets">Jackets</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/jeans">Jeans</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/knitwear">Knitwear</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/playsuits"></a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/shirts">Shirts</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/shorts"></a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/skirts">Skirts</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/swimwear">Swimwear</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/tops">Tops</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/t-shirts">T-Shirts</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/trousers-shorts">Trousers</a></li>
+	</ul>
+	</div>
+	<div class="linksList">
+		<h2 class="first">Shop by Collection</h2>
+		<ul class="clear">
+                        <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/ss14-collection">Women's SS14 Collection</a></li>
+           <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/aw13-collection">Women's AW13 Collection</a></li>
+           <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/ss13-collection"></a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/black-label">Black Label</a></li>
+			<li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/paul-by-paul-smith">Paul By Paul Smith</a></li>
+                        <li><a href="http://www.paulsmith.co.uk/us-en/shop/pbs-collection"></a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/paul-smith-barbour-collaboration"></a></li>
+		</ul>
+	</div>
+</div></li><li class="level0 nav-4 level-top dropdown"><a href="http://www.paulsmith.co.uk/us-en/shop/junior" class="level-top"><span>Junior</span></a><div class="links one-column-links">
+	<div class="linksList">
+		<h2 class="first"></h2>
+		<ul class="clear">
+<li><a href="http://www.paulsmith.co.uk/us-en/shop/junior/boys">Boys 0-10 Years</a></li>
+<li><a href="http://www.paulsmith.co.uk/us-en/shop/junior/girls">Girls 0-10 Years</a></li>
+<li><a href="http://www.paulsmith.co.uk/us-en/shop/junior/paul-smith-psjr">Paul Smith PSJR 8-16 Years</a></li>
+<li><a href="http://www.paulsmith.co.uk/us-en/shop/junior/shoes-and-accessories">Shoes and Accessories</a></li>
+		</ul>
+	</div>
+</div></li><li class="level0 nav-5 level-top dropdown"><a href="http://www.paulsmith.co.uk/us-en/shop/eyewear" class="level-top"><span>Eyewear</span></a><div class="links one-column-links">
+	<div class="linksList">
+		<h2 class="first"></h2>
+		<ul class="clear">
+<li><a href="http://www.paulsmith.co.uk/us-en/shop/eyewear/sunglasses-for-him">Sunglasses For Him</a></li>
+<li><a href="http://www.paulsmith.co.uk/us-en/shop/eyewear/spectacles-for-him">Spectacles For Him</a></li>
+<li><a href="http://www.paulsmith.co.uk/us-en/shop/eyewear/sunglasses-for-her">Sunglasses For Her</a></li>
+<li><a href="http://www.paulsmith.co.uk/us-en/shop/eyewear/spectacles-for-her">Spectacles For Her</a></li>
+		</ul>
+	</div>
+</div></li><li class="level0 nav-6 last level-top dropdown"><a href="http://www.paulsmith.co.uk/us-en/shop/gifts-things" class="level-top"><span>Gifts &amp; Things</span></a><div class="links three-column-links">
+    <div class="linksList">
+        <h2 class="first">Shop by Type</h2>
+        <ul class="clear">
+           	<li><a href="http://www.paulsmith.co.uk/us-en/shop/gifts-things/curiosities">Curiosities</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/gifts-things/artwork-prints">Artwork &amp; Prints</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/gifts-things/books">Books</a></li>
+			<li><a href="http://www.paulsmith.co.uk/us-en/shop/gifts-things/china">China</a></li>
+        </ul>
+    </div>
+    <div class="linksList">
+        <h2 class="first">Gifts For Him</h2>
+        <ul class="clear">
+           	<li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/wallets">Wallets</a></li>
+			<li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/bags">Bags</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/belts">Belts</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/cufflinks">Cufflinks</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/gloves">Gloves</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/handkerchiefs-and-pocket-squares">Pocket Squares</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/hats">Hats</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/ipad-and-phone-cases">iPad &amp; Phone Cases</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/jewellery">Jewellery</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/keyrings">Keyrings</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/scarves">Scarves</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/socks">Socks</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/stationery">Stationery</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/ties">Ties &amp; Tie Clips</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/umbrellas">Umbrellas</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/watches">Watches</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/mens/accessories/accessories-other">Other Gifts</a></li>
+       </ul>
+    </div>
+    <div class="linksList">
+        <h2 class="first">Gifts For Her</h2>
+        <ul class="clear">
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories/handbags">Handbags</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories/purses">Purses</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories/belts">Belts</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories/gloves">Gloves</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories/hats">Hats</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories/ipad-and-phone-cases">iPad &amp; Phone Cases</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories/jewellery">Jewellery</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories/keyrings">Keyrings</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories/scarves">Scarves</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories/socks">Socks</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories/stationery">Stationery</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories/watches">Watches</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories/umbrellas">Umbrellas</a></li>
+            <li><a href="http://www.paulsmith.co.uk/us-en/shop/womens/accessories/accessories-other">Other Gifts</a></li>
+        </ul>
+    </div>
+</div></li>    </ul>
+</nav>
+<!--/{TOPMENU_142a1512a71c90ee9814e9dc5cc803ec}-->    </section>
 
-	<div class="grid c30 grid-spacer"></div>
-	
-	<div class="grid c730">
+    <section id="switches">
+        <ul id="breadcrumbs">
+		<li id="breadcrumb-title">You are here :</li>
+                    <li class="home">
+                            <a href="http://www.paulsmith.co.uk/us-en/shop/" title="Go to Home Page">Home</a>
+                        </li>
+                    <li class="0">
+                            <a href="http://www.paulsmith.co.uk/shop" title="">Shop Online</a>
+                        </li>
+                    <li class="cms_page">
+                            <span class="last">Privacy Policy</span>
+                        </li>
+        </ul>
+                
 
-		<h1 class="title-t10n">Privacy Policy</h1>
-		
-				
-		
-		<!-- <h1>Privacy Policy</h1> -->
-		
-				
-		<div class="clear">
-			<div class="grid c540 article">
-								
-				<div class="content">
-					<p><a name="top"></a> <br>Paul Smith has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site: www.paulsmith.co.uk</p><p>Paul Smith is registered under the UK Data Protection Act 1998 with number Z6563397.</p><p>Paul Smith is the trading name and trade mark of Paul Smith Ltd.</p><p>Any information that you provide to us will be stored and processed in accordance with the Data Protection Act 1998.</p><p>We will hold and transmit your information in a safe, confidential and secure environment.</p><p>We will not sell or rent your personal information to third parties except as described under the heading “your data” below or in our Privacy Policy. If you object to your Information being transferred or used in this way please do not register.</p><h2>Your DATA</h2><p>When becoming a new customer you agree to our terms and conditions and privacy policy. The information you provide shall be held and may be used by Paul Smith Ltd and disclosed to associated companies of Paul Smith for the following purposes:</p><p>informing you about forthcoming events organized by or on behalf of Paul Smith telling you about products, services and offers available from Paul Smith and operating and administering such products, services and offers; processing of applications for, and administering membership of, this website; providing you with updates and information about Paul Smith; and helping Paul Smith Ltd through analysis and assessment to better understand and develop our business, including new and innovative products and services.</p><p>If agreed by you, Paul Smith may also pass your information to credit reference and fraud prevention agencies, which may keep a record of that information.</p><p>Communication between Paul Smith and you may be by letter, phone, fax and/or e-mail or other electronic means.</p><p>IMPORTANT: By registering with Paul Smith and/or using this website you consent to Paul Smith using your data in this way.</p><h2>Shopping</h2><p>When becoming a new customer online with Paul Smith or purchasing goods on line we record your Internet IP address for our records for reference to any fraudulent payment transactions.</p><h2>Cookies</h2><p>We use session based cookies to help you maintain your shopping basket and any details you submit during your visit. We do not store permanent cookies on your computer, and you will need to sign in with your registered user name and password each time you wish to purchase goods from the website.</p><h2>New Customer Forms</h2><p>Our websites new customer form requires users to give us contact information (like their name, email, postal address).</p><p>Contact information from this form is used to supply information about the Paul Smith group to you at a later date.</p><p>Users may opt-in to receive future mailings from us via email and post. You can change these options within your profile at a later date under "my account".</p><h2>Security</h2><p>This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.</p><h2>Data Quality/Access</h2><p>This site gives users the following options for changing and modifying information previously provided once signed in, though the "my account" section.</p><h2>Contacting the Web Site</h2><p>If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact eshop@paulsmith.co.uk </p><h2>Cookies explained</h2><h3>What is a cookie?</h3><p>Cookies are small text files that are sent by websites that you visit to recognise who you are when you return there. There files are stored on your computer’s hard drive, and are read by your web browser.</p><h3>How are cookies used?</h3><p>Cookies perform several functions, such as remembering who you are on a particular site (your welcome message), to keeping you signed in to your account screen on an ecommerce site (however, you should always sign out if you are using a public computer). Advertising agencies also use cookies to find out if they have served you an advert from a particular brand on a site, or if you have seen a particular advert before. Website owners will use cookies to follow which pages that you’ve read so that they can see what parts of the site are popular or not. In short, cookies are a way of providing statistics on site visits as well as some limited functionality that makes your site visit easier. When used properly cookies are an asset to a site visitor and a site owner. They are not viruses, but some unscrupulous outfits will use them maliciously – we follow best practice for cookie use.</p><p>A list of all the cookies used on this website by us, and our technology partners can be found in our <a href="/cookie-listing.html">cookies list</a>.</p><h3>Flash cookies?</h3><p>Adobe uses a particular type of cookie called a ‘Local Shared Object’, which is typically collected if you watch a video for example that uses the Adobe Flash media player, i.e. an embedded YouTube video on a page that is being played via Flash. Please note that these types of cookie will not be found on iPads, which do not support Flash. <br>Have a look at Adobe's website if you want to control Flash cookies on your computer. If you’ve got a Firefox browser you can also get an add-on to detect and delete Flash cookies.</p><h3>Opting out of cookies?</h3><p>There are a number of options available so that you do not have to store any cookies at all. You can either set your browser so that it will not accept and store any cookie, or if you have a little more time and knowledge you are able to allow only certain ‘trusted’ sites to store cookies on your computer. These sites may include us (of course!), or the site where you carry out your online banking, or possibly your favourite news service.</p><p>It’s worth bearing in mind that if you decide to delete all of your cookies, then you will likely have to re-enter all of your usernames and passwords on all of the sites that you visit, which you previously didn’t even have to think about. As we mentioned before, cookies can be a real asset to your web surfing experience.</p><p>The Information Commissioner’s Office (http://www.ico.gov.uk/) provides some advice about cookies and their use, but it also provides a link to ‘About cookies’ (www.aboutcookies.org) which is run by the law firm Pinsent Masons. This website provides even more information about cookies if you feel that this page and the ICO is not enough information for you, but it also details how you might delete any cookies that you find, and it also shows you how to allow those trusted sites to store their cookies on your computer.</p><h3>What is a web beacon?</h3><p>Web beacons are also sometimes referred to as ‘web bugs’ and are small single pixel transparent image files. They allow website owners to know when a visitor has reached their website, and are used in conjunction with cookies to allow further website tracking to be monitored. Again, these files are not viruses, but are useful in helping us to make your web surfing experience better.</p><h3>Our main technology partners</h3><p>We work with the following companies in maintaining and improving our website, and they must all satisfy the data protection requirements. If you have any more questions, please do contact us and we’ll be happy to help.</p><h3>the OTHER media Limited</h3><p>the OTHER media provide build and hosting services to Paul Smith and help us to maintain the software that runs our website. They provide us with reporting statistics where required, and will serve cookies on our behalf to enable any site personalisation and sign in functionality.</p><p><a href="#top">Return to top of page</a></p>
-				</div>
-				
+<div class="switch switcher-store">
+    <ul>
+                <li>
+            <a onclick="confirmStoreSwitch(this.rel);" title="UK pounds (GBP)" class="UK modal-link" href="#currency-change" rel="http://www.paulsmith.co.uk/uk-en/shop/information/privacy-policy.html">UK</a>
+        </li>
+                <li>
+            <a onclick="confirmStoreSwitch(this.rel);" title="Euro currency (EUR)" class="EU modal-link" href="#currency-change" rel="http://www.paulsmith.co.uk/eu-en/shop/information/privacy-policy.html">EU</a>
+        </li>
+                <li class="current">
+            <a onclick="confirmStoreSwitch(this.rel);" title="US Dollar currency (USD)" class="US modal-link" href="#currency-change" rel="http://www.paulsmith.co.uk/us-en/shop/information/privacy-policy.html">US</a>
+        </li>
+                <li>
+            <a onclick="confirmStoreSwitch(this.rel);" title="AUS Dollar currency (AUD)" class="AU modal-link" href="#currency-change" rel="http://www.paulsmith.co.uk/au-en/shop/information/privacy-policy.html">AU</a>
+        </li>
+                <li><a class="japan" href="http://www.paulsmith.co.jp/" title="Paul Smith Japan Website">Paul Smith Japan Website</a></li>
+    </ul>
+</div>
+<div id="currency-change" style="display: none;">
+    <h3>Would you like to change store?</h3>
+<p>Please note by changing store you will be charged by the price list associated with that store and NOT by any conversion rate. The contents of your basket will be lost and you may only be able to deliver to certain countries.</p>    <a class="button-link" href="#" id="store-change-yes">Continue</a>
+    <a class="button-link" href="#" id="store-change-no">Cancel</a>
+</div>
+<script type="text/javascript">
+    function confirmStoreSwitch(url)
+    {
+        jQuery('#store-change-yes').attr('href', url);
+    }
+</script>
+    </section>
 
-								
-	
-								
-							
+    </header>
+<!--{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}--><!--/{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}-->        
+	<div id="main" class="col2-left-layout">
+        <div class="col-main">
+                <div class="page-title">
+        <h1>Paul Smith Privacy Policy</h1>
+    </div>
+<div class="std"><!--{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><!--/{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><p>Paul Smith has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site: www.paulsmith.co.uk</p><p>Paul Smith is registered under the UK Data Protection Act 1998 with number Z6563397.</p><p>Registered Office: The Poplars, Lenton Lane, Nottingham, NG7 2PW, England. +44 (0) 115 968 5821. Email: customerservices@paulsmith.co.uk</p><p>Paul Smith is the trading name and trade mark of Paul Smith Ltd.</p><p>Any information that you provide to us will be stored and processed in accordance with the Data Protection Act 1998.</p><p>We will hold and transmit your information in a safe, confidential and secure environment.</p><p>We will not sell or rent your personal information to third parties except as described under the heading “your data” below or in our Privacy Policy. If you object to your Information being transferred or used in this way please do not register.</p><h2>Your Data</h2><p>When becoming a new customer you agree to our terms and conditions and privacy policy. The information you provide shall be held and may be used by Paul Smith Ltd and disclosed to associated companies of Paul Smith for the following purposes:</p><p> -  informing you about forthcoming events organized by or on behalf of Paul Smith; </p><p> -  telling you about products, services and offers available from Paul Smith; </p><p>-  operating and administering such products, services and offers; </p><p> -  operating and administering such products, services and offers; </p><p> -  processing of applications for, and administering membership of, this website; </p><p> -  providing you with updates and information about Paul Smith;</p><p> -  helping Paul Smith Ltd through analysis and assessment to better understand and develop our business, including new and innovative products and services.</p><p>Paul Smith may also pass your information to credit reference and fraud prevention agencies, which may keep a record of that information.</p><p>We may share your information with selected third parties including:</p><p>  -  Business partners, suppliers and sub-contractors for the performance of any contract we enter into with you.</p><p>  -	  Advertisers, affiliate marketing agencies and advertising networks that require the data to select and serve relevant adverts to you and others (where you have consented to this happening). </p><p>  -   Analytics and search engine providers that assist us in the improvement and optimisation of our site.</p><p> -	build and hosting services providers that help us to maintain the software that runs our website. They provide us with reporting statistics where required, and will serve cookies on our behalf to enable any site personalisation and sign in functionality.</p><p> -	Build and hosting service providers that help us to maintain the software that runs our website. They provide us with reporting statistics where required, and will serve cookies on our behalf to enable any site personalisation and sign in functionality.</p><p> Communication between Paul Smith and you may be by letter, phone, fax and/or e-mail or other electronic means. IMPORTANT: By registering with Paul Smith and/or using this website you consent to Paul Smith using your data in this way.</p><h2>Shopping</h2><p>When becoming a new customer online with Paul Smith or purchasing goods on line we record your Internet IP address for our records for reference to any fraudulent payment transactions.</p><h2>Opting out of Email Updates from Paul Smith</h2><p>Paul Smith Ltd will periodically send you marketing emails only if you opt-in using the sign up forms online or in a Paul Smith shop. If you no longer wish to receive Email updates from Paul Smith you can unsubscribe by clicking on the link in the footer of the email or using the ‘unsubscribe from all’ link within the email preference centre accessible through the emails. Alternatively you can contact customers services on +44 (0) 115 968 5821 or email customerservices@paulsmith.co.uk  </p><h2>New Customer Forms</h2><p>Our websites new customer form requires users to give us contact information (like their name, email, postal address). Contact information from this form is used to supply information about the Paul Smith group to you at a later date. Users may opt-in to receive future mailings from us via email and post. You can change these options within your profile at a later date under "my account".</p><h2>Security</h2><p>This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.</p><h2>Data Quality/Access</h2><p>This site gives users the following options for changing and modifying information previously provided once signed in, though the "my account" section.</p><h2>Contacting the Web Site</h2><p>If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact customerservices@paulsmith.co.uk </p><h2>Web beacons</h2><p>Web beacons are also sometimes referred to as ‘web bugs’ and are small single pixel transparent image files. They allow website owners to know when a visitor has reached their website, and are used in conjunction with cookies to allow further website tracking to be monitored. Again, these files are not viruses, but are useful in helping us to make your web surfing experience better.  If you have any more questions, please do contact us and we’ll be happy to help.</p></div>        </div>
+        <div class="col-left sidebar">
+			<div class="block block-layered-nav">
+<div class="block-content">
+            <ul class="cms-menu"><li class="parent"><a href="http://www.paulsmith.co.uk/us-en/shop/information"><span>Information</span></a><ul><li><a href="http://www.paulsmith.co.uk/us-en/shop/information/contact-us.html"><span>Contact Us</span></a></li><li><a href="http://www.paulsmith.co.uk/us-en/shop/information/payment-methods.html"><span>Payment Methods</span></a></li><li><a href="http://www.paulsmith.co.uk/us-en/shop/information/delivery-information.html"><span>Delivery Information</span></a></li><li><a href="http://www.paulsmith.co.uk/us-en/shop/information/returns-and-exchanges.html"><span>Returns and Exchanges</span></a></li><li><a href="http://www.paulsmith.co.uk/us-en/shop/information/gift-wrapping.html"><span>Gift Wrapping</span></a></li><li><a href="http://www.paulsmith.co.uk/us-en/shop/information/price-match-guarantee.html"><span>Paul Smith Price Match</span></a></li><li><a href="http://www.paulsmith.co.uk/us-en/shop/information/online-security.html"><span>Online Security</span></a></li><li><a href="http://www.paulsmith.co.uk/us-en/shop/information/terms-and-conditions.html"><span>Terms and Conditions</span></a></li><li><strong>Privacy Policy</strong></li><li><a href="http://www.paulsmith.co.uk/us-en/shop/information/cookie-policy.html"><span>Cookie Policy</span></a></li><li><a href="http://www.paulsmith.co.uk/us-en/shop/information/cookie-listing.html"><span>Cookie Listing</span></a></li><li><a href="http://www.paulsmith.co.uk/us-en/shop/information/accessibility.html"><span>Accessibility</span></a></li><li><a href="http://www.paulsmith.co.uk/us-en/shop/information/counterfeiting.html"><span>Counterfeiting</span></a></li></ul></li></ul>    </div>
+</div>
+    </div>
+</div>
 
+<div id="page-bottom">
+    <section id="footer-links" class="clearfix">
+    <h2 class="visuallyhidden">Site Links and Contact Information</h2> 
+
+<nav> 
+    <h3>Customer Services</h3> 
+    <ul> 
+        <li><a href="http://www.paulsmith.co.uk/us-en/shop/information/contact-us.html">Contact Us</a></li>
+        <li><a href="http://www.paulsmith.co.uk/us-en/shop/information/delivery-information.html">Delivery</a></li> 
+        <li><a href="http://www.paulsmith.co.uk/us-en/shop/information/returns-and-exchanges.html">Returns and Exchanges</a></li> 
+        <li><a href="http://www.paulsmith.co.uk/us-en/shop/information/payment-methods.html">Payment Methods</a></li> 
+        <li><a href="http://www.paulsmith.co.uk/us-en/shop/information/terms-and-conditions.html">Terms and Conditions</a></li> 
+        <li><a href="http://www.paulsmith.co.uk/us-en/shop/information/price-match-guarantee.html">Paul Smith Price Match</a></li> 
+        <li><a href="http://www.paulsmith.co.uk/us-en/shop/information/privacy-policy.html">Privacy Policy</a></li> 
+        <li><a href="http://www.paulsmith.co.uk/us-en/shop/information/cookie-listing.html">Cookies Listing</a></li> 
+        <li><a id="switch-to-mobile-site" href="#" style="display: none">Mobile Site</a></li> 
+    </ul> 
+</nav> 
+
+<nav> 
+    <h3>Your Paul Smith</h3> 
+    <ul> 
+        <li><a href="http://www.paulsmith.co.uk/us-en/shop/customer/account">My Account</a></li> 
+        <li><a href="http://www.paulsmith.co.uk/us-en/shop/wishlist">Wish List</a></li> 
+        <li><a href="http://www.paulsmith.co.uk/us-en/shop/information/gift-wrapping.html">Gift Wrap Service</a></li> 
+        <li><a href="http://www.paulsmith.co.uk/us-en/shop/gift-vouchers">E-Vouchers</a></li> 
+        <li><a href="http://www.paulsmith.co.uk/us-en/shop/gift-card/index.html">Gift card</a></li>
+        <li><a href="http://www.paulsmith.co.uk/us-en/shop/information/online-security.html">Online Security</a></li> 
+    </ul> 
+</nav> 
+
+<nav> 
+    <h3>About Paul Smith </h3> 
+    <ul> 
+        <li><a href="http://www.paulsmith.co.uk/us-en/information/company">Company History</a></li> 
+        <li><a href="http://www.paulsmith.co.uk/us-en/paul-smith-world/">Paul Smith Blog</a></li> 
+        <li><a href="http://www.paulsmith.co.uk/us-en/paul-smith-world/">Paul Smith World</a></li> 
+        <li><a href="http://www.paulsmith.co.uk/us-en/shop-locator/">Shop Locator</a></li> 
+        <li><a href="http://www.paulsmith.co.uk/us-en/shop/information/counterfeiting.html">Counterfeiting</a></li>
+        <li><a href="http://www.paulsmith.co.uk/us-en/information/careers/">Careers</a></li> 
+        <li><a href="http://www.paulsmith.co.uk/us-en/shop/site-map">Site Map</a></li> 
+    </ul> 
+</nav>             <nav class="last">
+            
+<h3>Sign Up for Our Email Updates:</h3>
+
+<form action="http://preferencecentre.paulsmith.co.uk/uk-en/newsletter" method="GET" id="newsletter-validate-detail">
+	<p class="clearfix">
+		<label for="emailField">Enter email</label>
+		<input id="emailField" name="email" class="text required-entry validate-email" placeholder="Enter email" type="text" value="">
+		<input id="emailButton" class="submit" type="submit" title="Subscribe" value="Sign up">
+	</p>
+</form>
 
 <script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>															</div>
-			
-			<div class="grid c30 grid-spacer"></div>
-			
-			<div class="grid c160">
-				<p><a class="new-window print-this-page" href="" onclick="window.print()">Print this page</a></p>
-				
-																				
-							
+    var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+</script>
+        </nav>
+    </section>
+    <footer id="main-footer" class="clearfix"> 
+<nav> 
+<p id="copyright">© 2014 Paul Smith.</p> 
+<ul class="horizontal-list clear"> 
+<li class="first"><a href="http://www.paulsmith.co.uk/us-en/shop/information/terms-and-conditions.html">Terms &amp; Conditions</a></li> 
+<li><a href="http://www.paulsmith.co.uk/us-en/shop/information/privacy-policy.html">Privacy Policy</a></li> 
+<li><a href="http://www.paulsmith.co.uk/us-en/shop/information/accessibility.html">Accessibility</a></li> 
+<li><a href="http://www.paulsmith.co.uk/us-en/shop/site-map">Site Map</a></li> 
+<li><a href="/careers/">Careers</a></li> 
+</ul> 
+<div class="widget widget-static-block"><div id="social-links"> 
+<a href="http://preferencecentre.paulsmith.co.uk/uk-en/newsletter" title="Newsletter"><span class="newsletter"></span></a> 
+<a href="http://www.facebook.com/paulsmithdesign" target="_blank"><span class="facebook">facebook1</span></a> 
+<a href="http://twitter.com/PaulSmithDesign" target="_blank"><span class="twitter">twitter</span></a> 
+<a href="http://www.youtube.com/user/PaulSmithDesigner" target="_blank"><span class="youtube">youtube</span></a> 
+<a href="http://instagram.com/paulsmithdesign" target="_blank"><span class="instagram">instagram</span></a> 
+<a class="hide-for-mobile" href="http://pinterest.com/paulsmithdesign/" target="_blank"><span class="pinterest">pinterest</span></a> 
+<a class="hide-for-mobile" href="http://plus.google.com/116431991021431205365/posts" target="_blank"><span class="googleplus">googleplus</span></a> 
+</div> </div>
 
-					
-												
-								
-	
-			</div>
-		</div>
-	</div>
+</nav> 
+</footer>    </div>
+
+<!--{WISHLISTS_93578605da2b35a195e1065ea1d00dad}--><!--/{WISHLISTS_93578605da2b35a195e1065ea1d00dad}-->    <script type="text/javascript">
+try {var __scP=(document.location.protocol=="https:")?"https://":"http://";
+var __scS=document.createElement("script");__scS.type="text/javascript";
+__scS.src=__scP+"app.salecycle.com/capture/paulsmith.js?ver=1";
+
+document.getElementsByTagName("head")[0].appendChild(__scS);}catch(e){}
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1067273172;
+var google_conversion_label = "akosCOSy8QMQ1Jf1_AM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1067273172/?value=0&amp;label=akosCOSy8QMQ1Jf1_AM&amp;guid=ON&amp;script=0"/>
 </div>
-			</div>
-		</div>
-    </div>
+</noscript>
 
-    <div id="ft">
-					
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/5370.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
 
 
-
-
-<div id="nav-quicklinks">
-	<h2 class="assistive-text">Quick Links</h2>
-    <div id="footer-links" class="clear">
-    	<div class="grid grid-spacer c25"></div>
-        		<div class="grid c150">
-		<h3>Customer Services</h3>
-		<ul class="navlist">
-							<li><a href="/shop/contact-us,39,PAR.html">Contact Us</a></li>
-							<li><a href="/shop/returns-and-exchanges,256,PAR.html">Returns and Exchanges</a></li>
-							<li><a href="/shop/payment-methods,257,PAR.html">Payment Methods</a></li>
-							<li><a href="/shop/delivery-charges-and-lead-times,258,PAR.html">Delivery</a></li>
-							<li><a href="/shop/paul-smith-price-match,397,PAR.html">Price Match Guarantee</a></li>
-							<li><a href="/information/terms-and-conditions,310,PAR.html">Terms and Conditions</a></li>
-							<li><a href="/shop/last-shipping-dates-for-christmas,464,PAR.html">Christmas Delivery Dates</a></li>
-					</ul>
-	</div>
-	    	<div class="grid grid-spacer c90"></div>
-        		<div class="grid c150">
-		<h3>Your Paul Smith </h3>
-		<ul class="navlist">
-							<li><a href="/my-account/">My Account</a></li>
-							<li><a href="/my-account/wishlist.html">Wish List</a></li>
-							<li><a href="/shop/do-you-offer-gift-wrapping,261,PAR.html">Gift Wrap Service</a></li>
-							<li><a href="/shop/paul-smith-gifts-420/e-vouchers-e-voucher/product.html">E-Vouchers</a></li>
-							<li><a href="/gift-card/">Gift card</a></li>
-							<li><a href="/shop/is-the-checkout-secure,259,PAR.html">Online Security</a></li>
-							<li><a href="/shop/christmas-at-paul-smith,463,PAR.html">Christmas at Paul Smith Online</a></li>
-					</ul>
-	</div>
-	    	<div class="grid grid-spacer c90"></div>
-        		<div class="grid c150">
-		<h3>About Paul Smith </h3>
-		<ul class="navlist">
-							<li><a href="/company/">Company History</a></li>
-							<li><a href="/paul-smith-blog/">Paul Smith Blog</a></li>
-							<li><a href="/paul-smith-world/">Paul Smith World</a></li>
-							<li><a href="/shop-locator/">Shop Locator</a></li>
-							<li><a href="/information/counterfeiting,329,PAR.html">Counterfeiting</a></li>
-							<li><a href="/careers/">Careers</a></li>
-							<li><a href="/site-map.html">Site Map</a></li>
-					</ul>
-	</div>
-	
-			<div class="grid grid-spacer c20"></div>
-			<div class="grid c245">
-    			<h3>Email Updates</h3>
-            	        		<form class="newsletterform" id="newsletterForm" action="https://www.paulsmith.co.uk/newsletter/subscribe.html" method="POST">
-            		<p class="clear">
-                		<label title="Email" class="email-label" for="emailField">Enter email</label>
-                		<input id="emailField" name="email" class="text" type="text" value="">
-                		<input id="emailButton" class="submit" type="submit" value="Sign up">
-            		</p>
-        		</form> 
-			</div>
-			<script type="text/javascript">
-			    require('labelInField', function() {
-			        labelInField('\#emailField');
-                });
-			</script>
-				            	
-    </div> 
-</div>
-	    				<div id="nav-footer" class="clear">
-	<p class="copyright">©2011 Paul Smith</p>
-	
-	<ul class="navigation clear">
-		<li class="first"><a href="/information/terms-and-conditions/">Terms &amp; Conditions</a></li>
-		<li><a href="/information/privacy-policy/">Privacy</a></li>
-		<li><a href="/information/accessibility/">Accessibility</a></li>
-		<li><a href="/site-map.html">Site Map</a></li>
-		<li><a href="/careers/">Careers</a></li>
-	</ul>
-</div>
-	    </div>
-    
-    
-
-    
-        </body></html>
+<script type="text/javascript" src="//befittd.com/plugin/befittd-widget.js"></script><script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"7cb9875ff1","applicationID":"2515182","transactionName":"YANUYBcAXkFSVBVQCllJdUEWFV9fHFQMSkpHB1FRShdZV0Q=","queueTime":0,"applicationTime":719,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-356.min.js"}</script>
+</div><script src="https://js-agent.newrelic.com/nr-356.min.js"></script></body></html>
