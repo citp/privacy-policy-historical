@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightnetwork.co.uk privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123041741id_/http%3A//www.brightnetwork.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightnetwork.co.uk privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522131457id_/http%3A//www.brightnetwork.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Bright Network - Privacy Policy
 
@@ -44,7 +44,7 @@ If we sell or transfer Bright Network to another company we may transfer all of 
 
 #### Right to request information
 
-You may request details of personal information which we hold about you. If you would like a copy of the information held on you, please write to: Bright Network 13-14 New Bond Street London W1S 3SX 
+You may request details of personal information which we hold about you. If you would like a copy of the information held on you, please write to: Bright Network Goldsmiths House 137 - 141 Regent Street London W1B 4HZ 
 
 #### Security
 
