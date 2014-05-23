@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the trademotion.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126222935id_/http%3A//www.trademotion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trademotion.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523073650id_/http%3A//www.trademotion.com/privacy-policy) for the most accurate reproduction.*
 
-# TradeMotion.com | Privacy Policy - TradeMotion.com
+# Privacy Policy - TradeMotion.com
 
 **[](http://www.trademotion.com/)**
 
 You are here: [Home](http://cdn.trademotion.com/ "TradeMotion.com") / Privacy Policy
 
-### (This Statement is effective as of October 01, 2012)
+### Effective Date: 01/30/2014
 
-Your privacy is important to TradeMotion, LLC (“TradeMotion”); maintaining your trust is paramount to us. This Statement details the information practices for TradeMotion’s and our affiliates’ Web sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared.
+Your privacy is important to TradeMotion, LLC (“TradeMotion”); maintaining your trust is paramount to us. This Statement details the information practices for TradeMotion’s (www.trademotion.com) and our affiliates’ Web sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared.
 
-This Statement applies to TradeMotion Web sites that link to this Statement but does not apply to TradeMotion or TradeMotion-affiliated Websites that have their own Privacy Statement. Additionally, it does not apply to instances where we merely process data on behalf of clients for their benefit, such as when we act as a web hosting service provider.
-
-From time to time, we may supplement this Statement with additional information relating to a particular interaction we have with you.
+This Statement applies to TradeMotion Web sites that link to this Statement but does not apply to TradeMotion or TradeMotion-affiliated Websites that have their own Privacy Statement. Additionally, it does not apply to instances where we merely process data on behalf of clients for their benefit, such as when we act as a web hosting service provider. From time to time, we may supplement this Statement with additional information relating to a particular interaction we have with you.
 
   * Collection of Personal Information
   * Use of Personal Information
@@ -26,7 +24,7 @@ From time to time, we may supplement this Statement with additional information 
 
 
 
-You may choose to give us personal information directly in a variety of circumstances. For example, you may want to give us your name and contact information to communicate with you, to process an order, to provide you with a subscription or a service, or to do business with us if you are a supplier or a business partner. You may also provide your credit card details to buy something from us or may share a description of your education and work experience in connection with a job opening at TradeMotion for which you wish to be considered. If you tell us that you do not want us to use your information to make further contact with you beyond fulfilling your request, we will respect your request.
+You may choose to give us personal information directly in a variety of circumstances. For example, you may want to give us your name and contact information to communicate with you, to process an order, to provide you with a subscription or a service, or to do business with us if you are a supplier or a business partner. If you tell us that you do not want us to use your information to make further contact with you beyond fulfilling your request, we will respect your request.
 
 We may also collect information relating to your use of our Web sites through the use of various technologies. For example, when you visit our Web sites, we may log certain information that your browser sends us, such as your IP address, browser type and language, access time, and referring Web site addresses. We may also collect information about the pages you view within our sites and other actions you take while visiting us. In addition, we may also use such technologies to determine whether you’ve opened an e-mail or clicked on a link contained in an e-mail. Collecting information in this manner allows us to collect statistics about our Web sites usage and effectiveness and personalize your experience while you are on our Web sites, as well as tailor our interactions with you. For details regarding the technologies we employ, see “Cookies, Web Beacon and Other Technologies” below.
 
@@ -34,9 +32,11 @@ From time to time, we may also collect information that pertains to you indirect
 
 The information that we collect, either directly or indirectly, may be combined to help us improve its overall accuracy and completeness and to help us better tailor our interactions with you.
 
+The information that we collect, either directly or indirectly, may be combined to help us improve its overall accuracy and completeness and to help us better tailor our interactions with you.
+
 The following paragraphs describe in more detail how TradeMotion may use your personal information.
 
-### Fulfilling your Transaction Request
+###  Fulfilling your Transaction Request
 
 If you request something from TradeMotion, for example, a product or service, a callback, or specific marketing materials, we will use the information you provide to fulfill your request. To help us do this, we may share information with others, for instance, TradeMotion’s business partners, financial institutions, shipping companies, or postal or government authorities, such as Customs authorities, involved in fulfillment. In connection with a transaction, we may also contact you as part of our customer satisfaction surveys or for market research purposes.
 
@@ -58,23 +58,9 @@ The information you provide to TradeMotion, as well as the information we have c
 
 Some of our offerings may be co-branded, that is sponsored by both TradeMotion and third parties. If you sign up for these offerings, be aware that your information may also be collected by and shared with those third parties. We encourage you to familiarize yourself with their privacy policies to gain an understanding of the manner in which they will handle information about you.
 
-If you choose to “Email This Page” to a friend or colleague, we will ask for their name and e-mail address. We will automatically send a one-time e-mail sharing the page you indicated, but will not use that information for other purposes.
-
-### Recruitment
-
-In connection with a job application or inquiry, whether advertised on an TradeMotion Web site or otherwise, you may provide us with information about yourself, such as a resume. We may use this information throughout TradeMotion in order to address your inquiry or consider you for employment purposes. Unless you tell us not to do so, we may keep the information for future consideration.
-
 ### Monitoring or Recording of Calls, Chats and Other Interactions
 
 Certain online transactions may involve you calling us or us calling you. They may also involve online chats. Please be aware that it is TradeMotion’s general practice to monitor and in some cases record such interactions for staff training or quality assurance purposes or to retain evidence of a particular transaction or interaction.
-
-### Use of Information in the Social Computing Environment
-
-TradeMotion provides social computing tools on some of its Web sites to enable online sharing and collaboration among members who have registered to use them. These include forums, wikis, blogs and other social media platforms.
-
-When registering to use these tools, you will be asked to provide certain personal information. Registration information that is not automatically made available to other participants as part of your profile will be subject to and protected in accordance with this Privacy Statement.
-
-Any other content you post, such as pictures, information, opinions, or any other type of personal information that you make available to other participants on these social platforms, is not subject to this Privacy Statement. Rather, such content is subject to the Terms of Use of those platforms, and any additional guidelines and privacy information provided in relation to their use, as well as the process by which you can remove your content from such tools or get help to do so. Please refer to them to better understand yours, TradeMotion’s, and other parties’ rights and obligations with regard to such content. You should be aware that the content you post on any such social computing platforms may be made broadly available to others inside and outside TradeMotion.
 
 ### Protect the Rights and Property of TradeMotion and Others
 
@@ -82,11 +68,11 @@ We may also use or share your information to protect the rights or property of T
 
 ### Information for Business Partners
 
-If you represent an TradeMotion business partner, you may visit TradeMotion Web sites intended specifically for TradeMotion business partners. We may use information provided on that site to administer and develop our business relationship with you, the business partner you represent, and TradeMotion business partners generally. For instance, this may involve using your information to send you details of TradeMotion business partner programs. It may also include sharing certain information with other business partners (subject to any confidentiality obligations that may exist), or TradeMotion customers or prospects. In connection with a particular transaction or program, we may also contact you as part of customer satisfaction surveys or for market research purposes.
+If you represent a TradeMotion business partner, you may visit TradeMotion Web sites intended specifically for TradeMotion business partners. We may use information provided on that site to administer and develop our business relationship with you, the business partner you represent, and TradeMotion business partners generally. For instance, this may involve using your information to send you details of TradeMotion business partner programs. It may also include sharing certain information with other business partners (subject to any confidentiality obligations that may exist), or TradeMotion customers or prospects. In connection with a particular transaction or program, we may also contact you as part of customer satisfaction surveys or for market research purposes.
 
 ### Information for Suppliers
 
-If you represent an TradeMotion supplier, you may visit TradeMotion Web sites intended specifically for use by TradeMotion suppliers. We may use the information provided on that site in connection with entering into or performing a transaction with you. For example, this may include sharing information with other parts of TradeMotion, TradeMotion’s business partners, customers, shipping companies, financial institutions and postal or government authorities involved in fulfillment. It may also be used to administer and develop our relationship with you, the supplier you represent, and other TradeMotion suppliers generally.
+If you represent a TradeMotion supplier, you may visit TradeMotion Web sites intended specifically for use by TradeMotion suppliers. We may use the information provided on that site in connection with entering into or performing a transaction with you. For example, this may include sharing information with other parts of TradeMotion, TradeMotion’s business partners, customers, shipping companies, financial institutions and postal or government authorities involved in fulfillment. It may also be used to administer and develop our relationship with you, the supplier you represent, and other TradeMotion suppliers generally.
 
 TradeMotion is a global organization with business processes, management structures and technical systems that cross borders. As such, we may share information about you within TradeMotion and transfer it to countries in the world where we do business in connection with the uses identified above and in accordance with this Privacy Statement. Our Privacy Statement and our practices are designed to provide a globally consistent level of protection for personal information all over the world. This means that even in countries whose laws provide for less protection for your information, TradeMotion will still handle your information in the manner described here.
 
@@ -98,11 +84,11 @@ Circumstances may arise where, whether for strategic or other business reasons, 
 
 Please be aware that in certain circumstances, personal information may be subject to disclosure to government agencies pursuant to judicial proceeding, court order, or legal process. We may also share your information to protect the rights or property of TradeMotion, our business partners, suppliers or clients, and others when we have reasonable grounds to believe that such rights or property have been or could be affected.
 
-We intend to protect your personal information and to maintain its accuracy. TradeMotion implements reasonable physical, administrative and technical safeguards to help us protect your personal information from unauthorized access, use and disclosure. For example, we encrypt certain sensitive personal information such as credit card information when we transmit such information over the Internet. We also require that our suppliers protect such information from unauthorized access, use and disclosure.
+We intend to protect your personal information and to maintain its accuracy. TradeMotion implements reasonable physical, administrative and technical safeguards to help us protect your personal information from unauthorized access, use and disclosure. For example, we encrypt certain sensitive personal information such as credit card information when we transmit such information over the Internet. We also require that our suppliers protect such information from unauthorized access, use and disclosure. If you have any questions regarding security please contact us at [info@TradeMotion.com](mailto:info@trademotion.com). 
 
 ### Retention
 
-We will retain your registration information for as long as your account is active or as needed to provide you services. If you wish to request that we no longer use your registration information to provide you services contact us at [info@TradeMotion.com.](mailto:info@TradeMotion.com) We will retain and use your registration information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your registration information for as long as your account is active or as needed to provide you services. If you wish to request that we no longer use your registration information to provide you services or if you would like to request the updating or deletion of your personal information, contact us at [info@TradeMotion.com](mailto:info@trademotion.com). We will retain and use your registration information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 As mentioned above, we collect information from your visits to our Web sites to help us gather statistics about our Web sites usage and effectiveness, personalize your experience on our sites, and tailor our interactions with you.
 
@@ -114,9 +100,11 @@ We may also include Web beacons in marketing e-mail messages or our newsletters 
 
 Some of our business partners set Web beacons and cookies on our site. In addition third-party social media buttons may log certain information such as your IP address, browser type and language, access time, and referring Web site addresses, and, if you are logged in to those social media sites, they may also link such collected information with your profile information on that site. We do not control these third party tracking technologies.
 
-TradeMotion does not deliver third party online advertisements on our Web sites but we advertise our products and services on others’ Web sites. We may collaborate with Web site operators as well as network advertisers to do so. Please familiarize yourself with those Web site operators’ or network advertisers’ privacy policies to understand their practices relating to advertising, including what type of information they may collect about your Internet usage. TradeMotion does not provide any information relating to your usage of TradeMotion Web sites to Web site operators or network advertisers.
+TradeMotion does not deliver third party online advertisements on our Web sites but we advertise our products and services on others’ Web sites. We may collaborate with Web site operators as well as network advertisers to do so. Please familiarize yourself with those Web site operators’ or network advertisers’ privacy policies to understand their practices relating to advertising, including what type of information they may collect about your Internet usage. TradeMotion does not provide any information relating to your usage of TradeMotion Web sites to Web site operators or network advertisers. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](http://preferences.truste.com/). Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
 
 To allow you to interact with other Web sites on which you may have accounts (such as Facebook and other social media sites) or join communities on such sites, we may provide links or embed third-party applications that allow you to login, post content or join communities from our Web sites.
+
+These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. In addition, they are either hosted by a third party or hosted directly on our site. 
 
 We may also provide you with general links to non-TradeMotion Web sites.
 
@@ -126,20 +114,18 @@ TradeMotion is not responsible for the privacy practices or the content of those
 
 We will post a notice for 30 days at the top of this page notifying users when this Privacy Statement is updated or modified in a material way. If we are going to use your personal information in a manner different from that stated at the time of collection, we will notify you, and you will have a choice as to whether or not we can use your personal information in such a way.
 
-If you have a question about this Privacy Statement or TradeMotion’s handling of your information, you can send an email to the TradeMotion Web site coordinator at [info@TradeMotion.com](mailto:info@TradeMotion.com). You can also contact us at:
+If you have a question about this Privacy Statement or TradeMotion’s handling of your information, you can send an email to the TradeMotion Web site coordinator at [info@TradeMotion.com](mailto:info@trademotion.com). You can also contact us at:
 
-### TradeMotion’s Corporate Privacy Office:
-
+**TradeMotion’s Corporate Privacy Office:**  
 2190 Carmel Valley Rd. Suite D  
 Del Mar, CA 92014
 
-In certain cases, you may have the ability to view or edit your personal information online. In the event your information is not accessible online, and you wish to obtain a copy of particular information you provided to TradeMotion, or if you become aware the information is incorrect and you would like us to correct it, [Contact Us.](http://cdn.trademotion.com/contact/)
+In certain cases, you may have the ability to view or edit your personal information online. In the event your information is not accessible online, and you wish to obtain a copy of particular information you provided to TradeMotion, or if you become aware the information is incorrect and you would like us to correct it, Contact Us.
 
 Before TradeMotion is able to provide you with any information or correct any inaccuracies, however, we may ask you to verify your identity and to provide other details to help us to respond to your request. We will contact you within 30 days of your request.
 
-If you have questions or concerns regarding our Privacy Statement, please contact TradeMotion via the means provided on our website.
-
-If you no longer wish to receive marketing e-mails from TradeMotion, please send an e-mail to [info@TradeMotion.com](mailto:info@TradeMotion.com) or follow the unsubscribe instructions included in each marketing email.
+If you have questions or concerns regarding our Privacy Statement, please contact TradeMotion via the means provided on our website.  
+If you no longer wish to receive marketing e-mails from TradeMotion, please send an e-mail to [info@TradeMotion.com](mailto:info@trademotion.com) or follow the unsubscribe instructions included in each marketing email.
 
 ### Scope
 
@@ -165,24 +151,19 @@ The TradeMotion Online Privacy Statement applies to TradeMotion’s and our affi
 
 ### Your Choices
 
-  * When we collect information from you, you may tell us that you do not want it used for further marketing contact.
-  * You may also turn off cookies in your browser.
-
-
+When we collect information from you, you may tell us that you do not want it used for further marketing contact.  
+You may also turn off cookies in your browser.
 
 ### Important Information
 
 If you have any complaints regarding our compliance with our privacy policy or statement, you should first [Contact Us.](http://cdn.trademotion.com/contact/)
 
-To find out more about our privacy practices, see the TradeMotion Online Privacy Statement.
+To find out more about our privacy practices, see the [TradeMotion Online Privacy Statement](http://www.trademotion.com/privacy-policy/).
 
 Questions about this statement or about TradeMotion’s handling of your information may be sent to:
 
-### TradeMotion LLC
-
+TradeMotion LLC  
 2190 Carmel Valley Rd. Suite D  
 Del Mar, CA 92014
 
-If you do not want to receive future marketing communications from TradeMotion, including subscriptions, please send an email to [info@TradeMotion.com.](mailto:info@TradeMotion.com)
-
-
+If you do not want to receive future marketing communications from TradeMotion, including subscriptions, please send an email to [info@TradeMotion.com](mailto:info@trademotion.com).
