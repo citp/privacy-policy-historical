@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the beltkart.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112071514id_/http%3A//www.beltkart.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beltkart.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523051902id_/http%3A//www.beltkart.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **PRIVACY POLICY**
 
-BeltKart  is the operator and owner of [www.beltkart.com](http://www.beltkart.com/) (“ **Website** ”).
+BeltKart  is the operator and owner of [www.beltkart.com](http://www.beltkart.com/) (“ **Website** ”).
 
 The protection and security of your personal information is one of our top priorities. This Privacy Policy discloses BeltKartinformation practices for this website and subscriber / membership based services (“ **Services** ”) including the type of information being collected, method of such information collection, use of such information and sharing of such information with third parties.
 
