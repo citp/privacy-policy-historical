@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the nait.ca privacy policy that was archived on 2013-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131121011313id_/http%3A//www.nait.ca/privacypolicy.htm%3Futm_source%3Dnait%26utm_medium%3Dtemplate%26utm_campaign%3Dfooter%26utm_content%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nait.ca privacy policy that was archived on 2014-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140523195332id_/http%3A//www.nait.ca/privacypolicy.htm%3Futm_source%3Dnait%26utm_medium%3Dtemplate%26utm_campaign%3Dfooter%26utm_content%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js no-touch geolocation history boxshadow csscolumns cssgradients video audio" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" style=""><head><!-- PageID 47342 - published by Open Text Web Solutions 10.1 - 10.1.2.353 - 32528 -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="revisit-after" content="7 days">
-    <meta name="cms-PagePublishDate" content="11/19/2013 10:01:51 PM">
+    <meta name="cms-PagePublishDate" content="5/22/2014 10:01:18 PM">
     <meta name="cms-PageID" content="47342">
     <meta name="cms-PageGUID" content="F5D65E0C81C94CDC99C7187311599406">
     <meta name="cms-ProjectGUID" content="00780249D86D44CCBFDBE8E863156377">
@@ -155,7 +155,7 @@
                                 <!-- START SIDEBAR AREA -->
                                 <aside id="sidebar" class="block block-sidebar">
                                     
-                            <span id="GblBookflap_description"><section><h4>The Builders Issue</h4><p class="content-header-image"><a href="http://www.techlifemag.ca"><img src="http://www.nait.ca/Thumb-Techlife.jpg"></a></p><p>Bringing new ideas to business, food, sports and life in the city</p><ul><li><a href="http://www.techlifemag.ca">Check out the fall issue of techlife</a></li></ul></section></span>
+                            <span id="GblBookflap_description"><section><h4>Summer Courses!</h4><p class="content-header-image"><a href="http://www.nait.ca/static/summer/w/index.html"><img src="http://www.nait.ca/Thumb-SummerCourses.jpg"></a></p><p>NAIT can help you achieve success, your way, this summer.</p><ul><li><a href="http://www.nait.ca/static/summer/w/index.html">Check out our 230 Essential Choices</a></li></ul></section></span>
                                 <br>
                                 </aside>
                                 <!-- END SIDEBAR AREA -->
@@ -195,7 +195,9 @@
                     var whoIs = $("input[type='radio'][name='who-is']:checked").val();
                     var feedbackComment = $("#feedback-input textarea").val();
                     var feedbackPageID = '47342';
-                    saveFeedback( whoIs, feedbackComment, feedbackPageID )
+                    var email = $('#survey-form-body input[name="email"]').val();
+                    var userName = $('#survey-form-body input[name="userProfileName"]').val();
+                    saveFeedback( whoIs, feedbackComment, feedbackPageID, email, userName )
                     .done(function(){
                         $('#survey-form-body').html(
                             "<p style='color:#fff;'>Thank you for your feedback</p>"
@@ -245,16 +247,16 @@
                             <strong>Phone:</strong> <span itemprop="telephone"><a href="tel:+17804716248">780.471.6248</a></span><br>
                             <strong>Toll Free:</strong> <span itemprop="telephone"><a href="tel:+18773336248">1.877.333.6248</a></span><br>
                             <strong>Fax:</strong> <a href="tel:+17804718490">780.471.8490</a>
-                                                    </p>
+                        </p>
                     </div>
                     <!-- COLUMN -->
                     <div id="foot-block-2" class="block">
                         <h3>Contact Us</h3>
                         <p>For all prospective and current student inquiries:</p>
-                        <p>
-                            <strong>Phone:</strong> <a href="tel:+17804716248">780.471.6248</a><br>
-                            <strong>Toll Free:</strong> 1<a href="tel:+18773336248">.877.333.6248</a><br>
-                            <strong>Email:</strong> <a href="mailto:AskNAIT@nait.ca">AskNAIT@nait.ca</a><br>
+                        <p itemscope="" itemtype="http://schema.org/LocalBusiness">
+                            <strong>Phone:</strong> <span itemprop="telephone"><a href="tel:+17804716248">780.471.6248</a></span><br>
+                            <strong>Toll Free:</strong> <span itemprop="telephone"><a href="tel:+18773336248">1.877.333.6248</a></span><br>
+                            <strong>Email:</strong> <span itemprop="email"><a href="mailto:AskNAIT@nait.ca">AskNAIT@nait.ca</a></span><br>
                             <strong>Have a Question?</strong> <a href="http://ask.nait.ca/askNAIT/index.jsp?utm_source=nait&amp;utm_medium=template&amp;utm_campaign=footer&amp;utm_content=ask-nait">Ask NAIT</a>
                         </p>
                     </div>
