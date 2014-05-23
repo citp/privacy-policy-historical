@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the sciencecentral.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226002551id_/http%3A//www.sciencecentral.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencecentral.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523204011id_/http%3A//www.directoryofscience.com/privacypolicy) for the most accurate reproduction.*
 
-# Science Central - Privacy Statement
+# Directory of Science - Privacy Statement
 
   
-**Privacy Policy for ScienceCentral.com  
+**Privacy Policy for DirectoryOfScience.com  
  **
 
 We respect the privacy of all visitors to our website.
