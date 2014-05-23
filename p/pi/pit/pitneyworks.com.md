@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitneyworks.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124032203id_/http%3A//www.pb.com/legal/privacy-statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitneyworks.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523205952id_/http%3A//www.pb.com/legal/privacy-statement.shtml) for the most accurate reproduction.*
 
 # Privacy Statement - Creative Business Solutions | Pitney Bowes
 
