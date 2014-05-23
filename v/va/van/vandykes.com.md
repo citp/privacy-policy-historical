@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vandykes.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120084732id_/http%3A//www.vandykes.com/privacy-policy/a/2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vandykes.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524004649id_/http%3A//www.vandykes.com/privacy-policy/a/2) for the most accurate reproduction.*
 
 # Privacy Policy | Van Dyke's Restorers®
 
