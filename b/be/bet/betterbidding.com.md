@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the betterbidding.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923091250id_/http%3A//www.betterbidding.com/index.php%3Fapp%3Dccs%26module%3Dpages%26section%3Dpages%26id%3D47) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterbidding.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523065605id_/http%3A//www.betterbidding.com/index.php%3Fapp%3Dccs%26module%3Dpages%26section%3Dpages%26id%3D47) for the most accurate reproduction.*
 
 # Privacy Policy
-
-**For Full Access and To Remove This Box** **:**  
-_**(or scroll down to view the page you requested)**_ 1) ~~Register for free[HERE](http://www.betterbidding.com/index.php?app=core&module=global&section=register)~~  
-2) ~~Validate your account (check your email)~~  
-3) Read [YOUR MESSAGES](http://www.betterbidding.com/index.php?app=members&module=messaging)  
-Please Use the Links On The Board for your **[PRICELINE](http://www.betterbidding.com/clicks/click.php?afsrc=1&id=40)** and **[HOTWIRE](http://www.betterbidding.com/clicks/click.php?afsrc=1&id=33)** purchases
 
 ## Privacy Policy 
 
@@ -77,7 +71,7 @@ We may transfer the Information in our possession in connection with a sale of a
 
 By agreeing to our Terms of Use, you agree that, with respect to other users' personal Information that you obtain through the site or through a BetterBidding-related communication or BetterBidding-facilitated transaction, BetterBidding hereby grants to you a license to use such Information only for: (a) BetterBidding-related personal communications that are not unsolicited commercial messages, (b) using services offered through BetterBidding, and (c) any other purpose that a user expressly agrees to after you tell them the purpose you would like to use it for. In all cases, you must give users an opportunity to remove themselves from your systems and a chance to review what information you have collected about them. In addition, under no circumstances, except as defined in this paragraph, can you disclose personal information about another user to any third party without our consent and the consent of that user. You agree that other users may use your personal Information to communicate with you in accordance with this paragraph. 
 
-BetterBidding and our members do not tolerate spam. Therefore, without limiting the foregoing, you are not licensed to add a BetterBidding member to your mailing list (email, including the BetterBidding site�s messaging systems, or physical mail) without their express consent. To report BetterBidding related spam, please contact us using our legal form.
+BetterBidding and our members do not tolerate spam. Therefore, without limiting the foregoing, you are not licensed to add a BetterBidding member to your mailing list (email, including the BetterBidding site?s messaging systems, or physical mail) without their express consent. To report BetterBidding related spam, please contact us using our legal form.
 
 ## Security of Information
 
@@ -95,7 +89,7 @@ If BetterBidding learns of a security systems breach we may attempt to notify yo
 
 BetterBidding uses cookies to store visitors' preferences and to record session Information for purposes including: ensuring that visitors are not repeatedly offered the same advertisements; to customize advertising and Web page content based on browser type and user profile Information; to estimate and report our total audience size and traffic; and to conduct research to improve our content and services. We do not link the Information we store in cookies to any personally identifiable Information you submit while on our site. You may be able to configure your browser to accept or reject all or some cookies.
 
-We may use third party advertisers to display advertisements on some of our pages. These advertisers may use their own cookies and these are be subject to the advertiser�s own privacy policies, not the BetterBidding privacy policy. 
+We may use third party advertisers to display advertisements on some of our pages. These advertisers may use their own cookies and these are be subject to the advertiser?s own privacy policies, not the BetterBidding privacy policy. 
 
 BetterBidding may use various technical methods to research certain usage and activities on its and our website. The Information collected is used to find out more about our users; for more accurate reporting; and to improve the effectiveness of our marketing. No personally identifiable Information about you is shared by BetterBidding as a result of this research.
 
@@ -107,7 +101,7 @@ We at BetterBidding believe it essential that parents are involved in their chil
 
 ## Access to and Changing Information
 
-Once you become a member of BetterBidding, the Information you provide is stored in the site. You may access or change most of this Information at any time through your account�s control panel. 
+Once you become a member of BetterBidding, the Information you provide is stored in the site. You may access or change most of this Information at any time through your account?s control panel. 
 
 ## Notice of Modifications
 
