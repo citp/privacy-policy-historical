@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smashingbuzz.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122153016id_/http%3A//www.smashingbuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashingbuzz.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523060741id_/http%3A//www.smashingbuzz.com/privacy-policy) for the most accurate reproduction.*
 
 # Smashing Buzz | Privacy Policy
 
@@ -20,7 +20,7 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on smashingbuzz.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-smashingbuzz.com has no access to or control over these cookies that are used by third-party advertisers. You can however opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20131122153016id_/http://www.smashingbuzz.com/privacy-policy/www.networkadvertising.org/managing/opt_out.asp)
+smashingbuzz.com has no access to or control over these cookies that are used by third-party advertisers. You can however opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20140523060741id_/http://www.smashingbuzz.com/privacy-policy/www.networkadvertising.org/managing/opt_out.asp)
 
 You have the ability to accept or decline cookies. Most browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies. If you choose to decline cookies, you may not be able to sign in or use other interactive features of our sites and services that depend on cookies. In addition to cookies, we may use other technologies to collect personal information and help personalize your online experience.
 
