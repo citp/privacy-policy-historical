@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the adworkmedia.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807120501id_/https%3A//www.adworkmedia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adworkmedia.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523181012id_/https%3A//www.adworkmedia.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | AdWork Media
 
 This Privacy Policy applies to AdWorkMedia.com's collection, use, storage and disclosure of information by AdWork Media on its (a) websites, including all its divisions, subsidiaries and related companies (collectively, the Website), (b) on various third party websites, and (c) to AdWork Media's other information collection, including the purchase of customer lists from third parties. 
+
+**Data Integrity**  
+AdWork Media takes your privacy seriously. All sensitive information is encrypted with SSL and our server is routinely audited to ensure a secure environment for AdWork Media users. 
 
 **Cookies**  
 AdWork Media uses cookies to identify the individual with his or her corresponding tracking data that resides in AdWork Media's database. Individuals who use the Website need to accept cookies in order to use all of the features and functionality of the Website.
@@ -11,7 +14,7 @@ AdWork Media uses cookies to identify the individual with his or her correspondi
 A web beacon is a small pixel image that is placed on a website or in an email which is used to monitor behavior of a user visiting a website or email and store their information. This allows AdWork Media to track certain web sites an individual visits online. Web beacons are used to determine products or services an individual may be interested in, and to track online behavioral habits for marketing purposes.
 
 **Tracking Data**  
-To ensure fraud-free service, AdWork Media's lead tracking system gathers IP addresses and other user variables along with setting tracking cookies. This information is used to prevent users from abusing advertiser terms and conditions such as multiple completions per person (regardless of IP address). 
+To ensure fraud-free service, AdWork Media's lead tracking system gathers IP addresses and other user variables along with setting tracking cookies. This information is used to prevent users from abusing advertiser terms and conditions with methods such as multiple completions per person and fraudulent completions. 
 
 **Outside Information**  
 AdWork Media may receive information about individuals from Third Parties or from other sources of information outside of AdWork Media including information located in public databases (Outside Information).
@@ -22,17 +25,17 @@ As used herein, Individual Information means Survey Information, Third Party Lis
 Children's Online Privacy Protection Act**  
 AdWork Media will never knowingly collect any personal information about children under the age of 13. If AdWork Media obtains actual knowledge that it has collected personal information about a child under the age of 13, that information will be immediately deleted from our database. Because it does not collect such information, AdWork Media has no such information to use or to disclose to Third Parties. AdWork Media has designed this policy in order to comply with the Children's Online Privacy Protection Act (COPPA).
 
+**California Residents**  
+As per California Civil Code Section 1798.83, California residents may request information about the disclosure of their personal details to third parties by contacting us. 
+
 **Deleting & Updating Your Information**  
 If you would like to delete or update the personally identifiable information that we have collected from you (name, address, etc.), simply send your request to [Support@AdWorkMedia.com](mailto:Su%70por%74%40AdWo%72%6BM%65dia%2Ecom). We will process your request, where possible and subject to the terms and conditions contained herein, within a reasonable period of time after receipt. To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
 
 **Legal Process**  
 AdWork Media may disclose Individual Information to respond to subpoenas, court orders, and other legal processes.  
 **  
-Fraud & Scams**  
-It is AdWork Media's right to close or dismiss any clients or accounts without pay if AdWork Media has a suspicion of fraudulent activity or a suspicion of scam. We employ many measures to prevent fraud, although some fraud is more difficult to detect. As a publisher or advertiser it is your duty to limit the fraudulent activity that appears on your account. AdWork Media holds the right to display relevant account details with third parties to verify or investigate fraudulent activity.  
-**  
 Advertiser Cookies and Web Beacons**  
-AdWork Media does not control Advertisers' use of such technology and AdWork Media has no responsibility for the use of such technology to gather information about individuals.
+AdWork Media does not control Advertisers' use of tracking mechanisms and AdWork Media has no responsibility for the use of such technology to gather information about individuals.
 
 **Links**  
 The Website and email messages sometimes contain hypertext links to the web sites of Third Parties. AdWork Media is not responsible for the privacy practices or the content of such other web sites. Linked web sites may contain links to web sites maintained by Third Parties. Such links are provided for your convenience and reference only. AdWork Media does not operate or control in any respect any information, software, products or services available on such Third Party web sites. The inclusion of a link to a web site does not imply any endorsement of the services or the site, its contents, or its sponsoring organization.
