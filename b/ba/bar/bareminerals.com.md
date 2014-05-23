@@ -1,300 +1,303 @@
-> *The following text is extracted and transformed from the bareminerals.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115120221id_/http%3A//www.bareescentuals.com/on/demandware.store/Sites-BareEscentuals-Site/default/Experience-BEGlobalPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bareminerals.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523071600id_/http%3A//www.bareescentuals.com/on/demandware.store/Sites-BareEscentuals-Site/en_US/Experience-BEGlobalPolicy) for the most accurate reproduction.*
 
 # Global Privacy Policy
 
-  
+This Privacy Policy (or “Policy”) tells you how Bare Escentuals Inc. (“Bare Escentuals,” “BE,” “we,” or “our”) collects, uses, shares, and protects information obtained from and about our customers (“you”). It also tells you how you can access and update your information and make certain choices about how your information is used. This Policy covers both our online and offline data collection activities, including information that we collect through our various websites and applications, as well as our offline programs and events. By using a Bare Escentuals’ website or by otherwise giving us your information, you agree to the terms of this Policy. If you do not agree to this Policy, you must not use our websites or applications or give us any of your information. 
 
+If we want to change the way we handle your information, we will post those changes in this Privacy Policy. For material changes (i.e., substantially new practices you wouldn’t expect from us or that we didn’t previously tell you about), we may decide to notify you more prominently and/or give you prior choice. We reserve the right to make changes to our practices and this Policy at any time, provided that we follow the procedures above. 
 
-## Effective 9/2010
+* #### 1\. How do we collect information from you?
 
-## Last updated on 12/2011
+This Privacy Policy applies to information that we, Bare Escentuals, collect from or about our customers through the methods described below. 
 
-If we change our practices, we will post the changes in the summary below (as necessary) and in our  _full Privacy Policy_.  For material changes, we may notify you and obtain your prior consent.  Not all of the statements in the summary below may be relevant to you.  Click on any link for additional information. 
-
-  
-
-
-  * 
-
-
-## Full Privacy Policy for Bare Escentuals
-
-_Effective September 2010  
-Last updated on December 2011_
-
-This Privacy Policy tells you how Bare Escentuals Inc. (“Bare Escentuals,” “BE,” “we,” or “our”) collects, uses, shares, and protects information obtained from and about our customers (“you”). It also provides you with important tools that may allow you to keep your information up-to-date and make certain choices about how your information is used. This Policy covers both online and offline activities, including information that we collect through our various websites, store boutiques, and phone and catalogue orders (among other methods).
-
-Please note that if we change the way in which we handle your information, we will post the changes in this full Privacy Policy and (if necessary) in our Privacy SimpleFacts™ summary. For material changes (i.e., substantially new practices you wouldn’t expect from us or that we didn’t previously disclose in this Policy), we may decide to notify you more directly and get your prior consent.
-
-Like our Privacy SimpleFacts™ summary, this full Privacy Policy answers five simple questions (shown below), and then provides other important information, including how to contact us if you have any questions or concerns.
-
-  * #### What information do we collect?
-
-Depending on how you interact with Bare Escentuals (online, in-store, on the phone, etc.), we may collect from you various types of information, which are described in more detail below. In some instances (and unless we say otherwise below), we may combine one type of information with another, and store them together in our records. In all cases, however, we strive to limit the amount of information we collect and store to that which is necessary to provide you the relevant services.
-
-Personal contact info
-
-This includes any information that would allow us to personally contact you, such as your name, home or mailing address, phone number (home, cell, etc.), or email address. In some cases, this could include information that you give us about someone else (for example, if you ask us to ship a Bare Escentuals product to a friend). We typically collect personal contact information for registration activities (e.g., newsletter sign-up, club membership, online shopping, website community features, etc.), product orders, customer service, contests and promotions, and customer feedback. If you create an account with us (e.g., Club/Beauty-Renewal account, Shopping/Community account), some of your personal contact information may be stored under your account. To review or edit this information, go to the relevant “My Account” section of our site or contact Customer Service.
-
-Back to top
-
-  * Payment info
-
-This includes any information that you use to make a purchase, such as your credit card details (cardholder name, card number, expiration date, etc.), gift card information, check or other forms of payment (if such are made available). This also includes the billing name and address associated with your form of payment. We only collect payment information for purchases (whether your purchase is made in a store, online, by phone, or via catalogue). If you create an account with us (e.g., Club/Beauty-Renewal account, Shopping/Community account), your payment information (along with your order history and other related preferences) may be stored under your account. To review or edit this information, go to the relevant “My Account” section of our site or contact Customer Service. 
-
-Back to top
-
-  * Account login info
-
-This refers to any information that is required for you to establish a unique account with us or for us to give you access to your specific account information. Examples include customer number, login ID, screen name, password, and/or security question and answer. Certain login information, such as your customer number, may be generated by us and then sent to you. We only collect (or create for you) unique login information for those activities that require an account, such as club membership and website community features. Your unique login information, especially your password, should always be kept confidential and should never be shared with anyone else. To change your account password, go to the relevant “My Account” section of our site or contact Customer Service. 
-
-Back to top
-
-  * Demographic info
-
-This includes any information that describes your demographic or psychographic characteristics. Examples may include your date of birth, age or age range, gender, facial attributes (e.g., hair color, eye color, skin type/tone), general geographic location (e.g., zip code or city and state), favorite products, hobbies and interests, or lifestyle information. We typically collect demographic information for registration activities (e.g., newsletter sign-up, club membership, online shopping, website community features, etc.), contests and promotions, and customer surveys. You may be allowed to modify certain demographic information stored under your account (e.g., Club/Beauty-Renewal account, Shopping/Community account). To do so, go to the relevant “My Account” of our site or contact Customer Service. For demographic information associated with your profile on a third party social network (e.g., Facebook), see separate paragraph on “Social network info” below. 
-
-Back to top
-
-  * Technical computer info
-
-This includes any information about the computer system or other technological device that you may be using to access one of our websites or applications. We typically collect this information through the use of automated technologies such as cookies and web beacons. Examples of technical computer information may include your computer’s IP address, operating system type, and web browser type. If you access a BE website or application via a mobile device such as a smartphone, the collected information may also include your phone’s unique device ID, location, and other similar mobile device data. Technical computer information is not typically associated with your personal contact information. 
-
-Back to top
-
-  * Website usage info
-
-This includes information about how you use and navigate our websites and applications, including which links you click on, which pages or content you view, and other similar information or statistics about your interactions with a BE site or application (e.g., date and time of visit, which site you came from, etc.). This information is captured using automated technologies such as cookies and web beacons, and may be collected regardless of the device you may be using (computer, smartphone, tablet, etc.). Website usage information may be associated with your personal contact information. 
-
-Back to top
-
-  * Customer feedback
-
-This includes information that you voluntarily share with us about your experience in using our products and services, including our websites and store boutiques. Examples may include unsolicited comments and suggestions, testimonials, or other feedback about what you may have liked (or disliked) about your experience in using our products or services. We typically collect this information in the form of customer surveys, feedback forms, and email correspondence (e.g., “Email Leslie” feature). 
-
-Back to top
-
-  * Customer-generated content
-
-This refers to any content that you create and then share with us (and perhaps others) by uploading it to one of our websites, including one of our Facebook pages or applications. Examples may include photos, videos, personal stories, or other similar media or content. We mostly collect customer-generated content for contests and promotions, website community features, customer engagement, and third party social networking. 
-
-Back to top
-
-  * Social network info
-
-This refers to any information that is part of your profile on a third party social network (such as Facebook) and that you allow the third party social network to share with us. Examples may include your basic account information (e.g., name, email address, profile picture, gender, user ID, list of friends, etc.) and any other additional information or activities that you permit the third party social network to share with its application developers. For example, we may receive your social network information (or parts of it) when you download or interact with a BE application on a social networking site (such as Facebook) or use a third party social networking feature that is integrated within a BE site (such as Facebook Connect). To learn more about how your social network information may be obtained by BE (or other application developers), please visit the website of the relevant third party social network. 
-
-Back to top
-
-  * Other info (depending on context)
-
-This refers to any other information that we might need to collect for the specific BE form, feature, or other service you are using or requesting. What this information might include will vary depending on the method of collection and the specific purpose(s) for which the information is being collected. Please see Section 3 (“How do we use your information?”) for more specific examples. 
-
-Back to top
-
-  * #### How do we collect your information?
-
-We may collect information from you through a variety of online or offline sources, which are described in more detail below. In some instances, we may combine information collected from one source (e.g., a BE website) with information collected from another source (e.g., a BE store boutique). We do this to get a more complete view of our customers, which, in turn, allows us to serve you better and with more personalization. Please note that this Privacy Policy only applies to the methods of collection listed below (and to no other methods). Also note that not all of the methods listed below may be relevant to you.
+We may combine information collected via one method (e.g., a BE website) with information collected via another method (e.g., a BE store boutique). We do this to get a more complete view of our customers, which, in turn, allows us to serve you better and with more personalization. Also note that not all of the methods listed below may be relevant to you.
 
 Bare Escentuals’ websites and applications
 
-We may collect information from you through one of our (U.S. or international) websites or applications. This could include (a) any site that we own and control under our own domain (such as: [bareescentuals.com](http://bareescentuals.com/), [bareescentuals.co.uk](http://bareescentuals.co.uk/), [bareesentuals.jp](http://bareesentuals.jp/), [bareescentuals.fr](http://bareescentuals.fr/), or some other domain name that redirects you to one of these sites), or (b) any site or application that we may develop and run on a third party social network such as Facebook. This could also include any site or application that we specifically design for use on a cell phone or other mobile device, such as a mobile-enabled site (a.k.a., WAP site) or mobile application.
+We may collect information from you through one of our U.S. or international websites or applications. This could include (a) any site that we own and control under our own domain (such as [bareescentuals.com](http://bareescentuals.com/), [bareescentuals.co.uk](http://bareescentuals.co.uk/), or some other domain name that redirects you to one of these sites), or (b) any site or web application that we may develop and run on a third party social network such as Facebook. This could also include any site or application that we specifically design for use on a cell phone or other mobile device, such as a mobile-enabled site (i.e., WAP site) or mobile application (e.g., iPad/iPhone app). This Policy will only apply if it is posted or linked to on the website or application which you are using. 
+
+Please note that some of our non-U.S. websites or applications may post their own privacy policies which are separate from this one. If they post separate policies, those policies will apply instead of this one. 
 
 Back to top
 
-  * Bare Escentuals’ store boutiques
+* Bare Escentuals’ store boutiques
 
-We may collect information from you through one of our mall retail stores or mobile kiosks (e.g., Quickie Vans). These store boutiques are available in the U.S. and in some locations outside the U.S. (e.g., United Kingdom). 
-
-Back to top
-
-  * Text messaging programs
-
-We may collect information from you through one of our inbound text messaging programs. For example, periodically we may allow customers to send us inbound text messages using a short code that we create and advertise in connection with a special offer or promotion. These programs might be advertised in one of our store boutiques or on one of our websites or applications. If you choose to participate in one of these programs, information about your physical location may be collected and used for marketing purposes (see “Marketing Communications” under Section 3 below for more information). 
+We may collect information from you at one of our mall retail stores or mobile kiosks. This may take the form of a printed registration card (such as sign up for our Friends and Benefits Program or “FAB”) or other information collected during checkout. Our store boutiques are available in the U.S. and in some locations outside the U.S. (e.g., United Kingdom). In some instances, these boutiques may be found within other department stores. 
 
 Back to top
 
-  * Phone and catalogue orders
+* Bare Escentuals’ text messaging programs
 
-We may collect information from you through catalog orders that you place over the phone or send in via fax or postal mail. These methods of ordering, which are handled by our customer service department, are available in the U.S. and in some locations outside the U.S. (e.g., Japan). In some instances, information (such as a contact email address) may be collected via these methods even when a purchase is not made. 
-
-Back to top
-
-  * Email correspondence
-
-We may collect information from you if you correspond with us via email. For example, if you send an email to customer service or use our “Email Leslie” feature, we may obtain certain information about you (such as your contact email address). 
+We may collect information from you through one of our inbound text messaging programs. For example, periodically we may allow customers to send us inbound text messages using a short code that we create and advertise in connection with a special offer or promotion. These programs might be advertised in one of our store boutiques or on one of our websites or applications. If you choose to participate in one of these programs, information about your physical geo-location may be collected and used for marketing purposes (see “Marketing Communications” under Section 3 below for more information).This Policy will only apply if the BE text messaging program indicates it applies or refers you to our website to view the relevant privacy policy. 
 
 Back to top
 
-  * Other sources
+* Call center orders
 
-Occasionally, we may obtain information about you from other sources. For example, we may hire a third party data aggregator to provide us additional information about our existing customers (this is known as “data appending”). We may also receive information from a third party co-sponsor who we may partner with to run a one-time promotion or giveaway. 
+We may collect information from you through our call centers, for example if you place an order over the phone or via fax or postal mail to our customer service department. These methods of ordering are available in the U.S. and in some locations outside the U.S. (e.g., Japan). Our call centers may also collect information from you in connection with our FAB Friends and Benefits program or to respond to your question or comment or other follow-up request. 
 
 Back to top
 
-  * #### How do we use your information?
+* Email correspondence
 
-The following paragraphs describe the various purposes and features for which we might collect and use your information, and the different types of information that might be collected for each. In other words, this section explains why we might ask you for information and what we might do with it once we have it. Please note, however, that not all of the uses listed below may be relevant to you.
+We may collect information from you if you correspond with us via email. For example, if you send an email to our customer service department or use the “Email Leslie” feature, we may obtain certain information about you (such as your contact email address) and use it to follow up. 
+
+Back to top
+
+* Data collected from other sources
+
+Occasionally, we may obtain information about you from other sources. For example, we may hire a third party data aggregator to provide us additional information about our existing customers (this is known as “data appending”). We may also receive information from third party co-sponsors who we may partner with occasionally to run special promotions or giveaways. We may also receive information about customers in the event we acquire other companies. 
+
+Back to top
+
+* #### 2\. What information do we collect from you?
+
+Depending on how you interact with Bare Escentuals (online, in-store, on the phone, etc.), we may collect from you various types of information, which are described in more detail below. In some instances (and unless we say otherwise below), we may combine one type of information with another type of information, and store them together in our records. In all cases, however, we strive to limit the amount of information we collect and store to that which is necessary to provide you the relevant services.
+
+Personal contact information
+
+This includes any information that would allow us to personally contact you, such as your name, home or mailing address, phone number (home, cell, etc.), or email address. In some cases, this could include information that you give us about someone else (for example, if you ask us to ship a Bare Escentuals product to a friend). We typically collect personal contact information in connection with a variety of activities, including account registration (e.g., FAB Friends and Benefits Program, Club/Auto-Renewal Program, online shopping and website community features, newsletter sign-up, etc.), product orders, customer service, contests and promotions, and customer feedback. If you create an account with us, some of your personal contact information may be stored under your account profile. To review or edit this information, go to the relevant “My Account” section of our site or contact Customer Service.
+
+Back to top
+
+* Payment information
+
+This includes any information that you use to make a purchase, such as your credit card details (cardholder name, card number, expiration date, etc.), gift card information, check or other forms of payment (if such are made available). This also includes the billing name and address associated with your form of payment. We only collect payment information for purchases (whether your purchase is made in-store, online, by phone, or via catalogue). If you create an account with us (e.g., Friends and Benefits account, Club/Auto-Renewal account, Shopping/Community account, etc.), your payment information (along with your purchase history and other related preferences) may be stored under your account profile. To review or edit this information, go to the relevant “My Account” section of our site or contact Customer Service. 
+
+Back to top
+
+* Account login information
+
+This refers to any information that is required for you to establish a unique account with us or for us to give you access to your specific account information. Examples include customer number, login ID, screen name, password, and/or security question and answer. Certain login information, such as your customer number, may be generated by us and then sent to you. We only collect (or create for you) unique login information for those activities that require an account, such as Friends and Benefits or Club/Auto-Renewal membership. Your unique login information, especially your password, should always be kept confidential and should never be shared with anyone else. To change your account password, go to the relevant “My Account” section of our site or contact Customer Service. 
+
+Back to top
+
+* Demographic information
+
+This includes any information that describes demographic or psychographic characteristics. Examples may include your date of birth, age or age range, gender, facial attributes (e.g., hair color, eye color, skin type, skin tone, etc.), general geographic location (e.g., zip code or city and state), favorite products, hobbies and interests, or lifestyle information. We typically collect demographic information in connection with a variety of activities, including account registration (e.g., FAB Friends and Benefits Program, Club/Auto-Renewal Program, online shopping, website community features, newsletter sign-up, etc.), contests and promotions, and customer surveys. If you create an account with us, you may be allowed to modify certain demographic information stored under your account profile. To do so, go to the relevant “My Account” of our site or contact Customer Service. For demographic information associated with your profile on a third party social network (e.g., Facebook), see separate paragraph on “Social network information” below. 
+
+Back to top
+
+* Technical computer info
+
+This includes any information about the computer system or other technological device that you may be using to access one of our websites or applications. We typically collect this information through the use of automated technologies such as cookies and web beacons. For more on cookies, see Section 4 below. Examples of technical computer information that may be collected include your computer’s IP address, operating system type, and web browser type. If you access a BE website or application via a mobile device such as a smartphone, the collected information may also include your phone’s unique device ID, location, and other similar mobile device data. Technical computer information is not typically associated with your personal contact information. 
+
+Back to top
+
+* Website usage information
+
+This includes information about how you use and navigate our websites and applications, including which links you click on, which pages or content you view, and other similar information or statistics about your interactions with our websites or applications (e.g., date and time of visit, which site you came from, etc.). This information is captured using automated technologies such as cookies and web beacons, and may be collected regardless of the device you may be using (computer, smartphone, tablet, etc.). This information may also be collected using third party analytics services (such as Google Analytics) that collect data in aggregate (such as number of visits to a particular page or the amount of time spent on a site). We may also use these technologies, such as web beacons, to capture information about how users respond to certain email campaigns (e.g., time the email is opened, where users link to from that email, etc.). Website usage information may be associated with your personal contact information. For more on cookies, see Section 4 below. 
+
+Back to top
+
+* Customer feedback
+
+This includes information that you voluntarily share with us about your experience in using our products or services, including our beauty products, websites and applications, and store boutiques. Examples may include comments and suggestions, testimonials, or other feedback you send us about what you may have liked (or disliked) about your experience in using our products or services. We typically collect this information in the form of customer surveys, feedback forms, and email correspondence (e.g., “Email Leslie” feature). 
+
+Back to top
+
+* Customer-generated content
+
+This refers to any content that you create and then share with us (and perhaps others) by uploading it to one of our websites or applications, such as our Facebook fan pages or applications. Examples may include photos, videos, personal stories, or other similar media or content. We mostly collect customer-generated content in connection with contests and promotions, website community features, customer engagement, and third party social networking. 
+
+Back to top
+
+* Social network information
+
+This refers to any information that is part of your profile on a third party social network (such as Facebook) and that you allow the third party social network to share with us. Examples may include your basic account information (e.g., name, email address, profile picture, gender, birthday, current city, user ID, list of friends, etc.) and any other additional information or activities that you permit the third party social network to share with application developers. For example, we may receive your social network information (or parts of it) when you download or interact with a BE application on a social networking site (such as Facebook) or use a third party social networking feature that is integrated within a BE site (such as Facebook Connect). To learn more about how your social network information may be obtained by BE (or other application developers), please visit the website of the relevant third party social network. 
+
+Back to top
+
+* Other information (depending on context)
+
+This refers to any other information that we might need to collect for a specific BE form, feature, or other service that you use or request. What this information might include will vary depending on the method of collection and the specific purpose(s) for which the information is being collected. Please see Section 3 below for more specific examples. 
+
+Back to top
+
+* #### 3\. How do we use your information?
+
+The following paragraphs describe the various purposes and features for which we might collect and use your information, and the different types of information that might be collected for each. Please note that not all of the uses listed below will be relevant to every customer.
 
 Order fulfillment
 
-We may collect and use your information to process and ship your orders, and to inform you about the status of your orders. Depending on how you make a purchase (e.g., online, in-store, phone, etc.), this could involve the collection and use of certain personal contact information, payment information, account login information, and/or information related to your purchase (such as products ordered). This could also involve the ongoing storage of your payment information to allow for easier checkout on future purchases.
+We may collect and use your information to process and ship your orders, to inform you about the status of your orders, and to follow up with you about your satisfaction with the ordered products. Depending on how you make a purchase (e.g., online, in-store, call center, etc.), this could involve the collection and use of certain personal contact information, payment information, account login information, and/or information related to your purchase (such as products ordered). This could also involve the ongoing storage of your payment information to allow for easier checkout on future purchases. 
+
+Please note that there are many independent e-commerce sites that sell BE products but that are not controlled or operated by BE. Because these sites may have different privacy and security practices than we do, we recommend that you read their privacy policies before making any purchases on those sites.
 
 Back to top
 
-  * Account maintenance
+* Account maintenance
 
-We may use your information to maintain your accounts with us (e.g., Club/Beauty-Renewal account, Shopping/Community account), including administering any customer loyalty or reward programs associated with such accounts. This typically involves the use of any information originally collected to set up your account (e.g., personal contact info, payment info, account login info, demographic info, etc.). 
-
-Back to top
-
-  * Customer service
-
-We may collect and use your information to provide you customer service, including responses to your inquiries. This typically requires the collection and use of certain personal contact information (such as your name or email address) and information regarding the reason for your inquiry (e.g., order status, technical issue, product question, general question, etc.). 
+We may use your information to maintain your accounts with us, including administering any customer loyalty or rewards programs associated with such accounts (e.g., Friends and Benefits). This typically involves the use of the information that was originally collected to set up your account (e.g., personal contact information, payment information, account login information, demographic information, etc.). 
 
 Back to top
 
-  * Product improvement and customization
+* Customer service
+
+We may collect and use your information to provide you customer service, including responses to your inquiries. This typically requires the collection and use of certain personal contact information (such as your name, email address) and information regarding the reason for your inquiry (e.g., order status, technical issue, product question, general question, etc.). Customer service may be provided through various forms of communication, such as email correspondence and call center support. 
+
+Back to top
+
+* Product improvement and customization
 
 We may collect and use your information so we can constantly improve our products, tailor them to your needs, and come up with new product ideas. This mostly involves the collection and use of demographic information and customer feedback. 
 
 Back to top
 
-  * Personalized product recommendations
+* Personalized product recommendations
 
-We may use your information to provide you with BE product recommendations and offers that are tailored to your interests. This mostly involves the use of your previous order history (e.g., from online and/or offline purchases) and certain demographic information (such as your favorite look, unique facial attributes, birth date, etc.). 
-
-Back to top
-
-  * Customer engagement
-
-We may collect and use your information to get you more actively engaged with our products and services (including our websites and applications) for the purpose of deepening our relationships with customers and strengthening our brand awareness. This mostly involves the collection, use, and publication of customer-generated content in connection with marketing campaigns or events, such as contests and promotions, website community features, and in-store or other offline events. 
+We may use your information to provide you with BE product recommendations, offers, and rewards that are tailored to your interests and profile (for example, as part of our Friends and Benefits Program). This mostly involves the use of your previous order history (including online, boutique, and call center purchases), as well as certain demographic information (such as your favorite look, unique facial attributes, birth date, etc.). 
 
 Back to top
 
-  * Contests and Promotions
+* Contests and Promotions
 
-We may collect and use your information to administer a contest, sweepstakes, giveaway, competition, or other similar marketing campaign or promotion. These events typically require the collection and use of personal contact information (for prize fulfillment), limited demographic information (for eligibility), and, in some cases, customer-generated content. Due to the customer-generated component, some promotions will be run on third party social networks such as Facebook (e.g., on our Facebook fan page or application). To comply with sweepstakes laws, we may publish or share limited information about the winners of a particular promotion. 
-
-Back to top
-
-  * Marketing Communications
-
-We may collect and use your information to send you marketing communications, such as printed catalogues, email communications, and SMS text messages. These communications may inform you about new products, store events, special discounts and coupons, beauty tips, and other news and special offers. Sending you these communications mostly requires the collection and use of certain personal contact information and limited demographic information (such as zip code). In some instances (such as for text messaging programs), this may involve the use of your precise geographical location (obtained from your mobile device) so that we can send you location-based offers or coupons. You can always opt-out from receiving marketing emails or text messages by following the unsubscribe instructions provided in each such communication. If you have an online account with us (e.g., Club/Beauty-Renewal account, Shopping/Community account), you may be given the option to change your communication preferences under the relevant “My Account” section of our site or by calling Customer Service. Please note that even if you opt out from receiving marketing communications, you may still receive other communications from us, such as order confirmations, notifications about account activities (e.g., account confirmations, password changes, website community postings, etc.), and other important announcements (e.g., product recalls, privacy policy changes, etc.). 
+We may collect and use your information to administer a contest, sweepstakes, giveaway, competition, or other similar marketing campaign or promotion. These events typically require the collection and use of personal contact information (for prize fulfillment), limited demographic information (for eligibility), and, in some cases, customer-generated content. Some promotions with customer-generated content or a social networking component will be run on third party social networks such as Facebook (e.g., on BE’s Facebook fan page or application). To comply with sweepstakes laws, we may publish or share limited information about promotion winners (such as name and city of residence). For more information about our contests and other promotions, please see the official rules or details posted with each promotion. 
 
 Back to top
 
-  * Website personalization and convenience
+* Marketing Communications
 
-We may collect and use your information to personalize your experience and save you time when you visit our websites. This is typically done through the use of automated technologies (such as cookies) that collect and remember certain account login information, technical information, and/or previous website usage information. For example, we might remember your login ID or username so you can quickly login the next time you visit our site or so you can easily retrieve the items you previously placed in your shopping cart. Based on this type of information, we might also show you specific BE content or offers that are more relevant to your interests. 
+We may collect and use your information to send you marketing communications, such as email communications, mobile messages (including text and/or push notifications), and postal mailings. These communications may inform you about new products, store events, special discounts and coupons, beauty tips, and other news and special offers. On occasion, these communications may also contain information or offers about third party products.
 
-Back to top
+Sending you marketing communications mostly requires the collection and use of certain personal contact information and/or demographic information. In some instances (such as for mobile messages), this may involve the use of technical information or precise geo-location information obtained from your mobile device. This allows us to send you messages directly to your mobile device, including offers and coupons based on your location.
 
-  * Website community features
-
-We may collect and use your information to give you access to our website community features, such as those that may allow you to post (and share with other fans) ratings, reviews, questions/answers, stories, pictures, videos, or other content. This typically involves the collection, use, and (in some instances) public display of certain personal contact information, account login information, demographic information, and/or customer-generated content. Because these types of features are “communal” in nature, information you post in these areas may be visible to others. Please use caution when using these features or uploading content to a BE site. For some community features, you may have the ability to control whether some parts of your profile can be seen by others and whether we send you notifications about certain community activities (like the fact that one of your questions has been answered). To access these settings, go to the relevant “My Account” section of our site and login to your community account. For community features that are integrated with third party social networks such as Facebook, see separate paragraph on “Third party social networking” below. 
+You can always opt-out from receiving marketing communications either by following the unsubscribe instructions provided in each such communications or by updating your device settings for mobile messages. If you have an online account with us (e.g., Friends and Benefits account, Club/Auto-Renewal account, Shopping/Community account, etc.), you may be given the option to change some of your communication preferences under the relevant “My Account” section of our site or by calling Customer Service. Please note that even if you opt out from receiving marketing communications, you may still receive other communications from us, such as order confirmations, notifications about account activities (e.g., account confirmations, password changes, website community postings, etc.), and other important announcements (e.g., product recalls, privacy policy changes, etc.). 
 
 Back to top
 
-  * Website viral features (e.g., tell-a-friend)
+* Website personalization and convenience
 
-We may request and use your information so you can use our website viral features, such as tell-a-friend. These features allow you to easily share certain Bare Escentuals’ news, product information, promotions, wish list items, or other content with family members and friends. These features typically require the collection and use of certain personal contact information (such as email addresses and names) so that the selected message or content can be delivered to the proper recipients. In some instances (e.g., tell-a-friend promotions), this information may be stored in our records so we can track and reward our customers for their referrals. For tell-a-friend or other viral features offered by third party social networks (such as Facebook’s “Share” and “Like” features), see separate paragraph on “Third party social networking” below. 
-
-Back to top
-
-  * Third party social networking
-
-We may collect and use your information so we can allow you to interact with online social networking features provided by third party companies such as Facebook. These tools, some of which are embedded directly into our sites, include features such as “Facebook Connect,” “Facebook Share,” and “Facebook Like.” By offering you these tools, we may be able to (i) obtain certain information about you from your profile on the third party social network (see separate paragraph on “Social network information” under Section 2); and, (ii) post to your profile on that social network certain content or activities that you view or interact with on our sites (such as beauty tips, articles, stories, etc.). This exchange of information only occurs when you take some kind of explicit action to permit the sharing (such as clicking on the relevant Facebook feature and creating or logging in to your Facebook account). You can learn more about how these features work by visiting the website of the relevant third party social network. 
+We may collect and use your information to personalize your experience and save you time when you visit our websites and applications. This is typically done through the use of automated technologies (such as cookies) that collect and remember certain account login information, technical information, and/or previous website usage information. For example, we might remember your login ID or username so you can quickly login the next time you visit our site or so you can easily retrieve the items you previously placed in your shopping cart. Based on this type of information, we might also show you specific BE content or offers that are more relevant to your interests. 
 
 Back to top
 
-  * Third party online advertising
+* Website community features
 
-We may allow third party ad networks to collect and use your information to show you targeted ads (including Bare Escentuals’ ads) on our sites or on other sites. This typically involves the ad network collecting and tracking certain technical information (such as your IP address) and website usage information (such as your browsing history) on our sites and across many other sites on the Internet. This does not involve the collection, use, or sharing of your personal contact information, such as your name or email address. You can opt-out from this type of third party tracking at any time by going to: [http://www.networkadvertising.org/managing/opt_out.asp.](http://www.networkadvertising.org/managing/opt_out.asp)
-
-Back to top
-
-  * #### Who do we share your information with?
-
-We may share your information with the types of companies (or in the situations) described below. We do not rent or sell your information to third party companies for their own marketing purposes.
-
-Agents and contractors
-
-These are companies or people we hire to help us run our business (e.g., fulfill orders, run our websites, run promotions, etc.). The information shared with agents/contractors could include personal contact information, payment information, demographic information, or other types of information depending on the service being provided. Agents and contractors are only allowed to use your information for the specific task they’ve been hired to do, and for no other purpose. They’re also required to keep your information confidential and secure.
+We may collect and use your information to give you access to our website community features, such as features that may allow you to upload and share ratings, reviews, questions/answers, stories, pictures, videos, or other content. This typically involves the collection, use, and (in some instances) public display of certain personal contact information, account login information, demographic information, and/or customer-generated content. Because these types of features are “communal” in nature, information you post in these areas may be visible to others. Please use caution when using these features or uploading content to a BE site or application. For some community features, you may have the ability to control whether some parts of your profile can be seen by others and whether we send you notifications about certain community activities (like the fact that one of your questions has been answered). To access these settings, go to the “My Account” section of our site and login to the relevant community account. For community features that are integrated with third party social networks such as Facebook, see separate paragraph on “Third party social networking” below. 
 
 Back to top
 
-  * Law enforcement (if necessary)
+* Website viral features (e.g., tell-a-friend)
 
-This is when we may need to share your information for law enforcement or other legal-related purposes. This type of sharing may be necessary in connection with a lawsuit or legal claim, governmental inquiry, enforcement of legal rights (e.g., contract terms, intellectual property rights, etc.), safety issue, or other related matter. Sharing your information for these reasons is not a regular event, but could arise from time to time. We always strive to limit the types and amount of information we share for legal purposes to that which is strictly necessary. 
-
-Back to top
-
-  * New company in event of acquisition
-
-If Bare Escentuals is ever part of an acquisition, merger, sale, corporate restructuring, bankruptcy, or other similar event, we may share your information, including your personal contact information and other types of information, with the new company that acquires us. If this ever happened, we would require the new company to continue handling your information in accordance with this Privacy Policy, unless they get your permission to use it differently. 
+We may request and use your information so you can use our website viral features, such as tell-a-friend. These features allow you to easily share certain Bare Escentuals’ news, product information, promotions, wish list items, or other content with family members and friends. These features typically require the collection and use of certain personal contact information (such as email addresses and names) so that the selected message or content can be delivered to the proper recipients. In some instances, this information may be stored in our records so we can track and reward our customers for their referrals. For tell-a-friend or other viral features offered by third party social networks (such as Facebook “Share” and “Like” features), see separate paragraph on “Third party social networking” below. 
 
 Back to top
 
-  * #### How do we protect your information?
+* Third party social networking
 
-We use a variety of methods (described below) to keep customer information confidential and secure. Please note, however, that these protections do not apply to any information you choose to share in public areas such as our website community features or other social areas.
-
-Firewall-protected servers
-
-We store your information on servers which are protected by firewalls and which are closely monitored and isolated from the outside world. This helps prevent hackers and other unauthorized people from breaking into your account. We only give access to your information to those Bare Escentuals’ employees and agents/contractors who need it to do their job or to provide you the specific products or services that you request.
+We may collect and use your information when you interact with third party social networking features, such as Facebook Connect, Facebook Like, Pinterest, and Instagram. These tools may be embedded into our sites or applications for the purpose of running contests, allowing you to share content (such as beauty tips, articles, stories, etc.), allowing you to sign up for certain BE accounts, or for other stated purposes. If you use these tools, we may have the ability to obtain certain information about you from your social networking profile (see “Social network information” under Section 2). You can learn more about how these features work, and the profile data we may obtain about you, by visiting the website of the relevant third party social network. 
 
 Back to top
 
-  * Encryption for payment info
+* Third party online advertising
 
-We use industry-standard encryption to provide extra protection for sensitive financial information, such as your credit card details or other payment information. For example, encryption is used when you make payments online or at one of our store boutiques, and if you choose to have your payment information stored with us for future online purchases or auto-delivery purchases. Encryption is also used to protect your account information when you login to any one of your online accounts and throughout the duration of your logged-in session. 
-
-Back to top
-
-  * Other reasonable security measures
-
-In addition to the methods above, we may take other measures to protect your information, depending on the sensitivity of the data and other considerations (such as how the information is collected and where it is stored). These measures may include (among other things) additional access restrictions, password requirements, and physical protections (e.g., secured data centers, etc.). 
+We may allow third party ad networks to collect and use your information to show you targeted ads (including Bare Escentuals’ ads) on our sites or on other sites. Some of these ads may entice you to come back and revisit our site for new offers and promotions. This type of advertising typically involves an ad network collecting and tracking certain technical information (such as your IP address) and website usage information (such as your browsing history) on our sites and across many other sites on the Internet. This does not involve the collection, use, or sharing of your personal contact information, such as your name or email address. You can opt-out from this type of third party tracking at any time by going to: [http://www.networkadvertising.org/managing/opt_out.asp.](http://www.networkadvertising.org/managing/opt_out.asp)
 
 Back to top
 
-  * Measures you can take
+* Other general purposes (e.g., website security, internal research)
 
-It is also important for you to play a role in keeping your information safe. When signing up for an online account, please be sure to choose an account password that is hard for others to guess and never to reveal it to anyone else. If you use a shared or public computer, never choose to have your login ID or password remembered and make sure to log out of your account every time you leave the computer. You should also make use of any privacy features or controls we may provide you in our website community areas. 
+We may collect and use your information for other general business purposes, such as to maintain the day-to-day operation and security of our websites and applications and to conduct internal marketing and demographic studies. These activities mostly require the collection and use of certain demographic information, technical computer information, website usage information, and customer feedback. 
 
 Back to top
 
-  * #### Other important policies
+* #### 4\. Do we use cookies to gather information?
 
-This section provides additional policy information that is important for you to know or that we may be required to tell you by law. If you have any questions about these policies, please contact us using the information in Section 7.
+We use cookies on some of our websites. A cookie is a small file of letters and numbers that we put on your device when you visit our website and which allows us to recognize your computer when you come back to our site at a later time. Cookies allow us to enhance your website experience in several ways. For example, we use cookies to remember the items that you place in your shopping cart and to assess how visitors are using our site. We may also use cookies to personalize certain website features and to show you content and ads more relevant to your interests. By accessing and using our website(s), you consent to our use of cookies. 
+
+You can learn more about cookies and how they work at [www.allaboutcookies.org](http://www.allaboutcookies.org/) or [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).You can always disable cookies through your browser settings. Doing so, however, may disable certain features on our websites, such as online ordering. 
+
+To opt-out from third party cookies that are used for advertising purposes, you can do so on the NAI website at <http://www.networkadvertising.org/managing/opt_out.asp>. 
+
+* #### 5\. With whom do we share your information?
+
+We may share your information with the types of companies or in the situations described below. We do not rent or sell your information to third party companies for their own marketing use.
+
+Third party vendors
+
+These are outside vendors, agencies, or contractors we hire to help us run our business (e.g., fulfill orders, operate our websites, run promotions, operate our call center, etc.). The information shared with our vendors could include personal contact information, payment information, demographic information, or other types of information depending on the service being provided by the vendor. For some vendors, we may need to transfer your information to locations outside the United States. Our vendors are only allowed to use your information for the specific tasks we’ve hired them to do, and for no other purpose. They’re also required to keep your information confidential and secure.
+
+Back to top
+
+* Legal disclosures (when necessary)
+
+This is when we may need to share your information for law enforcement or other legal purposes. This type of sharing may be necessary in connection with a lawsuit, claim or investigation, governmental inquiry, court order, enforcement of legal rights (e.g., contract terms, intellectual property rights, etc.), safety issue, or other similar legal or security matter. Sharing your information for these reasons is not a regular event, but could arise from time to time. We will strive to limit the types and amount of information we may need to share for legal purposes to that which is reasonably necessary. 
+
+Back to top
+
+* Business transfers (e.g., sale or acquisition of company)
+
+We may share (or receive) information about you, including personal contact information, in the event of an acquisition, merger, sale, corporate restructuring, bankruptcy, or other similar event that involves Bare Escentuals or its parent or affiliated companies. If such an event occurs, we will take reasonable steps to require that your information be handled in accordance with this Privacy Policy, unless it is not practicable or permissible to do so. 
+
+Back to top
+
+* #### 6\. How do we protect your information?
+
+We use a variety of standard methods (described below) to keep customer information confidential and secure. Please note, however, that these protections do not apply to any information you choose to share in public areas such as our website community features or other social areas.
+
+Secure operating environments
+
+We store your information in secure operating environments that are protected from the public and that we only allow authorized BE employees and agents/contractors to access on a need-to-know basis.
+
+Back to top
+
+* Encryption for payment info
+
+We use industry-standard encryption to provide greater protection for sensitive financial information, such as your credit card information or other payment information, when such information is sent to us over the web. For example, encryption is used when you make payments through our online store, as well as if you choose to have your payment information stored with us for future online purchases. 
+
+Back to top
+
+* Other security measures
+
+In addition to the methods above, we may take other measures to protect your information, depending on the sensitivity of the data and other considerations (such as how the information is collected and where it is stored). These measures may include (among other things) additional access restrictions, password requirements, and physical protections (e.g., secure data centers, etc.). 
+
+Back to top
+
+* Measures you can take
+
+It is also important for you to play a role in keeping your information safe and secure. When signing up for an online account, please be sure to choose an account password that is hard for others to guess and never to reveal it to anyone else. If you use a shared or public computer, never choose to have your login ID or password remembered and make sure to log out of your account every time you leave the computer. 
+
+Back to top
+
+* #### 7\. Other important policy information
+
+This section provides additional information that is important for you to know about this Policy or our practices.
 
 This Privacy Policy applies to customers only
 
-This Privacy Policy only applies to our collection and use of information from individual customers, including our customers outside the U.S. It does not apply, however, to our business customers (e.g., spas, salons, department stores, infomercial partners, etc.). It also does not apply to information collected and used for employment purposes (e.g., resumes, job applications, etc.) or business-to-business related purposes.
+This Privacy Policy applies to our collection and use of information from our customers, including our non-U.S. customers (unless a separate privacy policy exists for non-U.S. customers – see above). It does not apply, however, to our business customers (e.g., spas, salons, department stores, infomercial partners, etc.). It also does not apply to information collected and used for employment purposes (e.g., resumes, job applications, etc.) or for business-to-business related purposes (e.g., media inquiries, investor relations, etc.).
 
 Back to top
 
-  * Your info may be transferred outside your country
+* Your information may be transferred outside your home country
 
-Because Bare Escentuals is headquartered in the United States, we may have a need to transfer information collected from our non-U.S. customers to the U.S. We may also have a need to transfer our customer information (regardless of where it originates) to other countries or places in which we (or our agents/contractors) maintain offices or facilities. By using a BE website or application or by otherwise doing business with Bare Escentuals, you are agreeing to allow us to transfer your information outside your home country and to process it inside the U.S. or elsewhere for the purposes stated in this Privacy Policy. 
+Because Bare Escentuals is headquartered in the United States, we may have a need to transfer information collected from our non-U.S. customers to the U.S. We may also have a need to transfer our customer information (regardless of where you live) to other countries or places in which we or our agents/contractors maintain offices or facilities. By using a BE website or application or by otherwise doing business with Bare Escentuals, you are agreeing to allow us to transfer your information outside your home country and to process it inside the United States or elsewhere for the purposes stated in this Privacy Policy. 
 
-When handling personal information from our European customers, Bare Escentuals’ complies with the U.S.-EU Safe Harbor Privacy Framework as set forth by the U.S. Department of Commerce.  To learn more about the Safe Harbor or about our participation in the program, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor)
-
-Back to top
-
-  * We do not collect info from kids
-
-We do not solicit or collect any type of information from a person known to be under the age of 13. If we discover that we’ve accidentally collected information from a child, we will remove the information from our records as soon as feasibly possible (or obtain the necessary parental permission to retain it). 
+When handling personal information from our European customers, Bare Escentuals’ complies with the U.S.-EU Safe Harbor Privacy Framework as set forth by the U.S. Department of Commerce. To learn more about the Safe Harbor or about our participation in the program, please visit [www.export.gov/safeharbor.](http://www.export.gov/safeharbor)
 
 Back to top
 
-  * We are not responsible for third party links/sites
+* We do not collect information from children
 
-Our websites and applications may provide links to, or features from, other third party sites (such as third party social networks) that we do not own or control. If you link to such sites or use such features, you do so at your own risk. We are not responsible for the content or practices of any third party site, application, or feature. 
+We do not solicit or collect any type of information from a person known to be under the age of 13. If we discover that we have accidentally collected information from a child, we will remove that information from our records as soon as feasibly possible (or obtain the necessary parental permission to retain it). 
 
 Back to top
 
-  * #### Contact information
+* We are not responsible for third party sites/features
 
+Our websites and applications may provide links to, or features from, other third party sites (such as third party social networks) that we do not own or control. If you click on such links or use such features, you do so at your own risk. We are not responsible for the content or practices of any third party site, application, or feature. 
 
+Back to top
 
+* #### 8\. How can you contact us with questions?
+
+For any questions or concerns regarding this Privacy Policy, you can contact us at: 
+
+Bare Escentuals Inc.   
+71 Stevenson Street, 22nd Floor   
+San Francisco, CA 94105   
+(888) 795-4747   
+[customerservice@bareminerals.com ](mailto:customerservice@bareminerals.com)
+
+Back to top
