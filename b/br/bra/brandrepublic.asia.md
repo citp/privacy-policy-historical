@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the brandrepublic.asia privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523013004id_/http%3A//www.campaignasia.com/Page/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandrepublic.asia privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523172727id_/http%3A//www.campaignasia.com/Page/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Info - Campaign Asia
+# Privacy Policy - Campaign Asia
 
 This is the Hong Kong Privacy Policy of Haymarket Media Ltd.  (Haymarket)
 
-Our contact details are as follows: 23/F The Centrum, 60 Wyndham Street, Central, Hong Kong.  Tel: +852 3118 1500 and Fax: + 852 2968 0755.
+Our contact details are as follows: 23/F The Centrium, 60 Wyndham Street, Central, Hong Kong.  Tel: +852 3118 1500 and Fax: + 852 2968 0755.
 
 Haymarket is committed to protecting your privacy. We have developed this Privacy Policy to describe to you our practices regarding the information we collect from users of our services when you visit our websites, when you give us information or send us communications.
 
@@ -44,7 +44,7 @@ iii. to design services or products for customers’ use;
 
 iv. with your consent we will let you know about any products or services which Haymarket believes may be of interest to you;  you will always be able to unsubscribe or opt-out of receiving these messages.
 
-v. with your consent we will work with our business partners who will send you marketing messages that we have selected (because we think you’ll find them interesting) including but not limited to, Business Solutions, Education and Training, Events, Finance and Investment, Media and Marketing, Subscriptions, Survey and Research and Travel and Leisure.  You will always be able to unsubscribe or opt-out at any time.  These business arrangements help us to save you money and allow us to provide some of our services for free.
+v. with your consent we will work with our business partners who will send you marketing messages that we have selected (because we think you’ll find them interesting) including, but not limited to, Business Solutions, Education & training, Events, Finance & investment, Media & Marketing, Subscriptions, Surveys & Research, Consumer Electronics, Automotive, Sport, and Travel & Leisure.  You will always be able to unsubscribe or opt-out at any time.  These business arrangements help us to save you money and allow us to provide some of our services for free.
 
 vi. to invite you to share your opinions and comments;
 
