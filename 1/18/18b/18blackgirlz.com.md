@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 18blackgirlz.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120224734id_/http%3A//www.18blackgirlz.com/legal.php%3Fpg%3Dprivacy%26l%3D19396%26t%3D33777%26v%3Ddesktop%26lg%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 18blackgirlz.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524004110id_/http%3A//www.18blackgirlz.com/legal.php%3Fpg%3Dprivacy%26l%3D19396%26t%3D33777%26v%3Ddesktop%26lg%3Dus) for the most accurate reproduction.*
 
 # LEGAL
 
