@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the lifeisgood.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122142601id_/http%3A//www.lifeisgood.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeisgood.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523210005id_/http%3A//www.lifeisgood.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Life is good Privacy Policy
-
-## Your Privacy
+# Privacy Policy | Life is good
 
 At Life is good, we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized shopping experience. Please read on for more details about our privacy policy.
 
