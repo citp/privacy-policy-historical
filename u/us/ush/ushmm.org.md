@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ushmm.org privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118065012id_/http%3A//www.ushmm.org/copyright-and-legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ushmm.org privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523062151id_/http%3A//www.ushmm.org/copyright-and-legal-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — United States Holocaust Memorial Museum
 
