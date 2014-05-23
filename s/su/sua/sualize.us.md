@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sualize.us privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108020430id_/http%3A//vi.sualize.us/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sualize.us privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523033614id_/http%3A//vi.sualize.us/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy on VisualizeUs
 
