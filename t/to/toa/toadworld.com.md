@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toadworld.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122104836id_/http%3A//www.quest.com/legal/privacy-thirdparty.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toadworld.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524004236id_/http%3A//www.quest.com/legal/privacy-thirdparty.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
