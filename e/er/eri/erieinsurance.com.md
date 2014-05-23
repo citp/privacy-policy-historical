@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the erieinsurance.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113220307id_/http%3A//www.erieinsurance.com/root/PrivacyNotice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erieinsurance.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523235838id_/http%3A//www.erieinsurance.com/root/PrivacyNotice.aspx) for the most accurate reproduction.*
 
-# Privacy Notice Erie Insurance
+# Privacy Notice from Erie Insurance
 
 The privacy and security of your personal information is important to us. This notice will inform you about our policies and procedures concerning the personal information about you that we collect, maintain and disclose in connection with the insurance policies you obtain from us. In order to offer the highest quality insurance products at the lowest possible rates, we collect, maintain, and, in some instances, disclose "nonpublic personal information" about you. Nonpublic personal information may include your name, address, social security number, wage information, driving record, policy coverages, medical information or credit history. It may also include transaction information such as your premium payment or claims history with us. We appreciate the importance of your personal privacy and are committed to protecting it as we provide for your insurance needs.
 
-Questions concerning our privacy policy may be sent to us at Customer Service Department, 100 Erie Insurance Place, Erie, PA 16530. You may also [contact us through our Web site](https://web.archive.org/Applications/Forms/Email-customer-service.aspx).
+Questions concerning our privacy policy may be sent to us at Customer Service Department, 100 Erie Insurance Place, Erie, PA 16530. You may also [contact us through our Web site](https://web.archive.org/customer-service/email-us).
 
 ## Collection of Information
 
@@ -38,11 +38,11 @@ While your nonpublic personal information is under our control, access is limite
 
 ## Corporate Code of Conduct
 
-Read more about ERIE's [code of conduct](https://web.archive.org/web/20131113220307id_/http://www.erieinsurance.com/CodeOfConduct.pdf).
+Read more about ERIE's [code of conduct](https://web.archive.org/-/media/Files/Investors/CodeOfConduct.pdf).
 
 ## Code of Ethics for Senior Financial Officers
 
-Read more about ERIE's [code of ethics for Senior Financial Officers](https://web.archive.org/web/20131113220307id_/http://www.erieinsurance.com/CodeOfEthics.pdf). 
+Read more about ERIE's [code of ethics for Senior Financial Officers](https://web.archive.org/-/media/Files/Investors/CodeOfEthics.pdf). 
 
 ## Affiliates of Erie Insurance Group
 
@@ -55,6 +55,4 @@ Read more about ERIE's [code of ethics for Senior Financial Officers](https://we
   * FLAGSHIP CITY INSURANCE COMPANY
   * E I SERVICE CORP.
 
-
-  *   *   *   *   * 
 
