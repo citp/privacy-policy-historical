@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inforum.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209165955id_/http%3A//www.inforum.com/event/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inforum.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523233734id_/http%3A//www.inforum.com/event/privacy) for the most accurate reproduction.*
 
 # INFORUM | Fargo, ND
 
@@ -10,7 +10,7 @@ Forum Communications Company
 Address: 101 5th Street North, Fargo, ND, 58102  
 Phone: 701-451-5628  
 Fax: 701-451-5633  
-email: [inforum@fccinteractive.com](mailto:inforum@fccinteractive.com?subject=Privacy%20Policy)
+email: [news@forumcomm.com](mailto:news@forumcomm.com?subject=Privacy%20Policy)
 
 Forum Communications Company  is committed to respecting your privacy rights when visiting any Forum Communications Company web site, such as this one. To protect your personal information, Forum Communications Company has adopted the guidelines outlined below.
 
@@ -76,4 +76,4 @@ You may also at any time choose to change or delete your profile from our databa
 Forum Communications Company maintains industry standard safeguards to ensure the security, integrity and privacy of the personal information that you provide to Forum Communications Company.
 
 **Contacting Us**  
-If you have any questions or comments about our Privacy Policy, please e-mail us at [inforum@fccinteractive.com](mailto:inforum@fccinteractive.com?subject=Privacy%20Policy)
+If you have any questions or comments about our Privacy Policy, please e-mail us at [news@forumcomm.com](mailto:news@forumcomm.com?subject=Privacy%20Policy)
