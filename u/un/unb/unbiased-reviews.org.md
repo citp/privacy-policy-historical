@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unbiased-reviews.org privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113163354id_/http%3A//unbiased-reviews.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unbiased-reviews.org privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523223318id_/http%3A//unbiased-reviews.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Unbiased Reviews
 
