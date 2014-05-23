@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the noulinx.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226143200id_/http%3A//www.noulinx.com/%3Fp%3Dlp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noulinx.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523130138id_/http%3A//www.noulinx.com/%3Fp%3Dlp) for the most accurate reproduction.*
 
 # NouLinx - Privacy policy
 
 Privacy Policy
 
 This privacy policy regards how we store and deal with your user information.  
-As a registered user at NouLinx, you have agreed to have read, understood, and accepted the following terms and conditions of this Privacy Policy. 
+As a registered member at NouLinx, you have agreed to have read, understood, and accepted the following terms and conditions of this Privacy Policy. 
 
 **What information do we collect?**
 
